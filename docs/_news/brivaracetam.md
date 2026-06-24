@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,16 +45,22 @@ permalink: /news/brivaracetam/
 <li>Rett syndrome, congenital variant（98.8%）</li>
 <li>restless legs syndrome（98.1%）</li>
 <li>partial motor epilepsy（97.8%）</li>
-<li>epilepsy（96.2%）</li>
+<li class="indication-matched">epilepsy（96.2%）<span class="indication-tag">📰 epilepsia</span></li>
 <li>trigeminal nerve neoplasm（95.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Un nuevo genérico de Teva amplía las opciones terapéuticas frente a la epilepsia - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWm9iZUF6Z2tvVmljMGV6eVFQakVkSFY5OVJxV1IzdThaWXlhcDJhMXA0NjdHQ2xDVlZvUElVank2Q0Q5Mnlzb01jNVA0dG1JaWM4QUlNaE1adzJHSUVXamV2eEtQUkFZa215Nzg2WnJtM1hKRkxER1l2emVrajg2R3h2N2kwSmJuWHpQU1RZYlVqUThZaThrWkNBUEZ5bWRSSnZsTUFBYV9DNFNZU1dLNFlaTTdwSmVZU29LQUM0Y9IBugFBVV95cUxPQVdnLWZMUDlFZ3NDWXRrNlJjeU5lRmtZdU4tOUlIYktLN2dWdGNsZEMteVpzUGZoUHlsOWRkMnB4bzdKT1kycmNad21RVFV6WkJYdnpZYVp4LTNUdnM1T0pxUl9UOW0za2YyeTkwX0dyQjNsRnMyTDV4bjJRUWZOcG5GR3pVdVVGUXhpRXd6Y1lDYzdMbWVYbzNzUUZoTzVLMktqczJkVXRSUkJrbkJnbHE4TnRiZHNuNEE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">epilepsia</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWm9iZUF6Z2tvVmljMGV6eVFQakVkSFY5OVJxV1IzdThaWXlhcDJhMXA0NjdHQ2xDVlZvUElVank2Q0Q5Mnlzb01jNVA0dG1JaWM4QUlNaE1adzJHSUVXamV2eEtQUkFZa215Nzg2WnJtM1hKRkxER1l2emVrajg2R3h2N2kwSmJuWHpQU1RZYlVqUThZaThrWkNBUEZ5bWRSSnZsTUFBYV9DNFNZU1dLNFlaTTdwSmVZU29LQUM0Y9IBugFBVV95cUxPQVdnLWZMUDlFZ3NDWXRrNlJjeU5lRmtZdU4tOUlIYktLN2dWdGNsZEMteVpzUGZoUHlsOWRkMnB4bzdKT1kycmNad21RVFV6WkJYdnpZYVp4LTNUdnM1T0pxUl9UOW0za2YyeTkwX0dyQjNsRnMyTDV4bjJRUWZOcG5GR3pVdVVGUXhpRXd6Y1lDYzdMbWVYbzNzUUZoTzVLMktqczJkVXRSUkJrbkJnbHE4TnRiZHNuNEE?oc=5)
+
+---
 
 
 <div class="disclaimer">

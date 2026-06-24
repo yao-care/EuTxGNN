@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+
+---
+
+### [El doctor Javier Ampuero y la salud del hígado: "Cuando el organismo mantiene durante años un exceso de calorías, con una mala regulación del metabolismo, esa fábrica que es el hígado guarda más grasa de la que puede gestionar" - Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">obesidad</span>
+
+來源：[Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+
+---
+
+### [En verano aumenta el riesgo cardiovascular: "El cuerpo trabaja mucho más y eso tiene un coste cardíaco real"](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
+
+2026-06-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
+
+---
 
 ### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
 2026-06-23 <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
-
----
-
-### [Investigadores de la UGR detectan en el ADN huellas asociadas al impacto de la obesidad y el entorno en la salud infantil - Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span>
-
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
-
----
-
-### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
 
 ---
 
@@ -94,27 +102,27 @@ permalink: /news/orlistat/
 
 ---
 
-### [Cuando el calor espesa la sangre: así aumentan las temperaturas extremas el riesgo de ictus - El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">stroke</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
-
----
-
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
 ---
 
-### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
+
+---
+
+### [Ce fruit d'été est "le meilleur pour votre cœur et votre cerveau" selon ce cardiologue](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
+
+2026-06-22 <span class="news-indication-tag">AVC</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
 
 ---
 

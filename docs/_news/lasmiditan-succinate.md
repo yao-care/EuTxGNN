@@ -54,27 +54,35 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（9 則）
 
+### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+
+---
+
+### [El doctor Javier Ampuero y la salud del hígado: "Cuando el organismo mantiene durante años un exceso de calorías, con una mala regulación del metabolismo, esa fábrica que es el hígado guarda más grasa de la que puede gestionar" - Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">obesidad</span>
+
+來源：[Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
+
+---
+
+### [Manejo del dolor orofacial: su relación con migrañas y ansiedad cambia el abordaje](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
+
+2026-06-24 <span class="news-indication-tag">migraña</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
+
+---
+
 ### [elEconomista.es | El aviso que preocupa a los neurólogos en plena ola de calor: el calor extremo puede agravar las migrañas en miles de personas en España - El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
 
 2026-06-23 <span class="news-indication-tag">migraña</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
-
----
-
-### [Investigadores de la UGR detectan en el ADN huellas asociadas al impacto de la obesidad y el entorno en la salud infantil - Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span>
-
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
-
----
-
-### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
 
 ---
 
@@ -102,19 +110,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
-### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
 
 ---
 

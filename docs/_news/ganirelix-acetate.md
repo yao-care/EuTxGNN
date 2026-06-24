@@ -14,7 +14,7 @@ permalink: /news/ganirelix-acetate/
 ---
 
 <p class="key-answer" data-question="Ganirelix Acetate 有什麼相關新聞？">
-<strong>Ganirelix Acetate</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ganirelix Acetate</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/ganirelix-acetate/
 <p><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（26 則）
+
+### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [Una noche sin dormir altera el equilibrio celular del cerebro](https://news.google.com/rss/articles/CBMingFBVV95cUxQanBfRkhmLXBNU2NYSFZNbVRoRkQtdkNkUWR6eDZlYmZNNmNVTXRwVk5TbWw1SHNtVENaejZ1UFA3a3owOFZ3Tlg0MnJjZ3NGbFlGazVZZjlzbTR4LXVaQ18yYjhiTjNHRUdXMjVkV0dtQ0RMWUlBMDY5VGlKLTZnQ1ZMcFNIMFRVZjRpdVljTGhrelpHejVQMy0yTzBSUQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">AF</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMingFBVV95cUxQanBfRkhmLXBNU2NYSFZNbVRoRkQtdkNkUWR6eDZlYmZNNmNVTXRwVk5TbWw1SHNtVENaejZ1UFA3a3owOFZ3Tlg0MnJjZ3NGbFlGazVZZjlzbTR4LXVaQ18yYjhiTjNHRUdXMjVkV0dtQ0RMWUlBMDY5VGlKLTZnQ1ZMcFNIMFRVZjRpdVljTGhrelpHejVQMy0yTzBSUQ?oc=5)
+
+---
+
+### [Vorhofflimmern: Nierenabbau 3x schneller, besonders bei Frauen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEFkU0FyVWhZMEhMdi15WlR0cEJtRnhXQzNWSkU0aGx6VnhWMTlnS2ZiVjE1WkhlMkJUNlkxSkVhMF9henRUSzRYdzIwQ3o4bS1kMGgteHFsVk1pd3FGT0IzaHJZR1F6U0R3N09PSmZLb01ROEhIazllYm5Mc0lBei1PTzZpdTdscE44N1NWT1hFVHlJOHVEazJ3VG5NaGtOMWxYeF9QS0ZwOEFtT3c?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEFkU0FyVWhZMEhMdi15WlR0cEJtRnhXQzNWSkU0aGx6VnhWMTlnS2ZiVjE1WkhlMkJUNlkxSkVhMF9henRUSzRYdzIwQ3o4bS1kMGgteHFsVk1pd3FGT0IzaHJZR1F6U0R3N09PSmZLb01ROEhIazllYm5Mc0lBei1PTzZpdTdscE44N1NWT1hFVHlJOHVEazJ3VG5NaGtOMWxYeF9QS0ZwOEFtT3c?oc=5)
+
+---
+
+### [Quelle tomate est la meilleure pour la santé ? - Madame Figaro](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFJoNU11ajBHcl9GZVFaSl92RkszdnRXVl9NbExKSlZtRHFtQjg1RW0wd1Vfa0NDRTlXTDg1UmRjTmRtUVY2UjRTZ3R5ZTY4Nlpvc3hKMjlHY3AyaXZ5TlF6UFlRMmE4UUYzRHhKREVEV2hkVHFEZC1sMVg0R1RxWTd3NU1zWjU5TFczU0JGS085QmxyVnZzN2FwLXJnakNYNVE?oc=5)
+
+2026-06-24 <span class="news-indication-tag">AF</span>
+
+來源：[Madame Figaro](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFJoNU11ajBHcl9GZVFaSl92RkszdnRXVl9NbExKSlZtRHFtQjg1RW0wd1Vfa0NDRTlXTDg1UmRjTmRtUVY2UjRTZ3R5ZTY4Nlpvc3hKMjlHY3AyaXZ5TlF6UFlRMmE4UUYzRHhKREVEV2hkVHFEZC1sMVg0R1RxWTd3NU1zWjU5TFczU0JGS085QmxyVnZzN2FwLXJnakNYNVE?oc=5)
+
+---
 
 ### [Katheterablation bald First-Line-Therapie auch bei persistierendem Vorhofflimmern?](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZEQxN3lHRTZLODQwRjc4Ui1OaGJudGY0WDcwZmx5d3Q5NG9GSnhJLWxMT0dVb1lCTnRtTUVRWk5jZmxKVE1ZaXJub05pTXNkOWhuUkhSOHFXQ1NCR2U5cDB5UUxPZERmc0lNbHFUUlgtVjBYX180QVJveEt4OGR6WEFNRUZDbGNjTVJJWTRZT0h2RlRnbHpaZ3BlLS1KU25GbW8zTzF5TE5oTTM3QnJONGsxTGhCcFVqNDcwWnFUM0FLeDgzMlRuejF3?oc=5)
 
 2026-06-24 <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZEQxN3lHRTZLODQwRjc4Ui1OaGJudGY0WDcwZmx5d3Q5NG9GSnhJLWxMT0dVb1lCTnRtTUVRWk5jZmxKVE1ZaXJub05pTXNkOWhuUkhSOHFXQ1NCR2U5cDB5UUxPZERmc0lNbHFUUlgtVjBYX180QVJveEt4OGR6WEFNRUZDbGNjTVJJWTRZT0h2RlRnbHpaZ3BlLS1KU25GbW8zTzF5TE5oTTM3QnJONGsxTGhCcFVqNDcwWnFUM0FLeDgzMlRuejF3?oc=5)
-
----
-
-### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
-
----
-
-### [Schlafentzug erhöht SV2A-Synapsenmarker im menschlichen Gehirn - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOa283TEc2SmlESWZOUTBqWHB0SHQwc1lYQTBtRXBIY21Oem1lQW9sSDlMdHhOTktRVGhiWGFQX1RkN2ZRZHgyQUcyeGNfN21JTVFfMzlMVnVoSjhrc25WZ2piM1FhMU9xZDFDNU5MRHFjWjRoNE5mRExEeUVfbTQ2RUlLZWkySEJOMG5DcXZ3aDBkdWlEMlFNUk0wZw?oc=5)
-
-2026-06-23 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOa283TEc2SmlESWZOUTBqWHB0SHQwc1lYQTBtRXBIY21Oem1lQW9sSDlMdHhOTktRVGhiWGFQX1RkN2ZRZHgyQUcyeGNfN21JTVFfMzlMVnVoSjhrc25WZ2piM1FhMU9xZDFDNU5MRHFjWjRoNE5mRExEeUVfbTQ2RUlLZWkySEJOMG5DcXZ3aDBkdWlEMlFNUk0wZw?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Hat Abnehmen (k)einen Effekt auf Vorhofflimmern?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEdzTUdfVFNHVFJGcmlWRERXU0NKNmJINTZfRWxIcVE2RUQ3U18ybDRSQ1E2VmxBOW1aWWgxZ2RyTUlSR0NRLWU4d2FrU2c1YXY5UWtRVWg3UklmVE9EWkZYSFBnSXpCTVhPd1BSQzd0NWpsMnlnZDNsbmpSWXZfaE9IcDhPcnVROFMzZHhZUk9fQ0NmRmtYdlNJLVNPWnM2cF9WcTI0MDR6ZDFp?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEdzTUdfVFNHVFJGcmlWRERXU0NKNmJINTZfRWxIcVE2RUQ3U18ybDRSQ1E2VmxBOW1aWWgxZ2RyTUlSR0NRLWU4d2FrU2c1YXY5UWtRVWg3UklmVE9EWkZYSFBnSXpCTVhPd1BSQzd0NWpsMnlnZDNsbmpSWXZfaE9IcDhPcnVROFMzZHhZUk9fQ0NmRmtYdlNJLVNPWnM2cF9WcTI0MDR6ZDFp?oc=5)
-
----
-
-### [Exponerse al sol sin gafas de sol no tiene beneficios para los ojos, sino todo lo contrario](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjU2Z2ctMTV3MG5FejBSbDFzeHlLQjhyVi1LQXQtaHhyNnJsN2ZNVUdFVF9FZkR6MGhORWctbjZFSVphVUNacHNwVmMxcnJadVE3NXhpZ09PdnV0NjhObVd2R1Vrb1IxWmRMM010WllIRFBzaW5ieWU5bGR3d1YtUkJQVWd5VzFtV29jeUFwWkFKTUFlUXVhVDhRMFd1eDg1VUp5Q0VxMTNYenhraTByWlRiLVNSZzY3Y2lqdFI2TDd0RWh2Mzl0eHNwR3NfNlEwSnpScjlVQm4zVE5OUXl0dUtTS3JGOWU4d0RIUkIxM1pNMGc?oc=5)
+### [Nährstoffaufnahme: Kaffee reduziert Eisenaufnahme um bis zu 66%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0s5cHQ1cFBfNFk1Y0xiNkVxWEpRMmFhZEdrYU83aXZPcGxQMUl2RVN3Z1pHMWVKdVJTUHM5Z29IQV9XSnh2WUhldXVDYjlxWVhlaGY0TzFMb0F3Ymc5QlNKMzd4bE1tV3J5aHBMZ1BjRzRVSllWRlNEQ1pabG02NjN1aUxONk1tWVE5VF9oNjVqNlBUTThWazJMbnIwZmJWYldYVWlmRl96OTZLTEVVakEyVlVOMmJzQnpJ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[Maldita.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjU2Z2ctMTV3MG5FejBSbDFzeHlLQjhyVi1LQXQtaHhyNnJsN2ZNVUdFVF9FZkR6MGhORWctbjZFSVphVUNacHNwVmMxcnJadVE3NXhpZ09PdnV0NjhObVd2R1Vrb1IxWmRMM010WllIRFBzaW5ieWU5bGR3d1YtUkJQVWd5VzFtV29jeUFwWkFKTUFlUXVhVDhRMFd1eDg1VUp5Q0VxMTNYenhraTByWlRiLVNSZzY3Y2lqdFI2TDd0RWh2Mzl0eHNwR3NfNlEwSnpScjlVQm4zVE5OUXl0dUtTS3JGOWU4d0RIUkIxM1pNMGc?oc=5)
-
----
-
-### [Nährstoffaufnahme: Kaffee reduziert Eisenaufnahme um bis zu 66% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0s5cHQ1cFBfNFk1Y0xiNkVxWEpRMmFhZEdrYU83aXZPcGxQMUl2RVN3Z1pHMWVKdVJTUHM5Z29IQV9XSnh2WUhldXVDYjlxWVhlaGY0TzFMb0F3Ymc5QlNKMzd4bE1tV3J5aHBMZ1BjRzRVSllWRlNEQ1pabG02NjN1aUxONk1tWVE5VF9oNjVqNlBUTThWazJMbnIwZmJWYldYVWlmRl96OTZLTEVVakEyVlVOMmJzQnpJ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0s5cHQ1cFBfNFk1Y0xiNkVxWEpRMmFhZEdrYU83aXZPcGxQMUl2RVN3Z1pHMWVKdVJTUHM5Z29IQV9XSnh2WUhldXVDYjlxWVhlaGY0TzFMb0F3Ymc5QlNKMzd4bE1tV3J5aHBMZ1BjRzRVSllWRlNEQ1pabG02NjN1aUxONk1tWVE5VF9oNjVqNlBUTThWazJMbnIwZmJWYldYVWlmRl96OTZLTEVVakEyVlVOMmJzQnpJ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0s5cHQ1cFBfNFk1Y0xiNkVxWEpRMmFhZEdrYU83aXZPcGxQMUl2RVN3Z1pHMWVKdVJTUHM5Z29IQV9XSnh2WUhldXVDYjlxWVhlaGY0TzFMb0F3Ymc5QlNKMzd4bE1tV3J5aHBMZ1BjRzRVSllWRlNEQ1pabG02NjN1aUxONk1tWVE5VF9oNjVqNlBUTThWazJMbnIwZmJWYldYVWlmRl96OTZLTEVVakEyVlVOMmJzQnpJ?oc=5)
 
 ---
 
@@ -134,11 +134,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [TinyCareHome: Neue Wohnform für die Pflege von morgen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
+### [TinyCareHome: Neue Wohnform für die Pflege von morgen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SbEJldW1UYjZobjJpY2lyclZGUnVGZHJwbk9BZVpCOGllTFlyWExOTUlVYkVkSmpGSTd0MmItUUJrY0c3dEtqenpIQQ?oc=5)
 
 ---
 
@@ -147,14 +147,6 @@ permalink: /news/ganirelix-acetate/
 2026-06-23 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxObGRwN1lhSVY5aU1JZVJ5c0dfTW1NMU00ajVjODBJTy1ndlNldFRCMjhsZUlwSXZjNFgyaUQzUmR5RW1lWm9FZjViOTJMM2doc1NVRXhhR0VQM2hqYWZFVW5wZ2ZFRkFLenBVeEQ2Wk92YTN2anhKQzRoSnJOa0lua21SNUZqMzNGQm5qSzV5aU00SUZ6dmhSd1BqODVEOEVsZjRRbDg5TzgzMUo5b0NNQ0RLUQ?oc=5)
-
----
-
-### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
 
 ---
 
@@ -182,19 +174,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [El avance que podría ayudar a proteger el corazón de miles de pacientes que reciben tratamientos contra el cáncer - El Economista](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdUxzd2tvdWRyeDBuV1FHX2t2RjU0eHJfUFpXbXh5SUp0cnZKSnV0QnVVQVhQOXQ1ZnRWTzFJMUt2MmNVYmtzT0ozdnlSTEJ5RUdScEFrOTRoTEtYamRnb1FFcGtzaEQyWDlHa1dTc2FZTl9IaWxEVTA2M21xZVhPei1hNWY2YWRCVlM1M0RPWkl3OEFNZ0x2Vm5rd1JzWGVFaDBKODgyM3FhQUU3ei00WmpTRk1IME5oT2NRLVkwcFZ3bGw1c1FrWHFtZmN5b3R0NHd6a3VVRzQzRjhFVnZ4MkpDMlJ0WjNxNHpNb3owOTFxZ3pCY1hlLWZ1ZUJhdEJ4a0F3MjEwcTUyNG5TZEw1TnNZbVNPYk9JRHRvSzh2U1dHaDZ1TjVWNnptRdIBlgJBVV95cUxOMjJ5aF9VQURSTG1zSHVEczBwSjRVM1FYNnVLMUNST2QxS3c2aEhlUW55elgyaGNZdVh2VWU1WERCbXgtX096dmo1NG5Cdy1fOFhxaERRTDFhNXh5YXd0WFVFTkFsSnk5dzd0aXIydjRnUXZNQmdVUmZmdkVpZnBCdnBkdUhhaGtSM09fTjlvcF94QTlqY1FUbV91TVVmc1p1Qk1kSTZRalk5cWI2aS1rbHFHNkxfUXlLb3dLallKcFdIWG9ERERwcXZQOTVrVHB4TzhzXzVwcGlmbkJCRzhIU0lFSlZaWEFhb2s3N3B4eHEzdnRvN3FPUTloOWRCUVg4b0k5NE42TXNCTXRKUWszZVlQLWw2UQ?oc=5)
+### [Zwei Jahre, zwei Millionen Wörter: Wie ein Gehirnimplantat das Leben eines ALS-Patienten verwandelte](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3lZSG1pc1FNR2RhSEN3UjV4RU9rMTR4UVA3a0lfWU9idWxDMVp0V01vRWoxVEw2RDRwY1NnaW9Vam55WUtOcUtjbUlHc2Ywa09HMjVwZDE2VldYWHFpM2NRVDM4Uk91VGFodVBqMVFQRmVxb05PaWZDcjMxY0c3R09YZGZTZ0RfclM3SWlUSWlPRkViWWdvNU1JS3g3TWFTWTVoem1YSzItRk9vekJHckRZMlpIRG9sSDZSck9tVEhxT2h3b2xpQ1hndlpLZUNRX0t1Z2hKNFpLZVptT0E?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOdUxzd2tvdWRyeDBuV1FHX2t2RjU0eHJfUFpXbXh5SUp0cnZKSnV0QnVVQVhQOXQ1ZnRWTzFJMUt2MmNVYmtzT0ozdnlSTEJ5RUdScEFrOTRoTEtYamRnb1FFcGtzaEQyWDlHa1dTc2FZTl9IaWxEVTA2M21xZVhPei1hNWY2YWRCVlM1M0RPWkl3OEFNZ0x2Vm5rd1JzWGVFaDBKODgyM3FhQUU3ei00WmpTRk1IME5oT2NRLVkwcFZ3bGw1c1FrWHFtZmN5b3R0NHd6a3VVRzQzRjhFVnZ4MkpDMlJ0WjNxNHpNb3owOTFxZ3pCY1hlLWZ1ZUJhdEJ4a0F3MjEwcTUyNG5TZEw1TnNZbVNPYk9JRHRvSzh2U1dHaDZ1TjVWNnptRdIBlgJBVV95cUxOMjJ5aF9VQURSTG1zSHVEczBwSjRVM1FYNnVLMUNST2QxS3c2aEhlUW55elgyaGNZdVh2VWU1WERCbXgtX096dmo1NG5Cdy1fOFhxaERRTDFhNXh5YXd0WFVFTkFsSnk5dzd0aXIydjRnUXZNQmdVUmZmdkVpZnBCdnBkdUhhaGtSM09fTjlvcF94QTlqY1FUbV91TVVmc1p1Qk1kSTZRalk5cWI2aS1rbHFHNkxfUXlLb3dLallKcFdIWG9ERERwcXZQOTVrVHB4TzhzXzVwcGlmbkJCRzhIU0lFSlZaWEFhb2s3N3B4eHEzdnRvN3FPUTloOWRCUVg4b0k5NE42TXNCTXRKUWszZVlQLWw2UQ?oc=5)
-
----
-
-### [Cuando el calor espesa la sangre: así aumentan las temperaturas extremas el riesgo de ictus - El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
-
-2026-06-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS3lZSG1pc1FNR2RhSEN3UjV4RU9rMTR4UVA3a0lfWU9idWxDMVp0V01vRWoxVEw2RDRwY1NnaW9Vam55WUtOcUtjbUlHc2Ywa09HMjVwZDE2VldYWHFpM2NRVDM4Uk91VGFodVBqMVFQRmVxb05PaWZDcjMxY0c3R09YZGZTZ0RfclM3SWlUSWlPRkViWWdvNU1JS3g3TWFTWTVoem1YSzItRk9vekJHckRZMlpIRG9sSDZSck9tVEhxT2h3b2xpQ1hndlpLZUNRX0t1Z2hKNFpLZVptT0E?oc=5)
 
 ---
 
@@ -222,22 +206,6 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Mum, 32, given terminal diagnosis after GPs blamed symptoms on parenthood - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
-
----
-
-### [My mum died in days after 'ingrown hair sparked horror flesh-eating bug' - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQckFlc1dHbEUzemlleVB2TGdmV2xrQlc4Skt4UE14T2RqMTkzZEtXOFFMUHBfM3BZY3d4akRZV2tlNGZOenZDSkFOQzh4YmFya1d2Y0plQmtocmNsX3ItT2tlTnVTX2liX1h1RkxoWnI0R3cwU1l0RmVBdkl2Y3N6d1NMU2czV1NsYUpGRA?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxQckFlc1dHbEUzemlleVB2TGdmV2xrQlc4Skt4UE14T2RqMTkzZEtXOFFMUHBfM3BZY3d4akRZV2tlNGZOenZDSkFOQzh4YmFya1d2Y0plQmtocmNsX3ItT2tlTnVTX2liX1h1RkxoWnI0R3cwU1l0RmVBdkl2Y3N6d1NMU2czV1NsYUpGRA?oc=5)
-
----
-
 ### [If you take blood pressure pills, you need to heed this warning - The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5)
 
 2026-06-22 <span class="news-indication-tag">AF</span>
@@ -251,14 +219,6 @@ permalink: /news/ganirelix-acetate/
 2026-06-22 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFM4SFNjeG9BeWdDeWQtWGYtU1NfOUEzMURua2NCRERDaWRZZ0JuMmllY2ZDRGZ0MFhGRVgwOHNyOXZaVUtkbUZLNFZudnJPUl84Y0c3M0RjVXVPenJqZXBlaHpkTmtlbEZTNkZxM0hWX3JGMnAteDJzNHYtQ0lleFBzeXc0YWZadmJlczBHQ0NfbDRLdEVJaExfaDFjcnpKdzREQjFlNWtjYmdUcEVNVkpGczljcDJvTGRkXzl6X21YbEZ3bUxycE43eUs4Y2tBS202ZDY0aWpIYjNuekpSZGlDTk9tN1E?oc=5)
-
----
-
-### [Ce fruit d'été est "le meilleur pour votre cœur et votre cerveau" selon ce cardiologue](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
-
-2026-06-22 <span class="news-indication-tag">AF</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
 
 ---
 
@@ -299,14 +259,6 @@ permalink: /news/ganirelix-acetate/
 2026-06-22 <span class="news-indication-tag">AF</span>
 
 來源：[franceinfo](https://news.google.com/rss/articles/CBMilAJBVV95cUxNSnZPU3NyM2czRkN3Q0s1WXVBNVFlQllUQ2RsYjczS1pGdTI2bHVNNEdlWkU0eEl2TlRwc1dPU01TWXo1RFk2WElyUUVBYmhyRjdsWThaNldKc1dNWnZDRDFIMGk0UnEzd0pjSGRvN1hHejBTdDNFUnA5clpKNzI4OElZTkdrdTVQYU1DbkNKOTY3TWFoWVRkdkZFU3FabW55X0hKZzIwaVQ5Q016a3AyQW5XV0w5UFZSazZsVXNoVVdmVEVGTUpRTjdJM3lnelI2ZG5XZ1Z1aFpKOWFxNDdWbDZLMC1SanNWLWFqRm10VU8zR1MyTHN4bUMwQTBzdzgyZXNvNE1zUF9od1dtbnM0a3l2SWI?oc=5)
-
----
-
-### [Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
-
-2026-06-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
 
 ---
 

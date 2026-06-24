@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Dementia risk linked to eating 1 type of food, research shows - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEhDWmphSFBJUkdaNy1DTjRrSURfM2VVQ0d3a2lXbmZSSjNNUXV2bjkwNS1na21YVUhKUTAwMDNwZVhVeldNcnZzMVpHT3E5cW5pc1lNZE9xWGMyNEUxcm5uZ0lZMEg1N2E2X1ljSmF3T3FvV2VNMVVvS2NnX2pkStIBhgFBVV95cUxPU3RmWVRoWWUzVkZyaWlKY09LQm5EVjFiSGlydUM0NVpBOE14WUtVMW54SVdRVEJUVlZzMWdwaXpjM3pCTFltcDkyQ0ZZanM0THdxeXlpc0NQZmZFOXotbmtHWnV6R3hUTDN1X3V6NHRtOHhPa040QkdTV0hTcVBpTFBpR3hFdw?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/alzheimer-disease/
 2026-06-23
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWV4T3liVzVKU2dHanl6S0FsUUx1bVZ1SHFPZkxZZzBoc0JRUWUyaUZJamR3UUNCMnVNSlBiOUFzQ010LUY3eDZMeUdZRm9FYWUyejQ1cTEtdGJ6RFRwVUhydkh6eUFuUlhreVNrdnRTWlJaQVFPbVlldXo3dXVHdHVqeHM2RFczVWlZc2ZBdnlIRkNROUM2cFdqdEk4NmNVdDdhWjhraFNieFZJWXBV?oc=5)
-
----
-
-### [I’m a dementia expert. Here are six types you probably don’t know about - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldQbERnOGYxWU8xcjZtTWc3elRYd2lVcE9SXzMxR1lQYW0xbDBWZmcwOG9qMzRObXJ2T0JRNmNzN0FpRXJ0WlNpdlJPekFDdkFwSWdCQVVRQUFGdnV0bmNCXzMya2hWZW5RZDFJV21ZU1B5S0UyOUJmU3VhZFVlUXZzb3lUQzk3R2YzLWhlRkJEcmc?oc=5)
-
-2026-06-22
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxNbldQbERnOGYxWU8xcjZtTWc3elRYd2lVcE9SXzMxR1lQYW0xbDBWZmcwOG9qMzRObXJ2T0JRNmNzN0FpRXJ0WlNpdlJPekFDdkFwSWdCQVVRQUFGdnV0bmNCXzMya2hWZW5RZDFJV21ZU1B5S0UyOUJmU3VhZFVlUXZzb3lUQzk3R2YzLWhlRkJEcmc?oc=5)
 
 ---
 

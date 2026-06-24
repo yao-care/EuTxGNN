@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。15 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>15 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm1DNnV5Y1duR21zamtqeGNLNUkxSlZDZ29YZURvaEdYSkZ0Z084aHFQVEJBbmR6NFVDRkdzbHVlM09GVXpTNFdfdmRLTVZqakFyT2VhZ2toaV9yVFl3RXdoSlM0QnlPVzNNcHFuVTN6a1dEcUFnSUtDdC1LUU1fbEZCTEs4M3djY2FlUXA3YXBXaXRydXM1aA?oc=5)
+
+2026-06-24
+
+來源：[t3n](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm1DNnV5Y1duR21zamtqeGNLNUkxSlZDZ29YZURvaEdYSkZ0Z084aHFQVEJBbmR6NFVDRkdzbHVlM09GVXpTNFdfdmRLTVZqakFyT2VhZ2toaV9yVFl3RXdoSlM0QnlPVzNNcHFuVTN6a1dEcUFnSUtDdC1LUU1fbEZCTEs4M3djY2FlUXA3YXBXaXRydXM1aA?oc=5)
+
+---
 
 ### [Want to feel happier at work? Take a five-minute walk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dDNKMDd1VlJqUW1qTUJEcFE1eURUend5Nm1uLVJtUG9uMzA2eFE0ZFhFN0VJek1lU3dqVHUzcjBPNkstOS1ZSlMtNktlVF9lQ1pfeEtSVHZzVUVN?oc=5)
 
@@ -88,11 +96,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
 
 2026-06-23
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+---
+
+### [Autoimmunprozesse: Epstein-Barr-Viren als Diabetes-Bremse - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
+
+2026-06-23
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
 
 ---
 
@@ -120,14 +136,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Mum, 32, given terminal diagnosis after GPs blamed symptoms on parenthood - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
-
-2026-06-22
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2c2bU5HMU4zMlNpR29OMW0ycnJqOEdKczBBT0N5MlZ1WkpxUVFOblJVeTlaOGFkVUM5TjhzelZtVThwRHFCVTJjWVExQWozMVRKaWw1WEpRYkg2by1MMk90c2RJVF83eVA0ZXdHRldYUjN0ZV9PZlFPUVpzS2hhQm530gGHAUFVX3lxTFBCNW5LSTk5ZElWWmxaX3dVeVAwN1dLcGFDdzZmUWhzbkNaSk5BTXpHWlFOSXpIZ0Z0T1V5Z3k0VDhrZmw0SXB6QXZDRlRsR25pdlU4SzZMNTltaV9EVHg3NkxJVWpTNHdUV2xCaVdLVTBlX0R3M3NCbG9VZTVWREVxc3VkYnZvWQ?oc=5)
-
----
-
 ### [StormWall: So könnte man extreme KI-freundliche Weltraumstürme technisch abschwächen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1g2YTlHR1pzdUszLXMtNm1yYVRaZDJoWUxTc3VqSVFlNEw2d2RpUExVLUFhbmxmbThMWE1STC1sSGxPQjBHZW85Tm9Mc1dUajJBcnBzWmFVbGFuTm9tUVBtQkNKemhhOHBXOGZLZGR3MVlsYTVldFg1bm5rM3IwbEpkeXhhQUxWeGRFU0h1RUFoQzFHbkI4WGtJU3JuRXlRRHkySkwzeFVPNWp3S19OTnlMWlIwc2JvaFE?oc=5)
 
 2026-06-22
@@ -144,6 +152,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [People who lift weights live longer – new study - The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHpHMDNCRGYxbjFsTVBPZHJpdUM5aHZvdWtNbk5RcTNYYUtiRER5RHRUYzN0OTNMeGQyUklIZzV0QUhSem55WUVVTlhIZUdBTFZCOGJfWnNvcm9WdDZNOTFlMHdjRExUc1kzSDgtVG5qV24xclhQQWFJYXgxSFczc0FSbGZPaXc?oc=5)
+
+2026-06-22
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHpHMDNCRGYxbjFsTVBPZHJpdUM5aHZvdWtNbk5RcTNYYUtiRER5RHRUYzN0OTNMeGQyUklIZzV0QUhSem55WUVVTlhIZUdBTFZCOGJfWnNvcm9WdDZNOTFlMHdjRExUc1kzSDgtVG5qV24xclhQQWFJYXgxSFczc0FSbGZPaXc?oc=5)
+
+---
+
 ### [Una malattia autoimmune in remissione da 15 anni, grazie alle staminali](https://news.google.com/rss/articles/CBMihAJBVV95cUxPaU92T3Y0eTl4S1EySU15ZDRQUE9qZFRFVTBRdWNjbXZwcGROTlBNd2R4cFRjbTdCZU1LTzI0cmRHUWh3ZXEyeWJBQjF6UFhGbWo0M3FpNHFQcGh2ZUxIZG5mT3ctN1EzVzVncGwtUC1QRVJpQzB0UGpOLU40VXRYeVJXX2FPZkZSQUJheE1KQWk2X1czQXd6TWV5SnRIeTlpZHBHaEloajcxMUdzbTRnSFQ5VHRFRW9ZMFY1dXVubzFnVjFNNV8xNV9uRWJMdVlVamRKTEc1VGktejB6Ynp4ZkJweVl3RnVJYXFLVV84dGNySUdTRDJFV19hc3ZxY01XRXo5b9IBigJBVV95cUxQMkZlMmxmXzVNclZIQXZLWVAzN3NOMGlpOUx6VDA4NURSQ21xbUxqZDdSTzAyZmFDSy02ZEtuQ3R1TGZPSUtMLTFBbzl2R0xLeEJMQ0g0Y0k3LVhJUTZKZ0RaSktVcE1DbFVQRGtEbW01VC1rcVh6VW10YkJnT3RuRXFoVXpZX3lpRU56ckdpUWh6a29yMDVodHpoRHFGaHhBUnR0b1ptTVlRWDJ4Y0ZuRGNZSHp2MEg1UzVNd2p5Wl9tU2MtT21ZQ1hXVnVLeGp6QXF1am1Jd2tRVmNyeGRhakFQMTE4UGFqQ2syc05sX1d1MGExRjVmdm4zcjRjeG8zb251R3JTckNlQQ?oc=5)
 
 2026-06-22
@@ -157,14 +173,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-22
 
 來源：[BikeRadar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1J3UVJGeUMxZDlqRUlKRGE0U0VxcGRvTmpWQURIRUJVYktfQVUtXzVOOWtoOXRwM0VLQUEzMzBZUzZqWVlLeFJ1bmJVQ24zQ3FMWFFEdVk5S25WZHJ3WWowb2xTTmNEWEVUUmFYYkVWV0JFRFlaWTZueDhTdHNNR0ZZTURLUmVmeFNpcS1ha3ctRU5heXBhMWYyNnBObGxZTm9weldFMWozZXRpZGhRTWQwUXVTQQ?oc=5)
-
----
-
-### [Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
-
-2026-06-22
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5)
 
 ---
 

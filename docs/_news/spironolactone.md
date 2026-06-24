@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="Spironolactone 有什麼相關新聞？">
-<strong>Spironolactone</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Spironolactone</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/spironolactone/
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（32 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
-2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 ---
 
-### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
 ---
 
-### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+### [Vorsorge ab 30 und ab 50: So läuft die Brustkrebs-Früherkennung ab](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+---
+
+### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+---
+
+### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/spironolactone/
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
-
----
-
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
 
 ---
 
@@ -110,6 +118,14 @@ permalink: /news/spironolactone/
 
 ---
 
+### [Científicos franceses descubren 8 aditivos que consumimos a diario que incrementan el riesgo de sufrir un problema del corazón - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
+
+2026-06-23 <span class="news-indication-tag">hipertensión</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
+
+---
+
 ### [Wie viel Kaffee am Tag trinken? Ernährungsexpertin nennt Obergrenze - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHFkLTFELTE5T2ZBdlNhaGpPSGRLUFFTOW9wOWVRTGp3d0E4My1fWGZfQjVaQU1tbWg2RGZoNVBYbmp3eFRwQjdFREZWbXZkaHkzX1pfYktubTJYdGMwZ0V4cWhvcVV3WnFwTDRuQmJLX3hsaWloMktIZFZManRWdnkwbnFzaDNtWUYyRjVjMG1jbGpfbHg2el96VGltMzJXUUN1ZlhnVmg5UGFRMmV6NGVn?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -126,11 +142,27 @@ permalink: /news/spironolactone/
 
 ---
 
+### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+---
+
 ### [Le vaccin contre le Covid-19 améliore très légèrement la survie des patients traités par une immunothérapie des cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
+
+---
+
+### [Bauchfett und Krebs: BMI-Anstieg erhöht Risiko für 19 Krebsarten](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
 
 ---
 
@@ -190,6 +222,14 @@ permalink: /news/spironolactone/
 
 ---
 
+### [Il Centro ricerche cliniche di Verona avvia cinque nuovi studi clinici sugli inibitori di Kras](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">tumor</span>
+
+來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
+
+---
+
 ### [A Son Removes His Credit Card From His Mother’s DoorDash Account After Her Cancer Progresses, Leading To Family Disagreement Over Her Care](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -222,14 +262,6 @@ permalink: /news/spironolactone/
 
 ---
 
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
 ### [Susanne Reger-Tan im Interview: „Diabetes verdoppelt das Herzinfarktrisiko“](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1dzS3o4SFh0MlhRdTdsV1lhTXhNMGRBdWk3OGtlbFpuSHJNM1pJeHJzLU5kUTkzNkFoQnZiWVZxSktrbklkY3NzUXM3elRWOFdoV181MUtkcnR4OHdzczZFSmkwT0t6ZENKeWRwQ1ZXTGV0UE9ZWnJVdmJvWFl3cjZlWklicTF4eHp0VzQzZEtWMnltT3pLcV81dHl1dWFmZVJXMkRuSUthZ2JVSkpGWnBrWnIzSG5haEMxUmJTdmFJSjk1U3JTRg?oc=5)
 
 2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -243,6 +275,14 @@ permalink: /news/spironolactone/
 2026-06-22 <span class="news-indication-tag">cancer</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1velVURlh4SjdIME5rczg4dlM0bURXdHVfQU1rdWxBeENUX0pCcldIQkJTOTJ3NU5ueUJvWnUxTUp6ak9xc21CM0MxdG41SEpLWVFDdVpPUi1sMDNES0JHb1EyT2RobXJfRE4xZnJZaw?oc=5)
+
+---
+
+### [Suizid nach Krebsdiagnose: Nicht nur den Körper behandeln](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Krebs</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
 
 ---
 

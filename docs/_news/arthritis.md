@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "artrite（arthritis） 相關新聞"
+title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。3 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# artrite（arthritis） 相關新聞
+# arthritis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
+<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「artrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,13 +101,13 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 2026-06-23
 
-來源：[chip.de](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 ---
 
@@ -116,14 +116,6 @@ permalink: /news/arthritis/
 2026-06-23
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
-
----
-
-### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
-
-2026-06-22
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

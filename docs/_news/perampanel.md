@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li>epilepsy（99.0%）</li>
+<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 epilepsia</span></li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,9 +52,15 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Un nuevo genérico de Teva amplía las opciones terapéuticas frente a la epilepsia - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWm9iZUF6Z2tvVmljMGV6eVFQakVkSFY5OVJxV1IzdThaWXlhcDJhMXA0NjdHQ2xDVlZvUElVank2Q0Q5Mnlzb01jNVA0dG1JaWM4QUlNaE1adzJHSUVXamV2eEtQUkFZa215Nzg2WnJtM1hKRkxER1l2emVrajg2R3h2N2kwSmJuWHpQU1RZYlVqUThZaThrWkNBUEZ5bWRSSnZsTUFBYV9DNFNZU1dLNFlaTTdwSmVZU29LQUM0Y9IBugFBVV95cUxPQVdnLWZMUDlFZ3NDWXRrNlJjeU5lRmtZdU4tOUlIYktLN2dWdGNsZEMteVpzUGZoUHlsOWRkMnB4bzdKT1kycmNad21RVFV6WkJYdnpZYVp4LTNUdnM1T0pxUl9UOW0za2YyeTkwX0dyQjNsRnMyTDV4bjJRUWZOcG5GR3pVdVVGUXhpRXd6Y1lDYzdMbWVYbzNzUUZoTzVLMktqczJkVXRSUkJrbkJnbHE4TnRiZHNuNEE?oc=5)
+
+2026-06-22 <span class="news-indication-tag">epilepsia</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWm9iZUF6Z2tvVmljMGV6eVFQakVkSFY5OVJxV1IzdThaWXlhcDJhMXA0NjdHQ2xDVlZvUElVank2Q0Q5Mnlzb01jNVA0dG1JaWM4QUlNaE1adzJHSUVXamV2eEtQUkFZa215Nzg2WnJtM1hKRkxER1l2emVrajg2R3h2N2kwSmJuWHpQU1RZYlVqUThZaThrWkNBUEZ5bWRSSnZsTUFBYV9DNFNZU1dLNFlaTTdwSmVZU29LQUM0Y9IBugFBVV95cUxPQVdnLWZMUDlFZ3NDWXRrNlJjeU5lRmtZdU4tOUlIYktLN2dWdGNsZEMteVpzUGZoUHlsOWRkMnB4bzdKT1kycmNad21RVFV6WkJYdnpZYVp4LTNUdnM1T0pxUl9UOW0za2YyeTkwX0dyQjNsRnMyTDV4bjJRUWZOcG5GR3pVdVVGUXhpRXd6Y1lDYzdMbWVYbzNzUUZoTzVLMktqczJkVXRSUkJrbkJnbHE4TnRiZHNuNEE?oc=5)
+
+---
 
 
 <div class="disclaimer">

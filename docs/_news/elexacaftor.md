@@ -54,11 +54,19 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（7 則）
 
-### [Omega-3: Studie findet geringe Effekte auf Kognition, aber Hinweise auf verlangsamtenden Alterungsprozess - it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
-2026-06-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSDdVUFY5alZQS0tmRFhsb0VLelJic0lPZWtCclIyeXpTX2JmU1hCLUpvdmYzd2h4dnF6UDlyYTVzalBYWGtSaUQ4RFlweTByZWpnZV9BdDF0SjJ6MnRqbFhtZFNzWnowaTNVeFk1TEZzZGhzYkFEZlBTLUVKblA1bmZvOVAxZjRkVjZrMnpfWnYtNTFBXzVEcDJBa1JfVW9zZnJnWENqZVVWUUVsdzZ0TGFzMlFRUGxzNkM5aVM0dG1zMEtDbTM2YlVsU0hfemNn?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
+
+---
+
+### [Manejo del dolor orofacial: su relación con migrañas y ansiedad cambia el abordaje](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
+
+2026-06-24 <span class="news-indication-tag">migraña</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
 
 ---
 
@@ -70,11 +78,19 @@ permalink: /news/elexacaftor/
 
 ---
 
+### [Científicos franceses descubren 8 aditivos que consumimos a diario que incrementan el riesgo de sufrir un problema del corazón - El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
+
+2026-06-23 <span class="news-indication-tag">hipertensión</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMivAJBVV95cUxOelYzb0lDcGxyZmg5bnJqSGdpc2hkQkRmb0EtalRWRnpkVW9wWVB5UlpWZEpnUVFYTlFRc3lmMHdRaEZyS21MQ2xnRm1rd0d0ZHhEb0pqV0lIRkp2V2hSLWNhZ2NhaU5iaUVta0RwdEhtUE5HUzNFenQwQ2lrcXhYNmdiSW9NeXp3RDZocGF1VUc2QWxWUWVsWUJfa2VYcmlLMlFHRU9pbEw0ZU9UU2pIMi1PcVlJWDg0TzJWb29sTjJNaHItQmtoR005Y1d4YlVBR0xLQ2w1eXJOMURtMmZ3bVZ2OXVYSjN0Yk82UWkzemlNR2NsRDhlc3dhS0FNQzQ3ajhpQ3M3NXpld3g5YjdKaXFWWG50YTBVUUJ4ZXBiZDZSWTF2cUhYS09tZTdfd3RJRkstSkk2clhqN05J?oc=5)
+
+---
+
 ### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">arthritis</span>
 
-來源：[chip.de](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 ---
 
@@ -91,22 +107,6 @@ permalink: /news/elexacaftor/
 2026-06-22 <span class="news-indication-tag">Migräne</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEpKQWQycklxMEw0bjNzT1ljZHZGZDZrdlhDbTAzV2UwSXNWemR3TWtxZ25DQzBxbHFBcHE3OXZUdURnRFhrUEJSa2pOczFlYXA0SS02SlVYVGZFc20tUWhSaEJDX0RENC1YUmFKRzM0V0U2d3JIb1FqTjhvNURueHpLb2paMG9xdnRpbzR1NG1NcVZvbWxpZjZpTmx0WW16a1FhSHBCSUtja25NbzhSNnl4bmQ0c0Y0cmJhdWhFd2Rjb3YtMDJYTnRfUHpodTc0elNCeG15aw?oc=5)
-
----
-
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
-2026-06-22 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
-### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">artrite</span>
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

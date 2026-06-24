@@ -14,7 +14,7 @@ permalink: /news/aztreonam/
 ---
 
 <p class="key-answer" data-question="Aztreonam 有什麼相關新聞？">
-<strong>Aztreonam</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aztreonam</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/aztreonam/
 <p><a href="{{ '/drugs/aztreonam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（31 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
-2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 ---
 
-### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+### [Vorsorge ab 30 und ab 50: So läuft die Brustkrebs-Früherkennung ab](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+---
+
+### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+---
+
+### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/aztreonam/
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
-
----
-
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
 
 ---
 
@@ -118,11 +126,27 @@ permalink: /news/aztreonam/
 
 ---
 
+### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+---
+
 ### [Le vaccin contre le Covid-19 améliore très légèrement la survie des patients traités par une immunothérapie des cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
+
+---
+
+### [Bauchfett und Krebs: BMI-Anstieg erhöht Risiko für 19 Krebsarten](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
 
 ---
 
@@ -182,6 +206,14 @@ permalink: /news/aztreonam/
 
 ---
 
+### [Il Centro ricerche cliniche di Verona avvia cinque nuovi studi clinici sugli inibitori di Kras](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">tumor</span>
+
+來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
+
+---
+
 ### [A Son Removes His Credit Card From His Mother’s DoorDash Account After Her Cancer Progresses, Leading To Family Disagreement Over Her Care](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -238,6 +270,14 @@ permalink: /news/aztreonam/
 
 ---
 
+### [Suizid nach Krebsdiagnose: Nicht nur den Körper behandeln](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
+
+2026-06-22 <span class="news-indication-tag">Krebs</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
+
+---
+
 ### [Tumore alla prostata: il nuovo screening riduce le biopsie inutili - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxPQWtxUnhfOEJ4QldDdEJ6OFZmVkZqbE5jYWdVWFRhZ2Z6UW1SdFVLZ3ZVZzFQMUZ1THFBTlM5cEd1dnpmSm1jS1JHTFJLSkhFWjF0T0Nwd1VjbGlIT3dmeW9yUllHNF9mdlRMaHB4NGJ3Z3NHcS1iaDROTXhEcGN5Nl85bWxVcmVnTnBOc0UtYWdfclZkUDVQQXh2MnZWQQ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">tumor</span>
@@ -259,22 +299,6 @@ permalink: /news/aztreonam/
 2026-06-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Osthessen|News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjdSd0lGZTBsZi1qMWZ1RVZ3ME8xRU1aUmR4TVJjSmxJd2Iydk01cmhTNHF6N2VFSmRGN184ZWRyQ1U0VENpQmhjTlBxcG0xSGJ0NUZDUmQ1N3FLeWpqdmdyN19acEM2bHJKNzA0Njl3aGQ3RlptSnFOZUhXbzlkN184VVJaRktaX1pWWmN2cTlnTU1LcFBzUVNR?oc=5)
-
----
-
-### [Forscher entwickeln Bluttest, der enthüllt, wie alt Organe und Körperzellen wirklich sind](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
-
-2026-06-22 <span class="news-indication-tag">asma</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjdJa2xPNl82aW1OaWlqNWI2bG94LV9VTzQ0X2NGRUluMS1aQjNiMDMtdWFoOUx1WG44WXN6OVFGVXRrQi1Fb3BSY1dXZ194YkZUSU50MjZpaEFEVFdXMlA3X2MwQktBYlFWdFA1SGs1RHQ1WDlaNEFHc3l3YmJpNUxCYWt3SURVQkFHdGY2b0xlb00tTUZDWGN4UUQ5SEVrSVdJeGN1RkJScVJlYVZOdjdaamZ6OFp2V3JnMUpsdC1Ca2h5bHRlRFp2d1BBdFNLUXEzU1JDZWtmYzhROUhzTFJzcjdsOHFRVklPUA?oc=5)
-
----
-
-### [Come cambia il cervello plasmato dai display? Lo spiega il «criticoma» - Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYlhqY2NYSTFMX3JpaFRaTFdvSmlzLWFfdG9vZndHbGZiMUFka1NyYlQ1SDduUEZ6Njh4NnEzYW5LcjBtM21FTi1lYmdfcXBJMXloOHBDUm9xLTV4ZFY0b0k5WV9IaHdMazZqRXpHamo2SlZwdGFQSnhKcEVkU18tbEZqQktGQ3BSRmROclROMjY0SHlXX18tWmI2cFZKMjc1T3RpcnVick9zU3RYcHl4VThMTDM0enczdlpIX2NtRlBveXEzbkM1eFoxYmxka3c5Wkl5QXV1aUFZbDFBWm81ZWxyZENpSERVdmg5NUI2RjA0el9OVGFKY0U2Vk53TUN2SDRyY2pONUJNQ1YzZHfSAZMCQVVfeXFMT2RuajVaS1FZb2d4bDFfRVhma1Q4UGY0SFpnYnJDd2dPcmdHb3Rfa0l5VlhrbG10SHA2Wjk4UlRscUU3MFNhaWtXN1RrYUkwbXIxdWxaRjc0Rm94UE91N19TalpwcUxGVlRrTWpQeG5hX003LTVRTFhKTlR6MUhtdE9DalZ0M0FGMjFxZlhiVFhqTERpQ1dyMk1PWG14a1dBbkZRVER3dG5ici1rMlNqcXRpX3RteHVIN1I4cGgtV1h1NENzUFJWVlAxb1FGVzhJeUtvY0tNYThsbERUeXhjX3NXeE9ReVREeUFjMjFsY3FhV3EwaHM3UFo1THJQWi1FNTRoTnpJeTlKMk9Id3NzWDMtLTQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">asma</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMijgJBVV95cUxNYlhqY2NYSTFMX3JpaFRaTFdvSmlzLWFfdG9vZndHbGZiMUFka1NyYlQ1SDduUEZ6Njh4NnEzYW5LcjBtM21FTi1lYmdfcXBJMXloOHBDUm9xLTV4ZFY0b0k5WV9IaHdMazZqRXpHamo2SlZwdGFQSnhKcEVkU18tbEZqQktGQ3BSRmROclROMjY0SHlXX18tWmI2cFZKMjc1T3RpcnVick9zU3RYcHl4VThMTDM0enczdlpIX2NtRlBveXEzbkM1eFoxYmxka3c5Wkl5QXV1aUFZbDFBWm81ZWxyZENpSERVdmg5NUI2RjA0el9OVGFKY0U2Vk53TUN2SDRyY2pONUJNQ1YzZHfSAZMCQVVfeXFMT2RuajVaS1FZb2d4bDFfRVhma1Q4UGY0SFpnYnJDd2dPcmdHb3Rfa0l5VlhrbG10SHA2Wjk4UlRscUU3MFNhaWtXN1RrYUkwbXIxdWxaRjc0Rm94UE91N19TalpwcUxGVlRrTWpQeG5hX003LTVRTFhKTlR6MUhtdE9DalZ0M0FGMjFxZlhiVFhqTERpQ1dyMk1PWG14a1dBbkZRVER3dG5ici1rMlNqcXRpX3RteHVIN1I4cGgtV1h1NENzUFJWVlAxb1FGVzhJeUtvY0tNYThsbERUeXhjX3NXeE9ReVREeUFjMjFsY3FhV3EwaHM3UFo1THJQWi1FNTRoTnpJeTlKMk9Id3NzWDMtLTQ?oc=5)
 
 ---
 

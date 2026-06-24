@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [El riesgo de cardiopatías se dispara con los embriones congelados: La urgencia de replantear la información y vigilancia prenatal - Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjdQR2Zpa2Y1YVoxb0tDcWl0MXZxb19zVGtvam9Xc3hQQ2tITGdLMXN0VVBidFdaUkJTLXo2OVBqeFhicG5iaTgxbjdkZUpVZENsRmMxZnpUVXg1X0lxRFZzMEotQ05GeU5CY2hyMTVlbHNLS3V2U21WV1ZnRVo3ZlExWHpQUUowMUduOU94VE84SzA3clJfM1diT3lQMFU1TXhUczFGaDROU2N6eDh3SkV5YmxiNjdKZUVQdm5HLWlEbzJ0XzgzRUFtaFQ0clc0T1lSbk1lVkoxQThwLTlVVDF6RHc4S2czMHZZRnlmdHdHd0lpdXdmUlliN01xQ2FWeGUzWVU1ZEEyaVkyVVBR0gGUAkFVX3lxTE1fNVJ0MmZOYm1wdWdGTlo0MWxYUWc3WDBiQ08xMVM5UDJSdXhlanpqRVZJWmxkNS1TTjlDcmFMN24zVkUwQTV1alFWWXl0dnBjUmtOOURzWXp2NE5kbW1BbDIxcmpucGdOZVhVTHNUY0xPZ05xVkJyTjBESGxRcERrOFhadmFxZG5ENWRTcmNGTnFOd0VvYlk5T19mNlYyUlExcEZCUFV2ODBSN25feUhScEdBNmo0QXNCUU9UVFd6RmFBcHZIa2hfUEtJb2ZaNUV2RGtDcHNEZkhsTXp2Y1ozT0ZkVmU2aklGVDdrRE5QYTBEYmRyVUlZMFkyVUt4TTl6SlFXZzk2YTdPaWgyX0JFQS1wTg?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjdQR2Zpa2Y1YVoxb0tDcWl0MXZxb19zVGtvam9Xc3hQQ2tITGdLMXN0VVBidFdaUkJTLXo2OVBqeFhicG5iaTgxbjdkZUpVZENsRmMxZnpUVXg1X0lxRFZzMEotQ05GeU5CY2hyMTVlbHNLS3V2U21WV1ZnRVo3ZlExWHpQUUowMUduOU94VE84SzA3clJfM1diT3lQMFU1TXhUczFGaDROU2N6eDh3SkV5YmxiNjdKZUVQdm5HLWlEbzJ0XzgzRUFtaFQ0clc0T1lSbk1lVkoxQThwLTlVVDF6RHc4S2czMHZZRnlmdHdHd0lpdXdmUlliN01xQ2FWeGUzWVU1ZEEyaVkyVVBR0gGUAkFVX3lxTE1fNVJ0MmZOYm1wdWdGTlo0MWxYUWc3WDBiQ08xMVM5UDJSdXhlanpqRVZJWmxkNS1TTjlDcmFMN24zVkUwQTV1alFWWXl0dnBjUmtOOURzWXp2NE5kbW1BbDIxcmpucGdOZVhVTHNUY0xPZ05xVkJyTjBESGxRcERrOFhadmFxZG5ENWRTcmNGTnFOd0VvYlk5T19mNlYyUlExcEZCUFV2ODBSN25feUhScEdBNmo0QXNCUU9UVFd6RmFBcHZIa2hfUEtJb2ZaNUV2RGtDcHNEZkhsTXp2Y1ozT0ZkVmU2aklGVDdrRE5QYTBEYmRyVUlZMFkyVUt4TTl6SlFXZzk2YTdPaWgyX0JFQS1wTg?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Arthrose-Mittel als Demenz-Treiber? Was laut Facharzt wirklich hinter dem Zucker-Alarm steckt](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">arthritis</span>
 
-來源：[chip.de](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
+來源：[CHIP](https://news.google.com/rss/articles/CBMiigJBVV95cUxONFp0VFd6cmF1YXA2bUMyUGFXYU9QdHJkZXFSZlYtZTNDWTlNNUg4M1VtZHY1Q3p6UXdwbGdmbTltWnExWGdMOEw1NC1RXy0zeUpyVFV4eG5nOE9KTEE3aVJGbGxWMW1sTHVybTZhdnFlMDVyeXhJRXR5NXVaWXU3LVR0WEJmU3g1cVhTUmVHR1ExNEZ1MzJ2SjNlNGRFVnVCX1VTN2VGLUdrMUhaWUhPcklSTXFycEdUUk5WMGpRT0tmVTBzWHhFX1Q4Q191ZEJMVTloVmxhYm5VaHZMdnlrbkhNSmdRTkRTU1lqT3d5d2ZXR0NFWktrSzFzVkhhVmFjUlRvX0dwRS04dw?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/icosapent-ethyl/
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
-
----
-
-### [Artrite reumatoide: nuove linee guida su una malattia polmonare associata - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">artrite</span>
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUhTZDVqa0VGOGd1QjlpRDlnSWtQNDEyQmZfRDhZWnh1a1Y5Y1NXb1JRLVktaVZQUlBWQTNLM1ZOWmlmb3E2WVVrd0xIR0JCUllEbkROdnd1R2hObjlZTzRtVlM2dlJtX3pDWnlmdnY4SVRFOUFrdkc0ZDg1cERPLWdDSURQMzg3aGgzaUw5SlRXMGx4ZWplNUUwTkxvZGl6ZHBMcXN3VQ?oc=5)
 
 ---
 

@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
 
 2026-06-23
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
 
 ---
 

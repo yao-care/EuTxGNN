@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Investigadores de la UGR detectan en el ADN huellas asociadas al impacto de la obesidad y el entorno en la salud infantil - Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
+### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
 
-2026-06-23
+2026-06-24
 
-來源：[Canal UGR](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWUtUUExkajJGZEwtREZuamc4N1dPNnNNaHB2VGRPa3FFc0tQMFNLeXVMYXpXNzRFV3lRNmlZUGF4T0xKTUN2ZVBhdGt4dS1CQ09pVFdIODdvc0FuY1pZaXBBZk1PZw?oc=5)
+來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
 
 ---
 
-### [El hígado graso, un termómetro de la salud metabólica](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+### [El doctor Javier Ampuero y la salud del hígado: "Cuando el organismo mantiene durante años un exceso de calorías, con una mala regulación del metabolismo, esa fábrica que es el hígado guarda más grasa de la que puede gestionar" - Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
 
-2026-06-23
+2026-06-24
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDNKY2lnZTFzNXF2MmdfWHpfTU40YTNZQWVVb1FmdVFUd0VWZnhzRjFMWkJFWmpYSnRVUFBMMnlOMTdHdWRxYTRwemNIRnkzVDU3M2I5cXlUb0c5Y2xYOUJxZkNFQmNaWC1BeDNOeGp6Ulo2ZFI2bHM4alZMbWpyZ0NHSFhZSnhMejZpRFdMWQ?oc=5)
+來源：[Men's Health](https://news.google.com/rss/articles/CBMiigFBVV95cUxNck5QTlZ3VjJmYjJ3ZWdTRXBOeVhpZzJpNUFLNmpTakJBazNCS0NCZkxibjMxNkZiSWxoQi10ZlJYUS1uY0YwSTNOMWJPZUJJNzZrX203VnNKLS1lYmNUZXdMY3ZMbFZKTUQ4QzcyNnlhd2xXdzhvUGIwUll1ZjZfX3hrdUZLRWxKTnc?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [One glass of fruit juice a day raises kids' risk of silent killer disease by 35% - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
+### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
 
 2026-06-22
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFM2Y0xGSG5zQlNnNUF5el9LaVRTUmNvOXhuUTBhQWVyM2hMMWIwQ3pxaGhRSTlJS093aWRpWXE5Z3kxazh2VVQ2dDlPVENyVlliam1RelJycFVrZzZVOTVBZm9VQzFpUm9EWUUzOXBhWVpzUUozcEx1V3B4R2FGVHpOZl9GbjA0ejkwdXE1aEo?oc=5)
-
----
-
-### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
-
-2026-06-22
-
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
 
 ---
 

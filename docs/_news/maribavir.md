@@ -14,7 +14,7 @@ permalink: /news/maribavir/
 ---
 
 <p class="key-answer" data-question="Maribavir 有什麼相關新聞？">
-<strong>Maribavir</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Maribavir</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,61 @@ permalink: /news/maribavir/
 <p><a href="{{ '/drugs/maribavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
-
-### [Fasten: 10% weniger Bauchfett senkt Diabetes-Risiko um 28% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTS00UWgwT25JcFNYQ1l2aVo3S29qMUE1RVZpVEpORGNrajVyNC1fYU56QVktQ1VkREh2SmdwNmFSOFAxTjFiV296ZVJScEE0eDdNZHpiNmdWNFJuSW9MMGZvdmRKQXdJTVRIbTRKWEw0Tmotcl9kNnVmV1FqVDg5Z05GdVJDbk9nQnBzWnhBZ3ptT0lIc0s1VEFjcXNSbDhfczlDdUJfYTI2QjlxTVZZMEhjeGNiVmlvUHpiLQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTS00UWgwT25JcFNYQ1l2aVo3S29qMUE1RVZpVEpORGNrajVyNC1fYU56QVktQ1VkREh2SmdwNmFSOFAxTjFiV296ZVJScEE0eDdNZHpiNmdWNFJuSW9MMGZvdmRKQXdJTVRIbTRKWEw0Tmotcl9kNnVmV1FqVDg5Z05GdVJDbk9nQnBzWnhBZ3ptT0lIc0s1VEFjcXNSbDhfczlDdUJfYTI2QjlxTVZZMEhjeGNiVmlvUHpiLQ?oc=5)
-
----
+## 相關新聞（41 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
-2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [El ADN revela la relación entre la obesidad infantil y la diabetes](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXBodl9ub09UamJCb29INmpHb3cyTWpyc0RKa1RQdGtpTzdSSXRKSEJIR2NmajFDaEt2ZUl5M3d2dHBOMEhsYllPMTZtM0ZwZVV3VUNydTRpV01qT3p3OTAxT3dlZUc0YmhaUkZuTjZzWXpyQ2pVRnpsUXF0REJrOVZLRzdLdGdIeFBiUS16UGh3VW9FLVd4WHVqN1lFd2NGSktRdzIyYkxfeVhDU3NfSjlxc1RXTkV0bDJmQUl4NUxqM1EtellmUFhrOXJDbzMyeTVRNDRiZTJ2Zw?oc=5)
+
+---
+
+### [Vorsorge ab 30 und ab 50: So läuft die Brustkrebs-Früherkennung ab](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+---
+
+### [Le sigarette elettroniche modificano l'attività dei nostri geni. Aroma e tipo di dispositivo da svapo giocano un ruolo chiave - Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPNXpPRXdSalF1UkVJNzFxNGRidmt4ZDZUeHRFMzR1Q2lSNzFaQ1Bob1NPSEJZeFl1Y0kwbE9DeWZfLVF0LWNDZDNLN3JfcmgyaVRkX3RTMDNZaU5HSEV4eDZacmpuRFNlQ2t6cDdoTmxCLVVpU2R4eUhYQzJ4YWF6aXVKR3V0TG9FRFpkTlg0QmNTTFBySXNLWDRRdmsxdGxfemotQWFGU1VJWE4zTzhoOXRCTXdqbnpwUENUcUtwb19hREpSZlZ6cl96QzZ4Z2dKNFFHeHNlX2VyTEFqeXNEWTN5Uk83eGhxZldNSlloY1ByQVl0NmI5cUctbHVFaWdTbnF0V3l6ZXhnUTNVYURlbzRTWHVlakF0NmhCOXJmbHJoQjhWUi1taEk4eGp0VWM2MzZEZTE0aE1hOHlZLTM5QndGQTg0Z3AtOVM2VtIB0gJBVV95cUxOdFB0c2FvSzlCa0E3blZLMEV1Z1pLSm54SVlZejFqN2VUdUNWUUVKbFlkaGxnekFobS1GTFE4d2hRZFFRWDVQNzN5V0h5WmlvTmtMTmNOaVV5ZnRhLV9McmxQOGxuRWhXQVVGR1NrZGJXeUV5dFZGT3RFZEpDcmVMMUJmWlRhRDVFQ21veG5zX01UUG42cjd1RDNKV2NkSGgycndOaWlONV9qTTdqTlJmSWQ4N0pMMWgwWFJZanlTZmg3RXYwa2pBb3NLTHRaaGE0R2d3LWVLOXdWYWNJeVkxanpidGJtcUMxSTZGc0hpUFdPMHR2UGlJUFhVMk5QTHB1QTZVXzFhTWlSVnlESjIydTVjd1EwOHd2WkNDdHZXQ0dCZFZWWDg0T2xvM25XbEtuUkdPWk92VU1Sa2p3SWEwbVZFend2bTFxZGRya0NaUmNzUQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabete</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPNXpPRXdSalF1UkVJNzFxNGRidmt4ZDZUeHRFMzR1Q2lSNzFaQ1Bob1NPSEJZeFl1Y0kwbE9DeWZfLVF0LWNDZDNLN3JfcmgyaVRkX3RTMDNZaU5HSEV4eDZacmpuRFNlQ2t6cDdoTmxCLVVpU2R4eUhYQzJ4YWF6aXVKR3V0TG9FRFpkTlg0QmNTTFBySXNLWDRRdmsxdGxfemotQWFGU1VJWE4zTzhoOXRCTXdqbnpwUENUcUtwb19hREpSZlZ6cl96QzZ4Z2dKNFFHeHNlX2VyTEFqeXNEWTN5Uk83eGhxZldNSlloY1ByQVl0NmI5cUctbHVFaWdTbnF0V3l6ZXhnUTNVYURlbzRTWHVlakF0NmhCOXJmbHJoQjhWUi1taEk4eGp0VWM2MzZEZTE0aE1hOHlZLTM5QndGQTg0Z3AtOVM2VtIB0gJBVV95cUxOdFB0c2FvSzlCa0E3blZLMEV1Z1pLSm54SVlZejFqN2VUdUNWUUVKbFlkaGxnekFobS1GTFE4d2hRZFFRWDVQNzN5V0h5WmlvTmtMTmNOaVV5ZnRhLV9McmxQOGxuRWhXQVVGR1NrZGJXeUV5dFZGT3RFZEpDcmVMMUJmWlRhRDVFQ21veG5zX01UUG42cjd1RDNKV2NkSGgycndOaWlONV9qTTdqTlJmSWQ4N0pMMWgwWFJZanlTZmg3RXYwa2pBb3NLTHRaaGE0R2d3LWVLOXdWYWNJeVkxanpidGJtcUMxSTZGc0hpUFdPMHR2UGlJUFhVMk5QTHB1QTZVXzFhTWlSVnlESjIydTVjd1EwOHd2WkNDdHZXQ0dCZFZWWDg0T2xvM25XbEtuUkdPWk92VU1Sa2p3SWEwbVZFend2bTFxZGRya0NaUmNzUQ?oc=5)
+
+---
+
+### [Alzheimer-Risiko: GLP-1-Agonisten senken Erkrankungsrisiko um 33%](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpMZzlIdzZtdlZEcWpIZlplM2lobkJHNVdPck9lRHEwZmtNTXBxN01rc2twdHMxalJTdlB0NnZEcHljQWM3NVVXMWZPU0lrem9tSURRS1JNTnAtS0RCWXZZTDRBX2tDcVF4OVBiVWNmU09YTnlIM1pBbWk0cVhycFRyZUd6bDBZdzItNENCZUV4dzdNQTR2Y0hFTGY5ekZBT0t0TUJlbEZsWWY0NnE4LWt3Rlg2Zi0tVVVhMA?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpMZzlIdzZtdlZEcWpIZlplM2lobkJHNVdPck9lRHEwZmtNTXBxN01rc2twdHMxalJTdlB0NnZEcHljQWM3NVVXMWZPU0lrem9tSURRS1JNTnAtS0RCWXZZTDRBX2tDcVF4OVBiVWNmU09YTnlIM1pBbWk0cVhycFRyZUd6bDBZdzItNENCZUV4dzdNQTR2Y0hFTGY5ekZBT0t0TUJlbEZsWWY0NnE4LWt3Rlg2Zi0tVVVhMA?oc=5)
+
+---
+
+### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+
+---
+
+### [Fasten: 10% weniger Bauchfett senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTS00UWgwT25JcFNYQ1l2aVo3S29qMUE1RVZpVEpORGNrajVyNC1fYU56QVktQ1VkREh2SmdwNmFSOFAxTjFiV296ZVJScEE0eDdNZHpiNmdWNFJuSW9MMGZvdmRKQXdJTVRIbTRKWEw0Tmotcl9kNnVmV1FqVDg5Z05GdVJDbk9nQnBzWnhBZ3ptT0lIc0s1VEFjcXNSbDhfczlDdUJfYTI2QjlxTVZZMEhjeGNiVmlvUHpiLQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTS00UWgwT25JcFNYQ1l2aVo3S29qMUE1RVZpVEpORGNrajVyNC1fYU56QVktQ1VkREh2SmdwNmFSOFAxTjFiV296ZVJScEE0eDdNZHpiNmdWNFJuSW9MMGZvdmRKQXdJTVRIbTRKWEw0Tmotcl9kNnVmV1FqVDg5Z05GdVJDbk9nQnBzWnhBZ3ptT0lIc0s1VEFjcXNSbDhfczlDdUJfYTI2QjlxTVZZMEhjeGNiVmlvUHpiLQ?oc=5)
 
 ---
 
@@ -78,11 +118,11 @@ permalink: /news/maribavir/
 
 ---
 
-### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+### [Scham blockiert Gesundheit: 52% meiden Analkrebs-Vorsorge](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0FNYkRseUltb1JBM05yWGtNX1ZRSWJGVXRXdE5xUktfRVBiR2gyZmpPbkxBZHVramtVY1ZBU09iUVJyczVrTU1pb05CcUh4dllDdzI4dDJJTjJJdS0wZDZ6MFJJZEdWRTJ5ZDJ6U1RwYVpFR0s0MHluYVB2SEtycTNFOEhRMkhwUlZEemVxWjhSM0I3TURySVkxZFBVZ3dRSHRWUUdpOXh4Rl92LVVGVkln?oc=5)
 
 ---
 
@@ -91,14 +131,6 @@ permalink: /news/maribavir/
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
-
----
-
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzdONmJBeEM4NjRhc3ZuazVDb0FKM0pqVEttbXRhTmJhWVcyX1Y5T1RPT1NEbnBmVjlXZ1hpcnJkQVpjM3VZTm1wWENmcVVOOFBrY19yR3o3enhmWGdrQUtFRF9rakZWZ2t0cEdxYTRLdDBPc0dCSjBHaHdJVkp5Y0dRWHhpdC12MjVuT0QzdFFsUHh5Mm1WTEl6X251VnlaNUMzTXpSSnl4MjVU?oc=5)
 
 ---
 
@@ -134,11 +166,35 @@ permalink: /news/maribavir/
 
 ---
 
+### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
+
+---
+
 ### [Le vaccin contre le Covid-19 améliore très légèrement la survie des patients traités par une immunothérapie des cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
+
+---
+
+### [Bauchfett und Krebs: BMI-Anstieg erhöht Risiko für 19 Krebsarten](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
+
+---
+
+### [Autoimmunprozesse: Epstein-Barr-Viren als Diabetes-Bremse - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
+
+2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
 
 ---
 
@@ -206,11 +262,27 @@ permalink: /news/maribavir/
 
 ---
 
+### [Il Centro ricerche cliniche di Verona avvia cinque nuovi studi clinici sugli inibitori di Kras](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
+
+2026-06-23 <span class="news-indication-tag">tumor</span>
+
+來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhPdUZRVUplSFJjNmxCX3N5c2JBTGJCUzZPbDVIQnNTVG50RGc0ODVMclEtRURXMXE2V3lJbXBwYWR3VFduaGxaSmsySDRkX1pTQzY1OEM5c1JTak80WGdaNEdnS2NneWtUSEZYV1IwTmZhRldBaWpCNFY5bWMyTklra2pqM2UwWXRtOUpXRTJtMGh0UFBOOENmQ1V1Y3J5NlZseHFFZXB3dzgxNWY0aHZ0N0pDc1lPRzhWMHdoUlNpZ2ZVX3hMWEtGQQ?oc=5)
+
+---
+
 ### [A Son Removes His Credit Card From His Mother’s DoorDash Account After Her Cancer Progresses, Leading To Family Disagreement Over Her Care](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[TwistedSifter](https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEhmdVMzemRiV2lKNl8tb3ZaRG5hdjFPN1ZfVWhSSGZ0MnhkWm9QcW1NMUxVd2dQNEVDV0lFbFdSdlNteGo5NGYtRkJBNDlFT3Q4QVlkM2FNci1HX0pLUkFST2FmVjR6Z2ZTNmhSbHhfQ0p3SnRtLVVDUE9zczRnRzhDN0l3NHpKdWxUSVptLWF5c1dNZFRxbTNtTUkzSmk3SFNjN2NyWHZtV21hRFRyMzRsTEVYTDRBbHk3alYxM2l5cXhJclN1Q3o3M2czUXNMdm0wODJSQzVEMUJZb3J4NkhOQ0IwNzZ1aXFTZ2x1d0hsZ2xXTWQ2bkpyblZRbGlq?oc=5)
+
+---
+
+### [Drug that delays onset of type 1 diabetes approved in England and Wales - The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHFyelA3U0xhaC1UY0VNZDk5bUFtb1dXdVZobTlhQWNRYlZtYUl0REdnQUZGeWNSSWh3MldaVy1QYnE4UjRnTWRocEJXLVo3WmJ0NWpucVRqWE1ZLXZfbl9xSzAyRjRqXzVZaDdQeVVaSU5tQ2ZCWFo2WWZPSGQ3MHZFbTFmcWRNcUVJeDktZTN1cklhckMtRDlYT1pzMmxzQ09NUll5d19SenpzU0tQb1AzWWdmQkh6TFFr?oc=5)
 
 ---
 
@@ -222,14 +294,6 @@ permalink: /news/maribavir/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3lHSGN1dnYzU2paZnBydVpMeGdMRmphZnd6YW8xU1NvdGZ6VTl1R09TU3FNSmpZVno5TThwVGxqbENJTWU4b0ozYmVmV0M1dHVUODNsdGdnZDBCS0Nqcnhvb1hKMl8zaEtJNGdSNkNNc3FSZ21tRUlKS2IyZ2szOFZnMnlyekxWY3VsZXZSMjlCdTNvMkRpTkVyTl9Oa3NackRuUFZzUloxRV9MbndCTEhxWkwzTENJ?oc=5)
-
----
-
 ### [Darmkrebs: Welche Vitamine helfen Erkrankten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmUyd3FlVEFmcWNyZ3AyaEp4YlJWUTloVlZwMTJCd3BhUlM2SWhzVUs5VnB4eWN6TzdYeFVBRjJCbU52MFJSNzJxb29wVGkxcGlPVTZMdDFZbmt1M1VTWGVpbEdOZ3RhQ3NVaXlyMmctRFhrUEtMM0J4VTVXSzNib1lxMU05UUlGM2ZQeVotdTRKWnYzbGRabHN2em5jbDFWTUcxNFJ5aw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Krebs</span>
@@ -238,19 +302,19 @@ permalink: /news/maribavir/
 
 ---
 
-### [Type 1 diabetes drug will delay onset by three years - The Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnFVNkpqTUwyWXhBQnpaVmJiYk93QnY3M2t2S1VsVGctOGdNVFZ1M2pGQnVSXzcxcVlubmYyM3BCc3BzX0Y0UkZXZm81SjRXZy1URmhqUy10ektyZ3VZWktwajVmV3YyOUlEcHFzejBhS2stU3FJLVA1bnJLZTF4NEpXaG9sZFhPdHJjZHo5MTl5anQwMlNZOTdn?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnFVNkpqTUwyWXhBQnpaVmJiYk93QnY3M2t2S1VsVGctOGdNVFZ1M2pGQnVSXzcxcVlubmYyM3BCc3BzX0Y0UkZXZm81SjRXZy1URmhqUy10ektyZ3VZWktwajVmV3YyOUlEcHFzejBhS2stU3FJLVA1bnJLZTF4NEpXaG9sZFhPdHJjZHo5MTl5anQwMlNZOTdn?oc=5)
-
----
-
 ### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
 2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
+
+---
+
+### [Caen los mitos sobre comer fruta de noche: no es bueno, es buenísimo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
+
+2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVRMVkpVM21PWXZGYzdqSmozdngtSnRveUFtQW1nWnJPcDJjWGUxUzVZRjVWZE4zYXdQYkJDZl9yX2ExS21IVlRFRVhnYmxndU9PV01Rb2d0VnNuMl9YRlFPZHVzT19wUFJpYkpPTWdvZTdPb2VXdDZiaG1EbXd2QjhCQmYyLXl6T09RVTVnRkYxMG9o?oc=5)
 
 ---
 
@@ -278,11 +342,11 @@ permalink: /news/maribavir/
 
 ---
 
-### [Cenar fruta regula la glucosa en sangre por la noche y ayuda a controlar la diabetes](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+### [Suizid nach Krebsdiagnose: Nicht nur den Körper behandeln](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
 
-2026-06-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-22 <span class="news-indication-tag">Krebs</span>
 
-來源：[Expansión](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmFJd0J2TFhjUi1SczFUVFlhSnlVZVVqb3Z3NFdReUgxeUxRa25GU0Q4X3hJbmZ3eGFvYlY4ckFYVjA4d2NVSUUzMVVRdjZBbURrRWJSTG9GLU9TbXp0TlZSQ25sU0NEUDBIUmZEbEQtNGQ5Y2hLUTF4NW9DaS1UekswRFVpd2h4elhjb0N5QW9pWTFoMWhuOVlSUdIBmwFBVV95cUxPWUdYZjAyREI3a2liZFVxOU82ckJ5YXZZbUROWHlRMFNyZXIxUHlEMHByUktKak5JbF9Jd2VfMmdGT29qQmxHYWdKcElPcXlCVnJlMVl6RURPd3JDd3JyRm5PY1lWdGhHYV9tclBHdE1wSW1tNU9RTkEzbmozcFh3dEFDRDFRSDFiakZ5cGw3U0gyOFl5Y01MUDhENA?oc=5)
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3FQLWhTWGZJS1NYMUhnOXU1d29aWEttcjM0dE1JenhuUHFIQXRTdDRsZ1hwRVlnU2JBN3FRYlhnWl85cDJ3NnpoaWRDVmxZV04tdHZtSVlzVFU4dS1WTVc5SXhwM2JDeTl1b1piMW0xZGE0ejlkLUtiRmxkdmxBemRXWXZaYWU4NFpLcnZYZXpJWm5GQjk4QWIxUEVJTlhoaF9yWHZDZHZFZXM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Manejo del dolor orofacial: su relación con migrañas y ansiedad cambia el abordaje](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
+
+2026-06-24 <span class="news-indication-tag">migraña</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
+
+---
 
 ### [elEconomista.es | El aviso que preocupa a los neurólogos en plena ola de calor: el calor extremo puede agravar las migrañas en miles de personas en España - El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
 

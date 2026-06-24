@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [En verano aumenta el riesgo cardiovascular: "El cuerpo trabaja mucho más y eso tiene un coste cardíaco real"](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
+
+2026-06-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
+
+---
 
 ### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Cuando el calor espesa la sangre: así aumentan las temperaturas extremas el riesgo de ictus - El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
-2026-06-23 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-06-23 <span class="news-indication-tag">stroke</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5xUHAwVUFNaFFOcmdORGp0dGFEUTcyVDJqSWJCQ2lkcEVDN1FmWXZ6UVdwWl9TRlpXQ0RIUTgxaXk1czd6ZFdndzd5eWFUYlcxZ0JHX0JhanhETUt1b1Y2M1p5WG9vVVEwX29fUnZUekw0dENEYkIxUzRETFlhcjFqRFF6aXhPRVRNYUdIV2ZkcHotMk04?oc=5)
+來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
+
+---
+
+### [Ce fruit d'été est "le meilleur pour votre cœur et votre cerveau" selon ce cardiologue](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
+
+2026-06-22 <span class="news-indication-tag">AVC</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVVjRFhoU0c4S3dsXzFGQmtFeEU2LTZ3ZFpXdW51UzQ4Wm4yV24xbkFUN2dQdUJhMnRral9JWVZUbG9yRnRBc3dEQWRfb1VIUVlIYTlZanB6eVNOZUdNbU91MWNoTV9hcjRBWmxEQVJWQnI5QUtDbUhyUVZtenFaTDFkQ0VNb1dHcGw3WGlTUExIZWZhYmNZY0tWQlREMzJOU3NwTHZIR1ZOSUFHal8zc3BBZXlGc3JsYldBUWtxckJwWUNqTDdyUzdZZ3g?oc=5)
 
 ---
 
