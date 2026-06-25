@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Was im Darm wächst, könnte Allergien bei Kindern mitbestimmen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
+
+2026-06-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
+
+---
+
+### [Demenzfrüherkennung: Bluttests & KI erkennen Risiko Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDNJcjlJOEphUGxzSk1DSkMtWnFQLXdyR2dNNEtWSG5zd1VDTHh2ZGFaV1FXWV8xVUFKaVBUMGI1V1B3TEdMLVNEbDI4WjcxLXpPYnpDemZzYTJpZ0I2aURjRjdmN3QtOWdXa1N6UGx4bUZkeDNYUkFsWDNpRUdJRjFIbEJUWkJiZlBoeTZqWVA2dmxuTjgzWXlYcw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">asma</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDNJcjlJOEphUGxzSk1DSkMtWnFQLXdyR2dNNEtWSG5zd1VDTHh2ZGFaV1FXWV8xVUFKaVBUMGI1V1B3TEdMLVNEbDI4WjcxLXpPYnpDemZzYTJpZ0I2aURjRjdmN3QtOWdXa1N6UGx4bUZkeDNYUkFsWDNpRUdJRjFIbEJUWkJiZlBoeTZqWVA2dmxuTjgzWXlYcw?oc=5)
+
+---
 
 
 <div class="disclaimer">

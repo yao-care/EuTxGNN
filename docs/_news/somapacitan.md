@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li>asthma（86.3%）</li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,13 +52,37 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Dexcom G7 myLoop compatibles en España - Canal Diabetes](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSQ3l6M2NqX3R5TUJqNllZRWUxc3VaUTdJN0JYd2txN3ZIYzdoUXZLT2h0cjQ1bkZRWlJUeHdIR1JtV1pnSklJdDA3NTBHZzd0S0tjMkl3?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Canal Diabetes](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSQ3l6M2NqX3R5TUJqNllZRWUxc3VaUTdJN0JYd2txN3ZIYzdoUXZLT2h0cjQ1bkZRWlJUeHdIR1JtV1pnSklJdDA3NTBHZzd0S0tjMkl3?oc=5)
+
+---
+
+### [Los fármacos epigenéticos podrían reducir el riesgo de infarto en personas con obesidad y diabetes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
+
+---
 
 ### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
+
+---
+
+### [KRIYA-839: Könnte eine einzige Spritze Typ-1-Diabetes eines Tages behandeln?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUZ1X0N5dFNTNmVSdXdMZUQzaWQ5ZHd3ZTBDWjhIMTkwQ0RBdTRQMm15dzYwczBROEJVdGprOXdVZG52WTVPd2RvbWZwWldndEszM0U4MEVCeW4wbEcxaHNGZ1pkVVR0LUNqczhONlI2bmtlM1JzMVk3TzBCdjJWbU03VnVyOXRQbXczR2hqRE4tMko5MVQ1N3A4aVVuTy0xY0VaeHdQaDZoMGVqYTR6UzZR?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUZ1X0N5dFNTNmVSdXdMZUQzaWQ5ZHd3ZTBDWjhIMTkwQ0RBdTRQMm15dzYwczBROEJVdGprOXdVZG52WTVPd2RvbWZwWldndEszM0U4MEVCeW4wbEcxaHNGZ1pkVVR0LUNqczhONlI2bmtlM1JzMVk3TzBCdjJWbU03VnVyOXRQbXczR2hqRE4tMko5MVQ1N3A4aVVuTy0xY0VaeHdQaDZoMGVqYTR6UzZR?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Bauchfett senken: 10% Reduktion senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitAFBVV95cUxPa19ULWxVUHkzVU9IYmpIaG95UUtrTmFBN2hvYUhKS3o4Ulo2cEo1TDV3emdTMXI3ZEp3UzNicFJib0JoU1A5Nm1McEllRDNXQk5JaGJLX1lpN1d5Y3hIeTB3U1kycVpVbWZSVlVxWXFoYUl0SVRORVpoV29pUkxDNUg3VUpOaEk2bDVWbXF6MVlFeHpZZmMtNmk0TWVDMFVTX25EQzZ1TDB5Q0hyaWN4LWVCU1Y?oc=5)
+### [Was im Darm wächst, könnte Allergien bei Kindern mitbestimmen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
 
-2026-06-24 <span class="news-indication-tag">diabetes</span>
+2026-06-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPa19ULWxVUHkzVU9IYmpIaG95UUtrTmFBN2hvYUhKS3o4Ulo2cEo1TDV3emdTMXI3ZEp3UzNicFJib0JoU1A5Nm1McEllRDNXQk5JaGJLX1lpN1d5Y3hIeTB3U1kycVpVbWZSVlVxWXFoYUl0SVRORVpoV29pUkxDNUg3VUpOaEk2bDVWbXF6MVlFeHpZZmMtNmk0TWVDMFVTX25EQzZ1TDB5Q0hyaWN4LWVCU1Y?oc=5)
+來源：[FITBOOK](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
 
 ---
 
@@ -94,19 +118,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Identifican marcas en el ADN ligadas a la resistencia a la insulina en niños con obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[iDescubre](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnlFMWxKMVhSY3FyalFtdGF5OHA4UTlxTEZyOGhmSk1EY1pGYjVBRVk3eE8wVDBCZEQ5aGZRa1VIazhnOXQzSUh1MW1NZFFHSEJaNEthOGNESnAtVk05YTY1Y0taZmZqcTl2MXdfWk5FVUdhaUFvOVM5UWVDVUNjTkF5dnl4YkZKanNlTk15QnNaeGU4dG1lTG9DaFBCS3BpLURJcmhOSUpDRGEyTnVyZ1I5aFJzRlZkTS1oNXkybHpLaHRQM21QVExnS1dJQQ?oc=5)
-
----
-
 ### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
+
+---
+
+### [Fasten senkt Bauchfett und Diabetes-Risiko: Studie, Grenzen und Trends 2026 - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
+
+2026-06-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
 
 ---
 
@@ -118,27 +142,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [El consumo de alimentos ultraprocesados en adolescentes se relaciona con alteraciones metabólicas asociadas a la diabetes tipo 2 - ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUWFsWXFmc0tCS09DNTkycUNGZHdTY3FXeFpxdXoySDZrc01Bcngtb1V2czd0SlcwMGFsYU5IU2ZWaDN4RW1ueGN1TGNFTkk0dFlQNEJNbG0zOEYyZU01c2NLM0s5V3phYksybkNlYmhiZ3o4eExlcTVMYnFhZi1TVWtFMzdWaHZoemxKY29RWW03VHJvUVpGLUJFMC1kM0FGLV9lenZrX2FjQ0lpUmNuTDdfNUV2Ymk0TngxakRrY2xBWC1MR1R1NDNyVG10cThVN1g1SzY1SXJzc2J0Z3NmVzNNcEdYd0M1VGtj?oc=5)
+### [Demenzfrüherkennung: Bluttests & KI erkennen Risiko Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDNJcjlJOEphUGxzSk1DSkMtWnFQLXdyR2dNNEtWSG5zd1VDTHh2ZGFaV1FXWV8xVUFKaVBUMGI1V1B3TEdMLVNEbDI4WjcxLXpPYnpDemZzYTJpZ0I2aURjRjdmN3QtOWdXa1N6UGx4bUZkeDNYUkFsWDNpRUdJRjFIbEJUWkJiZlBoeTZqWVA2dmxuTjgzWXlYcw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">diabetes</span>
+2026-06-24 <span class="news-indication-tag">asma</span>
 
-來源：[ibs.GRANADA - Instituto de Investigación Biosanitaria de Granada](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUWFsWXFmc0tCS09DNTkycUNGZHdTY3FXeFpxdXoySDZrc01Bcngtb1V2czd0SlcwMGFsYU5IU2ZWaDN4RW1ueGN1TGNFTkk0dFlQNEJNbG0zOEYyZU01c2NLM0s5V3phYksybkNlYmhiZ3o4eExlcTVMYnFhZi1TVWtFMzdWaHZoemxKY29RWW03VHJvUVpGLUJFMC1kM0FGLV9lenZrX2FjQ0lpUmNuTDdfNUV2Ymk0TngxakRrY2xBWC1MR1R1NDNyVG10cThVN1g1SzY1SXJzc2J0Z3NmVzNNcEdYd0M1VGtj?oc=5)
-
----
-
-### [Autoimmunprozesse: Epstein-Barr-Viren als Diabetes-Bremse - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
-
----
-
-### [New diabetes treatment gets 'landmark' approval for NHS - Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDNJcjlJOEphUGxzSk1DSkMtWnFQLXdyR2dNNEtWSG5zd1VDTHh2ZGFaV1FXWV8xVUFKaVBUMGI1V1B3TEdMLVNEbDI4WjcxLXpPYnpDemZzYTJpZ0I2aURjRjdmN3QtOWdXa1N6UGx4bUZkeDNYUkFsWDNpRUdJRjFIbEJUWkJiZlBoeTZqWVA2dmxuTjgzWXlYcw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Infektionen erhöhen Herzinfarkt-Risiko um das Siebenfache](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlHTUhLZVlPa0JVY2hsdks1VXpSbkpPa0NnNHVtM0lNTFZwbXoyNmZyNHJtX1d0RGJVbjV5dzN4OGlWSUxsZzdmNnMxWWp6RlRseFlqZm1pelpvRGl0ckpCM1hiZEtJUldzOEpQMmV6YVdXMTZDTmZ3Ry1YWndEYXVRUlpBTUZBWU9fVmhGRkQ0TzFmVDUtSmlmemJ4SjY0cElTLVI2a0hyeXc?oc=5)
 
@@ -57,19 +57,27 @@ permalink: /news/stroke/
 
 ---
 
+### [Bluthochdruck: Schlaganfallrisiko steigt um 35% bei Vorstufen](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTC0xckhpcnlhNFZBUVRNd0psdllUU21VRXV0MDYyVThDYU5HbWpwMDVrdmZBOThzOWlfNFhLSHRSY2NZLUZGUVlPRmZucXNZRGZ1OHBNT045SVpJTEVTVW03aTM4WmdxdW5nVnIwNFdqaWlXT2RGRVBfVXU2TWd4a19CdFcxekNIOXBsN1M1Y2VBTFlMS1Y3UFg2Z01KZU9xV09MUVctN25UR1BhWUdmbHA4ZWZEWDQ?oc=5)
+
+2026-06-25
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTC0xckhpcnlhNFZBUVRNd0psdllUU21VRXV0MDYyVThDYU5HbWpwMDVrdmZBOThzOWlfNFhLSHRSY2NZLUZGUVlPRmZucXNZRGZ1OHBNT045SVpJTEVTVW03aTM4WmdxdW5nVnIwNFdqaWlXT2RGRVBfVXU2TWd4a19CdFcxekNIOXBsN1M1Y2VBTFlMS1Y3UFg2Z01KZU9xV09MUVctN25UR1BhWUdmbHA4ZWZEWDQ?oc=5)
+
+---
+
+### [The most common reason people die in hot weather - and it's not heatstroke - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+2026-06-24
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+---
+
 ### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
 2026-06-24
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
----
-
-### [En verano aumenta el riesgo cardiovascular: "El cuerpo trabaja mucho más y eso tiene un coste cardíaco real"](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
-
-2026-06-24
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHpHODVhUzhZblNLci14X0lUMW5RaElnd1R3WnhOOFdlbm5uQnhXTWlDVXFVeE5wc1hxTThlQlpwQzltR05vdU9KUEQ3UVZ6aHVCeG92ZlRreURfdmozc3BSQkh6RXdkR01TaGtENDhpel9vVlAxYkx6dEhoclRoSG5KZE9faEhnM0NlQWV0djVlX1JleXNPR2J3cklxSUpUU1ZUOVhxZ1BQempBbjdPOW5mSUhLcEZ3VGVMbWZmU0xSblljdGdWdVdFakZEbkMtOVhR?oc=5)
 
 ---
 

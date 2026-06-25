@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
-### [Llega una nueva clase de fármacos que frena la progresión de la esclerosis múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcERONm5BREFxelBKZVJvR1BpNHdqWVF4WDU3Y0NEeW0zLWk2YzY2eGdMcnN5eEluWXZuRllHVjVHNGFXcUlVTWItLW1LcGtWSXVtWHhSNE5iS1FEVU9BcnJQdnc1NkFnU3BTR3RfQl9lU1ZRMVJIY1BpeFU5Q1hPblJybkl2WGNKS041Vkc5WnVxTGcxUVpoQXd2MWExOXJCa0x4NVYybHp0SmIyUEhrRmRkVTNEQy1VaDFnTU9QTG3SAcYBQVVfeXFMT1QxNHIxM0tqYlRlT0hmNmplNzRLZ1o0U08ydVliOE1VWVFQOFlrQVRKREhoWlVMYlB6cTczazlnUG43TDNVRm8tLVJ2VkZlbTZNeDNQbW56WXk3Tm9lc1JmT3pXYTVRN1dIRDBtNTF0eGZDNV85aVE2UWozMW4ydE9DM2Y1UW5NQUtmbmMyb3lQeU4wTzBfYlR5OEFiQ2JhamtMZkIxQTFnakxKRTM1SF9rT3Jzdm1UZUFSUGg0dGRGQ2VfSm1R?oc=5)
+### [Europa da luz verde a tolebrutinib, un fármaco para detener el avance de la esclerosis múltiple - El Correo Gallego](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY1VxYkVBbldZeTNzWDhhWDlZcUdtUTNzc3l4Mndvam16bWdLLW5uRHpzenJWUXRMd3ZlMzlqd2RRdndaUHRaekZWOG1mZEFwUkFhZi1VMjYyUExmQUEzLTNBZDZ5N1BJeEJoSDRyZ2tUNFQta1VRVzZKMl9rQXV0MmF1U3Z4TVhlckpZT3V6ck5aWVZXRmF3cnVyc0o2T01qc3VxUFliWGVzdEh5ZVh6VC1wY0lqcG85dndwQ0NtZHZzTlUxS1Q2Zjc0UjVlWjM3T2Ryc2ZFcHfSAd4BQVVfeXFMTWU5UGVWMlg1SDZmVm5GY1FpSVQ0UlA3eWpCbEs2anRRRi1kWkpERGNiNURKVWZYeUFNMVdSQ1JpTEt2em9ESVQzVzVDalR4MXJ1SFppNlZQellTZlVoaVVfcy1OV05icU5zYzIyWmd2MGxKS0xkTm5MS0FsX2FDallMZXZ0dml3QWxwaVhXS21mR1lONF9rN29pa3liLS13MXFsenozN2treWhmcUF2QTBRQjlMbWlqTmUzN2hnb1hycGxJbWQ1aUE0dFhxNXpYZ0RncWVJNnFLTElSZFBB?oc=5)
 
 2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcERONm5BREFxelBKZVJvR1BpNHdqWVF4WDU3Y0NEeW0zLWk2YzY2eGdMcnN5eEluWXZuRllHVjVHNGFXcUlVTWItLW1LcGtWSXVtWHhSNE5iS1FEVU9BcnJQdnc1NkFnU3BTR3RfQl9lU1ZRMVJIY1BpeFU5Q1hPblJybkl2WGNKS041Vkc5WnVxTGcxUVpoQXd2MWExOXJCa0x4NVYybHp0SmIyUEhrRmRkVTNEQy1VaDFnTU9QTG3SAcYBQVVfeXFMT1QxNHIxM0tqYlRlT0hmNmplNzRLZ1o0U08ydVliOE1VWVFQOFlrQVRKREhoWlVMYlB6cTczazlnUG43TDNVRm8tLVJ2VkZlbTZNeDNQbW56WXk3Tm9lc1JmT3pXYTVRN1dIRDBtNTF0eGZDNV85aVE2UWozMW4ydE9DM2Y1UW5NQUtmbmMyb3lQeU4wTzBfYlR5OEFiQ2JhamtMZkIxQTFnakxKRTM1SF9rT3Jzdm1UZUFSUGg0dGRGQ2VfSm1R?oc=5)
+來源：[El Correo Gallego](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY1VxYkVBbldZeTNzWDhhWDlZcUdtUTNzc3l4Mndvam16bWdLLW5uRHpzenJWUXRMd3ZlMzlqd2RRdndaUHRaekZWOG1mZEFwUkFhZi1VMjYyUExmQUEzLTNBZDZ5N1BJeEJoSDRyZ2tUNFQta1VRVzZKMl9rQXV0MmF1U3Z4TVhlckpZT3V6ck5aWVZXRmF3cnVyc0o2T01qc3VxUFliWGVzdEh5ZVh6VC1wY0lqcG85dndwQ0NtZHZzTlUxS1Q2Zjc0UjVlWjM3T2Ryc2ZFcHfSAd4BQVVfeXFMTWU5UGVWMlg1SDZmVm5GY1FpSVQ0UlA3eWpCbEs2anRRRi1kWkpERGNiNURKVWZYeUFNMVdSQ1JpTEt2em9ESVQzVzVDalR4MXJ1SFppNlZQellTZlVoaVVfcy1OV05icU5zYzIyWmd2MGxKS0xkTm5MS0FsX2FDallMZXZ0dml3QWxwaVhXS21mR1lONF9rN29pa3liLS13MXFsenozN2treWhmcUF2QTBRQjlMbWlqTmUzN2hnb1hycGxJbWQ1aUE0dFhxNXpYZ0RncWVJNnFLTElSZFBB?oc=5)
 
 ---
 
-### [Omega-3: Studie widerlegt Wundermittel gegen Alzheimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+### [Surrey woman took part in cervical cancer immunotherapy trial](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV3UzV3pXcVBfSGhuY1hoSzB0M1lidTZfUkh6OWtIUENBZnBadGZ2b2JsS2NpMDlDN1cxUi1raGdwVkFsNG5vWUJsbjdzTm1BVVk5eVg2SW1EZS1s?oc=5)
 
-2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-25 <span class="news-drug-tag">Cemiplimab</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV3UzV3pXcVBfSGhuY1hoSzB0M1lidTZfUkh6OWtIUENBZnBadGZ2b2JsS2NpMDlDN1cxUi1raGdwVkFsNG5vWUJsbjdzTm1BVVk5eVg2SW1EZS1s?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Confirmado primer caso de ébola en Francia tras regresar un doctor de RDC - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+### [Ebola in RD Congo, vite a rischio nelle miniere d'oro artigianali - Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3lBSWhmUE1feUFUXzQ4YWp6R3lhaGdmaUZkZ3dwazNjc1VxdlgwNXJDRVRHMnFGWWhoWl9XejhWRlNyTm9xcDZhU1ZlTVI5T0hvMDNuZGg0OTM0dENVQmFyWWJiS1BmV2JYY3VrMXhWNWNEM1phWmRwQUtpT1pKdk5mMjZsOFdOUVVRX2V4M3JMS01sYkdEbnV2djJUaTBSSTA1a2l6ZXJvV2hxUE91b093SFljQQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">MS</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+來源：[Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3lBSWhmUE1feUFUXzQ4YWp6R3lhaGdmaUZkZ3dwazNjc1VxdlgwNXJDRVRHMnFGWWhoWl9XejhWRlNyTm9xcDZhU1ZlTVI5T0hvMDNuZGg0OTM0dENVQmFyWWJiS1BmV2JYY3VrMXhWNWNEM1phWmRwQUtpT1pKdk5mMjZsOFdOUVVRX2V4M3JMS01sYkdEbnV2djJUaTBSSTA1a2l6ZXJvV2hxUE91b093SFljQQ?oc=5)
 
 ---
 
@@ -114,31 +114,15 @@ permalink: /news/cariprazine-hydrochloride/
 
 2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
 
 ---
 
-### [Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm1DNnV5Y1duR21zamtqeGNLNUkxSlZDZ29YZURvaEdYSkZ0Z084aHFQVEJBbmR6NFVDRkdzbHVlM09GVXpTNFdfdmRLTVZqakFyT2VhZ2toaV9yVFl3RXdoSlM0QnlPVzNNcHFuVTN6a1dEcUFnSUtDdC1LUU1fbEZCTEs4M3djY2FlUXA3YXBXaXRydXM1aA?oc=5)
+### [Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2xsSGtqRkhSX0RDNTdDYURvUlJSd0dYV1l1ODVoM1A5UHVnQ1VKQmp0TVNSLUJNVVI5OHlRZ19OcU96Zzg5R1hrajB0T2hwWGpXblo2dk52elQ5YkMxWlJ2d1d4U0xCb1B6Y0F0NGxwLUczX0o3V3hqZlNvZ3oybE1tY1FoN3FGZ2J1RzFlc243QXE1blIwWF96TVNqVGpzSmtScHF3WFZhenhTTW9NM3VQMFRodThpajQxaDJwRkhib25xSHpRVTdrRXBrT0RSaTJVMlJMZE5hNFNfMTBBTldPaGdJTms2VmtYNnlFUQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">MS</span>
 
-來源：[t3n](https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm1DNnV5Y1duR21zamtqeGNLNUkxSlZDZ29YZURvaEdYSkZ0Z084aHFQVEJBbmR6NFVDRkdzbHVlM09GVXpTNFdfdmRLTVZqakFyT2VhZ2toaV9yVFl3RXdoSlM0QnlPVzNNcHFuVTN6a1dEcUFnSUtDdC1LUU1fbEZCTEs4M3djY2FlUXA3YXBXaXRydXM1aA?oc=5)
-
----
-
-### [Ramsgate mum calls for investigation into Orchard House mental health services ‘letting down’ children and young people - The Isle of Thanet News](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXg5Q09hZlRWaWREQy1PdzRUYVJWbnBRTlNGTloyUG9xRFFlNTdiN2FwQk40b094MzR1SmpDRDhjTzlZNTEyRFhsZUxpYUVjSXpqREoyN2lkU3A2RFRhQjZiNVZJSGlHNzZxWno5T2t3WTdCNkNLdFQwR2lRUG5RcENTcDFpbXFaNlZjZ3N2OTFyYzhxMFBqbVpBenJCekJLZmtnYjFwRG4wMEVRUDg5Rm1Gc0NEeGhDR3R4MnpmaGt5OXc4aTl1bVVfNy1fekwzUjNrTHdSb25rQ2lFNW43UUdCSzZUa3NBQTBMQUNsaWFVOW8?oc=5)
-
-2026-06-23 <span class="news-indication-tag">MS</span>
-
-來源：[The Isle of Thanet News](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXg5Q09hZlRWaWREQy1PdzRUYVJWbnBRTlNGTloyUG9xRFFlNTdiN2FwQk40b094MzR1SmpDRDhjTzlZNTEyRFhsZUxpYUVjSXpqREoyN2lkU3A2RFRhQjZiNVZJSGlHNzZxWno5T2t3WTdCNkNLdFQwR2lRUG5RcENTcDFpbXFaNlZjZ3N2OTFyYzhxMFBqbVpBenJCekJLZmtnYjFwRG4wMEVRUDg5Rm1Gc0NEeGhDR3R4MnpmaGt5OXc4aTl1bVVfNy1fekwzUjNrTHdSb25rQ2lFNW43UUdCSzZUa3NBQTBMQUNsaWFVOW8?oc=5)
-
----
-
-### [Autoimmunprozesse: Epstein-Barr-Viren als Diabetes-Bremse - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2xsSGtqRkhSX0RDNTdDYURvUlJSd0dYV1l1ODVoM1A5UHVnQ1VKQmp0TVNSLUJNVVI5OHlRZ19OcU96Zzg5R1hrajB0T2hwWGpXblo2dk52elQ5YkMxWlJ2d1d4U0xCb1B6Y0F0NGxwLUczX0o3V3hqZlNvZ3oybE1tY1FoN3FGZ2J1RzFlc243QXE1blIwWF96TVNqVGpzSmtScHF3WFZhenhTTW9NM3VQMFRodThpajQxaDJwRkhib25xSHpRVTdrRXBrT0RSaTJVMlJMZE5hNFNfMTBBTldPaGdJTms2VmtYNnlFUQ?oc=5)
 
 ---
 

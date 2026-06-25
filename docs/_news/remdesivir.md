@@ -54,11 +54,11 @@ permalink: /news/remdesivir/
 
 ## 相關新聞（1 則）
 
-### [Hilft das Medikament Remdesivir?: WHO testet zwei neue Ebola-Behandlungsmethoden](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXZNU3pVeXVvTjQ3bFRfVHVxX2dYY1QxNmE5NnNpMjI4QmJ3eVF5MlpYS0RNSHhIc2VOd243SGtNNlFfNTFmSWFvYzkyMGl4dE9Oc0NwUlU1cHdKdV8zaE5kRWpLcF9WZC16VGRCZDBJT2d2NDRQZEpLV0QtUGJHSGdYZ1hVZXZjZEQyU1F6RlBaRW8?oc=5)
+### [Kongo: WHO testet neue Therapien im Kampf gegen Ebola](https://news.google.com/rss/articles/CBMilwFBVV95cUxNajdMM01HWXZHbExSbFRQX0xmX0xqN2Y0ejNpMXU0UnZ2WjFmRzg0WHRUWS1KcnhabHljQXpGTWRfc0JjZGtQd3BPRlRRNFQ1TXNXTlBITlJQSnpBbG0zcWZWbzNwWTBlWDhleE13VS0xV215N05id25SMXlqbENJa200QU05TExDN3NnMEo1OFJpZmZDUmlV?oc=5)
 
-2026-06-24 <span class="news-drug-tag">Remdesivir</span>
+2026-06-25 <span class="news-drug-tag">Remdesivir</span>
 
-來源：[Ntv](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXZNU3pVeXVvTjQ3bFRfVHVxX2dYY1QxNmE5NnNpMjI4QmJ3eVF5MlpYS0RNSHhIc2VOd243SGtNNlFfNTFmSWFvYzkyMGl4dE9Oc0NwUlU1cHdKdV8zaE5kRWpLcF9WZC16VGRCZDBJT2d2NDRQZEpLV0QtUGJHSGdYZ1hVZXZjZEQyU1F6RlBaRW8?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxNajdMM01HWXZHbExSbFRQX0xmX0xqN2Y0ejNpMXU0UnZ2WjFmRzg0WHRUWS1KcnhabHljQXpGTWRfc0JjZGtQd3BPRlRRNFQ1TXNXTlBITlJQSnpBbG0zcWZWbzNwWTBlWDhleE13VS0xV215N05id25SMXlqbENJa200QU05TExDN3NnMEo1OFJpZmZDUmlV?oc=5)
 
 ---
 

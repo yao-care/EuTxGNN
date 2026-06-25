@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [La dieta mediterránea podría influir en la reducción del deterioro cognitivo y la enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
+
+2026-06-25
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
+
+---
+
+### [The Subtle Physical Clue That Could Indicate Your Dog Has Dementia](https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1E0TmdLbEZfOEt4WmpzXzViLTNqRTcxWVJ4bkhkeEM3cFFCTUJ0cVR1RUF3bXlqYXZXZU5rcWVSVlhSQlVSZ05Da01fek1JMFk5aXJLN1NxaV9yNmszT0tjR0VuUF9wajc4cHI5TjQ5SmlTOFpWWklVeXpzWFczVllnVmN1ckptcjNzZ3R1NlVibkFpalFKaFNiSQ?oc=5)
+
+2026-06-25
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1E0TmdLbEZfOEt4WmpzXzViLTNqRTcxWVJ4bkhkeEM3cFFCTUJ0cVR1RUF3bXlqYXZXZU5rcWVSVlhSQlVSZ05Da01fek1JMFk5aXJLN1NxaV9yNmszT0tjR0VuUF9wajc4cHI5TjQ5SmlTOFpWWklVeXpzWFczVllnVmN1ckptcjNzZ3R1NlVibkFpalFKaFNiSQ?oc=5)
+
+---
 
 ### [Can wiggling your pinky really stop cognitive decline? - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
