@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
+
+---
 
 ### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Triple-Agonisten: GLP-1-Mittel senken Alzheimer-Risiko um 33%](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
+### [Bauchfett senken: 10% Reduktion senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitAFBVV95cUxPa19ULWxVUHkzVU9IYmpIaG95UUtrTmFBN2hvYUhKS3o4Ulo2cEo1TDV3emdTMXI3ZEp3UzNicFJib0JoU1A5Nm1McEllRDNXQk5JaGJLX1lpN1d5Y3hIeTB3U1kycVpVbWZSVlVxWXFoYUl0SVRORVpoV29pUkxDNUg3VUpOaEk2bDVWbXF6MVlFeHpZZmMtNmk0TWVDMFVTX25EQzZ1TDB5Q0hyaWN4LWVCU1Y?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPa19ULWxVUHkzVU9IYmpIaG95UUtrTmFBN2hvYUhKS3o4Ulo2cEo1TDV3emdTMXI3ZEp3UzNicFJib0JoU1A5Nm1McEllRDNXQk5JaGJLX1lpN1d5Y3hIeTB3U1kycVpVbWZSVlVxWXFoYUl0SVRORVpoV29pUkxDNUg3VUpOaEk2bDVWbXF6MVlFeHpZZmMtNmk0TWVDMFVTX25EQzZ1TDB5Q0hyaWN4LWVCU1Y?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/natalizumab/
 2026-06-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
-
----
-
-### [Fasten senkt Bauchfett und Diabetes-Risiko: Studie, Grenzen und Trends 2026 - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
 
 ---
 
@@ -139,14 +139,6 @@ permalink: /news/natalizumab/
 2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
-
----
-
-### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
 
 ---
 

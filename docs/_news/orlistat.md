@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Infektionen erhöhen Herzinfarkt-Risiko um das Siebenfache](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlHTUhLZVlPa0JVY2hsdks1VXpSbkpPa0NnNHVtM0lNTFZwbXoyNmZyNHJtX1d0RGJVbjV5dzN4OGlWSUxsZzdmNnMxWWp6RlRseFlqZm1pelpvRGl0ckpCM1hiZEtJUldzOEpQMmV6YVdXMTZDTmZ3Ry1YWndEYXVRUlpBTUZBWU9fVmhGRkQ0TzFmVDUtSmlmemJ4SjY0cElTLVI2a0hyeXc?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlHTUhLZVlPa0JVY2hsdks1VXpSbkpPa0NnNHVtM0lNTFZwbXoyNmZyNHJtX1d0RGJVbjV5dzN4OGlWSUxsZzdmNnMxWWp6RlRseFlqZm1pelpvRGl0ckpCM1hiZEtJUldzOEpQMmV6YVdXMTZDTmZ3Ry1YWndEYXVRUlpBTUZBWU9fVmhGRkQ0TzFmVDUtSmlmemJ4SjY0cElTLVI2a0hyeXc?oc=5)
+
+---
+
+### [I’m a doctor — here’s how to accurately check your blood pressure at home - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+
+2026-06-25 <span class="news-indication-tag">stroke</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+
+---
 
 ### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
-
----
-
-### [The most common reason people die in hot weather - and it's not heatstroke - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
-
-2026-06-24 <span class="news-indication-tag">stroke</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
 
 ---
 
@@ -107,22 +115,6 @@ permalink: /news/orlistat/
 2026-06-23 <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
-
----
-
-### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
-
----
-
-### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
 
 ---
 

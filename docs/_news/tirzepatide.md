@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [UK heatwave: Five medications that can affect how your body regulates temperature - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
+### [Millions of statin users told 'move medication' as UK heatwave hits - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2pGUGEzUjVlaUl1T2NZMElQcVRNTk9ndFJBNVFpUm1qZDhJVWJpYTdEcksweGJFNkozMWhKSHBqN3U4RUI3dGlkQk1adkd3b1VuNTcybzQxYlA4NEZlY3pHWWZTN1UtY25BWjdhR0VkSjdpLXlybFdVRUltWHVSbTVYennSAYoBQVVfeXFMTk0ySDdZRG85c1kteWpiUlJiUC1wc0FDZS1wSmNGandfWnhzbjhER25HbENpRDllOFRDVlRZbC1SdURMelhaRVJiYUI2UmlUWW9YOFVscGNDeUZLdGVwOW9YWG05dU5MdHExMEVjZkVnaFFLTlpvRWhTYmF2VElkQUJFdXpjXzh1ME5n?oc=5)
 
-2026-06-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
-
----
-
-### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
----
-
-### [Rheuma-Lungenschaden: Neue Therapien senken Arthritis-Risiko um 60%](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTY5Ul9GaG5HZEpKNjFabW8zWTJoZ0JnMVVzY3RkaGZNNEt4MGY2azNOOWZFNUJ4UjRtdm5xektweU9kOHRYV29BZXFmQVZFUmM2VllaNFY5anV6bVZSVkxCbXZxajZiV0djVmVWbmQwcWh4MVpGLTZnRUlfbDZ0RHMwWk1PRmFBOFpTc0VCV3piQm44NDBPa1BLcUR2U3J0UmtNLVJYb0g0eHNiQVpZeUhQa0swZ21qamU2VVlVMA?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTY5Ul9GaG5HZEpKNjFabW8zWTJoZ0JnMVVzY3RkaGZNNEt4MGY2azNOOWZFNUJ4UjRtdm5xektweU9kOHRYV29BZXFmQVZFUmM2VllaNFY5anV6bVZSVkxCbXZxajZiV0djVmVWbmQwcWh4MVpGLTZnRUlfbDZ0RHMwWk1PRmFBOFpTc0VCV3piQm44NDBPa1BLcUR2U3J0UmtNLVJYb0g0eHNiQVpZeUhQa0swZ21qamU2VVlVMA?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2pGUGEzUjVlaUl1T2NZMElQcVRNTk9ndFJBNVFpUm1qZDhJVWJpYTdEcksweGJFNkozMWhKSHBqN3U4RUI3dGlkQk1adkd3b1VuNTcybzQxYlA4NEZlY3pHWWZTN1UtY25BWjdhR0VkSjdpLXlybFdVRUltWHVSbTVYennSAYoBQVVfeXFMTk0ySDdZRG85c1kteWpiUlJiUC1wc0FDZS1wSmNGandfWnhzbjhER25HbENpRDllOFRDVlRZbC1SdURMelhaRVJiYUI2UmlUWW9YOFVscGNDeUZLdGVwOW9YWG05dU5MdHExMEVjZkVnaFFLTlpvRWhTYmF2VElkQUJFdXpjXzh1ME5n?oc=5)
 
 ---
 

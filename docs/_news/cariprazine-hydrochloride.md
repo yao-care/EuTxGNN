@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,43 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
-### [Omega-3-Präparate: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+### [Llega una nueva clase de fármacos que frena la progresión de la esclerosis múltiple - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcERONm5BREFxelBKZVJvR1BpNHdqWVF4WDU3Y0NEeW0zLWk2YzY2eGdMcnN5eEluWXZuRllHVjVHNGFXcUlVTWItLW1LcGtWSXVtWHhSNE5iS1FEVU9BcnJQdnc1NkFnU3BTR3RfQl9lU1ZRMVJIY1BpeFU5Q1hPblJybkl2WGNKS041Vkc5WnVxTGcxUVpoQXd2MWExOXJCa0x4NVYybHp0SmIyUEhrRmRkVTNEQy1VaDFnTU9QTG3SAcYBQVVfeXFMT1QxNHIxM0tqYlRlT0hmNmplNzRLZ1o0U08ydVliOE1VWVFQOFlrQVRKREhoWlVMYlB6cTczazlnUG43TDNVRm8tLVJ2VkZlbTZNeDNQbW56WXk3Tm9lc1JmT3pXYTVRN1dIRDBtNTF0eGZDNV85aVE2UWozMW4ydE9DM2Y1UW5NQUtmbmMyb3lQeU4wTzBfYlR5OEFiQ2JhamtMZkIxQTFnakxKRTM1SF9rT3Jzdm1UZUFSUGg0dGRGQ2VfSm1R?oc=5)
 
-2026-06-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcERONm5BREFxelBKZVJvR1BpNHdqWVF4WDU3Y0NEeW0zLWk2YzY2eGdMcnN5eEluWXZuRllHVjVHNGFXcUlVTWItLW1LcGtWSXVtWHhSNE5iS1FEVU9BcnJQdnc1NkFnU3BTR3RfQl9lU1ZRMVJIY1BpeFU5Q1hPblJybkl2WGNKS041Vkc5WnVxTGcxUVpoQXd2MWExOXJCa0x4NVYybHp0SmIyUEhrRmRkVTNEQy1VaDFnTU9QTG3SAcYBQVVfeXFMT1QxNHIxM0tqYlRlT0hmNmplNzRLZ1o0U08ydVliOE1VWVFQOFlrQVRKREhoWlVMYlB6cTczazlnUG43TDNVRm8tLVJ2VkZlbTZNeDNQbW56WXk3Tm9lc1JmT3pXYTVRN1dIRDBtNTF0eGZDNV85aVE2UWozMW4ydE9DM2Y1UW5NQUtmbmMyb3lQeU4wTzBfYlR5OEFiQ2JhamtMZkIxQTFnakxKRTM1SF9rT3Jzdm1UZUFSUGg0dGRGQ2VfSm1R?oc=5)
+
+---
+
+### [Omega-3: Studie widerlegt Wundermittel gegen Alzheimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+
+---
+
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
+
+---
+
+### [Hantavirus : l’épidémie mortelle sur le navire de croisière Hondius devrait officiellement prendre fin le 2 juillet, selon l'OMS - Le Figaro](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZllnVnJWaDdNbmZoWjRkVHdSRmxQUXdyRXo5aFFiZGdrYzdDSHRJd3pXaTVaQ1FRNG5jWlRTUU55dFEzYkRJdTczdWlJdGFzYm5Ray0wVlZDalR3NEtnS0ZaMWd6bTAtekNBbGhPZ2V3MTNoeE5ZaFJ1SGVNNExNNS02V0kyNHdLMWVCY19DVHBrSUFXZ0ZVS19hZWJpRmNBYlhVTW5ULUppc1lNamc5b0N4THlBMjBSZGxYSzJOUU9hNzlsYW16c0hlUDE0QUUtTDQtWDFrNlZoa3JHdlVXMlVwdWtIWEgta2dqMERRaTE4cW1uYTZfYmRZQXF1Zw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span>
+
+來源：[Le Figaro](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZllnVnJWaDdNbmZoWjRkVHdSRmxQUXdyRXo5aFFiZGdrYzdDSHRJd3pXaTVaQ1FRNG5jWlRTUU55dFEzYkRJdTczdWlJdGFzYm5Ray0wVlZDalR3NEtnS0ZaMWd6bTAtekNBbGhPZ2V3MTNoeE5ZaFJ1SGVNNExNNS02V0kyNHdLMWVCY19DVHBrSUFXZ0ZVS19hZWJpRmNBYlhVTW5ULUppc1lNamc5b0N4THlBMjBSZGxYSzJOUU9hNzlsYW16c0hlUDE0QUUtTDQtWDFrNlZoa3JHdlVXMlVwdWtIWEgta2dqMERRaTE4cW1uYTZfYmRZQXF1Zw?oc=5)
 
 ---
 
 ### [La OMS lanzará un ensayo clínico sobre dos tratamientos contra el ébola - France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1FXTEhKb0ZkODJNQkM0bkZWSDBjaG1UVUlkb1lwa0JhVXZqaXhfMHJGUm53NmdvYkRuTjdqZ0p2MkRXaTFlWVJEUW4wY2dlcXltdW5GY184VmRBOG44LUVYdlRyNDRsUGFNb0JLWkhYQ3BqSkRxYUhfYnhEY05qTkM1Mm5sWUd1c1o3bnBxc0RWSFlwVFN0cGpJcDRFQ0diZXNrSWVfdjlsaS1xSHZZT3FVWFB5bkRBSGxBdmJFVGFCYngtSGtLQkdLWkc1U2JYc04tX3hR?oc=5)
 
-2026-06-24 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">MS</span>
 
 來源：[France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1FXTEhKb0ZkODJNQkM0bkZWSDBjaG1UVUlkb1lwa0JhVXZqaXhfMHJGUm53NmdvYkRuTjdqZ0p2MkRXaTFlWVJEUW4wY2dlcXltdW5GY184VmRBOG44LUVYdlRyNDRsUGFNb0JLWkhYQ3BqSkRxYUhfYnhEY05qTkM1Mm5sWUd1c1o3bnBxc0RWSFlwVFN0cGpJcDRFQ0diZXNrSWVfdjlsaS1xSHZZT3FVWFB5bkRBSGxBdmJFVGFCYngtSGtLQkdLWkc1U2JYc04tX3hR?oc=5)
 
@@ -78,35 +102,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDQ5U08xc01Cb1hIRGZLaXBaSjgyM0lXamZwVUJTTmNuOGcxNlNsTnZvb2k3b1R2cTRlMEZOdExRSmdyVU90eFh5aWluZnRBR294OGxDTUxMVjk0QUtkRDRLU2FSZzhOSUN1WllYRERxQTR3MEZ2LVpoMlEySDZLRGxnc0RMaHJJTnlOUjBfOEhVNThkY0FQSk43cW50Mm1xZExFczJVdWpWSEcyQno1TA?oc=5)
+### [Confirmado primer caso de ébola en Francia tras regresar un doctor de RDC - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDQ5U08xc01Cb1hIRGZLaXBaSjgyM0lXamZwVUJTTmNuOGcxNlNsTnZvb2k3b1R2cTRlMEZOdExRSmdyVU90eFh5aWluZnRBR294OGxDTUxMVjk0QUtkRDRLU2FSZzhOSUN1WllYRERxQTR3MEZ2LVpoMlEySDZLRGxnc0RMaHJJTnlOUjBfOEhVNThkY0FQSk43cW50Mm1xZExFczJVdWpWSEcyQno1TA?oc=5)
-
----
-
-### [France confirms first Ebola case in doctor who had worked in DRC - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
-
-2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
-
----
-
-### ['Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
-
----
-
-### [Confirmado primer caso de ébola en Francia tras regresar un doctor de RDC - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
 來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+
+---
+
+### [First Ebola case confirmed in France, health ministry says](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
+
+2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Febuxostat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Omega-3-Präparate: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+### [Bluthochdruck: Diese Medikamente werden am besten vertragen](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFY5aXE3dVBLWjE3aHpYa01zOXVkZUFMeHdMOHBvZ1VVbEg0aGVCdnJ4WGxHbTloY0FyOU5kSmlGazFteWNSTldqOGp5RVlJQVEzSi00bmt1YWJtZEt5TzIyZ2pLcUo4QWtHZDEzTWstaDZlcDBxc3Nja2pwZmFmaVE0YWhYZnd1c0RBandkaGJsNDNvM1RURUdyeThLMzBOcHNIQjhua0RyNTJqcXRFcWRHRQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+來源：[Kurier](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFY5aXE3dVBLWjE3aHpYa01zOXVkZUFMeHdMOHBvZ1VVbEg0aGVCdnJ4WGxHbTloY0FyOU5kSmlGazFteWNSTldqOGp5RVlJQVEzSi00bmt1YWJtZEt5TzIyZ2pLcUo4QWtHZDEzTWstaDZlcDBxc3Nja2pwZmFmaVE0YWhYZnd1c0RBandkaGJsNDNvM1RURUdyeThLMzBOcHNIQjhua0RyNTJqcXRFcWRHRQ?oc=5)
+
+---
+
+### [Omega-3: Studie widerlegt Wundermittel gegen Alzheimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
 
 ---
 

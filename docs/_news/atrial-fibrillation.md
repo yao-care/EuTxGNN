@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。21 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。22 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>21 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>22 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,13 +67,61 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（22 則）
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
-2026-06-24
+2026-06-25
 
 來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+
+---
+
+### [In Francia è stato rilevato il primo caso di ebola fuori dall'Africa: è un medico rientrato dalla Repubblica Democratica del Congo - Il Post](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xUENORlNMa3p2YnJ4eTNPV3ZnRzVUMjMzSzBSZ21qWVRlYVVxQTZDRHRmNzBtbWdsS25MOFpNN09rQ2lCTVB3UXpVTWdSVkJPRXdXM0NrRWRQT010MGw2cW53cDFzckdMUDFMcF9kQ0tUUXNmR0MzTm5zRQ?oc=5)
+
+2026-06-25
+
+來源：[Il Post](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xUENORlNMa3p2YnJ4eTNPV3ZnRzVUMjMzSzBSZ21qWVRlYVVxQTZDRHRmNzBtbWdsS25MOFpNN09rQ2lCTVB3UXpVTWdSVkJPRXdXM0NrRWRQT010MGw2cW53cDFzckdMUDFMcF9kQ0tUUXNmR0MzTm5zRQ?oc=5)
+
+---
+
+### [B12, la vitamina que puede faltar aunque la analítica diga lo contrario - La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEw3TGx5TEg3NlN4eFpvVUxvdklGM1BtYnRvR0V6aUpoZFMwd2l0NjlxODlBSDVEMGg4eHZyVkZuRDNDRmpHUG9nTHRYdXZ1QTB2MUpjNllkSEVKdWtZcEF5LXg0bHZZRWlxRm51bXQwVWNzX0d0VVdvNlEwZjdpSzBFenFDZ19xaHowRlhNemtNWUZPVi1rUlpsWmh5dnVpanYzZmlkMnY5N1l6LVIzQXVsVdIBuAFBVV95cUxPOVZVZFgwY2JLOUNhcXFXRDBBODRVdE5qY3kzbFBRU1Q0Ukozd0ZLcnd5Z3NlNFk1c3NJRml5Y19adkhJc3I4TU9lU3BWWWUzSzNDVkF3dm44Sy1NQVpUSzhjSko4MUxrSEtmSzVRQVAyTXE2cXRLbGptOWR1aEJVR2hObl9sdWo3X3VnVGl0M0tUS1pUcHloYTR0S29kQzNtZjNJOE1uMktibXJFWFVJN1B3bTdmdGxP?oc=5)
+
+2026-06-25
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEw3TGx5TEg3NlN4eFpvVUxvdklGM1BtYnRvR0V6aUpoZFMwd2l0NjlxODlBSDVEMGg4eHZyVkZuRDNDRmpHUG9nTHRYdXZ1QTB2MUpjNllkSEVKdWtZcEF5LXg0bHZZRWlxRm51bXQwVWNzX0d0VVdvNlEwZjdpSzBFenFDZ19xaHowRlhNemtNWUZPVi1rUlpsWmh5dnVpanYzZmlkMnY5N1l6LVIzQXVsVdIBuAFBVV95cUxPOVZVZFgwY2JLOUNhcXFXRDBBODRVdE5qY3kzbFBRU1Q0Ukozd0ZLcnd5Z3NlNFk1c3NJRml5Y19adkhJc3I4TU9lU3BWWWUzSzNDVkF3dm44Sy1NQVpUSzhjSko4MUxrSEtmSzVRQVAyTXE2cXRLbGptOWR1aEJVR2hObl9sdWo3X3VnVGl0M0tUS1pUcHloYTR0S29kQzNtZjNJOE1uMktibXJFWFVJN1B3bTdmdGxP?oc=5)
+
+---
+
+### [Kaffee & Klartext informiert über Hitzeschutz im Alter](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWloeml1WkZKS1o1YUtINFk2NmpTbXozVEZuOGxJVEVpS1J1NlIwQ3h0YUJCWGhRUXJqLUF3dllaclRXWDlnRjZYRkhvbnBLa0dvV1lNZEQ5WG1odkk5d1YtQVpjbXl1R3dLaHZ4Y09KTjdneGJJOURvLWFLeGRsdk9KUk96dGROZnc?oc=5)
+
+2026-06-25
+
+來源：[spoekenkieker.info](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWloeml1WkZKS1o1YUtINFk2NmpTbXozVEZuOGxJVEVpS1J1NlIwQ3h0YUJCWGhRUXJqLUF3dllaclRXWDlnRjZYRkhvbnBLa0dvV1lNZEQ5WG1odkk5d1YtQVpjbXl1R3dLaHZ4Y09KTjdneGJJOURvLWFLeGRsdk9KUk96dGROZnc?oc=5)
+
+---
+
+### [Women suffering brain tumours after contraceptive jab fight for change](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG8ydGQ2dGEzLWZVbDVDMGx6MF9CcXB1UHJrUTd3eUM2VG1ZWF84XzRuWlVaQWFGc2NMcmhUN1ZSMEtBdXg0dTdmdm1PWTVKdGhiTE43SmN2eXd2dm56WEdSVEJSLWVqNFZzYUJnTUZQMENPQUZRX1RmQjdBRkMydmxCM0VFLVowdmdtUE14LUVfZ044T1U0WFlWMWJfc3pxUjloWWVR?oc=5)
+
+2026-06-24
+
+來源：[ITVX](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG8ydGQ2dGEzLWZVbDVDMGx6MF9CcXB1UHJrUTd3eUM2VG1ZWF84XzRuWlVaQWFGc2NMcmhUN1ZSMEtBdXg0dTdmdm1PWTVKdGhiTE43SmN2eXd2dm56WEdSVEJSLWVqNFZzYUJnTUZQMENPQUZRX1RmQjdBRkMydmxCM0VFLVowdmdtUE14LUVfZ044T1U0WFlWMWJfc3pxUjloWWVR?oc=5)
+
+---
+
+### [Millions of statin users told 'move medication' as UK heatwave hits - The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2pGUGEzUjVlaUl1T2NZMElQcVRNTk9ndFJBNVFpUm1qZDhJVWJpYTdEcksweGJFNkozMWhKSHBqN3U4RUI3dGlkQk1adkd3b1VuNTcybzQxYlA4NEZlY3pHWWZTN1UtY25BWjdhR0VkSjdpLXlybFdVRUltWHVSbTVYennSAYoBQVVfeXFMTk0ySDdZRG85c1kteWpiUlJiUC1wc0FDZS1wSmNGandfWnhzbjhER25HbENpRDllOFRDVlRZbC1SdURMelhaRVJiYUI2UmlUWW9YOFVscGNDeUZLdGVwOW9YWG05dU5MdHExMEVjZkVnaFFLTlpvRWhTYmF2VElkQUJFdXpjXzh1ME5n?oc=5)
+
+2026-06-24
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2pGUGEzUjVlaUl1T2NZMElQcVRNTk9ndFJBNVFpUm1qZDhJVWJpYTdEcksweGJFNkozMWhKSHBqN3U4RUI3dGlkQk1adkd3b1VuNTcybzQxYlA4NEZlY3pHWWZTN1UtY25BWjdhR0VkSjdpLXlybFdVRUltWHVSbTVYennSAYoBQVVfeXFMTk0ySDdZRG85c1kteWpiUlJiUC1wc0FDZS1wSmNGandfWnhzbjhER25HbENpRDllOFRDVlRZbC1SdURMelhaRVJiYUI2UmlUWW9YOFVscGNDeUZLdGVwOW9YWG05dU5MdHExMEVjZkVnaFFLTlpvRWhTYmF2VElkQUJFdXpjXzh1ME5n?oc=5)
+
+---
+
+### [The 'scary' heatwave side effect people don't talk about enough](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWpPWTRQLVcxMG1DTGc5OXpSbzhBQ2lfZVVIUExfLWFVanU1SHRXTVIwLXNOTXlmOExkSzNWWlhMZC11MTJ4aEFJRXFUR0NFQ1AzYmhkaEVsMEVSYm5seFBoTnZ2NE9pUkxzeEg1VmFocFJFU0drM0dSMW9yOXA4Z2Q0ZW93SUhnVFNpTW5FdzIzZlRfNnfSAZsBQVVfeXFMTnRmYlZsamJFSkJFVDhRTnhqclVkQWhtVEh2ZjJkMlpPb1hEdlcwUXJtQjdWbmhOV2FROTYyLWtMUDNRMmkyMElNMDYtc0RuejNMMDRES2JhTVNuSzRVem1oSWU1R3dWRmxjV0I4SkNZQXNxcF82cVlkZDZyODZ5WFZWUVJvNUFmR3J6c3NKLWVrb21UWk5Qdk52LVE?oc=5)
+
+2026-06-24
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWpPWTRQLVcxMG1DTGc5OXpSbzhBQ2lfZVVIUExfLWFVanU1SHRXTVIwLXNOTXlmOExkSzNWWlhMZC11MTJ4aEFJRXFUR0NFQ1AzYmhkaEVsMEVSYm5seFBoTnZ2NE9pUkxzeEg1VmFocFJFU0drM0dSMW9yOXA4Z2Q0ZW93SUhnVFNpTW5FdzIzZlRfNnfSAZsBQVVfeXFMTnRmYlZsamJFSkJFVDhRTnhqclVkQWhtVEh2ZjJkMlpPb1hEdlcwUXJtQjdWbmhOV2FROTYyLWtMUDNRMmkyMElNMDYtc0RuejNMMDRES2JhTVNuSzRVem1oSWU1R3dWRmxjV0I4SkNZQXNxcF82cVlkZDZyODZ5WFZWUVJvNUFmR3J6c3NKLWVrb21UWk5Qdk52LVE?oc=5)
 
 ---
 
@@ -85,22 +133,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Exponerse al sol sin gafas de sol no tiene beneficios para los ojos, sino todo lo contrario](https://news.google.com/rss/articles/CBMixgFBVV95cUxONUVLeUg5STBuQ1J6ZlVLWWtHZTJ6M2ZDb3U4cTUtODV6MFEzTS1mNjRTSlJMSXYydTlSRGV1dENpQ0t5UzQ1NXFWcXJ0bkFNX0ZSMUxUNnFjOWhaUmt3VzVRMnFBVFdXUVR6ZVNTNFltMnpWNFYzZ0JJcG1fZzJWRjFWbThpazNaaFZlQklWaER6T3pCbEI1UmUzeTNaUWNsUy1zVk1tMk4yRHVNbEIzUXh4WTB6eTJZUmNjN2NjM0dNbE84eEE?oc=5)
-
-2026-06-24
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMixgFBVV95cUxONUVLeUg5STBuQ1J6ZlVLWWtHZTJ6M2ZDb3U4cTUtODV6MFEzTS1mNjRTSlJMSXYydTlSRGV1dENpQ0t5UzQ1NXFWcXJ0bkFNX0ZSMUxUNnFjOWhaUmt3VzVRMnFBVFdXUVR6ZVNTNFltMnpWNFYzZ0JJcG1fZzJWRjFWbThpazNaaFZlQklWaER6T3pCbEI1UmUzeTNaUWNsUy1zVk1tMk4yRHVNbEIzUXh4WTB6eTJZUmNjN2NjM0dNbE84eEE?oc=5)
-
----
-
-### [Ich habe eine neuartige Gehirn-Computer-Schnittstelle implantiert – es war ein historischer Moment im OP-Saal - Business Insider Deutschland](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmFFeDlXZWMyX1dkajVjeG5BbmFGYlhXWlNiN19udzVsbk5CdXI5YXAzX1A3NUxwSkp0MjE2bFhubldvN2lWcjJFNTN2YkxMekM2RnI5M2w0R29kME1raDhLSER5dkxlbEtFQlVELU85NWVPTXBOb0RnQzFheG5BdHJzVEIwbFNOZTM5U3Q4RE1BSzhpTTNwOHpYRl92Q0R6d1o0OFUwWmxkcmI1Y284ZUJIZ3N4N0x2emg4ck5QUjc4U2NkRWc?oc=5)
-
-2026-06-24
-
-來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmFFeDlXZWMyX1dkajVjeG5BbmFGYlhXWlNiN19udzVsbk5CdXI5YXAzX1A3NUxwSkp0MjE2bFhubldvN2lWcjJFNTN2YkxMekM2RnI5M2w0R29kME1raDhLSER5dkxlbEtFQlVELU85NWVPTXBOb0RnQzFheG5BdHJzVEIwbFNOZTM5U3Q4RE1BSzhpTTNwOHpYRl92Q0R6d1o0OFUwWmxkcmI1Y284ZUJIZ3N4N0x2emg4ck5QUjc4U2NkRWc?oc=5)
-
----
-
 ### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
 
 2026-06-24
@@ -109,35 +141,27 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [France confirms first Ebola case in doctor who had worked in DRC - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
+### [First Ebola case confirmed in France, health ministry says](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
 
 2026-06-24
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDhEVmVvQzNreHVuX1VrNlFfZXRNNEdKVUlYbzI2bTg3YVNnS1BlSS1IcGNmejY1bDFOM210bTNtQU05TVhVUDNsLWZuUXdDM1BPTFQtWXF4UnRERmlRM0s0Mk9fOUhybzVTU2dUNFRVYUxBdzA3WWVxS1VnT2dCX2RCcnBRRnc?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
 
 ---
 
-### ['Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
+### [All'Istituto Oncologico Candiolo la più grande 'biobanca' vivente italiana](https://news.google.com/rss/articles/CBMioAJBVV95cUxPQU5mbVBXaEVqTTBueUc1TG56eklibE4xVkJpVHgwcngtcnhRVy1yV2RyUHJVZFExQUs3QnE4RTNYaE9JWkpxSFdsUHd6d3MyMGY5SE9YOFZxcnZ5dGtUOU5saVhuaVhQU04wU1dFWGFGTmJPSk56TVV1ODdlWHlORkdoa3ZnRVB0N0RVRE4zUEtiTEhZbVYzd2NnWlBHX2NyWDZCeFlTcThwMEY2LTlyeXJianFEX2xkc0xIZnNYbXZxVElYLTR0Nk82Q2VPVV91YnBHNDVSd3pXRGlLSHI3c190bkVmZS14VWJ2WVdMRVhWd3o2UEpSdzNtemk5LXBrNmhQd0JkQjRaQkVLSDBxVEtLWi03eTJpaWlHUkdsWlTSAaYCQVVfeXFMTUVaVjRrTWUxV1plajdFaEx0bXBzOGpWVGVQTE1seGJTd01pNlMyUjFJTWNDelJPQnN2NzR3WXhKa09oMVdqRndLOWo2cU05MHhOTTRoNS1yS3Y2N0FON1NZbVllZEoxVVZNSndOakptbGh4MDVuNXBuOFhfelNxVHRqTzc4TVBQWnFXRTQ3dWstdlFxeV9CRnFGOVlkSkMxQ3pKbUR6a1hGUDhtYzVkcU9BQlNXaFp4V0g1OXZqUmZBX2JyZ3Q3RWpSTk85RVV4Y2ZrRzBXcFd6WlVNWng3ajFLbEZIYnNnckhxM3pLYjBrd3BfazBVQUpSRkl3T0dMS1B0bHdFN3JVRFhONEVZNnFGMlotNmJKUlZYMFdhdTZHcmxHWnVn?oc=5)
 
 2026-06-24
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMioAJBVV95cUxPQU5mbVBXaEVqTTBueUc1TG56eklibE4xVkJpVHgwcngtcnhRVy1yV2RyUHJVZFExQUs3QnE4RTNYaE9JWkpxSFdsUHd6d3MyMGY5SE9YOFZxcnZ5dGtUOU5saVhuaVhQU04wU1dFWGFGTmJPSk56TVV1ODdlWHlORkdoa3ZnRVB0N0RVRE4zUEtiTEhZbVYzd2NnWlBHX2NyWDZCeFlTcThwMEY2LTlyeXJianFEX2xkc0xIZnNYbXZxVElYLTR0Nk82Q2VPVV91YnBHNDVSd3pXRGlLSHI3c190bkVmZS14VWJ2WVdMRVhWd3o2UEpSdzNtemk5LXBrNmhQd0JkQjRaQkVLSDBxVEtLWi03eTJpaWlHUkdsWlTSAaYCQVVfeXFMTUVaVjRrTWUxV1plajdFaEx0bXBzOGpWVGVQTE1seGJTd01pNlMyUjFJTWNDelJPQnN2NzR3WXhKa09oMVdqRndLOWo2cU05MHhOTTRoNS1yS3Y2N0FON1NZbVllZEoxVVZNSndOakptbGh4MDVuNXBuOFhfelNxVHRqTzc4TVBQWnFXRTQ3dWstdlFxeV9CRnFGOVlkSkMxQ3pKbUR6a1hGUDhtYzVkcU9BQlNXaFp4V0g1OXZqUmZBX2JyZ3Q3RWpSTk85RVV4Y2ZrRzBXcFd6WlVNWng3ajFLbEZIYnNnckhxM3pLYjBrd3BfazBVQUpSRkl3T0dMS1B0bHdFN3JVRFhONEVZNnFGMlotNmJKUlZYMFdhdTZHcmxHWnVn?oc=5)
 
 ---
 
-### [Confirmado primer caso de ébola en Francia tras regresar un doctor de RDC - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+### [Medizin: Ursache chronisch-entzündlicher Darmerkrankung bei Kindern entdeckt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFpmanRlQjU4aGJSM29CaDE2RzNTY0QySUhRRThHYVhjUWZ0QTJTVGM0QURjUl8zUGNaVlZVeDhZY1VxQV9TNUZNbElGMHRheEdzRkpmNWJhZ0FrYTI5TlkzOVoxclBEd0lYUXQzZ3NBZ1ZPX1BZOWEzdnRiczZMR1BuV1dVblNSeWJfcFc1TDRIYUs3QlloZzNRZXRSRnNPRHpOT2wxcVNSdjBubmhNVzBsR0YwWVlPLWJPWmdR?oc=5)
 
 2026-06-24
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
-
----
-
-### [Medizin: Ursache chronisch-entzündlicher Darmerkrankung bei Kindern entdeckt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sR09lckJ4eDJnTlhSN01CSlg4ajgyX3dzQkUyNHNOZFdUcGtSaHR3Yy1ib2phQk1fRmJZRG9aTklHSUpqMlo0YXRsNA?oc=5)
-
-2026-06-24
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sR09lckJ4eDJnTlhSN01CSlg4ajgyX3dzQkUyNHNOZFdUcGtSaHR3Yy1ib2phQk1fRmJZRG9aTklHSUpqMlo0YXRsNA?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFpmanRlQjU4aGJSM29CaDE2RzNTY0QySUhRRThHYVhjUWZ0QTJTVGM0QURjUl8zUGNaVlZVeDhZY1VxQV9TNUZNbElGMHRheEdzRkpmNWJhZ0FrYTI5TlkzOVoxclBEd0lYUXQzZ3NBZ1ZPX1BZOWEzdnRiczZMR1BuV1dVblNSeWJfcFc1TDRIYUs3QlloZzNRZXRSRnNPRHpOT2wxcVNSdjBubmhNVzBsR0YwWVlPLWJPWmdR?oc=5)
 
 ---
 
@@ -162,14 +186,6 @@ permalink: /news/atrial-fibrillation/
 2026-06-24
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEFkU0FyVWhZMEhMdi15WlR0cEJtRnhXQzNWSkU0aGx6VnhWMTlnS2ZiVjE1WkhlMkJUNlkxSkVhMF9henRUSzRYdzIwQ3o4bS1kMGgteHFsVk1pd3FGT0IzaHJZR1F6U0R3N09PSmZLb01ROEhIazllYm5Mc0lBei1PTzZpdTdscE44N1NWT1hFVHlJOHVEazJ3VG5NaGtOMWxYeF9QS0ZwOEFtT3c?oc=5)
-
----
-
-### [Quelle tomate est la meilleure pour la santé ? - Madame Figaro](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFJoNU11ajBHcl9GZVFaSl92RkszdnRXVl9NbExKSlZtRHFtQjg1RW0wd1Vfa0NDRTlXTDg1UmRjTmRtUVY2UjRTZ3R5ZTY4Nlpvc3hKMjlHY3AyaXZ5TlF6UFlRMmE4UUYzRHhKREVEV2hkVHFEZC1sMVg0R1RxWTd3NU1zWjU5TFczU0JGS085QmxyVnZzN2FwLXJnakNYNVE?oc=5)
-
-2026-06-24
-
-來源：[Madame Figaro](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFJoNU11ajBHcl9GZVFaSl92RkszdnRXVl9NbExKSlZtRHFtQjg1RW0wd1Vfa0NDRTlXTDg1UmRjTmRtUVY2UjRTZ3R5ZTY4Nlpvc3hKMjlHY3AyaXZ5TlF6UFlRMmE4UUYzRHhKREVEV2hkVHFEZC1sMVg0R1RxWTd3NU1zWjU5TFczU0JGS085QmxyVnZzN2FwLXJnakNYNVE?oc=5)
 
 ---
 
@@ -202,14 +218,6 @@ permalink: /news/atrial-fibrillation/
 2026-06-23
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2kwU0swOW9yMHBydWV1RzJSbE92VkFlRjlDM1lBWFE3QmRKRjBTR0pjeVR3ZVB0SVB4MUNzUFhIZURrR3V4Y1p6ZmhmYjNGSEVIemdHUWNaQXcyXzFEWXQ1V3RsRnNYTTVhOXp4emJQWmRnNTgxcTZGVjlYQXVUUHJHZWZKLWRG?oc=5)
-
----
-
-### [UK heatwave: Five medications that can affect how your body regulates temperature - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
-
-2026-06-23
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0pSdEdaTWVrZ1pvNml3ZEEtTUlwWmp3N3pGaVp3dXJnRUdORU9JQVRzbjNjSkVBQndWQ1dVMHZSNFNybHhVVlp6dGdubi1Xai0wSXpHRERTWEtWdldpalBHamxraHg1X2lzdmRLWDNycmNIakpFYkhwemVXZklSblJWRHVxMUgwd2ppR0EtYlJFV002WDI5RlZiVTlQcnZZY2REMkg4YWlvVFpPb0VEbUVXNU9pZ2lLbXF0Yg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（1 則）
 
-### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Las Provincias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVSRjFwZlo0dHRTaG5icGxBYUZjZlZ3b3k5b1RGbnprRmIzODhJRGxpWFR2TXdtZ0pUMENSbW5pRFEzREdHQ2NyYlBteXBLR1BxbHhCb2NibUhQRkVWVFZHWFFwcDFCbF9pVUdPRmhWZmVFb2VLbXo3QlVfRTJZQ1pfV0dxaWVYUFF0OWFtd1ZYRUh3ZGE1elVpOEd5NF8taGp1MVI3R243enl0czJvdmVId1hNNHMt0gG-AUFVX3lxTE1ETGJ3NlRWQWZNbmp6UnVOV09VWTRHRzljMWsyN0hDSExJcUtibnBkRWxSTUJlTmRnVlgzMGtObkE2andVbXBsM3A2UDJySmdwTkFpZExJZzRneDFmZk9HaHVvX3ZtRFJWVVFjNkJ6SHlFYlhneXNkdmgwaHBsM0FBYXVEcVFvUFhIVXNOQ1pVbnBXanNtSlNPTGh5ejI2NG4yY1BxRWpEREo5ekVwQjRWNlZvVmo0Y3VTMGRfM1E?oc=5)
+### [El calor puede agravar las migrañas - 8 Mediterráneo](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NRkJDSFlqS0t4c18zOG5CZlkybEE1R0JMTFZpRWJQYTdweDRUSXNMbXhzS2xwdVV6dVpleEpCQ0VKLVFjY3g5UkFGNVNjWENBbnFxS21SaXNRYTNGamM1SzVJa2tOLWE2dFROS1AxaFV6bVo2Y1NCazVJcw?oc=5)
 
-2026-06-24 <span class="news-indication-tag">migraña</span>
+2026-06-25 <span class="news-indication-tag">migraña</span>
 
-來源：[Las Provincias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVSRjFwZlo0dHRTaG5icGxBYUZjZlZ3b3k5b1RGbnprRmIzODhJRGxpWFR2TXdtZ0pUMENSbW5pRFEzREdHQ2NyYlBteXBLR1BxbHhCb2NibUhQRkVWVFZHWFFwcDFCbF9pVUdPRmhWZmVFb2VLbXo3QlVfRTJZQ1pfV0dxaWVYUFF0OWFtd1ZYRUh3ZGE1elVpOEd5NF8taGp1MVI3R243enl0czJvdmVId1hNNHMt0gG-AUFVX3lxTE1ETGJ3NlRWQWZNbmp6UnVOV09VWTRHRzljMWsyN0hDSExJcUtibnBkRWxSTUJlTmRnVlgzMGtObkE2andVbXBsM3A2UDJySmdwTkFpZExJZzRneDFmZk9HaHVvX3ZtRFJWVVFjNkJ6SHlFYlhneXNkdmgwaHBsM0FBYXVEcVFvUFhIVXNOQ1pVbnBXanNtSlNPTGh5ejI2NG4yY1BxRWpEREo5ekVwQjRWNlZvVmo0Y3VTMGRfM1E?oc=5)
-
----
-
-### [Rauchen erhöht Demenzrisiko deutlich: neue Studien und Diagnostik-Tools - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN1Yk9kLTkzOENRVVFBTHZmemdxOEVxeGc2b1hLOGdNZ3JXQjVNYU1uaXlqNnF4QkIzZGNrS0VvNGktVlRwalFJLUo3bHBRM0U0cnBsZlpZQmhrYmR5VnNLTVdwbThYT05aYkV0MTEzX3c0NVZIeUxOc2tRQV9XMmMyR3hHSGVpeVI0b1ZTbllodVgtYTVtWTF5c0V0Yzh6UU9paGtB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN1Yk9kLTkzOENRVVFBTHZmemdxOEVxeGc2b1hLOGdNZ3JXQjVNYU1uaXlqNnF4QkIzZGNrS0VvNGktVlRwalFJLUo3bHBRM0U0cnBsZlpZQmhrYmR5VnNLTVdwbThYT05aYkV0MTEzX3c0NVZIeUxOc2tRQV9XMmMyR3hHSGVpeVI0b1ZTbllodVgtYTVtWTF5c0V0Yzh6UU9paGtB?oc=5)
-
----
-
-### [Les médicaments contre l'obésité comme Ozempic auraient aussi un effet sur le taux de criminalité](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
----
-
-### [Rheuma-Lungenschaden: Neue Therapien senken Arthritis-Risiko um 60%](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTY5Ul9GaG5HZEpKNjFabW8zWTJoZ0JnMVVzY3RkaGZNNEt4MGY2azNOOWZFNUJ4UjRtdm5xektweU9kOHRYV29BZXFmQVZFUmM2VllaNFY5anV6bVZSVkxCbXZxajZiV0djVmVWbmQwcWh4MVpGLTZnRUlfbDZ0RHMwWk1PRmFBOFpTc0VCV3piQm44NDBPa1BLcUR2U3J0UmtNLVJYb0g0eHNiQVpZeUhQa0swZ21qamU2VVlVMA?oc=5)
-
-2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTY5Ul9GaG5HZEpKNjFabW8zWTJoZ0JnMVVzY3RkaGZNNEt4MGY2azNOOWZFNUJ4UjRtdm5xektweU9kOHRYV29BZXFmQVZFUmM2VllaNFY5anV6bVZSVkxCbXZxajZiV0djVmVWbmQwcWh4MVpGLTZnRUlfbDZ0RHMwWk1PRmFBOFpTc0VCV3piQm44NDBPa1BLcUR2U3J0UmtNLVJYb0g0eHNiQVpZeUhQa0swZ21qamU2VVlVMA?oc=5)
+來源：[8 Mediterráneo](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NRkJDSFlqS0t4c18zOG5CZlkybEE1R0JMTFZpRWJQYTdweDRUSXNMbXhzS2xwdVV6dVpleEpCQ0VKLVFjY3g5UkFGNVNjWENBbnFxS21SaXNRYTNGamM1SzVJa2tOLWE2dFROS1AxaFV6bVo2Y1NCazVJcw?oc=5)
 
 ---
 

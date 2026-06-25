@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [La OMS lanzará un ensayo clínico sobre dos tratamientos contra el ébola - France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1FXTEhKb0ZkODJNQkM0bkZWSDBjaG1UVUlkb1lwa0JhVXZqaXhfMHJGUm53NmdvYkRuTjdqZ0p2MkRXaTFlWVJEUW4wY2dlcXltdW5GY184VmRBOG44LUVYdlRyNDRsUGFNb0JLWkhYQ3BqSkRxYUhfYnhEY05qTkM1Mm5sWUd1c1o3bnBxc0RWSFlwVFN0cGpJcDRFQ0diZXNrSWVfdjlsaS1xSHZZT3FVWFB5bkRBSGxBdmJFVGFCYngtSGtLQkdLWkc1U2JYc04tX3hR?oc=5)
+### [Hilft das Medikament Remdesivir?: WHO testet zwei neue Ebola-Behandlungsmethoden](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXZNU3pVeXVvTjQ3bFRfVHVxX2dYY1QxNmE5NnNpMjI4QmJ3eVF5MlpYS0RNSHhIc2VOd243SGtNNlFfNTFmSWFvYzkyMGl4dE9Oc0NwUlU1cHdKdV8zaE5kRWpLcF9WZC16VGRCZDBJT2d2NDRQZEpLV0QtUGJHSGdYZ1hVZXZjZEQyU1F6RlBaRW8?oc=5)
 
-2026-06-24 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-drug-tag">Remdesivir</span>
 
-來源：[France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1FXTEhKb0ZkODJNQkM0bkZWSDBjaG1UVUlkb1lwa0JhVXZqaXhfMHJGUm53NmdvYkRuTjdqZ0p2MkRXaTFlWVJEUW4wY2dlcXltdW5GY184VmRBOG44LUVYdlRyNDRsUGFNb0JLWkhYQ3BqSkRxYUhfYnhEY05qTkM1Mm5sWUd1c1o3bnBxc0RWSFlwVFN0cGpJcDRFQ0diZXNrSWVfdjlsaS1xSHZZT3FVWFB5bkRBSGxBdmJFVGFCYngtSGtLQkdLWkc1U2JYc04tX3hR?oc=5)
-
----
-
-### [Cardiopatía isquémica: aprende cómo detectar sus síntomas](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
+來源：[Ntv](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXZNU3pVeXVvTjQ3bFRfVHVxX2dYY1QxNmE5NnNpMjI4QmJ3eVF5MlpYS0RNSHhIc2VOd243SGtNNlFfNTFmSWFvYzkyMGl4dE9Oc0NwUlU1cHdKdV8zaE5kRWpLcF9WZC16VGRCZDBJT2d2NDRQZEpLV0QtUGJHSGdYZ1hVZXZjZEQyU1F6RlBaRW8?oc=5)
 
 ---
 

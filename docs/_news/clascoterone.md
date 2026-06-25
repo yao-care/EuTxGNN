@@ -14,7 +14,7 @@ permalink: /news/clascoterone/
 ---
 
 <p class="key-answer" data-question="Clascoterone 有什麼相關新聞？">
-<strong>Clascoterone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clascoterone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/clascoterone/
 <p><a href="{{ '/drugs/clascoterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Las Provincias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVSRjFwZlo0dHRTaG5icGxBYUZjZlZ3b3k5b1RGbnprRmIzODhJRGxpWFR2TXdtZ0pUMENSbW5pRFEzREdHQ2NyYlBteXBLR1BxbHhCb2NibUhQRkVWVFZHWFFwcDFCbF9pVUdPRmhWZmVFb2VLbXo3QlVfRTJZQ1pfV0dxaWVYUFF0OWFtd1ZYRUh3ZGE1elVpOEd5NF8taGp1MVI3R243enl0czJvdmVId1hNNHMt0gG-AUFVX3lxTE1ETGJ3NlRWQWZNbmp6UnVOV09VWTRHRzljMWsyN0hDSExJcUtibnBkRWxSTUJlTmRnVlgzMGtObkE2andVbXBsM3A2UDJySmdwTkFpZExJZzRneDFmZk9HaHVvX3ZtRFJWVVFjNkJ6SHlFYlhneXNkdmgwaHBsM0FBYXVEcVFvUFhIVXNOQ1pVbnBXanNtSlNPTGh5ejI2NG4yY1BxRWpEREo5ekVwQjRWNlZvVmo0Y3VTMGRfM1E?oc=5)
+### [El calor puede agravar las migrañas - 8 Mediterráneo](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NRkJDSFlqS0t4c18zOG5CZlkybEE1R0JMTFZpRWJQYTdweDRUSXNMbXhzS2xwdVV6dVpleEpCQ0VKLVFjY3g5UkFGNVNjWENBbnFxS21SaXNRYTNGamM1SzVJa2tOLWE2dFROS1AxaFV6bVo2Y1NCazVJcw?oc=5)
 
-2026-06-24 <span class="news-indication-tag">migraña</span>
+2026-06-25 <span class="news-indication-tag">migraña</span>
 
-來源：[Las Provincias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVSRjFwZlo0dHRTaG5icGxBYUZjZlZ3b3k5b1RGbnprRmIzODhJRGxpWFR2TXdtZ0pUMENSbW5pRFEzREdHQ2NyYlBteXBLR1BxbHhCb2NibUhQRkVWVFZHWFFwcDFCbF9pVUdPRmhWZmVFb2VLbXo3QlVfRTJZQ1pfV0dxaWVYUFF0OWFtd1ZYRUh3ZGE1elVpOEd5NF8taGp1MVI3R243enl0czJvdmVId1hNNHMt0gG-AUFVX3lxTE1ETGJ3NlRWQWZNbmp6UnVOV09VWTRHRzljMWsyN0hDSExJcUtibnBkRWxSTUJlTmRnVlgzMGtObkE2andVbXBsM3A2UDJySmdwTkFpZExJZzRneDFmZk9HaHVvX3ZtRFJWVVFjNkJ6SHlFYlhneXNkdmgwaHBsM0FBYXVEcVFvUFhIVXNOQ1pVbnBXanNtSlNPTGh5ejI2NG4yY1BxRWpEREo5ekVwQjRWNlZvVmo0Y3VTMGRfM1E?oc=5)
-
----
-
-### [Rauchen erhöht Demenzrisiko deutlich: neue Studien und Diagnostik-Tools - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN1Yk9kLTkzOENRVVFBTHZmemdxOEVxeGc2b1hLOGdNZ3JXQjVNYU1uaXlqNnF4QkIzZGNrS0VvNGktVlRwalFJLUo3bHBRM0U0cnBsZlpZQmhrYmR5VnNLTVdwbThYT05aYkV0MTEzX3c0NVZIeUxOc2tRQV9XMmMyR3hHSGVpeVI0b1ZTbllodVgtYTVtWTF5c0V0Yzh6UU9paGtB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN1Yk9kLTkzOENRVVFBTHZmemdxOEVxeGc2b1hLOGdNZ3JXQjVNYU1uaXlqNnF4QkIzZGNrS0VvNGktVlRwalFJLUo3bHBRM0U0cnBsZlpZQmhrYmR5VnNLTVdwbThYT05aYkV0MTEzX3c0NVZIeUxOc2tRQV9XMmMyR3hHSGVpeVI0b1ZTbllodVgtYTVtWTF5c0V0Yzh6UU9paGtB?oc=5)
+來源：[8 Mediterráneo](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NRkJDSFlqS0t4c18zOG5CZlkybEE1R0JMTFZpRWJQYTdweDRUSXNMbXhzS2xwdVV6dVpleEpCQ0VKLVFjY3g5UkFGNVNjWENBbnFxS21SaXNRYTNGamM1SzVJa2tOLWE2dFROS1AxaFV6bVo2Y1NCazVJcw?oc=5)
 
 ---
 
