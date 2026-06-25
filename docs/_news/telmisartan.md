@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Omega-3-Präparate: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+---
+
+### [The most common reason people die in hot weather - and it's not heatstroke - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">stroke</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+---
 
 ### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
 2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
+
+---
+
+### [La hipertensión podría estar asociada a un menor riesgo de demencia en personas frágiles - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+2026-06-24 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
 
 ---
 
@@ -86,27 +110,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Unterschätzte Spätfolgen nach Influenza, COVID-19, Pneumonien & Co](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
-
----
-
 ### [Cardiopatía isquémica: aprende cómo detectar sus síntomas](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[20Minutos](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGRNTXNEcnY1Tl83UDlYMUF0REZSYWhRelhHLUJLSWZjQ3ExMGhKXzNydlJmVU9sR0ROMHRTOVdhUGtoS19CZUNmbjdHVTdMeEJidC11MlRFUjZiSVNLd25peFhWS3psaDJLOHk4Z2lpZ04wNTFXT1ItYmJYSlYtbUFGcGtNZkpmVi1qYnF3?oc=5)
-
----
-
-### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">stroke</span>
-
-來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
 ---
 

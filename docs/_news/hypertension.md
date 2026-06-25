@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,23 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Omega-3-Präparate: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+2026-06-24
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+---
+
+### [La hipertensión podría estar asociada a un menor riesgo de demencia en personas frágiles - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+2026-06-24
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+---
 
 ### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/deferiprone/
 ---
 
 <p class="key-answer" data-question="Deferiprone 有什麼相關新聞？">
-<strong>Deferiprone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Deferiprone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/deferiprone/
 <p><a href="{{ '/drugs/deferiprone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Omega-3-Präparate: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+---
+
+### [La hipertensión podría estar asociada a un menor riesgo de demencia en personas frágiles - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+2026-06-24 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+---
 
 ### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 

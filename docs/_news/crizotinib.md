@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="Crizotinib 有什麼相關新聞？">
-<strong>Crizotinib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Crizotinib</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/crizotinib/
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（26 則）
+
+### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
+
+---
+
+### [Prädiabetes rückgängig machen: 58% weniger Herztodesfälle möglich](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
+
+---
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/crizotinib/
 
 ---
 
-### [La “frustración” de abordar un tumor sin arsenal terapéutico: “Es muy difícil avanzar en el glioma de bajo grado si no hay ensayos”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkdnbXlnQTgyalBkbl9BREJvSGVyS3RNV296Tk5IWURIYzM0U3pzZmRSQVgxM3g2cl9tZEdMX0JiTUF2YWdaYmpxRnRFSlNuRG9IU05MRnI1dDZYME5BMzFfSE56bVo2VGh3N09PTnNhWXBqZGxQb3JqdzZ0NmphQ0J6SUJTTktfTTFIT3ZLSjdEUmdmNzZGeXNqYlJFcnVtUGtNenFwM0J1QnBxV015ZC0tM2MtNXJqdkpFQ3R4dlBSMXE3ZlV5YVdYNmViOHRtZU5RaTRCdjJ5a0E1YzJXLTEwdE03QkNJRWdN?oc=5)
+### [Rodigino a caccia del mieloma negli Usa](https://news.google.com/rss/articles/CBMingFBVV95cUxOWk5FRkpHdTYweUNiVUY5eWZDeGNEYURJTWZfWVduNHlZUTZMREM4bWNWVU9OcW1YSThMMWExRDhzUG9SS3A5X2hFam94ZnZ5LVFrY2o3U2Fyb1FGd3htRUk0SnFFaF9oYzQ1RnluRzlpdjVvRjZDSlcyeVlFeF9oTmJRc1JSWkFVOHFFdC1XYlBLNFdPeG9NQ3Fqd3NNUQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">tumor</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYkdnbXlnQTgyalBkbl9BREJvSGVyS3RNV296Tk5IWURIYzM0U3pzZmRSQVgxM3g2cl9tZEdMX0JiTUF2YWdaYmpxRnRFSlNuRG9IU05MRnI1dDZYME5BMzFfSE56bVo2VGh3N09PTnNhWXBqZGxQb3JqdzZ0NmphQ0J6SUJTTktfTTFIT3ZLSjdEUmdmNzZGeXNqYlJFcnVtUGtNenFwM0J1QnBxV015ZC0tM2MtNXJqdkpFQ3R4dlBSMXE3ZlV5YVdYNmViOHRtZU5RaTRCdjJ5a0E1YzJXLTEwdE03QkNJRWdN?oc=5)
+來源：[Polesine24](https://news.google.com/rss/articles/CBMingFBVV95cUxOWk5FRkpHdTYweUNiVUY5eWZDeGNEYURJTWZfWVduNHlZUTZMREM4bWNWVU9OcW1YSThMMWExRDhzUG9SS3A5X2hFam94ZnZ5LVFrY2o3U2Fyb1FGd3htRUk0SnFFaF9oYzQ1RnluRzlpdjVvRjZDSlcyeVlFeF9oTmJRc1JSWkFVOHFFdC1XYlBLNFdPeG9NQ3Fqd3NNUQ?oc=5)
 
 ---
 
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEpFWDlUdk9Wcm5KOWFFMG93MVhKRWZwMXF5N0lQdGd2RGhyZTFVTmVGUUFUQXpRT1NWaGoyQ2NlUVNYNlE5UmhBc1FFMkxaLUNzYkdobEMxWV9nRUhQeXRPdmFFSkE5S3M2UVd3XzNud2JsYmFTSFVWS3cwZk5YYXFkM19TSHBteDQ3Z3Ffbi11Vk9JM05XdXZoT09rMEhFeURzdFpkZW1razlo?oc=5)
 
 2026-06-24 <span class="news-indication-tag">Krebs</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVFLS0VMakhtUWc3V1c5SHAxSjZlSk5aWVRFbk9TMDdnd0pBdmJTNmY1WGc4TVktX245V3RBU1ZSVW5kdmlQc2NjMmdFMmRkV3FVbEh5dzhldDRjamlfWHcydXIwOHI4bU5ETW5Fa0lkbm92VmdtOGw2VlBCUUxVaFhPTVlEMFhSWlgyV3BmMUFvcHZnWEtLeEFmbV9OUmYtMWpsaVRDTVlHclV5?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEpFWDlUdk9Wcm5KOWFFMG93MVhKRWZwMXF5N0lQdGd2RGhyZTFVTmVGUUFUQXpRT1NWaGoyQ2NlUVNYNlE5UmhBc1FFMkxaLUNzYkdobEMxWV9nRUhQeXRPdmFFSkE5S3M2UVd3XzNud2JsYmFTSFVWS3cwZk5YYXFkM19TSHBteDQ3Z3Ffbi11Vk9JM05XdXZoT09rMEhFeURzdFpkZW1razlo?oc=5)
 
 ---
 
@@ -91,6 +107,14 @@ permalink: /news/crizotinib/
 2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+---
+
+### [Barbers could play a role in preventing cancer, Portsmouth study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
+
+2026-06-24 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
 
 ---
 
@@ -115,6 +139,22 @@ permalink: /news/crizotinib/
 2026-06-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+
+---
+
+### [Coherence Neuro testet Hirnimplantat zur Krebs-Detektion mit anschließender Ferntherapie-Option - it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0NzU3lDbnZNWTg0VUZLemRvQWpNYkd3Q3Y0VFpVbzlpT2dwVEJrNGNMZTEtRlJkd3VhV1BoOHg0QnozNWNPZW91NC1JbVlzM1plWGJHaFNXalJ1WEhKMmVvc0Z5VUxNakpGUnlxdnpqV3RGcGpOOVg2YTF4cVQ1bWN3NWNfakNXeDE5bzZkSzlNT3BiVHZkelVSR2N1MUVuVWxLNWpHV0RVcm82dUVib0ZRREFfT3RGU3o0YllTM0NUQWQ3dHRv?oc=5)
+
+2026-06-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMixwFBVV95cUxPR0NzU3lDbnZNWTg0VUZLemRvQWpNYkd3Q3Y0VFpVbzlpT2dwVEJrNGNMZTEtRlJkd3VhV1BoOHg0QnozNWNPZW91NC1JbVlzM1plWGJHaFNXalJ1WEhKMmVvc0Z5VUxNakpGUnlxdnpqV3RGcGpOOVg2YTF4cVQ1bWN3NWNfakNXeDE5bzZkSzlNT3BiVHZkelVSR2N1MUVuVWxLNWpHV0RVcm82dUVib0ZRREFfT3RGU3o0YllTM0NUQWQ3dHRv?oc=5)
+
+---
+
+### [GABA Immune Pathway Drives Female Brain Cancer Growth - Neuroscience News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5)
+
+2026-06-23 <span class="news-indication-tag">cancer</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5)
 
 ---
 
@@ -158,27 +198,11 @@ permalink: /news/crizotinib/
 
 ---
 
-### [A Verona scienziati da tutto il mondo impegnati nella lotta contro il cancro](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUtrNlVOaWxtdVhkME1Tc0NLZk5fYkh2c1pweUxkeEp6Z2I3OVNTQWd3ZUkxdUdiY09DWmpSNy1VRGhESGE1QVc2UVdnN3F2cmVrX2cwdXl5S010VEJLcmxib3pJZWM2aU1xS0VHZ3FoNXduX3BZemo4MnZ2YnQ5UnZaR2wxZmNpNnNqVkEzSWs3SWp1NWU2UjlDamJfSDhQM0wyZDZrdGEtRmIwakFvV0Zidw?oc=5)
+### [Genoma del cancro, a Verona scienziati da tutto il mondo per comprenderne le basi genetiche](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FfTVJmdTRjb0I0TjRJZnRwSTgxR0ZsSDN3S2xDVE02V3Y3dFotRHBFeHQyTHF5cnBfVFRodWFSTEFLX1dlcVkzbGZEMGlZLUV5cWx0clpoZHZlWG5acHBoVWFJTUNaZ2RxMWhYQkVoMHhjeVlEMTlDQWtmbDdSeUpsVU11U0JGTnJ4WVY1RS1Mdk8tRHV4ekdJMWVTdDQ1TFZyNkNSR0w0VzN2S3pKeV9oOV91VC0yVF9USXJuVWpIRmhjdTFlTEtIZjBwaUUzdjBHdFFmQnROX1Y5QVI2Q0ktZUZ0UdIB6wFBVV95cUxPaWx5Q0RnYklMN2ZhSHBONjRIYUhIQTVPNmc5Y00zNE9LXzhwV0NiVnNyTWFtVWJOejktWlowanRiblVJTWY2RGFwM3otbUZrd0lKTEpYTmFKYTlGYnBCZFRKdnVoRWRKSkhSenV4M2drWk5ESjllUHdGWVNwZXBrdWJTQlduOVVfMkU2bmpBOFVxQXlwVU8yajJHejI2b1pJUGZoLWRKNnNyeDBKVkNxdDlmSTVuaWpIUDI5RzNpYTJuWTVVT1hqMHBpTGRqS3pJSDkxcUxaTTFCUmJKRnFwT0RTMlJxZU5xYkRF?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancro</span>
 
-來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUtrNlVOaWxtdVhkME1Tc0NLZk5fYkh2c1pweUxkeEp6Z2I3OVNTQWd3ZUkxdUdiY09DWmpSNy1VRGhESGE1QVc2UVdnN3F2cmVrX2cwdXl5S010VEJLcmxib3pJZWM2aU1xS0VHZ3FoNXduX3BZemo4MnZ2YnQ5UnZaR2wxZmNpNnNqVkEzSWs3SWp1NWU2UjlDamJfSDhQM0wyZDZrdGEtRmIwakFvV0Zidw?oc=5)
-
----
-
-### [Darmstammzellen: Entzündungsgedächtnis bleibt über 100 Tage](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEhuRUxoMUhBM3lsMXNCdmNHM2pfNUNqTTNmbDFzdzBvWUExQTRWaS13M1VNS0pzaDd5dEVxLUtRdkVwZmVyN3dxQktvbU5nNHVnTi1razNjUU5jcnppR2VsNUF2YUlORlZ2NGhxTmNBMkhMS2JsakxYNC1DNDZDS1NuNC1VU2ZsQ3lkUU1ER01VajFTYlMyY2Y3WlJFMVlTaHl1R3NGOW1VRUFqNXBj?oc=5)
-
----
-
-### [Le vaccin contre le Covid-19 améliore très légèrement la survie des patients traités par une immunothérapie des cancers - Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxORkt5YVIwRFQzZEROSTRIU2JwOWp1U2ZNcHM0UHhsSy01UjBySVZNclBZZEhtc1FIZVBZMEZfdE5WZm9paVZRM1ZNZENxU3g4OEVkaFRqblNLYnR2M19UbWs3OHpDLUo0aVEtMXhBcF9ZOHVHLWJaemZrQlpDLTJxYnN0RVpXQXRSc0pJai15MXZtcEx3QVNTaXZYR1EteDFzY1B2TFZ1d09hOWdONTMwQVZYUlpPbnhXNUhDaXc4d1hJSlY4QlM0b3ZOMzVLSlpucVpIdExXYzRzR1BLSmZLZ1NGUDJSYlAyTVBBdnNzdEo5SGZ0WVZZT1lzaFctM01NVVR2REhTTmxnMjNRUElTZDlvRG5ycmZ3MEtV?oc=5)
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM3FfTVJmdTRjb0I0TjRJZnRwSTgxR0ZsSDN3S2xDVE02V3Y3dFotRHBFeHQyTHF5cnBfVFRodWFSTEFLX1dlcVkzbGZEMGlZLUV5cWx0clpoZHZlWG5acHBoVWFJTUNaZ2RxMWhYQkVoMHhjeVlEMTlDQWtmbDdSeUpsVU11U0JGTnJ4WVY1RS1Mdk8tRHV4ekdJMWVTdDQ1TFZyNkNSR0w0VzN2S3pKeV9oOV91VC0yVF9USXJuVWpIRmhjdTFlTEtIZjBwaUUzdjBHdFFmQnROX1Y5QVI2Q0ktZUZ0UdIB6wFBVV95cUxPaWx5Q0RnYklMN2ZhSHBONjRIYUhIQTVPNmc5Y00zNE9LXzhwV0NiVnNyTWFtVWJOejktWlowanRiblVJTWY2RGFwM3otbUZrd0lKTEpYTmFKYTlGYnBCZFRKdnVoRWRKSkhSenV4M2drWk5ESjllUHdGWVNwZXBrdWJTQlduOVVfMkU2bmpBOFVxQXlwVU8yajJHejI2b1pJUGZoLWRKNnNyeDBKVkNxdDlmSTVuaWpIUDI5RzNpYTJuWTVVT1hqMHBpTGRqS3pJSDkxcUxaTTFCUmJKRnFwT0RTMlJxZU5xYkRF?oc=5)
 
 ---
 
@@ -187,14 +211,6 @@ permalink: /news/crizotinib/
 2026-06-23 <span class="news-indication-tag">Krebs</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTdEV2M1N0hhTmdqNDdUUTdyRkF1dUZyY3plRmdhWkttUzJHa0x4dGhrb3d5WjQwMDdBczFiZGRyZUlNSTdpYkowU0xFMG0zM1RGUlhfYXpaWlNoZ2pWTnlMdW1YT21FNUNySlpuY3JMdXZRRE1DYUExQWN5WGRVLVdrb3pLbmVPUWYzUHZpblJGZ1lGN2JrLUgyOGdHbDF1Q3pXYmxrT1E3NGJVLS1hNk1VZHo?oc=5)
-
----
-
-### [Tumori del fegato, polmone e stomaco: l'esame del sangue per la diagnosi precoce | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHBqaUowTEt4ekVaX21YTUtabnVHN0RNY0I5N3lvMEVNeG5hVTlGeXlzWU1RTlFQMDFUV2pQSTk4RkNNa0dtbF9Bakh4VWRPY2JYOE5uUHV0c2pBQWVvWE93SkpveHhHYm05eUtGRmNOVzZJSFBkVmxOc0pQQnRCc1dDOC16Q0tBYmdUanR2TGlLVjctMjMtdjh0bDdPOEJhTDgwY1NtdHRHVS1rN2FxcXVxanF5aEI0WUIxbkQwSVRyTUNwQlN1ZzFyUjVaaXFMaUdiWU9XWnJTMFpYMVNrMG5weWt6TDlCV210c9IB8AFBVV95cUxOdzYtU1gtY25wSzZ2ODU5NzJQajRMUGNhS3ZmYzdjRFI0d29Ham11QndBYzljWFNRY3FXNTdHNEdQTnk2bC1lY3luT3ptbzdxNVlMMVpsbUFpNTEwN1lPdVZHRkhGVFhxa051NlNiS0pETHRjTHlZNnU5RlZVNUxjSGdTNFV4WlhQTzlvNmNNRDhPQUpyUjQyZVV3RUNvSDdDRkFlVm92M2Q2MC1aRndMS2ppRXlyNmFmazVIQWxqdGRpTFB6TmJTS21DWUxNcENjdkQwMHJqaUtuLTExSDVnTHluVmtYN3lEQVozMThCOE8?oc=5)
-
-2026-06-23 <span class="news-indication-tag">tumor</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaHBqaUowTEt4ekVaX21YTUtabnVHN0RNY0I5N3lvMEVNeG5hVTlGeXlzWU1RTlFQMDFUV2pQSTk4RkNNa0dtbF9Bakh4VWRPY2JYOE5uUHV0c2pBQWVvWE93SkpveHhHYm05eUtGRmNOVzZJSFBkVmxOc0pQQnRCc1dDOC16Q0tBYmdUanR2TGlLVjctMjMtdjh0bDdPOEJhTDgwY1NtdHRHVS1rN2FxcXVxanF5aEI0WUIxbkQwSVRyTUNwQlN1ZzFyUjVaaXFMaUdiWU9XWnJTMFpYMVNrMG5weWt6TDlCV210c9IB8AFBVV95cUxOdzYtU1gtY25wSzZ2ODU5NzJQajRMUGNhS3ZmYzdjRFI0d29Ham11QndBYzljWFNRY3FXNTdHNEdQTnk2bC1lY3luT3ptbzdxNVlMMVpsbUFpNTEwN1lPdVZHRkhGVFhxa051NlNiS0pETHRjTHlZNnU5RlZVNUxjSGdTNFV4WlhQTzlvNmNNRDhPQUpyUjQyZVV3RUNvSDdDRkFlVm92M2Q2MC1aRndMS2ppRXlyNmFmazVIQWxqdGRpTFB6TmJTS21DWUxNcENjdkQwMHJqaUtuLTExSDVnTHluVmtYN3lEQVozMThCOE8?oc=5)
 
 ---
 
@@ -243,30 +259,6 @@ permalink: /news/crizotinib/
 2026-06-23 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGxmRXAta2dMVzdMa2l0YVhXLU5lSFRjc0tPRGFZZWRtSlVVVjJuYXdCTVdsbEdhN1lfdkhuSEJEVms3Y19qWUItUUtYLV92V1RpTFAzckhxdjFqbXk0Q1JQcTB1S3ZTaEhMMnFaRGZJamQxUjZ3ei1XTVI3MGR2TTRrRGdxQUNnQTJWRUw4SlpVb1dmLWZKNA?oc=5)
-
----
-
-### [A molecule called MHC I was understood for decades as the thing that lets the immune system recognize cancer, until researchers found the immune system attacks hardest exactly when cancer switches it off - Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeE1pWlFrYms3aDVzbG9OVVduUEFkS09SZWswRFlnNWE1Zk5iOV9tWEJ1QWtndGR5ZEhoOWxmZm5MdmlZVktHemxQSUxrbXlHd1BkbklSQ3IxdngtN1p4c09hVUoxVmIwRGgzdGJhUEo2R3BXYWxKZll3Tkx0aXF5ZWVHM0xENWR4VFlpTmdnZnBtUnJlOEswWVRGR0xsVG5yX183bll6Sk5lWUd1WC1mTENDRmF4d3ByZjBHdmV4cUhzS2Frd3hUT1p2b2wwQ0ppSnFUeXlueUZvMnl4VjVOYUsxYW5MTmZSOG1reWJHZkQ4aExxYXg1Z2ZoTzdPdGNjQUF6MXFQMHF4UGhkaVlQQWtXX1J1RDg1TzNHa2F4bEtySElLTkV6ZzVnTkpRUW1nbnd4NWt2cUhzTDdMaHJ4NEtDY01JWjA?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxNeE1pWlFrYms3aDVzbG9OVVduUEFkS09SZWswRFlnNWE1Zk5iOV9tWEJ1QWtndGR5ZEhoOWxmZm5MdmlZVktHemxQSUxrbXlHd1BkbklSQ3IxdngtN1p4c09hVUoxVmIwRGgzdGJhUEo2R3BXYWxKZll3Tkx0aXF5ZWVHM0xENWR4VFlpTmdnZnBtUnJlOEswWVRGR0xsVG5yX183bll6Sk5lWUd1WC1mTENDRmF4d3ByZjBHdmV4cUhzS2Frd3hUT1p2b2wwQ0ppSnFUeXlueUZvMnl4VjVOYUsxYW5MTmZSOG1reWJHZkQ4aExxYXg1Z2ZoTzdPdGNjQUF6MXFQMHF4UGhkaVlQQWtXX1J1RDg1TzNHa2F4bEtySElLTkV6ZzVnTkpRUW1nbnd4NWt2cUhzTDdMaHJ4NEtDY01JWjA?oc=5)
-
----
-
-### [Prädiabetes-Remission: Sterberisiko sinkt um 58 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
-
----
-
-### [Prostate cancer blood test detects twice as many cases - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
-
-2026-06-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5)
 
 ---
 

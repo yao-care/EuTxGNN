@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [The most common reason people die in hot weather - and it's not heatstroke - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">stroke</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+---
 
 ### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
@@ -75,22 +83,6 @@ permalink: /news/simvastatin/
 2026-06-23 <span class="news-indication-tag">stroke</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
-
----
-
-### [Unterschätzte Spätfolgen nach Influenza, COVID-19, Pneumonien & Co](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
-
----
-
-### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">stroke</span>
-
-來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
 ---
 

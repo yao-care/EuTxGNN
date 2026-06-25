@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Omega-3-Präparate: Hochdosiertes DHA schützt nicht vor Alzheimer](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjJjb0lGd0VId21CemlqeXc4OUQwZWsza1lBbXo3MldoZF9oQXU2c3pnRUExQUZCUElqbWtzQlo0eUR6TENhMEN3MXhnUWpRT3ZLV3ByWkhVLVJpWjk1bUlxV0Z0cFl0Qm5GQmtpTFZ0NVBCX05GVFlSR2d2WUdURVU4a2FEUUcxVjhKMlViYW03MmhQTEdBQndpRDc1MmtPR2FCendlNnJQODZqZjUxS3ZqRnQ?oc=5)
+
+---
+
+### [La hipertensión podría estar asociada a un menor riesgo de demencia en personas frágiles - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+2026-06-24 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
+
+---
 
 ### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/givosiran/
 2026-06-23 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
-
----
-
-### [Colesterolo "killer" nascosto nel fegato, la scoperta che spiega come nasce la steatoepatite metabolica | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbW5NRDdPNzhnYTdXS21xTHlNeWVlTkVrZjhMZHM2cTFYTXdyTUpUajBvV1FBMFV3N2c5QklvdzNZYmhVdEh3X095aGlDcUViaHVwQjRaNUJScXVKNFhPcnNNQWl2b0FZNnZDcGI0ZThtYzhpUERxdHEzY0s5RVJaWkE1bjhNVUlVWTNZcGJxeDJ4bkVVaVFvcGY0em55R0lQd1dEaUdnQnp5Q3VTcHBKUmtfclgxVl9ab3A0X0taUkRmemhUSmt3NlRZcDJxa1htejhDYnBR0gHaAUFVX3lxTE9hMUR4MkRWX29xQzIwdVIxS000TEt1M2xTZWJOVzdWVlhaUDNHcFV6Wm5zVEZ3M2k2RTJyTGFGVWdpcUtwYTUzaUhHdWdIRFdnZUNXdElhOW02QUZWNnhpb3JyODV0M2pPUXBYOHU1T1VwdkNFel9NZWNZdTlzdzdkUlhCQWRLemtlQXBuWDVuQ3RUNVNXbWFzU0xjQ29XcHp0ZG01TDA1OEo0b1dVMC1xdlBIS2hFY2hOT1VTWTVnNUlGdk1lRWh3Yl9jTmhyUDMydThFU2l0aWt3?oc=5)
-
-2026-06-23 <span class="news-indication-tag">epatite</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbW5NRDdPNzhnYTdXS21xTHlNeWVlTkVrZjhMZHM2cTFYTXdyTUpUajBvV1FBMFV3N2c5QklvdzNZYmhVdEh3X095aGlDcUViaHVwQjRaNUJScXVKNFhPcnNNQWl2b0FZNnZDcGI0ZThtYzhpUERxdHEzY0s5RVJaWkE1bjhNVUlVWTNZcGJxeDJ4bkVVaVFvcGY0em55R0lQd1dEaUdnQnp5Q3VTcHBKUmtfclgxVl9ab3A0X0taUkRmemhUSmt3NlRZcDJxa1htejhDYnBR0gHaAUFVX3lxTE9hMUR4MkRWX29xQzIwdVIxS000TEt1M2xTZWJOVzdWVlhaUDNHcFV6Wm5zVEZ3M2k2RTJyTGFGVWdpcUtwYTUzaUhHdWdIRFdnZUNXdElhOW02QUZWNnhpb3JyODV0M2pPUXBYOHU1T1VwdkNFel9NZWNZdTlzdzdkUlhCQWRLemtlQXBuWDVuQ3RUNVNXbWFzU0xjQ29XcHp0ZG01TDA1OEo0b1dVMC1xdlBIS2hFY2hOT1VTWTVnNUlGdk1lRWh3Yl9jTmhyUDMydThFU2l0aWt3?oc=5)
 
 ---
 

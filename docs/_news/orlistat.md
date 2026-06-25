@@ -54,6 +54,22 @@ permalink: /news/orlistat/
 
 ## 相關新聞（9 則）
 
+### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
+
+---
+
+### [The most common reason people die in hot weather - and it's not heatstroke - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+2026-06-24 <span class="news-indication-tag">stroke</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE15RmdYNGNMdmFOWU03R0VLVzNlX2xIekJ1bDBGSmtIZjVxRkpwYmhYNFdkU2tFVmRQUnhBMkdZU3gwaXRBekNvUWV5MXM3eXJBazhFWjFPSXhYM0xLQ0N4T3FlbFlPS2hwLWg4M0EzREZqT2o0OUF4OWo5MNIBgAFBVV95cUxPUW43VEFMd19iVllWWlNXbzg3QVlUNm5sZDVIR0FuR1gwZ0Q1X0JiRDR5T0ZVWjR0cmVDQ2NRRG1NOTYxYVluODRBa3dNWlVqVU5kYnJ2UW50endBUy1RT0F5QjQ4MEM4czhIZjNramt6dzV1dVR3Z2VvY0p0TFYzSw?oc=5)
+
+---
+
 ### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
 2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
@@ -94,14 +110,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Unterschätzte Spätfolgen nach Influenza, COVID-19, Pneumonien & Co](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
-
-2026-06-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzhHY1YtRGNKam9rajNNN1pVbjdnSXNLMHctSTdiSUd0UkswR2lXMWZ6U0VkcUtFTGtkLWR0V2lNaDFfbHhtZTM1MF9JdFdISDdUbXhKNE9XdVQ0emtTbzB1NTFPM2M5MElBTVlkTGllUmlMTHlfWFdJVzlTOXFjdjVPTFhXTGRUZHcyM0RXaG81Ym94MU9IODNn?oc=5)
-
----
-
 ### [BET-Inhibitor und Retatrutid: Neue Strategien gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOYnVsN3FlcFd0QTlYUWlodnJKWFFRUl9HQ2hOdDlWVXJQZm1pNU44VmRsdW1VUTYxS2lqaXd4WVlDOF9IYldTLWNhMG5yUmFEWnQta2txNzZFbU1tbFlpLWJ1eW5nUDFDaEtrcHVWY0RmZFZfQnluX3Q2akhNMmR4RWZhdTFwanR5eE1XTHNlNXdXbFllWjk0SzhqQWJBUQ?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
@@ -115,14 +123,6 @@ permalink: /news/orlistat/
 2026-06-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">arthrite</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Slate.fr](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVFQeWp2aGRya25LNEloNEEtNG01OUppSktjY1h1ODZTckwzQXNnTjMzQVBGWmFGZG9KdUVKamdXdzJsbzdYeHcwQi1vYldMLVAtRjl5VkVEaUZCODJOM3U2WnhGT1BvRlZuRjhCUXgwY0ExX19xMXN1MDhNVDNLLUZQVXk0Y2tmVDRLMms1dXBjaTVzdGVWZF9FUV9FbzhQd0w3MzdwTW93Y3hqRGt5M0pwdmJtWWZTUTFxVVptdklpRHIwOGV1MUlNZE1FaTdqWm1sQjNrVjc5T1lwVndoM211UDlvSDA?oc=5)
-
----
-
-### [COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">stroke</span>
-
-來源：[Yahoo Life UK](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5)
 
 ---
 

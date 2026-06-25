@@ -54,6 +54,30 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（14 則）
 
+### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
+
+---
+
+### [Prädiabetes rückgängig machen: 58% weniger Herztodesfälle möglich](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
+
+---
+
+### [El calor puede agravar las migrañas: experto de Vithas alerta del impacto de las altas temperaturas en los pacientes - Las Provincias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVSRjFwZlo0dHRTaG5icGxBYUZjZlZ3b3k5b1RGbnprRmIzODhJRGxpWFR2TXdtZ0pUMENSbW5pRFEzREdHQ2NyYlBteXBLR1BxbHhCb2NibUhQRkVWVFZHWFFwcDFCbF9pVUdPRmhWZmVFb2VLbXo3QlVfRTJZQ1pfV0dxaWVYUFF0OWFtd1ZYRUh3ZGE1elVpOEd5NF8taGp1MVI3R243enl0czJvdmVId1hNNHMt0gG-AUFVX3lxTE1ETGJ3NlRWQWZNbmp6UnVOV09VWTRHRzljMWsyN0hDSExJcUtibnBkRWxSTUJlTmRnVlgzMGtObkE2andVbXBsM3A2UDJySmdwTkFpZExJZzRneDFmZk9HaHVvX3ZtRFJWVVFjNkJ6SHlFYlhneXNkdmgwaHBsM0FBYXVEcVFvUFhIVXNOQ1pVbnBXanNtSlNPTGh5ejI2NG4yY1BxRWpEREo5ekVwQjRWNlZvVmo0Y3VTMGRfM1E?oc=5)
+
+2026-06-24 <span class="news-indication-tag">migraña</span>
+
+來源：[Las Provincias](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmVSRjFwZlo0dHRTaG5icGxBYUZjZlZ3b3k5b1RGbnprRmIzODhJRGxpWFR2TXdtZ0pUMENSbW5pRFEzREdHQ2NyYlBteXBLR1BxbHhCb2NibUhQRkVWVFZHWFFwcDFCbF9pVUdPRmhWZmVFb2VLbXo3QlVfRTJZQ1pfV0dxaWVYUFF0OWFtd1ZYRUh3ZGE1elVpOEd5NF8taGp1MVI3R243enl0czJvdmVId1hNNHMt0gG-AUFVX3lxTE1ETGJ3NlRWQWZNbmp6UnVOV09VWTRHRzljMWsyN0hDSExJcUtibnBkRWxSTUJlTmRnVlgzMGtObkE2andVbXBsM3A2UDJySmdwTkFpZExJZzRneDFmZk9HaHVvX3ZtRFJWVVFjNkJ6SHlFYlhneXNkdmgwaHBsM0FBYXVEcVFvUFhIVXNOQ1pVbnBXanNtSlNPTGh5ejI2NG4yY1BxRWpEREo5ekVwQjRWNlZvVmo0Y3VTMGRfM1E?oc=5)
+
+---
+
 ### [Triple-Agonisten: GLP-1-Mittel senken Alzheimer-Risiko um 33%](https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzNFUHpBZ195MWZDYkYzXzZLVkxYaXhkbFR3UjJkQ1laWHFGVENOQ2VyeXA3aGJSZkxmTnZCWnQ1bU5hdlYxeXIzOVVCaUtGaXJIYVBvY3h4eW9sY21yNFVXNG1vaGV4Nm85dFJOSEVHVTNOTGVkYk40R2lmeE9KTkFicm5iQnpBUEl5dDhzZHRfc0hCTE9vU0ZVczVWLWZ6UWZXWkFjNExhbW00TlJ6QzZXWERMNG8?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span>
@@ -86,14 +110,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Manejo del dolor orofacial: su relación con migrañas y ansiedad cambia el abordaje](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
-
-2026-06-24 <span class="news-indication-tag">migraña</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0ZFT1g5MlZqTmRQRTFsMlMtWVdZd2F1R3FNZzhXVmplWGUxNGhIZmNlZzNEREFmczJXQnhpOVdyV3VSWlZaMlhJaHJsZ0JBVE9CNFl3MnJtamh6SDIzZzU5RVlwNUt5YnNxdjhtNUdYNjlLakFkSFFRSlExWHFBc0ZQd3JWT3FVUV9uam1WZnRBeWZhTmFuTTB0WC1ldkVnRXIwZ1NOUmNpeHJmUzBWcC1IZElycmpnS1U1TV9UbGZiV1FCVThjUDByaTdqV21p?oc=5)
-
----
-
 ### [Fasten senkt Bauchfett und Diabetes-Risiko: Studie, Grenzen und Trends 2026 - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
 
 2026-06-24 <span class="news-indication-tag">diabetes</span>
@@ -118,19 +134,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [elEconomista.es | El aviso que preocupa a los neurólogos en plena ola de calor: el calor extremo puede agravar las migrañas en miles de personas en España - El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
-
-2026-06-23 <span class="news-indication-tag">migraña</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWJtVU1DdGtGNHlaX0VIVzlIVW14emVlalhMUmd1SE1ERzFWSkZ0cy1YTm0zTkJ0RE1wc20zYkJ3MUdiOXQzelA0TVY4YURMQktoSXZPTzJIblU1ZUdXTmxGTFd6VmxsOEdneUNBazRqcW9WbXFDWkJseUQtbTg1U1FVbERIcWpuamlTZUQ2dFk3QUxUTzdwakhKNDJhd2s2bWxBeEhYN214VC1PUXFEOUlkMWFpaTh2V3ROcnZiYzBCT0I3UVRGVnVFdVFXMUdpTmpSWTRFZkFVTjFUVlpaaWV0TG5Ud081NElaMzcxS0MzcXh0bUttRHRoX2pna0hNTHBFTURVTWR2bHVMd3hIcTUxaUZwVFdGdVpEQWVBNkZwMEsydEZDUzR6ZTQ4QzlyU2lKTEZkN1M2VEV3MVFGemlmaHU4U0dQ0gGzAkFVX3lxTE5MNGNCaEdLQm93dXI5dXRBaGxsSXpZckhndnU2d3NyS2YtQUlKR21kVmNWNmc0T3V6dERNcXVMRUJsd3Z5NDBGMVR0WTZ1UnpHNTY5TzBWT2ktc2p5cm5HcmFFeWJHM1Vwb0VQUlpHdGo2X3BudUdXcHl5TjFXVHRWcnNvbmpVUmJCX083WXNyZklOdDg3dE85N3ZQV2dVMnRDRVdFaUYzQjBHRHFzeXNRR3QwRmRWUk81Mi1MYXYtNmlLYVNTazJSWS1uTG9GcmttRGFqMXE2Wno5bGJHTHUtS182M3dIeFMwbVE1b25wRnJlOE42RXR5NGJCRmV0Y25QNnRSNnVISGV3elREUTdJbWd2bzJSeWdYZU1hbl81cmNsbE5ENUNYaHlJWENqTU1UODA?oc=5)
-
----
-
 ### [Autoimmunprozesse: Epstein-Barr-Viren als Diabetes-Bremse - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
 
 2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFdQYmdYQlpwQi1MampWaVFOZ1BLa0hqc0lmVGtfQ3VYb3psUkY2THd1S1pjVDRJQ2RoTE5tSWtNODZRbTZUYkJnaVVYLW5RUUh5VlVFbVdTbXhFRWFLeUNiNlhIZ3I5Tm12cHhTU1p3Mklld1l6VGlzNkNFaDQ4OENLZTdiYzl2Mmo2ei1B?oc=5)
+
+---
+
+### [New diabetes treatment gets 'landmark' approval for NHS - Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
+
+2026-06-23 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxObHA3ckNEZTJTbU1OMUNwVXBVbWRzLVR2UHFpdldwTDhLdEU0RFpNUEI5V3pkWF9CNGsydFNRUk0wNGdGZjFqOV9CQnJmZ0JFXzN0XzBHM2JsWUJwaUZZLWpSQzhuTmNtRzZDZGNoeGU1YUJtczBNWE1jaWhuWkR6UkY4RV9YVkFoV1RJa3RTQXZ5SFU?oc=5)
 
 ---
 
@@ -142,27 +158,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Demenz-Prävention: Rauchen erhöht Risiko um 40 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
+### [Rauchen erhöht Demenzrisiko deutlich: neue Studien und Diagnostik-Tools - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN1Yk9kLTkzOENRVVFBTHZmemdxOEVxeGc2b1hLOGdNZ3JXQjVNYU1uaXlqNnF4QkIzZGNrS0VvNGktVlRwalFJLUo3bHBRM0U0cnBsZlpZQmhrYmR5VnNLTVdwbThYT05aYkV0MTEzX3c0NVZIeUxOc2tRQV9XMmMyR3hHSGVpeVI0b1ZTbllodVgtYTVtWTF5c0V0Yzh6UU9paGtB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">Migräne</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5KRjRHOVc2VnE4bmN5Z21PaVRoSG90amp4TWM0REticmNpcDJSWmU2cHFLRXNNaUtROTFiOF9wWXhZT3UzR1lJU0ZsR2FlUXNEV01CaW1pVFd3WGpqNm1EYXFKbEhBNzFJVlBJNWJ3Ty1YSlIxMU1BQWdJM2VlNElRcXdIcGkxVldzbHBidWxmNHVxZGVrUUYyNkhoQjJZSWhUSG9Vbw?oc=5)
-
----
-
-### [Prädiabetes-Remission: Sterberisiko sinkt um 58 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1loRTJ1eFBtZEdnZ0YxSWstRmZHbWtzT2l1QmQ4VkRVQnlrNjFjeVRNT0htOHJrNllBSENOcUhVSHlrVUhNQ1lkVm9OMjFsQzI0ajYwNnZuLWk4Zmp0LTVpOHk0SnFtSkVLQ3BsR2lhdWdVUE9zWjdtS0FzeUsxU1VXdG9HbDZSSDFtUlNxTnVUZkxYNldJRVdnRm1ZcW5JYi1KeXVITQ?oc=5)
-
----
-
-### [Teplizumab, the first treatment to slow type 1 diabetes, approved for use on the NHS - Diabetes UK](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvQ19Nc0FoUUpmaEk2djRUZWw4N3FqaVljdGlPc2ZBV0VkbjZfcmNOVm9YNnJ3V2ItTFFlVWJVMExmX25DOGtpTEd4RnBsd1k2cHYzNWsxVDZ0ZzM5cWpKODBVSHRTVHJEZXl0bWkzTXQ3UndmdW01UFNDUTNLR1hFb1htQ3B0OVpKNGp1MGRlODZUdVpUQUp3OHR2NHRlenF4MWNrdmFhUFVlalV0QlU0ZnJDdkU?oc=5)
-
-2026-06-22 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes UK](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDhvQ19Nc0FoUUpmaEk2djRUZWw4N3FqaVljdGlPc2ZBV0VkbjZfcmNOVm9YNnJ3V2ItTFFlVWJVMExmX25DOGtpTEd4RnBsd1k2cHYzNWsxVDZ0ZzM5cWpKODBVSHRTVHJEZXl0bWkzTXQ3UndmdW01UFNDUTNLR1hFb1htQ3B0OVpKNGp1MGRlODZUdVpUQUp3OHR2NHRlenF4MWNrdmFhUFVlalV0QlU0ZnJDdkU?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN1Yk9kLTkzOENRVVFBTHZmemdxOEVxeGc2b1hLOGdNZ3JXQjVNYU1uaXlqNnF4QkIzZGNrS0VvNGktVlRwalFJLUo3bHBRM0U0cnBsZlpZQmhrYmR5VnNLTVdwbThYT05aYkV0MTEzX3c0NVZIeUxOc2tRQV9XMmMyR3hHSGVpeVI0b1ZTbllodVgtYTVtWTF5c0V0Yzh6UU9paGtB?oc=5)
 
 ---
 

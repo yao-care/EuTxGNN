@@ -62,11 +62,11 @@ permalink: /news/vaborbactam/
 
 ---
 
-### [Interstitielle Lungenerkrankungen bei Rheuma: Treiber von Morbidität und Mortalität](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
+### [Rheuma-Lungenschaden: Neue Therapien senken Arthritis-Risiko um 60%](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTY5Ul9GaG5HZEpKNjFabW8zWTJoZ0JnMVVzY3RkaGZNNEt4MGY2azNOOWZFNUJ4UjRtdm5xektweU9kOHRYV29BZXFmQVZFUmM2VllaNFY5anV6bVZSVkxCbXZxajZiV0djVmVWbmQwcWh4MVpGLTZnRUlfbDZ0RHMwWk1PRmFBOFpTc0VCV3piQm44NDBPa1BLcUR2U3J0UmtNLVJYb0g0eHNiQVpZeUhQa0swZ21qamU2VVlVMA?oc=5)
 
 2026-06-23 <span class="news-drug-tag">Abatacept</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWVYUWdqSm50Y3hTOWdkUmpfMi1jc3ZieWNhNHJ4N1ZZVzgtUGRiWkROcTBoZXQ4c2E2b0NTUDhSdW02UTJpNHhGT1VqMndUMXVJc3dJQTk1UXp4c3BIRTFJQm14bHVHbnAybXc5ZGRnTlJYZk5lb09TQjhCOWNjZmtlTDRIVEhZaVluZHJ0RlI3MEZBSHdIRFplaXMtWlFWMGk5NGZSUHV6eElDYzA3aHNUMkctVGE3?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTY5Ul9GaG5HZEpKNjFabW8zWTJoZ0JnMVVzY3RkaGZNNEt4MGY2azNOOWZFNUJ4UjRtdm5xektweU9kOHRYV29BZXFmQVZFUmM2VllaNFY5anV6bVZSVkxCbXZxajZiV0djVmVWbmQwcWh4MVpGLTZnRUlfbDZ0RHMwWk1PRmFBOFpTc0VCV3piQm44NDBPa1BLcUR2U3J0UmtNLVJYb0g0eHNiQVpZeUhQa0swZ21qamU2VVlVMA?oc=5)
 
 ---
 
