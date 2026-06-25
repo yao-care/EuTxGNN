@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Convocan ayudas por 300.000 euros a entidades que trabajen en Euskadi en prevención y control de ITS - Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
-
-2026-06-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1XdDBtblBMb2RzM3p0NjZQODQwb1dEN3htbnhUVVRja3oyM1pETERzam90WlVvVnVBNV8xXzgya2VzY0hjRC1qQU9BSDAwRGJYTW1yTnlJdmdvczNVVWFwdV9RTFNiMnc2Ti12V0pKdXp4VWEtTUJSRW5jZlYtQkhnbjcyd2J3OUVtTUVQanVITTdUSmdwMjRaVWZ5bTE5ZEhTVGtia9IBrAFBVV95cUxPZUZvUmlER09zTU9sQ3hDVnFmZUFHNVdNSEhwaVRRSXhfa1FHTlNEMU11a1FMNmpIbHZ4Z2g4TG5mamgxZ1gxYldPY3pwTkRIMF9UU0pFS2R0XzE1bUxiUUlyRGZJdC1rajdJejJQYkpfWkoxRlQwaUZtWV9pendVTlF1aklyOTFCTUllOUJYdFNsMi1yQV91Z3ppU1F0TkdDaDhuVnNuUWRTMjQy?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

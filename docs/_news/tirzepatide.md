@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（1 則）
 
-### [People who take statins told to 'move medication' in urgent health alert - Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU9XamM4YmRvRm5oT0tNc2gxVENMZFpLeTBXakZsM1dhT0dVbi1wVlpTYTcyN1hIZzUxWW9sS2JTYUZGY0V1VTg4Y2VMdVEtWjlUblM5QWFPTnM0QjdMazRjOEVRTDhQWXMzWmVXSG9rd3VJczZnRUQ3RHpadE8yaEFuNlBNd9IBiwFBVV95cUxOa3llNEtVbi0xeWJmQUk2Y2Qyd3RIQzhtcFpEbHVKcDFSUVljVVZmUWFmRXJMOTc2NXJ2dzNvakNZU05nTE9xTWlpb3FrbGhXMmxpTFdLT2FYSzFNd0k5YkR6cm1Wam1wQXd6MEdERVNWcjBMbGViZndhbEN4aGNabzBSd2tjdG52cTh3?oc=5)
+### [NHS pharmacist issues stark warning to Brits using Mounjaro during hot weather](https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3l3b2hKaGwtUzJOeXRKU2wtU2ZubEZvSXhkSEw0R1d3M3JMTkpvY19MZnJVWFo2V2FQYk9hRVRhYWNqZ1h1VGFhMEQzaVVhYUhGcjFJUkozeGpWdWFwSlRvX1hNaVdXSklPWWhoM1lUOVJ5UGRVQ0NtdGQ3M3NTelhON21iZkZUWWYwV3VVbzRRd29PS3JzZkRoMlYwRE0?oc=5)
 
-2026-06-24 <span class="news-drug-tag">Tirzepatide</span>
+2026-06-25 <span class="news-drug-tag">Tirzepatide</span>
 
-來源：[Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU9XamM4YmRvRm5oT0tNc2gxVENMZFpLeTBXakZsM1dhT0dVbi1wVlpTYTcyN1hIZzUxWW9sS2JTYUZGY0V1VTg4Y2VMdVEtWjlUblM5QWFPTnM0QjdMazRjOEVRTDhQWXMzWmVXSG9rd3VJczZnRUQ3RHpadE8yaEFuNlBNd9IBiwFBVV95cUxOa3llNEtVbi0xeWJmQUk2Y2Qyd3RIQzhtcFpEbHVKcDFSUVljVVZmUWFmRXJMOTc2NXJ2dzNvakNZU05nTE9xTWlpb3FrbGhXMmxpTFdLT2FYSzFNd0k5YkR6cm1Wam1wQXd6MEdERVNWcjBMbGViZndhbEN4aGNabzBSd2tjdG52cTh3?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3l3b2hKaGwtUzJOeXRKU2wtU2ZubEZvSXhkSEw0R1d3M3JMTkpvY19MZnJVWFo2V2FQYk9hRVRhYWNqZ1h1VGFhMEQzaVVhYUhGcjFJUkozeGpWdWFwSlRvX1hNaVdXSklPWWhoM1lUOVJ5UGRVQ0NtdGQ3M3NTelhON21iZkZUWWYwV3VVbzRRd29PS3JzZkRoMlYwRE0?oc=5)
 
 ---
 

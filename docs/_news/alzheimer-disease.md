@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [La dieta mediterránea podría influir en la reducción del deterioro cognitivo y la enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
 
 2026-06-25
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
-
----
-
-### [The Subtle Physical Clue That Could Indicate Your Dog Has Dementia](https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1E0TmdLbEZfOEt4WmpzXzViLTNqRTcxWVJ4bkhkeEM3cFFCTUJ0cVR1RUF3bXlqYXZXZU5rcWVSVlhSQlVSZ05Da01fek1JMFk5aXJLN1NxaV9yNmszT0tjR0VuUF9wajc4cHI5TjQ5SmlTOFpWWklVeXpzWFczVllnVmN1ckptcjNzZ3R1NlVibkFpalFKaFNiSQ?oc=5)
-
-2026-06-25
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1E0TmdLbEZfOEt4WmpzXzViLTNqRTcxWVJ4bkhkeEM3cFFCTUJ0cVR1RUF3bXlqYXZXZU5rcWVSVlhSQlVSZ05Da01fek1JMFk5aXJLN1NxaV9yNmszT0tjR0VuUF9wajc4cHI5TjQ5SmlTOFpWWklVeXpzWFczVllnVmN1ckptcjNzZ3R1NlVibkFpalFKaFNiSQ?oc=5)
 
 ---
 
@@ -75,14 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-06-24
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
-
----
-
-### [Dementia risk linked to eating 1 type of food, research shows - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEhDWmphSFBJUkdaNy1DTjRrSURfM2VVQ0d3a2lXbmZSSjNNUXV2bjkwNS1na21YVUhKUTAwMDNwZVhVeldNcnZzMVpHT3E5cW5pc1lNZE9xWGMyNEUxcm5uZ0lZMEg1N2E2X1ljSmF3T3FvV2VNMVVvS2NnX2pkStIBhgFBVV95cUxPU3RmWVRoWWUzVkZyaWlKY09LQm5EVjFiSGlydUM0NVpBOE14WUtVMW54SVdRVEJUVlZzMWdwaXpjM3pCTFltcDkyQ0ZZanM0THdxeXlpc0NQZmZFOXotbmtHWnV6R3hUTDN1X3V6NHRtOHhPa040QkdTV0hTcVBpTFBpR3hFdw?oc=5)
-
-2026-06-23
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEhDWmphSFBJUkdaNy1DTjRrSURfM2VVQ0d3a2lXbmZSSjNNUXV2bjkwNS1na21YVUhKUTAwMDNwZVhVeldNcnZzMVpHT3E5cW5pc1lNZE9xWGMyNEUxcm5uZ0lZMEg1N2E2X1ljSmF3T3FvV2VNMVVvS2NnX2pkStIBhgFBVV95cUxPU3RmWVRoWWUzVkZyaWlKY09LQm5EVjFiSGlydUM0NVpBOE14WUtVMW54SVdRVEJUVlZzMWdwaXpjM3pCTFltcDkyQ0ZZanM0THdxeXlpc0NQZmZFOXotbmtHWnV6R3hUTDN1X3V6NHRtOHhPa040QkdTV0hTcVBpTFBpR3hFdw?oc=5)
 
 ---
 

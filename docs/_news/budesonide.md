@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [La contaminación duplica el empeoramiento en pacientes con asma - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxybkZDUzlScEc1OWRRUmszbnMwZGRqTE9ldWZIcDV3MG1FWUZZbEx4c3dFa1JwekJKTHF4MWZDcjRwVTVWNl9pM1V1TnY3dkVVbmxLMllVYmZ2THNuTDBaS0ExNU9yYmpqWExMSzRTZ0Q5eExOV3RaRUZnRWJXUEczaFlFZXIxR1R2aHpxQjV3RmNWQ2l6d21sUGtmYmU5dVQxMFlvYTBIX3FUYk56YUFRWXlBX29u0gGzAUFVX3lxTE1KWWpJdlRDa1lqUk5tQ3FLY0xOeHluYTBJdGl4RVVVUk9KZGZpZTdTa3RoZjBDdFJiaU1jQVRhbktHWk5ydU82MWkxUVVmV3FmcGR6TFNZbFN2eXowQmljai1wMGI3VmpfeGpLaEdlQ01sU05VOGtFRE5UNkRtSlVZQ24wS0EyUjhSZy1QV1dfTENsWFhNRndfQmc4WUJXU0lpVXdPWGVXZnB3MHZwZ2N2aXRV?oc=5)
+
+2026-06-25 <span class="news-indication-tag">asma</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxybkZDUzlScEc1OWRRUmszbnMwZGRqTE9ldWZIcDV3MG1FWUZZbEx4c3dFa1JwekJKTHF4MWZDcjRwVTVWNl9pM1V1TnY3dkVVbmxLMllVYmZ2THNuTDBaS0ExNU9yYmpqWExMSzRTZ0Q5eExOV3RaRUZnRWJXUEczaFlFZXIxR1R2aHpxQjV3RmNWQ2l6d21sUGtmYmU5dVQxMFlvYTBIX3FUYk56YUFRWXlBX29u0gGzAUFVX3lxTE1KWWpJdlRDa1lqUk5tQ3FLY0xOeHluYTBJdGl4RVVVUk9KZGZpZTdTa3RoZjBDdFJiaU1jQVRhbktHWk5ydU82MWkxUVVmV3FmcGR6TFNZbFN2eXowQmljai1wMGI3VmpfeGpLaEdlQ01sU05VOGtFRE5UNkRtSlVZQ24wS0EyUjhSZy1QV1dfTENsWFhNRndfQmc4WUJXU0lpVXdPWGVXZnB3MHZwZ2N2aXRV?oc=5)
+
+---
+
+### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+
+2026-06-25 <span class="news-indication-tag">asma</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+
+---
 
 ### [Was im Darm wächst, könnte Allergien bei Kindern mitbestimmen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
 

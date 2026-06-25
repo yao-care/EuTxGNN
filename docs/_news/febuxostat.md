@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="Febuxostat 有什麼相關新聞？">
-<strong>Febuxostat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Febuxostat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/febuxostat/
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Bluthochdruck: Diese Medikamente werden am besten vertragen](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFY5aXE3dVBLWjE3aHpYa01zOXVkZUFMeHdMOHBvZ1VVbEg0aGVCdnJ4WGxHbTloY0FyOU5kSmlGazFteWNSTldqOGp5RVlJQVEzSi00bmt1YWJtZEt5TzIyZ2pLcUo4QWtHZDEzTWstaDZlcDBxc3Nja2pwZmFmaVE0YWhYZnd1c0RBandkaGJsNDNvM1RURUdyeThLMzBOcHNIQjhua0RyNTJqcXRFcWRHRQ?oc=5)
 
@@ -64,25 +64,9 @@ permalink: /news/febuxostat/
 
 ### [I’m a doctor — here’s how to accurately check your blood pressure at home - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
 
-2026-06-25 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-06-25 <span class="news-indication-tag">hypertension</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
-
----
-
-### [Bluthochdruck: Schlaganfallrisiko steigt um 35% bei Vorstufen](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTC0xckhpcnlhNFZBUVRNd0psdllUU21VRXV0MDYyVThDYU5HbWpwMDVrdmZBOThzOWlfNFhLSHRSY2NZLUZGUVlPRmZucXNZRGZ1OHBNT045SVpJTEVTVW03aTM4WmdxdW5nVnIwNFdqaWlXT2RGRVBfVXU2TWd4a19CdFcxekNIOXBsN1M1Y2VBTFlMS1Y3UFg2Z01KZU9xV09MUVctN25UR1BhWUdmbHA4ZWZEWDQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTC0xckhpcnlhNFZBUVRNd0psdllUU21VRXV0MDYyVThDYU5HbWpwMDVrdmZBOThzOWlfNFhLSHRSY2NZLUZGUVlPRmZucXNZRGZ1OHBNT045SVpJTEVTVW03aTM4WmdxdW5nVnIwNFdqaWlXT2RGRVBfVXU2TWd4a19CdFcxekNIOXBsN1M1Y2VBTFlMS1Y3UFg2Z01KZU9xV09MUVctN25UR1BhWUdmbHA4ZWZEWDQ?oc=5)
-
----
-
-### [La hipertensión podría estar asociada a un menor riesgo de demencia en personas frágiles - IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
-
-2026-06-24 <span class="news-indication-tag">hipertensión</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRENxWFNIdHN4NWw0MnQxOUZZR1ltdWdXcXJwU2J5Z29RUEk3bDhaZjQwZ2RHcjN5eFRmb0tuc3FwaE1teVAtOHM2SVBfSzcxYVUzUDNVWm1JT2pCVFZNWnhEQUpxWGlIUThCMzZWWXJhZGJ4Q05aeXpPXzlSbm91ZEJic0hrbWFzSjUwa3IzTWhISWx0N2RqNmVDdW9qN2dDcmtpTjJEVEZhRzQzalZXVk1zSdIBrgFBVV95cUxNTnZ3QWdVX0g3a3JDLTBlQlJ2WWtLd2lxVEE2X1BScFI2RUdsbF9XOGhZZEJZTkxnYUN0eW0xZUxEanRqSjJJTXFHU0FoSHdPalp3b292VjNONExYZDh4WFNYbXQ3VHY2bnVNUlFic25hZ1FHZ0FaZGNtVEF5WkhITHQyU2M2a2RnZ3ZkZmt5dUtUQjM5ald0b1RFMkVFOXBBbEMxdkRuYm14M3Q1N0E?oc=5)
 
 ---
 

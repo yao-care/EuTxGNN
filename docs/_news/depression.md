@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Biomarcadores en sangre para medir la respuesta a las psicoterapias en pacientes con depresión - Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
 
 2026-06-25
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
-
----
-
-### [Un banquete de emociones - EL PAÍS](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzY3NsWElqRTVpSHE5N2xkNGhWUV84ZWVQS2xrQmVpcmx6bnY1NGNFdllsMDk4Tkc2dUNPeW1Kekg4Y0Y5X3F0ckRsM3IxdU5KRVE3LW54bWd6c084UlpXX2wtTmxBaWNSV1RTQ29MSjfSAYQBQVVfeXFMUDB4LVkwaHBOZjJSQ0hOb2pQNnVwMGVJZHctSlJ6T0x3Skl0eU9OdmxvYWhGb0JQbWYxcF9jeExzRFlBSTdEWVdVcVF5dUNQNHp5ajBVaGYtNDRkUHNJZDRJRkNXalRJWWhNNEFFSk5qbG4xMUp5VE53ZC03b1c3eGhYODJH?oc=5)
-
-2026-06-25
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzY3NsWElqRTVpSHE5N2xkNGhWUV84ZWVQS2xrQmVpcmx6bnY1NGNFdllsMDk4Tkc2dUNPeW1Kekg4Y0Y5X3F0ckRsM3IxdU5KRVE3LW54bWd6c084UlpXX2wtTmxBaWNSV1RTQ29MSjfSAYQBQVVfeXFMUDB4LVkwaHBOZjJSQ0hOb2pQNnVwMGVJZHctSlJ6T0x3Skl0eU9OdmxvYWhGb0JQbWYxcF9jeExzRFlBSTdEWVdVcVF5dUNQNHp5ajBVaGYtNDRkUHNJZDRJRkNXalRJWWhNNEFFSk5qbG4xMUp5VE53ZC03b1c3eGhYODJH?oc=5)
 
 ---
 

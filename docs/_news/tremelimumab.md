@@ -14,7 +14,7 @@ permalink: /news/tremelimumab/
 ---
 
 <p class="key-answer" data-question="Tremelimumab 有什麼相關新聞？">
-<strong>Tremelimumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tremelimumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tremelimumab/
 <p><a href="{{ '/drugs/tremelimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Bauchfett-Reduktion: 10% weniger Fett senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFhaDBtSFN1V0dvUWFWS0FVUU1vUEpqOXBqNVRtUlJyalBWTjlta3BnNnRmem1KX2FBMm9aZWpOU1Zhb1lkMkZLdE5LdkxoNVhCVTJqU3BmZndkdVpQZjZPWnJteU9vWlUtcmJBVU9aTkgzSnZ3NzRoM251T1plTGRwaVhJaGRNZ1ZVLVc0SEI1VDNFVTE0SHFURGJocG5oQVBicU5uaHBWZllpRk8xX0ZpWDB6UTItRlptcw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFhaDBtSFN1V0dvUWFWS0FVUU1vUEpqOXBqNVRtUlJyalBWTjlta3BnNnRmem1KX2FBMm9aZWpOU1Zhb1lkMkZLdE5LdkxoNVhCVTJqU3BmZndkdVpQZjZPWnJteU9vWlUtcmJBVU9aTkgzSnZ3NzRoM251T1plTGRwaVhJaGRNZ1ZVLVc0SEI1VDNFVTE0SHFURGJocG5oQVBicU5uaHBWZllpRk8xX0ZpWDB6UTItRlptcw?oc=5)
+
+---
 
 ### [Dexcom G7 myLoop compatibles en España - Canal Diabetes](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSQ3l6M2NqX3R5TUJqNllZRWUxc3VaUTdJN0JYd2txN3ZIYzdoUXZLT2h0cjQ1bkZRWlJUeHdIR1JtV1pnSklJdDA3NTBHZzd0S0tjMkl3?oc=5)
 
@@ -70,19 +78,11 @@ permalink: /news/tremelimumab/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
+### [SGLT2-Hemmer senken bei Diabetes das Alzheimer-Risiko um 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUERjZXY1SnpmOC1oT0toS1ZZTW14ZjBtdnpUTmN4MjE5TlpZWWxlenhDUnZJY25HLVJkUl82SWhLNHVGd0FHejJaRTJfLXFoai1na3J6MEVvUnlyV2x4X3hFcFc1WUlSSlV3WWdkdk00NmZhSVBfQW4tc2p2RDVYQ0ZIMWZpQXBhLXhEZk51d3lzNF9kekFCREVGZW9vSG9y?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
-
----
-
-### [KRIYA-839: Könnte eine einzige Spritze Typ-1-Diabetes eines Tages behandeln?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUZ1X0N5dFNTNmVSdXdMZUQzaWQ5ZHd3ZTBDWjhIMTkwQ0RBdTRQMm15dzYwczBROEJVdGprOXdVZG52WTVPd2RvbWZwWldndEszM0U4MEVCeW4wbEcxaHNGZ1pkVVR0LUNqczhONlI2bmtlM1JzMVk3TzBCdjJWbU03VnVyOXRQbXczR2hqRE4tMko5MVQ1N3A4aVVuTy0xY0VaeHdQaDZoMGVqYTR6UzZR?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUZ1X0N5dFNTNmVSdXdMZUQzaWQ5ZHd3ZTBDWjhIMTkwQ0RBdTRQMm15dzYwczBROEJVdGprOXdVZG52WTVPd2RvbWZwWldndEszM0U4MEVCeW4wbEcxaHNGZ1pkVVR0LUNqczhONlI2bmtlM1JzMVk3TzBCdjJWbU03VnVyOXRQbXczR2hqRE4tMko5MVQ1N3A4aVVuTy0xY0VaeHdQaDZoMGVqYTR6UzZR?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUERjZXY1SnpmOC1oT0toS1ZZTW14ZjBtdnpUTmN4MjE5TlpZWWxlenhDUnZJY25HLVJkUl82SWhLNHVGd0FHejJaRTJfLXFoai1na3J6MEVvUnlyV2x4X3hFcFc1WUlSSlV3WWdkdk00NmZhSVBfQW4tc2p2RDVYQ0ZIMWZpQXBhLXhEZk51d3lzNF9kekFCREVGZW9vSG9y?oc=5)
 
 ---
 
@@ -112,17 +112,9 @@ permalink: /news/tremelimumab/
 
 ### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
-2026-06-24 <span class="news-indication-tag">diabetes</span>
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
-
----
-
-### [Fasten senkt Bauchfett und Diabetes-Risiko: Studie, Grenzen und Trends 2026 - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
 
 ---
 

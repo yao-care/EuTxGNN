@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tafasitamab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（27 則）
+
+### [Bauchfett-Reduktion: 10% weniger Fett senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFhaDBtSFN1V0dvUWFWS0FVUU1vUEpqOXBqNVRtUlJyalBWTjlta3BnNnRmem1KX2FBMm9aZWpOU1Zhb1lkMkZLdE5LdkxoNVhCVTJqU3BmZndkdVpQZjZPWnJteU9vWlUtcmJBVU9aTkgzSnZ3NzRoM251T1plTGRwaVhJaGRNZ1ZVLVc0SEI1VDNFVTE0SHFURGJocG5oQVBicU5uaHBWZllpRk8xX0ZpWDB6UTItRlptcw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFhaDBtSFN1V0dvUWFWS0FVUU1vUEpqOXBqNVRtUlJyalBWTjlta3BnNnRmem1KX2FBMm9aZWpOU1Zhb1lkMkZLdE5LdkxoNVhCVTJqU3BmZndkdVpQZjZPWnJteU9vWlUtcmJBVU9aTkgzSnZ3NzRoM251T1plTGRwaVhJaGRNZ1ZVLVc0SEI1VDNFVTE0SHFURGJocG5oQVBicU5uaHBWZllpRk8xX0ZpWDB6UTItRlptcw?oc=5)
+
+---
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
@@ -62,11 +70,43 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Pankreaskarzinom: Erhöht Alkohol das Risiko für Bauchspeicheldrüsenkrebs?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1E5QkNDSXlWcW1ZS01VQ25qZV95c01oazdUMTBubDlIeFoyeGhMVDA5QUVyZDRVOVZHcDB5NU54alZWdkNVRExwQTNWX2VrQzVDODJ1X2RwTzhsMWwwbGVSVTl4Mk1zRVdrTHFxeDdtUEJ3MmhGejlzUmFPejlEeHpTUFpYRFdiaUN3TkdDdVZmMGptUWNNeEdhS3owSkNEZ2dndC1oc2hxeDZIUE1j?oc=5)
+### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlhrN1UzMmZSVUlSbjhXM1h4eUlsRGUza2p5RXNvaV9BeWpUOThXWnlBZDQ1T1IxazFISkplU1pjMThLMmFoZlJtWFVzeDVxRGs1S3pnWktQWkJGek81eHpZQmh2d0tEWDJCN2FlZjJIUm9EOUNGa1RKNWdIZ3dmd1JId1YtZEl5R2lsbW44NGF1YkZpQWVhQnB6YUU3cHZpOEpTVnJuTXUzT0VC?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Krebs</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT1E5QkNDSXlWcW1ZS01VQ25qZV95c01oazdUMTBubDlIeFoyeGhMVDA5QUVyZDRVOVZHcDB5NU54alZWdkNVRExwQTNWX2VrQzVDODJ1X2RwTzhsMWwwbGVSVTl4Mk1zRVdrTHFxeDdtUEJ3MmhGejlzUmFPejlEeHpTUFpYRFdiaUN3TkdDdVZmMGptUWNNeEdhS3owSkNEZ2dndC1oc2hxeDZIUE1j?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlhrN1UzMmZSVUlSbjhXM1h4eUlsRGUza2p5RXNvaV9BeWpUOThXWnlBZDQ1T1IxazFISkplU1pjMThLMmFoZlJtWFVzeDVxRGs1S3pnWktQWkJGek81eHpZQmh2d0tEWDJCN2FlZjJIUm9EOUNGa1RKNWdIZ3dmd1JId1YtZEl5R2lsbW44NGF1YkZpQWVhQnB6YUU3cHZpOEpTVnJuTXUzT0VC?oc=5)
+
+---
+
+### [HPV-Impfung - Krebs-Sterberisiko sinkt auf nahezu null](https://news.google.com/rss/articles/CBMingFBVV95cUxObTVzUnFaNk5xNi14ak94NUlRWWNHbXRqZVhZMHJ3Mkh2dkt1VElGdU1tQVNRNXlHdFNYWWpHNll0WGRBbzZMYlFBbENxRVdEREZnUzlrWFppNTlSRVJiZElfb2NsWTJ3VVkyMkVBYmUtd1F6b3VRaUtsaDN2RTM1TjM1LXVLWUluZlQ3ZkxTYmN2cFFYRU1vUjZqY0wtQQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[BR](https://news.google.com/rss/articles/CBMingFBVV95cUxObTVzUnFaNk5xNi14ak94NUlRWWNHbXRqZVhZMHJ3Mkh2dkt1VElGdU1tQVNRNXlHdFNYWWpHNll0WGRBbzZMYlFBbENxRVdEREZnUzlrWFppNTlSRVJiZElfb2NsWTJ3VVkyMkVBYmUtd1F6b3VRaUtsaDN2RTM1TjM1LXVLWUluZlQ3ZkxTYmN2cFFYRU1vUjZqY0wtQQ?oc=5)
+
+---
+
+### [Manger des légumes crucifères réduirait le risque de cancer de lʼestomac — selon une étude](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcENfLUxBV2ZpY0dSLUNrMm9zUUdHNkxDQVJBcDBfZ0NXOXc4VG9qWmFNbjBQN3BsZGttSXBqQWViTWdUMGZvcDJ5TElDWUlTd3VTamZFNkVsVlF0aExhZWVidDZ6cDlSUjJYMkhBSGloZW9CSDBGVG9rV0RTa2xSOFktVnVjYThmdTY1TTM1M1JUU29DWDQ2a3VDak5TOHdYMnVlYnl6U3ZHbk9tcWdoVXFnbXo4QWZ5ZzZvUHdSNXZQZw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">cancer</span>
+
+來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcENfLUxBV2ZpY0dSLUNrMm9zUUdHNkxDQVJBcDBfZ0NXOXc4VG9qWmFNbjBQN3BsZGttSXBqQWViTWdUMGZvcDJ5TElDWUlTd3VTamZFNkVsVlF0aExhZWVidDZ6cDlSUjJYMkhBSGloZW9CSDBGVG9rV0RTa2xSOFktVnVjYThmdTY1TTM1M1JUU29DWDQ2a3VDak5TOHdYMnVlYnl6U3ZHbk9tcWdoVXFnbXo4QWZ5ZzZvUHdSNXZQZw?oc=5)
+
+---
+
+### [Prostatakrebs: Neuartige Therapie aktiviert körpereigene Killer-T-Zellen – Forscher beeindruckt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMnBYTWZDVW1KRk95cjlvVUhJRTA1SHVnNjBHUHlWUFc4UU1EMWcxYUdMOVlVeWxXVC1Rd09HbmNrNXBNbHBYTm9JLThSS1BjRTRmV1JkOFI4bVliZTZJNTdiVk9Fbl8wU3FrRjBRTWFQQk9QWVc5a3RlNEVmbU9PMUpyVU85TndKc1hvQ24xNFBrbVRRWDFMdWh3TDI4NHJBX3EwTFRPcXJFQlIySHVuUERNeUNKV2dzTndSSXhId3hPRkNMNFJ0OXc4MHM0emFfa2M0Rktka1pXbDNFMU1Db1BocWtrbTdDRXptcXhqdEo0VVU?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMnBYTWZDVW1KRk95cjlvVUhJRTA1SHVnNjBHUHlWUFc4UU1EMWcxYUdMOVlVeWxXVC1Rd09HbmNrNXBNbHBYTm9JLThSS1BjRTRmV1JkOFI4bVliZTZJNTdiVk9Fbl8wU3FrRjBRTWFQQk9QWVc5a3RlNEVmbU9PMUpyVU85TndKc1hvQ24xNFBrbVRRWDFMdWh3TDI4NHJBX3EwTFRPcXJFQlIySHVuUERNeUNKV2dzTndSSXhId3hPRkNMNFJ0OXc4MHM0emFfa2M0Rktka1pXbDNFMU1Db1BocWtrbTdDRXptcXhqdEo0VVU?oc=5)
+
+---
+
+### [La clave para anticipar la eficacia de la inmunoterapia puede estar dentro del tumor - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
 
 ---
 
@@ -78,22 +118,6 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Hohe HPV-Impfquote ist mit deutlichem Rückgang der Sterblichkeit assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVEo3U1NoNm1XZlRPNXhsWXVOaHpyVHI5UW9Ta19TNjlWVG9WakhvZEtHclhVbUpEc0txS2RlY2VGdDltQTd1M3BUUW9UTTBBVy1rVEFuNm1xaEZQcnpINmRIaEZ5cXpfTjgzU2NIY3dBM1NjdzJWcVA2OVZfX3ZQOGVFOVktS1hwU0ZYclpNNkwxbDR6OHNrUzIybzNlUTlzM1MtNG9BallpeWVSZkVJVURuVzNVSjAxWUE1dDI5TlZibVdUSlptUGZacFpMUzVRNVI2YjAyZDRFN2ll?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVEo3U1NoNm1XZlRPNXhsWXVOaHpyVHI5UW9Ta19TNjlWVG9WakhvZEtHclhVbUpEc0txS2RlY2VGdDltQTd1M3BUUW9UTTBBVy1rVEFuNm1xaEZQcnpINmRIaEZ5cXpfTjgzU2NIY3dBM1NjdzJWcVA2OVZfX3ZQOGVFOVktS1hwU0ZYclpNNkwxbDR6OHNrUzIybzNlUTlzM1MtNG9BallpeWVSZkVJVURuVzNVSjAxWUE1dDI5TlZibVdUSlptUGZacFpMUzVRNVI2YjAyZDRFN2ll?oc=5)
-
----
-
-### [Un tipo de células del tumor puede ayudar a predecir qué pacientes responden mejor a inmunoterapia, según un estudio](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUWJyZGtXWGtzdzNSVUVHdkZWaF8zLW5NRDVzaG0xOTR0cnB3N2J2WC1LMUQ0TlZLbjAzb1JoN1dwcVVVaGJFNnJFRXplZmEzVFVqTGNxRkN0SHRvTWxqWnItM3dYV2RqNnk3U29EQnlIcFB4QUhLc2VDYW9nb2I3UnlabktuT050NFdxOGRERDl6SGVzNmtpQnpvb2J1bVpqN2ZHVkdfYmZZU3hQdlhvVTJwX2pMMk1NR2RzRzBnV2lhTkFQUFFvVjF1VXd6RVVGWk1YQ2hzXy13TzV4QTAxbmJQZE42VjRQR1ZBM05UOA?oc=5)
-
-2026-06-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Notimérica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUWJyZGtXWGtzdzNSVUVHdkZWaF8zLW5NRDVzaG0xOTR0cnB3N2J2WC1LMUQ0TlZLbjAzb1JoN1dwcVVVaGJFNnJFRXplZmEzVFVqTGNxRkN0SHRvTWxqWnItM3dYV2RqNnk3U29EQnlIcFB4QUhLc2VDYW9nb2I3UnlabktuT050NFdxOGRERDl6SGVzNmtpQnpvb2J1bVpqN2ZHVkdfYmZZU3hQdlhvVTJwX2pMMk1NR2RzRzBnV2lhTkFQUFFvVjF1VXd6RVVGWk1YQ2hzXy13TzV4QTAxbmJQZE42VjRQR1ZBM05UOA?oc=5)
-
----
-
 ### [Los fármacos epigenéticos podrían reducir el riesgo de infarto en personas con obesidad y diabetes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -102,19 +126,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
+### [SGLT2-Hemmer senken bei Diabetes das Alzheimer-Risiko um 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUERjZXY1SnpmOC1oT0toS1ZZTW14ZjBtdnpUTmN4MjE5TlpZWWxlenhDUnZJY25HLVJkUl82SWhLNHVGd0FHejJaRTJfLXFoai1na3J6MEVvUnlyV2x4X3hFcFc1WUlSSlV3WWdkdk00NmZhSVBfQW4tc2p2RDVYQ0ZIMWZpQXBhLXhEZk51d3lzNF9kekFCREVGZW9vSG9y?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSXdoZzR0YXNiVEJ0SU1RRU8xclVuQkVLMHJCRTNJYWtfa1IxT3p1TFE0RG9hNWVrelZ4aHlLQ1lQd2VjVHJfd1R6dFJwY3NLZXVBQjhKeFItMHZKdEZ0TzBHOEJ3LXFQSGJYYlVPOXdNUmFDMGRtYmk2MVZkM21EeVc0ZzdQbGpLdVpUZzg0UEVLTjBmbzFEelp2UTNRVmROMURyVk9NZG5uMW5xTkF5QkNScTQtemlw?oc=5)
-
----
-
-### [KRIYA-839: Könnte eine einzige Spritze Typ-1-Diabetes eines Tages behandeln?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUZ1X0N5dFNTNmVSdXdMZUQzaWQ5ZHd3ZTBDWjhIMTkwQ0RBdTRQMm15dzYwczBROEJVdGprOXdVZG52WTVPd2RvbWZwWldndEszM0U4MEVCeW4wbEcxaHNGZ1pkVVR0LUNqczhONlI2bmtlM1JzMVk3TzBCdjJWbU03VnVyOXRQbXczR2hqRE4tMko5MVQ1N3A4aVVuTy0xY0VaeHdQaDZoMGVqYTR6UzZR?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUZ1X0N5dFNTNmVSdXdMZUQzaWQ5ZHd3ZTBDWjhIMTkwQ0RBdTRQMm15dzYwczBROEJVdGprOXdVZG52WTVPd2RvbWZwWldndEszM0U4MEVCeW4wbEcxaHNGZ1pkVVR0LUNqczhONlI2bmtlM1JzMVk3TzBCdjJWbU03VnVyOXRQbXczR2hqRE4tMko5MVQ1N3A4aVVuTy0xY0VaeHdQaDZoMGVqYTR6UzZR?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUERjZXY1SnpmOC1oT0toS1ZZTW14ZjBtdnpUTmN4MjE5TlpZWWxlenhDUnZJY25HLVJkUl82SWhLNHVGd0FHejJaRTJfLXFoai1na3J6MEVvUnlyV2x4X3hFcFc1WUlSSlV3WWdkdk00NmZhSVBfQW4tc2p2RDVYQ0ZIMWZpQXBhLXhEZk51d3lzNF9kekFCREVGZW9vSG9y?oc=5)
 
 ---
 
@@ -147,14 +163,6 @@ permalink: /news/tafasitamab/
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
-
----
-
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - OP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXZyekxlMUJjOUJOZ3N1bzQwUzd1TW9TZld2akVxTEhRYWdqVnR4elpWbUxhcHBQTDlzNVVzbGtaV0ZDY0kwR29KVmdMUnVZRnpZeVVRU1ZPYi1yeFVlOHRURVM4TXVkWkJteEo5R0l3R0RfQXVxUzFDRktER3BtdzBQNkx3RmVXajdvek9Bb3BsVkNQNVNUU19ibVFPbXhBT2Q0VkhURWVvN1RDNmRZWVVaTQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[OP Online](https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXZyekxlMUJjOUJOZ3N1bzQwUzd1TW9TZld2akVxTEhRYWdqVnR4elpWbUxhcHBQTDlzNVVzbGtaV0ZDY0kwR29KVmdMUnVZRnpZeVVRU1ZPYi1yeFVlOHRURVM4TXVkWkJteEo5R0l3R0RfQXVxUzFDRktER3BtdzBQNkx3RmVXajdvek9Bb3BsVkNQNVNUU19ibVFPbXhBT2Q0VkhURWVvN1RDNmRZWVVaTQ?oc=5)
 
 ---
 
@@ -198,6 +206,14 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+---
+
 ### [Barbers could play a role in preventing cancer, Portsmouth study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
 
 2026-06-24 <span class="news-indication-tag">cancer</span>
@@ -222,27 +238,19 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
-
----
-
-### [Vorsorge ab 30 und ab 50: So läuft die Brustkrebs-Früherkennung ab](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+### [Die Leber im Blick: 5 Fragen für eine erste Selbsteinschätzung](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">Krebs</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
 ---
 
-### [Fasten senkt Bauchfett und Diabetes-Risiko: Studie, Grenzen und Trends 2026 - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
+### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
-2026-06-24 <span class="news-indication-tag">diabetes</span>
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMWVOZmdGdXlrMHo0MWM0RUdDcm4yaEc5N0YxcmxNb2lteFdlc3pETXNnOERxRVFfZUdJTHNrbjVBTHNCX2hJcTJWZGhGQ0lLRkozbXl2MW9wLVN4SGloakpzLVRqeU1WLVhoaHdLSjNMdnYteXlFMHFnd3E0dFVGM2dEemdOakJCcldSYU5DUDdqOXdOTUV2VUFNS3BXbmJPRUY5MHQzOHk?oc=5)
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
 ---
 
@@ -254,35 +262,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Koffein & Kaffee: Was 400 mg täglich bedeuten – und wo Vorsicht gilt - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOenRwY2xhX2tyMzMtNHNZU3BnbUxXNlkwNE8wcldJVkp4VlpoODNPQWgwM2gxOGdfcTVOS2pOT3NZdXhBZ2ZNNmFCM2d6M2ZGWHdIMXZZY1c2LTZPbjdFclkwTXNBN2cxMVVrZHhlSl92QTZ0blk2blRuREQ1cEx5bDNOYVhZS0ktT1Vodmk1aUZWRTNEeHotMG8ydlE?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOenRwY2xhX2tyMzMtNHNZU3BnbUxXNlkwNE8wcldJVkp4VlpoODNPQWgwM2gxOGdfcTVOS2pOT3NZdXhBZ2ZNNmFCM2d6M2ZGWHdIMXZZY1c2LTZPbjdFclkwTXNBN2cxMVVrZHhlSl92QTZ0blk2blRuREQ1cEx5bDNOYVhZS0ktT1Vodmk1aUZWRTNEeHotMG8ydlE?oc=5)
-
----
-
 ### [GABA Immune Pathway Drives Female Brain Cancer Growth - Neuroscience News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5)
 
 2026-06-23 <span class="news-indication-tag">cancer</span>
 
 來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5)
-
----
-
-### [Age fast, get cancer young: the ‘global surge’ hitting under-50s - The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
-
-2026-06-23 <span class="news-indication-tag">cancer</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJfbWVESGJNVWk4T01YUXJpNTdlMkZkTkU5SU9PSjhoY3BEX09UbkNLR0sxZnJxNi0xdTA1d3oyT05MQ1cxUXF6X0FuQ2hRZEpuYTNqeGkzQzlKTVdCYlV6bVVwMU84VkNtTk5LMWFwWHRDcU40NWxJZE5aOXRVTEhqMnI3Sm1UbXd1S3NzbXc4b1JnU0ZWb1p1VHhaSUVGUVk5UDdOb0tHdw?oc=5)
-
----
-
-### [Tumore prostata, trattamento sperimentale uccide le cellule e riattiva l'immunità: il nuovo studio americano (e cosa potrebbe cambiare) - Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
-
-2026-06-23 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWpkTVFvLXJwS0oyVktvMXJqZktWbU5WU3h3V1hJUFFybkxwQVhSMUZscTdrb0ZoeDZreWxzT3NCQ3dHZHo4Z3UxSTkzUEdGRTNxeWZ0YmxndGtwcnlVY2RGZEZVbjhWb3pmWWVTUXQ1RnRXRGFOcXdRRWRrdUEtMU9teERzY1pROGtVRnA0bXZ3N0VtaV9sbU9uUkZuZnVNSnRIUEFCc28wWFE4RzZLQjByV3VFWDFT0gG2AUFVX3lxTFBPdjl4YkxXNXFJWW93QjlSQUlIV1N0UUV0S2ZjR3F4ZEZJNEhucEgydjQ5Ukc5d2t3eVlsNlVnOTA0TW9HZ1A4Mi10Qm9jYnZ4SE4xMl9HMWVVcHRGcWwwYklZMVFJYW5oQ3k0X2Y3b3JQWC1qQVpSSVJ0bTVqRElmYUdXM0V5eU9SSWh0RXNJLVJndWhrbFdXYktDdjdoSmNVY21ycjY0UWJMVU1HOGxiLVpmeDhB?oc=5)
 
 ---
 

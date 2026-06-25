@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [For decades an Italian-American town in Pennsylvania had far less heart disease than the near-identical town next door despite smoking, drinking and eating much the same, and the only thing that explained the gap was how closely its people lived - Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQR2NvVWdld19rMGxiOUlTdS1QNzZ0dnpDWmZpNkxWSVpKSW1mNzZuU3VmQjRIY3RmQ1lGUzZqT29sQ1dRaXd0dWRNMlA3Qlh5US0wV0ZjV09VTTJtNG44UUpUeDBobkVrUU9tNmxTZVhNUHZZaUNDbS1Jc0VFZlp4T2xUVGo3T2FQcVJVY1hjX24weFMxVmVEdl8xTGdVelE1ZzVILUJpbU5DSnNaWWUwQUY1azl3bWxxeWNCb0E3U2FyR3NxUmZIMC0wMVlMYXVQeEJGTzNPSG1QU2h0eUxSNXQ1ci1HWFhNaXI5YV9STzl4ZWZiSjBtSnNQM0VDY2ptY080cGtrVjZ2ZnNYTkx6bGNfNGY3OUNhMUVrYjVwTjBKZ2JwLWV3NzRMVDVNbFh3UVFnSDZHTjdOdEJwcWRnMnhOR21ncGM1eC1j?oc=5)
+
+2026-06-25 <span class="news-indication-tag">heart disease</span>
+
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQR2NvVWdld19rMGxiOUlTdS1QNzZ0dnpDWmZpNkxWSVpKSW1mNzZuU3VmQjRIY3RmQ1lGUzZqT29sQ1dRaXd0dWRNMlA3Qlh5US0wV0ZjV09VTTJtNG44UUpUeDBobkVrUU9tNmxTZVhNUHZZaUNDbS1Jc0VFZlp4T2xUVGo3T2FQcVJVY1hjX24weFMxVmVEdl8xTGdVelE1ZzVILUJpbU5DSnNaWWUwQUY1azl3bWxxeWNCb0E3U2FyR3NxUmZIMC0wMVlMYXVQeEJGTzNPSG1QU2h0eUxSNXQ1ci1HWFhNaXI5YV9STzl4ZWZiSjBtSnNQM0VDY2ptY080cGtrVjZ2ZnNYTkx6bGNfNGY3OUNhMUVrYjVwTjBKZ2JwLWV3NzRMVDVNbFh3UVFnSDZHTjdOdEJwcWRnMnhOR21ncGM1eC1j?oc=5)
+
+---
 
 ### [Kongo: WHO testet neue Therapien im Kampf gegen Ebola](https://news.google.com/rss/articles/CBMilwFBVV95cUxNajdMM01HWXZHbExSbFRQX0xmX0xqN2Y0ejNpMXU0UnZ2WjFmRzg0WHRUWS1KcnhabHljQXpGTWRfc0JjZGtQd3BPRlRRNFQ1TXNXTlBITlJQSnpBbG0zcWZWbzNwWTBlWDhleE13VS0xV215N05id25SMXlqbENJa200QU05TExDN3NnMEo1OFJpZmZDUmlV?oc=5)
 
 2026-06-25 <span class="news-drug-tag">Remdesivir</span>
 
 來源：[RTL.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxNajdMM01HWXZHbExSbFRQX0xmX0xqN2Y0ejNpMXU0UnZ2WjFmRzg0WHRUWS1KcnhabHljQXpGTWRfc0JjZGtQd3BPRlRRNFQ1TXNXTlBITlJQSnpBbG0zcWZWbzNwWTBlWDhleE13VS0xV215N05id25SMXlqbENJa200QU05TExDN3NnMEo1OFJpZmZDUmlV?oc=5)
+
+---
+
+### [La OMS lanzará un ensayo clínico sobre dos tratamientos contra el ébola - France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1FXTEhKb0ZkODJNQkM0bkZWSDBjaG1UVUlkb1lwa0JhVXZqaXhfMHJGUm53NmdvYkRuTjdqZ0p2MkRXaTFlWVJEUW4wY2dlcXltdW5GY184VmRBOG44LUVYdlRyNDRsUGFNb0JLWkhYQ3BqSkRxYUhfYnhEY05qTkM1Mm5sWUd1c1o3bnBxc0RWSFlwVFN0cGpJcDRFQ0diZXNrSWVfdjlsaS1xSHZZT3FVWFB5bkRBSGxBdmJFVGFCYngtSGtLQkdLWkc1U2JYc04tX3hR?oc=5)
+
+2026-06-24 <span class="news-drug-tag">Remdesivir</span> <span class="news-indication-tag">MS</span>
+
+來源：[France 24](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1FXTEhKb0ZkODJNQkM0bkZWSDBjaG1UVUlkb1lwa0JhVXZqaXhfMHJGUm53NmdvYkRuTjdqZ0p2MkRXaTFlWVJEUW4wY2dlcXltdW5GY184VmRBOG44LUVYdlRyNDRsUGFNb0JLWkhYQ3BqSkRxYUhfYnhEY05qTkM1Mm5sWUd1c1o3bnBxc0RWSFlwVFN0cGpJcDRFQ0diZXNrSWVfdjlsaS1xSHZZT3FVWFB5bkRBSGxBdmJFVGFCYngtSGtLQkdLWkc1U2JYc04tX3hR?oc=5)
 
 ---
 

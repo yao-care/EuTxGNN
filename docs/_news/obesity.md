@@ -3,7 +3,7 @@ layout: default
 title: "Fettleibigkeit（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Fettleibigkeit（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "Fettleibigkeit（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Fettleibigkeit（obesity） 有什麼相關新聞？">
-<strong>Fettleibigkeit（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Fettleibigkeit（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Eine neue Studie zeigt, dass die Fettleibigkeit bei jungen Erwachsenen am schnellsten zunimmt](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmgzcVl5VHJFVkZSU0FBa05EZ3FqOVhXTklYa0ctR0t0eVdKc2xMVno3eWcxV1FkNXlGWHlUTFROWklFTG5UcU1BaW94U3hxckRVeW1qQlh3bGpqaUhPdnREWUN2T3NwaG9YRUFxSmdzdTd3OEZTX21uVURESTUzbnRRdlAwazl1X2ROVTZselBTdFczWGJDRWczZXJvY1RvWlptaktEMV9Ka18wVFZWelZvR3UxakRMUk1aaENJZUJjNTdrT25n?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/obesity/
 2026-06-24
 
 來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh6ekpYSG9wQ3JnTW50czBfdEFRNW8yb1ZqRXdOaU1fTGlQSGFBY1lxcV9YV2MyNlZfU0tIUnRVc19OV1otWnUxcmtmemdiRXB6NU5FS2VIekFwcWh5WS1MakJQZkZxZm9uVTdhemF6ZTh0NHVrRC0xNjYtSUF0R1VwTThsVXh4RXhiU2Q2cWp6R0VTOVdnODNUeTRXNmZGVEF0bnpncVJaRHVSWVQ1bUV0cXZOZw?oc=5)
+
+---
+
+### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
+
+2026-06-24
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
 ---
 

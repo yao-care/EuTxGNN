@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（31 則）
 
-### [El código postal pesa en el cribado de cáncer de mama - Diario Sanitario](https://news.google.com/rss/articles/CBMicEFVX3lxTE9iUkVrNWxaRElNUlR2S1lBZkhjTDQzY0Q0UjZQZUNCcVg0ZVlhd3hFcFA3SFA0S05ZRUJlR0pheU5nSkhoRENDbnpURGNDZktkT3NxMEVTR0otLUZCaHc5ZlZfZGJyRXdoTWFNbTRDS1k?oc=5)
+### [La contaminación duplica el empeoramiento en pacientes con asma - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxybkZDUzlScEc1OWRRUmszbnMwZGRqTE9ldWZIcDV3MG1FWUZZbEx4c3dFa1JwekJKTHF4MWZDcjRwVTVWNl9pM1V1TnY3dkVVbmxLMllVYmZ2THNuTDBaS0ExNU9yYmpqWExMSzRTZ0Q5eExOV3RaRUZnRWJXUEczaFlFZXIxR1R2aHpxQjV3RmNWQ2l6d21sUGtmYmU5dVQxMFlvYTBIX3FUYk56YUFRWXlBX29u0gGzAUFVX3lxTE1KWWpJdlRDa1lqUk5tQ3FLY0xOeHluYTBJdGl4RVVVUk9KZGZpZTdTa3RoZjBDdFJiaU1jQVRhbktHWk5ydU82MWkxUVVmV3FmcGR6TFNZbFN2eXowQmljai1wMGI3VmpfeGpLaEdlQ01sU05VOGtFRE5UNkRtSlVZQ24wS0EyUjhSZy1QV1dfTENsWFhNRndfQmc4WUJXU0lpVXdPWGVXZnB3MHZwZ2N2aXRV?oc=5)
 
-2026-06-25 <span class="news-indication-tag">AF</span>
+2026-06-25 <span class="news-indication-tag">asma</span>
 
-來源：[Diario Sanitario](https://news.google.com/rss/articles/CBMicEFVX3lxTE9iUkVrNWxaRElNUlR2S1lBZkhjTDQzY0Q0UjZQZUNCcVg0ZVlhd3hFcFA3SFA0S05ZRUJlR0pheU5nSkhoRENDbnpURGNDZktkT3NxMEVTR0otLUZCaHc5ZlZfZGJyRXdoTWFNbTRDS1k?oc=5)
-
----
-
-### [ADHS: Inhaltsstoffe aus Kaffee & Tee können helfen](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGhHWFMwYnRUSHBBak44dEpBOXZTTTB6cHdCYXRveDUwUFkyVkF4d09KM1l6a19TdkJtZGhyMWg0UHM3LXowSGJnYWhpVWNidTZmMkdLakdkZjlSeGFHYzU4aUE1U29nN0xZTW1POHl1OEZRejBpVXNyV20zS1ZTMHV2X214TFo1dXRIMm1xNmNObDRkdjdYbjVIQmxtaU80TzI4eHNKNEhhY2tiZ3c?oc=5)
-
-2026-06-25 <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGhHWFMwYnRUSHBBak44dEpBOXZTTTB6cHdCYXRveDUwUFkyVkF4d09KM1l6a19TdkJtZGhyMWg0UHM3LXowSGJnYWhpVWNidTZmMkdLakdkZjlSeGFHYzU4aUE1U29nN0xZTW1POHl1OEZRejBpVXNyV20zS1ZTMHV2X214TFo1dXRIMm1xNmNObDRkdjdYbjVIQmxtaU80TzI4eHNKNEhhY2tiZ3c?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxybkZDUzlScEc1OWRRUmszbnMwZGRqTE9ldWZIcDV3MG1FWUZZbEx4c3dFa1JwekJKTHF4MWZDcjRwVTVWNl9pM1V1TnY3dkVVbmxLMllVYmZ2THNuTDBaS0ExNU9yYmpqWExMSzRTZ0Q5eExOV3RaRUZnRWJXUEczaFlFZXIxR1R2aHpxQjV3RmNWQ2l6d21sUGtmYmU5dVQxMFlvYTBIX3FUYk56YUFRWXlBX29u0gGzAUFVX3lxTE1KWWpJdlRDa1lqUk5tQ3FLY0xOeHluYTBJdGl4RVVVUk9KZGZpZTdTa3RoZjBDdFJiaU1jQVRhbktHWk5ydU82MWkxUVVmV3FmcGR6TFNZbFN2eXowQmljai1wMGI3VmpfeGpLaEdlQ01sU05VOGtFRE5UNkRtSlVZQ24wS0EyUjhSZy1QV1dfTENsWFhNRndfQmc4WUJXU0lpVXdPWGVXZnB3MHZwZ2N2aXRV?oc=5)
 
 ---
 
-### [La UIMP reúne a especialistas y pacientes para analizar los desafíos del cáncer de mama - Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMingFBVV95cUxPNkI1YzYxWEN2LUVvNzd3bl96OHdsbWExNWN6UEUwTlBkM2ttMmFCU2xFZ2tlRXlva00zSENIRGdEMWg4SDk2RmpYa0xCeUNSMGphZ0xzR1NCZHFlWkczQmstQmlJUks4Qmxwemlfa2hnbnhRRDBCb1M1OVFYa1ZVbEVGM2ZHaWxrZTNKY1JYWFZHWmppTkJvaC0zTjhXQQ?oc=5)
+### [Los casos de viruela del mono siguen aumentando en Zaragoza: el brote ya afecta a 13 personas - El Periódico de Aragón](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVl6TVBieUlLc3otcjRuektrV0MtdlBON2JQY1RZaU9qU0d0UGp6VWh1QWZZNjRHY2NEM0pldzNMS1pnQzNiM1BHbHF6dlpYZlpXN1RJMHFsX2pJRVdzV0NyQkxTYUxoLUdMYkozYWVkUkJsQVBFZFI2TFpGUUw4NGhBMkpTZDNxNGFZYlppMERfcy0tZ0dmRnlBZ25RS2h2UFRDYnZ3NVDSAa4BQVVfeXFMUER4UjNCckY3aUY2M2pCdENkZlBmeWFvcHBJYk5KclpvUFA5eWZ0S0J3WEt0Z2t5UENGTy1WSjJpbmJjSDR2b0d6WUpOZTctNE9YUXpJUXpVZXhJcnlZZmJubGhCMVNjSXF5MkQ4WEF5dGFkVmNxb3oxQXlCbGpCdG5YTERhSDhUdFJ2T3cySG1QWUctOTZYQnVFc21lanU4dGZCd2JGMDZLeld4cm1B?oc=5)
 
 2026-06-25 <span class="news-indication-tag">AF</span>
 
-來源：[Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMingFBVV95cUxPNkI1YzYxWEN2LUVvNzd3bl96OHdsbWExNWN6UEUwTlBkM2ttMmFCU2xFZ2tlRXlva00zSENIRGdEMWg4SDk2RmpYa0xCeUNSMGphZ0xzR1NCZHFlWkczQmstQmlJUks4Qmxwemlfa2hnbnhRRDBCb1M1OVFYa1ZVbEVGM2ZHaWxrZTNKY1JYWFZHWmppTkJvaC0zTjhXQQ?oc=5)
+來源：[El Periódico de Aragón](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVl6TVBieUlLc3otcjRuektrV0MtdlBON2JQY1RZaU9qU0d0UGp6VWh1QWZZNjRHY2NEM0pldzNMS1pnQzNiM1BHbHF6dlpYZlpXN1RJMHFsX2pJRVdzV0NyQkxTYUxoLUdMYkozYWVkUkJsQVBFZFI2TFpGUUw4NGhBMkpTZDNxNGFZYlppMERfcy0tZ0dmRnlBZ25RS2h2UFRDYnZ3NVDSAa4BQVVfeXFMUER4UjNCckY3aUY2M2pCdENkZlBmeWFvcHBJYk5KclpvUFA5eWZ0S0J3WEt0Z2t5UENGTy1WSjJpbmJjSDR2b0d6WUpOZTctNE9YUXpJUXpVZXhJcnlZZmJubGhCMVNjSXF5MkQ4WEF5dGFkVmNxb3oxQXlCbGpCdG5YTERhSDhUdFJ2T3cySG1QWUctOTZYQnVFc21lanU4dGZCd2JGMDZLeld4cm1B?oc=5)
+
+---
+
+### [Warum Migräne bei Männern oft erst so spät erkannt wird](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Migräne</span>
+
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
+
+---
+
+### [La UIMP reúne a especialistas y pacientes para analizar los desafíos del cáncer de mama - Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ19Manl2dXp4b2Q4b010NG1LelZMQ3l2azRjdHJWaDdxcVdMNXpKNW5hMHpkREpEblVYZjRhUnZ6Y0tWSy1vYTRWc21UYjRKbV9Xc3R3VVB3Y1FTVDhiS3A5S3AwZ3JpUjdSSndxRW5Pa2w4dUFCRjF2YmVKclB3NFFUR3VmSDh0aXp0ckxvOA?oc=5)
+
+2026-06-25 <span class="news-indication-tag">AF</span>
+
+來源：[Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ19Manl2dXp4b2Q4b010NG1LelZMQ3l2azRjdHJWaDdxcVdMNXpKNW5hMHpkREpEblVYZjRhUnZ6Y0tWSy1vYTRWc21UYjRKbV9Xc3R3VVB3Y1FTVDhiS3A5S3AwZ3JpUjdSSndxRW5Pa2w4dUFCRjF2YmVKclB3NFFUR3VmSDh0aXp0ckxvOA?oc=5)
+
+---
+
+### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+
+2026-06-25 <span class="news-indication-tag">asma</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Europa activa una lista de verificación para revisar protocolos por ébola - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXhSMEcyRW5WbldIV1ZxZzE5bG5ta08yaTlISW1ma1NhR19ZY0NFT0VFcExjZFdGcXBNU21tY0NoVk9ITTFzOGwyRVZmVmJ6RmZXTGhlSUVyZ2dJZ0RTRVViQV93cXBaUzZobHR5UFh6NlU3eHBQRkFteDRrMWJlZzlyWk1DSHNtNzZvb2RvVUFsNlFSbXJ4a1V4QXNPRXpieHFob0tNdjhGUERBX2RmdENGX0ZUbGxFcmRtUUZlSjFhWmNEQ0dySnZhRHXSAcwBQVVfeXFMUEw1bng2TVNMay1nZi1qV2doNEFVdlRCRmcwZURha0ptMmNNVHBMNUx5TTBJWnBFbXVoRHRvUmxPTHkwblhyS0Z0M2N5ZmJvVGJiNWJsUWdUMDM4czFyM0VDSUpYcUFuR1hOeDJkYXNQdUZHZkVmSmRUdThOTHlIdGtPaE0wSUE0Nnh3enhleXUyX3Q0bFNDM2tfdm16MHpWc1Jqb1dxbW9lNUN3b1dXc0pqaWd6c2FyOEhqYVZic25GNkhkN2pMM29qYmlu?oc=5)
-
-2026-06-25 <span class="news-indication-tag">AF</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXhSMEcyRW5WbldIV1ZxZzE5bG5ta08yaTlISW1ma1NhR19ZY0NFT0VFcExjZFdGcXBNU21tY0NoVk9ITTFzOGwyRVZmVmJ6RmZXTGhlSUVyZ2dJZ0RTRVViQV93cXBaUzZobHR5UFh6NlU3eHBQRkFteDRrMWJlZzlyWk1DSHNtNzZvb2RvVUFsNlFSbXJ4a1V4QXNPRXpieHFob0tNdjhGUERBX2RmdENGX0ZUbGxFcmRtUUZlSjFhWmNEQ0dySnZhRHXSAcwBQVVfeXFMUEw1bng2TVNMay1nZi1qV2doNEFVdlRCRmcwZURha0ptMmNNVHBMNUx5TTBJWnBFbXVoRHRvUmxPTHkwblhyS0Z0M2N5ZmJvVGJiNWJsUWdUMDM4czFyM0VDSUpYcUFuR1hOeDJkYXNQdUZHZkVmSmRUdThOTHlIdGtPaE0wSUE0Nnh3enhleXUyX3Q0bFNDM2tfdm16MHpWc1Jqb1dxbW9lNUN3b1dXc0pqaWd6c2FyOEhqYVZic25GNkhkN2pMM29qYmlu?oc=5)
-
----
-
 ### [El calor puede agravar las migrañas: los expertos de Vithas alertan del impacto de las altas temperaturas en los pacientes - Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">migraña</span>
@@ -118,6 +126,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Woman, 45, given weeks to live after falling ill on holiday in Turkey - Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">AF</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
+
+---
+
 ### [B12, la vitamina que puede faltar aunque la analítica diga lo contrario - La Vanguardia](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEw3TGx5TEg3NlN4eFpvVUxvdklGM1BtYnRvR0V6aUpoZFMwd2l0NjlxODlBSDVEMGg4eHZyVkZuRDNDRmpHUG9nTHRYdXZ1QTB2MUpjNllkSEVKdWtZcEF5LXg0bHZZRWlxRm51bXQwVWNzX0d0VVdvNlEwZjdpSzBFenFDZ19xaHowRlhNemtNWUZPVi1rUlpsWmh5dnVpanYzZmlkMnY5N1l6LVIzQXVsVdIBuAFBVV95cUxPOVZVZFgwY2JLOUNhcXFXRDBBODRVdE5qY3kzbFBRU1Q0Ukozd0ZLcnd5Z3NlNFk1c3NJRml5Y19adkhJc3I4TU9lU3BWWWUzSzNDVkF3dm44Sy1NQVpUSzhjSko4MUxrSEtmSzVRQVAyTXE2cXRLbGptOWR1aEJVR2hObl9sdWo3X3VnVGl0M0tUS1pUcHloYTR0S29kQzNtZjNJOE1uMktibXJFWFVJN1B3bTdmdGxP?oc=5)
 
 2026-06-25 <span class="news-indication-tag">AF</span>
@@ -131,14 +147,6 @@ permalink: /news/prilocaine/
 2026-06-25 <span class="news-indication-tag">AF</span>
 
 來源：[spoekenkieker.info](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWloeml1WkZKS1o1YUtINFk2NmpTbXozVEZuOGxJVEVpS1J1NlIwQ3h0YUJCWGhRUXJqLUF3dllaclRXWDlnRjZYRkhvbnBLa0dvV1lNZEQ5WG1odkk5d1YtQVpjbXl1R3dLaHZ4Y09KTjdneGJJOURvLWFLeGRsdk9KUk96dGROZnc?oc=5)
-
----
-
-### [Venus über dem Nordwesthorizont (Objekte beschriftet) - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1dJb2ZqVzJMM1ExamZtWkI3RmNPMkhzWE9sMGRvbDRrSndNUWlleWRpeVZMTllXVThVSXRianZQbS1ET2Y1YkdhWURCOVozamVMckFUU1g0OWhFWVFVdUwyS1JWRWNfaUVCMTRFNDJVYzhUS1EtNE5xQ2tzeUtsMk13RGMwTTRXRW9rMk55UXJOMHhuQ0NmV1l2a2diQi1EQjRDWDhpQU52bEVZVzhR?oc=5)
-
-2026-06-24 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1dJb2ZqVzJMM1ExamZtWkI3RmNPMkhzWE9sMGRvbDRrSndNUWlleWRpeVZMTllXVThVSXRianZQbS1ET2Y1YkdhWURCOVozamVMckFUU1g0OWhFWVFVdUwyS1JWRWNfaUVCMTRFNDJVYzhUS1EtNE5xQ2tzeUtsMk13RGMwTTRXRW9rMk55UXJOMHhuQ0NmV1l2a2diQi1EQjRDWDhpQU52bEVZVzhR?oc=5)
 
 ---
 
@@ -182,6 +190,22 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
+
+---
+
+### [Confirmado primer caso de ébola en Francia tras regresar un doctor de RDC - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">AF</span>
+
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFZUbFg1MmM2SjNnSmdsUWNOSmlvcm5nUVNWMkV1eVV3V1dEVjN0Y2VybU9KLWMxeGt6NGxyWDRIa1pHeHMxVDYzVDdaMFV2cVhNWWZMSVdLS2NNTmFxX1VBZDBIdndNcFZ5VDItdVhydFN3Q09qX1NoNG1uSGJGNElPTQ?oc=5)
+
+---
+
 ### [First Ebola case confirmed in France, health ministry says](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
 
 2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -206,6 +230,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
+
+2026-06-24 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
+
+---
+
 ### [Uno de cada tres adultos en países occidentales padece esteatosis hepática metabólica - Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh6ekpYSG9wQ3JnTW50czBfdEFRNW8yb1ZqRXdOaU1fTGlQSGFBY1lxcV9YV2MyNlZfU0tIUnRVc19OV1otWnUxcmtmemdiRXB6NU5FS2VIekFwcWh5WS1MakJQZkZxZm9uVTdhemF6ZTh0NHVrRC0xNjYtSUF0R1VwTThsVXh4RXhiU2Q2cWp6R0VTOVdnODNUeTRXNmZGVEF0bnpncVJaRHVSWVQ1bUV0cXZOZw?oc=5)
 
 2026-06-24 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -219,6 +251,14 @@ permalink: /news/prilocaine/
 2026-06-24 <span class="news-indication-tag">AF</span>
 
 來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGNlSGxTd0h6bGIwanp2TjloOHJJYkxOZ0tZNlVabjRsREVHNVdMN0JWb0VuWDJWYWwtODFSblpEdkEtT0I3cWVpQ09mV2I3TzVKX3RnXzRXZGJTQnNYZ1czZVd4VE1YbERJbEtDNEc5UzVpUVVJZXQ2NDRMakxEakJtQ1BVYnRJM3RqcVBLck1PTXI5c1ZELUhZSTAwQ2IzQXplUm1OeERfNmZ6RlZNaGZkTkl0cHJBUkdqRUkwUU5rS2lCMUE?oc=5)
+
+---
+
+### [Die Kraft der Gedanken – Was können Gehirn-Computer-Schnittstellen?](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFhBenREOGdVTFRGTUhHSWhQdDlka2d3aldGVVlNX19WYUpjVWdfQTU1c2ZaTE5KQ3NnM2JjSzVKOS1qUEgxU1pURDd3WW5LMzY4SXI1Z1hTODZEVmZsZzRXM3dPVjRUTHlLYXFFZTdEa2QzM05MUnZEaWNvenZtdkRYdkk0UnUzOGVGbnNLVFQwTlc1TFBkNjJSN2NXVXpDM19LY2gyY3NPaHJxS3RXby1pOXdFaWF1ckp5Z1UyNFRjMVFSaEcyTDNERno?oc=5)
+
+2026-06-24 <span class="news-indication-tag">AF</span>
+
+來源：[SWR](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFhBenREOGdVTFRGTUhHSWhQdDlka2d3aldGVVlNX19WYUpjVWdfQTU1c2ZaTE5KQ3NnM2JjSzVKOS1qUEgxU1pURDd3WW5LMzY4SXI1Z1hTODZEVmZsZzRXM3dPVjRUTHlLYXFFZTdEa2QzM05MUnZEaWNvenZtdkRYdkk0UnUzOGVGbnNLVFQwTlc1TFBkNjJSN2NXVXpDM19LY2gyY3NPaHJxS3RXby1pOXdFaWF1ckp5Z1UyNFRjMVFSaEcyTDNERno?oc=5)
 
 ---
 
@@ -246,35 +286,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Koffein & Kaffee: Was 400 mg täglich bedeuten – und wo Vorsicht gilt - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOenRwY2xhX2tyMzMtNHNZU3BnbUxXNlkwNE8wcldJVkp4VlpoODNPQWgwM2gxOGdfcTVOS2pOT3NZdXhBZ2ZNNmFCM2d6M2ZGWHdIMXZZY1c2LTZPbjdFclkwTXNBN2cxMVVrZHhlSl92QTZ0blk2blRuREQ1cEx5bDNOYVhZS0ktT1Vodmk1aUZWRTNEeHotMG8ydlE?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOenRwY2xhX2tyMzMtNHNZU3BnbUxXNlkwNE8wcldJVkp4VlpoODNPQWgwM2gxOGdfcTVOS2pOT3NZdXhBZ2ZNNmFCM2d6M2ZGWHdIMXZZY1c2LTZPbjdFclkwTXNBN2cxMVVrZHhlSl92QTZ0blk2blRuREQ1cEx5bDNOYVhZS0ktT1Vodmk1aUZWRTNEeHotMG8ydlE?oc=5)
-
----
-
-### [Sudorazione eccessiva col caldo d’estate: gli integratori e le soluzioni da adottare](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0J3UHlFRUUtT3UxcDd1bENCT1ljX1UtZ0Q3YWFNSl9MYk9ocFVFMmRPTEloVFFjaFZxTExYaFcwSEZfbHdTN2tqVVUyQVVMSXBfRlJyc3ZZdTlOa1NkSzBsck41WThBVlktN1BrY0sxUnpGRjlFUTdLWGJNclhhNkd5Q0FGUdIBiwFBVV95cUxOc2ZFNXhmVlBSTkJPSDYzeTkwbnhtZ0M2cDVBMDVJZ0ExNGJvZ2JRal9zXzRpZmJBd3EtOTZIY0Z5emxaSVQyUExIaVNqbnF3U2Jvemppb3A3Skc2TDAyYWg5bVZMVW5ka09va0Q3V3VXcDUzS2c0aXZnNHhUazlQbzNxSXMweEpCbTQ4?oc=5)
+### [Sprache: Wie das Gehirn aus einzelnen Wörtern ganze Sätze baut - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1h6QlFvZFNobWxaaUNXaTl6OTFCTEpGNnlnOVRvUUpGQ2NreFh4ZHNjS1R3OE0zWW1FTWZIR0dNaHRxakt1b0JyQWRHTm9XRGwxM2pLaXk0aUMzeW4xQ2hscVJIYXFTZDBwaEZjMVl6M1lHU21uWlNEdTgzWkthdVVXZFpROTZfOHVoczBPY1QydVpSNzI5UG9oUkVSanJJSWc?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[DiLei](https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0J3UHlFRUUtT3UxcDd1bENCT1ljX1UtZ0Q3YWFNSl9MYk9ocFVFMmRPTEloVFFjaFZxTExYaFcwSEZfbHdTN2tqVVUyQVVMSXBfRlJyc3ZZdTlOa1NkSzBsck41WThBVlktN1BrY0sxUnpGRjlFUTdLWGJNclhhNkd5Q0FGUdIBiwFBVV95cUxOc2ZFNXhmVlBSTkJPSDYzeTkwbnhtZ0M2cDVBMDVJZ0ExNGJvZ2JRal9zXzRpZmJBd3EtOTZIY0Z5emxaSVQyUExIaVNqbnF3U2Jvemppb3A3Skc2TDAyYWg5bVZMVW5ka09va0Q3V3VXcDUzS2c0aXZnNHhUazlQbzNxSXMweEpCbTQ4?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN1h6QlFvZFNobWxaaUNXaTl6OTFCTEpGNnlnOVRvUUpGQ2NreFh4ZHNjS1R3OE0zWW1FTWZIR0dNaHRxakt1b0JyQWRHTm9XRGwxM2pLaXk0aUMzeW4xQ2hscVJIYXFTZDBwaEZjMVl6M1lHU21uWlNEdTgzWkthdVVXZFpROTZfOHVoczBPY1QydVpSNzI5UG9oUkVSanJJSWc?oc=5)
 
 ---
 
-### [Hope for spinal injuries as pigs walk again after experimental gel treatment for severed spinal cords - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2kwU0swOW9yMHBydWV1RzJSbE92VkFlRjlDM1lBWFE3QmRKRjBTR0pjeVR3ZVB0SVB4MUNzUFhIZURrR3V4Y1p6ZmhmYjNGSEVIemdHUWNaQXcyXzFEWXQ1V3RsRnNYTTVhOXp4emJQWmRnNTgxcTZGVjlYQXVUUHJHZWZKLWRG?oc=5)
+### [US provides Ebola treatment for outbreak in Congo, bringing trials closer](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2tPa0ZSQ1Y3VlRYTWs1cWEwQWZuM2FPN3J6S3RyOFB5UlJtM0JvZTlveVRmME95VkIzdGgzT09vOFVEU3hGM1RONXhob004TlVaQWJkT0dEaTQ4dTNPREhRYmVRR1VDLUI1bks3MmFyRVVtQmRmT1R2TldNck9zX3JwRWZ5Yi1GZ093dEF5aDBKMUFlcVEyRHNkOVREdUxyM25VTUc4VDFmTlJMZU9COF84R3RubjlJeFRBdEV2RW5ZbWl2QnN6QW9FUXNYdExybHpB?oc=5)
 
 2026-06-23 <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2kwU0swOW9yMHBydWV1RzJSbE92VkFlRjlDM1lBWFE3QmRKRjBTR0pjeVR3ZVB0SVB4MUNzUFhIZURrR3V4Y1p6ZmhmYjNGSEVIemdHUWNaQXcyXzFEWXQ1V3RsRnNYTTVhOXp4emJQWmRnNTgxcTZGVjlYQXVUUHJHZWZKLWRG?oc=5)
-
----
-
-### [The COVID Vaccine Study the CDC Doesn’t Want You to See](https://news.google.com/rss/articles/CBMimAFBVV95cUxONTcxWG4wYy14S1ZxUTRyNFBKM2NGNGlDUDJaVUpzNE9HdnhHc0JuQ05wLTlHZW1nbTVDRXFIdDNSdGpMOG40RWQ5VUF3VUhBODFWQV9yWUF0U2UxWEhucTJtVGI1Tm5yMTRXWm9hY3Y4Q09SbDBDSUxId201bWdCR2hzeE9ScUVqVThLU1lwSk9FbGhsd296TQ?oc=5)
-
-2026-06-23 <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMimAFBVV95cUxONTcxWG4wYy14S1ZxUTRyNFBKM2NGNGlDUDJaVUpzNE9HdnhHc0JuQ05wLTlHZW1nbTVDRXFIdDNSdGpMOG40RWQ5VUF3VUhBODFWQV9yWUF0U2UxWEhucTJtVGI1Tm5yMTRXWm9hY3Y4Q09SbDBDSUxId201bWdCR2hzeE9ScUVqVThLU1lwSk9FbGhsd296TQ?oc=5)
+來源：[Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2tPa0ZSQ1Y3VlRYTWs1cWEwQWZuM2FPN3J6S3RyOFB5UlJtM0JvZTlveVRmME95VkIzdGgzT09vOFVEU3hGM1RONXhob004TlVaQWJkT0dEaTQ4dTNPREhRYmVRR1VDLUI1bks3MmFyRVVtQmRmT1R2TldNck9zX3JwRWZ5Yi1GZ093dEF5aDBKMUFlcVEyRHNkOVREdUxyM25VTUc4VDFmTlJMZU9COF84R3RubjlJeFRBdEV2RW5ZbWl2QnN6QW9FUXNYdExybHpB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Infektionen erhöhen Herzinfarkt-Risiko um das Siebenfache](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlHTUhLZVlPa0JVY2hsdks1VXpSbkpPa0NnNHVtM0lNTFZwbXoyNmZyNHJtX1d0RGJVbjV5dzN4OGlWSUxsZzdmNnMxWWp6RlRseFlqZm1pelpvRGl0ckpCM1hiZEtJUldzOEpQMmV6YVdXMTZDTmZ3Ry1YWndEYXVRUlpBTUZBWU9fVmhGRkQ0TzFmVDUtSmlmemJ4SjY0cElTLVI2a0hyeXc?oc=5)
+### [Nicht auf die Lunge beschränkt: Ambulant erworbene Pneumonie schlägt auch auf Herz und Gehirn - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnlHTUhLZVlPa0JVY2hsdks1VXpSbkpPa0NnNHVtM0lNTFZwbXoyNmZyNHJtX1d0RGJVbjV5dzN4OGlWSUxsZzdmNnMxWWp6RlRseFlqZm1pelpvRGl0ckpCM1hiZEtJUldzOEpQMmV6YVdXMTZDTmZ3Ry1YWndEYXVRUlpBTUZBWU9fVmhGRkQ0TzFmVDUtSmlmemJ4SjY0cElTLVI2a0hyeXc?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
 
 ---
 
-### [I’m a doctor — here’s how to accurately check your blood pressure at home - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+### [Schlaganfall-Prävention: Dreier-Kombination senkt Rückfallrisiko um 39%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
-2026-06-25 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
 ---
 
-### [Bluthochdruck: Schlaganfallrisiko steigt um 35% bei Vorstufen](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTC0xckhpcnlhNFZBUVRNd0psdllUU21VRXV0MDYyVThDYU5HbWpwMDVrdmZBOThzOWlfNFhLSHRSY2NZLUZGUVlPRmZucXNZRGZ1OHBNT045SVpJTEVTVW03aTM4WmdxdW5nVnIwNFdqaWlXT2RGRVBfVXU2TWd4a19CdFcxekNIOXBsN1M1Y2VBTFlMS1Y3UFg2Z01KZU9xV09MUVctN25UR1BhWUdmbHA4ZWZEWDQ?oc=5)
+### [Más del 15 % de los jóvenes ha consumido una droga ilegal este año: estos son sus efectos neurológicos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDUzSXdwRHlXVzdzVVc5Q1RhQmRRNTlqU0JpRmxPdl9rN214Mlg5MEJEYmozTVdSZ3pBT0Z6OEF6cmR2b0lkU3JySERIVTdUZHR4VDBEdzN3VGVHcVF6OWhzbUFIYnRkWkdQZXdMNXZvQ3JBS1FkQ2hhVEJjbDB0ZE9qLXExN1M3RHB1OTFzS1Q5QXRXLWhZSXdZX1ZMRXZ4U3hyMG1Ebzh0eTdwQVNpYXhwRkg4SlQ0SjQzYXpfTl9idzdfMmIxU21wT1hfN2E2Q2d6dQ?oc=5)
 
-2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-06-25 <span class="news-indication-tag">ictus</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTC0xckhpcnlhNFZBUVRNd0psdllUU21VRXV0MDYyVThDYU5HbWpwMDVrdmZBOThzOWlfNFhLSHRSY2NZLUZGUVlPRmZucXNZRGZ1OHBNT045SVpJTEVTVW03aTM4WmdxdW5nVnIwNFdqaWlXT2RGRVBfVXU2TWd4a19CdFcxekNIOXBsN1M1Y2VBTFlMS1Y3UFg2Z01KZU9xV09MUVctN25UR1BhWUdmbHA4ZWZEWDQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDUzSXdwRHlXVzdzVVc5Q1RhQmRRNTlqU0JpRmxPdl9rN214Mlg5MEJEYmozTVdSZ3pBT0Z6OEF6cmR2b0lkU3JySERIVTdUZHR4VDBEdzN3VGVHcVF6OWhzbUFIYnRkWkdQZXdMNXZvQ3JBS1FkQ2hhVEJjbDB0ZE9qLXExN1M3RHB1OTFzS1Q5QXRXLWhZSXdZX1ZMRXZ4U3hyMG1Ebzh0eTdwQVNpYXhwRkg4SlQ0SjQzYXpfTl9idzdfMmIxU21wT1hfN2E2Q2d6dQ?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/raloxifene-hydrochloride/
 2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
----
-
-### [Experts say these cereals are linked to lowering your risk of a stroke - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
-
-2026-06-23 <span class="news-indication-tag">stroke</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm9PSVhmeVh1TlhYeFJkZDB6TWo4YlZMX2lOcGNnNUF3bkJRX1pENHNqUlJRUDdnWXdhR3pMTjdFX3Bvc01zeDRnOFpNTjJ4RGw2UTBJaEhWNHVuV1Q2NU11WHJBbC15QU9Hbl9PN1dBdzRBMm5RbWVhc0t3Sm9nTjVJVlR4TU1oQXJNQU5VdjltOGZhd2ZuYS0wZnVfRlcxdmxqSGZ0b0pVYU9LWjRvVA?oc=5)
 
 ---
 
