@@ -54,6 +54,22 @@ permalink: /news/cariprazine-hydrochloride/
 
 ## 相關新聞（9 則）
 
+### [Ebola in RD Congo, vite a rischio nelle miniere d'oro artigianali - Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3lBSWhmUE1feUFUXzQ4YWp6R3lhaGdmaUZkZ3dwazNjc1VxdlgwNXJDRVRHMnFGWWhoWl9XejhWRlNyTm9xcDZhU1ZlTVI5T0hvMDNuZGg0OTM0dENVQmFyWWJiS1BmV2JYY3VrMXhWNWNEM1phWmRwQUtpT1pKdk5mMjZsOFdOUVVRX2V4M3JMS01sYkdEbnV2djJUaTBSSTA1a2l6ZXJvV2hxUE91b093SFljQQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">MS</span>
+
+來源：[Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3lBSWhmUE1feUFUXzQ4YWp6R3lhaGdmaUZkZ3dwazNjc1VxdlgwNXJDRVRHMnFGWWhoWl9XejhWRlNyTm9xcDZhU1ZlTVI5T0hvMDNuZGg0OTM0dENVQmFyWWJiS1BmV2JYY3VrMXhWNWNEM1phWmRwQUtpT1pKdk5mMjZsOFdOUVVRX2V4M3JMS01sYkdEbnV2djJUaTBSSTA1a2l6ZXJvV2hxUE91b093SFljQQ?oc=5)
+
+---
+
+### [5 Exercises That Are Wrecking Your Knees After 60 (And What to Do Instead) - Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+---
+
 ### [La Comisión Europea aprueba "Cenrifki", un nuevo y prometedor fármaco contra la esclerosis múltiple - Antena 3](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWlJDWVZFemk0amFRQ3M5T3dpN1doQUtvUlRZbTZIZnhNUG1GSUJ2YkFsejNhYmhRSDd3NkNYbmJsYV9mY2FBUVNlS3poU0NDdzQ3enlPTHJLdlhsZTFyYWZtTGlybkdJVGpKd2FCaXRfZ004SG1kQTBiRWdRSVpWSENMMDR5T3JLdFVGZzhKNzMtOGNyNEN3TzdDNy05RElIMktuSmhrekpxRG1SLUwtSjV4cGt6SjlQaEtidzlsX290Mml6NElNQmpmcVgtY3o4bjBfYTVLQ3ZLYTNqRkNyQzlQT0N5S1ZnUUtv0gHrAUFVX3lxTFBSLUdlOUdZdGJhWlJzaG5ZaEMxY2M3U2FDcm5aZGNKS3haNWZ0OW5FRFhQcmxRREJUR1JnNFdRTzM4cjZUcFlPNUtpYndHUjYyakVBVktJOHV5bGxWckJmSDRqTDRCZ3FzZ3ZibmF4NjJ1bEhYYnM0ajdqQ2szeHFnVTNwUjlrWWVFTXVoZUlIOTBTNVVQZ0xTWkl0NmR5b1VuRm5TMkVHU3RRd1hVbTQzbk1MZVdjbWNwUHhXNmVuVGUxWnFDUy1kNXlkcTJscGYyd3FVM0w2VWs1Mm9NbjhsbHctQ3BnbXRGNzg?oc=5)
 
 2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -94,35 +110,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Ebola in RD Congo, vite a rischio nelle miniere d'oro artigianali - Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3lBSWhmUE1feUFUXzQ4YWp6R3lhaGdmaUZkZ3dwazNjc1VxdlgwNXJDRVRHMnFGWWhoWl9XejhWRlNyTm9xcDZhU1ZlTVI5T0hvMDNuZGg0OTM0dENVQmFyWWJiS1BmV2JYY3VrMXhWNWNEM1phWmRwQUtpT1pKdk5mMjZsOFdOUVVRX2V4M3JMS01sYkdEbnV2djJUaTBSSTA1a2l6ZXJvV2hxUE91b093SFljQQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">MS</span>
-
-來源：[Vatican News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3lBSWhmUE1feUFUXzQ4YWp6R3lhaGdmaUZkZ3dwazNjc1VxdlgwNXJDRVRHMnFGWWhoWl9XejhWRlNyTm9xcDZhU1ZlTVI5T0hvMDNuZGg0OTM0dENVQmFyWWJiS1BmV2JYY3VrMXhWNWNEM1phWmRwQUtpT1pKdk5mMjZsOFdOUVVRX2V4M3JMS01sYkdEbnV2djJUaTBSSTA1a2l6ZXJvV2hxUE91b093SFljQQ?oc=5)
-
----
-
-### [First Ebola case confirmed in France, health ministry says](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
+### [France reports first Ebola case after doctor returning from DR Congo tests positive - Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcjh0ZmpDY1poZDNBZUV5ZVNvOEtKUjVtWS1DWl9PVjQ4YnFoUGZvMkRCQnAxTmtTcmN0bnNfWGFQbUZvWm1kYWQtTkpOY3o4UkNSaXRMZHJRU0pFTDFpMlA1eEZqVjB4TFpDZFktMERJM1hXWEp0ampmNC0zcGhxTEZhUkViRFFhWHE1Ukd5MWJOaG1LcVpvbFFDWS1SOHFuekpCOVpnYzc5UTJtUlNyc1pQa0F1UlROcTJv?oc=5)
 
 2026-06-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUpKdF9hTnpWdXhhcmpXckU1aE84N0VrMFd2ZTFVRTVuUi1YRjBWZFd4NzNDc01WUmMzNXZLRzIxcDhNcXR4V0pMSVNWRDZBZ1M5UU5zWW5TUTA3d0hxd2x0djNHSVpRZ3diSzFZYU9CNzdxRWdtOUc3Z1pxTmloY1lFVXB1MVBMRjRvSEs0eFlrS3UzYXoyY2lhX05hNlNqa1E?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcjh0ZmpDY1poZDNBZUV5ZVNvOEtKUjVtWS1DWl9PVjQ4YnFoUGZvMkRCQnAxTmtTcmN0bnNfWGFQbUZvWm1kYWQtTkpOY3o4UkNSaXRMZHJRU0pFTDFpMlA1eEZqVjB4TFpDZFktMERJM1hXWEp0ampmNC0zcGhxTEZhUkViRFFhWHE1Ukd5MWJOaG1LcVpvbFFDWS1SOHFuekpCOVpnYzc5UTJtUlNyc1pQa0F1UlROcTJv?oc=5)
 
 ---
 
-### [12 easy lifestyle changes to slow down ageing, according to experts - The i Paper](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmNVSlhxeklObkVLZDBJRUh4VEdHUGdSWE1KRS1iY0NhY0ZNMFdYVUtSM24xaDI1akEwcU9EaFV5b2pJUzBBRFlfZnItenFaYk1ldFpNSnN3a1hQTC1CVkhQSkUyX0VVN0VRRnRDQl83YlEzakJ4bzN1ZXRRRlBIS0h5cUVReEJSVC1ZODYxcEdmVnlVeTZ2Yk1zeGM?oc=5)
+### [Magic Mushrooms gegen Alzheimer? In einer Einzelfallstudie besserten sich manche Symptome](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2xsSGtqRkhSX0RDNTdDYURvUlJSd0dYV1l1ODVoM1A5UHVnQ1VKQmp0TVNSLUJNVVI5OHlRZ19OcU96Zzg5R1hrajB0T2hwWGpXblo2dk52elQ5YkMxWlJ2d1d4U0xCb1B6Y0F0NGxwLUczX0o3V3hqZlNvZ3oybE1tY1FoN3FGZ2J1RzFlc243QXE1blIwWF96TVNqVGpzSmtScHF3WFZhenhTTW9NM3VQMFRodThpajQxaDJwRkhib25xSHpRVTdrRXBrT0RSaTJVMlJMZE5hNFNfMTBBTldPaGdJTms2VmtYNnlFUQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">MS</span>
 
-來源：[The i Paper](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmNVSlhxeklObkVLZDBJRUh4VEdHUGdSWE1KRS1iY0NhY0ZNMFdYVUtSM24xaDI1akEwcU9EaFV5b2pJUzBBRFlfZnItenFaYk1ldFpNSnN3a1hQTC1CVkhQSkUyX0VVN0VRRnRDQl83YlEzakJ4bzN1ZXRRRlBIS0h5cUVReEJSVC1ZODYxcEdmVnlVeTZ2Yk1zeGM?oc=5)
-
----
-
-### [Popular joint pain treatment linked to faster Alzheimer’s decline and death - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
+來源：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY2xsSGtqRkhSX0RDNTdDYURvUlJSd0dYV1l1ODVoM1A5UHVnQ1VKQmp0TVNSLUJNVVI5OHlRZ19OcU96Zzg5R1hrajB0T2hwWGpXblo2dk52elQ5YkMxWlJ2d1d4U0xCb1B6Y0F0NGxwLUczX0o3V3hqZlNvZ3oybE1tY1FoN3FGZ2J1RzFlc243QXE1blIwWF96TVNqVGpzSmtScHF3WFZhenhTTW9NM3VQMFRodThpajQxaDJwRkhib25xSHpRVTdrRXBrT0RSaTJVMlJMZE5hNFNfMTBBTldPaGdJTms2VmtYNnlFUQ?oc=5)
 
 ---
 

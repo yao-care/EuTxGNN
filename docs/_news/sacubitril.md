@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [Prädiabetes: Blutzucker-Normalisierung senkt Herzinfarkt-Risiko um 42%](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdG52YjA5d19DQUdOSVhLb3ZwbUNRYTF2LVJwdXBXUVRRWmxSVmRKNVBGTVZPWV9Ed0dTNzdkVHN5S1BkaFhWb0FGWkFpb1Q3MTcyNzN1OGRRSTI0ODlrUUVZSWU3Z2V6RXB1TkxPTDByd3E4NVBiQnNNY2VHR0tSRWdfSFBfUlZhY3J5elhwSGhuQVJqSThhVEZVN29kOVRTX1FRbF9SRGVpQjJpM3RrYmZleXEySHlC?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdG52YjA5d19DQUdOSVhLb3ZwbUNRYTF2LVJwdXBXUVRRWmxSVmRKNVBGTVZPWV9Ed0dTNzdkVHN5S1BkaFhWb0FGWkFpb1Q3MTcyNzN1OGRRSTI0ODlrUUVZSWU3Z2V6RXB1TkxPTDByd3E4NVBiQnNNY2VHR0tSRWdfSFBfUlZhY3J5elhwSGhuQVJqSThhVEZVN29kOVRTX1FRbF9SRGVpQjJpM3RrYmZleXEySHlC?oc=5)
+
+---
 
 ### [Bauchfett-Reduktion: 10% weniger Fett senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFhaDBtSFN1V0dvUWFWS0FVUU1vUEpqOXBqNVRtUlJyalBWTjlta3BnNnRmem1KX2FBMm9aZWpOU1Zhb1lkMkZLdE5LdkxoNVhCVTJqU3BmZndkdVpQZjZPWnJteU9vWlUtcmJBVU9aTkgzSnZ3NzRoM251T1plTGRwaVhJaGRNZ1ZVLVc0SEI1VDNFVTE0SHFURGJocG5oQVBicU5uaHBWZllpRk8xX0ZpWDB6UTItRlptcw?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFhaDBtSFN1V0dvUWFWS0FVUU1vUEpqOXBqNVRtUlJyalBWTjlta3BnNnRmem1KX2FBMm9aZWpOU1Zhb1lkMkZLdE5LdkxoNVhCVTJqU3BmZndkdVpQZjZPWnJteU9vWlUtcmJBVU9aTkgzSnZ3NzRoM251T1plTGRwaVhJaGRNZ1ZVLVc0SEI1VDNFVTE0SHFURGJocG5oQVBicU5uaHBWZllpRk8xX0ZpWDB6UTItRlptcw?oc=5)
+
+---
+
+### [5 Exercises That Are Wrecking Your Knees After 60 (And What to Do Instead) - Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+---
+
+### [Intermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJobjYtcFhOZ0x2NGJIQnlfeXc4NERzeGpWb2kybFY5UWp6R1ZHSkxIUFB5VDBBUWM1dmNfWUh3QnI3RjdoY05Rc0Nkc0paTnBpZk5JSXhnZ1ZTTUJIemVfOFF1ejBNQ1dlZnRMMFVocnB6d0dQc2xERndyN0haNS1ISTB0N2ZTUXFCLWp6bVVWY1FQU2NhNnY4S2NaeV84NUo2OERNOXlNRGstRmc?oc=5)
+
+2026-06-25 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJobjYtcFhOZ0x2NGJIQnlfeXc4NERzeGpWb2kybFY5UWp6R1ZHSkxIUFB5VDBBUWM1dmNfWUh3QnI3RjdoY05Rc0Nkc0paTnBpZk5JSXhnZ1ZTTUJIemVfOFF1ejBNQ1dlZnRMMFVocnB6d0dQc2xERndyN0haNS1ISTB0N2ZTUXFCLWp6bVVWY1FQU2NhNnY4S2NaeV84NUo2OERNOXlNRGstRmc?oc=5)
 
 ---
 
@@ -78,14 +110,6 @@ permalink: /news/sacubitril/
 
 ---
 
-### [SGLT2-Hemmer senken bei Diabetes das Alzheimer-Risiko um 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUERjZXY1SnpmOC1oT0toS1ZZTW14ZjBtdnpUTmN4MjE5TlpZWWxlenhDUnZJY25HLVJkUl82SWhLNHVGd0FHejJaRTJfLXFoai1na3J6MEVvUnlyV2x4X3hFcFc1WUlSSlV3WWdkdk00NmZhSVBfQW4tc2p2RDVYQ0ZIMWZpQXBhLXhEZk51d3lzNF9kekFCREVGZW9vSG9y?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUERjZXY1SnpmOC1oT0toS1ZZTW14ZjBtdnpUTmN4MjE5TlpZWWxlenhDUnZJY25HLVJkUl82SWhLNHVGd0FHejJaRTJfLXFoai1na3J6MEVvUnlyV2x4X3hFcFc1WUlSSlV3WWdkdk00NmZhSVBfQW4tc2p2RDVYQ0ZIMWZpQXBhLXhEZk51d3lzNF9kekFCREVGZW9vSG9y?oc=5)
-
----
-
 ### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -94,25 +118,17 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Prädiabetes rückgängig machen: 58% weniger Herztodesfälle möglich](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
+### [Die Leber im Blick: 5 Fragen für eine erste Selbsteinschätzung](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
-2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
-
----
-
-### [Diabetes-Risiko: Magnesiummangel und falsche Ernährung im Fokus](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjgyU0k3Mnd6c080d3JkaHFwQzVaVUgzQ2E5Tl91Y2xHVzU4b2E1TFJTX0xCNl9HSHE1bjkxdWZyRkF3d05FS3VvX0M5amFnckVyRHNEd1pTMkRjQS1XTE9WX2Q1Z0J5RHdtRHRXNTNyRThMUHhCNjVUeGVNMUZDNnN2elVlWm04SEtoQ1ZqWDhjMTYzeXFYbEdlNEpoUzBQOGNxWGhES1V4THJuZzVnaEZB?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjgyU0k3Mnd6c080d3JkaHFwQzVaVUgzQ2E5Tl91Y2xHVzU4b2E1TFJTX0xCNl9HSHE1bjkxdWZyRkF3d05FS3VvX0M5amFnckVyRHNEd1pTMkRjQS1XTE9WX2Q1Z0J5RHdtRHRXNTNyRThMUHhCNjVUeGVNMUZDNnN2elVlWm04SEtoQ1ZqWDhjMTYzeXFYbEdlNEpoUzBQOGNxWGhES1V4THJuZzVnaEZB?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
 ---
 
 ### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
-2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 

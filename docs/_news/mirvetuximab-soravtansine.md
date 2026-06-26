@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/mirvetuximab-soravtansine/
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [La contaminación duplica el empeoramiento en pacientes con asma - IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxybkZDUzlScEc1OWRRUmszbnMwZGRqTE9ldWZIcDV3MG1FWUZZbEx4c3dFa1JwekJKTHF4MWZDcjRwVTVWNl9pM1V1TnY3dkVVbmxLMllVYmZ2THNuTDBaS0ExNU9yYmpqWExMSzRTZ0Q5eExOV3RaRUZnRWJXUEczaFlFZXIxR1R2aHpxQjV3RmNWQ2l6d21sUGtmYmU5dVQxMFlvYTBIX3FUYk56YUFRWXlBX29u0gGzAUFVX3lxTE1KWWpJdlRDa1lqUk5tQ3FLY0xOeHluYTBJdGl4RVVVUk9KZGZpZTdTa3RoZjBDdFJiaU1jQVRhbktHWk5ydU82MWkxUVVmV3FmcGR6TFNZbFN2eXowQmljai1wMGI3VmpfeGpLaEdlQ01sU05VOGtFRE5UNkRtSlVZQ24wS0EyUjhSZy1QV1dfTENsWFhNRndfQmc4WUJXU0lpVXdPWGVXZnB3MHZwZ2N2aXRV?oc=5)
+### [La contaminación duplica el empeoramiento en pacientes con asma - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
 
 2026-06-25 <span class="news-indication-tag">asma</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxybkZDUzlScEc1OWRRUmszbnMwZGRqTE9ldWZIcDV3MG1FWUZZbEx4c3dFa1JwekJKTHF4MWZDcjRwVTVWNl9pM1V1TnY3dkVVbmxLMllVYmZ2THNuTDBaS0ExNU9yYmpqWExMSzRTZ0Q5eExOV3RaRUZnRWJXUEczaFlFZXIxR1R2aHpxQjV3RmNWQ2l6d21sUGtmYmU5dVQxMFlvYTBIX3FUYk56YUFRWXlBX29u0gGzAUFVX3lxTE1KWWpJdlRDa1lqUk5tQ3FLY0xOeHluYTBJdGl4RVVVUk9KZGZpZTdTa3RoZjBDdFJiaU1jQVRhbktHWk5ydU82MWkxUVVmV3FmcGR6TFNZbFN2eXowQmljai1wMGI3VmpfeGpLaEdlQ01sU05VOGtFRE5UNkRtSlVZQ24wS0EyUjhSZy1QV1dfTENsWFhNRndfQmc4WUJXU0lpVXdPWGVXZnB3MHZwZ2N2aXRV?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/mirvetuximab-soravtansine/
 2026-06-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
-
----
-
-### [Demenzfrüherkennung: Bluttests & KI erkennen Risiko Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDNJcjlJOEphUGxzSk1DSkMtWnFQLXdyR2dNNEtWSG5zd1VDTHh2ZGFaV1FXWV8xVUFKaVBUMGI1V1B3TEdMLVNEbDI4WjcxLXpPYnpDemZzYTJpZ0I2aURjRjdmN3QtOWdXa1N6UGx4bUZkeDNYUkFsWDNpRUdJRjFIbEJUWkJiZlBoeTZqWVA2dmxuTjgzWXlYcw?oc=5)
-
-2026-06-24 <span class="news-indication-tag">asma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDNJcjlJOEphUGxzSk1DSkMtWnFQLXdyR2dNNEtWSG5zd1VDTHh2ZGFaV1FXWV8xVUFKaVBUMGI1V1B3TEdMLVNEbDI4WjcxLXpPYnpDemZzYTJpZ0I2aURjRjdmN3QtOWdXa1N6UGx4bUZkeDNYUkFsWDNpRUdJRjFIbEJUWkJiZlBoeTZqWVA2dmxuTjgzWXlYcw?oc=5)
 
 ---
 

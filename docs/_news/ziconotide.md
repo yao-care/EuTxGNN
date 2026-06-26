@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Adipositastherapie in der Menopause](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdThIWENZNm5yMWM4LTgzbExzSm9RcmhzNWlWa1ZldUcyU0paWEtXUWtoZ3hMdlFqYXlxLURfYk81RmQ5VHlDX3RKbk5QVFhFV0dEdERGTGY3OTZXV3g4aUN5WEhRVTFGb3R4TjhlX0hNNlBwVW44dzlJd3lyUTA?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdThIWENZNm5yMWM4LTgzbExzSm9RcmhzNWlWa1ZldUcyU0paWEtXUWtoZ3hMdlFqYXlxLURfYk81RmQ5VHlDX3RKbk5QVFhFV0dEdERGTGY3OTZXV3g4aUN5WEhRVTFGb3R4TjhlX0hNNlBwVW44dzlJd3lyUTA?oc=5)
+
+---
 
 ### [Warum Migräne bei Männern oft erst so spät erkannt wird](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
 
@@ -78,14 +86,6 @@ permalink: /news/ziconotide/
 
 ---
 
-### [El calor puede agravar las migrañas: los expertos de Vithas alertan del impacto de las altas temperaturas en los pacientes - Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">migraña</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
-
----
-
 ### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">obesity</span>
@@ -94,19 +94,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Uno de cada tres adultos en países occidentales padece esteatosis hepática metabólica - Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh6ekpYSG9wQ3JnTW50czBfdEFRNW8yb1ZqRXdOaU1fTGlQSGFBY1lxcV9YV2MyNlZfU0tIUnRVc19OV1otWnUxcmtmemdiRXB6NU5FS2VIekFwcWh5WS1MakJQZkZxZm9uVTdhemF6ZTh0NHVrRC0xNjYtSUF0R1VwTThsVXh4RXhiU2Q2cWp6R0VTOVdnODNUeTRXNmZGVEF0bnpncVJaRHVSWVQ1bUV0cXZOZw?oc=5)
+### [Effects of exercise and liraglutide on vascular health and inflammation during weight loss maintenance: a prespecified secondary analysis of the S-LiTE trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
 
-2026-06-24 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
-來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh6ekpYSG9wQ3JnTW50czBfdEFRNW8yb1ZqRXdOaU1fTGlQSGFBY1lxcV9YV2MyNlZfU0tIUnRVc19OV1otWnUxcmtmemdiRXB6NU5FS2VIekFwcWh5WS1MakJQZkZxZm9uVTdhemF6ZTh0NHVrRC0xNjYtSUF0R1VwTThsVXh4RXhiU2Q2cWp6R0VTOVdnODNUeTRXNmZGVEF0bnpncVJaRHVSWVQ1bUV0cXZOZw?oc=5)
-
----
-
-### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ponatinib/
 ---
 
 <p class="key-answer" data-question="Ponatinib 有什麼相關新聞？">
-<strong>Ponatinib</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ponatinib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ponatinib/
 <p><a href="{{ '/drugs/ponatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（21 則）
+
+### [Prädiabetes: Blutzucker-Normalisierung senkt Herzinfarkt-Risiko um 42%](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
+
+---
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
@@ -86,27 +94,11 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Prostatakrebs: Neuartige Therapie aktiviert körpereigene Killer-T-Zellen – Forscher beeindruckt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMnBYTWZDVW1KRk95cjlvVUhJRTA1SHVnNjBHUHlWUFc4UU1EMWcxYUdMOVlVeWxXVC1Rd09HbmNrNXBNbHBYTm9JLThSS1BjRTRmV1JkOFI4bVliZTZJNTdiVk9Fbl8wU3FrRjBRTWFQQk9QWVc5a3RlNEVmbU9PMUpyVU85TndKc1hvQ24xNFBrbVRRWDFMdWh3TDI4NHJBX3EwTFRPcXJFQlIySHVuUERNeUNKV2dzTndSSXhId3hPRkNMNFJ0OXc4MHM0emFfa2M0Rktka1pXbDNFMU1Db1BocWtrbTdDRXptcXhqdEo0VVU?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMnBYTWZDVW1KRk95cjlvVUhJRTA1SHVnNjBHUHlWUFc4UU1EMWcxYUdMOVlVeWxXVC1Rd09HbmNrNXBNbHBYTm9JLThSS1BjRTRmV1JkOFI4bVliZTZJNTdiVk9Fbl8wU3FrRjBRTWFQQk9QWVc5a3RlNEVmbU9PMUpyVU85TndKc1hvQ24xNFBrbVRRWDFMdWh3TDI4NHJBX3EwTFRPcXJFQlIySHVuUERNeUNKV2dzTndSSXhId3hPRkNMNFJ0OXc4MHM0emFfa2M0Rktka1pXbDNFMU1Db1BocWtrbTdDRXptcXhqdEo0VVU?oc=5)
-
----
-
 ### [La clave para anticipar la eficacia de la inmunoterapia puede estar dentro del tumor - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">tumor</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
-
----
-
-### [La dieta mediterránea podría influir en la reducción del deterioro cognitivo y la enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
-
-2026-06-25 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
 
 ---
 
@@ -142,19 +134,19 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Prädiabetes rückgängig machen: 58% weniger Herztodesfälle möglich](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXloWS1sOUM5YmRTWU5oNVR2MnhHdGphVHI3a3ZVNktIYVVhQ2FHZXp5YjJWeHdiX1JOb19kTTg4RjB3MUE4di1ITVo4OWh2ZmdJU3ZaUnJLQmhYeHljVlNNd2U5dnFUZFRKZkZOVFI4RDVqY2o2MnFPTGpBSjBzckZxc2Q1WXNrWjFuVjg2d0JaOV9GQ1BCSFppZVlnbFpQLS03bzBwVUJtM25rSnRpSVpTdFhtZUU?oc=5)
-
----
-
-### [Surge in breast cancer cases in under-50s amid calls for screening to start younger - 6 early signs you need to know](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
+### [Surge in breast cancer cases in under-50s amid calls for screening to start younger - 6 early signs you need to know - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
 
 2026-06-24 <span class="news-indication-tag">cancer</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
+
+---
+
+### [Candiolo, la ricerca del futuro - La Stampa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lST2tMVC1FclBHaU4tSkhiWkV2VGx3ZU93NkY1TDZOU01reW16bUJLS3JObnQ2VUZOM3cwX2JRU2lPUVNxdVhaTFd4Sjk0TzBWeTYzZ0Y5eW1IaUxsOW5MWS1Ma1RjeFVNM3RkbkRoNjN6ZVA5WlFjTlNHUlE0Z0M5SFJYbDdoYWVGQ25fTWnSAZYBQVVfeXFMT2tuU18tR1N3ZHdXcVJtTGNnbllTdUlMd00yUGpOb09vY2swSDY4TURocWFuLXZJNTA2d1d2TDJkcEVTZVI1SHMwbWpqQkwydkNCVjRKSEtFa3JzbXV6emN6Yk91OUxETlJ0aEJSNGlxN0VMYm40c3c0MnhjM0ZGN3U4eFdZdmpmSkdkWDhOQWFrbEpVWHpR?oc=5)
+
+2026-06-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lST2tMVC1FclBHaU4tSkhiWkV2VGx3ZU93NkY1TDZOU01reW16bUJLS3JObnQ2VUZOM3cwX2JRU2lPUVNxdVhaTFd4Sjk0TzBWeTYzZ0Y5eW1IaUxsOW5MWS1Ma1RjeFVNM3RkbkRoNjN6ZVA5WlFjTlNHUlE0Z0M5SFJYbDdoYWVGQ25fTWnSAZYBQVVfeXFMT2tuU18tR1N3ZHdXcVJtTGNnbllTdUlMd00yUGpOb09vY2swSDY4TURocWFuLXZJNTA2d1d2TDJkcEVTZVI1SHMwbWpqQkwydkNCVjRKSEtFa3JzbXV6emN6Yk91OUxETlJ0aEJSNGlxN0VMYm40c3c0MnhjM0ZGN3U4eFdZdmpmSkdkWDhOQWFrbEpVWHpR?oc=5)
 
 ---
 
@@ -198,17 +190,9 @@ permalink: /news/ponatinib/
 
 ---
 
-### [All'Istituto Oncologico Candiolo la più grande 'biobanca' vivente italiana](https://news.google.com/rss/articles/CBMioAJBVV95cUxPQU5mbVBXaEVqTTBueUc1TG56eklibE4xVkJpVHgwcngtcnhRVy1yV2RyUHJVZFExQUs3QnE4RTNYaE9JWkpxSFdsUHd6d3MyMGY5SE9YOFZxcnZ5dGtUOU5saVhuaVhQU04wU1dFWGFGTmJPSk56TVV1ODdlWHlORkdoa3ZnRVB0N0RVRE4zUEtiTEhZbVYzd2NnWlBHX2NyWDZCeFlTcThwMEY2LTlyeXJianFEX2xkc0xIZnNYbXZxVElYLTR0Nk82Q2VPVV91YnBHNDVSd3pXRGlLSHI3c190bkVmZS14VWJ2WVdMRVhWd3o2UEpSdzNtemk5LXBrNmhQd0JkQjRaQkVLSDBxVEtLWi03eTJpaWlHUkdsWlTSAaYCQVVfeXFMTUVaVjRrTWUxV1plajdFaEx0bXBzOGpWVGVQTE1seGJTd01pNlMyUjFJTWNDelJPQnN2NzR3WXhKa09oMVdqRndLOWo2cU05MHhOTTRoNS1yS3Y2N0FON1NZbVllZEoxVVZNSndOakptbGh4MDVuNXBuOFhfelNxVHRqTzc4TVBQWnFXRTQ3dWstdlFxeV9CRnFGOVlkSkMxQ3pKbUR6a1hGUDhtYzVkcU9BQlNXaFp4V0g1OXZqUmZBX2JyZ3Q3RWpSTk85RVV4Y2ZrRzBXcFd6WlVNWng3ajFLbEZIYnNnckhxM3pLYjBrd3BfazBVQUpSRkl3T0dMS1B0bHdFN3JVRFhONEVZNnFGMlotNmJKUlZYMFdhdTZHcmxHWnVn?oc=5)
-
-2026-06-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMioAJBVV95cUxPQU5mbVBXaEVqTTBueUc1TG56eklibE4xVkJpVHgwcngtcnhRVy1yV2RyUHJVZFExQUs3QnE4RTNYaE9JWkpxSFdsUHd6d3MyMGY5SE9YOFZxcnZ5dGtUOU5saVhuaVhQU04wU1dFWGFGTmJPSk56TVV1ODdlWHlORkdoa3ZnRVB0N0RVRE4zUEtiTEhZbVYzd2NnWlBHX2NyWDZCeFlTcThwMEY2LTlyeXJianFEX2xkc0xIZnNYbXZxVElYLTR0Nk82Q2VPVV91YnBHNDVSd3pXRGlLSHI3c190bkVmZS14VWJ2WVdMRVhWd3o2UEpSdzNtemk5LXBrNmhQd0JkQjRaQkVLSDBxVEtLWi03eTJpaWlHUkdsWlTSAaYCQVVfeXFMTUVaVjRrTWUxV1plajdFaEx0bXBzOGpWVGVQTE1seGJTd01pNlMyUjFJTWNDelJPQnN2NzR3WXhKa09oMVdqRndLOWo2cU05MHhOTTRoNS1yS3Y2N0FON1NZbVllZEoxVVZNSndOakptbGh4MDVuNXBuOFhfelNxVHRqTzc4TVBQWnFXRTQ3dWstdlFxeV9CRnFGOVlkSkMxQ3pKbUR6a1hGUDhtYzVkcU9BQlNXaFp4V0g1OXZqUmZBX2JyZ3Q3RWpSTk85RVV4Y2ZrRzBXcFd6WlVNWng3ajFLbEZIYnNnckhxM3pLYjBrd3BfazBVQUpSRkl3T0dMS1B0bHdFN3JVRFhONEVZNnFGMlotNmJKUlZYMFdhdTZHcmxHWnVn?oc=5)
-
----
-
 ### [Can wiggling your pinky really stop cognitive decline? - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">dementia</span>
+2026-06-24 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
@@ -216,7 +200,7 @@ permalink: /news/ponatinib/
 
 ### [Die Leber im Blick: 5 Fragen für eine erste Selbsteinschätzung](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">Krebs</span>
+2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnVRanpnWU1lMDYxQnY5bEtVYnRseXZfRmJtQy11TG5iSElTSkQ1eTNVMEpWdW9zd1hVa1RESzgzY0FudUJlZTBxYVl0X0gzQlRXV08zZHRUVmVpQi03N0VjckYwZmdJcmhNTUVRZy1tcjJTcVlkYkpUTXV5ekp4enlhM1ZVTWx2OVQ2Y2Z1UXVNVTQ2TU5CMGVOcU00a202N1c3OQ?oc=5)
 
@@ -224,17 +208,17 @@ permalink: /news/ponatinib/
 
 ### [Popular joint pain treatment linked to faster Alzheimer’s decline and death - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">dementia</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
 
 ---
 
-### [GABA Immune Pathway Drives Female Brain Cancer Growth - Neuroscience News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5)
+### [Vorsorge ab 30 und ab 50: So läuft die Brustkrebs-Früherkennung ab](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
 
-2026-06-23 <span class="news-indication-tag">cancer</span>
+2026-06-24 <span class="news-indication-tag">Krebs</span>
 
-來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOam1CenZHMWd2R09iOEN2ZVVMa09JYkVDb3BadGYzVU91cjlURTl3V1NOWER1ZGtpcFJJeklYam9uLVFaLUJNYTg4VlVnQ21kejJfN0wtcV84Rm9rQnBfM29FTGt5eWREd2tBak1KaUhOZjFZb1FTdC1JaVhqcXVOUnJaUFZNMS00YXRiWDdWRlktRkJPQkR2ZGFsUmp6RG1namtHbGJYcHVReXlmZGp0VkpLd1Y5U0pJTmE2MzVHRkZpc0EybXJwaXY0RkRpRVc0ZGh4Nw?oc=5)
 
 ---
 

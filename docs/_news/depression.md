@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Biomarcadores en sangre para medir la respuesta a las psicoterapias en pacientes con depresión - Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
 
 2026-06-25
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
+
+---
+
+### [I’ve got summer SAD and the heatwave isn’t helping - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUJZRnRiVnFDaFplXzdnUWdHcGFFaHVKRGxaV2s3aVphVkJuUDNQNHROYnBFaEpuU204dm85emxuOW1JSk9LSEI2LW5iLThUNm5XcnpySVdGM3g0X1hDc0x4ZnZlR25teGJJb3FINm9qT1ZiaEh3a0h5RGRwVFZORmYwM2xCMmVTa0FUZ3ZnMHlhOThjSUhQdUZESzM1UkZpZngtMDVETG9lUHVBZndjUzVwOU5wNHE1WjQ1WUpwSHZ5aUZoZnVEZFZpVGdPOTA?oc=5)
+
+2026-06-24
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUJZRnRiVnFDaFplXzdnUWdHcGFFaHVKRGxaV2s3aVphVkJuUDNQNHROYnBFaEpuU204dm85emxuOW1JSk9LSEI2LW5iLThUNm5XcnpySVdGM3g0X1hDc0x4ZnZlR25teGJJb3FINm9qT1ZiaEh3a0h5RGRwVFZORmYwM2xCMmVTa0FUZ3ZnMHlhOThjSUhQdUZESzM1UkZpZngtMDVETG9lUHVBZndjUzVwOU5wNHE1WjQ1WUpwSHZ5aUZoZnVEZFZpVGdPOTA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [NHS pharmacist issues stark warning to Brits using Mounjaro during hot weather](https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3l3b2hKaGwtUzJOeXRKU2wtU2ZubEZvSXhkSEw0R1d3M3JMTkpvY19MZnJVWFo2V2FQYk9hRVRhYWNqZ1h1VGFhMEQzaVVhYUhGcjFJUkozeGpWdWFwSlRvX1hNaVdXSklPWWhoM1lUOVJ5UGRVQ0NtdGQ3M3NTelhON21iZkZUWWYwV3VVbzRRd29PS3JzZkRoMlYwRE0?oc=5)
+### [5 Exercises That Are Wrecking Your Knees After 60 (And What to Do Instead) - Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
 
-2026-06-25 <span class="news-drug-tag">Tirzepatide</span>
+2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3l3b2hKaGwtUzJOeXRKU2wtU2ZubEZvSXhkSEw0R1d3M3JMTkpvY19MZnJVWFo2V2FQYk9hRVRhYWNqZ1h1VGFhMEQzaVVhYUhGcjFJUkozeGpWdWFwSlRvX1hNaVdXSklPWWhoM1lUOVJ5UGRVQ0NtdGQ3M3NTelhON21iZkZUWWYwV3VVbzRRd29PS3JzZkRoMlYwRE0?oc=5)
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+---
+
+### [UK heatwave: Five medications that can affect how your body regulates temperature - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVRCWUc1N3VneFVSRTZfeWgxQWNVcFFlNW5sd2w2WnlEQlpSMVhKZXNTVHZ4V1lwWUJEb1g2Q2tVWWgtNXE2aWl2U2h1UWtsSmoyV2ZvOGlTbHBpRGZlRTE2QVdsanFWU0pOVWo4SnlRUTR3NVEwRENyMlFFTDREYzV1SDRmSjlpQjlTNUVCd0JsNWhNeWZSRWdCa1lOdkU1a2xsdVZXbXQtLUtlS3c?oc=5)
+
+2026-06-25 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVRCWUc1N3VneFVSRTZfeWgxQWNVcFFlNW5sd2w2WnlEQlpSMVhKZXNTVHZ4V1lwWUJEb1g2Q2tVWWgtNXE2aWl2U2h1UWtsSmoyV2ZvOGlTbHBpRGZlRTE2QVdsanFWU0pOVWo4SnlRUTR3NVEwRENyMlFFTDREYzV1SDRmSjlpQjlTNUVCd0JsNWhNeWZSRWdCa1lOdkU1a2xsdVZXbXQtLUtlS3c?oc=5)
 
 ---
 

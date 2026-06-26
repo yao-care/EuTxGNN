@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [La dieta mediterránea podría influir en la reducción del deterioro cognitivo y la enfermedad de Alzheimer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
-
-2026-06-25 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVlQ1bDQwdHo0UFlCSEdoZndZREpzVTZvY0xSbU1manBtOXhHUmZsWDJRM2FfLUxxN183TDBaWUtDU29aLTc4aXY2TWZrUE0zbnhRQnk3N0d1eU0tOE9yeWZyNVBRLURicWdWbGdJMjVPMDlITlpEZFNuOV96RG45MW1kZnZZRGJIcW4tMGx6ckNualcyVHpjRHVjdWVNYk9uc19RSmhnUnZWa2JCd2U1Y2Z2cC1sTVF2VmQxSEtONEJEcTRvbGxOT2RQTmdJbTAxa0JSTHhRTW13ak12ckR5ajNn?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Can wiggling your pinky really stop cognitive decline? - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">dementia</span>
+2026-06-24 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
@@ -72,7 +64,7 @@ permalink: /news/rasagiline/
 
 ### [Popular joint pain treatment linked to faster Alzheimer’s decline and death - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-06-24 <span class="news-indication-tag">dementia</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHVHU0ZEbXVNVk9OQ0tfNE96WkRNRXJISl9FZVc4OXpmRHJCM29VcG9IV284MG1STzdTX2p0WHNEYzR3RHlyQ2pCMXdBLWg0WDFHWGZSay0zbXVoODZUR1dXRUhjaHVRblVuWEdtRjdKV3dsR1JieGN0M05SM2FKeWVVV1dublEzNGU5d2VB0gGTAUFVX3lxTFBKVzVJckt5Nm1XWHBGREV1ZWQ0MjJ6azI2cFduMnFlWHgtaXZFRDdXQWRLUTJKVk5Wa2lXMUpnZGxodDREMDRpelI0dlJ6cmNfVnQ3ZlhiRUE3V2dyT0JnSkl2VWRudkJJWWhWRVBGTEtFMENQSXdUb0pMa1VWMTRRUzNSdU8tdGk5WFJqZ3JqRndpRQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Biomarcadores en sangre para medir la respuesta a las psicoterapias en pacientes con depresión - Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
 
 2026-06-25 <span class="news-indication-tag">depresión</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
+
+---
+
+### [I’ve got summer SAD and the heatwave isn’t helping - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUJZRnRiVnFDaFplXzdnUWdHcGFFaHVKRGxaV2s3aVphVkJuUDNQNHROYnBFaEpuU204dm85emxuOW1JSk9LSEI2LW5iLThUNm5XcnpySVdGM3g0X1hDc0x4ZnZlR25teGJJb3FINm9qT1ZiaEh3a0h5RGRwVFZORmYwM2xCMmVTa0FUZ3ZnMHlhOThjSUhQdUZESzM1UkZpZngtMDVETG9lUHVBZndjUzVwOU5wNHE1WjQ1WUpwSHZ5aUZoZnVEZFZpVGdPOTA?oc=5)
+
+2026-06-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUJZRnRiVnFDaFplXzdnUWdHcGFFaHVKRGxaV2s3aVphVkJuUDNQNHROYnBFaEpuU204dm85emxuOW1JSk9LSEI2LW5iLThUNm5XcnpySVdGM3g0X1hDc0x4ZnZlR25teGJJb3FINm9qT1ZiaEh3a0h5RGRwVFZORmYwM2xCMmVTa0FUZ3ZnMHlhOThjSUhQdUZESzM1UkZpZngtMDVETG9lUHVBZndjUzVwOU5wNHE1WjQ1WUpwSHZ5aUZoZnVEZFZpVGdPOTA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Ander Ramos: "El sistema funciona frente al párkinson y el ictus, pues estimula las neuronas" - La Razón](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlhVVjA4eXNqRFh3SVl2Z0pIbHp2dEhFUlZSX0k4SXVZTEZiN2QtbWFDdGZaaEpRTk9PRk1rVkJ1UXd4UjlEbU52aEVKb3V6eGd5NC0wZXp6UFlRSjNiV0JjTHgwVFQzYXh0TzBKYmJYMG54Tm1BZnZ6WHZvTVRaaHhnOGVTbXhwTWxqdlU5T2pNMi10cWx6REJXZVprR2NMSE5nS2dLcUhRaS1TMkFxMjRBUWkwM0FjWGszbkJDX0ZORzhQOWo3dVR0S1E4S1BzdWZpWWlMMlPSAewBQVVfeXFMT0dMXzM0QjluejREM2ZLRmN3TmR3MnNNWk5zSTYzYVI2MjhqNWd0WVZfdXdSMjc5MUJHdUNLZ2NPVFJVeWtwcUxWRklCUFJWeElRWVpQcFAzZmNTTHB6bnZzMHpfRVh5LTVMWHdMN2I5aFcwMFdYdnFVaW96VGlxcHhTZmJvM1JRd0tpcjUzSzhQdTV5TzAwQlRFVmYxTGE5QkVKeVEtMDZtSHRSQThYWTBBNU4wTHJxR2tfYm5ISzVwMFBEREVacE51RVVURUpRNmtuZUt4TmFDbm4xZk5Dbm10ejJUUHhIX3JrNG8?oc=5)
+
+2026-06-26 <span class="news-indication-tag">ictus</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlhVVjA4eXNqRFh3SVl2Z0pIbHp2dEhFUlZSX0k4SXVZTEZiN2QtbWFDdGZaaEpRTk9PRk1rVkJ1UXd4UjlEbU52aEVKb3V6eGd5NC0wZXp6UFlRSjNiV0JjTHgwVFQzYXh0TzBKYmJYMG54Tm1BZnZ6WHZvTVRaaHhnOGVTbXhwTWxqdlU5T2pNMi10cWx6REJXZVprR2NMSE5nS2dLcUhRaS1TMkFxMjRBUWkwM0FjWGszbkJDX0ZORzhQOWo3dVR0S1E4S1BzdWZpWWlMMlPSAewBQVVfeXFMT0dMXzM0QjluejREM2ZLRmN3TmR3MnNNWk5zSTYzYVI2MjhqNWd0WVZfdXdSMjc5MUJHdUNLZ2NPVFJVeWtwcUxWRklCUFJWeElRWVpQcFAzZmNTTHB6bnZzMHpfRVh5LTVMWHdMN2I5aFcwMFdYdnFVaW96VGlxcHhTZmJvM1JRd0tpcjUzSzhQdTV5TzAwQlRFVmYxTGE5QkVKeVEtMDZtSHRSQThYWTBBNU4wTHJxR2tfYm5ISzVwMFBEREVacE51RVVURUpRNmtuZUt4TmFDbm4xZk5Dbm10ejJUUHhIX3JrNG8?oc=5)
+
+---
+
+### [Bluthochdruck-Vorstufen: +35% Schlaganfallrisiko bei Dreifach-Belastung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+---
+
+### [Adipositastherapie in der Menopause](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdThIWENZNm5yMWM4LTgzbExzSm9RcmhzNWlWa1ZldUcyU0paWEtXUWtoZ3hMdlFqYXlxLURfYk81RmQ5VHlDX3RKbk5QVFhFV0dEdERGTGY3OTZXV3g4aUN5WEhRVTFGb3R4TjhlX0hNNlBwVW44dzlJd3lyUTA?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdThIWENZNm5yMWM4LTgzbExzSm9RcmhzNWlWa1ZldUcyU0paWEtXUWtoZ3hMdlFqYXlxLURfYk81RmQ5VHlDX3RKbk5QVFhFV0dEdERGTGY3OTZXV3g4aUN5WEhRVTFGb3R4TjhlX0hNNlBwVW44dzlJd3lyUTA?oc=5)
+
+---
 
 ### [Eine neue Studie zeigt, dass die Fettleibigkeit bei jungen Erwachsenen am schnellsten zunimmt](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmgzcVl5VHJFVkZSU0FBa05EZ3FqOVhXTklYa0ctR0t0eVdKc2xMVno3eWcxV1FkNXlGWHlUTFROWklFTG5UcU1BaW94U3hxckRVeW1qQlh3bGpqaUhPdnREWUN2T3NwaG9YRUFxSmdzdTd3OEZTX21uVURESTUzbnRRdlAwazl1X2ROVTZselBTdFczWGJDRWczZXJvY1RvWlptaktEMV9Ka18wVFZWelZvR3UxakRMUk1aaENJZUJjNTdrT25n?oc=5)
 
@@ -67,14 +91,6 @@ permalink: /news/orlistat/
 2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
-
----
-
-### [Schlaganfall-Prävention: Dreier-Kombination senkt Rückfallrisiko um 39%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
 ---
 
@@ -94,11 +110,27 @@ permalink: /news/orlistat/
 
 ---
 
+### [I’m a doctor — here’s how to accurately check your blood pressure at home - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+
+2026-06-25 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+
+---
+
 ### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
+
+---
+
+### [Effects of exercise and liraglutide on vascular health and inflammation during weight loss maintenance: a prespecified secondary analysis of the S-LiTE trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
+
+2026-06-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
 
 ---
 
@@ -115,22 +147,6 @@ permalink: /news/orlistat/
 2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
----
-
-### [Uno de cada tres adultos en países occidentales padece esteatosis hepática metabólica - Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh6ekpYSG9wQ3JnTW50czBfdEFRNW8yb1ZqRXdOaU1fTGlQSGFBY1lxcV9YV2MyNlZfU0tIUnRVc19OV1otWnUxcmtmemdiRXB6NU5FS2VIekFwcWh5WS1MakJQZkZxZm9uVTdhemF6ZTh0NHVrRC0xNjYtSUF0R1VwTThsVXh4RXhiU2Q2cWp6R0VTOVdnODNUeTRXNmZGVEF0bnpncVJaRHVSWVQ1bUV0cXZOZw?oc=5)
-
-2026-06-24 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjh6ekpYSG9wQ3JnTW50czBfdEFRNW8yb1ZqRXdOaU1fTGlQSGFBY1lxcV9YV2MyNlZfU0tIUnRVc19OV1otWnUxcmtmemdiRXB6NU5FS2VIekFwcWh5WS1MakJQZkZxZm9uVTdhemF6ZTh0NHVrRC0xNjYtSUF0R1VwTThsVXh4RXhiU2Q2cWp6R0VTOVdnODNUeTRXNmZGVEF0bnpncVJaRHVSWVQ1bUV0cXZOZw?oc=5)
-
----
-
-### [Comer fruta por la noche no sólo no es malo sino que se asocia a un mejor control de la glucosa](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
-
-2026-06-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWFMWlZlU2xMTDFlUjQ2TnNiSldfRkl6RzBUSkVMT1pmREZ1WmFOYnZQaDdzbE5ERk9wOVBRSWUtUGVZTzQtTy00YmhDX1dwRVFsUTdCakZKTDhfaGIwQ0ZkUy0tbE1vZ2xPdkZESF8xYWZhbHFYcE5PWDF1QUxuaXN3dzFLWm5pU292LWFkMFdRTUEyV1NXYWxieTBac1dIQXUyVVZaMVdUeUlMOG1zSDRFVWVvTFlrcGRZNjhVRzMtNzV3X2fSAcsBQVVfeXFMTUoxVVpkbTFLdE12YURMR2M3REN6SFp4bElvRVJrdUpFenBFLU9ycXk2Y190OF9qS2NVMlpFSnhaMmR6aEs5Wl9ubV9lUlI5WU5fYjlWTDlQSWpwNG9RckNPV1BMS0pmel94dFpJRjk1NUNVdXBLWFpBa0d2OGZYMmhhWElTcWNzZlJvQjFwOUdrWXZxTjRIU0kxR08yaUFSRkx3Sy1hdE9OVlBwSzZJTEQ3TjR0LWc0S09QSTRBQlJWSi1jVVBGSnp5UDA?oc=5)
 
 ---
 

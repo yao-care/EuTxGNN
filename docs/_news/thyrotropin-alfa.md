@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Bluthochdruck-Vorstufen: +35% Schlaganfallrisiko bei Dreifach-Belastung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+---
 
 ### [Warum Migräne bei Männern oft erst so spät erkannt wird](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/thyrotropin-alfa/
 
 ---
 
-### [El calor puede agravar las migrañas: los expertos de Vithas alertan del impacto de las altas temperaturas en los pacientes - Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">migraña</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
-
----
-
 ### [Bluthochdruck: Diese Medikamente werden am besten vertragen](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFY5aXE3dVBLWjE3aHpYa01zOXVkZUFMeHdMOHBvZ1VVbEg0aGVCdnJ4WGxHbTloY0FyOU5kSmlGazFteWNSTldqOGp5RVlJQVEzSi00bmt1YWJtZEt5TzIyZ2pLcUo4QWtHZDEzTWstaDZlcDBxc3Nja2pwZmFmaVE0YWhYZnd1c0RBandkaGJsNDNvM1RURUdyeThLMzBOcHNIQjhua0RyNTJqcXRFcWRHRQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Bluthochdruck</span>
@@ -88,9 +88,17 @@ permalink: /news/thyrotropin-alfa/
 
 ### [I’m a doctor — here’s how to accurately check your blood pressure at home - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
 
-2026-06-25 <span class="news-indication-tag">hypertension</span>
+2026-06-25 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+
+---
+
+### [Omega-3: Studie widerlegt Wundermittel gegen Alzheimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
 
 ---
 

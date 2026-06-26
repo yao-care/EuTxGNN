@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [5 Exercises That Are Wrecking Your Knees After 60 (And What to Do Instead) - Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+---
 
 ### [For decades an Italian-American town in Pennsylvania had far less heart disease than the near-identical town next door despite smoking, drinking and eating much the same, and the only thing that explained the gap was how closely its people lived - Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQR2NvVWdld19rMGxiOUlTdS1QNzZ0dnpDWmZpNkxWSVpKSW1mNzZuU3VmQjRIY3RmQ1lGUzZqT29sQ1dRaXd0dWRNMlA3Qlh5US0wV0ZjV09VTTJtNG44UUpUeDBobkVrUU9tNmxTZVhNUHZZaUNDbS1Jc0VFZlp4T2xUVGo3T2FQcVJVY1hjX24weFMxVmVEdl8xTGdVelE1ZzVILUJpbU5DSnNaWWUwQUY1azl3bWxxeWNCb0E3U2FyR3NxUmZIMC0wMVlMYXVQeEJGTzNPSG1QU2h0eUxSNXQ1ci1HWFhNaXI5YV9STzl4ZWZiSjBtSnNQM0VDY2ptY080cGtrVjZ2ZnNYTkx6bGNfNGY3OUNhMUVrYjVwTjBKZ2JwLWV3NzRMVDVNbFh3UVFnSDZHTjdOdEJwcWRnMnhOR21ncGM1eC1j?oc=5)
 

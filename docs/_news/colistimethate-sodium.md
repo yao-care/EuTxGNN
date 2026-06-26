@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Bluthochdruck-Vorstufen: +35% Schlaganfallrisiko bei Dreifach-Belastung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+---
+
+### [5 Exercises That Are Wrecking Your Knees After 60 (And What to Do Instead) - Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
+
+---
 
 ### [Bluthochdruck: Diese Medikamente werden am besten vertragen](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFY5aXE3dVBLWjE3aHpYa01zOXVkZUFMeHdMOHBvZ1VVbEg0aGVCdnJ4WGxHbTloY0FyOU5kSmlGazFteWNSTldqOGp5RVlJQVEzSi00bmt1YWJtZEt5TzIyZ2pLcUo4QWtHZDEzTWstaDZlcDBxc3Nja2pwZmFmaVE0YWhYZnd1c0RBandkaGJsNDNvM1RURUdyeThLMzBOcHNIQjhua0RyNTJqcXRFcWRHRQ?oc=5)
 
@@ -64,9 +80,17 @@ permalink: /news/colistimethate-sodium/
 
 ### [I’m a doctor — here’s how to accurately check your blood pressure at home - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
 
-2026-06-25 <span class="news-indication-tag">hypertension</span>
+2026-06-25 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGMxVWdKWjhTWTE2RExsZVJyNml1VkRnSmFUdFJoQ3VlQjdpZDRWVU1jZ09GX1BDd0ZxQkJDYk43VUdNM2lJTWNyRzdQZm1WemRoUFQxemxuY1pTM0U5SDFiTThfZmJRb3hOejNObXdzSUlnbHJKMWh5LXBmR0RZYllJTVJqcldXRmN0NUpQcHhDbTFV0gGaAUFVX3lxTE9pUFdUbFB5MWlqNGFWT0UzTW5rSHNEY1FNRktlend3VDJqV1k4Q2xVT0ZQWE1sR0hPZWxiRUJwYkhMRk5nbXBjbnh5QW5KQ0tpcGNPY1AtekNtTkpQanhreEJEd0thZW00Tjh0Q19KRGwxSTE5bDNJYkFZT3BOX2VCaTNjWDBVQ0M3V2d1SE1MRDFqd1VMaUxrS0E?oc=5)
+
+---
+
+### [Omega-3: Studie widerlegt Wundermittel gegen Alzheimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
 
 ---
 
