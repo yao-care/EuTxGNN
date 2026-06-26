@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。6 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>6 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Bluthochdruck-Vorstufen: +35% Schlaganfallrisiko bei Dreifach-Belastung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
 
 2026-06-26
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
+
+---
+
+### [Fischöl-Studie: 17% DHA-Anstieg stoppt Alzheimer nicht](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXRaX2h0WFZWVlFQT3VWYjBiT2JOd0F5d0RhUFhSMTBkR3FtQW95eUY0bDh5SEI0eXg3a0ZjUF9hT1JzbHBxMnFLeFpXVGxMV3EzM2l0bVZzSzFucDI4b1lEQzNhTkFDbHJVUmIyZVllU0E2VFI1UmxHVHJyT05veWxSSFlRNHhtVUFnRUVNczhXQVpDT3ZXZFNyMFkwdWpEX0dYb1ppbXBYbWVfQkw4?oc=5)
+
+2026-06-25
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXRaX2h0WFZWVlFQT3VWYjBiT2JOd0F5d0RhUFhSMTBkR3FtQW95eUY0bDh5SEI0eXg3a0ZjUF9hT1JzbHBxMnFLeFpXVGxMV3EzM2l0bVZzSzFucDI4b1lEQzNhTkFDbHJVUmIyZVllU0E2VFI1UmxHVHJyT05veWxSSFlRNHhtVUFnRUVNczhXQVpDT3ZXZFNyMFkwdWpEX0dYb1ppbXBYbWVfQkw4?oc=5)
 
 ---
 
@@ -109,27 +117,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [Omega-3: Studie widerlegt Wundermittel gegen Alzheimer](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
+### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
 
 2026-06-25
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWFTNG1EWEtJQVdERU9tMFBmV0JlX0xGcVpQOFBxQk5ZZDFGNGxtRUx1X1F1RktPTmp5NHVlSmlBdVctc3JzZDY0T2xjYU5nVFZEYmljVGdVQ1FNTFZoNXdGeHpHeGZCUGlGc0c4eE1UY29XUWs5Szk0aldjOEtUWkhxeVFKYlgxV3c0VmFKVUpfUDJnZzV3M1dLb2Ztd090RFJ0Uw?oc=5)
-
----
-
-### [8 aditivos alimentarios relacionados con la presión arterial alta y las enfermedades cardíacas, según un masivo estudio - La Tercera](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTXVMNUpLTndUNXlXc1prTnhpRURIM196c19QWkhSc1VlQ0o3Qk1hbkpNbmFUUC15RS1Mcnh3ZG5OMnpIQTVVUTloQjh0aU1VOGxCbnpxdVVfZXhOMlhUNFVZS1lxVlBWd1VmbTAwYzFKUHRnZ0xOZWJQQ0U0Z0tIbVNyVjJnb1ZydUVDckh2ZTEtT0JSRlJYN1hIdWxDdzRJQS05NnNIRWxESXpWS1pCR1VhYXJIOElrZWluQkt4VklqV1llWWJQa25HOE9UbWJsQVJFNVo3aF93VlctV3c0TXRvdG83WGFUTVdjRnVuWnhKRVM4anNz0gGYAkFVX3lxTE9IWXRrSkw2OGc2b1gwR1E2M2JhMFl4TE5oS1JyZVh3dGdmRmNCbXA5cXNIczV5OGtBRFM4MWFoU05hYUVOZE1fOTRNdlc3d1JNcklUdmZEcWRTMFNHMHVCaC1wVTJzTkFWS3lMb3FZMWFxNVJoVlp3dlEwSWZsNkdqTFlfVkNIcm96S0tGT0lmZnpjWDNzZEpDZXlxSXJILUV1Yi1ZT0dVN1U2SmozeHBSRk9MR0tRMFdkY1pBT2xRMEtDSUlOTmtTbVJIbzBoNXctel9QM2t4bHdXNjJuU0t2bEx1d3ViRUl2MEptbzQ0ODF6MHdjaEFnZklUY0pvc1Uya1gtQnczek5ZUUdLV3BmSjFieGJEZ24?oc=5)
-
-2026-06-24
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTXVMNUpLTndUNXlXc1prTnhpRURIM196c19QWkhSc1VlQ0o3Qk1hbkpNbmFUUC15RS1Mcnh3ZG5OMnpIQTVVUTloQjh0aU1VOGxCbnpxdVVfZXhOMlhUNFVZS1lxVlBWd1VmbTAwYzFKUHRnZ0xOZWJQQ0U0Z0tIbVNyVjJnb1ZydUVDckh2ZTEtT0JSRlJYN1hIdWxDdzRJQS05NnNIRWxESXpWS1pCR1VhYXJIOElrZWluQkt4VklqV1llWWJQa25HOE9UbWJsQVJFNVo3aF93VlctV3c0TXRvdG83WGFUTVdjRnVuWnhKRVM4anNz0gGYAkFVX3lxTE9IWXRrSkw2OGc2b1gwR1E2M2JhMFl4TE5oS1JyZVh3dGdmRmNCbXA5cXNIczV5OGtBRFM4MWFoU05hYUVOZE1fOTRNdlc3d1JNcklUdmZEcWRTMFNHMHVCaC1wVTJzTkFWS3lMb3FZMWFxNVJoVlp3dlEwSWZsNkdqTFlfVkNIcm96S0tGT0lmZnpjWDNzZEpDZXlxSXJILUV1Yi1ZT0dVN1U2SmozeHBSRk9MR0tRMFdkY1pBT2xRMEtDSUlOTmtTbVJIbzBoNXctel9QM2t4bHdXNjJuU0t2bEx1d3ViRUl2MEptbzQ0ODF6MHdjaEFnZklUY0pvc1Uya1gtQnczek5ZUUdLV3BmSjFieGJEZ24?oc=5)
-
----
-
-### [I was super fit, but ignoring my high blood pressure nearly killed me - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
-
-2026-06-24
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2tuLTBPQmp0dTRhTi0wWmd4NVZVUGhYdWhUY3JzOGwxVl9PeGFvc29leE5RY09TdVpIR1dqdWxPQjBNSHY4ZVZVcTZxVFBpOUNvQW5DTFBucDlPdGZZSTd2Mld0VGVNVVZFXzVpc1doWkhRbmJXc19FRUxKVDh0TnNvTGFTdE5XZ1VLd0FJWW9iVXR2eDQwR3BiNmxZNVNBZE9oWmtyRkRNZEpBQy1aRERoM1A5UDN3?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
 
 ---
 

@@ -54,14 +54,6 @@ permalink: /news/tazobactam/
 
 ## 相關新聞（4 則）
 
-### [5 Exercises That Are Wrecking Your Knees After 60 (And What to Do Instead) - Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
-
-2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Eat This Not That](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbnU0eU1YWkt5OEc3ZlJWdHJrUWk3SG1GdEtGSWtRc2M4Q1pQbURIcXhzM3BTbkxYaDdXVFZLWk02R1ZkX05NS3N0TVFIMVRHWU1tOEZlYXB6eUItY1Y1OXRuano0cE0?oc=5)
-
----
-
 ### [La contaminación duplica el empeoramiento en pacientes con asma - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
 
 2026-06-25 <span class="news-indication-tag">asma</span>
@@ -78,9 +70,17 @@ permalink: /news/tazobactam/
 
 ---
 
+### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
+
+---
+
 ### [Was im Darm wächst, könnte Allergien bei Kindern mitbestimmen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
 
-2026-06-24 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-indication-tag">asthma</span>
 
 來源：[FITBOOK](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
 

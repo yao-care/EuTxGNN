@@ -54,11 +54,11 @@ permalink: /news/vortioxetine/
 
 ## 相關新聞（3 則）
 
-### [Biomarcadores en sangre para medir la respuesta a las psicoterapias en pacientes con depresión - Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
+### [Hallan biomarcadores sanguíneos que permitirían medir la eficacia de las psicoterapias en la depresión](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMC1GVkZCTzVGYTdpWV9UUWJMSDJ0RU5maUtiTEhmSmdfN1U5WDNLbVR4RnlhQjZHWW1xTEdCM1I3RzdfUXUxUnBITGp4SkpCRUtiREtlSTNRT3RYaUQ3SDdiNjB3VEZBNmozWHVUMDVnVHhBLWd5OWFDRmZnSXZmSzEzdS1Ga1VjM2VTelduOUlYN25GMVo3LUw2eUVpZkREUnJoNExaMy1DcFVPT3U2NEgxSkFvNjczUEJVeV9UVmF0V0VqZFkxMjFQdDBUZw?oc=5)
 
-2026-06-25 <span class="news-indication-tag">depresión</span>
+2026-06-26 <span class="news-indication-tag">depresión</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWl5aHBvTTJ1bGR2LTlEaWhDYzJxcHZNSGhIZDFjSmlYRkdUYmowdnhzT1I3UHpUckUwbFNKelpNTHRiaFhHZEh1M254TTVnb0tFWDZqWUNyMFhRUGJXazNCYVNmWS1FSHNIeEpUQkVzM3piSlZfVGtxSm9Kcy0tMzVMZG1STThzanMzOHVpOWF6QXJkVDlVeGZETkdQMi0xWVR6VExNYlZHVVh5Z3pOa20zdGpUMjZ1SHhWalYzQUlEUE5NSHpuZ0g0cVVZZw?oc=5)
+來源：[pharmatech.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMC1GVkZCTzVGYTdpWV9UUWJMSDJ0RU5maUtiTEhmSmdfN1U5WDNLbVR4RnlhQjZHWW1xTEdCM1I3RzdfUXUxUnBITGp4SkpCRUtiREtlSTNRT3RYaUQ3SDdiNjB3VEZBNmozWHVUMDVnVHhBLWd5OWFDRmZnSXZmSzEzdS1Ga1VjM2VTelduOUlYN25GMVo3LUw2eUVpZkREUnJoNExaMy1DcFVPT3U2NEgxSkFvNjczUEJVeV9UVmF0V0VqZFkxMjFQdDBUZw?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/vortioxetine/
 
 ### [The 'scary' heatwave side effect people don't talk about enough](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWpPWTRQLVcxMG1DTGc5OXpSbzhBQ2lfZVVIUExfLWFVanU1SHRXTVIwLXNOTXlmOExkSzNWWlhMZC11MTJ4aEFJRXFUR0NFQ1AzYmhkaEVsMEVSYm5seFBoTnZ2NE9pUkxzeEg1VmFocFJFU0drM0dSMW9yOXA4Z2Q0ZW93SUhnVFNpTW5FdzIzZlRfNnfSAZsBQVVfeXFMTnRmYlZsamJFSkJFVDhRTnhqclVkQWhtVEh2ZjJkMlpPb1hEdlcwUXJtQjdWbmhOV2FROTYyLWtMUDNRMmkyMElNMDYtc0RuejNMMDRES2JhTVNuSzRVem1oSWU1R3dWRmxjV0I4SkNZQXNxcF82cVlkZDZyODZ5WFZWUVJvNUFmR3J6c3NKLWVrb21UWk5Qdk52LVE?oc=5)
 
-2026-06-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWpPWTRQLVcxMG1DTGc5OXpSbzhBQ2lfZVVIUExfLWFVanU1SHRXTVIwLXNOTXlmOExkSzNWWlhMZC11MTJ4aEFJRXFUR0NFQ1AzYmhkaEVsMEVSYm5seFBoTnZ2NE9pUkxzeEg1VmFocFJFU0drM0dSMW9yOXA4Z2Q0ZW93SUhnVFNpTW5FdzIzZlRfNnfSAZsBQVVfeXFMTnRmYlZsamJFSkJFVDhRTnhqclVkQWhtVEh2ZjJkMlpPb1hEdlcwUXJtQjdWbmhOV2FROTYyLWtMUDNRMmkyMElNMDYtc0RuejNMMDRES2JhTVNuSzRVem1oSWU1R3dWRmxjV0I4SkNZQXNxcF82cVlkZDZyODZ5WFZWUVJvNUFmR3J6c3NKLWVrb21UWk5Qdk52LVE?oc=5)
 
