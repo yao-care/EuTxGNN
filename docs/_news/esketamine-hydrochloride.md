@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Hallan biomarcadores sanguíneos que permitirían medir la eficacia de las psicoterapias en la depresión](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMC1GVkZCTzVGYTdpWV9UUWJMSDJ0RU5maUtiTEhmSmdfN1U5WDNLbVR4RnlhQjZHWW1xTEdCM1I3RzdfUXUxUnBITGp4SkpCRUtiREtlSTNRT3RYaUQ3SDdiNjB3VEZBNmozWHVUMDVnVHhBLWd5OWFDRmZnSXZmSzEzdS1Ga1VjM2VTelduOUlYN25GMVo3LUw2eUVpZkREUnJoNExaMy1DcFVPT3U2NEgxSkFvNjczUEJVeV9UVmF0V0VqZFkxMjFQdDBUZw?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ---
 
-### [I’ve got summer SAD and the heatwave isn’t helping - The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUJZRnRiVnFDaFplXzdnUWdHcGFFaHVKRGxaV2s3aVphVkJuUDNQNHROYnBFaEpuU204dm85emxuOW1JSk9LSEI2LW5iLThUNm5XcnpySVdGM3g0X1hDc0x4ZnZlR25teGJJb3FINm9qT1ZiaEh3a0h5RGRwVFZORmYwM2xCMmVTa0FUZ3ZnMHlhOThjSUhQdUZESzM1UkZpZngtMDVETG9lUHVBZndjUzVwOU5wNHE1WjQ1WUpwSHZ5aUZoZnVEZFZpVGdPOTA?oc=5)
+### ["Ho la malattia di Lyme. Il dolore e i traumi mi portano a un grande isolamento e depressione. Ma c'è una luce, anche se non riuscite a vederla": Bella Hadid commossa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMitwJBVV95cUxQcmxqOGtkUmk1WnVWSlktaE1MN2M2dGRDNEdDaUFjUWtrYzl0MjNVVnJ1VVMzSWdlbGN3dlFWa01oaTRCRzNRZW0weTNSeUpuTmVQUHNqdFB6Zk1QNzRaaThPSDk5NnFjU29vS1ZxUnE3LThNb2lLM2lsUjBkMEpMcUlGLXBzMWhGNW9vMW9LUld1MzVjM2J3cWFTQnFUdEFUSWtvZC0xUXBWVEhaZjNLYjJCQThJZzhzR3dmYmZJbHFybDB0QzBqby1zNTNRZW44NTY2a01xazIzSms3ZkNackRYSXZmbVNvWEJMSlItV2tucHJWQkNmY0xsUnBPbklBeEYxcGZ1dklkYVFxY1hSVnJQSDc2ZXRoOFFjN2hrVU5pSXBQQ3VEbmVHNl9PekZqdGtVVXpmWQ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">depression</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUJZRnRiVnFDaFplXzdnUWdHcGFFaHVKRGxaV2s3aVphVkJuUDNQNHROYnBFaEpuU204dm85emxuOW1JSk9LSEI2LW5iLThUNm5XcnpySVdGM3g0X1hDc0x4ZnZlR25teGJJb3FINm9qT1ZiaEh3a0h5RGRwVFZORmYwM2xCMmVTa0FUZ3ZnMHlhOThjSUhQdUZESzM1UkZpZngtMDVETG9lUHVBZndjUzVwOU5wNHE1WjQ1WUpwSHZ5aUZoZnVEZFZpVGdPOTA?oc=5)
-
----
-
-### [The 'scary' heatwave side effect people don't talk about enough](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWpPWTRQLVcxMG1DTGc5OXpSbzhBQ2lfZVVIUExfLWFVanU1SHRXTVIwLXNOTXlmOExkSzNWWlhMZC11MTJ4aEFJRXFUR0NFQ1AzYmhkaEVsMEVSYm5seFBoTnZ2NE9pUkxzeEg1VmFocFJFU0drM0dSMW9yOXA4Z2Q0ZW93SUhnVFNpTW5FdzIzZlRfNnfSAZsBQVVfeXFMTnRmYlZsamJFSkJFVDhRTnhqclVkQWhtVEh2ZjJkMlpPb1hEdlcwUXJtQjdWbmhOV2FROTYyLWtMUDNRMmkyMElNMDYtc0RuejNMMDRES2JhTVNuSzRVem1oSWU1R3dWRmxjV0I4SkNZQXNxcF82cVlkZDZyODZ5WFZWUVJvNUFmR3J6c3NKLWVrb21UWk5Qdk52LVE?oc=5)
-
-2026-06-24 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWpPWTRQLVcxMG1DTGc5OXpSbzhBQ2lfZVVIUExfLWFVanU1SHRXTVIwLXNOTXlmOExkSzNWWlhMZC11MTJ4aEFJRXFUR0NFQ1AzYmhkaEVsMEVSYm5seFBoTnZ2NE9pUkxzeEg1VmFocFJFU0drM0dSMW9yOXA4Z2Q0ZW93SUhnVFNpTW5FdzIzZlRfNnfSAZsBQVVfeXFMTnRmYlZsamJFSkJFVDhRTnhqclVkQWhtVEh2ZjJkMlpPb1hEdlcwUXJtQjdWbmhOV2FROTYyLWtMUDNRMmkyMElNMDYtc0RuejNMMDRES2JhTVNuSzRVem1oSWU1R3dWRmxjV0I4SkNZQXNxcF82cVlkZDZyODZ5WFZWUVJvNUFmR3J6c3NKLWVrb21UWk5Qdk52LVE?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMitwJBVV95cUxQcmxqOGtkUmk1WnVWSlktaE1MN2M2dGRDNEdDaUFjUWtrYzl0MjNVVnJ1VVMzSWdlbGN3dlFWa01oaTRCRzNRZW0weTNSeUpuTmVQUHNqdFB6Zk1QNzRaaThPSDk5NnFjU29vS1ZxUnE3LThNb2lLM2lsUjBkMEpMcUlGLXBzMWhGNW9vMW9LUld1MzVjM2J3cWFTQnFUdEFUSWtvZC0xUXBWVEhaZjNLYjJCQThJZzhzR3dmYmZJbHFybDB0QzBqby1zNTNRZW44NTY2a01xazIzSms3ZkNackRYSXZmbVNvWEJMSlItV2tucHJWQkNmY0xsUnBPbklBeEYxcGZ1dklkYVFxY1hSVnJQSDc2ZXRoOFFjN2hrVU5pSXBQQ3VEbmVHNl9PekZqdGtVVXpmWQ?oc=5)
 
 ---
 

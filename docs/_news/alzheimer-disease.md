@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
+### [Can the viral 'pinky time' trick ward off dementia? Doctor reveals the brain science behind effortless daily habit - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
+
+2026-06-25
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
+
+---
+
 ### [The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
 
 2026-06-25
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
-
----
-
-### [Can wiggling your pinky really stop cognitive decline? - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
-
-2026-06-24
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
 ---
 

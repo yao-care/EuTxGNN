@@ -54,19 +54,19 @@ permalink: /news/opicapone/
 
 ## 相關新聞（2 則）
 
+### [Can the viral 'pinky time' trick ward off dementia? Doctor reveals the brain science behind effortless daily habit - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
+
+---
+
 ### [The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
 
 2026-06-25 <span class="news-indication-tag">dementia</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
-
----
-
-### [Can wiggling your pinky really stop cognitive decline? - The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5)
 
 ---
 

@@ -43,6 +43,38 @@ permalink: /news/avanafil/
 
 ## 相關新聞（22 則）
 
+### [Weniger Todesfälle durch Gebärmutterhalskrebs nach HPV-Impfung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[netDoktor](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
+
+---
+
+### [Kaffee-Konsum reduziert Leberkrebs-Risiko](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnFhNVZqWUJRMUhwRXlxbl9GejVlNTRvVXMxeFp3RGNQR29XcC0tbFZOcHFWQVJiZ2VnaHA0OEpCckNTUndUaHhiYk0zaThMRXd5aUNBOHBDOC1ZVXJvWkFPZnFlUkFqWnFVY3hxS0lGYmlWVkp0bm9kYU9SYzBEamxjYVFQU2ROdlBCUERyXzdidEt3RHJlM2dDZDZ3dGtxWUVJRg?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnFhNVZqWUJRMUhwRXlxbl9GejVlNTRvVXMxeFp3RGNQR29XcC0tbFZOcHFWQVJiZ2VnaHA0OEpCckNTUndUaHhiYk0zaThMRXd5aUNBOHBDOC1ZVXJvWkFPZnFlUkFqWnFVY3hxS0lGYmlWVkp0bm9kYU9SYzBEamxjYVFQU2ROdlBCUERyXzdidEt3RHJlM2dDZDZ3dGtxWUVJRg?oc=5)
+
+---
+
+### [GLP-1-Wirkstoffe: Brustkrebsrisiko bei Frauen um ein Drittel gesenkt](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lsYm5qQ01NRjEwZlczZDY5ei1DN2I4Q3c1OENrNkY4Y3Z2bm5BdVpqbUZ2WmExSlBFSnFkYmRRS2xCQmJpQkU1dktnTlEzNllQTTQ0YjliN2VuZDFSaFJRam5fbENQX2NIX1dmeHhkZ0FqOUpLU09WN1lzWXBxWGZFLUtSTDFlTURWRC0wM1RQSl9iVTJuZUxPcV9rN2hEUzhoNFJiMDU1dEF4MWZpZmxSd2Z6ZkU?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lsYm5qQ01NRjEwZlczZDY5ei1DN2I4Q3c1OENrNkY4Y3Z2bm5BdVpqbUZ2WmExSlBFSnFkYmRRS2xCQmJpQkU1dktnTlEzNllQTTQ0YjliN2VuZDFSaFJRam5fbENQX2NIX1dmeHhkZ0FqOUpLU09WN1lzWXBxWGZFLUtSTDFlTURWRC0wM1RQSl9iVTJuZUxPcV9rN2hEUzhoNFJiMDU1dEF4MWZpZmxSd2Z6ZkU?oc=5)
+
+---
+
+### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
+
+2026-06-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
+
+---
+
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
 2026-06-26 <span class="news-indication-tag">cancer</span>
@@ -64,6 +96,22 @@ permalink: /news/avanafil/
 2026-06-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
+
+---
+
+### [Microbiota e cancro al colon: come i batteri spingono il tumore - Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
+
+2026-06-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
+
+---
+
+### [Family angry at nine-year cancer diagnosis delay](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
 
 ---
 
@@ -91,22 +139,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Bluthochdruck-Vorstufen: +35% Schlaganfallrisiko bei Dreifach-Belastung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaVE3aG5NelJpbVUtZ3Q3MWZFZ2tDaDVkek1IbGYyc3R3d05jU0N5LTE4RXZIUGNlcUpKOFpuNjI3b2QxM1FZaGJVNEpWdE1RRk4xQy1VVllzVTNOZ3hJdHZ4NTBZSGtPRFZkTFdiNlJkZHo2dGNwYTJGUTZiSHRZUzJnUVRCUW16cDAtdkV0bXhHQ1VqNm5qZ3hMWjBQWmZYV25wQ3FKY1c5Zw?oc=5)
-
----
-
-### [HPV-Impfung - Krebs-Sterberisiko sinkt auf nahezu null](https://news.google.com/rss/articles/CBMingFBVV95cUxObTVzUnFaNk5xNi14ak94NUlRWWNHbXRqZVhZMHJ3Mkh2dkt1VElGdU1tQVNRNXlHdFNYWWpHNll0WGRBbzZMYlFBbENxRVdEREZnUzlrWFppNTlSRVJiZElfb2NsWTJ3VVkyMkVBYmUtd1F6b3VRaUtsaDN2RTM1TjM1LXVLWUluZlQ3ZkxTYmN2cFFYRU1vUjZqY0wtQQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[BR](https://news.google.com/rss/articles/CBMingFBVV95cUxObTVzUnFaNk5xNi14ak94NUlRWWNHbXRqZVhZMHJ3Mkh2dkt1VElGdU1tQVNRNXlHdFNYWWpHNll0WGRBbzZMYlFBbENxRVdEREZnUzlrWFppNTlSRVJiZElfb2NsWTJ3VVkyMkVBYmUtd1F6b3VRaUtsaDN2RTM1TjM1LXVLWUluZlQ3ZkxTYmN2cFFYRU1vUjZqY0wtQQ?oc=5)
-
----
-
 ### [Nicht auf die Lunge beschränkt: Ambulant erworbene Pneumonie schlägt auch auf Herz und Gehirn - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
@@ -123,11 +155,19 @@ permalink: /news/avanafil/
 
 ---
 
-### [La clave para anticipar la eficacia de la inmunoterapia puede estar dentro del tumor - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
+### [Schlaganfall-Prävention: Dreier-Kombination senkt Rückfallrisiko um 39%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
-2026-06-25 <span class="news-indication-tag">tumor</span>
+2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
+
+---
+
+### [The octopus-like nanobots that can attack and kill cancer cells](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXhZcVlUdEtzMWEwM0wyazJhLU03QTVLYXNVVV9UamhUajVEa1lCMEx4UXBmTjA2d09wNWlDdXNtM3dSa3B3d0ZZYU9Wb0RObkM3a2VPQTFBMFBweGpYQmFSWTA4MUtCTC03eExvR2Z6UE9PaWJDNHE3akM5SG8wUy1RRUVaZktKQ2VxZjJNMFh6dTgtQUHSAZsBQVVfeXFMTzJqb1p6MmQ2LTI3X0lQMGJ2V3RHLTNmMTlIazl0NGdnNzJqcnA0NFh1Xzk1WGtJYS1pb3Z6MUFYSm9INWhwTkZhTldKOFRBWldWMm5MYk9XX0E1UE4wVFF0SDA5NGUzSUVhbl80OGdUNlJTay1xczRFVTBwdXpyWW8zUnpxMlMyb1ZZRjRtbVlPQkstZXJqVk9sUWs?oc=5)
+
+2026-06-25 <span class="news-indication-tag">cancer</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXhZcVlUdEtzMWEwM0wyazJhLU03QTVLYXNVVV9UamhUajVEa1lCMEx4UXBmTjA2d09wNWlDdXNtM3dSa3B3d0ZZYU9Wb0RObkM3a2VPQTFBMFBweGpYQmFSWTA4MUtCTC03eExvR2Z6UE9PaWJDNHE3akM5SG8wUy1RRUVaZktKQ2VxZjJNMFh6dTgtQUHSAZsBQVVfeXFMTzJqb1p6MmQ2LTI3X0lQMGJ2V3RHLTNmMTlIazl0NGdnNzJqcnA0NFh1Xzk1WGtJYS1pb3Z6MUFYSm9INWhwTkZhTldKOFRBWldWMm5MYk9XX0E1UE4wVFF0SDA5NGUzSUVhbl80OGdUNlJTay1xczRFVTBwdXpyWW8zUnpxMlMyb1ZZRjRtbVlPQkstZXJqVk9sUWs?oc=5)
 
 ---
 
@@ -147,14 +187,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Por fin estamos curando las metástasis - National Geographic España](https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0NYMlI2OGlfRGFKVUlsSEs4MnJZQzJMeHY5WlZqRXFTemdFSkhFVENzS3dMUFp0cjlHN3dNTGN6MWl0MHBSQ0ZwbDBmM2l5enV4eDhYaTNkVWtlTnJrbktDRmstMWNqM0VDN1JHOExRbVlySHo4UWtYcVg1T1FRcUIxNHNkMVhoUlhWLWF1dFBlc1IzUFNURDkxV3lsZ2VHSGpqYkJsbw?oc=5)
-
-2026-06-25 <span class="news-indication-tag">tumor</span>
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0NYMlI2OGlfRGFKVUlsSEs4MnJZQzJMeHY5WlZqRXFTemdFSkhFVENzS3dMUFp0cjlHN3dNTGN6MWl0MHBSQ0ZwbDBmM2l5enV4eDhYaTNkVWtlTnJrbktDRmstMWNqM0VDN1JHOExRbVlySHo4UWtYcVg1T1FRcUIxNHNkMVhoUlhWLWF1dFBlc1IzUFNURDkxV3lsZ2VHSGpqYkJsbw?oc=5)
-
----
-
 ### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
@@ -163,27 +195,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Surge in breast cancer cases in under-50s amid calls for screening to start younger - 6 early signs you need to know - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
-
----
-
 ### [Candiolo, la ricerca del futuro - La Stampa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lST2tMVC1FclBHaU4tSkhiWkV2VGx3ZU93NkY1TDZOU01reW16bUJLS3JObnQ2VUZOM3cwX2JRU2lPUVNxdVhaTFd4Sjk0TzBWeTYzZ0Y5eW1IaUxsOW5MWS1Ma1RjeFVNM3RkbkRoNjN6ZVA5WlFjTlNHUlE0Z0M5SFJYbDdoYWVGQ25fTWnSAZYBQVVfeXFMT2tuU18tR1N3ZHdXcVJtTGNnbllTdUlMd00yUGpOb09vY2swSDY4TURocWFuLXZJNTA2d1d2TDJkcEVTZVI1SHMwbWpqQkwydkNCVjRKSEtFa3JzbXV6emN6Yk91OUxETlJ0aEJSNGlxN0VMYm40c3c0MnhjM0ZGN3U4eFdZdmpmSkdkWDhOQWFrbEpVWHpR?oc=5)
 
 2026-06-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lST2tMVC1FclBHaU4tSkhiWkV2VGx3ZU93NkY1TDZOU01reW16bUJLS3JObnQ2VUZOM3cwX2JRU2lPUVNxdVhaTFd4Sjk0TzBWeTYzZ0Y5eW1IaUxsOW5MWS1Ma1RjeFVNM3RkbkRoNjN6ZVA5WlFjTlNHUlE0Z0M5SFJYbDdoYWVGQ25fTWnSAZYBQVVfeXFMT2tuU18tR1N3ZHdXcVJtTGNnbllTdUlMd00yUGpOb09vY2swSDY4TURocWFuLXZJNTA2d1d2TDJkcEVTZVI1SHMwbWpqQkwydkNCVjRKSEtFa3JzbXV6emN6Yk91OUxETlJ0aEJSNGlxN0VMYm40c3c0MnhjM0ZGN3U4eFdZdmpmSkdkWDhOQWFrbEpVWHpR?oc=5)
-
----
-
-### [I giovani stanno invecchiando più in fretta delle generazioni precedenti](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOXBQaF9EWkVvQUUwSkdxTGhwVHItUkNBSmU2SmtUN3EzVWpBNzc2RHFkRU02ZmxkV3BVZEtNLXNQRGpiMlNmWTFsOVdRcU1jUnpCR24yN2tWR2MwbEt0Q1NadHZfdXFUU3pkaW1HSUhuckRZUzZJbXQxdDNTMHBZNE5tV2RudFpOeEVnY21saVhqVmp6cGNheW5VWXJITWktUUFyNnA1WE9VY29SNnNNR0hSTFFkU09BWHNsbHhIUFhXYlN1Mjk2a25Gcnl2Q1EtTFo1S1c3THRIMGYwc1JDcllBZTN6cEprQlo2QmMwV0RzdUh6R3hXbXhLbFd0VmFkODlVSG5lUljSAY4CQVVfeXFMTUVJQjdOSkFKYXlZSkNGa1oyRjJqblBrLU5yOGFIWEJfek1SYlY5YzFxR1cyRms4YVhxekI3Y1VUOV9ITXVfelJaZVA4dUtpQklzWDBfMUEyc1k3bm0tLUtHNXhuaVlJMzJhQ3NWWWRLdG5lUXV0RW1ZWnpaTDFrelgzdEsxb2JhY2FpcGVmcUJodFgtSmNYUTNLV1JqZm5kVlczRFdOSDl5MG9qMVI3Q2hncWlTOXhaVmQ3SGZVMEJ6ZThGNm9mZGdtWnI3UnVaZlVWWW9NT2R2dW1xWlRGdDEtMW9UdVRvVWIwb3VxM0NkNEtNajk3RGM5S3ItRU82M3pQOEVQNTRtUWdmcllR?oc=5)
-
-2026-06-24 <span class="news-indication-tag">tumor</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOXBQaF9EWkVvQUUwSkdxTGhwVHItUkNBSmU2SmtUN3EzVWpBNzc2RHFkRU02ZmxkV3BVZEtNLXNQRGpiMlNmWTFsOVdRcU1jUnpCR24yN2tWR2MwbEt0Q1NadHZfdXFUU3pkaW1HSUhuckRZUzZJbXQxdDNTMHBZNE5tV2RudFpOeEVnY21saVhqVmp6cGNheW5VWXJITWktUUFyNnA1WE9VY29SNnNNR0hSTFFkU09BWHNsbHhIUFhXYlN1Mjk2a25Gcnl2Q1EtTFo1S1c3THRIMGYwc1JDcllBZTN6cEprQlo2QmMwV0RzdUh6R3hXbXhLbFd0VmFkODlVSG5lUljSAY4CQVVfeXFMTUVJQjdOSkFKYXlZSkNGa1oyRjJqblBrLU5yOGFIWEJfek1SYlY5YzFxR1cyRms4YVhxekI3Y1VUOV9ITXVfelJaZVA4dUtpQklzWDBfMUEyc1k3bm0tLUtHNXhuaVlJMzJhQ3NWWWRLdG5lUXV0RW1ZWnpaTDFrelgzdEsxb2JhY2FpcGVmcUJodFgtSmNYUTNLV1JqZm5kVlczRFdOSDl5MG9qMVI3Q2hncWlTOXhaVmQ3SGZVMEJ6ZThGNm9mZGdtWnI3UnVaZlVWWW9NT2R2dW1xWlRGdDEtMW9UdVRvVWIwb3VxM0NkNEtNajk3RGM5S3ItRU82M3pQOEVQNTRtUWdmcllR?oc=5)
 
 ---
 
@@ -200,22 +216,6 @@ permalink: /news/avanafil/
 2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
----
-
-### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
-
----
-
-### [Barbers could play a role in preventing cancer, Portsmouth study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
 
 ---
 

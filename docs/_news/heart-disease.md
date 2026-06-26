@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,21 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [For decades an Italian-American town in Pennsylvania had far less heart disease than the near-identical town next door despite smoking, drinking and eating much the same, and the only thing that explained the gap was how closely its people lived - Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQR2NvVWdld19rMGxiOUlTdS1QNzZ0dnpDWmZpNkxWSVpKSW1mNzZuU3VmQjRIY3RmQ1lGUzZqT29sQ1dRaXd0dWRNMlA3Qlh5US0wV0ZjV09VTTJtNG44UUpUeDBobkVrUU9tNmxTZVhNUHZZaUNDbS1Jc0VFZlp4T2xUVGo3T2FQcVJVY1hjX24weFMxVmVEdl8xTGdVelE1ZzVILUJpbU5DSnNaWWUwQUY1azl3bWxxeWNCb0E3U2FyR3NxUmZIMC0wMVlMYXVQeEJGTzNPSG1QU2h0eUxSNXQ1ci1HWFhNaXI5YV9STzl4ZWZiSjBtSnNQM0VDY2ptY080cGtrVjZ2ZnNYTkx6bGNfNGY3OUNhMUVrYjVwTjBKZ2JwLWV3NzRMVDVNbFh3UVFnSDZHTjdOdEJwcWRnMnhOR21ncGM1eC1j?oc=5)
 
 2026-06-25
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQR2NvVWdld19rMGxiOUlTdS1QNzZ0dnpDWmZpNkxWSVpKSW1mNzZuU3VmQjRIY3RmQ1lGUzZqT29sQ1dRaXd0dWRNMlA3Qlh5US0wV0ZjV09VTTJtNG44UUpUeDBobkVrUU9tNmxTZVhNUHZZaUNDbS1Jc0VFZlp4T2xUVGo3T2FQcVJVY1hjX24weFMxVmVEdl8xTGdVelE1ZzVILUJpbU5DSnNaWWUwQUY1azl3bWxxeWNCb0E3U2FyR3NxUmZIMC0wMVlMYXVQeEJGTzNPSG1QU2h0eUxSNXQ1ci1HWFhNaXI5YV9STzl4ZWZiSjBtSnNQM0VDY2ptY080cGtrVjZ2ZnNYTkx6bGNfNGY3OUNhMUVrYjVwTjBKZ2JwLWV3NzRMVDVNbFh3UVFnSDZHTjdOdEJwcWRnMnhOR21ncGM1eC1j?oc=5)
+
+---
+
+### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
+
+2026-06-24
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [La contaminación duplica el empeoramiento en pacientes con asma - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
+### [Identifican una nueva causa genética de la enfermedad de Crohn que abre la puerta a terapias de precisión - Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
 
-2026-06-25 <span class="news-indication-tag">asma</span>
+2026-06-26 <span class="news-indication-tag">enfermedad de Crohn</span>
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/sarilumab/
 2026-06-25 <span class="news-indication-tag">asma</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
-
----
-
-### [Descubren “el eslabón perdido” de la enfermedad inflamatoria intestinal: “Es una oportunidad para cambiar su manejo”](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTl9ZYVVtVnVGNUFDQURVUV9LVzZmaHZlVU9RdmNST01RQUtVLVZ5VWlDNnpUUktBRFZ6Q3NrcXpuemN3V0FjY24tZWhhMWZRdW5mR292RklZeDlYQ0JYblY4WjAzdFNYNTIxWGlHQlJ3NjhxdHVrMnNRNmVXZFVOLVBWalh3bFY3cWRQTkt1MXBVUjRhMGJvVHM3ckdRaTV4c19McHItcnpUVGFyaDNiOXItMTV0MWNYRFN5Yks0UW0ycVRGZG1ubzFnekI5ay1xa2RfRm41VVc1czdYejNuenVTbHQxRmx2WjViamRYb0ZOMDZNZkJYcVY4RmE?oc=5)
-
-2026-06-25 <span class="news-indication-tag">enfermedad de Crohn</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTl9ZYVVtVnVGNUFDQURVUV9LVzZmaHZlVU9RdmNST01RQUtVLVZ5VWlDNnpUUktBRFZ6Q3NrcXpuemN3V0FjY24tZWhhMWZRdW5mR292RklZeDlYQ0JYblY4WjAzdFNYNTIxWGlHQlJ3NjhxdHVrMnNRNmVXZFVOLVBWalh3bFY3cWRQTkt1MXBVUjRhMGJvVHM3ckdRaTV4c19McHItcnpUVGFyaDNiOXItMTV0MWNYRFN5Yks0UW0ycVRGZG1ubzFnekI5ay1xa2RfRm41VVc1czdYejNuenVTbHQxRmx2WjViamRYb0ZOMDZNZkJYcVY4RmE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [La contaminación duplica el empeoramiento en pacientes con asma - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
-
-2026-06-25 <span class="news-indication-tag">asma</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbU5PeXBkVGtwVmtBbzRiMllhSjBUMFFsQWxrcHJqXzlpQ3NfSURyaWw4WXlOR0lHUWk1MmpvQlpZSExEb1lUbW1JYlh4b3dVRVBZd0wzYlFuREtGU1BKdUh2SnRQUHVtVjNyeXg4OFZuNHRhaHQ0aVJFdVVnNko0SlZick1JQmtGbWpYTGpkcTZUem1FdzdsWEVTYXczdk9LNmNHNnFYWXdiVXgt0gGnAUFVX3lxTFAwQ3JuS0xkUUVlVFBzNTI1OWJ6TTdMQVVmbGNlX1k5ZmRUU1Z5dHZ0RGgySDZRVDVxQTVvdjJnT09HYnZRbVA0RHJyZUJ0NDU0cmlCY1BVVW9XMVV2WXhYX3ZVREZFdWNlQU5NX3pKWUZYX2JkWFVFM3psVk5VRjZhN252Uy1fVXhEWVJFSjk1ellpVTJldGhuMHY3SE45Q09vekt2MXln?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 

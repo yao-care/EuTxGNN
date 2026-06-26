@@ -14,7 +14,7 @@ permalink: /news/siltuximab/
 ---
 
 <p class="key-answer" data-question="Siltuximab 有什麼相關新聞？">
-<strong>Siltuximab</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Siltuximab</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/siltuximab/
 <p><a href="{{ '/drugs/siltuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
+
+### [Weniger Todesfälle durch Gebärmutterhalskrebs nach HPV-Impfung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[netDoktor](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
+
+---
+
+### [Kaffee-Konsum reduziert Leberkrebs-Risiko](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnFhNVZqWUJRMUhwRXlxbl9GejVlNTRvVXMxeFp3RGNQR29XcC0tbFZOcHFWQVJiZ2VnaHA0OEpCckNTUndUaHhiYk0zaThMRXd5aUNBOHBDOC1ZVXJvWkFPZnFlUkFqWnFVY3hxS0lGYmlWVkp0bm9kYU9SYzBEamxjYVFQU2ROdlBCUERyXzdidEt3RHJlM2dDZDZ3dGtxWUVJRg?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnFhNVZqWUJRMUhwRXlxbl9GejVlNTRvVXMxeFp3RGNQR29XcC0tbFZOcHFWQVJiZ2VnaHA0OEpCckNTUndUaHhiYk0zaThMRXd5aUNBOHBDOC1ZVXJvWkFPZnFlUkFqWnFVY3hxS0lGYmlWVkp0bm9kYU9SYzBEamxjYVFQU2ROdlBCUERyXzdidEt3RHJlM2dDZDZ3dGtxWUVJRg?oc=5)
+
+---
+
+### [GLP-1-Wirkstoffe: Brustkrebsrisiko bei Frauen um ein Drittel gesenkt](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lsYm5qQ01NRjEwZlczZDY5ei1DN2I4Q3c1OENrNkY4Y3Z2bm5BdVpqbUZ2WmExSlBFSnFkYmRRS2xCQmJpQkU1dktnTlEzNllQTTQ0YjliN2VuZDFSaFJRam5fbENQX2NIX1dmeHhkZ0FqOUpLU09WN1lzWXBxWGZFLUtSTDFlTURWRC0wM1RQSl9iVTJuZUxPcV9rN2hEUzhoNFJiMDU1dEF4MWZpZmxSd2Z6ZkU?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lsYm5qQ01NRjEwZlczZDY5ei1DN2I4Q3c1OENrNkY4Y3Z2bm5BdVpqbUZ2WmExSlBFSnFkYmRRS2xCQmJpQkU1dktnTlEzNllQTTQ0YjliN2VuZDFSaFJRam5fbENQX2NIX1dmeHhkZ0FqOUpLU09WN1lzWXBxWGZFLUtSTDFlTURWRC0wM1RQSl9iVTJuZUxPcV9rN2hEUzhoNFJiMDU1dEF4MWZpZmxSd2Z6ZkU?oc=5)
+
+---
 
 ### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
 
@@ -67,6 +91,22 @@ permalink: /news/siltuximab/
 2026-06-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY292ZVhjbXF1bU9IM2wtaU55VEtVTnByeVJ4SVRFLVM2QTFXdUNCUW1xRy1CaGJwTGJ0MUI0bjZVaTdJb1NSZUdQNWt2akhfNlFnSUtFUzlGa2JtckdqNHVyRW5YTmtGRGlSYnl3QmlrdEVKZjBWcnJFelg2c1JDekR5UW1tUEJ1enIyTU15WlNBVjU5dVFjLWNPSjVrYkhsdFJr?oc=5)
+
+---
+
+### [Microbiota e cancro al colon: come i batteri spingono il tumore - Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
+
+2026-06-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
+
+---
+
+### [Family angry at nine-year cancer diagnosis delay](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
 
 ---
 
@@ -94,14 +134,6 @@ permalink: /news/siltuximab/
 
 ---
 
-### [HPV-Impfung - Krebs-Sterberisiko sinkt auf nahezu null](https://news.google.com/rss/articles/CBMingFBVV95cUxObTVzUnFaNk5xNi14ak94NUlRWWNHbXRqZVhZMHJ3Mkh2dkt1VElGdU1tQVNRNXlHdFNYWWpHNll0WGRBbzZMYlFBbENxRVdEREZnUzlrWFppNTlSRVJiZElfb2NsWTJ3VVkyMkVBYmUtd1F6b3VRaUtsaDN2RTM1TjM1LXVLWUluZlQ3ZkxTYmN2cFFYRU1vUjZqY0wtQQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[BR](https://news.google.com/rss/articles/CBMingFBVV95cUxObTVzUnFaNk5xNi14ak94NUlRWWNHbXRqZVhZMHJ3Mkh2dkt1VElGdU1tQVNRNXlHdFNYWWpHNll0WGRBbzZMYlFBbENxRVdEREZnUzlrWFppNTlSRVJiZElfb2NsWTJ3VVkyMkVBYmUtd1F6b3VRaUtsaDN2RTM1TjM1LXVLWUluZlQ3ZkxTYmN2cFFYRU1vUjZqY0wtQQ?oc=5)
-
----
-
 ### [NHS expands BRCA testing for Ashkenazi Jewish cancer risk into permanent program - The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xR3VhbDlCbmJJdHE2SnlUeVFCZzZJYVdEOWxIeG5hcnVuMDV0Z0F3SUg4c282UU9zMFpMNzRqUzhaZF9aUjFZNER3aDUzRzRCRjlMcUQ5WHpycmI1YUdXai1oVFZWRWc?oc=5)
 
 2026-06-25 <span class="news-indication-tag">cancer</span>
@@ -110,11 +142,11 @@ permalink: /news/siltuximab/
 
 ---
 
-### [La clave para anticipar la eficacia de la inmunoterapia puede estar dentro del tumor - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
+### [The octopus-like nanobots that can attack and kill cancer cells](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXhZcVlUdEtzMWEwM0wyazJhLU03QTVLYXNVVV9UamhUajVEa1lCMEx4UXBmTjA2d09wNWlDdXNtM3dSa3B3d0ZZYU9Wb0RObkM3a2VPQTFBMFBweGpYQmFSWTA4MUtCTC03eExvR2Z6UE9PaWJDNHE3akM5SG8wUy1RRUVaZktKQ2VxZjJNMFh6dTgtQUHSAZsBQVVfeXFMTzJqb1p6MmQ2LTI3X0lQMGJ2V3RHLTNmMTlIazl0NGdnNzJqcnA0NFh1Xzk1WGtJYS1pb3Z6MUFYSm9INWhwTkZhTldKOFRBWldWMm5MYk9XX0E1UE4wVFF0SDA5NGUzSUVhbl80OGdUNlJTay1xczRFVTBwdXpyWW8zUnpxMlMyb1ZZRjRtbVlPQkstZXJqVk9sUWs?oc=5)
 
-2026-06-25 <span class="news-indication-tag">tumor</span>
+2026-06-25 <span class="news-indication-tag">cancer</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVThLbDBfdjNPdEZUNERaU1YtSnlWcmpXYXVDODJqMUdPcEkzUXA1TXI3ZHJUZVY0N2MycThiWVJLNEN3cm9yTE5QemhMUTMtcTN3N2Rwcm1GNVJmYUJPcDFlTUl3TW94em9EOW1HVEFlamEzRXUycUIycklKakQ4czBWLTMzeERxdmlCckhOci1DTnlNOElsNXZfOTFDS1htbmxJMzFqRGtueDBLUnItbzlnN2F0YTY5QjZfUlcxZ0hQa2PSAb4BQVVfeXFMUFRyd3ljVTBPNEFzb2djR0tQZElVY3p0TDdPMmt6eHlXMTYwVXA5cG5DbklMTWtSRWFrQzhmVmZEOGpLcjluRExjT2ZNd0t2cEJYWDVpbkNlN0hvQkNSMnRORGZ1b1l4VnVqMkdTa3dNczdfcUpxNTRVMkFQVExXaXhDV1dIUjZycThpM2NsRlBmeDN0X2tfRmdoQ3FDUHMzSEVqRll5Vm1kY25aQ1Zxd01UdzlYUGtCdXJEU2hMQQ?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXhZcVlUdEtzMWEwM0wyazJhLU03QTVLYXNVVV9UamhUajVEa1lCMEx4UXBmTjA2d09wNWlDdXNtM3dSa3B3d0ZZYU9Wb0RObkM3a2VPQTFBMFBweGpYQmFSWTA4MUtCTC03eExvR2Z6UE9PaWJDNHE3akM5SG8wUy1RRUVaZktKQ2VxZjJNMFh6dTgtQUHSAZsBQVVfeXFMTzJqb1p6MmQ2LTI3X0lQMGJ2V3RHLTNmMTlIazl0NGdnNzJqcnA0NFh1Xzk1WGtJYS1pb3Z6MUFYSm9INWhwTkZhTldKOFRBWldWMm5MYk9XX0E1UE4wVFF0SDA5NGUzSUVhbl80OGdUNlJTay1xczRFVTBwdXpyWW8zUnpxMlMyb1ZZRjRtbVlPQkstZXJqVk9sUWs?oc=5)
 
 ---
 
@@ -134,27 +166,11 @@ permalink: /news/siltuximab/
 
 ---
 
-### [Por fin estamos curando las metástasis - National Geographic España](https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0NYMlI2OGlfRGFKVUlsSEs4MnJZQzJMeHY5WlZqRXFTemdFSkhFVENzS3dMUFp0cjlHN3dNTGN6MWl0MHBSQ0ZwbDBmM2l5enV4eDhYaTNkVWtlTnJrbktDRmstMWNqM0VDN1JHOExRbVlySHo4UWtYcVg1T1FRcUIxNHNkMVhoUlhWLWF1dFBlc1IzUFNURDkxV3lsZ2VHSGpqYkJsbw?oc=5)
-
-2026-06-25 <span class="news-indication-tag">tumor</span>
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0NYMlI2OGlfRGFKVUlsSEs4MnJZQzJMeHY5WlZqRXFTemdFSkhFVENzS3dMUFp0cjlHN3dNTGN6MWl0MHBSQ0ZwbDBmM2l5enV4eDhYaTNkVWtlTnJrbktDRmstMWNqM0VDN1JHOExRbVlySHo4UWtYcVg1T1FRcUIxNHNkMVhoUlhWLWF1dFBlc1IzUFNURDkxV3lsZ2VHSGpqYkJsbw?oc=5)
-
----
-
 ### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
-
----
-
-### [Surge in breast cancer cases in under-50s amid calls for screening to start younger - 6 early signs you need to know - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXIxOEk1RkdHY0FlV21ESENUSi13czg1QmpfQ3B0c2M5V1V6SjdDaUppdW5hVmhldHFMWXRESlVYYXA5Y0tWV3dfeXAybUhlUXZoS0JYakN6ZXVLYVg4OHdlOW9VQWtPN2lLOU9CTlNsSGswNGlPZ0NRZ1h4UGVvUTJZUkdjcTA2aWhrbXp1Wl9tcWVrQTNmREMzZw?oc=5)
 
 ---
 
@@ -166,35 +182,11 @@ permalink: /news/siltuximab/
 
 ---
 
-### [I giovani stanno invecchiando più in fretta delle generazioni precedenti](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOXBQaF9EWkVvQUUwSkdxTGhwVHItUkNBSmU2SmtUN3EzVWpBNzc2RHFkRU02ZmxkV3BVZEtNLXNQRGpiMlNmWTFsOVdRcU1jUnpCR24yN2tWR2MwbEt0Q1NadHZfdXFUU3pkaW1HSUhuckRZUzZJbXQxdDNTMHBZNE5tV2RudFpOeEVnY21saVhqVmp6cGNheW5VWXJITWktUUFyNnA1WE9VY29SNnNNR0hSTFFkU09BWHNsbHhIUFhXYlN1Mjk2a25Gcnl2Q1EtTFo1S1c3THRIMGYwc1JDcllBZTN6cEprQlo2QmMwV0RzdUh6R3hXbXhLbFd0VmFkODlVSG5lUljSAY4CQVVfeXFMTUVJQjdOSkFKYXlZSkNGa1oyRjJqblBrLU5yOGFIWEJfek1SYlY5YzFxR1cyRms4YVhxekI3Y1VUOV9ITXVfelJaZVA4dUtpQklzWDBfMUEyc1k3bm0tLUtHNXhuaVlJMzJhQ3NWWWRLdG5lUXV0RW1ZWnpaTDFrelgzdEsxb2JhY2FpcGVmcUJodFgtSmNYUTNLV1JqZm5kVlczRFdOSDl5MG9qMVI3Q2hncWlTOXhaVmQ3SGZVMEJ6ZThGNm9mZGdtWnI3UnVaZlVWWW9NT2R2dW1xWlRGdDEtMW9UdVRvVWIwb3VxM0NkNEtNajk3RGM5S3ItRU82M3pQOEVQNTRtUWdmcllR?oc=5)
-
-2026-06-24 <span class="news-indication-tag">tumor</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOXBQaF9EWkVvQUUwSkdxTGhwVHItUkNBSmU2SmtUN3EzVWpBNzc2RHFkRU02ZmxkV3BVZEtNLXNQRGpiMlNmWTFsOVdRcU1jUnpCR24yN2tWR2MwbEt0Q1NadHZfdXFUU3pkaW1HSUhuckRZUzZJbXQxdDNTMHBZNE5tV2RudFpOeEVnY21saVhqVmp6cGNheW5VWXJITWktUUFyNnA1WE9VY29SNnNNR0hSTFFkU09BWHNsbHhIUFhXYlN1Mjk2a25Gcnl2Q1EtTFo1S1c3THRIMGYwc1JDcllBZTN6cEprQlo2QmMwV0RzdUh6R3hXbXhLbFd0VmFkODlVSG5lUljSAY4CQVVfeXFMTUVJQjdOSkFKYXlZSkNGa1oyRjJqblBrLU5yOGFIWEJfek1SYlY5YzFxR1cyRms4YVhxekI3Y1VUOV9ITXVfelJaZVA4dUtpQklzWDBfMUEyc1k3bm0tLUtHNXhuaVlJMzJhQ3NWWWRLdG5lUXV0RW1ZWnpaTDFrelgzdEsxb2JhY2FpcGVmcUJodFgtSmNYUTNLV1JqZm5kVlczRFdOSDl5MG9qMVI3Q2hncWlTOXhaVmQ3SGZVMEJ6ZThGNm9mZGdtWnI3UnVaZlVWWW9NT2R2dW1xWlRGdDEtMW9UdVRvVWIwb3VxM0NkNEtNajk3RGM5S3ItRU82M3pQOEVQNTRtUWdmcllR?oc=5)
-
----
-
 ### [Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing - Fierce Pharma](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY21BT1lrZHloUHVZbDh1ZUYwdTVjLXdlUTlPZFIyN2RQNGFtMHpJYXpDazljZGdtUExmNlo1aXdoTlRLY211RXN1VTlqcW9BZ3dyZlAyQVQybFFES09NZUpZWWZta2h0dG9yX2tCOTBJWkY0enBZMTBxdlJDOTVNS1V0T2Viam5pSm1tNHRpeXZmbGIzdHpNR0hqNVVmZW1MeHl3YkJxTUV1STF2TTdZb3Z3RGtyZ2tQ?oc=5)
 
 2026-06-24 <span class="news-indication-tag">cancer</span>
 
 來源：[Fierce Pharma](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY21BT1lrZHloUHVZbDh1ZUYwdTVjLXdlUTlPZFIyN2RQNGFtMHpJYXpDazljZGdtUExmNlo1aXdoTlRLY211RXN1VTlqcW9BZ3dyZlAyQVQybFFES09NZUpZWWZta2h0dG9yX2tCOTBJWkY0enBZMTBxdlJDOTVNS1V0T2Viam5pSm1tNHRpeXZmbGIzdHpNR0hqNVVmZW1MeHl3YkJxTUV1STF2TTdZb3Z3RGtyZ2tQ?oc=5)
-
----
-
-### [Wie viel Kaffee am Tag ist gesund? Ab so vielen Tassen wird es gefährlich - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXFMRzZ4TGRxb0pad2hLekVZakpWdWk2NWNDNlFrWVh5N05ZR3F4OEZMaXZUOHNmcGZKV251R2ZSc0xCV0d4MnBXRllMUTdKYVZ3VkYwRW1Ga19NbXQ5eXAta1hWaWxkMXFsOHhOb0RxZzVYRk1RN21fVmpaM0t3Q1pLWDY0VUdEUGdQS09HMVZjakNDdW9N?oc=5)
-
----
-
-### [Barbers could play a role in preventing cancer, Portsmouth study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yclRRd2Q2Q2NWaENOemlzQVgxZl9YeG42V1lNajhXdG45Qk9Db3ZxamN2X1hpdkgxMld3VFRLYVFscW1wLTVVVU9Ed2p2QXJLdEJCV1pHcWtzZDhx?oc=5)
 
 ---
 

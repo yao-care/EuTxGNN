@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Warum Migräne bei Männern oft erst so spät erkannt wird](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
 
@@ -86,17 +78,9 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [El calor puede agravar las migrañas: los expertos de Vithas alertan del impacto de las altas temperaturas en los pacientes - Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">migraña</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2I3M3ltN3k2SDVmS3Z3RWpKMGRyeGRmcXpMWW9fdU9scDZLTnNvT19aSEUza05PQ2RsbUxPWUI4ZTNnZDFFcTlVWWtLbE9qRWUtblJ2c3cyTU8xNnVPWGlJc0NPRjg3cFRhTVE3eTFNR3lCLTlIX0N4UWlZMmdJYlBxSVJocFVBMEpGUFZlaFRRN1dXandERTgzcTdnUlBHWmR3OEthS19QQ19VWWdrWkx2dEtrS0NFOGFZbjVGQjdMNXVZY0tWZmR4UXhFUF9PY1laLU1fdTUzdzRuOHpYeU82dFRKU28yZ2FOX253Yzk2anJIYmo2d0syRmhwZlc2VFNpUEpwTjRhdnBxMDYxU1RDYWNKZFVpajZz0gGvAkFVX3lxTE5keEIzSGQwR1c1dmpPYUN3YkZyU2MxTFZyLVdLTGdka2pyRzFXY1kxR0dlNEJnbjdBZnVqbWc4aU9yRmkyUVJ1LXVYa29oaF9CZmVldlhPbWlyeXVVekZnLUFEUFRpLW0xWExJV3RtSy14S1JLQ200VThSdjUxVldmTU8yM0QwY1g3MDVkZ2VJQk5ST3UtWTh1ZUZKYTAxalJXSkkzU0JzSUh3SXFRRFJrcTlBV25PYUtjamJqS1pXVW1ZZy1wMzFuaDY4Qkk0R09oV1BMVDdCRXQxbFpqZXkwWW8wekRKa0llQ1VFWFpkYnhJVkJxUVlMR3dfbnNVZW1YdDNCWUNKWmlXTkYxSEQyQmo5Q3NnVFl3dXdVbTdVSFZuRVpYM0dMWE9JOHhRRQ?oc=5)
-
----
-
 ### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
-2026-06-24 <span class="news-indication-tag">obesity</span>
+2026-06-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
