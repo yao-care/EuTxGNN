@@ -62,11 +62,11 @@ permalink: /news/agomelatine/
 
 ---
 
-### ["Ho la malattia di Lyme. Il dolore e i traumi mi portano a un grande isolamento e depressione. Ma c'è una luce, anche se non riuscite a vederla": Bella Hadid commossa - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMitwJBVV95cUxQcmxqOGtkUmk1WnVWSlktaE1MN2M2dGRDNEdDaUFjUWtrYzl0MjNVVnJ1VVMzSWdlbGN3dlFWa01oaTRCRzNRZW0weTNSeUpuTmVQUHNqdFB6Zk1QNzRaaThPSDk5NnFjU29vS1ZxUnE3LThNb2lLM2lsUjBkMEpMcUlGLXBzMWhGNW9vMW9LUld1MzVjM2J3cWFTQnFUdEFUSWtvZC0xUXBWVEhaZjNLYjJCQThJZzhzR3dmYmZJbHFybDB0QzBqby1zNTNRZW44NTY2a01xazIzSms3ZkNackRYSXZmbVNvWEJMSlItV2tucHJWQkNmY0xsUnBPbklBeEYxcGZ1dklkYVFxY1hSVnJQSDc2ZXRoOFFjN2hrVU5pSXBQQ3VEbmVHNl9PekZqdGtVVXpmWQ?oc=5)
+### [Christine atteinte de vitiligo : « Les regards sont pesants, mais je garde le sourire »](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWxpX09EcFA1Vm9HUkZtTWRqN0ZNb2Nfdkt3cWVHa2dGMS1kaXJ4Z2VMNk1vMlNKWUJMN1FuOXZ6ZTJYQWN6OWUwT0tBYktmUndZaTE3MFBPZEVxdC1oUk1FTzJ2dF9ESklLcVk2N0tiTzRubUZIU2xfOF9iTlQybFprUXVlTjBEOTAyTFhZQ3RpcTVxLWFMYm54WmRBWlM4NVZNR2ZWazQ1OWxBVjZ5R3hwcWFZYXZiNTFLeTRWOA?oc=5)
 
-2026-06-26 <span class="news-indication-tag">depression</span>
+2026-06-26 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMitwJBVV95cUxQcmxqOGtkUmk1WnVWSlktaE1MN2M2dGRDNEdDaUFjUWtrYzl0MjNVVnJ1VVMzSWdlbGN3dlFWa01oaTRCRzNRZW0weTNSeUpuTmVQUHNqdFB6Zk1QNzRaaThPSDk5NnFjU29vS1ZxUnE3LThNb2lLM2lsUjBkMEpMcUlGLXBzMWhGNW9vMW9LUld1MzVjM2J3cWFTQnFUdEFUSWtvZC0xUXBWVEhaZjNLYjJCQThJZzhzR3dmYmZJbHFybDB0QzBqby1zNTNRZW44NTY2a01xazIzSms3ZkNackRYSXZmbVNvWEJMSlItV2tucHJWQkNmY0xsUnBPbklBeEYxcGZ1dklkYVFxY1hSVnJQSDc2ZXRoOFFjN2hrVU5pSXBQQ3VEbmVHNl9PekZqdGtVVXpmWQ?oc=5)
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWxpX09EcFA1Vm9HUkZtTWRqN0ZNb2Nfdkt3cWVHa2dGMS1kaXJ4Z2VMNk1vMlNKWUJMN1FuOXZ6ZTJYQWN6OWUwT0tBYktmUndZaTE3MFBPZEVxdC1oUk1FTzJ2dF9ESklLcVk2N0tiTzRubUZIU2xfOF9iTlQybFprUXVlTjBEOTAyTFhZQ3RpcTVxLWFMYm54WmRBWlM4NVZNR2ZWazQ1OWxBVjZ5R3hwcWFZYXZiNTFLeTRWOA?oc=5)
 
 ---
 

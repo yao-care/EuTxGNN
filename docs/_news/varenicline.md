@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Validée par les cardiologues : cette assiette fraîche protège le cœur et la tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
 
 2026-06-26 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
-
----
-
-### [Warum Migräne bei Männern oft erst so spät erkannt wird](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Migräne</span>
-
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
 
 ---
 

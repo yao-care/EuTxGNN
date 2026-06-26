@@ -14,7 +14,7 @@ permalink: /news/glucagon/
 ---
 
 <p class="key-answer" data-question="Glucagon 有什麼相關新聞？">
-<strong>Glucagon</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucagon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/glucagon/
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Effects of exercise and liraglutide on vascular health and inflammation during weight loss maintenance: a prespecified secondary analysis of the S-LiTE trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
+
+2026-06-24 <span class="news-drug-tag">Glucagon</span> <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
+
+---
 
 
 <div class="disclaimer">

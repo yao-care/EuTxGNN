@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Los pacientes EPOC, diana en la reducción de la mortalidad por VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
+
+2026-06-26 <span class="news-indication-tag">EPOC</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
+
+---
 
 ### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
 

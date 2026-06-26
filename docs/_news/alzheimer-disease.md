@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Can the viral 'pinky time' trick ward off dementia? Doctor reveals the brain science behind effortless daily habit - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
 
 2026-06-25
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
-
----
-
-### [The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
-
-2026-06-25
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Can the viral 'pinky time' trick ward off dementia? Doctor reveals the brain science behind effortless daily habit - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
-
----
-
-### [The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
-
-2026-06-25 <span class="news-indication-tag">dementia</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5)
 
 ---
 

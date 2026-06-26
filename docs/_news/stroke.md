@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
 
@@ -49,11 +49,11 @@ permalink: /news/stroke/
 
 ---
 
-### [El consumo de drogas, incluso ocasional, puede provocar daño neurológico grave y afecta especialmente a los jóvenes - Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
+### [24 Stunden vor dem Schlaganfall noch ein DOAK: Wie sicher ist die Lyse?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
 
-2026-06-26
+2026-06-25
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
 
 ---
 
@@ -70,14 +70,6 @@ permalink: /news/stroke/
 2026-06-25
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
-
----
-
-### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
-2026-06-24
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/gilteritinib-fumarate/
 ---
 
 <p class="key-answer" data-question="Gilteritinib Fumarate 有什麼相關新聞？">
-<strong>Gilteritinib Fumarate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Gilteritinib Fumarate</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/gilteritinib-fumarate/
 <p><a href="{{ '/drugs/gilteritinib-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（20 則）
 
 ### [Weniger Todesfälle durch Gebärmutterhalskrebs nach HPV-Impfung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
 
 2026-06-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[netDoktor](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
+
+---
+
+### [Weniger Rückfälle, längere Tumorfreiheit: Neue Gentherapie macht Hoffnung bei Prostatakrebs](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
 
 ---
 
@@ -78,11 +86,19 @@ permalink: /news/gilteritinib-fumarate/
 
 ---
 
-### [Thousands of men with prostate cancer will now be offered high-powered radiotherapy on the NHS - The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+### [I was told my mole wasn’t cancer. Two years later I had a secondary tumour the size of a melon](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">cancer</span>
 
-來源：[The Institute of Cancer Research (ICR)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaXMtdTBZWnlVWVM0M2NjYXZGcTFHYnRudVVySkxtNFY5U3dLSkpSTzZOZGhjMnkxUmFHS3ZUQ0ZsM19ibWI3Vlk2cEtTMlVPS1VTdzBxVndZaDdOX1VkVWYxR2tueWdzSklqVXoyM0hNTDRZSWRJZGxXaFVJWWNkLUx1ajhyaGExVXozdTRWb2Rnd1ZnQnQtcWZKemtiMkxROVdCR3BJeDBkM3JxYTdCVmUwRXBNVDlldlZYTlpxcnJPU1Q2a2U3T1dkWGxDSDZNOXlfZE4xZi0?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
+
+---
+
+### [Horrifying plague of 'zombie squirrels' with oozing tumours invade US gardens - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5SZHRSeloxUTRmVmRJQWZHM0U1VGJyZG9LVUEyRHFaallFNVNKVWUxVHpfaTJhNTV1MGVlVERlM3RMMnR4UDV5VUZ6SFMyLXlTUDRZSm1HQk1qNVhxdW0zQkFIc1c4N0ItR0JsX29Ud0lSUEtBYVd6NU9sVWNPZGprV0FBbWRFNzFvMDVobw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">tumour</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5SZHRSeloxUTRmVmRJQWZHM0U1VGJyZG9LVUEyRHFaallFNVNKVWUxVHpfaTJhNTV1MGVlVERlM3RMMnR4UDV5VUZ6SFMyLXlTUDRZSm1HQk1qNVhxdW0zQkFIc1c4N0ItR0JsX29Ud0lSUEtBYVd6NU9sVWNPZGprV0FBbWRFNzFvMDVobw?oc=5)
 
 ---
 
@@ -102,6 +118,14 @@ permalink: /news/gilteritinib-fumarate/
 
 ---
 
+### [Il Centro ricerche cliniche di Verona avvia cinque nuovi studi clinici sugli inibitori di Kras](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXY2SGFMaFhfOUhfR0JjTzhDa3JYeGZiOGU0R0drLVpNN2hfTHZrUU40VHM5TWVSZDFaUEVqOTQ4TzZ2LS1qRk9RNEN4c2dzVGd1UHlxakZRQU5Dd2NocDE4czg5Ty1qOUZWaFJudXdmaE42RkhJTWY2SWdHa2NFQ3lDUEFtMGxpeEJSSjZEVVU3WlpLa1Q1RGJsd3FobWJ5TV9LWWJHRzlIdFlLSzBBcWJnemlSRG5rVlk4cUlJN1o1OHpuZTNXZ3dISQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXY2SGFMaFhfOUhfR0JjTzhDa3JYeGZiOGU0R0drLVpNN2hfTHZrUU40VHM5TWVSZDFaUEVqOTQ4TzZ2LS1qRk9RNEN4c2dzVGd1UHlxakZRQU5Dd2NocDE4czg5Ty1qOUZWaFJudXdmaE42RkhJTWY2SWdHa2NFQ3lDUEFtMGxpeEJSSjZEVVU3WlpLa1Q1RGJsd3FobWJ5TV9LWWJHRzlIdFlLSzBBcWJnemlSRG5rVlk4cUlJN1o1OHpuZTNXZ3dISQ?oc=5)
+
+---
+
 ### [Family angry at nine-year cancer diagnosis delay](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
 
 2026-06-26 <span class="news-indication-tag">cancer</span>
@@ -110,11 +134,19 @@ permalink: /news/gilteritinib-fumarate/
 
 ---
 
-### [Weniger Rückfälle, längere Tumorfreiheit: Neue Gentherapie macht Hoffnung bei Prostatakrebs](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
+
+---
+
+### [Nuove cure a disposizione per i tumori del sistema linfatico, leucemia linfatica cronica e linfoma mantellare - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
 2026-06-26 <span class="news-indication-tag">tumor</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
 ---
 
@@ -131,6 +163,14 @@ permalink: /news/gilteritinib-fumarate/
 2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
+
+---
+
+### [Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">cancer</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
 
 ---
 
@@ -171,22 +211,6 @@ permalink: /news/gilteritinib-fumarate/
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
-
----
-
-### [Candiolo, la ricerca del futuro - La Stampa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lST2tMVC1FclBHaU4tSkhiWkV2VGx3ZU93NkY1TDZOU01reW16bUJLS3JObnQ2VUZOM3cwX2JRU2lPUVNxdVhaTFd4Sjk0TzBWeTYzZ0Y5eW1IaUxsOW5MWS1Ma1RjeFVNM3RkbkRoNjN6ZVA5WlFjTlNHUlE0Z0M5SFJYbDdoYWVGQ25fTWnSAZYBQVVfeXFMT2tuU18tR1N3ZHdXcVJtTGNnbllTdUlMd00yUGpOb09vY2swSDY4TURocWFuLXZJNTA2d1d2TDJkcEVTZVI1SHMwbWpqQkwydkNCVjRKSEtFa3JzbXV6emN6Yk91OUxETlJ0aEJSNGlxN0VMYm40c3c0MnhjM0ZGN3U4eFdZdmpmSkdkWDhOQWFrbEpVWHpR?oc=5)
-
-2026-06-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3lST2tMVC1FclBHaU4tSkhiWkV2VGx3ZU93NkY1TDZOU01reW16bUJLS3JObnQ2VUZOM3cwX2JRU2lPUVNxdVhaTFd4Sjk0TzBWeTYzZ0Y5eW1IaUxsOW5MWS1Ma1RjeFVNM3RkbkRoNjN6ZVA5WlFjTlNHUlE0Z0M5SFJYbDdoYWVGQ25fTWnSAZYBQVVfeXFMT2tuU18tR1N3ZHdXcVJtTGNnbllTdUlMd00yUGpOb09vY2swSDY4TURocWFuLXZJNTA2d1d2TDJkcEVTZVI1SHMwbWpqQkwydkNCVjRKSEtFa3JzbXV6emN6Yk91OUxETlJ0aEJSNGlxN0VMYm40c3c0MnhjM0ZGN3U4eFdZdmpmSkdkWDhOQWFrbEpVWHpR?oc=5)
-
----
-
-### [Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing - Fierce Pharma](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY21BT1lrZHloUHVZbDh1ZUYwdTVjLXdlUTlPZFIyN2RQNGFtMHpJYXpDazljZGdtUExmNlo1aXdoTlRLY211RXN1VTlqcW9BZ3dyZlAyQVQybFFES09NZUpZWWZta2h0dG9yX2tCOTBJWkY0enBZMTBxdlJDOTVNS1V0T2Viam5pSm1tNHRpeXZmbGIzdHpNR0hqNVVmZW1MeHl3YkJxTUV1STF2TTdZb3Z3RGtyZ2tQ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Fierce Pharma](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY21BT1lrZHloUHVZbDh1ZUYwdTVjLXdlUTlPZFIyN2RQNGFtMHpJYXpDazljZGdtUExmNlo1aXdoTlRLY211RXN1VTlqcW9BZ3dyZlAyQVQybFFES09NZUpZWWZta2h0dG9yX2tCOTBJWkY0enBZMTBxdlJDOTVNS1V0T2Viam5pSm1tNHRpeXZmbGIzdHpNR0hqNVVmZW1MeHl3YkJxTUV1STF2TTdZb3Z3RGtyZ2tQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
-### [Prevenir los casos de cáncer de piel este verano](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHB2U3ZJWlFSZEVWX0pSc2d2UEpkeXlQSjRVNTdzYkVkTlZwbWZKZTVPWF8tOE1vOWtpX1N5Y3BZbkZEVFpCMDNVRFg2c09OYUlUM1UycGlTY3F3R2d2OFZ4dWZSX2U4SlY4Uko2Zm1mazZLVVhmNkxRMkp0QUgtaU9HV2ZmM2pxOERlQllzczR6c293SWc?oc=5)
+### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span>
+2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHB2U3ZJWlFSZEVWX0pSc2d2UEpkeXlQSjRVNTdzYkVkTlZwbWZKZTVPWF8tOE1vOWtpX1N5Y3BZbkZEVFpCMDNVRFg2c09OYUlUM1UycGlTY3F3R2d2OFZ4dWZSX2U4SlY4Uko2Zm1mazZLVVhmNkxRMkp0QUgtaU9HV2ZmM2pxOERlQllzczR6c293SWc?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 ---
 
@@ -70,19 +70,27 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Expertos internacionales piden a la OMS reconocer la toxoplasmosis como enfermedad tropical desatendida - Diario Veterinario](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGJpY2tZaEI0cWFoTFE3bk5HX09iT3lyOTV6QjVKcW9TMHRfbTVCNEg2UTJjSC1QbnFLQ0RTU3NyWUJESERzZ1YxTmpfR3BZZmZzZE04RXB2Zmk0bzlFUkZwZDJxalloYjFnekYzaEVCQVpTU2xMSkZSMlFzS24xc2JQaXVsTUEwUVAtVWZ2bVJqcnNVQ21tNGEtWWNseXBtMkJvMW5SYlhwVEVIeFNTTlBwdkt6bnN3c09kVGpGd0sxdHgxRkhGR2xxQmNHQ0FDZ2JFbGVB?oc=5)
-
-2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Diario Veterinario](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTGJpY2tZaEI0cWFoTFE3bk5HX09iT3lyOTV6QjVKcW9TMHRfbTVCNEg2UTJjSC1QbnFLQ0RTU3NyWUJESERzZ1YxTmpfR3BZZmZzZE04RXB2Zmk0bzlFUkZwZDJxalloYjFnekYzaEVCQVpTU2xMSkZSMlFzS24xc2JQaXVsTUEwUVAtVWZ2bVJqcnNVQ21tNGEtWWNseXBtMkJvMW5SYlhwVEVIeFNTTlBwdkt6bnN3c09kVGpGd0sxdHgxRkhGR2xxQmNHQ0FDZ2JFbGVB?oc=5)
-
----
-
-### [Alzheimer: Patientin mit Pilzen zurückgeholt - apotheke adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
+### [Infektionsdiagnostik: Genomsequenzierung deckt verborgene Resistenzen bei Tuberkulose auf](https://news.google.com/rss/articles/CBMingFBVV95cUxNaUF4X0dmS2N5ZEVHR2hCb0xXY0pFVFRlOXdvU2N1bTlGSFRuQ2pSVnhBbE1aSFJvNjF6Y040M2xFb2hIUFRVcHlUbHRJYW9ld1Y5bFpsalpsNF9xTWRKdmdvWGlGWks4NmFxYXZLdXB5Q2lwVmdoYW5MbV91NGlqSzF6OHZsOUpjZjdYQlNfNEtab3ZQTFYyQmdOOWdDdw?oc=5)
 
 2026-06-26 <span class="news-indication-tag">MS</span>
 
-來源：[apotheke adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNaUF4X0dmS2N5ZEVHR2hCb0xXY0pFVFRlOXdvU2N1bTlGSFRuQ2pSVnhBbE1aSFJvNjF6Y040M2xFb2hIUFRVcHlUbHRJYW9ld1Y5bFpsalpsNF9xTWRKdmdvWGlGWks4NmFxYXZLdXB5Q2lwVmdoYW5MbV91NGlqSzF6OHZsOUpjZjdYQlNfNEtab3ZQTFYyQmdOOWdDdw?oc=5)
+
+---
+
+### [Impulso a nivel mundial para advertir de la amenaza de la toxoplasmosis y reconocerla como una ETD por la OMS - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdKS0xUS093UmxMajM5WGdndl9vWGhnZEtqTHlDa21DYXBWbUZMS0d3Q1NaM3lZbzd0VzMtOFVwbnhIcXhnRUdvbkp5RFlEeVhxZVJOblBZM1hpaEZrbUlLeXR4TDUwbnNqOWlnZGR2ZTRjRzJ4ZkpINzBRSHBfN2FLS0M4RG83TTF1bTJGMXFMNkgzNC1Pdlo5V0pyTGE5TWlXVlBFYWtSTUxzTm9VRzByMkVmbFZ1OXNV0gG2AUFVX3lxTE9BbXl4WXZmS2RWVUN3MExpbWhKLWxJQlBRUmJXSzBVRjlKaDhXeDdiaDdDYk1XdE5zWVhTaHE3YURONUJDS3lGUnVYYUN3TmUwYjlMaGlhanM2ajlJeFlzSUFqUUxxOXBjQmMtWG5HMnVzVFkydmFzUnd5YXlONDNCRTVXVXN2SDREYzh2SFFnaF80NHJ2S3RsSWdHMUExYzIzcU9WZEh0cTJsYk9tbzNEQnZzWktn?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdKS0xUS093UmxMajM5WGdndl9vWGhnZEtqTHlDa21DYXBWbUZMS0d3Q1NaM3lZbzd0VzMtOFVwbnhIcXhnRUdvbkp5RFlEeVhxZVJOblBZM1hpaEZrbUlLeXR4TDUwbnNqOWlnZGR2ZTRjRzJ4ZkpINzBRSHBfN2FLS0M4RG83TTF1bTJGMXFMNkgzNC1Pdlo5V0pyTGE5TWlXVlBFYWtSTUxzTm9VRzByMkVmbFZ1OXNV0gG2AUFVX3lxTE9BbXl4WXZmS2RWVUN3MExpbWhKLWxJQlBRUmJXSzBVRjlKaDhXeDdiaDdDYk1XdE5zWVhTaHE3YURONUJDS3lGUnVYYUN3TmUwYjlMaGlhanM2ajlJeFlzSUFqUUxxOXBjQmMtWG5HMnVzVFkydmFzUnd5YXlONDNCRTVXVXN2SDREYzh2SFFnaF80NHJ2S3RsSWdHMUExYzIzcU9WZEh0cTJsYk9tbzNEQnZzWktn?oc=5)
+
+---
+
+### [Alzheimer: Patientin mit Pilzen zurückgeholt - Apotheke Adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span>
+
+來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/glecaprevir/
 2026-06-26 <span class="news-indication-tag">MS</span>
 
 來源：[Universitätsklinikum Tübingen](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXc2QzgtdVBpYnVaZjd6dTVVOHVERENmTXhiNnZIXzdFUkl3V3ZQdGN1WWltOHR0MXVmU0szQVp4bnRZTnBMeVM4SHZmS3Azb2JPb0RCR1FMSmJwWktxYjVhMUN0Q0RQWDRqUzlyR0lSRGJ0WjBuc1RwM0h3Q2V4RTFsaFZ5Ym8?oc=5)
-
----
-
-### [How male infertility is still not getting enough attention](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JN0FXZTI5X2xxZUkwRW1rdEVtRHI4R1BFLW84SEc0QmJ6VXhwQk45VHI1Z2NXblRMd29HV1JrNnR1YVZzZ0tMQWJ6RTlxWHpSMUJZMmUyU2QxUQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">MS</span>
-
-來源：[bbc.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JN0FXZTI5X2xxZUkwRW1rdEVtRHI4R1BFLW84SEc0QmJ6VXhwQk45VHI1Z2NXblRMd29HV1JrNnR1YVZzZ0tMQWJ6RTlxWHpSMUJZMmUyU2QxUQ?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/glecaprevir/
 2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Diario Córdoba](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWTlGWlliSEhhQmt0R0t1ZmozR09IVjJiS1cyWFpJRkxLaUh4RTRobTNBeUkwLTBuR0pvSktpUmxzQ1BIZU94X3BEd3Q1V0xQS2lKNkFlVTV3WGx1cGwxb08xVlVrTWFSLWNhTjc4Qzd6ckdiZlNDM0ZhYnRsYmwzamtpRWo0YlI0WDVOTUlZQzhYeE1LOGMwWVlyT0pnZ0t1Nmp6VGdoRndDZ0p0d0E0c0JVT2F4VU5tLW4tRmM3WlVyR3dJQnFQMDNCcGZaa1lSdVl3Z0lVc9IB3AFBVV95cUxNT2wwLVd0VEhoX3gzRkxMWXZMWUJTcTBJY0lNTzVNQ2MyR3pxeW1TYlJ5TmtwU056R2NINEU5enRQNEtXUlB3QzdrQ3YyLWRibkk2RmQ0al9yek50Y1I0QUljTWlTMHNuX0tmeVp3YTgyQXgwUmhFWTk5SV9NZ1pjRl9vQS1WLVNCd2N4UWlvZjNMX09ENHBXcHVyRUhRdjc3cFpwZHZuTkpDU1M1eUN6ZUJpeWQ1cXBmSTBUcktKSFl4Zm9RaFlyMHp4ZWpYMlAwdWJ6MnZxbW84TGpz?oc=5)
-
----
-
-### [Ebola, primo caso in Francia: "Possibili altri casi"](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRzVNeHpQR0ptYmRoTjZ2MGJkNkVVWC1NbWowTTZMcGZTbkRGRVFLR3VPZW9tYUNMU2p5WmUzZGRqdll2VmZPRW5SR05YSkVRVlo5N01DWGFUZXNmRncyYjNBa2RvOXRNZ3dNa1RudUsyN2hON1dkdnNxRjV3TTJVQ0NWTjhhS3BQY2tHejZUbjlEV054WlBvVWV0UzZFQjM1WlpqSHpDY0F2NGlKUDhGS1RLbHlLb0J2QlphZGdmQ0hFbDI2YnlUbld5eVJsb1RrUDRVUzh6Rk5pQ3BaSHROZ1hMaGfSAeoBQVVfeXFMTnY1UTdBSGg4Q29BRzdrSTNhZHExUXJKMGpmQVRnOFR6NzNlQlJZbVJwa1F6SVdfNDNpTWhpTVlxMUhFMmRDMmJvbnRuZXBoUzZMYk13SW9FMEVIWFlXWWt5Z3A5SjhfRmtNSmlhcjZhRGYxd1g1QVlBX0Y4WjAzemZGekkxRXFjNmFxVUFadm9wV29tczZaVEpiS29ObWxGb09NOWZqTlAtck1aRGVid3IydHg2RGpMZHpFbXV1VXpqNUxZdzVyYjRtendlaVllTDdDWjFRRzFzNlo2Ym0zQlpiWi16Z2FmSXdn?oc=5)
-
-2026-06-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRzVNeHpQR0ptYmRoTjZ2MGJkNkVVWC1NbWowTTZMcGZTbkRGRVFLR3VPZW9tYUNMU2p5WmUzZGRqdll2VmZPRW5SR05YSkVRVlo5N01DWGFUZXNmRncyYjNBa2RvOXRNZ3dNa1RudUsyN2hON1dkdnNxRjV3TTJVQ0NWTjhhS3BQY2tHejZUbjlEV054WlBvVWV0UzZFQjM1WlpqSHpDY0F2NGlKUDhGS1RLbHlLb0J2QlphZGdmQ0hFbDI2YnlUbld5eVJsb1RrUDRVUzh6Rk5pQ3BaSHROZ1hMaGfSAeoBQVVfeXFMTnY1UTdBSGg4Q29BRzdrSTNhZHExUXJKMGpmQVRnOFR6NzNlQlJZbVJwa1F6SVdfNDNpTWhpTVlxMUhFMmRDMmJvbnRuZXBoUzZMYk13SW9FMEVIWFlXWWt5Z3A5SjhfRmtNSmlhcjZhRGYxd1g1QVlBX0Y4WjAzemZGekkxRXFjNmFxVUFadm9wV29tczZaVEpiS29ObWxGb09NOWZqTlAtck1aRGVid3IydHg2RGpMZHpFbXV1VXpqNUxZdzVyYjRtendlaVllTDdDWjFRRzFzNlo2Ym0zQlpiWi16Z2FmSXdn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
+
+---
 
 ### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [El consumo de drogas, incluso ocasional, puede provocar daño neurológico grave y afecta especialmente a los jóvenes - Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
+### [Le “punturine” anti obesità utili anche per combattere una patologia nascosta e poco nota - la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
 
-2026-06-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">obesità</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
+
+---
+
+### [24 Stunden vor dem Schlaganfall noch ein DOAK: Wie sicher ist die Lyse?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
 
 ---
 
@@ -94,35 +110,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Los fármacos epigenéticos podrían reducir el riesgo de infarto en personas con obesidad y diabetes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
-
----
-
-### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
-
----
-
 ### [Effects of exercise and liraglutide on vascular health and inflammation during weight loss maintenance: a prespecified secondary analysis of the S-LiTE trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
 
-2026-06-24 <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-06-24 <span class="news-drug-tag">Glucagon</span> <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
-
----
-
-### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
 ---
 

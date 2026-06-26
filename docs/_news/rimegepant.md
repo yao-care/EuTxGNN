@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Warum Migräne bei Männern oft erst so spät erkannt wird](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
+### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
-2026-06-25 <span class="news-indication-tag">Migräne</span>
+2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
 
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjdETnBZS05RQnFrRV8yRjRFbHh1Nng2YW1vLWFNNHh2ejlDUUNxSmhqNEZfRkJsTUFCQWM0cVhaanl1MVJtdXQ0SUhQdjZPTUlYWDdhYUU4eG5LbUp3U3lIS1RFeFRQTDZmZ3RNQ3BqalAzamQzVExUd3ZkbFFHaQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/rimegepant/
 2026-06-25 <span class="news-indication-tag">heart disease</span>
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQR2NvVWdld19rMGxiOUlTdS1QNzZ0dnpDWmZpNkxWSVpKSW1mNzZuU3VmQjRIY3RmQ1lGUzZqT29sQ1dRaXd0dWRNMlA3Qlh5US0wV0ZjV09VTTJtNG44UUpUeDBobkVrUU9tNmxTZVhNUHZZaUNDbS1Jc0VFZlp4T2xUVGo3T2FQcVJVY1hjX24weFMxVmVEdl8xTGdVelE1ZzVILUJpbU5DSnNaWWUwQUY1azl3bWxxeWNCb0E3U2FyR3NxUmZIMC0wMVlMYXVQeEJGTzNPSG1QU2h0eUxSNXQ1ci1HWFhNaXI5YV9STzl4ZWZiSjBtSnNQM0VDY2ptY080cGtrVjZ2ZnNYTkx6bGNfNGY3OUNhMUVrYjVwTjBKZ2JwLWV3NzRMVDVNbFh3UVFnSDZHTjdOdEJwcWRnMnhOR21ncGM1eC1j?oc=5)
-
----
-
-### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
+
+---
 
 ### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [El consumo de drogas, incluso ocasional, puede provocar daño neurológico grave y afecta especialmente a los jóvenes - Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLXVYSlNEd2tzWGFDaHBMd2QyVnVydTBiWkVhM2hyRWMzZ0N6ZVNib25aejhkSXctZGhVTWkyWlRrSV9vajRNYmNyb0MxSzJXaHpUSHlndk93TlRYYVkwMUdZQVoxZVVCek1GaDlqc1M3cjNzNzRCaWFUSTlBUFZjYWJ0d1JIUUdNYjc0T0xxREVKSnRXaGgwWlFMd3dXS1NnYXRkamdEa3puR0hTbHVKSmx5eHItOHNYT1gxUllFcWIzTXJJQjM0cGVZbkVnemF4Nk5ib3FnWXpOdUxuU1ZuT01VaURTVThWZHpsNw?oc=5)
-
----
-
 ### [Validée par les cardiologues : cette assiette fraîche protège le cœur et la tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
 
 2026-06-26 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
+
+---
+
+### [24 Stunden vor dem Schlaganfall noch ein DOAK: Wie sicher ist die Lyse?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
 
 ---
 
@@ -131,22 +139,6 @@ permalink: /news/telmisartan/
 2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
-
----
-
-### [Obesity cases rising fastest in young adults](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
-
-2026-06-24 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QdFItaWZSMGc2N3RKOW5MaXB1RGhzemd2M0pOd0NHeGhKWmd4bV9NOEl0c0dtME45SWdiQ0xwNDRlNXZsZXBqZW9jRm9pSkZlRS1qRjhOQnZhb2dZ?oc=5)
-
----
-
-### [Schlaganfall: Herzmedikament Tirofiban verbessert womöglich Outcome – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
-
-2026-06-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckIwaDlvbGhBX0RKLTZuUkVYWU9CUVJVWFF0Z2JOT2VkUlNOajItdHdNTXBUZWdPdkQ2aU9CREVEQkZaNVpfdVM4ZkF2MW1WRkVXcm9ocFVsZ3d1THRMUV81cllGTGRGY0hJMXBkRlNVX2hZYkpOb2E5Tko4dWNCVkFtellpSl9JOFc1UWM1NlpicGZ0Yk9vT0NTTGF3RFlvNjBDdUh5TTNMcTJBNXVkMDltU0pwcmRUT2Fia1FHam9JSG16RWg4OUsyelFadW5B?oc=5)
 
 ---
 

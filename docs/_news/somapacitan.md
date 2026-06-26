@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [La alimentación, el uso responsable de antibióticos y los hábitos saludables son claves para proteger la microbiota infantil - Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">asma</span>
+
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
+
+---
+
+### [Bauchfett: 10% Reduktion senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1NSDlOdnlpNWVFTUFTNkIwbzdjS1BqMlBleng5ZUFDZ2xMWkotLWhNdlFad1FkM29yTGhxWDJjcXNlbnU2SklQZ1BxWk94TXVpUVBFUUg5blZOTFRpUlVZekRDVUxYRHdQdFF0LXl5UFpnNUpoX3ZXODZEVUJmVjl4UnUwdW44WkZPcThxMEJueHhneFRseXFzRTFSV1pLYm9JNi15OVF2aERvcnh6TmxxOTNJQQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1NSDlOdnlpNWVFTUFTNkIwbzdjS1BqMlBleng5ZUFDZ2xMWkotLWhNdlFad1FkM29yTGhxWDJjcXNlbnU2SklQZ1BxWk94TXVpUVBFUUg5blZOTFRpUlVZekRDVUxYRHdQdFF0LXl5UFpnNUpoX3ZXODZEVUJmVjl4UnUwdW44WkZPcThxMEJueHhneFRseXFzRTFSV1pLYm9JNi15OVF2aERvcnh6TmxxOTNJQQ?oc=5)
+
+---
 
 ### [EMA: 6 neue Zulassungsempfehlungen, u.a. bei Typ-2-Diabetes, bei Morbus Parkinson und zum Schutz vor Influenza](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3lpVWg2NGpNeXgxSVJoQnpyZkpxVklFY3FuQ2l5YzFmVTBIbTRSdHlLdmtWRms3dGRtM1dMNTdqUC1iaEhVLXBPMHk3TWVSR2tleWJ1SHVJVVhkLWhSb05VX2lJS1pWcFI0WmpzZ0VwVnZRRWlWRjlLTFJ4YXVad1lSOXhzampWS0M1Zkd4ZWE3WVh3M1VDdkVRcVBCWkMxczlyZ1BDdWM0UUpCTHNfY0tjbTI3TnM?oc=5)
 
@@ -62,27 +78,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetes-Therapie: SGLT2-Inhibitoren reduzieren Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm5hODF5Yy10VWdiMXV0a0s0NHN4S2VaUGNOa2pCR0hhVURIcGpBY0taT3gzSVdib0FKTXA5WjMwdVJocnFnLU91aDVSNDUxN0Y3MEJJSV9hT1RjYXVLaGxMZzJXY0QtUE4zdExkTXFaenNBcUFrdUpHX0Y1c3o2cEc0Yy1fN2NNUmV6Ri13NmlRNi1zYWM1MHVUVVlYNl9oS0tHbHZvY01oX0VFWjRsd3YtczhRLXhkYmc?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm5hODF5Yy10VWdiMXV0a0s0NHN4S2VaUGNOa2pCR0hhVURIcGpBY0taT3gzSVdib0FKTXA5WjMwdVJocnFnLU91aDVSNDUxN0Y3MEJJSV9hT1RjYXVLaGxMZzJXY0QtUE4zdExkTXFaenNBcUFrdUpHX0Y1c3o2cEc0Yy1fN2NNUmV6Ri13NmlRNi1zYWM1MHVUVVlYNl9oS0tHbHZvY01oX0VFWjRsd3YtczhRLXhkYmc?oc=5)
-
----
-
-### [Bauchfett-Reduktion: 10% weniger senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVhVemlDNXJTYVNWcjZURWg2S3Jkd0pnV3Z3TTBudUJQMUZNVGVNdkZIRjljZG1qaGlxamtxNUZRX1dySm9CV1IySzU1RmFFcjdpY2kwUVFrRkViWWtqOEJzTnZyNWZrWWJGUWNqQXpIQXBVYTFmalNNT09kc25OLVBVZFliNmtDdmJ0ejFxTy12bE5NNDc2OThGRFNfUnljY0lXbFI3VFp2MXNCR3IyLUw3TEtMZw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVhVemlDNXJTYVNWcjZURWg2S3Jkd0pnV3Z3TTBudUJQMUZNVGVNdkZIRjljZG1qaGlxamtxNUZRX1dySm9CV1IySzU1RmFFcjdpY2kwUVFrRkViWWtqOEJzTnZyNWZrWWJGUWNqQXpIQXBVYTFmalNNT09kc25OLVBVZFliNmtDdmJ0ejFxTy12bE5NNDc2OThGRFNfUnljY0lXbFI3VFp2MXNCR3IyLUw3TEtMZw?oc=5)
-
----
-
 ### [Wie Zyklus, Schwangerschaft und Wechseljahre den Diabetes beeinflussen - Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
+
+---
+
+### [Diabetes-Studien: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43 % - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
 
 ---
 
@@ -102,19 +110,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+### [Darmflora: Hefepilz Malassezia erhöht Neurodermitis-Risiko bei Säuglingen](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
 
-2026-06-25 <span class="news-indication-tag">asma</span>
+2026-06-25 <span class="news-indication-tag">asthma</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
-
----
-
-### [Los fármacos epigenéticos podrían reducir el riesgo de infarto en personas con obesidad y diabetes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
 
 ---
 
@@ -123,14 +123,6 @@ permalink: /news/somapacitan/
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
-
----
-
-### [Was im Darm wächst, könnte Allergien bei Kindern mitbestimmen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
-
-2026-06-24 <span class="news-indication-tag">asthma</span>
-
-來源：[FITBOOK](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRLMFREWjhoYTdsSUlZcDUzcjFDbnljeV82RDVmTHBhNldRZS03UVhlcXNaQ3YtbTU1UDVuVm1OaVVneXRuUUU5QWR0eG5taTRlWU4zQVY3TUxkNV9tNGJuLXVxalVteXNiSmtWUUJDN0xLNUVCNm12R054c09XT1hrZlNsYzZjWGluRG93c2VURndaMkNaSFlVdzc?oc=5)
 
 ---
 

@@ -54,6 +54,22 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（9 則）
 
+### [Los pacientes EPOC, diana en la reducción de la mortalidad por VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
+
+2026-06-26 <span class="news-indication-tag">EPOC</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
+
+---
+
+### [Bauchfett: 10% Reduktion senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1NSDlOdnlpNWVFTUFTNkIwbzdjS1BqMlBleng5ZUFDZ2xMWkotLWhNdlFad1FkM29yTGhxWDJjcXNlbnU2SklQZ1BxWk94TXVpUVBFUUg5blZOTFRpUlVZekRDVUxYRHdQdFF0LXl5UFpnNUpoX3ZXODZEVUJmVjl4UnUwdW44WkZPcThxMEJueHhneFRseXFzRTFSV1pLYm9JNi15OVF2aERvcnh6TmxxOTNJQQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1NSDlOdnlpNWVFTUFTNkIwbzdjS1BqMlBleng5ZUFDZ2xMWkotLWhNdlFad1FkM29yTGhxWDJjcXNlbnU2SklQZ1BxWk94TXVpUVBFUUg5blZOTFRpUlVZekRDVUxYRHdQdFF0LXl5UFpnNUpoX3ZXODZEVUJmVjl4UnUwdW44WkZPcThxMEJueHhneFRseXFzRTFSV1pLYm9JNi15OVF2aERvcnh6TmxxOTNJQQ?oc=5)
+
+---
+
 ### [EMA: 6 neue Zulassungsempfehlungen, u.a. bei Typ-2-Diabetes, bei Morbus Parkinson und zum Schutz vor Influenza](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3lpVWg2NGpNeXgxSVJoQnpyZkpxVklFY3FuQ2l5YzFmVTBIbTRSdHlLdmtWRms3dGRtM1dMNTdqUC1iaEhVLXBPMHk3TWVSR2tleWJ1SHVJVVhkLWhSb05VX2lJS1pWcFI0WmpzZ0VwVnZRRWlWRjlLTFJ4YXVad1lSOXhzampWS0M1Zkd4ZWE3WVh3M1VDdkVRcVBCWkMxczlyZ1BDdWM0UUpCTHNfY0tjbTI3TnM?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span>
@@ -62,27 +78,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Diabetes-Therapie: SGLT2-Inhibitoren reduzieren Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm5hODF5Yy10VWdiMXV0a0s0NHN4S2VaUGNOa2pCR0hhVURIcGpBY0taT3gzSVdib0FKTXA5WjMwdVJocnFnLU91aDVSNDUxN0Y3MEJJSV9hT1RjYXVLaGxMZzJXY0QtUE4zdExkTXFaenNBcUFrdUpHX0Y1c3o2cEc0Yy1fN2NNUmV6Ri13NmlRNi1zYWM1MHVUVVlYNl9oS0tHbHZvY01oX0VFWjRsd3YtczhRLXhkYmc?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVm5hODF5Yy10VWdiMXV0a0s0NHN4S2VaUGNOa2pCR0hhVURIcGpBY0taT3gzSVdib0FKTXA5WjMwdVJocnFnLU91aDVSNDUxN0Y3MEJJSV9hT1RjYXVLaGxMZzJXY0QtUE4zdExkTXFaenNBcUFrdUpHX0Y1c3o2cEc0Yy1fN2NNUmV6Ri13NmlRNi1zYWM1MHVUVVlYNl9oS0tHbHZvY01oX0VFWjRsd3YtczhRLXhkYmc?oc=5)
-
----
-
-### [Bauchfett-Reduktion: 10% weniger senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVhVemlDNXJTYVNWcjZURWg2S3Jkd0pnV3Z3TTBudUJQMUZNVGVNdkZIRjljZG1qaGlxamtxNUZRX1dySm9CV1IySzU1RmFFcjdpY2kwUVFrRkViWWtqOEJzTnZyNWZrWWJGUWNqQXpIQXBVYTFmalNNT09kc25OLVBVZFliNmtDdmJ0ejFxTy12bE5NNDc2OThGRFNfUnljY0lXbFI3VFp2MXNCR3IyLUw3TEtMZw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVhVemlDNXJTYVNWcjZURWg2S3Jkd0pnV3Z3TTBudUJQMUZNVGVNdkZIRjljZG1qaGlxamtxNUZRX1dySm9CV1IySzU1RmFFcjdpY2kwUVFrRkViWWtqOEJzTnZyNWZrWWJGUWNqQXpIQXBVYTFmalNNT09kc25OLVBVZFliNmtDdmJ0ejFxTy12bE5NNDc2OThGRFNfUnljY0lXbFI3VFp2MXNCR3IyLUw3TEtMZw?oc=5)
-
----
-
 ### [Wie Zyklus, Schwangerschaft und Wechseljahre den Diabetes beeinflussen - Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
+
+---
+
+### [Diabetes-Studien: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43 % - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/cabotegravir/
 2026-06-25 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJobjYtcFhOZ0x2NGJIQnlfeXc4NERzeGpWb2kybFY5UWp6R1ZHSkxIUFB5VDBBUWM1dmNfWUh3QnI3RjdoY05Rc0Nkc0paTnBpZk5JSXhnZ1ZTTUJIemVfOFF1ejBNQ1dlZnRMMFVocnB6d0dQc2xERndyN0haNS1ISTB0N2ZTUXFCLWp6bVVWY1FQU2NhNnY4S2NaeV84NUo2OERNOXlNRGstRmc?oc=5)
-
----
-
-### [Los fármacos epigenéticos podrían reducir el riesgo de infarto en personas con obesidad y diabetes](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXlnRFpyX2sySzhLcm5DX2JSR2VIdEE2Q0QzWk8wTF9yZ3gzazI4WTFyOXFEcVU4Mk1ITkFkQzc3VU8zRjhleGlMRHBfeGVaVmVSS3RweUd6blR0SDlzbzU3NVdncHhVeEJuU1RjQ3ZOLWVDb3RZajdHMGZYcGNNMWR0aDZhdzV3Rk1iTkpEUlE4dlZ2ODN0djRWdmRaMGw3aENmT0FwSUtfbFBUYkRUaFZOM2FyanJTcDVLcl9hYXd3REU1ZWstRnFRNA?oc=5)
 
 ---
 
