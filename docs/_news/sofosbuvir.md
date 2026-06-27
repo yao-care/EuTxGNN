@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
+
+### [Darmgesundheit: Rindfleisch verdoppelt Typ-2-Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+
+---
+
+### [Los 57 años de lucha de Eva Bustamante: sufre desde niña un síndrome neuromuscular poco frecuente, se sometió a siete operaciones tras un atropello y ahora su marido tiene esclerosis múltiple](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmU2Y2M3cS1RalFuT3owSG1BZ2Z3WHVra3V0N01iY1V4eXRaMGt5MHdsRXp0VXNmWlVwbHJMb0hXYTJKaDF6Q0g0UWlFM05JN1Z2c2lJNWtSVUtHTEtWVDJkbVR5Yjdqc1dBUnhtUmcxUkh2Z0c5aUZXY0l5NGF0SVFrVktvN2PSAYwBQVVfeXFMTkplX1o1dkZMeE5vVFNGV1Y2cFdVdUcwWWQxRl9YVzNYc0E1Sm9NNmxfa09sRE9FaXE5SElobzVhZzRCX0Z6S3JmYXN6bk53NDRHbjFDZHZXemNuZmxHRTdfOUc4Zmo0SzkyRlQ4aGRrdmQxZDBZWDFPM3VTWVFWQVQ0Q1hFcW9Ud2cwWHo?oc=5)
+
+2026-06-27 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[LNE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmU2Y2M3cS1RalFuT3owSG1BZ2Z3WHVra3V0N01iY1V4eXRaMGt5MHdsRXp0VXNmWlVwbHJMb0hXYTJKaDF6Q0g0UWlFM05JN1Z2c2lJNWtSVUtHTEtWVDJkbVR5Yjdqc1dBUnhtUmcxUkh2Z0c5aUZXY0l5NGF0SVFrVktvN2PSAYwBQVVfeXFMTkplX1o1dkZMeE5vVFNGV1Y2cFdVdUcwWWQxRl9YVzNYc0E1Sm9NNmxfa09sRE9FaXE5SElobzVhZzRCX0Z6S3JmYXN6bk53NDRHbjFDZHZXemNuZmxHRTdfOUc4Zmo0SzkyRlQ4aGRrdmQxZDBZWDFPM3VTWVFWQVQ0Q1hFcW9Ud2cwWHo?oc=5)
+
+---
 
 ### [Europa aprueba un tratamiento innovador para la esclerosis múltiple que actúa directamente en el cerebro: cuándo llegará a España - Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
 
@@ -102,11 +118,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Complex multicellularity is linked with expanded specialized metabolite production in microorganisms](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QYjY4dGlrdFRMbndUQjVaYVZBNUF2SUNnQWhKSXQ0bDBnUmQwejlOUVQzTWVLRnpGNWE1Yk80bWwyWUdza2VSMHV5c01PdnU2NkdXRHNETUMzZHBoN0Yw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QYjY4dGlrdFRMbndUQjVaYVZBNUF2SUNnQWhKSXQ0bDBnUmQwejlOUVQzTWVLRnpGNWE1Yk80bWwyWUdza2VSMHV5c01PdnU2NkdXRHNETUMzZHBoN0Yw?oc=5)
+
+---
+
 ### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+
+---
+
+### [Wenn Parasiten Viren ausbremsen: VdF Promotionspreis für Dr. Jana Hey](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEt6V051c1NhQVNCcXo4Yk5NaURIN0pqUTU1WDhJeHdKWTQzcmhLdkR0Z3hXRFc5U2VLSXlLLXF3Q3dMRE1aUWF5a1ZQN0M1cVVnTUVvaFB5WUFCb1dockdKT3g5MkJqM0lMSmtHZ2ZITm04aEhCQ0tnZGFUVGZwejBFeTJzc0ptZE93aWJsS0YzXzJNTEhlVlNlbEVaZnZWZzB5Y3ZOQQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span>
+
+來源：[Bernhard-Nocht-Institut](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEt6V051c1NhQVNCcXo4Yk5NaURIN0pqUTU1WDhJeHdKWTQzcmhLdkR0Z3hXRFc5U2VLSXlLLXF3Q3dMRE1aUWF5a1ZQN0M1cVVnTUVvaFB5WUFCb1dockdKT3g5MkJqM0lMSmtHZ2ZITm04aEhCQ0tnZGFUVGZwejBFeTJzc0ptZE93aWJsS0YzXzJNTEhlVlNlbEVaZnZWZzB5Y3ZOQQ?oc=5)
 
 ---
 
@@ -144,25 +176,9 @@ permalink: /news/sofosbuvir/
 
 ### [Doctor issues mosquito warning amid UK heatwave - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span>
+2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
-
----
-
-### [Taking high-dose vitamin D daily over the long term helps reduce MS relapses - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxRMF85Q3Ewcl9jSU1qdDZNVjFRMEhlUGxmc2tieWRLNjJSanctM3NLR0Q3bVZQLWQyNVlWWkRNclVkSGkyYXhQdU1VRlFPUHptaExRbmpZOFUteFV1X1BTREtENmtLRHdoYjhaTDZmekVOWUY2TGVtQy1NMmZCZlhzTk9rQW5IRjRmNlJLeHlIT29DRzNMLS1IM2EzU3k2T1VIMnpYUEdWaDU2M01HSFkwNEFWNmJTRy1xSnhQMl9BUQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxRMF85Q3Ewcl9jSU1qdDZNVjFRMEhlUGxmc2tieWRLNjJSanctM3NLR0Q3bVZQLWQyNVlWWkRNclVkSGkyYXhQdU1VRlFPUHptaExRbmpZOFUteFV1X1BTREtENmtLRHdoYjhaTDZmekVOWUY2TGVtQy1NMmZCZlhzTk9rQW5IRjRmNlJLeHlIT29DRzNMLS1IM2EzU3k2T1VIMnpYUEdWaDU2M01HSFkwNEFWNmJTRy1xSnhQMl9BUQ?oc=5)
-
----
-
-### [S3-Leitlinie Demenzen: Lecanemab und Donanemab bei Alzheimer-Erkrankung - Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxON1lab3hFV1pLbnIyOS1sa0U2cEdhN0E1Y0VlR0VtUGdkZnFVcXF6UjdYZkRzc1ZjNGZhRVU5ZEVmUU9ySHpVUTFzX21XU2ZxaWQyNW9ncVVObzJ4bW42MGNEWUQzRjc5NlUtTEYwUmgzYjZfcXpRc2t4aUFyNzdhRVVrVmRBOWRQaXFyX0xzOGw4cFVzRVE0aXNyX0hGZDVRTVlReG43dDhkNkRJbG5FYmxKZ0VuekRkbW8tMw?oc=5)
-
-2026-06-25 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxON1lab3hFV1pLbnIyOS1sa0U2cEdhN0E1Y0VlR0VtUGdkZnFVcXF6UjdYZkRzc1ZjNGZhRVU5ZEVmUU9ySHpVUTFzX21XU2ZxaWQyNW9ncVVObzJ4bW42MGNEWUQzRjc5NlUtTEYwUmgzYjZfcXpRc2t4aUFyNzdhRVVrVmRBOWRQaXFyX0xzOGw4cFVzRVE0aXNyX0hGZDVRTVlReG43dDhkNkRJbG5FYmxKZ0VuekRkbW8tMw?oc=5)
 
 ---
 

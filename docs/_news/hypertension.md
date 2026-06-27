@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。6 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>6 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 2026-06-27
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
-
----
-
-### [Tres hospitales madrileños acogen la campaña ‘Hay peligros que no te ves venir’ para concienciar a la población de la importancia de controlar la hipertensión - Fundación Española del Corazón](https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlZvak9jeVMwSnVXZmNjLXRzZkRtOGtMNXh0d1NkRlhOT3daY0poYzJPQS13QS1fbFdrd0tMLVgzdWZhLVBGVG5sRE5GQnNPMEd5MElKZnN5c3NSeEJieTdobFNEQ3ZpWEhXMVotREtkNWRJa2MyMlRCYnR5UHR1RVczUGR1M1cwLXRrRHhRb2dHa3BLWTRsNTBOMFhrVVJ1Ukk5RVpyZ1ZoUUtWaW0zdEthaWRUZUlWSmdFVzVSc1dNNHJGZ2liNEgyVWFWa0g4NUFXZG9rdzd0b3dxb0Jwbk5PX2h3N20yUU1LYVRrVjhCS3Y4TTFKZHNaaEg5NkFCZzdTXzlRVjNPa2FERzhFWEZ0dThjWW1NS3djV1p4NDJmeEpXUzVBRFdCS1JXaDBab0NzSVVoalBGcUJp?oc=5)
-
-2026-06-27
-
-來源：[Fundación Española del Corazón](https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlZvak9jeVMwSnVXZmNjLXRzZkRtOGtMNXh0d1NkRlhOT3daY0poYzJPQS13QS1fbFdrd0tMLVgzdWZhLVBGVG5sRE5GQnNPMEd5MElKZnN5c3NSeEJieTdobFNEQ3ZpWEhXMVotREtkNWRJa2MyMlRCYnR5UHR1RVczUGR1M1cwLXRrRHhRb2dHa3BLWTRsNTBOMFhrVVJ1Ukk5RVpyZ1ZoUUtWaW0zdEthaWRUZUlWSmdFVzVSc1dNNHJGZ2liNEgyVWFWa0g4NUFXZG9rdzd0b3dxb0Jwbk5PX2h3N20yUU1LYVRrVjhCS3Y4TTFKZHNaaEg5NkFCZzdTXzlRVjNPa2FERzhFWEZ0dThjWW1NS3djV1p4NDJmeEpXUzVBRFdCS1JXaDBab0NzSVVoalBGcUJp?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（4 則）
 
+### [Un estudio con más de 30.000 niños desmonta el vínculo directo entre los gatos domésticos y las crisis de asma](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
+
+2026-06-27 <span class="news-indication-tag">asma</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
+
+---
+
 ### [Los pacientes EPOC, diana en la reducción de la mortalidad por VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
 
 2026-06-26 <span class="news-indication-tag">EPOC</span>
@@ -75,14 +83,6 @@ permalink: /news/fluticasone-furoate/
 2026-06-26 <span class="news-indication-tag">BPCO</span>
 
 來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
-
----
-
-### [Prueban una terapia con plasma para recuperar el olfato tras el covid](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
-
-2026-06-25 <span class="news-indication-tag">asma</span>
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 ---
 

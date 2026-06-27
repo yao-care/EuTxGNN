@@ -14,7 +14,7 @@ permalink: /news/bosentan-as-monohydrate/
 ---
 
 <p class="key-answer" data-question="Bosentan (As Monohydrate) 有什麼相關新聞？">
-<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bosentan (As Monohydrate)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/bosentan-as-monohydrate/
 <p><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
-
----
-
-### [Tres hospitales madrileños acogen la campaña ‘Hay peligros que no te ves venir’ para concienciar a la población de la importancia de controlar la hipertensión - Fundación Española del Corazón](https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlZvak9jeVMwSnVXZmNjLXRzZkRtOGtMNXh0d1NkRlhOT3daY0poYzJPQS13QS1fbFdrd0tMLVgzdWZhLVBGVG5sRE5GQnNPMEd5MElKZnN5c3NSeEJieTdobFNEQ3ZpWEhXMVotREtkNWRJa2MyMlRCYnR5UHR1RVczUGR1M1cwLXRrRHhRb2dHa3BLWTRsNTBOMFhrVVJ1Ukk5RVpyZ1ZoUUtWaW0zdEthaWRUZUlWSmdFVzVSc1dNNHJGZ2liNEgyVWFWa0g4NUFXZG9rdzd0b3dxb0Jwbk5PX2h3N20yUU1LYVRrVjhCS3Y4TTFKZHNaaEg5NkFCZzdTXzlRVjNPa2FERzhFWEZ0dThjWW1NS3djV1p4NDJmeEpXUzVBRFdCS1JXaDBab0NzSVVoalBGcUJp?oc=5)
-
-2026-06-27 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Fundación Española del Corazón](https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlZvak9jeVMwSnVXZmNjLXRzZkRtOGtMNXh0d1NkRlhOT3daY0poYzJPQS13QS1fbFdrd0tMLVgzdWZhLVBGVG5sRE5GQnNPMEd5MElKZnN5c3NSeEJieTdobFNEQ3ZpWEhXMVotREtkNWRJa2MyMlRCYnR5UHR1RVczUGR1M1cwLXRrRHhRb2dHa3BLWTRsNTBOMFhrVVJ1Ukk5RVpyZ1ZoUUtWaW0zdEthaWRUZUlWSmdFVzVSc1dNNHJGZ2liNEgyVWFWa0g4NUFXZG9rdzd0b3dxb0Jwbk5PX2h3N20yUU1LYVRrVjhCS3Y4TTFKZHNaaEg5NkFCZzdTXzlRVjNPa2FERzhFWEZ0dThjWW1NS3djV1p4NDJmeEpXUzVBRFdCS1JXaDBab0NzSVVoalBGcUJp?oc=5)
 
 ---
 

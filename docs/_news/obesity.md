@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,29 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
+
+2026-06-27
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
+
+---
 
 ### [NHS patients offered free weight-loss jabs via gyms and apps - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
 
 2026-06-27
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
-
----
-
-### [Wechseljahre: GLP-1-Präparate senken Brustkrebs um 35 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkRvemp3OE9NNFZ4TWFoX1FOU0M0bklVa18tcXRPbmE5QVM2ODRfbHhlNkcwZzY2ZTM3LWt2TXgwS1lsd1BzUTJ0cW9zbUYyZzY2WS1mQ0RKR01kcXhYVFdnWnZ4NGVoMHNwZjN5NFlJV1NZaEx3SGx4MVB5NWVmLVFERW0tR2VoYnRQdHBhQmJEQy16VjlzNUFBTS1IdjFvMFBkVHNYVjZGSUlFYzNr?oc=5)
-
-2026-06-27
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkRvemp3OE9NNFZ4TWFoX1FOU0M0bklVa18tcXRPbmE5QVM2ODRfbHhlNkcwZzY2ZTM3LWt2TXgwS1lsd1BzUTJ0cW9zbUYyZzY2WS1mQ0RKR01kcXhYVFdnWnZ4NGVoMHNwZjN5NFlJV1NZaEx3SGx4MVB5NWVmLVFERW0tR2VoYnRQdHBhQmJEQy16VjlzNUFBTS1IdjFvMFBkVHNYVjZGSUlFYzNr?oc=5)
-
----
-
-### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
-
-2026-06-26
-
-來源：[SuMédico](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
 
 ---
 
@@ -78,19 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUQ?oc=5)
 
 2026-06-26
 
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
-
----
-
-### [Eine neue Studie zeigt, dass die Fettleibigkeit bei jungen Erwachsenen am schnellsten zunimmt](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmgzcVl5VHJFVkZSU0FBa05EZ3FqOVhXTklYa0ctR0t0eVdKc2xMVno3eWcxV1FkNXlGWHlUTFROWklFTG5UcU1BaW94U3hxckRVeW1qQlh3bGpqaUhPdnREWUN2T3NwaG9YRUFxSmdzdTd3OEZTX21uVURESTUzbnRRdlAwazl1X2ROVTZselBTdFczWGJDRWczZXJvY1RvWlptaktEMV9Ka18wVFZWelZvR3UxakRMUk1aaENJZUJjNTdrT25n?oc=5)
-
-2026-06-25
-
-來源：[Gamereactor](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmgzcVl5VHJFVkZSU0FBa05EZ3FqOVhXTklYa0ctR0t0eVdKc2xMVno3eWcxV1FkNXlGWHlUTFROWklFTG5UcU1BaW94U3hxckRVeW1qQlh3bGpqaUhPdnREWUN2T3NwaG9YRUFxSmdzdTd3OEZTX21uVURESTUzbnRRdlAwazl1X2ROVTZselBTdFczWGJDRWczZXJvY1RvWlptaktEMV9Ka18wVFZWelZvR3UxakRMUk1aaENJZUJjNTdrT25n?oc=5)
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUQ?oc=5)
 
 ---
 

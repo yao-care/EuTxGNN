@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
+
+### [Prädiabetes: Normalisierung senkt Herzinfarktrisiko um 42 Prozent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+
+2026-06-27
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+
+---
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 2026-06-27
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
-
----
-
-### [Blutzucker stabilisieren: deutlich weniger Herzinfarkt- und Schlaganfallrisiko - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1phb3YyMkxDeE9RR1c2b0xTbldDWGsyNWpNYnV0c2xwUVVRQm1GUlV3MmhHMHNtWndhSXZROVJoRWhVUU5YdGJxTE9TaElMTkhmNmtoQzgtT1JRU3dvRGNZWi0xbWt3b3d4ZVlySk5aUmE3SlFCdGZKX3FnR1NpZS1HSXotNlAyaDZxLWVNRmY3dHgxZFo3Q3dlNmk0QjI5WmtwYWxQWEZIQ19V?oc=5)
-
-2026-06-27
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1phb3YyMkxDeE9RR1c2b0xTbldDWGsyNWpNYnV0c2xwUVVRQm1GUlV3MmhHMHNtWndhSXZROVJoRWhVUU5YdGJxTE9TaElMTkhmNmtoQzgtT1JRU3dvRGNZWi0xbWt3b3d4ZVlySk5aUmE3SlFCdGZKX3FnR1NpZS1HSXotNlAyaDZxLWVNRmY3dHgxZFo3Q3dlNmk0QjI5WmtwYWxQWEZIQ19V?oc=5)
 
 ---
 
@@ -70,22 +70,6 @@ permalink: /news/stroke/
 2026-06-26
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
-
----
-
-### [Pneumonie: 60% erhöhtes Demenz- und Herzinfarkt-Risiko Jahre danach](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnd5UDdheGhwWU1PSXFpTlZEdjBCR0t4Q1lfSGZEc2VYTHFNQ2ZkZzcwRlYxRzhYa05vZU1nWkF0UUl3UDNWbEZtQkdXQjNNVVJnaC1DVzhDdXNDTXhpNE1kNWxzTEpYRUpZd1BETGs0aEdrYTktUkVfWHhWN2swcXVqSHUtdWNrVm84UU5xU3M5YjJHc05EUEd3b1NoWVJHX3lHMVk3TWZ3c0JMVGIyNVV6emJHdw?oc=5)
-
-2026-06-25
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnd5UDdheGhwWU1PSXFpTlZEdjBCR0t4Q1lfSGZEc2VYTHFNQ2ZkZzcwRlYxRzhYa05vZU1nWkF0UUl3UDNWbEZtQkdXQjNNVVJnaC1DVzhDdXNDTXhpNE1kNWxzTEpYRUpZd1BETGs0aEdrYTktUkVfWHhWN2swcXVqSHUtdWNrVm84UU5xU3M5YjJHc05EUEd3b1NoWVJHX3lHMVk3TWZ3c0JMVGIyNVV6emJHdw?oc=5)
-
----
-
-### [Schlaganfall-Prävention: Dreier-Kombination senkt Rückfallrisiko um 39%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
-
-2026-06-25
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Darmgesundheit: Rindfleisch verdoppelt Typ-2-Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+
+---
+
+### [Un estudio con más de 30.000 niños desmonta el vínculo directo entre los gatos domésticos y las crisis de asma](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
+
+2026-06-27 <span class="news-indication-tag">asma</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
+
+---
 
 ### [Los pacientes EPOC, diana en la reducción de la mortalidad por VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/sarilumab/
 2026-06-26 <span class="news-indication-tag">enfermedad de Crohn</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
-
----
-
-### [Prueban una terapia con plasma para recuperar el olfato tras el covid](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
-
-2026-06-25 <span class="news-indication-tag">asma</span>
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 ---
 

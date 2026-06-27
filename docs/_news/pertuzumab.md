@@ -14,7 +14,7 @@ permalink: /news/pertuzumab/
 ---
 
 <p class="key-answer" data-question="Pertuzumab 有什麼相關新聞？">
-<strong>Pertuzumab</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pertuzumab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/pertuzumab/
 <p><a href="{{ '/drugs/pertuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（20 則）
+
+### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
+
+---
+
+### [Ha una lesione al dito che non guarisce: medici diagnosticano rara forma digitale di un tumore comune, il basalioma](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzlwS3Myc2g5RXd1LXB4R3JQZEZRbTVfb3VvemFGTXdLanRjbTM1NW5ObkNyemdzaU1PdjBfZUFMSlBrR29IVjVuYUs3OGZ5OU55bklsVzViM0NCZHI5dmhWbEY5RXNkZVBvUWRHMW9iRDdGLUlFZi1Wd3g3YTZhRy1ka3VCanVCNDNZel81MUVtRlJ6Z01CazBSX1h2X0RlMHlOcHFzcG5FOVd5VmY4V0lnWC1EdGxZakZjSkF3SzQ3Wi1qZ3E3SXdReS1lb2lveTEzZGVYNGV0SUNUZWRhQTF2cmtsOE0?oc=5)
+
+2026-06-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzlwS3Myc2g5RXd1LXB4R3JQZEZRbTVfb3VvemFGTXdLanRjbTM1NW5ObkNyemdzaU1PdjBfZUFMSlBrR29IVjVuYUs3OGZ5OU55bklsVzViM0NCZHI5dmhWbEY5RXNkZVBvUWRHMW9iRDdGLUlFZi1Wd3g3YTZhRy1ka3VCanVCNDNZel81MUVtRlJ6Z01CazBSX1h2X0RlMHlOcHFzcG5FOVd5VmY4V0lnWC1EdGxZakZjSkF3SzQ3Wi1qZ3E3SXdReS1lb2lveTEzZGVYNGV0SUNUZWRhQTF2cmtsOE0?oc=5)
+
+---
+
+### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+
+---
 
 ### [Rangers-daft dad of three in desperate fight to fund rare cancer treatment - The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
+
+---
+
+### [I've had skin cancer 50x since age 12- I have to wear 'bee-keeper' outift - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVZZWGVfRXBTclcwenowWEd6R3BPX0RqUWlrN1ZacUxoM2JKcVZCenNkejR5amo2dTAzRENxM05JYVFEQkFfV3hDQkJWdXFkWWJUU0c5eHU2dWVBTlZZQ0oxSGtURDAxaHFRUk1WM0ZZVU4yaWIxb0hnbW82MGF6XzZ2bV9STmMxZmtRTTBB?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVZZWGVfRXBTclcwenowWEd6R3BPX0RqUWlrN1ZacUxoM2JKcVZCenNkejR5amo2dTAzRENxM05JYVFEQkFfV3hDQkJWdXFkWWJUU0c5eHU2dWVBTlZZQ0oxSGtURDAxaHFRUk1WM0ZZVU4yaWIxb0hnbW82MGF6XzZ2bV9STmMxZmtRTTBB?oc=5)
 
 ---
 
@@ -70,19 +102,11 @@ permalink: /news/pertuzumab/
 
 ---
 
-### [Avance en el cáncer de páncreas: una nueva estrategia ataca las células tumorales - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUxqTlUyYlhOZHY5LUpjV2xCSE1UZWh3VXdBc3hVc2ZRQm1LNWJDUGYwc0Z5bUhFVHhnV2d5Yktya1lLejY0SzJwd1RkUXJnaFJJbU01TVFRc1NhLU91RXBrZU8yWVU3RS0xQUJrWTZmQUNjQjV4WTdZQm9ULTN3NkZLSUktb2cwalhRMGhrUW4tdWdhMWtNc3owUEIzcVZWQjdWVERlb3F4RTdjaUkw?oc=5)
+### [‘Zombie’ squirrels with oozing warts are found in several states in peoples’ backyards - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
-2026-06-27 <span class="news-indication-tag">tumor</span>
+2026-06-26 <span class="news-indication-tag">tumour</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUxqTlUyYlhOZHY5LUpjV2xCSE1UZWh3VXdBc3hVc2ZRQm1LNWJDUGYwc0Z5bUhFVHhnV2d5Yktya1lLejY0SzJwd1RkUXJnaFJJbU01TVFRc1NhLU91RXBrZU8yWVU3RS0xQUJrWTZmQUNjQjV4WTdZQm9ULTN3NkZLSUktb2cwalhRMGhrUW4tdWdhMWtNc3owUEIzcVZWQjdWVERlb3F4RTdjaUkw?oc=5)
-
----
-
-### [Wechseljahre: GLP-1-Präparate senken Brustkrebs um 35 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkRvemp3OE9NNFZ4TWFoX1FOU0M0bklVa18tcXRPbmE5QVM2ODRfbHhlNkcwZzY2ZTM3LWt2TXgwS1lsd1BzUTJ0cW9zbUYyZzY2WS1mQ0RKR01kcXhYVFdnWnZ4NGVoMHNwZjN5NFlJV1NZaEx3SGx4MVB5NWVmLVFERW0tR2VoYnRQdHBhQmJEQy16VjlzNUFBTS1IdjFvMFBkVHNYVjZGSUlFYzNr?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkRvemp3OE9NNFZ4TWFoX1FOU0M0bklVa18tcXRPbmE5QVM2ODRfbHhlNkcwZzY2ZTM3LWt2TXgwS1lsd1BzUTJ0cW9zbUYyZzY2WS1mQ0RKR01kcXhYVFdnWnZ4NGVoMHNwZjN5NFlJV1NZaEx3SGx4MVB5NWVmLVFERW0tR2VoYnRQdHBhQmJEQy16VjlzNUFBTS1IdjFvMFBkVHNYVjZGSUlFYzNr?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
 ---
 
@@ -174,19 +198,19 @@ permalink: /news/pertuzumab/
 
 ---
 
+### [Gut microbes emerge as potential players in estrogen-driven cancers](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFRiUkhtLWFLMDhKRFRGRTkwMU1TZzJtV1puZ1BEenZ2TWhWSWthZHNiZUV6X093anZWZXlpYmkxY0tvTlAxcTZodktwRVM5c0NEanJIYThyTVpyTDRkckZ1X3lydXF2LWdSa2t1ZUFKQXRhaG9jREd1c08tY2FuaUJyY2FvS1hUeTBiVDd6QVpNWWdxMko3NktWODNLWktJa1VqLTNiMzdNQWlMTUVlTTEtSEpqQQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFRiUkhtLWFLMDhKRFRGRTkwMU1TZzJtV1puZ1BEenZ2TWhWSWthZHNiZUV6X093anZWZXlpYmkxY0tvTlAxcTZodktwRVM5c0NEanJIYThyTVpyTDRkckZ1X3lydXF2LWdSa2t1ZUFKQXRhaG9jREd1c08tY2FuaUJyY2FvS1hUeTBiVDd6QVpNWWdxMko3NktWODNLWktJa1VqLTNiMzdNQWlMTUVlTTEtSEpqQQ?oc=5)
+
+---
+
 ### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWlyejBmQWplak5ZNE9qUl9MY3ZFVTI4Q0ZMQTk1OERlRnpxbUFRMGhNTENYYlRlZExZUTh2OEZVQ3gxeldleVNldUd3aEVnaWRFM2dmbFIyek1oaFpVN1VzRkZ5cTlGNXBNZi10eWh3UHZoUGk2MHFuY0dqeHlObVpmZXdyQjVVSXV2dHdHUDNMVVJkLVBoS1hvVllBT2FtM2I4R1pSU09OT25o?oc=5)
 
 2026-06-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWlyejBmQWplak5ZNE9qUl9MY3ZFVTI4Q0ZMQTk1OERlRnpxbUFRMGhNTENYYlRlZExZUTh2OEZVQ3gxeldleVNldUd3aEVnaWRFM2dmbFIyek1oaFpVN1VzRkZ5cTlGNXBNZi10eWh3UHZoUGk2MHFuY0dqeHlObVpmZXdyQjVVSXV2dHdHUDNMVVJkLVBoS1hvVllBT2FtM2I4R1pSU09OT25o?oc=5)
-
----
-
-### [Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">cancer</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
 
 ---
 
