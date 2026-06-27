@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（13 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
@@ -86,6 +86,22 @@ permalink: /news/orlistat/
 
 ---
 
+### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
+
+2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
+
+---
+
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[SuMédico](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+---
+
 ### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
 2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
@@ -110,6 +126,22 @@ permalink: /news/orlistat/
 
 ---
 
+### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+
+---
+
+### [Pneumonie: 60% erhöhtes Demenz- und Herzinfarkt-Risiko Jahre danach](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnd5UDdheGhwWU1PSXFpTlZEdjBCR0t4Q1lfSGZEc2VYTHFNQ2ZkZzcwRlYxRzhYa05vZU1nWkF0UUl3UDNWbEZtQkdXQjNNVVJnaC1DVzhDdXNDTXhpNE1kNWxzTEpYRUpZd1BETGs0aEdrYTktUkVfWHhWN2swcXVqSHUtdWNrVm84UU5xU3M5YjJHc05EUEd3b1NoWVJHX3lHMVk3TWZ3c0JMVGIyNVV6emJHdw?oc=5)
+
+2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnd5UDdheGhwWU1PSXFpTlZEdjBCR0t4Q1lfSGZEc2VYTHFNQ2ZkZzcwRlYxRzhYa05vZU1nWkF0UUl3UDNWbEZtQkdXQjNNVVJnaC1DVzhDdXNDTXhpNE1kNWxzTEpYRUpZd1BETGs0aEdrYTktUkVfWHhWN2swcXVqSHUtdWNrVm84UU5xU3M5YjJHc05EUEd3b1NoWVJHX3lHMVk3TWZ3c0JMVGIyNVV6emJHdw?oc=5)
+
+---
+
 ### [Eine neue Studie zeigt, dass die Fettleibigkeit bei jungen Erwachsenen am schnellsten zunimmt](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmgzcVl5VHJFVkZSU0FBa05EZ3FqOVhXTklYa0ctR0t0eVdKc2xMVno3eWcxV1FkNXlGWHlUTFROWklFTG5UcU1BaW94U3hxckRVeW1qQlh3bGpqaUhPdnREWUN2T3NwaG9YRUFxSmdzdTd3OEZTX21uVURESTUzbnRRdlAwazl1X2ROVTZselBTdFczWGJDRWczZXJvY1RvWlptaktEMV9Ka18wVFZWelZvR3UxakRMUk1aaENJZUJjNTdrT25n?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Fettleibigkeit</span>
@@ -118,11 +150,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Nicht auf die Lunge beschränkt: Ambulant erworbene Pneumonie schlägt auch auf Herz und Gehirn - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
+### [Schlaganfall-Prävention: Dreier-Kombination senkt Rückfallrisiko um 39%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
 ---
 

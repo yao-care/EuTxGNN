@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（9 則）
 
 ### [NHS patients offered free weight-loss jabs via gyms and apps - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
 
 2026-06-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
+
+---
+
+### [El calor empeora las cefaleas y migrañas: cómo prevenirlas - 65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
+
+2026-06-27 <span class="news-indication-tag">migraña</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/melatonin/
 
 ---
 
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[SuMédico](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+---
+
 ### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
 2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
@@ -78,11 +94,27 @@ permalink: /news/melatonin/
 
 ---
 
+### [Everyone is Rubbing Magnesium Oil on Their Feet Before Bed. We Asked Experts if it Actually Works - Vogue Arabia](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FNlh4RG8xRkx5cmJJeEhPWFBLcDZ1bGdsSFZna3RWNUVHLTh0LWhqVU4wSEtmRnVqczBjVG5QR1Vya2RRVlc3NXpfMDVKb29vV24xQnJmZktEZlpLblVLN0FrZ2hBUE1URGN0ZXhWYk81SWFtcy1N?oc=5)
+
+2026-06-26 <span class="news-drug-tag">Melatonin</span>
+
+來源：[Vogue Arabia](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FNlh4RG8xRkx5cmJJeEhPWFBLcDZ1bGdsSFZna3RWNUVHLTh0LWhqVU4wSEtmRnVqczBjVG5QR1Vya2RRVlc3NXpfMDVKb29vV24xQnJmZktEZlpLblVLN0FrZ2hBUE1URGN0ZXhWYk81SWFtcy1N?oc=5)
+
+---
+
 ### [Le “punturine” anti obesità utili anche per combattere una patologia nascosta e poco nota - la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
 
 2026-06-26 <span class="news-indication-tag">obesità</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
+
+---
+
+### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
 
 ---
 

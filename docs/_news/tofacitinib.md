@@ -14,7 +14,7 @@ permalink: /news/tofacitinib/
 ---
 
 <p class="key-answer" data-question="Tofacitinib 有什麼相關新聞？">
-<strong>Tofacitinib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tofacitinib</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tofacitinib/
 <p><a href="{{ '/drugs/tofacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（19 則）
+
+### [Rangers-daft dad of three in desperate fight to fund rare cancer treatment - The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
+
+---
 
 ### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3o3RnZRajFrY0cyTV9GakZFay1FdVc5Y2lkSmFzZ3JJSy1ySUpKR015d1J2NWtYUV9TUUt6T2FYVFk2Q2dqaUFaQXlHaTZmS1FxWUI4M09PdElSUm1wSkxYaUVxdTV6Z0tuNzZ1ek14YXlMMUFDMzdsbkQwTTQ3bHd2TXFnaW5iYUlUdzNmZzZhM09YNF85cUcwTG9JemtzVThVZFQwRmpKbXlGMXUyOXdPVW91RXZ3bHBRcm5RTzE?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3o3RnZRajFrY0cyTV9GakZFay1FdVc5Y2lkSmFzZ3JJSy1ySUpKR015d1J2NWtYUV9TUUt6T2FYVFk2Q2dqaUFaQXlHaTZmS1FxWUI4M09PdElSUm1wSkxYaUVxdTV6Z0tuNzZ1ek14YXlMMUFDMzdsbkQwTTQ3bHd2TXFnaW5iYUlUdzNmZzZhM09YNF85cUcwTG9JemtzVThVZFQwRmpKbXlGMXUyOXdPVW91RXZ3bHBRcm5RTzE?oc=5)
+
+---
+
+### [Avance en el cáncer de páncreas: una nueva estrategia ataca las células tumorales - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUxqTlUyYlhOZHY5LUpjV2xCSE1UZWh3VXdBc3hVc2ZRQm1LNWJDUGYwc0Z5bUhFVHhnV2d5Yktya1lLejY0SzJwd1RkUXJnaFJJbU01TVFRc1NhLU91RXBrZU8yWVU3RS0xQUJrWTZmQUNjQjV4WTdZQm9ULTN3NkZLSUktb2cwalhRMGhrUW4tdWdhMWtNc3owUEIzcVZWQjdWVERlb3F4RTdjaUkw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">tumor</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUxqTlUyYlhOZHY5LUpjV2xCSE1UZWh3VXdBc3hVc2ZRQm1LNWJDUGYwc0Z5bUhFVHhnV2d5Yktya1lLejY0SzJwd1RkUXJnaFJJbU01TVFRc1NhLU91RXBrZU8yWVU3RS0xQUJrWTZmQUNjQjV4WTdZQm9ULTN3NkZLSUktb2cwalhRMGhrUW4tdWdhMWtNc3owUEIzcVZWQjdWVERlb3F4RTdjaUkw?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/tofacitinib/
 2026-06-26 <span class="news-indication-tag">asma</span>
 
 來源：[Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
+
+---
+
+### [Traitement hormonal de la ménopause : près de 500 000 femmes traitées en 2025 - Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
 
 ---
 
@@ -142,9 +166,17 @@ permalink: /news/tofacitinib/
 
 ---
 
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
+
+---
+
 ### [Nuove cure a disposizione per i tumori del sistema linfatico, leucemia linfatica cronica e linfoma mantellare - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
-2026-06-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
@@ -158,14 +190,6 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [L'utilisation des traitements hormonaux dans le cadre de la ménopause augmente à nouveau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnlva3hTbjFIUmViSFJGZ0duQ1RyXzNnNWZfd0I3T0xOZk8wSDMycDh1QkVBWVRzNnd3RVZybElvT2t3UkdjSlEwLU9qVW9URVF1dnJsZzFfNHI3bXA3dnFScTBBUW9mRkFnUGhGcEhjSGM4T0ozY1VoMTdnNUo1ZDdFRDJWRUdFRDUxMnozZUkxQmlnTWlKUGp3Q1BrMGhIcDF1ck1uaTFtSVNhbHpmbkdndXhySVJIY09oWEdQMTdHSi05YXkyeUgwSTBGUQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnlva3hTbjFIUmViSFJGZ0duQ1RyXzNnNWZfd0I3T0xOZk8wSDMycDh1QkVBWVRzNnd3RVZybElvT2t3UkdjSlEwLU9qVW9URVF1dnJsZzFfNHI3bXA3dnFScTBBUW9mRkFnUGhGcEhjSGM4T0ozY1VoMTdnNUo1ZDdFRDJWRUdFRDUxMnozZUkxQmlnTWlKUGp3Q1BrMGhIcDF1ck1uaTFtSVNhbHpmbkdndXhySVJIY09oWEdQMTdHSi05YXkyeUgwSTBGUQ?oc=5)
-
----
-
 ### [Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">cancer</span>
@@ -174,11 +198,11 @@ permalink: /news/tofacitinib/
 
 ---
 
-### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+### [Prueban una terapia con plasma para recuperar el olfato tras el covid](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 2026-06-25 <span class="news-indication-tag">asma</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 ---
 

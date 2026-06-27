@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [El calor empeora las cefaleas y migrañas: cómo prevenirlas - 65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
+
+2026-06-27 <span class="news-indication-tag">migraña</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
+
+---
 
 ### [La alimentación, el uso responsable de antibióticos y los hábitos saludables son claves para proteger la microbiota infantil - Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+### [Prueban una terapia con plasma para recuperar el olfato tras el covid](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 2026-06-25 <span class="news-indication-tag">asma</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 ---
 

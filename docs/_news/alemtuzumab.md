@@ -14,7 +14,7 @@ permalink: /news/alemtuzumab/
 ---
 
 <p class="key-answer" data-question="Alemtuzumab 有什麼相關新聞？">
-<strong>Alemtuzumab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alemtuzumab</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/alemtuzumab/
 <p><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（31 則）
+
+### [Rangers-daft dad of three in desperate fight to fund rare cancer treatment - The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
+
+---
+
+### [Europa aprueba un tratamiento innovador para la esclerosis múltiple que actúa directamente en el cerebro: cuándo llegará a España - Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
+
+2026-06-27 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
+
+---
+
+### [Ebola continua a uccidere nell'est del Congo, 304 vittime e 1.115 casi](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNkNVZIdS1fQVNkSk5YUEVXZW03ZWJKMTFFdzNQeGYyWFQ2S1ItbWpkQW56eEpSaWZ3RFRxWTZJSFE2RzhkMFo1ejY1SDQxVnhrMF9fUU9kVDZUTlJkOU5WNklXaEpzUVhiM21WVC00WlR1TjRSal9LQ2htcWJvbG1oMmQzUGVZZ0hreGxxUDVfeFVfc0dZVTRUOTFjaWtRdGNsT3ZXejA1TWhkNzBieUtfdV9IdHE3VWtzYjRuRC1MZW9kQ0dNREl0MmVhcGlLWmh4YmdoRzk2UUJBZnJ0R3NvMNIB6AFBVV95cUxNT3Q4dk1jaDZldGpPVFJrNnBDZGxzWktfS3BTc2drZGgzR2p6ZnJ0OFhlMndQVEVldHd5Nl9rSXpHLTJsUjA0djhnOGg0dFoyaVJsalNabHJjNXg1QUhPelhseDJKQlIwZW54bzY2VG5RQ094V3RySlVBTlBBM0RCXzU2TEdhSmd1QzRyQVZtbGNucmVOVW1NWTI4UGZHY0xaZkZZMmh1ZVpjdHktY0xNOU8tcGtiTFotOHJkTlNFWFRtOWw2eG9zSlZCMzUwVFNGQ0xQNWdzVkdyQVgxbGpBTWxkQUFmd0RH?oc=5)
+
+2026-06-27 <span class="news-indication-tag">MS</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNkNVZIdS1fQVNkSk5YUEVXZW03ZWJKMTFFdzNQeGYyWFQ2S1ItbWpkQW56eEpSaWZ3RFRxWTZJSFE2RzhkMFo1ejY1SDQxVnhrMF9fUU9kVDZUTlJkOU5WNklXaEpzUVhiM21WVC00WlR1TjRSal9LQ2htcWJvbG1oMmQzUGVZZ0hreGxxUDVfeFVfc0dZVTRUOTFjaWtRdGNsT3ZXejA1TWhkNzBieUtfdV9IdHE3VWtzYjRuRC1MZW9kQ0dNREl0MmVhcGlLWmh4YmdoRzk2UUJBZnJ0R3NvMNIB6AFBVV95cUxNT3Q4dk1jaDZldGpPVFJrNnBDZGxzWktfS3BTc2drZGgzR2p6ZnJ0OFhlMndQVEVldHd5Nl9rSXpHLTJsUjA0djhnOGg0dFoyaVJsalNabHJjNXg1QUhPelhseDJKQlIwZW54bzY2VG5RQ094V3RySlVBTlBBM0RCXzU2TEdhSmd1QzRyQVZtbGNucmVOVW1NWTI4UGZHY0xaZkZZMmh1ZVpjdHktY0xNOU8tcGtiTFotOHJkTlNFWFRtOWw2eG9zSlZCMzUwVFNGQ0xQNWdzVkdyQVgxbGpBTWxkQUFmd0RH?oc=5)
+
+---
 
 ### [Woman from Essex urges over-70s to self-refer for mammograms](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tZzVRZ0s4czl1U2llU3Z4Zl9LUUw1eG9Db2hacVFZMVVsbFNGOVNTblFIczZHalNyemRJUy11eWZTTUpMNVlFaHFRRWNUZGNuT2ZCTHdmMHhQdVV0?oc=5)
 
@@ -75,6 +99,14 @@ permalink: /news/alemtuzumab/
 2026-06-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3o3RnZRajFrY0cyTV9GakZFay1FdVc5Y2lkSmFzZ3JJSy1ySUpKR015d1J2NWtYUV9TUUt6T2FYVFk2Q2dqaUFaQXlHaTZmS1FxWUI4M09PdElSUm1wSkxYaUVxdTV6Z0tuNzZ1ek14YXlMMUFDMzdsbkQwTTQ3bHd2TXFnaW5iYUlUdzNmZzZhM09YNF85cUcwTG9JemtzVThVZFQwRmpKbXlGMXUyOXdPVW91RXZ3bHBRcm5RTzE?oc=5)
+
+---
+
+### [Avance en el cáncer de páncreas: una nueva estrategia ataca las células tumorales - 65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUxqTlUyYlhOZHY5LUpjV2xCSE1UZWh3VXdBc3hVc2ZRQm1LNWJDUGYwc0Z5bUhFVHhnV2d5Yktya1lLejY0SzJwd1RkUXJnaFJJbU01TVFRc1NhLU91RXBrZU8yWVU3RS0xQUJrWTZmQUNjQjV4WTdZQm9ULTN3NkZLSUktb2cwalhRMGhrUW4tdWdhMWtNc3owUEIzcVZWQjdWVERlb3F4RTdjaUkw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">tumor</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUxqTlUyYlhOZHY5LUpjV2xCSE1UZWh3VXdBc3hVc2ZRQm1LNWJDUGYwc0Z5bUhFVHhnV2d5Yktya1lLejY0SzJwd1RkUXJnaFJJbU01TVFRc1NhLU91RXBrZU8yWVU3RS0xQUJrWTZmQUNjQjV4WTdZQm9ULTN3NkZLSUktb2cwalhRMGhrUW4tdWdhMWtNc3owUEIzcVZWQjdWVERlb3F4RTdjaUkw?oc=5)
 
 ---
 
@@ -110,11 +142,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Wenn Parasiten Viren ausbremsen: VdF Promotionspreis für Dr. Jana Hey](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEt6V051c1NhQVNCcXo4Yk5NaURIN0pqUTU1WDhJeHdKWTQzcmhLdkR0Z3hXRFc5U2VLSXlLLXF3Q3dMRE1aUWF5a1ZQN0M1cVVnTUVvaFB5WUFCb1dockdKT3g5MkJqM0lMSmtHZ2ZITm04aEhCQ0tnZGFUVGZwejBFeTJzc0ptZE93aWJsS0YzXzJNTEhlVlNlbEVaZnZWZzB5Y3ZOQQ?oc=5)
+### [Traitement hormonal de la ménopause : près de 500 000 femmes traitées en 2025 - Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span>
+2026-06-26 <span class="news-indication-tag">cancer</span>
 
-來源：[Bernhard-Nocht-Institut](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEt6V051c1NhQVNCcXo4Yk5NaURIN0pqUTU1WDhJeHdKWTQzcmhLdkR0Z3hXRFc5U2VLSXlLLXF3Q3dMRE1aUWF5a1ZQN0M1cVVnTUVvaFB5WUFCb1dockdKT3g5MkJqM0lMSmtHZ2ZITm04aEhCQ0tnZGFUVGZwejBFeTJzc0ptZE93aWJsS0YzXzJNTEhlVlNlbEVaZnZWZzB5Y3ZOQQ?oc=5)
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
 
 ---
 
@@ -131,6 +163,14 @@ permalink: /news/alemtuzumab/
 2026-06-26 <span class="news-indication-tag">MS</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNaUF4X0dmS2N5ZEVHR2hCb0xXY0pFVFRlOXdvU2N1bTlGSFRuQ2pSVnhBbE1aSFJvNjF6Y040M2xFb2hIUFRVcHlUbHRJYW9ld1Y5bFpsalpsNF9xTWRKdmdvWGlGWks4NmFxYXZLdXB5Q2lwVmdoYW5MbV91NGlqSzF6OHZsOUpjZjdYQlNfNEtab3ZQTFYyQmdOOWdDdw?oc=5)
+
+---
+
+### [Impulso a nivel mundial para advertir de la amenaza de la toxoplasmosis y reconocerla como una ETD por la OMS - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdKS0xUS093UmxMajM5WGdndl9vWGhnZEtqTHlDa21DYXBWbUZMS0d3Q1NaM3lZbzd0VzMtOFVwbnhIcXhnRUdvbkp5RFlEeVhxZVJOblBZM1hpaEZrbUlLeXR4TDUwbnNqOWlnZGR2ZTRjRzJ4ZkpINzBRSHBfN2FLS0M4RG83TTF1bTJGMXFMNkgzNC1Pdlo5V0pyTGE5TWlXVlBFYWtSTUxzTm9VRzByMkVmbFZ1OXNV0gG2AUFVX3lxTE9BbXl4WXZmS2RWVUN3MExpbWhKLWxJQlBRUmJXSzBVRjlKaDhXeDdiaDdDYk1XdE5zWVhTaHE3YURONUJDS3lGUnVYYUN3TmUwYjlMaGlhanM2ajlJeFlzSUFqUUxxOXBjQmMtWG5HMnVzVFkydmFzUnd5YXlONDNCRTVXVXN2SDREYzh2SFFnaF80NHJ2S3RsSWdHMUExYzIzcU9WZEh0cTJsYk9tbzNEQnZzWktn?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdKS0xUS093UmxMajM5WGdndl9vWGhnZEtqTHlDa21DYXBWbUZMS0d3Q1NaM3lZbzd0VzMtOFVwbnhIcXhnRUdvbkp5RFlEeVhxZVJOblBZM1hpaEZrbUlLeXR4TDUwbnNqOWlnZGR2ZTRjRzJ4ZkpINzBRSHBfN2FLS0M4RG83TTF1bTJGMXFMNkgzNC1Pdlo5V0pyTGE5TWlXVlBFYWtSTUxzTm9VRzByMkVmbFZ1OXNV0gG2AUFVX3lxTE9BbXl4WXZmS2RWVUN3MExpbWhKLWxJQlBRUmJXSzBVRjlKaDhXeDdiaDdDYk1XdE5zWVhTaHE3YURONUJDS3lGUnVYYUN3TmUwYjlMaGlhanM2ajlJeFlzSUFqUUxxOXBjQmMtWG5HMnVzVFkydmFzUnd5YXlONDNCRTVXVXN2SDREYzh2SFFnaF80NHJ2S3RsSWdHMUExYzIzcU9WZEh0cTJsYk9tbzNEQnZzWktn?oc=5)
 
 ---
 
@@ -152,7 +192,7 @@ permalink: /news/alemtuzumab/
 
 ### [GP warns millions at risk of deadly fat jab mistakes in heat…when to dial 999 - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
-2026-06-26 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
@@ -214,9 +254,17 @@ permalink: /news/alemtuzumab/
 
 ---
 
+### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
+
+---
+
 ### [Nuove cure a disposizione per i tumori del sistema linfatico, leucemia linfatica cronica e linfoma mantellare - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
-2026-06-26 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
@@ -227,14 +275,6 @@ permalink: /news/alemtuzumab/
 2026-06-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWlyejBmQWplak5ZNE9qUl9MY3ZFVTI4Q0ZMQTk1OERlRnpxbUFRMGhNTENYYlRlZExZUTh2OEZVQ3gxeldleVNldUd3aEVnaWRFM2dmbFIyek1oaFpVN1VzRkZ5cTlGNXBNZi10eWh3UHZoUGk2MHFuY0dqeHlObVpmZXdyQjVVSXV2dHdHUDNMVVJkLVBoS1hvVllBT2FtM2I4R1pSU09OT25o?oc=5)
-
----
-
-### [L'utilisation des traitements hormonaux dans le cadre de la ménopause augmente à nouveau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnlva3hTbjFIUmViSFJGZ0duQ1RyXzNnNWZfd0I3T0xOZk8wSDMycDh1QkVBWVRzNnd3RVZybElvT2t3UkdjSlEwLU9qVW9URVF1dnJsZzFfNHI3bXA3dnFScTBBUW9mRkFnUGhGcEhjSGM4T0ozY1VoMTdnNUo1ZDdFRDJWRUdFRDUxMnozZUkxQmlnTWlKUGp3Q1BrMGhIcDF1ck1uaTFtSVNhbHpmbkdndXhySVJIY09oWEdQMTdHSi05YXkyeUgwSTBGUQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnlva3hTbjFIUmViSFJGZ0duQ1RyXzNnNWZfd0I3T0xOZk8wSDMycDh1QkVBWVRzNnd3RVZybElvT2t3UkdjSlEwLU9qVW9URVF1dnJsZzFfNHI3bXA3dnFScTBBUW9mRkFnUGhGcEhjSGM4T0ozY1VoMTdnNUo1ZDdFRDJWRUdFRDUxMnozZUkxQmlnTWlKUGp3Q1BrMGhIcDF1ck1uaTFtSVNhbHpmbkdndXhySVJIY09oWEdQMTdHSi05YXkyeUgwSTBGUQ?oc=5)
 
 ---
 
@@ -254,19 +294,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Congo tightens travel rules after Ebola case reaches France](https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFN4Mll3YTJZaVJMbXdTNzZQN0xBSHlqOXlIMVdaSDNiY3NyUG9fVkdCTm9BaE5qUEpkSW80MkktYjkyVHhGN1J2WW5uUGhYVzRuREU1ZDlMWFFfMGZHS2VHZ183V3FIWTI4QUduNU55RGMtaUV0LTVhUlp5SVFINTBiS1FkckNVZlBiMGNQRVF5RUxXNkdMWENNMURxZ05GSzlmdzdRREp1YVduMDExN3Q2OGtmb3FOU00zakcxbGdxaEtndU9tQnNITQ?oc=5)
+### [S3-Leitlinie Demenzen: Lecanemab und Donanemab bei Alzheimer-Erkrankung - Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxON1lab3hFV1pLbnIyOS1sa0U2cEdhN0E1Y0VlR0VtUGdkZnFVcXF6UjdYZkRzc1ZjNGZhRVU5ZEVmUU9ySHpVUTFzX21XU2ZxaWQyNW9ncVVObzJ4bW42MGNEWUQzRjc5NlUtTEYwUmgzYjZfcXpRc2t4aUFyNzdhRVVrVmRBOWRQaXFyX0xzOGw4cFVzRVE0aXNyX0hGZDVRTVlReG43dDhkNkRJbG5FYmxKZ0VuekRkbW8tMw?oc=5)
 
-2026-06-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-25 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
 
-來源：[Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFN4Mll3YTJZaVJMbXdTNzZQN0xBSHlqOXlIMVdaSDNiY3NyUG9fVkdCTm9BaE5qUEpkSW80MkktYjkyVHhGN1J2WW5uUGhYVzRuREU1ZDlMWFFfMGZHS2VHZ183V3FIWTI4QUduNU55RGMtaUV0LTVhUlp5SVFINTBiS1FkckNVZlBiMGNQRVF5RUxXNkdMWENNMURxZ05GSzlmdzdRREp1YVduMDExN3Q2OGtmb3FOU00zakcxbGdxaEtndU9tQnNITQ?oc=5)
-
----
-
-### [Europa da luz verde a tolebrutinib, un fármaco para detener el avance de la esclerosis múltiple - Diario Córdoba](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWTlGWlliSEhhQmt0R0t1ZmozR09IVjJiS1cyWFpJRkxLaUh4RTRobTNBeUkwLTBuR0pvSktpUmxzQ1BIZU94X3BEd3Q1V0xQS2lKNkFlVTV3WGx1cGwxb08xVlVrTWFSLWNhTjc4Qzd6ckdiZlNDM0ZhYnRsYmwzamtpRWo0YlI0WDVOTUlZQzhYeE1LOGMwWVlyT0pnZ0t1Nmp6VGdoRndDZ0p0d0E0c0JVT2F4VU5tLW4tRmM3WlVyR3dJQnFQMDNCcGZaa1lSdVl3Z0lVc9IB3AFBVV95cUxNT2wwLVd0VEhoX3gzRkxMWXZMWUJTcTBJY0lNTzVNQ2MyR3pxeW1TYlJ5TmtwU056R2NINEU5enRQNEtXUlB3QzdrQ3YyLWRibkk2RmQ0al9yek50Y1I0QUljTWlTMHNuX0tmeVp3YTgyQXgwUmhFWTk5SV9NZ1pjRl9vQS1WLVNCd2N4UWlvZjNMX09ENHBXcHVyRUhRdjc3cFpwZHZuTkpDU1M1eUN6ZUJpeWQ1cXBmSTBUcktKSFl4Zm9RaFlyMHp4ZWpYMlAwdWJ6MnZxbW84TGpz?oc=5)
-
-2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Diario Córdoba](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWTlGWlliSEhhQmt0R0t1ZmozR09IVjJiS1cyWFpJRkxLaUh4RTRobTNBeUkwLTBuR0pvSktpUmxzQ1BIZU94X3BEd3Q1V0xQS2lKNkFlVTV3WGx1cGwxb08xVlVrTWFSLWNhTjc4Qzd6ckdiZlNDM0ZhYnRsYmwzamtpRWo0YlI0WDVOTUlZQzhYeE1LOGMwWVlyT0pnZ0t1Nmp6VGdoRndDZ0p0d0E0c0JVT2F4VU5tLW4tRmM3WlVyR3dJQnFQMDNCcGZaa1lSdVl3Z0lVc9IB3AFBVV95cUxNT2wwLVd0VEhoX3gzRkxMWXZMWUJTcTBJY0lNTzVNQ2MyR3pxeW1TYlJ5TmtwU056R2NINEU5enRQNEtXUlB3QzdrQ3YyLWRibkk2RmQ0al9yek50Y1I0QUljTWlTMHNuX0tmeVp3YTgyQXgwUmhFWTk5SV9NZ1pjRl9vQS1WLVNCd2N4UWlvZjNMX09ENHBXcHVyRUhRdjc3cFpwZHZuTkpDU1M1eUN6ZUJpeWQ1cXBmSTBUcktKSFl4Zm9RaFlyMHp4ZWpYMlAwdWJ6MnZxbW84TGpz?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxON1lab3hFV1pLbnIyOS1sa0U2cEdhN0E1Y0VlR0VtUGdkZnFVcXF6UjdYZkRzc1ZjNGZhRVU5ZEVmUU9ySHpVUTFzX21XU2ZxaWQyNW9ncVVObzJ4bW42MGNEWUQzRjc5NlUtTEYwUmgzYjZfcXpRc2t4aUFyNzdhRVVrVmRBOWRQaXFyX0xzOGw4cFVzRVE0aXNyX0hGZDVRTVlReG43dDhkNkRJbG5FYmxKZ0VuekRkbW8tMw?oc=5)
 
 ---
 

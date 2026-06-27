@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（13 則）
 
 ### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NhazhqbVQ2Z0NHS1dNQ1JYSkpQTjhyLUxvcW5YUXhNN2ZGb3NDNlNtZU14djM4TmttWkJ5allGdklZYjc3UTdsamVJNlZWVlpvdkxybkd2SnpVMENNeVR6R1hUQVUxNF9ZZ3BMR1pCcWhuc3hTd295VXEtNmpvSnFYeVNGbXJ2MHBMaHZVbW5ieFJpUG1EQzdLU0hrbVBLYUVTU2VvUV9xV1Vfb0F4UjkwYw?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NhazhqbVQ2Z0NHS1dNQ1JYSkpQTjhyLUxvcW5YUXhNN2ZGb3NDNlNtZU14djM4TmttWkJ5allGdklZYjc3UTdsamVJNlZWVlpvdkxybkd2SnpVMENNeVR6R1hUQVUxNF9ZZ3BMR1pCcWhuc3hTd295VXEtNmpvSnFYeVNGbXJ2MHBMaHZVbW5ieFJpUG1EQzdLU0hrbVBLYUVTU2VvUV9xV1Vfb0F4UjkwYw?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
 
 ---
 
@@ -94,6 +86,22 @@ permalink: /news/somapacitan/
 
 ---
 
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[SuMédico](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+---
+
+### [Bauchfett-Reduktion: Zehn Prozent senken Diabetesrisiko um 28%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejEzY2NLQ2RPb0RvQ2Q2dmVUZXlNX3JlbHk5emJncFlVYUQ0WkM2WUhtbEo2TXVKRi10c3A0ODd1Q3VNMHpqbGZIc25NdU1KSkhqaVVHSnpnbDMtMGg4RE4zR1JQbnhwb0NMZzFGdVVITXlNdXNaU0FfWXliaG9YVE9GTExteHFfWWxUQ0VaSVJzX3pRUGNMbXh5eWE2SmhYZ0lFazJQbTdKUUtnd2lfdG93VjFyOTkw?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejEzY2NLQ2RPb0RvQ2Q2dmVUZXlNX3JlbHk5emJncFlVYUQ0WkM2WUhtbEo2TXVKRi10c3A0ODd1Q3VNMHpqbGZIc25NdU1KSkhqaVVHSnpnbDMtMGg4RE4zR1JQbnhwb0NMZzFGdVVITXlNdXNaU0FfWXliaG9YVE9GTExteHFfWWxUQ0VaSVJzX3pRUGNMbXh5eWE2SmhYZ0lFazJQbTdKUUtnd2lfdG93VjFyOTkw?oc=5)
+
+---
+
 ### [La alimentación, el uso responsable de antibióticos y los hábitos saludables son claves para proteger la microbiota infantil - Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
 
 2026-06-26 <span class="news-indication-tag">asma</span>
@@ -102,11 +110,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Viszerales Fett senken: 10% weniger reduziert Diabetes-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1kzV3U5eTdJeDJzWmxLcEFzOWJsZzBwZGVKZmV5MEVNVGxaUVhQUUpySXBrVjdodXBtWkkxTDc0NFNaWUl6clBkVzRTV3luWGNRX1dPS3V4OHp3M0ppM1BDTXJXanZHdUh6SVY0R1E0VVhPRU9tUVh1ODR1eGYtY1RTRm92eGJWUFBKeWtmaHdRNHlSUi14ZlBRNzdoMm9mT0E?oc=5)
+### [Farmaci anti-diabete dimagranti, scatta l'allarme su olfatto e gusto. "I medici facciano attenzione" - Secolo d'Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdG1IX3hMVWdQMXJIQlJwNDk0RVRXT0J1azVIcmFmbEZrdDVuQnNfcktjaTlEYjVJeVhidWFSX3VDamZFb1UwazJBbUtnekFwWGZiNGltNjd4QThqNnRIR3loZF93SksyZDFmbDF3bVdxb3ZYWXdmOWU4MVRCcm9CUUlJRnBKTkNjQzRmTEJkLWFUOGVILS0wY250a2xVWXJRQVAxcTVoQXBPTV9YRzBjN3M2NTNIN2tzR1g3SF9VQUZ2WnJ0ZUFtdU5lZndWUQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabete</span>
+
+來源：[Secolo d'Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdG1IX3hMVWdQMXJIQlJwNDk0RVRXT0J1azVIcmFmbEZrdDVuQnNfcktjaTlEYjVJeVhidWFSX3VDamZFb1UwazJBbUtnekFwWGZiNGltNjd4QThqNnRIR3loZF93SksyZDFmbDF3bVdxb3ZYWXdmOWU4MVRCcm9CUUlJRnBKTkNjQzRmTEJkLWFUOGVILS0wY250a2xVWXJRQVAxcTVoQXBPTV9YRzBjN3M2NTNIN2tzR1g3SF9VQUZ2WnJ0ZUFtdU5lZndWUQ?oc=5)
+
+---
+
+### [Gürtelrose- und Zahnpasta-Ansätze: Neue Wege zur Alzheimer-Prävention - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1kzV3U5eTdJeDJzWmxLcEFzOWJsZzBwZGVKZmV5MEVNVGxaUVhQUUpySXBrVjdodXBtWkkxTDc0NFNaWUl6clBkVzRTV3luWGNRX1dPS3V4OHp3M0ppM1BDTXJXanZHdUh6SVY0R1E0VVhPRU9tUVh1ODR1eGYtY1RTRm92eGJWUFBKeWtmaHdRNHlSUi14ZlBRNzdoMm9mT0E?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
 
 ---
 
@@ -118,6 +134,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+
+---
+
 ### [Intermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJobjYtcFhOZ0x2NGJIQnlfeXc4NERzeGpWb2kybFY5UWp6R1ZHSkxIUFB5VDBBUWM1dmNfWUh3QnI3RjdoY05Rc0Nkc0paTnBpZk5JSXhnZ1ZTTUJIemVfOFF1ejBNQ1dlZnRMMFVocnB6d0dQc2xERndyN0haNS1ISTB0N2ZTUXFCLWp6bVVWY1FQU2NhNnY4S2NaeV84NUo2OERNOXlNRGstRmc?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
@@ -126,11 +150,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+### [Prueban una terapia con plasma para recuperar el olfato tras el covid](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 2026-06-25 <span class="news-indication-tag">asma</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVBIN2F4ZFFqZktidFB4bHRLOHAyV1h1MUtjdzFzM3hhazdnbUc5dkh6NFVuREczdFh0Yk5NRzB4Rk9hUHRKMWR0YTFtRHh5OFJab1lrRUNMWHlCUTB6ZXBKQl80R3VhR3ZEaUE0YWhKX1JLTVNuZEdHWDJZeTBLZ2RQUFp3a1IzNC1xQjFQZjVrTDVxakc5Z09oTmhxY184OWktd2tnYjNjUm9ia3VfMGVQSlZaU0JjWWxIeEZ5SzBHM2MxaUw1MU9PRi16blJ1WFE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（7 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
@@ -62,11 +62,43 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ---
 
+### [Tres hospitales madrileños acogen la campaña ‘Hay peligros que no te ves venir’ para concienciar a la población de la importancia de controlar la hipertensión - Fundación Española del Corazón](https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlZvak9jeVMwSnVXZmNjLXRzZkRtOGtMNXh0d1NkRlhOT3daY0poYzJPQS13QS1fbFdrd0tMLVgzdWZhLVBGVG5sRE5GQnNPMEd5MElKZnN5c3NSeEJieTdobFNEQ3ZpWEhXMVotREtkNWRJa2MyMlRCYnR5UHR1RVczUGR1M1cwLXRrRHhRb2dHa3BLWTRsNTBOMFhrVVJ1Ukk5RVpyZ1ZoUUtWaW0zdEthaWRUZUlWSmdFVzVSc1dNNHJGZ2liNEgyVWFWa0g4NUFXZG9rdzd0b3dxb0Jwbk5PX2h3N20yUU1LYVRrVjhCS3Y4TTFKZHNaaEg5NkFCZzdTXzlRVjNPa2FERzhFWEZ0dThjWW1NS3djV1p4NDJmeEpXUzVBRFdCS1JXaDBab0NzSVVoalBGcUJp?oc=5)
+
+2026-06-27 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Fundación Española del Corazón](https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlZvak9jeVMwSnVXZmNjLXRzZkRtOGtMNXh0d1NkRlhOT3daY0poYzJPQS13QS1fbFdrd0tMLVgzdWZhLVBGVG5sRE5GQnNPMEd5MElKZnN5c3NSeEJieTdobFNEQ3ZpWEhXMVotREtkNWRJa2MyMlRCYnR5UHR1RVczUGR1M1cwLXRrRHhRb2dHa3BLWTRsNTBOMFhrVVJ1Ukk5RVpyZ1ZoUUtWaW0zdEthaWRUZUlWSmdFVzVSc1dNNHJGZ2liNEgyVWFWa0g4NUFXZG9rdzd0b3dxb0Jwbk5PX2h3N20yUU1LYVRrVjhCS3Y4TTFKZHNaaEg5NkFCZzdTXzlRVjNPa2FERzhFWEZ0dThjWW1NS3djV1p4NDJmeEpXUzVBRFdCS1JXaDBab0NzSVVoalBGcUJp?oc=5)
+
+---
+
+### [El calor empeora las cefaleas y migrañas: cómo prevenirlas - 65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
+
+2026-06-27 <span class="news-indication-tag">migraña</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
+
+---
+
 ### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
+
+---
+
+### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
+
+2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
+
+---
+
+### [Omega-3 schützt nicht vor Alzheimer: Studie mit 365 Probanden widerlegt Hoffnung](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
 
 ---
 

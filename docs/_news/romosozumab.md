@@ -14,7 +14,7 @@ permalink: /news/romosozumab/
 ---
 
 <p class="key-answer" data-question="Romosozumab 有什麼相關新聞？">
-<strong>Romosozumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Romosozumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/romosozumab/
 <p><a href="{{ '/drugs/romosozumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
 ### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NhazhqbVQ2Z0NHS1dNQ1JYSkpQTjhyLUxvcW5YUXhNN2ZGb3NDNlNtZU14djM4TmttWkJ5allGdklZYjc3UTdsamVJNlZWVlpvdkxybkd2SnpVMENNeVR6R1hUQVUxNF9ZZ3BMR1pCcWhuc3hTd295VXEtNmpvSnFYeVNGbXJ2MHBMaHZVbW5ieFJpUG1EQzdLU0hrbVBLYUVTU2VvUV9xV1Vfb0F4UjkwYw?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NhazhqbVQ2Z0NHS1dNQ1JYSkpQTjhyLUxvcW5YUXhNN2ZGb3NDNlNtZU14djM4TmttWkJ5allGdklZYjc3UTdsamVJNlZWVlpvdkxybkd2SnpVMENNeVR6R1hUQVUxNF9ZZ3BMR1pCcWhuc3hTd295VXEtNmpvSnFYeVNGbXJ2MHBMaHZVbW5ieFJpUG1EQzdLU0hrbVBLYUVTU2VvUV9xV1Vfb0F4UjkwYw?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
 
 ---
 
@@ -94,11 +86,35 @@ permalink: /news/romosozumab/
 
 ---
 
-### [Viszerales Fett senken: 10% weniger reduziert Diabetes-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1kzV3U5eTdJeDJzWmxLcEFzOWJsZzBwZGVKZmV5MEVNVGxaUVhQUUpySXBrVjdodXBtWkkxTDc0NFNaWUl6clBkVzRTV3luWGNRX1dPS3V4OHp3M0ppM1BDTXJXanZHdUh6SVY0R1E0VVhPRU9tUVh1ODR1eGYtY1RTRm92eGJWUFBKeWtmaHdRNHlSUi14ZlBRNzdoMm9mT0E?oc=5)
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[SuMédico](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+---
+
+### [Bauchfett-Reduktion: Zehn Prozent senken Diabetesrisiko um 28%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejEzY2NLQ2RPb0RvQ2Q2dmVUZXlNX3JlbHk5emJncFlVYUQ0WkM2WUhtbEo2TXVKRi10c3A0ODd1Q3VNMHpqbGZIc25NdU1KSkhqaVVHSnpnbDMtMGg4RE4zR1JQbnhwb0NMZzFGdVVITXlNdXNaU0FfWXliaG9YVE9GTExteHFfWWxUQ0VaSVJzX3pRUGNMbXh5eWE2SmhYZ0lFazJQbTdKUUtnd2lfdG93VjFyOTkw?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1kzV3U5eTdJeDJzWmxLcEFzOWJsZzBwZGVKZmV5MEVNVGxaUVhQUUpySXBrVjdodXBtWkkxTDc0NFNaWUl6clBkVzRTV3luWGNRX1dPS3V4OHp3M0ppM1BDTXJXanZHdUh6SVY0R1E0VVhPRU9tUVh1ODR1eGYtY1RTRm92eGJWUFBKeWtmaHdRNHlSUi14ZlBRNzdoMm9mT0E?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejEzY2NLQ2RPb0RvQ2Q2dmVUZXlNX3JlbHk5emJncFlVYUQ0WkM2WUhtbEo2TXVKRi10c3A0ODd1Q3VNMHpqbGZIc25NdU1KSkhqaVVHSnpnbDMtMGg4RE4zR1JQbnhwb0NMZzFGdVVITXlNdXNaU0FfWXliaG9YVE9GTExteHFfWWxUQ0VaSVJzX3pRUGNMbXh5eWE2SmhYZ0lFazJQbTdKUUtnd2lfdG93VjFyOTkw?oc=5)
+
+---
+
+### [Farmaci anti-diabete dimagranti, scatta l'allarme su olfatto e gusto. "I medici facciano attenzione" - Secolo d'Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdG1IX3hMVWdQMXJIQlJwNDk0RVRXT0J1azVIcmFmbEZrdDVuQnNfcktjaTlEYjVJeVhidWFSX3VDamZFb1UwazJBbUtnekFwWGZiNGltNjd4QThqNnRIR3loZF93SksyZDFmbDF3bVdxb3ZYWXdmOWU4MVRCcm9CUUlJRnBKTkNjQzRmTEJkLWFUOGVILS0wY250a2xVWXJRQVAxcTVoQXBPTV9YRzBjN3M2NTNIN2tzR1g3SF9VQUZ2WnJ0ZUFtdU5lZndWUQ?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabete</span>
+
+來源：[Secolo d'Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdG1IX3hMVWdQMXJIQlJwNDk0RVRXT0J1azVIcmFmbEZrdDVuQnNfcktjaTlEYjVJeVhidWFSX3VDamZFb1UwazJBbUtnekFwWGZiNGltNjd4QThqNnRIR3loZF93SksyZDFmbDF3bVdxb3ZYWXdmOWU4MVRCcm9CUUlJRnBKTkNjQzRmTEJkLWFUOGVILS0wY250a2xVWXJRQVAxcTVoQXBPTV9YRzBjN3M2NTNIN2tzR1g3SF9VQUZ2WnJ0ZUFtdU5lZndWUQ?oc=5)
+
+---
+
+### [Gürtelrose- und Zahnpasta-Ansätze: Neue Wege zur Alzheimer-Prävention - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
 
 ---
 
@@ -107,6 +123,14 @@ permalink: /news/romosozumab/
 2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
+
+---
+
+### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUdIB3AFBVV95cUxPR01JVUlfc2dKN21XMTZGYTZLZXVaTFFsX1lyQlkzcW9mODhNc3o4Yng3OThsaVFUMVh3M1h1QkxxaG8zbDBqYjJ2SFR6WjlhRlNVRW5JN0tSMkVFZkhMN2k4SEpBeFl5QklBRjAtWTVBaVk5YUd6eVVGaTc2dGQ5V3B0Tk0tcDMtQXZKSHlWdEx6Rk1XOVF1YW42ME9pbmNUSGwzMmVELVA2NTI2MGplLVlQV0EyM3JGZ2hHM1p3bkJhSnpLY1RfejZJZXNFNGlnOWRtVjI0TmdiSFhi?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Was tun, wenn bei einer Depression die Medikamente nicht wirken? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFZXMnB5ek8zZFlFSTdCbWx3UmpQS01CWHhoeHJWY3gwWDlrZlJmY0M4cHlFZlpXanRLNk01aEM2YTJtNUNUMUJfV3dSb3l5UGVuLUo2MVE2eUZsSG5aRzN6eHhEdndOazktYXBiZTZPdlduQXpoeVlWUTdQOWNyS0kwRmEweXlMOE5YYmtXR2lwUVJOekdzWks2eF9nZmlMc01WX0MwUC1UcWt3aExtOTB1VWZrb25J?oc=5)
 
 2026-06-27
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFZXMnB5ek8zZFlFSTdCbWx3UmpQS01CWHhoeHJWY3gwWDlrZlJmY0M4cHlFZlpXanRLNk01aEM2YTJtNUNUMUJfV3dSb3l5UGVuLUo2MVE2eUZsSG5aRzN6eHhEdndOazktYXBiZTZPdlduQXpoeVlWUTdQOWNyS0kwRmEweXlMOE5YYmtXR2lwUVJOekdzWks2eF9nZmlMc01WX0MwUC1UcWt3aExtOTB1VWZrb25J?oc=5)
+
+---
+
+### [Common Laxative May Help Reverse Depression-Related Brain Fog](https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1lCZ25QUXVJeXJBNkpkZzREcnZmcmtCMVJnakNXcUdMMGNxMVJYbTNVZ1h0SDdFSTRxZ2FEU29vWGlzenBzVGhidFNDemVqSWEyMnh0ZXItWGhEUGpzSVA3b0NicnBMczBxNi14Uk5JUGstU3BQaVBmOVFlMHVGdFNTbVRkdHB0aHVnQU9vekE?oc=5)
+
+2026-06-26
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1lCZ25QUXVJeXJBNkpkZzREcnZmcmtCMVJnakNXcUdMMGNxMVJYbTNVZ1h0SDdFSTRxZ2FEU29vWGlzenBzVGhidFNDemVqSWEyMnh0ZXItWGhEUGpzSVA3b0NicnBMczBxNi14Uk5JUGstU3BQaVBmOVFlMHVGdFNTbVRkdHB0aHVnQU9vekE?oc=5)
 
 ---
 
