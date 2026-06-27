@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Diabetes-Prävention: 28 Gramm Joghurt täglich senken Risiko um 18%](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWo1UzFFb0FfdHdvT2xBSWlXWF9ZVWdZWE9tS2JaM1RQd3JvSHdVMF9WaHlWbDhPU0ktYy1zQk5DNEQ4UnVlUjFnM0xCLWoxY1lTSHRnbVFKQi13VnFSRjJPM2VkblJ2Ung2VkpUWFdNbVRqZDNCODVvVUplcnBaZko1UExmQy1lN3N3bGE5RWpKUVM4WXpBVjBHckU2ejVPbVVIZ3EteXlJWUJIUE0wNDFvUUdndw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWo1UzFFb0FfdHdvT2xBSWlXWF9ZVWdZWE9tS2JaM1RQd3JvSHdVMF9WaHlWbDhPU0ktYy1zQk5DNEQ4UnVlUjFnM0xCLWoxY1lTSHRnbVFKQi13VnFSRjJPM2VkblJ2Ung2VkpUWFdNbVRqZDNCODVvVUplcnBaZko1UExmQy1lN3N3bGE5RWpKUVM4WXpBVjBHckU2ejVPbVVIZ3EteXlJWUJIUE0wNDFvUUdndw?oc=5)
+
+---
+
+### [Blutzucker-Normalisierung: 42 Prozent weniger Herzinfarkt- und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+
+---
+
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+
+---
 
 ### [Los pacientes EPOC, diana en la reducción de la mortalidad por VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
 
@@ -62,19 +86,27 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Bauchfett: 10% Reduktion senkt Diabetes-Risiko um 28%](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1NSDlOdnlpNWVFTUFTNkIwbzdjS1BqMlBleng5ZUFDZ2xMWkotLWhNdlFad1FkM29yTGhxWDJjcXNlbnU2SklQZ1BxWk94TXVpUVBFUUg5blZOTFRpUlVZekRDVUxYRHdQdFF0LXl5UFpnNUpoX3ZXODZEVUJmVjl4UnUwdW44WkZPcThxMEJueHhneFRseXFzRTFSV1pLYm9JNi15OVF2aERvcnh6TmxxOTNJQQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU1NSDlOdnlpNWVFTUFTNkIwbzdjS1BqMlBleng5ZUFDZ2xMWkotLWhNdlFad1FkM29yTGhxWDJjcXNlbnU2SklQZ1BxWk94TXVpUVBFUUg5blZOTFRpUlVZekRDVUxYRHdQdFF0LXl5UFpnNUpoX3ZXODZEVUJmVjl4UnUwdW44WkZPcThxMEJueHhneFRseXFzRTFSV1pLYm9JNi15OVF2aERvcnh6TmxxOTNJQQ?oc=5)
-
----
-
 ### [EMA: 6 neue Zulassungsempfehlungen, u.a. bei Typ-2-Diabetes, bei Morbus Parkinson und zum Schutz vor Influenza](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3lpVWg2NGpNeXgxSVJoQnpyZkpxVklFY3FuQ2l5YzFmVTBIbTRSdHlLdmtWRms3dGRtM1dMNTdqUC1iaEhVLXBPMHk3TWVSR2tleWJ1SHVJVVhkLWhSb05VX2lJS1pWcFI0WmpzZ0VwVnZRRWlWRjlLTFJ4YXVad1lSOXhzampWS0M1Zkd4ZWE3WVh3M1VDdkVRcVBCWkMxczlyZ1BDdWM0UUpCTHNfY0tjbTI3TnM?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3lpVWg2NGpNeXgxSVJoQnpyZkpxVklFY3FuQ2l5YzFmVTBIbTRSdHlLdmtWRms3dGRtM1dMNTdqUC1iaEhVLXBPMHk3TWVSR2tleWJ1SHVJVVhkLWhSb05VX2lJS1pWcFI0WmpzZ0VwVnZRRWlWRjlLTFJ4YXVad1lSOXhzampWS0M1Zkd4ZWE3WVh3M1VDdkVRcVBCWkMxczlyZ1BDdWM0UUpCTHNfY0tjbTI3TnM?oc=5)
+
+---
+
+### [Viszerales Fett senken: 10% weniger reduziert Diabetes-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1kzV3U5eTdJeDJzWmxLcEFzOWJsZzBwZGVKZmV5MEVNVGxaUVhQUUpySXBrVjdodXBtWkkxTDc0NFNaWUl6clBkVzRTV3luWGNRX1dPS3V4OHp3M0ppM1BDTXJXanZHdUh6SVY0R1E0VVhPRU9tUVh1ODR1eGYtY1RTRm92eGJWUFBKeWtmaHdRNHlSUi14ZlBRNzdoMm9mT0E?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1kzV3U5eTdJeDJzWmxLcEFzOWJsZzBwZGVKZmV5MEVNVGxaUVhQUUpySXBrVjdodXBtWkkxTDc0NFNaWUl6clBkVzRTV3luWGNRX1dPS3V4OHp3M0ppM1BDTXJXanZHdUh6SVY0R1E0VVhPRU9tUVh1ODR1eGYtY1RTRm92eGJWUFBKeWtmaHdRNHlSUi14ZlBRNzdoMm9mT0E?oc=5)
+
+---
+
+### [Gürtelrose- und Zahnpasta-Ansätze: Neue Wege zur Alzheimer-Prävention - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
+
+2026-06-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
 
 ---
 
@@ -91,14 +123,6 @@ permalink: /news/vedolizumab/
 2026-06-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
-
----
-
-### [Prädiabetes: Blutzucker-Normalisierung senkt Herzinfarkt-Risiko um 42%](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
 
 ---
 

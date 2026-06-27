@@ -14,7 +14,7 @@ permalink: /news/ertapenem-sodium/
 ---
 
 <p class="key-answer" data-question="Ertapenem Sodium 有什麼相關新聞？">
-<strong>Ertapenem Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ertapenem Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ertapenem-sodium/
 <p><a href="{{ '/drugs/ertapenem-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Lupus und Arthritis: CAR-T-Therapie bringt 90% in Remission](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
+
+2026-06-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
+
+---
 
 ### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
 

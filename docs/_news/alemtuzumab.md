@@ -14,7 +14,7 @@ permalink: /news/alemtuzumab/
 ---
 
 <p class="key-answer" data-question="Alemtuzumab 有什麼相關新聞？">
-<strong>Alemtuzumab</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alemtuzumab</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/alemtuzumab/
 <p><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（30 則）
 
-### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+### [Blutzucker-Normalisierung: 42 Prozent weniger Herzinfarkt- und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+
+---
+
+### [Brustkrebs-Schutz: GLP-1-Präparate senken Risiko um bis zu 35%](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXhWZ1ZzRnVjejlDSi1sQkwyWXYxeDF1RXZUd1lDLWcxeDdZdnNBTFZNLXhyS2lOVEJoQjBGVjZHLWxCVXFRWTFTUDlON05ubWUzaEZlNVlIQzZpaUpHa0lPLTJBV1NTaDBkdktoeG5JOVdXUGdWY0w2Y1d5LUJMOEdIVGg2MXRZZzRIam4zeDhld3MxVEdZUHdRZllaaG9SV0t4R1ljeU5HUGx6TEhpZjQ3ak1nc1VzZEE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXhWZ1ZzRnVjejlDSi1sQkwyWXYxeDF1RXZUd1lDLWcxeDdZdnNBTFZNLXhyS2lOVEJoQjBGVjZHLWxCVXFRWTFTUDlON05ubWUzaEZlNVlIQzZpaUpHa0lPLTJBV1NTaDBkdktoeG5JOVdXUGdWY0w2Y1d5LUJMOEdIVGg2MXRZZzRIam4zeDhld3MxVEdZUHdRZllaaG9SV0t4R1ljeU5HUGx6TEhpZjQ3ak1nc1VzZEE?oc=5)
+
+---
+
+### [Bizarre menopause symptoms, from dry eyes to electric shocks - & Dr Zoe's tips](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+
+---
+
+### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 ---
 
@@ -110,35 +134,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [GLP-1-Wirkstoffe: Brustkrebsrisiko bei Frauen um ein Drittel gesenkt](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lsYm5qQ01NRjEwZlczZDY5ei1DN2I4Q3c1OENrNkY4Y3Z2bm5BdVpqbUZ2WmExSlBFSnFkYmRRS2xCQmJpQkU1dktnTlEzNllQTTQ0YjliN2VuZDFSaFJRam5fbENQX2NIX1dmeHhkZ0FqOUpLU09WN1lzWXBxWGZFLUtSTDFlTURWRC0wM1RQSl9iVTJuZUxPcV9rN2hEUzhoNFJiMDU1dEF4MWZpZmxSd2Z6ZkU?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lsYm5qQ01NRjEwZlczZDY5ei1DN2I4Q3c1OENrNkY4Y3Z2bm5BdVpqbUZ2WmExSlBFSnFkYmRRS2xCQmJpQkU1dktnTlEzNllQTTQ0YjliN2VuZDFSaFJRam5fbENQX2NIX1dmeHhkZ0FqOUpLU09WN1lzWXBxWGZFLUtSTDFlTURWRC0wM1RQSl9iVTJuZUxPcV9rN2hEUzhoNFJiMDU1dEF4MWZpZmxSd2Z6ZkU?oc=5)
-
----
-
-### [Alzheimer: Patientin mit Pilzen zurückgeholt - Apotheke Adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">MS</span>
-
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
-
----
-
-### [I was told my mole wasn’t cancer. Two years later I had a secondary tumour the size of a melon](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
+### [I was told my mole wasn’t cancer. Two years later I had a secondary tumour the size of a melon - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">cancer</span>
 
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
 
 ---
 
-### [Horrifying plague of 'zombie squirrels' with oozing tumours invade US gardens - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5SZHRSeloxUTRmVmRJQWZHM0U1VGJyZG9LVUEyRHFaallFNVNKVWUxVHpfaTJhNTV1MGVlVERlM3RMMnR4UDV5VUZ6SFMyLXlTUDRZSm1HQk1qNVhxdW0zQkFIc1c4N0ItR0JsX29Ud0lSUEtBYVd6NU9sVWNPZGprV0FBbWRFNzFvMDVobw?oc=5)
+### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2pOcGpEZE85aVhzQkdsZWlhSXNsUWNlM3M5WDduLTRZX1JQX25fM3V3WE44YkJrT29Zbjh3WHdod3JwNGpRQm1Ia0EzUWR2Q1MzaHZEUVpWemtuYlZmUWJUNzdZTEoweUt0UFVycm1kcF9pejZPWXRNVjhGWFByR0FEay01OUp6dS1MbDlUZ3F3M3dONVRmejd5YnN3cGpkOHBhTTdsQ3g2VllxdFFvcUNUX2lXeUNsc3NzaEluMlc0UWVPVUY1OXhR?oc=5)
 
-2026-06-26 <span class="news-indication-tag">tumour</span>
+2026-06-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5SZHRSeloxUTRmVmRJQWZHM0U1VGJyZG9LVUEyRHFaallFNVNKVWUxVHpfaTJhNTV1MGVlVERlM3RMMnR4UDV5VUZ6SFMyLXlTUDRZSm1HQk1qNVhxdW0zQkFIc1c4N0ItR0JsX29Ud0lSUEtBYVd6NU9sVWNPZGprV0FBbWRFNzFvMDVobw?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2pOcGpEZE85aVhzQkdsZWlhSXNsUWNlM3M5WDduLTRZX1JQX25fM3V3WE44YkJrT29Zbjh3WHdod3JwNGpRQm1Ia0EzUWR2Q1MzaHZEUVpWemtuYlZmUWJUNzdZTEoweUt0UFVycm1kcF9pejZPWXRNVjhGWFByR0FEay01OUp6dS1MbDlUZ3F3M3dONVRmejd5YnN3cGpkOHBhTTdsQ3g2VllxdFFvcUNUX2lXeUNsc3NzaEluMlc0UWVPVUY1OXhR?oc=5)
 
 ---
 
@@ -163,6 +171,14 @@ permalink: /news/alemtuzumab/
 2026-06-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
+
+---
+
+### [Doctor issues mosquito warning amid UK heatwave - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
 
 ---
 
@@ -192,7 +208,7 @@ permalink: /news/alemtuzumab/
 
 ### [Nuove cure a disposizione per i tumori del sistema linfatico, leucemia linfatica cronica e linfoma mantellare - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
-2026-06-26 <span class="news-indication-tag">tumor</span>
+2026-06-26 <span class="news-drug-tag">Acalabrutinib</span> <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
@@ -206,19 +222,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Prädiabetes: Blutzucker-Normalisierung senkt Herzinfarkt-Risiko um 42%](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
-
----
-
 ### [Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">cancer</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaW80WXZLQlNFdGtrQVVhY1NKaVNMWjJQQmFoSFZQMzAyODlWSi1POHdOeGt1TGlldGEtUmVmVEQ5czFqWHJybFJUMmFfdWRmRWhkOVRBblo3b1pmQ1l1SWZmY2h0NXFZRmtIWkNISFpqZUNNak1pNERkNEktVkxkQUU0eGJEVXhfbGxYNThUOWNuamVfbWpiYk01WWVZbE55S1o3OQ?oc=5)
+
+---
+
+### [Taking high-dose vitamin D daily over the long term helps reduce MS relapses - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxRMF85Q3Ewcl9jSU1qdDZNVjFRMEhlUGxmc2tieWRLNjJSanctM3NLR0Q3bVZQLWQyNVlWWkRNclVkSGkyYXhQdU1VRlFPUHptaExRbmpZOFUteFV1X1BTREtENmtLRHdoYjhaTDZmekVOWUY2TGVtQy1NMmZCZlhzTk9rQW5IRjRmNlJLeHlIT29DRzNMLS1IM2EzU3k2T1VIMnpYUEdWaDU2M01HSFkwNEFWNmJTRy1xSnhQMl9BUQ?oc=5)
+
+2026-06-25 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxRMF85Q3Ewcl9jSU1qdDZNVjFRMEhlUGxmc2tieWRLNjJSanctM3NLR0Q3bVZQLWQyNVlWWkRNclVkSGkyYXhQdU1VRlFPUHptaExRbmpZOFUteFV1X1BTREtENmtLRHdoYjhaTDZmekVOWUY2TGVtQy1NMmZCZlhzTk9rQW5IRjRmNlJLeHlIT29DRzNMLS1IM2EzU3k2T1VIMnpYUEdWaDU2M01HSFkwNEFWNmJTRy1xSnhQMl9BUQ?oc=5)
 
 ---
 
@@ -230,14 +246,6 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [NHS expands BRCA testing for Ashkenazi Jewish cancer risk into permanent program - The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xR3VhbDlCbmJJdHE2SnlUeVFCZzZJYVdEOWxIeG5hcnVuMDV0Z0F3SUg4c282UU9zMFpMNzRqUzhaZF9aUjFZNER3aDUzRzRCRjlMcUQ5WHpycmI1YUdXai1oVFZWRWc?oc=5)
-
-2026-06-25 <span class="news-indication-tag">cancer</span>
-
-來源：[The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xR3VhbDlCbmJJdHE2SnlUeVFCZzZJYVdEOWxIeG5hcnVuMDV0Z0F3SUg4c282UU9zMFpMNzRqUzhaZF9aUjFZNER3aDUzRzRCRjlMcUQ5WHpycmI1YUdXai1oVFZWRWc?oc=5)
-
----
-
 ### [Europa da luz verde a tolebrutinib, un fármaco para detener el avance de la esclerosis múltiple - Diario Córdoba](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWTlGWlliSEhhQmt0R0t1ZmozR09IVjJiS1cyWFpJRkxLaUh4RTRobTNBeUkwLTBuR0pvSktpUmxzQ1BIZU94X3BEd3Q1V0xQS2lKNkFlVTV3WGx1cGwxb08xVlVrTWFSLWNhTjc4Qzd6ckdiZlNDM0ZhYnRsYmwzamtpRWo0YlI0WDVOTUlZQzhYeE1LOGMwWVlyT0pnZ0t1Nmp6VGdoRndDZ0p0d0E0c0JVT2F4VU5tLW4tRmM3WlVyR3dJQnFQMDNCcGZaa1lSdVl3Z0lVc9IB3AFBVV95cUxNT2wwLVd0VEhoX3gzRkxMWXZMWUJTcTBJY0lNTzVNQ2MyR3pxeW1TYlJ5TmtwU056R2NINEU5enRQNEtXUlB3QzdrQ3YyLWRibkk2RmQ0al9yek50Y1I0QUljTWlTMHNuX0tmeVp3YTgyQXgwUmhFWTk5SV9NZ1pjRl9vQS1WLVNCd2N4UWlvZjNMX09ENHBXcHVyRUhRdjc3cFpwZHZuTkpDU1M1eUN6ZUJpeWQ1cXBmSTBUcktKSFl4Zm9RaFlyMHp4ZWpYMlAwdWJ6MnZxbW84TGpz?oc=5)
 
 2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -246,19 +254,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [The octopus-like nanobots that can attack and kill cancer cells](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXhZcVlUdEtzMWEwM0wyazJhLU03QTVLYXNVVV9UamhUajVEa1lCMEx4UXBmTjA2d09wNWlDdXNtM3dSa3B3d0ZZYU9Wb0RObkM3a2VPQTFBMFBweGpYQmFSWTA4MUtCTC03eExvR2Z6UE9PaWJDNHE3akM5SG8wUy1RRUVaZktKQ2VxZjJNMFh6dTgtQUHSAZsBQVVfeXFMTzJqb1p6MmQ2LTI3X0lQMGJ2V3RHLTNmMTlIazl0NGdnNzJqcnA0NFh1Xzk1WGtJYS1pb3Z6MUFYSm9INWhwTkZhTldKOFRBWldWMm5MYk9XX0E1UE4wVFF0SDA5NGUzSUVhbl80OGdUNlJTay1xczRFVTBwdXpyWW8zUnpxMlMyb1ZZRjRtbVlPQkstZXJqVk9sUWs?oc=5)
-
-2026-06-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXhZcVlUdEtzMWEwM0wyazJhLU03QTVLYXNVVV9UamhUajVEa1lCMEx4UXBmTjA2d09wNWlDdXNtM3dSa3B3d0ZZYU9Wb0RObkM3a2VPQTFBMFBweGpYQmFSWTA4MUtCTC03eExvR2Z6UE9PaWJDNHE3akM5SG8wUy1RRUVaZktKQ2VxZjJNMFh6dTgtQUHSAZsBQVVfeXFMTzJqb1p6MmQ2LTI3X0lQMGJ2V3RHLTNmMTlIazl0NGdnNzJqcnA0NFh1Xzk1WGtJYS1pb3Z6MUFYSm9INWhwTkZhTldKOFRBWldWMm5MYk9XX0E1UE4wVFF0SDA5NGUzSUVhbl80OGdUNlJTay1xczRFVTBwdXpyWW8zUnpxMlMyb1ZZRjRtbVlPQkstZXJqVk9sUWs?oc=5)
-
----
-
 ### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
 
 2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
+
+---
+
+### [Studie bezweifelt Nutzen von Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUxNdS1GZWhhdDJreEk2Z2NaT0lxMUJQczBuR0VHN2VOZ3cwcGtlUGlBOENLSTZjN2JybFJxZ05VcVB5Wk1uM1R2SU82N0p1eUI5VENkNmFhQVRuRDJxbU9QTWc4QlJUNHFFU1dhVFk5Y000UXl2OFFqcWdGTTRTRi03Ql9tQkZlMjZjRmZtU2dhMG9fdTA3Ql85QTRISWNlZzhwRGpwTW5wbkwtR00yNWRzalU0RV9wUVFtdg?oc=5)
+
+2026-06-25 <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUxNdS1GZWhhdDJreEk2Z2NaT0lxMUJQczBuR0VHN2VOZ3cwcGtlUGlBOENLSTZjN2JybFJxZ05VcVB5Wk1uM1R2SU82N0p1eUI5VENkNmFhQVRuRDJxbU9QTWc4QlJUNHFFU1dhVFk5Y000UXl2OFFqcWdGTTRTRi03Ql9tQkZlMjZjRmZtU2dhMG9fdTA3Ql85QTRISWNlZzhwRGpwTW5wbkwtR00yNWRzalU0RV9wUVFtdg?oc=5)
 
 ---
 
@@ -278,27 +286,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Woman, 45, given weeks to live after falling ill on holiday in Turkey - Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
-
-2026-06-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
-
----
-
 ### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
-
----
-
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
-
-2026-06-25 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
 
 ---
 

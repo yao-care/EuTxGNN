@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Lupus und Arthritis: CAR-T-Therapie bringt 90% in Remission](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
+
+2026-06-25
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
+
+---
 
 ### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
 

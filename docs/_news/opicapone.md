@@ -54,11 +54,11 @@ permalink: /news/opicapone/
 
 ## 相關新聞（1 則）
 
-### [Can the viral 'pinky time' trick ward off dementia? Doctor reveals the brain science behind effortless daily habit - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
+### [Can the viral 'pinky time' trick ward off dementia? Doctor reveals the brain science behind effortless daily habit](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
 
 2026-06-25 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDJEMnpVYTA3ODNLNnhLVGZFdmR0X2NQTGQxcDVwbVExQzJ6VVA0YVpZMG5YQVB5dnpNRGFuaXVkYjExQUZ2VVdobUhyZ0xiMnBKMGRKcmVLWGZpR2xhbGpBajNHOUVYdnc5dEZWWDB0NDJLeUl1c0VqY1prVmdaRUlhcTNMNVN4dmplM2x4TVJCeFJKMnhhemRzUVY?oc=5)
 
 ---
 

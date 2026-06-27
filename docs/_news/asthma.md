@@ -85,11 +85,11 @@ permalink: /news/asthma/
 
 ---
 
-### [Darmflora: Hefepilz Malassezia erhöht Neurodermitis-Risiko bei Säuglingen](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
+### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 
 2026-06-25
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 
 ---
 

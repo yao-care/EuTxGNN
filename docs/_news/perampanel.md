@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li>epilepsy（99.0%）</li>
+<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 Epilepsie</span></li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,9 +52,15 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [EQS-News: EAN-Kongress: Die Nutzung von Hörgeräten ist bei Menschen, die sowohl an Epilepsie als auch an Hörverlust leiden, mit einem um 23 % geringeren Demenzrisiko verbunden](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPUzFqNml5NXpNSTFIV3NBcGd6OUtmN25LNEZIY3RBMHNiN2N5V0prOUh2ekIwOFRCOU5wYkhKS0VXaEtWelBLMFpub2lhWGY0M2RqUC12MzRDOU1LNmNSdE1waDZoeHZkenVEVUNiZ0tCTGJ5aElfZWR1Rll3STNtYnE1Wk9RdDdTTWtUQjd5UVM3QlFTNEJUUG1nemQzdHh2XzFySldQUThmMEJJWEUxTlk2b25CenE3NUpGa2tad3Q0RkpuRExyRzh2QjNVNlNWdlNwb0RHWUlWbl9lVW1xM1ZrNHdMR25lazlLMEVULXQ4bVl0N3QweEFMd0lBTnJCVXNTM0ZSZnlJUG9sdEEydW9QdFFQMmd4NC12dmNCRXFfUWh2cWUxX3ctYVYxSzZDS1d6VDRKRWlfQ1B2MU5DamtRNU9URFNo?oc=5)
+
+2026-06-26 <span class="news-indication-tag">Epilepsie</span>
+
+來源：[Onvista](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPUzFqNml5NXpNSTFIV3NBcGd6OUtmN25LNEZIY3RBMHNiN2N5V0prOUh2ekIwOFRCOU5wYkhKS0VXaEtWelBLMFpub2lhWGY0M2RqUC12MzRDOU1LNmNSdE1waDZoeHZkenVEVUNiZ0tCTGJ5aElfZWR1Rll3STNtYnE1Wk9RdDdTTWtUQjd5UVM3QlFTNEJUUG1nemQzdHh2XzFySldQUThmMEJJWEUxTlk2b25CenE3NUpGa2tad3Q0RkpuRExyRzh2QjNVNlNWdlNwb0RHWUlWbl9lVW1xM1ZrNHdMR25lazlLMEVULXQ4bVl0N3QweEFMd0lBTnJCVXNTM0ZSZnlJUG9sdEEydW9QdFFQMmd4NC12dmNCRXFfUWh2cWUxX3ctYVYxSzZDS1d6VDRKRWlfQ1B2MU5DamtRNU9URFNo?oc=5)
+
+---
 
 
 <div class="disclaimer">

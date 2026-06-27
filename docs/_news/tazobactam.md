@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La alimentación, el uso responsable de antibióticos y los hábitos saludables son claves para proteger la microbiota infantil - Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/tazobactam/
 
 ---
 
-### [Darmflora: Hefepilz Malassezia erhöht Neurodermitis-Risiko bei Säuglingen](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
+### [Lupus und Arthritis: CAR-T-Therapie bringt 90% in Remission](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
 
-2026-06-25 <span class="news-indication-tag">asthma</span>
+2026-06-25 <span class="news-indication-tag">arthritis</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
+
+---
+
+### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
+
+2026-06-25 <span class="news-indication-tag">asma</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 
 ---
 

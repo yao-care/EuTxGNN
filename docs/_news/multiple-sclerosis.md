@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+### [Bizarre menopause symptoms, from dry eyes to electric shocks - & Dr Zoe's tips](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
 
 2026-06-26
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+
+---
+
+### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+
+2026-06-26
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 ---
 
@@ -88,11 +96,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Alzheimer: Patientin mit Pilzen zurückgeholt - Apotheke Adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
+### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2pOcGpEZE85aVhzQkdsZWlhSXNsUWNlM3M5WDduLTRZX1JQX25fM3V3WE44YkJrT29Zbjh3WHdod3JwNGpRQm1Ia0EzUWR2Q1MzaHZEUVpWemtuYlZmUWJUNzdZTEoweUt0UFVycm1kcF9pejZPWXRNVjhGWFByR0FEay01OUp6dS1MbDlUZ3F3M3dONVRmejd5YnN3cGpkOHBhTTdsQ3g2VllxdFFvcUNUX2lXeUNsc3NzaEluMlc0UWVPVUY1OXhR?oc=5)
 
 2026-06-26
 
-來源：[Apotheke Adhoc](https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVl4WVg2UFVjb1llR1pPT0pkaDU1Qk5UVUV2Tm5xYXdMcGlKWG02dEVoN091WkxKbnFOdWR2RWNYdHIwTVB4RDdYNk95VURDWXdScktXU2VLaU5OdXZOQWczdzBYR29CZ2JuU3o0ZzRWbi1qWmN0X2tocDF0OWpEQmx1Vy0wU2c1YVNFSS04QmZ6eklMZ2VoQVJfM29hQTFvZnktb0Jsaw?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2pOcGpEZE85aVhzQkdsZWlhSXNsUWNlM3M5WDduLTRZX1JQX25fM3V3WE44YkJrT29Zbjh3WHdod3JwNGpRQm1Ia0EzUWR2Q1MzaHZEUVpWemtuYlZmUWJUNzdZTEoweUt0UFVycm1kcF9pejZPWXRNVjhGWFByR0FEay01OUp6dS1MbDlUZ3F3M3dONVRmejd5YnN3cGpkOHBhTTdsQ3g2VllxdFFvcUNUX2lXeUNsc3NzaEluMlc0UWVPVUY1OXhR?oc=5)
 
 ---
 
@@ -101,6 +109,22 @@ permalink: /news/multiple-sclerosis/
 2026-06-26
 
 來源：[Universitätsklinikum Tübingen](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXc2QzgtdVBpYnVaZjd6dTVVOHVERENmTXhiNnZIXzdFUkl3V3ZQdGN1WWltOHR0MXVmU0szQVp4bnRZTnBMeVM4SHZmS3Azb2JPb0RCR1FMSmJwWktxYjVhMUN0Q0RQWDRqUzlyR0lSRGJ0WjBuc1RwM0h3Q2V4RTFsaFZ5Ym8?oc=5)
+
+---
+
+### [Doctor issues mosquito warning amid UK heatwave - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
+
+2026-06-26
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
+
+---
+
+### [Taking high-dose vitamin D daily over the long term helps reduce MS relapses - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxRMF85Q3Ewcl9jSU1qdDZNVjFRMEhlUGxmc2tieWRLNjJSanctM3NLR0Q3bVZQLWQyNVlWWkRNclVkSGkyYXhQdU1VRlFPUHptaExRbmpZOFUteFV1X1BTREtENmtLRHdoYjhaTDZmekVOWUY2TGVtQy1NMmZCZlhzTk9rQW5IRjRmNlJLeHlIT29DRzNMLS1IM2EzU3k2T1VIMnpYUEdWaDU2M01HSFkwNEFWNmJTRy1xSnhQMl9BUQ?oc=5)
+
+2026-06-25
+
+來源：[Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmxRMF85Q3Ewcl9jSU1qdDZNVjFRMEhlUGxmc2tieWRLNjJSanctM3NLR0Q3bVZQLWQyNVlWWkRNclVkSGkyYXhQdU1VRlFPUHptaExRbmpZOFUteFV1X1BTREtENmtLRHdoYjhaTDZmekVOWUY2TGVtQy1NMmZCZlhzTk9rQW5IRjRmNlJLeHlIT29DRzNMLS1IM2EzU3k2T1VIMnpYUEdWaDU2M01HSFkwNEFWNmJTRy1xSnhQMl9BUQ?oc=5)
 
 ---
 
@@ -128,27 +152,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Studie bezweifelt Nutzen von Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUxNdS1GZWhhdDJreEk2Z2NaT0lxMUJQczBuR0VHN2VOZ3cwcGtlUGlBOENLSTZjN2JybFJxZ05VcVB5Wk1uM1R2SU82N0p1eUI5VENkNmFhQVRuRDJxbU9QTWc4QlJUNHFFU1dhVFk5Y000UXl2OFFqcWdGTTRTRi03Ql9tQkZlMjZjRmZtU2dhMG9fdTA3Ql85QTRISWNlZzhwRGpwTW5wbkwtR00yNWRzalU0RV9wUVFtdg?oc=5)
+
+2026-06-25
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUxNdS1GZWhhdDJreEk2Z2NaT0lxMUJQczBuR0VHN2VOZ3cwcGtlUGlBOENLSTZjN2JybFJxZ05VcVB5Wk1uM1R2SU82N0p1eUI5VENkNmFhQVRuRDJxbU9QTWc4QlJUNHFFU1dhVFk5Y000UXl2OFFqcWdGTTRTRi03Ql9tQkZlMjZjRmZtU2dhMG9fdTA3Ql85QTRISWNlZzhwRGpwTW5wbkwtR00yNWRzalU0RV9wUVFtdg?oc=5)
+
+---
+
 ### [Surrey woman took part in cervical cancer immunotherapy trial](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV3UzV3pXcVBfSGhuY1hoSzB0M1lidTZfUkh6OWtIUENBZnBadGZ2b2JsS2NpMDlDN1cxUi1raGdwVkFsNG5vWUJsbjdzTm1BVVk5eVg2SW1EZS1s?oc=5)
 
 2026-06-25
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV3UzV3pXcVBfSGhuY1hoSzB0M1lidTZfUkh6OWtIUENBZnBadGZ2b2JsS2NpMDlDN1cxUi1raGdwVkFsNG5vWUJsbjdzTm1BVVk5eVg2SW1EZS1s?oc=5)
-
----
-
-### [Woman, 45, given weeks to live after falling ill on holiday in Turkey - Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
-
-2026-06-25
-
-來源：[Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
-
----
-
-### [Blutdruck-Paradox: Studie legt neuen Zusammenhang mit Alzheimer nahe - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
-
-2026-06-25
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUnZ0Zm1kN2RzTng3SnlsX2dUMnR4RktwVGh1d2lhZmhwbnNRN0VobGY2Rk44d0JfeWhVRGpjSy1icjhjV3F5cEFOQk0taGtwYmdoNm9MdnlDYUwzZS1ueFZJZzh0VXBxaGJyeW1WakRUWnFPbl9uWDNCdEt3LUxYcVFhSVBjbHRSS0YwMVYxMDB0amFKNVJmWE10ZjlieDBoMWVydmF1aHQzMnVSZTZlYw?oc=5)
 
 ---
 

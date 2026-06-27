@@ -14,7 +14,7 @@ permalink: /news/ganirelix-acetate/
 ---
 
 <p class="key-answer" data-question="Ganirelix Acetate 有什麼相關新聞？">
-<strong>Ganirelix Acetate</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ganirelix Acetate</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/ganirelix-acetate/
 <p><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（23 則）
 
-### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
-
----
-
-### [Infecciones, ansiedad, infartos: el rastro que un terremoto deja después del temblor](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTkVKYjJsWE10eVBnSVhCVXdYNXM0QkRfMC1EcVNTRXowcEZidXVtQzVoQTRWNkRIOTQ3UHc2MjZ0YUlUSTlWSWd6NXB6cXNHYlVSVUZpQ25WOUR0c1BxbEJIWWZCbXl4WE1kazM3UjdHX0JUbGxrQk9fR2JyZzUyeXlpMEx3MkhQZmN3MkZCYlBHU2M5NXE2MllJRVV3UklHRDkyY0ZOb0d1ZzNrNmN6VDluR3VsaE1qQjJ2V1M3a21EdFFiWnNhVWRzWEI4WG84TUk1ZnM0TkNRdGZmY190aDhDT2RYQ3FZN3ZlVlJxOUlKYjNUZmNJ0gH3AUFVX3lxTE83VDNCU2FrWjlzdE5mWnZuclRlY3pFNkFQS0dIeUhGeWJPeVRZMVgzaUh3RF9oQUxRVzlqYTJfeUl6VXhTY3ZHdEdhdW54VjhQVFYtdVJ0UW9EZXluaGFJRy03NUNaZG04QjFoOWZUdE5KQlZrbF9MVDZUODVvQzdUYzBnbmhNVkZfX2I3VTdWTlBPcEdoeHo5VUhfSTBmNTR0dmpyUWRhUUR6YkNIWnZYMm1MblRpU0c0SVh1OHU0SURkYVNUS09memxaOUNrWUtaMXBzZFA4TUZKR0dkTy16dzQzQU1TUlJ4ajAtaWwxNktUaWdPaDg?oc=5)
-
-2026-06-26 <span class="news-indication-tag">AF</span>
-
-來源：[LaSexta](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTkVKYjJsWE10eVBnSVhCVXdYNXM0QkRfMC1EcVNTRXowcEZidXVtQzVoQTRWNkRIOTQ3UHc2MjZ0YUlUSTlWSWd6NXB6cXNHYlVSVUZpQ25WOUR0c1BxbEJIWWZCbXl4WE1kazM3UjdHX0JUbGxrQk9fR2JyZzUyeXlpMEx3MkhQZmN3MkZCYlBHU2M5NXE2MllJRVV3UklHRDkyY0ZOb0d1ZzNrNmN6VDluR3VsaE1qQjJ2V1M3a21EdFFiWnNhVWRzWEI4WG84TUk1ZnM0TkNRdGZmY190aDhDT2RYQ3FZN3ZlVlJxOUlKYjNUZmNJ0gH3AUFVX3lxTE83VDNCU2FrWjlzdE5mWnZuclRlY3pFNkFQS0dIeUhGeWJPeVRZMVgzaUh3RF9oQUxRVzlqYTJfeUl6VXhTY3ZHdEdhdW54VjhQVFYtdVJ0UW9EZXluaGFJRy03NUNaZG04QjFoOWZUdE5KQlZrbF9MVDZUODVvQzdUYzBnbmhNVkZfX2I3VTdWTlBPcEdoeHo5VUhfSTBmNTR0dmpyUWRhUUR6YkNIWnZYMm1MblRpU0c0SVh1OHU0SURkYVNUS09memxaOUNrWUtaMXBzZFA4TUZKR0dkTy16dzQzQU1TUlJ4ajAtaWwxNktUaWdPaDg?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 ---
 
@@ -102,11 +94,19 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Urgent holiday warning for measles outbreak on Spanish island as Brit boy falls ill at hotel & fears hundreds at risk - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWVfOXlOOWtybHktQlJLS0JsM2hzakMtTUZpR2tWUGxqVVA4a1JjcmJHamY2cmxOWkNGNkZ4YUQ0WmtSZVY0eUFfYmRRcmhEemZXRE1wOUJJT2s3XzVkelJSajFDMUlhYjJHTVlZN3JET2tHQ21WQnVOeU1DZ00xb2tYOHlqTHdZUEdTOXJn?oc=5)
+### [Urgent holiday warning for measles outbreak on Spanish island as Brit boy falls ill at hotel & fears hundreds at risk](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWVfOXlOOWtybHktQlJLS0JsM2hzakMtTUZpR2tWUGxqVVA4a1JjcmJHamY2cmxOWkNGNkZ4YUQ0WmtSZVY0eUFfYmRRcmhEemZXRE1wOUJJT2s3XzVkelJSajFDMUlhYjJHTVlZN3JET2tHQ21WQnVOeU1DZ00xb2tYOHlqTHdZUEdTOXJn?oc=5)
 
 2026-06-26 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWVfOXlOOWtybHktQlJLS0JsM2hzakMtTUZpR2tWUGxqVVA4a1JjcmJHamY2cmxOWkNGNkZ4YUQ0WmtSZVY0eUFfYmRRcmhEemZXRE1wOUJJT2s3XzVkelJSajFDMUlhYjJHTVlZN3JET2tHQ21WQnVOeU1DZ00xb2tYOHlqTHdZUEdTOXJn?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWVfOXlOOWtybHktQlJLS0JsM2hzakMtTUZpR2tWUGxqVVA4a1JjcmJHamY2cmxOWkNGNkZ4YUQ0WmtSZVY0eUFfYmRRcmhEemZXRE1wOUJJT2s3XzVkelJSajFDMUlhYjJHTVlZN3JET2tHQ21WQnVOeU1DZ00xb2tYOHlqTHdZUEdTOXJn?oc=5)
+
+---
+
+### [Un cardiólogo comparte los siete consejos que sigue para proteger el corazón durante una ola de calor - Diario AS](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTmszamlMVTVlajJEQjUtOWtmVXozeTBVSlR3X0ZpVWZkcC1DOFpaeGlUNjlDa0xRQkdTSHlHeHloVmRaS3N6c1ZyZjF3cW55S2pMc2VsdDdqejRueThibkZxajZOVGU1aDFfallzdXBVRVNEeVI1YVBkYVV1N1Q5ME5ZNEZIaVQ1MWF3V2lDY21CQ1c2ZmQ2S2RnN2ZUZUtWaC1xZzBJZkxoQW1vRkRoVndSRkt2bkFvNXZlazBwdjZ2TnB1dEJUOWdta2VsODRnRy1uMHlTaW1SWU3SAe8BQVVfeXFMTk5kNGdSeUwwSi0xOE5tNjBMejcwamxFdi1odWo4YVNXODM4eWxtLUZsYXAxeGFyZ2xWSjF6ZHhWdUk0d2RwNFl1d2FhVm5Pb09ZQWg5QloyM3lXMmtwSy1OLWdfUmpQZ0lzZ2xFMEJ4czh1N19sb3prZ2FuQ3dvejY5SE5QQkhxdThURlpJaUZEUUxTRWFkQzZ5RHI4Q24ySWZQRkJsTkZjVl92NEFVQ2d6ell1UVhqSWNYTTdYb3pYbGNsSlhndVBUMS1ZcVFHby1CRHNmLTVUWHZLSjRFUnMxYU9Hc05QWmlid0ZTMWc?oc=5)
+
+2026-06-26 <span class="news-indication-tag">AF</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTmszamlMVTVlajJEQjUtOWtmVXozeTBVSlR3X0ZpVWZkcC1DOFpaeGlUNjlDa0xRQkdTSHlHeHloVmRaS3N6c1ZyZjF3cW55S2pMc2VsdDdqejRueThibkZxajZOVGU1aDFfallzdXBVRVNEeVI1YVBkYVV1N1Q5ME5ZNEZIaVQ1MWF3V2lDY21CQ1c2ZmQ2S2RnN2ZUZUtWaC1xZzBJZkxoQW1vRkRoVndSRkt2bkFvNXZlazBwdjZ2TnB1dEJUOWdta2VsODRnRy1uMHlTaW1SWU3SAe8BQVVfeXFMTk5kNGdSeUwwSi0xOE5tNjBMejcwamxFdi1odWo4YVNXODM4eWxtLUZsYXAxeGFyZ2xWSjF6ZHhWdUk0d2RwNFl1d2FhVm5Pb09ZQWg5QloyM3lXMmtwSy1OLWdfUmpQZ0lzZ2xFMEJ4czh1N19sb3prZ2FuQ3dvejY5SE5QQkhxdThURlpJaUZEUUxTRWFkQzZ5RHI4Q24ySWZQRkJsTkZjVl92NEFVQ2d6ell1UVhqSWNYTTdYb3pYbGNsSlhndVBUMS1ZcVFHby1CRHNmLTVUWHZLSjRFUnMxYU9Hc05QWmlid0ZTMWc?oc=5)
 
 ---
 
@@ -118,27 +118,19 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [Aberdeen hospital staff came into contact with hazardous bacteria](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByczFibEFuZmltbFZRNGxva2RJRGdhWVJGM2dzNmRVd0hPZzZrN1hfcEpBU0JSX0hFR1VWTXg4eFNyVEVxYW5raldDWTJVV0xpWlpaVU1UWndJMFRt?oc=5)
-
-2026-06-26 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByczFibEFuZmltbFZRNGxva2RJRGdhWVJGM2dzNmRVd0hPZzZrN1hfcEpBU0JSX0hFR1VWTXg4eFNyVEVxYW5raldDWTJVV0xpWlpaVU1UWndJMFRt?oc=5)
-
----
-
-### [Anticuerpos biespecíficos y CAR-T muestran resultados prometedores en esclerodermia](https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3dQRTQ2bm1TMlA4blduYlVvbV90ZTVWblJOelF1LW5KVEZDNkFuak9oLVR4V3hWYnloVE1jNnZKVjR4dXp5X0JNellxTkh3OTBScVBoM3dLYTdVSFM0UmR2RXV1aHhNVXNPTnJNSl90ZEJGX0xIZnFiY2VBeV8yN0lfRVZsVDh0bVFKYi1WbG92SWx0TjNGc3dlaE9SdUk0b05PSER6dEhoeTJ6QTlMQmZGYkhRODdkUkp1ZDI5TElITVBKWXc?oc=5)
-
-2026-06-26 <span class="news-indication-tag">AF</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3dQRTQ2bm1TMlA4blduYlVvbV90ZTVWblJOelF1LW5KVEZDNkFuak9oLVR4V3hWYnloVE1jNnZKVjR4dXp5X0JNellxTkh3OTBScVBoM3dLYTdVSFM0UmR2RXV1aHhNVXNPTnJNSl90ZEJGX0xIZnFiY2VBeV8yN0lfRVZsVDh0bVFKYi1WbG92SWx0TjNGc3dlaE9SdUk0b05PSER6dEhoeTJ6QTlMQmZGYkhRODdkUkp1ZDI5TElITVBKWXc?oc=5)
-
----
-
 ### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
 
 2026-06-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
+
+---
+
+### [Hospital lab staff exposed to biological agent which can cause severe disease - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU1qRTN0bHoyZmlOZ1hRdWVudmNqXzNVaUdMWmsxbW5PYXg2MWVqOGNaQ0xmYWRidjhCR282T0N2MVZZLVppa2prTGw5ajM4aU1RWWdMRVBRcmhwOGtZTDc5RVg0Tkx6WVF5d09OcXhiZG1TTlRUWHM5cUJsNzFScGprallKb3ZSQzVBSGstU0Nmb2pwTzAwSHp2TzJYbThScTU4NDB0TWJDZ0E?oc=5)
+
+2026-06-26 <span class="news-indication-tag">AF</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU1qRTN0bHoyZmlOZ1hRdWVudmNqXzNVaUdMWmsxbW5PYXg2MWVqOGNaQ0xmYWRidjhCR282T0N2MVZZLVppa2prTGw5ajM4aU1RWWdMRVBRcmhwOGtZTDc5RVg0Tkx6WVF5d09OcXhiZG1TTlRUWHM5cUJsNzFScGprallKb3ZSQzVBSGstU0Nmb2pwTzAwSHp2TzJYbThScTU4NDB0TWJDZ0E?oc=5)
 
 ---
 
@@ -158,6 +150,14 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
+### [TB fears after illegal migrant in Essex asylum hotel diagnosed with deadly disease - GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUxLVUdNdy1TeWxyUWpZcUVKa1gtcEpIbm02WjZENE5YanI5Q3JUTi03dmFEYjJGQTlpd1RsaXRkdnByTmFMcklLZ1JwdDYydHpiMGh3MjViTnUwa3dKMlI0dnBIZ25xYmNNSmRRaHAyWWVteFI1QTJSbDFtNHhOSVJaZ3ByTHFwTmZXM2tENnZrUE1mQVE?oc=5)
+
+2026-06-26 <span class="news-indication-tag">AF</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUxLVUdNdy1TeWxyUWpZcUVKa1gtcEpIbm02WjZENE5YanI5Q3JUTi03dmFEYjJGQTlpd1RsaXRkdnByTmFMcklLZ1JwdDYydHpiMGh3MjViTnUwa3dKMlI0dnBIZ25xYmNNSmRRaHAyWWVteFI1QTJSbDFtNHhOSVJaZ3ByTHFwTmZXM2tENnZrUE1mQVE?oc=5)
+
+---
+
 ### [Wie Zyklus, Schwangerschaft und Wechseljahre den Diabetes beeinflussen - Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -171,6 +171,14 @@ permalink: /news/ganirelix-acetate/
 2026-06-26 <span class="news-indication-tag">AF</span>
 
 來源：[desired.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQb0tpamtmanJTaTdfRHJSV3lIUFBwbXBhOGI4RGlYamFfRVZCUkJTekRIX20wTUNmUkhVSHlPYjN6Mjg2LWllLW5IeXRHRDlxNUpMV3ZGWGxQOEFXZXF1aUljVUJHSnFTS1NxRFlmalRRdFhfTkdldEZ1MzV6bzMxV3FqVTBfVjRSdGhBS3JzeEpCeE14RXZsdnFoU1BPQTVCcVhzd1NPeWZMNXYtZWdhM3RHbXF5UlBfT3FRSU10TjlIZGw1UUFYaVktN0I?oc=5)
+
+---
+
+### [How male infertility is still not getting enough attention](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SZWlmbGF1cEFwM0QyNHNSWUFiYml4VTk2cnptRldBWHVUODltNHJmWGo4VGRmcmVNb0FDSnFKakUtZ1JmNFExQlRXRjdlMmo2TzdKYTNseVlDNXZL?oc=5)
+
+2026-06-26 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SZWlmbGF1cEFwM0QyNHNSWUFiYml4VTk2cnptRldBWHVUODltNHJmWGo4VGRmcmVNb0FDSnFKakUtZ1JmNFExQlRXRjdlMmo2TzdKYTNseVlDNXZL?oc=5)
 
 ---
 
@@ -206,11 +214,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [People who fall asleep with the television on aren't lazy or undisciplined — many learned in childhood that voices in another room meant the house was safe, and the nervous system still reads the equation the same way decades later - Silicon Canals](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQTW5BZ1I3czZXbG01YUlKcjZ4aEl0a1lCRkp0UWYwcTgwUmdaZU9lb05lVzFkTkc1dEdSU2FRbEdaaW1Xdmt2OHAzcmt0Wmh0NkwyMGdBYVh1cjNXaGhyQVhMREpBRzcycGlyQXFrWGxxcTlPYk5lRm9fb092VUVhSHh2UVJfNGpFVmFnUElhZVdVcjJXSXkyTlRWMVQwQnctbHdiUWhTVVhVblBxTHhMS3FkaTV6ODVFRzRlN2poWjNlOUZ4ZVJnTnk4clE3c1lNLVh0d1hGUEozSWpfeWdreTh5d0tLanFZa3dPVEJOakdCVHJpMnZzU2NFMzNDOGtBajlpWC1YMERzTGtfOXdhdkFtdFowcjVlVEpxXzkyX3E0NFZmcnJkcUlBT3dmSlppclFfNEctYnA?oc=5)
+### [UK heatwave: Five medications that can affect how your body regulates temperature - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVRCWUc1N3VneFVSRTZfeWgxQWNVcFFlNW5sd2w2WnlEQlpSMVhKZXNTVHZ4V1lwWUJEb1g2Q2tVWWgtNXE2aWl2U2h1UWtsSmoyV2ZvOGlTbHBpRGZlRTE2QVdsanFWU0pOVWo4SnlRUTR3NVEwRENyMlFFTDREYzV1SDRmSjlpQjlTNUVCd0JsNWhNeWZSRWdCa1lOdkU1a2xsdVZXbXQtLUtlS3c?oc=5)
 
 2026-06-25 <span class="news-indication-tag">AF</span>
 
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQTW5BZ1I3czZXbG01YUlKcjZ4aEl0a1lCRkp0UWYwcTgwUmdaZU9lb05lVzFkTkc1dEdSU2FRbEdaaW1Xdmt2OHAzcmt0Wmh0NkwyMGdBYVh1cjNXaGhyQVhMREpBRzcycGlyQXFrWGxxcTlPYk5lRm9fb092VUVhSHh2UVJfNGpFVmFnUElhZVdVcjJXSXkyTlRWMVQwQnctbHdiUWhTVVhVblBxTHhMS3FkaTV6ODVFRzRlN2poWjNlOUZ4ZVJnTnk4clE3c1lNLVh0d1hGUEozSWpfeWdreTh5d0tLanFZa3dPVEJOakdCVHJpMnZzU2NFMzNDOGtBajlpWC1YMERzTGtfOXdhdkFtdFowcjVlVEpxXzkyX3E0NFZmcnJkcUlBT3dmSlppclFfNEctYnA?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVRCWUc1N3VneFVSRTZfeWgxQWNVcFFlNW5sd2w2WnlEQlpSMVhKZXNTVHZ4V1lwWUJEb1g2Q2tVWWgtNXE2aWl2U2h1UWtsSmoyV2ZvOGlTbHBpRGZlRTE2QVdsanFWU0pOVWo4SnlRUTR3NVEwRENyMlFFTDREYzV1SDRmSjlpQjlTNUVCd0JsNWhNeWZSRWdCa1lOdkU1a2xsdVZXbXQtLUtlS3c?oc=5)
 
 ---
 
@@ -227,38 +235,6 @@ permalink: /news/ganirelix-acetate/
 2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
-
----
-
-### [Woman, 45, given weeks to live after falling ill on holiday in Turkey - Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
-
-2026-06-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Cheshire Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0ZFQjVlT1lORHI2ZWVUenZYUjZ6Q2padmw0REZGLVRWZE9ubjlLZkEwT3Z5eFFjNWlrZ3ZnQXVqQ3ljbEdHeEx6YVlUR3A1dDNsMm94eXhsWlZnZnZNeDd4dkFBYzJoRUM3Vlo4OUt0MkM0WGNubnRTblB0aVNmSHc1d1Z1Vy1XUWI5Z0pBVWhBSVBmYVV1Yw?oc=5)
-
----
-
-### [»Man lernt zu fragen, wie das Tier die Welt wahrnimmt« - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGFwNUw3aTNxSTdGQVJpdWZSb2tBbGhoa3NrdTBfNmxGS0dSR2pfSlhLWVM2LURfSEZUai1oNU1FTmpZLXBtVGEwT0dlZGhtMlZIeGVZWkJRTFRTa0xuY1FuekQ5ZzZtWFVsOVU5RDRidWhfcURfS0ZoZDZlSkNZTXdrM21PeHlwSDNwZHB2QnNlU19lUGVOSlNR?oc=5)
-
-2026-06-24 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGFwNUw3aTNxSTdGQVJpdWZSb2tBbGhoa3NrdTBfNmxGS0dSR2pfSlhLWVM2LURfSEZUai1oNU1FTmpZLXBtVGEwT0dlZGhtMlZIeGVZWkJRTFRTa0xuY1FuekQ5ZzZtWFVsOVU5RDRidWhfcURfS0ZoZDZlSkNZTXdrM21PeHlwSDNwZHB2QnNlU19lUGVOSlNR?oc=5)
-
----
-
-### [US ends hantavirus outbreak response with no answers on draconian quarantines - Ars Technica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5)
-
-2026-06-24 <span class="news-indication-tag">AF</span>
-
-來源：[Ars Technica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5)
-
----
-
-### [Effects of exercise and liraglutide on vascular health and inflammation during weight loss maintenance: a prespecified secondary analysis of the S-LiTE trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
-
-2026-06-24 <span class="news-drug-tag">Glucagon</span> <span class="news-drug-tag">Liraglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0k0alJjYUc1SU5weFVhbG00VzA1bWxsR2Q1ejJrVWVjWDE3c29oSDJtZXFUenNOTWstM1hPblVTRjJFaWdhTEFHWEtRck5xYWhFTlRiNnB2V052aGdV?oc=5)
 
 ---
 

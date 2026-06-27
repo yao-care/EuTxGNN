@@ -41,6 +41,14 @@ permalink: /news/stroke/
 
 ## 相關新聞（4 則）
 
+### [Blutzucker-Normalisierung: 42 Prozent weniger Herzinfarkt- und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+
+2026-06-27
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+
+---
+
 ### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
 
 2026-06-26
@@ -49,11 +57,11 @@ permalink: /news/stroke/
 
 ---
 
-### [24 Stunden vor dem Schlaganfall noch ein DOAK: Wie sicher ist die Lyse?](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
+### [Niedriger Blutdruck und KI-Risiken: Wie die GOP 03100 Hausärzte ab Juli 2026 trifft - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXF5N2hWMUNQMVlCMG5ubjh6cDUzSHZGOUdTUXVPZjAwQWpvNC1OcFZsVS1haC1hVzJ3Q2dYOVRJQU9HWTRTVEdsS1NoTzVvWnYtSFdDQlBkTm01WDVYeXFOc1ZLNEtXbmhWSEV2aDFreVZ5QlhITWlIbjdENG90UFk3YjZPMkZyOTFhaWpzUnFQNXpVZ1BLWHY3eEUzS1VDRDBwbDM3LVRaSjNSclJabUlPUUtRZw?oc=5)
 
-2026-06-25
+2026-06-26
 
-來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkItZUtvWUdoUWU0VmF0ZE9ZVlNsblVHSFVUOW41UXZUNC1qZlV0T25UT2NmaUUxdjFDbnJYZ0lFTHc4ZTkxNElmQ0tqaDJBQm82ZTNVY0lWSjZyMlpud1ZoNExMUnpTdjlBOHNLcEtEUktmNkMzMHZNeE8zbnc1Zk9HNlhqNWtZbWRoYkZpckxFU25ZY0x1b2tHMHhEa1IwWlhkZDhlYzhMT2pCNHhpUlg4NHB2Y3VWNDFLZHlpS0dhS2VhYXdSTEpIX1R5VVJkVGFxNWF5VktYS2xuT0JGOFJ0RXpDM00?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXF5N2hWMUNQMVlCMG5ubjh6cDUzSHZGOUdTUXVPZjAwQWpvNC1OcFZsVS1haC1hVzJ3Q2dYOVRJQU9HWTRTVEdsS1NoTzVvWnYtSFdDQlBkTm01WDVYeXFOc1ZLNEtXbmhWSEV2aDFreVZ5QlhITWlIbjdENG90UFk3YjZPMkZyOTFhaWpzUnFQNXpVZ1BLWHY3eEUzS1VDRDBwbDM3LVRaSjNSclJabUlPUUtRZw?oc=5)
 
 ---
 
@@ -62,14 +70,6 @@ permalink: /news/stroke/
 2026-06-25
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajlQRFl3NkRmajY1Z29SZ3J4b19seklRSnlUYkp5TDV1cHlhc3k5bl9mOGN2Q3VmRzBTeXhfYUVXRXVfUGtKNWJsamV5TG5lMW5EUHk1Qi1fN19GWE5WRGxxUnBvWVNWMDR2aTl3Z2p5U2M3ZWdTQWYyLVZScDhoc2tCS2FORFNRY1BhVG1iRE5FdVRBblIzVDZlcnk3MFNxWVg2b1Ita3pjc0NSLTBkY3BVR2preERDNG9hT0pudkthZmRuSDdrZmxkaDZUWnNrS0g3N0w0S0tHcjlMMXUwZ1MtVG05bnNfREc0RWdFbUFVSWc?oc=5)
-
----
-
-### [Schlaganfall-Prävention: Dreier-Kombination senkt Rückfallrisiko um 39%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
-
-2026-06-25
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk14VjJFMnYtRy1IcXlfZEtTajRuUlVqQm9oMjl4Y1dNZmxiVXh6OGt5RmkyRjh0MGN5NnpiaUs3M0xVVW8zSl85bEctdDB3eUFfVEViMEpOdmRyUEFFaGFEcDRCMFVpMFFfaHEtbjdabVZTQXJwclpWNE52eGJKX0Rjc3JGU3dxenFjd29OaG9oaGlJSHptYkhSeUY0S1QyZjVfaEoyTURPT2V5bkdYRkt3d08wYUxkT0RHaQ?oc=5)
 
 ---
 

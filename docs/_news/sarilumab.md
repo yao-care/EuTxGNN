@@ -70,19 +70,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Identifican una nueva causa genética de la enfermedad de Crohn que abre la puerta a terapias de precisión - Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
+### [Lupus und Arthritis: CAR-T-Therapie bringt 90% in Remission](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
 
-2026-06-26 <span class="news-indication-tag">enfermedad de Crohn</span>
+2026-06-25 <span class="news-indication-tag">arthritis</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEJHb3o5TTlQNndmNDJnSDBncmdpVDFsVGtmVUZnQ3ZNaVQxbWRqaElwVUtlNEtyRmpDNENtR0YwMEpucXdFaWNsX0hwWXJxLWM1QkVlRUI3akI4OVZ2VWE0NGRXTGRhckZ2U2xEeXY5YTZicGlUbVI0dmhXSU1xYVdQYTUzNEZJMzM2LVVzdjE5MWl0aGYzSWVlaXN4YUkyWVA4ajlCcEcyZFNIYko1Q0Zxdms?oc=5)
 
 ---
 
-### [Darmflora: Hefepilz Malassezia erhöht Neurodermitis-Risiko bei Säuglingen](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
+### [Prueban una terapia de plasma para recuperar el olfato tras el covid en el hospital Germans Trias (Badalona)](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 
-2026-06-25 <span class="news-indication-tag">asthma</span>
+2026-06-25 <span class="news-indication-tag">asma</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhJdFZ2b3h0X3VGb2J0eDFCQlB4bXhSS2hoaFIwTkFZR1dRRFVXMmxPRW9iX29NWHo1U1RCWW5Yckx6TDh5ZDJVRS1HREE1akhFRl9qaUM3RGVpOEhZNTE3QV9OOG5XRkRsV0V0SjlNN09mZEtCOW9QWmZLRFFHdElVbXBZeFZmRUhhLW5IYXl6UWF6NEVmNVBaS3BaMVgwcmZvZ1VBT1lxcHpHZ3BLRw?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWdmTmlZOGJkbjBvbm5LRlg4RGZ6azVibG9lblVJVm9CYlVPVXJJZlVZalhYVktUUmp4d3oxSzNKc1hsb1hGcktRck45djFYdDlKZWxxUEh5Nm1MVnRwNTN0d2xFS1hjR3BBU3F0Y2VKdjFrU042RnBSMEw3LUpmcUZ2aFk5VEVlNXNqU3VjLUMzY203cUN5bzY2R05aYlk?oc=5)
 
 ---
 
