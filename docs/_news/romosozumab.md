@@ -14,7 +14,7 @@ permalink: /news/romosozumab/
 ---
 
 <p class="key-answer" data-question="Romosozumab 有什麼相關新聞？">
-<strong>Romosozumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Romosozumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/romosozumab/
 <p><a href="{{ '/drugs/romosozumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
+
+### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NhazhqbVQ2Z0NHS1dNQ1JYSkpQTjhyLUxvcW5YUXhNN2ZGb3NDNlNtZU14djM4TmttWkJ5allGdklZYjc3UTdsamVJNlZWVlpvdkxybkd2SnpVMENNeVR6R1hUQVUxNF9ZZ3BMR1pCcWhuc3hTd295VXEtNmpvSnFYeVNGbXJ2MHBMaHZVbW5ieFJpUG1EQzdLU0hrbVBLYUVTU2VvUV9xV1Vfb0F4UjkwYw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0NhazhqbVQ2Z0NHS1dNQ1JYSkpQTjhyLUxvcW5YUXhNN2ZGb3NDNlNtZU14djM4TmttWkJ5allGdklZYjc3UTdsamVJNlZWVlpvdkxybkd2SnpVMENNeVR6R1hUQVUxNF9ZZ3BMR1pCcWhuc3hTd295VXEtNmpvSnFYeVNGbXJ2MHBMaHZVbW5ieFJpUG1EQzdLU0hrbVBLYUVTU2VvUV9xV1Vfb0F4UjkwYw?oc=5)
+
+---
+
+### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
+
+---
 
 ### [Diabetes-Prävention: 28 Gramm Joghurt täglich senken Risiko um 18%](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWo1UzFFb0FfdHdvT2xBSWlXWF9ZVWdZWE9tS2JaM1RQd3JvSHdVMF9WaHlWbDhPU0ktYy1zQk5DNEQ4UnVlUjFnM0xCLWoxY1lTSHRnbVFKQi13VnFSRjJPM2VkblJ2Ung2VkpUWFdNbVRqZDNCODVvVUplcnBaZko1UExmQy1lN3N3bGE5RWpKUVM4WXpBVjBHckU2ejVPbVVIZ3EteXlJWUJIUE0wNDFvUUdndw?oc=5)
 
@@ -62,27 +78,19 @@ permalink: /news/romosozumab/
 
 ---
 
-### [Blutzucker-Normalisierung: 42 Prozent weniger Herzinfarkt- und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
+### [Blutzucker stabilisieren: deutlich weniger Herzinfarkt- und Schlaganfallrisiko - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1phb3YyMkxDeE9RR1c2b0xTbldDWGsyNWpNYnV0c2xwUVVRQm1GUlV3MmhHMHNtWndhSXZROVJoRWhVUU5YdGJxTE9TaElMTkhmNmtoQzgtT1JRU3dvRGNZWi0xbWt3b3d4ZVlySk5aUmE3SlFCdGZKX3FnR1NpZS1HSXotNlAyaDZxLWVNRmY3dHgxZFo3Q3dlNmk0QjI5WmtwYWxQWEZIQ19V?oc=5)
 
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWcxWTA3Z2FHNVZHWGJfR1FxNjNVcTdvVjJNWGdwSUgyUHVhWjNPNGtBS0xYNmh3ck9USlJTRGdoMi01MUFqQ0hteFI2Y0kwd2RmcldXazZQMXl0NFRNaHlnSDhUMUU0bjhUSmtlZ0JvUGFBd1dWdTdTM1ZqWW9Rc01EVHJKaDlFaHVmdGdERnk5eF9ZWURVeGNETUNzUFhpbzJaUnN0OEJwQWVpWEE?oc=5)
-
----
-
-### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1phb3YyMkxDeE9RR1c2b0xTbldDWGsyNWpNYnV0c2xwUVVRQm1GUlV3MmhHMHNtWndhSXZROVJoRWhVUU5YdGJxTE9TaElMTkhmNmtoQzgtT1JRU3dvRGNZWi0xbWt3b3d4ZVlySk5aUmE3SlFCdGZKX3FnR1NpZS1HSXotNlAyaDZxLWVNRmY3dHgxZFo3Q3dlNmk0QjI5WmtwYWxQWEZIQ19V?oc=5)
 
 ---
 
-### [EMA: 6 neue Zulassungsempfehlungen, u.a. bei Typ-2-Diabetes, bei Morbus Parkinson und zum Schutz vor Influenza](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3lpVWg2NGpNeXgxSVJoQnpyZkpxVklFY3FuQ2l5YzFmVTBIbTRSdHlLdmtWRms3dGRtM1dMNTdqUC1iaEhVLXBPMHk3TWVSR2tleWJ1SHVJVVhkLWhSb05VX2lJS1pWcFI0WmpzZ0VwVnZRRWlWRjlLTFJ4YXVad1lSOXhzampWS0M1Zkd4ZWE3WVh3M1VDdkVRcVBCWkMxczlyZ1BDdWM0UUpCTHNfY0tjbTI3TnM?oc=5)
+### [Prädiabetes-Remission: Blutzuckernormalisierung senkt Todesfallrisiko um 58%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlB6bEJwUEtmYm9nSFdCTmpobV82N0p1RnV4VDFJVFVrcnBYM1pLamVhT0I5a0RpV09CbjFydDlsOGNrWnJ1ZWg5bjdHeVBJdGd0aWxOdmVfZ0xBM3pHUFUzNkRZLXN4SWt0eVFiazB6YmlPVW1tbTdIUUR6TzZVNUV1LUhKX0dHMmpEdXNfNEw4eTNobmlxR1V2YzNSWnJDeUg1V2lnVW5MWjJOdUZfM05sS1JNVlhQYkJkQTl3?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3lpVWg2NGpNeXgxSVJoQnpyZkpxVklFY3FuQ2l5YzFmVTBIbTRSdHlLdmtWRms3dGRtM1dMNTdqUC1iaEhVLXBPMHk3TWVSR2tleWJ1SHVJVVhkLWhSb05VX2lJS1pWcFI0WmpzZ0VwVnZRRWlWRjlLTFJ4YXVad1lSOXhzampWS0M1Zkd4ZWE3WVh3M1VDdkVRcVBCWkMxczlyZ1BDdWM0UUpCTHNfY0tjbTI3TnM?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlB6bEJwUEtmYm9nSFdCTmpobV82N0p1RnV4VDFJVFVrcnBYM1pLamVhT0I5a0RpV09CbjFydDlsOGNrWnJ1ZWg5bjdHeVBJdGd0aWxOdmVfZ0xBM3pHUFUzNkRZLXN4SWt0eVFiazB6YmlPVW1tbTdIUUR6TzZVNUV1LUhKX0dHMmpEdXNfNEw4eTNobmlxR1V2YzNSWnJDeUg1V2lnVW5MWjJOdUZfM05sS1JNVlhQYkJkQTl3?oc=5)
 
 ---
 
@@ -94,14 +102,6 @@ permalink: /news/romosozumab/
 
 ---
 
-### [Gürtelrose- und Zahnpasta-Ansätze: Neue Wege zur Alzheimer-Prävention - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
-
----
-
 ### [Wie Zyklus, Schwangerschaft und Wechseljahre den Diabetes beeinflussen - Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -110,27 +110,11 @@ permalink: /news/romosozumab/
 
 ---
 
-### [Diabetes-Studien: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43 % - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmVyc0w0S0dnSDhqRUVQYS1NRTlIcjFJR0lERm1jQUJ1ckliRml0WDl4Z2d6aGZFZkJOemVmb2hsM0h2QnB1UDRoN2xyNkxiazlhYXlhb3RNcm1qQkZ5SnYtd3NJSHdNS0h5cjZEeEloTVJJbG5TSjNORzhjeGJYTnJvSzRxc3B6Mkd6c2VGMHc1SU43anJPR2RlTzE?oc=5)
-
----
-
 ### [Intermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJobjYtcFhOZ0x2NGJIQnlfeXc4NERzeGpWb2kybFY5UWp6R1ZHSkxIUFB5VDBBUWM1dmNfWUh3QnI3RjdoY05Rc0Nkc0paTnBpZk5JSXhnZ1ZTTUJIemVfOFF1ejBNQ1dlZnRMMFVocnB6d0dQc2xERndyN0haNS1ISTB0N2ZTUXFCLWp6bVVWY1FQU2NhNnY4S2NaeV84NUo2OERNOXlNRGstRmc?oc=5)
 
 2026-06-25 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJobjYtcFhOZ0x2NGJIQnlfeXc4NERzeGpWb2kybFY5UWp6R1ZHSkxIUFB5VDBBUWM1dmNfWUh3QnI3RjdoY05Rc0Nkc0paTnBpZk5JSXhnZ1ZTTUJIemVfOFF1ejBNQ1dlZnRMMFVocnB6d0dQc2xERndyN0haNS1ISTB0N2ZTUXFCLWp6bVVWY1FQU2NhNnY4S2NaeV84NUo2OERNOXlNRGstRmc?oc=5)
-
----
-
-### [Warum Krebs-Früherkennung bei Typ-2-Diabetes besonders wichtig ist](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
-
-2026-06-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzVQYjZNZC12S3g1bktONTltVERwMG5GX3Njd3JyeWJLODRHRTA1b09SMUJjejl0NHdDNjNKZjZXYmIxYVc0WEE1UW1GZzBKVnNwdnVZNXpKOEFndVQ5RHhKS2ZvZm1CdVdKdWdheGdNbUwxTndzbFd2T2hKVDJHV1B5NUVBMm9Ga3hPajZ6eUNFUFV5bEFHNTJ6ZkpINWEzdms0?oc=5)
 
 ---
 

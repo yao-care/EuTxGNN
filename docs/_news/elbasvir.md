@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
-### [Bizarre menopause symptoms, from dry eyes to electric shocks - & Dr Zoe's tips](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+### [Woman from Essex urges over-70s to self-refer for mammograms](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tZzVRZ0s4czl1U2llU3Z4Zl9LUUw1eG9Db2hacVFZMVVsbFNGOVNTblFIczZHalNyemRJUy11eWZTTUpMNVlFaHFRRWNUZGNuT2ZCTHdmMHhQdVV0?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span>
+2026-06-27 <span class="news-indication-tag">MS</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tZzVRZ0s4czl1U2llU3Z4Zl9LUUw1eG9Db2hacVFZMVVsbFNGOVNTblFIczZHalNyemRJUy11eWZTTUpMNVlFaHFRRWNUZGNuT2ZCTHdmMHhQdVV0?oc=5)
 
 ---
 
-### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+### [NHS patients offered free weight-loss jabs via gyms and apps - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
+
+2026-06-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
+
+---
+
+### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
+
+---
+
+### [Bizarre menopause symptoms, from dry eyes to electric shocks - & Dr Zoe's tips - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+
+2026-06-26 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
+
+---
+
+### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 ---
 
@@ -86,19 +110,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Impulso a nivel mundial para advertir de la amenaza de la toxoplasmosis y reconocerla como una ETD por la OMS - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdKS0xUS093UmxMajM5WGdndl9vWGhnZEtqTHlDa21DYXBWbUZMS0d3Q1NaM3lZbzd0VzMtOFVwbnhIcXhnRUdvbkp5RFlEeVhxZVJOblBZM1hpaEZrbUlLeXR4TDUwbnNqOWlnZGR2ZTRjRzJ4ZkpINzBRSHBfN2FLS0M4RG83TTF1bTJGMXFMNkgzNC1Pdlo5V0pyTGE5TWlXVlBFYWtSTUxzTm9VRzByMkVmbFZ1OXNV0gG2AUFVX3lxTE9BbXl4WXZmS2RWVUN3MExpbWhKLWxJQlBRUmJXSzBVRjlKaDhXeDdiaDdDYk1XdE5zWVhTaHE3YURONUJDS3lGUnVYYUN3TmUwYjlMaGlhanM2ajlJeFlzSUFqUUxxOXBjQmMtWG5HMnVzVFkydmFzUnd5YXlONDNCRTVXVXN2SDREYzh2SFFnaF80NHJ2S3RsSWdHMUExYzIzcU9WZEh0cTJsYk9tbzNEQnZzWktn?oc=5)
+### [GP warns millions at risk of deadly fat jab mistakes in heat…when to dial 999 - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGdKS0xUS093UmxMajM5WGdndl9vWGhnZEtqTHlDa21DYXBWbUZMS0d3Q1NaM3lZbzd0VzMtOFVwbnhIcXhnRUdvbkp5RFlEeVhxZVJOblBZM1hpaEZrbUlLeXR4TDUwbnNqOWlnZGR2ZTRjRzJ4ZkpINzBRSHBfN2FLS0M4RG83TTF1bTJGMXFMNkgzNC1Pdlo5V0pyTGE5TWlXVlBFYWtSTUxzTm9VRzByMkVmbFZ1OXNV0gG2AUFVX3lxTE9BbXl4WXZmS2RWVUN3MExpbWhKLWxJQlBRUmJXSzBVRjlKaDhXeDdiaDdDYk1XdE5zWVhTaHE3YURONUJDS3lGUnVYYUN3TmUwYjlMaGlhanM2ajlJeFlzSUFqUUxxOXBjQmMtWG5HMnVzVFkydmFzUnd5YXlONDNCRTVXVXN2SDREYzh2SFFnaF80NHJ2S3RsSWdHMUExYzIzcU9WZEh0cTJsYk9tbzNEQnZzWktn?oc=5)
-
----
-
-### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2pOcGpEZE85aVhzQkdsZWlhSXNsUWNlM3M5WDduLTRZX1JQX25fM3V3WE44YkJrT29Zbjh3WHdod3JwNGpRQm1Ia0EzUWR2Q1MzaHZEUVpWemtuYlZmUWJUNzdZTEoweUt0UFVycm1kcF9pejZPWXRNVjhGWFByR0FEay01OUp6dS1MbDlUZ3F3M3dONVRmejd5YnN3cGpkOHBhTTdsQ3g2VllxdFFvcUNUX2lXeUNsc3NzaEluMlc0UWVPVUY1OXhR?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2pOcGpEZE85aVhzQkdsZWlhSXNsUWNlM3M5WDduLTRZX1JQX25fM3V3WE44YkJrT29Zbjh3WHdod3JwNGpRQm1Ia0EzUWR2Q1MzaHZEUVpWemtuYlZmUWJUNzdZTEoweUt0UFVycm1kcF9pejZPWXRNVjhGWFByR0FEay01OUp6dS1MbDlUZ3F3M3dONVRmejd5YnN3cGpkOHBhTTdsQ3g2VllxdFFvcUNUX2lXeUNsc3NzaEluMlc0UWVPVUY1OXhR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
 ---
 
@@ -139,30 +155,6 @@ permalink: /news/elbasvir/
 2026-06-25 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Diario Córdoba](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWTlGWlliSEhhQmt0R0t1ZmozR09IVjJiS1cyWFpJRkxLaUh4RTRobTNBeUkwLTBuR0pvSktpUmxzQ1BIZU94X3BEd3Q1V0xQS2lKNkFlVTV3WGx1cGwxb08xVlVrTWFSLWNhTjc4Qzd6ckdiZlNDM0ZhYnRsYmwzamtpRWo0YlI0WDVOTUlZQzhYeE1LOGMwWVlyT0pnZ0t1Nmp6VGdoRndDZ0p0d0E0c0JVT2F4VU5tLW4tRmM3WlVyR3dJQnFQMDNCcGZaa1lSdVl3Z0lVc9IB3AFBVV95cUxNT2wwLVd0VEhoX3gzRkxMWXZMWUJTcTBJY0lNTzVNQ2MyR3pxeW1TYlJ5TmtwU056R2NINEU5enRQNEtXUlB3QzdrQ3YyLWRibkk2RmQ0al9yek50Y1I0QUljTWlTMHNuX0tmeVp3YTgyQXgwUmhFWTk5SV9NZ1pjRl9vQS1WLVNCd2N4UWlvZjNMX09ENHBXcHVyRUhRdjc3cFpwZHZuTkpDU1M1eUN6ZUJpeWQ1cXBmSTBUcktKSFl4Zm9RaFlyMHp4ZWpYMlAwdWJ6MnZxbW84TGpz?oc=5)
-
----
-
-### [‘Smaller doses of exercise are a miracle cure’: 14 expert tips to protect your joints - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
-
-2026-06-25 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGstb1QxREZxZVRENlNRYmRjQ0Z4VEJlenVXaG1rX0hCRWF0QlFGeEYtRkg1ZjREaWNTV0tITVhLdWRQZW9GWVJ5VEp0cUZ3angycDBGamNTOUNjbmRqdnJqNjU1dTc5VW5NMm9fcm5vTXZ0Wnl6czByNVF2YzBhYmVYd18weThPUEFidEtYWnFSaEoxeUE0c0FDRGZUdjFlT0lRN09uQVFUQQ?oc=5)
-
----
-
-### [Studie bezweifelt Nutzen von Calcium und Vitamin D: Osteoporose-Expertin widerspricht](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUxNdS1GZWhhdDJreEk2Z2NaT0lxMUJQczBuR0VHN2VOZ3cwcGtlUGlBOENLSTZjN2JybFJxZ05VcVB5Wk1uM1R2SU82N0p1eUI5VENkNmFhQVRuRDJxbU9QTWc4QlJUNHFFU1dhVFk5Y000UXl2OFFqcWdGTTRTRi03Ql9tQkZlMjZjRmZtU2dhMG9fdTA3Ql85QTRISWNlZzhwRGpwTW5wbkwtR00yNWRzalU0RV9wUVFtdg?oc=5)
-
-2026-06-25 <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUxNdS1GZWhhdDJreEk2Z2NaT0lxMUJQczBuR0VHN2VOZ3cwcGtlUGlBOENLSTZjN2JybFJxZ05VcVB5Wk1uM1R2SU82N0p1eUI5VENkNmFhQVRuRDJxbU9QTWc4QlJUNHFFU1dhVFk5Y000UXl2OFFqcWdGTTRTRi03Ql9tQkZlMjZjRmZtU2dhMG9fdTA3Ql85QTRISWNlZzhwRGpwTW5wbkwtR00yNWRzalU0RV9wUVFtdg?oc=5)
-
----
-
-### [Surrey woman took part in cervical cancer immunotherapy trial](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV3UzV3pXcVBfSGhuY1hoSzB0M1lidTZfUkh6OWtIUENBZnBadGZ2b2JsS2NpMDlDN1cxUi1raGdwVkFsNG5vWUJsbjdzTm1BVVk5eVg2SW1EZS1s?oc=5)
-
-2026-06-25 <span class="news-drug-tag">Cemiplimab</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mV3UzV3pXcVBfSGhuY1hoSzB0M1lidTZfUkh6OWtIUENBZnBadGZ2b2JsS2NpMDlDN1cxUi1raGdwVkFsNG5vWUJsbjdzTm1BVVk5eVg2SW1EZS1s?oc=5)
 
 ---
 

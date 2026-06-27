@@ -54,19 +54,19 @@ permalink: /news/tasimelteon/
 
 ## 相關新聞（2 則）
 
+### [Was tun, wenn bei einer Depression die Medikamente nicht wirken? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFZXMnB5ek8zZFlFSTdCbWx3UmpQS01CWHhoeHJWY3gwWDlrZlJmY0M4cHlFZlpXanRLNk01aEM2YTJtNUNUMUJfV3dSb3l5UGVuLUo2MVE2eUZsSG5aRzN6eHhEdndOazktYXBiZTZPdlduQXpoeVlWUTdQOWNyS0kwRmEweXlMOE5YYmtXR2lwUVJOekdzWks2eF9nZmlMc01WX0MwUC1UcWt3aExtOTB1VWZrb25J?oc=5)
+
+2026-06-27 <span class="news-indication-tag">depression</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFZXMnB5ek8zZFlFSTdCbWx3UmpQS01CWHhoeHJWY3gwWDlrZlJmY0M4cHlFZlpXanRLNk01aEM2YTJtNUNUMUJfV3dSb3l5UGVuLUo2MVE2eUZsSG5aRzN6eHhEdndOazktYXBiZTZPdlduQXpoeVlWUTdQOWNyS0kwRmEweXlMOE5YYmtXR2lwUVJOekdzWks2eF9nZmlMc01WX0MwUC1UcWt3aExtOTB1VWZrb25J?oc=5)
+
+---
+
 ### [Hallan biomarcadores sanguíneos que permitirían medir la eficacia de las psicoterapias en la depresión](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMC1GVkZCTzVGYTdpWV9UUWJMSDJ0RU5maUtiTEhmSmdfN1U5WDNLbVR4RnlhQjZHWW1xTEdCM1I3RzdfUXUxUnBITGp4SkpCRUtiREtlSTNRT3RYaUQ3SDdiNjB3VEZBNmozWHVUMDVnVHhBLWd5OWFDRmZnSXZmSzEzdS1Ga1VjM2VTelduOUlYN25GMVo3LUw2eUVpZkREUnJoNExaMy1DcFVPT3U2NEgxSkFvNjczUEJVeV9UVmF0V0VqZFkxMjFQdDBUZw?oc=5)
 
 2026-06-26 <span class="news-indication-tag">depresión</span>
 
 來源：[pharmatech.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMC1GVkZCTzVGYTdpWV9UUWJMSDJ0RU5maUtiTEhmSmdfN1U5WDNLbVR4RnlhQjZHWW1xTEdCM1I3RzdfUXUxUnBITGp4SkpCRUtiREtlSTNRT3RYaUQ3SDdiNjB3VEZBNmozWHVUMDVnVHhBLWd5OWFDRmZnSXZmSzEzdS1Ga1VjM2VTelduOUlYN25GMVo3LUw2eUVpZkREUnJoNExaMy1DcFVPT3U2NEgxSkFvNjczUEJVeV9UVmF0V0VqZFkxMjFQdDBUZw?oc=5)
-
----
-
-### [Christine atteinte de vitiligo : « Les regards sont pesants, mais je garde le sourire »](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWxpX09EcFA1Vm9HUkZtTWRqN0ZNb2Nfdkt3cWVHa2dGMS1kaXJ4Z2VMNk1vMlNKWUJMN1FuOXZ6ZTJYQWN6OWUwT0tBYktmUndZaTE3MFBPZEVxdC1oUk1FTzJ2dF9ESklLcVk2N0tiTzRubUZIU2xfOF9iTlQybFprUXVlTjBEOTAyTFhZQ3RpcTVxLWFMYm54WmRBWlM4NVZNR2ZWazQ1OWxBVjZ5R3hwcWFZYXZiNTFLeTRWOA?oc=5)
-
-2026-06-26 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
-
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWxpX09EcFA1Vm9HUkZtTWRqN0ZNb2Nfdkt3cWVHa2dGMS1kaXJ4Z2VMNk1vMlNKWUJMN1FuOXZ6ZTJYQWN6OWUwT0tBYktmUndZaTE3MFBPZEVxdC1oUk1FTzJ2dF9ESklLcVk2N0tiTzRubUZIU2xfOF9iTlQybFprUXVlTjBEOTAyTFhZQ3RpcTVxLWFMYm54WmRBWlM4NVZNR2ZWazQ1OWxBVjZ5R3hwcWFZYXZiNTFLeTRWOA?oc=5)
 
 ---
 
