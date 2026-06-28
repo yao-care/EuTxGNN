@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="Corifollitropin Alfa 有什麼相關新聞？">
-<strong>Corifollitropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Corifollitropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/corifollitropin-alfa/
 <p><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/corifollitropin-alfa/
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [Omega-3 schützt nicht vor Alzheimer: Studie mit 365 Probanden widerlegt Hoffnung](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
 
 ---
 

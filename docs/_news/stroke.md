@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+2026-06-28
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+---
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 

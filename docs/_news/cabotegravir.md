@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+
+---
 
 ### [Voici pourquoi vos reins travaillent davantage pendant la canicule](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
 
@@ -70,6 +86,14 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Se recalienta la carrera por lograr la nueva generación de tratamientos para adelgazar, esta vez en píldoras - Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+
+2026-06-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+
+---
+
 ### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
@@ -83,22 +107,6 @@ permalink: /news/cabotegravir/
 2026-06-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0dYb2ZEd2ZoX3NUTENnNThZMUVMX3pPN2c4ZFFmZzMwby1YckcwSkNmTXQ3bXNGTHZvN1RqYmN1M19JVE14ZVhiNVY3ZXE0MUx6MUNTd0FCWGVCWXlWMy1iRzJsc29mQXJSZGpSVjB3d09yV2NROWE4NllTTjZoeTk0WHhxM3VqTGp0M0R5ZTZ1WUdTOE9zQXBUSVZfbVpsUDkyUmI4V0pqS2lqY1Fxd3VFOWN3X3dfT0E?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
 
 ---
 

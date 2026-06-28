@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vismodegib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（20 則）
+
+### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+---
 
 ### [Brustkrebs: Diese Lebensmittel senken das Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/vismodegib/
 
 ---
 
-### [Neue Hoffnung gegen Krebs-Fatigue? Studie zeigt, dass ein ADHS-Mittel helfen könnte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
+### [Krebs-Fatigue: Methylphenidat lindert Erschöpfung nach fünf Wochen](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHN6WFZMQnkzRnlLUXlhWGRVODlla1l5cU9RSXoxU2V3Y2UxU0ExZ0tlQ0wzVll6ZHJFRXNOYUkwWjFxdmdLMXUzQUZGVC1tVDZ4bFp5aElTVG9vbkduSUM3Qm8tWjBOOGI0Z3FHaHVjZzM1WmNjcUt3ODBueHJqQ2hfUlY3R2VIZDZGTUJ4OWdaRmR4a19BN19DekhGdUFGUHpyOU5jWFdURmQ2T25PYWxGMkw5a0E?oc=5)
 
 2026-06-28 <span class="news-indication-tag">Krebs</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHN6WFZMQnkzRnlLUXlhWGRVODlla1l5cU9RSXoxU2V3Y2UxU0ExZ0tlQ0wzVll6ZHJFRXNOYUkwWjFxdmdLMXUzQUZGVC1tVDZ4bFp5aElTVG9vbkduSUM3Qm8tWjBOOGI0Z3FHaHVjZzM1WmNjcUt3ODBueHJqQ2hfUlY3R2VIZDZGTUJ4OWdaRmR4a19BN19DekhGdUFGUHpyOU5jWFdURmQ2T25PYWxGMkw5a0E?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/vismodegib/
 2026-06-28 <span class="news-indication-tag">cancer</span>
 
 來源：[Euronews](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
+
+---
+
+### [Les jeunes vieillissent plus vite biologiquement, selon une étude](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnhYd3BZRTZLMWM3NXJzTEJPZjlYU3djQk84dWpwOGpzVlBSSGlibEpjaWxWTkRnV1p0OUxpbDNtekp1Q2J4Q0ZZWTN5OEhTUkRiTnZWdlJRQ3JXTnhDZ0NxR0dZcDFIcHh3dHlsWmFENmRQTlE4Umd3b19pNzNRVU9zdW9HT1hLSmxFVUtWRWYzRUJ0eElBdXdReDdfM3NDaU1WRElnQnpWUGJBTktGeDZRbms5UQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnhYd3BZRTZLMWM3NXJzTEJPZjlYU3djQk84dWpwOGpzVlBSSGlibEpjaWxWTkRnV1p0OUxpbDNtekp1Q2J4Q0ZZWTN5OEhTUkRiTnZWdlJRQ3JXTnhDZ0NxR0dZcDFIcHh3dHlsWmFENmRQTlE4Umd3b19pNzNRVU9zdW9HT1hLSmxFVUtWRWYzRUJ0eElBdXdReDdfM3NDaU1WRElnQnpWUGJBTktGeDZRbms5UQ?oc=5)
 
 ---
 
@@ -91,6 +107,22 @@ permalink: /news/vismodegib/
 2026-06-28 <span class="news-indication-tag">tumor</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGtnZ1ZYMGN2WDdXaUpwVnZmV2lYTFlQNmMtMUU5VVlzN2tpRzVJNEdXa19rcFd6R1dsUHN1S3ZHV3VoOUdMRlRUcms2czNVSE9lMFAtU1FNeFFBUzNRaVVPX0FEZ2tVUkZqSmpGdmxscXBWOUhWRFhIT3lYTzJ1TmJJWmZ6RDZwMDRnbFVhdUl5eXZxaFR1U0VMQWw1UnpRNDZz?oc=5)
+
+---
+
+### ["Une avancée majeure" : cette nouvelle technique de chirurgie du cancer du sein change le quotidien des patientes - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxNa1RvMEZVUjY4UjVaYWh1UlE0QWFYWHl3VUJOS0NOVGJ2QllsNXJRbTk1dEtjZTltTHRNejhuMi0wV0RBODVNcjJtRThUM2ZHWm5rcEtjcWtmZDBpaGY0V1NNV2V2YUY4WWUwQVdiVWQ1d1RhQWVLVW40NTlkZDczVm5JN0V3UGp2cS0tbnlFaTZEcDF3T3UxUkpjdTNOcTNKQkVkOVR5UTdZZmRRWk53YjNhLVE3WEVoNjBrel9wbDFxR1ZjMEp0QmVQRndKdzM5S0gtdExzX2RJdmdtTHA3V2wyM203VnZlZ3lqbVJ2UjdzMG1zd2NyUkpSZUZESVV5LWExU0F4VUY5aHhxYUxxVjVpU0lMNzBFOHdFcGV3cmdlVlEzdlY4?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxNa1RvMEZVUjY4UjVaYWh1UlE0QWFYWHl3VUJOS0NOVGJ2QllsNXJRbTk1dEtjZTltTHRNejhuMi0wV0RBODVNcjJtRThUM2ZHWm5rcEtjcWtmZDBpaGY0V1NNV2V2YUY4WWUwQVdiVWQ1d1RhQWVLVW40NTlkZDczVm5JN0V3UGp2cS0tbnlFaTZEcDF3T3UxUkpjdTNOcTNKQkVkOVR5UTdZZmRRWk53YjNhLVE3WEVoNjBrel9wbDFxR1ZjMEp0QmVQRndKdzM5S0gtdExzX2RJdmdtTHA3V2wyM203VnZlZ3lqbVJ2UjdzMG1zd2NyUkpSZUZESVV5LWExU0F4VUY5aHhxYUxxVjVpU0lMNzBFOHdFcGV3cmdlVlEzdlY4?oc=5)
+
+---
+
+### [New vitamin B12 therapy shows promise against deadly brain cancer](https://news.google.com/rss/articles/CBMib0FVX3lxTE85NnRyV2poNU5kU1VVeGd2QnFXbVYzdi1YakZUaENqQi1SbnlYcDZZck90SkItb1Q2SG1VSTluTEdnSG1YSS1rZDRpMUo4OExDbnRfSEdfYkUxcWdGSHVXQU5hU1p6VG4zaVZLdUJWOA?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE85NnRyV2poNU5kU1VVeGd2QnFXbVYzdi1YakZUaENqQi1SbnlYcDZZck90SkItb1Q2SG1VSTluTEdnSG1YSS1rZDRpMUo4OExDbnRfSEdfYkUxcWdGSHVXQU5hU1p6VG4zaVZLdUJWOA?oc=5)
 
 ---
 
@@ -126,19 +158,11 @@ permalink: /news/vismodegib/
 
 ---
 
-### [Leberkrebs-Prävention: Kaffee senkt Risiko um über 50 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG5ZbDNLaDNYWmtqeDg1ODktQmNuYy1BSS0zajU2NFAzQzNBNGlzOFh6cjdHV2F1ZGRnXzN2MlU1SjZYQmZycFdpQl92MnBkRThHX090THo3OXdEdEhRVF9QZkN2bGxCQWF3YmRtTFI0TEFzZ1ZxUk9vM1EzX0c3YUVsYWdTekdDc2wySDJKN3NYNnhOUVd6RWc4MGQxWUdrY0tLdXcxa2FHNUFTa1JtSg?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG5ZbDNLaDNYWmtqeDg1ODktQmNuYy1BSS0zajU2NFAzQzNBNGlzOFh6cjdHV2F1ZGRnXzN2MlU1SjZYQmZycFdpQl92MnBkRThHX090THo3OXdEdEhRVF9QZkN2bGxCQWF3YmRtTFI0TEFzZ1ZxUk9vM1EzX0c3YUVsYWdTekdDc2wySDJKN3NYNnhOUVd6RWc4MGQxWUdrY0tLdXcxa2FHNUFTa1JtSg?oc=5)
-
----
-
 ### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
 ---
 
@@ -174,14 +198,6 @@ permalink: /news/vismodegib/
 
 ---
 
-### [Papilloma Virus, perché è fondamentale fare il vaccino. L'oncologa Rossana Berardi: «Se tutti fossimo vaccinati contro l’HPV potrebbe dirsi debellato il tumore della cervice uterina, da cui dipende quasi esclusivamente» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV21YeVhMbmVsdUQzQzhzWWxjOWw0YmxZM2gtUzhuUzFzcE93WE50eVFoNGtiOERWRUJtU0EwNzByQWRQODdXQ25NaVB2aXgtSFNhLTF5bnljdGlraktmNkVsdTJBYktSRFRBMnJpUHUtQlJWXzhWWS1USGZ1aW53S0lKQW01Y1ZIdjFPcllzUDU?oc=5)
-
-2026-06-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV21YeVhMbmVsdUQzQzhzWWxjOWw0YmxZM2gtUzhuUzFzcE93WE50eVFoNGtiOERWRUJtU0EwNzByQWRQODdXQ25NaVB2aXgtSFNhLTF5bnljdGlraktmNkVsdTJBYktSRFRBMnJpUHUtQlJWXzhWWS1USGZ1aW53S0lKQW01Y1ZIdjFPcllzUDU?oc=5)
-
----
-
 ### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnBmREZTSUVLNDltald1a3VyNnBMeC1vYWh3a2lFOFZtY3ZvLVpPeXFPa3pLZmMtd0VBOE4xbXVEbDZlX0NaWG1UQTllbTdQT2ZzdU5LWUQ4QXNQUXllOEd1VlJxYzBQTkFlQUg2NkFFcHJIU2FjNWczUTVNNFJKNE5seWFkX285ek12QTl3RFNUNWN5ekpNRWtzUWlZSzdOaU8yeU9TWnA4b0NX?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Krebs</span>
@@ -190,11 +206,11 @@ permalink: /news/vismodegib/
 
 ---
 
-### [Traitement hormonal de la ménopause : près de 500 000 femmes traitées en 2025 - Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
+### [‘Zombie’ squirrels with oozing warts are found in several states in peoples’ backyards - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
-2026-06-26 <span class="news-indication-tag">cancer</span>
+2026-06-26 <span class="news-indication-tag">tumour</span>
 
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
 ---
 

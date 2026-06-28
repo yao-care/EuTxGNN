@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
@@ -98,14 +98,6 @@ permalink: /news/hypertension/
 2026-06-27
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [Omega-3 schützt nicht vor Alzheimer: Studie mit 365 Probanden widerlegt Hoffnung](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
-
-2026-06-26
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
 
 ---
 

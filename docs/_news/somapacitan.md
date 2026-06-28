@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+
+---
+
+### [Se recalienta la carrera por lograr la nueva generación de tratamientos para adelgazar, esta vez en píldoras - Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+
+2026-06-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+
+---
 
 ### [Un estudio pionero descarta el impacto de la bacteria Mycoplasma genitalium en la repetición de partos pretérmino](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
 
@@ -75,22 +99,6 @@ permalink: /news/somapacitan/
 2026-06-28 <span class="news-indication-tag">asma</span>
 
 來源：[Huelva Información](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2Exb2hvVG5CMkZURjVUaE16dThpd1M3Ml96TEIwSnMzRWlIODJtcFFUN0N1aWt4UklwUnVaU1NNSl9neXo5NDRDUi1vT0Z4MXVGbElkZWZXTUk4TVZVTkZoaWJvQUpXaVBWbUVyTHRsbmNHVklra1VrcEFldXFuaWNVQTVOUDhUTHF1WjA3MzJrMWJERkJGaDdPSUs5UUU1WmZmN2cyRXJtRnAtdTNsSEs3NGlFRl9qUDZjX2Y2clZOV0REdFHSAcsBQVVfeXFMUDFrYlkxRXJTMmNzVDdYcDJOaE1EMkJzNmlZY3p1ZHlHUWRzcXBJc0JjcFFkaWlJY0J5SEM2SFhtdGEzUm9TTTdDa29TSmItZm5KTHRub2h0Smt6Y2xXZU1YcFFsNnp2VGc0S2ltVlViV0t0eXpUMFQwUkxyMU52S2tqSm5FWGZ1eU81LXNGNlFhMmllM0pIVXVpUnhhMFYtRzNzNXdRbXY3MjROVHRjd1pKZWticFVFMUxuVEFKeHN2cEdxSUlzX0Q5bHc?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
 
 ---
 

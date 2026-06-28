@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Dementia deaths among women at highest level in five years - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmdQdFo5WWZPSWs0cjVVbnF3MzRwTUFwRWdVQ0EyMG1GbWxqS28zU3hDU1ZpQS1WbVdoODlEdENTMkhHZXBmSWZ3TXoxVUVaR3FQbDkwS01BVmxpYVNjTE5laEFVWFhQVkhlVjZSWElYaUdnNzBQU0htQUFmeEdvTTVPWDdTbDhFVHB2ZS1XYTNWNE5zVVVQNGE3bE1hTzAza1l3Y0RB?oc=5)
 
 2026-06-27
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmdQdFo5WWZPSWs0cjVVbnF3MzRwTUFwRWdVQ0EyMG1GbWxqS28zU3hDU1ZpQS1WbVdoODlEdENTMkhHZXBmSWZ3TXoxVUVaR3FQbDkwS01BVmxpYVNjTE5laEFVWFhQVkhlVjZSWElYaUdnNzBQU0htQUFmeEdvTTVPWDdTbDhFVHB2ZS1XYTNWNE5zVVVQNGE3bE1hTzAza1l3Y0RB?oc=5)
-
----
-
-### [Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5)
-
-2026-06-26
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5)
 
 ---
 

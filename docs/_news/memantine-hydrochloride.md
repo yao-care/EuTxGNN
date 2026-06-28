@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
 
@@ -99,14 +99,6 @@ permalink: /news/memantine-hydrochloride/
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [Omega-3 schützt nicht vor Alzheimer: Studie mit 365 Probanden widerlegt Hoffnung](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Dementia deaths among women at highest level in five years - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmdQdFo5WWZPSWs0cjVVbnF3MzRwTUFwRWdVQ0EyMG1GbWxqS28zU3hDU1ZpQS1WbVdoODlEdENTMkhHZXBmSWZ3TXoxVUVaR3FQbDkwS01BVmxpYVNjTE5laEFVWFhQVkhlVjZSWElYaUdnNzBQU0htQUFmeEdvTTVPWDdTbDhFVHB2ZS1XYTNWNE5zVVVQNGE3bE1hTzAza1l3Y0RB?oc=5)
 
 2026-06-27 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmdQdFo5WWZPSWs0cjVVbnF3MzRwTUFwRWdVQ0EyMG1GbWxqS28zU3hDU1ZpQS1WbVdoODlEdENTMkhHZXBmSWZ3TXoxVUVaR3FQbDkwS01BVmxpYVNjTE5laEFVWFhQVkhlVjZSWElYaUdnNzBQU0htQUFmeEdvTTVPWDdTbDhFVHB2ZS1XYTNWNE5zVVVQNGE3bE1hTzAza1l3Y0RB?oc=5)
-
----
-
-### [Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（5 則）
 
+### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+---
+
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
@@ -83,14 +91,6 @@ permalink: /news/telmisartan/
 2026-06-26 <span class="news-indication-tag">stroke</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
-
----
-
-### [Omega-3 schützt nicht vor Alzheimer: Studie mit 365 Probanden widerlegt Hoffnung](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
 
 ---
 

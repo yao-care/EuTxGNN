@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Neue Alzheimer-Antikörper und KI-Diagnostik: Was 2026 in Deutschland kommt - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHVybzhiUDlDWjUzOEJxMlJKWFVUOGVTUHFZOTh4dnRJRUp5YzFna2tBWkNlUDdmWjBVNmJCX0czVXp0R2hIRXNCU243ZkFLMndVSXB4akNKYnBZT1VJdXB5QVA3em5lcjYzbG9XaUprWGdveDlyeDNqNlY0Sks3QUpPbmZQT0dnZUMwREtNTDFxWlVzei1YMWdJM2VOU0J1QkpNU0psdkpZdw?oc=5)
+### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+
+---
+
+### [Se recalienta la carrera por lograr la nueva generación de tratamientos para adelgazar, esta vez en píldoras - Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+
+2026-06-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+
+---
+
+### [Alzheimer-Therapie: Zwei neue Antikörper seit Juni in Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG5KOTVRVk8xY3lkMnNqeE5HZTVhX2ZqSlc5NTlWQzAxQW1VbTdLRzFhRGRiMjB5MmlXeEhidGpzX3o2VktBQlNRZE5ZSGQwU0FwdFEtSGJBU3VYazFDT1lVeHVoOERYVVVLakdQdjkxNGJiQmVEOGR2NTVHdjMyLTlQQVgwYjZhaS1GN0ZUR0VwR05sVmtLU3BQMHV0UDZzVnc5d3d3Qm9QNy1mUkJsODZoMXA?oc=5)
 
 2026-06-28 <span class="news-drug-tag">Lecanemab</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHVybzhiUDlDWjUzOEJxMlJKWFVUOGVTUHFZOTh4dnRJRUp5YzFna2tBWkNlUDdmWjBVNmJCX0czVXp0R2hIRXNCU243ZkFLMndVSXB4akNKYnBZT1VJdXB5QVA3em5lcjYzbG9XaUprWGdveDlyeDNqNlY0Sks3QUpPbmZQT0dnZUMwREtNTDFxWlVzei1YMWdJM2VOU0J1QkpNU0psdkpZdw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG5KOTVRVk8xY3lkMnNqeE5HZTVhX2ZqSlc5NTlWQzAxQW1VbTdLRzFhRGRiMjB5MmlXeEhidGpzX3o2VktBQlNRZE5ZSGQwU0FwdFEtSGJBU3VYazFDT1lVeHVoOERYVVVLakdQdjkxNGJiQmVEOGR2NTVHdjMyLTlQQVgwYjZhaS1GN0ZUR0VwR05sVmtLU3BQMHV0UDZzVnc5d3d3Qm9QNy1mUkJsODZoMXA?oc=5)
 
 ---
 
@@ -67,22 +91,6 @@ permalink: /news/lecanemab/
 2026-06-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0dYb2ZEd2ZoX3NUTENnNThZMUVMX3pPN2c4ZFFmZzMwby1YckcwSkNmTXQ3bXNGTHZvN1RqYmN1M19JVE14ZVhiNVY3ZXE0MUx6MUNTd0FCWGVCWXlWMy1iRzJsc29mQXJSZGpSVjB3d09yV2NROWE4NllTTjZoeTk0WHhxM3VqTGp0M0R5ZTZ1WUdTOE9zQXBUSVZfbVpsUDkyUmI4V0pqS2lqY1Fxd3VFOWN3X3dfT0E?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
 
 ---
 

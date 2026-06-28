@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Un estudio halla biomarcadores en sangre que muestran cambios moleculares tras la psicoterapia para la depresión](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
+
+2026-06-28
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
+
+---
 
 ### [Rafael Rodríguez García, psiquiatra: "La depresión y la ansiedad en personas con problemas de tiroides podrían compartir una misma raíz genética" - El HuffPost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFFCQ0UwZ19DNDZ4WnVMa05lSlV5Q1JReVNlTFBEMmpUelo3XzdGcTlrM3hHSUlfdTdvZmtnZHdOdWxfcHE1bFRwUkVscHJyenBROHR5djRzbFlqVFNHUUtrbFpfVzBZSGxRaXp2TTRjZzFzb3gwYUtOOG5OZExTaU85VHF2ckotcjhvNHdCUFprWE1lNC1yck9xMjMyalgyRnYxU3pRUzhvUThHd3BtNGs5bnpHMF9INmNLdTdLYk9Kd19TWmNOMjBBenc1VXJGTnY0Y0I3Y25DdWUyazRtNFdVc0JHdE1ud2FlSnU3NFVBZ0xD0gGIAkFVX3lxTE5hTzdCZGNaZEZHTEVMV0tNbEFwR2RSejY2ZUhnbi02R2NjY0VXREhwMW4tT3I2Y2FSUmNla2h5ZTdqWnFXeW9LQ3RqcHJjUTVzdXh3VkJkZVk0QnhqYkJoM1pyQ0l1QkpZUzgyVWdxTHFrdDNUb29uaVZVTVNZQ1N3RTJDYV9OQ1UwNFhXYkZlTVdpRFlfZ0ZaaXY3OFN3azZXSlZ0RFRpWC1RUk9FVUx3STYteklKYU5CdEpYYmxaSTBIeVJVUXpnLV95LUw1QlVrNk5GamhOZm1rLWVVUkRyZzI4UEJQLXZLenR2NHNMWUJNMGlybExEMlZDOHVaUkl1eE5pbUE2MA?oc=5)
 

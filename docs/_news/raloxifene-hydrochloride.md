@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
+
+---
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 

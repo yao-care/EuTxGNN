@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "MS（multiple sclerosis） 相關新聞"
+title: "Multiple Sklerose（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。8 則新聞、26 個相關藥物。"
+description: "Multiple Sklerose（multiple sclerosis） 的相關健康新聞報導。7 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
-# MS（multiple sclerosis） 相關新聞
+# Multiple Sklerose（multiple sclerosis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>8 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="Multiple Sklerose（multiple sclerosis） 有什麼相關新聞？">
+<strong>Multiple Sklerose（multiple sclerosis）</strong> 目前有 <strong>7 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Multiple Sklerose」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,13 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [RD del Congo reporta más de 300 muertos por ébola](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdVTy1YZ2t4NkIzTDd3U3lBMmZrdEhYSXg1OV9BWHFNVURrdklrVXhmYlhySmRsUVNmNzI0ZmY3djZJVklIUU12RFV3REg2SzVYS1lReE12X2xJVWRZUjY1NUdORlltT1lMMnROcmdpYm5lek5YSTVEcUJpNDdtYUptbERwU1FXNFBjWnd6c2hSV0wyaUxN0gGXAUFVX3lxTE5ibVZ1SnhYdUw3dGV4MUpKTXFKV3c3MUlVNV9PNm1yaVNSanliSnpiSWN4bG1HWlhJWHRhRU5xS1ZmcFUtVXNuc3ZhMVhXUHR0a0xWT0Z4WWxGNlctSUpNNmhrNkNwcGdMUDFOdkpYSnhKNWVWZmJxdkZreldlT0M2VzQ2WWlYb3d1T1lFekdmTm5mOXdpZXc?oc=5)
+### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
 
-2026-06-27
+2026-06-28
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdVTy1YZ2t4NkIzTDd3U3lBMmZrdEhYSXg1OV9BWHFNVURrdklrVXhmYlhySmRsUVNmNzI0ZmY3djZJVklIUU12RFV3REg2SzVYS1lReE12X2xJVWRZUjY1NUdORlltT1lMMnROcmdpYm5lek5YSTVEcUJpNDdtYUptbERwU1FXNFBjWnd6c2hSV0wyaUxN0gGXAUFVX3lxTE5ibVZ1SnhYdUw3dGV4MUpKTXFKV3c3MUlVNV9PNm1yaVNSanliSnpiSWN4bG1HWlhJWHRhRU5xS1ZmcFUtVXNuc3ZhMVhXUHR0a0xWT0Z4WWxGNlctSUpNNmhrNkNwcGdMUDFOdkpYSnhKNWVWZmJxdkZreldlT0M2VzQ2WWlYb3d1T1lFekdmTm5mOXdpZXc?oc=5)
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
 
 ---
 
@@ -76,7 +76,23 @@ permalink: /news/multiple-sclerosis/
 
 2026-06-27
 
-來源：[ladbible.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+
+---
+
+### [Babies should have no intentional screen time, review says - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxObG9Ya2t0c2liMVpfN0Q5ejdsaTVJb1pkRDYzQkg2MG5zeVRKTVRHSmtsS1g2YWVqUnJ3Uk1tR2ZkTlhoOV9LdlpTOWpRNkNRM3NDN0J5UVNIZXFSYkgxeGhBNjZmc2ZBQXd0aW42cWFXQkI1TU5jT3N0SFBoUEZFMnBNcjA0Q1VhOXZBMVd2TGl6Ulg0VHc?oc=5)
+
+2026-06-27
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxObG9Ya2t0c2liMVpfN0Q5ejdsaTVJb1pkRDYzQkg2MG5zeVRKTVRHSmtsS1g2YWVqUnJ3Uk1tR2ZkTlhoOV9LdlpTOWpRNkNRM3NDN0J5UVNIZXFSYkgxeGhBNjZmc2ZBQXd0aW42cWFXQkI1TU5jT3N0SFBoUEZFMnBNcjA0Q1VhOXZBMVd2TGl6Ulg0VHc?oc=5)
+
+---
+
+### [Europa aprueba un tratamiento innovador para la esclerosis múltiple que actúa directamente en el cerebro: cuándo llegará a España - Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
+
+2026-06-27
+
+來源：[Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
 
 ---
 
@@ -93,30 +109,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-27
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tZzVRZ0s4czl1U2llU3Z4Zl9LUUw1eG9Db2hacVFZMVVsbFNGOVNTblFIczZHalNyemRJUy11eWZTTUpMNVlFaHFRRWNUZGNuT2ZCTHdmMHhQdVV0?oc=5)
-
----
-
-### [Bizarre menopause symptoms, from dry eyes to electric shocks - & Dr Zoe's tips - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
-
-2026-06-26
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
-
----
-
-### [Complex multicellularity is linked with expanded specialized metabolite production in microorganisms](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QYjY4dGlrdFRMbndUQjVaYVZBNUF2SUNnQWhKSXQ0bDBnUmQwejlOUVQzTWVLRnpGNWE1Yk80bWwyWUdza2VSMHV5c01PdnU2NkdXRHNETUMzZHBoN0Yw?oc=5)
-
-2026-06-26
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QYjY4dGlrdFRMbndUQjVaYVZBNUF2SUNnQWhKSXQ0bDBnUmQwejlOUVQzTWVLRnpGNWE1Yk80bWwyWUdza2VSMHV5c01PdnU2NkdXRHNETUMzZHBoN0Yw?oc=5)
-
----
-
-### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
-
-2026-06-26
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
 ---
 
