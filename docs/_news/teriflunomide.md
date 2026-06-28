@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
-### [Darmgesundheit: Rindfleisch verdoppelt Typ-2-Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+### [«El uso del preservativo en el sexo oral es muy escaso y las cifras de infecciones siguen al alza» - El Diario Vasco](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVEcGpVNGtlbjF0TFc0ZHQ3Vk92RzlCWEY5VV9NeTVDU1dVcmNoMEJCWVhZSVRUcDJDSnJ1dFVvSl9WRGxtX2c1WFozaUJZVkFqRzVFbEcyZ0RxZjhBNnl6WkcyeXBxbzNuYlBFZi11SURJeEp4Q0VJQjhqQ1NqVTdPM2oxdzRXdEhLcU5hU0ZKSEdFdmRyTDdDSnNVWHA1SFdFMHptZjQtYlNfbGRDeHNQZEl3UThjT3fSAb8BQVVfeXFMTnRPbEJybGZ4TG1vM1hUVnNDRkk1NnVac3ZpNjFWcm5rMUcwVlpfWVpuUUl2YnJBVkpybHA5RGttMFROSm9JYkZGTG9CX0ktNHZqRnlHNi1uV3dUR1VMbGM2RGxlYTVDUDVUa0RpZkJzMFBPUXdNU2lMeU56WHZsa2RQLWhYSzMxSG1TTURuWWFFRWprRlJEb3E1Ymg3bDBzYl94LU5IYmZXWVp3SWpNcUVaYmRhMUY0VmF1VGxROUU?oc=5)
 
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+2026-06-27 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVEcGpVNGtlbjF0TFc0ZHQ3Vk92RzlCWEY5VV9NeTVDU1dVcmNoMEJCWVhZSVRUcDJDSnJ1dFVvSl9WRGxtX2c1WFozaUJZVkFqRzVFbEcyZ0RxZjhBNnl6WkcyeXBxbzNuYlBFZi11SURJeEp4Q0VJQjhqQ1NqVTdPM2oxdzRXdEhLcU5hU0ZKSEdFdmRyTDdDSnNVWHA1SFdFMHptZjQtYlNfbGRDeHNQZEl3UThjT3fSAb8BQVVfeXFMTnRPbEJybGZ4TG1vM1hUVnNDRkk1NnVac3ZpNjFWcm5rMUcwVlpfWVpuUUl2YnJBVkpybHA5RGttMFROSm9JYkZGTG9CX0ktNHZqRnlHNi1uV3dUR1VMbGM2RGxlYTVDUDVUa0RpZkJzMFBPUXdNU2lMeU56WHZsa2RQLWhYSzMxSG1TTURuWWFFRWprRlJEb3E1Ymg3bDBzYl94LU5IYmZXWVp3SWpNcUVaYmRhMUY0VmF1VGxROUU?oc=5)
+
+---
+
+### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
+
+---
+
+### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
 
 ---
 
@@ -67,6 +83,14 @@ permalink: /news/teriflunomide/
 2026-06-27 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[LNE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmU2Y2M3cS1RalFuT3owSG1BZ2Z3WHVra3V0N01iY1V4eXRaMGt5MHdsRXp0VXNmWlVwbHJMb0hXYTJKaDF6Q0g0UWlFM05JN1Z2c2lJNWtSVUtHTEtWVDJkbVR5Yjdqc1dBUnhtUmcxUkh2Z0c5aUZXY0l5NGF0SVFrVktvN2PSAYwBQVVfeXFMTkplX1o1dkZMeE5vVFNGV1Y2cFdVdUcwWWQxRl9YVzNYc0E1Sm9NNmxfa09sRE9FaXE5SElobzVhZzRCX0Z6S3JmYXN6bk53NDRHbjFDZHZXemNuZmxHRTdfOUc4Zmo0SzkyRlQ4aGRrdmQxZDBZWDFPM3VTWVFWQVQ0Q1hFcW9Ud2cwWHo?oc=5)
+
+---
+
+### [Screen time can damage under-twos’ development, landmark study suggests - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOenVzNGZCLVF0WExrUFN4NHVid3lYMWJCUV9MRFpUY05zejdsaTEzdC1FRUFtVndRTFBvN0FIeXJNWnFiempaTzRtWElDdl9wakQ5THJhamVjcDl0ZFRRZGRndGVtd3luaFBEV0lZRTFBa2FEVTYwcEJlY0puM1pDRVpmS0ZDTEE1eGhQTDZadDZwVjFoaXROOFZqaw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxOenVzNGZCLVF0WExrUFN4NHVid3lYMWJCUV9MRFpUY05zejdsaTEzdC1FRUFtVndRTFBvN0FIeXJNWnFiempaTzRtWElDdl9wakQ5THJhamVjcDl0ZFRRZGRndGVtd3luaFBEV0lZRTFBa2FEVTYwcEJlY0puM1pDRVpmS0ZDTEE1eGhQTDZadDZwVjFoaXROOFZqaw?oc=5)
 
 ---
 
@@ -102,14 +126,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
 ### [Bizarre menopause symptoms, from dry eyes to electric shocks - & Dr Zoe's tips - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3dOZmJYVEtVTEFkRXQyQUFHaVN3SzA1NFpxaU85MEYzdGpxOW5uVFJDa1EybFh1MWluT2d6WXpfNG5BNWhYbllLcEhyNVRfekRaUXE4SDFCX2R5VnJjUUVVLS1seVVMbUhPeDFXcVhrbkVlUVoxQk85WTZiUVhSNnd1MlFnSFo5QkdHaTg3V1ZBSTBUX2RXYnRR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">MS</span>
@@ -128,7 +144,7 @@ permalink: /news/teriflunomide/
 
 ### [The 7 vague symptoms of 'overlooked' parasite that risks blinding and miscarriage - as 1 in 3 'unknowingly' infected - The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span>
+2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
 
@@ -160,7 +176,7 @@ permalink: /news/teriflunomide/
 
 ### [GP warns millions at risk of deadly fat jab mistakes in heat…when to dial 999 - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
-2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
@@ -171,14 +187,6 @@ permalink: /news/teriflunomide/
 2026-06-26 <span class="news-indication-tag">MS</span>
 
 來源：[Universitätsklinikum Tübingen](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXc2QzgtdVBpYnVaZjd6dTVVOHVERENmTXhiNnZIXzdFUkl3V3ZQdGN1WWltOHR0MXVmU0szQVp4bnRZTnBMeVM4SHZmS3Azb2JPb0RCR1FMSmJwWktxYjVhMUN0Q0RQWDRqUzlyR0lSRGJ0WjBuc1RwM0h3Q2V4RTFsaFZ5Ym8?oc=5)
-
----
-
-### [Doctor issues mosquito warning amid UK heatwave - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
-
-2026-06-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSl9iQVhhLV80Vlh3ZXlvMjFtbTJJT19tUy02S2g3WFdpTXFPd3NaWklybUh3Tm80cFp4VjJvTHBucF9hbWI1WjZjMWd0QXd6dkpISmE4Z1RzcFNOTXZxWEthVDlrcDZITWhkOEhMTzZyd05ZQlROQ19FR3EyLUZSQW1QVE5hNlpZOU12UGVLOG5kZ0hVcl9RZTc3RG9rZ3QwUmh1ZWtEWHdPOXEzUkVz?oc=5)
 
 ---
 

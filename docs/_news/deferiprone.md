@@ -14,7 +14,7 @@ permalink: /news/deferiprone/
 ---
 
 <p class="key-answer" data-question="Deferiprone 有什麼相關新聞？">
-<strong>Deferiprone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Deferiprone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/deferiprone/
 <p><a href="{{ '/drugs/deferiprone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
@@ -64,17 +64,9 @@ permalink: /news/deferiprone/
 
 ### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
-
-2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
 ---
 

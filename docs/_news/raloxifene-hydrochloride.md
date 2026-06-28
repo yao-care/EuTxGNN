@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（4 則）
 
-### [Prädiabetes: Normalisierung senkt Herzinfarktrisiko um 42 Prozent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+### [Blutzucker-Stabilisierung: Herzinfarkt-Risiko sinkt um 42 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/raloxifene-hydrochloride/
 
 ### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
-2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-06-26 <span class="news-indication-tag">stroke</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 

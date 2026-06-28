@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Prädiabetes: Normalisierung senkt Herzinfarktrisiko um 42 Prozent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+### [Blutzucker-Stabilisierung: Herzinfarkt-Risiko sinkt um 42 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
+
+---
+
+### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 ---
 
@@ -72,7 +80,7 @@ permalink: /news/telmisartan/
 
 ### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/telmisartan/
 
 ### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
-2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-06-26 <span class="news-indication-tag">stroke</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 

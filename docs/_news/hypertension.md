@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
@@ -98,14 +98,6 @@ permalink: /news/hypertension/
 2026-06-27
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
-
-2026-06-26
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
 ---
 

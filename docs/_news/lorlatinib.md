@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="Lorlatinib 有什麼相關新聞？">
-<strong>Lorlatinib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lorlatinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/lorlatinib/
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（24 則）
+
+### [Dementia deaths among women at highest level in five years - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmdQdFo5WWZPSWs0cjVVbnF3MzRwTUFwRWdVQ0EyMG1GbWxqS28zU3hDU1ZpQS1WbVdoODlEdENTMkhHZXBmSWZ3TXoxVUVaR3FQbDkwS01BVmxpYVNjTE5laEFVWFhQVkhlVjZSWElYaUdnNzBQU0htQUFmeEdvTTVPWDdTbDhFVHB2ZS1XYTNWNE5zVVVQNGE3bE1hTzAza1l3Y0RB?oc=5)
+
+2026-06-27 <span class="news-indication-tag">dementia</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmdQdFo5WWZPSWs0cjVVbnF3MzRwTUFwRWdVQ0EyMG1GbWxqS28zU3hDU1ZpQS1WbVdoODlEdENTMkhHZXBmSWZ3TXoxVUVaR3FQbDkwS01BVmxpYVNjTE5laEFVWFhQVkhlVjZSWElYaUdnNzBQU0htQUFmeEdvTTVPWDdTbDhFVHB2ZS1XYTNWNE5zVVVQNGE3bE1hTzAza1l3Y0RB?oc=5)
+
+---
 
 ### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
+
+---
+
+### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
 
 ---
 
@@ -70,11 +86,27 @@ permalink: /news/lorlatinib/
 
 ---
 
+### [Leberkrebs-Prävention: Kaffee senkt Risiko um über 50 Prozent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG5ZbDNLaDNYWmtqeDg1ODktQmNuYy1BSS0zajU2NFAzQzNBNGlzOFh6cjdHV2F1ZGRnXzN2MlU1SjZYQmZycFdpQl92MnBkRThHX090THo3OXdEdEhRVF9QZkN2bGxCQWF3YmRtTFI0TEFzZ1ZxUk9vM1EzX0c3YUVsYWdTekdDc2wySDJKN3NYNnhOUVd6RWc4MGQxWUdrY0tLdXcxa2FHNUFTa1JtSg?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG5ZbDNLaDNYWmtqeDg1ODktQmNuYy1BSS0zajU2NFAzQzNBNGlzOFh6cjdHV2F1ZGRnXzN2MlU1SjZYQmZycFdpQl92MnBkRThHX090THo3OXdEdEhRVF9QZkN2bGxCQWF3YmRtTFI0TEFzZ1ZxUk9vM1EzX0c3YUVsYWdTekdDc2wySDJKN3NYNnhOUVd6RWc4MGQxWUdrY0tLdXcxa2FHNUFTa1JtSg?oc=5)
+
+---
+
 ### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cancer</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+
+---
+
+### [Weekend reads: A tsunami of misleading medical studies; retraction calls cancer therapy timing into question; a closer look at Max Planck’s retractions - Retraction Watch](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmxITXRZMTI4X1FOeDN6VWdCT3ZkUFJlZmc2c2FBb2I4eE5TU0dlbW5WQ2hyX2tRWUhlbUNzQ2JMOW1xanl5U1o1elcyVk1DeFJqSGN6NUxfTk9SamxsQmJUZy1HX3MzMWtya2Q5blh3WmxISk9uZS16T2pDUFhnVWdnaUExemFwZmpEc0ZwWnNnQ21YUmUtMU1OM2tVZ1p1NzlFLWpKVHlkWk5rUExRdlhkQTJZWENmeG5IZkREenNOaGtPWDg0RWJZNVpWQQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Retraction Watch](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmxITXRZMTI4X1FOeDN6VWdCT3ZkUFJlZmc2c2FBb2I4eE5TU0dlbW5WQ2hyX2tRWUhlbUNzQ2JMOW1xanl5U1o1elcyVk1DeFJqSGN6NUxfTk9SamxsQmJUZy1HX3MzMWtya2Q5blh3WmxISk9uZS16T2pDUFhnVWdnaUExemFwZmpEc0ZwWnNnQ21YUmUtMU1OM2tVZ1p1NzlFLWpKVHlkWk5rUExRdlhkQTJZWENmeG5IZkREenNOaGtPWDg0RWJZNVpWQQ?oc=5)
 
 ---
 
@@ -102,6 +134,14 @@ permalink: /news/lorlatinib/
 
 ---
 
+### [Papilloma Virus, perché è fondamentale fare il vaccino. L'oncologa Rossana Berardi: «Se tutti fossimo vaccinati contro l’HPV potrebbe dirsi debellato il tumore della cervice uterina, da cui dipende quasi esclusivamente» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV21YeVhMbmVsdUQzQzhzWWxjOWw0YmxZM2gtUzhuUzFzcE93WE50eVFoNGtiOERWRUJtU0EwNzByQWRQODdXQ25NaVB2aXgtSFNhLTF5bnljdGlraktmNkVsdTJBYktSRFRBMnJpUHUtQlJWXzhWWS1USGZ1aW53S0lKQW01Y1ZIdjFPcllzUDU?oc=5)
+
+2026-06-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV21YeVhMbmVsdUQzQzhzWWxjOWw0YmxZM2gtUzhuUzFzcE93WE50eVFoNGtiOERWRUJtU0EwNzByQWRQODdXQ25NaVB2aXgtSFNhLTF5bnljdGlraktmNkVsdTJBYktSRFRBMnJpUHUtQlJWXzhWWS1USGZ1aW53S0lKQW01Y1ZIdjFPcllzUDU?oc=5)
+
+---
+
 ### [‘Zombie’ squirrels with oozing warts are found in several states in peoples’ backyards - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
 2026-06-26 <span class="news-indication-tag">tumour</span>
@@ -126,27 +166,11 @@ permalink: /news/lorlatinib/
 
 ---
 
-### [Weniger Todesfälle durch Gebärmutterhalskrebs nach HPV-Impfung](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Krebs</span>
-
-來源：[netDoktor](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGg0TVAtZFQ0akFBYjRHRG5jNUgxZ2duSUVYaDdKYXJYRWRSbGdZc3UwY2VXTXJodkMwSmNpV1VVeXVlNXkzLVo1akFjMVNnczhudjRDaHNfU1FzX2ptNnZZWG1rcGRZYXMxVENfaEh0NzFuRUt3NkV4ZVE3a1hvZ3N0QlYzQVJWQWFQSnJ1R1BmamlQWXJyZTV0Zw?oc=5)
-
----
-
 ### [Weniger Rückfälle, längere Tumorfreiheit: Neue Gentherapie macht Hoffnung bei Prostatakrebs](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
 
 2026-06-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
-
----
-
-### [Kaffee-Konsum reduziert Leberkrebs-Risiko](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnFhNVZqWUJRMUhwRXlxbl9GejVlNTRvVXMxeFp3RGNQR29XcC0tbFZOcHFWQVJiZ2VnaHA0OEpCckNTUndUaHhiYk0zaThMRXd5aUNBOHBDOC1ZVXJvWkFPZnFlUkFqWnFVY3hxS0lGYmlWVkp0bm9kYU9SYzBEamxjYVFQU2ROdlBCUERyXzdidEt3RHJlM2dDZDZ3dGtxWUVJRg?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnFhNVZqWUJRMUhwRXlxbl9GejVlNTRvVXMxeFp3RGNQR29XcC0tbFZOcHFWQVJiZ2VnaHA0OEpCckNTUndUaHhiYk0zaThMRXd5aUNBOHBDOC1ZVXJvWkFPZnFlUkFqWnFVY3hxS0lGYmlWVkp0bm9kYU9SYzBEamxjYVFQU2ROdlBCUERyXzdidEt3RHJlM2dDZDZ3dGtxWUVJRg?oc=5)
 
 ---
 
@@ -163,6 +187,14 @@ permalink: /news/lorlatinib/
 2026-06-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY292ZVhjbXF1bU9IM2wtaU55VEtVTnByeVJ4SVRFLVM2QTFXdUNCUW1xRy1CaGJwTGJ0MUI0bjZVaTdJb1NSZUdQNWt2akhfNlFnSUtFUzlGa2JtckdqNHVyRW5YTmtGRGlSYnl3QmlrdEVKZjBWcnJFelg2c1JDekR5UW1tUEJ1enIyTU15WlNBVjU5dVFjLWNPSjVrYkhsdFJr?oc=5)
+
+---
+
+### ['False reassurance': Warning over DIY prostate cancer test kits](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEc1WlV6a19GUGRXWjg5UmdvYk9ZWDJhM3dMUGRMa09hUE1NMTlNd0d6NFNXUXBfQ0N6aTE1WTJRNHk0d0VSdFFUWFQ1T0U2VEtBSmN1cnFqUzFiV2Q2dG9xb1VNbUtsbFhwcFJMbllVODQwbTRtTTFQWE45bjFRa3g5VmFZb3JoVmw1T0ItTE1MWEY1U21MajI1Sm0?oc=5)
+
+2026-06-26 <span class="news-indication-tag">cancer</span>
+
+來源：[1News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEc1WlV6a19GUGRXWjg5UmdvYk9ZWDJhM3dMUGRMa09hUE1NMTlNd0d6NFNXUXBfQ0N6aTE1WTJRNHk0d0VSdFFUWFQ1T0U2VEtBSmN1cnFqUzFiV2Q2dG9xb1VNbUtsbFhwcFJMbllVODQwbTRtTTFQWE45bjFRa3g5VmFZb3JoVmw1T0ItTE1MWEY1U21MajI1Sm0?oc=5)
 
 ---
 
@@ -192,17 +224,9 @@ permalink: /news/lorlatinib/
 
 ### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
 
-2026-06-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
-
----
-
-### [Nuove cure a disposizione per i tumori del sistema linfatico, leucemia linfatica cronica e linfoma mantellare - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmZWcTl5Z0s2Q09UY1Zya2Z6c2xUTnpWWjllZHdLMnpvMDNkSmZtNVc5dlppY0ZBVHA0QVgyUktqOThVV3QzdlRzUUlKRzZrZ3NxZEQxZ1pNS29SVEV0RVZ5ODgybTdLNldHemtaRVhhVzFYRlBfaDgtVkFPekNCR0NDemN2SU1ucHhHbF9nLS1KV01SMVFqM3cwV3lkOWJGdmpIalEwb0haUk9QV3lkVWpraG96VWxmb2NJVkd5OUJUTjN6SkM0ZWV5bUNnWk12eEdiei0zM2ZIZDA5WXA0VkxYeU01XzJsMGIxNXM1SFN3WXFteTBEZ0J3c016bVQ1Wnl6el9teEVmYkdpTndiU3I4TnRZSGZCc0VPM1o2TjVNVTI2ZmlwZkloWGFrU3d5NGYzdlN4Y9IBvAJBVV95cUxNX2N0eS1xQVZxR1VGcGVveFM2ZkU4Nk5iTDNwVVhYYTR2VndVNmFJVG85d3JCb1FqMmE1d3NtM2RCUGdmM1BFb1VnM2llbDBHc0Q4cGhPNnIyeXhteDcyT3dKTHY5WFRWUWFyRmd0MHBfWXpXVmpweTFvalJnd2RQM2hjdHhpd0RiYmVXZ2hPd2JzTkZ6c0c4em8xcmt6dWlXVkFRMnRjNExTTFRkYl9tSVM5b1ExRi03ZEJLbFpnR3ltZ0VreTFnOWFMUnJOVXVMQks5ZkUtdHVuWnZpd3JQT1IzRHF5ak5sRDlvakt1TkdVYkMxVFdONUxsbS1RdUtoVlA4UWV0dDFiSEZqR2hxRG41T2x4M2RkNWxrMExmVlVZSGNOR3kwWWZ5clI2a2ZqYndoaFlEdHp2WXdY?oc=5)
 
 ---
 

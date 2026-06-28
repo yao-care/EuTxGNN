@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Darmgesundheit: Rindfleisch verdoppelt Typ-2-Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+### [Huelva rompe el mito estacional de las alergias: Una guardia permanente en el Juan Ramón Jiménez frente al asma, los alimentos y los fármacos - Huelva Información](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2Exb2hvVG5CMkZURjVUaE16dThpd1M3Ml96TEIwSnMzRWlIODJtcFFUN0N1aWt4UklwUnVaU1NNSl9neXo5NDRDUi1vT0Z4MXVGbElkZWZXTUk4TVZVTkZoaWJvQUpXaVBWbUVyTHRsbmNHVklra1VrcEFldXFuaWNVQTVOUDhUTHF1WjA3MzJrMWJERkJGaDdPSUs5UUU1WmZmN2cyRXJtRnAtdTNsSEs3NGlFRl9qUDZjX2Y2clZOV0REdFHSAcsBQVVfeXFMUDFrYlkxRXJTMmNzVDdYcDJOaE1EMkJzNmlZY3p1ZHlHUWRzcXBJc0JjcFFkaWlJY0J5SEM2SFhtdGEzUm9TTTdDa29TSmItZm5KTHRub2h0Smt6Y2xXZU1YcFFsNnp2VGc0S2ltVlViV0t0eXpUMFQwUkxyMU52S2tqSm5FWGZ1eU81LXNGNlFhMmllM0pIVXVpUnhhMFYtRzNzNXdRbXY3MjROVHRjd1pKZWticFVFMUxuVEFKeHN2cEdxSUlzX0Q5bHc?oc=5)
 
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+2026-06-28 <span class="news-indication-tag">asma</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+來源：[Huelva Información](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2Exb2hvVG5CMkZURjVUaE16dThpd1M3Ml96TEIwSnMzRWlIODJtcFFUN0N1aWt4UklwUnVaU1NNSl9neXo5NDRDUi1vT0Z4MXVGbElkZWZXTUk4TVZVTkZoaWJvQUpXaVBWbUVyTHRsbmNHVklra1VrcEFldXFuaWNVQTVOUDhUTHF1WjA3MzJrMWJERkJGaDdPSUs5UUU1WmZmN2cyRXJtRnAtdTNsSEs3NGlFRl9qUDZjX2Y2clZOV0REdFHSAcsBQVVfeXFMUDFrYlkxRXJTMmNzVDdYcDJOaE1EMkJzNmlZY3p1ZHlHUWRzcXBJc0JjcFFkaWlJY0J5SEM2SFhtdGEzUm9TTTdDa29TSmItZm5KTHRub2h0Smt6Y2xXZU1YcFFsNnp2VGc0S2ltVlViV0t0eXpUMFQwUkxyMU52S2tqSm5FWGZ1eU81LXNGNlFhMmllM0pIVXVpUnhhMFYtRzNzNXdRbXY3MjROVHRjd1pKZWticFVFMUxuVEFKeHN2cEdxSUlzX0Q5bHc?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/sarilumab/
 2026-06-27 <span class="news-indication-tag">asma</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
+
+---
+
+### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
 
 ---
 

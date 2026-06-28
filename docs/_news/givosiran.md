@@ -54,6 +54,14 @@ permalink: /news/givosiran/
 
 ## 相關新聞（5 則）
 
+### [«El uso del preservativo en el sexo oral es muy escaso y las cifras de infecciones siguen al alza» - El Diario Vasco](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVEcGpVNGtlbjF0TFc0ZHQ3Vk92RzlCWEY5VV9NeTVDU1dVcmNoMEJCWVhZSVRUcDJDSnJ1dFVvSl9WRGxtX2c1WFozaUJZVkFqRzVFbEcyZ0RxZjhBNnl6WkcyeXBxbzNuYlBFZi11SURJeEp4Q0VJQjhqQ1NqVTdPM2oxdzRXdEhLcU5hU0ZKSEdFdmRyTDdDSnNVWHA1SFdFMHptZjQtYlNfbGRDeHNQZEl3UThjT3fSAb8BQVVfeXFMTnRPbEJybGZ4TG1vM1hUVnNDRkk1NnVac3ZpNjFWcm5rMUcwVlpfWVpuUUl2YnJBVkpybHA5RGttMFROSm9JYkZGTG9CX0ktNHZqRnlHNi1uV3dUR1VMbGM2RGxlYTVDUDVUa0RpZkJzMFBPUXdNU2lMeU56WHZsa2RQLWhYSzMxSG1TTURuWWFFRWprRlJEb3E1Ymg3bDBzYl94LU5IYmZXWVp3SWpNcUVaYmRhMUY0VmF1VGxROUU?oc=5)
+
+2026-06-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVEcGpVNGtlbjF0TFc0ZHQ3Vk92RzlCWEY5VV9NeTVDU1dVcmNoMEJCWVhZSVRUcDJDSnJ1dFVvSl9WRGxtX2c1WFozaUJZVkFqRzVFbEcyZ0RxZjhBNnl6WkcyeXBxbzNuYlBFZi11SURJeEp4Q0VJQjhqQ1NqVTdPM2oxdzRXdEhLcU5hU0ZKSEdFdmRyTDdDSnNVWHA1SFdFMHptZjQtYlNfbGRDeHNQZEl3UThjT3fSAb8BQVVfeXFMTnRPbEJybGZ4TG1vM1hUVnNDRkk1NnVac3ZpNjFWcm5rMUcwVlpfWVpuUUl2YnJBVkpybHA5RGttMFROSm9JYkZGTG9CX0ktNHZqRnlHNi1uV3dUR1VMbGM2RGxlYTVDUDVUa0RpZkJzMFBPUXdNU2lMeU56WHZsa2RQLWhYSzMxSG1TTURuWWFFRWprRlJEb3E1Ymg3bDBzYl94LU5IYmZXWVp3SWpNcUVaYmRhMUY0VmF1VGxROUU?oc=5)
+
+---
+
 ### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -64,17 +72,9 @@ permalink: /news/givosiran/
 
 ### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
-
-2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
 ---
 

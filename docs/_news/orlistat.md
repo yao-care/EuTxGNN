@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Blutzucker-Stabilisierung: Herzinfarkt-Risiko sinkt um 42 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
+
+---
 
 ### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
-
----
-
-### [Prädiabetes: Normalisierung senkt Herzinfarktrisiko um 42 Prozent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ permalink: /news/orlistat/
 
 ### [This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
-2026-06-26 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span>
+2026-06-26 <span class="news-indication-tag">stroke</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5)
 
@@ -115,14 +115,6 @@ permalink: /news/orlistat/
 2026-06-26 <span class="news-indication-tag">obesità</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
-
----
-
-### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUQ?oc=5)
 
 ---
 

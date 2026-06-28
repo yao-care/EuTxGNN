@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="Belimumab 有什麼相關新聞？">
-<strong>Belimumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belimumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,53 @@ permalink: /news/belimumab/
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
 
-### [Darmgesundheit: Rindfleisch verdoppelt Typ-2-Diabetes-Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+### [Silent Inflammation: KI-gestützte Diagnostik und neue Studien zu stillen Entzündungen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxBVEdEb2tiXzF3VWdZMjNJaFZkYk05a1ozT1VmeFplSno0VEp1NFlTZnk2ZTJLOFMzcUpPc21OakM0TkVERFVtZE9DekZhdTRGenV0azVQQVRFWVB6YndxR3A4UjhYZHQwYjNRS01VamduUTRtdVh4eERzZm90Z1JST3ZOYjBaQzlBRXNGMjZNU3FXU19UMWdNdEFaRHhZSEVmQlJpY0JsRm1MVHBINU9OSl9IbTBBZVE?oc=5)
 
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+2026-06-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUpNMG10ekRod05HTkcxd0FEN241dGdkQUpkU3ZtYi1DYXVYN3diY0xhVWxWdTdXdkJIVGxXNVNEd29XcmJkUXp5S0ZCaDY0YW42U1FxcDNMVnlVTk9hWFpHZWxLY0JHWEtFYk90T3U3MGdzQWFNeVNIUUJENVNxSzVFQUJucW55aEx1RGlENTU5TnBpQnpWWFVIUjFaSDBkNmtBSEpGQWpTLTV1?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxBVEdEb2tiXzF3VWdZMjNJaFZkYk05a1ozT1VmeFplSno0VEp1NFlTZnk2ZTJLOFMzcUpPc21OakM0TkVERFVtZE9DekZhdTRGenV0azVQQVRFWVB6YndxR3A4UjhYZHQwYjNRS01VamduUTRtdVh4eERzZm90Z1JST3ZOYjBaQzlBRXNGMjZNU3FXU19UMWdNdEFaRHhZSEVmQlJpY0JsRm1MVHBINU9OSl9IbTBBZVE?oc=5)
 
 ---
 
-### [Prädiabetes: Normalisierung senkt Herzinfarktrisiko um 42 Prozent](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+### [Diabetes vorbeugen: 28 g Joghurt täglich, plus Fettqualität und Messroutine - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDJiNFl4akd6ejNsV3phY2RqcWNoZ3hkNTFKMnlUWGd0R25VUXhaTlJhZGRibFlnU2djaURaTHJGeUdYdDJnR3NsS0VMa1hXa2txc2ktSmhhZzVZYnVxV2hPZE9RZzVfbHNPNDl4emVFc0JyTnpOV01mbFBIZUFySjlaeS1zWDV5MWlQT2ZYQ0p3QXUwVW4zaHJrUk10VGt2RGxMa3dFY2J3X0U?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDJiNFl4akd6ejNsV3phY2RqcWNoZ3hkNTFKMnlUWGd0R25VUXhaTlJhZGRibFlnU2djaURaTHJGeUdYdDJnR3NsS0VMa1hXa2txc2ktSmhhZzVZYnVxV2hPZE9RZzVfbHNPNDl4emVFc0JyTnpOV01mbFBIZUFySjlaeS1zWDV5MWlQT2ZYQ0p3QXUwVW4zaHJrUk10VGt2RGxMa3dFY2J3X0U?oc=5)
+
+---
+
+### [Blutzucker-Stabilisierung: Herzinfarkt-Risiko sinkt um 42 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVJmX3lIMlhFRG9HRUNpVVR6SGI5MVpjTFJRSWF1MXJFNkhQeDhyQUJEMk81RkY5U29wRHZlbTcyUDZ0VEFyS3BqNkdTU0lTTmNjQkVtNFhZN29lM29qOFlSWmZkdUVVNW9kanFRejV2em5Ud1pOTEVpVnpGdjBlOXN6SENsMkZvcFpZOG5Pam5HeG1jTnhXemNPODRXVDJldFY3YS1PWk1jM0ZPM3AxNVFTX1g?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
 
 ---
 
-### [Demenz-Prävention: Diabetes-Medikamente senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGE2ZGdQajZpY1oxOHdIeGp6RmZaZ3Q0NDdpWVdPZ01LcXNaZWdMeDAyMEl2UHp2YUNOaUFqcGdxdERmNndJcEYxcDZlQmo4WC1hb0VCUW5naXN1WFI4S2NQS3UxWEJjaU1oWUdIRlVid1ZWMGZlTEoyREpGX2pTSnBHalZKdVFhYUp1OWR5c1B0ZHFPcUJidk9HYlpNUURoX3VSMDdoSUxyRnp2VGUteFJkT1ZIYnp6Rnc?oc=5)
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGE2ZGdQajZpY1oxOHdIeGp6RmZaZ3Q0NDdpWVdPZ01LcXNaZWdMeDAyMEl2UHp2YUNOaUFqcGdxdERmNndJcEYxcDZlQmo4WC1hb0VCUW5naXN1WFI4S2NQS3UxWEJjaU1oWUdIRlVid1ZWMGZlTEoyREpGX2pTSnBHalZKdVFhYUp1OWR5c1B0ZHFPcUJidk9HYlpNUURoX3VSMDdoSUxyRnp2VGUteFJkT1ZIYnp6Rnc?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
 
 ---
 
-### [Diabetes-Prävention: 28 Gramm Joghurt täglich senken Risiko um 18%](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWo1UzFFb0FfdHdvT2xBSWlXWF9ZVWdZWE9tS2JaM1RQd3JvSHdVMF9WaHlWbDhPU0ktYy1zQk5DNEQ4UnVlUjFnM0xCLWoxY1lTSHRnbVFKQi13VnFSRjJPM2VkblJ2Ung2VkpUWFdNbVRqZDNCODVvVUplcnBaZko1UExmQy1lN3N3bGE5RWpKUVM4WXpBVjBHckU2ejVPbVVIZ3EteXlJWUJIUE0wNDFvUUdndw?oc=5)
+### [El ejercicio ayuda, pero los expertos coinciden en que hay un truco mejor para eliminar la grasa abdominal ...](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXVmRkhPSHhMNk9ObnZCTEJWNHVJdFpwRjNTSXNfcXVteU5CUFFTSUM5RXNqUThWNFpSbmFBUlptb2FhUXp2bmVYLUZYN3RuaHZ0OF9fYWMyXzg2Mmh1NEswU01TYjU3WndVeUVvSHJzX0Q5Z3ZZempQb08zeUtmeWdLWjlFMXpqZnFyUGZGWWNESGF6NjJhbFRZbmZqTmFHR25OUnRVNHVoUGN6emtVc1F4WUxobkRCQ2MxaldpNnZwbXVIdV9OVm1PZzRrTkxpSThwM2tuZzlvZHJDWXhXTnpuRXR0RXF1X2tucGdCSdIB9AFBVV95cUxNQWNZQmpsbVllTXhoeHNFY2lwLTVJLUhUU1gtRzJoTms5bU9WUGNiRkJTSlhpZHotN1VvV05jV04wam1qZjhEc0tSYjR2aW1BS1AxNHljTEl0WnR6WVh5andqZHh2bU51N2NvRGZRTENjQkVPSm93ek5pSkY5R25fZGhnenNKa3h3eENCSURua3ZyQzBXZFdUUkt5R0RwUmwtbXFMMV9PSXB1ZFBsYjd0TWxQUGFyVjN5QmtLdlNNQ0dPQWRHaWlabnAxamtqWmd2UEZCaWRPVWxLMU1hXzZvOXA4RWxxMEVwNTRKdHhlXzl2NEdh?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWo1UzFFb0FfdHdvT2xBSWlXWF9ZVWdZWE9tS2JaM1RQd3JvSHdVMF9WaHlWbDhPU0ktYy1zQk5DNEQ4UnVlUjFnM0xCLWoxY1lTSHRnbVFKQi13VnFSRjJPM2VkblJ2Ung2VkpUWFdNbVRqZDNCODVvVUplcnBaZko1UExmQy1lN3N3bGE5RWpKUVM4WXpBVjBHckU2ejVPbVVIZ3EteXlJWUJIUE0wNDFvUUdndw?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXVmRkhPSHhMNk9ObnZCTEJWNHVJdFpwRjNTSXNfcXVteU5CUFFTSUM5RXNqUThWNFpSbmFBUlptb2FhUXp2bmVYLUZYN3RuaHZ0OF9fYWMyXzg2Mmh1NEswU01TYjU3WndVeUVvSHJzX0Q5Z3ZZempQb08zeUtmeWdLWjlFMXpqZnFyUGZGWWNESGF6NjJhbFRZbmZqTmFHR25OUnRVNHVoUGN6emtVc1F4WUxobkRCQ2MxaldpNnZwbXVIdV9OVm1PZzRrTkxpSThwM2tuZzlvZHJDWXhXTnpuRXR0RXF1X2tucGdCSdIB9AFBVV95cUxNQWNZQmpsbVllTXhoeHNFY2lwLTVJLUhUU1gtRzJoTms5bU9WUGNiRkJTSlhpZHotN1VvV05jV04wam1qZjhEc0tSYjR2aW1BS1AxNHljTEl0WnR6WVh5andqZHh2bU51N2NvRGZRTENjQkVPSm93ek5pSkY5R25fZGhnenNKa3h3eENCSURua3ZyQzBXZFdUUkt5R0RwUmwtbXFMMV9PSXB1ZFBsYjd0TWxQUGFyVjN5QmtLdlNNQ0dPQWRHaWlabnAxamtqWmd2UEZCaWRPVWxLMU1hXzZvOXA4RWxxMEVwNTRKdHhlXzl2NEdh?oc=5)
+
+---
+
+### [Gürtelrose-Impfung: Neue Studie senkt Demenzrisiko um 24%](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSk5paVRCWTItbXJlZTlONVJORjF0cl9mOUVYeHZCb2F2SEZyeVM4aG55TWJNSFNET01fdmViNmV4RVhQazVnd2JyWjJUZ3B1cFlSd1hva1RyaFVqclRpNTllNUVHdl9DeXc3bXk4bVpqVndqcHhlNVY4dGpXaHhtdWhWLVA1S2dVMHpVNGFpYi11QnhoeUdIU1JsUUZWeWo4QlJVbW9WblctSHpBMHRtWWtMVQ?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/belimumab/
 
 ---
 
-### [Gürtelrose- und Zahnpasta-Ansätze: Neue Wege zur Alzheimer-Prävention - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
+### [Fr1da-Screening auf Typ-1-Diabetes wird auf 12 Bundesländer ausgeweitet - Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFZCVmJ2QVM3WFRMZjYxdjFXRHB5dkdUbXZBNjJvb2hrdUJ2TXZRbmFMVlpFTS0yTjdOMWVPeE1CRk5VUEZZcVJpU2JYWWVmX2VXVmVKUHJlYmhvbHczR3V2NmxDLWxfWEluSjBXV3dQbkQ1STZpdlpwVHlIc0sxcmpHck95NVEwUFlDQmZ6cDZlYkhNUjZJOEpR?oc=5)
 
 2026-06-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWER0a0pjZFA0VkphbHRyYk5WNXlPNHp2NlE2blIxX29MNjY5a3hqcC1yRlZOSU1DZVpUclpZMnMzZTBtUGYzYXRkdVp1VWVjb3NQUHBZODdaNnlCSlJ1T3dBdjJwSHpTeUNqYVdQR0lCSEFLSEU4R2RLTkIwMWYzakN4OU1PclUtWkdOUmMzM2RvZ3NuSm4xSkdLLWUySmdSMGNqeg?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFZCVmJ2QVM3WFRMZjYxdjFXRHB5dkdUbXZBNjJvb2hrdUJ2TXZRbmFMVlpFTS0yTjdOMWVPeE1CRk5VUEZZcVJpU2JYWWVmX2VXVmVKUHJlYmhvbHczR3V2NmxDLWxfWEluSjBXV3dQbkQ1STZpdlpwVHlIc0sxcmpHck95NVEwUFlDQmZ6cDZlYkhNUjZJOEpR?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/belimumab/
 
 ---
 
-### [Investigadores detectan en el ADN huellas asociadas a la obesidad y el entorno en la salud infantil](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUQ?oc=5)
+### [Prädiabetes: Blutzucker-Normalisierung senkt Herzinfarkt-Risiko um 42%](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
 
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-06-26 <span class="news-indication-tag">diabetes</span>
 
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2t2N3g5NHVIYzduN0dNLVRQVUFpRFY4Yy1WaER1V0s1bHBmeEZwSzhvcjV4dmg0Yi1hR2xxbkZ1WmlZeHRuQzNYUVZNT0dVaklqM2xDVFFOeUFqZ3I5OWhlZlRsUFpHNzd0NTU4V0xNdS1pSUFieUJwWjd4S3RBazFycXJmc19YdS1WdnN1cDU5ajI1enRhS2JaZlAxVk5rN09rdzJONXROQUxpdk1MX29neTZhQnIwOXlCNHA5NUlWU0Q1V2w0bU5SNDV3cjZ6QnMya0RxUQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
 
 ---
 

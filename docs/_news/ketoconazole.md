@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Huelva rompe el mito estacional de las alergias: Una guardia permanente en el Juan Ramón Jiménez frente al asma, los alimentos y los fármacos - Huelva Información](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2Exb2hvVG5CMkZURjVUaE16dThpd1M3Ml96TEIwSnMzRWlIODJtcFFUN0N1aWt4UklwUnVaU1NNSl9neXo5NDRDUi1vT0Z4MXVGbElkZWZXTUk4TVZVTkZoaWJvQUpXaVBWbUVyTHRsbmNHVklra1VrcEFldXFuaWNVQTVOUDhUTHF1WjA3MzJrMWJERkJGaDdPSUs5UUU1WmZmN2cyRXJtRnAtdTNsSEs3NGlFRl9qUDZjX2Y2clZOV0REdFHSAcsBQVVfeXFMUDFrYlkxRXJTMmNzVDdYcDJOaE1EMkJzNmlZY3p1ZHlHUWRzcXBJc0JjcFFkaWlJY0J5SEM2SFhtdGEzUm9TTTdDa29TSmItZm5KTHRub2h0Smt6Y2xXZU1YcFFsNnp2VGc0S2ltVlViV0t0eXpUMFQwUkxyMU52S2tqSm5FWGZ1eU81LXNGNlFhMmllM0pIVXVpUnhhMFYtRzNzNXdRbXY3MjROVHRjd1pKZWticFVFMUxuVEFKeHN2cEdxSUlzX0Q5bHc?oc=5)
+
+2026-06-28 <span class="news-indication-tag">asma</span>
+
+來源：[Huelva Información](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2Exb2hvVG5CMkZURjVUaE16dThpd1M3Ml96TEIwSnMzRWlIODJtcFFUN0N1aWt4UklwUnVaU1NNSl9neXo5NDRDUi1vT0Z4MXVGbElkZWZXTUk4TVZVTkZoaWJvQUpXaVBWbUVyTHRsbmNHVklra1VrcEFldXFuaWNVQTVOUDhUTHF1WjA3MzJrMWJERkJGaDdPSUs5UUU1WmZmN2cyRXJtRnAtdTNsSEs3NGlFRl9qUDZjX2Y2clZOV0REdFHSAcsBQVVfeXFMUDFrYlkxRXJTMmNzVDdYcDJOaE1EMkJzNmlZY3p1ZHlHUWRzcXBJc0JjcFFkaWlJY0J5SEM2SFhtdGEzUm9TTTdDa29TSmItZm5KTHRub2h0Smt6Y2xXZU1YcFFsNnp2VGc0S2ltVlViV0t0eXpUMFQwUkxyMU52S2tqSm5FWGZ1eU81LXNGNlFhMmllM0pIVXVpUnhhMFYtRzNzNXdRbXY3MjROVHRjd1pKZWticFVFMUxuVEFKeHN2cEdxSUlzX0Q5bHc?oc=5)
+
+---
 
 ### [Un estudio con más de 30.000 niños desmonta el vínculo directo entre los gatos domésticos y las crisis de asma](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
 
