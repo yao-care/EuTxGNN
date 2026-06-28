@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
+
+### [Un estudio pionero descarta el impacto de la bacteria Mycoplasma genitalium en la repetición de partos pretérmino](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
+
+2026-06-28 <span class="news-indication-tag">asma</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
+
+---
+
+### [Un estudio desmonta el mito de que la fruta por la noche eleva la glucosa - 65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
+
+---
 
 ### [Silent Inflammation: KI-gestützte Diagnostik und neue Studien zu stillen Entzündungen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxBVEdEb2tiXzF3VWdZMjNJaFZkYk05a1ozT1VmeFplSno0VEp1NFlTZnk2ZTJLOFMzcUpPc21OakM0TkVERFVtZE9DekZhdTRGenV0azVQQVRFWVB6YndxR3A4UjhYZHQwYjNRS01VamduUTRtdVh4eERzZm90Z1JST3ZOYjBaQzlBRXNGMjZNU3FXU19UMWdNdEFaRHhZSEVmQlJpY0JsRm1MVHBINU9OSl9IbTBBZVE?oc=5)
 
@@ -70,35 +86,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetes vorbeugen: 28 g Joghurt täglich, plus Fettqualität und Messroutine - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDJiNFl4akd6ejNsV3phY2RqcWNoZ3hkNTFKMnlUWGd0R25VUXhaTlJhZGRibFlnU2djaURaTHJGeUdYdDJnR3NsS0VMa1hXa2txc2ktSmhhZzVZYnVxV2hPZE9RZzVfbHNPNDl4emVFc0JyTnpOV01mbFBIZUFySjlaeS1zWDV5MWlQT2ZYQ0p3QXUwVW4zaHJrUk10VGt2RGxMa3dFY2J3X0U?oc=5)
-
-2026-06-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDJiNFl4akd6ejNsV3phY2RqcWNoZ3hkNTFKMnlUWGd0R25VUXhaTlJhZGRibFlnU2djaURaTHJGeUdYdDJnR3NsS0VMa1hXa2txc2ktSmhhZzVZYnVxV2hPZE9RZzVfbHNPNDl4emVFc0JyTnpOV01mbFBIZUFySjlaeS1zWDV5MWlQT2ZYQ0p3QXUwVW4zaHJrUk10VGt2RGxMa3dFY2J3X0U?oc=5)
-
----
-
-### [Blutzucker-Stabilisierung: Herzinfarkt-Risiko sinkt um 42 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
+### [Diabetes-Prävention: 28g Joghurt täglich senken Risiko um 18%](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTENrUDY3dFZjTldRTmhJMzlaMWlkbEg4MURSUzdoLXc5dDdTSkF6VGlacXgxXzZOaUs4cVR1LW02LWQyZE5XNi1WRkNrUWVrM0lHR2FXVTB1b2twYnRxM0duTFZ3YUFuVHBsOC1ub01DVEk0ZnZNQWd1RUJjNVZ1ekdmcGx1MFA4eUhZSFdOV2xBTGRfZ083Um52aGV3ODF3QXBpenJpNnljd2lQSGFlVUdHR2ZCYl9KQ0E?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
-
----
-
-### [Un estudio con más de 30.000 niños desmonta el vínculo directo entre los gatos domésticos y las crisis de asma](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
-
-2026-06-27 <span class="news-indication-tag">asma</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2d5Wkw0ZGx1eU5XZEstZE1SMXJBNjZ6Vkw4YzVDRDQ4TDYtQllUZXRaYUF4VHB5anlueUJKR25xZDROMVBRMFYzRHBJenVjSnBRYjRJMXN1N1dnbVFxcDRjVDlMdzdJX2RGOVBrSjdhOHN1ZkhkUnhGUTYxX1NGbHozdWdnam9XaEhZbVdzZ2drODg0czU4Z2FFcFN2c2NEdDkxNEFnY0JMU09VN19UeWxmX2d6R3VxcHlfcXE2eW9hcXFYamMwUlpraU55TmRuX2p6NTdjakU2dFo5eHVpbTNB?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTENrUDY3dFZjTldRTmhJMzlaMWlkbEg4MURSUzdoLXc5dDdTSkF6VGlacXgxXzZOaUs4cVR1LW02LWQyZE5XNi1WRkNrUWVrM0lHR2FXVTB1b2twYnRxM0duTFZ3YUFuVHBsOC1ub01DVEk0ZnZNQWd1RUJjNVZ1ekdmcGx1MFA4eUhZSFdOV2xBTGRfZ083Um52aGV3ODF3QXBpenJpNnljd2lQSGFlVUdHR2ZCYl9KQ0E?oc=5)
 
 ---
 
@@ -107,6 +99,14 @@ permalink: /news/somapacitan/
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXVmRkhPSHhMNk9ObnZCTEJWNHVJdFpwRjNTSXNfcXVteU5CUFFTSUM5RXNqUThWNFpSbmFBUlptb2FhUXp2bmVYLUZYN3RuaHZ0OF9fYWMyXzg2Mmh1NEswU01TYjU3WndVeUVvSHJzX0Q5Z3ZZempQb08zeUtmeWdLWjlFMXpqZnFyUGZGWWNESGF6NjJhbFRZbmZqTmFHR25OUnRVNHVoUGN6emtVc1F4WUxobkRCQ2MxaldpNnZwbXVIdV9OVm1PZzRrTkxpSThwM2tuZzlvZHJDWXhXTnpuRXR0RXF1X2tucGdCSdIB9AFBVV95cUxNQWNZQmpsbVllTXhoeHNFY2lwLTVJLUhUU1gtRzJoTms5bU9WUGNiRkJTSlhpZHotN1VvV05jV04wam1qZjhEc0tSYjR2aW1BS1AxNHljTEl0WnR6WVh5andqZHh2bU51N2NvRGZRTENjQkVPSm93ek5pSkY5R25fZGhnenNKa3h3eENCSURua3ZyQzBXZFdUUkt5R0RwUmwtbXFMMV9PSXB1ZFBsYjd0TWxQUGFyVjN5QmtLdlNNQ0dPQWRHaWlabnAxamtqWmd2UEZCaWRPVWxLMU1hXzZvOXA4RWxxMEVwNTRKdHhlXzl2NEdh?oc=5)
+
+---
+
+### [Diabetes- und Blutdrucktherapien senken Alzheimer-Risiko – KI beschleunigt Diagnose - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0ZfbFliR3JLNHZzWlkwWngzVDhURkQ5OThlM01faDhYQkRFNVJuQ25qakV2aXpzdXNjRXZic0p2V0U1ZHJPd253TFZtV1dINDNYLWJBV2p4Z211Y3NUTDB4V2RDTkxOSzB6M203cGFQaFRXWDdTTG16VU5kU0w2eDN1SEdCaEVDaDh1RGRwb3FHOU5NanVwdFR2V0FZV1I4dFBVX3FzbWNKZzFMVFpXbXpR?oc=5)
+
+2026-06-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0ZfbFliR3JLNHZzWlkwWngzVDhURkQ5OThlM01faDhYQkRFNVJuQ25qakV2aXpzdXNjRXZic0p2V0U1ZHJPd253TFZtV1dINDNYLWJBV2p4Z211Y3NUTDB4V2RDTkxOSzB6M203cGFQaFRXWDdTTG16VU5kU0w2eDN1SEdCaEVDaDh1RGRwb3FHOU5NanVwdFR2V0FZV1I4dFBVX3FzbWNKZzFMVFpXbXpR?oc=5)
 
 ---
 
@@ -126,35 +126,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [La alimentación, el uso responsable de antibióticos y los hábitos saludables son claves para proteger la microbiota infantil - Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
+### [Diabetes bei Frauen: Insulinbedarf steigt um 15 Prozent im Zyklus](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUpFY2hXa2VoOXNjUndZTlB1MncwY2dKdkdjUzJSMHJ3ak9Ia09nVTZwc25YR3B4SVpnSVlqNG9uRWRXMjUtSGp3QU5hUnpmb3RDMlpNODNGZGpDMm1zcUZqeUZDcEU4Q2gxTVVLOWc1MXQ0VkxGaTNfSGtjOVRTeEpsRWJvUEozRDJMMFY2c3JkSm9RWTNBYWZ0c1p5X3JISFV1VnhQa1d1VU9yLWtEYmFqMA?oc=5)
 
-2026-06-26 <span class="news-indication-tag">asma</span>
+2026-06-26 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMingJBVV95cUxQSDB0cFRpaGZKTHYxSVVDc0VWRXVQUDlVdXJlU3phRC1fN1ktVkJIcTREV2RHaHJsYVNUTm5CVXU5bEhkR0d0c1pEN25WdEYtclRqNEdOUDhtMGJ6c1V6eUNfRDNhamx0NXIzcFkzTEIwSDZuTG0tQWtXLUo2S29LSEtiSDdvQXdDbWY2WW5YbFRYZWQ0Tktxd2VmeDdteThWUlFCa3JsVnNxUjdFYlJvMEpxbGVNME8zVEY4VFBNZVFWOHFZdjdNSVJWelVGNFdXMGdVRWhfUWZBV0ZrblZsTnhrLTZfUUNYWnJkZ1dRcm1HWWdXMW5XVzFhbTlpOW9jWDJReGNNMFR5U28zTFBtejNVaWxEY09uQmtqVkxB0gGyAkFVX3lxTE5HaThweFRCZ1Q2dmU1dGpURUNTdnhlZnVVSm1fMlpDNmFTbXVndEtSeHFGSXFVMElyNWVGSlh4WnFmUDZYN25iZjFPc09pNU9xaWhsakhhZUR2TFZxNDN0d1I0QU1OZzZPTWhoQU54RzU5NHA0Tm1MRjhqVkYzQmx5Qk8wSFdybmc1RkpCWTVrXzVqMV9tLXdWUnN3aG04eTJNVGlxVkhXTVI5LWFIYlVPS0x0a0stdktzeFdhUk5VSkZZVmgzUlZDdHRvQkpsOFRUOVozdzJKbm9FanhuT05NRjhaVjJZMmRIMV9MQjhJa0xtTUdBSVZiSGxwMG12ekY1RHZyZk1lTU90UjFfd19IenJFcnVaaElVbGNyUWxINElBZk5VVWZCQ0FTVnE3dzBoZw?oc=5)
-
----
-
-### [Fr1da-Screening auf Typ-1-Diabetes wird auf 12 Bundesländer ausgeweitet - Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFZCVmJ2QVM3WFRMZjYxdjFXRHB5dkdUbXZBNjJvb2hrdUJ2TXZRbmFMVlpFTS0yTjdOMWVPeE1CRk5VUEZZcVJpU2JYWWVmX2VXVmVKUHJlYmhvbHczR3V2NmxDLWxfWEluSjBXV3dQbkQ1STZpdlpwVHlIc0sxcmpHck95NVEwUFlDQmZ6cDZlYkhNUjZJOEpR?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFZCVmJ2QVM3WFRMZjYxdjFXRHB5dkdUbXZBNjJvb2hrdUJ2TXZRbmFMVlpFTS0yTjdOMWVPeE1CRk5VUEZZcVJpU2JYWWVmX2VXVmVKUHJlYmhvbHczR3V2NmxDLWxfWEluSjBXV3dQbkQ1STZpdlpwVHlIc0sxcmpHck95NVEwUFlDQmZ6cDZlYkhNUjZJOEpR?oc=5)
-
----
-
-### [Wie Zyklus, Schwangerschaft und Wechseljahre den Diabetes beeinflussen - Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkFTZHhaOFJaQnVzWEE2dnF6azNHLWNLS2xLREJjeFhXcDdXZm5PRkVGVFU2RU1KTXpYMWZhaFJfc25OTEdGQWllMml0QzhEZmJSMV9rSnVoeWJnejNfWngzZW5oZjhxYUpma3YwZlYzM1dXbEhjRldlak5TTlMySXRvY1ZyNlI3VnVKTS1WcFNFdThnb1U1V1J2djBQMlE?oc=5)
-
----
-
-### [Prädiabetes: Blutzucker-Normalisierung senkt Herzinfarkt-Risiko um 42%](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEloMjdLTk05NDZLYllQaDg1TjdYMFFqR213UWd6eURSOTlDYkhRUXhPc3V0RktDWFlyMXN3Z042ZVBGckVlTE5VZ1hNa0Z2eHFDazg5SVBxcDZIYlJNbXloVTlXLVJkNUhubFUzQnkwdk1rWTN6M3lkTDZNTXRzMjY0V3M1VkREUFh6NlRXNkhNWUNSUEJEb2wwZHVVb3QwbXAwaHBjcnlUd1FMUXZlbU9ldHlnMWhwMlE?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUpFY2hXa2VoOXNjUndZTlB1MncwY2dKdkdjUzJSMHJ3ak9Ia09nVTZwc25YR3B4SVpnSVlqNG9uRWRXMjUtSGp3QU5hUnpmb3RDMlpNODNGZGpDMm1zcUZqeUZDcEU4Q2gxTVVLOWc1MXQ0VkxGaTNfSGtjOVRTeEpsRWJvUEozRDJMMFY2c3JkSm9RWTNBYWZ0c1p5X3JISFV1VnhQa1d1VU9yLWtEYmFqMA?oc=5)
 
 ---
 

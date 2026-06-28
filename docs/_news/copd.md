@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "EPOC（copd） 相關新聞"
+title: "BPCO（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "BPCO（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# EPOC（copd） 相關新聞
+# BPCO（copd） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="BPCO（copd） 有什麼相關新聞？">
+<strong>BPCO（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「BPCO」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,15 +54,7 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Los pacientes EPOC, diana en la reducción de la mortalidad por VRS - Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
-
-2026-06-26
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDdDQ0ZWUzg1R0xkcnZpbVEyQWdaVzhVVEhScW1mdHVvTlEwNGhDcVRleGt2NGtiVERodDdnVHdPMWU0eWJJc08zcVRiRElGVFJyYXRybS1teThrUUdNWWZpbjhYSlc2aHVKY1BMVkpRUzZ2eVN2dV8tNlRVYWRyMjNjYkh5SFZnejJzd2xORzRTc0NWS0NuUV9NZjhMMEpqTHJ4TldTT2ZnN2dIa1lVbVpXYWVrYXFVa09RU3pYZ0TSAcABQVVfeXFMTnI4bUFieTVuVzVCYS1IT2RpbTdjdi1iX081bENRbFBIVkxMbWFLTDNpdzhHc2dSR1lLYkpzSnVHenVHdm1nb3pTVk1fXzdLd1laMEtZeXJJUXhYZVdoLW5FZkxkVkpPUVkyRWtlXy1QZnRmMDBZWHY0VnZFUTNRS1pKdFlKdUljRGp3dmVmWmR1MXR5d2RCcE5ha2FwT3dDRzRMRzVHWDVrd2V4TzV6M2d4al93M0xQNzRNVEVfcUct?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [In vigore dal 9 luglio 2026 gli aggiornamenti delle Note AIFA 39, 74, 97 e 99 - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
 

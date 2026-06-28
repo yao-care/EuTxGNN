@@ -14,7 +14,7 @@ permalink: /news/rilpivirine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Rilpivirine Hydrochloride 有什麼相關新聞？">
-<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rilpivirine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/rilpivirine-hydrochloride/
 <p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [«El uso del preservativo en el sexo oral es muy escaso y las cifras de infecciones siguen al alza» - El Diario Vasco](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVEcGpVNGtlbjF0TFc0ZHQ3Vk92RzlCWEY5VV9NeTVDU1dVcmNoMEJCWVhZSVRUcDJDSnJ1dFVvSl9WRGxtX2c1WFozaUJZVkFqRzVFbEcyZ0RxZjhBNnl6WkcyeXBxbzNuYlBFZi11SURJeEp4Q0VJQjhqQ1NqVTdPM2oxdzRXdEhLcU5hU0ZKSEdFdmRyTDdDSnNVWHA1SFdFMHptZjQtYlNfbGRDeHNQZEl3UThjT3fSAb8BQVVfeXFMTnRPbEJybGZ4TG1vM1hUVnNDRkk1NnVac3ZpNjFWcm5rMUcwVlpfWVpuUUl2YnJBVkpybHA5RGttMFROSm9JYkZGTG9CX0ktNHZqRnlHNi1uV3dUR1VMbGM2RGxlYTVDUDVUa0RpZkJzMFBPUXdNU2lMeU56WHZsa2RQLWhYSzMxSG1TTURuWWFFRWprRlJEb3E1Ymg3bDBzYl94LU5IYmZXWVp3SWpNcUVaYmRhMUY0VmF1VGxROUU?oc=5)
-
-2026-06-27 <span class="news-indication-tag">hepatitis</span>
-
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWVEcGpVNGtlbjF0TFc0ZHQ3Vk92RzlCWEY5VV9NeTVDU1dVcmNoMEJCWVhZSVRUcDJDSnJ1dFVvSl9WRGxtX2c1WFozaUJZVkFqRzVFbEcyZ0RxZjhBNnl6WkcyeXBxbzNuYlBFZi11SURJeEp4Q0VJQjhqQ1NqVTdPM2oxdzRXdEhLcU5hU0ZKSEdFdmRyTDdDSnNVWHA1SFdFMHptZjQtYlNfbGRDeHNQZEl3UThjT3fSAb8BQVVfeXFMTnRPbEJybGZ4TG1vM1hUVnNDRkk1NnVac3ZpNjFWcm5rMUcwVlpfWVpuUUl2YnJBVkpybHA5RGttMFROSm9JYkZGTG9CX0ktNHZqRnlHNi1uV3dUR1VMbGM2RGxlYTVDUDVUa0RpZkJzMFBPUXdNU2lMeU56WHZsa2RQLWhYSzMxSG1TTURuWWFFRWprRlJEb3E1Ymg3bDBzYl94LU5IYmZXWVp3SWpNcUVaYmRhMUY0VmF1VGxROUU?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

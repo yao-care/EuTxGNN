@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（6 則）
 
-### [Blutzucker-Stabilisierung: Herzinfarkt-Risiko sinkt um 42 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
+### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
 
-2026-06-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPenVId0tmQURtaVBjb1hLT2dGbk5VMllVaXgwWjdFcnZENTB3N0NSaXdKZ1FwektOcm1OVWt0a2Job0tXaTZUTGxVSXhlOHAzdUNIZ3g3ZVF5OTRaeEo1VUQ3ZXhyVTRodGR4b2Q3UlhvbW82Q1JOck9ZdnFabjFOelczeUVFM0dYdnI0OGVnZ1d6SUc0Y2xXWlF6ZkJNLXJlal94Qm1FT0gySW1lWjlCb1luZw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/telmisartan/
 2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
-
----
-
-### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 ---
 
@@ -107,22 +99,6 @@ permalink: /news/telmisartan/
 2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
-
----
-
-### [No evidence of link between Covid-19 jab and woman's death, coroner finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
-
-2026-06-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2ekkwMUhqdVV4X3hKVzV0WG1WV3JjQjNiMC13UXRUTDNkcXc2WnpSVlJfOWpfVVROMFo2eHBqN3ppSWpGblNuUV9faUUydXBVTWhnNktuM3RHMzhT?oc=5)
-
----
-
-### [Validée par les cardiologues : cette assiette fraîche protège le cœur et la tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
-
-2026-06-26 <span class="news-indication-tag">hypertension</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
 
 ---
 

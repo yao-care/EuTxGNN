@@ -3,7 +3,7 @@ layout: default
 title: "Morbus Crohn（crohn disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "Morbus Crohn（crohn disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/crohn-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/crohn-disease/
 ---
 
 <p class="key-answer" data-question="Morbus Crohn（crohn disease） 有什麼相關新聞？">
-<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>Morbus Crohn（crohn disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/crohn-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
 
 2026-06-27
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
-
----
-
-### [Identifican una nueva causa genética de la enfermedad de Crohn que abre la puerta a terapias de precisión - Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
-
-2026-06-26
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkItUzhkb2tqMzBnMjZ6WWRGbkxhYS1fM1JOVllNenhMdGlQTUZxOUdIY1hDRXdLenFBZDR6cEJSYnVpdG5pQVFfQ25KdjB0enZBeGtlRTdxOGJVb2U0blRTaDZNVk4xOHA1dXNEM3JsY0c0dFZKYUVJREstX1pYdGpaTVR3bklNTW81LXpVRGhad25MbzZ2RDdoeEJHM0xubFliMHZJTmFZRFdhU2JIMXRJM2NEUQ?oc=5)
 
 ---
 

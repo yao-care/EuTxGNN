@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Un estudio desmonta el mito de que la fruta por la noche eleva la glucosa - 65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
+
+2026-06-28
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
+
+---
 
 ### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
 
@@ -46,27 +54,11 @@ permalink: /news/obesity/
 
 ---
 
-### [NHS patients offered free weight-loss jabs via gyms and apps - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
-
-2026-06-27
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxORkVqY2Qta2xyZmhwSmItbnQ0NjJ3SDB6Z24xMkNEbkw1VnJ6QjBid1BmclhBT0dzOXJvZm1QSzc2aHJzX3ktS1Vya3gxQUtXTW9adDlBakMwQ2xCMUl2R2Zsa2JJM3dTcl9DN1dlV0JyM3plM0VLaFR4cVY0ZzYxeTNRZEdnUmF2SS16d0xBeDIyMWN5am03TlRrQ0tjNzBqWlpqSGl3?oc=5)
-
----
-
 ### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
 2026-06-26
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
-
----
-
-### [Le “punturine” anti obesità utili anche per combattere una patologia nascosta e poco nota - la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
-
-2026-06-26
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpScFlLcC1aZUs0X04tUFFneFdfYXYzeUtTQmZWUUV3b0Iyb0xlYURNTFRKNm1RWlRnbk1pdlhfR1dPTnlUVDlYVlh4b3VvOW5Td1hWMEd3TTc0Q3JjMXNqaFVHSTBTZDMxQ3RnRzBKUXR3TlhpenlWUkd4QS04ZEdDamVaYVk2N1FFcXZ1VGRWX3lGM0Vpd3hIZmxqZnpFMW5IMjduTjZxdDFZdGoxcXduR0x6bVpwTG5vbFhHYkVha0lXdWRLSjd4NWFTNnZYMVFXOUVIVnM4MEdWU1ZqdTk0Y9IB6AFBVV95cUxPQThEek9wOTF2NUQ5TzBpR2F3VGcyd2NJUDN6YXB4dDFJbDdLN2Jsd0Zka290UmwwdG9iVW9OWTY0WlEzSWZWNzUzNU1LakhfcGxlYkthSVhPamMxMW1USDZ4QkxOelp5TjFfNjU4NEhnYm15NlgydVRKZXFGY2NJdzlSUDR4ZjZNUWNSR0VtMGlubDV3X2dzb1dFLW5EODhsZFRSUXhGcjlkVWlDemdGNGxadWtsTXc5WE5zQ2Yxa29oR1kyRlEzZ2JOQmIxb3ZsLXV1WjdsbVRVb0ItU0Z0Q1JLY1hiUHZI?oc=5)
 
 ---
 

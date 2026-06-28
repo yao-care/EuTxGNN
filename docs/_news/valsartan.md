@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="Valsartan 有什麼相關新聞？">
-<strong>Valsartan</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Valsartan</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/valsartan/
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（22 則）
+
+### [Neue Hoffnung gegen Krebs-Fatigue? Studie zeigt, dass ein ADHS-Mittel helfen könnte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
+
+---
+
+### [„Wie LEGO-Steine“: Forscher entwickeln Impfstoff gegen Krebs bei Kindern – Tumor schrumpft um 70 Prozent - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGtnZ1ZYMGN2WDdXaUpwVnZmV2lYTFlQNmMtMUU5VVlzN2tpRzVJNEdXa19rcFd6R1dsUHN1S3ZHV3VoOUdMRlRUcms2czNVSE9lMFAtU1FNeFFBUzNRaVVPX0FEZ2tVUkZqSmpGdmxscXBWOUhWRFhIT3lYTzJ1TmJJWmZ6RDZwMDRnbFVhdUl5eXZxaFR1U0VMQWw1UnpRNDZz?oc=5)
+
+2026-06-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGtnZ1ZYMGN2WDdXaUpwVnZmV2lYTFlQNmMtMUU5VVlzN2tpRzVJNEdXa19rcFd6R1dsUHN1S3ZHV3VoOUdMRlRUcms2czNVSE9lMFAtU1FNeFFBUzNRaVVPX0FEZ2tVUkZqSmpGdmxscXBWOUhWRFhIT3lYTzJ1TmJJWmZ6RDZwMDRnbFVhdUl5eXZxaFR1U0VMQWw1UnpRNDZz?oc=5)
+
+---
+
+### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
+
+---
 
 ### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
 
@@ -67,6 +91,14 @@ permalink: /news/valsartan/
 2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
+
+---
+
+### [Bassi livelli di testosterone associati a un rischio superiore di cancro (ma non alla prostata): lo studio australiano](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWTc1OTRlSjNIazFDem4zN0hyQWcwbmxqbXlrYmdHS25IYzdfSHdmYnpCd2o3a3RjZWw0d1ROdE5hbDQ5elV3emdjQ3JwTlJQeXUxVEotQlQ3YTRRa20xOW5lQnM1b0pZOTh3ek5fZ1VvOVVZN05VLXN2QzUzclhpaEV2TzEyS2xZaVZMeTVEUmZEdW15R0g3aER1MS1uMzBPdU1zNVh0bjh3Q2p3V1BtZkd6U3pzQVhVVXZDNjRMMjYwWnBrMUlsQVdOUWlqd3JkSGNjS3U4RFRkSzQyTW5ZQkxlaWQ1TjV5M3JKVnR2VU4?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cancro</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWTc1OTRlSjNIazFDem4zN0hyQWcwbmxqbXlrYmdHS25IYzdfSHdmYnpCd2o3a3RjZWw0d1ROdE5hbDQ5elV3emdjQ3JwTlJQeXUxVEotQlQ3YTRRa20xOW5lQnM1b0pZOTh3ek5fZ1VvOVVZN05VLXN2QzUzclhpaEV2TzEyS2xZaVZMeTVEUmZEdW15R0g3aER1MS1uMzBPdU1zNVh0bjh3Q2p3V1BtZkd6U3pzQVhVVXZDNjRMMjYwWnBrMUlsQVdOUWlqd3JkSGNjS3U4RFRkSzQyTW5ZQkxlaWQ1TjV5M3JKVnR2VU4?oc=5)
 
 ---
 
@@ -126,14 +158,6 @@ permalink: /news/valsartan/
 
 ---
 
-### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
-
----
-
 ### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3o3RnZRajFrY0cyTV9GakZFay1FdVc5Y2lkSmFzZ3JJSy1ySUpKR015d1J2NWtYUV9TUUt6T2FYVFk2Q2dqaUFaQXlHaTZmS1FxWUI4M09PdElSUm1wSkxYaUVxdTV6Z0tuNzZ1ek14YXlMMUFDMzdsbkQwTTQ3bHd2TXFnaW5iYUlUdzNmZzZhM09YNF85cUcwTG9JemtzVThVZFQwRmpKbXlGMXUyOXdPVW91RXZ3bHBRcm5RTzE?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Krebs</span>
@@ -150,19 +174,19 @@ permalink: /news/valsartan/
 
 ---
 
+### [Zerstört Brustkrebszellen in 60 Minuten: Studie zeigt verblüffende Wirkung von Insektengift - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnBmREZTSUVLNDltald1a3VyNnBMeC1vYWh3a2lFOFZtY3ZvLVpPeXFPa3pLZmMtd0VBOE4xbXVEbDZlX0NaWG1UQTllbTdQT2ZzdU5LWUQ4QXNQUXllOEd1VlJxYzBQTkFlQUg2NkFFcHJIU2FjNWczUTVNNFJKNE5seWFkX285ek12QTl3RFNUNWN5ekpNRWtzUWlZSzdOaU8yeU9TWnA4b0NX?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnBmREZTSUVLNDltald1a3VyNnBMeC1vYWh3a2lFOFZtY3ZvLVpPeXFPa3pLZmMtd0VBOE4xbXVEbDZlX0NaWG1UQTllbTdQT2ZzdU5LWUQ4QXNQUXllOEd1VlJxYzBQTkFlQUg2NkFFcHJIU2FjNWczUTVNNFJKNE5seWFkX285ek12QTl3RFNUNWN5ekpNRWtzUWlZSzdOaU8yeU9TWnA4b0NX?oc=5)
+
+---
+
 ### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
----
-
-### [‘Zombie’ squirrels with oozing warts are found in several states in peoples’ backyards - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumour</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
 ---
 
@@ -203,78 +227,6 @@ permalink: /news/valsartan/
 2026-06-26 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
-
----
-
-### [Fatigue-Syndrom: Krebspatienten könnten von Methylphenidat profitieren - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY292ZVhjbXF1bU9IM2wtaU55VEtVTnByeVJ4SVRFLVM2QTFXdUNCUW1xRy1CaGJwTGJ0MUI0bjZVaTdJb1NSZUdQNWt2akhfNlFnSUtFUzlGa2JtckdqNHVyRW5YTmtGRGlSYnl3QmlrdEVKZjBWcnJFelg2c1JDekR5UW1tUEJ1enIyTU15WlNBVjU5dVFjLWNPSjVrYkhsdFJr?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Krebs</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY292ZVhjbXF1bU9IM2wtaU55VEtVTnByeVJ4SVRFLVM2QTFXdUNCUW1xRy1CaGJwTGJ0MUI0bjZVaTdJb1NSZUdQNWt2akhfNlFnSUtFUzlGa2JtckdqNHVyRW5YTmtGRGlSYnl3QmlrdEVKZjBWcnJFelg2c1JDekR5UW1tUEJ1enIyTU15WlNBVjU5dVFjLWNPSjVrYkhsdFJr?oc=5)
-
----
-
-### ['False reassurance': Warning over DIY prostate cancer test kits](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEc1WlV6a19GUGRXWjg5UmdvYk9ZWDJhM3dMUGRMa09hUE1NMTlNd0d6NFNXUXBfQ0N6aTE1WTJRNHk0d0VSdFFUWFQ1T0U2VEtBSmN1cnFqUzFiV2Q2dG9xb1VNbUtsbFhwcFJMbllVODQwbTRtTTFQWE45bjFRa3g5VmFZb3JoVmw1T0ItTE1MWEY1U21MajI1Sm0?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cancer</span>
-
-來源：[1News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEc1WlV6a19GUGRXWjg5UmdvYk9ZWDJhM3dMUGRMa09hUE1NMTlNd0d6NFNXUXBfQ0N6aTE1WTJRNHk0d0VSdFFUWFQ1T0U2VEtBSmN1cnFqUzFiV2Q2dG9xb1VNbUtsbFhwcFJMbllVODQwbTRtTTFQWE45bjFRa3g5VmFZb3JoVmw1T0ItTE1MWEY1U21MajI1Sm0?oc=5)
-
----
-
-### [Validée par les cardiologues : cette assiette fraîche protège le cœur et la tension - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
-
-2026-06-26 <span class="news-indication-tag">hypertension</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzlzaExHdlo4M0hpR1NOWG1EZzl4WkY2TG5hYWk2bkNSbGhjVDVkSzYwQUFjY09vbFlfS1V2dzktV1VlTERmd1JyZzF3MG1jbHhDZDRheFdacE1WWEUtMXVhWjRXOFlrdHVFWFg3bHVOd0pOejBsSUx2NzF2ZzBqZlJjc0tteW1ZWXlpeUhGbnZkeWZMYmxhMEdBYzlTd3djZ3dv?oc=5)
-
----
-
-### [Microbiota e cancro al colon: come i batteri spingono il tumore - Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2p6MGZDRG1HQ3FkTGhUS1hNUzBQdnJ1allid2U2SlRRRTdaY1BsbWJaVEpfMXZDTmo4eXBGU05sRmk5LTJEX0xxa1RlN0dBWUsxNGg2b29IRk9YZFpZWW1hT2s0Y0cxQjNsNUJuUEtoQU5kOUpfYW9CVEoxb1h0YXBFdVNpam1lbzJqdWhESklleUlGUWtCUHpfal9BNnR1cG5n?oc=5)
-
----
-
-### [Il Centro ricerche cliniche di Verona avvia cinque nuovi studi clinici sugli inibitori di Kras](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXY2SGFMaFhfOUhfR0JjTzhDa3JYeGZiOGU0R0drLVpNN2hfTHZrUU40VHM5TWVSZDFaUEVqOTQ4TzZ2LS1qRk9RNEN4c2dzVGd1UHlxakZRQU5Dd2NocDE4czg5Ty1qOUZWaFJudXdmaE42RkhJTWY2SWdHa2NFQ3lDUEFtMGxpeEJSSjZEVVU3WlpLa1Q1RGJsd3FobWJ5TV9LWWJHRzlIdFlLSzBBcWJnemlSRG5rVlk4cUlJN1o1OHpuZTNXZ3dISQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Univrmagazine](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXY2SGFMaFhfOUhfR0JjTzhDa3JYeGZiOGU0R0drLVpNN2hfTHZrUU40VHM5TWVSZDFaUEVqOTQ4TzZ2LS1qRk9RNEN4c2dzVGd1UHlxakZRQU5Dd2NocDE4czg5Ty1qOUZWaFJudXdmaE42RkhJTWY2SWdHa2NFQ3lDUEFtMGxpeEJSSjZEVVU3WlpLa1Q1RGJsd3FobWJ5TV9LWWJHRzlIdFlLSzBBcWJnemlSRG5rVlk4cUlJN1o1OHpuZTNXZ3dISQ?oc=5)
-
----
-
-### [Family angry at nine-year cancer diagnosis delay](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzQW5kRGJtYjdCOVF4V0RIZkZNT0Z1bmdNc0I4ZDhPMGdfb3NGT3dlRTFaczlsc191WEYxYjJTXzA3M0NEWUVvTkVPMVNGdU9SR1RKVnFQblM2WjdK?oc=5)
-
----
-
-### [What went right this week: the good news that matters - Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cancer</span>
-
-來源：[Positive News](https://news.google.com/rss/articles/CBMifkFVX3lxTE1fM0NqZW80UGRvd21PenBHUmRRa21LcU00T08zZnZROHRfdFBBYmV2OEtsb0FRWXJUb3FWZjZ1c0JpWnFldUNvejdQOVVBbDd1cjRDU2hKaUFNZzZFLTNwV0lMMjFGcDBEOGR6T181YzQ1eUluQ1NScDBnT2RXdw?oc=5)
-
----
-
-### [Gut microbes emerge as potential players in estrogen-driven cancers](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFRiUkhtLWFLMDhKRFRGRTkwMU1TZzJtV1puZ1BEenZ2TWhWSWthZHNiZUV6X093anZWZXlpYmkxY0tvTlAxcTZodktwRVM5c0NEanJIYThyTVpyTDRkckZ1X3lydXF2LWdSa2t1ZUFKQXRhaG9jREd1c08tY2FuaUJyY2FvS1hUeTBiVDd6QVpNWWdxMko3NktWODNLWktJa1VqLTNiMzdNQWlMTUVlTTEtSEpqQQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cancer</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFRiUkhtLWFLMDhKRFRGRTkwMU1TZzJtV1puZ1BEenZ2TWhWSWthZHNiZUV6X093anZWZXlpYmkxY0tvTlAxcTZodktwRVM5c0NEanJIYThyTVpyTDRkckZ1X3lydXF2LWdSa2t1ZUFKQXRhaG9jREd1c08tY2FuaUJyY2FvS1hUeTBiVDd6QVpNWWdxMko3NktWODNLWktJa1VqLTNiMzdNQWlMTUVlTTEtSEpqQQ?oc=5)
-
----
-
-### [Verblüffende Studie: Insektengift zerstört Krebszellen in 60 Minuten – „unglaublich“ - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWlyejBmQWplak5ZNE9qUl9MY3ZFVTI4Q0ZMQTk1OERlRnpxbUFRMGhNTENYYlRlZExZUTh2OEZVQ3gxeldleVNldUd3aEVnaWRFM2dmbFIyek1oaFpVN1VzRkZ5cTlGNXBNZi10eWh3UHZoUGk2MHFuY0dqeHlObVpmZXdyQjVVSXV2dHdHUDNMVVJkLVBoS1hvVllBT2FtM2I4R1pSU09OT25o?oc=5)
-
-2026-06-26 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWlyejBmQWplak5ZNE9qUl9MY3ZFVTI4Q0ZMQTk1OERlRnpxbUFRMGhNTENYYlRlZExZUTh2OEZVQ3gxeldleVNldUd3aEVnaWRFM2dmbFIyek1oaFpVN1VzRkZ5cTlGNXBNZi10eWh3UHZoUGk2MHFuY0dqeHlObVpmZXdyQjVVSXV2dHdHUDNMVVJkLVBoS1hvVllBT2FtM2I4R1pSU09OT25o?oc=5)
 
 ---
 
