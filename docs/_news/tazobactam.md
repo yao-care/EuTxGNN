@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">artritis</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+---
 
 ### [Un estudio pionero descarta el impacto de la bacteria Mycoplasma genitalium en la repetición de partos pretérmino](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
 

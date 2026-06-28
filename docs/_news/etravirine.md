@@ -14,7 +14,7 @@ permalink: /news/etravirine/
 ---
 
 <p class="key-answer" data-question="Etravirine 有什麼相關新聞？">
-<strong>Etravirine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Etravirine</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/etravirine/
 <p><a href="{{ '/drugs/etravirine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（18 則）
+
+### [Brustkrebs: Diese Lebensmittel senken das Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
+
+---
 
 ### [Neue Hoffnung gegen Krebs-Fatigue? Studie zeigt, dass ein ADHS-Mittel helfen könnte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
 
 2026-06-28 <span class="news-indication-tag">Krebs</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
+
+---
+
+### [Younger people are ageing faster biologically, study finds](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
+
+---
+
+### [I giovani invecchiano più in fretta biologicamente, secondo studio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
+
+2026-06-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
 
 ---
 
@@ -88,7 +112,7 @@ permalink: /news/etravirine/
 
 ### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
 
@@ -112,9 +136,9 @@ permalink: /news/etravirine/
 
 ### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cancer</span>
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
 ---
 
@@ -171,22 +195,6 @@ permalink: /news/etravirine/
 2026-06-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
-
----
-
-### [Weniger Rückfälle, längere Tumorfreiheit: Neue Gentherapie macht Hoffnung bei Prostatakrebs](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
-
----
-
-### [I was told my mole wasn’t cancer. Two years later I had a secondary tumour the size of a melon - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
 
 ---
 

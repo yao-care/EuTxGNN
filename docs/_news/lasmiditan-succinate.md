@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Un estudio desmonta el mito de que la fruta por la noche eleva la glucosa - 65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
-
-2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [GLP-1-Agonisten: Neuer Nutzen gegen Herzinfarkt, Nierenerkrankung und Krebs](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzFSN1llbHlGR1FGbTVaVmstcDM2NUxTdlpqV3l6YkhTUGQ5OGhLVU9leUJNQ3pqTE9wZ1ZJeEFiM1hSVDc0NWxtUzhqZ1djYWFiSEs1bGx2YlRkaVZrZEpUVGpqMnFIUm84TzktNFBqRGQzWE5NX3IwcU5pRzBuS0hvLUEzR2p5YXZIUTJOWHRKR3dvRGRreDc0bVhDMlk0Zkd2V255U0FQMTVnX3hNamxQclBCbDA?oc=5)
 
@@ -78,11 +70,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
 
-2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
 
 ---
 

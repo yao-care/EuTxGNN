@@ -54,6 +54,14 @@ permalink: /news/tucatinib/
 
 ## 相關新聞（7 則）
 
+### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">artritis</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+---
+
 ### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
@@ -62,19 +70,19 @@ permalink: /news/tucatinib/
 
 ---
 
-### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
-
----
-
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
+
+---
+
+### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/tucatinib/
 2026-06-26 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzYxSWtiRU01ajJKbllzMzZCSWdjaXRPa3VyVE9sbXFKb3oxbU5zRy10dUVzNGRtNERFMzJDQTYxTm9pa2V3bEFzQmpvV2J2WllDajMtWDU1dUdTTV9WYzdTSFhROVlreC14Zm9CUVRuWUM4SkkyQ3dlRFBFeHBDYmlQZkJrUHBWaWRjQVpfVTMtT2xLNExIRkFmTDhfZHZaMXVGR1BIQjY4WE1zdDdnS0QxYXBQX1g3cV9YVQ?oc=5)
-
----
-
-### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
 ---
 

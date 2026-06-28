@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">artritis</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+---
 
 ### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
+### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 ---
 

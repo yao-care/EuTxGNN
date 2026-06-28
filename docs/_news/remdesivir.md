@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
-
----
-
-### [UK's obesity crisis laid bare & fattest postcodes revealed - check your area - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnkwVVROTkFiZHZYdHBlMlRIMTE3MzN1WkVHNkVTTU1rYzByRkRzanNxN0lrSjJuLS0xRHpEUW45VkJwM1dxVE5KN2J5R3pMcmdEVFJjQlU5RE5SMjlaeGVXWnJLakhLTjlyRFA5TlpBT0pxZ21qRm5JckxnblMtdloxenczVmVpa19RcmhtUFc3M2ktVkE?oc=5)
 
 ---
 

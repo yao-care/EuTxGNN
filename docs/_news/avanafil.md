@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Avanafil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
+
+### [Brustkrebs: Diese Lebensmittel senken das Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
+
+---
 
 ### [Neue Hoffnung gegen Krebs-Fatigue? Studie zeigt, dass ein ADHS-Mittel helfen könnte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
 
@@ -51,19 +59,27 @@ permalink: /news/avanafil/
 
 ---
 
+### [Younger people are ageing faster biologically, study finds](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
+
+---
+
+### [I giovani invecchiano più in fretta biologicamente, secondo studio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
+
+2026-06-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
+
+---
+
 ### [„Wie LEGO-Steine“: Forscher entwickeln Impfstoff gegen Krebs bei Kindern – Tumor schrumpft um 70 Prozent - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGtnZ1ZYMGN2WDdXaUpwVnZmV2lYTFlQNmMtMUU5VVlzN2tpRzVJNEdXa19rcFd6R1dsUHN1S3ZHV3VoOUdMRlRUcms2czNVSE9lMFAtU1FNeFFBUzNRaVVPX0FEZ2tVUkZqSmpGdmxscXBWOUhWRFhIT3lYTzJ1TmJJWmZ6RDZwMDRnbFVhdUl5eXZxaFR1U0VMQWw1UnpRNDZz?oc=5)
 
 2026-06-28 <span class="news-indication-tag">tumor</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGtnZ1ZYMGN2WDdXaUpwVnZmV2lYTFlQNmMtMUU5VVlzN2tpRzVJNEdXa19rcFd6R1dsUHN1S3ZHV3VoOUdMRlRUcms2czNVSE9lMFAtU1FNeFFBUzNRaVVPX0FEZ2tVUkZqSmpGdmxscXBWOUhWRFhIT3lYTzJ1TmJJWmZ6RDZwMDRnbFVhdUl5eXZxaFR1U0VMQWw1UnpRNDZz?oc=5)
-
----
-
-### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
 
 ---
 
@@ -85,7 +101,7 @@ permalink: /news/avanafil/
 
 ### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
 
@@ -109,9 +125,9 @@ permalink: /news/avanafil/
 
 ### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cancer</span>
+2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
 
 ---
 
@@ -136,6 +152,14 @@ permalink: /news/avanafil/
 2026-06-27 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVZZWGVfRXBTclcwenowWEd6R3BPX0RqUWlrN1ZacUxoM2JKcVZCenNkejR5amo2dTAzRENxM05JYVFEQkFfV3hDQkJWdXFkWWJUU0c5eHU2dWVBTlZZQ0oxSGtURDAxaHFRUk1WM0ZZVU4yaWIxb0hnbW82MGF6XzZ2bV9STmMxZmtRTTBB?oc=5)
+
+---
+
+### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
+
+2026-06-27 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 ---
 
@@ -176,22 +200,6 @@ permalink: /news/avanafil/
 2026-06-26 <span class="news-indication-tag">cancer</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnBNV25OaHRyUTRidUIzUjliMWVSazdzSGFoWWdUWW1DMVJXcURRS1FWTVpqRXUxMGZ4S2Qyc1FqVkluREZIbHRsdTBUdGRQWTNIR084LTFtWWxTc2t4NVJkeWpaaDF0cS1XeGM1Q3pIZldzenZSMGRFMmREU0NnTlpYbmluTEotVGZXUF9aQkxVdEY1dVhuZkt1VjRMOE1rRjhiaUFjV01YcEJxRDJmNXU4VGdPc1ZkaGFwdlRBRFJzMmxvalJTSXNadklaVzVJRXc?oc=5)
-
----
-
-### [Weniger Rückfälle, längere Tumorfreiheit: Neue Gentherapie macht Hoffnung bei Prostatakrebs](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNX1VLcVEycmdMMVllc1h3UHF5YmpiREVNRG82LWFVMjN1eDhvSWFfX2JGMG5ud1NvaFI0d2VnQzVnckZoRWJ0QXpYWmdKMU9tcGhlUGxBNkNMaVlfcHJiejdtVXNaMDd3Q2xmS0RaMnFPMi1iQnlUM0tWNkljRnY1YXhta0dKMERkOXk5NXpXV2tXSDJ6VzhTY3NXaXg4cmZMOFFvdHhUaDhDVkdnVWNmVVlOVQ?oc=5)
-
----
-
-### [I was told my mole wasn’t cancer. Two years later I had a secondary tumour the size of a melon - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
-
-2026-06-26 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzZ4WjF3cG9pZVhvcjNKSm5GdTJiMnhDX250S0tITzNkNlpZNVM2bHNBa0pGNmFBU0FraXhTVmtZVHFZZGhIaEhLbFZkRnM2amFacHluMFRnSXhwTmxvMDhIby1CR1VpeUlJbndXeFZoYzRfQi1Da05qcHYtbVZ3TkhkdURTMG11eWQ1Z1lRRC12U0NobWNBdEFQa01mTW5sa25RV1c5QW9CT0tqSWtLTVRR?oc=5)
 
 ---
 

@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
+### [Sartane statt ACE-Hemmer: Zu niedriger Blutdruck erhöht Alzheimer-Risiko - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 2026-06-27
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3RpUExGN3k4WC1aRDVfRHNoVUo4TXUzOEtidmZNWk5hN1MwTk9uRjRnR0ZlbXZlSUVZeDFqSW5RMkUxWHZWS1dHWFQ4bjNweEkyTmllWkh4LTJ3c2o5NkpfdzlDQjRhSThNdzJ2d2k3ek5qR245SmppZ2ExY2V1dmIwdXg2UlRZeVFuRGpUUnZTdjJpZDNuUHM4UmpZWVBBYnd1bTNqazZfMTNadm1FcXNCNDlVaGJFYmFPQkd3?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbjRqVkREcXB1bkJ6MUZ2UzV6b3U4Qkpua1FxVVlfRkViMzBmVjdFWm96d0tSZWdoZEV0bWpyNUxrSFhUdW1fTU1qb19jOFA5dkEwei1mY2FVT3ZNUDFBblF2X3JobHhsQU13TEw3WVYxbG5vbkcwVVo4N05ZRDYzWGhZdDhkakFZb0FYUVpyWmVEbV9TQ0hXWUI0c0d1cTVWbGxrYzgyWQ?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（2 則）
 
+### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">artritis</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+---
+
 ### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
 來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
-
----
-
-### [GP warns millions at risk of deadly fat jab mistakes in heat…when to dial 999 - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
-
-2026-06-26 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
 ---
 

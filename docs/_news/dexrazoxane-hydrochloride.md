@@ -54,11 +54,11 @@ permalink: /news/dexrazoxane-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [In vigore dal 9 luglio 2026 gli aggiornamenti delle Note AIFA 39, 74, 97 e 99 - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
+### [Voici pourquoi vos reins travaillent davantage pendant la canicule](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
 
-2026-06-26 <span class="news-indication-tag">BPCO</span>
+2026-06-28 <span class="news-indication-tag">EPOC</span>
 
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
 
 ---
 

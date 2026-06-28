@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。13 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。8 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>13 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>8 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,29 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（13 則）
-
-### [Alzheimer-Therapie: Zwei neue Antikörper seit Juni in Deutschland](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG5KOTVRVk8xY3lkMnNqeE5HZTVhX2ZqSlc5NTlWQzAxQW1VbTdLRzFhRGRiMjB5MmlXeEhidGpzX3o2VktBQlNRZE5ZSGQwU0FwdFEtSGJBU3VYazFDT1lVeHVoOERYVVVLakdQdjkxNGJiQmVEOGR2NTVHdjMyLTlQQVgwYjZhaS1GN0ZUR0VwR05sVmtLU3BQMHV0UDZzVnc5d3d3Qm9QNy1mUkJsODZoMXA?oc=5)
-
-2026-06-28
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG5KOTVRVk8xY3lkMnNqeE5HZTVhX2ZqSlc5NTlWQzAxQW1VbTdLRzFhRGRiMjB5MmlXeEhidGpzX3o2VktBQlNRZE5ZSGQwU0FwdFEtSGJBU3VYazFDT1lVeHVoOERYVVVLakdQdjkxNGJiQmVEOGR2NTVHdjMyLTlQQVgwYjZhaS1GN0ZUR0VwR05sVmtLU3BQMHV0UDZzVnc5d3d3Qm9QNy1mUkJsODZoMXA?oc=5)
-
----
+## 相關新聞（8 則）
 
 ### [RD del Congo reporta más de 300 muertos por ébola](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdVTy1YZ2t4NkIzTDd3U3lBMmZrdEhYSXg1OV9BWHFNVURrdklrVXhmYlhySmRsUVNmNzI0ZmY3djZJVklIUU12RFV3REg2SzVYS1lReE12X2xJVWRZUjY1NUdORlltT1lMMnROcmdpYm5lek5YSTVEcUJpNDdtYUptbERwU1FXNFBjWnd6c2hSV0wyaUxN0gGXAUFVX3lxTE5ibVZ1SnhYdUw3dGV4MUpKTXFKV3c3MUlVNV9PNm1yaVNSanliSnpiSWN4bG1HWlhJWHRhRU5xS1ZmcFUtVXNuc3ZhMVhXUHR0a0xWT0Z4WWxGNlctSUpNNmhrNkNwcGdMUDFOdkpYSnhKNWVWZmJxdkZreldlT0M2VzQ2WWlYb3d1T1lFekdmTm5mOXdpZXc?oc=5)
 
 2026-06-27
 
 來源：[dw.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdVTy1YZ2t4NkIzTDd3U3lBMmZrdEhYSXg1OV9BWHFNVURrdklrVXhmYlhySmRsUVNmNzI0ZmY3djZJVklIUU12RFV3REg2SzVYS1lReE12X2xJVWRZUjY1NUdORlltT1lMMnROcmdpYm5lek5YSTVEcUJpNDdtYUptbERwU1FXNFBjWnd6c2hSV0wyaUxN0gGXAUFVX3lxTE5ibVZ1SnhYdUw3dGV4MUpKTXFKV3c3MUlVNV9PNm1yaVNSanliSnpiSWN4bG1HWlhJWHRhRU5xS1ZmcFUtVXNuc3ZhMVhXUHR0a0xWT0Z4WWxGNlctSUpNNmhrNkNwcGdMUDFOdkpYSnhKNWVWZmJxdkZreldlT0M2VzQ2WWlYb3d1T1lFekdmTm5mOXdpZXc?oc=5)
-
----
-
-### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
-
-2026-06-27
-
-來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
 
 ---
 
@@ -88,19 +72,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+
+2026-06-27
+
+來源：[ladbible.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+
+---
+
 ### [Ebola continua a uccidere nell'est del Congo, 304 vittime e 1.115 casi](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNkNVZIdS1fQVNkSk5YUEVXZW03ZWJKMTFFdzNQeGYyWFQ2S1ItbWpkQW56eEpSaWZ3RFRxWTZJSFE2RzhkMFo1ejY1SDQxVnhrMF9fUU9kVDZUTlJkOU5WNklXaEpzUVhiM21WVC00WlR1TjRSal9LQ2htcWJvbG1oMmQzUGVZZ0hreGxxUDVfeFVfc0dZVTRUOTFjaWtRdGNsT3ZXejA1TWhkNzBieUtfdV9IdHE3VWtzYjRuRC1MZW9kQ0dNREl0MmVhcGlLWmh4YmdoRzk2UUJBZnJ0R3NvMNIB6AFBVV95cUxNT3Q4dk1jaDZldGpPVFJrNnBDZGxzWktfS3BTc2drZGgzR2p6ZnJ0OFhlMndQVEVldHd5Nl9rSXpHLTJsUjA0djhnOGg0dFoyaVJsalNabHJjNXg1QUhPelhseDJKQlIwZW54bzY2VG5RQ094V3RySlVBTlBBM0RCXzU2TEdhSmd1QzRyQVZtbGNucmVOVW1NWTI4UGZHY0xaZkZZMmh1ZVpjdHktY0xNOU8tcGtiTFotOHJkTlNFWFRtOWw2eG9zSlZCMzUwVFNGQ0xQNWdzVkdyQVgxbGpBTWxkQUFmd0RH?oc=5)
 
 2026-06-27
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZlNkNVZIdS1fQVNkSk5YUEVXZW03ZWJKMTFFdzNQeGYyWFQ2S1ItbWpkQW56eEpSaWZ3RFRxWTZJSFE2RzhkMFo1ejY1SDQxVnhrMF9fUU9kVDZUTlJkOU5WNklXaEpzUVhiM21WVC00WlR1TjRSal9LQ2htcWJvbG1oMmQzUGVZZ0hreGxxUDVfeFVfc0dZVTRUOTFjaWtRdGNsT3ZXejA1TWhkNzBieUtfdV9IdHE3VWtzYjRuRC1MZW9kQ0dNREl0MmVhcGlLWmh4YmdoRzk2UUJBZnJ0R3NvMNIB6AFBVV95cUxNT3Q4dk1jaDZldGpPVFJrNnBDZGxzWktfS3BTc2drZGgzR2p6ZnJ0OFhlMndQVEVldHd5Nl9rSXpHLTJsUjA0djhnOGg0dFoyaVJsalNabHJjNXg1QUhPelhseDJKQlIwZW54bzY2VG5RQ094V3RySlVBTlBBM0RCXzU2TEdhSmd1QzRyQVZtbGNucmVOVW1NWTI4UGZHY0xaZkZZMmh1ZVpjdHktY0xNOU8tcGtiTFotOHJkTlNFWFRtOWw2eG9zSlZCMzUwVFNGQ0xQNWdzVkdyQVgxbGpBTWxkQUFmd0RH?oc=5)
-
----
-
-### [Europa aprueba un tratamiento innovador para la esclerosis múltiple que actúa directamente en el cerebro: cuándo llegará a España - Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
-
-2026-06-27
-
-來源：[Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
 
 ---
 
@@ -133,30 +117,6 @@ permalink: /news/multiple-sclerosis/
 2026-06-26
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1JObWJFUlhERzJfZEtDVnkxMUZjSjEtVktQR1BaSzlTdWdzeERlUjI5TVV1M3p5WDZlX2hkX2NXaEhIakxQY2NVZE9IR28wLUNnMUpEck91SnRtWVotbzBTTzFSc1NnbzViOU56V2V4RGxjcFFXekVQWC1LeE45S1RhaEt4SkptNW94d1RJOTk4dXd2QzZYeWJR?oc=5)
-
----
-
-### [Wenn Parasiten Viren ausbremsen: VdF Promotionspreis für Dr. Jana Hey](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEt6V051c1NhQVNCcXo4Yk5NaURIN0pqUTU1WDhJeHdKWTQzcmhLdkR0Z3hXRFc5U2VLSXlLLXF3Q3dMRE1aUWF5a1ZQN0M1cVVnTUVvaFB5WUFCb1dockdKT3g5MkJqM0lMSmtHZ2ZITm04aEhCQ0tnZGFUVGZwejBFeTJzc0ptZE93aWJsS0YzXzJNTEhlVlNlbEVaZnZWZzB5Y3ZOQQ?oc=5)
-
-2026-06-26
-
-來源：[Bernhard-Nocht-Institut](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEt6V051c1NhQVNCcXo4Yk5NaURIN0pqUTU1WDhJeHdKWTQzcmhLdkR0Z3hXRFc5U2VLSXlLLXF3Q3dMRE1aUWF5a1ZQN0M1cVVnTUVvaFB5WUFCb1dockdKT3g5MkJqM0lMSmtHZ2ZITm04aEhCQ0tnZGFUVGZwejBFeTJzc0ptZE93aWJsS0YzXzJNTEhlVlNlbEVaZnZWZzB5Y3ZOQQ?oc=5)
-
----
-
-### [Infektionsdiagnostik: Genomsequenzierung deckt verborgene Resistenzen bei Tuberkulose auf](https://news.google.com/rss/articles/CBMingFBVV95cUxNaUF4X0dmS2N5ZEVHR2hCb0xXY0pFVFRlOXdvU2N1bTlGSFRuQ2pSVnhBbE1aSFJvNjF6Y040M2xFb2hIUFRVcHlUbHRJYW9ld1Y5bFpsalpsNF9xTWRKdmdvWGlGWks4NmFxYXZLdXB5Q2lwVmdoYW5MbV91NGlqSzF6OHZsOUpjZjdYQlNfNEtab3ZQTFYyQmdOOWdDdw?oc=5)
-
-2026-06-26
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNaUF4X0dmS2N5ZEVHR2hCb0xXY0pFVFRlOXdvU2N1bTlGSFRuQ2pSVnhBbE1aSFJvNjF6Y040M2xFb2hIUFRVcHlUbHRJYW9ld1Y5bFpsalpsNF9xTWRKdmdvWGlGWks4NmFxYXZLdXB5Q2lwVmdoYW5MbV91NGlqSzF6OHZsOUpjZjdYQlNfNEtab3ZQTFYyQmdOOWdDdw?oc=5)
-
----
-
-### [GP warns millions at risk of deadly fat jab mistakes in heat…when to dial 999 - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
-
-2026-06-26
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkxYVkszWUFjZjhRNkFQUy1uNThPWGxXbVpMTS11aERnSHBaanFUZklwVm1iTkRCTDF0SGJ4STQxaFhBZ0podmJnRlVaQV9kMDBGQW5xRVdla1JsV0ZKVXowRnhSMmtvVXAyZk9GMWNndVdxamQzV01YelV3RkV2T0JDNVM?oc=5)
 
 ---
 

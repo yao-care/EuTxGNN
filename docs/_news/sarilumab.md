@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Voici pourquoi vos reins travaillent davantage pendant la canicule](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
+
+2026-06-28 <span class="news-indication-tag">EPOC</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
+
+---
+
+### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">artritis</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
+
+---
 
 ### [Un estudio pionero descarta el impacto de la bacteria Mycoplasma genitalium en la repetición de partos pretérmino](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/sarilumab/
 2026-06-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
-
----
-
-### [In vigore dal 9 luglio 2026 gli aggiornamenti delle Note AIFA 39, 74, 97 e 99 - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">BPCO</span>
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
 
 ---
 

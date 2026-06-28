@@ -54,6 +54,14 @@ permalink: /news/epinephrine/
 
 ## 相關新聞（3 則）
 
+### [Voici pourquoi vos reins travaillent davantage pendant la canicule](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
+
+2026-06-28 <span class="news-indication-tag">EPOC</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMibEFVX3lxTE9RU2hLajhwYzBCMHU2eV9LdWh0RENKbG1nZjdhV3dUeGJXTkl1TTJqd29TOEhxNjBNZkEyOHVrbElEd0tuN2FGUS12RFV1TElFUzU5Wk1sYWZaVE96RkFkaFFBWVFEaDFuVml6VA?oc=5)
+
+---
+
 ### [Un estudio pionero descarta el impacto de la bacteria Mycoplasma genitalium en la repetición de partos pretérmino](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
 
 2026-06-28 <span class="news-indication-tag">asma</span>
@@ -67,14 +75,6 @@ permalink: /news/epinephrine/
 2026-06-28 <span class="news-indication-tag">asma</span>
 
 來源：[Huelva Información](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2Exb2hvVG5CMkZURjVUaE16dThpd1M3Ml96TEIwSnMzRWlIODJtcFFUN0N1aWt4UklwUnVaU1NNSl9neXo5NDRDUi1vT0Z4MXVGbElkZWZXTUk4TVZVTkZoaWJvQUpXaVBWbUVyTHRsbmNHVklra1VrcEFldXFuaWNVQTVOUDhUTHF1WjA3MzJrMWJERkJGaDdPSUs5UUU1WmZmN2cyRXJtRnAtdTNsSEs3NGlFRl9qUDZjX2Y2clZOV0REdFHSAcsBQVVfeXFMUDFrYlkxRXJTMmNzVDdYcDJOaE1EMkJzNmlZY3p1ZHlHUWRzcXBJc0JjcFFkaWlJY0J5SEM2SFhtdGEzUm9TTTdDa29TSmItZm5KTHRub2h0Smt6Y2xXZU1YcFFsNnp2VGc0S2ltVlViV0t0eXpUMFQwUkxyMU52S2tqSm5FWGZ1eU81LXNGNlFhMmllM0pIVXVpUnhhMFYtRzNzNXdRbXY3MjROVHRjd1pKZWticFVFMUxuVEFKeHN2cEdxSUlzX0Q5bHc?oc=5)
-
----
-
-### [In vigore dal 9 luglio 2026 gli aggiornamenti delle Note AIFA 39, 74, 97 e 99 - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
-
-2026-06-26 <span class="news-indication-tag">BPCO</span>
-
-來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMingFBVV95cUxOWlYyN3loSi1IVlBrN1VPajJ4U2lYMW8wSVdMUml4Z1ZWWm1fNmJFUnNmOWJqT013SjNTMWNUT3NJZDNuSFQtc1ZVaHNvaFgtbVd4dVRLdW5lcEFQVlF5VHhoa29YQi1Zendfb1lnczZ1cFFHZVNfQTV2MGxLZWppSno0cVY5c21WbG1PWUxuOG1FeHJFZ2FPZEFfQzJIUQ?oc=5)
 
 ---
 

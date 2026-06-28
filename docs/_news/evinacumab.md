@@ -14,7 +14,7 @@ permalink: /news/evinacumab/
 ---
 
 <p class="key-answer" data-question="Evinacumab 有什麼相關新聞？">
-<strong>Evinacumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Evinacumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,21 @@ permalink: /news/evinacumab/
 <p><a href="{{ '/drugs/evinacumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
-### [Un estudio desmonta el mito de que la fruta por la noche eleva la glucosa - 65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
-
-2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZ4Z1pfdmEtY3dORDQ4TTdSXzFwdnBzLUxxbzVncUhUX2ZIakpsREIwNkhOYTJpT1ZZS21YY1J3a3RaSy1PeGZCNzhla3dHSG9kdnluTkExa2pnVHVrQnQwcW5TVkZtdlBPMENhM01PSHZqdDB0NVBOTEpnUnNpQWtHWXM1X2NxRTkycjNUdkt0TnJWOGF6RE14YUFvd2daVU52Rg?oc=5)
-
----
-
-### [Silent Inflammation: KI-gestützte Diagnostik und neue Studien zu stillen Entzündungen - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxBVEdEb2tiXzF3VWdZMjNJaFZkYk05a1ozT1VmeFplSno0VEp1NFlTZnk2ZTJLOFMzcUpPc21OakM0TkVERFVtZE9DekZhdTRGenV0azVQQVRFWVB6YndxR3A4UjhYZHQwYjNRS01VamduUTRtdVh4eERzZm90Z1JST3ZOYjBaQzlBRXNGMjZNU3FXU19UMWdNdEFaRHhZSEVmQlJpY0JsRm1MVHBINU9OSl9IbTBBZVE?oc=5)
+### [Rindfleisch vs. Pflanzeneiweiß: Studie zeigt massive Darmentzündungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0dYb2ZEd2ZoX3NUTENnNThZMUVMX3pPN2c4ZFFmZzMwby1YckcwSkNmTXQ3bXNGTHZvN1RqYmN1M19JVE14ZVhiNVY3ZXE0MUx6MUNTd0FCWGVCWXlWMy1iRzJsc29mQXJSZGpSVjB3d09yV2NROWE4NllTTjZoeTk0WHhxM3VqTGp0M0R5ZTZ1WUdTOE9zQXBUSVZfbVpsUDkyUmI4V0pqS2lqY1Fxd3VFOWN3X3dfT0E?oc=5)
 
 2026-06-28 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmxBVEdEb2tiXzF3VWdZMjNJaFZkYk05a1ozT1VmeFplSno0VEp1NFlTZnk2ZTJLOFMzcUpPc21OakM0TkVERFVtZE9DekZhdTRGenV0azVQQVRFWVB6YndxR3A4UjhYZHQwYjNRS01VamduUTRtdVh4eERzZm90Z1JST3ZOYjBaQzlBRXNGMjZNU3FXU19UMWdNdEFaRHhZSEVmQlJpY0JsRm1MVHBINU9OSl9IbTBBZVE?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0dYb2ZEd2ZoX3NUTENnNThZMUVMX3pPN2c4ZFFmZzMwby1YckcwSkNmTXQ3bXNGTHZvN1RqYmN1M19JVE14ZVhiNVY3ZXE0MUx6MUNTd0FCWGVCWXlWMy1iRzJsc29mQXJSZGpSVjB3d09yV2NROWE4NllTTjZoeTk0WHhxM3VqTGp0M0R5ZTZ1WUdTOE9zQXBUSVZfbVpsUDkyUmI4V0pqS2lqY1Fxd3VFOWN3X3dfT0E?oc=5)
 
 ---
 
-### [Diabetes-Prävention: 28g Joghurt täglich senken Risiko um 18%](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTENrUDY3dFZjTldRTmhJMzlaMWlkbEg4MURSUzdoLXc5dDdTSkF6VGlacXgxXzZOaUs4cVR1LW02LWQyZE5XNi1WRkNrUWVrM0lHR2FXVTB1b2twYnRxM0duTFZ3YUFuVHBsOC1ub01DVEk0ZnZNQWd1RUJjNVZ1ekdmcGx1MFA4eUhZSFdOV2xBTGRfZ083Um52aGV3ODF3QXBpenJpNnljd2lQSGFlVUdHR2ZCYl9KQ0E?oc=5)
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
 
 2026-06-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTENrUDY3dFZjTldRTmhJMzlaMWlkbEg4MURSUzdoLXc5dDdTSkF6VGlacXgxXzZOaUs4cVR1LW02LWQyZE5XNi1WRkNrUWVrM0lHR2FXVTB1b2twYnRxM0duTFZ3YUFuVHBsOC1ub01DVEk0ZnZNQWd1RUJjNVZ1ekdmcGx1MFA4eUhZSFdOV2xBTGRfZ083Um52aGV3ODF3QXBpenJpNnljd2lQSGFlVUdHR2ZCYl9KQ0E?oc=5)
-
----
-
-### [El ejercicio ayuda, pero los expertos coinciden en que hay un truco mejor para eliminar la grasa abdominal ...](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXVmRkhPSHhMNk9ObnZCTEJWNHVJdFpwRjNTSXNfcXVteU5CUFFTSUM5RXNqUThWNFpSbmFBUlptb2FhUXp2bmVYLUZYN3RuaHZ0OF9fYWMyXzg2Mmh1NEswU01TYjU3WndVeUVvSHJzX0Q5Z3ZZempQb08zeUtmeWdLWjlFMXpqZnFyUGZGWWNESGF6NjJhbFRZbmZqTmFHR25OUnRVNHVoUGN6emtVc1F4WUxobkRCQ2MxaldpNnZwbXVIdV9OVm1PZzRrTkxpSThwM2tuZzlvZHJDWXhXTnpuRXR0RXF1X2tucGdCSdIB9AFBVV95cUxNQWNZQmpsbVllTXhoeHNFY2lwLTVJLUhUU1gtRzJoTms5bU9WUGNiRkJTSlhpZHotN1VvV05jV04wam1qZjhEc0tSYjR2aW1BS1AxNHljTEl0WnR6WVh5andqZHh2bU51N2NvRGZRTENjQkVPSm93ek5pSkY5R25fZGhnenNKa3h3eENCSURua3ZyQzBXZFdUUkt5R0RwUmwtbXFMMV9PSXB1ZFBsYjd0TWxQUGFyVjN5QmtLdlNNQ0dPQWRHaWlabnAxamtqWmd2UEZCaWRPVWxLMU1hXzZvOXA4RWxxMEVwNTRKdHhlXzl2NEdh?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdXVmRkhPSHhMNk9ObnZCTEJWNHVJdFpwRjNTSXNfcXVteU5CUFFTSUM5RXNqUThWNFpSbmFBUlptb2FhUXp2bmVYLUZYN3RuaHZ0OF9fYWMyXzg2Mmh1NEswU01TYjU3WndVeUVvSHJzX0Q5Z3ZZempQb08zeUtmeWdLWjlFMXpqZnFyUGZGWWNESGF6NjJhbFRZbmZqTmFHR25OUnRVNHVoUGN6emtVc1F4WUxobkRCQ2MxaldpNnZwbXVIdV9OVm1PZzRrTkxpSThwM2tuZzlvZHJDWXhXTnpuRXR0RXF1X2tucGdCSdIB9AFBVV95cUxNQWNZQmpsbVllTXhoeHNFY2lwLTVJLUhUU1gtRzJoTms5bU9WUGNiRkJTSlhpZHotN1VvV05jV04wam1qZjhEc0tSYjR2aW1BS1AxNHljTEl0WnR6WVh5andqZHh2bU51N2NvRGZRTENjQkVPSm93ek5pSkY5R25fZGhnenNKa3h3eENCSURua3ZyQzBXZFdUUkt5R0RwUmwtbXFMMV9PSXB1ZFBsYjd0TWxQUGFyVjN5QmtLdlNNQ0dPQWRHaWlabnAxamtqWmd2UEZCaWRPVWxLMU1hXzZvOXA4RWxxMEVwNTRKdHhlXzl2NEdh?oc=5)
-
----
-
-### [Diabetes- und Blutdrucktherapien senken Alzheimer-Risiko – KI beschleunigt Diagnose - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0ZfbFliR3JLNHZzWlkwWngzVDhURkQ5OThlM01faDhYQkRFNVJuQ25qakV2aXpzdXNjRXZic0p2V0U1ZHJPd253TFZtV1dINDNYLWJBV2p4Z211Y3NUTDB4V2RDTkxOSzB6M203cGFQaFRXWDdTTG16VU5kU0w2eDN1SEdCaEVDaDh1RGRwb3FHOU5NanVwdFR2V0FZV1I4dFBVX3FzbWNKZzFMVFpXbXpR?oc=5)
-
-2026-06-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0ZfbFliR3JLNHZzWlkwWngzVDhURkQ5OThlM01faDhYQkRFNVJuQ25qakV2aXpzdXNjRXZic0p2V0U1ZHJPd253TFZtV1dINDNYLWJBV2p4Z211Y3NUTDB4V2RDTkxOSzB6M203cGFQaFRXWDdTTG16VU5kU0w2eDN1SEdCaEVDaDh1RGRwb3FHOU5NanVwdFR2V0FZV1I4dFBVX3FzbWNKZzFMVFpXbXpR?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajJveXZCSXNuM19XSFpOUVNySFhMMHB1MkhHNWNqQ2dZUXM4Y2lGSXRISUUxakJkNHVlMnozT1pOei1YbEVqcjBYbWEtc0ZxdW51ZWhsTGFBQzlnSlIwczEtR2tGZWFtT0xxS253TDRXd3ZhNU12ZUVMSlNqNWkwWWdxSVI5WTlZdmhZRl9iYkJpVC02amdKY2JfX25MY3I4NXQzYkVlOUw2U2pGVTNxeGpBWDVWOG1f?oc=5)
 
 ---
 
@@ -110,11 +86,11 @@ permalink: /news/evinacumab/
 
 ---
 
-### [Diabetes bei Frauen: Insulinbedarf steigt um 15 Prozent im Zyklus](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUpFY2hXa2VoOXNjUndZTlB1MncwY2dKdkdjUzJSMHJ3ak9Ia09nVTZwc25YR3B4SVpnSVlqNG9uRWRXMjUtSGp3QU5hUnpmb3RDMlpNODNGZGpDMm1zcUZqeUZDcEU4Q2gxTVVLOWc1MXQ0VkxGaTNfSGtjOVRTeEpsRWJvUEozRDJMMFY2c3JkSm9RWTNBYWZ0c1p5X3JISFV1VnhQa1d1VU9yLWtEYmFqMA?oc=5)
+### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
 
-2026-06-26 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUpFY2hXa2VoOXNjUndZTlB1MncwY2dKdkdjUzJSMHJ3ak9Ia09nVTZwc25YR3B4SVpnSVlqNG9uRWRXMjUtSGp3QU5hUnpmb3RDMlpNODNGZGpDMm1zcUZqeUZDcEU4Q2gxTVVLOWc1MXQ0VkxGaTNfSGtjOVRTeEpsRWJvUEozRDJMMFY2c3JkSm9RWTNBYWZ0c1p5X3JISFV1VnhQa1d1VU9yLWtEYmFqMA?oc=5)
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
 
 ---
 
