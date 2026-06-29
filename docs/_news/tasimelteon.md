@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [La microbiota de precisión revoluciona el abordaje de diabetes, depresión y enfermedades intestinales](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+
+---
 
 ### [Un estudio halla biomarcadores en sangre que muestran cambios moleculares tras la psicoterapia para la depresión](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
 
 2026-06-28 <span class="news-indication-tag">depresión</span>
 
 來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
-
----
-
-### [Rafael Rodríguez García, psiquiatra: "La depresión y la ansiedad en personas con problemas de tiroides podrían compartir una misma raíz genética" - El HuffPost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFFCQ0UwZ19DNDZ4WnVMa05lSlV5Q1JReVNlTFBEMmpUelo3XzdGcTlrM3hHSUlfdTdvZmtnZHdOdWxfcHE1bFRwUkVscHJyenBROHR5djRzbFlqVFNHUUtrbFpfVzBZSGxRaXp2TTRjZzFzb3gwYUtOOG5OZExTaU85VHF2ckotcjhvNHdCUFprWE1lNC1yck9xMjMyalgyRnYxU3pRUzhvUThHd3BtNGs5bnpHMF9INmNLdTdLYk9Kd19TWmNOMjBBenc1VXJGTnY0Y0I3Y25DdWUyazRtNFdVc0JHdE1ud2FlSnU3NFVBZ0xD0gGIAkFVX3lxTE5hTzdCZGNaZEZHTEVMV0tNbEFwR2RSejY2ZUhnbi02R2NjY0VXREhwMW4tT3I2Y2FSUmNla2h5ZTdqWnFXeW9LQ3RqcHJjUTVzdXh3VkJkZVk0QnhqYkJoM1pyQ0l1QkpZUzgyVWdxTHFrdDNUb29uaVZVTVNZQ1N3RTJDYV9OQ1UwNFhXYkZlTVdpRFlfZ0ZaaXY3OFN3azZXSlZ0RFRpWC1RUk9FVUx3STYteklKYU5CdEpYYmxaSTBIeVJVUXpnLV95LUw1QlVrNk5GamhOZm1rLWVVUkRyZzI4UEJQLXZLenR2NHNMWUJNMGlybExEMlZDOHVaUkl1eE5pbUE2MA?oc=5)
-
-2026-06-28 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFFCQ0UwZ19DNDZ4WnVMa05lSlV5Q1JReVNlTFBEMmpUelo3XzdGcTlrM3hHSUlfdTdvZmtnZHdOdWxfcHE1bFRwUkVscHJyenBROHR5djRzbFlqVFNHUUtrbFpfVzBZSGxRaXp2TTRjZzFzb3gwYUtOOG5OZExTaU85VHF2ckotcjhvNHdCUFprWE1lNC1yck9xMjMyalgyRnYxU3pRUzhvUThHd3BtNGs5bnpHMF9INmNLdTdLYk9Kd19TWmNOMjBBenc1VXJGTnY0Y0I3Y25DdWUyazRtNFdVc0JHdE1ud2FlSnU3NFVBZ0xD0gGIAkFVX3lxTE5hTzdCZGNaZEZHTEVMV0tNbEFwR2RSejY2ZUhnbi02R2NjY0VXREhwMW4tT3I2Y2FSUmNla2h5ZTdqWnFXeW9LQ3RqcHJjUTVzdXh3VkJkZVk0QnhqYkJoM1pyQ0l1QkpZUzgyVWdxTHFrdDNUb29uaVZVTVNZQ1N3RTJDYV9OQ1UwNFhXYkZlTVdpRFlfZ0ZaaXY3OFN3azZXSlZ0RFRpWC1RUk9FVUx3STYteklKYU5CdEpYYmxaSTBIeVJVUXpnLV95LUw1QlVrNk5GamhOZm1rLWVVUkRyZzI4UEJQLXZLenR2NHNMWUJNMGlybExEMlZDOHVaUkl1eE5pbUE2MA?oc=5)
-
----
-
-### [Was tun, wenn bei einer Depression die Medikamente nicht wirken? - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFZXMnB5ek8zZFlFSTdCbWx3UmpQS01CWHhoeHJWY3gwWDlrZlJmY0M4cHlFZlpXanRLNk01aEM2YTJtNUNUMUJfV3dSb3l5UGVuLUo2MVE2eUZsSG5aRzN6eHhEdndOazktYXBiZTZPdlduQXpoeVlWUTdQOWNyS0kwRmEweXlMOE5YYmtXR2lwUVJOekdzWks2eF9nZmlMc01WX0MwUC1UcWt3aExtOTB1VWZrb25J?oc=5)
-
-2026-06-27 <span class="news-indication-tag">depression</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFZXMnB5ek8zZFlFSTdCbWx3UmpQS01CWHhoeHJWY3gwWDlrZlJmY0M4cHlFZlpXanRLNk01aEM2YTJtNUNUMUJfV3dSb3l5UGVuLUo2MVE2eUZsSG5aRzN6eHhEdndOazktYXBiZTZPdlduQXpoeVlWUTdQOWNyS0kwRmEweXlMOE5YYmtXR2lwUVJOekdzWks2eF9nZmlMc01WX0MwUC1UcWt3aExtOTB1VWZrb25J?oc=5)
 
 ---
 

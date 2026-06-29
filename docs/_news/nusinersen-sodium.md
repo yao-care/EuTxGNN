@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="Nusinersen Sodium 有什麼相關新聞？">
-<strong>Nusinersen Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nusinersen Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/nusinersen-sodium/
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [El uso de audífonos reduce un 23% el riesgo de demencia en adultos con epilepsia y pérdida auditiva](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDFHcmNNSVV1WDFGWXdwWko5SXRKLU0xLXBGTDdUTjRSU21JZ3FvN1Fub1NtRE9HcVFlMmtsMDBINk1mbldDZjhCZ1dEeDlfLWVGNXJ5OExkN0t3eHktVVlnUFdWdzZ3WXk2TWkwRUJCdHh2c3U2NmZkSHpfd2RXT0p4T3ZtSVFuVzJjcHRfOFFXd3dfX21ha3RfX2dobTc2OXhEdTlWVVFMc0NfcTJMY2dpMDB1cmlCWGNqclVwQkhmT2tSeU1jNWNNT0FaU0hCMkdKa2wxR3dSNXoxV1hwWnlR?oc=5)
+
+2026-06-29 <span class="news-indication-tag">epilepsia</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDFHcmNNSVV1WDFGWXdwWko5SXRKLU0xLXBGTDdUTjRSU21JZ3FvN1Fub1NtRE9HcVFlMmtsMDBINk1mbldDZjhCZ1dEeDlfLWVGNXJ5OExkN0t3eHktVVlnUFdWdzZ3WXk2TWkwRUJCdHh2c3U2NmZkSHpfd2RXT0p4T3ZtSVFuVzJjcHRfOFFXd3dfX21ha3RfX2dobTc2OXhEdTlWVVFMc0NfcTJMY2dpMDB1cmlCWGNqclVwQkhmT2tSeU1jNWNNT0FaU0hCMkdKa2wxR3dSNXoxV1hwWnlR?oc=5)
+
+---
 
 ### [“An agonising way to die: it causes whole body convulsions, and the victim is painfully and horribly aware…” - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTE1RYjNmVy1xTFY2RDVya09Qd0JBOVpuajBtMFNzZVN2VHlUYzFuNHd1MWRfWGJsbWxuVkNUT29oVl8yeEZBM0UwTnFQSmpLU0xiOG85VnpzSDVfbmppMTl1UmxnSW1OZlc1eWdDTTJGeXQ1TlgtUzJTSGFGV0dhZw?oc=5)
 

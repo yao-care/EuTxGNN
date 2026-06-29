@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Tadalafil 有什麼相關新聞？">
-<strong>Tadalafil</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tadalafil</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,133 @@ permalink: /news/tadalafil/
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（24 則）
 
-### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko um 174%](https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3hYOHJWU2EzMWtnUk1TVU1MekcxNHgwSTBGMC1vMDRtWlBCeGRSaUZxZVh0WEI0OUczelE1dm4xb0Uwd2FhbVRCTFd1VmItZzBESFM4dGZ3dHpSVGh4bzJDVnhjSkxSb3J2M3J5M0NlbXVUS3FxeGZKT3JwblA5QzY4eV9ORjA3MDlMbWxKUW5KRUhnS0xIM21zTHJrdHFWaGx2OXVaUE9GSXVmRHFjRDdlNFpsZlE4T2k0aWN3?oc=5)
+### [Tertiärprävention bei an MS erkrankten Menschen - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
 
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3hYOHJWU2EzMWtnUk1TVU1MekcxNHgwSTBGMC1vMDRtWlBCeGRSaUZxZVh0WEI0OUczelE1dm4xb0Uwd2FhbVRCTFd1VmItZzBESFM4dGZ3dHpSVGh4bzJDVnhjSkxSb3J2M3J5M0NlbXVUS3FxeGZKT3JwblA5QzY4eV9ORjA3MDlMbWxKUW5KRUhnS0xIM21zTHJrdHFWaGx2OXVaUE9GSXVmRHFjRDdlNFpsZlE4T2k0aWN3?oc=5)
+來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
 
 ---
 
-### [Schwangerschaft: 98 Prozent nehmen zu wenig Jod auf](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
+### [Wie Hautzellen Stress erkennen: Forschende entdecken Aktivierungsort eines wichtigen Immunrezeptors - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE05cEFvY3NYVmRmODlubW9KTDFuS3E3REttZ3RvdTZEMGpRZEp3bGx0eVBBVGpGZ2hrWko1cEF0dEdpTElCRUVFNDJnOA?oc=5)
 
 2026-06-29 <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE05cEFvY3NYVmRmODlubW9KTDFuS3E3REttZ3RvdTZEMGpRZEp3bGx0eVBBVGpGZ2hrWko1cEF0dEdpTElCRUVFNDJnOA?oc=5)
 
 ---
 
-### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+### [So profitiert die Psyche von einem Smoothie oder Direktsaft pro Tag](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVVQZHE0X0FXYWIxeFdhR05tTEdtd3lZcEtTNlNobGZqa05aX1kxVllqc2ZIQ3NMbjA2OGN2ZFVOTnhQZnkwZjRudzQ5b0lyUzVqVXdKNVFVZW9uMjY0d0FhSF9LYW5kemVZRkQ3MGpxYkhnNzRUTUdRNG44eFEySU9UVUZ6VktOc3JZUGZpaWRJUlkyS0JsdDd0TGdfLTdPbXlWdmdydTg2VWFpSnRzdkNkaExlV1FUOUhYVEZ1T2pKeGw5QnIw?oc=5)
 
-2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-29 <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVVQZHE0X0FXYWIxeFdhR05tTEdtd3lZcEtTNlNobGZqa05aX1kxVllqc2ZIQ3NMbjA2OGN2ZFVOTnhQZnkwZjRudzQ5b0lyUzVqVXdKNVFVZW9uMjY0d0FhSF9LYW5kemVZRkQ3MGpxYkhnNzRUTUdRNG44eFEySU9UVUZ6VktOc3JZUGZpaWRJUlkyS0JsdDd0TGdfLTdPbXlWdmdydTg2VWFpSnRzdkNkaExlV1FUOUhYVEZ1T2pKeGw5QnIw?oc=5)
 
 ---
 
 ### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
-2026-06-28 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
+
+---
+
+### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
+
+2026-06-29 <span class="news-indication-tag">migraña</span>
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
+
+---
+
+### [España mantendrá las medidas preventivas frente a la fiebre aftosa mientras la situación epidemiológica mundial siga inestable](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQTZ2aVdSanlTTFA0Y0xtZ1pLVGxQaVp6ZnowUHh1dGVPZzhvWnBJd0w3SWRVaWs4LURMU1l3ZFhlVWhKT2RWaU1xZVUzOVpQelZEYlN6QTRfYjZ1dnQwbERnRm5rV3B0X0VjbnRSaG50M2E3ZzdkZXkzMm5Vb0J5bHF6S1dUeTlyTU1ma0VoaVEwQzUzaVN4aWZqNXVlaTktMmFuZlRmRmNXcXo3bjlnR0JQWGMzOTZySzdQYUdrVmJuRTdrMFBfV1FDeFhIOHdzUXFMVWhoM2l5SnRSQjJqU1pidEpNWDg?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQTZ2aVdSanlTTFA0Y0xtZ1pLVGxQaVp6ZnowUHh1dGVPZzhvWnBJd0w3SWRVaWs4LURMU1l3ZFhlVWhKT2RWaU1xZVUzOVpQelZEYlN6QTRfYjZ1dnQwbERnRm5rV3B0X0VjbnRSaG50M2E3ZzdkZXkzMm5Vb0J5bHF6S1dUeTlyTU1ma0VoaVEwQzUzaVN4aWZqNXVlaTktMmFuZlRmRmNXcXo3bjlnR0JQWGMzOTZySzdQYUdrVmJuRTdrMFBfV1FDeFhIOHdzUXFMVWhoM2l5SnRSQjJqU1pidEpNWDg?oc=5)
+
+---
+
+### [Große Bluthochdruck-Studie: Sartane schneiden bei Nebenwirkungen am besten ab](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFsb01zSTFhOFJ3aWFmSHJhVnJDUy1oT3I2bENMaGllR29POS11bl9XTC1TVXM5bDNSM1h1aTBybGVwVHExcTFiX0g2dEhlUy1zTFdmWlB6d00wcHZWSHk4YzVfX3FRNVpWZGVNZEszWG1oVVczUC1NUkFnTXlYTzFYUGpkV3pHZnFCZW4yOGFPY0ZmTzFuM3FmM0wtblE4NTRJTG9Tb0JMckJBNmNFQTNqZw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFsb01zSTFhOFJ3aWFmSHJhVnJDUy1oT3I2bENMaGllR29POS11bl9XTC1TVXM5bDNSM1h1aTBybGVwVHExcTFiX0g2dEhlUy1zTFdmWlB6d00wcHZWSHk4YzVfX3FRNVpWZGVNZEszWG1oVVczUC1NUkFnTXlYTzFYUGpkV3pHZnFCZW4yOGFPY0ZmTzFuM3FmM0wtblE4NTRJTG9Tb0JMckJBNmNFQTNqZw?oc=5)
+
+---
+
+### [FEFCI pide reforzar el seguimiento de los supervivientes de cáncer infantil en toda España - Somos Pacientes](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa0dfSzBjd1hDRFFPRlZyLThfMTJqc1VSQmluWUE0LVptNXZ1eXVWdTRMc3ZlNG5qUE1Ma3laWGxFNmJVTFgtcEpLSXVIMmhCajI2UV81Yk5HNnZZTXNaMGl6YmhCZThDMDgxVi14OVJjcGF2RVpXWWdFRHZZcTJzY3NqaEJaQXpZTzQ3WXhHckRHQ3dvWjBHNjZZMFR2LXh5R0RtOGc1ZUNZZE5xVW9xNW9iRzloVUIyS3plRVVyLVA5bDNDcUZGWnRzYkNWdlo1UzNDeXVSLVVmMDlrMzJVZDc4OHo0Zw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa0dfSzBjd1hDRFFPRlZyLThfMTJqc1VSQmluWUE0LVptNXZ1eXVWdTRMc3ZlNG5qUE1Ma3laWGxFNmJVTFgtcEpLSXVIMmhCajI2UV81Yk5HNnZZTXNaMGl6YmhCZThDMDgxVi14OVJjcGF2RVpXWWdFRHZZcTJzY3NqaEJaQXpZTzQ3WXhHckRHQ3dvWjBHNjZZMFR2LXh5R0RtOGc1ZUNZZE5xVW9xNW9iRzloVUIyS3plRVVyLVA5bDNDcUZGWnRzYkNWdlo1UzNDeXVSLVVmMDlrMzJVZDc4OHo0Zw?oc=5)
+
+---
+
+### [El diagnóstico precoz y las nuevas terapias están cambiando el pronóstico de los pacientes con esclerodermia - Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUkFxQzBwT1ZzOThDNU1CT0J6cUdQRHJhbm1ReDh4dVlmN19rUnpIYVJMUjNQcE1ZR2FQQ2tmZk9LaWUyaXgwRnFTUzlUanZCdFMtM21SWlBfdjJCSUtSTXNlMUFxZFcwR0dzSDZNS0lCLXpqTVpjVFpaVUdIbi1KSFF0NEo5Nm9mVjZWTU5qMFloS2ZTRlUySDRsblZmRjRPS0tQaTdha19YNW42Z3VxVU5OcFl0b3p3dDJCX0pEX3paMTk2dFdyNFpqSWFrUjJGV3pMaGdpeXpYdDZYSF9Ebw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUkFxQzBwT1ZzOThDNU1CT0J6cUdQRHJhbm1ReDh4dVlmN19rUnpIYVJMUjNQcE1ZR2FQQ2tmZk9LaWUyaXgwRnFTUzlUanZCdFMtM21SWlBfdjJCSUtSTXNlMUFxZFcwR0dzSDZNS0lCLXpqTVpjVFpaVUdIbi1KSFF0NEo5Nm9mVjZWTU5qMFloS2ZTRlUySDRsblZmRjRPS0tQaTdha19YNW42Z3VxVU5OcFl0b3p3dDJCX0pEX3paMTk2dFdyNFpqSWFrUjJGV3pMaGdpeXpYdDZYSF9Ebw?oc=5)
+
+---
+
+### [One person a week in England dies with undiagnosed TB, study finds - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
+
+---
+
+### [Más de la mitad de los pacientes con esclerosis múltiple (51%) ve afectada su vida social y el 48% su trabajo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3B2NDRvcWdXY2lLU1BEUHJRN3VCXzlwSEhVcmN1bUdQRjdPcmRZZXBHSHViQ29BMjUzRHNUMm1tQ3J2MDRaT09HQVhYSXVJd2hsNk5TTFBycFV1YWZuQUFFLWVYb1FxUGtYR1F6N3o3RGczakU4Q21hZXNmUmVnOGs4MXVVY01qTmRwcjlwU1FZUjZaYWdKZDd0RUkwRlpRcEY3V0tvZHREOGU1UnQyMXlPbjNfSU1uTnhKR1F2NTJRRFBYMzJJTXhPQmU5d1FkbHFMV1MxdWRxYVVFUWl5VDBod0R2Zw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3B2NDRvcWdXY2lLU1BEUHJRN3VCXzlwSEhVcmN1bUdQRjdPcmRZZXBHSHViQ29BMjUzRHNUMm1tQ3J2MDRaT09HQVhYSXVJd2hsNk5TTFBycFV1YWZuQUFFLWVYb1FxUGtYR1F6N3o3RGczakU4Q21hZXNmUmVnOGs4MXVVY01qTmRwcjlwU1FZUjZaYWdKZDd0RUkwRlpRcEY3V0tvZHREOGU1UnQyMXlPbjNfSU1uTnhKR1F2NTJRRFBYMzJJTXhPQmU5d1FkbHFMV1MxdWRxYVVFUWl5VDBod0R2Zw?oc=5)
+
+---
+
+### [Bluthochdruck und Demenz: Niedriger Druck erhöht Alzheimer-Risiko um 174% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPODlkelZDYmphOEJodVJXTHJGVE1pTFFicGRKZ3BfOTc3ZFVUSFUwOXl4Uzdvd3RxQTF2eFZ6ME9HQ0ZVbFp3WmZjNFR0OWFGaXNjUDd3MDdKR1htTWlwaEtTVVlEQTl3cWxvRG9tRjhfNXdsWkttYWJic0wzR3BLOS1oTGRKMDVMNThzOU9sMGlvbDhoVTM2VlhYRHdfdFNOMVdySXlSZEllLV9aejREMEF4Nk44VnQxM0tXRHh3?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPODlkelZDYmphOEJodVJXTHJGVE1pTFFicGRKZ3BfOTc3ZFVUSFUwOXl4Uzdvd3RxQTF2eFZ6ME9HQ0ZVbFp3WmZjNFR0OWFGaXNjUDd3MDdKR1htTWlwaEtTVVlEQTl3cWxvRG9tRjhfNXdsWkttYWJic0wzR3BLOS1oTGRKMDVMNThzOU9sMGlvbDhoVTM2VlhYRHdfdFNOMVdySXlSZEllLV9aejREMEF4Nk44VnQxM0tXRHh3?oc=5)
+
+---
+
+### [Schwangerschaft: 98 Prozent nehmen zu wenig Jod auf - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
+
+---
+
+### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 5,8 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
+
+---
+
+### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+
+---
+
+### [Ces boissons très aimées des enfants augmenteraient le risque d'hypertension à l'âge adulte - Yahoo Life France](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdE9WQ05iMm9ZV3NGaWFLaU1JSi1HN2E5TjEyNWpiQS0xZHNqMl9sa2F1UDBSN2RnSmVNdmNmR2lFdUQzWWItMGhyc3dCX2lLVnB5OExENFQ4U1ZicEVUZ01KNXlKWW82b0puTkE2T1VRUnhteld5MXl0ZUVwUjVwYWdya3ZBcFZ6eEVISDc0SDJGcjlxYXVKSWtncEFXUTJHN3hkT3R3YTBDUEhVWU96aS1HN3ZubjFnMDdITE9BSDljcHN0YXVGOUpFdw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">hypertension</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdE9WQ05iMm9ZV3NGaWFLaU1JSi1HN2E5TjEyNWpiQS0xZHNqMl9sa2F1UDBSN2RnSmVNdmNmR2lFdUQzWWItMGhyc3dCX2lLVnB5OExENFQ4U1ZicEVUZ01KNXlKWW82b0puTkE2T1VRUnhteld5MXl0ZUVwUjVwYWdya3ZBcFZ6eEVISDc0SDJGcjlxYXVKSWtncEFXUTJHN3hkT3R3YTBDUEhVWU96aS1HN3ZubjFnMDdITE9BSDljcHN0YXVGOUpFdw?oc=5)
 
 ---
 
@@ -91,14 +187,6 @@ permalink: /news/tadalafil/
 2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
-
----
-
-### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
 
 ---
 
@@ -126,22 +214,6 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Rafael Rodríguez García, psiquiatra: "La depresión y la ansiedad en personas con problemas de tiroides podrían compartir una misma raíz genética" - El HuffPost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFFCQ0UwZ19DNDZ4WnVMa05lSlV5Q1JReVNlTFBEMmpUelo3XzdGcTlrM3hHSUlfdTdvZmtnZHdOdWxfcHE1bFRwUkVscHJyenBROHR5djRzbFlqVFNHUUtrbFpfVzBZSGxRaXp2TTRjZzFzb3gwYUtOOG5OZExTaU85VHF2ckotcjhvNHdCUFprWE1lNC1yck9xMjMyalgyRnYxU3pRUzhvUThHd3BtNGs5bnpHMF9INmNLdTdLYk9Kd19TWmNOMjBBenc1VXJGTnY0Y0I3Y25DdWUyazRtNFdVc0JHdE1ud2FlSnU3NFVBZ0xD0gGIAkFVX3lxTE5hTzdCZGNaZEZHTEVMV0tNbEFwR2RSejY2ZUhnbi02R2NjY0VXREhwMW4tT3I2Y2FSUmNla2h5ZTdqWnFXeW9LQ3RqcHJjUTVzdXh3VkJkZVk0QnhqYkJoM1pyQ0l1QkpZUzgyVWdxTHFrdDNUb29uaVZVTVNZQ1N3RTJDYV9OQ1UwNFhXYkZlTVdpRFlfZ0ZaaXY3OFN3azZXSlZ0RFRpWC1RUk9FVUx3STYteklKYU5CdEpYYmxaSTBIeVJVUXpnLV95LUw1QlVrNk5GamhOZm1rLWVVUkRyZzI4UEJQLXZLenR2NHNMWUJNMGlybExEMlZDOHVaUkl1eE5pbUE2MA?oc=5)
-
-2026-06-28 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[El HuffPost](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZFFCQ0UwZ19DNDZ4WnVMa05lSlV5Q1JReVNlTFBEMmpUelo3XzdGcTlrM3hHSUlfdTdvZmtnZHdOdWxfcHE1bFRwUkVscHJyenBROHR5djRzbFlqVFNHUUtrbFpfVzBZSGxRaXp2TTRjZzFzb3gwYUtOOG5OZExTaU85VHF2ckotcjhvNHdCUFprWE1lNC1yck9xMjMyalgyRnYxU3pRUzhvUThHd3BtNGs5bnpHMF9INmNLdTdLYk9Kd19TWmNOMjBBenc1VXJGTnY0Y0I3Y25DdWUyazRtNFdVc0JHdE1ud2FlSnU3NFVBZ0xD0gGIAkFVX3lxTE5hTzdCZGNaZEZHTEVMV0tNbEFwR2RSejY2ZUhnbi02R2NjY0VXREhwMW4tT3I2Y2FSUmNla2h5ZTdqWnFXeW9LQ3RqcHJjUTVzdXh3VkJkZVk0QnhqYkJoM1pyQ0l1QkpZUzgyVWdxTHFrdDNUb29uaVZVTVNZQ1N3RTJDYV9OQ1UwNFhXYkZlTVdpRFlfZ0ZaaXY3OFN3azZXSlZ0RFRpWC1RUk9FVUx3STYteklKYU5CdEpYYmxaSTBIeVJVUXpnLV95LUw1QlVrNk5GamhOZm1rLWVVUkRyZzI4UEJQLXZLenR2NHNMWUJNMGlybExEMlZDOHVaUkl1eE5pbUE2MA?oc=5)
-
----
-
-### [Rafael Vicetto, fisioterapeuta: “Los hipopresivos pueden ser contraproducentes para la diástasis”](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQXzRLbWFLQk9oeGg4NXdjWGdnOGwzdXFiY1RrZ2FDOHZ1U0d6YmgzVEw3cUt0WVVXU3JlODFJV0cyMm5OOXZMS2U5ZHpZMHlrR3FSQlhQaEtnd0V6Y0M4enR4WWVXZnE2d2VBVXp5ODlFN1lwM24xWC1ZTGt4V2xlbUtpZ1l4S2pDdDdwazViR1FVWVBjdVZ2b1VHWEs4WVo3R19QWnZkb2pmMFRONW9yeEx4c0ZaaFQ3LTFpWmtBUGVsQmZQTHZfOHRMQl9na3RPSTBfWUtwLUM4MU9K0gHiAUFVX3lxTFBoNk9PbXhhRlVnQzkyS1dzTnBaQVNLWThEU3NQaHgxWVBVTE1ndFVYMjlJV0FXN3ZhLUxGc29NT1U4dDlXTkZaNzJCV1B6NlZhUV9Oc1pTcFZTWkh2ZHZXdThlZFpPbVdfS2wzZFJ4RDlxOE1LWnpmbExaOVNxNGVQNUppSG9VcEVfZUxFZkRvMlhQT1Y2OXlTUEVPbUUxYWlGeVFhVENDTkJvT1A1YVY5V3Nrel9zTGZCUWJCLWRIU21oQ1VjazJwTWUxMTBOS1cyUERZTG5kVE9uTXJDQkRPSXc?oc=5)
-
-2026-06-28 <span class="news-indication-tag">AF</span>
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQXzRLbWFLQk9oeGg4NXdjWGdnOGwzdXFiY1RrZ2FDOHZ1U0d6YmgzVEw3cUt0WVVXU3JlODFJV0cyMm5OOXZMS2U5ZHpZMHlrR3FSQlhQaEtnd0V6Y0M4enR4WWVXZnE2d2VBVXp5ODlFN1lwM24xWC1ZTGt4V2xlbUtpZ1l4S2pDdDdwazViR1FVWVBjdVZ2b1VHWEs4WVo3R19QWnZkb2pmMFRONW9yeEx4c0ZaaFQ3LTFpWmtBUGVsQmZQTHZfOHRMQl9na3RPSTBfWUtwLUM4MU9K0gHiAUFVX3lxTFBoNk9PbXhhRlVnQzkyS1dzTnBaQVNLWThEU3NQaHgxWVBVTE1ndFVYMjlJV0FXN3ZhLUxGc29NT1U4dDlXTkZaNzJCV1B6NlZhUV9Oc1pTcFZTWkh2ZHZXdThlZFpPbVdfS2wzZFJ4RDlxOE1LWnpmbExaOVNxNGVQNUppSG9VcEVfZUxFZkRvMlhQT1Y2OXlTUEVPbUUxYWlGeVFhVENDTkJvT1A1YVY5V3Nrel9zTGZCUWJCLWRIU21oQ1VjazJwTWUxMTBOS1cyUERZTG5kVE9uTXJDQkRPSXc?oc=5)
-
----
-
 ### [El cribado del cáncer de mama sigue por debajo de los niveles de 2017 - El Mirón de Soria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUWZZdVRzNXFKZW8xQnlkdWtVem1nNXcya3h4UHViclB5cG5ickdTSGRqT0JNeE9PcmdsQ2d1UmpZTDFQU2RtUUd3b1Q5QXFfVDNzU3BHRXlnTVdDbGpMZkVKR3k5VUE0RGpzNEdMQl9VdUxJb1NDbXkxbS1LVHFDM2FPR3dVRXhmWUhsd1BsaE5ucjNEVDZhUWp2QTRNMVRXTGVEVjM0NW5qWVBLRmlTYmowd9IBuAFBVV95cUxQdTB1dFJOcVF3MTdNVFpUZmxpc2VjWGozeGo4RE1mTU9pMGlTUmswQ1dFcW5ZQ0FUNERmbEd4SWFUM2prenpjM1cyQWZtRnFuRTFVSE9ScHhyWWFCM1FaU2hwVVZNS1E3Q3Q4Wm1fQURKU3laYWQ1eXlUMGVfUEE5aF9WMExhRkJxcVpOMFB5aUZfTXl1VXFYNFBLLUdMVVc1NV96b0liOU1ONkRaaW9KT010alNneTBX?oc=5)
 
 2026-06-28 <span class="news-indication-tag">AF</span>
@@ -150,11 +222,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Debs would be amazed at legacy, say family after Bowelbabe fund raises £21m - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVNsemtUWC1DOTZVeTU2Y09SRV9CSGxfOUo4c3VSRGdaSlVMXzJfamp3TXdKd2Z2SUFHMHJmYWkzOEVFVkc2SjBKVVE1eWg3RTRiS0Q1ZUlNSlF4SGNFZHI2SkV3cUU4YjBleGZyUmJXbUtzSlJGS29BdkZIaDk5WFoyOEo2bjN6TUE?oc=5)
+### [Debs would be amazed at legacy, say family after Bowelbabe fund raises £21m](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVNsemtUWC1DOTZVeTU2Y09SRV9CSGxfOUo4c3VSRGdaSlVMXzJfamp3TXdKd2Z2SUFHMHJmYWkzOEVFVkc2SjBKVVE1eWg3RTRiS0Q1ZUlNSlF4SGNFZHI2SkV3cUU4YjBleGZyUmJXbUtzSlJGS29BdkZIaDk5WFoyOEo2bjN6TUE?oc=5)
 
 2026-06-27 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVNsemtUWC1DOTZVeTU2Y09SRV9CSGxfOUo4c3VSRGdaSlVMXzJfamp3TXdKd2Z2SUFHMHJmYWkzOEVFVkc2SjBKVVE1eWg3RTRiS0Q1ZUlNSlF4SGNFZHI2SkV3cUU4YjBleGZyUmJXbUtzSlJGS29BdkZIaDk5WFoyOEo2bjN6TUE?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVNsemtUWC1DOTZVeTU2Y09SRV9CSGxfOUo4c3VSRGdaSlVMXzJfamp3TXdKd2Z2SUFHMHJmYWkzOEVFVkc2SjBKVVE1eWg3RTRiS0Q1ZUlNSlF4SGNFZHI2SkV3cUU4YjBleGZyUmJXbUtzSlJGS29BdkZIaDk5WFoyOEo2bjN6TUE?oc=5)
 
 ---
 
@@ -166,59 +238,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Contaminación e infartos: así afecta la mala calidad del aire al corazón - Onda Vasca](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRllERUZSM2FWNk9KSEU5OWIwZEtWTDdPd1lRQi1yVnV0Z3FGcFgwOEdqYW9ZZEhYbFNCUUFzMFViMjRJS2l0QjVOOEZwWmZYaVprdHdSdHRSOWNfMnROTGl6OVZCdU9BTHRDS0tMdXpYM25UdmktZGN4MUlPYzdEdG42WVFtZG9wZW1sZExraHd4QzZZVWtIbVpqa0w3alnSAaQBQVVfeXFMTVBJaTFYcUp3bTBHQjIwZkFpWV9NNU5UNEl0emdfZVktaTlKUE1hTWZMeC1Lc0hrb01xR3FSdS1XaUF6RF8wN3o4eEtjeEpFMTlxc0JQLWtIT2hXak9qbXNEb0sxaWMtVXZlRG1wZUtGMDFNTWY4WWJMV28wUzNHekpKTjhWeEVzMzZxLVAtR3NDOWRzOTA1MlNhNERhZ2FkTTBXRjY?oc=5)
-
-2026-06-27 <span class="news-indication-tag">AF</span>
-
-來源：[Onda Vasca](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRllERUZSM2FWNk9KSEU5OWIwZEtWTDdPd1lRQi1yVnV0Z3FGcFgwOEdqYW9ZZEhYbFNCUUFzMFViMjRJS2l0QjVOOEZwWmZYaVprdHdSdHRSOWNfMnROTGl6OVZCdU9BTHRDS0tMdXpYM25UdmktZGN4MUlPYzdEdG42WVFtZG9wZW1sZExraHd4QzZZVWtIbVpqa0w3alnSAaQBQVVfeXFMTVBJaTFYcUp3bTBHQjIwZkFpWV9NNU5UNEl0emdfZVktaTlKUE1hTWZMeC1Lc0hrb01xR3FSdS1XaUF6RF8wN3o4eEtjeEpFMTlxc0JQLWtIT2hXak9qbXNEb0sxaWMtVXZlRG1wZUtGMDFNTWY4WWJMV28wUzNHekpKTjhWeEVzMzZxLVAtR3NDOWRzOTA1MlNhNERhZ2FkTTBXRjY?oc=5)
-
----
-
 ### [Protuberanzen am 27. Juni 2026 - Bild 2 - die Sonne bereitet wieder viel Vergnügen - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXRqc1EwdFNZTUZlT1RkcWtqUUVhR1NSSXNlckhFN2VzakItUjByNEtNbUVMN2dIU2diTWRJNE1fVlVLdnpFbGprN0xCUjQ4TUpkVVk2TUJLR245dkNVSnNSbW1BTkcxVE0tTjNDLV9hcTZwNHF1ZE53TnEzU2NPNUFjajZOdWo5QlVXNHJ0N3hiTlVmNVFjNEZwV3pMQWZ2Ty1PYk9vR0RtMUpMdVV3QTNjLTh5a1pNTGRQUE9id2dodw?oc=5)
 
 2026-06-27 <span class="news-indication-tag">AF</span>
 
 來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXRqc1EwdFNZTUZlT1RkcWtqUUVhR1NSSXNlckhFN2VzakItUjByNEtNbUVMN2dIU2diTWRJNE1fVlVLdnpFbGprN0xCUjQ4TUpkVVk2TUJLR245dkNVSnNSbW1BTkcxVE0tTjNDLV9hcTZwNHF1ZE53TnEzU2NPNUFjajZOdWo5QlVXNHJ0N3hiTlVmNVFjNEZwV3pMQWZ2Ty1PYk9vR0RtMUpMdVV3QTNjLTh5a1pNTGRQUE9id2dodw?oc=5)
-
----
-
-### [Rangers-daft dad of three in desperate fight to fund rare cancer treatment - The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
-
-2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
-
----
-
-### [“Mai in auto, no in bagno, occhio al frigo”: le regole d’oro per conservare i farmaci col gran caldo - La Stampa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFhTU3BYa3pvMlE2d0pDY3pIc1J1VGdta0dpRnZNYWNTM0JDczdTZTJ6RHBad3RkX2dLMEFBeFRLcXdfTTkyMzdGNzJ4N21iNEpzQ00xU0V2Q0wtRDRsRE9rZHdwUzFKR2J1UnlTczhqbldPUkY3R1otb3hNaG44enBnblIxT1l4UTZDUm9TbVE0cWlwbFVucNIBngFBVV95cUxNNWEtRUFkdXQyQm8wSnJYZFlpQ25sNFdLNGJUaTRrXzY4SmxZYlJTdXJnMGVSVWdtX0dyd3JsbkhaOHlLa2RzWGVWWS1ld1BnT1JzSlItQ0JKUnRBaG5mV2J2SU9tcFgwdW9vM08xTWY1bC1lVkgxb2tuVWFBVW5FMjJLSkxTN2ZTRFpPSDZPQnRpVDk3TTBzbHVKc0JYQQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFhTU3BYa3pvMlE2d0pDY3pIc1J1VGdta0dpRnZNYWNTM0JDczdTZTJ6RHBad3RkX2dLMEFBeFRLcXdfTTkyMzdGNzJ4N21iNEpzQ00xU0V2Q0wtRDRsRE9rZHdwUzFKR2J1UnlTczhqbldPUkY3R1otb3hNaG44enBnblIxT1l4UTZDUm9TbVE0cWlwbFVucNIBngFBVV95cUxNNWEtRUFkdXQyQm8wSnJYZFlpQ25sNFdLNGJUaTRrXzY4SmxZYlJTdXJnMGVSVWdtX0dyd3JsbkhaOHlLa2RzWGVWWS1ld1BnT1JzSlItQ0JKUnRBaG5mV2J2SU9tcFgwdW9vM08xTWY1bC1lVkgxb2tuVWFBVW5FMjJLSkxTN2ZTRFpPSDZPQnRpVDk3TTBzbHVKc0JYQQ?oc=5)
-
----
-
-### [Forscher untersuchen Automaten-Kaffee: Deshalb ist nicht nur der Geschmack ein Problem](https://news.google.com/rss/articles/CBMickFVX3lxTFBCZHpnSWpCY3FyMjRhdGpSQ0duRHhlV3YzM3VtVU5sRWNhMFM1Z0Yzbkd6S3VDbmFDZVhKOTNUTFAyVjBYU3JzZ21heWUyZDg5bEt2ODExbkFIcFFVOFoxcXozX0JfNk5JT0lFelVWckRZUQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">AF</span>
-
-來源：[t3n](https://news.google.com/rss/articles/CBMickFVX3lxTFBCZHpnSWpCY3FyMjRhdGpSQ0duRHhlV3YzM3VtVU5sRWNhMFM1Z0Yzbkd6S3VDbmFDZVhKOTNUTFAyVjBYU3JzZ21heWUyZDg5bEt2ODExbkFIcFFVOFoxcXozX0JfNk5JT0lFelVWckRZUQ?oc=5)
-
----
-
-### [El calor empeora las cefaleas y migrañas: cómo prevenirlas - 65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
-
-2026-06-27 <span class="news-indication-tag">migraña</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMilwFBVV95cUxPc1FCMXRBNHM4a0NJaWJHc2JmM2VsWm92WVNYMV9OS3o2bDRTNm5YZ0hZd2NRVU03WUpyVkNldFQ2ejdvcmxKcGszVWV0SUhldlJMMm02SkZHVGFtTC1QeUVPdF9JQjVCZUR2MDJ0WWpadjBiRzFTTVhzSnpBYnZ1eFZKcjVDd2gtbGpnVmlNUG9TLW9RcVJr?oc=5)
-
----
-
-### [Blutdrucksenker im Vergleich: Diese Mittel haben die wenigsten Nebenwirkungen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEJ2YlRuRThjY1cwNUtMMmdpbWV0LXZ3R0tKWkpPdkJSNVk4amRDZzNmeThwUzk1M05mMWFDQmhtX21MdEZ4WjZXdE1mcEdndllVWldxYnJ0V1RrZ2loVXdsS044SU9QSjdWU3oyczZTMXk3TVpiYlZsSDF0QTBXT05JMUlQNjNob0kyaXVaYnFiVXV4MWpxLUJfak9hUUMtLUMyalBiVVAyWlJlQ3VKQk9ZSDhDT2IxYTQtNmdaYndxczQ?oc=5)
 
 ---
 

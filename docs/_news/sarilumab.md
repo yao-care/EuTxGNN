@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（6 則）
 
+### [Toxoplasma gondii als vernachlässigte Tropenkrankheit: Milliarden betroffen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asma</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
+
+---
+
+### [Marcador genético apoya selección de terapia anti-TNF en la enfermedad de Crohn](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0Y2dlNTZ2k2dFVxN2dNd0lTdDFCUWpoWGJmaGpqTko4dkhlT2QxWUdoeERzTjJGa0xlai1kOE9xdTNaYXoyc0ZGVVdDTnZrd0hhdVRnbWFHVGZ3ZkpUVXFzc2xzTWp4eVVva1NjaHQ4N3AyamFBT21WM2tVbGpINk1Jb1F6YlBaUHFvdW5STjh4Y0ZHSGZWUHRjQTAyTy1wOXc1bDJLVmlMa1ljaG8xTTVKR0tVYzFYTjZ5SndONGVscHI4ZGtoOV9wQTJBbGwtb3NyektiT25Ob3BuTDZOcEdfQ1XSAe4BQVVfeXFMTW9CbFpxWXRUeXhMcE9FclJoVDdRMlpQRnVkMFJjOS1vRGt3OGFqc3d4NVJKYUxFdFozenJnZHVhQ0dqZ01SLVRLZlN2Q2ZyV21KbW9DVmlGcXZ5blBXcWV5eWJ5QzlKUTNVWFlYRGFTc2daRG13bDNTZTByQl9VZTh1aFRwUmhCanNMNlRnSXVRb3VSaktxc2dkQ2wwUDd3R0lHNkZMNDFzcTlfQWpQMTk4WFNZZDFISG9USVpqUUhQYkRqTWxtNFpic0xYYU9ScUxBSFp5MnN6Nk4zamFlLU1pTWhqdXVkcTdSOTg3UQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+來源：[labmedica.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0Y2dlNTZ2k2dFVxN2dNd0lTdDFCUWpoWGJmaGpqTko4dkhlT2QxWUdoeERzTjJGa0xlai1kOE9xdTNaYXoyc0ZGVVdDTnZrd0hhdVRnbWFHVGZ3ZkpUVXFzc2xzTWp4eVVva1NjaHQ4N3AyamFBT21WM2tVbGpINk1Jb1F6YlBaUHFvdW5STjh4Y0ZHSGZWUHRjQTAyTy1wOXc1bDJLVmlMa1ljaG8xTTVKR0tVYzFYTjZ5SndONGVscHI4ZGtoOV9wQTJBbGwtb3NyektiT25Ob3BuTDZOcEdfQ1XSAe4BQVVfeXFMTW9CbFpxWXRUeXhMcE9FclJoVDdRMlpQRnVkMFJjOS1vRGt3OGFqc3d4NVJKYUxFdFozenJnZHVhQ0dqZ01SLVRLZlN2Q2ZyV21KbW9DVmlGcXZ5blBXcWV5eWJ5QzlKUTNVWFlYRGFTc2daRG13bDNTZTByQl9VZTh1aFRwUmhCanNMNlRnSXVRb3VSaktxc2dkQ2wwUDd3R0lHNkZMNDFzcTlfQWpQMTk4WFNZZDFISG9USVpqUUhQYkRqTWxtNFpic0xYYU9ScUxBSFp5MnN6Nk4zamFlLU1pTWhqdXVkcTdSOTg3UQ?oc=5)
+
+---
+
 ### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
 
 2026-06-28 <span class="news-indication-tag">EPOC</span>
@@ -70,22 +86,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Una nueva terapia CAR-T logra una remisión duradera de la artritis reumatoide en ratones](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
-
-2026-06-28 <span class="news-indication-tag">artritis</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWZ0eHpVZ2tqc01WRFRHNmplanJxVFROaXVQeWY3bU5CYnpTWi1wdm9WV1JhVU5SVC1STUUwdmhBc0FyVVNEb3hjZDNFWHhlZjJjSkFoOTVpTUsyU3Y2SHdsNTBOYkIyckNZcDhrQjB0MVRvcG1SbzJuWjN2MngxQ29ZZms3ZHVyMFhxbHJqUmF2NUNralloTmVkaDQtdzRxSG1yWnNGdVpJc1lpTGpEcWNONmMtUk1DcGtQcDlnczdvSEpFWW5tMTdPdy1kXzVwOFNWcks5R2xoWi1SVUE?oc=5)
-
----
-
-### [Un estudio pionero descarta el impacto de la bacteria Mycoplasma genitalium en la repetición de partos pretérmino](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
-
-2026-06-28 <span class="news-indication-tag">asma</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmpVbk9vQS1GaTRTWk44T014dmRFUUVydVNodEV3U2lYZk1BS2tQZDQ2LWFPczl4ZUtxRU9Fc3Eza05yb2pPWUxhRkZjaHh2ZzdCVkdZVk05NnJQM0FnM3VuNzNleVVBY0xqOG8xRDVibzhVeFVMUWFYLWlDUjhVdWZQWmtGMlZvQ0VnMFhyclR2ajdPQ3liQWN2RGprTVJkdkNLMUxfcTNSNVJSWFJPby1JY0VWUElYTlZ6clVtZ0pPUjczaVlla0laRjlwaGhablIyRzlFMFJmNzBMSkM1TURYR05haWs?oc=5)
-
----
-
 ### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
@@ -94,11 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
 
-2026-06-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+2026-06-27 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/insulin-lispro/
 ---
 
 <p class="key-answer" data-question="Insulin Lispro 有什麼相關新聞？">
-<strong>Insulin Lispro</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Lispro</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,53 @@ permalink: /news/insulin-lispro/
 <p><a href="{{ '/drugs/insulin-lispro/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer um 43%](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWJCSldJclRmRG45ZWNWMnV6UHdQdnN3aU9oNXdjekMyUDBZSkU1ZHVoUXNiUkY3MzRJY2pybEdjemVrN1dPSm1vR19Vc3hHQWFjd2xhOVVSOGdRSHEwSHROcjk2Sy0yR21fU01RUHhWUGFoZWQzWlU1RVlaalhFQlhMWk1sN2ZfN3Q1VGt6VXpQSkZpd2RqYUljS0w5clVTQ2RXY2kzd1pMSWFwby15TnpFbC1icWttYUE?oc=5)
+### [La microbiota de precisión revoluciona el abordaje de diabetes, depresión y enfermedades intestinales](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+
+---
+
+### [Tierische Proteine: Hoher Fleischkonsum verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWJCSldJclRmRG45ZWNWMnV6UHdQdnN3aU9oNXdjekMyUDBZSkU1ZHVoUXNiUkY3MzRJY2pybEdjemVrN1dPSm1vR19Vc3hHQWFjd2xhOVVSOGdRSHEwSHROcjk2Sy0yR21fU01RUHhWUGFoZWQzWlU1RVlaalhFQlhMWk1sN2ZfN3Q1VGt6VXpQSkZpd2RqYUljS0w5clVTQ2RXY2kzd1pMSWFwby15TnpFbC1icWttYUE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 ---
 
 ### [Los salmantinos presentan menos riesgo cardiovascular que la media regional pese al avance de la diabetes - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
 
-2026-06-28 <span class="news-indication-tag">diabetes</span>
+2026-06-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
 
 ---
 
-### [Nuevas pastillas GLP-1 2026: aleniglipron y elecoglipron fase III - Ecosistema Startup](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1g5bzYxUE1DdVlPc0RQZlZfS0JiVXRyU3pqVkVWOEZKQ2VuLWxNSEdEMXMzcGl6em8waWR0czdTX3BVeUxCeXRWX0w4Q2xrQlJCUERUTHNDX2hlcEkxWTlxZkdrdm1KaDJjbFI5TmlUcUdCcGhUdWVBbUo2Z3ZqTXhlZGVwakE0Mk5OdVpFSXJ5RmRyQ0hVYk9iaw?oc=5)
+### [Diabetes-Medikamente senken Alzheimer-Risiko – 43% und weitere Präventionsdaten - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlQVXQzajdJd2lYcVpPbU50VktiMW82RHVEZVNzUFdIYk95U1ZrZHp0bkhuU21wOVFPTmxYU1RiaFdWTllHekVTaW1PcjROQzEzTnJyV25VTEEwTUVnR3ZBQWZScmdBak93ZGVWT0pIc1IwTVd5NUItY2d3a0dkbldteklQZFplMktORldoUnkzc3dhRENRUnpDWEd2TXhZc2pfaGVTTXh3c2dqNkE?oc=5)
 
-2026-06-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
+2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ecosistema Startup](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1g5bzYxUE1DdVlPc0RQZlZfS0JiVXRyU3pqVkVWOEZKQ2VuLWxNSEdEMXMzcGl6em8waWR0czdTX3BVeUxCeXRWX0w4Q2xrQlJCUERUTHNDX2hlcEkxWTlxZkdrdm1KaDJjbFI5TmlUcUdCcGhUdWVBbUo2Z3ZqTXhlZGVwakE0Mk5OdVpFSXJ5RmRyQ0hVYk9iaw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlQVXQzajdJd2lYcVpPbU50VktiMW82RHVEZVNzUFdIYk95U1ZrZHp0bkhuU21wOVFPTmxYU1RiaFdWTllHekVTaW1PcjROQzEzTnJyV25VTEEwTUVnR3ZBQWZScmdBak93ZGVWT0pIc1IwTVd5NUItY2d3a0dkbldteklQZFplMktORldoUnkzc3dhRENRUnpDWEd2TXhZc2pfaGVTTXh3c2dqNkE?oc=5)
 
 ---
 
-### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+### [Un medicamento para la diabetes previene enfermedades del corazón](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlB6UkFscWVsRkt5TmlONThtY29JdUh2NlNocWlTQXQ1WVM5ODlndTRwSV80ZEp1TndWU2lJdWtUajMwNmNHOERndzFkRV9SWXdCWEFsMGd3V2VqQU9Fa0VsWlpWc2tlU2hOWklMNHVzZDgtc2UxdllLbXQ5M0JyUWNhS09XSEFJeUJQbnJ2d1pURTFz0gGaAUFVX3lxTE9MUFd2NkpxMVc3Y0NNQlRVR2R4bkRzZzRDMzFfV3VZVGpQVHNOd2dMTUtldmRIdFdZZ0hTVEZHSHZQUkxadk5mVUhMcXZXanY5OThLZ3k0SDlnWmRodEFTQ2MwU0RmWmswTjQwbkZqcDZ1R2Jza2l0MjhlSmxYaFhnMjE1bFNIYk9COVc1RFM5akRZSmpldk1kSlE?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlB6UkFscWVsRkt5TmlONThtY29JdUh2NlNocWlTQXQ1WVM5ODlndTRwSV80ZEp1TndWU2lJdWtUajMwNmNHOERndzFkRV9SWXdCWEFsMGd3V2VqQU9Fa0VsWlpWc2tlU2hOWklMNHVzZDgtc2UxdllLbXQ5M0JyUWNhS09XSEFJeUJQbnJ2d1pURTFz0gGaAUFVX3lxTE9MUFd2NkpxMVc3Y0NNQlRVR2R4bkRzZzRDMzFfV3VZVGpQVHNOd2dMTUtldmRIdFdZZ0hTVEZHSHZQUkxadk5mVUhMcXZXanY5OThLZ3k0SDlnWmRodEFTQ2MwU0RmWmswTjQwbkZqcDZ1R2Jza2l0MjhlSmxYaFhnMjE1bFNIYk9COVc1RFM5akRZSmpldk1kSlE?oc=5)
+
+---
+
+### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 5,8 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
 
 2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/botulinum-toxin-type-a/
 2026-06-28 <span class="news-indication-tag">EPOC</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
+
+---
+
+### [Europa avala innovador medicamento para Parkinson que combina liberación inmediata y prolongada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQms4ZFlGd245XzZSdU1nenJHTWFCRFlRa3Qtd2JYSFlIcGpIWnhtNEZjMGdjTzRqcml2X295RE5zR1o1TjJ3c0tOMmdtSUV4OW00Y2M5em4zUjZWbFEzYXBCdmxhRUJoNFRYMDhlNlZ3SjVMcFJ3WkpVZG1lV0Y5dTBwc1VkMUd2Z0tTSUFIcmQzbV9Rb3c4aVNYT2pCWkt1ODlBMWlseTQ4Mk5SYm1FdkV6Y2xiWFY5OGNwTWhlNnl5bjhxSDRlcVM2NlBwTGUxUmlKNHpMRl9wTFBPeUo0ZjFBOGhiVHBpZlow0gHwAUFVX3lxTE5vdUlrUWhVZzEwWVl6bUd2SGhUVjEtZlBvRXNILWVMblFpWUtLOHdMY1hNX2p3TXYxMVptVDFORktqeDRFLU5hZWxrTVdGd2VKeDV4WndCZGRFeG0xbUVqdENhOVliZFpPaERKUGNDWkVvNzFpQzZpdHJYVWNHdVJraVpMdzdwNVZqbkNXZklDYndLbG5ScEhmbXpHQnBualhZVWNocWlKbllIQVV0b3dOTnlWUzFhMENWQ0otd2NOdjdsTkJIeE5fbWd5TWdadklYYWx6dmhmbmVVLVk3b29Vc19PdVVwcmtENTM0VE4tbw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQms4ZFlGd245XzZSdU1nenJHTWFCRFlRa3Qtd2JYSFlIcGpIWnhtNEZjMGdjTzRqcml2X295RE5zR1o1TjJ3c0tOMmdtSUV4OW00Y2M5em4zUjZWbFEzYXBCdmxhRUJoNFRYMDhlNlZ3SjVMcFJ3WkpVZG1lV0Y5dTBwc1VkMUd2Z0tTSUFIcmQzbV9Rb3c4aVNYT2pCWkt1ODlBMWlseTQ4Mk5SYm1FdkV6Y2xiWFY5OGNwTWhlNnl5bjhxSDRlcVM2NlBwTGUxUmlKNHpMRl9wTFBPeUo0ZjFBOGhiVHBpZlow0gHwAUFVX3lxTE5vdUlrUWhVZzEwWVl6bUd2SGhUVjEtZlBvRXNILWVMblFpWUtLOHdMY1hNX2p3TXYxMVptVDFORktqeDRFLU5hZWxrTVdGd2VKeDV4WndCZGRFeG0xbUVqdENhOVliZFpPaERKUGNDWkVvNzFpQzZpdHJYVWNHdVJraVpMdzdwNVZqbkNXZklDYndLbG5ScEhmbXpHQnBualhZVWNocWlKbllIQVV0b3dOTnlWUzFhMENWQ0otd2NOdjdsTkJIeE5fbWd5TWdadklYYWx6dmhmbmVVLVk3b29Vc19PdVVwcmtENTM0VE4tbw?oc=5)
 
 ---
 
