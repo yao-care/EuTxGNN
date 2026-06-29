@@ -46,7 +46,7 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 Epilepsie</span></li>
+<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 convulsions</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -54,11 +54,11 @@ permalink: /news/levetiracetam/
 
 ## 相關新聞（1 則）
 
-### [EAN Congress: EAN-Kongress: Die Nutzung von Hörgeräten ist bei Menschen, die sowohl an Epilepsie als auch an Hörverlust leiden, mit einem um 23 % geringeren Demenzrisiko verbunden](https://news.google.com/rss/articles/CBMipwJBVV95cUxQOFZLQnl0MVdvQlQ3WXliblFkZzk5ZHRtS0toRlIyTTFWNjhSYTBhU3NWbUg3bHkybVFSWW1vS3ZYSFQ4a2R5ZHBvQUlDQ1UySE1mWlVoRHUzem9ORXN4amdQQW9LQkltN1Q1QUtRLXBuNHdyZUNlTTE1bDJGYXBibVQ5S2VpNVh2Z2FPME9qYmFmaTNaNm1rRXl3SVRBZ2xwZWxINXFvV2dLTDgxYUVkSGE1WmF3bUNnY0R3dXN2R3EtajhQM3dwTngyX21sdHhpdmdIS3pFODhoQktDdnBQaENETTFTbWRCbDR0NjZYTHdqU3JvbnNYR3pDVGo0MkQzakJuaTZqdy1fQ1p3QXJURDc0QVo1SGVacy1XVzdVYUhyUXMtUHZV?oc=5)
+### [“An agonising way to die: it causes whole body convulsions, and the victim is painfully and horribly aware…” - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTE1RYjNmVy1xTFY2RDVya09Qd0JBOVpuajBtMFNzZVN2VHlUYzFuNHd1MWRfWGJsbWxuVkNUT29oVl8yeEZBM0UwTnFQSmpLU0xiOG85VnpzSDVfbmppMTl1UmxnSW1OZlc1eWdDTTJGeXQ1TlgtUzJTSGFGV0dhZw?oc=5)
 
-2026-06-27 <span class="news-indication-tag">Epilepsie</span>
+2026-06-27 <span class="news-indication-tag">convulsions</span>
 
-來源：[AnlegerPlus](https://news.google.com/rss/articles/CBMipwJBVV95cUxQOFZLQnl0MVdvQlQ3WXliblFkZzk5ZHRtS0toRlIyTTFWNjhSYTBhU3NWbUg3bHkybVFSWW1vS3ZYSFQ4a2R5ZHBvQUlDQ1UySE1mWlVoRHUzem9ORXN4amdQQW9LQkltN1Q1QUtRLXBuNHdyZUNlTTE1bDJGYXBibVQ5S2VpNVh2Z2FPME9qYmFmaTNaNm1rRXl3SVRBZ2xwZWxINXFvV2dLTDgxYUVkSGE1WmF3bUNnY0R3dXN2R3EtajhQM3dwTngyX21sdHhpdmdIS3pFODhoQktDdnBQaENETTFTbWRCbDR0NjZYTHdqU3JvbnNYR3pDVGo0MkQzakJuaTZqdy1fQ1p3QXJURDc0QVo1SGVacy1XVzdVYUhyUXMtUHZV?oc=5)
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTE1RYjNmVy1xTFY2RDVya09Qd0JBOVpuajBtMFNzZVN2VHlUYzFuNHd1MWRfWGJsbWxuVkNUT29oVl8yeEZBM0UwTnFQSmpLU0xiOG85VnpzSDVfbmppMTl1UmxnSW1OZlc1eWdDTTJGeXQ1TlgtUzJTSGFGV0dhZw?oc=5)
 
 ---
 

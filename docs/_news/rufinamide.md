@@ -14,7 +14,7 @@ permalink: /news/rufinamide/
 ---
 
 <p class="key-answer" data-question="Rufinamide 有什麼相關新聞？">
-<strong>Rufinamide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rufinamide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rufinamide/
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（23 則）
+
+### [Grandfather died of prostate cancer after GP ignored symptoms for years - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
+
+---
 
 ### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
 
@@ -70,11 +78,19 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Krebs-Fatigue: Methylphenidat lindert Erschöpfung nach fünf Wochen](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHN6WFZMQnkzRnlLUXlhWGRVODlla1l5cU9RSXoxU2V3Y2UxU0ExZ0tlQ0wzVll6ZHJFRXNOYUkwWjFxdmdLMXUzQUZGVC1tVDZ4bFp5aElTVG9vbkduSUM3Qm8tWjBOOGI0Z3FHaHVjZzM1WmNjcUt3ODBueHJqQ2hfUlY3R2VIZDZGTUJ4OWdaRmR4a19BN19DekhGdUFGUHpyOU5jWFdURmQ2T25PYWxGMkw5a0E?oc=5)
+### [Neue Hoffnung gegen Krebs-Fatigue? Studie zeigt, dass ein ADHS-Mittel helfen könnte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
 
 2026-06-28 <span class="news-indication-tag">Krebs</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHN6WFZMQnkzRnlLUXlhWGRVODlla1l5cU9RSXoxU2V3Y2UxU0ExZ0tlQ0wzVll6ZHJFRXNOYUkwWjFxdmdLMXUzQUZGVC1tVDZ4bFp5aElTVG9vbkduSUM3Qm8tWjBOOGI0Z3FHaHVjZzM1WmNjcUt3ODBueHJqQ2hfUlY3R2VIZDZGTUJ4OWdaRmR4a19BN19DekhGdUFGUHpyOU5jWFdURmQ2T25PYWxGMkw5a0E?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTndoMjc5NDYzY3ZQQk42VS1nbXBIcUpBUkluWEotRy1UT3FGNG5CU1BxeWpfWTduOFFFNlNCQW5HY3k3WlRPc2tVV2FUUUltOEp3ZFVqSlVhQWJ2S010ZHg4XzM5RG9fX1BWR2tpcTBRNU1pRkFBNHNLQS1wU2NHWmo1VVphaTljNERCNUlXbFJfRWVIdkVUQkF3Q0ZGUWZXREFfSnpnOTEzS01IZURTX3htS2V1NGh3WHA3bVBCUlkxVm9MVFhxYQ?oc=5)
+
+---
+
+### [Another B vitamin linked to worse outcomes for cancer - Jacksonville Journal](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Jacksonville Journal-Courier](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
 
 ---
 
@@ -90,7 +106,7 @@ permalink: /news/rufinamide/
 
 2026-06-28 <span class="news-indication-tag">cancer</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnhYd3BZRTZLMWM3NXJzTEJPZjlYU3djQk84dWpwOGpzVlBSSGlibEpjaWxWTkRnV1p0OUxpbDNtekp1Q2J4Q0ZZWTN5OEhTUkRiTnZWdlJRQ3JXTnhDZ0NxR0dZcDFIcHh3dHlsWmFENmRQTlE4Umd3b19pNzNRVU9zdW9HT1hLSmxFVUtWRWYzRUJ0eElBdXdReDdfM3NDaU1WRElnQnpWUGJBTktGeDZRbms5UQ?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnhYd3BZRTZLMWM3NXJzTEJPZjlYU3djQk84dWpwOGpzVlBSSGlibEpjaWxWTkRnV1p0OUxpbDNtekp1Q2J4Q0ZZWTN5OEhTUkRiTnZWdlJRQ3JXTnhDZ0NxR0dZcDFIcHh3dHlsWmFENmRQTlE4Umd3b19pNzNRVU9zdW9HT1hLSmxFVUtWRWYzRUJ0eElBdXdReDdfM3NDaU1WRElnQnpWUGJBTktGeDZRbms5UQ?oc=5)
 
 ---
 
@@ -98,7 +114,7 @@ permalink: /news/rufinamide/
 
 2026-06-28 <span class="news-indication-tag">tumor</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
 
 ---
 
@@ -142,14 +158,6 @@ permalink: /news/rufinamide/
 
 ---
 
-### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
-
-2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
-
----
-
 ### [Ha una lesione al dito che non guarisce: medici diagnosticano rara forma digitale di un tumore comune, il basalioma](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzlwS3Myc2g5RXd1LXB4R3JQZEZRbTVfb3VvemFGTXdLanRjbTM1NW5ObkNyemdzaU1PdjBfZUFMSlBrR29IVjVuYUs3OGZ5OU55bklsVzViM0NCZHI5dmhWbEY5RXNkZVBvUWRHMW9iRDdGLUlFZi1Wd3g3YTZhRy1ka3VCanVCNDNZel81MUVtRlJ6Z01CazBSX1h2X0RlMHlOcHFzcG5FOVd5VmY4V0lnWC1EdGxZakZjSkF3SzQ3Wi1qZ3E3SXdReS1lb2lveTEzZGVYNGV0SUNUZWRhQTF2cmtsOE0?oc=5)
 
 2026-06-27 <span class="news-indication-tag">tumor</span>
@@ -174,6 +182,14 @@ permalink: /news/rufinamide/
 
 ---
 
+### [“An agonising way to die: it causes whole body convulsions, and the victim is painfully and horribly aware…” - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTE1RYjNmVy1xTFY2RDVya09Qd0JBOVpuajBtMFNzZVN2VHlUYzFuNHd1MWRfWGJsbWxuVkNUT29oVl8yeEZBM0UwTnFQSmpLU0xiOG85VnpzSDVfbmppMTl1UmxnSW1OZlc1eWdDTTJGeXQ1TlgtUzJTSGFGV0dhZw?oc=5)
+
+2026-06-27 <span class="news-indication-tag">convulsions</span>
+
+來源：[BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMifkFVX3lxTE1RYjNmVy1xTFY2RDVya09Qd0JBOVpuajBtMFNzZVN2VHlUYzFuNHd1MWRfWGJsbWxuVkNUT29oVl8yeEZBM0UwTnFQSmpLU0xiOG85VnpzSDVfbmppMTl1UmxnSW1OZlc1eWdDTTJGeXQ1TlgtUzJTSGFGV0dhZw?oc=5)
+
+---
+
 ### [Weekend reads: A tsunami of misleading medical studies; retraction calls cancer therapy timing into question; a closer look at Max Planck’s retractions - Retraction Watch](https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmxITXRZMTI4X1FOeDN6VWdCT3ZkUFJlZmc2c2FBb2I4eE5TU0dlbW5WQ2hyX2tRWUhlbUNzQ2JMOW1xanl5U1o1elcyVk1DeFJqSGN6NUxfTk9SamxsQmJUZy1HX3MzMWtya2Q5blh3WmxISk9uZS16T2pDUFhnVWdnaUExemFwZmpEc0ZwWnNnQ21YUmUtMU1OM2tVZ1p1NzlFLWpKVHlkWk5rUExRdlhkQTJZWENmeG5IZkREenNOaGtPWDg0RWJZNVpWQQ?oc=5)
 
 2026-06-27 <span class="news-indication-tag">cancer</span>
@@ -187,30 +203,6 @@ permalink: /news/rufinamide/
 2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Scottish Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVZhaFZlYW5mZ0RkZGNTRzdNNF9aOUJIeDljZjVlTHF6bV80d3g2czhrdEw0QndzNHYwdkxOT3U2bWpnR1ZoeE1RS0Y0dEN2MzItNlQzX2wzUWo0c0RSNzZ3Y2YyQXdfQWsxU2hsdjhjSEtaaGtMZ0I5M0p5X290WmNMeGhGWHVKNHNDV1Y2bURjNGRpSWc?oc=5)
-
----
-
-### [I've had skin cancer 50x since age 12- I have to wear 'bee-keeper' outift - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVZZWGVfRXBTclcwenowWEd6R3BPX0RqUWlrN1ZacUxoM2JKcVZCenNkejR5amo2dTAzRENxM05JYVFEQkFfV3hDQkJWdXFkWWJUU0c5eHU2dWVBTlZZQ0oxSGtURDAxaHFRUk1WM0ZZVU4yaWIxb0hnbW82MGF6XzZ2bV9STmMxZmtRTTBB?oc=5)
-
-2026-06-27 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWVZZWGVfRXBTclcwenowWEd6R3BPX0RqUWlrN1ZacUxoM2JKcVZCenNkejR5amo2dTAzRENxM05JYVFEQkFfV3hDQkJWdXFkWWJUU0c5eHU2dWVBTlZZQ0oxSGtURDAxaHFRUk1WM0ZZVU4yaWIxb0hnbW82MGF6XzZ2bV9STmMxZmtRTTBB?oc=5)
-
----
-
-### [Babies should have no intentional screen time, review says - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxObG9Ya2t0c2liMVpfN0Q5ejdsaTVJb1pkRDYzQkg2MG5zeVRKTVRHSmtsS1g2YWVqUnJ3Uk1tR2ZkTlhoOV9LdlpTOWpRNkNRM3NDN0J5UVNIZXFSYkgxeGhBNjZmc2ZBQXd0aW42cWFXQkI1TU5jT3N0SFBoUEZFMnBNcjA0Q1VhOXZBMVd2TGl6Ulg0VHc?oc=5)
-
-2026-06-27 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxObG9Ya2t0c2liMVpfN0Q5ejdsaTVJb1pkRDYzQkg2MG5zeVRKTVRHSmtsS1g2YWVqUnJ3Uk1tR2ZkTlhoOV9LdlpTOWpRNkNRM3NDN0J5UVNIZXFSYkgxeGhBNjZmc2ZBQXd0aW42cWFXQkI1TU5jT3N0SFBoUEZFMnBNcjA0Q1VhOXZBMVd2TGl6Ulg0VHc?oc=5)
-
----
-
-### [Europa aprueba un tratamiento innovador para la esclerosis múltiple que actúa directamente en el cerebro: cuándo llegará a España - Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
-
-2026-06-27 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[Saber Vivir](https://news.google.com/rss/articles/CBMiggJBVV95cUxQMjRidTVpRHM3aThNN19BWGVSeUQ1Y0RJT21ZUHA2aDdQU1Y4VjVlWEdkdFhZbm1WRlFkTDRobl9DMTFaWXpmUk5tY1dUaHhHNlJmaF9SMWQxRVdqTG5rN1JETzFnZFhJRVVpREVtVUVuSEFMc3QzUXVxVl9ZWENDTG52dUZQRldTWkRCQlJlU1E5cFJYVmJ6OWNFdzJ6TXdjU21ZblI3c09HUC10djQzQ2ZZVWtYNFlVejQ0QmVNODJlanQxV0x1ajJfenlpSGRVVTBvcVk5ZmR6amRpeDNuWmF6Y3RycHZaN1ZPUTA0SUtSWG9kRmllUUlwZi12b0hsZmc?oc=5)
 
 ---
 
@@ -243,22 +235,6 @@ permalink: /news/rufinamide/
 2026-06-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnBmREZTSUVLNDltald1a3VyNnBMeC1vYWh3a2lFOFZtY3ZvLVpPeXFPa3pLZmMtd0VBOE4xbXVEbDZlX0NaWG1UQTllbTdQT2ZzdU5LWUQ4QXNQUXllOEd1VlJxYzBQTkFlQUg2NkFFcHJIU2FjNWczUTVNNFJKNE5seWFkX285ek12QTl3RFNUNWN5ekpNRWtzUWlZSzdOaU8yeU9TWnA4b0NX?oc=5)
-
----
-
-### [EAN Congress: EAN-Kongress: Die Nutzung von Hörgeräten ist bei Menschen, die sowohl an Epilepsie als auch an Hörverlust leiden, mit einem um 23 % geringeren Demenzrisiko verbunden](https://news.google.com/rss/articles/CBMipwJBVV95cUxQOFZLQnl0MVdvQlQ3WXliblFkZzk5ZHRtS0toRlIyTTFWNjhSYTBhU3NWbUg3bHkybVFSWW1vS3ZYSFQ4a2R5ZHBvQUlDQ1UySE1mWlVoRHUzem9ORXN4amdQQW9LQkltN1Q1QUtRLXBuNHdyZUNlTTE1bDJGYXBibVQ5S2VpNVh2Z2FPME9qYmFmaTNaNm1rRXl3SVRBZ2xwZWxINXFvV2dLTDgxYUVkSGE1WmF3bUNnY0R3dXN2R3EtajhQM3dwTngyX21sdHhpdmdIS3pFODhoQktDdnBQaENETTFTbWRCbDR0NjZYTHdqU3JvbnNYR3pDVGo0MkQzakJuaTZqdy1fQ1p3QXJURDc0QVo1SGVacy1XVzdVYUhyUXMtUHZV?oc=5)
-
-2026-06-27 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[AnlegerPlus](https://news.google.com/rss/articles/CBMipwJBVV95cUxQOFZLQnl0MVdvQlQ3WXliblFkZzk5ZHRtS0toRlIyTTFWNjhSYTBhU3NWbUg3bHkybVFSWW1vS3ZYSFQ4a2R5ZHBvQUlDQ1UySE1mWlVoRHUzem9ORXN4amdQQW9LQkltN1Q1QUtRLXBuNHdyZUNlTTE1bDJGYXBibVQ5S2VpNVh2Z2FPME9qYmFmaTNaNm1rRXl3SVRBZ2xwZWxINXFvV2dLTDgxYUVkSGE1WmF3bUNnY0R3dXN2R3EtajhQM3dwTngyX21sdHhpdmdIS3pFODhoQktDdnBQaENETTFTbWRCbDR0NjZYTHdqU3JvbnNYR3pDVGo0MkQzakJuaTZqdy1fQ1p3QXJURDc0QVo1SGVacy1XVzdVYUhyUXMtUHZV?oc=5)
-
----
-
-### [‘Zombie’ squirrels with oozing warts are found in several states in peoples’ backyards - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
-
-2026-06-26 <span class="news-indication-tag">tumour</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ09pcGw2c3lCMEs1Q0doeVRXa2V1Q0h4czcyUzRoajVfdnF0QTg5WXlDZE5sYXE3aDZtbUVDQXV6ZldsaWVFNFd5SlpUbDVoLW1NdE1hM1VNcmVVNTZSNXBaTUpBNW9qamo3QnI1Uy1pZVhzMjlfS0x3LURoaE56UjF4VHJucjNzcXZsdVJOZnhwZjdTWDhFazYxODlsdkpieDktSlNIbzBqT2VCLTBWczdIR0k?oc=5)
 
 ---
 

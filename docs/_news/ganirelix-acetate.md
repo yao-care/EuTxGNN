@@ -14,7 +14,7 @@ permalink: /news/ganirelix-acetate/
 ---
 
 <p class="key-answer" data-question="Ganirelix Acetate 有什麼相關新聞？">
-<strong>Ganirelix Acetate</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ganirelix Acetate</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/ganirelix-acetate/
 <p><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
+
+### [Schwangerschaft: 98 Prozent nehmen zu wenig Jod auf](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
+
+---
+
+### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+
+---
+
+### [Grandfather died of prostate cancer after GP ignored symptoms for years - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
+
+2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
+
+---
+
+### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+
+---
 
 ### [Mum placed in coma days after baby shower - Liverpool Echo](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDlnTWYyZVJkNWczWldkS2xZcDBMLUVPNzNWNHlxUTg3MHFucGtkc1lyTTlFb0VzSFFkR0I2RW4yYVFMYUo5SS1WdkVWejdwRG1pb3UwOXJQN0RYR0l1YVNwQW9mSTZ3MUkxRE1aUFVLT2ZWNHpuSVQ3bjFCVWNYd29JZ1BiZTcwR2lRZUI5bG82YkZpQ3RF0gGcAUFVX3lxTE9aSHNQcXdmNUQ4OXo2TU1XaEhNY1N0Zko1NHM0NWtrTndpNDc0Tzkzb0U4UmhoaUFFb1hhdU9BQjNXSmpiQ3VHLVR4UmFQZ250XzRYWlVaM2JteXFBQlRiQ25LbFEyM0hkTm4wUEduQTAtdUI2VXNTeGl3VVVPVmR5TjlzbUJfQ0QzTVRTUVhQVXdsMmZFN29nYWlQXw?oc=5)
 
@@ -74,7 +106,7 @@ permalink: /news/ganirelix-acetate/
 
 2026-06-28 <span class="news-indication-tag">AF</span>
 
-來源：[ConSalud.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNNQ0gzU3pUd0xlOFNYQzFtd0NLWVRMYm42VmZmVDA3aDhsZVhfLW9Pd29fb1RrSFd0eGZCcndjTGY1UDFEZGh1YVY3ZFVFcDFlaVRwVUNPcFFxbzdWZ2R0czRPS3hDSnEzUGxZcVE1UnUzc1gxcmxRTHNsOEgzc0xEak0tNGNONVJvMVBrempicWgtRUFvdF9ZV1lrMUdMYkMwYVR3cGs2OWN2SWFXdFBLRF9HWnJkZmpV?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNNQ0gzU3pUd0xlOFNYQzFtd0NLWVRMYm42VmZmVDA3aDhsZVhfLW9Pd29fb1RrSFd0eGZCcndjTGY1UDFEZGh1YVY3ZFVFcDFlaVRwVUNPcFFxbzdWZ2R0czRPS3hDSnEzUGxZcVE1UnUzc1gxcmxRTHNsOEgzc0xEak0tNGNONVJvMVBrempicWgtRUFvdF9ZV1lrMUdMYkMwYVR3cGs2OWN2SWFXdFBLRF9HWnJkZmpV?oc=5)
 
 ---
 
@@ -94,14 +126,6 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [El consumo de café por la noche afecta a la capacidad de conciliar el sueño y a la calidad del mismo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnl6ZWFjMHotZk5tSXctWjlJU256UU1WQWN4RkVPYm9XOG8zZl9ZZkZmSDdmaktYY1BiZjh4Q0t4SzRkby0wTHZ4S3p6LWsteE5uMGV0dTJ3YzI3X0Vyb0pxdjd3MXVPbEV2d2NQNlEyTEtXejV0OHhSWVMzNHBXeGt4cE45am54RmlZLWRiWWVreGZuakNGYTZWcWZDOVgtYmVzcVRSMGZaVHZqWUZjOWdmN19CTWVoSms5T1ZXYjBBSUk0TE9yRGhaVHU5b2xMOWxUTWNn?oc=5)
-
-2026-06-28 <span class="news-indication-tag">AF</span>
-
-來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnl6ZWFjMHotZk5tSXctWjlJU256UU1WQWN4RkVPYm9XOG8zZl9ZZkZmSDdmaktYY1BiZjh4Q0t4SzRkby0wTHZ4S3p6LWsteE5uMGV0dTJ3YzI3X0Vyb0pxdjd3MXVPbEV2d2NQNlEyTEtXejV0OHhSWVMzNHBXeGt4cE45am54RmlZLWRiWWVreGZuakNGYTZWcWZDOVgtYmVzcVRSMGZaVHZqWUZjOWdmN19CTWVoSms5T1ZXYjBBSUk0TE9yRGhaVHU5b2xMOWxUTWNn?oc=5)
-
----
-
 ### [El cribado del cáncer de mama sigue por debajo de los niveles de 2017 - El Mirón de Soria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUWZZdVRzNXFKZW8xQnlkdWtVem1nNXcya3h4UHViclB5cG5ickdTSGRqT0JNeE9PcmdsQ2d1UmpZTDFQU2RtUUd3b1Q5QXFfVDNzU3BHRXlnTVdDbGpMZkVKR3k5VUE0RGpzNEdMQl9VdUxJb1NDbXkxbS1LVHFDM2FPR3dVRXhmWUhsd1BsaE5ucjNEVDZhUWp2QTRNMVRXTGVEVjM0NW5qWVBLRmlTYmowd9IBuAFBVV95cUxQdTB1dFJOcVF3MTdNVFpUZmxpc2VjWGozeGo4RE1mTU9pMGlTUmswQ1dFcW5ZQ0FUNERmbEd4SWFUM2prenpjM1cyQWZtRnFuRTFVSE9ScHhyWWFCM1FaU2hwVVZNS1E3Q3Q4Wm1fQURKU3laYWQ1eXlUMGVfUEE5aF9WMExhRkJxcVpOMFB5aUZfTXl1VXFYNFBLLUdMVVc1NV96b0liOU1ONkRaaW9KT010alNneTBX?oc=5)
 
 2026-06-28 <span class="news-indication-tag">AF</span>
@@ -118,19 +142,11 @@ permalink: /news/ganirelix-acetate/
 
 ---
 
-### [AR 14478 vom 27. Juni 2026 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObG5Gejc2b0M4NGVnWmpwNy1LRUFseEU4bjNYNXp2cVdQc2JjLU8zTXEyZ1ZpaDVVWnkxZmlFYkFXRnZXWEs3Qm8xTmw2bDUtYVdFNHg1WVBya3FsQWVtY1MySmtGcFJ5QURiMkZDS0VtS0lPLTRZZWFncjdZaVRZVGlOVndwUmVxMWxJ?oc=5)
+### [Contaminación e infartos: así afecta la mala calidad del aire al corazón - Onda Vasca](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRllERUZSM2FWNk9KSEU5OWIwZEtWTDdPd1lRQi1yVnV0Z3FGcFgwOEdqYW9ZZEhYbFNCUUFzMFViMjRJS2l0QjVOOEZwWmZYaVprdHdSdHRSOWNfMnROTGl6OVZCdU9BTHRDS0tMdXpYM25UdmktZGN4MUlPYzdEdG42WVFtZG9wZW1sZExraHd4QzZZVWtIbVpqa0w3alnSAaQBQVVfeXFMTVBJaTFYcUp3bTBHQjIwZkFpWV9NNU5UNEl0emdfZVktaTlKUE1hTWZMeC1Lc0hrb01xR3FSdS1XaUF6RF8wN3o4eEtjeEpFMTlxc0JQLWtIT2hXak9qbXNEb0sxaWMtVXZlRG1wZUtGMDFNTWY4WWJMV28wUzNHekpKTjhWeEVzMzZxLVAtR3NDOWRzOTA1MlNhNERhZ2FkTTBXRjY?oc=5)
 
 2026-06-27 <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObG5Gejc2b0M4NGVnWmpwNy1LRUFseEU4bjNYNXp2cVdQc2JjLU8zTXEyZ1ZpaDVVWnkxZmlFYkFXRnZXWEs3Qm8xTmw2bDUtYVdFNHg1WVBya3FsQWVtY1MySmtGcFJ5QURiMkZDS0VtS0lPLTRZZWFncjdZaVRZVGlOVndwUmVxMWxJ?oc=5)
-
----
-
-### [Self-confessed 'sun worshipper' Claire has stark warning after cancer diagnosis - The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
-
-2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sentinel](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkExNndGTDdyOHVFbFNCNjNsN0E2MWQ5R0N3eEVuTDFiMHBBNkVYRldVYWcyQzlMY0FKb1JyN1BSblM1ZG5QTUotZUNVYm0yNm9XREoxdUVNNG9uWC1JR09WaDFfTkQ1ZU9pdGpSR04yZHQ0ckhxZ19OUUd0Qk1OTlJQTkVobHRDSnVXcmR2U3BRaW1GVmxPMkZZWDdwVnBzeTZmbXFR0gGrAUFVX3lxTE5mYkxCNHFWQWdKMy1GZFlEZnc2NTlDUGpYdDhFYTBLeHAyMzk2UjZBdkNZZHUzRlRPQVpuN0UyLWJUajFoVk9RWUZCVkN1c2NTZGVpa0FoOFRydXdQTUNScVp3SjVtSzdvT2dXVS1PVHdZUkxFUVdhM1RZNHZSTFRfYkFQSExVNC1fM0NhS0Q2V1NJTEVnY2NlME1lQzZCSlVfZzROMUNjNEpzdw?oc=5)
+來源：[Onda Vasca](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRllERUZSM2FWNk9KSEU5OWIwZEtWTDdPd1lRQi1yVnV0Z3FGcFgwOEdqYW9ZZEhYbFNCUUFzMFViMjRJS2l0QjVOOEZwWmZYaVprdHdSdHRSOWNfMnROTGl6OVZCdU9BTHRDS0tMdXpYM25UdmktZGN4MUlPYzdEdG42WVFtZG9wZW1sZExraHd4QzZZVWtIbVpqa0w3alnSAaQBQVVfeXFMTVBJaTFYcUp3bTBHQjIwZkFpWV9NNU5UNEl0emdfZVktaTlKUE1hTWZMeC1Lc0hrb01xR3FSdS1XaUF6RF8wN3o4eEtjeEpFMTlxc0JQLWtIT2hXak9qbXNEb0sxaWMtVXZlRG1wZUtGMDFNTWY4WWJMV28wUzNHekpKTjhWeEVzMzZxLVAtR3NDOWRzOTA1MlNhNERhZ2FkTTBXRjY?oc=5)
 
 ---
 
@@ -163,14 +179,6 @@ permalink: /news/ganirelix-acetate/
 2026-06-27 <span class="news-indication-tag">AF</span>
 
 來源：[t3n](https://news.google.com/rss/articles/CBMickFVX3lxTFBCZHpnSWpCY3FyMjRhdGpSQ0duRHhlV3YzM3VtVU5sRWNhMFM1Z0Yzbkd6S3VDbmFDZVhKOTNUTFAyVjBYU3JzZ21heWUyZDg5bEt2ODExbkFIcFFVOFoxcXozX0JfNk5JT0lFelVWckRZUQ?oc=5)
-
----
-
-### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
 
 ---
 

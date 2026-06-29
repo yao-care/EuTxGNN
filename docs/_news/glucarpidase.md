@@ -14,7 +14,7 @@ permalink: /news/glucarpidase/
 ---
 
 <p class="key-answer" data-question="Glucarpidase 有什麼相關新聞？">
-<strong>Glucarpidase</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucarpidase</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,53 +52,37 @@ permalink: /news/glucarpidase/
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer um 43%](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWJCSldJclRmRG45ZWNWMnV6UHdQdnN3aU9oNXdjekMyUDBZSkU1ZHVoUXNiUkY3MzRJY2pybEdjemVrN1dPSm1vR19Vc3hHQWFjd2xhOVVSOGdRSHEwSHROcjk2Sy0yR21fU01RUHhWUGFoZWQzWlU1RVlaalhFQlhMWk1sN2ZfN3Q1VGt6VXpQSkZpd2RqYUljS0w5clVTQ2RXY2kzd1pMSWFwby15TnpFbC1icWttYUE?oc=5)
 
-2026-06-28 <span class="news-indication-tag">diabetes</span>
+2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
-
----
-
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
-
-2026-06-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXRVZnRFa2tOcUFqSThVZEtwc20zSmVPQkluU1JVNnFhbExwSjJoaFpIOW5BQnF0dy1MaFZRaXdVRTFOZmhpWGVKNFFmdlpCMG14V2J2R3ZwMnJ0Qm5rMkVlTFdKbW9vQzJpa3JpcmZDMnN2WVFUd3VNRmQ5U0J5WTl3d1gwSkJmSkxZdTktSm56bUpKTlduTGx0My04Tkc2VzB0LXJfY1FBOXlLY2tfeG54Vjk4RGs?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWJCSldJclRmRG45ZWNWMnV6UHdQdnN3aU9oNXdjekMyUDBZSkU1ZHVoUXNiUkY3MzRJY2pybEdjemVrN1dPSm1vR19Vc3hHQWFjd2xhOVVSOGdRSHEwSHROcjk2Sy0yR21fU01RUHhWUGFoZWQzWlU1RVlaalhFQlhMWk1sN2ZfN3Q1VGt6VXpQSkZpd2RqYUljS0w5clVTQ2RXY2kzd1pMSWFwby15TnpFbC1icWttYUE?oc=5)
 
 ---
 
-### [Se recalienta la carrera por lograr la nueva generación de tratamientos para adelgazar, esta vez en píldoras - Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+### [Los salmantinos presentan menos riesgo cardiovascular que la media regional pese al avance de la diabetes - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
+
+---
+
+### [Nuevas pastillas GLP-1 2026: aleniglipron y elecoglipron fase III - Ecosistema Startup](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1g5bzYxUE1DdVlPc0RQZlZfS0JiVXRyU3pqVkVWOEZKQ2VuLWxNSEdEMXMzcGl6em8waWR0czdTX3BVeUxCeXRWX0w4Q2xrQlJCUERUTHNDX2hlcEkxWTlxZkdrdm1KaDJjbFI5TmlUcUdCcGhUdWVBbUo2Z3ZqTXhlZGVwakE0Mk5OdVpFSXJ5RmRyQ0hVYk9iaw?oc=5)
 
 2026-06-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXFHOHo1Tk1Zd1JtY29qMnpTSi15Q0dBLUEzUjJNaF9WeUlfYzI1bnc0a3ZRQ0xLTjJLT3hudWhVWExhSHJkeTJ6QjlFRmdaVk5USkhLVE40bGhzWWdIa0txXzRBSjQ5YV9MTUg5ZXZLclpTSjhQSzVFOXZQaEdqYlJLZHF3SGVqVGotOWRTRWxGX2pmYTFSd2xIMXlmTGI5M1BxWFBxaktyd1ktUm9kTmtGelpyd0JCRXBDVUtBbGZyQUc2ZUN4bjh0V2lsQ2FJdE1BNDF2Smw?oc=5)
+來源：[Ecosistema Startup](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc1g5bzYxUE1DdVlPc0RQZlZfS0JiVXRyU3pqVkVWOEZKQ2VuLWxNSEdEMXMzcGl6em8waWR0czdTX3BVeUxCeXRWX0w4Q2xrQlJCUERUTHNDX2hlcEkxWTlxZkdrdm1KaDJjbFI5TmlUcUdCcGhUdWVBbUo2Z3ZqTXhlZGVwakE0Mk5OdVpFSXJ5RmRyQ0hVYk9iaw?oc=5)
 
 ---
 
-### [Rindfleisch vs. Pflanzeneiweiß: Studie zeigt massive Darmentzündungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0dYb2ZEd2ZoX3NUTENnNThZMUVMX3pPN2c4ZFFmZzMwby1YckcwSkNmTXQ3bXNGTHZvN1RqYmN1M19JVE14ZVhiNVY3ZXE0MUx6MUNTd0FCWGVCWXlWMy1iRzJsc29mQXJSZGpSVjB3d09yV2NROWE4NllTTjZoeTk0WHhxM3VqTGp0M0R5ZTZ1WUdTOE9zQXBUSVZfbVpsUDkyUmI4V0pqS2lqY1Fxd3VFOWN3X3dfT0E?oc=5)
+### [Shingrix schützt offenbar vor Demenz: Neue Studien deuten auf Risiko-Reduktion durch Zoster-Impfung - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
 
-2026-06-28 <span class="news-indication-tag">diabetes</span>
+2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0dYb2ZEd2ZoX3NUTENnNThZMUVMX3pPN2c4ZFFmZzMwby1YckcwSkNmTXQ3bXNGTHZvN1RqYmN1M19JVE14ZVhiNVY3ZXE0MUx6MUNTd0FCWGVCWXlWMy1iRzJsc29mQXJSZGpSVjB3d09yV2NROWE4NllTTjZoeTk0WHhxM3VqTGp0M0R5ZTZ1WUdTOE9zQXBUSVZfbVpsUDkyUmI4V0pqS2lqY1Fxd3VFOWN3X3dfT0E?oc=5)
-
----
-
-### [Prädiabetes-Remission: Blutzuckernormalisierung senkt Todesfallrisiko um 58%](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlB6bEJwUEtmYm9nSFdCTmpobV82N0p1RnV4VDFJVFVrcnBYM1pLamVhT0I5a0RpV09CbjFydDlsOGNrWnJ1ZWg5bjdHeVBJdGd0aWxOdmVfZ0xBM3pHUFUzNkRZLXN4SWt0eVFiazB6YmlPVW1tbTdIUUR6TzZVNUV1LUhKX0dHMmpEdXNfNEw4eTNobmlxR1V2YzNSWnJDeUg1V2lnVW5MWjJOdUZfM05sS1JNVlhQYkJkQTl3?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlB6bEJwUEtmYm9nSFdCTmpobV82N0p1RnV4VDFJVFVrcnBYM1pLamVhT0I5a0RpV09CbjFydDlsOGNrWnJ1ZWg5bjdHeVBJdGd0aWxOdmVfZ0xBM3pHUFUzNkRZLXN4SWt0eVFiazB6YmlPVW1tbTdIUUR6TzZVNUV1LUhKX0dHMmpEdXNfNEw4eTNobmlxR1V2YzNSWnJDeUg1V2lnVW5MWjJOdUZfM05sS1JNVlhQYkJkQTl3?oc=5)
-
----
-
-### [El enemigo silencioso de tu hígado](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
-
-2026-06-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUdIMUpNMVBtMng4cnJRZlZHR2xyUUVPTHNJQmpFSS1IR2xLaHpEdkdOcmJYY01xN3A5ckNENXhDSnQ5RFlzU1FEZlFidTRJX2g3ZnU2Nldxc3JhM0puLXJOT19udnRScU5WTEg0OTlia0thektScDZhZmN6ZzJQZGlUcGh2MUprS3NGMk9DU1JqY2JHbnRqcURn0gGaAUFVX3lxTE1JR0gxSk0xUG0yeDhyclFmVkdHbHJRRU9Mc0lCakVJLUhHbEtoekR2R05yYlhjTXE3cDlyQ0Q1eENKdDlEWXNTUURmUWJ1NElfaDdmdTY2V3FzcmEzSm4tck5PX252dFJxTlZMSDQ5OWJrS2F6S1JwNmFmY3pnMlBkaVRwaHYxSmtLc0YyT0NTUmpjYkdudGpxRGc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxPelBlWjZwV2VaalJnVWlRNkdHcUVWNmRHZW5EZkJkanM5QWM0QVJ1bkhYaXl6WWFzckVQSjU4U3pNVFVlRlNQdndlbFZwMjBDdU9nemlpbmVieE1xTmMya2xkX0JjTEZ1dFZ2NzVJb0RmRzFUYlA4YW1KZzU3dGUzaU0tTm9aU2E0cXZfNWN3ZG14X185cm1wMWlfdU8wb080bFNVWmhiZ2xIeW8tSUY0eTlMM00xZld0SHZXakZSYmc0dXQ4amtvU0xwUQ?oc=5)
 
 ---
 
