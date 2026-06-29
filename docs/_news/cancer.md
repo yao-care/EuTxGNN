@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor（cancer） 相關新聞"
+title: "tumour（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。20 則新聞、229 個相關藥物。"
+description: "tumour（cancer） 的相關健康新聞報導。22 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumor（cancer） 相關新聞
+# tumour（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>20 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="tumour（cancer） 有什麼相關新聞？">
+<strong>tumour（cancer）</strong> 目前有 <strong>22 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「tumour」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -257,13 +257,13 @@ permalink: /news/cancer/
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
 
-### [Campos eléctricos e inmunoterapia frente al glioblastoma - Salud a Diario](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXJydDdad0NLUTRBc1Mzc2hBR19iSzdtdzIzYUdMaXk2Z1FvZGRWRE81NzlrN1JnX3liM3o3amhRTWx0a2liNFhhNUZGMGtDWkVNa1BOT0N4eFRSa0VwekdtbFJVekVrNnZwd0ZGa0lPMVpDa2wxODZUQjV4bUJTTWI2R3h3a2ZSRmFTMUtWN29weHp5aERVNUxEbkE3d3Vt?oc=5)
+### [Auckland dad diagnosed with brain tumour weeks before twins' birth](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDRoOWxuTHFRdnVsa2tZWnV6cGZyZG13QUxNc3dlRm0tdEVmU016REtFSXZDRE43Q2NFeEcyY2NmbWRvdlVGaGY4TDkwR0RBUW9oRlg1alFMQmpoZ2UtYU9vNVpwc0hwSDlqUlFSaHFTVmZwM2FiQ3EwcUNHY01sS3pXeHRyUFZ5LU5pd3dtUUlocjF2MVROS21fRjRlRjE3dWI0?oc=5)
 
 2026-06-29
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXJydDdad0NLUTRBc1Mzc2hBR19iSzdtdzIzYUdMaXk2Z1FvZGRWRE81NzlrN1JnX3liM3o3amhRTWx0a2liNFhhNUZGMGtDWkVNa1BOT0N4eFRSa0VwekdtbFJVekVrNnZwd0ZGa0lPMVpDa2wxODZUQjV4bUJTTWI2R3h3a2ZSRmFTMUtWN29weHp5aERVNUxEbkE3d3Vt?oc=5)
+來源：[1News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDRoOWxuTHFRdnVsa2tZWnV6cGZyZG13QUxNc3dlRm0tdEVmU016REtFSXZDRE43Q2NFeEcyY2NmbWRvdlVGaGY4TDkwR0RBUW9oRlg1alFMQmpoZ2UtYU9vNVpwc0hwSDlqUlFSaHFTVmZwM2FiQ3EwcUNHY01sS3pXeHRyUFZ5LU5pd3dtUUlocjF2MVROS21fRjRlRjE3dWI0?oc=5)
 
 ---
 
@@ -275,19 +275,11 @@ permalink: /news/cancer/
 
 ---
 
-### [In Deutschland erkranken immer mehr junge Menschen an Darmkrebs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDNwNC1obk1POFJwb1I1SERMQjdaTm9xQlhKb0kyM081YVBTaldTRGpaNi1OOWJjNF9mVjFiRHJPR0VGdUp3MTZXOGZ2dHpseVRIaUlMNGFYelphNGJDeXdsMHR5ZUtRdWxLN0Vhb0RzNUR5QVZlNm1OMEhNOHYxWnp1WW10NjFENzJsZnVMa1BRd1hxMEN4bEd5LVdIMmsxRXY3Z2hNV0s4YXJReExJLXl5S2prekVkWWkwX18wQ0JadFI4TVQ3WURndmJvVnI4QW55SzlDVFhrdmVlTTNXSQ?oc=5)
+### [China se abre a la producción de vacunas tumorales con inteligencia artificial](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBFMWg4dmdyQVktclR6TFBQb1dJdVJvbEFlRnZxOWV5bnY5SkJZOXB3cHRIMlRJOTlGS1ZJUVlFXzQ5Nld2SElLUU5hajlGMnR2Z1l1WEU1aUY1SlFnS1Uya1dHdE5mWmZMR1RsZlhoOWdRcVhJcWRKZ1EwODlTX2l0amxKU28tMDN5SzczWmNrM3ZpTjM1R1diSmxfMGdXcnNwX0c4V0loa1VUVVo2Sk0xOA?oc=5)
 
 2026-06-29
 
-來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDNwNC1obk1POFJwb1I1SERMQjdaTm9xQlhKb0kyM081YVBTaldTRGpaNi1OOWJjNF9mVjFiRHJPR0VGdUp3MTZXOGZ2dHpseVRIaUlMNGFYelphNGJDeXdsMHR5ZUtRdWxLN0Vhb0RzNUR5QVZlNm1OMEhNOHYxWnp1WW10NjFENzJsZnVMa1BRd1hxMEN4bEd5LVdIMmsxRXY3Z2hNV0s4YXJReExJLXl5S2prekVkWWkwX18wQ0JadFI4TVQ3WURndmJvVnI4QW55SzlDVFhrdmVlTTNXSQ?oc=5)
-
----
-
-### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
-
-2026-06-29
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBFMWg4dmdyQVktclR6TFBQb1dJdVJvbEFlRnZxOWV5bnY5SkJZOXB3cHRIMlRJOTlGS1ZJUVlFXzQ5Nld2SElLUU5hajlGMnR2Z1l1WEU1aUY1SlFnS1Uya1dHdE5mWmZMR1RsZlhoOWdRcVhJcWRKZ1EwODlTX2l0amxKU28tMDN5SzczWmNrM3ZpTjM1R1diSmxfMGdXcnNwX0c4V0loa1VUVVo2Sk0xOA?oc=5)
 
 ---
 
@@ -299,15 +291,47 @@ permalink: /news/cancer/
 
 ---
 
-### [Tumori, Mantovani (Humanitas): "Con immunorevolution più vite salvate" - Il Tirreno](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3haT1BuZEk5S0pJM185aG9DWmJSUVh4UmZ0Ql96d1FTWnRmMDhnN3VYTF9kVWlUOXJzRkVxdDZRYU5SUVM0Y2VMeG5PQnhscFVtRENmVjdsOUJoeXdzeEVtU0t0dkJwdDQtRlNrQ0E2MF8xMGlBTUk0T1Q0V281ZVRwZ1hyNnY5S1prN0xJNjAtOHhaYy04MUQzVl9mZW5UUFFMX2NYLUFHVzNteExiT3hZN0VTeGtTX0tMVzN2QzZBMjg2RE1Ha1Q5UGZMNzB3Snc?oc=5)
+### [Campos eléctricos e inmunoterapia frente al glioblastoma - Salud a Diario](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXJydDdad0NLUTRBc1Mzc2hBR19iSzdtdzIzYUdMaXk2Z1FvZGRWRE81NzlrN1JnX3liM3o3amhRTWx0a2liNFhhNUZGMGtDWkVNa1BOT0N4eFRSa0VwekdtbFJVekVrNnZwd0ZGa0lPMVpDa2wxODZUQjV4bUJTTWI2R3h3a2ZSRmFTMUtWN29weHp5aERVNUxEbkE3d3Vt?oc=5)
 
 2026-06-29
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3haT1BuZEk5S0pJM185aG9DWmJSUVh4UmZ0Ql96d1FTWnRmMDhnN3VYTF9kVWlUOXJzRkVxdDZRYU5SUVM0Y2VMeG5PQnhscFVtRENmVjdsOUJoeXdzeEVtU0t0dkJwdDQtRlNrQ0E2MF8xMGlBTUk0T1Q0V281ZVRwZ1hyNnY5S1prN0xJNjAtOHhaYy04MUQzVl9mZW5UUFFMX2NYLUFHVzNteExiT3hZN0VTeGtTX0tMVzN2QzZBMjg2RE1Ha1Q5UGZMNzB3Snc?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXJydDdad0NLUTRBc1Mzc2hBR19iSzdtdzIzYUdMaXk2Z1FvZGRWRE81NzlrN1JnX3liM3o3amhRTWx0a2liNFhhNUZGMGtDWkVNa1BOT0N4eFRSa0VwekdtbFJVekVrNnZwd0ZGa0lPMVpDa2wxODZUQjV4bUJTTWI2R3h3a2ZSRmFTMUtWN29weHp5aERVNUxEbkE3d3Vt?oc=5)
 
 ---
 
-### [Cáncer en jóvenes España: menos tumores por tabaco, pero más tumores gástricos - El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXpDUjhPcWJoQXJTNnZRNEVFS093S19XR3FxN2hXVzRfeDZockNOMVczNzdJN1lpc1pfaTZ4ZlNYNW5tc09kZ0tIWlZzOUN5ZHBrZUZlLUVjWUQyVjIzaFlTOTdSdlJqcFpQNm55c0wyRHJuU2pfT1RiWF9CZFNNUTRXdWgxOC03QWFkUU5ZazNFSkstdEZSWGVHbFJfVGhOWEhWOHJBV2x1VkJyb1E?oc=5)
+### [Tumori, Mantovani (Humanitas): "Sfida è usare armi immunologiche contro il cancro" - Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFhiOS1PZFpjSVBnamR5ZWd5ZDdJWndOOFhja01BMC1zbjNJVElRT2RWbGN5aUdHZ0sxUlZBbmc0RjY2SmNWblU4MXp3YnZUaFAwRy1hckRXZy1qN1N6VzZzbWNSNzZabFNvY0ZERXhwenFNOWRQUk1rMUVlNk5DRXR6Q3hYNnpGY3VUbjNyRDByZkZJMlEtRGIwR2wzeVZyWk5vUGZqaXlxMUtUWEdab0xOQUcxOEN2NFE5cEZIdlNWZ215and0aEJZcURvXzZ0dW5ocXlKUEptQ2tqS05hVXVR?oc=5)
+
+2026-06-29
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFhiOS1PZFpjSVBnamR5ZWd5ZDdJWndOOFhja01BMC1zbjNJVElRT2RWbGN5aUdHZ0sxUlZBbmc0RjY2SmNWblU4MXp3YnZUaFAwRy1hckRXZy1qN1N6VzZzbWNSNzZabFNvY0ZERXhwenFNOWRQUk1rMUVlNk5DRXR6Q3hYNnpGY3VUbjNyRDByZkZJMlEtRGIwR2wzeVZyWk5vUGZqaXlxMUtUWEdab0xOQUcxOEN2NFE5cEZIdlNWZ215and0aEJZcURvXzZ0dW5ocXlKUEptQ2tqS05hVXVR?oc=5)
+
+---
+
+### [Tumore endometrio, oncologa Lorusso: "Con immunoterapia più chemioterapia -70% rischio di morte" - Il Tirreno](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMDlxaENDNU9uWTRJSnRBMmRiLURaeTJ4eE9rRWxKS3llaUlrdkdVTDFrN1NERUtzNmtnb29mSE05T0VyM0VxX2hMbDFFOTNvczR0bUJKTGNUZWxhRFdZNWpFcExSTUFLRVhBUDgxZEZnLUtqRWI4R0ZRNmNkeDlHUEpqZUZFRzlqQ2xPb1hZLTl1ekhHMXFPNDhrNnNvN1BuSHgtY0ZHOVMwT1ZxUTBFcFA2d2EzN0Vzb09HcS03MGEyd0dzU2Nyb1gyT2RnbDlCcHI2QjdhNGhmU3pKdHl1enBCaFZrVFB0VVp1dV9qZW44Zi0z?oc=5)
+
+2026-06-29
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMDlxaENDNU9uWTRJSnRBMmRiLURaeTJ4eE9rRWxKS3llaUlrdkdVTDFrN1NERUtzNmtnb29mSE05T0VyM0VxX2hMbDFFOTNvczR0bUJKTGNUZWxhRFdZNWpFcExSTUFLRVhBUDgxZEZnLUtqRWI4R0ZRNmNkeDlHUEpqZUZFRzlqQ2xPb1hZLTl1ekhHMXFPNDhrNnNvN1BuSHgtY0ZHOVMwT1ZxUTBFcFA2d2EzN0Vzb09HcS03MGEyd0dzU2Nyb1gyT2RnbDlCcHI2QjdhNGhmU3pKdHl1enBCaFZrVFB0VVp1dV9qZW44Zi0z?oc=5)
+
+---
+
+### [In Deutschland erkranken immer mehr junge Menschen an Darmkrebs](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDNwNC1obk1POFJwb1I1SERMQjdaTm9xQlhKb0kyM081YVBTaldTRGpaNi1OOWJjNF9mVjFiRHJPR0VGdUp3MTZXOGZ2dHpseVRIaUlMNGFYelphNGJDeXdsMHR5ZUtRdWxLN0Vhb0RzNUR5QVZlNm1OMEhNOHYxWnp1WW10NjFENzJsZnVMa1BRd1hxMEN4bEd5LVdIMmsxRXY3Z2hNV0s4YXJReExJLXl5S2prekVkWWkwX18wQ0JadFI4TVQ3WURndmJvVnI4QW55SzlDVFhrdmVlTTNXSQ?oc=5)
+
+2026-06-29
+
+來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDNwNC1obk1POFJwb1I1SERMQjdaTm9xQlhKb0kyM081YVBTaldTRGpaNi1OOWJjNF9mVjFiRHJPR0VGdUp3MTZXOGZ2dHpseVRIaUlMNGFYelphNGJDeXdsMHR5ZUtRdWxLN0Vhb0RzNUR5QVZlNm1OMEhNOHYxWnp1WW10NjFENzJsZnVMa1BRd1hxMEN4bEd5LVdIMmsxRXY3Z2hNV0s4YXJReExJLXl5S2prekVkWWkwX18wQ0JadFI4TVQ3WURndmJvVnI4QW55SzlDVFhrdmVlTTNXSQ?oc=5)
+
+---
+
+### [Immunoterapia: così cambia la pratica clinica nei carcinomi di polmone e vescica - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjRKSXNuTnZSOGIzNjFMcXRuNkxlWXRuS3JXQ3JqRVJsa3pKZGFYdC00WkFqR3ZLSzN2VmdPSEt2aWhvbEIwUVdVNDMybGN1Zkd5WEVzc0lXdEJGVWpUaE1UMEo3ZXdrNXpZYnJXOEJBdVdhR1gyaVdmRmF5UThxMjZIYXA0S2ZTUExMVVFVUGRVUTZYaExpcUYtNndDV1JvRGNya3AyTkxlQktkeUVF?oc=5)
+
+2026-06-29
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjRKSXNuTnZSOGIzNjFMcXRuNkxlWXRuS3JXQ3JqRVJsa3pKZGFYdC00WkFqR3ZLSzN2VmdPSEt2aWhvbEIwUVdVNDMybGN1Zkd5WEVzc0lXdEJGVWpUaE1UMEo3ZXdrNXpZYnJXOEJBdVdhR1gyaVdmRmF5UThxMjZIYXA0S2ZTUExMVVFVUGRVUTZYaExpcUYtNndDV1JvRGNya3AyTkxlQktkeUVF?oc=5)
+
+---
+
+### [Cáncer en jóvenes en España: menos tumores por tabaco, pero más tumores gástricos - El médico interactivo](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXpDUjhPcWJoQXJTNnZRNEVFS093S19XR3FxN2hXVzRfeDZockNOMVczNzdJN1lpc1pfaTZ4ZlNYNW5tc09kZ0tIWlZzOUN5ZHBrZUZlLUVjWUQyVjIzaFlTOTdSdlJqcFpQNm55c0wyRHJuU2pfT1RiWF9CZFNNUTRXdWgxOC03QWFkUU5ZazNFSkstdEZSWGVHbFJfVGhOWEhWOHJBV2x1VkJyb1E?oc=5)
 
 2026-06-29
 
@@ -323,11 +347,11 @@ permalink: /news/cancer/
 
 ---
 
-### [It’s Cancer Season! How Much Do You Know About Cancers?](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTNQSG1sYVdoY0w2bFgzRnV5aWtmQTdxNmhaVDIxX1BIck43SWpZclJrRGVvbVh0VUVoQU03MkwxVVNzUmRONlBIaUlKMXRYRWM4cXVPekNoQ0wxZGxaSDVfTWM4STVWU1FOa19XNmFLelhpZ2ZEb19yUzhiWmxzak5sdkw3UmV3ZC1mYg?oc=5)
+### [GLP-1-Medikamente: Krebsrisiko sinkt um 41 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
 
 2026-06-29
 
-來源：[buzzfeed.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTNQSG1sYVdoY0w2bFgzRnV5aWtmQTdxNmhaVDIxX1BIck43SWpZclJrRGVvbVh0VUVoQU03MkwxVVNzUmRONlBIaUlKMXRYRWM4cXVPekNoQ0wxZGxaSDVfTWM4STVWU1FOa19XNmFLelhpZ2ZEb19yUzhiWmxzak5sdkw3UmV3ZC1mYg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
 
 ---
 
@@ -352,6 +376,14 @@ permalink: /news/cancer/
 2026-06-28
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
+
+---
+
+### [Voici les signes nocturnes qui doivent inciter à consulter selon les spécialistes du cancer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVk9SSGVCb29GTnl1cjFQamJGejhVZjdnRG1pYXczSE9IMW9URHhJVlY0MDJLdWxCWHVhZk4yNEQ3SFRKd3hsZDl2RVpoOWhQa0V2TDA4Nm9pdEEtakFmX2pPYkoyYTRfc2Fqeks1TlVLMGZEdTlHNEU1SHNRZml2Wm14YnJ0SUFUSEZoZWdBVWFUZGtnOUo2YjhabWF5LXR5N0hkMnR0RldncXp3ZURodzBwM1FTOEpNb3B4cXVBSm50VWhWS2lMX2ZXcnhWdWo1aWoyX1llcmxic1BaX3VqZlo1MWlLdFdPLVdldlpLVG5NbEFX?oc=5)
+
+2026-06-28
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVk9SSGVCb29GTnl1cjFQamJGejhVZjdnRG1pYXczSE9IMW9URHhJVlY0MDJLdWxCWHVhZk4yNEQ3SFRKd3hsZDl2RVpoOWhQa0V2TDA4Nm9pdEEtakFmX2pPYkoyYTRfc2Fqeks1TlVLMGZEdTlHNEU1SHNRZml2Wm14YnJ0SUFUSEZoZWdBVWFUZGtnOUo2YjhabWF5LXR5N0hkMnR0RldncXp3ZURodzBwM1FTOEpNb3B4cXVBSm50VWhWS2lMX2ZXcnhWdWo1aWoyX1llcmxic1BaX3VqZlo1MWlLdFdPLVdldlpLVG5NbEFX?oc=5)
 
 ---
 
@@ -395,27 +427,11 @@ permalink: /news/cancer/
 
 ---
 
-### ["Une avancée majeure" : cette nouvelle technique de chirurgie du cancer du sein change le quotidien des patientes - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxNa1RvMEZVUjY4UjVaYWh1UlE0QWFYWHl3VUJOS0NOVGJ2QllsNXJRbTk1dEtjZTltTHRNejhuMi0wV0RBODVNcjJtRThUM2ZHWm5rcEtjcWtmZDBpaGY0V1NNV2V2YUY4WWUwQVdiVWQ1d1RhQWVLVW40NTlkZDczVm5JN0V3UGp2cS0tbnlFaTZEcDF3T3UxUkpjdTNOcTNKQkVkOVR5UTdZZmRRWk53YjNhLVE3WEVoNjBrel9wbDFxR1ZjMEp0QmVQRndKdzM5S0gtdExzX2RJdmdtTHA3V2wyM203VnZlZ3lqbVJ2UjdzMG1zd2NyUkpSZUZESVV5LWExU0F4VUY5aHhxYUxxVjVpU0lMNzBFOHdFcGV3cmdlVlEzdlY4?oc=5)
-
-2026-06-28
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxNa1RvMEZVUjY4UjVaYWh1UlE0QWFYWHl3VUJOS0NOVGJ2QllsNXJRbTk1dEtjZTltTHRNejhuMi0wV0RBODVNcjJtRThUM2ZHWm5rcEtjcWtmZDBpaGY0V1NNV2V2YUY4WWUwQVdiVWQ1d1RhQWVLVW40NTlkZDczVm5JN0V3UGp2cS0tbnlFaTZEcDF3T3UxUkpjdTNOcTNKQkVkOVR5UTdZZmRRWk53YjNhLVE3WEVoNjBrel9wbDFxR1ZjMEp0QmVQRndKdzM5S0gtdExzX2RJdmdtTHA3V2wyM203VnZlZ3lqbVJ2UjdzMG1zd2NyUkpSZUZESVV5LWExU0F4VUY5aHhxYUxxVjVpU0lMNzBFOHdFcGV3cmdlVlEzdlY4?oc=5)
-
----
-
 ### [New vitamin B12 therapy shows promise against deadly brain cancer](https://news.google.com/rss/articles/CBMib0FVX3lxTE85NnRyV2poNU5kU1VVeGd2QnFXbVYzdi1YakZUaENqQi1SbnlYcDZZck90SkItb1Q2SG1VSTluTEdnSG1YSS1rZDRpMUo4OExDbnRfSEdfYkUxcWdGSHVXQU5hU1p6VG4zaVZLdUJWOA?oc=5)
 
 2026-06-27
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE85NnRyV2poNU5kU1VVeGd2QnFXbVYzdi1YakZUaENqQi1SbnlYcDZZck90SkItb1Q2SG1VSTluTEdnSG1YSS1rZDRpMUo4OExDbnRfSEdfYkUxcWdGSHVXQU5hU1p6VG4zaVZLdUJWOA?oc=5)
-
----
-
-### [Auckland dad diagnosed with brain tumour weeks before twins' birth](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDRoOWxuTHFRdnVsa2tZWnV6cGZyZG13QUxNc3dlRm0tdEVmU016REtFSXZDRE43Q2NFeEcyY2NmbWRvdlVGaGY4TDkwR0RBUW9oRlg1alFMQmpoZ2UtYU9vNVpwc0hwSDlqUlFSaHFTVmZwM2FiQ3EwcUNHY01sS3pXeHRyUFZ5LU5pd3dtUUlocjF2MVROS21fRjRlRjE3dWI0?oc=5)
-
-2026-06-27
-
-來源：[1News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDRoOWxuTHFRdnVsa2tZWnV6cGZyZG13QUxNc3dlRm0tdEVmU016REtFSXZDRE43Q2NFeEcyY2NmbWRvdlVGaGY4TDkwR0RBUW9oRlg1alFMQmpoZ2UtYU9vNVpwc0hwSDlqUlFSaHFTVmZwM2FiQ3EwcUNHY01sS3pXeHRyUFZ5LU5pd3dtUUlocjF2MVROS21fRjRlRjE3dWI0?oc=5)
 
 ---
 

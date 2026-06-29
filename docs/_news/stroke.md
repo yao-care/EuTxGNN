@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Victime d’un AVC à Ruelle, elle recherche l’inconnu qui lui a porté secours - Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
+
+2026-06-29
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
+
+---
 
 ### [Schützt GLP-1-Rezeptoragonist vor frühen Schlaganfall-Rezidiven?](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZyTXZMWlpvaVVXeXZ2d1ZOcC11Tm5PQURMVk16NDB2VXdjTFJqdjVoOE9LaVF1WGMwOHFVcXdWMWx5UUR4c1N4dlc0cERoWlZfall2LUNFeDlDcXhJbXZaOTlyNmJvM0FYbGdmcEtsdENJRHNjYVBIM1VWTG8zMUFsMVFIejJGQ095cmxibURyWDdUZVlHSDJzbXRIOFBHNGVoXzZtTHpUZm92MV9hRjhaVVE?oc=5)
 
@@ -49,11 +57,11 @@ permalink: /news/stroke/
 
 ---
 
-### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+### [Zahnpflege senkt Demenzrisiko: 2 bis 4 Prozent potenziell vermeidbar - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG1PUWpYVnN6aFpoVTdhdGMtT2JBYlhqZ2luNDNubDhFVE45OFduanQ3WU1PU1dBTjNiWWM3UGF3bk5jTm5fbHlKU3k5ekNteGJFazJIM01tekVoTGlWbFhFMWpMNUN2YnJ3QzlpV3R3SU0tS05BWW1JT0RpYjVBQk5DQXl1Q3RIdGY1U2h4V3VyZ1pBQnJZRG0ycmpfRDhG?oc=5)
 
 2026-06-28
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG1PUWpYVnN6aFpoVTdhdGMtT2JBYlhqZ2luNDNubDhFVE45OFduanQ3WU1PU1dBTjNiWWM3UGF3bk5jTm5fbHlKU3k5ekNteGJFazJIM01tekVoTGlWbFhFMWpMNUN2YnJ3QzlpV3R3SU0tS05BWW1JT0RpYjVBQk5DQXl1Q3RIdGY1U2h4V3VyZ1pBQnJZRG0ycmpfRDhG?oc=5)
 
 ---
 

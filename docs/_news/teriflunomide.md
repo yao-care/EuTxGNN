@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/teriflunomide/
 <li>dense granule disease（97.8%）</li>
 <li>penile fibromatosis（97.3%）</li>
 <li>Ledderhose disease（97.2%）</li>
-<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 MS</span></li>
+<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 Multiple Sklerose</span></li>
 <li>chronic hepatitis C virus infection（97.0%）</li>
 <li>palmar fibromatosis（96.9%）</li>
 <li>CMM7（96.8%）</li>
@@ -52,7 +52,39 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [Tiny Antarctic sea creature could be key to treating melanoma, researchers say - The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3lWNmtCZk4yNk0yN2FCM2lRX19sSF9DbFAzaFd5aEljNFczcVlpTE1hOUk0WGxPZ0NKdXFocGt0Wm1ramY1STdCUWp2TkZueVNLX1U1UVNVem9ubF9wSEJZWWktU2FlakpLd1pJTFBUakh5YllZRTlteWVwOVJJVGphWHNQRlVuRGhDcHlNMA?oc=5)
+
+2026-06-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3lWNmtCZk4yNk0yN2FCM2lRX19sSF9DbFAzaFd5aEljNFczcVlpTE1hOUk0WGxPZ0NKdXFocGt0Wm1ramY1STdCUWp2TkZueVNLX1U1UVNVem9ubF9wSEJZWWktU2FlakpLd1pJTFBUakh5YllZRTlteWVwOVJJVGphWHNQRlVuRGhDcHlNMA?oc=5)
+
+---
+
+### [La IA tiene más capacidad de ceñirse a las directrices de las guías clínicas en el abordaje de la esclerosis múltiple](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbThsRlk2eXlwWnEzTXQ4MTJLdWRzUkhYWWVyRVlDbnZjZ1c1YmJLaFZJWF9XbjhrVnVDZFZXd1otQ0R3RldMVWhQZFVxb0FPYkJSQk5SbWFtQXZyay16TGc2ckRPTHgxb1o4X1FPUUtuak0zMEZST3NtRmp6ak80OWczMmNIWUl0RzRIeERCYmxzcnRtLXBZSjFTX3JYSG1QLTVwNkdSN3VkZWZpX2RLNk1GMXZhQQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbThsRlk2eXlwWnEzTXQ4MTJLdWRzUkhYWWVyRVlDbnZjZ1c1YmJLaFZJWF9XbjhrVnVDZFZXd1otQ0R3RldMVWhQZFVxb0FPYkJSQk5SbWFtQXZyay16TGc2ckRPTHgxb1o4X1FPUUtuak0zMEZST3NtRmp6ak80OWczMmNIWUl0RzRIeERCYmxzcnRtLXBZSjFTX3JYSG1QLTVwNkdSN3VkZWZpX2RLNk1GMXZhQQ?oc=5)
+
+---
+
+### [La OMS reclama marcos permanentes de preparación y respuesta ante pandemias: "Conocemos el precio de no hacerlo" - Gaceta Médica](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YUnNTS2p5akhoMHBuZDg5QnNNSHpHbHp6emhuLTlpVkRTMGFsTFJtdGNIUXlHelpETjlWb2p4d09EeGgwUUdSdFhpQVFFdndpV1V2SXdHWHpUU0JxRW5WOHJ6Rjk1bTZiaEZLZkZEbjFnRTdwZ1hrSmIycVdSVmM?oc=5)
+
+2026-06-29 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YUnNTS2p5akhoMHBuZDg5QnNNSHpHbHp6emhuLTlpVkRTMGFsTFJtdGNIUXlHelpETjlWb2p4d09EeGgwUUdSdFhpQVFFdndpV1V2SXdHWHpUU0JxRW5WOHJ6Rjk1bTZiaEZLZkZEbjFnRTdwZ1hrSmIycVdSVmM?oc=5)
+
+---
+
+### [Multiple Sklerose beeinträchtigt den Alltag weit über die körperlichen Symptome hinaus - Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
+
+---
 
 ### [Laura Varela, paciente y activista: "Las mujeres con VIH seguimos estando invisibilizadas"](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
 
@@ -70,14 +102,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Multiple Sklerose beeinträchtigt den Alltag weit über die körperlichen Symptome hinaus - Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
-
----
-
 ### [Tertiärprävention bei an MS erkrankten Menschen - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -88,7 +112,7 @@ permalink: /news/teriflunomide/
 
 ### [ROMS: New scheme announced to tackle obesity in Northern Ireland](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNXNLYkVxMlpaZDhIM0FqU0ItSVdrczc2NGEtRTdaeUdvM0tOZE8ycUFIdkNKME5GMzBOaHN3OTZZajhndFg3cEE4allMdVJWUDhyb0lNRWIxUkJs?oc=5)
 
-2026-06-29 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNXNLYkVxMlpaZDhIM0FqU0ItSVdrczc2NGEtRTdaeUdvM0tOZE8ycUFIdkNKME5GMzBOaHN3OTZZajhndFg3cEE4allMdVJWUDhyb0lNRWIxUkJs?oc=5)
 
@@ -99,6 +123,14 @@ permalink: /news/teriflunomide/
 2026-06-29 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnNOU3NGNE5TWDVtSUtUZ0xvUTVCeV9IVmlUQUFScWU0S2w2M3hyTzdlS05Ld3FfdWstWGFoTTNqbzBUdlBkWERHbGR4RUw2VTNaMV9vZWJITDFyYnZuNHJINGJqZExSdzhlZ05pcnJWZ25WRWJYWmpLTmpIMG51M0NIVUd3VFpfZU55VmtMM2VEX2NRNnhQMjRqaC1CaV9MQTlmZmZTdHM3cnJK?oc=5)
+
+---
+
+### [Vista la firma genetica dell'invecchiamento](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkJYWXpqbUdvNmRDVHVyY0Rnd0M1MmtvQ21OVng5eXQ0QmEwUHQ2RmYtX0tHWHF3akJKbGdtWjFCRnZ1Z1lZdGdSLWtubWFfWUlBMmp6RGhWNEdoTmhCdEd5OTJrTUNuR2RGNlJZV2dPbU5mVWNEYTVHelRTM3RPeXZaMXppTnYxMUZfSHIzV1BkMEkxSGI2YnE3YnhXX1BIQ05xRzJnc1BpUk5XVktnY1ZmZTNOUVlyT25xaXBYLTd1aDZQT2xNQ2t5VzZiYUdfVWFDWHB3WDNYdjNqR1hvZNIB5gFBVV95cUxNVG0yMm5TdTZXZ25kSExpaU40cmJOY01ZTnExeG4ybzREb2lEZGFxS3N3V1N0SXFKODctRFUydXU2YlpsTUVnU2RBUEpSS0xycmhvOHc2NHl4b2ItbTJFMTVaWjBPcVF2Z1Y3MWxYYlRhVWRHcV9tY21abmFSLS1qNy11LUhIbTYwV2lTNEF4ZHpDYUdDeklBSHNKYUJEQmgzZXNReVVrdUVkdmdfblBYVjBRckpiV1h5eWV2X21QRjVVUE43RHRlUkRqNk5oVXNLSi1sZFJTOExaUGtGUWZzWFdreUt0QQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">MS</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkJYWXpqbUdvNmRDVHVyY0Rnd0M1MmtvQ21OVng5eXQ0QmEwUHQ2RmYtX0tHWHF3akJKbGdtWjFCRnZ1Z1lZdGdSLWtubWFfWUlBMmp6RGhWNEdoTmhCdEd5OTJrTUNuR2RGNlJZV2dPbU5mVWNEYTVHelRTM3RPeXZaMXppTnYxMUZfSHIzV1BkMEkxSGI2YnE3YnhXX1BIQ05xRzJnc1BpUk5XVktnY1ZmZTNOUVlyT25xaXBYLTd1aDZQT2xNQ2t5VzZiYUdfVWFDWHB3WDNYdjNqR1hvZNIB5gFBVV95cUxNVG0yMm5TdTZXZ25kSExpaU40cmJOY01ZTnExeG4ybzREb2lEZGFxS3N3V1N0SXFKODctRFUydXU2YlpsTUVnU2RBUEpSS0xycmhvOHc2NHl4b2ItbTJFMTVaWjBPcVF2Z1Y3MWxYYlRhVWRHcV9tY21abmFSLS1qNy11LUhIbTYwV2lTNEF4ZHpDYUdDeklBSHNKYUJEQmgzZXNReVVrdUVkdmdfblBYVjBRckpiV1h5eWV2X21QRjVVUE43RHRlUkRqNk5oVXNLSi1sZFJTOExaUGtGUWZzWFdreUt0QQ?oc=5)
 
 ---
 
@@ -123,30 +155,6 @@ permalink: /news/teriflunomide/
 2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
-
----
-
-### [Los efectos en el cuerpo de dejar el azúcar durante dos semanas, según los endocrinos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFBWU21Nc1RUdm9PbHdBM3A0R3hJazRqWjd2dWl5ZVBpSW1aekVPNVBmdlhBWFZDbzdmYW91YnYzeGRzTVp1bkdacjByMFU2R0UzZXZ1NVVDbEMybEdiVktSVjJHQXhCSG9YUVRHZk9CdzBMdzBvVmpyc3JIQ3hYSHUxTmJzRUJPa3lzdGJFcjZ0TUp1emFiS3l3aVVlX2k0eEZzVHZsNmY5VTk3aGNzaGVVMlgxUXlCRnNvZ3lmSzJydjZJVkZBSm0zdFhEVExmZFM0N3lReFJocDQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">MS</span>
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFBWU21Nc1RUdm9PbHdBM3A0R3hJazRqWjd2dWl5ZVBpSW1aekVPNVBmdlhBWFZDbzdmYW91YnYzeGRzTVp1bkdacjByMFU2R0UzZXZ1NVVDbEMybEdiVktSVjJHQXhCSG9YUVRHZk9CdzBMdzBvVmpyc3JIQ3hYSHUxTmJzRUJPa3lzdGJFcjZ0TUp1emFiS3l3aVVlX2k0eEZzVHZsNmY5VTk3aGNzaGVVMlgxUXlCRnNvZ3lmSzJydjZJVkZBSm0zdFhEVExmZFM0N3lReFJocDQ?oc=5)
-
----
-
-### [Another B vitamin linked to worse outcomes for cancer - Jacksonville Journal](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
-
-2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Jacksonville Journal-Courier](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
-
----
-
-### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
-
-2026-06-27 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 ---
 

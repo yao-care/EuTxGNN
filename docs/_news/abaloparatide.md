@@ -54,19 +54,11 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（5 則）
 
-### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
-
----
-
-### [Alzheimer: SGLT2-Hemmer senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 ---
 
@@ -83,6 +75,14 @@ permalink: /news/abaloparatide/
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Krebsrisiko sinkt um 41 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
 
 ---
 

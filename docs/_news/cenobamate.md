@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="Cenobamate 有什麼相關新聞？">
-<strong>Cenobamate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cenobamate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,28 +45,20 @@ permalink: /news/cenobamate/
 <li>epilepsy with generalized tonic-clonic seizures（94.2%）</li>
 <li>partial motor epilepsy（93.4%）</li>
 <li>trigeminal nerve neoplasm（91.2%）</li>
-<li class="indication-matched">epilepsy（90.7%）<span class="indication-tag">📰 epilepsia</span></li>
+<li class="indication-matched">epilepsy（90.7%）<span class="indication-tag">📰 Epilepsie</span></li>
 <li>restless legs syndrome（87.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Weniger Demenz mit Hörgeräten bei Epilepsie - mgo medizin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlINng2MGRFc2VEWlRGWDNjcHZaU01GejBzWjhlTmJCQWRBSkp4RGpqVG1BN253bG1sb2QzOFJwSUJGbzVvaFBBTi1lMkdxQnBzUUNKZ2NVYWhrNXl0WUhTUkVZRm9lN2IycjhZaFZEY0dJYTN6NWxIck4tOHVBMks1TWRCaUx6S1RKOFFldzdZV1VLcHA3UlJVLWs?oc=5)
 
 2026-06-29 <span class="news-indication-tag">Epilepsie</span>
 
 來源：[mgo medizin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlINng2MGRFc2VEWlRGWDNjcHZaU01GejBzWjhlTmJCQWRBSkp4RGpqVG1BN253bG1sb2QzOFJwSUJGbzVvaFBBTi1lMkdxQnBzUUNKZ2NVYWhrNXl0WUhTUkVZRm9lN2IycjhZaFZEY0dJYTN6NWxIck4tOHVBMks1TWRCaUx6S1RKOFFldzdZV1VLcHA3UlJVLWs?oc=5)
-
----
-
-### [El uso de audífonos reduce un 23% el riesgo de demencia en adultos con epilepsia y pérdida auditiva](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDFHcmNNSVV1WDFGWXdwWko5SXRKLU0xLXBGTDdUTjRSU21JZ3FvN1Fub1NtRE9HcVFlMmtsMDBINk1mbldDZjhCZ1dEeDlfLWVGNXJ5OExkN0t3eHktVVlnUFdWdzZ3WXk2TWkwRUJCdHh2c3U2NmZkSHpfd2RXT0p4T3ZtSVFuVzJjcHRfOFFXd3dfX21ha3RfX2dobTc2OXhEdTlWVVFMc0NfcTJMY2dpMDB1cmlCWGNqclVwQkhmT2tSeU1jNWNNT0FaU0hCMkdKa2wxR3dSNXoxV1hwWnlR?oc=5)
-
-2026-06-29 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDFHcmNNSVV1WDFGWXdwWko5SXRKLU0xLXBGTDdUTjRSU21JZ3FvN1Fub1NtRE9HcVFlMmtsMDBINk1mbldDZjhCZ1dEeDlfLWVGNXJ5OExkN0t3eHktVVlnUFdWdzZ3WXk2TWkwRUJCdHh2c3U2NmZkSHpfd2RXT0p4T3ZtSVFuVzJjcHRfOFFXd3dfX21ha3RfX2dobTc2OXhEdTlWVVFMc0NfcTJMY2dpMDB1cmlCWGNqclVwQkhmT2tSeU1jNWNNT0FaU0hCMkdKa2wxR3dSNXoxV1hwWnlR?oc=5)
 
 ---
 

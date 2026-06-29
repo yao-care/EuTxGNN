@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Alzheimer: SGLT2-Hemmer senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
-
----
-
-### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
-
-2026-06-27 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 ---
 

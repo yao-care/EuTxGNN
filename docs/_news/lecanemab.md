@@ -54,19 +54,11 @@ permalink: /news/lecanemab/
 
 ## 相關新聞（4 則）
 
-### [Alzheimer-Therapien: Lecanemab und Donanemab ab Juni verfügbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQanFtU0lYYWlleTRKSjYtQ3lTNDBHdFhwbzhHVWozZXpLWTdXTm1TRDJ6Z0NHZUdQM0xtWEh0Z19HQmRNLWpXWEd0WEY4N25LVEdWallUc1ltbllFLV9icjJLTFBETkp2UnY5MXkwbDZSUkIzcWVmMEpTdFFUUmZ5NUJfTHdzcmRmaW1paXR2UGlRVlJud2VTVmwtRUF3djJsTGd1SV9yQW9Wb293dVBQeg?oc=5)
-
-2026-06-29 <span class="news-drug-tag">Lecanemab</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQanFtU0lYYWlleTRKSjYtQ3lTNDBHdFhwbzhHVWozZXpLWTdXTm1TRDJ6Z0NHZUdQM0xtWEh0Z19HQmRNLWpXWEd0WEY4N25LVEdWallUc1ltbllFLV9icjJLTFBETkp2UnY5MXkwbDZSUkIzcWVmMEpTdFFUUmZ5NUJfTHdzcmRmaW1paXR2UGlRVlJud2VTVmwtRUF3djJsTGd1SV9yQW9Wb293dVBQeg?oc=5)
-
----
-
-### [Alzheimer: SGLT2-Hemmer senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 ---
 
@@ -83,6 +75,14 @@ permalink: /news/lecanemab/
 2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
+
+---
+
+### [Neue Alzheimer-Antikörper und KI-Diagnostik: Was 2026 in Deutschland kommt - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHVybzhiUDlDWjUzOEJxMlJKWFVUOGVTUHFZOTh4dnRJRUp5YzFna2tBWkNlUDdmWjBVNmJCX0czVXp0R2hIRXNCU243ZkFLMndVSXB4akNKYnBZT1VJdXB5QVA3em5lcjYzbG9XaUprWGdveDlyeDNqNlY0Sks3QUpPbmZQT0dnZUMwREtNTDFxWlVzei1YMWdJM2VOU0J1QkpNU0psdkpZdw?oc=5)
+
+2026-06-28 <span class="news-drug-tag">Lecanemab</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHVybzhiUDlDWjUzOEJxMlJKWFVUOGVTUHFZOTh4dnRJRUp5YzFna2tBWkNlUDdmWjBVNmJCX0czVXp0R2hIRXNCU243ZkFLMndVSXB4akNKYnBZT1VJdXB5QVA3em5lcjYzbG9XaUprWGdveDlyeDNqNlY0Sks3QUpPbmZQT0dnZUMwREtNTDFxWlVzei1YMWdJM2VOU0J1QkpNU0psdkpZdw?oc=5)
 
 ---
 

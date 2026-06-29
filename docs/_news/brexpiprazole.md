@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Postpartale Depression: Zuranolon ab Juli – erstes Spezial-Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
+
+---
 
 ### [Un estudio halla biomarcadores en sangre que muestran cambios moleculares tras la psicoterapia para la depresión](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
 

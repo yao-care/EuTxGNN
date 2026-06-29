@@ -54,11 +54,11 @@ permalink: /news/insulin-degludec/
 
 ## 相關新聞（3 則）
 
-### [Alzheimer: SGLT2-Hemmer senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9aM0tkcmlBOHExQWZCSGdSX1JDWm5UWXdoVFdLaVc4aEdaRnR4U0d0ZDY3TjBwNkdQZ2l0NUhST3NEbFpBOWRPb01ybEFnN3Fydlpfek8ycE9GdWpSMU5QLXdQVjBMeU9MUDFtY2c2ZGZDR0JIZzVuTUktdWFsZENrVTF2OHNKbHVwdlI0Qjk2eVNSSzQ4LUUwZmxYTTRzekVJVmhiRGpCdw?oc=5)
 
 ---
 
