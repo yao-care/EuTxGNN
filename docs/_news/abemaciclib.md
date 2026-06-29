@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,27 +52,19 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
-
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
-
----
-
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
+2026-06-27 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 

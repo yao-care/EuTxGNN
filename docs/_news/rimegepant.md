@@ -54,11 +54,11 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（3 則）
 
-### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
 
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/rimegepant/
 
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
+2026-06-27 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 

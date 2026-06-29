@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（6 則）
 
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+---
+
+### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+---
+
 ### [Toxoplasma gondii als vernachlässigte Tropenkrankheit: Milliarden betroffen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
 
 2026-06-29 <span class="news-indication-tag">asma</span>
@@ -70,14 +86,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
-
-2026-06-28 <span class="news-indication-tag">EPOC</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
-
----
-
 ### [Voici l'étonnante découverte de chercheurs sur le lien entre la bière et les piqûres de moustiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
 
 2026-06-28 <span class="news-indication-tag">EPOC</span>
@@ -86,19 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
-
----
-
-### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
-
-2026-06-27 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 

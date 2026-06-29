@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [La microbiota de precisión revoluciona el abordaje de diabetes, depresión y enfermedades intestinales](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
 
-2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
+2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+---
+
+### [Alzheimer: SGLT2-Hemmer senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
+
+---
+
+### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
 
 ---
 
@@ -67,30 +83,6 @@ permalink: /news/somapacitan/
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
-
----
-
-### [Los salmantinos presentan menos riesgo cardiovascular que la media regional pese al avance de la diabetes - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko – 43% und weitere Präventionsdaten - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlQVXQzajdJd2lYcVpPbU50VktiMW82RHVEZVNzUFdIYk95U1ZrZHp0bkhuU21wOVFPTmxYU1RiaFdWTllHekVTaW1PcjROQzEzTnJyV25VTEEwTUVnR3ZBQWZScmdBak93ZGVWT0pIc1IwTVd5NUItY2d3a0dkbldteklQZFplMktORldoUnkzc3dhRENRUnpDWEd2TXhZc2pfaGVTTXh3c2dqNkE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlQVXQzajdJd2lYcVpPbU50VktiMW82RHVEZVNzUFdIYk95U1ZrZHp0bkhuU21wOVFPTmxYU1RiaFdWTllHekVTaW1PcjROQzEzTnJyV25VTEEwTUVnR3ZBQWZScmdBak93ZGVWT0pIc1IwTVd5NUItY2d3a0dkbldteklQZFplMktORldoUnkzc3dhRENRUnpDWEd2TXhZc2pfaGVTTXh3c2dqNkE?oc=5)
-
----
-
-### [Un medicamento para la diabetes previene enfermedades del corazón](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlB6UkFscWVsRkt5TmlONThtY29JdUh2NlNocWlTQXQ1WVM5ODlndTRwSV80ZEp1TndWU2lJdWtUajMwNmNHOERndzFkRV9SWXdCWEFsMGd3V2VqQU9Fa0VsWlpWc2tlU2hOWklMNHVzZDgtc2UxdllLbXQ5M0JyUWNhS09XSEFJeUJQbnJ2d1pURTFz0gGaAUFVX3lxTE9MUFd2NkpxMVc3Y0NNQlRVR2R4bkRzZzRDMzFfV3VZVGpQVHNOd2dMTUtldmRIdFdZZ0hTVEZHSHZQUkxadk5mVUhMcXZXanY5OThLZ3k0SDlnWmRodEFTQ2MwU0RmWmswTjQwbkZqcDZ1R2Jza2l0MjhlSmxYaFhnMjE1bFNIYk9COVc1RFM5akRZSmpldk1kSlE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlB6UkFscWVsRkt5TmlONThtY29JdUh2NlNocWlTQXQ1WVM5ODlndTRwSV80ZEp1TndWU2lJdWtUajMwNmNHOERndzFkRV9SWXdCWEFsMGd3V2VqQU9Fa0VsWlpWc2tlU2hOWklMNHVzZDgtc2UxdllLbXQ5M0JyUWNhS09XSEFJeUJQbnJ2d1pURTFz0gGaAUFVX3lxTE9MUFd2NkpxMVc3Y0NNQlRVR2R4bkRzZzRDMzFfV3VZVGpQVHNOd2dMTUtldmRIdFdZZ0hTVEZHSHZQUkxadk5mVUhMcXZXanY5OThLZ3k0SDlnWmRodEFTQ2MwU0RmWmswTjQwbkZqcDZ1R2Jza2l0MjhlSmxYaFhnMjE1bFNIYk9COVc1RFM5akRZSmpldk1kSlE?oc=5)
 
 ---
 

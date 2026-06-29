@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [La microbiota de precisión revoluciona el abordaje de diabetes, depresión y enfermedades intestinales](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Un estudio halla biomarcadores en sangre que muestran cambios moleculares tras la psicoterapia para la depresión](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
 

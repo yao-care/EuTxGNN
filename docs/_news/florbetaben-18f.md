@@ -54,11 +54,27 @@ permalink: /news/florbetaben-18f/
 
 ## 相關新聞（8 則）
 
-### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
+### [Herz-Kreislauf-Erkrankungen: Hypotonie scheint Alzheimer-Risiko besonders zu erhöhen - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
 
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+
+---
+
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+---
+
+### [Bluthochdruck: Diese Medikamente werden am besten vertragen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
 
 ---
 
@@ -67,22 +83,6 @@ permalink: /news/florbetaben-18f/
 2026-06-29 <span class="news-indication-tag">migraña</span>
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
-
----
-
-### [Große Bluthochdruck-Studie: Sartane schneiden bei Nebenwirkungen am besten ab](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFsb01zSTFhOFJ3aWFmSHJhVnJDUy1oT3I2bENMaGllR29POS11bl9XTC1TVXM5bDNSM1h1aTBybGVwVHExcTFiX0g2dEhlUy1zTFdmWlB6d00wcHZWSHk4YzVfX3FRNVpWZGVNZEszWG1oVVczUC1NUkFnTXlYTzFYUGpkV3pHZnFCZW4yOGFPY0ZmTzFuM3FmM0wtblE4NTRJTG9Tb0JMckJBNmNFQTNqZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFsb01zSTFhOFJ3aWFmSHJhVnJDUy1oT3I2bENMaGllR29POS11bl9XTC1TVXM5bDNSM1h1aTBybGVwVHExcTFiX0g2dEhlUy1zTFdmWlB6d00wcHZWSHk4YzVfX3FRNVpWZGVNZEszWG1oVVczUC1NUkFnTXlYTzFYUGpkV3pHZnFCZW4yOGFPY0ZmTzFuM3FmM0wtblE4NTRJTG9Tb0JMckJBNmNFQTNqZw?oc=5)
-
----
-
-### [Bluthochdruck und Demenz: Niedriger Druck erhöht Alzheimer-Risiko um 174% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPODlkelZDYmphOEJodVJXTHJGVE1pTFFicGRKZ3BfOTc3ZFVUSFUwOXl4Uzdvd3RxQTF2eFZ6ME9HQ0ZVbFp3WmZjNFR0OWFGaXNjUDd3MDdKR1htTWlwaEtTVVlEQTl3cWxvRG9tRjhfNXdsWkttYWJic0wzR3BLOS1oTGRKMDVMNThzOU9sMGlvbDhoVTM2VlhYRHdfdFNOMVdySXlSZEllLV9aejREMEF4Nk44VnQxM0tXRHh3?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPODlkelZDYmphOEJodVJXTHJGVE1pTFFicGRKZ3BfOTc3ZFVUSFUwOXl4Uzdvd3RxQTF2eFZ6ME9HQ0ZVbFp3WmZjNFR0OWFGaXNjUDd3MDdKR1htTWlwaEtTVVlEQTl3cWxvRG9tRjhfNXdsWkttYWJic0wzR3BLOS1oTGRKMDVMNThzOU9sMGlvbDhoVTM2VlhYRHdfdFNOMVdySXlSZEllLV9aejREMEF4Nk44VnQxM0tXRHh3?oc=5)
 
 ---
 
@@ -102,17 +102,17 @@ permalink: /news/florbetaben-18f/
 
 ---
 
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cardiovascular disease</span>
+2026-06-27 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 

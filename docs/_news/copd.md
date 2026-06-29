@@ -56,11 +56,11 @@ permalink: /news/copd/
 
 ## 相關新聞（2 則）
 
-### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
+### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
 
-2026-06-28
+2026-06-29
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+---
 
 ### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
@@ -75,22 +83,6 @@ permalink: /news/ziconotide/
 2026-06-29 <span class="news-indication-tag">migraña</span>
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
-
----
-
-### [GLP-1-Medikamente: Krebsrisiko sinkt um 41 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
-
----
-
-### [Pressione, glicemia e chili di troppo: i segnali della sindrome CKM che colpisce insieme cuore, reni e metabolismo](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWNkaTB5UXdiWXpsYzZNLWJEY2RfaW9NQ19jLUhrRl9WYkppZjdKampvT3QwcUdNNEk0dk9jNHFPeWdSNF9LNThtRDc4d2JPRTl3VU5xbTNNMDB2Wm1iMkJKOVNZa21nLXdjd1VuVHU3MXJuZXhpMHpEQmpXQTZRTDRxMUlUR0lRRzBfUXhUbE9MYkpka2xLZWsxeC1IeWNMa0lmakJvVmE5aUkyNnBwTlo5UWFDMV9aNDNsV1FRcTdRZHBpbkV4YVItTVFjTEdHdXZZVk1nLUc4NURvS1RBZm1xTjY3bHRFa2JpdVVn?oc=5)
-
-2026-06-27 <span class="news-indication-tag">obesità</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWNkaTB5UXdiWXpsYzZNLWJEY2RfaW9NQ19jLUhrRl9WYkppZjdKampvT3QwcUdNNEk0dk9jNHFPeWdSNF9LNThtRDc4d2JPRTl3VU5xbTNNMDB2Wm1iMkJKOVNZa21nLXdjd1VuVHU3MXJuZXhpMHpEQmpXQTZRTDRxMUlUR0lRRzBfUXhUbE9MYkpka2xLZWsxeC1IeWNMa0lmakJvVmE5aUkyNnBwTlo5UWFDMV9aNDNsV1FRcTdRZHBpbkV4YVItTVFjTEdHdXZZVk1nLUc4NURvS1RBZm1xTjY3bHRFa2JpdVVn?oc=5)
 
 ---
 

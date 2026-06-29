@@ -54,11 +54,11 @@ permalink: /news/ertapenem-sodium/
 
 ## 相關新聞（1 則）
 
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 

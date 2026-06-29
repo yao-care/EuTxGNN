@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（4 則）
 
-### [La microbiota de precisión revoluciona el abordaje de diabetes, depresión y enfermedades intestinales](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+### [Alzheimer: SGLT2-Hemmer senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
 
-2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
+2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxORkNrdk9rZ0E5M3U2dTl1VVM4dDJnRERiVjFZSjBJeUhzMUhMZ3p5OGswcUN4cW5rMnNVSm9fd1h4YmFBc042N0Jwd0Z6YUJHaTRLUEJ6dmF3dXV1OTEydTYtMVV5eVZydUtGLW5yYTNhRjNCNkl0SVRuMUtvT2E2dndUejdXU0xCTHdQelhIZUp1NEg1a3JDQy13Wkh4WXFjb0Rlc2ZkaDcyMFlXd2J0cjRhb2R0azdIckdxX2dBbUI4MjdnbWdFTkNSNlFHZTZnb2hoOUFpMnFDQnR4SUJGLTN3d01wQXRkeC1GLWtOWjVQQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxORXNpbTcwYldaTkJUa1BfRkc5bnZ2cmYyX0RQZlYwVmdsZ2VtcTJLS2J4S3MzX1VXM3U2T1Y0bWZ3UktmRk1DSF9XYnZVSDNROEt1OFNfSUJHdVRZY1oxYTJrSEtqNnlBTy1kN3lCbGoxdDBBX0xBS21uNldJbTRCRWdsTml2dmZGRDdVNmJseEZqaXRKRkk1akJTLVRmSy1u?oc=5)
 
 ---
 
@@ -70,30 +70,6 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Los salmantinos presentan menos riesgo cardiovascular que la media regional pese al avance de la diabetes - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlk5a1g3MkNQblZGM0lRbG5TY1dhOTRDcHpBSm1uVzJ1cTRqekZoMkE3WFBieXFncVItRHVRTWlxV0I5OU13Ym41NWxIc2JXclJGaUNiZklfVDB2TW5zV01tNnpKQlJQdUJucE53d0lVZkxic3B3SnV3YUY5YnNjYjZJNUdPMEpvWC13X2VacXFZbEltZHdzVU9MdGNhODktWFMxVUFoRTU4dHdpeTBJbmJhSGt2U19LRkZtVm5ZU3VhYWJFb2lsQV9MdTNTNWtwQlJMdXVpdWlrXzNfSHVNcVhrczVPZHpteFE?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko – 43% und weitere Präventionsdaten - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlQVXQzajdJd2lYcVpPbU50VktiMW82RHVEZVNzUFdIYk95U1ZrZHp0bkhuU21wOVFPTmxYU1RiaFdWTllHekVTaW1PcjROQzEzTnJyV25VTEEwTUVnR3ZBQWZScmdBak93ZGVWT0pIc1IwTVd5NUItY2d3a0dkbldteklQZFplMktORldoUnkzc3dhRENRUnpDWEd2TXhZc2pfaGVTTXh3c2dqNkE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlQVXQzajdJd2lYcVpPbU50VktiMW82RHVEZVNzUFdIYk95U1ZrZHp0bkhuU21wOVFPTmxYU1RiaFdWTllHekVTaW1PcjROQzEzTnJyV25VTEEwTUVnR3ZBQWZScmdBak93ZGVWT0pIc1IwTVd5NUItY2d3a0dkbldteklQZFplMktORldoUnkzc3dhRENRUnpDWEd2TXhZc2pfaGVTTXh3c2dqNkE?oc=5)
-
----
-
-### [Un medicamento para la diabetes previene enfermedades del corazón](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlB6UkFscWVsRkt5TmlONThtY29JdUh2NlNocWlTQXQ1WVM5ODlndTRwSV80ZEp1TndWU2lJdWtUajMwNmNHOERndzFkRV9SWXdCWEFsMGd3V2VqQU9Fa0VsWlpWc2tlU2hOWklMNHVzZDgtc2UxdllLbXQ5M0JyUWNhS09XSEFJeUJQbnJ2d1pURTFz0gGaAUFVX3lxTE9MUFd2NkpxMVc3Y0NNQlRVR2R4bkRzZzRDMzFfV3VZVGpQVHNOd2dMTUtldmRIdFdZZ0hTVEZHSHZQUkxadk5mVUhMcXZXanY5OThLZ3k0SDlnWmRodEFTQ2MwU0RmWmswTjQwbkZqcDZ1R2Jza2l0MjhlSmxYaFhnMjE1bFNIYk9COVc1RFM5akRZSmpldk1kSlE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlB6UkFscWVsRkt5TmlONThtY29JdUh2NlNocWlTQXQ1WVM5ODlndTRwSV80ZEp1TndWU2lJdWtUajMwNmNHOERndzFkRV9SWXdCWEFsMGd3V2VqQU9Fa0VsWlpWc2tlU2hOWklMNHVzZDgtc2UxdllLbXQ5M0JyUWNhS09XSEFJeUJQbnJ2d1pURTFz0gGaAUFVX3lxTE9MUFd2NkpxMVc3Y0NNQlRVR2R4bkRzZzRDMzFfV3VZVGpQVHNOd2dMTUtldmRIdFdZZ0hTVEZHSHZQUkxadk5mVUhMcXZXanY5OThLZ3k0SDlnWmRodEFTQ2MwU0RmWmswTjQwbkZqcDZ1R2Jza2l0MjhlSmxYaFhnMjE1bFNIYk9COVc1RFM5akRZSmpldk1kSlE?oc=5)
-
----
-
 ### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 5,8 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
 
 2026-06-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -102,11 +78,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 

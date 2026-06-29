@@ -3,7 +3,7 @@ layout: default
 title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiovascular disease（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
-<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,15 +85,7 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
-
-2026-06-29
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 

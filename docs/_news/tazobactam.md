@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+---
+
+### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+---
 
 ### [Toxoplasma gondii als vernachlässigte Tropenkrankheit: Milliarden betroffen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/tazobactam/
 
 ---
 
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 

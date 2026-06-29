@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Herz-Kreislauf-Erkrankungen: Hypotonie scheint Alzheimer-Risiko besonders zu erhöhen - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+
+---
+
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+---
+
+### [Bluthochdruck: Diese Medikamente werden am besten vertragen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
+
+---
 
 ### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
 
 2026-06-29 <span class="news-indication-tag">migraña</span>
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
-
----
-
-### [Große Bluthochdruck-Studie: Sartane schneiden bei Nebenwirkungen am besten ab](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFsb01zSTFhOFJ3aWFmSHJhVnJDUy1oT3I2bENMaGllR29POS11bl9XTC1TVXM5bDNSM1h1aTBybGVwVHExcTFiX0g2dEhlUy1zTFdmWlB6d00wcHZWSHk4YzVfX3FRNVpWZGVNZEszWG1oVVczUC1NUkFnTXlYTzFYUGpkV3pHZnFCZW4yOGFPY0ZmTzFuM3FmM0wtblE4NTRJTG9Tb0JMckJBNmNFQTNqZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFFsb01zSTFhOFJ3aWFmSHJhVnJDUy1oT3I2bENMaGllR29POS11bl9XTC1TVXM5bDNSM1h1aTBybGVwVHExcTFiX0g2dEhlUy1zTFdmWlB6d00wcHZWSHk4YzVfX3FRNVpWZGVNZEszWG1oVVczUC1NUkFnTXlYTzFYUGpkV3pHZnFCZW4yOGFPY0ZmTzFuM3FmM0wtblE4NTRJTG9Tb0JMckJBNmNFQTNqZw?oc=5)
-
----
-
-### [Bluthochdruck und Demenz: Niedriger Druck erhöht Alzheimer-Risiko um 174% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPODlkelZDYmphOEJodVJXTHJGVE1pTFFicGRKZ3BfOTc3ZFVUSFUwOXl4Uzdvd3RxQTF2eFZ6ME9HQ0ZVbFp3WmZjNFR0OWFGaXNjUDd3MDdKR1htTWlwaEtTVVlEQTl3cWxvRG9tRjhfNXdsWkttYWJic0wzR3BLOS1oTGRKMDVMNThzOU9sMGlvbDhoVTM2VlhYRHdfdFNOMVdySXlSZEllLV9aejREMEF4Nk44VnQxM0tXRHh3?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPODlkelZDYmphOEJodVJXTHJGVE1pTFFicGRKZ3BfOTc3ZFVUSFUwOXl4Uzdvd3RxQTF2eFZ6ME9HQ0ZVbFp3WmZjNFR0OWFGaXNjUDd3MDdKR1htTWlwaEtTVVlEQTl3cWxvRG9tRjhfNXdsWkttYWJic0wzR3BLOS1oTGRKMDVMNThzOU9sMGlvbDhoVTM2VlhYRHdfdFNOMVdySXlSZEllLV9aejREMEF4Nk44VnQxM0tXRHh3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（12 則）
+
+### [Laura Varela, paciente y activista: "Las mujeres con VIH seguimos estando invisibilizadas"](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
+
+2026-06-29 <span class="news-indication-tag">MS</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
+
+---
+
+### [Fettleber: Forscher warnen vor rasanter Ausbreitung bei Jungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU19PNmZLVmw5YXduWV8tRHYyMDhfeUg4MWVpcUtNT0x2ZWlvaFJkLUp6enJFT3NTTTBhQ1dud005M1ZtYmN5aU44YkRpTHpEU0lmSmlTbFBiWThHTjkyNHdtdkxVMDFQRC1WMG5FVTBYTlliZEpVcWZhUGZ0dWo0Y2ZaYnRMNnR3VGtjVE0yaFFFbnZuVEZuVkI0cmVlcTZ1SkNfUXRxaV9hZEdvNkhr?oc=5)
+
+2026-06-29 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU19PNmZLVmw5YXduWV8tRHYyMDhfeUg4MWVpcUtNT0x2ZWlvaFJkLUp6enJFT3NTTTBhQ1dud005M1ZtYmN5aU44YkRpTHpEU0lmSmlTbFBiWThHTjkyNHdtdkxVMDFQRC1WMG5FVTBYTlliZEpVcWZhUGZ0dWo0Y2ZaYnRMNnR3VGtjVE0yaFFFbnZuVEZuVkI0cmVlcTZ1SkNfUXRxaV9hZEdvNkhr?oc=5)
+
+---
+
+### [Multiple Sklerose beeinträchtigt den Alltag weit über die körperlichen Symptome hinaus - Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
+
+---
 
 ### [Tertiärprävention bei an MS erkrankten Menschen - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
 
@@ -78,11 +102,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Más de la mitad de los pacientes con esclerosis múltiple (51%) ve afectada su vida social y el 48% su trabajo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3B2NDRvcWdXY2lLU1BEUHJRN3VCXzlwSEhVcmN1bUdQRjdPcmRZZXBHSHViQ29BMjUzRHNUMm1tQ3J2MDRaT09HQVhYSXVJd2hsNk5TTFBycFV1YWZuQUFFLWVYb1FxUGtYR1F6N3o3RGczakU4Q21hZXNmUmVnOGs4MXVVY01qTmRwcjlwU1FZUjZaYWdKZDd0RUkwRlpRcEY3V0tvZHREOGU1UnQyMXlPbjNfSU1uTnhKR1F2NTJRRFBYMzJJTXhPQmU5d1FkbHFMV1MxdWRxYVVFUWl5VDBod0R2Zw?oc=5)
+### [One person a week in England dies with undiagnosed TB, study finds - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
 
-2026-06-29 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3B2NDRvcWdXY2lLU1BEUHJRN3VCXzlwSEhVcmN1bUdQRjdPcmRZZXBHSHViQ29BMjUzRHNUMm1tQ3J2MDRaT09HQVhYSXVJd2hsNk5TTFBycFV1YWZuQUFFLWVYb1FxUGtYR1F6N3o3RGczakU4Q21hZXNmUmVnOGs4MXVVY01qTmRwcjlwU1FZUjZaYWdKZDd0RUkwRlpRcEY3V0tvZHREOGU1UnQyMXlPbjNfSU1uTnhKR1F2NTJRRFBYMzJJTXhPQmU5d1FkbHFMV1MxdWRxYVVFUWl5VDBod0R2Zw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
 
 ---
 
@@ -102,19 +126,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Morbus Crohn: Bluttest ersetzt Darmspiegelung mit 90% Genauigkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+### [Los efectos en el cuerpo de dejar el azúcar durante dos semanas, según los endocrinos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFBWU21Nc1RUdm9PbHdBM3A0R3hJazRqWjd2dWl5ZVBpSW1aekVPNVBmdlhBWFZDbzdmYW91YnYzeGRzTVp1bkdacjByMFU2R0UzZXZ1NVVDbEMybEdiVktSVjJHQXhCSG9YUVRHZk9CdzBMdzBvVmpyc3JIQ3hYSHUxTmJzRUJPa3lzdGJFcjZ0TUp1emFiS3l3aVVlX2k0eEZzVHZsNmY5VTk3aGNzaGVVMlgxUXlCRnNvZ3lmSzJydjZJVkZBSm0zdFhEVExmZFM0N3lReFJocDQ?oc=5)
 
-2026-06-27 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+2026-06-28 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWhncW5heUpNZTgtU0lQTjhRNVZUTWhHQ0RYcVhnX0pROHVuWU96NUpuTnZfM0tkWXN2SDUzeDRUWjYtX0pTV2hIVVRxWVd3ZGtxQXBVT0FldXBUZFN3aENWbTlvMGFwY1BnWHN5LXcxZllwWURPWkZJLUg0VnJyZ1FGaGxQYUtBbGljaDdwSzlMaHhDUkwzQVJBa0ROZjJqTG5GeDZsOTFuLTdtQTFHSWhUYlJHOTZNMGw1Sw?oc=5)
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFBWU21Nc1RUdm9PbHdBM3A0R3hJazRqWjd2dWl5ZVBpSW1aekVPNVBmdlhBWFZDbzdmYW91YnYzeGRzTVp1bkdacjByMFU2R0UzZXZ1NVVDbEMybEdiVktSVjJHQXhCSG9YUVRHZk9CdzBMdzBvVmpyc3JIQ3hYSHUxTmJzRUJPa3lzdGJFcjZ0TUp1emFiS3l3aVVlX2k0eEZzVHZsNmY5VTk3aGNzaGVVMlgxUXlCRnNvZ3lmSzJydjZJVkZBSm0zdFhEVExmZFM0N3lReFJocDQ?oc=5)
 
 ---
 
-### [Man diagnosed with stomach cancer aged 31 shares first symptom he noticed](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+### [Another B vitamin linked to worse outcomes for cancer - Jacksonville Journal](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
 
-2026-06-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWVTVUVHSUpLZUJjbHBWRkRpMjlGeG9NdTRBZmxSN3pRSkt1U3J0RXNrY1JpRC0wNE12a0l3MXVmLWU0UWJBNXF0VHpYZG1QaXRCQU5GeFA0RkUwaFhJM2hWVE9PWGhzT3BlQW4yczBCaVJZYzZxUFJCSHJXYkJpQVdCMUcxVmhJM1MxMGs1SVQ?oc=5)
+來源：[Jacksonville Journal-Courier](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
+
+---
+
+### [Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
+
+2026-06-27 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5)
 
 ---
 

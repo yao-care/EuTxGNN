@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+---
 
 ### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/pregabalin/
 
 ---
 
-### [Forschung am Uniklinikum Bonn: Wie eine neue Zelltherapie Rheuma-Patientinnen wieder Hoffnung gibt - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+### [„Ich hatte nichts mehr zu verlieren" – neue Zelltherapie gibt Hoffnung - General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 2026-06-28 <span class="news-indication-tag">arthritis</span>
 
-來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0hDM2otalJGRExkUXYzMFBTOXVRa1FDNVRDNnZXX2xpTWdfRW4yeGUyMFZCTWJfYXJ0cncySUZZWFpEMi04dTJFbXFrbDdHM29wc2ExMXcyNkhtNG5XRG5sUWswcW0tZXVmSWdnaWFYZ2ZKc1ZUSGlmc09QT053UC1rdmRrOHRZUU5ZNTBGcHVnY3JTM05LUzN4bDA1MTNOcGlYZHNCR0tOOWhFd3hkUThwZ0xOa3FCcGFQUXlWM2VLRzRZT0V3?oc=5)
+來源：[General-Anzeiger Bonn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmI2QWJkVjd2MFY1SHFyT3ViYUJkaVZpc0trUllkV25nOFpTNnlqem1GWDNQUnRGYmh6blFMTnYwaXJpM2ExbUFhUWlVWWtjMllCcS1FTlIxV3FrR25BR2V3VnJrM0ZJTlB3R29JRU9CWGt2YkgtN0ZLWHFtNjJ5Y2lqUEtIczQ4M1RRYktTdF9iRFBvQVFJMXdOM3lKWkF6YW02MFFzTElIMXVXRzUtSWc5LVNpT0EyRTZSOEJETTVXOVlFZHc?oc=5)
 
 ---
 

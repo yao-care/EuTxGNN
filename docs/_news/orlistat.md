@@ -54,9 +54,17 @@ permalink: /news/orlistat/
 
 ## 相關新聞（8 則）
 
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+---
+
 ### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
@@ -78,19 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [GLP-1-Medikamente: Krebsrisiko sinkt um 41 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
-
----
-
 ### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
 2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+
+---
+
+### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
+
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
 
 ---
 
@@ -107,14 +115,6 @@ permalink: /news/orlistat/
 2026-06-28 <span class="news-indication-tag">AVC</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXFubnd2dnQxM1NxNXlMaXpYMU9JWkhRUlJNZFBuejJXVjBRZW9TcDh6SWZuOU9uN1NnOVdGZ3o5ZmxlNWVWMGZHYjhUVjU4WjYtd0l3WFIyYWtGTi1pSUY0elpaRTRRLUZhM3BpT2RhcUVmMXFRN1lYcFF2Qmp4b0VJeVRkODZZUjFRV3JkTWVSaFc2Y3MwWEZyVXkyeWY2SnpLb0JPOWUyczhrS0dvWU5EeHA5ckI5THprT1lDeDFqVHRtM0FIMW1US0tXZ21oUFlPTVBB?oc=5)
-
----
-
-### [Pressione, glicemia e chili di troppo: i segnali della sindrome CKM che colpisce insieme cuore, reni e metabolismo](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWNkaTB5UXdiWXpsYzZNLWJEY2RfaW9NQ19jLUhrRl9WYkppZjdKampvT3QwcUdNNEk0dk9jNHFPeWdSNF9LNThtRDc4d2JPRTl3VU5xbTNNMDB2Wm1iMkJKOVNZa21nLXdjd1VuVHU3MXJuZXhpMHpEQmpXQTZRTDRxMUlUR0lRRzBfUXhUbE9MYkpka2xLZWsxeC1IeWNMa0lmakJvVmE5aUkyNnBwTlo5UWFDMV9aNDNsV1FRcTdRZHBpbkV4YVItTVFjTEdHdXZZVk1nLUc4NURvS1RBZm1xTjY3bHRFa2JpdVVn?oc=5)
-
-2026-06-27 <span class="news-indication-tag">obesità</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWNkaTB5UXdiWXpsYzZNLWJEY2RfaW9NQ19jLUhrRl9WYkppZjdKampvT3QwcUdNNEk0dk9jNHFPeWdSNF9LNThtRDc4d2JPRTl3VU5xbTNNMDB2Wm1iMkJKOVNZa21nLXdjd1VuVHU3MXJuZXhpMHpEQmpXQTZRTDRxMUlUR0lRRzBfUXhUbE9MYkpka2xLZWsxeC1IeWNMa0lmakJvVmE5aUkyNnBwTlo5UWFDMV9aNDNsV1FRcTdRZHBpbkV4YVItTVFjTEdHdXZZVk1nLUc4NURvS1RBZm1xTjY3bHRFa2JpdVVn?oc=5)
 
 ---
 

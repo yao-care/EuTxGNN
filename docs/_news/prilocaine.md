@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（25 則）
+
+### [Ausschreibung: Sonderforschung Angeborene Herzfehler (AHF/EMAH) 2026 - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE14ZHoyRDYwV052bVgycGt2WWNFcElNNjMyZXFBX1oyVmYteEFXaEZub2Jzbm9ieHZkRTNiTXZxM29kRU5MbGtFQUc5cw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE14ZHoyRDYwV052bVgycGt2WWNFcElNNjMyZXFBX1oyVmYteEFXaEZub2Jzbm9ieHZkRTNiTXZxM29kRU5MbGtFQUc5cw?oc=5)
+
+---
+
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+
+---
+
+### [Scientia semper tecum | Conocimiento Farmacológico y Apoyo a la Decisión Clínica](https://news.google.com/rss/articles/CBMiiwNBVV95cUxOWUxtcnBEdTJ5bGkzMjlGclhqSTQ1Z0lHUy1udkhwOWptczZ0RlFwVUhSTzNmQnR5M1pxTW9jYU1PRFFSNHZCQW9FOVFvTmFkemNMS3VTdThnSjZYN01hQ0gyMDQzLWxkRVhuMVoyT0phMmxGdlBGZXRYSmxPdVh5Y2ltdF93M1dIVVIzWHBkd096cnpoc3ZMV2xYYVo0c2MxM1IwRVVsbEhPeEt1STlWX05faUpjVW0yOWU5NE02QVNpbnZKLWFRLXRreVVxOHJfdi1PZDF5c0hlRHF4M2xWNFRlcjBVY1V2N1RkbjhuY05nMUJEdWQwN2JERFpxSXJzMXlZRGtVUUszQTlUZ0VrVjlIVm1ocnh6LXM5c0FjTzJlU1dsYXhfYUYwVXh0Y2RhS0JjZWV2dnFieXhZbGlKUmJOcEE0b0xNQmI1SDRTR1BGZkFwRXdmMW5LVkdqMHg0RlVESGlCRHNmdWtmUExfMkh0LVVkNmNSRm8zdHN2SF9kZTFXNTZIbE95NA?oc=5)
+
+2026-06-29 <span class="news-drug-tag">Cetuximab</span> <span class="news-indication-tag">AF</span>
+
+來源：[Vademecum.es](https://news.google.com/rss/articles/CBMiiwNBVV95cUxOWUxtcnBEdTJ5bGkzMjlGclhqSTQ1Z0lHUy1udkhwOWptczZ0RlFwVUhSTzNmQnR5M1pxTW9jYU1PRFFSNHZCQW9FOVFvTmFkemNMS3VTdThnSjZYN01hQ0gyMDQzLWxkRVhuMVoyT0phMmxGdlBGZXRYSmxPdVh5Y2ltdF93M1dIVVIzWHBkd096cnpoc3ZMV2xYYVo0c2MxM1IwRVVsbEhPeEt1STlWX05faUpjVW0yOWU5NE02QVNpbnZKLWFRLXRreVVxOHJfdi1PZDF5c0hlRHF4M2xWNFRlcjBVY1V2N1RkbjhuY05nMUJEdWQwN2JERFpxSXJzMXlZRGtVUUszQTlUZ0VrVjlIVm1ocnh6LXM5c0FjTzJlU1dsYXhfYUYwVXh0Y2RhS0JjZWV2dnFieXhZbGlKUmJOcEE0b0xNQmI1SDRTR1BGZkFwRXdmMW5LVkdqMHg0RlVESGlCRHNmdWtmUExfMkh0LVVkNmNSRm8zdHN2SF9kZTFXNTZIbE95NA?oc=5)
+
+---
+
+### [ECO 2026: Adipositastherapie mit Semaglutid senkte das Gewicht sowie das Risiko für Migräne und kardiovaskuläre Komplikationen bei Frauen in der Menopause - Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMisAJBVV95cUxQY2ZvTkkxNlI2WnRsaGR1a0dhNnRGclRuSmhPaDNIWkNZR0stOXV4VVRraTN4ZUJEV2RfUjlSVm9OQnhsTnk0MFVkN202LW5SOHFORzJ5X3cyR3RSeXhEQ2tzZldtMEV6UHZKMzJMbkJGUi16X3dtakphYkowWGRUZGpXSXNnZ3BCdGZ2dnNxdGNpTlIwanJHMllzQ1hxajVVcUhPamVnVEdfYkZwYVlVRWpabTcyU2VRSDNKRVBFbllJSTBaWU1jVEZ2R3QtaTVFbG9fLWVEdjdhRU5sd0pOTzM0ZWtoMjFGeVhidnJxNDRFUlZnbTJMejV4RTdFUDh3THBwdEtVTk9hN2pmTFBMT3p6S21yby1PUHd1NUUxSXZpTEl1cC1Za3JTZ21xaEsz?oc=5)
+
+---
+
+### [Pilar Merino, oftalmóloga: “Si a un niño que está en pleno desarrollo de su agudeza visual le pones gafas de sol, le disminuyes la visión” - La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxNWF9DOGtoaEpUeWhzaFkxYmpKbXdpV29vV2xuSjlKREpWMEQtQWJVTVI5WW9ZNFhXaDBlY21MVFc5dUgyZkk0aV9ZUUdsTl8xcEk3VjhyWFNTQjJmQndhX2hpanpMQnhQU2NDQjZXS1gxQ1ROclFzVElhMkpWME45QWowSUJnbnI0TGZfWEdFY0toUDdqNVJ3bGRWYXlteUZILVJEaHVWMThYZ2lkbEdKVW9Lb2N2TFZZNWVQT1Qzc2I4ZXAyVEUzLXFYY2xqSjFOYmlDTHowaHhZSW1yMktBazhleGNfUnV3NmhVTF9CZ2tNQ0FqTWFBMWJyX2RqenZuNm5ORDR4aG95MEpsaWfSAZMCQVVfeXFMUHRxUEZIUlJ0SVBMMzlEMGFMS21mUEExeEJBZW9STENNTks5VHVmWUtqak50Q1oyWUZYVXhYV2R4RXIwNTg4S25ka1dWV1JoS0p3aUtISmNhbHF5VThYeGJqU0tQUGdXYXRkeWlBeWNfSXl2VTB1UGxHUGFTcG4zSk45bHdVNFA4Ym50SlFkeV96cTZxZGRSLW42QTIwekxjU3pnQ19ablRScmNjdkVVUk1xU1hPeGQxVU81MWUzNS12ejZjaUxtX3BGbTRCWUd3aDRpVlc0dUFySVVoX3duUjhhOE1pNXBNQ2xOUjRXUFpHSHFTdzZxekJaSzJmWTJZMWd1Um85Z0wxbEtGNFhLREltZ2c?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxNWF9DOGtoaEpUeWhzaFkxYmpKbXdpV29vV2xuSjlKREpWMEQtQWJVTVI5WW9ZNFhXaDBlY21MVFc5dUgyZkk0aV9ZUUdsTl8xcEk3VjhyWFNTQjJmQndhX2hpanpMQnhQU2NDQjZXS1gxQ1ROclFzVElhMkpWME45QWowSUJnbnI0TGZfWEdFY0toUDdqNVJ3bGRWYXlteUZILVJEaHVWMThYZ2lkbEdKVW9Lb2N2TFZZNWVQT1Qzc2I4ZXAyVEUzLXFYY2xqSjFOYmlDTHowaHhZSW1yMktBazhleGNfUnV3NmhVTF9CZ2tNQ0FqTWFBMWJyX2RqenZuNm5ORDR4aG95MEpsaWfSAZMCQVVfeXFMUHRxUEZIUlJ0SVBMMzlEMGFMS21mUEExeEJBZW9STENNTks5VHVmWUtqak50Q1oyWUZYVXhYV2R4RXIwNTg4S25ka1dWV1JoS0p3aUtISmNhbHF5VThYeGJqU0tQUGdXYXRkeWlBeWNfSXl2VTB1UGxHUGFTcG4zSk45bHdVNFA4Ym50SlFkeV96cTZxZGRSLW42QTIwekxjU3pnQ19ablRScmNjdkVVUk1xU1hPeGQxVU81MWUzNS12ejZjaUxtX3BGbTRCWUd3aDRpVlc0dUFySVVoX3duUjhhOE1pNXBNQ2xOUjRXUFpHSHFTdzZxekJaSzJmWTJZMWd1Um85Z0wxbEtGNFhLREltZ2c?oc=5)
+
+---
+
+### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+2026-06-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+
+---
 
 ### [Tertiärprävention bei an MS erkrankten Menschen - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
 
@@ -62,19 +110,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Wie Hautzellen Stress erkennen: Forschende entdecken Aktivierungsort eines wichtigen Immunrezeptors - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE05cEFvY3NYVmRmODlubW9KTDFuS3E3REttZ3RvdTZEMGpRZEp3bGx0eVBBVGpGZ2hrWko1cEF0dEdpTElCRUVFNDJnOA?oc=5)
+### [Una ‘calculadora’ para medir el riesgo personal de sufrir miopatías por uso de estatinas](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWE5TlpiS1UwNjhqSldhTmhjYUNpamxVVENFN1d4OUppTFFKWWpBODdsenl5TnRGcVI0RkdpYTNOQXhJMUZLSVZybkViV2JxZlVHQzRkdi13RHQwUm1XbWhqQ1hqenJxa2ZwY3V1VDFvTFYxdkd6cndUanNlYnY1S3NTMmF3UlJPR0hOWUZzYWk1a0ttSTJyWWptUEFSeEtZLUp2X3FSSEtsUGQzWEJyVk9wcktmRzhqc0ZwZA?oc=5)
 
 2026-06-29 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE05cEFvY3NYVmRmODlubW9KTDFuS3E3REttZ3RvdTZEMGpRZEp3bGx0eVBBVGpGZ2hrWko1cEF0dEdpTElCRUVFNDJnOA?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWE5TlpiS1UwNjhqSldhTmhjYUNpamxVVENFN1d4OUppTFFKWWpBODdsenl5TnRGcVI0RkdpYTNOQXhJMUZLSVZybkViV2JxZlVHQzRkdi13RHQwUm1XbWhqQ1hqenJxa2ZwY3V1VDFvTFYxdkd6cndUanNlYnY1S3NTMmF3UlJPR0hOWUZzYWk1a0ttSTJyWWptUEFSeEtZLUp2X3FSSEtsUGQzWEJyVk9wcktmRzhqc0ZwZA?oc=5)
 
 ---
 
-### [So profitiert die Psyche von einem Smoothie oder Direktsaft pro Tag](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVVQZHE0X0FXYWIxeFdhR05tTEdtd3lZcEtTNlNobGZqa05aX1kxVllqc2ZIQ3NMbjA2OGN2ZFVOTnhQZnkwZjRudzQ5b0lyUzVqVXdKNVFVZW9uMjY0d0FhSF9LYW5kemVZRkQ3MGpxYkhnNzRUTUdRNG44eFEySU9UVUZ6VktOc3JZUGZpaWRJUlkyS0JsdDd0TGdfLTdPbXlWdmdydTg2VWFpSnRzdkNkaExlV1FUOUhYVEZ1T2pKeGw5QnIw?oc=5)
+### [Wie Hautzellen Stress erkennen: Forschende entdecken Aktivierungsort eines wichtigen Immunrezeptors - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HMjhaeklFbm04VUNNb0RWWjhQMDJHOXU0Vzk4UFhqVVJGekIzX05qaEZtV1N3aG1Kd2VpMUd1V0hSWlU?oc=5)
 
 2026-06-29 <span class="news-indication-tag">AF</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVVQZHE0X0FXYWIxeFdhR05tTEdtd3lZcEtTNlNobGZqa05aX1kxVllqc2ZIQ3NMbjA2OGN2ZFVOTnhQZnkwZjRudzQ5b0lyUzVqVXdKNVFVZW9uMjY0d0FhSF9LYW5kemVZRkQ3MGpxYkhnNzRUTUdRNG44eFEySU9UVUZ6VktOc3JZUGZpaWRJUlkyS0JsdDd0TGdfLTdPbXlWdmdydTg2VWFpSnRzdkNkaExlV1FUOUhYVEZ1T2pKeGw5QnIw?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5HMjhaeklFbm04VUNNb0RWWjhQMDJHOXU0Vzk4UFhqVVJGekIzX05qaEZtV1N3aG1Kd2VpMUd1V0hSWlU?oc=5)
 
 ---
 
@@ -102,27 +150,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [El diagnóstico precoz y las nuevas terapias están cambiando el pronóstico de los pacientes con esclerodermia - Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUkFxQzBwT1ZzOThDNU1CT0J6cUdQRHJhbm1ReDh4dVlmN19rUnpIYVJMUjNQcE1ZR2FQQ2tmZk9LaWUyaXgwRnFTUzlUanZCdFMtM21SWlBfdjJCSUtSTXNlMUFxZFcwR0dzSDZNS0lCLXpqTVpjVFpaVUdIbi1KSFF0NEo5Nm9mVjZWTU5qMFloS2ZTRlUySDRsblZmRjRPS0tQaTdha19YNW42Z3VxVU5OcFl0b3p3dDJCX0pEX3paMTk2dFdyNFpqSWFrUjJGV3pMaGdpeXpYdDZYSF9Ebw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">AF</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUkFxQzBwT1ZzOThDNU1CT0J6cUdQRHJhbm1ReDh4dVlmN19rUnpIYVJMUjNQcE1ZR2FQQ2tmZk9LaWUyaXgwRnFTUzlUanZCdFMtM21SWlBfdjJCSUtSTXNlMUFxZFcwR0dzSDZNS0lCLXpqTVpjVFpaVUdIbi1KSFF0NEo5Nm9mVjZWTU5qMFloS2ZTRlUySDRsblZmRjRPS0tQaTdha19YNW42Z3VxVU5OcFl0b3p3dDJCX0pEX3paMTk2dFdyNFpqSWFrUjJGV3pMaGdpeXpYdDZYSF9Ebw?oc=5)
-
----
-
 ### [One person a week in England dies with undiagnosed TB, study finds - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
 
-2026-06-29 <span class="news-indication-tag">AF</span>
+2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
 
 ---
 
-### [Más de la mitad de los pacientes con esclerosis múltiple (51%) ve afectada su vida social y el 48% su trabajo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3B2NDRvcWdXY2lLU1BEUHJRN3VCXzlwSEhVcmN1bUdQRjdPcmRZZXBHSHViQ29BMjUzRHNUMm1tQ3J2MDRaT09HQVhYSXVJd2hsNk5TTFBycFV1YWZuQUFFLWVYb1FxUGtYR1F6N3o3RGczakU4Q21hZXNmUmVnOGs4MXVVY01qTmRwcjlwU1FZUjZaYWdKZDd0RUkwRlpRcEY3V0tvZHREOGU1UnQyMXlPbjNfSU1uTnhKR1F2NTJRRFBYMzJJTXhPQmU5d1FkbHFMV1MxdWRxYVVFUWl5VDBod0R2Zw?oc=5)
+### [Vitamin-D-Mangel in der Schwangerschaft: 78 Prozent betroffen, Dosierungsfehler bei Jod und Folsäure - it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzdnUmxMSGRXaEpVSUFzdUlHSWh6RFJyRk9ROVdxcGZjQ25xT0doME4zNnVJaGhSaWZXV1lldU1xT2RBMWIyVFg0NmhMNEd2WkYtZHVTU2RFZ1lPWFN5eW1BQnpuUTduUkV6eVhVRk8zRElpQUJTNFBUbTVEOTQ5SFA3LVI1d0VhSzNKQ3Z1RUpvLURTSzgxMmxBRGRFeTFWTnlsZV9uT2pYZERyd3J1QnExc2hKSy1jSG9RdHUxWEc2VzJDU2JTZ21zWQ?oc=5)
 
-2026-06-29 <span class="news-indication-tag">esclerosis múltiple</span> <span class="news-indication-tag">AF</span>
+2026-06-29 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3B2NDRvcWdXY2lLU1BEUHJRN3VCXzlwSEhVcmN1bUdQRjdPcmRZZXBHSHViQ29BMjUzRHNUMm1tQ3J2MDRaT09HQVhYSXVJd2hsNk5TTFBycFV1YWZuQUFFLWVYb1FxUGtYR1F6N3o3RGczakU4Q21hZXNmUmVnOGs4MXVVY01qTmRwcjlwU1FZUjZaYWdKZDd0RUkwRlpRcEY3V0tvZHREOGU1UnQyMXlPbjNfSU1uTnhKR1F2NTJRRFBYMzJJTXhPQmU5d1FkbHFMV1MxdWRxYVVFUWl5VDBod0R2Zw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzdnUmxMSGRXaEpVSUFzdUlHSWh6RFJyRk9ROVdxcGZjQ25xT0doME4zNnVJaGhSaWZXV1lldU1xT2RBMWIyVFg0NmhMNEd2WkYtZHVTU2RFZ1lPWFN5eW1BQnpuUTduUkV6eVhVRk8zRElpQUJTNFBUbTVEOTQ5SFA3LVI1d0VhSzNKQ3Z1RUpvLURTSzgxMmxBRGRFeTFWTnlsZV9uT2pYZERyd3J1QnExc2hKSy1jSG9RdHUxWEc2VzJDU2JTZ21zWQ?oc=5)
 
 ---
 
@@ -131,14 +171,6 @@ permalink: /news/prilocaine/
 2026-06-29 <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
-
----
-
-### [Schwangerschaft: 98 Prozent nehmen zu wenig Jod auf - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
-
-2026-06-29 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjMxLVgxb3lVYTdvdkJOai13Y0pFQnUxU09PUncxcllpYWJicEZ4RVBpbHlEa3M2dGtiRDBNUlpqYW0yY2tjQTk5aFphZFJ2NjZFTzhDVVNLbjNtWVFWQlNCVGZfNm5QZGJmZVhDUUhQa3JZbG5GUnJOTUlkakR2aGFtM0M0VlNKWEZxTzYwYWtZU1N6bkdWcFJCckVucVVD?oc=5)
 
 ---
 
@@ -168,7 +200,7 @@ permalink: /news/prilocaine/
 
 ### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
 
-2026-06-28 <span class="news-indication-tag">EPOC</span>
+2026-06-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
 
 來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
 
@@ -198,11 +230,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Correr cambia al corazón ¿cómo afecta la edad, el sexo o el nivel de entrenamiento?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNNQ0gzU3pUd0xlOFNYQzFtd0NLWVRMYm42VmZmVDA3aDhsZVhfLW9Pd29fb1RrSFd0eGZCcndjTGY1UDFEZGh1YVY3ZFVFcDFlaVRwVUNPcFFxbzdWZ2R0czRPS3hDSnEzUGxZcVE1UnUzc1gxcmxRTHNsOEgzc0xEak0tNGNONVJvMVBrempicWgtRUFvdF9ZV1lrMUdMYkMwYVR3cGs2OWN2SWFXdFBLRF9HWnJkZmpV?oc=5)
+### [7 Best Cat Breeds for Seniors That Are Affectionate, Calm and Easy to Care For](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9udTlvdTBKUjBLdG5hSFBzUW01MTZpVnZvQ2JwTnJVNHJMRDJIa1FLWHZVc3lRbFZJTnZfcVVHMjNQc1hmUmdRVWlDeFBJOWV4cnhBeDVYcF8tb3VDNVJ0bzY4ek0?oc=5)
 
 2026-06-28 <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNNQ0gzU3pUd0xlOFNYQzFtd0NLWVRMYm42VmZmVDA3aDhsZVhfLW9Pd29fb1RrSFd0eGZCcndjTGY1UDFEZGh1YVY3ZFVFcDFlaVRwVUNPcFFxbzdWZ2R0czRPS3hDSnEzUGxZcVE1UnUzc1gxcmxRTHNsOEgzc0xEak0tNGNONVJvMVBrempicWgtRUFvdF9ZV1lrMUdMYkMwYVR3cGs2OWN2SWFXdFBLRF9HWnJkZmpV?oc=5)
+來源：[ParadePets](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9udTlvdTBKUjBLdG5hSFBzUW01MTZpVnZvQ2JwTnJVNHJMRDJIa1FLWHZVc3lRbFZJTnZfcVVHMjNQc1hmUmdRVWlDeFBJOWV4cnhBeDVYcF8tb3VDNVJ0bzY4ek0?oc=5)
+
+---
+
+### [UKHSA message to anyone taking Citalopram, Fluoxetine or Sertraline - The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQelZVNjEzWVNpR0FsR2hLajhUaVptMnp0RXYxdWRwNTc0MWNrbkwyUkNqZGd1aW02UGdndFQ4WUZoV04wXzc3QklxRmNsOUxaVGF4eHRfRjdtTFVRcjlsZjl1UHl3ak9rZXRMUlVwVjJnVlNOcTNXcmozeEhrdTdVX2gtb1JJZU5vaGdxSmhzTFkzY0U?oc=5)
+
+2026-06-28 <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQelZVNjEzWVNpR0FsR2hLajhUaVptMnp0RXYxdWRwNTc0MWNrbkwyUkNqZGd1aW02UGdndFQ4WUZoV04wXzc3QklxRmNsOUxaVGF4eHRfRjdtTFVRcjlsZjl1UHl3ak9rZXRMUlVwVjJnVlNOcTNXcmozeEhrdTdVX2gtb1JJZU5vaGdxSmhzTFkzY0U?oc=5)
 
 ---
 
@@ -211,22 +251,6 @@ permalink: /news/prilocaine/
 2026-06-28 <span class="news-indication-tag">AF</span>
 
 來源：[El Mirón de Soria](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUWZZdVRzNXFKZW8xQnlkdWtVem1nNXcya3h4UHViclB5cG5ickdTSGRqT0JNeE9PcmdsQ2d1UmpZTDFQU2RtUUd3b1Q5QXFfVDNzU3BHRXlnTVdDbGpMZkVKR3k5VUE0RGpzNEdMQl9VdUxJb1NDbXkxbS1LVHFDM2FPR3dVRXhmWUhsd1BsaE5ucjNEVDZhUWp2QTRNMVRXTGVEVjM0NW5qWVBLRmlTYmowd9IBuAFBVV95cUxQdTB1dFJOcVF3MTdNVFpUZmxpc2VjWGozeGo4RE1mTU9pMGlTUmswQ1dFcW5ZQ0FUNERmbEd4SWFUM2prenpjM1cyQWZtRnFuRTFVSE9ScHhyWWFCM1FaU2hwVVZNS1E3Q3Q4Wm1fQURKU3laYWQ1eXlUMGVfUEE5aF9WMExhRkJxcVpOMFB5aUZfTXl1VXFYNFBLLUdMVVc1NV96b0liOU1ONkRaaW9KT010alNneTBX?oc=5)
-
----
-
-### [Debs would be amazed at legacy, say family after Bowelbabe fund raises £21m](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVNsemtUWC1DOTZVeTU2Y09SRV9CSGxfOUo4c3VSRGdaSlVMXzJfamp3TXdKd2Z2SUFHMHJmYWkzOEVFVkc2SjBKVVE1eWg3RTRiS0Q1ZUlNSlF4SGNFZHI2SkV3cUU4YjBleGZyUmJXbUtzSlJGS29BdkZIaDk5WFoyOEo2bjN6TUE?oc=5)
-
-2026-06-27 <span class="news-indication-tag">AF</span>
-
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVNsemtUWC1DOTZVeTU2Y09SRV9CSGxfOUo4c3VSRGdaSlVMXzJfamp3TXdKd2Z2SUFHMHJmYWkzOEVFVkc2SjBKVVE1eWg3RTRiS0Q1ZUlNSlF4SGNFZHI2SkV3cUU4YjBleGZyUmJXbUtzSlJGS29BdkZIaDk5WFoyOEo2bjN6TUE?oc=5)
-
----
-
-### [Protuberanzen am 27. Juni 2026 - Bild 2 - die Sonne bereitet wieder viel Vergnügen - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXRqc1EwdFNZTUZlT1RkcWtqUUVhR1NSSXNlckhFN2VzakItUjByNEtNbUVMN2dIU2diTWRJNE1fVlVLdnpFbGprN0xCUjQ4TUpkVVk2TUJLR245dkNVSnNSbW1BTkcxVE0tTjNDLV9hcTZwNHF1ZE53TnEzU2NPNUFjajZOdWo5QlVXNHJ0N3hiTlVmNVFjNEZwV3pMQWZ2Ty1PYk9vR0RtMUpMdVV3QTNjLTh5a1pNTGRQUE9id2dodw?oc=5)
-
-2026-06-27 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXRqc1EwdFNZTUZlT1RkcWtqUUVhR1NSSXNlckhFN2VzakItUjByNEtNbUVMN2dIU2diTWRJNE1fVlVLdnpFbGprN0xCUjQ4TUpkVVk2TUJLR245dkNVSnNSbW1BTkcxVE0tTjNDLV9hcTZwNHF1ZE53TnEzU2NPNUFjajZOdWo5QlVXNHJ0N3hiTlVmNVFjNEZwV3pMQWZ2Ty1PYk9vR0RtMUpMdVV3QTNjLTh5a1pNTGRQUE9id2dodw?oc=5)
 
 ---
 

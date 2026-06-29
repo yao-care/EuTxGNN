@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Schützt GLP-1-Rezeptoragonist vor frühen Schlaganfall-Rezidiven?](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZyTXZMWlpvaVVXeXZ2d1ZOcC11Tm5PQURMVk16NDB2VXdjTFJqdjVoOE9LaVF1WGMwOHFVcXdWMWx5UUR4c1N4dlc0cERoWlZfall2LUNFeDlDcXhJbXZaOTlyNmJvM0FYbGdmcEtsdENJRHNjYVBIM1VWTG8zMUFsMVFIejJGQ095cmxibURyWDdUZVlHSDJzbXRIOFBHNGVoXzZtTHpUZm92MV9hRjhaVVE?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/simvastatin/
 2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+
+---
+
+### [Comment les reins influencent notre mémoire et nos capacités cognitives - 20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
+
+2026-06-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
+
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
 
 ---
 
