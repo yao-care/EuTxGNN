@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Creatina: por qué el suplemento estrella del gimnasio ahora se estudia contra la depresión](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmZacGRjd2JjNWxWVWQwMVBiRlFJdHdNNnFaVmVFX3VaUWdERmM2RlBhRXY0MThFZlNELWFISVkzcTZBcjhhcVVueUExQXBMY09YaDJuVFlSSi1WWlV0OFc4ZmZCdVJOZXplTkUwLUYwdDczaWpEdmRJZFVPRGhjVHdNeEgzZjF0LTVOTzVnY0g2dW5pZ20xN0NZMmp0TDQ1ZEZuUEkwWXU4cXJYem43c2NPb3U3dTVNenRwU2dnblJlbnhzTGwwSmJZaVhVU2x2eWREdk1WOXlBZw?oc=5)
+
+2026-06-30 <span class="news-indication-tag">depresión</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmZacGRjd2JjNWxWVWQwMVBiRlFJdHdNNnFaVmVFX3VaUWdERmM2RlBhRXY0MThFZlNELWFISVkzcTZBcjhhcVVueUExQXBMY09YaDJuVFlSSi1WWlV0OFc4ZmZCdVJOZXplTkUwLUYwdDczaWpEdmRJZFVPRGhjVHdNeEgzZjF0LTVOTzVnY0g2dW5pZ20xN0NZMmp0TDQ1ZEZuUEkwWXU4cXJYem43c2NPb3U3dTVNenRwU2dnblJlbnhzTGwwSmJZaVhVU2x2eWREdk1WOXlBZw?oc=5)
+
+---
 
 ### [Postpartale Depression: Zuranolon ab Juli – erstes Spezial-Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
 

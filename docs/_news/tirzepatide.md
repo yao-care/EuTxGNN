@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（2 則）
 
-### [ROMS: New scheme announced to tackle obesity in Northern Ireland](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNXNLYkVxMlpaZDhIM0FqU0ItSVdrczc2NGEtRTdaeUdvM0tOZE8ycUFIdkNKME5GMzBOaHN3OTZZajhndFg3cEE4allMdVJWUDhyb0lNRWIxUkJs?oc=5)
+### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
 
-2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-30 <span class="news-indication-tag">arthritis</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNXNLYkVxMlpaZDhIM0FqU0ItSVdrczc2NGEtRTdaeUdvM0tOZE8ycUFIdkNKME5GMzBOaHN3OTZZajhndFg3cEE4allMdVJWUDhyb0lNRWIxUkJs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
 
 ---
 
-### [Lupus und Arthritis: 90% erreichen Komplettremission durch CAR-T-Zellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
+### [Mounjaro pilot to bypass GP appointments in parts of UK - Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 
-2026-06-28 <span class="news-indication-tag">arthritis</span>
+2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
+來源：[Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 
 ---
 

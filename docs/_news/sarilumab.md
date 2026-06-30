@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+
+---
 
 ### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hY0hMYjJxeVdBWUlMR3VlelhNb0hURUM0THFPSl94SU83eUk1SFNJQTdDMjZoYnhBeW9uNnBHOHo2Q21lTmZhX3ZBdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hY0hMYjJxeVdBWUlMR3VlelhNb0hURUM0THFPSl94SU83eUk1SFNJQTdDMjZoYnhBeW9uNnBHOHo2Q21lTmZhX3ZBdw?oc=5)
 
 ---
 
@@ -83,30 +91,6 @@ permalink: /news/sarilumab/
 2026-06-29 <span class="news-indication-tag">enfermedad de Crohn</span>
 
 來源：[labmedica.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0Y2dlNTZ2k2dFVxN2dNd0lTdDFCUWpoWGJmaGpqTko4dkhlT2QxWUdoeERzTjJGa0xlai1kOE9xdTNaYXoyc0ZGVVdDTnZrd0hhdVRnbWFHVGZ3ZkpUVXFzc2xzTWp4eVVva1NjaHQ4N3AyamFBT21WM2tVbGpINk1Jb1F6YlBaUHFvdW5STjh4Y0ZHSGZWUHRjQTAyTy1wOXc1bDJLVmlMa1ljaG8xTTVKR0tVYzFYTjZ5SndONGVscHI4ZGtoOV9wQTJBbGwtb3NyektiT25Ob3BuTDZOcEdfQ1XSAe4BQVVfeXFMTW9CbFpxWXRUeXhMcE9FclJoVDdRMlpQRnVkMFJjOS1vRGt3OGFqc3d4NVJKYUxFdFozenJnZHVhQ0dqZ01SLVRLZlN2Q2ZyV21KbW9DVmlGcXZ5blBXcWV5eWJ5QzlKUTNVWFlYRGFTc2daRG13bDNTZTByQl9VZTh1aFRwUmhCanNMNlRnSXVRb3VSaktxc2dkQ2wwUDd3R0lHNkZMNDFzcTlfQWpQMTk4WFNZZDFISG9USVpqUUhQYkRqTWxtNFpic0xYYU9ScUxBSFp5MnN6Nk4zamFlLU1pTWhqdXVkcTdSOTg3UQ?oc=5)
-
----
-
-### [Lupus und Arthritis: 90% erreichen Komplettremission durch CAR-T-Zellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
----
-
-### [Voici l'étonnante découverte de chercheurs sur le lien entre la bière et les piqûres de moustiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
-
-2026-06-28 <span class="news-indication-tag">EPOC</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
-
----
-
-### [Mantener controlado el colesterol a largo plazo reduce el riesgo cardiovascular tras un infarto - Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzcxRWpmNWtjQWxkdUdYN09jR0pCRDlIdHhDLXUxN2hEZVY4bWljYTg0anQ1YXRrVnI2cjVTRmdqWGtDUEtYSHJoSExIZUoxR2MxaEFuMXRfV1dmWV9mRjZDMTltc1h1NkFOYUxKYnprSmh6UTc1dk9NdWhzLVVxNmdRNlRud0JVUDVrUTBSQlJrVWNka3NxSzFCdDROWnlKWXZpTXE2VTlJTmF3VVd3Nm9PczFyc1dVaUk3R1NvTmQ1ZGg4MVNuMjJsc0Zrb1E?oc=5)
-
-2026-06-28 <span class="news-indication-tag">asma</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzcxRWpmNWtjQWxkdUdYN09jR0pCRDlIdHhDLXUxN2hEZVY4bWljYTg0anQ1YXRrVnI2cjVTRmdqWGtDUEtYSHJoSExIZUoxR2MxaEFuMXRfV1dmWV9mRjZDMTltc1h1NkFOYUxKYnprSmh6UTc1dk9NdWhzLVVxNmdRNlRud0JVUDVrUTBSQlJrVWNka3NxSzFCdDROWnlKWXZpTXE2VTlJTmF3VVd3Nm9PczFyc1dVaUk3R1NvTmQ1ZGg4MVNuMjJsc0Zrb1E?oc=5)
 
 ---
 

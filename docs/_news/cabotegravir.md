@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+
+---
+
+### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+---
 
 ### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
 
@@ -70,27 +86,19 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Mikrobiom im Fokus: Rindfleisch, Spermidin & neue Darm-Mechanismen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdwUDlwMkF1cUV5Q2VPa3pPa2cyNGdPb1pRZUhBM2RkRGNWV1hSalA0OF9mU0tvZC1pbGRoRXRrcDQ0TGM5d2xhV3JXMGRDWVVhYVRWVExWRUJXY3AyQjdpVERpclNmazFTUTNtWkx3a2o4VnR0d3BIY1Rza2Z3RGppdUdtUlpvLUFBbTBNeWdYYlpvS1UwbmdB?oc=5)
+### [New obesity figures highlight the income divide - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
+
+---
+
+### [Tierische Proteine: Hoher Fleischkonsum verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdwUDlwMkF1cUV5Q2VPa3pPa2cyNGdPb1pRZUhBM2RkRGNWV1hSalA0OF9mU0tvZC1pbGRoRXRrcDQ0TGM5d2xhV3JXMGRDWVVhYVRWVExWRUJXY3AyQjdpVERpclNmazFTUTNtWkx3a2o4VnR0d3BIY1Rza2Z3RGppdUdtUlpvLUFBbTBNeWdYYlpvS1UwbmdB?oc=5)
-
----
-
-### [Lupus und Arthritis: 90% erreichen Komplettremission durch CAR-T-Zellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
----
-
-### [Voici l'étonnante découverte de chercheurs sur le lien entre la bière et les piqûres de moustiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
-
-2026-06-28 <span class="news-indication-tag">EPOC</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 ---
 

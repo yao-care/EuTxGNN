@@ -14,7 +14,7 @@ permalink: /news/dostarlimab/
 ---
 
 <p class="key-answer" data-question="Dostarlimab 有什麼相關新聞？">
-<strong>Dostarlimab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dostarlimab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/dostarlimab/
 <p><a href="{{ '/drugs/dostarlimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（23 則）
+
+### [Tertiärprävention bei an MS erkrankten Menschen, Deutsche Multiple Sklerose Gesellschaft Bundesverband e.V., Story](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU1p6NGFvN0NUd3o4REs0cHI5cEk3RHd1di15UTdLWUxWZzMxVHppbUdqSlhyQTAyVV9oY2lMVnA0cGhjakJzUWpiNzJCUEhLMmh1ZjdNNnEyb0plbEU1dk9PMmZma1dwcHA1Yk1MZ2JJS1htcW5TZXJOSnFpMTBYQkdyQ3hQVDB3ZkE4NnU2dUtXZDFhbWZNcDBGM0JDODRnLWpDWUZ5UDlKNmRwOFpNLTJFblVxaUFtLVNteHcycmpZQW04UVdDMkdwbjFNSVpSaWtvbGh1ZVFpUmhtOUJVWGdFNWZSeXlaNUdJ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU1p6NGFvN0NUd3o4REs0cHI5cEk3RHd1di15UTdLWUxWZzMxVHppbUdqSlhyQTAyVV9oY2lMVnA0cGhjakJzUWpiNzJCUEhLMmh1ZjdNNnEyb0plbEU1dk9PMmZma1dwcHA1Yk1MZ2JJS1htcW5TZXJOSnFpMTBYQkdyQ3hQVDB3ZkE4NnU2dUtXZDFhbWZNcDBGM0JDODRnLWpDWUZ5UDlKNmRwOFpNLTJFblVxaUFtLVNteHcycmpZQW04UVdDMkdwbjFNSVpSaWtvbGh1ZVFpUmhtOUJVWGdFNWZSeXlaNUdJ?oc=5)
+
+---
+
+### [Studie enthüllt: Wer Kaffee aus Vollautomaten trinkt, gefährdet seine Gesundheit](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXlFamp1QUFRLVA5NkU1ZkNrcFg5RzFUTHNtNWpqMU1ySFhrN1hHUG5oM1FmckN0Y0lvRkkyVEJWeU9QMzFfVkMtcFRwVWNKUzV6MndpUVNyT0pnc1liUWlESlpPZlVrcGhmV1FEeE1jXzA2TVh6aU54bmFQS3FoV1FFUU5KMnBCeUpmdE5CWUhhUzRpNHd5eHoxRG9QSlJpYThxWWNkcVJFV25t?oc=5)
+
+2026-06-30 <span class="news-indication-tag">AF</span>
+
+來源：[wmn.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXlFamp1QUFRLVA5NkU1ZkNrcFg5RzFUTHNtNWpqMU1ySFhrN1hHUG5oM1FmckN0Y0lvRkkyVEJWeU9QMzFfVkMtcFRwVWNKUzV6MndpUVNyT0pnc1liUWlESlpPZlVrcGhmV1FEeE1jXzA2TVh6aU54bmFQS3FoV1FFUU5KMnBCeUpmdE5CWUhhUzRpNHd5eHoxRG9QSlJpYThxWWNkcVJFV25t?oc=5)
+
+---
+
+### [Wie Bakterien gegen Antibiotika zusammenarbeiten - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDRaajZKa3hLdU9jTXFZZlpzSy1fZVk4cGdvSWw4VDR5WG9kdFdMdEVIX0xtcTRMNUt4RGJIdExKTUVZMlZZOUZza1NqRUp0Z3hTc01mYVJKWnAydV81WU1hWUxmVHlKYk9iMW51SHRoajdtNkJVdlhKZF92N09TOENTdlhsWDg?oc=5)
+
+2026-06-30 <span class="news-indication-tag">AF</span>
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDRaajZKa3hLdU9jTXFZZlpzSy1fZVk4cGdvSWw4VDR5WG9kdFdMdEVIX0xtcTRMNUt4RGJIdExKTUVZMlZZOUZza1NqRUp0Z3hTc01mYVJKWnAydV81WU1hWUxmVHlKYk9iMW51SHRoajdtNkJVdlhKZF92N09TOENTdlhsWDg?oc=5)
+
+---
+
+### [Gürtelrose-Impfung senkt Demenzrisiko um 24 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTJjUWt6VVZoMkJXYWhwRjBpZnM1NnpqeW5tMFUxNmZQWUdrbTVIX1RWR2hvMUtLRi04Y1E2WEJiSHJib3pRd3h5eUdqZVRQR2RoTElpaFRTZGhsRlpIcklaNXVVaEp3aWRvcS1pc3JlN2drWURwV3Q0R0pXa2kyejRhcnUwTGRrZndGQXdCZlZ3M2JwVWFzWnlEOUctMmNiV2lN?oc=5)
+
+2026-06-30 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTJjUWt6VVZoMkJXYWhwRjBpZnM1NnpqeW5tMFUxNmZQWUdrbTVIX1RWR2hvMUtLRi04Y1E2WEJiSHJib3pRd3h5eUdqZVRQR2RoTElpaFRTZGhsRlpIcklaNXVVaEp3aWRvcS1pc3JlN2drWURwV3Q0R0pXa2kyejRhcnUwTGRrZndGQXdCZlZ3M2JwVWFzWnlEOUctMmNiV2lN?oc=5)
+
+---
 
 ### [Schwangerschaft: 78% haben Vitamin-D-Mangel trotz Supplements - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkJIQXZDczhqQzJQUG9fbGpzcG9Hc0pSNHZPUlZaM3hTYmU1RlBUTlpsVDF4UFotZ25fR1ZDWjV3Y3Zza2FTUHpSemlDSVAyUGtfaXlfNGllZTBDTGNsTHR5VVdoRFNQUmpwTk5hYVZ0NFNvNV9La2dza0JVbzFNM3NVRjVFb0tuZ2xYVHl5Wm1LY21lV3lnRFlWRmlaYUJrM3hZRnZqNG93elBSY1l5R3RPdzRrMjA?oc=5)
 
@@ -70,11 +102,19 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hY0hMYjJxeVdBWUlMR3VlelhNb0hURUM0THFPSl94SU83eUk1SFNJQTdDMjZoYnhBeW9uNnBHOHo2Q21lTmZhX3ZBdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hY0hMYjJxeVdBWUlMR3VlelhNb0hURUM0THFPSl94SU83eUk1SFNJQTdDMjZoYnhBeW9uNnBHOHo2Q21lTmZhX3ZBdw?oc=5)
+
+---
+
+### [Laura Varela, paciente y activista: "Las mujeres con VIH seguimos estando invisibilizadas"](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
 
 ---
 
@@ -86,6 +126,14 @@ permalink: /news/dostarlimab/
 
 ---
 
+### [Früher Krebs bei Jüngeren: Studie verbindet Risiko mit schnellerer biologischer Alterung - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNIcUI5VE1ZanBvdFNCMml3NDQ3NjN2cm9yZndLVnUwdV8tSmE0OVVjRUFJaW5ub3RCN0hBUjdyNDhwNEMxRG1KZG80cmFaSHdaMzY1cUMySERER21JRzVBOWpXcXZsem1fNVVvWEkwMkVwbTNfZWdacHBjdzNWN1dsZjU4cE1lUDd6VG1hQ0RENFNndmdYSTNJLVUyLVBIRXFNZ3NQVDFkVTFYVzM4Ynprdkc3V1ZqTTRkSDNn?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNIcUI5VE1ZanBvdFNCMml3NDQ3NjN2cm9yZndLVnUwdV8tSmE0OVVjRUFJaW5ub3RCN0hBUjdyNDhwNEMxRG1KZG80cmFaSHdaMzY1cUMySERER21JRzVBOWpXcXZsem1fNVVvWEkwMkVwbTNfZWdacHBjdzNWN1dsZjU4cE1lUDd6VG1hQ0RENFNndmdYSTNJLVUyLVBIRXFNZ3NQVDFkVTFYVzM4Ynprdkc3V1ZqTTRkSDNn?oc=5)
+
+---
+
 ### [Pilar Merino, oftalmóloga: “Si a un niño que está en pleno desarrollo de su agudeza visual le pones gafas de sol, le disminuyes la visión” - La Vanguardia](https://news.google.com/rss/articles/CBMijgJBVV95cUxNWF9DOGtoaEpUeWhzaFkxYmpKbXdpV29vV2xuSjlKREpWMEQtQWJVTVI5WW9ZNFhXaDBlY21MVFc5dUgyZkk0aV9ZUUdsTl8xcEk3VjhyWFNTQjJmQndhX2hpanpMQnhQU2NDQjZXS1gxQ1ROclFzVElhMkpWME45QWowSUJnbnI0TGZfWEdFY0toUDdqNVJ3bGRWYXlteUZILVJEaHVWMThYZ2lkbEdKVW9Lb2N2TFZZNWVQT1Qzc2I4ZXAyVEUzLXFYY2xqSjFOYmlDTHowaHhZSW1yMktBazhleGNfUnV3NmhVTF9CZ2tNQ0FqTWFBMWJyX2RqenZuNm5ORDR4aG95MEpsaWfSAZMCQVVfeXFMUHRxUEZIUlJ0SVBMMzlEMGFMS21mUEExeEJBZW9STENNTks5VHVmWUtqak50Q1oyWUZYVXhYV2R4RXIwNTg4S25ka1dWV1JoS0p3aUtISmNhbHF5VThYeGJqU0tQUGdXYXRkeWlBeWNfSXl2VTB1UGxHUGFTcG4zSk45bHdVNFA4Ym50SlFkeV96cTZxZGRSLW42QTIwekxjU3pnQ19ablRScmNjdkVVUk1xU1hPeGQxVU81MWUzNS12ejZjaUxtX3BGbTRCWUd3aDRpVlc0dUFySVVoX3duUjhhOE1pNXBNQ2xOUjRXUFpHSHFTdzZxekJaSzJmWTJZMWd1Um85Z0wxbEtGNFhLREltZ2c?oc=5)
 
 2026-06-29 <span class="news-indication-tag">AF</span>
@@ -94,19 +142,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Una ‘calculadora’ para medir el riesgo personal de sufrir miopatías por estatinas](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWE5TlpiS1UwNjhqSldhTmhjYUNpamxVVENFN1d4OUppTFFKWWpBODdsenl5TnRGcVI0RkdpYTNOQXhJMUZLSVZybkViV2JxZlVHQzRkdi13RHQwUm1XbWhqQ1hqenJxa2ZwY3V1VDFvTFYxdkd6cndUanNlYnY1S3NTMmF3UlJPR0hOWUZzYWk1a0ttSTJyWWptUEFSeEtZLUp2X3FSSEtsUGQzWEJyVk9wcktmRzhqc0ZwZA?oc=5)
+### [Weniger Demenz mit Hörgeräten bei Epilepsie - mgo medizin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlINng2MGRFc2VEWlRGWDNjcHZaU01GejBzWjhlTmJCQWRBSkp4RGpqVG1BN253bG1sb2QzOFJwSUJGbzVvaFBBTi1lMkdxQnBzUUNKZ2NVYWhrNXl0WUhTUkVZRm9lN2IycjhZaFZEY0dJYTN6NWxIck4tOHVBMks1TWRCaUx6S1RKOFFldzdZV1VLcHA3UlJVLWs?oc=5)
 
-2026-06-29 <span class="news-indication-tag">AF</span>
+2026-06-29 <span class="news-indication-tag">Epilepsie</span>
 
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWE5TlpiS1UwNjhqSldhTmhjYUNpamxVVENFN1d4OUppTFFKWWpBODdsenl5TnRGcVI0RkdpYTNOQXhJMUZLSVZybkViV2JxZlVHQzRkdi13RHQwUm1XbWhqQ1hqenJxa2ZwY3V1VDFvTFYxdkd6cndUanNlYnY1S3NTMmF3UlJPR0hOWUZzYWk1a0ttSTJyWWptUEFSeEtZLUp2X3FSSEtsUGQzWEJyVk9wcktmRzhqc0ZwZA?oc=5)
-
----
-
-### [Tertiärprävention bei an MS erkrankten Menschen - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
+來源：[mgo medizin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlINng2MGRFc2VEWlRGWDNjcHZaU01GejBzWjhlTmJCQWRBSkp4RGpqVG1BN253bG1sb2QzOFJwSUJGbzVvaFBBTi1lMkdxQnBzUUNKZ2NVYWhrNXl0WUhTUkVZRm9lN2IycjhZaFZEY0dJYTN6NWxIck4tOHVBMks1TWRCaUx6S1RKOFFldzdZV1VLcHA3UlJVLWs?oc=5)
 
 ---
 
@@ -142,19 +182,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
+### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
-
----
-
-### [Gürtelrose-Impfung: Shingrix senkt Demenzrisiko um 5,8 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
-
-2026-06-28 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxONDBOR3F4eExLQkJISUo0VzU0dzlPNnlFTGdxTkNHSUh0VEJxY3c3Z2pqc29SVURwU0JhZ3RtQ2Z5ekhxaTVZNW5Na080a2k2dEdZZ3RwMGE1ZTBqcndzX21HTGFab3lpTmJ4Q20tQi1uS0pnZWNpY0xUZE5pYTY0a0pYaW9uQ0o2UlJ6THBNbnVDVHFqZkFDTzFrekhxUjhHVzFnSW5XaEdHTlZwUTd2bw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
 ---
 
@@ -198,19 +230,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [UKHSA message to anyone taking Citalopram, Fluoxetine or Sertraline - The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQelZVNjEzWVNpR0FsR2hLajhUaVptMnp0RXYxdWRwNTc0MWNrbkwyUkNqZGd1aW02UGdndFQ4WUZoV04wXzc3QklxRmNsOUxaVGF4eHRfRjdtTFVRcjlsZjl1UHl3ak9rZXRMUlVwVjJnVlNOcTNXcmozeEhrdTdVX2gtb1JJZU5vaGdxSmhzTFkzY0U?oc=5)
+### [What watching the sunset really does for your health](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHd1eDFwaDhfTjNHRzV0NzlnUW0td1NfOFk4X3lMcGZYQXkzOHlHa0N1TXg0TDNmLUIwYWxVVDAxT0I5Y1dkZWZqZDVPbktTTGlWYnVlLXFYTGlTbURLOEdCMFF0WXFTSnpBbGxGdVFoZVVxSUtNOElob2E5V0JjS2xEYVlKNTRNSUg5V1lkVXZiMzR1cS1Id2ZsTkxpbW8yWEtfaHE5Wm95ZUFSelljLW1zN0M?oc=5)
 
 2026-06-28 <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQelZVNjEzWVNpR0FsR2hLajhUaVptMnp0RXYxdWRwNTc0MWNrbkwyUkNqZGd1aW02UGdndFQ4WUZoV04wXzc3QklxRmNsOUxaVGF4eHRfRjdtTFVRcjlsZjl1UHl3ak9rZXRMUlVwVjJnVlNOcTNXcmozeEhrdTdVX2gtb1JJZU5vaGdxSmhzTFkzY0U?oc=5)
-
----
-
-### [Studie: Jüngere Menschen altern biologisch deutlich schneller](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejY2aVduSGlRSHBrQkNVbjR1MGNaWjNJenhCMVJNT1lTX3otUXFMcGdXYjFqbTZJcEp2dVEtNkZTTXJVeGhZRHppckFiUk5yUmJNVkxCV003WDJhcWR2MndjWTJ2RnhpaUQ4SU1HeFJ2d0FfYlFFS0R2T3ZhQnZRU1BBc0Z4N1ZBMC1Ea3NpVlNmRmJsVm44eTQxaUFyZ3FLM2FBaUI2SnRGOThOLTR5ZA?oc=5)
-
-2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejY2aVduSGlRSHBrQkNVbjR1MGNaWjNJenhCMVJNT1lTX3otUXFMcGdXYjFqbTZJcEp2dVEtNkZTTXJVeGhZRHppckFiUk5yUmJNVkxCV003WDJhcWR2MndjWTJ2RnhpaUQ4SU1HeFJ2d0FfYlFFS0R2T3ZhQnZRU1BBc0Z4N1ZBMC1Ea3NpVlNmRmJsVm44eTQxaUFyZ3FLM2FBaUI2SnRGOThOLTR5ZA?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHd1eDFwaDhfTjNHRzV0NzlnUW0td1NfOFk4X3lMcGZYQXkzOHlHa0N1TXg0TDNmLUIwYWxVVDAxT0I5Y1dkZWZqZDVPbktTTGlWYnVlLXFYTGlTbURLOEdCMFF0WXFTSnpBbGxGdVFoZVVxSUtNOElob2E5V0JjS2xEYVlKNTRNSUg5V1lkVXZiMzR1cS1Id2ZsTkxpbW8yWEtfaHE5Wm95ZUFSelljLW1zN0M?oc=5)
 
 ---
 

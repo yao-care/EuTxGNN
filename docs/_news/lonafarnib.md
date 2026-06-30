@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+
+---
 
 ### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
 
 2026-06-30 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
-
----
-
-### [Fischöl-Studie enttäuscht: DHA bringt keine Gedächtnis-Verbesserung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
+### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/lonafarnib/
 2026-06-28 <span class="news-indication-tag">hypertension</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdE9WQ05iMm9ZV3NGaWFLaU1JSi1HN2E5TjEyNWpiQS0xZHNqMl9sa2F1UDBSN2RnSmVNdmNmR2lFdUQzWWItMGhyc3dCX2lLVnB5OExENFQ4U1ZicEVUZ01KNXlKWW82b0puTkE2T1VRUnhteld5MXl0ZUVwUjVwYWdya3ZBcFZ6eEVISDc0SDJGcjlxYXVKSWtncEFXUTJHN3hkT3R3YTBDUEhVWU96aS1HN3ZubjFnMDdITE9BSDljcHN0YXVGOUpFdw?oc=5)
-
----
-
-### [Lupus und Arthritis: 90% erreichen Komplettremission durch CAR-T-Zellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
 
 ### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
 
 2026-06-30 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
-
----
-
-### [Fischöl-Studie enttäuscht: DHA bringt keine Gedächtnis-Verbesserung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
+### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
 
 ---
 
@@ -123,14 +115,6 @@ permalink: /news/telmisartan/
 2026-06-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
 
 來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
-
----
-
-### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
-
-2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
 
 ---
 

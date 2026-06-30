@@ -14,7 +14,7 @@ permalink: /news/erenumab/
 ---
 
 <p class="key-answer" data-question="Erenumab 有什麼相關新聞？">
-<strong>Erenumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erenumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/erenumab/
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [Einfluss von Migränetherapie auf die Inzidenz von Morbus Menière - Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYlY1SExKQXJXakJfcVczN3lNWHhtVk05c0JUQTM3TUlhV202c0pDU1RGQXV1UGFJNUJFSktRRV9yOEVINEtmaUpJemxLY0hzUDhNckxzT1QwMkdaVlRRTDhISW5LcjU1UHNhN0tzU1dFOXlhdEZ0dHgtYWRGdnhaTVZjNHpOeS1MaDhz?oc=5)
+
+2026-06-30 <span class="news-indication-tag">Migräne</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYlY1SExKQXJXakJfcVczN3lNWHhtVk05c0JUQTM3TUlhV202c0pDU1RGQXV1UGFJNUJFSktRRV9yOEVINEtmaUpJemxLY0hzUDhNckxzT1QwMkdaVlRRTDhISW5LcjU1UHNhN0tzU1dFOXlhdEZ0dHgtYWRGdnhaTVZjNHpOeS1MaDhz?oc=5)
+
+---
+
+### [Loire. Elle fait quinze migraines par mois : « Une douleur qui donne envie de se jeter par la fenêtre » - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
+
+2026-06-30 <span class="news-indication-tag">migraine</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
+
+---
+
+### ["Los tratamientos anti-CGRP mejoran el abordaje de pacientes con migraña" - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
+
+2026-06-30 <span class="news-indication-tag">migraña</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
+
+---
 
 ### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
 

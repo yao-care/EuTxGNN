@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+---
 
 ### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [New obesity figures highlight the income divide - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
+
+---
+
 ### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
 2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
@@ -78,11 +94,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Mikrobiom im Fokus: Rindfleisch, Spermidin & neue Darm-Mechanismen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdwUDlwMkF1cUV5Q2VPa3pPa2cyNGdPb1pRZUhBM2RkRGNWV1hSalA0OF9mU0tvZC1pbGRoRXRrcDQ0TGM5d2xhV3JXMGRDWVVhYVRWVExWRUJXY3AyQjdpVERpclNmazFTUTNtWkx3a2o4VnR0d3BIY1Rza2Z3RGppdUdtUlpvLUFBbTBNeWdYYlpvS1UwbmdB?oc=5)
+### [Tierische Proteine: Hoher Fleischkonsum verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdwUDlwMkF1cUV5Q2VPa3pPa2cyNGdPb1pRZUhBM2RkRGNWV1hSalA0OF9mU0tvZC1pbGRoRXRrcDQ0TGM5d2xhV3JXMGRDWVVhYVRWVExWRUJXY3AyQjdpVERpclNmazFTUTNtWkx3a2o4VnR0d3BIY1Rza2Z3RGppdUdtUlpvLUFBbTBNeWdYYlpvS1UwbmdB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 ---
 

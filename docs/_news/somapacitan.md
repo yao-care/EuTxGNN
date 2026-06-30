@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+---
 
 ### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
 
@@ -70,11 +78,27 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hY0hMYjJxeVdBWUlMR3VlelhNb0hURUM0THFPSl94SU83eUk1SFNJQTdDMjZoYnhBeW9uNnBHOHo2Q21lTmZhX3ZBdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hY0hMYjJxeVdBWUlMR3VlelhNb0hURUM0THFPSl94SU83eUk1SFNJQTdDMjZoYnhBeW9uNnBHOHo2Q21lTmZhX3ZBdw?oc=5)
+
+---
+
+### [New obesity figures highlight the income divide - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
+
+---
+
+### [Tierische Proteine: Hoher Fleischkonsum verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 ---
 
@@ -83,22 +107,6 @@ permalink: /news/somapacitan/
 2026-06-29 <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
-
----
-
-### [Mikrobiom im Fokus: Rindfleisch, Spermidin & neue Darm-Mechanismen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdwUDlwMkF1cUV5Q2VPa3pPa2cyNGdPb1pRZUhBM2RkRGNWV1hSalA0OF9mU0tvZC1pbGRoRXRrcDQ0TGM5d2xhV3JXMGRDWVVhYVRWVExWRUJXY3AyQjdpVERpclNmazFTUTNtWkx3a2o4VnR0d3BIY1Rza2Z3RGppdUdtUlpvLUFBbTBNeWdYYlpvS1UwbmdB?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcGdwUDlwMkF1cUV5Q2VPa3pPa2cyNGdPb1pRZUhBM2RkRGNWV1hSalA0OF9mU0tvZC1pbGRoRXRrcDQ0TGM5d2xhV3JXMGRDWVVhYVRWVExWRUJXY3AyQjdpVERpclNmazFTUTNtWkx3a2o4VnR0d3BIY1Rza2Z3RGppdUdtUlpvLUFBbTBNeWdYYlpvS1UwbmdB?oc=5)
-
----
-
-### [Mantener controlado el colesterol a largo plazo reduce el riesgo cardiovascular tras un infarto - Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzcxRWpmNWtjQWxkdUdYN09jR0pCRDlIdHhDLXUxN2hEZVY4bWljYTg0anQ1YXRrVnI2cjVTRmdqWGtDUEtYSHJoSExIZUoxR2MxaEFuMXRfV1dmWV9mRjZDMTltc1h1NkFOYUxKYnprSmh6UTc1dk9NdWhzLVVxNmdRNlRud0JVUDVrUTBSQlJrVWNka3NxSzFCdDROWnlKWXZpTXE2VTlJTmF3VVd3Nm9PczFyc1dVaUk3R1NvTmQ1ZGg4MVNuMjJsc0Zrb1E?oc=5)
-
-2026-06-28 <span class="news-indication-tag">asma</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzcxRWpmNWtjQWxkdUdYN09jR0pCRDlIdHhDLXUxN2hEZVY4bWljYTg0anQ1YXRrVnI2cjVTRmdqWGtDUEtYSHJoSExIZUoxR2MxaEFuMXRfV1dmWV9mRjZDMTltc1h1NkFOYUxKYnprSmh6UTc1dk9NdWhzLVVxNmdRNlRud0JVUDVrUTBSQlJrVWNka3NxSzFCdDROWnlKWXZpTXE2VTlJTmF3VVd3Nm9PczFyc1dVaUk3R1NvTmQ1ZGg4MVNuMjJsc0Zrb1E?oc=5)
 
 ---
 

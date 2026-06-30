@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña（migraine） 相關新聞"
+title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。5 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraña（migraine） 相關新聞
+# Migräne（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
+<strong>Migräne（migraine）</strong> 目前有 <strong>5 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,31 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [Einfluss von Migränetherapie auf die Inzidenz von Morbus Menière - Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYlY1SExKQXJXakJfcVczN3lNWHhtVk05c0JUQTM3TUlhV202c0pDU1RGQXV1UGFJNUJFSktRRV9yOEVINEtmaUpJemxLY0hzUDhNckxzT1QwMkdaVlRRTDhISW5LcjU1UHNhN0tzU1dFOXlhdEZ0dHgtYWRGdnhaTVZjNHpOeS1MaDhz?oc=5)
+
+2026-06-30
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYlY1SExKQXJXakJfcVczN3lNWHhtVk05c0JUQTM3TUlhV202c0pDU1RGQXV1UGFJNUJFSktRRV9yOEVINEtmaUpJemxLY0hzUDhNckxzT1QwMkdaVlRRTDhISW5LcjU1UHNhN0tzU1dFOXlhdEZ0dHgtYWRGdnhaTVZjNHpOeS1MaDhz?oc=5)
+
+---
+
+### [Loire. Elle fait quinze migraines par mois : « Une douleur qui donne envie de se jeter par la fenêtre » - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
+
+2026-06-30
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
+
+---
+
+### ["Los tratamientos anti-CGRP mejoran el abordaje de pacientes con migraña" - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
+
+2026-06-30
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
+
+---
 
 ### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
 

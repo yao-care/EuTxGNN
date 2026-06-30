@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "EPOC（copd） 相關新聞"
+title: "copd 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "copd 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# EPOC（copd） 相關新聞
+# copd 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="copd 有什麼相關新聞？">
+<strong>copd</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「copd」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,21 +54,13 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
 
 2026-06-29
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
-
----
-
-### [Voici l'étonnante découverte de chercheurs sur le lien entre la bière et les piqûres de moustiques - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
-
-2026-06-28
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
 
 ---
 

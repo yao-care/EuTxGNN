@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="Cabazitaxel 有什麼相關新聞？">
-<strong>Cabazitaxel</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabazitaxel</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/cabazitaxel/
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（17 則）
 
-### [Thymus und Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
 
-2026-06-29 <span class="news-indication-tag">Krebs</span>
+2026-06-30 <span class="news-indication-tag">arthritis</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBRdEhnOVBZZVowU1dxSnp2bUJ5VHBSX3RuU0V5QjgzaEhmM0t1elZPV0FYWG5jcmxXdjY5S21YMy1qcjNNbW9FU3AxaURJSTY2QlpQZmFZanVyX18za0l2LUFRbnFuNm82SFl2WDNzMUo3VUMyWFd5TmhOZEUxT3J6NW5LQUlMaDdXNy1BLXloaGx0TWQtYW00Q1dlOUJTb2Q3bnN5bmxkMWJVMU1RV1NGTG5nZUdmcUhmZEItM3dqSUJhQ2Z6MzlRZnJFYkRFLUdDMlVoY1hPa3pFS0lJdQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
 
 ---
 
-### [Cáncer en adultos jóvenes: bajan los tumores asociados al tabaco y suben los digestivos](https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0luS0RaM2lodFd5dEpYZzlPSXByV3Y4X0doTWJMNGQzT0pkZl9PT29RNU5BMmlXWDd3RzF3QUFUTi1QWXZBNnh1UHVxWUN1dk9HUEYyYTh3QjFqZDg0R1JmQmd5Y3NlYW9fTHBXczhmTnpXVUVnaGFQWHo3emtHa3I2NA?oc=5)
+### [Descienden los cánceres asociados al tabaco y aumentan algunos tumores digestivos en adultos jóvenes en España - Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSW9iS2ZoMDFvczFFMDBlYkhKRVAxSUg0QXVibEdZNndUaVgxb2tIT3MwY1I2cmQtblpLZndZc0pDVmZEWHR0dzdzbmw4czU3T2tjZGN0dFhQUnJNTEoyUFpCTF9Pa3FzU21OeUV1aV9lVURRQlpaeXFFLUZXNXhhaXY0M3NxNlVfS1ZCNXJ0Vk5vUXZQUUdzT1FBUXI4dXc4Y203U0JHRmliTDgwRXF4WDdTTkt6bmxhTXhOZHVLa2NHREpoUmh5RjVodWVHMnFrVzJsYkptTnRkaURlNkNJTWZuNA?oc=5)
 
-2026-06-29 <span class="news-indication-tag">tumor</span>
+2026-06-30 <span class="news-indication-tag">tumor</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0luS0RaM2lodFd5dEpYZzlPSXByV3Y4X0doTWJMNGQzT0pkZl9PT29RNU5BMmlXWDd3RzF3QUFUTi1QWXZBNnh1UHVxWUN1dk9HUEYyYTh3QjFqZDg0R1JmQmd5Y3NlYW9fTHBXczhmTnpXVUVnaGFQWHo3emtHa3I2NA?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSW9iS2ZoMDFvczFFMDBlYkhKRVAxSUg0QXVibEdZNndUaVgxb2tIT3MwY1I2cmQtblpLZndZc0pDVmZEWHR0dzdzbmw4czU3T2tjZGN0dFhQUnJNTEoyUFpCTF9Pa3FzU21OeUV1aV9lVURRQlpaeXFFLUZXNXhhaXY0M3NxNlVfS1ZCNXJ0Vk5vUXZQUUdzT1FBUXI4dXc4Y203U0JHRmliTDgwRXF4WDdTTkt6bmxhTXhOZHVLa2NHREpoUmh5RjVodWVHMnFrVzJsYkptTnRkaURlNkNJTWZuNA?oc=5)
+
+---
+
+### [Tumore del sangue, lo studio del ricercatore polesano Enrico Milan premiato negli Stati Uniti con 250mila dollari - Il Gazzettino](https://news.google.com/rss/articles/CBMirgFBVV95cUxONlBNVXBMb2ZCbWM1cXliQVh3ekt4WDZyYTgwSWd6NnotU01tU2ZuSjlOakdwOE13d3RNRnJHNnFUU2pxOG1TNXk4cWJPWkVNLW01cFRMWXo4RHNuUk5nZXl2WEtHdXBVRmQ0a1RiVjRYQTZ4cnFWVWV1RUttMEpGRzJ2aGxWZ1pTR0t1cXhWYkNnQ2dzRWhoUFF4R09UUldxOUh1Mm80ejE2aXlaVEE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Gazzettino](https://news.google.com/rss/articles/CBMirgFBVV95cUxONlBNVXBMb2ZCbWM1cXliQVh3ekt4WDZyYTgwSWd6NnotU01tU2ZuSjlOakdwOE13d3RNRnJHNnFUU2pxOG1TNXk4cWJPWkVNLW01cFRMWXo4RHNuUk5nZXl2WEtHdXBVRmQ0a1RiVjRYQTZ4cnFWVWV1RUttMEpGRzJ2aGxWZ1pTR0t1cXhWYkNnQ2dzRWhoUFF4R09UUldxOUh1Mm80ejE2aXlaVEE?oc=5)
 
 ---
 
@@ -107,6 +115,14 @@ permalink: /news/cabazitaxel/
 2026-06-29 <span class="news-indication-tag">Krebs</span>
 
 來源：[SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDNwNC1obk1POFJwb1I1SERMQjdaTm9xQlhKb0kyM081YVBTaldTRGpaNi1OOWJjNF9mVjFiRHJPR0VGdUp3MTZXOGZ2dHpseVRIaUlMNGFYelphNGJDeXdsMHR5ZUtRdWxLN0Vhb0RzNUR5QVZlNm1OMEhNOHYxWnp1WW10NjFENzJsZnVMa1BRd1hxMEN4bEd5LVdIMmsxRXY3Z2hNV0s4YXJReExJLXl5S2prekVkWWkwX18wQ0JadFI4TVQ3WURndmJvVnI4QW55SzlDVFhrdmVlTTNXSQ?oc=5)
+
+---
+
+### [Früher Krebs bei Jüngeren: Studie verbindet Risiko mit schnellerer biologischer Alterung - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNIcUI5VE1ZanBvdFNCMml3NDQ3NjN2cm9yZndLVnUwdV8tSmE0OVVjRUFJaW5ub3RCN0hBUjdyNDhwNEMxRG1KZG80cmFaSHdaMzY1cUMySERER21JRzVBOWpXcXZsem1fNVVvWEkwMkVwbTNfZWdacHBjdzNWN1dsZjU4cE1lUDd6VG1hQ0RENFNndmdYSTNJLVUyLVBIRXFNZ3NQVDFkVTFYVzM4Ynprdkc3V1ZqTTRkSDNn?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNIcUI5VE1ZanBvdFNCMml3NDQ3NjN2cm9yZndLVnUwdV8tSmE0OVVjRUFJaW5ub3RCN0hBUjdyNDhwNEMxRG1KZG80cmFaSHdaMzY1cUMySERER21JRzVBOWpXcXZsem1fNVVvWEkwMkVwbTNfZWdacHBjdzNWN1dsZjU4cE1lUDd6VG1hQ0RENFNndmdYSTNJLVUyLVBIRXFNZ3NQVDFkVTFYVzM4Ynprdkc3V1ZqTTRkSDNn?oc=5)
 
 ---
 
@@ -158,14 +174,6 @@ permalink: /news/cabazitaxel/
 
 ---
 
-### [Lupus und Arthritis: 90% erreichen Komplettremission durch CAR-T-Zellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0Y1MFE1clRUUHY4VFpxYnhJOFFYbnhOTk44WHVDV0RIclhfOXNUd1dUQmR6djRreDY0aDk2LVFRWWREejNTWmJYUXNnVW9tb3JMUDJUQjhHX0duXzJERGRiTWQ0ZVhMLTQ0SlE0ZnNfN3F4U0gySzM2V3JKTERvQ1Y1Y3ZGZ2Y2aVQ0SUU0c2hGQnBDTklRdnJWbjFFNE51dHJDS0J4N3JzZE9tZE5jZFgwTQ?oc=5)
-
----
-
 ### [Grandfather died of prostate cancer after GP ignored symptoms for years - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
 
 2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -174,51 +182,11 @@ permalink: /news/cabazitaxel/
 
 ---
 
-### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
-
-2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
-
----
-
 ### [Brustkrebs: Diese Lebensmittel senken das Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
 
 2026-06-28 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0dKcHJSdXNhUTJhdnR1ZjZyQTg3Ymo4QXI0aDItV0lpcVlsWS1EUENZSzlrR2FOZ0JCRXN4SWdCUXJLWUpKVE5BQ3pLUUhTejRZSUR3MUpsMG1ncUswWWdid3FYdlNjOE5SbHlNTVRwNHBqaXdFTzZ3MXJOa0p3STJHUUctRFZkMG4tV2lQZU0tbVdmbHUzQ3cxampmYVRMN0pCb3hsa1l5bVlh?oc=5)
-
----
-
-### [Another B vitamin linked to worse outcomes for cancer - Jacksonville Journal](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
-
-2026-06-28 <span class="news-indication-tag">cancer</span>
-
-來源：[Jacksonville Journal-Courier](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUpuSDNwYk4ycDhJd1F4WWRuM2dRMEFVMTdNVkRtd1hJWENWclBaQVdVckNfRjN3dkQ2bTVYY0tMSUV5Zk1EZ3FKNHI5YlNGYlFFSE5JbTJ4UDgtbm9ObWZ6OEVpT1FDOEQzR1J5Nzd3S2hrSzk1cmpJcENOaUJvRFp6WS05a29JNTdrWXhzZ3MwX0puc0F0aFFuSlprWmdZVHFPUFVTYkowcjB3OGc?oc=5)
-
----
-
-### [Younger people are ageing faster biologically, study finds](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">cancer</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5)
-
----
-
-### [Studie: Jüngere Menschen altern biologisch deutlich schneller](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejY2aVduSGlRSHBrQkNVbjR1MGNaWjNJenhCMVJNT1lTX3otUXFMcGdXYjFqbTZJcEp2dVEtNkZTTXJVeGhZRHppckFiUk5yUmJNVkxCV003WDJhcWR2MndjWTJ2RnhpaUQ4SU1HeFJ2d0FfYlFFS0R2T3ZhQnZRU1BBc0Z4N1ZBMC1Ea3NpVlNmRmJsVm44eTQxaUFyZ3FLM2FBaUI2SnRGOThOLTR5ZA?oc=5)
-
-2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOejY2aVduSGlRSHBrQkNVbjR1MGNaWjNJenhCMVJNT1lTX3otUXFMcGdXYjFqbTZJcEp2dVEtNkZTTXJVeGhZRHppckFiUk5yUmJNVkxCV003WDJhcWR2MndjWTJ2RnhpaUQ4SU1HeFJ2d0FfYlFFS0R2T3ZhQnZRU1BBc0Z4N1ZBMC1Ea3NpVlNmRmJsVm44eTQxaUFyZ3FLM2FBaUI2SnRGOThOLTR5ZA?oc=5)
-
----
-
-### [I giovani invecchiano più in fretta biologicamente, secondo studio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
-
-2026-06-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXFTaTh4NW1BYjVmUUl2M2sxcGNXSzJHbm5qUHF4VEFEOC1fNEpYc3V3clhmOXl4X1lmTUFFU1lRMGxKdktIcFdXY1JCUkhxVC14VmJfV0FVQ0ZNZ1V0aHRKZ0VwRTZlaTgwVXhSWXFXOTFIeXp1a3BZeTUySVRtajRYQlNhT18xY0Npdk5rbGdMSmVEanlpS3Z6cS1MMkJNalpfLVhRSHZrWTRFY0ZrR1JLeVhEaVhCaXNJeVkyOGl2SUxsb2E2ZA?oc=5)
 
 ---
 

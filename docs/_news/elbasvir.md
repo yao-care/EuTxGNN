@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [Alzheimer ab Juni 2026: Neue Antikörpertherapien und KI-Früherkennung - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNSQVVlb0ktVWRqZUZZRi1CM2xhSUtmVUx3dmYyY3V3cXFNZ3F2TkJIbjBHMTJ1NnhQNEN6ZGN2RVRHUkN2bjJmZ1lmUDRidzBwVUNlZVBDa01ybVFPMDJ6a0FjdlBXOGtZaDVXMXBfUU1XbFVOR2ZGMzVCeVIzOWZEenFEd3R5Nks5WUVfSkhobzJmUkVLdm9oUkZGdHBka085Qw?oc=5)
+
+2026-06-30 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNSQVVlb0ktVWRqZUZZRi1CM2xhSUtmVUx3dmYyY3V3cXFNZ3F2TkJIbjBHMTJ1NnhQNEN6ZGN2RVRHUkN2bjJmZ1lmUDRidzBwVUNlZVBDa01ybVFPMDJ6a0FjdlBXOGtZaDVXMXBfUU1XbFVOR2ZGMzVCeVIzOWZEenFEd3R5Nks5WUVfSkhobzJmUkVLdm9oUkZGdHBka085Qw?oc=5)
+
+---
+
+### [Tertiärprävention bei an MS erkrankten Menschen, Deutsche Multiple Sklerose Gesellschaft Bundesverband e.V., Story](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU1p6NGFvN0NUd3o4REs0cHI5cEk3RHd1di15UTdLWUxWZzMxVHppbUdqSlhyQTAyVV9oY2lMVnA0cGhjakJzUWpiNzJCUEhLMmh1ZjdNNnEyb0plbEU1dk9PMmZma1dwcHA1Yk1MZ2JJS1htcW5TZXJOSnFpMTBYQkdyQ3hQVDB3ZkE4NnU2dUtXZDFhbWZNcDBGM0JDODRnLWpDWUZ5UDlKNmRwOFpNLTJFblVxaUFtLVNteHcycmpZQW04UVdDMkdwbjFNSVpSaWtvbGh1ZVFpUmhtOUJVWGdFNWZSeXlaNUdJ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU1p6NGFvN0NUd3o4REs0cHI5cEk3RHd1di15UTdLWUxWZzMxVHppbUdqSlhyQTAyVV9oY2lMVnA0cGhjakJzUWpiNzJCUEhLMmh1ZjdNNnEyb0plbEU1dk9PMmZma1dwcHA1Yk1MZ2JJS1htcW5TZXJOSnFpMTBYQkdyQ3hQVDB3ZkE4NnU2dUtXZDFhbWZNcDBGM0JDODRnLWpDWUZ5UDlKNmRwOFpNLTJFblVxaUFtLVNteHcycmpZQW04UVdDMkdwbjFNSVpSaWtvbGh1ZVFpUmhtOUJVWGdFNWZSeXlaNUdJ?oc=5)
+
+---
+
+### [Investigadores demuestran el potencial de la IA como apoyo clave para el abordaje de la Esclerosis Múltiple](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2NKeTdDLUVtVWJ3akZSYTVRWTJHWWxHRkhlci13NmU5TzNFaUkzUE1fb1p0Ym5sMWNaU1JkNFY1S0V0NkhBR2VSVjBzRnViLW9tOXdRSlR4RWprV3RJdDlrWDlhbzhfcnVQaUp2U2FDaGN3TWg5Q1p5U01DOXhYNE1EWlNrVkNoZlVqUWtPQTM5eWdIT2JvTXdTWm43QkN3TEVOaEhtM24xeWZaSmpGbTk1ZTBvQU4yTVA2eTZpem1qWjdvVG9uT19sY3Ixd3hvMlNSVkx0RExoZmxtcnFTUWJB0gHnAUFVX3lxTE00SURKVkFiQnFmV0I0T0NJclFYVnB1bGNoZE1Bcmc2Zlp1Y0ltMXhyemV1ZEZrVXRWYzY3X1hRRldBVVV6N0FhWVZId1BPaGs1dEJ0QktWTUc1ZktKUHE1UjlNR1A3bW9sazhRdFVNUGRwbExmampXOUpYWTM1dVUyd29sRVF6S2o5SUdjT25kSldPRVRDNDFWVHVJUk9iSUZ2c3ZmbjV5VHdJcmsyZHc3UHA3MnpKX0lxc3hISDhCUUc2ZU1zbVBuUC1ZM1N0ZjJqblNuQ0pNQXdSQkVpeVN3NXRxNUFNaw?oc=5)
+
+2026-06-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2NKeTdDLUVtVWJ3akZSYTVRWTJHWWxHRkhlci13NmU5TzNFaUkzUE1fb1p0Ym5sMWNaU1JkNFY1S0V0NkhBR2VSVjBzRnViLW9tOXdRSlR4RWprV3RJdDlrWDlhbzhfcnVQaUp2U2FDaGN3TWg5Q1p5U01DOXhYNE1EWlNrVkNoZlVqUWtPQTM5eWdIT2JvTXdTWm43QkN3TEVOaEhtM24xeWZaSmpGbTk1ZTBvQU4yTVA2eTZpem1qWjdvVG9uT19sY3Ixd3hvMlNSVkx0RExoZmxtcnFTUWJB0gHnAUFVX3lxTE00SURKVkFiQnFmV0I0T0NJclFYVnB1bGNoZE1Bcmc2Zlp1Y0ltMXhyemV1ZEZrVXRWYzY3X1hRRldBVVV6N0FhWVZId1BPaGs1dEJ0QktWTUc1ZktKUHE1UjlNR1A3bW9sazhRdFVNUGRwbExmampXOUpYWTM1dVUyd29sRVF6S2o5SUdjT25kSldPRVRDNDFWVHVJUk9iSUZ2c3ZmbjV5VHdJcmsyZHc3UHA3MnpKX0lxc3hISDhCUUc2ZU1zbVBuUC1ZM1N0ZjJqblNuQ0pNQXdSQkVpeVN3NXRxNUFNaw?oc=5)
+
+---
 
 ### [Tiny Antarctic sea creature could be key to treating melanoma, researchers say - The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3lWNmtCZk4yNk0yN2FCM2lRX19sSF9DbFAzaFd5aEljNFczcVlpTE1hOUk0WGxPZ0NKdXFocGt0Wm1ramY1STdCUWp2TkZueVNLX1U1UVNVem9ubF9wSEJZWWktU2FlakpLd1pJTFBUakh5YllZRTlteWVwOVJJVGphWHNQRlVuRGhDcHlNMA?oc=5)
 
 2026-06-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3lWNmtCZk4yNk0yN2FCM2lRX19sSF9DbFAzaFd5aEljNFczcVlpTE1hOUk0WGxPZ0NKdXFocGt0Wm1ramY1STdCUWp2TkZueVNLX1U1UVNVem9ubF9wSEJZWWktU2FlakpLd1pJTFBUakh5YllZRTlteWVwOVJJVGphWHNQRlVuRGhDcHlNMA?oc=5)
-
----
-
-### [La IA tiene más capacidad de ceñirse a las directrices de las guías clínicas en el abordaje de la esclerosis múltiple](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbThsRlk2eXlwWnEzTXQ4MTJLdWRzUkhYWWVyRVlDbnZjZ1c1YmJLaFZJWF9XbjhrVnVDZFZXd1otQ0R3RldMVWhQZFVxb0FPYkJSQk5SbWFtQXZyay16TGc2ckRPTHgxb1o4X1FPUUtuak0zMEZST3NtRmp6ak80OWczMmNIWUl0RzRIeERCYmxzcnRtLXBZSjFTX3JYSG1QLTVwNkdSN3VkZWZpX2RLNk1GMXZhQQ?oc=5)
-
-2026-06-29 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbThsRlk2eXlwWnEzTXQ4MTJLdWRzUkhYWWVyRVlDbnZjZ1c1YmJLaFZJWF9XbjhrVnVDZFZXd1otQ0R3RldMVWhQZFVxb0FPYkJSQk5SbWFtQXZyay16TGc2ckRPTHgxb1o4X1FPUUtuak0zMEZST3NtRmp6ak80OWczMmNIWUl0RzRIeERCYmxzcnRtLXBZSjFTX3JYSG1QLTVwNkdSN3VkZWZpX2RLNk1GMXZhQQ?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Laura Varela, paciente y activista: "Las mujeres con VIH seguimos estando invisibilizadas"](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
+### [Longer breastfeeding linked to lower ADHD in kids, study finds](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXhidTRLX1pIQUVvSkV2dWVSb2FWMG90bG5BaF9SYk5CTktmTFlkNVJaYmF5M1RVWjJwc1NCRjE1VEpLX0E5d3RmeVA4c2ptU1k2WUFyOE9rNFVYYlJOM2pldGlPQXpUWVZmeG1VT0NVX0V0WTc1Z1o4SFI4ZWhfT25ITUhka1RLZ0JMZ3ZlQ24yVHpyaU5EODQ2T1RteU1PcDg1RklLYThKczZMRmJDbDFFbjVmam8?oc=5)
 
 2026-06-29 <span class="news-indication-tag">MS</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUNWNHpSSnB0Q2ZUeWxUbGF1UW0yWi15ZF9tZmtZa09mdGNVekFNR1VhcnozSVJZbmVINEEyc1VVR3VsYVdPbDl4eTFuVTJOaF80TlFKXzlyNGFiVmVLWWh4UkFKUkR2QVRHWjFGTmNUb0VZYmVjQWxCZ1JIbEkyME15aGdHcktLaGt2a0U1RXhraGxtSlZUOElDRzhNTDFQT0ZEVldqbWdQelBRT0FOeDUxdlVKQnRTMGJoX3l6NmRSdWRENlNZSUdNZWRELVV3NzctU3pPTXbSAd4BQVVfeXFMTmM3NGV3aDI1ZGt3MGZjMklGRHg1VTRGSTdFMm1HMjg0ZEc3aDViSjRzM2FibWl0Njk1RUZ3cXgwZkdkNEJvUkNiTURPMzRmbmhYbGdtMDl6Wkd6QWxrNGtFYS01R1JVZkkxUjFfeWwxbW5KQVRyUjlFZDd1cDExQUVUX29BVkJMS2JaM2E5Q3R5VDllRlRyS05Mb3dBWDMtUUE4THpsMkJEMEFPOVFQSi11OTYtdWd3SG1ra2sxR2JZcXdMZWxQWVdHRC0tdUgwODdoY3hZTTFWUFNGVUFR?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXhidTRLX1pIQUVvSkV2dWVSb2FWMG90bG5BaF9SYk5CTktmTFlkNVJaYmF5M1RVWjJwc1NCRjE1VEpLX0E5d3RmeVA4c2ptU1k2WUFyOE9rNFVYYlJOM2pldGlPQXpUWVZmeG1VT0NVX0V0WTc1Z1o4SFI4ZWhfT25ITUhka1RLZ0JMZ3ZlQ24yVHpyaU5EODQ2T1RteU1PcDg1RklLYThKczZMRmJDbDFFbjVmam8?oc=5)
 
 ---
 
@@ -110,19 +126,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Tertiärprävention bei an MS erkrankten Menschen - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVBaMjJIRVpROVVwZHdpbVIycHZBd3RXVnFsdzZBVHUwWWtTT3ctUnIzYzBCVERJXzJGeGJZRUsxMHg2YS10X3FlLWgwV0NQUm43RmpwLTdxVFVMbDQzLUtVUHJ5RlVJYUtjMGtUVzIxR1YtMkxOQ29EbXBUTGgwUWh5TDluVEtfVzZsdHpfemhoR09oOFZYb3F5OUxNckFGU2ViY2RuSnJIbU5YRW54Z1hPVUdBcVFvaGRjX3o2RXpsd0ZyaDdkT05Wc2hiZw?oc=5)
-
----
-
-### [ROMS: New scheme announced to tackle obesity in Northern Ireland](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNXNLYkVxMlpaZDhIM0FqU0ItSVdrczc2NGEtRTdaeUdvM0tOZE8ycUFIdkNKME5GMzBOaHN3OTZZajhndFg3cEE4allMdVJWUDhyb0lNRWIxUkJs?oc=5)
+### [Mounjaro pilot to bypass GP appointments in parts of UK - Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 
 2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNXNLYkVxMlpaZDhIM0FqU0ItSVdrczc2NGEtRTdaeUdvM0tOZE8ycUFIdkNKME5GMzBOaHN3OTZZajhndFg3cEE4allMdVJWUDhyb0lNRWIxUkJs?oc=5)
+來源：[Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 
 ---
 
@@ -134,14 +142,6 @@ permalink: /news/elbasvir/
 
 ---
 
-### ['My red flag cancer symptom appeared when I ate a banana' - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVAya0VoTHRpNnhFNFhhR2tTMmR3VXNjLW1FR1dIVmhxWTBabGZ2RUdtb25aSDhEcDBZSDBFSE05a3BfSk92bExLMDhaVWN5SmZ6UmxqdzVYLVI4RkdhVGJfYWEwV2ZaSDhJazhhYUNqRThfUV8yZXhNZ1I5cXdHeVRvVDRfMW5vTE4wblNGQXpKWWZZNHBWRtIBngFBVV95cUxNY1pGLVliUXBZbHhHY1NlUnVoSjZwWlVHemdwMFBkWU1CdDV4TFFHV0xDR2c0ZXMyeVU2azFWUHhXazVQRjEyTTlOdEFGYnRTYmJ6Q1NyMVhJWTRQeksxV2h6TzdsUWplTnphUzJHN0xNcURCSnNYUWtyWTR3SnpJOWlkZ19wRUs1dWtvYVNXd1JhQ0FSNGFkaGU2aGFjZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVAya0VoTHRpNnhFNFhhR2tTMmR3VXNjLW1FR1dIVmhxWTBabGZ2RUdtb25aSDhEcDBZSDBFSE05a3BfSk92bExLMDhaVWN5SmZ6UmxqdzVYLVI4RkdhVGJfYWEwV2ZaSDhJazhhYUNqRThfUV8yZXhNZ1I5cXdHeVRvVDRfMW5vTE4wblNGQXpKWWZZNHBWRtIBngFBVV95cUxNY1pGLVliUXBZbHhHY1NlUnVoSjZwWlVHemdwMFBkWU1CdDV4TFFHV0xDR2c0ZXMyeVU2azFWUHhXazVQRjEyTTlOdEFGYnRTYmJ6Q1NyMVhJWTRQeksxV2h6TzdsUWplTnphUzJHN0xNcURCSnNYUWtyWTR3SnpJOWlkZ19wRUs1dWtvYVNXd1JhQ0FSNGFkaGU2aGFjZw?oc=5)
-
----
-
 ### [One person a week in England dies with undiagnosed TB, study finds - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
 
 2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -150,27 +150,19 @@ permalink: /news/elbasvir/
 
 ---
 
+### ['My red flag cancer symptom appeared when I ate a banana' - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVAya0VoTHRpNnhFNFhhR2tTMmR3VXNjLW1FR1dIVmhxWTBabGZ2RUdtb25aSDhEcDBZSDBFSE05a3BfSk92bExLMDhaVWN5SmZ6UmxqdzVYLVI4RkdhVGJfYWEwV2ZaSDhJazhhYUNqRThfUV8yZXhNZ1I5cXdHeVRvVDRfMW5vTE4wblNGQXpKWWZZNHBWRtIBngFBVV95cUxNY1pGLVliUXBZbHhHY1NlUnVoSjZwWlVHemdwMFBkWU1CdDV4TFFHV0xDR2c0ZXMyeVU2azFWUHhXazVQRjEyTTlOdEFGYnRTYmJ6Q1NyMVhJWTRQeksxV2h6TzdsUWplTnphUzJHN0xNcURCSnNYUWtyWTR3SnpJOWlkZ19wRUs1dWtvYVNXd1JhQ0FSNGFkaGU2aGFjZw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVAya0VoTHRpNnhFNFhhR2tTMmR3VXNjLW1FR1dIVmhxWTBabGZ2RUdtb25aSDhEcDBZSDBFSE05a3BfSk92bExLMDhaVWN5SmZ6UmxqdzVYLVI4RkdhVGJfYWEwV2ZaSDhJazhhYUNqRThfUV8yZXhNZ1I5cXdHeVRvVDRfMW5vTE4wblNGQXpKWWZZNHBWRtIBngFBVV95cUxNY1pGLVliUXBZbHhHY1NlUnVoSjZwWlVHemdwMFBkWU1CdDV4TFFHV0xDR2c0ZXMyeVU2azFWUHhXazVQRjEyTTlOdEFGYnRTYmJ6Q1NyMVhJWTRQeksxV2h6TzdsUWplTnphUzJHN0xNcURCSnNYUWtyWTR3SnpJOWlkZ19wRUs1dWtvYVNXd1JhQ0FSNGFkaGU2aGFjZw?oc=5)
+
+---
+
 ### [Grandfather died of prostate cancer after GP ignored symptoms for years - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
 
 2026-06-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNMjUzRThTS2ppeUxRZVJDc181YV9COVkwcEhaYTdTYVpfZ3NJTDJMVTRyWW5yMjM1V1g1YWhzM0dlYzB1SFNjSzBfa2hZdEk3SWFuVkRMQ2YwS3hhS2ducjFFT0h3bElzbE9qZzBwWTZ5cEZmaEZWTDN3M1d3dDZaZmR3bmR1RmM1eENFSjFfb1F3WnhqdUE1S1Y3X21kZw?oc=5)
-
----
-
-### [Schlaganfall, Krebs, Multiple Sklerose: Die zwei Leben von Nena Alice Stewart - Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
-
-2026-06-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm9aaXJJM1lXZlZNWGY1NmNEUXB1eGRCbXBhWWFTZUM0amNkWm1UMFVtNEhtMllWam1HZGl5VUk0b04taTZhR1JwUkFZT2hmcW5ESlBjYm9KRmhfLWdxUURDOXdWS0JadFBVMlcyeU9RU1VfWXY4djVwcFFaS3pBaGN1RDI1d21HNG1YbEtiWm1pVE1ZR2tKekdaRG8wWUlWcWVSRHFFam1qM2U4aGpLUnh2cnByZ25XMEE?oc=5)
-
----
-
-### [Los efectos en el cuerpo de dejar el azúcar durante dos semanas, según los endocrinos](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFBWU21Nc1RUdm9PbHdBM3A0R3hJazRqWjd2dWl5ZVBpSW1aekVPNVBmdlhBWFZDbzdmYW91YnYzeGRzTVp1bkdacjByMFU2R0UzZXZ1NVVDbEMybEdiVktSVjJHQXhCSG9YUVRHZk9CdzBMdzBvVmpyc3JIQ3hYSHUxTmJzRUJPa3lzdGJFcjZ0TUp1emFiS3l3aVVlX2k0eEZzVHZsNmY5VTk3aGNzaGVVMlgxUXlCRnNvZ3lmSzJydjZJVkZBSm0zdFhEVExmZFM0N3lReFJocDQ?oc=5)
-
-2026-06-28 <span class="news-indication-tag">MS</span>
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbFBWU21Nc1RUdm9PbHdBM3A0R3hJazRqWjd2dWl5ZVBpSW1aekVPNVBmdlhBWFZDbzdmYW91YnYzeGRzTVp1bkdacjByMFU2R0UzZXZ1NVVDbEMybEdiVktSVjJHQXhCSG9YUVRHZk9CdzBMdzBvVmpyc3JIQ3hYSHUxTmJzRUJPa3lzdGJFcjZ0TUp1emFiS3l3aVVlX2k0eEZzVHZsNmY5VTk3aGNzaGVVMlgxUXlCRnNvZ3lmSzJydjZJVkZBSm0zdFhEVExmZFM0N3lReFJocDQ?oc=5)
 
 ---
 
