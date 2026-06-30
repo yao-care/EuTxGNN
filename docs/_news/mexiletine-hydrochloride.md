@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（33 則）
+
+### [Boy, 14, riddled flesh-eating disease after jumping into lake in heatwave](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmxjbkFHUmg5ZTNCOUpscGx1UlBaOS1HbDVPVHF0Q3Y5OXpKWHdFeFA1U29PVHoxVENKUWVnTGNwS1cyLU5ZYl83dmFBMW9ZUG8ySUhxbWdUS1l4UEs1V3hDMDRfX21FOHpCanZkRjVZZVFoRVh4OGljVVZibFpVQQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">AF</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmxjbkFHUmg5ZTNCOUpscGx1UlBaOS1HbDVPVHF0Q3Y5OXpKWHdFeFA1U29PVHoxVENKUWVnTGNwS1cyLU5ZYl83dmFBMW9ZUG8ySUhxbWdUS1l4UEs1V3hDMDRfX21FOHpCanZkRjVZZVFoRVh4OGljVVZibFpVQQ?oc=5)
+
+---
+
+### [Säureblocker bei Asthma und COPD: Risikofaktor für Krankheitsschübe?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
+
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
+
+---
+
+### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
+
+2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
+
+---
 
 ### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
@@ -62,11 +86,27 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Alzheimer-Prävention: DHA-Studie zeigt überraschend keinen Gedächtnis-Effekt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+### [Hacia un “traje a medida” en el tratamiento de la migraña](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlBKOVR4emZMQVRkVHp0NFI1Q1dzX1FpVS11am5IeW5WR3Y3ZE1nREVtLUY4bVZLQTBQMWtFT09NTnUyUndHRGFoZ0ZrdFJOR2VBTERoRmVyMnpDdTJOSFk3cVhXdmpBR2lNc3BNOWV2OTdORXRLbktLTVJBTFFFYThPd1R1N2xEcVZVNkR0NA?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-30 <span class="news-indication-tag">migraña</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlBKOVR4emZMQVRkVHp0NFI1Q1dzX1FpVS11am5IeW5WR3Y3ZE1nREVtLUY4bVZLQTBQMWtFT09NTnUyUndHRGFoZ0ZrdFJOR2VBTERoRmVyMnpDdTJOSFk3cVhXdmpBR2lNc3BNOWV2OTdORXRLbktLTVJBTFFFYThPd1R1N2xEcVZVNkR0NA?oc=5)
+
+---
+
+### [¿El calor provoca dolor de cabeza? Lo que dice realmente la ciencia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWlZc3B4bVpGdXB5QUlzRHlrY2hsUTlzdjRXYmR0YTUzRW9xT05SSy1yVTF6Z0N5Qm1QUzJHWngza3V2b3NwVDIyX0xLeG11bFpQLTZTcDZuNGwtZVNoM2pxS0NZUzNiTHZ6b1Zzd2N3a3lUUVZrbzctY0ZyQlpKS0FGY1NlZE9VQnBsMk9BRnJqVjRGcjJUdktGYnc?oc=5)
+
+2026-06-30 <span class="news-indication-tag">migraña</span>
+
+來源：[dolordecabeza.net](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWlZc3B4bVpGdXB5QUlzRHlrY2hsUTlzdjRXYmR0YTUzRW9xT05SSy1yVTF6Z0N5Qm1QUzJHWngza3V2b3NwVDIyX0xLeG11bFpQLTZTcDZuNGwtZVNoM2pxS0NZUzNiTHZ6b1Zzd2N3a3lUUVZrbzctY0ZyQlpKS0FGY1NlZE9VQnBsMk9BRnJqVjRGcjJUdktGYnc?oc=5)
+
+---
+
+### [Boy, 11, dies of rabies after waking up with bat lying on his mouth](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXRQengzcE5KTFlvR0o3MkRoN1JHZEZISkV3Z0pTSDJwVVJDdk9UZk44RmMxZTlLaWlzY2tVcDNYYmlQc01ZbDFaUkJQdnpqTFpsQmtMUUFfa2lBaGs3LWE3UkdYa2VDQ04xako0Sm5kYW1qdjJWMEdIZDNZRm16cXhIdTZmZEpTY0E?oc=5)
+
+2026-06-30 <span class="news-indication-tag">AF</span>
+
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXRQengzcE5KTFlvR0o3MkRoN1JHZEZISkV3Z0pTSDJwVVJDdk9UZk44RmMxZTlLaWlzY2tVcDNYYmlQc01ZbDFaUkJQdnpqTFpsQmtMUUFfa2lBaGs3LWE3UkdYa2VDQ04xako0Sm5kYW1qdjJWMEdIZDNZRm16cXhIdTZmZEpTY0E?oc=5)
 
 ---
 
@@ -78,11 +118,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Kaffee und Bluthochdruck: So viele Tassen am Tag sind erlaubt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+### [La IA ya es capaz de detectar tumores impalpables para el diagnóstico temprano de cáncer de mama - El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSEt3RTl5SjVnR3FGWUVNX0M1eTdpbXd6SmltWFdXWks5bHc5UlgtMXdFTzVXNlRZOFpkaUg3U0R6Nl9BYlpiZTY0Z0hVMEg2SVoxNV9BeDNZbkhXNHBBcEhzclF3bzgxbDJtWktCdnF3cnVINV83TDk5dHVIcUkxNHZLT3Mtb3ZsV3psNFM1MzkwRWE3MFRVOXdKZUV4RVZFQW9NMHF5UldmSng0OVFGNjhGNnlpcGNWNlVib09pMXpLTHNIZ24ya3JTeWFLa3RCcEtLckZPX1R6ZDJSWllSdHFldHB5NWJQMWhZcGJ2bTQ1TzQwY2ZJ?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSEt3RTl5SjVnR3FGWUVNX0M1eTdpbXd6SmltWFdXWks5bHc5UlgtMXdFTzVXNlRZOFpkaUg3U0R6Nl9BYlpiZTY0Z0hVMEg2SVoxNV9BeDNZbkhXNHBBcEhzclF3bzgxbDJtWktCdnF3cnVINV83TDk5dHVIcUkxNHZLT3Mtb3ZsV3psNFM1MzkwRWE3MFRVOXdKZUV4RVZFQW9NMHF5UldmSng0OVFGNjhGNnlpcGNWNlVib09pMXpLTHNIZ24ya3JTeWFLa3RCcEtLckZPX1R6ZDJSWllSdHFldHB5NWJQMWhZcGJ2bTQ1TzQwY2ZJ?oc=5)
 
 ---
 
@@ -112,7 +152,7 @@ permalink: /news/mexiletine-hydrochloride/
 
 ### [Neue Studie zeigt: Millennials und die Generation Z altern möglicherweise schneller als frühere Generationen](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CV1dGSjFDbkhBRlh5Q1JHT3BvNUNPSmRDeURORUhZY3NrRXB4Wm5jLTQxNTNnSXpCNEtBdjRMRVpJZ01URjl6Tk9qVUV4Q3p0LWt3ZFZfVXlVM21lYWpyM29Nc2IwQQ?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mein-MMO](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CV1dGSjFDbkhBRlh5Q1JHT3BvNUNPSmRDeURORUhZY3NrRXB4Wm5jLTQxNTNnSXpCNEtBdjRMRVpJZ01URjl6Tk9qVUV4Q3p0LWt3ZFZfVXlVM21lYWpyM29Nc2IwQQ?oc=5)
 
@@ -126,11 +166,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Emmy-Noether-Nachwuchsgruppe eingeworben - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUdnc0lYd25wZXhMSjdCcFUwRU00MHJXNjJwVWQ3Mk4tX09kcXJVdUhYR2dIZTVmNjNnWHVuS1Y1RUFqRWZOWE9YS084N3QtX3NSQktaeVQ4TWlpazVtWjI5Q1prVVhMVE93LTBILXBsNWFNWXdyTUdUN2k0NU5pa2lwUEFtSm95aHJZVXBsSlc2THBOX2hxYjFSd2c2bkE?oc=5)
+### [Emmy-Noether-Nachwuchsgruppe eingeworben - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUdnc0lYd25wZXhMSjdCcFUwRU00MHJXNjJwVWQ3Mk4tX09kcXJVdUhYR2dIZTVmNjNnWHVuS1Y1RUFqRWZOWE9YS084N3QtX3NSQktaeVQ4TWlpazVtWjI5Q1prVVhMVE93LTBILXBsNWFNWXdyTUdUN2k0NU5pa2lwUEFtSm95aHJZVXBsSlc2THBOX2hxYjFSd2c2bkE?oc=5)
 
 2026-06-30 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUdnc0lYd25wZXhMSjdCcFUwRU00MHJXNjJwVWQ3Mk4tX09kcXJVdUhYR2dIZTVmNjNnWHVuS1Y1RUFqRWZOWE9YS084N3QtX3NSQktaeVQ4TWlpazVtWjI5Q1prVVhMVE93LTBILXBsNWFNWXdyTUdUN2k0NU5pa2lwUEFtSm95aHJZVXBsSlc2THBOX2hxYjFSd2c2bkE?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUdnc0lYd25wZXhMSjdCcFUwRU00MHJXNjJwVWQ3Mk4tX09kcXJVdUhYR2dIZTVmNjNnWHVuS1Y1RUFqRWZOWE9YS084N3QtX3NSQktaeVQ4TWlpazVtWjI5Q1prVVhMVE93LTBILXBsNWFNWXdyTUdUN2k0NU5pa2lwUEFtSm95aHJZVXBsSlc2THBOX2hxYjFSd2c2bkE?oc=5)
 
 ---
 
@@ -142,11 +182,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Dad 'falling over after cider' was having stroke and forgot own son - Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
+### [Cat parasite infecting third of humans is 'major cause of vision loss', scientists warn - Yahoo News UK](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWtFcm1QaTFxSlY4OE0teU90SXd5Mll0ZU94Y2hpUHU1N05KMjI5WDhWRlBvU3dHdG1kNGZpaDhMYTZ3eExlZTY3UGVJRXA4ZG9CUDNOODNQUGJiNXlzZkhoekFBX3J2TTYtZWhaMTJ4enRZQllCYzh2Z2d4QjJBa0tzZWNGY1gzUG1LR2xkZVRPOF92Q1dudndZc3lZTnNOMVBvMHVrUV94UzBzZU1nc2NPa2Zjb0lhQkRxbm02S2tGNms?oc=5)
 
-2026-06-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-06-30 <span class="news-indication-tag">AF</span>
 
-來源：[Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
+來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWtFcm1QaTFxSlY4OE0teU90SXd5Mll0ZU94Y2hpUHU1N05KMjI5WDhWRlBvU3dHdG1kNGZpaDhMYTZ3eExlZTY3UGVJRXA4ZG9CUDNOODNQUGJiNXlzZkhoekFBX3J2TTYtZWhaMTJ4enRZQllCYzh2Z2d4QjJBa0tzZWNGY1gzUG1LR2xkZVRPOF92Q1dudndZc3lZTnNOMVBvMHVrUV94UzBzZU1nc2NPa2Zjb0lhQkRxbm02S2tGNms?oc=5)
 
 ---
 
@@ -158,11 +198,27 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
+### [Grande caldo, il farmacista: “Gli integratori possono aiutare ma non sostituiscono i nutrienti”](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXQ1TUtZdjB0QnpDUFBteW9aTWFsSkFVVXB6a3I1UXZQbHFWbnBFSDcySVNWME81VUFYSjBULWtkdGJUcUdLU2NPWGFsWlVxaEp2M2tSWGJrTUdOZUwwOHNjalRRS2JGT2haWHZHcGJkeE9zQ1J1bFRJRkRMemtIai1rN3FUVzlrUllGdWZRZkNqYmlDSmZPR00tYzdIS0hOZzNlN1V5ZDhVUkVHQ0E0a0Jhb1F2XzlTRVJvVjY3WlA2cmJETGp4QTFwVWFQZU5paURr?oc=5)
+
+2026-06-30 <span class="news-indication-tag">AF</span>
+
+來源：[Bergamonews](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXQ1TUtZdjB0QnpDUFBteW9aTWFsSkFVVXB6a3I1UXZQbHFWbnBFSDcySVNWME81VUFYSjBULWtkdGJUcUdLU2NPWGFsWlVxaEp2M2tSWGJrTUdOZUwwOHNjalRRS2JGT2haWHZHcGJkeE9zQ1J1bFRJRkRMemtIai1rN3FUVzlrUllGdWZRZkNqYmlDSmZPR00tYzdIS0hOZzNlN1V5ZDhVUkVHQ0E0a0Jhb1F2XzlTRVJvVjY3WlA2cmJETGp4QTFwVWFQZU5paURr?oc=5)
+
+---
+
 ### [Loire. Elle fait quinze migraines par mois : « Une douleur qui donne envie de se jeter par la fenêtre » - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
 
 2026-06-30 <span class="news-indication-tag">migraine</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
+
+---
+
+### ['Devoted' father-of-seven died after missed liver cancer signs - Lancashire Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPQkMyQ1QtMThPaTVzVV8xRndzNFJuR2dOUmVvV1drR3NMbDhRMUY3VEJZcXRNdXM5alFHTTZjVS1YSkxtWlBQOTJERUpYNVQxb2hpV0JiN1ZzZTZ0bmJycklUVVNad09INXkxb3pIb19tbjNfazFSckFIVkFzTjRLQkE5SjhnRUNiM3JoSkx1MU1sLUhWR3BuRmxBOUotZw?oc=5)
+
+2026-06-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Lancashire Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPQkMyQ1QtMThPaTVzVV8xRndzNFJuR2dOUmVvV1drR3NMbDhRMUY3VEJZcXRNdXM5alFHTTZjVS1YSkxtWlBQOTJERUpYNVQxb2hpV0JiN1ZzZTZ0bmJycklUVVNad09INXkxb3pIb19tbjNfazFSckFIVkFzTjRLQkE5SjhnRUNiM3JoSkx1MU1sLUhWR3BuRmxBOUotZw?oc=5)
 
 ---
 
@@ -174,11 +230,27 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Wie Bakterien gegen Antibiotika zusammenarbeiten - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDRaajZKa3hLdU9jTXFZZlpzSy1fZVk4cGdvSWw4VDR5WG9kdFdMdEVIX0xtcTRMNUt4RGJIdExKTUVZMlZZOUZza1NqRUp0Z3hTc01mYVJKWnAydV81WU1hWUxmVHlKYk9iMW51SHRoajdtNkJVdlhKZF92N09TOENTdlhsWDg?oc=5)
+### [30.06.26 - Seychellen: 166 Chikungunyafälle bei Reiserückkehrern](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkZPVWFjUjRDRFU3eEcxQjlMWWZVeXlZU2xpQmItN0NTdDNiSXNFQzBaZHBuTGx0RWp5TElxcjYxYmhDeHcwZmYxTjBMSXFZRUNSVjdQdXJoS05ZcDRFZzJGX3pvRDUyR3g1dzNvVnIyQ05jaVlqUndreF9SYThVcjRCaGphMG9aS0VralBoQUI0Zw?oc=5)
 
-2026-06-30 <span class="news-indication-tag">AF</span>
+2026-06-29 <span class="news-indication-tag">AF</span>
 
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDRaajZKa3hLdU9jTXFZZlpzSy1fZVk4cGdvSWw4VDR5WG9kdFdMdEVIX0xtcTRMNUt4RGJIdExKTUVZMlZZOUZza1NqRUp0Z3hTc01mYVJKWnAydV81WU1hWUxmVHlKYk9iMW51SHRoajdtNkJVdlhKZF92N09TOENTdlhsWDg?oc=5)
+來源：[Tropeninstitut](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkZPVWFjUjRDRFU3eEcxQjlMWWZVeXlZU2xpQmItN0NTdDNiSXNFQzBaZHBuTGx0RWp5TElxcjYxYmhDeHcwZmYxTjBMSXFZRUNSVjdQdXJoS05ZcDRFZzJGX3pvRDUyR3g1dzNvVnIyQ05jaVlqUndreF9SYThVcjRCaGphMG9aS0VralBoQUI0Zw?oc=5)
+
+---
+
+### [Congrès ESH 2026 : ces avancées qui vont transformer la prise en charge de l'hypertension artérielle](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
+
+2026-06-29 <span class="news-indication-tag">hypertension</span>
+
+來源：[Egora](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
+
+---
+
+### [Schwangerschaft: 78% haben Vitamin-D-Mangel trotz Supplements - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkJIQXZDczhqQzJQUG9fbGpzcG9Hc0pSNHZPUlZaM3hTYmU1RlBUTlpsVDF4UFotZ25fR1ZDWjV3Y3Zza2FTUHpSemlDSVAyUGtfaXlfNGllZTBDTGNsTHR5VVdoRFNQUmpwTk5hYVZ0NFNvNV9La2dza0JVbzFNM3NVRjVFb0tuZ2xYVHl5Wm1LY21lV3lnRFlWRmlaYUJrM3hZRnZqNG93elBSY1l5R3RPdzRrMjA?oc=5)
+
+2026-06-29 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPMkJIQXZDczhqQzJQUG9fbGpzcG9Hc0pSNHZPUlZaM3hTYmU1RlBUTlpsVDF4UFotZ25fR1ZDWjV3Y3Zza2FTUHpSemlDSVAyUGtfaXlfNGllZTBDTGNsTHR5VVdoRFNQUmpwTk5hYVZ0NFNvNV9La2dza0JVbzFNM3NVRjVFb0tuZ2xYVHl5Wm1LY21lV3lnRFlWRmlaYUJrM3hZRnZqNG93elBSY1l5R3RPdzRrMjA?oc=5)
 
 ---
 
@@ -190,19 +262,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
+### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
 
 2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
-
----
-
-### [Silent spread of 'world's most infectious' killing one Brit a WEEK - 6 symptoms - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRjNnE0ZDFwZmVzenhZRDMzM200Uk1rLW1WQkZSejJHNml1UklIOFlIS2lMVHdvdmZjX3k0NzAyZnFNOWxEN2FlOXhhQVhQcUdZVlFnQmQxQ0xBSUNEaThqVy1XZFJLakRYSm5UQUd2RVBTdklHZnhXN2U5T25zMEZEM1pzT0N2ZU12bW9hYjctZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRjNnE0ZDFwZmVzenhZRDMzM200Uk1rLW1WQkZSejJHNml1UklIOFlIS2lMVHdvdmZjX3k0NzAyZnFNOWxEN2FlOXhhQVhQcUdZVlFnQmQxQ0xBSUNEaThqVy1XZFJLakRYSm5UQUd2RVBTdklHZnhXN2U5T25zMEZEM1pzT0N2ZU12bW9hYjctZw?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
 
 ---
 
@@ -214,27 +278,11 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
+### [Kaffee und Psyche: Zwei bis drei Tassen senken Depressions-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
 
-2026-06-29 <span class="news-indication-tag">migraña</span>
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
-
----
-
-### [GLP-1-Medikamente: Krebsrisiko sinkt um 41 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMinwFBVV95cUxObjdOUU8zSGdENGllc3VBbGw2Wm5hakdNeFhHUVg2N2tYdDJWSEdocTFVa2RpOGR5LVlsX2hhN0RKVE13bTU4RnppajRHWXRVVm5vU3NPNy13Q1c0aXd5Z3hwN1hKS3RGVnFSLWVEOVFfNS03dnNrSGdfdC16dURDZGE5eGxONXd5aW9mUkQ3akRoYUotanlsRnlyY1NKOUk?oc=5)
-
----
-
-### [Jodmangel in der Schwangerschaft: 98 Prozent profitieren von korrekter Dosierung - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDdlNmM0cm5UU0I5U0hFTzhib096SW5zUGZZakwwclBKSGdmVW1JQVdkV1NGQVJJRGppejhsQUJpOC1yQjFwQUVSakl2WUsteDl2WTZmMDBnQUtBUFlGOWU4Skk5TDllX0NzX0JyTlJLS09NbHhiWkxqUWtaN2NXUE1nanM0UFJwcmNZbzk3UUpuMzZZLUVFQi1Na0h2d1dRVlN6eXp3V2pOTVNfdmR5MQ?oc=5)
-
-2026-06-29 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDdlNmM0cm5UU0I5U0hFTzhib096SW5zUGZZakwwclBKSGdmVW1JQVdkV1NGQVJJRGppejhsQUJpOC1yQjFwQUVSakl2WUsteDl2WTZmMDBnQUtBUFlGOWU4Skk5TDllX0NzX0JyTlJLS09NbHhiWkxqUWtaN2NXUE1nanM0UFJwcmNZbzk3UUpuMzZZLUVFQi1Na0h2d1dRVlN6eXp3V2pOTVNfdmR5MQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
 
 ---
 

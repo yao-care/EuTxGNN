@@ -3,7 +3,7 @@ layout: default
 title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
+<strong>AVC（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（5 則）
-
-### [Dad 'falling over after cider' was having stroke and forgot own son - Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
-
-2026-06-30
-
-來源：[Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Victime d’un AVC à Ruelle, elle recherche l’inconnu qui lui a porté secours - Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
 

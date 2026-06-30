@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（17 則）
+
+### [España lidera una investigación que confirma el potencial de la IA en la esclerosis múltiple](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2kzQzVVZmJReHlEeUlWRlBDMU1uQnQ0NngyTVZJc2pTOURkOUR1VUFMdTFCOXVHZmFGVk5GUHYzV3dKR1ZlTG51UGtXNGoxX2xrZE04QXQ1RXNONjFWVGpOR21lMUFMMGVIN01KelpKMndHRWVzaTF4NW9ZYXpzT1VGOThaNGwwRGVhaHB6Tll0eldRaktXYlpoQlpNank2enZuQ3lTQ1ZuMGcteXRucXM1eDAxOXZhR2g0?oc=5)
+
+2026-06-30 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2kzQzVVZmJReHlEeUlWRlBDMU1uQnQ0NngyTVZJc2pTOURkOUR1VUFMdTFCOXVHZmFGVk5GUHYzV3dKR1ZlTG51UGtXNGoxX2xrZE04QXQ1RXNONjFWVGpOR21lMUFMMGVIN01KelpKMndHRWVzaTF4NW9ZYXpzT1VGOThaNGwwRGVhaHB6Tll0eldRaktXYlpoQlpNank2enZuQ3lTQ1ZuMGcteXRucXM1eDAxOXZhR2g0?oc=5)
+
+---
+
+### [Caldo e raggi UV, i consigli dell’Oms: “Evitare il sole tra le 10 e le 16”](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVZFNlRhWXdzTUhxWEg2Z0dxWnpva2ozNHFLTld1OTVBOFhLTzUyQUYzSG03a1pQRW80Q2hLR0tmMTF4R0pkSFRhOHhWaXRwRUh2WTBHQi1PTHRPUHZGX1hac1lwbmIzWUpfLUUwWjdXNXNxV19wanJwNkJmR3o4TlJDaktuTjJqbG1sakNPTXJOQmI5Snp3eV9kVmVZcTR5RW4yNjF6aw?oc=5)
+
+2026-06-30 <span class="news-indication-tag">MS</span>
+
+來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVZFNlRhWXdzTUhxWEg2Z0dxWnpva2ozNHFLTld1OTVBOFhLTzUyQUYzSG03a1pQRW80Q2hLR0tmMTF4R0pkSFRhOHhWaXRwRUh2WTBHQi1PTHRPUHZGX1hac1lwbmIzWUpfLUUwWjdXNXNxV19wanJwNkJmR3o4TlJDaktuTjJqbG1sakNPTXJOQmI5Snp3eV9kVmVZcTR5RW4yNjF6aw?oc=5)
+
+---
 
 ### [Vitamin D bleibt oft auch im Sommer zu niedrig](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTVYSUxtazh3My00Q2hnSWk4Yjg0RWFhdUdHT2t1WlhEM3VvS1R5TWF6dTV2TTRYX0g0dkRpZDduUmpPZDg0OHRDZUJVNnRwVFgyT0d4ajROR3FZRktOUm5MUERlYkt4U3RLWnIteGtkZkZ1QlVwVWpaV3NnYVJBX3llLVVhNF9kN1E?oc=5)
 
@@ -70,11 +86,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [La IA tiene un gran potencial en el abordaje de la esclerosis múltiple - El médico interactivo](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDF6TmIzbWlTV0VDQVVnNlVtbUw2V1ctUEVfRkFEaEZFcWstZmRGOHZGRS1KRThKYy1CNnlDSEs4eHdFU1FMNnBnN0duanNDaE16eXlvN1B4NjNubXZGd19LU1BOblZXU2dfZHlsNFF1YzJucVRiNVloRFQ0OHhPUG9yTWpzWWVfLThaZ1kzM184bWdDUnNPRWFTelpNbHJ4MjU0WGtR?oc=5)
+### [Neue Studie zeigt: Millennials und die Generation Z altern möglicherweise schneller als frühere Generationen](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CV1dGSjFDbkhBRlh5Q1JHT3BvNUNPSmRDeURORUhZY3NrRXB4Wm5jLTQxNTNnSXpCNEtBdjRMRVpJZ01URjl6Tk9qVUV4Q3p0LWt3ZFZfVXlVM21lYWpyM29Nc2IwQQ?oc=5)
 
-2026-06-30 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDF6TmIzbWlTV0VDQVVnNlVtbUw2V1ctUEVfRkFEaEZFcWstZmRGOHZGRS1KRThKYy1CNnlDSEs4eHdFU1FMNnBnN0duanNDaE16eXlvN1B4NjNubXZGd19LU1BOblZXU2dfZHlsNFF1YzJucVRiNVloRFQ0OHhPUG9yTWpzWWVfLThaZ1kzM184bWdDUnNPRWFTelpNbHJ4MjU0WGtR?oc=5)
+來源：[Mein-MMO](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CV1dGSjFDbkhBRlh5Q1JHT3BvNUNPSmRDeURORUhZY3NrRXB4Wm5jLTQxNTNnSXpCNEtBdjRMRVpJZ01URjl6Tk9qVUV4Q3p0LWt3ZFZfVXlVM21lYWpyM29Nc2IwQQ?oc=5)
+
+---
+
+### [Tesco launches cancer checks as 1 in 3 ignore 'red flag' signs - no apt needed](https://news.google.com/rss/articles/CBMihgFBVV95cUxPblNVeVNrclp2aFlKSGNfZmdMY3g3M3k3WHJzVlItaEEwT0ZiN05VeHI5clhoX2dmWUNEeUlPbFZIMHhIU2VxZXo2UjdkNk9INTNpZzB2ZlU1UVVwbThYWWU1MWRzVGFfV1ZvZkUtWG5pS0ZHWklheUhrZnZvaXRwMWxoSWRkUQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxPblNVeVNrclp2aFlKSGNfZmdMY3g3M3k3WHJzVlItaEEwT0ZiN05VeHI5clhoX2dmWUNEeUlPbFZIMHhIU2VxZXo2UjdkNk9INTNpZzB2ZlU1UVVwbThYWWU1MWRzVGFfV1ZvZkUtWG5pS0ZHWklheUhrZnZvaXRwMWxoSWRkUQ?oc=5)
 
 ---
 
@@ -86,19 +110,27 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZEZWOV9qanJwNHhqRTN3UFBCdFZQNXJnbERrWDN1alJheFJhWXZvSjJ2UGg0bmhTVnNXaXl5M2R0YlE0YnpKb2c3MUstX2FuaGRLZDE1WXJhZlhRcXNj?oc=5)
+### [Un enfant meurt de la rage sans aucune morsure : cette chauve-souris posée sur son visage a suffi - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1d4MnY3UzVHSFhlWnRGeF82SE1nblB4U0NBZzVham1nTEN5c2FhbWQxSmQ1RXVXYUdFd2NuVDctdkRsWU5uSlpsQXcxRzgzblVINk1yLTVna2xZelVWOGttc2gwZ0dXRHgwaE1QZXdxcWZhVTc3SlgzMERvQW5CSXczcG04cFcxcnF5UVQtOWVGMU9RRFJV?oc=5)
 
-2026-06-29 <span class="news-indication-tag">MS</span>
+2026-06-30 <span class="news-indication-tag">MS</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZEZWOV9qanJwNHhqRTN3UFBCdFZQNXJnbERrWDN1alJheFJhWXZvSjJ2UGg0bmhTVnNXaXl5M2R0YlE0YnpKb2c3MUstX2FuaGRLZDE1WXJhZlhRcXNj?oc=5)
+來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1d4MnY3UzVHSFhlWnRGeF82SE1nblB4U0NBZzVham1nTEN5c2FhbWQxSmQ1RXVXYUdFd2NuVDctdkRsWU5uSlpsQXcxRzgzblVINk1yLTVna2xZelVWOGttc2gwZ0dXRHgwaE1QZXdxcWZhVTc3SlgzMERvQW5CSXczcG04cFcxcnF5UVQtOWVGMU9RRFJV?oc=5)
 
 ---
 
-### [Tiny Antarctic sea creature could be key to treating melanoma, researchers say - The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3lWNmtCZk4yNk0yN2FCM2lRX19sSF9DbFAzaFd5aEljNFczcVlpTE1hOUk0WGxPZ0NKdXFocGt0Wm1ramY1STdCUWp2TkZueVNLX1U1UVNVem9ubF9wSEJZWWktU2FlakpLd1pJTFBUakh5YllZRTlteWVwOVJJVGphWHNQRlVuRGhDcHlNMA?oc=5)
+### ['Girls' holidays in the sun probably caused my skin cancer' - Farnham Herald](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmdXV3ZFdWEzWTlMMWZGZUJwTEJ2V3RReVFkSHNoN0ZQTDVkaFpnSnVvV05VR2Z6bC1Zb2ZVbTRHeVNFSFJzM2NZbDZ0RFVRX0NGbF9xc1lGN0xCWjBCYmRyNzlPN0NXS1NucTU5cm1wZTZDN2o1cUF0Sml5aUhoMWNfVW9Tb1J2VUU4eGdaekdvUFJGSV9FWTA4WW54RUFsZkN6OFZ5WV8?oc=5)
+
+2026-06-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Farnham Herald](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWmdXV3ZFdWEzWTlMMWZGZUJwTEJ2V3RReVFkSHNoN0ZQTDVkaFpnSnVvV05VR2Z6bC1Zb2ZVbTRHeVNFSFJzM2NZbDZ0RFVRX0NGbF9xc1lGN0xCWjBCYmRyNzlPN0NXS1NucTU5cm1wZTZDN2o1cUF0Sml5aUhoMWNfVW9Tb1J2VUU4eGdaekdvUFJGSV9FWTA4WW54RUFsZkN6OFZ5WV8?oc=5)
+
+---
+
+### [Surgeons Warn: Don’t Ignore These Colorectal Cancer Symptoms, No Matter Your Age](https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEVoZFFaaXI4cmF0SUF0ODBMSWItNVZ1cGJLT0tETEdpemxIQXVmNnNMcDdMODg0cDFWaVRtREREQVBPbktZVlVSUTY5T2NKLUFKRXJ4TkNvYWtKV2tYVDI3WlJ0TFd6SzVhSUQxUUZwek9xVlZVS3hhYU0wUW14aEJjRnlwSEVuOFM0c1lQS0huVHMza3pnTENtbFplV2dEc1k3cHhB?oc=5)
 
 2026-06-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3lWNmtCZk4yNk0yN2FCM2lRX19sSF9DbFAzaFd5aEljNFczcVlpTE1hOUk0WGxPZ0NKdXFocGt0Wm1ramY1STdCUWp2TkZueVNLX1U1UVNVem9ubF9wSEJZWWktU2FlakpLd1pJTFBUakh5YllZRTlteWVwOVJJVGphWHNQRlVuRGhDcHlNMA?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEVoZFFaaXI4cmF0SUF0ODBMSWItNVZ1cGJLT0tETEdpemxIQXVmNnNMcDdMODg0cDFWaVRtREREQVBPbktZVlVSUTY5T2NKLUFKRXJ4TkNvYWtKV2tYVDI3WlJ0TFd6SzVhSUQxUUZwek9xVlZVS3hhYU0wUW14aEJjRnlwSEVuOFM0c1lQS0huVHMza3pnTENtbFplV2dEc1k3cHhB?oc=5)
 
 ---
 
@@ -114,7 +146,7 @@ permalink: /news/cariprazine-hydrochloride/
 
 2026-06-29 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXhidTRLX1pIQUVvSkV2dWVSb2FWMG90bG5BaF9SYk5CTktmTFlkNVJaYmF5M1RVWjJwc1NCRjE1VEpLX0E5d3RmeVA4c2ptU1k2WUFyOE9rNFVYYlJOM2pldGlPQXpUWVZmeG1VT0NVX0V0WTc1Z1o4SFI4ZWhfT25ITUhka1RLZ0JMZ3ZlQ24yVHpyaU5EODQ2T1RteU1PcDg1RklLYThKczZMRmJDbDFFbjVmam8?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXhidTRLX1pIQUVvSkV2dWVSb2FWMG90bG5BaF9SYk5CTktmTFlkNVJaYmF5M1RVWjJwc1NCRjE1VEpLX0E5d3RmeVA4c2ptU1k2WUFyOE9rNFVYYlJOM2pldGlPQXpUWVZmeG1VT0NVX0V0WTc1Z1o4SFI4ZWhfT25ITUhka1RLZ0JMZ3ZlQ24yVHpyaU5EODQ2T1RteU1PcDg1RklLYThKczZMRmJDbDFFbjVmam8?oc=5)
 
 ---
 
@@ -123,14 +155,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
-
----
-
-### [Silent spread of 'world's most infectious' killing one Brit a WEEK - 6 symptoms - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRjNnE0ZDFwZmVzenhZRDMzM200Uk1rLW1WQkZSejJHNml1UklIOFlIS2lMVHdvdmZjX3k0NzAyZnFNOWxEN2FlOXhhQVhQcUdZVlFnQmQxQ0xBSUNEaThqVy1XZFJLakRYSm5UQUd2RVBTdklHZnhXN2U5T25zMEZEM1pzT0N2ZU12bW9hYjctZw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRjNnE0ZDFwZmVzenhZRDMzM200Uk1rLW1WQkZSejJHNml1UklIOFlIS2lMVHdvdmZjX3k0NzAyZnFNOWxEN2FlOXhhQVhQcUdZVlFnQmQxQ0xBSUNEaThqVy1XZFJLakRYSm5UQUd2RVBTdklHZnhXN2U5T25zMEZEM1pzT0N2ZU12bW9hYjctZw?oc=5)
 
 ---
 
@@ -147,6 +171,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-06-29 <span class="news-indication-tag">MS</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkJYWXpqbUdvNmRDVHVyY0Rnd0M1MmtvQ21OVng5eXQ0QmEwUHQ2RmYtX0tHWHF3akJKbGdtWjFCRnZ1Z1lZdGdSLWtubWFfWUlBMmp6RGhWNEdoTmhCdEd5OTJrTUNuR2RGNlJZV2dPbU5mVWNEYTVHelRTM3RPeXZaMXppTnYxMUZfSHIzV1BkMEkxSGI2YnE3YnhXX1BIQ05xRzJnc1BpUk5XVktnY1ZmZTNOUVlyT25xaXBYLTd1aDZQT2xNQ2t5VzZiYUdfVWFDWHB3WDNYdjNqR1hvZNIB5gFBVV95cUxNVG0yMm5TdTZXZ25kSExpaU40cmJOY01ZTnExeG4ybzREb2lEZGFxS3N3V1N0SXFKODctRFUydXU2YlpsTUVnU2RBUEpSS0xycmhvOHc2NHl4b2ItbTJFMTVaWjBPcVF2Z1Y3MWxYYlRhVWRHcV9tY21abmFSLS1qNy11LUhIbTYwV2lTNEF4ZHpDYUdDeklBSHNKYUJEQmgzZXNReVVrdUVkdmdfblBYVjBRckpiV1h5eWV2X21QRjVVUE43RHRlUkRqNk5oVXNLSi1sZFJTOExaUGtGUWZzWFdreUt0QQ?oc=5)
+
+---
+
+### [One person a week in England dies with undiagnosed TB, study finds - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
+
+2026-06-29 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
 
 ---
 

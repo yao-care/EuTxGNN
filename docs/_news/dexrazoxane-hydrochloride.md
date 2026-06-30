@@ -54,11 +54,11 @@ permalink: /news/dexrazoxane-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+### [Säureblocker bei Asthma und COPD: Risikofaktor für Krankheitsschübe?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
-2026-06-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
 ---
 

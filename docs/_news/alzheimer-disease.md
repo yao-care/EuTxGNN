@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Scientists may have finally found how Alzheimer's spreads through the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5)
+### [Alzheimer : ce régime alimentaire pourrait réduire le risque de démence jusqu’à 29 %, révèle une grande étude sur 15 ans - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihgJBVV95cUxPSklHZTl5RXVNM0JGMGJwdjhULXdyVG9TZHNvNGR2UUpOUzB3RU1vNlRERUE4UF9xNnpsLTB0aG10Yi1oUHNEYUZ4Nk1FdVhtRUd6RzVBeW15SFRTbHZwR0VtTTBFdDhZVkJfcjBHTjNkZXFjMGhQcEtTZDBKNi1VSWdtZDNLRE01WGdvN2lsN1RwY2p3bGV5T25aQmhHR3k4cm80OUhtdEV2VV9PTWd0Y1otOXBINEZjSk4zWWl0T210dEg5NDluYTVMclczVmZwSVNZQ3paTFc2clNubU10WnlTWkRNZkRVTDVwVnZIRFFBakFRblp2NUVLOGJ1aGF3V1ZxM1Zn?oc=5)
 
-2026-06-30
+2026-06-29
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5)
-
----
-
-### [48 heures après votre dernière cigarette, votre cerveau commence déjà à se réparer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktCM3g3TjdEc3VlMFdtRjBQaXhCekVlWThNWEhyM18taUlTYnlkYUZqQ09CSmJIT2kwbDlFQXhmTWpiYktsNXVLWjVnN2FrYnQ4T3ZHdzNJU3Q4YzlBNUZ1XzV5Qnh3WlNVbjljZjNZYUZmZFRNMVBuS0JOUjl0N2FWNDR4U2Rjaml5a0lfSjM4N2ZDTDNzVmNncWpXam56ZDlHWmxpUEM?oc=5)
-
-2026-06-28
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktCM3g3TjdEc3VlMFdtRjBQaXhCekVlWThNWEhyM18taUlTYnlkYUZqQ09CSmJIT2kwbDlFQXhmTWpiYktsNXVLWjVnN2FrYnQ4T3ZHdzNJU3Q4YzlBNUZ1XzV5Qnh3WlNVbjljZjNZYUZmZFRNMVBuS0JOUjl0N2FWNDR4U2Rjaml5a0lfSjM4N2ZDTDNzVmNncWpXam56ZDlHWmxpUEM?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihgJBVV95cUxPSklHZTl5RXVNM0JGMGJwdjhULXdyVG9TZHNvNGR2UUpOUzB3RU1vNlRERUE4UF9xNnpsLTB0aG10Yi1oUHNEYUZ4Nk1FdVhtRUd6RzVBeW15SFRTbHZwR0VtTTBFdDhZVkJfcjBHTjNkZXFjMGhQcEtTZDBKNi1VSWdtZDNLRE01WGdvN2lsN1RwY2p3bGV5T25aQmhHR3k4cm80OUhtdEV2VV9PTWd0Y1otOXBINEZjSk4zWWl0T210dEg5NDluYTVMclczVmZwSVNZQ3paTFc2clNubU10WnlTWkRNZkRVTDVwVnZIRFFBakFRblp2NUVLOGJ1aGF3V1ZxM1Zn?oc=5)
 
 ---
 

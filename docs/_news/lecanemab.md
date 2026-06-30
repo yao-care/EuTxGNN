@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimerrisiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+
+---
+
+### [Eledon und Tegoprubart: Ein neuer Ansatz für Inselzelltransplantationen bei Typ-1-Diabetes](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
+
+---
 
 ### [Prädiabetes: Gewichtsverlust schützt nicht alle - Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
-
----
-
-### [Teplizumab und neue EMA-Empfehlungen: Frühdiagnostik und Sicherheit rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
-
-2026-06-30 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
 
 ---
 
@@ -78,19 +86,27 @@ permalink: /news/lecanemab/
 
 ---
 
-### [Alzheimer ab Juni 2026: Neue Antikörpertherapien und KI-Früherkennung - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNSQVVlb0ktVWRqZUZZRi1CM2xhSUtmVUx3dmYyY3V3cXFNZ3F2TkJIbjBHMTJ1NnhQNEN6ZGN2RVRHUkN2bjJmZ1lmUDRidzBwVUNlZVBDa01ybVFPMDJ6a0FjdlBXOGtZaDVXMXBfUU1XbFVOR2ZGMzVCeVIzOWZEenFEd3R5Nks5WUVfSkhobzJmUkVLdm9oUkZGdHBka085Qw?oc=5)
+### [Neue Alzheimer-Therapien: Lecanemab und Donanemab seit Juni für 120.000 Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUJqQWllejNrQllfMDhHZUZoMzl6LXlaLU1vMHUtdkFiREhNMUFiR3ViUF9tNXVGVldTY2tCMjhrdFc4R1hzaGhsSzU3OWNPVDBQaHNjWGx5RTNVZ2M4ejBtWXVQTEMxSVM2ZHdsYzZQNEFKRWJTdGg3MmdEb01IcDM4eHM1QkNLTldmeURxUEZRV215cjhRdG9yMTVldEp5SjVHYkV4NnBCWHRESnlGNURzaGRwNUI1UDZDbA?oc=5)
 
 2026-06-30 <span class="news-drug-tag">Lecanemab</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNSQVVlb0ktVWRqZUZZRi1CM2xhSUtmVUx3dmYyY3V3cXFNZ3F2TkJIbjBHMTJ1NnhQNEN6ZGN2RVRHUkN2bjJmZ1lmUDRidzBwVUNlZVBDa01ybVFPMDJ6a0FjdlBXOGtZaDVXMXBfUU1XbFVOR2ZGMzVCeVIzOWZEenFEd3R5Nks5WUVfSkhobzJmUkVLdm9oUkZGdHBka085Qw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUJqQWllejNrQllfMDhHZUZoMzl6LXlaLU1vMHUtdkFiREhNMUFiR3ViUF9tNXVGVldTY2tCMjhrdFc4R1hzaGhsSzU3OWNPVDBQaHNjWGx5RTNVZ2M4ejBtWXVQTEMxSVM2ZHdsYzZQNEFKRWJTdGg3MmdEb01IcDM4eHM1QkNLTldmeURxUEZRV215cjhRdG9yMTVldEp5SjVHYkV4NnBCWHRESnlGNURzaGRwNUI1UDZDbA?oc=5)
 
 ---
 
-### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
 
-2026-06-29 <span class="news-indication-tag">diabetes</span>
+2026-06-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+
+---
+
+### [Tierisches Protein verdoppelt Diabetes-Risiko: 205.000er-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkI3UV9fcXl4M0VnV2R2V3ZqQnZ2ODFOMlo2Znc3MDR2aGp0SHB5QlNubFRlVXB4MG9xdGc5VzRhcE9YSWNZY0hJSGRIN1hXNTAwZ3A1UHJvbDFUendobHRTeUN5SS1WSHlkUTdEanVCSVFjNDZzQ2lUR1hBVUZ3ZUtGSEl2blVnS3Rmb010eDRGZ2ItZTdHWmdzM3cxQWNsRHlldnpGR2tVVHc4d0VibQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkI3UV9fcXl4M0VnV2R2V3ZqQnZ2ODFOMlo2Znc3MDR2aGp0SHB5QlNubFRlVXB4MG9xdGc5VzRhcE9YSWNZY0hJSGRIN1hXNTAwZ3A1UHJvbDFUendobHRTeUN5SS1WSHlkUTdEanVCSVFjNDZzQ2lUR1hBVUZ3ZUtGSEl2blVnS3Rmb010eDRGZ2ItZTdHWmdzM3cxQWNsRHlldnpGR2tVVHc4d0VibQ?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/lecanemab/
 2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
-
----
-
-### [Tierische Proteine: Hoher Fleischkonsum verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
 
 ---
 

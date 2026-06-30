@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiovascular disease</span></li>
+<li>heart disease（98.0%）</li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,21 +52,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+### [Rheumatoide Arthritis: Vagusnerv-Implantat und CAR-T erweitern die Therapieoptionen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
 
 2026-06-30 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
-
----
-
-### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
-
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
 
 ---
 

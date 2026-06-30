@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
 ### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Alzheimer-Prävention: DHA-Studie zeigt überraschend keinen Gedächtnis-Effekt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+### [Congrès ESH 2026 : ces avancées qui vont transformer la prise en charge de l'hypertension artérielle](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
+2026-06-29 <span class="news-indication-tag">hypertension</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
-
----
-
-### [Kaffee und Bluthochdruck: So viele Tassen am Tag sind erlaubt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
-
----
-
-### [Dad 'falling over after cider' was having stroke and forgot own son - Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
-
-2026-06-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
+來源：[Egora](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
 
 ---
 
@@ -91,14 +75,6 @@ permalink: /news/telmisartan/
 2026-06-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
-
----
-
-### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
-
-2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
 ---
 

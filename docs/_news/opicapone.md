@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Scientists may have finally found how Alzheimer's spreads through the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5)
+### [Alzheimer : ce régime alimentaire pourrait réduire le risque de démence jusqu’à 29 %, révèle une grande étude sur 15 ans - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihgJBVV95cUxPSklHZTl5RXVNM0JGMGJwdjhULXdyVG9TZHNvNGR2UUpOUzB3RU1vNlRERUE4UF9xNnpsLTB0aG10Yi1oUHNEYUZ4Nk1FdVhtRUd6RzVBeW15SFRTbHZwR0VtTTBFdDhZVkJfcjBHTjNkZXFjMGhQcEtTZDBKNi1VSWdtZDNLRE01WGdvN2lsN1RwY2p3bGV5T25aQmhHR3k4cm80OUhtdEV2VV9PTWd0Y1otOXBINEZjSk4zWWl0T210dEg5NDluYTVMclczVmZwSVNZQ3paTFc2clNubU10WnlTWkRNZkRVTDVwVnZIRFFBakFRblp2NUVLOGJ1aGF3V1ZxM1Zn?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Alzheimer's</span>
+2026-06-29 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5)
-
----
-
-### [Europa avala innovador medicamento para Parkinson que combina liberación inmediata y prolongada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQms4ZFlGd245XzZSdU1nenJHTWFCRFlRa3Qtd2JYSFlIcGpIWnhtNEZjMGdjTzRqcml2X295RE5zR1o1TjJ3c0tOMmdtSUV4OW00Y2M5em4zUjZWbFEzYXBCdmxhRUJoNFRYMDhlNlZ3SjVMcFJ3WkpVZG1lV0Y5dTBwc1VkMUd2Z0tTSUFIcmQzbV9Rb3c4aVNYT2pCWkt1ODlBMWlseTQ4Mk5SYm1FdkV6Y2xiWFY5OGNwTWhlNnl5bjhxSDRlcVM2NlBwTGUxUmlKNHpMRl9wTFBPeUo0ZjFBOGhiVHBpZlow0gHwAUFVX3lxTE5vdUlrUWhVZzEwWVl6bUd2SGhUVjEtZlBvRXNILWVMblFpWUtLOHdMY1hNX2p3TXYxMVptVDFORktqeDRFLU5hZWxrTVdGd2VKeDV4WndCZGRFeG0xbUVqdENhOVliZFpPaERKUGNDWkVvNzFpQzZpdHJYVWNHdVJraVpMdzdwNVZqbkNXZklDYndLbG5ScEhmbXpHQnBualhZVWNocWlKbllIQVV0b3dOTnlWUzFhMENWQ0otd2NOdjdsTkJIeE5fbWd5TWdadklYYWx6dmhmbmVVLVk3b29Vc19PdVVwcmtENTM0VE4tbw?oc=5)
-
-2026-06-28 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQms4ZFlGd245XzZSdU1nenJHTWFCRFlRa3Qtd2JYSFlIcGpIWnhtNEZjMGdjTzRqcml2X295RE5zR1o1TjJ3c0tOMmdtSUV4OW00Y2M5em4zUjZWbFEzYXBCdmxhRUJoNFRYMDhlNlZ3SjVMcFJ3WkpVZG1lV0Y5dTBwc1VkMUd2Z0tTSUFIcmQzbV9Rb3c4aVNYT2pCWkt1ODlBMWlseTQ4Mk5SYm1FdkV6Y2xiWFY5OGNwTWhlNnl5bjhxSDRlcVM2NlBwTGUxUmlKNHpMRl9wTFBPeUo0ZjFBOGhiVHBpZlow0gHwAUFVX3lxTE5vdUlrUWhVZzEwWVl6bUd2SGhUVjEtZlBvRXNILWVMblFpWUtLOHdMY1hNX2p3TXYxMVptVDFORktqeDRFLU5hZWxrTVdGd2VKeDV4WndCZGRFeG0xbUVqdENhOVliZFpPaERKUGNDWkVvNzFpQzZpdHJYVWNHdVJraVpMdzdwNVZqbkNXZklDYndLbG5ScEhmbXpHQnBualhZVWNocWlKbllIQVV0b3dOTnlWUzFhMENWQ0otd2NOdjdsTkJIeE5fbWd5TWdadklYYWx6dmhmbmVVLVk3b29Vc19PdVVwcmtENTM0VE4tbw?oc=5)
-
----
-
-### [48 heures après votre dernière cigarette, votre cerveau commence déjà à se réparer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktCM3g3TjdEc3VlMFdtRjBQaXhCekVlWThNWEhyM18taUlTYnlkYUZqQ09CSmJIT2kwbDlFQXhmTWpiYktsNXVLWjVnN2FrYnQ4T3ZHdzNJU3Q4YzlBNUZ1XzV5Qnh3WlNVbjljZjNZYUZmZFRNMVBuS0JOUjl0N2FWNDR4U2Rjaml5a0lfSjM4N2ZDTDNzVmNncWpXam56ZDlHWmxpUEM?oc=5)
-
-2026-06-28 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktCM3g3TjdEc3VlMFdtRjBQaXhCekVlWThNWEhyM18taUlTYnlkYUZqQ09CSmJIT2kwbDlFQXhmTWpiYktsNXVLWjVnN2FrYnQ4T3ZHdzNJU3Q4YzlBNUZ1XzV5Qnh3WlNVbjljZjNZYUZmZFRNMVBuS0JOUjl0N2FWNDR4U2Rjaml5a0lfSjM4N2ZDTDNzVmNncWpXam56ZDlHWmxpUEM?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihgJBVV95cUxPSklHZTl5RXVNM0JGMGJwdjhULXdyVG9TZHNvNGR2UUpOUzB3RU1vNlRERUE4UF9xNnpsLTB0aG10Yi1oUHNEYUZ4Nk1FdVhtRUd6RzVBeW15SFRTbHZwR0VtTTBFdDhZVkJfcjBHTjNkZXFjMGhQcEtTZDBKNi1VSWdtZDNLRE01WGdvN2lsN1RwY2p3bGV5T25aQmhHR3k4cm80OUhtdEV2VV9PTWd0Y1otOXBINEZjSk4zWWl0T210dEg5NDluYTVMclczVmZwSVNZQ3paTFc2clNubU10WnlTWkRNZkRVTDVwVnZIRFFBakFRblp2NUVLOGJ1aGF3V1ZxM1Zn?oc=5)
 
 ---
 

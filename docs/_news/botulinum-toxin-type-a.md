@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
+### [Säureblocker bei Asthma und COPD: Risikofaktor für Krankheitsschübe?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
-2026-06-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
-
----
-
-### [Europa avala innovador medicamento para Parkinson que combina liberación inmediata y prolongada - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQms4ZFlGd245XzZSdU1nenJHTWFCRFlRa3Qtd2JYSFlIcGpIWnhtNEZjMGdjTzRqcml2X295RE5zR1o1TjJ3c0tOMmdtSUV4OW00Y2M5em4zUjZWbFEzYXBCdmxhRUJoNFRYMDhlNlZ3SjVMcFJ3WkpVZG1lV0Y5dTBwc1VkMUd2Z0tTSUFIcmQzbV9Rb3c4aVNYT2pCWkt1ODlBMWlseTQ4Mk5SYm1FdkV6Y2xiWFY5OGNwTWhlNnl5bjhxSDRlcVM2NlBwTGUxUmlKNHpMRl9wTFBPeUo0ZjFBOGhiVHBpZlow0gHwAUFVX3lxTE5vdUlrUWhVZzEwWVl6bUd2SGhUVjEtZlBvRXNILWVMblFpWUtLOHdMY1hNX2p3TXYxMVptVDFORktqeDRFLU5hZWxrTVdGd2VKeDV4WndCZGRFeG0xbUVqdENhOVliZFpPaERKUGNDWkVvNzFpQzZpdHJYVWNHdVJraVpMdzdwNVZqbkNXZklDYndLbG5ScEhmbXpHQnBualhZVWNocWlKbllIQVV0b3dOTnlWUzFhMENWQ0otd2NOdjdsTkJIeE5fbWd5TWdadklYYWx6dmhmbmVVLVk3b29Vc19PdVVwcmtENTM0VE4tbw?oc=5)
-
-2026-06-28 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQms4ZFlGd245XzZSdU1nenJHTWFCRFlRa3Qtd2JYSFlIcGpIWnhtNEZjMGdjTzRqcml2X295RE5zR1o1TjJ3c0tOMmdtSUV4OW00Y2M5em4zUjZWbFEzYXBCdmxhRUJoNFRYMDhlNlZ3SjVMcFJ3WkpVZG1lV0Y5dTBwc1VkMUd2Z0tTSUFIcmQzbV9Rb3c4aVNYT2pCWkt1ODlBMWlseTQ4Mk5SYm1FdkV6Y2xiWFY5OGNwTWhlNnl5bjhxSDRlcVM2NlBwTGUxUmlKNHpMRl9wTFBPeUo0ZjFBOGhiVHBpZlow0gHwAUFVX3lxTE5vdUlrUWhVZzEwWVl6bUd2SGhUVjEtZlBvRXNILWVMblFpWUtLOHdMY1hNX2p3TXYxMVptVDFORktqeDRFLU5hZWxrTVdGd2VKeDV4WndCZGRFeG0xbUVqdENhOVliZFpPaERKUGNDWkVvNzFpQzZpdHJYVWNHdVJraVpMdzdwNVZqbkNXZklDYndLbG5ScEhmbXpHQnBualhZVWNocWlKbllIQVV0b3dOTnlWUzFhMENWQ0otd2NOdjdsTkJIeE5fbWd5TWdadklYYWx6dmhmbmVVLVk3b29Vc19PdVVwcmtENTM0VE4tbw?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
 ---
 

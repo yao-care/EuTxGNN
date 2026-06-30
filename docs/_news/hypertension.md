@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
@@ -93,19 +93,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [Alzheimer-Prävention: DHA-Studie zeigt überraschend keinen Gedächtnis-Effekt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+### [Congrès ESH 2026 : ces avancées qui vont transformer la prise en charge de l'hypertension artérielle](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
 
-2026-06-30
+2026-06-29
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
-
----
-
-### [Kaffee und Bluthochdruck: So viele Tassen am Tag sind erlaubt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
-
-2026-06-30
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+來源：[Egora](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
 
 ---
 

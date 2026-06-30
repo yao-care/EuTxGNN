@@ -54,11 +54,11 @@ permalink: /news/abatacept/
 
 ## 相關新聞（1 則）
 
-### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+### [Rheumatoide Arthritis: Vagusnerv-Implantat und CAR-T erweitern die Therapieoptionen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
 
 2026-06-30 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
 
 ---
 

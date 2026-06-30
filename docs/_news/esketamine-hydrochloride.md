@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [La ciencia investiga el uso de suplementos de creatina frente a la depresión: 'Podría ayudar a aliviar algunos síntomas' - El Periódico](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUZlRV9hNll2U0tDYWRkR2pmMlBEeVVMZjVuQmlyQzBIa2FVcVhtRG5fWDZobGxqVW9mNXpYRkhzS0dEVDJMLU0yWGZrOUpTTWI0WnVjb2NGTlVoWUN3eEQ5TkJKNk1uZVJxQ2p5Z1BvS3BQM0Rla19DZHlWYUR0eVBmTjlhWkNFSkNRdkNnNS0yMWJVTFVNVDFyTFF4R2tkb1Z5UjVlam1mdUdCcHplMzZUYnd5Y00?oc=5)
+### [Los expertos en salud mental coinciden: la creatina ofrece resultados prometedores para la depresión, aunque todavía no existen pruebas concluyentes - El Economista](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYUZiSFRpSlN2RlhYQ0lIYXliV2VmR0NPMzJ0bXpZREdpdV9hOHVoTmVISkhjN0NrYzh3M3dPSjg5c1ZibmFGN1VpVVZ3RXlOMUZmNkExYXVtUHk2TktKQ1pHc25JaHdmbFpOM2pSM1BWRzNFV1NBVlVsMVQ4ODNLOUFWR3hYb2NXQ0d6QmFzX3R1WkQ4WEdUWlRPaWRGX0hmcUNmN09pd1AwREVzd0J5MlgxS3FPM1o5dWFwQzlhcVpRT000VUdrUlVvV096d2NvekJxM3JVRE1QakgxcTZsZ0pYbXVnX2xBUkotVWotNkN3OXhhVW1yREc3d1NyZnd3eDNiWGhQMTJSX0pqUFFlSnJ0eWJoc1pBNXZFSFB6blBtNmdkbkpLclpFTUZIXzMycjA0cDJ6T25MV0pkZV9GTXppNlRWb3pwM25XMktDZV81QdIBvAJBVV95cUxOTXF2d0xFZmp1M1FrV3VNWnBMdU5RSVdBdGR1WWI2ZGpsbTBTdW9WQS1jUW1XWjdIQ282cXNXbFladkJGU2dDY1RZbElzQTdVcC1KZ3V4em80OXBDdTlDSnhnaGRFLU1vQ2lCcDVlX3FjQmZPai0wdHNIdV9jNENvZzY3THRhc3lRUmFsVXRfdEFmZ3ZmT0NMYm9IXzh3OGlJT1FIYTV4c29HcnY4YXlEV0NzSnNVUFBENndvbllPRE5OcnN6WExzTlpTb0RPNzBmZTduakp1SUxpeUhDX3ZkYTFITFNmMFcweXZReEczR0VsQXF3MUFqdERHOXRCUFZmbnF0N0lqdXcyd3J1VjRud2FhZVZwZzQySWVJR0NHOHBfNzBBcVpyRkZ3RWZmMjJxeks3VTQ4V1FreVJj?oc=5)
 
 2026-06-30 <span class="news-indication-tag">depresión</span>
 
-來源：[El Periódico](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUZlRV9hNll2U0tDYWRkR2pmMlBEeVVMZjVuQmlyQzBIa2FVcVhtRG5fWDZobGxqVW9mNXpYRkhzS0dEVDJMLU0yWGZrOUpTTWI0WnVjb2NGTlVoWUN3eEQ5TkJKNk1uZVJxQ2p5Z1BvS3BQM0Rla19DZHlWYUR0eVBmTjlhWkNFSkNRdkNnNS0yMWJVTFVNVDFyTFF4R2tkb1Z5UjVlam1mdUdCcHplMzZUYnd5Y00?oc=5)
-
----
-
-### [Kaffee und Bluthochdruck: So viele Tassen am Tag sind erlaubt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYUZiSFRpSlN2RlhYQ0lIYXliV2VmR0NPMzJ0bXpZREdpdV9hOHVoTmVISkhjN0NrYzh3M3dPSjg5c1ZibmFGN1VpVVZ3RXlOMUZmNkExYXVtUHk2TktKQ1pHc25JaHdmbFpOM2pSM1BWRzNFV1NBVlVsMVQ4ODNLOUFWR3hYb2NXQ0d6QmFzX3R1WkQ4WEdUWlRPaWRGX0hmcUNmN09pd1AwREVzd0J5MlgxS3FPM1o5dWFwQzlhcVpRT000VUdrUlVvV096d2NvekJxM3JVRE1QakgxcTZsZ0pYbXVnX2xBUkotVWotNkN3OXhhVW1yREc3d1NyZnd3eDNiWGhQMTJSX0pqUFFlSnJ0eWJoc1pBNXZFSFB6blBtNmdkbkpLclpFTUZIXzMycjA0cDJ6T25MV0pkZV9GTXppNlRWb3pwM25XMktDZV81QdIBvAJBVV95cUxOTXF2d0xFZmp1M1FrV3VNWnBMdU5RSVdBdGR1WWI2ZGpsbTBTdW9WQS1jUW1XWjdIQ282cXNXbFladkJGU2dDY1RZbElzQTdVcC1KZ3V4em80OXBDdTlDSnhnaGRFLU1vQ2lCcDVlX3FjQmZPai0wdHNIdV9jNENvZzY3THRhc3lRUmFsVXRfdEFmZ3ZmT0NMYm9IXzh3OGlJT1FIYTV4c29HcnY4YXlEV0NzSnNVUFBENndvbllPRE5OcnN6WExzTlpTb0RPNzBmZTduakp1SUxpeUhDX3ZkYTFITFNmMFcweXZReEczR0VsQXF3MUFqdERHOXRCUFZmbnF0N0lqdXcyd3J1VjRud2FhZVZwZzQySWVJR0NHOHBfNzBBcVpyRkZ3RWZmMjJxeks3VTQ4V1FreVJj?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ---
 
-### [Un estudio halla biomarcadores en sangre que muestran cambios moleculares tras la psicoterapia para la depresión](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
+### [Kaffee und Psyche: Zwei bis drei Tassen senken Depressions-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
 
-2026-06-28 <span class="news-indication-tag">depresión</span>
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVNRcHVLZEZFb05tY1luY2JXYWM5MzdxTEtyMDlyb1hiZy1KdVYxcjhaN2xuakx5ejc2U01fQVo1SmppbWJwTkdQWVFnUkZPWktTdXV0QV9xQlJUVWt5NVpObGNoQnhqNjFTbEJIek5fTlhFdnBJcUFCUXg1ZFpoWV94U1NVWEhqMUNVY2RRbFRydjFvQUQwWFRZYnZDVFhCeUc5RGpraE5mSlh3amhqXzF1SjQzS0tpUml4bUR0dGV3eGJmQkJZQVo5R0h3TWtnbjBuWlBmRDVjM0JWT2gxQk5n?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
 
 ---
 
