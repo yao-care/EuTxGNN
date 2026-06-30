@@ -64,7 +64,7 @@ permalink: /news/orlistat/
 
 ### [About 170,000 people in England expected to die from obesity-linked heart conditions by 2035 - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
-2026-06-29 <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2g1WG8xRTdTRUwzZ1FQeHpTRVU4dkVBSUJBbjl4cVlxVlpHZUd6bThGb3JRUnVNaWE0RGVTTTFkRlR6SkZzQU9kNDBQTTZOdTEzdTlKZ0VZQ2x0QzB1djJZblBCZlBqNERDMnU1OHNQNG1SVVBZY1FlaG0yUlFSOFhoU29SaUtoYm8wVUZTOXNmWVdIRTdXekcxbmZDX2VrWUs3VmMzZTdmXzg1NFFv?oc=5)
 
@@ -94,11 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Zahnpflege senkt Demenzrisiko: 2 bis 4 Prozent potenziell vermeidbar - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG1PUWpYVnN6aFpoVTdhdGMtT2JBYlhqZ2luNDNubDhFVE45OFduanQ3WU1PU1dBTjNiWWM3UGF3bk5jTm5fbHlKU3k5ekNteGJFazJIM01tekVoTGlWbFhFMWpMNUN2YnJ3QzlpV3R3SU0tS05BWW1JT0RpYjVBQk5DQXl1Q3RIdGY1U2h4V3VyZ1pBQnJZRG0ycmpfRDhG?oc=5)
+### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
-2026-06-28 <span class="news-indication-tag">Schlaganfall</span>
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG1PUWpYVnN6aFpoVTdhdGMtT2JBYlhqZ2luNDNubDhFVE45OFduanQ3WU1PU1dBTjNiWWM3UGF3bk5jTm5fbHlKU3k5ekNteGJFazJIM01tekVoTGlWbFhFMWpMNUN2YnJ3QzlpV3R3SU0tS05BWW1JT0RpYjVBQk5DQXl1Q3RIdGY1U2h4V3VyZ1pBQnJZRG0ycmpfRDhG?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
 ---
 

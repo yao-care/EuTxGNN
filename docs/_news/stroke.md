@@ -57,11 +57,11 @@ permalink: /news/stroke/
 
 ---
 
-### [Zahnpflege senkt Demenzrisiko: 2 bis 4 Prozent potenziell vermeidbar - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG1PUWpYVnN6aFpoVTdhdGMtT2JBYlhqZ2luNDNubDhFVE45OFduanQ3WU1PU1dBTjNiWWM3UGF3bk5jTm5fbHlKU3k5ekNteGJFazJIM01tekVoTGlWbFhFMWpMNUN2YnJ3QzlpV3R3SU0tS05BWW1JT0RpYjVBQk5DQXl1Q3RIdGY1U2h4V3VyZ1pBQnJZRG0ycmpfRDhG?oc=5)
+### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
-2026-06-28
+2026-06-29
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG1PUWpYVnN6aFpoVTdhdGMtT2JBYlhqZ2luNDNubDhFVE45OFduanQ3WU1PU1dBTjNiWWM3UGF3bk5jTm5fbHlKU3k5ekNteGJFazJIM01tekVoTGlWbFhFMWpMNUN2YnJ3QzlpV3R3SU0tS05BWW1JT0RpYjVBQk5DQXl1Q3RIdGY1U2h4V3VyZ1pBQnJZRG0ycmpfRDhG?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
 ---
 

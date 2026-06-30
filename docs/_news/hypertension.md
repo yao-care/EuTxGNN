@@ -85,11 +85,11 @@ permalink: /news/hypertension/
 
 ## 相關新聞（4 則）
 
-### [Herz-Kreislauf-Erkrankungen: Hypotonie scheint Alzheimer-Risiko besonders zu erhöhen - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+### [Fischöl-Studie enttäuscht: DHA bringt keine Gedächtnis-Verbesserung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
 
 2026-06-29
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
 
 ---
 

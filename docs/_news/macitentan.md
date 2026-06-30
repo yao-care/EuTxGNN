@@ -54,11 +54,11 @@ permalink: /news/macitentan/
 
 ## 相關新聞（4 則）
 
-### [Herz-Kreislauf-Erkrankungen: Hypotonie scheint Alzheimer-Risiko besonders zu erhöhen - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+### [Fischöl-Studie enttäuscht: DHA bringt keine Gedächtnis-Verbesserung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
 
 2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0FlN0dCRUtyazcxNkhOaklVcG5OYmQ0Smoyb3lBeEJ0QktIQWJBMzR4LUlVcDNxTnZVVS1hZENsNjNraGk2SkpHV1B1Z1haZGhmM2g1cEZnRnc2S0k5X2Q0dEJKNzNBQ2huT3RrYjlOOTV1b0F0OHlWeFR3dXRvYWhnRlBXa21BMzkxbl9NTlJqUEdEMWhrbGpvZkR6dFBsQXlQblhR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxONy1WWXlSUGpDSVp1dGZmNzJXeEJqQWJHeUQwZnNiajFnenJ5bmVJQl9CZkszekh2V2JjeS0tdFBZU1RhWmJtTk9xOHNjV2h2ZVBCWmFOTUdfMTVsUE9MVVFpdzdMczB4M3JMRkRQTllIdWR1eHVydVMxQ21aNHk4aWhhZjRpZkw4LWVpWXJpWTB1cWgzSWdLU3ZFWkVSN2liRHFqbDMwbjk3TXdXWXFNS1g1WjVIS1pQQ2c?oc=5)
 
 ---
 
@@ -72,7 +72,7 @@ permalink: /news/macitentan/
 
 ### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 

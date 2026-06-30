@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Postpartale Depression: Zuranolon ab Juli – erstes Spezial-Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
+
+---
+
+### [Kaffee und Psyche: Zwei bis drei Tassen senken Depressions-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
+
+2026-06-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
 
 ---
 

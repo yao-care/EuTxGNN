@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Postpartale Depression: Zuranolon ab Juli – erstes Spezial-Medikament - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
 
 2026-06-29
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW8zeUYwZk1FN1ZJaGVnYV9LanRCbU9CZUwyT1ZMOGNrVmpaTFQ1dG1qUDgwNS0ydktWblh0bTlPM29Oc2p4SVhTVXZlbzVFWFhsMVJESkVjRWhKaVU3Nnd3amlfS3VLb3d4YjVlUmVSSkIwbEMxSklxSjh5WDFwWVJmNFBXekEyUmZtRGJuNTlHVE5FSXZjYmZXRWxXdkFVa1FRWWE1Y0NfRDBuUndFU3ZqWFFQdw?oc=5)
+
+---
+
+### [Kaffee und Psyche: Zwei bis drei Tassen senken Depressions-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
+
+2026-06-29
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFRoTXpDcVVNNlctQXVZYmdqcjc2elFOOXQ0T0k2STJuakRGV0R2RDVCbUItUXc5ekN1WkxLcXJmYVh0bFl6TE9RaGNhNEtOeU5kQmhHdDBJVExTVGJ6eTVuNHBCZnBxc1N3N0RFVjUtSzVUWFBHeXhaMW1aVlpoVklGUFZGTDV5aUlidlA5Zm5fQ1RmaTlpRXJUSU5BSGFtRDBjcHF5ejFiQXNSeVU5QURxdw?oc=5)
 
 ---
 

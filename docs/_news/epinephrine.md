@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [PPI können die Lunge bei Asthma und COPD zusätzlich belasten - Medical Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlR2c0dkbTl0bUo1V0x6YXVGODZDLTdCaVRhWlFJVUlrVGE0cE1BbzBwR3AwaU5EMjZXWHVuMnUwODR3WVYyQklzb1RSOXpXSGNreXJTWGVfQ2QwNXBnQVREaG5YcVpOZThNR2I1eFc5M3ZGRVQzcFp0YUdOSUd5Nk5aT0hLMy1fdDN0THUxbTg1dDJiLTU0MGJYUjc5R1l3Z2paNDZpbXZ6WDIxLXE5Qlk4MG80a3loY1Fj?oc=5)
 
@@ -83,6 +83,14 @@ permalink: /news/epinephrine/
 2026-06-28 <span class="news-indication-tag">EPOC</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1F4ajNETkc0STNKa1ZwcE1RZzVQcFhYaWJqUUhzSHA2eUtkY2JDMDRVVHhmTVBkY2ZnUURRYk5GbXhXQXBVRTBFd0VoWElUTlZ4US04NGFUN19ST3QwSzZYbE5mQlR5eVd1bnBQeGstRDhxRGx0TjVBTGdRNEc3Z0UyMm1HalAtOHJMZDRfWGdKY1NEbnJxR2hsS2haNDQ5NE0tNm9OemlKTENRUy1obVI0VGg4bmhaY0k2bDUwTGllQWZvTjM2ZVc5UlpCMTI4U20xYnNB?oc=5)
+
+---
+
+### [Mantener controlado el colesterol a largo plazo reduce el riesgo cardiovascular tras un infarto - Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzcxRWpmNWtjQWxkdUdYN09jR0pCRDlIdHhDLXUxN2hEZVY4bWljYTg0anQ1YXRrVnI2cjVTRmdqWGtDUEtYSHJoSExIZUoxR2MxaEFuMXRfV1dmWV9mRjZDMTltc1h1NkFOYUxKYnprSmh6UTc1dk9NdWhzLVVxNmdRNlRud0JVUDVrUTBSQlJrVWNka3NxSzFCdDROWnlKWXZpTXE2VTlJTmF3VVd3Nm9PczFyc1dVaUk3R1NvTmQ1ZGg4MVNuMjJsc0Zrb1E?oc=5)
+
+2026-06-28 <span class="news-indication-tag">asma</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzcxRWpmNWtjQWxkdUdYN09jR0pCRDlIdHhDLXUxN2hEZVY4bWljYTg0anQ1YXRrVnI2cjVTRmdqWGtDUEtYSHJoSExIZUoxR2MxaEFuMXRfV1dmWV9mRjZDMTltc1h1NkFOYUxKYnprSmh6UTc1dk9NdWhzLVVxNmdRNlRud0JVUDVrUTBSQlJrVWNka3NxSzFCdDROWnlKWXZpTXE2VTlJTmF3VVd3Nm9PczFyc1dVaUk3R1NvTmQ1ZGg4MVNuMjJsc0Zrb1E?oc=5)
 
 ---
 
