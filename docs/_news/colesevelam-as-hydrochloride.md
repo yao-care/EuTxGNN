@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+### [Prädiabetes: Gewichtsverlust schützt nicht alle - Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
 
 ---
 
-### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
+### [Teplizumab und neue EMA-Empfehlungen: Frühdiagnostik und Sicherheit rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Herzerkrankung</span>
+2026-06-30 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
+
+---
+
+### [I’m a diabetes doctor. This is how we drive down the disease - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
 
 ---
 

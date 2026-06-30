@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
 
-### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+### [Prädiabetes: Gewichtsverlust schützt nicht alle - Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
+
+---
+
+### [Teplizumab und neue EMA-Empfehlungen: Frühdiagnostik und Sicherheit rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
+
+2026-06-30 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
+
+---
+
+### [I’m a diabetes doctor. This is how we drive down the disease - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/semaglutide/
 2026-06-29 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTYtQzRMelpFQ3E5aGRyeExSSTMyZnllY2QwV0FKd1dXbTJNLUZWTlFRTF9GQzBsN0wtTUxfZzNKQ20xMDZhVTFvM29ueXZMbkR1cjB4M0hDWmdNQ25XRDZCRW80QzBfREl6LUhzTHpBUHhOSFFvTktmNmFlTjA0WEVRUUI0T2xFczdTRFFhRzMxb2puQXJlS2pLTnZfRlV3SUNuWElHMTg1c3UtcHVRcTR0UGI?oc=5)
+
+---
+
+### [La píldora de adelgazar que viene después del Ozempic: dos ensayos de fase II presentan resultados prometedores en junio de 2026 - WWWhat's new](https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2ZVUWo4V3dpMlNjVkxDRkFvOEh0dlVBa0I1ck9zMVVsZEFXWXlrNXJmVUtJWktRTEpza1E3SVoyQXYtaUp5VDlJR24tSDQwVXM4VjlCYkpUME1xb1hkdEhmdmUxbDhXd09lcW5PZlBCSklLTnN4ZGlDdGxKSVh3N0VEWXY4dlBTSW9JUndoaUhlSFlOUDRrR05GNA?oc=5)
+
+2026-06-28 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[WWWhat's new](https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2ZVUWo4V3dpMlNjVkxDRkFvOEh0dlVBa0I1ck9zMVVsZEFXWXlrNXJmVUtJWktRTEpza1E3SVoyQXYtaUp5VDlJR24tSDQwVXM4VjlCYkpUME1xb1hkdEhmdmUxbDhXd09lcW5PZlBCSklLTnN4ZGlDdGxKSVh3N0VEWXY4dlBTSW9JUndoaUhlSFlOUDRrR05GNA?oc=5)
 
 ---
 

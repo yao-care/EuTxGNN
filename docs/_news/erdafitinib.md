@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
+
+2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
+
+---
+
+### [Alzheimer-Prävention: DHA-Studie zeigt überraschend keinen Gedächtnis-Effekt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+
+2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+
+---
+
+### [Kaffee und Bluthochdruck: So viele Tassen am Tag sind erlaubt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: CAR-T-Zellen erzielen 90% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
 
 2026-06-30 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjhBMWhobUZMdjVqTmhsX0NTS2s4YnlwaGphLU5pSE9HNEYwWl9xWG9xVnFxdFFQWG5xSnE0RmtFSUdrZVZpb3FNYmZEOE5FTUxnYmE4LTc2NlloM1EwblRjQTRtT3BDcXlGcFBwaWtiNGp3ZWRzZlM5MkJmT2w5Nmo2NURjV2p1bFFmdWRFTk9KN3BPbjM5VzhGSkdiY05ubXBJVXlDZkNfU0N5RGpHZ1gtZG5BTTRGZVE?oc=5)
-
----
-
-### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Kinderaerzte-im-Netz](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVU5lamt0SEJiZXFxa3RlTF85QzY1c1NULXdsN3F4RUVVdTU4WFR5Tk1ReTJKRTk0ZkNPTjRENTVhMUM3elVyanJPck4tbm9nUC12TnBuaXdhT0Ftb3pucTI0N3BCQ2xjM1oyMy05QlQ3d3lja2FITEtiQk54SnNxaWRsdHU0Q2pzaWZmYk1kZXdGZ1ZLS2YwclpxYzhXRVNBSXZtWnYtOWtTdjVQNUE5bFlTUXM3LWROa1Z1TDV5Rzl0d1B6Z1UzLTVuUmhtZw?oc=5)
-
----
-
-### [Bluthochdruck: Diese Medikamente werden am besten vertragen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
 
 ---
 
@@ -86,11 +94,11 @@ permalink: /news/erdafitinib/
 
 ---
 
-### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
-2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
 ---
 

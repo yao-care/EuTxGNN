@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（9 則）
 
+### [Dad 'falling over after cider' was having stroke and forgot own son - Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
+
+2026-06-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEdQbW1PVGFobTRmTzlQcEMyaFc3OF9TZE1Zano1Nm1zam15VDhLVHJuWEx0OGN2YW5tNklEdEVMMmwtaU0yVlUzTnpvZkIzanhQRzdoZEZnZFg0VFJCOVJRZTJMaW5vT3ZmNVR1czBNWXRyZmVGV3FVZUR6b21oYi1XTXowUdIBiwFBVV95cUxQQUtjOVp6Q212M0dLajltUXdaeWVWVDc2MWFBa1pidGlUc2xTVGxGS0JvM2dTcjRiZTZqaXdCd1VOalByNUdYVC00cnd2RW43Ym1fZUdTUVY3SVlJLUNXU2wxWWxSY3hXbWNNU3I5aWRXTVp3UHA3UTlPT2hXQ1R2NkU1Q0tGMTJ1MWVv?oc=5)
+
+---
+
 ### [Victime d’un AVC à Ruelle, elle recherche l’inconnu qui lui a porté secours - Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
 
 2026-06-29 <span class="news-indication-tag">AVC</span>
@@ -102,11 +110,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
-2026-06-28 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
 ---
 
@@ -115,14 +123,6 @@ permalink: /news/orlistat/
 2026-06-28 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
 
 來源：[20 Minutes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhjT2lHLUdvbnV2VkJrbmdURTBhelhCTFl6WGN2cEJBcDFxWVROVFN4VWE2TkV1WHhKdmZpLVNnVFZ2aUNOTUlKUTZpTHRRS2pkTGRkNXFuVmdpbnVMakcyQ1pqN240RVBacGZNc29LeDc5dktCLUNYb1JCdmUySENWUVFLWnNZcE82b2ZaUVRzdXRLYlI1RXJRLWw5V1JWYVBWb3ktc2FLeG9fdWV4am5SNktpWjUyRlE?oc=5)
-
----
-
-### [Santé cardiaque : le choix des fruits et légumes importe plus que la quantité - Charente Libre](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXFubnd2dnQxM1NxNXlMaXpYMU9JWkhRUlJNZFBuejJXVjBRZW9TcDh6SWZuOU9uN1NnOVdGZ3o5ZmxlNWVWMGZHYjhUVjU4WjYtd0l3WFIyYWtGTi1pSUY0elpaRTRRLUZhM3BpT2RhcUVmMXFRN1lYcFF2Qmp4b0VJeVRkODZZUjFRV3JkTWVSaFc2Y3MwWEZyVXkyeWY2SnpLb0JPOWUyczhrS0dvWU5EeHA5ckI5THprT1lDeDFqVHRtM0FIMW1US0tXZ21oUFlPTVBB?oc=5)
-
-2026-06-28 <span class="news-indication-tag">AVC</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXFubnd2dnQxM1NxNXlMaXpYMU9JWkhRUlJNZFBuejJXVjBRZW9TcDh6SWZuOU9uN1NnOVdGZ3o5ZmxlNWVWMGZHYjhUVjU4WjYtd0l3WFIyYWtGTi1pSUY0elpaRTRRLUZhM3BpT2RhcUVmMXFRN1lYcFF2Qmp4b0VJeVRkODZZUjFRV3JkTWVSaFc2Y3MwWEZyVXkyeWY2SnpLb0JPOWUyczhrS0dvWU5EeHA5ckI5THprT1lDeDFqVHRtM0FIMW1US0tXZ21oUFlPTVBB?oc=5)
 
 ---
 

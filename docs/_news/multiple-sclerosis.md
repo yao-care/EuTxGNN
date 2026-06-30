@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。13 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>13 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,29 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
-### [Alzheimer ab Juni 2026: Neue Antikörpertherapien und KI-Früherkennung - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNSQVVlb0ktVWRqZUZZRi1CM2xhSUtmVUx3dmYyY3V3cXFNZ3F2TkJIbjBHMTJ1NnhQNEN6ZGN2RVRHUkN2bjJmZ1lmUDRidzBwVUNlZVBDa01ybVFPMDJ6a0FjdlBXOGtZaDVXMXBfUU1XbFVOR2ZGMzVCeVIzOWZEenFEd3R5Nks5WUVfSkhobzJmUkVLdm9oUkZGdHBka085Qw?oc=5)
+### [Vitamin D bleibt oft auch im Sommer zu niedrig](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTVYSUxtazh3My00Q2hnSWk4Yjg0RWFhdUdHT2t1WlhEM3VvS1R5TWF6dTV2TTRYX0g0dkRpZDduUmpPZDg0OHRDZUJVNnRwVFgyT0d4ajROR3FZRktOUm5MUERlYkt4U3RLWnIteGtkZkZ1QlVwVWpaV3NnYVJBX3llLVVhNF9kN1E?oc=5)
 
 2026-06-30
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNSQVVlb0ktVWRqZUZZRi1CM2xhSUtmVUx3dmYyY3V3cXFNZ3F2TkJIbjBHMTJ1NnhQNEN6ZGN2RVRHUkN2bjJmZ1lmUDRidzBwVUNlZVBDa01ybVFPMDJ6a0FjdlBXOGtZaDVXMXBfUU1XbFVOR2ZGMzVCeVIzOWZEenFEd3R5Nks5WUVfSkhobzJmUkVLdm9oUkZGdHBka085Qw?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTVYSUxtazh3My00Q2hnSWk4Yjg0RWFhdUdHT2t1WlhEM3VvS1R5TWF6dTV2TTRYX0g0dkRpZDduUmpPZDg0OHRDZUJVNnRwVFgyT0d4ajROR3FZRktOUm5MUERlYkt4U3RLWnIteGtkZkZ1QlVwVWpaV3NnYVJBX3llLVVhNF9kN1E?oc=5)
+
+---
+
+### [Investigan una formulación intranasal de teriflunomida en esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFjcW1kZEttSUROaVRPTDcwMFdmaENLa1Q4TFNYWllnaGlNX05wMzI2dkJYVXdoM3AzSUt0MGN5a3RzRklkN25NZUJDWlBzZkZvUGY3QklYaUhhblVrOGJYVnBjOUxpcVpZV3VWOXZRTmI0dG1mNWh0aHdMREpXRmk0dlZweXRhNU96aDhTMEJSN0VGbHphdDUzT0VmUkZsVEtra2pFZGZRMWtKemdqdVBndk5QV01RVlJvLURDNFTSAbsBQVVfeXFMTlhnNUE4Y20yREt5bGVTalhpWmdSeld4ck96UDBhWHlubG53cDdqeTJDOC02NGxkd0dmLW5kTkd0TmFtemNBMTh2UDZzR3pETGU1bEV3VFVpcUtxVlMxWXVvSF9nLWdPY0RRN0RpRGlfQV90d3B3RnhzcUNhSHl2RnhIa3JDaURsMlFGOFVxRXhIYXg3dG5Pd2VFb2N0UWNoYi1UaU1RWGQ2V2hickJ0b3lHNVB0cmlzNEJLTQ?oc=5)
+
+2026-06-30
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFjcW1kZEttSUROaVRPTDcwMFdmaENLa1Q4TFNYWllnaGlNX05wMzI2dkJYVXdoM3AzSUt0MGN5a3RzRklkN25NZUJDWlBzZkZvUGY3QklYaUhhblVrOGJYVnBjOUxpcVpZV3VWOXZRTmI0dG1mNWh0aHdMREpXRmk0dlZweXRhNU96aDhTMEJSN0VGbHphdDUzT0VmUkZsVEtra2pFZGZRMWtKemdqdVBndk5QV01RVlJvLURDNFTSAbsBQVVfeXFMTlhnNUE4Y20yREt5bGVTalhpWmdSeld4ck96UDBhWHlubG53cDdqeTJDOC02NGxkd0dmLW5kTkd0TmFtemNBMTh2UDZzR3pETGU1bEV3VFVpcUtxVlMxWXVvSF9nLWdPY0RRN0RpRGlfQV90d3B3RnhzcUNhSHl2RnhIa3JDaURsMlFGOFVxRXhIYXg3dG5Pd2VFb2N0UWNoYi1UaU1RWGQ2V2hickJ0b3lHNVB0cmlzNEJLTQ?oc=5)
+
+---
+
+### [La IA tiene un gran potencial en el abordaje de la esclerosis múltiple - El médico interactivo](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDF6TmIzbWlTV0VDQVVnNlVtbUw2V1ctUEVfRkFEaEZFcWstZmRGOHZGRS1KRThKYy1CNnlDSEs4eHdFU1FMNnBnN0duanNDaE16eXlvN1B4NjNubXZGd19LU1BOblZXU2dfZHlsNFF1YzJucVRiNVloRFQ0OHhPUG9yTWpzWWVfLThaZ1kzM184bWdDUnNPRWFTelpNbHJ4MjU0WGtR?oc=5)
+
+2026-06-30
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDF6TmIzbWlTV0VDQVVnNlVtbUw2V1ctUEVfRkFEaEZFcWstZmRGOHZGRS1KRThKYy1CNnlDSEs4eHdFU1FMNnBnN0duanNDaE16eXlvN1B4NjNubXZGd19LU1BOblZXU2dfZHlsNFF1YzJucVRiNVloRFQ0OHhPUG9yTWpzWWVfLThaZ1kzM184bWdDUnNPRWFTelpNbHJ4MjU0WGtR?oc=5)
 
 ---
 
@@ -72,11 +88,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Investigadores demuestran el potencial de la IA como apoyo clave para el abordaje de la Esclerosis Múltiple](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2NKeTdDLUVtVWJ3akZSYTVRWTJHWWxHRkhlci13NmU5TzNFaUkzUE1fb1p0Ym5sMWNaU1JkNFY1S0V0NkhBR2VSVjBzRnViLW9tOXdRSlR4RWprV3RJdDlrWDlhbzhfcnVQaUp2U2FDaGN3TWg5Q1p5U01DOXhYNE1EWlNrVkNoZlVqUWtPQTM5eWdIT2JvTXdTWm43QkN3TEVOaEhtM24xeWZaSmpGbTk1ZTBvQU4yTVA2eTZpem1qWjdvVG9uT19sY3Ixd3hvMlNSVkx0RExoZmxtcnFTUWJB0gHnAUFVX3lxTE00SURKVkFiQnFmV0I0T0NJclFYVnB1bGNoZE1Bcmc2Zlp1Y0ltMXhyemV1ZEZrVXRWYzY3X1hRRldBVVV6N0FhWVZId1BPaGs1dEJ0QktWTUc1ZktKUHE1UjlNR1A3bW9sazhRdFVNUGRwbExmampXOUpYWTM1dVUyd29sRVF6S2o5SUdjT25kSldPRVRDNDFWVHVJUk9iSUZ2c3ZmbjV5VHdJcmsyZHc3UHA3MnpKX0lxc3hISDhCUUc2ZU1zbVBuUC1ZM1N0ZjJqblNuQ0pNQXdSQkVpeVN3NXRxNUFNaw?oc=5)
+### [Prevalence and severity of mental health problems in early-career researchers: a systematic review and meta-analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZEZWOV9qanJwNHhqRTN3UFBCdFZQNXJnbERrWDN1alJheFJhWXZvSjJ2UGg0bmhTVnNXaXl5M2R0YlE0YnpKb2c3MUstX2FuaGRLZDE1WXJhZlhRcXNj?oc=5)
 
-2026-06-30
+2026-06-29
 
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2NKeTdDLUVtVWJ3akZSYTVRWTJHWWxHRkhlci13NmU5TzNFaUkzUE1fb1p0Ym5sMWNaU1JkNFY1S0V0NkhBR2VSVjBzRnViLW9tOXdRSlR4RWprV3RJdDlrWDlhbzhfcnVQaUp2U2FDaGN3TWg5Q1p5U01DOXhYNE1EWlNrVkNoZlVqUWtPQTM5eWdIT2JvTXdTWm43QkN3TEVOaEhtM24xeWZaSmpGbTk1ZTBvQU4yTVA2eTZpem1qWjdvVG9uT19sY3Ixd3hvMlNSVkx0RExoZmxtcnFTUWJB0gHnAUFVX3lxTE00SURKVkFiQnFmV0I0T0NJclFYVnB1bGNoZE1Bcmc2Zlp1Y0ltMXhyemV1ZEZrVXRWYzY3X1hRRldBVVV6N0FhWVZId1BPaGs1dEJ0QktWTUc1ZktKUHE1UjlNR1A3bW9sazhRdFVNUGRwbExmampXOUpYWTM1dVUyd29sRVF6S2o5SUdjT25kSldPRVRDNDFWVHVJUk9iSUZ2c3ZmbjV5VHdJcmsyZHc3UHA3MnpKX0lxc3hISDhCUUc2ZU1zbVBuUC1ZM1N0ZjJqblNuQ0pNQXdSQkVpeVN3NXRxNUFNaw?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZEZWOV9qanJwNHhqRTN3UFBCdFZQNXJnbERrWDN1alJheFJhWXZvSjJ2UGg0bmhTVnNXaXl5M2R0YlE0YnpKb2c3MUstX2FuaGRLZDE1WXJhZlhRcXNj?oc=5)
 
 ---
 
@@ -96,35 +112,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Multiple Sklerose beeinträchtigt den Alltag weit über die körperlichen Symptome hinaus - Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
-
-2026-06-29
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUpMVEl4ckpmT3hrZFU0OGFneG8yS3liY2tFLU90bS01VXJtbkNlTnJIbXk3bGpFWm5FUFVDYjVvTEpPMUJCZi1mTWltdFRIZkJIOHpsRDhLS0k2NS0wRUkwNlFRaTRsaDMyRXdkZUtwT3NDMGFsY25iZlk5VGlETkJGOEo5Wkx6Z3BBdVgzNTZOWTJhMmJFX1E0TTJnVmdNY204MjZyeGgtWm1ROHNrNXM5Ykg1alBzMkE?oc=5)
-
----
-
-### [DR Congo bans mass gatherings in the capital to prevent spread of Ebola](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPb0w2MVR1MF9GM0czZEN1dWVOOWpCQk1ZZWxZb1N2dDRQVkRTSkxtUDU0THF2YmUwc001ZXJEa05xc3IwSnByZ21rMjFRVjJMTGotWmtiRzFCYmtH?oc=5)
-
-2026-06-29
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPb0w2MVR1MF9GM0czZEN1dWVOOWpCQk1ZZWxZb1N2dDRQVkRTSkxtUDU0THF2YmUwc001ZXJEa05xc3IwSnByZ21rMjFRVjJMTGotWmtiRzFCYmtH?oc=5)
-
----
-
 ### [Longer breastfeeding linked to lower ADHD in kids, study finds](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXhidTRLX1pIQUVvSkV2dWVSb2FWMG90bG5BaF9SYk5CTktmTFlkNVJaYmF5M1RVWjJwc1NCRjE1VEpLX0E5d3RmeVA4c2ptU1k2WUFyOE9rNFVYYlJOM2pldGlPQXpUWVZmeG1VT0NVX0V0WTc1Z1o4SFI4ZWhfT25ITUhka1RLZ0JMZ3ZlQ24yVHpyaU5EODQ2T1RteU1PcDg1RklLYThKczZMRmJDbDFFbjVmam8?oc=5)
 
 2026-06-29
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXhidTRLX1pIQUVvSkV2dWVSb2FWMG90bG5BaF9SYk5CTktmTFlkNVJaYmF5M1RVWjJwc1NCRjE1VEpLX0E5d3RmeVA4c2ptU1k2WUFyOE9rNFVYYlJOM2pldGlPQXpUWVZmeG1VT0NVX0V0WTc1Z1o4SFI4ZWhfT25ITUhka1RLZ0JMZ3ZlQ24yVHpyaU5EODQ2T1RteU1PcDg1RklLYThKczZMRmJDbDFFbjVmam8?oc=5)
-
----
-
-### [Fettleber: Forscher warnen vor rasanter Ausbreitung bei Jungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU19PNmZLVmw5YXduWV8tRHYyMDhfeUg4MWVpcUtNT0x2ZWlvaFJkLUp6enJFT3NTTTBhQ1dud005M1ZtYmN5aU44YkRpTHpEU0lmSmlTbFBiWThHTjkyNHdtdkxVMDFQRC1WMG5FVTBYTlliZEpVcWZhUGZ0dWo0Y2ZaYnRMNnR3VGtjVE0yaFFFbnZuVEZuVkI0cmVlcTZ1SkNfUXRxaV9hZEdvNkhr?oc=5)
-
-2026-06-29
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU19PNmZLVmw5YXduWV8tRHYyMDhfeUg4MWVpcUtNT0x2ZWlvaFJkLUp6enJFT3NTTTBhQ1dud005M1ZtYmN5aU44YkRpTHpEU0lmSmlTbFBiWThHTjkyNHdtdkxVMDFQRC1WMG5FVTBYTlliZEpVcWZhUGZ0dWo0Y2ZaYnRMNnR3VGtjVE0yaFFFbnZuVEZuVkI0cmVlcTZ1SkNfUXRxaV9hZEdvNkhr?oc=5)
 
 ---
 
@@ -136,6 +128,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Silent spread of 'world's most infectious' killing one Brit a WEEK - 6 symptoms - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRjNnE0ZDFwZmVzenhZRDMzM200Uk1rLW1WQkZSejJHNml1UklIOFlIS2lMVHdvdmZjX3k0NzAyZnFNOWxEN2FlOXhhQVhQcUdZVlFnQmQxQ0xBSUNEaThqVy1XZFJLakRYSm5UQUd2RVBTdklHZnhXN2U5T25zMEZEM1pzT0N2ZU12bW9hYjctZw?oc=5)
+
+2026-06-29
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRjNnE0ZDFwZmVzenhZRDMzM200Uk1rLW1WQkZSejJHNml1UklIOFlIS2lMVHdvdmZjX3k0NzAyZnFNOWxEN2FlOXhhQVhQcUdZVlFnQmQxQ0xBSUNEaThqVy1XZFJLakRYSm5UQUd2RVBTdklHZnhXN2U5T25zMEZEM1pzT0N2ZU12bW9hYjctZw?oc=5)
+
+---
+
 ### [Is it true that … vitamin C serums provide added sun protection? - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnNOU3NGNE5TWDVtSUtUZ0xvUTVCeV9IVmlUQUFScWU0S2w2M3hyTzdlS05Ld3FfdWstWGFoTTNqbzBUdlBkWERHbGR4RUw2VTNaMV9vZWJITDFyYnZuNHJINGJqZExSdzhlZ05pcnJWZ25WRWJYWmpLTmpIMG51M0NIVUd3VFpfZU55VmtMM2VEX2NRNnhQMjRqaC1CaV9MQTlmZmZTdHM3cnJK?oc=5)
 
 2026-06-29
@@ -144,19 +144,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [One person a week in England dies with undiagnosed TB, study finds - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
+### [Vista la firma genetica dell'invecchiamento](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkJYWXpqbUdvNmRDVHVyY0Rnd0M1MmtvQ21OVng5eXQ0QmEwUHQ2RmYtX0tHWHF3akJKbGdtWjFCRnZ1Z1lZdGdSLWtubWFfWUlBMmp6RGhWNEdoTmhCdEd5OTJrTUNuR2RGNlJZV2dPbU5mVWNEYTVHelRTM3RPeXZaMXppTnYxMUZfSHIzV1BkMEkxSGI2YnE3YnhXX1BIQ05xRzJnc1BpUk5XVktnY1ZmZTNOUVlyT25xaXBYLTd1aDZQT2xNQ2t5VzZiYUdfVWFDWHB3WDNYdjNqR1hvZNIB5gFBVV95cUxNVG0yMm5TdTZXZ25kSExpaU40cmJOY01ZTnExeG4ybzREb2lEZGFxS3N3V1N0SXFKODctRFUydXU2YlpsTUVnU2RBUEpSS0xycmhvOHc2NHl4b2ItbTJFMTVaWjBPcVF2Z1Y3MWxYYlRhVWRHcV9tY21abmFSLS1qNy11LUhIbTYwV2lTNEF4ZHpDYUdDeklBSHNKYUJEQmgzZXNReVVrdUVkdmdfblBYVjBRckpiV1h5eWV2X21QRjVVUE43RHRlUkRqNk5oVXNLSi1sZFJTOExaUGtGUWZzWFdreUt0QQ?oc=5)
 
 2026-06-29
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblBwUm1JTERmZUZydExsSWliT2IzMzB1QTU0TTVfQXdFYmpSX0NUa3dNNEFtUERCZlo1ZWw0ZFNQUjAxbFB0NmRLVExONDlzdzZMd0Fqa1VXQkxsWFJDMUNlc1BGM1hrZE8wWkdkblNPWWJGbTItVzh4WGhwZGUybWh1TFE0MWlEQnBr?oc=5)
-
----
-
-### ['My red flag cancer symptom appeared when I ate a banana' - Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVAya0VoTHRpNnhFNFhhR2tTMmR3VXNjLW1FR1dIVmhxWTBabGZ2RUdtb25aSDhEcDBZSDBFSE05a3BfSk92bExLMDhaVWN5SmZ6UmxqdzVYLVI4RkdhVGJfYWEwV2ZaSDhJazhhYUNqRThfUV8yZXhNZ1I5cXdHeVRvVDRfMW5vTE4wblNGQXpKWWZZNHBWRtIBngFBVV95cUxNY1pGLVliUXBZbHhHY1NlUnVoSjZwWlVHemdwMFBkWU1CdDV4TFFHV0xDR2c0ZXMyeVU2azFWUHhXazVQRjEyTTlOdEFGYnRTYmJ6Q1NyMVhJWTRQeksxV2h6TzdsUWplTnphUzJHN0xNcURCSnNYUWtyWTR3SnpJOWlkZ19wRUs1dWtvYVNXd1JhQ0FSNGFkaGU2aGFjZw?oc=5)
-
-2026-06-29
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVAya0VoTHRpNnhFNFhhR2tTMmR3VXNjLW1FR1dIVmhxWTBabGZ2RUdtb25aSDhEcDBZSDBFSE05a3BfSk92bExLMDhaVWN5SmZ6UmxqdzVYLVI4RkdhVGJfYWEwV2ZaSDhJazhhYUNqRThfUV8yZXhNZ1I5cXdHeVRvVDRfMW5vTE4wblNGQXpKWWZZNHBWRtIBngFBVV95cUxNY1pGLVliUXBZbHhHY1NlUnVoSjZwWlVHemdwMFBkWU1CdDV4TFFHV0xDR2c0ZXMyeVU2azFWUHhXazVQRjEyTTlOdEFGYnRTYmJ6Q1NyMVhJWTRQeksxV2h6TzdsUWplTnphUzJHN0xNcURCSnNYUWtyWTR3SnpJOWlkZ19wRUs1dWtvYVNXd1JhQ0FSNGFkaGU2aGFjZw?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkJYWXpqbUdvNmRDVHVyY0Rnd0M1MmtvQ21OVng5eXQ0QmEwUHQ2RmYtX0tHWHF3akJKbGdtWjFCRnZ1Z1lZdGdSLWtubWFfWUlBMmp6RGhWNEdoTmhCdEd5OTJrTUNuR2RGNlJZV2dPbU5mVWNEYTVHelRTM3RPeXZaMXppTnYxMUZfSHIzV1BkMEkxSGI2YnE3YnhXX1BIQ05xRzJnc1BpUk5XVktnY1ZmZTNOUVlyT25xaXBYLTd1aDZQT2xNQ2t5VzZiYUdfVWFDWHB3WDNYdjNqR1hvZNIB5gFBVV95cUxNVG0yMm5TdTZXZ25kSExpaU40cmJOY01ZTnExeG4ybzREb2lEZGFxS3N3V1N0SXFKODctRFUydXU2YlpsTUVnU2RBUEpSS0xycmhvOHc2NHl4b2ItbTJFMTVaWjBPcVF2Z1Y3MWxYYlRhVWRHcV9tY21abmFSLS1qNy11LUhIbTYwV2lTNEF4ZHpDYUdDeklBSHNKYUJEQmgzZXNReVVrdUVkdmdfblBYVjBRckpiV1h5eWV2X21QRjVVUE43RHRlUkRqNk5oVXNLSi1sZFJTOExaUGtGUWZzWFdreUt0QQ?oc=5)
 
 ---
 

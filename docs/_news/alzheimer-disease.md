@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# enfermedad de Alzheimer（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
-### [Descubren cómo una proteína cerebral expande la enfermedad de Alzheimer de neurona a neurona](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRk9tYjMwSzBSeldQZlJBS1VWZDR4WjVhazNyQXgyLTZQY3VnaXhzSnpzTVdydnc0Ykl6dWZ0QjFsMWxwdDBqM014S1dSVEM0VFotYVpJVDdUTmVVVmFhN2ZtM3VmSHVVc0pzRzNVZ2o2Y1hoeUtqR2tRWTBZVHB5MUtsaS1hWVJLUC0zR3I2ZE84R1ZRSzZZaWE4QWJnX3ZVM05kQ055NUpUaEh1aW5ETThqcndKaTRyeGlSNDBHdzBrdHBkV1lOMTkxTy14QzlWcWpkRHQydHNPVzFmZ1dPRWJOQlB3OXPSAYICQVVfeXFMUGNjenpkUUFiN0RUeWk0ai1WODMzNF95OF9TZnFhVkxOVmhkZU90cmFOX0l6TUNLT3lXRkhNWGstVzdmblAtb1VlVGl5bWlueEZTWnlyZ25kWGtHTmdRMmJ0ejROTW5SWFdaV0E2RWk2NnZ0Ukpfc3V5THV3UnRnVWRZUEptenZENy1GbHZQU2dkNTN2cVVkTWM5X2YxRnVxX2xQaDR0aEtReUxlU3NCOTFHSURyenZCYVBVOGtWdjJLeHZkU1FSYUlkbEhxUU8tdUVzWnZoVWNHc052eTctMWg3Z1RVcy1rMHhJQmVXVDlyeDh0aVd0enhCNUlHVmhaaGt3?oc=5)
+### [Scientists may have finally found how Alzheimer's spreads through the brain](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5)
 
-2026-06-29
+2026-06-30
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRk9tYjMwSzBSeldQZlJBS1VWZDR4WjVhazNyQXgyLTZQY3VnaXhzSnpzTVdydnc0Ykl6dWZ0QjFsMWxwdDBqM014S1dSVEM0VFotYVpJVDdUTmVVVmFhN2ZtM3VmSHVVc0pzRzNVZ2o2Y1hoeUtqR2tRWTBZVHB5MUtsaS1hWVJLUC0zR3I2ZE84R1ZRSzZZaWE4QWJnX3ZVM05kQ055NUpUaEh1aW5ETThqcndKaTRyeGlSNDBHdzBrdHBkV1lOMTkxTy14QzlWcWpkRHQydHNPVzFmZ1dPRWJOQlB3OXPSAYICQVVfeXFMUGNjenpkUUFiN0RUeWk0ai1WODMzNF95OF9TZnFhVkxOVmhkZU90cmFOX0l6TUNLT3lXRkhNWGstVzdmblAtb1VlVGl5bWlueEZTWnlyZ25kWGtHTmdRMmJ0ejROTW5SWFdaV0E2RWk2NnZ0Ukpfc3V5THV3UnRnVWRZUEptenZENy1GbHZQU2dkNTN2cVVkTWM5X2YxRnVxX2xQaDR0aEtReUxlU3NCOTFHSURyenZCYVBVOGtWdjJLeHZkU1FSYUlkbEhxUU8tdUVzWnZoVWNHc052eTctMWg3Z1RVcy1rMHhJQmVXVDlyeDh0aVd0enhCNUlHVmhaaGt3?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5)
 
 ---
 

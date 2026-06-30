@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,37 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Bluthochdruck: Diese Medikamente werden am besten vertragen - Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
+### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
-2026-06-29
+2026-06-30
 
-來源：[Oberösterreichische Nachrichten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVd2ckw4bFpjLW1jWUtSUWtHTlIwUFY5RWV5SW01eWQtT0tSTk0wYnk0dVItX3FMUjV0TVVBdU9vaFV1UDZrNWI2QzhReDlFenRQVEU0amgyV0FaaDNnVDdRSm5zX0IwdXdTeHlkbmZlNWRtUV9EQnBJaU1ldUNpZlZMdGtGY3lyNEdtVmZhMDRvUWVOejVKU0wxLWUyN0l5RW9rbHphcndxU2hfY19rbEhZV0NrdzY2VFNqVWNNSQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
 ---
 
-### [Bluthochdruck: Vorhofflimmern verursacht jeden dritten Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+### [Alzheimer-Prävention: DHA-Studie zeigt überraschend keinen Gedächtnis-Effekt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
 
-2026-06-28
+2026-06-30
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUNsRXFDOTBScnJ6S1RHbVJOQy1KSjdXWUxvOHlDbU93djVneHVnRUdVSUpPMnV5VXRDaUNfWjVaTlY5NDZxSmEwMlIzWTZ0MVBpcng2Z1d5SWZkREVCVmJuc3J5Q0FIQnNhc3BWdzJuLTktVmZTOE9lZlg3cHlCUEJjWVNUQ0NkaEJtMTg4ZG5KOF9nbGxORlpPcU8wNmJzVExPUzMzQktTZHpzWlpSTVYyUGxQZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtoaURMZ2VyZlNfelpSdVNFNVNpdnpIUVJ6WS1uZlMyd3RJZllCQm9tR09xa2MxdFJCeDZaN2EzdVJ0eFhpS1pQdDFlUU9wSm5WcHQ0WnByYUJFTHItN1NFTkxJNm85TV9NazhxRnFSNDE5cy1wb3FCVE5YU1BycFM3OHdYX3Fmc2ZQS1Z5YlhCdnFlaEpvRDdURTNDM21GV3ZNVGhCOXllZkU3?oc=5)
+
+---
+
+### [Kaffee und Bluthochdruck: So viele Tassen am Tag sind erlaubt - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+
+2026-06-30
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3NkWml0UlpCb2d0YU1IZDJVNXU3aHpjS1JHV2VFUE45SWFGS1A5eXRwTFFHTHRYdUgzdXEwUzZmUzNkQ3FZaW9BRTRFb0RiZWVITk9tWmllczJta0UyYndxaGRWOW9OdFhmRnpVdHBjZ1MtakFZVXAyTVdxUkFrN3AtcHhqeUtQUVVsNnoyUlJRaGowdGpXVkhBMDRVOW9NYUVZ?oc=5)
+
+---
+
+### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
+
+2026-06-29
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
 
 ---
 
