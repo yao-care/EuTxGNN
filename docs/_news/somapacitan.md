@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -62,11 +62,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimerrisiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+### [Two cheap vitamin supplements 'cut risk of asthma attacks' with added bonus of slowing ageing](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
 
-2026-06-30 <span class="news-indication-tag">diabetes</span>
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
+
+---
+
+### [Silenziato l'allarme cellulare dell'invecchiamento, la scoperta che entusiasma gli scienziati](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
+
+2026-06-30 <span class="news-indication-tag">asma</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/somapacitan/
 2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
-
----
-
-### [Eledon und Tegoprubart: Ein neuer Ansatz für Inselzelltransplantationen bei Typ-1-Diabetes](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
 
 ---
 
@@ -126,19 +126,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+
+---
+
 ### [New obesity figures highlight the income divide - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
-
----
-
-### [Toxoplasma gondii als vernachlässigte Tropenkrankheit: Milliarden betroffen - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
-
-2026-06-29 <span class="news-indication-tag">asma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
 
 ---
 

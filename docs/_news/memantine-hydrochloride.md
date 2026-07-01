@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
 
-### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
+### [Warum ADHS und Migräne so oft gemeinsam auftreten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
+
+2026-07-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
+
+---
+
+### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko 2,74-fach - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkt4VUE5U3dLeWxqMkh5SE53cGRaU1k0SkJEMDlHcTdQTlFIRkhnOURFb096ZVNLa3NOeUF1V3RhOEtjUUlaa25VMWJsdHU5TUlxM0JVSlJlRW5JVlFMakVkZnk2VTc1MmEtbVp0V3MzNjhLUER4YmtiSzVNeWpJcl96RVE1TFFoYWJFY3hUUmZHRnVxR1JJZ3V1cjVGSFZ1Z25VbjNFb1lvaDhZbUxOeXZMTURPd1E?oc=5)
+
+2026-07-01 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkt4VUE5U3dLeWxqMkh5SE53cGRaU1k0SkJEMDlHcTdQTlFIRkhnOURFb096ZVNLa3NOeUF1V3RhOEtjUUlaa25VMWJsdHU5TUlxM0JVSlJlRW5JVlFMakVkZnk2VTc1MmEtbVp0V3MzNjhLUER4YmtiSzVNeWpJcl96RVE1TFFoYWJFY3hUUmZHRnVxR1JJZ3V1cjVGSFZ1Z25VbjNFb1lvaDhZbUxOeXZMTURPd1E?oc=5)
+
+---
+
+### ["Hay gente que dice: "Me duele la cabeza, debe ser por la tensión alta", y generalmente no es así, salvo que tengas 250 de tensión; es probablemente porque estás estresado"](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+
+2026-07-01 <span class="news-indication-tag">migraña</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesunken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
 
 2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
 
 ---
 
@@ -67,6 +91,14 @@ permalink: /news/memantine-hydrochloride/
 2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
+
+---
+
+### [Mann hat jahrelang Bandwürmer am Gehirn, ohne es zu merken](https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3A5ckozUWpGdk90VGIxMGVacmVaOWZCZUZ0SkxsTXhld29YT3lySnlrMlR4OHBZVWYtQmtQWWtEY05aSGlGN3ZsYVNvc2ZHZ1hMajdjZGtycEp1RzcxWXdJc1ppTTJfY1ZMclBlaW5GWXFYQlltOTFhaEVTU05UOTIydkJGcWdyRVVLVk8tMVo3SC0yU1o4TGxRR0NvZWpvQ0RDa0laRUl3cF9UN25OOXRURnRISlQtanJnSmRHSXJSc3YzbUxxbTBtWGRsVzQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3A5ckozUWpGdk90VGIxMGVacmVaOWZCZUZ0SkxsTXhld29YT3lySnlrMlR4OHBZVWYtQmtQWWtEY05aSGlGN3ZsYVNvc2ZHZ1hMajdjZGtycEp1RzcxWXdJc1ppTTJfY1ZMclBlaW5GWXFYQlltOTFhaEVTU05UOTIydkJGcWdyRVVLVk8tMVo3SC0yU1o4TGxRR0NvZWpvQ0RDa0laRUl3cF9UN25OOXRURnRISlQtanJnSmRHSXJSc3YzbUxxbTBtWGRsVzQ?oc=5)
 
 ---
 
@@ -86,14 +118,6 @@ permalink: /news/memantine-hydrochloride/
 
 ---
 
-### [Loire. Elle fait quinze migraines par mois : « Une douleur qui donne envie de se jeter par la fenêtre » - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
-
-2026-06-30 <span class="news-indication-tag">migraine</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
-
----
-
 ### ["Los tratamientos anti-CGRP mejoran el abordaje de pacientes con migraña" - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
 
 2026-06-30 <span class="news-indication-tag">migraña</span>
@@ -107,14 +131,6 @@ permalink: /news/memantine-hydrochloride/
 2026-06-29 <span class="news-indication-tag">hypertension</span>
 
 來源：[Egora](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
-
----
-
-### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
-
-2026-06-29 <span class="news-indication-tag">migraña</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
 
 ---
 

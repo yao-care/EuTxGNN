@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Alzheimer: descubren el 'caballo de Troya' celular que la enfermedad utiliza para destruir el cerebro](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjJja0hQbTFHZUFrWVdGcm50aVJwWEpOQUVETXRkYjBxN0plVlphV280dEw5TU1uOE9PeUZIeDlzZ0pxUzV6Qjk0amxya1JmUmoydG1HaHJ4OU1qdzdGSDdjN2lCcW1udXpkZ0JTcjhnbXJaeTlRbmJDOWJJMmhXQnlpdnR3R0ZxZ1FaYmJOdTdhSzlremJNejlzcEUzSjRpcFpGMmxXQ2FHMnBuV0E0b0tqZ2x0ZjZMZGFBWWwzaVh2SU9DMjFKN05YYXdRQ1RYaG82X3pn?oc=5)
-
-2026-06-30 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjJja0hQbTFHZUFrWVdGcm50aVJwWEpOQUVETXRkYjBxN0plVlphV280dEw5TU1uOE9PeUZIeDlzZ0pxUzV6Qjk0amxya1JmUmoydG1HaHJ4OU1qdzdGSDdjN2lCcW1udXpkZ0JTcjhnbXJaeTlRbmJDOWJJMmhXQnlpdnR3R0ZxZ1FaYmJOdTdhSzlremJNejlzcEUzSjRpcFpGMmxXQ2FHMnBuV0E0b0tqZ2x0ZjZMZGFBWWwzaVh2SU9DMjFKN05YYXdRQ1RYaG82X3pn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

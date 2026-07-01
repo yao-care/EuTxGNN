@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="Insulin Detemir 有什麼相關新聞？">
-<strong>Insulin Detemir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Insulin Detemir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/insulin-detemir/
 <p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Leaky Gut: Tierisches Protein verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
 
@@ -44,27 +44,11 @@ permalink: /news/insulin-detemir/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimerrisiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
-
----
-
 ### [Semaglutid zeigt Effekte auf Biomarker – aber nicht auf den auf Krankheitsverlauf - Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
-
----
-
-### [Eledon und Tegoprubart: Ein neuer Ansatz für Inselzelltransplantationen bei Typ-1-Diabetes](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
 
 ---
 
@@ -97,6 +81,14 @@ permalink: /news/insulin-detemir/
 2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
+
+---
+
+### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
 
 ---
 

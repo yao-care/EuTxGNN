@@ -41,19 +41,19 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
+### [Portsmouth teenager's stroke shows 'it can happen to anyone'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ240UE4xUDhGRFZIRFg4Qlh2TWpndkh5MjIyNl9QYmtkTjFlUlExbnhxOUlXMzNmOFFYVjVCdm9yVGc3TzhsZDJfdUI1LUtyeEFETUFFa1FNbkdX?oc=5)
+
+2026-07-01
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ240UE4xUDhGRFZIRFg4Qlh2TWpndkh5MjIyNl9QYmtkTjFlUlExbnhxOUlXMzNmOFFYVjVCdm9yVGc3TzhsZDJfdUI1LUtyeEFETUFFa1FNbkdX?oc=5)
+
+---
+
 ### [Victime d’un AVC à Ruelle, elle recherche l’inconnu qui lui a porté secours - Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
 
 2026-06-29
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
-
----
-
-### [Schützt GLP-1-Rezeptoragonist vor frühen Schlaganfall-Rezidiven?](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZyTXZMWlpvaVVXeXZ2d1ZOcC11Tm5PQURMVk16NDB2VXdjTFJqdjVoOE9LaVF1WGMwOHFVcXdWMWx5UUR4c1N4dlc0cERoWlZfall2LUNFeDlDcXhJbXZaOTlyNmJvM0FYbGdmcEtsdENJRHNjYVBIM1VWTG8zMUFsMVFIejJGQ095cmxibURyWDdUZVlHSDJzbXRIOFBHNGVoXzZtTHpUZm92MV9hRjhaVVE?oc=5)
-
-2026-06-29
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZyTXZMWlpvaVVXeXZ2d1ZOcC11Tm5PQURMVk16NDB2VXdjTFJqdjVoOE9LaVF1WGMwOHFVcXdWMWx5UUR4c1N4dlc0cERoWlZfall2LUNFeDlDcXhJbXZaOTlyNmJvM0FYbGdmcEtsdENJRHNjYVBIM1VWTG8zMUFsMVFIejJGQ095cmxibURyWDdUZVlHSDJzbXRIOFBHNGVoXzZtTHpUZm92MV9hRjhaVVE?oc=5)
 
 ---
 

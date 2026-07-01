@@ -56,7 +56,7 @@ permalink: /news/tirzepatide/
 
 ### [Mounjaro pilot to bypass GP appointments in parts of UK - Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 
-2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 

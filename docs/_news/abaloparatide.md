@@ -54,6 +54,22 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（13 則）
 
+### [Warum ADHS und Migräne so oft gemeinsam auftreten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
+
+2026-07-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
+
+---
+
+### ["Hay gente que dice: "Me duele la cabeza, debe ser por la tensión alta", y generalmente no es así, salvo que tengas 250 de tensión; es probablemente porque estás estresado"](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+
+2026-07-01 <span class="news-indication-tag">migraña</span>
+
+來源：[COPE](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+
+---
+
 ### [Leaky Gut: Tierisches Protein verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
@@ -62,11 +78,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimerrisiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesunken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
 
-2026-06-30 <span class="news-indication-tag">diabetes</span>
+2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
 
 ---
 
@@ -75,22 +91,6 @@ permalink: /news/abaloparatide/
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
-
----
-
-### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
-
----
-
-### [Eledon und Tegoprubart: Ein neuer Ansatz für Inselzelltransplantationen bei Typ-1-Diabetes](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTkdfc2t0b1dFRko3b0VTdkN5VHROMER2Q0lNZzN3YVRpdDVtM3p0alJzUXpDU2V2bThpd1ptMkVmbkhiRmNwQTd1SlVqaUpHNXpRdXJVajhxZjlqUUo4UTRnVm1ndnVMb016VGdyNVVRTmMzUDFObkZnT2ZIZnVVaXhmNy1WNjhPVmhjS3JodjVJOWJXbXc0R2pqMm1XaDRzaUF3amRoZHJRTkZ5SFZtclN4VUtsb3FzWU8yWlM3SzNlb0c5OFE?oc=5)
 
 ---
 
@@ -110,6 +110,14 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Mann hat jahrelang Bandwürmer am Gehirn, ohne es zu merken](https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3A5ckozUWpGdk90VGIxMGVacmVaOWZCZUZ0SkxsTXhld29YT3lySnlrMlR4OHBZVWYtQmtQWWtEY05aSGlGN3ZsYVNvc2ZHZ1hMajdjZGtycEp1RzcxWXdJc1ppTTJfY1ZMclBlaW5GWXFYQlltOTFhaEVTU05UOTIydkJGcWdyRVVLVk8tMVo3SC0yU1o4TGxRR0NvZWpvQ0RDa0laRUl3cF9UN25OOXRURnRISlQtanJnSmRHSXJSc3YzbUxxbTBtWGRsVzQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Ntv](https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3A5ckozUWpGdk90VGIxMGVacmVaOWZCZUZ0SkxsTXhld29YT3lySnlrMlR4OHBZVWYtQmtQWWtEY05aSGlGN3ZsYVNvc2ZHZ1hMajdjZGtycEp1RzcxWXdJc1ppTTJfY1ZMclBlaW5GWXFYQlltOTFhaEVTU05UOTIydkJGcWdyRVVLVk8tMVo3SC0yU1o4TGxRR0NvZWpvQ0RDa0laRUl3cF9UN25OOXRURnRISlQtanJnSmRHSXJSc3YzbUxxbTBtWGRsVzQ?oc=5)
+
+---
+
 ### [I’m a diabetes doctor. This is how we drive down the disease - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
@@ -126,14 +134,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Loire. Elle fait quinze migraines par mois : « Une douleur qui donne envie de se jeter par la fenêtre » - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
-
-2026-06-30 <span class="news-indication-tag">migraine</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGJhYmdldkxCNWk0WUhsWmFJS1Z2RG85LUliYUJGQVNDakJuaTlSNlJhNUQ2MmNJWXJ5QjVLQWwxdmVIRHpadHBHQjZSMHZZNkEyR05WcVpGX25BSWhPckpDZ3Bta2k0a25iUHNIUkpCdHFzTzY1NGRDdkM1bXJucDIwUWFXbnlGS1c3YVlveTJVaW02SVliVjh2LThQcFVlR0l0RVRwa3VaRzY5X01fdDEtTXRXMXZ4M3l1eFFWaHJaZ3JMRzNaVjhYOTk?oc=5)
-
----
-
 ### ["Los tratamientos anti-CGRP mejoran el abordaje de pacientes con migraña" - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
 
 2026-06-30 <span class="news-indication-tag">migraña</span>
@@ -142,19 +142,19 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+
+2026-06-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
+
+---
+
 ### [New obesity figures highlight the income divide - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
 
 2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
-
----
-
-### [El calor influye en cefaleas y migrañas y puede empeorar los síntomas en verano - Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
-
-2026-06-29 <span class="news-indication-tag">migraña</span>
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeW9NZzdETUdHbVlrMjJCTGw2VTB6MHlqbmttdVhDT0FQa1VaYWluX3NBRXA3NmNLUWFmdTBwTHlPbTlSVUNWQXJxa2pzUHltTlNnRnBYUDdoZTQ3aWo2c0JHbXlOYnlUS25POW1QZVdmVzk3VlNVMnU0ekx0TVJJX2hsczBtdDZnRUEzc0dMeFU4SmdYMk5vWXRVZ2JaOTV3QVdlTVJZX0pTcXVrYnFmdzNtN1NMRTIyOVU1NktxMHUtS2xwOVk0STd2Nlh0ODZNVS15S3VRSlhUNmc10gHiAUFVX3lxTFBDS1hyRF8wc3cxQ0xnV0dESnJ6YndqVjQ3cFF4ZEZhOTVnbE9TeEEzMGRPODA0alM5U093REpuemE5bFFDN2dZbXRhNFIwc1dEOEwyYXQ5NDlLTHM5Q2NiMUVoQ3lLaGRab09LbGtwYWtUYWFOcEdaU3ZYOFBDOGdnUFRVWWpMYVhNQ3h6Yi10YkhmeVk0YzZUS1RJQmM2ZFNWOWlDYVp0ellDQmpBOVVkLTRKU0ZYQ3hxcFROMDZ2MWVNS29PVEpOZjRCcE9XS2JsVGNmMnFZQTg4RzhsYi1PbXc?oc=5)
 
 ---
 

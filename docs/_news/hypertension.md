@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko 2,74-fach - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkt4VUE5U3dLeWxqMkh5SE53cGRaU1k0SkJEMDlHcTdQTlFIRkhnOURFb096ZVNLa3NOeUF1V3RhOEtjUUlaa25VMWJsdHU5TUlxM0JVSlJlRW5JVlFMakVkZnk2VTc1MmEtbVp0V3MzNjhLUER4YmtiSzVNeWpJcl96RVE1TFFoYWJFY3hUUmZHRnVxR1JJZ3V1cjVGSFZ1Z25VbjNFb1lvaDhZbUxOeXZMTURPd1E?oc=5)
+
+2026-07-01
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkt4VUE5U3dLeWxqMkh5SE53cGRaU1k0SkJEMDlHcTdQTlFIRkhnOURFb096ZVNLa3NOeUF1V3RhOEtjUUlaa25VMWJsdHU5TUlxM0JVSlJlRW5JVlFMakVkZnk2VTc1MmEtbVp0V3MzNjhLUER4YmtiSzVNeWpJcl96RVE1TFFoYWJFY3hUUmZHRnVxR1JJZ3V1cjVGSFZ1Z25VbjNFb1lvaDhZbUxOeXZMTURPd1E?oc=5)
+
+---
 
 ### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 

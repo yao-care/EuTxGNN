@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Bluthochdruck: Zu niedriger Druck erhöht Alzheimer-Risiko 2,74-fach - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkt4VUE5U3dLeWxqMkh5SE53cGRaU1k0SkJEMDlHcTdQTlFIRkhnOURFb096ZVNLa3NOeUF1V3RhOEtjUUlaa25VMWJsdHU5TUlxM0JVSlJlRW5JVlFMakVkZnk2VTc1MmEtbVp0V3MzNjhLUER4YmtiSzVNeWpJcl96RVE1TFFoYWJFY3hUUmZHRnVxR1JJZ3V1cjVGSFZ1Z25VbjNFb1lvaDhZbUxOeXZMTURPd1E?oc=5)
+
+2026-07-01 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkt4VUE5U3dLeWxqMkh5SE53cGRaU1k0SkJEMDlHcTdQTlFIRkhnOURFb096ZVNLa3NOeUF1V3RhOEtjUUlaa25VMWJsdHU5TUlxM0JVSlJlRW5JVlFMakVkZnk2VTc1MmEtbVp0V3MzNjhLUER4YmtiSzVNeWpJcl96RVE1TFFoYWJFY3hUUmZHRnVxR1JJZ3V1cjVGSFZ1Z25VbjNFb1lvaDhZbUxOeXZMTURPd1E?oc=5)
+
+---
+
+### [Portsmouth teenager's stroke shows 'it can happen to anyone'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ240UE4xUDhGRFZIRFg4Qlh2TWpndkh5MjIyNl9QYmtkTjFlUlExbnhxOUlXMzNmOFFYVjVCdm9yVGc3TzhsZDJfdUI1LUtyeEFETUFFa1FNbkdX?oc=5)
+
+2026-07-01 <span class="news-indication-tag">stroke</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WQ240UE4xUDhGRFZIRFg4Qlh2TWpndkh5MjIyNl9QYmtkTjFlUlExbnhxOUlXMzNmOFFYVjVCdm9yVGc3TzhsZDJfdUI1LUtyeEFETUFFa1FNbkdX?oc=5)
+
+---
 
 ### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
@@ -91,14 +107,6 @@ permalink: /news/telmisartan/
 2026-06-29 <span class="news-indication-tag">AVC</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGU0VTVqTzRscFhHcVBrR3VvbS1pZmNJZDBfOExYcThKSU5sX0JTaFNQeURZeVVCNzdCLWFFd0lzOWR0RDBBNWsxbFhEcFFkQm5BZmptMFRHLXo2S3dJdzZRaEl1X0pMV1Q3OC16ZmU5MzFYMkxEODhvUWZnYV9IazhhckdsbEdTTlhMMHNac2dVazVXcllaMTRVcTRNM3EwYkVva1BIbzFQUjJMazkwbGstejNzUmh1Z3RrOWltbw?oc=5)
-
----
-
-### [Schützt GLP-1-Rezeptoragonist vor frühen Schlaganfall-Rezidiven?](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZyTXZMWlpvaVVXeXZ2d1ZOcC11Tm5PQURMVk16NDB2VXdjTFJqdjVoOE9LaVF1WGMwOHFVcXdWMWx5UUR4c1N4dlc0cERoWlZfall2LUNFeDlDcXhJbXZaOTlyNmJvM0FYbGdmcEtsdENJRHNjYVBIM1VWTG8zMUFsMVFIejJGQ095cmxibURyWDdUZVlHSDJzbXRIOFBHNGVoXzZtTHpUZm92MV9hRjhaVVE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHZyTXZMWlpvaVVXeXZ2d1ZOcC11Tm5PQURMVk16NDB2VXdjTFJqdjVoOE9LaVF1WGMwOHFVcXdWMWx5UUR4c1N4dlc0cERoWlZfall2LUNFeDlDcXhJbXZaOTlyNmJvM0FYbGdmcEtsdENJRHNjYVBIM1VWTG8zMUFsMVFIejJGQ095cmxibURyWDdUZVlHSDJzbXRIOFBHNGVoXzZtTHpUZm92MV9hRjhaVVE?oc=5)
 
 ---
 
