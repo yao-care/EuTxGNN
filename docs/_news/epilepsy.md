@@ -40,11 +40,11 @@ permalink: /news/epilepsy/
 
 ## 相關新聞（1 則）
 
-### [Weniger Demenz mit Hörgeräten bei Epilepsie - mgo medizin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlINng2MGRFc2VEWlRGWDNjcHZaU01GejBzWjhlTmJCQWRBSkp4RGpqVG1BN253bG1sb2QzOFJwSUJGbzVvaFBBTi1lMkdxQnBzUUNKZ2NVYWhrNXl0WUhTUkVZRm9lN2IycjhZaFZEY0dJYTN6NWxIck4tOHVBMks1TWRCaUx6S1RKOFFldzdZV1VLcHA3UlJVLWs?oc=5)
+### [Demenz-Prävention: Hörgeräte und Impfung senken Risiko um 23–24% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNms5Zkg5TFJaZFByNkxpQjMtVGc0ZEVsWkw0c0ZjOWpuVjNha1RORjFkdGMtZ2hDakNKd18zNjViRGxXNmczZnlLMmhyQ3dqX0dVNnpZVkxQVWtlNDRsbHdOSTZaMzNaUmhKMkFIU1VTeExPeGRWd0U5OUhmcW0yR2dTc29nallMV0pQQVZSclJaZlNjdlRHV2dyM2dFVW9rZ09lYlEwbkRheERsaFZfdHhWa0Y?oc=5)
 
-2026-06-29
+2026-06-30
 
-來源：[mgo medizin](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlINng2MGRFc2VEWlRGWDNjcHZaU01GejBzWjhlTmJCQWRBSkp4RGpqVG1BN253bG1sb2QzOFJwSUJGbzVvaFBBTi1lMkdxQnBzUUNKZ2NVYWhrNXl0WUhTUkVZRm9lN2IycjhZaFZEY0dJYTN6NWxIck4tOHVBMks1TWRCaUx6S1RKOFFldzdZV1VLcHA3UlJVLWs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNms5Zkg5TFJaZFByNkxpQjMtVGc0ZEVsWkw0c0ZjOWpuVjNha1RORjFkdGMtZ2hDakNKd18zNjViRGxXNmczZnlLMmhyQ3dqX0dVNnpZVkxQVWtlNDRsbHdOSTZaMzNaUmhKMkFIU1VTeExPeGRWd0U5OUhmcW0yR2dTc29nallMV0pQQVZSclJaZlNjdlRHV2dyM2dFVW9rZ09lYlEwbkRheERsaFZfdHhWa0Y?oc=5)
 
 ---
 

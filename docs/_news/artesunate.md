@@ -14,7 +14,7 @@ permalink: /news/artesunate/
 ---
 
 <p class="key-answer" data-question="Artesunate 有什麼相關新聞？">
-<strong>Artesunate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Artesunate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/artesunate/
 <p><a href="{{ '/drugs/artesunate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Rheumatoide Arthritis: Vagusnerv-Implantat und CAR-T erweitern die Therapieoptionen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

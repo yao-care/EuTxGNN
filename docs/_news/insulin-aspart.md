@@ -14,7 +14,7 @@ permalink: /news/insulin-aspart/
 ---
 
 <p class="key-answer" data-question="Insulin Aspart 有什麼相關新聞？">
-<strong>Insulin Aspart</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Aspart</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/insulin-aspart/
 <p><a href="{{ '/drugs/insulin-aspart/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Leaky Gut: Tierisches Protein verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
+
+---
 
 ### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimerrisiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd21HajQ1ZExReG1STURvTVBpTG1ISWxqdExhOUdsTjd0VGhBWmxwWGhjVUlTcy14RjJkWG9hczhnOHhDTVlfN2FXNkpaNmF6TzhyMlNGNUphME5Tdl85MVQtQTVjb2ZDMFg3NHl1VlpKajVfbmlWM1I4dWZZTTFPUTRtUUl2eWN3c1FPQ1NkcVlINkdad0I2aWp6LXo0SjYxaWhlam4tb3BoVllqWmZoZDJEYnJERC1uTElV?oc=5)
+
+---
+
+### [Semaglutid zeigt Effekte auf Biomarker – aber nicht auf den auf Krankheitsverlauf - Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
 
 ---
 
@@ -78,6 +94,14 @@ permalink: /news/insulin-aspart/
 
 ---
 
+### [Teplizumab und neue EMA-Empfehlungen: Frühdiagnostik und Sicherheit rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
+
+2026-06-30 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
+
+---
+
 ### [I’m a diabetes doctor. This is how we drive down the disease - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
@@ -86,19 +110,11 @@ permalink: /news/insulin-aspart/
 
 ---
 
-### [Typ-1-Diabetes: Neue Immuntherapie verzögert Ausbruch um drei Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
+### [Retina Care Visits Reveal High Blood Pressure in Adults With Diabetes](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
 
-2026-06-30 <span class="news-indication-tag">diabetes</span>
+2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjIzNFlBNGtqcFpSQ29HdDhYbmwyWVQtbGZVdGZMOWk4VURKU2xOUXBiWFhqZEpSbVFIY1ZOandFb01FWkF6MDFHUktiLUpzMkNfSGNqR254eDlaWEFLMVdfaG1ubHBLZ1Fid3NDM2hmZUhZVG5OT3dfZEtFdjRDQXk3Vk56QWhGQmNPVnJ2cW1LTkxLOWpXbEtqT2FoczBKLTJxVTBNWmhqTzFrZldoclZiNGhBWkE?oc=5)
-
----
-
-### [Tierisches Protein verdoppelt Diabetes-Risiko: 205.000er-Studie - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkI3UV9fcXl4M0VnV2R2V3ZqQnZ2ODFOMlo2Znc3MDR2aGp0SHB5QlNubFRlVXB4MG9xdGc5VzRhcE9YSWNZY0hJSGRIN1hXNTAwZ3A1UHJvbDFUendobHRTeUN5SS1WSHlkUTdEanVCSVFjNDZzQ2lUR1hBVUZ3ZUtGSEl2blVnS3Rmb010eDRGZ2ItZTdHWmdzM3cxQWNsRHlldnpGR2tVVHc4d0VibQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkI3UV9fcXl4M0VnV2R2V3ZqQnZ2ODFOMlo2Znc3MDR2aGp0SHB5QlNubFRlVXB4MG9xdGc5VzRhcE9YSWNZY0hJSGRIN1hXNTAwZ3A1UHJvbDFUendobHRTeUN5SS1WSHlkUTdEanVCSVFjNDZzQ2lUR1hBVUZ3ZUtGSEl2blVnS3Rmb010eDRGZ2ItZTdHWmdzM3cxQWNsRHlldnpGR2tVVHc4d0VibQ?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
 
 ---
 

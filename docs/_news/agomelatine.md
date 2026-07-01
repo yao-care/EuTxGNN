@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [Kreatin gegen Depression: Wirksam bei Frauen, risikohaft bei bipolarer Störung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEdMakhONUdIUDJmUkxpeWRXU0ZzZ2dqVmZoWFhHUGhDaW85U2RwSTdnNlZObXJwUzBKRUJHaHZmZjBjM1VDMjExd1pSOGhGQ3VzRHhRZGhaX3NNVFlIamFrUThCYmphbXJaYndYNmd5OXZLSzB3WXZWV2Jvd2RPenV2ZEtMejJ4LUVmNmZ6QUoyd2psVzdtTVBacldneDJsOWxycFJUNFdPQ2U2aHF4LU10NE1FbEhT?oc=5)
+
+2026-06-30 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEdMakhONUdIUDJmUkxpeWRXU0ZzZ2dqVmZoWFhHUGhDaW85U2RwSTdnNlZObXJwUzBKRUJHaHZmZjBjM1VDMjExd1pSOGhGQ3VzRHhRZGhaX3NNVFlIamFrUThCYmphbXJaYndYNmd5OXZLSzB3WXZWV2Jvd2RPenV2ZEtMejJ4LUVmNmZ6QUoyd2psVzdtTVBacldneDJsOWxycFJUNFdPQ2U2aHF4LU10NE1FbEhT?oc=5)
+
+---
+
+### [Jóvenes piden ayuda por síntomas de ansiedad y depresión - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm1Vc2pha2pBbTRvUlhVRllPclBCRUtRanhYSzRvZ2l4c3NVUW5EaFJRbERVelBCVGhyVGpYWmo3eFNyRUljcnNSZDdpV1RVUWZhNVhuYmZxN0cyYWNqZ0tWS3Y5blNoQjd6YWlnYlAyd3Q2cHFnUU1HeU5MQ0R0SUhkRnZmcUk3UXVKZTFORzhoSkxDVERNbmlBMnBvc1A1aldVTTBOMm11SXFVSWdSLTBGenVta1lBT1g5ek5tb3VPZ2Z0SzdXVQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">depresión</span>
+
+來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm1Vc2pha2pBbTRvUlhVRllPclBCRUtRanhYSzRvZ2l4c3NVUW5EaFJRbERVelBCVGhyVGpYWmo3eFNyRUljcnNSZDdpV1RVUWZhNVhuYmZxN0cyYWNqZ0tWS3Y5blNoQjd6YWlnYlAyd3Q2cHFnUU1HeU5MQ0R0SUhkRnZmcUk3UXVKZTFORzhoSkxDVERNbmlBMnBvc1A1aldVTTBOMm11SXFVSWdSLTBGenVta1lBT1g5ek5tb3VPZ2Z0SzdXVQ?oc=5)
+
+---
 
 ### [Los expertos en salud mental coinciden: la creatina ofrece resultados prometedores para la depresión, aunque todavía no existen pruebas concluyentes - El Economista](https://news.google.com/rss/articles/CBMi0gJBVV95cUxPYUZiSFRpSlN2RlhYQ0lIYXliV2VmR0NPMzJ0bXpZREdpdV9hOHVoTmVISkhjN0NrYzh3M3dPSjg5c1ZibmFGN1VpVVZ3RXlOMUZmNkExYXVtUHk2TktKQ1pHc25JaHdmbFpOM2pSM1BWRzNFV1NBVlVsMVQ4ODNLOUFWR3hYb2NXQ0d6QmFzX3R1WkQ4WEdUWlRPaWRGX0hmcUNmN09pd1AwREVzd0J5MlgxS3FPM1o5dWFwQzlhcVpRT000VUdrUlVvV096d2NvekJxM3JVRE1QakgxcTZsZ0pYbXVnX2xBUkotVWotNkN3OXhhVW1yREc3d1NyZnd3eDNiWGhQMTJSX0pqUFFlSnJ0eWJoc1pBNXZFSFB6blBtNmdkbkpLclpFTUZIXzMycjA0cDJ6T25MV0pkZV9GTXppNlRWb3pwM25XMktDZV81QdIBvAJBVV95cUxOTXF2d0xFZmp1M1FrV3VNWnBMdU5RSVdBdGR1WWI2ZGpsbTBTdW9WQS1jUW1XWjdIQ282cXNXbFladkJGU2dDY1RZbElzQTdVcC1KZ3V4em80OXBDdTlDSnhnaGRFLU1vQ2lCcDVlX3FjQmZPai0wdHNIdV9jNENvZzY3THRhc3lRUmFsVXRfdEFmZ3ZmT0NMYm9IXzh3OGlJT1FIYTV4c29HcnY4YXlEV0NzSnNVUFBENndvbllPRE5OcnN6WExzTlpTb0RPNzBmZTduakp1SUxpeUhDX3ZkYTFITFNmMFcweXZReEczR0VsQXF3MUFqdERHOXRCUFZmbnF0N0lqdXcyd3J1VjRud2FhZVZwZzQySWVJR0NHOHBfNzBBcVpyRkZ3RWZmMjJxeks3VTQ4V1FreVJj?oc=5)
 
@@ -67,6 +83,14 @@ permalink: /news/agomelatine/
 2026-06-30 <span class="news-indication-tag">depression</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGhZTHdCS3JqMm1lQldZSkpMelZrTUdYcDJmaHFvZm9CY0huSHRZT2VSeUFpem83U2h6b3REZ2ZCSXBFbllMWlJxOE5EdUhkWmFWUWtRZS1pbVpRemkyRVRXdEpOUVNHc1JXb0taVkcyZWNaRHBQMlFlZjRib040UWR2allEeU5XeTgxWlF3NzI0UlRVWHVFWm9OXzVVRWxpV2t6dFF2M2hMMjZOV21EdUt0ank1TXZndVpvak81a2o0THRs?oc=5)
+
+---
+
+### [Scientists say creatine may help fight depression](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZVpXMEtsTmdvVmgyVXppWFpkZm1aeW80VnF4ZXhkbHVCZF95OERHZWhnUlRZYVpBN1ZZWkY3TlM1VVVCdVY5bkxKRGcxZWJxazNaVVhNeVpLZktNVVk1Z0VjQUNYSm9mTkN6UU9TVQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">depression</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZVpXMEtsTmdvVmgyVXppWFpkZm1aeW80VnF4ZXhkbHVCZF95OERHZWhnUlRZYVpBN1ZZWkY3TlM1VVVCdVY5bkxKRGcxZWJxazNaVVhNeVpLZktNVVk1Z0VjQUNYSm9mTkN6UU9TVQ?oc=5)
 
 ---
 

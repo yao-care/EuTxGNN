@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Rheumatoide Arthritis: Vagusnerv-Implantat und CAR-T erweitern die Therapieoptionen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Säureblocker bei Asthma und COPD: Risikofaktor für Krankheitsschübe?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
-2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
-
----
-
-### [Neue Genom-Analyse aus Blutplasma verbessert Diagnostik schwerer Infektionen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
-
-2026-06-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZENpLThVT0JoM05hRGl5dWVrZmFWM1B4VDd4M1g5Ri11TTVoUVY2eExoNzFmVE9pMnpDQ3hTenBoRVN6X0gxSFRMYXhJejVvWmZNZVgwWmhIWHZISjl0UWhoTndoX1VaR2FhWjVXODVmUFQ2RmROYU1QczN5aDlFNDJQWjN2bVg0aUdrdHZsc1VpZ2pjWWZnWjk1eXliX2QyVG85UGZRZ1J5N29pRHR6TW92cXFSMEhUVWxteWxlVmJpMFR0bXluSlV0TXpwV1E?oc=5)
 
 ---
 
@@ -83,14 +67,6 @@ permalink: /news/sarilumab/
 2026-06-29 <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFVHWTAzMEVPOXlJUjFhM3BLNml2YmVXRVRUa1gzbXdMQWlWU3RnU2tTYkxETi1veEstdllNZWtVV0w2cXJIVVJ0RHJ4WlRKMUE4VlJtTFdRVFhxYnVRb0Rzc1lqOGdjeHllWkxmc1liTy1lOWxDN3owX01YQmZYLXdrR1BKTVJLVFZld3FTaEZkQTUxd2tEc3pRUzdoeTE0bjFkYnltaUc5UDA?oc=5)
-
----
-
-### [Marcador genético apoya selección de terapia anti-TNF en la enfermedad de Crohn](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0Y2dlNTZ2k2dFVxN2dNd0lTdDFCUWpoWGJmaGpqTko4dkhlT2QxWUdoeERzTjJGa0xlai1kOE9xdTNaYXoyc0ZGVVdDTnZrd0hhdVRnbWFHVGZ3ZkpUVXFzc2xzTWp4eVVva1NjaHQ4N3AyamFBT21WM2tVbGpINk1Jb1F6YlBaUHFvdW5STjh4Y0ZHSGZWUHRjQTAyTy1wOXc1bDJLVmlMa1ljaG8xTTVKR0tVYzFYTjZ5SndONGVscHI4ZGtoOV9wQTJBbGwtb3NyektiT25Ob3BuTDZOcEdfQ1XSAe4BQVVfeXFMTW9CbFpxWXRUeXhMcE9FclJoVDdRMlpQRnVkMFJjOS1vRGt3OGFqc3d4NVJKYUxFdFozenJnZHVhQ0dqZ01SLVRLZlN2Q2ZyV21KbW9DVmlGcXZ5blBXcWV5eWJ5QzlKUTNVWFlYRGFTc2daRG13bDNTZTByQl9VZTh1aFRwUmhCanNMNlRnSXVRb3VSaktxc2dkQ2wwUDd3R0lHNkZMNDFzcTlfQWpQMTk4WFNZZDFISG9USVpqUUhQYkRqTWxtNFpic0xYYU9ScUxBSFp5MnN6Nk4zamFlLU1pTWhqdXVkcTdSOTg3UQ?oc=5)
-
-2026-06-29 <span class="news-indication-tag">enfermedad de Crohn</span>
-
-來源：[labmedica.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0Y2dlNTZ2k2dFVxN2dNd0lTdDFCUWpoWGJmaGpqTko4dkhlT2QxWUdoeERzTjJGa0xlai1kOE9xdTNaYXoyc0ZGVVdDTnZrd0hhdVRnbWFHVGZ3ZkpUVXFzc2xzTWp4eVVva1NjaHQ4N3AyamFBT21WM2tVbGpINk1Jb1F6YlBaUHFvdW5STjh4Y0ZHSGZWUHRjQTAyTy1wOXc1bDJLVmlMa1ljaG8xTTVKR0tVYzFYTjZ5SndONGVscHI4ZGtoOV9wQTJBbGwtb3NyektiT25Ob3BuTDZOcEdfQ1XSAe4BQVVfeXFMTW9CbFpxWXRUeXhMcE9FclJoVDdRMlpQRnVkMFJjOS1vRGt3OGFqc3d4NVJKYUxFdFozenJnZHVhQ0dqZ01SLVRLZlN2Q2ZyV21KbW9DVmlGcXZ5blBXcWV5eWJ5QzlKUTNVWFlYRGFTc2daRG13bDNTZTByQl9VZTh1aFRwUmhCanNMNlRnSXVRb3VSaktxc2dkQ2wwUDd3R0lHNkZMNDFzcTlfQWpQMTk4WFNZZDFISG9USVpqUUhQYkRqTWxtNFpic0xYYU9ScUxBSFp5MnN6Nk4zamFlLU1pTWhqdXVkcTdSOTg3UQ?oc=5)
 
 ---
 

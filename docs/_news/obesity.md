@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [La obesidad no es igual para todos, requiere un abordaje integral y personalizado - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmQ1NGYxamhpMUpkdlRuNVo5RUlFdExFNHp2aldKOVV1S3VMZE9DRVhsLUZoUlZBMTQ1bUVvdk1NSXZRb1pTM2twYXNCOUZ3MkdqUXVnOGFFQmx1dW9NUjJ1TTFXbmRNTGtUSHFPMmNKZnl0dzZRU0JiM3hYY0lmS1E1TVVwQWZ2VWk4UnNISk1Gcmc3bzNaOFhwSndyVWRPLUZwWDdhYWxPNUx2TlVqdVU3bl9VN2gxRG94UVk0bm16Z9IBvAFBVV95cUxNbzhxNkNEWmhOcUhDM3FCemZ3RXpINGhJVm5VZHQydHhmUUxZUHJmbXNZSDc4V094RmQydHhCUjJlMmg1M0VDeVFVYVpGWFJUZkhNQjNpRE5PTWwwV2FCMHprd1lSSklhRFpMdWxxV3poUUlRdUE1NjBmbHRheVg0UXBtYjFqaDZ3M3NmMGh3S3VrNXdEY2FORm5maFdQSDhnbXN2WGZVQ01BTVNObVlDLU90Wm1iSC1iektHOQ?oc=5)
+
+2026-06-30
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmQ1NGYxamhpMUpkdlRuNVo5RUlFdExFNHp2aldKOVV1S3VMZE9DRVhsLUZoUlZBMTQ1bUVvdk1NSXZRb1pTM2twYXNCOUZ3MkdqUXVnOGFFQmx1dW9NUjJ1TTFXbmRNTGtUSHFPMmNKZnl0dzZRU0JiM3hYY0lmS1E1TVVwQWZ2VWk4UnNISk1Gcmc3bzNaOFhwSndyVWRPLUZwWDdhYWxPNUx2TlVqdVU3bl9VN2gxRG94UVk0bm16Z9IBvAFBVV95cUxNbzhxNkNEWmhOcUhDM3FCemZ3RXpINGhJVm5VZHQydHhmUUxZUHJmbXNZSDc4V094RmQydHhCUjJlMmg1M0VDeVFVYVpGWFJUZkhNQjNpRE5PTWwwV2FCMHprd1lSSklhRFpMdWxxV3poUUlRdUE1NjBmbHRheVg0UXBtYjFqaDZ3M3NmMGh3S3VrNXdEY2FORm5maFdQSDhnbXN2WGZVQ01BTVNObVlDLU90Wm1iSC1iektHOQ?oc=5)
+
+---
 
 ### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Rheumatoide Arthritis: Vagusnerv-Implantat und CAR-T erweitern die Therapieoptionen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Mounjaro pilot to bypass GP appointments in parts of UK - Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 
-2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-06-29 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[Pulse Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm9nWkRUTG9pc1hmOXpqeWFuN3RGWVNrWGlWU3Z1VUNpREVqZXJ6dW9fWUV3SThHekw1aGc2eWhRd1NkUmg4ZVZrUElWc2U4cW95bVVRazF4Y1hjTVNfa2RNVlBuUXlYUnZwSl9KVndiekFQRExoX3gyNS1GZlhZdEw2dE9RTy1ReHVJcDRuVjdoc0dmUmNyWndIRGIxa3VNTEJ4cVJLek1iRU0wYk1qMHR4NHUyNVRRYVA0Z2czNFB1YlBCbDNwVlVn?oc=5)
 

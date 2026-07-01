@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# enfermedad de Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（1 則）
 
-### [Alzheimer : ce régime alimentaire pourrait réduire le risque de démence jusqu’à 29 %, révèle une grande étude sur 15 ans - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihgJBVV95cUxPSklHZTl5RXVNM0JGMGJwdjhULXdyVG9TZHNvNGR2UUpOUzB3RU1vNlRERUE4UF9xNnpsLTB0aG10Yi1oUHNEYUZ4Nk1FdVhtRUd6RzVBeW15SFRTbHZwR0VtTTBFdDhZVkJfcjBHTjNkZXFjMGhQcEtTZDBKNi1VSWdtZDNLRE01WGdvN2lsN1RwY2p3bGV5T25aQmhHR3k4cm80OUhtdEV2VV9PTWd0Y1otOXBINEZjSk4zWWl0T210dEg5NDluYTVMclczVmZwSVNZQ3paTFc2clNubU10WnlTWkRNZkRVTDVwVnZIRFFBakFRblp2NUVLOGJ1aGF3V1ZxM1Zn?oc=5)
+### [Alzheimer: descubren el 'caballo de Troya' celular que la enfermedad utiliza para destruir el cerebro](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjJja0hQbTFHZUFrWVdGcm50aVJwWEpOQUVETXRkYjBxN0plVlphV280dEw5TU1uOE9PeUZIeDlzZ0pxUzV6Qjk0amxya1JmUmoydG1HaHJ4OU1qdzdGSDdjN2lCcW1udXpkZ0JTcjhnbXJaeTlRbmJDOWJJMmhXQnlpdnR3R0ZxZ1FaYmJOdTdhSzlremJNejlzcEUzSjRpcFpGMmxXQ2FHMnBuV0E0b0tqZ2x0ZjZMZGFBWWwzaVh2SU9DMjFKN05YYXdRQ1RYaG82X3pn?oc=5)
 
-2026-06-29
+2026-06-30
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMihgJBVV95cUxPSklHZTl5RXVNM0JGMGJwdjhULXdyVG9TZHNvNGR2UUpOUzB3RU1vNlRERUE4UF9xNnpsLTB0aG10Yi1oUHNEYUZ4Nk1FdVhtRUd6RzVBeW15SFRTbHZwR0VtTTBFdDhZVkJfcjBHTjNkZXFjMGhQcEtTZDBKNi1VSWdtZDNLRE01WGdvN2lsN1RwY2p3bGV5T25aQmhHR3k4cm80OUhtdEV2VV9PTWd0Y1otOXBINEZjSk4zWWl0T210dEg5NDluYTVMclczVmZwSVNZQ3paTFc2clNubU10WnlTWkRNZkRVTDVwVnZIRFFBakFRblp2NUVLOGJ1aGF3V1ZxM1Zn?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjJja0hQbTFHZUFrWVdGcm50aVJwWEpOQUVETXRkYjBxN0plVlphV280dEw5TU1uOE9PeUZIeDlzZ0pxUzV6Qjk0amxya1JmUmoydG1HaHJ4OU1qdzdGSDdjN2lCcW1udXpkZ0JTcjhnbXJaeTlRbmJDOWJJMmhXQnlpdnR3R0ZxZ1FaYmJOdTdhSzlremJNejlzcEUzSjRpcFpGMmxXQ2FHMnBuV0E0b0tqZ2x0ZjZMZGFBWWwzaVh2SU9DMjFKN05YYXdRQ1RYaG82X3pn?oc=5)
 
 ---
 

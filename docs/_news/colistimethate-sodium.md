@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Rheumatoide Arthritis: Vagusnerv-Implantat und CAR-T erweitern die Therapieoptionen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">arthritis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXR3VF84THRUYkV1YlpFY3B5TUgyaWxlNHlXWUtYbG43VE4xTXp3UnBmZGxHbnYtVkg0X3lVdEVKeER5TTBfaDJ5aXotcXBWaTVrQ0dvbDlRX0hRYVNScWZkZjF1MFlmQUR3R0J3cUE5TlcwMnpjV00zSC0zOWNBLWhsc1JVdFdxc3lDNWNHcjFMOHQxT1JGV1ZPN1E2WHNNcnZSU0FlTExOd3JKbVoxVWlYbUQ?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
 
@@ -70,27 +62,27 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
+### [Retina Care Visits Reveal High Blood Pressure in Adults With Diabetes](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
+
+---
+
+### [Caen las ventas de medicación contra la hipertensión en España - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFqeDAzWFcwSW1ROXVsRElPVHF5WjdMajVTNG85b0Z3Y0VPaklCRGc0aElRbnZZYVdSb2hvZHFUajRCSUxVU1JzS0JrZmE1RjQzVEswTXJ5S3dodFBHcDdHVFh5a0RSN3BJclhxYk92WWJ3cVFUemQtYVFuQTNqOVFvVmJDQkVmdlVtMjhnMUR6VW5XdS1SVXFVTm5sTFA0VnBZZWF4N19Dd0pZ0gGnAUFVX3lxTFA5dXFXdldJSjVqWmVBM1l1NGJWMGRLaVJBRWphUlBVV1ZaYk5oa0tDTXd1Tk96UkZySjl3TE1yYVFpWGQyNThWOHlJT1lTWkt6MUpBSm5rRWRkNjluU0FYOGhVVU82VmxLZzJyNkdSdGs5dFpReW1FQXVHS2t0ZmxwSWE2d0ZFaGpjQWZRbkJfM2ZDWlpHZ0FiNjNWRTFleUYwRjk4dmJj?oc=5)
+
+2026-06-30 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFqeDAzWFcwSW1ROXVsRElPVHF5WjdMajVTNG85b0Z3Y0VPaklCRGc0aElRbnZZYVdSb2hvZHFUajRCSUxVU1JzS0JrZmE1RjQzVEswTXJ5S3dodFBHcDdHVFh5a0RSN3BJclhxYk92WWJ3cVFUemQtYVFuQTNqOVFvVmJDQkVmdlVtMjhnMUR6VW5XdS1SVXFVTm5sTFA0VnBZZWF4N19Dd0pZ0gGnAUFVX3lxTFA5dXFXdldJSjVqWmVBM1l1NGJWMGRLaVJBRWphUlBVV1ZaYk5oa0tDTXd1Tk96UkZySjl3TE1yYVFpWGQyNThWOHlJT1lTWkt6MUpBSm5rRWRkNjluU0FYOGhVVU82VmxLZzJyNkdSdGs5dFpReW1FQXVHS2t0ZmxwSWE2d0ZFaGpjQWZRbkJfM2ZDWlpHZ0FiNjNWRTFleUYwRjk4dmJj?oc=5)
+
+---
+
 ### [Congrès ESH 2026 : ces avancées qui vont transformer la prise en charge de l'hypertension artérielle](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
 
 2026-06-29 <span class="news-indication-tag">hypertension</span>
 
 來源：[Egora](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlJZdDcxVWNQWnpuRGpNajlhYV9tR3BmTnM2aXVPdVBiQk1mdHdlTUJEdDBGNkFubjV5NXlwNUxlTHRtMzJJeTVmTkdqakFUTUFhV1h1dGRXTXdEYlAteDFnY1ZfOGs3WG52YU1oQXdraTlhVnN2aVRPbTFSdTc1aHJzTkJsU2pDQzkyMXl5VDM5LWZkclVsTHRTVkhEbmVFQkdlSW5abWJmaURfbHc?oc=5)
-
----
-
-### [Bluthochdruck und Vorhofflimmern: Daten treiben neue Prävention im Alter - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
-
-2026-06-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxOemh0QXh5emVacjJBeGRrT1N5TnZEaHoyUllGam02MHVlVHcycmh5UWF2TjlKTGtNdU9QWnpQNUR3VS1qcVc1X0FRTmxUTzRFTTE0a3dzYlpJR2tPREFWdHpEQy1ydTFzUF9RLXFLcUxMV3NWUUVWVUxHcWp6YWl1RGlIZUJhbWlYZUFpTllJWHpaZHNGWnNWQ0RzaFZwM1Nkc05DUEN1dw?oc=5)
-
----
-
-### [Ces boissons très aimées des enfants augmenteraient le risque d'hypertension à l'âge adulte - Yahoo Life France](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdE9WQ05iMm9ZV3NGaWFLaU1JSi1HN2E5TjEyNWpiQS0xZHNqMl9sa2F1UDBSN2RnSmVNdmNmR2lFdUQzWWItMGhyc3dCX2lLVnB5OExENFQ4U1ZicEVUZ01KNXlKWW82b0puTkE2T1VRUnhteld5MXl0ZUVwUjVwYWdya3ZBcFZ6eEVISDc0SDJGcjlxYXVKSWtncEFXUTJHN3hkT3R3YTBDUEhVWU96aS1HN3ZubjFnMDdITE9BSDljcHN0YXVGOUpFdw?oc=5)
-
-2026-06-28 <span class="news-indication-tag">hypertension</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiywFBVV95cUxPdE9WQ05iMm9ZV3NGaWFLaU1JSi1HN2E5TjEyNWpiQS0xZHNqMl9sa2F1UDBSN2RnSmVNdmNmR2lFdUQzWWItMGhyc3dCX2lLVnB5OExENFQ4U1ZicEVUZ01KNXlKWW82b0puTkE2T1VRUnhteld5MXl0ZUVwUjVwYWdya3ZBcFZ6eEVISDc0SDJGcjlxYXVKSWtncEFXUTJHN3hkT3R3YTBDUEhVWU96aS1HN3ZubjFnMDdITE9BSDljcHN0YXVGOUpFdw?oc=5)
 
 ---
 
