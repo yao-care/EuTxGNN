@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [La creatina viaja del gimnasio al hospital para probar su uso como complemento contra la depresión - El Confidencial](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMzBDYWpMVzB4VWprNGVOaUxEY0hnUVZLUjNoUkhRa0VLTWI1dm0zOTZ1Ml8xZmNSLU43bnVpYkptZGRmWUF2eFV2aTREXy1xWWtxQ3F3UDZ5MDJMQndfTTBoOUhLWVA2RzJVRHJlRXhiSExWVF8ydWIyakZBVktUb0x1YTZqQm5nbjZLcUJabmY?oc=5)
+### [¿Funciona la creatina contra la depresión? Esto dice la ciencia - Redacción Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3Vma3haSDJJZXdDeXUwdHBFcUpuTEdKNllfOFlCU2w4a2dLMlVSTmpiTFktZThwVkN6NXE2M09PbGhUSGpkSjh4ZFRQamVjNkJ3Sl81MVJFVDVSdGtPTzNtZjVyR2VyT0U1c2IxaFgycXhXczFIYkQtSzVFZWFkSzZ1LWtsY0ZrN0JCc1IwM1M0RmVvZ1VVbEpWRE5wZl9RVWk4VmhiNDZEb3dTZ0FGRU5uWnFmcjlZY0HSAboBQVVfeXFMUFNHZ3BXU3FoRkNhQ3BBRXQxNHR4SWNLUGIwb2hoU2dKSHVmX21kSjItRXVaempWUzNUNEtteUE4VER6T1hoMUhIbzM4QTdDRG9YWmdVOUlFbmNZaWs3MUh2TldITkFSQVJhc1pIejl1XzA2R0ZsY1hwRjRvbWl0S1pab2o5OVA4UnVHblVHRmFJQXh0Tk40dTZYN2NaY0VnZmN2b05BS09DWEJtejRGVVVDOFgwMy1XZHNR?oc=5)
 
 2026-07-01
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMzBDYWpMVzB4VWprNGVOaUxEY0hnUVZLUjNoUkhRa0VLTWI1dm0zOTZ1Ml8xZmNSLU43bnVpYkptZGRmWUF2eFV2aTREXy1xWWtxQ3F3UDZ5MDJMQndfTTBoOUhLWVA2RzJVRHJlRXhiSExWVF8ydWIyakZBVktUb0x1YTZqQm5nbjZLcUJabmY?oc=5)
-
----
-
-### [Kreatin gegen Depression: Wirksam bei Frauen, risikohaft bei bipolarer Störung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEdMakhONUdIUDJmUkxpeWRXU0ZzZ2dqVmZoWFhHUGhDaW85U2RwSTdnNlZObXJwUzBKRUJHaHZmZjBjM1VDMjExd1pSOGhGQ3VzRHhRZGhaX3NNVFlIamFrUThCYmphbXJaYndYNmd5OXZLSzB3WXZWV2Jvd2RPenV2ZEtMejJ4LUVmNmZ6QUoyd2psVzdtTVBacldneDJsOWxycFJUNFdPQ2U2aHF4LU10NE1FbEhT?oc=5)
-
-2026-06-30
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEdMakhONUdIUDJmUkxpeWRXU0ZzZ2dqVmZoWFhHUGhDaW85U2RwSTdnNlZObXJwUzBKRUJHaHZmZjBjM1VDMjExd1pSOGhGQ3VzRHhRZGhaX3NNVFlIamFrUThCYmphbXJaYndYNmd5OXZLSzB3WXZWV2Jvd2RPenV2ZEtMejJ4LUVmNmZ6QUoyd2psVzdtTVBacldneDJsOWxycFJUNFdPQ2U2aHF4LU10NE1FbEhT?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3Vma3haSDJJZXdDeXUwdHBFcUpuTEdKNllfOFlCU2w4a2dLMlVSTmpiTFktZThwVkN6NXE2M09PbGhUSGpkSjh4ZFRQamVjNkJ3Sl81MVJFVDVSdGtPTzNtZjVyR2VyT0U1c2IxaFgycXhXczFIYkQtSzVFZWFkSzZ1LWtsY0ZrN0JCc1IwM1M0RmVvZ1VVbEpWRE5wZl9RVWk4VmhiNDZEb3dTZ0FGRU5uWnFmcjlZY0HSAboBQVVfeXFMUFNHZ3BXU3FoRkNhQ3BBRXQxNHR4SWNLUGIwb2hoU2dKSHVmX21kSjItRXVaempWUzNUNEtteUE4VER6T1hoMUhIbzM4QTdDRG9YWmdVOUlFbmNZaWs3MUh2TldITkFSQVJhc1pIejl1XzA2R0ZsY1hwRjRvbWl0S1pab2o5OVA4UnVHblVHRmFJQXh0Tk40dTZYN2NaY0VnZmN2b05BS09DWEJtejRGVVVDOFgwMy1XZHNR?oc=5)
 
 ---
 

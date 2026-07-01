@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Leaky Gut: Tierisches Protein verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
+### [“En la última década vivimos una verdadera revolución para niños y adolescentes con diabetes tipo 1”](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
 
-2026-06-30 <span class="news-indication-tag">diabetes</span>
+2026-07-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
+
+---
+
+### [Gentherapie für Typ-2-Diabetes in klinischer Entwicklung](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXAzdHpLanBmbmxySmk4Q3dsMGJEMmZEOWpDbUtQYUN4NGhlQnhNakZNR3R4WEotcXRWdDZod1EtTVNhYTlhODZ2T2NjcC1ibjdTYlZhWGVubUgwWW5TenAxWUFzZXVGVENoVXA5QW5jZGxzdGlxLWR6UjZ2VlB2Y2hJVVBUdDVrU1VqUjFMQjBMNTRKOHlfNWVURktvdHB6cHRWcVFR?oc=5)
+
+2026-07-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[Pharma+Food](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXAzdHpLanBmbmxySmk4Q3dsMGJEMmZEOWpDbUtQYUN4NGhlQnhNakZNR3R4WEotcXRWdDZod1EtTVNhYTlhODZ2T2NjcC1ibjdTYlZhWGVubUgwWW5TenAxWUFzZXVGVENoVXA5QW5jZGxzdGlxLWR6UjZ2VlB2Y2hJVVBUdDVrU1VqUjFMQjBMNTRKOHlfNWVURktvdHB6cHRWcVFR?oc=5)
+
+---
+
+### [Leaky Gut durch tierisches Protein: Studienlage zu Entzündung, Barriere und Diabetesrisiko - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
+
+2026-07-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
+
+---
+
+### [Typ-1-Diabetes: Teplizumab verzögert Ausbruch um bis zu 3 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZGaUxTZ2xrRDJydmw0ZFRteTNMaUY3LWkydlVzUTY2VzdiY2syVlZJNTdXWE00cURiQmJWS1c4a2hMc2ZjaUZ5anFXd0RzbjZQZjh6TVp3cHZJRkZ0WDR2cmhBREFpRHZOSUsxTWh1dFVjYlZZTkM0eXVKbW9rN1c0SmNoX3VfTHdfcmM1aUVVNmJWZ2xjeDRNQzJoMXhCOEo4VmE0cGFTVHV6V0p2Sy13?oc=5)
+
+2026-07-01 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZGaUxTZ2xrRDJydmw0ZFRteTNMaUY3LWkydlVzUTY2VzdiY2syVlZJNTdXWE00cURiQmJWS1c4a2hMc2ZjaUZ5anFXd0RzbjZQZjh6TVp3cHZJRkZ0WDR2cmhBREFpRHZOSUsxTWh1dFVjYlZZTkM0eXVKbW9rN1c0SmNoX3VfTHdfcmM1aUVVNmJWZ2xjeDRNQzJoMXhCOEo4VmE0cGFTVHV6V0p2Sy13?oc=5)
+
+---
+
+### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzNGOTBQWWxxTUxfdS1UbUs3ODJob2lncG80VGY1emJjTUZUZHJ1eDlUQUdJZXFRTWxFOWphZWNDY2xQbnUtUGc2eU43aHJsdFoxazVkZHJTQkVxaFFObS1FWVY5OE9rcHVPNmRBVGxLMS1rc3dfRVdsclV1aW1RZTlVUzZaSi0tLVFTbk11azZxck1ObjVfQmRWcEVTM0h1eHRpZlByalF4Wk1qemNQcXRQVlpHZEpiNW5v?oc=5)
+
+2026-07-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzNGOTBQWWxxTUxfdS1UbUs3ODJob2lncG80VGY1emJjTUZUZHJ1eDlUQUdJZXFRTWxFOWphZWNDY2xQbnUtUGc2eU43aHJsdFoxazVkZHJTQkVxaFFObS1FWVY5OE9rcHVPNmRBVGxLMS1rc3dfRVdsclV1aW1RZTlVUzZaSi0tLVFTbk11azZxck1ObjVfQmRWcEVTM0h1eHRpZlByalF4Wk1qemNQcXRQVlpHZEpiNW5v?oc=5)
 
 ---
 
@@ -78,14 +110,6 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Teplizumab und neue EMA-Empfehlungen: Frühdiagnostik und Sicherheit rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
-
-2026-06-30 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
-
----
-
 ### [I’m a diabetes doctor. This is how we drive down the disease - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
 
 2026-06-30 <span class="news-indication-tag">diabetes</span>
@@ -99,22 +123,6 @@ permalink: /news/guselkumab/
 2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
-
----
-
-### [Alzheimer: SGLT2- und GLP-1-Medikamente senken Risiken – neue Antikörper gegen Amyloid - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVkalY2UGdfX2VpcEVxQ3o4V3ZXby1oajhwNFhleVJMVU5GNGROcXg0OWVJUzh1Q1pNVmRBbEdwYmtRV3dsMWIwbVVDTGl5MmpOMDN1SzU5REdZOHlGbXdWUFRvLUwxbUhWNE9vbm1wZWcxQzQ2TExVYUJaYlRtRlRyMUJROGxMNEtNZ1VmdVZUNTFSdUVUbzdEaVlRT3A5dFpzLWZGNzJ4YUdPTjhfbmQyWnBWQQ?oc=5)
-
----
-
-### [New obesity figures highlight the income divide - The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
-
-2026-06-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbElwRzdXOTVSUV9NV2JjXzlCUjE1RGFMUDk5M1dFU0RFdkloWklkNUFTdGkzN21vd1hVMFQwTnppb1VvQ2lGZXZ6NUV6R0JxcU8wMEVwYUxqMlROcnViVFVqemhIeHBzSHVIMnNLNTFLNjhCc0haODVVSk9ybWxpaEhWYzdLV29PaUE?oc=5)
 
 ---
 

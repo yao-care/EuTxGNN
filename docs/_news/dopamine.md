@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="Dopamine 有什麼相關新聞？">
-<strong>Dopamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dopamine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/dopamine/
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Pourquoi il ne faut absolument pas gratter ses piqûres de moustique](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGpUMWtWSEF3YXhmS2FFaUNvUjN6U2lWVmdWZ21Ma1JEOS15cDYydnBjMkNZM1NFRDRMaGpPamZqTzEwOFZEV0ptV2VNRUdndWdDWndKQ3dheE9VV0VqUDNMcDQwWEVXejNMYmRoMTJOVnFnR2ZUeFNLZ1ZRUDd2bWMyZHNrc0xvZkx1OVlWU2VGbThvZ3ZIQUg5Rkl5b3BrZWwwSlVPQm5xTzBYSzBpVTdqbXl4U09EcWdFemJVSmZYbG1VSHplZGtaeUxQcmZKYmpncnYyMFZvNER6LXNkMDhsX2drRzlnSk9rV2xHYw?oc=5)
+
+2026-07-01 <span class="news-drug-tag">Dopamine</span>
+
+來源：[Ouest-France](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGpUMWtWSEF3YXhmS2FFaUNvUjN6U2lWVmdWZ21Ma1JEOS15cDYydnBjMkNZM1NFRDRMaGpPamZqTzEwOFZEV0ptV2VNRUdndWdDWndKQ3dheE9VV0VqUDNMcDQwWEVXejNMYmRoMTJOVnFnR2ZUeFNLZ1ZRUDd2bWMyZHNrc0xvZkx1OVlWU2VGbThvZ3ZIQUg5Rkl5b3BrZWwwSlVPQm5xTzBYSzBpVTdqbXl4U09EcWdFemJVSmZYbG1VSHplZGtaeUxQcmZKYmpncnYyMFZvNER6LXNkMDhsX2drRzlnSk9rV2xHYw?oc=5)
+
+---
 
 
 <div class="disclaimer">
