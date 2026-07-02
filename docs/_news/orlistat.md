@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Los tratamientos han igualado los niveles de colesterol y de presión arterial en adultos mayores de 40 años con obesidad y sin ella, según un estudio - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnVuUTdtUnFENkhkbWZMd2R6NXZ0WGNBLWx3SkNteVJPUlRjUnctdkZ2QVNqcGJjN0FPTUs3RFFvcUJJRHIya1NBeC1iX0JzelFzVWNkTTlsMy01RDNGMFFXNnQ4U1lxaWx4aEVlWE11UmtiRFlNbUNZRnpMMGI2U2x6UVVJWHBoWmxNaWNudFVIVkN2QXJRZjBPUllSQm1fb0o5QTMwelJHOE1SWTd1ZXl3UmJmNDdiN3N6UDN4SnZwbVR2NFEwbA?oc=5)
+### [Over-40s with obesity have normal-BMI cholesterol and blood pressure levels, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
 
-2026-07-01 <span class="news-indication-tag">obesidad</span>
+2026-07-02 <span class="news-indication-tag">obesity</span>
 
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnVuUTdtUnFENkhkbWZMd2R6NXZ0WGNBLWx3SkNteVJPUlRjUnctdkZ2QVNqcGJjN0FPTUs3RFFvcUJJRHIya1NBeC1iX0JzelFzVWNkTTlsMy01RDNGMFFXNnQ4U1lxaWx4aEVlWE11UmtiRFlNbUNZRnpMMGI2U2x6UVVJWHBoWmxNaWNudFVIVkN2QXJRZjBPUllSQm1fb0o5QTMwelJHOE1SWTd1ZXl3UmJmNDdiN3N6UDN4SnZwbVR2NFEwbA?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
+
+---
+
+### [Los adultos con obesidad han reducido el colesterol y la presión arterial, pero los expertos advierten: “Los jóvenes se están quedando atrás” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLWVsWkpIZm53dVdwVzduMFg5em41Zm1xRnVDZTV0VmdhX1lEVXBKN0hRVlBhMnJmTjdIYm93aFdfbkFyMFZKZExwOWFLd1VKYXBmTFhrTFFDUGlTZGtRa21IQ0ozSDU3aGlLSGFGc2U0S21MWG9Mc2hOaElvTEJSbWtUMU40VWVfVHhSRXNxekdlajQxWnoybFJ2bE9OVG5ONVV5SG4ta19NZ29pRWtuNkw4cm1ISFpvOWZ4dTB4RHFCYmtOb0VyLVJjdEtjTkQtcVp2ajd5VlA2LVpMS05VctIB5gFBVV95cUxOa0xVaTM1Uy1LbWpyQzFRRlZfX2k2SUhYV2JnRElta0ZrS3E5c0VCTktXQnl5UDlYRDA2N0s1MEJKZ0pqVDZwZEtGSkpycUtJTWNNZ21yekxhRXVPcnZPYVYxN2d3MWt0QmpFd3J2cjlOYzE1ZUowS3BZNUQtdHlySG9jd3ZaNnYyS0RlTzJNZlNmMzJvNTVPS3lNUFV4N1hVTXJZZGx3RUViR3d6VnNReEFuZklqRGhxQ0hSb2FJdFIwbDBTdk1NX2RYcThna0JrZFNrUUFXMFZQQWZjVS0yTXVkeXVmZw?oc=5)
+
+2026-07-02 <span class="news-indication-tag">obesidad</span>
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLWVsWkpIZm53dVdwVzduMFg5em41Zm1xRnVDZTV0VmdhX1lEVXBKN0hRVlBhMnJmTjdIYm93aFdfbkFyMFZKZExwOWFLd1VKYXBmTFhrTFFDUGlTZGtRa21IQ0ozSDU3aGlLSGFGc2U0S21MWG9Mc2hOaElvTEJSbWtUMU40VWVfVHhSRXNxekdlajQxWnoybFJ2bE9OVG5ONVV5SG4ta19NZ29pRWtuNkw4cm1ISFpvOWZ4dTB4RHFCYmtOb0VyLVJjdEtjTkQtcVp2ajd5VlA2LVpMS05VctIB5gFBVV95cUxOa0xVaTM1Uy1LbWpyQzFRRlZfX2k2SUhYV2JnRElta0ZrS3E5c0VCTktXQnl5UDlYRDA2N0s1MEJKZ0pqVDZwZEtGSkpycUtJTWNNZ21yekxhRXVPcnZPYVYxN2d3MWt0QmpFd3J2cjlOYzE1ZUowS3BZNUQtdHlySG9jd3ZaNnYyS0RlTzJNZlNmMzJvNTVPS3lNUFV4N1hVTXJZZGx3RUViR3d6VnNReEFuZklqRGhxQ0hSb2FJdFIwbDBTdk1NX2RYcThna0JrZFNrUUFXMFZQQWZjVS0yTXVkeXVmZw?oc=5)
+
+---
+
+### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+
+2026-07-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
+### [🧠 Une étude géante relie cannabis, cocaïne, amphétamines aux AVC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0NBNVJoUF8xM29XSUd5RThNcUt4V014UnRsNHpTdE5uSlhkLUZ6UU5LSEk2LTgxY3hNOXM4Um1qLTk5TW9PSjcyaDlEZnIxSVg3aHBFVW85VlUzbmF2VUNmSDJlRlRtNHJScFBocGJ1eHVnSXFZSmdzc1pRbmtwUWN2S0xTVllhenRnNVpwQkx3djRDd0g3bERFS3RUUU1vRzgzREcwQ0TSAaYBQVVfeXFMTnR3WURJUEdmSEtRbzhtTWIxU1dTZjBIcHpxMVZuY09Cd2NnTDdmLWdzUzRmbk5iRlhHNmk1RVBRa3hnYlMyV2RpOWtock9zeGdKMDI4RURVNE5TNDVwMGtnSHQ1TlI4SjRLTlRSZ0FHUUNHOUJrZjFPVDZ1MXNMa21mc3NySTNJMmpXbmlSUm5naHlKRkNBMmlwejBFakJOWWF1SDdPZw?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-06-30 <span class="news-indication-tag">AVC</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
+來源：[Techno-Science.net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0NBNVJoUF8xM29XSUd5RThNcUt4V014UnRsNHpTdE5uSlhkLUZ6UU5LSEk2LTgxY3hNOXM4Um1qLTk5TW9PSjcyaDlEZnIxSVg3aHBFVW85VlUzbmF2VUNmSDJlRlRtNHJScFBocGJ1eHVnSXFZSmdzc1pRbmtwUWN2S0xTVllhenRnNVpwQkx3djRDd0g3bERFS3RUUU1vRzgzREcwQ0TSAaYBQVVfeXFMTnR3WURJUEdmSEtRbzhtTWIxU1dTZjBIcHpxMVZuY09Cd2NnTDdmLWdzUzRmbk5iRlhHNmk1RVBRa3hnYlMyV2RpOWtock9zeGdKMDI4RURVNE5TNDVwMGtnSHQ1TlI4SjRLTlRSZ0FHUUNHOUJrZjFPVDZ1MXNMa21mc3NySTNJMmpXbmlSUm5naHlKRkNBMmlwejBFakJOWWF1SDdPZw?oc=5)
 
 ---
 

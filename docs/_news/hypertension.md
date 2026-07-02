@@ -3,7 +3,7 @@ layout: default
 title: "ipertensione（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "ipertensione（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<strong>ipertensione（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Ipertensione in gravidanza, lo studio Unimore che può salvare i neonati](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
 
@@ -106,14 +106,6 @@ permalink: /news/hypertension/
 2026-06-30
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
-
----
-
-### [Caen las ventas de medicación contra la hipertensión en España - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFqeDAzWFcwSW1ROXVsRElPVHF5WjdMajVTNG85b0Z3Y0VPaklCRGc0aElRbnZZYVdSb2hvZHFUajRCSUxVU1JzS0JrZmE1RjQzVEswTXJ5S3dodFBHcDdHVFh5a0RSN3BJclhxYk92WWJ3cVFUemQtYVFuQTNqOVFvVmJDQkVmdlVtMjhnMUR6VW5XdS1SVXFVTm5sTFA0VnBZZWF4N19Dd0pZ0gGnAUFVX3lxTFA5dXFXdldJSjVqWmVBM1l1NGJWMGRLaVJBRWphUlBVV1ZaYk5oa0tDTXd1Tk96UkZySjl3TE1yYVFpWGQyNThWOHlJT1lTWkt6MUpBSm5rRWRkNjluU0FYOGhVVU82VmxLZzJyNkdSdGs5dFpReW1FQXVHS2t0ZmxwSWE2d0ZFaGpjQWZRbkJfM2ZDWlpHZ0FiNjNWRTFleUYwRjk4dmJj?oc=5)
-
-2026-06-30
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFqeDAzWFcwSW1ROXVsRElPVHF5WjdMajVTNG85b0Z3Y0VPaklCRGc0aElRbnZZYVdSb2hvZHFUajRCSUxVU1JzS0JrZmE1RjQzVEswTXJ5S3dodFBHcDdHVFh5a0RSN3BJclhxYk92WWJ3cVFUemQtYVFuQTNqOVFvVmJDQkVmdlVtMjhnMUR6VW5XdS1SVXFVTm5sTFA0VnBZZWF4N19Dd0pZ0gGnAUFVX3lxTFA5dXFXdldJSjVqWmVBM1l1NGJWMGRLaVJBRWphUlBVV1ZaYk5oa0tDTXd1Tk96UkZySjl3TE1yYVFpWGQyNThWOHlJT1lTWkt6MUpBSm5rRWRkNjluU0FYOGhVVU82VmxLZzJyNkdSdGs5dFpReW1FQXVHS2t0ZmxwSWE2d0ZFaGpjQWZRbkJfM2ZDWlpHZ0FiNjNWRTFleUYwRjk4dmJj?oc=5)
 
 ---
 

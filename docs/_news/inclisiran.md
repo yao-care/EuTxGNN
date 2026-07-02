@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### ["Hay gente que dice: "Me duele la cabeza, debe ser por la tensión alta", y generalmente no es así, salvo que tengas 250 de tensión; es probablemente porque estás estresado"](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
 
-2026-07-01 <span class="news-indication-tag">migraña</span>
+2026-07-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/inclisiran/
 2026-07-01 <span class="news-indication-tag">Migräne</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
-
----
-
-### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 
 ---
 

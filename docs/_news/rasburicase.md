@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Rasburicase 有什麼相關新聞？">
-<strong>Rasburicase</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasburicase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rasburicase/
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Ipertensione in gravidanza, lo studio Unimore che può salvare i neonati](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/rasburicase/
 2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
-
----
-
-### [Caen las ventas de medicación contra la hipertensión en España - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFqeDAzWFcwSW1ROXVsRElPVHF5WjdMajVTNG85b0Z3Y0VPaklCRGc0aElRbnZZYVdSb2hvZHFUajRCSUxVU1JzS0JrZmE1RjQzVEswTXJ5S3dodFBHcDdHVFh5a0RSN3BJclhxYk92WWJ3cVFUemQtYVFuQTNqOVFvVmJDQkVmdlVtMjhnMUR6VW5XdS1SVXFVTm5sTFA0VnBZZWF4N19Dd0pZ0gGnAUFVX3lxTFA5dXFXdldJSjVqWmVBM1l1NGJWMGRLaVJBRWphUlBVV1ZaYk5oa0tDTXd1Tk96UkZySjl3TE1yYVFpWGQyNThWOHlJT1lTWkt6MUpBSm5rRWRkNjluU0FYOGhVVU82VmxLZzJyNkdSdGs5dFpReW1FQXVHS2t0ZmxwSWE2d0ZFaGpjQWZRbkJfM2ZDWlpHZ0FiNjNWRTFleUYwRjk4dmJj?oc=5)
-
-2026-06-30 <span class="news-indication-tag">hipertensión</span>
-
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFqeDAzWFcwSW1ROXVsRElPVHF5WjdMajVTNG85b0Z3Y0VPaklCRGc0aElRbnZZYVdSb2hvZHFUajRCSUxVU1JzS0JrZmE1RjQzVEswTXJ5S3dodFBHcDdHVFh5a0RSN3BJclhxYk92WWJ3cVFUemQtYVFuQTNqOVFvVmJDQkVmdlVtMjhnMUR6VW5XdS1SVXFVTm5sTFA0VnBZZWF4N19Dd0pZ0gGnAUFVX3lxTFA5dXFXdldJSjVqWmVBM1l1NGJWMGRLaVJBRWphUlBVV1ZaYk5oa0tDTXd1Tk96UkZySjl3TE1yYVFpWGQyNThWOHlJT1lTWkt6MUpBSm5rRWRkNjluU0FYOGhVVU82VmxLZzJyNkdSdGs5dFpReW1FQXVHS2t0ZmxwSWE2d0ZFaGpjQWZRbkJfM2ZDWlpHZ0FiNjNWRTFleUYwRjk4dmJj?oc=5)
 
 ---
 

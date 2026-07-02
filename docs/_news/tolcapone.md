@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [The diet that’s proven to lower blood pressure and prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWEs5WVpVX2FkUTA0Z2xJOWRVVmx2eUU1OXR3OEpjRVl2aWg2Zkg0M2tyMTQwekZXcTMxWVFWYnMyc21lay01Y2pKRU5lNGlwX0Q2dFZMaDc0MWpVbEVPX1ROb1pTUGFvN2lkbmxIQV9FU24xWE9J?oc=5)
+
+2026-07-02 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWEs5WVpVX2FkUTA0Z2xJOWRVVmx2eUU1OXR3OEpjRVl2aWg2Zkg0M2tyMTQwekZXcTMxWVFWYnMyc21lay01Y2pKRU5lNGlwX0Q2dFZMaDc0MWpVbEVPX1ROb1pTUGFvN2lkbmxIQV9FU24xWE9J?oc=5)
+
+---
+
+### [Dementia Discos gave dad an 'opportunity for joy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxREl3MnNMcHRhYUpzTTZlSk16NC1mMDRUajFrTTdpYTc5MmJCelpDSnFCZ3RSVENFQlR5cWx1a2V6TnhZWko1T3FMOERGYUNMaEZSUHZjWDNDVGVf?oc=5)
+
+2026-07-02 <span class="news-indication-tag">dementia</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxREl3MnNMcHRhYUpzTTZlSk16NC1mMDRUajFrTTdpYTc5MmJCelpDSnFCZ3RSVENFQlR5cWx1a2V6TnhZWko1T3FMOERGYUNMaEZSUHZjWDNDVGVf?oc=5)
+
+---
 
 
 <div class="disclaimer">

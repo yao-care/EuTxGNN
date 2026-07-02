@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="Nusinersen Sodium 有什麼相關新聞？">
-<strong>Nusinersen Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nusinersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/nusinersen-sodium/
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Demenz-Prävention: Hörgeräte und Impfung senken Risiko um 23–24% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNms5Zkg5TFJaZFByNkxpQjMtVGc0ZEVsWkw0c0ZjOWpuVjNha1RORjFkdGMtZ2hDakNKd18zNjViRGxXNmczZnlLMmhyQ3dqX0dVNnpZVkxQVWtlNDRsbHdOSTZaMzNaUmhKMkFIU1VTeExPeGRWd0U5OUhmcW0yR2dTc29nallMV0pQQVZSclJaZlNjdlRHV2dyM2dFVW9rZ09lYlEwbkRheERsaFZfdHhWa0Y?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Epilepsie</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNms5Zkg5TFJaZFByNkxpQjMtVGc0ZEVsWkw0c0ZjOWpuVjNha1RORjFkdGMtZ2hDakNKd18zNjViRGxXNmczZnlLMmhyQ3dqX0dVNnpZVkxQVWtlNDRsbHdOSTZaMzNaUmhKMkFIU1VTeExPeGRWd0U5OUhmcW0yR2dTc29nallMV0pQQVZSclJaZlNjdlRHV2dyM2dFVW9rZ09lYlEwbkRheERsaFZfdHhWa0Y?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

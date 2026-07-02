@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [‘Genuine hope’ for COPD patients as new jab is rolled out on NHS - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZlUk0yM3dpUVpSNHM3TEtXSTg2bFl3QUlKS3dfZVhDNlVENXdtQ1VmZ2JwLU1RYXBEVW1adGR2UmltV3JuQmlPSXRxSHdFampaSVh5Vk5iWFJLdVl6dXM2aTdXM2dwd3pON2ljZ0p4UzI0REw5ZmNXVkdLR3p4NDF6NVNtLUphMEJ5Z1FMSUjSAZYBQVVfeXFMTmttS0xqNjBNRzhBTE5TVU1vTnl2NGsySDlXOHRsSnVFZkRKdlpYdkpOSVlZaHgwUFhPcjBTd0pBWGoxTXVYWndfazQzY0NlTzRhSXNoWWRyYTZySy1rWkljQXJyZlgyLThKRG8tcklCLU5la3ZDQVlJR0Vwb0R5NDFEcEFMRGFHQzNKSWh6ZTZqLWU0am93?oc=5)
 
 2026-07-01 <span class="news-indication-tag">copd</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZlUk0yM3dpUVpSNHM3TEtXSTg2bFl3QUlKS3dfZVhDNlVENXdtQ1VmZ2JwLU1RYXBEVW1adGR2UmltV3JuQmlPSXRxSHdFampaSVh5Vk5iWFJLdVl6dXM2aTdXM2dwd3pON2ljZ0p4UzI0REw5ZmNXVkdLR3p4NDF6NVNtLUphMEJ5Z1FMSUjSAZYBQVVfeXFMTmttS0xqNjBNRzhBTE5TVU1vTnl2NGsySDlXOHRsSnVFZkRKdlpYdkpOSVlZaHgwUFhPcjBTd0pBWGoxTXVYWndfazQzY0NlTzRhSXNoWWRyYTZySy1rWkljQXJyZlgyLThKRG8tcklCLU5la3ZDQVlJR0Vwb0R5NDFEcEFMRGFHQzNKSWh6ZTZqLWU0am93?oc=5)
+
+---
+
+### [Two cheap vitamin supplements 'cut risk of asthma attacks' with added bonus of slowing ageing - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
+
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### ["Hay gente que dice: "Me duele la cabeza, debe ser por la tensión alta", y generalmente no es así, salvo que tengas 250 de tensión; es probablemente porque estás estresado"](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
 
-2026-07-01 <span class="news-indication-tag">migraña</span>
+2026-07-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+
+---
+
+### [Scientists discover a surprising link between vitamin C and brain health](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5)
+
+2026-07-01 <span class="news-indication-tag">asma</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5)
 
 ---
 
@@ -72,9 +80,17 @@ permalink: /news/regadenoson/
 
 ### [Two cheap vitamin supplements 'cut risk of asthma attacks' with added bonus of slowing ageing - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
 
-2026-06-30 <span class="news-indication-tag">asthma</span>
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
+
+---
+
+### [Silenziato l'allarme cellulare dell'invecchiamento, la scoperta che entusiasma gli scienziati](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
+
+2026-06-30 <span class="news-indication-tag">asma</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/regadenoson/
 2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
-
----
-
-### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 
 ---
 

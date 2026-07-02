@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
 
-### [Myo-Inositol: Natürliches Mittel steigert Schwangerschaftschancen um 230% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcm1ZaUM1M1d6TnNjNjVLU2ZNdVpNMDBnOW5zRG5uOTZ1ZHluY2JIcmZCaHZpQ3pXd2RMY1VtdE9MTjhoeXdfb0RvZGU0dV9HTVYtNmJIc2lSeHlUMnFnX0xnTF82N1dpbmFiNk11cXdQaEI0TWktN1FaU3ZjS1lHaGFxM0FKbC13RUc2TjVjTTBxb29Md2JfU04wUWVYa0NoNkVHaUI4cFJEbGxBUlVfZ0VLVnJhQW1IOHdNZWdR?oc=5)
+### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
-2026-07-01 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcm1ZaUM1M1d6TnNjNjVLU2ZNdVpNMDBnOW5zRG5uOTZ1ZHluY2JIcmZCaHZpQ3pXd2RMY1VtdE9MTjhoeXdfb0RvZGU0dV9HTVYtNmJIc2lSeHlUMnFnX0xnTF82N1dpbmFiNk11cXdQaEI0TWktN1FaU3ZjS1lHaGFxM0FKbC13RUc2TjVjTTBxb29Md2JfU04wUWVYa0NoNkVHaUI4cFJEbGxBUlVfZ0VLVnJhQW1IOHdNZWdR?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
 ---
 
@@ -78,11 +78,27 @@ permalink: /news/lecanemab/
 
 ---
 
+### [Leaky Gut durch tierisches Protein: Studienlage zu Entzündung, Barriere und Diabetesrisiko - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
+
+2026-07-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
+
+---
+
 ### [Alzheimer-Prävention: 40-Hertz-Töne verdoppeln Abtransport von Ablagerungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0RVTFBxMVlfZDIwamZKa1ZGeDJ2MUhKdFdURnFsRVZ4OHJ6YjZJWVhEMzV4SWFsR2RHLV9WdWluY21qWTBUeTlCdl9VaVpXbUJaZVRhcE4zV1o2a01VeEIydlF5X1FmS09ULWlWWkEzVDZtWmtVRnZXcS01bXY3b2VfcElVUmxrR3dDQ0QyeXZMOHVtcUEySGNtTnhsS0paWWtKdFJ2THpDYTZjUERsTTh3?oc=5)
 
 2026-07-01 <span class="news-drug-tag">Lecanemab</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0RVTFBxMVlfZDIwamZKa1ZGeDJ2MUhKdFdURnFsRVZ4OHJ6YjZJWVhEMzV4SWFsR2RHLV9WdWluY21qWTBUeTlCdl9VaVpXbUJaZVRhcE4zV1o2a01VeEIydlF5X1FmS09ULWlWWkEzVDZtWmtVRnZXcS01bXY3b2VfcElVUmxrR3dDQ0QyeXZMOHVtcUEySGNtTnhsS0paWWtKdFJ2THpDYTZjUERsTTh3?oc=5)
+
+---
+
+### [Typ-1-Diabetes: Teplizumab verzögert Ausbruch um bis zu 3 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZGaUxTZ2xrRDJydmw0ZFRteTNMaUY3LWkydlVzUTY2VzdiY2syVlZJNTdXWE00cURiQmJWS1c4a2hMc2ZjaUZ5anFXd0RzbjZQZjh6TVp3cHZJRkZ0WDR2cmhBREFpRHZOSUsxTWh1dFVjYlZZTkM0eXVKbW9rN1c0SmNoX3VfTHdfcmM1aUVVNmJWZ2xjeDRNQzJoMXhCOEo4VmE0cGFTVHV6V0p2Sy13?oc=5)
+
+2026-07-01 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZGaUxTZ2xrRDJydmw0ZFRteTNMaUY3LWkydlVzUTY2VzdiY2syVlZJNTdXWE00cURiQmJWS1c4a2hMc2ZjaUZ5anFXd0RzbjZQZjh6TVp3cHZJRkZ0WDR2cmhBREFpRHZOSUsxTWh1dFVjYlZZTkM0eXVKbW9rN1c0SmNoX3VfTHdfcmM1aUVVNmJWZ2xjeDRNQzJoMXhCOEo4VmE0cGFTVHV6V0p2Sy13?oc=5)
 
 ---
 
@@ -94,11 +110,19 @@ permalink: /news/lecanemab/
 
 ---
 
-### [Leaky Gut: Tierisches Protein verdoppelt Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
+### [El consumo habitual de aceite de orujo de oliva podría disminuir el riesgo de diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQklyNDRtLUYxMDFlcGlFNG94Z0N5WDZXQTN1TncxcVkwWGZKMElKVjZjRndLczVEeUduZlZVRTFJTHA3VWdLNVhyNVByaVNvdmNYX00wazhJbk5rUi1qZU9iYi14R2EyNmV5T0NXMjR4OE5Eb09iTlI2cHVxV05qOUNXb1J5YWd6MWhOdHVDYWJPSzhoMGwtclNwTTJNS1ZfOEpXZUh6akdCbUZqNGlyRnZoTVRBYzRPTlVyNlVsUjJUd9IBvAFBVV95cUxNNHhMNjc0dVhpTEVVQU5mYmtfR0JIVUY1dV9uajdCTVBXc1lTUnhXcjlzNS1uUVNjeVVhTmc4TmQyZVRFbjhjakxxemVxSlZULU9BckRmRjZyajh4cFFraThwMHhaOUlzNzlsMUp6YnVySzFLaHB5SEkweC03V1B5UUVqWEpucDI5cElxQkJHcDVsUEpBMDZZVXJQc3Qzby1hdWZsdHROXzFzZHNnSTN3SktBaHRqODRNZ1N4NQ?oc=5)
 
-2026-06-30 <span class="news-indication-tag">diabetes</span>
+2026-07-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUR1ZXZCRlI0SHlOLUZuMGxQWGY4VHdROGVraVhMV0xNakNnT1Bnc2FPSm56Ync5OHV6R0tIaTZ0a3ZWNHBWcjJ1cnRvbHVrUDlKNkdwSWY0Mm1XZVdLd2kzcnkycUxhRVZoWHJ4Z1JHckZNa0s0THA5VmtsaC1NbGxfTWRlWUM1d0ZVdVE5VkhUalFZcjFQQWVsZjBfNkZxM0h2SUdDQQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQklyNDRtLUYxMDFlcGlFNG94Z0N5WDZXQTN1TncxcVkwWGZKMElKVjZjRndLczVEeUduZlZVRTFJTHA3VWdLNVhyNVByaVNvdmNYX00wazhJbk5rUi1qZU9iYi14R2EyNmV5T0NXMjR4OE5Eb09iTlI2cHVxV05qOUNXb1J5YWd6MWhOdHVDYWJPSzhoMGwtclNwTTJNS1ZfOEpXZUh6akdCbUZqNGlyRnZoTVRBYzRPTlVyNlVsUjJUd9IBvAFBVV95cUxNNHhMNjc0dVhpTEVVQU5mYmtfR0JIVUY1dV9uajdCTVBXc1lTUnhXcjlzNS1uUVNjeVVhTmc4TmQyZVRFbjhjakxxemVxSlZULU9BckRmRjZyajh4cFFraThwMHhaOUlzNzlsMUp6YnVySzFLaHB5SEkweC03V1B5UUVqWEpucDI5cElxQkJHcDVsUEpBMDZZVXJQc3Qzby1hdWZsdHROXzFzZHNnSTN3SktBaHRqODRNZ1N4NQ?oc=5)
+
+---
+
+### [Lab-grown retinal cells show promise for new eye therapies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OOXAwZTJtNUVZdWZkSllFanVXMlBsdnh6Q0RHNXNzMnY2Z1lpNlNwUm1NYmJhdjdVb1lNU09jRmV5SjFXaEFmYkNoOVJGaFBJVXR0V1ZKVWpHVXJP?oc=5)
+
+2026-06-30 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+
+來源：[EurekAlert!](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OOXAwZTJtNUVZdWZkSllFanVXMlBsdnh6Q0RHNXNzMnY2Z1lpNlNwUm1NYmJhdjdVb1lNU09jRmV5SjFXaEFmYkNoOVJGaFBJVXR0V1ZKVWpHVXJP?oc=5)
 
 ---
 
@@ -115,14 +139,6 @@ permalink: /news/lecanemab/
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
-
----
-
-### [Teplizumab und neue EMA-Empfehlungen: Frühdiagnostik und Sicherheit rücken in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
-
-2026-06-30 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2F2c1Bta0JEdnp4QlplZTlsWDlvQnBCS3hIeXlwckNHTUlYY1hKNHo3dmVfdWdRTXJLbHIwLVdUX09QWl96TzhoYWphRUJQVy1xUVhmRDFPT1gzN1o4TXFKenlnV2RzWlZjZ0NadzBZM0dHaDRnNDRlM2w1M2RGNXVZM1pPc3AwNXdPS3cxSG92emQ5TnRBVEdESUZzT3o3ZjdTUGRFMVNwcXNWNHVBUVBsNWJGV1h5LW1nQg?oc=5)
 
 ---
 

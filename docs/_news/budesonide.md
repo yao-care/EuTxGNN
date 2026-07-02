@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [‘Genuine hope’ for COPD patients as new jab is rolled out on NHS - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZlUk0yM3dpUVpSNHM3TEtXSTg2bFl3QUlKS3dfZVhDNlVENXdtQ1VmZ2JwLU1RYXBEVW1adGR2UmltV3JuQmlPSXRxSHdFampaSVh5Vk5iWFJLdVl6dXM2aTdXM2dwd3pON2ljZ0p4UzI0REw5ZmNXVkdLR3p4NDF6NVNtLUphMEJ5Z1FMSUjSAZYBQVVfeXFMTmttS0xqNjBNRzhBTE5TVU1vTnl2NGsySDlXOHRsSnVFZkRKdlpYdkpOSVlZaHgwUFhPcjBTd0pBWGoxTXVYWndfazQzY0NlTzRhSXNoWWRyYTZySy1rWkljQXJyZlgyLThKRG8tcklCLU5la3ZDQVlJR0Vwb0R5NDFEcEFMRGFHQzNKSWh6ZTZqLWU0am93?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/budesonide/
 
 ---
 
+### [Scientists discover a surprising link between vitamin C and brain health](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5)
+
+2026-07-01 <span class="news-indication-tag">asma</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5)
+
+---
+
 ### [Two cheap vitamin supplements 'cut risk of asthma attacks' with added bonus of slowing ageing - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
 
-2026-06-30 <span class="news-indication-tag">asthma</span>
+2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
+
+---
+
+### [Silenziato l'allarme cellulare dell'invecchiamento, la scoperta che entusiasma gli scienziati](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
+
+2026-06-30 <span class="news-indication-tag">asma</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
 
 ---
 
