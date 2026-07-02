@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。7 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>7 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
+
+2026-07-02
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
+
+---
 
 ### [Probiotika gegen Depressionen im Alter - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTZOUThFZ3RsNmotbVRVM1B5SURxMFNhbVB3WGF3QjhxR0I2dDY0SEloeTctOVhmb0VoWDNhcG1kQTE1ZlMyQmZla253ZTJhZUFqaW40LUZjWWVOalhUTlZLYTRsSzNrYmRRc1VzSkw2bHFaSmJMQmdlbk9HbXowdnZQYklFZy0zTkZOd3VCbzVnOVNQV21ocFZSamgybTEwQnNlYVJoQ3E2NkRLWjI4WWZCSlljcm5ReVhzeFJoRkFvSXBpdmY0ckh4U2dGSDJ1Y1E?oc=5)
 
@@ -58,6 +66,22 @@ permalink: /news/depression/
 2026-07-01
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3Vma3haSDJJZXdDeXUwdHBFcUpuTEdKNllfOFlCU2w4a2dLMlVSTmpiTFktZThwVkN6NXE2M09PbGhUSGpkSjh4ZFRQamVjNkJ3Sl81MVJFVDVSdGtPTzNtZjVyR2VyT0U1c2IxaFgycXhXczFIYkQtSzVFZWFkSzZ1LWtsY0ZrN0JCc1IwM1M0RmVvZ1VVbEpWRE5wZl9RVWk4VmhiNDZEb3dTZ0FGRU5uWnFmcjlZY0HSAboBQVVfeXFMUFNHZ3BXU3FoRkNhQ3BBRXQxNHR4SWNLUGIwb2hoU2dKSHVmX21kSjItRXVaempWUzNUNEtteUE4VER6T1hoMUhIbzM4QTdDRG9YWmdVOUlFbmNZaWs3MUh2TldITkFSQVJhc1pIejl1XzA2R0ZsY1hwRjRvbWl0S1pab2o5OVA4UnVHblVHRmFJQXh0Tk40dTZYN2NaY0VnZmN2b05BS09DWEJtejRGVVVDOFgwMy1XZHNR?oc=5)
+
+---
+
+### [L’activité physique comme traitement de la dépression ? - Sud Ouest](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlY2ZXpYTUZPNUpUaHFuVG1DSWtPdE9jbWRXRDNuU09QYXo5aEM3elhMT0dRdDZ6YXZhc0pZa3phT1ZLSnVpNU5kUkdGZk9lM2ZrbEpvX1pDcUtWZktOdmhkNzk5dGYtR2tXTjVRNXBiVU5ab0NxVVFVZWtzaDY0WXVmRldjRnlYQXhXTHF3SUlZMHkwWk5HclU5eDNJbXVDdHpNUW5MUm9TSnJSR2FLa2d4UXk?oc=5)
+
+2026-07-01
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlY2ZXpYTUZPNUpUaHFuVG1DSWtPdE9jbWRXRDNuU09QYXo5aEM3elhMT0dRdDZ6YXZhc0pZa3phT1ZLSnVpNU5kUkdGZk9lM2ZrbEpvX1pDcUtWZktOdmhkNzk5dGYtR2tXTjVRNXBiVU5ab0NxVVFVZWtzaDY0WXVmRldjRnlYQXhXTHF3SUlZMHkwWk5HclU5eDNJbXVDdHpNUW5MUm9TSnJSR2FLa2d4UXk?oc=5)
+
+---
+
+### [Psychische Gesundheit: Bewegung und Atemtechniken senken Depressionssymptome - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnBBQTQyRFl6VGFXd2pfdGFQSHN2T0x1ZzE4YlNxRHB1REw4N3FfMTBIUlY3Q25wZXktZ2FacHdzLWFXUnVWMEhCT1drbU0xT0VGUnlvcGRkVWlsQUZlZXdpSVVaTzJsRDRTdTE1Z0c2bzZrVFFVY1BzTHV5cWM5LWIxT3Nrbi1KaUwzWmNlYXNPSkhucXc2WU5hanMwcklUYk5XZGk4OA?oc=5)
+
+2026-07-01
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnBBQTQyRFl6VGFXd2pfdGFQSHN2T0x1ZzE4YlNxRHB1REw4N3FfMTBIUlY3Q25wZXktZ2FacHdzLWFXUnVWMEhCT1drbU0xT0VGUnlvcGRkVWlsQUZlZXdpSVVaTzJsRDRTdTE1Z0c2bzZrVFFVY1BzTHV5cWM5LWIxT3Nrbi1KaUwzWmNlYXNPSkhucXc2WU5hanMwcklUYk5XZGk4OA?oc=5)
 
 ---
 

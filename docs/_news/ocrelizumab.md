@@ -14,7 +14,7 @@ permalink: /news/ocrelizumab/
 ---
 
 <p class="key-answer" data-question="Ocrelizumab 有什麼相關新聞？">
-<strong>Ocrelizumab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ocrelizumab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/ocrelizumab/
 <p><a href="{{ '/drugs/ocrelizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（22 則）
+
+### [Krebs: Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjN2M3huTmhOaU5kQzEyb3FJaDlkdnN2RGE4RVYzcWhNYWNOQ3hldW5qR0FyYkVPQUlyM0trcFJTaU9DRTFEOHNhemZfMTROZGpqbEFBNFlOOTlSU0U2TkItYjBMUmVvc3BrbGVlV2JCN2xNMEVEMWhFaGdOMVRDOXRsN3BMcUNGUWdoS1BWY3ktbGdnenRudkdldTFiRjZlVnFJUjByQ25mZXk2NXlKLXhKWFdfbEsyN2JIbkUxU29Cbm5TQU9aZmQ0UnVJRHBhYjJKYmt0cDlzUQ?oc=5)
+
+2026-07-02 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjN2M3huTmhOaU5kQzEyb3FJaDlkdnN2RGE4RVYzcWhNYWNOQ3hldW5qR0FyYkVPQUlyM0trcFJTaU9DRTFEOHNhemZfMTROZGpqbEFBNFlOOTlSU0U2TkItYjBMUmVvc3BrbGVlV2JCN2xNMEVEMWhFaGdOMVRDOXRsN3BMcUNGUWdoS1BWY3ktbGdnenRudkdldTFiRjZlVnFJUjByQ25mZXk2NXlKLXhKWFdfbEsyN2JIbkUxU29Cbm5TQU9aZmQ0UnVJRHBhYjJKYmt0cDlzUQ?oc=5)
+
+---
+
+### [Darmkrebsvorsorge: Wir brauchen nicht noch einen Test!](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXg3YjBqSWxqQ3dnQzB0UWJNaDhIbm1OVC1hSTdSeDk1UnRLc092UGhPVDFGQ0tSYXU0TktnLTlvZV96TXBGWkFYMjVMbm5kNGdMcFdvbXBBcmV0Z1dTR19Ya282dVpHTDFOVmZtMndCajRWdVEyT2ZoSUFoWWNNWHNSWExqQjFvMXVXams5RmVRZmJSVTZPSW82SWFheHFHR25IVQ?oc=5)
+
+2026-07-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXg3YjBqSWxqQ3dnQzB0UWJNaDhIbm1OVC1hSTdSeDk1UnRLc092UGhPVDFGQ0tSYXU0TktnLTlvZV96TXBGWkFYMjVMbm5kNGdMcFdvbXBBcmV0Z1dTR19Ya282dVpHTDFOVmZtMndCajRWdVEyT2ZoSUFoWWNNWHNSWExqQjFvMXVXams5RmVRZmJSVTZPSW82SWFheHFHR25IVQ?oc=5)
+
+---
+
+### [Oncologist lists 10 common household items linked to cancer - pans to bottles - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
+
+2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
+
+---
 
 ### [Batteri «robot» contro il cancro: arriva un finanziamento da 1,2 mln € - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVFWTER1aWp2Wm5JSnZMc1JFbnRtMlBsR01QbG9RaXNlU3ZiNFVyMDh6VFBIVzd0aEFRTEtRQUw4b25YMEVnUmVUZ1dlS3JBT1BTdTRpZk9aVE9OWVNmY1FHQ2xkZEZqeG94aVJ5eC1vbjA2WUxWLXdpMlFGUzJ3NW5MLUsyNFNIZ21TUlJ0YWcydw?oc=5)
 
@@ -70,14 +94,6 @@ permalink: /news/ocrelizumab/
 
 ---
 
-### [Krebs: Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjN2M3huTmhOaU5kQzEyb3FJaDlkdnN2RGE4RVYzcWhNYWNOQ3hldW5qR0FyYkVPQUlyM0trcFJTaU9DRTFEOHNhemZfMTROZGpqbEFBNFlOOTlSU0U2TkItYjBMUmVvc3BrbGVlV2JCN2xNMEVEMWhFaGdOMVRDOXRsN3BMcUNGUWdoS1BWY3ktbGdnenRudkdldTFiRjZlVnFJUjByQ25mZXk2NXlKLXhKWFdfbEsyN2JIbkUxU29Cbm5TQU9aZmQ0UnVJRHBhYjJKYmt0cDlzUQ?oc=5)
-
-2026-07-02 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjN2M3huTmhOaU5kQzEyb3FJaDlkdnN2RGE4RVYzcWhNYWNOQ3hldW5qR0FyYkVPQUlyM0trcFJTaU9DRTFEOHNhemZfMTROZGpqbEFBNFlOOTlSU0U2TkItYjBMUmVvc3BrbGVlV2JCN2xNMEVEMWhFaGdOMVRDOXRsN3BMcUNGUWdoS1BWY3ktbGdnenRudkdldTFiRjZlVnFJUjByQ25mZXk2NXlKLXhKWFdfbEsyN2JIbkUxU29Cbm5TQU9aZmQ0UnVJRHBhYjJKYmt0cDlzUQ?oc=5)
-
----
-
 ### [C’est l’une des maladies les plus meurtrières : en Bretagne, ce traitement révolutionne la lutte contre le cancer du pancréas - Le Télégramme](https://news.google.com/rss/articles/CBMimAJBVV95cUxPSXpEbmI0MHU5QlVOSW5GZkJVS3BWYnVtZV85Z2RHQkJqU01FczBINHlqdmlhOVBJTEFwSEhXTk1NenhUM3JHZTgteVFhSUk1ZXNBSTJmQkdnMmp2dktoaldEZWVEc25DdWJMS0NNd0w0ellyWm01WDJPMlExeThtZ3ZacTZnckFiU3dXcWlENl9Mcjk2TGZaeU9nSkVCVTBualpieEFHVmRIU3Q0QWpTY3VjaW9sZXFOeGpDUUNyUEE3LXhJbGwyLThORHB4c2xneEtQdkZZaXRRLVYzVmxYdGM2cENSYS1EaWpzZUVfRG1LclJaOW1zRkpjZ3dGZjB4V0JqRXhTalJQNjF2Z24yOEhRQzNnYTBF?oc=5)
 
 2026-07-02 <span class="news-indication-tag">cancer</span>
@@ -91,14 +107,6 @@ permalink: /news/ocrelizumab/
 2026-07-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Techno-Science.net](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEFLdTkzdDF5SHVmQ25pZnd5d3FBS1dhSXFHTy1Yc1RFa0ZUMWlJdlltZkxhOUM1ejU0WjVLS1NOVHVzMml5YTVQYXotYS00dTlsY0dSZ1lIanBMOXp6RDc4a1FOMUt3ckJmZWJwRURjZ0d3d3RkZFdNWFAxbV85Z1Y5VGtzWjEtQ3ZocFhzUm5Lb3hrT0FvZDJIOEkya3ZU0gGeAUFVX3lxTE43TUlPbmdYQk44YXNPWnptbkQyZW5zc1ZTS1F4cHR1ZnVvb0dzdElUWGV3cndTOVdfbG1HNmJIN0F0eWc0ZV9jMWctdUEybDdsd1QxWENRNzFkVkdpUGFWY3FxN2RqOERSU3JlekVRVW8wOG9sOEVleGlNU2d2UVQzZ2Q4eUZyMEhEVWlrdHI4NHU5ckZ3ZDJSNmhyNnJR?oc=5)
-
----
-
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
-
-2026-07-01 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
 
 ---
 
@@ -126,6 +134,14 @@ permalink: /news/ocrelizumab/
 
 ---
 
+### [Borja Quiroga, nefrólogo: "Hay estudios que demuestran que la vitamina D no tiene ningún impacto en las fracturas, en el desarrollo de tumores ni en enfermedades cardiovasculares" - El Economista](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPLWZ0bTd0djNreXNLaVdnc2RGRnBqdmpER1M1RmJadGQ4MGRhQUJ0NGQ3all0VkRydzNDSmpZbVVFV3V1VWxSRHYtZVlXLWJ0ckhFUC1oUDBvSUNneXlXNHBiMlpZVDdpZXhrUktVZlhrelNlOGd0TVlwUU1Ocml1UUIxU2hxUURnZ2FIaTJ4Wk5YWDdJakZNWlVBZnlJYzg4b1ZNOHFibEFJbHpxcnNpLWJIVUd4S0VFVXpzMXhPbC02Q1pYWkxDdWpEeHBZd1JEeWhFTG9lT1JPT2hMaHExangtV3RpYU5oZmdjNU5RR3ZLQUFpaUZqRjRZLVYxR0pBWU5CR1o4VklOR1Foal9JTllnNHRKZWFJbDZIS3VBVE84OFROVC05ZU8tQWZFMl9ibHlJYnhGb2NxMEVrR1dtd1Nxcm9mMzBzUUEzUmhLeVRRVXdyVmhxWWlvNW5QejZkbjdCMkZLSFYtQk5CeF9JNDZGOG52Q1V2bDdWbg?oc=5)
+
+2026-07-01 <span class="news-indication-tag">tumor</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMi_AJBVV95cUxPLWZ0bTd0djNreXNLaVdnc2RGRnBqdmpER1M1RmJadGQ4MGRhQUJ0NGQ3all0VkRydzNDSmpZbVVFV3V1VWxSRHYtZVlXLWJ0ckhFUC1oUDBvSUNneXlXNHBiMlpZVDdpZXhrUktVZlhrelNlOGd0TVlwUU1Ocml1UUIxU2hxUURnZ2FIaTJ4Wk5YWDdJakZNWlVBZnlJYzg4b1ZNOHFibEFJbHpxcnNpLWJIVUd4S0VFVXpzMXhPbC02Q1pYWkxDdWpEeHBZd1JEeWhFTG9lT1JPT2hMaHExangtV3RpYU5oZmdjNU5RR3ZLQUFpaUZqRjRZLVYxR0pBWU5CR1o4VklOR1Foal9JTllnNHRKZWFJbDZIS3VBVE84OFROVC05ZU8tQWZFMl9ibHlJYnhGb2NxMEVrR1dtd1Nxcm9mMzBzUUEzUmhLeVRRVXdyVmhxWWlvNW5QejZkbjdCMkZLSFYtQk5CeF9JNDZGOG52Q1V2bDdWbg?oc=5)
+
+---
+
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
 2026-07-01 <span class="news-indication-tag">Krebs</span>
@@ -134,7 +150,7 @@ permalink: /news/ocrelizumab/
 
 ---
 
-### ['No evidence' of kidney cancer cluster near chemical site, study finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NeFFXY2VNbTZSb1lYbnRjS2Z4c3FWa1ZqY0Z1RVM1RW9NX05nNW9VRTVjQlNhMklyaXhfR2IxRFZ1TThPeFRsOWFjdU5Ndi1fNm5tVzRUWHdDdjlF?oc=5)
+### [No evidence of kidney cancer cluster near PFOA site, study finds](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NeFFXY2VNbTZSb1lYbnRjS2Z4c3FWa1ZqY0Z1RVM1RW9NX05nNW9VRTVjQlNhMklyaXhfR2IxRFZ1TThPeFRsOWFjdU5Ndi1fNm5tVzRUWHdDdjlF?oc=5)
 
 2026-07-01 <span class="news-indication-tag">cancer</span>
 
@@ -158,14 +174,6 @@ permalink: /news/ocrelizumab/
 
 ---
 
-### [Oncologist says 'some cancer is in our control' and warns to cut two things - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2VDbHZiOTFyck15TGpPbVNIbTJ3c0hQcVhWbVNrd1RMSnZLa0ZzbjlHLUkxQW5hWW83cU13RjczU2NIZnBvNnhmRF83T3V2WkNFWDFNQi10VVZNS2VsSXRMUURiWDRWeHhYaTVQSkgzQ2RZNjVRZ0hCQmc2UnRQY2RNOFp5RWJa0gGOAUFVX3lxTE1SZThQRFdDNDdub09TbkxWdGZwUGRzV3VTTGE4VTloRWhsTW4tS2ROSzhkOWxmOHM0M3JObzNLLXFnWXVVZ3l6eHZTeXNDd1U0UWVoaXdqSVU1MFNncWk1a2hhSEVZWFdLcGYyeWZQLXFsbU4wamkyNDN2UGhGcHZxMWEwWkM0M29pb2loOUE?oc=5)
-
-2026-07-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2VDbHZiOTFyck15TGpPbVNIbTJ3c0hQcVhWbVNrd1RMSnZLa0ZzbjlHLUkxQW5hWW83cU13RjczU2NIZnBvNnhmRF83T3V2WkNFWDFNQi10VVZNS2VsSXRMUURiWDRWeHhYaTVQSkgzQ2RZNjVRZ0hCQmc2UnRQY2RNOFp5RWJa0gGOAUFVX3lxTE1SZThQRFdDNDdub09TbkxWdGZwUGRzV3VTTGE4VTloRWhsTW4tS2ROSzhkOWxmOHM0M3JObzNLLXFnWXVVZ3l6eHZTeXNDd1U0UWVoaXdqSVU1MFNncWk1a2hhSEVZWFdLcGYyeWZQLXFsbU4wamkyNDN2UGhGcHZxMWEwWkM0M29pb2loOUE?oc=5)
-
----
-
 ### [HPV, il virus che provoca il cancro: 2400 tumori all’anno. L’Ulss 2: “Vaccinatevi, ma lo screening va sempre fatto”](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
 
 2026-07-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
@@ -182,9 +190,9 @@ permalink: /news/ocrelizumab/
 
 ---
 
-### [Woman thought skin cancer was birthmark](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSTlHcUdvYnNuLUIzUDljdVlhQWRZUzQ1RVlIWG5ZVGZ4TEtJVlFCQTZkQk84T1lFQjMxazE0cDIzd3hFelZKeXNELVR4ejlLSzdhczg4c3p2TTlR?oc=5)
+### [Farnham woman thought skin cancer after sunburn was birthmark](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSTlHcUdvYnNuLUIzUDljdVlhQWRZUzQ1RVlIWG5ZVGZ4TEtJVlFCQTZkQk84T1lFQjMxazE0cDIzd3hFelZKeXNELVR4ejlLSzdhczg4c3p2TTlR?oc=5)
 
-2026-07-01 <span class="news-indication-tag">cancer</span>
+2026-07-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSTlHcUdvYnNuLUIzUDljdVlhQWRZUzQ1RVlIWG5ZVGZ4TEtJVlFCQTZkQk84T1lFQjMxazE0cDIzd3hFelZKeXNELVR4ejlLSzdhczg4c3p2TTlR?oc=5)
 
@@ -219,54 +227,6 @@ permalink: /news/ocrelizumab/
 2026-06-30 <span class="news-indication-tag">tumor</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ2tDcTJMQWVqQXZzM0hsV3h2Z1Z2YXo1dzdDUkREZENWclduMTZXeGwxYm9QdGI1NXZVR3NrRy1sNk9tX0tpNEZYclRDNlZFYzRRODNVNTNFOUxUSlNndzBrazQ1SDItUmhQVm1NbXNXWWtBSmpta3VoOXRrNzFTWVA3UG9fVXdLSUU1ZzkyMTlJalUxLWNNX3dxa2tjQVBpV3ZNVGMzNGdkUklTQzFWcXVlaHpxN1Y1MDhtMGhwU2pzUFdwajNfcER6bzVSaFk1QkVwR296RUpuWmFWbzJRYzZKTW5zcVJxMVdfb3ZvTE5pRWZpTmdGbktoeXlHdFk5ZUxsTDh4MnhFblE0M2dyR0tETmNkYTFXZExjbDdpWExoMklBbFBrSEltajFYRWfSAZoCQVVfeXFMUEViVDNUUThsNlpjN3VzU0dyNEk1a3JHdUdzVjF4VE5vNFlpSjFwbEZQM1pZQjYxOUtBX1ZHTEhsT040MENpTFVtbV9vTzJBU2NZREF3WlZpOEtzdk5tNHpyRUUxT3VmYzJTbVpmQ3VKam1LTVBrM2ktSWVxRUQxWk91RE80U1hscGhCd0FCSHlOTHFKZnVFSnlwTDJSNHJEaGhyZ0xzMkFMSGZZWHNBcHRoLXJuajNocC1FSjRxNlB2YVpRWm9FV004UFk0TDVxaFNFdEh1ejNGY1RWRE1CTDB2R0wxdU9MNW1saWpaY2oyT1gzVnFLYzVzMmx0NEp4dFR1bkp6UzRQV0Q0TGlSOEZpZlV4Y2I3RzN3?oc=5)
-
----
-
-### [New screening tool may detect more dangerous prostate cancers than PSA testing alone - Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmQtUEcwQ24yVlRmczNWWjNiMEtSZGdyRUdGQnUxeFY1SURTNjkwVG9MMUF5a2tYWDR2UnV0Tnd2czY0ZS11R3pDbGhKNnBnRkxaSHdjZV9RNHJLNlo4NkwyMlM2S0kxX252U3MyWkF1MzNycVRIaEtDQTAyQnVoQ0pYaVFQQ185dk0xTGpqWkUwTVRvQVhLSEhvWV9ldTM5M1hnVnRTTVFJWklneGMtdGZzN1Fnempja2hXaDg2Q2FQWTVO?oc=5)
-
-2026-06-30 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmQtUEcwQ24yVlRmczNWWjNiMEtSZGdyRUdGQnUxeFY1SURTNjkwVG9MMUF5a2tYWDR2UnV0Tnd2czY0ZS11R3pDbGhKNnBnRkxaSHdjZV9RNHJLNlo4NkwyMlM2S0kxX252U3MyWkF1MzNycVRIaEtDQTAyQnVoQ0pYaVFQQ185dk0xTGpqWkUwTVRvQVhLSEhvWV9ldTM5M1hnVnRTTVFJWklneGMtdGZzN1Fnempja2hXaDg2Q2FQWTVO?oc=5)
-
----
-
-### [Stockholm3-Test mit höherer Sensitivität im Prostatakrebsscreening](https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVEU3djcksydUFFZ0QteTRPMXBWbHBKZUExajJVclJYeVVKYnZyYV9wbWp6TFlXS3VmdTFyRmhTaEszTHcxei15R3loNVlQWU8yM2JtNDRSUVlNZDgxaEtRYlNIeF9FNkdlN1JMZ0JkcXEzOE5adGx6aGhiQTJYY0MtVzN4enJyQWdrRjN1ODlUdW5GeWtNanBTaFM3bTN4N2Y5T1lLc0dIOTUyUVY0Q3U3LUR4WGs?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Krebs</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxObDVEU3djcksydUFFZ0QteTRPMXBWbHBKZUExajJVclJYeVVKYnZyYV9wbWp6TFlXS3VmdTFyRmhTaEszTHcxei15R3loNVlQWU8yM2JtNDRSUVlNZDgxaEtRYlNIeF9FNkdlN1JMZ0JkcXEzOE5adGx6aGhiQTJYY0MtVzN4enJyQWdrRjN1ODlUdW5GeWtNanBTaFM3bTN4N2Y5T1lLc0dIOTUyUVY0Q3U3LUR4WGs?oc=5)
-
----
-
-### [Ärzte vermuteten Tumor: Mann hat jahrelang Bandwürmer am Gehirn, ohne es zu merken](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWlWLXNHVy1qR3Bsd0pDeWFnY3RJMFloblJ3UE5lZk1kVG90OHpHQS1rVEE1NDdRZzI0UUl6ekFIMDJRWmx1Yk9zNUh0V1VBQVNrMXFIc3VFSWd6bFUwdVFCX1doSnZIdXhRQVJyYzJOTFdIYkpEYTBvTGplNG91LVZrYXlPY3BSQTNHZVNMbEFkUWJacGdQekJGeVFzUXlaSFlNWG1R?oc=5)
-
-2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Ntv](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWlWLXNHVy1qR3Bsd0pDeWFnY3RJMFloblJ3UE5lZk1kVG90OHpHQS1rVEE1NDdRZzI0UUl6ekFIMDJRWmx1Yk9zNUh0V1VBQVNrMXFIc3VFSWd6bFUwdVFCX1doSnZIdXhRQVJyYzJOTFdIYkpEYTBvTGplNG91LVZrYXlPY3BSQTNHZVNMbEFkUWJacGdQekJGeVFzUXlaSFlNWG1R?oc=5)
-
----
-
-### [Davina McCall in new Cambridge cancer hospital film](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51R2N5MkEtSHRYTVl1RTFDNVY3WTRxNGlVNzQ3ZzZfc2hpT3E3SDMzX2syM0xMWFBDb2pCNlhkTlh4Z2otNjFGMHV0akdOSzhUbGVwOUZySGozeTFm?oc=5)
-
-2026-06-30 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE51R2N5MkEtSHRYTVl1RTFDNVY3WTRxNGlVNzQ3ZzZfc2hpT3E3SDMzX2syM0xMWFBDb2pCNlhkTlh4Z2otNjFGMHV0akdOSzhUbGVwOUZySGozeTFm?oc=5)
-
----
-
-### [Common virus fuelling surge of cancer in under-50s - are you in age danger zone? - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxOX21uVF9qVW53b3djQmxoeUxrSnpuT3ZTTzBuSHFMTFV6VkhicGxKMFdBVEdVN3FJMWdtTFhaNmJwdUdkdFBSTHQ4NW5oa0VuRG44X3BqenN3dklob0x5eW9kS3hUZzd0N0tWbzZuQlhMM2xxMG92SmhEMVVUVVZ2Q19IWQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxOX21uVF9qVW53b3djQmxoeUxrSnpuT3ZTTzBuSHFMTFV6VkhicGxKMFdBVEdVN3FJMWdtTFhaNmJwdUdkdFBSTHQ4NW5oa0VuRG44X3BqenN3dklob0x5eW9kS3hUZzd0N0tWbzZuQlhMM2xxMG92SmhEMVVUVVZ2Q19IWQ?oc=5)
-
----
-
-### [Tesco launches cancer checks as 1 in 3 ignore 'red flag' signs - no apt needed - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPblNVeVNrclp2aFlKSGNfZmdMY3g3M3k3WHJzVlItaEEwT0ZiN05VeHI5clhoX2dmWUNEeUlPbFZIMHhIU2VxZXo2UjdkNk9INTNpZzB2ZlU1UVVwbThYWWU1MWRzVGFfV1ZvZkUtWG5pS0ZHWklheUhrZnZvaXRwMWxoSWRkUQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPblNVeVNrclp2aFlKSGNfZmdMY3g3M3k3WHJzVlItaEEwT0ZiN05VeHI5clhoX2dmWUNEeUlPbFZIMHhIU2VxZXo2UjdkNk9INTNpZzB2ZlU1UVVwbThYWWU1MWRzVGFfV1ZvZkUtWG5pS0ZHWklheUhrZnZvaXRwMWxoSWRkUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
+
+### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+
+2026-07-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+
+---
 
 ### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
 2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
+
+---
+
+### [40-Hertz-Schall als Alzheimer-Ansatz: Ablagerungen doppelt so schnell abtransportieren - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG9zVHpTTGR2Z0xiUjNYZEJKUm1GWWprdTVrVF84dVZfZ3FvNnRJNmE0RmxOUlhMYzhtRThzZlkwUjBobWN6UzhrNi1JSi1MSDBveUhLQUtseV9YMFByTzluV2JoTFBGSHhJU2lRd0pUNTlHNk9DZ3R2MXdYNzAtQXpWRWRBdmtxRlp5dm1ENTJzZVVOUWFwVnlGNnh4ZmVxdTZLTl9PMThNN3lMX0VubWJQa2VXYWVC?oc=5)
+
+2026-07-02 <span class="news-drug-tag">Lecanemab</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG9zVHpTTGR2Z0xiUjNYZEJKUm1GWWprdTVrVF84dVZfZ3FvNnRJNmE0RmxOUlhMYzhtRThzZlkwUjBobWN6UzhrNi1JSi1MSDBveUhLQUtseV9YMFByTzluV2JoTFBGSHhJU2lRd0pUNTlHNk9DZ3R2MXdYNzAtQXpWRWRBdmtxRlp5dm1ENTJzZVVOUWFwVnlGNnh4ZmVxdTZLTl9PMThNN3lMX0VubWJQa2VXYWVC?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/lecanemab/
 2026-07-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
-
----
-
-### [Alzheimer-Prävention: 40-Hertz-Töne verdoppeln Abtransport von Ablagerungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0RVTFBxMVlfZDIwamZKa1ZGeDJ2MUhKdFdURnFsRVZ4OHJ6YjZJWVhEMzV4SWFsR2RHLV9WdWluY21qWTBUeTlCdl9VaVpXbUJaZVRhcE4zV1o2a01VeEIydlF5X1FmS09ULWlWWkEzVDZtWmtVRnZXcS01bXY3b2VfcElVUmxrR3dDQ0QyeXZMOHVtcUEySGNtTnhsS0paWWtKdFJ2THpDYTZjUERsTTh3?oc=5)
-
-2026-07-01 <span class="news-drug-tag">Lecanemab</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0RVTFBxMVlfZDIwamZKa1ZGeDJ2MUhKdFdURnFsRVZ4OHJ6YjZJWVhEMzV4SWFsR2RHLV9WdWluY21qWTBUeTlCdl9VaVpXbUJaZVRhcE4zV1o2a01VeEIydlF5X1FmS09ULWlWWkEzVDZtWmtVRnZXcS01bXY3b2VfcElVUmxrR3dDQ0QyeXZMOHVtcUEySGNtTnhsS0paWWtKdFJ2THpDYTZjUERsTTh3?oc=5)
 
 ---
 
@@ -139,22 +147,6 @@ permalink: /news/lecanemab/
 2026-06-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
-
----
-
-### [I’m a diabetes doctor. This is how we drive down the disease - The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3NrNGtQdGpKMjIwTndWR1p2VEYtMjg2NzBmTGpWUjZlWFgzdm9NNTJRTzBsZFdKX3d1MFdUNFl1RnFpb09mSnhZMk1nWV9PRW02WUhRVUxidVZ6azJlSW5MM0c3R191T0l4Tk1ObEdmYlltVGJXQ0M5eDY1ZU1jVHpTR3JGWGVMUExCQy14UW5lalhvODlDTDBZV0lja0dzSHVubFFLeTM2RG8?oc=5)
-
----
-
-### [Retina Care Visits Reveal High Blood Pressure in Adults With Diabetes](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
 
 ---
 

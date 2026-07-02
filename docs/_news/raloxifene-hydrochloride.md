@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [HPV, il virus che provoca il cancro: 2400 tumori all’anno. L’Ulss 2: “Vaccinatevi, ma lo screening va sempre fatto”](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
 
 2026-07-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
-
----
-
-### [🧠 Une étude géante relie cannabis, cocaïne, amphétamines aux AVC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0NBNVJoUF8xM29XSUd5RThNcUt4V014UnRsNHpTdE5uSlhkLUZ6UU5LSEk2LTgxY3hNOXM4Um1qLTk5TW9PSjcyaDlEZnIxSVg3aHBFVW85VlUzbmF2VUNmSDJlRlRtNHJScFBocGJ1eHVnSXFZSmdzc1pRbmtwUWN2S0xTVllhenRnNVpwQkx3djRDd0g3bERFS3RUUU1vRzgzREcwQ0TSAaYBQVVfeXFMTnR3WURJUEdmSEtRbzhtTWIxU1dTZjBIcHpxMVZuY09Cd2NnTDdmLWdzUzRmbk5iRlhHNmk1RVBRa3hnYlMyV2RpOWtock9zeGdKMDI4RURVNE5TNDVwMGtnSHQ1TlI4SjRLTlRSZ0FHUUNHOUJrZjFPVDZ1MXNMa21mc3NySTNJMmpXbmlSUm5naHlKRkNBMmlwejBFakJOWWF1SDdPZw?oc=5)
-
-2026-06-30 <span class="news-indication-tag">AVC</span>
-
-來源：[Techno-Science.net](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0NBNVJoUF8xM29XSUd5RThNcUt4V014UnRsNHpTdE5uSlhkLUZ6UU5LSEk2LTgxY3hNOXM4Um1qLTk5TW9PSjcyaDlEZnIxSVg3aHBFVW85VlUzbmF2VUNmSDJlRlRtNHJScFBocGJ1eHVnSXFZSmdzc1pRbmtwUWN2S0xTVllhenRnNVpwQkx3djRDd0g3bERFS3RUUU1vRzgzREcwQ0TSAaYBQVVfeXFMTnR3WURJUEdmSEtRbzhtTWIxU1dTZjBIcHpxMVZuY09Cd2NnTDdmLWdzUzRmbk5iRlhHNmk1RVBRa3hnYlMyV2RpOWtock9zeGdKMDI4RURVNE5TNDVwMGtnSHQ1TlI4SjRLTlRSZ0FHUUNHOUJrZjFPVDZ1MXNMa21mc3NySTNJMmpXbmlSUm5naHlKRkNBMmlwejBFakJOWWF1SDdPZw?oc=5)
 
 ---
 

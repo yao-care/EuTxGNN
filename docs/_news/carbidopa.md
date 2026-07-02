@@ -43,19 +43,19 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（2 則）
 
+### [Sudden craving of 3 foods 'could be early sign of dementia' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5)
+
+2026-07-02 <span class="news-indication-tag">dementia</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5)
+
+---
+
 ### [The diet that’s proven to lower blood pressure and prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWEs5WVpVX2FkUTA0Z2xJOWRVVmx2eUU1OXR3OEpjRVl2aWg2Zkg0M2tyMTQwekZXcTMxWVFWYnMyc21lay01Y2pKRU5lNGlwX0Q2dFZMaDc0MWpVbEVPX1ROb1pTUGFvN2lkbmxIQV9FU24xWE9J?oc=5)
 
 2026-07-02 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWEs5WVpVX2FkUTA0Z2xJOWRVVmx2eUU1OXR3OEpjRVl2aWg2Zkg0M2tyMTQwekZXcTMxWVFWYnMyc21lay01Y2pKRU5lNGlwX0Q2dFZMaDc0MWpVbEVPX1ROb1pTUGFvN2lkbmxIQV9FU24xWE9J?oc=5)
-
----
-
-### [Dementia Discos gave dad an 'opportunity for joy'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxREl3MnNMcHRhYUpzTTZlSk16NC1mMDRUajFrTTdpYTc5MmJCelpDSnFCZ3RSVENFQlR5cWx1a2V6TnhZWko1T3FMOERGYUNMaEZSUHZjWDNDVGVf?oc=5)
-
-2026-07-02 <span class="news-indication-tag">dementia</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxREl3MnNMcHRhYUpzTTZlSk16NC1mMDRUajFrTTdpYTc5MmJCelpDSnFCZ3RSVENFQlR5cWx1a2V6TnhZWko1T3FMOERGYUNMaEZSUHZjWDNDVGVf?oc=5)
 
 ---
 

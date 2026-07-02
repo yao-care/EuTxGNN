@@ -54,6 +54,14 @@ permalink: /news/ketoconazole/
 
 ## 相關新聞（4 則）
 
+### [Protonenpumpenhemmer: 25% höheres Asthma-Risiko bei Dauergebrauch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
+
+---
+
 ### [Scientists discover a surprising link between vitamin C and brain health](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5)
 
 2026-07-01 <span class="news-indication-tag">asma</span>
@@ -75,14 +83,6 @@ permalink: /news/ketoconazole/
 2026-06-30 <span class="news-indication-tag">asma</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
-
----
-
-### [Säureblocker bei Asthma und COPD: Risikofaktor für Krankheitsschübe?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
-
-2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
 ---
 

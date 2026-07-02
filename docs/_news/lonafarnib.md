@@ -78,11 +78,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [Retina Care Visits Reveal High Blood Pressure in Adults With Diabetes](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
+### [Vous somnolez en journée ? C'est peut-être un signe avant-coureur d'une maladie silencieuse](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnB0dEh5OEZGbVotVEM4cXVMRXJCdTBaUjlkY0g5ajlyTzBLUExaOFhlMWtaa2tPVk1VU05NQUVGS3ZoT1JOVWpRXzhtMnVxRVY2enh6dmtYRGpPWWtYcllVYjZhSnlKd095TWc3aVBPOGhnOE9kcHhsdjZQRU5DaHc4NW4?oc=5)
 
-2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
+2026-06-30 <span class="news-indication-tag">hypertension</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnB0dEh5OEZGbVotVEM4cXVMRXJCdTBaUjlkY0g5ajlyTzBLUExaOFhlMWtaa2tPVk1VU05NQUVGS3ZoT1JOVWpRXzhtMnVxRVY2enh6dmtYRGpPWWtYcllVYjZhSnlKd095TWc3aVBPOGhnOE9kcHhsdjZQRU5DaHc4NW4?oc=5)
 
 ---
 

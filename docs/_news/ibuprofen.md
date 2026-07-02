@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [El código postal y la renta condicionan el acceso al cribado del cáncer en España](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZEhRSFpfTTJoclZWVlRrdmYzdmU2a1ptUUZGVFRhSlNjckszaXVwTFNwOF8xcmJraDlnSTFPSFRmbzgyelJ2Y3RvdHU5bDBtZ19PT2lnSTdxREI5RG9zUkFRX3JKNnpqN0tFX1dXYmFiR2JDbFpwUjV4MHNoblFuUU96VzZudkFNWm5vMUFrbDlJNVFZdEcwcTJDb1hfOUNpZDhYVHRobHR2aDQ4MnZmQ3E4OXo2UzViLXQtbTMxNHMtM1hsdGdRWVZVcEY4VkFPTVJaWFhTaUFYUkJYOHJF?oc=5)
+
+2026-07-01 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZEhRSFpfTTJoclZWVlRrdmYzdmU2a1ptUUZGVFRhSlNjckszaXVwTFNwOF8xcmJraDlnSTFPSFRmbzgyelJ2Y3RvdHU5bDBtZ19PT2lnSTdxREI5RG9zUkFRX3JKNnpqN0tFX1dXYmFiR2JDbFpwUjV4MHNoblFuUU96VzZudkFNWm5vMUFrbDlJNVFZdEcwcTJDb1hfOUNpZDhYVHRobHR2aDQ4MnZmQ3E4OXo2UzViLXQtbTMxNHMtM1hsdGdRWVZVcEY4VkFPTVJaWFhTaUFYUkJYOHJF?oc=5)
+
+---
 
 ### [Ni paracetamol ni ibuprofeno: un nuevo estudio apunta al potencial de la melatonina para aliviar el dolor crónico](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXE4UnVMTThWMmxjV3VYUHhkOE1HVi1hZGV5czVrSFBfVUhqRFZ1dUdCeXZobGxqRU0tOEpFWjFkSjgycTZkVmVHaXJVWWE0TENqdUp1ck40aEtYd0hnM3NtQ05CY0szbElyWGZlcUlkclZYUE9IdG5HMTlJemJxZEpSNlpQRkpWbkZ6YmRrRXRPMzhNT1RiZktNbWo4d2hkRDVkMjM3bGtIWjF5ajROTkFNT2xzVWpnV2NDZjhNSWc2YW02OTM5WkZnSXl0bmxBT0d6MDFjdVM2UXVLeTdqQklfMA?oc=5)
 

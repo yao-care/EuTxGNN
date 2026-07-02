@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Gemischte Ergebnisse für Astegolimab bei COPD-Exazerbationen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
+
+2026-07-02 <span class="news-indication-tag">copd</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
+
+---
+
+### [Protonenpumpenhemmer: 25% höheres Asthma-Risiko bei Dauergebrauch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
+
+---
 
 ### [‘Genuine hope’ for COPD patients as new jab is rolled out on NHS - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZlUk0yM3dpUVpSNHM3TEtXSTg2bFl3QUlKS3dfZVhDNlVENXdtQ1VmZ2JwLU1RYXBEVW1adGR2UmltV3JuQmlPSXRxSHdFampaSVh5Vk5iWFJLdVl6dXM2aTdXM2dwd3pON2ljZ0p4UzI0REw5ZmNXVkdLR3p4NDF6NVNtLUphMEJ5Z1FMSUjSAZYBQVVfeXFMTmttS0xqNjBNRzhBTE5TVU1vTnl2NGsySDlXOHRsSnVFZkRKdlpYdkpOSVlZaHgwUFhPcjBTd0pBWGoxTXVYWndfazQzY0NlTzRhSXNoWWRyYTZySy1rWkljQXJyZlgyLThKRG8tcklCLU5la3ZDQVlJR0Vwb0R5NDFEcEFMRGFHQzNKSWh6ZTZqLWU0am93?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/sarilumab/
 2026-06-30 <span class="news-indication-tag">asma</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
-
----
-
-### [Säureblocker bei Asthma und COPD: Risikofaktor für Krankheitsschübe?](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
-
-2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQLUxhVVRaZXlic0c5Zjg0dzl5MjJGVjFWbU5OdndwMGItZ2V0RG1LMXNVWmsxRXhHeWF3ZDBBRUxFNC1mY1RMWlAybVE2U0tfelJfdC0zcXJXUG1Fek9xZTBSeU1VdlA4MG1wMVZteGR4MEJXY3E0aFVOSG5BNDV4MVd4aGlvekZ6YUJfQi0ycG1nVFF3VmFsREx5M05PWGVGdjBCOF82bWFlZ0NZMHo1TmNqZnJhcEV6TDRidDAzcS1rSnVhOXhxTUMzQnI?oc=5)
 
 ---
 
