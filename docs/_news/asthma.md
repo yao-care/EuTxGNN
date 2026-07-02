@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,13 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Protonenpumpenhemmer: 25% höheres Asthma-Risiko bei Dauergebrauch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
+### [Lungenembolie: Protonenpumpenhemmer erhöhen Exazerbationen um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFwcUg5amxTRWtwMUtFT2FyOHZaR01CaFlVb1NHRFhYaWt2YTVCeHlWSDRDMlZfb0RyYUtRaTdwYTM0SnRUSG5TLXlZNThCRzhDRjFEd2ZmaHVqcWNNS3ZQWWl5NUpadjBrdzNjaXdsNC1oMjJCZTVuenpORnZiVUh0RDk3bGVHQXd4OUd5VWtJRnlXZFZtUG0zSkFVU0p2TW9nMl9pa3U1aVk5dVFXckcyR0VjdnBobnVWbmRR?oc=5)
 
 2026-07-02
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFwcUg5amxTRWtwMUtFT2FyOHZaR01CaFlVb1NHRFhYaWt2YTVCeHlWSDRDMlZfb0RyYUtRaTdwYTM0SnRUSG5TLXlZNThCRzhDRjFEd2ZmaHVqcWNNS3ZQWWl5NUpadjBrdzNjaXdsNC1oMjJCZTVuenpORnZiVUh0RDk3bGVHQXd4OUd5VWtJRnlXZFZtUG0zSkFVU0p2TW9nMl9pa3U1aVk5dVFXckcyR0VjdnBobnVWbmRR?oc=5)
 
 ---
 
@@ -90,22 +90,6 @@ permalink: /news/asthma/
 2026-07-01
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5)
-
----
-
-### [Two cheap vitamin supplements 'cut risk of asthma attacks' with added bonus of slowing ageing - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
-
-2026-06-30
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
-
----
-
-### [Silenziato l'allarme cellulare dell'invecchiamento, la scoperta che entusiasma gli scienziati](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
-
-2026-06-30
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUU2WFg1RWhISVRHZTBMM1NaN1hPa083cmlRWHN0aDBMNThxVGtDMmlmcTNvcHJzcllWYll4MEtPaVZNbWJacDQ5TzlTSEdRX05rLVNxQlF0Z2QxVTZQNFBORUMzM013N0p3NVd3a0JGRkxwOFFBeHFhNThpQU42MUd2cnZ5Vm16cDd0WVlPU0d4Ulo1V0o2QzZtekRGZVRQMzljQzVJSDlDLVJJVlVBdnZ0dEs?oc=5)
 
 ---
 

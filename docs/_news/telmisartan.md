@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
+
+### [Is your heart healthy? How to protect it at every age - The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+2026-07-02 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+---
 
 ### [Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen - Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
 
 2026-07-01 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
-
----
-
-### [HPV, il virus che provoca il cancro: 2400 tumori all’anno. L’Ulss 2: “Vaccinatevi, ma lo screening va sempre fatto”](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
-
-2026-07-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
-
----
-
-### [Ipertensione in gravidanza, lo studio Unimore che può salvare i neonati](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
-
-2026-07-01 <span class="news-indication-tag">ipertensione</span>
-
-來源：[ModenaToday](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
-
----
-
-### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
-
----
-
-### [Vous somnolez en journée ? C'est peut-être un signe avant-coureur d'une maladie silencieuse](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnB0dEh5OEZGbVotVEM4cXVMRXJCdTBaUjlkY0g5ajlyTzBLUExaOFhlMWtaa2tPVk1VU05NQUVGS3ZoT1JOVWpRXzhtMnVxRVY2enh6dmtYRGpPWWtYcllVYjZhSnlKd095TWc3aVBPOGhnOE9kcHhsdjZQRU5DaHc4NW4?oc=5)
-
-2026-06-30 <span class="news-indication-tag">hypertension</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnB0dEh5OEZGbVotVEM4cXVMRXJCdTBaUjlkY0g5ajlyTzBLUExaOFhlMWtaa2tPVk1VU05NQUVGS3ZoT1JOVWpRXzhtMnVxRVY2enh6dmtYRGpPWWtYcllVYjZhSnlKd095TWc3aVBPOGhnOE9kcHhsdjZQRU5DaHc4NW4?oc=5)
 
 ---
 

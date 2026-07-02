@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="Sildenafil 有什麼相關新聞？">
-<strong>Sildenafil</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sildenafil</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/sildenafil/
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（25 則）
 
-### [Edulcorantes y microbiota intestinal: cómo afectan al intestino y qué dice la ciencia](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEdDRHNWTXozT3BHd3lWcUF0anB6bUtVSFF4UnhmcmlSakw5TUFwSXIyMDktU0ptcWotTzBMcGNPbER6Um45UGZpMDBIclplajN4OWtScUZXZnhSUWdKRjBiSFlFZnBNM1BHQUpPVWJyRXRnUnMyTWd1NjAxeko5aEJRUy1WUXBLRUZFekdRYndsa3RJcmhPX0ZDRnlYQ3h1WnF0ZWhBTmpiLTV3V1kydkFVZjJYZm5VWkZlRm1NYUV2bllmX1VUZmdn?oc=5)
+### [Canadian boy dies of rabies after waking to find bat on his face - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxNV201QzBXS1Y0dXJsVE5Md0o5cFkzXzRiZnR5R2pCRmZnbmtrN0dTYnB4YlMwT0tubFJxQUp5WnZEYnV0RlhVV1VnUDlySmVPOUhwek9BbHFkV1JPdEQ0d3JHbUpUc3NIdl9COFRVN3lWM0lJRWhUT1pQZ3NxaWpzZmRzOEFFR1NOQ3c?oc=5)
 
 2026-07-02 <span class="news-indication-tag">AF</span>
 
-來源：[ABC](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEdDRHNWTXozT3BHd3lWcUF0anB6bUtVSFF4UnhmcmlSakw5TUFwSXIyMDktU0ptcWotTzBMcGNPbER6Um45UGZpMDBIclplajN4OWtScUZXZnhSUWdKRjBiSFlFZnBNM1BHQUpPVWJyRXRnUnMyTWd1NjAxeko5aEJRUy1WUXBLRUZFekdRYndsa3RJcmhPX0ZDRnlYQ3h1WnF0ZWhBTmpiLTV3V1kydkFVZjJYZm5VWkZlRm1NYUV2bllmX1VUZmdn?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxNV201QzBXS1Y0dXJsVE5Md0o5cFkzXzRiZnR5R2pCRmZnbmtrN0dTYnB4YlMwT0tubFJxQUp5WnZEYnV0RlhVV1VnUDlySmVPOUhwek9BbHFkV1JPdEQ0d3JHbUpUc3NIdl9COFRVN3lWM0lJRWhUT1pQZ3NxaWpzZmRzOEFFR1NOQ3c?oc=5)
 
 ---
 
-### [Krebs: Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjN2M3huTmhOaU5kQzEyb3FJaDlkdnN2RGE4RVYzcWhNYWNOQ3hldW5qR0FyYkVPQUlyM0trcFJTaU9DRTFEOHNhemZfMTROZGpqbEFBNFlOOTlSU0U2TkItYjBMUmVvc3BrbGVlV2JCN2xNMEVEMWhFaGdOMVRDOXRsN3BMcUNGUWdoS1BWY3ktbGdnenRudkdldTFiRjZlVnFJUjByQ25mZXk2NXlKLXhKWFdfbEsyN2JIbkUxU29Cbm5TQU9aZmQ0UnVJRHBhYjJKYmt0cDlzUQ?oc=5)
+### [Las ecografías en Atención Primaria reducen un 52% las derivaciones a radiología - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGY4N04tVjB1d1ZqQTJMNG1wQS04YlV3SmhITDBSZjA1dDRZLXhiT3BudkJ1ZS1iNzFnS1h0c0ZGd1R6OUlEVC02UDZBMlVHdFprbjJ6T3VyVk45UF9JaFNSRjNZWlU2UHZ0LTE1cVllbWhwbmtaT3JmWG5PWEdZZjJoS0w0VW5NU2NlVl9STElyYVhBQk82aVVvVkJ4cmxEdlNqM0lNakNnWXh1ejVDSXhGNklQQlhWa2lXaUJn?oc=5)
 
-2026-07-02 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-07-02 <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjN2M3huTmhOaU5kQzEyb3FJaDlkdnN2RGE4RVYzcWhNYWNOQ3hldW5qR0FyYkVPQUlyM0trcFJTaU9DRTFEOHNhemZfMTROZGpqbEFBNFlOOTlSU0U2TkItYjBMUmVvc3BrbGVlV2JCN2xNMEVEMWhFaGdOMVRDOXRsN3BMcUNGUWdoS1BWY3ktbGdnenRudkdldTFiRjZlVnFJUjByQ25mZXk2NXlKLXhKWFdfbEsyN2JIbkUxU29Cbm5TQU9aZmQ0UnVJRHBhYjJKYmt0cDlzUQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGY4N04tVjB1d1ZqQTJMNG1wQS04YlV3SmhITDBSZjA1dDRZLXhiT3BudkJ1ZS1iNzFnS1h0c0ZGd1R6OUlEVC02UDZBMlVHdFprbjJ6T3VyVk45UF9JaFNSRjNZWlU2UHZ0LTE1cVllbWhwbmtaT3JmWG5PWEdZZjJoS0w0VW5NU2NlVl9STElyYVhBQk82aVVvVkJ4cmxEdlNqM0lNakNnWXh1ejVDSXhGNklQQlhWa2lXaUJn?oc=5)
 
 ---
 
@@ -94,19 +94,19 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Schwarzes Loch im Labor: Hawking-Strahlung könnte einfacher entstehen als gedacht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3NWcHdlYzBRNDRIRU95TG1kUzd2U2N6SW9DS1UzVU9kWGZjdUx0bGZSLUNTQklfSXJlVGtnSDR4RkRXMUNOYVFpRHhNRjg2cHVGM0VqYjA0QWkzX2JWT3VsY0trS0Q0OGQ2czNTRGZVVGhfQ2R1MWpkM09WYUF6MzRfd1dXSFZlZ29TdXBfdW9ITklGeEFkRy0wLVY2QjdaQjNoVjRNNmc?oc=5)
+### [Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak - The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5)
 
 2026-07-02 <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3NWcHdlYzBRNDRIRU95TG1kUzd2U2N6SW9DS1UzVU9kWGZjdUx0bGZSLUNTQklfSXJlVGtnSDR4RkRXMUNOYVFpRHhNRjg2cHVGM0VqYjA0QWkzX2JWT3VsY0trS0Q0OGQ2czNTRGZVVGhfQ2R1MWpkM09WYUF6MzRfd1dXSFZlZ29TdXBfdW9ITklGeEFkRy0wLVY2QjdaQjNoVjRNNmc?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5)
 
 ---
 
-### [Cardiologist explains 6pm ban rule that protects heart and most of us break it - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDFQTnJjOFh1RTNUMDVMOG9icHhmRnF5MzJrVGk5YkMzdUVGU0ZwSE1ZOXZ4bXkzaUEzd2Fmb3ZDZS1zME5QdEVQWmx0cjVpcEVzMmxRdzR0SzZuRFRkWGxrcGY1Y3FSZWxQWExMWDBrSzloOUd1QmhzVTN6VnlOWGJLYlBwcGPSAYwBQVVfeXFMTmRKM2FoVk1rdlZ3UWtfamlIcHdidmowb2NqNjF4WkF4NGcyQmxQRy1hRHREZEx6ZkZwR1h6ZHF1MWxjNUV4blQxQkJpOWNHbERjekRyakJYLWt4TkdGVmVTc05KSVlZNzFNUDN6eG1nWjNNNUhwYUVNMEdBNTJWWHJPMndxcUhFc0NNMF8?oc=5)
+### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDFQTnJjOFh1RTNUMDVMOG9icHhmRnF5MzJrVGk5YkMzdUVGU0ZwSE1ZOXZ4bXkzaUEzd2Fmb3ZDZS1zME5QdEVQWmx0cjVpcEVzMmxRdzR0SzZuRFRkWGxrcGY1Y3FSZWxQWExMWDBrSzloOUd1QmhzVTN6VnlOWGJLYlBwcGPSAYwBQVVfeXFMTmRKM2FoVk1rdlZ3UWtfamlIcHdidmowb2NqNjF4WkF4NGcyQmxQRy1hRHREZEx6ZkZwR1h6ZHF1MWxjNUV4blQxQkJpOWNHbERjekRyakJYLWt4TkdGVmVTc05KSVlZNzFNUDN6eG1nWjNNNUhwYUVNMEdBNTJWWHJPMndxcUhFc0NNMF8?oc=5)
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/sildenafil/
 2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
-
----
-
-### [38 Parasites Found In UK Woman's Brain After Her Trip To India: What Is Neurocysticercosis?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlctd1JCYUtNalVENEo4cDljYWVmRHRWTjI5SHB2VnpycW42N096Nk13dmt3NkFfUW94cFIwNGhVa1FRc2IzRnlacFAyblRLME5KRFhWTHJId05FaXFXdmowZjJfdE5tV1JVWWoycERtV0Vyejlhc2RUVlZPMkJzR2ZwUGV4amZTSGhCMlk4dU8zbXoybHo3RERRejZaR241NTB1MnZPSWJGQ1poNjNTaXhMMjY1V1Q3djR3a1AtMGc0RTQ?oc=5)
-
-2026-07-02 <span class="news-indication-tag">AF</span>
-
-來源：[NDTV](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlctd1JCYUtNalVENEo4cDljYWVmRHRWTjI5SHB2VnpycW42N096Nk13dmt3NkFfUW94cFIwNGhVa1FRc2IzRnlacFAyblRLME5KRFhWTHJId05FaXFXdmowZjJfdE5tV1JVWWoycERtV0Vyejlhc2RUVlZPMkJzR2ZwUGV4amZTSGhCMlk4dU8zbXoybHo3RERRejZaR241NTB1MnZPSWJGQ1poNjNTaXhMMjY1V1Q3djR3a1AtMGc0RTQ?oc=5)
 
 ---
 
@@ -142,11 +134,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Canadian boy, 11, dies of rabies after waking to bat on his face](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdE1UUExwTlJkZ096VTdHdUZvVUZLNTRZWDhLb0ItY0k2SEh0dWQ5YXBUTnA2MFA4VHQtd01QYkR2T0xSZzUxTmtMclJXU3RTdlBwSGF2QVRndktU?oc=5)
+### [Schwarzes Loch im Labor: Hawking-Strahlung könnte einfacher entstehen als gedacht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3NWcHdlYzBRNDRIRU95TG1kUzd2U2N6SW9DS1UzVU9kWGZjdUx0bGZSLUNTQklfSXJlVGtnSDR4RkRXMUNOYVFpRHhNRjg2cHVGM0VqYjA0QWkzX2JWT3VsY0trS0Q0OGQ2czNTRGZVVGhfQ2R1MWpkM09WYUF6MzRfd1dXSFZlZ29TdXBfdW9ITklGeEFkRy0wLVY2QjdaQjNoVjRNNmc?oc=5)
 
-2026-07-02 <span class="news-indication-tag">AF</span>
+2026-07-01 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdE1UUExwTlJkZ096VTdHdUZvVUZLNTRZWDhLb0ItY0k2SEh0dWQ5YXBUTnA2MFA4VHQtd01QYkR2T0xSZzUxTmtMclJXU3RTdlBwSGF2QVRndktU?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3NWcHdlYzBRNDRIRU95TG1kUzd2U2N6SW9DS1UzVU9kWGZjdUx0bGZSLUNTQklfSXJlVGtnSDR4RkRXMUNOYVFpRHhNRjg2cHVGM0VqYjA0QWkzX2JWT3VsY0trS0Q0OGQ2czNTRGZVVGhfQ2R1MWpkM09WYUF6MzRfd1dXSFZlZ29TdXBfdW9ITklGeEFkRy0wLVY2QjdaQjNoVjRNNmc?oc=5)
 
 ---
 
@@ -158,11 +150,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Six ways drinking coffee is good for your health - The Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxON2ZPM2h5RUd2WVFicGpUSmVqakZfdlZneVZVRkE5ajAwQmF1ZlJSbng3Yk4xUHNab2dCUl95TFl6YmxOTnMzQ1RQeE91VGZCcmwyNWY1SUxvakVFUElOQ1lZM19hYVpLWVR5TG5YYnpsOW03MGlvYWhWMEV1VW5fVl8tb0FWOU83SFViYg?oc=5)
+### [Genome-wide association studies of infant and toddler temperament in European and multi-ancestry populations](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5djRIWWJlVEN5cnpNeTlmYWxPSUlFVUdhMFVEUEp4Tm0wZXloMWR0SDF0SW5Mel9Sa3k4Z3hPS0dGQWNvdnJGWGgzSlVjYTZyVm8wRkNzTUUtN3hwWnFR?oc=5)
 
 2026-07-01 <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMijAFBVV95cUxON2ZPM2h5RUd2WVFicGpUSmVqakZfdlZneVZVRkE5ajAwQmF1ZlJSbng3Yk4xUHNab2dCUl95TFl6YmxOTnMzQ1RQeE91VGZCcmwyNWY1SUxvakVFUElOQ1lZM19hYVpLWVR5TG5YYnpsOW03MGlvYWhWMEV1VW5fVl8tb0FWOU83SFViYg?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5djRIWWJlVEN5cnpNeTlmYWxPSUlFVUdhMFVEUEp4Tm0wZXloMWR0SDF0SW5Mel9Sa3k4Z3hPS0dGQWNvdnJGWGgzSlVjYTZyVm8wRkNzTUUtN3hwWnFR?oc=5)
 
 ---
 
@@ -176,7 +168,7 @@ permalink: /news/sildenafil/
 
 ### [School boy, 14, nearly loses leg to flesh-eating disease after swimming in Cheshire lake - Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVtLS1tU2dLNm56a3NCYkp6eXRLaEM1c0FoN2dzbGYtUzBfbGlOUUJuMktRbG5UWEVtbmVvbDUwQW9lMTN4SUtEMVYyYlYtbVp5dHNadE1JdW9SeHVFaldXZ3Nmb1hyMmo2aE5JaHhMdFNIY3pGbUhqYjNCTG9DYVRoN1E4d1JEWEVTZms2VFfSAZYBQVVfeXFMUHNYMUpxcUZYV3VRRjlhdEFmbWRTN3RkMFhDZWpFc0lHOERGRmpSakdSa1l4eWJPSWdOcWhON3NJVm0xRkxieHhIQVRJQkNrVHBqcWRrcXBBbG1nN0c0WFNWWU1kSW94T2J6NkQydHZzWUJRblh2MEVLa3B6bWcxVW9OVTZFSS1Tb2wxd0IxZVFpcS1CZHZ3?oc=5)
 
-2026-07-01 <span class="news-indication-tag">AF</span>
+2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVtLS1tU2dLNm56a3NCYkp6eXRLaEM1c0FoN2dzbGYtUzBfbGlOUUJuMktRbG5UWEVtbmVvbDUwQW9lMTN4SUtEMVYyYlYtbVp5dHNadE1JdW9SeHVFaldXZ3Nmb1hyMmo2aE5JaHhMdFNIY3pGbUhqYjNCTG9DYVRoN1E4d1JEWEVTZms2VFfSAZYBQVVfeXFMUHNYMUpxcUZYV3VRRjlhdEFmbWRTN3RkMFhDZWpFc0lHOERGRmpSakdSa1l4eWJPSWdOcWhON3NJVm0xRkxieHhIQVRJQkNrVHBqcWRrcXBBbG1nN0c0WFNWWU1kSW94T2J6NkQydHZzWUJRblh2MEVLa3B6bWcxVW9OVTZFSS1Tb2wxd0IxZVFpcS1CZHZ3?oc=5)
 
@@ -214,6 +206,14 @@ permalink: /news/sildenafil/
 
 ---
 
+### [Peptide hype is at an all-time high – I found out the truth - The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU04tRVFKY0gxQ1h5UGtFc0RubUVmM2NpTkRaNGdUNDZlZG8tdTZEWUVxYWJoczJ1OGVZdklucGxRZjZBUzl3a2NLUFlPR01qbXFneUxmMEJUckR2UU5McTdTaGZveGxoWXRSSjV4U1AtMlZkUHltek9ndFZXcHNrMEJqdUFOTVl1WjZ0Mi1JTUlMMmppWGw2M0ZQV0pqTEhVd2NGQjRIdjAzTktxa2M0ZkFRZ052cjZRNDlF?oc=5)
+
+2026-07-01 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU04tRVFKY0gxQ1h5UGtFc0RubUVmM2NpTkRaNGdUNDZlZG8tdTZEWUVxYWJoczJ1OGVZdklucGxRZjZBUzl3a2NLUFlPR01qbXFneUxmMEJUckR2UU5McTdTaGZveGxoWXRSSjV4U1AtMlZkUHltek9ndFZXcHNrMEJqdUFOTVl1WjZ0Mi1JTUlMMmppWGw2M0ZQV0pqTEhVd2NGQjRIdjAzTktxa2M0ZkFRZ052cjZRNDlF?oc=5)
+
+---
+
 ### [Un estudio desmonta la idea de que los biomarcadores del alzhéimer pierdan valor en mayores de 80 - El Confidencial](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHNSY2NoZ3VaeGthc2ZmcjhPbS02UllxRjZGS0hEeVRHUEJIV29yR2dHd3RrSVZxdWVhbnJzbjZfZVQzbUhRLXZ1N0pWNm54QWM2WVJtTzJuZHd6N0RSLUo1VzIyeGp0ZnRYOE40V2N0cWNRNlh1WFhXRTBlZUswR1BKdmh6QlpMZEhWc2h3Q0ZDaHZwcG5xSlVheGt6QkpMR3c?oc=5)
 
 2026-07-01 <span class="news-indication-tag">AF</span>
@@ -238,51 +238,19 @@ permalink: /news/sildenafil/
 
 ---
 
+### [Mystery parasite outbreak spreads to 17 US states - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTd0T29ScWlhSmxUM3RuU2h4WVhEcVlLcHRqbkd1c3NPRVpjTFQ0SmNKR0FUOWJfZFBjaXpjY1AxMEVTNzEzdWo4NDFHSVZBLW96ZHpkeURnYkY2bll4d3pUUWUwVDhiS0Mwb2VGLUtoOXIyRVZmTVlxa3JFMEQ3VEVuSnZRUnhFbU10bm5jV0J1OXdfeF9YNVNB?oc=5)
+
+2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTd0T29ScWlhSmxUM3RuU2h4WVhEcVlLcHRqbkd1c3NPRVpjTFQ0SmNKR0FUOWJfZFBjaXpjY1AxMEVTNzEzdWo4NDFHSVZBLW96ZHpkeURnYkY2bll4d3pUUWUwVDhiS0Mwb2VGLUtoOXIyRVZmTVlxa3JFMEQ3VEVuSnZRUnhFbU10bm5jV0J1OXdfeF9YNVNB?oc=5)
+
+---
+
 ### [Descubren qué ocurre en las arterias cuando existe un nivel 'seguro' de contaminación](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMzFnOG5vSTRKMXhfbUlwYjdYWFJpNlRJNHIyOUwwSmp1Y0FUdDlQZWdlSGcydVJuWnZMVVlBcDNyQmtJb2d1SXhZcUd2UzFvT0tjQlRUckVHZDdxOFJ2SzZRakdRVlBxSWhfT1c3NUFJc0o1UTRVaUdQVkdkemw0TkZpQ044T3h2OVV1Sl9XVmEwUzBQRlNFX1FjemswTXRlVGhPVWhLRTV3UTM0a2F4Qmw1akJxOUhUR2lEdWFDWXh1V01LaFU2bFA5STVGaE8tVTY5anBIREFjMS1RQlFyT0ZDSTQzZw?oc=5)
 
 2026-07-01 <span class="news-indication-tag">AF</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMzFnOG5vSTRKMXhfbUlwYjdYWFJpNlRJNHIyOUwwSmp1Y0FUdDlQZWdlSGcydVJuWnZMVVlBcDNyQmtJb2d1SXhZcUd2UzFvT0tjQlRUckVHZDdxOFJ2SzZRakdRVlBxSWhfT1c3NUFJc0o1UTRVaUdQVkdkemw0TkZpQ044T3h2OVV1Sl9XVmEwUzBQRlNFX1FjemswTXRlVGhPVWhLRTV3UTM0a2F4Qmw1akJxOUhUR2lEdWFDWXh1V01LaFU2bFA5STVGaE8tVTY5anBIREFjMS1RQlFyT0ZDSTQzZw?oc=5)
-
----
-
-### [Farnham woman thought skin cancer after sunburn was birthmark](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSTlHcUdvYnNuLUIzUDljdVlhQWRZUzQ1RVlIWG5ZVGZ4TEtJVlFCQTZkQk84T1lFQjMxazE0cDIzd3hFelZKeXNELVR4ejlLSzdhczg4c3p2TTlR?oc=5)
-
-2026-07-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSTlHcUdvYnNuLUIzUDljdVlhQWRZUzQ1RVlIWG5ZVGZ4TEtJVlFCQTZkQk84T1lFQjMxazE0cDIzd3hFelZKeXNELVR4ejlLSzdhczg4c3p2TTlR?oc=5)
-
----
-
-### [Früher Todesurteil, heute vermeidbar: Hausarzt bietet Schutz vor HIV an - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUNQMGZsNVdwcWg1Vzhqd3pPa2NGNi1ON0duVDBPdmY1NldSYUFqSm5KeVhpYlZlcTVEWUZSVFpqcUlLUHZhdHpRQnc2eHZGUmVhY3hSbi02Ty1zc2hjLWNkOHpXZHRWTk5OeHdSTUlWcWl3RmNfVWQ3QUFXLXdoZGJoSmpuVU1TUUxrMTVqMzVoS3YyLWVzSmFuTG1rZ1lhT1E5Q01sZk1Od005ekZwaGtaU3RTeUZUVHlQVzFSbXc2dHNRcElSQi0yQmotUQ?oc=5)
-
-2026-07-01 <span class="news-indication-tag">AF</span>
-
-來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUNQMGZsNVdwcWg1Vzhqd3pPa2NGNi1ON0duVDBPdmY1NldSYUFqSm5KeVhpYlZlcTVEWUZSVFpqcUlLUHZhdHpRQnc2eHZGUmVhY3hSbi02Ty1zc2hjLWNkOHpXZHRWTk5OeHdSTUlWcWl3RmNfVWQ3QUFXLXdoZGJoSmpuVU1TUUxrMTVqMzVoS3YyLWVzSmFuTG1rZ1lhT1E5Q01sZk1Od005ekZwaGtaU3RTeUZUVHlQVzFSbXc2dHNRcElSQi0yQmotUQ?oc=5)
-
----
-
-### [Dalla Valtellina alla ricerca europea: premiata la dottoressa Alessandra Boletta](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamJMNGk1akxnUXhsclQ1MEF6ZzFEekVzeUozN0ZJczBsOTNrOWFubGY0VGdwYTN6V1I5bkRhQzJ0eGFxbmdsM3pCNTI5MlczUVl3WVoyQXRnRTNQRHJXSkdjWmk4RUd6VDltdEowaF9KanFTM19rZkQ0b1hvcmVUaDZqVUx5eUh4Nk1OdFVjU1M2WkNxSG9YbmFKejRyS3BTdDYxSURRSmY?oc=5)
-
-2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[SondrioToday](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamJMNGk1akxnUXhsclQ1MEF6ZzFEekVzeUozN0ZJczBsOTNrOWFubGY0VGdwYTN6V1I5bkRhQzJ0eGFxbmdsM3pCNTI5MlczUVl3WVoyQXRnRTNQRHJXSkdjWmk4RUd6VDltdEowaF9KanFTM19rZkQ0b1hvcmVUaDZqVUx5eUh4Nk1OdFVjU1M2WkNxSG9YbmFKejRyS3BTdDYxSURRSmY?oc=5)
-
----
-
-### [Lab-grown retinal cells show promise for new eye therapies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OOXAwZTJtNUVZdWZkSllFanVXMlBsdnh6Q0RHNXNzMnY2Z1lpNlNwUm1NYmJhdjdVb1lNU09jRmV5SjFXaEFmYkNoOVJGaFBJVXR0V1ZKVWpHVXJP?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
-
-來源：[EurekAlert!](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OOXAwZTJtNUVZdWZkSllFanVXMlBsdnh6Q0RHNXNzMnY2Z1lpNlNwUm1NYmJhdjdVb1lNU09jRmV5SjFXaEFmYkNoOVJGaFBJVXR0V1ZKVWpHVXJP?oc=5)
-
----
-
-### [Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region](https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3d3X1JLc2lxbUZXUDVGT0FHZ2g3ODdqbmNJTEJtM0U3UWdkUllvWUlFY1poajREMXdvNXFtWnVacGw5NHdFX051Nk95Rk1qUTBDaHV2eU1wT3V0c3RKa09SVkdxZVpLb212YmZIZHNZU0gybWJFdUE3eUFyYlJJaVBWdnkwZE1ZY0RwRw?oc=5)
-
-2026-06-30 <span class="news-indication-tag">AF</span>
-
-來源：[STAT](https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3d3X1JLc2lxbUZXUDVGT0FHZ2g3ODdqbmNJTEJtM0U3UWdkUllvWUlFY1poajREMXdvNXFtWnVacGw5NHdFX051Nk95Rk1qUTBDaHV2eU1wT3V0c3RKa09SVkdxZVpLb212YmZIZHNZU0gybWJFdUE3eUFyYlJJaVBWdnkwZE1ZY0RwRw?oc=5)
 
 ---
 

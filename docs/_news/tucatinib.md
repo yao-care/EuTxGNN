@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="Tucatinib 有什麼相關新聞？">
-<strong>Tucatinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tucatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/tucatinib/
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
 
-2026-07-01 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-02 <span class="news-indication-tag">migraña</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+
+---
+
+### [Adipositas-Therapie: 44% weniger Todesfälle mit GLP-1-Agonisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+2026-07-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+---
+
+### [Jorge Mañez, neurólogo, sobre las migrañas: La irregularidad a la que nos incita el verano hace que haya más dolor de cabeza](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
+
+2026-07-02 <span class="news-indication-tag">migraña</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
+
+---
+
+### [Is your heart healthy? How to protect it at every age - The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+2026-07-02 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
 
 ---
 
@@ -67,46 +91,6 @@ permalink: /news/tucatinib/
 2026-07-01 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
-
----
-
-### ["Hay gente que dice: "Me duele la cabeza, debe ser por la tensión alta", y generalmente no es así, salvo que tengas 250 de tensión; es probablemente porque estás estresado"](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
-
-2026-07-01 <span class="news-indication-tag">migraña</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
-
----
-
-### [Warum ADHS und Migräne so oft gemeinsam auftreten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
-
-2026-07-01 <span class="news-indication-tag">Migräne</span>
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
-
----
-
-### [Ipertensione in gravidanza, lo studio Unimore che può salvare i neonati](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
-
-2026-07-01 <span class="news-indication-tag">ipertensione</span>
-
-來源：[ModenaToday](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
-
----
-
-### [Bluthochdruck: Sartane zeigen beste Verträglichkeit in Meta-Analyse - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
-
-2026-06-30 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGFSQ2JMTHZIUzhQbkVQR1RuRkhGQjZ6RUtvMWFES1pVaTJOLXFzUGFiNVNsSWlrbmpFZ0ZUQmExNFo0VnhNYlY4dWNvdkJKNnpYSS1JelFKV2dsR2Z1RnpiRDAtLUZ2dm10dktyc3l5S09XMkI5TGtfM2pOT1hSc2xzd3VDVjlZWmtkbVl3ZUpNU3V2TnhOVm9MTFhmN05YNC1wSnA3LU5hMElkS2hjZXdEblotRU0?oc=5)
-
----
-
-### [Vous somnolez en journée ? C'est peut-être un signe avant-coureur d'une maladie silencieuse](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnB0dEh5OEZGbVotVEM4cXVMRXJCdTBaUjlkY0g5ajlyTzBLUExaOFhlMWtaa2tPVk1VU05NQUVGS3ZoT1JOVWpRXzhtMnVxRVY2enh6dmtYRGpPWWtYcllVYjZhSnlKd095TWc3aVBPOGhnOE9kcHhsdjZQRU5DaHc4NW4?oc=5)
-
-2026-06-30 <span class="news-indication-tag">hypertension</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnB0dEh5OEZGbVotVEM4cXVMRXJCdTBaUjlkY0g5ajlyTzBLUExaOFhlMWtaa2tPVk1VU05NQUVGS3ZoT1JOVWpRXzhtMnVxRVY2enh6dmtYRGpPWWtYcllVYjZhSnlKd095TWc3aVBPOGhnOE9kcHhsdjZQRU5DaHc4NW4?oc=5)
 
 ---
 

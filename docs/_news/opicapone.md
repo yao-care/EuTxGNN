@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Sudden craving of 3 foods 'could be early sign of dementia' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5)
 
@@ -64,9 +64,17 @@ permalink: /news/opicapone/
 
 ### [The diet that’s proven to lower blood pressure and prevent dementia - The Telegraph](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWEs5WVpVX2FkUTA0Z2xJOWRVVmx2eUU1OXR3OEpjRVl2aWg2Zkg0M2tyMTQwekZXcTMxWVFWYnMyc21lay01Y2pKRU5lNGlwX0Q2dFZMaDc0MWpVbEVPX1ROb1pTUGFvN2lkbmxIQV9FU24xWE9J?oc=5)
 
-2026-07-02 <span class="news-indication-tag">Alzheimer's</span>
+2026-07-02 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMid0FVX3lxTE1nWEs5WVpVX2FkUTA0Z2xJOWRVVmx2eUU1OXR3OEpjRVl2aWg2Zkg0M2tyMTQwekZXcTMxWVFWYnMyc21lay01Y2pKRU5lNGlwX0Q2dFZMaDc0MWpVbEVPX1ROb1pTUGFvN2lkbmxIQV9FU24xWE9J?oc=5)
+
+---
+
+### [Doctor explains people who never get dementia make the same decision within 30 minutes of waking up](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUx2RzFsb2N5WmtKX3JiaFNPaV9mLWFsOTd6eG91NFc3dXZXajJIYWpndTFGemNheFdqajBWc0dzVXo2a0VpMnowU2c2SmM2Ni1ZaWVnSnVRLWZUNXY3dHNpbFJZd3ptZWZPelE3WHY1bVEzaXlTU3lpanRibUF0YW00M2N5dlhXc1VMaUlCOGxhQ0lacFE?oc=5)
+
+2026-07-01 <span class="news-indication-tag">dementia</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUx2RzFsb2N5WmtKX3JiaFNPaV9mLWFsOTd6eG91NFc3dXZXajJIYWpndTFGemNheFdqajBWc0dzVXo2a0VpMnowU2c2SmM2Ni1ZaWVnSnVRLWZUNXY3dHNpbFJZd3ptZWZPelE3WHY1bVEzaXlTU3lpanRibUF0YW00M2N5dlhXc1VMaUlCOGxhQ0lacFE?oc=5)
 
 ---
 

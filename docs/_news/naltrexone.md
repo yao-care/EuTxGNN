@@ -54,6 +54,14 @@ permalink: /news/naltrexone/
 
 ## 相關新聞（8 則）
 
+### [Adipositas-Therapie: 44% weniger Todesfälle mit GLP-1-Agonisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+2026-07-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+---
+
 ### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 
 2026-07-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span>
@@ -86,14 +94,6 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
-2026-07-02 <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
----
-
 ### [Los adultos con obesidad han reducido el colesterol y la presión arterial, pero los expertos advierten: “Los jóvenes se están quedando atrás” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLWVsWkpIZm53dVdwVzduMFg5em41Zm1xRnVDZTV0VmdhX1lEVXBKN0hRVlBhMnJmTjdIYm93aFdfbkFyMFZKZExwOWFLd1VKYXBmTFhrTFFDUGlTZGtRa21IQ0ozSDU3aGlLSGFGc2U0S21MWG9Mc2hOaElvTEJSbWtUMU40VWVfVHhSRXNxekdlajQxWnoybFJ2bE9OVG5ONVV5SG4ta19NZ29pRWtuNkw4cm1ISFpvOWZ4dTB4RHFCYmtOb0VyLVJjdEtjTkQtcVp2ajd5VlA2LVpMS05VctIB5gFBVV95cUxOa0xVaTM1Uy1LbWpyQzFRRlZfX2k2SUhYV2JnRElta0ZrS3E5c0VCTktXQnl5UDlYRDA2N0s1MEJKZ0pqVDZwZEtGSkpycUtJTWNNZ21yekxhRXVPcnZPYVYxN2d3MWt0QmpFd3J2cjlOYzE1ZUowS3BZNUQtdHlySG9jd3ZaNnYyS0RlTzJNZlNmMzJvNTVPS3lNUFV4N1hVTXJZZGx3RUViR3d6VnNReEFuZklqRGhxQ0hSb2FJdFIwbDBTdk1NX2RYcThna0JrZFNrUUFXMFZQQWZjVS0yTXVkeXVmZw?oc=5)
 
 2026-07-02 <span class="news-indication-tag">obesidad</span>
@@ -102,11 +102,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+### [Statins ‘cut heart risk gap between obese and slim adults’ - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tFcExrLXFlSGk4c0NkWlhtVjlwcDg4M3JHOWtxOVFIbkZPbG1ZQk45RXBGTEg4RFI5cDcwS3lFaVpsaHdZNU81clBjaG9UQ1FEYmZZamFreGtVUlYta0hQWVVxWXJQcFB0U1NnV2VDWDNHNEpjSE85bDN6YXI5MEF1Rl84d2cydFRSck1uMkVFUEZDNkxlU0Y2UEFNSnEyQXBMLUszNl9tOHFX?oc=5)
 
-2026-07-01 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-01 <span class="news-indication-tag">obesity</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tFcExrLXFlSGk4c0NkWlhtVjlwcDg4M3JHOWtxOVFIbkZPbG1ZQk45RXBGTEg4RFI5cDcwS3lFaVpsaHdZNU81clBjaG9UQ1FEYmZZamFreGtVUlYta0hQWVVxWXJQcFB0U1NnV2VDWDNHNEpjSE85bDN6YXI5MEF1Rl84d2cydFRSck1uMkVFUEZDNkxlU0Y2UEFNSnEyQXBMLUszNl9tOHFX?oc=5)
 
 ---
 

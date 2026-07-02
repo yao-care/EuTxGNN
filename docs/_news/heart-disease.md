@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Is your heart healthy? How to protect it at every age - The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+2026-07-02
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+---
 
 ### [Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen - Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
 

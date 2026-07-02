@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/brexpiprazole/
 
 ---
 
-### [Probiotika gegen Depressionen im Alter - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTZOUThFZ3RsNmotbVRVM1B5SURxMFNhbVB3WGF3QjhxR0I2dDY0SEloeTctOVhmb0VoWDNhcG1kQTE1ZlMyQmZla253ZTJhZUFqaW40LUZjWWVOalhUTlZLYTRsSzNrYmRRc1VzSkw2bHFaSmJMQmdlbk9HbXowdnZQYklFZy0zTkZOd3VCbzVnOVNQV21ocFZSamgybTEwQnNlYVJoQ3E2NkRLWjI4WWZCSlljcm5ReVhzeFJoRkFvSXBpdmY0ckh4U2dGSDJ1Y1E?oc=5)
+### [The 13p-a-day supp to turbocharge weight loss and beat brain fog & depression - The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
 
-2026-07-02 <span class="news-indication-tag">depression</span>
+2026-07-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTZOUThFZ3RsNmotbVRVM1B5SURxMFNhbVB3WGF3QjhxR0I2dDY0SEloeTctOVhmb0VoWDNhcG1kQTE1ZlMyQmZla253ZTJhZUFqaW40LUZjWWVOalhUTlZLYTRsSzNrYmRRc1VzSkw2bHFaSmJMQmdlbk9HbXowdnZQYklFZy0zTkZOd3VCbzVnOVNQV21ocFZSamgybTEwQnNlYVJoQ3E2NkRLWjI4WWZCSlljcm5ReVhzeFJoRkFvSXBpdmY0ckh4U2dGSDJ1Y1E?oc=5)
-
----
-
-### [Creatine for Depression: Study Shows Promising Results for Symptoms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
-
-2026-07-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/brexpiprazole/
 2026-07-01 <span class="news-indication-tag">depression</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnBBQTQyRFl6VGFXd2pfdGFQSHN2T0x1ZzE4YlNxRHB1REw4N3FfMTBIUlY3Q25wZXktZ2FacHdzLWFXUnVWMEhCT1drbU0xT0VGUnlvcGRkVWlsQUZlZXdpSVVaTzJsRDRTdTE1Z0c2bzZrVFFVY1BzTHV5cWM5LWIxT3Nrbi1KaUwzWmNlYXNPSkhucXc2WU5hanMwcklUYk5XZGk4OA?oc=5)
-
----
-
-### [Jóvenes piden ayuda por síntomas de ansiedad y depresión - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm1Vc2pha2pBbTRvUlhVRllPclBCRUtRanhYSzRvZ2l4c3NVUW5EaFJRbERVelBCVGhyVGpYWmo3eFNyRUljcnNSZDdpV1RVUWZhNVhuYmZxN0cyYWNqZ0tWS3Y5blNoQjd6YWlnYlAyd3Q2cHFnUU1HeU5MQ0R0SUhkRnZmcUk3UXVKZTFORzhoSkxDVERNbmlBMnBvc1A1aldVTTBOMm11SXFVSWdSLTBGenVta1lBT1g5ek5tb3VPZ2Z0SzdXVQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">depresión</span>
-
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm1Vc2pha2pBbTRvUlhVRllPclBCRUtRanhYSzRvZ2l4c3NVUW5EaFJRbERVelBCVGhyVGpYWmo3eFNyRUljcnNSZDdpV1RVUWZhNVhuYmZxN0cyYWNqZ0tWS3Y5blNoQjd6YWlnYlAyd3Q2cHFnUU1HeU5MQ0R0SUhkRnZmcUk3UXVKZTFORzhoSkxDVERNbmlBMnBvc1A1aldVTTBOMm11SXFVSWdSLTBGenVta1lBT1g5ek5tb3VPZ2Z0SzdXVQ?oc=5)
 
 ---
 

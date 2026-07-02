@@ -14,7 +14,7 @@ permalink: /news/dapagliflozin/
 ---
 
 <p class="key-answer" data-question="Dapagliflozin 有什麼相關新聞？">
-<strong>Dapagliflozin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dapagliflozin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dapagliflozin/
 <p><a href="{{ '/drugs/dapagliflozin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（8 則）
+
+### [Prädiabetes: Lebensstilintervention, nicht aber Metformin kann vor Multimorbidität im Alter schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
+
+2026-07-02 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
+
+---
 
 ### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
 
@@ -67,6 +75,22 @@ permalink: /news/dapagliflozin/
 2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
+
+---
+
+### [Diabetes-Medikamente senken Alzheimer-Risiko: 43% und neue Präventions-Impulse - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHJzTXpZdWJWQzZ6QTJqTS1KOFFRS2dMNDVLcmFiWUFjcVBDUnlmckVYMFBqTUl3NzItMHB6WnhETDZmc0ZjZFlXZm8ycklaOGNlTUotTnRqWExqeFZvTThjdVA4SFcwMHNRNkVHTDdmbTViTVkzWHVSZDdnclIxWGxGc2RuLVh1Yk9aSThjbFFWUWlPNk81bHdoQW9jNER1d1FQeUs0Ni1nOWVIWmc?oc=5)
+
+2026-07-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHJzTXpZdWJWQzZ6QTJqTS1KOFFRS2dMNDVLcmFiWUFjcVBDUnlmckVYMFBqTUl3NzItMHB6WnhETDZmc0ZjZFlXZm8ycklaOGNlTUotTnRqWExqeFZvTThjdVA4SFcwMHNRNkVHTDdmbTViTVkzWHVSZDdnclIxWGxGc2RuLVh1Yk9aSThjbFFWUWlPNk81bHdoQW9jNER1d1FQeUs0Ni1nOWVIWmc?oc=5)
+
+---
+
+### [Studie zu Fettleber, Diabetes und Ernährungsrisiko: Rindfleisch erhöht Gefahr - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNalRyZHZVNC1yM1Q3ZE9La00teVk3RHQ0WUF1UnptcHJ3cnV6U2Vqcnh2UlhWMk92c3R6TWpDLXhUcUJVTWl6b1JqSGYtdEU2bnFqMUxNMUZFVk4zWU8wbENXYTFpT0hTX3E1MFR4TUt1bmV2Z3FfWXBhRkNsVEF0WVh1bW80VFNLT3JzZzNHS0RvUEFiaWVldUZWVW52M0hPMC1BRHp1Y01VT19IcUE?oc=5)
+
+2026-07-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNalRyZHZVNC1yM1Q3ZE9La00teVk3RHQ0WUF1UnptcHJ3cnV6U2Vqcnh2UlhWMk92c3R6TWpDLXhUcUJVTWl6b1JqSGYtdEU2bnFqMUxNMUZFVk4zWU8wbENXYTFpT0hTX3E1MFR4TUt1bmV2Z3FfWXBhRkNsVEF0WVh1bW80VFNLT3JzZzNHS0RvUEFiaWVldUZWVW52M0hPMC1BRHp1Y01VT19IcUE?oc=5)
 
 ---
 
@@ -86,59 +110,11 @@ permalink: /news/dapagliflozin/
 
 ---
 
-### [Leaky Gut durch tierisches Protein: Studienlage zu Entzündung, Barriere und Diabetesrisiko - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
+### [Tegoprubart nach Inselzelltransplantation: KI-sicherere Perspektive für Typ-1-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1FKb2dFbml0X21NYjllb0FtR18wZlF4ZVFKRVY2X3F3UG4tMlNhdExJYWZabElJOTdxNUZud29zQmd4YjRUWEpWcDZYZ3pmd2k2YnVVMmltQVFvR3Q3Uzl2U2xkN21BZGR2blFsWWVVT0oyeEJiUUZjMVhIY0R6OUVKc2MwLWVtcWhLUnoyYXZpcVhIUkFPWmV3bHpnWVNaMXZQdHhKU3FuQ1A4aHpmWDdyVE5KT213dXc?oc=5)
 
 2026-07-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxONDUzN21lNnVFbzJzMHZMSWxmbWZVcU1lLUVrSDZrZ0FpNmJncTlERXd2Q3ZOaHFrSlZWeWMxY2tVSjRqUi1HaWY5Y05TRHJldnF6bXlOWWNERjFsLWhOSmxyZlJhVkQwNjNxV1ZoSjNNWThJNXFMbEhvanh3Tlc4TXB3YXdGMWp2VktzMm9KUGx5SF9ialcwMEJJR1VEc004TGh6ZmtCSE9sQjlNTmpEUkR0NGlKaWhTZXVKTW5B?oc=5)
-
----
-
-### [Typ-1-Diabetes: Teplizumab verzögert Ausbruch um bis zu 3 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZGaUxTZ2xrRDJydmw0ZFRteTNMaUY3LWkydlVzUTY2VzdiY2syVlZJNTdXWE00cURiQmJWS1c4a2hMc2ZjaUZ5anFXd0RzbjZQZjh6TVp3cHZJRkZ0WDR2cmhBREFpRHZOSUsxTWh1dFVjYlZZTkM0eXVKbW9rN1c0SmNoX3VfTHdfcmM1aUVVNmJWZ2xjeDRNQzJoMXhCOEo4VmE0cGFTVHV6V0p2Sy13?oc=5)
-
-2026-07-01 <span class="news-drug-tag">Teplizumab</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVZGaUxTZ2xrRDJydmw0ZFRteTNMaUY3LWkydlVzUTY2VzdiY2syVlZJNTdXWE00cURiQmJWS1c4a2hMc2ZjaUZ5anFXd0RzbjZQZjh6TVp3cHZJRkZ0WDR2cmhBREFpRHZOSUsxTWh1dFVjYlZZTkM0eXVKbW9rN1c0SmNoX3VfTHdfcmM1aUVVNmJWZ2xjeDRNQzJoMXhCOEo4VmE0cGFTVHV6V0p2Sy13?oc=5)
-
----
-
-### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzNGOTBQWWxxTUxfdS1UbUs3ODJob2lncG80VGY1emJjTUZUZHJ1eDlUQUdJZXFRTWxFOWphZWNDY2xQbnUtUGc2eU43aHJsdFoxazVkZHJTQkVxaFFObS1FWVY5OE9rcHVPNmRBVGxLMS1rc3dfRVdsclV1aW1RZTlVUzZaSi0tLVFTbk11azZxck1ObjVfQmRWcEVTM0h1eHRpZlByalF4Wk1qemNQcXRQVlpHZEpiNW5v?oc=5)
-
-2026-07-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzNGOTBQWWxxTUxfdS1UbUs3ODJob2lncG80VGY1emJjTUZUZHJ1eDlUQUdJZXFRTWxFOWphZWNDY2xQbnUtUGc2eU43aHJsdFoxazVkZHJTQkVxaFFObS1FWVY5OE9rcHVPNmRBVGxLMS1rc3dfRVdsclV1aW1RZTlVUzZaSi0tLVFTbk11azZxck1ObjVfQmRWcEVTM0h1eHRpZlByalF4Wk1qemNQcXRQVlpHZEpiNW5v?oc=5)
-
----
-
-### [El consumo habitual de aceite de orujo de oliva podría disminuir el riesgo de diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQklyNDRtLUYxMDFlcGlFNG94Z0N5WDZXQTN1TncxcVkwWGZKMElKVjZjRndLczVEeUduZlZVRTFJTHA3VWdLNVhyNVByaVNvdmNYX00wazhJbk5rUi1qZU9iYi14R2EyNmV5T0NXMjR4OE5Eb09iTlI2cHVxV05qOUNXb1J5YWd6MWhOdHVDYWJPSzhoMGwtclNwTTJNS1ZfOEpXZUh6akdCbUZqNGlyRnZoTVRBYzRPTlVyNlVsUjJUd9IBvAFBVV95cUxNNHhMNjc0dVhpTEVVQU5mYmtfR0JIVUY1dV9uajdCTVBXc1lTUnhXcjlzNS1uUVNjeVVhTmc4TmQyZVRFbjhjakxxemVxSlZULU9BckRmRjZyajh4cFFraThwMHhaOUlzNzlsMUp6YnVySzFLaHB5SEkweC03V1B5UUVqWEpucDI5cElxQkJHcDVsUEpBMDZZVXJQc3Qzby1hdWZsdHROXzFzZHNnSTN3SktBaHRqODRNZ1N4NQ?oc=5)
-
-2026-07-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQklyNDRtLUYxMDFlcGlFNG94Z0N5WDZXQTN1TncxcVkwWGZKMElKVjZjRndLczVEeUduZlZVRTFJTHA3VWdLNVhyNVByaVNvdmNYX00wazhJbk5rUi1qZU9iYi14R2EyNmV5T0NXMjR4OE5Eb09iTlI2cHVxV05qOUNXb1J5YWd6MWhOdHVDYWJPSzhoMGwtclNwTTJNS1ZfOEpXZUh6akdCbUZqNGlyRnZoTVRBYzRPTlVyNlVsUjJUd9IBvAFBVV95cUxNNHhMNjc0dVhpTEVVQU5mYmtfR0JIVUY1dV9uajdCTVBXc1lTUnhXcjlzNS1uUVNjeVVhTmc4TmQyZVRFbjhjakxxemVxSlZULU9BckRmRjZyajh4cFFraThwMHhaOUlzNzlsMUp6YnVySzFLaHB5SEkweC03V1B5UUVqWEpucDI5cElxQkJHcDVsUEpBMDZZVXJQc3Qzby1hdWZsdHROXzFzZHNnSTN3SktBaHRqODRNZ1N4NQ?oc=5)
-
----
-
-### [Lab-grown retinal cells show promise for new eye therapies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OOXAwZTJtNUVZdWZkSllFanVXMlBsdnh6Q0RHNXNzMnY2Z1lpNlNwUm1NYmJhdjdVb1lNU09jRmV5SjFXaEFmYkNoOVJGaFBJVXR0V1ZKVWpHVXJP?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
-
-來源：[EurekAlert!](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OOXAwZTJtNUVZdWZkSllFanVXMlBsdnh6Q0RHNXNzMnY2Z1lpNlNwUm1NYmJhdjdVb1lNU09jRmV5SjFXaEFmYkNoOVJGaFBJVXR0V1ZKVWpHVXJP?oc=5)
-
----
-
-### [Semaglutid zeigt Effekte auf Biomarker – aber nicht auf den auf Krankheitsverlauf - Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2lMY2d0Z2ZhNFRPVzJWaThOMGlZbWEwamd3YUNLa1ZuUmJYVlUyQU9HVVFPSW9KSnpleWQ3WGU0cUNscXNNTWt6bk1WVkN1d1p5R1RQOElSMWY4ZXZjY0k2aXUtWnh4RVFyM29zSnd1UTJDaHJXTnZnTzhDajc0NUNCdHlwdXR4QnpRbVh1ZW9PYnJXVVA4YVltY2t1ZFV3X2hpb1VkaGo4bDFlUl9lT0pJcHo0Z2tLa19uOWh1ME81cmhmdVJyZ1N5VQ?oc=5)
-
----
-
-### [Prädiabetes: Gewichtsverlust schützt nicht alle - Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
-
-2026-06-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTBNNXY0RFctRWEtZ1djNEpHdEw1eXNUUEJyc21Ic1JpTjU2RTVTVUE3WmRjZlJ0aFYzWUxfVjVEYk15ekFiSTdhd3FSZ0VqbVZVM1NkZGRMbEtpTU50bG11QTFJQUptNzljNWZ5MXV1QnBLMHpkVE9JVkg2ak5qTDB0STdtTm9aRGNnd1RWMTFSS25GcWMtbEdlcnpnRGJ1S2lLa1FJWXozZzVBTG9fS0xTcHc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1FKb2dFbml0X21NYjllb0FtR18wZlF4ZVFKRVY2X3F3UG4tMlNhdExJYWZabElJOTdxNUZud29zQmd4YjRUWEpWcDZYZ3pmd2k2YnVVMmltQVFvR3Q3Uzl2U2xkN21BZGR2blFsWWVVT0oyeEJiUUZjMVhIY0R6OUVKc2MwLWVtcWhLUnoyYXZpcVhIUkFPWmV3bHpnWVNaMXZQdHhKU3FuQ1A4aHpmWDdyVE5KT213dXc?oc=5)
 
 ---
 

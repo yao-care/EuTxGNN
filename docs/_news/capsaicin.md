@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Capsaicin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Is your heart healthy? How to protect it at every age - The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+2026-07-02 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
+
+---
 
 ### [Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen - Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
 

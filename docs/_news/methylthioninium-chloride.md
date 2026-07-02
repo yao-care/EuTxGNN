@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Lungenembolie: Protonenpumpenhemmer erhöhen Exazerbationen um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFwcUg5amxTRWtwMUtFT2FyOHZaR01CaFlVb1NHRFhYaWt2YTVCeHlWSDRDMlZfb0RyYUtRaTdwYTM0SnRUSG5TLXlZNThCRzhDRjFEd2ZmaHVqcWNNS3ZQWWl5NUpadjBrdzNjaXdsNC1oMjJCZTVuenpORnZiVUh0RDk3bGVHQXd4OUd5VWtJRnlXZFZtUG0zSkFVU0p2TW9nMl9pa3U1aVk5dVFXckcyR0VjdnBobnVWbmRR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFwcUg5amxTRWtwMUtFT2FyOHZaR01CaFlVb1NHRFhYaWt2YTVCeHlWSDRDMlZfb0RyYUtRaTdwYTM0SnRUSG5TLXlZNThCRzhDRjFEd2ZmaHVqcWNNS3ZQWWl5NUpadjBrdzNjaXdsNC1oMjJCZTVuenpORnZiVUh0RDk3bGVHQXd4OUd5VWtJRnlXZFZtUG0zSkFVU0p2TW9nMl9pa3U1aVk5dVFXckcyR0VjdnBobnVWbmRR?oc=5)
+
+---
 
 ### [Gemischte Ergebnisse für Astegolimab bei COPD-Exazerbationen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
 
@@ -62,27 +70,11 @@ permalink: /news/methylthioninium-chloride/
 
 ---
 
-### [Protonenpumpenhemmer: 25% höheres Asthma-Risiko bei Dauergebrauch - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ04wMWhnRUJlTXJXY3JZSVdJZGNpekNXd0xYQlZwZXA2clFFYUF5bVBMcXVkakhaNkRLMnNoZkt5UU1rWjJvTmllbFVOSlhpSlBSU002cnJCN0U4MUhWMVlkTHIza3QxeFBGU0ExWnVUV1ptM2VzeXk4N2ZsZHR0SWNsd3pmcGZlSXZVUEMxT3ZhbENpODhZcnN6U1lYSFNSSUNoR0pUM3Z5NXktc05xbXRQU2UzQ1RFMlV6dGZR?oc=5)
-
----
-
 ### [‘Genuine hope’ for COPD patients as new jab is rolled out on NHS - Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZlUk0yM3dpUVpSNHM3TEtXSTg2bFl3QUlKS3dfZVhDNlVENXdtQ1VmZ2JwLU1RYXBEVW1adGR2UmltV3JuQmlPSXRxSHdFampaSVh5Vk5iWFJLdVl6dXM2aTdXM2dwd3pON2ljZ0p4UzI0REw5ZmNXVkdLR3p4NDF6NVNtLUphMEJ5Z1FMSUjSAZYBQVVfeXFMTmttS0xqNjBNRzhBTE5TVU1vTnl2NGsySDlXOHRsSnVFZkRKdlpYdkpOSVlZaHgwUFhPcjBTd0pBWGoxTXVYWndfazQzY0NlTzRhSXNoWWRyYTZySy1rWkljQXJyZlgyLThKRG8tcklCLU5la3ZDQVlJR0Vwb0R5NDFEcEFMRGFHQzNKSWh6ZTZqLWU0am93?oc=5)
 
 2026-07-01 <span class="news-indication-tag">copd</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFZlUk0yM3dpUVpSNHM3TEtXSTg2bFl3QUlKS3dfZVhDNlVENXdtQ1VmZ2JwLU1RYXBEVW1adGR2UmltV3JuQmlPSXRxSHdFampaSVh5Vk5iWFJLdVl6dXM2aTdXM2dwd3pON2ljZ0p4UzI0REw5ZmNXVkdLR3p4NDF6NVNtLUphMEJ5Z1FMSUjSAZYBQVVfeXFMTmttS0xqNjBNRzhBTE5TVU1vTnl2NGsySDlXOHRsSnVFZkRKdlpYdkpOSVlZaHgwUFhPcjBTd0pBWGoxTXVYWndfazQzY0NlTzRhSXNoWWRyYTZySy1rWkljQXJyZlgyLThKRG8tcklCLU5la3ZDQVlJR0Vwb0R5NDFEcEFMRGFHQzNKSWh6ZTZqLWU0am93?oc=5)
-
----
-
-### [Two cheap vitamin supplements 'cut risk of asthma attacks' with added bonus of slowing ageing - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
-
-2026-06-30 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnlacTNMNlRHSVB0NGE3X1ZIMmtVNW12czloSlh1Q2NkVmdUQVBpVlB0NEt6bXNNcjNleUtCRnl4c185RHR1TnpxV1pxc0p1Vy1CZC10WXZ3NVIzMHd6ZmdPek1fdElaVEg4MUUtVUs2VVloN0pLME5yWFNxQTZmdDVMYTBRT3M5YjBwTg?oc=5)
 
 ---
 

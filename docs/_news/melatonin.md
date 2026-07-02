@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">migraña</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+
+---
+
+### [Adipositas-Therapie: 44% weniger Todesfälle mit GLP-1-Agonisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+2026-07-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+---
 
 ### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 
@@ -78,19 +94,19 @@ permalink: /news/melatonin/
 
 ---
 
+### [Jorge Mañez, neurólogo, sobre las migrañas: La irregularidad a la que nos incita el verano hace que haya más dolor de cabeza](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
+
+2026-07-02 <span class="news-indication-tag">migraña</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
+
+---
+
 ### [Neue Definition: Häufig Adipositas schon bei normalem BMI - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWJEYV8yMjZSbUUtaGhKc0Q4a3ZNYkkzYjB5eHItSVdfQUJVeVpvclRPUERZVG1Fcm1YUTNGMEhfTll0azhiY2hkZjdKVTdTRzNHcXM1Zm1Va1BtU1lrc1VZVTdWMVd4ZnBTVmpkVXlsT3hlWW9YdkVBMEo2YU9RODktTnlYRF9TNlpmYzFHMGlvUQ?oc=5)
 
 2026-07-02 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWJEYV8yMjZSbUUtaGhKc0Q4a3ZNYkkzYjB5eHItSVdfQUJVeVpvclRPUERZVG1Fcm1YUTNGMEhfTll0azhiY2hkZjdKVTdTRzNHcXM1Zm1Va1BtU1lrc1VZVTdWMVd4ZnBTVmpkVXlsT3hlWW9YdkVBMEo2YU9RODktTnlYRF9TNlpmYzFHMGlvUQ?oc=5)
-
----
-
-### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
-2026-07-02 <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
 
 ---
 
@@ -102,11 +118,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+### [Statins ‘cut heart risk gap between obese and slim adults’ - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tFcExrLXFlSGk4c0NkWlhtVjlwcDg4M3JHOWtxOVFIbkZPbG1ZQk45RXBGTEg4RFI5cDcwS3lFaVpsaHdZNU81clBjaG9UQ1FEYmZZamFreGtVUlYta0hQWVVxWXJQcFB0U1NnV2VDWDNHNEpjSE85bDN6YXI5MEF1Rl84d2cydFRSck1uMkVFUEZDNkxlU0Y2UEFNSnEyQXBMLUszNl9tOHFX?oc=5)
 
-2026-07-01 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-01 <span class="news-indication-tag">obesity</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tFcExrLXFlSGk4c0NkWlhtVjlwcDg4M3JHOWtxOVFIbkZPbG1ZQk45RXBGTEg4RFI5cDcwS3lFaVpsaHdZNU81clBjaG9UQ1FEYmZZamFreGtVUlYta0hQWVVxWXJQcFB0U1NnV2VDWDNHNEpjSE85bDN6YXI5MEF1Rl84d2cydFRSck1uMkVFUEZDNkxlU0Y2UEFNSnEyQXBMLUszNl9tOHFX?oc=5)
 
 ---
 
@@ -123,30 +139,6 @@ permalink: /news/melatonin/
 2026-07-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
-
----
-
-### ["Hay gente que dice: "Me duele la cabeza, debe ser por la tensión alta", y generalmente no es así, salvo que tengas 250 de tensión; es probablemente porque estás estresado"](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
-
-2026-07-01 <span class="news-indication-tag">migraña</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMioAJBVV95cUxOalUyWUZPRWRoUW1BUFU3SUpwaXZvUF9BUExiWTU5VFJsVVV0RFQ1QWp2OG9BOEE4WHBUYTlmbG54U0dlUGhCRVQtd3JDdFEwc1F1MDQxVXF5ZWVnOTZ3b1VCbDN5TkFFNk04U0w0ckFJZnhXZ19mbXRWSUY2WUltTklqSzQ2WlFuRERwSU1iSDFTcmVQSDI5QTE3Q2MxTmxfVVFmVk1PRjE0S2lxM0o2UndhNE1VeWtnV0NEN1dvd2tCOGZ0WndqQ2FaSEJ1MlkzOGs0SVZGN1lXRl9HY0Z4R0tyRlNrbHc5TVpLa1h0X250U3pyeU1GVVB3M0MtOHVWUHU1bWdvLXNETS03S3ZXYmp4X0ZtS1l6NDkyWWR6bnHSAaYCQVVfeXFMTkFsTUdGTjJKemdfWG5ZRzdQdVdDR005UEN3V1NTU25UV1FzVHMta0FSSDdyTFcxSGZqT0JaSTA2QU5feUFMNWtDRVpmR3pVaXBXUEc1OEVZY1FsVHo4V3JRX2lmVUlFUkcyWjhOQmhLNFNRWEs4N2NCQ0QtMWdLYmdhbFBwRUp1bEc5YXNjYmwteW1Rc2xWR0k4dEQ2SnVCR2pJckpYZTlkME1lNTRSNGY5OTBaTGVHV3lUY1NvOTVhNFZxU1Z2Vkw4SXRkemxKWlUzUXpITTNqbjJCZkJzUFVGWGE4Q2VtcS1Kd0IyRlRNY2c0NW9fSUk4LWs2LTBwUWJSVnJFRVF4N2ZiTlA5ZmlnNVBwYVkyWkpqTlBlSkM0NWVTYTl3?oc=5)
-
----
-
-### [Ni paracetamol ni ibuprofeno: un nuevo estudio apunta al potencial de la melatonina para aliviar el dolor crónico](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXE4UnVMTThWMmxjV3VYUHhkOE1HVi1hZGV5czVrSFBfVUhqRFZ1dUdCeXZobGxqRU0tOEpFWjFkSjgycTZkVmVHaXJVWWE0TENqdUp1ck40aEtYd0hnM3NtQ05CY0szbElyWGZlcUlkclZYUE9IdG5HMTlJemJxZEpSNlpQRkpWbkZ6YmRrRXRPMzhNT1RiZktNbWo4d2hkRDVkMjM3bGtIWjF5ajROTkFNT2xzVWpnV2NDZjhNSWc2YW02OTM5WkZnSXl0bmxBT0d6MDFjdVM2UXVLeTdqQklfMA?oc=5)
-
-2026-07-01 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Melatonin</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXE4UnVMTThWMmxjV3VYUHhkOE1HVi1hZGV5czVrSFBfVUhqRFZ1dUdCeXZobGxqRU0tOEpFWjFkSjgycTZkVmVHaXJVWWE0TENqdUp1ck40aEtYd0hnM3NtQ05CY0szbElyWGZlcUlkclZYUE9IdG5HMTlJemJxZEpSNlpQRkpWbkZ6YmRrRXRPMzhNT1RiZktNbWo4d2hkRDVkMjM3bGtIWjF5ajROTkFNT2xzVWpnV2NDZjhNSWc2YW02OTM5WkZnSXl0bmxBT0d6MDFjdVM2UXVLeTdqQklfMA?oc=5)
-
----
-
-### [Warum ADHS und Migräne so oft gemeinsam auftreten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
-
-2026-07-01 <span class="news-indication-tag">Migräne</span>
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUozeU95VWlSWTBYZHF2OWg1Y1cwUkl5WUJ3V1hhNV9OQUNseHNtMHFQQjM5VVE5c1E2a1hWdEU5TDFZWkNrX05CUV9wZk8yLUVrcFVaMTd6SDFaTHRaNVp5OXYwUlBVNEtDVTR1Y0xHcWFZYmJLcmRYX3RwaGs2dTZSMWlCTTNUT2F6RU12TUZYSmlITGw2M0dYRVhQNkFqR1E?oc=5)
 
 ---
 

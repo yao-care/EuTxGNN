@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Adipositas-Therapie: 44% weniger Todesfälle mit GLP-1-Agonisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+2026-07-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+
+---
 
 ### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 
@@ -86,14 +94,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
-2026-07-02 <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
----
-
 ### [Los adultos con obesidad han reducido el colesterol y la presión arterial, pero los expertos advierten: “Los jóvenes se están quedando atrás” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLWVsWkpIZm53dVdwVzduMFg5em41Zm1xRnVDZTV0VmdhX1lEVXBKN0hRVlBhMnJmTjdIYm93aFdfbkFyMFZKZExwOWFLd1VKYXBmTFhrTFFDUGlTZGtRa21IQ0ozSDU3aGlLSGFGc2U0S21MWG9Mc2hOaElvTEJSbWtUMU40VWVfVHhSRXNxekdlajQxWnoybFJ2bE9OVG5ONVV5SG4ta19NZ29pRWtuNkw4cm1ISFpvOWZ4dTB4RHFCYmtOb0VyLVJjdEtjTkQtcVp2ajd5VlA2LVpMS05VctIB5gFBVV95cUxOa0xVaTM1Uy1LbWpyQzFRRlZfX2k2SUhYV2JnRElta0ZrS3E5c0VCTktXQnl5UDlYRDA2N0s1MEJKZ0pqVDZwZEtGSkpycUtJTWNNZ21yekxhRXVPcnZPYVYxN2d3MWt0QmpFd3J2cjlOYzE1ZUowS3BZNUQtdHlySG9jd3ZaNnYyS0RlTzJNZlNmMzJvNTVPS3lNUFV4N1hVTXJZZGx3RUViR3d6VnNReEFuZklqRGhxQ0hSb2FJdFIwbDBTdk1NX2RYcThna0JrZFNrUUFXMFZQQWZjVS0yTXVkeXVmZw?oc=5)
 
 2026-07-02 <span class="news-indication-tag">obesidad</span>
@@ -102,11 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesenkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+### [Statins ‘cut heart risk gap between obese and slim adults’ - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tFcExrLXFlSGk4c0NkWlhtVjlwcDg4M3JHOWtxOVFIbkZPbG1ZQk45RXBGTEg4RFI5cDcwS3lFaVpsaHdZNU81clBjaG9UQ1FEYmZZamFreGtVUlYta0hQWVVxWXJQcFB0U1NnV2VDWDNHNEpjSE85bDN6YXI5MEF1Rl84d2cydFRSck1uMkVFUEZDNkxlU0Y2UEFNSnEyQXBMLUszNl9tOHFX?oc=5)
 
-2026-07-01 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-01 <span class="news-indication-tag">obesity</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxON3pNd0M4T00zdWFkVHBKZFBsRC1YVGtJbEZzYm1PbjRveFZGQUZ5T0xtaGNlbjloV2hwXzhRQXNialhwTU9mYkxhMjdYUkZNaktxWExMSzVxUzQ5SURSakhtR0NKeERlZGZFMTVTZmhDaVZQVWNsNU1YVVRWcS1Cb0V3VlNDdm4zUk5iNXpIYmE2V2htMkdsNmN4dFBObjdpT21rU0I4dnd3NFFsUHhoTzVHX1VsZw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tFcExrLXFlSGk4c0NkWlhtVjlwcDg4M3JHOWtxOVFIbkZPbG1ZQk45RXBGTEg4RFI5cDcwS3lFaVpsaHdZNU81clBjaG9UQ1FEYmZZamFreGtVUlYta0hQWVVxWXJQcFB0U1NnV2VDWDNHNEpjSE85bDN6YXI5MEF1Rl84d2cydFRSck1uMkVFUEZDNkxlU0Y2UEFNSnEyQXBMLUszNl9tOHFX?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/orlistat/
 2026-07-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
-
----
-
-### [HPV, il virus che provoca il cancro: 2400 tumori all’anno. L’Ulss 2: “Vaccinatevi, ma lo screening va sempre fatto”](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
-
-2026-07-01 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CVA</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXFMMUg3UGdRdXpSZUgwaXRCVVplT1haM1JqVWdXT01INERwNzJWNGNHcXZxcExrSTlzTzM3cEpXN01iNGRFNmdFTExPbDNMLTRXY1FTSUhxR0w1SFdWTVNVLUZldU5ESEgxUl92VDc1MFhHUGhKRnpwMEZtZXI1QURvNzdsd2VNdkhtZ3RGMS15NUxlbVN2a0JzRTNLQ2FaZDlLOEtkaVd4c3pTbVc5dTlnUjVZRllyY1VtbDN6WldpYnRMcGlZcnNLNG1RcHRLSXl5N3IwTTdwejdiSlkyWEhVT3Y?oc=5)
 
 ---
 
