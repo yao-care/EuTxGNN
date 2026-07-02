@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
 
 ### [Un tercio de la humanidad alberga este parásito sin saberlo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
 
 2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
 
 ---
 
-### [Britische Studie: Viele Erwachsene haben auch im Sommer Vitamin-D-Mangel - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW9xRHU3U2FId1NoN0R4SXJLbVBuVWxQODdsZml4MlU4QTk5WngzbUJDY01xYXQwRDQ4SFFpLXNqQ0xhUzMtRllBODBXejlZc0poRlllTmdFUlhRa1g4X21PeERTUXRoMGZYa3lubVlUMlRMQi10VG5udWt3RncySTZNVDRJRFhXR25lOVNjMGZQLW1lNmhkQ2QweEJrRUJoWlRj?oc=5)
+### [Vitamin-D-Mangel: Bei dieser Risikogruppe reicht die Sommersonne nicht aus](https://news.google.com/rss/articles/CBMivgFBVV95cUxObHYxbDhnaXRHX184c2VZYnF1VW9FLWJrQkJiajdlTkNJRXdrS25lOFRqaTdDQ1Q0STh1V21nMUFQM1hiWWtlTkU5dlJ6VUdxdDlWdTlSX0VMWHdhZklrWlFoM3dGdEFDR3dKZHNWNWZCNWlrRk04bFVwV2pQQS1DNjdyby1yd1AxQ3lSMDdGYm9LaWZhVnRZUElwdTNlV1ladnJyUTMxZFk4di0ycmhUbUQyV3QtYmlrUHNROEdn?oc=5)
 
 2026-07-01 <span class="news-indication-tag">MS</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW9xRHU3U2FId1NoN0R4SXJLbVBuVWxQODdsZml4MlU4QTk5WngzbUJDY01xYXQwRDQ4SFFpLXNqQ0xhUzMtRllBODBXejlZc0poRlllTmdFUlhRa1g4X21PeERTUXRoMGZYa3lubVlUMlRMQi10VG5udWt3RncySTZNVDRJRFhXR25lOVNjMGZQLW1lNmhkQ2QweEJrRUJoWlRj?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMivgFBVV95cUxObHYxbDhnaXRHX184c2VZYnF1VW9FLWJrQkJiajdlTkNJRXdrS25lOFRqaTdDQ1Q0STh1V21nMUFQM1hiWWtlTkU5dlJ6VUdxdDlWdTlSX0VMWHdhZklrWlFoM3dGdEFDR3dKZHNWNWZCNWlrRk04bFVwV2pQQS1DNjdyby1yd1AxQ3lSMDdGYm9LaWZhVnRZUElwdTNlV1ladnJyUTMxZFk4di0ycmhUbUQyV3QtYmlrUHNROEdn?oc=5)
+
+---
+
+### [Cardiologist explains 6pm ban rule that protects heart and most of us break it - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDFQTnJjOFh1RTNUMDVMOG9icHhmRnF5MzJrVGk5YkMzdUVGU0ZwSE1ZOXZ4bXkzaUEzd2Fmb3ZDZS1zME5QdEVQWmx0cjVpcEVzMmxRdzR0SzZuRFRkWGxrcGY1Y3FSZWxQWExMWDBrSzloOUd1QmhzVTN6VnlOWGJLYlBwcGPSAYwBQVVfeXFMTmRKM2FoVk1rdlZ3UWtfamlIcHdidmowb2NqNjF4WkF4NGcyQmxQRy1hRHREZEx6ZkZwR1h6ZHF1MWxjNUV4blQxQkJpOWNHbERjekRyakJYLWt4TkdGVmVTc05KSVlZNzFNUDN6eG1nWjNNNUhwYUVNMEdBNTJWWHJPMndxcUhFc0NNMF8?oc=5)
+
+2026-07-01 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDFQTnJjOFh1RTNUMDVMOG9icHhmRnF5MzJrVGk5YkMzdUVGU0ZwSE1ZOXZ4bXkzaUEzd2Fmb3ZDZS1zME5QdEVQWmx0cjVpcEVzMmxRdzR0SzZuRFRkWGxrcGY1Y3FSZWxQWExMWDBrSzloOUd1QmhzVTN6VnlOWGJLYlBwcGPSAYwBQVVfeXFMTmRKM2FoVk1rdlZ3UWtfamlIcHdidmowb2NqNjF4WkF4NGcyQmxQRy1hRHREZEx6ZkZwR1h6ZHF1MWxjNUV4blQxQkJpOWNHbERjekRyakJYLWt4TkdGVmVTc05KSVlZNzFNUDN6eG1nWjNNNUhwYUVNMEdBNTJWWHJPMndxcUhFc0NNMF8?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Zweite Serie wissenschaftlicher Ergebnisse zu Chinas Testfrachtraumschiff „Qingzhou“ veröffentlicht - German China.org](https://news.google.com/rss/articles/CBMicEFVX3lxTFBQLWJGcXJKU1pfb3Vrb1A5dUh3ai1mSkcwMGVaTGI4aHdlV0NkdHBiZldMdEhseEVTSmg0WENycFhlcW03WTd3dV85cGJZYUw5Qm5QcWtST2cxU09OeUZKY0NrcnZ6aThsNFVMUzd0X2Q?oc=5)
+### [Mystery parasite outbreak spreads to 17 US states - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTd0T29ScWlhSmxUM3RuU2h4WVhEcVlLcHRqbkd1c3NPRVpjTFQ0SmNKR0FUOWJfZFBjaXpjY1AxMEVTNzEzdWo4NDFHSVZBLW96ZHpkeURnYkY2bll4d3pUUWUwVDhiS0Mwb2VGLUtoOXIyRVZmTVlxa3JFMEQ3VEVuSnZRUnhFbU10bm5jV0J1OXdfeF9YNVNB?oc=5)
 
-2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-01 <span class="news-indication-tag">MS</span>
 
-來源：[German China.org](https://news.google.com/rss/articles/CBMicEFVX3lxTFBQLWJGcXJKU1pfb3Vrb1A5dUh3ai1mSkcwMGVaTGI4aHdlV0NkdHBiZldMdEhseEVTSmg0WENycFhlcW03WTd3dV85cGJZYUw5Qm5QcWtST2cxU09OeUZKY0NrcnZ6aThsNFVMUzd0X2Q?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTd0T29ScWlhSmxUM3RuU2h4WVhEcVlLcHRqbkd1c3NPRVpjTFQ0SmNKR0FUOWJfZFBjaXpjY1AxMEVTNzEzdWo4NDFHSVZBLW96ZHpkeURnYkY2bll4d3pUUWUwVDhiS0Mwb2VGLUtoOXIyRVZmTVlxa3JFMEQ3VEVuSnZRUnhFbU10bm5jV0J1OXdfeF9YNVNB?oc=5)
 
 ---
 
@@ -126,19 +134,19 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region](https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3d3X1JLc2lxbUZXUDVGT0FHZ2g3ODdqbmNJTEJtM0U3UWdkUllvWUlFY1poajREMXdvNXFtWnVacGw5NHdFX051Nk95Rk1qUTBDaHV2eU1wT3V0c3RKa09SVkdxZVpLb212YmZIZHNZU0gybWJFdUE3eUFyYlJJaVBWdnkwZE1ZY0RwRw?oc=5)
+
+2026-06-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[statnews.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3d3X1JLc2lxbUZXUDVGT0FHZ2g3ODdqbmNJTEJtM0U3UWdkUllvWUlFY1poajREMXdvNXFtWnVacGw5NHdFX051Nk95Rk1qUTBDaHV2eU1wT3V0c3RKa09SVkdxZVpLb212YmZIZHNZU0gybWJFdUE3eUFyYlJJaVBWdnkwZE1ZY0RwRw?oc=5)
+
+---
+
 ### [España lidera una investigación que confirma el potencial de la IA en la esclerosis múltiple](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2kzQzVVZmJReHlEeUlWRlBDMU1uQnQ0NngyTVZJc2pTOURkOUR1VUFMdTFCOXVHZmFGVk5GUHYzV3dKR1ZlTG51UGtXNGoxX2xrZE04QXQ1RXNONjFWVGpOR21lMUFMMGVIN01KelpKMndHRWVzaTF4NW9ZYXpzT1VGOThaNGwwRGVhaHB6Tll0eldRaktXYlpoQlpNank2enZuQ3lTQ1ZuMGcteXRucXM1eDAxOXZhR2g0?oc=5)
 
 2026-06-30 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[Servimedia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2kzQzVVZmJReHlEeUlWRlBDMU1uQnQ0NngyTVZJc2pTOURkOUR1VUFMdTFCOXVHZmFGVk5GUHYzV3dKR1ZlTG51UGtXNGoxX2xrZE04QXQ1RXNONjFWVGpOR21lMUFMMGVIN01KelpKMndHRWVzaTF4NW9ZYXpzT1VGOThaNGwwRGVhaHB6Tll0eldRaktXYlpoQlpNank2enZuQ3lTQ1ZuMGcteXRucXM1eDAxOXZhR2g0?oc=5)
-
----
-
-### [Scientists reverse autism-like symptoms in mice by repairing shortened nerve cell structures](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1R3aEROZFlUZW5KeUQtTm41RDhzeFJ6SjZzbTJobWZZRnRoOVZKaFZKd0hCMDA5WkpqV1E3RjByUF9kRnN3T3QxNTR6bWNMMXVRWFhZMlRqU0xYYl9fUHpDMFhZRnpydmdQbmNUMjM3QUdWTjVONEdSWUZDcTBvNmNzc2RYMUJDS2djR0hTMTNuNnZSQi1QRUhpUFc5cmVLVWxiT1R2VEI2eU1FZEtaQm9XOXBaQ212?oc=5)
-
-2026-06-30 <span class="news-indication-tag">MS</span>
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1R3aEROZFlUZW5KeUQtTm41RDhzeFJ6SjZzbTJobWZZRnRoOVZKaFZKd0hCMDA5WkpqV1E3RjByUF9kRnN3T3QxNTR6bWNMMXVRWFhZMlRqU0xYYl9fUHpDMFhZRnpydmdQbmNUMjM3QUdWTjVONEdSWUZDcTBvNmNzc2RYMUJDS2djR0hTMTNuNnZSQi1QRUhpUFc5cmVLVWxiT1R2VEI2eU1FZEtaQm9XOXBaQ212?oc=5)
 
 ---
 
@@ -163,14 +171,6 @@ permalink: /news/teriflunomide/
 2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[Ntv](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWlWLXNHVy1qR3Bsd0pDeWFnY3RJMFloblJ3UE5lZk1kVG90OHpHQS1rVEE1NDdRZzI0UUl6ekFIMDJRWmx1Yk9zNUh0V1VBQVNrMXFIc3VFSWd6bFUwdVFCX1doSnZIdXhRQVJyYzJOTFdIYkpEYTBvTGplNG91LVZrYXlPY3BSQTNHZVNMbEFkUWJacGdQekJGeVFzUXlaSFlNWG1R?oc=5)
-
----
-
-### [Investigan una formulación intranasal de teriflunomida en esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFjcW1kZEttSUROaVRPTDcwMFdmaENLa1Q4TFNYWllnaGlNX05wMzI2dkJYVXdoM3AzSUt0MGN5a3RzRklkN25NZUJDWlBzZkZvUGY3QklYaUhhblVrOGJYVnBjOUxpcVpZV3VWOXZRTmI0dG1mNWh0aHdMREpXRmk0dlZweXRhNU96aDhTMEJSN0VGbHphdDUzT0VmUkZsVEtra2pFZGZRMWtKemdqdVBndk5QV01RVlJvLURDNFTSAbsBQVVfeXFMTlhnNUE4Y20yREt5bGVTalhpWmdSeld4ck96UDBhWHlubG53cDdqeTJDOC02NGxkd0dmLW5kTkd0TmFtemNBMTh2UDZzR3pETGU1bEV3VFVpcUtxVlMxWXVvSF9nLWdPY0RRN0RpRGlfQV90d3B3RnhzcUNhSHl2RnhIa3JDaURsMlFGOFVxRXhIYXg3dG5Pd2VFb2N0UWNoYi1UaU1RWGQ2V2hickJ0b3lHNVB0cmlzNEJLTQ?oc=5)
-
-2026-06-30 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFjcW1kZEttSUROaVRPTDcwMFdmaENLa1Q4TFNYWllnaGlNX05wMzI2dkJYVXdoM3AzSUt0MGN5a3RzRklkN25NZUJDWlBzZkZvUGY3QklYaUhhblVrOGJYVnBjOUxpcVpZV3VWOXZRTmI0dG1mNWh0aHdMREpXRmk0dlZweXRhNU96aDhTMEJSN0VGbHphdDUzT0VmUkZsVEtra2pFZGZRMWtKemdqdVBndk5QV01RVlJvLURDNFTSAbsBQVVfeXFMTlhnNUE4Y20yREt5bGVTalhpWmdSeld4ck96UDBhWHlubG53cDdqeTJDOC02NGxkd0dmLW5kTkd0TmFtemNBMTh2UDZzR3pETGU1bEV3VFVpcUtxVlMxWXVvSF9nLWdPY0RRN0RpRGlfQV90d3B3RnhzcUNhSHl2RnhIa3JDaURsMlFGOFVxRXhIYXg3dG5Pd2VFb2N0UWNoYi1UaU1RWGQ2V2hickJ0b3lHNVB0cmlzNEJLTQ?oc=5)
 
 ---
 
@@ -203,14 +203,6 @@ permalink: /news/teriflunomide/
 2026-06-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGQtV1BSX1FUeTB2ckRSVlFtM0ZqUFJfZmZkUUtkMmhncTI5QXFObVI3aUlZM0Q5Y1FucllWUUh4WHdwNjRFOHZGRU41dXZLNE1SRVRPVF9zcFZvYnJOdTFKMGhBWW9qaFpWS1JfTjZiQ21yODRod2tBSE94Q1NuU3FGRDRMdXc5eldob0h1am9Sa21xaTE5eE4tc0dKV3Aydy1NSQ?oc=5)
-
----
-
-### [This Is Awkward: Mushrooms That Cause 'Tiny Human' Hallucinations Don't Contain Psychedelics](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDByWklYNWVmZHM1M2RDT19FRjhOQkY3aUF3WUJBejYwOHA0eVVBSzZTSmExdW4tdkI0bHVERThqaUtrU3VTYWVwWkJZRDVCWTAxckFEZUZKZHdfR0U4RTBzUkxnaTNsNmpoNVlzM0RSdmxoRi15dGVhMmdzX1JzWjFmY09RcjVRSUVlMWU0Y3UwVklpVW1KZi1tX0VDTDg?oc=5)
-
-2026-06-30 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDByWklYNWVmZHM1M2RDT19FRjhOQkY3aUF3WUJBejYwOHA0eVVBSzZTSmExdW4tdkI0bHVERThqaUtrU3VTYWVwWkJZRDVCWTAxckFEZUZKZHdfR0U4RTBzUkxnaTNsNmpoNVlzM0RSdmxoRi15dGVhMmdzX1JzWjFmY09RcjVRSUVlMWU0Y3UwVklpVW1KZi1tX0VDTDg?oc=5)
 
 ---
 

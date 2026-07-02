@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（6 則）
 
+### [Los tratamientos han igualado los niveles de colesterol y de presión arterial en adultos mayores de 40 años con obesidad y sin ella, según un estudio - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnVuUTdtUnFENkhkbWZMd2R6NXZ0WGNBLWx3SkNteVJPUlRjUnctdkZ2QVNqcGJjN0FPTUs3RFFvcUJJRHIya1NBeC1iX0JzelFzVWNkTTlsMy01RDNGMFFXNnQ4U1lxaWx4aEVlWE11UmtiRFlNbUNZRnpMMGI2U2x6UVVJWHBoWmxNaWNudFVIVkN2QXJRZjBPUllSQm1fb0o5QTMwelJHOE1SWTd1ZXl3UmJmNDdiN3N6UDN4SnZwbVR2NFEwbA?oc=5)
+
+2026-07-01 <span class="news-indication-tag">obesidad</span>
+
+來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnVuUTdtUnFENkhkbWZMd2R6NXZ0WGNBLWx3SkNteVJPUlRjUnctdkZ2QVNqcGJjN0FPTUs3RFFvcUJJRHIya1NBeC1iX0JzelFzVWNkTTlsMy01RDNGMFFXNnQ4U1lxaWx4aEVlWE11UmtiRFlNbUNZRnpMMGI2U2x6UVVJWHBoWmxNaWNudFVIVkN2QXJRZjBPUllSQm1fb0o5QTMwelJHOE1SWTd1ZXl3UmJmNDdiN3N6UDN4SnZwbVR2NFEwbA?oc=5)
+
+---
+
 ### [Combatir la obesidad pasa por asumir su desafío psicosocial y económico - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
 
 2026-07-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -78,11 +86,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesunken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
+### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-06-30 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/ziconotide/
 2026-06-30 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[Ntv](https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWlWLXNHVy1qR3Bsd0pDeWFnY3RJMFloblJ3UE5lZk1kVG90OHpHQS1rVEE1NDdRZzI0UUl6ekFIMDJRWmx1Yk9zNUh0V1VBQVNrMXFIc3VFSWd6bFUwdVFCX1doSnZIdXhRQVJyYzJOTFdIYkpEYTBvTGplNG91LVZrYXlPY3BSQTNHZVNMbEFkUWJacGdQekJGeVFzUXlaSFlNWG1R?oc=5)
-
----
-
-### ["Los tratamientos anti-CGRP mejoran el abordaje de pacientes con migraña" - Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
-
-2026-06-30 <span class="news-indication-tag">migraña</span>
-
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUU5LeXlpdFprc0dIUXZ2YkRmNXBKbmRWYTZmT0t4MzVUM1BERDlra19fVXNTaENBN0g0b2pPWEdVTFJieHk2QkNOVXZvQ1dxbmZFQ2lodnR4Sy1kMDRmaEE2Q09lSlRTc3FSaE9sT3lTWFgxanRYZ2xEZkQ5Vkh4YS0wd25tS3RGYXpfTDd6V1YtTkdXRkp3MHpUUlktZnB3Z1FqaTNoemtqcXp4d2FUV3VnYTFTVVp2UVZ5Rm5Xa0FDUTBYa0VScEdn0gHKAUFVX3lxTE9uSUFsN244QTJSSmloa3B6MWdnbDRYOVQyZW5LNmRIXzduMTBnWHI2UHNscHJObUtFNzJXeVBKLWdXMEpHVlhidU5lalBtYUV2YVFOTEkycDB2MUxxbUVrQjg2YTluekdIRmREZGJNbFFhS3dkbmZHcVZMYzB3R0lWWV9saU5LWmFaXzRRSThsV0hKQk50RG9IbVZqNXNCNU8tX1VISnFYRFRieXdVWVZqdFI2YzNLSXhXb2swTWZTNHRMM2VIdzlTd2c?oc=5)
 
 ---
 

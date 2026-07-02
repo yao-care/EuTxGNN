@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen - Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
 
 2026-07-01 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
+
+---
+
+### [Ipertensione in gravidanza, lo studio Unimore che può salvare i neonati](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
+
+2026-07-01 <span class="news-indication-tag">ipertensione</span>
+
+來源：[ModenaToday](https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3lwMmFZOWdnZ21ITkRGc0NxTjJoY2dTT1JRdXc2emg4TjBUM3RDYkNYZkZhejVmMUdQMDVMUmF2dDdqbjBVUGV0RjgxQ1RIMWhObW8tZjVqdmtzckozZ3p2X2lodU81ZjFqN0hjd0JlRUhQazV0eXdCcC1yeWt5eU04MzdrSUFqMGZaSEdsSTlWMGJXUGlzV2dn?oc=5)
 
 ---
 

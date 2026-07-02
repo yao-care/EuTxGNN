@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Los tratamientos han igualado los niveles de colesterol y de presión arterial en adultos mayores de 40 años con obesidad y sin ella, según un estudio - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnVuUTdtUnFENkhkbWZMd2R6NXZ0WGNBLWx3SkNteVJPUlRjUnctdkZ2QVNqcGJjN0FPTUs3RFFvcUJJRHIya1NBeC1iX0JzelFzVWNkTTlsMy01RDNGMFFXNnQ4U1lxaWx4aEVlWE11UmtiRFlNbUNZRnpMMGI2U2x6UVVJWHBoWmxNaWNudFVIVkN2QXJRZjBPUllSQm1fb0o5QTMwelJHOE1SWTd1ZXl3UmJmNDdiN3N6UDN4SnZwbVR2NFEwbA?oc=5)
+
+2026-07-01 <span class="news-indication-tag">obesidad</span>
+
+來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdnVuUTdtUnFENkhkbWZMd2R6NXZ0WGNBLWx3SkNteVJPUlRjUnctdkZ2QVNqcGJjN0FPTUs3RFFvcUJJRHIya1NBeC1iX0JzelFzVWNkTTlsMy01RDNGMFFXNnQ4U1lxaWx4aEVlWE11UmtiRFlNbUNZRnpMMGI2U2x6UVVJWHBoWmxNaWNudFVIVkN2QXJRZjBPUllSQm1fb0o5QTMwelJHOE1SWTd1ZXl3UmJmNDdiN3N6UDN4SnZwbVR2NFEwbA?oc=5)
+
+---
 
 ### [Combatir la obesidad pasa por asumir su desafío psicosocial y económico - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [GLP-1-Medikamente: Mortalität bei Adipositas um 44% gesunken - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
+### [Herzgesundheit und Adipositas: Warum 5–10% Gewichtsverlust Rehospitalisierung senkt - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 
-2026-06-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-06-30 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDM3WDdnNnZJX09sOFhKY0dkaTgwTkNJWnJMNXQ2V1gtRF84aVFfTVc1YzVLRVY4MXM4dzJZUXhoMk1fWFkxR3llTWdrUUNlb1RybXdJZVFGbi10NzNOTjBzUTJfT2RTenhiclgtVW1VZGtWZHo3VDNuUmNaMmdsQWNJMUpHM3E3Qzg2NzVkQ1pXaDJfLVRoNDUxTnNVODlHVWlsdDctTjJ6eWdiVEFndFR3My1nZDg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHJTUTVrcGRZNl9hVnhZSW9vWmxzWS11Rm93eGl0cFZhNXVHdk8tZTNmMURJbnRjRzJjSExkR0tsTXR1a3Jkd3RfdWZyMVlXOXd2ZzFock90dnJVT3pIS3ZEeGFSaGdSNUZNYURlY2pBNmp5VnVjaU0ycThub1V0dE5RUm43SDIwZVNZTkxfalpuM28tWEZRUXBtMG4tY2xjMVd6M0s4S3dYTjNrbEdhdWRKcw?oc=5)
 
 ---
 
