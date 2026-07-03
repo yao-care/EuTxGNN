@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+---
 
 ### [Prädiabetes: Lebensstilintervention, nicht aber Metformin kann vor Multimorbidität im Alter schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
 
@@ -70,17 +78,9 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Is your heart healthy? How to protect it at every age - The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBBRHoyVFNPYzBHRVVodkpxZ25OdENVSXc1OUhubUNkSGtKNVJfRnMzM1pGM0JQY2N0dERRdzdoY3hhSW5palNlcTlpSkJHWFRxczg3YVNudDZ6R3lERTFOSmhJcWNJLWNoaGZEcGQ2eFF4bFNhTjBpRUtfYkZJZ1JLRFRUMDJ1TXBCVzNrMHRTS1kwQmhGN0k2d0t6TXZDLW5GaDdvQ3BBX2VXaVJHeFpvM2lsZw?oc=5)
-
----
-
 ### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
-2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
@@ -94,27 +94,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [“En la última década vivimos una verdadera revolución para niños y adolescentes con diabetes tipo 1”](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
-
-2026-07-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
-
----
-
 ### [Gentherapie für Typ-2-Diabetes in klinischer Entwicklung](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXAzdHpLanBmbmxySmk4Q3dsMGJEMmZEOWpDbUtQYUN4NGhlQnhNakZNR3R4WEotcXRWdDZod1EtTVNhYTlhODZ2T2NjcC1ibjdTYlZhWGVubUgwWW5TenAxWUFzZXVGVENoVXA5QW5jZGxzdGlxLWR6UjZ2VlB2Y2hJVVBUdDVrU1VqUjFMQjBMNTRKOHlfNWVURktvdHB6cHRWcVFR?oc=5)
 
 2026-07-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[Pharma+Food](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXAzdHpLanBmbmxySmk4Q3dsMGJEMmZEOWpDbUtQYUN4NGhlQnhNakZNR3R4WEotcXRWdDZod1EtTVNhYTlhODZ2T2NjcC1ibjdTYlZhWGVubUgwWW5TenAxWUFzZXVGVENoVXA5QW5jZGxzdGlxLWR6UjZ2VlB2Y2hJVVBUdDVrU1VqUjFMQjBMNTRKOHlfNWVURktvdHB6cHRWcVFR?oc=5)
-
----
-
-### [Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen - Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
-
-2026-07-01 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Internisten im Netz »](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9BUGhVbnhENmtOV0pCOGdmaGx0QU1XZ0VoYkM3dVBMRXFTbHFZWWc5dkh3V1N5YS1Ccmx2WldSXzAySmFHUGU3UDJKcjFlT3V5R2R3LUZ3dmZpcUIwX0hQOWpiNWw1QjR4UnNEMjNJcWpFM2Ryd0JETzRnMnBKNWYzSzRiYjVVd0Z1TThDVWViMDU1VE9RZzY2RmZCMDF6TWdKLURkR2IwQXlRcjYwYUxZY3pPdDVRVS1yMWZtUEtTa041c01Mdlppblg?oc=5)
 
 ---
 

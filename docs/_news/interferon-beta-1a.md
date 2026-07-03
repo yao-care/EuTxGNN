@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（16 則）
+
+### [La OMS declara el fin del brote de hantavirus - Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjM2cUxnM2hsZUFMSVg4Z2lpbDZTcFg2RndyX2cwRkMyUEtjQlh2OFJiV25DQ3FyX0ZneFRyeEduOHpXUUdkZHd2ZEJSS0ptSFJpZGFuLVdRSmF6MDdLdzJsQzY4eng2YXd3UVJ2MzdDWEpmSXRtcmoyWGRwM0JtOUM3X1M?oc=5)
+
+2026-07-03 <span class="news-indication-tag">MS</span>
+
+來源：[Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjM2cUxnM2hsZUFMSVg4Z2lpbDZTcFg2RndyX2cwRkMyUEtjQlh2OFJiV25DQ3FyX0ZneFRyeEduOHpXUUdkZHd2ZEJSS0ptSFJpZGFuLVdRSmF6MDdLdzJsQzY4eng2YXd3UVJ2MzdDWEpmSXRtcmoyWGRwM0JtOUM3X1M?oc=5)
+
+---
+
+### [New app aims to cut NHS waiting times for patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16TXJ0YWNyUHktYWZRSlJNenZ4Zzk1Y2I0UUlXS2hxcHdYY0VISUVZZGRYZm90dzdDYWVfeXNDYkhHclVVc0tNZm5tdzlIUDBJb2dYUm8xWFJ3elU1?oc=5)
+
+2026-07-03 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16TXJ0YWNyUHktYWZRSlJNenZ4Zzk1Y2I0UUlXS2hxcHdYY0VISUVZZGRYZm90dzdDYWVfeXNDYkhHclVVc0tNZm5tdzlIUDBJb2dYUm8xWFJ3elU1?oc=5)
+
+---
+
+### [Kann die Einnahme von Vitamin D Kinder vor Atemwegsinfekten schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
+
+2026-07-03 <span class="news-indication-tag">MS</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
+
+---
 
 ### [L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus - Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5)
+### [La OMS pone en marcha en RDC un ensayo clínico para probar nuevos tratamientos contra el ébola](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnpCY05sWEhTazM2Mk9PZ0h5M2VCOF9iOEZ6QVBNaHZoWjM1d2tVRTBsVGIzZ2FKOFZMeTNicHlhNWVOaGd2cHZUc3RiOHR4NC00aDQ0RGhHODEwUUQ1Wm8wVmhBTzJ1U0NPczFWUThMVDFRdWlrQVlxQmFCVS14SnhzcWtVei11a0p1SmhwX0wxNWRMUTdaZGVJZmVGV3FFM0h5RGE3NlJhS2VxTng0MXBOSmNqcXk4VVFlS0ZZWUpoNTVmcHNKWmRiNXdLX3fSAdQBQVVfeXFMUG5YQ1BCZHFWd19TUlZ2Y2JBQnl6VWVQMndDbWNiVUpWSmM5M1dMZ1R5d2ZqQkVQQ1Z2RUhvenQ2QTlLdU5rdzVjTUJLQUlMSmV5UDFpakgwWGM4ZVFTTDJoeEZ4X3Z4TkhTWlJ3eGdJektySXA3Tlo0Vy1aU1dTSmZzQUd6YVQyWFhYTkEzV0tWQU9LRnFkOXZRb0FoajZncXF3RGxFQWZmeTdRaWNubHdoaU9ZdzB6SlVCUWpIaVcwUGZObHFEcHlTeHA4SzVlNUtmM00?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span>
 
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnpCY05sWEhTazM2Mk9PZ0h5M2VCOF9iOEZ6QVBNaHZoWjM1d2tVRTBsVGIzZ2FKOFZMeTNicHlhNWVOaGd2cHZUc3RiOHR4NC00aDQ0RGhHODEwUUQ1Wm8wVmhBTzJ1U0NPczFWUThMVDFRdWlrQVlxQmFCVS14SnhzcWtVei11a0p1SmhwX0wxNWRMUTdaZGVJZmVGV3FFM0h5RGE3NlJhS2VxTng0MXBOSmNqcXk4VVFlS0ZZWUpoNTVmcHNKWmRiNXdLX3fSAdQBQVVfeXFMUG5YQ1BCZHFWd19TUlZ2Y2JBQnl6VWVQMndDbWNiVUpWSmM5M1dMZ1R5d2ZqQkVQQ1Z2RUhvenQ2QTlLdU5rdzVjTUJLQUlMSmV5UDFpakgwWGM4ZVFTTDJoeEZ4X3Z4TkhTWlJ3eGdJektySXA3Tlo0Vy1aU1dTSmZzQUd6YVQyWFhYTkEzV0tWQU9LRnFkOXZRb0FoajZncXF3RGxFQWZmeTdRaWNubHdoaU9ZdzB6SlVCUWpIaVcwUGZObHFEcHlTeHA4SzVlNUtmM00?oc=5)
 
 ---
 
@@ -86,19 +110,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### ['Flesh-eating' bacteria is spreading across Europe's beaches](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVnSAaIBQVVfeXFMTXJfeFcyMmdUUV9GUU1RTExuOUxvZ3dSbGwySGJWdl9RV0hrNDZwcnFBMUNQbTlVM0JSMnJyYkNtbXQ3TTJDQ0ZsdWIzMGJTY3BwYjBZRjdlZk1hOVZsVTdEdlR3VWJGampNeWFfSlpjaG9RNEFDQTNXbjBhemdHU3g4NVI1aTBRMDRQYUxBZzRTVWRQeXdLVWZDZHNxN2ZQLVV3?oc=5)
+### ['Flesh-eating' bacteria is spreading across Europe's beaches](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVk?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVnSAaIBQVVfeXFMTXJfeFcyMmdUUV9GUU1RTExuOUxvZ3dSbGwySGJWdl9RV0hrNDZwcnFBMUNQbTlVM0JSMnJyYkNtbXQ3TTJDQ0ZsdWIzMGJTY3BwYjBZRjdlZk1hOVZsVTdEdlR3VWJGampNeWFfSlpjaG9RNEFDQTNXbjBhemdHU3g4NVI1aTBRMDRQYUxBZzRTVWRQeXdLVWZDZHNxN2ZQLVV3?oc=5)
-
----
-
-### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVk?oc=5)
 
 ---
 
@@ -110,11 +126,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Uganda investiga un posible caso de virus de Marburgo mientras el ébola sigue activo en el país - Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxObnZwSFdjYUVPckFiUEoyMVFVRkJkemVOV0tVWGRJTGFqZnd2UWVJX1BDb1hyRnRKRk9GRnpDTExWemF6Y3Q1S0hlZUhuek9vRXY0eHRZc3FOam1aQlBRS1FDSlNkVWRJT3cwUGJHcWxYU0NPUG9DX1RvdDVYalJScjlpbk9ZOXVYR1BfbFl3Nmo1UGx1SlZjX3BrQkRXVzk2MDNR?oc=5)
+### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
-2026-07-02 <span class="news-indication-tag">MS</span>
+2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxObnZwSFdjYUVPckFiUEoyMVFVRkJkemVOV0tVWGRJTGFqZnd2UWVJX1BDb1hyRnRKRk9GRnpDTExWemF6Y3Q1S0hlZUhuek9vRXY0eHRZc3FOam1aQlBRS1FDSlNkVWRJT3cwUGJHcWxYU0NPUG9DX1RvdDVYalJScjlpbk9ZOXVYR1BfbFl3Nmo1UGx1SlZjX3BrQkRXVzk2MDNR?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
+
+---
+
+### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
+
+2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
 
 ---
 
@@ -126,11 +150,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Creatine for Depression: Study Shows Promising Results for Symptoms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
+
+2026-07-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
+
+---
+
 ### [Un tercio de la humanidad alberga este parásito sin saberlo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
 
 2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
 
 ---
 
@@ -147,14 +179,6 @@ permalink: /news/interferon-beta-1a/
 2026-07-01 <span class="news-indication-tag">MS</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFkzZkdSOGJXcWl0dENBLTg4V3hwcXZnYzRZc0lNQVpGVVdMaFpHNXZjeEZoTGFWeFNMRC1oYUE1QVpCLVgzX0JIMUtFdkhydU9jbVRERTJvQlViTHItZ3VtXzBNbkpjMjAxQzNZV2R4XzNVdEJxNVlIX1JKeWh3Yndtem5KaTlrZmxsYnpHTkd1dFdLYVFDSDR5NnVUUTVOVjJzUGw2dw?oc=5)
-
----
-
-### [Altern: Forschende entdecken eine überraschende Aufgabe des Immunsystems](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVZXZEM0RmRpWEZQNFcySV9DNnc3cWJ3UkJIRVE2NGwwSG5ndzJUTDUwWjNqcUR3Y3E3ZVg3UVVSTzdfWjNxdlAyOVVYTjI0SEVYTzR4MDdDMVNaZGtXaGd0ZVlxWThJaHJxeTVnOUs5RUZ1R1NOVmF3RGt2a09fSVZEMk0wWGlhSzU1cnhPMms4ZVZhVFFsOVN0cmVMbFdlaWppTU92TTVyN2lG?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVZXZEM0RmRpWEZQNFcySV9DNnc3cWJ3UkJIRVE2NGwwSG5ndzJUTDUwWjNqcUR3Y3E3ZVg3UVVSTzdfWjNxdlAyOVVYTjI0SEVYTzR4MDdDMVNaZGtXaGd0ZVlxWThJaHJxeTVnOUs5RUZ1R1NOVmF3RGt2a09fSVZEMk0wWGlhSzU1cnhPMms4ZVZhVFFsOVN0cmVMbFdlaWppTU92TTVyN2lG?oc=5)
 
 ---
 

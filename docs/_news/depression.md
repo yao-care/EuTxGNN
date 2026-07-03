@@ -45,11 +45,11 @@ permalink: /news/depression/
 
 ---
 
-### [The 13p-a-day supp to turbocharge weight loss and beat brain fog & depression - The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
+### [Creatine for Depression: Study Shows Promising Results for Symptoms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
 
-2026-07-02
+2026-07-01
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
 
 ---
 

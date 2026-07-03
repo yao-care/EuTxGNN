@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+---
 
 ### [Prädiabetes: Lebensstilintervention, nicht aber Metformin kann vor Multimorbidität im Alter schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
 
@@ -72,17 +80,25 @@ permalink: /news/lecanemab/
 
 ### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
-2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
 
 ---
 
-### [“En la última década vivimos una verdadera revolución para niños y adolescentes con diabetes tipo 1”](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
+### [40-Hertz-Schall als Alzheimer-Ansatz: Ablagerungen doppelt so schnell abtransportieren - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG9zVHpTTGR2Z0xiUjNYZEJKUm1GWWprdTVrVF84dVZfZ3FvNnRJNmE0RmxOUlhMYzhtRThzZlkwUjBobWN6UzhrNi1JSi1MSDBveUhLQUtseV9YMFByTzluV2JoTFBGSHhJU2lRd0pUNTlHNk9DZ3R2MXdYNzAtQXpWRWRBdmtxRlp5dm1ENTJzZVVOUWFwVnlGNnh4ZmVxdTZLTl9PMThNN3lMX0VubWJQa2VXYWVC?oc=5)
 
-2026-07-01 <span class="news-indication-tag">diabetes</span>
+2026-07-02 <span class="news-drug-tag">Lecanemab</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG9zVHpTTGR2Z0xiUjNYZEJKUm1GWWprdTVrVF84dVZfZ3FvNnRJNmE0RmxOUlhMYzhtRThzZlkwUjBobWN6UzhrNi1JSi1MSDBveUhLQUtseV9YMFByTzluV2JoTFBGSHhJU2lRd0pUNTlHNk9DZ3R2MXdYNzAtQXpWRWRBdmtxRlp5dm1ENTJzZVVOUWFwVnlGNnh4ZmVxdTZLTl9PMThNN3lMX0VubWJQa2VXYWVC?oc=5)
+
+---
+
+### [Alzheimer. Da Aifa no alla rimborsabilità di lecanemab e donanemab - Quotidiano Sanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaU9Qd1dvUUZGMDAyaGx1T294d0JqTWdBTEJZYjdNbDNpOWFTMFFTNkJld2NEZjg1NFBYSlZXZFBIWDlUa2lJMzRGM0k2Y2lLUlFfZzF6ZkxpS0doT2RiSlFCd2dtbWJWZVMxaWVQVU1BRHROUzF5S3JOcVg3bGpJLWd5Nzl5S2swTXd6ZndYX0dxMlhoNTJCbGk2djJ3SmdSQjZOUUJkWHZtVXVQd0pLNEpZeElibDA?oc=5)
+
+2026-07-01 <span class="news-drug-tag">Lecanemab</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaU9Qd1dvUUZGMDAyaGx1T294d0JqTWdBTEJZYjdNbDNpOWFTMFFTNkJld2NEZjg1NFBYSlZXZFBIWDlUa2lJMzRGM0k2Y2lLUlFfZzF6ZkxpS0doT2RiSlFCd2dtbWJWZVMxaWVQVU1BRHROUzF5S3JOcVg3bGpJLWd5Nzl5S2swTXd6ZndYX0dxMlhoNTJCbGk2djJ3SmdSQjZOUUJkWHZtVXVQd0pLNEpZeElibDA?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/lecanemab/
 2026-07-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[Pharma+Food](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXAzdHpLanBmbmxySmk4Q3dsMGJEMmZEOWpDbUtQYUN4NGhlQnhNakZNR3R4WEotcXRWdDZod1EtTVNhYTlhODZ2T2NjcC1ibjdTYlZhWGVubUgwWW5TenAxWUFzZXVGVENoVXA5QW5jZGxzdGlxLWR6UjZ2VlB2Y2hJVVBUdDVrU1VqUjFMQjBMNTRKOHlfNWVURktvdHB6cHRWcVFR?oc=5)
-
----
-
-### [Alzheimer-Prävention: 40-Hertz-Töne verdoppeln Abtransport von Ablagerungen](https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0RVTFBxMVlfZDIwamZKa1ZGeDJ2MUhKdFdURnFsRVZ4OHJ6YjZJWVhEMzV4SWFsR2RHLV9WdWluY21qWTBUeTlCdl9VaVpXbUJaZVRhcE4zV1o2a01VeEIydlF5X1FmS09ULWlWWkEzVDZtWmtVRnZXcS01bXY3b2VfcElVUmxrR3dDQ0QyeXZMOHVtcUEySGNtTnhsS0paWWtKdFJ2THpDYTZjUERsTTh3?oc=5)
-
-2026-07-01 <span class="news-drug-tag">Lecanemab</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0RVTFBxMVlfZDIwamZKa1ZGeDJ2MUhKdFdURnFsRVZ4OHJ6YjZJWVhEMzV4SWFsR2RHLV9WdWluY21qWTBUeTlCdl9VaVpXbUJaZVRhcE4zV1o2a01VeEIydlF5X1FmS09ULWlWWkEzVDZtWmtVRnZXcS01bXY3b2VfcElVUmxrR3dDQ0QyeXZMOHVtcUEySGNtTnhsS0paWWtKdFJ2THpDYTZjUERsTTh3?oc=5)
 
 ---
 
