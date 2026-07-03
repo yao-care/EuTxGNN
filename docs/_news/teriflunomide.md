@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（13 則）
 
-### [Hantavirus sur le MV Hondius : l'OMS annonce officiellement la fin de cette épidémie qui a fait trois morts - Le Tribunal du Net](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdFk0ZHA4TVJBbjMtTlZWRXdEU21KdGlLS1NMVzd3NVFmSUtZYTlGZ2VzMTgwcEhDdTVfTVZZYVFYV2EzSW5PUUVkLXF6R3djZWwtV0oyQWtCdFpOa0tzUEtjOEQ0bk9kU3g3X0YtQlJ1Z2VJcFVtNzBPWlQ4OHpzT0VXRjZWUQ?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span>
-
-來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdFk0ZHA4TVJBbjMtTlZWRXdEU21KdGlLS1NMVzd3NVFmSUtZYTlGZ2VzMTgwcEhDdTVfTVZZYVFYV2EzSW5PUUVkLXF6R3djZWwtV0oyQWtCdFpOa0tzUEtjOEQ0bk9kU3g3X0YtQlJ1Z2VJcFVtNzBPWlQ4OHpzT0VXRjZWUQ?oc=5)
-
----
-
-### [El brote de ébola se expande en RDC y se abre la inscripción para participar en el ensayo clínico de tratamientos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDBtc0tvNnZnaDBsRjdVelM0cGhaZlB1VXJ3MFd6V0l3ZjY0OUFOOFlEMm9BUkRNV0lkam9DenViUjBtZ1AwdXA0aVVnbGpLYzRFcHo4OGtZU25manJvVU0yWW5hS2JaNi1xOGFBamV2ZUprcklqUGFpLUJsT0MxaEhxT1RTNkFrUHRV?oc=5)
+### [L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus - Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span>
 
-來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDBtc0tvNnZnaDBsRjdVelM0cGhaZlB1VXJ3MFd6V0l3ZjY0OUFOOFlEMm9BUkRNV0lkam9DenViUjBtZ1AwdXA0aVVnbGpLYzRFcHo4OGtZU25manJvVU0yWW5hS2JaNi1xOGFBamV2ZUprcklqUGFpLUJsT0MxaEhxT1RTNkFrUHRV?oc=5)
+來源：[Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [The 13p-a-day supp to turbocharge weight loss and beat brain fog & depression - The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
+### ['Flesh-eating' bacteria is spreading across Europe's beaches](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVnSAaIBQVVfeXFMTXJfeFcyMmdUUV9GUU1RTExuOUxvZ3dSbGwySGJWdl9RV0hrNDZwcnFBMUNQbTlVM0JSMnJyYkNtbXQ3TTJDQ0ZsdWIzMGJTY3BwYjBZRjdlZk1hOVZsVTdEdlR3VWJGampNeWFfSlpjaG9RNEFDQTNXbjBhemdHU3g4NVI1aTBRMDRQYUxBZzRTVWRQeXdLVWZDZHNxN2ZQLVV3?oc=5)
 
-2026-07-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVnSAaIBQVVfeXFMTXJfeFcyMmdUUV9GUU1RTExuOUxvZ3dSbGwySGJWdl9RV0hrNDZwcnFBMUNQbTlVM0JSMnJyYkNtbXQ3TTJDQ0ZsdWIzMGJTY3BwYjBZRjdlZk1hOVZsVTdEdlR3VWJGampNeWFfSlpjaG9RNEFDQTNXbjBhemdHU3g4NVI1aTBRMDRQYUxBZzRTVWRQeXdLVWZDZHNxN2ZQLVV3?oc=5)
 
 ---
 
@@ -118,11 +110,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [School boy, 14, nearly loses leg to flesh-eating disease after swimming in Cheshire lake - Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVtLS1tU2dLNm56a3NCYkp6eXRLaEM1c0FoN2dzbGYtUzBfbGlOUUJuMktRbG5UWEVtbmVvbDUwQW9lMTN4SUtEMVYyYlYtbVp5dHNadE1JdW9SeHVFaldXZ3Nmb1hyMmo2aE5JaHhMdFNIY3pGbUhqYjNCTG9DYVRoN1E4d1JEWEVTZms2VFfSAZYBQVVfeXFMUHNYMUpxcUZYV3VRRjlhdEFmbWRTN3RkMFhDZWpFc0lHOERGRmpSakdSa1l4eWJPSWdOcWhON3NJVm0xRkxieHhIQVRJQkNrVHBqcWRrcXBBbG1nN0c0WFNWWU1kSW94T2J6NkQydHZzWUJRblh2MEVLa3B6bWcxVW9OVTZFSS1Tb2wxd0IxZVFpcS1CZHZ3?oc=5)
+### [Uganda investiga un posible caso de virus de Marburgo mientras el ébola sigue activo en el país - Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxObnZwSFdjYUVPckFiUEoyMVFVRkJkemVOV0tVWGRJTGFqZnd2UWVJX1BDb1hyRnRKRk9GRnpDTExWemF6Y3Q1S0hlZUhuek9vRXY0eHRZc3FOam1aQlBRS1FDSlNkVWRJT3cwUGJHcWxYU0NPUG9DX1RvdDVYalJScjlpbk9ZOXVYR1BfbFl3Nmo1UGx1SlZjX3BrQkRXVzk2MDNR?oc=5)
 
-2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-02 <span class="news-indication-tag">MS</span>
 
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmVtLS1tU2dLNm56a3NCYkp6eXRLaEM1c0FoN2dzbGYtUzBfbGlOUUJuMktRbG5UWEVtbmVvbDUwQW9lMTN4SUtEMVYyYlYtbVp5dHNadE1JdW9SeHVFaldXZ3Nmb1hyMmo2aE5JaHhMdFNIY3pGbUhqYjNCTG9DYVRoN1E4d1JEWEVTZms2VFfSAZYBQVVfeXFMUHNYMUpxcUZYV3VRRjlhdEFmbWRTN3RkMFhDZWpFc0lHOERGRmpSakdSa1l4eWJPSWdOcWhON3NJVm0xRkxieHhIQVRJQkNrVHBqcWRrcXBBbG1nN0c0WFNWWU1kSW94T2J6NkQydHZzWUJRblh2MEVLa3B6bWcxVW9OVTZFSS1Tb2wxd0IxZVFpcS1CZHZ3?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxObnZwSFdjYUVPckFiUEoyMVFVRkJkemVOV0tVWGRJTGFqZnd2UWVJX1BDb1hyRnRKRk9GRnpDTExWemF6Y3Q1S0hlZUhuek9vRXY0eHRZc3FOam1aQlBRS1FDSlNkVWRJT3cwUGJHcWxYU0NPUG9DX1RvdDVYalJScjlpbk9ZOXVYR1BfbFl3Nmo1UGx1SlZjX3BrQkRXVzk2MDNR?oc=5)
+
+---
+
+### [Clinical trial aims to help heart failure patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
+
+2026-07-02 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
 
 ---
 
@@ -130,7 +130,7 @@ permalink: /news/teriflunomide/
 
 2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
 
 ---
 
@@ -142,11 +142,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Millions of women living with PMOS 'should get yearly NHS checks after years of missed diagnoses' - The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTFBMUjZaaWpBaGFDdnFjLTUtNmNZV28xQ3hTNUJqM19YdVZuNTZnajFHV2tLYWI4Rkhxdl95UVI1eEZDbXl1X09uOG1zaVowZ3FwX3h0bXNtS25BSmlrMjd1YTRQLWdZaU5MUGN5NVEtcFRYUnpUWUYwajZYQdIBgAFBVV95cUxNbU5FNUUycEFQdHpHNWhTeEVYd1lXOFVkV3dhd3VrVnpWd0Zwd0Y2T2labDVEYmplQ0phRTBVR3V0ZTFrYVJ3bDZDN0dKb1JiWWlNbEtoZnRLRTdtaW5Ldzk5dlJwaXBJc19qbmJGd0J6eDdrMnVsVTNaa19kZ0JacA?oc=5)
+### [MS-Fatigue trifft Alltag und Arbeit: Studie zu Stress, Psyche und Teilhabe - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFkzZkdSOGJXcWl0dENBLTg4V3hwcXZnYzRZc0lNQVpGVVdMaFpHNXZjeEZoTGFWeFNMRC1oYUE1QVpCLVgzX0JIMUtFdkhydU9jbVRERTJvQlViTHItZ3VtXzBNbkpjMjAxQzNZV2R4XzNVdEJxNVlIX1JKeWh3Yndtem5KaTlrZmxsYnpHTkd1dFdLYVFDSDR5NnVUUTVOVjJzUGw2dw?oc=5)
 
-2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-01 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTFBMUjZaaWpBaGFDdnFjLTUtNmNZV28xQ3hTNUJqM19YdVZuNTZnajFHV2tLYWI4Rkhxdl95UVI1eEZDbXl1X09uOG1zaVowZ3FwX3h0bXNtS25BSmlrMjd1YTRQLWdZaU5MUGN5NVEtcFRYUnpUWUYwajZYQdIBgAFBVV95cUxNbU5FNUUycEFQdHpHNWhTeEVYd1lXOFVkV3dhd3VrVnpWd0Zwd0Y2T2labDVEYmplQ0phRTBVR3V0ZTFrYVJ3bDZDN0dKb1JiWWlNbEtoZnRLRTdtaW5Ldzk5dlJwaXBJc19qbmJGd0J6eDdrMnVsVTNaa19kZ0JacA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFkzZkdSOGJXcWl0dENBLTg4V3hwcXZnYzRZc0lNQVpGVVdMaFpHNXZjeEZoTGFWeFNMRC1oYUE1QVpCLVgzX0JIMUtFdkhydU9jbVRERTJvQlViTHItZ3VtXzBNbkpjMjAxQzNZV2R4XzNVdEJxNVlIX1JKeWh3Yndtem5KaTlrZmxsYnpHTkd1dFdLYVFDSDR5NnVUUTVOVjJzUGw2dw?oc=5)
 
 ---
 
@@ -155,30 +155,6 @@ permalink: /news/teriflunomide/
 2026-07-01 <span class="news-indication-tag">MS</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVZXZEM0RmRpWEZQNFcySV9DNnc3cWJ3UkJIRVE2NGwwSG5ndzJUTDUwWjNqcUR3Y3E3ZVg3UVVSTzdfWjNxdlAyOVVYTjI0SEVYTzR4MDdDMVNaZGtXaGd0ZVlxWThJaHJxeTVnOUs5RUZ1R1NOVmF3RGt2a09fSVZEMk0wWGlhSzU1cnhPMms4ZVZhVFFsOVN0cmVMbFdlaWppTU92TTVyN2lG?oc=5)
-
----
-
-### [Statins: Serious Side Effects on Muscles Are Rare, Study Finds](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUdSY1k4aXl3d1dFOF9EM01RTl9ydG53VW1UZWFOdzJfUVVYaUMtSWNJazhDak53OG11LVJPNFB4V2pCdG1pX2Q1U0JrTTBOZW5lZnNDQmhpM2I3clZrYzhjemhZejZLSGxNR0Nka0pKbEJBUEdWNXpuelpubm5ZM0dTdmYwYXcwMmYwRmdqV1VlVzFHSy1ZYWVfVQ?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUdSY1k4aXl3d1dFOF9EM01RTl9ydG53VW1UZWFOdzJfUVVYaUMtSWNJazhDak53OG11LVJPNFB4V2pCdG1pX2Q1U0JrTTBOZW5lZnNDQmhpM2I3clZrYzhjemhZejZLSGxNR0Nka0pKbEJBUEdWNXpuelpubm5ZM0dTdmYwYXcwMmYwRmdqV1VlVzFHSy1ZYWVfVQ?oc=5)
-
----
-
-### [Mystery parasite outbreak spreads to 17 US states - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTd0T29ScWlhSmxUM3RuU2h4WVhEcVlLcHRqbkd1c3NPRVpjTFQ0SmNKR0FUOWJfZFBjaXpjY1AxMEVTNzEzdWo4NDFHSVZBLW96ZHpkeURnYkY2bll4d3pUUWUwVDhiS0Mwb2VGLUtoOXIyRVZmTVlxa3JFMEQ3VEVuSnZRUnhFbU10bm5jV0J1OXdfeF9YNVNB?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTd0T29ScWlhSmxUM3RuU2h4WVhEcVlLcHRqbkd1c3NPRVpjTFQ0SmNKR0FUOWJfZFBjaXpjY1AxMEVTNzEzdWo4NDFHSVZBLW96ZHpkeURnYkY2bll4d3pUUWUwVDhiS0Mwb2VGLUtoOXIyRVZmTVlxa3JFMEQ3VEVuSnZRUnhFbU10bm5jV0J1OXdfeF9YNVNB?oc=5)
-
----
-
-### [MS-Fatigue: 75% der 200.000 Patienten leiden unter chronischer Erschöpfung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0RiQ3daNjQ2N2o3SWVWcHFuS0VCdFI1MVUzU0ZCOG0tQ0xoT2hxNjBpSEZvRDZ0MmZyS1RhaGtqSHpNUmx2cW5OYzAydFgwSUVKMjE4VnVBQnZWTzRzbGlKRVBXRDBYUnpaMUxMUFYxWW1LUXZjVGFkTVlhaUlWYUVJejRhMlhrQWVuMUdnQm9qS0ZXbk1RV21UeDNzcy1jLU1uSDFmbndrcDcxUmFPdmdpajN3ZW9t?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0RiQ3daNjQ2N2o3SWVWcHFuS0VCdFI1MVUzU0ZCOG0tQ0xoT2hxNjBpSEZvRDZ0MmZyS1RhaGtqSHpNUmx2cW5OYzAydFgwSUVKMjE4VnVBQnZWTzRzbGlKRVBXRDBYUnpaMUxMUFYxWW1LUXZjVGFkTVlhaUlWYUVJejRhMlhrQWVuMUdnQm9qS0ZXbk1RV21UeDNzcy1jLU1uSDFmbndrcDcxUmFPdmdpajN3ZW9t?oc=5)
 
 ---
 

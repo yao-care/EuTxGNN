@@ -54,11 +54,11 @@ permalink: /news/indacaterol-maleate/
 
 ## 相關新聞（2 則）
 
-### [Lungenembolie: Protonenpumpenhemmer erhöhen Exazerbationen um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFwcUg5amxTRWtwMUtFT2FyOHZaR01CaFlVb1NHRFhYaWt2YTVCeHlWSDRDMlZfb0RyYUtRaTdwYTM0SnRUSG5TLXlZNThCRzhDRjFEd2ZmaHVqcWNNS3ZQWWl5NUpadjBrdzNjaXdsNC1oMjJCZTVuenpORnZiVUh0RDk3bGVHQXd4OUd5VWtJRnlXZFZtUG0zSkFVU0p2TW9nMl9pa3U1aVk5dVFXckcyR0VjdnBobnVWbmRR?oc=5)
+### [Säureblocker erhöhen bei Asthma und COPD das Risiko für Exazerbationen - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUdaRmRVV1duU1lHTTVVRkhNbHFUQkl1Y2RrWFBOTno4THRMMGZoSW1IVGEyWFhNNU9SQlhXcVk0blVaYmR1c09FY3U2Ylo5ZVZPOW9ob1g3LUxQeFpLdEV2c3RrQmExQU03elRKWnFZYURwV2tjcUVQV0pyUUZaS0VfLWhHcnFVcFBjN3cwcHBZQ2tvUXE4aFhIYmpWMzBKdWhpcUE3UEU?oc=5)
 
-2026-07-02 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-01 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVFwcUg5amxTRWtwMUtFT2FyOHZaR01CaFlVb1NHRFhYaWt2YTVCeHlWSDRDMlZfb0RyYUtRaTdwYTM0SnRUSG5TLXlZNThCRzhDRjFEd2ZmaHVqcWNNS3ZQWWl5NUpadjBrdzNjaXdsNC1oMjJCZTVuenpORnZiVUh0RDk3bGVHQXd4OUd5VWtJRnlXZFZtUG0zSkFVU0p2TW9nMl9pa3U1aVk5dVFXckcyR0VjdnBobnVWbmRR?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUdaRmRVV1duU1lHTTVVRkhNbHFUQkl1Y2RrWFBOTno4THRMMGZoSW1IVGEyWFhNNU9SQlhXcVk0blVaYmR1c09FY3U2Ylo5ZVZPOW9ob1g3LUxQeFpLdEV2c3RrQmExQU03elRKWnFZYURwV2tjcUVQV0pyUUZaS0VfLWhHcnFVcFBjN3cwcHBZQ2tvUXE4aFhIYmpWMzBKdWhpcUE3UEU?oc=5)
 
 ---
 

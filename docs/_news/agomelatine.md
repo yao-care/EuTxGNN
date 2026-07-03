@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 
@@ -64,7 +64,7 @@ permalink: /news/agomelatine/
 
 ### [The 13p-a-day supp to turbocharge weight loss and beat brain fog & depression - The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
 
-2026-07-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-07-02 <span class="news-indication-tag">depression</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJJdjE4VVlrRlA2Q3BHV2pfVU9jRVNHbHZFdGFZTlVHc3F4YVY2OU1QMC1yLXRzbmhneTJXbmhRUmJEQkh0WWNzdmI0cDViT1l1ZG54a1l1Y0ZmR0VCWjVYOXlLeWZGY1poNU1TblJTdFNEQmF3QmN0bUdBMmVPT2RjWWc5X2l2V05nUUZSOWthLVZ0YnYzMUZhVTZPcmhHeF83VkI0V1NPdw?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/agomelatine/
 2026-07-01 <span class="news-indication-tag">dépression</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlY2ZXpYTUZPNUpUaHFuVG1DSWtPdE9jbWRXRDNuU09QYXo5aEM3elhMT0dRdDZ6YXZhc0pZa3phT1ZLSnVpNU5kUkdGZk9lM2ZrbEpvX1pDcUtWZktOdmhkNzk5dGYtR2tXTjVRNXBiVU5ab0NxVVFVZWtzaDY0WXVmRldjRnlYQXhXTHF3SUlZMHkwWk5HclU5eDNJbXVDdHpNUW5MUm9TSnJSR2FLa2d4UXk?oc=5)
-
----
-
-### [Psychische Gesundheit: Bewegung und Atemtechniken senken Depressionssymptome - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnBBQTQyRFl6VGFXd2pfdGFQSHN2T0x1ZzE4YlNxRHB1REw4N3FfMTBIUlY3Q25wZXktZ2FacHdzLWFXUnVWMEhCT1drbU0xT0VGUnlvcGRkVWlsQUZlZXdpSVVaTzJsRDRTdTE1Z0c2bzZrVFFVY1BzTHV5cWM5LWIxT3Nrbi1KaUwzWmNlYXNPSkhucXc2WU5hanMwcklUYk5XZGk4OA?oc=5)
-
-2026-07-01 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnBBQTQyRFl6VGFXd2pfdGFQSHN2T0x1ZzE4YlNxRHB1REw4N3FfMTBIUlY3Q25wZXktZ2FacHdzLWFXUnVWMEhCT1drbU0xT0VGUnlvcGRkVWlsQUZlZXdpSVVaTzJsRDRTdTE1Z0c2bzZrVFFVY1BzTHV5cWM5LWIxT3Nrbi1KaUwzWmNlYXNPSkhucXc2WU5hanMwcklUYk5XZGk4OA?oc=5)
 
 ---
 

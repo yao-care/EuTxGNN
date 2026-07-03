@@ -14,7 +14,7 @@ permalink: /news/liraglutide/
 ---
 
 <p class="key-answer" data-question="Liraglutide 有什麼相關新聞？">
-<strong>Liraglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Liraglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/liraglutide/
 <p><a href="{{ '/drugs/liraglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
 ### [Prädiabetes: Lebensstilintervention, nicht aber Metformin kann vor Multimorbidität im Alter schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
 
@@ -78,22 +78,6 @@ permalink: /news/liraglutide/
 
 ---
 
-### [Diabetes-Medikamente senken Alzheimer-Risiko: 43% und neue Präventions-Impulse - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHJzTXpZdWJWQzZ6QTJqTS1KOFFRS2dMNDVLcmFiWUFjcVBDUnlmckVYMFBqTUl3NzItMHB6WnhETDZmc0ZjZFlXZm8ycklaOGNlTUotTnRqWExqeFZvTThjdVA4SFcwMHNRNkVHTDdmbTViTVkzWHVSZDdnclIxWGxGc2RuLVh1Yk9aSThjbFFWUWlPNk81bHdoQW9jNER1d1FQeUs0Ni1nOWVIWmc?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHJzTXpZdWJWQzZ6QTJqTS1KOFFRS2dMNDVLcmFiWUFjcVBDUnlmckVYMFBqTUl3NzItMHB6WnhETDZmc0ZjZFlXZm8ycklaOGNlTUotTnRqWExqeFZvTThjdVA4SFcwMHNRNkVHTDdmbTViTVkzWHVSZDdnclIxWGxGc2RuLVh1Yk9aSThjbFFWUWlPNk81bHdoQW9jNER1d1FQeUs0Ni1nOWVIWmc?oc=5)
-
----
-
-### [Studie zu Fettleber, Diabetes und Ernährungsrisiko: Rindfleisch erhöht Gefahr - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNalRyZHZVNC1yM1Q3ZE9La00teVk3RHQ0WUF1UnptcHJ3cnV6U2Vqcnh2UlhWMk92c3R6TWpDLXhUcUJVTWl6b1JqSGYtdEU2bnFqMUxNMUZFVk4zWU8wbENXYTFpT0hTX3E1MFR4TUt1bmV2Z3FfWXBhRkNsVEF0WVh1bW80VFNLT3JzZzNHS0RvUEFiaWVldUZWVW52M0hPMC1BRHp1Y01VT19IcUE?oc=5)
-
-2026-07-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNalRyZHZVNC1yM1Q3ZE9La00teVk3RHQ0WUF1UnptcHJ3cnV6U2Vqcnh2UlhWMk92c3R6TWpDLXhUcUJVTWl6b1JqSGYtdEU2bnFqMUxNMUZFVk4zWU8wbENXYTFpT0hTX3E1MFR4TUt1bmV2Z3FfWXBhRkNsVEF0WVh1bW80VFNLT3JzZzNHS0RvUEFiaWVldUZWVW52M0hPMC1BRHp1Y01VT19IcUE?oc=5)
-
----
-
 ### [“En la última década vivimos una verdadera revolución para niños y adolescentes con diabetes tipo 1”](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1pYZVhHLXFQeDJ4YmJpLUQydmU0ZWFJa1g3YmR6WWc0YmUtSjhqeE00endLXzc5aUNVdmNLYlZURTNsWFlHLThyOVpIcFNOaEZ5cGlidlZrY3JBTjE3bnVUYV84Zjl3YmY0SVV0UWdfYlhLbUFIS2lTSUZLMVkwRHVFSkdJZUFzME4yV2I5NVlNeFZCV0lQbXhxYTAzMHZCWHlEQVBybXUyNU1IeHMzelB3OTI3bVBiSUxuOWU1WEhKVERCbXc?oc=5)
 
 2026-07-01 <span class="news-indication-tag">diabetes</span>
@@ -107,14 +91,6 @@ permalink: /news/liraglutide/
 2026-07-01 <span class="news-indication-tag">diabetes</span>
 
 來源：[Pharma+Food](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXAzdHpLanBmbmxySmk4Q3dsMGJEMmZEOWpDbUtQYUN4NGhlQnhNakZNR3R4WEotcXRWdDZod1EtTVNhYTlhODZ2T2NjcC1ibjdTYlZhWGVubUgwWW5TenAxWUFzZXVGVENoVXA5QW5jZGxzdGlxLWR6UjZ2VlB2Y2hJVVBUdDVrU1VqUjFMQjBMNTRKOHlfNWVURktvdHB6cHRWcVFR?oc=5)
-
----
-
-### [Tegoprubart nach Inselzelltransplantation: KI-sicherere Perspektive für Typ-1-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1FKb2dFbml0X21NYjllb0FtR18wZlF4ZVFKRVY2X3F3UG4tMlNhdExJYWZabElJOTdxNUZud29zQmd4YjRUWEpWcDZYZ3pmd2k2YnVVMmltQVFvR3Q3Uzl2U2xkN21BZGR2blFsWWVVT0oyeEJiUUZjMVhIY0R6OUVKc2MwLWVtcWhLUnoyYXZpcVhIUkFPWmV3bHpnWVNaMXZQdHhKU3FuQ1A4aHpmWDdyVE5KT213dXc?oc=5)
-
-2026-07-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1FKb2dFbml0X21NYjllb0FtR18wZlF4ZVFKRVY2X3F3UG4tMlNhdExJYWZabElJOTdxNUZud29zQmd4YjRUWEpWcDZYZ3pmd2k2YnVVMmltQVFvR3Q3Uzl2U2xkN21BZGR2blFsWWVVT0oyeEJiUUZjMVhIY0R6OUVKc2MwLWVtcWhLUnoyYXZpcVhIUkFPWmV3bHpnWVNaMXZQdHhKU3FuQ1A4aHpmWDdyVE5KT213dXc?oc=5)
 
 ---
 

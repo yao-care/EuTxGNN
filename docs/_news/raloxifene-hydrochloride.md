@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Schlaganfall: Rückenmarkstimulation verbessert Armbewegungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxONnQtTzh3VUpuNkQ2YXVQZWl3RXFkZGJNQzU5T19PMkY3MjhaRGoxTVlfRGN2RFNyTEdmcFBpTEw0NmdyWlA1a3dyNDFfZmxEaXB5akJ5YXhkdHJUTzdvOXpNenotbXItZGEtYW9hNEJHUEpJOVhGXy0tYXNSb3d0WHpKTkxKNmVNR2pLRjM3dFQ2ZUo4c3J5ZExuMFFReW5vcE1VYTFkR280UHVkeEp5d0lqZEJic1llZXRnQjVjVFBUX2F3SmFj?oc=5)
+
+2026-07-02 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxONnQtTzh3VUpuNkQ2YXVQZWl3RXFkZGJNQzU5T19PMkY3MjhaRGoxTVlfRGN2RFNyTEdmcFBpTEw0NmdyWlA1a3dyNDFfZmxEaXB5akJ5YXhkdHJUTzdvOXpNenotbXItZGEtYW9hNEJHUEpJOVhGXy0tYXNSb3d0WHpKTkxKNmVNR2pLRjM3dFQ2ZUo4c3J5ZExuMFFReW5vcE1VYTFkR280UHVkeEp5d0lqZEJic1llZXRnQjVjVFBUX2F3SmFj?oc=5)
+
+---
+
+### [Statins: Serious Side Effects on Muscles Are Rare, Study Finds](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUdSY1k4aXl3d1dFOF9EM01RTl9ydG53VW1UZWFOdzJfUVVYaUMtSWNJazhDak53OG11LVJPNFB4V2pCdG1pX2Q1U0JrTTBOZW5lZnNDQmhpM2I3clZrYzhjemhZejZLSGxNR0Nka0pKbEJBUEdWNXpuelpubm5ZM0dTdmYwYXcwMmYwRmdqV1VlVzFHSy1ZYWVfVQ?oc=5)
+
+2026-07-01 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUdSY1k4aXl3d1dFOF9EM01RTl9ydG53VW1UZWFOdzJfUVVYaUMtSWNJazhDak53OG11LVJPNFB4V2pCdG1pX2Q1U0JrTTBOZW5lZnNDQmhpM2I3clZrYzhjemhZejZLSGxNR0Nka0pKbEJBUEdWNXpuelpubm5ZM0dTdmYwYXcwMmYwRmdqV1VlVzFHSy1ZYWVfVQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

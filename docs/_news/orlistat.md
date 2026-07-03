@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
 
-### [Adipositas-Therapie: 44% weniger Todesfälle mit GLP-1-Agonisten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+### [Adipositas-Therapie: 44% weniger Todesfälle mit GLP-1-Agonisten](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
 
 2026-07-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVaR3RvTnRNZVNjejNyTHZZenVOM2RLQ0hYOEtneVA0OVc3RXlFQWpNYlh1MndrcnVaRmpqclkzc01zUmRhZVFtZVFvVjBBSlNrZ1Rhalk3dExRVmVKWVhpM2htTE1CWng4b3pNbHBwYml1SVU4bTRKazlqOEhqYkh1V05KaGg3QS14WDh2NExneUxhZzdFUVI0UGJuZmVLM1g0YWxiYjhla1VValFEeTBSSlBrVE9zVElj?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/orlistat/
 2026-07-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
+
+---
+
+### [Schlaganfall: Rückenmarkstimulation verbessert Armbewegungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxONnQtTzh3VUpuNkQ2YXVQZWl3RXFkZGJNQzU5T19PMkY3MjhaRGoxTVlfRGN2RFNyTEdmcFBpTEw0NmdyWlA1a3dyNDFfZmxEaXB5akJ5YXhkdHJUTzdvOXpNenotbXItZGEtYW9hNEJHUEpJOVhGXy0tYXNSb3d0WHpKTkxKNmVNR2pLRjM3dFQ2ZUo4c3J5ZExuMFFReW5vcE1VYTFkR280UHVkeEp5d0lqZEJic1llZXRnQjVjVFBUX2F3SmFj?oc=5)
+
+2026-07-02 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxONnQtTzh3VUpuNkQ2YXVQZWl3RXFkZGJNQzU5T19PMkY3MjhaRGoxTVlfRGN2RFNyTEdmcFBpTEw0NmdyWlA1a3dyNDFfZmxEaXB5akJ5YXhkdHJUTzdvOXpNenotbXItZGEtYW9hNEJHUEpJOVhGXy0tYXNSb3d0WHpKTkxKNmVNR2pLRjM3dFQ2ZUo4c3J5ZExuMFFReW5vcE1VYTFkR280UHVkeEp5d0lqZEJic1llZXRnQjVjVFBUX2F3SmFj?oc=5)
 
 ---
 
@@ -115,6 +123,14 @@ permalink: /news/orlistat/
 2026-07-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
+
+---
+
+### [Statins: Serious Side Effects on Muscles Are Rare, Study Finds](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUdSY1k4aXl3d1dFOF9EM01RTl9ydG53VW1UZWFOdzJfUVVYaUMtSWNJazhDak53OG11LVJPNFB4V2pCdG1pX2Q1U0JrTTBOZW5lZnNDQmhpM2I3clZrYzhjemhZejZLSGxNR0Nka0pKbEJBUEdWNXpuelpubm5ZM0dTdmYwYXcwMmYwRmdqV1VlVzFHSy1ZYWVfVQ?oc=5)
+
+2026-07-01 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUdSY1k4aXl3d1dFOF9EM01RTl9ydG53VW1UZWFOdzJfUVVYaUMtSWNJazhDak53OG11LVJPNFB4V2pCdG1pX2Q1U0JrTTBOZW5lZnNDQmhpM2I3clZrYzhjemhZejZLSGxNR0Nka0pKbEJBUEdWNXpuelpubm5ZM0dTdmYwYXcwMmYwRmdqV1VlVzFHSy1ZYWVfVQ?oc=5)
 
 ---
 
