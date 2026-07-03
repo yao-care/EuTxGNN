@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+
+---
+
+### [Säureblocker: Langzeit-PPI erhöhen Demenz- und Lungensrisiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
+
+2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
 
 ---
 

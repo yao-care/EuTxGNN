@@ -56,7 +56,7 @@ permalink: /news/atropine-sulfate/
 
 ### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 

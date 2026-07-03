@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Blutdrucksenker: Welche Wirkstoffe sind am besten verträglich? - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
+
+---
 
 ### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,11 +87,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（1 則）
 
-### [Clinical trial aims to help heart failure patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
+### [Crean un método para regenerar microvasos y tratar eficazmente la cardiopatía isquémica - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
 
-2026-07-02
+2026-07-03
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
 
 ---
 

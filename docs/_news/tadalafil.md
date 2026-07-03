@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="Tadalafil 有什麼相關新聞？">
-<strong>Tadalafil</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tadalafil</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/tadalafil/
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（23 則）
 
-### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
-
----
-
-### [Más de un centenar de afectados por un brote de norovirus en un crucero](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkQ0YWZTZlpwc2dCVFpTdjNBQmRMSG1Mcm1XUlJLWVU4ZlpjYWVtTnhTUXpDWWNSLUsyOU0xOVRxU2VtQ0F1RXhUSXUtYWhycHZoSGNGRVNsYVpCeHdZZk5FSkdnMHpDalZ3dDBGdDhRVlA3UV9MSDVrbzNtUHh2Vk15OHNSWEc1bXhSR0hncHlMNFFhUHdRU2VVY0Vxb2xOUTdpZFdlRlZUZDlHUEdmbEZYLUpJcy1XSnlIeXVUaDNwdDRwYzhKVmFfNURUMEN4SVFwbXRMWnc?oc=5)
+### [Schlafmangel: Schon eine Nacht ohne Schlaf verändert Ihr Gehirn](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTE5Q3JtSkhSZXhCbHI3WHk3VmtvVlBldTh3MjVXQl8zVXI4ZnVDM09TbkFaanpWU0QzODRyRXJUVG81RU1yTl84QmZVQVR4WS1Cd3kzQzFrb3RFcnNNN0xkTzRoZF80OEZrbUlmWk9Tdml1a0ktUzdta0Z4SldzS3JidnhpNmJlR3YtbzhtS3lqeFBkZEp0WFFqU2Fkc05TSC1yTk02NTNXU3lHcWJrWG5uUTJDSDEwTDdma2NiN3EtaF9rQ0R0bGl3bw?oc=5)
 
 2026-07-03 <span class="news-indication-tag">AF</span>
 
-來源：[Preferente.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkQ0YWZTZlpwc2dCVFpTdjNBQmRMSG1Mcm1XUlJLWVU4ZlpjYWVtTnhTUXpDWWNSLUsyOU0xOVRxU2VtQ0F1RXhUSXUtYWhycHZoSGNGRVNsYVpCeHdZZk5FSkdnMHpDalZ3dDBGdDhRVlA3UV9MSDVrbzNtUHh2Vk15OHNSWEc1bXhSR0hncHlMNFFhUHdRU2VVY0Vxb2xOUTdpZFdlRlZUZDlHUEdmbEZYLUpJcy1XSnlIeXVUaDNwdDRwYzhKVmFfNURUMEN4SVFwbXRMWnc?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTE5Q3JtSkhSZXhCbHI3WHk3VmtvVlBldTh3MjVXQl8zVXI4ZnVDM09TbkFaanpWU0QzODRyRXJUVG81RU1yTl84QmZVQVR4WS1Cd3kzQzFrb3RFcnNNN0xkTzRoZF80OEZrbUlmWk9Tdml1a0ktUzdta0Z4SldzS3JidnhpNmJlR3YtbzhtS3lqeFBkZEp0WFFqU2Fkc05TSC1yTk02NTNXU3lHcWJrWG5uUTJDSDEwTDdma2NiN3EtaF9rQ0R0bGl3bw?oc=5)
+
+---
+
+### [Blutdrucksenker: Welche Wirkstoffe sind am besten verträglich? - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
+
+---
+
+### [Quanti caffè sono troppi caffè? Il numero esatto secondo gli esperti](https://news.google.com/rss/articles/CBMirAFBVV95cUxObXExdDN4ajJJUWRSVDhSaVpKVnlBR2lIelQzQmZYOEF1UHhBWWcydV9lU2d1ZWhRekpqSTZOVXZGd2p0NkhVenoydE1XaTl6eTM4Ykp3VDYzUnlUalVxRWpfZ0I0aTg5M05GU2lCVTROeHI2aU5udnpxQW4wTmtvbWlPdmdIYlg3YkJXRmpmNFFIV2Y5WGNwbzAxTFNBeVlwTVRIOWlsLWsyT2JN?oc=5)
+
+2026-07-03 <span class="news-indication-tag">AF</span>
+
+來源：[Grazia](https://news.google.com/rss/articles/CBMirAFBVV95cUxObXExdDN4ajJJUWRSVDhSaVpKVnlBR2lIelQzQmZYOEF1UHhBWWcydV9lU2d1ZWhRekpqSTZOVXZGd2p0NkhVenoydE1XaTl6eTM4Ykp3VDYzUnlUalVxRWpfZ0I0aTg5M05GU2lCVTROeHI2aU5udnpxQW4wTmtvbWlPdmdIYlg3YkJXRmpmNFFIV2Y5WGNwbzAxTFNBeVlwTVRIOWlsLWsyT2JN?oc=5)
+
+---
+
+### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
+
+2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corresponsables](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
+
+---
+
+### [Crean un método para regenerar microvasos y tratar eficazmente la cardiopatía isquémica - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
+
+---
+
+### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
 ---
 
@@ -86,19 +118,19 @@ permalink: /news/tadalafil/
 
 ---
 
-### [No es una cuestión estética; es una cuestión de salud - Periodico PublicidAD](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUQ2eXFTeGtDYlhGa295MHplekxfLTdPdlZsWmtWbTBVY1JhRnY1UUFuUVRsUkNScFRoQUtwU1RIS2hLRUc3UHBpbW05Y1pGMmk1bVdOZVhPTTdSOUJ5dm0zUXpzcG01OUR2aVNPYmVsZG1BeGVaYUxyQmNxNlpoZDJXNnJROFNibGM1M1BsNTE4bGRsWVZzRDdXYTcyWldQQ0ZBS0MwM3dOa2JMOW01OFlqOEtMM0lIZlNCZmV6MmtEcVJU0gHKAUFVX3lxTE9yWEJjdmwxZl8tVFJxODA5aUlGVzBDS2lvRDV3aFFTTHMyTW1LNl9LQUpoZnh6SFpCT1pEc2lEb3F1OS1ORTg0emVBNUlZbDl3b0dLTXpuamtUYTB5ak1HbWY1d2tsWnVEX2I4ZFV6bnNhM3Z5TFFVa0o4dnJtWUo0U0ZqWDVpSEFQdndVZWd5Z2g4Mk51cTB5YUhlY0taN1VGVHdYMWVNTTY4V2IyaEZsWUdwMmpNelVSekNQNENsWDZjbjZTbUREM2c?oc=5)
+### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
 
-2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Periodico PublicidAD](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUQ2eXFTeGtDYlhGa295MHplekxfLTdPdlZsWmtWbTBVY1JhRnY1UUFuUVRsUkNScFRoQUtwU1RIS2hLRUc3UHBpbW05Y1pGMmk1bVdOZVhPTTdSOUJ5dm0zUXpzcG01OUR2aVNPYmVsZG1BeGVaYUxyQmNxNlpoZDJXNnJROFNibGM1M1BsNTE4bGRsWVZzRDdXYTcyWldQQ0ZBS0MwM3dOa2JMOW01OFlqOEtMM0lIZlNCZmV6MmtEcVJU0gHKAUFVX3lxTE9yWEJjdmwxZl8tVFJxODA5aUlGVzBDS2lvRDV3aFFTTHMyTW1LNl9LQUpoZnh6SFpCT1pEc2lEb3F1OS1ORTg0emVBNUlZbDl3b0dLTXpuamtUYTB5ak1HbWY1d2tsWnVEX2I4ZFV6bnNhM3Z5TFFVa0o4dnJtWUo0U0ZqWDVpSEFQdndVZWd5Z2g4Mk51cTB5YUhlY0taN1VGVHdYMWVNTTY4V2IyaEZsWUdwMmpNelVSekNQNENsWDZjbjZTbUREM2c?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
 
 ---
 
-### [Los beneficios de moverse en períodos de sedentarismo: «No hace falta ser un Rafael Nadal para estar seguro de que se reduce el riesgo de cáncer» - La Voz de Galicia](https://news.google.com/rss/articles/CBMipwJBVV95cUxOeUV4b0RSd3hTQTNFSFNWN1FaMklkTW40eVV2OGh6S052QUhiSmRaa2VBWW8tRmdnTkJQNDJWMG1OWHNubUFBTkR0eXlRYk5sLW9CcFZsMU1PQk5MLU5EUFF6ZFBIRmhnUWlKTEY1TVVfLTBMb3FKMGppd1huazZXYXpYdU9CR2R2czFtWWd1NVMzdEtSWDVmd29KUmJodEtDNWUxam5rSUlna0tkZG9nZExSdGJPV2VwTlJZekw5Ry1rSzJieFVHaHhGeEFmUVprUUlqemR0czZ1clJhMm9pMFpOWU1DNDNwZWtDcFRuVkxmaTBtTTYwYnlnb25VaVZaM0laa1YxY0QzX2FyYmU4OWhlUmtWVlVtRDFObFNZMzdDcGJtd3h3?oc=5)
+### [Mystery parasite that causes ‘explosive diarrhea’ spreads to 17 US states - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPa2xFeFd6ZTlTdjdtM0lPQWp1T2xRbGJVNWpaQ2w4Xzgwc3gyN0Z6YUZfVWtuVTRINXZBRlk5bmZUTHFHem0zUThhRmpDQUh0MUxWR2ZFb2c2eTdSSE5rejF3SGhsZUZLWjVhNXFTMjFOR0RMN21Ibl9OS0NQMThnYVRCdHJlWUZwSm5QOHJ6ZTZldWJ3SjFkWHlaM195Zw?oc=5)
 
 2026-07-03 <span class="news-indication-tag">AF</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMipwJBVV95cUxOeUV4b0RSd3hTQTNFSFNWN1FaMklkTW40eVV2OGh6S052QUhiSmRaa2VBWW8tRmdnTkJQNDJWMG1OWHNubUFBTkR0eXlRYk5sLW9CcFZsMU1PQk5MLU5EUFF6ZFBIRmhnUWlKTEY1TVVfLTBMb3FKMGppd1huazZXYXpYdU9CR2R2czFtWWd1NVMzdEtSWDVmd29KUmJodEtDNWUxam5rSUlna0tkZG9nZExSdGJPV2VwTlJZekw5Ry1rSzJieFVHaHhGeEFmUVprUUlqemR0czZ1clJhMm9pMFpOWU1DNDNwZWtDcFRuVkxmaTBtTTYwYnlnb25VaVZaM0laa1YxY0QzX2FyYmU4OWhlUmtWVlVtRDFObFNZMzdDcGJtd3h3?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxPa2xFeFd6ZTlTdjdtM0lPQWp1T2xRbGJVNWpaQ2w4Xzgwc3gyN0Z6YUZfVWtuVTRINXZBRlk5bmZUTHFHem0zUThhRmpDQUh0MUxWR2ZFb2c2eTdSSE5rejF3SGhsZUZLWjVhNXFTMjFOR0RMN21Ibl9OS0NQMThnYVRCdHJlWUZwSm5QOHJ6ZTZldWJ3SjFkWHlaM195Zw?oc=5)
 
 ---
 
@@ -107,6 +139,14 @@ permalink: /news/tadalafil/
 2026-07-03 <span class="news-indication-tag">AF</span>
 
 來源：[Redacción Médica](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVpRenlRR1FjTXBXaU9wSzVGalAtUm9NM3V2bmF0cnJ2WW5JTUtIdTlqS1prTG1NR0hlZmpEdmdjZ3poSFZiNGRiS0RRb2JncDYzcW9ZOUxVOHZMNlhDVFlia2hYRVJKdlBuUUZmSDZnM0hhckpVWnQ3Q1hSbkRyTnJOR0ZSdUhXS0VzX2FIOS1ocFJ6NVczVzlEUFdITm9wakNDVE9MeHZReFdELWtOZTF4dUpOdXJKcklFYjdMOFV3N3lySURlem9mdEVMTW5XN3c?oc=5)
+
+---
+
+### ["Elle rétrécit le cerveau" : les médecins alertent sur cette boisson que l’on boit tous les matins - Yahoo Life France](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZRUEhTU1NvdVJ6WGhvZExqTmhWeGRURVEzeFNIMnBVRjhPUjBuZXpVQ3BITzhhODJTQklsWjdxQjlHZ2V4cGp4cGFRbnROY2ltejl1el9kOWtaNGJ1QUFqWFVldUtIY1BjVlU2VUpCXzlkZjdYekhHbnRROG5JXzlPNzZQeXlsVlY1WFh6RVhOeE9jNUlndWFIaVpJRmhI?oc=5)
+
+2026-07-02 <span class="news-indication-tag">AF</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZRUEhTU1NvdVJ6WGhvZExqTmhWeGRURVEzeFNIMnBVRjhPUjBuZXpVQ3BITzhhODJTQklsWjdxQjlHZ2V4cGp4cGFRbnROY2ltejl1el9kOWtaNGJ1QUFqWFVldUtIY1BjVlU2VUpCXzlkZjdYekhHbnRROG5JXzlPNzZQeXlsVlY1WFh6RVhOeE9jNUlndWFIaVpJRmhI?oc=5)
 
 ---
 
@@ -126,19 +166,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
----
-
-### [Canadian boy dies of rabies after waking to find bat on his face - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxNV201QzBXS1Y0dXJsVE5Md0o5cFkzXzRiZnR5R2pCRmZnbmtrN0dTYnB4YlMwT0tubFJxQUp5WnZEYnV0RlhVV1VnUDlySmVPOUhwek9BbHFkV1JPdEQ0d3JHbUpUc3NIdl9COFRVN3lWM0lJRWhUT1pQZ3NxaWpzZmRzOEFFR1NOQ3c?oc=5)
+### [WHO says Hantavirus outbreak linked to ship is over](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNHVHSzdETnIxcTlkMDNGbk9QTlNlcjBBQXI3ekZmX1Z0emJKaVhwLXZNVllUNjRvMHUtTjJwZTZ1dG1TQllzaGUySDZYN3llM3BtWmZldGxBTElu?oc=5)
 
 2026-07-02 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxNV201QzBXS1Y0dXJsVE5Md0o5cFkzXzRiZnR5R2pCRmZnbmtrN0dTYnB4YlMwT0tubFJxQUp5WnZEYnV0RlhVV1VnUDlySmVPOUhwek9BbHFkV1JPdEQ0d3JHbUpUc3NIdl9COFRVN3lWM0lJRWhUT1pQZ3NxaWpzZmRzOEFFR1NOQ3c?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNHVHSzdETnIxcTlkMDNGbk9QTlNlcjBBQXI3ekZmX1Z0emJKaVhwLXZNVllUNjRvMHUtTjJwZTZ1dG1TQllzaGUySDZYN3llM3BtWmZldGxBTElu?oc=5)
 
 ---
 
@@ -147,14 +179,6 @@ permalink: /news/tadalafil/
 2026-07-02 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjhHVzNWdW9sQUFWYUIyRzdIVHlQVDlhN3RsOWpxQUZpYm9INTNHSTltVWpWMzY5TGUwM2JleWd4ZGhhcW81QWhORy1tOHY2Z2FkV1c3cnN4MUo0LXJnZlBnRGNEWXRTaFZzYXFWTUp0WWMweE1sLW5CM3ViVHp4Z2s1aHROeEZrQ2hnU3FCMlJBeXVFalg0ZlRscE1vSDhhMDE0OVg3aWRLOXZ3NTVtN01B0gGkAUFVX3lxTE16eFZFWHlIMWdYLUczVHIteENaRklyNXNWdURZMlF2d2VYQTF0VVV1cG5qdW1XMEMzcW81NEhNRUhsMGQ5eUlNQjRTVlVlcXZqZGZ5M2w2ZWtRTDFrckc0dXYxbW9LOWNKbVF2NEdpNUhGS0FnQXp4T2haYmF5U2dNVmtXR1FNZVM4cDRpS2ZZaUJiZ2FObzhHRnJyTUZfbEZxdkJy?oc=5)
-
----
-
-### [WHO declares hantavirus outbreak linked to cruise ship over - The Guardian](https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5)
-
-2026-07-02 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5)
 
 ---
 
@@ -198,19 +222,11 @@ permalink: /news/tadalafil/
 
 ---
 
-### [Clinical trial aims to help heart failure patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
+### [Doctors issue rabies warning after boy dies from bat bite with no visible marks - The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHRkTVIyZXh3MHJuLUtNTVJ2RUo1RjJ6S0V6dDhtcnBqRXhqakpEMU9VRkNxT19fcGc3ZmhEX01YSTZ6d29iT0hIakl5dmYxRnhYbXB3WHBPVW9vcVNZdzNsTmlPc3pFQlVtMDNQdFJhM2tnamJuenhYMThETjhGOHhfZ3V1NHZLMXFxTnFfRQ?oc=5)
 
-2026-07-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-07-02 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
-
----
-
-### [Schwarzes Loch im Labor: Hawking-Strahlung könnte einfacher entstehen als gedacht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3NWcHdlYzBRNDRIRU95TG1kUzd2U2N6SW9DS1UzVU9kWGZjdUx0bGZSLUNTQklfSXJlVGtnSDR4RkRXMUNOYVFpRHhNRjg2cHVGM0VqYjA0QWkzX2JWT3VsY0trS0Q0OGQ2czNTRGZVVGhfQ2R1MWpkM09WYUF6MzRfd1dXSFZlZ29TdXBfdW9ITklGeEFkRy0wLVY2QjdaQjNoVjRNNmc?oc=5)
-
-2026-07-01 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3NWcHdlYzBRNDRIRU95TG1kUzd2U2N6SW9DS1UzVU9kWGZjdUx0bGZSLUNTQklfSXJlVGtnSDR4RkRXMUNOYVFpRHhNRjg2cHVGM0VqYjA0QWkzX2JWT3VsY0trS0Q0OGQ2czNTRGZVVGhfQ2R1MWpkM09WYUF6MzRfd1dXSFZlZ29TdXBfdW9ITklGeEFkRy0wLVY2QjdaQjNoVjRNNmc?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHRkTVIyZXh3MHJuLUtNTVJ2RUo1RjJ6S0V6dDhtcnBqRXhqakpEMU9VRkNxT19fcGc3ZmhEX01YSTZ6d29iT0hIakl5dmYxRnhYbXB3WHBPVW9vcVNZdzNsTmlPc3pFQlVtMDNQdFJhM2tnamJuenhYMThETjhGOHhfZ3V1NHZLMXFxTnFfRQ?oc=5)
 
 ---
 
@@ -219,30 +235,6 @@ permalink: /news/tadalafil/
 2026-07-01 <span class="news-indication-tag">AF</span>
 
 來源：[Italiafruit News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOclRnQnNkUFdxNXBfRURyVWFMZ3NzS083MFItR1ExUlZHRDFPWDQzalNhQ0hWT0txU2g1cW9PSWlZZks1SFJfNDhuc28yX0NHZnRpZ29XVEJaMFN1a2Y2REphSVA1a2p3TWZCalllNlo1OG9PQURJYVRxMVd3S1daeGdMN0xmLTduZ2NTVm9MM0M3dnFFZEdxekdqRHgyNVRhaEhTQw?oc=5)
-
----
-
-### [Melatonin: Popular Sleep Aid May Also Help Relieve Chronic Pain](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklJTDdFTEtEZzFtd2hFQld6OGlKb3dlaTVrdWtOUW1EY3JzbTU3bUx2TmRhYW1qWmQ1S19SQXkzNnNKcV9BVnVOdjlYelF0YXFKazdhNmpDZ05Dc2diTWkyRWtBX0pMWllsdU1QMFVnTmVCWUlMOFQtcGlPQXYtQ0pWaUI?oc=5)
-
-2026-07-01 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklJTDdFTEtEZzFtd2hFQld6OGlKb3dlaTVrdWtOUW1EY3JzbTU3bUx2TmRhYW1qWmQ1S19SQXkzNnNKcV9BVnVOdjlYelF0YXFKazdhNmpDZ05Dc2diTWkyRWtBX0pMWllsdU1QMFVnTmVCWUlMOFQtcGlPQXYtQ0pWaUI?oc=5)
-
----
-
-### [Un tercio de la humanidad alberga este parásito sin saberlo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
-
-2026-07-01 <span class="news-indication-tag">AF</span>
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
-
----
-
-### [What is Ebola and are there cases in the UK?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nNFlnS1VEbjFlc3pTeHZvNTMwVEk5cnB1Y0Z2ZWNyc1JVekxNSEhDNGlXYk9NTU1sdjlPRDRQWlExNmdkb2Z6elF3ekM2UzJaN3J6ZVNzSkNmSTZV?oc=5)
-
-2026-07-01 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nNFlnS1VEbjFlc3pTeHZvNTMwVEk5cnB1Y0Z2ZWNyc1JVekxNSEhDNGlXYk9NTU1sdjlPRDRQWlExNmdkb2Z6elF3ekM2UzJaN3J6ZVNzSkNmSTZV?oc=5)
 
 ---
 

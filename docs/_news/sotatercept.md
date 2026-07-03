@@ -14,7 +14,7 @@ permalink: /news/sotatercept/
 ---
 
 <p class="key-answer" data-question="Sotatercept 有什麼相關新聞？">
-<strong>Sotatercept</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sotatercept</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/sotatercept/
 <p><a href="{{ '/drugs/sotatercept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（32 則）
+
+### ["España necesita inversión para desarrollar vacunas personalizadas con IA" - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQajFxVDN5VUJuMW1oOEl4LXRoRUp6dVN2VWowMENfUjBzRy1iWEZKQkhrbWdxd2M4aDEyNUozRHFkTVFHY1J2U1duSldBNmpMN0dJWkw5QjJBdWoxNzBzVlVLZ1kwTmZkSmptRjE1OUt2dktZMVhFcFUzZDdkcGxqelNNNVNLUGg4b3NwZ3dTRFUyWmlJUHpGOE9ycEt2V2ZMMlBXblY4RXdFOXlMWWxtenk5MFBmX005VGlyRGx2dE5UYjhpZm1EOHRERi0?oc=5)
+
+2026-07-03 <span class="news-indication-tag">tumor</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQajFxVDN5VUJuMW1oOEl4LXRoRUp6dVN2VWowMENfUjBzRy1iWEZKQkhrbWdxd2M4aDEyNUozRHFkTVFHY1J2U1duSldBNmpMN0dJWkw5QjJBdWoxNzBzVlVLZ1kwTmZkSmptRjE1OUt2dktZMVhFcFUzZDdkcGxqelNNNVNLUGg4b3NwZ3dTRFUyWmlJUHpGOE9ycEt2V2ZMMlBXblY4RXdFOXlMWWxtenk5MFBmX005VGlyRGx2dE5UYjhpZm1EOHRERi0?oc=5)
+
+---
+
+### [Terapia CAR-T muestra potencial para eliminar el glioblastoma agresivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3VJLTRQNGZPWWJwM19uenlTYXRkRTRfUmk0alZkRFIxLXp1UUpzZ29kQndldXlQckNLT1hFMFlQRXdla3dHanpDTlJaZHZlU1E5bGtUZzZVZVBpVlZJb0NYSHd6SW5IY01VcGlFZV8zMHpsSVpIQU9BMEtyYjBQNGtiYzh5cDJrRzJ3Z2pVeVVmN21qSjV5NnJTZlBJTGNRUFJ0X1ROVWZVa1hzTkxN?oc=5)
+
+2026-07-03 <span class="news-indication-tag">tumor</span>
+
+來源：[DiarioBitcoin](https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3VJLTRQNGZPWWJwM19uenlTYXRkRTRfUmk0alZkRFIxLXp1UUpzZ29kQndldXlQckNLT1hFMFlQRXdla3dHanpDTlJaZHZlU1E5bGtUZzZVZVBpVlZJb0NYSHd6SW5IY01VcGlFZV8zMHpsSVpIQU9BMEtyYjBQNGtiYzh5cDJrRzJ3Z2pVeVVmN21qSjV5NnJTZlBJTGNRUFJ0X1ROVWZVa1hzTkxN?oc=5)
+
+---
+
+### [Un radiofármaco abre nuevas opciones frente a los tumores neuroendocrinos avanzados - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVnVCOENHM05zTFM0blZtYzJiTE5tNmhsOTB4Tm9wRHRHc2hlcDVveHVQQWxybjltQXpyaUc5cHo2UW5qQk1WalA2QVhaSlRtcVpidHlQcTNyYnFTc1BFUnVpOGNRUTBHNEp0dlFMMWlJWDJQMzhKQVg4SlF0QmtPSDJhRUh1eEVqanpLM3hrUHY0dDRZRGRieklqX0V1cEI3SGFfYTdOWVB2VWx5angyRFpDamxlZ0RUVExZaElrVGFRUdIBvAFBVV95cUxPRGY2UzJ0bFFlTzZ1TXZYRW1HSkcxTmVGVGVGcHZSdWxDaDVUSG5KbFU1SE1TekRIQUZaVzJkeEFNZjA1UlVwN3VOczI5NHhwZ2Z5TV9vbzg4UkF2cFlqQVhyaXYyaWhSNUF5ck81Z2RlVW5QY3dWbE9CTnBMN1BvUlQzb2ltTE50ZDVLNUtCSmVNcmlDQWRyR3hZWlVzM1NNeTdpMlhwem9fc2dhc0RWSjJRbGZ3REZUM1d0bw?oc=5)
+
+2026-07-03 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVnVCOENHM05zTFM0blZtYzJiTE5tNmhsOTB4Tm9wRHRHc2hlcDVveHVQQWxybjltQXpyaUc5cHo2UW5qQk1WalA2QVhaSlRtcVpidHlQcTNyYnFTc1BFUnVpOGNRUTBHNEp0dlFMMWlJWDJQMzhKQVg4SlF0QmtPSDJhRUh1eEVqanpLM3hrUHY0dDRZRGRieklqX0V1cEI3SGFfYTdOWVB2VWx5angyRFpDamxlZ0RUVExZaElrVGFRUdIBvAFBVV95cUxPRGY2UzJ0bFFlTzZ1TXZYRW1HSkcxTmVGVGVGcHZSdWxDaDVUSG5KbFU1SE1TekRIQUZaVzJkeEFNZjA1UlVwN3VOczI5NHhwZ2Z5TV9vbzg4UkF2cFlqQVhyaXYyaWhSNUF5ck81Z2RlVW5QY3dWbE9CTnBMN1BvUlQzb2ltTE50ZDVLNUtCSmVNcmlDQWRyR3hZWlVzM1NNeTdpMlhwem9fc2dhc0RWSjJRbGZ3REZUM1d0bw?oc=5)
+
+---
+
+### [Warum PCOS zu PMOS wurde und was das mit Diabetes zu tun hat](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3JJNFFhSlhYbXlKU1BiNmhTbHdnbi1ZU3BwMXNKUC0xY3dyQV9sMzIybGg5bWV5QnBsQ0sxeUZ2bG5ZUFViRjlKOUFpN1JVV21FbDZ6ZE9OWFN3M1Z6aHR0ek55cUNwTlAzREdzRWtUMmExRGhxcks0MjNNcHhnNG9OcHFVVVZxMmZhSThHN25nbmZEZldOaVBJNnRnM3VtQld0a0JxbWNGR3RUd1E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3JJNFFhSlhYbXlKU1BiNmhTbHdnbi1ZU3BwMXNKUC0xY3dyQV9sMzIybGg5bWV5QnBsQ0sxeUZ2bG5ZUFViRjlKOUFpN1JVV21FbDZ6ZE9OWFN3M1Z6aHR0ek55cUNwTlAzREdzRWtUMmExRGhxcks0MjNNcHhnNG9OcHFVVVZxMmZhSThHN25nbmZEZldOaVBJNnRnM3VtQld0a0JxbWNGR3RUd1E?oc=5)
+
+---
+
+### [Dans le Tarn, une infirmière révolutionne l’accompagnement des malades du cancer avec des consultations à domicile après le choc du diagnostic](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFvWUtrcnhkRzlvR1FyT3M5LWwxOExDSWxJWmc3X1RWOUxUT0pDU3VnWlJFRENuNldJNC1zM084c1BTYWdnZ0l4Z3hHa1dyMlFMZ1oxNklUX25oUjdJMVJMZU02ZEZZLTdKdm1sSnlhWnhGUVlYVkRKTVRmS1hHTXdncXFWWmFvTEZtRDIxWUhYV1NzMlZGRF9sUXdtMTEzYjQ4Z3A1OTEzY3p2aHhZUVQzNzJfYWJDeEsydEZDY0lhVk1hMVZKbGtOYjVoamlQYjl5MW5RTnNRazdUNzJmbjF2TmRQdHAyZC1hdGlGOUgxQXFVSWk4aUtDZ0xxcUNuRHFGWnFNeUQ5RG5sZ3o4a25mbEVNSENP?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFvWUtrcnhkRzlvR1FyT3M5LWwxOExDSWxJWmc3X1RWOUxUT0pDU3VnWlJFRENuNldJNC1zM084c1BTYWdnZ0l4Z3hHa1dyMlFMZ1oxNklUX25oUjdJMVJMZU02ZEZZLTdKdm1sSnlhWnhGUVlYVkRKTVRmS1hHTXdncXFWWmFvTEZtRDIxWUhYV1NzMlZGRF9sUXdtMTEzYjQ4Z3A1OTEzY3p2aHhZUVQzNzJfYWJDeEsydEZDY0lhVk1hMVZKbGtOYjVoamlQYjl5MW5RTnNRazdUNzJmbjF2TmRQdHAyZC1hdGlGOUgxQXFVSWk4aUtDZ0xxcUNuRHFGWnFNeUQ5RG5sZ3o4a25mbEVNSENP?oc=5)
+
+---
 
 ### [La marche rapide ferait reculer le risque de cancer du côlon bien plus quʼon ne le pensait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTUyQkx0N1dLakxSZUhNSkV1aGtadjJ2ZDktd3ZfdWN5Ti14MnNudG9TRG5zUXNNVFFnSGdubmxkZVJFYmo5bjN0OWJWTGRqWDVuTXpYYl9Bb2N3bWpBVDRENTh6UUJnSms3TmV3Rm5heFljdDA1RUhfWkdjc1E3SS1POWVjREpRTkJHdW50QzNXYjZIcU9VajlMcEo5OHBqZUJUeEhaNVlJeWpWWE05ZThnRzcwWEdGNUMwTlJKSGVkSHVh?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
 來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTUyQkx0N1dLakxSZUhNSkV1aGtadjJ2ZDktd3ZfdWN5Ti14MnNudG9TRG5zUXNNVFFnSGdubmxkZVJFYmo5bjN0OWJWTGRqWDVuTXpYYl9Bb2N3bWpBVDRENTh6UUJnSms3TmV3Rm5heFljdDA1RUhfWkdjc1E3SS1POWVjREpRTkJHdW50QzNXYjZIcU9VajlMcEo5OHBqZUJUeEhaNVlJeWpWWE05ZThnRzcwWEdGNUMwTlJKSGVkSHVh?oc=5)
+
+---
+
+### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
 ---
 
@@ -78,6 +126,14 @@ permalink: /news/sotatercept/
 
 ---
 
+### [Hallan una conexión entre tumor, dieta y sistema nervioso que desencadena en caquexia vinculada a cáncer - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnpWREtTdFFkTTd3QW95OUMyd1d4ZXlJMkY3LWxUSjZfVFlVcmR3dlk5RVFaMW1SSjJZZDJEYlpPWEdvTE1XYUlMdEp3d3hoZVN2Tml5OC1GWFZPdm82VWI5RXVuTk8yeG50R05VWkVKTHlMZFdaMURydU1kUGFKNFZkVlJnRmdMeDBuVFRwS1NMZlJCZ2pKZVhGVWRIeUtCTmNsQnNSanBaSG9YZlV6UWFwaFVKSGlEUjJ2ZGJ30gG4AUFVX3lxTFBPUzVYTkRHZ0tzWXhycE1LelUtZG9JNWpzN0hMNDF4X2p0MEpkOVR0R3FyQUdCNGdVSU01YV80RkdxSldaMnh2eTV4Wm9MR3FfTENiVkg4TXdqMTd3dW44ekx3UnF3MW9OdjhzSmJwYU9UNTF0TkV5NXBlaDh0VERfaFNzNlNvc0R4dzYtZzAyQklDVG1hSXliUnpKU2VsVTNuSkFRcmlBNzh1b2J0aHJlS3oweEl4d2Q?oc=5)
+
+2026-07-03 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnpWREtTdFFkTTd3QW95OUMyd1d4ZXlJMkY3LWxUSjZfVFlVcmR3dlk5RVFaMW1SSjJZZDJEYlpPWEdvTE1XYUlMdEp3d3hoZVN2Tml5OC1GWFZPdm82VWI5RXVuTk8yeG50R05VWkVKTHlMZFdaMURydU1kUGFKNFZkVlJnRmdMeDBuVFRwS1NMZlJCZ2pKZVhGVWRIeUtCTmNsQnNSanBaSG9YZlV6UWFwaFVKSGlEUjJ2ZGJ30gG4AUFVX3lxTFBPUzVYTkRHZ0tzWXhycE1LelUtZG9JNWpzN0hMNDF4X2p0MEpkOVR0R3FyQUdCNGdVSU01YV80RkdxSldaMnh2eTV4Wm9MR3FfTENiVkg4TXdqMTd3dW44ekx3UnF3MW9OdjhzSmJwYU9UNTF0TkV5NXBlaDh0VERfaFNzNlNvc0R4dzYtZzAyQklDVG1hSXliUnpKU2VsVTNuSkFRcmlBNzh1b2J0aHJlS3oweEl4d2Q?oc=5)
+
+---
+
 ### [Radikale Prostatakrebs-Therapien beeinträchtigen weiterhin Kontinenz und Sexualität – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSzJ0XzA2ODQ5NmJOVVdZbVRxc2tyU1ZWWnUyUzVPbUI0cG90Mi1HQng1SEF5SGp6a0FkQkdGanJodWFFTlA3azFZNnY1MWpETFNpMVNvMGRmSGNoWnJNTVVMNVhoUkVPR3ZWaVh4N1RBa1hOa0JlTFplS2dVOEZESkdtOTJtODVtWi1aZEJWYllLZ0lUd2lpbG9hMWFyYWhzXzBjQ000UVNCd3BhRXpIVDNmSEdTN1VnVlROZk0tVGs1UUx2ODFKYnlaNUtRSGJLWkJCOXJ4dURzS1VnLWltb3M0Skw0Q0Ntd0paYkVwSzFUbHByNGpzcg?oc=5)
 
 2026-07-03 <span class="news-indication-tag">Krebs</span>
@@ -91,6 +147,14 @@ permalink: /news/sotatercept/
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipAJBVV95cUxQSHptbHJ3R1lVZVNxbTBNcEE0NXpCaUlfcGtXZ0YyZjZobExJR1BlOVVSeVFUYVZhSFJWVjNla1Z1QWFSRXhPekNPcUVLMGRBZGRKVXhlSEV0UXZydFoybDExSW9URU1qdkY3LUV2amVZN1NpbVlVam1EUFprRlFaU25sazVRUFM4SW1wdXhQcXR5VXZjb1JNZWVpYnVDY3hMYU43TU5UYTc4SjJHNGZmbVBsMDV0ZlU4anVmaVVacU9vMmFLLVdzeVlObVNMT1d2cUN3OVhfbmJuMTZYN1RoWVBrX1UxcDNnYXdzbzFDeFkzZDdJWkUyUUY3T21aZi1kaVRyNzMwUDZxNEdjeVdqREp6ckstM0ZfQnlLTDcyOEEzNUJH?oc=5)
+
+---
+
+### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
 
 ---
 
@@ -118,11 +182,11 @@ permalink: /news/sotatercept/
 
 ---
 
-### [El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5)
+### [Imaging mass cytometry reveals functional and immunological changes during type 1 diabetes progression in human pancreata](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElaQWs5ajVPdG14MEtBNzNVQ2ZiRVc2VGNQczVMeW9XZFR5Z1BEemlEN3JfZmJsUHgydW4wZzVCbFFCTmxTQWhNLUV0YVk1OFE1Tk9lWm9wUFR2WnpN?oc=5)
 
-2026-07-02 <span class="news-indication-tag">tumor</span>
+2026-07-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElaQWs5ajVPdG14MEtBNzNVQ2ZiRVc2VGNQczVMeW9XZFR5Z1BEemlEN3JfZmJsUHgydW4wZzVCbFFCTmxTQWhNLUV0YVk1OFE1Tk9lWm9wUFR2WnpN?oc=5)
 
 ---
 
@@ -139,6 +203,14 @@ permalink: /news/sotatercept/
 2026-07-02 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjhHVzNWdW9sQUFWYUIyRzdIVHlQVDlhN3RsOWpxQUZpYm9INTNHSTltVWpWMzY5TGUwM2JleWd4ZGhhcW81QWhORy1tOHY2Z2FkV1c3cnN4MUo0LXJnZlBnRGNEWXRTaFZzYXFWTUp0WWMweE1sLW5CM3ViVHp4Z2s1aHROeEZrQ2hnU3FCMlJBeXVFalg0ZlRscE1vSDhhMDE0OVg3aWRLOXZ3NTVtN01B0gGkAUFVX3lxTE16eFZFWHlIMWdYLUczVHIteENaRklyNXNWdURZMlF2d2VYQTF0VVV1cG5qdW1XMEMzcW81NEhNRUhsMGQ5eUlNQjRTVlVlcXZqZGZ5M2w2ZWtRTDFrckc0dXYxbW9LOWNKbVF2NEdpNUhGS0FnQXp4T2haYmF5U2dNVmtXR1FNZVM4cDRpS2ZZaUJiZ2FObzhHRnJyTUZfbEZxdkJy?oc=5)
+
+---
+
+### [El cáncer se queda a la espera: investigadores descubren un mecanismo oculto entre la mutación y la aparición del tumor](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHROWXVkU3ZQX3RFS0VoQ1lMOFlTRGEzMUE4ZnpTTUtPMnQtdzRWVUtaVVFhbWJ0NFR3ZGV0Skx5Y0k1b2dZYUwxeWFHRHRUd0M0Z3lWLTJTY1VGV1NEVzhETGxtY1FfTktkaHZfcG9sbWRaTWRDNkJ0b3pVeWoxUnI5eUNKUHl4R2JzSXZzbHhobDBDUlFBVnZmTUVLejZWYjhmNUN4eW9SZDFhTHFndFVFQVVmWDU5WFJ5Wk1JU2FBazhEVHZ0VFBQZWlSNFFOOEI3QWNpSQ?oc=5)
+
+2026-07-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHROWXVkU3ZQX3RFS0VoQ1lMOFlTRGEzMUE4ZnpTTUtPMnQtdzRWVUtaVVFhbWJ0NFR3ZGV0Skx5Y0k1b2dZYUwxeWFHRHRUd0M0Z3lWLTJTY1VGV1NEVzhETGxtY1FfTktkaHZfcG9sbWRaTWRDNkJ0b3pVeWoxUnI5eUNKUHl4R2JzSXZzbHhobDBDUlFBVnZmTUVLejZWYjhmNUN4eW9SZDFhTHFndFVFQVVmWDU5WFJ5Wk1JU2FBazhEVHZ0VFBQZWlSNFFOOEI3QWNpSQ?oc=5)
 
 ---
 
@@ -182,22 +254,6 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Un estudio abre la puerta a interceptar el cáncer antes de que llegue a manifestarse - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk41N2g0YXVHTTJHMVgwWW1MWDkzc0EyS1c1N2xwYUYxZHVVYnhCbHVKdVBJd3BoQzJ4SUdELWQtZTl5UE9fSnBhR2RUZG5OZEpIMnFxQlAxMEN4N3JCTXNzRTEta1FBcGFJbWg0R1oyQmhleVJkbkNxSThYTHdNWHZmbFBPS3lFT0VlVGZMM3IzMDZXUG80QjRXRDdGdkFSTWNpenA0ZmFwcHpGWS1XdEtvRDh3OWc3ZTRFb21oa2lmUdIBvAFBVV95cUxNalVaQk5wR0VLdUZaVm8xYW1jeVFkaEVfdzdDNnNycE9adDlPZWdSZ2lVZlBxWXNOSVRwOFZIYmNQNW9vVnVTSTRSc1ZubW1UWnBqdkpDYWx5V283YllBU0U1WVZQSVlfVzdhRzFpLUs2dFFOZ0NMMnphZ19ySVptOGpsdFNYUGwyWk9VeTJENG5NaWl4ZXN2MXNlQUFpUEdJSGNzT2hwVzhvT1NWbWt3YU9pd3JNb1I0Smhpcg?oc=5)
-
-2026-07-02 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMk41N2g0YXVHTTJHMVgwWW1MWDkzc0EyS1c1N2xwYUYxZHVVYnhCbHVKdVBJd3BoQzJ4SUdELWQtZTl5UE9fSnBhR2RUZG5OZEpIMnFxQlAxMEN4N3JCTXNzRTEta1FBcGFJbWg0R1oyQmhleVJkbkNxSThYTHdNWHZmbFBPS3lFT0VlVGZMM3IzMDZXUG80QjRXRDdGdkFSTWNpenA0ZmFwcHpGWS1XdEtvRDh3OWc3ZTRFb21oa2lmUdIBvAFBVV95cUxNalVaQk5wR0VLdUZaVm8xYW1jeVFkaEVfdzdDNnNycE9adDlPZWdSZ2lVZlBxWXNOSVRwOFZIYmNQNW9vVnVTSTRSc1ZubW1UWnBqdkpDYWx5V283YllBU0U1WVZQSVlfVzdhRzFpLUs2dFFOZ0NMMnphZ19ySVptOGpsdFNYUGwyWk9VeTJENG5NaWl4ZXN2MXNlQUFpUEdJSGNzT2hwVzhvT1NWbWt3YU9pd3JNb1I0Smhpcg?oc=5)
-
----
-
-### [Milliarden verabreichte Covid-19-mRNA-Impfungen belegen Wirksamkeit und Sicherheit](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc0txVEktcm1IdVVFTTRzWjVHVU9kVmt3WnJRZHJjb0xkRGprRmZqcGoyUW9OV010UjN1LV9GZ096bm8zNVB2MG5CYmNJV3JmdUJpaEROazZNa09jSnE5Qy1Wdk5aVUlYamRjajRDZkZxQ1BuWDBUVXZ2cFp6Vms2ZkNEcmYzVG1TOWN6a3gwTEhLbktDR3lNQ3JaMy1xRFRONkZTLWxrNXg0R0k2LURVaktjSjFoaUVYX3A4?oc=5)
-
-2026-07-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Scinexx](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc0txVEktcm1IdVVFTTRzWjVHVU9kVmt3WnJRZHJjb0xkRGprRmZqcGoyUW9OV010UjN1LV9GZ096bm8zNVB2MG5CYmNJV3JmdUJpaEROazZNa09jSnE5Qy1Wdk5aVUlYamRjajRDZkZxQ1BuWDBUVXZ2cFp6Vms2ZkNEcmYzVG1TOWN6a3gwTEhLbktDR3lNQ3JaMy1xRFRONkZTLWxrNXg0R0k2LURVaktjSjFoaUVYX3A4?oc=5)
-
----
-
 ### [Doctor shares prostate cancer open letter to help others facing diagnosis | ITV News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
 
 2026-07-02 <span class="news-indication-tag">cancer</span>
@@ -222,22 +278,6 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Descubren cómo destruir los tumores cerebrales eliminando las células que los protegen - Libertad Digital](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2d5MHJyT2ZxRFR6ZTIxWlFJcUZmTDBpWUVKUG5CVXlLVU9fXzRxYzVxNk93YXJ5Mk9FU0ZQb2gyeFBNWWhnbndnVXFVSGRrcktMMFB3anRKNGpkUWVJSG1oc1h4VHJsemJoa1RxY1U0eC04aDVHclFkb3dXRXVtNWd4SVhEYm1leDB1N0w4X2RwTzNaaEQ0ekFIRjhZUkZFOVRfNzQ1LWpCbWpqWDVxVFAwUS1janRWdXEzNlIzczBUeGhVbnU4NVNuWVBUM1JnV0VvWExLSzRfUDFVNnRnaDdrZVViVllTdHJrODlvbHpjZE11bVI3edIBgwJBVV95cUxQZWFYZGJzNDFTS2l3emZRcUo2clBBTVJqbnE4LU5Ra3hCVzFBLW5tVVNhckhwM082N0dxcWQyUF9ETDd2T2ktMjI2aVRXc3dEX0hIS296Z1JsczJrYkFOU2pYUlZIVjRZNEE1SVhEMFdpendabk1zTHZEbVRKSlRjRmJYZ2NMMk1HbFFndHZ1RXd0SnUyOG9ia2p4YXZ2TmpsS0JqaGV3Smk0Qk5zdVJWaDBjRnRwVGVzV2V0MmJYQmttd1I3cE0zNzRCWnhJSkdDclVsZUJnR1pBRW9Ha1FjRTVZMHkycW5LSTQ4ejRSZ3NoSjZRc3JYZTJLMFc0WklCQVhz?oc=5)
-
-2026-07-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa2d5MHJyT2ZxRFR6ZTIxWlFJcUZmTDBpWUVKUG5CVXlLVU9fXzRxYzVxNk93YXJ5Mk9FU0ZQb2gyeFBNWWhnbndnVXFVSGRrcktMMFB3anRKNGpkUWVJSG1oc1h4VHJsemJoa1RxY1U0eC04aDVHclFkb3dXRXVtNWd4SVhEYm1leDB1N0w4X2RwTzNaaEQ0ekFIRjhZUkZFOVRfNzQ1LWpCbWpqWDVxVFAwUS1janRWdXEzNlIzczBUeGhVbnU4NVNuWVBUM1JnV0VvWExLSzRfUDFVNnRnaDdrZVViVllTdHJrODlvbHpjZE11bVI3edIBgwJBVV95cUxQZWFYZGJzNDFTS2l3emZRcUo2clBBTVJqbnE4LU5Ra3hCVzFBLW5tVVNhckhwM082N0dxcWQyUF9ETDd2T2ktMjI2aVRXc3dEX0hIS296Z1JsczJrYkFOU2pYUlZIVjRZNEE1SVhEMFdpendabk1zTHZEbVRKSlRjRmJYZ2NMMk1HbFFndHZ1RXd0SnUyOG9ia2p4YXZ2TmpsS0JqaGV3Smk0Qk5zdVJWaDBjRnRwVGVzV2V0MmJYQmttd1I3cE0zNzRCWnhJSkdDclVsZUJnR1pBRW9Ha1FjRTVZMHkycW5LSTQ4ejRSZ3NoSjZRc3JYZTJLMFc0WklCQVhz?oc=5)
-
----
-
-### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
-
----
-
 ### [Prostate cancer panel that rejected wider screening had no specialist - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEdVTGRTcW03eEdudU51LWpzenQ2anA5aXZOQVRZcHhzOURxUGhwQ2hfdDBNeUlESnF1X1RzQnRMRDQ4THlhSEZVT0wyeVpleVVINEFBTzVDSUwwM2RHRmx6UzZGMGVUQUxrbEtMbGVwXzJfQXJrTVpvNVQ1LUZSSmppVS1wQUlUVzdYMVMwSFMwTWEtUldhWDBURzlnbmVwRjJr?oc=5)
 
 2026-07-02 <span class="news-indication-tag">cancer</span>
@@ -254,14 +294,6 @@ permalink: /news/sotatercept/
 
 ---
 
-### [C’est l’une des maladies les plus meurtrières : en Bretagne, ce traitement révolutionne la lutte contre le cancer du pancréas - Le Télégramme](https://news.google.com/rss/articles/CBMimAJBVV95cUxPSXpEbmI0MHU5QlVOSW5GZkJVS3BWYnVtZV85Z2RHQkJqU01FczBINHlqdmlhOVBJTEFwSEhXTk1NenhUM3JHZTgteVFhSUk1ZXNBSTJmQkdnMmp2dktoaldEZWVEc25DdWJMS0NNd0w0ellyWm01WDJPMlExeThtZ3ZacTZnckFiU3dXcWlENl9Mcjk2TGZaeU9nSkVCVTBualpieEFHVmRIU3Q0QWpTY3VjaW9sZXFOeGpDUUNyUEE3LXhJbGwyLThORHB4c2xneEtQdkZZaXRRLVYzVmxYdGM2cENSYS1EaWpzZUVfRG1LclJaOW1zRkpjZ3dGZjB4V0JqRXhTalJQNjF2Z24yOEhRQzNnYTBF?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Télégramme](https://news.google.com/rss/articles/CBMimAJBVV95cUxPSXpEbmI0MHU5QlVOSW5GZkJVS3BWYnVtZV85Z2RHQkJqU01FczBINHlqdmlhOVBJTEFwSEhXTk1NenhUM3JHZTgteVFhSUk1ZXNBSTJmQkdnMmp2dktoaldEZWVEc25DdWJMS0NNd0w0ellyWm01WDJPMlExeThtZ3ZacTZnckFiU3dXcWlENl9Mcjk2TGZaeU9nSkVCVTBualpieEFHVmRIU3Q0QWpTY3VjaW9sZXFOeGpDUUNyUEE3LXhJbGwyLThORHB4c2xneEtQdkZZaXRRLVYzVmxYdGM2cENSYS1EaWpzZUVfRG1LclJaOW1zRkpjZ3dGZjB4V0JqRXhTalJQNjF2Z24yOEhRQzNnYTBF?oc=5)
-
----
-
 ### [Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1haHdQR1pMVS1OUk5DSHFFQ3JUVVIwOGpfUEtZNzd5SUlld1MxenNibHVVNHBvUlZTTGVRLWdoNFY0SzRHMTB0cnVGYVhrX21tVUU3RDJKTmNrazgtYVFR?oc=5)
 
 2026-07-01 <span class="news-indication-tag">cancer</span>
@@ -270,19 +302,11 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Le cancer du coeur n'existe quasiment pas : des chercheurs révèlent que c'est grâce à ses battements - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZWR6UE9CbFRDWC04Vy1qX3dQc0tDRVNRSGhpM3Q5SXlRTk83NHRUdC1TcTZVc0k3UmhlRU4tSEl0VmZZUi1oMF85Rm5iT1ZGeFJLc0ZJX280cWQxTE1DMFQyLTIwQWx0RDhnQ3VLRERXZURjMjg3VHh3aW1kRzBPZWRJbldMOWFZLVNlTW5IMS1OVFA1eU9UT0RyNWlqWTREOGpUU0ZjcE4wWDh0SHNpay0tSVhSdFNMN011b1Z2M25YXzdwNERYZTl0YjhSX1Vod2NoNHVFUHRsYnVZbjFYX0UwY3Y?oc=5)
+### [What’s really in a hotdog? Nutrition experts explain - The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVQ5V0c1c0ZFeTdQOGQzakNpSFQycWNQNHY2djFJb08yT3BjUmJPaGNmQUkzb2xlTmY4X0pKSFpGSGJTdFg4RkNSSnpZWVI2cExYM2JwakV0ZGJ0SlZsVG0tXzEyT1pibFl3QW02d3ZsZXJoeGhneGlTOU83VHFQMnNXbk9ZcF9K?oc=5)
 
 2026-07-01 <span class="news-indication-tag">cancer</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZWR6UE9CbFRDWC04Vy1qX3dQc0tDRVNRSGhpM3Q5SXlRTk83NHRUdC1TcTZVc0k3UmhlRU4tSEl0VmZZUi1oMF85Rm5iT1ZGeFJLc0ZJX280cWQxTE1DMFQyLTIwQWx0RDhnQ3VLRERXZURjMjg3VHh3aW1kRzBPZWRJbldMOWFZLVNlTW5IMS1OVFA1eU9UT0RyNWlqWTREOGpUU0ZjcE4wWDh0SHNpay0tSVhSdFNMN011b1Z2M25YXzdwNERYZTl0YjhSX1Vod2NoNHVFUHRsYnVZbjFYX0UwY3Y?oc=5)
-
----
-
-### [PSA levels alone may not reflect prostate cancer growth - Cornell Chronicle](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVhmbmxhLXBXNFN0cEJULXhUTEdHdVhDMUZDd0NDZVVFN0sxYURQVHJmeUlZWjRhVy12amhGemNZVFVyZFZsVzdHS0VhdnBmdl9XMlNTR3FLbEg2aHFGTHpxNVZuZlNjU2hzTDEzNElKSk12VU84a2xhT3NreVZ0WFIzaUNmMnM4NlFDaWlDbHdLeVdOcE1IYmhqOHo?oc=5)
-
-2026-07-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Cornell Chronicle](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVhmbmxhLXBXNFN0cEJULXhUTEdHdVhDMUZDd0NDZVVFN0sxYURQVHJmeUlZWjRhVy12amhGemNZVFVyZFZsVzdHS0VhdnBmdl9XMlNTR3FLbEg2aHFGTHpxNVZuZlNjU2hzTDEzNElKSk12VU84a2xhT3NreVZ0WFIzaUNmMnM4NlFDaWlDbHdLeVdOcE1IYmhqOHo?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVQ5V0c1c0ZFeTdQOGQzakNpSFQycWNQNHY2djFJb08yT3BjUmJPaGNmQUkzb2xlTmY4X0pKSFpGSGJTdFg4RkNSSnpZWVI2cExYM2JwakV0ZGJ0SlZsVG0tXzEyT1pibFl3QW02d3ZsZXJoeGhneGlTOU83VHFQMnNXbk9ZcF9K?oc=5)
 
 ---
 

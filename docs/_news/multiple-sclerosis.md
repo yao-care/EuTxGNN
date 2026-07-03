@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,23 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Warum PCOS zu PMOS wurde und was das mit Diabetes zu tun hat](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3JJNFFhSlhYbXlKU1BiNmhTbHdnbi1ZU3BwMXNKUC0xY3dyQV9sMzIybGg5bWV5QnBsQ0sxeUZ2bG5ZUFViRjlKOUFpN1JVV21FbDZ6ZE9OWFN3M1Z6aHR0ek55cUNwTlAzREdzRWtUMmExRGhxcks0MjNNcHhnNG9OcHFVVVZxMmZhSThHN25nbmZEZldOaVBJNnRnM3VtQld0a0JxbWNGR3RUd1E?oc=5)
+
+2026-07-03
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3JJNFFhSlhYbXlKU1BiNmhTbHdnbi1ZU3BwMXNKUC0xY3dyQV9sMzIybGg5bWV5QnBsQ0sxeUZ2bG5ZUFViRjlKOUFpN1JVV21FbDZ6ZE9OWFN3M1Z6aHR0ek55cUNwTlAzREdzRWtUMmExRGhxcks0MjNNcHhnNG9OcHFVVVZxMmZhSThHN25nbmZEZldOaVBJNnRnM3VtQld0a0JxbWNGR3RUd1E?oc=5)
+
+---
+
+### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
+
+2026-07-03
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
+
+---
 
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
@@ -96,14 +112,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
-2026-07-02
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
----
-
 ### [Hantavirus, l'Oms dichiara finita l'epidemia legata alla nave da crociera MV Hondius](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVpOcUktZkdBSUdpUjFkcTNSRU5mOHMtQ2lHZ21WbmFHaHZ1ZUxtUV9ydVA0djQzT21XX0RjaVlhQU5WWk9qa1dKNXRVenJEekRpb3lDRUdhNU1wVFBZeVlXeXlhaGJHLTEtTGVBNlctSUItNXlFTmswWmRZQzJNYkJvTWtpSVpHMk5OMkhWTXpPN3cxOUV4M09ocFhpNFpaNDh3dEpOR0FvZ9IBaEFVX3lxTE1Qd1lJM1VMV0hrX0RvdTQtdHk3c1JZUnlpVUpOOXNERWJsM0YwZmkyTEM4UlFONm5KMklSZnl2T3J4SGpiYjRfa18yQ29UY2pIRkh1Z1FTejRjNVFOWXY2WXZxUTdsbVpK?oc=5)
 
 2026-07-02
@@ -133,22 +141,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-02
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
-
----
-
-### [Geschlechtsspezifische Unterschiede bei Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
-
-2026-07-02
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxObTFQdWlYNlBiRkJFLWgyMDROY1dBazc1MDMwcjRXdV9NN1FXZ21ZNUFoQWFZNVM4VDFWcUhuXzN4bFhaYTEzRUVmMXdsT2k2ZkFDNXlIMnBmYkNHb0Zyc05tZDl2VnBwRThRcGhiaTFoajNHVTlOcEFwbEx5OWxwcmtoZy1zSDU2dy1yOW44UlJvSVV6dTM1NXUxTTByQQ?oc=5)
-
----
-
-### [Clinical trial aims to help heart failure patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
-
-2026-07-02
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
 
 ---
 

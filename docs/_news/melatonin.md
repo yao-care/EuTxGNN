@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,27 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Hormones on the brain? Everything you need to know about HRT, testosterone, melatonin and more - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR212V1Fsemg4X3llLUxBU04yRWFzdmJ5MndBc1JEZmd3Y1JpSjJ5aF9tM0ZoU2hIYXpOcmFyNFF4MWZxdjg5QUozRzBRcEhMaGpWZVZ5QlBpdnhhZWEyd2NYSENLMUc0MHBmU0hlbm1QbEZSQzgzVlJYb3VxNU1MY3RVUmE4MGNzZkVnVmVkZk5oRGw4eVlYSWZyNHVvNU5LWU1aV0hSTVFFVUFyYnRMSjh2TDJUdExQVDlwRzJDVQ?oc=5)
+
+2026-07-03 <span class="news-drug-tag">Melatonin</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR212V1Fsemg4X3llLUxBU04yRWFzdmJ5MndBc1JEZmd3Y1JpSjJ5aF9tM0ZoU2hIYXpOcmFyNFF4MWZxdjg5QUozRzBRcEhMaGpWZVZ5QlBpdnhhZWEyd2NYSENLMUc0MHBmU0hlbm1QbEZSQzgzVlJYb3VxNU1MY3RVUmE4MGNzZkVnVmVkZk5oRGw4eVlYSWZyNHVvNU5LWU1aV0hSTVFFVUFyYnRMSjh2TDJUdExQVDlwRzJDVQ?oc=5)
+
+---
+
+### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
+
+2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corresponsables](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
+
+---
 
 ### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
@@ -70,19 +86,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [No es una cuestión estética; es una cuestión de salud - Periodico PublicidAD](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUQ2eXFTeGtDYlhGa295MHplekxfLTdPdlZsWmtWbTBVY1JhRnY1UUFuUVRsUkNScFRoQUtwU1RIS2hLRUc3UHBpbW05Y1pGMmk1bVdOZVhPTTdSOUJ5dm0zUXpzcG01OUR2aVNPYmVsZG1BeGVaYUxyQmNxNlpoZDJXNnJROFNibGM1M1BsNTE4bGRsWVZzRDdXYTcyWldQQ0ZBS0MwM3dOa2JMOW01OFlqOEtMM0lIZlNCZmV6MmtEcVJU0gHKAUFVX3lxTE9yWEJjdmwxZl8tVFJxODA5aUlGVzBDS2lvRDV3aFFTTHMyTW1LNl9LQUpoZnh6SFpCT1pEc2lEb3F1OS1ORTg0emVBNUlZbDl3b0dLTXpuamtUYTB5ak1HbWY1d2tsWnVEX2I4ZFV6bnNhM3Z5TFFVa0o4dnJtWUo0U0ZqWDVpSEFQdndVZWd5Z2g4Mk51cTB5YUhlY0taN1VGVHdYMWVNTTY4V2IyaEZsWUdwMmpNelVSekNQNENsWDZjbjZTbUREM2c?oc=5)
+### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
 
-2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Periodico PublicidAD](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUQ2eXFTeGtDYlhGa295MHplekxfLTdPdlZsWmtWbTBVY1JhRnY1UUFuUVRsUkNScFRoQUtwU1RIS2hLRUc3UHBpbW05Y1pGMmk1bVdOZVhPTTdSOUJ5dm0zUXpzcG01OUR2aVNPYmVsZG1BeGVaYUxyQmNxNlpoZDJXNnJROFNibGM1M1BsNTE4bGRsWVZzRDdXYTcyWldQQ0ZBS0MwM3dOa2JMOW01OFlqOEtMM0lIZlNCZmV6MmtEcVJU0gHKAUFVX3lxTE9yWEJjdmwxZl8tVFJxODA5aUlGVzBDS2lvRDV3aFFTTHMyTW1LNl9LQUpoZnh6SFpCT1pEc2lEb3F1OS1ORTg0emVBNUlZbDl3b0dLTXpuamtUYTB5ak1HbWY1d2tsWnVEX2I4ZFV6bnNhM3Z5TFFVa0o4dnJtWUo0U0ZqWDVpSEFQdndVZWd5Z2g4Mk51cTB5YUhlY0taN1VGVHdYMWVNTTY4V2IyaEZsWUdwMmpNelVSekNQNENsWDZjbjZTbUREM2c?oc=5)
-
----
-
-### [Vanessa Masè propone una legge contro l'obesità: piano da 300mila euro](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
-
-2026-07-02 <span class="news-indication-tag">obesità</span>
-
-來源：[L'Adige](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
 
 ---
 
@@ -102,14 +110,6 @@ permalink: /news/melatonin/
 
 ---
 
-### [Adipositas verliert bei Älteren einen Teil ihres kardiovaskulären Risikoprofils](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUVPM3BTYi1VV2pqcy0wN0hCR2FwRXc0bXY2MXh5TVh5UnRJNUNBYTVZejdoM3ZlUldYMzRiT1pGMmlTY0ZiRnlMOHMtdHlQQkRGTVRfdXlZMjd5bGxQZWNlc2s2SDFLMjNrNUVsU0Fmb29hNHVPaWg2QS1MQ1RTaFdPcThZRmxnek44NTk5RUY5ekdpbmN1Ylp6LVdleHA1Q1dEM0V0eU42R2c?oc=5)
-
-2026-07-02 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUVPM3BTYi1VV2pqcy0wN0hCR2FwRXc0bXY2MXh5TVh5UnRJNUNBYTVZejdoM3ZlUldYMzRiT1pGMmlTY0ZiRnlMOHMtdHlQQkRGTVRfdXlZMjd5bGxQZWNlc2s2SDFLMjNrNUVsU0Fmb29hNHVPaWg2QS1MQ1RTaFdPcThZRmxnek44NTk5RUY5ekdpbmN1Ylp6LVdleHA1Q1dEM0V0eU42R2c?oc=5)
-
----
-
 ### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
 
 2026-07-02 <span class="news-indication-tag">obesity</span>
@@ -123,14 +123,6 @@ permalink: /news/melatonin/
 2026-07-02 <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXVQdTJvOHVJSlB6X1NtZ0luWlJLdV9rMng4N2txX2pLTTRZUElqVzRKMldBX3ItY213M1YwZmJoSnAwNnpERHV0WWJHTlhhTGI0TWpaTHZtUHBMbHk3ZXNrWTc3Rl9MRC0yU3BvV3E4ejVSaGlYaFNnOTlkeEt4d2FuWWRzU1dKdnVsblhhYXBPLW1jV1lxV3RvN3RxdFNzWnZyQ0QwM1JnckxrZC0xREFVaWhkQ01OWWNTZVE4eG1wem01ZjZpMEVmb2lUZU55djg0R0hR?oc=5)
-
----
-
-### [Melatonin: Popular Sleep Aid May Also Help Relieve Chronic Pain](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklJTDdFTEtEZzFtd2hFQld6OGlKb3dlaTVrdWtOUW1EY3JzbTU3bUx2TmRhYW1qWmQ1S19SQXkzNnNKcV9BVnVOdjlYelF0YXFKazdhNmpDZ05Dc2diTWkyRWtBX0pMWllsdU1QMFVnTmVCWUlMOFQtcGlPQXYtQ0pWaUI?oc=5)
-
-2026-07-01 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklJTDdFTEtEZzFtd2hFQld6OGlKb3dlaTVrdWtOUW1EY3JzbTU3bUx2TmRhYW1qWmQ1S19SQXkzNnNKcV9BVnVOdjlYelF0YXFKazdhNmpDZ05Dc2diTWkyRWtBX0pMWllsdU1QMFVnTmVCWUlMOFQtcGlPQXYtQ0pWaUI?oc=5)
 
 ---
 

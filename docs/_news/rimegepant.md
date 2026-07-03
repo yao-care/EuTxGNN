@@ -54,19 +54,19 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（2 則）
 
-### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+### [Crean un método para regenerar microvasos y tratar eficazmente la cardiopatía isquémica - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-03 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
 
 ---
 
-### [Clinical trial aims to help heart failure patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
+### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
-2026-07-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
 ---
 
