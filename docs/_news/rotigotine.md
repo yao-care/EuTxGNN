@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（12 則）
+
+### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
+
+---
 
 ### [La OMS declara el fin del brote de hantavirus - Radio Popular de Bilbao](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjM2cUxnM2hsZUFMSVg4Z2lpbDZTcFg2RndyX2cwRkMyUEtjQlh2OFJiV25DQ3FyX0ZneFRyeEduOHpXUUdkZHd2ZEJSS0ptSFJpZGFuLVdRSmF6MDdLdzJsQzY4eng2YXd3UVJ2MzdDWEpmSXRtcmoyWGRwM0JtOUM3X1M?oc=5)
 
@@ -86,11 +94,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [La OMS pone en marcha en RDC un ensayo clínico para probar nuevos tratamientos contra el ébola](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnpCY05sWEhTazM2Mk9PZ0h5M2VCOF9iOEZ6QVBNaHZoWjM1d2tVRTBsVGIzZ2FKOFZMeTNicHlhNWVOaGd2cHZUc3RiOHR4NC00aDQ0RGhHODEwUUQ1Wm8wVmhBTzJ1U0NPczFWUThMVDFRdWlrQVlxQmFCVS14SnhzcWtVei11a0p1SmhwX0wxNWRMUTdaZGVJZmVGV3FFM0h5RGE3NlJhS2VxTng0MXBOSmNqcXk4VVFlS0ZZWUpoNTVmcHNKWmRiNXdLX3fSAdQBQVVfeXFMUG5YQ1BCZHFWd19TUlZ2Y2JBQnl6VWVQMndDbWNiVUpWSmM5M1dMZ1R5d2ZqQkVQQ1Z2RUhvenQ2QTlLdU5rdzVjTUJLQUlMSmV5UDFpakgwWGM4ZVFTTDJoeEZ4X3Z4TkhTWlJ3eGdJektySXA3Tlo0Vy1aU1dTSmZzQUd6YVQyWFhYTkEzV0tWQU9LRnFkOXZRb0FoajZncXF3RGxFQWZmeTdRaWNubHdoaU9ZdzB6SlVCUWpIaVcwUGZObHFEcHlTeHA4SzVlNUtmM00?oc=5)
+### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
 
-2026-07-02 <span class="news-indication-tag">MS</span>
+2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSnpCY05sWEhTazM2Mk9PZ0h5M2VCOF9iOEZ6QVBNaHZoWjM1d2tVRTBsVGIzZ2FKOFZMeTNicHlhNWVOaGd2cHZUc3RiOHR4NC00aDQ0RGhHODEwUUQ1Wm8wVmhBTzJ1U0NPczFWUThMVDFRdWlrQVlxQmFCVS14SnhzcWtVei11a0p1SmhwX0wxNWRMUTdaZGVJZmVGV3FFM0h5RGE3NlJhS2VxTng0MXBOSmNqcXk4VVFlS0ZZWUpoNTVmcHNKWmRiNXdLX3fSAdQBQVVfeXFMUG5YQ1BCZHFWd19TUlZ2Y2JBQnl6VWVQMndDbWNiVUpWSmM5M1dMZ1R5d2ZqQkVQQ1Z2RUhvenQ2QTlLdU5rdzVjTUJLQUlMSmV5UDFpakgwWGM4ZVFTTDJoeEZ4X3Z4TkhTWlJ3eGdJektySXA3Tlo0Vy1aU1dTSmZzQUd6YVQyWFhYTkEzV0tWQU9LRnFkOXZRb0FoajZncXF3RGxFQWZmeTdRaWNubHdoaU9ZdzB6SlVCUWpIaVcwUGZObHFEcHlTeHA4SzVlNUtmM00?oc=5)
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
 
 ---
 
@@ -134,51 +142,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [The manopause is real: the hormone problem affecting millions of men - London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtadE42eG9KTU5memN6NENaM1pJdnFtNnAzYzRLOUllWEdWTmpxbzgtX0F4VFJfWlhrU0pDUTNGekN6ZHhiTmU0RzJEUkFuWVkzLVFiQTdlNTFIZDVKTmhrZ3VTakkxaXQ2LThFNk5TQlNqV2hHUFFXd0hBcE5wOXZIcktPemowcVRQMHdxemx2eXRDdGZSYW1IaHZQWE9FeGtacGxzd0ZCdXlj?oc=5)
-
----
-
 ### [Clinical trial aims to help heart failure patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
 
-2026-07-02 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
+2026-07-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JcmJuaDBnazA5TXZZMEN5Y01BVjdjQ284SFpJc2tBcWFjOXZzUzlGblpzM243RmY5TUNDYllMVDZwMUd0Qy0xSDYwUk9vS2FDaWxHVEREcWd4bXJD?oc=5)
-
----
-
-### [Creatine for Depression: Study Shows Promising Results for Symptoms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
-
-2026-07-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5)
-
----
-
-### [Un tercio de la humanidad alberga este parásito sin saberlo](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFNEZEIzZDNaR05naEUtYTZxcHRZb0x2UEsxdm84V1pKUGhTNG40YWp3Zzc3bW1PZk9Hc0xGYldkUy1jNGxud0JzalQ5Vnl1eS0ySUlyZElMRFZNZnJQeEVhYTJnaDNfVV9kdHVOZllWVmhkU2lLLXh2VUMwdVduUGlqUjNMTER0ZVVkY29GUWhXNm9WT0VTaTVwOGdhY0l6cUw5VGlRc0Y3eGt4bWRvR1kwSmotMFlPRHF2ZHhwclp1dVJia3NhZXpaaHcwUF9M0gHQAUFVX3lxTE9la2p4YTZ0ZzdxNm5CaFJzZElwOVdkUHdtY09vNkV6SXhGT2hMQll4T3BIRmtkQ3V0ZF8xbm8yRWtXQ1JveXVTT1dJaFZQbm9YeS16ZFUxWUJ2X2dkVmJTQ2ZDMnRoak9xZF84MHEzc25HVnlVOUJfWWNpMmFNV1o4Y1lCTkc0c2ttRjdoTlZLUG93Y0pKd2U0N1lLSy03UUV6djhjM1BCMHY3Y0EwT0JqejBmMFREV1lDeWFkN0tPQmh5TFJGTWxGM1NkaThpSlo?oc=5)
-
----
-
-### [A greener approach to the Mediterranean diet may benefit heart health - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnE2RkQzQ0lrb2NMcmxkdkFoSThMN19lV2VwRXFUYnlnUFl6UWRKQjYteWo2ZTRYLW04RnZoeFdLdDZ6enloM24zMGFRMXJmWjJ3eVVnaW1rLVRad3BzX1cxME1vYll1Z1NjSmRTV1JRaFFiNXI2ZE9WSlRrd1RiWG1yZGdCMjk2TUg1VllaMENza09EWXlMUUE1YkFLUUhKRVJDYmxnU3VBdTloSWFJWndB?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span>
-
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnE2RkQzQ0lrb2NMcmxkdkFoSThMN19lV2VwRXFUYnlnUFl6UWRKQjYteWo2ZTRYLW04RnZoeFdLdDZ6enloM24zMGFRMXJmWjJ3eVVnaW1rLVRad3BzX1cxME1vYll1Z1NjSmRTV1JRaFFiNXI2ZE9WSlRrd1RiWG1yZGdCMjk2TUg1VllaMENza09EWXlMUUE1YkFLUUhKRVJDYmxnU3VBdTloSWFJWndB?oc=5)
-
----
-
-### [MS-Fatigue trifft Alltag und Arbeit: Studie zu Stress, Psyche und Teilhabe - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFkzZkdSOGJXcWl0dENBLTg4V3hwcXZnYzRZc0lNQVpGVVdMaFpHNXZjeEZoTGFWeFNMRC1oYUE1QVpCLVgzX0JIMUtFdkhydU9jbVRERTJvQlViTHItZ3VtXzBNbkpjMjAxQzNZV2R4XzNVdEJxNVlIX1JKeWh3Yndtem5KaTlrZmxsYnpHTkd1dFdLYVFDSDR5NnVUUTVOVjJzUGw2dw?oc=5)
-
-2026-07-01 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFkzZkdSOGJXcWl0dENBLTg4V3hwcXZnYzRZc0lNQVpGVVdMaFpHNXZjeEZoTGFWeFNMRC1oYUE1QVpCLVgzX0JIMUtFdkhydU9jbVRERTJvQlViTHItZ3VtXzBNbkpjMjAxQzNZV2R4XzNVdEJxNVlIX1JKeWh3Yndtem5KaTlrZmxsYnpHTkd1dFdLYVFDSDR5NnVUUTVOVjJzUGw2dw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-03 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
-
----
-
-### [GLP-1-Agonisten: Gesamtmortalität bei Adipösen sinkt um 44%](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHBfbzJtdVlMdlNvUWZucVZaZWdWc3M1WDBlUUZpREJDV0lMdmRjcW5zQWtvOGxkTnVtRUk5bnY3WGpzRUx6WThMS185SVh6RWw2bWRhYXk1M0ZVak1Ta25CbDUya3R1czAxaXlGaFlPc3RteG9RX3ZWeDRnNzRFUldCN0ppUE9ncV9vakdtZXpHQlJRTl9wZ1YzdEs4Nms4QW5FOVUtYjZOZmtRaXcyY0s0aUxBdDA?oc=5)
-
-2026-07-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHBfbzJtdVlMdlNvUWZucVZaZWdWc3M1WDBlUUZpREJDV0lMdmRjcW5zQWtvOGxkTnVtRUk5bnY3WGpzRUx6WThMS185SVh6RWw2bWRhYXk1M0ZVak1Ta25CbDUya3R1czAxaXlGaFlPc3RteG9RX3ZWeDRnNzRFUldCN0ppUE9ncV9vakdtZXpHQlJRTl9wZ1YzdEs4Nms4QW5FOVUtYjZOZmtRaXcyY0s0aUxBdDA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
 
 ---
 
-### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+### [Descubren un nuevo uso para un medicamento que puede sustituir al paracetamol e ibuprofeno](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTFvUWtlWGQ3NDBBOFVWa0pjNDRFQ1F5UUJkbm9lMG5Jckw0cnlOY0N6NlQtZ2xUSFBnTkNDMDI3S2VxWkpkYTdVUWozYko1UjRIMlhuOXRsWGxQVFQ4QkRDX0pXVGt2X1NxeXd0MVFkTDVOWFFNT2JKanpFdjJGSGRFOHhfbFMwSjBTbEhybzZHN2lOZUJGWVBLMDR6UjNMVU5NeWtad1F6bGRpVFA0X1930gG3AUFVX3lxTE4tWHVGZXZUWXVRSGxQVExkTXlpTGh2N081LTdySVZxZ3BCTW1LelZZWWxYNncwSGFVQnVuVGd2VDN2TklnWHh2TENrUVVLOXJBdVVtRm9ZRU5WNk4zREtOdkNTSzdOa1BnWmlURDd4ZHp4b3A1dHJHeGwxa09saTEtTC1WSjFRZlFjUDJkaVExeTNZazJHM1llNFJxcU1RdlNqNmJOTlJ6SEdMaU1kRkRqb1N6c1J1RQ?oc=5)
 
-2026-07-02 <span class="news-indication-tag">migraña</span>
+2026-07-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Melatonin</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+來源：[Ideal](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTFvUWtlWGQ3NDBBOFVWa0pjNDRFQ1F5UUJkbm9lMG5Jckw0cnlOY0N6NlQtZ2xUSFBnTkNDMDI3S2VxWkpkYTdVUWozYko1UjRIMlhuOXRsWGxQVFQ4QkRDX0pXVGt2X1NxeXd0MVFkTDVOWFFNT2JKanpFdjJGSGRFOHhfbFMwSjBTbEhybzZHN2lOZUJGWVBLMDR6UjNMVU5NeWtad1F6bGRpVFA0X1930gG3AUFVX3lxTE4tWHVGZXZUWXVRSGxQVExkTXlpTGh2N081LTdySVZxZ3BCTW1LelZZWWxYNncwSGFVQnVuVGd2VDN2TklnWHh2TENrUVVLOXJBdVVtRm9ZRU5WNk4zREtOdkNTSzdOa1BnWmlURDd4ZHp4b3A1dHJHeGwxa09saTEtTC1WSjFRZlFjUDJkaVExeTNZazJHM1llNFJxcU1RdlNqNmJOTlJ6SEdMaU1kRkRqb1N6c1J1RQ?oc=5)
+
+---
+
+### [No es una cuestión estética; es una cuestión de salud - Periodico PublicidAD](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUQ2eXFTeGtDYlhGa295MHplekxfLTdPdlZsWmtWbTBVY1JhRnY1UUFuUVRsUkNScFRoQUtwU1RIS2hLRUc3UHBpbW05Y1pGMmk1bVdOZVhPTTdSOUJ5dm0zUXpzcG01OUR2aVNPYmVsZG1BeGVaYUxyQmNxNlpoZDJXNnJROFNibGM1M1BsNTE4bGRsWVZzRDdXYTcyWldQQ0ZBS0MwM3dOa2JMOW01OFlqOEtMM0lIZlNCZmV6MmtEcVJU0gHKAUFVX3lxTE9yWEJjdmwxZl8tVFJxODA5aUlGVzBDS2lvRDV3aFFTTHMyTW1LNl9LQUpoZnh6SFpCT1pEc2lEb3F1OS1ORTg0emVBNUlZbDl3b0dLTXpuamtUYTB5ak1HbWY1d2tsWnVEX2I4ZFV6bnNhM3Z5TFFVa0o4dnJtWUo0U0ZqWDVpSEFQdndVZWd5Z2g4Mk51cTB5YUhlY0taN1VGVHdYMWVNTTY4V2IyaEZsWUdwMmpNelVSekNQNENsWDZjbjZTbUREM2c?oc=5)
+
+2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[Periodico PublicidAD](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMUQ2eXFTeGtDYlhGa295MHplekxfLTdPdlZsWmtWbTBVY1JhRnY1UUFuUVRsUkNScFRoQUtwU1RIS2hLRUc3UHBpbW05Y1pGMmk1bVdOZVhPTTdSOUJ5dm0zUXpzcG01OUR2aVNPYmVsZG1BeGVaYUxyQmNxNlpoZDJXNnJROFNibGM1M1BsNTE4bGRsWVZzRDdXYTcyWldQQ0ZBS0MwM3dOa2JMOW01OFlqOEtMM0lIZlNCZmV6MmtEcVJU0gHKAUFVX3lxTE9yWEJjdmwxZl8tVFJxODA5aUlGVzBDS2lvRDV3aFFTTHMyTW1LNl9LQUpoZnh6SFpCT1pEc2lEb3F1OS1ORTg0emVBNUlZbDl3b0dLTXpuamtUYTB5ak1HbWY1d2tsWnVEX2I4ZFV6bnNhM3Z5TFFVa0o4dnJtWUo0U0ZqWDVpSEFQdndVZWd5Z2g4Mk51cTB5YUhlY0taN1VGVHdYMWVNTTY4V2IyaEZsWUdwMmpNelVSekNQNENsWDZjbjZTbUREM2c?oc=5)
+
+---
+
+### [Vanessa Masè propone una legge contro l'obesità: piano da 300mila euro](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
+
+2026-07-02 <span class="news-indication-tag">obesità</span>
+
+來源：[L'Adige](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
 
 ---
 
@@ -102,14 +110,6 @@ permalink: /news/melatonin/
 
 ---
 
-### [Neue Definition: Häufig Adipositas schon bei normalem BMI - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWJEYV8yMjZSbUUtaGhKc0Q4a3ZNYkkzYjB5eHItSVdfQUJVeVpvclRPUERZVG1Fcm1YUTNGMEhfTll0azhiY2hkZjdKVTdTRzNHcXM1Zm1Va1BtU1lrc1VZVTdWMVd4ZnBTVmpkVXlsT3hlWW9YdkVBMEo2YU9RODktTnlYRF9TNlpmYzFHMGlvUQ?oc=5)
-
-2026-07-02 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWJEYV8yMjZSbUUtaGhKc0Q4a3ZNYkkzYjB5eHItSVdfQUJVeVpvclRPUERZVG1Fcm1YUTNGMEhfTll0azhiY2hkZjdKVTdTRzNHcXM1Zm1Va1BtU1lrc1VZVTdWMVd4ZnBTVmpkVXlsT3hlWW9YdkVBMEo2YU9RODktTnlYRF9TNlpmYzFHMGlvUQ?oc=5)
-
----
-
 ### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
 
 2026-07-02 <span class="news-indication-tag">obesity</span>
@@ -131,14 +131,6 @@ permalink: /news/melatonin/
 2026-07-01 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklJTDdFTEtEZzFtd2hFQld6OGlKb3dlaTVrdWtOUW1EY3JzbTU3bUx2TmRhYW1qWmQ1S19SQXkzNnNKcV9BVnVOdjlYelF0YXFKazdhNmpDZ05Dc2diTWkyRWtBX0pMWllsdU1QMFVnTmVCWUlMOFQtcGlPQXYtQ0pWaUI?oc=5)
-
----
-
-### [Combatir la obesidad pasa por asumir su desafío psicosocial y económico - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
-
-2026-07-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRkMtc3FFdk1QRFFSbnlyMUYwNmx0eXNGX0xWd0E0cGtPVGRTQ0NWVDd3dFVsM243SXItNW15NEpBX0ZxWjZjQlBnVmZRVVo4ZE10ZHRfQk1oT1p1cENUdkJCaHdvOURFUFQ2ekkybi1LTHJhcnZSSnN5dHhRbkp2dUNEbTAyY1hjcUtxU2NWVHBXVC0ybjZKcV9UbTkyclZQZUZ5dFUwS0Vabi1kdElzbHZJNmdPNEJqdlhiSk5sVmXSAbsBQVVfeXFMTWVZSnhFSExKUGp6M0FlcDRFMnA2YW5aYW03UEJ5bWNKeHpnUTJTZGttQjBoalA1NmRtc3Z3MEFTb2xMNWwzRkZWeEtza25GWTBadVRYekR1QkRfMElVdGhUVjVEa042cnpJZHdkQ3VsVmVjVHZwWXdlY0s3ZzZvX3lEak9ycFNncjhLYUsySGhQYS0wSldOdXVxb2hHSGFQblhkcG8zdWd6VnN5Y2h4b3E2c3pvX01uMUYyUQ?oc=5)
 
 ---
 

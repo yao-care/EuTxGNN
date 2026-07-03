@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Primäre membranöse Nephropathie: Obinutuzumab ist Tacrolimus überlegen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS3puSWFCVm5CVWQwWlMyMTNhRndsRkNkRTFVTDdSSGRrdDNaZ3NXWGt1SW5JZi1SczlXMFlwV3NKdU9BX1NMMTFXei1Rb3dMckl0aEdMaFVnemxwbDBBLTlZcnZrZkRuNDA3OExqSF9xd0VBUlo5b0dwZEpaN0tGZDQyb0Z4dEJ0Q0ZiM1NHT0tMc1FqU01QUi1HQkJ1bGoxYmFoZGhBWFE5dE9LOFM1cWtDeUpyRVp1U2lLME5NRTNLdW85R1FCbHhycUdIYks4bGNXOGZRVDJDb2NrbF9VenJsTGtzZUdPdm53?oc=5)
+
+2026-07-03 <span class="news-drug-tag">Obinutuzumab</span> <span class="news-drug-tag">Tacrolimus</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS3puSWFCVm5CVWQwWlMyMTNhRndsRkNkRTFVTDdSSGRrdDNaZ3NXWGt1SW5JZi1SczlXMFlwV3NKdU9BX1NMMTFXei1Rb3dMckl0aEdMaFVnemxwbDBBLTlZcnZrZkRuNDA3OExqSF9xd0VBUlo5b0dwZEpaN0tGZDQyb0Z4dEJ0Q0ZiM1NHT0tMc1FqU01QUi1HQkJ1bGoxYmFoZGhBWFE5dE9LOFM1cWtDeUpyRVp1U2lLME5NRTNLdW85R1FCbHhycUdIYks4bGNXOGZRVDJDb2NrbF9VenJsTGtzZUdPdm53?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Descubren un nuevo uso para un medicamento que puede sustituir al paracetamol e ibuprofeno](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTFvUWtlWGQ3NDBBOFVWa0pjNDRFQ1F5UUJkbm9lMG5Jckw0cnlOY0N6NlQtZ2xUSFBnTkNDMDI3S2VxWkpkYTdVUWozYko1UjRIMlhuOXRsWGxQVFQ4QkRDX0pXVGt2X1NxeXd0MVFkTDVOWFFNT2JKanpFdjJGSGRFOHhfbFMwSjBTbEhybzZHN2lOZUJGWVBLMDR6UjNMVU5NeWtad1F6bGRpVFA0X1930gG3AUFVX3lxTE4tWHVGZXZUWXVRSGxQVExkTXlpTGh2N081LTdySVZxZ3BCTW1LelZZWWxYNncwSGFVQnVuVGd2VDN2TklnWHh2TENrUVVLOXJBdVVtRm9ZRU5WNk4zREtOdkNTSzdOa1BnWmlURDd4ZHp4b3A1dHJHeGwxa09saTEtTC1WSjFRZlFjUDJkaVExeTNZazJHM1llNFJxcU1RdlNqNmJOTlJ6SEdMaU1kRkRqb1N6c1J1RQ?oc=5)
+
+2026-07-03 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Melatonin</span>
+
+來源：[Ideal](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTFvUWtlWGQ3NDBBOFVWa0pjNDRFQ1F5UUJkbm9lMG5Jckw0cnlOY0N6NlQtZ2xUSFBnTkNDMDI3S2VxWkpkYTdVUWozYko1UjRIMlhuOXRsWGxQVFQ4QkRDX0pXVGt2X1NxeXd0MVFkTDVOWFFNT2JKanpFdjJGSGRFOHhfbFMwSjBTbEhybzZHN2lOZUJGWVBLMDR6UjNMVU5NeWtad1F6bGRpVFA0X1930gG3AUFVX3lxTE4tWHVGZXZUWXVRSGxQVExkTXlpTGh2N081LTdySVZxZ3BCTW1LelZZWWxYNncwSGFVQnVuVGd2VDN2TklnWHh2TENrUVVLOXJBdVVtRm9ZRU5WNk4zREtOdkNTSzdOa1BnWmlURDd4ZHp4b3A1dHJHeGwxa09saTEtTC1WSjFRZlFjUDJkaVExeTNZazJHM1llNFJxcU1RdlNqNmJOTlJ6SEdMaU1kRkRqb1N6c1J1RQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
