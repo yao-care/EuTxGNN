@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiovascular disease（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiovascular disease（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiovascular disease（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiovascular disease（heart disease） 有什麼相關新聞？">
+<strong>cardiovascular disease（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiovascular disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+2026-07-04
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+---
 
 ### [Am I at risk of an early heart attack like my grandfather? I decided to find out - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd191V0VJZjJINmd3Y2ZSWm5jNmNnU3VEamlFVWFmdTVfTzZZZU9MOXRBTWp0WXU0ajNWdDNWbXhJX05Zb2R6UEUwWGM1QkhMLW1PSzZWZlQyMHU2dHMzTmtrTEl4SnhidmNWb2tXcmNrWXVUblFkamJZWFJ0bFpYRkJIV3k2T2V3N3JvcmMxN0traVFydjRoRzNuTlI2NXRxQkVEdTJUNkZXUQ?oc=5)
 

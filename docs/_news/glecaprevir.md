@@ -70,6 +70,14 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [We’ve stopped arguing about Brexit – we’re arguing about weight-loss drugs instead - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
+
+---
+
 ### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
 
 2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -94,6 +102,14 @@ permalink: /news/glecaprevir/
 
 ---
 
+### [El cribado del cáncer de hígado solo llega al 28% de los pacientes con VIH y hepatitis B que lo necesitan](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
+
+2026-07-03 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
+
+---
+
 ### [Man unable to walk after being infected with flesh-eating bacteria as wife blames simple bug bite & fears July 4 spike - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
 
 2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -102,17 +118,9 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
----
-
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
@@ -139,14 +147,6 @@ permalink: /news/glecaprevir/
 2026-07-03 <span class="news-indication-tag">MS</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
-
----
-
-### [NHS confirms rule change for patients aged 65 to 74 from September 1 - Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span>
-
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
 
 ---
 

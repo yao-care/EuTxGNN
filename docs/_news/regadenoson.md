@@ -54,6 +54,14 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（3 則）
 
+### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+
+2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+
+---
+
 ### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
 2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
@@ -67,14 +75,6 @@ permalink: /news/regadenoson/
 2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
-
----
-
-### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">migraña</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
 
 ---
 

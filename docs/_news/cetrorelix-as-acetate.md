@@ -14,7 +14,7 @@ permalink: /news/cetrorelix-as-acetate/
 ---
 
 <p class="key-answer" data-question="Cetrorelix (As Acetate) 有什麼相關新聞？">
-<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/cetrorelix-as-acetate/
 <p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（18 則）
+
+### [Cholesterin, Entzündungen, Schlaf: Diese sechs Säfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlBhdk9OeUhlUHNwZzVqX2hicUtqUndCQ21sWmV3XzQyRkg5ODFETHF0Q1Jhemswbm01dF9CUmtDSDI0TV9OQjZXYVFLQ0FBQXpGY0Q1Ukgta3NFc0dyS1FEYVhvVDgxcWYzZlFWdUhQNlhWWTlYaW5zZlpvT3RkLWpTUl9qa1p2SG5XRVNHdkFVX3VkU0s0SWJydW9vbFFtNG9EazJMYWhmdEZUVVk3NDRpQzNDMTZyTUdB?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[24vita](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlBhdk9OeUhlUHNwZzVqX2hicUtqUndCQ21sWmV3XzQyRkg5ODFETHF0Q1Jhemswbm01dF9CUmtDSDI0TV9OQjZXYVFLQ0FBQXpGY0Q1Ukgta3NFc0dyS1FEYVhvVDgxcWYzZlFWdUhQNlhWWTlYaW5zZlpvT3RkLWpTUl9qa1p2SG5XRVNHdkFVX3VkU0s0SWJydW9vbFFtNG9EazJMYWhmdEZUVVk3NDRpQzNDMTZyTUdB?oc=5)
+
+---
+
+### [ADHS: Wirkstoffe aus Kaffee & Tee helfen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3YlMxMGkySWgzbkFrVEEwS3VNWHp6d2VLT2E5VFNpclFIdWFzWEZpdFZ5NTJOU3FNa2diU1ZObmFOZklIZzZZajFUbFdjdFRzMDZNdFJxTUJlSC1kTFh6bDhCaHNLTDktNEFBRHBTR0Z0eUdMV192dlpPanZVUGtOeWRrTDFYRFdqV3NRbjRHNWJFcWRpRU1mUF9BaWs?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3YlMxMGkySWgzbkFrVEEwS3VNWHp6d2VLT2E5VFNpclFIdWFzWEZpdFZ5NTJOU3FNa2diU1ZObmFOZklIZzZZajFUbFdjdFRzMDZNdFJxTUJlSC1kTFh6bDhCaHNLTDktNEFBRHBTR0Z0eUdMV192dlpPanZVUGtOeWRrTDFYRFdqV3NRbjRHNWJFcWRpRU1mUF9BaWs?oc=5)
+
+---
+
+### [Zuckermolekül stoppt bakterielle Prostatitis im Laborversuch - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0ZDUDBqc2pSMXBYNVczbnFXWHZCWGl2dUc5UkIxdmFuSnloNDhnZ3JLcnZ6Tmtma3A3RWI4aUFvdEhNWjl4YlgzSWFmNENzN21WQlNWa3N0WGZsS2ltNHVjSFpYM29zSkh6NkJCWkd3VXVpYllnY0lUWDBXdlJuWmxGWl93WjFtVjRpa3hHZ1MtQ2tjZndTVWtVS2wwUUQ4cjJCcElFYnVER2g2NkE2bk9lX0xLc3pqYlV2QnI5cWtsbDI1ZFE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0ZDUDBqc2pSMXBYNVczbnFXWHZCWGl2dUc5UkIxdmFuSnloNDhnZ3JLcnZ6Tmtma3A3RWI4aUFvdEhNWjl4YlgzSWFmNENzN21WQlNWa3N0WGZsS2ltNHVjSFpYM29zSkh6NkJCWkd3VXVpYllnY0lUWDBXdlJuWmxGWl93WjFtVjRpa3hHZ1MtQ2tjZndTVWtVS2wwUUQ4cjJCcElFYnVER2g2NkE2bk9lX0xLc3pqYlV2QnI5cWtsbDI1ZFE?oc=5)
+
+---
+
+### [El norovirus vuelve a irrumpir en un crucero con más de 120 infectados - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX090SDJObERONDB2eXNOaUNjVXd4RmJ6TFkwZm1LR0VsWXVlUllUc0pIRng2QmhFM3h2bjdyNHV1VFNnWVE2ZFBEenl1ZkQzSlRSNy1aaW0yellqb0cxMUhwZGhWQ1dJbF9uRF9ZSUpmNF9TM0NVVTd3Z2xNR1BrTnh0YXY1dG9pcWRESGVhQm9mSHZweDlOd0FhM3ZUcmltWlgyekY1WGszVkdaelFJN3p0OWtpZjlJNTNKd2RmR0xSNnJBOHY4Nw?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX090SDJObERONDB2eXNOaUNjVXd4RmJ6TFkwZm1LR0VsWXVlUllUc0pIRng2QmhFM3h2bjdyNHV1VFNnWVE2ZFBEenl1ZkQzSlRSNy1aaW0yellqb0cxMUhwZGhWQ1dJbF9uRF9ZSUpmNF9TM0NVVTd3Z2xNR1BrTnh0YXY1dG9pcWRESGVhQm9mSHZweDlOd0FhM3ZUcmltWlgyekY1WGszVkdaelFJN3p0OWtpZjlJNTNKd2RmR0xSNnJBOHY4Nw?oc=5)
+
+---
 
 ### [Extremadura roza el 80% en el cribado de cáncer de mama con uno de los mejores datos de España - El Periódico Extremadura](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUhOYzltb1VZR1ZCM0xxVWNvODZkQzBGUEFVZkttRi1pTVlJanpydzNqand5VWZpM1JRSGJyeDQ4Tkl4bTFqV1cxVFpjUXhlVUR3ZG1GZngtMTFTSlRqZnZEZGx1UFBPbXN4SmRXRld6NzZ6Y1VYRDlselA3RlpWRjB3SnQzMzlqa3N4TXRqSVBzeDlERXM4b3daNWI3STlPdzZNYUx0TGMwdmRnTE0tSzhQUVYzbHdKY2YzYVo1djlUVkhYT1Nfbm1DT2gyQdIB0wFBVV95cUxNbHEwOFowUzVFTjhFLUtqMk1yY3VYR0hCTVUxZkpjS1Y2R0pORjQ4SVdtcjhoeldaSWs3NzhoNDJaSnlVaGg2MGtid1VqWVNLYWFfUE1QSGYzaENzS3BvNzVraVBHVk13cVBJLUw3dWIzeG92eW0yeGU4Qm1IZ2xNR3pBM1dCbjZPWEtWY2R6X0VJTkxCRElVdzBLTFBEcEh0eU5lV3JXX21lNVJ1VzdiWkZLazVsVU1vTnNXaW1Ya1R5OW9rZVNFM25FZ2l0NmgtNV93?oc=5)
 
 2026-07-04 <span class="news-indication-tag">AF</span>
 
 來源：[El Periódico Extremadura](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUhOYzltb1VZR1ZCM0xxVWNvODZkQzBGUEFVZkttRi1pTVlJanpydzNqand5VWZpM1JRSGJyeDQ4Tkl4bTFqV1cxVFpjUXhlVUR3ZG1GZngtMTFTSlRqZnZEZGx1UFBPbXN4SmRXRld6NzZ6Y1VYRDlselA3RlpWRjB3SnQzMzlqa3N4TXRqSVBzeDlERXM4b3daNWI3STlPdzZNYUx0TGMwdmRnTE0tSzhQUVYzbHdKY2YzYVo1djlUVkhYT1Nfbm1DT2gyQdIB0wFBVV95cUxNbHEwOFowUzVFTjhFLUtqMk1yY3VYR0hCTVUxZkpjS1Y2R0pORjQ4SVdtcjhoeldaSWs3NzhoNDJaSnlVaGg2MGtid1VqWVNLYWFfUE1QSGYzaENzS3BvNzVraVBHVk13cVBJLUw3dWIzeG92eW0yeGU4Qm1IZ2xNR3pBM1dCbjZPWEtWY2R6X0VJTkxCRElVdzBLTFBEcEh0eU5lV3JXX21lNVJ1VzdiWkZLazVsVU1vTnNXaW1Ya1R5OW9rZVNFM25FZ2l0NmgtNV93?oc=5)
-
----
-
-### [Cholesterin, Entzündungen, Schlaf: Diese sechs Säfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbndFS0ZJM19EenBqbm84b0NjSVlWR2VnYkg0RUhwVFVzX3ludm9mdkljc1pudjl0Rl83V3RMOC1VeGladlNLWGI5U3ljRVktc1h6ajZ0M29BZWhuaUM5M3pYNldkazVndlViTzFPZFZvSk1McGtMS1ZyV3RHWTZLZzQ4cTlHeV9pc00xcEtqUDUxZlhKYzZRLVl5eVJxOGR6UEg4amxqeWxRcGk1RFNXSWItLVduOHFfWFp3?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[24vita](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbndFS0ZJM19EenBqbm84b0NjSVlWR2VnYkg0RUhwVFVzX3ludm9mdkljc1pudjl0Rl83V3RMOC1VeGladlNLWGI5U3ljRVktc1h6ajZ0M29BZWhuaUM5M3pYNldkazVndlViTzFPZFZvSk1McGtMS1ZyV3RHWTZLZzQ4cTlHeV9pc00xcEtqUDUxZlhKYzZRLVl5eVJxOGR6UEg4amxqeWxRcGk1RFNXSWItLVduOHFfWFp3?oc=5)
 
 ---
 
@@ -86,11 +110,35 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [Couple denied NHS IVF because mum-to-be is 'too skinny' seek public's help - Hull Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTi1FMGZ3dHFEOTN6d0xqeGdyMXRmbnNZTmpXZnktTDEyMnFKNlZuTW5nMTFUSVpMeHpZRDF4Q2lPOTF0VjhaQnRLOVN6NTA4RUE0SUZsQVpLb0tFZ1c0Zm1lQVZBWVBoYkRvQkxZdEozbzJVcFNKamU4dFhiRVRCTFR6bWlhbHU0MTJkc09xUlBQSkdYTzlNMVIyTFlrU2FIM0HSAacBQVVfeXFMUHg0RzJQOFNIN1A5M2RUckYtck1GUy12Q2VwajZ3c1hMSlNXOGViSXU3dWdWbDczWlZJRGtmVVNjUlUyanJMZTBoNWNwV1dJVlJ5SE1yd1U2VWRaQ3F5eFNlVnNRNVNJcU1KaC1TdVhwY3FvMWRIY2QwY0xaZURyTDF6RTRpUE9MSWpYcDZLeXVfZEVxVWUxUmZCeUJqLUQ1UEt1NTluM2M?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[Hull Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTi1FMGZ3dHFEOTN6d0xqeGdyMXRmbnNZTmpXZnktTDEyMnFKNlZuTW5nMTFUSVpMeHpZRDF4Q2lPOTF0VjhaQnRLOVN6NTA4RUE0SUZsQVpLb0tFZ1c0Zm1lQVZBWVBoYkRvQkxZdEozbzJVcFNKamU4dFhiRVRCTFR6bWlhbHU0MTJkc09xUlBQSkdYTzlNMVIyTFlrU2FIM0HSAacBQVVfeXFMUHg0RzJQOFNIN1A5M2RUckYtck1GUy12Q2VwajZ3c1hMSlNXOGViSXU3dWdWbDczWlZJRGtmVVNjUlUyanJMZTBoNWNwV1dJVlJ5SE1yd1U2VWRaQ3F5eFNlVnNRNVNJcU1KaC1TdVhwY3FvMWRIY2QwY0xaZURyTDF6RTRpUE9MSWpYcDZLeXVfZEVxVWUxUmZCeUJqLUQ1UEt1NTluM2M?oc=5)
+
+---
+
 ### [Un estudio avala los beneficios para el hígado de beber incluso cinco cafés al día - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDdYZGdETFIxdlBmdWc5WEFoMWEzRi0yaGlPbXMzMEwxQjg2anpJdktqTHZpMUNPTGgyTy1Da3hBU2kyUXZ4cUc5Z3VoOHVFQTZDVE9SdUxOemRCbDNERElMb0pROHNXX1hRZE5PeldsTGEwcFNLbjlkMWJ1R0pFX0NjcXgwcGJJWk0zN3oyeHRDbDREZHZhbjI0eDdidGFIazJwRFdHbGdkSmJuM2xRRGh1UG5LS0RXbGJYaTJ2cjJhVXFNenctc0dycExSeHZ5bmxPb3JZaTdlMGdHTmZYUG9Bc2E4dkdZSDJkT3VheEpvWUpocG9hREVNN04?oc=5)
 
 2026-07-04 <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDdYZGdETFIxdlBmdWc5WEFoMWEzRi0yaGlPbXMzMEwxQjg2anpJdktqTHZpMUNPTGgyTy1Da3hBU2kyUXZ4cUc5Z3VoOHVFQTZDVE9SdUxOemRCbDNERElMb0pROHNXX1hRZE5PeldsTGEwcFNLbjlkMWJ1R0pFX0NjcXgwcGJJWk0zN3oyeHRDbDREZHZhbjI0eDdidGFIazJwRFdHbGdkSmJuM2xRRGh1UG5LS0RXbGJYaTJ2cjJhVXFNenctc0dycExSeHZ5bmxPb3JZaTdlMGdHTmZYUG9Bc2E4dkdZSDJkT3VheEpvWUpocG9hREVNN04?oc=5)
+
+---
+
+### [Malena García Arredondo, experta en salud digestiva: “Tomar algo con amigos en un chiringuito tiene el mismo efecto que un probiótico para la microbiota”](https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmQ5a1dXYk5NQ0NGcjdXUXdlUkg1cWtWNEU1MTNPUGlUX2dZU185NERJblNNZ0VGQldDWUVVVEc1TTlqd2o3LVA3SlZaYkZNYXUxek9lenQtNDlJcVJVcFFzV1VTZThsTEZPTS1iNU01ME9ldl9tMW5KRFQyLTBWak11ME9qMTF5VVZYM2VNU3h1X093Tmtqb0t3WWZ6MGhsY29LRThsaGw5VTZTaDZILWs5SWg1ZnhzdnBuc1NWOWlOakNMRG5LcFdkUXhiT3c0Wk03VzdYUWkyMlFtNG9sN2N3c20xTWhNUHB4aEJ6cGxiOGhjNW1Zb1FHOHRNano20gGGAkFVX3lxTFBmZ2tzeUNucjE1MzN0RVBVcERGTFdGQzMweGVoWDdCck93WFVDdkpRUW1laVk4UEh4cFhxMlhPVG5aQl9JTURMcG8ydnk4YkFaOFhCc2dSSXlELV83OUVXZEJoeGVxS0wtM0w4U2V6RDZtaE5PQ3Y4R0g1eldoRGE1QThwRHVoUTVFQmFLODh4NFE5ck1xam9FWnJTRmlDUWM3M2NocENfRGNHeTBESWMtcXpKdHlwOEhCRTk2WkdtZmx0Z2ZCamlBcTVhUlZuU2lQSEZKeVZPR1FqYkhfbnEyU1ZRd3VBOFZndFFhNGtyTFdEVTFjNld1UHZDUms3dlRZTGhEQnc?oc=5)
+
+2026-07-03 <span class="news-indication-tag">AF</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmQ5a1dXYk5NQ0NGcjdXUXdlUkg1cWtWNEU1MTNPUGlUX2dZU185NERJblNNZ0VGQldDWUVVVEc1TTlqd2o3LVA3SlZaYkZNYXUxek9lenQtNDlJcVJVcFFzV1VTZThsTEZPTS1iNU01ME9ldl9tMW5KRFQyLTBWak11ME9qMTF5VVZYM2VNU3h1X093Tmtqb0t3WWZ6MGhsY29LRThsaGw5VTZTaDZILWs5SWg1ZnhzdnBuc1NWOWlOakNMRG5LcFdkUXhiT3c0Wk03VzdYUWkyMlFtNG9sN2N3c20xTWhNUHB4aEJ6cGxiOGhjNW1Zb1FHOHRNano20gGGAkFVX3lxTFBmZ2tzeUNucjE1MzN0RVBVcERGTFdGQzMweGVoWDdCck93WFVDdkpRUW1laVk4UEh4cFhxMlhPVG5aQl9JTURMcG8ydnk4YkFaOFhCc2dSSXlELV83OUVXZEJoeGVxS0wtM0w4U2V6RDZtaE5PQ3Y4R0g1eldoRGE1QThwRHVoUTVFQmFLODh4NFE5ck1xam9FWnJTRmlDUWM3M2NocENfRGNHeTBESWMtcXpKdHlwOEhCRTk2WkdtZmx0Z2ZCamlBcTVhUlZuU2lQSEZKeVZPR1FqYkhfbnEyU1ZRd3VBOFZndFFhNGtyTFdEVTFjNld1UHZDUms3dlRZTGhEQnc?oc=5)
+
+---
+
+### [CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBvcDZoUTBLaE9FbDNvLUI2dW92QVJIX01qVzdKNGM0cXJOZkhUdTRHVExfQ1h2SnBQeE4zc3ZfZkp1cDQzN25OOGNOdzNVVUhpYmdyTm5XSFR5Z0k3WHgzUVh4UDV5TzBMTUgwTjJnT1QzY2V6Q3d6ZTBnU2FnSk5ERnBtb1gydHpsRmt1djRHM21YRHZr?oc=5)
+
+2026-07-03 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBvcDZoUTBLaE9FbDNvLUI2dW92QVJIX01qVzdKNGM0cXJOZkhUdTRHVExfQ1h2SnBQeE4zc3ZfZkp1cDQzN25OOGNOdzNVVUhpYmdyTm5XSFR5Z0k3WHgzUVh4UDV5TzBMTUgwTjJnT1QzY2V6Q3d6ZTBnU2FnSk5ERnBtb1gydHpsRmt1djRHM21YRHZr?oc=5)
 
 ---
 
@@ -126,6 +174,14 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [Vera intensifica las medidas de prevención frente al Virus del Nilo Occidental - Diario de Almería](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWlaYjhPNWNQMkRVR2RKQXRraUdqY1VhX25mX0FvTXRoZXdhRW1uRkpweDlFWmNYb0xzOFNPU2hzVnJ1NnFZZVcwOWVkME44YkxtNU5tajNuY2h6cDJlTldWM3Rzc09oSEEzUHV4NGlSdzlyb2Z2V1JUSmRHQjVEWFJKbFRpcTZGWlZiYWlHS29hRktiMXY3NDU1bnREdW1FWThQOVVaNkxqZ9IBrwFBVV95cUxOaTRPalRycFc5RUpjaDk1YmQzcWsxYkExTDhuSUlMdHVSeGxOdjI4aU5OM1RJOG9zbmd4aEEwTmVETXY4RmFLcTJMR0ZILW5HVXB0NUpVNnAtM1d4Y29BWHpoWVNBWjQ1U1c3Q0VydC1SU2xjSjNqSVJnNVZucWEzNWZyV3ZYWkNMOFcxYzdZZVZsTGc2QTRzNkVGMElPRWVDOHdSZ3ctY1c1am1ud1Jn?oc=5)
+
+2026-07-03 <span class="news-indication-tag">AF</span>
+
+來源：[Diario de Almería](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWlaYjhPNWNQMkRVR2RKQXRraUdqY1VhX25mX0FvTXRoZXdhRW1uRkpweDlFWmNYb0xzOFNPU2hzVnJ1NnFZZVcwOWVkME44YkxtNU5tajNuY2h6cDJlTldWM3Rzc09oSEEzUHV4NGlSdzlyb2Z2V1JUSmRHQjVEWFJKbFRpcTZGWlZiYWlHS29hRktiMXY3NDU1bnREdW1FWThQOVVaNkxqZ9IBrwFBVV95cUxOaTRPalRycFc5RUpjaDk1YmQzcWsxYkExTDhuSUlMdHVSeGxOdjI4aU5OM1RJOG9zbmd4aEEwTmVETXY4RmFLcTJMR0ZILW5HVXB0NUpVNnAtM1d4Y29BWHpoWVNBWjQ1U1c3Q0VydC1SU2xjSjNqSVJnNVZucWEzNWZyV3ZYWkNMOFcxYzdZZVZsTGc2QTRzNkVGMElPRWVDOHdSZ3ctY1c1am1ud1Jn?oc=5)
+
+---
+
 ### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
 
 2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -139,46 +195,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVROVUVZbTJMcHdJT2FDU2NmYkRuNHdBWGxPY0RBV3JHNEE1U2R5bmNYQS1Pdmp3YmZyTTdkYTFuUlZoN0xmN2dBNENQMWdpZTcyd3FNZWRyRFA5U1FCUkF5dHREdXIwUV9femVFUlFvYzd4ZFVlN2I2UmVKbnBNcHMxNmNiaE5jVm9jVDNsQXhmN19QZTBWM2tjSQ?oc=5)
-
----
-
-### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
----
-
-### [Más de 100 personas se contagian de norovirus en un crucero que partió de California - El Progreso de Lugo](https://news.google.com/rss/articles/CBMizwFBVV95cUxOclhCUGdkVUVvMGFwQTRGZUh3QmZxX1hPZlVKcURiRlJ4eG5mMDE3WXhkWUd6RjA0S3dnRGk5NjJFQkF3U00tR3J5MUcycWU0S1MzSlhnNHlRRXhhOXFiTnJOa2ZGRFNiUmd1YXc1RG1XeWJ5TWVCRkNVQmplSFp4Y1lHa0FLV2dpMThHckNZWlRlYU42a05yMUwxTV9YTHlsZUVXcnE5SWJZaC1hRXB4TThSTEp1enZkdGFxbDlLVmRweDRka0Z3TWY4S1lqZDjSAdQBQVVfeXFMUHhtd0dYNGc5THM0dzY0Uk5SVVZ6WXVTMHF2S1Y2WFk5dC1pNUdnbm9idjdneUp6THNoWTIyOEFma2xDbEhxYkxPM0I3Qk9lSXBZcnZlaXpqbkp3QURJbVpBVFZoR3A4b3VVLU55NUJ1OU5qNTE2WF9TY3Q3YVExWk9jay0zeENVZG5sWWlBQ2IwZC1jSnZFRG1rTkM0MEQxRXV4N1l3dGhEd2NIc0ZGWFRuM3Z6MFlwT3FjdDcyeWg0UnVRc2RyY21RSHVtU2UzSEhyZEc?oc=5)
-
-2026-07-03 <span class="news-indication-tag">AF</span>
-
-來源：[El Progreso de Lugo](https://news.google.com/rss/articles/CBMizwFBVV95cUxOclhCUGdkVUVvMGFwQTRGZUh3QmZxX1hPZlVKcURiRlJ4eG5mMDE3WXhkWUd6RjA0S3dnRGk5NjJFQkF3U00tR3J5MUcycWU0S1MzSlhnNHlRRXhhOXFiTnJOa2ZGRFNiUmd1YXc1RG1XeWJ5TWVCRkNVQmplSFp4Y1lHa0FLV2dpMThHckNZWlRlYU42a05yMUwxTV9YTHlsZUVXcnE5SWJZaC1hRXB4TThSTEp1enZkdGFxbDlLVmRweDRka0Z3TWY4S1lqZDjSAdQBQVVfeXFMUHhtd0dYNGc5THM0dzY0Uk5SVVZ6WXVTMHF2S1Y2WFk5dC1pNUdnbm9idjdneUp6THNoWTIyOEFma2xDbEhxYkxPM0I3Qk9lSXBZcnZlaXpqbkp3QURJbVpBVFZoR3A4b3VVLU55NUJ1OU5qNTE2WF9TY3Q3YVExWk9jay0zeENVZG5sWWlBQ2IwZC1jSnZFRG1rTkM0MEQxRXV4N1l3dGhEd2NIc0ZGWFRuM3Z6MFlwT3FjdDcyeWg0UnVRc2RyY21RSHVtU2UzSEhyZEc?oc=5)
-
----
-
-### [Neue S3-Leitlinie der DGRh: Herz-Kreislauf-Risiken bei Rheuma gezielter erkennen und behandeln - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMElReDE5TWpkQ2c1Tk1BMk1OTVZ0N1NtQlRJdVRGYWZnUUVqMm0zUGFGTTRicXE3d0NCR0pLZkxtQ2c1a0VPUXRJcE81cVNYN3R1TlRzR1pIZ09KOVgySmM5ZXNZQTB1TGwzMjF3UTJIT0hFQlI5dU9LamV0V0pvU2xCU3BZNjVzNFM3X3FZazlEd1U0M3dWNnBuMmlwTkFxSUhpYlBHdC1XSXZPV3dhdUNHVjZGd0w5WlBrTnVOTkdoeFdqT3JHSVBtTTdDMlVLYzF4TA?oc=5)
-
-2026-07-03 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMElReDE5TWpkQ2c1Tk1BMk1OTVZ0N1NtQlRJdVRGYWZnUUVqMm0zUGFGTTRicXE3d0NCR0pLZkxtQ2c1a0VPUXRJcE81cVNYN3R1TlRzR1pIZ09KOVgySmM5ZXNZQTB1TGwzMjF3UTJIT0hFQlI5dU9LamV0V0pvU2xCU3BZNjVzNFM3X3FZazlEd1U0M3dWNnBuMmlwTkFxSUhpYlBHdC1XSXZPV3dhdUNHVjZGd0w5WlBrTnVOTkdoeFdqT3JHSVBtTTdDMlVLYzF4TA?oc=5)
-
----
-
-### [This common sleep habit silently wrecks the heart after 40, according to a major new study – but there’s a fix - Runner's World](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFlhSVhWenFqWldHcWVKRG1HQXFsUEk5UnhhV2RaMzBRWEhjSVo1UWllQ2FRZVBaRnBtWnJRdC1MQ0ZMX0Zta1pBRk1UbGpvNzgwb3RyaWZRSmFoUC1mdlh2MXpOc19WaGpHZjJVcE5XZWJTZE9uZmgycWZtX2tVZmJBY1JLZVZoRzlUTg?oc=5)
-
-2026-07-02 <span class="news-indication-tag">AF</span>
-
-來源：[Runner's World](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFlhSVhWenFqWldHcWVKRG1HQXFsUEk5UnhhV2RaMzBRWEhjSVo1UWllQ2FRZVBaRnBtWnJRdC1MQ0ZMX0Zta1pBRk1UbGpvNzgwb3RyaWZRSmFoUC1mdlh2MXpOc19WaGpHZjJVcE5XZWJTZE9uZmgycWZtX2tVZmJBY1JLZVZoRzlUTg?oc=5)
-
----
-
-### [Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations - The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
 
 ---
 

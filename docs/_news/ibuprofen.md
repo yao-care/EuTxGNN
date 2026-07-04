@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El producto que sirve de plus añadido para rebajar el dolor crónico más allá del ibuprofeno y paracetamol](https://news.google.com/rss/articles/CBMiywFBVV95cUxQd2xPRmFZX25PaVI1N2NzMkNCcTYwOWFvSjZ1TVprTEFEeE8yeG1CbW9jZF9TaGtMLUhWT01CYm1wTG8zaWpWejFITkFMeUsxVnU5b1kxbC1INE00bXJKaXdFNjlNU0VaQVNoZ2w0RGhGc0JjaUhkZmhHWEpiUjRfRWEtTWdZOENWOWdQb2tUTkZmd3JNd2o4RDRJQlZiSm04bVNUcWQ3Uml4TjRDSW51ME14cHBReXJxM1RnZXl4Mmk4TTVNeDdjcDU1Y9IBywFBVV95cUxOYWw2ZzZvdEJaODhQYWJEUHpaT1ktZnpPTUVjM1diVnJSVWdxdEptcDM0WnBMM1ZEUmZQa1FrUnhIbVhnZXFnLVQ3RjlQb0l1WnFKZ2VOamdjWk9vZ1dHRFBRazc0RGxxSUVYbklSc1lLa0tsbEdWalhxN0JMeG5IcUtqbENMSTFpRDRPR1gwRWhNZ1ZoVzBTV1Z0bVBGT1ZpTjZiZEk0RVBIS0p4RzZPNkFLQjFvZkFzUFBxa2d1UWxaUHNyeU5OeDJ5Yw?oc=5)
-
-2026-07-03 <span class="news-drug-tag">Ibuprofen</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMiywFBVV95cUxQd2xPRmFZX25PaVI1N2NzMkNCcTYwOWFvSjZ1TVprTEFEeE8yeG1CbW9jZF9TaGtMLUhWT01CYm1wTG8zaWpWejFITkFMeUsxVnU5b1kxbC1INE00bXJKaXdFNjlNU0VaQVNoZ2w0RGhGc0JjaUhkZmhHWEpiUjRfRWEtTWdZOENWOWdQb2tUTkZmd3JNd2o4RDRJQlZiSm04bVNUcWQ3Uml4TjRDSW51ME14cHBReXJxM1RnZXl4Mmk4TTVNeDdjcDU1Y9IBywFBVV95cUxOYWw2ZzZvdEJaODhQYWJEUHpaT1ktZnpPTUVjM1diVnJSVWdxdEptcDM0WnBMM1ZEUmZQa1FrUnhIbVhnZXFnLVQ3RjlQb0l1WnFKZ2VOamdjWk9vZ1dHRFBRazc0RGxxSUVYbklSc1lLa0tsbEdWalhxN0JMeG5IcUtqbENMSTFpRDRPR1gwRWhNZ1ZoVzBTV1Z0bVBGT1ZpTjZiZEk0RVBIS0p4RzZPNkFLQjFvZkFzUFBxa2d1UWxaUHNyeU5OeDJ5Yw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

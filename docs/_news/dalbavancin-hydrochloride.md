@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dalbavancin Hydrochloride 有什麼相關新聞？">
-<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dalbavancin Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dalbavancin-hydrochloride/
 <p><a href="{{ '/drugs/dalbavancin-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+2026-07-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+---
 
 ### [Am I at risk of an early heart attack like my grandfather? I decided to find out - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd191V0VJZjJINmd3Y2ZSWm5jNmNnU3VEamlFVWFmdTVfTzZZZU9MOXRBTWp0WXU0ajNWdDNWbXhJX05Zb2R6UEUwWGM1QkhMLW1PSzZWZlQyMHU2dHMzTmtrTEl4SnhidmNWb2tXcmNrWXVUblFkamJZWFJ0bFpYRkJIV3k2T2V3N3JvcmMxN0traVFydjRoRzNuTlI2NXRxQkVEdTJUNkZXUQ?oc=5)
 

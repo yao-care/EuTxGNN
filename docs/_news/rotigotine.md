@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
 ### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/rotigotine/
 2026-07-04 <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+
+---
+
+### [We’ve stopped arguing about Brexit – we’re arguing about weight-loss drugs instead - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
 
 ---
 
@@ -102,17 +110,9 @@ permalink: /news/rotigotine/
 
 ---
 
-### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
----
-
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
@@ -139,14 +139,6 @@ permalink: /news/rotigotine/
 2026-07-03 <span class="news-indication-tag">MS</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
-
----
-
-### [NHS confirms rule change for patients aged 65 to 74 from September 1 - Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span>
-
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
 
 ---
 

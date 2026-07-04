@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+
+2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+
+---
+
+### [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+2026-07-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+---
 
 ### [Blutdrucksenker: Welche Wirkstoffe sind am besten verträglich? - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ---
 
-### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+### [Hypertension : quatre cardiologues recommandent ce régime "efficace en quelques semaines" - Yahoo Life France](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDl6V0RzVTB3X3hwQktJOWpkd3h4MFFYRFRwZVUwZ21EVFlYR1NWcWFBcXdpZE01ZEZ3Rmk0TjhzSUdNRzJsYUhVVnZDUlVtUzBOMjhaQ28tclVmUkRCSEpYTHBfdWJoeVJ3T3RWNmNGemNEcGI1Zy1qeUREb0U0WGxpeHRKYXNvUGl0eXV3ZGdGbTI2dElzemF1UVZKcEEt?oc=5)
 
-2026-07-02 <span class="news-indication-tag">migraña</span>
+2026-07-02 <span class="news-indication-tag">hypertension</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDl6V0RzVTB3X3hwQktJOWpkd3h4MFFYRFRwZVUwZ21EVFlYR1NWcWFBcXdpZE01ZEZ3Rmk0TjhzSUdNRzJsYUhVVnZDUlVtUzBOMjhaQ28tclVmUkRCSEpYTHBfdWJoeVJ3T3RWNmNGemNEcGI1Zy1qeUREb0U0WGxpeHRKYXNvUGl0eXV3ZGdGbTI2dElzemF1UVZKcEEt?oc=5)
 
 ---
 

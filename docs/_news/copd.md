@@ -3,7 +3,7 @@ layout: default
 title: "copd 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "copd 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
+description: "copd 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="copd 有什麼相關新聞？">
-<strong>copd</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
+<strong>copd</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
@@ -69,14 +69,6 @@ permalink: /news/copd/
 2026-07-03
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
-
----
-
-### [Gemischte Ergebnisse für Astegolimab bei COPD-Exazerbationen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
-
-2026-07-02
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
 
 ---
 

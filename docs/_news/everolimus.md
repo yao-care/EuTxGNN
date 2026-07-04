@@ -14,7 +14,7 @@ permalink: /news/everolimus/
 ---
 
 <p class="key-answer" data-question="Everolimus 有什麼相關新聞？">
-<strong>Everolimus</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Everolimus</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/everolimus/
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（24 則）
 
-### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+### ['Pebble poos' can mean dementia & ‘pencil poos’ cancer…number 2s to NEVER ignore - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
+
+---
+
+### [Cancer : les oncologues tirent la sonnette d'alarme face aux décisions qui menacent vos traitements - St Martin Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGFGQ0RnT0pMbUxoTGl4aDdNX0I1QjRlYmQtTmVUMC04Z1ZxbkpuY0VrdUpUN3FFSG9OTE50cXg5b2o5ZDBxS0dlc183T2VIOU9WNlp0dkZWYXhyTnl3Y2Z5b3h2bkFlNzhWNmtpZ2pZcUZaVTMwRnhWMmt1d0lMTjd6dHJ5OFNFbF9hcGl4WkFVYmRscTBqaXFVV0hPZ3BmZXBLMzl4V0w3ZnpPYjF4V2hqakNOX012QUdKUkdrSzM1UDQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[St Martin Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGFGQ0RnT0pMbUxoTGl4aDdNX0I1QjRlYmQtTmVUMC04Z1ZxbkpuY0VrdUpUN3FFSG9OTE50cXg5b2o5ZDBxS0dlc183T2VIOU9WNlp0dkZWYXhyTnl3Y2Z5b3h2bkFlNzhWNmtpZ2pZcUZaVTMwRnhWMmt1d0lMTjd6dHJ5OFNFbF9hcGl4WkFVYmRscTBqaXFVV0hPZ3BmZXBLMzl4V0w3ZnpPYjF4V2hqakNOX012QUdKUkdrSzM1UDQ?oc=5)
+
+---
+
+### [Stare seduti oltre 30 minuti di fila aumenta il rischio di morte per cancro - Hardware Upgrade](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFB4V2MyLUFlZklWM1JIcWpTSW91Y0dBOVNyUVJyYVJramZlYzhkbXU2TTVDZDF2VGZuVEdobER3OGZpS00zWnVheEZOLWNvdmZIdUJCcFlJQ1A5VUFWNTQwdjh4ZXh1R0lJRVVqNkFzZ2NTSV9ZRThucUlGdEJKYU1Ya1BNc19ubnBhbTlGLTZlTDVZSnFlMzRYMmR0WC13YjJNVUdsOG8ycm9WS0o1ZEVSaFg1R2hYOVlIdGxGTFd3SDl4cmJzU3lFSmNVbVJCU0E?oc=5)
 
 2026-07-04 <span class="news-indication-tag">cancro</span>
 
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+來源：[Hardware Upgrade](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFB4V2MyLUFlZklWM1JIcWpTSW91Y0dBOVNyUVJyYVJramZlYzhkbXU2TTVDZDF2VGZuVEdobER3OGZpS00zWnVheEZOLWNvdmZIdUJCcFlJQ1A5VUFWNTQwdjh4ZXh1R0lJRVVqNkFzZ2NTSV9ZRThucUlGdEJKYU1Ya1BNc19ubnBhbTlGLTZlTDVZSnFlMzRYMmR0WC13YjJNVUdsOG8ycm9WS0o1ZEVSaFg1R2hYOVlIdGxGTFd3SDl4cmJzU3lFSmNVbVJCU0E?oc=5)
+
+---
+
+### [Des médicaments fonctionnant comme un cheval de Troie pourraient révolutionner la lutte contre le cancer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdnhwNVBOTmdGdU9UZzN4Q0ZOVklhT2NQUHFzWEE2dzdRZ2VaZjBIczFwYUZFZXNwMzM4NXVzNVhMcmFGLVlVUWIxX1Z1S25OTkZvTVdpa2pfWnZlWS14ODV3NzBta2I5R1Z0ZXBlMHZyem1SRk9SY0tJWlhTNVFYVllsREVSWWtVQkNiY0JQOXN0VWIzeENUbndaT1o0MmdvU0ZIbS1xRTJtV2Z1WF91YkUwYS1fa3FtQW4xRFJBc1hQOVdpYVlsWFlQN3ZvdnBSVW5fVkhiemJnM1AxV3BDLVpDZWU?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdnhwNVBOTmdGdU9UZzN4Q0ZOVklhT2NQUHFzWEE2dzdRZ2VaZjBIczFwYUZFZXNwMzM4NXVzNVhMcmFGLVlVUWIxX1Z1S25OTkZvTVdpa2pfWnZlWS14ODV3NzBta2I5R1Z0ZXBlMHZyem1SRk9SY0tJWlhTNVFYVllsREVSWWtVQkNiY0JQOXN0VWIzeENUbndaT1o0MmdvU0ZIbS1xRTJtV2Z1WF91YkUwYS1fa3FtQW4xRFJBc1hQOVdpYVlsWFlQN3ZvdnBSVW5fVkhiemJnM1AxV3BDLVpDZWU?oc=5)
+
+---
+
+### [Quand la surveillance de la grossesse détecte des cancers maternels](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUxBYWE4NFVTcG5MUGRkUEZuYjFiNDR5U0w5cWhvYW41Z1dtRDgxOGpzRDYwT1pvNFJEdEREbnlGRVpsdnhTbEMwZVNKa2tBQU53X2dzd1V2Wk9vVVBmRHd1RE41WlBPNVhVQi1MTGN3TmdQTVJMS0xxMVZjQzZwbm1XLWhDdlg4RzEtX1ZKX2QxQWU2QTBITWpzQXVGal93VjFHUndMRUU5THRvM1dkNFhTQzU5QkVrYW1UN21jNm9wZw?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Mediapart](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUxBYWE4NFVTcG5MUGRkUEZuYjFiNDR5U0w5cWhvYW41Z1dtRDgxOGpzRDYwT1pvNFJEdEREbnlGRVpsdnhTbEMwZVNKa2tBQU53X2dzd1V2Wk9vVVBmRHd1RE41WlBPNVhVQi1MTGN3TmdQTVJMS0xxMVZjQzZwbm1XLWhDdlg4RzEtX1ZKX2QxQWU2QTBITWpzQXVGal93VjFHUndMRUU5THRvM1dkNFhTQzU5QkVrYW1UN21jNm9wZw?oc=5)
 
 ---
 
@@ -83,6 +115,14 @@ permalink: /news/everolimus/
 2026-07-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSeGRUSDJyX0tIYnZTS0tXV1ZaVnc3ZE9PRG5pQTRfekctZTE4WUNzaWFyUlJfTUkyMTh3YUJ0dVQ4cTA2R1AwWUxxOFJFWG9QTFk2VWtXWEJXUWVjekZZTjNVdUVZMGhCRl9nWFAzY2hvTmRmczBhT01XenJYcFUzdGNkQWVYRXlHWDQwTXpYV3pGMXVJVnNfX2IwYk9odXhKdkdXQndRNzFmcFVVVFZXckpVSzMydjhTTmFaN28?oc=5)
+
+---
+
+### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancro</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
 
 ---
 
@@ -118,14 +158,6 @@ permalink: /news/everolimus/
 
 ---
 
-### [Cet hôpital lyonnais inaugure une technologie révolutionnaire pour traiter certains cancers debout - Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
-
----
-
 ### ["España necesita inversión para desarrollar vacunas personalizadas con IA" - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQajFxVDN5VUJuMW1oOEl4LXRoRUp6dVN2VWowMENfUjBzRy1iWEZKQkhrbWdxd2M4aDEyNUozRHFkTVFHY1J2U1duSldBNmpMN0dJWkw5QjJBdWoxNzBzVlVLZ1kwTmZkSmptRjE1OUt2dktZMVhFcFUzZDdkcGxqelNNNVNLUGg4b3NwZ3dTRFUyWmlJUHpGOE9ycEt2V2ZMMlBXblY4RXdFOXlMWWxtenk5MFBmX005VGlyRGx2dE5UYjhpZm1EOHRERi0?oc=5)
 
 2026-07-03 <span class="news-indication-tag">tumor</span>
@@ -142,27 +174,11 @@ permalink: /news/everolimus/
 
 ---
 
-### [La marche rapide ferait reculer le risque de cancer du côlon bien plus quʼon ne le pensait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTUyQkx0N1dLakxSZUhNSkV1aGtadjJ2ZDktd3ZfdWN5Ti14MnNudG9TRG5zUXNNVFFnSGdubmxkZVJFYmo5bjN0OWJWTGRqWDVuTXpYYl9Bb2N3bWpBVDRENTh6UUJnSms3TmV3Rm5heFljdDA1RUhfWkdjc1E3SS1POWVjREpRTkJHdW50QzNXYjZIcU9VajlMcEo5OHBqZUJUeEhaNVlJeWpWWE05ZThnRzcwWEdGNUMwTlJKSGVkSHVh?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span>
-
-來源：[parisbasketball.paris](https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTUyQkx0N1dLakxSZUhNSkV1aGtadjJ2ZDktd3ZfdWN5Ti14MnNudG9TRG5zUXNNVFFnSGdubmxkZVJFYmo5bjN0OWJWTGRqWDVuTXpYYl9Bb2N3bWpBVDRENTh6UUJnSms3TmV3Rm5heFljdDA1RUhfWkdjc1E3SS1POWVjREpRTkJHdW50QzNXYjZIcU9VajlMcEo5OHBqZUJUeEhaNVlJeWpWWE05ZThnRzcwWEdGNUMwTlJKSGVkSHVh?oc=5)
-
----
-
 ### [Dans le Tarn, une infirmière révolutionne l’accompagnement des malades du cancer avec des consultations à domicile après le choc du diagnostic](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFvWUtrcnhkRzlvR1FyT3M5LWwxOExDSWxJWmc3X1RWOUxUT0pDU3VnWlJFRENuNldJNC1zM084c1BTYWdnZ0l4Z3hHa1dyMlFMZ1oxNklUX25oUjdJMVJMZU02ZEZZLTdKdm1sSnlhWnhGUVlYVkRKTVRmS1hHTXdncXFWWmFvTEZtRDIxWUhYV1NzMlZGRF9sUXdtMTEzYjQ4Z3A1OTEzY3p2aHhZUVQzNzJfYWJDeEsydEZDY0lhVk1hMVZKbGtOYjVoamlQYjl5MW5RTnNRazdUNzJmbjF2TmRQdHAyZC1hdGlGOUgxQXFVSWk4aUtDZ0xxcUNuRHFGWnFNeUQ5RG5sZ3o4a25mbEVNSENP?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFvWUtrcnhkRzlvR1FyT3M5LWwxOExDSWxJWmc3X1RWOUxUT0pDU3VnWlJFRENuNldJNC1zM084c1BTYWdnZ0l4Z3hHa1dyMlFMZ1oxNklUX25oUjdJMVJMZU02ZEZZLTdKdm1sSnlhWnhGUVlYVkRKTVRmS1hHTXdncXFWWmFvTEZtRDIxWUhYV1NzMlZGRF9sUXdtMTEzYjQ4Z3A1OTEzY3p2aHhZUVQzNzJfYWJDeEsydEZDY0lhVk1hMVZKbGtOYjVoamlQYjl5MW5RTnNRazdUNzJmbjF2TmRQdHAyZC1hdGlGOUgxQXFVSWk4aUtDZ0xxcUNuRHFGWnFNeUQ5RG5sZ3o4a25mbEVNSENP?oc=5)
-
----
-
-### [Stare seduti per più di 30 minuti è associato a un maggior rischio di morte per cancro: lo studio su Plos Medicine](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWFaNjlxUWcyTllOQlZIdjBveExmNWpOR21VT19LdDAyb0xDeFZGOUg1WnZvc0xoVFc2NHJVbU9OM0NlWjlYMUx1N3hmWTF2dHQzcGxVN0FObEhDNFNZaENvYmpCT05jSURnUFY3OEFuTTZkbjA1V181YTNERjFCZ3JqM3Jab2pNTjBmbDRpUEZIYTAySjNydDdWWUl0LThFb2V0ZG5jTXNiUEJPNFVlbWNlamNWRVZTVldwTlNKR2cyV19LdFEteThXLUp6YWFtWE1uQV9KWm1EYW02VTRuVWRDNUhLLWNHUkR6LU5B?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancro</span>
-
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWFaNjlxUWcyTllOQlZIdjBveExmNWpOR21VT19LdDAyb0xDeFZGOUg1WnZvc0xoVFc2NHJVbU9OM0NlWjlYMUx1N3hmWTF2dHQzcGxVN0FObEhDNFNZaENvYmpCT05jSURnUFY3OEFuTTZkbjA1V181YTNERjFCZ3JqM3Jab2pNTjBmbDRpUEZIYTAySjNydDdWWUl0LThFb2V0ZG5jTXNiUEJPNFVlbWNlamNWRVZTVldwTlNKR2cyV19LdFEteThXLUp6YWFtWE1uQV9KWm1EYW02VTRuVWRDNUhLLWNHUkR6LU5B?oc=5)
 
 ---
 
@@ -214,14 +230,6 @@ permalink: /news/everolimus/
 
 ---
 
-### [Traitement du cancer : le cri d'alarme des oncologues face aux projets de l'Assemblée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span>
-
-來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
-
----
-
 ### ["Cela concerne les gens qui ont cette habitude depuis des mois" : un médecin juge cette boisson responsable de certains cancers (et ce n'est pas l'alcool) - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
 
 2026-07-02 <span class="news-indication-tag">cancer</span>
@@ -235,30 +243,6 @@ permalink: /news/everolimus/
 2026-07-02 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
-
----
-
-### ['My husband died from this rare cancer and I want people to know about it' - Belfast Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzRPMUFfT2dJNWlMMHhNbHN5THhCZmdYSnpFWmloZXFJUVB3cGQwWjloVWFHSjNNamctcDhldE5OUWtKcWgwYXZGRHl6cHhhZHVYVUQ0YVRTTjlQeXFEZW02UHBsdDF5Q2dremlvTlRHZWRZekNudjR1Uy1LOE9HWFJsOFc4THJWM3hBdTJJa2NJd9IBlwFBVV95cUxNR0I4bHk0QWJkWXlzTFZpVk0wcTFPRE9VTmNkd1ZWZmFyOE8tX1RycjMyWmRueXpMSTdMTFdEczU1d3AxQi1uaS05bmRlNlN0di1SbWJJdjZhWG5oY2lzMXd5N3lEcEM5aHVyaDNlQmpsUHBocGRvb3hhVHdKd3k1T2d0WFhWVC0zaFg2Z0N5NjEwUDI4b25z?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Belfast Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzRPMUFfT2dJNWlMMHhNbHN5THhCZmdYSnpFWmloZXFJUVB3cGQwWjloVWFHSjNNamctcDhldE5OUWtKcWgwYXZGRHl6cHhhZHVYVUQ0YVRTTjlQeXFEZW02UHBsdDF5Q2dremlvTlRHZWRZekNudjR1Uy1LOE9HWFJsOFc4THJWM3hBdTJJa2NJd9IBlwFBVV95cUxNR0I4bHk0QWJkWXlzTFZpVk0wcTFPRE9VTmNkd1ZWZmFyOE8tX1RycjMyWmRueXpMSTdMTFdEczU1d3AxQi1uaS05bmRlNlN0di1SbWJJdjZhWG5oY2lzMXd5N3lEcEM5aHVyaDNlQmpsUHBocGRvb3hhVHdKd3k1T2d0WFhWVC0zaFg2Z0N5NjEwUDI4b25z?oc=5)
-
----
-
-### [Sandra Misale e il lavoro contro il tumore al pancreas (in un laboratorio con il suo nome): «Con i nuovi farmaci la sopravvivenza raddoppia» - Corriere della Sera](https://news.google.com/rss/articles/CBMipAJBVV95cUxNdFlKbmFVVWdZczdzNFgwS1FXbVBKeEl4VG1XQVRVZ0w1V0EyWUxZSklWZlNVUnF6ZGhBdV9YZDc3Wk10Q0xPQ1pVcm02bzc2c0praFBXLWVNUEpzZzMzRURZVTV6Q0x2OThnUDZjYUhkUmlrUzkxTDd2dFkySXBwZFlyMmotbkl4eDFidzBjbDBnT3hoeUxERk9sQm5XYjFVcDlvSVlvQVRnTGRuNldHMFlpQWJza3lNcWYxay1RanZCdzN1ejQ4YWhEV3JrNXVLdWdTUzlvOVUxSlo4NkFWNWIyd1otSng1ZjFNYWF6YTlQdUo5dDh4a0h4bk9UU0tUeUVCSGZBMVdhd0tLTVJmYmF3MUlWeDJmMzVZZ3dKS0lYdkdp0gGqAkFVX3lxTFBJTHVhcjA0M1pBam1NeTdpbUNud3NrMHJMLUhrTmg5UFk3UVFJNFdmdWUyVFpFX2VKWmtQTmQ3UG1BVjVDeU94NHJpa3ByNEFROWk0X3Z0dW85Ull3N2cxRnJad2FwVlI3U0xKSWZQZWRINTNPR1A4M2pWd0doa0JxRDFLZzI1VUE0bVhPYzZTLVVfd3U2RDFNc1R1WW9GSGJ0eGJZeV96YURYSWp1dXZlUEVHZmNnR0dzY1dBSzBYR3J0c1RXYlVZVmFpenhJNnpybms0X1JsUDAteW5aTThxM1EzSVlfQ3BqMFUwNm5QYmVsdVlQazZFblBKakctUzk0Y0E5WmV4RHRheFJBeWtZcy1EUW85UmpQUDE5TDl4aEMzQTFaR1pLa3c?oc=5)
-
-2026-07-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMipAJBVV95cUxNdFlKbmFVVWdZczdzNFgwS1FXbVBKeEl4VG1XQVRVZ0w1V0EyWUxZSklWZlNVUnF6ZGhBdV9YZDc3Wk10Q0xPQ1pVcm02bzc2c0praFBXLWVNUEpzZzMzRURZVTV6Q0x2OThnUDZjYUhkUmlrUzkxTDd2dFkySXBwZFlyMmotbkl4eDFidzBjbDBnT3hoeUxERk9sQm5XYjFVcDlvSVlvQVRnTGRuNldHMFlpQWJza3lNcWYxay1RanZCdzN1ejQ4YWhEV3JrNXVLdWdTUzlvOVUxSlo4NkFWNWIyd1otSng1ZjFNYWF6YTlQdUo5dDh4a0h4bk9UU0tUeUVCSGZBMVdhd0tLTVJmYmF3MUlWeDJmMzVZZ3dKS0lYdkdp0gGqAkFVX3lxTFBJTHVhcjA0M1pBam1NeTdpbUNud3NrMHJMLUhrTmg5UFk3UVFJNFdmdWUyVFpFX2VKWmtQTmQ3UG1BVjVDeU94NHJpa3ByNEFROWk0X3Z0dW85Ull3N2cxRnJad2FwVlI3U0xKSWZQZWRINTNPR1A4M2pWd0doa0JxRDFLZzI1VUE0bVhPYzZTLVVfd3U2RDFNc1R1WW9GSGJ0eGJZeV96YURYSWp1dXZlUEVHZmNnR0dzY1dBSzBYR3J0c1RXYlVZVmFpenhJNnpybms0X1JsUDAteW5aTThxM1EzSVlfQ3BqMFUwNm5QYmVsdVlQazZFblBKakctUzk0Y0E5WmV4RHRheFJBeWtZcy1EUW85UmpQUDE5TDl4aEMzQTFaR1pLa3c?oc=5)
-
----
-
-### [Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations - The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
 
 ---
 

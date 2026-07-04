@@ -54,11 +54,11 @@ permalink: /news/eptinezumab/
 
 ## 相關新聞（1 則）
 
-### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
 
-2026-07-02 <span class="news-indication-tag">migraña</span>
+2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
 
 ---
 

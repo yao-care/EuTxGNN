@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Metabolisches Syndrom: Gezieltes Training senkt Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+
+---
 
 ### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
@@ -91,14 +107,6 @@ permalink: /news/natalizumab/
 2026-07-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
-
----
-
-### [Gemischte Ergebnisse für Astegolimab bei COPD-Exazerbationen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
-
-2026-07-02 <span class="news-indication-tag">copd</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
 
 ---
 

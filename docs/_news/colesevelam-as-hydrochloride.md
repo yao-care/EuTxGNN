@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Metabolisches Syndrom: Gezieltes Training senkt Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+
+---
 
 ### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+---
+
+### [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
+
+2026-07-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
 
 ---
 

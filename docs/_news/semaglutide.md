@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Metabolisches Syndrom: Gezieltes Training senkt Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+
+---
 
 ### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
@@ -75,6 +91,14 @@ permalink: /news/semaglutide/
 2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+---
+
+### [En qué consiste la dieta GLP-1, el último fenómeno tras el éxito de Ozempic - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBjbERPbXVzLXVzRmxCeGNLV2Jaa29MeWRScEdJQWloZGpESEM3UEhmWTVJTGdyRkEzeS1hTFJsSTJPRE9RdU5oVm1tX2RYeHpMOE9lbmZ5c2pLRnl4QjUyTW9VbUpXVVlSQkhDVW1LS2ZRQk5DRzlEOEhUSWszODJDdFQtZDNpZGdvdmpMME0yS245dTlmQzlKRnRiQVpmVVk3WGoyeDIyOFBtcDNWNWlaXzBmdk5OYWM5QjZ5clfSAcYBQVVfeXFMTm1CX1F4NzVwbUpveHhnQ1lIdEVwaXVHMzB2V0pVN2VPYjNGb1FiU3RSV2pKRmpTU2wyaEIyZS12RFZLbkxsOHFnWm5Yd1pFaDB3R1dLY2RzU0xhbnhOdDFmNVFYNHJVMTM1b0ZrTFZUTVI5LXQxb2FOcUdWMkhVNnl3Mnd6LXB1VjloOTh4M2Y3WjRVdWFyS19Hb29tTmdFMnFZcTRrWldOS3ZpX0ViTndsSmthME5yVnpFOVNxS1phemRESzF3?oc=5)
+
+2026-07-03 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBjbERPbXVzLXVzRmxCeGNLV2Jaa29MeWRScEdJQWloZGpESEM3UEhmWTVJTGdyRkEzeS1hTFJsSTJPRE9RdU5oVm1tX2RYeHpMOE9lbmZ5c2pLRnl4QjUyTW9VbUpXVVlSQkhDVW1LS2ZRQk5DRzlEOEhUSWszODJDdFQtZDNpZGdvdmpMME0yS245dTlmQzlKRnRiQVpmVVk3WGoyeDIyOFBtcDNWNWlaXzBmdk5OYWM5QjZ5clfSAcYBQVVfeXFMTm1CX1F4NzVwbUpveHhnQ1lIdEVwaXVHMzB2V0pVN2VPYjNGb1FiU3RSV2pKRmpTU2wyaEIyZS12RFZLbkxsOHFnWm5Yd1pFaDB3R1dLY2RzU0xhbnhOdDFmNVFYNHJVMTM1b0ZrTFZUTVI5LXQxb2FOcUdWMkhVNnl3Mnd6LXB1VjloOTh4M2Y3WjRVdWFyS19Hb29tTmdFMnFZcTRrWldOS3ZpX0ViTndsSmthME5yVnpFOVNxS1phemRESzF3?oc=5)
 
 ---
 

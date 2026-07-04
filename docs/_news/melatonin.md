@@ -54,6 +54,22 @@ permalink: /news/melatonin/
 
 ## 相關新聞（7 則）
 
+### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+
+2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+
+---
+
+### [We’ve stopped arguing about Brexit – we’re arguing about weight-loss drugs instead - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
+
+---
+
 ### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
@@ -91,22 +107,6 @@ permalink: /news/melatonin/
 2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
-
----
-
-### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">migraña</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
-
----
-
-### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
-
-2026-07-02 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 
 ---
 
