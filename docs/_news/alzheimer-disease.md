@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# Alzheimer-Krankheit（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（5 則）
 
-### [Scientists discover why some brains resist Alzheimer's](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
-2026-07-03
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
----
-
 ### [Alzheimer-Krankheit: Studienwissen in die Praxis übertragen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
 
 2026-07-03
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
+
+---
+
+### [Scientists discover why some brains resist Alzheimer's](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
+
+2026-07-03
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
 
 ---
 

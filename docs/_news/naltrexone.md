@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [GLP-1-Tabletten: EMA ebnet Weg für orale Adipositas-Therapie](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
 
@@ -70,11 +62,19 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Vanessa Masè propone una legge contro l'obesità: piano da 300mila euro](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
+### [Hunger ohne Stopp-Signal](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSTl6T2M0ZERLdFdRdy03dXZmQjU0RV9TdFpUTzZEem04MkhZaFJwTGRvWmxkel9RY2k1RHk2UkMzMjR3d1BESXhoOHZ4UGl1QUtoelFWcmM4N0g2UnRzTV9uR2UxQQ?oc=5)
 
-2026-07-02 <span class="news-indication-tag">obesità</span>
+2026-07-03 <span class="news-indication-tag">Adipositas</span>
 
-來源：[L'Adige](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSTl6T2M0ZERLdFdRdy03dXZmQjU0RV9TdFpUTzZEem04MkhZaFJwTGRvWmxkel9RY2k1RHk2UkMzMjR3d1BESXhoOHZ4UGl1QUtoelFWcmM4N0g2UnRzTV9uR2UxQQ?oc=5)
+
+---
+
+### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
 
 ---
 
@@ -86,27 +86,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Hunger ohne Stopp-Signal – Hypothalamische Adipositas als oft übersehene Ursache starker Gewichtszunahme - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yTTBIRDBfUTNWTmdQMDhtSTVBSDVtZm5uVm8yLU5Od2lXT210cmxiZ2VkdjlSMk91RUVlb3BhMjl4NEkycnRBNlhLQQ?oc=5)
-
-2026-07-02 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yTTBIRDBfUTNWTmdQMDhtSTVBSDVtZm5uVm8yLU5Od2lXT210cmxiZ2VkdjlSMk91RUVlb3BhMjl4NEkycnRBNlhLQQ?oc=5)
-
----
-
 ### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
 
 2026-07-02 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
----
-
-### [La obesidad deja de asociarse a peores niveles de colesterol en mayores de 40 años](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXVQdTJvOHVJSlB6X1NtZ0luWlJLdV9rMng4N2txX2pLTTRZUElqVzRKMldBX3ItY213M1YwZmJoSnAwNnpERHV0WWJHTlhhTGI0TWpaTHZtUHBMbHk3ZXNrWTc3Rl9MRC0yU3BvV3E4ejVSaGlYaFNnOTlkeEt4d2FuWWRzU1dKdnVsblhhYXBPLW1jV1lxV3RvN3RxdFNzWnZyQ0QwM1JnckxrZC0xREFVaWhkQ01OWWNTZVE4eG1wem01ZjZpMEVmb2lUZU55djg0R0hR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXVQdTJvOHVJSlB6X1NtZ0luWlJLdV9rMng4N2txX2pLTTRZUElqVzRKMldBX3ItY213M1YwZmJoSnAwNnpERHV0WWJHTlhhTGI0TWpaTHZtUHBMbHk3ZXNrWTc3Rl9MRC0yU3BvV3E4ejVSaGlYaFNnOTlkeEt4d2FuWWRzU1dKdnVsblhhYXBPLW1jV1lxV3RvN3RxdFNzWnZyQ0QwM1JnckxrZC0xREFVaWhkQ01OWWNTZVE4eG1wem01ZjZpMEVmb2lUZU55djg0R0hR?oc=5)
 
 ---
 

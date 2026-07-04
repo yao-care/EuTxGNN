@@ -54,14 +54,6 @@ permalink: /news/entacapone/
 
 ## 相關新聞（5 則）
 
-### [Scientists discover why some brains resist Alzheimer's](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
----
-
 ### [Alzheimer-Krankheit: Studienwissen in die Praxis übertragen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
 
 2026-07-03 <span class="news-indication-tag">Alzheimer-Krankheit</span>
@@ -70,9 +62,17 @@ permalink: /news/entacapone/
 
 ---
 
+### [Scientists discover why some brains resist Alzheimer's](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
+
+---
+
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 

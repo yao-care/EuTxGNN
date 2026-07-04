@@ -54,6 +54,22 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（7 則）
 
+### [PMOS betrifft jede achte Frau: Neue NHS-Leitlinien zur Früherkennung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
+
+---
+
+### [SGLT2-Hemmer senken Alzheimer-Risiko: Stress, Entzündung und neue Biomarker rücken zusammen - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
+
+---
+
 ### [Säureblocker: Langzeit-PPI erhöhen Demenz- und Lungensrisiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
 
 2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
@@ -62,27 +78,19 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+
+---
+
 ### [Asthma und COPD: Die Stimme könnte vor einer akuten Verschlechterung warnen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
 
 2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
-
----
-
-### [Imaging mass cytometry reveals functional and immunological changes during type 1 diabetes progression in human pancreata](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElaQWs5ajVPdG14MEtBNzNVQ2ZiRVc2VGNQczVMeW9XZFR5Z1BEemlEN3JfZmJsUHgydW4wZzVCbFFCTmxTQWhNLUV0YVk1OFE1Tk9lWm9wUFR2WnpN?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElaQWs5ajVPdG14MEtBNzNVQ2ZiRVc2VGNQczVMeW9XZFR5Z1BEemlEN3JfZmJsUHgydW4wZzVCbFFCTmxTQWhNLUV0YVk1OFE1Tk9lWm9wUFR2WnpN?oc=5)
-
----
-
-### [Prädiabetes: Lebensstilintervention, nicht aber Metformin kann vor Multimorbidität im Alter schützen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
-
-2026-07-02 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa2xzYS1LX1M2RE9mZlFkamNzMDRYODRTTEY3dmJ0UnNhbklINVVXbXc4b2lCQTZ6TWJDRm9Nc01RYTIxSklTbUF5R21jRmsyWUEtbXR4MVZOTzRfNmNMdFhZQzFOdW1tS0Ywemk2TFhpMC12cFduV0lvOVM1V0tuTHFRM1JwZERCWlBDTmxmdEVRNzktc3RBRWVCYVJQUDlkbVRua3ktUEFvS3ZUcUFyVldCNjRhX0dGU2UybC1ZVnVTTnpxYjZlUFM0bFNSOEwyeVRMam9qQXFYWllheHdhdXZySi05U0NsS0Rqb2N1cHJaT3JaSFFjZVRLMA?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/cabotegravir/
 2026-07-02 <span class="news-indication-tag">copd</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGNybTFITXVUeGxMVGd6QjJvQWItQjF1MjBUalEyTFhUY0F6TzZxSzgtMnZiakdTaXFqcFMyMnZCVkszb1pSRGJwdFJ4WDhZX19YUjZmMXNxb2ZYVEc2dmhST3RPTzRWY2ZSTm45SXVyMFJadkpGSnZQaldLUk9oVXN3YkFScUtfVHZua25aOXRhVGs4ZnZwX0xVZGc4V2lPQ2xmWldpRFlvSTNObUZBbGpwbFlsR0JLYS1mZnlTYWMwU0RITlVUMA?oc=5)
-
----
-
-### [Diabetes und Geschlecht: 70% der PMOS-Fälle bleiben unentdeckt](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
 
 ---
 

@@ -54,14 +54,6 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（4 則）
 
-### [GLP-1-Tabletten: EMA ebnet Weg für orale Adipositas-Therapie](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
-
----
-
 ### [Säureblocker: Langzeit-PPI erhöhen Demenz- und Lungensrisiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
 
 2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
@@ -75,6 +67,14 @@ permalink: /news/regadenoson/
 2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
+
+---
+
+### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
+
+2026-07-02 <span class="news-indication-tag">migraña</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
 
 ---
 

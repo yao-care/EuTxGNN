@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Parodontitis verdoppelt Nierenschäden-Risiko: Hamburg-Studie mit 6.000 Probanden](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUdyaXRlZjdkekpQeDZmcHFINnpDRHJUclRmcjZoaUhFcXFHSEVwbkN5RkN2djNjZzFhU28tZEw3dWR4NnVSS09DQkVxY2hzdld6Mm9icHB4SXhZSFdxQUdBeHdOcjlVcTFDZkRWQ2ZjMGlCbGxOcmwzR052eC1ldlZ0bHRzQXh4MHppelBCZjZMRWt3empIS2FUc0hTM0syWTV5bG5KMndkaDJVLWtDaWQ0SmpZUk5lMV9N?oc=5)
+
+2026-07-03 <span class="news-indication-tag">depression</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUdyaXRlZjdkekpQeDZmcHFINnpDRHJUclRmcjZoaUhFcXFHSEVwbkN5RkN2djNjZzFhU28tZEw3dWR4NnVSS09DQkVxY2hzdld6Mm9icHB4SXhZSFdxQUdBeHdOcjlVcTFDZkRWQ2ZjMGlCbGxOcmwzR052eC1ldlZ0bHRzQXh4MHppelBCZjZMRWt3empIS2FUc0hTM0syWTV5bG5KMndkaDJVLWtDaWQ0SmpZUk5lMV9N?oc=5)
+
+---
 
 ### [Erstes Smartphone mit 13 Jahren kurzfristig nicht mit Depressionen oder Adipositas verknüpft - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcUloQXZPU3Z2ZDFqZUwyUEoydU0xUzEwQVVmNkRuaGVqVXl2cnl1aUg3dXVkbjQ1bXNQMUFsVERkOHNRc2RFekwzRWtpTEd3TS1taXozX25INlV1dUlYQlV0dzI3RW1zb2JIY2tXSDg4NGE2cUNlYnlxTXM3RFRTbnlQTXNvM1BCYzJsMWhtSDNPVnExWUV0ZlVXTkw3ZTBrS0h4V3Vlck54TjhxNU41ZGpBQzEzTXp6dl9Fc0hfUmQtazRSdTAxNGVMZThPYlFFVE5PYnZOYVlIaWppUWpwSDJDT2phUnRRSm5oenlTNXBIa28?oc=5)
 

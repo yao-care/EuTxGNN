@@ -14,7 +14,7 @@ permalink: /news/letermovir/
 ---
 
 <p class="key-answer" data-question="Letermovir 有什麼相關新聞？">
-<strong>Letermovir</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Letermovir</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/letermovir/
 <p><a href="{{ '/drugs/letermovir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（27 則）
+
+### [Two-time cancer survivors find love through charity work](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
+
+---
+
+### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSeGRUSDJyX0tIYnZTS0tXV1ZaVnc3ZE9PRG5pQTRfekctZTE4WUNzaWFyUlJfTUkyMTh3YUJ0dVQ4cTA2R1AwWUxxOFJFWG9QTFk2VWtXWEJXUWVjekZZTjNVdUVZMGhCRl9nWFAzY2hvTmRmczBhT01XenJYcFUzdGNkQWVYRXlHWDQwTXpYV3pGMXVJVnNfX2IwYk9odXhKdkdXQndRNzFmcFVVVFZXckpVSzMydjhTTmFaN28?oc=5)
+
+2026-07-04 <span class="news-indication-tag">Krebs</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSeGRUSDJyX0tIYnZTS0tXV1ZaVnc3ZE9PRG5pQTRfekctZTE4WUNzaWFyUlJfTUkyMTh3YUJ0dVQ4cTA2R1AwWUxxOFJFWG9QTFk2VWtXWEJXUWVjekZZTjNVdUVZMGhCRl9nWFAzY2hvTmRmczBhT01XenJYcFUzdGNkQWVYRXlHWDQwTXpYV3pGMXVJVnNfX2IwYk9odXhKdkdXQndRNzFmcFVVVFZXckpVSzMydjhTTmFaN28?oc=5)
+
+---
+
+### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancro</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
+
+---
 
 ### [Gen Z altert schneller: Studie zeigt 92% höheres biologisches Alter - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3dnUHZlODByRU9rNS1NMXItUGc4NG5tWU1xUURkSFliQ1gtMHJxeExLempGSlduQk9TTmxHeTY5UGhLMFdneEdvRmlLOS1EWGxyeVUwUGoxbzV0bzNMNVp1YVZMTGlyY21KQUN3cklMNlpIU3d5OVhSbXNha0JLRnByVWRNSThKUUVvODNZR0ZDc3dzMEFiSUtBYXJUTDA?oc=5)
 
@@ -70,19 +94,35 @@ permalink: /news/letermovir/
 
 ---
 
-### [GLP-1-Tabletten: EMA ebnet Weg für orale Adipositas-Therapie](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
-
----
-
 ### [El cáncer en menores de 40 cambia de patrón: "Es un cambio en la presentación del cáncer, no un aumento de casos" - Onda Cero](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2tZYnlvWU5LbENZQjY3OWVia21Vay1JV21fek05SjF0LTd1UjF6cHF6X3RuOFJ4RzBQRjc2TjZNaXRnU0lWQnhmNVNaejhCTUlJazQwNjcyUFVpRlhyNmcxc0J0a3ZPUEIyQWJOU2c5U0tIeVh0alFzSloxcF9HYjVUS1ptWVFyVGw2WWdYWWhJQTd3Znp2dDA3cGRXZjk4bVE3bEJPMV9qRXpQbkwtR19UZEFxUjZQT3BDT1pfRkNlQ2pZbWtGLUE4M3J5cUctY0NNcHY0aHBzMDJQLS1Xb3VUdw?oc=5)
 
 2026-07-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Onda Cero](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2tZYnlvWU5LbENZQjY3OWVia21Vay1JV21fek05SjF0LTd1UjF6cHF6X3RuOFJ4RzBQRjc2TjZNaXRnU0lWQnhmNVNaejhCTUlJazQwNjcyUFVpRlhyNmcxc0J0a3ZPUEIyQWJOU2c5U0tIeVh0alFzSloxcF9HYjVUS1ptWVFyVGw2WWdYWWhJQTd3Znp2dDA3cGRXZjk4bVE3bEJPMV9qRXpQbkwtR19UZEFxUjZQT3BDT1pfRkNlQ2pZbWtGLUE4M3J5cUctY0NNcHY0aHBzMDJQLS1Xb3VUdw?oc=5)
+
+---
+
+### [Prostate cancer victims ‘betrayed’ by screening chiefs - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
+
+---
+
+### [Cet hôpital lyonnais inaugure une technologie révolutionnaire pour traiter certains cancers debout - Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
+
+---
+
+### ["España necesita inversión para desarrollar vacunas personalizadas con IA" - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQajFxVDN5VUJuMW1oOEl4LXRoRUp6dVN2VWowMENfUjBzRy1iWEZKQkhrbWdxd2M4aDEyNUozRHFkTVFHY1J2U1duSldBNmpMN0dJWkw5QjJBdWoxNzBzVlVLZ1kwTmZkSmptRjE1OUt2dktZMVhFcFUzZDdkcGxqelNNNVNLUGg4b3NwZ3dTRFUyWmlJUHpGOE9ycEt2V2ZMMlBXblY4RXdFOXlMWWxtenk5MFBmX005VGlyRGx2dE5UYjhpZm1EOHRERi0?oc=5)
+
+2026-07-03 <span class="news-indication-tag">tumor</span>
+
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQajFxVDN5VUJuMW1oOEl4LXRoRUp6dVN2VWowMENfUjBzRy1iWEZKQkhrbWdxd2M4aDEyNUozRHFkTVFHY1J2U1duSldBNmpMN0dJWkw5QjJBdWoxNzBzVlVLZ1kwTmZkSmptRjE1OUt2dktZMVhFcFUzZDdkcGxqelNNNVNLUGg4b3NwZ3dTRFUyWmlJUHpGOE9ycEt2V2ZMMlBXblY4RXdFOXlMWWxtenk5MFBmX005VGlyRGx2dE5UYjhpZm1EOHRERi0?oc=5)
 
 ---
 
@@ -126,6 +166,14 @@ permalink: /news/letermovir/
 
 ---
 
+### [Hallan una conexión entre tumor, dieta y sistema nervioso que desencadena en caquexia vinculada a cáncer - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnpWREtTdFFkTTd3QW95OUMyd1d4ZXlJMkY3LWxUSjZfVFlVcmR3dlk5RVFaMW1SSjJZZDJEYlpPWEdvTE1XYUlMdEp3d3hoZVN2Tml5OC1GWFZPdm82VWI5RXVuTk8yeG50R05VWkVKTHlMZFdaMURydU1kUGFKNFZkVlJnRmdMeDBuVFRwS1NMZlJCZ2pKZVhGVWRIeUtCTmNsQnNSanBaSG9YZlV6UWFwaFVKSGlEUjJ2ZGJ30gG4AUFVX3lxTFBPUzVYTkRHZ0tzWXhycE1LelUtZG9JNWpzN0hMNDF4X2p0MEpkOVR0R3FyQUdCNGdVSU01YV80RkdxSldaMnh2eTV4Wm9MR3FfTENiVkg4TXdqMTd3dW44ekx3UnF3MW9OdjhzSmJwYU9UNTF0TkV5NXBlaDh0VERfaFNzNlNvc0R4dzYtZzAyQklDVG1hSXliUnpKU2VsVTNuSkFRcmlBNzh1b2J0aHJlS3oweEl4d2Q?oc=5)
+
+2026-07-03 <span class="news-indication-tag">tumor</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnpWREtTdFFkTTd3QW95OUMyd1d4ZXlJMkY3LWxUSjZfVFlVcmR3dlk5RVFaMW1SSjJZZDJEYlpPWEdvTE1XYUlMdEp3d3hoZVN2Tml5OC1GWFZPdm82VWI5RXVuTk8yeG50R05VWkVKTHlMZFdaMURydU1kUGFKNFZkVlJnRmdMeDBuVFRwS1NMZlJCZ2pKZVhGVWRIeUtCTmNsQnNSanBaSG9YZlV6UWFwaFVKSGlEUjJ2ZGJ30gG4AUFVX3lxTFBPUzVYTkRHZ0tzWXhycE1LelUtZG9JNWpzN0hMNDF4X2p0MEpkOVR0R3FyQUdCNGdVSU01YV80RkdxSldaMnh2eTV4Wm9MR3FfTENiVkg4TXdqMTd3dW44ekx3UnF3MW9OdjhzSmJwYU9UNTF0TkV5NXBlaDh0VERfaFNzNlNvc0R4dzYtZzAyQklDVG1hSXliUnpKU2VsVTNuSkFRcmlBNzh1b2J0aHJlS3oweEl4d2Q?oc=5)
+
+---
+
 ### [Radikale Prostatakrebs-Therapien beeinträchtigen weiterhin Kontinenz und Sexualität – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSzJ0XzA2ODQ5NmJOVVdZbVRxc2tyU1ZWWnUyUzVPbUI0cG90Mi1HQng1SEF5SGp6a0FkQkdGanJodWFFTlA3azFZNnY1MWpETFNpMVNvMGRmSGNoWnJNTVVMNVhoUkVPR3ZWaVh4N1RBa1hOa0JlTFplS2dVOEZESkdtOTJtODVtWi1aZEJWYllLZ0lUd2lpbG9hMWFyYWhzXzBjQ000UVNCd3BhRXpIVDNmSEdTN1VnVlROZk0tVGs1UUx2ODFKYnlaNUtRSGJLWkJCOXJ4dURzS1VnLWltb3M0Skw0Q0Ntd0paYkVwSzFUbHByNGpzcg?oc=5)
 
 2026-07-03 <span class="news-indication-tag">Krebs</span>
@@ -142,11 +190,11 @@ permalink: /news/letermovir/
 
 ---
 
-### [Son dispositif a permis de détecter une vingtaine de cancers cutanés sans rendez-vous chez un dermatologue, cette innovation d’un Narbonnais dans la télémédecine](https://news.google.com/rss/articles/CBMipAJBVV95cUxQSHptbHJ3R1lVZVNxbTBNcEE0NXpCaUlfcGtXZ0YyZjZobExJR1BlOVVSeVFUYVZhSFJWVjNla1Z1QWFSRXhPekNPcUVLMGRBZGRKVXhlSEV0UXZydFoybDExSW9URU1qdkY3LUV2amVZN1NpbVlVam1EUFprRlFaU25sazVRUFM4SW1wdXhQcXR5VXZjb1JNZWVpYnVDY3hMYU43TU5UYTc4SjJHNGZmbVBsMDV0ZlU4anVmaVVacU9vMmFLLVdzeVlObVNMT1d2cUN3OVhfbmJuMTZYN1RoWVBrX1UxcDNnYXdzbzFDeFkzZDdJWkUyUUY3T21aZi1kaVRyNzMwUDZxNEdjeVdqREp6ckstM0ZfQnlLTDcyOEEzNUJH?oc=5)
+### [Cáncer de páncreas: los avances que están cambiando el tratamiento de uno de los tumores más agresivos - Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDNjRHBVMjJSUHB0MVFyM3ZzMjZUMWtMdnNYNmtCOTBReUN3QXI4QjQ5SGN5clQzRDM4YmNCbjZJSU9rVXNLVk41ai00MTBzbzI4SGdiQVlvMklzZDlPQ3g3VzdYUTNmV2tsVERfbTdYLUE1NWFKb25XSGxiVExRMWRIR0RXMDdlRXNTQlBESFJNcTQwNTE5dGYwQzFqM1hOcl81bjV3?oc=5)
 
-2026-07-03 <span class="news-indication-tag">cancer</span>
+2026-07-03 <span class="news-indication-tag">tumor</span>
 
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMipAJBVV95cUxQSHptbHJ3R1lVZVNxbTBNcEE0NXpCaUlfcGtXZ0YyZjZobExJR1BlOVVSeVFUYVZhSFJWVjNla1Z1QWFSRXhPekNPcUVLMGRBZGRKVXhlSEV0UXZydFoybDExSW9URU1qdkY3LUV2amVZN1NpbVlVam1EUFprRlFaU25sazVRUFM4SW1wdXhQcXR5VXZjb1JNZWVpYnVDY3hMYU43TU5UYTc4SjJHNGZmbVBsMDV0ZlU4anVmaVVacU9vMmFLLVdzeVlObVNMT1d2cUN3OVhfbmJuMTZYN1RoWVBrX1UxcDNnYXdzbzFDeFkzZDdJWkUyUUY3T21aZi1kaVRyNzMwUDZxNEdjeVdqREp6ckstM0ZfQnlLTDcyOEEzNUJH?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDNjRHBVMjJSUHB0MVFyM3ZzMjZUMWtMdnNYNmtCOTBReUN3QXI4QjQ5SGN5clQzRDM4YmNCbjZJSU9rVXNLVk41ai00MTBzbzI4SGdiQVlvMklzZDlPQ3g3VzdYUTNmV2tsVERfbTdYLUE1NWFKb25XSGxiVExRMWRIR0RXMDdlRXNTQlBESFJNcTQwNTE5dGYwQzFqM1hOcl81bjV3?oc=5)
 
 ---
 
@@ -179,14 +227,6 @@ permalink: /news/letermovir/
 2026-07-02 <span class="news-indication-tag">cancer</span>
 
 來源：[Belfast Live](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzRPMUFfT2dJNWlMMHhNbHN5THhCZmdYSnpFWmloZXFJUVB3cGQwWjloVWFHSjNNamctcDhldE5OUWtKcWgwYXZGRHl6cHhhZHVYVUQ0YVRTTjlQeXFEZW02UHBsdDF5Q2dremlvTlRHZWRZekNudjR1Uy1LOE9HWFJsOFc4THJWM3hBdTJJa2NJd9IBlwFBVV95cUxNR0I4bHk0QWJkWXlzTFZpVk0wcTFPRE9VTmNkd1ZWZmFyOE8tX1RycjMyWmRueXpMSTdMTFdEczU1d3AxQi1uaS05bmRlNlN0di1SbWJJdjZhWG5oY2lzMXd5N3lEcEM5aHVyaDNlQmpsUHBocGRvb3hhVHdKd3k1T2d0WFhWVC0zaFg2Z0N5NjEwUDI4b25z?oc=5)
-
----
-
-### [El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5)
-
-2026-07-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5)
 
 ---
 
@@ -227,14 +267,6 @@ permalink: /news/letermovir/
 2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
-
----
-
-### [Prostate cancer panel that rejected wider screening had no specialist - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEdVTGRTcW03eEdudU51LWpzenQ2anA5aXZOQVRZcHhzOURxUGhwQ2hfdDBNeUlESnF1X1RzQnRMRDQ4THlhSEZVT0wyeVpleVVINEFBTzVDSUwwM2RHRmx6UzZGMGVUQUxrbEtMbGVwXzJfQXJrTVpvNVQ1LUZSSmppVS1wQUlUVzdYMVMwSFMwTWEtUldhWDBURzlnbmVwRjJr?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEdVTGRTcW03eEdudU51LWpzenQ2anA5aXZOQVRZcHhzOURxUGhwQ2hfdDBNeUlESnF1X1RzQnRMRDQ4THlhSEZVT0wyeVpleVVINEFBTzVDSUwwM2RHRmx6UzZGMGVUQUxrbEtMbGVwXzJfQXJrTVpvNVQ1LUZSSmppVS1wQUlUVzdYMVMwSFMwTWEtUldhWDBURzlnbmVwRjJr?oc=5)
 
 ---
 

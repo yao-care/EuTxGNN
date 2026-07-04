@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。13 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>13 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,29 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [Ébola cobra 452 vidas en RD del Congo, informa OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEFHbFRwSTJ0VTl5d0dBb2ZCNXYyVkVuelAzS0x0UHQ5eXBrdE9BaUgyUktrNnNVZTMtN2JRRmptTTEzcHQzLVFlQlFPYUNfanlPYVZxUkRReXFIT0ptUEROS3lGTUlfQlBpdVotQ0s3THdQX1U0YVB0MUFoa2xrZFpobw?oc=5)
+### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+
+2026-07-04
+
+來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+
+---
+
+### [Prostate cancer victims ‘betrayed’ by screening chiefs - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
 
 2026-07-03
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEFHbFRwSTJ0VTl5d0dBb2ZCNXYyVkVuelAzS0x0UHQ5eXBrdE9BaUgyUktrNnNVZTMtN2JRRmptTTEzcHQzLVFlQlFPYUNfanlPYVZxUkRReXFIT0ptUEROS3lGTUlfQlBpdVotQ0s3THdQX1U0YVB0MUFoa2xrZFpobw?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
+
+---
+
+### [Man unable to walk after being infected with flesh-eating bacteria as wife blames simple bug bite & fears July 4 spike - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
+
+2026-07-03
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
 
 ---
 
@@ -69,22 +85,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-03
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
----
-
-### [La OMS da por cerrado el brote de hantavirus y mantendrá la investigación sobre su origen - Gaceta Médica](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEY2UWNKX29GZWhGaFZ2bXdDSW5QYWhTMzg0b0J0Sk84NGVZZGxrQmZsbWRPNU1Ub0FMM0I2b3F2MGtaT0xQSndhQWx5YjgxN1FCYUlVX201UWtLZnBsMjhQMEtQR191NFlBYi1Qc2lieWIwOHlUY0JvN0RQYnlLT1YtbFRJMjFIVFpfRA?oc=5)
-
-2026-07-03
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEY2UWNKX29GZWhGaFZ2bXdDSW5QYWhTMzg0b0J0Sk84NGVZZGxrQmZsbWRPNU1Ub0FMM0I2b3F2MGtaT0xQSndhQWx5YjgxN1FCYUlVX201UWtLZnBsMjhQMEtQR191NFlBYi1Qc2lieWIwOHlUY0JvN0RQYnlLT1YtbFRJMjFIVFpfRA?oc=5)
-
----
-
-### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
-2026-07-03
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
 
 ---
 
@@ -120,35 +120,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus - Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
-
-2026-07-02
-
-來源：[Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
-
----
-
 ### [NHS confirms major vaccine rollout for older adults from September - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
 
 2026-07-02
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
-
----
-
-### [Diabetes und Geschlecht: 70% der PMOS-Fälle bleiben unentdeckt](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
-
-2026-07-02
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
-
----
-
-### ['Flesh-eating' bacteria is spreading across Europe's beaches](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVk?oc=5)
-
-2026-07-02
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVk?oc=5)
 
 ---
 

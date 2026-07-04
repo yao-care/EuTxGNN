@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [Ébola cobra 452 vidas en RD del Congo, informa OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEFHbFRwSTJ0VTl5d0dBb2ZCNXYyVkVuelAzS0x0UHQ5eXBrdE9BaUgyUktrNnNVZTMtN2JRRmptTTEzcHQzLVFlQlFPYUNfanlPYVZxUkRReXFIT0ptUEROS3lGTUlfQlBpdVotQ0s3THdQX1U0YVB0MUFoa2xrZFpobw?oc=5)
+### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
 
-2026-07-03 <span class="news-indication-tag">MS</span>
+2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEFHbFRwSTJ0VTl5d0dBb2ZCNXYyVkVuelAzS0x0UHQ5eXBrdE9BaUgyUktrNnNVZTMtN2JRRmptTTEzcHQzLVFlQlFPYUNfanlPYVZxUkRReXFIT0ptUEROS3lGTUlfQlBpdVotQ0s3THdQX1U0YVB0MUFoa2xrZFpobw?oc=5)
+來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+
+---
+
+### [Prostate cancer victims ‘betrayed’ by screening chiefs - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
+
+---
+
+### [Man unable to walk after being infected with flesh-eating bacteria as wife blames simple bug bite & fears July 4 spike - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
+
+2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
 
 ---
 
@@ -70,25 +86,9 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [La OMS da por cerrado el brote de hantavirus y mantendrá la investigación sobre su origen - Gaceta Médica](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEY2UWNKX29GZWhGaFZ2bXdDSW5QYWhTMzg0b0J0Sk84NGVZZGxrQmZsbWRPNU1Ub0FMM0I2b3F2MGtaT0xQSndhQWx5YjgxN1FCYUlVX201UWtLZnBsMjhQMEtQR191NFlBYi1Qc2lieWIwOHlUY0JvN0RQYnlLT1YtbFRJMjFIVFpfRA?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEY2UWNKX29GZWhGaFZ2bXdDSW5QYWhTMzg0b0J0Sk84NGVZZGxrQmZsbWRPNU1Ub0FMM0I2b3F2MGtaT0xQSndhQWx5YjgxN1FCYUlVX201UWtLZnBsMjhQMEtQR191NFlBYi1Qc2lieWIwOHlUY0JvN0RQYnlLT1YtbFRJMjFIVFpfRA?oc=5)
-
----
-
-### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
-
----
-
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
@@ -118,35 +118,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [L’OMS a une très bonne nouvelle au sujet de la contagion au hantavirus - Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span>
-
-來源：[Le HuffPost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmhVM0RFbW9EOHB6N0FITGJDTkppSjVtLWhCZkk3akl5X0hfdGJIUkNXTzdpYTZCUFRYS2lVNnpPTHFITFQ4Q2RJWTVWN3RYbFRMc2l3WTJfbFU3WHVsTVpITXEyUWRHRVZMNjBLdnJndE9BaUQtRGxlSE5aS2NoR1hhd3p0ODU5Yl9NSlJ0ME1kckhTRmJmaVlkazlHVk5OT0c5WjNyLVFQeUJ5VnN0eVp1eVNXcm0xMVpEV292UjVZUW5h?oc=5)
-
----
-
 ### [NHS confirms major vaccine rollout for older adults from September - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
-
----
-
-### [Diabetes und Geschlecht: 70% der PMOS-Fälle bleiben unentdeckt](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
-
----
-
-### ['Flesh-eating' bacteria is spreading across Europe's beaches](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVk?oc=5)
-
-2026-07-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUtURVdSWkVHUGUwcnZqZ1ItWThaQlMtR3ZEYmZIVzF6WDVpQklKbzdXVDZzZGlGTk9faHVVb3QyX2doRUpQeXRzMDI2VWsxazZPeVJGSUFEck5tWjV1a21WVThiV1l4ZzVKUGRsaFRuYWY3c01vLVlkTTZqZ1BUcFpubUlhcGNZaC1XRTVCRERTVl9FRE14SlU0LVk?oc=5)
 
 ---
 
