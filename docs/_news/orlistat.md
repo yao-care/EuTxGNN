@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [GLP-1-Tabletten: EMA ebnet Weg für orale Adipositas-Therapie](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmkyc0p2UXliaEp3RnhEUjd6Q3dyQlJiTEF2ODMtRUd5RldaSEtMdElBSHpzb0wtV2hnVlYwMW0yMFllMjhJVWF5VWNlSGVOQWlQMEJEdmdRWW41OTBBRTJVYzRYbHZzejk2VGRzQVRPUlpHME9qTF9QMjhDOV92ek1idEVSdUJXNjdkY1J3Yk80UUxRNjMxS2NhRGNISGZrUkZzTVEteXl4eXJjV1E?oc=5)
+
+---
 
 ### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
 
@@ -62,19 +70,27 @@ permalink: /news/orlistat/
 
 ---
 
-### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+### [The real cause of a common stroke may have been missed for decades](https://news.google.com/rss/articles/CBMib0FVX3lxTFBHV0stVlJPVkRITlRkRTA4MWZ3c2ltMThBZk55RWNGb0dtUUh0QmFiOXBUd2FIUmNMa1pVMHlvZHJLUWlLVHVjQjk0V05sSzg4UDdhanc2WkF4Wk9LWThzUUwxTlVPWUVmOGphLVVkVQ?oc=5)
 
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
+2026-07-03 <span class="news-indication-tag">stroke</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBHV0stVlJPVkRITlRkRTA4MWZ3c2ltMThBZk55RWNGb0dtUUh0QmFiOXBUd2FIUmNMa1pVMHlvZHJLUWlLVHVjQjk0V05sSzg4UDdhanc2WkF4Wk9LWThzUUwxTlVPWUVmOGphLVVkVQ?oc=5)
 
 ---
 
-### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+### [Metà dei casi di demenza potrebbe essere evitato. Ecco come - la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWxLaVprTVRqdUR6ZGx3OExSSjV3ZjlfZXJ2VEJRNnhTMkhTa1JvVmM0TDlBX2hsejBoU2c1LUJkc200REZoYndLaXRGcS10ZzMwWUI3cm1WQ0dET1pLN3gxSFVPRjk2cWZkZG5tY1QyQkp1MnNlUFFOT0x0SXk3dTFpZHpPSG52OF9vc0dBSnltd0VfVWVoYUFUaHkzOGcyWG5PeGFkUDRkZjBpTGFscEphSVhSOXpfTXB5ZW9TMThRaVZtMkJBLXF0WjZyTlFNRmlkdmxDSdIB3AFBVV95cUxOZlJPRHZtcVA4dXZKMHZYUXIyX05xRTlKNktYMjczOGdzWlZaYm90blA2amY3MWdlRUd0Z2paNWQ2QUJGQm5JemZLQ3pDbmZBQ2pCZGp5al9IdnVkV3JaZG82SGkwcVpyWHk5QkVScHo5T19ISUlwN0J4UlUxVUpBU3d3QU1fZzFPaUZMZVVyUVR6MGRvYU9aSDJxZUprYVdOdHMtSVNHa2xvcWt2aUJuQjY4S045bF9YTXhqMF9kd0hjdDRlYURNUjNnTzJBc2MtanR5M01hQXRTbk9y?oc=5)
 
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-02 <span class="news-indication-tag">ictus</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWxLaVprTVRqdUR6ZGx3OExSSjV3ZjlfZXJ2VEJRNnhTMkhTa1JvVmM0TDlBX2hsejBoU2c1LUJkc200REZoYndLaXRGcS10ZzMwWUI3cm1WQ0dET1pLN3gxSFVPRjk2cWZkZG5tY1QyQkp1MnNlUFFOT0x0SXk3dTFpZHpPSG52OF9vc0dBSnltd0VfVWVoYUFUaHkzOGcyWG5PeGFkUDRkZjBpTGFscEphSVhSOXpfTXB5ZW9TMThRaVZtMkJBLXF0WjZyTlFNRmlkdmxDSdIB3AFBVV95cUxOZlJPRHZtcVA4dXZKMHZYUXIyX05xRTlKNktYMjczOGdzWlZaYm90blA2amY3MWdlRUd0Z2paNWQ2QUJGQm5JemZLQ3pDbmZBQ2pCZGp5al9IdnVkV3JaZG82SGkwcVpyWHk5QkVScHo5T19ISUlwN0J4UlUxVUpBU3d3QU1fZzFPaUZMZVVyUVR6MGRvYU9aSDJxZUprYVdOdHMtSVNHa2xvcWt2aUJuQjY4S045bF9YTXhqMF9kd0hjdDRlYURNUjNnTzJBc2MtanR5M01hQXRTbk9y?oc=5)
+
+---
+
+### [Vanessa Masè propone una legge contro l'obesità: piano da 300mila euro](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
+
+2026-07-02 <span class="news-indication-tag">obesità</span>
+
+來源：[L'Adige](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlI5N3RzNXBWY1ZHbnkwdFIyemRtMUFtdkFBOVpjTzR0S012VjVyUUM5cjUtMENVWnRZcnd2UlNRWG5iTEtocFY1aDdtM3I4eHRDSXpZa2FGSVJUNlBsWnlYWjZSVWlNeGp1Y1JVek1NdFM3WW1zUWdMMlh1cm05Zy0wRXNaZjVRUUdKcW9nTDBLMDJLU1k2MXNJcEtJdjhaSVpWQlluS1pzTVE?oc=5)
 
 ---
 

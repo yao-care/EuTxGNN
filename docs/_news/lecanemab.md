@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
-### [Warum PCOS zu PMOS wurde und was das mit Diabetes zu tun hat](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3JJNFFhSlhYbXlKU1BiNmhTbHdnbi1ZU3BwMXNKUC0xY3dyQV9sMzIybGg5bWV5QnBsQ0sxeUZ2bG5ZUFViRjlKOUFpN1JVV21FbDZ6ZE9OWFN3M1Z6aHR0ek55cUNwTlAzREdzRWtUMmExRGhxcks0MjNNcHhnNG9OcHFVVVZxMmZhSThHN25nbmZEZldOaVBJNnRnM3VtQld0a0JxbWNGR3RUd1E?oc=5)
+### [Amyloid-Antikörper: Kaum Alzheimerprogression nach einem Jahr](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmRxZ040azRERXI3RTA2aVFrTjFWR21XX1ludGxpVi1fNmp4MXF5U29LUmNfb1hGdGRoakF1bUdnc1AzZXFfeTVibV9sSlRTZFpVeDg1ZVdoZW84VElZNnRsMlFQdU0tdHo5cmdUMEl3XzVvZURMSnlsd19WU3Nja1FoNXBrTXBLOVdRWTNJTkFCai1Mc2FRaWZhMVVBekM2V2ZKV2k0RnNneno4eThZcWpkby1LNzZvbEFGbENqQzNzNm5mcktlNS1XQ0djRVZTN2c?oc=5)
 
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-drug-tag">Lecanemab</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3JJNFFhSlhYbXlKU1BiNmhTbHdnbi1ZU3BwMXNKUC0xY3dyQV9sMzIybGg5bWV5QnBsQ0sxeUZ2bG5ZUFViRjlKOUFpN1JVV21FbDZ6ZE9OWFN3M1Z6aHR0ek55cUNwTlAzREdzRWtUMmExRGhxcks0MjNNcHhnNG9OcHFVVVZxMmZhSThHN25nbmZEZldOaVBJNnRnM3VtQld0a0JxbWNGR3RUd1E?oc=5)
-
----
-
-### [EMA empfiehlt orale GLP-1-Therapie gegen Adipositas – was das für Weight Watchers heißt - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lhcGxNaENxZVpZVU9HVFJWWHlPcjljSlZrWFZlYmxLeThTUm8zbU5YcF9rbXFfaVI2enRaWmNqd0k1M1AtRDdIZGRyeU8wSUs1aXQwblV0SlN1UlU1b2VaV0ozME15RGx2d2FhMDNGQVNvS1pFZnkwRkt6QWVaREExRVJ3bEtad2p6dUdPc0E3OXNJc08xSVZveE9qSVJySWhaRl9PTF9HRkRJQWtLM0gyN1podV9DQXNn?oc=5)
-
----
-
-### [Doctors warn of risks of some medications during heatwaves - The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxNam44b1dybVVUVU00R0dQSm5hUGJUbWtVSVJJeldQaEFxUHZENWlGM0dmdXNOa3JlY2piZG9jd1pKVVRHMlRTTEhIdkQ3MGZmVF9QeDVQSVhqQVE1bXNkWmxNcUphcXpkdmUxXzVfTFlSVF84QlZvYWVIYkU5Mjg1TW4yZjNfRUxpTFo1ZTlYZXk4SnpHSjhQcVFpd1VaMzU1MFdtM3ZfRlkyUHJvYnRTaDRyWXZzVEk?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxNam44b1dybVVUVU00R0dQSm5hUGJUbWtVSVJJeldQaEFxUHZENWlGM0dmdXNOa3JlY2piZG9jd1pKVVRHMlRTTEhIdkQ3MGZmVF9QeDVQSVhqQVE1bXNkWmxNcUphcXpkdmUxXzVfTFlSVF84QlZvYWVIYkU5Mjg1TW4yZjNfRUxpTFo1ZTlYZXk4SnpHSjhQcVFpd1VaMzU1MFdtM3ZfRlkyUHJvYnRTaDRyWXZzVEk?oc=5)
-
----
-
-### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmRxZ040azRERXI3RTA2aVFrTjFWR21XX1ludGxpVi1fNmp4MXF5U29LUmNfb1hGdGRoakF1bUdnc1AzZXFfeTVibV9sSlRTZFpVeDg1ZVdoZW84VElZNnRsMlFQdU0tdHo5cmdUMEl3XzVvZURMSnlsd19WU3Nja1FoNXBrTXBLOVdRWTNJTkFCai1Mc2FRaWZhMVVBekM2V2ZKV2k0RnNneno4eThZcWpkby1LNzZvbEFGbENqQzNzNm5mcktlNS1XQ0djRVZTN2c?oc=5)
 
 ---
 
@@ -110,11 +86,11 @@ permalink: /news/lecanemab/
 
 ---
 
-### [40-Hertz-Schall als Alzheimer-Ansatz: Ablagerungen doppelt so schnell abtransportieren - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG9zVHpTTGR2Z0xiUjNYZEJKUm1GWWprdTVrVF84dVZfZ3FvNnRJNmE0RmxOUlhMYzhtRThzZlkwUjBobWN6UzhrNi1JSi1MSDBveUhLQUtseV9YMFByTzluV2JoTFBGSHhJU2lRd0pUNTlHNk9DZ3R2MXdYNzAtQXpWRWRBdmtxRlp5dm1ENTJzZVVOUWFwVnlGNnh4ZmVxdTZLTl9PMThNN3lMX0VubWJQa2VXYWVC?oc=5)
+### [Diabetes und Geschlecht: 70% der PMOS-Fälle bleiben unentdeckt](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
 
-2026-07-02 <span class="news-drug-tag">Lecanemab</span>
+2026-07-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG9zVHpTTGR2Z0xiUjNYZEJKUm1GWWprdTVrVF84dVZfZ3FvNnRJNmE0RmxOUlhMYzhtRThzZlkwUjBobWN6UzhrNi1JSi1MSDBveUhLQUtseV9YMFByTzluV2JoTFBGSHhJU2lRd0pUNTlHNk9DZ3R2MXdYNzAtQXpWRWRBdmtxRlp5dm1ENTJzZVVOUWFwVnlGNnh4ZmVxdTZLTl9PMThNN3lMX0VubWJQa2VXYWVC?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHhfaU9FaVRpNmNhNzFzLXRBTGVjYlRSSUFYRmZvdTJUS0dycXRuZVpDU2pLOUpBM0tzQWNadV9DUlViQlVNMk1wdmFIdjgwSEFZNzNZc2N2S3c2cVZRRDRRb3M4OHpYVjMzaWhsbnVlSnI5UmVhRFU4M1ljSVdDSl82N0pJajk1UW53Q3VOWmVvVkt3OGNLbXIyNTNEOEFjUUVrSmtBT1BFdUNIWWE5UDRUVllsMHpLcHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Blutdrucksenker: Welche Wirkstoffe sind am besten verträglich? - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Crean un método para regenerar microvasos y tratar eficazmente la cardiopatía isquémica - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
+### [The real cause of a common stroke may have been missed for decades](https://news.google.com/rss/articles/CBMib0FVX3lxTFBHV0stVlJPVkRITlRkRTA4MWZ3c2ltMThBZk55RWNGb0dtUUh0QmFiOXBUd2FIUmNMa1pVMHlvZHJLUWlLVHVjQjk0V05sSzg4UDdhanc2WkF4Wk9LWThzUUwxTlVPWUVmOGphLVVkVQ?oc=5)
 
-2026-07-03 <span class="news-indication-tag">cardiopatía</span>
+2026-07-03 <span class="news-indication-tag">stroke</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZkczZ1N3NZckZpREFaV0JSRDJkbnlEY2kxUmVXTVNUdEdyYXZUaXpNLWVLMXRxVUk3UXZfdUN5NXEteVU2bjFJUVI5cTFZOEpRcEhUSHBVZlo1dFh3eXl3Z1BpRGQyZ0Qya2h6bXJ2UE5jVmtHbUdCczlMdFgxSklyY2ItNWlmZXpRSkpySDRfUUUybXhoejFjNExycGNuR0c2SUJhSFh6Rk1zUGxVYy1UWUZ6OGM0QUUwckVIT3hqUdIBvAFBVV95cUxON2lzU3hfRTFVVFFOVGpDMllIU3lDRDI1b250bkx2cFV4bG10azU2ZkRlTzVraFBPOFBROXdsVWItUTcteW5uYlc1b3ludWVfT01rU014djBpbHl0X0U4ZFhiOHpIWlhQZFJGSVhJVDdTa0xxZmNMaG5aLXhNUWpyX1VDQTl1YlFudnI5cG4tSFhveTVKLVhFem5OWHRxbUVycUFKNUNvOUpDanZEUXV3RmNfNFhWTDd1UlFPSQ?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBHV0stVlJPVkRITlRkRTA4MWZ3c2ltMThBZk55RWNGb0dtUUh0QmFiOXBUd2FIUmNMa1pVMHlvZHJLUWlLVHVjQjk0V05sSzg4UDdhanc2WkF4Wk9LWThzUUwxTlVPWUVmOGphLVVkVQ?oc=5)
+
+---
+
+### [Metà dei casi di demenza potrebbe essere evitato. Ecco come - la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWxLaVprTVRqdUR6ZGx3OExSSjV3ZjlfZXJ2VEJRNnhTMkhTa1JvVmM0TDlBX2hsejBoU2c1LUJkc200REZoYndLaXRGcS10ZzMwWUI3cm1WQ0dET1pLN3gxSFVPRjk2cWZkZG5tY1QyQkp1MnNlUFFOT0x0SXk3dTFpZHpPSG52OF9vc0dBSnltd0VfVWVoYUFUaHkzOGcyWG5PeGFkUDRkZjBpTGFscEphSVhSOXpfTXB5ZW9TMThRaVZtMkJBLXF0WjZyTlFNRmlkdmxDSdIB3AFBVV95cUxOZlJPRHZtcVA4dXZKMHZYUXIyX05xRTlKNktYMjczOGdzWlZaYm90blA2amY3MWdlRUd0Z2paNWQ2QUJGQm5JemZLQ3pDbmZBQ2pCZGp5al9IdnVkV3JaZG82SGkwcVpyWHk5QkVScHo5T19ISUlwN0J4UlUxVUpBU3d3QU1fZzFPaUZMZVVyUVR6MGRvYU9aSDJxZUprYVdOdHMtSVNHa2xvcWt2aUJuQjY4S045bF9YTXhqMF9kd0hjdDRlYURNUjNnTzJBc2MtanR5M01hQXRTbk9y?oc=5)
+
+2026-07-02 <span class="news-indication-tag">ictus</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWxLaVprTVRqdUR6ZGx3OExSSjV3ZjlfZXJ2VEJRNnhTMkhTa1JvVmM0TDlBX2hsejBoU2c1LUJkc200REZoYndLaXRGcS10ZzMwWUI3cm1WQ0dET1pLN3gxSFVPRjk2cWZkZG5tY1QyQkp1MnNlUFFOT0x0SXk3dTFpZHpPSG52OF9vc0dBSnltd0VfVWVoYUFUaHkzOGcyWG5PeGFkUDRkZjBpTGFscEphSVhSOXpfTXB5ZW9TMThRaVZtMkJBLXF0WjZyTlFNRmlkdmxDSdIB3AFBVV95cUxOZlJPRHZtcVA4dXZKMHZYUXIyX05xRTlKNktYMjczOGdzWlZaYm90blA2amY3MWdlRUd0Z2paNWQ2QUJGQm5JemZLQ3pDbmZBQ2pCZGp5al9IdnVkV3JaZG82SGkwcVpyWHk5QkVScHo5T19ISUlwN0J4UlUxVUpBU3d3QU1fZzFPaUZMZVVyUVR6MGRvYU9aSDJxZUprYVdOdHMtSVNHa2xvcWt2aUJuQjY4S045bF9YTXhqMF9kd0hjdDRlYURNUjNnTzJBc2MtanR5M01hQXRTbk9y?oc=5)
 
 ---
 
