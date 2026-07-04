@@ -14,7 +14,7 @@ permalink: /news/catumaxomab/
 ---
 
 <p class="key-answer" data-question="Catumaxomab 有什麼相關新聞？">
-<strong>Catumaxomab</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Catumaxomab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ permalink: /news/catumaxomab/
 <p><a href="{{ '/drugs/catumaxomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（29 則）
+
+### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancro</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+---
+
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+---
+
+### [Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
+
+---
 
 ### [Two-time cancer survivors find love through charity work](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
 
@@ -60,22 +84,6 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [PMOS betrifft jede achte Frau: Neue NHS-Leitlinien zur Früherkennung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
-
----
-
-### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancro</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
-
----
-
 ### [Gen Z altert schneller: Studie zeigt 92% höheres biologisches Alter - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3dnUHZlODByRU9rNS1NMXItUGc4NG5tWU1xUURkSFliQ1gtMHJxeExLempGSlduQk9TTmxHeTY5UGhLMFdneEdvRmlLOS1EWGxyeVUwUGoxbzV0bzNMNVp1YVZMTGlyY21KQUN3cklMNlpIU3d5OVhSbXNha0JLRnByVWRNSThKUUVvODNZR0ZDc3dzMEFiSUtBYXJUTDA?oc=5)
 
 2026-07-04 <span class="news-indication-tag">Krebs</span>
@@ -89,14 +97,6 @@ permalink: /news/catumaxomab/
 2026-07-03 <span class="news-indication-tag">tumor</span>
 
 來源：[DiarioBitcoin](https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3VJLTRQNGZPWWJwM19uenlTYXRkRTRfUmk0alZkRFIxLXp1UUpzZ29kQndldXlQckNLT1hFMFlQRXdla3dHanpDTlJaZHZlU1E5bGtUZzZVZVBpVlZJb0NYSHd6SW5IY01VcGlFZV8zMHpsSVpIQU9BMEtyYjBQNGtiYzh5cDJrRzJ3Z2pVeVVmN21qSjV5NnJTZlBJTGNRUFJ0X1ROVWZVa1hzTkxN?oc=5)
-
----
-
-### [SGLT2-Hemmer senken Alzheimer-Risiko: Stress, Entzündung und neue Biomarker rücken zusammen - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
 
 ---
 
@@ -164,6 +164,14 @@ permalink: /news/catumaxomab/
 
 ---
 
+### [Le vieillissement biologique s'accélère chez les personnes nées après 1965 : l'explication de la hausse des cancers chez les moins de 60 ans](https://news.google.com/rss/articles/CBMi_gFBVV95cUxONVhza2xlRVBDLTVUaWRtX3g2VU92MExzTTJqWlRVVHRnRENSQkdxM1gxYXowZmlaemhMd3NkdjhsZ0NZWXhCQUlCSFIyME9OTVQyVXZLVUctajBPRzBBcXVmY25HXzJvZlNuZkl4cWhLazROR0s0ZmR6dTZla2JuOEhQSmRDbkw3T3E3dUlpUTVzeldraFIxcTF5RHdrTXVscDREZXBXYndsbW1NNk0wWTFYeDJ3RXJQVVpIODY0bzFXblh1MVZ6RGw1TXZRajNwVDRWZENXMklYYXMxbFo3NUZJVldhVFFWenZZTF9QTGQyaGJIR0lCb2ZabnU4dw?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxONVhza2xlRVBDLTVUaWRtX3g2VU92MExzTTJqWlRVVHRnRENSQkdxM1gxYXowZmlaemhMd3NkdjhsZ0NZWXhCQUlCSFIyME9OTVQyVXZLVUctajBPRzBBcXVmY25HXzJvZlNuZkl4cWhLazROR0s0ZmR6dTZla2JuOEhQSmRDbkw3T3E3dUlpUTVzeldraFIxcTF5RHdrTXVscDREZXBXYndsbW1NNk0wWTFYeDJ3RXJQVVpIODY0bzFXblh1MVZ6RGw1TXZRajNwVDRWZENXMklYYXMxbFo3NUZJVldhVFFWenZZTF9QTGQyaGJIR0lCb2ZabnU4dw?oc=5)
+
+---
+
 ### [After prostate surgery I thought I’d be cancer-free. I had no idea how wrong I was - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVROVUVZbTJMcHdJT2FDU2NmYkRuNHdBWGxPY0RBV3JHNEE1U2R5bmNYQS1Pdmp3YmZyTTdkYTFuUlZoN0xmN2dBNENQMWdpZTcyd3FNZWRyRFA5U1FCUkF5dHREdXIwUV9femVFUlFvYzd4ZFVlN2I2UmVKbnBNcHMxNmNiaE5jVm9jVDNsQXhmN19QZTBWM2tjSQ?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -212,11 +220,11 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [Une étude scientifique suggère que les personnes nées après 1965 vieillissent plus vite](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDNQTlNfOU9zcnJ5LVl2MTk0VXhBQWdMbS0xMnk2TW1HMzFCSDljUmRKUURyRGdrWUdUckhwdmlWQ3ltZWRNNmd0VXQ2S19tdkV3UjVDUTlRWVhyLWNsaktYalJfdUUtU3Y0cDk5N2FIRm1PRDczdW1jUkNTa2lXV0VLN05SWDVHd0Z6Tm12Sm93WUxyU0ttMVYtVnplNXpTTlRWTDNqSlQ5MUJaQ0xBVkpBcnV6b0VzQlQ2cNIBwgFBVV95cUxNS1kwamIxUHdEOGxMNXVwT2RWS0R4Q1ZoRkFSSUlsZVJaTE43RkF6cElWM3NLS1JrVlhUV01Nalh3NHdNejVPX0htQ0tucnBzam0zb2ZxVFJVNXU1Qy1vN0tkOXVsTEVwWkRUcVRsNlE0My00MTZsSmJYMzhoTDk0MzVZaW5FV2JyakV3RGtLNVRPVXNhRW1qSHB5b0tycm05d29SeGI4TmtyTklncDlCR2w3MzVKSUVvLXJscjNGU2o1dw?oc=5)
+### [Traitement du cancer : le cri d'alarme des oncologues face aux projets de l'Assemblée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDNQTlNfOU9zcnJ5LVl2MTk0VXhBQWdMbS0xMnk2TW1HMzFCSDljUmRKUURyRGdrWUdUckhwdmlWQ3ltZWRNNmd0VXQ2S19tdkV3UjVDUTlRWVhyLWNsaktYalJfdUUtU3Y0cDk5N2FIRm1PRDczdW1jUkNTa2lXV0VLN05SWDVHd0Z6Tm12Sm93WUxyU0ttMVYtVnplNXpTTlRWTDNqSlQ5MUJaQ0xBVkpBcnV6b0VzQlQ2cNIBwgFBVV95cUxNS1kwamIxUHdEOGxMNXVwT2RWS0R4Q1ZoRkFSSUlsZVJaTE43RkF6cElWM3NLS1JrVlhUV01Nalh3NHdNejVPX0htQ0tucnBzam0zb2ZxVFJVNXU1Qy1vN0tkOXVsTEVwWkRUcVRsNlE0My00MTZsSmJYMzhoTDk0MzVZaW5FV2JyakV3RGtLNVRPVXNhRW1qSHB5b0tycm05d29SeGI4TmtyTklncDlCR2w3MzVKSUVvLXJscjNGU2o1dw?oc=5)
+來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
 
 ---
 
@@ -244,6 +252,14 @@ permalink: /news/catumaxomab/
 
 ---
 
+### [Typ-1-Diabetes: 16 Millionen Zellen enthüllen kritische Immun-Marker](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
+
+2026-07-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
+
+---
+
 ### [Sandra Misale e il lavoro contro il tumore al pancreas (in un laboratorio con il suo nome): «Con i nuovi farmaci la sopravvivenza raddoppia» - Corriere della Sera](https://news.google.com/rss/articles/CBMipAJBVV95cUxNdFlKbmFVVWdZczdzNFgwS1FXbVBKeEl4VG1XQVRVZ0w1V0EyWUxZSklWZlNVUnF6ZGhBdV9YZDc3Wk10Q0xPQ1pVcm02bzc2c0praFBXLWVNUEpzZzMzRURZVTV6Q0x2OThnUDZjYUhkUmlrUzkxTDd2dFkySXBwZFlyMmotbkl4eDFidzBjbDBnT3hoeUxERk9sQm5XYjFVcDlvSVlvQVRnTGRuNldHMFlpQWJza3lNcWYxay1RanZCdzN1ejQ4YWhEV3JrNXVLdWdTUzlvOVUxSlo4NkFWNWIyd1otSng1ZjFNYWF6YTlQdUo5dDh4a0h4bk9UU0tUeUVCSGZBMVdhd0tLTVJmYmF3MUlWeDJmMzVZZ3dKS0lYdkdp0gGqAkFVX3lxTFBJTHVhcjA0M1pBam1NeTdpbUNud3NrMHJMLUhrTmg5UFk3UVFJNFdmdWUyVFpFX2VKWmtQTmQ3UG1BVjVDeU94NHJpa3ByNEFROWk0X3Z0dW85Ull3N2cxRnJad2FwVlI3U0xKSWZQZWRINTNPR1A4M2pWd0doa0JxRDFLZzI1VUE0bVhPYzZTLVVfd3U2RDFNc1R1WW9GSGJ0eGJZeV96YURYSWp1dXZlUEVHZmNnR0dzY1dBSzBYR3J0c1RXYlVZVmFpenhJNnpybms0X1JsUDAteW5aTThxM1EzSVlfQ3BqMFUwNm5QYmVsdVlQazZFblBKakctUzk0Y0E5WmV4RHRheFJBeWtZcy1EUW85UmpQUDE5TDl4aEMzQTFaR1pLa3c?oc=5)
 
 2026-07-02 <span class="news-indication-tag">tumor</span>
@@ -252,43 +268,11 @@ permalink: /news/catumaxomab/
 
 ---
 
-### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
-
----
-
 ### [Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations - The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
 
 2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
-
----
-
-### [TÉMOIGNAGE. "C’était comme si on m’annonçait un cancer et que j’allais mourir..." : à 18 ans, cette jeune Lotoise, atteinte d’une maladie rare, voit sa vie brisée par les allers-retours à l’hôpital](https://news.google.com/rss/articles/CBMiogJBVV95cUxOTjZXelZ2Z3Vkd19EUlFRS1h1ZkZOcXlGZTdfUHlGZHJqcmk3Z25DbFg5aXJab0tZR0VRX05wV3dpZTJ1TmplWUhwSkJ1Zk9EX1Uzd3NmR1NrQkcyalV4eHN5QlRNckMxRzlZSzJiT3JBd3hmcXpESXl5bVhMN0VaRW1NaC0xd3lFNTBuejMxSmp3b0M2WHhiR2JNUWZJMTA5ZWRiV3VpZWVXaVpIS0x0TmxpYnpoT2pJWHcwTmVLQWF5b0dicEJNSHZlZldtcXB0ZHB4a0tRUWltNll0R3hKRkszU0FyOHlCUmFMM191MUI5V1lMU3FkcW5kdW5zbHpDWTBjbE9xdTc4Z29RcU9QdmR0WlAwR2V6cUsySXNiaW50Zw?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiogJBVV95cUxOTjZXelZ2Z3Vkd19EUlFRS1h1ZkZOcXlGZTdfUHlGZHJqcmk3Z25DbFg5aXJab0tZR0VRX05wV3dpZTJ1TmplWUhwSkJ1Zk9EX1Uzd3NmR1NrQkcyalV4eHN5QlRNckMxRzlZSzJiT3JBd3hmcXpESXl5bVhMN0VaRW1NaC0xd3lFNTBuejMxSmp3b0M2WHhiR2JNUWZJMTA5ZWRiV3VpZWVXaVpIS0x0TmxpYnpoT2pJWHcwTmVLQWF5b0dicEJNSHZlZldtcXB0ZHB4a0tRUWltNll0R3hKRkszU0FyOHlCUmFMM191MUI5V1lMU3FkcW5kdW5zbHpDWTBjbE9xdTc4Z29RcU9QdmR0WlAwR2V6cUsySXNiaW50Zw?oc=5)
-
----
-
-### [Doctor shares prostate cancer open letter to help others facing diagnosis | ITV News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ITVX](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
-
----
-
-### [Oncologist lists 10 common household items linked to cancer - pans to bottles - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/letermovir/
 ---
 
 <p class="key-answer" data-question="Letermovir 有什麼相關新聞？">
-<strong>Letermovir</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Letermovir</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/letermovir/
 <p><a href="{{ '/drugs/letermovir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（26 則）
+
+### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancro</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+---
+
+### [Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
+
+---
 
 ### [Two-time cancer survivors find love through charity work](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/letermovir/
 2026-07-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSeGRUSDJyX0tIYnZTS0tXV1ZaVnc3ZE9PRG5pQTRfekctZTE4WUNzaWFyUlJfTUkyMTh3YUJ0dVQ4cTA2R1AwWUxxOFJFWG9QTFk2VWtXWEJXUWVjekZZTjNVdUVZMGhCRl9nWFAzY2hvTmRmczBhT01XenJYcFUzdGNkQWVYRXlHWDQwTXpYV3pGMXVJVnNfX2IwYk9odXhKdkdXQndRNzFmcFVVVFZXckpVSzMydjhTTmFaN28?oc=5)
-
----
-
-### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancro</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
 
 ---
 
@@ -158,6 +166,14 @@ permalink: /news/letermovir/
 
 ---
 
+### [Le vieillissement biologique s'accélère chez les personnes nées après 1965 : l'explication de la hausse des cancers chez les moins de 60 ans](https://news.google.com/rss/articles/CBMi_gFBVV95cUxONVhza2xlRVBDLTVUaWRtX3g2VU92MExzTTJqWlRVVHRnRENSQkdxM1gxYXowZmlaemhMd3NkdjhsZ0NZWXhCQUlCSFIyME9OTVQyVXZLVUctajBPRzBBcXVmY25HXzJvZlNuZkl4cWhLazROR0s0ZmR6dTZla2JuOEhQSmRDbkw3T3E3dUlpUTVzeldraFIxcTF5RHdrTXVscDREZXBXYndsbW1NNk0wWTFYeDJ3RXJQVVpIODY0bzFXblh1MVZ6RGw1TXZRajNwVDRWZENXMklYYXMxbFo3NUZJVldhVFFWenZZTF9QTGQyaGJIR0lCb2ZabnU4dw?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxONVhza2xlRVBDLTVUaWRtX3g2VU92MExzTTJqWlRVVHRnRENSQkdxM1gxYXowZmlaemhMd3NkdjhsZ0NZWXhCQUlCSFIyME9OTVQyVXZLVUctajBPRzBBcXVmY25HXzJvZlNuZkl4cWhLazROR0s0ZmR6dTZla2JuOEhQSmRDbkw3T3E3dUlpUTVzeldraFIxcTF5RHdrTXVscDREZXBXYndsbW1NNk0wWTFYeDJ3RXJQVVpIODY0bzFXblh1MVZ6RGw1TXZRajNwVDRWZENXMklYYXMxbFo3NUZJVldhVFFWenZZTF9QTGQyaGJIR0lCb2ZabnU4dw?oc=5)
+
+---
+
 ### [After prostate surgery I thought I’d be cancer-free. I had no idea how wrong I was - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVROVUVZbTJMcHdJT2FDU2NmYkRuNHdBWGxPY0RBV3JHNEE1U2R5bmNYQS1Pdmp3YmZyTTdkYTFuUlZoN0xmN2dBNENQMWdpZTcyd3FNZWRyRFA5U1FCUkF5dHREdXIwUV9femVFUlFvYzd4ZFVlN2I2UmVKbnBNcHMxNmNiaE5jVm9jVDNsQXhmN19QZTBWM2tjSQ?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -198,11 +214,11 @@ permalink: /news/letermovir/
 
 ---
 
-### [Une étude scientifique suggère que les personnes nées après 1965 vieillissent plus vite](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDNQTlNfOU9zcnJ5LVl2MTk0VXhBQWdMbS0xMnk2TW1HMzFCSDljUmRKUURyRGdrWUdUckhwdmlWQ3ltZWRNNmd0VXQ2S19tdkV3UjVDUTlRWVhyLWNsaktYalJfdUUtU3Y0cDk5N2FIRm1PRDczdW1jUkNTa2lXV0VLN05SWDVHd0Z6Tm12Sm93WUxyU0ttMVYtVnplNXpTTlRWTDNqSlQ5MUJaQ0xBVkpBcnV6b0VzQlQ2cNIBwgFBVV95cUxNS1kwamIxUHdEOGxMNXVwT2RWS0R4Q1ZoRkFSSUlsZVJaTE43RkF6cElWM3NLS1JrVlhUV01Nalh3NHdNejVPX0htQ0tucnBzam0zb2ZxVFJVNXU1Qy1vN0tkOXVsTEVwWkRUcVRsNlE0My00MTZsSmJYMzhoTDk0MzVZaW5FV2JyakV3RGtLNVRPVXNhRW1qSHB5b0tycm05d29SeGI4TmtyTklncDlCR2w3MzVKSUVvLXJscjNGU2o1dw?oc=5)
+### [Traitement du cancer : le cri d'alarme des oncologues face aux projets de l'Assemblée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDNQTlNfOU9zcnJ5LVl2MTk0VXhBQWdMbS0xMnk2TW1HMzFCSDljUmRKUURyRGdrWUdUckhwdmlWQ3ltZWRNNmd0VXQ2S19tdkV3UjVDUTlRWVhyLWNsaktYalJfdUUtU3Y0cDk5N2FIRm1PRDczdW1jUkNTa2lXV0VLN05SWDVHd0Z6Tm12Sm93WUxyU0ttMVYtVnplNXpTTlRWTDNqSlQ5MUJaQ0xBVkpBcnV6b0VzQlQ2cNIBwgFBVV95cUxNS1kwamIxUHdEOGxMNXVwT2RWS0R4Q1ZoRkFSSUlsZVJaTE43RkF6cElWM3NLS1JrVlhUV01Nalh3NHdNejVPX0htQ0tucnBzam0zb2ZxVFJVNXU1Qy1vN0tkOXVsTEVwWkRUcVRsNlE0My00MTZsSmJYMzhoTDk0MzVZaW5FV2JyakV3RGtLNVRPVXNhRW1qSHB5b0tycm05d29SeGI4TmtyTklncDlCR2w3MzVKSUVvLXJscjNGU2o1dw?oc=5)
+來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
 
 ---
 
@@ -243,30 +259,6 @@ permalink: /news/letermovir/
 2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
-
----
-
-### [TÉMOIGNAGE. "C’était comme si on m’annonçait un cancer et que j’allais mourir..." : à 18 ans, cette jeune Lotoise, atteinte d’une maladie rare, voit sa vie brisée par les allers-retours à l’hôpital](https://news.google.com/rss/articles/CBMiogJBVV95cUxOTjZXelZ2Z3Vkd19EUlFRS1h1ZkZOcXlGZTdfUHlGZHJqcmk3Z25DbFg5aXJab0tZR0VRX05wV3dpZTJ1TmplWUhwSkJ1Zk9EX1Uzd3NmR1NrQkcyalV4eHN5QlRNckMxRzlZSzJiT3JBd3hmcXpESXl5bVhMN0VaRW1NaC0xd3lFNTBuejMxSmp3b0M2WHhiR2JNUWZJMTA5ZWRiV3VpZWVXaVpIS0x0TmxpYnpoT2pJWHcwTmVLQWF5b0dicEJNSHZlZldtcXB0ZHB4a0tRUWltNll0R3hKRkszU0FyOHlCUmFMM191MUI5V1lMU3FkcW5kdW5zbHpDWTBjbE9xdTc4Z29RcU9QdmR0WlAwR2V6cUsySXNiaW50Zw?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiogJBVV95cUxOTjZXelZ2Z3Vkd19EUlFRS1h1ZkZOcXlGZTdfUHlGZHJqcmk3Z25DbFg5aXJab0tZR0VRX05wV3dpZTJ1TmplWUhwSkJ1Zk9EX1Uzd3NmR1NrQkcyalV4eHN5QlRNckMxRzlZSzJiT3JBd3hmcXpESXl5bVhMN0VaRW1NaC0xd3lFNTBuejMxSmp3b0M2WHhiR2JNUWZJMTA5ZWRiV3VpZWVXaVpIS0x0TmxpYnpoT2pJWHcwTmVLQWF5b0dicEJNSHZlZldtcXB0ZHB4a0tRUWltNll0R3hKRkszU0FyOHlCUmFMM191MUI5V1lMU3FkcW5kdW5zbHpDWTBjbE9xdTc4Z29RcU9QdmR0WlAwR2V6cUsySXNiaW50Zw?oc=5)
-
----
-
-### [Doctor shares prostate cancer open letter to help others facing diagnosis | ITV News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ITVX](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
-
----
-
-### [Oncologist lists 10 common household items linked to cancer - pans to bottles - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [PMOS betrifft jede achte Frau: Neue NHS-Leitlinien zur Früherkennung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
-2026-07-04 <span class="news-indication-tag">diabetes</span>
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
-
----
-
-### [SGLT2-Hemmer senken Alzheimer-Risiko: Stress, Entzündung und neue Biomarker rücken zusammen - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 ---
 
-### [Si la industria del alcohol no tuviera ya suficientes problemas, ahora se ha encontrado con uno más: Ozempic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmh3N2dDTEJ3VG96S3B4YklYTW1BOHRDQVh3TFp6OWhGTVlUU19zdW9MelJoNTVkbjdLN0tUX2xjWWI0SWNETEV5VUZ1azZEN2dfOERic1ZWTHlLN01tZ3AxWFVid3pTd1lsUHFMWHd1aUFQVVVmcEpTQjZ5bGg3UnlqOElJNE9kSnVaWGhtbkstRTdXcS1yejl3T0w3dXY3azhOaXp3bmMwWmd6WFVoQ2xIQ3VwejJxQmlFTFlVTFFpcEnSAcgBQVVfeXFMTzhPb01ZOFdUbGVrRy14MGt2c0NHeG4wUUFaZnJBYVpaZENKRUxFM0pJNFVZNEw5YTBndDc1VW8xUVBVUnRNNlI1MU1lamtvc2JfUy1ROVZlcVh4cEppVXlBRXFPT3hiajdMZW9mTllqVXdoYjNlZ0NMblZ1aTExQm8tMEx2SjhTTnpTWE04SFlra2c3Yy1nNmxNdUpsMnNka2JON3dYeHA1TzNnSllmb2NBR2RVY05yaTJkZ0ZoRTdSbFVXSGFBU20?oc=5)
+### [Thousands more Brits to get fat jabs to treat killer liver disease, officials announce - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGNkQ3Q1SVl3ek9qUVg2MGRQZlZKWTB1V3VJa21MYkx3VTJwdXRCU0ttcndlRFkwT3o3Y2t5YVdQNE9zZnJEekVleENUenZFeVRWWGY2ZHBXRkRfUEszVEZqYnpmM05HNXAwcVF2eTk2MmhNa0RIbkEwTmNka0ROOUFpZUhfUUFISVk4OXdDS3lLSDA?oc=5)
 
 2026-07-03 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Xataka](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmh3N2dDTEJ3VG96S3B4YklYTW1BOHRDQVh3TFp6OWhGTVlUU19zdW9MelJoNTVkbjdLN0tUX2xjWWI0SWNETEV5VUZ1azZEN2dfOERic1ZWTHlLN01tZ3AxWFVid3pTd1lsUHFMWHd1aUFQVVVmcEpTQjZ5bGg3UnlqOElJNE9kSnVaWGhtbkstRTdXcS1yejl3T0w3dXY3azhOaXp3bmMwWmd6WFVoQ2xIQ3VwejJxQmlFTFlVTFFpcEnSAcgBQVVfeXFMTzhPb01ZOFdUbGVrRy14MGt2c0NHeG4wUUFaZnJBYVpaZENKRUxFM0pJNFVZNEw5YTBndDc1VW8xUVBVUnRNNlI1MU1lamtvc2JfUy1ROVZlcVh4cEppVXlBRXFPT3hiajdMZW9mTllqVXdoYjNlZ0NMblZ1aTExQm8tMEx2SjhTTnpTWE04SFlra2c3Yy1nNmxNdUpsMnNka2JON3dYeHA1TzNnSllmb2NBR2RVY05yaTJkZ0ZoRTdSbFVXSGFBU20?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGNkQ3Q1SVl3ek9qUVg2MGRQZlZKWTB1V3VJa21MYkx3VTJwdXRCU0ttcndlRFkwT3o3Y2t5YVdQNE9zZnJEekVleENUenZFeVRWWGY2ZHBXRkRfUEszVEZqYnpmM05HNXAwcVF2eTk2MmhNa0RIbkEwTmNka0ROOUFpZUhfUUFISVk4OXdDS3lLSDA?oc=5)
 
 ---
 
@@ -86,19 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [En qué consiste la dieta GLP-1, el último fenómeno tras el éxito de Ozempic - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBjbERPbXVzLXVzRmxCeGNLV2Jaa29MeWRScEdJQWloZGpESEM3UEhmWTVJTGdyRkEzeS1hTFJsSTJPRE9RdU5oVm1tX2RYeHpMOE9lbmZ5c2pLRnl4QjUyTW9VbUpXVVlSQkhDVW1LS2ZRQk5DRzlEOEhUSWszODJDdFQtZDNpZGdvdmpMME0yS245dTlmQzlKRnRiQVpmVVk3WGoyeDIyOFBtcDNWNWlaXzBmdk5OYWM5QjZ5clfSAcYBQVVfeXFMTm1CX1F4NzVwbUpveHhnQ1lIdEVwaXVHMzB2V0pVN2VPYjNGb1FiU3RSV2pKRmpTU2wyaEIyZS12RFZLbkxsOHFnWm5Yd1pFaDB3R1dLY2RzU0xhbnhOdDFmNVFYNHJVMTM1b0ZrTFZUTVI5LXQxb2FOcUdWMkhVNnl3Mnd6LXB1VjloOTh4M2Y3WjRVdWFyS19Hb29tTmdFMnFZcTRrWldOS3ZpX0ViTndsSmthME5yVnpFOVNxS1phemRESzF3?oc=5)
-
-2026-07-03 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODBjbERPbXVzLXVzRmxCeGNLV2Jaa29MeWRScEdJQWloZGpESEM3UEhmWTVJTGdyRkEzeS1hTFJsSTJPRE9RdU5oVm1tX2RYeHpMOE9lbmZ5c2pLRnl4QjUyTW9VbUpXVVlSQkhDVW1LS2ZRQk5DRzlEOEhUSWszODJDdFQtZDNpZGdvdmpMME0yS245dTlmQzlKRnRiQVpmVVk3WGoyeDIyOFBtcDNWNWlaXzBmdk5OYWM5QjZ5clfSAcYBQVVfeXFMTm1CX1F4NzVwbUpveHhnQ1lIdEVwaXVHMzB2V0pVN2VPYjNGb1FiU3RSV2pKRmpTU2wyaEIyZS12RFZLbkxsOHFnWm5Yd1pFaDB3R1dLY2RzU0xhbnhOdDFmNVFYNHJVMTM1b0ZrTFZUTVI5LXQxb2FOcUdWMkhVNnl3Mnd6LXB1VjloOTh4M2Y3WjRVdWFyS19Hb29tTmdFMnFZcTRrWldOS3ZpX0ViTndsSmthME5yVnpFOVNxS1phemRESzF3?oc=5)
-
----
-
-### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+### [Typ-1-Diabetes: 16 Millionen Zellen enthüllen kritische Immun-Marker](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
 
 2026-07-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
 
 ---
 

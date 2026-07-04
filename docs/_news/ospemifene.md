@@ -54,6 +54,14 @@ permalink: /news/ospemifene/
 
 ## 相關新聞（3 則）
 
+### [Am I at risk of an early heart attack like my grandfather? I decided to find out - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd191V0VJZjJINmd3Y2ZSWm5jNmNnU3VEamlFVWFmdTVfTzZZZU9MOXRBTWp0WXU0ajNWdDNWbXhJX05Zb2R6UEUwWGM1QkhMLW1PSzZWZlQyMHU2dHMzTmtrTEl4SnhidmNWb2tXcmNrWXVUblFkamJZWFJ0bFpYRkJIV3k2T2V3N3JvcmMxN0traVFydjRoRzNuTlI2NXRxQkVEdTJUNkZXUQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd191V0VJZjJINmd3Y2ZSWm5jNmNnU3VEamlFVWFmdTVfTzZZZU9MOXRBTWp0WXU0ajNWdDNWbXhJX05Zb2R6UEUwWGM1QkhMLW1PSzZWZlQyMHU2dHMzTmtrTEl4SnhidmNWb2tXcmNrWXVUblFkamJZWFJ0bFpYRkJIV3k2T2V3N3JvcmMxN0traVFydjRoRzNuTlI2NXRxQkVEdTJUNkZXUQ?oc=5)
+
+---
+
 ### [Blutdrucksenker: Welche Wirkstoffe sind am besten verträglich? - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
 
 2026-07-03 <span class="news-indication-tag">Bluthochdruck</span>
@@ -67,14 +75,6 @@ permalink: /news/ospemifene/
 2026-07-02 <span class="news-indication-tag">migraña</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
-
----
-
-### [Jorge Mañez, neurólogo, sobre las migrañas: La irregularidad a la que nos incita el verano hace que haya más dolor de cabeza](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
-
-2026-07-02 <span class="news-indication-tag">migraña</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
 
 ---
 

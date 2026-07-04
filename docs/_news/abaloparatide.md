@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [PMOS betrifft jede achte Frau: Neue NHS-Leitlinien zur Früherkennung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
-2026-07-04 <span class="news-indication-tag">diabetes</span>
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
-
----
-
-### [SGLT2-Hemmer senken Alzheimer-Risiko: Stress, Entzündung und neue Biomarker rücken zusammen - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 ---
 
@@ -78,27 +70,19 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Typ-1-Diabetes: 16 Millionen Zellen enthüllen kritische Immun-Marker](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
+
+2026-07-02 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
+
+---
+
 ### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
 
 2026-07-02 <span class="news-indication-tag">migraña</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
-
----
-
-### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
-
----
-
-### [Jorge Mañez, neurólogo, sobre las migrañas: La irregularidad a la que nos incita el verano hace que haya más dolor de cabeza](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
-
-2026-07-02 <span class="news-indication-tag">migraña</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（3 則）
 
-### [Säureblocker: Langzeit-PPI erhöhen Demenz- und Lungensrisiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
+### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
-2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
 ---
 

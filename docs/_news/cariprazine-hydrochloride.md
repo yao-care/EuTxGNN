@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+---
+
+### [Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+
+---
 
 ### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
 
 2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+
+---
+
+### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
+
+2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
 
-2026-07-03 <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
 
 ---
 
@@ -118,19 +142,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [NHS confirms major vaccine rollout for older adults from September - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
+### [NHS confirms rule change for patients aged 65 to 74 from September 1 - Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
-
----
-
-### [Oncologist lists 10 common household items linked to cancer - pans to bottles - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
 
 ---
 

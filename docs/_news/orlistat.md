@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（8 則）
 
+### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
+
+2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
+
+---
+
 ### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
 
 2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
@@ -107,14 +115,6 @@ permalink: /news/orlistat/
 2026-07-02 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxONnQtTzh3VUpuNkQ2YXVQZWl3RXFkZGJNQzU5T19PMkY3MjhaRGoxTVlfRGN2RFNyTEdmcFBpTEw0NmdyWlA1a3dyNDFfZmxEaXB5akJ5YXhkdHJUTzdvOXpNenotbXItZGEtYW9hNEJHUEpJOVhGXy0tYXNSb3d0WHpKTkxKNmVNR2pLRjM3dFQ2ZUo4c3J5ZExuMFFReW5vcE1VYTFkR280UHVkeEp5d0lqZEJic1llZXRnQjVjVFBUX2F3SmFj?oc=5)
-
----
-
-### [Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
-
-2026-07-02 <span class="news-indication-tag">obesity</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5)
 
 ---
 

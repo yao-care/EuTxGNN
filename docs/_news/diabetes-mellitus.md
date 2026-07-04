@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,21 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [PMOS betrifft jede achte Frau: Neue NHS-Leitlinien zur Früherkennung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 2026-07-04
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
-
----
-
-### [SGLT2-Hemmer senken Alzheimer-Risiko: Stress, Entzündung und neue Biomarker rücken zusammen - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
-
-2026-07-03
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 ---
 
@@ -140,11 +132,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+### [Typ-1-Diabetes: 16 Millionen Zellen enthüllen kritische Immun-Marker](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
 
 2026-07-02
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
 
 ---
 

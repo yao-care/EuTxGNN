@@ -14,7 +14,7 @@ permalink: /news/galcanezumab/
 ---
 
 <p class="key-answer" data-question="Galcanezumab 有什麼相關新聞？">
-<strong>Galcanezumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Galcanezumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/galcanezumab/
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Sesgo de género en migraña, una realidad clínica aún infravalorada](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
 
 2026-07-02 <span class="news-indication-tag">migraña</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzlaSTVDRm9NbE9jYi03dlIta1RBRndUZW80Q1Z3Zm0wUHJrQ25WdmVRemk2dmpqdjFWeVhIcHg1WHRpQy1NT0hmQVVWS0RjTmJ1UGc1UGNLY01BTy05VW50ZFltUkI3dlV5S0ZpT25lV3BUVzZnNTJPZGNDWmtmLXg4MG9OR1JmR1NaZENiSFFvT3Z3RTRWX1FR?oc=5)
-
----
-
-### [Jorge Mañez, neurólogo, sobre las migrañas: La irregularidad a la que nos incita el verano hace que haya más dolor de cabeza](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
-
-2026-07-02 <span class="news-indication-tag">migraña</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXVFNmVWUjNsT2J4Nm1rdHBjaURJR2RRcWZfd2xHMEVUMFdjUi16NzMyTHM2azRGLWZYNGxYU05GaUxVUVhQRjR2N3J1V2ZBRkNFcWJyNlF3RXJXNGY4MmpKR1BfeFBrcnktOFBDdHMtNTF1RTk4YjRZY24wQko2NFhSOW1hSmlOanRVbXUtQkhoRmlOaDVQMVhpUG1WWjJJWVNDbkN4MDQyZFRaNUk1YjZqQTRNZjZfdno2bDJDYTdraUF5VTFoTGVYR0I0UExOZGNJNGVfdWlpcjjSAeABQVVfeXFMTWl5MGxYS2h0NnFCWkNiQjR1VTJCTmYzNEVMdDBGbjNOb29DcU5WcVBUSGZNODhiRGZOWHhLTWlwYTQyMkFHVnE0aUdncjl1cDhURXhHVTJsY1REMVBaU3dwbTlxckI3VS1JejdLaFN2N3h2b3dzSjNDXzg0eUctM2lveUJLSlRxQ3EwN2lDTHo0em10d1JpUzFGSTBZeVdmZTJ5NEdFT2FmejZtQkJVd3pSWXpPZTU3OHp6c2xjZS1weXo5cHZCVWhrc2QtZWZfX3p2d2VQR0lMNnBXaTc2d0c?oc=5)
 
 ---
 

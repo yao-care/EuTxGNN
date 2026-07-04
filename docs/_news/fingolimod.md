@@ -14,7 +14,7 @@ permalink: /news/fingolimod/
 ---
 
 <p class="key-answer" data-question="Fingolimod 有什麼相關新聞？">
-<strong>Fingolimod</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fingolimod</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/fingolimod/
 <p><a href="{{ '/drugs/fingolimod/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（37 則）
+
+### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancro</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2M?oc=5)
+
+---
+
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+---
+
+### [Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
+
+---
+
+### [Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
+
+---
 
 ### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
 
 2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+
+---
+
+### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
+
+2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 ---
 
@@ -75,14 +115,6 @@ permalink: /news/fingolimod/
 2026-07-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSeGRUSDJyX0tIYnZTS0tXV1ZaVnc3ZE9PRG5pQTRfekctZTE4WUNzaWFyUlJfTUkyMTh3YUJ0dVQ4cTA2R1AwWUxxOFJFWG9QTFk2VWtXWEJXUWVjekZZTjNVdUVZMGhCRl9nWFAzY2hvTmRmczBhT01XenJYcFUzdGNkQWVYRXlHWDQwTXpYV3pGMXVJVnNfX2IwYk9odXhKdkdXQndRNzFmcFVVVFZXckpVSzMydjhTTmFaN28?oc=5)
-
----
-
-### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro. Ora vivo tre mesi alla...](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancro</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjlaTm5mbEpoalZ1R1lQNl81bGtJTXYxY2hUUUJQMzVCckwzY0lxS1hMWXltV09aOWl6cTB5TFZrWHhWaHR0cDREOVgzUkpRYVJWN0xrWGNrcHIzZnlkVUx1RU5TbDE3QUR4clNHY1VVaFUzNExHd29QRnpKUDZMZjgwdzlhd19GcTM0R21Vd1Vjc2ZrUi1HaWIxU2dPZFF4NW5lcHBZUzZwY2PSAZYBQVVfeXFMTzRpblFsT1ZlRWQyWVBmQUl4VHRSU0lqMEZoWHc2NVpocUdMNmNyN2p5WnRqOWZCYlVHRlF3TEFwaG5MQmVrWWVBUXpGT21za0RRQ1ptR2J3V0dxbFJ6VkpnalIwcURIY20xdnJ1QWt0YjZWRHRHbU1tU1EtYWNNakY5U1VNdTl4NUhFOFZyYWVBb2NQZjl3?oc=5)
 
 ---
 
@@ -150,14 +182,6 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
----
-
 ### [La marche rapide ferait reculer le risque de cancer du côlon bien plus quʼon ne le pensait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTUyQkx0N1dLakxSZUhNSkV1aGtadjJ2ZDktd3ZfdWN5Ti14MnNudG9TRG5zUXNNVFFnSGdubmxkZVJFYmo5bjN0OWJWTGRqWDVuTXpYYl9Bb2N3bWpBVDRENTh6UUJnSms3TmV3Rm5heFljdDA1RUhfWkdjc1E3SS1POWVjREpRTkJHdW50QzNXYjZIcU9VajlMcEo5OHBqZUJUeEhaNVlJeWpWWE05ZThnRzcwWEdGNUMwTlJKSGVkSHVh?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span>
@@ -182,6 +206,14 @@ permalink: /news/fingolimod/
 
 ---
 
+### [Le vieillissement biologique s'accélère chez les personnes nées après 1965 : l'explication de la hausse des cancers chez les moins de 60 ans](https://news.google.com/rss/articles/CBMi_gFBVV95cUxONVhza2xlRVBDLTVUaWRtX3g2VU92MExzTTJqWlRVVHRnRENSQkdxM1gxYXowZmlaemhMd3NkdjhsZ0NZWXhCQUlCSFIyME9OTVQyVXZLVUctajBPRzBBcXVmY25HXzJvZlNuZkl4cWhLazROR0s0ZmR6dTZla2JuOEhQSmRDbkw3T3E3dUlpUTVzeldraFIxcTF5RHdrTXVscDREZXBXYndsbW1NNk0wWTFYeDJ3RXJQVVpIODY0bzFXblh1MVZ6RGw1TXZRajNwVDRWZENXMklYYXMxbFo3NUZJVldhVFFWenZZTF9QTGQyaGJIR0lCb2ZabnU4dw?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Medisite.fr](https://news.google.com/rss/articles/CBMi_gFBVV95cUxONVhza2xlRVBDLTVUaWRtX3g2VU92MExzTTJqWlRVVHRnRENSQkdxM1gxYXowZmlaemhMd3NkdjhsZ0NZWXhCQUlCSFIyME9OTVQyVXZLVUctajBPRzBBcXVmY25HXzJvZlNuZkl4cWhLazROR0s0ZmR6dTZla2JuOEhQSmRDbkw3T3E3dUlpUTVzeldraFIxcTF5RHdrTXVscDREZXBXYndsbW1NNk0wWTFYeDJ3RXJQVVpIODY0bzFXblh1MVZ6RGw1TXZRajNwVDRWZENXMklYYXMxbFo3NUZJVldhVFFWenZZTF9QTGQyaGJIR0lCb2ZabnU4dw?oc=5)
+
+---
+
 ### [After prostate surgery I thought I’d be cancer-free. I had no idea how wrong I was - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVROVUVZbTJMcHdJT2FDU2NmYkRuNHdBWGxPY0RBV3JHNEE1U2R5bmNYQS1Pdmp3YmZyTTdkYTFuUlZoN0xmN2dBNENQMWdpZTcyd3FNZWRyRFA5U1FCUkF5dHREdXIwUV9femVFUlFvYzd4ZFVlN2I2UmVKbnBNcHMxNmNiaE5jVm9jVDNsQXhmN19QZTBWM2tjSQ?oc=5)
 
 2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -195,6 +227,14 @@ permalink: /news/fingolimod/
 2026-07-03 <span class="news-indication-tag">tumor</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnpWREtTdFFkTTd3QW95OUMyd1d4ZXlJMkY3LWxUSjZfVFlVcmR3dlk5RVFaMW1SSjJZZDJEYlpPWEdvTE1XYUlMdEp3d3hoZVN2Tml5OC1GWFZPdm82VWI5RXVuTk8yeG50R05VWkVKTHlMZFdaMURydU1kUGFKNFZkVlJnRmdMeDBuVFRwS1NMZlJCZ2pKZVhGVWRIeUtCTmNsQnNSanBaSG9YZlV6UWFwaFVKSGlEUjJ2ZGJ30gG4AUFVX3lxTFBPUzVYTkRHZ0tzWXhycE1LelUtZG9JNWpzN0hMNDF4X2p0MEpkOVR0R3FyQUdCNGdVSU01YV80RkdxSldaMnh2eTV4Wm9MR3FfTENiVkg4TXdqMTd3dW44ekx3UnF3MW9OdjhzSmJwYU9UNTF0TkV5NXBlaDh0VERfaFNzNlNvc0R4dzYtZzAyQklDVG1hSXliUnpKU2VsVTNuSkFRcmlBNzh1b2J0aHJlS3oweEl4d2Q?oc=5)
+
+---
+
+### [One-year-old tot killed by Ebola-like ‘eye-bleeding disease’ with mortality rate of 90% triggering ‘pandemic fears’ - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
+
+2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2xfMDVZXzdTU3ZXV2o0a0lEUnp4WW5wNUllVWNRUnVBLUpHUHNCb212QlV6ZkthRnhGbWZQRnJwOVR6SFI4X3hjRFA4SUl4WW9HUjJBbG9DRV92TTRMZ0Ixa1l0SnVZRzBJSTV1VXhiaXBKcnltdi1TQ3k4WEYxOGlmWmU2NEdDQnE2b0prUmZUTnR1SDBoZk1kakRTMDhm?oc=5)
 
 ---
 
@@ -230,14 +270,6 @@ permalink: /news/fingolimod/
 
 ---
 
-### [Une étude scientifique suggère que les personnes nées après 1965 vieillissent plus vite](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDNQTlNfOU9zcnJ5LVl2MTk0VXhBQWdMbS0xMnk2TW1HMzFCSDljUmRKUURyRGdrWUdUckhwdmlWQ3ltZWRNNmd0VXQ2S19tdkV3UjVDUTlRWVhyLWNsaktYalJfdUUtU3Y0cDk5N2FIRm1PRDczdW1jUkNTa2lXV0VLN05SWDVHd0Z6Tm12Sm93WUxyU0ttMVYtVnplNXpTTlRWTDNqSlQ5MUJaQ0xBVkpBcnV6b0VzQlQ2cNIBwgFBVV95cUxNS1kwamIxUHdEOGxMNXVwT2RWS0R4Q1ZoRkFSSUlsZVJaTE43RkF6cElWM3NLS1JrVlhUV01Nalh3NHdNejVPX0htQ0tucnBzam0zb2ZxVFJVNXU1Qy1vN0tkOXVsTEVwWkRUcVRsNlE0My00MTZsSmJYMzhoTDk0MzVZaW5FV2JyakV3RGtLNVRPVXNhRW1qSHB5b0tycm05d29SeGI4TmtyTklncDlCR2w3MzVKSUVvLXJscjNGU2o1dw?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdDNQTlNfOU9zcnJ5LVl2MTk0VXhBQWdMbS0xMnk2TW1HMzFCSDljUmRKUURyRGdrWUdUckhwdmlWQ3ltZWRNNmd0VXQ2S19tdkV3UjVDUTlRWVhyLWNsaktYalJfdUUtU3Y0cDk5N2FIRm1PRDczdW1jUkNTa2lXV0VLN05SWDVHd0Z6Tm12Sm93WUxyU0ttMVYtVnplNXpTTlRWTDNqSlQ5MUJaQ0xBVkpBcnV6b0VzQlQ2cNIBwgFBVV95cUxNS1kwamIxUHdEOGxMNXVwT2RWS0R4Q1ZoRkFSSUlsZVJaTE43RkF6cElWM3NLS1JrVlhUV01Nalh3NHdNejVPX0htQ0tucnBzam0zb2ZxVFJVNXU1Qy1vN0tkOXVsTEVwWkRUcVRsNlE0My00MTZsSmJYMzhoTDk0MzVZaW5FV2JyakV3RGtLNVRPVXNhRW1qSHB5b0tycm05d29SeGI4TmtyTklncDlCR2w3MzVKSUVvLXJscjNGU2o1dw?oc=5)
-
----
-
 ### [New app aims to cut NHS waiting times for patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16TXJ0YWNyUHktYWZRSlJNenZ4Zzk1Y2I0UUlXS2hxcHdYY0VISUVZZGRYZm90dzdDYWVfeXNDYkhHclVVc0tNZm5tdzlIUDBJb2dYUm8xWFJ3elU1?oc=5)
 
 2026-07-03 <span class="news-indication-tag">MS</span>
@@ -259,6 +291,14 @@ permalink: /news/fingolimod/
 2026-07-03 <span class="news-indication-tag">MS</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
+
+---
+
+### [Traitement du cancer : le cri d'alarme des oncologues face aux projets de l'Assemblée - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21tbUdNRExtZEtjbXJVV2VtODByZEwtMU1NclVEc2ZfREZ4LU85RXpEbU8xNjBOQlNvSWVBVE01VmljRUVjOENOb0FYVmxscTRoel9ROUtoemRqaU5kejhRTEdIOU85TUtfbXJVRGthY2hqeVdVeXFUeGVnWThrMDJ6N2lPUGF3Ql9SYm5xQmN2Z2RwRkJtVVJraTdxUjdnTTJkNGRqZldxTlpvZFVKWXRQeE5kWldKYlpMTy1CM2oxamVGTENCTjlhQ3Q1N3dM?oc=5)
 
 ---
 
@@ -286,11 +326,11 @@ permalink: /news/fingolimod/
 
 ---
 
-### [NHS confirms major vaccine rollout for older adults from September - Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
+### [NHS confirms rule change for patients aged 65 to 74 from September 1 - Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
 
 2026-07-02 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEZCT0tQR09UVWNiRWpxdF81UEg1VXZDNWtJcnJrMFdUdTZ1RG5hdHZxWmJoOUJQNmpRd2RDWGg3Nkh0OHlSUnd6cVZOcEtMbVVkZjdrUWpXWEdnbDhVZ3RvMklCckw2bjZmNmVLcncxQzdkLUtxQlpVUGtYTEpXcHd30gGHAUFVX3lxTE9MbXZ0M1JNai1WWXNNWXFXcWRraDhQcUVyT1dFRHU3TVRDOWx0Y2t3bVJQNTRuQndvbV9rX0dwVHB3OVVsQ0tqVFZRWl9ib21aUml5ZFN6WTRNTXdReENBNHIyM0U3UzNzYVQ1azE1cEZOQTFIaTNNVmE4LXg1V0RDVDdrY2t0SQ?oc=5)
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQW9SeTVleXQzT2tSb2R3RWZBQzd2NVBmN09kRk81UzN0TkJMR3RqcjhnU2R3WEtQazlwZl9HRW1hc3ZTa2g3Y2Q1MFI4UmtjT0hNMnJXenIteTJXcnFxdHhJSDJHU2o5SjQ1MUdiN18xam5NclZpeThQT21wTjRPUXdqZDdMbXJEMHp2RktmZWRWM2RVY2ptdnJn0gGfAUFVX3lxTE9kUjlrM3kwUVVCNDJfblRCSG9vM0lLMkR0cHNMNXFPa2VqYnVpX3FtdWpZLW9VYm5mdHFoMUN2Ty1tTGlWbV9fVnkzaUNkajdPRXQtV2FBMlREMENiOVhMU3lqNE5BSHR2Y2llS0dxRzh3cXZVYWQ5dWpvLW9DbFNMbFVhdFl6WGlCVDk1dUwySk5BcmUxbVdMaUVVTTBBNA?oc=5)
 
 ---
 
@@ -307,30 +347,6 @@ permalink: /news/fingolimod/
 2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5)
-
----
-
-### [TÉMOIGNAGE. "C’était comme si on m’annonçait un cancer et que j’allais mourir..." : à 18 ans, cette jeune Lotoise, atteinte d’une maladie rare, voit sa vie brisée par les allers-retours à l’hôpital](https://news.google.com/rss/articles/CBMiogJBVV95cUxOTjZXelZ2Z3Vkd19EUlFRS1h1ZkZOcXlGZTdfUHlGZHJqcmk3Z25DbFg5aXJab0tZR0VRX05wV3dpZTJ1TmplWUhwSkJ1Zk9EX1Uzd3NmR1NrQkcyalV4eHN5QlRNckMxRzlZSzJiT3JBd3hmcXpESXl5bVhMN0VaRW1NaC0xd3lFNTBuejMxSmp3b0M2WHhiR2JNUWZJMTA5ZWRiV3VpZWVXaVpIS0x0TmxpYnpoT2pJWHcwTmVLQWF5b0dicEJNSHZlZldtcXB0ZHB4a0tRUWltNll0R3hKRkszU0FyOHlCUmFMM191MUI5V1lMU3FkcW5kdW5zbHpDWTBjbE9xdTc4Z29RcU9QdmR0WlAwR2V6cUsySXNiaW50Zw?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiogJBVV95cUxOTjZXelZ2Z3Vkd19EUlFRS1h1ZkZOcXlGZTdfUHlGZHJqcmk3Z25DbFg5aXJab0tZR0VRX05wV3dpZTJ1TmplWUhwSkJ1Zk9EX1Uzd3NmR1NrQkcyalV4eHN5QlRNckMxRzlZSzJiT3JBd3hmcXpESXl5bVhMN0VaRW1NaC0xd3lFNTBuejMxSmp3b0M2WHhiR2JNUWZJMTA5ZWRiV3VpZWVXaVpIS0x0TmxpYnpoT2pJWHcwTmVLQWF5b0dicEJNSHZlZldtcXB0ZHB4a0tRUWltNll0R3hKRkszU0FyOHlCUmFMM191MUI5V1lMU3FkcW5kdW5zbHpDWTBjbE9xdTc4Z29RcU9QdmR0WlAwR2V6cUsySXNiaW50Zw?oc=5)
-
----
-
-### [Doctor shares prostate cancer open letter to help others facing diagnosis | ITV News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[ITVX](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDJILVhEZlBneUtuV21GQUt0VzRvc3BDZm9Ibk5JZXZKRy10MFpNOHNkenc2dUptamd1WEdXQTNoNndCYlkzdk9BM2dmU3k3LWg3WWZESnUtdDlsanhMRUR3a1o4bWFmaHhkNHl1MzBJUUdndmtyQ0kxdEpRb0hBV20zNmdJOHdvNjFvT2JaVmNMNzJkVDZmclJacHNnOFF6NFF6T1V4dlk5d09IQ19VSjNkTThSeW8x?oc=5)
-
----
-
-### [Oncologist lists 10 common household items linked to cancer - pans to bottles - The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHRpYkpvcXctZ2RXUTlicldra01ZbE1WN2JOVnVnTVNhRTA0SzdOU3RBRUhJaHBvU1V3WnVHaDdtRUR1aG1za1VOVEZBbGtvanZtTkJGWm5LdjhkTk9rYWkxT1FuTjFOU3dNX3ZsQVpJcDczVk1XQ3A1LW5SOXJJa3k1b3dBdk1HMmt3?oc=5)
 
 ---
 

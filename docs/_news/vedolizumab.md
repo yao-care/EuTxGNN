@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [PMOS betrifft jede achte Frau: Neue NHS-Leitlinien zur Früherkennung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
-2026-07-04 <span class="news-indication-tag">diabetes</span>
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazItUXdxT0sycmhFTjZGVkJOYlZTUDNYTlc0VFVsY2htTjFwMHVEN21Vc3VENW1DZmdoQ2lTdFNqdUNmYkVQeXNPaUMzZkFFbGlRU29HNkZ6cVU2TG4tM1BrM0hNZEQ4UW1mZFdPeVN4cURzcVVlMURsdHZOX19EeEtkTFNjMFpyWC1SYmhNRmJ0Q19SMVRiRWctaUgwaEo1aktLejVhZlVrRTdBdTNocmc1ZTdhVHlu?oc=5)
-
----
-
-### [SGLT2-Hemmer senken Alzheimer-Risiko: Stress, Entzündung und neue Biomarker rücken zusammen - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
-
-2026-07-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1iRElDTnNPUnZVeFJPblZxTWpsb3RwVk9OeU5rWDBGa3g3d2s5bjZGRzVrY1J5dmwwLW9jYUlDelFpbml6QTJfVVJxMEYyX05mT2VVNlZncmxMSk9Bc3RDT2UyMXFjU0dxZldmQWZCZGgzN1p4U3JGaEtKYjItdUFuQTBoWV9GV2RucVV1dHRDZWdndW1nWldKckRvOUpRQ09heERLd2NhSk54ejBxVjUxaHR2emJxbDZ0UHhSTlY?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 ---
 
-### [Säureblocker: Langzeit-PPI erhöhen Demenz- und Lungensrisiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
+### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
-2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWl3ZW9Wa1hWT3JJbTd2azNZRmVVRFhjMWlrUDh4RHc5Q1RIejYwdjNZNmducGhldTNoZFZMQ3BMdEFjS3R0R2w0NnVkVFd5V0dUZElPSTVYbkxCaTdxVjlhUGV3Q2xyUWJzUHRjSVdiMXJkSVVsV3E5R05hS2xSZkRMSm5PMmpUck1LU3pxVHdLYi1UckNfSEtPcFNmSENST2Rj?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Entwicklung des kindlichen Pankreas könnte aufdecken, wie Diabetes entsteht - Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+### [Typ-1-Diabetes: 16 Millionen Zellen enthüllen kritische Immun-Marker](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
 
 2026-07-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlVFY0g0b1ozZDdleXI2aHMzQUVmYmdIdVBhbW5QeFNkNkxHVXFNMUdMaE5mQ0NCbkI3UzFMQl8xUlJ6aXV3N1l2RTJEdFI3Si1JLTdQVk02cXMxVnlnaERHRGY4enFDNXl4ZDRrbk9tOFVFaWpoZDkwVjdYZ2RjVXFB?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
 
 ---
 
