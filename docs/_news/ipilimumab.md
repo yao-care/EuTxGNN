@@ -14,7 +14,7 @@ permalink: /news/ipilimumab/
 ---
 
 <p class="key-answer" data-question="Ipilimumab 有什麼相關新聞？">
-<strong>Ipilimumab</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ipilimumab</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ipilimumab/
 <p><a href="{{ '/drugs/ipilimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（26 則）
+
+### [Le bronzage est-il devenu gênant ? Le témoignage d'un dermatologue : "Le soleil belge demande aussi d'être prudent" - La Libre.be](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHVaZ0RuVE0zdTh4LTc2UHRBazBLM3lVTWRrU0hlX2RrVWVUSUFCVFg4b3k1NWE5RlFaNzAwVVpuU2VjcnphaW44LWxibFkzZUFTQ0h0eGtSNEpEYUlzS0ZiVGlpYno5YVVQUUtKaWJoTzZOZTQyeUpFY3JUYzl4VS1rdEZPY0pnTktsWkpQZ0ZjY25MaHd2UUw3RUdmYlBmTEZWMHlHMFpPWDRUS25BdlE2T1dULVViT0dMX0RfRTBHNkhONGdVVExOWEhabFF1bXNhc1J5cDdqWmNNSzFIUnVMWWthejRxR0NVcDB4RGhuMXZ0ZmdzTjVlTDBEbWNENkY2dExWSWNlSFRHUUxPU05R?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHVaZ0RuVE0zdTh4LTc2UHRBazBLM3lVTWRrU0hlX2RrVWVUSUFCVFg4b3k1NWE5RlFaNzAwVVpuU2VjcnphaW44LWxibFkzZUFTQ0h0eGtSNEpEYUlzS0ZiVGlpYno5YVVQUUtKaWJoTzZOZTQyeUpFY3JUYzl4VS1rdEZPY0pnTktsWkpQZ0ZjY25MaHd2UUw3RUdmYlBmTEZWMHlHMFpPWDRUS25BdlE2T1dULVViT0dMX0RfRTBHNkhONGdVVExOWEhabFF1bXNhc1J5cDdqWmNNSzFIUnVMWWthejRxR0NVcDB4RGhuMXZ0ZmdzTjVlTDBEbWNENkY2dExWSWNlSFRHUUxPU05R?oc=5)
+
+---
 
 ### ['Pebble poos' can mean dementia & ‘pencil poos’ cancer…number 2s to NEVER ignore - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
 
 2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
+
+---
+
+### ['Healthy' dad 'handed death sentence' after struggles swallowing food turned out to be cancer - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
 
 ---
 
@@ -110,6 +126,14 @@ permalink: /news/ipilimumab/
 
 ---
 
+### [Fife mum reveals the breast cancer symptom she almost ignored - The Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxON08xbUxtYk1qSUdmcUtQVnhvaGFYVDFpLXpvbVY2SEJIOEdtVTdpMHJSZXlqbXFlS0JyVm9NSU1DOFhpaGxmM1ZXNWN1ZUNkV0NnSnV5Ujh1dFduWEx2ckt6a21JdGVMWF9Jd3dhQUZBZHN0bnJrbjlPbFhjZHhLdDlCMGotaHNIZmxQd09YUzEwSlN4VEZZM1I4QQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxON08xbUxtYk1qSUdmcUtQVnhvaGFYVDFpLXpvbVY2SEJIOEdtVTdpMHJSZXlqbXFlS0JyVm9NSU1DOFhpaGxmM1ZXNWN1ZUNkV0NnSnV5Ujh1dFduWEx2ckt6a21JdGVMWF9Jd3dhQUZBZHN0bnJrbjlPbFhjZHhLdDlCMGotaHNIZmxQd09YUzEwSlN4VEZZM1I4QQ?oc=5)
+
+---
+
 ### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0JSeGRUSDJyX0tIYnZTS0tXV1ZaVnc3ZE9PRG5pQTRfekctZTE4WUNzaWFyUlJfTUkyMTh3YUJ0dVQ4cTA2R1AwWUxxOFJFWG9QTFk2VWtXWEJXUWVjekZZTjNVdUVZMGhCRl9nWFAzY2hvTmRmczBhT01XenJYcFUzdGNkQWVYRXlHWDQwTXpYV3pGMXVJVnNfX2IwYk9odXhKdkdXQndRNzFmcFVVVFZXckpVSzMydjhTTmFaN28?oc=5)
 
 2026-07-04 <span class="news-indication-tag">Krebs</span>
@@ -155,6 +179,14 @@ permalink: /news/ipilimumab/
 2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
+
+---
+
+### [Cet hôpital lyonnais inaugure une technologie révolutionnaire pour traiter certains cancers debout - Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
 
 ---
 
@@ -227,22 +259,6 @@ permalink: /news/ipilimumab/
 2026-07-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDNjRHBVMjJSUHB0MVFyM3ZzMjZUMWtMdnNYNmtCOTBReUN3QXI4QjQ5SGN5clQzRDM4YmNCbjZJSU9rVXNLVk41ai00MTBzbzI4SGdiQVlvMklzZDlPQ3g3VzdYUTNmV2tsVERfbTdYLUE1NWFKb25XSGxiVExRMWRIR0RXMDdlRXNTQlBESFJNcTQwNTE5dGYwQzFqM1hOcl81bjV3?oc=5)
-
----
-
-### ["Cela concerne les gens qui ont cette habitude depuis des mois" : un médecin juge cette boisson responsable de certains cancers (et ce n'est pas l'alcool) - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
-
----
-
-### [Sitting for more than 30 minutes at a time linked to higher risk of cancer death - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dimethyl-fumarate/
 ---
 
 <p class="key-answer" data-question="Dimethyl Fumarate 有什麼相關新聞？">
-<strong>Dimethyl Fumarate</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dimethyl Fumarate</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/dimethyl-fumarate/
 <p><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（35 則）
+
+### [Le bronzage est-il devenu gênant ? Le témoignage d'un dermatologue : "Le soleil belge demande aussi d'être prudent" - La Libre.be](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHVaZ0RuVE0zdTh4LTc2UHRBazBLM3lVTWRrU0hlX2RrVWVUSUFCVFg4b3k1NWE5RlFaNzAwVVpuU2VjcnphaW44LWxibFkzZUFTQ0h0eGtSNEpEYUlzS0ZiVGlpYno5YVVQUUtKaWJoTzZOZTQyeUpFY3JUYzl4VS1rdEZPY0pnTktsWkpQZ0ZjY25MaHd2UUw3RUdmYlBmTEZWMHlHMFpPWDRUS25BdlE2T1dULVViT0dMX0RfRTBHNkhONGdVVExOWEhabFF1bXNhc1J5cDdqWmNNSzFIUnVMWWthejRxR0NVcDB4RGhuMXZ0ZmdzTjVlTDBEbWNENkY2dExWSWNlSFRHUUxPU05R?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHVaZ0RuVE0zdTh4LTc2UHRBazBLM3lVTWRrU0hlX2RrVWVUSUFCVFg4b3k1NWE5RlFaNzAwVVpuU2VjcnphaW44LWxibFkzZUFTQ0h0eGtSNEpEYUlzS0ZiVGlpYno5YVVQUUtKaWJoTzZOZTQyeUpFY3JUYzl4VS1rdEZPY0pnTktsWkpQZ0ZjY25MaHd2UUw3RUdmYlBmTEZWMHlHMFpPWDRUS25BdlE2T1dULVViT0dMX0RfRTBHNkhONGdVVExOWEhabFF1bXNhc1J5cDdqWmNNSzFIUnVMWWthejRxR0NVcDB4RGhuMXZ0ZmdzTjVlTDBEbWNENkY2dExWSWNlSFRHUUxPU05R?oc=5)
+
+---
 
 ### ['Pebble poos' can mean dementia & ‘pencil poos’ cancer…number 2s to NEVER ignore - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
 
 2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
+
+---
+
+### ['Healthy' dad 'handed death sentence' after struggles swallowing food turned out to be cancer - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
 
 ---
 
@@ -110,14 +126,6 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [We’ve stopped arguing about Brexit – we’re arguing about weight-loss drugs instead - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
-
----
-
 ### [Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
 
 2026-07-04 <span class="news-indication-tag">cancer</span>
@@ -147,6 +155,14 @@ permalink: /news/dimethyl-fumarate/
 2026-07-04 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
+
+---
+
+### [Fife mum reveals the breast cancer symptom she almost ignored - The Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxON08xbUxtYk1qSUdmcUtQVnhvaGFYVDFpLXpvbVY2SEJIOEdtVTdpMHJSZXlqbXFlS0JyVm9NSU1DOFhpaGxmM1ZXNWN1ZUNkV0NnSnV5Ujh1dFduWEx2ckt6a21JdGVMWF9Jd3dhQUZBZHN0bnJrbjlPbFhjZHhLdDlCMGotaHNIZmxQd09YUzEwSlN4VEZZM1I4QQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxON08xbUxtYk1qSUdmcUtQVnhvaGFYVDFpLXpvbVY2SEJIOEdtVTdpMHJSZXlqbXFlS0JyVm9NSU1DOFhpaGxmM1ZXNWN1ZUNkV0NnSnV5Ujh1dFduWEx2ckt6a21JdGVMWF9Jd3dhQUZBZHN0bnJrbjlPbFhjZHhLdDlCMGotaHNIZmxQd09YUzEwSlN4VEZZM1I4QQ?oc=5)
 
 ---
 
@@ -198,11 +214,11 @@ permalink: /news/dimethyl-fumarate/
 
 ---
 
-### [Man unable to walk after being infected with flesh-eating bacteria as wife blames simple bug bite & fears July 4 spike - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
+### [Cet hôpital lyonnais inaugure une technologie révolutionnaire pour traiter certains cancers debout - Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
 
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-03 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
+來源：[Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
 
 ---
 
@@ -227,6 +243,14 @@ permalink: /news/dimethyl-fumarate/
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFvWUtrcnhkRzlvR1FyT3M5LWwxOExDSWxJWmc3X1RWOUxUT0pDU3VnWlJFRENuNldJNC1zM084c1BTYWdnZ0l4Z3hHa1dyMlFMZ1oxNklUX25oUjdJMVJMZU02ZEZZLTdKdm1sSnlhWnhGUVlYVkRKTVRmS1hHTXdncXFWWmFvTEZtRDIxWUhYV1NzMlZGRF9sUXdtMTEzYjQ4Z3A1OTEzY3p2aHhZUVQzNzJfYWJDeEsydEZDY0lhVk1hMVZKbGtOYjVoamlQYjl5MW5RTnNRazdUNzJmbjF2TmRQdHAyZC1hdGlGOUgxQXFVSWk4aUtDZ0xxcUNuRHFGWnFNeUQ5RG5sZ3o4a25mbEVNSENP?oc=5)
+
+---
+
+### [Memory Loss May Not Be the Earliest Sign of Alzheimer’s - Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
 
 ---
 
@@ -264,7 +288,7 @@ permalink: /news/dimethyl-fumarate/
 
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
@@ -307,22 +331,6 @@ permalink: /news/dimethyl-fumarate/
 2026-07-03 <span class="news-indication-tag">MS</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
-
----
-
-### ["Cela concerne les gens qui ont cette habitude depuis des mois" : un médecin juge cette boisson responsable de certains cancers (et ce n'est pas l'alcool) - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
-
----
-
-### [Sitting for more than 30 minutes at a time linked to higher risk of cancer death - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
 
 ---
 

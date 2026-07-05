@@ -14,7 +14,7 @@ permalink: /news/tremelimumab/
 ---
 
 <p class="key-answer" data-question="Tremelimumab 有什麼相關新聞？">
-<strong>Tremelimumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tremelimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/tremelimumab/
 <p><a href="{{ '/drugs/tremelimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Metabolisches Syndrom: Gezieltes Training senkt Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+### [Krafttraining: 30 Minuten pro Woche senken Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
 
-2026-07-04 <span class="news-indication-tag">diabetes</span>
+2026-07-04 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGcyck85dUNFMHpRdWdEeFdxQlRmZW1wZXBpTk5kTjlLTmJjcFlkdVlFcmlDVXZzd0tILWJVZmk5WloxV2o2U21vZUNMR2FaUWJOZUNCTHVZOG5vc29JWlJoSWhGUWNNMTFfNEFNLTRWd0FLN253TE1tN0dwSi05R0JWQVFPLVU5NG5XZlQxUWpaTmlyTW80X1RlcWVlYnF0WkxmWG1vdUZRTUNSbEVxYTJSaFRIXy1w?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
 
 ---
 
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+### [Diabetes-Medikamente senken Alzheimer-Risiko: neue Studien, Antikörper & Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnhGbWFuRnI4d0dGazlyWExpUW56TzdYLXVUNE1ZbTVuRmF6YlZ2TUt4ckNxczR4clpiYjJNX24wYmc5NTVVRzJGSzVoR3FBSkFuUkZ2S0NvRE1ta2FzYlBnNTRRcUp5S3FvQy1XUmpKTXBXUElMSGYtWENZcEIyRERKbm9xRjNWQjRxbkRvdHhTcFJhLTRJR193bVZyT1ZZVVNLZ2hmLUluTmQtSGlrQ0VB?oc=5)
 
 2026-07-04 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19hR1RldWtOWjNIWHVsTzhHaS1peDV6SG9EbG8tUTFBbEVPT1RCQlZUU18wRUNIQWZoQnZ0U3RTcXBFSlFRdU5hREhFcUNrQkNKRUNnUkRqOTI4UmpURnY2MG1QTld0VHI2Vld5SWw1ME5DZ09DYUhza2pQUDRCYkg2cVJWYk1uTV9oOTRzZFVWUnk4Qm5pODdVMzZqbzlJQ2Jrd3JwWndxWEtPQW9ocFVsTURXRVk?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnhGbWFuRnI4d0dGazlyWExpUW56TzdYLXVUNE1ZbTVuRmF6YlZ2TUt4ckNxczR4clpiYjJNX24wYmc5NTVVRzJGSzVoR3FBSkFuUkZ2S0NvRE1ta2FzYlBnNTRRcUp5S3FvQy1XUmpKTXBXUElMSGYtWENZcEIyRERKbm9xRjNWQjRxbkRvdHhTcFJhLTRJR193bVZyT1ZZVVNLZ2hmLUluTmQtSGlrQ0VB?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/tremelimumab/
 
 ---
 
-### [Identifican un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de diabetes y obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
+### [Diabetes-Umkehr: Prädiabetes-Behandlung senkt Herzinfarkt-Risiko um 58%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
 
-2026-07-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-04 <span class="news-indication-tag">diabetes</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbndkMTVfby1leEs5b3lLaVU2TDFPd0pYeERZNzVwUU5TY2VfZ3pEbnAwQ2RZMkNWR2lyQWpJMFJKbzY2WXBJOG1EUTdnMnZ5ZGMzRTVRalkwdDVWT3Q5LXZnNkduck0yTnNsX3d3MUVDQ2pZNFBXd01kd3pvdm9iRkU0T0YxemlOd3R4MFFzd29lc2xQNkNnNGlxQXZhYUN2TGNKN2FOZjJUZFViMURXSHF2bkhaZFRJcjRXdmtmbl9lREtNSWJoT3pBRTRlRUVEbi1FUndnVVBVZFlvZ25pcmFScXdFQ28yclJCUzRST3E?oc=5)
-
----
-
-### [Typ-1-Diabetes: 16 Millionen Zellen enthüllen kritische Immun-Marker](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
-
-2026-07-02 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FoUWxyQ1YyTmJ3dEVlcDZRSGllaFdBMnZBWTAzTThvdHhYNlNiby03elA4Um90QXNOSVFJRUl1WUpFb3hfZmtrYjBFd2ZtZ1pMUlFZbE52QTVRYk5nYnFZeUk4YkJ1N2hGcDBNSW9YcE5TcGRTa2RjdkdsQzY5dE41aEZmVFlINGQ3UzJZY3VxTEptTno3MkU0RmlEWGQ0emh6d3hWS1M1Vk5GWFk1eW1HSUl3UnBE?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
 
 ---
 

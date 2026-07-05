@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### ['Healthy' dad 'handed death sentence' after struggles swallowing food turned out to be cancer - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
+
+---
 
 ### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/grazoprevir/
 2026-07-04 <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
----
-
-### [We’ve stopped arguing about Brexit – we’re arguing about weight-loss drugs instead - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
 
 ---
 
@@ -102,25 +102,17 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [El cribado del cáncer de hígado solo llega al 28% de los pacientes con VIH y hepatitis B que lo necesitan](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
+### [Memory Loss May Not Be the Earliest Sign of Alzheimer’s - Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
 
-2026-07-03 <span class="news-indication-tag">hepatitis</span>
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
----
-
-### [Man unable to walk after being infected with flesh-eating bacteria as wife blames simple bug bite & fears July 4 spike - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
+來源：[Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
 
 ---
 
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 

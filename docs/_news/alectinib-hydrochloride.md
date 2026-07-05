@@ -14,7 +14,7 @@ permalink: /news/alectinib-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Alectinib Hydrochloride 有什麼相關新聞？">
-<strong>Alectinib Hydrochloride</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alectinib Hydrochloride</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/alectinib-hydrochloride/
 <p><a href="{{ '/drugs/alectinib-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（30 則）
+## 相關新聞（32 則）
+
+### [Le bronzage est-il devenu gênant ? Le témoignage d'un dermatologue : "Le soleil belge demande aussi d'être prudent" - La Libre.be](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHVaZ0RuVE0zdTh4LTc2UHRBazBLM3lVTWRrU0hlX2RrVWVUSUFCVFg4b3k1NWE5RlFaNzAwVVpuU2VjcnphaW44LWxibFkzZUFTQ0h0eGtSNEpEYUlzS0ZiVGlpYno5YVVQUUtKaWJoTzZOZTQyeUpFY3JUYzl4VS1rdEZPY0pnTktsWkpQZ0ZjY25MaHd2UUw3RUdmYlBmTEZWMHlHMFpPWDRUS25BdlE2T1dULVViT0dMX0RfRTBHNkhONGdVVExOWEhabFF1bXNhc1J5cDdqWmNNSzFIUnVMWWthejRxR0NVcDB4RGhuMXZ0ZmdzTjVlTDBEbWNENkY2dExWSWNlSFRHUUxPU05R?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHVaZ0RuVE0zdTh4LTc2UHRBazBLM3lVTWRrU0hlX2RrVWVUSUFCVFg4b3k1NWE5RlFaNzAwVVpuU2VjcnphaW44LWxibFkzZUFTQ0h0eGtSNEpEYUlzS0ZiVGlpYno5YVVQUUtKaWJoTzZOZTQyeUpFY3JUYzl4VS1rdEZPY0pnTktsWkpQZ0ZjY25MaHd2UUw3RUdmYlBmTEZWMHlHMFpPWDRUS25BdlE2T1dULVViT0dMX0RfRTBHNkhONGdVVExOWEhabFF1bXNhc1J5cDdqWmNNSzFIUnVMWWthejRxR0NVcDB4RGhuMXZ0ZmdzTjVlTDBEbWNENkY2dExWSWNlSFRHUUxPU05R?oc=5)
+
+---
 
 ### ['Pebble poos' can mean dementia & ‘pencil poos’ cancer…number 2s to NEVER ignore - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/alectinib-hydrochloride/
 
 ---
 
-### [¿Podríamos habernos equivocado sobre el aceite de pescado y la salud cerebral? Un nuevo estudio plantea importantes interrogantes - La Razón](https://news.google.com/rss/articles/CBMijgJBVV95cUxORV9INjVucUVoWUFsaVlrTDVrZGtoWHZtS0NPNndUWFRKQ0thTmxWcVFQZWFfNElEWS1NUS02M3BkV0RoWmV3Vnp3SGZuU2wta2l3MGZqYTl6YUR0VEZ1UWpoaXMwTUtUdWtpckZzVTltQTg4amJFbTB6VDkzUGRHeWNYTHRmOTc5UDNhRkZEbHB1bDBtSXlOdDYwV1lwTEctbXFaZURieV9UUTdYLVJLOFBwa3BhR2xZbGdlRzQwNVBEcmtPSHE3aVpKN0U4Wld1eTZrZ2V2NG5DTlZEcktBdVFLaXF1TW10U2V0V0RuWEQ1SUU5SzBuMFpuMEtfN3psSnVoeWxFT3VpVUxPMXfSAaICQVVfeXFMTmhvVEVxaURaaHBiXzdfOTQ2WUppX0lSbXBCNUFkdC0tWDlocjlPanB1QnlWUzcwWGdlelo2VzN4eUNhSXhSZWI0X1BBSU1ROXY3X1NjbTVrLVdtM3hwa3V4bzk4Umc1Ny03S2UySmhvQjdza3pnMlpiUFRvQ1Fzc3hlSWsyMTRISU1QOGpoRW5SMENzUWo2TlpuZU5qWFI2VnJRdmZ6blQ4aEhKMVdrVE5icjktREQwY252QUtkTmdzQUd6aktUMFotZ2xJc0dDel9hQzNsOU16S2V0dzlCakFJV3hnaUNGQVUtTjNBZ1hmVXF4a2M3LXk1RW9WNndSeVdyODZQQjZhMmM3RmVQR3lUeWZZOWNHclZIbWo4UHhZTlE?oc=5)
+### ['Healthy' dad 'handed death sentence' after struggles swallowing food turned out to be cancer - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
 
-2026-07-04 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMijgJBVV95cUxORV9INjVucUVoWUFsaVlrTDVrZGtoWHZtS0NPNndUWFRKQ0thTmxWcVFQZWFfNElEWS1NUS02M3BkV0RoWmV3Vnp3SGZuU2wta2l3MGZqYTl6YUR0VEZ1UWpoaXMwTUtUdWtpckZzVTltQTg4amJFbTB6VDkzUGRHeWNYTHRmOTc5UDNhRkZEbHB1bDBtSXlOdDYwV1lwTEctbXFaZURieV9UUTdYLVJLOFBwa3BhR2xZbGdlRzQwNVBEcmtPSHE3aVpKN0U4Wld1eTZrZ2V2NG5DTlZEcktBdVFLaXF1TW10U2V0V0RuWEQ1SUU5SzBuMFpuMEtfN3psSnVoeWxFT3VpVUxPMXfSAaICQVVfeXFMTmhvVEVxaURaaHBiXzdfOTQ2WUppX0lSbXBCNUFkdC0tWDlocjlPanB1QnlWUzcwWGdlelo2VzN4eUNhSXhSZWI0X1BBSU1ROXY3X1NjbTVrLVdtM3hwa3V4bzk4Umc1Ny03S2UySmhvQjdza3pnMlpiUFRvQ1Fzc3hlSWsyMTRISU1QOGpoRW5SMENzUWo2TlpuZU5qWFI2VnJRdmZ6blQ4aEhKMVdrVE5icjktREQwY252QUtkTmdzQUd6aktUMFotZ2xJc0dDel9hQzNsOU16S2V0dzlCakFJV3hnaUNGQVUtTjNBZ1hmVXF4a2M3LXk1RW9WNndSeVdyODZQQjZhMmM3RmVQR3lUeWZZOWNHclZIbWo4UHhZTlE?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
 
 ---
 
@@ -123,6 +131,14 @@ permalink: /news/alectinib-hydrochloride/
 2026-07-04 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
+
+---
+
+### [Fife mum reveals the breast cancer symptom she almost ignored - The Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxON08xbUxtYk1qSUdmcUtQVnhvaGFYVDFpLXpvbVY2SEJIOEdtVTdpMHJSZXlqbXFlS0JyVm9NSU1DOFhpaGxmM1ZXNWN1ZUNkV0NnSnV5Ujh1dFduWEx2ckt6a21JdGVMWF9Jd3dhQUZBZHN0bnJrbjlPbFhjZHhLdDlCMGotaHNIZmxQd09YUzEwSlN4VEZZM1I4QQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Courier](https://news.google.com/rss/articles/CBMimwFBVV95cUxON08xbUxtYk1qSUdmcUtQVnhvaGFYVDFpLXpvbVY2SEJIOEdtVTdpMHJSZXlqbXFlS0JyVm9NSU1DOFhpaGxmM1ZXNWN1ZUNkV0NnSnV5Ujh1dFduWEx2ckt6a21JdGVMWF9Jd3dhQUZBZHN0bnJrbjlPbFhjZHhLdDlCMGotaHNIZmxQd09YUzEwSlN4VEZZM1I4QQ?oc=5)
 
 ---
 
@@ -190,6 +206,14 @@ permalink: /news/alectinib-hydrochloride/
 
 ---
 
+### [Cet hôpital lyonnais inaugure une technologie révolutionnaire pour traiter certains cancers debout - Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
+
+2026-07-03 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Bonbon](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2NTR1JuYXdnOS14NFEyOG9EVGdSYlRoeVVwZ2JnOFJfZThLSlpINE9EY1VyOUJ4aGQyUm5YbktpbExBeXE3VGN1U0pIb1padFNoR1lTc2ZxdjNiSnUwMEl5Nkx4QjV6WXJIdEEtcVU5YXVpZklwOUVuZ3hPb3BRbWRHT0xBMVh3Z0w4YUs4cm1PQzZKNC1FS25yc0JHUVI5YVlPQzB0bXBtX1U?oc=5)
+
+---
+
 ### ["España necesita inversión para desarrollar vacunas personalizadas con IA" - Redacción Médica](https://news.google.com/rss/articles/CBMizAFBVV95cUxQajFxVDN5VUJuMW1oOEl4LXRoRUp6dVN2VWowMENfUjBzRy1iWEZKQkhrbWdxd2M4aDEyNUozRHFkTVFHY1J2U1duSldBNmpMN0dJWkw5QjJBdWoxNzBzVlVLZ1kwTmZkSmptRjE1OUt2dktZMVhFcFUzZDdkcGxqelNNNVNLUGg4b3NwZ3dTRFUyWmlJUHpGOE9ycEt2V2ZMMlBXblY4RXdFOXlMWWxtenk5MFBmX005VGlyRGx2dE5UYjhpZm1EOHRERi0?oc=5)
 
 2026-07-03 <span class="news-indication-tag">tumor</span>
@@ -211,6 +235,14 @@ permalink: /news/alectinib-hydrochloride/
 2026-07-03 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFvWUtrcnhkRzlvR1FyT3M5LWwxOExDSWxJWmc3X1RWOUxUT0pDU3VnWlJFRENuNldJNC1zM084c1BTYWdnZ0l4Z3hHa1dyMlFMZ1oxNklUX25oUjdJMVJMZU02ZEZZLTdKdm1sSnlhWnhGUVlYVkRKTVRmS1hHTXdncXFWWmFvTEZtRDIxWUhYV1NzMlZGRF9sUXdtMTEzYjQ4Z3A1OTEzY3p2aHhZUVQzNzJfYWJDeEsydEZDY0lhVk1hMVZKbGtOYjVoamlQYjl5MW5RTnNRazdUNzJmbjF2TmRQdHAyZC1hdGlGOUgxQXFVSWk4aUtDZ0xxcUNuRHFGWnFNeUQ5RG5sZ3o4a25mbEVNSENP?oc=5)
+
+---
+
+### [Memory Loss May Not Be the Earliest Sign of Alzheimer’s - Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
+
+2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
 
 ---
 
@@ -248,7 +280,7 @@ permalink: /news/alectinib-hydrochloride/
 
 ### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
 
@@ -275,22 +307,6 @@ permalink: /news/alectinib-hydrochloride/
 2026-07-03 <span class="news-indication-tag">tumor</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDNjRHBVMjJSUHB0MVFyM3ZzMjZUMWtMdnNYNmtCOTBReUN3QXI4QjQ5SGN5clQzRDM4YmNCbjZJSU9rVXNLVk41ai00MTBzbzI4SGdiQVlvMklzZDlPQ3g3VzdYUTNmV2tsVERfbTdYLUE1NWFKb25XSGxiVExRMWRIR0RXMDdlRXNTQlBESFJNcTQwNTE5dGYwQzFqM1hOcl81bjV3?oc=5)
-
----
-
-### ["Cela concerne les gens qui ont cette habitude depuis des mois" : un médecin juge cette boisson responsable de certains cancers (et ce n'est pas l'alcool) - Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUExY25HZDRJcXd2eUtzdktvV3FPM1VXa3lHUDF0NDRsUDh0bFdrSXF0NzEyUHowamZlNEVFTWh4Tkx6bHNaenNsdUhKTkpoMXBMMHdCT3licC1xUkRUM3l0TzZWTjVsMFdQdkUyTloyQlFXb3pvYjEzZDk0OHdEVnlR?oc=5)
-
----
-
-### [Sitting for more than 30 minutes at a time linked to higher risk of cancer death - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
-
-2026-07-02 <span class="news-indication-tag">cancer</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="Posaconazole 有什麼相關新聞？">
-<strong>Posaconazole</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Posaconazole</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/posaconazole/
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（16 則）
+
+### [Hautpflaster mit 10.000 Transistoren: KI erkennt Herzinfarkt-Risiko zu 83%](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUlsQjJFV1Mxd29zT3c3WThGMDdxYUFBNGVwSFVVSzFzc1M4R0U0dDktT0IzdDI2TVVrSTZDWThtdmNTTTFFSEg3bktiQVdDbWp0VURjM3poLXZBOFp5MlBnYlJJWXdJTDJKbFdsZk1QbFhOc29zZ2V5UktTMHFDM3RNVG9IaHdPOW5RNmlRZmZKQUNfQ2lEVzlyVGhDWjQ1M2ZFcmxsNEdLeXVTMFVHcFZLdGk5d3BDZm1fVXR3?oc=5)
+
+2026-07-05 <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUlsQjJFV1Mxd29zT3c3WThGMDdxYUFBNGVwSFVVSzFzc1M4R0U0dDktT0IzdDI2TVVrSTZDWThtdmNTTTFFSEg3bktiQVdDbWp0VURjM3poLXZBOFp5MlBnYlJJWXdJTDJKbFdsZk1QbFhOc29zZ2V5UktTMHFDM3RNVG9IaHdPOW5RNmlRZmZKQUNfQ2lEVzlyVGhDWjQ1M2ZFcmxsNEdLeXVTMFVHcFZLdGk5d3BDZm1fVXR3?oc=5)
+
+---
+
+### [Krafttraining: 30 Minuten pro Woche senken Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
+
+2026-07-04 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
+
+---
+
+### [EDHD-Modell: Koffein und L-Theanin als ADHS-Alternative statt Methylphenidat - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNZeTNESXZRR0lZTHRLVDdLRG80NEZ0NWhKSGJOVGZTRHVGb1JYMTVTSXJ2dEphdDhCX05tN1VTeWtzUGJSV2NlZFIzTG5hd1VnY2tUZHFaZ2diTEdnVHhBbXdKcEJ4VXFnZVo0RFgwbmN6NjRRZklLZjdkanpCQkVkam96RGxUNG85SVpteWdhRW9YZG1jWFZHT2liUV92ckRKcVhjSmZTMUk?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNZeTNESXZRR0lZTHRLVDdLRG80NEZ0NWhKSGJOVGZTRHVGb1JYMTVTSXJ2dEphdDhCX05tN1VTeWtzUGJSV2NlZFIzTG5hd1VnY2tUZHFaZ2diTEdnVHhBbXdKcEJ4VXFnZVo0RFgwbmN6NjRRZklLZjdkanpCQkVkam96RGxUNG85SVpteWdhRW9YZG1jWFZHT2liUV92ckRKcVhjSmZTMUk?oc=5)
+
+---
 
 ### [Cholesterin, Entzündungen, Schlaf: Diese sechs Säfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlBhdk9OeUhlUHNwZzVqX2hicUtqUndCQ21sWmV3XzQyRkg5ODFETHF0Q1Jhemswbm01dF9CUmtDSDI0TV9OQjZXYVFLQ0FBQXpGY0Q1Ukgta3NFc0dyS1FEYVhvVDgxcWYzZlFWdUhQNlhWWTlYaW5zZlpvT3RkLWpTUl9qa1p2SG5XRVNHdkFVX3VkU0s0SWJydW9vbFFtNG9EazJMYWhmdEZUVVk3NDRpQzNDMTZyTUdB?oc=5)
 
 2026-07-04 <span class="news-indication-tag">AF</span>
 
 來源：[24vita](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlBhdk9OeUhlUHNwZzVqX2hicUtqUndCQ21sWmV3XzQyRkg5ODFETHF0Q1Jhemswbm01dF9CUmtDSDI0TV9OQjZXYVFLQ0FBQXpGY0Q1Ukgta3NFc0dyS1FEYVhvVDgxcWYzZlFWdUhQNlhWWTlYaW5zZlpvT3RkLWpTUl9qa1p2SG5XRVNHdkFVX3VkU0s0SWJydW9vbFFtNG9EazJMYWhmdEZUVVk3NDRpQzNDMTZyTUdB?oc=5)
-
----
-
-### [ADHS: Wirkstoffe aus Kaffee & Tee helfen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3YlMxMGkySWgzbkFrVEEwS3VNWHp6d2VLT2E5VFNpclFIdWFzWEZpdFZ5NTJOU3FNa2diU1ZObmFOZklIZzZZajFUbFdjdFRzMDZNdFJxTUJlSC1kTFh6bDhCaHNLTDktNEFBRHBTR0Z0eUdMV192dlpPanZVUGtOeWRrTDFYRFdqV3NRbjRHNWJFcWRpRU1mUF9BaWs?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWg3YlMxMGkySWgzbkFrVEEwS3VNWHp6d2VLT2E5VFNpclFIdWFzWEZpdFZ5NTJOU3FNa2diU1ZObmFOZklIZzZZajFUbFdjdFRzMDZNdFJxTUJlSC1kTFh6bDhCaHNLTDktNEFBRHBTR0Z0eUdMV192dlpPanZVUGtOeWRrTDFYRFdqV3NRbjRHNWJFcWRpRU1mUF9BaWs?oc=5)
 
 ---
 
@@ -78,19 +94,19 @@ permalink: /news/posaconazole/
 
 ---
 
-### [El norovirus vuelve a irrumpir en un crucero con más de 120 infectados - Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX090SDJObERONDB2eXNOaUNjVXd4RmJ6TFkwZm1LR0VsWXVlUllUc0pIRng2QmhFM3h2bjdyNHV1VFNnWVE2ZFBEenl1ZkQzSlRSNy1aaW0yellqb0cxMUhwZGhWQ1dJbF9uRF9ZSUpmNF9TM0NVVTd3Z2xNR1BrTnh0YXY1dG9pcWRESGVhQm9mSHZweDlOd0FhM3ZUcmltWlgyekY1WGszVkdaelFJN3p0OWtpZjlJNTNKd2RmR0xSNnJBOHY4Nw?oc=5)
+### ['Healthy' dad 'handed death sentence' after struggles swallowing food turned out to be cancer - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
 
-2026-07-04 <span class="news-indication-tag">AF</span>
+2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX090SDJObERONDB2eXNOaUNjVXd4RmJ6TFkwZm1LR0VsWXVlUllUc0pIRng2QmhFM3h2bjdyNHV1VFNnWVE2ZFBEenl1ZkQzSlRSNy1aaW0yellqb0cxMUhwZGhWQ1dJbF9uRF9ZSUpmNF9TM0NVVTd3Z2xNR1BrTnh0YXY1dG9pcWRESGVhQm9mSHZweDlOd0FhM3ZUcmltWlgyekY1WGszVkdaelFJN3p0OWtpZjlJNTNKd2RmR0xSNnJBOHY4Nw?oc=5)
+來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
 
 ---
 
-### [Extremadura roza el 80% en el cribado de cáncer de mama con uno de los mejores datos de España - El Periódico Extremadura](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUhOYzltb1VZR1ZCM0xxVWNvODZkQzBGUEFVZkttRi1pTVlJanpydzNqand5VWZpM1JRSGJyeDQ4Tkl4bTFqV1cxVFpjUXhlVUR3ZG1GZngtMTFTSlRqZnZEZGx1UFBPbXN4SmRXRld6NzZ6Y1VYRDlselA3RlpWRjB3SnQzMzlqa3N4TXRqSVBzeDlERXM4b3daNWI3STlPdzZNYUx0TGMwdmRnTE0tSzhQUVYzbHdKY2YzYVo1djlUVkhYT1Nfbm1DT2gyQdIB0wFBVV95cUxNbHEwOFowUzVFTjhFLUtqMk1yY3VYR0hCTVUxZkpjS1Y2R0pORjQ4SVdtcjhoeldaSWs3NzhoNDJaSnlVaGg2MGtid1VqWVNLYWFfUE1QSGYzaENzS3BvNzVraVBHVk13cVBJLUw3dWIzeG92eW0yeGU4Qm1IZ2xNR3pBM1dCbjZPWEtWY2R6X0VJTkxCRElVdzBLTFBEcEh0eU5lV3JXX21lNVJ1VzdiWkZLazVsVU1vTnNXaW1Ya1R5OW9rZVNFM25FZ2l0NmgtNV93?oc=5)
+### [Ce sérum solaire noté 100/100 sur Yuka protège la peau tout en aidant à obtenir un bronzage uniforme](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSDdMRVRocXdndHlYQVR5ekVxcTN6NmZQV05KVEJfS2w3ano3RDVGd2NDY0FTSmRNUThiWXBYVm40N0dfazRvcTRxSXlScFZfT3d3aExiZHFuX0lwVVhkZmxnSHZwUF9nd1lHLXRjelVkSmlLWU0wMnd2TmQyOXdmWWptdUJXT3VRMWF2Mkl2M2puRFdTajFHYjdFX1pjdXAxdUhEVXhqMHI2aENIbVpIRzQ4ZktjRVBLVzE2OWNWeng2WmRIN01wUDRnZ0hDeVhUdTV6RzhNR0oxdlE?oc=5)
 
 2026-07-04 <span class="news-indication-tag">AF</span>
 
-來源：[El Periódico Extremadura](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUhOYzltb1VZR1ZCM0xxVWNvODZkQzBGUEFVZkttRi1pTVlJanpydzNqand5VWZpM1JRSGJyeDQ4Tkl4bTFqV1cxVFpjUXhlVUR3ZG1GZngtMTFTSlRqZnZEZGx1UFBPbXN4SmRXRld6NzZ6Y1VYRDlselA3RlpWRjB3SnQzMzlqa3N4TXRqSVBzeDlERXM4b3daNWI3STlPdzZNYUx0TGMwdmRnTE0tSzhQUVYzbHdKY2YzYVo1djlUVkhYT1Nfbm1DT2gyQdIB0wFBVV95cUxNbHEwOFowUzVFTjhFLUtqMk1yY3VYR0hCTVUxZkpjS1Y2R0pORjQ4SVdtcjhoeldaSWs3NzhoNDJaSnlVaGg2MGtid1VqWVNLYWFfUE1QSGYzaENzS3BvNzVraVBHVk13cVBJLUw3dWIzeG92eW0yeGU4Qm1IZ2xNR3pBM1dCbjZPWEtWY2R6X0VJTkxCRElVdzBLTFBEcEh0eU5lV3JXX21lNVJ1VzdiWkZLazVsVU1vTnNXaW1Ya1R5OW9rZVNFM25FZ2l0NmgtNV93?oc=5)
+來源：[Melty](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSDdMRVRocXdndHlYQVR5ekVxcTN6NmZQV05KVEJfS2w3ano3RDVGd2NDY0FTSmRNUThiWXBYVm40N0dfazRvcTRxSXlScFZfT3d3aExiZHFuX0lwVVhkZmxnSHZwUF9nd1lHLXRjelVkSmlLWU0wMnd2TmQyOXdmWWptdUJXT3VRMWF2Mkl2M2puRFdTajFHYjdFX1pjdXAxdUhEVXhqMHI2aENIbVpIRzQ4ZktjRVBLVzE2OWNWeng2WmRIN01wUDRnZ0hDeVhUdTV6RzhNR0oxdlE?oc=5)
 
 ---
 
@@ -110,43 +126,11 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Couple denied NHS IVF because mum-to-be is 'too skinny' seek public's help - Hull Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTi1FMGZ3dHFEOTN6d0xqeGdyMXRmbnNZTmpXZnktTDEyMnFKNlZuTW5nMTFUSVpMeHpZRDF4Q2lPOTF0VjhaQnRLOVN6NTA4RUE0SUZsQVpLb0tFZ1c0Zm1lQVZBWVBoYkRvQkxZdEozbzJVcFNKamU4dFhiRVRCTFR6bWlhbHU0MTJkc09xUlBQSkdYTzlNMVIyTFlrU2FIM0HSAacBQVVfeXFMUHg0RzJQOFNIN1A5M2RUckYtck1GUy12Q2VwajZ3c1hMSlNXOGViSXU3dWdWbDczWlZJRGtmVVNjUlUyanJMZTBoNWNwV1dJVlJ5SE1yd1U2VWRaQ3F5eFNlVnNRNVNJcU1KaC1TdVhwY3FvMWRIY2QwY0xaZURyTDF6RTRpUE9MSWpYcDZLeXVfZEVxVWUxUmZCeUJqLUQ1UEt1NTluM2M?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[Hull Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTi1FMGZ3dHFEOTN6d0xqeGdyMXRmbnNZTmpXZnktTDEyMnFKNlZuTW5nMTFUSVpMeHpZRDF4Q2lPOTF0VjhaQnRLOVN6NTA4RUE0SUZsQVpLb0tFZ1c0Zm1lQVZBWVBoYkRvQkxZdEozbzJVcFNKamU4dFhiRVRCTFR6bWlhbHU0MTJkc09xUlBQSkdYTzlNMVIyTFlrU2FIM0HSAacBQVVfeXFMUHg0RzJQOFNIN1A5M2RUckYtck1GUy12Q2VwajZ3c1hMSlNXOGViSXU3dWdWbDczWlZJRGtmVVNjUlUyanJMZTBoNWNwV1dJVlJ5SE1yd1U2VWRaQ3F5eFNlVnNRNVNJcU1KaC1TdVhwY3FvMWRIY2QwY0xaZURyTDF6RTRpUE9MSWpYcDZLeXVfZEVxVWUxUmZCeUJqLUQ1UEt1NTluM2M?oc=5)
-
----
-
-### [Un estudio avala los beneficios para el hígado de beber incluso cinco cafés al día - La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDdYZGdETFIxdlBmdWc5WEFoMWEzRi0yaGlPbXMzMEwxQjg2anpJdktqTHZpMUNPTGgyTy1Da3hBU2kyUXZ4cUc5Z3VoOHVFQTZDVE9SdUxOemRCbDNERElMb0pROHNXX1hRZE5PeldsTGEwcFNLbjlkMWJ1R0pFX0NjcXgwcGJJWk0zN3oyeHRDbDREZHZhbjI0eDdidGFIazJwRFdHbGdkSmJuM2xRRGh1UG5LS0RXbGJYaTJ2cjJhVXFNenctc0dycExSeHZ5bmxPb3JZaTdlMGdHTmZYUG9Bc2E4dkdZSDJkT3VheEpvWUpocG9hREVNN04?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDdYZGdETFIxdlBmdWc5WEFoMWEzRi0yaGlPbXMzMEwxQjg2anpJdktqTHZpMUNPTGgyTy1Da3hBU2kyUXZ4cUc5Z3VoOHVFQTZDVE9SdUxOemRCbDNERElMb0pROHNXX1hRZE5PeldsTGEwcFNLbjlkMWJ1R0pFX0NjcXgwcGJJWk0zN3oyeHRDbDREZHZhbjI0eDdidGFIazJwRFdHbGdkSmJuM2xRRGh1UG5LS0RXbGJYaTJ2cjJhVXFNenctc0dycExSeHZ5bmxPb3JZaTdlMGdHTmZYUG9Bc2E4dkdZSDJkT3VheEpvWUpocG9hREVNN04?oc=5)
-
----
-
-### [Malena García Arredondo, experta en salud digestiva: “Tomar algo con amigos en un chiringuito tiene el mismo efecto que un probiótico para la microbiota”](https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmQ5a1dXYk5NQ0NGcjdXUXdlUkg1cWtWNEU1MTNPUGlUX2dZU185NERJblNNZ0VGQldDWUVVVEc1TTlqd2o3LVA3SlZaYkZNYXUxek9lenQtNDlJcVJVcFFzV1VTZThsTEZPTS1iNU01ME9ldl9tMW5KRFQyLTBWak11ME9qMTF5VVZYM2VNU3h1X093Tmtqb0t3WWZ6MGhsY29LRThsaGw5VTZTaDZILWs5SWg1ZnhzdnBuc1NWOWlOakNMRG5LcFdkUXhiT3c0Wk03VzdYUWkyMlFtNG9sN2N3c20xTWhNUHB4aEJ6cGxiOGhjNW1Zb1FHOHRNano20gGGAkFVX3lxTFBmZ2tzeUNucjE1MzN0RVBVcERGTFdGQzMweGVoWDdCck93WFVDdkpRUW1laVk4UEh4cFhxMlhPVG5aQl9JTURMcG8ydnk4YkFaOFhCc2dSSXlELV83OUVXZEJoeGVxS0wtM0w4U2V6RDZtaE5PQ3Y4R0g1eldoRGE1QThwRHVoUTVFQmFLODh4NFE5ck1xam9FWnJTRmlDUWM3M2NocENfRGNHeTBESWMtcXpKdHlwOEhCRTk2WkdtZmx0Z2ZCamlBcTVhUlZuU2lQSEZKeVZPR1FqYkhfbnEyU1ZRd3VBOFZndFFhNGtyTFdEVTFjNld1UHZDUms3dlRZTGhEQnc?oc=5)
+### [Pooling 10 UK studies of 1,252 people, researchers found that exercising outdoors in nature tended to lift mood and self-esteem — with the biggest self-esteem gains from just five minutes, and settings with water outperforming green-only ones - Space Daily](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzZEUTBodzhhUVlXNnFaUy1hR0JUc09MNm9jU2p3dVJIak9waGo3ZXVjNlNNQWhLdXBiaTRpQW0wUktXSTdWQnJleHl4MU8wSVBpRnB5SWZYVnZqVlRZX1A4ZHNFV29kQkxqNWJ0N1pfQXVGRUJkYndSV2pCb1V6VjJxdFJxT1k?oc=5)
 
 2026-07-03 <span class="news-indication-tag">AF</span>
 
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmQ5a1dXYk5NQ0NGcjdXUXdlUkg1cWtWNEU1MTNPUGlUX2dZU185NERJblNNZ0VGQldDWUVVVEc1TTlqd2o3LVA3SlZaYkZNYXUxek9lenQtNDlJcVJVcFFzV1VTZThsTEZPTS1iNU01ME9ldl9tMW5KRFQyLTBWak11ME9qMTF5VVZYM2VNU3h1X093Tmtqb0t3WWZ6MGhsY29LRThsaGw5VTZTaDZILWs5SWg1ZnhzdnBuc1NWOWlOakNMRG5LcFdkUXhiT3c0Wk03VzdYUWkyMlFtNG9sN2N3c20xTWhNUHB4aEJ6cGxiOGhjNW1Zb1FHOHRNano20gGGAkFVX3lxTFBmZ2tzeUNucjE1MzN0RVBVcERGTFdGQzMweGVoWDdCck93WFVDdkpRUW1laVk4UEh4cFhxMlhPVG5aQl9JTURMcG8ydnk4YkFaOFhCc2dSSXlELV83OUVXZEJoeGVxS0wtM0w4U2V6RDZtaE5PQ3Y4R0g1eldoRGE1QThwRHVoUTVFQmFLODh4NFE5ck1xam9FWnJTRmlDUWM3M2NocENfRGNHeTBESWMtcXpKdHlwOEhCRTk2WkdtZmx0Z2ZCamlBcTVhUlZuU2lQSEZKeVZPR1FqYkhfbnEyU1ZRd3VBOFZndFFhNGtyTFdEVTFjNld1UHZDUms3dlRZTGhEQnc?oc=5)
-
----
-
-### [CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBvcDZoUTBLaE9FbDNvLUI2dW92QVJIX01qVzdKNGM0cXJOZkhUdTRHVExfQ1h2SnBQeE4zc3ZfZkp1cDQzN25OOGNOdzNVVUhpYmdyTm5XSFR5Z0k3WHgzUVh4UDV5TzBMTUgwTjJnT1QzY2V6Q3d6ZTBnU2FnSk5ERnBtb1gydHpsRmt1djRHM21YRHZr?oc=5)
-
-2026-07-03 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBvcDZoUTBLaE9FbDNvLUI2dW92QVJIX01qVzdKNGM0cXJOZkhUdTRHVExfQ1h2SnBQeE4zc3ZfZkp1cDQzN25OOGNOdzNVVUhpYmdyTm5XSFR5Z0k3WHgzUVh4UDV5TzBMTUgwTjJnT1QzY2V6Q3d6ZTBnU2FnSk5ERnBtb1gydHpsRmt1djRHM21YRHZr?oc=5)
-
----
-
-### [Man unable to walk after being infected with flesh-eating bacteria as wife blames simple bug bite & fears July 4 spike - The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUzBMdl9wc0ZxakR5djFrY2xBcGttdG9aM253YzJXSW1LN2k5X05pT0FadEVzSm5LcHExa1dTWTVFU09VS2RDS2Jja0ZPbS1sSlc1Z3JuckhYT3pxdU1hVUNORVJTLWJkSUlNMnhKSm13Mnk5c1RxeW80TkFJaGd0WXZRSW1vbkxydXUyTjE1SHc0N1F4ZGhHdWhYZHZ6UkU?oc=5)
+來源：[Space Daily](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzZEUTBodzhhUVlXNnFaUy1hR0JUc09MNm9jU2p3dVJIak9waGo3ZXVjNlNNQWhLdXBiaTRpQW0wUktXSTdWQnJleHl4MU8wSVBpRnB5SWZYVnZqVlRZX1A4ZHNFV29kQkxqNWJ0N1pfQXVGRUJkYndSV2pCb1V6VjJxdFJxT1k?oc=5)
 
 ---
 
@@ -174,19 +158,19 @@ permalink: /news/posaconazole/
 
 ---
 
-### [Vera intensifica las medidas de prevención frente al Virus del Nilo Occidental - Diario de Almería](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWlaYjhPNWNQMkRVR2RKQXRraUdqY1VhX25mX0FvTXRoZXdhRW1uRkpweDlFWmNYb0xzOFNPU2hzVnJ1NnFZZVcwOWVkME44YkxtNU5tajNuY2h6cDJlTldWM3Rzc09oSEEzUHV4NGlSdzlyb2Z2V1JUSmRHQjVEWFJKbFRpcTZGWlZiYWlHS29hRktiMXY3NDU1bnREdW1FWThQOVVaNkxqZ9IBrwFBVV95cUxOaTRPalRycFc5RUpjaDk1YmQzcWsxYkExTDhuSUlMdHVSeGxOdjI4aU5OM1RJOG9zbmd4aEEwTmVETXY4RmFLcTJMR0ZILW5HVXB0NUpVNnAtM1d4Y29BWHpoWVNBWjQ1U1c3Q0VydC1SU2xjSjNqSVJnNVZucWEzNWZyV3ZYWkNMOFcxYzdZZVZsTGc2QTRzNkVGMElPRWVDOHdSZ3ctY1c1am1ud1Jn?oc=5)
-
-2026-07-03 <span class="news-indication-tag">AF</span>
-
-來源：[Diario de Almería](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWlaYjhPNWNQMkRVR2RKQXRraUdqY1VhX25mX0FvTXRoZXdhRW1uRkpweDlFWmNYb0xzOFNPU2hzVnJ1NnFZZVcwOWVkME44YkxtNU5tajNuY2h6cDJlTldWM3Rzc09oSEEzUHV4NGlSdzlyb2Z2V1JUSmRHQjVEWFJKbFRpcTZGWlZiYWlHS29hRktiMXY3NDU1bnREdW1FWThQOVVaNkxqZ9IBrwFBVV95cUxOaTRPalRycFc5RUpjaDk1YmQzcWsxYkExTDhuSUlMdHVSeGxOdjI4aU5OM1RJOG9zbmd4aEEwTmVETXY4RmFLcTJMR0ZILW5HVXB0NUpVNnAtM1d4Y29BWHpoWVNBWjQ1U1c3Q0VydC1SU2xjSjNqSVJnNVZucWEzNWZyV3ZYWkNMOFcxYzdZZVZsTGc2QTRzNkVGMElPRWVDOHdSZ3ctY1c1am1ud1Jn?oc=5)
-
----
-
 ### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
 
 2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 來源：[Corresponsables](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
+
+---
+
+### [Más de 100 personas contagiadas con norovirus a bordo de un crucero por el Océano Pacífico](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0s3Rk4yS2EwUVl4VHRCYzI2VUVrZmVDdzRQczVHZDl3dXhmYWN1VEdfUmJoangtXzI4aE9JUFZTVERhWGxTM2h1RldlTGIzclY0WGFoREpIRHdXNDdPSXc1dVZwOXJwY3FlSDVwNXJtLVRzMG1nakU2NGwzbkc5MC1DX1lIdmJfV1Y4d3g0UHJvZExFTzM5LUFtUHZwOTlWR0FTZjBHWkhJQlJjRnlxeHN30gG3AUFVX3lxTE9ibnNtZjBaYU5hdmFkMXExS1Zpajg3WlNxSzNUNDBSWHVwdXZTdWYtYWoyZjE5TEFSd0pYVWRLYVVNWV8zTXZXSmFWUVBLMVpIb0RtUFRvNnJFcUxPdWRfUFcxTTNySWZ4b1RLNWdTTEhaUGhqek03clJWOUowR1hZeHJoNi1XOHVvcnN3cXRiSE91Tm42LXpBREdTV1hfOENTTGxXbkhXYlliZUxOQUI1ZlNMaldEcw?oc=5)
+
+2026-07-03 <span class="news-indication-tag">AF</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0s3Rk4yS2EwUVl4VHRCYzI2VUVrZmVDdzRQczVHZDl3dXhmYWN1VEdfUmJoangtXzI4aE9JUFZTVERhWGxTM2h1RldlTGIzclY0WGFoREpIRHdXNDdPSXc1dVZwOXJwY3FlSDVwNXJtLVRzMG1nakU2NGwzbkc5MC1DX1lIdmJfV1Y4d3g0UHJvZExFTzM5LUFtUHZwOTlWR0FTZjBHWkhJQlJjRnlxeHN30gG3AUFVX3lxTE9ibnNtZjBaYU5hdmFkMXExS1Zpajg3WlNxSzNUNDBSWHVwdXZTdWYtYWoyZjE5TEFSd0pYVWRLYVVNWV8zTXZXSmFWUVBLMVpIb0RtUFRvNnJFcUxPdWRfUFcxTTNySWZ4b1RLNWdTTEhaUGhqek03clJWOUowR1hZeHJoNi1XOHVvcnN3cXRiSE91Tm42LXpBREdTV1hfOENTTGxXbkhXYlliZUxOQUI1ZlNMaldEcw?oc=5)
 
 ---
 

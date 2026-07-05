@@ -54,6 +54,22 @@ permalink: /news/vortioxetine/
 
 ## 相關新聞（4 則）
 
+### [Hirnstimulation: 290.000 TPS-Sitzungen weltweit bei Alzheimer](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRy1HelVMTm13ckt4UEhIZldpYU55TTBaeVhhaFo0aUZwMnBJcDIxUzJBMDdHSkVQMmMzcGJhVHhWamtMN3RfUk4xcFVOMDNQb08tR1NlekxteGNsM0JJR29QOXJvOWxkTEs4NXVGLUxCeU90ZEVuT3pPTWVzN1JuLThzU25FOG8xZkdJTnAtV1hIaWxBZ3QxajJoWm1RUXpqQVVNWnRQSEdDNVdqX0E?oc=5)
+
+2026-07-04 <span class="news-indication-tag">depression</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRy1HelVMTm13ckt4UEhIZldpYU55TTBaeVhhaFo0aUZwMnBJcDIxUzJBMDdHSkVQMmMzcGJhVHhWamtMN3RfUk4xcFVOMDNQb08tR1NlekxteGNsM0JJR29QOXJvOWxkTEs4NXVGLUxCeU90ZEVuT3pPTWVzN1JuLThzU25FOG8xZkdJTnAtV1hIaWxBZ3QxajJoWm1RUXpqQVVNWnRQSEdDNVdqX0E?oc=5)
+
+---
+
+### [Zahngesundheit: Verzicht auf Zahnarzt erhöht Demenzrisiko messbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUNlTkFYaEI3S3FHWkRtdEpOU29HMnFjZUVrWHlJTGNjMWRwS3I2ZmMzZlo2MVNRdmZFUWRXSDlCajN4N09nM3JxcU5YbTd6a2t4MmpYakhNVXI3WEZZeXFqMXZjaDVNd01yR1ZYd3ZjYTFsS3RWRUtYSENJR0xIbTRJM1djc1lQck5xM3M0UWVKX3RRS1NXOUQwR3huOVdXY2pmZ05Jb2hfLXBRMTBVOWRraEg?oc=5)
+
+2026-07-04 <span class="news-indication-tag">depression</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUNlTkFYaEI3S3FHWkRtdEpOU29HMnFjZUVrWHlJTGNjMWRwS3I2ZmMzZlo2MVNRdmZFUWRXSDlCajN4N09nM3JxcU5YbTd6a2t4MmpYakhNVXI3WEZZeXFqMXZjaDVNd01yR1ZYd3ZjYTFsS3RWRUtYSENJR0xIbTRJM1djc1lQck5xM3M0UWVKX3RRS1NXOUQwR3huOVdXY2pmZ05Jb2hfLXBRMTBVOWRraEg?oc=5)
+
+---
+
 ### [Los probióticos podrían ayudar a aliviar los síntomas de la depresión en adultos mayores](https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGVDR2RiRkZQbF9Hdld5blllVXB2bmVLdDQ2ZkpTUHRLeWU3Qm00aWotMzJBNGRxbHN4cGtqZkM1UUFUY3NUUnE2bU1HZ3lFY1BHNC11WXJzMDFUY2k1b1NMSnZmWVlpdzZFQmNzbVBYMmpsVmxrMGxvNGdpS2NodW1JY3ZFakdKTWlkVzFWcG1DYzdXb3NtZHltWktWTDZrbmpVbk9aLUR0U1JXLVJlRXQ3Q2hqaHM1NjlWdkZHRlZnVTdONEE?oc=5)
 
 2026-07-04 <span class="news-indication-tag">depresión</span>
@@ -62,27 +78,11 @@ permalink: /news/vortioxetine/
 
 ---
 
-### [Zahngesundheit als Gesundheitsrisiko: Mobile Versorgung und politische Weichen - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDBhVnE5bzdCdXBSQU1aem1uaUREVEZlcXRhRGd6RDJJSmliQVJkQjlHRXpxVFllQWxqVWhTZmhhVEg4WnNhd2ZfeEc0aG82bzV1R1JrZlFVYlZsek9fQVdMRFo3VkFHSUpLanpMUHZEcnJwQUtPNWxyb1Y1c19RbGZwdTBCYmpqVmtzcGJNaU5TYy0wODFZNmN4QVpLWjRzdzY0Q0VYSnU1UmpyMVE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDBhVnE5bzdCdXBSQU1aem1uaUREVEZlcXRhRGd6RDJJSmliQVJkQjlHRXpxVFllQWxqVWhTZmhhVEg4WnNhd2ZfeEc0aG82bzV1R1JrZlFVYlZsek9fQVdMRFo3VkFHSUpLanpMUHZEcnJwQUtPNWxyb1Y1c19RbGZwdTBCYmpqVmtzcGJNaU5TYy0wODFZNmN4QVpLWjRzdzY0Q0VYSnU1UmpyMVE?oc=5)
-
----
-
 ### [¿La creatina puede ayudar a tratar la depresión? - Salud a Diario](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlF2Mk44V2JpakFRMWRxbk1aaHRzMjR4bG1lSXh3SWdoc0dxVmZfMHdsR212V3A1X0Rlajd0XzMtNGt3ZXFlRlVMdThNY1dfM0FhSGhpaXA5aEZQQWF5MFFYRnpZMzgwY2pOTk1KRWRfY3FoZ1B5dGZHSzRMaW1QUElZajBBMFF1ZmhCTm4wb2FLWTg?oc=5)
 
 2026-07-04 <span class="news-indication-tag">depresión</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlF2Mk44V2JpakFRMWRxbk1aaHRzMjR4bG1lSXh3SWdoc0dxVmZfMHdsR212V3A1X0Rlajd0XzMtNGt3ZXFlRlVMdThNY1dfM0FhSGhpaXA5aEZQQWF5MFFYRnpZMzgwY2pOTk1KRWRfY3FoZ1B5dGZHSzRMaW1QUElZajBBMFF1ZmhCTm4wb2FLWTg?oc=5)
-
----
-
-### [TPS-Hirnstimulation: 785 Alzheimer-Patienten ohne klinisch relevante Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFQtaVRNVFREMDJsTV95ZEQ2RHFWcjVjaTlubm1zNHVEd2VvTmd4TC1ZVUpsTFFDSjNuaEpyQndGMGlUeG1UUWhnTmp6akt1TmljV1RuYUxheWJfb3ZpbUoxNDdCWmR3SnZrLXZFME0wVmtmdWd4a2E5eHN2SHpKeW53Qzc3YnZ5V2dPczQ1MGhrRElNRXJjXzVDNS16Vlp3cEV6QnNWLXp0WnJHdVFWSTI3Q0I?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFQtaVRNVFREMDJsTV95ZEQ2RHFWcjVjaTlubm1zNHVEd2VvTmd4TC1ZVUpsTFFDSjNuaEpyQndGMGlUeG1UUWhnTmp6akt1TmljV1RuYUxheWJfb3ZpbUoxNDdCWmR3SnZrLXZFME0wVmtmdWd4a2E5eHN2SHpKeW53Qzc3YnZ5V2dPczQ1MGhrRElNRXJjXzVDNS16Vlp3cEV6QnNWLXp0WnJHdVFWSTI3Q0I?oc=5)
 
 ---
 

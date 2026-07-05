@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="Lopinavir 有什麼相關新聞？">
-<strong>Lopinavir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lopinavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/lopinavir/
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El cribado del cáncer de hígado solo llega al 28% de los pacientes con VIH y hepatitis B que lo necesitan](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
-2026-07-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
-
-2026-07-04 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[WIRED](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHlfekJ1dldfbVE3NU5hY0k5NFFYeUhvOUFRWFQzS3VJaHBCUkwtLXU2NlY0ckRoVC1ZMGQzQmZUNDF3WUM1OWdob2haN2p5M2Zuck9BQ2dWUm9xbTJZNlVOQnlBNk5FMVR1Y3dYYnpFQTA2WmtQNlNtc0dOMVRKdmo2TjJES1lBNWJCQi10SFc1ckt1Nno2TC0xdWhBb3g0a2ZDMU1pWWhKVFlwY2lPWm1WdlZjdTJ1X3RN?oc=5)
-
----
-
-### [El cribado del cáncer de hígado solo llega al 28% de los pacientes con VIH y hepatitis B que lo necesitan](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
-2026-07-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Blutdrucksenker: Welche Wirkstoffe sind am besten verträglich? - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
 
 2026-07-03 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDRZM1VXWGNXTmszZ25Xc3g0YmNKRm9fX2JHcXc2X19KS1VjZnowTldSQXh2Qk9YSm5yMUUwOFpfQTdGLUZjUzhXUlpVWklGQlg5SXl3Rk1NemNKNHg2cnFOYV9HUHlNMzdieXNwclVJOW1DMnFNUThtUHhwU2FqU2hubFVaRDAxa3RJX1p5cHhid1E?oc=5)
-
----
-
-### [Hypertension : quatre cardiologues recommandent ce régime "efficace en quelques semaines" - Yahoo Life France](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDl6V0RzVTB3X3hwQktJOWpkd3h4MFFYRFRwZVUwZ21EVFlYR1NWcWFBcXdpZE01ZEZ3Rmk0TjhzSUdNRzJsYUhVVnZDUlVtUzBOMjhaQ28tclVmUkRCSEpYTHBfdWJoeVJ3T3RWNmNGemNEcGI1Zy1qeUREb0U0WGxpeHRKYXNvUGl0eXV3ZGdGbTI2dElzemF1UVZKcEEt?oc=5)
-
-2026-07-02 <span class="news-indication-tag">hypertension</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDl6V0RzVTB3X3hwQktJOWpkd3h4MFFYRFRwZVUwZ21EVFlYR1NWcWFBcXdpZE01ZEZ3Rmk0TjhzSUdNRzJsYUhVVnZDUlVtUzBOMjhaQ28tclVmUkRCSEpYTHBfdWJoeVJ3T3RWNmNGemNEcGI1Zy1qeUREb0U0WGxpeHRKYXNvUGl0eXV3ZGdGbTI2dElzemF1UVZKcEEt?oc=5)
 
 ---
 
