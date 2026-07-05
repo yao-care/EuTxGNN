@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lumacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/lumacaftor/
 2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
-
----
-
-### [How little exercise can you get away with? - The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWVZS2MtSENWN2ctT3J3T3VoSEJfc1F1U2h2ejVJcVJWOXBySDJoNmJrS2NTVUFSS2VTM2l1U3RFRk56UnRBTVVMcXlCN3NxbVM0Z1FXOHFUU2h5dUFEemRMbTBtVjBNaW9MMnN2cXc1MGY2Zzd4eEhvRlB4bUdjSkd4eGNodGJNeXZGYmNQQ1hvQXE2VWNfWHNpMDl0eDl0SGlr?oc=5)
-
-2026-07-03 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWVZS2MtSENWN2ctT3J3T3VoSEJfc1F1U2h2ejVJcVJWOXBySDJoNmJrS2NTVUFSS2VTM2l1U3RFRk56UnRBTVVMcXlCN3NxbVM0Z1FXOHFUU2h5dUFEemRMbTBtVjBNaW9MMnN2cXc1MGY2Zzd4eEhvRlB4bUdjSkd4eGNodGJNeXZGYmNQQ1hvQXE2VWNfWHNpMDl0eDl0SGlr?oc=5)
 
 ---
 

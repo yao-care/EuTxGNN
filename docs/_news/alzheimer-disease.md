@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。7 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>7 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Hearing and eye tests could spot dementia before symptoms show - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-07-04
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
-
----
-
-### [¿Podríamos habernos equivocado sobre el aceite de pescado y la salud cerebral? Un nuevo estudio plantea importantes interrogantes - La Razón](https://news.google.com/rss/articles/CBMijgJBVV95cUxORV9INjVucUVoWUFsaVlrTDVrZGtoWHZtS0NPNndUWFRKQ0thTmxWcVFQZWFfNElEWS1NUS02M3BkV0RoWmV3Vnp3SGZuU2wta2l3MGZqYTl6YUR0VEZ1UWpoaXMwTUtUdWtpckZzVTltQTg4amJFbTB6VDkzUGRHeWNYTHRmOTc5UDNhRkZEbHB1bDBtSXlOdDYwV1lwTEctbXFaZURieV9UUTdYLVJLOFBwa3BhR2xZbGdlRzQwNVBEcmtPSHE3aVpKN0U4Wld1eTZrZ2V2NG5DTlZEcktBdVFLaXF1TW10U2V0V0RuWEQ1SUU5SzBuMFpuMEtfN3psSnVoeWxFT3VpVUxPMXfSAaICQVVfeXFMTmhvVEVxaURaaHBiXzdfOTQ2WUppX0lSbXBCNUFkdC0tWDlocjlPanB1QnlWUzcwWGdlelo2VzN4eUNhSXhSZWI0X1BBSU1ROXY3X1NjbTVrLVdtM3hwa3V4bzk4Umc1Ny03S2UySmhvQjdza3pnMlpiUFRvQ1Fzc3hlSWsyMTRISU1QOGpoRW5SMENzUWo2TlpuZU5qWFI2VnJRdmZ6blQ4aEhKMVdrVE5icjktREQwY252QUtkTmdzQUd6aktUMFotZ2xJc0dDel9hQzNsOU16S2V0dzlCakFJV3hnaUNGQVUtTjNBZ1hmVXF4a2M3LXk1RW9WNndSeVdyODZQQjZhMmM3RmVQR3lUeWZZOWNHclZIbWo4UHhZTlE?oc=5)
-
-2026-07-04
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMijgJBVV95cUxORV9INjVucUVoWUFsaVlrTDVrZGtoWHZtS0NPNndUWFRKQ0thTmxWcVFQZWFfNElEWS1NUS02M3BkV0RoWmV3Vnp3SGZuU2wta2l3MGZqYTl6YUR0VEZ1UWpoaXMwTUtUdWtpckZzVTltQTg4amJFbTB6VDkzUGRHeWNYTHRmOTc5UDNhRkZEbHB1bDBtSXlOdDYwV1lwTEctbXFaZURieV9UUTdYLVJLOFBwa3BhR2xZbGdlRzQwNVBEcmtPSHE3aVpKN0U4Wld1eTZrZ2V2NG5DTlZEcktBdVFLaXF1TW10U2V0V0RuWEQ1SUU5SzBuMFpuMEtfN3psSnVoeWxFT3VpVUxPMXfSAaICQVVfeXFMTmhvVEVxaURaaHBiXzdfOTQ2WUppX0lSbXBCNUFkdC0tWDlocjlPanB1QnlWUzcwWGdlelo2VzN4eUNhSXhSZWI0X1BBSU1ROXY3X1NjbTVrLVdtM3hwa3V4bzk4Umc1Ny03S2UySmhvQjdza3pnMlpiUFRvQ1Fzc3hlSWsyMTRISU1QOGpoRW5SMENzUWo2TlpuZU5qWFI2VnJRdmZ6blQ4aEhKMVdrVE5icjktREQwY252QUtkTmdzQUd6aktUMFotZ2xJc0dDel9hQzNsOU16S2V0dzlCakFJV3hnaUNGQVUtTjNBZ1hmVXF4a2M3LXk1RW9WNndSeVdyODZQQjZhMmM3RmVQR3lUeWZZOWNHclZIbWo4UHhZTlE?oc=5)
 
 ---
 

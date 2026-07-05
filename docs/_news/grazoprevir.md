@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
 
-### [¿Quieres pulmones sanos? La vitamina K1 de las verduras de hoja verde tiene la clave, según la ciencia](https://news.google.com/rss/articles/CBMie0FVX3lxTE1STUxrbFZna0tncUpJaWg4c05tU0l0cGtOLUM3bEFaT3NxODFEc3ZRSzNzdjREdlV1R2lNSFBBSWlGRnRveGhVT3F0UzNUYV9JRGpHVDJIblBscVFzRFVSZ0ZVbURUQVJWOFB6d09McmNnOWhGUmctWGlCVQ?oc=5)
+### [Laut Expertin: Aus diesem Grund sollte man auch im Sommer Vitamin D nehmen](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span>
+2026-07-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[que.es](https://news.google.com/rss/articles/CBMie0FVX3lxTE1STUxrbFZna0tncUpJaWg4c05tU0l0cGtOLUM3bEFaT3NxODFEc3ZRSzNzdjREdlV1R2lNSFBBSWlGRnRveGhVT3F0UzNUYV9JRGpHVDJIblBscVFzRFVSZ0ZVbURUQVJWOFB6d09McmNnOWhGUmctWGlCVQ?oc=5)
+來源：[wmn.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
 
 ---
 
-### [Muertes por ébola en RD del Congo rondan las 500 en medio de transmisión comunitaria - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1BqNm1ScmFSTVFSM19VUUNYV0JjMTA4d0FTLWxGZ1JFNXlVSGR0UEkxZWNSRjhHejliamdIRExyV1NwNWNteVA4ekVSQ3VnZGI3UXBJSEhuSDZMTllmbUpVREVkQlIyNWpxemxudy0zWjYwVlF6SF9xOFZHcHZxWjdPWQ?oc=5)
+### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3fSAZsBQVVfeXFMUGx5bV9uRFJsZVIybVJPaEh5Mnlqc3pLdHdIZnNBbWxyckduOTc2M0t6NnBYNjZDY2xUQ3prRm1XeHA0LUJUZ2NpUVk2RmxDRFZ6eTRUeDRTeFQ1ZnZUMlNNSEtjbERDUlFOMWNldUpLdzc5LW5yem5wc3E1MU41QTZnWS1WalN2Nm02Qk02RHBhZWRieDZZQ2hhbEk?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span>
+2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxOU1BqNm1ScmFSTVFSM19VUUNYV0JjMTA4d0FTLWxGZ1JFNXlVSGR0UEkxZWNSRjhHejliamdIRExyV1NwNWNteVA4ekVSQ3VnZGI3UXBJSEhuSDZMTllmbUpVREVkQlIyNWpxemxudy0zWjYwVlF6SF9xOFZHcHZxWjdPWQ?oc=5)
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3fSAZsBQVVfeXFMUGx5bV9uRFJsZVIybVJPaEh5Mnlqc3pLdHdIZnNBbWxyckduOTc2M0t6NnBYNjZDY2xUQ3prRm1XeHA0LUJUZ2NpUVk2RmxDRFZ6eTRUeDRTeFQ1ZnZUMlNNSEtjbERDUlFOMWNldUpLdzc5LW5yem5wc3E1MU41QTZnWS1WalN2Nm02Qk02RHBhZWRieDZZQ2hhbEk?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
 
 2026-07-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
 
 ---
 
@@ -163,14 +163,6 @@ permalink: /news/grazoprevir/
 2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
-
----
-
-### [El cribado del cáncer de hígado solo llega al 28% de los pacientes con VIH y hepatitis B que lo necesitan](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
-2026-07-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
 
 ---
 

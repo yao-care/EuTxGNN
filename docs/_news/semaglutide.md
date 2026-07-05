@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Gewichtsabnahme: 42% weniger Diabetes-Risiko durch 30 Min. Krafttraining - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNuQXZqR1YzMkZ2WjI4U0l2elpCRHVJbmswVkVyTy1SNWF4LXdYOWJqX3Q4N2NOaC1VWWI5eWdULWdGT2RoZ1Z1VlRsWkRJWUdZX2dEN1pTU0pQd3NVdlJvbUFCTG5vRlE4YXFVRlVrUzVnRGJSaHllLUNjTlhWSG9ZYm5kVzEzbC1SWGZJeXFHQ0JPcHc5c213U1BxUGtVeVhHUnNfZkw3N2dkYkVEQXNB?oc=5)
+### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
-2026-07-05 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNuQXZqR1YzMkZ2WjI4U0l2elpCRHVJbmswVkVyTy1SNWF4LXdYOWJqX3Q4N2NOaC1VWWI5eWdULWdGT2RoZ1Z1VlRsWkRJWUdZX2dEN1pTU0pQd3NVdlJvbUFCTG5vRlE4YXFVRlVrUzVnRGJSaHllLUNjTlhWSG9ZYm5kVzEzbC1SWGZJeXFHQ0JPcHc5c213U1BxUGtVeVhHUnNfZkw3N2dkYkVEQXNB?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
+
+---
+
+### [María Merino, dietista, desmonta el mito del 'Ozempic natural': "No es una pastilla mágica para adelgazar" - El HuffPost](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXQ1ejhSUkdfYVVpV3Jic1Vpc3NndWcxMkZnYmxpWExjWjlmaXNNNHc1bXdMdms3UGNPM01vM21KSHpmYmFOZ1NWcFgwWHdqQVl2UnIxUDhuOWQ5THY5MlFiM0Iya01hQWxZSW5pQnJ4dWhkc0ZfVHRReHdKaXRFTndUNEZJRjZTazlhQThWTEJiREdycElvdVU2blN2S1VXTlpkRXpZa3NHYVJUZnlXdVFtenlrOWVLUTFEU2JndGdhTFRoeUpGRm9XaXE4bFnSAeMBQVVfeXFMTVFNSHNJbGw2VVZ4cWdsTkREbEtBX2RGYk1Qb0hEYzJFR0huYVpKRkNDcERqNVRpYnROTWY0NUZxUENQZGFhdTVmTF9DS3B1dXR4Ym52OGxRaG5abm5HSmVXcjlyNGJSVXlLUTFMUTRLMFN1QXY2MGZsUGxGVlRnSzRwSHlUejZzYk8wdWpndW5iTVZlT2dLVGpJLTBabGo4U25kTzJLQVRLX2pCWGxOUWRRSzE2REVKNXR3cHdIVzBJcENRbGs0ZDdCV1JIdXN6TjROcS1nMGhEZHJyT0RFRU1DRm8?oc=5)
+
+2026-07-05 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[El HuffPost](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXQ1ejhSUkdfYVVpV3Jic1Vpc3NndWcxMkZnYmxpWExjWjlmaXNNNHc1bXdMdms3UGNPM01vM21KSHpmYmFOZ1NWcFgwWHdqQVl2UnIxUDhuOWQ5THY5MlFiM0Iya01hQWxZSW5pQnJ4dWhkc0ZfVHRReHdKaXRFTndUNEZJRjZTazlhQThWTEJiREdycElvdVU2blN2S1VXTlpkRXpZa3NHYVJUZnlXdVFtenlrOWVLUTFEU2JndGdhTFRoeUpGRm9XaXE4bFnSAeMBQVVfeXFMTVFNSHNJbGw2VVZ4cWdsTkREbEtBX2RGYk1Qb0hEYzJFR0huYVpKRkNDcERqNVRpYnROTWY0NUZxUENQZGFhdTVmTF9DS3B1dXR4Ym52OGxRaG5abm5HSmVXcjlyNGJSVXlLUTFMUTRLMFN1QXY2MGZsUGxGVlRnSzRwSHlUejZzYk8wdWpndW5iTVZlT2dLVGpJLTBabGo4U25kTzJLQVRLX2pCWGxOUWRRSzE2REVKNXR3cHdIVzBJcENRbGs0ZDdCV1JIdXN6TjROcS1nMGhEZHJyT0RFRU1DRm8?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/semaglutide/
 2026-07-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXo3NzlBSVdGaXNWandobmpoV0NxZzdIOHBaRXMyY2t4WklIY212blpnaXE4Z0RNSG9KY1NCQmh2OGF3bWRLdVNJdzNPTTdpQmhTcHlUUVJKaWpQcnVEVWpyMDZ2WkwtZXdGSXZtaU1EaFlTX004TXBrbVYxZWoyZXNFOE0xcTFhTG9rQkJWQWJfdmVWZFB4N3RfRTUyRXFHV3hEVEZYMUhjcHdadk1zUi1xbl9tMGlfTVc0?oc=5)
+
+---
+
+### [Metabolisches Syndrom: Krafttraining senkt Diabetes-Risiko um 42% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1pMVGkyOG0yTDh5NHNFZG40Y3liaF9DZ05yWGE5LXFDS0hkRWx4YVNBekJnY19JODQxX3FrOHZtWmRDM1dIVUF3M3F2UHQ0bkt3LVduYzY0WTFqejZTSzNWMWFOS2FObk9LbFltRDkxWjMxWU9rUVdjMTNURFgyVlZfcjI2a1Zfa1l6UU05dy1DeDVZa1Iwbk1BamZjXzhRZmEwMDUxdGZOTmtoWmhMbXg1dDBfTnV2S3lPTQ?oc=5)
+
+2026-07-05 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1pMVGkyOG0yTDh5NHNFZG40Y3liaF9DZ05yWGE5LXFDS0hkRWx4YVNBekJnY19JODQxX3FrOHZtWmRDM1dIVUF3M3F2UHQ0bkt3LVduYzY0WTFqejZTSzNWMWFOS2FObk9LbFltRDkxWjMxWU9rUVdjMTNURFgyVlZfcjI2a1Zfa1l6UU05dy1DeDVZa1Iwbk1BamZjXzhRZmEwMDUxdGZOTmtoWmhMbXg1dDBfTnV2S3lPTQ?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/semaglutide/
 2026-07-04 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0xlTDdOQWRsMEtoYVlLWmdSb21KbDV2RTNtbExOUGIwb1AtSDVfNmhDYlQ1U2x6dUFoUVpJc0dWaWgtRW9nN2hGVnFDYkg0b3R4SG1mbnRKWFBSWFVoMkRaYWo1Q0tKX3N1dVFPQkREbm1UNU5NSmZWZVNFYkRDaGM1SjlGZW5MMjM1ZEVNd2w4S1VIa1RkVFhia2wwaXpqdlo3cTFEV2JFRUU0MnJ2OUg5RDY2SmhYYlVpX2htOA?oc=5)
-
----
-
-### [Thousands more Brits to get fat jabs to treat killer liver disease, officials announce - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGNkQ3Q1SVl3ek9qUVg2MGRQZlZKWTB1V3VJa21MYkx3VTJwdXRCU0ttcndlRFkwT3o3Y2t5YVdQNE9zZnJEekVleENUenZFeVRWWGY2ZHBXRkRfUEszVEZqYnpmM05HNXAwcVF2eTk2MmhNa0RIbkEwTmNka0ROOUFpZUhfUUFISVk4OXdDS3lLSDA?oc=5)
-
-2026-07-03 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGNkQ3Q1SVl3ek9qUVg2MGRQZlZKWTB1V3VJa21MYkx3VTJwdXRCU0ttcndlRFkwT3o3Y2t5YVdQNE9zZnJEekVleENUenZFeVRWWGY2ZHBXRkRfUEszVEZqYnpmM05HNXAwcVF2eTk2MmhNa0RIbkEwTmNka0ROOUFpZUhfUUFISVk4OXdDS3lLSDA?oc=5)
 
 ---
 

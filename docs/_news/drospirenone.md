@@ -54,11 +54,11 @@ permalink: /news/drospirenone/
 
 ## 相關新聞（1 則）
 
-### [Protonenpumpenhemmer: 44% erhöhtes Demenzrisiko bei Dauertherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkpsNTFPTkhseWRHR0l4Umg0d3REMkJXVTA1VHNYVG8zQkNRNzQ5eVI4MENxWG9CUF9kMDNWdzNEWm5aZFhxNDl6S25VdEM2Z21WNUhBc1k3d1duTzlockF5N2R2OTA5dEY4dlVmUWJ2SEdTTWJ6NksyZVpVZUI2S3N1UVdPYnNVUl94Z2I3RldoMVlhQl80MFkzVEwtT0dLT2RWMWJ5ZGVuazBJV0p6Q21oUjdrS1o5YVlSS1Vn?oc=5)
+### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
 2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkpsNTFPTkhseWRHR0l4Umg0d3REMkJXVTA1VHNYVG8zQkNRNzQ5eVI4MENxWG9CUF9kMDNWdzNEWm5aZFhxNDl6S25VdEM2Z21WNUhBc1k3d1duTzlockF5N2R2OTA5dEY4dlVmUWJ2SEdTTWJ6NksyZVpVZUI2S3N1UVdPYnNVUl94Z2I3RldoMVlhQl80MFkzVEwtT0dLT2RWMWJ5ZGVuazBJV0p6Q21oUjdrS1o5YVlSS1Vn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
 
 ---
 

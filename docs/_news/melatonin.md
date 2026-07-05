@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Retatrutid: Neuer Wirkstoff halbiert Blutzucker und reduziert Gewicht um 38 kg - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxObVoxbHJUTjlZS1B5bi1IQUNmeHltMlVwejNVOTNSSDNWdnBFd1ZPek5FNnU5YnhBNjJyNmoyTUZhQjVKeVptclJrRHR4MGNOdVZmZGhkVnBpRF9JdEVFX0tHMlQ3RjkxV3hFaWdVTGhzNzBNZXFSU2VCS1JWNHFvakt6OTd4dk5kdWdITkxmZ0o5YzJxcjlfSGRnS05HcUt4bFlJZ1FIR1FXRzdDSkpGSkFzTVZ1bnVTNUhnZA?oc=5)
-
-2026-07-05 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxObVoxbHJUTjlZS1B5bi1IQUNmeHltMlVwejNVOTNSSDNWdnBFd1ZPek5FNnU5YnhBNjJyNmoyTUZhQjVKeVptclJrRHR4MGNOdVZmZGhkVnBpRF9JdEVFX0tHMlQ3RjkxV3hFaWdVTGhzNzBNZXFSU2VCS1JWNHFvakt6OTd4dk5kdWdITkxmZ0o5YzJxcjlfSGRnS05HcUt4bFlJZ1FIR1FXRzdDSkpGSkFzTVZ1bnVTNUhnZA?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [¿Tienen las nuevas generaciones más predisposición genética a sufrir obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
 
@@ -78,35 +70,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [We’ve stopped arguing about Brexit – we’re arguing about weight-loss drugs instead - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">obesity</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVURwQXVzZ1c4Q1NDb2tzNFhmaVhIdy02YzBpWXY0eF9GaXRRQ29heDh0dVNWX21nWkdQT2VDOEZ4bkVJSEVuM3g0bHFaa0ViUjFCWUZOWVRULVhBZDlPcUtWNGpRb1ZVcXpnRUhpY3VrTUpkY1ppOURQNGdhdzJTWkNiZ0wyYVBWS2hNZUxVV25pQ0RsQWxpTkhpOGo4OHdlNG03c3FZYTl5UQ?oc=5)
-
----
-
 ### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
----
-
-### [Hormones on the brain? Everything you need to know about HRT, testosterone, melatonin and more - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR212V1Fsemg4X3llLUxBU04yRWFzdmJ5MndBc1JEZmd3Y1JpSjJ5aF9tM0ZoU2hIYXpOcmFyNFF4MWZxdjg5QUozRzBRcEhMaGpWZVZ5QlBpdnhhZWEyd2NYSENLMUc0MHBmU0hlbm1QbEZSQzgzVlJYb3VxNU1MY3RVUmE4MGNzZkVnVmVkZk5oRGw4eVlYSWZyNHVvNU5LWU1aV0hSTVFFVUFyYnRMSjh2TDJUdExQVDlwRzJDVQ?oc=5)
-
-2026-07-03 <span class="news-drug-tag">Melatonin</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR212V1Fsemg4X3llLUxBU04yRWFzdmJ5MndBc1JEZmd3Y1JpSjJ5aF9tM0ZoU2hIYXpOcmFyNFF4MWZxdjg5QUozRzBRcEhMaGpWZVZ5QlBpdnhhZWEyd2NYSENLMUc0MHBmU0hlbm1QbEZSQzgzVlJYb3VxNU1MY3RVUmE4MGNzZkVnVmVkZk5oRGw4eVlYSWZyNHVvNU5LWU1aV0hSTVFFVUFyYnRMSjh2TDJUdExQVDlwRzJDVQ?oc=5)
-
----
-
-### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
-
-2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
 
 ---
 

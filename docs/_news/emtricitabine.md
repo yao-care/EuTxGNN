@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Emtricitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El sexo y las drogas están detrás de la mayoría de los casos de hepatitis en la Región - La Opinión de Murcia](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmNrRVZldlN0WG5XT0xEbVBFNXhjQUZEaXJxWmdWaUZRWVlCVFlVVmZaQ2tfcHBlUVpNRG02M3RvN2JuZ2JpdXZZLVBHMXVra01mbndidnVaV1JZMTFNWS04MzZBUFpwTVVQZldBRzJyWlVKOVJTSzQyeVlhY2lJSHUzdmtyNzV2Y1FQM3ZZTGtIeF94ZU54LUNjdHFzbnFoZnF30gGoAUFVX3lxTE8zZDh6cWdSN2cwdl8xTlhuYUllN2d2aHNGZTBOc1JsX0o5NUx6aEVabzlOSEZkUEdLUVZyRjJCOV9ob1E2d1k0Ymc2OGxvQjhtRXo5anh2TUNJNzE4akFTQ3hfYnVtaEduRXBuUXFWWFhwOVo0NVpZVFVzQnRDSEtZWHY4ZnhURmpmay1FU19YU2RCUmsxajZUQURwaVhaTEFwUlhvc1lhZw?oc=5)
 
 2026-07-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[La Opinión de Murcia](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmNrRVZldlN0WG5XT0xEbVBFNXhjQUZEaXJxWmdWaUZRWVlCVFlVVmZaQ2tfcHBlUVpNRG02M3RvN2JuZ2JpdXZZLVBHMXVra01mbndidnVaV1JZMTFNWS04MzZBUFpwTVVQZldBRzJyWlVKOVJTSzQyeVlhY2lJSHUzdmtyNzV2Y1FQM3ZZTGtIeF94ZU54LUNjdHFzbnFoZnF30gGoAUFVX3lxTE8zZDh6cWdSN2cwdl8xTlhuYUllN2d2aHNGZTBOc1JsX0o5NUx6aEVabzlOSEZkUEdLUVZyRjJCOV9ob1E2d1k0Ymc2OGxvQjhtRXo5anh2TUNJNzE4akFTQ3hfYnVtaEduRXBuUXFWWFhwOVo0NVpZVFVzQnRDSEtZWHY4ZnhURmpmay1FU19YU2RCUmsxajZUQURwaVhaTEFwUlhvc1lhZw?oc=5)
-
----
-
-### [El cribado del cáncer de hígado solo llega al 28% de los pacientes con VIH y hepatitis B que lo necesitan](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
-
-2026-07-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT18tSU1wbVk0czBUMmgxQ2FsY01JZm05ZjNJT0FRQVRaQ2xxSVB6V2xQOFRsdXJfSi1fcjlmWGUtYzlsMy04NGc4NHVhOFZkbWw4WHJONVFqOUlIdUtNOXN0cXhvbDJvZklndEFhY2E5S2hUWVMxN3NJNlZQMXdNUzdBY3pWRWFSUkFGMTM3MU85NWFVbUZod054aFRSeXdldTl3OUpjYjZWeG5PLUFMM09GdzdXc0ZJZzV1SGYxVnF1ZGdsbWp5bzZneU9rdw?oc=5)
 
 ---
 

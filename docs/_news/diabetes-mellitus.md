@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [Gewichtsabnahme: 42% weniger Diabetes-Risiko durch 30 Min. Krafttraining - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNuQXZqR1YzMkZ2WjI4U0l2elpCRHVJbmswVkVyTy1SNWF4LXdYOWJqX3Q4N2NOaC1VWWI5eWdULWdGT2RoZ1Z1VlRsWkRJWUdZX2dEN1pTU0pQd3NVdlJvbUFCTG5vRlE4YXFVRlVrUzVnRGJSaHllLUNjTlhWSG9ZYm5kVzEzbC1SWGZJeXFHQ0JPcHc5c213U1BxUGtVeVhHUnNfZkw3N2dkYkVEQXNB?oc=5)
+### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
 2026-07-05
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNuQXZqR1YzMkZ2WjI4U0l2elpCRHVJbmswVkVyTy1SNWF4LXdYOWJqX3Q4N2NOaC1VWWI5eWdULWdGT2RoZ1Z1VlRsWkRJWUdZX2dEN1pTU0pQd3NVdlJvbUFCTG5vRlE4YXFVRlVrUzVnRGJSaHllLUNjTlhWSG9ZYm5kVzEzbC1SWGZJeXFHQ0JPcHc5c213U1BxUGtVeVhHUnNfZkw3N2dkYkVEQXNB?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
 ---
 
@@ -129,6 +129,14 @@ permalink: /news/diabetes-mellitus/
 2026-07-05
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXo3NzlBSVdGaXNWandobmpoV0NxZzdIOHBaRXMyY2t4WklIY212blpnaXE4Z0RNSG9KY1NCQmh2OGF3bWRLdVNJdzNPTTdpQmhTcHlUUVJKaWpQcnVEVWpyMDZ2WkwtZXdGSXZtaU1EaFlTX004TXBrbVYxZWoyZXNFOE0xcTFhTG9rQkJWQWJfdmVWZFB4N3RfRTUyRXFHV3hEVEZYMUhjcHdadk1zUi1xbl9tMGlfTVc0?oc=5)
+
+---
+
+### [Metabolisches Syndrom: Krafttraining senkt Diabetes-Risiko um 42% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1pMVGkyOG0yTDh5NHNFZG40Y3liaF9DZ05yWGE5LXFDS0hkRWx4YVNBekJnY19JODQxX3FrOHZtWmRDM1dIVUF3M3F2UHQ0bkt3LVduYzY0WTFqejZTSzNWMWFOS2FObk9LbFltRDkxWjMxWU9rUVdjMTNURFgyVlZfcjI2a1Zfa1l6UU05dy1DeDVZa1Iwbk1BamZjXzhRZmEwMDUxdGZOTmtoWmhMbXg1dDBfTnV2S3lPTQ?oc=5)
+
+2026-07-05
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1pMVGkyOG0yTDh5NHNFZG40Y3liaF9DZ05yWGE5LXFDS0hkRWx4YVNBekJnY19JODQxX3FrOHZtWmRDM1dIVUF3M3F2UHQ0bkt3LVduYzY0WTFqejZTSzNWMWFOS2FObk9LbFltRDkxWjMxWU9rUVdjMTNURFgyVlZfcjI2a1Zfa1l6UU05dy1DeDVZa1Iwbk1BamZjXzhRZmEwMDUxdGZOTmtoWmhMbXg1dDBfTnV2S3lPTQ?oc=5)
 
 ---
 

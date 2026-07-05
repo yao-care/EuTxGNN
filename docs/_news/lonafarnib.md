@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease（97.8%）</li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,7 +52,7 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/lonafarnib/
 2026-07-05 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
-
----
-
-### [How little exercise can you get away with? - The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWVZS2MtSENWN2ctT3J3T3VoSEJfc1F1U2h2ejVJcVJWOXBySDJoNmJrS2NTVUFSS2VTM2l1U3RFRk56UnRBTVVMcXlCN3NxbVM0Z1FXOHFUU2h5dUFEemRMbTBtVjBNaW9MMnN2cXc1MGY2Zzd4eEhvRlB4bUdjSkd4eGNodGJNeXZGYmNQQ1hvQXE2VWNfWHNpMDl0eDl0SGlr?oc=5)
-
-2026-07-03 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWVZS2MtSENWN2ctT3J3T3VoSEJfc1F1U2h2ejVJcVJWOXBySDJoNmJrS2NTVUFSS2VTM2l1U3RFRk56UnRBTVVMcXlCN3NxbVM0Z1FXOHFUU2h5dUFEemRMbTBtVjBNaW9MMnN2cXc1MGY2Zzd4eEhvRlB4bUdjSkd4eGNodGJNeXZGYmNQQ1hvQXE2VWNfWHNpMDl0eDl0SGlr?oc=5)
 
 ---
 

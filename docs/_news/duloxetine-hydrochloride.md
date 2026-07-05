@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Hirnstimulation: 290.000 TPS-Sitzungen weltweit bei Alzheimer - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRy1HelVMTm13ckt4UEhIZldpYU55TTBaeVhhaFo0aUZwMnBJcDIxUzJBMDdHSkVQMmMzcGJhVHhWamtMN3RfUk4xcFVOMDNQb08tR1NlekxteGNsM0JJR29QOXJvOWxkTEs4NXVGLUxCeU90ZEVuT3pPTWVzN1JuLThzU25FOG8xZkdJTnAtV1hIaWxBZ3QxajJoWm1RUXpqQVVNWnRQSEdDNVdqX0E?oc=5)
+### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
-2026-07-04 <span class="news-indication-tag">depression</span>
+2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRy1HelVMTm13ckt4UEhIZldpYU55TTBaeVhhaFo0aUZwMnBJcDIxUzJBMDdHSkVQMmMzcGJhVHhWamtMN3RfUk4xcFVOMDNQb08tR1NlekxteGNsM0JJR29QOXJvOWxkTEs4NXVGLUxCeU90ZEVuT3pPTWVzN1JuLThzU25FOG8xZkdJTnAtV1hIaWxBZ3QxajJoWm1RUXpqQVVNWnRQSEdDNVdqX0E?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
+
+---
+
+### [Laut Expertin: Aus diesem Grund sollte man auch im Sommer Vitamin D nehmen](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
+
+2026-07-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[wmn.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/duloxetine-hydrochloride/
 2026-07-04 <span class="news-indication-tag">depresión</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlF2Mk44V2JpakFRMWRxbk1aaHRzMjR4bG1lSXh3SWdoc0dxVmZfMHdsR212V3A1X0Rlajd0XzMtNGt3ZXFlRlVMdThNY1dfM0FhSGhpaXA5aEZQQWF5MFFYRnpZMzgwY2pOTk1KRWRfY3FoZ1B5dGZHSzRMaW1QUElZajBBMFF1ZmhCTm4wb2FLWTg?oc=5)
+
+---
+
+### [TPS-Hirnstimulation: 785 Alzheimer-Patienten ohne klinisch relevante Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFQtaVRNVFREMDJsTV95ZEQ2RHFWcjVjaTlubm1zNHVEd2VvTmd4TC1ZVUpsTFFDSjNuaEpyQndGMGlUeG1UUWhnTmp6akt1TmljV1RuYUxheWJfb3ZpbUoxNDdCWmR3SnZrLXZFME0wVmtmdWd4a2E5eHN2SHpKeW53Qzc3YnZ5V2dPczQ1MGhrRElNRXJjXzVDNS16Vlp3cEV6QnNWLXp0WnJHdVFWSTI3Q0I?oc=5)
+
+2026-07-04 <span class="news-indication-tag">depression</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFQtaVRNVFREMDJsTV95ZEQ2RHFWcjVjaTlubm1zNHVEd2VvTmd4TC1ZVUpsTFFDSjNuaEpyQndGMGlUeG1UUWhnTmp6akt1TmljV1RuYUxheWJfb3ZpbUoxNDdCWmR3SnZrLXZFME0wVmtmdWd4a2E5eHN2SHpKeW53Qzc3YnZ5V2dPczQ1MGhrRElNRXJjXzVDNS16Vlp3cEV6QnNWLXp0WnJHdVFWSTI3Q0I?oc=5)
 
 ---
 
