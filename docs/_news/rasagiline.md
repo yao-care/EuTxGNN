@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,63 +52,9 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（0 則）
 
-### ['Pebble poos' can mean dementia & ‘pencil poos’ cancer…number 2s to NEVER ignore - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
-
----
-
-### [Could We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3h3OHF4Q19QNmlNR0tCZGRRN1NXXzJRWWd2eE5BRWZSYWZoVjg0NEhpZHlCSFNxejhaNXdpYlZWWG5qMDZfdzBqd29reXB1aVJIc2l3Zmt1SUV0RVltWFhHOHlxNVUxWkFHanYzbFNQekJ4QWlzUDRldFZxZ01FLVBYd2xUWnZoSzg3MThPV3pNUXpiV1ZBQUxqNF91QS1FNnpTZndZaDJTZ292TFhsV0ZpX0poZw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">dementia</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3h3OHF4Q19QNmlNR0tCZGRRN1NXXzJRWWd2eE5BRWZSYWZoVjg0NEhpZHlCSFNxejhaNXdpYlZWWG5qMDZfdzBqd29reXB1aVJIc2l3Zmt1SUV0RVltWFhHOHlxNVUxWkFHanYzbFNQekJ4QWlzUDRldFZxZ01FLVBYd2xUWnZoSzg3MThPV3pNUXpiV1ZBQUxqNF91QS1FNnpTZndZaDJTZ292TFhsV0ZpX0poZw?oc=5)
-
----
-
-### [Alzheimer-Krankheit: Studienwissen in die Praxis übertragen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer-Krankheit</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
-
----
-
-### [Scientists discover why some brains resist Alzheimer's](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
----
-
-### [Memory Loss May Not Be the Earliest Sign of Alzheimer’s - Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
-
----
-
-### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
-
-2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
-
----
-
-### [Sudden craving of 3 foods 'could be early sign of dementia' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5)
-
-2026-07-03 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

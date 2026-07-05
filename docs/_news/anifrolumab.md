@@ -14,7 +14,7 @@ permalink: /news/anifrolumab/
 ---
 
 <p class="key-answer" data-question="Anifrolumab 有什麼相關新聞？">
-<strong>Anifrolumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Anifrolumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,39 +52,9 @@ permalink: /news/anifrolumab/
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [Krafttraining: 30 Minuten pro Woche senken Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
-
-2026-07-04 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko: neue Studien, Antikörper & Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnhGbWFuRnI4d0dGazlyWExpUW56TzdYLXVUNE1ZbTVuRmF6YlZ2TUt4ckNxczR4clpiYjJNX24wYmc5NTVVRzJGSzVoR3FBSkFuUkZ2S0NvRE1ta2FzYlBnNTRRcUp5S3FvQy1XUmpKTXBXUElMSGYtWENZcEIyRERKbm9xRjNWQjRxbkRvdHhTcFJhLTRJR193bVZyT1ZZVVNLZ2hmLUluTmQtSGlrQ0VB?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnhGbWFuRnI4d0dGazlyWExpUW56TzdYLXVUNE1ZbTVuRmF6YlZ2TUt4ckNxczR4clpiYjJNX24wYmc5NTVVRzJGSzVoR3FBSkFuUkZ2S0NvRE1ta2FzYlBnNTRRcUp5S3FvQy1XUmpKTXBXUElMSGYtWENZcEIyRERKbm9xRjNWQjRxbkRvdHhTcFJhLTRJR193bVZyT1ZZVVNLZ2hmLUluTmQtSGlrQ0VB?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
----
-
-### [Diabetes-Umkehr: Prädiabetes-Behandlung senkt Herzinfarkt-Risiko um 58%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

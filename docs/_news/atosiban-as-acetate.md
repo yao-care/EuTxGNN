@@ -14,7 +14,7 @@ permalink: /news/atosiban-as-acetate/
 ---
 
 <p class="key-answer" data-question="Atosiban (As Acetate) 有什麼相關新聞？">
-<strong>Atosiban (As Acetate)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Atosiban (As Acetate)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/atosiban-as-acetate/
 <p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Am I at risk of an early heart attack like my grandfather? I decided to find out - The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd191V0VJZjJINmd3Y2ZSWm5jNmNnU3VEamlFVWFmdTVfTzZZZU9MOXRBTWp0WXU0ajNWdDNWbXhJX05Zb2R6UEUwWGM1QkhMLW1PSzZWZlQyMHU2dHMzTmtrTEl4SnhidmNWb2tXcmNrWXVUblFkamJZWFJ0bFpYRkJIV3k2T2V3N3JvcmMxN0traVFydjRoRzNuTlI2NXRxQkVEdTJUNkZXUQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd191V0VJZjJINmd3Y2ZSWm5jNmNnU3VEamlFVWFmdTVfTzZZZU9MOXRBTWp0WXU0ajNWdDNWbXhJX05Zb2R6UEUwWGM1QkhMLW1PSzZWZlQyMHU2dHMzTmtrTEl4SnhidmNWb2tXcmNrWXVUblFkamJZWFJ0bFpYRkJIV3k2T2V3N3JvcmMxN0traVFydjRoRzNuTlI2NXRxQkVEdTJUNkZXUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
-2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
----
-
-### [OPEN España analiza en la UCM el impacto laboral, social y económico de la obesidad](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
-
-2026-07-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corresponsables](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNHcmMtd291SU1MSlFGUlJYUmFlbGhscHJ3ZzZuLUo1dVJXY3lQUU5fdk1vZmQtSTlFbXlfWlhyZDhMLUtVbGZsN1ZFRDNYVENoRzhpdEMxd3E2dXRIV0dLcmY5UXFXcXZmMnNBNDNUNkxnZWl0WWhqdGphV0RGMXZvd1NleGdRSlpweDlwUVBjZkQzR1hPUFBXOXFmNTRFSjBOU2c5TmdOZmNPVmxzVFhEbERNWjE1amFPMGxMcFlDX1BG?oc=5)
-
----
-
-### [Hunger ohne Stopp-Signal](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSTl6T2M0ZERLdFdRdy03dXZmQjU0RV9TdFpUTzZEem04MkhZaFJwTGRvWmxkel9RY2k1RHk2UkMzMjR3d1BESXhoOHZ4UGl1QUtoelFWcmM4N0g2UnRzTV9uR2UxQQ?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSTl6T2M0ZERLdFdRdy03dXZmQjU0RV9TdFpUTzZEem04MkhZaFJwTGRvWmxkel9RY2k1RHk2UkMzMjR3d1BESXhoOHZ4UGl1QUtoelFWcmM4N0g2UnRzTV9uR2UxQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

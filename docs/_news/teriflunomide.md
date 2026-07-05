@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/teriflunomide/
 <li>dense granule disease（97.8%）</li>
 <li>penile fibromatosis（97.3%）</li>
 <li>Ledderhose disease（97.2%）</li>
-<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 MS</span></li>
+<li>multiple sclerosis（97.2%）</li>
 <li>chronic hepatitis C virus infection（97.0%）</li>
 <li>palmar fibromatosis（96.9%）</li>
 <li>CMM7（96.8%）</li>
@@ -52,95 +52,9 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（0 則）
 
-### ['Healthy' dad 'handed death sentence' after struggles swallowing food turned out to be cancer - Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFVNFEzMXQ5T3lZazhUYzRtMnlEZUlSdjBGcXhxYmtXb0w5RlFuaWprNmhWc0czRThiSGtLVFZUSFRZcHFfaV80bU5PZFdvZW5YRE9xMVoxRTFUYUd0dGhPeFBNNmpJN0VpMUVnd1pyZUpyWU1ZaTFQZjZPZWc5S21ORWg2X2FtTjdkUXQ3QXV3NGtFY1E?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
----
-
-### [Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
----
-
-### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
-
----
-
-### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
-2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
----
-
-### [Prostate cancer victims ‘betrayed’ by screening chiefs - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
-
----
-
-### [Memory Loss May Not Be the Earliest Sign of Alzheimer’s - Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nautilus | Science](https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5)
-
----
-
-### [Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
-
-2026-07-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5)
-
----
-
-### [New app aims to cut NHS waiting times for patients](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16TXJ0YWNyUHktYWZRSlJNenZ4Zzk1Y2I0UUlXS2hxcHdYY0VISUVZZGRYZm90dzdDYWVfeXNDYkhHclVVc0tNZm5tdzlIUDBJb2dYUm8xWFJ3elU1?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16TXJ0YWNyUHktYWZRSlJNenZ4Zzk1Y2I0UUlXS2hxcHdYY0VISUVZZGRYZm90dzdDYWVfeXNDYkhHclVVc0tNZm5tdzlIUDBJb2dYUm8xWFJ3elU1?oc=5)
-
----
-
-### [Statt Chiasamen: Basilikumsamen sollen das neue Gesundheitswunder-Wunder sein!](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzlKNlBHZ2E5Nk5MNEdFdlNNazJSQzYwQzJ4MGFMR2k3c21vWTEtSUFNa1RrbnlKLVJRQlJkT3Fjend0QmROZHp1QVB5Vml1S0EzdDI3VG1ZQkxKZDlEV0MzWWJYVklmSy1CMVZsbl9kRDlHSTc4T3d1eDFNNURJSklNOUFMZnlPcVpQcllnM04zTlBhTzVaZDZwY3hUc2FFazA0blJaWGdETFRy?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span>
-
-來源：[Freundin](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzlKNlBHZ2E5Nk5MNEdFdlNNazJSQzYwQzJ4MGFMR2k3c21vWTEtSUFNa1RrbnlKLVJRQlJkT3Fjend0QmROZHp1QVB5Vml1S0EzdDI3VG1ZQkxKZDlEV0MzWWJYVklmSy1CMVZsbl9kRDlHSTc4T3d1eDFNNURJSklNOUFMZnlPcVpQcllnM04zTlBhTzVaZDZwY3hUc2FFazA0blJaWGdETFRy?oc=5)
-
----
-
-### [Kann die Einnahme von Vitamin D Kinder vor Atemwegsinfekten schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
-
-2026-07-03 <span class="news-indication-tag">MS</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhjbmZ6Sm83dm1zbzRfRGVDZ1EweUJRQnNvd2NIVTBFRzc5UHl0c1BJVDllXzFGSk9tRW9lM3o2YVdXT3ZwY3BPeFE2YkJ6YlBuNk8wWGtpLUx2TklpdnItR1FPcGR4RUZPd0RHMXM3Rjd1WWxoRDRCb3lrRGNRSUU1WENmYnlKRENXUnFRUHNzYjNDTHh4YVZHYWpmZGw2QmxDbjZpMHNIMWpFa1RIN21JaEJKRXZDcHI4a2dYbXZkeFI5a0NDdQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

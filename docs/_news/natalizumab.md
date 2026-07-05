@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,55 +52,9 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（0 則）
 
-### [Krafttraining: 30 Minuten pro Woche senken Diabetes-Risiko um 42%](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
-
-2026-07-04 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0luUkRIdER3TXhRUWd5ekxIaWRkM2V5b1RJbUlTbFlWWUFkYjJqQWRPbVM4VkMxcmxlOG83cjloWnRhdU9zd3JmUV8xWmVvM241ODY5c0JNaklxOHdGcVk5cENDYl8xaHB5SVpKWDl6YUNiVFZJUlhmY2lJRS1ZZld5dGFWMjVjaVlJNmFpc2toYWRRVVVVbEdrSHdNMEJLbmY5MmNFOEVGMXZTRXZtN1o2V05WWFBUOFRYcQ?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko: neue Studien, Antikörper & Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnhGbWFuRnI4d0dGazlyWExpUW56TzdYLXVUNE1ZbTVuRmF6YlZ2TUt4ckNxczR4clpiYjJNX24wYmc5NTVVRzJGSzVoR3FBSkFuUkZ2S0NvRE1ta2FzYlBnNTRRcUp5S3FvQy1XUmpKTXBXUElMSGYtWENZcEIyRERKbm9xRjNWQjRxbkRvdHhTcFJhLTRJR193bVZyT1ZZVVNLZ2hmLUluTmQtSGlrQ0VB?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnhGbWFuRnI4d0dGazlyWExpUW56TzdYLXVUNE1ZbTVuRmF6YlZ2TUt4ckNxczR4clpiYjJNX24wYmc5NTVVRzJGSzVoR3FBSkFuUkZ2S0NvRE1ta2FzYlBnNTRRcUp5S3FvQy1XUmpKTXBXUElMSGYtWENZcEIyRERKbm9xRjNWQjRxbkRvdHhTcFJhLTRJR193bVZyT1ZZVVNLZ2hmLUluTmQtSGlrQ0VB?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
----
-
-### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
-
-2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
-
----
-
-### [Diabetes-Umkehr: Prädiabetes-Behandlung senkt Herzinfarkt-Risiko um 58%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
-
-2026-07-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
-
----
-
-### [Asthma und COPD: Die Stimme könnte vor einer akuten Verschlechterung warnen](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
-
-2026-07-03 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG45QUdXeEZxM0czQWJ5LXN2b2g0SklNSDZkeUhzY0Rlck1oT0lSMGxtZGx3dXVyZ0EtaGNNVU1keGoyNG8waVdtcS1RaDlwQzRiMXJoRDFwd0d5UmY4ekJ6Mm5PemZJNWJ0NS03endBdGZLT21uZ3p2eHFLUGFSNl8zUnNNOGVGV1NDSklqdzRzdjZubVVYanRoeGhpbEtoZzZkMThTYkRtQjY5cmRBOA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

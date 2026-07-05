@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,39 +52,9 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [Hirnstimulation: 290.000 TPS-Sitzungen weltweit bei Alzheimer](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRy1HelVMTm13ckt4UEhIZldpYU55TTBaeVhhaFo0aUZwMnBJcDIxUzJBMDdHSkVQMmMzcGJhVHhWamtMN3RfUk4xcFVOMDNQb08tR1NlekxteGNsM0JJR29QOXJvOWxkTEs4NXVGLUxCeU90ZEVuT3pPTWVzN1JuLThzU25FOG8xZkdJTnAtV1hIaWxBZ3QxajJoWm1RUXpqQVVNWnRQSEdDNVdqX0E?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depression</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRy1HelVMTm13ckt4UEhIZldpYU55TTBaeVhhaFo0aUZwMnBJcDIxUzJBMDdHSkVQMmMzcGJhVHhWamtMN3RfUk4xcFVOMDNQb08tR1NlekxteGNsM0JJR29QOXJvOWxkTEs4NXVGLUxCeU90ZEVuT3pPTWVzN1JuLThzU25FOG8xZkdJTnAtV1hIaWxBZ3QxajJoWm1RUXpqQVVNWnRQSEdDNVdqX0E?oc=5)
-
----
-
-### [Zahngesundheit: Verzicht auf Zahnarzt erhöht Demenzrisiko messbar](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUNlTkFYaEI3S3FHWkRtdEpOU29HMnFjZUVrWHlJTGNjMWRwS3I2ZmMzZlo2MVNRdmZFUWRXSDlCajN4N09nM3JxcU5YbTd6a2t4MmpYakhNVXI3WEZZeXFqMXZjaDVNd01yR1ZYd3ZjYTFsS3RWRUtYSENJR0xIbTRJM1djc1lQck5xM3M0UWVKX3RRS1NXOUQwR3huOVdXY2pmZ05Jb2hfLXBRMTBVOWRraEg?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depression</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUNlTkFYaEI3S3FHWkRtdEpOU29HMnFjZUVrWHlJTGNjMWRwS3I2ZmMzZlo2MVNRdmZFUWRXSDlCajN4N09nM3JxcU5YbTd6a2t4MmpYakhNVXI3WEZZeXFqMXZjaDVNd01yR1ZYd3ZjYTFsS3RWRUtYSENJR0xIbTRJM1djc1lQck5xM3M0UWVKX3RRS1NXOUQwR3huOVdXY2pmZ05Jb2hfLXBRMTBVOWRraEg?oc=5)
-
----
-
-### [Los probióticos podrían ayudar a aliviar los síntomas de la depresión en adultos mayores](https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGVDR2RiRkZQbF9Hdld5blllVXB2bmVLdDQ2ZkpTUHRLeWU3Qm00aWotMzJBNGRxbHN4cGtqZkM1UUFUY3NUUnE2bU1HZ3lFY1BHNC11WXJzMDFUY2k1b1NMSnZmWVlpdzZFQmNzbVBYMmpsVmxrMGxvNGdpS2NodW1JY3ZFakdKTWlkVzFWcG1DYzdXb3NtZHltWktWTDZrbmpVbk9aLUR0U1JXLVJlRXQ3Q2hqaHM1NjlWdkZHRlZnVTdONEE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depresión</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGVDR2RiRkZQbF9Hdld5blllVXB2bmVLdDQ2ZkpTUHRLeWU3Qm00aWotMzJBNGRxbHN4cGtqZkM1UUFUY3NUUnE2bU1HZ3lFY1BHNC11WXJzMDFUY2k1b1NMSnZmWVlpdzZFQmNzbVBYMmpsVmxrMGxvNGdpS2NodW1JY3ZFakdKTWlkVzFWcG1DYzdXb3NtZHltWktWTDZrbmpVbk9aLUR0U1JXLVJlRXQ3Q2hqaHM1NjlWdkZHRlZnVTdONEE?oc=5)
-
----
-
-### [¿La creatina puede ayudar a tratar la depresión? - Salud a Diario](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlF2Mk44V2JpakFRMWRxbk1aaHRzMjR4bG1lSXh3SWdoc0dxVmZfMHdsR212V3A1X0Rlajd0XzMtNGt3ZXFlRlVMdThNY1dfM0FhSGhpaXA5aEZQQWF5MFFYRnpZMzgwY2pOTk1KRWRfY3FoZ1B5dGZHSzRMaW1QUElZajBBMFF1ZmhCTm4wb2FLWTg?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depresión</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlF2Mk44V2JpakFRMWRxbk1aaHRzMjR4bG1lSXh3SWdoc0dxVmZfMHdsR212V3A1X0Rlajd0XzMtNGt3ZXFlRlVMdThNY1dfM0FhSGhpaXA5aEZQQWF5MFFYRnpZMzgwY2pOTk1KRWRfY3FoZ1B5dGZHSzRMaW1QUElZajBBMFF1ZmhCTm4wb2FLWTg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
