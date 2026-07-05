@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li>asthma（99.9%）</li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -52,9 +52,15 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Protonenpumpenhemmer: 44% erhöhtes Demenzrisiko bei Dauertherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkpsNTFPTkhseWRHR0l4Umg0d3REMkJXVTA1VHNYVG8zQkNRNzQ5eVI4MENxWG9CUF9kMDNWdzNEWm5aZFhxNDl6S25VdEM2Z21WNUhBc1k3d1duTzlockF5N2R2OTA5dEY4dlVmUWJ2SEdTTWJ6NksyZVpVZUI2S3N1UVdPYnNVUl94Z2I3RldoMVlhQl80MFkzVEwtT0dLT2RWMWJ5ZGVuazBJV0p6Q21oUjdrS1o5YVlSS1Vn?oc=5)
+
+2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkpsNTFPTkhseWRHR0l4Umg0d3REMkJXVTA1VHNYVG8zQkNRNzQ5eVI4MENxWG9CUF9kMDNWdzNEWm5aZFhxNDl6S25VdEM2Z21WNUhBc1k3d1duTzlockF5N2R2OTA5dEY4dlVmUWJ2SEdTTWJ6NksyZVpVZUI2S3N1UVdPYnNVUl94Z2I3RldoMVlhQl80MFkzVEwtT0dLT2RWMWJ5ZGVuazBJV0p6Q21oUjdrS1o5YVlSS1Vn?oc=5)
+
+---
 
 
 <div class="disclaimer">

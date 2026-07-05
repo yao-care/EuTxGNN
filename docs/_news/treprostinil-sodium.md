@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+
+2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+
+---
+
+### [Konservierungsstoffe: Studie mit 112.000 zeigt 29% Bluthochdruck-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
+
+2026-07-05 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
+
+---
 
 
 <div class="disclaimer">

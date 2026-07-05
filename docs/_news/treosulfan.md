@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="Treosulfan 有什麼相關新聞？">
-<strong>Treosulfan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treosulfan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,47 @@ permalink: /news/treosulfan/
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（5 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Gewichtsabnahme: 42% weniger Diabetes-Risiko durch 30 Min. Krafttraining - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNuQXZqR1YzMkZ2WjI4U0l2elpCRHVJbmswVkVyTy1SNWF4LXdYOWJqX3Q4N2NOaC1VWWI5eWdULWdGT2RoZ1Z1VlRsWkRJWUdZX2dEN1pTU0pQd3NVdlJvbUFCTG5vRlE4YXFVRlVrUzVnRGJSaHllLUNjTlhWSG9ZYm5kVzEzbC1SWGZJeXFHQ0JPcHc5c213U1BxUGtVeVhHUnNfZkw3N2dkYkVEQXNB?oc=5)
+
+2026-07-05 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGNuQXZqR1YzMkZ2WjI4U0l2elpCRHVJbmswVkVyTy1SNWF4LXdYOWJqX3Q4N2NOaC1VWWI5eWdULWdGT2RoZ1Z1VlRsWkRJWUdZX2dEN1pTU0pQd3NVdlJvbUFCTG5vRlE4YXFVRlVrUzVnRGJSaHllLUNjTlhWSG9ZYm5kVzEzbC1SWGZJeXFHQ0JPcHc5c213U1BxUGtVeVhHUnNfZkw3N2dkYkVEQXNB?oc=5)
+
+---
+
+### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXo3NzlBSVdGaXNWandobmpoV0NxZzdIOHBaRXMyY2t4WklIY212blpnaXE4Z0RNSG9KY1NCQmh2OGF3bWRLdVNJdzNPTTdpQmhTcHlUUVJKaWpQcnVEVWpyMDZ2WkwtZXdGSXZtaU1EaFlTX004TXBrbVYxZWoyZXNFOE0xcTFhTG9rQkJWQWJfdmVWZFB4N3RfRTUyRXFHV3hEVEZYMUhjcHdadk1zUi1xbl9tMGlfTVc0?oc=5)
+
+2026-07-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXo3NzlBSVdGaXNWandobmpoV0NxZzdIOHBaRXMyY2t4WklIY212blpnaXE4Z0RNSG9KY1NCQmh2OGF3bWRLdVNJdzNPTTdpQmhTcHlUUVJKaWpQcnVEVWpyMDZ2WkwtZXdGSXZtaU1EaFlTX004TXBrbVYxZWoyZXNFOE0xcTFhTG9rQkJWQWJfdmVWZFB4N3RfRTUyRXFHV3hEVEZYMUhjcHdadk1zUi1xbl9tMGlfTVc0?oc=5)
+
+---
+
+### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
+
+---
+
+### [Diabetes-Umkehr: Prädiabetes-Behandlung senkt Herzinfarkt-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
+
+---
+
+### [Prädiabetes: Fünf Alltagsgewohnheiten senken Risiko um bis zu 10% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0xlTDdOQWRsMEtoYVlLWmdSb21KbDV2RTNtbExOUGIwb1AtSDVfNmhDYlQ1U2x6dUFoUVpJc0dWaWgtRW9nN2hGVnFDYkg0b3R4SG1mbnRKWFBSWFVoMkRaYWo1Q0tKX3N1dVFPQkREbm1UNU5NSmZWZVNFYkRDaGM1SjlGZW5MMjM1ZEVNd2w4S1VIa1RkVFhia2wwaXpqdlo3cTFEV2JFRUU0MnJ2OUg5RDY2SmhYYlVpX2htOA?oc=5)
+
+2026-07-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0xlTDdOQWRsMEtoYVlLWmdSb21KbDV2RTNtbExOUGIwb1AtSDVfNmhDYlQ1U2x6dUFoUVpJc0dWaWgtRW9nN2hGVnFDYkg0b3R4SG1mbnRKWFBSWFVoMkRaYWo1Q0tKX3N1dVFPQkREbm1UNU5NSmZWZVNFYkRDaGM1SjlGZW5MMjM1ZEVNd2w4S1VIa1RkVFhia2wwaXpqdlo3cTFEV2JFRUU0MnJ2OUg5RDY2SmhYYlVpX2htOA?oc=5)
+
+---
 
 
 <div class="disclaimer">
