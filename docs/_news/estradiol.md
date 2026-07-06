@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="Estradiol 有什麼相關新聞？">
-<strong>Estradiol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Estradiol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/estradiol/
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [El "efecto dominó" del estradiol: cómo la caída de estrógenos transforma el músculo en grasa abdominal](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM09EYWdCc0lDY0EzR1RIN2xuRHJKMU1JQUNRR01DaHNSaGNtTXJDMEhTLTVfQXZ0dlZRMkhGdFpLTHBaM21mMVdhUnUxQTVWQVhJcEZReTNyNDBFYloxdEloa3hUY0R5RzNkNHVpY1NSY08wQXZpdGtpaEFEYlVsR0Ruc19HZUlXdFVVOXBxRjB3LU5oZTBYa0NIQ3YwVUJJNm5YaUlBSXlzRWJIVlBJa1ZaWU0zXzh0QktqN0xRaVFiNjFZWV8tQ2JvckNiNUhwU0ZZdWVCcldKRmY5aU5B?oc=5)
+
+2026-07-06 <span class="news-drug-tag">Estradiol</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM09EYWdCc0lDY0EzR1RIN2xuRHJKMU1JQUNRR01DaHNSaGNtTXJDMEhTLTVfQXZ0dlZRMkhGdFpLTHBaM21mMVdhUnUxQTVWQVhJcEZReTNyNDBFYloxdEloa3hUY0R5RzNkNHVpY1NSY08wQXZpdGtpaEFEYlVsR0Ruc19HZUlXdFVVOXBxRjB3LU5oZTBYa0NIQ3YwVUJJNm5YaUlBSXlzRWJIVlBJa1ZaWU0zXzh0QktqN0xRaVFiNjFZWV8tQ2JvckNiNUhwU0ZZdWVCcldKRmY5aU5B?oc=5)
+
+---
 
 
 <div class="disclaimer">

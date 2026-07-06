@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Dolor crónico y obesidad: una relación bidireccional que exige un abordaje integral](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+### [Hypothalamische Adipositas: Oft übersehen, schwer behandelbar](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
 
-2026-07-06 <span class="news-indication-tag">obesidad</span>
+2026-07-06 <span class="news-indication-tag">Adipositas</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/orlistat/
 2026-07-05 <span class="news-indication-tag">obesidad</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
-
----
-
-### [Las señales que pueden avisar de un ictus o una crisis epiléptica en casa - El Debate](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbllKZl9hWEEwNHoyTGtFNzB5RzNnREc1eE9PY1JtM3JJRTNsZW9IWEp1ZU5fSG9YWV9RSlhKYUFfRjFnSEJmbWdCWUZDYm5xVzZkSHVGaTlQcVN3Skc1MmJqUTUzZHVSN3RET1FBdWRGWDZfT2pja2xsbk04djc5aXRwNmJJQnM0UE9hUHh3MERxNzlUVGFhakZPVy1jUE5uR2d1Q1BseFh3Vmk3ZU1jbm54WEs5em1Pb1JmR9IBwgFBVV95cUxQZ3pEaXVlYWNVYUxUNFZyT2pfTW9NcEZMSWJweVJiZUhTWjR6MzItUS1obTVjRHY2bzUyRk54aTNsbGNBMDZlaVRqYmZzT1RQeHlVX2RVYzAzNEpMeUY0aUplSkdCNVhUNGlrSHhEMURfX3ZhUFA3OWluYUNuNGk4dkhGYnE2Rk5QN3F3am5qX2pRTkV5WG1fZG1DSGppa1BZS2s4Sm9ENjJqa2h3LTBJR0RsUExKUzBjRDBMV2NMSU9uQQ?oc=5)
-
-2026-07-05 <span class="news-indication-tag">ictus</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbllKZl9hWEEwNHoyTGtFNzB5RzNnREc1eE9PY1JtM3JJRTNsZW9IWEp1ZU5fSG9YWV9RSlhKYUFfRjFnSEJmbWdCWUZDYm5xVzZkSHVGaTlQcVN3Skc1MmJqUTUzZHVSN3RET1FBdWRGWDZfT2pja2xsbk04djc5aXRwNmJJQnM0UE9hUHh3MERxNzlUVGFhakZPVy1jUE5uR2d1Q1BseFh3Vmk3ZU1jbm54WEs5em1Pb1JmR9IBwgFBVV95cUxQZ3pEaXVlYWNVYUxUNFZyT2pfTW9NcEZMSWJweVJiZUhTWjR6MzItUS1obTVjRHY2bzUyRk54aTNsbGNBMDZlaVRqYmZzT1RQeHlVX2RVYzAzNEpMeUY0aUplSkdCNVhUNGlrSHhEMURfX3ZhUFA3OWluYUNuNGk4dkhGYnE2Rk5QN3F3am5qX2pRTkV5WG1fZG1DSGppa1BZS2s4Sm9ENjJqa2h3LTBJR0RsUExKUzBjRDBMV2NMSU9uQQ?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（2 則）
 
-### [Dolor crónico y obesidad: una relación bidireccional que exige un abordaje integral](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+### [Hypothalamische Adipositas: Oft übersehen, schwer behandelbar](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
 
-2026-07-06 <span class="news-indication-tag">obesidad</span>
+2026-07-06 <span class="news-indication-tag">Adipositas</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
 
 ---
 
