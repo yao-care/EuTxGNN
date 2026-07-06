@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [Hearing and eye tests could spot dementia before symptoms show - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
 
@@ -64,30 +64,6 @@ permalink: /news/carbidopa/
 2026-07-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTJudnI1SVJDT3ZFUUgzR3Vwb3hmUkgxMXMzSVpSeTI5U0dWaWJxSnRzSExNd2JCbzVVTDNwRW9UYXVkOEp4RmNsX2RXcGlsM0xWSG9vRzNnRkNCMUY0NzduS1h1eU1qTGRCQU9oX29HWVZYeE9oaTVSTHFnYktLRGxnenpkV0NXLUE?oc=5)
-
----
-
-### [Could We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3h3OHF4Q19QNmlNR0tCZGRRN1NXXzJRWWd2eE5BRWZSYWZoVjg0NEhpZHlCSFNxejhaNXdpYlZWWG5qMDZfdzBqd29reXB1aVJIc2l3Zmt1SUV0RVltWFhHOHlxNVUxWkFHanYzbFNQekJ4QWlzUDRldFZxZ01FLVBYd2xUWnZoSzg3MThPV3pNUXpiV1ZBQUxqNF91QS1FNnpTZndZaDJTZ292TFhsV0ZpX0poZw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3h3OHF4Q19QNmlNR0tCZGRRN1NXXzJRWWd2eE5BRWZSYWZoVjg0NEhpZHlCSFNxejhaNXdpYlZWWG5qMDZfdzBqd29reXB1aVJIc2l3Zmt1SUV0RVltWFhHOHlxNVUxWkFHanYzbFNQekJ4QWlzUDRldFZxZ01FLVBYd2xUWnZoSzg3MThPV3pNUXpiV1ZBQUxqNF91QS1FNnpTZndZaDJTZ292TFhsV0ZpX0poZw?oc=5)
-
----
-
-### [Alzheimer-Krankheit: Studienwissen in die Praxis übertragen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer-Krankheit</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixgFBVV95cUxORExITzUzaFRyVkI0d0JQOTRMempTamNlV0RralU4ekxJYkJidURpb2FRd0VoYTAybXlwa2tJN0o0RzlTblVVY3lzYlB0U1VTUGpZS1RFTm5TcWZHQTN5WDNBRGZUaVd3OUd3MTJLMksxVTFwTGh4Z29lUEJMUWl5MlgzLVV5Y0ZubTRRTDZ2YVpsVTJxVTJ2X2FUbHpLQU5IcFRRZTFFbWE4OGUwRVpzX3ZPeVR0ZjNfeXhQeDdySUVUeHh6QXc?oc=5)
-
----
-
-### [Scientists discover why some brains resist Alzheimer's](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
-
-2026-07-03 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnc3FRdFBkb0JZenF0RGhIcXFSWWN3UmdKdTQyams2NmZlMHRwR0o1MnFuMFhTWGcwVUFHMk0wVU5WSEFnLVZZVkZqVDBhck1majYxNWpLX0hhZmwxZ3lOMlVwdV9hYllWQUd5eE01UQ?oc=5)
 
 ---
 

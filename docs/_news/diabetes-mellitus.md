@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Schlafapnoe, Entzündungen und Alzheimer: SGLT2-Inhibitoren senken das Risiko - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUtDc0tLTl9KUTBTRzh5eUxLRGlUU2RjTEx6QnRuYkpsRE9VQ3JyRlBxYmRad25XS0M1WjFLWlNVZlV0bEI2a2N5by1XTGxyQmZNakY1aUZpT0ZSUW5PZFZGTWplQ2c0N2hzVjVUVHhTTDZoeXByRWVLcVJMWUpOTXN2WldDR25rY3hLbVFzRkV2ZGstc1dVSWZnNVJRczRWRGpfX0xnOWxFcWc?oc=5)
+
+2026-07-06
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUtDc0tLTl9KUTBTRzh5eUxLRGlUU2RjTEx6QnRuYkpsRE9VQ3JyRlBxYmRad25XS0M1WjFLWlNVZlV0bEI2a2N5by1XTGxyQmZNakY1aUZpT0ZSUW5PZFZGTWplQ2c0N2hzVjVUVHhTTDZoeXByRWVLcVJMWUpOTXN2WldDR25rY3hLbVFzRkV2ZGstc1dVSWZnNVJRczRWRGpfX0xnOWxFcWc?oc=5)
+
+---
 
 ### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
@@ -124,11 +132,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXo3NzlBSVdGaXNWandobmpoV0NxZzdIOHBaRXMyY2t4WklIY212blpnaXE4Z0RNSG9KY1NCQmh2OGF3bWRLdVNJdzNPTTdpQmhTcHlUUVJKaWpQcnVEVWpyMDZ2WkwtZXdGSXZtaU1EaFlTX004TXBrbVYxZWoyZXNFOE0xcTFhTG9rQkJWQWJfdmVWZFB4N3RfRTUyRXFHV3hEVEZYMUhjcHdadk1zUi1xbl9tMGlfTVc0?oc=5)
+### [Diabetes: Ernährungstherapie senkt HbA1c um bis zu 2 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRW9odjBHLVV1UExwNkxpREh6THBXVUtIdUtpdDFZeVZTcENjUFR3NndjRW9iWDJwUnZVUHBZdEFVTjUzd0FISE5xYlB5ZHp6ZVQtTHJDWmpHSXZmX1Z6bG1KenpGVXV0bTBXNjJ2alktRTlaQlJzZ0w0bVhRWEFWaGM4NEdidDJDbXJUajc2V0ZMSVNLTzVENk9ILVE1V3FTZzJhcndkRnpkeEVBRVE?oc=5)
 
 2026-07-05
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXo3NzlBSVdGaXNWandobmpoV0NxZzdIOHBaRXMyY2t4WklIY212blpnaXE4Z0RNSG9KY1NCQmh2OGF3bWRLdVNJdzNPTTdpQmhTcHlUUVJKaWpQcnVEVWpyMDZ2WkwtZXdGSXZtaU1EaFlTX004TXBrbVYxZWoyZXNFOE0xcTFhTG9rQkJWQWJfdmVWZFB4N3RfRTUyRXFHV3hEVEZYMUhjcHdadk1zUi1xbl9tMGlfTVc0?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRW9odjBHLVV1UExwNkxpREh6THBXVUtIdUtpdDFZeVZTcENjUFR3NndjRW9iWDJwUnZVUHBZdEFVTjUzd0FISE5xYlB5ZHp6ZVQtTHJDWmpHSXZmX1Z6bG1KenpGVXV0bTBXNjJ2alktRTlaQlJzZ0w0bVhRWEFWaGM4NEdidDJDbXJUajc2V0ZMSVNLTzVENk9ILVE1V3FTZzJhcndkRnpkeEVBRVE?oc=5)
+
+---
+
+### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
+
+2026-07-05
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
 
 ---
 

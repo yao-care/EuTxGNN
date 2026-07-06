@@ -14,7 +14,7 @@ permalink: /news/tezacaftor/
 ---
 
 <p class="key-answer" data-question="Tezacaftor 有什麼相關新聞？">
-<strong>Tezacaftor</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tezacaftor</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tezacaftor/
 <p><a href="{{ '/drugs/tezacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（26 則）
+
+### [Krebsforschung: 110 Moleküle in Tee und Gemüse wirken wie Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVpoZG5RTHpocHh5cFJqQWh3dVd4OUNtMWp3Z08tYUxLSkdmSzdpZktrZ0h6bFJvdGk3TnQ4OXRtbG12c2FIMHpjQXZJVGNfQi1DdHQxYWUxS2J5Rmg4MkxkR2EwUDQwNnhGRTJ6MTVobHlJUW9CUkNudWdJVXRhRkRxSk41N011RExUcEY0aHRQcm4xVWRtQnN5ZHJ5Q3UwSUlBeXN6QVdPMXBFUDAyOGN3RlRwSFV4a09v?oc=5)
+
+2026-07-05 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVpoZG5RTHpocHh5cFJqQWh3dVd4OUNtMWp3Z08tYUxLSkdmSzdpZktrZ0h6bFJvdGk3TnQ4OXRtbG12c2FIMHpjQXZJVGNfQi1DdHQxYWUxS2J5Rmg4MkxkR2EwUDQwNnhGRTJ6MTVobHlJUW9CUkNudWdJVXRhRkRxSk41N011RExUcEY0aHRQcm4xVWRtQnN5ZHJ5Q3UwSUlBeXN6QVdPMXBFUDAyOGN3RlRwSFV4a09v?oc=5)
+
+---
 
 ### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
 
@@ -62,7 +70,15 @@ permalink: /news/tezacaftor/
 
 ---
 
-### [Madrid participa en un ambicioso ensayo internacional que combina campos eléctricos e inmunoterapia para combatir el tumor cerebral — Gacetín Madrid - Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
+### [Un estudio liderado por el Idibell demuestra que las células mutadas pueden permanecer latentes durante años antes del tumor](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTRQaXd3d3d5QmVBeTlmS1VqOFVjcUx3TFFDVWs4NnZNWE5MZm9FRS1PdDk0OVZTZTVRYTFpSllkUFQyZUFhMDhOWUFkVHVkNTJPXzBoUFEzYUM2XzBGbGtuUURJQjd1Tmk4VjljVGFRbUZRM09KUE1DaWR1b3BnTmxOa00tek5rY3N2ZlRHbUxrYm5sSDdvVG1jSXN0anNsd01vc19wYU5FQm1XWk5MeXY1VXZGOWRndHNxS2trVV95ZVA0MFVUUUYxV0kxazA1eW4xX09fZUduZmluRVVXQWNKTFpDUEx3?oc=5)
+
+2026-07-05 <span class="news-indication-tag">tumor</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMTRQaXd3d3d5QmVBeTlmS1VqOFVjcUx3TFFDVWs4NnZNWE5MZm9FRS1PdDk0OVZTZTVRYTFpSllkUFQyZUFhMDhOWUFkVHVkNTJPXzBoUFEzYUM2XzBGbGtuUURJQjd1Tmk4VjljVGFRbUZRM09KUE1DaWR1b3BnTmxOa00tek5rY3N2ZlRHbUxrYm5sSDdvVG1jSXN0anNsd01vc19wYU5FQm1XWk5MeXY1VXZGOWRndHNxS2trVV95ZVA0MFVUUUYxV0kxazA1eW4xX09fZUduZmluRVVXQWNKTFpDUEx3?oc=5)
+
+---
+
+### [Madrid participa en un ambicioso ensayo internacional que combina campos eléctricos e inmunoterapia para combatir el tumor cerebral - Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
 
 2026-07-05 <span class="news-indication-tag">tumor</span>
 
@@ -80,9 +96,17 @@ permalink: /news/tezacaftor/
 
 ### ['Healthy' dad's struggles swallowing food turned out to be terminal cancer - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFhhd2lXZDlaenFrY1l3azZYcW1fa0NNQTFGODIxM3BMQnhoMzk2MnYyWlBvZ1RjTlhVZnlaeHJ6RGFFcnNDNlR0V3RuQVVxN0dMWHlkZVoxRnhGRWtSTWtCQkZyZWRhUElXLUstRmF6LXJvRXdWdWVuMFBnRGc0UW1oLV9XZV85QU5sWWNR0gGTAUFVX3lxTE55RVB6X1BoNkduQno0Q2kzRGJxMERla3NObzV5bms3NUpGZGxSZTYzTGdrUXdHUUowd0V2VTViY0tsT1E1Nng0d2tvVjh3QzczUHlaMUE2bTV1a1hYeG5DaVhPRENVS1VRbHZKQVV3OTBFUnVHWmlQYTR2cXREel9fdy1NSExzSkZxU1QwdDZSYTN4bw?oc=5)
 
-2026-07-05 <span class="news-indication-tag">cancer</span>
+2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFhhd2lXZDlaenFrY1l3azZYcW1fa0NNQTFGODIxM3BMQnhoMzk2MnYyWlBvZ1RjTlhVZnlaeHJ6RGFFcnNDNlR0V3RuQVVxN0dMWHlkZVoxRnhGRWtSTWtCQkZyZWRhUElXLUstRmF6LXJvRXdWdWVuMFBnRGc0UW1oLV9XZV85QU5sWWNR0gGTAUFVX3lxTE55RVB6X1BoNkduQno0Q2kzRGJxMERla3NObzV5bms3NUpGZGxSZTYzTGdrUXdHUUowd0V2VTViY0tsT1E1Nng0d2tvVjh3QzczUHlaMUE2bTV1a1hYeG5DaVhPRENVS1VRbHZKQVV3OTBFUnVHWmlQYTR2cXREel9fdy1NSExzSkZxU1QwdDZSYTN4bw?oc=5)
+
+---
+
+### [Médecine : Une étude indique que les personnes nées après 1965 vieillissent plus vite que leurs aînés... - Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
+
+2026-07-05 <span class="news-indication-tag">cancer</span>
+
+來源：[Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
 
 ---
 
@@ -107,6 +131,14 @@ permalink: /news/tezacaftor/
 2026-07-05 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipgJBVV95cUxPWlR0YXRZbnVrZ0g5aWpyakNWZ3dNZHB6T0Z6elNkVG83VG5Pc2lwZlVRekJWZm04UjQtZ2JYeEY0ZkdBS3BlenQxMS1lZ1Z6dVg4RTZhbWZDWVhLYXVnQ2ctOGtJZ3ktQWhvWEZjWEVmVzlhZmpRc2d6bVZCOEg2WUFMVjdJbmVmVEhTWHQwYWtCN09Mc3lIZVlKTFhlUXNYZjhRc2ZiYXNSa0FWcXliUVRjYUFoa1BWVGxBS1lmT25NMzBwUmNvbFc2bXJBY2dweVd6Q21lQUduX0dabW9MUmNOd2x5MzEwZWJfZWJfSXJ4NUZlVjUtWHh2Qk5QZ19VcWRobEk2NGtLekp0OURGemJucGY2c21aNURXRFJwcFVkMEZpTkE?oc=5)
+
+---
+
+### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
+
+2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
 
 ---
 
@@ -214,14 +246,6 @@ permalink: /news/tezacaftor/
 
 ---
 
-### [«Facevo ultramaratone e Ironman, poi i problemi all'occhio e la perdita della vista: era il sintomo di un cancro» - Il Messaggero](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDcwc3lQci11Ti1fUVRnRUtTVHdBTjJyTm1ELUJQVXRRS0hXM3ZDd3FJVmNzeVI5UmhJazFiTEZfWHVoSlFubGx4VXJfN1o3UGxUZHZQMTVEM2pTbVlJMTBWWm9iMlM4aUs1NElvWThqcVBfWGNiUGZacGxKVHVxSFdMU1hUOWpFZ1JFdXNSMVp3ZUlhc0hPNVBGR19xcnQyTkJxTU5MZ3JQMURhUjlLNGp4MTLSAbABQVVfeXFMT3plSmExVW9QVjlsajZxTFpYYXJoUkNHY0VYcVZLUk1kU2NGVERJYkVNbWJmWmx1WWxhYUNxRXBpTXhsQXBtSENGeUJYQ2diVFB4MFJzWFp1cGRZckZDbDdDWm54YkpJVkxRcGhJdHN4Rjg2X1ByakxscTZoZktXTHdscTZyTFlLVVlwdjhnUGJpc3RONDZodWtIU2otYmh5cFkyaHpLYllGTjBlbTBHX3k?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancro</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDcwc3lQci11Ti1fUVRnRUtTVHdBTjJyTm1ELUJQVXRRS0hXM3ZDd3FJVmNzeVI5UmhJazFiTEZfWHVoSlFubGx4VXJfN1o3UGxUZHZQMTVEM2pTbVlJMTBWWm9iMlM4aUs1NElvWThqcVBfWGNiUGZacGxKVHVxSFdMU1hUOWpFZ1JFdXNSMVp3ZUlhc0hPNVBGR19xcnQyTkJxTU5MZ3JQMURhUjlLNGp4MTLSAbABQVVfeXFMT3plSmExVW9QVjlsajZxTFpYYXJoUkNHY0VYcVZLUk1kU2NGVERJYkVNbWJmWmx1WWxhYUNxRXBpTXhsQXBtSENGeUJYQ2diVFB4MFJzWFp1cGRZckZDbDdDWm54YkpJVkxRcGhJdHN4Rjg2X1ByakxscTZoZktXTHdscTZyTFlLVVlwdjhnUGJpc3RONDZodWtIU2otYmh5cFkyaHpLYllGTjBlbTBHX3k?oc=5)
-
----
-
 ### [Risiko Fettleber: die stille Epidemie](https://news.google.com/rss/articles/CBMieEFVX3lxTE9BcENXc3lHaGlHZVBZR3FvRFBMX3RnYlVGNW5HaGxwZ0FOcXFzcUZSSS00WWdsZG9lN3YtczBiTjBQYmc3NHl3dmlqaEp0RzRQbWpaMzhwRGRsWkxlNjctSWQ0a21PZ054QWhjWDQtMy1PcGZJaVNwWA?oc=5)
 
 2026-07-04 <span class="news-indication-tag">Krebs</span>
@@ -230,43 +254,11 @@ permalink: /news/tezacaftor/
 
 ---
 
-### [Quand la surveillance de la grossesse détecte des cancers maternels](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUxBYWE4NFVTcG5MUGRkUEZuYjFiNDR5U0w5cWhvYW41Z1dtRDgxOGpzRDYwT1pvNFJEdEREbnlGRVpsdnhTbEMwZVNKa2tBQU53X2dzd1V2Wk9vVVBmRHd1RE41WlBPNVhVQi1MTGN3TmdQTVJMS0xxMVZjQzZwbm1XLWhDdlg4RzEtX1ZKX2QxQWU2QTBITWpzQXVGal93VjFHUndMRUU5THRvM1dkNFhTQzU5QkVrYW1UN21jNm9wZw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancer</span>
-
-來源：[Mediapart](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUxBYWE4NFVTcG5MUGRkUEZuYjFiNDR5U0w5cWhvYW41Z1dtRDgxOGpzRDYwT1pvNFJEdEREbnlGRVpsdnhTbEMwZVNKa2tBQU53X2dzd1V2Wk9vVVBmRHd1RE41WlBPNVhVQi1MTGN3TmdQTVJMS0xxMVZjQzZwbm1XLWhDdlg4RzEtX1ZKX2QxQWU2QTBITWpzQXVGal93VjFHUndMRUU5THRvM1dkNFhTQzU5QkVrYW1UN21jNm9wZw?oc=5)
-
----
-
-### [Voici le coupable insoupçonné de notre alimentation qu'une étude associe au cancer du poumom - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1QxaGNlZjJYdUpaU2hDU1JQd1dvZ2VhMUdRMDV5VXM2UjhKSjdRSzFWMmFTZF9jeG5KQTNPSVkxb1p6OGxGMVhZZmlsM3VYeVlEMDFtazlLeDlhNWZVTl9pa2pRVmZudXRYX0lXa2xZUnhEcVFxdEdsRGVQMHpCeG9lRkVFcm14TDlMYVNpdDZKa0ZSRkQtY29POXJWUFQzZW5hbG9id3hoajBzTmdDeDk1YVFOV1JvWE9uZTJYTjhoVUN0Qlh4SGJYOThZaWFnODJ6Z2hoLTlYT0cyZmxOclhRdGo5c0RfQU9j?oc=5)
-
----
-
 ### [Two-time cancer survivors find love through charity work](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
 
 2026-07-04 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUTRaX2JseXBpb3lDenlwX1VqeFNSeFlQQnhVd1FDMnRJaTVyWUc2MVNrQ3dBWFJVU1E1N1NsZlVxVWhsWmRNTnVUUHBNcU5RUTEzYVJiZ0NxWk1Y?oc=5)
-
----
-
-### [Terapia CAR-T muestra potencial para eliminar el glioblastoma agresivo](https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3VJLTRQNGZPWWJwM19uenlTYXRkRTRfUmk0alZkRFIxLXp1UUpzZ29kQndldXlQckNLT1hFMFlQRXdla3dHanpDTlJaZHZlU1E5bGtUZzZVZVBpVlZJb0NYSHd6SW5IY01VcGlFZV8zMHpsSVpIQU9BMEtyYjBQNGtiYzh5cDJrRzJ3Z2pVeVVmN21qSjV5NnJTZlBJTGNRUFJ0X1ROVWZVa1hzTkxN?oc=5)
-
-2026-07-03 <span class="news-indication-tag">tumor</span>
-
-來源：[DiarioBitcoin](https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3VJLTRQNGZPWWJwM19uenlTYXRkRTRfUmk0alZkRFIxLXp1UUpzZ29kQndldXlQckNLT1hFMFlQRXdla3dHanpDTlJaZHZlU1E5bGtUZzZVZVBpVlZJb0NYSHd6SW5IY01VcGlFZV8zMHpsSVpIQU9BMEtyYjBQNGtiYzh5cDJrRzJ3Z2pVeVVmN21qSjV5NnJTZlBJTGNRUFJ0X1ROVWZVa1hzTkxN?oc=5)
-
----
-
-### [Prostate cancer victims ‘betrayed’ by screening chiefs - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
 
 ---
 

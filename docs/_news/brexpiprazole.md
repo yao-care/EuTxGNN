@@ -54,6 +54,14 @@ permalink: /news/brexpiprazole/
 
 ## 相關新聞（5 則）
 
+### [Transkranielle Pulsstimulation: 17.690 Sitzungen ohne Nebenwirkungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJVY0M2T1JQb1VEYzdpVHBaMzB4Z2Y5V3dNZ0tWOFIzRDJXTW1GRDhZTFowajFQVmhvdjRjdGZKb2VHbkhzbVhCcktDOUduRDNjMjZQbEtfWjMxY2hibXFvZnAwZTh1TVhCVHVIZFVqNVQ1ZjFSd3Rpc0kzUWVWai1XMXpsakpfc1d4eE44T2hqQm8tSy1iUVZ3YUsxMzgzT1Z3OHYyWWo3NlJsb2xCaGJRQ2tVeFU?oc=5)
+
+2026-07-05 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJVY0M2T1JQb1VEYzdpVHBaMzB4Z2Y5V3dNZ0tWOFIzRDJXTW1GRDhZTFowajFQVmhvdjRjdGZKb2VHbkhzbVhCcktDOUduRDNjMjZQbEtfWjMxY2hibXFvZnAwZTh1TVhCVHVIZFVqNVQ1ZjFSd3Rpc0kzUWVWai1XMXpsakpfc1d4eE44T2hqQm8tSy1iUVZ3YUsxMzgzT1Z3OHYyWWo3NlJsb2xCaGJRQ2tVeFU?oc=5)
+
+---
+
 ### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
 2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
@@ -83,14 +91,6 @@ permalink: /news/brexpiprazole/
 2026-07-04 <span class="news-indication-tag">depresión</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlF2Mk44V2JpakFRMWRxbk1aaHRzMjR4bG1lSXh3SWdoc0dxVmZfMHdsR212V3A1X0Rlajd0XzMtNGt3ZXFlRlVMdThNY1dfM0FhSGhpaXA5aEZQQWF5MFFYRnpZMzgwY2pOTk1KRWRfY3FoZ1B5dGZHSzRMaW1QUElZajBBMFF1ZmhCTm4wb2FLWTg?oc=5)
-
----
-
-### [TPS-Hirnstimulation: 785 Alzheimer-Patienten ohne klinisch relevante Nebenwirkungen - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFQtaVRNVFREMDJsTV95ZEQ2RHFWcjVjaTlubm1zNHVEd2VvTmd4TC1ZVUpsTFFDSjNuaEpyQndGMGlUeG1UUWhnTmp6akt1TmljV1RuYUxheWJfb3ZpbUoxNDdCWmR3SnZrLXZFME0wVmtmdWd4a2E5eHN2SHpKeW53Qzc3YnZ5V2dPczQ1MGhrRElNRXJjXzVDNS16Vlp3cEV6QnNWLXp0WnJHdVFWSTI3Q0I?oc=5)
-
-2026-07-04 <span class="news-indication-tag">depression</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFQtaVRNVFREMDJsTV95ZEQ2RHFWcjVjaTlubm1zNHVEd2VvTmd4TC1ZVUpsTFFDSjNuaEpyQndGMGlUeG1UUWhnTmp6akt1TmljV1RuYUxheWJfb3ZpbUoxNDdCWmR3SnZrLXZFME0wVmtmdWd4a2E5eHN2SHpKeW53Qzc3YnZ5V2dPczQ1MGhrRElNRXJjXzVDNS16Vlp3cEV6QnNWLXp0WnJHdVFWSTI3Q0I?oc=5)
 
 ---
 

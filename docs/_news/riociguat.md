@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="Riociguat 有什麼相關新聞？">
-<strong>Riociguat</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Riociguat</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/riociguat/
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（22 則）
 
 ### [Edulcorantes y microbiota intestinal: cómo afectan al intestino y qué dice la ciencia](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEdDRHNWTXozT3BHd3lWcUF0anB6bUtVSFF4UnhmcmlSakw5TUFwSXIyMDktU0ptcWotTzBMcGNPbER6Um45UGZpMDBIclplajN4OWtScUZXZnhSUWdKRjBiSFlFZnBNM1BHQUpPVWJyRXRnUnMyTWd1NjAxeko5aEJRUy1WUXBLRUZFekdRYndsa3RJcmhPX0ZDRnlYQ3h1WnF0ZWhBTmpiLTV3V1kydkFVZjJYZm5VWkZlRm1NYUV2bllmX1VUZmdn?oc=5)
 
-2026-07-05 <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-indication-tag">AF</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEdDRHNWTXozT3BHd3lWcUF0anB6bUtVSFF4UnhmcmlSakw5TUFwSXIyMDktU0ptcWotTzBMcGNPbER6Um45UGZpMDBIclplajN4OWtScUZXZnhSUWdKRjBiSFlFZnBNM1BHQUpPVWJyRXRnUnMyTWd1NjAxeko5aEJRUy1WUXBLRUZFekdRYndsa3RJcmhPX0ZDRnlYQ3h1WnF0ZWhBTmpiLTV3V1kydkFVZjJYZm5VWkZlRm1NYUV2bllmX1VUZmdn?oc=5)
+
+---
+
+### [Schlafapnoe, Entzündungen und Alzheimer: SGLT2-Inhibitoren senken das Risiko - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUtDc0tLTl9KUTBTRzh5eUxLRGlUU2RjTEx6QnRuYkpsRE9VQ3JyRlBxYmRad25XS0M1WjFLWlNVZlV0bEI2a2N5by1XTGxyQmZNakY1aUZpT0ZSUW5PZFZGTWplQ2c0N2hzVjVUVHhTTDZoeXByRWVLcVJMWUpOTXN2WldDR25rY3hLbVFzRkV2ZGstc1dVSWZnNVJRczRWRGpfX0xnOWxFcWc?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUtDc0tLTl9KUTBTRzh5eUxLRGlUU2RjTEx6QnRuYkpsRE9VQ3JyRlBxYmRad25XS0M1WjFLWlNVZlV0bEI2a2N5by1XTGxyQmZNakY1aUZpT0ZSUW5PZFZGTWplQ2c0N2hzVjVUVHhTTDZoeXByRWVLcVJMWUpOTXN2WldDR25rY3hLbVFzRkV2ZGstc1dVSWZnNVJRczRWRGpfX0xnOWxFcWc?oc=5)
+
+---
+
+### [Jeden Tag Kirschen essen: Kann ungeahnte Auswirkungen haben – Experten warnen vor diesem Risiko](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHFvZ2hSMzVuZ1hEUFFwSU80b3lwTEV2ZDVFUjRqRGhhOFY5cWNvWE1nMHl4TkdibWNuZWVzNlZJeVZDVjZRLTktYm5hNUxqbkVzbTJUZmxzekFHUG11NXI4QXZob0ZrbXBqX3ZjVUE4TmtUTlppcEh1WkhUTTV0ZGZ4dWlVdU5uY0hLeWJDUUJJbEs2MnRYUEJMSEhjLWFpQmp4ckV6RXJEOGQt?oc=5)
+
+2026-07-05 <span class="news-indication-tag">AF</span>
+
+來源：[wmn.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHFvZ2hSMzVuZ1hEUFFwSU80b3lwTEV2ZDVFUjRqRGhhOFY5cWNvWE1nMHl4TkdibWNuZWVzNlZJeVZDVjZRLTktYm5hNUxqbkVzbTJUZmxzekFHUG11NXI4QXZob0ZrbXBqX3ZjVUE4TmtUTlppcEh1WkhUTTV0ZGZ4dWlVdU5uY0hLeWJDUUJJbEs2MnRYUEJMSEhjLWFpQmp4ckV6RXJEOGQt?oc=5)
+
+---
+
+### [Scopre di aspettare due gemelli, durante l'ecografia le trovano una cisti ovarica di 9 centimetri: «Senza di loro sarei morta» - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzZpTlVGV3E5YXJsQ3kzTGJreUZ2R2NrYkxaTFhfam1wSlh4SGF1VGRJTnF2cHIweVlvUTQyQzlkNDlQeDJILVpwVWtyYk9hUWRHcklHVVBrMlVUZjJlaFl0c0RnVVppdEpVR04wZnZmdERsOEhJcVhiLWZjaW5QVFVSc1kxQm1COGRscW5hZVhxYmg2aVhHaTFoTzRLWE5xdUp2MEtsTHBhbThuNzJxVdIBrAFBVV95cUxPWVFhdXJpNy1GdXJ5bEl6M3diQXlKdm9LMmhqUFhzbXFiR2h1bFJHdDRqVEptNnVXVWNJY1drNjR5WHhLdmEzQjJ5SVNhbkNTRGZrUGhPUnM2bVJybkZaYjJTbWJEakhLM1VkUUdUYUd2Y1ZkTVFDd1ppMV9YNDVrbVBTbXRHbUhfeVZMWlZZT3BRWjBQM0dRWFF6NFRfZUU3djJvY3BEUTNrZXB5?oc=5)
+
+2026-07-05 <span class="news-indication-tag">AF</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzZpTlVGV3E5YXJsQ3kzTGJreUZ2R2NrYkxaTFhfam1wSlh4SGF1VGRJTnF2cHIweVlvUTQyQzlkNDlQeDJILVpwVWtyYk9hUWRHcklHVVBrMlVUZjJlaFl0c0RnVVppdEpVR04wZnZmdERsOEhJcVhiLWZjaW5QVFVSc1kxQm1COGRscW5hZVhxYmg2aVhHaTFoTzRLWE5xdUp2MEtsTHBhbThuNzJxVdIBrAFBVV95cUxPWVFhdXJpNy1GdXJ5bEl6M3diQXlKdm9LMmhqUFhzbXFiR2h1bFJHdDRqVEptNnVXVWNJY1drNjR5WHhLdmEzQjJ5SVNhbkNTRGZrUGhPUnM2bVJybkZaYjJTbWJEakhLM1VkUUdUYUd2Y1ZkTVFDd1ppMV9YNDVrbVBTbXRHbUhfeVZMWlZZT3BRWjBQM0dRWFF6NFRfZUU3djJvY3BEUTNrZXB5?oc=5)
 
 ---
 
@@ -78,19 +102,19 @@ permalink: /news/riociguat/
 
 ---
 
+### ['Healthy' dad's struggles swallowing food turned out to be terminal cancer - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFhhd2lXZDlaenFrY1l3azZYcW1fa0NNQTFGODIxM3BMQnhoMzk2MnYyWlBvZ1RjTlhVZnlaeHJ6RGFFcnNDNlR0V3RuQVVxN0dMWHlkZVoxRnhGRWtSTWtCQkZyZWRhUElXLUstRmF6LXJvRXdWdWVuMFBnRGc0UW1oLV9XZV85QU5sWWNR0gGTAUFVX3lxTE55RVB6X1BoNkduQno0Q2kzRGJxMERla3NObzV5bms3NUpGZGxSZTYzTGdrUXdHUUowd0V2VTViY0tsT1E1Nng0d2tvVjh3QzczUHlaMUE2bTV1a1hYeG5DaVhPRENVS1VRbHZKQVV3OTBFUnVHWmlQYTR2cXREel9fdy1NSExzSkZxU1QwdDZSYTN4bw?oc=5)
+
+2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFhhd2lXZDlaenFrY1l3azZYcW1fa0NNQTFGODIxM3BMQnhoMzk2MnYyWlBvZ1RjTlhVZnlaeHJ6RGFFcnNDNlR0V3RuQVVxN0dMWHlkZVoxRnhGRWtSTWtCQkZyZWRhUElXLUstRmF6LXJvRXdWdWVuMFBnRGc0UW1oLV9XZV85QU5sWWNR0gGTAUFVX3lxTE55RVB6X1BoNkduQno0Q2kzRGJxMERla3NObzV5bms3NUpGZGxSZTYzTGdrUXdHUUowd0V2VTViY0tsT1E1Nng0d2tvVjh3QzczUHlaMUE2bTV1a1hYeG5DaVhPRENVS1VRbHZKQVV3OTBFUnVHWmlQYTR2cXREel9fdy1NSExzSkZxU1QwdDZSYTN4bw?oc=5)
+
+---
+
 ### [Childwall woman's ‘heartbreaking’ news after spotting something under her arm - Liverpool Echo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3dYS2JCWDBXX0xUX2RxTnFZal96eGdPRFNRZmVGeExmMUp0dkZveXBQUnRndVpFZzBSdHVod1ZpOGtHcERNbGJSc29MSTYzUUhiMEo4OXdDalpoRXlPU1BDUWRTQVFKRHczYlJzOFhvUEhPamZFV0ZrTWVLUHZjTllpdWlQaVJkTUc0WFlCVjVMVElORW13WFZFSmNWeFVfVEFLTNIBqgFBVV95cUxOY3RVbzB5aE9BTWtkNG8yZ3NnVDNyR2FkVlJ6V04xZm05aklTZWpWSzNkdzdxc0dQNUFleGkyb0pwNlVNQUJLd002WDlWMFBXbGVaOE5TQ1J3b3dyZ19KVUlJYjZQQ0VkV01wMzZVSENIeklmZkpLNG5ORkRmb3JWNU02ajQzN1FNLUE1VjJPeDRhYUl1TDB3RVZsc1dBaWF6T2VBdzRBb21RUQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">AF</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3dYS2JCWDBXX0xUX2RxTnFZal96eGdPRFNRZmVGeExmMUp0dkZveXBQUnRndVpFZzBSdHVod1ZpOGtHcERNbGJSc29MSTYzUUhiMEo4OXdDalpoRXlPU1BDUWRTQVFKRHczYlJzOFhvUEhPamZFV0ZrTWVLUHZjTllpdWlQaVJkTUc0WFlCVjVMVElORW13WFZFSmNWeFVfVEFLTNIBqgFBVV95cUxOY3RVbzB5aE9BTWtkNG8yZ3NnVDNyR2FkVlJ6V04xZm05aklTZWpWSzNkdzdxc0dQNUFleGkyb0pwNlVNQUJLd002WDlWMFBXbGVaOE5TQ1J3b3dyZ19KVUlJYjZQQ0VkV01wMzZVSENIeklmZkpLNG5ORkRmb3JWNU02ajQzN1FNLUE1VjJPeDRhYUl1TDB3RVZsc1dBaWF6T2VBdzRBb21RUQ?oc=5)
-
----
-
-### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3fSAZsBQVVfeXFMUGx5bV9uRFJsZVIybVJPaEh5Mnlqc3pLdHdIZnNBbWxyckduOTc2M0t6NnBYNjZDY2xUQ3prRm1XeHA0LUJUZ2NpUVk2RmxDRFZ6eTRUeDRTeFQ1ZnZUMlNNSEtjbERDUlFOMWNldUpLdzc5LW5yem5wc3E1MU41QTZnWS1WalN2Nm02Qk02RHBhZWRieDZZQ2hhbEk?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3fSAZsBQVVfeXFMUGx5bV9uRFJsZVIybVJPaEh5Mnlqc3pLdHdIZnNBbWxyckduOTc2M0t6NnBYNjZDY2xUQ3prRm1XeHA0LUJUZ2NpUVk2RmxDRFZ6eTRUeDRTeFQ1ZnZUMlNNSEtjbERDUlFOMWNldUpLdzc5LW5yem5wc3E1MU41QTZnWS1WalN2Nm02Qk02RHBhZWRieDZZQ2hhbEk?oc=5)
 
 ---
 
@@ -115,6 +139,14 @@ permalink: /news/riociguat/
 2026-07-05 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
+
+---
+
+### [Drug warning issued after suspected overdoses linked to Spice in St Helens - St Helens Star](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHM1emhtcGVGa0hKNzBhN2NOeXBRRGROT0cxZG1lY2pFNnlRemxtaHgzanFFUlhzNzVtNHY2X1VyTnk0MF9BRHpwRE5LTWd0dkROUTVRdmVjdkN6SzlGX0hJa2JISE9LTVdyM2RCdVBSNV9nRE5yV1ZOYVI5eEo1ZFh2cEFjbW1OdzJFaV8tSGRpN2dxemc2WVlHWTFuZ2ZlVVdjbl9XNzU?oc=5)
+
+2026-07-05 <span class="news-indication-tag">AF</span>
+
+來源：[St Helens Star](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHM1emhtcGVGa0hKNzBhN2NOeXBRRGROT0cxZG1lY2pFNnlRemxtaHgzanFFUlhzNzVtNHY2X1VyTnk0MF9BRHpwRE5LTWd0dkROUTVRdmVjdkN6SzlGX0hJa2JISE9LTVdyM2RCdVBSNV9nRE5yV1ZOYVI5eEo1ZFh2cEFjbW1OdzJFaV8tSGRpN2dxemc2WVlHWTFuZ2ZlVVdjbl9XNzU?oc=5)
 
 ---
 
@@ -150,19 +182,19 @@ permalink: /news/riociguat/
 
 ---
 
-### [El devastador error que cometes en tu oficina y aumenta un 10 % el riesgo de morir de cáncer por cada hora extra que pasa - El Universo](https://news.google.com/rss/articles/CBMihgJBVV95cUxOalNnZ2NuOTRHbjhCeWVtS21oSU1DUHE1dVMzbHVNaFlzUWJNVkwzcTRIX1F5d0VVdzFMOWhUR0h6czhfd3FHdnRCNnFseXpkVTlWNzVSZHoyVGg4Tld4Z1VMYXR0VGQ1MFZaOFVORFZWNW5zMTN3SXczZHdiRDlBZlhvZlluNEc3RU80bXhSb2tKQzNtY01mQ1FCNUxjZ1ZoQWdJcGZNUkpOa0daMU5VLWE5UVpWbXByNl8tOXI2bFp5MFZzVW1yQkh6VEpOVk5zdUhsVmx2WGR0SEFXanduOWkzR2V5SmRsMFI1cHc5VU1HTHJTUUFGNWJtb1JuT1J6aDQ4eUJn0gGaAkFVX3lxTE52ajkxRHhCVWFURkdGeFZMMGQxb0Y1Z3RhTEdMOTduaEtGd0hQb3cyekljV09URzVYMENBSkdKc29GY2ZtaDJOSVVDTmMzNGtQZWpmX0xENlJ4bFV1SkFCQy0xR3czWVo4eGhBZWlxWHItWUYtaDlTMUx1YmtCVGszcGJZVTBjQ083Mi14X21uZXhTU3o0cF95Ulg5WjB4LTQ2YklfNmMxRWJqbUd1TlhmOFRtRUVUTjRoY1o1VWRJWmppaHhmX0l0TjJiSFVkVkU1UlFjWnA0bGRMckxGamVQWThWWnFlR2FPUU9rbnQ3bDlFWWtNNXRsVEQxU29tT3hHcUUzY3VEN2pNME9oWDR4dmdrRGRuYTloQQ?oc=5)
-
-2026-07-05 <span class="news-indication-tag">AF</span>
-
-來源：[El Universo](https://news.google.com/rss/articles/CBMihgJBVV95cUxOalNnZ2NuOTRHbjhCeWVtS21oSU1DUHE1dVMzbHVNaFlzUWJNVkwzcTRIX1F5d0VVdzFMOWhUR0h6czhfd3FHdnRCNnFseXpkVTlWNzVSZHoyVGg4Tld4Z1VMYXR0VGQ1MFZaOFVORFZWNW5zMTN3SXczZHdiRDlBZlhvZlluNEc3RU80bXhSb2tKQzNtY01mQ1FCNUxjZ1ZoQWdJcGZNUkpOa0daMU5VLWE5UVpWbXByNl8tOXI2bFp5MFZzVW1yQkh6VEpOVk5zdUhsVmx2WGR0SEFXanduOWkzR2V5SmRsMFI1cHc5VU1HTHJTUUFGNWJtb1JuT1J6aDQ4eUJn0gGaAkFVX3lxTE52ajkxRHhCVWFURkdGeFZMMGQxb0Y1Z3RhTEdMOTduaEtGd0hQb3cyekljV09URzVYMENBSkdKc29GY2ZtaDJOSVVDTmMzNGtQZWpmX0xENlJ4bFV1SkFCQy0xR3czWVo4eGhBZWlxWHItWUYtaDlTMUx1YmtCVGszcGJZVTBjQ083Mi14X21uZXhTU3o0cF95Ulg5WjB4LTQ2YklfNmMxRWJqbUd1TlhmOFRtRUVUTjRoY1o1VWRJWmppaHhmX0l0TjJiSFVkVkU1UlFjWnA0bGRMckxGamVQWThWWnFlR2FPUU9rbnQ3bDlFWWtNNXRsVEQxU29tT3hHcUUzY3VEN2pNME9oWDR4dmdrRGRuYTloQQ?oc=5)
-
----
-
 ### [EDHD-Modell: Koffein und L-Theanin als ADHS-Alternative statt Methylphenidat - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNZeTNESXZRR0lZTHRLVDdLRG80NEZ0NWhKSGJOVGZTRHVGb1JYMTVTSXJ2dEphdDhCX05tN1VTeWtzUGJSV2NlZFIzTG5hd1VnY2tUZHFaZ2diTEdnVHhBbXdKcEJ4VXFnZVo0RFgwbmN6NjRRZklLZjdkanpCQkVkam96RGxUNG85SVpteWdhRW9YZG1jWFZHT2liUV92ckRKcVhjSmZTMUk?oc=5)
 
 2026-07-04 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNZeTNESXZRR0lZTHRLVDdLRG80NEZ0NWhKSGJOVGZTRHVGb1JYMTVTSXJ2dEphdDhCX05tN1VTeWtzUGJSV2NlZFIzTG5hd1VnY2tUZHFaZ2diTEdnVHhBbXdKcEJ4VXFnZVo0RFgwbmN6NjRRZklLZjdkanpCQkVkam96RGxUNG85SVpteWdhRW9YZG1jWFZHT2liUV92ckRKcVhjSmZTMUk?oc=5)
+
+---
+
+### [Rabies-Fall nach Fledermauskontakt: Warum frühe PEP über Leben und Tod entscheidet - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFktTEFUeUFxY0lzdG5TS0RQNFByV1E1UWJabHpiVEx3Rnk0U2dXTl8tQUlsRnBMdFN0VWtIMXRkdEVIelVCLVNQanhBLTlCQzU4TTRaM0lNMFlHU2ZvNUUzRTRVeHIyY1phcGRITC01b21NQ2pIRkRlY2NHVG1Oc0k1enlBbWhUTXdVX1hCYjRSSExFbHduUWkzWFBoeVB0anhCWTJOYTZGWHRXYkFqMV9hMlFpUQ?oc=5)
+
+2026-07-04 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFktTEFUeUFxY0lzdG5TS0RQNFByV1E1UWJabHpiVEx3Rnk0U2dXTl8tQUlsRnBMdFN0VWtIMXRkdEVIelVCLVNQanhBLTlCQzU4TTRaM0lNMFlHU2ZvNUUzRTRVeHIyY1phcGRITC01b21NQ2pIRkRlY2NHVG1Oc0k1enlBbWhUTXdVX1hCYjRSSExFbHduUWkzWFBoeVB0anhCWTJOYTZGWHRXYkFqMV9hMlFpUQ?oc=5)
 
 ---
 
@@ -182,27 +214,19 @@ permalink: /news/riociguat/
 
 ---
 
-### [Could We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3h3OHF4Q19QNmlNR0tCZGRRN1NXXzJRWWd2eE5BRWZSYWZoVjg0NEhpZHlCSFNxejhaNXdpYlZWWG5qMDZfdzBqd29reXB1aVJIc2l3Zmt1SUV0RVltWFhHOHlxNVUxWkFHanYzbFNQekJ4QWlzUDRldFZxZ01FLVBYd2xUWnZoSzg3MThPV3pNUXpiV1ZBQUxqNF91QS1FNnpTZndZaDJTZ292TFhsV0ZpX0poZw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3h3OHF4Q19QNmlNR0tCZGRRN1NXXzJRWWd2eE5BRWZSYWZoVjg0NEhpZHlCSFNxejhaNXdpYlZWWG5qMDZfdzBqd29reXB1aVJIc2l3Zmt1SUV0RVltWFhHOHlxNVUxWkFHanYzbFNQekJ4QWlzUDRldFZxZ01FLVBYd2xUWnZoSzg3MThPV3pNUXpiV1ZBQUxqNF91QS1FNnpTZndZaDJTZ292TFhsV0ZpX0poZw?oc=5)
-
----
-
-### [Tragödie: Kind (11) stirbt nach Kontakt mit Wildtier](https://news.google.com/rss/articles/CBMiugFBVV95cUxORnpHaWstUGw2RTlUNHc3azd5Q0t5NjZKU1ZtYjJrUGdkUWJ4bnQ4T2pWWktDQ1RfYW4wZ2hVVWJlb1dMMExWVWNTdkFTQzNCVTJ1Z3RFMFRpQ0FMOURfbldQdzBmbU9fT0tpbXhPaGVuQm50VkRNbzFmNEhzNldKUXhWQTg3VkRURDFzZTBRWTFLRUdBV1dXSHJ3S2FUOXpoTk5uVTJKemY4a2FhRXprSVR4eGFtbXdHbkE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[Tips.at](https://news.google.com/rss/articles/CBMiugFBVV95cUxORnpHaWstUGw2RTlUNHc3azd5Q0t5NjZKU1ZtYjJrUGdkUWJ4bnQ4T2pWWktDQ1RfYW4wZ2hVVWJlb1dMMExWVWNTdkFTQzNCVTJ1Z3RFMFRpQ0FMOURfbldQdzBmbU9fT0tpbXhPaGVuQm50VkRNbzFmNEhzNldKUXhWQTg3VkRURDFzZTBRWTFLRUdBV1dXSHJ3S2FUOXpoTk5uVTJKemY4a2FhRXprSVR4eGFtbXdHbkE?oc=5)
-
----
-
-### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+### [La OMS da por finalizado el brote de hantavirus después de que la última persona en cuarentena diese negativo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXYyWEJfX05DQm1PTDVQUUtfTG13dzNjN0lBSGgzQTlvNUdyUjVHbi1scnk1b3RwRUEzSUZOeWNXRkJzUWNMNFVzTmNsZHdkNTRQS3NNZnZhTFBfbXBLelFaOHJSZ3NOT3dHazZLOXpES0dTSnVWdllxX0s3UHJSSWRNZ1lJaUVOX0xSenBTMFVNUDRVYXgxci00eGVLazhkN1pGb0tnUVJrcWY4SW5aQm83aDg2Q2Q3MXMyOUk1MmpCWXotQ19zTGVJVkp2RTNGdTk5SU44N1RqaXFrSWc?oc=5)
 
 2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
+來源：[101TV](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXYyWEJfX05DQm1PTDVQUUtfTG13dzNjN0lBSGgzQTlvNUdyUjVHbi1scnk1b3RwRUEzSUZOeWNXRkJzUWNMNFVzTmNsZHdkNTRQS3NNZnZhTFBfbXBLelFaOHJSZ3NOT3dHazZLOXpES0dTSnVWdllxX0s3UHJSSWRNZ1lJaUVOX0xSenBTMFVNUDRVYXgxci00eGVLazhkN1pGb0tnUVJrcWY4SW5aQm83aDg2Q2Q3MXMyOUk1MmpCWXotQ19zTGVJVkp2RTNGdTk5SU44N1RqaXFrSWc?oc=5)
+
+---
+
+### [Reinbek: Krankenhaus führt schonendes Verfahren in der Herzmedizin ein - Ahrensburg Portal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG1ZZEZTYXNjYlRPYjNYRzBCR0dPRGs0aDBQci1FY3h1WWc3amxQaG02Nm5JRFBkSGRKZDZvd0FOdjRWeDByNERxb2JiUVRmODdUNDYwSG1KNHVLZkFlYnVGSC1HZUdHLXRiU1ZfdnBfNFRWRmcyR2tVbFlvRjJ5TnhfLWI5QWpFNnJPR0xUZVR3WE1oVy1qS3RaWHYzeTNyN3c?oc=5)
+
+2026-07-04 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Ahrensburg Portal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG1ZZEZTYXNjYlRPYjNYRzBCR0dPRGs0aDBQci1FY3h1WWc3amxQaG02Nm5JRFBkSGRKZDZvd0FOdjRWeDByNERxb2JiUVRmODdUNDYwSG1KNHVLZkFlYnVGSC1HZUdHLXRiU1ZfdnBfNFRWRmcyR2tVbFlvRjJ5TnhfLWI5QWpFNnJPR0xUZVR3WE1oVy1qS3RaWHYzeTNyN3c?oc=5)
 
 ---
 

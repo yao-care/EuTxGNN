@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
 ### [Laut Expertin: Aus diesem Grund sollte man auch im Sommer Vitamin D nehmen](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
 
 2026-07-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[wmn.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
-
----
-
-### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3fSAZsBQVVfeXFMUGx5bV9uRFJsZVIybVJPaEh5Mnlqc3pLdHdIZnNBbWxyckduOTc2M0t6NnBYNjZDY2xUQ3prRm1XeHA0LUJUZ2NpUVk2RmxDRFZ6eTRUeDRTeFQ1ZnZUMlNNSEtjbERDUlFOMWNldUpLdzc5LW5yem5wc3E1MU41QTZnWS1WalN2Nm02Qk02RHBhZWRieDZZQ2hhbEk?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3fSAZsBQVVfeXFMUGx5bV9uRFJsZVIybVJPaEh5Mnlqc3pLdHdIZnNBbWxyckduOTc2M0t6NnBYNjZDY2xUQ3prRm1XeHA0LUJUZ2NpUVk2RmxDRFZ6eTRUeDRTeFQ1ZnZUMlNNSEtjbERDUlFOMWNldUpLdzc5LW5yem5wc3E1MU41QTZnWS1WalN2Nm02Qk02RHBhZWRieDZZQ2hhbEk?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
 
 2026-07-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
 
 ---
 
@@ -91,6 +83,14 @@ permalink: /news/peginterferon-alfa-2a/
 2026-07-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[La Opinión de Murcia](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmNrRVZldlN0WG5XT0xEbVBFNXhjQUZEaXJxWmdWaUZRWVlCVFlVVmZaQ2tfcHBlUVpNRG02M3RvN2JuZ2JpdXZZLVBHMXVra01mbndidnVaV1JZMTFNWS04MzZBUFpwTVVQZldBRzJyWlVKOVJTSzQyeVlhY2lJSHUzdmtyNzV2Y1FQM3ZZTGtIeF94ZU54LUNjdHFzbnFoZnF30gGoAUFVX3lxTE8zZDh6cWdSN2cwdl8xTlhuYUllN2d2aHNGZTBOc1JsX0o5NUx6aEVabzlOSEZkUEdLUVZyRjJCOV9ob1E2d1k0Ymc2OGxvQjhtRXo5anh2TUNJNzE4akFTQ3hfYnVtaEduRXBuUXFWWFhwOVo0NVpZVFVzQnRDSEtZWHY4ZnhURmpmay1FU19YU2RCUmsxajZUQURwaVhaTEFwUlhvc1lhZw?oc=5)
+
+---
+
+### [Death notices and funeral announcements from Grimsby and Scunthorpe Telegraph - June 29-July 5, 2026 - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
+
+2026-07-05 <span class="news-indication-tag">MS</span>
+
+來源：[Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
 
 ---
 
@@ -126,6 +126,14 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [La OMS da por finalizado el brote de hantavirus después de que la última persona en cuarentena diese negativo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXYyWEJfX05DQm1PTDVQUUtfTG13dzNjN0lBSGgzQTlvNUdyUjVHbi1scnk1b3RwRUEzSUZOeWNXRkJzUWNMNFVzTmNsZHdkNTRQS3NNZnZhTFBfbXBLelFaOHJSZ3NOT3dHazZLOXpES0dTSnVWdllxX0s3UHJSSWRNZ1lJaUVOX0xSenBTMFVNUDRVYXgxci00eGVLazhkN1pGb0tnUVJrcWY4SW5aQm83aDg2Q2Q3MXMyOUk1MmpCWXotQ19zTGVJVkp2RTNGdTk5SU44N1RqaXFrSWc?oc=5)
+
+2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[101TV](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXYyWEJfX05DQm1PTDVQUUtfTG13dzNjN0lBSGgzQTlvNUdyUjVHbi1scnk1b3RwRUEzSUZOeWNXRkJzUWNMNFVzTmNsZHdkNTRQS3NNZnZhTFBfbXBLelFaOHJSZ3NOT3dHazZLOXpES0dTSnVWdllxX0s3UHJSSWRNZ1lJaUVOX0xSenBTMFVNUDRVYXgxci00eGVLazhkN1pGb0tnUVJrcWY4SW5aQm83aDg2Q2Q3MXMyOUk1MmpCWXotQ19zTGVJVkp2RTNGdTk5SU44N1RqaXFrSWc?oc=5)
+
+---
+
 ### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
 
 2026-07-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -142,27 +150,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [El brote de virus del barco que paró en Canarias, extinguido](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Preferente.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx1UVhob0dEMTkyMkNBVWN5R19wR2c4S3M2YU9QUV81R3FFLU01aGp3MmsyNmlNYzhHZENROC1Zc1RNd1N6aEVkMG5WeDdyUkwwMVBWZmlaVEtYbnE5YlZiRHpGTWVDOG9kS1RpNlRnSVlYdV9JQlR2UndVMW03WmRTUUktQVlmQVVTM3ZKMGp0V3VBdW9Qbld2UFlFbW1pYkE1bFltNWRoM0o3MUYzMlMtdWZRV3Rpa2dlM0JQUTFKM1ZUS3dRag?oc=5)
-
----
-
 ### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
----
-
-### [Prostate cancer victims ‘betrayed’ by screening chiefs - The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
-
-2026-07-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWxEUnVxVzlrMEVUTU54Skl3QWg0Zl9IaGF4RHdBcFZBWnUtMHZUTXdjVUxPTUgxTHVmeDVtMmlXM0lBbVVzdkhrMW9iZTlVVEtlMzZONHM0NzlqUVhnQ0U2RXUzc0VTRzM5NS00NE52VW5rZ2xQS21Vd1dWR05DMEFiV3NhVDBWeEhseXpicFg4V1k4OHpV?oc=5)
 
 ---
 
