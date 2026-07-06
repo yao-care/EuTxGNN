@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [She woke up covered in bruises and was diagnosed with dementia – then fiancé's mask dropped - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
+
+2026-07-06
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
+
+---
 
 ### [Hearing and eye tests could spot dementia before symptoms show - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
 

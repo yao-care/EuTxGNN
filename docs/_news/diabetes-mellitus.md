@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,37 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
-### [Schlafapnoe, Entzündungen und Alzheimer: SGLT2-Inhibitoren senken das Risiko - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUtDc0tLTl9KUTBTRzh5eUxLRGlUU2RjTEx6QnRuYkpsRE9VQ3JyRlBxYmRad25XS0M1WjFLWlNVZlV0bEI2a2N5by1XTGxyQmZNakY1aUZpT0ZSUW5PZFZGTWplQ2c0N2hzVjVUVHhTTDZoeXByRWVLcVJMWUpOTXN2WldDR25rY3hLbVFzRkV2ZGstc1dVSWZnNVJRczRWRGpfX0xnOWxFcWc?oc=5)
+### [Diabetes-Medikamente senken Alzheimer-Risiko um 43%: neue Studienlage und Prävention - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFBmd2RzRUZRMFhQRmwtZ1B5amRzUXJ3T2sxSWZzRVoyNXMyem1ienhvYmJXeVFyeE1vTWY1VllMaDFYNXBjaHkyX3NEX3FwOGdrTW9KZUVmM0hzckhlcmtQVFlEQWFuM0NEQjFjejFib2g0ekQ4YUhXRGVsS3BwY29La3VvWEo3eVJkb2EtbXFJVlBPSjlib0hjX0hqSXBORzJuN1ZSVUlLVlduQllLd3N0cUpkdw?oc=5)
 
 2026-07-06
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOUtDc0tLTl9KUTBTRzh5eUxLRGlUU2RjTEx6QnRuYkpsRE9VQ3JyRlBxYmRad25XS0M1WjFLWlNVZlV0bEI2a2N5by1XTGxyQmZNakY1aUZpT0ZSUW5PZFZGTWplQ2c0N2hzVjVUVHhTTDZoeXByRWVLcVJMWUpOTXN2WldDR25rY3hLbVFzRkV2ZGstc1dVSWZnNVJRczRWRGpfX0xnOWxFcWc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFBmd2RzRUZRMFhQRmwtZ1B5amRzUXJ3T2sxSWZzRVoyNXMyem1ienhvYmJXeVFyeE1vTWY1VllMaDFYNXBjaHkyX3NEX3FwOGdrTW9KZUVmM0hzckhlcmtQVFlEQWFuM0NEQjFjejFib2g0ekQ4YUhXRGVsS3BwY29La3VvWEo3eVJkb2EtbXFJVlBPSjlib0hjX0hqSXBORzJuN1ZSVUlLVlduQllLd3N0cUpkdw?oc=5)
+
+---
+
+### [Ernährungstherapie: Medizinische Diät senkt Diabetes-Werte um 2% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
+
+2026-07-06
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
+
+---
+
+### [Typ-1-Diabetes: 16 Millionen Zellen offenbaren neue Therapie-Anker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFVMT1BUS212U01NYlRpVUhkcE5EU2lwTGYxblhvWnpUek0wMFJLek5jeUtZakRxcENjMVVjelJ3Qk5sVm0yazdidFl4M1M4clo3MkRtTTc1NFB6MjZib1NsLVJSTmg3alkzanlfdE9xbXNMQ1Q2eWtJbGlhaTR3QmZzUWZWUS1UTjJxLVVoSThEc3laVk9mQWlLMExNcEdScXFkdVVrWkk4OXdQVHB0TXB1TEw?oc=5)
+
+2026-07-06
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFVMT1BUS212U01NYlRpVUhkcE5EU2lwTGYxblhvWnpUek0wMFJLek5jeUtZakRxcENjMVVjelJ3Qk5sVm0yazdidFl4M1M4clo3MkRtTTc1NFB6MjZib1NsLVJSTmg3alkzanlfdE9xbXNMQ1Q2eWtJbGlhaTR3QmZzUWZWUS1UTjJxLVVoSThEc3laVk9mQWlLMExNcEdScXFkdVVrWkk4OXdQVHB0TXB1TEw?oc=5)
+
+---
+
+### [Krafttraining senkt Diabetesrisiko: 30 Minuten reichen – Technik, Medikamente und Risiken - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
+
+2026-07-06
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
 
 ---
 
@@ -129,54 +153,6 @@ permalink: /news/diabetes-mellitus/
 2026-07-05
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
-
----
-
-### [Diabetes: Ernährungstherapie senkt HbA1c um bis zu 2 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRW9odjBHLVV1UExwNkxpREh6THBXVUtIdUtpdDFZeVZTcENjUFR3NndjRW9iWDJwUnZVUHBZdEFVTjUzd0FISE5xYlB5ZHp6ZVQtTHJDWmpHSXZmX1Z6bG1KenpGVXV0bTBXNjJ2alktRTlaQlJzZ0w0bVhRWEFWaGM4NEdidDJDbXJUajc2V0ZMSVNLTzVENk9ILVE1V3FTZzJhcndkRnpkeEVBRVE?oc=5)
-
-2026-07-05
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRW9odjBHLVV1UExwNkxpREh6THBXVUtIdUtpdDFZeVZTcENjUFR3NndjRW9iWDJwUnZVUHBZdEFVTjUzd0FISE5xYlB5ZHp6ZVQtTHJDWmpHSXZmX1Z6bG1KenpGVXV0bTBXNjJ2alktRTlaQlJzZ0w0bVhRWEFWaGM4NEdidDJDbXJUajc2V0ZMSVNLTzVENk9ILVE1V3FTZzJhcndkRnpkeEVBRVE?oc=5)
-
----
-
-### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
-2026-07-05
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
----
-
-### [Metabolisches Syndrom: Krafttraining senkt Diabetes-Risiko um 42% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1pMVGkyOG0yTDh5NHNFZG40Y3liaF9DZ05yWGE5LXFDS0hkRWx4YVNBekJnY19JODQxX3FrOHZtWmRDM1dIVUF3M3F2UHQ0bkt3LVduYzY0WTFqejZTSzNWMWFOS2FObk9LbFltRDkxWjMxWU9rUVdjMTNURFgyVlZfcjI2a1Zfa1l6UU05dy1DeDVZa1Iwbk1BamZjXzhRZmEwMDUxdGZOTmtoWmhMbXg1dDBfTnV2S3lPTQ?oc=5)
-
-2026-07-05
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1pMVGkyOG0yTDh5NHNFZG40Y3liaF9DZ05yWGE5LXFDS0hkRWx4YVNBekJnY19JODQxX3FrOHZtWmRDM1dIVUF3M3F2UHQ0bkt3LVduYzY0WTFqejZTSzNWMWFOS2FObk9LbFltRDkxWjMxWU9rUVdjMTNURFgyVlZfcjI2a1Zfa1l6UU05dy1DeDVZa1Iwbk1BamZjXzhRZmEwMDUxdGZOTmtoWmhMbXg1dDBfTnV2S3lPTQ?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
-2026-07-04
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
----
-
-### [Diabetes-Umkehr: Prädiabetes-Behandlung senkt Herzinfarkt-Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
-
-2026-07-04
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmQtME5neUlpZmpxeGZXZmpaaF96bzFVZTU3TTJ4ZlRRT21kZGdUUTV3ZGg3bWp0MWhWTUNnV2hzVFJ1OTFpb2o2M25LSG4xcGdfaTdPcmwtZWtZZEdhTmZZQ2JxbmRWcE9ydmpsWndLMjBqOHNReFZFSUVVQVE1YkJWNTBBUHRBWVI2cDN0amhaTktSY3VCbkViSnI5UVNiUk5YTWpKazQ4c2FJTzV2SGoxb0c0Sno2SXdj?oc=5)
-
----
-
-### [Prädiabetes: Fünf Alltagsgewohnheiten senken Risiko um bis zu 10% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0xlTDdOQWRsMEtoYVlLWmdSb21KbDV2RTNtbExOUGIwb1AtSDVfNmhDYlQ1U2x6dUFoUVpJc0dWaWgtRW9nN2hGVnFDYkg0b3R4SG1mbnRKWFBSWFVoMkRaYWo1Q0tKX3N1dVFPQkREbm1UNU5NSmZWZVNFYkRDaGM1SjlGZW5MMjM1ZEVNd2w4S1VIa1RkVFhia2wwaXpqdlo3cTFEV2JFRUU0MnJ2OUg5RDY2SmhYYlVpX2htOA?oc=5)
-
-2026-07-04
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0xlTDdOQWRsMEtoYVlLWmdSb21KbDV2RTNtbExOUGIwb1AtSDVfNmhDYlQ1U2x6dUFoUVpJc0dWaWgtRW9nN2hGVnFDYkg0b3R4SG1mbnRKWFBSWFVoMkRaYWo1Q0tKX3N1dVFPQkREbm1UNU5NSmZWZVNFYkRDaGM1SjlGZW5MMjM1ZEVNd2w4S1VIa1RkVFhia2wwaXpqdlo3cTFEV2JFRUU0MnJ2OUg5RDY2SmhYYlVpX2htOA?oc=5)
 
 ---
 

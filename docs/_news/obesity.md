@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [¿Tienen las nuevas generaciones más predisposición genética a sufrir obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
 
 2026-07-05
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
-
----
-
-### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
-2026-07-04
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 ---
 

@@ -56,19 +56,35 @@ permalink: /news/multiple-sclerosis/
 
 ## 相關新聞（12 則）
 
-### [Laut Expertin: Aus diesem Grund sollte man auch im Sommer Vitamin D nehmen](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
+### [Epidemia de ébola en RDC: 1.561 casos confirmados, 506 fallecimientos y una tasa de letalidad del 32,4% - Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJ4UElXaXlmU0xDVEpvbmtzTW5ia3NpTlRxaF9FQnI1QlllTjJXc2s3bnVTN1htbGZxQ0lEZVoyVkF0SXBid1BiVkhYb2xoTml2TFotendyOUVyd2Y3R1RNakJ5RllJQVJLUTlOY1RlUzJIZFhIbnpnTXVxY0Z1YVFrakVvX0ZTR1p4ZE14b0hnNjhHZ3lOd2JVcXVDOHZZQndXdUFR?oc=5)
 
-2026-07-05
+2026-07-06
 
-來源：[wmn.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDZhalB0QXRLZFpuTlpfSE9IWV95VWlWOEtOMG1oMVRYRkdfMXlJWXcwM0VfNzJtdkhIM0FCckpNOW5CQVNJUVU1M1lvYXFVeUEtRld0RklnMXVoVkhYYTQtM2ZzbDFLU0ZsS2lNZjNnSTRPSzNzZzVkNFJtSi1oaTNyUWw3WS04QlNPYVRydw?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJ4UElXaXlmU0xDVEpvbmtzTW5ia3NpTlRxaF9FQnI1QlllTjJXc2s3bnVTN1htbGZxQ0lEZVoyVkF0SXBid1BiVkhYb2xoTml2TFotendyOUVyd2Y3R1RNakJ5RllJQVJLUTlOY1RlUzJIZFhIbnpnTXVxY0Z1YVFrakVvX0ZTR1p4ZE14b0hnNjhHZ3lOd2JVcXVDOHZZQndXdUFR?oc=5)
 
 ---
 
-### [Experten des Klinikums Ingolstadt informieren über Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTVBTkVLSXVaZ2dEYVp5VUQ0TGtmUnFlVElCbllrQU5hTF9XZTMtNXNtMC1wWFA0MWtPQTJJZkFZYzg1Z1RZbGNDNGt6S2FkZUFTeFpUSGFSeERERjFyVmxFT28xdDFOVTBvOE9mZXVEdkpjR21rTHFkbFZLVUhFbkxGZ01DU3pQNVZHeDRxWFZhVUMxLUYxN1ludzF3RXQ0dEoxRGt2UTFUTUxFRE1RU3RBUi1xTnJvUlhJRzIxbE1jOVJCQ1VlTmV0VHp2RGs?oc=5)
+### ["Entzündungsbremse" im Gehirn könnte vor Alzheimer schützen - Der Standard](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmNvWmJDMVVUQlUyY1BfWDM3SUdNZWo1VXlWR3Q5by1mWFNKckFZSm9jSWVsWHBtV3NvRnU5dkxTdG5DV1BfVXVwYUZoVDQ5ZkR2bk9uVVk3cVhSSHNRS2k2czRXdUhiV043M2dfMmRzZkU0V1JSODdBd0E3QXpmbUl6X1c3a0l0ZW1Gd3FRX3pSWGFPeXBpMlduaVJ3TEhqTGl4MmdEMWROQkU?oc=5)
+
+2026-07-06
+
+來源：[Der Standard](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmNvWmJDMVVUQlUyY1BfWDM3SUdNZWo1VXlWR3Q5by1mWFNKckFZSm9jSWVsWHBtV3NvRnU5dkxTdG5DV1BfVXVwYUZoVDQ5ZkR2bk9uVVk3cVhSSHNRS2k2czRXdUhiV043M2dfMmRzZkU0V1JSODdBd0E3QXpmbUl6X1c3a0l0ZW1Gd3FRX3pSWGFPeXBpMlduaVJ3TEhqTGl4MmdEMWROQkU?oc=5)
+
+---
+
+### [Atorvastatin 'call 111' warning as NHS cautions on 'serious' side effects - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk5WdDFPYlZnN1dkd2ZYcm8tMHBYZUd0b01OQzJ1N05nRGwyVm1SYm5LaTN5WnhqdmlVR18zdF8yeEhOOHhxMnlTOUxaRE1ycGpkZUlzdWNzbkFDcFVMa0pZaUNCWkotVFRHdGhIVFI1MmlEN2VPQ21WYTlKMU5ONWltQkFaZw?oc=5)
 
 2026-07-05
 
-來源：[Donaukurier](https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTVBTkVLSXVaZ2dEYVp5VUQ0TGtmUnFlVElCbllrQU5hTF9XZTMtNXNtMC1wWFA0MWtPQTJJZkFZYzg1Z1RZbGNDNGt6S2FkZUFTeFpUSGFSeERERjFyVmxFT28xdDFOVTBvOE9mZXVEdkpjR21rTHFkbFZLVUhFbkxGZ01DU3pQNVZHeDRxWFZhVUMxLUYxN1ludzF3RXQ0dEoxRGt2UTFUTUxFRE1RU3RBUi1xTnJvUlhJRzIxbE1jOVJCQ1VlTmV0VHp2RGs?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk5WdDFPYlZnN1dkd2ZYcm8tMHBYZUd0b01OQzJ1N05nRGwyVm1SYm5LaTN5WnhqdmlVR18zdF8yeEhOOHhxMnlTOUxaRE1ycGpkZUlzdWNzbkFDcFVMa0pZaUNCWkotVFRHdGhIVFI1MmlEN2VPQ21WYTlKMU5ONWltQkFaZw?oc=5)
+
+---
+
+### [I scratch my forearms when I am stressed. Is this self-harm? - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTdoSkpvXzJNdHVPWVNFaGF5c2dMdU5QOE42dENIbnl0a0dibTBtN0JhcktpZTRVRndTeGdpTUx2Tmh0blpMU3FJQ2F6QmZtcFB0NzBHbWNnaFdXVjFNRS1HdUJWenZwQm9PTGNGMV9TSy1QeE0yTi1zc2VlVkJCbHJSTmZVUGpzbUVTdHhORDRDVkVjMkt4WklQQ3NRR1EtdGcxc3JJQQ?oc=5)
+
+2026-07-05
+
+來源：[The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTdoSkpvXzJNdHVPWVNFaGF5c2dMdU5QOE42dENIbnl0a0dibTBtN0JhcktpZTRVRndTeGdpTUx2Tmh0blpMU3FJQ2F6QmZtcFB0NzBHbWNnaFdXVjFNRS1HdUJWenZwQm9PTGNGMV9TSy1QeE0yTi1zc2VlVkJCbHJSTmZVUGpzbUVTdHhORDRDVkVjMkt4WklQQ3NRR1EtdGcxc3JJQQ?oc=5)
 
 ---
 
@@ -88,22 +104,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Kann die Einnahme von Vitamin D Kinder vor Atemwegsinfekten schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzBST1VrTXByUVdvZjEyWUdocDFUV1k1clFMTC1hcWN3cy1lV3VGajdERk1JVXBxYzBYX1lSMXdvZUZlZG9ubjVZUVhsSHQxM3d4U0NQSVNRNE9DRFltS2szMlY1QkhtbVN2VmRuVVkyRFRhSjVVOVB2T3AzVXlDTS0yU29OS3JKMHg3eEVvM01sMU9jeEJvWHFMMHdqSF9rQXFjbVJnQmt5RE40dWh2RnpMb0hPUjNFbndXWFFlT3lWc3B2NlZXaXZn?oc=5)
-
-2026-07-05
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzBST1VrTXByUVdvZjEyWUdocDFUV1k1clFMTC1hcWN3cy1lV3VGajdERk1JVXBxYzBYX1lSMXdvZUZlZG9ubjVZUVhsSHQxM3d4U0NQSVNRNE9DRFltS2szMlY1QkhtbVN2VmRuVVkyRFRhSjVVOVB2T3AzVXlDTS0yU29OS3JKMHg3eEVvM01sMU9jeEJvWHFMMHdqSF9rQXFjbVJnQmt5RE40dWh2RnpMb0hPUjNFbndXWFFlT3lWc3B2NlZXaXZn?oc=5)
-
----
-
-### [From acupuncture to sea spray – we test hay fever remedies to beat the pollen bomb - The Sun](https://news.google.com/rss/articles/CBMic0FVX3lxTE9hRVRYeVFTei1FRUxtM1F2cGxIVG1UZ1JjRk9FSG1lZl9RSDBBUExaeGx6V2JfYXduVlJOTG1nTHZGMlBUbHIzTThIXzZsX3JoVEdCLV9jRUpoTVFjeG1EZHA0aW0yRmRkMGd2c3FKWmxrOXc?oc=5)
-
-2026-07-04
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMic0FVX3lxTE9hRVRYeVFTei1FRUxtM1F2cGxIVG1UZ1JjRk9FSG1lZl9RSDBBUExaeGx6V2JfYXduVlJOTG1nTHZGMlBUbHIzTThIXzZsX3JoVEdCLV9jRUpoTVFjeG1EZHA0aW0yRmRkMGd2c3FKWmxrOXc?oc=5)
-
----
-
 ### [Hearing and eye tests could spot dementia before symptoms show - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
 
 2026-07-04
@@ -117,6 +117,14 @@ permalink: /news/multiple-sclerosis/
 2026-07-04
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUk4dkRCVmVJMVVBX00yM2lNOGFLR0JmVWdTVHE2Zk1sdGFmLXNMSnVFbmZvLWtEcjFiRFBDZk52T09EQlU5TDZxNWxYdTdXSjZ4QjlVb1hiMWMxajFWN3UySzM2SEIyS2hLLUNvZnB5YVlCVXd1NUFuSWtmSEtndk1ZLTJKdUlaYjItNWE3Sld5cko0RXc0V0xJZw?oc=5)
+
+---
+
+### [Glucosamin gegen Gelenkschmerzen? Studie warnt vor Risiken für Alzheimer-Patient:innen](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRktsWXQzdjhIdWhyc1dQNXNkb1FURVA4ek9SWUsxQnhkN2hSanVMOTJFQ3IxMll2YmZFX3k0d09NY0t2R1pnYTlMT1BPY1RpbHJNN3NIRHBwSHRSUnhTVXhtdFg1OGk5VjVUeWRqSldZeDU5ZU5obHdpNjJjbGxRZW5zZ0c4MVZELWUtd0J5YlViRTliLTZYUG9yU3lUMVlkVldWdU9LSkZscDlKZmhNYVNzaVpac245SVM4ZzJGbzl5TXdDTlluWU1n?oc=5)
+
+2026-07-04
+
+來源：[Joyn](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRktsWXQzdjhIdWhyc1dQNXNkb1FURVA4ek9SWUsxQnhkN2hSanVMOTJFQ3IxMll2YmZFX3k0d09NY0t2R1pnYTlMT1BPY1RpbHJNN3NIRHBwSHRSUnhTVXhtdFg1OGk5VjVUeWRqSldZeDU5ZU5obHdpNjJjbGxRZW5zZ0c4MVZELWUtd0J5YlViRTliLTZYUG9yU3lUMVlkVldWdU9LSkZscDlKZmhNYVNzaVpac245SVM4ZzJGbzl5TXdDTlluWU1n?oc=5)
 
 ---
 
@@ -141,14 +149,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-04
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
----
-
-### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
-2026-07-04
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 ---
 

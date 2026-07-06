@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,11 +85,11 @@ permalink: /news/hypertension/
 
 ## 相關新聞（2 則）
 
-### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+### [I'm a GP — here's how to avoid 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
-2026-07-05
+2026-07-06
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
 ---
 

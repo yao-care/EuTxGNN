@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [¿Tienen las nuevas generaciones más predisposición genética a sufrir obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">obesidad</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
-
----
-
-### [Innovative obesity care programme receives funding](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
-
-2026-07-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCdmRwVnhjcjYtQkQ5Y01HM2RnOG5wQTctUHE4b2lEVUtxMklnNElBeWItS016d2gtVmszSGlWTFc2S0x4aE9sT2xiS1lBZGs0OVByUW5KNWQ5Zllv?oc=5)
 
 ---
 

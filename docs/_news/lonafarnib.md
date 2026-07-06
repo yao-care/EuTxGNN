@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 cardiopatía</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,13 +52,21 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+### [I'm a GP — here's how to avoid 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
-2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
+
+---
+
+### [El embarazo con una cardiopatía congénita podría influir en el desarrollo del niño años después](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJyc3pfdEdKY19reTRDWDlReHhMbGpZQnJDUUh5R0dldnJ2VGJjV2VuU2hOYVUxc2dDR0dodTYxN2laOXpVSnhRQVZUVlgxaGxwYVF3Ulh4bWtzWE40amlSUDVONVNGc0RNT3B6aUNBbHQxYVdQYmZXTmtnUHlQOUpraTAxTmNyTi1JcmxBSmRfb3E1dlRWQ2xoSGo5cXVxcUYxbF9TTURPMmpkZVQ5dUlCWDMxR0huU3lLOHphWHVTRDVqUFJyQVViMzFuQnM?oc=5)
+
+2026-07-06 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJyc3pfdEdKY19reTRDWDlReHhMbGpZQnJDUUh5R0dldnJ2VGJjV2VuU2hOYVUxc2dDR0dodTYxN2laOXpVSnhRQVZUVlgxaGxwYVF3Ulh4bWtzWE40amlSUDVONVNGc0RNT3B6aUNBbHQxYVdQYmZXTmtnUHlQOUpraTAxTmNyTi1JcmxBSmRfb3E1dlRWQ2xoSGo5cXVxcUYxbF9TTURPMmpkZVQ5dUlCWDMxR0huU3lLOHphWHVTRDVqUFJyQVViMzFuQnM?oc=5)
 
 ---
 

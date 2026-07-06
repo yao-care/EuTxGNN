@@ -54,11 +54,11 @@ permalink: /news/methylthioninium-chloride/
 
 ## 相關新聞（1 則）
 
-### [PPI mit erhöhtem Demenz- und Lungenrisiko: Wie Ernährung und neue Bluttests gegensteuern - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
+### [Demenz-Prävention: Welche Medikamente das Risiko erhöhen könnten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9seWI2REQtXzVOeFVOWjkzdURUYzhTSHVwaFhuUzZqVTVpd2NqVU5yT0gxajdOdnZXWGVSZ29ON3hWQW5hUnNJOWtZcTJxSWVJMWpBa3pyczRtYXVXVHhidlhVZ0dhZU9nUWEycVJwc2c0ZXVEajlSdU52M1dySTgzT1o0bGh5RlF6NkRRbmktakxrY3VRNFEyMUloZmc?oc=5)
 
-2026-07-04 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxOOEcyQnZFNzJsek45dU1iVXBhdTZ2OFUzcWVFYVRHMFZOTkEtQWlnLXBpX0NmaC1mNk1nNUtoUnpyQURhWjZhd1NBQVFyWE8zWXRFemp3NXNUOE9yWG12X0dFUmRhQkx5a09oWVZxRTJ2b2kyNWxRVEF6cXR6T0tGRF9rOVJQelN3SmdUeG9kQnZJRkdlM09IWkx6SGxHYWZVV0tRb0tzVjFrOEE4VjJsVHp4ZzBjazRqZFZpTg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9seWI2REQtXzVOeFVOWjkzdURUYzhTSHVwaFhuUzZqVTVpd2NqVU5yT0gxajdOdnZXWGVSZ29ON3hWQW5hUnNJOWtZcTJxSWVJMWpBa3pyczRtYXVXVHhidlhVZ0dhZU9nUWEycVJwc2c0ZXVEajlSdU52M1dySTgzT1o0bGh5RlF6NkRRbmktakxrY3VRNFEyMUloZmc?oc=5)
 
 ---
 
