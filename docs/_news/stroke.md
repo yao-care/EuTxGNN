@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（1 則）
 
-### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+### [Las señales que pueden avisar de un ictus o una crisis epiléptica en casa - El Debate](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbllKZl9hWEEwNHoyTGtFNzB5RzNnREc1eE9PY1JtM3JJRTNsZW9IWEp1ZU5fSG9YWV9RSlhKYUFfRjFnSEJmbWdCWUZDYm5xVzZkSHVGaTlQcVN3Skc1MmJqUTUzZHVSN3RET1FBdWRGWDZfT2pja2xsbk04djc5aXRwNmJJQnM0UE9hUHh3MERxNzlUVGFhakZPVy1jUE5uR2d1Q1BseFh3Vmk3ZU1jbm54WEs5em1Pb1JmR9IBwgFBVV95cUxQZ3pEaXVlYWNVYUxUNFZyT2pfTW9NcEZMSWJweVJiZUhTWjR6MzItUS1obTVjRHY2bzUyRk54aTNsbGNBMDZlaVRqYmZzT1RQeHlVX2RVYzAzNEpMeUY0aUplSkdCNVhUNGlrSHhEMURfX3ZhUFA3OWluYUNuNGk4dkhGYnE2Rk5QN3F3am5qX2pRTkV5WG1fZG1DSGppa1BZS2s4Sm9ENjJqa2h3LTBJR0RsUExKUzBjRDBMV2NMSU9uQQ?oc=5)
 
-2026-07-04
+2026-07-05
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbllKZl9hWEEwNHoyTGtFNzB5RzNnREc1eE9PY1JtM3JJRTNsZW9IWEp1ZU5fSG9YWV9RSlhKYUFfRjFnSEJmbWdCWUZDYm5xVzZkSHVGaTlQcVN3Skc1MmJqUTUzZHVSN3RET1FBdWRGWDZfT2pja2xsbk04djc5aXRwNmJJQnM0UE9hUHh3MERxNzlUVGFhakZPVy1jUE5uR2d1Q1BseFh3Vmk3ZU1jbm54WEs5em1Pb1JmR9IBwgFBVV95cUxQZ3pEaXVlYWNVYUxUNFZyT2pfTW9NcEZMSWJweVJiZUhTWjR6MzItUS1obTVjRHY2bzUyRk54aTNsbGNBMDZlaVRqYmZzT1RQeHlVX2RVYzAzNEpMeUY0aUplSkdCNVhUNGlrSHhEMURfX3ZhUFA3OWluYUNuNGk4dkhGYnE2Rk5QN3F3am5qX2pRTkV5WG1fZG1DSGppa1BZS2s4Sm9ENjJqa2h3LTBJR0RsUExKUzBjRDBMV2NMSU9uQQ?oc=5)
 
 ---
 

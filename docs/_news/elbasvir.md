@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
 
-### [Epidemia de ébola en RDC: 1.561 casos confirmados, 506 fallecimientos y una tasa de letalidad del 32,4% - Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJ4UElXaXlmU0xDVEpvbmtzTW5ia3NpTlRxaF9FQnI1QlllTjJXc2s3bnVTN1htbGZxQ0lEZVoyVkF0SXBid1BiVkhYb2xoTml2TFotendyOUVyd2Y3R1RNakJ5RllJQVJLUTlOY1RlUzJIZFhIbnpnTXVxY0Z1YVFrakVvX0ZTR1p4ZE14b0hnNjhHZ3lOd2JVcXVDOHZZQndXdUFR?oc=5)
+### [Glucosamin-Warnung: Gelenkpillen erhöhen Demenz-Risiko um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
 
 2026-07-06 <span class="news-indication-tag">MS</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJ4UElXaXlmU0xDVEpvbmtzTW5ia3NpTlRxaF9FQnI1QlllTjJXc2s3bnVTN1htbGZxQ0lEZVoyVkF0SXBid1BiVkhYb2xoTml2TFotendyOUVyd2Y3R1RNakJ5RllJQVJLUTlOY1RlUzJIZFhIbnpnTXVxY0Z1YVFrakVvX0ZTR1p4ZE14b0hnNjhHZ3lOd2JVcXVDOHZZQndXdUFR?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
+
+---
+
+### [Personal de salud en Congo amenaza con huelga durante brote de ébola que rebasa las 500 muertes - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHF4YXlGY3FlTXNjR21Jd013YjNvalgtbWRtTkRkeGxpekI4M1JNQmIzemNaeWpDWW05UTVEOWtBZDlpdVZrNkFfRkxYal9nLW9XNlEwZXlsRFJRdVB3R0VVZ2pXdmt5LVFLT2pBSmpUYWRKRVVrTlduamV4UEt4TmpXUTBtMk94aVlkUQ?oc=5)
+
+2026-07-06 <span class="news-indication-tag">MS</span>
+
+來源：[AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHF4YXlGY3FlTXNjR21Jd013YjNvalgtbWRtTkRkeGxpekI4M1JNQmIzemNaeWpDWW05UTVEOWtBZDlpdVZrNkFfRkxYal9nLW9XNlEwZXlsRFJRdVB3R0VVZ2pXdmt5LVFLT2pBSmpUYWRKRVVrTlduamV4UEt4TmpXUTBtMk94aVlkUQ?oc=5)
+
+---
+
+### [Tranexamsäure kann Bluttransfusionen bei Operationen vermeiden und Geld sparen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
+
+2026-07-06 <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
+
+---
+
+### [Biohacker diagnosed with incurable disease after spending millions on health - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHNPcmozbGhrZ013RFpIbmNaU3UtVkR6Qm9XT2lZVFpVUUhldmo2elc2TUMxNWpXOXE4R2dFUjR3WXVSUGgzOGV6RnlGaml1WmYzbEtpYTMzMjYtUHA1OG43VGZlNjh4TDVKal81NzNySkVCU3o0Q0lIa3ZmZXJlQVVkSzBkR3FyX2lsbjdFZ21xWE0?oc=5)
+
+2026-07-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHNPcmozbGhrZ013RFpIbmNaU3UtVkR6Qm9XT2lZVFpVUUhldmo2elc2TUMxNWpXOXE4R2dFUjR3WXVSUGgzOGV6RnlGaml1WmYzbEtpYTMzMjYtUHA1OG43VGZlNjh4TDVKal81NzNySkVCU3o0Q0lIa3ZmZXJlQVVkSzBkR3FyX2lsbjdFZ21xWE0?oc=5)
 
 ---
 
@@ -70,27 +94,27 @@ permalink: /news/elbasvir/
 
 ---
 
-### ["Entzündungsbremse" im Gehirn könnte vor Alzheimer schützen - Der Standard](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmNvWmJDMVVUQlUyY1BfWDM3SUdNZWo1VXlWR3Q5by1mWFNKckFZSm9jSWVsWHBtV3NvRnU5dkxTdG5DV1BfVXVwYUZoVDQ5ZkR2bk9uVVk3cVhSSHNRS2k2czRXdUhiV043M2dfMmRzZkU0V1JSODdBd0E3QXpmbUl6X1c3a0l0ZW1Gd3FRX3pSWGFPeXBpMlduaVJ3TEhqTGl4MmdEMWROQkU?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[Der Standard](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmNvWmJDMVVUQlUyY1BfWDM3SUdNZWo1VXlWR3Q5by1mWFNKckFZSm9jSWVsWHBtV3NvRnU5dkxTdG5DV1BfVXVwYUZoVDQ5ZkR2bk9uVVk3cVhSSHNRS2k2czRXdUhiV043M2dfMmRzZkU0V1JSODdBd0E3QXpmbUl6X1c3a0l0ZW1Gd3FRX3pSWGFPeXBpMlduaVJ3TEhqTGl4MmdEMWROQkU?oc=5)
-
----
-
-### [Atorvastatin 'call 111' warning as NHS cautions on 'serious' side effects - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk5WdDFPYlZnN1dkd2ZYcm8tMHBYZUd0b01OQzJ1N05nRGwyVm1SYm5LaTN5WnhqdmlVR18zdF8yeEhOOHhxMnlTOUxaRE1ycGpkZUlzdWNzbkFDcFVMa0pZaUNCWkotVFRHdGhIVFI1MmlEN2VPQ21WYTlKMU5ONWltQkFaZw?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUk5WdDFPYlZnN1dkd2ZYcm8tMHBYZUd0b01OQzJ1N05nRGwyVm1SYm5LaTN5WnhqdmlVR18zdF8yeEhOOHhxMnlTOUxaRE1ycGpkZUlzdWNzbkFDcFVMa0pZaUNCWkotVFRHdGhIVFI1MmlEN2VPQ21WYTlKMU5ONWltQkFaZw?oc=5)
-
----
-
 ### [I scratch my forearms when I am stressed. Is this self-harm? - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTdoSkpvXzJNdHVPWVNFaGF5c2dMdU5QOE42dENIbnl0a0dibTBtN0JhcktpZTRVRndTeGdpTUx2Tmh0blpMU3FJQ2F6QmZtcFB0NzBHbWNnaFdXVjFNRS1HdUJWenZwQm9PTGNGMV9TSy1QeE0yTi1zc2VlVkJCbHJSTmZVUGpzbUVTdHhORDRDVkVjMkt4WklQQ3NRR1EtdGcxc3JJQQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">MS</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTdoSkpvXzJNdHVPWVNFaGF5c2dMdU5QOE42dENIbnl0a0dibTBtN0JhcktpZTRVRndTeGdpTUx2Tmh0blpMU3FJQ2F6QmZtcFB0NzBHbWNnaFdXVjFNRS1HdUJWenZwQm9PTGNGMV9TSy1QeE0yTi1zc2VlVkJCbHJSTmZVUGpzbUVTdHhORDRDVkVjMkt4WklQQ3NRR1EtdGcxc3JJQQ?oc=5)
+
+---
+
+### [Schlaf-Schaltkreis steuert Wachstumshormon: Neue Chance für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+
+2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+
+---
+
+### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
+
+2026-07-05 <span class="news-indication-tag">MS</span>
+
+來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
 
 ---
 
@@ -102,59 +126,19 @@ permalink: /news/elbasvir/
 
 ---
 
+### [RSV vaccine will soon be offered to all adults aged 65 to 74 in the South West - Bournemouth Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3l2Y2NBNkxqZkVYdmpvMDJXZ0V1bWg3TWN4dXlzZ1pjbHFCMVZPRmlpWF9jUFh3SUZoRm9MVC1CVng1VTRkM2pnZjhnWi1ILUxnVE01SlUzeHhCUG9aY3BiWXZ0Z3VxMFFBaTlfSjJPNHhQRkdmbEF5bEtkWTZ3aG5iNkd6U0VUMlNiaF9zcUhZN3c?oc=5)
+
+2026-07-05 <span class="news-indication-tag">MS</span>
+
+來源：[Bournemouth Echo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3l2Y2NBNkxqZkVYdmpvMDJXZ0V1bWg3TWN4dXlzZ1pjbHFCMVZPRmlpWF9jUFh3SUZoRm9MVC1CVng1VTRkM2pnZjhnWi1ILUxnVE01SlUzeHhCUG9aY3BiWXZ0Z3VxMFFBaTlfSjJPNHhQRkdmbEF5bEtkWTZ3aG5iNkd6U0VUMlNiaF9zcUhZN3c?oc=5)
+
+---
+
 ### [Death notices and funeral announcements from Grimsby and Scunthorpe Telegraph - June 29-July 5, 2026 - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">MS</span>
 
 來源：[Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
-
----
-
-### [Hearing and eye tests could spot dementia before symptoms show - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
-
-2026-07-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
-
----
-
-### [Cruel brain disease means our girls will develop Alzheimer's symptoms in their teens - help us before it's too late - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUk4dkRCVmVJMVVBX00yM2lNOGFLR0JmVWdTVHE2Zk1sdGFmLXNMSnVFbmZvLWtEcjFiRFBDZk52T09EQlU5TDZxNWxYdTdXSjZ4QjlVb1hiMWMxajFWN3UySzM2SEIyS2hLLUNvZnB5YVlCVXd1NUFuSWtmSEtndk1ZLTJKdUlaYjItNWE3Sld5cko0RXc0V0xJZw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUk4dkRCVmVJMVVBX00yM2lNOGFLR0JmVWdTVHE2Zk1sdGFmLXNMSnVFbmZvLWtEcjFiRFBDZk52T09EQlU5TDZxNWxYdTdXSjZ4QjlVb1hiMWMxajFWN3UySzM2SEIyS2hLLUNvZnB5YVlCVXd1NUFuSWtmSEtndk1ZLTJKdUlaYjItNWE3Sld5cko0RXc0V0xJZw?oc=5)
-
----
-
-### [Glucosamin gegen Gelenkschmerzen? Studie warnt vor Risiken für Alzheimer-Patient:innen](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRktsWXQzdjhIdWhyc1dQNXNkb1FURVA4ek9SWUsxQnhkN2hSanVMOTJFQ3IxMll2YmZFX3k0d09NY0t2R1pnYTlMT1BPY1RpbHJNN3NIRHBwSHRSUnhTVXhtdFg1OGk5VjVUeWRqSldZeDU5ZU5obHdpNjJjbGxRZW5zZ0c4MVZELWUtd0J5YlViRTliLTZYUG9yU3lUMVlkVldWdU9LSkZscDlKZmhNYVNzaVpac245SVM4ZzJGbzl5TXdDTlluWU1n?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span>
-
-來源：[Joyn](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRktsWXQzdjhIdWhyc1dQNXNkb1FURVA4ek9SWUsxQnhkN2hSanVMOTJFQ3IxMll2YmZFX3k0d09NY0t2R1pnYTlMT1BPY1RpbHJNN3NIRHBwSHRSUnhTVXhtdFg1OGk5VjVUeWRqSldZeDU5ZU5obHdpNjJjbGxRZW5zZ0c4MVZELWUtd0J5YlViRTliLTZYUG9yU3lUMVlkVldWdU9LSkZscDlKZmhNYVNzaVpac245SVM4ZzJGbzl5TXdDTlluWU1n?oc=5)
-
----
-
-### [La OMS da por finalizado el brote de hantavirus después de que la última persona en cuarentena diese negativo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXYyWEJfX05DQm1PTDVQUUtfTG13dzNjN0lBSGgzQTlvNUdyUjVHbi1scnk1b3RwRUEzSUZOeWNXRkJzUWNMNFVzTmNsZHdkNTRQS3NNZnZhTFBfbXBLelFaOHJSZ3NOT3dHazZLOXpES0dTSnVWdllxX0s3UHJSSWRNZ1lJaUVOX0xSenBTMFVNUDRVYXgxci00eGVLazhkN1pGb0tnUVJrcWY4SW5aQm83aDg2Q2Q3MXMyOUk1MmpCWXotQ19zTGVJVkp2RTNGdTk5SU44N1RqaXFrSWc?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[101TV](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXYyWEJfX05DQm1PTDVQUUtfTG13dzNjN0lBSGgzQTlvNUdyUjVHbi1scnk1b3RwRUEzSUZOeWNXRkJzUWNMNFVzTmNsZHdkNTRQS3NNZnZhTFBfbXBLelFaOHJSZ3NOT3dHazZLOXpES0dTSnVWdllxX0s3UHJSSWRNZ1lJaUVOX0xSenBTMFVNUDRVYXgxci00eGVLazhkN1pGb0tnUVJrcWY4SW5aQm83aDg2Q2Q3MXMyOUk1MmpCWXotQ19zTGVJVkp2RTNGdTk5SU44N1RqaXFrSWc?oc=5)
-
----
-
-### [Polyzystisches Ovarialsyndrom: 70% bleiben ohne Diagnose – NICE schärft Richtlinien - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNekZIeFU0M2VlTnRKUWhQdDRoaDd3QWtMdXg2ZDNDRGdSalRCd2ZnWlJCaXdwbWNqcXo3ejk4VG9UeUlMalplQWlUaDNmUnVfR3FxWTFWT0pNb0xWcDlsaXM2TkppN3hIRGx1Slg2enN1Zk5TaWdEbUM4cXlxUnJMUC00NGNKcHNVa2tCV1Y3bnlPcm9pSzVhSVpDdmVua3kyM294bWhKRzhGN01WUW9XWVNlQmsxRFE?oc=5)
-
----
-
-### [Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
-
-2026-07-04 <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5)
 
 ---
 

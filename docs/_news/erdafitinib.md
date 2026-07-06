@@ -14,7 +14,7 @@ permalink: /news/erdafitinib/
 ---
 
 <p class="key-answer" data-question="Erdafitinib 有什麼相關新聞？">
-<strong>Erdafitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erdafitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/erdafitinib/
 <p><a href="{{ '/drugs/erdafitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [I'm a GP — here's how to avoid 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
 2026-07-06 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
-
----
-
-### [El embarazo con una cardiopatía congénita podría influir en el desarrollo del niño años después](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJyc3pfdEdKY19reTRDWDlReHhMbGpZQnJDUUh5R0dldnJ2VGJjV2VuU2hOYVUxc2dDR0dodTYxN2laOXpVSnhRQVZUVlgxaGxwYVF3Ulh4bWtzWE40amlSUDVONVNGc0RNT3B6aUNBbHQxYVdQYmZXTmtnUHlQOUpraTAxTmNyTi1JcmxBSmRfb3E1dlRWQ2xoSGo5cXVxcUYxbF9TTURPMmpkZVQ5dUlCWDMxR0huU3lLOHphWHVTRDVqUFJyQVViMzFuQnM?oc=5)
-
-2026-07-06 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJyc3pfdEdKY19reTRDWDlReHhMbGpZQnJDUUh5R0dldnJ2VGJjV2VuU2hOYVUxc2dDR0dodTYxN2laOXpVSnhRQVZUVlgxaGxwYVF3Ulh4bWtzWE40amlSUDVONVNGc0RNT3B6aUNBbHQxYVdQYmZXTmtnUHlQOUpraTAxTmNyTi1JcmxBSmRfb3E1dlRWQ2xoSGo5cXVxcUYxbF9TTURPMmpkZVQ5dUlCWDMxR0huU3lLOHphWHVTRDVqUFJyQVViMzFuQnM?oc=5)
 
 ---
 

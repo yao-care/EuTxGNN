@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,23 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+
+2026-07-06
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+
+---
+
+### [Niveles elevados de vitamina A y D optimizan la función pulmonar y frenan el envejecimiento en pacientes asmáticos - El médico interactivo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnYzX1ZnVndkck5hYjFTd2xWV3drM1JQbzVuTTM1RzI3VkhuTEY4UXhBR0RYdVNORDVPeHRXc0tWU2lWY0ZRSUxPSXJTai1ydDNGN2xLTFVEcnd0MkxmazhOMXpFTzZBUmhFa2gtS1BDbXRvUlJpRnN4d1RsV004OGI0Wlo5RnBRaHo4ZmhzVkZPRThZcVdfNW1fN192dXVGRHBnSURDSzVrV2prNnhoWVh1eU9Ubl81TVFINEdSSXdzTnlxdDVleXhTa2dFM0wwN1p2aGVNa3V3N3NXc3pMcA?oc=5)
+
+2026-07-06
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnYzX1ZnVndkck5hYjFTd2xWV3drM1JQbzVuTTM1RzI3VkhuTEY4UXhBR0RYdVNORDVPeHRXc0tWU2lWY0ZRSUxPSXJTai1ydDNGN2xLTFVEcnd0MkxmazhOMXpFTzZBUmhFa2gtS1BDbXRvUlJpRnN4d1RsV004OGI0Wlo5RnBRaHo4ZmhzVkZPRThZcVdfNW1fN192dXVGRHBnSURDSzVrV2prNnhoWVh1eU9Ubl81TVFINEdSSXdzTnlxdDVleXhTa2dFM0wwN1p2aGVNa3V3N3NXc3pMcA?oc=5)
+
+---
 
 ### [Demenz-Prävention: Welche Medikamente das Risiko erhöhen könnten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9seWI2REQtXzVOeFVOWjkzdURUYzhTSHVwaFhuUzZqVTVpd2NqVU5yT0gxajdOdnZXWGVSZ29ON3hWQW5hUnNJOWtZcTJxSWVJMWpBa3pyczRtYXVXVHhidlhVZ0dhZU9nUWEycVJwc2c0ZXVEajlSdU52M1dySTgzT1o0bGh5RlF6NkRRbmktakxrY3VRNFEyMUloZmc?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Dolor crónico y obesidad: una relación bidireccional que exige un abordaje integral](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+
+2026-07-06 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+
+---
 
 ### [¿Tienen las nuevas generaciones más predisposición genética a sufrir obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
 

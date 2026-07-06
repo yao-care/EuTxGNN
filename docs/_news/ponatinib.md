@@ -14,7 +14,7 @@ permalink: /news/ponatinib/
 ---
 
 <p class="key-answer" data-question="Ponatinib 有什麼相關新聞？">
-<strong>Ponatinib</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ponatinib</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/ponatinib/
 <p><a href="{{ '/drugs/ponatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
-
-### [Mechanische Belastung: Warum es fast nie Tumoren im Herzen gibt - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFZaT2lKa29DV3VNQ1pYTHA0QXZEWUYzZUxIenhRdWxienZiTkF2RlY2aU8xNXdTQWduNWo5OE1tZURQcDN2cl9nSURmbXFabldCQWtSMVV5SjFSVTk1X3BNUHRGY2hreTg2MU96NGwzdFRVUW1yNG54eml1QkIxRTVadi1zMnhlUzJmSEhCUmU?oc=5)
-
-2026-07-06 <span class="news-indication-tag">tumor</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFZaT2lKa29DV3VNQ1pYTHA0QXZEWUYzZUxIenhRdWxienZiTkF2RlY2aU8xNXdTQWduNWo5OE1tZURQcDN2cl9nSURmbXFabldCQWtSMVV5SjFSVTk1X3BNUHRGY2hreTg2MU96NGwzdFRVUW1yNG54eml1QkIxRTVadi1zMnhlUzJmSEhCUmU?oc=5)
-
----
+## 相關新聞（25 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
 2026-07-06 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+---
+
+### [Gesundheit-News: Lilly engagiert sich für eine bessere Versorgung von Frauen und Männern mit frühem Brustkrebs - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE90MUhsWXZKcU1KR294ZFh0Q1ZlMENmbzJuZ3Axa2dJUmlaMUpYblVUN2E5NTFja21ESmFXUDlrZmxWcTRtZEJHY0dhRVhaYXU4bXhGMWNvLWNHbjBFUU5pNmtPTHdDZGFlcGZ2cm1iaDY?oc=5)
+
+2026-07-06 <span class="news-indication-tag">Krebs</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE90MUhsWXZKcU1KR294ZFh0Q1ZlMENmbzJuZ3Axa2dJUmlaMUpYblVUN2E5NTFja21ESmFXUDlrZmxWcTRtZEJHY0dhRVhaYXU4bXhGMWNvLWNHbjBFUU5pNmtPTHdDZGFlcGZ2cm1iaDY?oc=5)
+
+---
+
+### [Mechanische Belastung: Warum es fast nie Tumoren im Herzen gibt - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFZaT2lKa29DV3VNQ1pYTHA0QXZEWUYzZUxIenhRdWxienZiTkF2RlY2aU8xNXdTQWduNWo5OE1tZURQcDN2cl9nSURmbXFabldCQWtSMVV5SjFSVTk1X3BNUHRGY2hreTg2MU96NGwzdFRVUW1yNG54eml1QkIxRTVadi1zMnhlUzJmSEhCUmU?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFZaT2lKa29DV3VNQ1pYTHA0QXZEWUYzZUxIenhRdWxienZiTkF2RlY2aU8xNXdTQWduNWo5OE1tZURQcDN2cl9nSURmbXFabldCQWtSMVV5SjFSVTk1X3BNUHRGY2hreTg2MU96NGwzdFRVUW1yNG54eml1QkIxRTVadi1zMnhlUzJmSEhCUmU?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Una terapia CAR-T logra eliminar tumores de vejiga en ratones y acerca una alternativa a su extirpación](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUg5SXNtS2g1Yzh1YzVaYWpGcEVJdUpkV1RZU3pZNzI0OEtWcGlqbzd4N0RuaTc5MHhidGhfTnJvM3pqRVJLWXpPNkRKQjJRWTBCMnQta1dnakdla1cwd05ZeHNIYkliT1A2cG1rVFBfaWtJVnA5bkpsQ2ROR3RKME1PTnJaaHIySW0ya3REV2lELUlPZFRYRDhsVnRsaUtqT21oUVVmMUlpMjVkeW80S01lV2NIWW01TE9vWUdJWUpCeEpSYjFzLTZaQk5kYUF5c1FKbHNDbEtmTktpaXk5U00zVDNlTGJtNUE?oc=5)
+### [Dementia patients being ‘cast aside’ by NHS - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUNuY19LNU5VdUtzN1RGd1FOdTZBeUJhTTk5cndqV1VNNUVaSkdyQ0J4QWdScGJhOVpYR0NaTTJMYlVVaThNbi1qak9pd1l5UHl4QWlOd3l6UXhPUk8zRTVaLVJZQnR0NDNzLWhZa2tTdWkwZEQ3MFkzNF9YTWtwdWEtbw?oc=5)
 
-2026-07-06 <span class="news-indication-tag">tumor</span>
+2026-07-06 <span class="news-indication-tag">dementia</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUg5SXNtS2g1Yzh1YzVaYWpGcEVJdUpkV1RZU3pZNzI0OEtWcGlqbzd4N0RuaTc5MHhidGhfTnJvM3pqRVJLWXpPNkRKQjJRWTBCMnQta1dnakdla1cwd05ZeHNIYkliT1A2cG1rVFBfaWtJVnA5bkpsQ2ROR3RKME1PTnJaaHIySW0ya3REV2lELUlPZFRYRDhsVnRsaUtqT21oUVVmMUlpMjVkeW80S01lV2NIWW01TE9vWUdJWUpCeEpSYjFzLTZaQk5kYUF5c1FKbHNDbEtmTktpaXk5U00zVDNlTGJtNUE?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUNuY19LNU5VdUtzN1RGd1FOdTZBeUJhTTk5cndqV1VNNUVaSkdyQ0J4QWdScGJhOVpYR0NaTTJMYlVVaThNbi1qak9pd1l5UHl4QWlOd3l6UXhPUk8zRTVaLVJZQnR0NDNzLWhZa2tTdWkwZEQ3MFkzNF9YTWtwdWEtbw?oc=5)
 
 ---
 
@@ -110,9 +118,17 @@ permalink: /news/ponatinib/
 
 ---
 
+### [Majority of UK smokers wrongly believe vaping is as harmful as cigarettes, experts find - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
+
+2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
+
+---
+
 ### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
 
-2026-07-05 <span class="news-indication-tag">tumor</span>
+2026-07-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
 
@@ -166,14 +182,6 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Gesundheit - Studie zu mRNA-Impfstoffen: Wirksamer Schutz vor Infektionen, schweren Verläufen und Tod](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFdfeEdPenU4QUhzcmVJWE1zWi1RTDNLTDVBd0ZCNGRmYzZWLWdqOXEwUnNlRldOVHN1Yk91YUswRlBkbDRsU3o3b1hWM295TjFNT2tZS0d3a3N6YWQtY241ZWtlX2I4bzFMWUFhQzQ2ZzQ1Nm1TZ2Y3NnA0OEZtNFMzdU9rV0hQS255LVBYV2pNa0YxNXhuWUpVcmZxWXZmWHU3ZDJobmJQUW81RlQxY3hGREJzU1owUUdCam5WSWJNRmFjTEE?oc=5)
-
-2026-07-05 <span class="news-indication-tag">Krebs</span>
-
-來源：[Deutschlandfunk](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFdfeEdPenU4QUhzcmVJWE1zWi1RTDNLTDVBd0ZCNGRmYzZWLWdqOXEwUnNlRldOVHN1Yk91YUswRlBkbDRsU3o3b1hWM295TjFNT2tZS0d3a3N6YWQtY241ZWtlX2I4bzFMWUFhQzQ2ZzQ1Nm1TZ2Y3NnA0OEZtNFMzdU9rV0hQS255LVBYV2pNa0YxNXhuWUpVcmZxWXZmWHU3ZDJobmJQUW81RlQxY3hGREJzU1owUUdCam5WSWJNRmFjTEE?oc=5)
-
----
-
 ### [Les "sun tattoos", un phénomène de mode qui inquiète : les dermatologues alertent sur les risques accrus de cancers de la peau - France 3 Régions](https://news.google.com/rss/articles/CBMipgJBVV95cUxPWlR0YXRZbnVrZ0g5aWpyakNWZ3dNZHB6T0Z6elNkVG83VG5Pc2lwZlVRekJWZm04UjQtZ2JYeEY0ZkdBS3BlenQxMS1lZ1Z6dVg4RTZhbWZDWVhLYXVnQ2ctOGtJZ3ktQWhvWEZjWEVmVzlhZmpRc2d6bVZCOEg2WUFMVjdJbmVmVEhTWHQwYWtCN09Mc3lIZVlKTFhlUXNYZjhRc2ZiYXNSa0FWcXliUVRjYUFoa1BWVGxBS1lmT25NMzBwUmNvbFc2bXJBY2dweVd6Q21lQUduX0dabW9MUmNOd2x5MzEwZWJfZWJfSXJ4NUZlVjUtWHh2Qk5QZ19VcWRobEk2NGtLekp0OURGemJucGY2c21aNURXRFJwcFVkMEZpTkE?oc=5)
 
 2026-07-05 <span class="news-indication-tag">cancer</span>
@@ -198,14 +206,6 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Darmkrebs bei jungen Erwachsenen nimmt zu: Diese Altersgruppe fällt besonders auf - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaURsRmtZTUItUTNLWW56d1Y1WEU5OHlRbW12cDV6TWlxT3l1UFEzVGwydEV6cVl1WWpLY0xQUXQ0VHJPT3Z2V1dyRnFqQmNveUVrenVDWmJHN1hCYjBuZi1XTTltR1lZQ2VyTjdIOVQ1RHFDZnVId21QbGlCUk1nOTNMQnlDVXotRGl6QTYzVFNsY1ZmLWJmbS1NVVFjODdmQWVIWGk0c3ppRnZjeHpKUGtwUHRDeUhRUTNLSjdFcVY?oc=5)
-
-2026-07-05 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaURsRmtZTUItUTNLWW56d1Y1WEU5OHlRbW12cDV6TWlxT3l1UFEzVGwydEV6cVl1WWpLY0xQUXQ0VHJPT3Z2V1dyRnFqQmNveUVrenVDWmJHN1hCYjBuZi1XTTltR1lZQ2VyTjdIOVQ1RHFDZnVId21QbGlCUk1nOTNMQnlDVXotRGl6QTYzVFNsY1ZmLWJmbS1NVVFjODdmQWVIWGk0c3ppRnZjeHpKUGtwUHRDeUhRUTNLSjdFcVY?oc=5)
-
----
-
 ### [Disminuyen los cánceres asociados al tabaco en adultos jóvenes, pero aumentan tumores digestivos - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTWVZb1k4Y3ZPSFpaeVd6WkF6anZTbGx0R0FjWDRFT1E4YmpqVEFKMER3OWtSV1RNTmw0ZTZJZWhPTTlDc3BaLUxtblF6QVdmLXJEMWU3ekJQUmYtUUdlYkQ5NUZ4WU5UOHViQ1dRMmlmOFJQUnlYQk1DMjlKSUx5eV95aXZrWlZFY3ZVeEY4R05TbFZISDE0cEU2eTJ0SC1qdVlkZUVsVUpDNkFwbTdzaHhyTFo4UEE1ZmZ5YkZQSXpzUnEyaklpMi02aDRfRVIwUVNxSHNqQlc5aVB4aFA2dHhVTG1MZkNoTHfSAe8BQVVfeXFMTmFOd2pES3ZwWWdUYXlXVkxWWks0SnI0cDVDSS1ldDVaaDQ4S2l0UEp5el9EdDlYZ0VTSWxiQWhOTWpzSnk3SW0zWGtHMHpxNmR6VXF0ZVBSdnVvME45X185b1M4NmF1cERDRGUtdGRrMU5HTjhxTjFoLThQalNFOS00NUdva3kyTFBVSHhoaGFELV9nUXk4LURpQUVPM3VxWVdjMHdvRmhLNXUwSnpUV1d0R1Y1cDVFTW1xOTA1bElZQm96YlRGUkl0RktkWTF5SzNna3JRcU4wSFhfZ1NabmpqVWtEdDdnb1ZyX0JwU3c?oc=5)
 
 2026-07-05 <span class="news-indication-tag">tumor</span>
@@ -219,22 +219,6 @@ permalink: /news/ponatinib/
 2026-07-04 <span class="news-indication-tag">cancer</span>
 
 來源：[Burnham-On-Sea.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMElVdFBiZ3g5dVBPMk1SQ3paQ0RncmFCTWpYRzl2Z1lBU2lKMGpYdy1YeEJIS1pmLVU0T3RzZ3V4UkljQU5TenFvMFZ5TV9tU1RFREtIQkM1VkpGelVmaDliWE5ITG1PY2ZkRG5HS3NqdkdMWFpQbWkxTWU5NjNPdmVuR3ZmVnZSNFdWTWdKeWE2ZFZBWXRRM1BsaFA2a0JKMmJEd2Z5VmNxUm02cWVZcVZvSkJFSEpmb0Vj?oc=5)
-
----
-
-### [Hearing and eye tests could spot dementia before symptoms show - The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
-
-2026-07-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkU1Y2NmZUFsNnNsdGZoZWNuRmk0cnlSY0VRRzduTExaSld5ZXNIT3pUQjhNdjNDdFdJbWNoZnBNaWNGd01nQUdnZFQ0N2FxcjlwZUU0Y2NNQ0FCWHN4QUJ5ZGxPdzZid2NtNmVNcnVEMjlDNHd3dncwM2E3RldhbExTVjdGLVhPc2xuYkxoSHJzTWhMT2p5SjI2UHI1YjkwVnhKNTA2RWpoRC12Ukl2Nlh3?oc=5)
-
----
-
-### [Cruel brain disease means our girls will develop Alzheimer's symptoms in their teens - help us before it's too late - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUk4dkRCVmVJMVVBX00yM2lNOGFLR0JmVWdTVHE2Zk1sdGFmLXNMSnVFbmZvLWtEcjFiRFBDZk52T09EQlU5TDZxNWxYdTdXSjZ4QjlVb1hiMWMxajFWN3UySzM2SEIyS2hLLUNvZnB5YVlCVXd1NUFuSWtmSEtndk1ZLTJKdUlaYjItNWE3Sld5cko0RXc0V0xJZw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUk4dkRCVmVJMVVBX00yM2lNOGFLR0JmVWdTVHE2Zk1sdGFmLXNMSnVFbmZvLWtEcjFiRFBDZk52T09EQlU5TDZxNWxYdTdXSjZ4QjlVb1hiMWMxajFWN3UySzM2SEIyS2hLLUNvZnB5YVlCVXd1NUFuSWtmSEtndk1ZLTJKdUlaYjItNWE3Sld5cko0RXc0V0xJZw?oc=5)
 
 ---
 
@@ -267,22 +251,6 @@ permalink: /news/ponatinib/
 2026-07-04 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTNrcTZiSlh2MTlPLVRUWW1iak9GdElBSHdSVVlXYnN4UkR2RnVTTGhDS0JWYWRzbGhBdlpIaTM5VzhIbDlEZnprQWloa1JtcDVZMS1SWXhXWVRHaGxrX2x0RjNuTkFzOE53cFFzd0pzblpwX2ZNUFptU3JISEp0TVlhSUdzSzNUY1dkV2dUd0ZjNDh0SlFTSjF4alFaWXJBbWVYcU5n?oc=5)
-
----
-
-### [DÉCRYPTAGE. Cancers de la peau : pourquoi la Vendée est l’un des territoires les plus touchés](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObXVJS2J5TzVBZUl2RXBVQXN6MWdYRkpZcDRiY3c4NXI2RTYtenVfNk9wLTJJa3ZlakloZXZGZE80ellUOVpJeUs4R0NjV2VlSVdFSk5GZEdzQnppUjU2eDZnMUtHeWt5c1liSzdpWXpBaHlGbGJBRGJ1bzZtNlRhY2t6V2p5MG5DVDRYN3JXNUtWYjl4YW1LUDRodEphSnlubTRvTnVGczczYnplX2RkRk9NNGdaa050bzZxVjVjZnduNV9tTTFVbVdpeTVITGE1TmY5VHRfcVFFVVVnM3lLSkg4dk1vX2xET3RJMXNhdGNVdw?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMi8gFBVV95cUxObXVJS2J5TzVBZUl2RXBVQXN6MWdYRkpZcDRiY3c4NXI2RTYtenVfNk9wLTJJa3ZlakloZXZGZE80ellUOVpJeUs4R0NjV2VlSVdFSk5GZEdzQnppUjU2eDZnMUtHeWt5c1liSzdpWXpBaHlGbGJBRGJ1bzZtNlRhY2t6V2p5MG5DVDRYN3JXNUtWYjl4YW1LUDRodEphSnlubTRvTnVGczczYnplX2RkRk9NNGdaa050bzZxVjVjZnduNV9tTTFVbVdpeTVITGE1TmY5VHRfcVFFVVVnM3lLSkg4dk1vX2xET3RJMXNhdGNVdw?oc=5)
-
----
-
-### [Cancer : les oncologues tirent la sonnette d'alarme face aux décisions qui menacent vos traitements - St Martin Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGFGQ0RnT0pMbUxoTGl4aDdNX0I1QjRlYmQtTmVUMC04Z1ZxbkpuY0VrdUpUN3FFSG9OTE50cXg5b2o5ZDBxS0dlc183T2VIOU9WNlp0dkZWYXhyTnl3Y2Z5b3h2bkFlNzhWNmtpZ2pZcUZaVTMwRnhWMmt1d0lMTjd6dHJ5OFNFbF9hcGl4WkFVYmRscTBqaXFVV0hPZ3BmZXBLMzl4V0w3ZnpPYjF4V2hqakNOX012QUdKUkdrSzM1UDQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">cancer</span>
-
-來源：[St Martin Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGFGQ0RnT0pMbUxoTGl4aDdNX0I1QjRlYmQtTmVUMC04Z1ZxbkpuY0VrdUpUN3FFSG9OTE50cXg5b2o5ZDBxS0dlc183T2VIOU9WNlp0dkZWYXhyTnl3Y2Z5b3h2bkFlNzhWNmtpZ2pZcUZaVTMwRnhWMmt1d0lMTjd6dHJ5OFNFbF9hcGl4WkFVYmRscTBqaXFVV0hPZ3BmZXBLMzl4V0w3ZnpPYjF4V2hqakNOX012QUdKUkdrSzM1UDQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "copd 相關新聞"
+title: "BPCO（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "copd 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "BPCO（copd） 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# copd 相關新聞
+# BPCO（copd） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="copd 有什麼相關新聞？">
-<strong>copd</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="BPCO（copd） 有什麼相關新聞？">
+<strong>BPCO（copd）</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「copd」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「BPCO」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,13 +54,29 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+
+2026-07-06
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+
+---
 
 ### [Demenz-Prävention: Welche Medikamente das Risiko erhöhen könnten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9seWI2REQtXzVOeFVOWjkzdURUYzhTSHVwaFhuUzZqVTVpd2NqVU5yT0gxajdOdnZXWGVSZ29ON3hWQW5hUnNJOWtZcTJxSWVJMWpBa3pyczRtYXVXVHhidlhVZ0dhZU9nUWEycVJwc2c0ZXVEajlSdU52M1dySTgzT1o0bGh5RlF6NkRRbmktakxrY3VRNFEyMUloZmc?oc=5)
 
 2026-07-06
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeE9seWI2REQtXzVOeFVOWjkzdURUYzhTSHVwaFhuUzZqVTVpd2NqVU5yT0gxajdOdnZXWGVSZ29ON3hWQW5hUnNJOWtZcTJxSWVJMWpBa3pyczRtYXVXVHhidlhVZ0dhZU9nUWEycVJwc2c0ZXVEajlSdU52M1dySTgzT1o0bGh5RlF6NkRRbmktakxrY3VRNFEyMUloZmc?oc=5)
+
+---
+
+### [Une étude établit un lien entre la santé pulmonaire et la consommation de légumes verts à feuilles - Noovo Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2VBZ2lycWloemVIMFdQb3QxbTRJTTBWZVJMRHVIbUNiWlgzUGxvYk5UWFhvbjdSMGJjNjIyNmdOUkVxaXRnbEZoR25maGJibTVWOFRQZ3I5MElmVE9WYjhMa29SeFhiak5JbUp2UzJkcXRfU3o2OHAzUFI5elQzRnpmcHp5elhxWnRfNGpoQTdZaWY0Q0xxWUs0T3BQY084NDM2aDk2TjhQckt5Vl9MN0MxUFMzZWhpVXRSOVRxWnF3bHJfQVdHOWs4TmRPSTFRV0hiSjY5N2JNTWpsVUU0?oc=5)
+
+2026-07-04
+
+來源：[Noovo Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2VBZ2lycWloemVIMFdQb3QxbTRJTTBWZVJMRHVIbUNiWlgzUGxvYk5UWFhvbjdSMGJjNjIyNmdOUkVxaXRnbEZoR25maGJibTVWOFRQZ3I5MElmVE9WYjhMa29SeFhiak5JbUp2UzJkcXRfU3o2OHAzUFI5elQzRnpmcHp5elhxWnRfNGpoQTdZaWY0Q0xxWUs0T3BQY084NDM2aDk2TjhQckt5Vl9MN0MxUFMzZWhpVXRSOVRxWnF3bHJfQVdHOWs4TmRPSTFRV0hiSjY5N2JNTWpsVUU0?oc=5)
 
 ---
 

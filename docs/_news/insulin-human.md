@@ -14,7 +14,7 @@ permalink: /news/insulin-human/
 ---
 
 <p class="key-answer" data-question="Insulin Human 有什麼相關新聞？">
-<strong>Insulin Human</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Human</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/insulin-human/
 <p><a href="{{ '/drugs/insulin-human/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [Prädiabetes: Normoglykämie senkt Diabetesrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+
+---
+
+### [Medizinische Ernährungstherapie senkt HbA1c – Apps, Wearables und KI im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
+
+---
+
+### [Nuove terapie contro il diabete 1, visita della rete internazionale Innodia al Policlinico di Messina](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabete</span>
+
+來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
+
+---
 
 ### [Diabetes-Medikamente senken Alzheimer-Risiko um 43%: neue Studienlage und Prävention - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFBmd2RzRUZRMFhQRmwtZ1B5amRzUXJ3T2sxSWZzRVoyNXMyem1ienhvYmJXeVFyeE1vTWY1VllMaDFYNXBjaHkyX3NEX3FwOGdrTW9KZUVmM0hzckhlcmtQVFlEQWFuM0NEQjFjejFib2g0ekQ4YUhXRGVsS3BwY29La3VvWEo3eVJkb2EtbXFJVlBPSjlib0hjX0hqSXBORzJuN1ZSVUlLVlduQllLd3N0cUpkdw?oc=5)
 
 2026-07-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFBmd2RzRUZRMFhQRmwtZ1B5amRzUXJ3T2sxSWZzRVoyNXMyem1ienhvYmJXeVFyeE1vTWY1VllMaDFYNXBjaHkyX3NEX3FwOGdrTW9KZUVmM0hzckhlcmtQVFlEQWFuM0NEQjFjejFib2g0ekQ4YUhXRGVsS3BwY29La3VvWEo3eVJkb2EtbXFJVlBPSjlib0hjX0hqSXBORzJuN1ZSVUlLVlduQllLd3N0cUpkdw?oc=5)
-
----
-
-### [Ernährungstherapie: Medizinische Diät senkt Diabetes-Werte um 2% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
 
 ---
 
@@ -78,11 +94,19 @@ permalink: /news/insulin-human/
 
 ---
 
-### [Krafttraining senkt Diabetesrisiko: 30 Minuten reichen – Technik, Medikamente und Risiken - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
+### [Krafttraining: Schon 30 Minuten pro Woche senken Diabetesrisiko um 42% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZ5WUFCTGhLNTFvZHU1SmhQd1BSUFNobGVyNW4xSDBteXJsVGJsN0FuQWlvRTZGY3BfaHZ6NzZmUEc4akpHMUNta0ZqOVdRM2tsc1BGTzhZSWtJMm84QWNkczdPTmpOX1ZxamtvTlZ3LWgtaFlwb1Y0MnRQUE0xam1zajZNZTZnY3BBMkJESW9sSjVYYmlJSGZBendjZlNOWjlJY01RT2xPZUFMV0VmUC11NEpqenRP?oc=5)
 
 2026-07-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZ5WUFCTGhLNTFvZHU1SmhQd1BSUFNobGVyNW4xSDBteXJsVGJsN0FuQWlvRTZGY3BfaHZ6NzZmUEc4akpHMUNta0ZqOVdRM2tsc1BGTzhZSWtJMm84QWNkczdPTmpOX1ZxamtvTlZ3LWgtaFlwb1Y0MnRQUE0xam1zajZNZTZnY3BBMkJESW9sSjVYYmlJSGZBendjZlNOWjlJY01RT2xPZUFMV0VmUC11NEpqenRP?oc=5)
+
+---
+
+### [Majority of UK smokers wrongly believe vaping is as harmful as cigarettes, experts find - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
+
+2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Inside the NHS hospital trialling psychedelics to treat depression - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
+
+2026-07-06
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
+
+---
 
 ### [Transkranielle Pulsstimulation: 17.690 Sitzungen ohne Nebenwirkungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJVY0M2T1JQb1VEYzdpVHBaMzB4Z2Y5V3dNZ0tWOFIzRDJXTW1GRDhZTFowajFQVmhvdjRjdGZKb2VHbkhzbVhCcktDOUduRDNjMjZQbEtfWjMxY2hibXFvZnAwZTh1TVhCVHVIZFVqNVQ1ZjFSd3Rpc0kzUWVWai1XMXpsakpfc1d4eE44T2hqQm8tSy1iUVZ3YUsxMzgzT1Z3OHYyWWo3NlJsb2xCaGJRQ2tVeFU?oc=5)
 

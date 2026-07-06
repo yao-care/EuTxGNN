@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Dolor crónico y obesidad: una relación bidireccional que exige un abordaje integral](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+
+2026-07-06 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVFyTWNhal9YVlV1dUFBbWU1ZU54VVNpQ2NaZnZIWkF1Rl9ZUU0wTE04TWEtQnNTN3hyQ2p5bndUQ1ZZenhZNExjNlNQQm5Ca19TdndVQmdUYWk2SWlTVjlxVDZiOWpKSWZMOWhlWUtHcUc5Zkk1QmtvbmMxNUhNSm5WRDI2RWNVd0F4QXlsWlYxV2RtNWFVY3lHODViLWNXcXVVeGJvTDBHNGNoTHZrSWZjLTZQVTBSZTdfTzN3?oc=5)
+
+---
 
 ### [¿Tienen las nuevas generaciones más predisposición genética a sufrir obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+### [Las señales que pueden avisar de un ictus o una crisis epiléptica en casa - El Debate](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbllKZl9hWEEwNHoyTGtFNzB5RzNnREc1eE9PY1JtM3JJRTNsZW9IWEp1ZU5fSG9YWV9RSlhKYUFfRjFnSEJmbWdCWUZDYm5xVzZkSHVGaTlQcVN3Skc1MmJqUTUzZHVSN3RET1FBdWRGWDZfT2pja2xsbk04djc5aXRwNmJJQnM0UE9hUHh3MERxNzlUVGFhakZPVy1jUE5uR2d1Q1BseFh3Vmk3ZU1jbm54WEs5em1Pb1JmR9IBwgFBVV95cUxQZ3pEaXVlYWNVYUxUNFZyT2pfTW9NcEZMSWJweVJiZUhTWjR6MzItUS1obTVjRHY2bzUyRk54aTNsbGNBMDZlaVRqYmZzT1RQeHlVX2RVYzAzNEpMeUY0aUplSkdCNVhUNGlrSHhEMURfX3ZhUFA3OWluYUNuNGk4dkhGYnE2Rk5QN3F3am5qX2pRTkV5WG1fZG1DSGppa1BZS2s4Sm9ENjJqa2h3LTBJR0RsUExKUzBjRDBMV2NMSU9uQQ?oc=5)
 
-2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
+2026-07-05 <span class="news-indication-tag">ictus</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbllKZl9hWEEwNHoyTGtFNzB5RzNnREc1eE9PY1JtM3JJRTNsZW9IWEp1ZU5fSG9YWV9RSlhKYUFfRjFnSEJmbWdCWUZDYm5xVzZkSHVGaTlQcVN3Skc1MmJqUTUzZHVSN3RET1FBdWRGWDZfT2pja2xsbk04djc5aXRwNmJJQnM0UE9hUHh3MERxNzlUVGFhakZPVy1jUE5uR2d1Q1BseFh3Vmk3ZU1jbm54WEs5em1Pb1JmR9IBwgFBVV95cUxQZ3pEaXVlYWNVYUxUNFZyT2pfTW9NcEZMSWJweVJiZUhTWjR6MzItUS1obTVjRHY2bzUyRk54aTNsbGNBMDZlaVRqYmZzT1RQeHlVX2RVYzAzNEpMeUY0aUplSkdCNVhUNGlrSHhEMURfX3ZhUFA3OWluYUNuNGk4dkhGYnE2Rk5QN3F3am5qX2pRTkV5WG1fZG1DSGppa1BZS2s4Sm9ENjJqa2h3LTBJR0RsUExKUzBjRDBMV2NMSU9uQQ?oc=5)
 
 ---
 

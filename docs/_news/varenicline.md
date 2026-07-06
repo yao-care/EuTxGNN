@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [I'm a GP — here's how to avoid 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/varenicline/
 2026-07-05 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
-
----
-
-### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
-
-2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
 
 ---
 

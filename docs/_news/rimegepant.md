@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [El embarazo con una cardiopatía congénita podría influir en el desarrollo del niño años después](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJyc3pfdEdKY19reTRDWDlReHhMbGpZQnJDUUh5R0dldnJ2VGJjV2VuU2hOYVUxc2dDR0dodTYxN2laOXpVSnhRQVZUVlgxaGxwYVF3Ulh4bWtzWE40amlSUDVONVNGc0RNT3B6aUNBbHQxYVdQYmZXTmtnUHlQOUpraTAxTmNyTi1JcmxBSmRfb3E1dlRWQ2xoSGo5cXVxcUYxbF9TTURPMmpkZVQ5dUlCWDMxR0huU3lLOHphWHVTRDVqUFJyQVViMzFuQnM?oc=5)
-
-2026-07-06 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHJyc3pfdEdKY19reTRDWDlReHhMbGpZQnJDUUh5R0dldnJ2VGJjV2VuU2hOYVUxc2dDR0dodTYxN2laOXpVSnhRQVZUVlgxaGxwYVF3Ulh4bWtzWE40amlSUDVONVNGc0RNT3B6aUNBbHQxYVdQYmZXTmtnUHlQOUpraTAxTmNyTi1JcmxBSmRfb3E1dlRWQ2xoSGo5cXVxcUYxbF9TTURPMmpkZVQ5dUlCWDMxR0huU3lLOHphWHVTRDVqUFJyQVViMzFuQnM?oc=5)
-
----
-
-### [Neurologe über Migräne: Diese Patienten haben höheres Schlaganfallrisiko - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
-
-2026-07-04 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTVHSUI1N00tVnoxbm1qeWVEMTc3U1hUXzJuZHdFR290dVdrekVYN25vWDFNNEloYzZodkFSb3hKU2FKOGxGbFdQdFRPOVphNEEyeUZ6bjloeUdaM3doYW5xMDFxUFhCc0FFZnlkbFNjTzRVWVlCUFFuS09qOUZtTjM3M0I2RWdEZGlWSGNQVEpuSHVKYTNKR1ZyVFBGdUUtb2NJaFVoUG4xSEN0cmk3OXNiaklPbHR0SHhRSEJfbmk4OHY0UE5uT1NRZ1h4bkxpdlRCcTBn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

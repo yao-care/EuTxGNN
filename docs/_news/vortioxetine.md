@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Inside the NHS hospital trialling psychedelics to treat depression - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
+
+2026-07-06 <span class="news-indication-tag">depression</span>
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
+
+---
 
 ### [Transkranielle Pulsstimulation: 17.690 Sitzungen ohne Nebenwirkungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJVY0M2T1JQb1VEYzdpVHBaMzB4Z2Y5V3dNZ0tWOFIzRDJXTW1GRDhZTFowajFQVmhvdjRjdGZKb2VHbkhzbVhCcktDOUduRDNjMjZQbEtfWjMxY2hibXFvZnAwZTh1TVhCVHVIZFVqNVQ1ZjFSd3Rpc0kzUWVWai1XMXpsakpfc1d4eE44T2hqQm8tSy1iUVZ3YUsxMzgzT1Z3OHYyWWo3NlJsb2xCaGJRQ2tVeFU?oc=5)
 
