@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Diabetes-Forschung: 16 Millionen Zellen liefern neue Immun-Marker für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlmMDl1TUNxWFUxcktCNnRkcjhLLWhEM1pkM2ZmQ3d0MUYxbkJmRTBQNm5CYmtfWkphOXNMSmFoX3VUM19BVUtmSjB3SXFvR01wQnM1aUVmTlpTb2QyNDRyWTdfbU80VkloYzVEUldXX0RxR045YWVpd1NhVXdPbTZPRV9tVVdwMjYyWG1YQl9ET1JsWEpTQ1FNRWQ1MU85TUpfQU5ZZHdpT0RWTS1qMWliQWM3ZENNWVE?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlmMDl1TUNxWFUxcktCNnRkcjhLLWhEM1pkM2ZmQ3d0MUYxbkJmRTBQNm5CYmtfWkphOXNMSmFoX3VUM19BVUtmSjB3SXFvR01wQnM1aUVmTlpTb2QyNDRyWTdfbU80VkloYzVEUldXX0RxR045YWVpd1NhVXdPbTZPRV9tVVdwMjYyWG1YQl9ET1JsWEpTQ1FNRWQ1MU85TUpfQU5ZZHdpT0RWTS1qMWliQWM3ZENNWVE?oc=5)
+
+---
+
+### [Perder hora y media de sueño al día tiene un precio: más kilos, más sofá y más riesgo de diabetes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmZlbExPRUxNXzNOSE5ja21mZTZMOWpka1ZxZ3JkVXlvaXE1Ujg5S3V6YXRqcnpQTTRNWmVsNzFJeXY2QkQ4dEhVSHJPY25tUDQyR2pnS19LY2FsLUpzYnhrUG9uU2VjdWxOYjJmVmxZWXptcDVFOGJORXBITXNUXzlvYUdXXzZEVVlwcUhQTUlJbHZ2MXNxcHlXaU5XamJBZHp5R0pERnl2RV9Wc0FiTDBjSlFfajkxQklINldWYXBzazRDNlVxSmtMSlYtVXNQUmlWYmVFaUhFTGdfeVBiQXRpU3RZRzI0?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmZlbExPRUxNXzNOSE5ja21mZTZMOWpka1ZxZ3JkVXlvaXE1Ujg5S3V6YXRqcnpQTTRNWmVsNzFJeXY2QkQ4dEhVSHJPY25tUDQyR2pnS19LY2FsLUpzYnhrUG9uU2VjdWxOYjJmVmxZWXptcDVFOGJORXBITXNUXzlvYUdXXzZEVVlwcUhQTUlJbHZ2MXNxcHlXaU5XamJBZHp5R0pERnl2RV9Wc0FiTDBjSlFfajkxQklINldWYXBzazRDNlVxSmtMSlYtVXNQUmlWYmVFaUhFTGdfeVBiQXRpU3RZRzI0?oc=5)
+
+---
+
+### [Diabetes vorbeugen: 30 Minuten Krafttraining senken Risiko um 42% - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
+
+---
+
+### [Diabetes-Forschung 2026: SGLT2-Hemmer senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
+
+---
 
 ### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
 
 2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
-
----
-
-### [Diabetes-Forschung: 16 Millionen Zellen offenbaren neue Immun-Marker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
-
----
-
-### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 ---
 
@@ -86,27 +102,27 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+
+---
+
+### [Medizinische Ernährungstherapie senkt HbA1c – Apps, Wearables und KI im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
+
+---
+
 ### [Nuove terapie contro il diabete 1, visita della rete internazionale Innodia al Policlinico di Messina](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
 
 2026-07-06 <span class="news-indication-tag">diabete</span>
 
 來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
-
----
-
-### [Diabetes-Medikamente senken Alzheimer-Risiko um 43%: neue Studienlage und Prävention - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFBmd2RzRUZRMFhQRmwtZ1B5amRzUXJ3T2sxSWZzRVoyNXMyem1ienhvYmJXeVFyeE1vTWY1VllMaDFYNXBjaHkyX3NEX3FwOGdrTW9KZUVmM0hzckhlcmtQVFlEQWFuM0NEQjFjejFib2g0ekQ4YUhXRGVsS3BwY29La3VvWEo3eVJkb2EtbXFJVlBPSjlib0hjX0hqSXBORzJuN1ZSVUlLVlduQllLd3N0cUpkdw?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFBmd2RzRUZRMFhQRmwtZ1B5amRzUXJ3T2sxSWZzRVoyNXMyem1ienhvYmJXeVFyeE1vTWY1VllMaDFYNXBjaHkyX3NEX3FwOGdrTW9KZUVmM0hzckhlcmtQVFlEQWFuM0NEQjFjejFib2g0ekQ4YUhXRGVsS3BwY29La3VvWEo3eVJkb2EtbXFJVlBPSjlib0hjX0hqSXBORzJuN1ZSVUlLVlduQllLd3N0cUpkdw?oc=5)
-
----
-
-### [Krafttraining senkt Diabetesrisiko: 30 Minuten reichen – Technik, Medikamente und Risiken - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
-
-2026-07-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
 
 ---
 

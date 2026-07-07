@@ -62,11 +62,11 @@ permalink: /news/fluticasone-propionate/
 
 ---
 
-### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
+### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
 
 2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（3 則）
 
+### [Transkranielle Pulsstimulation: 17.690 Sitzungen belegen hohe Verträglichkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
+
+2026-07-07 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
+
+---
+
 ### [Inside the NHS hospital trialling psychedelics to treat depression - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
 
 2026-07-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
-
----
-
-### [Transkranielle Pulsstimulation: 17.690 Sitzungen ohne Nebenwirkungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJVY0M2T1JQb1VEYzdpVHBaMzB4Z2Y5V3dNZ0tWOFIzRDJXTW1GRDhZTFowajFQVmhvdjRjdGZKb2VHbkhzbVhCcktDOUduRDNjMjZQbEtfWjMxY2hibXFvZnAwZTh1TVhCVHVIZFVqNVQ1ZjFSd3Rpc0kzUWVWai1XMXpsakpfc1d4eE44T2hqQm8tSy1iUVZ3YUsxMzgzT1Z3OHYyWWo3NlJsb2xCaGJRQ2tVeFU?oc=5)
-
-2026-07-05 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJVY0M2T1JQb1VEYzdpVHBaMzB4Z2Y5V3dNZ0tWOFIzRDJXTW1GRDhZTFowajFQVmhvdjRjdGZKb2VHbkhzbVhCcktDOUduRDNjMjZQbEtfWjMxY2hibXFvZnAwZTh1TVhCVHVIZFVqNVQ1ZjFSd3Rpc0kzUWVWai1XMXpsakpfc1d4eE44T2hqQm8tSy1iUVZ3YUsxMzgzT1Z3OHYyWWo3NlJsb2xCaGJRQ2tVeFU?oc=5)
 
 ---
 

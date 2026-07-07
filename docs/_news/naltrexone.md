@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Air pollution may cause childhood obesity by disrupting impulse control, study finds - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVREd1N5RVllSFdLeUlKTHRncHJMZFZ3NmoxaWVrTmR2R1ZBVGhaY1J0ZkFtakRoNjZualYzRzdUNmJhc3JTd29TS1E5TzF5N3lUNnlpV0wydHJQTFI3NVVjdzJWU0ExR2d1YTNySnpqLXViLTV6RjBMV1JDQWZoZ25CalFDVzZ4cWNVOXpB?oc=5)
 
 2026-07-06 <span class="news-indication-tag">obesity</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVREd1N5RVllSFdLeUlKTHRncHJMZFZ3NmoxaWVrTmR2R1ZBVGhaY1J0ZkFtakRoNjZualYzRzdUNmJhc3JTd29TS1E5TzF5N3lUNnlpV0wydHJQTFI3NVVjdzJWU0ExR2d1YTNySnpqLXViLTV6RjBMV1JDQWZoZ25CalFDVzZ4cWNVOXpB?oc=5)
-
----
-
-### [¿Tienen las nuevas generaciones más predisposición genética a sufrir obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
-
-2026-07-05 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tzV295aERvbm5YeGtkSGh2dVg5eE9YU2ZsZzZ0UjR0UmdndW5VSWZZdEh6VGgtSDFYTzgxUlJPeTBHVU50ZVBPT096dFUwc1VGNXpYTDhJNnZXR3hKVk0xSHhXbzQyeE9qRE1ZM1NmdlkwRWdJcVlLMDM3VDlaNUItSDFVcFJGa0oyM0gzLTJMU243UU5qTDZWX2pYcW5mSmZ2QmZMNXdrN1BSbGpySWxTNDZPQQ?oc=5)
 
 ---
 

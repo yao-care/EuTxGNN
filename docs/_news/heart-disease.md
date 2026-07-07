@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -87,11 +87,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（1 則）
 
-### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
-2026-07-05
+2026-07-07
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
 ---
 

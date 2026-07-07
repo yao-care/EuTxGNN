@@ -54,6 +54,22 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（4 則）
 
+### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
+
+---
+
+### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
+
+2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
+
+---
+
 ### [Il n'y a pas que l'hypertension : ce problème très courant pourrait aussi augmenter le risque d'Alzheimer](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlZBcHprUk5sbGlyVHBoT0J2NXFVbU9SdkJ3TGF0bk5YYkh2aGtFQWcwSU91RXYxOFdrSkdubmIzYlpvVXUtNUlYdkEtell2VHJNX25JZkZYbk5odE9SaTFLWjQzWlk2UVBqeDBtWWlSZUNHWUYxcEhpOXZsSmZIeDR3?oc=5)
 
 2026-07-06 <span class="news-indication-tag">hypertension</span>
@@ -67,22 +83,6 @@ permalink: /news/corifollitropin-alfa/
 2026-07-06 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
-
----
-
-### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
-
-2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
-
----
-
-### [Konservierungsstoffe: Studie mit 112.000 zeigt 29% Bluthochdruck-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
-
-2026-07-05 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQU12UzNpeWVVaFFuZWFMVVZGZ0pMTUZvLXE2XzBxMUliOGp1MkhOcDVRNGZrRUxIU0RsNE4yd0thTFpVdk90c05La21mOFhQUjkzQk1vMEJGM1UwdzBKV0VXODBOOXZ1SkdKX2gzZkdxWFUwTHJETWVnWXM5Q19RZENzT1hrdVNtMmtyX0lpWnZOYTlBNnFpTjdBeUdxLVUyUHJTdHJuaU8?oc=5)
 
 ---
 

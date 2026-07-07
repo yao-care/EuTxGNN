@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 cardiopatía</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -54,11 +54,11 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（1 則）
 
-### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
-2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
+2026-07-07 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
 ---
 
