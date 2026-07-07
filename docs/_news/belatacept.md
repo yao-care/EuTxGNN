@@ -14,7 +14,7 @@ permalink: /news/belatacept/
 ---
 
 <p class="key-answer" data-question="Belatacept 有什麼相關新聞？">
-<strong>Belatacept</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Belatacept</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/belatacept/
 <li>indolent plasma cell myeloma（96.9%）</li>
 <li>relapsing-remitting multiple sclerosis（96.8%）</li>
 <li>Crohn's colitis（96.2%）</li>
-<li>heart disease（94.6%）</li>
+<li class="indication-matched">heart disease（94.6%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>Laubry-Pezzi syndrome（94.1%）</li>
 <li>hyperthyroidism（93.8%）</li>
 <li>genetic syndromic Pierre Robin syndrome（93.7%）</li>
@@ -52,13 +52,29 @@ permalink: /news/belatacept/
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（26 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
-2026-07-06 <span class="news-indication-tag">Krebs</span>
+2026-07-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+---
+
+### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+
+---
+
+### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
+
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [PPI-Medikamente: 44 Prozent höheres Demenzrisiko bei Langzeitnutzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpJWUZLR2ptOFI5OXdIbWh5Q2h2Vzc2cHFYSlFyZWhPeGlrQkxzbHM4TlE0ZGEzWlduMEhuWDVESThmR0pXYk5Pc3lDcFpURTRWUjdfMzh5X0tUdU1zbE55elN3NU5tc254ZndCV1NaX1JHcVlpUUtZRFVEQW5xdjB2YWZWVjB6OXA2b3NGZU1VSUI5eXRpRkFuUmNrNHVyZ2tZOXJqSC05QnVZWWloaFZ2d2k1eUxy?oc=5)
+### [Glucosamin warnt: Studie zeigt 25% höheres Demenz- und Sterberisiko - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNQkZIUmI5UDdkb3czNlAzQUd0VWRfZmVzdTFwNWUxQmZqb3pfdDRfVjJ4N2lBVHZVR3NDRGJDUzNjcWJ1VGRCMUZhSnpPZGxNcXVSeEhvQlo1b1hEY1dKQUVieWpzWDJ1VGtkX1kxUWJzazNoblJNT3dvckwzeWZjeWc2RGZJQWd5a2RFcEVBTWJoVU42dm1UMTB6Yjg4dw?oc=5)
 
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-06 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpJWUZLR2ptOFI5OXdIbWh5Q2h2Vzc2cHFYSlFyZWhPeGlrQkxzbHM4TlE0ZGEzWlduMEhuWDVESThmR0pXYk5Pc3lDcFpURTRWUjdfMzh5X0tUdU1zbE55elN3NU5tc254ZndCV1NaX1JHcVlpUUtZRFVEQW5xdjB2YWZWVjB6OXA2b3NGZU1VSUI5eXRpRkFuUmNrNHVyZ2tZOXJqSC05QnVZWWloaFZ2d2k1eUxy?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNQkZIUmI5UDdkb3czNlAzQUd0VWRfZmVzdTFwNWUxQmZqb3pfdDRfVjJ4N2lBVHZVR3NDRGJDUzNjcWJ1VGRCMUZhSnpPZGxNcXVSeEhvQlo1b1hEY1dKQUVieWpzWDJ1VGtkX1kxUWJzazNoblJNT3dvckwzeWZjeWc2RGZJQWd5a2RFcEVBTWJoVU42dm1UMTB6Yjg4dw?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Glucosamin-Warnung: Gelenkpillen erhöhen Demenz-Risiko um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
-
----
-
 ### [Personal de salud en Congo amenaza con huelga durante brote de ébola que rebasa las 500 muertes - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHF4YXlGY3FlTXNjR21Jd013YjNvalgtbWRtTkRkeGxpekI4M1JNQmIzemNaeWpDWW05UTVEOWtBZDlpdVZrNkFfRkxYal9nLW9XNlEwZXlsRFJRdVB3R0VVZ2pXdmt5LVFLT2pBSmpUYWRKRVVrTlduamV4UEt4TmpXUTBtMk94aVlkUQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHF4YXlGY3FlTXNjR21Jd013YjNvalgtbWRtTkRkeGxpekI4M1JNQmIzemNaeWpDWW05UTVEOWtBZDlpdVZrNkFfRkxYal9nLW9XNlEwZXlsRFJRdVB3R0VVZ2pXdmt5LVFLT2pBSmpUYWRKRVVrTlduamV4UEt4TmpXUTBtMk94aVlkUQ?oc=5)
-
----
-
-### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
 
 ---
 
@@ -166,11 +166,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Schlaf-Schaltkreis steuert Wachstumshormon: Neue Chance für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+### [He Was Terrified by His Girlfriend's Severe Medical Symptoms. When He Begged Her to See a Doctor, She Accused Him of "Being Mean."](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVVoOWFURExWZjBNSlNRYzlVc2FybDRFaVp2bTBkWlFlYW5uWmJ0M2JoOVZMM19xTU5LNUVSeGdQUTlKUU5qY053dzJJZHhyTDVzYi14ei1BSFpJSi1fVVM0bkd2YnR6a2VEc0xrblVrZHNiNVdjSk1qUTNFVkFCSUd1NDJJcjBEQzZCUkZVelkxWXN0eERzcDlDaUJSNHpON1JndklyUVVSVURObWR3dm8ySUp1bklTbTNMb1NPSlROWkFWS04tRk1JVTVVQndqVkV0RW1uWjVBTmktT0VGZEpYOE9EUG93TGFmT2w0YUM?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+來源：[TwistedSifter](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVVoOWFURExWZjBNSlNRYzlVc2FybDRFaVp2bTBkWlFlYW5uWmJ0M2JoOVZMM19xTU5LNUVSeGdQUTlKUU5qY053dzJJZHhyTDVzYi14ei1BSFpJSi1fVVM0bkd2YnR6a2VEc0xrblVrZHNiNVdjSk1qUTNFVkFCSUd1NDJJcjBEQzZCUkZVelkxWXN0eERzcDlDaUJSNHpON1JndklyUVVSVURObWR3dm8ySUp1bklTbTNMb1NPSlROWkFWS04tRk1JVTVVQndqVkV0RW1uWjVBTmktT0VGZEpYOE9EUG93TGFmT2w0YUM?oc=5)
 
 ---
 
@@ -198,14 +198,6 @@ permalink: /news/belatacept/
 
 ---
 
-### [Madrid participa en un ambicioso ensayo internacional que combina campos eléctricos e inmunoterapia para combatir el tumor cerebral - Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
-
----
-
 ### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 2026-07-05 <span class="news-indication-tag">cancer</span>
@@ -214,19 +206,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
+### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span>
+2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
-
----
-
-### [Médecine : Une étude indique que les personnes nées après 1965 vieillissent plus vite que leurs aînés... - Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
 ---
 
@@ -238,11 +222,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1p2WXI4emFLemt0ZlRDNE10TUptTzZ3aTVkdW12dy1uZ3NmV05LQXN6RlVaQ2pBSHM3QTBOeEJKTTRCbkYyTWpPRjFnYk9QYk5veXh4eTdXUzhmem8tS0tCVmZsd3NncjYxSllqTUMwaUJYMGhBbGgtTTVQOEFEVG1qTEJETlo2NjNZUXhGbzhYZG1lN0t2eU1oeU9HX2tDS3piTUJLc09zNVE5Znd1T1RPOUNfUV9Yb2hJQ0ExRng1ZzJXS0gxVdIBzgFBVV95cUxPTS1ublFfNU1UQldLMmlGNkstdjE4RHVzeEl3bERCSnpsMHRXaVFzaFJhMFdHUTFKajVQMVRpOFluR3V2ZDlkSDRwbGxORnFVR1N1SFQ5cEdNNWR3M0lDc01zWk16LS1hYWx2TTRkcEwzWTAya1c2YVAzNDI4eGh5bTE3ZktVWjUyYWhWSWUwOTBrUnpxLUNWRU9iOVE3QkdsSGE2ZEMzM085SV8teGREUnNtRVJTeFFHeWtJYjF0RjQzd3dhZDZYYm5wandwUQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1p2WXI4emFLemt0ZlRDNE10TUptTzZ3aTVkdW12dy1uZ3NmV05LQXN6RlVaQ2pBSHM3QTBOeEJKTTRCbkYyTWpPRjFnYk9QYk5veXh4eTdXUzhmem8tS0tCVmZsd3NncjYxSllqTUMwaUJYMGhBbGgtTTVQOEFEVG1qTEJETlo2NjNZUXhGbzhYZG1lN0t2eU1oeU9HX2tDS3piTUJLc09zNVE5Znd1T1RPOUNfUV9Yb2hJQ0ExRng1ZzJXS0gxVdIBzgFBVV95cUxPTS1ublFfNU1UQldLMmlGNkstdjE4RHVzeEl3bERCSnpsMHRXaVFzaFJhMFdHUTFKajVQMVRpOFluR3V2ZDlkSDRwbGxORnFVR1N1SFQ5cEdNNWR3M0lDc01zWk16LS1hYWx2TTRkcEwzWTAya1c2YVAzNDI4eGh5bTE3ZktVWjUyYWhWSWUwOTBrUnpxLUNWRU9iOVE3QkdsSGE2ZEMzM085SV8teGREUnNtRVJTeFFHeWtJYjF0RjQzd3dhZDZYYm5wandwUQ?oc=5)
 
 ---
 
@@ -254,14 +238,6 @@ permalink: /news/belatacept/
 
 ---
 
-### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
----
-
 ### [Vaccino contro l'HPV: perché è importante farlo? - Corriere della Sera](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUFdFb0Z5U2pFYkRNcEhmWEF3QlhtN0gwaVRiZENWM3RxZGprV2RWRmpHUDMzeTN0NXYtamxpSjcxUVJMTW5OTXhHRnFIUTVRUUNoUzVKd0Vpc1NPNEpxTmRVeTRJNmN0YkkyOUxTLWcwdGc4SVlOOW0zVVo0TkZYYVJVOXZUU0x4OFdxQktoako5Q1lWeVVyN1Izc1lKOVRzaWYyVHRXeGU2VVlEUUhpUjg0NjFaM1l2ZHFRSTBScmdiQlZka2FqTHk1bUFtaUs4X205dzByYXRDUmdFai1XcXJKTGc?oc=5)
 
 2026-07-05 <span class="news-indication-tag">tumor</span>
@@ -270,7 +246,7 @@ permalink: /news/belatacept/
 
 ---
 
-### [Death notices and funeral announcements from Grimsby and Scunthorpe Telegraph - June 29-July 5, 2026 - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
+### [Death notices and funeral announcements from the Telegraph - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">MS</span>
 

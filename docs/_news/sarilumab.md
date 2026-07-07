@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [PPI-Medikamente: 44 Prozent höheres Demenzrisiko bei Langzeitnutzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpJWUZLR2ptOFI5OXdIbWh5Q2h2Vzc2cHFYSlFyZWhPeGlrQkxzbHM4TlE0ZGEzWlduMEhuWDVESThmR0pXYk5Pc3lDcFpURTRWUjdfMzh5X0tUdU1zbE55elN3NU5tc254ZndCV1NaX1JHcVlpUUtZRFVEQW5xdjB2YWZWVjB6OXA2b3NGZU1VSUI5eXRpRkFuUmNrNHVyZ2tZOXJqSC05QnVZWWloaFZ2d2k1eUxy?oc=5)
+### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
 
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpJWUZLR2ptOFI5OXdIbWh5Q2h2Vzc2cHFYSlFyZWhPeGlrQkxzbHM4TlE0ZGEzWlduMEhuWDVESThmR0pXYk5Pc3lDcFpURTRWUjdfMzh5X0tUdU1zbE55elN3NU5tc254ZndCV1NaX1JHcVlpUUtZRFVEQW5xdjB2YWZWVjB6OXA2b3NGZU1VSUI5eXRpRkFuUmNrNHVyZ2tZOXJqSC05QnVZWWloaFZ2d2k1eUxy?oc=5)
-
----
-
-### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
 
 ---
 
-### [Une étude établit un lien entre la santé pulmonaire et la consommation de légumes verts à feuilles - Noovo Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2VBZ2lycWloemVIMFdQb3QxbTRJTTBWZVJMRHVIbUNiWlgzUGxvYk5UWFhvbjdSMGJjNjIyNmdOUkVxaXRnbEZoR25maGJibTVWOFRQZ3I5MElmVE9WYjhMa29SeFhiak5JbUp2UzJkcXRfU3o2OHAzUFI5elQzRnpmcHp5elhxWnRfNGpoQTdZaWY0Q0xxWUs0T3BQY084NDM2aDk2TjhQckt5Vl9MN0MxUFMzZWhpVXRSOVRxWnF3bHJfQVdHOWs4TmRPSTFRV0hiSjY5N2JNTWpsVUU0?oc=5)
+### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
-2026-07-04 <span class="news-indication-tag">BPCO</span>
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[Noovo Info](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2VBZ2lycWloemVIMFdQb3QxbTRJTTBWZVJMRHVIbUNiWlgzUGxvYk5UWFhvbjdSMGJjNjIyNmdOUkVxaXRnbEZoR25maGJibTVWOFRQZ3I5MElmVE9WYjhMa29SeFhiak5JbUp2UzJkcXRfU3o2OHAzUFI5elQzRnpmcHp5elhxWnRfNGpoQTdZaWY0Q0xxWUs0T3BQY084NDM2aDk2TjhQckt5Vl9MN0MxUFMzZWhpVXRSOVRxWnF3bHJfQVdHOWs4TmRPSTFRV0hiSjY5N2JNTWpsVUU0?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Tranexamsäure kann Bluttransfusionen bei Operationen vermeiden und Geld sparen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
+
+---
+
+### [Glucosamin warnt: Studie zeigt 25% höheres Demenz- und Sterberisiko - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNQkZIUmI5UDdkb3czNlAzQUd0VWRfZmVzdTFwNWUxQmZqb3pfdDRfVjJ4N2lBVHZVR3NDRGJDUzNjcWJ1VGRCMUZhSnpPZGxNcXVSeEhvQlo1b1hEY1dKQUVieWpzWDJ1VGtkX1kxUWJzazNoblJNT3dvckwzeWZjeWc2RGZJQWd5a2RFcEVBTWJoVU42dm1UMTB6Yjg4dw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNQkZIUmI5UDdkb3czNlAzQUd0VWRfZmVzdTFwNWUxQmZqb3pfdDRfVjJ4N2lBVHZVR3NDRGJDUzNjcWJ1VGRCMUZhSnpPZGxNcXVSeEhvQlo1b1hEY1dKQUVieWpzWDJ1VGtkX1kxUWJzazNoblJNT3dvckwzeWZjeWc2RGZJQWd5a2RFcEVBTWJoVU42dm1UMTB6Yjg4dw?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Glucosamin-Warnung: Gelenkpillen erhöhen Demenz-Risiko um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
-
----
-
 ### [Personal de salud en Congo amenaza con huelga durante brote de ébola que rebasa las 500 muertes - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHF4YXlGY3FlTXNjR21Jd013YjNvalgtbWRtTkRkeGxpekI4M1JNQmIzemNaeWpDWW05UTVEOWtBZDlpdVZrNkFfRkxYal9nLW9XNlEwZXlsRFJRdVB3R0VVZ2pXdmt5LVFLT2pBSmpUYWRKRVVrTlduamV4UEt4TmpXUTBtMk94aVlkUQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">MS</span>
@@ -102,31 +102,23 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Schlaf-Schaltkreis steuert Wachstumshormon: Neue Chance für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+### [He Was Terrified by His Girlfriend's Severe Medical Symptoms. When He Begged Her to See a Doctor, She Accused Him of "Being Mean."](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVVoOWFURExWZjBNSlNRYzlVc2FybDRFaVp2bTBkWlFlYW5uWmJ0M2JoOVZMM19xTU5LNUVSeGdQUTlKUU5qY053dzJJZHhyTDVzYi14ei1BSFpJSi1fVVM0bkd2YnR6a2VEc0xrblVrZHNiNVdjSk1qUTNFVkFCSUd1NDJJcjBEQzZCUkZVelkxWXN0eERzcDlDaUJSNHpON1JndklyUVVSVURObWR3dm8ySUp1bklTbTNMb1NPSlROWkFWS04tRk1JVTVVQndqVkV0RW1uWjVBTmktT0VGZEpYOE9EUG93TGFmT2w0YUM?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
-
----
-
-### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
+來源：[TwistedSifter](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVVoOWFURExWZjBNSlNRYzlVc2FybDRFaVp2bTBkWlFlYW5uWmJ0M2JoOVZMM19xTU5LNUVSeGdQUTlKUU5qY053dzJJZHhyTDVzYi14ei1BSFpJSi1fVVM0bkd2YnR6a2VEc0xrblVrZHNiNVdjSk1qUTNFVkFCSUd1NDJJcjBEQzZCUkZVelkxWXN0eERzcDlDaUJSNHpON1JndklyUVVSVURObWR3dm8ySUp1bklTbTNMb1NPSlROWkFWS04tRk1JVTVVQndqVkV0RW1uWjVBTmktT0VGZEpYOE9EUG93TGFmT2w0YUM?oc=5)
 
 ---
 
-### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1p2WXI4emFLemt0ZlRDNE10TUptTzZ3aTVkdW12dy1uZ3NmV05LQXN6RlVaQ2pBSHM3QTBOeEJKTTRCbkYyTWpPRjFnYk9QYk5veXh4eTdXUzhmem8tS0tCVmZsd3NncjYxSllqTUMwaUJYMGhBbGgtTTVQOEFEVG1qTEJETlo2NjNZUXhGbzhYZG1lN0t2eU1oeU9HX2tDS3piTUJLc09zNVE5Znd1T1RPOUNfUV9Yb2hJQ0ExRng1ZzJXS0gxVdIBzgFBVV95cUxPTS1ublFfNU1UQldLMmlGNkstdjE4RHVzeEl3bERCSnpsMHRXaVFzaFJhMFdHUTFKajVQMVRpOFluR3V2ZDlkSDRwbGxORnFVR1N1SFQ5cEdNNWR3M0lDc01zWk16LS1hYWx2TTRkcEwzWTAya1c2YVAzNDI4eGh5bTE3ZktVWjUyYWhWSWUwOTBrUnpxLUNWRU9iOVE3QkdsSGE2ZEMzM085SV8teGREUnNtRVJTeFFHeWtJYjF0RjQzd3dhZDZYYm5wandwUQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1p2WXI4emFLemt0ZlRDNE10TUptTzZ3aTVkdW12dy1uZ3NmV05LQXN6RlVaQ2pBSHM3QTBOeEJKTTRCbkYyTWpPRjFnYk9QYk5veXh4eTdXUzhmem8tS0tCVmZsd3NncjYxSllqTUMwaUJYMGhBbGgtTTVQOEFEVG1qTEJETlo2NjNZUXhGbzhYZG1lN0t2eU1oeU9HX2tDS3piTUJLc09zNVE5Znd1T1RPOUNfUV9Yb2hJQ0ExRng1ZzJXS0gxVdIBzgFBVV95cUxPTS1ublFfNU1UQldLMmlGNkstdjE4RHVzeEl3bERCSnpsMHRXaVFzaFJhMFdHUTFKajVQMVRpOFluR3V2ZDlkSDRwbGxORnFVR1N1SFQ5cEdNNWR3M0lDc01zWk16LS1hYWx2TTRkcEwzWTAya1c2YVAzNDI4eGh5bTE3ZktVWjUyYWhWSWUwOTBrUnpxLUNWRU9iOVE3QkdsSGE2ZEMzM085SV8teGREUnNtRVJTeFFHeWtJYjF0RjQzd3dhZDZYYm5wandwUQ?oc=5)
 
 ---
 
-### [Death notices and funeral announcements from Grimsby and Scunthorpe Telegraph - June 29-July 5, 2026 - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
+### [Death notices and funeral announcements from the Telegraph - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">MS</span>
 

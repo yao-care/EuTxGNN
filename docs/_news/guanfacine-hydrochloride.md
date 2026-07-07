@@ -14,7 +14,7 @@ permalink: /news/guanfacine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Guanfacine Hydrochloride 有什麼相關新聞？">
-<strong>Guanfacine Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guanfacine Hydrochloride</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/guanfacine-hydrochloride/
 <p><a href="{{ '/drugs/guanfacine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（33 則）
 
-### [Polyomaviren: neue Ansatzpunkte für Schutz und Therapie - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE92UU1LaktFckJBdk9wa1l1bUJmQjdGbzVqQy1seHdOY25YcDNwd2RjbXQ3cUJpdDVCbUVLb0RTNi11c3FCcU41MC1Sdw?oc=5)
+### [Women hit fertility tipping point at 49 even with young donor eggs](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTcFFvYUg5STJvSlpOT1ZzRHVLaUp1V1Y2cDVaNTRSS0VVTkpGeVJ6LUdVaWVibHdQeTVGaTVKNjlrVktveUJZWXhFeG9XbVktemlqbTBXTnM1ai1R?oc=5)
 
 2026-07-06 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE92UU1LaktFckJBdk9wa1l1bUJmQjdGbzVqQy1seHdOY25YcDNwd2RjbXQ3cUJpdDVCbUVLb0RTNi11c3FCcU41MC1Sdw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTcFFvYUg5STJvSlpOT1ZzRHVLaUp1V1Y2cDVaNTRSS0VVTkpGeVJ6LUdVaWVibHdQeTVGaTVKNjlrVktveUJZWXhFeG9XbVktemlqbTBXTnM1ai1R?oc=5)
 
 ---
 
-### [Sarkopenie: Schon 90 Minuten Krafttraining pro Woche verjüngt Zellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0doRWh5RTl1Qk5UV3cxdGxLZVg1eW9iTVJPamx4UldCUGZ4YVhQdDBaVjJmNnMyQ18wTU40N21hLWlBeXYxMi1fWnhlLW5IbGxvNEo5bzE3NzVPSVFyTnZLcEpXX1lwdURFSmIzeEx4c0xuNzc1VmR0MDBPRzJJLUx4LUdQR2l4a1VKUGxKWE8tWmZEaXA5ZjZHVGJ2b0ZUNjhBRUlxbDdyU3g0NVdkUGM0SE1uTmNS?oc=5)
+### [Air pollution linked to DNA changes in sperm, research shows - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVFSQ2NFVHNrRk02dS1adFB1RzF2YUJrSFVScjl6QVlWZ01TM0ZJMmtEQmx1TzE3ZXFmaW56WHE0R3hDWXJUdzV2N1FhSVllQncxcm5icmkxWGMtZC0tc2d1UzdzV0xyN0pzTzZmUkVaSEYyT2NQeGxrR0dxeDlwdS1fQU9rWk1uYUVn?oc=5)
 
 2026-07-06 <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0doRWh5RTl1Qk5UV3cxdGxLZVg1eW9iTVJPamx4UldCUGZ4YVhQdDBaVjJmNnMyQ18wTU40N21hLWlBeXYxMi1fWnhlLW5IbGxvNEo5bzE3NzVPSVFyTnZLcEpXX1lwdURFSmIzeEx4c0xuNzc1VmR0MDBPRzJJLUx4LUdQR2l4a1VKUGxKWE8tWmZEaXA5ZjZHVGJ2b0ZUNjhBRUlxbDdyU3g0NVdkUGM0SE1uTmNS?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVFSQ2NFVHNrRk02dS1adFB1RzF2YUJrSFVScjl6QVlWZ01TM0ZJMmtEQmx1TzE3ZXFmaW56WHE0R3hDWXJUdzV2N1FhSVllQncxcm5icmkxWGMtZC0tc2d1UzdzV0xyN0pzTzZmUkVaSEYyT2NQeGxrR0dxeDlwdS1fQU9rWk1uYUVn?oc=5)
+
+---
+
+### [Herzinfarkt-Prävention: Neue Bildgebung und KI senken Risiken - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxPLW5mT094R0VFbDlrcUVMWFN2bzFQQXBNY1J0bTh1QXRwNmlzNW1zeGx3UzFvTFY0R05xS2ZPc3lkOWIyMERkalU1UkFJWWdZNVYzUktkRXNLOFhmdXFiNWowV2xoTXBQelBRVGlPRklJaGxyd2Qtck9DYUg3eE8wZkJmT0lTRWgwRXRBSzVZWVRDaWhqTllmUw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxPLW5mT094R0VFbDlrcUVMWFN2bzFQQXBNY1J0bTh1QXRwNmlzNW1zeGx3UzFvTFY0R05xS2ZPc3lkOWIyMERkalU1UkFJWWdZNVYzUktkRXNLOFhmdXFiNWowV2xoTXBQelBRVGlPRklJaGxyd2Qtck9DYUg3eE8wZkJmT0lTRWgwRXRBSzVZWVRDaWhqTllmUw?oc=5)
+
+---
+
+### [Sarkopenie: 90 Minuten Krafttraining verjüngen biologisches Alter um 4 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHhNRUsyZDR4S3RpekszZmp5WTB3eU1FNWpPZjNoaUtndm5STkI4S1A1aW9ReGdPMkdaQl8xTVVXeTZqSV9KVHRGbmRjX1NJZVRxQmJKbnFqMmFaOWFUSnZ2d2FsSGdvcVI3bWpDMC1oa2lxMkJRRWpGZDZoNVZsUEp3ZXN2cmc3YW43TUVZMVM4WXRWTEtmVTNYQnE5OVpleVFhdUgtVVZ5aEJpTml5S0hORzhUbWdWUnVN?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHhNRUsyZDR4S3RpekszZmp5WTB3eU1FNWpPZjNoaUtndm5STkI4S1A1aW9ReGdPMkdaQl8xTVVXeTZqSV9KVHRGbmRjX1NJZVRxQmJKbnFqMmFaOWFUSnZ2d2FsSGdvcVI3bWpDMC1oa2lxMkJRRWpGZDZoNVZsUEp3ZXN2cmc3YW43TUVZMVM4WXRWTEtmVTNYQnE5OVpleVFhdUgtVVZ5aEJpTml5S0hORzhUbWdWUnVN?oc=5)
+
+---
+
+### [Polyomaviren: neue Ansatzpunkte für Schutz und Therapie - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE92UU1LaktFckJBdk9wa1l1bUJmQjdGbzVqQy1seHdOY25YcDNwd2RjbXQ3cUJpdDVCbUVLb0RTNi11c3FCcU41MC1Sdw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE92UU1LaktFckJBdk9wa1l1bUJmQjdGbzVqQy1seHdOY25YcDNwd2RjbXQ3cUJpdDVCbUVLb0RTNi11c3FCcU41MC1Sdw?oc=5)
+
+---
+
+### [Di no al sedentarismo: levantarte de tu asiento cada media hora podría reducir el riesgo de cáncer](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSWNPSTB1VkhodHl5VERoSG16SkxFeGQ4cDZkQ1cwMFUxcWUxYzBVTUhnV3F0MlBLcGMxejBldm9nRDRoeGYyRUNEMHVWNS1Jeng3Q2hiVVJHVHRNWVpJS2RxazdPTERUZzlJV3k2X0M3Y1ZUekVkX1ItdFZsVTlDMXdpeDBZeEY1NW9BcDItTmppZHBObzU0cFF0NjY1ZFRKRUlHa1JTQXpaYVphdElKOXdGcU5FZlBWcUJhRjN5bTRsNDQ4Vjl4Y3BWR201VmxSX1E?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSWNPSTB1VkhodHl5VERoSG16SkxFeGQ4cDZkQ1cwMFUxcWUxYzBVTUhnV3F0MlBLcGMxejBldm9nRDRoeGYyRUNEMHVWNS1Jeng3Q2hiVVJHVHRNWVpJS2RxazdPTERUZzlJV3k2X0M3Y1ZUekVkX1ItdFZsVTlDMXdpeDBZeEY1NW9BcDItTmppZHBObzU0cFF0NjY1ZFRKRUlHa1JTQXpaYVphdElKOXdGcU5FZlBWcUJhRjN5bTRsNDQ4Vjl4Y3BWR201VmxSX1E?oc=5)
 
 ---
 
@@ -78,7 +110,7 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Cholesterin, Entzündungen, Schlaf: Diese äfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0ZjZ0FWby1ranQzb3FtUzk0akNUZzNiS2plOEVZdkF3SEpzVkpMcTllbi1kZGlibXE3UC1MVXZoYTdWeDg5bGt5RVNJUktQbFRScDJtVHlhaGZmUERYTmFYbHZCU2V0OFkzMXVYcWM4YTBLN0FXaGRmVVZKR29LbE5tdGxYRWhOTDJtRnQ5R2wxdG4tb1MxaERxZXJpTllmRUZJUGhJMzZWWFo1bUl3b2xyZkVmMzRBZ21j?oc=5)
+### [Cholesterin, Entzündungen, Schlaf: Diese sechs Säfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0ZjZ0FWby1ranQzb3FtUzk0akNUZzNiS2plOEVZdkF3SEpzVkpMcTllbi1kZGlibXE3UC1MVXZoYTdWeDg5bGt5RVNJUktQbFRScDJtVHlhaGZmUERYTmFYbHZCU2V0OFkzMXVYcWM4YTBLN0FXaGRmVVZKR29LbE5tdGxYRWhOTDJtRnQ5R2wxdG4tb1MxaERxZXJpTllmRUZJUGhJMzZWWFo1bUl3b2xyZkVmMzRBZ21j?oc=5)
 
 2026-07-06 <span class="news-indication-tag">AF</span>
 
@@ -86,19 +118,27 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [5 Things to Avoid After 5 P.M. If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
----
-
-### [Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’ - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVW12bW5MRUFoOTJXMm9OSEFxRjZqQ0V0dWs5am1ORmZqWDhuRE9UMlZoSEczVVE5Uy1UaUllV0VkSnRUVjBCSkdnVjVrSDkxOWxoeWNoVmczR3BpbWppWks4eWVmUGhscDM0MzMyaXNzMVhGT245MUdhTFJ5enlXOUo0aGRrX1pzUjhaaUxDMjl6eWNnSkFuMnNIUUg?oc=5)
+### [How Much Sunlight Do You Need for Healthy Vitamin D Levels? - Verywell Health](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2JpaTRPQnBSdWpTUzFwZWw1S1RLaVhYWUotV3U0dEYtdDkxNUtZaDVWWW92ek16akRfbDZ3Vkc0UXdWYXlXZ2s1NzhDcVF2bFVSSjdBODVSN3h3ZTVUb2FMdXZZbTlHRmJYdm1nNTN0SF9nZnZjbUEyOUdFU19DVGpFSHp3NERTc0dLd21zUzdTckJUdmVqc2VEOUtrOUU?oc=5)
 
 2026-07-06 <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVW12bW5MRUFoOTJXMm9OSEFxRjZqQ0V0dWs5am1ORmZqWDhuRE9UMlZoSEczVVE5Uy1UaUllV0VkSnRUVjBCSkdnVjVrSDkxOWxoeWNoVmczR3BpbWppWks4eWVmUGhscDM0MzMyaXNzMVhGT245MUdhTFJ5enlXOUo0aGRrX1pzUjhaaUxDMjl6eWNnSkFuMnNIUUg?oc=5)
+來源：[Verywell Health](https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2JpaTRPQnBSdWpTUzFwZWw1S1RLaVhYWUotV3U0dEYtdDkxNUtZaDVWWW92ek16akRfbDZ3Vkc0UXdWYXlXZ2s1NzhDcVF2bFVSSjdBODVSN3h3ZTVUb2FMdXZZbTlHRmJYdm1nNTN0SF9nZnZjbUEyOUdFU19DVGpFSHp3NERTc0dLd21zUzdTckJUdmVqc2VEOUtrOUU?oc=5)
+
+---
+
+### [Vous en prenez peut-être pour rien : ce complément n'a finalement "aucun bénéfice" pour le cerveau](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QTXVxcVlZdnh3UTNrT2c4YmdKX3BHU2RhYnQ0MlNnRnJZSl9fWjY2Q0Vfa0ZrLWQ5UVRSSVFNU0p6RElRblVGQ1hpWFY4bGRPODFkX0NXRThqVEk1dExZYV9zMzEtYUVqcTR2VGFZaDk4dXdLaTJzOHdTZkw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[Linternaute.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QTXVxcVlZdnh3UTNrT2c4YmdKX3BHU2RhYnQ0MlNnRnJZSl9fWjY2Q0Vfa0ZrLWQ5UVRSSVFNU0p6RElRblVGQ1hpWFY4bGRPODFkX0NXRThqVEk1dExZYV9zMzEtYUVqcTR2VGFZaDk4dXdLaTJzOHdTZkw?oc=5)
+
+---
+
+### [GP referrals to A&E should require doctor assessment, say GP leaders - Pulse Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3JDWUxOMndET1NTSTZTS1BVZzhZYTNGdGZOUVdQcTBGWkdnNUVPcXR6dXpSTUY4VFBQWnRzTktURUQ2OTNCU1ItMDhjUGxFT0NFYW1xaXl0Tm5rX2ZXM2dDbzRzVjVNNDVHQTlXWXhFSS1CeEtPRktJaENvd2NWb1JtdElYeExnUk1GeTFzN1pzV19CRm5CaDJESVlWTEhLR1JNVzRtNmhGTTJ6dkhLaFc4QkFXeEN6VTROaG5DdmdjNFVhVHlN?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[Pulse Today](https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3JDWUxOMndET1NTSTZTS1BVZzhZYTNGdGZOUVdQcTBGWkdnNUVPcXR6dXpSTUY4VFBQWnRzTktURUQ2OTNCU1ItMDhjUGxFT0NFYW1xaXl0Tm5rX2ZXM2dDbzRzVjVNNDVHQTlXWXhFSS1CeEtPRktJaENvd2NWb1JtdElYeExnUk1GeTFzN1pzV19CRm5CaDJESVlWTEhLR1JNVzRtNmhGTTJ6dkhLaFc4QkFXeEN6VTROaG5DdmdjNFVhVHlN?oc=5)
 
 ---
 
@@ -118,11 +158,11 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Zutritt verboten: Viren den Weg in die Zelle versperren - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PbXBsWWlfSUFaMHc1TzZ3TDZWbHVlUlF3TmFsODdKb2szX195ei1iRjN0RnMwVlRBSlFsRVNYZWRqN0VPeTBibkV1RQ?oc=5)
+### [Zutritt verboten: Viren den Weg in die Zelle versperren - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PbXBsWWlfSUFaMHc1TzZ3TDZWbHVlUlF3TmFsODdKb2szX195ei1iRjN0RnMwVlRBSlFsRVNYZWRqN0VPeTBibkV1RQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PbXBsWWlfSUFaMHc1TzZ3TDZWbHVlUlF3TmFsODdKb2szX195ei1iRjN0RnMwVlRBSlFsRVNYZWRqN0VPeTBibkV1RQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PbXBsWWlfSUFaMHc1TzZ3TDZWbHVlUlF3TmFsODdKb2szX195ei1iRjN0RnMwVlRBSlFsRVNYZWRqN0VPeTBibkV1RQ?oc=5)
 
 ---
 
@@ -150,6 +190,22 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
+### [Studie enthüllt: Wer Kaffee aus Vollautomaten trinkt, gefährdet seine Gesundheit](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0FPU0ZQYWJfOEpFWThuc3R6UW8wd09CNFEzY3FjbVc4Tlo3SjlSZnRCRGluQjROZE1ZbkE1NTNGQVZ3UXo4RVB5QloyNmViZmVHdjhuQzhRc29iNFJtdmFxVFRqcGlwZFNlOXpwMHp5Nl9uajQzTFJpYkV1RUl5bDZrbEJRN0Y2RVp0RUtsdVZrbjJ4RTFSZU5DWXIwX1NVczNz?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[wmn.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0FPU0ZQYWJfOEpFWThuc3R6UW8wd09CNFEzY3FjbVc4Tlo3SjlSZnRCRGluQjROZE1ZbkE1NTNGQVZ3UXo4RVB5QloyNmViZmVHdjhuQzhRc29iNFJtdmFxVFRqcGlwZFNlOXpwMHp5Nl9uajQzTFJpYkV1RUl5bDZrbEJRN0Y2RVp0RUtsdVZrbjJ4RTFSZU5DWXIwX1NVczNz?oc=5)
+
+---
+
+### [Longevity guru Bryan Johnson reveals he has an incurable disease](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0FOZ2FpUk9maDJjYUJ0ampPY1hhSnAxbzd1NkwxLWtsWGFwbllxRVVjcVEwSTRuLTVORHZoUzBQVjBXOVlUVVlEWXE3NEF6M2lCX1V6YUxUanYwVFVod3FCWU9EZmV1SG9PUG5OOW9tWHVsMl9fbTBuRHg4UEpCSkhyZ0JQZU5yaVgzSk1wSEJ6MVBGSy1CTlAzMzVlTENjLTlkcG1GbnBYdk5aUlBOUVdJb3RoTGVpTURrSjVYWjRoMWlSdHNzeWR4X281ckREckdyNTRoWkh0cVU?oc=5)
+
+2026-07-06 <span class="news-indication-tag">AF</span>
+
+來源：[AFR](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0FOZ2FpUk9maDJjYUJ0ampPY1hhSnAxbzd1NkwxLWtsWGFwbllxRVVjcVEwSTRuLTVORHZoUzBQVjBXOVlUVVlEWXE3NEF6M2lCX1V6YUxUanYwVFVod3FCWU9EZmV1SG9PUG5OOW9tWHVsMl9fbTBuRHg4UEpCSkhyZ0JQZU5yaVgzSk1wSEJ6MVBGSy1CTlAzMzVlTENjLTlkcG1GbnBYdk5aUlBOUVdJb3RoTGVpTURrSjVYWjRoMWlSdHNzeWR4X281ckREckdyNTRoWkh0cVU?oc=5)
+
+---
+
 ### [Il caffè fa bene al microbiota perché favorisce un batterio «buono» - Corriere della Sera](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU3JTdllCR1BGa1FnS0w1Q1ZVRmhabnl6VG1jMEt5NEpjTVdQMi00OVR6UmFsTU1fbGNJYVdGTkFNaFhvLVlOdkxmMEwzT1ROLUNzRXZ0SGpIa1NqRDIwTVUzMlpMT2ExN3V3R2J1TnFJQ1FQU0liRFgtQko3aTBYdUtkMFk5WHVQUkRhcUZpYkR1bHctbk1ZZ2M3ckhRcmZwOHZiSE5KVzYyVjJHVi03VW5GNU01VEh3a1BLT0cyZEJhaURLajBiSzhjdnF1azRPTUl2LVZySmEwNW00bHFVSnVIWVQwbXFwSDFqaW5YZmRkVlVQQ1HSAfsBQVVfeXFMTndCSVI4a1M3RUFjXzRNTzF3TUFBZlVzaUNQUlJYRkY3RENyOHF3NjJRakg0SEtkdlFBNGFISUNkRVZpNXVHSWU4d05fUXBIMTVjN2pLSEZwR1IzWkk3RHVpandhSDM0c3Z1dU9EOFZZVHVKekliSzFSQ2ZaQmlUa3VuVGc0ME9LZGlzbkJLZnloMzBwYWZ6bjhBWm1OS3VKWHF6dzJXUWlUd3RQa0lhUUV5SjVsX042NHgwSTVkQVZ0Z0pTck9laTJrR003aXBNZS10eXhFbE5Ja3lBVWpYNU9KMWwxZGcxYnpmeHlRX24zWE1ZSGt3ZmNQTXc?oc=5)
 
 2026-07-06 <span class="news-indication-tag">AF</span>
@@ -158,11 +214,19 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Krafttraining: Schon 30 Minuten pro Woche senken Diabetesrisiko um 42% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZ5WUFCTGhLNTFvZHU1SmhQd1BSUFNobGVyNW4xSDBteXJsVGJsN0FuQWlvRTZGY3BfaHZ6NzZmUEc4akpHMUNta0ZqOVdRM2tsc1BGTzhZSWtJMm84QWNkczdPTmpOX1ZxamtvTlZ3LWgtaFlwb1Y0MnRQUE0xam1zajZNZTZnY3BBMkJESW9sSjVYYmlJSGZBendjZlNOWjlJY01RT2xPZUFMV0VmUC11NEpqenRP?oc=5)
+### [Inside the NHS hospital trialling psychedelics to treat depression - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
+
+2026-07-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
+
+---
+
+### [Krafttraining senkt Diabetesrisiko: 30 Minuten reichen – Technik, Medikamente und Risiken - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
 
 2026-07-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZ5WUFCTGhLNTFvZHU1SmhQd1BSUFNobGVyNW4xSDBteXJsVGJsN0FuQWlvRTZGY3BfaHZ6NzZmUEc4akpHMUNta0ZqOVdRM2tsc1BGTzhZSWtJMm84QWNkczdPTmpOX1ZxamtvTlZ3LWgtaFlwb1Y0MnRQUE0xam1zajZNZTZnY3BBMkJESW9sSjVYYmlJSGZBendjZlNOWjlJY01RT2xPZUFMV0VmUC11NEpqenRP?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
 
 ---
 
@@ -171,22 +235,6 @@ permalink: /news/guanfacine-hydrochloride/
 2026-07-05 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPandMM2ItRnExbVl4YlpScnZGN2NXUVUzdl9PRXdYc0MzR3RHUms5aWxHYnlyd25aNlFVNWtaQzJoSldlM3pWZWhCZDhoTWwzelZ5VEYyenUtM01HMEVUUlZOS1J1TjNiOHlGY0JTdUhYNzRiZC1CMUpqTVRDbVFYTTEzRXlwOTZlbjlyVEZaZlJSMklRZ0VGQ2daSjNUU1VkNWplRXdhbmV4bEpKSGc?oc=5)
-
----
-
-### [I had a baby at 46, but science is right — 49 is too old for another - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHNhbGVqc0Q0aUhFd2ZqelJwa21JeHVPX0dPdU5tdmx0enN4bS1pT2pya1pCQ3ozV2lXSTNJX2hpRmF3REZhVDE5T01iT2lGX1NQNTlCRzlpRUZKUURMUHRId0VIbzBZZ0NDTHpFa0YwUGV1ZDhKUk1OdDZyUTh4cmV3eGJ3a19zaEYtVENsOHJ0bnJV?oc=5)
-
-2026-07-05 <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHNhbGVqc0Q0aUhFd2ZqelJwa21JeHVPX0dPdU5tdmx0enN4bS1pT2pya1pCQ3ozV2lXSTNJX2hpRmF3REZhVDE5T01iT2lGX1NQNTlCRzlpRUZKUURMUHRId0VIbzBZZ0NDTHpFa0YwUGV1ZDhKUk1OdDZyUTh4cmV3eGJ3a19zaEYtVENsOHJ0bnJV?oc=5)
-
----
-
-### [Schlaf-Schaltkreis steuert Wachstumshormon: Neue Chance für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
 
 ---
 
@@ -214,17 +262,17 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Childwall woman's ‘heartbreaking’ news after spotting something under her arm - Liverpool Echo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3dYS2JCWDBXX0xUX2RxTnFZal96eGdPRFNRZmVGeExmMUp0dkZveXBQUnRndVpFZzBSdHVod1ZpOGtHcERNbGJSc29MSTYzUUhiMEo4OXdDalpoRXlPU1BDUWRTQVFKRHczYlJzOFhvUEhPamZFV0ZrTWVLUHZjTllpdWlQaVJkTUc0WFlCVjVMVElORW13WFZFSmNWeFVfVEFLTNIBqgFBVV95cUxOY3RVbzB5aE9BTWtkNG8yZ3NnVDNyR2FkVlJ6V04xZm05aklTZWpWSzNkdzdxc0dQNUFleGkyb0pwNlVNQUJLd002WDlWMFBXbGVaOE5TQ1J3b3dyZ19KVUlJYjZQQ0VkV01wMzZVSENIeklmZkpLNG5ORkRmb3JWNU02ajQzN1FNLUE1VjJPeDRhYUl1TDB3RVZsc1dBaWF6T2VBdzRBb21RUQ?oc=5)
+### [Atorvastatin side effects and drug interactions warning as NHS issues safety advice - Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjRQc0FaUF9GZGVPb2NoSXpZRlBCYVNlUUpOQzhvTXZYODhJdXhXdUl6THlvUHZudGRsRmRVRDA1RWMwcURRSzIwRHVfU3B6R3g5dy1DSl9aOEpUZzRaZzd0X1JFeUFiOWFoN3ZhVm81bzJqaU9JRlNDUGV0V3RiNF8zMDNkMGhSazZReHV4QXVoNHEwUHRhU2ln0gGfAUFVX3lxTFBrVXZ5d2JyWVd4dVZvNFA0WmQ5T2JYSWZvZ2tyZktKc2hNT2dfYmJxdlBuZ1BIWldWeGo5ZkNoU2JIU0E0MXJhTVNOTE1scVcxNHpKcUdLLTRaZVRKMEMyLUhJRmttV0tHdGRCZGh4VHdySUY1ZTRUVzlodnc1WVBkUGVUTzgyaUx0YUNzWENFU1k1SnljdlV5dFAtTmU0SQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">AF</span>
 
-來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3dYS2JCWDBXX0xUX2RxTnFZal96eGdPRFNRZmVGeExmMUp0dkZveXBQUnRndVpFZzBSdHVod1ZpOGtHcERNbGJSc29MSTYzUUhiMEo4OXdDalpoRXlPU1BDUWRTQVFKRHczYlJzOFhvUEhPamZFV0ZrTWVLUHZjTllpdWlQaVJkTUc0WFlCVjVMVElORW13WFZFSmNWeFVfVEFLTNIBqgFBVV95cUxOY3RVbzB5aE9BTWtkNG8yZ3NnVDNyR2FkVlJ6V04xZm05aklTZWpWSzNkdzdxc0dQNUFleGkyb0pwNlVNQUJLd002WDlWMFBXbGVaOE5TQ1J3b3dyZ19KVUlJYjZQQ0VkV01wMzZVSENIeklmZkpLNG5ORkRmb3JWNU02ajQzN1FNLUE1VjJPeDRhYUl1TDB3RVZsc1dBaWF6T2VBdzRBb21RUQ?oc=5)
+來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjRQc0FaUF9GZGVPb2NoSXpZRlBCYVNlUUpOQzhvTXZYODhJdXhXdUl6THlvUHZudGRsRmRVRDA1RWMwcURRSzIwRHVfU3B6R3g5dy1DSl9aOEpUZzRaZzd0X1JFeUFiOWFoN3ZhVm81bzJqaU9JRlNDUGV0V3RiNF8zMDNkMGhSazZReHV4QXVoNHEwUHRhU2ln0gGfAUFVX3lxTFBrVXZ5d2JyWVd4dVZvNFA0WmQ5T2JYSWZvZ2tyZktKc2hNT2dfYmJxdlBuZ1BIWldWeGo5ZkNoU2JIU0E0MXJhTVNOTE1scVcxNHpKcUdLLTRaZVRKMEMyLUhJRmttV0tHdGRCZGh4VHdySUY1ZTRUVzlodnc1WVBkUGVUTzgyaUx0YUNzWENFU1k1SnljdlV5dFAtTmU0SQ?oc=5)
 
 ---
 
 ### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
-2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
@@ -267,38 +315,6 @@ permalink: /news/guanfacine-hydrochloride/
 2026-07-05 <span class="news-indication-tag">AF</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUm1IOV93X2NSYUpYUk1pdnV5bjUtaFE2Tlk2dEcxZU9LbXVjbVNsUGgwTW9udUNkRmk4NGlJRlVQemlfSGVJbE5uZU1McmFsVG5UNXhWY1Z5d2lWU3dZaUNfdzkybURKUXNKcXUzblVEcGVKS1hpN1ZsemE3TWhpS09acmNDTjNldi11c01KNlFHZzE5QUJDY19RLWdyeTFGQmRfelZaMTJiZDR1aWNVYXJIY1gyWFl2dmhGd0FQMXB6eTRNdmRFZXZYS1MwWV80anZSNW1BaVNleFE?oc=5)
-
----
-
-### [Hautpflaster mit 10.000 Transistoren: KI erkennt Herzinfarkt-Risiko zu 83% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUlsQjJFV1Mxd29zT3c3WThGMDdxYUFBNGVwSFVVSzFzc1M4R0U0dDktT0IzdDI2TVVrSTZDWThtdmNTTTFFSEg3bktiQVdDbWp0VURjM3poLXZBOFp5MlBnYlJJWXdJTDJKbFdsZk1QbFhOc29zZ2V5UktTMHFDM3RNVG9IaHdPOW5RNmlRZmZKQUNfQ2lEVzlyVGhDWjQ1M2ZFcmxsNEdLeXVTMFVHcFZLdGk5d3BDZm1fVXR3?oc=5)
-
-2026-07-05 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUlsQjJFV1Mxd29zT3c3WThGMDdxYUFBNGVwSFVVSzFzc1M4R0U0dDktT0IzdDI2TVVrSTZDWThtdmNTTTFFSEg3bktiQVdDbWp0VURjM3poLXZBOFp5MlBnYlJJWXdJTDJKbFdsZk1QbFhOc29zZ2V5UktTMHFDM3RNVG9IaHdPOW5RNmlRZmZKQUNfQ2lEVzlyVGhDWjQ1M2ZFcmxsNEdLeXVTMFVHcFZLdGk5d3BDZm1fVXR3?oc=5)
-
----
-
-### [¿Cómo beneficia al hígado tomar hasta 5 tazas de café en el día? Esto dicen los expertos - El Comercio Perú](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYlZObV8tMGVLa3FZdHE4R2ctZF9vb2c3b3ZoN29tVWpfU0VRcG14MmEzOHBEbUQ2YTNUaXdBT3VCOGlwalF4WHJsOElBNGM5TEFwVTg3Sl9fZ2Y5R1pJMlZ1TDVrVUxEWmZmT3R5TFlJUzFiMlZ1N1dINVpjN0s3a0ctYW1JbkhNekYyRE10MUhaOUg4UUhwb0luWWNJNExqTFg4dHRhR1pyTGtlRWx6ZEdLd0h1aEQxekp3dXd5akdORzc1TXpQTkNCTnVVbzNZVFVv?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[El Comercio Perú](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYlZObV8tMGVLa3FZdHE4R2ctZF9vb2c3b3ZoN29tVWpfU0VRcG14MmEzOHBEbUQ2YTNUaXdBT3VCOGlwalF4WHJsOElBNGM5TEFwVTg3Sl9fZ2Y5R1pJMlZ1TDVrVUxEWmZmT3R5TFlJUzFiMlZ1N1dINVpjN0s3a0ctYW1JbkhNekYyRE10MUhaOUg4UUhwb0luWWNJNExqTFg4dHRhR1pyTGtlRWx6ZEdLd0h1aEQxekp3dXd5akdORzc1TXpQTkNCTnVVbzNZVFVv?oc=5)
-
----
-
-### [Rabies-Fall nach Fledermauskontakt: Warum frühe PEP über Leben und Tod entscheidet - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFktTEFUeUFxY0lzdG5TS0RQNFByV1E1UWJabHpiVEx3Rnk0U2dXTl8tQUlsRnBMdFN0VWtIMXRkdEVIelVCLVNQanhBLTlCQzU4TTRaM0lNMFlHU2ZvNUUzRTRVeHIyY1phcGRITC01b21NQ2pIRkRlY2NHVG1Oc0k1enlBbWhUTXdVX1hCYjRSSExFbHduUWkzWFBoeVB0anhCWTJOYTZGWHRXYkFqMV9hMlFpUQ?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNNFktTEFUeUFxY0lzdG5TS0RQNFByV1E1UWJabHpiVEx3Rnk0U2dXTl8tQUlsRnBMdFN0VWtIMXRkdEVIelVCLVNQanhBLTlCQzU4TTRaM0lNMFlHU2ZvNUUzRTRVeHIyY1phcGRITC01b21NQ2pIRkRlY2NHVG1Oc0k1enlBbWhUTXdVX1hCYjRSSExFbHduUWkzWFBoeVB0anhCWTJOYTZGWHRXYkFqMV9hMlFpUQ?oc=5)
-
----
-
-### [Notée 100/100 sur Yuka, cette crème solaire de pharmacie se hisse dans le Top 10 des mieux notées](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRnFIbFdwYVZiTjFMMGFra25CZHFMcGJ2aE5RTUNMd05pUWxqSkJFVkM5OXV4V3cyZkQwamlRMVAzOWV3NUtHSE15SkZGREhJcEQtVW1DeXpObGJFcFN3dVBGVVdMekM5aERzdmpqd2lmcXpHS1Rldmp5WWUzZllRMVZRSnBtSi1DbC1adElaTHFYMnBxYmd4UjFYU190Wmw0YWdhZVF6RmdNdXQ3V0lCVnd4a0JfcGp4bVZnQkJuYVVGc0E1cUJhUGg0SDdIa1R6RFpONmh6TmpkQTlkQ0o3NmNMZlIybmllY2pxdG9B?oc=5)
-
-2026-07-04 <span class="news-indication-tag">AF</span>
-
-來源：[grazia.fr](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRnFIbFdwYVZiTjFMMGFra25CZHFMcGJ2aE5RTUNMd05pUWxqSkJFVkM5OXV4V3cyZkQwamlRMVAzOWV3NUtHSE15SkZGREhJcEQtVW1DeXpObGJFcFN3dVBGVVdMekM5aERzdmpqd2lmcXpHS1Rldmp5WWUzZllRMVZRSnBtSi1DbC1adElaTHFYMnBxYmd4UjFYU190Wmw0YWdhZVF6RmdNdXQ3V0lCVnd4a0JfcGp4bVZnQkJuYVVGc0E1cUJhUGg0SDdIa1R6RFpONmh6TmpkQTlkQ0o3NmNMZlIybmllY2pxdG9B?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [5 Things to Avoid After 5 P.M. If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Angelo Mazzone: «Ho preso l'epatite A andando a cena fuori. In ospedale è stata dura, a tutti dico: vaccinatevi» - Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
 
@@ -88,7 +80,7 @@ permalink: /news/givosiran/
 
 ### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
-2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
 來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 

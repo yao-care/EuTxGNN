@@ -14,7 +14,7 @@ permalink: /news/alemtuzumab/
 ---
 
 <p class="key-answer" data-question="Alemtuzumab 有什麼相關新聞？">
-<strong>Alemtuzumab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alemtuzumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/alemtuzumab/
 <p><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（23 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
-2026-07-06 <span class="news-indication-tag">Krebs</span>
+2026-07-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
@@ -78,19 +78,19 @@ permalink: /news/alemtuzumab/
 
 ---
 
+### [Glucosamin warnt: Studie zeigt 25% höheres Demenz- und Sterberisiko - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNQkZIUmI5UDdkb3czNlAzQUd0VWRfZmVzdTFwNWUxQmZqb3pfdDRfVjJ4N2lBVHZVR3NDRGJDUzNjcWJ1VGRCMUZhSnpPZGxNcXVSeEhvQlo1b1hEY1dKQUVieWpzWDJ1VGtkX1kxUWJzazNoblJNT3dvckwzeWZjeWc2RGZJQWd5a2RFcEVBTWJoVU42dm1UMTB6Yjg4dw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNQkZIUmI5UDdkb3czNlAzQUd0VWRfZmVzdTFwNWUxQmZqb3pfdDRfVjJ4N2lBVHZVR3NDRGJDUzNjcWJ1VGRCMUZhSnpPZGxNcXVSeEhvQlo1b1hEY1dKQUVieWpzWDJ1VGtkX1kxUWJzazNoblJNT3dvckwzeWZjeWc2RGZJQWd5a2RFcEVBTWJoVU42dm1UMTB6Yjg4dw?oc=5)
+
+---
+
 ### [NHS confirms major vaccine rollout for over 65s from October - Daily Express](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ic0l1Q3BFVWN0T3VfYkhxY2NBV0dzaGF2aTYxdWgyNU9lN3FqZnpCblZHb1JlZ3B4amFKTjgtQXVwUnhKMlJvVXdtaFBUZHJYYkVqamN6X3pianVzWUE1WTVLNVlta1plRFV3X1ZpaVVkV2RuZmxSNVF30gF_QVVfeXFMTUtSUEo5UUhfOTBtb1NITFRhSWY3enRJMTNkbUN1NWV5bEFpdmRrRGNBdWVSZ1Z1dDA0STh3S0ZfLXl6SmdEdEZxbW1UM21keWhzOXp2amZPWUZVNXd0dmVZbDNEcTZNcURxa2RYUkhMYnJzM0RfUTVMbTExaVFxNA?oc=5)
 
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ic0l1Q3BFVWN0T3VfYkhxY2NBV0dzaGF2aTYxdWgyNU9lN3FqZnpCblZHb1JlZ3B4amFKTjgtQXVwUnhKMlJvVXdtaFBUZHJYYkVqamN6X3pianVzWUE1WTVLNVlta1plRFV3X1ZpaVVkV2RuZmxSNVF30gF_QVVfeXFMTUtSUEo5UUhfOTBtb1NITFRhSWY3enRJMTNkbUN1NWV5bEFpdmRrRGNBdWVSZ1Z1dDA0STh3S0ZfLXl6SmdEdEZxbW1UM21keWhzOXp2amZPWUZVNXd0dmVZbDNEcTZNcURxa2RYUkhMYnJzM0RfUTVMbTExaVFxNA?oc=5)
-
----
-
-### [Glucosamin-Warnung: Gelenkpillen erhöhen Demenz-Risiko um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWpqbExjbmJLNVJwTlRNajgtcEx0Q1BmQ084X1JBYzlHVFpqdWg5ZEZMMzFtZUYxbW1LRTFCQ2VTbDV3VEJ6RzNncjFTV0ZHd04wS2N0Ny0tVjBxM0pCMWZzaVRnMFpIUFhJN1A1MzNUelZGRDduTE9sVWw0Um9mbFVOcUZhaWFxMzF0cTBXM1R3NmtmVHhtU0NVQlQtN1pfLWFod0xwRTU5M3BSUXpCc0xweEM0dERr?oc=5)
 
 ---
 
@@ -150,11 +150,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Schlaf-Schaltkreis steuert Wachstumshormon: Neue Chance für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+### [He Was Terrified by His Girlfriend's Severe Medical Symptoms. When He Begged Her to See a Doctor, She Accused Him of "Being Mean."](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVVoOWFURExWZjBNSlNRYzlVc2FybDRFaVp2bTBkWlFlYW5uWmJ0M2JoOVZMM19xTU5LNUVSeGdQUTlKUU5qY053dzJJZHhyTDVzYi14ei1BSFpJSi1fVVM0bkd2YnR6a2VEc0xrblVrZHNiNVdjSk1qUTNFVkFCSUd1NDJJcjBEQzZCUkZVelkxWXN0eERzcDlDaUJSNHpON1JndklyUVVSVURObWR3dm8ySUp1bklTbTNMb1NPSlROWkFWS04tRk1JVTVVQndqVkV0RW1uWjVBTmktT0VGZEpYOE9EUG93TGFmT2w0YUM?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxORF9RVi04Slg2cW9ZVkVuM1lKRXplZ1NibE5pRHUzeHlPNE5rejZ5NmR0cExvUWM5SjVhWFpTSEhBbTZ5YmdDcHZoanhLUGJiOGs2eG9Nc0Y4NDNNYlFTVFBxelByMlNmbnRVQ2FOZTluQWNVLUN1bFNCVkJIRXlCaE1PQTNkRVpYTWxTbTBhbjVudkFWdkJGV3lqaklPcGZyTEUwZjk5Zk1aQTNY?oc=5)
+來源：[TwistedSifter](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVVoOWFURExWZjBNSlNRYzlVc2FybDRFaVp2bTBkWlFlYW5uWmJ0M2JoOVZMM19xTU5LNUVSeGdQUTlKUU5qY053dzJJZHhyTDVzYi14ei1BSFpJSi1fVVM0bkd2YnR6a2VEc0xrblVrZHNiNVdjSk1qUTNFVkFCSUd1NDJJcjBEQzZCUkZVelkxWXN0eERzcDlDaUJSNHpON1JndklyUVVSVURObWR3dm8ySUp1bklTbTNMb1NPSlROWkFWS04tRk1JVTVVQndqVkV0RW1uWjVBTmktT0VGZEpYOE9EUG93TGFmT2w0YUM?oc=5)
 
 ---
 
@@ -182,35 +182,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Madrid participa en un ambicioso ensayo internacional que combina campos eléctricos e inmunoterapia para combatir el tumor cerebral - Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
-
----
-
 ### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 2026-07-05 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
----
-
-### [Atorvastatin warning as NHS issues advice on 'serious' side effects - Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span>
-
-來源：[Chronicle Live](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3NfTkdfU0NQMGgwZlNwYzRlWTl4bUMxUW83NmFtOEZNSHRoSDhSYVhfR2VkTXNabzFweGFTOWZHcWlYcmV6bzhfcjhJOTdKZkZqdlE4RW40bm90OWRJQXU5dDItclRVQzB2MUpna28xdk12N1FKYU9OOXh5SHZHVWZQQ2E5YzRKa0JKTUN5azZzTDh6b3c?oc=5)
-
----
-
-### [Médecine : Une étude indique que les personnes nées après 1965 vieillissent plus vite que leurs aînés... - Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
 
 ---
 
@@ -222,11 +198,11 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+### [La biotecnología y la inteligencia artificial, herramientas clave en la lucha contra la esclerosis múltiple - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1p2WXI4emFLemt0ZlRDNE10TUptTzZ3aTVkdW12dy1uZ3NmV05LQXN6RlVaQ2pBSHM3QTBOeEJKTTRCbkYyTWpPRjFnYk9QYk5veXh4eTdXUzhmem8tS0tCVmZsd3NncjYxSllqTUMwaUJYMGhBbGgtTTVQOEFEVG1qTEJETlo2NjNZUXhGbzhYZG1lN0t2eU1oeU9HX2tDS3piTUJLc09zNVE5Znd1T1RPOUNfUV9Yb2hJQ0ExRng1ZzJXS0gxVdIBzgFBVV95cUxPTS1ublFfNU1UQldLMmlGNkstdjE4RHVzeEl3bERCSnpsMHRXaVFzaFJhMFdHUTFKajVQMVRpOFluR3V2ZDlkSDRwbGxORnFVR1N1SFQ5cEdNNWR3M0lDc01zWk16LS1hYWx2TTRkcEwzWTAya1c2YVAzNDI4eGh5bTE3ZktVWjUyYWhWSWUwOTBrUnpxLUNWRU9iOVE3QkdsSGE2ZEMzM085SV8teGREUnNtRVJTeFFHeWtJYjF0RjQzd3dhZDZYYm5wandwUQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpzLTNsTG52dkhTTHpwckhVY0VfZm9mQ2tFdlJXd3I5QzY1dnVZWXZTMUVrbFdma1hKRmdmZTNBRXJGVEg4WWVEdVFkZkxhbEpxZDFCQktfcV9veEVjUGZERkFIQW5vaWNLMGZvdFI2S3RBbnJXdmtfd1c4dkJpTURpX2U0dUFoa1hDaEdWZGI3TjlDZXhIUVhST05pQXNLVUNWTkx0aUJfSDB4QlROdDN4Nmd1UkVjMmE3Nzg1MjM2OTJEN2JR0gHMAUFVX3lxTFBWc0VzUWlEaGFodDdzb3dLRng4bUFpRlFvRGVlNTA4ZndxWlZSVUJWR2xnQWpieGMzUkc5MTIwR3YzNjI4TUhUd2pKai1XMEdHbnhBTU1NMmF5X3VrbHdleUc1LXFhTnE1bzhBT19yVzE3MVNWcUJqRXdEOEczRS1kZ2VWc2tBNFRveXJaVmRGdnpuel91Yzl2cEhaTFcwX0JsdEowSzBqeUxkaDhIUWhRWXBDQ0ZMdTduRWlIWk5Sdzk4WEN3OXNQVkRGcg?oc=5)
+來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1p2WXI4emFLemt0ZlRDNE10TUptTzZ3aTVkdW12dy1uZ3NmV05LQXN6RlVaQ2pBSHM3QTBOeEJKTTRCbkYyTWpPRjFnYk9QYk5veXh4eTdXUzhmem8tS0tCVmZsd3NncjYxSllqTUMwaUJYMGhBbGgtTTVQOEFEVG1qTEJETlo2NjNZUXhGbzhYZG1lN0t2eU1oeU9HX2tDS3piTUJLc09zNVE5Znd1T1RPOUNfUV9Yb2hJQ0ExRng1ZzJXS0gxVdIBzgFBVV95cUxPTS1ublFfNU1UQldLMmlGNkstdjE4RHVzeEl3bERCSnpsMHRXaVFzaFJhMFdHUTFKajVQMVRpOFluR3V2ZDlkSDRwbGxORnFVR1N1SFQ5cEdNNWR3M0lDc01zWk16LS1hYWx2TTRkcEwzWTAya1c2YVAzNDI4eGh5bTE3ZktVWjUyYWhWSWUwOTBrUnpxLUNWRU9iOVE3QkdsSGE2ZEMzM085SV8teGREUnNtRVJTeFFHeWtJYjF0RjQzd3dhZDZYYm5wandwUQ?oc=5)
 
 ---
 
@@ -238,14 +214,6 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
----
-
 ### [Vaccino contro l'HPV: perché è importante farlo? - Corriere della Sera](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUFdFb0Z5U2pFYkRNcEhmWEF3QlhtN0gwaVRiZENWM3RxZGprV2RWRmpHUDMzeTN0NXYtamxpSjcxUVJMTW5OTXhHRnFIUTVRUUNoUzVKd0Vpc1NPNEpxTmRVeTRJNmN0YkkyOUxTLWcwdGc4SVlOOW0zVVo0TkZYYVJVOXZUU0x4OFdxQktoako5Q1lWeVVyN1Izc1lKOVRzaWYyVHRXeGU2VVlEUUhpUjg0NjFaM1l2ZHFRSTBScmdiQlZka2FqTHk1bUFtaUs4X205dzByYXRDUmdFai1XcXJKTGc?oc=5)
 
 2026-07-05 <span class="news-indication-tag">tumor</span>
@@ -254,7 +222,7 @@ permalink: /news/alemtuzumab/
 
 ---
 
-### [Death notices and funeral announcements from Grimsby and Scunthorpe Telegraph - June 29-July 5, 2026 - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
+### [Death notices and funeral announcements from the Telegraph - Grimsby Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFBxT21sbElpbDYxZm1rUjhxcXVrd1Q5d0MySEQwRDktRjJfa3ZkSG5sWGNEWlFValpfSHJQcUppbXg5Y3BLSzk4d1QzcV9zTlVrcDVIR21NeHJ2TmZMMjNMblhpdDRqM3hFRU81WTJVTDhvSUp5LWtOcTFNdUZ5MVNzQk9ZRXF2R20tWkxRNV9BYzJ0aWJXX2ptWElvV0Y1NWNVNHNGbFQ?oc=5)
 
 2026-07-05 <span class="news-indication-tag">MS</span>
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（2 則）
 
-### [Hypothalamische Adipositas: Oft übersehen, schwer behandelbar](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
+### [Air pollution may cause childhood obesity by disrupting impulse control, study finds - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVREd1N5RVllSFdLeUlKTHRncHJMZFZ3NmoxaWVrTmR2R1ZBVGhaY1J0ZkFtakRoNjZualYzRzdUNmJhc3JTd29TS1E5TzF5N3lUNnlpV0wydHJQTFI3NVVjdzJWU0ExR2d1YTNySnpqLXViLTV6RjBMV1JDQWZoZ25CalFDVzZ4cWNVOXpB?oc=5)
 
 2026-07-06
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVREd1N5RVllSFdLeUlKTHRncHJMZFZ3NmoxaWVrTmR2R1ZBVGhaY1J0ZkFtakRoNjZualYzRzdUNmJhc3JTd29TS1E5TzF5N3lUNnlpV0wydHJQTFI3NVVjdzJWU0ExR2d1YTNySnpqLXViLTV6RjBMV1JDQWZoZ25CalFDVzZ4cWNVOXpB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Diabetes-Forschung: 16 Millionen Zellen offenbaren neue Immun-Marker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
+
+---
 
 ### [La formación sobre sistemas híbridos de asa cerrada mejora el control glucémico y el tiempo en rango en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ1JnQ3BoNXpDTlRXQnZBc0ZscUVETjNCeEE3a085cnBkUVo3X1NWZHJxVTVsLU9TV1E3eldrTlc3aE44X09sSC1pV2RVTTVBdE1McjJGWnMxNlI2Q2VwaE5hLUpsZVlyVEUtVWlyRExrakhmTkgwNkY3WjdheFlzS0YtejN1VzY5QlFwNHVmVEtkTDJzLUR2TERaQ2JTNGFhaXFiZGthSWs1NnRpZVpTVUQ0eGpDcmVZM1QzUk83WlNwanVrRjdMSVZqZm5hRWJWdnRVT3pNbzFiYm9NQXl1czFpY1QyUnJxYVRBeDFRMHp5ZDZwbEpqMkp1ajdCTDc0OGxZ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ1JnQ3BoNXpDTlRXQnZBc0ZscUVETjNCeEE3a085cnBkUVo3X1NWZHJxVTVsLU9TV1E3eldrTlc3aE44X09sSC1pV2RVTTVBdE1McjJGWnMxNlI2Q2VwaE5hLUpsZVlyVEUtVWlyRExrakhmTkgwNkY3WjdheFlzS0YtejN1VzY5QlFwNHVmVEtkTDJzLUR2TERaQ2JTNGFhaXFiZGthSWs1NnRpZVpTVUQ0eGpDcmVZM1QzUk83WlNwanVrRjdMSVZqZm5hRWJWdnRVT3pNbzFiYm9NQXl1czFpY1QyUnJxYVRBeDFRMHp5ZDZwbEpqMkp1ajdCTDc0OGxZ?oc=5)
-
----
-
-### [Diabetes-Forschung 2026: Stanford heilt Typ 1 bei Mäusen ohne Chemotherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDI2OU5MZWZWWEo5M1lmcXZSR1FwMTJJcjdQMkZBQkFxQ2dBeUhQZGw4RVdhTmVjZ3BQSllQUzV2aGtIR2VxYlFtLVZDc0xkTzZmV1FENmpiM0FEZXlFZzYwbWhzRnY3MXhHbGJRTHFQSnZlR3hrOEF1Vld5X1gxYkJXSG85cFFtNFN0Zy1BZEticWIzMmMzclA3RzZXMXhnOE5LbjU2SDFPZVJqUXU4?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDI2OU5MZWZWWEo5M1lmcXZSR1FwMTJJcjdQMkZBQkFxQ2dBeUhQZGw4RVdhTmVjZ3BQSllQUzV2aGtIR2VxYlFtLVZDc0xkTzZmV1FENmpiM0FEZXlFZzYwbWhzRnY3MXhHbGJRTHFQSnZlR3hrOEF1Vld5X1gxYkJXSG85cFFtNFN0Zy1BZEticWIzMmMzclA3RzZXMXhnOE5LbjU2SDFPZVJqUXU4?oc=5)
-
----
-
-### [Medizinische Ernährungstherapie senkt HbA1c – Apps, Wearables und KI im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Krafttraining: Schon 30 Minuten pro Woche senken Diabetesrisiko um 42% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZ5WUFCTGhLNTFvZHU1SmhQd1BSUFNobGVyNW4xSDBteXJsVGJsN0FuQWlvRTZGY3BfaHZ6NzZmUEc4akpHMUNta0ZqOVdRM2tsc1BGTzhZSWtJMm84QWNkczdPTmpOX1ZxamtvTlZ3LWgtaFlwb1Y0MnRQUE0xam1zajZNZTZnY3BBMkJESW9sSjVYYmlJSGZBendjZlNOWjlJY01RT2xPZUFMV0VmUC11NEpqenRP?oc=5)
+### [Krafttraining senkt Diabetesrisiko: 30 Minuten reichen – Technik, Medikamente und Risiken - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
 
 2026-07-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZ5WUFCTGhLNTFvZHU1SmhQd1BSUFNobGVyNW4xSDBteXJsVGJsN0FuQWlvRTZGY3BfaHZ6NzZmUEc4akpHMUNta0ZqOVdRM2tsc1BGTzhZSWtJMm84QWNkczdPTmpOX1ZxamtvTlZ3LWgtaFlwb1Y0MnRQUE0xam1zajZNZTZnY3BBMkJESW9sSjVYYmlJSGZBendjZlNOWjlJY01RT2xPZUFMV0VmUC11NEpqenRP?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWJNZEJveFBEWjhQTTBsTEh2YmhBT3JmRkpNVEZjUjB1Z0RMcUVBSWZJSkJwMUlJWmt0dEN1MWNQWHFZeHV0ZmtxejdZZ2hMakl3MjRXM2VpVk91NlRtS3R5aVBPVHZwMHczWGotdThiQW5FaE1NSGFCcENtalBKVWJXYVVqYUlsUVlESjlYRXVkb0c4ZmJyMFpUWXJESW82My1JRHFXRmpPbXhBVnlGQkctQzdxOWFE?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
+### [DASH-Diät: Die wissenschaftlich bewiesene Ernährung gegen Bluthochdruck und Demenz](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-07-05 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
+來源：[Merkur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTjhoZzFud3M5Nm1YSTVBVlYxTHpnSlRPQWh4LWtLbEVsWTg4WTZRSXl0RG5QZnpLZWp0bXhpbXFyZjJyRHViNl83R1lEbTBEX3FvWXk4aTY5RlFHSFRETzJKbzhJbkd4c2lkMGxyYThFWmxmdzdkUUR3R2Z4dEp6NGU0LUtQQ3ZrTUlpSjZKYVhYUmJ1THNnZWl3RkNhemxqRHUzaU80QVJXWXE3TW0wMXJKQWxOdTFKNUQ0OHdlbmNHYmNzc2c5bWwyNUw0Zk1PT2xnTA?oc=5)
 
 ---
 

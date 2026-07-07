@@ -14,7 +14,7 @@ permalink: /news/isatuximab/
 ---
 
 <p class="key-answer" data-question="Isatuximab 有什麼相關新聞？">
-<strong>Isatuximab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Isatuximab</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/isatuximab/
 <p><a href="{{ '/drugs/isatuximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（17 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
-2026-07-06 <span class="news-indication-tag">Krebs</span>
+2026-07-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+---
+
+### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+
+---
+
+### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
+
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 ---
 
@@ -67,22 +83,6 @@ permalink: /news/isatuximab/
 2026-07-06 <span class="news-indication-tag">cancer</span>
 
 來源：[antena3.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0ZsVm45LVFtR2hPNzRzd19Fd1pyWVBob1NyRjJjcktzQndIcHc1LUNteURfaGo3OEN6MnlIWkZjM1hFX3dtR0o0bFhHZ19yNHBMV1VUMEY4WUZTUVZHMU44X0I0SWkzUkx1aElCTnhQQ0VKT0VPV3Y1azJiRWxEZlpRbnI0eWx6NUJVWmRZbTJpNGJ2azhKWnVjLTdPaVNUNzBQR25EYld3UEJPdnZaNGcwOXVjQUt4cjJwZUZNNTZuSjRYOGEwd0FXdHF1Z3Vjd1FCM3dibFktUHdSbnpn0gHfAUFVX3lxTE9TTnJnaW5UdkhEY2JhOHJINUFnT2FwNUdfbU5Sa2xnTGVpRWlyVjBQY3Y1TEd4M29fX2RqSmdxM3dqaWZvZWszeGN1dUNyX0xJUEdwMWQwT2V6Z1FfYV9vMGcyVXhwaEg3M3NwTDdwMEFIZXlFMmJCVHRhVDhxSlpzREZzQlFLZWVQVDI1cFA1U1B4SnNWaVIwQzJlZjZSYVFxblAyRnNneF9Da3JBYWwwaGx2cFNSRGdzU2d4UWVYOVlrYy1yMXFrTU1FdTM0ZHNZUHhtZ091blhlaVIwTVE?oc=5)
-
----
-
-### [PPI-Medikamente: 44 Prozent höheres Demenzrisiko bei Langzeitnutzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpJWUZLR2ptOFI5OXdIbWh5Q2h2Vzc2cHFYSlFyZWhPeGlrQkxzbHM4TlE0ZGEzWlduMEhuWDVESThmR0pXYk5Pc3lDcFpURTRWUjdfMzh5X0tUdU1zbE55elN3NU5tc254ZndCV1NaX1JHcVlpUUtZRFVEQW5xdjB2YWZWVjB6OXA2b3NGZU1VSUI5eXRpRkFuUmNrNHVyZ2tZOXJqSC05QnVZWWloaFZ2d2k1eUxy?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlpJWUZLR2ptOFI5OXdIbWh5Q2h2Vzc2cHFYSlFyZWhPeGlrQkxzbHM4TlE0ZGEzWlduMEhuWDVESThmR0pXYk5Pc3lDcFpURTRWUjdfMzh5X0tUdU1zbE55elN3NU5tc254ZndCV1NaX1JHcVlpUUtZRFVEQW5xdjB2YWZWVjB6OXA2b3NGZU1VSUI5eXRpRkFuUmNrNHVyZ2tZOXJqSC05QnVZWWloaFZ2d2k1eUxy?oc=5)
-
----
-
-### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
 
 ---
 
@@ -150,27 +150,11 @@ permalink: /news/isatuximab/
 
 ---
 
-### [Madrid participa en un ambicioso ensayo internacional que combina campos eléctricos e inmunoterapia para combatir el tumor cerebral - Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Gacetín Madrid](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGppb29pczRqclZvczBkQWNVTTIyWjlEeVkwUnI3VmVzaFJmc2hmclNPWE1fU3MwTXNIRjE2bERlOUJTU0hWZWVpQUtqOWVJcGtXWW9zMUpjZ1FUX2pRMHZseUIyb2dzVnI1TTR3bHdnRXhVSkE5Nlljek81UWRReGNMZ1ItU2QtWTU2SE1XX05WMTNyMG1Gb1R3MjJlaW9VQjdDQ1A1a1FzeXFrZlE?oc=5)
-
----
-
 ### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 2026-07-05 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
----
-
-### [Médecine : Une étude indique que les personnes nées après 1965 vieillissent plus vite que leurs aînés... - Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Jean-Marc Morandini](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPeklhY0tZcjhnWXBmX3RNYjg4UndtazI4bmc5TE9NVWZmNjd4dUUyRE5aV1JxYzV3UzhYMkl6eVU4ekdZUzlmS0R5b01lUXVnLWtWMUJkZEliNXlNQkRQcHNxM2lkQkdscHBjLXRZbjZPVHFEUUtyT0dPTmg1RkpxRklwNThaY1MxR05iVXRZczZiUlpFeEhwT0Mzb1BjVF9XOGIzRjJHanU3Z0xsUDdBOUFVejhiMVA0bjdTUHlFY19KTWx1eWpVVk50eVpORmhDLUlMNUQwV0ZfVmlkYzFGZVBEcEVvdFRTN0luLUI3aDhPMGc4Y2MzWm1xZkNoT0ZPNGRWYTNCd3lIUW1zTTFSNjM3U2NxOWpGRDVMWDJtdTIyTHFmSXJueU5R0gGvAkFVX3lxTFBSbTV5XzJxUGFzWllMY2x0NHlCODVYVXZKQ0Jhb0dNTmxMbE5rTFRtbVlRRGFxMmJLTHA0QV9XS09TdmZrZ3g4cmRBTnVsVnVYcEVBOW5QYVlsUjZxdzFJUVBIbTNnanc4aFZlVnJadzNXUUNINjNZVDlPUTJ6YXFDc3Q5VFZtcmt4dXFIdlBvbkVxZGZIRUYyOVVhV1U3TXRLdVJYZ2JlR1lmUGRZTDB3RmZOV0ZlTGtFSzc3U29ZWjlGU0dtcVRPSGQ4YUZXYWNYcjlGOHBaMzQ5cFdjaEtvdDljUlhpcXgyVHkxaUNLOTdSb0lwYmtaVkY1c20tYmxYUk53Z0pINGpMQ1pOMTFjLUQwUlNRQ25PZWR3cFNMeXpLTWZtZm00Vm5XWkRqOA?oc=5)
 
 ---
 
@@ -187,14 +171,6 @@ permalink: /news/isatuximab/
 2026-07-05 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipgJBVV95cUxPWlR0YXRZbnVrZ0g5aWpyakNWZ3dNZHB6T0Z6elNkVG83VG5Pc2lwZlVRekJWZm04UjQtZ2JYeEY0ZkdBS3BlenQxMS1lZ1Z6dVg4RTZhbWZDWVhLYXVnQ2ctOGtJZ3ktQWhvWEZjWEVmVzlhZmpRc2d6bVZCOEg2WUFMVjdJbmVmVEhTWHQwYWtCN09Mc3lIZVlKTFhlUXNYZjhRc2ZiYXNSa0FWcXliUVRjYUFoa1BWVGxBS1lmT25NMzBwUmNvbFc2bXJBY2dweVd6Q21lQUduX0dabW9MUmNOd2x5MzEwZWJfZWJfSXJ4NUZlVjUtWHh2Qk5QZ19VcWRobEk2NGtLekp0OURGemJucGY2c21aNURXRFJwcFVkMEZpTkE?oc=5)
-
----
-
-### [Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
-
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5)
 
 ---
 
