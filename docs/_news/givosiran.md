@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [España destaca como ejemplo internacional en la lucha contra la hepatitis al combinar cribado, tratamiento y seguimiento eficaz de los pacientes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+
+---
+
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+---
 
 ### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
 

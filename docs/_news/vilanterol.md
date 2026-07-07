@@ -62,6 +62,14 @@ permalink: /news/vilanterol/
 
 ---
 
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+---
+
 ### [Langlebigkeit: 30 Minuten Training senken Krebs- und Herzrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
 
 2026-07-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
@@ -70,11 +78,11 @@ permalink: /news/vilanterol/
 
 ---
 
-### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+### [PPI und Demenzrisiko: Welche Ernährung, KI-Tools und Leitlinien jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
 
-2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/vilanterol/
 2026-07-06 <span class="news-indication-tag">cancer</span>
 
 來源：[antena3.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0ZsVm45LVFtR2hPNzRzd19Fd1pyWVBob1NyRjJjcktzQndIcHc1LUNteURfaGo3OEN6MnlIWkZjM1hFX3dtR0o0bFhHZ19yNHBMV1VUMEY4WUZTUVZHMU44X0I0SWkzUkx1aElCTnhQQ0VKT0VPV3Y1azJiRWxEZlpRbnI0eWx6NUJVWmRZbTJpNGJ2azhKWnVjLTdPaVNUNzBQR25EYld3UEJPdnZaNGcwOXVjQUt4cjJwZUZNNTZuSjRYOGEwd0FXdHF1Z3Vjd1FCM3dibFktUHdSbnpn0gHfAUFVX3lxTE9TTnJnaW5UdkhEY2JhOHJINUFnT2FwNUdfbU5Sa2xnTGVpRWlyVjBQY3Y1TEd4M29fX2RqSmdxM3dqaWZvZWszeGN1dUNyX0xJUEdwMWQwT2V6Z1FfYV9vMGcyVXhwaEg3M3NwTDdwMEFIZXlFMmJCVHRhVDhxSlpzREZzQlFLZWVQVDI1cFA1U1B4SnNWaVIwQzJlZjZSYVFxblAyRnNneF9Da3JBYWwwaGx2cFNSRGdzU2d4UWVYOVlrYy1yMXFrTU1FdTM0ZHNZUHhtZ091blhlaVIwTVE?oc=5)
+
+---
+
+### [Tumori, farmaci che si attivano con la luce colpiscono solo le cellule malate: la ricerca Unibo - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
 
 ---
 
@@ -131,22 +147,6 @@ permalink: /news/vilanterol/
 2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
----
-
-### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
----
-
-### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 ---
 

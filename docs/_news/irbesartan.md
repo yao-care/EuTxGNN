@@ -14,7 +14,7 @@ permalink: /news/irbesartan/
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Irbesartan</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/irbesartan/
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
-
-### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
-
----
+## 相關新聞（24 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+---
+
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+---
+
+### [Marie-Pierre St-Onge, profesora de medicina nutricional: “Dormir lo suficiente puede ayudar a reducir el riesgo de aumento de peso y afecciones relacionadas con la obesidad, como la diabetes” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+
+---
+
+### [Grippeimpfung bei Diabetes: Risiko für Folgen senken](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
+
+---
+
+### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+---
+
+### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
 ---
 
@@ -78,19 +110,11 @@ permalink: /news/irbesartan/
 
 ---
 
-### [Diabetes-Forschung: 16 Millionen Zellen liefern neue Immun-Marker für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlmMDl1TUNxWFUxcktCNnRkcjhLLWhEM1pkM2ZmQ3d0MUYxbkJmRTBQNm5CYmtfWkphOXNMSmFoX3VUM19BVUtmSjB3SXFvR01wQnM1aUVmTlpTb2QyNDRyWTdfbU80VkloYzVEUldXX0RxR045YWVpd1NhVXdPbTZPRV9tVVdwMjYyWG1YQl9ET1JsWEpTQ1FNRWQ1MU85TUpfQU5ZZHdpT0RWTS1qMWliQWM3ZENNWVE?oc=5)
+### [Diabetes: Warum Betroffene oft mehr Mikronährstoffe brauchen - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZFZHRvU21TQnNlZlgtTGtyeTFRelFqY29TOGlLUmlBZWFPdWtyeVJ0RXlYVGdNQmlpQkpSOUg4YnVUUEd0d0ZVM3ZTTFo0WlptQXJ6Qk0zc3QtR3N3cy1QckVUR09FTVEzT3IxR2FXNFhRVW5zMEhTelA5Wk9GVFo0cHROOHZxYnBybGw3X0dLdlBXUDNCSHVmRWxveDhTUTV3U2FteVhNbzg5MXY0VTNVamJEbS03Mjh5RWZscFJIRUVNSXBQdVBQdm9qTVNRZmdJTEVPVnNSeFc3?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlmMDl1TUNxWFUxcktCNnRkcjhLLWhEM1pkM2ZmQ3d0MUYxbkJmRTBQNm5CYmtfWkphOXNMSmFoX3VUM19BVUtmSjB3SXFvR01wQnM1aUVmTlpTb2QyNDRyWTdfbU80VkloYzVEUldXX0RxR045YWVpd1NhVXdPbTZPRV9tVVdwMjYyWG1YQl9ET1JsWEpTQ1FNRWQ1MU85TUpfQU5ZZHdpT0RWTS1qMWliQWM3ZENNWVE?oc=5)
-
----
-
-### [Perder hora y media de sueño al día tiene un precio: más kilos, más sofá y más riesgo de diabetes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmZlbExPRUxNXzNOSE5ja21mZTZMOWpka1ZxZ3JkVXlvaXE1Ujg5S3V6YXRqcnpQTTRNWmVsNzFJeXY2QkQ4dEhVSHJPY25tUDQyR2pnS19LY2FsLUpzYnhrUG9uU2VjdWxOYjJmVmxZWXptcDVFOGJORXBITXNUXzlvYUdXXzZEVVlwcUhQTUlJbHZ2MXNxcHlXaU5XamJBZHp5R0pERnl2RV9Wc0FiTDBjSlFfajkxQklINldWYXBzazRDNlVxSmtMSlYtVXNQUmlWYmVFaUhFTGdfeVBiQXRpU3RZRzI0?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmZlbExPRUxNXzNOSE5ja21mZTZMOWpka1ZxZ3JkVXlvaXE1Ujg5S3V6YXRqcnpQTTRNWmVsNzFJeXY2QkQ4dEhVSHJPY25tUDQyR2pnS19LY2FsLUpzYnhrUG9uU2VjdWxOYjJmVmxZWXptcDVFOGJORXBITXNUXzlvYUdXXzZEVVlwcUhQTUlJbHZ2MXNxcHlXaU5XamJBZHp5R0pERnl2RV9Wc0FiTDBjSlFfajkxQklINldWYXBzazRDNlVxSmtMSlYtVXNQUmlWYmVFaUhFTGdfeVBiQXRpU3RZRzI0?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZFZHRvU21TQnNlZlgtTGtyeTFRelFqY29TOGlLUmlBZWFPdWtyeVJ0RXlYVGdNQmlpQkpSOUg4YnVUUEd0d0ZVM3ZTTFo0WlptQXJ6Qk0zc3QtR3N3cy1QckVUR09FTVEzT3IxR2FXNFhRVW5zMEhTelA5Wk9GVFo0cHROOHZxYnBybGw3X0dLdlBXUDNCSHVmRWxveDhTUTV3U2FteVhNbzg5MXY0VTNVamJEbS03Mjh5RWZscFJIRUVNSXBQdVBQdm9qTVNRZmdJTEVPVnNSeFc3?oc=5)
 
 ---
 
@@ -118,6 +142,14 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Diabetes-Forschung: 16 Millionen Zellen offenbaren neue Immun-Marker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
+
+---
+
 ### [Descubren que un fármaco usado para el corazón podría frenar varios tipos de cáncer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0ZsVm45LVFtR2hPNzRzd19Fd1pyWVBob1NyRjJjcktzQndIcHc1LUNteURfaGo3OEN6MnlIWkZjM1hFX3dtR0o0bFhHZ19yNHBMV1VUMEY4WUZTUVZHMU44X0I0SWkzUkx1aElCTnhQQ0VKT0VPV3Y1azJiRWxEZlpRbnI0eWx6NUJVWmRZbTJpNGJ2azhKWnVjLTdPaVNUNzBQR25EYld3UEJPdnZaNGcwOXVjQUt4cjJwZUZNNTZuSjRYOGEwd0FXdHF1Z3Vjd1FCM3dibFktUHdSbnpn0gHfAUFVX3lxTE9TTnJnaW5UdkhEY2JhOHJINUFnT2FwNUdfbU5Sa2xnTGVpRWlyVjBQY3Y1TEd4M29fX2RqSmdxM3dqaWZvZWszeGN1dUNyX0xJUEdwMWQwT2V6Z1FfYV9vMGcyVXhwaEg3M3NwTDdwMEFIZXlFMmJCVHRhVDhxSlpzREZzQlFLZWVQVDI1cFA1U1B4SnNWaVIwQzJlZjZSYVFxblAyRnNneF9Da3JBYWwwaGx2cFNSRGdzU2d4UWVYOVlrYy1yMXFrTU1FdTM0ZHNZUHhtZ091blhlaVIwTVE?oc=5)
 
 2026-07-06 <span class="news-indication-tag">cancer</span>
@@ -142,19 +174,19 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Tumori, farmaci che si attivano con la luce colpiscono solo le cellule malate: la ricerca Unibo - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+---
+
 ### [My daughter’s mood swings were put down to 'puberty' - she had 2 types of cancer - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxONWdiMHktZTE0NURpdjJKVWFTYkJSZFhuRmZ6NThvLWtsckhoSTh6ellwYkJwWHBCcmppVS1XVnRXdXIwUGczYjJTTDRtdEhRV2FyT1BwV1FoMWpFc2dyWnEtSkFGN0FuaUN0MWczaXRYMFVaZlY5QTVJYUF1QTFrZGl2UUZBOTBxN1NiRDdvOXhXLVByRVJ5Mw?oc=5)
 
 2026-07-06 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxONWdiMHktZTE0NURpdjJKVWFTYkJSZFhuRmZ6NThvLWtsckhoSTh6ellwYkJwWHBCcmppVS1XVnRXdXIwUGczYjJTTDRtdEhRV2FyT1BwV1FoMWpFc2dyWnEtSkFGN0FuaUN0MWczaXRYMFVaZlY5QTVJYUF1QTFrZGl2UUZBOTBxN1NiRDdvOXhXLVByRVJ5Mw?oc=5)
-
----
-
-### [Medizinische Ernährungstherapie senkt HbA1c – Apps, Wearables und KI im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
 
 ---
 
@@ -182,6 +214,14 @@ permalink: /news/irbesartan/
 
 ---
 
+### [Ernährungstherapie: Medizinische Diät senkt Diabetes-Werte um 2% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
+
+---
+
 ### [I'm a GP — here's how to avoid 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
 2026-07-06 <span class="news-indication-tag">high blood pressure</span>
@@ -203,30 +243,6 @@ permalink: /news/irbesartan/
 2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
----
-
-### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
----
-
-### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
-
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
-
----
-
-### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 ---
 

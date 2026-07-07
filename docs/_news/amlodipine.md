@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
+
+### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+2026-07-07 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+---
+
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+---
 
 ### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
@@ -62,11 +78,19 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+### [Identificado un mecanismo natural que limita la progresión de distintos tipos de cáncer - El Confidencial](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2syUnZjb2hzRHZwYjJxVHN6MGVZdklIQ3hnZHJGZFV0V1VPX3JhbjlQVTJpTnV3d3phQi1qWXVZbG5IdmtRZXhSUjI2NG16UXl6NXpxb0toYXcwTWtnZVhBNFJGQzE2SVVwdUZmUm0zQk0yRHFpUmFQRmJvTEQ1MHZIX3d5UFJMV2NVdWtnMHdwTURpVGhZNGN6Tk1mOUVXaUZaT0UzWDE3SEJyZ2ExZncwdE04V1hqcVdPenc0RUhVYW9LRXNV?oc=5)
 
-2026-07-07 <span class="news-indication-tag">Krebs</span>
+2026-07-07 <span class="news-drug-tag">Amlodipine</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2syUnZjb2hzRHZwYjJxVHN6MGVZdklIQ3hnZHJGZFV0V1VPX3JhbjlQVTJpTnV3d3phQi1qWXVZbG5IdmtRZXhSUjI2NG16UXl6NXpxb0toYXcwTWtnZVhBNFJGQzE2SVVwdUZmUm0zQk0yRHFpUmFQRmJvTEQ1MHZIX3d5UFJMV2NVdWtnMHdwTURpVGhZNGN6Tk1mOUVXaUZaT0UzWDE3SEJyZ2ExZncwdE04V1hqcVdPenc0RUhVYW9LRXNV?oc=5)
+
+---
+
+### [Puntura di vespa o ape: 5 cose da fare e gli errori da evitare](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUJaczFTYmhQaVR2ank0N09QY1dZd045VUJ3NERobGxUaXN6Wk9MU3M3UklrRU93NndQS0xLTV82LWVicWdQVUo2UjVRMzNHeXQ4Q29td0R5UXRUbGV5UkFyckJhRTJ6QnF2UFJxazI4eFJxQmRZUUZ1QnhIUDZIOXQ1SG55a2tPVmszVQ?oc=5)
+
+2026-07-07 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUJaczFTYmhQaVR2ank0N09QY1dZd045VUJ3NERobGxUaXN6Wk9MU3M3UklrRU93NndQS0xLTV82LWVicWdQVUo2UjVRMzNHeXQ4Q29td0R5UXRUbGV5UkFyckJhRTJ6QnF2UFJxazI4eFJxQmRZUUZ1QnhIUDZIOXQ1SG55a2tPVmszVQ?oc=5)
 
 ---
 
@@ -107,6 +131,14 @@ permalink: /news/amlodipine/
 2026-07-06 <span class="news-indication-tag">hypertension</span>
 
 來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlZBcHprUk5sbGlyVHBoT0J2NXFVbU9SdkJ3TGF0bk5YYkh2aGtFQWcwSU91RXYxOFdrSkdubmIzYlpvVXUtNUlYdkEtell2VHJNX25JZkZYbk5odE9SaTFLWjQzWlk2UVBqeDBtWWlSZUNHWUYxcEhpOXZsSmZIeDR3?oc=5)
+
+---
+
+### [Tumori, farmaci che si attivano con la luce colpiscono solo le cellule malate: la ricerca Unibo - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
 
 ---
 
@@ -155,22 +187,6 @@ permalink: /news/amlodipine/
 2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
----
-
-### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
----
-
-### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 ---
 

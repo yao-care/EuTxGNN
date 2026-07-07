@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "copd 相關新聞"
+title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "copd 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# copd 相關新聞
+# EPOC（copd） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="copd 有什麼相關新聞？">
-<strong>copd</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
+<strong>EPOC（copd）</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「copd」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,13 +54,21 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 2026-07-07
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+
+---
+
+### [PPI und Demenzrisiko: Welche Ernährung, KI-Tools und Leitlinien jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
+
+2026-07-06
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
 
 ---
 

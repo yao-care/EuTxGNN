@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [España destaca como ejemplo internacional en la lucha contra la hepatitis al combinar cribado, tratamiento y seguimiento eficaz de los pacientes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+
+---
 
 ### [Angelo Mazzone: «Ho preso l'epatite A andando a cena fuori. In ospedale è stata dura, a tutti dico: vaccinatevi» - Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
 

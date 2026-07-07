@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Marie-Pierre St-Onge, profesora de medicina nutricional: “Dormir lo suficiente puede ayudar a reducir el riesgo de aumento de peso y afecciones relacionadas con la obesidad, como la diabetes” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+
+---
 
 ### [Air pollution may cause childhood obesity by disrupting impulse control, study finds - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVREd1N5RVllSFdLeUlKTHRncHJMZFZ3NmoxaWVrTmR2R1ZBVGhaY1J0ZkFtakRoNjZualYzRzdUNmJhc3JTd29TS1E5TzF5N3lUNnlpV0wydHJQTFI3NVVjdzJWU0ExR2d1YTNySnpqLXViLTV6RjBMV1JDQWZoZ25CalFDVzZ4cWNVOXpB?oc=5)
 

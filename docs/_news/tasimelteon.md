@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Transkranielle Pulsstimulation: 17.690 Sitzungen belegen hohe Verträglichkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tasimelteon/
 2026-07-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
-
----
-
-### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
-
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
 
 ---
 

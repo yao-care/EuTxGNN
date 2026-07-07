@@ -14,7 +14,7 @@ permalink: /news/maribavir/
 ---
 
 <p class="key-answer" data-question="Maribavir 有什麼相關新聞？">
-<strong>Maribavir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Maribavir</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/maribavir/
 <p><a href="{{ '/drugs/maribavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
@@ -62,19 +62,43 @@ permalink: /news/maribavir/
 
 ---
 
-### [Diabetes-Forschung: 16 Millionen Zellen liefern neue Immun-Marker für Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlmMDl1TUNxWFUxcktCNnRkcjhLLWhEM1pkM2ZmQ3d0MUYxbkJmRTBQNm5CYmtfWkphOXNMSmFoX3VUM19BVUtmSjB3SXFvR01wQnM1aUVmTlpTb2QyNDRyWTdfbU80VkloYzVEUldXX0RxR045YWVpd1NhVXdPbTZPRV9tVVdwMjYyWG1YQl9ET1JsWEpTQ1FNRWQ1MU85TUpfQU5ZZHdpT0RWTS1qMWliQWM3ZENNWVE?oc=5)
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span>
+2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlmMDl1TUNxWFUxcktCNnRkcjhLLWhEM1pkM2ZmQ3d0MUYxbkJmRTBQNm5CYmtfWkphOXNMSmFoX3VUM19BVUtmSjB3SXFvR01wQnM1aUVmTlpTb2QyNDRyWTdfbU80VkloYzVEUldXX0RxR045YWVpd1NhVXdPbTZPRV9tVVdwMjYyWG1YQl9ET1JsWEpTQ1FNRWQ1MU85TUpfQU5ZZHdpT0RWTS1qMWliQWM3ZENNWVE?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 ---
 
-### [Perder hora y media de sueño al día tiene un precio: más kilos, más sofá y más riesgo de diabetes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmZlbExPRUxNXzNOSE5ja21mZTZMOWpka1ZxZ3JkVXlvaXE1Ujg5S3V6YXRqcnpQTTRNWmVsNzFJeXY2QkQ4dEhVSHJPY25tUDQyR2pnS19LY2FsLUpzYnhrUG9uU2VjdWxOYjJmVmxZWXptcDVFOGJORXBITXNUXzlvYUdXXzZEVVlwcUhQTUlJbHZ2MXNxcHlXaU5XamJBZHp5R0pERnl2RV9Wc0FiTDBjSlFfajkxQklINldWYXBzazRDNlVxSmtMSlYtVXNQUmlWYmVFaUhFTGdfeVBiQXRpU3RZRzI0?oc=5)
+### [Marie-Pierre St-Onge, profesora de medicina nutricional: “Dormir lo suficiente puede ayudar a reducir el riesgo de aumento de peso y afecciones relacionadas con la obesidad, como la diabetes” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+
+---
+
+### [Grippeimpfung bei Diabetes: Risiko für Folgen senken](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmZlbExPRUxNXzNOSE5ja21mZTZMOWpka1ZxZ3JkVXlvaXE1Ujg5S3V6YXRqcnpQTTRNWmVsNzFJeXY2QkQ4dEhVSHJPY25tUDQyR2pnS19LY2FsLUpzYnhrUG9uU2VjdWxOYjJmVmxZWXptcDVFOGJORXBITXNUXzlvYUdXXzZEVVlwcUhQTUlJbHZ2MXNxcHlXaU5XamJBZHp5R0pERnl2RV9Wc0FiTDBjSlFfajkxQklINldWYXBzazRDNlVxSmtMSlYtVXNQUmlWYmVFaUhFTGdfeVBiQXRpU3RZRzI0?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
+
+---
+
+### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+---
+
+### [Diabetes: Warum Betroffene oft mehr Mikronährstoffe brauchen - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZFZHRvU21TQnNlZlgtTGtyeTFRelFqY29TOGlLUmlBZWFPdWtyeVJ0RXlYVGdNQmlpQkpSOUg4YnVUUEd0d0ZVM3ZTTFo0WlptQXJ6Qk0zc3QtR3N3cy1QckVUR09FTVEzT3IxR2FXNFhRVW5zMEhTelA5Wk9GVFo0cHROOHZxYnBybGw3X0dLdlBXUDNCSHVmRWxveDhTUTV3U2FteVhNbzg5MXY0VTNVamJEbS03Mjh5RWZscFJIRUVNSXBQdVBQdm9qTVNRZmdJTEVPVnNSeFc3?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZFZHRvU21TQnNlZlgtTGtyeTFRelFqY29TOGlLUmlBZWFPdWtyeVJ0RXlYVGdNQmlpQkpSOUg4YnVUUEd0d0ZVM3ZTTFo0WlptQXJ6Qk0zc3QtR3N3cy1QckVUR09FTVEzT3IxR2FXNFhRVW5zMEhTelA5Wk9GVFo0cHROOHZxYnBybGw3X0dLdlBXUDNCSHVmRWxveDhTUTV3U2FteVhNbzg5MXY0VTNVamJEbS03Mjh5RWZscFJIRUVNSXBQdVBQdm9qTVNRZmdJTEVPVnNSeFc3?oc=5)
 
 ---
 
@@ -102,11 +126,19 @@ permalink: /news/maribavir/
 
 ---
 
-### [Säureblocker-Risiko: Protonenpumpenhemmer erhöhen Demenz um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+### [Diabetes-Forschung: 16 Millionen Zellen offenbaren neue Immun-Marker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
 
-2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2FQSnM5azBxblliUEJYSERwTkExUFlyeUQ1WC1SM3pobG44MmllR2dfS3lHVXBucFdxa3RPVTZWYWZjV016VVJnUnpwX25Sc0ozejM4Y2RTa09lWXRxOVY3WHRTa0p5TGd3RVFCS1QwTjF0ZnBMNTBULW1aMU1qOVJ6dk5FNGs4N3lEcWI4cDVIR1NzbEp2dHp2RmdSejRjUnBaRkhpVEVpQWJBSTFGWFp4ci00XzkzZkh6Wg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
+
+---
+
+### [PPI und Demenzrisiko: Welche Ernährung, KI-Tools und Leitlinien jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
+
+2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
 
 ---
 
@@ -126,6 +158,14 @@ permalink: /news/maribavir/
 
 ---
 
+### [Tumori, farmaci che si attivano con la luce colpiscono solo le cellule malate: la ricerca Unibo - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+---
+
 ### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
 
 2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
@@ -139,14 +179,6 @@ permalink: /news/maribavir/
 2026-07-06 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxONWdiMHktZTE0NURpdjJKVWFTYkJSZFhuRmZ6NThvLWtsckhoSTh6ellwYkJwWHBCcmppVS1XVnRXdXIwUGczYjJTTDRtdEhRV2FyT1BwV1FoMWpFc2dyWnEtSkFGN0FuaUN0MWczaXRYMFVaZlY5QTVJYUF1QTFrZGl2UUZBOTBxN1NiRDdvOXhXLVByRVJ5Mw?oc=5)
-
----
-
-### [Medizinische Ernährungstherapie senkt HbA1c – Apps, Wearables und KI im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLV93QVhVSWo2UnZwWVRnRU1EWHhSQzJOQTJqQURZWWluRC04SUNqQWU5VjBvVTBrWGx4anRaY0dTNVhXUVhfMWFvSGhSbEJEeU8tbVFOR21FTHhtQ3BnM1NBUXAwQXl6Y1YyanI1VVRrZWRNX2hhbTVQTHlKUXNZYkwxU0NMUmg3cnE2Y1YxSFVGTzJoS2hoRW5NY2ZRaUI3Q2JsdGN1ZVdHMnc?oc=5)
 
 ---
 
@@ -174,6 +206,14 @@ permalink: /news/maribavir/
 
 ---
 
+### [Ernährungstherapie: Medizinische Diät senkt Diabetes-Werte um 2% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
+
+---
+
 ### [Tumori sempre più precoci: perché ci ammaliamo prima dei nostri nonni - la Repubblica](https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3pnOFR2QkVLYm0yZG1nVFNvUWRvbUNKcVlIQzVrbl9mb3ZiR0hzVnotbmsxZ3BPTmxoQTVkbGVTMjVXTU1WNG8xNTFxUzJoOUVMZWNZOXM1ai1TOUNPZjJwd01TOGlZR3RWX2p6V01wZmQ4N1hOaDhfbFhHSlJ2d2ZhY0lNUk83bDRCUFhGV09ERTdCbHBXa1VrMm5iNXQteDRkT095Y1Jrc1BkSUg3STN4TlNFQzN5QkdfOUdGQUFmX0RUdUlV0gHMAUFVX3lxTE9YaVNveVlTWm1rdml0TW9JT2kwdnI2aWpOWkpXMVRPSnV6VGZkY2lxX3lOLURPRm1OX0NqeUFESWFJdFQzZHV4eTQ1cVMtdE9aYnRHSWZKcjMycVZuTGdPZXVubmJyeVBQY2tOY2JwU1UtdHRKcUVPYmpiYXBKMl9UdHhTTXI3OHFZNGYtNzZaOWdHUHA4RmRESXlLTE9PYUNHdHlnWUhDeUx4Z3Zvb0xvRFU1U2dyWDFiaHo1Z0hmc2tCYllZS2QyRzV1RQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">tumor</span>
@@ -187,30 +227,6 @@ permalink: /news/maribavir/
 2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
----
-
-### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
----
-
-### [La microbiota de precisión y la reprogramación bacteriana impulsan una nueva generación de terapias personalizadas frente a depresión y diabetes](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
-
-2026-07-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depresión</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxOaklhNFpzYUE1WGdpNktyUDc5YXNYV0M5VmZOaTFqRkNQVWFFYlZPOXJkV2lwemZCbVlQcTZneXd0YzZfMXJhUDZOeUF1VFFzeVJMT0taYlRVb0JTQVVPLUYtUHJlU1lCX1BlcUNVUkZLa1pQWGY5MnpBX3JxLVJzS1lxV1FaSXNiRU1mS2xMX2lHUHE0UllJTjFaVzZYT1c3OVpLMmUyUEoxVnRMN2szT1lIaUk1ZTFoZkNpeEp0OXlKdnFrbWRwNXNMc0xrRG9mNktsRTNYMUJEenNJUTk4aWNoTXRpX015Qk13Wk9Fanh5N1Rod0VOc1dtaVZ3dGd1SWFr?oc=5)
-
----
-
-### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 ---
 

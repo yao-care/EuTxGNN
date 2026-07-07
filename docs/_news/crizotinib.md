@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="Crizotinib 有什麼相關新聞？">
-<strong>Crizotinib</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Crizotinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/crizotinib/
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
-### [Consumir cinco o más fármacos podría ralentizar la progresión del deterioro cognitivo leve hacia la enfermedad de Alzheimer - Actualidad CEU](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3UtR1U1VWZXQnpIbHVxMkdBNFZadU8xem5VYjJDc1VCMEJUQ2JtdUpRbVVkTEJ3SjdlMkwtN0IxNnRTWHhvazMyUHA2SUoydTU4SU1IVHQ1SmYzM01PcEFMT05QWTI3X3JLU0Fub2taUGE4VWhRUjlnUGpMdGhzbEtiZTVGa3VRdFpnQnNTNHZvS1MxTzdOX25xd3NRT1JQZG5wZklWZmN2Q0NaRmZIMDFkaFVBNXk0RGRwQWF0bjEwby1iUG5QNllfTE1oQlRtOG52YUZicnBvcjNRSmo1UTNnVXZ5QXZETDNrMEswcUtBalA2c1o4?oc=5)
+### [How to avoid dementia — what the science really says](https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5)
 
-2026-07-07 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+2026-07-07 <span class="news-indication-tag">dementia</span>
 
-來源：[Actualidad CEU](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3UtR1U1VWZXQnpIbHVxMkdBNFZadU8xem5VYjJDc1VCMEJUQ2JtdUpRbVVkTEJ3SjdlMkwtN0IxNnRTWHhvazMyUHA2SUoydTU4SU1IVHQ1SmYzM01PcEFMT05QWTI3X3JLU0Fub2taUGE4VWhRUjlnUGpMdGhzbEtiZTVGa3VRdFpnQnNTNHZvS1MxTzdOX25xd3NRT1JQZG5wZklWZmN2Q0NaRmZIMDFkaFVBNXk0RGRwQWF0bjEwby1iUG5QNllfTE1oQlRtOG52YUZicnBvcjNRSmo1UTNnVXZ5QXZETDNrMEswcUtBalA2c1o4?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/crizotinib/
 2026-07-07 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
+
+---
+
+### [Consumir cinco o más fármacos podría ralentizar la progresión del deterioro cognitivo leve hacia la enfermedad de Alzheimer - Actualidad CEU](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3UtR1U1VWZXQnpIbHVxMkdBNFZadU8xem5VYjJDc1VCMEJUQ2JtdUpRbVVkTEJ3SjdlMkwtN0IxNnRTWHhvazMyUHA2SUoydTU4SU1IVHQ1SmYzM01PcEFMT05QWTI3X3JLU0Fub2taUGE4VWhRUjlnUGpMdGhzbEtiZTVGa3VRdFpnQnNTNHZvS1MxTzdOX25xd3NRT1JQZG5wZklWZmN2Q0NaRmZIMDFkaFVBNXk0RGRwQWF0bjEwby1iUG5QNllfTE1oQlRtOG52YUZicnBvcjNRSmo1UTNnVXZ5QXZETDNrMEswcUtBalA2c1o4?oc=5)
+
+2026-07-07 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[Actualidad CEU](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3UtR1U1VWZXQnpIbHVxMkdBNFZadU8xem5VYjJDc1VCMEJUQ2JtdUpRbVVkTEJ3SjdlMkwtN0IxNnRTWHhvazMyUHA2SUoydTU4SU1IVHQ1SmYzM01PcEFMT05QWTI3X3JLU0Fub2taUGE4VWhRUjlnUGpMdGhzbEtiZTVGa3VRdFpnQnNTNHZvS1MxTzdOX25xd3NRT1JQZG5wZklWZmN2Q0NaRmZIMDFkaFVBNXk0RGRwQWF0bjEwby1iUG5QNllfTE1oQlRtOG52YUZicnBvcjNRSmo1UTNnVXZ5QXZETDNrMEswcUtBalA2c1o4?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/crizotinib/
 2026-07-06 <span class="news-indication-tag">cancer</span>
 
 來源：[antena3.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0ZsVm45LVFtR2hPNzRzd19Fd1pyWVBob1NyRjJjcktzQndIcHc1LUNteURfaGo3OEN6MnlIWkZjM1hFX3dtR0o0bFhHZ19yNHBMV1VUMEY4WUZTUVZHMU44X0I0SWkzUkx1aElCTnhQQ0VKT0VPV3Y1azJiRWxEZlpRbnI0eWx6NUJVWmRZbTJpNGJ2azhKWnVjLTdPaVNUNzBQR25EYld3UEJPdnZaNGcwOXVjQUt4cjJwZUZNNTZuSjRYOGEwd0FXdHF1Z3Vjd1FCM3dibFktUHdSbnpn0gHfAUFVX3lxTE9TTnJnaW5UdkhEY2JhOHJINUFnT2FwNUdfbU5Sa2xnTGVpRWlyVjBQY3Y1TEd4M29fX2RqSmdxM3dqaWZvZWszeGN1dUNyX0xJUEdwMWQwT2V6Z1FfYV9vMGcyVXhwaEg3M3NwTDdwMEFIZXlFMmJCVHRhVDhxSlpzREZzQlFLZWVQVDI1cFA1U1B4SnNWaVIwQzJlZjZSYVFxblAyRnNneF9Da3JBYWwwaGx2cFNSRGdzU2d4UWVYOVlrYy1yMXFrTU1FdTM0ZHNZUHhtZ091blhlaVIwTVE?oc=5)
+
+---
+
+### [Tumori, farmaci che si attivano con la luce colpiscono solo le cellule malate: la ricerca Unibo - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
 
 ---
 
@@ -112,17 +128,9 @@ permalink: /news/crizotinib/
 
 ### [She woke up covered in bruises and was diagnosed with dementia – then fiancé's mask dropped - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
 
-2026-07-06 <span class="news-indication-tag">dementia</span>
+2026-07-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
-
----
-
-### [Dementia patients being ‘cast aside’ by NHS - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUNuY19LNU5VdUtzN1RGd1FOdTZBeUJhTTk5cndqV1VNNUVaSkdyQ0J4QWdScGJhOVpYR0NaTTJMYlVVaThNbi1qak9pd1l5UHl4QWlOd3l6UXhPUk8zRTVaLVJZQnR0NDNzLWhZa2tTdWkwZEQ3MFkzNF9YTWtwdWEtbw?oc=5)
-
-2026-07-06 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUNuY19LNU5VdUtzN1RGd1FOdTZBeUJhTTk5cndqV1VNNUVaSkdyQ0J4QWdScGJhOVpYR0NaTTJMYlVVaThNbi1qak9pd1l5UHl4QWlOd3l6UXhPUk8zRTVaLVJZQnR0NDNzLWhZa2tTdWkwZEQ3MFkzNF9YTWtwdWEtbw?oc=5)
 
 ---
 
@@ -139,22 +147,6 @@ permalink: /news/crizotinib/
 2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
----
-
-### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
----
-
-### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 ---
 

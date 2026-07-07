@@ -62,6 +62,14 @@ permalink: /news/deferasirox/
 
 ---
 
+### [España destaca como ejemplo internacional en la lucha contra la hepatitis al combinar cribado, tratamiento y seguimiento eficaz de los pacientes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+
+2026-07-07 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+
+---
+
 ### [Langlebigkeit: 30 Minuten Training senken Krebs- und Herzrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
 
 2026-07-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
@@ -83,6 +91,14 @@ permalink: /news/deferasirox/
 2026-07-06 <span class="news-indication-tag">epatite</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
+
+---
+
+### [Tumori, farmaci che si attivano con la luce colpiscono solo le cellule malate: la ricerca Unibo - Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
+
+2026-07-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Resto del Carlino](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VhZUFXMEhYUUJHVnMtMjk5R2tsRkNNeC1Ick13bGZiZ0p1R085VlJ6d01sYklndzVjQ1BhQU83VldrTGlNc21IUlFGa3pMald3cTRrSVVJejA4MWJUd2syN19KR2NBM3FCU0Y0djhuc20zZDBCeXNLVUpzVjA4ZENJbFRVdkZMSm04?oc=5)
 
 ---
 
@@ -123,22 +139,6 @@ permalink: /news/deferasirox/
 2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
----
-
-### [Llega a Europa y Reino Unido la primera herramienta de IA para cáncer de mama mediante resonancia magnética](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">tumor</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhDSmJKalBzR3hTZjJYeWM5blltUFV4UTFVTlRhQ2tDMHNDc3ExY2UzRE9scFdiYkVuR1Y2UmtWZ3E3RGxuRlU3eE1WZ25LQTdPb2htcWdpTDhfcDljVXF1S0JhN2pxRERtcjVnejZIaF9lRUpJN1hRNFIzMlpxOVJKQjE5SDY3TkZpcVVsX2F6aHBIOUFwcHVscF9hMUF3UzNzNGptZTV1QTdXQnp6SEZuWG1EMVRaeHc?oc=5)
-
----
-
-### [Royal Surrey NHS Trust recognised for fast cancer diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUEc1bGkxMWNqOWVzLWdrdUViTXRIQU0tcFFFRWU3OXVBNUdkcVU2MGlzU2hIQkdjYTlhamp5aGtaQ0UyNFcwTmpYMjl1NVUyRFdqbnpMTkw5Ukdt?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
-### [PCOS-Umbenennung: 170 Millionen Frauen, 70% unerkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZYUFIwdlBNR2g0ZDU4NnhtMFUxQ3RqendTVE1nOWEyVjdQN1dSaFIzRFpsa0tpSHBfSWZsRUtHZDRNaElZUV80ZWtBa1RWSjNqTUJvMnJmQWxKYTV4ZWxGMFlEbEVDSGVQLXVnaF9Lb0VGSnQ5bGdhRENmNnNwSWYyNzIwam9SNW1SX2pPdk8ySjF0WDBfb3hoSVA4Q0RBVHdqelhhVUZpVnM?oc=5)
+### [El brote de ébola en el Congo supera los 500 muertos mientras la OMS admite que aún no conoce su escala real - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNODJKUXpGcmxDbnNMWGVsRFQxZkFGZTNOWHZaNW1BeWttRjU4dDZkUjFBX2tsM0dfODlXMTVoSmtfbE1lS1V0MmE2OGZrcHdRTC0xMGdta0RRVS03d05hOUVneENieEhSZ3ZUd2dta3E3QjV4WUx6UzRLeUhmekVOenhTcXJxOTM1RU1lUTR6ZmY3aXY5amUzLWxfWkVBVi04eFVydHg4bWtxLTBIOGc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0ZYUFIwdlBNR2g0ZDU4NnhtMFUxQ3RqendTVE1nOWEyVjdQN1dSaFIzRFpsa0tpSHBfSWZsRUtHZDRNaElZUV80ZWtBa1RWSjNqTUJvMnJmQWxKYTV4ZWxGMFlEbEVDSGVQLXVnaF9Lb0VGSnQ5bGdhRENmNnNwSWYyNzIwam9SNW1SX2pPdk8ySjF0WDBfb3hoSVA4Q0RBVHdqelhhVUZpVnM?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNODJKUXpGcmxDbnNMWGVsRFQxZkFGZTNOWHZaNW1BeWttRjU4dDZkUjFBX2tsM0dfODlXMTVoSmtfbE1lS1V0MmE2OGZrcHdRTC0xMGdta0RRVS03d05hOUVneENieEhSZ3ZUd2dta3E3QjV4WUx6UzRLeUhmekVOenhTcXJxOTM1RU1lUTR6ZmY3aXY5amUzLWxfWkVBVi04eFVydHg4bWtxLTBIOGc?oc=5)
+
+---
+
+### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+---
+
+### [E-bike injury payouts top £110m and push up insurance premiums](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T1BkNTNYR0YyQ3RsbEw3OFhPU1VsVUQ4WWMzc1RtMkdHcDBVc1lOMXpaVEJiNm1rOGpCTlJVRWVaS3lJZ3I3WXl1TDJTcFMwVXUwUXlBSUtNb2tp?oc=5)
+
+2026-07-07 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T1BkNTNYR0YyQ3RsbEw3OFhPU1VsVUQ4WWMzc1RtMkdHcDBVc1lOMXpaVEJiNm1rOGpCTlJVRWVaS3lJZ3I3WXl1TDJTcFMwVXUwUXlBSUtNb2tp?oc=5)
+
+---
+
+### [Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’ - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ permalink: /news/interferon-beta-1a/
 2026-07-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
-
----
-
-### [Marcelo Fernández, coordinador de MSF en el Congo: «El ébola irá para largo si no se trabaja con las comunidades» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaW9IMGdocGJHdVc1cnJwNHR4ejBEbFk5MjNlcDZId1BZemktMHpBRmxqUU13N1pBeWdpRnF2TzFuQzM4ZlFJZFkwelVFMjdfanJpeVdyeXVWNDBIV3hKWU14WFl2RTZMa0ltSnpzV05ZMFdlOVY5bU9xUEtyaE1ELXBXRXhmYlFPZWR2YnVlSkxvcjFJUzZ2RWliQmQxbGVkWHpocWF1WmhGWUtHVk1YQnZFemRJa09aSVJZQ29LdTRoSGFUd0Z3UkNWWnMtZHgwWG0xd2V0UmlITnRHTDYxZ2owWUowZUtnUFVqZHp5c1FrbjA?oc=5)
-
-2026-07-07 <span class="news-indication-tag">MS</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaW9IMGdocGJHdVc1cnJwNHR4ejBEbFk5MjNlcDZId1BZemktMHpBRmxqUU13N1pBeWdpRnF2TzFuQzM4ZlFJZFkwelVFMjdfanJpeVdyeXVWNDBIV3hKWU14WFl2RTZMa0ltSnpzV05ZMFdlOVY5bU9xUEtyaE1ELXBXRXhmYlFPZWR2YnVlSkxvcjFJUzZ2RWliQmQxbGVkWHpocWF1WmhGWUtHVk1YQnZFemRJa09aSVJZQ29LdTRoSGFUd0Z3UkNWWnMtZHgwWG0xd2V0UmlITnRHTDYxZ2owWUowZUtnUFVqZHp5c1FrbjA?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [How did Bryan Johnson end up with an autoimmune disease? - Northeastern Global News](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEV0TmtFdmtqWlB2VGwxNGhCZ19pbW43MC1zS1pNZGFDNjQ1elFYZFpQdi01bDJKa2IzVVdZSXJqenlHWVMtblo2QlcxQzBtclpzcm5xVDVJdzV3NjdBSHRaQWl2UXFBR0JERXJ6d0ZTSW5ZR0lxZzRkczRJRFFBNXBn?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Northeastern Global News](https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEV0TmtFdmtqWlB2VGwxNGhCZ19pbW43MC1zS1pNZGFDNjQ1elFYZFpQdi01bDJKa2IzVVdZSXJqenlHWVMtblo2QlcxQzBtclpzcm5xVDVJdzV3NjdBSHRaQWl2UXFBR0JERXJ6d0ZTSW5ZR0lxZzRkczRJRFFBNXBn?oc=5)
-
----
-
 ### [Tranexamsäure kann Bluttransfusionen bei Operationen vermeiden und Geld sparen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">MS</span>
@@ -115,6 +123,14 @@ permalink: /news/interferon-beta-1a/
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ic0l1Q3BFVWN0T3VfYkhxY2NBV0dzaGF2aTYxdWgyNU9lN3FqZnpCblZHb1JlZ3B4amFKTjgtQXVwUnhKMlJvVXdtaFBUZHJYYkVqamN6X3pianVzWUE1WTVLNVlta1plRFV3X1ZpaVVkV2RuZmxSNVF30gF_QVVfeXFMTUtSUEo5UUhfOTBtb1NITFRhSWY3enRJMTNkbUN1NWV5bEFpdmRrRGNBdWVSZ1Z1dDA0STh3S0ZfLXl6SmdEdEZxbW1UM21keWhzOXp2amZPWUZVNXd0dmVZbDNEcTZNcURxa2RYUkhMYnJzM0RfUTVMbTExaVFxNA?oc=5)
+
+---
+
+### [She woke up covered in bruises and was diagnosed with dementia – then fiancé's mask dropped - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
+
+2026-07-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
 
 ---
 
