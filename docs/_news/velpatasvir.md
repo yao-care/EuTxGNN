@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [España destaca como ejemplo internacional en la lucha contra la hepatitis al combinar cribado, tratamiento y seguimiento eficaz de los pacientes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
-2026-07-07 <span class="news-indication-tag">hepatitis</span>
+2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 ---
 
-### [El brote de ébola en el Congo supera los 500 muertos mientras la OMS admite que aún no conoce su escala real - El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNODJKUXpGcmxDbnNMWGVsRFQxZkFGZTNOWHZaNW1BeWttRjU4dDZkUjFBX2tsM0dfODlXMTVoSmtfbE1lS1V0MmE2OGZrcHdRTC0xMGdta0RRVS03d05hOUVneENieEhSZ3ZUd2dta3E3QjV4WUx6UzRLeUhmekVOenhTcXJxOTM1RU1lUTR6ZmY3aXY5amUzLWxfWkVBVi04eFVydHg4bWtxLTBIOGc?oc=5)
+### [La OMS se sincera ante el ébola: "Es un brote de magnitud desconocida" - Redacción Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHJhNU56SmlSN2o5TFZCVEM1ZVNxNHBEelV2amFCQnItTXJSVFAxcmNWakY1Mm5hdGFuR3JnZzRVSjJOY1NaeEZCdjJSQjZFejBXelpMc2J2aG1fdEpXa25MdXBLVGhUZzc5OVo4dXpwaHNmUGJwVmNZemtYMHR1T3J2U1ZERGJLeG1pQ1RYd3F0TTlyRDJCYlpfeE1hWUx0LWpZOEV30gGmAUFVX3lxTE43M3RPV3NZektTMmJiMXQzaXd2RkZzN2RxYkduOHJzakp5Tko2VldhcDdsZF9aWDRCLVpZQngtcHVmdnNmNXM0QXNTZ3pIQjFZQmZBOGt4Q3dqcU84cEVNRlBXd0ZlZVBZWlZlSzZybzdZZ1JLUGNZdFdkSFlaaFdFaUNrREdSWGhxSFdEYlVraDV0bXo5TVVHTk9xY1lDeUs5M3JwWUE?oc=5)
 
 2026-07-07 <span class="news-indication-tag">MS</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMirgFBVV95cUxNODJKUXpGcmxDbnNMWGVsRFQxZkFGZTNOWHZaNW1BeWttRjU4dDZkUjFBX2tsM0dfODlXMTVoSmtfbE1lS1V0MmE2OGZrcHdRTC0xMGdta0RRVS03d05hOUVneENieEhSZ3ZUd2dta3E3QjV4WUx6UzRLeUhmekVOenhTcXJxOTM1RU1lUTR6ZmY3aXY5amUzLWxfWkVBVi04eFVydHg4bWtxLTBIOGc?oc=5)
-
----
-
-### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+來源：[Redacción Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHJhNU56SmlSN2o5TFZCVEM1ZVNxNHBEelV2amFCQnItTXJSVFAxcmNWakY1Mm5hdGFuR3JnZzRVSjJOY1NaeEZCdjJSQjZFejBXelpMc2J2aG1fdEpXa25MdXBLVGhUZzc5OVo4dXpwaHNmUGJwVmNZemtYMHR1T3J2U1ZERGJLeG1pQ1RYd3F0TTlyRDJCYlpfeE1hWUx0LWpZOEV30gGmAUFVX3lxTE43M3RPV3NZektTMmJiMXQzaXd2RkZzN2RxYkduOHJzakp5Tko2VldhcDdsZF9aWDRCLVpZQngtcHVmdnNmNXM0QXNTZ3pIQjFZQmZBOGt4Q3dqcU84cEVNRlBXd0ZlZVBZWlZlSzZybzdZZ1JLUGNZdFdkSFlaaFdFaUNrREdSWGhxSFdEYlVraDV0bXo5TVVHTk9xY1lDeUs5M3JwWUE?oc=5)
 
 ---
 
@@ -83,22 +75,6 @@ permalink: /news/velpatasvir/
 2026-07-07 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T1BkNTNYR0YyQ3RsbEw3OFhPU1VsVUQ4WWMzc1RtMkdHcDBVc1lOMXpaVEJiNm1rOGpCTlJVRWVaS3lJZ3I3WXl1TDJTcFMwVXUwUXlBSUtNb2tp?oc=5)
-
----
-
-### [Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’ - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
-
----
-
-### [Langlebigkeit: 30 Minuten Training senken Krebs- und Herzrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
-
-2026-07-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
 
 ---
 
@@ -150,11 +126,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Arvostatin 'call 111' warning as NHS issues 'serious' side effects list - Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2d5RnFib1JSTm9KNDNsdlhhNXd4Mm16N3pSczVhbTlhc1o2YVFkdTNIQTMyUEVlcFppQWZOMjN3Yk9Ub2VVcmEyT1ZIU2VQUnZMMEkwM3BDVUkwMGkycFZldjI4b2JTeGxIRlQ0c19pZEE4T09zMGRzSXF2eEJUeWFGV3NFT0FTYjJ2bmxBZ9IBlAFBVV95cUxQcHNEOHc3Ykk1RzV5SDkyNXBpNlpld3I3bGptaE5USHpkWEV3akE4bmpNTEFxOFVjdEJROGRaRXlwaTB3b19keTBmcDZkLWVSSEFPY2VaVExQc3BEVS1ENW5LRUk4TU4ydHJPNXd3R0I4aExZRG1vVHl6MDVXY2JDREIxRnprVjhVM05idU05NnJaampq?oc=5)
+### [L'OMS avverte che il mondo non sta raggiungendo i suoi obiettivi sanitari: dalla grande sfida delle malattie croniche alle quattro grandi cause del rallentamento - Vanity Fair Italia](https://news.google.com/rss/articles/CBMinAJBVV95cUxNX1lNcklCNF9FdzRNWkdaMFNobGg3NXAwNUh1NW9GbXRJZFROYzFmRFhqOXJYUmxFZEZYX3pjR25WaDhWNzBwcFJ0OVVOYkJadk9xM3czWGdvLVZuS0d1RFFpTDA1TEVGS2JhSWpNMVkta19FZkFKNjBPRWdVMk9tbE01ZmFIQkQxb2lEeThuclVZeE1TTWxGekhoZmdUcDlIQXVvQVlEcTZlRGFfMTJmOUFPVlBQbWdpdXozODdNQjkyS2hYZG5EdVUtRm5kRG43NnJCZVBwQUx6MDdIMmtEbGo4QUgxVWdnSnp1ZVgtN3l1YUFlNWNvb3lHQmFGZkpWYVUzUjRHWUk1UVNxeUstYXAzbmdGTzFQcXd2Uw?oc=5)
 
-2026-07-05 <span class="news-indication-tag">MS</span>
+2026-07-06 <span class="news-indication-tag">MS</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijwFBVV95cUxQb2d5RnFib1JSTm9KNDNsdlhhNXd4Mm16N3pSczVhbTlhc1o2YVFkdTNIQTMyUEVlcFppQWZOMjN3Yk9Ub2VVcmEyT1ZIU2VQUnZMMEkwM3BDVUkwMGkycFZldjI4b2JTeGxIRlQ0c19pZEE4T09zMGRzSXF2eEJUeWFGV3NFT0FTYjJ2bmxBZ9IBlAFBVV95cUxQcHNEOHc3Ykk1RzV5SDkyNXBpNlpld3I3bGptaE5USHpkWEV3akE4bmpNTEFxOFVjdEJROGRaRXlwaTB3b19keTBmcDZkLWVSSEFPY2VaVExQc3BEVS1ENW5LRUk4TU4ydHJPNXd3R0I4aExZRG1vVHl6MDVXY2JDREIxRnprVjhVM05idU05NnJaampq?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMinAJBVV95cUxNX1lNcklCNF9FdzRNWkdaMFNobGg3NXAwNUh1NW9GbXRJZFROYzFmRFhqOXJYUmxFZEZYX3pjR25WaDhWNzBwcFJ0OVVOYkJadk9xM3czWGdvLVZuS0d1RFFpTDA1TEVGS2JhSWpNMVkta19FZkFKNjBPRWdVMk9tbE01ZmFIQkQxb2lEeThuclVZeE1TTWxGekhoZmdUcDlIQXVvQVlEcTZlRGFfMTJmOUFPVlBQbWdpdXozODdNQjkyS2hYZG5EdVUtRm5kRG43NnJCZVBwQUx6MDdIMmtEbGo4QUgxVWdnSnp1ZVgtN3l1YUFlNWNvb3lHQmFGZkpWYVUzUjRHWUk1UVNxeUstYXAzbmdGTzFQcXd2Uw?oc=5)
 
 ---
 

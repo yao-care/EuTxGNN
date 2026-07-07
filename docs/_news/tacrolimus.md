@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,9 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Buscan un patrón proteico que pueda proporcionar pistas sobre la activación de la psoriasis - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNng2REk2TWF4clpZa3BtRjdkLVItR0p4TWVYaGtwd3ZtcGdxSERCSktudHVGUmgtemh1NjJ0cFB0M2hPZmFId2tad2R0TU4xQVRpbUVJMFl5aml1QXNIdXlsbkl4SEo4b2FWWmMwU0t1bmVGSDVUWjdhdm5SWDhlLTZmdGxiOHJHR2hyNDhwYUxGZjB0Z3cwUVpvck5Cb1JnN3lCZ3h5SUR6ZEFuRzJKb29VcDNxTFM0RV9uLUFsc9IBugFBVV95cUxQbHRvbURCZHFYdnZJaWp3UEZ5cS1QY0NBSGR0S2lLUDI2SFlWUzNEemVYUHQ1UnFOYjFOXzI2T1NkZ2JOZl9MQzVnSHpNcW1MLUdkV2dQbGU1X1JQYWJOQWdqUWNsWGpBWXA5SnZ4QXctM2hPRm5oVTVJdVVvVHZSekNJc0J6T0JWWkZFYWZfVUtIMjMxZEZCVFBxSk5IbFAyanBBYWN5V1BMUmlETy1PbHRmZHpOWTg2TFE?oc=5)
+
+2026-07-07 <span class="news-indication-tag">psoriasis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNng2REk2TWF4clpZa3BtRjdkLVItR0p4TWVYaGtwd3ZtcGdxSERCSktudHVGUmgtemh1NjJ0cFB0M2hPZmFId2tad2R0TU4xQVRpbUVJMFl5aml1QXNIdXlsbkl4SEo4b2FWWmMwU0t1bmVGSDVUWjdhdm5SWDhlLTZmdGxiOHJHR2hyNDhwYUxGZjB0Z3cwUVpvck5Cb1JnN3lCZ3h5SUR6ZEFuRzJKb29VcDNxTFM0RV9uLUFsc9IBugFBVV95cUxQbHRvbURCZHFYdnZJaWp3UEZ5cS1QY0NBSGR0S2lLUDI2SFlWUzNEemVYUHQ1UnFOYjFOXzI2T1NkZ2JOZl9MQzVnSHpNcW1MLUdkV2dQbGU1X1JQYWJOQWdqUWNsWGpBWXA5SnZ4QXctM2hPRm5oVTVJdVVvVHZSekNJc0J6T0JWWkZFYWZfVUtIMjMxZEZCVFBxSk5IbFAyanBBYWN5V1BMUmlETy1PbHRmZHpOWTg2TFE?oc=5)
+
+---
 
 
 <div class="disclaimer">

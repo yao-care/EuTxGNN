@@ -54,11 +54,11 @@ permalink: /news/bictegravir/
 
 ## 相關新聞（2 則）
 
-### [España destaca como ejemplo internacional en la lucha contra la hepatitis al combinar cribado, tratamiento y seguimiento eficaz de los pacientes](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
-2026-07-07 <span class="news-indication-tag">hepatitis</span>
+2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbGZ1MkR3ZHFqUTg5TTFEay1BaktrMkFrQkNXWWFiaHNxNzdIaXU5Z0FFLUFfQjZ1b1ZPdnV1UklDUk9sMmZvakMtMzltdFZtUWZpaWE5cW8xUkpUaU5wdGV6RW1ZZC1pTEVaRjdvTkV1MW5aUnJvZDd5ZzFvbC1qZVpwOWxpU19MZHRydnM4bDZpQVVGOElzc1FINkFCc0k4TTFmZjN5ZEpoTnBDWkRtRXNOOWZzcHVwVDlpV1dsSXFCVklxTHBiMVRJbTdMbEpFNUJ4a3lMT2RoVnY4enQ4?oc=5)
+來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 ---
 

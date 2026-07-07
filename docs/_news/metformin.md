@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="Metformin 有什麼相關新聞？">
-<strong>Metformin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Metformin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/metformin/
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（6 則）
 
-### [Marie-Pierre St-Onge, profesora de medicina nutricional: “Dormir lo suficiente puede ayudar a reducir el riesgo de aumento de peso y afecciones relacionadas con la obesidad, como la diabetes” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+### [Millions of Britons could be quietly deficient in vitamin B12 - how to spot the early signs - GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWlDOF9aYm1OTVdmaXkwM2M0d05OM0p4YWx1aWNFNTFCdkhOYkhoQmxPbV9ZRmd4X0hWT1JybW5aT0VXdGZHbGs4OUcwVWZUS2dxTFk0N2FYdmFFQ2l5VlpVQVZDVnQxLXYzRm1oRHZxMnV3eFNtT0xJVkRHTGtlQUxfRVFkcHIzMTJjaEtDNlR5Zw?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-07-07 <span class="news-drug-tag">Metformin</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWlDOF9aYm1OTVdmaXkwM2M0d05OM0p4YWx1aWNFNTFCdkhOYkhoQmxPbV9ZRmd4X0hWT1JybW5aT0VXdGZHbGs4OUcwVWZUS2dxTFk0N2FYdmFFQ2l5VlpVQVZDVnQxLXYzRm1oRHZxMnV3eFNtT0xJVkRHTGtlQUxfRVFkcHIzMTJjaEtDNlR5Zw?oc=5)
 
 ---
 
@@ -70,14 +70,6 @@ permalink: /news/metformin/
 
 ---
 
-### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
-
----
-
 ### [Diabetes: Warum Betroffene oft mehr Mikronährstoffe brauchen - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3ZFZHRvU21TQnNlZlgtTGtyeTFRelFqY29TOGlLUmlBZWFPdWtyeVJ0RXlYVGdNQmlpQkpSOUg4YnVUUEd0d0ZVM3ZTTFo0WlptQXJ6Qk0zc3QtR3N3cy1QckVUR09FTVEzT3IxR2FXNFhRVW5zMEhTelA5Wk9GVFo0cHROOHZxYnBybGw3X0dLdlBXUDNCSHVmRWxveDhTUTV3U2FteVhNbzg5MXY0VTNVamJEbS03Mjh5RWZscFJIRUVNSXBQdVBQdm9qTVNRZmdJTEVPVnNSeFc3?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span>
@@ -86,27 +78,11 @@ permalink: /news/metformin/
 
 ---
 
-### [Diabetes vorbeugen: 30 Minuten Krafttraining senken Risiko um 42% - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
-
----
-
 ### [Diabetes-Forschung 2026: SGLT2-Hemmer senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
-
----
-
-### [Diabetes-Forschung: 16 Millionen Zellen offenbaren neue Immun-Marker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
 
 ---
 
@@ -123,22 +99,6 @@ permalink: /news/metformin/
 2026-07-06 <span class="news-indication-tag">diabete</span>
 
 來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
-
----
-
-### [Anyone taking omeprazole or metformin urged to look for key side effects - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2pEckJ4NjNEMEJsUThGTmdidXFWM3RuelpKc0xkWnVZWFBtb3RUaHdqZjR4Qm9hMS1pZDBXVWItc2Mwc2ZFckY5SU1uaVR1dVlrZkFFbF9WX0JESjVnVTFrbmFpV0ItYXUyUHRPc1FXS2FfeVZPNjFPT3hnZE54SGtUdHBxM2tEZk5nS3oya9IBlAFBVV95cUxNVVZFdUJlVUNENFJVbjhTMHFRbmt2Q2dfaGlKa2hON2lmVHIwOVc4R0djNWVZbGN3MDZUdGZpMVB3QzBHRGJSUlNGZFpTRFI3OGRSRGNsZDhqY0IxUmwxcVlXekp0TWpIRjZoNjEtWTExNDZ5cWFsUmFIT3JiOWc1QXJjWE5idWNlaVNMNl83U0lFcUQ3?oc=5)
-
-2026-07-06 <span class="news-drug-tag">Metformin</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2pEckJ4NjNEMEJsUThGTmdidXFWM3RuelpKc0xkWnVZWFBtb3RUaHdqZjR4Qm9hMS1pZDBXVWItc2Mwc2ZFckY5SU1uaVR1dVlrZkFFbF9WX0JESjVnVTFrbmFpV0ItYXUyUHRPc1FXS2FfeVZPNjFPT3hnZE54SGtUdHBxM2tEZk5nS3oya9IBlAFBVV95cUxNVVZFdUJlVUNENFJVbjhTMHFRbmt2Q2dfaGlKa2hON2lmVHIwOVc4R0djNWVZbGN3MDZUdGZpMVB3QzBHRGJSUlNGZFpTRFI3OGRSRGNsZDhqY0IxUmwxcVlXekp0TWpIRjZoNjEtWTExNDZ5cWFsUmFIT3JiOWc1QXJjWE5idWNlaVNMNl83U0lFcUQ3?oc=5)
-
----
-
-### [Ernährungstherapie: Medizinische Diät senkt Diabetes-Werte um 2% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/florbetaben-18f/
 
 ## 相關新聞（5 則）
 
+### [El CNIC descubre un nuevo mecanismo de la miocardiopatía hipertrófica y confirma la eficacia de mavacamten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
+
+---
+
 ### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
----
-
-### [Un estudio confirma la eficacia de un tratamiento de última generación contra la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Servimedia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPazFCdmJVMk1ySU4xa0w3QmJLemxsaWtpTmd5Z0Flck9BYVV0TEZ0M2tpYzFFMjB2NW82dzN6dGJSVVA5dE5zMWxXRmRwUklDUFRLSDFES08yMmt3WWV5RExFT3VvcEdBLXlRWE1sbG1NMXpOaUFfN3RkbVd1andxTXF6ZGxsTGx1TUxFQW9TRF9JWkp3bjlud2xvUllwbWZmbEsteWRkT2ZVeWVNUFhZM055VFNyRF9YQmxSelVZRHVoQml0SlhyUg?oc=5)
 
 ---
 

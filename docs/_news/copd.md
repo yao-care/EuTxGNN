@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。4 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>4 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,29 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
+
+2026-07-07
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
+
+---
+
+### [Un mayor consumo de vitamina K1 reduce un 16% el riesgo de EPOC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
+
+2026-07-07
+
+來源：[FreshPlaza](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
+
+---
 
 ### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 2026-07-07
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
----
-
-### [PPI und Demenzrisiko: Welche Ernährung, KI-Tools und Leitlinien jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
-
-2026-07-06
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
 
 ---
 

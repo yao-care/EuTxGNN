@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li>psoriasis（99.2%）</li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,21 +52,29 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
 
-2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
+2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
 
 ---
 
-### [Marie-Pierre St-Onge, profesora de medicina nutricional: “Dormir lo suficiente puede ayudar a reducir el riesgo de aumento de peso y afecciones relacionadas con la obesidad, como la diabetes” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+### [Un mayor consumo de vitamina K1 reduce un 16% el riesgo de EPOC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-07-07 <span class="news-indication-tag">EPOC</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
+來源：[FreshPlaza](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
+
+---
+
+### [Buscan un patrón proteico que pueda proporcionar pistas sobre la activación de la psoriasis - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNng2REk2TWF4clpZa3BtRjdkLVItR0p4TWVYaGtwd3ZtcGdxSERCSktudHVGUmgtemh1NjJ0cFB0M2hPZmFId2tad2R0TU4xQVRpbUVJMFl5aml1QXNIdXlsbkl4SEo4b2FWWmMwU0t1bmVGSDVUWjdhdm5SWDhlLTZmdGxiOHJHR2hyNDhwYUxGZjB0Z3cwUVpvck5Cb1JnN3lCZ3h5SUR6ZEFuRzJKb29VcDNxTFM0RV9uLUFsc9IBugFBVV95cUxQbHRvbURCZHFYdnZJaWp3UEZ5cS1QY0NBSGR0S2lLUDI2SFlWUzNEemVYUHQ1UnFOYjFOXzI2T1NkZ2JOZl9MQzVnSHpNcW1MLUdkV2dQbGU1X1JQYWJOQWdqUWNsWGpBWXA5SnZ4QXctM2hPRm5oVTVJdVVvVHZSekNJc0J6T0JWWkZFYWZfVUtIMjMxZEZCVFBxSk5IbFAyanBBYWN5V1BMUmlETy1PbHRmZHpOWTg2TFE?oc=5)
+
+2026-07-07 <span class="news-indication-tag">psoriasis</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNng2REk2TWF4clpZa3BtRjdkLVItR0p4TWVYaGtwd3ZtcGdxSERCSktudHVGUmgtemh1NjJ0cFB0M2hPZmFId2tad2R0TU4xQVRpbUVJMFl5aml1QXNIdXlsbkl4SEo4b2FWWmMwU0t1bmVGSDVUWjdhdm5SWDhlLTZmdGxiOHJHR2hyNDhwYUxGZjB0Z3cwUVpvck5Cb1JnN3lCZ3h5SUR6ZEFuRzJKb29VcDNxTFM0RV9uLUFsc9IBugFBVV95cUxQbHRvbURCZHFYdnZJaWp3UEZ5cS1QY0NBSGR0S2lLUDI2SFlWUzNEemVYUHQ1UnFOYjFOXzI2T1NkZ2JOZl9MQzVnSHpNcW1MLUdkV2dQbGU1X1JQYWJOQWdqUWNsWGpBWXA5SnZ4QXctM2hPRm5oVTVJdVVvVHZSekNJc0J6T0JWWkZFYWZfVUtIMjMxZEZCVFBxSk5IbFAyanBBYWN5V1BMUmlETy1PbHRmZHpOWTg2TFE?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 ---
 
@@ -94,35 +102,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Diabetes vorbeugen: 30 Minuten Krafttraining senken Risiko um 42% - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
-
----
-
 ### [Diabetes-Forschung 2026: SGLT2-Hemmer senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
-
----
-
-### [Diabetes-Forschung: 16 Millionen Zellen offenbaren neue Immun-Marker - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUXp1Y1J2V3J5T0JzRVVBaGdHb1V0d1ZLT3I2UWFiLW9DNjY2QU5TVjBmUFNzY0pXSzlEVlgwUUVZQ2ZyX3dBdElVaGNoTnctdVdnaHV6YTVEZlJVbFRWU0N6VDBubDBZc05VSl9KekpBT29xN2p0STltVmxySGNrMDBicEQ2blJqZkNFQUFoSzI1bHFVOHBZbG9DdThkR0ZPYW1RSHFXc1ltZlVtY1ltLW1FeTJHd1k?oc=5)
-
----
-
-### [PPI und Demenzrisiko: Welche Ernährung, KI-Tools und Leitlinien jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
 
 ---
 
@@ -147,14 +131,6 @@ permalink: /news/natalizumab/
 2026-07-06 <span class="news-indication-tag">diabete</span>
 
 來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
-
----
-
-### [Ernährungstherapie: Medizinische Diät senkt Diabetes-Werte um 2% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJGS09NYWpxSlZZSkh0aUY4ZngtdW82Y3I2TktZZkFsc2ZfN3V1Xy1kVWxRVWtNUERPcWpRaTQzUy1IUUpLb1poS2pHODA2MkRWVXZsMzBNeF9yWFRnaGR5MUxoWHc5aUNVSVl3WDdNd0kwZ1pVTFJEWFBsWlg3V0ZJQzN6M1ZzSkk3dUlLWmFKdlBjbmp6M1RHS1c5N2NpVXFWUXdyNVpnT0NtU0pXSDcwRnBLc2F3T2xrbjNB?oc=5)
 
 ---
 

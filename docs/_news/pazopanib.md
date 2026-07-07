@@ -14,7 +14,7 @@ permalink: /news/pazopanib/
 ---
 
 <p class="key-answer" data-question="Pazopanib 有什麼相關新聞？">
-<strong>Pazopanib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pazopanib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/pazopanib/
 <p><a href="{{ '/drugs/pazopanib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
@@ -62,19 +62,35 @@ permalink: /news/pazopanib/
 
 ---
 
-### [Langlebigkeit: 30 Minuten Training senken Krebs- und Herzrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
+### [Sant’Anna, rimossi due tumori del pancreas di grandi dimensioni](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd4WU9aMHBycWVIdW5LbU1Xa3djQjR4d2JWeG40dnlHU1NPSE1TQlAyY2UzN0dDU2oyYXhnUzFZa3B4NDkyR0p6QTA1VnRLdHJxVDFDdHZwZnBoU29YTFRLTHE5N2k1bUk5bzJQd0dhcjR5V0ljOWNETjMwNjBycElOSl83dmdoUXg2ckFoRU1vMU9zLTNNN0w3QmVrUDZn?oc=5)
 
-2026-07-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-07-07 <span class="news-indication-tag">tumor</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW1ELVdJd2Nobm9pSm1YOWZucms0TGZsOVRSWmpUcmd1RzJDUFZFMmZvX0lpcG5LS2R2cmNzWXZONVoxT25YZUgxdXVmRlZEbVNueW1tN1drcDN3dDVyQklYNWU3SjhybUpHd2RtbUl3d0ZuYWZaOWJQbWNOdE54cTV6NWZOd3VTVjJpbUN0bUtOMzVDWW1paDJwUGpjT3NJQUNSQXR1M3N3dkRJRmp4YkhCR1JpVWEzeHJr?oc=5)
+來源：[Estense.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd4WU9aMHBycWVIdW5LbU1Xa3djQjR4d2JWeG40dnlHU1NPSE1TQlAyY2UzN0dDU2oyYXhnUzFZa3B4NDkyR0p6QTA1VnRLdHJxVDFDdHZwZnBoU29YTFRLTHE5N2k1bUk5bzJQd0dhcjR5V0ljOWNETjMwNjBycElOSl83dmdoUXg2ckFoRU1vMU9zLTNNN0w3QmVrUDZn?oc=5)
 
 ---
 
-### [Descubren que un fármaco usado para el corazón podría frenar varios tipos de cáncer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0ZsVm45LVFtR2hPNzRzd19Fd1pyWVBob1NyRjJjcktzQndIcHc1LUNteURfaGo3OEN6MnlIWkZjM1hFX3dtR0o0bFhHZ19yNHBMV1VUMEY4WUZTUVZHMU44X0I0SWkzUkx1aElCTnhQQ0VKT0VPV3Y1azJiRWxEZlpRbnI0eWx6NUJVWmRZbTJpNGJ2azhKWnVjLTdPaVNUNzBQR25EYld3UEJPdnZaNGcwOXVjQUt4cjJwZUZNNTZuSjRYOGEwd0FXdHF1Z3Vjd1FCM3dibFktUHdSbnpn0gHfAUFVX3lxTE9TTnJnaW5UdkhEY2JhOHJINUFnT2FwNUdfbU5Sa2xnTGVpRWlyVjBQY3Y1TEd4M29fX2RqSmdxM3dqaWZvZWszeGN1dUNyX0xJUEdwMWQwT2V6Z1FfYV9vMGcyVXhwaEg3M3NwTDdwMEFIZXlFMmJCVHRhVDhxSlpzREZzQlFLZWVQVDI1cFA1U1B4SnNWaVIwQzJlZjZSYVFxblAyRnNneF9Da3JBYWwwaGx2cFNSRGdzU2d4UWVYOVlrYy1yMXFrTU1FdTM0ZHNZUHhtZ091blhlaVIwTVE?oc=5)
+### [Mum of 3 felt '9 months pregnant' - two doctors were 'shocked' when they examined her - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
 
-2026-07-06 <span class="news-indication-tag">cancer</span>
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[antena3.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0ZsVm45LVFtR2hPNzRzd19Fd1pyWVBob1NyRjJjcktzQndIcHc1LUNteURfaGo3OEN6MnlIWkZjM1hFX3dtR0o0bFhHZ19yNHBMV1VUMEY4WUZTUVZHMU44X0I0SWkzUkx1aElCTnhQQ0VKT0VPV3Y1azJiRWxEZlpRbnI0eWx6NUJVWmRZbTJpNGJ2azhKWnVjLTdPaVNUNzBQR25EYld3UEJPdnZaNGcwOXVjQUt4cjJwZUZNNTZuSjRYOGEwd0FXdHF1Z3Vjd1FCM3dibFktUHdSbnpn0gHfAUFVX3lxTE9TTnJnaW5UdkhEY2JhOHJINUFnT2FwNUdfbU5Sa2xnTGVpRWlyVjBQY3Y1TEd4M29fX2RqSmdxM3dqaWZvZWszeGN1dUNyX0xJUEdwMWQwT2V6Z1FfYV9vMGcyVXhwaEg3M3NwTDdwMEFIZXlFMmJCVHRhVDhxSlpzREZzQlFLZWVQVDI1cFA1U1B4SnNWaVIwQzJlZjZSYVFxblAyRnNneF9Da3JBYWwwaGx2cFNSRGdzU2d4UWVYOVlrYy1yMXFrTU1FdTM0ZHNZUHhtZ091blhlaVIwTVE?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
+
+---
+
+### [L’essor des « tan-lines » chez les ados : une pratique à risque pour la santé](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjNpRTQwTUZhUWo1T3B0NHVLZTJFTmhVYmNmS2Z6dzFOU1hPUkNHZTc1OFVxb1YtOGpWa2dxaHc0eDFyZTRfOVluU0NfZWhIWU1TZWpOU2hKMmctRVBsU0FPS0x0dnZPNTBJQ0g4bjFsNjVDRktid0ZFWnhaenZsQld1VmZCd1AxbUlzZFBxbkhOMV9NeFFQV01LQUYzYVpRS2JuQjJZVVlRY2liRkE0WFFoSVpUQnFGa3JhXw?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span>
+
+來源：[Soirmag](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjNpRTQwTUZhUWo1T3B0NHVLZTJFTmhVYmNmS2Z6dzFOU1hPUkNHZTc1OFVxb1YtOGpWa2dxaHc0eDFyZTRfOVluU0NfZWhIWU1TZWpOU2hKMmctRVBsU0FPS0x0dnZPNTBJQ0g4bjFsNjVDRktid0ZFWnhaenZsQld1VmZCd1AxbUlzZFBxbkhOMV9NeFFQV01LQUYzYVpRS2JuQjJZVVlRY2liRkE0WFFoSVpUQnFGa3JhXw?oc=5)
+
+---
+
+### [Cibi ultra processati da evitare a qualsiasi costo? Ecco perché potrebbe non essere una buona idea - la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHRiN2hxenNIUTl6SlR2b3Ayc2s3U2xLb1Nhd1BaN2syVVFOcXdZWXRuXzJiOFZjR0xsdGZBZzY4dUFxZTRtOFNYX3ZYb3RsZjVXTlFIbkJFekwtbnJyVW9qMEN5WXNwZjkxaGk5VnZ2eHF6Wmdqd01WQmx5VDU2cWVGelZuZ3A5a3otTHJzeWtyV1djZTBTbkh30gGfAUFVX3lxTE1CejlnSjZfRDJVekZrQXNwOHFLQVdhRERrVkY4YTNTMVROb3pMMktSOHB0TFRXTWlURk9kUVlVX3NiZmF4OXpORzd2YmtoTmNKaTJyeUVKREpmSE9vLU1nNEN6T2xmQzl3LUVTbkRYdmVMTEk0b2YwdldYV3BTbEJfUThlcVk1eWRJYUU2djNkeXlYdUN5TFJXZ3ZOZkZYcw?oc=5)
+
+2026-07-07 <span class="news-indication-tag">tumor</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHRiN2hxenNIUTl6SlR2b3Ayc2s3U2xLb1Nhd1BaN2syVVFOcXdZWXRuXzJiOFZjR0xsdGZBZzY4dUFxZTRtOFNYX3ZYb3RsZjVXTlFIbkJFekwtbnJyVW9qMEN5WXNwZjkxaGk5VnZ2eHF6Wmdqd01WQmx5VDU2cWVGelZuZ3A5a3otTHJzeWtyV1djZTBTbkh30gGfAUFVX3lxTE1CejlnSjZfRDJVekZrQXNwOHFLQVdhRERrVkY4YTNTMVROb3pMMktSOHB0TFRXTWlURk9kUVlVX3NiZmF4OXpORzd2YmtoTmNKaTJyeUVKREpmSE9vLU1nNEN6T2xmQzl3LUVTbkRYdmVMTEk0b2YwdldYV3BTbEJfUThlcVk1eWRJYUU2djNkeXlYdUN5TFJXZ3ZOZkZYcw?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ permalink: /news/pazopanib/
 
 ---
 
-### [CRIS Contra el Cáncer financia una nueva estrategia de terapias dirigidas frente al cáncer de ovario](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnNVUi1rNFMtelFyRTRBT3prQmtyeEY4SFpFQnZzY0hhSTBuSjFHZWRwd3A3SkNHOWdIVFRCVHIyUHpmNzAyRGVTM2VBSU9ZcnVycmF0SWxidXBnZU1SYVdJU3FsLUxnSElKdGNERzZjLVRGUkFlWl9qTzZVQWRWOWk2d2JlN3JsTFBTbHpvdEZFY0FycS1hbGo0WmJOb2VIcWpuOV9KR3VPOUZDeTdWYUpLSXNsbFJVSFpBbG16dHVSX2JYeWtKMWl4LU9wQ0FNbnRxZUsyai16VzllRHc?oc=5)
+### [CRIS Contra el Cáncer: nuevos 'fármacos inteligentes' abren una vía de esperanza contra el cáncer de ovario - Gaceta de salud](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTnJTV055T0hsVzJfNktxYVEzYlQ5VlhGVnFGUHJiWlg3NThKRmJxTW1TZUUydjU5Mm1LdmNuTDVmT041YTNsOWRpMVdub3RUamZOQ0NqSHY3ZWhnNzUzTGJwTWNDSExXaW9UVFZmUHEyU0F3bDhldEc1VWFFZzh6SVAyOWdvcmRjdmJ0eHE1V2k2c1U2Rm9NR0RIOHZOeTd3QnRISXIxWE52ZzVpTVdGZ29LUzdZckJVZEw1ZzJTdWpWYXY1YWtJZktqSVJNMEF5ZjJHR0VRYkFHRzl4U2VMWTdWeFp5VGd5QzBweExudkdjc2FiUmhDa0JQc2dZTkFKQ1AyYThyZXE?oc=5)
 
 2026-07-06 <span class="news-indication-tag">tumor</span>
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnNVUi1rNFMtelFyRTRBT3prQmtyeEY4SFpFQnZzY0hhSTBuSjFHZWRwd3A3SkNHOWdIVFRCVHIyUHpmNzAyRGVTM2VBSU9ZcnVycmF0SWxidXBnZU1SYVdJU3FsLUxnSElKdGNERzZjLVRGUkFlWl9qTzZVQWRWOWk2d2JlN3JsTFBTbHpvdEZFY0FycS1hbGo0WmJOb2VIcWpuOV9KR3VPOUZDeTdWYUpLSXNsbFJVSFpBbG16dHVSX2JYeWtKMWl4LU9wQ0FNbnRxZUsyai16VzllRHc?oc=5)
+來源：[Gaceta de salud](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNTnJTV055T0hsVzJfNktxYVEzYlQ5VlhGVnFGUHJiWlg3NThKRmJxTW1TZUUydjU5Mm1LdmNuTDVmT041YTNsOWRpMVdub3RUamZOQ0NqSHY3ZWhnNzUzTGJwTWNDSExXaW9UVFZmUHEyU0F3bDhldEc1VWFFZzh6SVAyOWdvcmRjdmJ0eHE1V2k2c1U2Rm9NR0RIOHZOeTd3QnRISXIxWE52ZzVpTVdGZ29LUzdZckJVZEw1ZzJTdWpWYXY1YWtJZktqSVJNMEF5ZjJHR0VRYkFHRzl4U2VMWTdWeFp5VGd5QzBweExudkdjc2FiUmhDa0JQc2dZTkFKQ1AyYThyZXE?oc=5)
 
 ---
 
@@ -115,14 +131,6 @@ permalink: /news/pazopanib/
 2026-07-06 <span class="news-indication-tag">tumor</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3pnOFR2QkVLYm0yZG1nVFNvUWRvbUNKcVlIQzVrbl9mb3ZiR0hzVnotbmsxZ3BPTmxoQTVkbGVTMjVXTU1WNG8xNTFxUzJoOUVMZWNZOXM1ai1TOUNPZjJwd01TOGlZR3RWX2p6V01wZmQ4N1hOaDhfbFhHSlJ2d2ZhY0lNUk83bDRCUFhGV09ERTdCbHBXa1VrMm5iNXQteDRkT095Y1Jrc1BkSUg3STN4TlNFQzN5QkdfOUdGQUFmX0RUdUlV0gHMAUFVX3lxTE9YaVNveVlTWm1rdml0TW9JT2kwdnI2aWpOWkpXMVRPSnV6VGZkY2lxX3lOLURPRm1OX0NqeUFESWFJdFQzZHV4eTQ1cVMtdE9aYnRHSWZKcjMycVZuTGdPZXVubmJyeVBQY2tOY2JwU1UtdHRKcUVPYmpiYXBKMl9UdHhTTXI3OHFZNGYtNzZaOWdHUHA4RmRESXlLTE9PYUNHdHlnWUhDeUx4Z3Zvb0xvRFU1U2dyWDFiaHo1Z0hmc2tCYllZS2QyRzV1RQ?oc=5)
-
----
-
-### [Majority of UK smokers wrongly believe vaping is as harmful as cigarettes, experts find - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
 
 ---
 

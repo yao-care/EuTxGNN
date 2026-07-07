@@ -54,11 +54,11 @@ permalink: /news/ceftolozane/
 
 ## 相關新聞（2 則）
 
-### [PPI und Demenzrisiko: Welche Ernährung, KI-Tools und Leitlinien jetzt zählen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
+### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
 
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0xpT0MwT2ZiUmUtMl93Y2dwU3pQSF9qWU4wRTJ2aUlxZm1POEwxYk9RNHZjQThlTjQ1NF9LRWxOWG1CQkhoQWdZWWpPaW52X0stQTJldkJjaC1KYTIyUUx5cElaMDNkOHlURXpMZ2lrc0tWZXFReTBldFgtcDluajJvNHViYXpWMm02YVZ3N3lRNjZHNzlRWWxfcmxTekNkcHdObzV6MmtpN3ps?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
 
 ---
 

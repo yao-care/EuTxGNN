@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [How to avoid dementia — what the science really says](https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5)
 
 2026-07-07
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5)
-
----
-
-### [Consumir cinco o más fármacos podría ralentizar la progresión del deterioro cognitivo leve hacia la enfermedad de Alzheimer - Actualidad CEU](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3UtR1U1VWZXQnpIbHVxMkdBNFZadU8xem5VYjJDc1VCMEJUQ2JtdUpRbVVkTEJ3SjdlMkwtN0IxNnRTWHhvazMyUHA2SUoydTU4SU1IVHQ1SmYzM01PcEFMT05QWTI3X3JLU0Fub2taUGE4VWhRUjlnUGpMdGhzbEtiZTVGa3VRdFpnQnNTNHZvS1MxTzdOX25xd3NRT1JQZG5wZklWZmN2Q0NaRmZIMDFkaFVBNXk0RGRwQWF0bjEwby1iUG5QNllfTE1oQlRtOG52YUZicnBvcjNRSmo1UTNnVXZ5QXZETDNrMEswcUtBalA2c1o4?oc=5)
-
-2026-07-07
-
-來源：[Actualidad CEU](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3UtR1U1VWZXQnpIbHVxMkdBNFZadU8xem5VYjJDc1VCMEJUQ2JtdUpRbVVkTEJ3SjdlMkwtN0IxNnRTWHhvazMyUHA2SUoydTU4SU1IVHQ1SmYzM01PcEFMT05QWTI3X3JLU0Fub2taUGE4VWhRUjlnUGpMdGhzbEtiZTVGa3VRdFpnQnNTNHZvS1MxTzdOX25xd3NRT1JQZG5wZklWZmN2Q0NaRmZIMDFkaFVBNXk0RGRwQWF0bjEwby1iUG5QNllfTE1oQlRtOG52YUZicnBvcjNRSmo1UTNnVXZ5QXZETDNrMEswcUtBalA2c1o4?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="Degarelix 有什麼相關新聞？">
-<strong>Degarelix</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Degarelix</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/degarelix/
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（27 則）
+
+### [La falta de sueño aumenta el riesgo de ganar peso](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
+
+2026-07-07 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[DW](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
+
+---
+
+### [Cholesterin, Entzündungen, Schlaf: Diese äfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYy1qdjlJM0xteUYzbmxBZEFCcnhFQzdubWM2MEVoakZrY0gxS0xUWGE1TmQyc3Q1RkZKQnJuT0VodXBlR2pNRVR1bi04R2M5YWRoWHYzMDBCb1l3dlZLa252TkdjXzNxY05nYVRqbUM1Y3pqbUlsZmZKX2lVWjFsUnBMT0R2bm1MUWpxYnRmTDhwd2ZzTVNLMFlZSlBSZzlIcE96NXB0a081MmlidDJMM0tVdnJlQU5ESTZv?oc=5)
+
+2026-07-07 <span class="news-indication-tag">AF</span>
+
+來源：[24vita](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYy1qdjlJM0xteUYzbmxBZEFCcnhFQzdubWM2MEVoakZrY0gxS0xUWGE1TmQyc3Q1RkZKQnJuT0VodXBlR2pNRVR1bi04R2M5YWRoWHYzMDBCb1l3dlZLa252TkdjXzNxY05nYVRqbUM1Y3pqbUlsZmZKX2lVWjFsUnBMT0R2bm1MUWpxYnRmTDhwd2ZzTVNLMFlZSlBSZzlIcE96NXB0a081MmlidDJMM0tVdnJlQU5ESTZv?oc=5)
+
+---
+
+### [Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’ - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
+
+---
+
+### [ADHS: Wirkstoffe aus Kaffee & Tee können helfen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXBWU3VXOHV5djFwM1ZDUktZbFdFVW45bEVLaC1sdGVjb1Jqa29HSU03LVBoNnlxMW9hbTVJMDlGQnhYSHk1RldqbkRWSGZ1NTB1UklpSXVZbE9hQkFjNDk0X1ZyZnBHTXJmS2FTRjFTeENHZnZXYlY5Y3NxMElEX2JmOVhpdWFBSXJsOW9VWFdhSi1jMUlCRzhrZXg1SU10MUcteE5wX0xiUQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXBWU3VXOHV5djFwM1ZDUktZbFdFVW45bEVLaC1sdGVjb1Jqa29HSU03LVBoNnlxMW9hbTVJMDlGQnhYSHk1RldqbkRWSGZ1NTB1UklpSXVZbE9hQkFjNDk0X1ZyZnBHTXJmS2FTRjFTeENHZnZXYlY5Y3NxMElEX2JmOVhpdWFBSXJsOW9VWFdhSi1jMUlCRzhrZXg1SU10MUcteE5wX0xiUQ?oc=5)
+
+---
 
 ### [Child put through six rounds of chemotherapy after misdiagnosis - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXVWaVRWdWRNUnlWOUtCSUhhUnBBMDE1UW5RSXVxNnNDRGVyM1BFWHVmYl8tQTVGU01SenpWalRDOE1nd1VtT1picTdaSjh2eG5OanNBeFI0eFplcDQ4MDFPdWVHRlFGOU9qMWtxYjRrWlFWMXFGbTFCODRQTVV4VktnbzdqNHNoWVl2R3lNQjBSRHN6YVduZzZfWDg3cVV3TWc?oc=5)
 
@@ -86,27 +118,19 @@ permalink: /news/degarelix/
 
 ---
 
-### [Marie-Pierre St-Onge, profesora de medicina nutricional: “Dormir lo suficiente puede ayudar a reducir el riesgo de aumento de peso y afecciones relacionadas con la obesidad, como la diabetes” - La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbFY4dGNqV1pWTHhWd08zaGg2aEktOWI0S0dTaXJMYWVpR2FCeXFkRVZaaHlVVk5RSkFRWHFqV0h1aGktZkVBWVZMMVZ4Zm01blUwZG9OdWNldFROVXhUWVM3S05UMnJVUWUyQUJSOVFwcUwtZlpjc0k4MUlCUERMc0ViTi1kUUR5bTdhUmRkaFFBNnRBaGVxeW9tOXcza2RTaFJoczNzU3RCNU15YnNxNjlXWi15T1lTM0lOUWVtWVAzLUl1S2N0VTd0c2NNSkFUdnN0NkE2MV9DOWZCSWhONnpzSEJCRW1ZUHV6X24xcklLNURqVU02cmNpWUQxU1JYTU5WRVo2ZXQwSWpDUjZ6ajV2N1NvWTJzY0poam4xc3FPRGc5MnVXVThLNkp6TlNWa2NWeUtkWS1HYzE1dmZYbXMxZ9IByAJBVV95cUxOTlJ6dGZYaUVHUU5HR0FBSUszWEhydWNKaU90M1N2NmFuWndJdFFpR3J3NkxKdjdGS2tMRU9YMmVBVkVhbG12d2EteVBaTkxiVk56WTJpdUVUMm5MTDBoTmtEV0xET01MUnAwSmxJeVpEUjdyb3p3T1Zkano1LW11cE9DTW1NWWE0bGZHUWpmcXBBR1ZtTzRUam5Vb2RGUVRUWk1mSEFrRHBJdUJVUzhETWE2aHZ2a1FjVF9XOUtvUTRZbDdIazlOcUFjQ2dNc0lldFkxUWhpakUzNGYyY1VvaXRpRzMyWmR0cHd5Uk91T2lDbmZxTUNpV3VSTUQyLVJuenhKQUFuZlRIdEZ5b0NGUWVLYk9HNGk1aFV0Y3FUTUxDdElHTGdlQ1hYckY0M2dJb2c1Tkw0dnM4aFp4R1hpR2R1d3ktdWxY?oc=5)
-
----
-
-### [Cholesterin, Entzündungen, Schlaf: Diese äfte können wirklich helfen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTF5MjNDTTR5Z005cmtubzNQZkNscWJTV2NVRWZSQk1JRDFGWGZTdnQxNERlWUZMa2ZfdWlVZVRGMG04NENxVGJmWkRRcVdfVXhBQ1JvV0VLNGRHTXFKTllNdlU0VHZhdDQzVUpaR2NwcU81cEdYOEFHS3Fiem42SWwxUlU3TDVIY0pVWlg1RG5NYVRkcWwwZlE1N255Y2d4cUZRZGZvbERONkd0TWFBbU91a0FiUUxpV2gw?oc=5)
-
-2026-07-07 <span class="news-indication-tag">AF</span>
-
-來源：[24vita](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTF5MjNDTTR5Z005cmtubzNQZkNscWJTV2NVRWZSQk1JRDFGWGZTdnQxNERlWUZMa2ZfdWlVZVRGMG04NENxVGJmWkRRcVdfVXhBQ1JvV0VLNGRHTXFKTllNdlU0VHZhdDQzVUpaR2NwcU81cEdYOEFHS3Fiem42SWwxUlU3TDVIY0pVWlg1RG5NYVRkcWwwZlE1N255Y2d4cUZRZGZvbERONkd0TWFBbU91a0FiUUxpV2gw?oc=5)
-
----
-
 ### [B-Zell-Lymphom: Ursache für schwere K... - 07.07.2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTZEN0NEZlN0ZnhBY2JDU2Jqb0JUWS1ObkJCdDNHYnE5VlhxV3MxZWtsaE4yV2ozREZZRkx5OVdMWS1vdWMxbXJMSVAzODhSeXY3Q195V1AySTVqSURMUDltUlgyR0VvZVdXaVJBNDNpanBjdS1LaU5OODZWX0JFRVk2RmdiN1RrODhRb3pVQ3d3RHJ3V2RNR1I3bw?oc=5)
 
 2026-07-07 <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTZEN0NEZlN0ZnhBY2JDU2Jqb0JUWS1ObkJCdDNHYnE5VlhxV3MxZWtsaE4yV2ozREZZRkx5OVdMWS1vdWMxbXJMSVAzODhSeXY3Q195V1AySTVqSURMUDltUlgyR0VvZVdXaVJBNDNpanBjdS1LaU5OODZWX0JFRVk2RmdiN1RrODhRb3pVQ3d3RHJ3V2RNR1I3bw?oc=5)
+
+---
+
+### [Mum of 3 felt '9 months pregnant' - two doctors were 'shocked' when they examined her - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
 
 ---
 
@@ -118,6 +142,14 @@ permalink: /news/degarelix/
 
 ---
 
+### [Richiami di hummus oltre a carciofi sott’olio e formaggi cremosi, i lotti da evitare](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEFhQ2F6Ry1kdERpVXQ4T1dreUdRTlZNX3Nyc0JXb0JEUmRiU3VZbUtyZzI0czRUbmwxakFhaFpMd1p5bHVqUmlUaGlQek1kTUdFUG45WTBVRVowcXBMaWhxUXFuQ0pjRXFWUTNIMTVIeUhoNk9VMEhSQVNscHM4ZGk4eHZNLWlvd0l5UHRwWElsQXU5YldYNTJkZm8xTmZ6S2NObEdyYklxcE5PRTA00gG0AUFVX3lxTE9MU0ZZdHFDQktpd2RaaXFZVVdUS2hXeHJpQmpWWEFtdFVUVkw4VTBUd2RBMWJxM201aHVrUUtaM0lhMS04aFgxUmI1VzUzNlVQVHFJWHZnLWZFMW1fbUs0Y1JPak9WRDZPSW8wYm92c05BWEp1ZTI4bmVQaU9LLTQ1OGJadW5UUHJ5cEdMQkRiMjZlT0Z2SE96ZmF2V3NnVWZ0Qk9xN0NiTGpFOW5MNEJDLUlfMg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">AF</span>
+
+來源：[QuiFinanza](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEFhQ2F6Ry1kdERpVXQ4T1dreUdRTlZNX3Nyc0JXb0JEUmRiU3VZbUtyZzI0czRUbmwxakFhaFpMd1p5bHVqUmlUaGlQek1kTUdFUG45WTBVRVowcXBMaWhxUXFuQ0pjRXFWUTNIMTVIeUhoNk9VMEhSQVNscHM4ZGk4eHZNLWlvd0l5UHRwWElsQXU5YldYNTJkZm8xTmZ6S2NObEdyYklxcE5PRTA00gG0AUFVX3lxTE9MU0ZZdHFDQktpd2RaaXFZVVdUS2hXeHJpQmpWWEFtdFVUVkw4VTBUd2RBMWJxM201aHVrUUtaM0lhMS04aFgxUmI1VzUzNlVQVHFJWHZnLWZFMW1fbUs0Y1JPak9WRDZPSW8wYm92c05BWEp1ZTI4bmVQaU9LLTQ1OGJadW5UUHJ5cEdMQkRiMjZlT0Z2SE96ZmF2V3NnVWZ0Qk9xN0NiTGpFOW5MNEJDLUlfMg?oc=5)
+
+---
+
 ### [Ein Magnesiumbad für besseren Schlaf?](https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVNpNmpndmZrUVQ0cDV5YkNQZnpseTV0SDcwWkZTSHJPQW1LNGJ0eDFMVUJlbXVSQjJBal9OeDUyR1dnWWQ0QjdXUXFKbzkzUFJtXzRodjJEMWo1dHRhZi01cnRieDZSQXNscnk5ZGpaV2pTVWt5ZkZoRE5aZmxoaEswYXd0Zw?oc=5)
 
 2026-07-07 <span class="news-indication-tag">AF</span>
@@ -126,19 +158,11 @@ permalink: /news/degarelix/
 
 ---
 
-### [Diabetes vorbeugen: 30 Minuten Krafttraining senken Risiko um 42% - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
+### [Between the mid-teens and the mid-twenties, the human brain records an unusually rich collection of memories—not because it works better than before or after, but because life is packed with firsts that rarely happen again. - Space Daily](https://news.google.com/rss/articles/CBMivAJBVV95cUxOSWp0U1ZCdG50NVBJLUNQUkxkWng2MVkzbkhRQ0hFTmFGNV9RZHlDMEVUVTBWLVhuRmt6MnU1VXFGQjdieFIxUExUdVoxUHdYQzFZSUpWVWhOMzFINUxtRi1taXpQOGdvQ24yVXRpNmZBN0NwQnN4ODdQMVdYWHNkOEotSFJ0RnJjRzQ4Nl9zb1g2MmxUMDhSOWlEek5kZ3FxRUxOLUdJTnpjbzJ2Z3JLUUY5Y0xTWVVwZktMcHk5OEFiSVBsaHBXcU02TmdDVmJTZFhzZTZvaTc2aGVhQ1lDU1RnWlRpNjlBUlB1NDBDYXFnU1AzcEdKeGQ1dEdNQUxRSUVQaV9YakVKNVBhM2g3UVFSTTB0WU1TNmpxNnRLMy1ULU4xQUVCN0hydHdFaWRXNy1tZjFGVVJ6REIx?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-07 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEctV1ZtY2tERmxJdXNKS056Uzgzb29IMFBqZ2daQUN3T3BhdGJTUTloLXNHMHdvblJLRWFTT0pTd3ZDZ1Y1ajUxYXIxZGE2WWwyWnVCQnhwb0RIQWpMNDlPTl9GdkJMTlpXU1YtcUlEU0tUTU9KZjVrTTFPUlJBTGUzdTE4SEZ4RjZMd2RtNTlhMnJFRnlueUpVVQ?oc=5)
-
----
-
-### [Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’ - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3VYYks2TXFWTWw4SkcyV3RLOEdpbEo0RFI2czhrV2lIMjJTOWNkQTFzb2JHel9ndldHOXd6ZEg2TU5DWUItRFFlZy1xNnV3dFpNT2t2eU9QRUhfQkYyM0RQT2g3ZExxREwyaFJtZ2xuX28xdHFheDJHMTA0WDFyZDRoanFKSkFleFJZWVpzeW1sdlBlUUNjcjRBNnhHODc1anZoLWZVcFRBVVlZS0V4Sg?oc=5)
+來源：[Space Daily](https://news.google.com/rss/articles/CBMivAJBVV95cUxOSWp0U1ZCdG50NVBJLUNQUkxkWng2MVkzbkhRQ0hFTmFGNV9RZHlDMEVUVTBWLVhuRmt6MnU1VXFGQjdieFIxUExUdVoxUHdYQzFZSUpWVWhOMzFINUxtRi1taXpQOGdvQ24yVXRpNmZBN0NwQnN4ODdQMVdYWHNkOEotSFJ0RnJjRzQ4Nl9zb1g2MmxUMDhSOWlEek5kZ3FxRUxOLUdJTnpjbzJ2Z3JLUUY5Y0xTWVVwZktMcHk5OEFiSVBsaHBXcU02TmdDVmJTZFhzZTZvaTc2aGVhQ1lDU1RnWlRpNjlBUlB1NDBDYXFnU1AzcEdKeGQ1dEdNQUxRSUVQaV9YakVKNVBhM2g3UVFSTTB0WU1TNmpxNnRLMy1ULU4xQUVCN0hydHdFaWRXNy1tZjFGVVJ6REIx?oc=5)
 
 ---
 
@@ -243,38 +267,6 @@ permalink: /news/degarelix/
 2026-07-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
-
----
-
-### [Koffein und L-Theanin: Alternative zu ADHS-Medikamenten wirkt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPandMM2ItRnExbVl4YlpScnZGN2NXUVUzdl9PRXdYc0MzR3RHUms5aWxHYnlyd25aNlFVNWtaQzJoSldlM3pWZWhCZDhoTWwzelZ5VEYyenUtM01HMEVUUlZOS1J1TjNiOHlGY0JTdUhYNzRiZC1CMUpqTVRDbVFYTTEzRXlwOTZlbjlyVEZaZlJSMklRZ0VGQ2daSjNUU1VkNWplRXdhbmV4bEpKSGc?oc=5)
-
-2026-07-05 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPandMM2ItRnExbVl4YlpScnZGN2NXUVUzdl9PRXdYc0MzR3RHUms5aWxHYnlyd25aNlFVNWtaQzJoSldlM3pWZWhCZDhoTWwzelZ5VEYyenUtM01HMEVUUlZOS1J1TjNiOHlGY0JTdUhYNzRiZC1CMUpqTVRDbVFYTTEzRXlwOTZlbjlyVEZaZlJSMklRZ0VGQ2daSjNUU1VkNWplRXdhbmV4bEpKSGc?oc=5)
-
----
-
-### [El intestino, ¿"un segundo cerebro"? Así puede influir la microbiota en nuestro estado de ánimo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHZZY25rQ25yelpWUC03bW9hcHhMeWVnOVlLckZzZFZ6ZWtSV1V5a2U3bnU5VjJxelp4Um9BMHBEdjBKX2J1UzE0cGptaU9HeFVPZmR6dTlqbXZWWi1QM01QbFd3Nk5Zb2RrdzVYeE9KSXF3dXdYdkNkWnhmRFhNQkVSTVhLSTY4S1dyTUN1aks0ZnBINFB1eVBfMy0yRnRyQkxISzZiYTBFOFNDdTJKczhqbmVxQdIBuwFBVV95cUxNWGxRTzB5SHJONUlYMXA5OUVGdjZQMnV5REZudVA3cHNzNy1LRTZNaS1MZC1uZ0w3S3piUm1iSlNabkc4ekp2QkJNVlY2aUR6TmFzMWVJME1rZWs1RTFYQVhweHIyQkkwQkw1X1M4QUU3T1otOExYX1ZILVJoWWN1OXFGbDVETVNjcno1U2ZzQk0tTXRBYklnRU9lRFEyMnhBcUVJQnRUZVo5Ukt4WVlvRXlYaVVKeVJlbW1J?oc=5)
-
-2026-07-05 <span class="news-indication-tag">AF</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHZZY25rQ25yelpWUC03bW9hcHhMeWVnOVlLckZzZFZ6ZWtSV1V5a2U3bnU5VjJxelp4Um9BMHBEdjBKX2J1UzE0cGptaU9HeFVPZmR6dTlqbXZWWi1QM01QbFd3Nk5Zb2RrdzVYeE9KSXF3dXdYdkNkWnhmRFhNQkVSTVhLSTY4S1dyTUN1aks0ZnBINFB1eVBfMy0yRnRyQkxISzZiYTBFOFNDdTJKczhqbmVxQdIBuwFBVV95cUxNWGxRTzB5SHJONUlYMXA5OUVGdjZQMnV5REZudVA3cHNzNy1LRTZNaS1MZC1uZ0w3S3piUm1iSlNabkc4ekp2QkJNVlY2aUR6TmFzMWVJME1rZWs1RTFYQVhweHIyQkkwQkw1X1M4QUU3T1otOExYX1ZILVJoWWN1OXFGbDVETVNjcno1U2ZzQk0tTXRBYklnRU9lRFEyMnhBcUVJQnRUZVo5Ukt4WVlvRXlYaVVKeVJlbW1J?oc=5)
-
----
-
-### [La gravidanza gemellare che ha svelato la malattia nascosta: «Senza quei controlli non sarei qui» - Il Mattino](https://news.google.com/rss/articles/CBMipAFBVV95cUxOV25fX3Vwa2lLc2x1ZVA3ekRxblRzR0tmc0tSenRmQlpXZXNIOHFGRHlTRElqaVNYS1dSNXNLU1JjQnRRUFNQZTRSVXMtOTJHTEFIQlpVajBYaTV2YW5sWVRXdE9ycmUySVZNdm5DYlYwRnM0UUZmdkpQNFhScFpITHVXYUNaZkNkeUM0c05ZRk0temp1dTRWVG5lOVJpMno1NmZ0Z9IBnwFBVV95cUxNczhFU2ZvU2V2RW1XcDNsZDhuenQ0X0M1RU9LMXFNRWJSb0hYTEE4NUNHZlNJY3NhaDlmZ0JwTnJ5TWxEVWZ0bVllWV9yejdCbERfaGpDY1N1bTdnaUdicUl4a2Z6YmJSaElpcDVPS2o4V3A0Q2dXcHI5OGNYOXZ5WmdmaU9wRDFiajdIajBQelV0SzIwX0JPMm5rZy1XaWM?oc=5)
-
-2026-07-05 <span class="news-indication-tag">AF</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMipAFBVV95cUxOV25fX3Vwa2lLc2x1ZVA3ekRxblRzR0tmc0tSenRmQlpXZXNIOHFGRHlTRElqaVNYS1dSNXNLU1JjQnRRUFNQZTRSVXMtOTJHTEFIQlpVajBYaTV2YW5sWVRXdE9ycmUySVZNdm5DYlYwRnM0UUZmdkpQNFhScFpITHVXYUNaZkNkeUM0c05ZRk0temp1dTRWVG5lOVJpMno1NmZ0Z9IBnwFBVV95cUxNczhFU2ZvU2V2RW1XcDNsZDhuenQ0X0M1RU9LMXFNRWJSb0hYTEE4NUNHZlNJY3NhaDlmZ0JwTnJ5TWxEVWZ0bVllWV9yejdCbERfaGpDY1N1bTdnaUdicUl4a2Z6YmJSaElpcDVPS2o4V3A0Q2dXcHI5OGNYOXZ5WmdmaU9wRDFiajdIajBQelV0SzIwX0JPMm5rZy1XaWM?oc=5)
-
----
-
-### [Majority of UK smokers wrongly believe vaping is as harmful as cigarettes, experts find - The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
-
-2026-07-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWxzQWhGSU5uazBlZlV2NXRXWTluLXpmRkdrSjNFZkNSOEtIbTItcGlzNktLT2ZQRXVvMWVoNTRxUm5VX2duUkZISjhOY19WTTRHYlUxU1N0RS1EUmRmbHlGX0FHd2cxT1dkWmxUQ09LeUtFNEZlbldGaXpaRjdYeVI3eHlzRXd0cDNVTlh0ekgwanI1M1JKOTVmMjc2dm43bVhmNHBWSXV5NjVuLUFYSU5IejZycThITkhEbFB1N1JDTnctUm1saE9QbDh0a2c?oc=5)
 
 ---
 
