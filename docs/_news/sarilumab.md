@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Esta terapia prohibida en España desarma la enfermedad de Crohn sin dañar la microbiota](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmlROWpseDhQRWt2bWQtajlUaHV3TG5YaGFvVVNJb0ltbGVqaTZBb0g0M1BFelhYVXhhdG1mTVViZWJLbVR3emt2eXRMMnhtdWZ3QllrNDY3ZDdBMHBYR3hfSHNEbUhnTXFaMmg5eTNyRmExdU55ai12aXRtN1d5SGVkcGxxUkVIaGZXRVpaRlVMdjJfWVpsOTctb0RSZE1CVXJNdElR0gGrAUFVX3lxTE1LWkJmcURFYkxnbUtESC1JeVd0T2wwYkZQMGlKUF9CUDVpRTlNU0o5MDNDV0xBT3hNaVNZWTh3em1FM3dDUkNXU1JXWlJYZ0ZWazh0b3BseXBaWDBJcVY2djE0RFhVdUEtM1g3YUt0SXU5ZWhqcnYzSl9yT0FsZVhjeGNqLTdEcFB5Vm1MUTVaUFNidUhwdTU0c09STUFrTTNLbm1qOS11b3l2OA?oc=5)
+
+2026-07-08 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmlROWpseDhQRWt2bWQtajlUaHV3TG5YaGFvVVNJb0ltbGVqaTZBb0g0M1BFelhYVXhhdG1mTVViZWJLbVR3emt2eXRMMnhtdWZ3QllrNDY3ZDdBMHBYR3hfSHNEbUhnTXFaMmg5eTNyRmExdU55ai12aXRtN1d5SGVkcGxxUkVIaGZXRVpaRlVMdjJfWVpsOTctb0RSZE1CVXJNdElR0gGrAUFVX3lxTE1LWkJmcURFYkxnbUtESC1JeVd0T2wwYkZQMGlKUF9CUDVpRTlNU0o5MDNDV0xBT3hNaVNZWTh3em1FM3dDUkNXU1JXWlJYZ0ZWazh0b3BseXBaWDBJcVY2djE0RFhVdUEtM1g3YUt0SXU5ZWhqcnYzSl9yT0FsZVhjeGNqLTdEcFB5Vm1MUTVaUFNidUhwdTU0c09STUFrTTNLbm1qOS11b3l2OA?oc=5)
+
+---
+
+### [Morbus Crohn: Scheinfasten lindert Symptome bei zwei Dritteln - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWlLR1VtUjl2SlVnOEFCRzVIajNzbDByc1dUODV1QTFJN183YTlscHRxbUdMRmgzczc3TkU1ZFRLckEwY0tNVHBLUGxGbFNUWHRPX2NZNDFKUGNYaEY2emRmMGo4SUhvVnpkRkUyNURvNTFHczlMRklucGF5S2VnUzJMbl9LRkhSMU1lYTA2TzhRVEluRUo0aElTaVJGS1ltVGV2S0Q5Rk1QVjJXNHc?oc=5)
+
+2026-07-08 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWlLR1VtUjl2SlVnOEFCRzVIajNzbDByc1dUODV1QTFJN183YTlscHRxbUdMRmgzczc3TkU1ZFRLckEwY0tNVHBLUGxGbFNUWHRPX2NZNDFKUGNYaEY2emRmMGo4SUhvVnpkRkUyNURvNTFHczlMRklucGF5S2VnUzJMbl9LRkhSMU1lYTA2TzhRVEluRUo0aElTaVJGS1ltVGV2S0Q5Rk1QVjJXNHc?oc=5)
+
+---
 
 ### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
 
 2026-07-08 <span class="news-indication-tag">asthma</span>
 
 來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
-
----
-
-### [Scheinfasten und Darm-Immunologie: Neue Befunde zu Morbus Crohn - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
-
-2026-07-08 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Protonenpumpenhemmer: Studie warnt vor erhöhtem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
 
 2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
 
 ---
 

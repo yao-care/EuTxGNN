@@ -70,11 +70,11 @@ permalink: /news/budesonide/
 
 ---
 
-### [Protonenpumpenhemmer: Studie warnt vor erhöhtem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
 
 2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
 
 ---
 

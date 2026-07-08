@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [La suplementación con vitamina D tras un ictus puede suponer múltiples beneficios - El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQllDUllsOEl6cERNVXhRajBKUkxMbjZKN0ZGamItS0FPYWxNc1U4ZXpWaEJCUWV0c0t2SGUyRGNWUldualdjZXNfQ3Aza2U1dWNzaUYxcldBa3lYZjlQNlVfdUhPeXRxMm5pUkxNbHJ3QW5uc0Z4dm8zQllZWHl4UWdBSlBLc21lTU9fb29FYU84ejhXQUxIaDBINENmSlQtdk9GN1R1d2lEUm1OSC1BNmxMXzc?oc=5)
+### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras ictus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNYWUNiUHMxYmtZSG85MFFKeVFkalpLbEw4X2xQaTlEMkM3TjJaWXQ1ZGRjVWJBM1FOZzl1Y0NzWndiZk9PR29RbkllekNvd0hCNzBUbGhxQzUzbEVzckZid19HNTZ4S211WXV0NjFXY05NQWlOWHBBRzZBcUMxSXNaekxCRDhRaGZBLUVJVHNFa05ULTdmc1pzU1JJVHhJTm1vb3o2djM4dGZnYWRvTXBoMjJKZmxYM0h6VGd0aXo5TXhXU1k2bnExWWJJeUl4UDRv?oc=5)
 
 2026-07-08 <span class="news-indication-tag">ictus</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQllDUllsOEl6cERNVXhRajBKUkxMbjZKN0ZGamItS0FPYWxNc1U4ZXpWaEJCUWV0c0t2SGUyRGNWUldualdjZXNfQ3Aza2U1dWNzaUYxcldBa3lYZjlQNlVfdUhPeXRxMm5pUkxNbHJ3QW5uc0Z4dm8zQllZWHl4UWdBSlBLc21lTU9fb29FYU84ejhXQUxIaDBINENmSlQtdk9GN1R1d2lEUm1OSC1BNmxMXzc?oc=5)
+來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNYWUNiUHMxYmtZSG85MFFKeVFkalpLbEw4X2xQaTlEMkM3TjJaWXQ1ZGRjVWJBM1FOZzl1Y0NzWndiZk9PR29RbkllekNvd0hCNzBUbGhxQzUzbEVzckZid19HNTZ4S211WXV0NjFXY05NQWlOWHBBRzZBcUMxSXNaekxCRDhRaGZBLUVJVHNFa05ULTdmc1pzU1JJVHhJTm1vb3o2djM4dGZnYWRvTXBoMjJKZmxYM0h6VGd0aXo5TXhXU1k2bnExWWJJeUl4UDRv?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/telmisartan/
 2026-07-07 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
-
----
-
-### [5 'silent killer' blood pressure warning signs - 1 gets 'overlooked' - Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
-
-2026-07-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
 
 ---
 

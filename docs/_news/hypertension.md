@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [5 'silent killer' blood pressure warning signs - 1 gets 'overlooked' - Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
-
-2026-07-07
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
 

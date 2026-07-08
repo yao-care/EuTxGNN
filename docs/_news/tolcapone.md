@@ -54,11 +54,11 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（1 則）
 
-### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
+### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
-2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 ---
 
