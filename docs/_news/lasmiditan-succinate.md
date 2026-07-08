@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [La falta de sueño aumenta el riesgo de ganar peso](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
+### [Adipositas: 70–80 Prozent genetisch bedingt, nicht Willensschwäche - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3QxTUo2RERIY3RSSUh5bV8zanhaelRfZF9QNDdRWFJJejZwNE54M3psbERaRllpWkxIa0Q0WlRLaENOQVhzQ3dQZV9PRFVFMVhQTWxVcnFJeDR3SjlCeUh6eGF2YjJMY295WjVZZzNrZXIwQmJYUExhMF9ob2E0NlhUaUhvZS1OVnJNTFFKZmJTUW1RQjhzbnM5enJHMzdfbFdQZ05RWUtfUHBsSnJ2bURrVnc?oc=5)
 
-2026-07-07 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-07-08 <span class="news-indication-tag">Adipositas</span>
 
-來源：[DW.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3QxTUo2RERIY3RSSUh5bV8zanhaelRfZF9QNDdRWFJJejZwNE54M3psbERaRllpWkxIa0Q0WlRLaENOQVhzQ3dQZV9PRFVFMVhQTWxVcnFJeDR3SjlCeUh6eGF2YjJMY295WjVZZzNrZXIwQmJYUExhMF9ob2E0NlhUaUhvZS1OVnJNTFFKZmJTUW1RQjhzbnM5enJHMzdfbFdQZ05RWUtfUHBsSnJ2bURrVnc?oc=5)
+
+---
+
+### [La obesidad se hereda: cómo los genes determinan la relación con la comida - EL PAÍS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUVUSEdyc1hpOVEwMmg3YURLVlplTUR3WTNHVXZpVUU0OTJwU1hidm1oa3pCTEVBVlNlb0tycWEwRmtSX2V6dVlydHZQbEhHa0lRanNFVXhaTEtNV3loVk5sWXIxUjhzdUtWbU5oMlp0MGdPVjlfVHVkcW45cDdvVWRrZlVUdXZocGxsREUwQkYxUlJvaGROWlNhZzBkcWNjblFzMlg2TG01MlVNQ1l4bWxEczJMOGZ6SmFtaE5sWW0xUmJl0gHYAUFVX3lxTFBPRms5b2VlZ1FOQ0VESlRYcGNfeVZjZ3l2dktwZS1ockZzU1JrelZOdUJJekhJbkdwZkg3dkNiQXl6bFpVUGQ0cmJteUtxMzFsSHRDV3k2b3k1NTFSM0lKenRrVVFBb1hvNmIxUjFlbUVaREIwaG9GYTFTVEJYLXVmTFhqZ05MSDdPVEJIRUNUR1JoS3M1TU1zZkU3d2lmRGtFbmw3N3I4VTAxYmVRUElZeUxFalhxZHBQTEdLZVh3ajdDYmJSVDRlMkstb3M0ZElGQUQ3TDRhSQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">obesidad</span>
+
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUVUSEdyc1hpOVEwMmg3YURLVlplTUR3WTNHVXZpVUU0OTJwU1hidm1oa3pCTEVBVlNlb0tycWEwRmtSX2V6dVlydHZQbEhHa0lRanNFVXhaTEtNV3loVk5sWXIxUjhzdUtWbU5oMlp0MGdPVjlfVHVkcW45cDdvVWRrZlVUdXZocGxsREUwQkYxUlJvaGROWlNhZzBkcWNjblFzMlg2TG01MlVNQ1l4bWxEczJMOGZ6SmFtaE5sWW0xUmJl0gHYAUFVX3lxTFBPRms5b2VlZ1FOQ0VESlRYcGNfeVZjZ3l2dktwZS1ockZzU1JrelZOdUJJekhJbkdwZkg3dkNiQXl6bFpVUGQ0cmJteUtxMzFsSHRDV3k2b3k1NTFSM0lKenRrVVFBb1hvNmIxUjFlbUVaREIwaG9GYTFTVEJYLXVmTFhqZ05MSDdPVEJIRUNUR1JoS3M1TU1zZkU3d2lmRGtFbmw3N3I4VTAxYmVRUElZeUxFalhxZHBQTEdLZVh3ajdDYmJSVDRlMkstb3M0ZElGQUQ3TDRhSQ?oc=5)
+
+---
+
+### [Descubren un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de padecer diabetes](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeThBZUluQWE0cW5ZdjVZTV9ERjZHTXBaeDBHc1EteFBaVE9TS1NWeE9HVHFGa0xoelNKSzlyNC1wWXFTcjdmcXdfNVVzZE92R0FYTHY3XzJ2dmdMWVpFWUdpQXVhMWdmbGY2QkV1Um12OHpfY0dLMFZsYzJoUm1BcWlubG1lRWlqVGJlckpTSERWUklOWXlOZFAweVdVcXJDOUZQRFR0TUNlNHZPTm9Zc3RKZTRsa0xWa3ZRZC1qc2piRFZST2p2MzNVY2FZZWZKd2owNVNEYjBHYV9YU2xBVUVaVWhCb1dLUm5Wc1lwSVlMS0xEem10SQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeThBZUluQWE0cW5ZdjVZTV9ERjZHTXBaeDBHc1EteFBaVE9TS1NWeE9HVHFGa0xoelNKSzlyNC1wWXFTcjdmcXdfNVVzZE92R0FYTHY3XzJ2dmdMWVpFWUdpQXVhMWdmbGY2QkV1Um12OHpfY0dLMFZsYzJoUm1BcWlubG1lRWlqVGJlckpTSERWUklOWXlOZFAweVdVcXJDOUZQRFR0TUNlNHZPTm9Zc3RKZTRsa0xWa3ZRZC1qc2piRFZST2p2MzNVY2FZZWZKd2owNVNEYjBHYV9YU2xBVUVaVWhCb1dLUm5Wc1lwSVlMS0xEem10SQ?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/lasmiditan-succinate/
 2026-07-06 <span class="news-indication-tag">Migräne</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
-
----
-
-### [Hypothalamische Adipositas: Oft übersehen, schwer behandelbar](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
-
-2026-07-06 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5iZ19xTXdJaWtGYzdCTXVWSFdIRC1CVEtZakUyN0R5bnpLZHFBMU04dlIyeFhxeFVzRXc5ak04endqelMwdi04NzFudHBGZ0ZWQVpoZzN4VTd1aVNJOWQ5QUdCc3hDY2xyRG9KSEpaX0I0bG5nbEdXUm9adXJtbmUzQXpadnh1MjdTUVB3SFhhcWdDdG5iWk1vRkxMQnE5am8yeGJtbw?oc=5)
 
 ---
 

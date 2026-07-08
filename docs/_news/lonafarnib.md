@@ -70,6 +70,14 @@ permalink: /news/lonafarnib/
 
 ---
 
+### [5 'silent killer' blood pressure warning signs - 1 gets 'overlooked' - Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
+
+2026-07-07 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
+
+---
+
 ### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
@@ -83,14 +91,6 @@ permalink: /news/lonafarnib/
 2026-07-06 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
----
-
-### [I'm a GP — here's how to avoid 'silent killer' high blood pressure - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
-
-2026-07-06 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNclFjWHRaZS01WVROV1R6QmJJNjVBQ2t2NlBsZjVYajdmVTUtWWh5eGVQZ2hRaXZsZ0Y0M1NkcGhmZ2dWQmR5a0NlWUJPTWRRWUhpZWlqQTMyaDFMZWx0Z1lBRERyX015UlFjaU1aZVRONFdTRmprSGFxaHBmTDh1NW9ia1R1VWVRYWpnbEVjWlpvUkJpNEHSAZsBQVVfeXFMUGJkME1zbE8telJKZDNDaXZlc0ZtLXZoQTRWTjM3UDJYU2ZRLUx6NjNOLXFOeEVqaHNESF90RFZIT1lJWWRWY3JUbko1dU04VElJWFJ0RjNxLWpOSmFIMUl4WWcwSFlMazdSOFc0MmZjeFhVVTI5bjRQdk11ZTNWUkNKUWxYNDFoMWRUM1hjRDhWRzAzbGdiTnRCZDg?oc=5)
 
 ---
 

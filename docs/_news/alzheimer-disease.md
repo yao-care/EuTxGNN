@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,19 +44,11 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Scientists Think They've Finally Identified How Alzheimer's Kills Brain Cells](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWwzTVdpcEppM1YwM3FKcjRJemFLdTU1M2VvbDEyVjl0UFAzTmhkVC1LNzMxUm5YdWxfUUJFcWhDbElqNGllLXBEdnQ1X1RRckhrXzFHYVEzVzhySmdXNTZINHhPaVE4R2QycS1TM0h4ekhMUzU5Ykw5Xy1WM200aEFqdFF6ZzVCSk9KNzZmZFBGQktrQllyYVVhQVlLSnJ5R1JLeGI3MA?oc=5)
-
-2026-07-07
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWwzTVdpcEppM1YwM3FKcjRJemFLdTU1M2VvbDEyVjl0UFAzTmhkVC1LNzMxUm5YdWxfUUJFcWhDbElqNGllLXBEdnQ1X1RRckhrXzFHYVEzVzhySmdXNTZINHhPaVE4R2QycS1TM0h4ekhMUzU5Ykw5Xy1WM200aEFqdFF6ZzVCSk9KNzZmZFBGQktrQllyYVVhQVlLSnJ5R1JLeGI3MA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
-2026-07-07
+2026-07-08
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 

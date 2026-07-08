@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Morbus Crohn: Fasten lindert Symptome bei zwei Dritteln der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnE1TDBqOUIxMi04Z3l4OWVoZUtqcVBRM1NpdnpYZk1mSWtwdkY4OVQ4UTQ2N2dnQW9ObUhKNTEybFE4SC0tdzY0cE14NDF3elp3WlhEdDJPSmVoaVVwN1Y4a0dmTTRTT1poNkI2emo5LVdrY2gxdmJCV3ZuWWsyS1pUa0VQa19FQXpZOWtfRUxZVjVrYkk4UjBoSmRhV2V3YTNVNkZzcnNfOFFwMjdBTnQ0UW5WUTRY?oc=5)
+### [Scheinfasten und Darm-Immunologie: Neue Befunde zu Morbus Crohn - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
 
-2026-07-07
+2026-07-08
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnE1TDBqOUIxMi04Z3l4OWVoZUtqcVBRM1NpdnpYZk1mSWtwdkY4OVQ4UTQ2N2dnQW9ObUhKNTEybFE4SC0tdzY0cE14NDF3elp3WlhEdDJPSmVoaVVwN1Y4a0dmTTRTT1poNkI2emo5LVdrY2gxdmJCV3ZuWWsyS1pUa0VQa19FQXpZOWtfRUxZVjVrYkk4UjBoSmRhV2V3YTNVNkZzcnNfOFFwMjdBTnQ0UW5WUTRY?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
 
 ---
 

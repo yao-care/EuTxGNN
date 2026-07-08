@@ -14,7 +14,7 @@ permalink: /news/sitagliptin/
 ---
 
 <p class="key-answer" data-question="Sitagliptin 有什麼相關新聞？">
-<strong>Sitagliptin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Sitagliptin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ permalink: /news/sitagliptin/
 <p><a href="{{ '/drugs/sitagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lST2oya3lWLXoyeXpCTXVxT2Qyd2pqdGpIY0pLYS1ldkNFMWJ1dlQyNHhyTEw3ZHFLX1R2NF9Dc2JVRk5XMEZJSksxLVlubmxYYVJyakFMWUZrdHNUWUJvMjVxYV9WVWhldHJYMlN5Vm9QRmtpV0E0R0IzYkNxLU9hZ3g1N0hXQWh2c1dIZnN1Y0hSTXBQaGJucS1zaGpHNlgtVzJvX3hJdXRhc0xNRkxobFdONXM?oc=5)
+### [Dormir menos de seis horas favorece el aumento de peso y la inactividad física - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lST2oya3lWLXoyeXpCTXVxT2Qyd2pqdGpIY0pLYS1ldkNFMWJ1dlQyNHhyTEw3ZHFLX1R2NF9Dc2JVRk5XMEZJSksxLVlubmxYYVJyakFMWUZrdHNUWUJvMjVxYV9WVWhldHJYMlN5Vm9QRmtpV0E0R0IzYkNxLU9hZ3g1N0hXQWh2c1dIZnN1Y0hSTXBQaGJucS1zaGpHNlgtVzJvX3hJdXRhc0xNRkxobFdONXM?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
+
+---
+
+### [SGLT2-Inhibitoren senken Alzheimer-Risiko: Evidenz erweitert das kardiometabolische Konzept - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlBKSkI3bldRTUFXNldXR1BiMVBfM2ctQmRRbG1BeTA3Z1NvZjhWbnoxSHdmWlZlb2dXNVBnRmhiRmR2VXU0S21qTzJTOUZDWEJBY3AzZURQcjdwdUJKZDZPTVlsOXB6dkl2c2NxbXRfVDVFLWJUejEzTDZJSDFFLUNWcko1MFNHWlpuWGtVVmlBdkdPanZLWVh2WlRaOFJSdWxfN0xQWXVaekZfMEVaNmNxWU1Scl8xVTdPYlpzNA?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlBKSkI3bldRTUFXNldXR1BiMVBfM2ctQmRRbG1BeTA3Z1NvZjhWbnoxSHdmWlZlb2dXNVBnRmhiRmR2VXU0S21qTzJTOUZDWEJBY3AzZURQcjdwdUJKZDZPTVlsOXB6dkl2c2NxbXRfVDVFLWJUejEzTDZJSDFFLUNWcko1MFNHWlpuWGtVVmlBdkdPanZLWVh2WlRaOFJSdWxfN0xQWXVaekZfMEVaNmNxWU1Scl8xVTdPYlpzNA?oc=5)
+
+---
+
+### [Descubren un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de padecer diabetes](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeThBZUluQWE0cW5ZdjVZTV9ERjZHTXBaeDBHc1EteFBaVE9TS1NWeE9HVHFGa0xoelNKSzlyNC1wWXFTcjdmcXdfNVVzZE92R0FYTHY3XzJ2dmdMWVpFWUdpQXVhMWdmbGY2QkV1Um12OHpfY0dLMFZsYzJoUm1BcWlubG1lRWlqVGJlckpTSERWUklOWXlOZFAweVdVcXJDOUZQRFR0TUNlNHZPTm9Zc3RKZTRsa0xWa3ZRZC1qc2piRFZST2p2MzNVY2FZZWZKd2owNVNEYjBHYV9YU2xBVUVaVWhCb1dLUm5Wc1lwSVlMS0xEem10SQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeThBZUluQWE0cW5ZdjVZTV9ERjZHTXBaeDBHc1EteFBaVE9TS1NWeE9HVHFGa0xoelNKSzlyNC1wWXFTcjdmcXdfNVVzZE92R0FYTHY3XzJ2dmdMWVpFWUdpQXVhMWdmbGY2QkV1Um12OHpfY0dLMFZsYzJoUm1BcWlubG1lRWlqVGJlckpTSERWUklOWXlOZFAweVdVcXJDOUZQRFR0TUNlNHZPTm9Zc3RKZTRsa0xWa3ZRZC1qc2piRFZST2p2MzNVY2FZZWZKd2owNVNEYjBHYV9YU2xBVUVaVWhCb1dLUm5Wc1lwSVlMS0xEem10SQ?oc=5)
 
 ---
 
@@ -72,14 +88,6 @@ permalink: /news/sitagliptin/
 2026-07-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
-
----
-
-### [Nuove terapie contro il diabete 1, visita della rete internazionale Innodia al Policlinico di Messina](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
-
-2026-07-06 <span class="news-indication-tag">diabete</span>
-
-來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
 
 ---
 

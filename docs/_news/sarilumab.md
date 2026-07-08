@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Scheinfasten und Darm-Immunologie: Neue Befunde zu Morbus Crohn - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
+
+2026-07-08 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
+
+---
+
+### [Stimme als Frühwarner: KI erkennt Atemwegs-Schübe drei Tage voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
+
+2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
+
+---
+
+### [Protonenpumpenhemmer: Studie warnt vor erhöhtem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+
+2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+
+---
+
+### [EPOC: la enfermedad silenciosa que afecta a más de tres millones de españoles - La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmRmQXk4aE9jMVQ4X1RaSlZ4THgxczV4Uk85TGdJYjA5M0tBcndPR1ZaTHZLNTB1Uzk3NFJwb0NpbkQ5Rkd4R21icmJUX041eVhxanNUSjV2YkJ3cEo3Q0pIYjVBZ2VYRnQ3Qnp2UlZjVjJyYmZYVTNPa0dnMV9CZkJCNE1CZ3FpZVJwUmxqZ0MycGtfMlJxcWxzSVVlMGh4bDQ5ZW44TGlVV01yRUc0UTRNVjBkMnpJNTE2cjYzWdIBxAFBVV95cUxNeTZCUFhnY24tYUgxVkxRZlJVUW15T2lfU3R6U0ZQM1hGRkFpUFo2c0stbkVVY2hUY2U3SGdRNlBzTS1wR1RST1RzVy1obFlOdWJDNEN3WWFwZDMtN1lRR0Y3SWVsdkxfNV9VOXJTVGFPNC1hNFlQTldwREc3QlVXSVNNRDRRUFZ1dTdTeGMwek95Vi01d2EycEpUaVF1MzkxRWpLekJSalJqdzE4RDhhWEdYenRBaVJ4WE5kbk52blhlQkEy?oc=5)
+
+2026-07-08 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmRmQXk4aE9jMVQ4X1RaSlZ4THgxczV4Uk85TGdJYjA5M0tBcndPR1ZaTHZLNTB1Uzk3NFJwb0NpbkQ5Rkd4R21icmJUX041eVhxanNUSjV2YkJ3cEo3Q0pIYjVBZ2VYRnQ3Qnp2UlZjVjJyYmZYVTNPa0dnMV9CZkJCNE1CZ3FpZVJwUmxqZ0MycGtfMlJxcWxzSVVlMGh4bDQ5ZW44TGlVV01yRUc0UTRNVjBkMnpJNTE2cjYzWdIBxAFBVV95cUxNeTZCUFhnY24tYUgxVkxRZlJVUW15T2lfU3R6U0ZQM1hGRkFpUFo2c0stbkVVY2hUY2U3SGdRNlBzTS1wR1RST1RzVy1obFlOdWJDNEN3WWFwZDMtN1lRR0Y3SWVsdkxfNV9VOXJTVGFPNC1hNFlQTldwREc3QlVXSVNNRDRRUFZ1dTdTeGMwek95Vi01d2EycEpUaVF1MzkxRWpLekJSalJqdzE4RDhhWEdYenRBaVJ4WE5kbk52blhlQkEy?oc=5)
+
+---
 
 ### [Un mayor consumo de vitamina K1 reduce un 16% el riesgo de EPOC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
 
@@ -62,27 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Morbus Crohn: Fasten lindert Symptome bei zwei Dritteln der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnE1TDBqOUIxMi04Z3l4OWVoZUtqcVBRM1NpdnpYZk1mSWtwdkY4OVQ4UTQ2N2dnQW9ObUhKNTEybFE4SC0tdzY0cE14NDF3elp3WlhEdDJPSmVoaVVwN1Y4a0dmTTRTT1poNkI2emo5LVdrY2gxdmJCV3ZuWWsyS1pUa0VQa19FQXpZOWtfRUxZVjVrYkk4UjBoSmRhV2V3YTNVNkZzcnNfOFFwMjdBTnQ0UW5WUTRY?oc=5)
-
-2026-07-07 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnE1TDBqOUIxMi04Z3l4OWVoZUtqcVBRM1NpdnpYZk1mSWtwdkY4OVQ4UTQ2N2dnQW9ObUhKNTEybFE4SC0tdzY0cE14NDF3elp3WlhEdDJPSmVoaVVwN1Y4a0dmTTRTT1poNkI2emo5LVdrY2gxdmJCV3ZuWWsyS1pUa0VQa19FQXpZOWtfRUxZVjVrYkk4UjBoSmRhV2V3YTNVNkZzcnNfOFFwMjdBTnQ0UW5WUTRY?oc=5)
-
----
-
 ### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
----
-
-### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 ---
 

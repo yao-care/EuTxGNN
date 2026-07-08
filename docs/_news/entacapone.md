@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Scientists Think They've Finally Identified How Alzheimer's Kills Brain Cells](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWwzTVdpcEppM1YwM3FKcjRJemFLdTU1M2VvbDEyVjl0UFAzTmhkVC1LNzMxUm5YdWxfUUJFcWhDbElqNGllLXBEdnQ1X1RRckhrXzFHYVEzVzhySmdXNTZINHhPaVE4R2QycS1TM0h4ekhMUzU5Ykw5Xy1WM200aEFqdFF6ZzVCSk9KNzZmZFBGQktrQllyYVVhQVlLSnJ5R1JLeGI3MA?oc=5)
-
-2026-07-07 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWwzTVdpcEppM1YwM3FKcjRJemFLdTU1M2VvbDEyVjl0UFAzTmhkVC1LNzMxUm5YdWxfUUJFcWhDbElqNGllLXBEdnQ1X1RRckhrXzFHYVEzVzhySmdXNTZINHhPaVE4R2QycS1TM0h4ekhMUzU5Ykw5Xy1WM200aEFqdFF6ZzVCSk9KNzZmZFBGQktrQllyYVVhQVlLSnJ5R1JLeGI3MA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
-2026-07-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 

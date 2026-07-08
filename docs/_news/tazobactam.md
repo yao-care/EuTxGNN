@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
+### [Stimme als Frühwarner: KI erkennt Atemwegs-Schübe drei Tage voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
 
-2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
+
+---
+
+### [Protonenpumpenhemmer: Studie warnt vor erhöhtem Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+
+2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
 
 ---
 
