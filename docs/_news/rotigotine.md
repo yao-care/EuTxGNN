@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [‘Don’t Die’ biohacker Bryan Johnson opens up about diagnosis - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR0lnb3dMd1FvQldfZmxaMWpLQWs3MFRCUWtiSldKbWxhSGZrUlRBajlPWVBzS3VzTV90ZmJjSHRLS3dYYkt4TF90cUVpR2dFbUlnNHMydVhkSlNsLW1sbnhPS1NYUENNMDdrUXI4cDdGX3lNaFl1WDEyb3NtcF9QVXRXNjdYdGwtZVRtQXRpbTlVcUpVWGp6eU5qRm1zdExlZ1A3U1VsOENxQQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR0lnb3dMd1FvQldfZmxaMWpLQWs3MFRCUWtiSldKbWxhSGZrUlRBajlPWVBzS3VzTV90ZmJjSHRLS3dYYkt4TF90cUVpR2dFbUlnNHMydVhkSlNsLW1sbnhPS1NYUENNMDdrUXI4cDdGX3lNaFl1WDEyb3NtcF9QVXRXNjdYdGwtZVRtQXRpbTlVcUpVWGp6eU5qRm1zdExlZ1A3U1VsOENxQQ?oc=5)
+
+---
+
+### [La OMS alerta que el brote de ébola sigue expandiéndose y la epidemia aún no se estabiliza](https://news.google.com/rss/articles/CBMiywFBVV95cUxORTZmVUxENFRsbkwxZWtNcDdxSnB3NXJaYk9oaUROdk8tQW11NXk1bGFkaEVqNE1nWm9oMTZIaFBOWTRZTEZObVF4LUU1UG5xR3F0QkJHTWk4UE1FRkJhX0tNSkNCVE5wTmpPRE8zanZ6eXp6SUFUTGcxVnFTeEN5SFdWZVRWTmk4Y25ZeTJPNnFZTktBNGJVTEU3akFuM2hZUzNYYU5hV2Z0dUxBdHpNUWwtbVgzSGZRNklxeDh5V0VvUy12ZTFQdjFWOA?oc=5)
+
+2026-07-07 <span class="news-indication-tag">MS</span>
+
+來源：[univision.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxORTZmVUxENFRsbkwxZWtNcDdxSnB3NXJaYk9oaUROdk8tQW11NXk1bGFkaEVqNE1nWm9oMTZIaFBOWTRZTEZObVF4LUU1UG5xR3F0QkJHTWk4UE1FRkJhX0tNSkNCVE5wTmpPRE8zanZ6eXp6SUFUTGcxVnFTeEN5SFdWZVRWTmk4Y25ZeTJPNnFZTktBNGJVTEU3akFuM2hZUzNYYU5hV2Z0dUxBdHpNUWwtbVgzSGZRNklxeDh5V0VvUy12ZTFQdjFWOA?oc=5)
+
+---
 
 ### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
@@ -62,19 +78,27 @@ permalink: /news/rotigotine/
 
 ---
 
-### [La OMS se sincera ante el ébola: "Es un brote de magnitud desconocida" - Redacción Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHJhNU56SmlSN2o5TFZCVEM1ZVNxNHBEelV2amFCQnItTXJSVFAxcmNWakY1Mm5hdGFuR3JnZzRVSjJOY1NaeEZCdjJSQjZFejBXelpMc2J2aG1fdEpXa25MdXBLVGhUZzc5OVo4dXpwaHNmUGJwVmNZemtYMHR1T3J2U1ZERGJLeG1pQ1RYd3F0TTlyRDJCYlpfeE1hWUx0LWpZOEV30gGmAUFVX3lxTE43M3RPV3NZektTMmJiMXQzaXd2RkZzN2RxYkduOHJzakp5Tko2VldhcDdsZF9aWDRCLVpZQngtcHVmdnNmNXM0QXNTZ3pIQjFZQmZBOGt4Q3dqcU84cEVNRlBXd0ZlZVBZWlZlSzZybzdZZ1JLUGNZdFdkSFlaaFdFaUNrREdSWGhxSFdEYlVraDV0bXo5TVVHTk9xY1lDeUs5M3JwWUE?oc=5)
+### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
-2026-07-07 <span class="news-indication-tag">MS</span>
+2026-07-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Redacción Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHJhNU56SmlSN2o5TFZCVEM1ZVNxNHBEelV2amFCQnItTXJSVFAxcmNWakY1Mm5hdGFuR3JnZzRVSjJOY1NaeEZCdjJSQjZFejBXelpMc2J2aG1fdEpXa25MdXBLVGhUZzc5OVo4dXpwaHNmUGJwVmNZemtYMHR1T3J2U1ZERGJLeG1pQ1RYd3F0TTlyRDJCYlpfeE1hWUx0LWpZOEV30gGmAUFVX3lxTE43M3RPV3NZektTMmJiMXQzaXd2RkZzN2RxYkduOHJzakp5Tko2VldhcDdsZF9aWDRCLVpZQngtcHVmdnNmNXM0QXNTZ3pIQjFZQmZBOGt4Q3dqcU84cEVNRlBXd0ZlZVBZWlZlSzZybzdZZ1JLUGNZdFdkSFlaaFdFaUNrREdSWGhxSFdEYlVraDV0bXo5TVVHTk9xY1lDeUs5M3JwWUE?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
 ---
 
-### [E-bike injury payouts top £110m and push up insurance premiums](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T1BkNTNYR0YyQ3RsbEw3OFhPU1VsVUQ4WWMzc1RtMkdHcDBVc1lOMXpaVEJiNm1rOGpCTlJVRWVaS3lJZ3I3WXl1TDJTcFMwVXUwUXlBSUtNb2tp?oc=5)
+### [«Dormire 80 minuti in meno a notte fa ingrassare»: il legame con peso e sedentarietà in uno studio - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
 
 2026-07-07 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T1BkNTNYR0YyQ3RsbEw3OFhPU1VsVUQ4WWMzc1RtMkdHcDBVc1lOMXpaVEJiNm1rOGpCTlJVRWVaS3lJZ3I3WXl1TDJTcFMwVXUwUXlBSUtNb2tp?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
+
+---
+
+### [Les fortes chaleurs sont de retour : un médecin alerte sur les effets indésirables de certains médicaments sur nos organismes - TF1 Info](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWRXWkFXZWEwYzU5VkpWRV9XNENpVW8tUXlPdENMUFN0VXhsa1I4UHBOWXI1d2gwYlpWeW5kMmJSdHIzY05XT29XRHVsSDFDQlZCS04xMVhzellPZ2RaZUVwNk5PeC1yekZYN0lQV1AxYlZCSm9XSGYwMzY2WEhJQktMQlhPN1kwUkJzaWZ2bkZJUXJpTGNVLU1KVlRjSGtsMkkySFZTdl8wdHRmZVhLTVJmQlZBVmZJbjlFY3R5WVQtRlpwdWp6UkRKQzU1UXdEM0ZUVGJobEN1ZlZxN0p2MnNsaENQU2xnX2x1WjlnTVdJUmZ2dW1XXw?oc=5)
+
+2026-07-07 <span class="news-indication-tag">MS</span>
+
+來源：[TF1 Info](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWRXWkFXZWEwYzU5VkpWRV9XNENpVW8tUXlPdENMUFN0VXhsa1I4UHBOWXI1d2gwYlpWeW5kMmJSdHIzY05XT29XRHVsSDFDQlZCS04xMVhzellPZ2RaZUVwNk5PeC1yekZYN0lQV1AxYlZCSm9XSGYwMzY2WEhJQktMQlhPN1kwUkJzaWZ2bkZJUXJpTGNVLU1KVlRjSGtsMkkySFZTdl8wdHRmZVhLTVJmQlZBVmZJbjlFY3R5WVQtRlpwdWp6UkRKQzU1UXdEM0ZUVGJobEN1ZlZxN0p2MnNsaENQU2xnX2x1WjlnTVdJUmZ2dW1XXw?oc=5)
 
 ---
 
@@ -83,14 +107,6 @@ permalink: /news/rotigotine/
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT091by05NndYRlFfcTdNWVZ6UjQtMmREVm5qdzRnWXdlLTRqUlZUMGExX25laXNFREY5TXdtTnNvbHkzdWNTOGYzYWIydXhqY1dHRXBsUDR0Z2dIWUFObjZqb0VwbUFyeTNDWDhSVTZnQzRmTWJ0T191cDVLcElPM2YxbS1DdzlENy10WXM2bXg0RnBDMmtrVm5BYldEX3NEajVHSlhLR1hBSXRKMkdleA?oc=5)
-
----
-
-### [«Dormire 80 minuti in meno a notte fa ingrassare»: il legame con peso e sedentarietà in uno studio - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/rotigotine/
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ic0l1Q3BFVWN0T3VfYkhxY2NBV0dzaGF2aTYxdWgyNU9lN3FqZnpCblZHb1JlZ3B4amFKTjgtQXVwUnhKMlJvVXdtaFBUZHJYYkVqamN6X3pianVzWUE1WTVLNVlta1plRFV3X1ZpaVVkV2RuZmxSNVF30gF_QVVfeXFMTUtSUEo5UUhfOTBtb1NITFRhSWY3enRJMTNkbUN1NWV5bEFpdmRrRGNBdWVSZ1Z1dDA0STh3S0ZfLXl6SmdEdEZxbW1UM21keWhzOXp2amZPWUZVNXd0dmVZbDNEcTZNcURxa2RYUkhMYnJzM0RfUTVMbTExaVFxNA?oc=5)
-
----
-
-### [She woke up covered in bruises and was diagnosed with dementia – then fiancé's mask dropped - Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
-
-2026-07-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdW96aTJidlkxRmJsOVhmQW12aURrQWpuS0hycVNFNkU2N29tWUR0QXh6WEdyYXRXT1ZmZnB2MXAzSDRib09NazB1ZVJRTHVqUkMtdWJfMjE1TFdnYjU3UDFZaU5PR182V2NoZnlGNEdsYnhpcHBIVzNnSmlvTHJPbzZsVGh4Vm1iYktfcjZnM3JIN3FLYl9vbGZ4c0Jrekx4SVBucTR2QkhaR3dfWTRjbNIBtgFBVV95cUxPNURRb3VrZFpIZVU2WEh5Q1ZEdE92Y3QycUkxQnNZM2Y1Rnh2T1BmUEpJc3AyN1JieXA2VEU1TndkaVI3WFdKa2N1UzF1NUN4NGE4ekl1ekxhb3N3azRhSXZKWXdibkFEbG1naWpjZGFIeEtlVDM4RXRsWTBESWtyR3lXQ1JWN2ZOQjNtSl9VNFNKbl9kb3I2ZDFSMmM3NWRiOGFiRGE5dFZ2R0pqYXB0WnN1Z2VBdw?oc=5)
 
 ---
 

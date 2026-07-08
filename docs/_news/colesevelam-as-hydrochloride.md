@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [El CNIC descubre un nuevo mecanismo de la miocardiopatía hipertrófica y confirma la eficacia de mavacamten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
+
+---
+
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lST2oya3lWLXoyeXpCTXVxT2Qyd2pqdGpIY0pLYS1ldkNFMWJ1dlQyNHhyTEw3ZHFLX1R2NF9Dc2JVRk5XMEZJSksxLVlubmxYYVJyakFMWUZrdHNUWUJvMjVxYV9WVWhldHJYMlN5Vm9QRmtpV0E0R0IzYkNxLU9hZ3g1N0hXQWh2c1dIZnN1Y0hSTXBQaGJucS1zaGpHNlgtVzJvX3hJdXRhc0xNRkxobFdONXM?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lST2oya3lWLXoyeXpCTXVxT2Qyd2pqdGpIY0pLYS1ldkNFMWJ1dlQyNHhyTEw3ZHFLX1R2NF9Dc2JVRk5XMEZJSksxLVlubmxYYVJyakFMWUZrdHNUWUJvMjVxYV9WVWhldHJYMlN5Vm9QRmtpV0E0R0IzYkNxLU9hZ3g1N0hXQWh2c1dIZnN1Y0hSTXBQaGJucS1zaGpHNlgtVzJvX3hJdXRhc0xNRkxobFdONXM?oc=5)
 
 ---
 
@@ -78,19 +86,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetes-Forschung 2026: SGLT2-Hemmer senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
-
----
-
 ### [La formación sobre sistemas híbridos de asa cerrada mejora el control glucémico y el tiempo en rango en niños y adolescentes con diabetes tipo 1](https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ1JnQ3BoNXpDTlRXQnZBc0ZscUVETjNCeEE3a085cnBkUVo3X1NWZHJxVTVsLU9TV1E3eldrTlc3aE44X09sSC1pV2RVTTVBdE1McjJGWnMxNlI2Q2VwaE5hLUpsZVlyVEUtVWlyRExrakhmTkgwNkY3WjdheFlzS0YtejN1VzY5QlFwNHVmVEtkTDJzLUR2TERaQ2JTNGFhaXFiZGthSWs1NnRpZVpTVUQ0eGpDcmVZM1QzUk83WlNwanVrRjdMSVZqZm5hRWJWdnRVT3pNbzFiYm9NQXl1czFpY1QyUnJxYVRBeDFRMHp5ZDZwbEpqMkp1ajdCTDc0OGxZ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">diabetes</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ1JnQ3BoNXpDTlRXQnZBc0ZscUVETjNCeEE3a085cnBkUVo3X1NWZHJxVTVsLU9TV1E3eldrTlc3aE44X09sSC1pV2RVTTVBdE1McjJGWnMxNlI2Q2VwaE5hLUpsZVlyVEUtVWlyRExrakhmTkgwNkY3WjdheFlzS0YtejN1VzY5QlFwNHVmVEtkTDJzLUR2TERaQ2JTNGFhaXFiZGthSWs1NnRpZVpTVUQ0eGpDcmVZM1QzUk83WlNwanVrRjdMSVZqZm5hRWJWdnRVT3pNbzFiYm9NQXl1czFpY1QyUnJxYVRBeDFRMHp5ZDZwbEpqMkp1ajdCTDc0OGxZ?oc=5)
+
+---
+
+### [Prädiabetes: Normoglykämie senkt Diabetesrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
 
 ---
 

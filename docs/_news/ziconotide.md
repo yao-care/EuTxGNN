@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [La falta de sueño aumenta el riesgo de ganar peso](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
 
 2026-07-07 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[DW](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0tJNWRaTDVaYmhGMy1IcmlyeDRVbmxuN2dzNll2MDFxTkgyM3pqd01veHQ2Z0hQRFh5M0NjNHV4d3JIRmM2RXE3MXN1WnlGWVlLWUFYbnZkdzlQR0VoeUZ4Mjdwa2JtTEtSOW5kb1dEdW1McWt4aThMSlM4aUNVVFhDUlJ0X0RFTU1HWm1wVGfSAZABQVVfeXFMUFJNc0dLejVES2hUSTV4cjdvVUgwaEdSM19aOE1ock1lRjBPNEFkb3pjTHRfMHZuQ2F3M0FwNWlZbG5YbGpXQ3FDVWtrbW1QVmZvSXFuZ1A3N1d3d0Q2eXAyVElhZU5NdVhJTDQ0dmJaVlF2T1NMOVdWamE0ZHJ6UHRrMFdPQnRhSkhxSGdFUUR2?oc=5)
 
 ---
 
-### [El dolor crónico va más allá de la edad y comparte mecanismos con la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDRZSEhnaWdhNkM1dVV0RGY2YlE3M0MyeTVJSUs0WFJ6X0kwWjgyVEJCZE5WQ0p3cl9xOHJxNGpTQ0tqV1IxY3FXWlk1YXdtOVZ2ajJxRG50MmF3S3liSkRpdF95VnJJazJrNXNneGV1by1HTzdMd0JBSFZZdjJFY3hrLVNFYVJJWmdCTG1NTWpuaEVRalg3ajE4eE02a2txNXp3aFp5TWV4dEswaC1Xemd4aXJlbmVsNEQ0SmxPNNIBugFBVV95cUxQTXpSU2hVS180cm9yeDBNY2lTcmRXYmlGTGc5SUhmQkFWMV9LT0VzeVJHNW9OVHpNcVhQMHliNl9rVXoteHJabE9IUTVyOVFpbUJ2MEJ5STNuQnNYeW1lLURIV2tUOEE4a0ZwZThYeEFrYm8yV3FsUml6WFlHZ0FUY2ZjQjFSVUU4RkxLNHAtYmoxakJLdTZrQkdOYVE2TmJQdENRMDhkeUdGT1dvVGdNVmZoWk04VzNoVGc?oc=5)
+### [El dolor crónico va más allá de la edad y comparte mecanismos con la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDRZSEhnaWdhNkM1dVV0RGY2YlE3M0MyeTVJSUs0WFJ6X0kwWjgyVEJCZE5WQ0p3cl9xOHJxNGpTQ0tqV1IxY3FXWlk1YXdtOVZ2ajJxRG50MmF3S3liSkRpdF95VnJJazJrNXNneGV1by1HTzdMd0JBSFZZdjJFY3hrLVNFYVJJWmdCTG1NTWpuaEVRalg3ajE4eE02a2txNXp3aFp5TWV4dEswaC1Xemd4aXJlbmVsNEQ0SmxPNA?oc=5)
 
 2026-07-07 <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDRZSEhnaWdhNkM1dVV0RGY2YlE3M0MyeTVJSUs0WFJ6X0kwWjgyVEJCZE5WQ0p3cl9xOHJxNGpTQ0tqV1IxY3FXWlk1YXdtOVZ2ajJxRG50MmF3S3liSkRpdF95VnJJazJrNXNneGV1by1HTzdMd0JBSFZZdjJFY3hrLVNFYVJJWmdCTG1NTWpuaEVRalg3ajE4eE02a2txNXp3aFp5TWV4dEswaC1Xemd4aXJlbmVsNEQ0SmxPNNIBugFBVV95cUxQTXpSU2hVS180cm9yeDBNY2lTcmRXYmlGTGc5SUhmQkFWMV9LT0VzeVJHNW9OVHpNcVhQMHliNl9rVXoteHJabE9IUTVyOVFpbUJ2MEJ5STNuQnNYeW1lLURIV2tUOEE4a0ZwZThYeEFrYm8yV3FsUml6WFlHZ0FUY2ZjQjFSVUU4RkxLNHAtYmoxakJLdTZrQkdOYVE2TmJQdENRMDhkeUdGT1dvVGdNVmZoWk04VzNoVGc?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeDRZSEhnaWdhNkM1dVV0RGY2YlE3M0MyeTVJSUs0WFJ6X0kwWjgyVEJCZE5WQ0p3cl9xOHJxNGpTQ0tqV1IxY3FXWlk1YXdtOVZ2ajJxRG50MmF3S3liSkRpdF95VnJJazJrNXNneGV1by1HTzdMd0JBSFZZdjJFY3hrLVNFYVJJWmdCTG1NTWpuaEVRalg3ajE4eE02a2txNXp3aFp5TWV4dEswaC1Xemd4aXJlbmVsNEQ0SmxPNA?oc=5)
+
+---
+
+### [Migräne mit Aura: 400 mg Magnesium senken Blutdruck messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
+
+2026-07-06 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
 
 ---
 

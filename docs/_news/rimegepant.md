@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [El CNIC descubre un nuevo mecanismo de la miocardiopatía hipertrófica y confirma la eficacia de mavacamten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
+
+---
+
+### [Migräne mit Aura: 400 mg Magnesium senken Blutdruck messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
+
+2026-07-06 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
 
 ---
 

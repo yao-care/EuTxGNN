@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（7 則）
 
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lST2oya3lWLXoyeXpCTXVxT2Qyd2pqdGpIY0pLYS1ldkNFMWJ1dlQyNHhyTEw3ZHFLX1R2NF9Dc2JVRk5XMEZJSksxLVlubmxYYVJyakFMWUZrdHNUWUJvMjVxYV9WVWhldHJYMlN5Vm9QRmtpV0E0R0IzYkNxLU9hZ3g1N0hXQWh2c1dIZnN1Y0hSTXBQaGJucS1zaGpHNlgtVzJvX3hJdXRhc0xNRkxobFdONXM?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lST2oya3lWLXoyeXpCTXVxT2Qyd2pqdGpIY0pLYS1ldkNFMWJ1dlQyNHhyTEw3ZHFLX1R2NF9Dc2JVRk5XMEZJSksxLVlubmxYYVJyakFMWUZrdHNUWUJvMjVxYV9WVWhldHJYMlN5Vm9QRmtpV0E0R0IzYkNxLU9hZ3g1N0hXQWh2c1dIZnN1Y0hSTXBQaGJucS1zaGpHNlgtVzJvX3hJdXRhc0xNRkxobFdONXM?oc=5)
+
+---
+
 ### [Grippeimpfung bei Diabetes: Risiko für Folgen senken](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span>
@@ -70,19 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes-Forschung 2026: SGLT2-Hemmer senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
+### [Staggering number of Brits who rushed to buy Wegovy pills on the first day they went on sale revealed - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2daRlA3TG5qVGdsX192WDA0b1JQSm1fNmNqS0ZMamF5V1EyUFZwRjdXMElLSlFIazNiUDN3Q1lRRlZhV3R4Y25sN0tudHRhQmV0YkxDNXZmMldsTWlndFlUc2l0WnFrbFBVNTFPTmhZQ245ZVl5RHVGTFdORC1Uend6NlhuZw?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2gyR0VoTmRQcUtNT3pUaVZxbS1IZTh0NV9MNURvTVVWRE9MLUYxWGdsSlVnNjd4VVpLOW5sUDJpRHJFMFhyMld4TkNWdmtVeV9Rd1FkT1h4RXRhMWtyT2lTZUREVG1Fa1RPRm9jWnVEdFZKTTAtU01qdWdCajVpekdobHNNRkhNTWFHQnQzMVVEMXpCeDNkM0JNZnRaU0FMQ3BpOEE5azhRT2wyOHRVX2MwcnJZUQ?oc=5)
-
----
-
-### [Wegovy weight-loss pill goes on sale on UK high street and online pharmacies - The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjRqZzlyTHg3X2NfSVNleV9iWi1sRV81VVRJMWdESm5vZEhKdm5WNHFMa1owS2hoOXg5TVhfZldtTWpWN1VEVmE5Q3hDZk5NOTdlc01aa0d2VzFtQUEtYWNOMEwzTFRlYjVBV3lBNFBtSnFJX0g1eTk5R3pVcTBiNkhaUXRWQ2dDQXJ6YU1VaEtIVENYUUR6Mm43Si1HbU9nbEtqSExnRlJVb3VrX2FSemtR?oc=5)
-
-2026-07-07 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjRqZzlyTHg3X2NfSVNleV9iWi1sRV81VVRJMWdESm5vZEhKdm5WNHFMa1owS2hoOXg5TVhfZldtTWpWN1VEVmE5Q3hDZk5NOTdlc01aa0d2VzFtQUEtYWNOMEwzTFRlYjVBV3lBNFBtSnFJX0g1eTk5R3pVcTBiNkhaUXRWQ2dDQXJ6YU1VaEtIVENYUUR6Mm43Si1HbU9nbEtqSExnRlJVb3VrX2FSemtR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2daRlA3TG5qVGdsX192WDA0b1JQSm1fNmNqS0ZMamF5V1EyUFZwRjdXMElLSlFIazNiUDN3Q1lRRlZhV3R4Y25sN0tudHRhQmV0YkxDNXZmMldsTWlndFlUc2l0WnFrbFBVNTFPTmhZQ245ZVl5RHVGTFdORC1Uend6NlhuZw?oc=5)
 
 ---
 
@@ -94,19 +94,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Prädiabetes: Normoglykämie senkt Diabetesrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+
+2026-07-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+
+---
+
 ### [Nuove terapie contro il diabete 1, visita della rete internazionale Innodia al Policlinico di Messina](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
 
 2026-07-06 <span class="news-indication-tag">diabete</span>
 
 來源：[Tempostretto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT25HSXNuZFBfaTFLLUJ0STlzdEJ0ckFNd0VWeHQydTBWejZtYWJkRlMxVG1LTHhRb3dnRDk4U3hCWjFraTZyZEhGNU50Tmx5QlZrdGtCWVgwOW0yZFNNbU81enVXOC1DT0Zxdi1DT3BxZ2FVTmoyeUFiNm5JYU9xbE1udENOYXg2ZmpCUFJzQ2hHVWpjSFBXUmwwSVdOdkptUnYtOXd5WDRKb2V5QXdjcFFDS2R4S0h2Ti1ZZ0Nfbk9HWHctWWNwSWcyUDZYSnFqQmVTSw?oc=5)
-
----
-
-### [People Are Sharing The Things They Think Will Be “Inevitable Outcomes” Of GLP-1s Over The Next 20 Years](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFRhWjJ4Y1lvTzFTX29zRVg2M3h0cV9kRW9SUDlTU2E2aVkzQ0VkM2JCLWhQX251ZmdkS1VvQmpENFcxUWJSVXhqVVNNZUFSOU5za1Zsbm8wMHhpZXh1cFVPYkxQVHhjSVRjRlB3X19hSk5rRU9yTzBCbXRLTXJNX3NmV1JMMFVyWVpwbQ?oc=5)
-
-2026-07-05 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFRhWjJ4Y1lvTzFTX29zRVg2M3h0cV9kRW9SUDlTU2E2aVkzQ0VkM2JCLWhQX251ZmdkS1VvQmpENFcxUWJSVXhqVVNNZUFSOU5za1Zsbm8wMHhpZXh1cFVPYkxQVHhjSVRjRlB3X19hSk5rRU9yTzBCbXRLTXJNX3NmV1JMMFVyWVpwbQ?oc=5)
 
 ---
 

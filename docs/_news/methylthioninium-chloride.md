@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
-
-2026-07-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGJOeVVKZVBwdHdxT0NfV1lQNzFVWFFoR2RzdEI0dHRteVBhWDJHN2Q4YVhiZHhPRm9rU2NtNlNuVzV1RllHM3RDS3VBUXNBZTBFMFZfWjlhY2dDc09Xcm5rN0JhdDltcU9NMWhmMWRmejFLd2lDVHpqZWNkVFhVZVl2QmdjRnBjVG02ZzdsMFVuRlp5cXU3dE5RZWNCVjBtSVptS2x6bFBORU03MjlQVjVYbmE2T3c?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Un mayor consumo de vitamina K1 reduce un 16% el riesgo de EPOC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
 
@@ -78,11 +70,11 @@ permalink: /news/methylthioninium-chloride/
 
 ---
 
-### [Bei Asthma oder COPD: App erkennt Schub an der Stimme – schon Tage vor den Symptomen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+### [Stimm-KI erkennt Asthma- und COPD-Schübe bis zu drei Tage früher - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 2026-07-06 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0pkbmh4amhSTEM4aFdzbzBsa1dqNUtsQUhFYmw1V2JRRFpJVUFVUDdreTF5cnBGUWJXZlpEdlFRVXNPdjdTTTlDOGh2RHBMM1FQa29lamc3RkxHSmdJbTYySnZxMDBQVHpIT2dBUGZaOGFsX3JmVUdScWNzdDB0cUxmN1EyR0V3SEl6V0VTUTU1QjNyTGUzeVFudVFDZjRMdEhpOE1LMHhBZ2dYX2JGWkF2YmI4a0RjanVvVTFndVVnU00?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOQXNhU2oybXUzdXktVVplQUR5MkpGc3ZoNWM1cDJfR3JFRENUZDJ5bTVFc0FXYUxkTy1KUkhuVVItdkZjTHI0NjR6RHpRUDdVdHFaX1p2azlsWHdKeHVpTENyU09RR2NYNFR1bFFQbVdXcFh2SjBUcWxIMXBfNHJ6ZnZOTmduSG5tS2FWYWdjZzdvYi1oR3Y0bDFvUnpGUQ?oc=5)
 
 ---
 

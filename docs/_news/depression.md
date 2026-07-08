@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Transkranielle Pulsstimulation: 17.690 Sitzungen belegen hohe Verträglichkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
-
-2026-07-07
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Inside the NHS hospital trialling psychedelics to treat depression - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
 

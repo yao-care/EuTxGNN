@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Transkranielle Pulsstimulation: 17.690 Sitzungen belegen hohe Verträglichkeit - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
-
-2026-07-07 <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUExEOTEtMWRONzhFTmpHcWJVNzIyUGUwcktPb0FzcENwRHkzdzlfX0R2SnFDUUVsRUgwV0pza0Y1WHAyN0dRNFlseVotWF9ESnFUb29xM0k4RzRUVnpBWTJBVWp1V0hoQnU4VFpvV3JnQTJEM29zc0dUdWF3Y1QxckxIbTJFbWpQb0hVd05DZ3NYM3ltaFB3M3ZCQXAwRWZMM3MtcjdlNmp5X25QOFE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Inside the NHS hospital trialling psychedelics to treat depression - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
 
-2026-07-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-07-06 <span class="news-indication-tag">depression</span>
 
 來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkI1TGMwQUU2OW9peVlaemhjYVRfMURKWGpPNjdlbTRyNUhlQmMweVJmMmZIa19NSUVVSXNLMjJDcVhFUWVnWTVIZE8wc3ZFSTRCYnA4TDdLOEhsVE9MaERwZVNvVzh4QVhKc3ZPTU1TOE1VWXYzQ3pQWFJSNUt0S2oxNjg?oc=5)
 
