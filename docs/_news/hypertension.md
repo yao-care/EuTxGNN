@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "high blood pressure（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "high blood pressure（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# high blood pressure（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
+<strong>high blood pressure（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
-2026-07-07
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [5 'silent killer' blood pressure warning signs - 1 gets 'overlooked' - Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
 
@@ -106,14 +98,6 @@ permalink: /news/hypertension/
 2026-07-07
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
-
----
-
-### [5 Things to Avoid After 5 P.M. If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
-2026-07-06
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
 
 ---
 

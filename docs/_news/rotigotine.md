@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
 
-### [La epidemia de ébola en RDC ya supera los 1.700 casos en medio de huelgas médicas e incidentes de seguridad - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkluWlpxUVR4c0ZHX201Smlzd3drOGlqQzZ6SGZ3Nnd0MmRzcDJUZDlwNW1pdEdUNUdQZEFaeGItUnJjUWkyNUpPRVpIczdwbW04aWtNYVVkYUo3eGZQM2pKTGFkaW9NTENSMVFlcE02TUZidUwzdWRpbDQ4WG1WdFpiOU5fOTN3WEhvSHBybDdTVGZmZ0lKNUdEdnMzU2RqOWY1UkhxQVl3NkRpdnRsek0tTQ?oc=5)
+### [La OMS alerta de que el cáncer se duplicará para 2050 y pide "medidas urgentes" para evitarlo - El Confidencial](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXNxaFpRNkVRZjJ5NktKZFFJelowSFpGdXBqUGJnUlliU01LV1BLVUpva1lGTU5kZHNCTENZa1N1SUtTLUJRaVRWTU8tRkstcHFMOXdvUHhXcGtnMkdGa0NJRzMtaWhubnh0ZlFxVmpKVmlwWFFlZ2NqaXNZRnUyUWN0Z3dFZERTOXZlaDhaQ1Znc3FrUkprQXFQekVMZmNIbkxpYWk1WXQ2eFduWDZR?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkluWlpxUVR4c0ZHX201Smlzd3drOGlqQzZ6SGZ3Nnd0MmRzcDJUZDlwNW1pdEdUNUdQZEFaeGItUnJjUWkyNUpPRVpIczdwbW04aWtNYVVkYUo3eGZQM2pKTGFkaW9NTENSMVFlcE02TUZidUwzdWRpbDQ4WG1WdFpiOU5fOTN3WEhvSHBybDdTVGZmZ0lKNUdEdnMzU2RqOWY1UkhxQVl3NkRpdnRsek0tTQ?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXNxaFpRNkVRZjJ5NktKZFFJelowSFpGdXBqUGJnUlliU01LV1BLVUpva1lGTU5kZHNCTENZa1N1SUtTLUJRaVRWTU8tRkstcHFMOXdvUHhXcGtnMkdGa0NJRzMtaWhubnh0ZlFxVmpKVmlwWFFlZ2NqaXNZRnUyUWN0Z3dFZERTOXZlaDhaQ1Znc3FrUkprQXFQekVMZmNIbkxpYWk1WXQ2eFduWDZR?oc=5)
 
 ---
 
-### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
+### [Wann DOAK wieder ansetzen nach Darmspiegelung?](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtHRTVYbnQyWkJvOVA2UnNCc0RTSFJkWk1FV1Q3MHR4NkVhbjFJRlI2WGtUYTZISTIzUFc2ZE1RY2R6MThKaF9OUXhLb2dnckdBVlV2cEQ4RHh4S0R4VUxIRGp1TUQ3XzdsdkwyZElFbi1jbFRrVTIzOFVRT2pfVnJwNk9EWkxPUkYxaUtFMlBWaFJCNGJ2YUVB?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtHRTVYbnQyWkJvOVA2UnNCc0RTSFJkWk1FV1Q3MHR4NkVhbjFJRlI2WGtUYTZISTIzUFc2ZE1RY2R6MThKaF9OUXhLb2dnckdBVlV2cEQ4RHh4S0R4VUxIRGp1TUQ3XzdsdkwyZElFbi1jbFRrVTIzOFVRT2pfVnJwNk9EWkxPUkYxaUtFMlBWaFJCNGJ2YUVB?oc=5)
+
+---
+
+### [Trabajadores que combaten el ébola en Congo hacen huelga por salarios mientras las muertes rozan 600 - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVRQSUg1V2lxbDFiLUdEZGlVZG9oMWcwZ1ZuNnNDMEpGQmVOdFFmRGQ1U2s3VTNTemNMN0RKczB5U3JfQUkxZkJPdGU2dVdmX2x0bGEyZVFMM1htS19LVklFT1p6Q0JaU1lwanhHM2dpcE1rS3ZldHJCd2s4RG83U0prUUxuZ09FcEVNUUJyQzBTMXpkZmxRaFBvUXBpM0Ri?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVRQSUg1V2lxbDFiLUdEZGlVZG9oMWcwZ1ZuNnNDMEpGQmVOdFFmRGQ1U2s3VTNTemNMN0RKczB5U3JfQUkxZkJPdGU2dVdmX2x0bGEyZVFMM1htS19LVklFT1p6Q0JaU1lwanhHM2dpcE1rS3ZldHJCd2s4RG83U0prUUxuZ09FcEVNUUJyQzBTMXpkZmxRaFBvUXBpM0Ri?oc=5)
+
+---
+
+### [El COFRM lleva la prevención del cáncer de piel al mostrador de la farmacia - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3ZxaVZiaWVncXljWU1qZFU3cFdmRkxnLUM1SDNJTkE4TEZyRFFaZnR5eUx4XzZDa3JBc09TSm1rWGVUeDdRZ3NWbkFab2c4ZkwzZ2VqS3ljdHp6QkJZYUx6R1R5WVRqZ2tVakNEN2ZHcnF3OGNBUThGRFhsOHR5bDlZSC1NUkNkQ2FKdXpoeGg3ckd5UGMwN2FpOFJMeEZxVUFfZFZ0SGVlVHNraUU2YW9wYzPSAa8BQVVfeXFMUEFOZnFuWExNNVZWN1ZvaUw5TWVLbkpGTXU2aEFSZDN5Z3BDa0Z2bjdEcFNJM0xIaVROV09tR21lYzNPUkJNYVNQaFo4RTROMF9sYlByS1lZdWRIVEh5YU5EY0FZNzU0ZnR6b0JJTnptWUpaUkZjbU9pZmJDMjZPcHFLc3pGVXNLdV9nSXpjMHNJWWwyRzh2eS0tS0phOE85YVRHYUxDSVo2NEZHd05ZSQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3ZxaVZiaWVncXljWU1qZFU3cFdmRkxnLUM1SDNJTkE4TEZyRFFaZnR5eUx4XzZDa3JBc09TSm1rWGVUeDdRZ3NWbkFab2c4ZkwzZ2VqS3ljdHp6QkJZYUx6R1R5WVRqZ2tVakNEN2ZHcnF3OGNBUThGRFhsOHR5bDlZSC1NUkNkQ2FKdXpoeGg3ckd5UGMwN2FpOFJMeEZxVUFfZFZ0SGVlVHNraUU2YW9wYzPSAa8BQVVfeXFMUEFOZnFuWExNNVZWN1ZvaUw5TWVLbkpGTXU2aEFSZDN5Z3BDa0Z2bjdEcFNJM0xIaVROV09tR21lYzNPUkJNYVNQaFo4RTROMF9sYlByS1lZdWRIVEh5YU5EY0FZNzU0ZnR6b0JJTnptWUpaUkZjbU9pZmJDMjZPcHFLc3pGVXNLdV9nSXpjMHNJWWwyRzh2eS0tS0phOE85YVRHYUxDSVo2NEZHd05ZSQ?oc=5)
+
+---
+
+### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
 2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
 ---
 
@@ -94,11 +118,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [«Dormire 80 minuti in meno a notte fa ingrassare»: il legame con peso e sedentarietà in uno studio - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
+### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
 
-2026-07-07 <span class="news-indication-tag">MS</span>
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ permalink: /news/rotigotine/
 2026-07-07 <span class="news-indication-tag">MS</span>
 
 來源：[TF1 Info](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWRXWkFXZWEwYzU5VkpWRV9XNENpVW8tUXlPdENMUFN0VXhsa1I4UHBOWXI1d2gwYlpWeW5kMmJSdHIzY05XT29XRHVsSDFDQlZCS04xMVhzellPZ2RaZUVwNk5PeC1yekZYN0lQV1AxYlZCSm9XSGYwMzY2WEhJQktMQlhPN1kwUkJzaWZ2bkZJUXJpTGNVLU1KVlRjSGtsMkkySFZTdl8wdHRmZVhLTVJmQlZBVmZJbjlFY3R5WVQtRlpwdWp6UkRKQzU1UXdEM0ZUVGJobEN1ZlZxN0p2MnNsaENQU2xnX2x1WjlnTVdJUmZ2dW1XXw?oc=5)
-
----
-
-### [10 ‘healthiest’ ultra-processed foods — the scientist’s list - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2laYWlkeklfQkxSNURPZHNTTi1ES3NfVmtWaUFrY3dLa0RVMmZaWVBZR3ZKTHBxRUdOU2RweHgzM3dsY2Jvc0NKTU9EMVRJWkNDTHkwN1RjeGE1cmxpcDVWSTQ3OGp4UjVBLTdZQ0pxODRGUWVZUGN6WkV5Z1V3T2xCZ29kVzhjbXplV2xINnkzNGJvcmU4YS1tUk9IQk9ZNUZSeXRGd25sbGs?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2laYWlkeklfQkxSNURPZHNTTi1ES3NfVmtWaUFrY3dLa0RVMmZaWVBZR3ZKTHBxRUdOU2RweHgzM3dsY2Jvc0NKTU9EMVRJWkNDTHkwN1RjeGE1cmxpcDVWSTQ3OGp4UjVBLTdZQ0pxODRGUWVZUGN6WkV5Z1V3T2xCZ29kVzhjbXplV2xINnkzNGJvcmU4YS1tUk9IQk9ZNUZSeXRGd25sbGs?oc=5)
 
 ---
 

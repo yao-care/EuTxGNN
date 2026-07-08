@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
+
+2026-07-08
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
+
+---
 
 ### [Stimme als Frühwarner: KI erkennt Atemwegs-Schübe drei Tage voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
 
@@ -90,6 +98,14 @@ permalink: /news/asthma/
 2026-07-08
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+
+---
+
+### [Novartis, via libera della Commissione Europea a onasemnogene abeparvovec per bambini dai 2 anni in su affetti da SMA - Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
+
+2026-07-07
+
+來源：[Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
 
 ---
 

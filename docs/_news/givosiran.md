@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
-
----
-
-### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
-2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 ---
 
@@ -78,27 +70,19 @@ permalink: /news/givosiran/
 
 ---
 
+### [La denuncia del content creator Angelo Mazzone: "Ho preso l'Epatite A cenando in un ristorante a Milano"](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pNd0FnWG9Lb1lCamZkQ2U3WEhscFRRVjJhcUhuNmRtZnZaR2U2NXV4N0E4ck5ZZU1KNlE4b0JvWjhoU1d2ZWJNeWxERU1MWmk2RHBiVExkMUM3cUVDSncwTm5jalJnRmVoaDVqNEl5cHpnS2U5czBaeTE2U1hmYktsSDVwTEU0NDRVMnFsTHp4QjBROHQwaVhLVjNWb0x2czlWNXdrNlVleWppTUswRVpuS3hSb0o5YVFwWjZyVW1abklFVkVsaXdsUQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">epatite</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pNd0FnWG9Lb1lCamZkQ2U3WEhscFRRVjJhcUhuNmRtZnZaR2U2NXV4N0E4ck5ZZU1KNlE4b0JvWjhoU1d2ZWJNeWxERU1MWmk2RHBiVExkMUM3cUVDSncwTm5jalJnRmVoaDVqNEl5cHpnS2U5czBaeTE2U1hmYktsSDVwTEU0NDRVMnFsTHp4QjBROHQwaVhLVjNWb0x2czlWNXdrNlVleWppTUswRVpuS3hSb0o5YVFwWjZyVW1abklFVkVsaXdsUQ?oc=5)
+
+---
+
 ### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
-
----
-
-### [Angelo Mazzone: «Ho preso l'epatite A andando a cena fuori. In ospedale è stata dura, a tutti dico: vaccinatevi» - Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
-
-2026-07-06 <span class="news-indication-tag">epatite</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
-
----
-
-### [5 Things to Avoid After 5 P.M. If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
 
 ---
 

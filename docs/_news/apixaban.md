@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="Apixaban 有什麼相關新聞？">
-<strong>Apixaban</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apixaban</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/apixaban/
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [El CNIC descubre un nuevo mecanismo de la miocardiopatía hipertrófica y confirma la eficacia de mavacamten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
-
----
-
-### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
-2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 ---
 
@@ -83,22 +75,6 @@ permalink: /news/apixaban/
 2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
-
----
-
-### [Migräne mit Aura: 400 mg Magnesium senken Blutdruck messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
-
-2026-07-06 <span class="news-indication-tag">Migräne</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
-
----
-
-### [5 Things to Avoid After 5 P.M. If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
 
 ---
 

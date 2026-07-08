@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [La suplementación con vitamina D tras un ictus puede suponer múltiples beneficios - El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQllDUllsOEl6cERNVXhRajBKUkxMbjZKN0ZGamItS0FPYWxNc1U4ZXpWaEJCUWV0c0t2SGUyRGNWUldualdjZXNfQ3Aza2U1dWNzaUYxcldBa3lYZjlQNlVfdUhPeXRxMm5pUkxNbHJ3QW5uc0Z4dm8zQllZWHl4UWdBSlBLc21lTU9fb29FYU84ejhXQUxIaDBINENmSlQtdk9GN1R1d2lEUm1OSC1BNmxMXzc?oc=5)
+
+2026-07-08 <span class="news-indication-tag">ictus</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQllDUllsOEl6cERNVXhRajBKUkxMbjZKN0ZGamItS0FPYWxNc1U4ZXpWaEJCUWV0c0t2SGUyRGNWUldualdjZXNfQ3Aza2U1dWNzaUYxcldBa3lYZjlQNlVfdUhPeXRxMm5pUkxNbHJ3QW5uc0Z4dm8zQllZWHl4UWdBSlBLc21lTU9fb29FYU84ejhXQUxIaDBINENmSlQtdk9GN1R1d2lEUm1OSC1BNmxMXzc?oc=5)
+
+---
 
 ### [El CNIC descubre un nuevo mecanismo de la miocardiopatía hipertrófica y confirma la eficacia de mavacamten](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFJDVWRDNnRiN18tZWJBRXZOM2pRTGY0aG1KMEhuMnVtNjFHZ2ljMmY5WG04YnQ5QnJtejRGOWNGNXZaRkZPVUxiTXhKUUVTWkl5MVJMQ2Qya1k4LTM2Nms1cjMzUExwNDlWbDFQLVNfM05uc2lNUnAwaHF4eTNidzNqZFcyYzRILXdjRzRyNkQxV2JqVjU3MWk0TnEyVm5hckdVX29VdXdfdS1qRFpETGpRaGd1Wm40b2FUWHdMZ3ZnYlRndVFJeUxnWjVSbnIx?oc=5)
-
----
-
-### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
-
-2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/telmisartan/
 2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
-
----
-
-### [5 Things to Avoid After 5 P.M. If You Have High Blood Pressure](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3lOeUd6dEgyZHkwSEJRYnNYUXplX3hIdEFsRWtrRzh2TDlfZkdpQ25YQlZPbFFySzB3ajhlOWRLZ2Z6UFE2TmxEM0k0RTN3TVQwT0Z4NVNYSmFTZW1zV3VsRElpMGhPYTBfQzRiZWtNb21QRmswRjltSklLT2J3X1BqMEV5elZTN0hfUW9vaUQ?oc=5)
 
 ---
 

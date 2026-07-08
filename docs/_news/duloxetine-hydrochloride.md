@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Autismusrisiko: Depressionen in der Schwangerschaft verdoppeln Diagnosen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlBuWDhxdlU2VzVCdVpkQlZ6R1BTRFJOXy01MjFMQXpLcElXS0JKT1JtNXpqTWRvXzVpQTI0Sm9VdnZrUEJLSENHYXZGb2NjNGgzVkpBbmNIaFNuY2FNYlBpLWhwVHpla05NOEpadkZHYVVRaGtoMzVLNlJFeW9EY3N2c2FxeXRhYUJxU1NUQ0tVNDlobjVoTERqSlNKNEhfY2o4dFVNM2VHY2NDX045aEFGV1VGWjVfRlhkZg?oc=5)
+
+2026-07-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlBuWDhxdlU2VzVCdVpkQlZ6R1BTRFJOXy01MjFMQXpLcElXS0JKT1JtNXpqTWRvXzVpQTI0Sm9VdnZrUEJLSENHYXZGb2NjNGgzVkpBbmNIaFNuY2FNYlBpLWhwVHpla05NOEpadkZHYVVRaGtoMzVLNlJFeW9EY3N2c2FxeXRhYUJxU1NUQ0tVNDlobjVoTERqSlNKNEhfY2o4dFVNM2VHY2NDX045aEFGV1VGWjVfRlhkZg?oc=5)
+
+---
+
+### [Depressionen: Kreatin könnte bei der Therapie helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTU4VnhCNkxXY0NRNHpxc21qSHgzODZQS1lLVTRSM0lLMHdNZnlXN0h6ZnRBcjVuUWI4VWI2SG9VM3RURE9lZklKMXA3NmdPUnVTbmd2aDlpUVM4ZENZVG5rZHBwbVJHcXIxeUMwMzdmYnFsTFRvdkU1TzlaMWphXzFxX3RGd1JrYVdlMkRpNTlKUDdQbk5FS0dvaVhxZFBvS1NlOHh4SUJscHVCYVpwMEJ1QQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">depression</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTU4VnhCNkxXY0NRNHpxc21qSHgzODZQS1lLVTRSM0lLMHdNZnlXN0h6ZnRBcjVuUWI4VWI2SG9VM3RURE9lZklKMXA3NmdPUnVTbmd2aDlpUVM4ZENZVG5rZHBwbVJHcXIxeUMwMzdmYnFsTFRvdkU1TzlaMWphXzFxX3RGd1JrYVdlMkRpNTlKUDdQbk5FS0dvaVhxZFBvS1NlOHh4SUJscHVCYVpwMEJ1QQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

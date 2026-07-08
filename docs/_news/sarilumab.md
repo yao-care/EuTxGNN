@@ -54,6 +54,14 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（6 則）
 
+### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
+
+2026-07-08 <span class="news-indication-tag">asthma</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
+
+---
+
 ### [Scheinfasten und Darm-Immunologie: Neue Befunde zu Morbus Crohn - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1hJaFZacExaYVlBeTg0RTFNZVRieEljTnZNb3hiVUNlM21UdHZpMUV1eFdsUlBoWE5BaXNhU2VYdmRvaWQwR2JodFB6a3hjSDh0ODVWcVpiZjNnZDdzcDdGVXZ6YnM5WEJNSHZ1NjNNQjQzS3UzYklZdzNoS1k4c1pZbXZXeUZwN0dmV3Y1MTdfLWl1aTMyMDNB?oc=5)
 
 2026-07-08 <span class="news-indication-tag">Morbus Crohn</span>
@@ -78,14 +86,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [EPOC: la enfermedad silenciosa que afecta a más de tres millones de españoles - La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmRmQXk4aE9jMVQ4X1RaSlZ4THgxczV4Uk85TGdJYjA5M0tBcndPR1ZaTHZLNTB1Uzk3NFJwb0NpbkQ5Rkd4R21icmJUX041eVhxanNUSjV2YkJ3cEo3Q0pIYjVBZ2VYRnQ3Qnp2UlZjVjJyYmZYVTNPa0dnMV9CZkJCNE1CZ3FpZVJwUmxqZ0MycGtfMlJxcWxzSVVlMGh4bDQ5ZW44TGlVV01yRUc0UTRNVjBkMnpJNTE2cjYzWdIBxAFBVV95cUxNeTZCUFhnY24tYUgxVkxRZlJVUW15T2lfU3R6U0ZQM1hGRkFpUFo2c0stbkVVY2hUY2U3SGdRNlBzTS1wR1RST1RzVy1obFlOdWJDNEN3WWFwZDMtN1lRR0Y3SWVsdkxfNV9VOXJTVGFPNC1hNFlQTldwREc3QlVXSVNNRDRRUFZ1dTdTeGMwek95Vi01d2EycEpUaVF1MzkxRWpLekJSalJqdzE4RDhhWEdYenRBaVJ4WE5kbk52blhlQkEy?oc=5)
-
-2026-07-08 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmRmQXk4aE9jMVQ4X1RaSlZ4THgxczV4Uk85TGdJYjA5M0tBcndPR1ZaTHZLNTB1Uzk3NFJwb0NpbkQ5Rkd4R21icmJUX041eVhxanNUSjV2YkJ3cEo3Q0pIYjVBZ2VYRnQ3Qnp2UlZjVjJyYmZYVTNPa0dnMV9CZkJCNE1CZ3FpZVJwUmxqZ0MycGtfMlJxcWxzSVVlMGh4bDQ5ZW44TGlVV01yRUc0UTRNVjBkMnpJNTE2cjYzWdIBxAFBVV95cUxNeTZCUFhnY24tYUgxVkxRZlJVUW15T2lfU3R6U0ZQM1hGRkFpUFo2c0stbkVVY2hUY2U3SGdRNlBzTS1wR1RST1RzVy1obFlOdWJDNEN3WWFwZDMtN1lRR0Y3SWVsdkxfNV9VOXJTVGFPNC1hNFlQTldwREc3QlVXSVNNRDRRUFZ1dTdTeGMwek95Vi01d2EycEpUaVF1MzkxRWpLekJSalJqdzE4RDhhWEdYenRBaVJ4WE5kbk52blhlQkEy?oc=5)
-
----
-
 ### [Un mayor consumo de vitamina K1 reduce un 16% el riesgo de EPOC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
 
 2026-07-07 <span class="news-indication-tag">EPOC</span>
@@ -94,11 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Un estudio identifica que los mecanismos biológicos de la hipertensión pulmonar difieren entre EPOC y EPID](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+### [Novartis, via libera della Commissione Europea a onasemnogene abeparvovec per bambini dai 2 anni in su affetti da SMA - Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
 
-2026-07-07 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">EPOC</span>
+2026-07-07 <span class="news-drug-tag">Onasemnogene Abeparvovec</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUpFRFdOV0RMaTY2R3ZzQkdzcUctSU1jRWxkLTBuLW5pcWJ5TExxaHJ0QmlsRW9BZ3NmU3ZuaXZ6ZURCc0JBbU42cldjdzktaXRuVXU1YjRZV25JQmEyTzIwRDlKel9tMDJabFZhNGhHNkpsYmp3Qi1Qa2JOMHlWaEVMQ0pERUFyYXpxRERwMUV1NHphel9jTlVzN0FFYzRsYVYtaWJaUlU2M0IyZHh6RFJEeXZvdGQ3dXlXQWFQbE1FR0dqdU45dG5oQmFadERUX0hCRTFRWFVJZG5sSXJ0M2g0QnQwZGVwelow?oc=5)
+來源：[Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
 
 ---
 

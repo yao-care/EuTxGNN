@@ -14,7 +14,7 @@ permalink: /news/ceftolozane/
 ---
 
 <p class="key-answer" data-question="Ceftolozane 有什麼相關新聞？">
-<strong>Ceftolozane</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ceftolozane</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ceftolozane/
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
+
+2026-07-08 <span class="news-indication-tag">asthma</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
+
+---
 
 ### [Stimme als Frühwarner: KI erkennt Atemwegs-Schübe drei Tage voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/ceftolozane/
 2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3owMkgzV2JESTR3QnZDZHFxUF9Gc0pIcXFYQUhSNzVNc29hX0NaUlhBSTJub3E3cUZQWFY2NmNIdmlrclRBTjRyaFNXRFNfOXp2ZDVvYnJMRTdPQ1FQV01Kb2FyamlFMVlpMjliUUJPWEFZRHZYMDc3WGNpcmxQMUpFRXV5SVc2QUNnUFJOemtaTk9MbTVN?oc=5)
+
+---
+
+### [Novartis, via libera della Commissione Europea a onasemnogene abeparvovec per bambini dai 2 anni in su affetti da SMA - Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
+
+2026-07-07 <span class="news-drug-tag">Onasemnogene Abeparvovec</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
 
 ---
 

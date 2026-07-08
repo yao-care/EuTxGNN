@@ -14,7 +14,7 @@ permalink: /news/talazoparib/
 ---
 
 <p class="key-answer" data-question="Talazoparib 有什麼相關新聞？">
-<strong>Talazoparib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Talazoparib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,61 @@ permalink: /news/talazoparib/
 <p><a href="{{ '/drugs/talazoparib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（18 則）
+
+### [Fall-Kontroll-Studie: Langzeittherapie mit PPI geht nicht mit Magenkrebs einher](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWNBTDFMT0lZTWFycUxKcW1UNVZ4c2tRZl9GbVpGVlZ6MlNZdlhTenhDcjIwb0loWGloQW9saXY1Tkp0cGdlM2tGQkstelNaSG5hLVBpQjNVZmlvMjBrR19KTkFES2ZLN0R3MmNreXJoQ1JQdU5nWEFkajlzcnh4YWE4eEZsaUxnQ2lzRnlmYVdZWjg2QVBMOFN3anBqSG9IOTBkMnZCRTljQQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">Krebs</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWNBTDFMT0lZTWFycUxKcW1UNVZ4c2tRZl9GbVpGVlZ6MlNZdlhTenhDcjIwb0loWGloQW9saXY1Tkp0cGdlM2tGQkstelNaSG5hLVBpQjNVZmlvMjBrR19KTkFES2ZLN0R3MmNreXJoQ1JQdU5nWEFkajlzcnh4YWE4eEZsaUxnQ2lzRnlmYVdZWjg2QVBMOFN3anBqSG9IOTBkMnZCRTljQQ?oc=5)
+
+---
+
+### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+
+2026-07-08 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+
+---
+
+### [Schockdiagnose - Britin (17) hatte seit Geburt einen Hirntumor - Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qRWItUkJjNm95Vk4zd19xWkoxM2ZtUHhQTDJOb3lKQ3RXWVNoN2hGd3dBSElTRUEta3ptZWdGcWlxUQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">CKD</span>
+
+來源：[Kronen Zeitung](https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qRWItUkJjNm95Vk4zd19xWkoxM2ZtUHhQTDJOb3lKQ3RXWVNoN2hGd3dBSElTRUEta3ptZWdGcWlxUQ?oc=5)
+
+---
+
+### [Progress against cancer not shared by poorer countries, WHO report finds - The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVldubVVncnpWaDRhd3lsSkpHWlNHU0dMTmFSVGJ0YWp3aXhndnVsV3liTl9ZM3hORjdWS2Zad1o5OFpnQ2p4dXpoVUhLQWhWa3RXQksyWG5jOGhsQjEzME1vLUdLYWdILUhlSkQyT2VLdFRqNk9WRUd1c3JwX2Rkb3hYRmdjVHgtYUZtSkl1MmZtSHhCN25RTEhhVFV4TEY0NllJTlhFZ1l1bFRmU24wTkJoRm0yNVU0Wk8xeGVUeVFxS0dXaVdpLXIzNnFjQUUxd19JNFR4Nm9POE5wTUg2djZtRUM?oc=5)
+
+2026-07-08 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVldubVVncnpWaDRhd3lsSkpHWlNHU0dMTmFSVGJ0YWp3aXhndnVsV3liTl9ZM3hORjdWS2Zad1o5OFpnQ2p4dXpoVUhLQWhWa3RXQksyWG5jOGhsQjEzME1vLUdLYWdILUhlSkQyT2VLdFRqNk9WRUd1c3JwX2Rkb3hYRmdjVHgtYUZtSkl1MmZtSHhCN25RTEhhVFV4TEY0NllJTlhFZ1l1bFRmU24wTkJoRm0yNVU0Wk8xeGVUeVFxS0dXaVdpLXIzNnFjQUUxd19JNFR4Nm9POE5wTUg2djZtRUM?oc=5)
+
+---
+
+### [Hito español: hallan la secuencia de quimioterapia óptima frente al cáncer de páncreas - Libertad Digital](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaTRENW5aemFBZ2dMM3JpamU1dE1xdkc2WXgtZnBOLTduY3d3SGFtekd3eVdFWkhrU2pPV0Q0NGIyeDc3VHhGVGZ2WWpwRl9hUmR3M094aGZ4TnVyU2dNYXpudVVMVktXdnB0SWNJaXJJMUI1X09WQXhaRXg0VHF2VWtBcFdRUGZUZEJraXA4WXhtbDV0ODN2THNVaEN1M1Y1Y0tQSG1BT09TNkNHaldjTTdnZkNfMFlUbWtoVTJ5cDNGNXFjdjRGZUdJckhLaktGYUZ4TUh6SGhDTjJPQk9zWVRvR2FMQzdVbjhDakR3aWdEYm1V0gH_AUFVX3lxTE54T08tNHpRRmt3SnQ1aG90RmpGUzdfc2pSaHhhVGtpLXVXVU5fS05tYUNwSEVhVVAxeGtOYWxUbHlhWm1veHNtdmJPSmlHVHI4Z1FPOFBOME1kSmVoWEViLVJHekFQT09uNDJ1Nm53MmwyZHJpbzl6bzRhWF83QjJjdXZBcktWWndLeS1PODU1NmZDdHIzSGdiWDhSUDhUdjJrYklwYm9kY3dFYnpqcEVmRGptUHhSTTYtT3lBb3ZRTlY0UVJJbEVWUmJwUU83bzVNcjNaOWVQOUQyRXlTZ3pjNm9wNmhwcnd2WWJNWUZOZXIzaFI3X1AwRzVuOWI3TQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaTRENW5aemFBZ2dMM3JpamU1dE1xdkc2WXgtZnBOLTduY3d3SGFtekd3eVdFWkhrU2pPV0Q0NGIyeDc3VHhGVGZ2WWpwRl9hUmR3M094aGZ4TnVyU2dNYXpudVVMVktXdnB0SWNJaXJJMUI1X09WQXhaRXg0VHF2VWtBcFdRUGZUZEJraXA4WXhtbDV0ODN2THNVaEN1M1Y1Y0tQSG1BT09TNkNHaldjTTdnZkNfMFlUbWtoVTJ5cDNGNXFjdjRGZUdJckhLaktGYUZ4TUh6SGhDTjJPQk9zWVRvR2FMQzdVbjhDakR3aWdEYm1V0gH_AUFVX3lxTE54T08tNHpRRmt3SnQ1aG90RmpGUzdfc2pSaHhhVGtpLXVXVU5fS05tYUNwSEVhVVAxeGtOYWxUbHlhWm1veHNtdmJPSmlHVHI4Z1FPOFBOME1kSmVoWEViLVJHekFQT09uNDJ1Nm53MmwyZHJpbzl6bzRhWF83QjJjdXZBcktWWndLeS1PODU1NmZDdHIzSGdiWDhSUDhUdjJrYklwYm9kY3dFYnpqcEVmRGptUHhSTTYtT3lBb3ZRTlY0UVJJbEVWUmJwUU83bzVNcjNaOWVQOUQyRXlTZ3pjNm9wNmhwcnd2WWJNWUZOZXIzaFI3X1AwRzVuOWI3TQ?oc=5)
+
+---
+
+### [El VPH y las lesiones precancerosas afectan con frecuencia a los trasplantados renales - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
+
+---
 
 ### [Immuntherapie: Neuartiger Impfstoff könnte Behandlung von Hirntumoren verbessern](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMERNZFNBVGoyNzZVQWo4ZEtLTWU5WXQ2OWF0WWNyNDhjOHI5bEZpa2M4YUtvTkxkUEJjcV9JVnNzZWx4QUlGX0tvZnJlZTlfekJRYm9Gc3h0WWYwY3VUMVpkeUdVdlV4eUotY09zRDR3QmpjS3pEQlBHbEZkakd5ekhrN0tZZ0RuLTBYZzF4UDZ0NzBTd3lhQlJuZXM?oc=5)
 
 2026-07-08 <span class="news-indication-tag">tumor</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMERNZFNBVGoyNzZVQWo4ZEtLTWU5WXQ2OWF0WWNyNDhjOHI5bEZpa2M4YUtvTkxkUEJjcV9JVnNzZWx4QUlGX0tvZnJlZTlfekJRYm9Gc3h0WWYwY3VUMVpkeUdVdlV4eUotY09zRDR3QmpjS3pEQlBHbEZkakd5ekhrN0tZZ0RuLTBYZzF4UDZ0NzBTd3lhQlJuZXM?oc=5)
-
----
-
-### [Krebs: Dieses kleine Organ entscheidet mit über den Erfolg der Therapie](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
-
-2026-07-08 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkRrS3llckduOTRhc3pvTU81eDBEbEFCQWVWZFB3cFF4TkdRQ3RqcmpHckVTanhHWVhFWkJJRmZ2RlRtT3JzcmQ0aS1vYXUzcW9VYWo5ajkzd0xGQkpkTE4zQnFZTUZZUFZBTmMwQUt6cXRtOThMQ255OUNab0ZmY1V1THRZelEtWmlQNFJfTG1hQkNTOG5Zc2NKZHdjeUdmejhackxrazMwdDlOT0xJTlpBUE9EUUxiVFphVmZhQTBaX1dGcGxYWS1teVlMbW00Rnc?oc=5)
 
 ---
 
@@ -83,6 +123,22 @@ permalink: /news/talazoparib/
 2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5odzZibW5CMkZncXFmUENfOTk2dzNpNllMSHdWenNsNU1wSUlFcWY5OHFITC1LLW0yLWstalAwaHhjQ2Zjc1ItdGhueEN0bC1Xbm9jT2h6V2NLcUpia0IwMVdlcnJXZTdZTUZYREUwbHJJdENjN3NUVkJIUzUwb1E?oc=5)
+
+---
+
+### [Son says mum died after bowel cancer follow-up stopped at 74 - The Press](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXdWU3dpNUZ3WWE3RTgtS0t5bGE1Wk5MZF85Mk93enM5enVPWmNmaDFOajJwN0s3Yjh3VlA2Z05lWkl2cFlnWXJENF9qaG9uT2w3N08zSW12ajlGWGVPMUE3aEltYVlieHc3N3ZxZ2F1SHlHR2JuaGxTNDk4dG5rZkkwTVE5ZjN6eUJwRmdsMWJlT0V1enV3cENNWmk3M1dK?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Press](https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXdWU3dpNUZ3WWE3RTgtS0t5bGE1Wk5MZF85Mk93enM5enVPWmNmaDFOajJwN0s3Yjh3VlA2Z05lWkl2cFlnWXJENF9qaG9uT2w3N08zSW12ajlGWGVPMUE3aEltYVlieHc3N3ZxZ2F1SHlHR2JuaGxTNDk4dG5rZkkwTVE5ZjN6eUJwRmdsMWJlT0V1enV3cENNWmk3M1dK?oc=5)
+
+---
+
+### [Not all birth controls are equal, some are linked to higher risk of brain tumors, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHFjcGRsOWJ2M0xWWjRUQTN3a05wSVl0NnZsMjE4OUV2T29JX19oT005SlRNeWZFeXloY3VJa011aWExQ09JUVdSMDlDVE9Fa3NlanowaGp1YmlfSjc1am50dzN4UkNIWThNZ2UwaU9UUW9sS1pMU2oyQjJFNnhjQQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHFjcGRsOWJ2M0xWWjRUQTN3a05wSVl0NnZsMjE4OUV2T29JX19oT005SlRNeWZFeXloY3VJa011aWExQ09JUVdSMDlDVE9Fa3NlanowaGp1YmlfSjc1am50dzN4UkNIWThNZ2UwaU9UUW9sS1pMU2oyQjJFNnhjQQ?oc=5)
 
 ---
 
@@ -118,11 +174,19 @@ permalink: /news/talazoparib/
 
 ---
 
-### [Mum of 3 felt '9 months pregnant' - two doctors were 'shocked' when they examined her - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
+### [Sitting for long stretches linked to a higher risk of death from cancer – oncologist answers questions about the new study - The Conversation](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMEd3S2tRbDNfMWU2RDFTa3RMRHVnajh3Qkg3bnE2YU9jckw5SEwtRHdSbks0aERadWg3VnFGRHh0NWxRdThzVTF4T2tQbE1XeHQ4bmpQTXZONWVmMlRPQVJmam8xRDNLWU1XR0ZVTVVZTjBObWRTTGE4UnJnTDZoVG9DVWpoNDhlN1o3T056OWVYVV9GVjR6Q2J6b3JzT3dXbmJlWXAwQlZjV1Rjd05mYk5FRjJUTkNqbVd2b3lEVDQ2Tk44SzVzNnVpejV1bWJkRHdyVGpNR3J4Y01VRl9VTF90RUQtYlItT25n?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMEd3S2tRbDNfMWU2RDFTa3RMRHVnajh3Qkg3bnE2YU9jckw5SEwtRHdSbks0aERadWg3VnFGRHh0NWxRdThzVTF4T2tQbE1XeHQ4bmpQTXZONWVmMlRPQVJmam8xRDNLWU1XR0ZVTVVZTjBObWRTTGE4UnJnTDZoVG9DVWpoNDhlN1o3T056OWVYVV9GVjR6Q2J6b3JzT3dXbmJlWXAwQlZjV1Rjd05mYk5FRjJUTkNqbVd2b3lEVDQ2Tk44SzVzNnVpejV1bWJkRHdyVGpNR3J4Y01VRl9VTF90RUQtYlItT25n?oc=5)
+
+---
+
+### [Mum of 3 felt '9 months pregnant' - two doctors were 'shocked' when they examined her](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
 
 ---
 
@@ -131,38 +195,6 @@ permalink: /news/talazoparib/
 2026-07-07 <span class="news-indication-tag">cancer</span>
 
 來源：[Soirmag](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjNpRTQwTUZhUWo1T3B0NHVLZTJFTmhVYmNmS2Z6dzFOU1hPUkNHZTc1OFVxb1YtOGpWa2dxaHc0eDFyZTRfOVluU0NfZWhIWU1TZWpOU2hKMmctRVBsU0FPS0x0dnZPNTBJQ0g4bjFsNjVDRktid0ZFWnhaenZsQld1VmZCd1AxbUlzZFBxbkhOMV9NeFFQV01LQUYzYVpRS2JuQjJZVVlRY2liRkE0WFFoSVpUQnFGa3JhXw?oc=5)
-
----
-
-### [Cibi ultra processati da evitare a qualsiasi costo? Ecco perché potrebbe non essere una buona idea - la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHRiN2hxenNIUTl6SlR2b3Ayc2s3U2xLb1Nhd1BaN2syVVFOcXdZWXRuXzJiOFZjR0xsdGZBZzY4dUFxZTRtOFNYX3ZYb3RsZjVXTlFIbkJFekwtbnJyVW9qMEN5WXNwZjkxaGk5VnZ2eHF6Wmdqd01WQmx5VDU2cWVGelZuZ3A5a3otTHJzeWtyV1djZTBTbkh30gGfAUFVX3lxTE1CejlnSjZfRDJVekZrQXNwOHFLQVdhRERrVkY4YTNTMVROb3pMMktSOHB0TFRXTWlURk9kUVlVX3NiZmF4OXpORzd2YmtoTmNKaTJyeUVKREpmSE9vLU1nNEN6T2xmQzl3LUVTbkRYdmVMTEk0b2YwdldYV3BTbEJfUThlcVk1eWRJYUU2djNkeXlYdUN5TFJXZ3ZOZkZYcw?oc=5)
-
-2026-07-07 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHRiN2hxenNIUTl6SlR2b3Ayc2s3U2xLb1Nhd1BaN2syVVFOcXdZWXRuXzJiOFZjR0xsdGZBZzY4dUFxZTRtOFNYX3ZYb3RsZjVXTlFIbkJFekwtbnJyVW9qMEN5WXNwZjkxaGk5VnZ2eHF6Wmdqd01WQmx5VDU2cWVGelZuZ3A5a3otTHJzeWtyV1djZTBTbkh30gGfAUFVX3lxTE1CejlnSjZfRDJVekZrQXNwOHFLQVdhRERrVkY4YTNTMVROb3pMMktSOHB0TFRXTWlURk9kUVlVX3NiZmF4OXpORzd2YmtoTmNKaTJyeUVKREpmSE9vLU1nNEN6T2xmQzl3LUVTbkRYdmVMTEk0b2YwdldYV3BTbEJfUThlcVk1eWRJYUU2djNkeXlYdUN5TFJXZ3ZOZkZYcw?oc=5)
-
----
-
-### [Proteggendomi dal sole rischio carenze di vitamina D? Ecco quanto e come esporsi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT091by05NndYRlFfcTdNWVZ6UjQtMmREVm5qdzRnWXdlLTRqUlZUMGExX25laXNFREY5TXdtTnNvbHkzdWNTOGYzYWIydXhqY1dHRXBsUDR0Z2dIWUFObjZqb0VwbUFyeTNDWDhSVTZnQzRmTWJ0T191cDVLcElPM2YxbS1DdzlENy10WXM2bXg0RnBDMmtrVm5BYldEX3NEajVHSlhLR1hBSXRKMkdleA?oc=5)
-
-2026-07-06 <span class="news-indication-tag">cancro</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT091by05NndYRlFfcTdNWVZ6UjQtMmREVm5qdzRnWXdlLTRqUlZUMGExX25laXNFREY5TXdtTnNvbHkzdWNTOGYzYWIydXhqY1dHRXBsUDR0Z2dIWUFObjZqb0VwbUFyeTNDWDhSVTZnQzRmTWJ0T191cDVLcElPM2YxbS1DdzlENy10WXM2bXg0RnBDMmtrVm5BYldEX3NEajVHSlhLR1hBSXRKMkdleA?oc=5)
-
----
-
-### [CRIS Contra el Cáncer financia una nueva estrategia de terapias dirigidas frente al cáncer de ovario - Cantabria Liberal](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMjdqRzZCa051OVczUzhpem1RZndPTUJjckN4Z0xqcENaOXdwbC1rdUJIYnRNNnFKRFdVSmtVX2JQbVpReDlkS2pONEhNR2R1cl9jNWhpS2lPQm01NWk2ZEZGTXlBbndyMFIySEJVRUhQMnBJRHBzZ2RNM205QzVkb2liWG03ZXNGOGtoajJrZHpwTWJnRmx2eXZTU3I1U0FjaWRLNDN5di0tYmU2Wm1ZN2ItZThIa3g0X2NsZHY2LUtjSmpJNVR5Vms0ZXdMSy1KRmhWbzF1MmFkSFJmRXhvUGdNMHVNSVRaOThyYWZQZDFGXzU2d2c?oc=5)
-
-2026-07-06 <span class="news-indication-tag">tumor</span>
-
-來源：[Cantabria Liberal](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMjdqRzZCa051OVczUzhpem1RZndPTUJjckN4Z0xqcENaOXdwbC1rdUJIYnRNNnFKRFdVSmtVX2JQbVpReDlkS2pONEhNR2R1cl9jNWhpS2lPQm01NWk2ZEZGTXlBbndyMFIySEJVRUhQMnBJRHBzZ2RNM205QzVkb2liWG03ZXNGOGtoajJrZHpwTWJnRmx2eXZTU3I1U0FjaWRLNDN5di0tYmU2Wm1ZN2ItZThIa3g0X2NsZHY2LUtjSmpJNVR5Vms0ZXdMSy1KRmhWbzF1MmFkSFJmRXhvUGdNMHVNSVRaOThyYWZQZDFGXzU2d2c?oc=5)
-
----
-
-### [Mechanische Belastung: Warum es fast nie Tumoren im Herzen gibt - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFZaT2lKa29DV3VNQ1pYTHA0QXZEWUYzZUxIenhRdWxienZiTkF2RlY2aU8xNXdTQWduNWo5OE1tZURQcDN2cl9nSURmbXFabldCQWtSMVV5SjFSVTk1X3BNUHRGY2hreTg2MU96NGwzdFRVUW1yNG54eml1QkIxRTVadi1zMnhlUzJmSEhCUmU?oc=5)
-
-2026-07-06 <span class="news-indication-tag">tumor</span>
-
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFZaT2lKa29DV3VNQ1pYTHA0QXZEWUYzZUxIenhRdWxienZiTkF2RlY2aU8xNXdTQWduNWo5OE1tZURQcDN2cl9nSURmbXFabldCQWtSMVV5SjFSVTk1X3BNUHRGY2hreTg2MU96NGwzdFRVUW1yNG54eml1QkIxRTVadi1zMnhlUzJmSEhCUmU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fluciclovine-18f/
 ---
 
 <p class="key-answer" data-question="Fluciclovine (18F) 有什麼相關新聞？">
-<strong>Fluciclovine (18F)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluciclovine (18F)</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/fluciclovine-18f/
 <p><a href="{{ '/drugs/fluciclovine-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Migräne mit Aura: 400 mg Magnesium senken Blutdruck messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
-
-2026-07-06 <span class="news-indication-tag">Migräne</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2VnbUZuNlVqbC1NbEYxZV9VNkJKNVUwcFB4alVReC13elJjTng0dmVCMkFRTXBmNlNHM3E2dVhicmh3d2p3NnQxWHYwYkZXTWJSWmZlbjZOZ2toTXpIUU9rSldKTXZWTjJfa2RRamRmX0Z6Mi1MLXVlV25JQTI3VkJvWmlUdDRUa3dPSkhmTm40ekFTWG5WYkJjMk5JbVdtQWx6Zk94eDNPZWJX?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

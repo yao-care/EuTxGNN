@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
 
-### [La epidemia de ébola en RDC ya supera los 1.700 casos en medio de huelgas médicas e incidentes de seguridad - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkluWlpxUVR4c0ZHX201Smlzd3drOGlqQzZ6SGZ3Nnd0MmRzcDJUZDlwNW1pdEdUNUdQZEFaeGItUnJjUWkyNUpPRVpIczdwbW04aWtNYVVkYUo3eGZQM2pKTGFkaW9NTENSMVFlcE02TUZidUwzdWRpbDQ4WG1WdFpiOU5fOTN3WEhvSHBybDdTVGZmZ0lKNUdEdnMzU2RqOWY1UkhxQVl3NkRpdnRsek0tTQ?oc=5)
+### [La OMS alerta de que el cáncer se duplicará para 2050 y pide "medidas urgentes" para evitarlo - El Confidencial](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXNxaFpRNkVRZjJ5NktKZFFJelowSFpGdXBqUGJnUlliU01LV1BLVUpva1lGTU5kZHNCTENZa1N1SUtTLUJRaVRWTU8tRkstcHFMOXdvUHhXcGtnMkdGa0NJRzMtaWhubnh0ZlFxVmpKVmlwWFFlZ2NqaXNZRnUyUWN0Z3dFZERTOXZlaDhaQ1Znc3FrUkprQXFQekVMZmNIbkxpYWk1WXQ2eFduWDZR?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkluWlpxUVR4c0ZHX201Smlzd3drOGlqQzZ6SGZ3Nnd0MmRzcDJUZDlwNW1pdEdUNUdQZEFaeGItUnJjUWkyNUpPRVpIczdwbW04aWtNYVVkYUo3eGZQM2pKTGFkaW9NTENSMVFlcE02TUZidUwzdWRpbDQ4WG1WdFpiOU5fOTN3WEhvSHBybDdTVGZmZ0lKNUdEdnMzU2RqOWY1UkhxQVl3NkRpdnRsek0tTQ?oc=5)
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXNxaFpRNkVRZjJ5NktKZFFJelowSFpGdXBqUGJnUlliU01LV1BLVUpva1lGTU5kZHNCTENZa1N1SUtTLUJRaVRWTU8tRkstcHFMOXdvUHhXcGtnMkdGa0NJRzMtaWhubnh0ZlFxVmpKVmlwWFFlZ2NqaXNZRnUyUWN0Z3dFZERTOXZlaDhaQ1Znc3FrUkprQXFQekVMZmNIbkxpYWk1WXQ2eFduWDZR?oc=5)
 
 ---
 
-### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
+### [Wann DOAK wieder ansetzen nach Darmspiegelung?](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtHRTVYbnQyWkJvOVA2UnNCc0RTSFJkWk1FV1Q3MHR4NkVhbjFJRlI2WGtUYTZISTIzUFc2ZE1RY2R6MThKaF9OUXhLb2dnckdBVlV2cEQ4RHh4S0R4VUxIRGp1TUQ3XzdsdkwyZElFbi1jbFRrVTIzOFVRT2pfVnJwNk9EWkxPUkYxaUtFMlBWaFJCNGJ2YUVB?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtHRTVYbnQyWkJvOVA2UnNCc0RTSFJkWk1FV1Q3MHR4NkVhbjFJRlI2WGtUYTZISTIzUFc2ZE1RY2R6MThKaF9OUXhLb2dnckdBVlV2cEQ4RHh4S0R4VUxIRGp1TUQ3XzdsdkwyZElFbi1jbFRrVTIzOFVRT2pfVnJwNk9EWkxPUkYxaUtFMlBWaFJCNGJ2YUVB?oc=5)
+
+---
+
+### [Trabajadores que combaten el ébola en Congo hacen huelga por salarios mientras las muertes rozan 600 - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVRQSUg1V2lxbDFiLUdEZGlVZG9oMWcwZ1ZuNnNDMEpGQmVOdFFmRGQ1U2s3VTNTemNMN0RKczB5U3JfQUkxZkJPdGU2dVdmX2x0bGEyZVFMM1htS19LVklFT1p6Q0JaU1lwanhHM2dpcE1rS3ZldHJCd2s4RG83U0prUUxuZ09FcEVNUUJyQzBTMXpkZmxRaFBvUXBpM0Ri?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVRQSUg1V2lxbDFiLUdEZGlVZG9oMWcwZ1ZuNnNDMEpGQmVOdFFmRGQ1U2s3VTNTemNMN0RKczB5U3JfQUkxZkJPdGU2dVdmX2x0bGEyZVFMM1htS19LVklFT1p6Q0JaU1lwanhHM2dpcE1rS3ZldHJCd2s4RG83U0prUUxuZ09FcEVNUUJyQzBTMXpkZmxRaFBvUXBpM0Ri?oc=5)
+
+---
+
+### [El COFRM lleva la prevención del cáncer de piel al mostrador de la farmacia - IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3ZxaVZiaWVncXljWU1qZFU3cFdmRkxnLUM1SDNJTkE4TEZyRFFaZnR5eUx4XzZDa3JBc09TSm1rWGVUeDdRZ3NWbkFab2c4ZkwzZ2VqS3ljdHp6QkJZYUx6R1R5WVRqZ2tVakNEN2ZHcnF3OGNBUThGRFhsOHR5bDlZSC1NUkNkQ2FKdXpoeGg3ckd5UGMwN2FpOFJMeEZxVUFfZFZ0SGVlVHNraUU2YW9wYzPSAa8BQVVfeXFMUEFOZnFuWExNNVZWN1ZvaUw5TWVLbkpGTXU2aEFSZDN5Z3BDa0Z2bjdEcFNJM0xIaVROV09tR21lYzNPUkJNYVNQaFo4RTROMF9sYlByS1lZdWRIVEh5YU5EY0FZNzU0ZnR6b0JJTnptWUpaUkZjbU9pZmJDMjZPcHFLc3pGVXNLdV9nSXpjMHNJWWwyRzh2eS0tS0phOE85YVRHYUxDSVo2NEZHd05ZSQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3ZxaVZiaWVncXljWU1qZFU3cFdmRkxnLUM1SDNJTkE4TEZyRFFaZnR5eUx4XzZDa3JBc09TSm1rWGVUeDdRZ3NWbkFab2c4ZkwzZ2VqS3ljdHp6QkJZYUx6R1R5WVRqZ2tVakNEN2ZHcnF3OGNBUThGRFhsOHR5bDlZSC1NUkNkQ2FKdXpoeGg3ckd5UGMwN2FpOFJMeEZxVUFfZFZ0SGVlVHNraUU2YW9wYzPSAa8BQVVfeXFMUEFOZnFuWExNNVZWN1ZvaUw5TWVLbkpGTXU2aEFSZDN5Z3BDa0Z2bjdEcFNJM0xIaVROV09tR21lYzNPUkJNYVNQaFo4RTROMF9sYlByS1lZdWRIVEh5YU5EY0FZNzU0ZnR6b0JJTnptWUpaUkZjbU9pZmJDMjZPcHFLc3pGVXNLdV9nSXpjMHNJWWwyRzh2eS0tS0phOE85YVRHYUxDSVo2NEZHd05ZSQ?oc=5)
+
+---
+
+### [Mum who woke with bruises diagnosed with dementia-like symptoms – then fiancé's mask slipped](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
 2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSEN5Y0RyRnR4Sk9VbDlEQnNUX3VxNVlEV0JJUF9XU196dHM3ZEhOcVFvSkZXSHVKNFhCOHRyMjVjR2UzS3dYSmxiOXhnVFpjRllzcW9KUmFFWVpIM1o3SnA5V0cyalhJUUNndWRWYVRPeUZUV1N1ZjN30gF_QVVfeXFMT3dFZXZERHRCMVlNdVBFRUowZWVnNkg2QktFbzlkSmZzZkpKWU9ORFZzVmpXSTBfZzhJVFlrM1JuOS1TWEVDeC1XUmZFT3ZUcm1kT0xvNE96cHJYdGdocEhOb1YtdjRWODZfX2RMTDZGTDZJWmQ0SzN0QVoyZUh5TQ?oc=5)
 
 ---
 
@@ -94,11 +118,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [«Dormire 80 minuti in meno a notte fa ingrassare»: il legame con peso e sedentarietà in uno studio - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
+### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
 
-2026-07-07 <span class="news-indication-tag">MS</span>
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxPSjl0a1dxbzdpeXNBSkZ0bjIybGJyT3pDWF80d0pycXQ5ZWdsbmJnYTZfNGM3aWU0amFSTTVyUHh5Zkl0S0RUWS1vNlBHX1BoSE9nSG5fdGxaWGlWZENzNlpnZU5QMVVmSkFEcmhFWVVUbnRuQ2VYREcwbk81U2FUZXA5UGduOXpodXNLbVBuNjVjV3RYNTJfZVF4dTg3d9IBmwFBVV95cUxOWXIyak5nVE1Xb1BvWXk5NnJxYUpZQV9GcE1ody12dW1fOUZjUGVUR0plLWxZbTVJRFJRallPak5jUllZd09pVk1aVE5Lbkk0TVpjOENhME9ralFMbTZmTFlWRGdGUHdhYmxKMzVCeXQxRmhlcXNSWUxpQjNyaVBiQjBnblZ4Vjc3WU43cURERjg2ckxKalF5U3JHVQ?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
 
 ---
 
@@ -110,11 +134,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [10 ‘healthiest’ ultra-processed foods — the scientist’s list - The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2laYWlkeklfQkxSNURPZHNTTi1ES3NfVmtWaUFrY3dLa0RVMmZaWVBZR3ZKTHBxRUdOU2RweHgzM3dsY2Jvc0NKTU9EMVRJWkNDTHkwN1RjeGE1cmxpcDVWSTQ3OGp4UjVBLTdZQ0pxODRGUWVZUGN6WkV5Z1V3T2xCZ29kVzhjbXplV2xINnkzNGJvcmU4YS1tUk9IQk9ZNUZSeXRGd25sbGs?oc=5)
+### [La denuncia del content creator Angelo Mazzone: "Ho preso l'Epatite A cenando in un ristorante a Milano"](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pNd0FnWG9Lb1lCamZkQ2U3WEhscFRRVjJhcUhuNmRtZnZaR2U2NXV4N0E4ck5ZZU1KNlE4b0JvWjhoU1d2ZWJNeWxERU1MWmk2RHBiVExkMUM3cUVDSncwTm5jalJnRmVoaDVqNEl5cHpnS2U5czBaeTE2U1hmYktsSDVwTEU0NDRVMnFsTHp4QjBROHQwaVhLVjNWb0x2czlWNXdrNlVleWppTUswRVpuS3hSb0o5YVFwWjZyVW1abklFVkVsaXdsUQ?oc=5)
 
-2026-07-06 <span class="news-indication-tag">MS</span>
+2026-07-07 <span class="news-indication-tag">epatite</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2laYWlkeklfQkxSNURPZHNTTi1ES3NfVmtWaUFrY3dLa0RVMmZaWVBZR3ZKTHBxRUdOU2RweHgzM3dsY2Jvc0NKTU9EMVRJWkNDTHkwN1RjeGE1cmxpcDVWSTQ3OGp4UjVBLTdZQ0pxODRGUWVZUGN6WkV5Z1V3T2xCZ29kVzhjbXplV2xINnkzNGJvcmU4YS1tUk9IQk9ZNUZSeXRGd25sbGs?oc=5)
+來源：[Fanpage](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pNd0FnWG9Lb1lCamZkQ2U3WEhscFRRVjJhcUhuNmRtZnZaR2U2NXV4N0E4ck5ZZU1KNlE4b0JvWjhoU1d2ZWJNeWxERU1MWmk2RHBiVExkMUM3cUVDSncwTm5jalJnRmVoaDVqNEl5cHpnS2U5czBaeTE2U1hmYktsSDVwTEU0NDRVMnFsTHp4QjBROHQwaVhLVjNWb0x2czlWNXdrNlVleWppTUswRVpuS3hSb0o5YVFwWjZyVW1abklFVkVsaXdsUQ?oc=5)
 
 ---
 
@@ -131,14 +155,6 @@ permalink: /news/velpatasvir/
 2026-07-06 <span class="news-indication-tag">MS</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ic0l1Q3BFVWN0T3VfYkhxY2NBV0dzaGF2aTYxdWgyNU9lN3FqZnpCblZHb1JlZ3B4amFKTjgtQXVwUnhKMlJvVXdtaFBUZHJYYkVqamN6X3pianVzWUE1WTVLNVlta1plRFV3X1ZpaVVkV2RuZmxSNVF30gF_QVVfeXFMTUtSUEo5UUhfOTBtb1NITFRhSWY3enRJMTNkbUN1NWV5bEFpdmRrRGNBdWVSZ1Z1dDA0STh3S0ZfLXl6SmdEdEZxbW1UM21keWhzOXp2amZPWUZVNXd0dmVZbDNEcTZNcURxa2RYUkhMYnJzM0RfUTVMbTExaVFxNA?oc=5)
-
----
-
-### [Angelo Mazzone: «Ho preso l'epatite A andando a cena fuori. In ospedale è stata dura, a tutti dico: vaccinatevi» - Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
-
-2026-07-06 <span class="news-indication-tag">epatite</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMioAJBVV95cUxNUU9zV3VXd21VVlJXdHdvbTRvX2pEOF9TSnh0STQtWklNckZ5el95alJ1QWpDV0JqU1JmdmpvVzhvMzRvYWhtWkc2aHU1MGZDT2JNSENUa2lqd0FKTnU1ZUFSR215SEJRQ0FVbTJrUmJQWUZhQ05laWRrU1JlMzdUc1pLSE1fVk1qQmhxQmY2Y2M2NWlRWURVRWQyRE9yTDR0ZEs0N3dZbzdMZm9KR1UzWjJIbUwzTDJFa1BPRVo2Yl9YZHA3cWNVOEhyWkFhY0FLaDI5UmFGRWNSMWo4Q3lrTzRIRVotRTYxOWNYUzBTLXhRa2p6d3g3aXFkTzk5UXQ2WlF1aGRpNUg4THBxUnFJa3o5VUJvRUV1QXM1NV9WdXHSAaYCQVVfeXFMT1QyR2R3eUZBbVVMLTdlcV9rYlllN1RsVzFkN1Vhb2RzaHp4WkhqTUstS011X1AzM1lUNVYyYTlvelo0TG01ckFsWEhiRWZmNk10WUxjM1NlQnUtTmtMQ0RyZ1NQTF9JMFlybVp5Q3NsZFhHVWpERXEzcHBHbWhRWjZTRU9NMV9ERmctZktscllaU0FiOGxGM3ZYT0ItWk1kTkdOUW1iSE5BY1ZRUnNHWDNhQ2RkSEo0Rm1OQ21hVmxTTmZfNERic3NzNE52UU1jdVlVd2pJR3JFM0NPSnFseWtzR05za1YybHJmTGdoenJmSms4ZTBabGhBdjlla0xGaWZfcE1IbmJJc2o3Wjhib3FRUUNveTRDRVlxOTA5OHIyMk9UdjRR?oc=5)
 
 ---
 

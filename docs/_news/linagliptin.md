@@ -14,7 +14,7 @@ permalink: /news/linagliptin/
 ---
 
 <p class="key-answer" data-question="Linagliptin 有什麼相關新聞？">
-<strong>Linagliptin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Linagliptin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/linagliptin/
 <p><a href="{{ '/drugs/linagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（10 則）
+
+### [Diabetes-Risiko Frauen: Siebenfach erhöht nach Schwangerschaft - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObGUwNGZwNnhTdDV1QU9xcW1LeC1kY3dLcjFJNnNNbXpXT3RvbDhxMHZuNUlsdXpmTUw1SFNtQ1NHQnFYZ0xSMGRsLTB6Vmg3R180NS1PRzY3eHVtb2lESlVncVZlR3pXd01lWHg5ellXN3N4Tm1QLXQ5SWFpcHVSbEVlektqZkIzb290T3lfc045NldWMG5GMGN3V0thU19JMndXMllKZnN3NEh4RlNkZw?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObGUwNGZwNnhTdDV1QU9xcW1LeC1kY3dLcjFJNnNNbXpXT3RvbDhxMHZuNUlsdXpmTUw1SFNtQ1NHQnFYZ0xSMGRsLTB6Vmg3R180NS1PRzY3eHVtb2lESlVncVZlR3pXd01lWHg5ellXN3N4Tm1QLXQ5SWFpcHVSbEVlektqZkIzb290T3lfc045NldWMG5GMGN3V0thU19JMndXMllKZnN3NEh4RlNkZw?oc=5)
+
+---
+
+### [Identifican nuevas conexiones entre obesidad, diabetes y alzhéimer - La Noción](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnVxeWlnYVp2SnhGSllLTXFZamxWVEZMM21rTHc2aUxsUXQ0RTdweDVaRG1udHJQZl9EYWFSaGRTb2ROXzUwZ0hSVUtxcDVPeWlMYW9TbFp0WFBwYklSWWhITWhHa3MtR2hncDVjcVFzeHd2S1V3cEpQV0lIdHg2UzRuTWR6elY5dFZXS2lITEhXY3BWZmk5NXQtbEtpUllW?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[La Noción](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnVxeWlnYVp2SnhGSllLTXFZamxWVEZMM21rTHc2aUxsUXQ0RTdweDVaRG1udHJQZl9EYWFSaGRTb2ROXzUwZ0hSVUtxcDVPeWlMYW9TbFp0WFBwYklSWWhITWhHa3MtR2hncDVjcVFzeHd2S1V3cEpQV0lIdHg2UzRuTWR6elY5dFZXS2lITEhXY3BWZmk5NXQtbEtpUllW?oc=5)
+
+---
+
+### [Diphtherie: Haustiere und Diabetes erhöhen Risiko um das 20-Fache - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjkxYWQ3MmdJYlRIc3hoMTR5TVVLdF9KRFR2aGRrNGNhRVJFNlZ1MVpyZkxkX2dwTjZZSWpqU1dfTU5uNDBBN2pBMVo4bDZqZzR4SHlZQWtkY2FpbU1RdWJQX2JPaHFCdUQ5N1NMYmM3MXN0OWFCMVFldU1NTTF6Q3MzNEtPTXNsXzRmX1VPMzVTTzM4UTRKUFNNd3VxR055NVpYWF80WW1XaFl6RFUwR0FQMks?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjkxYWQ3MmdJYlRIc3hoMTR5TVVLdF9KRFR2aGRrNGNhRVJFNlZ1MVpyZkxkX2dwTjZZSWpqU1dfTU5uNDBBN2pBMVo4bDZqZzR4SHlZQWtkY2FpbU1RdWJQX2JPaHFCdUQ5N1NMYmM3MXN0OWFCMVFldU1NTTF6Q3MzNEtPTXNsXzRmX1VPMzVTTzM4UTRKUFNNd3VxR055NVpYWF80WW1XaFl6RFUwR0FQMks?oc=5)
+
+---
+
+### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzF0cGRuZC1WSzg5cGo3QU1meHM3RGtLX0MzZVBxY1BrMGRDTkh2OWpLbDZOYU1xUk1UZjFHaVp3V2xpb2pwMTJHYVh3dFNMTzRYcVRFQjhfTDJZNXJCVDQ0WUJlNFdoTXhWWHNRdElNUFNjRHhJWkYwSnNsdnpDVzRlNTRWMGlOX2c3dTZVNmFvY05zNGozc2pSdVZsREMyNWVyVW5RY1ZGeVB3U2xtNi1VRQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzF0cGRuZC1WSzg5cGo3QU1meHM3RGtLX0MzZVBxY1BrMGRDTkh2OWpLbDZOYU1xUk1UZjFHaVp3V2xpb2pwMTJHYVh3dFNMTzRYcVRFQjhfTDJZNXJCVDQ0WUJlNFdoTXhWWHNRdElNUFNjRHhJWkYwSnNsdnpDVzRlNTRWMGlOX2c3dTZVNmFvY05zNGozc2pSdVZsREMyNWVyVW5RY1ZGeVB3U2xtNi1VRQ?oc=5)
+
+---
 
 ### [Dormir menos de seis horas favorece el aumento de peso y la inactividad física - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
 
@@ -62,27 +94,19 @@ permalink: /news/linagliptin/
 
 ---
 
-### [SGLT2-Inhibitoren senken Alzheimer-Risiko: Evidenz erweitert das kardiometabolische Konzept - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlBKSkI3bldRTUFXNldXR1BiMVBfM2ctQmRRbG1BeTA3Z1NvZjhWbnoxSHdmWlZlb2dXNVBnRmhiRmR2VXU0S21qTzJTOUZDWEJBY3AzZURQcjdwdUJKZDZPTVlsOXB6dkl2c2NxbXRfVDVFLWJUejEzTDZJSDFFLUNWcko1MFNHWlpuWGtVVmlBdkdPanZLWVh2WlRaOFJSdWxfN0xQWXVaekZfMEVaNmNxWU1Scl8xVTdPYlpzNA?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlBKSkI3bldRTUFXNldXR1BiMVBfM2ctQmRRbG1BeTA3Z1NvZjhWbnoxSHdmWlZlb2dXNVBnRmhiRmR2VXU0S21qTzJTOUZDWEJBY3AzZURQcjdwdUJKZDZPTVlsOXB6dkl2c2NxbXRfVDVFLWJUejEzTDZJSDFFLUNWcko1MFNHWlpuWGtVVmlBdkdPanZLWVh2WlRaOFJSdWxfN0xQWXVaekZfMEVaNmNxWU1Scl8xVTdPYlpzNA?oc=5)
-
----
-
-### [Descubren un mecanismo cerebral que anticipa la ingesta de alimentos e influye en el riesgo de padecer diabetes](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeThBZUluQWE0cW5ZdjVZTV9ERjZHTXBaeDBHc1EteFBaVE9TS1NWeE9HVHFGa0xoelNKSzlyNC1wWXFTcjdmcXdfNVVzZE92R0FYTHY3XzJ2dmdMWVpFWUdpQXVhMWdmbGY2QkV1Um12OHpfY0dLMFZsYzJoUm1BcWlubG1lRWlqVGJlckpTSERWUklOWXlOZFAweVdVcXJDOUZQRFR0TUNlNHZPTm9Zc3RKZTRsa0xWa3ZRZC1qc2piRFZST2p2MzNVY2FZZWZKd2owNVNEYjBHYV9YU2xBVUVaVWhCb1dLUm5Wc1lwSVlMS0xEem10SQ?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeThBZUluQWE0cW5ZdjVZTV9ERjZHTXBaeDBHc1EteFBaVE9TS1NWeE9HVHFGa0xoelNKSzlyNC1wWXFTcjdmcXdfNVVzZE92R0FYTHY3XzJ2dmdMWVpFWUdpQXVhMWdmbGY2QkV1Um12OHpfY0dLMFZsYzJoUm1BcWlubG1lRWlqVGJlckpTSERWUklOWXlOZFAweVdVcXJDOUZQRFR0TUNlNHZPTm9Zc3RKZTRsa0xWa3ZRZC1qc2piRFZST2p2MzNVY2FZZWZKd2owNVNEYjBHYV9YU2xBVUVaVWhCb1dLUm5Wc1lwSVlMS0xEem10SQ?oc=5)
-
----
-
 ### [Grippeimpfung bei Diabetes: Risiko für Folgen senken](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
 
 2026-07-07 <span class="news-indication-tag">diabetes</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
+
+---
+
+### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+
+2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
 
 ---
 
@@ -102,11 +126,11 @@ permalink: /news/linagliptin/
 
 ---
 
-### [Prädiabetes: Normoglykämie senkt Diabetesrisiko - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+### [Diabetes-Prävention: Normoglykämie schlägt Gewichtsverlust um 71% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGctZVJNRU8xTFdBWlJ3c0U0ZHNkRTZZRktBaVdpOXBkRG5tS0JxSzhZQ0ZEclU4NlNDOGYxdlhxMUk0VVZvUG0ta3dpaVl3ckZadmZtbVpFX1hyc2tKNl9qdEtUcVdiSUN6VzFFSHVPWTJlcTRqV3huRTFjNUZpaml2Y1p2X3BKa0YycDZWUTdPQzlwa0N5cTZUY3BVOHVHT3p3RENvRGR6NzVrY3F5ME4zM1dkUQ?oc=5)
 
-2026-07-06 <span class="news-indication-tag">diabetes</span>
+2026-07-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSFNqVkVjaVR5VXMwVHBHUTE2d3dkLTVnWmphWUUwQWsxbHpEd0djY1M2d2llQUZQVkREQnc2VVFyVFV0WndGSVYtWFh2Z0pFQjFkMjJoWkpPaVZCeGltRnpNU1o1cXZ6cWUtVGtxUW01V2M2bHE2VHo5NDQ4cFJJaFc1M08zZGxwTG5OSF9DMVdWVGxxQVFwMkZSOENVWEZIOHJlYVhINHg0bDlxN3JB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGctZVJNRU8xTFdBWlJ3c0U0ZHNkRTZZRktBaVdpOXBkRG5tS0JxSzhZQ0ZEclU4NlNDOGYxdlhxMUk0VVZvUG0ta3dpaVl3ckZadmZtbVpFX1hyc2tKNl9qdEtUcVdiSUN6VzFFSHVPWTJlcTRqV3huRTFjNUZpaml2Y1p2X3BKa0YycDZWUTdPQzlwa0N5cTZUY3BVOHVHT3p3RENvRGR6NzVrY3F5ME4zM1dkUQ?oc=5)
 
 ---
 
