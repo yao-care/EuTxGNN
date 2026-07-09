@@ -54,6 +54,14 @@ permalink: /news/entacapone/
 
 ## 相關新聞（3 則）
 
+### [El Atlas de la Enfermedad de Alzheimer desvela un abordaje muy desigual entre países - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEJRb2l1NjdzNTNOUTVLYmk3MVhsaVVCTmxIZEdCNEhoa2lNdWF3eHhHN1BIRUZ5M3lMSHdxT0NKV0JsXzF0V096cWRETVMzLTZNRnFPRjRZVkwyNnE2UUFid01SdGQ0UG56d0JrVHpZX3FQR281M0ZtYTYxTlN2ZUd2SXBhbnQzdnVocUNid0ZSR0pCdnN1S04zOThTT19ETUp2Z0VXSlc0OE4zcGlWc2lwV3R2LVVi?oc=5)
+
+2026-07-09 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEJRb2l1NjdzNTNOUTVLYmk3MVhsaVVCTmxIZEdCNEhoa2lNdWF3eHhHN1BIRUZ5M3lMSHdxT0NKV0JsXzF0V096cWRETVMzLTZNRnFPRjRZVkwyNnE2UUFid01SdGQ0UG56d0JrVHpZX3FQR281M0ZtYTYxTlN2ZUd2SXBhbnQzdnVocUNid0ZSR0pCdnN1S04zOThTT19ETUp2Z0VXSlc0OE4zcGlWc2lwV3R2LVVi?oc=5)
+
+---
+
 ### [La exposición prolongada a la contaminación del aire se relaciona con un mayor riesgo de padecer la enfermedad de Parkinson - Adamed TV](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVR4MlVXZ1R0TjQzYlloQU51dmlzdlpIVjJZSERpdE4xOFdZVzNHWFVZVXVDUzRDUGhHbW5GbkdjZ1BVVkRYd0dBYlVHQzVPTUxCU3BMdjVWUy1PMVhWSmNkWWpaYnB4ck1fZ3RqWWx5aUVjanpPSm5md29oZEMzX3B4VDQ0ZV9rSk1hcWhhLTI5a25VSXN2TnBiUVhxX0lHWmh1RzhFdTZmeWh4Y2NRYlhPSHU1TE5QVnByTTJRRzMwUWhIYjVvMm9CUlRGVGwyYXBrQUhTS2dCVHduVXJuU3lNQk5BdjVVZjJDY2ZjUQ?oc=5)
 
 2026-07-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
@@ -67,14 +75,6 @@ permalink: /news/entacapone/
 2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
-
----
-
-### [How to avoid dementia — what the science really says](https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5)
-
-2026-07-07 <span class="news-indication-tag">dementia</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5)
 
 ---
 

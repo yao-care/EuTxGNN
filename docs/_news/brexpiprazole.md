@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Kann Kreatin das Gehirn vor Demenz schützen?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVRmNnA2aHR1ZDZQU0p3Y2hnNGt2LUZZY3EwRFN2Y0ZKcFhzeC0tVWVoX0ZRYVZLQjhyaGFhY3RXTkllSzFPaUpXSVNKdnFpenZkYUJ1VWFQRzdYZXp1NlI4QVlxTlBwVHR5cVJDZFlJcC1wUEQ0NHNld1pjVGN1OWRTUlR3Rm5fNlE3LUJzbC1waDNDT3ljSXl1eEtFczg5VGw2ZjE5VkM?oc=5)
 
 2026-07-09 <span class="news-indication-tag">depression</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVRmNnA2aHR1ZDZQU0p3Y2hnNGt2LUZZY3EwRFN2Y0ZKcFhzeC0tVWVoX0ZRYVZLQjhyaGFhY3RXTkllSzFPaUpXSVNKdnFpenZkYUJ1VWFQRzdYZXp1NlI4QVlxTlBwVHR5cVJDZFlJcC1wUEQ0NHNld1pjVGN1OWRTUlR3Rm5fNlE3LUJzbC1waDNDT3ljSXl1eEtFczg5VGw2ZjE5VkM?oc=5)
-
----
-
-### [Autismusrisiko: Depressionen in der Schwangerschaft verdoppeln Diagnosen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlBuWDhxdlU2VzVCdVpkQlZ6R1BTRFJOXy01MjFMQXpLcElXS0JKT1JtNXpqTWRvXzVpQTI0Sm9VdnZrUEJLSENHYXZGb2NjNGgzVkpBbmNIaFNuY2FNYlBpLWhwVHpla05NOEpadkZHYVVRaGtoMzVLNlJFeW9EY3N2c2FxeXRhYUJxU1NUQ0tVNDlobjVoTERqSlNKNEhfY2o4dFVNM2VHY2NDX045aEFGV1VGWjVfRlhkZg?oc=5)
-
-2026-07-08 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVlBuWDhxdlU2VzVCdVpkQlZ6R1BTRFJOXy01MjFMQXpLcElXS0JKT1JtNXpqTWRvXzVpQTI0Sm9VdnZrUEJLSENHYXZGb2NjNGgzVkpBbmNIaFNuY2FNYlBpLWhwVHpla05NOEpadkZHYVVRaGtoMzVLNlJFeW9EY3N2c2FxeXRhYUJxU1NUQ0tVNDlobjVoTERqSlNKNEhfY2o4dFVNM2VHY2NDX045aEFGV1VGWjVfRlhkZg?oc=5)
 
 ---
 

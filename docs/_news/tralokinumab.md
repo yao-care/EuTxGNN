@@ -14,7 +14,7 @@ permalink: /news/tralokinumab/
 ---
 
 <p class="key-answer" data-question="Tralokinumab 有什麼相關新聞？">
-<strong>Tralokinumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tralokinumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tralokinumab/
 <p><a href="{{ '/drugs/tralokinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Typ-2-Diabetes: 45 Prozent haben kritische Mikronährstoffmängel](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlhpME9lSkFzMTY4STlISEIwaXZIdFVtTVVDYTY1a05HeHdEdi1mTEdTMEg4amU0RWdLSnFaUUNNVy00N29QdXlqd0ppdzZnSU1CLW01clRUV1FCSFVzRHNUa3hlR0RTV3lGYmd1bVBGbmdsWkZidTZETFNTdXBMNGJCZW9GUENBOUV3TVEwQmhrdTJQRkdzMldSbG9SZmhpNzcwa19hTUJWZ1RZeUZKUHR2aw?oc=5)
+### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
+
+---
+
+### [Un equipo de la Universidad de Málaga demuestra nuevas conexiones entre obesidad, diabetes y alzhéimer](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
+
+---
+
+### [Typ-2-Diabetes: 60 Prozent der Patienten unterversorgt mit Vitamin D](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
 
 2026-07-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlhpME9lSkFzMTY4STlISEIwaXZIdFVtTVVDYTY1a05HeHdEdi1mTEdTMEg4amU0RWdLSnFaUUNNVy00N29QdXlqd0ppdzZnSU1CLW01clRUV1FCSFVzRHNUa3hlR0RTV3lGYmd1bVBGbmdsWkZidTZETFNTdXBMNGJCZW9GUENBOUV3TVEwQmhrdTJQRkdzMldSbG9SZmhpNzcwa19hTUJWZ1RZeUZKUHR2aw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/tralokinumab/
 2026-07-09 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
-
----
-
-### [La UMA demuestra cómo la disfunción de la grasa corporal acelera el deterioro cerebral en el alzhéimer - Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejZCR3BYUnBDQVJrZXdXOWRjald2dGZRY1czcTdqOEZCLXNvYjFteml5b3NrcGFKdF9EMWRIdC1kTFVYUmtxR2RfRnV1RnlnYWJ5R29OcUtDMi1VVkVRS1dWNDZfSkxmT2loT2NKVmxxQUJxRjRJLWIyX2VyZXB0Q0ZEejlJZEE3Rk1DU3E1YVl3bWc3cTE0OVl5S2R1Ty0yU25zUGZBSDNnUTBuNzdzNTJNX1RjX0li0gG-AUFVX3lxTE04eW1VSmZtSGd3SFJ3TjFmZWpQV0tRMWhBNTZGekJfZkcxUUh0WmNzSFVLb0NxX1EwVHFWbk52SnNrLTlEVDBFTEt4ZWIxZjdpRFJtWnVhdXI2MGRXSDZ5TTBHT0JYRGdtempaeW10NkpXNFNrNlpZSlNiWWRQRmxlcG03OFZqdXFWS2g1bXlFdFdiREd5TC1aWnJGVzVqc1A3cTk1cDZ4WEN3TExpbkEyZndxX0VOaU9Odmd6RVE?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejZCR3BYUnBDQVJrZXdXOWRjald2dGZRY1czcTdqOEZCLXNvYjFteml5b3NrcGFKdF9EMWRIdC1kTFVYUmtxR2RfRnV1RnlnYWJ5R29OcUtDMi1VVkVRS1dWNDZfSkxmT2loT2NKVmxxQUJxRjRJLWIyX2VyZXB0Q0ZEejlJZEE3Rk1DU3E1YVl3bWc3cTE0OVl5S2R1Ty0yU25zUGZBSDNnUTBuNzdzNTJNX1RjX0li0gG-AUFVX3lxTE04eW1VSmZtSGd3SFJ3TjFmZWpQV0tRMWhBNTZGekJfZkcxUUh0WmNzSFVLb0NxX1EwVHFWbk52SnNrLTlEVDBFTEt4ZWIxZjdpRFJtWnVhdXI2MGRXSDZ5TTBHT0JYRGdtempaeW10NkpXNFNrNlpZSlNiWWRQRmxlcG03OFZqdXFWS2g1bXlFdFdiREd5TC1aWnJGVzVqc1A3cTk1cDZ4WEN3TExpbkEyZndxX0VOaU9Odmd6RVE?oc=5)
 
 ---
 

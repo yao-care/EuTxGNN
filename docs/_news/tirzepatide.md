@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（1 則）
 
-### [New Wegovy pill vs fat jabs - best for fat loss and heart health revealed - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUpMdDRIZ0t2WVFEVnVnb3BjOWNFcTdfbk1UWTJaZWM2WUxFcW9OVlkzeGYwYWo5XzZmdjE4Rkk3aGxFZ0lPR1VsX2ZRb2hmd2oxcHgzNUd2S2JyVTlKVjZqTDNRbHhKc1Y4M1J1RjVnUmVyTmFNQ3pvZFMxLUxZN1dMRzBNNXZMenR4bGVxZlpTdw?oc=5)
+### [Farmaci anti obesità: ecco le istruzioni di medici e dietologi per il loro uso corretto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
 
-2026-07-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUpMdDRIZ0t2WVFEVnVnb3BjOWNFcTdfbk1UWTJaZWM2WUxFcW9OVlkzeGYwYWo5XzZmdjE4Rkk3aGxFZ0lPR1VsX2ZRb2hmd2oxcHgzNUd2S2JyVTlKVjZqTDNRbHhKc1Y4M1J1RjVnUmVyTmFNQ3pvZFMxLUxZN1dMRzBNNXZMenR4bGVxZlpTdw?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
 
 ---
 

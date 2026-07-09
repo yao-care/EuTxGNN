@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras un ictus - Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Mavacamten, el fármaco que cambió el tratamiento de la miocardiopatía hipertrófica, ampliaría su alcance - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTNzeEQ4N2lnWFdoMmJqNmxQb3ZZQnhIdXJmQWd2eEZkbG54V29CR0ZpQm1Vb0hFeUxQU2tuMHc0QUwzQ1B0cjkwQXlIZ3B1QUtwaGFFeWdhZ0huemUzRjltUjYzSlFXbDY1X0I1N3ZoYzE1MVNrb29nUzFYVTY0LUJXeUtJUG1fZHBWZHN0OUxuYVR2OXU0Snk4b3VHTzZXaHB0VWgxVVNtaUlfbUttX2pqeE1sVXJlUkQ2THlkNnZfM1BtT3FiWEdnbUhpOFBuLV9tTXFybnZ4aUJWWUYxOEF1Y2d2T1dJM3hmeXJhX1dzOENzZ0HSAfsBQVVfeXFMUEJTRjZyUmVSNkUtWm9iTmQwZXNMaGZReklMc1ozcHNleFZJM3pTeVpaMEZ3TldpQjAtZVJacTFORlBaY1Rza1lkdE5GZzdaVFdkcXJOUEZfX3RCdE1iT3IycDZCeUEwTmFHNmFCRGVGWWRzdkU4M2ZiZU1pTmZCQW5idjB2ZkxiWFRPWHgtZHF4Z3E0Um9ESmlQVmhEUUk2YjJZUHBOR1p4LXk2ZEFlQXhtVjU5Q0Z5eEdNNjJBX2tWTnQ1UHJYaVQxNGV0TkpJTzVHbC1MMTQyMHhnbndkcHNadmdWM1BKWUlwcVYzUjZRMTdxWl9tdVMtZkU?oc=5)
-
-2026-07-08 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTNzeEQ4N2lnWFdoMmJqNmxQb3ZZQnhIdXJmQWd2eEZkbG54V29CR0ZpQm1Vb0hFeUxQU2tuMHc0QUwzQ1B0cjkwQXlIZ3B1QUtwaGFFeWdhZ0huemUzRjltUjYzSlFXbDY1X0I1N3ZoYzE1MVNrb29nUzFYVTY0LUJXeUtJUG1fZHBWZHN0OUxuYVR2OXU0Snk4b3VHTzZXaHB0VWgxVVNtaUlfbUttX2pqeE1sVXJlUkQ2THlkNnZfM1BtT3FiWEdnbUhpOFBuLV9tTXFybnZ4aUJWWUYxOEF1Y2d2T1dJM3hmeXJhX1dzOENzZ0HSAfsBQVVfeXFMUEJTRjZyUmVSNkUtWm9iTmQwZXNMaGZReklMc1ozcHNleFZJM3pTeVpaMEZ3TldpQjAtZVJacTFORlBaY1Rza1lkdE5GZzdaVFdkcXJOUEZfX3RCdE1iT3IycDZCeUEwTmFHNmFCRGVGWWRzdkU4M2ZiZU1pTmZCQW5idjB2ZkxiWFRPWHgtZHF4Z3E0Um9ESmlQVmhEUUk2YjJZUHBOR1p4LXk2ZEFlQXhtVjU5Q0Z5eEdNNjJBX2tWTnQ1UHJYaVQxNGV0TkpJTzVHbC1MMTQyMHhnbndkcHNadmdWM1BKWUlwcVYzUjZRMTdxWl9tdVMtZkU?oc=5)
-
----
-
 ### [Colesterolo, perché i soliti esami possono ingannare: il valore che rivela il rischio reale per il cuore](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
 
 2026-07-07 <span class="news-indication-tag">ictus</span>
 
 來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
-
----
-
-### [5 'silent killer' blood pressure warning signs - 1 gets 'overlooked' - Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
-
-2026-07-07 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
 
 ---
 

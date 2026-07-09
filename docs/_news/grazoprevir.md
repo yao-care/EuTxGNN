@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
+
+### [Bettina über ADHS und PMS: „Emotional instabil, überfordert, ängstlich“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjhRZ0pNXzhXTEhYb0plUHhzTEVmanItQmx4OWhfczVWWW02WVJqanFud0JkWXpzaks4T3g0dGFMVTFjcHlSWlBYLUZZeVVBNy0tOFNFQmF3M0tyRmRpVzJLUjRDQjA5cGlNS0hHZTJkbGo1M2VHakU2V3JqYktXakR0QTVReUlXTEQ0WU1jRVpOUlJpR0N0Wmk5SDJMTFFsU2V5X2gyQmpsVVNJblBRNzBEQnY0SjVTMEV5bHpuaEpTZi1kQkdhM3RXTW8xM01ZdWJYQjNR?oc=5)
+
+2026-07-09 <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjhRZ0pNXzhXTEhYb0plUHhzTEVmanItQmx4OWhfczVWWW02WVJqanFud0JkWXpzaks4T3g0dGFMVTFjcHlSWlBYLUZZeVVBNy0tOFNFQmF3M0tyRmRpVzJLUjRDQjA5cGlNS0hHZTJkbGo1M2VHakU2V3JqYktXakR0QTVReUlXTEQ0WU1jRVpOUlJpR0N0Wmk5SDJMTFFsU2V5X2gyQmpsVVNJblBRNzBEQnY0SjVTMEV5bHpuaEpTZi1kQkdhM3RXTW8xM01ZdWJYQjNR?oc=5)
+
+---
+
+### [Measles outbreak claims third victim - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOG9IaXpFQnVyOFRMRXQ3RUcySmJTODE5c25PZkVrdWZmVnBJZnczR3loQTVEX1NwcEtDTVNRQk9mbmk2S3B6azJ3Nk43SEZYT2dxMUZqcHRFOHBGdUVZdXdGc2pHQk9hWjQzMzI3V193WFVuWFhPaEk1UEt0Z2ZoNjdla00weW9HU3JfMDVRamoyMkk?oc=5)
+
+2026-07-09 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOG9IaXpFQnVyOFRMRXQ3RUcySmJTODE5c25PZkVrdWZmVnBJZnczR3loQTVEX1NwcEtDTVNRQk9mbmk2S3B6azJ3Nk43SEZYT2dxMUZqcHRFOHBGdUVZdXdGc2pHQk9hWjQzMzI3V193WFVuWFhPaEk1UEt0Z2ZoNjdla00weW9HU3JfMDVRamoyMkk?oc=5)
+
+---
+
+### [Vitamin D: Brecht mit der Bruch-Prophylaxe!](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklDWDBDZTF1TkNjMWd1alpnZlViWm1RczlqS0RYd1NLZHpscGxDbWVjRmMzWHUyaG9GbDVNQnVCbmtocm10YkFXVXNZOWwxUjhBRXV6T2lrcTc5Wnh1YXcwX29xbEM3N05TdGwzaHVXUk1HalpGSjk5VjBwNm9POTNzWWI3aFJsVUR2R1dSbDdGQ3dEWnc?oc=5)
+
+2026-07-09 <span class="news-indication-tag">MS</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklDWDBDZTF1TkNjMWd1alpnZlViWm1RczlqS0RYd1NLZHpscGxDbWVjRmMzWHUyaG9GbDVNQnVCbmtocm10YkFXVXNZOWwxUjhBRXV6T2lrcTc5Wnh1YXcwX29xbEM3N05TdGwzaHVXUk1HalpGSjk5VjBwNm9POTNzWWI3aFJsVUR2R1dSbDdGQ3dEWnc?oc=5)
+
+---
+
+### [Más de 835.000 niños y niñas vacunados contra la difteria en Kano (Nigeria) con nuestro apoyo - Médicos Sin Fronteras (MSF)](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lPM3lvS2NwcUJja2hGalRtX1k2V0pJQUxINFBEWENjdU1IZUpTT0RZQlVHV2V4bk9UUDZzN0R5OVNYbjNuczF0clN1T0hXZDI2S0F6SjNMZDEyNGRTdHZCbWRyOVozekUxUzcwOTRMRkFFMDRTdEhCME9GNnh0YmpiOTF4NWNvdHVhd1dEMWxJWVlrLTRRQ1Z3RmxwNkk2UEE?oc=5)
+
+2026-07-09 <span class="news-indication-tag">MS</span>
+
+來源：[Médicos Sin Fronteras (MSF)](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lPM3lvS2NwcUJja2hGalRtX1k2V0pJQUxINFBEWENjdU1IZUpTT0RZQlVHV2V4bk9UUDZzN0R5OVNYbjNuczF0clN1T0hXZDI2S0F6SjNMZDEyNGRTdHZCbWRyOVozekUxUzcwOTRMRkFFMDRTdEhCME9GNnh0YmpiOTF4NWNvdHVhd1dEMWxJWVlrLTRRQ1Z3RmxwNkk2UEE?oc=5)
+
+---
 
 ### [GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
@@ -80,17 +112,17 @@ permalink: /news/grazoprevir/
 
 ### [OMS advierte, los nuevos casos de cáncer podrían pasar de 20,6 a 35 millones al año para 2050 - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEVVbFRwYlJwTGtnMEhsMG0yYVdaNlNmZFdrRTd3UmozOE84bkZKeVpiVVpheE1wS2w5SzhzVkxUeEpiQVpuNmU2Wl9ndjNGNHk5UElDeERqdjNvLXgtMndNTF9jdl9RNGxmV0VyZGNMcFBwTVJfUk5ZbWl0dkxwREdjWE81Sm5xbmxJcWhxaFUzTEdINHpPdVdUYmxINkM3cjhCX3RzRlRScHFudl9aY0hJTEZ5VlFrblF2YU4zY1diRW15ck1FSmJ6Zjg2UXF2SUU3a1FaT1pVUU9EVThIY1NNT1HSAeoBQVVfeXFMUDFtbHRzZndwOG50ZEh1aWtEOFdSTnB1SllxdmtMcFAtTU02LXBHOV9GbXQ5SlBRNHZYQUNWaS1RTjYzanJ2Qlktb1dlOHdEeHBvZFM2LS1URGV4UnB4ZTNHVGt3V05MZ1VxTm8zQ2dVUVMxQ0gtQ2Fib2JQeWdZOXBxSUxzZUdrQVJHbFhDQnFvaW01bm84alNJNm9NV0t4X2tlVXFmLVd4ZllET21FQk9vRW9pbGN6cmt1Yy1NMi1Hb2RpUXFUNlQxZE5XM3lnMUl1NHpHeXNWaGYxLWZWZzFwbHVGOFNKTzVR?oc=5)
 
-2026-07-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-09 <span class="news-indication-tag">MS</span>
 
 來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEVVbFRwYlJwTGtnMEhsMG0yYVdaNlNmZFdrRTd3UmozOE84bkZKeVpiVVpheE1wS2w5SzhzVkxUeEpiQVpuNmU2Wl9ndjNGNHk5UElDeERqdjNvLXgtMndNTF9jdl9RNGxmV0VyZGNMcFBwTVJfUk5ZbWl0dkxwREdjWE81Sm5xbmxJcWhxaFUzTEdINHpPdVdUYmxINkM3cjhCX3RzRlRScHFudl9aY0hJTEZ5VlFrblF2YU4zY1diRW15ck1FSmJ6Zjg2UXF2SUU3a1FaT1pVUU9EVThIY1NNT1HSAeoBQVVfeXFMUDFtbHRzZndwOG50ZEh1aWtEOFdSTnB1SllxdmtMcFAtTU02LXBHOV9GbXQ5SlBRNHZYQUNWaS1RTjYzanJ2Qlktb1dlOHdEeHBvZFM2LS1URGV4UnB4ZTNHVGt3V05MZ1VxTm8zQ2dVUVMxQ0gtQ2Fib2JQeWdZOXBxSUxzZUdrQVJHbFhDQnFvaW01bm84alNJNm9NV0t4X2tlVXFmLVd4ZllET21FQk9vRW9pbGN6cmt1Yy1NMi1Hb2RpUXFUNlQxZE5XM3lnMUl1NHpHeXNWaGYxLWZWZzFwbHVGOFNKTzVR?oc=5)
 
 ---
 
-### [Sexually transmitted gut infection shigella a 'distinct public health threat' to UK, experts warn - Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUN6U2J0OXBvS21DcVF1LXl0WXJ0MWFKUFB2X0licVpqRzBQX2QzcmZKMzU2VUh6X1hkYlpOQlozYTg5aE5JYW1YRmo0UDNVbFFKRzFkU2JRbGdnMXFwZ3pOWHFqX2R4WlhLOFlBT3J3dGhaRmFiVXlta2tLQnhEd1RkaW1tXy1zenhVdVFXTUxRZWNUVlBoSHJwQTVfTTFKd2hqdnladGRTVWt4MlFpLVY0MFl6VjlBZENISnpCX1ZvLVI0cC1scFZB?oc=5)
+### ["Senza una svolta i tumori esploderanno": l'allarme Oms, boom casi entro il 2050](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkcyNWdlaXAzaDh1X3BGYXNxMC1KanRJLXMza2VrblFIU01LMTUySWJsTXcwUWFSeWd4eTJVRWprUW9scktOcWxvTl9BU3dKdDQ4QjlhNjFrZ19WRTBtUndVRGpfelk0WHd1eThmd283M3M5NXFXaU9QNEV4Y3FsdU03M0xpSGZXNHBvSW5nUjg5WmFPSjB6cGpaTUNheVJyNFhmQ2plXy1kZw?oc=5)
 
-2026-07-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUN6U2J0OXBvS21DcVF1LXl0WXJ0MWFKUFB2X0licVpqRzBQX2QzcmZKMzU2VUh6X1hkYlpOQlozYTg5aE5JYW1YRmo0UDNVbFFKRzFkU2JRbGdnMXFwZ3pOWHFqX2R4WlhLOFlBT3J3dGhaRmFiVXlta2tLQnhEd1RkaW1tXy1zenhVdVFXTUxRZWNUVlBoSHJwQTVfTTFKd2hqdnladGRTVWt4MlFpLVY0MFl6VjlBZENISnpCX1ZvLVI0cC1scFZB?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkcyNWdlaXAzaDh1X3BGYXNxMC1KanRJLXMza2VrblFIU01LMTUySWJsTXcwUWFSeWd4eTJVRWprUW9scktOcWxvTl9BU3dKdDQ4QjlhNjFrZ19WRTBtUndVRGpfelk0WHd1eThmd283M3M5NXFXaU9QNEV4Y3FsdU03M0xpSGZXNHBvSW5nUjg5WmFPSjB6cGpaTUNheVJyNFhmQ2plXy1kZw?oc=5)
 
 ---
 
@@ -110,14 +142,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [I casi di cancro raddoppieranno entro il 2050: «Saranno 35 milioni l'anno»](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjN4SUZVX0lKME13YTJHWWkwbEpHRGNKVTRVUjVMbTR6ZW90cHBQZVZGTzhkMjYwaFZOdENEdmhQV19uSTBadE1rUEVkWElQSjZuSWtETTRDYXFsVUh6NXM2OFdqY1NQZzhmc3Jzcl95MzlMVmJXa2ZmeWhXSXM3bXdoV2NDTG9EREhHWkNSTUN3VHR6Tk92QmFLcWNGVjF5RmNuYUJmRkI3RGFXQThicEljTGQ3QU0?oc=5)
-
-2026-07-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ticinonline](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjN4SUZVX0lKME13YTJHWWkwbEpHRGNKVTRVUjVMbTR6ZW90cHBQZVZGTzhkMjYwaFZOdENEdmhQV19uSTBadE1rUEVkWElQSjZuSWtETTRDYXFsVUh6NXM2OFdqY1NQZzhmc3Jzcl95MzlMVmJXa2ZmeWhXSXM3bXdoV2NDTG9EREhHWkNSTUN3VHR6Tk92QmFLcWNGVjF5RmNuYUJmRkI3RGFXQThicEljTGQ3QU0?oc=5)
-
----
-
 ### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
@@ -126,19 +150,19 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Per perdere peso non basta contare le calorie: il ruolo nascosto del sonno - Il Mattino](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXVtTGdRaUU3TlFhbjR3SlJYVUV3cmRDZ3p0cVJPMzBjeW44MkRrQWxDV2MwZWtRUGdyWnB2VlBzZnVlWGZRdVYtSzRGZ3lsUHlNb2tWcjJsaTBKeDY4STNDcmdyS0VVbVh2NTQ4d0pEaGZXdlFPdnJQZ1dLdkR1Z09tblFaUnJtaUh4OVJqbnU5eVhDdlRidklmajNVS3FNSmlwUFloZzNkNWE2X2lCQTRZOUtkNFRoZ2fSAb8BQVVfeXFMTmF5NzlWSld3dUI1aU1HSG9CQWJBQWl1LWY4U2FMYnRRWlRPb1RuUDVxZWdPRzdRejdWVnVKN2kxZTRzRmp3eF9SSHM3U3M1YVo0WFhjTW5fUVhkZkkyMXNXWEgtWFZCUlhGTklnOGJ4UzZzMWdteW5TUXM2X1lIUXprbVhnMlVfOEFTR3hrdU92ZWxpWG16enBtWnJyUER0RlUyTzQxeThDeXQ2TkJnVk9OdkZ3SnIwZnlKckxQN2M?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[Il Mattino](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXVtTGdRaUU3TlFhbjR3SlJYVUV3cmRDZ3p0cVJPMzBjeW44MkRrQWxDV2MwZWtRUGdyWnB2VlBzZnVlWGZRdVYtSzRGZ3lsUHlNb2tWcjJsaTBKeDY4STNDcmdyS0VVbVh2NTQ4d0pEaGZXdlFPdnJQZ1dLdkR1Z09tblFaUnJtaUh4OVJqbnU5eVhDdlRidklmajNVS3FNSmlwUFloZzNkNWE2X2lCQTRZOUtkNFRoZ2fSAb8BQVVfeXFMTmF5NzlWSld3dUI1aU1HSG9CQWJBQWl1LWY4U2FMYnRRWlRPb1RuUDVxZWdPRzdRejdWVnVKN2kxZTRzRmp3eF9SSHM3U3M1YVo0WFhjTW5fUVhkZkkyMXNXWEgtWFZCUlhGTklnOGJ4UzZzMWdteW5TUXM2X1lIUXprbVhnMlVfOEFTR3hrdU92ZWxpWG16enBtWnJyUER0RlUyTzQxeThDeXQ2TkJnVk9OdkZ3SnIwZnlKckxQN2M?oc=5)
+
+---
+
 ### [Wann DOAK wieder ansetzen nach Darmspiegelung?](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtHRTVYbnQyWkJvOVA2UnNCc0RTSFJkWk1FV1Q3MHR4NkVhbjFJRlI2WGtUYTZISTIzUFc2ZE1RY2R6MThKaF9OUXhLb2dnckdBVlV2cEQ4RHh4S0R4VUxIRGp1TUQ3XzdsdkwyZElFbi1jbFRrVTIzOFVRT2pfVnJwNk9EWkxPUkYxaUtFMlBWaFJCNGJ2YUVB?oc=5)
 
 2026-07-08 <span class="news-indication-tag">MS</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOGtHRTVYbnQyWkJvOVA2UnNCc0RTSFJkWk1FV1Q3MHR4NkVhbjFJRlI2WGtUYTZISTIzUFc2ZE1RY2R6MThKaF9OUXhLb2dnckdBVlV2cEQ4RHh4S0R4VUxIRGp1TUQ3XzdsdkwyZElFbi1jbFRrVTIzOFVRT2pfVnJwNk9EWkxPUkYxaUtFMlBWaFJCNGJ2YUVB?oc=5)
-
----
-
-### [Psychology says people who struggle in classrooms but excel at reading a room, fixing an engine, or sensing what someone needs aren't slow learners, they're often operating in a form of intelligence the traditional school system was never designed to measu - Silicon Canals](https://news.google.com/rss/articles/CBMixwJBVV95cUxOOTdLRktMM2ZFVmg1NTdQdmxadElZRWhDczF1b2NUR3l6WWZfNWRLQUJwd2dka2FNU1F4aVZ3UVM1Y1VKT0FiSnFMVkdZVzhuNXVpS3V5Nmh6NEFIZG1QT1VzV0tOUldQeDZIaWM1d2hmbHR0SWNwVUJ2YUZvUnlKOHRjZEN3cW9aa042alNnclBBaTNOUTdvQTEwM2l4TnZsTHpsMENONWVhWHdLZF9qRG1idTdMcGJKdVVIbVRWSVYzVnFIRXZ3bXJWZmRwQjlWandIUDZLSHhPT1ZkRGlaQjg0SDQ0cDVzLWRVMnRENlFZNDJJZ2RveHZZUlUyYmVMR0YtazNCaWE1NUVNRWM5cGZHUmI2djU3OUVBVzA0MVFxcmo1VTRiZkJGcGNWNWc2aUI3SEt5RUxaclVIa3NTUFVxWjQ1Mzg?oc=5)
-
-2026-07-08 <span class="news-indication-tag">MS</span>
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMixwJBVV95cUxOOTdLRktMM2ZFVmg1NTdQdmxadElZRWhDczF1b2NUR3l6WWZfNWRLQUJwd2dka2FNU1F4aVZ3UVM1Y1VKT0FiSnFMVkdZVzhuNXVpS3V5Nmh6NEFIZG1QT1VzV0tOUldQeDZIaWM1d2hmbHR0SWNwVUJ2YUZvUnlKOHRjZEN3cW9aa042alNnclBBaTNOUTdvQTEwM2l4TnZsTHpsMENONWVhWHdLZF9qRG1idTdMcGJKdVVIbVRWSVYzVnFIRXZ3bXJWZmRwQjlWandIUDZLSHhPT1ZkRGlaQjg0SDQ0cDVzLWRVMnRENlFZNDJJZ2RveHZZUlUyYmVMR0YtazNCaWE1NUVNRWM5cGZHUmI2djU3OUVBVzA0MVFxcmo1VTRiZkJGcGNWNWc2aUI3SEt5RUxaclVIa3NTUFVxWjQ1Mzg?oc=5)
 
 ---
 
@@ -166,11 +190,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
+### [Thousands of women could be spared painful cancer exam by new NHS AI blood test - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcThZLUJISTFTYWVRSjlmLXd6NnkzV2tobEZpVDg1Y3lCdTdRY24xd2dOZkNLNUFKMFY5RUR3UlZ3eEh1NXJ5U24wQmNTRDRvTnhadkxqWEpBTkNsdjB6aTJXX0FRdHBZUjIxZzNMVXNKRF9Ha195ejhwTVZEOGM1MHY1dzlOdGMyYXZDZ1pCN01SRlpHUW51VVlOX21oN2sybXZqLTQ3dm45QVhhdTZZZ0ZJRUlWY0tWZ3VBUnhiT1pXLTMzREE?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcThZLUJISTFTYWVRSjlmLXd6NnkzV2tobEZpVDg1Y3lCdTdRY24xd2dOZkNLNUFKMFY5RUR3UlZ3eEh1NXJ5U24wQmNTRDRvTnhadkxqWEpBTkNsdjB6aTJXX0FRdHBZUjIxZzNMVXNKRF9Ha195ejhwTVZEOGM1MHY1dzlOdGMyYXZDZ1pCN01SRlpHUW51VVlOX21oN2sybXZqLTQ3dm45QVhhdTZZZ0ZJRUlWY0tWZ3VBUnhiT1pXLTMzREE?oc=5)
 
 ---
 
@@ -187,22 +211,6 @@ permalink: /news/grazoprevir/
 2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
-
----
-
-### [Dimagrire dormendo. Ecco perché la carenza di sonno fa ingrassare anche quando si segue la dieta - la Repubblica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOblgzckdHSUhtTndjZk0xcHRXTUIwLUdwNDlqRWhBU3hpYkRmYUNTTTlzeVVMWHozel85aG5KMlROczdjQ2c2TnVXQWVqaFh2RjdWNHNNa25kcFNIMDZQazF1U2oxLTF1NFppVER4anJRb3l6aThHUVp6TjJOUkNEejZob1dXaVJVSm1nQ2NocXJtVFQxb2pVaTVpR196YnEzU0lRa1h0MVo1dHlndXFRVE8xa9IBuAFBVV95cUxOX1ZXSTYtQlc3SEYwNWl0UkdiNWJVRUxnSHZqVkRndUVKOWxhUHpJSVpwWDZVbXNVREwtMWlGaW5RS1Q0eWVsNzJaMjdRbEs0Wm8xQWJodDYwamN4UmpMaWFNOHF5MlBOZ2ZyRFhPOEE0ZEtPcGdRRzJmZVh2TU9YUXdSYkFZYW1RWXpjZjFJY3EydHVJb2tXTU9aSUhyQ3U4YnlXbnlHMXlMRmlxR19EMTcxTVRZY0tG?oc=5)
-
-2026-07-07 <span class="news-indication-tag">MS</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOblgzckdHSUhtTndjZk0xcHRXTUIwLUdwNDlqRWhBU3hpYkRmYUNTTTlzeVVMWHozel85aG5KMlROczdjQ2c2TnVXQWVqaFh2RjdWNHNNa25kcFNIMDZQazF1U2oxLTF1NFppVER4anJRb3l6aThHUVp6TjJOUkNEejZob1dXaVJVSm1nQ2NocXJtVFQxb2pVaTVpR196YnEzU0lRa1h0MVo1dHlndXFRVE8xa9IBuAFBVV95cUxOX1ZXSTYtQlc3SEYwNWl0UkdiNWJVRUxnSHZqVkRndUVKOWxhUHpJSVpwWDZVbXNVREwtMWlGaW5RS1Q0eWVsNzJaMjdRbEs0Wm8xQWJodDYwamN4UmpMaWFNOHF5MlBOZ2ZyRFhPOEE0ZEtPcGdRRzJmZVh2TU9YUXdSYkFZYW1RWXpjZjFJY3EydHVJb2tXTU9aSUhyQ3U4YnlXbnlHMXlMRmlxR19EMTcxTVRZY0tG?oc=5)
-
----
-
-### [“No se trata de demonizar a quienes practican chemsex, sino de acompañarlos”](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmVhLV9WdGlOVVpPREJHQVlOSDlOR0tjUmtPVHMzT193VDBUTDRCcVFTQWd1VXJDN09iLUNNdTNuNDBQUm5nWEtXVlFHTkVBYkp2SVc1cFEwUW93TUhCeFd2UXlXZGJkeEpKaElGZjlzMDBfc3VfUHlRQjZPaXNzLUt4SmJlcm8?oc=5)
-
-2026-07-05 <span class="news-indication-tag">MS</span>
-
-來源：[Deia](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmVhLV9WdGlOVVpPREJHQVlOSDlOR0tjUmtPVHMzT193VDBUTDRCcVFTQWd1VXJDN09iLUNNdTNuNDBQUm5nWEtXVlFHTkVBYkp2SVc1cFEwUW93TUhCeFd2UXlXZGJkeEpKaElGZjlzMDBfc3VfUHlRQjZPaXNzLUt4SmJlcm8?oc=5)
 
 ---
 
