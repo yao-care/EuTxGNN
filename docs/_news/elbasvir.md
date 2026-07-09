@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（15 則）
 
-### [Así marca la brecha socioeconómica el pronóstico del cáncer: más del 70% de los países no tiene cobertura básica para tratarlo - EL PAÍS](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSEN0VEJERHEwUmxQVXo4WnUtbVIxbmw4QWV6UjZEcW5ITUVtRnE2Q3doTHhmUUhOazdlYVNQd0NuZFZJdXl0Uk8wM2JpQ1NnaG93VmJ3dXRNamVjVjh6Z2dUX1hOTVpVY2NYdDVmWE13cGFubUJoTzF2X2pDYzhGbHRUekQtVWU5cEMyaER4V2pfU2FNUWNhYmZ3SGtwQ3pFX2pxRU9QRjA3RFdqNkptRVFjbHF4eXNKNkFrX1ctYW9Xdlk5a1JBQmpYb3pDcGxON2ZISXdNMFZlcWh4UHJiX2ZvNDdUSmJ2dkdHd3hHejJwZU1RSVZsZmMwSUJOZ0owM1FyM29xMVLSAZwCQVVfeXFMTl92U0ZrTnhJYnBQR1NDbENhMUJMc2RhTnFrd05oeDhKbFE4bWtUWkdVZ29jSUlNRndGdTFWVnB4NjJCd09ESnN0OV9lSWd2ckc2eVExRm96OUtsOTlnbkJqVGVCcGltR1Z1TnJQNHhVcFpHTlN3eXU5WGpTN2dtaGZLLTF0NXNWUDBuOFBpNlU5RGltbFJWWDFfR24tZ0x3ZUptQWxVbDhaRlBjZUQ2ZzFpYUtGcUdwOWNHVGxWWHkzLWhNUG1DQllBakVKS3dJU3BxY3RQNUo3UEVvSUpRd2pqb0htRHc3RDAzR0ZNanZ1UG1zN3k0R3JDdHR5WXBkQ0xYLWFybnZnOC11NkN5QWdFcXdhOGhBb1ExMXQ?oc=5)
+### [Sexually transmitted tummy bug ‘spreading rapidly’ in the UK - diarrhoea and 3 other symptoms - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9jdjUxYnBHcG8wdUNEM2hEWVFSYy1Vb2QwZ0xQem51cURBRlN6RFMxZUxfWHBxZjl3MmNOZFhrTE03Nm43cTV3ajgtTENmZmJnak90ZTc5Nk5NYnNnZ2d5TElOM3lZTkVGMWtZUFpGbmthdy0xaTlWLUE2dUduOE01bjFHbkxEemowQ19n?oc=5)
+
+2026-07-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9jdjUxYnBHcG8wdUNEM2hEWVFSYy1Vb2QwZ0xQem51cURBRlN6RFMxZUxfWHBxZjl3MmNOZFhrTE03Nm43cTV3ajgtTENmZmJnak90ZTc5Nk5NYnNnZ2d5TElOM3lZTkVGMWtZUFpGbmthdy0xaTlWLUE2dUduOE01bjFHbkxEemowQ19n?oc=5)
+
+---
+
+### [Children keep dying in a country that made huge progress on measles](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BSmZFLXFRR01SNFZKWTlCWVVjalZDZ0RsYUVxOXBkVFcxd3Rza0dqT2V2bjNlWU1wRUFNRG5VVzFhLVdZcWdaRXRwbFpWSTFKci1xRmJKOVJFSXV5?oc=5)
 
 2026-07-08 <span class="news-indication-tag">MS</span>
 
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSEN0VEJERHEwUmxQVXo4WnUtbVIxbmw4QWV6UjZEcW5ITUVtRnE2Q3doTHhmUUhOazdlYVNQd0NuZFZJdXl0Uk8wM2JpQ1NnaG93VmJ3dXRNamVjVjh6Z2dUX1hOTVpVY2NYdDVmWE13cGFubUJoTzF2X2pDYzhGbHRUekQtVWU5cEMyaER4V2pfU2FNUWNhYmZ3SGtwQ3pFX2pxRU9QRjA3RFdqNkptRVFjbHF4eXNKNkFrX1ctYW9Xdlk5a1JBQmpYb3pDcGxON2ZISXdNMFZlcWh4UHJiX2ZvNDdUSmJ2dkdHd3hHejJwZU1RSVZsZmMwSUJOZ0owM1FyM29xMVLSAZwCQVVfeXFMTl92U0ZrTnhJYnBQR1NDbENhMUJMc2RhTnFrd05oeDhKbFE4bWtUWkdVZ29jSUlNRndGdTFWVnB4NjJCd09ESnN0OV9lSWd2ckc2eVExRm96OUtsOTlnbkJqVGVCcGltR1Z1TnJQNHhVcFpHTlN3eXU5WGpTN2dtaGZLLTF0NXNWUDBuOFBpNlU5RGltbFJWWDFfR24tZ0x3ZUptQWxVbDhaRlBjZUQ2ZzFpYUtGcUdwOWNHVGxWWHkzLWhNUG1DQllBakVKS3dJU3BxY3RQNUo3UEVvSUpRd2pqb0htRHc3RDAzR0ZNanZ1UG1zN3k0R3JDdHR5WXBkQ0xYLWFybnZnOC11NkN5QWdFcXdhOGhBb1ExMXQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BSmZFLXFRR01SNFZKWTlCWVVjalZDZ0RsYUVxOXBkVFcxd3Rza0dqT2V2bjNlWU1wRUFNRG5VVzFhLVdZcWdaRXRwbFpWSTFKci1xRmJKOVJFSXV5?oc=5)
+
+---
+
+### [MenB vaccine offers men no protection from gonorrhoea, claims major study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12M3hmSXhYQ0NMdF9ja01KMC1PYmJmbDh4b2ZvbU5PTmdIMi1xRnFTWDBNRV9kQTNRdTlWT2dDb0MtS2lyMGlON2FsNUZ6ci1GUHRfVEhtR0F6Q0ls?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12M3hmSXhYQ0NMdF9ja01KMC1PYmJmbDh4b2ZvbU5PTmdIMi1xRnFTWDBNRV9kQTNRdTlWT2dDb0MtS2lyMGlON2FsNUZ6ci1GUHRfVEhtR0F6Q0ls?oc=5)
+
+---
+
+### [La OMS advierte de un aumento alarmante del cáncer de cara a 2050: hasta 35 millones de nuevos casos cada año - Onda Cero](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTEw0c0t2RVhZcWFYaUl2SF9YQXo3SHBLVjdfTEs5SnliaW5zZDVDdnA4ZFlubmd3SkdRWng3SnFjOHl4Ujd1Q3VXdmlvYnlwNkxUSnFNalBFWGR1SWduN0dqOWt4aThyak9Sbzg3RGtRbDBNTXpkeUlLTG0yQmhHMWlLLTNqaW1hUFJkRUpfYVEtUmNFWDd0Mm5MS0JWQkFWS2V1b0hXU1QyckpaSC1ndENQVkRUU1pkVlNaTlhINVo4YUwtMUQ5TzJhZEgxWGw4WDI2UmhpX2VIUHliYjJLSFprYzFVUzJ1QktrcTBrRdIB7wFBVV95cUxNWk5VUHN4aGgtN2lpajlERHZxSE9zc1BaMHFnUU1zUnVSbF83NDJzdDFwUk1aczFSOU9LR1U5dlpLQms3LUhNWVdOcUI2Y00yTkVWUGFmaHhGVXhELVAySnN3eUNCYzlySU1fc3JncDNzUzQybERNVkNrS2dhWnZOdndOZ3pVWlh5aGRfcGRNZ21kbE9tSU5qZDJHQzRHa19qODFQZkY4bS1TeE5rWHl2UXBwSHhGZ1lQNnhPTzkxVmVVUzQ2dnN6NTVLVGlPRnBsR1pLYndLMEJtV00tQVNSLTV5cXI3SXNBbXVuM2ZZZw?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTEw0c0t2RVhZcWFYaUl2SF9YQXo3SHBLVjdfTEs5SnliaW5zZDVDdnA4ZFlubmd3SkdRWng3SnFjOHl4Ujd1Q3VXdmlvYnlwNkxUSnFNalBFWGR1SWduN0dqOWt4aThyak9Sbzg3RGtRbDBNTXpkeUlLTG0yQmhHMWlLLTNqaW1hUFJkRUpfYVEtUmNFWDd0Mm5MS0JWQkFWS2V1b0hXU1QyckpaSC1ndENQVkRUU1pkVlNaTlhINVo4YUwtMUQ5TzJhZEgxWGw4WDI2UmhpX2VIUHliYjJLSFprYzFVUzJ1QktrcTBrRdIB7wFBVV95cUxNWk5VUHN4aGgtN2lpajlERHZxSE9zc1BaMHFnUU1zUnVSbF83NDJzdDFwUk1aczFSOU9LR1U5dlpLQms3LUhNWVdOcUI2Y00yTkVWUGFmaHhGVXhELVAySnN3eUNCYzlySU1fc3JncDNzUzQybERNVkNrS2dhWnZOdndOZ3pVWlh5aGRfcGRNZ21kbE9tSU5qZDJHQzRHa19qODFQZkY4bS1TeE5rWHl2UXBwSHhGZ1lQNnhPTzkxVmVVUzQ2dnN6NTVLVGlPRnBsR1pLYndLMEJtV00tQVNSLTV5cXI3SXNBbXVuM2ZZZw?oc=5)
+
+---
+
+### [Brote de ébola costaría a África 3600 millones de dólares y llevaría a la pobreza a un millón de personas - IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSER6cU82NldMQUpHR1pXM1htb0VCYnNYaXlfNklFVGZBUksxQ2J2SldoaE9tOTgxMUZOWlZ3MTcwTXVfRndzbTlwUkZkVkZiUjZBeWJuRThBZVBWdVBBOVpzNHhDVlJUWVVSSGk0Q1hJZDNwV2JmMVdLQm1XMHJJVXE2ME80RlItMTNRTTkwVUJiY1ZFU18xOWZ1akRsU0xqZElUazc4R1IwMnpvVGhtWUY4NHA5dlB4U2d0dlZFNzZ6VnlUbndNTjVfVTAxN081OGMtdw?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSER6cU82NldMQUpHR1pXM1htb0VCYnNYaXlfNklFVGZBUksxQ2J2SldoaE9tOTgxMUZOWlZ3MTcwTXVfRndzbTlwUkZkVkZiUjZBeWJuRThBZVBWdVBBOVpzNHhDVlJUWVVSSGk0Q1hJZDNwV2JmMVdLQm1XMHJJVXE2ME80RlItMTNRTTkwVUJiY1ZFU18xOWZ1akRsU0xqZElUazc4R1IwMnpvVGhtWUY4NHA5dlB4U2d0dlZFNzZ6VnlUbndNTjVfVTAxN081OGMtdw?oc=5)
 
 ---
 
@@ -70,6 +102,22 @@ permalink: /news/elbasvir/
 
 ---
 
+### [Psychology says people who struggle in classrooms but excel at reading a room, fixing an engine, or sensing what someone needs aren't slow learners, they're often operating in a form of intelligence the traditional school system was never designed to measu - Silicon Canals](https://news.google.com/rss/articles/CBMixwJBVV95cUxOOTdLRktMM2ZFVmg1NTdQdmxadElZRWhDczF1b2NUR3l6WWZfNWRLQUJwd2dka2FNU1F4aVZ3UVM1Y1VKT0FiSnFMVkdZVzhuNXVpS3V5Nmh6NEFIZG1QT1VzV0tOUldQeDZIaWM1d2hmbHR0SWNwVUJ2YUZvUnlKOHRjZEN3cW9aa042alNnclBBaTNOUTdvQTEwM2l4TnZsTHpsMENONWVhWHdLZF9qRG1idTdMcGJKdVVIbVRWSVYzVnFIRXZ3bXJWZmRwQjlWandIUDZLSHhPT1ZkRGlaQjg0SDQ0cDVzLWRVMnRENlFZNDJJZ2RveHZZUlUyYmVMR0YtazNCaWE1NUVNRWM5cGZHUmI2djU3OUVBVzA0MVFxcmo1VTRiZkJGcGNWNWc2aUI3SEt5RUxaclVIa3NTUFVxWjQ1Mzg?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMixwJBVV95cUxOOTdLRktMM2ZFVmg1NTdQdmxadElZRWhDczF1b2NUR3l6WWZfNWRLQUJwd2dka2FNU1F4aVZ3UVM1Y1VKT0FiSnFMVkdZVzhuNXVpS3V5Nmh6NEFIZG1QT1VzV0tOUldQeDZIaWM1d2hmbHR0SWNwVUJ2YUZvUnlKOHRjZEN3cW9aa042alNnclBBaTNOUTdvQTEwM2l4TnZsTHpsMENONWVhWHdLZF9qRG1idTdMcGJKdVVIbVRWSVYzVnFIRXZ3bXJWZmRwQjlWandIUDZLSHhPT1ZkRGlaQjg0SDQ0cDVzLWRVMnRENlFZNDJJZ2RveHZZUlUyYmVMR0YtazNCaWE1NUVNRWM5cGZHUmI2djU3OUVBVzA0MVFxcmo1VTRiZkJGcGNWNWc2aUI3SEt5RUxaclVIa3NTUFVxWjQ1Mzg?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Bestimmte Darmbakterien können Jahre vorher auf ein erhöhtes Risiko hinweisen](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
+
+---
+
 ### [Ebola, in Congo quasi 1.500 casi confermati: per l’Oms il rischio resta molto alto](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0NZTTItR2Q4dVNPWTZWb18wb1ozeFVoXzFqR2ZpVkxfTWdpMUZnYVdBTFk5QkZfd3hkOTdPVVJHYm9uazEwa3V5dGhsQlZSNE1MOE1xUnRiaVRjbmRHcWhIclpjc3Jrb01TQmdNTUJuWGVMdjgzc3ZHWTYtcTcyVVJ2YXNHRlRBNlRqZEpuWGhTMkdEUEdBUVpYYjdHYWN1S19hZXVhNlRQRjlVX29uN1draF9KVWJ0cW13cUp5bG05aDRVVThYdGZ5ZG02c3diN3ZOWU12MXNWS1QwbVFEeG9QSE5kRzlhNkRqR1dhQUgxUdIB9wFBVV95cUxPUnNLcV9XTkpXN1V3UjZMcmtMaTJaNzlOTG9xN2lzLUhUb2MyMDlQek5TTTFsN01iMmhkWHBNcTcxMzRlcUJPdm5TNER5Nk8yaEJlTDJhUUVJaVpOenVLeGliQzlOb1Q4OHdHNDRONEJjc04zTV9aRlQyX25KWGZ2Vl93MWlSWER0bW9ZQ3ExcDM3NUdSSFJaX21pbGZoYkhyQmgxcWJ5Ymw4NGdrbmM2YVU1S2pJRGRVOTR3WF82eGtsVVZEMGhQUEw5ek16MkZJNG03UHhVbW5tbzA2WGpKNklrWkowVk9ZQWdYVVl4bDRKTVJQRG1J?oc=5)
 
 2026-07-08 <span class="news-indication-tag">MS</span>
@@ -78,11 +126,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [La epidemia de ébola en RDC ya supera los 1.700 casos en medio de huelgas médicas e incidentes de seguridad - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkluWlpxUVR4c0ZHX201Smlzd3drOGlqQzZ6SGZ3Nnd0MmRzcDJUZDlwNW1pdEdUNUdQZEFaeGItUnJjUWkyNUpPRVpIczdwbW04aWtNYVVkYUo3eGZQM2pKTGFkaW9NTENSMVFlcE02TUZidUwzdWRpbDQ4WG1WdFpiOU5fOTN3WEhvSHBybDdTVGZmZ0lKNUdEdnMzU2RqOWY1UkhxQVl3NkRpdnRsek0tTQ?oc=5)
+### [Sclerosi multipla, lo yoga come alleato del benessere. Clara Vigasio: «Uno degli effetti più importanti dello yoga è il cambiamento di prospettiva: il corpo non viene più vissuto solo come qualcosa da “correggere” ma come qualcosa da ascoltare e adattare» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMikwNBVV95cUxNQ1gtcXpINDhQcGR5S05JN2tMVENVdGJwWWlTdFBZdU1UbzliMXdLYUtGUlhsZEo5OE5RVmgwa3BwXzBPU09ST2pTaVBucHJhRGV1dEJlUkpaVFYzNHlYRHJjNEZVdldvdjdfdEpHU2JwQ1MzUHFMTzdJdloxVVZNWWxFWnNiN1RXMEJ3aTBMTjRQa0xQU3B6UXYxM01kUmstUmRTTE9XSGRHYmdXWGFibHhsaFQ1dTR3Ynk1QnhZRUktZkFjZG1sMDh5OEc0UFN1VmIzZEV2UUxZMGFwVURPd1VZZUEtellockt4MjFVWmVFRzBDTG9EbXU1eUxDNGEweTh1aTNkZzJFRHkzbXR3Q1NXbXZ5ZDA3d1BaV1dsemlnTE55VnlDOGdMRWw2aHZuekl3SDdUbGNRemZMQ0wtajRvV00zUEFkekROaXktdl9tYVRRWlYycGstOS1ocGFHQ2tmRkRTLUFQdVJkeXJJajgyb2lJSG5qVG1fU0RPRWxsMmQ2ODNGR09yckFSMGFhV2lF?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">sclerosi multipla</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkluWlpxUVR4c0ZHX201Smlzd3drOGlqQzZ6SGZ3Nnd0MmRzcDJUZDlwNW1pdEdUNUdQZEFaeGItUnJjUWkyNUpPRVpIczdwbW04aWtNYVVkYUo3eGZQM2pKTGFkaW9NTENSMVFlcE02TUZidUwzdWRpbDQ4WG1WdFpiOU5fOTN3WEhvSHBybDdTVGZmZ0lKNUdEdnMzU2RqOWY1UkhxQVl3NkRpdnRsek0tTQ?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMikwNBVV95cUxNQ1gtcXpINDhQcGR5S05JN2tMVENVdGJwWWlTdFBZdU1UbzliMXdLYUtGUlhsZEo5OE5RVmgwa3BwXzBPU09ST2pTaVBucHJhRGV1dEJlUkpaVFYzNHlYRHJjNEZVdldvdjdfdEpHU2JwQ1MzUHFMTzdJdloxVVZNWWxFWnNiN1RXMEJ3aTBMTjRQa0xQU3B6UXYxM01kUmstUmRTTE9XSGRHYmdXWGFibHhsaFQ1dTR3Ynk1QnhZRUktZkFjZG1sMDh5OEc0UFN1VmIzZEV2UUxZMGFwVURPd1VZZUEtellockt4MjFVWmVFRzBDTG9EbXU1eUxDNGEweTh1aTNkZzJFRHkzbXR3Q1NXbXZ5ZDA3d1BaV1dsemlnTE55VnlDOGdMRWw2aHZuekl3SDdUbGNRemZMQ0wtajRvV00zUEFkekROaXktdl9tYVRRWlYycGstOS1ocGFHQ2tmRkRTLUFQdVJkeXJJajgyb2lJSG5qVG1fU0RPRWxsMmQ2ODNGR09yckFSMGFhV2lF?oc=5)
+
+---
+
+### [5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
 
 ---
 
@@ -115,14 +171,6 @@ permalink: /news/elbasvir/
 2026-07-07 <span class="news-indication-tag">epatite</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pNd0FnWG9Lb1lCamZkQ2U3WEhscFRRVjJhcUhuNmRtZnZaR2U2NXV4N0E4ck5ZZU1KNlE4b0JvWjhoU1d2ZWJNeWxERU1MWmk2RHBiVExkMUM3cUVDSncwTm5jalJnRmVoaDVqNEl5cHpnS2U5czBaeTE2U1hmYktsSDVwTEU0NDRVMnFsTHp4QjBROHQwaVhLVjNWb0x2czlWNXdrNlVleWppTUswRVpuS3hSb0o5YVFwWjZyVW1abklFVkVsaXdsUQ?oc=5)
-
----
-
-### [Tranexamsäure kann Bluttransfusionen bei Operationen vermeiden und Geld sparen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
-
-2026-07-06 <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUkRmV19BYklVdUJVblozTkVUZUxWSVNjUWt0d1V6MEtWNk1VajdscF9QTU5FS0xmUjEtTXJRVFNFR2tJRFZXVEZwWktEMWRWVWhXRWV4d25XMThiVnlab0Nfam85azJyX0pKc09yU1dQSDl2aVpUNkN2Mkw2VUdTUElBY1NCYThhS1dIZzlQbXk0LW9JS1ZoVk0zVkMxMTc2SnJaeVVkaDRPZUd4SHQyLVhjeml2MS1lZU5aTHpFVWVGRS1GSm1jVVB3N2EzWnRqSHhSUGNPazFkemtLdDVUcQ?oc=5)
 
 ---
 

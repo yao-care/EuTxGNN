@@ -14,7 +14,7 @@ permalink: /news/enfuvirtide/
 ---
 
 <p class="key-answer" data-question="Enfuvirtide 有什麼相關新聞？">
-<strong>Enfuvirtide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Enfuvirtide</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/enfuvirtide/
 <p><a href="{{ '/drugs/enfuvirtide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
-
-### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
-
-2026-07-08 <span class="news-indication-tag">tumor</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
-
----
+## 相關新聞（24 則）
 
 ### [Cancer cases expected to soar worldwide, WHO report finds - The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVldubVVncnpWaDRhd3lsSkpHWlNHU0dMTmFSVGJ0YWp3aXhndnVsV3liTl9ZM3hORjdWS2Zad1o5OFpnQ2p4dXpoVUhLQWhWa3RXQksyWG5jOGhsQjEzME1vLUdLYWdILUhlSkQyT2VLdFRqNk9WRUd1c3JwX2Rkb3hYRmdjVHgtYUZtSkl1MmZtSHhCN25RTEhhVFV4TEY0NllJTlhFZ1l1bFRmU24wTkJoRm0yNVU0Wk8xeGVUeVFxS0dXaVdpLXIzNnFjQUUxd19JNFR4Nm9POE5wTUg2djZtRUM?oc=5)
 
@@ -94,6 +86,14 @@ permalink: /news/enfuvirtide/
 
 ---
 
+### [Identificada una secuencia de quimioterapia que podría mejorar la supervivencia en pacientes con cáncer de páncreas - Diario de Pontevedra](https://news.google.com/rss/articles/CBMihAJBVV95cUxQTE82Mkg1dE03b1dwd3RLY0R6bUl0Y1YteEs3WldZYnJUUTBTRUplWFZDSFlTWDQ0WFlDeHpZdFZiWl9MblczM1VGeTNqSldaVmxUdGZTVmI4RkZTdERNUlBxMzR4MVEzVkJLaE81MGE4RVBKalNCeFJGR0gwc1Nkc2x1WWt3b0xHZng5RlRUbHkyLTJhQ3R3Vmo0RnRkSm5ldUpUVk1qT0prWGEwLXlKTHNkTXNjN1ptMGVWSVNoOHp0aG5ON2NLZVhuMW9fV1Vwcldsc3Q2U1Z0VnBQMVJDTHBUWEg1VG9aZGM1VDQ4RXdOVFhqQWZrRUlyVVlMSkZ5UEhjTA?oc=5)
+
+2026-07-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Diario de Pontevedra](https://news.google.com/rss/articles/CBMihAJBVV95cUxQTE82Mkg1dE03b1dwd3RLY0R6bUl0Y1YteEs3WldZYnJUUTBTRUplWFZDSFlTWDQ0WFlDeHpZdFZiWl9MblczM1VGeTNqSldaVmxUdGZTVmI4RkZTdERNUlBxMzR4MVEzVkJLaE81MGE4RVBKalNCeFJGR0gwc1Nkc2x1WWt3b0xHZng5RlRUbHkyLTJhQ3R3Vmo0RnRkSm5ldUpUVk1qT0prWGEwLXlKTHNkTXNjN1ptMGVWSVNoOHp0aG5ON2NLZVhuMW9fV1Vwcldsc3Q2U1Z0VnBQMVJDTHBUWEg1VG9aZGM1VDQ4RXdOVFhqQWZrRUlyVVlMSkZ5UEhjTA?oc=5)
+
+---
+
 ### [Teen who blamed headache on dehydration needed surgery for RUPTURED brain tumour - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBCblozOU1sR3Z5OG9ieEh5N2oyNU41Y0lqcElrNTE5elp3X1VlejhoeWVxWmxXS2x4V04wWGJtMHlHTmtfODRiYlBoNUVlcWdNRXRxR0dSVmItcjJYOWVZUWFVUDVyVS1MMl9IV2gyVVNVWW5oQ2FKa0p5SzNTQQ?oc=5)
 
 2026-07-08 <span class="news-indication-tag">tumour</span>
@@ -102,19 +102,19 @@ permalink: /news/enfuvirtide/
 
 ---
 
-### [Cáncer de páncreas: un estudio señala la mejor secuencia de quimioterapia para mejorar la supervivencia - El Confidencial](https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmtVUmRBVnBKenpBLXZoNmhjVEc1bXBqMHZvWW1saFhGRVNBdnVBWXdKWFhTZUY1LVpwMkg0a2hUYmIzdWFQY3NzbDZTRjNwZnQzVTZkbUVwZENGdFdETzdiVWdSeWM1NVRxVjE3OU43cUdvRWRNNHZoT3lVelNGVVBrZmFPaDR5UlBRbUwtRnVJWUlRWkVjTXlrTDJKcTY2MVB0end5TnFWUVhFUjVpN2ZLanc4ZWlPYjRibTFsZDhyTHozU0pEOVUzSjM?oc=5)
+### [Typ-2-Diabetes: Bestimmte Darmbakterien können Jahre vorher auf ein erhöhtes Risiko hinweisen](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
 
-2026-07-08 <span class="news-indication-tag">tumor</span>
+2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmtVUmRBVnBKenpBLXZoNmhjVEc1bXBqMHZvWW1saFhGRVNBdnVBWXdKWFhTZUY1LVpwMkg0a2hUYmIzdWFQY3NzbDZTRjNwZnQzVTZkbUVwZENGdFdETzdiVWdSeWM1NVRxVjE3OU43cUdvRWRNNHZoT3lVelNGVVBrZmFPaDR5UlBRbUwtRnVJWUlRWkVjTXlrTDJKcTY2MVB0end5TnFWUVhFUjVpN2ZLanc4ZWlPYjRibTFsZDhyTHozU0pEOVUzSjM?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
 
 ---
 
-### [Creatine doesn't just build muscle. It may also help fight cancer](https://news.google.com/rss/articles/CBMib0FVX3lxTE56QzE5aU10RUFzeFhVYTdxeG1La2VtaXppdFVDZGFnYmpyd1hrN2tIQzVma2tlQjBNVzNrLTBuNEZqa1JiT1dHVFlwMTBlb3dKU1JRLV9tbkJKUVZGdHVibVN3T3RFQXFuQUZOSDJfSQ?oc=5)
+### [El VPH y las lesiones precancerosas afectan con frecuencia a los trasplantados renales - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
 
-2026-07-08 <span class="news-indication-tag">cancer</span>
+2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE56QzE5aU10RUFzeFhVYTdxeG1La2VtaXppdFVDZGFnYmpyd1hrN2tIQzVma2tlQjBNVzNrLTBuNEZqa1JiT1dHVFlwMTBlb3dKU1JRLV9tbkJKUVZGdHVibVN3T3RFQXFuQUZOSDJfSQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
 
 ---
 
@@ -123,6 +123,14 @@ permalink: /news/enfuvirtide/
 2026-07-08 <span class="news-indication-tag">tumor</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMERNZFNBVGoyNzZVQWo4ZEtLTWU5WXQ2OWF0WWNyNDhjOHI5bEZpa2M4YUtvTkxkUEJjcV9JVnNzZWx4QUlGX0tvZnJlZTlfekJRYm9Gc3h0WWYwY3VUMVpkeUdVdlV4eUotY09zRDR3QmpjS3pEQlBHbEZkakd5ekhrN0tZZ0RuLTBYZzF4UDZ0NzBTd3lhQlJuZXM?oc=5)
+
+---
+
+### [New drug against metastatic prostate cancer made entirely from human proteins - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVlBVW5tY2JYdjRJbm5mOWlfWWwzNzBVTlJqVVdpc09DUndHQURaekdBbGIzSXM2dzhlWWhNaVotem1KX0hnYnRsMDlpa011dEhDSFNLcFUwaXF1VTRzenlWRE5Nb2xqdVI3TGlyTEVuTjFVZjJ5UGE2LU51VmxrUXkxMTItbEFi?oc=5)
+
+2026-07-08 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVlBVW5tY2JYdjRJbm5mOWlfWWwzNzBVTlJqVVdpc09DUndHQURaekdBbGIzSXM2dzhlWWhNaVotem1KX0hnYnRsMDlpa011dEhDSFNLcFUwaXF1VTRzenlWRE5Nb2xqdVI3TGlyTEVuTjFVZjJ5UGE2LU51VmxrUXkxMTItbEFi?oc=5)
 
 ---
 
@@ -139,6 +147,22 @@ permalink: /news/enfuvirtide/
 2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5odzZibW5CMkZncXFmUENfOTk2dzNpNllMSHdWenNsNU1wSUlFcWY5OHFITC1LLW0yLWstalAwaHhjQ2Zjc1ItdGhueEN0bC1Xbm9jT2h6V2NLcUpia0IwMVdlcnJXZTdZTUZYREUwbHJJdENjN3NUVkJIUzUwb1E?oc=5)
+
+---
+
+### [Rapid Review Quiz: Pancreatic Cancer Risk Factors and Recognition](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEN5eHpkdm05U1E5YnRzX2lpOGd0enJWOUV5Ty1PWDluLUNiSlRUazJLckJOVy1ieHVjcDRQSzZ0Wm9qQVV2ZGM2NTFseTQ3UDNkRXhPejMxaU9rOERDX2F3RnlZczFFcUtNMkxfV0owWmxsTmVERkJKZWUzTjFrUU9pSzM0elFmRG0xOE83b25OS0VHTzRNM243LTRFX0lCM2dCM0gtLVA5dlY3?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEN5eHpkdm05U1E5YnRzX2lpOGd0enJWOUV5Ty1PWDluLUNiSlRUazJLckJOVy1ieHVjcDRQSzZ0Wm9qQVV2ZGM2NTFseTQ3UDNkRXhPejMxaU9rOERDX2F3RnlZczFFcUtNMkxfV0owWmxsTmVERkJKZWUzTjFrUU9pSzM0elFmRG0xOE83b25OS0VHTzRNM243LTRFX0lCM2dCM0gtLVA5dlY3?oc=5)
+
+---
+
+### [5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
 
 ---
 
@@ -190,14 +214,6 @@ permalink: /news/enfuvirtide/
 
 ---
 
-### [Sant’Anna, rimossi due tumori del pancreas di grandi dimensioni](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd4WU9aMHBycWVIdW5LbU1Xa3djQjR4d2JWeG40dnlHU1NPSE1TQlAyY2UzN0dDU2oyYXhnUzFZa3B4NDkyR0p6QTA1VnRLdHJxVDFDdHZwZnBoU29YTFRLTHE5N2k1bUk5bzJQd0dhcjR5V0ljOWNETjMwNjBycElOSl83dmdoUXg2ckFoRU1vMU9zLTNNN0w3QmVrUDZn?oc=5)
-
-2026-07-07 <span class="news-indication-tag">tumor</span>
-
-來源：[Estense.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd4WU9aMHBycWVIdW5LbU1Xa3djQjR4d2JWeG40dnlHU1NPSE1TQlAyY2UzN0dDU2oyYXhnUzFZa3B4NDkyR0p6QTA1VnRLdHJxVDFDdHZwZnBoU29YTFRLTHE5N2k1bUk5bzJQd0dhcjR5V0ljOWNETjMwNjBycElOSl83dmdoUXg2ckFoRU1vMU9zLTNNN0w3QmVrUDZn?oc=5)
-
----
-
 ### [Tumore al seno: cellule che si muovono in gruppo lo rendono più intercettabile - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdDd6Nl9tM1BSYkVNRTVpaFZtY3lMSWNoU1FjMFZnOElaeFRCOWcxQUd2SHRxaEFYLXdjX1hhR1I5eG5pSnRQejR2TnVZY0kwTHA1OFZWQTdfa25WbmYwQ2ZCdm9ZRUJsRk9oSklleUVyMW5XMFYtSTlnbnR6OWdLdDl0bUdKcnk5bjBkbHdkOE1YZWd3bkY0Ylh6cmNmWW94dV80VlZHQ2NNajZsMThFalB4ZzlXcVJsQ2VVYV81WERBMjhfQUZZUUNhUnZ3OExDOWpKXzJSaUpmMk9fenc4eTZTUVpDd0RWeXpvUmxMOU1QUQ?oc=5)
 
 2026-07-07 <span class="news-indication-tag">tumor</span>
@@ -206,19 +222,19 @@ permalink: /news/enfuvirtide/
 
 ---
 
+### [Mum who felt 'pregnant' given shock diagnosis after two doctors missed it - Daily Express](https://news.google.com/rss/articles/CBMifkFVX3lxTE41bE9UVlppcG10enoxM1JVMTlWWTh2WVNsUjdyX2MwSXQ2OUh2OFp1MFBFX2FxdWxDRGdtZzVXVkJHcWFyVmNtZ1BEVGRjY0FxY1FDcTNhNEZsRElHMDRwLTRoeFh2TTJBaVBDVkZnb1gtSXp3cDFaTnRldlBqQdIBgwFBVV95cUxQd280ODJ3VjJHYURMU3VYdENGZ0JjVjVoOHJTR29rSmVLN1AtelducHZTOVlmcE1GSDZFRTVvOXNOVHZDaXNZVFdNTGcyT19BZkN5ZVRDdGk1dEZrMDg4OWNWeGMxQ2pCRVhac1E3VEZIaUdZS0Joclg0UjB2TGI2bDFaMA?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMifkFVX3lxTE41bE9UVlppcG10enoxM1JVMTlWWTh2WVNsUjdyX2MwSXQ2OUh2OFp1MFBFX2FxdWxDRGdtZzVXVkJHcWFyVmNtZ1BEVGRjY0FxY1FDcTNhNEZsRElHMDRwLTRoeFh2TTJBaVBDVkZnb1gtSXp3cDFaTnRldlBqQdIBgwFBVV95cUxQd280ODJ3VjJHYURMU3VYdENGZ0JjVjVoOHJTR29rSmVLN1AtelducHZTOVlmcE1GSDZFRTVvOXNOVHZDaXNZVFdNTGcyT19BZkN5ZVRDdGk1dEZrMDg4OWNWeGMxQ2pCRVhac1E3VEZIaUdZS0Joclg0UjB2TGI2bDFaMA?oc=5)
+
+---
+
 ### [Sitting for long stretches linked to a higher risk of death from cancer – oncologist answers questions about the new study - The Conversation](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMEd3S2tRbDNfMWU2RDFTa3RMRHVnajh3Qkg3bnE2YU9jckw5SEwtRHdSbks0aERadWg3VnFGRHh0NWxRdThzVTF4T2tQbE1XeHQ4bmpQTXZONWVmMlRPQVJmam8xRDNLWU1XR0ZVTVVZTjBObWRTTGE4UnJnTDZoVG9DVWpoNDhlN1o3T056OWVYVV9GVjR6Q2J6b3JzT3dXbmJlWXAwQlZjV1Rjd05mYk5FRjJUTkNqbVd2b3lEVDQ2Tk44SzVzNnVpejV1bWJkRHdyVGpNR3J4Y01VRl9VTF90RUQtYlItT25n?oc=5)
 
 2026-07-07 <span class="news-indication-tag">cancer</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMEd3S2tRbDNfMWU2RDFTa3RMRHVnajh3Qkg3bnE2YU9jckw5SEwtRHdSbks0aERadWg3VnFGRHh0NWxRdThzVTF4T2tQbE1XeHQ4bmpQTXZONWVmMlRPQVJmam8xRDNLWU1XR0ZVTVVZTjBObWRTTGE4UnJnTDZoVG9DVWpoNDhlN1o3T056OWVYVV9GVjR6Q2J6b3JzT3dXbmJlWXAwQlZjV1Rjd05mYk5FRjJUTkNqbVd2b3lEVDQ2Tk44SzVzNnVpejV1bWJkRHdyVGpNR3J4Y01VRl9VTF90RUQtYlItT25n?oc=5)
-
----
-
-### [Mum of 3 felt '9 months pregnant' - two doctors were 'shocked' when they examined her - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
 
 ---
 

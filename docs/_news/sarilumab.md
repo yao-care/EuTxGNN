@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
+
+### [Personalisierte Diät und Biomarker: Wie das Mikrobiom Krankenhausaufenthalte bei CED senkt - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0l1Y04yYTltZ3k2QzRPeThHa1llSGhIZmRCY3VQTkx4VmNLRTBIR1RUZUJqSk5RTVRweXVNQUlwbnJ3TXcwN1RQX25vek4xM05SYnJVQ0xDUVV6TWFjVlJwR3B1Q3FlM2ZLZUJCa2JCYlByLVZTbElrTGFwWEFuX0lFbDJnSTdTWjN0VzJjREUxbmhkQWFfODRIWjBLYS1YdGZPUmM3cThoOFUzaWx1LTdJbDVweENJQVVNUUI4SQ?oc=5)
+
+2026-07-09 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0l1Y04yYTltZ3k2QzRPeThHa1llSGhIZmRCY3VQTkx4VmNLRTBIR1RUZUJqSk5RTVRweXVNQUlwbnJ3TXcwN1RQX25vek4xM05SYnJVQ0xDUVV6TWFjVlJwR3B1Q3FlM2ZLZUJCa2JCYlByLVZTbElrTGFwWEFuX0lFbDJnSTdTWjN0VzJjREUxbmhkQWFfODRIWjBLYS1YdGZPUmM3cThoOFUzaWx1LTdJbDVweENJQVVNUUI4SQ?oc=5)
+
+---
 
 ### [Esta terapia prohibida en España desarma la enfermedad de Crohn sin dañar la microbiota](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmlROWpseDhQRWt2bWQtajlUaHV3TG5YaGFvVVNJb0ltbGVqaTZBb0g0M1BFelhYVXhhdG1mTVViZWJLbVR3emt2eXRMMnhtdWZ3QllrNDY3ZDdBMHBYR3hfSHNEbUhnTXFaMmg5eTNyRmExdU55ai12aXRtN1d5SGVkcGxxUkVIaGZXRVpaRlVMdjJfWVpsOTctb0RSZE1CVXJNdElR0gGrAUFVX3lxTE1LWkJmcURFYkxnbUtESC1JeVd0T2wwYkZQMGlKUF9CUDVpRTlNU0o5MDNDV0xBT3hNaVNZWTh3em1FM3dDUkNXU1JXWlJYZ0ZWazh0b3BseXBaWDBJcVY2djE0RFhVdUEtM1g3YUt0SXU5ZWhqcnYzSl9yT0FsZVhjeGNqLTdEcFB5Vm1MUTVaUFNidUhwdTU0c09STUFrTTNLbm1qOS11b3l2OA?oc=5)
 
 2026-07-08 <span class="news-indication-tag">enfermedad de Crohn</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmlROWpseDhQRWt2bWQtajlUaHV3TG5YaGFvVVNJb0ltbGVqaTZBb0g0M1BFelhYVXhhdG1mTVViZWJLbVR3emt2eXRMMnhtdWZ3QllrNDY3ZDdBMHBYR3hfSHNEbUhnTXFaMmg5eTNyRmExdU55ai12aXRtN1d5SGVkcGxxUkVIaGZXRVpaRlVMdjJfWVpsOTctb0RSZE1CVXJNdElR0gGrAUFVX3lxTE1LWkJmcURFYkxnbUtESC1JeVd0T2wwYkZQMGlKUF9CUDVpRTlNU0o5MDNDV0xBT3hNaVNZWTh3em1FM3dDUkNXU1JXWlJYZ0ZWazh0b3BseXBaWDBJcVY2djE0RFhVdUEtM1g3YUt0SXU5ZWhqcnYzSl9yT0FsZVhjeGNqLTdEcFB5Vm1MUTVaUFNidUhwdTU0c09STUFrTTNLbm1qOS11b3l2OA?oc=5)
-
----
-
-### [Morbus Crohn: Scheinfasten lindert Symptome bei zwei Dritteln - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWlLR1VtUjl2SlVnOEFCRzVIajNzbDByc1dUODV1QTFJN183YTlscHRxbUdMRmgzczc3TkU1ZFRLckEwY0tNVHBLUGxGbFNUWHRPX2NZNDFKUGNYaEY2emRmMGo4SUhvVnpkRkUyNURvNTFHczlMRklucGF5S2VnUzJMbl9LRkhSMU1lYTA2TzhRVEluRUo0aElTaVJGS1ltVGV2S0Q5Rk1QVjJXNHc?oc=5)
-
-2026-07-08 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWlLR1VtUjl2SlVnOEFCRzVIajNzbDByc1dUODV1QTFJN183YTlscHRxbUdMRmgzczc3TkU1ZFRLckEwY0tNVHBLUGxGbFNUWHRPX2NZNDFKUGNYaEY2emRmMGo4SUhvVnpkRkUyNURvNTFHczlMRklucGF5S2VnUzJMbl9LRkhSMU1lYTA2TzhRVEluRUo0aElTaVJGS1ltVGV2S0Q5Rk1QVjJXNHc?oc=5)
 
 ---
 
@@ -83,22 +83,6 @@ permalink: /news/sarilumab/
 2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
-
----
-
-### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
-
-2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
-
----
-
-### [Un mayor consumo de vitamina K1 reduce un 16% el riesgo de EPOC](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
-
-2026-07-07 <span class="news-indication-tag">EPOC</span>
-
-來源：[FreshPlaza](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbF90cnNIY3RrZ1lNWmd6b1dSQXhBZHF0S01oOVZwMHVkZWd5SnVFaHRhNEVuOVdHZ19GS2R2ZllpUWpHamF2UXU3N1k5MTFlRm9FTTBQbXFReUxCOUY2TV9fOFhsTkxPSmd6bk1DQXc4YTJpOTU0a1Q3RHJMYVp5ektfeUFaTlI3Q1BRZ1Npal8xd0RiT1hZRGxZMXNaY3g5UEdJTnhmSUI0Q2lrbnhJaA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（38 則）
 
-### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+### [Lebensstilinterventionen bei Diabetes | Lifestyle-Interventionen reduzieren Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
 
-2026-07-08 <span class="news-indication-tag">tumor</span>
+2026-07-09 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
+
+---
+
+### [La UMA demuestra cómo la disfunción de la grasa corporal acelera el deterioro cerebral en el alzhéimer - Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejZCR3BYUnBDQVJrZXdXOWRjald2dGZRY1czcTdqOEZCLXNvYjFteml5b3NrcGFKdF9EMWRIdC1kTFVYUmtxR2RfRnV1RnlnYWJ5R29OcUtDMi1VVkVRS1dWNDZfSkxmT2loT2NKVmxxQUJxRjRJLWIyX2VyZXB0Q0ZEejlJZEE3Rk1DU3E1YVl3bWc3cTE0OVl5S2R1Ty0yU25zUGZBSDNnUTBuNzdzNTJNX1RjX0li0gG-AUFVX3lxTE04eW1VSmZtSGd3SFJ3TjFmZWpQV0tRMWhBNTZGekJfZkcxUUh0WmNzSFVLb0NxX1EwVHFWbk52SnNrLTlEVDBFTEt4ZWIxZjdpRFJtWnVhdXI2MGRXSDZ5TTBHT0JYRGdtempaeW10NkpXNFNrNlpZSlNiWWRQRmxlcG03OFZqdXFWS2g1bXlFdFdiREd5TC1aWnJGVzVqc1A3cTk1cDZ4WEN3TExpbkEyZndxX0VOaU9Odmd6RVE?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejZCR3BYUnBDQVJrZXdXOWRjald2dGZRY1czcTdqOEZCLXNvYjFteml5b3NrcGFKdF9EMWRIdC1kTFVYUmtxR2RfRnV1RnlnYWJ5R29OcUtDMi1VVkVRS1dWNDZfSkxmT2loT2NKVmxxQUJxRjRJLWIyX2VyZXB0Q0ZEejlJZEE3Rk1DU3E1YVl3bWc3cTE0OVl5S2R1Ty0yU25zUGZBSDNnUTBuNzdzNTJNX1RjX0li0gG-AUFVX3lxTE04eW1VSmZtSGd3SFJ3TjFmZWpQV0tRMWhBNTZGekJfZkcxUUh0WmNzSFVLb0NxX1EwVHFWbk52SnNrLTlEVDBFTEt4ZWIxZjdpRFJtWnVhdXI2MGRXSDZ5TTBHT0JYRGdtempaeW10NkpXNFNrNlpZSlNiWWRQRmxlcG03OFZqdXFWS2g1bXlFdFdiREd5TC1aWnJGVzVqc1A3cTk1cDZ4WEN3TExpbkEyZndxX0VOaU9Odmd6RVE?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/inebilizumab/
 2026-07-08 <span class="news-indication-tag">cancer</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVldubVVncnpWaDRhd3lsSkpHWlNHU0dMTmFSVGJ0YWp3aXhndnVsV3liTl9ZM3hORjdWS2Zad1o5OFpnQ2p4dXpoVUhLQWhWa3RXQksyWG5jOGhsQjEzME1vLUdLYWdILUhlSkQyT2VLdFRqNk9WRUd1c3JwX2Rkb3hYRmdjVHgtYUZtSkl1MmZtSHhCN25RTEhhVFV4TEY0NllJTlhFZ1l1bFRmU24wTkJoRm0yNVU0Wk8xeGVUeVFxS0dXaVdpLXIzNnFjQUUxd19JNFR4Nm9POE5wTUg2djZtRUM?oc=5)
+
+---
+
+### [La microbiota intestinal puede predecir el riesgo de desarrollar diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3c5djJldFRqU0ctcGJYYTFCUzFIbDh2b1FJTWl3WkotUXRsWnk2a3ZRWm9MV09CSGtiWS1KenlST0Y1U1FVNlJPaWdITlAyZFR2ODY5LWd3MXJBWDhDR0FHRU5GZG1xbGlZQ0t3d0FjVnA1STliaUlGNTI0YkpFXzU0S0JMbXFYci1EZVVuMjUxN2NGazV3ejdBZThZTTBjMVhSeHp6NVpHSjNYR3JIZXBjTFJQTVRib3fSAbQBQVVfeXFMTWVORFdjQ2JTSmV0Q2F4Ql9OTjNtWTFfSWdLZktnWG5zbjBCZ1gzYkJQS1JZTHVYRFVuVVdWNlhkVy1Ib0VaREJOSHRBTlBDUWpwNm1wNlc3cWQ4cjNEWDlXVVczMDZ6bVZkcEJTQUx5a1FwQ0lTSVNHcXRxNm91QVdldVNTTktUVlBvVDlmSE5nWFNwQ3hPbDhidFVqWHc4MVFoZ0tJd0RmeExFMjJHWUFwOVhq?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3c5djJldFRqU0ctcGJYYTFCUzFIbDh2b1FJTWl3WkotUXRsWnk2a3ZRWm9MV09CSGtiWS1KenlST0Y1U1FVNlJPaWdITlAyZFR2ODY5LWd3MXJBWDhDR0FHRU5GZG1xbGlZQ0t3d0FjVnA1STliaUlGNTI0YkpFXzU0S0JMbXFYci1EZVVuMjUxN2NGazV3ejdBZThZTTBjMVhSeHp6NVpHSjNYR3JIZXBjTFJQTVRib3fSAbQBQVVfeXFMTWVORFdjQ2JTSmV0Q2F4Ql9OTjNtWTFfSWdLZktnWG5zbjBCZ1gzYkJQS1JZTHVYRFVuVVdWNlhkVy1Ib0VaREJOSHRBTlBDUWpwNm1wNlc3cWQ4cjNEWDlXVVczMDZ6bVZkcEJTQUx5a1FwQ0lTSVNHcXRxNm91QVdldVNTTktUVlBvVDlmSE5nWFNwQ3hPbDhidFVqWHc4MVFoZ0tJd0RmeExFMjJHWUFwOVhq?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/inebilizumab/
 2026-07-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZIWEx1MkFHX2hXVVJJempoN19NZmJiUTRQYnd1YkFZXy1QN1MxZDdaNndwZEZsTzRMckJyREJPd2ZkS3BzWExyTjZ1cUxZTXFwYnRuWHF6UU9lYVk0TUc4MEZ3ZTA0eTJhYkM5VXNRWWpCOGJQNmNEdkdpeHk1R1JoMVFkUjhvY284TWxmMS1XVWUy?oc=5)
-
----
-
-### [Relación entre la obesidad y el Alzheimer: la grasa corporal podría acelerar la progresión de la enfermedad](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTRsSlBTMWRMd2twQklKYXlBTnF4b2lpVTdaaDF6UmlKZXpNc1d1OHlPaXQ5aVlFQWVGUDU3Z2g0WFVaczNaRHBuMXh3RERLZFZCYmFROFY5bjNLTFhqdnBBWFp4WlpuM1lNVThwcDZ6TnNqWFAxc3hGbkdYNjJ3dXRWTXF1eWFqZWFrUllCRlhIYzJxem1hS2laTTN0ZEtrdHd4ajg5Tl8tX21sYXkxaV8zYkpTckNTbDlUVElENTRQRl9RX195S1Z3?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTRsSlBTMWRMd2twQklKYXlBTnF4b2lpVTdaaDF6UmlKZXpNc1d1OHlPaXQ5aVlFQWVGUDU3Z2g0WFVaczNaRHBuMXh3RERLZFZCYmFROFY5bjNLTFhqdnBBWFp4WlpuM1lNVThwcDZ6TnNqWFAxc3hGbkdYNjJ3dXRWTXF1eWFqZWFrUllCRlhIYzJxem1hS2laTTN0ZEtrdHd4ajg5Tl8tX21sYXkxaV8zYkpTckNTbDlUVElENTRQRl9RX195S1Z3?oc=5)
 
 ---
 
@@ -118,6 +126,14 @@ permalink: /news/inebilizumab/
 
 ---
 
+### [Identificada una secuencia de quimioterapia que podría mejorar la supervivencia en pacientes con cáncer de páncreas - Diario de Pontevedra](https://news.google.com/rss/articles/CBMihAJBVV95cUxQTE82Mkg1dE03b1dwd3RLY0R6bUl0Y1YteEs3WldZYnJUUTBTRUplWFZDSFlTWDQ0WFlDeHpZdFZiWl9MblczM1VGeTNqSldaVmxUdGZTVmI4RkZTdERNUlBxMzR4MVEzVkJLaE81MGE4RVBKalNCeFJGR0gwc1Nkc2x1WWt3b0xHZng5RlRUbHkyLTJhQ3R3Vmo0RnRkSm5ldUpUVk1qT0prWGEwLXlKTHNkTXNjN1ptMGVWSVNoOHp0aG5ON2NLZVhuMW9fV1Vwcldsc3Q2U1Z0VnBQMVJDTHBUWEg1VG9aZGM1VDQ4RXdOVFhqQWZrRUlyVVlMSkZ5UEhjTA?oc=5)
+
+2026-07-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Diario de Pontevedra](https://news.google.com/rss/articles/CBMihAJBVV95cUxQTE82Mkg1dE03b1dwd3RLY0R6bUl0Y1YteEs3WldZYnJUUTBTRUplWFZDSFlTWDQ0WFlDeHpZdFZiWl9MblczM1VGeTNqSldaVmxUdGZTVmI4RkZTdERNUlBxMzR4MVEzVkJLaE81MGE4RVBKalNCeFJGR0gwc1Nkc2x1WWt3b0xHZng5RlRUbHkyLTJhQ3R3Vmo0RnRkSm5ldUpUVk1qT0prWGEwLXlKTHNkTXNjN1ptMGVWSVNoOHp0aG5ON2NLZVhuMW9fV1Vwcldsc3Q2U1Z0VnBQMVJDTHBUWEg1VG9aZGM1VDQ4RXdOVFhqQWZrRUlyVVlMSkZ5UEhjTA?oc=5)
+
+---
+
 ### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
 
 2026-07-08 <span class="news-indication-tag">asthma</span>
@@ -134,27 +150,27 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Cáncer de páncreas: un estudio señala la mejor secuencia de quimioterapia para mejorar la supervivencia - El Confidencial](https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmtVUmRBVnBKenpBLXZoNmhjVEc1bXBqMHZvWW1saFhGRVNBdnVBWXdKWFhTZUY1LVpwMkg0a2hUYmIzdWFQY3NzbDZTRjNwZnQzVTZkbUVwZENGdFdETzdiVWdSeWM1NVRxVjE3OU43cUdvRWRNNHZoT3lVelNGVVBrZmFPaDR5UlBRbUwtRnVJWUlRWkVjTXlrTDJKcTY2MVB0end5TnFWUVhFUjVpN2ZLanc4ZWlPYjRibTFsZDhyTHozU0pEOVUzSjM?oc=5)
+### [Typ-2-Diabetes: Bestimmte Darmbakterien können Jahre vorher auf ein erhöhtes Risiko hinweisen](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
 
-2026-07-08 <span class="news-indication-tag">tumor</span>
+2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmtVUmRBVnBKenpBLXZoNmhjVEc1bXBqMHZvWW1saFhGRVNBdnVBWXdKWFhTZUY1LVpwMkg0a2hUYmIzdWFQY3NzbDZTRjNwZnQzVTZkbUVwZENGdFdETzdiVWdSeWM1NVRxVjE3OU43cUdvRWRNNHZoT3lVelNGVVBrZmFPaDR5UlBRbUwtRnVJWUlRWkVjTXlrTDJKcTY2MVB0end5TnFWUVhFUjVpN2ZLanc4ZWlPYjRibTFsZDhyTHozU0pEOVUzSjM?oc=5)
-
----
-
-### [Creatine doesn't just build muscle. It may also help fight cancer](https://news.google.com/rss/articles/CBMib0FVX3lxTE56QzE5aU10RUFzeFhVYTdxeG1La2VtaXppdFVDZGFnYmpyd1hrN2tIQzVma2tlQjBNVzNrLTBuNEZqa1JiT1dHVFlwMTBlb3dKU1JRLV9tbkJKUVZGdHVibVN3T3RFQXFuQUZOSDJfSQ?oc=5)
-
-2026-07-08 <span class="news-indication-tag">cancer</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE56QzE5aU10RUFzeFhVYTdxeG1La2VtaXppdFVDZGFnYmpyd1hrN2tIQzVma2tlQjBNVzNrLTBuNEZqa1JiT1dHVFlwMTBlb3dKU1JRLV9tbkJKUVZGdHVibVN3T3RFQXFuQUZOSDJfSQ?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
 
 ---
 
 ### [Dormir menos de seis horas favorece el aumento de peso y la inactividad física - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
 
-2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+2026-07-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
+
+---
+
+### [El VPH y las lesiones precancerosas afectan con frecuencia a los trasplantados renales - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
 
 ---
 
@@ -166,6 +182,14 @@ permalink: /news/inebilizumab/
 
 ---
 
+### [Individuata una proteina che accelera il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU0hVYTVUWGd2NTVRS3hRV3E0UHVteVF6dHROX2YycU9QTXBEX2E5YlhaMTlvd1RxVzl2Z1RlX19hRVR1S3hBSzZPSEduQjFkS2lydTNtaDNocm9ZV0RTcEdYMnZWVi1sWUR2enlmVDVIUUJWUWJPWVhoeTFQdEZraHVCY0JFN05RYmQ0d0xnQ1dhYm1fSjYxaVhNcUxwdFRyR2dYNV9VQko3Uy1NMkVWUkN2N0VOWHJINTdmMDVhbFJZalM2S0diQzRZend5OWJQbFJidFZDbEM4U0o3Q3llQUtZRlBNcUhzWFhkRU9KUTJMbUNGUVRZRHhhMNIBgAJBVV95cUxPcURVUGZDbzB0cTFURmR0YmRkdXFwR21jTGtZMHRCV1ZHd0VRaVRTTWsxZWp2UTlOZEllMThyM0NkMzVWcWRoZjdvS0RVbmN5SmRDcWtDUHRFTzRnMVl0LXpoM0oza3BnblpmRFhLa2tyOFpMWXZ2SmtmOWJsLXNnWVVfQXMzM2tFNGc0ZXpPSFBOcUtOQzBGbms5TUtvaXpkaXVWT2txRU9HU195NHQ4QTNRQUE2MGxxQUk2MkhBOVJSdVZGTUhxWDFDX1h5SlBPclFDVkVnTk9IeDlBTEhOeG44ZGtNUElHUTA4XzNTVHNaWGlqZHBJNnN3VXJhdDZu?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU0hVYTVUWGd2NTVRS3hRV3E0UHVteVF6dHROX2YycU9QTXBEX2E5YlhaMTlvd1RxVzl2Z1RlX19hRVR1S3hBSzZPSEduQjFkS2lydTNtaDNocm9ZV0RTcEdYMnZWVi1sWUR2enlmVDVIUUJWUWJPWVhoeTFQdEZraHVCY0JFN05RYmQ0d0xnQ1dhYm1fSjYxaVhNcUxwdFRyR2dYNV9VQko3Uy1NMkVWUkN2N0VOWHJINTdmMDVhbFJZalM2S0diQzRZend5OWJQbFJidFZDbEM4U0o3Q3llQUtZRlBNcUhzWFhkRU9KUTJMbUNGUVRZRHhhMNIBgAJBVV95cUxPcURVUGZDbzB0cTFURmR0YmRkdXFwR21jTGtZMHRCV1ZHd0VRaVRTTWsxZWp2UTlOZEllMThyM0NkMzVWcWRoZjdvS0RVbmN5SmRDcWtDUHRFTzRnMVl0LXpoM0oza3BnblpmRFhLa2tyOFpMWXZ2SmtmOWJsLXNnWVVfQXMzM2tFNGc0ZXpPSFBOcUtOQzBGbms5TUtvaXpkaXVWT2txRU9HU195NHQ4QTNRQUE2MGxxQUk2MkhBOVJSdVZGTUhxWDFDX1h5SlBPclFDVkVnTk9IeDlBTEhOeG44ZGtNUElHUTA4XzNTVHNaWGlqZHBJNnN3VXJhdDZu?oc=5)
+
+---
+
 ### [Immuntherapie: Neuartiger Impfstoff könnte Behandlung von Hirntumoren verbessern](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMERNZFNBVGoyNzZVQWo4ZEtLTWU5WXQ2OWF0WWNyNDhjOHI5bEZpa2M4YUtvTkxkUEJjcV9JVnNzZWx4QUlGX0tvZnJlZTlfekJRYm9Gc3h0WWYwY3VUMVpkeUdVdlV4eUotY09zRDR3QmpjS3pEQlBHbEZkakd5ekhrN0tZZ0RuLTBYZzF4UDZ0NzBTd3lhQlJuZXM?oc=5)
 
 2026-07-08 <span class="news-indication-tag">tumor</span>
@@ -174,11 +198,19 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Magenmittel-Risiko: Protonenpumpenhemmer erhöhen Demenzrisiko um 44% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
+### [SGLT2-Inhibitoren senken Alzheimer-Risiko: 43 Prozent und was Diabetiker auf Reisen beachten - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3E2ZHNLakllQWh5RWw4VWE1bUNiMWt4RGRick8yNGs5cDQyV2traGZ3eEYwNnFWUzRxQl9iM1dSdmhZU0d5dXBNVnlzTjN6SUtZLVVNbWNBV1AzZEpINzFsN1ZEUjc5TDBkeE54UjVGX3RJQV91Mk92cklDR092NldZOWhBX0pqRFo2aXhPN0JkalpWdTEyeG8wLV9DNmM3eWhhZkVWcTFLbm53ejZCdGJKb3hkN1VNZXBsZTEyZEg?oc=5)
 
-2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
+2026-07-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjNJSEFvdHlicXlxWUtvdlBfRmd6OTJoOGZBR3hTc1NrLURleHg5S3B5WEpkaWQ3LVM1VDNvMERfcGdfNk83VDQyLWgyclRIVm1ha3F1SXRWMlp6ZTlVTkJvT1dxdmhxTkRzQVljd1YwU0tZeDhlZHN1dWRON1RIZ3FRZjE0VU9VWWV1Q2xzam5vZVJULVM5MUhqeXFHQ0ZEZkJuWjFwTUdrUk9TajhsQWUtZEQtTW8?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3E2ZHNLakllQWh5RWw4VWE1bUNiMWt4RGRick8yNGs5cDQyV2traGZ3eEYwNnFWUzRxQl9iM1dSdmhZU0d5dXBNVnlzTjN6SUtZLVVNbWNBV1AzZEpINzFsN1ZEUjc5TDBkeE54UjVGX3RJQV91Mk92cklDR092NldZOWhBX0pqRFo2aXhPN0JkalpWdTEyeG8wLV9DNmM3eWhhZkVWcTFLbm53ejZCdGJKb3hkN1VNZXBsZTEyZEg?oc=5)
+
+---
+
+### [New drug against metastatic prostate cancer made entirely from human proteins - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVlBVW5tY2JYdjRJbm5mOWlfWWwzNzBVTlJqVVdpc09DUndHQURaekdBbGIzSXM2dzhlWWhNaVotem1KX0hnYnRsMDlpa011dEhDSFNLcFUwaXF1VTRzenlWRE5Nb2xqdVI3TGlyTEVuTjFVZjJ5UGE2LU51VmxrUXkxMTItbEFi?oc=5)
+
+2026-07-08 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVlBVW5tY2JYdjRJbm5mOWlfWWwzNzBVTlJqVVdpc09DUndHQURaekdBbGIzSXM2dzhlWWhNaVotem1KX0hnYnRsMDlpa011dEhDSFNLcFUwaXF1VTRzenlWRE5Nb2xqdVI3TGlyTEVuTjFVZjJ5UGE2LU51VmxrUXkxMTItbEFi?oc=5)
 
 ---
 
@@ -198,11 +230,19 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [SGLT2-Inhibitoren senken Alzheimer-Risiko: Evidenz erweitert das kardiometabolische Konzept - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlBKSkI3bldRTUFXNldXR1BiMVBfM2ctQmRRbG1BeTA3Z1NvZjhWbnoxSHdmWlZlb2dXNVBnRmhiRmR2VXU0S21qTzJTOUZDWEJBY3AzZURQcjdwdUJKZDZPTVlsOXB6dkl2c2NxbXRfVDVFLWJUejEzTDZJSDFFLUNWcko1MFNHWlpuWGtVVmlBdkdPanZLWVh2WlRaOFJSdWxfN0xQWXVaekZfMEVaNmNxWU1Scl8xVTdPYlpzNA?oc=5)
+### [Rapid Review Quiz: Pancreatic Cancer Risk Factors and Recognition](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEN5eHpkdm05U1E5YnRzX2lpOGd0enJWOUV5Ty1PWDluLUNiSlRUazJLckJOVy1ieHVjcDRQSzZ0Wm9qQVV2ZGM2NTFseTQ3UDNkRXhPejMxaU9rOERDX2F3RnlZczFFcUtNMkxfV0owWmxsTmVERkJKZWUzTjFrUU9pSzM0elFmRG0xOE83b25OS0VHTzRNM243LTRFX0lCM2dCM0gtLVA5dlY3?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span>
+2026-07-07 <span class="news-indication-tag">cancer</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlBKSkI3bldRTUFXNldXR1BiMVBfM2ctQmRRbG1BeTA3Z1NvZjhWbnoxSHdmWlZlb2dXNVBnRmhiRmR2VXU0S21qTzJTOUZDWEJBY3AzZURQcjdwdUJKZDZPTVlsOXB6dkl2c2NxbXRfVDVFLWJUejEzTDZJSDFFLUNWcko1MFNHWlpuWGtVVmlBdkdPanZLWVh2WlRaOFJSdWxfN0xQWXVaekZfMEVaNmNxWU1Scl8xVTdPYlpzNA?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEN5eHpkdm05U1E5YnRzX2lpOGd0enJWOUV5Ty1PWDluLUNiSlRUazJLckJOVy1ieHVjcDRQSzZ0Wm9qQVV2ZGM2NTFseTQ3UDNkRXhPejMxaU9rOERDX2F3RnlZczFFcUtNMkxfV0owWmxsTmVERkJKZWUzTjFrUU9pSzM0elFmRG0xOE83b25OS0VHTzRNM243LTRFX0lCM2dCM0gtLVA5dlY3?oc=5)
+
+---
+
+### [5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
 
 ---
 
@@ -254,19 +294,19 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Sant’Anna, rimossi due tumori del pancreas di grandi dimensioni](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd4WU9aMHBycWVIdW5LbU1Xa3djQjR4d2JWeG40dnlHU1NPSE1TQlAyY2UzN0dDU2oyYXhnUzFZa3B4NDkyR0p6QTA1VnRLdHJxVDFDdHZwZnBoU29YTFRLTHE5N2k1bUk5bzJQd0dhcjR5V0ljOWNETjMwNjBycElOSl83dmdoUXg2ckFoRU1vMU9zLTNNN0w3QmVrUDZn?oc=5)
-
-2026-07-07 <span class="news-indication-tag">tumor</span>
-
-來源：[Estense.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWd4WU9aMHBycWVIdW5LbU1Xa3djQjR4d2JWeG40dnlHU1NPSE1TQlAyY2UzN0dDU2oyYXhnUzFZa3B4NDkyR0p6QTA1VnRLdHJxVDFDdHZwZnBoU29YTFRLTHE5N2k1bUk5bzJQd0dhcjR5V0ljOWNETjMwNjBycElOSl83dmdoUXg2ckFoRU1vMU9zLTNNN0w3QmVrUDZn?oc=5)
-
----
-
 ### [Tumore al seno: cellule che si muovono in gruppo lo rendono più intercettabile - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdDd6Nl9tM1BSYkVNRTVpaFZtY3lMSWNoU1FjMFZnOElaeFRCOWcxQUd2SHRxaEFYLXdjX1hhR1I5eG5pSnRQejR2TnVZY0kwTHA1OFZWQTdfa25WbmYwQ2ZCdm9ZRUJsRk9oSklleUVyMW5XMFYtSTlnbnR6OWdLdDl0bUdKcnk5bjBkbHdkOE1YZWd3bkY0Ylh6cmNmWW94dV80VlZHQ2NNajZsMThFalB4ZzlXcVJsQ2VVYV81WERBMjhfQUZZUUNhUnZ3OExDOWpKXzJSaUpmMk9fenc4eTZTUVpDd0RWeXpvUmxMOU1QUQ?oc=5)
 
 2026-07-07 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdDd6Nl9tM1BSYkVNRTVpaFZtY3lMSWNoU1FjMFZnOElaeFRCOWcxQUd2SHRxaEFYLXdjX1hhR1I5eG5pSnRQejR2TnVZY0kwTHA1OFZWQTdfa25WbmYwQ2ZCdm9ZRUJsRk9oSklleUVyMW5XMFYtSTlnbnR6OWdLdDl0bUdKcnk5bjBkbHdkOE1YZWd3bkY0Ylh6cmNmWW94dV80VlZHQ2NNajZsMThFalB4ZzlXcVJsQ2VVYV81WERBMjhfQUZZUUNhUnZ3OExDOWpKXzJSaUpmMk9fenc4eTZTUVpDd0RWeXpvUmxMOU1QUQ?oc=5)
+
+---
+
+### [Mum who felt 'pregnant' given shock diagnosis after two doctors missed it - Daily Express](https://news.google.com/rss/articles/CBMifkFVX3lxTE41bE9UVlppcG10enoxM1JVMTlWWTh2WVNsUjdyX2MwSXQ2OUh2OFp1MFBFX2FxdWxDRGdtZzVXVkJHcWFyVmNtZ1BEVGRjY0FxY1FDcTNhNEZsRElHMDRwLTRoeFh2TTJBaVBDVkZnb1gtSXp3cDFaTnRldlBqQdIBgwFBVV95cUxQd280ODJ3VjJHYURMU3VYdENGZ0JjVjVoOHJTR29rSmVLN1AtelducHZTOVlmcE1GSDZFRTVvOXNOVHZDaXNZVFdNTGcyT19BZkN5ZVRDdGk1dEZrMDg4OWNWeGMxQ2pCRVhac1E3VEZIaUdZS0Joclg0UjB2TGI2bDFaMA?oc=5)
+
+2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMifkFVX3lxTE41bE9UVlppcG10enoxM1JVMTlWWTh2WVNsUjdyX2MwSXQ2OUh2OFp1MFBFX2FxdWxDRGdtZzVXVkJHcWFyVmNtZ1BEVGRjY0FxY1FDcTNhNEZsRElHMDRwLTRoeFh2TTJBaVBDVkZnb1gtSXp3cDFaTnRldlBqQdIBgwFBVV95cUxQd280ODJ3VjJHYURMU3VYdENGZ0JjVjVoOHJTR29rSmVLN1AtelducHZTOVlmcE1GSDZFRTVvOXNOVHZDaXNZVFdNTGcyT19BZkN5ZVRDdGk1dEZrMDg4OWNWeGMxQ2pCRVhac1E3VEZIaUdZS0Joclg0UjB2TGI2bDFaMA?oc=5)
 
 ---
 
@@ -299,14 +339,6 @@ permalink: /news/inebilizumab/
 2026-07-07 <span class="news-drug-tag">Onasemnogene Abeparvovec</span> <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Health Industry](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTEt1VkgtdUVnZ29TRlM4c0M5VHNBeXdfbjNMaENacF9YcXl1cmxuQnJtUUs3OVpYTkwyYlNBeE9PUmtzWnhOZlRxeUhOc0VNcl9hc1pHOTVobnlXZExvWGpzOE5qbjdkSmNBcnRSZWRsVDg3M3ZQVndubE1yT003d196Q1BZSHVrNFNlSzdkbHlVVGh0eGJQakFka2I0bWJJOVQzOUJoTGRuYXFnbDB0RDZtalM0WXZpUmVYYmV2c0J3bTJoTHE4WFZianFqaGZwSEg3bzBvUlg3NmlwTlV2WmxSRDBWWXM?oc=5)
-
----
-
-### [Mum of 3 felt '9 months pregnant' - two doctors were 'shocked' when they examined her - The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE1XeHAza2I1RGYyaUJZQXJHb00wQlJCRmlvZk5QZU5oYVV5R2ZNRGZuaFIxQzZnTUxtNm83RVdjUmg3ZHRJZThCcG45ZldwMEo0QnZ2ZDZkbGViTFVqazhIaVdqa0l5NkZJOEpZbjZpNE83d1nSAXhBVV95cUxQZm9nY0M4S2FLaGIwUHFyTTBVaEVFTnB2d2ZYWDlHODNWTjN6cFNpRFFSTzRMQnhHaFFnLXozQ3VDNTF6RWt4S0hGQ3VFaUpCZkhYWHNGTHZDdEV0YTZubEFjQzhjaTJST1kyYUpUWEJJTE1IalQ3T1U?oc=5)
 
 ---
 
