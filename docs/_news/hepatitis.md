@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Marburg-Virus in Uganda; Therapie der chronischen Hepatitis B; HIV und Krebsrisiko durch HPV](https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0ltMnBSRHZ5Q016SXZCRkFVelZlMl9wajFZNUgwdU9lWVBRNGJ3bGh6b2hENGttZmhMVVE3R2FKT0N1X3R5RnY1UnA0dnVVaXluVzlKT0pwUzRtZUVqXzF0cnJIZURxZ3RQcDlsb2tmS2I2WDlrRDA0MkxPaUpPM21tYW0zZjh5akVHZUFrMmpEaE5WaTZfQ0V3RkJIRkNqMmkxNzU4aGNZSmlSeHllOElPd0R6Nmc?oc=5)
 
 2026-07-09
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0ltMnBSRHZ5Q016SXZCRkFVelZlMl9wajFZNUgwdU9lWVBRNGJ3bGh6b2hENGttZmhMVVE3R2FKT0N1X3R5RnY1UnA0dnVVaXluVzlKT0pwUzRtZUVqXzF0cnJIZURxZ3RQcDlsb2tmS2I2WDlrRDA0MkxPaUpPM21tYW0zZjh5akVHZUFrMmpEaE5WaTZfQ0V3RkJIRkNqMmkxNzU4aGNZSmlSeHllOElPd0R6Nmc?oc=5)
-
----
-
-### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
-
-2026-07-07
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
+### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
-2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
 
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras un ictus - Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Colesterolo, perché i soliti esami possono ingannare: il valore che rivela il rischio reale per il cuore](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
+### [Colesterolo, c’è un nuovo valore del sangue che ‘segnala’ chi è più a rischio infarto e ictus - la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzZNVzAzQ1B6QzVnY2lQTjFWZ0hEd0ZPSm5fZldEbnB3c0s5R1VXa3JKVml1ZUFZWml5bmxzUmJIb24wV05MLVZvZTBtYV95bld6cGlveUYtS3h0d2FTdl9DWUlKUk1OOHhjOVNaWFd6ZVlIWnYyTFRvUmNPaGUzVFh5RUhGSEhtSU5VSEc3akVKNTItTGJaUGFQcS1XUGE0M3BIZ19QMnd2ZXhoRU5GODZuVVRwemViZ0ZGdUVpONIBxAFBVV95cUxPQ05rUXJSLTJNajl2bWtGUnZvZHhqeUtpZXNZQVE3WG5YSHhoQU9XQlM0V3NLNGJ5SjA2TkxURnhfS1VQcEVPYXpRX21jeWRteUJuUzR4eUhEOFlWS1pnRXphb3c1a0szSWRBWjJ4d0I2bS1nMHR5Zl9kc01DaW0zRUJFek9DN0g0M20teWJ1dS1oQU5rRTlEaWNYaVpQOGJlQ3FUaDlJVzdrdGlxbEhreEVlY2pFcldDXzByaDg4TVFzMFdt?oc=5)
 
-2026-07-07 <span class="news-indication-tag">ictus</span>
+2026-07-09 <span class="news-indication-tag">ictus</span>
 
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzZNVzAzQ1B6QzVnY2lQTjFWZ0hEd0ZPSm5fZldEbnB3c0s5R1VXa3JKVml1ZUFZWml5bmxzUmJIb24wV05MLVZvZTBtYV95bld6cGlveUYtS3h0d2FTdl9DWUlKUk1OOHhjOVNaWFd6ZVlIWnYyTFRvUmNPaGUzVFh5RUhGSEhtSU5VSEc3akVKNTItTGJaUGFQcS1XUGE0M3BIZ19QMnd2ZXhoRU5GODZuVVRwemViZ0ZGdUVpONIBxAFBVV95cUxPQ05rUXJSLTJNajl2bWtGUnZvZHhqeUtpZXNZQVE3WG5YSHhoQU9XQlM0V3NLNGJ5SjA2TkxURnhfS1VQcEVPYXpRX21jeWRteUJuUzR4eUhEOFlWS1pnRXphb3c1a0szSWRBWjJ4d0I2bS1nMHR5Zl9kc01DaW0zRUJFek9DN0g0M20teWJ1dS1oQU5rRTlEaWNYaVpQOGJlQ3FUaDlJVzdrdGlxbEhreEVlY2pFcldDXzByaDg4TVFzMFdt?oc=5)
+
+---
+
+### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
 ---
 

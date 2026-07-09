@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="Denosumab 有什麼相關新聞？">
-<strong>Denosumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Denosumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/denosumab/
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
 ### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
 
@@ -78,11 +78,11 @@ permalink: /news/denosumab/
 
 ---
 
-### [Why taking antidepressants 'stops people functioning' in heatwaves](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ROWltRHFDMXJleHd2ZWQ1R2c3Y0VWRlRLWlR2dWJ0ZnhzZnhjQjZXNUFybF9BZEN4VlRRLVpXUmRfUFl2TVBMY3ZGZHg3Y2Zyb19BNnJvcDdaVTI5?oc=5)
+### [La bofanglutida consolida su potencial para mejorar el control glucémico en la diabetes tipo 2 - El médico interactivo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2RJQjdUXzcwZ3puRi1xZGlzMUI4SFlmc2FhVlJDdDRNUjZxdlR1THdNMms1TUlUNmotZUNXR3pwemJhQUtnQ3RIZnVuTFg5dFRPUFJybFdKbkFULWR0eTZ0cnROMWhhNTQ4RURZWEhsSHM1cWVyLXJyZU5IcHNLSXBWQmRQX2UtaE5pUzRQWld3ZTE2eTQwOVppa2t4bGZkcmNQZmVFeDI1Q2FFd0Q4dXJnT2h6ckJHMWpWMjNQV0ljSXZVdXc?oc=5)
 
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ROWltRHFDMXJleHd2ZWQ1R2c3Y0VWRlRLWlR2dWJ0ZnhzZnhjQjZXNUFybF9BZEN4VlRRLVpXUmRfUFl2TVBMY3ZGZHg3Y2Zyb19BNnJvcDdaVTI5?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2RJQjdUXzcwZ3puRi1xZGlzMUI4SFlmc2FhVlJDdDRNUjZxdlR1THdNMms1TUlUNmotZUNXR3pwemJhQUtnQ3RIZnVuTFg5dFRPUFJybFdKbkFULWR0eTZ0cnROMWhhNTQ4RURZWEhsSHM1cWVyLXJyZU5IcHNLSXBWQmRQX2UtaE5pUzRQWld3ZTE2eTQwOVppa2t4bGZkcmNQZmVFeDI1Q2FFd0Q4dXJnT2h6ckJHMWpWMjNQV0ljSXZVdXc?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/denosumab/
 
 ---
 
-### [La microbiota intestinal puede predecir el riesgo de desarrollar diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3c5djJldFRqU0ctcGJYYTFCUzFIbDh2b1FJTWl3WkotUXRsWnk2a3ZRWm9MV09CSGtiWS1KenlST0Y1U1FVNlJPaWdITlAyZFR2ODY5LWd3MXJBWDhDR0FHRU5GZG1xbGlZQ0t3d0FjVnA1STliaUlGNTI0YkpFXzU0S0JMbXFYci1EZVVuMjUxN2NGazV3ejdBZThZTTBjMVhSeHp6NVpHSjNYR3JIZXBjTFJQTVRib3fSAbQBQVVfeXFMTWVORFdjQ2JTSmV0Q2F4Ql9OTjNtWTFfSWdLZktnWG5zbjBCZ1gzYkJQS1JZTHVYRFVuVVdWNlhkVy1Ib0VaREJOSHRBTlBDUWpwNm1wNlc3cWQ4cjNEWDlXVVczMDZ6bVZkcEJTQUx5a1FwQ0lTSVNHcXRxNm91QVdldVNTTktUVlBvVDlmSE5nWFNwQ3hPbDhidFVqWHc4MVFoZ0tJd0RmeExFMjJHWUFwOVhq?oc=5)
+### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
-2026-07-08 <span class="news-indication-tag">diabetes</span>
+2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3c5djJldFRqU0ctcGJYYTFCUzFIbDh2b1FJTWl3WkotUXRsWnk2a3ZRWm9MV09CSGtiWS1KenlST0Y1U1FVNlJPaWdITlAyZFR2ODY5LWd3MXJBWDhDR0FHRU5GZG1xbGlZQ0t3d0FjVnA1STliaUlGNTI0YkpFXzU0S0JMbXFYci1EZVVuMjUxN2NGazV3ejdBZThZTTBjMVhSeHp6NVpHSjNYR3JIZXBjTFJQTVRib3fSAbQBQVVfeXFMTWVORFdjQ2JTSmV0Q2F4Ql9OTjNtWTFfSWdLZktnWG5zbjBCZ1gzYkJQS1JZTHVYRFVuVVdWNlhkVy1Ib0VaREJOSHRBTlBDUWpwNm1wNlc3cWQ4cjNEWDlXVVczMDZ6bVZkcEJTQUx5a1FwQ0lTSVNHcXRxNm91QVdldVNTTktUVlBvVDlmSE5nWFNwQ3hPbDhidFVqWHc4MVFoZ0tJd0RmeExFMjJHWUFwOVhq?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
 ---
 
@@ -131,6 +131,14 @@ permalink: /news/denosumab/
 2026-07-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZIWEx1MkFHX2hXVVJJempoN19NZmJiUTRQYnd1YkFZXy1QN1MxZDdaNndwZEZsTzRMckJyREJPd2ZkS3BzWExyTjZ1cUxZTXFwYnRuWHF6UU9lYVk0TUc4MEZ3ZTA0eTJhYkM5VXNRWWpCOGJQNmNEdkdpeHk1R1JoMVFkUjhvY284TWxmMS1XVWUy?oc=5)
+
+---
+
+### [Caldo e diabete: i consigli della specialista del Sant'Anna per affrontare le elevate temperature estive](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmNBbEphRTktaDhBeWQ3enhRdVBHR1d4Y1VNSk9tZkF1RUhSdDVrMXBrd09iMEktUmZvWGRuaFYtN01yMWZlSVhRM29QUHU4anFYSWFueDhpbnl3YXIxSnRvcWxhV2pVcU5WSHNMWFo2cUZGb1RpdmVBTnJJZGh2QU90TXN2bkhsRm9mUEZGWlFLVHUtb0lJQ0pB?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+
+來源：[QuiComo](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmNBbEphRTktaDhBeWQ3enhRdVBHR1d4Y1VNSk9tZkF1RUhSdDVrMXBrd09iMEktUmZvWGRuaFYtN01yMWZlSVhRM29QUHU4anFYSWFueDhpbnl3YXIxSnRvcWxhV2pVcU5WSHNMWFo2cUZGb1RpdmVBTnJJZGh2QU90TXN2bkhsRm9mUEZGWlFLVHUtb0lJQ0pB?oc=5)
 
 ---
 

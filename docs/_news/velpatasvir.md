@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
 ### [Bettina über ADHS und PMS: „Emotional instabil, überfordert, ängstlich“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjhRZ0pNXzhXTEhYb0plUHhzTEVmanItQmx4OWhfczVWWW02WVJqanFud0JkWXpzaks4T3g0dGFMVTFjcHlSWlBYLUZZeVVBNy0tOFNFQmF3M0tyRmRpVzJLUjRDQjA5cGlNS0hHZTJkbGo1M2VHakU2V3JqYktXakR0QTVReUlXTEQ0WU1jRVpOUlJpR0N0Wmk5SDJMTFFsU2V5X2gyQmpsVVNJblBRNzBEQnY0SjVTMEV5bHpuaEpTZi1kQkdhM3RXTW8xM01ZdWJYQjNR?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/velpatasvir/
 2026-07-09 <span class="news-indication-tag">MS</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklDWDBDZTF1TkNjMWd1alpnZlViWm1RczlqS0RYd1NLZHpscGxDbWVjRmMzWHUyaG9GbDVNQnVCbmtocm10YkFXVXNZOWwxUjhBRXV6T2lrcTc5Wnh1YXcwX29xbEM3N05TdGwzaHVXUk1HalpGSjk5VjBwNm9POTNzWWI3aFJsVUR2R1dSbDdGQ3dEWnc?oc=5)
+
+---
+
+### [Studie zu Sodbrennen und Reflux: Diese Ernährungsumstellung war so wirksam wie Medikamente](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdE1pVW9DM2RYekd0NUZvZElwRERYYVpmYmVzUFdXc3k5NVFpd1kydUZrNUZsMlIwWjZPWFY4UDBzRVJGUFpBSTVRU08yTDdNbXNqVTN0WWdxektlTFFQWDdSakg0OUlTMTU2eVF1T0k0SWpySm5QZmU4RWYySF9ZUGFIQ3l5dVlIQ1VQMkR6MTJnbnVscllmUUlPYUpxM3g1RUJUeF80VDNOdEFRZVZZX045S1VibVZNZmY4c0VzMG94TVND?oc=5)
+
+2026-07-09 <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdE1pVW9DM2RYekd0NUZvZElwRERYYVpmYmVzUFdXc3k5NVFpd1kydUZrNUZsMlIwWjZPWFY4UDBzRVJGUFpBSTVRU08yTDdNbXNqVTN0WWdxektlTFFQWDdSakg0OUlTMTU2eVF1T0k0SWpySm5QZmU4RWYySF9ZUGFIQ3l5dVlIQ1VQMkR6MTJnbnVscllmUUlPYUpxM3g1RUJUeF80VDNOdEFRZVZZX045S1VibVZNZmY4c0VzMG94TVND?oc=5)
 
 ---
 
@@ -112,7 +120,7 @@ permalink: /news/velpatasvir/
 
 ### [OMS advierte, los nuevos casos de cáncer podrían pasar de 20,6 a 35 millones al año para 2050 - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEVVbFRwYlJwTGtnMEhsMG0yYVdaNlNmZFdrRTd3UmozOE84bkZKeVpiVVpheE1wS2w5SzhzVkxUeEpiQVpuNmU2Wl9ndjNGNHk5UElDeERqdjNvLXgtMndNTF9jdl9RNGxmV0VyZGNMcFBwTVJfUk5ZbWl0dkxwREdjWE81Sm5xbmxJcWhxaFUzTEdINHpPdVdUYmxINkM3cjhCX3RzRlRScHFudl9aY0hJTEZ5VlFrblF2YU4zY1diRW15ck1FSmJ6Zjg2UXF2SUU3a1FaT1pVUU9EVThIY1NNT1HSAeoBQVVfeXFMUDFtbHRzZndwOG50ZEh1aWtEOFdSTnB1SllxdmtMcFAtTU02LXBHOV9GbXQ5SlBRNHZYQUNWaS1RTjYzanJ2Qlktb1dlOHdEeHBvZFM2LS1URGV4UnB4ZTNHVGt3V05MZ1VxTm8zQ2dVUVMxQ0gtQ2Fib2JQeWdZOXBxSUxzZUdrQVJHbFhDQnFvaW01bm84alNJNm9NV0t4X2tlVXFmLVd4ZllET21FQk9vRW9pbGN6cmt1Yy1NMi1Hb2RpUXFUNlQxZE5XM3lnMUl1NHpHeXNWaGYxLWZWZzFwbHVGOFNKTzVR?oc=5)
 
-2026-07-09 <span class="news-indication-tag">MS</span>
+2026-07-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEVVbFRwYlJwTGtnMEhsMG0yYVdaNlNmZFdrRTd3UmozOE84bkZKeVpiVVpheE1wS2w5SzhzVkxUeEpiQVpuNmU2Wl9ndjNGNHk5UElDeERqdjNvLXgtMndNTF9jdl9RNGxmV0VyZGNMcFBwTVJfUk5ZbWl0dkxwREdjWE81Sm5xbmxJcWhxaFUzTEdINHpPdVdUYmxINkM3cjhCX3RzRlRScHFudl9aY0hJTEZ5VlFrblF2YU4zY1diRW15ck1FSmJ6Zjg2UXF2SUU3a1FaT1pVUU9EVThIY1NNT1HSAeoBQVVfeXFMUDFtbHRzZndwOG50ZEh1aWtEOFdSTnB1SllxdmtMcFAtTU02LXBHOV9GbXQ5SlBRNHZYQUNWaS1RTjYzanJ2Qlktb1dlOHdEeHBvZFM2LS1URGV4UnB4ZTNHVGt3V05MZ1VxTm8zQ2dVUVMxQ0gtQ2Fib2JQeWdZOXBxSUxzZUdrQVJHbFhDQnFvaW01bm84alNJNm9NV0t4X2tlVXFmLVd4ZllET21FQk9vRW9pbGN6cmt1Yy1NMi1Hb2RpUXFUNlQxZE5XM3lnMUl1NHpHeXNWaGYxLWZWZzFwbHVGOFNKTzVR?oc=5)
 
@@ -123,6 +131,14 @@ permalink: /news/velpatasvir/
 2026-07-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkcyNWdlaXAzaDh1X3BGYXNxMC1KanRJLXMza2VrblFIU01LMTUySWJsTXcwUWFSeWd4eTJVRWprUW9scktOcWxvTl9BU3dKdDQ4QjlhNjFrZ19WRTBtUndVRGpfelk0WHd1eThmd283M3M5NXFXaU9QNEV4Y3FsdU03M0xpSGZXNHBvSW5nUjg5WmFPSjB6cGpaTUNheVJyNFhmQ2plXy1kZw?oc=5)
+
+---
+
+### [Ketogenic Diet Eases Schizophrenia and Bipolar Symptoms - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTFBiX0U1ZHA1OXZEMXdxNFEyTjZMczREUkstSXhEcFFydXZwbTk2b2RsNHN0aGF2OEZZYzVYWnloZTBVcW1lb0U0aDkxN2VESFNwZW1rVGJfWGNFOHQyeVl2cHFyNUhtcE1NVDhCRExNODlzempuNE1OaWppUTg?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTFBiX0U1ZHA1OXZEMXdxNFEyTjZMczREUkstSXhEcFFydXZwbTk2b2RsNHN0aGF2OEZZYzVYWnloZTBVcW1lb0U0aDkxN2VESFNwZW1rVGJfWGNFOHQyeVl2cHFyNUhtcE1NVDhCRExNODlzempuNE1OaWppUTg?oc=5)
 
 ---
 
@@ -142,19 +158,19 @@ permalink: /news/velpatasvir/
 
 ---
 
+### [Parasite that causes ‘explosive diarrhea’ has infected over 1,000 in 17 states - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxPajlVOVoxck9mRzFVM3NObmpiMExxaEd6eEw3d0Qwb3d3WGZUX2xNNzZCaHlHRmVWNFN6Y2lLcW1RRW1RUWFvdDk1Q004ZVM1WWpMQlMzNVc5cjlrSTlNY2pzeFRUNFZNQnk0V05OdkVTNW5rUUlLU0dfTmVJaFBYQVdNbGRyWHdWTHRCMURmLTc3eURyWDJ2UkpobG80U2R4SHZTeFZkRDgzaUJua1E?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxPajlVOVoxck9mRzFVM3NObmpiMExxaEd6eEw3d0Qwb3d3WGZUX2xNNzZCaHlHRmVWNFN6Y2lLcW1RRW1RUWFvdDk1Q004ZVM1WWpMQlMzNVc5cjlrSTlNY2pzeFRUNFZNQnk0V05OdkVTNW5rUUlLU0dfTmVJaFBYQVdNbGRyWHdWTHRCMURmLTc3eURyWDJ2UkpobG80U2R4SHZTeFZkRDgzaUJua1E?oc=5)
+
+---
+
 ### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
-
----
-
-### [Per perdere peso non basta contare le calorie: il ruolo nascosto del sonno - Il Mattino](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXVtTGdRaUU3TlFhbjR3SlJYVUV3cmRDZ3p0cVJPMzBjeW44MkRrQWxDV2MwZWtRUGdyWnB2VlBzZnVlWGZRdVYtSzRGZ3lsUHlNb2tWcjJsaTBKeDY4STNDcmdyS0VVbVh2NTQ4d0pEaGZXdlFPdnJQZ1dLdkR1Z09tblFaUnJtaUh4OVJqbnU5eVhDdlRidklmajNVS3FNSmlwUFloZzNkNWE2X2lCQTRZOUtkNFRoZ2fSAb8BQVVfeXFMTmF5NzlWSld3dUI1aU1HSG9CQWJBQWl1LWY4U2FMYnRRWlRPb1RuUDVxZWdPRzdRejdWVnVKN2kxZTRzRmp3eF9SSHM3U3M1YVo0WFhjTW5fUVhkZkkyMXNXWEgtWFZCUlhGTklnOGJ4UzZzMWdteW5TUXM2X1lIUXprbVhnMlVfOEFTR3hrdU92ZWxpWG16enBtWnJyUER0RlUyTzQxeThDeXQ2TkJnVk9OdkZ3SnIwZnlKckxQN2M?oc=5)
-
-2026-07-08 <span class="news-indication-tag">MS</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXVtTGdRaUU3TlFhbjR3SlJYVUV3cmRDZ3p0cVJPMzBjeW44MkRrQWxDV2MwZWtRUGdyWnB2VlBzZnVlWGZRdVYtSzRGZ3lsUHlNb2tWcjJsaTBKeDY4STNDcmdyS0VVbVh2NTQ4d0pEaGZXdlFPdnJQZ1dLdkR1Z09tblFaUnJtaUh4OVJqbnU5eVhDdlRidklmajNVS3FNSmlwUFloZzNkNWE2X2lCQTRZOUtkNFRoZ2fSAb8BQVVfeXFMTmF5NzlWSld3dUI1aU1HSG9CQWJBQWl1LWY4U2FMYnRRWlRPb1RuUDVxZWdPRzdRejdWVnVKN2kxZTRzRmp3eF9SSHM3U3M1YVo0WFhjTW5fUVhkZkkyMXNXWEgtWFZCUlhGTklnOGJ4UzZzMWdteW5TUXM2X1lIUXprbVhnMlVfOEFTR3hrdU92ZWxpWG16enBtWnJyUER0RlUyTzQxeThDeXQ2TkJnVk9OdkZ3SnIwZnlKckxQN2M?oc=5)
 
 ---
 
@@ -176,9 +192,17 @@ permalink: /news/velpatasvir/
 
 ### [Ebola, in Congo quasi 1.500 casi confermati: per l’Oms il rischio resta molto alto](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0NZTTItR2Q4dVNPWTZWb18wb1ozeFVoXzFqR2ZpVkxfTWdpMUZnYVdBTFk5QkZfd3hkOTdPVVJHYm9uazEwa3V5dGhsQlZSNE1MOE1xUnRiaVRjbmRHcWhIclpjc3Jrb01TQmdNTUJuWGVMdjgzc3ZHWTYtcTcyVVJ2YXNHRlRBNlRqZEpuWGhTMkdEUEdBUVpYYjdHYWN1S19hZXVhNlRQRjlVX29uN1draF9KVWJ0cW13cUp5bG05aDRVVThYdGZ5ZG02c3diN3ZOWU12MXNWS1QwbVFEeG9QSE5kRzlhNkRqR1dhQUgxUdIB9wFBVV95cUxPUnNLcV9XTkpXN1V3UjZMcmtMaTJaNzlOTG9xN2lzLUhUb2MyMDlQek5TTTFsN01iMmhkWHBNcTcxMzRlcUJPdm5TNER5Nk8yaEJlTDJhUUVJaVpOenVLeGliQzlOb1Q4OHdHNDRONEJjc04zTV9aRlQyX25KWGZ2Vl93MWlSWER0bW9ZQ3ExcDM3NUdSSFJaX21pbGZoYkhyQmgxcWJ5Ymw4NGdrbmM2YVU1S2pJRGRVOTR3WF82eGtsVVZEMGhQUEw5ek16MkZJNG03UHhVbW5tbzA2WGpKNklrWkowVk9ZQWdYVVl4bDRKTVJQRG1J?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX0NZTTItR2Q4dVNPWTZWb18wb1ozeFVoXzFqR2ZpVkxfTWdpMUZnYVdBTFk5QkZfd3hkOTdPVVJHYm9uazEwa3V5dGhsQlZSNE1MOE1xUnRiaVRjbmRHcWhIclpjc3Jrb01TQmdNTUJuWGVMdjgzc3ZHWTYtcTcyVVJ2YXNHRlRBNlRqZEpuWGhTMkdEUEdBUVpYYjdHYWN1S19hZXVhNlRQRjlVX29uN1draF9KVWJ0cW13cUp5bG05aDRVVThYdGZ5ZG02c3diN3ZOWU12MXNWS1QwbVFEeG9QSE5kRzlhNkRqR1dhQUgxUdIB9wFBVV95cUxPUnNLcV9XTkpXN1V3UjZMcmtMaTJaNzlOTG9xN2lzLUhUb2MyMDlQek5TTTFsN01iMmhkWHBNcTcxMzRlcUJPdm5TNER5Nk8yaEJlTDJhUUVJaVpOenVLeGliQzlOb1Q4OHdHNDRONEJjc04zTV9aRlQyX25KWGZ2Vl93MWlSWER0bW9ZQ3ExcDM3NUdSSFJaX21pbGZoYkhyQmgxcWJ5Ymw4NGdrbmM2YVU1S2pJRGRVOTR3WF82eGtsVVZEMGhQUEw5ek16MkZJNG03UHhVbW5tbzA2WGpKNklrWkowVk9ZQWdYVVl4bDRKTVJQRG1J?oc=5)
+
+---
+
+### [« Avant de recourir à l’obligation vaccinale, améliorons la formation des soignants sur le risque de la grippe » - Le Monde.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2JrdEttZjhyRDIyYW00aFVxNGpiMnFlZDRYRFVDd3J2UDl4bW1XRnJ6RnA5Nkd4WlRoT0lUbFdRMktUNzdrRUNRdG5QM003Qk5uYWJxcmprbmxGZFc1dE9DUElPMDQ1M2YtSU9LV2hLci1hVEZ6dV9tS0lvb1M0dEZMTllrcnRzZjhTYXJTc3F2cGxlcTZqSGlCMms3ampqTTd5QUtRQzRwdnRaQUVLVzNuc25FZVFkM3dLakE3N2c4UV9NWlJUTTN3Q0tIZmwzc3BDZHBBMWhrYXpYMHBRSUg3YkxKdkJCYjJ3TGV2U0FOQUozbDVFeVd6UExJRUhvMGE2dDRmZXVselE?oc=5)
+
+2026-07-08 <span class="news-indication-tag">MS</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2JrdEttZjhyRDIyYW00aFVxNGpiMnFlZDRYRFVDd3J2UDl4bW1XRnJ6RnA5Nkd4WlRoT0lUbFdRMktUNzdrRUNRdG5QM003Qk5uYWJxcmprbmxGZFc1dE9DUElPMDQ1M2YtSU9LV2hLci1hVEZ6dV9tS0lvb1M0dEZMTllrcnRzZjhTYXJTc3F2cGxlcTZqSGlCMms3ampqTTd5QUtRQzRwdnRaQUVLVzNuc25FZVFkM3dLakE3N2c4UV9NWlJUTTN3Q0tIZmwzc3BDZHBBMWhrYXpYMHBRSUg3YkxKdkJCYjJ3TGV2U0FOQUozbDVFeVd6UExJRUhvMGE2dDRmZXVselE?oc=5)
 
 ---
 
@@ -190,27 +214,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Thousands of women could be spared painful cancer exam by new NHS AI blood test - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcThZLUJISTFTYWVRSjlmLXd6NnkzV2tobEZpVDg1Y3lCdTdRY24xd2dOZkNLNUFKMFY5RUR3UlZ3eEh1NXJ5U24wQmNTRDRvTnhadkxqWEpBTkNsdjB6aTJXX0FRdHBZUjIxZzNMVXNKRF9Ha195ejhwTVZEOGM1MHY1dzlOdGMyYXZDZ1pCN01SRlpHUW51VVlOX21oN2sybXZqLTQ3dm45QVhhdTZZZ0ZJRUlWY0tWZ3VBUnhiT1pXLTMzREE?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcThZLUJISTFTYWVRSjlmLXd6NnkzV2tobEZpVDg1Y3lCdTdRY24xd2dOZkNLNUFKMFY5RUR3UlZ3eEh1NXJ5U24wQmNTRDRvTnhadkxqWEpBTkNsdjB6aTJXX0FRdHBZUjIxZzNMVXNKRF9Ha195ejhwTVZEOGM1MHY1dzlOdGMyYXZDZ1pCN01SRlpHUW51VVlOX21oN2sybXZqLTQ3dm45QVhhdTZZZ0ZJRUlWY0tWZ3VBUnhiT1pXLTMzREE?oc=5)
-
----
-
 ### [Virus de ébola continúa propagándose en RDC y número de muertos supera los 500, informa OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamdBb050VFlsdFlGUVhqTkdpNDFXTmhIXzgySHBDb2NiWC1KOEhyZHp3Y29BZXpNd3FQN1JreXJnNHZkSnh2bzNsbEdscDdNS3JQMUJIZ01xVmJNcTBlQ01yWGxxN1liWFFLUGNIWGJJc1hTejNBQzJaTnlJNG95RG1rTQ?oc=5)
 
 2026-07-07 <span class="news-indication-tag">MS</span>
 
 來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamdBb050VFlsdFlGUVhqTkdpNDFXTmhIXzgySHBDb2NiWC1KOEhyZHp3Y29BZXpNd3FQN1JreXJnNHZkSnh2bzNsbEdscDdNS3JQMUJIZ01xVmJNcTBlQ01yWGxxN1liWFFLUGNIWGJJc1hTejNBQzJaTnlJNG95RG1rTQ?oc=5)
-
----
-
-### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
-
-2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 ---
 

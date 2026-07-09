@@ -14,7 +14,7 @@ permalink: /news/ambrisentan/
 ---
 
 <p class="key-answer" data-question="Ambrisentan 有什麼相關新聞？">
-<strong>Ambrisentan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ambrisentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/ambrisentan/
 <p><a href="{{ '/drugs/ambrisentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
+
+2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
+
+---
 
 
 <div class="disclaimer">

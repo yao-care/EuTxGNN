@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（3 則）
 
-### [Personalisierte Diät und Biomarker: Wie das Mikrobiom Krankenhausaufenthalte bei CED senkt - it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0l1Y04yYTltZ3k2QzRPeThHa1llSGhIZmRCY3VQTkx4VmNLRTBIR1RUZUJqSk5RTVRweXVNQUlwbnJ3TXcwN1RQX25vek4xM05SYnJVQ0xDUVV6TWFjVlJwR3B1Q3FlM2ZLZUJCa2JCYlByLVZTbElrTGFwWEFuX0lFbDJnSTdTWjN0VzJjREUxbmhkQWFfODRIWjBLYS1YdGZPUmM3cThoOFUzaWx1LTdJbDVweENJQVVNUUI4SQ?oc=5)
+### [Morbus Crohn: Zwei Drittel profitieren von monatlichem Scheinfasten](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFRHd2tZY0FyRXRqN09KZGFodzhzRlktbkd3RzRubEd5TGgxQkR3NjY0RmItWFRoNERVamg3Nkt6dDk3TEVGbWFhYXRpZDRxcWdBdWR2eTQwbXNYZ0luV2t1VkZkREc2d1dHZkdUaXdWa0ZDaUtwTFBzaWxhdFVEQ19uT09TakJ2Z1AzRE44VnluS1VzNk9QN0pvb2pmNjk2N0lyQjBUVmF6ZHllaHRYSzlqYnJ3Zw?oc=5)
 
 2026-07-09 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0l1Y04yYTltZ3k2QzRPeThHa1llSGhIZmRCY3VQTkx4VmNLRTBIR1RUZUJqSk5RTVRweXVNQUlwbnJ3TXcwN1RQX25vek4xM05SYnJVQ0xDUVV6TWFjVlJwR3B1Q3FlM2ZLZUJCa2JCYlByLVZTbElrTGFwWEFuX0lFbDJnSTdTWjN0VzJjREUxbmhkQWFfODRIWjBLYS1YdGZPUmM3cThoOFUzaWx1LTdJbDVweENJQVVNUUI4SQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFRHd2tZY0FyRXRqN09KZGFodzhzRlktbkd3RzRubEd5TGgxQkR3NjY0RmItWFRoNERVamg3Nkt6dDk3TEVGbWFhYXRpZDRxcWdBdWR2eTQwbXNYZ0luV2t1VkZkREc2d1dHZkdUaXdWa0ZDaUtwTFBzaWxhdFVEQ19uT09TakJ2Z1AzRE44VnluS1VzNk9QN0pvb2pmNjk2N0lyQjBUVmF6ZHllaHRYSzlqYnJ3Zw?oc=5)
 
 ---
 

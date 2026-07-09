@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。19 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。20 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>19 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>20 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
 
 ### [Bettina über ADHS und PMS: „Emotional instabil, überfordert, ängstlich“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjhRZ0pNXzhXTEhYb0plUHhzTEVmanItQmx4OWhfczVWWW02WVJqanFud0JkWXpzaks4T3g0dGFMVTFjcHlSWlBYLUZZeVVBNy0tOFNFQmF3M0tyRmRpVzJLUjRDQjA5cGlNS0hHZTJkbGo1M2VHakU2V3JqYktXakR0QTVReUlXTEQ0WU1jRVpOUlJpR0N0Wmk5SDJMTFFsU2V5X2gyQmpsVVNJblBRNzBEQnY0SjVTMEV5bHpuaEpTZi1kQkdhM3RXTW8xM01ZdWJYQjNR?oc=5)
 
@@ -77,6 +77,14 @@ permalink: /news/multiple-sclerosis/
 2026-07-09
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklDWDBDZTF1TkNjMWd1alpnZlViWm1RczlqS0RYd1NLZHpscGxDbWVjRmMzWHUyaG9GbDVNQnVCbmtocm10YkFXVXNZOWwxUjhBRXV6T2lrcTc5Wnh1YXcwX29xbEM3N05TdGwzaHVXUk1HalpGSjk5VjBwNm9POTNzWWI3aFJsVUR2R1dSbDdGQ3dEWnc?oc=5)
+
+---
+
+### [Studie zu Sodbrennen und Reflux: Diese Ernährungsumstellung war so wirksam wie Medikamente](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdE1pVW9DM2RYekd0NUZvZElwRERYYVpmYmVzUFdXc3k5NVFpd1kydUZrNUZsMlIwWjZPWFY4UDBzRVJGUFpBSTVRU08yTDdNbXNqVTN0WWdxektlTFFQWDdSakg0OUlTMTU2eVF1T0k0SWpySm5QZmU4RWYySF9ZUGFIQ3l5dVlIQ1VQMkR6MTJnbnVscllmUUlPYUpxM3g1RUJUeF80VDNOdEFRZVZZX045S1VibVZNZmY4c0VzMG94TVND?oc=5)
+
+2026-07-09
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdE1pVW9DM2RYekd0NUZvZElwRERYYVpmYmVzUFdXc3k5NVFpd1kydUZrNUZsMlIwWjZPWFY4UDBzRVJGUFpBSTVRU08yTDdNbXNqVTN0WWdxektlTFFQWDdSakg0OUlTMTU2eVF1T0k0SWpySm5QZmU4RWYySF9ZUGFIQ3l5dVlIQ1VQMkR6MTJnbnVscllmUUlPYUpxM3g1RUJUeF80VDNOdEFRZVZZX045S1VibVZNZmY4c0VzMG94TVND?oc=5)
 
 ---
 
@@ -120,6 +128,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Ketogenic Diet Eases Schizophrenia and Bipolar Symptoms - Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTFBiX0U1ZHA1OXZEMXdxNFEyTjZMczREUkstSXhEcFFydXZwbTk2b2RsNHN0aGF2OEZZYzVYWnloZTBVcW1lb0U0aDkxN2VESFNwZW1rVGJfWGNFOHQyeVl2cHFyNUhtcE1NVDhCRExNODlzempuNE1OaWppUTg?oc=5)
+
+2026-07-08
+
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMifEFVX3lxTFBiX0U1ZHA1OXZEMXdxNFEyTjZMczREUkstSXhEcFFydXZwbTk2b2RsNHN0aGF2OEZZYzVYWnloZTBVcW1lb0U0aDkxN2VESFNwZW1rVGJfWGNFOHQyeVl2cHFyNUhtcE1NVDhCRExNODlzempuNE1OaWppUTg?oc=5)
+
+---
+
 ### [MenB vaccine offers men no protection from gonorrhoea, claims major study](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12M3hmSXhYQ0NMdF9ja01KMC1PYmJmbDh4b2ZvbU5PTmdIMi1xRnFTWDBNRV9kQTNRdTlWT2dDb0MtS2lyMGlON2FsNUZ6ci1GUHRfVEhtR0F6Q0ls?oc=5)
 
 2026-07-08
@@ -136,19 +152,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Parasite that causes ‘explosive diarrhea’ has infected over 1,000 in 17 states - The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxPajlVOVoxck9mRzFVM3NObmpiMExxaEd6eEw3d0Qwb3d3WGZUX2xNNzZCaHlHRmVWNFN6Y2lLcW1RRW1RUWFvdDk1Q004ZVM1WWpMQlMzNVc5cjlrSTlNY2pzeFRUNFZNQnk0V05OdkVTNW5rUUlLU0dfTmVJaFBYQVdNbGRyWHdWTHRCMURmLTc3eURyWDJ2UkpobG80U2R4SHZTeFZkRDgzaUJua1E?oc=5)
+
+2026-07-08
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMirgFBVV95cUxPajlVOVoxck9mRzFVM3NObmpiMExxaEd6eEw3d0Qwb3d3WGZUX2xNNzZCaHlHRmVWNFN6Y2lLcW1RRW1RUWFvdDk1Q004ZVM1WWpMQlMzNVc5cjlrSTlNY2pzeFRUNFZNQnk0V05OdkVTNW5rUUlLU0dfTmVJaFBYQVdNbGRyWHdWTHRCMURmLTc3eURyWDJ2UkpobG80U2R4SHZTeFZkRDgzaUJua1E?oc=5)
+
+---
+
 ### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 2026-07-08
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
-
----
-
-### [Per perdere peso non basta contare le calorie: il ruolo nascosto del sonno - Il Mattino](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXVtTGdRaUU3TlFhbjR3SlJYVUV3cmRDZ3p0cVJPMzBjeW44MkRrQWxDV2MwZWtRUGdyWnB2VlBzZnVlWGZRdVYtSzRGZ3lsUHlNb2tWcjJsaTBKeDY4STNDcmdyS0VVbVh2NTQ4d0pEaGZXdlFPdnJQZ1dLdkR1Z09tblFaUnJtaUh4OVJqbnU5eVhDdlRidklmajNVS3FNSmlwUFloZzNkNWE2X2lCQTRZOUtkNFRoZ2fSAb8BQVVfeXFMTmF5NzlWSld3dUI1aU1HSG9CQWJBQWl1LWY4U2FMYnRRWlRPb1RuUDVxZWdPRzdRejdWVnVKN2kxZTRzRmp3eF9SSHM3U3M1YVo0WFhjTW5fUVhkZkkyMXNXWEgtWFZCUlhGTklnOGJ4UzZzMWdteW5TUXM2X1lIUXprbVhnMlVfOEFTR3hrdU92ZWxpWG16enBtWnJyUER0RlUyTzQxeThDeXQ2TkJnVk9OdkZ3SnIwZnlKckxQN2M?oc=5)
-
-2026-07-08
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXVtTGdRaUU3TlFhbjR3SlJYVUV3cmRDZ3p0cVJPMzBjeW44MkRrQWxDV2MwZWtRUGdyWnB2VlBzZnVlWGZRdVYtSzRGZ3lsUHlNb2tWcjJsaTBKeDY4STNDcmdyS0VVbVh2NTQ4d0pEaGZXdlFPdnJQZ1dLdkR1Z09tblFaUnJtaUh4OVJqbnU5eVhDdlRidklmajNVS3FNSmlwUFloZzNkNWE2X2lCQTRZOUtkNFRoZ2fSAb8BQVVfeXFMTmF5NzlWSld3dUI1aU1HSG9CQWJBQWl1LWY4U2FMYnRRWlRPb1RuUDVxZWdPRzdRejdWVnVKN2kxZTRzRmp3eF9SSHM3U3M1YVo0WFhjTW5fUVhkZkkyMXNXWEgtWFZCUlhGTklnOGJ4UzZzMWdteW5TUXM2X1lIUXprbVhnMlVfOEFTR3hrdU92ZWxpWG16enBtWnJyUER0RlUyTzQxeThDeXQ2TkJnVk9OdkZ3SnIwZnlKckxQN2M?oc=5)
 
 ---
 
@@ -176,6 +192,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [« Avant de recourir à l’obligation vaccinale, améliorons la formation des soignants sur le risque de la grippe » - Le Monde.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2JrdEttZjhyRDIyYW00aFVxNGpiMnFlZDRYRFVDd3J2UDl4bW1XRnJ6RnA5Nkd4WlRoT0lUbFdRMktUNzdrRUNRdG5QM003Qk5uYWJxcmprbmxGZFc1dE9DUElPMDQ1M2YtSU9LV2hLci1hVEZ6dV9tS0lvb1M0dEZMTllrcnRzZjhTYXJTc3F2cGxlcTZqSGlCMms3ampqTTd5QUtRQzRwdnRaQUVLVzNuc25FZVFkM3dLakE3N2c4UV9NWlJUTTN3Q0tIZmwzc3BDZHBBMWhrYXpYMHBRSUg3YkxKdkJCYjJ3TGV2U0FOQUozbDVFeVd6UExJRUhvMGE2dDRmZXVselE?oc=5)
+
+2026-07-08
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOX2JrdEttZjhyRDIyYW00aFVxNGpiMnFlZDRYRFVDd3J2UDl4bW1XRnJ6RnA5Nkd4WlRoT0lUbFdRMktUNzdrRUNRdG5QM003Qk5uYWJxcmprbmxGZFc1dE9DUElPMDQ1M2YtSU9LV2hLci1hVEZ6dV9tS0lvb1M0dEZMTllrcnRzZjhTYXJTc3F2cGxlcTZqSGlCMms3ampqTTd5QUtRQzRwdnRaQUVLVzNuc25FZVFkM3dLakE3N2c4UV9NWlJUTTN3Q0tIZmwzc3BDZHBBMWhrYXpYMHBRSUg3YkxKdkJCYjJ3TGV2U0FOQUozbDVFeVd6UExJRUhvMGE2dDRmZXVselE?oc=5)
+
+---
+
 ### [Sclerosi multipla, lo yoga come alleato del benessere. Clara Vigasio: «Uno degli effetti più importanti dello yoga è il cambiamento di prospettiva: il corpo non viene più vissuto solo come qualcosa da “correggere” ma come qualcosa da ascoltare e adattare» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMikwNBVV95cUxNQ1gtcXpINDhQcGR5S05JN2tMVENVdGJwWWlTdFBZdU1UbzliMXdLYUtGUlhsZEo5OE5RVmgwa3BwXzBPU09ST2pTaVBucHJhRGV1dEJlUkpaVFYzNHlYRHJjNEZVdldvdjdfdEpHU2JwQ1MzUHFMTzdJdloxVVZNWWxFWnNiN1RXMEJ3aTBMTjRQa0xQU3B6UXYxM01kUmstUmRTTE9XSGRHYmdXWGFibHhsaFQ1dTR3Ynk1QnhZRUktZkFjZG1sMDh5OEc0UFN1VmIzZEV2UUxZMGFwVURPd1VZZUEtellockt4MjFVWmVFRzBDTG9EbXU1eUxDNGEweTh1aTNkZzJFRHkzbXR3Q1NXbXZ5ZDA3d1BaV1dsemlnTE55VnlDOGdMRWw2aHZuekl3SDdUbGNRemZMQ0wtajRvV00zUEFkekROaXktdl9tYVRRWlYycGstOS1ocGFHQ2tmRkRTLUFQdVJkeXJJajgyb2lJSG5qVG1fU0RPRWxsMmQ2ODNGR09yckFSMGFhV2lF?oc=5)
 
 2026-07-08
@@ -184,27 +208,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Thousands of women could be spared painful cancer exam by new NHS AI blood test - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcThZLUJISTFTYWVRSjlmLXd6NnkzV2tobEZpVDg1Y3lCdTdRY24xd2dOZkNLNUFKMFY5RUR3UlZ3eEh1NXJ5U24wQmNTRDRvTnhadkxqWEpBTkNsdjB6aTJXX0FRdHBZUjIxZzNMVXNKRF9Ha195ejhwTVZEOGM1MHY1dzlOdGMyYXZDZ1pCN01SRlpHUW51VVlOX21oN2sybXZqLTQ3dm45QVhhdTZZZ0ZJRUlWY0tWZ3VBUnhiT1pXLTMzREE?oc=5)
-
-2026-07-07
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcThZLUJISTFTYWVRSjlmLXd6NnkzV2tobEZpVDg1Y3lCdTdRY24xd2dOZkNLNUFKMFY5RUR3UlZ3eEh1NXJ5U24wQmNTRDRvTnhadkxqWEpBTkNsdjB6aTJXX0FRdHBZUjIxZzNMVXNKRF9Ha195ejhwTVZEOGM1MHY1dzlOdGMyYXZDZ1pCN01SRlpHUW51VVlOX21oN2sybXZqLTQ3dm45QVhhdTZZZ0ZJRUlWY0tWZ3VBUnhiT1pXLTMzREE?oc=5)
-
----
-
 ### [Virus de ébola continúa propagándose en RDC y número de muertos supera los 500, informa OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamdBb050VFlsdFlGUVhqTkdpNDFXTmhIXzgySHBDb2NiWC1KOEhyZHp3Y29BZXpNd3FQN1JreXJnNHZkSnh2bzNsbEdscDdNS3JQMUJIZ01xVmJNcTBlQ01yWGxxN1liWFFLUGNIWGJJc1hTejNBQzJaTnlJNG95RG1rTQ?oc=5)
 
 2026-07-07
 
 來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamdBb050VFlsdFlGUVhqTkdpNDFXTmhIXzgySHBDb2NiWC1KOEhyZHp3Y29BZXpNd3FQN1JreXJnNHZkSnh2bzNsbEdscDdNS3JQMUJIZ01xVmJNcTBlQ01yWGxxN1liWFFLUGNIWGJJc1hTejNBQzJaTnlJNG95RG1rTQ?oc=5)
-
----
-
-### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
-
-2026-07-07
-
-來源：[Diariofarma](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 ---
 

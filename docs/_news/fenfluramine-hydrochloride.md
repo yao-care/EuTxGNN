@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Tratamiento combinado de psoriasis y obesidad: pasos en la misma dirección hacia el manejo holístico del paciente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
+
+2026-07-09 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
+
+---
 
 ### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
 
@@ -78,6 +86,14 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [Quels effets secondaires pour les traitements GLP-1 contre l’obésité ? - 20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW8xUDRPUmlqMFdFLXBhZ3hMbVBOeEZ0Wm4xVHZGUU9FRklQVmdoS05RZm1GeU5NZGNPSC12bXFyakJVMFVlNU03R2lVTmF5ZVphbHA5eV9aTHY3ZklaQlhwcHlqTnhYeEdWOF94aERoaXJvaXZWNEVURC02SFVDcXpia0Rvd01Cd2JhUEg3bzVUY0VaeENfLWZDeHJtWGxnbWdQODBVQTBSMkdPVkFOUUgtWS1NbVUtZnJrSjJWVDI?oc=5)
+
+2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW8xUDRPUmlqMFdFLXBhZ3hMbVBOeEZ0Wm4xVHZGUU9FRklQVmdoS05RZm1GeU5NZGNPSC12bXFyakJVMFVlNU03R2lVTmF5ZVphbHA5eV9aTHY3ZklaQlhwcHlqTnhYeEdWOF94aERoaXJvaXZWNEVURC02SFVDcXpia0Rvd01Cd2JhUEg3bzVUY0VaeENfLWZDeHJtWGxnbWdQODBVQTBSMkdPVkFOUUgtWS1NbVUtZnJrSjJWVDI?oc=5)
+
+---
+
 ### [Farmaci anti obesità: ecco le istruzioni di medici e dietologi per il loro uso corretto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
 
 2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
@@ -94,19 +110,19 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
+### [Cristóbal Morales, endocrino: "La obesidad se hereda"](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmwyV08yWDYwV041SFVfb1JOMmJzXzd1MmM2aE9xdzhmUS1fWVU0Wno0NGZibVBQeS1LOTlRN1E2R3VqTXUzRU44OVNRMEFhN2lDVTRzZ2ZfVzZwNmR1eEw5a0J2Slc5SWxYVTZWUnlGdUFSWXhSdjZFcnk3NWdzZUt0WUNQOWZKNWNEWXluWXpzQ2p6a2Jlbk96N2hjYXI4YUNaSEdqaTB0bGtSNEdWbl9CLVlJTmFEbE90Zg?oc=5)
+
+2026-07-08 <span class="news-indication-tag">obesidad</span>
+
+來源：[Cuatro](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmwyV08yWDYwV041SFVfb1JOMmJzXzd1MmM2aE9xdzhmUS1fWVU0Wno0NGZibVBQeS1LOTlRN1E2R3VqTXUzRU44OVNRMEFhN2lDVTRzZ2ZfVzZwNmR1eEw5a0J2Slc5SWxYVTZWUnlGdUFSWXhSdjZFcnk3NWdzZUt0WUNQOWZKNWNEWXluWXpzQ2p6a2Jlbk96N2hjYXI4YUNaSEdqaTB0bGtSNEdWbl9CLVlJTmFEbE90Zg?oc=5)
+
+---
+
 ### [Adipositas: 70–80 Prozent genetisch bedingt, nicht Willensschwäche](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3QxTUo2RERIY3RSSUh5bV8zanhaelRfZF9QNDdRWFJJejZwNE54M3psbERaRllpWkxIa0Q0WlRLaENOQVhzQ3dQZV9PRFVFMVhQTWxVcnFJeDR3SjlCeUh6eGF2YjJMY295WjVZZzNrZXIwQmJYUExhMF9ob2E0NlhUaUhvZS1OVnJNTFFKZmJTUW1RQjhzbnM5enJHMzdfbFdQZ05RWUtfUHBsSnJ2bURrVnc?oc=5)
 
 2026-07-08 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3QxTUo2RERIY3RSSUh5bV8zanhaelRfZF9QNDdRWFJJejZwNE54M3psbERaRllpWkxIa0Q0WlRLaENOQVhzQ3dQZV9PRFVFMVhQTWxVcnFJeDR3SjlCeUh6eGF2YjJMY295WjVZZzNrZXIwQmJYUExhMF9ob2E0NlhUaUhvZS1OVnJNTFFKZmJTUW1RQjhzbnM5enJHMzdfbFdQZ05RWUtfUHBsSnJ2bURrVnc?oc=5)
-
----
-
-### [La obesidad se hereda: cómo los genes determinan la relación con la comida - EL PAÍS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUVUSEdyc1hpOVEwMmg3YURLVlplTUR3WTNHVXZpVUU0OTJwU1hidm1oa3pCTEVBVlNlb0tycWEwRmtSX2V6dVlydHZQbEhHa0lRanNFVXhaTEtNV3loVk5sWXIxUjhzdUtWbU5oMlp0MGdPVjlfVHVkcW45cDdvVWRrZlVUdXZocGxsREUwQkYxUlJvaGROWlNhZzBkcWNjblFzMlg2TG01MlVNQ1l4bWxEczJMOGZ6SmFtaE5sWW0xUmJl0gHYAUFVX3lxTFBPRms5b2VlZ1FOQ0VESlRYcGNfeVZjZ3l2dktwZS1ockZzU1JrelZOdUJJekhJbkdwZkg3dkNiQXl6bFpVUGQ0cmJteUtxMzFsSHRDV3k2b3k1NTFSM0lKenRrVVFBb1hvNmIxUjFlbUVaREIwaG9GYTFTVEJYLXVmTFhqZ05MSDdPVEJIRUNUR1JoS3M1TU1zZkU3d2lmRGtFbmw3N3I4VTAxYmVRUElZeUxFalhxZHBQTEdLZVh3ajdDYmJSVDRlMkstb3M0ZElGQUQ3TDRhSQ?oc=5)
-
-2026-07-08 <span class="news-indication-tag">obesidad</span>
-
-來源：[EL PAÍS](https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUVUSEdyc1hpOVEwMmg3YURLVlplTUR3WTNHVXZpVUU0OTJwU1hidm1oa3pCTEVBVlNlb0tycWEwRmtSX2V6dVlydHZQbEhHa0lRanNFVXhaTEtNV3loVk5sWXIxUjhzdUtWbU5oMlp0MGdPVjlfVHVkcW45cDdvVWRrZlVUdXZocGxsREUwQkYxUlJvaGROWlNhZzBkcWNjblFzMlg2TG01MlVNQ1l4bWxEczJMOGZ6SmFtaE5sWW0xUmJl0gHYAUFVX3lxTFBPRms5b2VlZ1FOQ0VESlRYcGNfeVZjZ3l2dktwZS1ockZzU1JrelZOdUJJekhJbkdwZkg3dkNiQXl6bFpVUGQ0cmJteUtxMzFsSHRDV3k2b3k1NTFSM0lKenRrVVFBb1hvNmIxUjFlbUVaREIwaG9GYTFTVEJYLXVmTFhqZ05MSDdPVEJIRUNUR1JoS3M1TU1zZkU3d2lmRGtFbmw3N3I4VTAxYmVRUElZeUxFalhxZHBQTEdLZVh3ajdDYmJSVDRlMkstb3M0ZElGQUQ3TDRhSQ?oc=5)
 
 ---
 
