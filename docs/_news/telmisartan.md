@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras ictus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNYWUNiUHMxYmtZSG85MFFKeVFkalpLbEw4X2xQaTlEMkM3TjJaWXQ1ZGRjVWJBM1FOZzl1Y0NzWndiZk9PR29RbkllekNvd0hCNzBUbGhxQzUzbEVzckZid19HNTZ4S211WXV0NjFXY05NQWlOWHBBRzZBcUMxSXNaekxCRDhRaGZBLUVJVHNFa05ULTdmc1pzU1JJVHhJTm1vb3o2djM4dGZnYWRvTXBoMjJKZmxYM0h6VGd0aXo5TXhXU1k2bnExWWJJeUl4UDRv?oc=5)
+### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras un ictus - Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
 
-2026-07-08 <span class="news-indication-tag">ictus</span>
+2026-07-09 <span class="news-indication-tag">ictus</span>
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNYWUNiUHMxYmtZSG85MFFKeVFkalpLbEw4X2xQaTlEMkM3TjJaWXQ1ZGRjVWJBM1FOZzl1Y0NzWndiZk9PR29RbkllekNvd0hCNzBUbGhxQzUzbEVzckZid19HNTZ4S211WXV0NjFXY05NQWlOWHBBRzZBcUMxSXNaekxCRDhRaGZBLUVJVHNFa05ULTdmc1pzU1JJVHhJTm1vb3o2djM4dGZnYWRvTXBoMjJKZmxYM0h6VGd0aXo5TXhXU1k2bnExWWJJeUl4UDRv?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
+
+---
+
+### [Je suis cardiologue : ce fruit est meilleur que tous les autres pour baisser la tension et éviter l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
+
+2026-07-09 <span class="news-indication-tag">AVC</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Colesterolo, perché i soliti esami possono ingannare: il valore che rivela il rischio reale per il cuore](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
+
+2026-07-07 <span class="news-indication-tag">ictus</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
+
+---
+
 ### [5 'silent killer' blood pressure warning signs - 1 gets 'overlooked' - Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
 
 2026-07-07 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
-
----
-
-### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
-
-2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
 
 ---
 

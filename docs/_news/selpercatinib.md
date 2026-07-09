@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Mavacamten, el fármaco que cambió el tratamiento de la miocardiopatía hipertrófica, ampliaría su alcance - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZTNzeEQ4N2lnWFdoMmJqNmxQb3ZZQnhIdXJmQWd2eEZkbG54V29CR0ZpQm1Vb0hFeUxQU2tuMHc0QUwzQ1B0cjkwQXlIZ3B1QUtwaGFFeWdhZ0huemUzRjltUjYzSlFXbDY1X0I1N3ZoYzE1MVNrb29nUzFYVTY0LUJXeUtJUG1fZHBWZHN0OUxuYVR2OXU0Snk4b3VHTzZXaHB0VWgxVVNtaUlfbUttX2pqeE1sVXJlUkQ2THlkNnZfM1BtT3FiWEdnbUhpOFBuLV9tTXFybnZ4aUJWWUYxOEF1Y2d2T1dJM3hmeXJhX1dzOENzZ0HSAfsBQVVfeXFMUEJTRjZyUmVSNkUtWm9iTmQwZXNMaGZReklMc1ozcHNleFZJM3pTeVpaMEZ3TldpQjAtZVJacTFORlBaY1Rza1lkdE5GZzdaVFdkcXJOUEZfX3RCdE1iT3IycDZCeUEwTmFHNmFCRGVGWWRzdkU4M2ZiZU1pTmZCQW5idjB2ZkxiWFRPWHgtZHF4Z3E0Um9ESmlQVmhEUUk2YjJZUHBOR1p4LXk2ZEFlQXhtVjU5Q0Z5eEdNNjJBX2tWTnQ1UHJYaVQxNGV0TkpJTzVHbC1MMTQyMHhnbndkcHNadmdWM1BKWUlwcVYzUjZRMTdxWl9tdVMtZkU?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/selpercatinib/
 2026-07-07 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2pFUEwwYTBtY0tYT3ZUTlRUQkRDOHNqREU4NkpjelI0VmhnQnFwMmFUUlJxOS1HTXdIaHlfamFYWk0xQmdnUUlINTRWRk9YUGlJOFJrYUV5X3hmRHpjVXlGeTIzX0pORjNoMHhzS2JrQW9vSFZlSmhIOEtyNnluZU92TdIBiAFBVV95cUxNczFEcFQxdk1NZklKR0ZxN1B3aG5wcUh0RGtVRVRhZ3NmbzhBTVlEbE13N0FHc0RuS19Ib0NLSDVxanZDQmhHZHJVQzhkSFctRVVtN2luaG9aVjktakh0d0RXOV9BeWM3YkEzRU9Ub0czSFhCY2Vlc3pHc1NxY2FsdVlfa3pEOUsx?oc=5)
-
----
-
-### [Ernährung gegen Bluthochdruck: Das ist die beste Diät laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
-
-2026-07-07 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlBHajlILXJzZHVvTkF6U0RLakFkWDRQb2hXN1JpbWtYYlIzaTN6OHBzakN6WmtpbjROaGRtWGtvZmpDcHJLTXd1Szh6d1A2RmtsbWMzVU1zVGtJcVNDb1VoeGZjSWpGeFVjcmRNdDYzS0dHV3cxdExUVGNaVldIcFI0WW5sUEZzcWRPWHN2QTdkZWZIQlcxWVFWd2NqSWJ1M0V6bEN2eWc?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（1 則）
 
-### [A pesar de la pérdida de peso, la mayoría de los medicamentos para la obesidad no mejoran significativamente la calidad de vida, según un estudio - Science Media Centre España](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFpwTTZOc2FtcUhIMXhmTzJ6eFdWbzZLRmFIMEhDZ1hDbnIxUTcwYVVsZ0hqdkJ5bUFsWWplNmhKSV9Jc0piQUlTSTFsTTVEcjRueEhRNkpmUmhDY2FobXppbDFfTmE5NmgzY3RPSFZfZjgteURxdVNLd0k1d2FHSEh6cF9seE1xZ3BsODZJb2UxcmN0U2ZzODZOa1FmcVpLc0FGNXFXOGswZWhqN0dRamxlVGk4cTg?oc=5)
+### [New Wegovy pill vs fat jabs - best for fat loss and heart health revealed - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUpMdDRIZ0t2WVFEVnVnb3BjOWNFcTdfbk1UWTJaZWM2WUxFcW9OVlkzeGYwYWo5XzZmdjE4Rkk3aGxFZ0lPR1VsX2ZRb2hmd2oxcHgzNUd2S2JyVTlKVjZqTDNRbHhKc1Y4M1J1RjVnUmVyTmFNQ3pvZFMxLUxZN1dMRzBNNXZMenR4bGVxZlpTdw?oc=5)
 
-2026-07-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
+2026-07-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
-來源：[Science Media Centre España](https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFpwTTZOc2FtcUhIMXhmTzJ6eFdWbzZLRmFIMEhDZ1hDbnIxUTcwYVVsZ0hqdkJ5bUFsWWplNmhKSV9Jc0piQUlTSTFsTTVEcjRueEhRNkpmUmhDY2FobXppbDFfTmE5NmgzY3RPSFZfZjgteURxdVNLd0k1d2FHSEh6cF9seE1xZ3BsODZJb2UxcmN0U2ZzODZOa1FmcVpLc0FGNXFXOGswZWhqN0dRamxlVGk4cTg?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUpMdDRIZ0t2WVFEVnVnb3BjOWNFcTdfbk1UWTJaZWM2WUxFcW9OVlkzeGYwYWo5XzZmdjE4Rkk3aGxFZ0lPR1VsX2ZRb2hmd2oxcHgzNUd2S2JyVTlKVjZqTDNRbHhKc1Y4M1J1RjVnUmVyTmFNQ3pvZFMxLUxZN1dMRzBNNXZMenR4bGVxZlpTdw?oc=5)
 
 ---
 

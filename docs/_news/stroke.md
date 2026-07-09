@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras ictus](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNYWUNiUHMxYmtZSG85MFFKeVFkalpLbEw4X2xQaTlEMkM3TjJaWXQ1ZGRjVWJBM1FOZzl1Y0NzWndiZk9PR29RbkllekNvd0hCNzBUbGhxQzUzbEVzckZid19HNTZ4S211WXV0NjFXY05NQWlOWHBBRzZBcUMxSXNaekxCRDhRaGZBLUVJVHNFa05ULTdmc1pzU1JJVHhJTm1vb3o2djM4dGZnYWRvTXBoMjJKZmxYM0h6VGd0aXo5TXhXU1k2bnExWWJJeUl4UDRv?oc=5)
+### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras un ictus - Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
 
-2026-07-08
+2026-07-09
 
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjNYWUNiUHMxYmtZSG85MFFKeVFkalpLbEw4X2xQaTlEMkM3TjJaWXQ1ZGRjVWJBM1FOZzl1Y0NzWndiZk9PR29RbkllekNvd0hCNzBUbGhxQzUzbEVzckZid19HNTZ4S211WXV0NjFXY05NQWlOWHBBRzZBcUMxSXNaekxCRDhRaGZBLUVJVHNFa05ULTdmc1pzU1JJVHhJTm1vb3o2djM4dGZnYWRvTXBoMjJKZmxYM0h6VGd0aXo5TXhXU1k2bnExWWJJeUl4UDRv?oc=5)
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
+
+---
+
+### [Je suis cardiologue : ce fruit est meilleur que tous les autres pour baisser la tension et éviter l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
+
+2026-07-09
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
+
+---
+
+### [Colesterolo, perché i soliti esami possono ingannare: il valore che rivela il rischio reale per il cuore](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
+
+2026-07-07
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbG8xbVlhZVBiaEJxM3UycjNyQVhBUkVHNUp3UW9qdjVyMTNkaDFKUnpSNG11eE55Q2ljZFFfWG50ekY3OFozR0cwcFNPQnY0akRGekdpNmZCMG9tYWRONmJxck5OWmVfeVpzeG1DSjNOenZqX3VCcUZEMm12WlpqeHZWYVhFbi1vTWVEOHZOTXVSZDVrdXlUUFNobVMweURnbGNpNl9CMW5yMWJ4NkFkQkVrZHV3bXA3NVR6WVJ4emhCVjBnWFoyb3pIcXRYWlp5bXNvVXh3UmpTVjVCNC1Kell3?oc=5)
 
 ---
 

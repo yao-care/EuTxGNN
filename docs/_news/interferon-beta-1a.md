@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（18 則）
 
-### [Sexually transmitted tummy bug ‘spreading rapidly’ in the UK - diarrhoea and 3 other symptoms - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9jdjUxYnBHcG8wdUNEM2hEWVFSYy1Vb2QwZ0xQem51cURBRlN6RFMxZUxfWHBxZjl3MmNOZFhrTE03Nm43cTV3ajgtTENmZmJnak90ZTc5Nk5NYnNnZ2d5TElOM3lZTkVGMWtZUFpGbmthdy0xaTlWLUE2dUduOE01bjFHbkxEemowQ19n?oc=5)
+### [GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
-2026-07-08 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+2026-07-09 <span class="news-indication-tag">MS</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUl9jdjUxYnBHcG8wdUNEM2hEWVFSYy1Vb2QwZ0xQem51cURBRlN6RFMxZUxfWHBxZjl3MmNOZFhrTE03Nm43cTV3ajgtTENmZmJnak90ZTc5Nk5NYnNnZ2d5TElOM3lZTkVGMWtZUFpGbmthdy0xaTlWLUE2dUduOE01bjFHbkxEemowQ19n?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
 ---
 
-### [Children keep dying in a country that made huge progress on measles](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BSmZFLXFRR01SNFZKWTlCWVVjalZDZ0RsYUVxOXBkVFcxd3Rza0dqT2V2bjNlWU1wRUFNRG5VVzFhLVdZcWdaRXRwbFpWSTFKci1xRmJKOVJFSXV5?oc=5)
+### [Kardiologen der Kreiskliniken und des Cardiozentrums machen sich für Prävention von Herz-Kreislauf-Erkrankungen stark - radio schwaben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHI3c0lKU25QOGNDNmZ0Yzl0ZjhESHNKd09keWxyLVBqSEpsbEpjTWRTWmk4aGVxM0UzR3FHRjJabVlXTWduMDZMcmxSWjlsOERxT3hEQk5BZTFnTVI2Q0ltSGx4OWg1MmdGMkRnSGtJZldNYkRqeXVxcld5YzE2M204QlU4bHhFMmdiTVQzZzQxRmN3dVlNMHN1UWhJb2VNM0ZUVTlWZktTME9UN0tUVDdrcEZTZVNKR00waTdsOVRUSTJUdXEwaHIwOWlFWjZKMURWN240YTVOeVZzUG5WaE9sT1ptQUNPZ19CeA?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-09 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BSmZFLXFRR01SNFZKWTlCWVVjalZDZ0RsYUVxOXBkVFcxd3Rza0dqT2V2bjNlWU1wRUFNRG5VVzFhLVdZcWdaRXRwbFpWSTFKci1xRmJKOVJFSXV5?oc=5)
+來源：[radio schwaben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHI3c0lKU25QOGNDNmZ0Yzl0ZjhESHNKd09keWxyLVBqSEpsbEpjTWRTWmk4aGVxM0UzR3FHRjJabVlXTWduMDZMcmxSWjlsOERxT3hEQk5BZTFnTVI2Q0ltSGx4OWg1MmdGMkRnSGtJZldNYkRqeXVxcld5YzE2M204QlU4bHhFMmdiTVQzZzQxRmN3dVlNMHN1UWhJb2VNM0ZUVTlWZktTME9UN0tUVDdrcEZTZVNKR00waTdsOVRUSTJUdXEwaHIwOWlFWjZKMURWN240YTVOeVZzUG5WaE9sT1ptQUNPZ19CeA?oc=5)
+
+---
+
+### [OMS advierte, los nuevos casos de cáncer podrían pasar de 20,6 a 35 millones al año para 2050 - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEVVbFRwYlJwTGtnMEhsMG0yYVdaNlNmZFdrRTd3UmozOE84bkZKeVpiVVpheE1wS2w5SzhzVkxUeEpiQVpuNmU2Wl9ndjNGNHk5UElDeERqdjNvLXgtMndNTF9jdl9RNGxmV0VyZGNMcFBwTVJfUk5ZbWl0dkxwREdjWE81Sm5xbmxJcWhxaFUzTEdINHpPdVdUYmxINkM3cjhCX3RzRlRScHFudl9aY0hJTEZ5VlFrblF2YU4zY1diRW15ck1FSmJ6Zjg2UXF2SUU3a1FaT1pVUU9EVThIY1NNT1HSAeoBQVVfeXFMUDFtbHRzZndwOG50ZEh1aWtEOFdSTnB1SllxdmtMcFAtTU02LXBHOV9GbXQ5SlBRNHZYQUNWaS1RTjYzanJ2Qlktb1dlOHdEeHBvZFM2LS1URGV4UnB4ZTNHVGt3V05MZ1VxTm8zQ2dVUVMxQ0gtQ2Fib2JQeWdZOXBxSUxzZUdrQVJHbFhDQnFvaW01bm84alNJNm9NV0t4X2tlVXFmLVd4ZllET21FQk9vRW9pbGN6cmt1Yy1NMi1Hb2RpUXFUNlQxZE5XM3lnMUl1NHpHeXNWaGYxLWZWZzFwbHVGOFNKTzVR?oc=5)
+
+2026-07-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVEVVbFRwYlJwTGtnMEhsMG0yYVdaNlNmZFdrRTd3UmozOE84bkZKeVpiVVpheE1wS2w5SzhzVkxUeEpiQVpuNmU2Wl9ndjNGNHk5UElDeERqdjNvLXgtMndNTF9jdl9RNGxmV0VyZGNMcFBwTVJfUk5ZbWl0dkxwREdjWE81Sm5xbmxJcWhxaFUzTEdINHpPdVdUYmxINkM3cjhCX3RzRlRScHFudl9aY0hJTEZ5VlFrblF2YU4zY1diRW15ck1FSmJ6Zjg2UXF2SUU3a1FaT1pVUU9EVThIY1NNT1HSAeoBQVVfeXFMUDFtbHRzZndwOG50ZEh1aWtEOFdSTnB1SllxdmtMcFAtTU02LXBHOV9GbXQ5SlBRNHZYQUNWaS1RTjYzanJ2Qlktb1dlOHdEeHBvZFM2LS1URGV4UnB4ZTNHVGt3V05MZ1VxTm8zQ2dVUVMxQ0gtQ2Fib2JQeWdZOXBxSUxzZUdrQVJHbFhDQnFvaW01bm84alNJNm9NV0t4X2tlVXFmLVd4ZllET21FQk9vRW9pbGN6cmt1Yy1NMi1Hb2RpUXFUNlQxZE5XM3lnMUl1NHpHeXNWaGYxLWZWZzFwbHVGOFNKTzVR?oc=5)
+
+---
+
+### [Sexually transmitted gut infection shigella a 'distinct public health threat' to UK, experts warn - Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUN6U2J0OXBvS21DcVF1LXl0WXJ0MWFKUFB2X0licVpqRzBQX2QzcmZKMzU2VUh6X1hkYlpOQlozYTg5aE5JYW1YRmo0UDNVbFFKRzFkU2JRbGdnMXFwZ3pOWHFqX2R4WlhLOFlBT3J3dGhaRmFiVXlta2tLQnhEd1RkaW1tXy1zenhVdVFXTUxRZWNUVlBoSHJwQTVfTTFKd2hqdnladGRTVWt4MlFpLVY0MFl6VjlBZENISnpCX1ZvLVI0cC1scFZB?oc=5)
+
+2026-07-09 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUN6U2J0OXBvS21DcVF1LXl0WXJ0MWFKUFB2X0licVpqRzBQX2QzcmZKMzU2VUh6X1hkYlpOQlozYTg5aE5JYW1YRmo0UDNVbFFKRzFkU2JRbGdnMXFwZ3pOWHFqX2R4WlhLOFlBT3J3dGhaRmFiVXlta2tLQnhEd1RkaW1tXy1zenhVdVFXTUxRZWNUVlBoSHJwQTVfTTFKd2hqdnladGRTVWt4MlFpLVY0MFl6VjlBZENISnpCX1ZvLVI0cC1scFZB?oc=5)
 
 ---
 
@@ -78,19 +94,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [La OMS advierte de un aumento alarmante del cáncer de cara a 2050: hasta 35 millones de nuevos casos cada año - Onda Cero](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTEw0c0t2RVhZcWFYaUl2SF9YQXo3SHBLVjdfTEs5SnliaW5zZDVDdnA4ZFlubmd3SkdRWng3SnFjOHl4Ujd1Q3VXdmlvYnlwNkxUSnFNalBFWGR1SWduN0dqOWt4aThyak9Sbzg3RGtRbDBNTXpkeUlLTG0yQmhHMWlLLTNqaW1hUFJkRUpfYVEtUmNFWDd0Mm5MS0JWQkFWS2V1b0hXU1QyckpaSC1ndENQVkRUU1pkVlNaTlhINVo4YUwtMUQ5TzJhZEgxWGw4WDI2UmhpX2VIUHliYjJLSFprYzFVUzJ1QktrcTBrRdIB7wFBVV95cUxNWk5VUHN4aGgtN2lpajlERHZxSE9zc1BaMHFnUU1zUnVSbF83NDJzdDFwUk1aczFSOU9LR1U5dlpLQms3LUhNWVdOcUI2Y00yTkVWUGFmaHhGVXhELVAySnN3eUNCYzlySU1fc3JncDNzUzQybERNVkNrS2dhWnZOdndOZ3pVWlh5aGRfcGRNZ21kbE9tSU5qZDJHQzRHa19qODFQZkY4bS1TeE5rWHl2UXBwSHhGZ1lQNnhPTzkxVmVVUzQ2dnN6NTVLVGlPRnBsR1pLYndLMEJtV00tQVNSLTV5cXI3SXNBbXVuM2ZZZw?oc=5)
+### [Le nombre des cas de cancer va presque doubler d’ici 2050 : l’OMS réclame des mesures urgentes](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0dHbldDQlFnXzZFT200YUFSSUtMU1Nta1RZWHZyM0NrZGJwSFpTeUFNZ0h3ZDM3U1Rwd25wYzRtRGc1RDRBQUJqLUlYdVVZaDRQUE9lYUp5RlR4LWxoMUQ4MG1PR3pza0p3OWlrbVBpWGhUWWJSMHh4UlhWbkRXS1RNUzB1d01xc3VYcWktMTJMc2ZZbGF1TExKRGNoQmNIQzZOZ1NPRFdpaHM5eHhzWC11aDNjNUxab2U2RklGR19rWFhEaTg5Zw?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTEw0c0t2RVhZcWFYaUl2SF9YQXo3SHBLVjdfTEs5SnliaW5zZDVDdnA4ZFlubmd3SkdRWng3SnFjOHl4Ujd1Q3VXdmlvYnlwNkxUSnFNalBFWGR1SWduN0dqOWt4aThyak9Sbzg3RGtRbDBNTXpkeUlLTG0yQmhHMWlLLTNqaW1hUFJkRUpfYVEtUmNFWDd0Mm5MS0JWQkFWS2V1b0hXU1QyckpaSC1ndENQVkRUU1pkVlNaTlhINVo4YUwtMUQ5TzJhZEgxWGw4WDI2UmhpX2VIUHliYjJLSFprYzFVUzJ1QktrcTBrRdIB7wFBVV95cUxNWk5VUHN4aGgtN2lpajlERHZxSE9zc1BaMHFnUU1zUnVSbF83NDJzdDFwUk1aczFSOU9LR1U5dlpLQms3LUhNWVdOcUI2Y00yTkVWUGFmaHhGVXhELVAySnN3eUNCYzlySU1fc3JncDNzUzQybERNVkNrS2dhWnZOdndOZ3pVWlh5aGRfcGRNZ21kbE9tSU5qZDJHQzRHa19qODFQZkY4bS1TeE5rWHl2UXBwSHhGZ1lQNnhPTzkxVmVVUzQ2dnN6NTVLVGlPRnBsR1pLYndLMEJtV00tQVNSLTV5cXI3SXNBbXVuM2ZZZw?oc=5)
+來源：[RTBF](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0dHbldDQlFnXzZFT200YUFSSUtMU1Nta1RZWHZyM0NrZGJwSFpTeUFNZ0h3ZDM3U1Rwd25wYzRtRGc1RDRBQUJqLUlYdVVZaDRQUE9lYUp5RlR4LWxoMUQ4MG1PR3pza0p3OWlrbVBpWGhUWWJSMHh4UlhWbkRXS1RNUzB1d01xc3VYcWktMTJMc2ZZbGF1TExKRGNoQmNIQzZOZ1NPRFdpaHM5eHhzWC11aDNjNUxab2U2RklGR19rWFhEaTg5Zw?oc=5)
 
 ---
 
-### [Brote de ébola costaría a África 3600 millones de dólares y llevaría a la pobreza a un millón de personas - IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSER6cU82NldMQUpHR1pXM1htb0VCYnNYaXlfNklFVGZBUksxQ2J2SldoaE9tOTgxMUZOWlZ3MTcwTXVfRndzbTlwUkZkVkZiUjZBeWJuRThBZVBWdVBBOVpzNHhDVlJUWVVSSGk0Q1hJZDNwV2JmMVdLQm1XMHJJVXE2ME80RlItMTNRTTkwVUJiY1ZFU18xOWZ1akRsU0xqZElUazc4R1IwMnpvVGhtWUY4NHA5dlB4U2d0dlZFNzZ6VnlUbndNTjVfVTAxN081OGMtdw?oc=5)
+### [I casi di cancro raddoppieranno entro il 2050: «Saranno 35 milioni l'anno»](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjN4SUZVX0lKME13YTJHWWkwbEpHRGNKVTRVUjVMbTR6ZW90cHBQZVZGTzhkMjYwaFZOdENEdmhQV19uSTBadE1rUEVkWElQSjZuSWtETTRDYXFsVUh6NXM2OFdqY1NQZzhmc3Jzcl95MzlMVmJXa2ZmeWhXSXM3bXdoV2NDTG9EREhHWkNSTUN3VHR6Tk92QmFLcWNGVjF5RmNuYUJmRkI3RGFXQThicEljTGQ3QU0?oc=5)
 
-2026-07-08 <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSER6cU82NldMQUpHR1pXM1htb0VCYnNYaXlfNklFVGZBUksxQ2J2SldoaE9tOTgxMUZOWlZ3MTcwTXVfRndzbTlwUkZkVkZiUjZBeWJuRThBZVBWdVBBOVpzNHhDVlJUWVVSSGk0Q1hJZDNwV2JmMVdLQm1XMHJJVXE2ME80RlItMTNRTTkwVUJiY1ZFU18xOWZ1akRsU0xqZElUazc4R1IwMnpvVGhtWUY4NHA5dlB4U2d0dlZFNzZ6VnlUbndNTjVfVTAxN081OGMtdw?oc=5)
+來源：[Ticinonline](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjN4SUZVX0lKME13YTJHWWkwbEpHRGNKVTRVUjVMbTR6ZW90cHBQZVZGTzhkMjYwaFZOdENEdmhQV19uSTBadE1rUEVkWElQSjZuSWtETTRDYXFsVUh6NXM2OFdqY1NQZzhmc3Jzcl95MzlMVmJXa2ZmeWhXSXM3bXdoV2NDTG9EREhHWkNSTUN3VHR6Tk92QmFLcWNGVjF5RmNuYUJmRkI3RGFXQThicEljTGQ3QU0?oc=5)
+
+---
+
+### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
+
+2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 ---
 
@@ -110,11 +134,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Typ-2-Diabetes: Bestimmte Darmbakterien können Jahre vorher auf ein erhöhtes Risiko hinweisen](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
+### [NHS confirms rule change for patients over age 65 from September 1 - Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdXk5Mm1HS1JvbWNLM2Naekk2NjMzNnltWFJMZWtaU0lRVmxyWkFlajVuMnJVU0VBT1g3ckoyaE5KeDZKZ0VZTjFIdHNTQm9adjJ2dmQtRFhQZWJ1Mlg1ZmxMNjVvVVlEMTM5MTNlMkNSb1lkYy1ZZGFCbXZaVWd1WmVmeGpiY0NFa3FWSXdUdzVjbjZ4MGI1T1BB0gGfAUFVX3lxTFA4NVlQOGt5RS1VSm9zellVaWxKcUtndDJjSElIbTFLRV9aNzMyeVpvYzcwUnhyOGppeEcxWUIwbnlxbktjaTQtam1xN2VqS3RMaEFVVmc1eTVRQXY3N0t0ckNKSVVrbm9tTUhtME1GMmJIS05oMEpZbE05SFJZeEl5STBtbFRsTW5ZWEYxU21PMDVyUUs2NVdiMmJpTG5HTQ?oc=5)
 
-2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-07-08 <span class="news-indication-tag">MS</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdXk5Mm1HS1JvbWNLM2Naekk2NjMzNnltWFJMZWtaU0lRVmxyWkFlajVuMnJVU0VBT1g3ckoyaE5KeDZKZ0VZTjFIdHNTQm9adjJ2dmQtRFhQZWJ1Mlg1ZmxMNjVvVVlEMTM5MTNlMkNSb1lkYy1ZZGFCbXZaVWd1WmVmeGpiY0NFa3FWSXdUdzVjbjZ4MGI1T1BB0gGfAUFVX3lxTFA4NVlQOGt5RS1VSm9zellVaWxKcUtndDJjSElIbTFLRV9aNzMyeVpvYzcwUnhyOGppeEcxWUIwbnlxbktjaTQtam1xN2VqS3RMaEFVVmc1eTVRQXY3N0t0ckNKSVVrbm9tTUhtME1GMmJIS05oMEpZbE05SFJZeEl5STBtbFRsTW5ZWEYxU21PMDVyUUs2NVdiMmJpTG5HTQ?oc=5)
 
 ---
 
@@ -142,6 +166,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Virus de ébola continúa propagándose en RDC y número de muertos supera los 500, informa OMS - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamdBb050VFlsdFlGUVhqTkdpNDFXTmhIXzgySHBDb2NiWC1KOEhyZHp3Y29BZXpNd3FQN1JreXJnNHZkSnh2bzNsbEdscDdNS3JQMUJIZ01xVmJNcTBlQ01yWGxxN1liWFFLUGNIWGJJc1hTejNBQzJaTnlJNG95RG1rTQ?oc=5)
+
+2026-07-07 <span class="news-indication-tag">MS</span>
+
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxQamdBb050VFlsdFlGUVhqTkdpNDFXTmhIXzgySHBDb2NiWC1KOEhyZHp3Y29BZXpNd3FQN1JreXJnNHZkSnh2bzNsbEdscDdNS3JQMUJIZ01xVmJNcTBlQ01yWGxxN1liWFFLUGNIWGJJc1hTejNBQzJaTnlJNG95RG1rTQ?oc=5)
+
+---
+
 ### [Sanidad y OMS fijan el próximo reto de la hepatitis en llegar a quienes siguen fuera del sistema](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNT3ZYVjFJd2l5Q2RPVzBGSmh4Rmk3Q1ZDc28tYTkxbnhNQlBvNU5WRWNiOXVGMmNzT0FESk1aLWd5NGRxZ1pMNllscFhfcWtqUExRYjUxZnNfM0lRWVMwYXEyQlhEd1lEMkR1UUNSZXkzMDQxblZ1Tnh3TFlCOEdYblJ4clNtMUNwN2VWanJhWDBhOHo5Tkx0NGE4T1JGblBIcVFBeEh2ZmV4dHRHS0JGTTUyQkwtdUtnbE1lY0xSWDBLQUNHUENELWFDdVVuSmVyS0VYMERoUS1WbHJIWkphSUdrYW1ERkZPMnc0TUlDazM?oc=5)
 
 2026-07-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
@@ -158,11 +190,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+### [“No se trata de demonizar a quienes practican chemsex, sino de acompañarlos”](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmVhLV9WdGlOVVpPREJHQVlOSDlOR0tjUmtPVHMzT193VDBUTDRCcVFTQWd1VXJDN09iLUNNdTNuNDBQUm5nWEtXVlFHTkVBYkp2SVc1cFEwUW93TUhCeFd2UXlXZGJkeEpKaElGZjlzMDBfc3VfUHlRQjZPaXNzLUt4SmJlcm8?oc=5)
 
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-07-05 <span class="news-indication-tag">MS</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
+來源：[Deia](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmVhLV9WdGlOVVpPREJHQVlOSDlOR0tjUmtPVHMzT193VDBUTDRCcVFTQWd1VXJDN09iLUNNdTNuNDBQUm5nWEtXVlFHTkVBYkp2SVc1cFEwUW93TUhCeFd2UXlXZGJkeEpKaElGZjlzMDBfc3VfUHlRQjZPaXNzLUt4SmJlcm8?oc=5)
 
 ---
 

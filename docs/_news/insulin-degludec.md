@@ -14,7 +14,7 @@ permalink: /news/insulin-degludec/
 ---
 
 <p class="key-answer" data-question="Insulin Degludec 有什麼相關新聞？">
-<strong>Insulin Degludec</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Insulin Degludec</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/insulin-degludec/
 <p><a href="{{ '/drugs/insulin-degludec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
+
+### [Typ-2-Diabetes: 45 Prozent haben kritische Mikronährstoffmängel](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlhpME9lSkFzMTY4STlISEIwaXZIdFVtTVVDYTY1a05HeHdEdi1mTEdTMEg4amU0RWdLSnFaUUNNVy00N29QdXlqd0ppdzZnSU1CLW01clRUV1FCSFVzRHNUa3hlR0RTV3lGYmd1bVBGbmdsWkZidTZETFNTdXBMNGJCZW9GUENBOUV3TVEwQmhrdTJQRkdzMldSbG9SZmhpNzcwa19hTUJWZ1RZeUZKUHR2aw?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlhpME9lSkFzMTY4STlISEIwaXZIdFVtTVVDYTY1a05HeHdEdi1mTEdTMEg4amU0RWdLSnFaUUNNVy00N29QdXlqd0ppdzZnSU1CLW01clRUV1FCSFVzRHNUa3hlR0RTV3lGYmd1bVBGbmdsWkZidTZETFNTdXBMNGJCZW9GUENBOUV3TVEwQmhrdTJQRkdzMldSbG9SZmhpNzcwa19hTUJWZ1RZeUZKUHR2aw?oc=5)
+
+---
+
+### [Why taking antidepressants 'stops people functioning' in heatwaves](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ROWltRHFDMXJleHd2ZWQ1R2c3Y0VWRlRLWlR2dWJ0ZnhzZnhjQjZXNUFybF9BZEN4VlRRLVpXUmRfUFl2TVBMY3ZGZHg3Y2Zyb19BNnJvcDdaVTI5?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ROWltRHFDMXJleHd2ZWQ1R2c3Y0VWRlRLWlR2dWJ0ZnhzZnhjQjZXNUFybF9BZEN4VlRRLVpXUmRfUFl2TVBMY3ZGZHg3Y2Zyb19BNnJvcDdaVTI5?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1FtLXVTc0Rxa3J0X2VSTy0tWjlEdjNQbThsc3pnUUdSRWhzVXVCWHlhaXRoWXNyM1IwQlh0aDROcFNjcHBnNXpCREtYRDhjUkVYbGFRWG5vQVJPNTNkdFl6a29jdU9VZG16ajA4S09CMDhFdzNNMmJIMExvQzlMc3ZJM2tsZTJvWG1rNWNvTDhUajJGRDExTG91d3pQTVRRNGZXc05YVFctUU9QdmlTOV80Rlowbl9q?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1FtLXVTc0Rxa3J0X2VSTy0tWjlEdjNQbThsc3pnUUdSRWhzVXVCWHlhaXRoWXNyM1IwQlh0aDROcFNjcHBnNXpCREtYRDhjUkVYbGFRWG5vQVJPNTNkdFl6a29jdU9VZG16ajA4S09CMDhFdzNNMmJIMExvQzlMc3ZJM2tsZTJvWG1rNWNvTDhUajJGRDExTG91d3pQTVRRNGZXc05YVFctUU9QdmlTOV80Rlowbl9q?oc=5)
+
+---
+
+### [Gestationsdiabetes steigert Typ-1-Risiko massiv: neue Leitlinien, KI und PVS-Sicherheit - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZU9XM3ZpNW5saVF3TGVZWXczc05nVURSTWp3ZWxWMU9XUUp6TWRQdzN0WHphOTdkM25oZkJEaUdhYXdDLWhVSWJqWHppZENZR0lydUxUWExBSTZxMHE5ODRrVGJCWWdaeEpKeDFZWWhtc3pobUk3STJETFFIZjFndmQ0VFJiRXd2bG1rTk04aG8xRjhjVUx6TU9GSXZUVDhpSWpJUkY4MjFrX2lTblJhM3dyeHFQamF3?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZU9XM3ZpNW5saVF3TGVZWXczc05nVURSTWp3ZWxWMU9XUUp6TWRQdzN0WHphOTdkM25oZkJEaUdhYXdDLWhVSWJqWHppZENZR0lydUxUWExBSTZxMHE5ODRrVGJCWWdaeEpKeDFZWWhtc3pobUk3STJETFFIZjFndmQ0VFJiRXd2bG1rTk04aG8xRjhjVUx6TU9GSXZUVDhpSWpJUkY4MjFrX2lTblJhM3dyeHFQamF3?oc=5)
+
+---
+
+### [Diabetes: Kontinuierliches Monitoring senkt Herzinfarkt-Risiko um 72%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
+
+---
 
 ### [Lebensstilinterventionen bei Diabetes | Lifestyle-Interventionen reduzieren Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
 
@@ -83,70 +123,6 @@ permalink: /news/insulin-degludec/
 2026-07-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZIWEx1MkFHX2hXVVJJempoN19NZmJiUTRQYnd1YkFZXy1QN1MxZDdaNndwZEZsTzRMckJyREJPd2ZkS3BzWExyTjZ1cUxZTXFwYnRuWHF6UU9lYVk0TUc4MEZ3ZTA0eTJhYkM5VXNRWWpCOGJQNmNEdkdpeHk1R1JoMVFkUjhvY284TWxmMS1XVWUy?oc=5)
-
----
-
-### [Diabetes-Risiko Frauen: Siebenfach erhöht nach Schwangerschaft - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObGUwNGZwNnhTdDV1QU9xcW1LeC1kY3dLcjFJNnNNbXpXT3RvbDhxMHZuNUlsdXpmTUw1SFNtQ1NHQnFYZ0xSMGRsLTB6Vmg3R180NS1PRzY3eHVtb2lESlVncVZlR3pXd01lWHg5ellXN3N4Tm1QLXQ5SWFpcHVSbEVlektqZkIzb290T3lfc045NldWMG5GMGN3V0thU19JMndXMllKZnN3NEh4RlNkZw?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxObGUwNGZwNnhTdDV1QU9xcW1LeC1kY3dLcjFJNnNNbXpXT3RvbDhxMHZuNUlsdXpmTUw1SFNtQ1NHQnFYZ0xSMGRsLTB6Vmg3R180NS1PRzY3eHVtb2lESlVncVZlR3pXd01lWHg5ellXN3N4Tm1QLXQ5SWFpcHVSbEVlektqZkIzb290T3lfc045NldWMG5GMGN3V0thU19JMndXMllKZnN3NEh4RlNkZw?oc=5)
-
----
-
-### [Typ-2-Diabetes: Bestimmte Darmbakterien können Jahre vorher auf ein erhöhtes Risiko hinweisen](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxObm8wSTF3akVRTFNQQnpjQ1ZkWTFSdWVNUlhRVVhIN0Z1ekZMZXNSWE1BMXFhek5XSV8xcjdtZ1ZzbVpZZXBjRWpNLVVMZXZZOVVSSG1FWEZqaDJVeEpYVTRhS1IxWktzVGN2Q1VqMmVpSkxUQmotdEtLd3BCYWFHaXV6dm1xZjBvdy11UEl3eERNM2JIWW55RHpScmVuREpycjNPd3RwS0NoWU9pMjJWaEo4TEhpVXIxWHZlWmlJbVRpOTA4d09ZbTl3?oc=5)
-
----
-
-### [Dormir menos de seis horas favorece el aumento de peso y la inactividad física - La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFNVdU9lT1FwNVpac3B3X2tTM2FIdGV5cVZ4elhFVWtobHNubFpaRXFjZ21TR1E4U1MweHNKUzVrVkgzTnhpejg0dEdQVkwyTTVDN1ZvcEZmdGtCNXJyNFpZZUM4YUpBUVAxMklMV0tndkVoZmdFTGo5ZVlxSkppMVVJOE1XOF9NQ1prNnpBeTdtR3RZRnJ2UXJrVFBZLXNxaHowZDBpSEtsWGp0cGxWVjJOb3IyNXhQcE1UdnRYR2XSAcYBQVVfeXFMT2xvUkdfUVZ1RWF0R2c2SDgyRXh4Yk5CUFBQU0pkYXVKLWRlcGE5Z3JhckZWSnVrNm5XZmVwTU1CRG81SVRNbnJkN0dub2hJTzdfeGF6b282dkFOazVnaldkZ1Y2Y3Q5dGF0ZnNwVWYzNFhZWjRqV0sxbDVHTElhNGZhc2h0TU9kdE1Ndk1xd0RsQkNLWmZBLTFHTXh5dmRkWlpCZ2llZlpxVGxNcGZidEJHdUg1MkxPWUd3Ry1OOTRCTWZLOHp3?oc=5)
-
----
-
-### [Individuata una proteina che accelera il metabolismo dei grassi](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU0hVYTVUWGd2NTVRS3hRV3E0UHVteVF6dHROX2YycU9QTXBEX2E5YlhaMTlvd1RxVzl2Z1RlX19hRVR1S3hBSzZPSEduQjFkS2lydTNtaDNocm9ZV0RTcEdYMnZWVi1sWUR2enlmVDVIUUJWUWJPWVhoeTFQdEZraHVCY0JFN05RYmQ0d0xnQ1dhYm1fSjYxaVhNcUxwdFRyR2dYNV9VQko3Uy1NMkVWUkN2N0VOWHJINTdmMDVhbFJZalM2S0diQzRZend5OWJQbFJidFZDbEM4U0o3Q3llQUtZRlBNcUhzWFhkRU9KUTJMbUNGUVRZRHhhMNIBgAJBVV95cUxPcURVUGZDbzB0cTFURmR0YmRkdXFwR21jTGtZMHRCV1ZHd0VRaVRTTWsxZWp2UTlOZEllMThyM0NkMzVWcWRoZjdvS0RVbmN5SmRDcWtDUHRFTzRnMVl0LXpoM0oza3BnblpmRFhLa2tyOFpMWXZ2SmtmOWJsLXNnWVVfQXMzM2tFNGc0ZXpPSFBOcUtOQzBGbms5TUtvaXpkaXVWT2txRU9HU195NHQ4QTNRQUE2MGxxQUk2MkhBOVJSdVZGTUhxWDFDX1h5SlBPclFDVkVnTk9IeDlBTEhOeG44ZGtNUElHUTA4XzNTVHNaWGlqZHBJNnN3VXJhdDZu?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU0hVYTVUWGd2NTVRS3hRV3E0UHVteVF6dHROX2YycU9QTXBEX2E5YlhaMTlvd1RxVzl2Z1RlX19hRVR1S3hBSzZPSEduQjFkS2lydTNtaDNocm9ZV0RTcEdYMnZWVi1sWUR2enlmVDVIUUJWUWJPWVhoeTFQdEZraHVCY0JFN05RYmQ0d0xnQ1dhYm1fSjYxaVhNcUxwdFRyR2dYNV9VQko3Uy1NMkVWUkN2N0VOWHJINTdmMDVhbFJZalM2S0diQzRZend5OWJQbFJidFZDbEM4U0o3Q3llQUtZRlBNcUhzWFhkRU9KUTJMbUNGUVRZRHhhMNIBgAJBVV95cUxPcURVUGZDbzB0cTFURmR0YmRkdXFwR21jTGtZMHRCV1ZHd0VRaVRTTWsxZWp2UTlOZEllMThyM0NkMzVWcWRoZjdvS0RVbmN5SmRDcWtDUHRFTzRnMVl0LXpoM0oza3BnblpmRFhLa2tyOFpMWXZ2SmtmOWJsLXNnWVVfQXMzM2tFNGc0ZXpPSFBOcUtOQzBGbms5TUtvaXpkaXVWT2txRU9HU195NHQ4QTNRQUE2MGxxQUk2MkhBOVJSdVZGTUhxWDFDX1h5SlBPclFDVkVnTk9IeDlBTEhOeG44ZGtNUElHUTA4XzNTVHNaWGlqZHBJNnN3VXJhdDZu?oc=5)
-
----
-
-### [SGLT2-Inhibitoren senken Alzheimer-Risiko: 43 Prozent und was Diabetiker auf Reisen beachten - it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3E2ZHNLakllQWh5RWw4VWE1bUNiMWt4RGRick8yNGs5cDQyV2traGZ3eEYwNnFWUzRxQl9iM1dSdmhZU0d5dXBNVnlzTjN6SUtZLVVNbWNBV1AzZEpINzFsN1ZEUjc5TDBkeE54UjVGX3RJQV91Mk92cklDR092NldZOWhBX0pqRFo2aXhPN0JkalpWdTEyeG8wLV9DNmM3eWhhZkVWcTFLbm53ejZCdGJKb3hkN1VNZXBsZTEyZEg?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3E2ZHNLakllQWh5RWw4VWE1bUNiMWt4RGRick8yNGs5cDQyV2traGZ3eEYwNnFWUzRxQl9iM1dSdmhZU0d5dXBNVnlzTjN6SUtZLVVNbWNBV1AzZEpINzFsN1ZEUjc5TDBkeE54UjVGX3RJQV91Mk92cklDR092NldZOWhBX0pqRFo2aXhPN0JkalpWdTEyeG8wLV9DNmM3eWhhZkVWcTFLbm53ejZCdGJKb3hkN1VNZXBsZTEyZEg?oc=5)
-
----
-
-### [Grippeimpfung bei Diabetes: Risiko für Folgen senken](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWxLeUFIcU1uMVJKS0FYM0tXaTE5X1dzYmZFZTlVd0RwYmVCZ3NRM3c0dl80YkFsSU5qUUxEdzZ2enpTWXlrRHlRSFpyWHE1VnpRQnpDdTBqZ0p1eDhIQnhCeWZyWU9KRzVtWVhXYlNxNnZDMjZpb3IyRlRta2tXVFJyOXNDQTZuUk0wRVlab2dISEtqc1ZvejZoMEtxWGNOcUh0bkpGZE92cGc?oc=5)
-
----
-
-### [Abnehmspritze kann den Geschmackssinn verändern: Das zeigt eine neue Studie](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXdwZ2puSE5QSERFcGpHdjBGc3p1ZjNXMEFRYURYODNJZHBud2l2NldTVkw4c21xdmdyOHhPUjlXQkFHZkpseUNrY29ONFpEazR3YzVyMGdZbjRvWE5xSFVsWURvYjUtZVExSUdnYUhvOE1GRHcxM0JBTFk2dVN1WWRWZUM2SndSNk04NVpldlJRVGhYMTZlamJCeExrTDNLVzhfeEN3ajNYd1Rid0E5Yg?oc=5)
-
----
-
-### [Diabetes: Warum Betroffene oft mehr Mikronährstoffe brauchen](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYURnWUtqTUpra1JCbVRCeG1mVmNPdjlxZUNseEV5SnhMMmtxNTE4M1VwTUZLWjEtRXlqVzRNejFjbzZ0cTFfOFlXdmp2SG1LaHRYdVgtRjhJbnBHV29KMVZ2S1lSdlMyZVJmdjk3b1Z0b2txdmNXeWtGX0ZvN25XbmFzM1lZRUFBZXJudk9QNnVBcmJsZmFETTRzSm80SWNzZk03blBUdTFOYXVWQ3V1X1dSM3JUb3F6Q1ZEOXpmcDl6SlE?oc=5)
-
-2026-07-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[leinetal24](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYURnWUtqTUpra1JCbVRCeG1mVmNPdjlxZUNseEV5SnhMMmtxNTE4M1VwTUZLWjEtRXlqVzRNejFjbzZ0cTFfOFlXdmp2SG1LaHRYdVgtRjhJbnBHV29KMVZ2S1lSdlMyZVJmdjk3b1Z0b2txdmNXeWtGX0ZvN25XbmFzM1lZRUFBZXJudk9QNnVBcmJsZmFETTRzSm80SWNzZk03blBUdTFOYXVWQ3V1X1dSM3JUb3F6Q1ZEOXpmcDl6SlE?oc=5)
 
 ---
 

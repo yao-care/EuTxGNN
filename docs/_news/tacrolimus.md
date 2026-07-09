@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,9 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La psoriasis no es solo una enfermedad de la piel: puede dañar el corazón antes de dar síntomas - El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDN2cVpUNG1MNTQ4MXFPM3pxb2phRGtNcTVmNjhsQ3lzTEFrWHVOcnBUYVhtS0Y5ZVJOalFVTHI0TmFLMGVCQ2pUa3BHZmVrN2U3V292dkNiU3BvOWZROFFuMkp1UGhQNDE1RUtQamJabVkwWlJfRDdRd004WUtneVZ3c3prMXp5NHpIYzVlSU52NmdBRl9ZU3hfa21kMXVna2Z6RjlfS1FtVUJLcXFEeVV4b1Y2R3dMZXlvZm90Y2Z3U1g0LWswSlBndUJaX0Y2U2lHX0RRQmhjZ9IB3wFBVV95cUxPbXdUbFVneTVSNWJydWhHQnowYjBGdU5wclBuYVRneXUwRzVHT3B5WWJ1WFo5NUJWa2c3dk5UVWZDR2dMWURVNGV3YW40NThlSXlUVURjWHlYUG5tUVJCdjZYN0c0MU9sS3NPcGVaQVpuc2Z6QlkxcUVSbXZPSVpSb2dZaUdBbTdEU2VTQl83WmRJOEttdXFnYzJXZVNMNHZubjJpUktaT0dpMzhPWWpTOXQzeGxnUTR5eGkwZlFDLXk4djNyNEpKUlpiREFGV01wbHYwNHRVaEFNZ0Y3TnlZ?oc=5)
+
+2026-07-09 <span class="news-indication-tag">psoriasis</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDN2cVpUNG1MNTQ4MXFPM3pxb2phRGtNcTVmNjhsQ3lzTEFrWHVOcnBUYVhtS0Y5ZVJOalFVTHI0TmFLMGVCQ2pUa3BHZmVrN2U3V292dkNiU3BvOWZROFFuMkp1UGhQNDE1RUtQamJabVkwWlJfRDdRd004WUtneVZ3c3prMXp5NHpIYzVlSU52NmdBRl9ZU3hfa21kMXVna2Z6RjlfS1FtVUJLcXFEeVV4b1Y2R3dMZXlvZm90Y2Z3U1g0LWswSlBndUJaX0Y2U2lHX0RRQmhjZ9IB3wFBVV95cUxPbXdUbFVneTVSNWJydWhHQnowYjBGdU5wclBuYVRneXUwRzVHT3B5WWJ1WFo5NUJWa2c3dk5UVWZDR2dMWURVNGV3YW40NThlSXlUVURjWHlYUG5tUVJCdjZYN0c0MU9sS3NPcGVaQVpuc2Z6QlkxcUVSbXZPSVpSb2dZaUdBbTdEU2VTQl83WmRJOEttdXFnYzJXZVNMNHZubjJpUktaT0dpMzhPWWpTOXQzeGxnUTR5eGkwZlFDLXk4djNyNEpKUlpiREFGV01wbHYwNHRVaEFNZ0Y3TnlZ?oc=5)
+
+---
 
 
 <div class="disclaimer">
