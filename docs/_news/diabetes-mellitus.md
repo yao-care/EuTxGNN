@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,21 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
 
 2026-07-09
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
-
----
-
-### [Un equipo de la Universidad de Málaga demuestra nuevas conexiones entre obesidad, diabetes y alzhéimer](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
-
-2026-07-09
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
 
 ---
 

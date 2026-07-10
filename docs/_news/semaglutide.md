@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
 
 ### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
 
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
-
----
-
-### [Un equipo de la Universidad de Málaga demuestra nuevas conexiones entre obesidad, diabetes y alzhéimer](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ permalink: /news/semaglutide/
 2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN21OMTRqUW1TZDRYcUZOaWduUk94UkthaHhpRlBERm1qM3VHYnhFY1FQb0RvYmIwMHUwSzlkWkhFX0FwMnBNQ2ljV2JueDl5MDUxeEdKVXI5cUNTajFDOE1VZGwxRWdnLVYxcWFaemlNREdLNngzWFhvZ2NFZG5oNERBYndoOU0tbkZGZ2k0bGYtc2ZtTVBhQkdBTVZYbVNOMXR1VjdzdmtEa2xvM2h0NWRTZnA4WGN4WjBNNHRZZGNiTVhHNUstczZ0aWkwUTIzeEpfRkRGc3pYRW1IWVMwUlVsS1M4RHQyN0t3WnJubjRhdTdx0gH6AUFVX3lxTFAxc1Qza0p3djlsVlBJR2hDNmdxT2JjOVdFemNBay0tN3doX0RTYW9JZGt5bHV6dFB3U3ZKUGhJLUN1dkJ6VzBTVV9tbUc2OUxPd25hcmxUMnU3Um1OcTJhUGVRUktlY0RtaUUtaFZhVTFITHlzQXFvQ0hKbXFrd094SXlETmpBdU90bHg1RXBnMXpWNi1DdXpUZUNYWUJHQ2c0Q1h6TWZGcHZoZTE1dGFnbDY1SllPQmEySzlLSW82ZVFoa2ZoX1RQcFg2dDl1RURIYXRkdWo1aHNQcDZNLWZfaVhxckJScmdEQlFJUGFidWdfTzZxd0tEQmc?oc=5)
-
----
-
-### [Quels effets secondaires pour les traitements GLP-1 contre l’obésité ? - 20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW8xUDRPUmlqMFdFLXBhZ3hMbVBOeEZ0Wm4xVHZGUU9FRklQVmdoS05RZm1GeU5NZGNPSC12bXFyakJVMFVlNU03R2lVTmF5ZVphbHA5eV9aTHY3ZklaQlhwcHlqTnhYeEdWOF94aERoaXJvaXZWNEVURC02SFVDcXpia0Rvd01Cd2JhUEg3bzVUY0VaeENfLWZDeHJtWGxnbWdQODBVQTBSMkdPVkFOUUgtWS1NbVUtZnJrSjJWVDI?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW8xUDRPUmlqMFdFLXBhZ3hMbVBOeEZ0Wm4xVHZGUU9FRklQVmdoS05RZm1GeU5NZGNPSC12bXFyakJVMFVlNU03R2lVTmF5ZVphbHA5eV9aTHY3ZklaQlhwcHlqTnhYeEdWOF94aERoaXJvaXZWNEVURC02SFVDcXpia0Rvd01Cd2JhUEg3bzVUY0VaeENfLWZDeHJtWGxnbWdQODBVQTBSMkdPVkFOUUgtWS1NbVUtZnJrSjJWVDI?oc=5)
 
 ---
 
@@ -187,6 +171,14 @@ permalink: /news/semaglutide/
 2026-07-08 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSERkWWVZS1lxNGR0Wkhyel9FS3pMMHN1SFY5UWxQZDk0QmRSSUZlSDFwTFgyWTQtTG1lRzROZk5UalBudG84dllhS1pKcTBXdl9HM1ptTUQtTGxtdTNERFZ4TjFDNmNJemZSbmJHb1pvaHUwSU5HSXhqMHZRWHlsckxCMnA4YVhxSjd6OWNXS1FaRzFSYk9qUGpzUU8?oc=5)
+
+---
+
+### [New weight loss pill beats oral Ozempic in major trial](https://news.google.com/rss/articles/CBMib0FVX3lxTE1vd3dnX0Z0ZHdEdmI2dkZsbG54VkhGc1ZDSGFMLVdBekpoenpiVkotaXNKeW1OZkIydE5vRG5tUW1tVk0yYWZjWUdSbnpOZ19IdE44czhyY2VKQ29QWDJnNjJ3ZDhjdzlPQ2lsVkhfZw?oc=5)
+
+2026-07-08 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1vd3dnX0Z0ZHdEdmI2dkZsbG54VkhGc1ZDSGFMLVdBekpoenpiVkotaXNKeW1OZkIydE5vRG5tUW1tVk0yYWZjWUdSbnpOZ19IdE44czhyY2VKQ29QWDJnNjJ3ZDhjdzlPQ2lsVkhfZw?oc=5)
 
 ---
 

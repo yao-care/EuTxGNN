@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
 ### [El Atlas de la Enfermedad de Alzheimer desvela un abordaje muy desigual entre países - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEJRb2l1NjdzNTNOUTVLYmk3MVhsaVVCTmxIZEdCNEhoa2lNdWF3eHhHN1BIRUZ5M3lMSHdxT0NKV0JsXzF0V096cWRETVMzLTZNRnFPRjRZVkwyNnE2UUFid01SdGQ0UG56d0JrVHpZX3FQR281M0ZtYTYxTlN2ZUd2SXBhbnQzdnVocUNid0ZSR0pCdnN1S04zOThTT19ETUp2Z0VXSlc0OE4zcGlWc2lwV3R2LVVi?oc=5)
 
@@ -70,11 +70,27 @@ permalink: /news/opicapone/
 
 ---
 
+### [Alcohol drives opposite brain circuit changes in amyloid and tau Alzheimer's models - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxORFBhOFozTkwtTEk0WVlSSThYa3phcGJhdkpYczhTRVo4U1c2LW1zajREaE1IcV8yd2prTDJsQzkzVzBNc190SWdQM0VyRERKSlE3QW1lbHh3WlVqanRLN2plTmo5YWFSMFliREhtLW5WN1drQ1RqZ3pxNURtWXRIYjdRUQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxORFBhOFozTkwtTEk0WVlSSThYa3phcGJhdkpYczhTRVo4U1c2LW1zajREaE1IcV8yd2prTDJsQzkzVzBNc190SWdQM0VyRERKSlE3QW1lbHh3WlVqanRLN2plTmo5YWFSMFliREhtLW5WN1drQ1RqZ3pxNURtWXRIYjdRUQ?oc=5)
+
+---
+
 ### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
+
+---
+
+### [¿Qué hábitos avala la ciencia contra la demencia y cuáles son solo un mito? - National Geographic España](https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2FiazlES2RteGoySVFJSDk5UmtCUXBCeDh2a0xVR3VwXzV1cXQwVWdONWY1amFUTHhlQzVwUExraVY5RnJPVmR6M19tcm9YM3YxQVFKVHhmcWdfNXFyM2NMcWQtMUFZUnJuTUhXQmE1Wnk3RWdnY2RVa19xREZjRjNzTHd5Y2VqSzhzNDNyX3BLTlRKOENnYlBXN3RlUjNLYW5hQXpZQ2JMLWtuVjdFeHJ3dlFSSmc?oc=5)
+
+2026-07-08 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2FiazlES2RteGoySVFJSDk5UmtCUXBCeDh2a0xVR3VwXzV1cXQwVWdONWY1amFUTHhlQzVwUExraVY5RnJPVmR6M19tcm9YM3YxQVFKVHhmcWdfNXFyM2NMcWQtMUFZUnJuTUhXQmE1Wnk3RWdnY2RVa19xREZjRjNzTHd5Y2VqSzhzNDNyX3BLTlRKOENnYlBXN3RlUjNLYW5hQXpZQ2JMLWtuVjdFeHJ3dlFSSmc?oc=5)
 
 ---
 

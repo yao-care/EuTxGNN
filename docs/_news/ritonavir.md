@@ -54,11 +54,11 @@ permalink: /news/ritonavir/
 
 ## 相關新聞（1 則）
 
-### [Marburg-Virus in Uganda; Therapie der chronischen Hepatitis B; HIV und Krebsrisiko durch HPV](https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0ltMnBSRHZ5Q016SXZCRkFVelZlMl9wajFZNUgwdU9lWVBRNGJ3bGh6b2hENGttZmhMVVE3R2FKT0N1X3R5RnY1UnA0dnVVaXluVzlKT0pwUzRtZUVqXzF0cnJIZURxZ3RQcDlsb2tmS2I2WDlrRDA0MkxPaUpPM21tYW0zZjh5akVHZUFrMmpEaE5WaTZfQ0V3RkJIRkNqMmkxNzU4aGNZSmlSeHllOElPd0R6Nmc?oc=5)
+### [Impfungen und Augenentzündung; Marburg-Virus in Uganda; neue Hepatitis-B-Therapie](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmswNFExU2RWMTljWkJqUHFDNVpvSFRfVnZ0X3E3cTMwVC1QV1pRaUd5Si1iVHM3ejVXc0hUTTMySmgwUmU0X3dZcWRhdXo0OEF6MlV5cHdXVjE2dE5zZTkxdVBhQ08xZTVaNnUyVWhqUEgxdWpyNkFuRGUtY2dRZzJFYmJvbEtlck15UGJMcXl4eUtwOHRlVC0tc0FrbHVCZnNtWU1GZk95SGg5Q00zQw?oc=5)
 
-2026-07-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-09 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0ltMnBSRHZ5Q016SXZCRkFVelZlMl9wajFZNUgwdU9lWVBRNGJ3bGh6b2hENGttZmhMVVE3R2FKT0N1X3R5RnY1UnA0dnVVaXluVzlKT0pwUzRtZUVqXzF0cnJIZURxZ3RQcDlsb2tmS2I2WDlrRDA0MkxPaUpPM21tYW0zZjh5akVHZUFrMmpEaE5WaTZfQ0V3RkJIRkNqMmkxNzU4aGNZSmlSeHllOElPd0R6Nmc?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmswNFExU2RWMTljWkJqUHFDNVpvSFRfVnZ0X3E3cTMwVC1QV1pRaUd5Si1iVHM3ejVXc0hUTTMySmgwUmU0X3dZcWRhdXo0OEF6MlV5cHdXVjE2dE5zZTkxdVBhQ08xZTVaNnUyVWhqUEgxdWpyNkFuRGUtY2dRZzJFYmJvbEtlck15UGJMcXl4eUtwOHRlVC0tc0FrbHVCZnNtWU1GZk95SGg5Q00zQw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/micafungin/
 ---
 
 <p class="key-answer" data-question="Micafungin 有什麼相關新聞？">
-<strong>Micafungin</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Micafungin</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/micafungin/
 <p><a href="{{ '/drugs/micafungin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（21 則）
 
-### [El cáncer de piel es el tumor más frecuente y hasta el 90% de los casos podría prevenirse](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnpvcTZ1a1pZLXA3bG1RZGRneV9ib1VCMzRKbWVUd2JwZ3daT0I5RjcwbHYwMkRoQ3JIRDQ3MjRpQ18yQWV4WW5KLUtXVVIwclJOMHB6TTdUaTRkOHhMdXAxTW5uZVRmTmN3ek5EeTNuZk5KU1E5VEduWFlNbXUwY1p0VjBnemRLZDhLanBvb3N1S1NIcVlIVjU2YjdhcE4ySVhMcGh2cE5VeFdodFJBWDhB?oc=5)
+### [Un brossage buccal détecte le cancer de la bouche à 95 % en 1 heure](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0NGWlRYOUg5eGlvYWIySXk5UHVQVDNlVnFFVU1jT3lLTUI1RXhzZjZuOWZoVnZEZGR4U05zaWdBN3ZscEVsVGVFLWVRQXdpNmNKLWc4S01LdzFmazdkRFJVVG5oQy1WLWJsakNCMXRQWG5HZlFwdm92SmZ1b212RzZGU2RwMEVRTUhhQV9wQ05xeDA?oc=5)
 
-2026-07-09 <span class="news-indication-tag">tumor</span>
+2026-07-09 <span class="news-indication-tag">cancer</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnpvcTZ1a1pZLXA3bG1RZGRneV9ib1VCMzRKbWVUd2JwZ3daT0I5RjcwbHYwMkRoQ3JIRDQ3MjRpQ18yQWV4WW5KLUtXVVIwclJOMHB6TTdUaTRkOHhMdXAxTW5uZVRmTmN3ek5EeTNuZk5KU1E5VEduWFlNbXUwY1p0VjBnemRLZDhLanBvb3N1S1NIcVlIVjU2YjdhcE4ySVhMcGh2cE5VeFdodFJBWDhB?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0NGWlRYOUg5eGlvYWIySXk5UHVQVDNlVnFFVU1jT3lLTUI1RXhzZjZuOWZoVnZEZGR4U05zaWdBN3ZscEVsVGVFLWVRQXdpNmNKLWc4S01LdzFmazdkRFJVVG5oQy1WLWJsakNCMXRQWG5HZlFwdm92SmZ1b212RzZGU2RwMEVRTUhhQV9wQ05xeDA?oc=5)
 
 ---
 
@@ -118,19 +118,19 @@ permalink: /news/micafungin/
 
 ---
 
-### [Y a-t-il vraiment de bonnes raisons pour élargir le dépistage de masse du cancer du sein ? - La Libre.be](https://news.google.com/rss/articles/CBMi9wFBVV95cUxObjRZbmYzakw2b1FpRW4tY3hpanFXcFBxOWlCSXB4eEdiRmxwbTU4OXZubUhBc1hibDBXWmM2QVZ0MF9Zdk1BeGw5RFFuaXl0NHZOd2lfWDVlUkpJRllKZ1drTUQ5akdjdG5NYUhCdk9yVFktUmFSelRabWVVOTRfZFFtMkpJU2FveWo1U09WTG4wbnNfaHVqcnhIYmVEWkpLQWUtOFRKeUF1empKTjNpVklfc3ViWVhrbU1NNjVQLW4wQms3NURjc01HU0c4em5CbS1jUFNtVVRiZVFQU0pXdzY1X3lybElMQjl3VURZU01qcWVYMGFz?oc=5)
+### [Cancer : comment l'entraide animale a favorisé des gènes protecteurs](https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3dUVFlDS3hpeEtHQkt6NHRISXJSb3FxX1htSHBsOEEyODZHMGV5RFZuUzA1UjJ1a1pvNWhlTktEZ2RuVWpVd3I0c1NNVVd5ZFlmUTBaN0VyWTk0N0sxY1hLX0Iyb3dmZV8teF9kaVZtdW5fOUozdzlZYkdvOXBPajc2QTlDOWhvNUkzcmsxdzlzQjBINkgwSjVMbm01RXNhdDNnVkJFSGZhVC1nTldrM2JFQXRJdnU2YUdjaF9vUXlNQS1icXZKc25BOA?oc=5)
 
 2026-07-09 <span class="news-indication-tag">cancer</span>
 
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMi9wFBVV95cUxObjRZbmYzakw2b1FpRW4tY3hpanFXcFBxOWlCSXB4eEdiRmxwbTU4OXZubUhBc1hibDBXWmM2QVZ0MF9Zdk1BeGw5RFFuaXl0NHZOd2lfWDVlUkpJRllKZ1drTUQ5akdjdG5NYUhCdk9yVFktUmFSelRabWVVOTRfZFFtMkpJU2FveWo1U09WTG4wbnNfaHVqcnhIYmVEWkpLQWUtOFRKeUF1empKTjNpVklfc3ViWVhrbU1NNjVQLW4wQms3NURjc01HU0c4em5CbS1jUFNtVVRiZVFQU0pXdzY1X3lybElMQjl3VURZU01qcWVYMGFz?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3dUVFlDS3hpeEtHQkt6NHRISXJSb3FxX1htSHBsOEEyODZHMGV5RFZuUzA1UjJ1a1pvNWhlTktEZ2RuVWpVd3I0c1NNVVd5ZFlmUTBaN0VyWTk0N0sxY1hLX0Iyb3dmZV8teF9kaVZtdW5fOUozdzlZYkdvOXBPajc2QTlDOWhvNUkzcmsxdzlzQjBINkgwSjVMbm01RXNhdDNnVkJFSGZhVC1nTldrM2JFQXRJdnU2YUdjaF9vUXlNQS1icXZKc25BOA?oc=5)
 
 ---
 
-### [Marburg-Virus in Uganda; Therapie der chronischen Hepatitis B; HIV und Krebsrisiko durch HPV](https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0ltMnBSRHZ5Q016SXZCRkFVelZlMl9wajFZNUgwdU9lWVBRNGJ3bGh6b2hENGttZmhMVVE3R2FKT0N1X3R5RnY1UnA0dnVVaXluVzlKT0pwUzRtZUVqXzF0cnJIZURxZ3RQcDlsb2tmS2I2WDlrRDA0MkxPaUpPM21tYW0zZjh5akVHZUFrMmpEaE5WaTZfQ0V3RkJIRkNqMmkxNzU4aGNZSmlSeHllOElPd0R6Nmc?oc=5)
+### [Tiny silica particles wiped out aggressive prostate cancer in mice](https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5)
 
-2026-07-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-09 <span class="news-indication-tag">cancer</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0ltMnBSRHZ5Q016SXZCRkFVelZlMl9wajFZNUgwdU9lWVBRNGJ3bGh6b2hENGttZmhMVVE3R2FKT0N1X3R5RnY1UnA0dnVVaXluVzlKT0pwUzRtZUVqXzF0cnJIZURxZ3RQcDlsb2tmS2I2WDlrRDA0MkxPaUpPM21tYW0zZjh5akVHZUFrMmpEaE5WaTZfQ0V3RkJIRkNqMmkxNzU4aGNZSmlSeHllOElPd0R6Nmc?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5)
 
 ---
 
@@ -147,14 +147,6 @@ permalink: /news/micafungin/
 2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[RTBF](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN0dHbldDQlFnXzZFT200YUFSSUtMU1Nta1RZWHZyM0NrZGJwSFpTeUFNZ0h3ZDM3U1Rwd25wYzRtRGc1RDRBQUJqLUlYdVVZaDRQUE9lYUp5RlR4LWxoMUQ4MG1PR3pza0p3OWlrbVBpWGhUWWJSMHh4UlhWbkRXS1RNUzB1d01xc3VYcWktMTJMc2ZZbGF1TExKRGNoQmNIQzZOZ1NPRFdpaHM5eHhzWC11aDNjNUxab2U2RklGR19rWFhEaTg5Zw?oc=5)
-
----
-
-### [Investigadores españoles cambian la lucha contra el cáncer al lograr frenar tumores en ratones utilizando campos electromagnéticos: "Los resultados son muy prometedores"](https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTmZlMDdEU2R6NEc1Q192X3Bjei1kR0Nid0hsX254RUJRRkJzaGoyMVVISWtXNDdHYjJ4bFVKekQ4NTlSdGN2ZllzQ0FyeTVFWXNLbFZTdEtPTTVWVWgtQ18tcC1RSjBSY1ZieldPcm1wWE5WVHhNYlFOQTdsc1g2T2NqR09LY0xyZk1qMnN0czFfSEVKanp1T29KX2ZEUE5fT3ZGUTZMRHhfbWd6U3VROXI1RTcxbkVZdVlPYkVlWEJSMW9WNDBQdW4tcHduTTlVRGVyeVN6U3dEOGNZMFliUlIyTmtXOXQyVXhEREY4ZzRQd0VHRFMydmxsMk9xQXdlbDR3TEhMY21ydURDekgxSEVadF83dHVmdUpVMGhQdjNqd3dfZnlYVkZfRnBQWlc0dGxpM05IU1BycXpsQ3ZPcURWM3BGTG5oRGhhRnVDOFk0QkFLOFdHZlBn0gHfAkFVX3lxTE1oZkY2VmhsaXpKR3BTMlNfNkZEY1RZemd5c25TbENaWE4wZDJUVWYyYWZ5bVNWd3ZlbURyOWVWT3ZFNXItOHItNEFYc0RqZHoxM2laMVBDemltQTZCRFBMV1cxWWRnQVc4QVdJRnhSaVNnVTNpV1FDMmFuUXdvUFAtQzRiTXE2c2dWdzh5RG9YU3VqYXM2UnJiLWpLUVh3UXMyOW10cjNSZ0loNEVuVVVrRG1vZXBxcHNVQXR1eTFjWG4xY0QtNGhnN2RQY3dMZl9ZMTZqMnp0ejFvbG95RXJGRjE1MGVWMVA0b3dxT2doWmZBMjdiYzVLaDM3TTNxM2NfcXYzSVMycFlzMk55X1kxRzVoT29zTVIzRXZIOGRJZnB3eFdrdWdwTVRSVDZmcXRYSldIakZOUnNUS3lNYUFIQXZSOVdlYktOWVQ5VmNhUW5JcWhDSkl4aVpEYUtGOA?oc=5)
-
-2026-07-08 <span class="news-indication-tag">tumor</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTmZlMDdEU2R6NEc1Q192X3Bjei1kR0Nid0hsX254RUJRRkJzaGoyMVVISWtXNDdHYjJ4bFVKekQ4NTlSdGN2ZllzQ0FyeTVFWXNLbFZTdEtPTTVWVWgtQ18tcC1RSjBSY1ZieldPcm1wWE5WVHhNYlFOQTdsc1g2T2NqR09LY0xyZk1qMnN0czFfSEVKanp1T29KX2ZEUE5fT3ZGUTZMRHhfbWd6U3VROXI1RTcxbkVZdVlPYkVlWEJSMW9WNDBQdW4tcHduTTlVRGVyeVN6U3dEOGNZMFliUlIyTmtXOXQyVXhEREY4ZzRQd0VHRFMydmxsMk9xQXdlbDR3TEhMY21ydURDekgxSEVadF83dHVmdUpVMGhQdjNqd3dfZnlYVkZfRnBQWlc0dGxpM05IU1BycXpsQ3ZPcURWM3BGTG5oRGhhRnVDOFk0QkFLOFdHZlBn0gHfAkFVX3lxTE1oZkY2VmhsaXpKR3BTMlNfNkZEY1RZemd5c25TbENaWE4wZDJUVWYyYWZ5bVNWd3ZlbURyOWVWT3ZFNXItOHItNEFYc0RqZHoxM2laMVBDemltQTZCRFBMV1cxWWRnQVc4QVdJRnhSaVNnVTNpV1FDMmFuUXdvUFAtQzRiTXE2c2dWdzh5RG9YU3VqYXM2UnJiLWpLUVh3UXMyOW10cjNSZ0loNEVuVVVrRG1vZXBxcHNVQXR1eTFjWG4xY0QtNGhnN2RQY3dMZl9ZMTZqMnp0ejFvbG95RXJGRjE1MGVWMVA0b3dxT2doWmZBMjdiYzVLaDM3TTNxM2NfcXYzSVMycFlzMk55X1kxRzVoT29zTVIzRXZIOGRJZnB3eFdrdWdwTVRSVDZmcXRYSldIakZOUnNUS3lNYUFIQXZSOVdlYktOWVQ5VmNhUW5JcWhDSkl4aVpEYUtGOA?oc=5)
 
 ---
 
@@ -206,6 +198,14 @@ permalink: /news/micafungin/
 
 ---
 
+### [El VPH y las lesiones precancerosas afectan con frecuencia a los trasplantados renales - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
+
+2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1hiZWF1cnNJbEE4a1ZWd1hZYkExX0dLTHlWX1RVR01OS3c5Vkd2NTF0eEl3ckdSODhEMnZHODRqaWdJSjRTeGhaRmdoQzFaNXhNMTgtbW8xcS1DVFNCbmxtd1BlUHRBSGhfc2RNODZnSnVwbVNhamZKdlFldjFzVkhpLWM3bW9Sc0E0MkZZUWlPeUp0bllrV2NCbjhvWElyWVdMSGczelpwS3ZNUU5qaVRqQzlmNHdqc2xRYk56TjZJRHfSAb4BQVVfeXFMUERLSEhzbE04dENnc2ktX2JQeWdWbGlESkxZLUpZZHNyWGlSUklOSDRwZU9uUm9OZ0M2UVVjbzhLVThiN2JRcWVyRWJXYW0zT3RGdXZMV2h4MjFXUXROT2d3Skh3Q3Q5QXZfbUZFTGhRUWs2MFFEcHBfVC11Z3VESGpUdVlCTVB3ZFRaeFB2UVJQT1pMQ2FYRlVLd01CbkZYdGNHWTllTmZ1bE9wOHpFWkF0RjFXUDFlNjBSLS12QQ?oc=5)
+
+---
+
 ### [Stimme als Frühwarner: KI erkennt Atemwegs-Schübe drei Tage voraus](https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3I5a1hwV3psRnhUTWRkcXJTQkFQOW9WNEpJUktIMWFaRV9EeDNmZ2ZzbVAtX0pIWlF5d08tbUQ5MnJ4Z0R2QjlaUGZCZ0VqbnFYdXRncFhwQUVPcVkzb2txQ29pZm8tX0JtQ1dEczFwTk5fblJJUG5mQTBHMHhxUm93WEZCdVNJTkRLbjFDRjhRVkZRakZoMnJZaVdpYVNURG1mNzlOUDNqallGVElvQTUzY2Q0SUk?oc=5)
 
 2026-07-08 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
@@ -219,22 +219,6 @@ permalink: /news/micafungin/
 2026-07-08 <span class="news-indication-tag">cancer</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVlBVW5tY2JYdjRJbm5mOWlfWWwzNzBVTlJqVVdpc09DUndHQURaekdBbGIzSXM2dzhlWWhNaVotem1KX0hnYnRsMDlpa011dEhDSFNLcFUwaXF1VTRzenlWRE5Nb2xqdVI3TGlyTEVuTjFVZjJ5UGE2LU51VmxrUXkxMTItbEFi?oc=5)
-
----
-
-### [More than 40% of women only diagnosed with 'silent' cancer after A&E trip - 10 'under the radar' signs to NEVER ignore - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5odzZibW5CMkZncXFmUENfOTk2dzNpNllMSHdWenNsNU1wSUlFcWY5OHFITC1LLW0yLWstalAwaHhjQ2Zjc1ItdGhueEN0bC1Xbm9jT2h6V2NLcUpia0IwMVdlcnJXZTdZTUZYREUwbHJJdENjN3NUVkJIUzUwb1E?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE5odzZibW5CMkZncXFmUENfOTk2dzNpNllMSHdWenNsNU1wSUlFcWY5OHFITC1LLW0yLWstalAwaHhjQ2Zjc1ItdGhueEN0bC1Xbm9jT2h6V2NLcUpia0IwMVdlcnJXZTdZTUZYREUwbHJJdENjN3NUVkJIUzUwb1E?oc=5)
-
----
-
-### [5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
-
-2026-07-07 <span class="news-indication-tag">cancer</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndlSlpVSDZNQTNEby1xd0drSmdfVWtkcFRpMnllWmZJUk11ZTdIY0pzbHZUTnNqRTZreXpKd0QyY3llZnUyYUhuR0xLdnhqSEhaeERfSXZ0MjF6QUxDU1h0Sl85cnlBbUlSZFA1b2FycmRERFRXSk0zbVBZVXFLck5HNXZvVlVVTTBj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
 
 ### [Tratamiento combinado de psoriasis y obesidad: pasos en la misma dirección hacia el manejo holístico del paciente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/natalizumab/
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
-
----
-
-### [Un equipo de la Universidad de Málaga demuestra nuevas conexiones entre obesidad, diabetes y alzhéimer](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnFsM0w4NTA5R3hBYVh6Q0JoMUF0WjdIcHo4bFc4cUZyM0FZZE5PRE5XUTdjNnlSdDEwSlZyczQ2SzFlWnF2SFZpcG0zMFZaNGkxYU9JUF85b05lTGpoZnJPQ2w0RURZa0FXUTJsRXdZYlRmYlgzMDhZQWsyZlpTcTNWVW03Y3B1alh0TG5WYzVMQmxvd3lNZHlxUEpfZ0ZGWXJBTE55UFZIT2pqQTloQ2lWSkZaZkFpeUh3Q01oNTBrUVFYMFNxSNIBzgFBVV95cUxQeDFjTWxHaXY5bU9NdWVEcUpROHI3Y21HbUExMldYcXpNakgwNVh1M3J1UmdVZngycW9WTW9qVmN2MHkxOUlYeW1oZ2NEYVpjZEItMDJGVk9ubHBWSlpZZGtYcEk4STJWS1QzS3RHM3Jzb2FESnY3RkFpOGFTa1VZTzQ2WUJfakZ1d3Y2bVBHWmNUbDdMeWMzeG9mbUpiakstb205UEctWHFqdjhMOVNYNGFLb1ZpLXBhUEg2aldLbE1RSFhFWldfV3RRYl9pZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Un estudio internacional señala un nuevo efecto del ibuprofeno: puede ayudar a millones de personas - Diario AS](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONm9rUlhCOWp3eGZZNk9DNWsxVjg0NFpnOUxkaUp1ek1xdFNkMk5DTHVlcGhlU0E2aF80dmc2WGtiWnVTWTJtbDl0QlppVE50U3EwVXVnVGlaWS1ucnBZQV9sSEdPXzJOTVN2Ykd4Y0NJT0RTT1FwdHJsQjllT3ZlbTdXNTZ0VXFTU19SWmxsS0ZCU2pGU0dlUDRIZmRoVmNnb2txVUJZTnFlbHVJUXF2UllqXzBzclljVGR6azdVTkdtNUJqcTFFRFhfLW1BRXRRemJ0Mno4MHVPS0nSAe8BQVVfeXFMT0VIQTBINmtub0FNZ2Vnb0hnM2xuUG9pYTVwVXRBOVVvRnVRd3Q1YV9KS1V6aTRDdUpWMENNRmlYRVVxTHNnM1htcGZWOWhJc09wejVuc2ZpazRsTUlPQXpTVGg4LS1ZUHlBcGdvWGZVV0JsRVJTcl9WOTZaaExSWmkwZEUzemJBbXlheHFyNm1xUUdZazktZUdiR0tucElOemR4LVNqSmdOWXFSSWd0dU56RHdXOXZaSU5kZWVmUGRHM0hjZXBsbHJXYnlHNGpKWGl1Ny1rWWw0YkNsRGJITzhfcE5Ya3k5dFFzcGdSNWs?oc=5)
+
+2026-07-09 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[Diario AS](https://news.google.com/rss/articles/CBMi2wFBVV95cUxONm9rUlhCOWp3eGZZNk9DNWsxVjg0NFpnOUxkaUp1ek1xdFNkMk5DTHVlcGhlU0E2aF80dmc2WGtiWnVTWTJtbDl0QlppVE50U3EwVXVnVGlaWS1ucnBZQV9sSEdPXzJOTVN2Ykd4Y0NJT0RTT1FwdHJsQjllT3ZlbTdXNTZ0VXFTU19SWmxsS0ZCU2pGU0dlUDRIZmRoVmNnb2txVUJZTnFlbHVJUXF2UllqXzBzclljVGR6azdVTkdtNUJqcTFFRFhfLW1BRXRRemJ0Mno4MHVPS0nSAe8BQVVfeXFMT0VIQTBINmtub0FNZ2Vnb0hnM2xuUG9pYTVwVXRBOVVvRnVRd3Q1YV9KS1V6aTRDdUpWMENNRmlYRVVxTHNnM1htcGZWOWhJc09wejVuc2ZpazRsTUlPQXpTVGg4LS1ZUHlBcGdvWGZVV0JsRVJTcl9WOTZaaExSWmkwZEUzemJBbXlheHFyNm1xUUdZazktZUdiR0tucElOemR4LVNqSmdOWXFSSWd0dU56RHdXOXZaSU5kZWVmUGRHM0hjZXBsbHJXYnlHNGpKWGl1Ny1rWWw0YkNsRGJITzhfcE5Ya3k5dFFzcGdSNWs?oc=5)
+
+---
 
 
 <div class="disclaimer">
