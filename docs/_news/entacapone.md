@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Une avancée israélienne pourrait permettre de diagnostiquer Alzheimer avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
+
+2026-07-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[IsraJ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
+
+---
 
 ### [El Atlas de la Enfermedad de Alzheimer desvela un abordaje muy desigual entre países - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEJRb2l1NjdzNTNOUTVLYmk3MVhsaVVCTmxIZEdCNEhoa2lNdWF3eHhHN1BIRUZ5M3lMSHdxT0NKV0JsXzF0V096cWRETVMzLTZNRnFPRjRZVkwyNnE2UUFid01SdGQ0UG56d0JrVHpZX3FQR281M0ZtYTYxTlN2ZUd2SXBhbnQzdnVocUNid0ZSR0pCdnN1S04zOThTT19ETUp2Z0VXSlc0OE4zcGlWc2lwV3R2LVVi?oc=5)
 

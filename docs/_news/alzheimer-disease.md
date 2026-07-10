@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# enfermedad de Alzheimer（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Une avancée israélienne pourrait permettre de diagnostiquer Alzheimer avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
+
+2026-07-09
+
+來源：[IsraJ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
+
+---
 
 ### [El Atlas de la Enfermedad de Alzheimer desvela un abordaje muy desigual entre países - El médico interactivo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEJRb2l1NjdzNTNOUTVLYmk3MVhsaVVCTmxIZEdCNEhoa2lNdWF3eHhHN1BIRUZ5M3lMSHdxT0NKV0JsXzF0V096cWRETVMzLTZNRnFPRjRZVkwyNnE2UUFid01SdGQ0UG56d0JrVHpZX3FQR281M0ZtYTYxTlN2ZUd2SXBhbnQzdnVocUNid0ZSR0pCdnN1S04zOThTT19ETUp2Z0VXSlc0OE4zcGlWc2lwV3R2LVVi?oc=5)
 
