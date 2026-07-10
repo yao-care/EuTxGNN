@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。18 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>18 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,31 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
+
+### [Comment la chaleur tue : l’effet domino sur le cœur, les reins et le cerveau](https://news.google.com/rss/articles/CBMingFBVV95cUxQV1BoOGZWc1Q2N0FGZEg1MVQ2Ynl5TG1iYXd3NjdjSVg5WXFnT3VCZDQ0cDBoVDlfNlRpZ0RNb3c5LVIwS0NNRXYxUlBkMGlPaHFIWTI2Z1NnV2VzRVJlVld1Uk5zTXRuN3RzTXEtU3V6dWxhQmpuQkt2eUlfdTl5aEYzTmh6d0dqMU5lQ1EwbmFiQkxQNkgtZ2VmRU83UQ?oc=5)
+
+2026-07-10
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMingFBVV95cUxQV1BoOGZWc1Q2N0FGZEg1MVQ2Ynl5TG1iYXd3NjdjSVg5WXFnT3VCZDQ0cDBoVDlfNlRpZ0RNb3c5LVIwS0NNRXYxUlBkMGlPaHFIWTI2Z1NnV2VzRVJlVld1Uk5zTXRuN3RzTXEtU3V6dWxhQmpuQkt2eUlfdTl5aEYzTmh6d0dqMU5lQ1EwbmFiQkxQNkgtZ2VmRU83UQ?oc=5)
+
+---
+
+### [Legionnaires' outbreak hits New York as officials rush to test water towers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RV0xvUzZJTFVueEU0cXdfUTlkXzNJcTM1bXliTG1OQVV1WUx2clp6M3VXZkdnNTh2Vi1ValhFengzVnNOUVpmQ0NvallaR3pKZzBwbHRqTzFJS1NS?oc=5)
+
+2026-07-10
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RV0xvUzZJTFVueEU0cXdfUTlkXzNJcTM1bXliTG1OQVV1WUx2clp6M3VXZkdnNTh2Vi1ValhFengzVnNOUVpmQ0NvallaR3pKZzBwbHRqTzFJS1NS?oc=5)
+
+---
+
+### [El ébola causa 625 muertes en República Democrática del Congo mientras los casos confirmados se acercan a los 1.800](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV2FCeTFFaUVkZ1NJV2ZyYWxrQjhSWVVvU25EWTV4N2pLVk8xWE54M0JnZFRPTVB1TkwwOElIVlVpUVBXQlZLVXpPOHprSnpXR1VvSEREU3R3dDFYZTlKbmpwWEQzV3ZGTTRmWHFDUW0waHQyd1ZQSlY3RjA0VUNsOWlPcDBSU1k3SzN5MFRiWmcwcWZsdWRVQVFhZGlCNTJuQW5Yd2J2QlpXdVRhQUxya2c2RmJ5UWUxVlR0TmlBRXZsRElnVWFONXVkV3BBNnIxSUNXTE84OXdDaGNL?oc=5)
+
+2026-07-10
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV2FCeTFFaUVkZ1NJV2ZyYWxrQjhSWVVvU25EWTV4N2pLVk8xWE54M0JnZFRPTVB1TkwwOElIVlVpUVBXQlZLVXpPOHprSnpXR1VvSEREU3R3dDFYZTlKbmpwWEQzV3ZGTTRmWHFDUW0waHQyd1ZQSlY3RjA0VUNsOWlPcDBSU1k3SzN5MFRiWmcwcWZsdWRVQVFhZGlCNTJuQW5Yd2J2QlpXdVRhQUxya2c2RmJ5UWUxVlR0TmlBRXZsRElnVWFONXVkV3BBNnIxSUNXTE84OXdDaGNL?oc=5)
+
+---
 
 ### [Red-flag symptoms of sexually-transmitted tummy bug surging NOW…how to avoid - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXRyYWJlZ1hrdU5RdEluMFY4MU02YndfcHRoYjVObU1rOWhtb2FIbmtVVGtmQ0o4UG5Ra21fcjk0UHZJbnMyT2tSc0IyTWVnRzlJOGYtWHBLNUJuM24tcTNEeUpFTVVzMVUxd01sT01kVzdFMWpPcVBSaTRYVkhDRXFLSG5rZU42OFQ5Q2FB?oc=5)
 
@@ -72,14 +96,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La RD del Congo eleva a 625 el número de muertos por ébola](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnZVb0NYclEtMEVGX0hhbnBicmRCV2dNNnQyd2ZIZGtmLW9qQWVfdlptV09BLXpGd2R5ZGFSVU1TelJCajl1dGpxRmhsSjdYSUJMOEhKdUF4ckpQREtOWlkxbEhRMDF4QWU3STFZSjF1SVJWdzRzUk1iWUJpTUJDM3JIeU12NFRoakF6eW81N19UNGpsMlBFSDdxb09Mc1MzNzFR0gGjAUFVX3lxTE5QVEJjbFptRkxnMXNMdlBrdWs2U21jYkNZS1B1Zkp4QjNEa0s5Rlhtam05UGtncnE3N3dLQy1sLUlNa0hnRm9sU0Jhb1ZaNGNiOTBqUEpMR3dVYmZ4elJHQ1Q4V1c3YXFQU0g0bTVqWjVKSEtFVW5IanFrSUM5a2hQc1VTTEthdDVRN1poTGFfamNTNmltQ01HTTJJOHUySndmME0?oc=5)
-
-2026-07-10
-
-來源：[DW.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnZVb0NYclEtMEVGX0hhbnBicmRCV2dNNnQyd2ZIZGtmLW9qQWVfdlptV09BLXpGd2R5ZGFSVU1TelJCajl1dGpxRmhsSjdYSUJMOEhKdUF4ckpQREtOWlkxbEhRMDF4QWU3STFZSjF1SVJWdzRzUk1iWUJpTUJDM3JIeU12NFRoakF6eW81N19UNGpsMlBFSDdxb09Mc1MzNzFR0gGjAUFVX3lxTE5QVEJjbFptRkxnMXNMdlBrdWs2U21jYkNZS1B1Zkp4QjNEa0s5Rlhtam05UGtncnE3N3dLQy1sLUlNa0hnRm9sU0Jhb1ZaNGNiOTBqUEpMR3dVYmZ4elJHQ1Q4V1c3YXFQU0g0bTVqWjVKSEtFVW5IanFrSUM5a2hQc1VTTEthdDVRN1poTGFfamNTNmltQ01HTTJJOHUySndmME0?oc=5)
-
----
-
 ### [Cancro, l'Oms avverte: casi mondiali potrebbero aumentare del 70% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
 
 2026-07-10
@@ -90,25 +106,9 @@ permalink: /news/multiple-sclerosis/
 
 ### [Man’s bum ‘exploded’ after being ignored by doctors for months](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hleEpUd0RjTC1wWUlhdERWM2Faam9DeHRpSlpMelpCTERmN2N3Q1c4bnE2Ykk4OHNjSGdzVnFjM29WZ1R3aUxyZkYzZUF1RWtrcnAzeS1yemlsMVRmQmtMRi1XQVQxaGx4ZXdMX2Z2MXVTTWV6ZDIzanl4ZTlVQ1pXWFBqZVlScU45U1FEQnV1cXlITkJmWEFR?oc=5)
 
-2026-07-10
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hleEpUd0RjTC1wWUlhdERWM2Faam9DeHRpSlpMelpCTERmN2N3Q1c4bnE2Ykk4OHNjSGdzVnFjM29WZ1R3aUxyZkYzZUF1RWtrcnAzeS1yemlsMVRmQmtMRi1XQVQxaGx4ZXdMX2Z2MXVTTWV6ZDIzanl4ZTlVQ1pXWFBqZVlScU45U1FEQnV1cXlITkJmWEFR?oc=5)
-
----
-
-### [Deadly H5 bird flu found in local Australian seabird for first time - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUJ4dFNjU18yanpiY3VJZkdMd0ZFeXE3ZERCLVdpa21Jdk5oZVJ5WTUxQTJLMmN4cmxETHNQVXhJMER2c3pQX3c1blNiYVVUc3NvcmM2cG1YZUtXQ1BseF9WVkZSSlM0VTc3NFcwVnM5Wm9TMjE0WGlRNkpseldXOTBMSUpHbjd4Sm5pM2xpa1NUNU9yb3VhRm9pMlFYdHR2aThLSV8wT3ZGRDRsbS0xRk11Y2JCVGxVdkdOYXJRbw?oc=5)
-
-2026-07-10
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUJ4dFNjU18yanpiY3VJZkdMd0ZFeXE3ZERCLVdpa21Jdk5oZVJ5WTUxQTJLMmN4cmxETHNQVXhJMER2c3pQX3c1blNiYVVUc3NvcmM2cG1YZUtXQ1BseF9WVkZSSlM0VTc3NFcwVnM5Wm9TMjE0WGlRNkpseldXOTBMSUpHbjd4Sm5pM2xpa1NUNU9yb3VhRm9pMlFYdHR2aThLSV8wT3ZGRDRsbS0xRk11Y2JCVGxVdkdOYXJRbw?oc=5)
-
----
-
-### [Sodbrennen: Ernährung schlägt Protonenpumpenhemmer mit 81 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjdrNTlJbldHUHhzaWNSZkpuVTZHQ0tGbWVXRk9QTGQtQTlLMHlZOHRLV1ItLWZ1OExKQVJwb2JETW9WNS1yYk82RnlIck80dWR1Q2taTFc4ZEg0RmZNLVdpLVd4Nmsta24wRjhsNmlUU0wtRUFmZGZHckNCbVV1UWtrWHNUSmlTd2pMZEFlNkplUGpxME9PbWFVQVVMT2NBc19wYVp2YURtR2dPRlE4Q2RhTWJPUQ?oc=5)
-
 2026-07-09
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjdrNTlJbldHUHhzaWNSZkpuVTZHQ0tGbWVXRk9QTGQtQTlLMHlZOHRLV1ItLWZ1OExKQVJwb2JETW9WNS1yYk82RnlIck80dWR1Q2taTFc4ZEg0RmZNLVdpLVd4Nmsta24wRjhsNmlUU0wtRUFmZGZHckNCbVV1UWtrWHNUSmlTd2pMZEFlNkplUGpxME9PbWFVQVVMT2NBc19wYVp2YURtR2dPRlE4Q2RhTWJPUQ?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hleEpUd0RjTC1wWUlhdERWM2Faam9DeHRpSlpMelpCTERmN2N3Q1c4bnE2Ykk4OHNjSGdzVnFjM29WZ1R3aUxyZkYzZUF1RWtrcnAzeS1yemlsMVRmQmtMRi1XQVQxaGx4ZXdMX2Z2MXVTTWV6ZDIzanl4ZTlVQ1pXWFBqZVlScU45U1FEQnV1cXlITkJmWEFR?oc=5)
 
 ---
 
@@ -136,11 +136,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
+### [GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
 2026-07-09
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
 ---
 
@@ -149,6 +149,14 @@ permalink: /news/multiple-sclerosis/
 2026-07-09
 
 來源：[radio schwaben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHI3c0lKU25QOGNDNmZ0Yzl0ZjhESHNKd09keWxyLVBqSEpsbEpjTWRTWmk4aGVxM0UzR3FHRjJabVlXTWduMDZMcmxSWjlsOERxT3hEQk5BZTFnTVI2Q0ltSGx4OWg1MmdGMkRnSGtJZldNYkRqeXVxcld5YzE2M204QlU4bHhFMmdiTVQzZzQxRmN3dVlNMHN1UWhJb2VNM0ZUVTlWZktTME9UN0tUVDdrcEZTZVNKR00waTdsOVRUSTJUdXEwaHIwOWlFWjZKMURWN240YTVOeVZzUG5WaE9sT1ptQUNPZ19CeA?oc=5)
+
+---
+
+### [Farmaci anti obesità: ecco le istruzioni di medici e dietologi per il loro uso corretto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
+
+2026-07-09
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
 
 ---
 
@@ -181,22 +189,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-08
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE12M3hmSXhYQ0NMdF9ja01KMC1PYmJmbDh4b2ZvbU5PTmdIMi1xRnFTWDBNRV9kQTNRdTlWT2dDb0MtS2lyMGlON2FsNUZ6ci1GUHRfVEhtR0F6Q0ls?oc=5)
-
----
-
-### [In a First, Chronic Fatigue Syndrome Linked to The Brain's Clearing System](https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0tJWjRtMVVVcGxDcF9YZlF4ZDI2VEdFRWx4WEdJWGpUQTJ0LWxFX0VUZ0ZnOGNobmdLcDZHeElXRHRTVzRCd3Y5Vm9OM3M1RlloWHdzVHFScGF2X0c3M2YzNEdoSTFqcUdKa2xhWFZoVC1UcWRDbnNPWjJhQzZpSm5qbEJkcVJCeFFla0RBdUYwUkh1ZWZCdEQ3X1hFTjd6MzdrUUsyUDVtWFFsY1BYSlVXRHBoNFBZbW5JTw?oc=5)
-
-2026-07-08
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0tJWjRtMVVVcGxDcF9YZlF4ZDI2VEdFRWx4WEdJWGpUQTJ0LWxFX0VUZ0ZnOGNobmdLcDZHeElXRHRTVzRCd3Y5Vm9OM3M1RlloWHdzVHFScGF2X0c3M2YzNEdoSTFqcUdKa2xhWFZoVC1UcWRDbnNPWjJhQzZpSm5qbEJkcVJCeFFla0RBdUYwUkh1ZWZCdEQ3X1hFTjd6MzdrUUsyUDVtWFFsY1BYSlVXRHBoNFBZbW5JTw?oc=5)
-
----
-
-### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
-
-2026-07-08
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 ---
 

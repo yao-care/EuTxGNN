@@ -14,7 +14,7 @@ permalink: /news/lebrikizumab/
 ---
 
 <p class="key-answer" data-question="Lebrikizumab 有什麼相關新聞？">
-<strong>Lebrikizumab</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lebrikizumab</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lebrikizumab/
 <p><a href="{{ '/drugs/lebrikizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（25 則）
 
-### [‘I just want to know if it has caused my cancer’: life in the shadow of Lancashire Pfas factory - The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTk3UEJnemRRSnVHOVVlX0ZXNE5GMml3aEZOR3p1YTZrTFpJYkQweHRvYVJ0bVRFYlpld0JLMDdua1J0WGFoWnJBMk43ZVFsTjR2c2RlR2tadFVkWFRveERMV19HRldlQllVV0VKUUhqbUVDREo1d2FhVjhLa2FMdHdBREJzbHVUTm9pV2ZmVDRtZm5USURBTjFyLV9DRUxVTksySWRYR2JuMHBKS1dvaTNnOW0?oc=5)
+### [Demenz-Prävention: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlJyLUZzT2daN2hTamRTZFROd1p2Zi00dWlBYnVNMHlEdGRJZi1HMWE4allITmQ0bG9WWnByR2l3ZVB0TnlLTjVIV0ppZDExU2hNYUwxQ0RxRHZUcjhBMjhQdDVtc0tHQ3VMMkxGcEhBbUZwSk1RZy0yRWtDS3JHZkhfVXBhX2FYdHVqQ1hCeGhtaHdsODNXR2Y0RFVKYmhGT0tWNEx1RzZzVTIybEtkSDRFLVV6Zw?oc=5)
 
-2026-07-10 <span class="news-indication-tag">cancer</span>
+2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTk3UEJnemRRSnVHOVVlX0ZXNE5GMml3aEZOR3p1YTZrTFpJYkQweHRvYVJ0bVRFYlpld0JLMDdua1J0WGFoWnJBMk43ZVFsTjR2c2RlR2tadFVkWFRveERMV19HRldlQllVV0VKUUhqbUVDREo1d2FhVjhLa2FMdHdBREJzbHVUTm9pV2ZmVDRtZm5USURBTjFyLV9DRUxVTksySWRYR2JuMHBKS1dvaTNnOW0?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlJyLUZzT2daN2hTamRTZFROd1p2Zi00dWlBYnVNMHlEdGRJZi1HMWE4allITmQ0bG9WWnByR2l3ZVB0TnlLTjVIV0ppZDExU2hNYUwxQ0RxRHZUcjhBMjhQdDVtc0tHQ3VMMkxGcEhBbUZwSk1RZy0yRWtDS3JHZkhfVXBhX2FYdHVqQ1hCeGhtaHdsODNXR2Y0RFVKYmhGT0tWNEx1RzZzVTIybEtkSDRFLVV6Zw?oc=5)
 
 ---
 
@@ -70,11 +70,27 @@ permalink: /news/lebrikizumab/
 
 ---
 
+### [Cancer : une expérimentation française veut réutiliser des médicaments non utilisés](https://news.google.com/rss/articles/CBMie0FVX3lxTE12YVZCSFA5ZnhSdWxUVmJ0UjVjc2tQVlM5cHRQV1BCWU9CVEd1T2V6MXd6aHhLSGV6dWI4SkM2ZktGT01hYm1ZWUliSzB1ekhtVl9JWDdMcVc4SGJ4ZVQ0QnEtQUEzMzZmR2owblplUGVtY2gzSzNsdTBkRQ?oc=5)
+
+2026-07-10 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE12YVZCSFA5ZnhSdWxUVmJ0UjVjc2tQVlM5cHRQV1BCWU9CVEd1T2V6MXd6aHhLSGV6dWI4SkM2ZktGT01hYm1ZWUliSzB1ekhtVl9JWDdMcVc4SGJ4ZVQ0QnEtQUEzMzZmR2owblplUGVtY2gzSzNsdTBkRQ?oc=5)
+
+---
+
 ### [Cancro, l'Oms avverte: casi mondiali potrebbero aumentare del 70% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
 
 2026-07-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
+
+---
+
+### [Cancers : à Lyon, le Centre Léon Bérard teste une prise de sang pour mieux choisir les traitements](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbktiRjdRTUI4T2dlYlg2a1lVejYwcTFOTWd2WDRfbk5fX2VwQjZObDFpaUswQTZpbGswWUFCOWdtYS1yV21oM1Z0dzhneHVtOXNmN2J1QUJLT0pwTEc1Q1dYZk9LenNoQWx5ODdyNlFBSFN0OXd3VmFveHFTNnVTMEd6QUthcDB6UXdQTzd3?oc=5)
+
+2026-07-10 <span class="news-indication-tag">cancer</span>
+
+來源：[ma-sante.news](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbktiRjdRTUI4T2dlYlg2a1lVejYwcTFOTWd2WDRfbk5fX2VwQjZObDFpaUswQTZpbGswWUFCOWdtYS1yV21oM1Z0dzhneHVtOXNmN2J1QUJLT0pwTEc1Q1dYZk9LenNoQWx5ODdyNlFBSFN0OXd3VmFveHFTNnVTMEd6QUthcDB6UXdQTzd3?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [BBC presenter and mum 'chose to act' before cancer with double mastectomies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KUXBZNUZpeVdJcHB1SHd2TGM5d0dFTi1zZ3otLXpHYzhXdTZYVHI4b25fbXJjWXpIa3I5NDJsVzZleDloMUY5VHEyZ2lUTDg2LTN4VUpTOXZKWURJ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KUXBZNUZpeVdJcHB1SHd2TGM5d0dFTi1zZ3otLXpHYzhXdTZYVHI4b25fbXJjWXpIa3I5NDJsVzZleDloMUY5VHEyZ2lUTDg2LTN4VUpTOXZKWURJ?oc=5)
-
----
-
 ### [Tumori, cresce l'incidenza negli under 50: perché i casi aumentano e cosa sappiamo davvero - Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVI2UjJtMUlRR2FhYUJwTFJ6cjBpeVBmelhiUF9PTmk5X2lMd0tXODlRcG1ocU1Oakh3QmFhc3BPTDVMeWtucXQ1R2RIRTdjbG9OYUJLNUlTNlF6d0ZxdWZEZkY5S0FqeVZEcW5PRTBUZXM3Z2pXejk5aDAwTjZxelN2c2hlNmhvOXpEcnlZNVVUMHFEdGE1SnctNFBKck9WUHJGZXFLVVpTMXVMbDRaSkg2M1ZOTXdzTDM5VA?oc=5)
 
 2026-07-10 <span class="news-indication-tag">tumor</span>
@@ -126,11 +134,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
+### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
 
 ---
 
@@ -142,22 +150,6 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [La bofanglutida afianza su capacidad para mejorar el control glucémico de la diabetes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
-
----
-
-### [Tratamiento combinado de psoriasis y obesidad: pasos en la misma dirección hacia el manejo holístico del paciente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
-
-2026-07-09 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
-
----
-
 ### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
 
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -166,11 +158,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Sotto i 40-50 anni si invecchia più velocemente: cosa sta succedendo nonostante si curi sempre di più la longevità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS3pQZjJzYUF4ZVdQNTQxdTBmZVZyb2c5ZVlkLTNGcDZGUXA3Nk11ZVZYeEY4Z3NDZllGZF9JdkFCZC13bTZmbXNsYk1pRDN5UHdGaDkzNzJBMzZYV2lHQU1JTUs5VEZ0ejFWdUJMXzI2ODhUbWVkRXRHeTRzMFc2MDhSVG45VTR6Vk9ya0JaTlJmaUlBdFBuZXVpUVE3Y21IOThQUzQ0QnhQa043YkpLYUV1TzJwZEhOVFFpQ3A4aGVES0xxaUU5MzdYc0ZlYzZHUnpmN2VVOV9Jd1c5ZFlXMlduZEtGZGVmV0xYaU55WkpNT2ht?oc=5)
+### [Destápate2026: la campaña que invita a los pacientes con psoriasis a perder el miedo a mostrar su piel este verano](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNazRRUXB5Mlk4MlFNcmMxVko3WnpiS3VlY1QtaDVyN3ZmSGpkcWV6WE1lblJhazB3ZldTY0VNdm8zY0cxajR5LTVwS1RJMnhFUVphcnZzb29ZdFZsMkxFZFFTU3BKQ05pQjVId3F0Q01hZXEwWU1qSVdEQjdQc3lvNmtSUUpBWlFkcDlEQ3BZTUxQaXVRS1RJNG5ldTB3VWV0WS1jQkhCRTBXQXVKdk9RcnFPVjQxQzRmWE4zUEtIVmFKcHZ6S1MtQi1EUkYzNzdzWHI1WDhnSEIxTEEtX1ctM09oZ2xsQzg?oc=5)
 
-2026-07-09 <span class="news-indication-tag">tumor</span>
+2026-07-09 <span class="news-indication-tag">psoriasis</span>
 
-來源：[Businessonline.it](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS3pQZjJzYUF4ZVdQNTQxdTBmZVZyb2c5ZVlkLTNGcDZGUXA3Nk11ZVZYeEY4Z3NDZllGZF9JdkFCZC13bTZmbXNsYk1pRDN5UHdGaDkzNzJBMzZYV2lHQU1JTUs5VEZ0ejFWdUJMXzI2ODhUbWVkRXRHeTRzMFc2MDhSVG45VTR6Vk9ya0JaTlJmaUlBdFBuZXVpUVE3Y21IOThQUzQ0QnhQa043YkpLYUV1TzJwZEhOVFFpQ3A4aGVES0xxaUU5MzdYc0ZlYzZHUnpmN2VVOV9Jd1c5ZFlXMlduZEtGZGVmV0xYaU55WkpNT2ht?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNazRRUXB5Mlk4MlFNcmMxVko3WnpiS3VlY1QtaDVyN3ZmSGpkcWV6WE1lblJhazB3ZldTY0VNdm8zY0cxajR5LTVwS1RJMnhFUVphcnZzb29ZdFZsMkxFZFFTU3BKQ05pQjVId3F0Q01hZXEwWU1qSVdEQjdQc3lvNmtSUUpBWlFkcDlEQ3BZTUxQaXVRS1RJNG5ldTB3VWV0WS1jQkhCRTBXQXVKdk9RcnFPVjQxQzRmWE4zUEtIVmFKcHZ6S1MtQi1EUkYzNzdzWHI1WDhnSEIxTEEtX1ctM09oZ2xsQzg?oc=5)
 
 ---
 
@@ -198,11 +190,27 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
+### [Omega-3-Mangel? Dr. Riedl erklärt, welche Supplements sinnvoll sind - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb2pCUjFGTUxYMno4VU0zV3pFOEV3OU1RZUZScTQ0a3JwRWJkWHlpR05SdXlHWnk2d1dNZUpqQ2JadjhJckZvenVrUDBNZjc0LUhsOWVuNHlfU1J3RkdWeTl0NDE4TVBCSjhKRUNidU4tb1BKR2xKMjRUNTlFOFd6ZlVBc3VoeHd2OEN3enM3Y2lxWi1UVFBCam1aUUxHTDNFcHBtUkFMRFFCejNhSnQ0WlZYekpTcUxRR2VaMnBUbk4wZ1NINEVnTnBBU1lTdUkySjVoUGJ3?oc=5)
+
+2026-07-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb2pCUjFGTUxYMno4VU0zV3pFOEV3OU1RZUZScTQ0a3JwRWJkWHlpR05SdXlHWnk2d1dNZUpqQ2JadjhJckZvenVrUDBNZjc0LUhsOWVuNHlfU1J3RkdWeTl0NDE4TVBCSjhKRUNidU4tb1BKR2xKMjRUNTlFOFd6ZlVBc3VoeHd2OEN3enM3Y2lxWi1UVFBCam1aUUxHTDNFcHBtUkFMRFFCejNhSnQ0WlZYekpTcUxRR2VaMnBUbk4wZ1NINEVnTnBBU1lTdUkySjVoUGJ3?oc=5)
+
+---
+
+### [Suva warnt vor starker Zunahme von beruflich bedingtem Hautkrebs](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUpUU3lkS1FoSWhOc3E1aUtsU1pOblJnODdqdnNoMkJKdlAxZjBLbWJ3QTJtLXZ2MGY1c18wZnpfQ1U3MDhKNXQ0RmZpRU9YVnBSS0JiR0w3bS01LWo1Tmo0d1ZHaDRJUnNIak4zRkNWR2R2c1dyM3ZKRUtELUJtSk05NThxYmlZ?oc=5)
+
+2026-07-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[Tages-Anzeiger](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUpUU3lkS1FoSWhOc3E1aUtsU1pOblJnODdqdnNoMkJKdlAxZjBLbWJ3QTJtLXZ2MGY1c18wZnpfQ1U3MDhKNXQ0RmZpRU9YVnBSS0JiR0w3bS01LWo1Tmo0d1ZHaDRJUnNIak4zRkNWR2R2c1dyM3ZKRUtELUJtSk05NThxYmlZ?oc=5)
+
+---
+
+### [GLP-1-Spritzen: Studie belegt Geruchs- und Geschmacksstörungen](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
 
 ---
 
@@ -214,14 +222,6 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [La bofanglutida consolida su potencial para mejorar el control glucémico en la diabetes tipo 2 - El médico interactivo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2RJQjdUXzcwZ3puRi1xZGlzMUI4SFlmc2FhVlJDdDRNUjZxdlR1THdNMms1TUlUNmotZUNXR3pwemJhQUtnQ3RIZnVuTFg5dFRPUFJybFdKbkFULWR0eTZ0cnROMWhhNTQ4RURZWEhsSHM1cWVyLXJyZU5IcHNLSXBWQmRQX2UtaE5pUzRQWld3ZTE2eTQwOVppa2t4bGZkcmNQZmVFeDI1Q2FFd0Q4dXJnT2h6ckJHMWpWMjNQV0ljSXZVdXc?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2RJQjdUXzcwZ3puRi1xZGlzMUI4SFlmc2FhVlJDdDRNUjZxdlR1THdNMms1TUlUNmotZUNXR3pwemJhQUtnQ3RIZnVuTFg5dFRPUFJybFdKbkFULWR0eTZ0cnROMWhhNTQ4RURZWEhsSHM1cWVyLXJyZU5IcHNLSXBWQmRQX2UtaE5pUzRQWld3ZTE2eTQwOVppa2t4bGZkcmNQZmVFeDI1Q2FFd0Q4dXJnT2h6ckJHMWpWMjNQV0ljSXZVdXc?oc=5)
-
----
-
 ### [Cancer : comment l'entraide animale a favorisé des gènes protecteurs](https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3dUVFlDS3hpeEtHQkt6NHRISXJSb3FxX1htSHBsOEEyODZHMGV5RFZuUzA1UjJ1a1pvNWhlTktEZ2RuVWpVd3I0c1NNVVd5ZFlmUTBaN0VyWTk0N0sxY1hLX0Iyb3dmZV8teF9kaVZtdW5fOUozdzlZYkdvOXBPajc2QTlDOWhvNUkzcmsxdzlzQjBINkgwSjVMbm01RXNhdDNnVkJFSGZhVC1nTldrM2JFQXRJdnU2YUdjaF9vUXlNQS1icXZKc25BOA?oc=5)
 
 2026-07-09 <span class="news-indication-tag">cancer</span>
@@ -230,19 +230,11 @@ permalink: /news/lebrikizumab/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1FtLXVTc0Rxa3J0X2VSTy0tWjlEdjNQbThsc3pnUUdSRWhzVXVCWHlhaXRoWXNyM1IwQlh0aDROcFNjcHBnNXpCREtYRDhjUkVYbGFRWG5vQVJPNTNkdFl6a29jdU9VZG16ajA4S09CMDhFdzNNMmJIMExvQzlMc3ZJM2tsZTJvWG1rNWNvTDhUajJGRDExTG91d3pQTVRRNGZXc05YVFctUU9QdmlTOV80Rlowbl9q?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1FtLXVTc0Rxa3J0X2VSTy0tWjlEdjNQbThsc3pnUUdSRWhzVXVCWHlhaXRoWXNyM1IwQlh0aDROcFNjcHBnNXpCREtYRDhjUkVYbGFRWG5vQVJPNTNkdFl6a29jdU9VZG16ajA4S09CMDhFdzNNMmJIMExvQzlMc3ZJM2tsZTJvWG1rNWNvTDhUajJGRDExTG91d3pQTVRRNGZXc05YVFctUU9QdmlTOV80Rlowbl9q?oc=5)
-
----
-
-### [Diabetes: Kontinuierliches Monitoring senkt Herzinfarkt-Risiko um 72% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
+### [Diabetes: Kontinuierliches Monitoring senkt Herzinfarkt-Risiko um 72%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
 
 2026-07-09 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
 
 ---
 
@@ -259,46 +251,6 @@ permalink: /news/lebrikizumab/
 2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
-
----
-
-### [Investigadores españoles cambian la lucha contra el cáncer al lograr frenar tumores en ratones utilizando campos electromagnéticos: "Los resultados son muy prometedores"](https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTmZlMDdEU2R6NEc1Q192X3Bjei1kR0Nid0hsX254RUJRRkJzaGoyMVVISWtXNDdHYjJ4bFVKekQ4NTlSdGN2ZllzQ0FyeTVFWXNLbFZTdEtPTTVWVWgtQ18tcC1RSjBSY1ZieldPcm1wWE5WVHhNYlFOQTdsc1g2T2NqR09LY0xyZk1qMnN0czFfSEVKanp1T29KX2ZEUE5fT3ZGUTZMRHhfbWd6U3VROXI1RTcxbkVZdVlPYkVlWEJSMW9WNDBQdW4tcHduTTlVRGVyeVN6U3dEOGNZMFliUlIyTmtXOXQyVXhEREY4ZzRQd0VHRFMydmxsMk9xQXdlbDR3TEhMY21ydURDekgxSEVadF83dHVmdUpVMGhQdjNqd3dfZnlYVkZfRnBQWlc0dGxpM05IU1BycXpsQ3ZPcURWM3BGTG5oRGhhRnVDOFk0QkFLOFdHZlBn0gHfAkFVX3lxTE1oZkY2VmhsaXpKR3BTMlNfNkZEY1RZemd5c25TbENaWE4wZDJUVWYyYWZ5bVNWd3ZlbURyOWVWT3ZFNXItOHItNEFYc0RqZHoxM2laMVBDemltQTZCRFBMV1cxWWRnQVc4QVdJRnhSaVNnVTNpV1FDMmFuUXdvUFAtQzRiTXE2c2dWdzh5RG9YU3VqYXM2UnJiLWpLUVh3UXMyOW10cjNSZ0loNEVuVVVrRG1vZXBxcHNVQXR1eTFjWG4xY0QtNGhnN2RQY3dMZl9ZMTZqMnp0ejFvbG95RXJGRjE1MGVWMVA0b3dxT2doWmZBMjdiYzVLaDM3TTNxM2NfcXYzSVMycFlzMk55X1kxRzVoT29zTVIzRXZIOGRJZnB3eFdrdWdwTVRSVDZmcXRYSldIakZOUnNUS3lNYUFIQXZSOVdlYktOWVQ5VmNhUW5JcWhDSkl4aVpEYUtGOA?oc=5)
-
-2026-07-08 <span class="news-indication-tag">tumor</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTmZlMDdEU2R6NEc1Q192X3Bjei1kR0Nid0hsX254RUJRRkJzaGoyMVVISWtXNDdHYjJ4bFVKekQ4NTlSdGN2ZllzQ0FyeTVFWXNLbFZTdEtPTTVWVWgtQ18tcC1RSjBSY1ZieldPcm1wWE5WVHhNYlFOQTdsc1g2T2NqR09LY0xyZk1qMnN0czFfSEVKanp1T29KX2ZEUE5fT3ZGUTZMRHhfbWd6U3VROXI1RTcxbkVZdVlPYkVlWEJSMW9WNDBQdW4tcHduTTlVRGVyeVN6U3dEOGNZMFliUlIyTmtXOXQyVXhEREY4ZzRQd0VHRFMydmxsMk9xQXdlbDR3TEhMY21ydURDekgxSEVadF83dHVmdUpVMGhQdjNqd3dfZnlYVkZfRnBQWlc0dGxpM05IU1BycXpsQ3ZPcURWM3BGTG5oRGhhRnVDOFk0QkFLOFdHZlBn0gHfAkFVX3lxTE1oZkY2VmhsaXpKR3BTMlNfNkZEY1RZemd5c25TbENaWE4wZDJUVWYyYWZ5bVNWd3ZlbURyOWVWT3ZFNXItOHItNEFYc0RqZHoxM2laMVBDemltQTZCRFBMV1cxWWRnQVc4QVdJRnhSaVNnVTNpV1FDMmFuUXdvUFAtQzRiTXE2c2dWdzh5RG9YU3VqYXM2UnJiLWpLUVh3UXMyOW10cjNSZ0loNEVuVVVrRG1vZXBxcHNVQXR1eTFjWG4xY0QtNGhnN2RQY3dMZl9ZMTZqMnp0ejFvbG95RXJGRjE1MGVWMVA0b3dxT2doWmZBMjdiYzVLaDM3TTNxM2NfcXYzSVMycFlzMk55X1kxRzVoT29zTVIzRXZIOGRJZnB3eFdrdWdwTVRSVDZmcXRYSldIakZOUnNUS3lNYUFIQXZSOVdlYktOWVQ5VmNhUW5JcWhDSkl4aVpEYUtGOA?oc=5)
-
----
-
-### [Cancer cases expected to soar worldwide, WHO report finds - The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVldubVVncnpWaDRhd3lsSkpHWlNHU0dMTmFSVGJ0YWp3aXhndnVsV3liTl9ZM3hORjdWS2Zad1o5OFpnQ2p4dXpoVUhLQWhWa3RXQksyWG5jOGhsQjEzME1vLUdLYWdILUhlSkQyT2VLdFRqNk9WRUd1c3JwX2Rkb3hYRmdjVHgtYUZtSkl1MmZtSHhCN25RTEhhVFV4TEY0NllJTlhFZ1l1bFRmU24wTkJoRm0yNVU0Wk8xeGVUeVFxS0dXaVdpLXIzNnFjQUUxd19JNFR4Nm9POE5wTUg2djZtRUM?oc=5)
-
-2026-07-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVldubVVncnpWaDRhd3lsSkpHWlNHU0dMTmFSVGJ0YWp3aXhndnVsV3liTl9ZM3hORjdWS2Zad1o5OFpnQ2p4dXpoVUhLQWhWa3RXQksyWG5jOGhsQjEzME1vLUdLYWdILUhlSkQyT2VLdFRqNk9WRUd1c3JwX2Rkb3hYRmdjVHgtYUZtSkl1MmZtSHhCN25RTEhhVFV4TEY0NllJTlhFZ1l1bFRmU24wTkJoRm0yNVU0Wk8xeGVUeVFxS0dXaVdpLXIzNnFjQUUxd19JNFR4Nm9POE5wTUg2djZtRUM?oc=5)
-
----
-
-### [Diphtherie: Haustiere und Diabetes erhöhen Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZIWEx1MkFHX2hXVVJJempoN19NZmJiUTRQYnd1YkFZXy1QN1MxZDdaNndwZEZsTzRMckJyREJPd2ZkS3BzWExyTjZ1cUxZTXFwYnRuWHF6UU9lYVk0TUc4MEZ3ZTA0eTJhYkM5VXNRWWpCOGJQNmNEdkdpeHk1R1JoMVFkUjhvY284TWxmMS1XVWUy?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZIWEx1MkFHX2hXVVJJempoN19NZmJiUTRQYnd1YkFZXy1QN1MxZDdaNndwZEZsTzRMckJyREJPd2ZkS3BzWExyTjZ1cUxZTXFwYnRuWHF6UU9lYVk0TUc4MEZ3ZTA0eTJhYkM5VXNRWWpCOGJQNmNEdkdpeHk1R1JoMVFkUjhvY284TWxmMS1XVWUy?oc=5)
-
----
-
-### [Aneuploidy selects for the acquisition of driver genes in breast cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE82LWJYYnlQWVY1T0lKUmp2OHk2MElhUDZqRUNzanJpMXZPX3dMUXZnNWwya2dsRUpaaU85VkFVWjRZM0dEMzRzNTJTMVhESlJFQWJzX0dMZHQ2VGpnbFZZ?oc=5)
-
-2026-07-08 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE82LWJYYnlQWVY1T0lKUmp2OHk2MElhUDZqRUNzanJpMXZPX3dMUXZnNWwya2dsRUpaaU85VkFVWjRZM0dEMzRzNTJTMVhESlJFQWJzX0dMZHQ2VGpnbFZZ?oc=5)
-
----
-
-### [Fall-Kontroll-Studie: Langzeittherapie mit PPI geht nicht mit Magenkrebs einher](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWNBTDFMT0lZTWFycUxKcW1UNVZ4c2tRZl9GbVpGVlZ6MlNZdlhTenhDcjIwb0loWGloQW9saXY1Tkp0cGdlM2tGQkstelNaSG5hLVBpQjNVZmlvMjBrR19KTkFES2ZLN0R3MmNreXJoQ1JQdU5nWEFkajlzcnh4YWE4eEZsaUxnQ2lzRnlmYVdZWjg2QVBMOFN3anBqSG9IOTBkMnZCRTljQQ?oc=5)
-
-2026-07-08 <span class="news-indication-tag">Krebs</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWNBTDFMT0lZTWFycUxKcW1UNVZ4c2tRZl9GbVpGVlZ6MlNZdlhTenhDcjIwb0loWGloQW9saXY1Tkp0cGdlM2tGQkstelNaSG5hLVBpQjNVZmlvMjBrR19KTkFES2ZLN0R3MmNreXJoQ1JQdU5nWEFkajlzcnh4YWE4eEZsaUxnQ2lzRnlmYVdZWjg2QVBMOFN3anBqSG9IOTBkMnZCRTljQQ?oc=5)
 
 ---
 

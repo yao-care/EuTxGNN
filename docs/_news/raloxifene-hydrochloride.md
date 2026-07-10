@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Un estudio avanza que la suplementación con vitamina D podría favorecer la recuperación tras un ictus - Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
-
-2026-07-09 <span class="news-indication-tag">ictus</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSW5tbExBZ3dHUXVmMEt5SURLYi0taW9nUVpEX1czX2w1U1BNMFBoQVg1UXBqTFJibVQ1WURwV1hWLTllZXRzWGZJSHhBUlBRMGZSVk1uYWVRNWI3anJxUUkzalR6NDRZOWZkUldzekZORGxOeDMwQTFwdnU4TXJrODlrMWRwaF9ncnhraVNkQVlsOGx6RTVpekZYU0dCQzRFN3BLTFNFN2R4RGROS1Z6SWNtWFBKeGRwY1QtVDlicWNXdlBlbFhESU1QVnJrUDM1ZkMyamJfbUpqQQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Je suis cardiologue : ce fruit est meilleur que tous les autres pour baisser la tension et éviter l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
 

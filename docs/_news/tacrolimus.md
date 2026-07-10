@@ -54,11 +54,11 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（1 則）
 
-### [Tratamiento combinado de psoriasis y obesidad: pasos en la misma dirección hacia el manejo holístico del paciente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
+### [Destápate2026: la campaña que invita a los pacientes con psoriasis a perder el miedo a mostrar su piel este verano](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNazRRUXB5Mlk4MlFNcmMxVko3WnpiS3VlY1QtaDVyN3ZmSGpkcWV6WE1lblJhazB3ZldTY0VNdm8zY0cxajR5LTVwS1RJMnhFUVphcnZzb29ZdFZsMkxFZFFTU3BKQ05pQjVId3F0Q01hZXEwWU1qSVdEQjdQc3lvNmtSUUpBWlFkcDlEQ3BZTUxQaXVRS1RJNG5ldTB3VWV0WS1jQkhCRTBXQXVKdk9RcnFPVjQxQzRmWE4zUEtIVmFKcHZ6S1MtQi1EUkYzNzdzWHI1WDhnSEIxTEEtX1ctM09oZ2xsQzg?oc=5)
 
-2026-07-09 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
+2026-07-09 <span class="news-indication-tag">psoriasis</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNazRRUXB5Mlk4MlFNcmMxVko3WnpiS3VlY1QtaDVyN3ZmSGpkcWV6WE1lblJhazB3ZldTY0VNdm8zY0cxajR5LTVwS1RJMnhFUVphcnZzb29ZdFZsMkxFZFFTU3BKQ05pQjVId3F0Q01hZXEwWU1qSVdEQjdQc3lvNmtSUUpBWlFkcDlEQ3BZTUxQaXVRS1RJNG5ldTB3VWV0WS1jQkhCRTBXQXVKdk9RcnFPVjQxQzRmWE4zUEtIVmFKcHZ6S1MtQi1EUkYzNzdzWHI1WDhnSEIxTEEtX1ctM09oZ2xsQzg?oc=5)
 
 ---
 

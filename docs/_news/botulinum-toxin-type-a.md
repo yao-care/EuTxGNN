@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La exposición prolongada a la contaminación del aire se relaciona con un mayor riesgo de padecer la enfermedad de Parkinson - Adamed TV](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVR4MlVXZ1R0TjQzYlloQU51dmlzdlpIVjJZSERpdE4xOFdZVzNHWFVZVXVDUzRDUGhHbW5GbkdjZ1BVVkRYd0dBYlVHQzVPTUxCU3BMdjVWUy1PMVhWSmNkWWpaYnB4ck1fZ3RqWWx5aUVjanpPSm5md29oZEMzX3B4VDQ0ZV9rSk1hcWhhLTI5a25VSXN2TnBiUVhxX0lHWmh1RzhFdTZmeWh4Y2NRYlhPSHU1TE5QVnByTTJRRzMwUWhIYjVvMm9CUlRGVGwyYXBrQUhTS2dCVHduVXJuU3lNQk5BdjVVZjJDY2ZjUQ?oc=5)
-
-2026-07-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Adamed TV](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVR4MlVXZ1R0TjQzYlloQU51dmlzdlpIVjJZSERpdE4xOFdZVzNHWFVZVXVDUzRDUGhHbW5GbkdjZ1BVVkRYd0dBYlVHQzVPTUxCU3BMdjVWUy1PMVhWSmNkWWpaYnB4ck1fZ3RqWWx5aUVjanpPSm5md29oZEMzX3B4VDQ0ZV9rSk1hcWhhLTI5a25VSXN2TnBiUVhxX0lHWmh1RzhFdTZmeWh4Y2NRYlhPSHU1TE5QVnByTTJRRzMwUWhIYjVvMm9CUlRGVGwyYXBrQUhTS2dCVHduVXJuU3lNQk5BdjVVZjJDY2ZjUQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Hohen Blutdruck sofort senken: Charité-Arzt verrät simplen Trick - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
+
+2026-07-10 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
+
+---
 
 ### [Sanidad habilita un nuevo punto de cribado del proyecto Screening Point en el centro de salud de Los Gladiolos - Gobierno de Canarias](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcG1TZHNUeC0yWUR5MkV0dWtWTVA2bHlWMUxGZ2hmWU01WWMteGdiRXdGdEROQVh5NlJnQzZmTHhhNDRXcS0yU1pHbE1aTmJIaExGUHJpd05KcGlXS1R4dDJQZG1faHZCS3VWWTdwZWRvRFY0ek40emVBbElfOUstcFFuXzdpUndMeTdtV01OdU1Ub3NyUmx5WFV0UURacVpJZ1hTeC1yc1AtTmFLN1hDVmhMQzBZTWRNRndrc2R5MFFCNEswM3dQR3JPTDRGZUt3eTFmcWdscGlqZk4tTUdNYkpSYVNfcmNLWmkxbw?oc=5)
 

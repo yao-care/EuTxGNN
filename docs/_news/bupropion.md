@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
-
-### [Cuando la obesidad también duele: el vínculo invisible entre la inflamación, el dolor y el envejecimiento saludable](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHAzbUc1QkRCejFwM3FxZG4yM1NENmladkVSVFc4RTRmUlBES1NManBraWk3RGt3SVlrZWtJSEFPUk50dWhJNHhPTUgwdjZjSFJNeE4ybE9pQTFWM0o5Tlpub2Rqdmp2akRodzdNbkhtdnllY1VvUHMtNkI4VjM5bmFhSGl5RmpBN01nbTR5ZzFMYjhFSzdpWUhhNnhZZ0lIX1lvYTB3M0pKVWRvcFhvSEpmMnZSblZZbHduLV9DS0VDMzhPbnpSckU2dkdkOVVVOXNoZ19nZV9SQ3hYWk1Z?oc=5)
-
-2026-07-10 <span class="news-indication-tag">obesidad</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHAzbUc1QkRCejFwM3FxZG4yM1NENmladkVSVFc4RTRmUlBES1NManBraWk3RGt3SVlrZWtJSEFPUk50dWhJNHhPTUgwdjZjSFJNeE4ybE9pQTFWM0o5Tlpub2Rqdmp2akRodzdNbkhtdnllY1VvUHMtNkI4VjM5bmFhSGl5RmpBN01nbTR5ZzFMYjhFSzdpWUhhNnhZZ0lIX1lvYTB3M0pKVWRvcFhvSEpmMnZSblZZbHduLV9DS0VDMzhPbnpSckU2dkdkOVVVOXNoZ19nZV9SQ3hYWk1Z?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Nuevas guías europeas apuestan por un abordaje integral y personalizado de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3FkM3A4V3h4MExyQ1dIVjVPdHVWdnR0UXNpWi1hYzNtUThtMXR2dmlmRUlZUUtYTTUzamFoQ0lwdG5KTjdFZ1JMZVhZMnR4TVlPdFp5MkhVbGxwQUxoa2w3OFBqZGZYbGlUZ29fNHkxTXBRdjFLQzNQQ3FUSTdmeUg5SXRVRXkzTllRODVRaFUtZmg2Y0hMSmNWTlhRVnFIdXh6OFZ4REx4ZmZHcExaVUY5VDA1TmwxbVc0b2M5dWQ1bnNk?oc=5)
 
@@ -78,19 +70,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [Investigan cómo lograr un IMC más saludable en personas con obesidad severa causada por daño cerebral - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2NxWEhOUTVyZ2JQSDN2YW10STEtZWF6M2pIUmY2MkxERzl3VVBJWHRqV0JSbVAzck9sOWpjV3ZtME51dmFrTlpORmFOS0hfdUl5dTkyT0xmTHlqWkg0VC1qcHhCTTl2UDRQcUxKZXRWVzd5QUtKU2xidFJwYWxmVkx1UmlkV2xFM3VYa05tNUE3YTZGMDk2LVFDb3ctRmlrTVpxQmxLS0NUNGZXVUFQMk1UbnJxeXFYaG5sNVpWb1LSAbsBQVVfeXFMUFhtQUJFQjhfUnZYZlZ4cGdjWHdfRXVKbDlkMVZ5YWpLVUtKbG1TYVRVUDJVVEFLbXU0TGVyQW9razBkcUlMbHlMNHhRSjUzaG9KSWVtX2l5LXBxeFoyNnd5ZENFcTcxMHJTZFFzYV9PSlY0MDBCMURTUWMyOURoQWNjdHBGMFdQRGF4TTVkd0RQcFYzeWVMVDh3ek1NZFN5RDFOSUFnZUJFTW1rU2g0TDZjSjBBQkRObHJKOA?oc=5)
+### [Obésité : une vaste méta-analyse compare les bénéfices et les effets indésirables des nouveaux traitements](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDUyenE2MkNfQ3o4NzBRd25xVzNhU1hXcHFaT25ob1FpSTFNRHNfLU82U3g3RzZmWDFxbDd3LUVlcC1PeFdDTUtlbTZhWUZMOTFJbmhtQmxHbXlIQzhjb0MxaVp2RGxnWEhaRlFPNmo0dVd1NjZyaEhVTkwxUkJVcHM5SnBjTy1oU19mbG1CQ3FxZkw1RWp2RTJoN1hVR3VnTFZYUkhEVm1TX0UyUFVwWg?oc=5)
 
-2026-07-09 <span class="news-indication-tag">obesidad</span>
+2026-07-09 <span class="news-indication-tag">obésité</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2NxWEhOUTVyZ2JQSDN2YW10STEtZWF6M2pIUmY2MkxERzl3VVBJWHRqV0JSbVAzck9sOWpjV3ZtME51dmFrTlpORmFOS0hfdUl5dTkyT0xmTHlqWkg0VC1qcHhCTTl2UDRQcUxKZXRWVzd5QUtKU2xidFJwYWxmVkx1UmlkV2xFM3VYa05tNUE3YTZGMDk2LVFDb3ctRmlrTVpxQmxLS0NUNGZXVUFQMk1UbnJxeXFYaG5sNVpWb1LSAbsBQVVfeXFMUFhtQUJFQjhfUnZYZlZ4cGdjWHdfRXVKbDlkMVZ5YWpLVUtKbG1TYVRVUDJVVEFLbXU0TGVyQW9razBkcUlMbHlMNHhRSjUzaG9KSWVtX2l5LXBxeFoyNnd5ZENFcTcxMHJTZFFzYV9PSlY0MDBCMURTUWMyOURoQWNjdHBGMFdQRGF4TTVkd0RQcFYzeWVMVDh3ek1NZFN5RDFOSUFnZUJFTW1rU2g0TDZjSjBBQkRObHJKOA?oc=5)
-
----
-
-### [Tratamiento combinado de psoriasis y obesidad: pasos en la misma dirección hacia el manejo holístico del paciente](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
-
-2026-07-09 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlJzbzNYVDhBLTREMGdYeUhhNGpjMXVqa1QxM3lPeVA1UVFVbm8wTGVJSTZLSXpFREcxMk9LdE9PR1lRaFc0Z2J1ekJ6YWFhUWFla3BFOHF0MW1IUk05aUxjOVl3TVBkdnI4NWFVbS1peXlUYzlJOFZDSERLakpkS3JKa0kwM1BaSk1KYnRXOHVPcGtYdHMwb3BlWG5Pb3JtUG05WThrSEpwV3YtTnVkRDdjNjNORHhMd09sVmliUGFpRmdjTE4xX0E1WmRkN3RsR0JHNTI1cU8?oc=5)
+來源：[Egora](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDUyenE2MkNfQ3o4NzBRd25xVzNhU1hXcHFaT25ob1FpSTFNRHNfLU82U3g3RzZmWDFxbDd3LUVlcC1PeFdDTUtlbTZhWUZMOTFJbmhtQmxHbXlIQzhjb0MxaVp2RGxnWEhaRlFPNmo0dVd1NjZyaEhVTkwxUkJVcHM5SnBjTy1oU19mbG1CQ3FxZkw1RWp2RTJoN1hVR3VnTFZYUkhEVm1TX0UyUFVwWg?oc=5)
 
 ---
 
@@ -102,25 +86,9 @@ permalink: /news/bupropion/
 
 ---
 
-### [José M. Ordovás, experto en Nutrición, Envejecimiento y Genómica, sobre los GLP-1: “Perder peso no significa mejorar todos los aspectos de la salud”](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN21OMTRqUW1TZDRYcUZOaWduUk94UkthaHhpRlBERm1qM3VHYnhFY1FQb0RvYmIwMHUwSzlkWkhFX0FwMnBNQ2ljV2JueDl5MDUxeEdKVXI5cUNTajFDOE1VZGwxRWdnLVYxcWFaemlNREdLNngzWFhvZ2NFZG5oNERBYndoOU0tbkZGZ2k0bGYtc2ZtTVBhQkdBTVZYbVNOMXR1VjdzdmtEa2xvM2h0NWRTZnA4WGN4WjBNNHRZZGNiTVhHNUstczZ0aWkwUTIzeEpfRkRGc3pYRW1IWVMwUlVsS1M4RHQyN0t3WnJubjRhdTdx0gH6AUFVX3lxTFAxc1Qza0p3djlsVlBJR2hDNmdxT2JjOVdFemNBay0tN3doX0RTYW9JZGt5bHV6dFB3U3ZKUGhJLUN1dkJ6VzBTVV9tbUc2OUxPd25hcmxUMnU3Um1OcTJhUGVRUktlY0RtaUUtaFZhVTFITHlzQXFvQ0hKbXFrd094SXlETmpBdU90bHg1RXBnMXpWNi1DdXpUZUNYWUJHQ2c0Q1h6TWZGcHZoZTE1dGFnbDY1SllPQmEySzlLSW82ZVFoa2ZoX1RQcFg2dDl1RURIYXRkdWo1aHNQcDZNLWZfaVhxckJScmdEQlFJUGFidWdfTzZxd0tEQmc?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN21OMTRqUW1TZDRYcUZOaWduUk94UkthaHhpRlBERm1qM3VHYnhFY1FQb0RvYmIwMHUwSzlkWkhFX0FwMnBNQ2ljV2JueDl5MDUxeEdKVXI5cUNTajFDOE1VZGwxRWdnLVYxcWFaemlNREdLNngzWFhvZ2NFZG5oNERBYndoOU0tbkZGZ2k0bGYtc2ZtTVBhQkdBTVZYbVNOMXR1VjdzdmtEa2xvM2h0NWRTZnA4WGN4WjBNNHRZZGNiTVhHNUstczZ0aWkwUTIzeEpfRkRGc3pYRW1IWVMwUlVsS1M4RHQyN0t3WnJubjRhdTdx0gH6AUFVX3lxTFAxc1Qza0p3djlsVlBJR2hDNmdxT2JjOVdFemNBay0tN3doX0RTYW9JZGt5bHV6dFB3U3ZKUGhJLUN1dkJ6VzBTVV9tbUc2OUxPd25hcmxUMnU3Um1OcTJhUGVRUktlY0RtaUUtaFZhVTFITHlzQXFvQ0hKbXFrd094SXlETmpBdU90bHg1RXBnMXpWNi1DdXpUZUNYWUJHQ2c0Q1h6TWZGcHZoZTE1dGFnbDY1SllPQmEySzlLSW82ZVFoa2ZoX1RQcFg2dDl1RURIYXRkdWo1aHNQcDZNLWZfaVhxckJScmdEQlFJUGFidWdfTzZxd0tEQmc?oc=5)
-
----
-
-### [Quels effets secondaires pour les traitements GLP-1 contre l’obésité ? - 20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW8xUDRPUmlqMFdFLXBhZ3hMbVBOeEZ0Wm4xVHZGUU9FRklQVmdoS05RZm1GeU5NZGNPSC12bXFyakJVMFVlNU03R2lVTmF5ZVphbHA5eV9aTHY3ZklaQlhwcHlqTnhYeEdWOF94aERoaXJvaXZWNEVURC02SFVDcXpia0Rvd01Cd2JhUEg3bzVUY0VaeENfLWZDeHJtWGxnbWdQODBVQTBSMkdPVkFOUUgtWS1NbVUtZnJrSjJWVDI?oc=5)
-
-2026-07-09 <span class="news-indication-tag">obésité</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW8xUDRPUmlqMFdFLXBhZ3hMbVBOeEZ0Wm4xVHZGUU9FRklQVmdoS05RZm1GeU5NZGNPSC12bXFyakJVMFVlNU03R2lVTmF5ZVphbHA5eV9aTHY3ZklaQlhwcHlqTnhYeEdWOF94aERoaXJvaXZWNEVURC02SFVDcXpia0Rvd01Cd2JhUEg3bzVUY0VaeENfLWZDeHJtWGxnbWdQODBVQTBSMkdPVkFOUUgtWS1NbVUtZnJrSjJWVDI?oc=5)
-
----
-
 ### [Farmaci anti obesità: ecco le istruzioni di medici e dietologi per il loro uso corretto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
 
-2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
 

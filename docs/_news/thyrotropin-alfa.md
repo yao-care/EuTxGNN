@@ -54,11 +54,11 @@ permalink: /news/thyrotropin-alfa/
 
 ## 相關新聞（2 則）
 
-### [Herzerkrankungen: Zahnwurzeln-Entzündungen erhöhen Risiko um Faktor 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
+### [Hohen Blutdruck sofort senken: Charité-Arzt verrät simplen Trick - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
 
-2026-07-10 <span class="news-indication-tag">Herzerkrankung</span>
+2026-07-10 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [My baby hardly ever cried and had a button nose - they were clues he will die in the worst way, and I have no idea when - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOF9QSWNmaHJKOXR1Ym4xZEFDQnZqamZKQ3RLMWJvZjZoUi1hNVRoNjdnbDNhaDB1andjd2REMzdBSElWS1Z6cWxaRzFFUm9NNEVTS2FqMXFCaEc0RlRjX2RkOXp6M1pzRXozWmlpUmFiOTNjbVJFRGdvUlNhOWxYTmhn?oc=5)
-
-2026-07-10 <span class="news-indication-tag">dementia</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOF9QSWNmaHJKOXR1Ym4xZEFDQnZqamZKQ3RLMWJvZjZoUi1hNVRoNjdnbDNhaDB1andjd2REMzdBSElWS1Z6cWxaRzFFUm9NNEVTS2FqMXFCaEc0RlRjX2RkOXp6M1pzRXozWmlpUmFiOTNjbVJFRGdvUlNhOWxYTmhn?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Une avancée israélienne pourrait permettre de diagnostiquer Alzheimer avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
 
@@ -70,27 +62,11 @@ permalink: /news/opicapone/
 
 ---
 
-### [La exposición prolongada a la contaminación del aire se relaciona con un mayor riesgo de padecer la enfermedad de Parkinson - Adamed TV](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVR4MlVXZ1R0TjQzYlloQU51dmlzdlpIVjJZSERpdE4xOFdZVzNHWFVZVXVDUzRDUGhHbW5GbkdjZ1BVVkRYd0dBYlVHQzVPTUxCU3BMdjVWUy1PMVhWSmNkWWpaYnB4ck1fZ3RqWWx5aUVjanpPSm5md29oZEMzX3B4VDQ0ZV9rSk1hcWhhLTI5a25VSXN2TnBiUVhxX0lHWmh1RzhFdTZmeWh4Y2NRYlhPSHU1TE5QVnByTTJRRzMwUWhIYjVvMm9CUlRGVGwyYXBrQUhTS2dCVHduVXJuU3lNQk5BdjVVZjJDY2ZjUQ?oc=5)
-
-2026-07-09 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[Adamed TV](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdVR4MlVXZ1R0TjQzYlloQU51dmlzdlpIVjJZSERpdE4xOFdZVzNHWFVZVXVDUzRDUGhHbW5GbkdjZ1BVVkRYd0dBYlVHQzVPTUxCU3BMdjVWUy1PMVhWSmNkWWpaYnB4ck1fZ3RqWWx5aUVjanpPSm5md29oZEMzX3B4VDQ0ZV9rSk1hcWhhLTI5a25VSXN2TnBiUVhxX0lHWmh1RzhFdTZmeWh4Y2NRYlhPSHU1TE5QVnByTTJRRzMwUWhIYjVvMm9CUlRGVGwyYXBrQUhTS2dCVHduVXJuU3lNQk5BdjVVZjJDY2ZjUQ?oc=5)
-
----
-
 ### [Alcohol drives opposite brain circuit changes in amyloid and tau Alzheimer's models - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxORFBhOFozTkwtTEk0WVlSSThYa3phcGJhdkpYczhTRVo4U1c2LW1zajREaE1IcV8yd2prTDJsQzkzVzBNc190SWdQM0VyRERKSlE3QW1lbHh3WlVqanRLN2plTmo5YWFSMFliREhtLW5WN1drQ1RqZ3pxNURtWXRIYjdRUQ?oc=5)
 
 2026-07-08 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxORFBhOFozTkwtTEk0WVlSSThYa3phcGJhdkpYczhTRVo4U1c2LW1zajREaE1IcV8yd2prTDJsQzkzVzBNc190SWdQM0VyRERKSlE3QW1lbHh3WlVqanRLN2plTmo5YWFSMFliREhtLW5WN1drQ1RqZ3pxNURtWXRIYjdRUQ?oc=5)
-
----
-
-### ['I'm a hospice nurse – there are six early signs of dementia families can miss' - The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
-
-2026-07-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMidkFVX3lxTE1GNzZiYW43VmozclJjOFFESlFjaVRWZm0ydXY1ZVZQTW9xeTd2Z3pybTlmU3JhTGFvYi0wRFNyUWpCS3VXeWpEN1RDZW1oeWt2bER6QUVfOV9XOGtldDhmM2R4MkN3Nmd2SGJBekhzZjEyV0xfMWfSAXtBVV95cUxNMGhlOXFzQ2N0VU5jRVl5VEF6WmpRMWVFbnpvYU9Tam9DV1k4ODE5MVhxUFJRa1U5UTFTOW9DQWpMZXpaSDl5NmRVZjRtQ3lzTEJDQlFXRm16SE1QbE9sU3hJODBPUzVJRm93b185c3hyb3BVV3JOdmJqeVk?oc=5)
 
 ---
 

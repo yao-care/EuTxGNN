@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li>heart disease（98.0%）</li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,15 +52,9 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Herzerkrankungen: Zahnwurzeln-Entzündungen erhöhen Risiko um Faktor 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
-
-2026-07-10 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

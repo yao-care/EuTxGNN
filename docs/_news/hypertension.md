@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hypertension 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hypertension 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Hohen Blutdruck sofort senken: Charité-Arzt verrät simplen Trick - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
+
+2026-07-10
+
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
+
+---
 
 ### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
