@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+2026-07-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+---
 
 ### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
+
+---
+
+### [La bofanglutida afianza su capacidad para mejorar el control glucémico de la diabetes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/ustekinumab/
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: 60 Prozent der Patienten unterversorgt mit Vitamin D - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
 
 ---
 
@@ -115,22 +123,6 @@ permalink: /news/ustekinumab/
 2026-07-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
-
----
-
-### [La psoriasis no es solo una enfermedad de la piel: puede dañar el corazón antes de dar síntomas - El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDN2cVpUNG1MNTQ4MXFPM3pxb2phRGtNcTVmNjhsQ3lzTEFrWHVOcnBUYVhtS0Y5ZVJOalFVTHI0TmFLMGVCQ2pUa3BHZmVrN2U3V292dkNiU3BvOWZROFFuMkp1UGhQNDE1RUtQamJabVkwWlJfRDdRd004WUtneVZ3c3prMXp5NHpIYzVlSU52NmdBRl9ZU3hfa21kMXVna2Z6RjlfS1FtVUJLcXFEeVV4b1Y2R3dMZXlvZm90Y2Z3U1g0LWswSlBndUJaX0Y2U2lHX0RRQmhjZ9IB3wFBVV95cUxPbXdUbFVneTVSNWJydWhHQnowYjBGdU5wclBuYVRneXUwRzVHT3B5WWJ1WFo5NUJWa2c3dk5UVWZDR2dMWURVNGV3YW40NThlSXlUVURjWHlYUG5tUVJCdjZYN0c0MU9sS3NPcGVaQVpuc2Z6QlkxcUVSbXZPSVpSb2dZaUdBbTdEU2VTQl83WmRJOEttdXFnYzJXZVNMNHZubjJpUktaT0dpMzhPWWpTOXQzeGxnUTR5eGkwZlFDLXk4djNyNEpKUlpiREFGV01wbHYwNHRVaEFNZ0Y3TnlZ?oc=5)
-
-2026-07-09 <span class="news-indication-tag">psoriasis</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDN2cVpUNG1MNTQ4MXFPM3pxb2phRGtNcTVmNjhsQ3lzTEFrWHVOcnBUYVhtS0Y5ZVJOalFVTHI0TmFLMGVCQ2pUa3BHZmVrN2U3V292dkNiU3BvOWZROFFuMkp1UGhQNDE1RUtQamJabVkwWlJfRDdRd004WUtneVZ3c3prMXp5NHpIYzVlSU52NmdBRl9ZU3hfa21kMXVna2Z6RjlfS1FtVUJLcXFEeVV4b1Y2R3dMZXlvZm90Y2Z3U1g0LWswSlBndUJaX0Y2U2lHX0RRQmhjZ9IB3wFBVV95cUxPbXdUbFVneTVSNWJydWhHQnowYjBGdU5wclBuYVRneXUwRzVHT3B5WWJ1WFo5NUJWa2c3dk5UVWZDR2dMWURVNGV3YW40NThlSXlUVURjWHlYUG5tUVJCdjZYN0c0MU9sS3NPcGVaQVpuc2Z6QlkxcUVSbXZPSVpSb2dZaUdBbTdEU2VTQl83WmRJOEttdXFnYzJXZVNMNHZubjJpUktaT0dpMzhPWWpTOXQzeGxnUTR5eGkwZlFDLXk4djNyNEpKUlpiREFGV01wbHYwNHRVaEFNZ0Y3TnlZ?oc=5)
-
----
-
-### [Lebensstilinterventionen bei Diabetes | Lifestyle-Interventionen reduzieren Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
 
 ---
 

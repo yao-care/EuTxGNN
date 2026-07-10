@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,7 +52,15 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Herzerkrankungen: Zahnwurzeln-Entzündungen erhöhen Risiko um Faktor 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
+
+2026-07-10 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
+
+---
 
 ### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 

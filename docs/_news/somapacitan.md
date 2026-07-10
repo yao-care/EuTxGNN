@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li>asthma（86.3%）</li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+2026-07-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+---
 
 ### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [La bofanglutida afianza su capacidad para mejorar el control glucémico de la diabetes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
+
+---
+
 ### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
 
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: 60 Prozent der Patienten unterversorgt mit Vitamin D - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
 
 ---
 
@@ -110,14 +118,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Lebensstilinterventionen bei Diabetes | Lifestyle-Interventionen reduzieren Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
-
----
-
 ### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
 2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
@@ -131,14 +131,6 @@ permalink: /news/somapacitan/
 2026-07-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZIWEx1MkFHX2hXVVJJempoN19NZmJiUTRQYnd1YkFZXy1QN1MxZDdaNndwZEZsTzRMckJyREJPd2ZkS3BzWExyTjZ1cUxZTXFwYnRuWHF6UU9lYVk0TUc4MEZ3ZTA0eTJhYkM5VXNRWWpCOGJQNmNEdkdpeHk1R1JoMVFkUjhvY284TWxmMS1XVWUy?oc=5)
-
----
-
-### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
-
-2026-07-08 <span class="news-indication-tag">asthma</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
 
 ---
 

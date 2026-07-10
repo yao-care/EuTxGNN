@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="Tenecteplase 有什麼相關新聞？">
-<strong>Tenecteplase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenecteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tenecteplase/
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Herzerkrankungen: Zahnwurzeln-Entzündungen erhöhen Risiko um Faktor 5 - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
+
+2026-07-10 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWJaejNUdEdKYmdJRzRJYlN0NHYzblJYVTBkazZVVmhhVjlQeHFDdXRFeHRxcmNvYUtGdFZiVlE3Z3VJdlliR1RFRTMycDVGalRpS19IbVp0aEtHTzZGdnRXYldMX2E5ZXBBSERPcXBHQmVIQnU1QVhfM0lpQmZaRjV0bmRGRmhNR3dtWDBoeHFNRXU0akFteEMxLVZRR3lmc2dicjZLTHVseDZhb0xhZFBDZk5wM01xWkUw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+2026-07-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+---
 
 ### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
+
+---
+
+### [La bofanglutida afianza su capacidad para mejorar el control glucémico de la diabetes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
+
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRlFZekNrLW15bTA0bG53alZ3Z1NtbzhOaW5mbGRDbFQ0ZlFCNG9YS3NpN1Y5TkMtNGxJUkNsNzhXWUJ1N0RjVlJadndyeE11Q1BiZ0I0VE5RVjJWLTA5anJBUHhRb1N3RVU4MFR1QzAtdkxmLTg2TEd5b1YzYWhGVkk5Ulprd0JHaHlzYVNKYURfbHNvM1RKLTFRRGQzWng1ZHJtbVhPOXRzMXlHcUpWaURCbWJ4NnQxWHlpYmN3dmUxMk5xdFV0OHdWb05hWXYw?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Typ-2-Diabetes: 60 Prozent der Patienten unterversorgt mit Vitamin D - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
+### [José M. Ordovás, experto en Nutrición, Envejecimiento y Genómica, sobre los GLP-1: “Perder peso no significa mejorar todos los aspectos de la salud”](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN21OMTRqUW1TZDRYcUZOaWduUk94UkthaHhpRlBERm1qM3VHYnhFY1FQb0RvYmIwMHUwSzlkWkhFX0FwMnBNQ2ljV2JueDl5MDUxeEdKVXI5cUNTajFDOE1VZGwxRWdnLVYxcWFaemlNREdLNngzWFhvZ2NFZG5oNERBYndoOU0tbkZGZ2k0bGYtc2ZtTVBhQkdBTVZYbVNOMXR1VjdzdmtEa2xvM2h0NWRTZnA4WGN4WjBNNHRZZGNiTVhHNUstczZ0aWkwUTIzeEpfRkRGc3pYRW1IWVMwUlVsS1M4RHQyN0t3WnJubjRhdTdx0gH6AUFVX3lxTFAxc1Qza0p3djlsVlBJR2hDNmdxT2JjOVdFemNBay0tN3doX0RTYW9JZGt5bHV6dFB3U3ZKUGhJLUN1dkJ6VzBTVV9tbUc2OUxPd25hcmxUMnU3Um1OcTJhUGVRUktlY0RtaUUtaFZhVTFITHlzQXFvQ0hKbXFrd094SXlETmpBdU90bHg1RXBnMXpWNi1DdXpUZUNYWUJHQ2c0Q1h6TWZGcHZoZTE1dGFnbDY1SllPQmEySzlLSW82ZVFoa2ZoX1RQcFg2dDl1RURIYXRkdWo1aHNQcDZNLWZfaVhxckJScmdEQlFJUGFidWdfTzZxd0tEQmc?oc=5)
 
-2026-07-09 <span class="news-indication-tag">diabetes</span>
+2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDl3VW1tSTlSRjFqZ001Z0QweHAxVUgtV3A1NXVGNndBRkcxU2NtSGdDbHpiS0w3cXBXdkdNSHl3dXBhS2ZqdktGcndKYUZZS19yTXpYbGdBQjR6eWw1SnNIRjhSNU8ya2w5TlVoNk1HTmFsZlNrLTUxY1pyZFd2NUo3Zjhsc25Rd0F1LTkyLXBrVjA4UnNXQThDSXY5alNzTHNpanN2eS1ra201U2dvUEJ0MkpkM2M?oc=5)
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN21OMTRqUW1TZDRYcUZOaWduUk94UkthaHhpRlBERm1qM3VHYnhFY1FQb0RvYmIwMHUwSzlkWkhFX0FwMnBNQ2ljV2JueDl5MDUxeEdKVXI5cUNTajFDOE1VZGwxRWdnLVYxcWFaemlNREdLNngzWFhvZ2NFZG5oNERBYndoOU0tbkZGZ2k0bGYtc2ZtTVBhQkdBTVZYbVNOMXR1VjdzdmtEa2xvM2h0NWRTZnA4WGN4WjBNNHRZZGNiTVhHNUstczZ0aWkwUTIzeEpfRkRGc3pYRW1IWVMwUlVsS1M4RHQyN0t3WnJubjRhdTdx0gH6AUFVX3lxTFAxc1Qza0p3djlsVlBJR2hDNmdxT2JjOVdFemNBay0tN3doX0RTYW9JZGt5bHV6dFB3U3ZKUGhJLUN1dkJ6VzBTVV9tbUc2OUxPd25hcmxUMnU3Um1OcTJhUGVRUktlY0RtaUUtaFZhVTFITHlzQXFvQ0hKbXFrd094SXlETmpBdU90bHg1RXBnMXpWNi1DdXpUZUNYWUJHQ2c0Q1h6TWZGcHZoZTE1dGFnbDY1SllPQmEySzlLSW82ZVFoa2ZoX1RQcFg2dDl1RURIYXRkdWo1aHNQcDZNLWZfaVhxckJScmdEQlFJUGFidWdfTzZxd0tEQmc?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/semaglutide/
 2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXpjQmRNbUVvTGo4X1ZCSUJGNUEzYjFYa2cxQWg5S1pkMGNmWFZQa1FXY2I4cmZOOG5WNS1LdEF5Q243MFowdzRWRWZ3Y25BbEJvNnh5dmV6S1NMVlljekRrYmk2WjdzNHlNZDkxeFlQRllIdHdyQ1Q1Smp5TmZ6SDF2cVlkMTNqdEl0Ty1odTBlMlVXM0R6Mzdtc1JJYlJNWl9zNVNGQlBvMFYwSU9R?oc=5)
-
----
-
-### [Los medicamentos para la obesidad como Ozempic sí adelgazan, pero los expertos advierten: “No mejoran significativamente la calidad de vida” - Directo al Paladar](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0JwRFRqc2dGTmd6MWFudFNGcDBXNnkyRzhmY1Z6U1NPLVc0d3VodW4xV1pjX2hScUR4WGhNeFRHWW84cDJuLS05YUpEZGNKWUtyWHZRUDJmZ1BYcnRwcmktcXpnY1VvNTh1VUNjRHd4WGVqTGt0YktIeVlSZVhMZG5pVGZURVpHWnMzbTZfbUtROERMRVVOcVBnd3BUQVdHbDFSYm5LdjI1UmFUaGdPZDYwRm9OOHEyWG9qWEVPb01ZcXBoQ3NITVgzQTNwZ3g4WFF2SndGNDhmcDVjWmZCM09uR3bSAeoBQVVfeXFMT3l1aWlZdG9hNWl0b19WWnlTUGl0cjh6Y3VDQVBtMG5hazRrYURrblhZOW5LSDBqQ0N4TXlad0RMcUpaMjB5cWd6LUFRazNscUNqcnEwMDR2OTBMYWpjd2MydklMVTJyZGl1YjZUTHJ6QUxzbVFScXp1b2FTWWlxZ2NvMXF1dm0tUDdoRUprZzFxWVI2MGZYcHluVmtTQUI4OWN1dFI5YU9Ba3FjTnlWall5LWZOcUxTMHlaSHlOeEFVYTFkUGhJQlBTcDdidWJKak5wN2VsdV9PZVhBNDUzZGN2ejZjMlFDU1Bn?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0JwRFRqc2dGTmd6MWFudFNGcDBXNnkyRzhmY1Z6U1NPLVc0d3VodW4xV1pjX2hScUR4WGhNeFRHWW84cDJuLS05YUpEZGNKWUtyWHZRUDJmZ1BYcnRwcmktcXpnY1VvNTh1VUNjRHd4WGVqTGt0YktIeVlSZVhMZG5pVGZURVpHWnMzbTZfbUtROERMRVVOcVBnd3BUQVdHbDFSYm5LdjI1UmFUaGdPZDYwRm9OOHEyWG9qWEVPb01ZcXBoQ3NITVgzQTNwZ3g4WFF2SndGNDhmcDVjWmZCM09uR3bSAeoBQVVfeXFMT3l1aWlZdG9hNWl0b19WWnlTUGl0cjh6Y3VDQVBtMG5hazRrYURrblhZOW5LSDBqQ0N4TXlad0RMcUpaMjB5cWd6LUFRazNscUNqcnEwMDR2OTBMYWpjd2MydklMVTJyZGl1YjZUTHJ6QUxzbVFScXp1b2FTWWlxZ2NvMXF1dm0tUDdoRUprZzFxWVI2MGZYcHluVmtTQUI4OWN1dFI5YU9Ba3FjTnlWall5LWZOcUxTMHlaSHlOeEFVYTFkUGhJQlBTcDdidWJKak5wN2VsdV9PZVhBNDUzZGN2ejZjMlFDU1Bn?oc=5)
 
 ---
 
@@ -123,22 +131,6 @@ permalink: /news/semaglutide/
 2026-07-09 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
-
----
-
-### [Lebensstilinterventionen bei Diabetes | Lifestyle-Interventionen reduzieren Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[springermedizin.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdnQyYnlUcEJicGxSTWpnMGtfU3FUeXMwXzFNT1RpeW1JQkhvRHg0NE9hM3k5cGRZNHVHWFNOWEo2RzRGcXlTaTlaSHpSLTlVd0tPX1Vwa3o3emlLUkp2RFhGMEs5b3Q5RXFrMDNoeUV1eHVQYXBwSHVkYVFZX2F4QzJ0LW9vSzJaZnd2S2NmNXNHaVFIby1HR1pkZ3owWm5OWEFxcndIZllXNVRmMG96UXBKVzYwUjBZNUE3ak5lX3E2S3JiWHNoaTVmdExZRUNSa2dxRjRLWEtBUFpzZlVqR200MmQtN3FVTDFB?oc=5)
-
----
-
-### [New Wegovy pill vs fat jabs - best for fat loss and heart health revealed - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUpMdDRIZ0t2WVFEVnVnb3BjOWNFcTdfbk1UWTJaZWM2WUxFcW9OVlkzeGYwYWo5XzZmdjE4Rkk3aGxFZ0lPR1VsX2ZRb2hmd2oxcHgzNUd2S2JyVTlKVjZqTDNRbHhKc1Y4M1J1RjVnUmVyTmFNQ3pvZFMxLUxZN1dMRzBNNXZMenR4bGVxZlpTdw?oc=5)
-
-2026-07-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUpMdDRIZ0t2WVFEVnVnb3BjOWNFcTdfbk1UWTJaZWM2WUxFcW9OVlkzeGYwYWo5XzZmdjE4Rkk3aGxFZ0lPR1VsX2ZRb2hmd2oxcHgzNUd2S2JyVTlKVjZqTDNRbHhKc1Y4M1J1RjVnUmVyTmFNQ3pvZFMxLUxZN1dMRzBNNXZMenR4bGVxZlpTdw?oc=5)
 
 ---
 

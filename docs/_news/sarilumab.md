@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Mikrobiom-Therapie: 31% weniger Krankenhausaufenthalte bei CED durch personalisierte Ernährung - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1Y5a294Mm96c09wOTRGd2tYTWR2STNzY1J0T2kzS1otWXllQTFkZGM5djVic0hJXzQzV2lsdHpLeGc1VDg1VzU2NnVMQlNjeWMyRmxSdGZ5UXgxb2tJQUlIZ2lHcWRkUnhvVXBFSzRqVkowOW9WOE9ZcTdMOF9pZEJHUmg0Sm52RWhuYnYtMk1zVUtYQW5BaUJrRGlFajlTWXNzejBmeTZJV0tZX2t6d2VQaEtkcDNtekYwZEhMd1paRGc?oc=5)
 
 2026-07-09 <span class="news-indication-tag">Morbus Crohn</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1Y5a294Mm96c09wOTRGd2tYTWR2STNzY1J0T2kzS1otWXllQTFkZGM5djVic0hJXzQzV2lsdHpLeGc1VDg1VzU2NnVMQlNjeWMyRmxSdGZ5UXgxb2tJQUlIZ2lHcWRkUnhvVXBFSzRqVkowOW9WOE9ZcTdMOF9pZEJHUmg0Sm52RWhuYnYtMk1zVUtYQW5BaUJrRGlFajlTWXNzejBmeTZJV0tZX2t6d2VQaEtkcDNtekYwZEhMd1paRGc?oc=5)
-
----
-
-### [Asthma: Höhere Vitamin-A-Spiegel bei Kindern und Erwachsenen mit besserer Lungenfunktion assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
-
-2026-07-08 <span class="news-indication-tag">asthma</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS1ZWllzOHU1TW5NNmkzTVdmb1lNWFpVbHdJemlqZHA1MzdMM1RpOHEyNmFZYVgtYWNudTN6N2hPOE5PeDZUcl8tcERQSDBvMXZrSFlwcTJ2NVNUcGkxQlFSRXhhaFEycWUyNlNqV0xKMEtyN3JrR0ZHNGNJLVBZYlNJaTZ5bHNvTVNvREJ1V0l6Y2c3VTdyeDlGTm5qODZ5NFgwTWhkdUljZGFmbmtoeW9xcFFkOEtQUmR1SFRvLWJ4bkNlNXFj?oc=5)
 
 ---
 
