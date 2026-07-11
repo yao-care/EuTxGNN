@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Nuevas guías europeas apuestan por un abordaje integral y personalizado de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3FkM3A4V3h4MExyQ1dIVjVPdHVWdnR0UXNpWi1hYzNtUThtMXR2dmlmRUlZUUtYTTUzamFoQ0lwdG5KTjdFZ1JMZVhZMnR4TVlPdFp5MkhVbGxwQUxoa2w3OFBqZGZYbGlUZ29fNHkxTXBRdjFLQzNQQ3FUSTdmeUg5SXRVRXkzTllRODVRaFUtZmg2Y0hMSmNWTlhRVnFIdXh6OFZ4REx4ZmZHcExaVUY5VDA1TmwxbVc0b2M5dWQ1bnNk?oc=5)
-
-2026-07-10
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3FkM3A4V3h4MExyQ1dIVjVPdHVWdnR0UXNpWi1hYzNtUThtMXR2dmlmRUlZUUtYTTUzamFoQ0lwdG5KTjdFZ1JMZVhZMnR4TVlPdFp5MkhVbGxwQUxoa2w3OFBqZGZYbGlUZ29fNHkxTXBRdjFLQzNQQ3FUSTdmeUg5SXRVRXkzTllRODVRaFUtZmg2Y0hMSmNWTlhRVnFIdXh6OFZ4REx4ZmZHcExaVUY5VDA1TmwxbVc0b2M5dWQ1bnNk?oc=5)
-
----
-
-### [¿La obesidad se hereda? Un estudio apunta a la herencia genética como principal responsable - Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEktaHY3eG1qeVZYY3JCajZBeTB5QUpFZk5VOVNWbGtyUy10RzJtNU1haGpfcWFwMEUzOVlydklEQmxzQTR2TjVFSlVpeWswRHA3V3BJbk9Hb09jZFpXeFZsTHdKM2xBWS1TbWRjSmVmNlJmME1PZlFndVZ0SjFEdktBNVAzRVVSRjRmMlZxLXBfVjlGRGsyVkptMW1WUTM5TGRJ?oc=5)
+### [La próxima revolución contra la obesidad: de las inyecciones semanales a las pastillas diarias y los efectos "cirugía"](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3lFQ2h0aTMtYzlWTk9CQXpDemdYcnE2azNObWhERzFHQXNMY3ZRMGstMThlTlN2R01YUlRsTDEtVGYyOVBmOUY4ZEtzMDlWMWVIRUphS2dqSURyeWZOWGwwS0xDR2dJNG9JZmg3NmNldEMtM0xUbFl4eGlPZXFCd1B6dy1HbUh0N1BxV0NSVmx3UXVLVUtuNDV1ZmtUUVkzVldjR082MkRsTWNBa0FtQ0piY3hPTUp5ZlRkY2h0S0NnOEhNUGlkTVVzS1dSbjJiWkRQMjRrZXhKbEk3UFR3VnhUaDNtTElvUnc?oc=5)
 
 2026-07-10
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEktaHY3eG1qeVZYY3JCajZBeTB5QUpFZk5VOVNWbGtyUy10RzJtNU1haGpfcWFwMEUzOVlydklEQmxzQTR2TjVFSlVpeWswRHA3V3BJbk9Hb09jZFpXeFZsTHdKM2xBWS1TbWRjSmVmNlJmME1PZlFndVZ0SjFEdktBNVAzRVVSRjRmMlZxLXBfVjlGRGsyVkptMW1WUTM5TGRJ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3lFQ2h0aTMtYzlWTk9CQXpDemdYcnE2azNObWhERzFHQXNMY3ZRMGstMThlTlN2R01YUlRsTDEtVGYyOVBmOUY4ZEtzMDlWMWVIRUphS2dqSURyeWZOWGwwS0xDR2dJNG9JZmg3NmNldEMtM0xUbFl4eGlPZXFCd1B6dy1HbUh0N1BxV0NSVmx3UXVLVUtuNDV1ZmtUUVkzVldjR082MkRsTWNBa0FtQ0piY3hPTUp5ZlRkY2h0S0NnOEhNUGlkTVVzS1dSbjJiWkRQMjRrZXhKbEk3UFR3VnhUaDNtTElvUnc?oc=5)
 
 ---
 

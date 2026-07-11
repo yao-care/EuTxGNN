@@ -62,11 +62,11 @@ permalink: /news/tolcapone/
 
 ---
 
-### [Alcohol drives opposite brain circuit changes in amyloid and tau Alzheimer's models - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxORFBhOFozTkwtTEk0WVlSSThYa3phcGJhdkpYczhTRVo4U1c2LW1zajREaE1IcV8yd2prTDJsQzkzVzBNc190SWdQM0VyRERKSlE3QW1lbHh3WlVqanRLN2plTmo5YWFSMFliREhtLW5WN1drQ1RqZ3pxNURtWXRIYjdRUQ?oc=5)
+### [Early-Onset Alzheimer’s: The Symptoms Beyond Memory Loss - Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
 
-2026-07-08 <span class="news-indication-tag">Alzheimer's</span>
+2026-07-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxORFBhOFozTkwtTEk0WVlSSThYa3phcGJhdkpYczhTRVo4U1c2LW1zajREaE1IcV8yd2prTDJsQzkzVzBNc190SWdQM0VyRERKSlE3QW1lbHh3WlVqanRLN2plTmo5YWFSMFliREhtLW5WN1drQ1RqZ3pxNURtWXRIYjdRUQ?oc=5)
+來源：[Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
 
 ---
 

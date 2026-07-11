@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="Prasugrel 有什麼相關新聞？">
-<strong>Prasugrel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prasugrel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/prasugrel/
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Hohen Blutdruck sofort senken: Charité-Arzt verrät simplen Trick - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
 
 2026-07-10 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMivgFBVV95cUxPa2dZSnNHdDVDTXExZkx0eWI4MDQxdHNGX3lXWVYxcThkSFpkU2lOOVRKWXhIMjJ4WThUamY4enlsZF9Lb2VXOWhrMGNKcGFSaUhONnEtTEhCa0VZQ01rS2htSVBYNk83NGV3WS1KU1EzYnhOZFNVRmVINmFlb1VtQ1V0a3h2RzBLTWIwelhWVVNtX2dRNnZDcVpURmFTejFFc2g2ODJ4Tm5VeXQ0SDNMeUpxTnlzUERDRVFWdXp3?oc=5)
-
----
-
-### [Les personnes qui apprécient cet aliment ont un risque moindre de diabète et d'hypertension, selon les médecins - Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
-
-2026-07-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">hypertension</span>
-
-來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVNmSGdNU29HQ1RWQ3N5T1U3bHh2SldWcWdNb1NjalFtcGtkMXRJWjdPNXc2OTdfVEFFTnRfRm51MW1ac3I3b09LbGRvZjR3bnhES3ZzWE5ndFFtRnVzZ3hwbk1RcVpWZ2pOMTFUNmN6LXdhYnpLOUM4bE1GX1J4dVN2eE9zdEt2SU9SZjNRZG1wRUNB?oc=5)
 
 ---
 

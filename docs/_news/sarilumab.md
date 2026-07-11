@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（1 則）
 
-### [Mikrobiom-Therapie: 31% weniger Krankenhausaufenthalte bei CED durch personalisierte Ernährung - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1Y5a294Mm96c09wOTRGd2tYTWR2STNzY1J0T2kzS1otWXllQTFkZGM5djVic0hJXzQzV2lsdHpLeGc1VDg1VzU2NnVMQlNjeWMyRmxSdGZ5UXgxb2tJQUlIZ2lHcWRkUnhvVXBFSzRqVkowOW9WOE9ZcTdMOF9pZEJHUmg0Sm52RWhuYnYtMk1zVUtYQW5BaUJrRGlFajlTWXNzejBmeTZJV0tZX2t6d2VQaEtkcDNtekYwZEhMd1paRGc?oc=5)
+### [Morbus Crohn: Ernährung senkt Krankenhausaufenthalte um 31 Prozent](https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2VRdnVXQ0lNQ0hPdktPQjkwMnFoU2JPR3Q0Y0RzS25pdGstS3dUZnlidzFBZ0tiS2J2d1ZaSkQ1WlBnVWJISXlBX2dYUVVLdEFJby1yVkpCdlBocG96Y0hxSzgwVU1tUVgyWjNGZ3gwOGU1a0o2bFBzSGEwSGRPQ2swTE44b3dmaXRxQUFxTnJTVnhWS0hxSEQweXBpY2VMTVU2Z3JDT240M243YWFyOWJUMWdrdw?oc=5)
 
-2026-07-09 <span class="news-indication-tag">Morbus Crohn</span>
+2026-07-10 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1Y5a294Mm96c09wOTRGd2tYTWR2STNzY1J0T2kzS1otWXllQTFkZGM5djVic0hJXzQzV2lsdHpLeGc1VDg1VzU2NnVMQlNjeWMyRmxSdGZ5UXgxb2tJQUlIZ2lHcWRkUnhvVXBFSzRqVkowOW9WOE9ZcTdMOF9pZEJHUmg0Sm52RWhuYnYtMk1zVUtYQW5BaUJrRGlFajlTWXNzejBmeTZJV0tZX2t6d2VQaEtkcDNtekYwZEhMd1paRGc?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2VRdnVXQ0lNQ0hPdktPQjkwMnFoU2JPR3Q0Y0RzS25pdGstS3dUZnlidzFBZ0tiS2J2d1ZaSkQ1WlBnVWJISXlBX2dYUVVLdEFJby1yVkpCdlBocG96Y0hxSzgwVU1tUVgyWjNGZ3gwOGU1a0o2bFBzSGEwSGRPQ2swTE44b3dmaXRxQUFxTnJTVnhWS0hxSEQweXBpY2VMTVU2Z3JDT240M243YWFyOWJUMWdrdw?oc=5)
 
 ---
 
