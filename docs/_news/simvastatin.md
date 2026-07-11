@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Je suis cardiologue : ce fruit est meilleur que tous les autres pour baisser la tension et éviter l'AVC - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
-
-2026-07-09 <span class="news-indication-tag">AVC</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm8wRHhFdktRMWI5R1FCMm01Wms1REV4WFZKTmtxQWlhLW9vcENFWllfcV82bDE4SkxKUlduVUdGemxKTmg0T0VhUlU3VnVWZ2ZfWFhRRUFuTnFhamt0YXVIT2l6c3V2ejRuTmZTbFFOMWZ2QnRscXZORkZzTlE4NmpfS2pNaXAxQTZkbmJHQ1JFckhGT3pEUEpibmhQcUlFUzUxQWdvV1VLWlN3elZGRnhyM09Sc0tqLXE3cl81Ty1CNnE2dy1VcGhoWGV5c1o0LWc1dGxSMEluV0w2WFZ6MENMTExFdlh2bmJtWWNrckNNVG8?oc=5)
-
----
-
-### [Colesterolo, c’è un nuovo valore del sangue che ‘segnala’ chi è più a rischio infarto e ictus - la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzZNVzAzQ1B6QzVnY2lQTjFWZ0hEd0ZPSm5fZldEbnB3c0s5R1VXa3JKVml1ZUFZWml5bmxzUmJIb24wV05MLVZvZTBtYV95bld6cGlveUYtS3h0d2FTdl9DWUlKUk1OOHhjOVNaWFd6ZVlIWnYyTFRvUmNPaGUzVFh5RUhGSEhtSU5VSEc3akVKNTItTGJaUGFQcS1XUGE0M3BIZ19QMnd2ZXhoRU5GODZuVVRwemViZ0ZGdUVpONIBxAFBVV95cUxPQ05rUXJSLTJNajl2bWtGUnZvZHhqeUtpZXNZQVE3WG5YSHhoQU9XQlM0V3NLNGJ5SjA2TkxURnhfS1VQcEVPYXpRX21jeWRteUJuUzR4eUhEOFlWS1pnRXphb3c1a0szSWRBWjJ4d0I2bS1nMHR5Zl9kc01DaW0zRUJFek9DN0g0M20teWJ1dS1oQU5rRTlEaWNYaVpQOGJlQ3FUaDlJVzdrdGlxbEhreEVlY2pFcldDXzByaDg4TVFzMFdt?oc=5)
-
-2026-07-09 <span class="news-indication-tag">ictus</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzZNVzAzQ1B6QzVnY2lQTjFWZ0hEd0ZPSm5fZldEbnB3c0s5R1VXa3JKVml1ZUFZWml5bmxzUmJIb24wV05MLVZvZTBtYV95bld6cGlveUYtS3h0d2FTdl9DWUlKUk1OOHhjOVNaWFd6ZVlIWnYyTFRvUmNPaGUzVFh5RUhGSEhtSU5VSEc3akVKNTItTGJaUGFQcS1XUGE0M3BIZ19QMnd2ZXhoRU5GODZuVVRwemViZ0ZGdUVpONIBxAFBVV95cUxPQ05rUXJSLTJNajl2bWtGUnZvZHhqeUtpZXNZQVE3WG5YSHhoQU9XQlM0V3NLNGJ5SjA2TkxURnhfS1VQcEVPYXpRX21jeWRteUJuUzR4eUhEOFlWS1pnRXphb3c1a0szSWRBWjJ4d0I2bS1nMHR5Zl9kc01DaW0zRUJFek9DN0g0M20teWJ1dS1oQU5rRTlEaWNYaVpQOGJlQ3FUaDlJVzdrdGlxbEhreEVlY2pFcldDXzByaDg4TVFzMFdt?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

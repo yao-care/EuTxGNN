@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levodopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Une avancée israélienne pourrait permettre de diagnostiquer Alzheimer avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
 
 2026-07-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[IsraJ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
-
----
-
-### [Early-Onset Alzheimer’s: The Symptoms Beyond Memory Loss - Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
-
-2026-07-09 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Une avancée israélienne pourrait permettre de diagnostiquer Alzheimer avant l'apparition des symptômes](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
 
 2026-07-09
 
 來源：[IsraJ](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnJDLTVPbFZSaElhUy1Ddmdlb0ZCdWlpMFV3NTRhdGdEaHV6VEtDVDJTbi16dkJ6ODhleFJjZVBIdGNMa3FwQzB1cnpGTU5UakRlUlpkSXgwaXRNRmJMY1dtdUp4MFNIWFJUek82T01ieGgyOW5BMzU0YlJSUTZyRGJsN0c4dVY0ZmY0R1V4clZteXBTZk9pd2RQODhpMEx6Qy05M3F4dnZBUlNzRFBfVHJOUHVCRE9JQnA5TUNSX19wRDlOcTdrVDlRdHUyeVlSUzc4MDI5bFU?oc=5)
-
----
-
-### [Early-Onset Alzheimer’s: The Symptoms Beyond Memory Loss - Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
-
-2026-07-09
-
-來源：[Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
 
 ---
 

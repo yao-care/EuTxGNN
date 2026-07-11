@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。11 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>11 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
-### [Cuarta provincia de RD de Congo es oficialmente afectada por brote de ébola - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVhRRlRxVUZBX3ZDdkVnT0hTLW9HZVNmNFlzQVVQNnZzbjRxTUE1Q2tpaldUZS02ZE9jbUdGbHF2djI2QWx2NnVJOHZjSDN3QkdFYW5lcFV0OHFKMmR2WThqVy0yV1FXRHJRWlF0Tko1d3E1aUZ6VlAxRDYzcEtxdWZEZw?oc=5)
+### [RD del Congo eleva casos de ébola a 1.830 y 648 muertes](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWF9yc0E1Z0tTNV8zVmJMTXZPLTZiSllFSUxRUUJMMmxiUnI3TEswZEFvOFJYOVFWd1Z5aU9kcDJWdWUzNHRtOWNGU0s2UmJjeE0ydnNJemY0OWRVbFNDRVJudDJzbnB5OFdOR0ZfaFByZ2dOUXFWSjhMWFZXeXVXYlY1czNuRzJXdmM0MU5SdmUxZVJWRFU40gGXAUFVX3lxTE5uTEVZclAzWFliREtLUXZlMUxIUnozTExhTUJoLXgwMkJ6dUdva0xLMW1RYlN5S3ZCSGRlMk5yTl9OQ3U4RmFxYlZ3T000UjZOSk1JWU93YU53ZFNPc1YtV3BEcTNIclliU3h5QUUwTzA1SF9fZDR2bDV5UkdpZjF0VjVmREFKMWhaUmg4aGY2VmtmRjZhSFU?oc=5)
 
-2026-07-10
+2026-07-11
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVhRRlRxVUZBX3ZDdkVnT0hTLW9HZVNmNFlzQVVQNnZzbjRxTUE1Q2tpaldUZS02ZE9jbUdGbHF2djI2QWx2NnVJOHZjSDN3QkdFYW5lcFV0OHFKMmR2WThqVy0yV1FXRHJRWlF0Tko1d3E1aUZ6VlAxRDYzcEtxdWZEZw?oc=5)
+來源：[DW.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWF9yc0E1Z0tTNV8zVmJMTXZPLTZiSllFSUxRUUJMMmxiUnI3TEswZEFvOFJYOVFWd1Z5aU9kcDJWdWUzNHRtOWNGU0s2UmJjeE0ydnNJemY0OWRVbFNDRVJudDJzbnB5OFdOR0ZfaFByZ2dOUXFWSjhMWFZXeXVXYlY1czNuRzJXdmM0MU5SdmUxZVJWRFU40gGXAUFVX3lxTE5uTEVZclAzWFliREtLUXZlMUxIUnozTExhTUJoLXgwMkJ6dUdva0xLMW1RYlN5S3ZCSGRlMk5yTl9OQ3U4RmFxYlZ3T000UjZOSk1JWU93YU53ZFNPc1YtV3BEcTNIclliU3h5QUUwTzA1SF9fZDR2bDV5UkdpZjF0VjVmREFKMWhaUmg4aGY2VmtmRjZhSFU?oc=5)
 
 ---
 
@@ -69,6 +69,14 @@ permalink: /news/multiple-sclerosis/
 2026-07-10
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHFJeVJ5RkpqY0p2NkFNS0tQSmM3ckFCVDNvS3JZVFo1SzVGOVdXTE5IMHdfVGhfRFpFOHBHcmpBTHNpQkVlQXdiNFpwTkF2dnhWOUxhTmo4RVNOXzdJLUU0SmNpTWxkbmZMcjF1ZUduc2piblBVUWx3M2JXcjZ0TEVSYw?oc=5)
+
+---
+
+### [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat - The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG1pS25CU0lvR0N2T1FlcnJsdDlBVHp6UzU4bTVubVdBLWFjSzVkUmpPQ3hvVjhHRGZsT2d6b29PeGNTY3dZdjNIR0h5LU5WYWxIckhOa0pDcmlBUUdmZFFvODhkTW0yZkM1VFhhdUZla3VIQlJGNjBvbVJMLU4wOXNjTUNoOWRsTDJ3VlBJU05LbEpqbExTM0g4VG5meTduT3c2cmFHbTcxdXZQaURBWkdubGYyWk5BeGdleW1PcXljTm5hSU9GdXZEa29ycEIzTGc?oc=5)
+
+2026-07-10
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG1pS25CU0lvR0N2T1FlcnJsdDlBVHp6UzU4bTVubVdBLWFjSzVkUmpPQ3hvVjhHRGZsT2d6b29PeGNTY3dZdjNIR0h5LU5WYWxIckhOa0pDcmlBUUdmZFFvODhkTW0yZkM1VFhhdUZla3VIQlJGNjBvbVJMLU4wOXNjTUNoOWRsTDJ3VlBJU05LbEpqbExTM0g4VG5meTduT3c2cmFHbTcxdXZQaURBWkdubGYyWk5BeGdleW1PcXljTm5hSU9GdXZEa29ycEIzTGc?oc=5)
 
 ---
 
@@ -92,7 +100,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-07-10
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlFNdXRSbDl2RWtfU2k1OW5GVUVndmNJdGNKbkVwdy1QRXBqUUY3MG43ekY3TE82dXJydHNOVVFCSGVrZVNlZEZXWVlGN2ZYN3FRWUF1bnZRUVFUYmFEa2JIX19WOUlfUnVmQTBPVjE3NFlNT1pRT0tGbldMQk1NWjgtMnp4TTRIS2pTZHF0ek5mY1RzN0Z1ajRkWlFtektZejB3N2RlRVBORmY4NVdzdG56Qm1hazZWNzI1QVRrQ0w?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlFNdXRSbDl2RWtfU2k1OW5GVUVndmNJdGNKbkVwdy1QRXBqUUY3MG43ekY3TE82dXJydHNOVVFCSGVrZVNlZEZXWVlGN2ZYN3FRWUF1bnZRUVFUYmFEa2JIX19WOUlfUnVmQTBPVjE3NFlNT1pRT0tGbldMQk1NWjgtMnp4TTRIS2pTZHF0ek5mY1RzN0Z1ajRkWlFtektZejB3N2RlRVBORmY4NVdzdG56Qm1hazZWNzI1QVRrQ0w?oc=5)
 
 ---
 
@@ -120,14 +128,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Vitamin D: Brecht mit der Bruch-Prophylaxe!](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklDWDBDZTF1TkNjMWd1alpnZlViWm1RczlqS0RYd1NLZHpscGxDbWVjRmMzWHUyaG9GbDVNQnVCbmtocm10YkFXVXNZOWwxUjhBRXV6T2lrcTc5Wnh1YXcwX29xbEM3N05TdGwzaHVXUk1HalpGSjk5VjBwNm9POTNzWWI3aFJsVUR2R1dSbDdGQ3dEWnc?oc=5)
-
-2026-07-09
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklDWDBDZTF1TkNjMWd1alpnZlViWm1RczlqS0RYd1NLZHpscGxDbWVjRmMzWHUyaG9GbDVNQnVCbmtocm10YkFXVXNZOWwxUjhBRXV6T2lrcTc5Wnh1YXcwX29xbEM3N05TdGwzaHVXUk1HalpGSjk5VjBwNm9POTNzWWI3aFJsVUR2R1dSbDdGQ3dEWnc?oc=5)
-
----
-
 ### [Más de 835.000 niños y niñas vacunados contra la difteria en Kano (Nigeria) con nuestro apoyo - Médicos Sin Fronteras (MSF)](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lPM3lvS2NwcUJja2hGalRtX1k2V0pJQUxINFBEWENjdU1IZUpTT0RZQlVHV2V4bk9UUDZzN0R5OVNYbjNuczF0clN1T0hXZDI2S0F6SjNMZDEyNGRTdHZCbWRyOVozekUxUzcwOTRMRkFFMDRTdEhCME9GNnh0YmpiOTF4NWNvdHVhd1dEMWxJWVlrLTRRQ1Z3RmxwNkk2UEE?oc=5)
 
 2026-07-09
@@ -141,30 +141,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-09
 
 來源：[radio schwaben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHI3c0lKU25QOGNDNmZ0Yzl0ZjhESHNKd09keWxyLVBqSEpsbEpjTWRTWmk4aGVxM0UzR3FHRjJabVlXTWduMDZMcmxSWjlsOERxT3hEQk5BZTFnTVI2Q0ltSGx4OWg1MmdGMkRnSGtJZldNYkRqeXVxcld5YzE2M204QlU4bHhFMmdiTVQzZzQxRmN3dVlNMHN1UWhJb2VNM0ZUVTlWZktTME9UN0tUVDdrcEZTZVNKR00waTdsOVRUSTJUdXEwaHIwOWlFWjZKMURWN240YTVOeVZzUG5WaE9sT1ptQUNPZ19CeA?oc=5)
-
----
-
-### [Farmaci anti obesità: ecco le istruzioni di medici e dietologi per il loro uso corretto - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
-
-2026-07-09
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZtQWd6dVQ4WmMycWl3V3RMcUw5azEzcFliREFsVGxqX0daVnVCbzFrem1ZTzNsTF94VDZOdzlURkdFajZ5Ul9yd3E4NUhzQlVMWWZTOWlBRVFaTTd0cW82YlZSZ3JTTTlSd0xXVG9MZklUVlBZeTZmcEpyODdGOF9NVDlpb0JYdkNnSktLTE85TnhnUlNiTTNsNFJ1Ql9qQWpWbWJWZjRDWkJfVlZkY3hkclRSZG14RmhEVU0xS2EwdWtTWjl3?oc=5)
-
----
-
-### [Early-Onset Alzheimer’s: The Symptoms Beyond Memory Loss - Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
-
-2026-07-09
-
-來源：[Being Patient](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNllTbUplQWwwcVQ5MHFncWZIUW5sX3RsUXN4bm1NUVhTUnkwQTN5bmVzQU1HaXh5SXFuMHhkUHpTNlIteUdfZXdJLWQxN3FNWExzZnhZd1lhYWFQcUQ1YlRiQnAxaFBmUW5tMW53OEdyRzB1d2MwYW00bkk3ZVZUdG52YS13VFU?oc=5)
-
----
-
-### [Tiny silica particles wiped out aggressive prostate cancer in mice](https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5)
-
-2026-07-09
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5)
 
 ---
 

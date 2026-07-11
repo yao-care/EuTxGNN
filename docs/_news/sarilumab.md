@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Morbus Crohn: Ernährung senkt Krankenhausaufenthalte um 31 Prozent](https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2VRdnVXQ0lNQ0hPdktPQjkwMnFoU2JPR3Q0Y0RzS25pdGstS3dUZnlidzFBZ0tiS2J2d1ZaSkQ1WlBnVWJISXlBX2dYUVVLdEFJby1yVkpCdlBocG96Y0hxSzgwVU1tUVgyWjNGZ3gwOGU1a0o2bFBzSGEwSGRPQ2swTE44b3dmaXRxQUFxTnJTVnhWS0hxSEQweXBpY2VMTVU2Z3JDT240M243YWFyOWJUMWdrdw?oc=5)
+### [Morbus Crohn: Personalisierte Ernährung senkt Klinikaufenthalte um 31%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkkwV1YtdlY2RVE5ZDc5ZWU5amZOOERVejZEM19WY1FVYXdGU1NuSF83YWlEQVk2dkkwaElFLTBLWVZjdEFnbFJPUEhJN1ZSTWRGMGJ2Qk5GQVh4dkZtbWJrTTRZWVk2Wk1naXRsWDJCUUpKR1Q5S1EwMkduWUh2VEFkbU81cDZ0VFFVQWxfMndyN2RRTlFUWXB6dmVvcHlldmtTdEhNZG1Nb3BSWGZvS3hONlhlbU50Tmc?oc=5)
 
-2026-07-10 <span class="news-indication-tag">Morbus Crohn</span>
+2026-07-11 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2VRdnVXQ0lNQ0hPdktPQjkwMnFoU2JPR3Q0Y0RzS25pdGstS3dUZnlidzFBZ0tiS2J2d1ZaSkQ1WlBnVWJISXlBX2dYUVVLdEFJby1yVkpCdlBocG96Y0hxSzgwVU1tUVgyWjNGZ3gwOGU1a0o2bFBzSGEwSGRPQ2swTE44b3dmaXRxQUFxTnJTVnhWS0hxSEQweXBpY2VMTVU2Z3JDT240M243YWFyOWJUMWdrdw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkkwV1YtdlY2RVE5ZDc5ZWU5amZOOERVejZEM19WY1FVYXdGU1NuSF83YWlEQVk2dkkwaElFLTBLWVZjdEFnbFJPUEhJN1ZSTWRGMGJ2Qk5GQVh4dkZtbWJrTTRZWVk2Wk1naXRsWDJCUUpKR1Q5S1EwMkduWUh2VEFkbU81cDZ0VFFVQWxfMndyN2RRTlFUWXB6dmVvcHlldmtTdEhNZG1Nb3BSWGZvS3hONlhlbU50Tmc?oc=5)
+
+---
+
+### [BPCO, la nuova Nota 99 semplifica l’accesso alle terapie: più tempestività nelle cure e maggiore ruolo della medicina territoriale - Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
+
+2026-07-10 <span class="news-indication-tag">BPCO</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
 
 ---
 

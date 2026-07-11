@@ -14,7 +14,7 @@ permalink: /news/ixazomib-citrate/
 ---
 
 <p class="key-answer" data-question="Ixazomib Citrate 有什麼相關新聞？">
-<strong>Ixazomib Citrate</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ixazomib Citrate</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/ixazomib-citrate/
 <p><a href="{{ '/drugs/ixazomib-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
 
 ### [Prostatakrebs: „Wir glauben, dass solche Therapien langfristig zu Heilungen führen können“](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS3p2OWo5TjI1NHZKS1BqcTdXaWkyRzRJcGlxSXhIanBzY1lzMWowNzdHNlVYQkswNFZLQzFXZ1RNN2RKWm1Jc3c2Qi12b0FoVU0tN19BdWlFSlZTeGtHZlJ5UTBMUFNxcmFTN0xQaHQxTzBwaTdXLVVLY2J1YzBzc29EWTB0Wm0zcFNGOGVfRkRveUljNWRhVVNtLXNIQW44R19Lbm8zcEx6SUpRX2JqU2p4ZXktVmMtaF8yMF9lcU1XM3dzZWJNYS1YQmxJdEJsNDlJaGNIU3pHNmowaVZYVjN3?oc=5)
 
 2026-07-11 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS3p2OWo5TjI1NHZKS1BqcTdXaWkyRzRJcGlxSXhIanBzY1lzMWowNzdHNlVYQkswNFZLQzFXZ1RNN2RKWm1Jc3c2Qi12b0FoVU0tN19BdWlFSlZTeGtHZlJ5UTBMUFNxcmFTN0xQaHQxTzBwaTdXLVVLY2J1YzBzc29EWTB0Wm0zcFNGOGVfRkRveUljNWRhVVNtLXNIQW44R19Lbm8zcEx6SUpRX2JqU2p4ZXktVmMtaF8yMF9lcU1XM3dzZWJNYS1YQmxJdEJsNDlJaGNIU3pHNmowaVZYVjN3?oc=5)
+
+---
+
+### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0Q0OC11cHNRVEtLTktBZnNmQzNBTTB3Q1lPU0I0alotTzBTWWFHMGpzY0s5OUtTaEszV2VMNlN4a2o2TU5zb2RUeWZzZEFrWXdOSVl1VTVfWHdmX2FtamkwOUtMTld6b1QzUVp0WDhpQXUybzhhQlJJazM4S0NMS2tXTUlvUGEzWTZFR01BVU9UemhmYVZ2RVY2ZDA3OUJwbmhNeE5zSlY3dS1nWDBqVDNWOGJ0U2dWakhzRnU5Zlg?oc=5)
+
+2026-07-11 <span class="news-indication-tag">Krebs</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0Q0OC11cHNRVEtLTktBZnNmQzNBTTB3Q1lPU0I0alotTzBTWWFHMGpzY0s5OUtTaEszV2VMNlN4a2o2TU5zb2RUeWZzZEFrWXdOSVl1VTVfWHdmX2FtamkwOUtMTld6b1QzUVp0WDhpQXUybzhhQlJJazM4S0NMS2tXTUlvUGEzWTZFR01BVU9UemhmYVZ2RVY2ZDA3OUJwbmhNeE5zSlY3dS1nWDBqVDNWOGJ0U2dWakhzRnU5Zlg?oc=5)
+
+---
+
+### [People in 50s urged to complete bowel cancer screening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
+
+2026-07-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
+
+---
+
+### [Darmkrebs: Welche Vitamine helfen Erkrankten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGVYTnBweUFVTWRnUkY4OGhKSEN6WWlmdFVfN3puLXh0VHdXNEtkd2VsQkRYMmlPa2E5V2wxWDlBenY5RllMb1VqS2NOeVpZR0xXNk1IQ05wU2FYaS10VVFIUE5lLVJNT2F5UXowaHVzRVczSTRqUEhZUGpodENhWjZGaUFlVURzY2xEZHRqY2hnN2NNNDVUWV9RbEoxRm5NcnhsSUM4OA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">Krebs</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGVYTnBweUFVTWRnUkY4OGhKSEN6WWlmdFVfN3puLXh0VHdXNEtkd2VsQkRYMmlPa2E5V2wxWDlBenY5RllMb1VqS2NOeVpZR0xXNk1IQ05wU2FYaS10VVFIUE5lLVJNT2F5UXowaHVzRVczSTRqUEhZUGpodENhWjZGaUFlVURzY2xEZHRqY2hnN2NNNDVUWV9RbEoxRm5NcnhsSUM4OA?oc=5)
+
+---
+
+### [Analisi del sangue, cosa significano gli asterischi e quando possono indicare un tumore | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV28xcTdnb2FFY0M0UERYN2NXMVJ6VERacWRidTVrQlNrSm1QeTRiQ1dMUjhNOTZWb3MzVzVvcXI4WlVhemJldEpTYi1CbzBDRXlvbU0wQ2JKejVSQUJrSTNiMmllTWZ3Z0J4TkRtMGFpVzJqSmtRLWNPV1BxM0lKZnpWaWJnYjJmZFZXcXBfQzdPUDk2bTBCNVRSZzZ1X29QbnlETjlad1JlSlFWUTF3QnJiWW85WW12ekpYZkFYYVhLR0ZYUmQxR3UwNTR1UUhYRnhyWnpUdw?oc=5)
+
+2026-07-10 <span class="news-indication-tag">tumor</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV28xcTdnb2FFY0M0UERYN2NXMVJ6VERacWRidTVrQlNrSm1QeTRiQ1dMUjhNOTZWb3MzVzVvcXI4WlVhemJldEpTYi1CbzBDRXlvbU0wQ2JKejVSQUJrSTNiMmllTWZ3Z0J4TkRtMGFpVzJqSmtRLWNPV1BxM0lKZnpWaWJnYjJmZFZXcXBfQzdPUDk2bTBCNVRSZzZ1X29QbnlETjlad1JlSlFWUTF3QnJiWW85WW12ekpYZkFYYVhLR0ZYUmQxR3UwNTR1UUhYRnhyWnpUdw?oc=5)
 
 ---
 
@@ -102,14 +134,6 @@ permalink: /news/ixazomib-citrate/
 
 ---
 
-### [Valori del sangue anomali: quali possono indicare un tumore? I significati degli asterischi nei risultati degli esami - Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQR1FiRXk0T2JXUHpfT0xEOHlhWTU5YjFFY2hPSEsxQWg4ekZpSEJ2Z0JUNFM1U1ZHRFBLYTRobUF4bHdRQjhPNlU1V3p6a0NIeVdPd0pXclA4UUh0d2NBbXVkZkdpUmZOZXlZQ00yTkdLU2pPMFppTkVwM1YxeWxZbzJWejF5c1E0dGFOWnd3Z3BUYndFOS1CeHo1WHlkN0VJbUdxaDMxQ3B5OVZ0MElFV0FqbXNGWkUwMGxRTWtHWm12UDhoTmdkcGxueVNucGU3c3JmZVhNcmZhd3JZR0VvZ2VsQ1o2TDFiMXdybElEZktWNlFIdHpEdFlBc01ET1RNX2NNT0ZYY3JHVExObEkwdHFLRUtwcThudjBCM3pXZ1prMjhBYjU2T1oteEQwVHVBejlXS0RXZlkzMVVNY2x6Vg?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiwAJBVV95cUxQR1FiRXk0T2JXUHpfT0xEOHlhWTU5YjFFY2hPSEsxQWg4ekZpSEJ2Z0JUNFM1U1ZHRFBLYTRobUF4bHdRQjhPNlU1V3p6a0NIeVdPd0pXclA4UUh0d2NBbXVkZkdpUmZOZXlZQ00yTkdLU2pPMFppTkVwM1YxeWxZbzJWejF5c1E0dGFOWnd3Z3BUYndFOS1CeHo1WHlkN0VJbUdxaDMxQ3B5OVZ0MElFV0FqbXNGWkUwMGxRTWtHWm12UDhoTmdkcGxueVNucGU3c3JmZVhNcmZhd3JZR0VvZ2VsQ1o2TDFiMXdybElEZktWNlFIdHpEdFlBc01ET1RNX2NNT0ZYY3JHVExObEkwdHFLRUtwcThudjBCM3pXZ1prMjhBYjU2T1oteEQwVHVBejlXS0RXZlkzMVVNY2x6Vg?oc=5)
-
----
-
 ### [Santé. Pourquoi les jeunes sont-ils de plus en plus touchés par le cancer ? - Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlhaTzYwb05US2huMFR2U1RtMXZFWlN5MWk5YzNaNUxmUC1pUU1HOTNjYlloeG5jZ2oyNUljZzJBRDljOTY2SlNHLUhicHhlWUFqc2JCdlNWNXBDdVdhXzhHSk9OOWVIOEZZMEMyUEJvN0ZKNnFsamhXNFhnT0VScnN4THdBLUhQOUNzWk8xeVBIdzBQLUpRLXZFR25KMEUyeWRnY3ZaZldkSU5DWWJCSlBNWFZZUnMt?oc=5)
 
 2026-07-10 <span class="news-indication-tag">cancer</span>
@@ -123,14 +147,6 @@ permalink: /news/ixazomib-citrate/
 2026-07-10 <span class="news-indication-tag">tumor</span>
 
 來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVI2UjJtMUlRR2FhYUJwTFJ6cjBpeVBmelhiUF9PTmk5X2lMd0tXODlRcG1ocU1Oakh3QmFhc3BPTDVMeWtucXQ1R2RIRTdjbG9OYUJLNUlTNlF6d0ZxdWZEZkY5S0FqeVZEcW5PRTBUZXM3Z2pXejk5aDAwTjZxelN2c2hlNmhvOXpEcnlZNVVUMHFEdGE1SnctNFBKck9WUHJGZXFLVVpTMXVMbDRaSkg2M1ZOTXdzTDM5VA?oc=5)
-
----
-
-### [Rayons UV : voici en combien de minutes votre peau peut attraper un coup de soleil cet été en France](https://news.google.com/rss/articles/CBMikgJBVV95cUxOTC1xZU01azc1MkZhYjVRTVZfajRYaFdBVl9Na0hSdlpXaXVQWGpFa3VjNjlKcVotQUJ0NmY5eVNsbDJTQ2FHUUNzU2VWTFNvVjFUSkZyM0lfQ3Z0NnlmNF83RTJuMWo5ZGM1bnZYUlJXN044Y2JDUi0zdzluM2NaZ053dHlPdS1MSTRYYzB1VHdJb2lRcllMS1pReTdMQlpwa1lETlJaNENXRTU3c0QxemhNU1dpVk85cFpXa1ZoVF9oTmY1Nmh6bWJOLXJIdjRXNHpZX1lMZUR6dW4zaC1aU25vS0dYczQ2aVhTS2ZtYjlpY1AyVVVKaHRya0E4UEhRTjJfcXI2YzQ4THlmMHJQbkVn?oc=5)
-
-2026-07-10 <span class="news-indication-tag">cancer</span>
-
-來源：[tameteo.com](https://news.google.com/rss/articles/CBMikgJBVV95cUxOTC1xZU01azc1MkZhYjVRTVZfajRYaFdBVl9Na0hSdlpXaXVQWGpFa3VjNjlKcVotQUJ0NmY5eVNsbDJTQ2FHUUNzU2VWTFNvVjFUSkZyM0lfQ3Z0NnlmNF83RTJuMWo5ZGM1bnZYUlJXN044Y2JDUi0zdzluM2NaZ053dHlPdS1MSTRYYzB1VHdJb2lRcllMS1pReTdMQlpwa1lETlJaNENXRTU3c0QxemhNU1dpVk85cFpXa1ZoVF9oTmY1Nmh6bWJOLXJIdjRXNHpZX1lMZUR6dW4zaC1aU25vS0dYczQ2aVhTS2ZtYjlpY1AyVVVKaHRya0E4UEhRTjJfcXI2YzQ4THlmMHJQbkVn?oc=5)
 
 ---
 
@@ -150,14 +166,6 @@ permalink: /news/ixazomib-citrate/
 
 ---
 
-### [Widow of Co Antrim farmer who died of rare cancer 10 weeks after diagnosis urges people to heed ‘trends’ in their health - Belfast Telegraph](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUUZpckNVVHBDTW5aRElRUGhxcnZMa0dvbEgzSTdqSEpQVjkxT0VRTUNiM0d1bGZvRGg0QlNSZWlhbDcweC1pZ0RoUHlVWTh4R2U2QW5tMG1hU1ByN0hNZVlldEpxcENrOFpOTEVUZ216S0VKbGpUelI1R1oyNTctMkpLbHZiblNGSC1zMzhmdlByQUsweDBEeFNuVUNzRGhBb0VMRDJTYzYxZFpVMUsyT2xWSVR1c01RSDFnMkVKcXQwRjdyYnN5d0VveklEWmYtcUhjeGEzdl9LNE9ESno5M1U5OE9NWG1RUm9Cdks2a0Z1anRZR0tXNmg4eHZ6cUVSQm90NVJ3?oc=5)
-
-2026-07-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Belfast Telegraph](https://news.google.com/rss/articles/CBMihgJBVV95cUxNUUZpckNVVHBDTW5aRElRUGhxcnZMa0dvbEgzSTdqSEpQVjkxT0VRTUNiM0d1bGZvRGg0QlNSZWlhbDcweC1pZ0RoUHlVWTh4R2U2QW5tMG1hU1ByN0hNZVlldEpxcENrOFpOTEVUZ216S0VKbGpUelI1R1oyNTctMkpLbHZiblNGSC1zMzhmdlByQUsweDBEeFNuVUNzRGhBb0VMRDJTYzYxZFpVMUsyT2xWSVR1c01RSDFnMkVKcXQwRjdyYnN5d0VveklEWmYtcUhjeGEzdl9LNE9ESno5M1U5OE9NWG1RUm9Cdks2a0Z1anRZR0tXNmg4eHZ6cUVSQm90NVJ3?oc=5)
-
----
-
 ### [Suva warnt vor starker Zunahme von beruflich bedingtem Hautkrebs](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUpUU3lkS1FoSWhOc3E1aUtsU1pOblJnODdqdnNoMkJKdlAxZjBLbWJ3QTJtLXZ2MGY1c18wZnpfQ1U3MDhKNXQ0RmZpRU9YVnBSS0JiR0w3bS01LWo1Tmo0d1ZHaDRJUnNIak4zRkNWR2R2c1dyM3ZKRUtELUJtSk05NThxYmlZ?oc=5)
 
 2026-07-09 <span class="news-indication-tag">Krebs</span>
@@ -171,22 +179,6 @@ permalink: /news/ixazomib-citrate/
 2026-07-09 <span class="news-indication-tag">cancer</span>
 
 來源：[vidal.fr](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1FDWEc0QnZZVUo3YTRHWGYybG9DcmVRTk45WVV4Ry0zMEhwVkhoXzFWbFc0R1MxNzJsYlRHSU45VVJLSTByRVhKVUxEZDNVZmRSeFNDMHd2bmQ2U1hMNk1MUWQwZWFaRlg5Mjd0RVMwV3Vabklhc1AwZGFTVVR5eDk3NEdFd2VMV3Ziekt6MFdzSTRyVXNiRnFzajE4bGhGbVdpakFLLXNQYl9hNnVxd19sZzJxSmEt?oc=5)
-
----
-
-### [Cancer : comment l'entraide animale a favorisé des gènes protecteurs](https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3dUVFlDS3hpeEtHQkt6NHRISXJSb3FxX1htSHBsOEEyODZHMGV5RFZuUzA1UjJ1a1pvNWhlTktEZ2RuVWpVd3I0c1NNVVd5ZFlmUTBaN0VyWTk0N0sxY1hLX0Iyb3dmZV8teF9kaVZtdW5fOUozdzlZYkdvOXBPajc2QTlDOWhvNUkzcmsxdzlzQjBINkgwSjVMbm01RXNhdDNnVkJFSGZhVC1nTldrM2JFQXRJdnU2YUdjaF9vUXlNQS1icXZKc25BOA?oc=5)
-
-2026-07-09 <span class="news-indication-tag">cancer</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3dUVFlDS3hpeEtHQkt6NHRISXJSb3FxX1htSHBsOEEyODZHMGV5RFZuUzA1UjJ1a1pvNWhlTktEZ2RuVWpVd3I0c1NNVVd5ZFlmUTBaN0VyWTk0N0sxY1hLX0Iyb3dmZV8teF9kaVZtdW5fOUozdzlZYkdvOXBPajc2QTlDOWhvNUkzcmsxdzlzQjBINkgwSjVMbm01RXNhdDNnVkJFSGZhVC1nTldrM2JFQXRJdnU2YUdjaF9vUXlNQS1icXZKc25BOA?oc=5)
-
----
-
-### [Tiny silica particles wiped out aggressive prostate cancer in mice](https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5)
-
-2026-07-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5)
 
 ---
 

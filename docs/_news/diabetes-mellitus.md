@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,13 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Demenz-Prävention durch SGLT2-Inhibitoren: Pflege-Lücke und neue Fristen im Blick - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaklrRWY5b25pMFEzUnc5NmFlVkpfWlZKai1EcEtvb0VnVDNVVGg2TmtDeHFqMFN0TklmcmV6UHYyM1FDREYyRGwwSWs3YWFBdWZROTVncWdPcGNMTU9qNDFaM0t6SXdYRmN2Y1EzekNOMW1GaERvM3FSWnVDRm1vWVlJZVJSVVNlVkcyMWMzTmNYRVdGUElTYWdHYlVRWWVvXzZaMkJoUUo4bzdMZHh5dktYUHc?oc=5)
+### [SGLT2-Inhibitoren senken Alzheimer-Risiko: JAMA-Studie zeigt bis 43 % - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
 
-2026-07-10
+2026-07-11
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaklrRWY5b25pMFEzUnc5NmFlVkpfWlZKai1EcEtvb0VnVDNVVGg2TmtDeHFqMFN0TklmcmV6UHYyM1FDREYyRGwwSWs3YWFBdWZROTVncWdPcGNMTU9qNDFaM0t6SXdYRmN2Y1EzekNOMW1GaERvM3FSWnVDRm1vWVlJZVJSVVNlVkcyMWMzTmNYRVdGUElTYWdHYlVRWWVvXzZaMkJoUUo4bzdMZHh5dktYUHc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
 
 ---
 
@@ -148,19 +148,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Expertos piden optimizar la protección renal en pacientes con ERC, diabetes tipo 2 y obesidad desde etapas tempranas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
+### [Diabete di tipo 1, non colpisce solo bimbi e adolescenti: può comparire anche negli adulti, ecco perché](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
 
 2026-07-09
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMnduOElHTWFUQXJPcVpJRGVYRzBCMk9sMDFPeHFmQ0llREdxZVdSR1JvQ2RhcHRpUkk4VW0zUE5RZHoxUlhGYlFMNVJNZmN1RFVPTHRuVW94WXJ5SHBSZUl2UU5wRjQ0ZC1vamNtSG9jbWQwQ0gzejE0OTFqcUdSWmJ2bGZIRDNNNGFWWGgweHNVZHhHTV9HZ0JGOW43dFBLVDQyWVFmZnZZelI2dGhoWEkzODJDd1pDbGN0Rm9zM0E0amZrT3A4YVRmWHB1VjV6VzEtTEY0MXRjZTdDNUlISU9paWNEUFZQaTdoazRYb1VsQQ?oc=5)
-
----
-
-### [Diabetes: Kontinuierliches Monitoring senkt Herzinfarkt-Risiko um 72%](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
-
-2026-07-09
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmxHUjg3djJGa0NkTENvbFM0dWJXNXlWUWlsMGpFXzR1eUU0VkZGU2p5TGJuYlZ5UHpaRjd1N3NpSXlib2d6YzJjWHVUWXU1UkFPNXBzQkhkMWRtR2FrTjdCbkh1amJ4S1d3ZkdpZXRQVDRpeTFlSFYtOWhwSGoxT1lST2xHMk1QWjRTQXh1d2pQNTMyMlo3Z0Q3Q3VjcEhJS0FxSmkwSGx6eGlMQTFrWmdCaVAtd3M?oc=5)
+來源：[DiLei](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
 
 ---
 

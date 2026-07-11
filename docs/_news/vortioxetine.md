@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Kann Kreatin das Gehirn vor Demenz schützen?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVRmNnA2aHR1ZDZQU0p3Y2hnNGt2LUZZY3EwRFN2Y0ZKcFhzeC0tVWVoX0ZRYVZLQjhyaGFhY3RXTkllSzFPaUpXSVNKdnFpenZkYUJ1VWFQRzdYZXp1NlI4QVlxTlBwVHR5cVJDZFlJcC1wUEQ0NHNld1pjVGN1OWRTUlR3Rm5fNlE3LUJzbC1waDNDT3ljSXl1eEtFczg5VGw2ZjE5VkM?oc=5)
-
-2026-07-09 <span class="news-indication-tag">depression</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVRmNnA2aHR1ZDZQU0p3Y2hnNGt2LUZZY3EwRFN2Y0ZKcFhzeC0tVWVoX0ZRYVZLQjhyaGFhY3RXTkllSzFPaUpXSVNKdnFpenZkYUJ1VWFQRzdYZXp1NlI4QVlxTlBwVHR5cVJDZFlJcC1wUEQ0NHNld1pjVGN1OWRTUlR3Rm5fNlE3LUJzbC1waDNDT3ljSXl1eEtFczg5VGw2ZjE5VkM?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
