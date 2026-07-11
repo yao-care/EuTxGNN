@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
+
+### [Demenz-Prävention: DASH-Diät senkt Alzheimer-Risiko um 41%](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWFyaFU2bzFyUkYwWHd4MmN3YVduYXUyZ3dIZGRaTUtLX09feFNOcUozRFlCeU5WMVNmNXlDRmFoZU10NzU5XzJGcUtOTGxqUzJCQXQxazBFRGhxVHRCd0VqTGxQY0l1dk4tOTVrRkk2bkRlT0pVeG5Ec3pjc2Fvb21aNVVsY1ppV3Q3aVpXRUsxNHhSWW5Dem95M0twQXlkSzBILWRjd2lrVGo3elNvMWNteDg5QQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWFyaFU2bzFyUkYwWHd4MmN3YVduYXUyZ3dIZGRaTUtLX09feFNOcUozRFlCeU5WMVNmNXlDRmFoZU10NzU5XzJGcUtOTGxqUzJCQXQxazBFRGhxVHRCd0VqTGxQY0l1dk4tOTVrRkk2bkRlT0pVeG5Ec3pjc2Fvb21aNVVsY1ppV3Q3aVpXRUsxNHhSWW5Dem95M0twQXlkSzBILWRjd2lrVGo3elNvMWNteDg5QQ?oc=5)
+
+---
 
 ### [Hirntumor-Impfung: Studie zeigt sehr hohe Überlebensrate nach acht Jahren](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVNDalUwa3ZOWUY4dm9MRDZuakNWSXp4RG5Vb3hmNDZVV2FpYkNyZk5PdF9OeWFRejRnWVFWdkdUNFpQTmYtcVY0QUVFQmRQaUUzNHpPTVVXZDFVU3dpbXJsZGQ4Y01Yd2JUMk4wb0hyQlc4X3dMeFFSb05YbUFoRllYRVo5bnZSdkZXWUE4cDVuendDVEdsQUV6ZTVWRTI3Ry16c0tmV2ZYNE9zYUE?oc=5)
 
@@ -94,6 +102,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Tumori in aumento negli under 50: perché cresce l'incidenza e quali sono le possibili cause](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzRvZTFMdVFIRk9oaGhMcS1HYWFyX0xmcXhJUlZDbFEzVmxKMVktQ2xMc2ZTWThEZmxVRnpSdThxMGE4WEotNjdHSll1RXpTM1BxeGlESS01VzBlSkRROWZRVk1aekt3QWY4cWk2S1pmWFE0SlNlcnRRNWRCRkYwV3docDVVbkU2REhGYnVuekstek1lVDUxS3dBUkczOVA4MzVRMtIBaEFVX3lxTFB3NmxDdGk1eHE5Z0g1NUhlWElIY2JJMWJna0hiZW80N1lacUp5VDJ1dndQVEJGNkFaTlJBcHVyQUpLcGtralgwVFFFNGVOTGVDemlwcU5lSkt6NzNzdGtYOUs2RDhUTTg3?oc=5)
+
+2026-07-10 <span class="news-indication-tag">tumor</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzRvZTFMdVFIRk9oaGhMcS1HYWFyX0xmcXhJUlZDbFEzVmxKMVktQ2xMc2ZTWThEZmxVRnpSdThxMGE4WEotNjdHSll1RXpTM1BxeGlESS01VzBlSkRROWZRVk1aekt3QWY4cWk2S1pmWFE0SlNlcnRRNWRCRkYwV3docDVVbkU2REhGYnVuekstek1lVDUxS3dBUkczOVA4MzVRMtIBaEFVX3lxTFB3NmxDdGk1eHE5Z0g1NUhlWElIY2JJMWJna0hiZW80N1lacUp5VDJ1dndQVEJGNkFaTlJBcHVyQUpLcGtralgwVFFFNGVOTGVDemlwcU5lSkt6NzNzdGtYOUs2RDhUTTg3?oc=5)
+
+---
+
 ### [Kreatin gegen Krebs: Wie das Fitness-Supplement Immunzellen aufladen soll](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUDJUTkNKNnMxVlRDZnEzTHl0QUZSY3VNbWhBckloM2RBeHRVZkhvZlgwVFdlcEVFazhGQkhmSENrSlFyd3BMRXNhRElmOFV2VVhpM3RhYWRhR3RnZVpQY0JpWVJuNThrZFlNQ08yLWJLNzNWNUhrMVI3TXRzcTJKWW9MWkpzLWZQbkpmTWtxWFNyQVJ1Wks5SDJXY1hkOVpsZ1RVZVZQbHNyUmluMGd5YUc3cDlmTXdDMF8w?oc=5)
 
 2026-07-10 <span class="news-indication-tag">Krebs</span>
@@ -110,14 +126,6 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Red-flag symptoms of sexually-transmitted tummy bug surging NOW…how to avoid - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXRyYWJlZ1hrdU5RdEluMFY4MU02YndfcHRoYjVObU1rOWhtb2FIbmtVVGtmQ0o4UG5Ra21fcjk0UHZJbnMyT2tSc0IyTWVnRzlJOGYtWHBLNUJuM24tcTNEeUpFTVVzMVUxd01sT01kVzdFMWpPcVBSaTRYVkhDRXFLSG5rZU42OFQ5Q2FB?oc=5)
-
-2026-07-10 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXRyYWJlZ1hrdU5RdEluMFY4MU02YndfcHRoYjVObU1rOWhtb2FIbmtVVGtmQ0o4UG5Ra21fcjk0UHZJbnMyT2tSc0IyTWVnRzlJOGYtWHBLNUJuM24tcTNEeUpFTVVzMVUxd01sT01kVzdFMWpPcVBSaTRYVkhDRXFLSG5rZU42OFQ5Q2FB?oc=5)
-
----
-
 ### [Kann Joghurt vor Darmkrebs schützen? Große Studie liefert neue Hinweise](https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWxFS0VSeDN3OS1NN1dDbk9PQ2g5THp6LU9TYTBuS0x2elhGaE1fM25NSUdKMFIxdUVyQU1tNldITWw4Q2d0a05aMnllOWFpcGFLSXU5SjB0T3UtdU55b1BFaGcxZzVQMExhOTdEZlBveTFLZm9IeTVKLVYyNmVTbUhsVVdOSmF0LVljU3ZEQ3JyOGQ0?oc=5)
 
 2026-07-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -131,14 +139,6 @@ permalink: /news/amlodipine/
 2026-07-10 <span class="news-indication-tag">tumor</span>
 
 來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjRaTmxNai0xenJXeTJsdHFfTGNmdGgwa0ZkSzJMMGU2bHhqVXdZRXE4X1ZjZlp5QTFtWkRxaHBzVmNfS051NFAzdkhRd2xzanExSFZ6VGtPa0dtbnY3WW50V19kTFJSdHA3WnJSUHZ4U0pXODVTZktiX0ZtbDI0b0F4eXFDVXdBX1FqS1lhRExObnI3bnc3MXpDLVZnMWJ1V1F3Wm9ORDdYX2Y5ZXozVFB1bEhQMldVVS1V?oc=5)
-
----
-
-### [Cancer : une expérimentation française veut réutiliser des médicaments non utilisés](https://news.google.com/rss/articles/CBMie0FVX3lxTE12YVZCSFA5ZnhSdWxUVmJ0UjVjc2tQVlM5cHRQV1BCWU9CVEd1T2V6MXd6aHhLSGV6dWI4SkM2ZktGT01hYm1ZWUliSzB1ekhtVl9JWDdMcVc4SGJ4ZVQ0QnEtQUEzMzZmR2owblplUGVtY2gzSzNsdTBkRQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">cancer</span>
-
-來源：[ma-sante.news](https://news.google.com/rss/articles/CBMie0FVX3lxTE12YVZCSFA5ZnhSdWxUVmJ0UjVjc2tQVlM5cHRQV1BCWU9CVEd1T2V6MXd6aHhLSGV6dWI4SkM2ZktGT01hYm1ZWUliSzB1ekhtVl9JWDdMcVc4SGJ4ZVQ0QnEtQUEzMzZmR2owblplUGVtY2gzSzNsdTBkRQ?oc=5)
 
 ---
 
@@ -171,14 +171,6 @@ permalink: /news/amlodipine/
 2026-07-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlhaTzYwb05US2huMFR2U1RtMXZFWlN5MWk5YzNaNUxmUC1pUU1HOTNjYlloeG5jZ2oyNUljZzJBRDljOTY2SlNHLUhicHhlWUFqc2JCdlNWNXBDdVdhXzhHSk9OOWVIOEZZMEMyUEJvN0ZKNnFsamhXNFhnT0VScnN4THdBLUhQOUNzWk8xeVBIdzBQLUpRLXZFR25KMEUyeWRnY3ZaZldkSU5DWWJCSlBNWFZZUnMt?oc=5)
-
----
-
-### [Tumori, cresce l'incidenza negli under 50: perché i casi aumentano e cosa sappiamo davvero - Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVI2UjJtMUlRR2FhYUJwTFJ6cjBpeVBmelhiUF9PTmk5X2lMd0tXODlRcG1ocU1Oakh3QmFhc3BPTDVMeWtucXQ1R2RIRTdjbG9OYUJLNUlTNlF6d0ZxdWZEZkY5S0FqeVZEcW5PRTBUZXM3Z2pXejk5aDAwTjZxelN2c2hlNmhvOXpEcnlZNVVUMHFEdGE1SnctNFBKck9WUHJGZXFLVVpTMXVMbDRaSkg2M1ZOTXdzTDM5VA?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVI2UjJtMUlRR2FhYUJwTFJ6cjBpeVBmelhiUF9PTmk5X2lMd0tXODlRcG1ocU1Oakh3QmFhc3BPTDVMeWtucXQ1R2RIRTdjbG9OYUJLNUlTNlF6d0ZxdWZEZkY5S0FqeVZEcW5PRTBUZXM3Z2pXejk5aDAwTjZxelN2c2hlNmhvOXpEcnlZNVVUMHFEdGE1SnctNFBKck9WUHJGZXFLVVpTMXVMbDRaSkg2M1ZOTXdzTDM5VA?oc=5)
 
 ---
 

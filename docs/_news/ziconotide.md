@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（4 則）
 
+### [15 People Tried Popular Healthy Habits, And They Backfired In The Worst Ways](https://news.google.com/rss/articles/CBMie0FVX3lxTFA4bFNMaE9leUhNSS1uTG1FSTJnUm5YNEE3ci1mZ0pwc0poX0xLNzVVYURXSUR2Rm82RWlFbGt0Zml5ak5mbzlEOVI1LUNZMnZtTkdBRUl2S0dtRnpkN3NkQlNDdmxzYTBnV09jUlV1LWEtcUpCamNIZkpIaw?oc=5)
+
+2026-07-11 <span class="news-indication-tag">obesity</span>
+
+來源：[BuzzFeed](https://news.google.com/rss/articles/CBMie0FVX3lxTFA4bFNMaE9leUhNSS1uTG1FSTJnUm5YNEE3ci1mZ0pwc0poX0xLNzVVYURXSUR2Rm82RWlFbGt0Zml5ak5mbzlEOVI1LUNZMnZtTkdBRUl2S0dtRnpkN3NkQlNDdmxzYTBnV09jUlV1LWEtcUpCamNIZkpIaw?oc=5)
+
+---
+
 ### [El dolor no es «lo que toca por la edad»: cómo prevenir que aparezca - La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlZdkRTai0tT3hJLW5TR1hNWW4wSE9xa3VqQkVHWUVtU1BvMGdlbDRWUG5JNFFYMDB2YXRSOXdHaWhTeTJ0clRQcmRTNUIwbWlUa3J4Q0QyT1NrRWt1Q2VPQllreU5YVUJNUEcta2FyUU91WlJmcGNCVFRya0ZFQlYxQ0dVSkpvX0tqYXZrNGlRZzNiY2dFNUZlNDNvOUtfcDQ1bkZIRnNQUDlPeFRlTWtTYjdrUWc0WmtldFhzUVV3dVVERHRxNVVlakI1M1BBaFYxUzFyRdIB3AFBVV95cUxNQmN6Z0VKaHJLcFUyOUhiWW0xaE8xMDVxUGs4YlhHT0VOd2liRlhCek1IMWdrYXBOTnU5ZUhFY3dINXRmY29nNnBRVFFGOTkwM2VjWVFGR3hvZk9kbGdNa1BsOG1udTdvNFVLODdWSkw4Q3psNkQzV2JOcnMzaEp6TUN3bWxNTHAxZ0xPcUFiYTNoUU03bTI1Q0NVRW1lWTVuT3pxUHA3LUluOE0wNkJ4RHFnMlUzSDIzNFRHaXdIX3lZRWdxWTZPZG83NFJoQkFvOEhOUXlEZzdkX3VY?oc=5)
 
 2026-07-11 <span class="news-indication-tag">obesidad</span>
@@ -70,19 +78,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Obésité : une vaste méta-analyse compare les bénéfices et les effets indésirables des nouveaux traitements](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDUyenE2MkNfQ3o4NzBRd25xVzNhU1hXcHFaT25ob1FpSTFNRHNfLU82U3g3RzZmWDFxbDd3LUVlcC1PeFdDTUtlbTZhWUZMOTFJbmhtQmxHbXlIQzhjb0MxaVp2RGxnWEhaRlFPNmo0dVd1NjZyaEhVTkwxUkJVcHM5SnBjTy1oU19mbG1CQ3FxZkw1RWp2RTJoN1hVR3VnTFZYUkhEVm1TX0UyUFVwWg?oc=5)
+### [Expertos perfilan nuevas estrategias para proteger el riñón en diabetes tipo 2 y obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkR0VkxIT2k5dVlBM2xnaVVBWFdfVUlJYnVIeHRGc05sWXFNcFV5RVRVRGpOQ21sTE1JMVdJTXNfN1dhYlFUU2p4R0FSVmV5R0xucEgzUl9CX0FlWHlVNFFuWjgtdnZRNVFIX1I5VGNnOWxlSGlDNkMxd3NlRlF2YW9xcXVtcGY2Vm1MaldpcS1SOE9TZURIV1RFRDljLV9UN09KYmZtMl9TZi1nUkxuUGlubksyQUl1VmxDMVptdlrSAbsBQVVfeXFMTkc3QWpBdm42VGtxcWgzRXhQb2NpYmc0S004N2R0N3hGTVowR0RYaW5rY01iNzlBWDVNRGRYMXpCb0loVFpTZHVjRFdLUklUTW1QNXdBWjhna3hQR1JTTENCTlQ2M0pKMXdTUGh4X2oyNWgzQU5kVnU1QmttVDEydlozOE9IN2lIZW8tQ1JLRl9TeG9IVWk1V3hWTmJQRE4tMEZocC1keXRKZG5BZU1xeVF6bVdNOF9CblZBTQ?oc=5)
 
-2026-07-09 <span class="news-indication-tag">obésité</span>
+2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Egora](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDUyenE2MkNfQ3o4NzBRd25xVzNhU1hXcHFaT25ob1FpSTFNRHNfLU82U3g3RzZmWDFxbDd3LUVlcC1PeFdDTUtlbTZhWUZMOTFJbmhtQmxHbXlIQzhjb0MxaVp2RGxnWEhaRlFPNmo0dVd1NjZyaEhVTkwxUkJVcHM5SnBjTy1oU19mbG1CQ3FxZkw1RWp2RTJoN1hVR3VnTFZYUkhEVm1TX0UyUFVwWg?oc=5)
-
----
-
-### [Expertos reclaman una protección renal precoz en pacientes con ERC, diabetes tipo 2 y obesidad - Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkR0VkxIT2k5dVlBM2xnaVVBWFdfVUlJYnVIeHRGc05sWXFNcFV5RVRVRGpOQ21sTE1JMVdJTXNfN1dhYlFUU2p4R0FSVmV5R0xucEgzUl9CX0FlWHlVNFFuWjgtdnZRNVFIX1I5VGNnOWxlSGlDNkMxd3NlRlF2YW9xcXVtcGY2Vm1MaldpcS1SOE9TZURIV1RFRDljLV9UN09KYmZtMl9TZi1nUkxuUGlubksyQUl1VmxDMVptdlrSAbsBQVVfeXFMTkc3QWpBdm42VGtxcWgzRXhQb2NpYmc0S004N2R0N3hGTVowR0RYaW5rY01iNzlBWDVNRGRYMXpCb0loVFpTZHVjRFdLUklUTW1QNXdBWjhna3hQR1JTTENCTlQ2M0pKMXdTUGh4X2oyNWgzQU5kVnU1QmttVDEydlozOE9IN2lIZW8tQ1JLRl9TeG9IVWk1V3hWTmJQRE4tMEZocC1keXRKZG5BZU1xeVF6bVdNOF9CblZBTQ?oc=5)
 
 ---
 

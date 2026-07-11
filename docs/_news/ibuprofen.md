@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Un estudio internacional descubre un efecto desconocido del ibuprofeno que podría ayudar a millones de personas - La Razón](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLURLYUZPN1M1UU1zNnJ4YTg1Y00tT25NQlV1Nkg1Z05wektPRVJfYjU1eE5xQl9oN2NMTEc2ZG81Rl9nZm4tSnUtZ2ZKSDFabWdZb1dKRkM3a2NDQWJwNGJnN2xUTC1YcDVEaVZYMVhuOXRudWJ0RVRmdzdsWGFvVGFpRjZKNkNoNk9hZXJObHhBc1VSV21iZTNid0NBR3MzT0hsVXM0M0xnM21wRjE4dm1VemtILXdtbEtYUjlJekoya0ZreVVTS2RHUWN4bG1xRWl6Q3dzUzlsR3dZN0VIOVFMcUxwX3Z3cHNNMkVYV0NxcHNPNlHSAYoCQVVfeXFMTjJ2dkE0bkY4NHg4eEhlWVFUb090SzJXSHJNX2xIS3RJcElKSXBocWkzdzY0cGhieGRFcnc5TFZwb2tzSERDRzEzSFlYY3pmS25Wa1BvTTVMdVFHb01YMXlMSnllNHVTcTBJMl9rQXZSSjJZMmZmcTlySmx0M2FZQWo2bzZYUFljaTdUVzRwWE5xNG5BQmsxck1jWmJ5aXNiaXdsUVpiX3YzNVhHTDl0TEFDaVlTRDhJcEZQOVoyaERVVFppR1FHODJXcXY5aVhkd1g1Q3JTRWd1QlBuZVlyNDk0QVFGNmZ5Sld0Q29hdTk0c3NDejctdHFuNmttVzlkdFlhdVRybEtZVHc?oc=5)
-
-2026-07-09 <span class="news-drug-tag">Ibuprofen</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLURLYUZPN1M1UU1zNnJ4YTg1Y00tT25NQlV1Nkg1Z05wektPRVJfYjU1eE5xQl9oN2NMTEc2ZG81Rl9nZm4tSnUtZ2ZKSDFabWdZb1dKRkM3a2NDQWJwNGJnN2xUTC1YcDVEaVZYMVhuOXRudWJ0RVRmdzdsWGFvVGFpRjZKNkNoNk9hZXJObHhBc1VSV21iZTNid0NBR3MzT0hsVXM0M0xnM21wRjE4dm1VemtILXdtbEtYUjlJekoya0ZreVVTS2RHUWN4bG1xRWl6Q3dzUzlsR3dZN0VIOVFMcUxwX3Z3cHNNMkVYV0NxcHNPNlHSAYoCQVVfeXFMTjJ2dkE0bkY4NHg4eEhlWVFUb090SzJXSHJNX2xIS3RJcElKSXBocWkzdzY0cGhieGRFcnc5TFZwb2tzSERDRzEzSFlYY3pmS25Wa1BvTTVMdVFHb01YMXlMSnllNHVTcTBJMl9rQXZSSjJZMmZmcTlySmx0M2FZQWo2bzZYUFljaTdUVzRwWE5xNG5BQmsxck1jWmJ5aXNiaXdsUVpiX3YzNVhHTDl0TEFDaVlTRDhJcEZQOVoyaERVVFppR1FHODJXcXY5aVhkd1g1Q3JTRWd1QlBuZVlyNDk0QVFGNmZ5Sld0Q29hdTk0c3NDejctdHFuNmttVzlkdFlhdVRybEtZVHc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

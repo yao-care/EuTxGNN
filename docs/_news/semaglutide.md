@@ -54,6 +54,14 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（8 則）
 
+### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+---
+
 ### [Welche Supplements bei Ozempic? Vitamine, Mineralstoffe & Co. gegen Nebenwirkungen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHZNdXQ3Yk1sbFJRbWxxeVRaeEgxWFFNYXh4Nk11ckR4b1lreXpxUEpxYnBIcFc4OEhMeWJiMDhiOHgwTEMyQkZUNWNHa3VDVlBHNm00a0JkdTZxMjBtS3dieWI4TEM1eXBkNlRRUnBnb01ld2wxd3RsWWUxbGxJbDg1TkhfRHEteGs2UW52VURDUHZ2dGp5Qy1ra0xMRHZDTksxQWtfS2hzVmE5NGVlX3pNbkFCazh2UGhz?oc=5)
 
 2026-07-11 <span class="news-drug-tag">Semaglutide</span>
@@ -72,17 +80,9 @@ permalink: /news/semaglutide/
 
 ### [SGLT2-Inhibitoren senken Alzheimer-Risiko: JAMA-Studie zeigt bis 43 % - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
 
-2026-07-11 <span class="news-indication-tag">diabetes</span>
+2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
-
----
-
-### [Los expertos tienen claro que Ozempic no es perfecto: "Perder peso no significa automáticamente mejorar todos los aspectos de la salud"](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1Z6VGFQbGZ2WTdwU1h5eDNMRzQtNWpfcWYxeW5sdUcyV1JFRTNfNDJkbXhnU0xmSDhFZWFERkY4M21IRF9LZkpxUk1LalpTWUhXMWM3ZjVuTlpTYTJhOVYzMG5kWDg5akNiWjhWY21zeDMyQW9GWXloSkhxV3I4V2dCeGJZMkN6OFc3LWlhcXpTM3NBaFhOczM3WHZERE42WWxQWVZJeW4tU29fbXJFYXNoazdfM2tXbV92RW1nYkVqMFo3b21fNXpONmJNeDdvejEydlZBcm1MbkRqWHlRQVdkRVdieGJfdkYw0gHwAUFVX3lxTE9NNzJjOUFuZHVUTGtxU0lDeWdRU2NLdlNEZV9yU1k0WUdmSEVKYmFTbkpJNlp5X2JRYlFCYTczemdjVzNNQkFmX3c1eW1uRXI3VDJDMm5Xb2EwRHpzdWZ6RTlSV2poRTRQR0d5TlhnVEE3N1VXUy12WXRxc0xhQzM1U1lJUFdGc0s2b1RENV9TZmNUMmFDbUN6M3RPTVpvRjFjX1hIVXREMVVzbXVwR3FpZk5tUUQyTG10eHVoMHNSMkZmdFB5QWlMUzdnaUVHMEFRODlrSF9Yd2d0WkUyRzgtUWFEUHFaalZOVHRoOE0tVQ?oc=5)
-
-2026-07-10 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1Z6VGFQbGZ2WTdwU1h5eDNMRzQtNWpfcWYxeW5sdUcyV1JFRTNfNDJkbXhnU0xmSDhFZWFERkY4M21IRF9LZkpxUk1LalpTWUhXMWM3ZjVuTlpTYTJhOVYzMG5kWDg5akNiWjhWY21zeDMyQW9GWXloSkhxV3I4V2dCeGJZMkN6OFc3LWlhcXpTM3NBaFhOczM3WHZERE42WWxQWVZJeW4tU29fbXJFYXNoazdfM2tXbV92RW1nYkVqMFo3b21fNXpONmJNeDdvejEydlZBcm1MbkRqWHlRQVdkRVdieGJfdkYw0gHwAUFVX3lxTE9NNzJjOUFuZHVUTGtxU0lDeWdRU2NLdlNEZV9yU1k0WUdmSEVKYmFTbkpJNlp5X2JRYlFCYTczemdjVzNNQkFmX3c1eW1uRXI3VDJDMm5Xb2EwRHpzdWZ6RTlSV2poRTRQR0d5TlhnVEE3N1VXUy12WXRxc0xhQzM1U1lJUFdGc0s2b1RENV9TZmNUMmFDbUN6M3RPTVpvRjFjX1hIVXREMVVzbXVwR3FpZk5tUUQyTG10eHVoMHNSMkZmdFB5QWlMUzdnaUVHMEFRODlrSF9Yd2d0WkUyRzgtUWFEUHFaalZOVHRoOE0tVQ?oc=5)
 
 ---
 
@@ -102,19 +102,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Expertos perfilan nuevas estrategias para proteger el riñón en diabetes tipo 2 y obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkR0VkxIT2k5dVlBM2xnaVVBWFdfVUlJYnVIeHRGc05sWXFNcFV5RVRVRGpOQ21sTE1JMVdJTXNfN1dhYlFUU2p4R0FSVmV5R0xucEgzUl9CX0FlWHlVNFFuWjgtdnZRNVFIX1I5VGNnOWxlSGlDNkMxd3NlRlF2YW9xcXVtcGY2Vm1MaldpcS1SOE9TZURIV1RFRDljLV9UN09KYmZtMl9TZi1nUkxuUGlubksyQUl1VmxDMVptdlrSAbsBQVVfeXFMTkc3QWpBdm42VGtxcWgzRXhQb2NpYmc0S004N2R0N3hGTVowR0RYaW5rY01iNzlBWDVNRGRYMXpCb0loVFpTZHVjRFdLUklUTW1QNXdBWjhna3hQR1JTTENCTlQ2M0pKMXdTUGh4X2oyNWgzQU5kVnU1QmttVDEydlozOE9IN2lIZW8tQ1JLRl9TeG9IVWk1V3hWTmJQRE4tMEZocC1keXRKZG5BZU1xeVF6bVdNOF9CblZBTQ?oc=5)
+
+2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkR0VkxIT2k5dVlBM2xnaVVBWFdfVUlJYnVIeHRGc05sWXFNcFV5RVRVRGpOQ21sTE1JMVdJTXNfN1dhYlFUU2p4R0FSVmV5R0xucEgzUl9CX0FlWHlVNFFuWjgtdnZRNVFIX1I5VGNnOWxlSGlDNkMxd3NlRlF2YW9xcXVtcGY2Vm1MaldpcS1SOE9TZURIV1RFRDljLV9UN09KYmZtMl9TZi1nUkxuUGlubksyQUl1VmxDMVptdlrSAbsBQVVfeXFMTkc3QWpBdm42VGtxcWgzRXhQb2NpYmc0S004N2R0N3hGTVowR0RYaW5rY01iNzlBWDVNRGRYMXpCb0loVFpTZHVjRFdLUklUTW1QNXdBWjhna3hQR1JTTENCTlQ2M0pKMXdTUGh4X2oyNWgzQU5kVnU1QmttVDEydlozOE9IN2lIZW8tQ1JLRl9TeG9IVWk1V3hWTmJQRE4tMEZocC1keXRKZG5BZU1xeVF6bVdNOF9CblZBTQ?oc=5)
+
+---
+
 ### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
-
----
-
-### [Expertos reclaman una protección renal precoz en pacientes con ERC, diabetes tipo 2 y obesidad - Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
 
 ---
 

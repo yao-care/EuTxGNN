@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（2 則）
 
-### [Morbus Crohn: Personalisierte Ernährung senkt Klinikaufenthalte um 31%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkkwV1YtdlY2RVE5ZDc5ZWU5amZOOERVejZEM19WY1FVYXdGU1NuSF83YWlEQVk2dkkwaElFLTBLWVZjdEFnbFJPUEhJN1ZSTWRGMGJ2Qk5GQVh4dkZtbWJrTTRZWVk2Wk1naXRsWDJCUUpKR1Q5S1EwMkduWUh2VEFkbU81cDZ0VFFVQWxfMndyN2RRTlFUWXB6dmVvcHlldmtTdEhNZG1Nb3BSWGZvS3hONlhlbU50Tmc?oc=5)
+### [Scheinfasten bei Morbus Crohn: Neue Evidenz, messbare Effekte und Implikationen für Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzhBeXZxdVNNci1kTERBVFBXMDdOeDJudnlqTVFJZjcwNC1PaHA2eEgySmlOcWJ2Nk9DcFg4d1hLTFRFOHhRWUpETnhQOEpLMl9xQzBFOW9GREYzdUFTSVoxa21ObG9RSFhKVFRkbDVZMHB0MUVPMFUtR0VrdlFaTFl5WnptTklZanFyWnNtbUdpTFRDTGFnSXZPbXdBRGtLazItcUMwR0ladm5yQ3A2TFBya2VWejUxTnUyallKZG1mb1k?oc=5)
 
-2026-07-11 <span class="news-indication-tag">Morbus Crohn</span>
+2026-07-10 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkkwV1YtdlY2RVE5ZDc5ZWU5amZOOERVejZEM19WY1FVYXdGU1NuSF83YWlEQVk2dkkwaElFLTBLWVZjdEFnbFJPUEhJN1ZSTWRGMGJ2Qk5GQVh4dkZtbWJrTTRZWVk2Wk1naXRsWDJCUUpKR1Q5S1EwMkduWUh2VEFkbU81cDZ0VFFVQWxfMndyN2RRTlFUWXB6dmVvcHlldmtTdEhNZG1Nb3BSWGZvS3hONlhlbU50Tmc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzhBeXZxdVNNci1kTERBVFBXMDdOeDJudnlqTVFJZjcwNC1PaHA2eEgySmlOcWJ2Nk9DcFg4d1hLTFRFOHhRWUpETnhQOEpLMl9xQzBFOW9GREYzdUFTSVoxa21ObG9RSFhKVFRkbDVZMHB0MUVPMFUtR0VrdlFaTFl5WnptTklZanFyWnNtbUdpTFRDTGFnSXZPbXdBRGtLazItcUMwR0ladm5yQ3A2TFBya2VWejUxTnUyallKZG1mb1k?oc=5)
 
 ---
 
