@@ -54,11 +54,35 @@ permalink: /news/prilocaine/
 
 ## 相關新聞（22 則）
 
+### [Jabs plea from bereaved mum of Meningitis B victim](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tY1VMbzQ3RThSazQzd0M4N0U5ZWJqcG11YmZoQ2xaOUxaQUhiSkZ2QjRnemtfdV9VUjlRZjNNX0RqRnpsWG11dkE4LTlYUTg5d29FemtFMk85VEFZ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tY1VMbzQ3RThSazQzd0M4N0U5ZWJqcG11YmZoQ2xaOUxaQUhiSkZ2QjRnemtfdV9VUjlRZjNNX0RqRnpsWG11dkE4LTlYUTg5d29FemtFMk85VEFZ?oc=5)
+
+---
+
+### ["No woman should be given depo jag without risk warning" Victims left mutilated hit out - Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
+
+---
+
 ### [People in 50s urged to complete bowel cancer screening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
+
+---
+
+### [Bradford hospital apology after patient was given triple her prescribed medication - Telegraph and Argus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmVMUlBqVjg2SEpraGtCN3RQZUJ5WkwxZnZmOWFGMVppY0pPQW1YcFZLTHpRdE1WR0I3ZjRjYlFNM2RCMDQzTmV1eDRodVR1TF9QMGVYNThkcFhmdkJZY2ZhS184MmV6RWdoc0dyVFRkVWxwbEQwc0xWeTNGc2FzWWFOY0oxSUJHSmVuNTRaRFJ0U1MtNno4d3FobTM1QlNqYmFLTVA2cTlRUQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">AF</span>
+
+來源：[Telegraph and Argus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmVMUlBqVjg2SEpraGtCN3RQZUJ5WkwxZnZmOWFGMVppY0pPQW1YcFZLTHpRdE1WR0I3ZjRjYlFNM2RCMDQzTmV1eDRodVR1TF9QMGVYNThkcFhmdkJZY2ZhS184MmV6RWdoc0dyVFRkVWxwbEQwc0xWeTNGc2FzWWFOY0oxSUJHSmVuNTRaRFJ0U1MtNno4d3FobTM1QlNqYmFLTVA2cTlRUQ?oc=5)
 
 ---
 
@@ -78,27 +102,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Fallece un salmantino de 84 años afectado por fiebre de Crimea-Congo - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVlxcDBCVXdtcGl0UWhia1NHemVTT0NjbUlXUVFFYnVUdU1aaC1NaWoyaGFMX09sNGZoUXZOUjVBSVZtY0FkUGtlRXRXb0NGWG9vMHgtUDRidXduVmgtOWhMVlFsTUlmZWtubTROQWg5anR3OHdfYV9RT0N1MGdSOWFsMUZGOU5BZHNTcGJ4c2RCQVkyVVF4Qmg2MGRNSkF3S1Uzd0hzUExmZ08tY3RBcTJZTmtyRWc?oc=5)
+### [What to know about 'explosive diarrhoea' parasite outbreak in US](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV2JkOHB6SlAwcGJLTzlsY0FKb2kxY3FyZ1JSSDdyZUhqNHBKSkxVdEdMa1dSLW5vV1NNYXZfMXg2ejNkcWdnc2xiSi01a1Bjd1B0LXVnVXliVk9M?oc=5)
 
 2026-07-10 <span class="news-indication-tag">AF</span>
 
-來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVlxcDBCVXdtcGl0UWhia1NHemVTT0NjbUlXUVFFYnVUdU1aaC1NaWoyaGFMX09sNGZoUXZOUjVBSVZtY0FkUGtlRXRXb0NGWG9vMHgtUDRidXduVmgtOWhMVlFsTUlmZWtubTROQWg5anR3OHdfYV9RT0N1MGdSOWFsMUZGOU5BZHNTcGJ4c2RCQVkyVVF4Qmg2MGRNSkF3S1Uzd0hzUExmZ08tY3RBcTJZTmtyRWc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JV2JkOHB6SlAwcGJLTzlsY0FKb2kxY3FyZ1JSSDdyZUhqNHBKSkxVdEdMa1dSLW5vV1NNYXZfMXg2ejNkcWdnc2xiSi01a1Bjd1B0LXVnVXliVk9M?oc=5)
 
 ---
 
-### [West Nile, nel Lazio primo caso del 2026: positivo un paziente di Latina. Allerta in Emilia Romagna: «Estesa circolazione del virus» - Il Messaggero](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGdDeDZMVmNTM0JWcmZiX1hSeF9rb081UEdnWFBEbkhoOUtwQTRvSlhkdzBLQ2hxTTFpRmVrYW1XWjl4b283M2F6UHp3VWRYYWtqbmJFY185YWNZSm9ObExmVUdpLU1MeVhXRThiU05YUEdra2xvcFZnQ3RPY0p4Yy1tTkMwZTDSAYwBQVVfeXFMTlhabHpTdFRjMnpLZExPSE13S0hUOWJIMERkaThXYW52bFRQdlRWZDhEOVRKd3RkUU15M1lVQUI4dFNFSi1xZUVYUlJBZF9oYjI5SmhqdTdjbWRER0NxajVjajRYLVBvVWp5a0pjUDRhM0RhUllocEhHWXI0OW1MbUhHdk1LSDlDcWRJQVA?oc=5)
+### [West Nile, primo caso del 2026 nel Lazio: positivo un paziente della provincia di Latina - Latina Oggi](https://news.google.com/rss/articles/CBMizwFBVV95cUxPWGU4SjRHMXhWMTNST3otakY0dHlLeWZfLVNVTVZyLUhXdGZpTTdFUTFtanR5Q1hmakhHTlh0N0Fta2Fzb3hwOEMwWldadHZiVWg1a180ZW16UnVodmt2R1VnZW0wSEE4SkFyazIxQmVWbndJM3JUZElkZ1JXY0NFd09jaC1rWGNxaGpTLVp1aGxTRnhaWWE4MGM3d0xfczlpQWVubjNybndZX1hWaGZPM2JnSk5VNnBjazZuVzFvdjMzSFJfd19nc1BLa2dNdGs?oc=5)
 
 2026-07-10 <span class="news-indication-tag">AF</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGdDeDZMVmNTM0JWcmZiX1hSeF9rb081UEdnWFBEbkhoOUtwQTRvSlhkdzBLQ2hxTTFpRmVrYW1XWjl4b283M2F6UHp3VWRYYWtqbmJFY185YWNZSm9ObExmVUdpLU1MeVhXRThiU05YUEdra2xvcFZnQ3RPY0p4Yy1tTkMwZTDSAYwBQVVfeXFMTlhabHpTdFRjMnpLZExPSE13S0hUOWJIMERkaThXYW52bFRQdlRWZDhEOVRKd3RkUU15M1lVQUI4dFNFSi1xZUVYUlJBZF9oYjI5SmhqdTdjbWRER0NxajVjajRYLVBvVWp5a0pjUDRhM0RhUllocEhHWXI0OW1MbUhHdk1LSDlDcWRJQVA?oc=5)
-
----
-
-### [Diarrhoea outbreak triggered across US by fruit and salad parasite - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2RHckNxYkN1TmlmOEFVTDFtUHlDN1pQUHFJSGpSWVBWWEpvV1FxbFE1UTJmRl9mbDFZbTlLVzBNMENMU21CSUt0a1VDRTZJN3RfOXhZR2Nodm9BRkRNVnFMSHVQeHM5d0JpbUxMUlQxZ0ppemlxTHdGNnZrSmhtaDNOZWhDdEkxcFQ3bHg3SQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2RHckNxYkN1TmlmOEFVTDFtUHlDN1pQUHFJSGpSWVBWWEpvV1FxbFE1UTJmRl9mbDFZbTlLVzBNMENMU21CSUt0a1VDRTZJN3RfOXhZR2Nodm9BRkRNVnFMSHVQeHM5d0JpbUxMUlQxZ0ppemlxTHdGNnZrSmhtaDNOZWhDdEkxcFQ3bHg3SQ?oc=5)
+來源：[Latina Oggi](https://news.google.com/rss/articles/CBMizwFBVV95cUxPWGU4SjRHMXhWMTNST3otakY0dHlLeWZfLVNVTVZyLUhXdGZpTTdFUTFtanR5Q1hmakhHTlh0N0Fta2Fzb3hwOEMwWldadHZiVWg1a180ZW16UnVodmt2R1VnZW0wSEE4SkFyazIxQmVWbndJM3JUZElkZ1JXY0NFd09jaC1rWGNxaGpTLVp1aGxTRnhaWWE4MGM3d0xfczlpQWVubjNybndZX1hWaGZPM2JnSk5VNnBjazZuVzFvdjMzSFJfd19nc1BLa2dNdGs?oc=5)
 
 ---
 
@@ -118,6 +134,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Pharmacist issues warning for 10 medicines taken during hot weather - Liverpool Echo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUpzcjJpVnY4aWkyb3J5cXhfTjdlUUVLLWVvVWw1WTQxWFl5b3huRTRZMWhyVE04eG5Hd2JuczhwNFo2ZlFqaHl6cVBISUh0SmRiUDgwMmM5NS1FUFNodUhKM29CbDZxTDJtVVZlc0E1TTlCTHYySUNSVDE5eFVhb01VLUZyM2QzV2RqLU41OHdGekR3MEUyY2d2eDdhYTg?oc=5)
+
+2026-07-10 <span class="news-indication-tag">AF</span>
+
+來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUpzcjJpVnY4aWkyb3J5cXhfTjdlUUVLLWVvVWw1WTQxWFl5b3huRTRZMWhyVE04eG5Hd2JuczhwNFo2ZlFqaHl6cVBISUh0SmRiUDgwMmM5NS1FUFNodUhKM29CbDZxTDJtVVZlc0E1TTlCTHYySUNSVDE5eFVhb01VLUZyM2QzV2RqLU41OHdGekR3MEUyY2d2eDdhYTg?oc=5)
+
+---
+
 ### [Fastest growing Ebola outbreak ever: how conflict, aid cuts and misinformation fuel a deadly threat - The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTG1pS25CU0lvR0N2T1FlcnJsdDlBVHp6UzU4bTVubVdBLWFjSzVkUmpPQ3hvVjhHRGZsT2d6b29PeGNTY3dZdjNIR0h5LU5WYWxIckhOa0pDcmlBUUdmZFFvODhkTW0yZkM1VFhhdUZla3VIQlJGNjBvbVJMLU4wOXNjTUNoOWRsTDJ3VlBJU05LbEpqbExTM0g4VG5meTduT3c2cmFHbTcxdXZQaURBWkdubGYyWk5BeGdleW1PcXljTm5hSU9GdXZEa29ycEIzTGc?oc=5)
 
 2026-07-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -126,11 +150,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Constatan la correlación de riesgos modificables entre el cáncer de mama y la fibrilación auricular - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNl84eWpITFRDV2lnQktVbTJVSVVXblUzdVJTRmhYMjk4aEE1dkxGTC1mQUlERzVTV2ZrRmoxV3M3VHRtTUp3YnpTU3lCUTZSMTcwSWxBUFZZdGRsX3VVdlV1LTE5UTI4a01qa0Nqdnl2Z1NrYlI2dnBBemtweEhvSnA2M2tTZ1ZwT0VxdzBUTUlMdEJvZWJVVktsejZiOUZZWUh5eXBjeXlzRnBoRGRqdmpmOG1nYzFtc2NFZkFORdIBugFBVV95cUxNSzViMHdKTy1YMjBIT2U4Uy1mZXVmbkpGNXozZzNLUVN4c2ZOTHR5WWFranB2OW5VRDlDZkJSX0x1RnhmcWw3YzA4WllSemM4TUt0RHhtWGZJa0ZkbnVwZFR4YVp0cURHS3dCRWNBa092Z3ZOTDl4NE53M0RsdTNFNVdKTE1IZVZacUY4THpvVm9VWnJZcF82aGJ5RU9BR0ZDeEpVcE5xVmRUQkMwaXZIRzVkRktXYUFYYWc?oc=5)
+### [Cuore arriva una nuova cura per la fibrillazione atriale: meno rischi, interventi più rapidi | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXpZakxIbzZTR2k0NzBXb0dJMjZPczRETkl4X0JEVzlRZk1rSDhoNHJRUVNESi00V2VIbTM0bWxlcUxJOHRxWmxoOUVTbERsU2tWYVlyZE54c3FrbWtEMWpONWJkYWkzSTFKMkxJWjltNTFROVg2bmJMQjlRampZU3JRdjdzTGxFdUdaSnVLdDVuRXNHYkx4VHpZZVhfT2tQVFJ4WlZFSW5fd3dvSXRVTzVfcjUyM2NGaEd5NWdoQjBBYTluYVJ1UXJadTNYc1hCakxtcnVSUVFCYkdMYjZPRWtoZzg1SWlCR0E?oc=5)
 
-2026-07-10 <span class="news-indication-tag">fibrilación auricular</span>
+2026-07-10 <span class="news-indication-tag">AF</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNl84eWpITFRDV2lnQktVbTJVSVVXblUzdVJTRmhYMjk4aEE1dkxGTC1mQUlERzVTV2ZrRmoxV3M3VHRtTUp3YnpTU3lCUTZSMTcwSWxBUFZZdGRsX3VVdlV1LTE5UTI4a01qa0Nqdnl2Z1NrYlI2dnBBemtweEhvSnA2M2tTZ1ZwT0VxdzBUTUlMdEJvZWJVVktsejZiOUZZWUh5eXBjeXlzRnBoRGRqdmpmOG1nYzFtc2NFZkFORdIBugFBVV95cUxNSzViMHdKTy1YMjBIT2U4Uy1mZXVmbkpGNXozZzNLUVN4c2ZOTHR5WWFranB2OW5VRDlDZkJSX0x1RnhmcWw3YzA4WllSemM4TUt0RHhtWGZJa0ZkbnVwZFR4YVp0cURHS3dCRWNBa092Z3ZOTDl4NE53M0RsdTNFNVdKTE1IZVZacUY4THpvVm9VWnJZcF82aGJ5RU9BR0ZDeEpVcE5xVmRUQkMwaXZIRzVkRktXYUFYYWc?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMXpZakxIbzZTR2k0NzBXb0dJMjZPczRETkl4X0JEVzlRZk1rSDhoNHJRUVNESi00V2VIbTM0bWxlcUxJOHRxWmxoOUVTbERsU2tWYVlyZE54c3FrbWtEMWpONWJkYWkzSTFKMkxJWjltNTFROVg2bmJMQjlRampZU3JRdjdzTGxFdUdaSnVLdDVuRXNHYkx4VHpZZVhfT2tQVFJ4WlZFSW5fd3dvSXRVTzVfcjUyM2NGaEd5NWdoQjBBYTluYVJ1UXJadTNYc1hCakxtcnVSUVFCYkdMYjZPRWtoZzg1SWlCR0E?oc=5)
 
 ---
 
@@ -139,14 +163,6 @@ permalink: /news/prilocaine/
 2026-07-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
 來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDcxdUl1bGdlSWxiOVpIYUxDUXhpVlVFaWtTM3dDUm9wVGhpMFBXYnM5VUMyV09Tc252dzV1aExFNUNTVDRha3V5VnlVUXo1ZWlTVUZhcm1ZWUI1NWlVb1pLdXI2WkpaNUdJcGstaEF1cGY4bXRXQ0FxR1M0WklxWUJ0UmxncjlVTVpWbWl3?oc=5)
-
----
-
-### [Pacientes con psoriasis convierten sus fotografías en un gesto contra el estigma - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
 
 ---
 
@@ -160,9 +176,17 @@ permalink: /news/prilocaine/
 
 ### [Hospital ward closed after highly contagious scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHZ3bm9aT0RvSlVBc3duY3hteVZIbVVzbVVXaU5NcXpfNW9TY3FtNlFvczNBczlibl91bWg1SUljVjhuYnRxSDQ5bTBUSktEQ1hfa25XWkt1U1ltOVY4ZklzV3A5M1ZvdVdCZk9ZYm9yQW5NNXZxejRSWXg3bUozTXpPdEtRdjEwakZwZlhWNEdnQdIBlwFBVV95cUxOejI3dGdiX1pWRnVGVTB0VHZUbkNsM09zdTR0SnUydHVycnZ4aEVFMnBVdTVzMHVVT3gwMC1BWDFndVc0cXNUdF9NOWVZZFdIb2tuU2VaTHZLbEZlbENRZXpIVlU1S2pYQ3FWYXhaamVoN3pnbVNnMzBUN3hFV2dXaGFSS09XTHM3ZW1iaE9LUnBnMEZSWlY4?oc=5)
 
-2026-07-10 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-07-10 <span class="news-indication-tag">AF</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHZ3bm9aT0RvSlVBc3duY3hteVZIbVVzbVVXaU5NcXpfNW9TY3FtNlFvczNBczlibl91bWg1SUljVjhuYnRxSDQ5bTBUSktEQ1hfa25XWkt1U1ltOVY4ZklzV3A5M1ZvdVdCZk9ZYm9yQW5NNXZxejRSWXg3bUozTXpPdEtRdjEwakZwZlhWNEdnQdIBlwFBVV95cUxOejI3dGdiX1pWRnVGVTB0VHZUbkNsM09zdTR0SnUydHVycnZ4aEVFMnBVdTVzMHVVT3gwMC1BWDFndVc0cXNUdF9NOWVZZFdIb2tuU2VaTHZLbEZlbENRZXpIVlU1S2pYQ3FWYXhaamVoN3pnbVNnMzBUN3hFV2dXaGFSS09XTHM3ZW1iaE9LUnBnMEZSWlY4?oc=5)
+
+---
+
+### [Kann Joghurt vor Darmkrebs schützen? Große Studie liefert neue Hinweise](https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWxFS0VSeDN3OS1NN1dDbk9PQ2g5THp6LU9TYTBuS0x2elhGaE1fM25NSUdKMFIxdUVyQU1tNldITWw4Q2d0a05aMnllOWFpcGFLSXU5SjB0T3UtdU55b1BFaGcxZzVQMExhOTdEZlBveTFLZm9IeTVKLVYyNmVTbUhsVVdOSmF0LVljU3ZEQ3JyOGQ0?oc=5)
+
+2026-07-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWxFS0VSeDN3OS1NN1dDbk9PQ2g5THp6LU9TYTBuS0x2elhGaE1fM25NSUdKMFIxdUVyQU1tNldITWw4Q2d0a05aMnllOWFpcGFLSXU5SjB0T3UtdU55b1BFaGcxZzVQMExhOTdEZlBveTFLZm9IeTVKLVYyNmVTbUhsVVdOSmF0LVljU3ZEQ3JyOGQ0?oc=5)
 
 ---
 
@@ -171,14 +195,6 @@ permalink: /news/prilocaine/
 2026-07-10 <span class="news-indication-tag">AF</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxORDJrQWNCdzYycmZfYnRyMEF4WmJLQ2R4WHRodll6T0EyX1U5QWVVSjVpNC1oV1FuZjd4VS1FbklOTjczZ2dfOE5BZlVvUmxseWEzRnE2RXotQzUyNkxlZkttbWFoSGNYR2w2N0dNMHBSc0FSRVJac2E0aHpoRFdsZFhaYWJpaVNHWXF4V3ozbnFqVmNqcDBnOWdVcXRWLTBsVnpmZnNLakZnYm1nUTBFdHg4U2o0TzBTQXc?oc=5)
-
----
-
-### [WHO-Klassifizierung von Toxoplasmose rückt Sehkraft am Arbeitsplatz in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVdLdDJ2Vk1Oem5CUW5EeFo4QWpJR1R2TWFNVXJkSnlMSVJCYjd0dXJXVGxFWEtZSUdGeUFkVG9kMWdiYVJTQWVJb2lya2hBaDN6S1ZDTzUyVkZRTUdhUnlWbEdQeHZaMjVXY1Rrc0RPU3VDNHdrZmRQNGZMSjZ4VmQ1NW8tZS1US3BnWTdFR3JyTzhwalItX3FUUzh1VUlaakJOdWtjYTdtWGF4ZzR1M19CUQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVdLdDJ2Vk1Oem5CUW5EeFo4QWpJR1R2TWFNVXJkSnlMSVJCYjd0dXJXVGxFWEtZSUdGeUFkVG9kMWdiYVJTQWVJb2lya2hBaDN6S1ZDTzUyVkZRTUdhUnlWbEdQeHZaMjVXY1Rrc0RPU3VDNHdrZmRQNGZMSjZ4VmQ1NW8tZS1US3BnWTdFR3JyTzhwalItX3FUUzh1VUlaakJOdWtjYTdtWGF4ZzR1M19CUQ?oc=5)
 
 ---
 
@@ -198,35 +214,19 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Zecche in Trentino, sette infezioni nel 2026: «Ormai sono presenti ovunque»](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWFsR3YwQ1hrbGtyaWRUNlVvZ0xSV1FvOWlxNV92OEZQWGpmU1ZHWEo2dWNhaDN4SnR4NnNxVUxKd3NMbnZXbzFlSmJpVS1CRlBsMENNRzdWVy1GTVExQW4ydGdkY1diTDY0M01UYW1XeDJiQUFMVlI0YWp5WmQ5RmVFdGRwYXNLdXE5QkdzU1dJOFFHZEY3UjFVV2dycm9HQmt1WnI5eElWZ2lJQlJ3?oc=5)
+
+2026-07-09 <span class="news-indication-tag">AF</span>
+
+來源：[L'Adige](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWFsR3YwQ1hrbGtyaWRUNlVvZ0xSV1FvOWlxNV92OEZQWGpmU1ZHWEo2dWNhaDN4SnR4NnNxVUxKd3NMbnZXbzFlSmJpVS1CRlBsMENNRzdWVy1GTVExQW4ydGdkY1diTDY0M01UYW1XeDJiQUFMVlI0YWp5WmQ5RmVFdGRwYXNLdXE5QkdzU1dJOFFHZEY3UjFVV2dycm9HQmt1WnI5eElWZ2lJQlJ3?oc=5)
+
+---
+
 ### [Man’s bum ‘exploded’ after being ignored by doctors for months](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hleEpUd0RjTC1wWUlhdERWM2Faam9DeHRpSlpMelpCTERmN2N3Q1c4bnE2Ykk4OHNjSGdzVnFjM29WZ1R3aUxyZkYzZUF1RWtrcnAzeS1yemlsMVRmQmtMRi1XQVQxaGx4ZXdMX2Z2MXVTTWV6ZDIzanl4ZTlVQ1pXWFBqZVlScU45U1FEQnV1cXlITkJmWEFR?oc=5)
 
 2026-07-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1hleEpUd0RjTC1wWUlhdERWM2Faam9DeHRpSlpMelpCTERmN2N3Q1c4bnE2Ykk4OHNjSGdzVnFjM29WZ1R3aUxyZkYzZUF1RWtrcnAzeS1yemlsMVRmQmtMRi1XQVQxaGx4ZXdMX2Z2MXVTTWV6ZDIzanl4ZTlVQ1pXWFBqZVlScU45U1FEQnV1cXlITkJmWEFR?oc=5)
-
----
-
-### [L-Theanin und Koffein: Neue Hoffnung bei ADHS-Symptomen](https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2dmZVV2Z09iLVZzZjM5cTYtOG9VQzdUeW80UTF3S0h3b0Jxck9fZHdRZklkSUlhZ1B4R3B3bllWdDQyQ1RCaXRnMWJ6V1NhcndSeDFELTM0Y2lzb0g3d1dEdnFxOUlLbGhoaTlXS2JsMmYwd28zV25XSl9YS1gtMF9JRkJSb2lxYUtkT1BPVndVWTJJZm1QMURnZndLV2c2WWcwWlNB?oc=5)
-
-2026-07-09 <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2dmZVV2Z09iLVZzZjM5cTYtOG9VQzdUeW80UTF3S0h3b0Jxck9fZHdRZklkSUlhZ1B4R3B3bllWdDQyQ1RCaXRnMWJ6V1NhcndSeDFELTM0Y2lzb0g3d1dEdnFxOUlLbGhoaTlXS2JsMmYwd28zV25XSl9YS1gtMF9JRkJSb2lxYUtkT1BPVndVWTJJZm1QMURnZndLV2c2WWcwWlNB?oc=5)
-
----
-
-### [Genomic epidemiology of the ongoing 2026 Bundibugyo Virus Disease outbreak in the Democratic Republic of the Congo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3p3bmw1WlhMWUJ3VVNwMHBOVU5ONW5Nb2ZKQlRxN1ZLbFRaZ0ZrQVJNLXAyMHo0dElUN3dYb2hOWTdWLWRBeG14clRrQUJGMkJDMmpWd3dmVi1rblhqRmNsVldkZlA0VnE5UDdlTnpFR2lHS0tSdlpnU2dlekVKMms2Smw5c2JDSHBnaVhteXg3UlhWc2IyXzBPakxpYmVyVlVQcUE4bzYwT21ZQ1k4alNOMzEzM3JhUUttMmZrM1dEOFhZYlVnc2R3QUtkLU5MX2tGVUx0QjViRGVnV0E?oc=5)
-
-2026-07-09 <span class="news-indication-tag">AF</span>
-
-來源：[Virological](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3p3bmw1WlhMWUJ3VVNwMHBOVU5ONW5Nb2ZKQlRxN1ZLbFRaZ0ZrQVJNLXAyMHo0dElUN3dYb2hOWTdWLWRBeG14clRrQUJGMkJDMmpWd3dmVi1rblhqRmNsVldkZlA0VnE5UDdlTnpFR2lHS0tSdlpnU2dlekVKMms2Smw5c2JDSHBnaVhteXg3UlhWc2IyXzBPakxpYmVyVlVQcUE4bzYwT21ZQ1k4alNOMzEzM3JhUUttMmZrM1dEOFhZYlVnc2R3QUtkLU5MX2tGVUx0QjViRGVnV0E?oc=5)
-
----
-
-### [Diabete di tipo 1, non colpisce solo bimbi e adolescenti: può comparire anche negli adulti, ecco perché](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
-
-2026-07-09 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
 
 ---
 

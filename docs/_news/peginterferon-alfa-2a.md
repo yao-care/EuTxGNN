@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
 
 ### [RD del Congo eleva casos de ébola a 1.830 y 648 muertes](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWF9yc0E1Z0tTNV8zVmJMTXZPLTZiSllFSUxRUUJMMmxiUnI3TEswZEFvOFJYOVFWd1Z5aU9kcDJWdWUzNHRtOWNGU0s2UmJjeE0ydnNJemY0OWRVbFNDRVJudDJzbnB5OFdOR0ZfaFByZ2dOUXFWSjhMWFZXeXVXYlY1czNuRzJXdmM0MU5SdmUxZVJWRFU40gGXAUFVX3lxTE5uTEVZclAzWFliREtLUXZlMUxIUnozTExhTUJoLXgwMkJ6dUdva0xLMW1RYlN5S3ZCSGRlMk5yTl9OQ3U4RmFxYlZ3T000UjZOSk1JWU93YU53ZFNPc1YtV3BEcTNIclliU3h5QUUwTzA1SF9fZDR2bDV5UkdpZjF0VjVmREFKMWhaUmg4aGY2VmtmRjZhSFU?oc=5)
 
 2026-07-11 <span class="news-indication-tag">MS</span>
 
 來源：[DW.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWF9yc0E1Z0tTNV8zVmJMTXZPLTZiSllFSUxRUUJMMmxiUnI3TEswZEFvOFJYOVFWd1Z5aU9kcDJWdWUzNHRtOWNGU0s2UmJjeE0ydnNJemY0OWRVbFNDRVJudDJzbnB5OFdOR0ZfaFByZ2dOUXFWSjhMWFZXeXVXYlY1czNuRzJXdmM0MU5SdmUxZVJWRFU40gGXAUFVX3lxTE5uTEVZclAzWFliREtLUXZlMUxIUnozTExhTUJoLXgwMkJ6dUdva0xLMW1RYlN5S3ZCSGRlMk5yTl9OQ3U4RmFxYlZ3T000UjZOSk1JWU93YU53ZFNPc1YtV3BEcTNIclliU3h5QUUwTzA1SF9fZDR2bDV5UkdpZjF0VjVmREFKMWhaUmg4aGY2VmtmRjZhSFU?oc=5)
+
+---
+
+### ["No woman should be given depo jag without risk warning" Victims left mutilated hit out - Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
+
+---
+
+### [Diabetes: CGM senkt Sterblichkeit um 62 Prozent, Herzrisiko um 72%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
+### [Kann Joghurt vor Darmkrebs schützen? Große Studie liefert neue Hinweise](https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWxFS0VSeDN3OS1NN1dDbk9PQ2g5THp6LU9TYTBuS0x2elhGaE1fM25NSUdKMFIxdUVyQU1tNldITWw4Q2d0a05aMnllOWFpcGFLSXU5SjB0T3UtdU55b1BFaGcxZzVQMExhOTdEZlBveTFLZm9IeTVKLVYyNmVTbUhsVVdOSmF0LVljU3ZEQ3JyOGQ0?oc=5)
+
+2026-07-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWxFS0VSeDN3OS1NN1dDbk9PQ2g5THp6LU9TYTBuS0x2elhGaE1fM25NSUdKMFIxdUVyQU1tNldITWw4Q2d0a05aMnllOWFpcGFLSXU5SjB0T3UtdU55b1BFaGcxZzVQMExhOTdEZlBveTFLZm9IeTVKLVYyNmVTbUhsVVdOSmF0LVljU3ZEQ3JyOGQ0?oc=5)
+
+---
+
 ### [Cancro, l'Oms avverte: casi mondiali potrebbero aumentare del 70% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
 
 2026-07-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
@@ -98,7 +122,7 @@ permalink: /news/peginterferon-alfa-2a/
 
 2026-07-10 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlFNdXRSbDl2RWtfU2k1OW5GVUVndmNJdGNKbkVwdy1QRXBqUUY3MG43ekY3TE82dXJydHNOVVFCSGVrZVNlZEZXWVlGN2ZYN3FRWUF1bnZRUVFUYmFEa2JIX19WOUlfUnVmQTBPVjE3NFlNT1pRT0tGbldMQk1NWjgtMnp4TTRIS2pTZHF0ek5mY1RzN0Z1ajRkWlFtektZejB3N2RlRVBORmY4NVdzdG56Qm1hazZWNzI1QVRrQ0w?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlFNdXRSbDl2RWtfU2k1OW5GVUVndmNJdGNKbkVwdy1QRXBqUUY3MG43ekY3TE82dXJydHNOVVFCSGVrZVNlZEZXWVlGN2ZYN3FRWUF1bnZRUVFUYmFEa2JIX19WOUlfUnVmQTBPVjE3NFlNT1pRT0tGbldMQk1NWjgtMnp4TTRIS2pTZHF0ek5mY1RzN0Z1ajRkWlFtektZejB3N2RlRVBORmY4NVdzdG56Qm1hazZWNzI1QVRrQ0w?oc=5)
 
 ---
 
@@ -123,22 +147,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-07-09 <span class="news-indication-tag">MS</span>
 
 來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMingFBVV95cUxQX19MTHJPZXExVFIxbEh0TnExWURkLV8tSXBQSWgyZGNDTTdqUU03eEJId1ZNR1NDZUNSeHZ1RmMwU1Qzc0luSG8wMC1UMXkyZ29Mb0RMOENxYlVsX3M5X2VCZTR5RTE1QlRqdVM4N0JwWWdXQ2tUNnQ4eEFEem1PVkVsV1VkekJ5SklPRXdEelhTdUY4b1JDYmZxMUNDUdIBowFBVV95cUxNZ2k0OEpMZzN3RjJYbThKak55V2pqZ3lTS2tvRDZzaHRyakVIRUNLOFZmRWVVSjA3LU5sdEdWZkRDRXlycnVjN1VjX3BiR3JraXRId29scmxvOGRnaGZQVlBSaXRQbjRFU2VFVUxacndSQ2lGajhVN3FPZVBqOFlicklIZk43S1otTmxmNkVNRTRQZDNxbXR2WUNiTmVhNHhPRlBv?oc=5)
-
----
-
-### [Más de 835.000 niños y niñas vacunados contra la difteria en Kano (Nigeria) con nuestro apoyo - Médicos Sin Fronteras (MSF)](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lPM3lvS2NwcUJja2hGalRtX1k2V0pJQUxINFBEWENjdU1IZUpTT0RZQlVHV2V4bk9UUDZzN0R5OVNYbjNuczF0clN1T0hXZDI2S0F6SjNMZDEyNGRTdHZCbWRyOVozekUxUzcwOTRMRkFFMDRTdEhCME9GNnh0YmpiOTF4NWNvdHVhd1dEMWxJWVlrLTRRQ1Z3RmxwNkk2UEE?oc=5)
-
-2026-07-09 <span class="news-indication-tag">MS</span>
-
-來源：[Médicos Sin Fronteras (MSF)](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lPM3lvS2NwcUJja2hGalRtX1k2V0pJQUxINFBEWENjdU1IZUpTT0RZQlVHV2V4bk9UUDZzN0R5OVNYbjNuczF0clN1T0hXZDI2S0F6SjNMZDEyNGRTdHZCbWRyOVozekUxUzcwOTRMRkFFMDRTdEhCME9GNnh0YmpiOTF4NWNvdHVhd1dEMWxJWVlrLTRRQ1Z3RmxwNkk2UEE?oc=5)
-
----
-
-### [Kardiologen der Kreiskliniken und des Cardiozentrums machen sich für Prävention von Herz-Kreislauf-Erkrankungen stark - radio schwaben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHI3c0lKU25QOGNDNmZ0Yzl0ZjhESHNKd09keWxyLVBqSEpsbEpjTWRTWmk4aGVxM0UzR3FHRjJabVlXTWduMDZMcmxSWjlsOERxT3hEQk5BZTFnTVI2Q0ltSGx4OWg1MmdGMkRnSGtJZldNYkRqeXVxcld5YzE2M204QlU4bHhFMmdiTVQzZzQxRmN3dVlNMHN1UWhJb2VNM0ZUVTlWZktTME9UN0tUVDdrcEZTZVNKR00waTdsOVRUSTJUdXEwaHIwOWlFWjZKMURWN240YTVOeVZzUG5WaE9sT1ptQUNPZ19CeA?oc=5)
-
-2026-07-09 <span class="news-indication-tag">MS</span>
-
-來源：[radio schwaben](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHI3c0lKU25QOGNDNmZ0Yzl0ZjhESHNKd09keWxyLVBqSEpsbEpjTWRTWmk4aGVxM0UzR3FHRjJabVlXTWduMDZMcmxSWjlsOERxT3hEQk5BZTFnTVI2Q0ltSGx4OWg1MmdGMkRnSGtJZldNYkRqeXVxcld5YzE2M204QlU4bHhFMmdiTVQzZzQxRmN3dVlNMHN1UWhJb2VNM0ZUVTlWZktTME9UN0tUVDdrcEZTZVNKR00waTdsOVRUSTJUdXEwaHIwOWlFWjZKMURWN240YTVOeVZzUG5WaE9sT1ptQUNPZ19CeA?oc=5)
 
 ---
 

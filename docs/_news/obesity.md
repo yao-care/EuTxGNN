@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [El dolor no es «lo que toca por la edad»: cómo prevenir que aparezca - La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlZdkRTai0tT3hJLW5TR1hNWW4wSE9xa3VqQkVHWUVtU1BvMGdlbDRWUG5JNFFYMDB2YXRSOXdHaWhTeTJ0clRQcmRTNUIwbWlUa3J4Q0QyT1NrRWt1Q2VPQllreU5YVUJNUEcta2FyUU91WlJmcGNCVFRya0ZFQlYxQ0dVSkpvX0tqYXZrNGlRZzNiY2dFNUZlNDNvOUtfcDQ1bkZIRnNQUDlPeFRlTWtTYjdrUWc0WmtldFhzUVV3dVVERHRxNVVlakI1M1BBaFYxUzFyRdIB3AFBVV95cUxNQmN6Z0VKaHJLcFUyOUhiWW0xaE8xMDVxUGs4YlhHT0VOd2liRlhCek1IMWdrYXBOTnU5ZUhFY3dINXRmY29nNnBRVFFGOTkwM2VjWVFGR3hvZk9kbGdNa1BsOG1udTdvNFVLODdWSkw4Q3psNkQzV2JOcnMzaEp6TUN3bWxNTHAxZ0xPcUFiYTNoUU03bTI1Q0NVRW1lWTVuT3pxUHA3LUluOE0wNkJ4RHFnMlUzSDIzNFRHaXdIX3lZRWdxWTZPZG83NFJoQkFvOEhOUXlEZzdkX3VY?oc=5)
 
@@ -59,6 +59,14 @@ permalink: /news/obesity/
 2026-07-09
 
 來源：[Egora](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDUyenE2MkNfQ3o4NzBRd25xVzNhU1hXcHFaT25ob1FpSTFNRHNfLU82U3g3RzZmWDFxbDd3LUVlcC1PeFdDTUtlbTZhWUZMOTFJbmhtQmxHbXlIQzhjb0MxaVp2RGxnWEhaRlFPNmo0dVd1NjZyaEhVTkwxUkJVcHM5SnBjTy1oU19mbG1CQ3FxZkw1RWp2RTJoN1hVR3VnTFZYUkhEVm1TX0UyUFVwWg?oc=5)
+
+---
+
+### [Expertos reclaman una protección renal precoz en pacientes con ERC, diabetes tipo 2 y obesidad - Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
+
+2026-07-09
+
+來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
 
 ---
 

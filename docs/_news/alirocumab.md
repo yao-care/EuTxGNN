@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Hospital ward closed after highly contagious scabies outbreak - Wales Online](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHZ3bm9aT0RvSlVBc3duY3hteVZIbVVzbVVXaU5NcXpfNW9TY3FtNlFvczNBczlibl91bWg1SUljVjhuYnRxSDQ5bTBUSktEQ1hfa25XWkt1U1ltOVY4ZklzV3A5M1ZvdVdCZk9ZYm9yQW5NNXZxejRSWXg3bUozTXpPdEtRdjEwakZwZlhWNEdnQdIBlwFBVV95cUxOejI3dGdiX1pWRnVGVTB0VHZUbkNsM09zdTR0SnUydHVycnZ4aEVFMnBVdTVzMHVVT3gwMC1BWDFndVc0cXNUdF9NOWVZZFdIb2tuU2VaTHZLbEZlbENRZXpIVlU1S2pYQ3FWYXhaamVoN3pnbVNnMzBUN3hFV2dXaGFSS09XTHM3ZW1iaE9LUnBnMEZSWlY4?oc=5)
-
-2026-07-10 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHZ3bm9aT0RvSlVBc3duY3hteVZIbVVzbVVXaU5NcXpfNW9TY3FtNlFvczNBczlibl91bWg1SUljVjhuYnRxSDQ5bTBUSktEQ1hfa25XWkt1U1ltOVY4ZklzV3A5M1ZvdVdCZk9ZYm9yQW5NNXZxejRSWXg3bUozTXpPdEtRdjEwakZwZlhWNEdnQdIBlwFBVV95cUxOejI3dGdiX1pWRnVGVTB0VHZUbkNsM09zdTR0SnUydHVycnZ4aEVFMnBVdTVzMHVVT3gwMC1BWDFndVc0cXNUdF9NOWVZZFdIb2tuU2VaTHZLbEZlbENRZXpIVlU1S2pYQ3FWYXhaamVoN3pnbVNnMzBUN3hFV2dXaGFSS09XTHM3ZW1iaE9LUnBnMEZSWlY4?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（99.2%）</li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -54,6 +54,14 @@ permalink: /news/natalizumab/
 
 ## 相關新聞（7 則）
 
+### [Diabetes: CGM senkt Sterblichkeit um 62 Prozent, Herzrisiko um 72%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
+
+---
+
 ### [SGLT2-Inhibitoren senken Alzheimer-Risiko: JAMA-Studie zeigt bis 43 % - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
 
 2026-07-11 <span class="news-indication-tag">diabetes</span>
@@ -62,11 +70,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbUpwaC04eXF1M2oyY1Nxd1J2OUp2dGtDb1BkZmtYRzdaY19XbmZBSUlXM0x5RzJRTjlRSzZrS1ZBbU9zaHZOOC05cUNKNUF6NXNoeC1DaGlyd09fcFE?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbUpwaC04eXF1M2oyY1Nxd1J2OUp2dGtDb1BkZmtYRzdaY19XbmZBSUlXM0x5RzJRTjlRSzZrS1ZBbU9zaHZOOC05cUNKNUF6NXNoeC1DaGlyd09fcFE?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/natalizumab/
 2026-07-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
 來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDcxdUl1bGdlSWxiOVpIYUxDUXhpVlVFaWtTM3dDUm9wVGhpMFBXYnM5VUMyV09Tc252dzV1aExFNUNTVDRha3V5VnlVUXo1ZWlTVUZhcm1ZWUI1NWlVb1pLdXI2WkpaNUdJcGstaEF1cGY4bXRXQ0FxR1M0WklxWUJ0UmxncjlVTVpWbWl3?oc=5)
-
----
-
-### [Pacientes con psoriasis convierten sus fotografías en un gesto contra el estigma - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Diabete di tipo 1, non colpisce solo bimbi e adolescenti: può comparire anche negli adulti, ecco perché](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
+### [Expertos reclaman una protección renal precoz en pacientes con ERC, diabetes tipo 2 y obesidad - Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
 
-2026-07-09 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[DiLei](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
+來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
 
 ---
 

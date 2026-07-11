@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,15 +52,9 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Pacientes con psoriasis convierten sus fotografías en un gesto contra el estigma - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

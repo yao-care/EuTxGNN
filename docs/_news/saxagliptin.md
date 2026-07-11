@@ -14,7 +14,7 @@ permalink: /news/saxagliptin/
 ---
 
 <p class="key-answer" data-question="Saxagliptin 有什麼相關新聞？">
-<strong>Saxagliptin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Saxagliptin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/saxagliptin/
 <p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Diabetes: CGM senkt Sterblichkeit um 62 Prozent, Herzrisiko um 72%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
+
+---
 
 ### [SGLT2-Inhibitoren senken Alzheimer-Risiko: JAMA-Studie zeigt bis 43 % - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/saxagliptin/
 
 ---
 
-### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbUpwaC04eXF1M2oyY1Nxd1J2OUp2dGtDb1BkZmtYRzdaY19XbmZBSUlXM0x5RzJRTjlRSzZrS1ZBbU9zaHZOOC05cUNKNUF6NXNoeC1DaGlyd09fcFE?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbUpwaC04eXF1M2oyY1Nxd1J2OUp2dGtDb1BkZmtYRzdaY19XbmZBSUlXM0x5RzJRTjlRSzZrS1ZBbU9zaHZOOC05cUNKNUF6NXNoeC1DaGlyd09fcFE?oc=5)
 
 ---
 
@@ -86,11 +94,11 @@ permalink: /news/saxagliptin/
 
 ---
 
-### [Diabete di tipo 1, non colpisce solo bimbi e adolescenti: può comparire anche negli adulti, ecco perché](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
+### [Expertos reclaman una protección renal precoz en pacientes con ERC, diabetes tipo 2 y obesidad - Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
 
-2026-07-09 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-07-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[DiLei](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFgyTkpZenFLR01qazVScUZ6Tl9IMGkzWnNFbTlrT2hhTmx0MzdRWGtZay00blF5Y1RQNG9GdTJjanVtVUk0UnZYU3BJWGlYSDVPSllDeF92emtjTTNoRERJYTNUcUlGWEhETm84azRBYXBseWx6TnhJQ3N2ZFVzZE1rSmhJMXBUME40QjJ3cXNVaHZ4bUNqaWdwSG9XbFJjS2JScGFsU1IwUUZyUjU3ak9XelZPTzJORWhOblVR0gHDAUFVX3lxTE5SWE8wQ2FzYm9qVEpmc3MxYUpHUTJBa2YzS2o4azNJdmk4TTZDTlM4VVUwdzZobEFVemdJR3h2MnpEQmV2OXVLSmVCamM4WFFVZGhQeXNCMjExaUxrSU5ETnVVNHAzX2E0LXFoRTVsWGJfRlY2dElWXzEtR3BNVUs2RzVROGpmRzR2bDFkejNuLWRkcDRPOXZUcnVFQ0g4dW5tNnc0cXNIRl9ZeFFsQnR6SlEyLTZqRXdQbGlHM0ZDcEFfdw?oc=5)
+來源：[Fuentes Informadas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFY4cmczTUpSRVBVMEl2VHlzYUoyREJTTnhrcGtJZzNUVnZQMjZISzB4eGRvMkVGQmdNeVNzbjk4VDhzdmZvQ0V3LTJ4WEhjMmxtdmV2Zm8zR3pMNjlGQ3VHcnRvRDhTMDFwTm4zUjZmOW5OMlc1czh1YmxVSGQtRU54NzhIU1F3b3d1RnVDeGMzSFRGdnlNS3ZDelpsTzN5bTE2NjRVejhTT25PTVNjSFRUUTNObjF0WXN5LUtxOFI?oc=5)
 
 ---
 
