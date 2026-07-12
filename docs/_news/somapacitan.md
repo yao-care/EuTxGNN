@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,63 +52,9 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（0 則）
 
-### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
-
----
-
-### [Diabetes: CGM senkt Sterblichkeit um 62 Prozent, Herzrisiko um 72%](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDhibUVNNXNYODdjSGZrbmlyQlpPYlhHc08yS3hVR29QcVMxbW13ME9hX1N1OFFfRGY2NFBRRl9lV2VmUExURFVUaThFdHRMQnFCdWtiUXUxQXhyM0FMOUpMTVRhN25pWUtnZXF0Q2JqY0hYOGhLRnN2Z2xNbWNmOVlJV21YTDhVdS13UWNqR3ZGVTFGN1NyUVFrTFktTkpIeG1CQVFWZllOd0dSdXRyT0ZfWFliWGtNSVNZTA?oc=5)
-
----
-
-### [SGLT2-Inhibitoren senken Alzheimer-Risiko: JAMA-Studie zeigt bis 43 % - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR055cS1tbTkzdTd6YXF4b2s0eFhqUmpRTmM0RWhsUThFMUpNOG8yNzNSUUtoNG05RGhoa2E2SUZ3eTZiYVQ1eU95ZENFZEU1Uk4xVzA2eWYtVXZzT0xhOXdWVXJMS0xPZ1pLT3lXbXFqMGpJcGtJaHFZa2NFQ3hxOGJlNWZ5Wkxra2lLalVWbDJBalBLMGthZkFZdFBuQTg?oc=5)
-
----
-
-### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbUpwaC04eXF1M2oyY1Nxd1J2OUp2dGtDb1BkZmtYRzdaY19XbmZBSUlXM0x5RzJRTjlRSzZrS1ZBbU9zaHZOOC05cUNKNUF6NXNoeC1DaGlyd09fcFE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbUpwaC04eXF1M2oyY1Nxd1J2OUp2dGtDb1BkZmtYRzdaY19XbmZBSUlXM0x5RzJRTjlRSzZrS1ZBbU9zaHZOOC05cUNKNUF6NXNoeC1DaGlyd09fcFE?oc=5)
-
----
-
-### [Il diabete di Zverev, Wimbledon e i rischi legati al caldo: perché i sensori della glicemia possono sbagliare - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDcxdUl1bGdlSWxiOVpIYUxDUXhpVlVFaWtTM3dDUm9wVGhpMFBXYnM5VUMyV09Tc252dzV1aExFNUNTVDRha3V5VnlVUXo1ZWlTVUZhcm1ZWUI1NWlVb1pLdXI2WkpaNUdJcGstaEF1cGY4bXRXQ0FxR1M0WklxWUJ0UmxncjlVTVpWbWl3?oc=5)
-
-2026-07-10 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDcxdUl1bGdlSWxiOVpIYUxDUXhpVlVFaWtTM3dDUm9wVGhpMFBXYnM5VUMyV09Tc252dzV1aExFNUNTVDRha3V5VnlVUXo1ZWlTVUZhcm1ZWUI1NWlVb1pLdXI2WkpaNUdJcGstaEF1cGY4bXRXQ0FxR1M0WklxWUJ0UmxncjlVTVpWbWl3?oc=5)
-
----
-
-### [Expertos perfilan nuevas estrategias para proteger el riñón en diabetes tipo 2 y obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkR0VkxIT2k5dVlBM2xnaVVBWFdfVUlJYnVIeHRGc05sWXFNcFV5RVRVRGpOQ21sTE1JMVdJTXNfN1dhYlFUU2p4R0FSVmV5R0xucEgzUl9CX0FlWHlVNFFuWjgtdnZRNVFIX1I5VGNnOWxlSGlDNkMxd3NlRlF2YW9xcXVtcGY2Vm1MaldpcS1SOE9TZURIV1RFRDljLV9UN09KYmZtMl9TZi1nUkxuUGlubksyQUl1VmxDMVptdlrSAbsBQVVfeXFMTkc3QWpBdm42VGtxcWgzRXhQb2NpYmc0S004N2R0N3hGTVowR0RYaW5rY01iNzlBWDVNRGRYMXpCb0loVFpTZHVjRFdLUklUTW1QNXdBWjhna3hQR1JTTENCTlQ2M0pKMXdTUGh4X2oyNWgzQU5kVnU1QmttVDEydlozOE9IN2lIZW8tQ1JLRl9TeG9IVWk1V3hWTmJQRE4tMEZocC1keXRKZG5BZU1xeVF6bVdNOF9CblZBTQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkR0VkxIT2k5dVlBM2xnaVVBWFdfVUlJYnVIeHRGc05sWXFNcFV5RVRVRGpOQ21sTE1JMVdJTXNfN1dhYlFUU2p4R0FSVmV5R0xucEgzUl9CX0FlWHlVNFFuWjgtdnZRNVFIX1I5VGNnOWxlSGlDNkMxd3NlRlF2YW9xcXVtcGY2Vm1MaldpcS1SOE9TZURIV1RFRDljLV9UN09KYmZtMl9TZi1nUkxuUGlubksyQUl1VmxDMVptdlrSAbsBQVVfeXFMTkc3QWpBdm42VGtxcWgzRXhQb2NpYmc0S004N2R0N3hGTVowR0RYaW5rY01iNzlBWDVNRGRYMXpCb0loVFpTZHVjRFdLUklUTW1QNXdBWjhna3hQR1JTTENCTlQ2M0pKMXdTUGh4X2oyNWgzQU5kVnU1QmttVDEydlozOE9IN2lIZW8tQ1JLRl9TeG9IVWk1V3hWTmJQRE4tMEZocC1keXRKZG5BZU1xeVF6bVdNOF9CblZBTQ?oc=5)
-
----
-
-### [Schwangerschaftsdiabetes: 80 Prozent lassen sich durch Ernährung kontrollieren](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
-
-2026-07-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGc0UTh0WldfX2VlU21HUkJQTFVoeGZTQ3Q3UXU1NG5tbGtteFBhQWdrM0xlcElmSWQzLVRSdFQ0RmdFUUxXS3EzRzZvQngwQlRXYmpjM0luM3ZaVzdMa3lRcVNIU2lGMEtDSjlic0FKVC1TbWplZnFtT3ByazNfbmZ1bHFEcTJLRk5jM1kxUkNSay1VcHRfUkRvZF9FaDJ5NHBmbEx4TUVzVFYtNDRSb0I4Zw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

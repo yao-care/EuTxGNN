@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [BPCO, la nuova Nota 99 semplifica l’accesso alle terapie: più tempestività nelle cure e maggiore ruolo della medicina territoriale - Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">BPCO</span>
-
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
