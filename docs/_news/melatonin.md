@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Marie-Pierre St-Onge, científica experta en sueño: “Añado plátano a mis cereales cada mañana porque estimula la secreción de melatonina” - Directo al Paladar](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXVyMzhudkhiOFA2NzZvWnpld3pFME5fLVU0MmozNnlPQ013T0dndWx5ek04OG4xbjdISkZuUEhHUWVnV3Bwbm1fSnhidHhicFU1NV9VQVZ1U21yTTFMVTFhUlBmMDZPYTZTNVBEZ3VuS3Vham1tUEpFU0RvS2F1alROdWtzN01ISk4zUVdWakxhX0ZWU2c0MngyYjZ1Z2RTd3ZNTWdUOWVIZUEyUVZ6a3ZMc09DNkJoaGxuSXd2VzVhZm05SFRONEpBQ2l4MHhCMDEwNW92bGdZaFNoaGg5X3AyLUU4bW5DZnFGS0dEYzc0LWpn0gH6AUFVX3lxTE5rMVRpcU9FVTZlMFZCUGJ0N2QtNHMtenlNeGFNOUxuSkxlT20zM0xBMGhlNzVJX1h0X0FXZk5haXJVZmM1WFJvem5ybkxQaDl3a04yc3ZWTDJGTEZyX3VQY19pT3JkSXl1ZGhZSjZINjJzRExXdjhqZlpla0dKZm5DT1BocmFYUGtlNFktSUZ0MHZuN0pTQU5SaVBFRWlSZHZqNlRmTmhEakxfTWFyZDFJbEJyR1dNeFJ0bFFrSl9JcEd1dzVPdmpQSGNvWEZqLW5aTzg2MXlHWlZEcXZzd2VoYWZ6R3FuZk5NTVV4b18zZlFnTlZjdW5KVXc?oc=5)
+
+2026-07-12 <span class="news-drug-tag">Melatonin</span>
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXVyMzhudkhiOFA2NzZvWnpld3pFME5fLVU0MmozNnlPQ013T0dndWx5ek04OG4xbjdISkZuUEhHUWVnV3Bwbm1fSnhidHhicFU1NV9VQVZ1U21yTTFMVTFhUlBmMDZPYTZTNVBEZ3VuS3Vham1tUEpFU0RvS2F1alROdWtzN01ISk4zUVdWakxhX0ZWU2c0MngyYjZ1Z2RTd3ZNTWdUOWVIZUEyUVZ6a3ZMc09DNkJoaGxuSXd2VzVhZm05SFRONEpBQ2l4MHhCMDEwNW92bGdZaFNoaGg5X3AyLUU4bW5DZnFGS0dEYzc0LWpn0gH6AUFVX3lxTE5rMVRpcU9FVTZlMFZCUGJ0N2QtNHMtenlNeGFNOUxuSkxlT20zM0xBMGhlNzVJX1h0X0FXZk5haXJVZmM1WFJvem5ybkxQaDl3a04yc3ZWTDJGTEZyX3VQY19pT3JkSXl1ZGhZSjZINjJzRExXdjhqZlpla0dKZm5DT1BocmFYUGtlNFktSUZ0MHZuN0pTQU5SaVBFRWlSZHZqNlRmTmhEakxfTWFyZDFJbEJyR1dNeFJ0bFFrSl9JcEd1dzVPdmpQSGNvWEZqLW5aTzg2MXlHWlZEcXZzd2VoYWZ6R3FuZk5NTVV4b18zZlFnTlZjdW5KVXc?oc=5)
+
+---
+
+### [El punto que hay que presionar para aliviar el dolor de cabeza y los mareos - El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+2026-07-12 <span class="news-indication-tag">migraña</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+---
 
 ### [Médicaments de l'obésité : troubles digestifs, carences nutritionnelles... le point sur les effets secondaires - La Provence](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQclJOUURxTHZXdFlNbGpFMHE4TXVHd1BrYVpfNzZxclRqSGE5UUR5bHhveXd2VGF2XzRUUzN4enZTMTlZeTlndWJOWkhubGZhWFNMSTJkel9qajM2MXFvdTZzQ0szNzF1alg0TWhmcUcxS2dUVmxfaHEtLTg4ZThmQ0xaR1FqTFVOa3FfdEVudGdBME9TTU9IaUZZV1VPSUtiRkRVNHV5UlNnQXY0SUVBSnZmSXRyQmJtLUlvYnVoMUZ2VVFfbWpoZllCcnBrZW1xWXh2M2xZMWRSUnJuenBZMU9vaXE4QnoyM0FaOGJZZGdWQklC?oc=5)
 

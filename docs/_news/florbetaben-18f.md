@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/florbetaben-18f/
 
 ---
 
-### [Chronische Schmerzen: Pfefferminzöl senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
+### [El punto que hay que presionar para aliviar el dolor de cabeza y los mareos - El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
 
-2026-07-11 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-12 <span class="news-indication-tag">migraña</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+---
+
+### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（9 則）
+
+### [Why everyone’s turning to minoxidil for hair growth](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcGZrUEQ5dmpyR1FVRlYyVHFPblgxSnY5eWN5bzNERkFwNC1INU1tc2RHMGJVeWVfSVU0YXRKTDlRNzdGUVhrYXNuM0t6MDN5YlUwZmtDSlMyQm94Y2c?oc=5)
+
+2026-07-12 <span class="news-indication-tag">MS</span>
+
+來源：[vogueadria.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcGZrUEQ5dmpyR1FVRlYyVHFPblgxSnY5eWN5bzNERkFwNC1INU1tc2RHMGJVeWVfSVU0YXRKTDlRNzdGUVhrYXNuM0t6MDN5YlUwZmtDSlMyQm94Y2c?oc=5)
+
+---
 
 ### [El Govern amplía la ayuda a RD Congo ante el brote de ébola y cólera - El Periódico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXdqT2J4Qm5ka3BRcnJpS2VhdElJbnJaQkVXQWxva3lMdDVlTEd2T2JsVGxwNnk0RGt5eUI3c3I1X0RsczNpTjY5VVl6R1FtdzlHY1ZneVlrQmtXdkI2bGo1Tk92M1M3cC1Scm1Pc0hTNXo1NGlhenJMWm5OR1BKQko4QWx3aHZPakZZZm42cXlXczFxQ1k2M1BjZjNuM1ZfRmJOcEtpMHRXZw?oc=5)
 
@@ -78,35 +86,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [El cáncer afectará de alguna forma a más del 90 % de la población mundial](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
-
-2026-07-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[EFESalud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
-
----
-
-### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
-2026-07-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
----
-
 ### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
 
 2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
-
----
-
-### [El esperma también envejece: los hombres mayores de 45 años tienen un 31% más de mutaciones genéticas que los menores de 30](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdG04NHlZOTVKbmlJYnpjSGphbHoyUERCTTRuakpOUVJWTVUwc3pRVC1HaDFxaXJIR3o4azdWZ29GLUVRTG50SzQtWm5TUUZraWliVC1QZkw4SjlJSVNyUkVFQUhsR1VKWEpqZ0JfLXpmMGd2Q25KMThlRlViZWZVSjFzT19ESXhQc2RUWUhzbDBUczdhYU9KQTVFU05qVGxtSlh4WU5fOWROZkpQeC1XRHpTUHF4OFZQVkY1ay1XZnQ4WTB5NUs3WlpLWm1pV0HSAdQBQVVfeXFMUE81Q1Z2WWc5ZXNHTWRjNzdWTjFJbmtwQlJWLV9aSkpad1pPUVViVjNFVFRHZkt3N2IycVU2YjdENllEeGY0M3pta2ltZlJramVHX3FDcE5USVhSdHg2UGdlU1V3QXNXZlJ2NnZQN3owZU9LLUtnTG4tSDNFVWQ0cXcwaWFEVC1LMW8weW9kaGk0Snp0dFNxbHhkVnFfY3hQeUpNU0p1aXByc0FtUUs2TmNoX0VYV01YWGVjbTNPS3lxVUI3VlZtak85WFlJN05jZFp4UlI?oc=5)
-
-2026-07-11 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Xataka](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdG04NHlZOTVKbmlJYnpjSGphbHoyUERCTTRuakpOUVJWTVUwc3pRVC1HaDFxaXJIR3o4azdWZ29GLUVRTG50SzQtWm5TUUZraWliVC1QZkw4SjlJSVNyUkVFQUhsR1VKWEpqZ0JfLXpmMGd2Q25KMThlRlViZWZVSjFzT19ESXhQc2RUWUhzbDBUczdhYU9KQTVFU05qVGxtSlh4WU5fOWROZkpQeC1XRHpTUHF4OFZQVkY1ay1XZnQ4WTB5NUs3WlpLWm1pV0HSAdQBQVVfeXFMUE81Q1Z2WWc5ZXNHTWRjNzdWTjFJbmtwQlJWLV9aSkpad1pPUVViVjNFVFRHZkt3N2IycVU2YjdENllEeGY0M3pta2ltZlJramVHX3FDcE5USVhSdHg2UGdlU1V3QXNXZlJ2NnZQN3owZU9LLUtnTG4tSDNFVWQ0cXcwaWFEVC1LMW8weW9kaGk0Snp0dFNxbHhkVnFfY3hQeUpNU0p1aXByc0FtUUs2TmNoX0VYV01YWGVjbTNPS3lxVUI3VlZtak85WFlJN05jZFp4UlI?oc=5)
 
 ---
 
@@ -139,22 +123,6 @@ permalink: /news/sofosbuvir/
 2026-07-11 <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHlLQXFrV3NCbGNlQ19tbjdHSE1lVnpBMFYtbGNNS3BqNWd0U2NILU80SnRMZlVpT2M4VGEzWUlNU2dacW5rblppTmdFV3ZTMGpwTTBjUnpoWXVXaGlqSUtBZ2FqakNFMGNUNmJGdU9KakpxU291YWM5aVV3b1JYeGV3OTVJNDJIVGJvTFRJM1ZVNDQzUE1RWi13?oc=5)
-
----
-
-### [Cyclosporiasis outbreak: Symptoms to watch for as ‘explosive diarrhea’ cases climb in US - The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
-
-2026-07-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
-
----
-
-### [ITV star issues cancer update in new hospital video - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
 ---
 

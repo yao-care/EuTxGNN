@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Científicos adaptan la tecnología contra el cáncer para frenar el asma alérgica con éxito en ratones - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVJqdVVvVVBoNnV0TDVKVnZZa1MtcDFGZ2k2OG9rb3dyRjNXUlZMSlR1WXNvcmZfek5Uai1tMjl6ckVBc2ZjdWl1MXVUSU1iYTVZMlN6MHFLZjhDR2R0a1k1dTFNbEZOQ3ZaMDY5akJYbFBMeTNIV296OFdWR25fVEN3T0d1ajlraUxHbklJVVBjU2JhSEJFdFFFRVhMNXhnTWJaUmxualZQM3JMaUhUa2hXNDkzR0o3aHVpUmp1NEdLNzRhakdZMzlPNENURGg0Y2h1bUttQmhuU1djY1pmSEh5MXRHREgzNks3TWZEUVdoSmlkODdCQWVUTUNoOUxvS1AwLWJ4YXTSAZMCQVVfeXFMUDJCeUNvdDJtZzhlME5pNDZ4SzJZd0k5QVNtSDlJd1BZemhuQlU4TElhN0ZSdTZyWUptalNHZ2VQZkQzTnlQOVZ3NjhDWDBQV0w4ZzE3QmFpWWxQWWVUNnZESUY3UjQ0aE1aeEI2VkV6WEY4N2NINTFPM0VOOGZVWUNpdFRVSGh3c09uOFJyMGMzNFBNbXIxWk9VVzJsSkUxUDR3QXZiMVdGai1QOWVMVkE2TDMtT0EtLTN1Y1B0TDFObGgyUTBOYWtEOVZrMnFXNnlVUV9RMFluby1kaVBvWVlQMnVndzE4SU5zR19fcGdWTExaVE5STkxUNGtPZGYzUDg5dE1tTU1EaW9VX05XZlRJRE0?oc=5)
+
+2026-07-12 <span class="news-indication-tag">asma</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVJqdVVvVVBoNnV0TDVKVnZZa1MtcDFGZ2k2OG9rb3dyRjNXUlZMSlR1WXNvcmZfek5Uai1tMjl6ckVBc2ZjdWl1MXVUSU1iYTVZMlN6MHFLZjhDR2R0a1k1dTFNbEZOQ3ZaMDY5akJYbFBMeTNIV296OFdWR25fVEN3T0d1ajlraUxHbklJVVBjU2JhSEJFdFFFRVhMNXhnTWJaUmxualZQM3JMaUhUa2hXNDkzR0o3aHVpUmp1NEdLNzRhakdZMzlPNENURGg0Y2h1bUttQmhuU1djY1pmSEh5MXRHREgzNks3TWZEUVdoSmlkODdCQWVUTUNoOUxvS1AwLWJ4YXTSAZMCQVVfeXFMUDJCeUNvdDJtZzhlME5pNDZ4SzJZd0k5QVNtSDlJd1BZemhuQlU4TElhN0ZSdTZyWUptalNHZ2VQZkQzTnlQOVZ3NjhDWDBQV0w4ZzE3QmFpWWxQWWVUNnZESUY3UjQ0aE1aeEI2VkV6WEY4N2NINTFPM0VOOGZVWUNpdFRVSGh3c09uOFJyMGMzNFBNbXIxWk9VVzJsSkUxUDR3QXZiMVdGai1QOWVMVkE2TDMtT0EtLTN1Y1B0TDFObGgyUTBOYWtEOVZrMnFXNnlVUV9RMFluby1kaVBvWVlQMnVndzE4SU5zR19fcGdWTExaVE5STkxUNGtPZGYzUDg5dE1tTU1EaW9VX05XZlRJRE0?oc=5)
+
+---
+
+### [El punto que hay que presionar para aliviar el dolor de cabeza y los mareos - El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+2026-07-12 <span class="news-indication-tag">migraña</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+---
 
 
 <div class="disclaimer">

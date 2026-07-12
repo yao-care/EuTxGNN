@@ -54,6 +54,14 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（4 則）
 
+### [Caldo estremo, aumentano ictus, infarti e colpi di calore: chi è più a rischio, sintomi ed errori da evitare. La guida - Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXpqT2Z3SmpXR2ZEWjJTQkdER3FSUUxtNkwwQV9FdHpDYnhUVGJ1Z3Z4VFFjVGF2T3c0U0N5UjUwcHR6enpyTk9YMXJQSzVka1Q3VlE0YzBKT1EzNDJ6Z091ZWlJS0ZmaURxV0RpSk9Md0JJS0d5VFRtWkJXX05OTFlKakdWT3pia01YUUNhVVNOUTFUOWotYUNTTkdDVnpOSEVj0gGoAUFVX3lxTE4yYnhRWmluZFotMWhqYVRDY3FPbUJmZXFqMmotb3JXUGJyOGp6VDJQdy1xb0k1aW5UbVRDZ19DcDRmS1RNX0k5NEVhd25OTkZDYklTWnRwY0lDc1p4Rkp5cjJ4WGxibzFhVnFhYk16aE5lVHBCdDFxY24wWmRsLWZoYUpEV2tSMjJDNjR4WktzWXVTNzY0UEtaVnNZeElnZEhKczFNSjFHSg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">ictus</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVXpqT2Z3SmpXR2ZEWjJTQkdER3FSUUxtNkwwQV9FdHpDYnhUVGJ1Z3Z4VFFjVGF2T3c0U0N5UjUwcHR6enpyTk9YMXJQSzVka1Q3VlE0YzBKT1EzNDJ6Z091ZWlJS0ZmaURxV0RpSk9Md0JJS0d5VFRtWkJXX05OTFlKakdWT3pia01YUUNhVVNOUTFUOWotYUNTTkdDVnpOSEVj0gGoAUFVX3lxTE4yYnhRWmluZFotMWhqYVRDY3FPbUJmZXFqMmotb3JXUGJyOGp6VDJQdy1xb0k1aW5UbVRDZ19DcDRmS1RNX0k5NEVhd25OTkZDYklTWnRwY0lDc1p4Rkp5cjJ4WGxibzFhVnFhYk16aE5lVHBCdDFxY24wWmRsLWZoYUpEV2tSMjJDNjR4WktzWXVTNzY0UEtaVnNZeElnZEhKczFNSjFHSg?oc=5)
+
+---
+
 ### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
 
 2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
@@ -75,14 +83,6 @@ permalink: /news/telmisartan/
 2026-07-12 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
-
----
-
-### [Chronische Schmerzen: Pfefferminzöl senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
-
-2026-07-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
 
 ---
 

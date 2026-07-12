@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [El punto que hay que presionar para aliviar el dolor de cabeza y los mareos - El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+2026-07-12 <span class="news-indication-tag">migraña</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+
+---
 
 ### [Médicaments de l'obésité : troubles digestifs, carences nutritionnelles... le point sur les effets secondaires - La Provence](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQclJOUURxTHZXdFlNbGpFMHE4TXVHd1BrYVpfNzZxclRqSGE5UUR5bHhveXd2VGF2XzRUUzN4enZTMTlZeTlndWJOWkhubGZhWFNMSTJkel9qajM2MXFvdTZzQ0szNzF1alg0TWhmcUcxS2dUVmxfaHEtLTg4ZThmQ0xaR1FqTFVOa3FfdEVudGdBME9TTU9IaUZZV1VPSUtiRkRVNHV5UlNnQXY0SUVBSnZmSXRyQmJtLUlvYnVoMUZ2VVFfbWpoZllCcnBrZW1xWXh2M2xZMWRSUnJuenBZMU9vaXE4QnoyM0FaOGJZZGdWQklC?oc=5)
 

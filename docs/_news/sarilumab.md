@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Científicos adaptan la tecnología contra el cáncer para frenar el asma alérgica con éxito en ratones - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVJqdVVvVVBoNnV0TDVKVnZZa1MtcDFGZ2k2OG9rb3dyRjNXUlZMSlR1WXNvcmZfek5Uai1tMjl6ckVBc2ZjdWl1MXVUSU1iYTVZMlN6MHFLZjhDR2R0a1k1dTFNbEZOQ3ZaMDY5akJYbFBMeTNIV296OFdWR25fVEN3T0d1ajlraUxHbklJVVBjU2JhSEJFdFFFRVhMNXhnTWJaUmxualZQM3JMaUhUa2hXNDkzR0o3aHVpUmp1NEdLNzRhakdZMzlPNENURGg0Y2h1bUttQmhuU1djY1pmSEh5MXRHREgzNks3TWZEUVdoSmlkODdCQWVUTUNoOUxvS1AwLWJ4YXTSAZMCQVVfeXFMUDJCeUNvdDJtZzhlME5pNDZ4SzJZd0k5QVNtSDlJd1BZemhuQlU4TElhN0ZSdTZyWUptalNHZ2VQZkQzTnlQOVZ3NjhDWDBQV0w4ZzE3QmFpWWxQWWVUNnZESUY3UjQ0aE1aeEI2VkV6WEY4N2NINTFPM0VOOGZVWUNpdFRVSGh3c09uOFJyMGMzNFBNbXIxWk9VVzJsSkUxUDR3QXZiMVdGai1QOWVMVkE2TDMtT0EtLTN1Y1B0TDFObGgyUTBOYWtEOVZrMnFXNnlVUV9RMFluby1kaVBvWVlQMnVndzE4SU5zR19fcGdWTExaVE5STkxUNGtPZGYzUDg5dE1tTU1EaW9VX05XZlRJRE0?oc=5)
+
+2026-07-12 <span class="news-indication-tag">asma</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVJqdVVvVVBoNnV0TDVKVnZZa1MtcDFGZ2k2OG9rb3dyRjNXUlZMSlR1WXNvcmZfek5Uai1tMjl6ckVBc2ZjdWl1MXVUSU1iYTVZMlN6MHFLZjhDR2R0a1k1dTFNbEZOQ3ZaMDY5akJYbFBMeTNIV296OFdWR25fVEN3T0d1ajlraUxHbklJVVBjU2JhSEJFdFFFRVhMNXhnTWJaUmxualZQM3JMaUhUa2hXNDkzR0o3aHVpUmp1NEdLNzRhakdZMzlPNENURGg0Y2h1bUttQmhuU1djY1pmSEh5MXRHREgzNks3TWZEUVdoSmlkODdCQWVUTUNoOUxvS1AwLWJ4YXTSAZMCQVVfeXFMUDJCeUNvdDJtZzhlME5pNDZ4SzJZd0k5QVNtSDlJd1BZemhuQlU4TElhN0ZSdTZyWUptalNHZ2VQZkQzTnlQOVZ3NjhDWDBQV0w4ZzE3QmFpWWxQWWVUNnZESUY3UjQ0aE1aeEI2VkV6WEY4N2NINTFPM0VOOGZVWUNpdFRVSGh3c09uOFJyMGMzNFBNbXIxWk9VVzJsSkUxUDR3QXZiMVdGai1QOWVMVkE2TDMtT0EtLTN1Y1B0TDFObGgyUTBOYWtEOVZrMnFXNnlVUV9RMFluby1kaVBvWVlQMnVndzE4SU5zR19fcGdWTExaVE5STkxUNGtPZGYzUDg5dE1tTU1EaW9VX05XZlRJRE0?oc=5)
+
+---
 
 ### [Morbus Crohn: Genvariante erklärt schwere Verläufe nach Jahrzehnten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS15SWM2c0UxLWZ0X3RpUVlKdGFLTXVBRjl4M3liM3A5V0J4NnA0NmVFRTQwbWE5cE1hMlV3T0J3d1JmeDBhdXJNeGI2RHZkN2xYUmRMVk45Q2FZVnFoMzk5c2FfSVU0UUhHMHV4MUtFMWRmVkZvX1Z6cGNCMVdoSFdyUkFKclBUNUV2SzlaNjlKMDRpN2hNZkI3blFiUjZHX2FTSHhYMFVCVkdQal9DOTROU0FMV2Zw?oc=5)
 
 2026-07-12 <span class="news-indication-tag">Morbus Crohn</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS15SWM2c0UxLWZ0X3RpUVlKdGFLTXVBRjl4M3liM3A5V0J4NnA0NmVFRTQwbWE5cE1hMlV3T0J3d1JmeDBhdXJNeGI2RHZkN2xYUmRMVk45Q2FZVnFoMzk5c2FfSVU0UUhHMHV4MUtFMWRmVkZvX1Z6cGNCMVdoSFdyUkFKclBUNUV2SzlaNjlKMDRpN2hNZkI3blFiUjZHX2FTSHhYMFVCVkdQal9DOTROU0FMV2Zw?oc=5)
+
+---
+
+### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
 
 ---
 

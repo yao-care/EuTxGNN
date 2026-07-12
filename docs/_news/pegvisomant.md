@@ -14,7 +14,7 @@ permalink: /news/pegvisomant/
 ---
 
 <p class="key-answer" data-question="Pegvisomant 有什麼相關新聞？">
-<strong>Pegvisomant</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pegvisomant</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/pegvisomant/
 <p><a href="{{ '/drugs/pegvisomant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
 
-### [Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
+### [Salamanca, epicentro de la prevención del cáncer: casi 16.000 mamografías y análisis genéticos para toda la Comunidad - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXpTNmNJR1JBcjBuaDIxb09XRjJRbEdpcm0xZmhLaG9DSnRjc3U5S3BHLU5nUksxU05NbGNNd18zR3hralJ6MV9nT29nTFhGVkhmUHQ1emM2WHJQUEtoTEpmZjlvYjR0dzhpVHRDZUlsSEoyVTV5QU13TGNIV2JEZGpFUHY5T3R6bGEwVHR2YUdDa0haMVR2UHNSWXM3NjhHdkVyd2p3bW8tUHVoQVRlaUFBR2hDd0trdHUwTU5GTUJmbXc4VGs2YjZ5MXlBSVNhcUk4cWowV1MwVWtmYlJKZFFXem9ZSndMOFVRU1ZlSWp5SnNsUTd3?oc=5)
 
-2026-07-12 <span class="news-indication-tag">cancer</span>
+2026-07-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXpTNmNJR1JBcjBuaDIxb09XRjJRbEdpcm0xZmhLaG9DSnRjc3U5S3BHLU5nUksxU05NbGNNd18zR3hralJ6MV9nT29nTFhGVkhmUHQ1emM2WHJQUEtoTEpmZjlvYjR0dzhpVHRDZUlsSEoyVTV5QU13TGNIV2JEZGpFUHY5T3R6bGEwVHR2YUdDa0haMVR2UHNSWXM3NjhHdkVyd2p3bW8tUHVoQVRlaUFBR2hDd0trdHUwTU5GTUJmbXc4VGs2YjZ5MXlBSVNhcUk4cWowV1MwVWtmYlJKZFFXem9ZSndMOFVRU1ZlSWp5SnNsUTd3?oc=5)
+
+---
+
+### [Vitamin-D-Mangel: Mehr Schmerzen nach Brustkrebsoperation? - Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pjMk82cVdza2JISzRKMXR0Ump0dkpFckNIbWJuZFdsVkV1bzhpYmNsU3ZjcU9Yczk3TnR3RjI2UlNBMGNLel9nVTRCS2owd2NUOFp0SHNoVDBhQ2U1NzYza2RKZXItRWVxeElQV2RMako3Q3REVzhoRHVnemttVlhjUzBncFI1UlFBMHc5dy1FQmFjSFhiYy1SWGRaSWVJRjAyZzFUUUxBbzlrQUl1TjdlZmVGNzdvX29z?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pjMk82cVdza2JISzRKMXR0Ump0dkpFckNIbWJuZFdsVkV1bzhpYmNsU3ZjcU9Yczk3TnR3RjI2UlNBMGNLel9nVTRCS2owd2NUOFp0SHNoVDBhQ2U1NzYza2RKZXItRWVxeElQV2RMako3Q3REVzhoRHVnemttVlhjUzBncFI1UlFBMHc5dy1FQmFjSFhiYy1SWGRaSWVJRjAyZzFUUUxBbzlrQUl1TjdlZmVGNzdvX29z?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/pegvisomant/
 2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
 
 來源：[National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
+
+---
+
+### [Tumore al pancreas, la pillola che frena il motore della malattia](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnI0bmUwZVZZb3VWWFA3emJ4UndwWndsd0tBMnhLcVIzNFh6cjJzeVBYWHVoYl9rZjRiYWVJSFllcjJZUnR2emFWbF9MdHBGcG5NaURreHc2NnBJaXRTSHJBcWlmVHIwZFFnUmRja21HWXRnV05hMHh6S1N3Mi12ODNlN3otMk1sM1g4aDJRaHp4MG56OElCUURuUnBhOWQ3SXhYQmRmcjdJdHBKSzNwSVZiTEpLQQ?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnI0bmUwZVZZb3VWWFA3emJ4UndwWndsd0tBMnhLcVIzNFh6cjJzeVBYWHVoYl9rZjRiYWVJSFllcjJZUnR2emFWbF9MdHBGcG5NaURreHc2NnBJaXRTSHJBcWlmVHIwZFFnUmRja21HWXRnV05hMHh6S1N3Mi12ODNlN3otMk1sM1g4aDJRaHp4MG56OElCUURuUnBhOWQ3SXhYQmRmcjdJdHBKSzNwSVZiTEpLQQ?oc=5)
 
 ---
 
@@ -118,11 +134,27 @@ permalink: /news/pegvisomant/
 
 ---
 
+### [Joghurt und Probiotika: Bis zu 50% weniger Darmkrebsrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhCVXJTMFNYcFNFMFVrY1BQMDk0U1hINlV3WUdmUkdUXzVyd1U1aFZOSGFiY1dEOC1TY1AzMlB4cmhrdW1IOUJXemw0TTlsOTdUSlV2U3hZdGpDOUVrMUdNalFySXhScG04SFMwcnFPZjFTRFJaZTVhb3V1OTRKLW9POVRkR1VTSnVlSkdaN1BwQjdRRXh6QTVtaDlCbllBQ2tRQldkcDI3ZnVWOXFYQ0hJUQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">Krebs</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhCVXJTMFNYcFNFMFVrY1BQMDk0U1hINlV3WUdmUkdUXzVyd1U1aFZOSGFiY1dEOC1TY1AzMlB4cmhrdW1IOUJXemw0TTlsOTdUSlV2U3hZdGpDOUVrMUdNalFySXhScG04SFMwcnFPZjFTRFJaZTVhb3V1OTRKLW9POVRkR1VTSnVlSkdaN1BwQjdRRXh6QTVtaDlCbllBQ2tRQldkcDI3ZnVWOXFYQ0hJUQ?oc=5)
+
+---
+
 ### [La creatina non serve solo ai muscoli: ora interessa anche gli oncologi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancro</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
+
+---
+
+### [Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
+
+2026-07-11 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
 
 ---
 
@@ -134,11 +166,27 @@ permalink: /news/pegvisomant/
 
 ---
 
+### [Nelle farmacie di Napoli manca il Prolia (Denosumab), farmaco essenziale per osteoporosi e cancro](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0JFRkhTcjkyR2VPdWR3aUJodEktMGNsTlZ6YUhXWU05dUNmaG5aUVlxcmU1RFBEVm5Ld1BsVU9BRFluMGxfeGcxb2J4RGIwdkpkUHliaTZna1ViQVh2YTJ6RDlyU2xZQnpvRl9EMGRyb0VtMUpuRWF4X2N4Umw4RW8zWjkxdlpRSGdCdVN3RllHeEhLMVdyS096aTljTTY1Sk1HLURaczJta1BDTUw5allB?oc=5)
+
+2026-07-11 <span class="news-drug-tag">Denosumab</span> <span class="news-indication-tag">cancro</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0JFRkhTcjkyR2VPdWR3aUJodEktMGNsTlZ6YUhXWU05dUNmaG5aUVlxcmU1RFBEVm5Ld1BsVU9BRFluMGxfeGcxb2J4RGIwdkpkUHliaTZna1ViQVh2YTJ6RDlyU2xZQnpvRl9EMGRyb0VtMUpuRWF4X2N4Umw4RW8zWjkxdlpRSGdCdVN3RllHeEhLMVdyS096aTljTTY1Sk1HLURaczJta1BDTUw5allB?oc=5)
+
+---
+
 ### [TikTok star Becki Jones reveals her dad’s heartbreaking cancer diagnosis - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1dRMEo3LVFRQi1CMXpJQk1TUXN6M1RGN08yMVRfSGpnSjI0UWpnOUFqUElJWU5ZRW9LRktLeFgxclRaQlRiNXhOX3pFSFpnYi0tS1NkalVIUWJ3cFE5dnZzYWs2M1dESkkzaGJGd3dGR2liaXVMZm5wV080dVRzSDJrYjdDbWtOcjdUdUZhRzA?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1dRMEo3LVFRQi1CMXpJQk1TUXN6M1RGN08yMVRfSGpnSjI0UWpnOUFqUElJWU5ZRW9LRktLeFgxclRaQlRiNXhOX3pFSFpnYi0tS1NkalVIUWJ3cFE5dnZzYWs2M1dESkkzaGJGd3dGR2liaXVMZm5wV080dVRzSDJrYjdDbWtOcjdUdUZhRzA?oc=5)
+
+---
+
+### [À 33 ans, il pensait que son mal de dos venait du travail : c’était en réalité un cancer de stade 4 - Yahoo Life France](https://news.google.com/rss/articles/CBMidkFVX3lxTE9KX3BuaENmbGRqaUg0ZGdTMFVUNldsanYxZ095cnpqT0pxdkltcWQtZUJjOVBCMEpxZTRQNFpjZ19qOFFzTm56ekxUdmM1RzhBN2JPNmZaTFREUXlWNWg0b0FvZURWMzcwSjk0YmN6RVhiRjJUSEE?oc=5)
+
+2026-07-11 <span class="news-indication-tag">cancer</span>
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMidkFVX3lxTE9KX3BuaENmbGRqaUg0ZGdTMFVUNldsanYxZ095cnpqT0pxdkltcWQtZUJjOVBCMEpxZTRQNFpjZ19qOFFzTm56ekxUdmM1RzhBN2JPNmZaTFREUXlWNWg0b0FvZURWMzcwSjk0YmN6RVhiRjJUSEE?oc=5)
 
 ---
 
@@ -155,22 +203,6 @@ permalink: /news/pegvisomant/
 2026-07-11 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
-
----
-
-### [Tumori in aumento negli under 50: perché cresce l'incidenza e quali sono le possibili cause](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzRvZTFMdVFIRk9oaGhMcS1HYWFyX0xmcXhJUlZDbFEzVmxKMVktQ2xMc2ZTWThEZmxVRnpSdThxMGE4WEotNjdHSll1RXpTM1BxeGlESS01VzBlSkRROWZRVk1aekt3QWY4cWk2S1pmWFE0SlNlcnRRNWRCRkYwV3docDVVbkU2REhGYnVuekstek1lVDUxS3dBUkczOVA4MzVRMtIBaEFVX3lxTFB3NmxDdGk1eHE5Z0g1NUhlWElIY2JJMWJna0hiZW80N1lacUp5VDJ1dndQVEJGNkFaTlJBcHVyQUpLcGtralgwVFFFNGVOTGVDemlwcU5lSkt6NzNzdGtYOUs2RDhUTTg3?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzRvZTFMdVFIRk9oaGhMcS1HYWFyX0xmcXhJUlZDbFEzVmxKMVktQ2xMc2ZTWThEZmxVRnpSdThxMGE4WEotNjdHSll1RXpTM1BxeGlESS01VzBlSkRROWZRVk1aekt3QWY4cWk2S1pmWFE0SlNlcnRRNWRCRkYwV3docDVVbkU2REhGYnVuekstek1lVDUxS3dBUkczOVA4MzVRMtIBaEFVX3lxTFB3NmxDdGk1eHE5Z0g1NUhlWElIY2JJMWJna0hiZW80N1lacUp5VDJ1dndQVEJGNkFaTlJBcHVyQUpLcGtralgwVFFFNGVOTGVDemlwcU5lSkt6NzNzdGtYOUs2RDhUTTg3?oc=5)
-
----
-
-### [ITV star issues cancer update in new hospital video - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
 ---
 

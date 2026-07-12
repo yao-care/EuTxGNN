@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li>asthma（86.3%）</li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,13 +52,37 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Científicos adaptan la tecnología contra el cáncer para frenar el asma alérgica con éxito en ratones - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVJqdVVvVVBoNnV0TDVKVnZZa1MtcDFGZ2k2OG9rb3dyRjNXUlZMSlR1WXNvcmZfek5Uai1tMjl6ckVBc2ZjdWl1MXVUSU1iYTVZMlN6MHFLZjhDR2R0a1k1dTFNbEZOQ3ZaMDY5akJYbFBMeTNIV296OFdWR25fVEN3T0d1ajlraUxHbklJVVBjU2JhSEJFdFFFRVhMNXhnTWJaUmxualZQM3JMaUhUa2hXNDkzR0o3aHVpUmp1NEdLNzRhakdZMzlPNENURGg0Y2h1bUttQmhuU1djY1pmSEh5MXRHREgzNks3TWZEUVdoSmlkODdCQWVUTUNoOUxvS1AwLWJ4YXTSAZMCQVVfeXFMUDJCeUNvdDJtZzhlME5pNDZ4SzJZd0k5QVNtSDlJd1BZemhuQlU4TElhN0ZSdTZyWUptalNHZ2VQZkQzTnlQOVZ3NjhDWDBQV0w4ZzE3QmFpWWxQWWVUNnZESUY3UjQ0aE1aeEI2VkV6WEY4N2NINTFPM0VOOGZVWUNpdFRVSGh3c09uOFJyMGMzNFBNbXIxWk9VVzJsSkUxUDR3QXZiMVdGai1QOWVMVkE2TDMtT0EtLTN1Y1B0TDFObGgyUTBOYWtEOVZrMnFXNnlVUV9RMFluby1kaVBvWVlQMnVndzE4SU5zR19fcGdWTExaVE5STkxUNGtPZGYzUDg5dE1tTU1EaW9VX05XZlRJRE0?oc=5)
+
+2026-07-12 <span class="news-indication-tag">asma</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVJqdVVvVVBoNnV0TDVKVnZZa1MtcDFGZ2k2OG9rb3dyRjNXUlZMSlR1WXNvcmZfek5Uai1tMjl6ckVBc2ZjdWl1MXVUSU1iYTVZMlN6MHFLZjhDR2R0a1k1dTFNbEZOQ3ZaMDY5akJYbFBMeTNIV296OFdWR25fVEN3T0d1ajlraUxHbklJVVBjU2JhSEJFdFFFRVhMNXhnTWJaUmxualZQM3JMaUhUa2hXNDkzR0o3aHVpUmp1NEdLNzRhakdZMzlPNENURGg0Y2h1bUttQmhuU1djY1pmSEh5MXRHREgzNks3TWZEUVdoSmlkODdCQWVUTUNoOUxvS1AwLWJ4YXTSAZMCQVVfeXFMUDJCeUNvdDJtZzhlME5pNDZ4SzJZd0k5QVNtSDlJd1BZemhuQlU4TElhN0ZSdTZyWUptalNHZ2VQZkQzTnlQOVZ3NjhDWDBQV0w4ZzE3QmFpWWxQWWVUNnZESUY3UjQ0aE1aeEI2VkV6WEY4N2NINTFPM0VOOGZVWUNpdFRVSGh3c09uOFJyMGMzNFBNbXIxWk9VVzJsSkUxUDR3QXZiMVdGai1QOWVMVkE2TDMtT0EtLTN1Y1B0TDFObGgyUTBOYWtEOVZrMnFXNnlVUV9RMFluby1kaVBvWVlQMnVndzE4SU5zR19fcGdWTExaVE5STkxUNGtPZGYzUDg5dE1tTU1EaW9VX05XZlRJRE0?oc=5)
+
+---
+
+### [Diabète : l’alimentation équilibrée reste le pilier central pour éviter les complications - Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
+
+2026-07-12 <span class="news-indication-tag">diabète</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
+
+---
 
 ### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
 
 2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+---
+
+### [Forget GLP-1s—GLP-3s show promise in phase 3 weight loss and diabetes trial - Medical Xpress](https://news.google.com/rss/articles/CBMidEFVX3lxTFB5NXJkckZmbkliOWI4cnVxbTRtRjdtcjY5bFpFMnNjRUhTUlFGenlNYmhYM2RyVVdKUmljTnpqQ3ZxYlVpUTJrbmYyOUcySnlxdFNmOW5falhmWkFjNGRtRkhaR2NMWmxNU3pFSWtpZC1JVG5i?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMidEFVX3lxTFB5NXJkckZmbkliOWI4cnVxbTRtRjdtcjY5bFpFMnNjRUhTUlFGenlNYmhYM2RyVVdKUmljTnpqQ3ZxYlVpUTJrbmYyOUcySnlxdFNmOW5falhmWkFjNGRtRkhaR2NMWmxNU3pFSWtpZC1JVG5i?oc=5)
 
 ---
 
@@ -75,22 +99,6 @@ permalink: /news/somapacitan/
 2026-07-11 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
-
----
-
-### [Diabetes, reflujo o colon irritable: Cuáles son las frutas más recomendables](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktlcGN6SV80NHVzcEFKWkROUGhJanJ2bm5QRGtmSC15d2hOOXhYZ2dYbEYyOE1OaWxlbk5nYU53V3phM3hRbngwMUlBOUE0Z0Zid0YyQTZOakFya3hoU1Z3djJXNFJVQk43UVdZYVhCa2NfSEZIMjlrbmxVc19kdzJNejlhVzFjZGltZVRYeVNZTjVBSmtnOERxUDlmeGRSUlcxaXdseUtBRmpJSGkyaVVpZmJqNFJnRG10Rk5vc0JUYndaeHhzOHJoLWRRX281Q1g3SktR0gHbAUFVX3lxTE5BUFhpMHhfZWljQWpHbTRXemtNcW55bEhZRG1IM2tjdF9uQVhucEtHQnhFU3hwZW9ibklYc1RQeURyVDhkQmZCSDltVUV4V2dNYjFnZTdfU1M5ZEZqMHJhTF9mdEhPcFlOQlVIMmVBUGY0bDNyZU1RekZLM3FoTHY4WGR5WDhidGhfVTlxZE12d0I3U05aOC1lc3JXM2h2TkdQZEFUSUswQjJRZ0xSYVYxTDBRNk1iVHliUV9SMUtuRTVxaEMzMVRJLVpEeGZ4RWlERkxpczN1WVFQVQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktlcGN6SV80NHVzcEFKWkROUGhJanJ2bm5QRGtmSC15d2hOOXhYZ2dYbEYyOE1OaWxlbk5nYU53V3phM3hRbngwMUlBOUE0Z0Zid0YyQTZOakFya3hoU1Z3djJXNFJVQk43UVdZYVhCa2NfSEZIMjlrbmxVc19kdzJNejlhVzFjZGltZVRYeVNZTjVBSmtnOERxUDlmeGRSUlcxaXdseUtBRmpJSGkyaVVpZmJqNFJnRG10Rk5vc0JUYndaeHhzOHJoLWRRX281Q1g3SktR0gHbAUFVX3lxTE5BUFhpMHhfZWljQWpHbTRXemtNcW55bEhZRG1IM2tjdF9uQVhucEtHQnhFU3hwZW9ibklYc1RQeURyVDhkQmZCSDltVUV4V2dNYjFnZTdfU1M5ZEZqMHJhTF9mdEhPcFlOQlVIMmVBUGY0bDNyZU1RekZLM3FoTHY4WGR5WDhidGhfVTlxZE12d0I3U05aOC1lc3JXM2h2TkdQZEFUSUswQjJRZ0xSYVYxTDBRNk1iVHliUV9SMUtuRTVxaEMzMVRJLVpEeGZ4RWlERkxpczN1WVFQVQ?oc=5)
-
----
-
-### [La microbiota intestinal permite anticipar el riesgo de diabetes tipo 2 años antes, según un estudio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUtmRUthWlh2YXppa0xibDNFRndpRldGMGx1SjVZX1JnMzB0alc0NGI0cFRvYjJLN3pndUxCeUNYc0tKd2lrczV6dkR1THVsRUhUdFA3VzRpWVFEc2tUTk5veFZCSVhzVG43Z24zZ1h6b0FwOW9za1pRNGU0WWtjRGtlcW9Rdm1wS2t6aWpwUzJZdk0yY2hMSEprRDZNNUZGbXNxMTNxa24yNlBBak9UUldWWldMdnBXMVhwSFZrNGJvMEgwM1hMRU1xOTJWcmZyLUNRZjVjbmLSAfMBQVVfeXFMT29VX25kT25JUXluRU00VHdPakd0dFc1Z3FabE01a1lCUHZ5R2xYSnNBdVRWUnhiZkp4OEVlT1pWSVphMUlYLVZsbFRYTjViRlduUkpZOUhUbjVzQ05iWElEYnd0cEx3VkZBc0o2Tm9OZmF3VGFFbktTVU5yQktadVY0dmlBdWtOVEUwLW9VXy1qYjlhSkw5UVBmZ21INU1IbVdiWndLck9fYk1sUFJkRS0ycGVrRlZpLUZ1aDE3aThYaUstblNZUmYtZ0g2NVMxWDM4WDBfRGdxZmlQOTZLU0xOOEVUOUItMnk5VFBiM3U0RXhF?oc=5)
-
-2026-07-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUtmRUthWlh2YXppa0xibDNFRndpRldGMGx1SjVZX1JnMzB0alc0NGI0cFRvYjJLN3pndUxCeUNYc0tKd2lrczV6dkR1THVsRUhUdFA3VzRpWVFEc2tUTk5veFZCSVhzVG43Z24zZ1h6b0FwOW9za1pRNGU0WWtjRGtlcW9Rdm1wS2t6aWpwUzJZdk0yY2hMSEprRDZNNUZGbXNxMTNxa24yNlBBak9UUldWWldMdnBXMVhwSFZrNGJvMEgwM1hMRU1xOTJWcmZyLUNRZjVjbmLSAfMBQVVfeXFMT29VX25kT25JUXluRU00VHdPakd0dFc1Z3FabE01a1lCUHZ5R2xYSnNBdVRWUnhiZkp4OEVlT1pWSVphMUlYLVZsbFRYTjViRlduUkpZOUhUbjVzQ05iWElEYnd0cEx3VkZBc0o2Tm9OZmF3VGFFbktTVU5yQktadVY0dmlBdWtOVEUwLW9VXy1qYjlhSkw5UVBmZ21INU1IbVdiWndLck9fYk1sUFJkRS0ycGVrRlZpLUZ1aDE3aThYaUstblNZUmYtZ0g2NVMxWDM4WDBfRGdxZmlQOTZLU0xOOEVUOUItMnk5VFBiM3U0RXhF?oc=5)
 
 ---
 

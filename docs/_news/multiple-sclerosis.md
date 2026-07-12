@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
+
+### [Why everyone’s turning to minoxidil for hair growth](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcGZrUEQ5dmpyR1FVRlYyVHFPblgxSnY5eWN5bzNERkFwNC1INU1tc2RHMGJVeWVfSVU0YXRKTDlRNzdGUVhrYXNuM0t6MDN5YlUwZmtDSlMyQm94Y2c?oc=5)
+
+2026-07-12
+
+來源：[vogueadria.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcGZrUEQ5dmpyR1FVRlYyVHFPblgxSnY5eWN5bzNERkFwNC1INU1tc2RHMGJVeWVfSVU0YXRKTDlRNzdGUVhrYXNuM0t6MDN5YlUwZmtDSlMyQm94Y2c?oc=5)
+
+---
 
 ### [El Govern amplía la ayuda a RD Congo ante el brote de ébola y cólera - El Periódico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXdqT2J4Qm5ka3BRcnJpS2VhdElJbnJaQkVXQWxva3lMdDVlTEd2T2JsVGxwNnk0RGt5eUI3c3I1X0RsczNpTjY5VVl6R1FtdzlHY1ZneVlrQmtXdkI2bGo1Tk92M1M3cC1Scm1Pc0hTNXo1NGlhenJMWm5OR1BKQko4QWx3aHZPakZZZm42cXlXczFxQ1k2M1BjZjNuM1ZfRmJOcEtpMHRXZw?oc=5)
 
@@ -77,22 +85,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-12
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
-
----
-
-### [El cáncer afectará de alguna forma a más del 90 % de la población mundial](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
-
-2026-07-12
-
-來源：[EFESalud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
-
----
-
-### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
-2026-07-12
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
 ---
 
@@ -133,22 +125,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-11
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHlLQXFrV3NCbGNlQ19tbjdHSE1lVnpBMFYtbGNNS3BqNWd0U2NILU80SnRMZlVpT2M4VGEzWUlNU2dacW5rblppTmdFV3ZTMGpwTTBjUnpoWXVXaGlqSUtBZ2FqakNFMGNUNmJGdU9KakpxU291YWM5aVV3b1JYeGV3OTVJNDJIVGJvTFRJM1ZVNDQzUE1RWi13?oc=5)
-
----
-
-### [Cyclosporiasis outbreak: Symptoms to watch for as ‘explosive diarrhea’ cases climb in US - The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
-
-2026-07-10
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
-
----
-
-### [ITV star issues cancer update in new hospital video - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
-
-2026-07-10
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
 ---
 

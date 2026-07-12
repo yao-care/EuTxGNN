@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Maladie d'Alzheimer : voici les signes dans la façon de parler que les spécialistes recommandent de surveiller - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
 
 2026-07-12
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
-
----
-
-### [Cómo cuidar el cerebro: las claves y hábitos para prevenir la demencia y proteger la memoria - El Espectador](https://news.google.com/rss/articles/CBMi3gFBVV95cUxON01qc3JzQ3gzQ0V6MzNtdkR6ek5tb2hkSENKVlo2RW9JWUhjeGN1dTM5ODNXdmFMbHdhcUxRM0k3bzhKUm9UTmt4UldLWlUwTC1KQ05XS2xOWklEYW5LMUROb2VyWC1MZE5YcmhzMEY5TEFpZi1lZ0cydkxCMXpyaDVkZ0U2RGtTWUd5Y3pqenY4QUJDQm5lV2t4MHg3YzI2VXBRN0pmRGRtTnliZ2hSeFZSd0Ewc2Q1ZUZoaGVMREpPaU4tTy1VN3Q0SGRFRW5rSXhwTnN2Y2N6TmFzT2fSAfIBQVVfeXFMUDJGQkduenRoRWwwN25nSF9KdWQ1Vm9qQzUtY3RWd2t4RVlaVUVyaFJTbU1NZDhLNVZYeDF2cGpnTktqMmNUczJ4d1N2QlJYbkFVQ0ZLazlad0pIblY0UHVrMFpuUmpITzlJd083cEphUkJkdlo5akU2S1hHMzg5dHgwY252YkFFX21ia2huNng2S25taEVORk5UVHZ3OEhBUDBOd3pFeXFXZXkwUTBfZldPcS12RkxLdnpmNk5sbEJod0xubTdpa3VGbmVkemkyUEVmT29yenpUbzdjRzFlb2hnX3NmWW9SaEFFOFloMzhvYXc?oc=5)
-
-2026-07-11
-
-來源：[El Espectador](https://news.google.com/rss/articles/CBMi3gFBVV95cUxON01qc3JzQ3gzQ0V6MzNtdkR6ek5tb2hkSENKVlo2RW9JWUhjeGN1dTM5ODNXdmFMbHdhcUxRM0k3bzhKUm9UTmt4UldLWlUwTC1KQ05XS2xOWklEYW5LMUROb2VyWC1MZE5YcmhzMEY5TEFpZi1lZ0cydkxCMXpyaDVkZ0U2RGtTWUd5Y3pqenY4QUJDQm5lV2t4MHg3YzI2VXBRN0pmRGRtTnliZ2hSeFZSd0Ewc2Q1ZUZoaGVMREpPaU4tTy1VN3Q0SGRFRW5rSXhwTnN2Y2N6TmFzT2fSAfIBQVVfeXFMUDJGQkduenRoRWwwN25nSF9KdWQ1Vm9qQzUtY3RWd2t4RVlaVUVyaFJTbU1NZDhLNVZYeDF2cGpnTktqMmNUczJ4d1N2QlJYbkFVQ0ZLazlad0pIblY0UHVrMFpuUmpITzlJd083cEphUkJkdlo5akU2S1hHMzg5dHgwY252YkFFX21ia2huNng2S25taEVORk5UVHZ3OEhBUDBOd3pFeXFXZXkwUTBfZldPcS12RkxLdnpmNk5sbEJod0xubTdpa3VGbmVkemkyUEVmT29yenpUbzdjRzFlb2hnX3NmWW9SaEFFOFloMzhvYXc?oc=5)
 
 ---
 

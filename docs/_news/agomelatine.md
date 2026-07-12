@@ -54,6 +54,14 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（3 則）
 
+### [Este sensor en las lágrimas detecta dopamina y podría revelar si padeces Parkinson o depresión](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdV81R0tQWWlxQVp1ODBLZHh4QUxzblNIbEZROTdiRHpMekwyMnJuRmdUYmNiVGQyZUx6Wm1QeGZXNmtoU3l6VVc3WVljY2pvZ0puNUxXaUlINUQxd3c0eWtaenVPMmdTeU9QcUJWcGdUWXRwOHlta2FPNzgzZjF6ZFEwRGV0UQ?oc=5)
+
+2026-07-12 <span class="news-indication-tag">depresión</span>
+
+來源：[que.es](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdV81R0tQWWlxQVp1ODBLZHh4QUxzblNIbEZROTdiRHpMekwyMnJuRmdUYmNiVGQyZUx6Wm1QeGZXNmtoU3l6VVc3WVljY2pvZ0puNUxXaUlINUQxd3c0eWtaenVPMmdTeU9QcUJWcGdUWXRwOHlta2FPNzgzZjF6ZFEwRGV0UQ?oc=5)
+
+---
+
 ### [La créatine, un complément alimentaire bon pour les muscles… et pour le cerveau - National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
 
 2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
@@ -67,14 +75,6 @@ permalink: /news/agomelatine/
 2026-07-11 <span class="news-indication-tag">depression</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1N6N2NsbUZEZnlGdmlWcERQeUZ2THZ2R2NoRDZheGRkdVpEZmtNVjU4OE9iZ1hodmU2aTU4NWd0b0hIS2h5YWJ2eDFiVlNKM3BzSXhpU2dCNTdrOGFvcEtoUlBUVXVhU2FFd0JiMjUtNHFrUkZiQm41elN3WUhqU0hRQU5naDRNUXlUV053SEFrTW5FZWR1MFM5YVN4SWRlaVZoRVhhWnAyaGYwTUpVZmFOaVpsQQ?oc=5)
-
----
-
-### [Suplementación con creatina para la salud cerebral: ¿cuándo considerarla?](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZENDd3hxNkRoMHZwa2hQZTh2VElpMkdnX1dMak12cHBjazZQQ1NPb2FqSjV0RzVsZG9kT0wyTTBabkpXbzBBS191ZzlOZXpNMGREQXdHRXZqLXZRLUpNeUpfdzk1LVd1M0FKRWNBazNRQ2FwNVdpZVRWS0l6ZGNGalNuUHFJc29ZQURHeHlpeVNPTk1ZYTFUajJ4dDVQbTNJcllBV0dPOVVzN1F4YVE?oc=5)
-
-2026-07-10 <span class="news-indication-tag">depresión</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNZENDd3hxNkRoMHZwa2hQZTh2VElpMkdnX1dMak12cHBjazZQQ1NPb2FqSjV0RzVsZG9kT0wyTTBabkpXbzBBS191ZzlOZXpNMGREQXdHRXZqLXZRLUpNeUpfdzk1LVd1M0FKRWNBazNRQ2FwNVdpZVRWS0l6ZGNGalNuUHFJc29ZQURHeHlpeVNPTk1ZYTFUajJ4dDVQbTNJcllBV0dPOVVzN1F4YVE?oc=5)
 
 ---
 

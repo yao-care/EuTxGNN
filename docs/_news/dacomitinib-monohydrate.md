@@ -62,11 +62,11 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Chronische Schmerzen: Pfefferminzöl senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
+### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
 
-2026-07-11 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-11 <span class="news-indication-tag">arthritis</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
 
 ---
 
