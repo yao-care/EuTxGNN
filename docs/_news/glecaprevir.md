@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [El Govern amplía la ayuda a RD Congo ante el brote de ébola y cólera - El Periódico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXdqT2J4Qm5ka3BRcnJpS2VhdElJbnJaQkVXQWxva3lMdDVlTEd2T2JsVGxwNnk0RGt5eUI3c3I1X0RsczNpTjY5VVl6R1FtdzlHY1ZneVlrQmtXdkI2bGo1Tk92M1M3cC1Scm1Pc0hTNXo1NGlhenJMWm5OR1BKQko4QWx3aHZPakZZZm42cXlXczFxQ1k2M1BjZjNuM1ZfRmJOcEtpMHRXZw?oc=5)
+
+2026-07-12 <span class="news-indication-tag">MS</span>
+
+來源：[El Periódico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXdqT2J4Qm5ka3BRcnJpS2VhdElJbnJaQkVXQWxva3lMdDVlTEd2T2JsVGxwNnk0RGt5eUI3c3I1X0RsczNpTjY5VVl6R1FtdzlHY1ZneVlrQmtXdkI2bGo1Tk92M1M3cC1Scm1Pc0hTNXo1NGlhenJMWm5OR1BKQko4QWx3aHZPakZZZm42cXlXczFxQ1k2M1BjZjNuM1ZfRmJOcEtpMHRXZw?oc=5)
+
+---
+
+### [Los 10 mejores sérums con niacinamida, el activo transversal apto para todas las pieles - Revista CLARA](https://news.google.com/rss/articles/CBMibkFVX3lxTE95bE5oeUJ0aUp3b3JXUnlNSWFSUjc1LWdLY05fNzBMcHdLa3BDNlpQYkVFcnVCS0lsd3VNM3VqQ1V5VUVMdThqSFdDaWJFWGlGdU4ydG1WM2VGVHphY0R0ZG9kU0pfbnozU3hsTGxR?oc=5)
+
+2026-07-12 <span class="news-indication-tag">MS</span>
+
+來源：[Revista CLARA](https://news.google.com/rss/articles/CBMibkFVX3lxTE95bE5oeUJ0aUp3b3JXUnlNSWFSUjc1LWdLY05fNzBMcHdLa3BDNlpQYkVFcnVCS0lsd3VNM3VqQ1V5VUVMdThqSFdDaWJFWGlGdU4ydG1WM2VGVHphY0R0ZG9kU0pfbnozU3hsTGxR?oc=5)
+
+---
+
+### [‘I have an inoperable brain tumour after having the contraceptive jab’ - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
+
+---
 
 ### [El cáncer afectará de alguna forma a más del 90 % de la población mundial](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Directores generales de CDC de África y OMS visitarán epicentro de ébola en RDC para acelerar respuesta - DIARIO DEL PUEBLO (China)](https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdXU1Zl9CMm5TcXB3SThuNE5TRmlzWDdWS29DTEFrWWNuSkdPNE9jNG9JRURtZUpac1VDZU5vMHlFNnF1N1JkU2JheWJVX2ZvbXpZRXVzdTM0cTFha2RYZDBQQmpBSXJqcTBzT1d0eFVEXzlBN3c?oc=5)
+### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
-2026-07-12 <span class="news-indication-tag">MS</span>
+2026-07-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[DIARIO DEL PUEBLO (China)](https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdXU1Zl9CMm5TcXB3SThuNE5TRmlzWDdWS29DTEFrWWNuSkdPNE9jNG9JRURtZUpac1VDZU5vMHlFNnF1N1JkU2JheWJVX2ZvbXpZRXVzdTM0cTFha2RYZDBQQmpBSXJqcTBzT1d0eFVEXzlBN3c?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
 ---
 
@@ -118,35 +142,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### ["No woman should be given depo jag without risk warning" Victims left mutilated hit out - Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
+### [Cyclosporiasis outbreak: Symptoms to watch for as ‘explosive diarrhea’ cases climb in US - The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
 
-2026-07-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
-
----
-
-### [Your guide to blasting moobs & 'wagyu beef back'… 7-steps to tone up - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHFJeVJ5RkpqY0p2NkFNS0tQSmM3ckFCVDNvS3JZVFo1SzVGOVdXTE5IMHdfVGhfRFpFOHBHcmpBTHNpQkVlQXdiNFpwTkF2dnhWOUxhTmo4RVNOXzdJLUU0SmNpTWxkbmZMcjF1ZUduc2piblBVUWx3M2JXcjZ0TEVSYw?oc=5)
-
-2026-07-10 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHFJeVJ5RkpqY0p2NkFNS0tQSmM3ckFCVDNvS3JZVFo1SzVGOVdXTE5IMHdfVGhfRFpFOHBHcmpBTHNpQkVlQXdiNFpwTkF2dnhWOUxhTmo4RVNOXzdJLUU0SmNpTWxkbmZMcjF1ZUduc2piblBVUWx3M2JXcjZ0TEVSYw?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
 
 ---
 
-### [Sanidad habilita un nuevo punto de cribado del proyecto Screening Point en el centro de salud de Los Gladiolos - Gobierno de Canarias](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcG1TZHNUeC0yWUR5MkV0dWtWTVA2bHlWMUxGZ2hmWU01WWMteGdiRXdGdEROQVh5NlJnQzZmTHhhNDRXcS0yU1pHbE1aTmJIaExGUHJpd05KcGlXS1R4dDJQZG1faHZCS3VWWTdwZWRvRFY0ek40emVBbElfOUstcFFuXzdpUndMeTdtV01OdU1Ub3NyUmx5WFV0UURacVpJZ1hTeC1yc1AtTmFLN1hDVmhMQzBZTWRNRndrc2R5MFFCNEswM3dQR3JPTDRGZUt3eTFmcWdscGlqZk4tTUdNYkpSYVNfcmNLWmkxbw?oc=5)
+### [ITV star issues cancer update in new hospital video - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
-2026-07-10 <span class="news-indication-tag">hepatitis</span>
+2026-07-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Gobierno de Canarias](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcG1TZHNUeC0yWUR5MkV0dWtWTVA2bHlWMUxGZ2hmWU01WWMteGdiRXdGdEROQVh5NlJnQzZmTHhhNDRXcS0yU1pHbE1aTmJIaExGUHJpd05KcGlXS1R4dDJQZG1faHZCS3VWWTdwZWRvRFY0ek40emVBbElfOUstcFFuXzdpUndMeTdtV01OdU1Ub3NyUmx5WFV0UURacVpJZ1hTeC1yc1AtTmFLN1hDVmhMQzBZTWRNRndrc2R5MFFCNEswM3dQR3JPTDRGZUt3eTFmcWdscGlqZk4tTUdNYkpSYVNfcmNLWmkxbw?oc=5)
-
----
-
-### [Cancro, l'Oms avverte: casi mondiali potrebbero aumentare del 70% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
 ---
 

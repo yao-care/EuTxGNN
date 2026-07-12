@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Médicaments de l'obésité : troubles digestifs, carences nutritionnelles... le point sur les effets secondaires - La Provence](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQclJOUURxTHZXdFlNbGpFMHE4TXVHd1BrYVpfNzZxclRqSGE5UUR5bHhveXd2VGF2XzRUUzN4enZTMTlZeTlndWJOWkhubGZhWFNMSTJkel9qajM2MXFvdTZzQ0szNzF1alg0TWhmcUcxS2dUVmxfaHEtLTg4ZThmQ0xaR1FqTFVOa3FfdEVudGdBME9TTU9IaUZZV1VPSUtiRkRVNHV5UlNnQXY0SUVBSnZmSXRyQmJtLUlvYnVoMUZ2VVFfbWpoZllCcnBrZW1xWXh2M2xZMWRSUnJuenBZMU9vaXE4QnoyM0FaOGJZZGdWQklC?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/melatonin/
 2026-07-10 <span class="news-indication-tag">obesidad</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3lFQ2h0aTMtYzlWTk9CQXpDemdYcnE2azNObWhERzFHQXNMY3ZRMGstMThlTlN2R01YUlRsTDEtVGYyOVBmOUY4ZEtzMDlWMWVIRUphS2dqSURyeWZOWGwwS0xDR2dJNG9JZmg3NmNldEMtM0xUbFl4eGlPZXFCd1B6dy1HbUh0N1BxV0NSVmx3UXVLVUtuNDV1ZmtUUVkzVldjR082MkRsTWNBa0FtQ0piY3hPTUp5ZlRkY2h0S0NnOEhNUGlkTVVzS1dSbjJiWkRQMjRrZXhKbEk3UFR3VnhUaDNtTElvUnc?oc=5)
-
----
-
-### [¿La obesidad se hereda? Un estudio apunta a la herencia genética como principal responsable - Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEktaHY3eG1qeVZYY3JCajZBeTB5QUpFZk5VOVNWbGtyUy10RzJtNU1haGpfcWFwMEUzOVlydklEQmxzQTR2TjVFSlVpeWswRHA3V3BJbk9Hb09jZFpXeFZsTHdKM2xBWS1TbWRjSmVmNlJmME1PZlFndVZ0SjFEdktBNVAzRVVSRjRmMlZxLXBfVjlGRGsyVkptMW1WUTM5TGRJ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEktaHY3eG1qeVZYY3JCajZBeTB5QUpFZk5VOVNWbGtyUy10RzJtNU1haGpfcWFwMEUzOVlydklEQmxzQTR2TjVFSlVpeWswRHA3V3BJbk9Hb09jZFpXeFZsTHdKM2xBWS1TbWRjSmVmNlJmME1PZlFndVZ0SjFEdktBNVAzRVVSRjRmMlZxLXBfVjlGRGsyVkptMW1WUTM5TGRJ?oc=5)
 
 ---
 

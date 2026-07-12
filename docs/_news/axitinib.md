@@ -14,7 +14,7 @@ permalink: /news/axitinib/
 ---
 
 <p class="key-answer" data-question="Axitinib 有什麼相關新聞？">
-<strong>Axitinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Axitinib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,77 @@ permalink: /news/axitinib/
 <p><a href="{{ '/drugs/axitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [Hoffnung bei tödlichen Hirntumoren: Impfstrategie gegen IDH1-Mutation zeigt ermutigende Langzeitergebnisse - Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHlvNDBYV1piUTFwakFocjBSNzNBMG9CV3doNFpONXZHS2tsdXRrcVpaTkMtdHZIXzJyU1F5QXB6WjJGQXJ5Zkl3bHZnc05nVVhhcFkzclJXXzdTMmxpbG5WMlhfVWNNd3Z3c2NXdXExOTdOZ01VZ1BaTXhLNXNxNUdiaU5vN1pJTnEtQ0ZPcUZ1TUZNMkNuTkw2X0J6akdScTJpcVpEM0k0dnRGODVkT2U2dmlrLXhwdzR6X3hkWHVkeGxMV3c1eEhUaHJ0bWwydWR5WFFqdnFkUVBHNVE?oc=5)
+### [Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
+
+---
+
+### [‘I have an inoperable brain tumour after having the contraceptive jab’ - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
+
+---
+
+### [La créatine, un complément alimentaire bon pour les muscles… et pour le cerveau - National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
+
+---
+
+### [I competed with friends for the best tan as teens… now I’m 30 with incurable cancer that’s spread to my brain - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMV9ndTI1cDFDZEhxUVdGWGxzYWJmTjQ1RjcwY0Y3NlV2Tjc3WlNPSW1RQjV0NFRLam9ob2NVS2V5MUhjakhkemowNHpnVmJzNF9OUGJQbUJHS3hCZmJQak9RcWNDbUswZlpqMzBJTDdZS3ZzQno4b09ETnBwRUJualliNklWVlpfeGln?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMV9ndTI1cDFDZEhxUVdGWGxzYWJmTjQ1RjcwY0Y3NlV2Tjc3WlNPSW1RQjV0NFRLam9ob2NVS2V5MUhjakhkemowNHpnVmJzNF9OUGJQbUJHS3hCZmJQak9RcWNDbUswZlpqMzBJTDdZS3ZzQno4b09ETnBwRUJualliNklWVlpfeGln?oc=5)
+
+---
+
+### [Schoolgirl's response to being told about dad's terminal cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45UHVmN09oQTd1bHl2T1gtNmM1NExtNUdkQkR0NUZZUVR3cjh5N2taZGFSV1d2ZFYtWGQ3N1A2RXE1amUtdnprSVc1alZrckJtQldDUHlELVdkWGo3?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45UHVmN09oQTd1bHl2T1gtNmM1NExtNUdkQkR0NUZZUVR3cjh5N2taZGFSV1d2ZFYtWGQ3N1A2RXE1amUtdnprSVc1alZrckJtQldDUHlELVdkWGo3?oc=5)
+
+---
+
+### [Hoffnung bei tödlichen Hirntumoren: Impfstrategie gegen IDH1-Mutation zeigt ermutigende Langzeitergebnisse - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHM3TmZ0QUp6VThocGdSZHNrZXo0X2d3ZFJsckxqVnFGODF4ck5DZ1ljVnFJOU5ibkV1MWZuWjE1QlNwWHNqQlJwYXhGd0xfNGhTbEh1WTdNSUhJWENoTVFJemtHeTBhUUFsSXRZY0VrQmFSSEJFNUdNM3BxaWt5c0VyUmJ1VFdkTzFPeWlPamo3T1JBS3dGVm9jT3hacjBOSmRJcS1maGY5eTlaZzJoNFFCNW4tWnVGXzlubHV4VTRRSDdRd3FpVC1Eb29nbmt2?oc=5)
 
 2026-07-12 <span class="news-indication-tag">tumor</span>
 
-來源：[Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHlvNDBYV1piUTFwakFocjBSNzNBMG9CV3doNFpONXZHS2tsdXRrcVpaTkMtdHZIXzJyU1F5QXB6WjJGQXJ5Zkl3bHZnc05nVVhhcFkzclJXXzdTMmxpbG5WMlhfVWNNd3Z3c2NXdXExOTdOZ01VZ1BaTXhLNXNxNUdiaU5vN1pJTnEtQ0ZPcUZ1TUZNMkNuTkw2X0J6akdScTJpcVpEM0k0dnRGODVkT2U2dmlrLXhwdzR6X3hkWHVkeGxMV3c1eEhUaHJ0bWwydWR5WFFqdnFkUVBHNVE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHM3TmZ0QUp6VThocGdSZHNrZXo0X2d3ZFJsckxqVnFGODF4ck5DZ1ljVnFJOU5ibkV1MWZuWjE1QlNwWHNqQlJwYXhGd0xfNGhTbEh1WTdNSUhJWENoTVFJemtHeTBhUUFsSXRZY0VrQmFSSEJFNUdNM3BxaWt5c0VyUmJ1VFdkTzFPeWlPamo3T1JBS3dGVm9jT3hacjBOSmRJcS1maGY5eTlaZzJoNFFCNW4tWnVGXzlubHV4VTRRSDdRd3FpVC1Eb29nbmt2?oc=5)
+
+---
+
+### [‘Surviving cancer at 32 changed everything for me. I’m grateful for the support’ - The York Press](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaXFKRTZLRUlwYThPWGRsajFOOGRXaFQ0UEZVQXpfSHRBVnBRbVpkNFlnOU5hUEZNWi1kOUg4MWdKcHJQREJ5YzE2UDVLOWRuUFNvXzdjUTIxTkY0dzZHd3l0clZtVGZUclRDTDVBcWdaVGJtbEVyZjdUVEFnZkZadGtPMUstSjZWY2k4Sg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span>
+
+來源：[The York Press](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaXFKRTZLRUlwYThPWGRsajFOOGRXaFQ0UEZVQXpfSHRBVnBRbVpkNFlnOU5hUEZNWi1kOUg4MWdKcHJQREJ5YzE2UDVLOWRuUFNvXzdjUTIxTkY0dzZHd3l0clZtVGZUclRDTDVBcWdaVGJtbEVyZjdUVEFnZkZadGtPMUstSjZWY2k4Sg?oc=5)
+
+---
+
+### [Tumore del rene: al San Raffaele un modello di IA stima il rischio prima dell’intervento](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
+
+2026-07-11 <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
+
+---
+
+### [La creatina non serve solo ai muscoli: ora interessa anche gli oncologi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">cancro</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
 
 ---
 
@@ -86,25 +150,9 @@ permalink: /news/axitinib/
 
 ---
 
-### ["No woman should be given depo jag without risk warning" Victims left mutilated hit out - Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
-
----
-
-### [Darmkrebs: Welche Vitamine helfen Erkrankten? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGVYTnBweUFVTWRnUkY4OGhKSEN6WWlmdFVfN3puLXh0VHdXNEtkd2VsQkRYMmlPa2E5V2wxWDlBenY5RllMb1VqS2NOeVpZR0xXNk1IQ05wU2FYaS10VVFIUE5lLVJNT2F5UXowaHVzRVczSTRqUEhZUGpodENhWjZGaUFlVURzY2xEZHRqY2hnN2NNNDVUWV9RbEoxRm5NcnhsSUM4OA?oc=5)
-
-2026-07-11 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGVYTnBweUFVTWRnUkY4OGhKSEN6WWlmdFVfN3puLXh0VHdXNEtkd2VsQkRYMmlPa2E5V2wxWDlBenY5RllMb1VqS2NOeVpZR0xXNk1IQ05wU2FYaS10VVFIUE5lLVJNT2F5UXowaHVzRVczSTRqUEhZUGpodENhWjZGaUFlVURzY2xEZHRqY2hnN2NNNDVUWV9RbEoxRm5NcnhsSUM4OA?oc=5)
-
----
-
 ### ['It's time to do a test': Bowel cancer screening for people in their 50s critically low, NHS warns - Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
 
-2026-07-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-11 <span class="news-indication-tag">cancer</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
 
@@ -118,35 +166,11 @@ permalink: /news/axitinib/
 
 ---
 
-### [Analisi del sangue, cosa significano gli asterischi e quando possono indicare un tumore | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV28xcTdnb2FFY0M0UERYN2NXMVJ6VERacWRidTVrQlNrSm1QeTRiQ1dMUjhNOTZWb3MzVzVvcXI4WlVhemJldEpTYi1CbzBDRXlvbU0wQ2JKejVSQUJrSTNiMmllTWZ3Z0J4TkRtMGFpVzJqSmtRLWNPV1BxM0lKZnpWaWJnYjJmZFZXcXBfQzdPUDk2bTBCNVRSZzZ1X29QbnlETjlad1JlSlFWUTF3QnJiWW85WW12ekpYZkFYYVhLR0ZYUmQxR3UwNTR1UUhYRnhyWnpUdw?oc=5)
+### [ITV star issues cancer update in new hospital video - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
-2026-07-10 <span class="news-indication-tag">tumor</span>
+2026-07-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV28xcTdnb2FFY0M0UERYN2NXMVJ6VERacWRidTVrQlNrSm1QeTRiQ1dMUjhNOTZWb3MzVzVvcXI4WlVhemJldEpTYi1CbzBDRXlvbU0wQ2JKejVSQUJrSTNiMmllTWZ3Z0J4TkRtMGFpVzJqSmtRLWNPV1BxM0lKZnpWaWJnYjJmZFZXcXBfQzdPUDk2bTBCNVRSZzZ1X29QbnlETjlad1JlSlFWUTF3QnJiWW85WW12ekpYZkFYYVhLR0ZYUmQxR3UwNTR1UUhYRnhyWnpUdw?oc=5)
-
----
-
-### [Tumore alla prostata: la scoperta per renderlo finalmente visibile - The Wom Healthy](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjRaTmxNai0xenJXeTJsdHFfTGNmdGgwa0ZkSzJMMGU2bHhqVXdZRXE4X1ZjZlp5QTFtWkRxaHBzVmNfS051NFAzdkhRd2xzanExSFZ6VGtPa0dtbnY3WW50V19kTFJSdHA3WnJSUHZ4U0pXODVTZktiX0ZtbDI0b0F4eXFDVXdBX1FqS1lhRExObnI3bnc3MXpDLVZnMWJ1V1F3Wm9ORDdYX2Y5ZXozVFB1bEhQMldVVS1V?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span>
-
-來源：[The Wom Healthy](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjRaTmxNai0xenJXeTJsdHFfTGNmdGgwa0ZkSzJMMGU2bHhqVXdZRXE4X1ZjZlp5QTFtWkRxaHBzVmNfS051NFAzdkhRd2xzanExSFZ6VGtPa0dtbnY3WW50V19kTFJSdHA3WnJSUHZ4U0pXODVTZktiX0ZtbDI0b0F4eXFDVXdBX1FqS1lhRExObnI3bnc3MXpDLVZnMWJ1V1F3Wm9ORDdYX2Y5ZXozVFB1bEhQMldVVS1V?oc=5)
-
----
-
-### [Cancro, l'Oms avverte: casi mondiali potrebbero aumentare del 70% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
-
----
-
-### [Neuer Mundkrebs-Test mit Bürste erkennt Krebs in einer Stunde - smart up news](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVpFa001OVhpUHlzZ0ItQVc3c29zc2JleXlxZk5NOG1JWUg5X3A4ZGdvOU95bVBsZUcwbjJtNVdFQXpPTGFtRWROUFJvWjN5TjYzZDRuNFpZUjgxR0ZRSEtjUUxQNHM4a2Ruckp2VzJQZmxCLTVSaTVuYmw5LWkzX0xFNTdES3dGdnhhWk93WjRUbzlsaElF?oc=5)
-
-2026-07-10 <span class="news-indication-tag">Krebs</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVpFa001OVhpUHlzZ0ItQVc3c29zc2JleXlxZk5NOG1JWUg5X3A4ZGdvOU95bVBsZUcwbjJtNVdFQXpPTGFtRWROUFJvWjN5TjYzZDRuNFpZUjgxR0ZRSEtjUUxQNHM4a2Ruckp2VzJQZmxCLTVSaTVuYmw5LWkzX0xFNTdES3dGdnhhWk93WjRUbzlsaElF?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
 ---
 

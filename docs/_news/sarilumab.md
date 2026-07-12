@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Plusieurs personnes tombent malades après du rafting au Grand Canyon - 20 Minutes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmR3Smo2c1JMb00yaUdKS3hkWTVvaVExeDU4anZieVdGV3NhNE1rYjJkakVQb0NPSzRSQVNjYVVwdDA3Z3JxTnlscEh0cWZnYlRuUUFEUmY5NnFfQmNwOWdUM3FuYkt1VWpaeHN2aC1XSzB1TTh3MFpCbjFoS1B1RGFOZjZ2bnp3SGlFU2oteVV3SVNkeVNpblFncjRrNDdPUlZjSzBYQ2UzU3pXdE1RMEVULUZlWjlNMXZsZTJYS3h3aTMzMy14aUZFSXpfSmVxQzUtUlpDdERpc2xISmZsaGdQTUZuSkR0LXRRLQ?oc=5)
+### [Morbus Crohn: Genvariante erklärt schwere Verläufe nach Jahrzehnten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS15SWM2c0UxLWZ0X3RpUVlKdGFLTXVBRjl4M3liM3A5V0J4NnA0NmVFRTQwbWE5cE1hMlV3T0J3d1JmeDBhdXJNeGI2RHZkN2xYUmRMVk45Q2FZVnFoMzk5c2FfSVU0UUhHMHV4MUtFMWRmVkZvX1Z6cGNCMVdoSFdyUkFKclBUNUV2SzlaNjlKMDRpN2hNZkI3blFiUjZHX2FTSHhYMFVCVkdQal9DOTROU0FMV2Zw?oc=5)
 
-2026-07-10 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+2026-07-12 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmR3Smo2c1JMb00yaUdKS3hkWTVvaVExeDU4anZieVdGV3NhNE1rYjJkakVQb0NPSzRSQVNjYVVwdDA3Z3JxTnlscEh0cWZnYlRuUUFEUmY5NnFfQmNwOWdUM3FuYkt1VWpaeHN2aC1XSzB1TTh3MFpCbjFoS1B1RGFOZjZ2bnp3SGlFU2oteVV3SVNkeVNpblFncjRrNDdPUlZjSzBYQ2UzU3pXdE1RMEVULUZlWjlNMXZsZTJYS3h3aTMzMy14aUZFSXpfSmVxQzUtUlpDdERpc2xISmZsaGdQTUZuSkR0LXRRLQ?oc=5)
-
----
-
-### [BPCO, la nuova Nota 99 semplifica l’accesso alle terapie: più tempestività nelle cure e maggiore ruolo della medicina territoriale - Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">BPCO</span>
-
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS15SWM2c0UxLWZ0X3RpUVlKdGFLTXVBRjl4M3liM3A5V0J4NnA0NmVFRTQwbWE5cE1hMlV3T0J3d1JmeDBhdXJNeGI2RHZkN2xYUmRMVk45Q2FZVnFoMzk5c2FfSVU0UUhHMHV4MUtFMWRmVkZvX1Z6cGNCMVdoSFdyUkFKclBUNUV2SzlaNjlKMDRpN2hNZkI3blFiUjZHX2FTSHhYMFVCVkdQal9DOTROU0FMV2Zw?oc=5)
 
 ---
 

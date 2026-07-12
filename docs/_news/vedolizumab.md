@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko – Diagnose rückt näher - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXdOaEo4MjhRUTJCTjc2Qk5jb1dJeURhSW56bFRDRGl4YTltM0VGazBteXBzRVFrQnJvXzJtZnFsWXZ4bkozaUdIemM3ckpTeUZKb0pZaHl4SjY1aXIzSzZaRzVjdGVTdFNwcDRobE94Z3ltVzU4ekE3cWpYVV8tWkdjWFlYZW93QmwzcTFIMzhNUVJHd0pSTzdDV0g4TFhOS0hHSFk0LWQ5a2tI?oc=5)
-
-2026-07-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXdOaEo4MjhRUTJCTjc2Qk5jb1dJeURhSW56bFRDRGl4YTltM0VGazBteXBzRVFrQnJvXzJtZnFsWXZ4bkozaUdIemM3ckpTeUZKb0pZaHl4SjY1aXIzSzZaRzVjdGVTdFNwcDRobE94Z3ltVzU4ekE3cWpYVV8tWkdjWFlYZW93QmwzcTFIMzhNUVJHd0pSTzdDV0g4TFhOS0hHSFk0LWQ5a2tI?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
 
 2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+---
+
+### [UKL zeigt Expertise im Kampf gegen Mangelernährung - Leipziger Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmlzVlMxX0Y2elZzbWNkbDFPd0pOR3BQbXRxT3hXOENLbG5iQ3RGazh4d1BOaXVUYlFPbUZfR2tIYmhzS19idkpPYXNtTHIydTdXbnNsNWdRekVkSDFVdVR5TWVtUlVxNUNDeE4wUDcxVkFCWi1vamNoc2JLd3YwaFBwa2RiMmQ2NnpLTTl6dDAyTTRDZm9MMVU4OFdmaTUzVk1Bb1dlNA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[Leipziger Zeitung](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmlzVlMxX0Y2elZzbWNkbDFPd0pOR3BQbXRxT3hXOENLbG5iQ3RGazh4d1BOaXVUYlFPbUZfR2tIYmhzS19idkpPYXNtTHIydTdXbnNsNWdRekVkSDFVdVR5TWVtUlVxNUNDeE4wUDcxVkFCWi1vamNoc2JLd3YwaFBwa2RiMmQ2NnpLTTl6dDAyTTRDZm9MMVU4OFdmaTUzVk1Bb1dlNA?oc=5)
 
 ---
 
@@ -78,27 +78,19 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Plusieurs personnes tombent malades après du rafting au Grand Canyon - 20 Minutes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmR3Smo2c1JMb00yaUdKS3hkWTVvaVExeDU4anZieVdGV3NhNE1rYjJkakVQb0NPSzRSQVNjYVVwdDA3Z3JxTnlscEh0cWZnYlRuUUFEUmY5NnFfQmNwOWdUM3FuYkt1VWpaeHN2aC1XSzB1TTh3MFpCbjFoS1B1RGFOZjZ2bnp3SGlFU2oteVV3SVNkeVNpblFncjRrNDdPUlZjSzBYQ2UzU3pXdE1RMEVULUZlWjlNMXZsZTJYS3h3aTMzMy14aUZFSXpfSmVxQzUtUlpDdERpc2xISmZsaGdQTUZuSkR0LXRRLQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmR3Smo2c1JMb00yaUdKS3hkWTVvaVExeDU4anZieVdGV3NhNE1rYjJkakVQb0NPSzRSQVNjYVVwdDA3Z3JxTnlscEh0cWZnYlRuUUFEUmY5NnFfQmNwOWdUM3FuYkt1VWpaeHN2aC1XSzB1TTh3MFpCbjFoS1B1RGFOZjZ2bnp3SGlFU2oteVV3SVNkeVNpblFncjRrNDdPUlZjSzBYQ2UzU3pXdE1RMEVULUZlWjlNMXZsZTJYS3h3aTMzMy14aUZFSXpfSmVxQzUtUlpDdERpc2xISmZsaGdQTUZuSkR0LXRRLQ?oc=5)
-
----
-
-### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+### [Diabetes, reflujo o colon irritable: Cuáles son las frutas más recomendables](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktlcGN6SV80NHVzcEFKWkROUGhJanJ2bm5QRGtmSC15d2hOOXhYZ2dYbEYyOE1OaWxlbk5nYU53V3phM3hRbngwMUlBOUE0Z0Zid0YyQTZOakFya3hoU1Z3djJXNFJVQk43UVdZYVhCa2NfSEZIMjlrbmxVc19kdzJNejlhVzFjZGltZVRYeVNZTjVBSmtnOERxUDlmeGRSUlcxaXdseUtBRmpJSGkyaVVpZmJqNFJnRG10Rk5vc0JUYndaeHhzOHJoLWRRX281Q1g3SktR0gHbAUFVX3lxTE5BUFhpMHhfZWljQWpHbTRXemtNcW55bEhZRG1IM2tjdF9uQVhucEtHQnhFU3hwZW9ibklYc1RQeURyVDhkQmZCSDltVUV4V2dNYjFnZTdfU1M5ZEZqMHJhTF9mdEhPcFlOQlVIMmVBUGY0bDNyZU1RekZLM3FoTHY4WGR5WDhidGhfVTlxZE12d0I3U05aOC1lc3JXM2h2TkdQZEFUSUswQjJRZ0xSYVYxTDBRNk1iVHliUV9SMUtuRTVxaEMzMVRJLVpEeGZ4RWlERkxpczN1WVFQVQ?oc=5)
 
 2026-07-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktlcGN6SV80NHVzcEFKWkROUGhJanJ2bm5QRGtmSC15d2hOOXhYZ2dYbEYyOE1OaWxlbk5nYU53V3phM3hRbngwMUlBOUE0Z0Zid0YyQTZOakFya3hoU1Z3djJXNFJVQk43UVdZYVhCa2NfSEZIMjlrbmxVc19kdzJNejlhVzFjZGltZVRYeVNZTjVBSmtnOERxUDlmeGRSUlcxaXdseUtBRmpJSGkyaVVpZmJqNFJnRG10Rk5vc0JUYndaeHhzOHJoLWRRX281Q1g3SktR0gHbAUFVX3lxTE5BUFhpMHhfZWljQWpHbTRXemtNcW55bEhZRG1IM2tjdF9uQVhucEtHQnhFU3hwZW9ibklYc1RQeURyVDhkQmZCSDltVUV4V2dNYjFnZTdfU1M5ZEZqMHJhTF9mdEhPcFlOQlVIMmVBUGY0bDNyZU1RekZLM3FoTHY4WGR5WDhidGhfVTlxZE12d0I3U05aOC1lc3JXM2h2TkdQZEFUSUswQjJRZ0xSYVYxTDBRNk1iVHliUV9SMUtuRTVxaEMzMVRJLVpEeGZ4RWlERkxpczN1WVFQVQ?oc=5)
 
 ---
 
-### [BPCO, la nuova Nota 99 semplifica l’accesso alle terapie: più tempestività nelle cure e maggiore ruolo della medicina territoriale - Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
+### [La microbiota intestinal permite anticipar el riesgo de diabetes tipo 2 años antes, según un estudio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUtmRUthWlh2YXppa0xibDNFRndpRldGMGx1SjVZX1JnMzB0alc0NGI0cFRvYjJLN3pndUxCeUNYc0tKd2lrczV6dkR1THVsRUhUdFA3VzRpWVFEc2tUTk5veFZCSVhzVG43Z24zZ1h6b0FwOW9za1pRNGU0WWtjRGtlcW9Rdm1wS2t6aWpwUzJZdk0yY2hMSEprRDZNNUZGbXNxMTNxa24yNlBBak9UUldWWldMdnBXMVhwSFZrNGJvMEgwM1hMRU1xOTJWcmZyLUNRZjVjbmLSAfMBQVVfeXFMT29VX25kT25JUXluRU00VHdPakd0dFc1Z3FabE01a1lCUHZ5R2xYSnNBdVRWUnhiZkp4OEVlT1pWSVphMUlYLVZsbFRYTjViRlduUkpZOUhUbjVzQ05iWElEYnd0cEx3VkZBc0o2Tm9OZmF3VGFFbktTVU5yQktadVY0dmlBdWtOVEUwLW9VXy1qYjlhSkw5UVBmZ21INU1IbVdiWndLck9fYk1sUFJkRS0ycGVrRlZpLUZ1aDE3aThYaUstblNZUmYtZ0g2NVMxWDM4WDBfRGdxZmlQOTZLU0xOOEVUOUItMnk5VFBiM3U0RXhF?oc=5)
 
-2026-07-10 <span class="news-indication-tag">BPCO</span>
+2026-07-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMiigJBVV95cUxOdkx0T2Y3QXVqd2FqVmw4VkNZSFpxOHVERmhtRUgxVk1oUERSSE1XSGFKWVZPcjNaR3lfR1dsSHU1RVNXclJrcW1WYlVjZ0FjRHpBVV94NVFDMmRLUkFScFhxbktvd092Yi1HQUtHWWo2RHRVZkNBOUtGU3g3c1F5cmxUSzJaVUk4N1A0RDlsVFNiUTV5Y25Bbkc5c0dGLVR3ME5lXzVRWnVndG41V1FJNkU0TmNNci03WkliZDI4bzNyeFRyaDFyOTlPQnhUelA1R2ZjemxSdVZwMVp5MHZNYjh2RzNwSnFmT0F2Wnh6REtHeE92c2pyUDR4THhRdVByQk1RYUkwNDRvQQ?oc=5)
+來源：[Infobae](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUtmRUthWlh2YXppa0xibDNFRndpRldGMGx1SjVZX1JnMzB0alc0NGI0cFRvYjJLN3pndUxCeUNYc0tKd2lrczV6dkR1THVsRUhUdFA3VzRpWVFEc2tUTk5veFZCSVhzVG43Z24zZ1h6b0FwOW9za1pRNGU0WWtjRGtlcW9Rdm1wS2t6aWpwUzJZdk0yY2hMSEprRDZNNUZGbXNxMTNxa24yNlBBak9UUldWWldMdnBXMVhwSFZrNGJvMEgwM1hMRU1xOTJWcmZyLUNRZjVjbmLSAfMBQVVfeXFMT29VX25kT25JUXluRU00VHdPakd0dFc1Z3FabE01a1lCUHZ5R2xYSnNBdVRWUnhiZkp4OEVlT1pWSVphMUlYLVZsbFRYTjViRlduUkpZOUhUbjVzQ05iWElEYnd0cEx3VkZBc0o2Tm9OZmF3VGFFbktTVU5yQktadVY0dmlBdWtOVEUwLW9VXy1qYjlhSkw5UVBmZ21INU1IbVdiWndLck9fYk1sUFJkRS0ycGVrRlZpLUZ1aDE3aThYaUstblNZUmYtZ0g2NVMxWDM4WDBfRGdxZmlQOTZLU0xOOEVUOUItMnk5VFBiM3U0RXhF?oc=5)
 
 ---
 

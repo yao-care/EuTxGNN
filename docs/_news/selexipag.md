@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="Selexipag 有什麼相關新聞？">
-<strong>Selexipag</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selexipag</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/selexipag/
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+---
 
 ### [Chronische Schmerzen: Pfefferminzöl senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
 

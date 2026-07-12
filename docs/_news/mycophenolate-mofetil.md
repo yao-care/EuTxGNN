@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="Mycophenolate Mofetil 有什麼相關新聞？">
-<strong>Mycophenolate Mofetil</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mycophenolate Mofetil</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,14 +45,70 @@ permalink: /news/mycophenolate-mofetil/
 <li>AIDS（99.2%）</li>
 <li>gout（99.2%）</li>
 <li>skin disease（98.9%）</li>
-<li class="indication-matched">psoriasis（98.8%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.8%）</li>
 <li>obsolete rare hereditary hemochromatosis（98.8%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（25 則）
+
+### [Los sarcomas, el cáncer con mayor necesidad terapéutica, afectan a 2.600 personas cada año en España](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTJvQWhfdWJNNFBHdXh4Qi1aelBxNlNOZU1Fd3RYTGFZeEVaWng1dGRXM202djF6anUzZTZHVklmLWpiTzVpSnY1T043MmxCQThHOGMyWHNEa3FIck9aUjl4VmluV2ZhTlBXclF5aVBFZERhQWJHMEo0SU56cVRSbmFyeVppbjZBeVlYM0dnbkNoQ0RjSURmNmhMWTg3MURYV2VXaFBRcFhydFJGTEhDU28zTnd3QkRNT094RWF2MWhFbWlpLWlPeFpJOWFKV05iZEE?oc=5)
+
+2026-07-12 <span class="news-indication-tag">AF</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTJvQWhfdWJNNFBHdXh4Qi1aelBxNlNOZU1Fd3RYTGFZeEVaWng1dGRXM202djF6anUzZTZHVklmLWpiTzVpSnY1T043MmxCQThHOGMyWHNEa3FIck9aUjl4VmluV2ZhTlBXclF5aVBFZERhQWJHMEo0SU56cVRSbmFyeVppbjZBeVlYM0dnbkNoQ0RjSURmNmhMWTg3MURYV2VXaFBRcFhydFJGTEhDU28zTnd3QkRNT094RWF2MWhFbWlpLWlPeFpJOWFKV05iZEE?oc=5)
+
+---
+
+### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+---
+
+### [El Govern amplía la ayuda a RD Congo ante el brote de ébola y cólera - El Periódico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXdqT2J4Qm5ka3BRcnJpS2VhdElJbnJaQkVXQWxva3lMdDVlTEd2T2JsVGxwNnk0RGt5eUI3c3I1X0RsczNpTjY5VVl6R1FtdzlHY1ZneVlrQmtXdkI2bGo1Tk92M1M3cC1Scm1Pc0hTNXo1NGlhenJMWm5OR1BKQko4QWx3aHZPakZZZm42cXlXczFxQ1k2M1BjZjNuM1ZfRmJOcEtpMHRXZw?oc=5)
+
+2026-07-12 <span class="news-indication-tag">MS</span>
+
+來源：[El Periódico](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXdqT2J4Qm5ka3BRcnJpS2VhdElJbnJaQkVXQWxva3lMdDVlTEd2T2JsVGxwNnk0RGt5eUI3c3I1X0RsczNpTjY5VVl6R1FtdzlHY1ZneVlrQmtXdkI2bGo1Tk92M1M3cC1Scm1Pc0hTNXo1NGlhenJMWm5OR1BKQko4QWx3aHZPakZZZm42cXlXczFxQ1k2M1BjZjNuM1ZfRmJOcEtpMHRXZw?oc=5)
+
+---
+
+### [Los 10 mejores sérums con niacinamida, el activo transversal apto para todas las pieles - Revista CLARA](https://news.google.com/rss/articles/CBMibkFVX3lxTE95bE5oeUJ0aUp3b3JXUnlNSWFSUjc1LWdLY05fNzBMcHdLa3BDNlpQYkVFcnVCS0lsd3VNM3VqQ1V5VUVMdThqSFdDaWJFWGlGdU4ydG1WM2VGVHphY0R0ZG9kU0pfbnozU3hsTGxR?oc=5)
+
+2026-07-12 <span class="news-indication-tag">MS</span>
+
+來源：[Revista CLARA](https://news.google.com/rss/articles/CBMibkFVX3lxTE95bE5oeUJ0aUp3b3JXUnlNSWFSUjc1LWdLY05fNzBMcHdLa3BDNlpQYkVFcnVCS0lsd3VNM3VqQ1V5VUVMdThqSFdDaWJFWGlGdU4ydG1WM2VGVHphY0R0ZG9kU0pfbnozU3hsTGxR?oc=5)
+
+---
+
+### [First patients enrolled in record-breaking Ebola treatment trial in DRC - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNy1kY3d3eUp3ZS1PX2xzR3Y1YktIRm1IZnhnVjRnQjNRSVJsYkV4dmxSb1d5Qjl1YVN5dm9NSVFMeEptbVNhTWxQQXBQMGJUU1NwUmVONFVCLUI4X1hhTWtPMzZwVnN3U2JDUG1SRDVmMml5WU1STzN1OERHRkh2MVVJZE1FMG1tMFZxQ1ozSlB2MzcwWWZFREZ3QzVZZGpFVFE?oc=5)
+
+2026-07-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNy1kY3d3eUp3ZS1PX2xzR3Y1YktIRm1IZnhnVjRnQjNRSVJsYkV4dmxSb1d5Qjl1YVN5dm9NSVFMeEptbVNhTWxQQXBQMGJUU1NwUmVONFVCLUI4X1hhTWtPMzZwVnN3U2JDUG1SRDVmMml5WU1STzN1OERHRkh2MVVJZE1FMG1tMFZxQ1ozSlB2MzcwWWZFREZ3QzVZZGpFVFE?oc=5)
+
+---
+
+### [‘I have an inoperable brain tumour after having the contraceptive jab’ - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjZWNEZKYzAySE1DcmpVNDhOcTV6MlZFZ3YtWFdVQThVSHdGUFd6M0tLdnVpcmZNbGFsUldjTUZQQTZESzI5djRaLTMwZHZZU3cxU3VvQjZZYm1QZnI2cjJtNUNoRThOeEZhVmNkVWR2bWxULWhlbXN0WWZDMkVhV2dIUUdqdlFsQzVaOHFheTlmWWNSVWZFeEdJT1kwNjNCYUhsYmdCUzg?oc=5)
+
+---
+
+### [I competed with friends for the best tan as teens… now I’m 30 with incurable cancer that’s spread to my brain - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMV9ndTI1cDFDZEhxUVdGWGxzYWJmTjQ1RjcwY0Y3NlV2Tjc3WlNPSW1RQjV0NFRLam9ob2NVS2V5MUhjakhkemowNHpnVmJzNF9OUGJQbUJHS3hCZmJQak9RcWNDbUswZlpqMzBJTDdZS3ZzQno4b09ETnBwRUJualliNklWVlpfeGln?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMV9ndTI1cDFDZEhxUVdGWGxzYWJmTjQ1RjcwY0Y3NlV2Tjc3WlNPSW1RQjV0NFRLam9ob2NVS2V5MUhjakhkemowNHpnVmJzNF9OUGJQbUJHS3hCZmJQak9RcWNDbUswZlpqMzBJTDdZS3ZzQno4b09ETnBwRUJualliNklWVlpfeGln?oc=5)
+
+---
 
 ### [El cáncer afectará de alguna forma a más del 90 % de la población mundial](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
 
@@ -62,19 +118,19 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz0gHkAUFVX3lxTE93OXktYjhxMlRTZjNGM04xVTRNaWw3WWZRdUxIRzFoanZpSVNCMXFPUVoyTnpRYXpIQ1NJM2Jadm9PcEs1SGNOOFMzcXRhaURfRGswOFA1R1Eyb1puRkRTNjFoMWlDdzM5NFdwb3ZvaS00YTJmTTNSMzRKNzBqcWFaM1A2ZnI5TFp5QUZMLXU0V01uR29KZ0RLQnp0bzRYZFAxMmt6MDN2emdXVGRLS1duM1FkMXhKWHd5MlFHMy1lQlpudVhETjVJZGZTVkRWcnV6MnFzMWQwb1JWWTNlS3BrNmNOUQ?oc=5)
+### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
-2026-07-12 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-12 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz0gHkAUFVX3lxTE93OXktYjhxMlRTZjNGM04xVTRNaWw3WWZRdUxIRzFoanZpSVNCMXFPUVoyTnpRYXpIQ1NJM2Jadm9PcEs1SGNOOFMzcXRhaURfRGswOFA1R1Eyb1puRkRTNjFoMWlDdzM5NFdwb3ZvaS00YTJmTTNSMzRKNzBqcWFaM1A2ZnI5TFp5QUZMLXU0V01uR29KZ0RLQnp0bzRYZFAxMmt6MDN2emdXVGRLS1duM1FkMXhKWHd5MlFHMy1lQlpudVhETjVJZGZTVkRWcnV6MnFzMWQwb1JWWTNlS3BrNmNOUQ?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
 ---
 
-### [Directores generales de CDC de África y OMS visitarán epicentro de ébola en RDC para acelerar respuesta - DIARIO DEL PUEBLO (China)](https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdXU1Zl9CMm5TcXB3SThuNE5TRmlzWDdWS29DTEFrWWNuSkdPNE9jNG9JRURtZUpac1VDZU5vMHlFNnF1N1JkU2JheWJVX2ZvbXpZRXVzdTM0cTFha2RYZDBQQmpBSXJqcTBzT1d0eFVEXzlBN3c?oc=5)
+### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
 
-2026-07-12 <span class="news-indication-tag">MS</span>
+2026-07-12 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[DIARIO DEL PUEBLO (China)](https://news.google.com/rss/articles/CBMidkFVX3lxTE9LdXU1Zl9CMm5TcXB3SThuNE5TRmlzWDdWS29DTEFrWWNuSkdPNE9jNG9JRURtZUpac1VDZU5vMHlFNnF1N1JkU2JheWJVX2ZvbXpZRXVzdTM0cTFha2RYZDBQQmpBSXJqcTBzT1d0eFVEXzlBN3c?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
 
 ---
 
@@ -83,6 +139,14 @@ permalink: /news/mycophenolate-mofetil/
 2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+---
+
+### [Tumore del rene: al San Raffaele un modello di IA stima il rischio prima dell’intervento](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
+
+2026-07-11 <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
 
 ---
 
@@ -126,14 +190,6 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Caldo estremo e glicemia: perché le ondate di calore aumentano i rischi per diabetici, anziani e pazienti fragili - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
-
----
-
 ### [Urgent medicines warning issued as heatwave temperatures continue to climb - South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkpfU1liMDUxaVZ1cWhGaVFYb3BON3VYZUVRZS1Cb2RJOHhRcWhTd3VsNklPODY0ajZ5VXhMaUc2QzBIVUtPVnlMVEhGMDBQRXdQT1VfT3lnNm9nNWxrM1N6dDJqUDVCaFQyb3MtMjM0U0NZTGVScWdGbXJFR0h4Tjh4SGl3VWZqY0NMWWdadnRvOFByX084NW5hYlBRTlVGWDlwM0NR?oc=5)
 
 2026-07-11 <span class="news-indication-tag">AF</span>
@@ -150,19 +206,11 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### [Jabs plea from bereaved mum of Meningitis B victim](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tY1VMbzQ3RThSazQzd0M4N0U5ZWJqcG11YmZoQ2xaOUxaQUhiSkZ2QjRnemtfdV9VUjlRZjNNX0RqRnpsWG11dkE4LTlYUTg5d29FemtFMk85VEFZ?oc=5)
+### [Caldo estremo e glicemia: perché le ondate di calore aumentano i rischi per diabetici, anziani e pazienti fragili - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
 
-2026-07-11 <span class="news-indication-tag">AF</span>
+2026-07-11 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tY1VMbzQ3RThSazQzd0M4N0U5ZWJqcG11YmZoQ2xaOUxaQUhiSkZ2QjRnemtfdV9VUjlRZjNNX0RqRnpsWG11dkE4LTlYUTg5d29FemtFMk85VEFZ?oc=5)
-
----
-
-### ["No woman should be given depo jag without risk warning" Victims left mutilated hit out - Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMijAFBVV95cUxNejlMOS1jcVhjcEhvZlQtTVRyLWZ0RlJVNDhuVm54WjNmb3lHRHpJS0NnbF83SGUtV2FXd1p5VGFCcXpjTHM1WllUMnJ2TVdacU1iS1FaLUFJN2Z6RXh3VlV3aGhqQ01YeWVvb1dVMjJyRk1xV1BzU281cTVCd3o2WHRwYU5LTTc3SGdJc9IBkgFBVV95cUxQWHVkLW5tRDZBSW5aanMtRHM2WVA2ZG02Z1JUbl9GdEd6d0VTeWFkUTMySm5UclBudWZRbXJPTm1GNUJod2YwLXpXVUc2djc1aVczSlZ2NXljVmVhTUdWT2ZmUGZvQjB3cWV0c05pTnIwM0RDY3FENWYzNVdRYnBZVkJLNjV4aERtX29LemtqOXN5QQ?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
 
 ---
 
@@ -174,75 +222,35 @@ permalink: /news/mycophenolate-mofetil/
 
 ---
 
-### ['It's time to do a test': Bowel cancer screening for people in their 50s critically low, NHS warns - Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
+### [Cyclosporiasis outbreak: Symptoms to watch for as ‘explosive diarrhea’ cases climb in US - The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
 
-2026-07-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxORW5WQ2hTclpLcHZzdkk4dTdQZkRMMHYwTFhDRy1oZ1N3RUxSRWkwcVZRZHdndDFfb3ZIR1ZpXzhyQkRqa0IzOHI0c2kySWkteXVXNmhHTExKTlRPQk45ZzM1cVdxRjZzNUNhb3BVM1RrUjROOGdYNHcwQ1NaMUFqOVA5VFdnb0ZmYmYtUEVfZmRxY3J3X1dhU2gtd3J0eXpiRzk5d2NLcU00Rmw3RHo2MGRBYjF3SllRT2c?oc=5)
 
 ---
 
-### [Diarrhoea outbreak triggered across US by fruit and salad parasite - The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2RHckNxYkN1TmlmOEFVTDFtUHlDN1pQUHFJSGpSWVBWWEpvV1FxbFE1UTJmRl9mbDFZbTlLVzBNMENMU21CSUt0a1VDRTZJN3RfOXhZR2Nodm9BRkRNVnFMSHVQeHM5d0JpbUxMUlQxZ0ppemlxTHdGNnZrSmhtaDNOZWhDdEkxcFQ3bHg3SQ?oc=5)
+### [Legionnaires' outbreak hits New York as officials rush to test water towers](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RV0xvUzZJTFVueEU0cXdfUTlkXzNJcTM1bXliTG1OQVV1WUx2clp6M3VXZkdnNTh2Vi1ValhFengzVnNOUVpmQ0NvallaR3pKZzBwbHRqTzFJS1NS?oc=5)
 
 2026-07-10 <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd2RHckNxYkN1TmlmOEFVTDFtUHlDN1pQUHFJSGpSWVBWWEpvV1FxbFE1UTJmRl9mbDFZbTlLVzBNMENMU21CSUt0a1VDRTZJN3RfOXhZR2Nodm9BRkRNVnFMSHVQeHM5d0JpbUxMUlQxZ0ppemlxTHdGNnZrSmhtaDNOZWhDdEkxcFQ3bHg3SQ?oc=5)
-
----
-
-### [Your guide to blasting moobs & 'wagyu beef back'… 7-steps to tone up - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHFJeVJ5RkpqY0p2NkFNS0tQSmM3ckFCVDNvS3JZVFo1SzVGOVdXTE5IMHdfVGhfRFpFOHBHcmpBTHNpQkVlQXdiNFpwTkF2dnhWOUxhTmo4RVNOXzdJLUU0SmNpTWxkbmZMcjF1ZUduc2piblBVUWx3M2JXcjZ0TEVSYw?oc=5)
-
-2026-07-10 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHFJeVJ5RkpqY0p2NkFNS0tQSmM3ckFCVDNvS3JZVFo1SzVGOVdXTE5IMHdfVGhfRFpFOHBHcmpBTHNpQkVlQXdiNFpwTkF2dnhWOUxhTmo4RVNOXzdJLUU0SmNpTWxkbmZMcjF1ZUduc2piblBVUWx3M2JXcjZ0TEVSYw?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RV0xvUzZJTFVueEU0cXdfUTlkXzNJcTM1bXliTG1OQVV1WUx2clp6M3VXZkdnNTh2Vi1ValhFengzVnNOUVpmQ0NvallaR3pKZzBwbHRqTzFJS1NS?oc=5)
 
 ---
 
 ### [Plusieurs personnes tombent malades après du rafting au Grand Canyon - 20 Minutes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmR3Smo2c1JMb00yaUdKS3hkWTVvaVExeDU4anZieVdGV3NhNE1rYjJkakVQb0NPSzRSQVNjYVVwdDA3Z3JxTnlscEh0cWZnYlRuUUFEUmY5NnFfQmNwOWdUM3FuYkt1VWpaeHN2aC1XSzB1TTh3MFpCbjFoS1B1RGFOZjZ2bnp3SGlFU2oteVV3SVNkeVNpblFncjRrNDdPUlZjSzBYQ2UzU3pXdE1RMEVULUZlWjlNMXZsZTJYS3h3aTMzMy14aUZFSXpfSmVxQzUtUlpDdERpc2xISmZsaGdQTUZuSkR0LXRRLQ?oc=5)
 
-2026-07-10 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+2026-07-10 <span class="news-indication-tag">AF</span>
 
 來源：[20 Minutes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSmR3Smo2c1JMb00yaUdKS3hkWTVvaVExeDU4anZieVdGV3NhNE1rYjJkakVQb0NPSzRSQVNjYVVwdDA3Z3JxTnlscEh0cWZnYlRuUUFEUmY5NnFfQmNwOWdUM3FuYkt1VWpaeHN2aC1XSzB1TTh3MFpCbjFoS1B1RGFOZjZ2bnp3SGlFU2oteVV3SVNkeVNpblFncjRrNDdPUlZjSzBYQ2UzU3pXdE1RMEVULUZlWjlNMXZsZTJYS3h3aTMzMy14aUZFSXpfSmVxQzUtUlpDdERpc2xISmZsaGdQTUZuSkR0LXRRLQ?oc=5)
 
 ---
 
-### [Autism research finds Phelan-McDermid syndrome may affect 1 in 7,300 people: More common than previously thought - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN19haHZROWxJd1Z1Z0pwZ1RfcjNZS25pay1wd2dYNGpFQ0huV19lUEU0RVJna0g0S1pheTR2Z25JcFVWS3E1M0NaVm5xS3NWSndKQWhJUlJISE0zU1BWNFQxWHFsRl8yQ2RXYzIwejhHa3hHcW56bU0xY1E3c0Q3ZXZtY1lFVkVFcFE?oc=5)
+### [ITV star issues cancer update in new hospital video - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
-2026-07-10 <span class="news-indication-tag">AF</span>
+2026-07-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN19haHZROWxJd1Z1Z0pwZ1RfcjNZS25pay1wd2dYNGpFQ0huV19lUEU0RVJna0g0S1pheTR2Z25JcFVWS3E1M0NaVm5xS3NWSndKQWhJUlJISE0zU1BWNFQxWHFsRl8yQ2RXYzIwejhHa3hHcW56bU0xY1E3c0Q3ZXZtY1lFVkVFcFE?oc=5)
-
----
-
-### [UK hospital shuts down ward after outbreak of rare form of disease](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRm4tczFobExpTWItUWdiUmF2V2d4aXVOUUhCQl9RWG44YmRWTXN2VjRtTTJmTlByeFotTTIxR0xSUFRHSXVZQ1dxNGluZVhvSWlTZG0yYTJOSVpwejk4ODg2QzhiQWhwTThyazRORXVNRkNUd0FmX0NabnQ0bmNGdmZEZ3VfNGI5ekFsZFZvZldnT1dW?oc=5)
-
-2026-07-10 <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRm4tczFobExpTWItUWdiUmF2V2d4aXVOUUhCQl9RWG44YmRWTXN2VjRtTTJmTlByeFotTTIxR0xSUFRHSXVZQ1dxNGluZVhvSWlTZG0yYTJOSVpwejk4ODg2QzhiQWhwTThyazRORXVNRkNUd0FmX0NabnQ0bmNGdmZEZ3VfNGI5ekFsZFZvZldnT1dW?oc=5)
-
----
-
-### [Pacientes con psoriasis convierten sus fotografías en un gesto contra el estigma - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
-
-2026-07-10 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUdnM1cyS1pUQ2JRSURVVnktZ19qVFBTMi1oajVRc1FEdzMyZnN3SWRJZ1JuOXU3eTlFeDcxTDBpMFI4Z1VJOGFrdFh4TjRwbzk4MEFFbGl0dENJU3RiZ0Fhcnp6ZUcxTTBLcFlVdXpzY0pLZFBvLTFnelBKbEUwbVFNLUQ4b1Zvc18wa080RzEyd3BxelRsRDJncGxNaF9XSDRFdzhKcHJXZHZDemZ3V29ZWXJwdFNWbUI3X1pJbTRLZ9IBvAFBVV95cUxOcWNDMndua3ptSW1leWVyRzA0OGlSVXNZWGF5NjlhWUdkUnFvSUV2c1Y1RUFzdFpEYnpFa1ViMWdwOGlfdk11LVNQVU5pSWdSZEx5ZGNSTFp5WjRYMkFTSlhwWS1naEpfTHFyUjAwYXVOYVN2X2JWNVlvRTZ2b25zaG5PekdheVNseURNaGZtT2JCTUVBSVJnS3ZqZXZzS0xFd0dVdWJPUEs2NXg1cmFjc2YwM0dTZ0duUEF1UQ?oc=5)
-
----
-
-### [Non basta solo bere acqua! I segreti dell'endocrinologa per superare il caldo estivo - Style Magazine](https://news.google.com/rss/articles/CBMiekFVX3lxTE1DakUwdGFyY19qb3dFVlJXMGRpS2ZNSmF1cFE0UVhjT20wdjktWTdubW5jQ3ZoM0JubXpkUjBLNHAtOU5zVmVMN05sUFBnTXhKZE1XcUVMdURQcmNTalhlQzFpenAzR21tNHNSQ2d5TmxBS2lEc0I5Ni1R?oc=5)
-
-2026-07-10 <span class="news-indication-tag">AF</span>
-
-來源：[Style Magazine](https://news.google.com/rss/articles/CBMiekFVX3lxTE1DakUwdGFyY19qb3dFVlJXMGRpS2ZNSmF1cFE0UVhjT20wdjktWTdubW5jQ3ZoM0JubXpkUjBLNHAtOU5zVmVMN05sUFBnTXhKZE1XcUVMdURQcmNTalhlQzFpenAzR21tNHNSQ2d5TmxBS2lEc0I5Ni1R?oc=5)
-
----
-
-### [Cancro, l'Oms avverte: casi mondiali potrebbero aumentare del 70% - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
-
-2026-07-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmVoUmFUSEt2VGEzUWVBX29UOTBHanp3WUdJcjBMbkg1UVNIX1lob3JRZDdkakV3ZHlfNXdCYUJzR3hFMW1hek9TTWd3ZEljQjhBMm8wcXZlcHJURDMxMEJTZHRmS0xmazY4MkFhR3Q2VWVWNXBNYmd4RGlrVk9KS3oyR2YwLUZBZFM5OA?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1BQWEZUUXVVM3lBSjhXdElvWXBSM0VfQXNVLW5lSXFPZnczZTNCZGI4ZW9Fd09FUi1jN3lXQktWSUxyX25xZHk1VVhLRDdicmZFV1hkUWgxcWRtZ0pRczBUdlFCVFA4cHBTaUd5VjJZQWVQSDZiX1R5dTNmR2RldlRtbkJjMVdFdFpNanFYQ244ei1falpnU08yVUpQSEE?oc=5)
 
 ---
 

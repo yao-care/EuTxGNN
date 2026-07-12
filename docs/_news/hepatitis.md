@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El esperma también envejece: los hombres mayores de 45 años tienen un 31% más de mutaciones genéticas que los menores de 30](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdG04NHlZOTVKbmlJYnpjSGphbHoyUERCTTRuakpOUVJWTVUwc3pRVC1HaDFxaXJIR3o4azdWZ29GLUVRTG50SzQtWm5TUUZraWliVC1QZkw4SjlJSVNyUkVFQUhsR1VKWEpqZ0JfLXpmMGd2Q25KMThlRlViZWZVSjFzT19ESXhQc2RUWUhzbDBUczdhYU9KQTVFU05qVGxtSlh4WU5fOWROZkpQeC1XRHpTUHF4OFZQVkY1ay1XZnQ4WTB5NUs3WlpLWm1pV0HSAdQBQVVfeXFMUE81Q1Z2WWc5ZXNHTWRjNzdWTjFJbmtwQlJWLV9aSkpad1pPUVViVjNFVFRHZkt3N2IycVU2YjdENllEeGY0M3pta2ltZlJramVHX3FDcE5USVhSdHg2UGdlU1V3QXNXZlJ2NnZQN3owZU9LLUtnTG4tSDNFVWQ0cXcwaWFEVC1LMW8weW9kaGk0Snp0dFNxbHhkVnFfY3hQeUpNU0p1aXByc0FtUUs2TmNoX0VYV01YWGVjbTNPS3lxVUI3VlZtak85WFlJN05jZFp4UlI?oc=5)
 
 2026-07-11
 
 來源：[Xataka](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdG04NHlZOTVKbmlJYnpjSGphbHoyUERCTTRuakpOUVJWTVUwc3pRVC1HaDFxaXJIR3o4azdWZ29GLUVRTG50SzQtWm5TUUZraWliVC1QZkw4SjlJSVNyUkVFQUhsR1VKWEpqZ0JfLXpmMGd2Q25KMThlRlViZWZVSjFzT19ESXhQc2RUWUhzbDBUczdhYU9KQTVFU05qVGxtSlh4WU5fOWROZkpQeC1XRHpTUHF4OFZQVkY1ay1XZnQ4WTB5NUs3WlpLWm1pV0HSAdQBQVVfeXFMUE81Q1Z2WWc5ZXNHTWRjNzdWTjFJbmtwQlJWLV9aSkpad1pPUVViVjNFVFRHZkt3N2IycVU2YjdENllEeGY0M3pta2ltZlJramVHX3FDcE5USVhSdHg2UGdlU1V3QXNXZlJ2NnZQN3owZU9LLUtnTG4tSDNFVWQ0cXcwaWFEVC1LMW8weW9kaGk0Snp0dFNxbHhkVnFfY3hQeUpNU0p1aXByc0FtUUs2TmNoX0VYV01YWGVjbTNPS3lxVUI3VlZtak85WFlJN05jZFp4UlI?oc=5)
-
----
-
-### [Sanidad habilita un nuevo punto de cribado del proyecto Screening Point en el centro de salud de Los Gladiolos - Gobierno de Canarias](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcG1TZHNUeC0yWUR5MkV0dWtWTVA2bHlWMUxGZ2hmWU01WWMteGdiRXdGdEROQVh5NlJnQzZmTHhhNDRXcS0yU1pHbE1aTmJIaExGUHJpd05KcGlXS1R4dDJQZG1faHZCS3VWWTdwZWRvRFY0ek40emVBbElfOUstcFFuXzdpUndMeTdtV01OdU1Ub3NyUmx5WFV0UURacVpJZ1hTeC1yc1AtTmFLN1hDVmhMQzBZTWRNRndrc2R5MFFCNEswM3dQR3JPTDRGZUt3eTFmcWdscGlqZk4tTUdNYkpSYVNfcmNLWmkxbw?oc=5)
-
-2026-07-10
-
-來源：[Gobierno de Canarias](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcG1TZHNUeC0yWUR5MkV0dWtWTVA2bHlWMUxGZ2hmWU01WWMteGdiRXdGdEROQVh5NlJnQzZmTHhhNDRXcS0yU1pHbE1aTmJIaExGUHJpd05KcGlXS1R4dDJQZG1faHZCS3VWWTdwZWRvRFY0ek40emVBbElfOUstcFFuXzdpUndMeTdtV01OdU1Ub3NyUmx5WFV0UURacVpJZ1hTeC1yc1AtTmFLN1hDVmhMQzBZTWRNRndrc2R5MFFCNEswM3dQR3JPTDRGZUt3eTFmcWdscGlqZk4tTUdNYkpSYVNfcmNLWmkxbw?oc=5)
 
 ---
 

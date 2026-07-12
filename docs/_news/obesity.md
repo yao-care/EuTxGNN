@@ -3,7 +3,7 @@ layout: default
 title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obésité（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Médicaments de l'obésité : troubles digestifs, carences nutritionnelles... le point sur les effets secondaires - La Provence](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQclJOUURxTHZXdFlNbGpFMHE4TXVHd1BrYVpfNzZxclRqSGE5UUR5bHhveXd2VGF2XzRUUzN4enZTMTlZeTlndWJOWkhubGZhWFNMSTJkel9qajM2MXFvdTZzQ0szNzF1alg0TWhmcUcxS2dUVmxfaHEtLTg4ZThmQ0xaR1FqTFVOa3FfdEVudGdBME9TTU9IaUZZV1VPSUtiRkRVNHV5UlNnQXY0SUVBSnZmSXRyQmJtLUlvYnVoMUZ2VVFfbWpoZllCcnBrZW1xWXh2M2xZMWRSUnJuenBZMU9vaXE4QnoyM0FaOGJZZGdWQklC?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/obesity/
 2026-07-10
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3lFQ2h0aTMtYzlWTk9CQXpDemdYcnE2azNObWhERzFHQXNMY3ZRMGstMThlTlN2R01YUlRsTDEtVGYyOVBmOUY4ZEtzMDlWMWVIRUphS2dqSURyeWZOWGwwS0xDR2dJNG9JZmg3NmNldEMtM0xUbFl4eGlPZXFCd1B6dy1HbUh0N1BxV0NSVmx3UXVLVUtuNDV1ZmtUUVkzVldjR082MkRsTWNBa0FtQ0piY3hPTUp5ZlRkY2h0S0NnOEhNUGlkTVVzS1dSbjJiWkRQMjRrZXhKbEk3UFR3VnhUaDNtTElvUnc?oc=5)
-
----
-
-### [¿La obesidad se hereda? Un estudio apunta a la herencia genética como principal responsable - Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEktaHY3eG1qeVZYY3JCajZBeTB5QUpFZk5VOVNWbGtyUy10RzJtNU1haGpfcWFwMEUzOVlydklEQmxzQTR2TjVFSlVpeWswRHA3V3BJbk9Hb09jZFpXeFZsTHdKM2xBWS1TbWRjSmVmNlJmME1PZlFndVZ0SjFEdktBNVAzRVVSRjRmMlZxLXBfVjlGRGsyVkptMW1WUTM5TGRJ?oc=5)
-
-2026-07-10
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEktaHY3eG1qeVZYY3JCajZBeTB5QUpFZk5VOVNWbGtyUy10RzJtNU1haGpfcWFwMEUzOVlydklEQmxzQTR2TjVFSlVpeWswRHA3V3BJbk9Hb09jZFpXeFZsTHdKM2xBWS1TbWRjSmVmNlJmME1PZlFndVZ0SjFEdktBNVAzRVVSRjRmMlZxLXBfVjlGRGsyVkptMW1WUTM5TGRJ?oc=5)
 
 ---
 

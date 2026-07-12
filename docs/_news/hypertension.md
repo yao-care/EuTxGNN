@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+2026-07-12
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+---
 
 ### [Chronische Schmerzen: Pfefferminzöl senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjVRaFdYZWhqR01DRHNfVlZQSlRBQXRLc1JGemtFdGV5ZzRRZ29CR1h3X0ZvNGdNdjNia0UwQWpfRjZIYTdlY0xSUTBqMkx5bWVlNHA4MVprQ0RPbXUtTHprR05YSFlBdWZrbE5aTUd1cElId0VFU1MwdHdZajdXVExXdkVydmZGUlJDNjVtLWdTWmdrUXNabjgxcDZkYVNXdDd6Z2tKLUhzN0J6ZEU0?oc=5)
 

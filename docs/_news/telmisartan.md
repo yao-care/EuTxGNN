@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz0gHkAUFVX3lxTE93OXktYjhxMlRTZjNGM04xVTRNaWw3WWZRdUxIRzFoanZpSVNCMXFPUVoyTnpRYXpIQ1NJM2Jadm9PcEs1SGNOOFMzcXRhaURfRGswOFA1R1Eyb1puRkRTNjFoMWlDdzM5NFdwb3ZvaS00YTJmTTNSMzRKNzBqcWFaM1A2ZnI5TFp5QUZMLXU0V01uR29KZ0RLQnp0bzRYZFAxMmt6MDN2emdXVGRLS1duM1FkMXhKWHd5MlFHMy1lQlpudVhETjVJZGZTVkRWcnV6MnFzMWQwb1JWWTNlS3BrNmNOUQ?oc=5)
+### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+
+---
+
+### [La vitamina D mejora la recuperación funcional tras un ictus, según un estudio del Hospital de Badajoz](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX09VNWFDYmNqcXI1LU1OQkY4VGxBQS1zc0J5OERqcFVHTVVDbG91YVhMYVNiV2p3WkhrdkwyRHkwdmpZYTFiaFBHaXBjdERFOHNPZ3FwTDBMY1U1cUh5aTA3Vzd3bHlJdU8yeXZENWhSXzhKbnRPS1dXRTJYQm81bTBJV2UtVTNueWk1aTVscWtla3NKZzlGbGtXQ3BXQl81ZEFrd09ZTkd2eXfSAbABQVVfeXFMTmE0S1MwWF9JMTJTT0VpLVRtRWRxOE5QYnE1d3pnMUNidHlfQUN2eUNNdW5KaUtsaWRHN3FfV2VIODlfeHFTbmhHOVI2bUdmVXBNMGpDTy1MYnJnclg0dHFYaTJHUU96aTVSRUd1M3h2QnNlU3JJLU5PNzA4MnJyXzJEWnkwR2tIMGQyMXJpd0lDcTFkWVE1YzMwZ3hoYzQycmQ3dENNTHhHb015Q05oUHc?oc=5)
+
+2026-07-12 <span class="news-indication-tag">ictus</span>
+
+來源：[Tododisca](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX09VNWFDYmNqcXI1LU1OQkY4VGxBQS1zc0J5OERqcFVHTVVDbG91YVhMYVNiV2p3WkhrdkwyRHkwdmpZYTFiaFBHaXBjdERFOHNPZ3FwTDBMY1U1cUh5aTA3Vzd3bHlJdU8yeXZENWhSXzhKbnRPS1dXRTJYQm81bTBJV2UtVTNueWk1aTVscWtla3NKZzlGbGtXQ3BXQl81ZEFrd09ZTkd2eXfSAbABQVVfeXFMTmE0S1MwWF9JMTJTT0VpLVRtRWRxOE5QYnE1d3pnMUNidHlfQUN2eUNNdW5KaUtsaWRHN3FfV2VIODlfeHFTbmhHOVI2bUdmVXBNMGpDTy1MYnJnclg0dHFYaTJHUU96aTVSRUd1M3h2QnNlU3JJLU5PNzA4MnJyXzJEWnkwR2tIMGQyMXJpd0lDcTFkWVE1YzMwZ3hoYzQycmQ3dENNTHhHb015Q05oUHc?oc=5)
+
+---
+
+### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
 
 2026-07-12 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz0gHkAUFVX3lxTE93OXktYjhxMlRTZjNGM04xVTRNaWw3WWZRdUxIRzFoanZpSVNCMXFPUVoyTnpRYXpIQ1NJM2Jadm9PcEs1SGNOOFMzcXRhaURfRGswOFA1R1Eyb1puRkRTNjFoMWlDdzM5NFdwb3ZvaS00YTJmTTNSMzRKNzBqcWFaM1A2ZnI5TFp5QUZMLXU0V01uR29KZ0RLQnp0bzRYZFAxMmt6MDN2emdXVGRLS1duM1FkMXhKWHd5MlFHMy1lQlpudVhETjVJZGZTVkRWcnV6MnFzMWQwb1JWWTNlS3BrNmNOUQ?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
 
 ---
 

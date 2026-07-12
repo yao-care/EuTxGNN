@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz0gHkAUFVX3lxTE93OXktYjhxMlRTZjNGM04xVTRNaWw3WWZRdUxIRzFoanZpSVNCMXFPUVoyTnpRYXpIQ1NJM2Jadm9PcEs1SGNOOFMzcXRhaURfRGswOFA1R1Eyb1puRkRTNjFoMWlDdzM5NFdwb3ZvaS00YTJmTTNSMzRKNzBqcWFaM1A2ZnI5TFp5QUZMLXU0V01uR29KZ0RLQnp0bzRYZFAxMmt6MDN2emdXVGRLS1duM1FkMXhKWHd5MlFHMy1lQlpudVhETjVJZGZTVkRWcnV6MnFzMWQwb1JWWTNlS3BrNmNOUQ?oc=5)
+### [La vitamina D mejora la recuperación funcional tras un ictus, según un estudio del Hospital de Badajoz](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX09VNWFDYmNqcXI1LU1OQkY4VGxBQS1zc0J5OERqcFVHTVVDbG91YVhMYVNiV2p3WkhrdkwyRHkwdmpZYTFiaFBHaXBjdERFOHNPZ3FwTDBMY1U1cUh5aTA3Vzd3bHlJdU8yeXZENWhSXzhKbnRPS1dXRTJYQm81bTBJV2UtVTNueWk1aTVscWtla3NKZzlGbGtXQ3BXQl81ZEFrd09ZTkd2eXfSAbABQVVfeXFMTmE0S1MwWF9JMTJTT0VpLVRtRWRxOE5QYnE1d3pnMUNidHlfQUN2eUNNdW5KaUtsaWRHN3FfV2VIODlfeHFTbmhHOVI2bUdmVXBNMGpDTy1MYnJnclg0dHFYaTJHUU96aTVSRUd1M3h2QnNlU3JJLU5PNzA4MnJyXzJEWnkwR2tIMGQyMXJpd0lDcTFkWVE1YzMwZ3hoYzQycmQ3dENNTHhHb015Q05oUHc?oc=5)
 
 2026-07-12
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz0gHkAUFVX3lxTE93OXktYjhxMlRTZjNGM04xVTRNaWw3WWZRdUxIRzFoanZpSVNCMXFPUVoyTnpRYXpIQ1NJM2Jadm9PcEs1SGNOOFMzcXRhaURfRGswOFA1R1Eyb1puRkRTNjFoMWlDdzM5NFdwb3ZvaS00YTJmTTNSMzRKNzBqcWFaM1A2ZnI5TFp5QUZMLXU0V01uR29KZ0RLQnp0bzRYZFAxMmt6MDN2emdXVGRLS1duM1FkMXhKWHd5MlFHMy1lQlpudVhETjVJZGZTVkRWcnV6MnFzMWQwb1JWWTNlS3BrNmNOUQ?oc=5)
+來源：[Tododisca](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX09VNWFDYmNqcXI1LU1OQkY4VGxBQS1zc0J5OERqcFVHTVVDbG91YVhMYVNiV2p3WkhrdkwyRHkwdmpZYTFiaFBHaXBjdERFOHNPZ3FwTDBMY1U1cUh5aTA3Vzd3bHlJdU8yeXZENWhSXzhKbnRPS1dXRTJYQm81bTBJV2UtVTNueWk1aTVscWtla3NKZzlGbGtXQ3BXQl81ZEFrd09ZTkd2eXfSAbABQVVfeXFMTmE0S1MwWF9JMTJTT0VpLVRtRWRxOE5QYnE1d3pnMUNidHlfQUN2eUNNdW5KaUtsaWRHN3FfV2VIODlfeHFTbmhHOVI2bUdmVXBNMGpDTy1MYnJnclg0dHFYaTJHUU96aTVSRUd1M3h2QnNlU3JJLU5PNzA4MnJyXzJEWnkwR2tIMGQyMXJpd0lDcTFkWVE1YzMwZ3hoYzQycmQ3dENNTHhHb015Q05oUHc?oc=5)
+
+---
+
+### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
+
+2026-07-12
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
 
 ---
 
