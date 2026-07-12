@@ -14,7 +14,7 @@ permalink: /news/mifamurtide/
 ---
 
 <p class="key-answer" data-question="Mifamurtide 有什麼相關新聞？">
-<strong>Mifamurtide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mifamurtide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,39 @@ permalink: /news/mifamurtide/
 <p><a href="{{ '/drugs/mifamurtide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（4 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko – Diagnose rückt näher - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXdOaEo4MjhRUTJCTjc2Qk5jb1dJeURhSW56bFRDRGl4YTltM0VGazBteXBzRVFrQnJvXzJtZnFsWXZ4bkozaUdIemM3ckpTeUZKb0pZaHl4SjY1aXIzSzZaRzVjdGVTdFNwcDRobE94Z3ltVzU4ekE3cWpYVV8tWkdjWFlYZW93QmwzcTFIMzhNUVJHd0pSTzdDV0g4TFhOS0hHSFk0LWQ5a2tI?oc=5)
+
+2026-07-12 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXdOaEo4MjhRUTJCTjc2Qk5jb1dJeURhSW56bFRDRGl4YTltM0VGazBteXBzRVFrQnJvXzJtZnFsWXZ4bkozaUdIemM3ckpTeUZKb0pZaHl4SjY1aXIzSzZaRzVjdGVTdFNwcDRobE94Z3ltVzU4ekE3cWpYVV8tWkdjWFlYZW93QmwzcTFIMzhNUVJHd0pSTzdDV0g4TFhOS0hHSFk0LWQ5a2tI?oc=5)
+
+---
+
+### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
+
+---
+
+### [Caldo estremo e glicemia: perché le ondate di calore aumentano i rischi per diabetici, anziani e pazienti fragili - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
+
+2026-07-11 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXhyMlU0TkRkLWhneEl5R2JWUXVycVZTSlNQVl9NTTJvbTR4ZEd1b0dsVVFsdUFEWEl1U19YVnFKOHVGMWJQOWdHX21tYk93LVpzVzZ5cE1DcnVFRkkyTTBJRkltUFpEWUdGVTc0RTBkVDZlSVgyQlVpN2ZPREZ4dEpENmVnYUhNMkc1R2YzeHBkYjdGMWF0MHhBY0t3Njl4Sk5aQ2RJNE5LZUVKSzAyWkdMT0RGY3hkUzl5XzB4SdIBtAFBVV95cUxPd004dVdmcUJGYVhvV1ZYLTJsSlUxZk5vekhxVE9seXllUFBzVWIxeDVGaGdXbnRWQ3NQNDZHY1JCcmlOZjZEaml4aC1qRXJEOU9hN1YyVzlGcTNwcFMtY0lHVTZ5YkUycFJYNFNXTFgydGZiRkJRZk5DSUMwSDhLVC1HM21OSmQtM1ZGZUlZZEVONXltZ0g5ZXp0NG5VM29CTkhJQ3JqdHJ3c3FDcHlNTTc3eWY?oc=5)
+
+---
+
+### [Gesundheit-News: Warum Diabetes-Betroffene oft mehr Mikronährstoffe brauchen - Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+2026-07-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[Magdeburger News](https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNUI5aEhVQVZCWS04NU5TVTUxNG5xdzZyNEZ2emtHbkJFeVBVdTJvenk3VUVCRC15eTNnMjVyMmJveTkwem93VEF5cnJqZVQtZHBHSEZTY2xRZVczQm9NTFBiSlZEaEItdW5CYjktVW0?oc=5)
+
+---
 
 
 <div class="disclaimer">

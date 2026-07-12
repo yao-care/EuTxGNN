@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Stress und Darm: 95% des Serotonins wird im Bauch produziert](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1N6N2NsbUZEZnlGdmlWcERQeUZ2THZ2R2NoRDZheGRkdVpEZmtNVjU4OE9iZ1hodmU2aTU4NWd0b0hIS2h5YWJ2eDFiVlNKM3BzSXhpU2dCNTdrOGFvcEtoUlBUVXVhU2FFd0JiMjUtNHFrUkZiQm41elN3WUhqU0hRQU5naDRNUXlUV053SEFrTW5FZWR1MFM5YVN4SWRlaVZoRVhhWnAyaGYwTUpVZmFOaVpsQQ?oc=5)
+
+2026-07-11 <span class="news-indication-tag">depression</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1N6N2NsbUZEZnlGdmlWcERQeUZ2THZ2R2NoRDZheGRkdVpEZmtNVjU4OE9iZ1hodmU2aTU4NWd0b0hIS2h5YWJ2eDFiVlNKM3BzSXhpU2dCNTdrOGFvcEtoUlBUVXVhU2FFd0JiMjUtNHFrUkZiQm41elN3WUhqU0hRQU5naDRNUXlUV053SEFrTW5FZWR1MFM5YVN4SWRlaVZoRVhhWnAyaGYwTUpVZmFOaVpsQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
