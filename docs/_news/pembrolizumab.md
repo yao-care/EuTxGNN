@@ -54,11 +54,27 @@ permalink: /news/pembrolizumab/
 
 ## 相關新聞（20 則）
 
-### [Salamanca, epicentro de la prevención del cáncer: casi 16.000 mamografías y análisis genéticos para toda la Comunidad - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXpTNmNJR1JBcjBuaDIxb09XRjJRbEdpcm0xZmhLaG9DSnRjc3U5S3BHLU5nUksxU05NbGNNd18zR3hralJ6MV9nT29nTFhGVkhmUHQ1emM2WHJQUEtoTEpmZjlvYjR0dzhpVHRDZUlsSEoyVTV5QU13TGNIV2JEZGpFUHY5T3R6bGEwVHR2YUdDa0haMVR2UHNSWXM3NjhHdkVyd2p3bW8tUHVoQVRlaUFBR2hDd0trdHUwTU5GTUJmbXc4VGs2YjZ5MXlBSVNhcUk4cWowV1MwVWtmYlJKZFFXem9ZSndMOFVRU1ZlSWp5SnNsUTd3?oc=5)
+### [Darmkrebs: Joghurt und Kimchi halbieren Erkrankungsrisiko](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU01lNHBwWUhDU2pFbWt2ampoZDZFNF9JMG9yWW1ibUJfb0kzTWVWZURsd1BuamxUNUYtNFBtdjhGa1MxYko3Q3RXR0ZYWGNSWktfNnZUX3FIaElQd3FDU1RSSFY0TkRPSTY4ZVZEXzBHcDRiMk5PSEx4czNMZEZJQWhIU0JPbHhfR0V2cGthTHRUamxyQkdIOGRFMHI3OUNtRktaS0hMeFg?oc=5)
 
-2026-07-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-07-12 <span class="news-indication-tag">Krebs</span>
 
-來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXpTNmNJR1JBcjBuaDIxb09XRjJRbEdpcm0xZmhLaG9DSnRjc3U5S3BHLU5nUksxU05NbGNNd18zR3hralJ6MV9nT29nTFhGVkhmUHQ1emM2WHJQUEtoTEpmZjlvYjR0dzhpVHRDZUlsSEoyVTV5QU13TGNIV2JEZGpFUHY5T3R6bGEwVHR2YUdDa0haMVR2UHNSWXM3NjhHdkVyd2p3bW8tUHVoQVRlaUFBR2hDd0trdHUwTU5GTUJmbXc4VGs2YjZ5MXlBSVNhcUk4cWowV1MwVWtmYlJKZFFXem9ZSndMOFVRU1ZlSWp5SnNsUTd3?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU01lNHBwWUhDU2pFbWt2ampoZDZFNF9JMG9yWW1ibUJfb0kzTWVWZURsd1BuamxUNUYtNFBtdjhGa1MxYko3Q3RXR0ZYWGNSWktfNnZUX3FIaElQd3FDU1RSSFY0TkRPSTY4ZVZEXzBHcDRiMk5PSEx4czNMZEZJQWhIU0JPbHhfR0V2cGthTHRUamxyQkdIOGRFMHI3OUNtRktaS0hMeFg?oc=5)
+
+---
+
+### [Brustkrebs: Diese Nahrungsmittel senken das Erkrankungsrisiko](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3RJV1BuZWxnUGdZZU5JR1FJXzcxa3dMNjZvLVVRWGZGYjYybmRrcE9hbXppU0pBM0k4UkNOWTJoZjBxNF83OUpLZDgydVU3Qk5vb3A3TTQwTnY1LW1EMHZsalV4czFZYXZRMG5LWWRCMHpJMW9rVnNwVDhwNkMwdW4wOHJJVVZDejgtdFpoMVdhTGtoeU1SNzFvYUIxZ3ZBVUR6YmtoOUFBOGZ0Sk1QZWYzMWd1bkV0d0U0dDBn?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3RJV1BuZWxnUGdZZU5JR1FJXzcxa3dMNjZvLVVRWGZGYjYybmRrcE9hbXppU0pBM0k4UkNOWTJoZjBxNF83OUpLZDgydVU3Qk5vb3A3TTQwTnY1LW1EMHZsalV4czFZYXZRMG5LWWRCMHpJMW9rVnNwVDhwNkMwdW4wOHJJVVZDejgtdFpoMVdhTGtoeU1SNzFvYUIxZ3ZBVUR6YmtoOUFBOGZ0Sk1QZWYzMWd1bkV0d0U0dDBn?oc=5)
+
+---
+
+### [What four oncologists do daily to avoid cancer - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0kwWlRzanhxQktOQ25LRC1kaFFpSEd6Qm9FZUNqOHhNdFlyaTk4MUllM0VvT1JlVEtrMDNramloaFNWUHNjUzhxTG5Oc2d3NG8yYjJ6VzRmekY4a0loUjByMWlHaGZINmxRbFpBOXZtc0JISTBxeG02VzlTbkQ2dWRaclVOR0VFVFRWR01iWE00ZjFxZk5nRU9fMWVZYWlDaVBBd1pn?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0kwWlRzanhxQktOQ25LRC1kaFFpSEd6Qm9FZUNqOHhNdFlyaTk4MUllM0VvT1JlVEtrMDNramloaFNWUHNjUzhxTG5Oc2d3NG8yYjJ6VzRmekY4a0loUjByMWlHaGZINmxRbFpBOXZtc0JISTBxeG02VzlTbkQ2dWRaclVOR0VFVFRWR01iWE00ZjFxZk5nRU9fMWVZYWlDaVBBd1pn?oc=5)
 
 ---
 
@@ -67,6 +83,30 @@ permalink: /news/pembrolizumab/
 2026-07-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pjMk82cVdza2JISzRKMXR0Ump0dkpFckNIbWJuZFdsVkV1bzhpYmNsU3ZjcU9Yczk3TnR3RjI2UlNBMGNLel9nVTRCS2owd2NUOFp0SHNoVDBhQ2U1NzYza2RKZXItRWVxeElQV2RMako3Q3REVzhoRHVnemttVlhjUzBncFI1UlFBMHc5dy1FQmFjSFhiYy1SWGRaSWVJRjAyZzFUUUxBbzlrQUl1TjdlZmVGNzdvX29z?oc=5)
+
+---
+
+### [Granddaughter’s video diary captures unfiltered reality of dementia - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJOdXpjYkhkMHJmM09IeEhLWUJqbTRxR09WYXlzX2p1UzVwUjJpOUZwU0pTeFJObEc5Yi1Wck5CcmlpLXI1dERja1pQV0pDWG0zTjVqQktrM2NhcXc5R29rYkktUzRyODZfbnlxX0FncEl4dTk5RzlITEx0YV9Yc3ZIbm93VmRDcWUyVzVVUHp2ZEl4?oc=5)
+
+2026-07-12 <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJOdXpjYkhkMHJmM09IeEhLWUJqbTRxR09WYXlzX2p1UzVwUjJpOUZwU0pTeFJObEc5Yi1Wck5CcmlpLXI1dERja1pQV0pDWG0zTjVqQktrM2NhcXc5R29rYkktUzRyODZfbnlxX0FncEl4dTk5RzlITEx0YV9Yc3ZIbm93VmRDcWUyVzVVUHp2ZEl4?oc=5)
+
+---
+
+### [Meningioma, l'ombra del tumore su due contraccettivi comuni: l'EMA lancia l'allarme - il Giornale](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWw3b3I4d0wwTjJLU2dSUlhGbS1LWmxRbXB5MW5CVmJJa1g2RW5WNzlDQWRNdUx3YkNjT0Y1UHJPcXFaRTM2RVZsRjJmU3AxMlhUc2hWeG91Rl9ZVU1WTFJtcldYMW9BdThBTllLZUFSWVNyQ1hoSzFaUXd4dld6Q2xIeWZ3TUh2eklCeGdBWGhYUUlPTFlicWhJUzZrOUlGUGhvWlk5bWNTRmZUUUdfUks2WGhtN2Rid3FGZg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWw3b3I4d0wwTjJLU2dSUlhGbS1LWmxRbXB5MW5CVmJJa1g2RW5WNzlDQWRNdUx3YkNjT0Y1UHJPcXFaRTM2RVZsRjJmU3AxMlhUc2hWeG91Rl9ZVU1WTFJtcldYMW9BdThBTllLZUFSWVNyQ1hoSzFaUXd4dld6Q2xIeWZ3TUh2eklCeGdBWGhYUUlPTFlicWhJUzZrOUlGUGhvWlk5bWNTRmZUUUdfUks2WGhtN2Rid3FGZg?oc=5)
+
+---
+
+### [Tumore del pancreas e del colon: nuove terapie che cambiano le prospettive di cura](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3Q4MWNWanM4QlA4Y1Z0UlF3SEJpdzRmR1N6bmdnb0ZEazdwMG9idHpqSllJMnM1LW1VLXVJbXFoS2FybkpxMGQtNHRpU2d1NnZzMGh0bzNrcnM0WEV0b20zMUtRSlFLOXN0WlRGblh6QW9ucHd1dXRCZ1lZQmJ4ZVBjOWoxTFNpVnBFcm55cGJ3UEtBMVRFa1VOVWFyTXk1TWo5djVZTVNmeUZDb2ZZeV9FWlVDN09EWmFmUEs0alE4TFd5SWVlcTRpX2U?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3Q4MWNWanM4QlA4Y1Z0UlF3SEJpdzRmR1N6bmdnb0ZEazdwMG9idHpqSllJMnM1LW1VLXVJbXFoS2FybkpxMGQtNHRpU2d1NnZzMGh0bzNrcnM0WEV0b20zMUtRSlFLOXN0WlRGblh6QW9ucHd1dXRCZ1lZQmJ4ZVBjOWoxTFNpVnBFcm55cGJ3UEtBMVRFa1VOVWFyTXk1TWo5djVZTVNmeUZDb2ZZeV9FWlVDN09EWmFmUEs0alE4TFd5SWVlcTRpX2U?oc=5)
 
 ---
 
@@ -86,14 +126,6 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Tumore al pancreas, la pillola che frena il motore della malattia](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnI0bmUwZVZZb3VWWFA3emJ4UndwWndsd0tBMnhLcVIzNFh6cjJzeVBYWHVoYl9rZjRiYWVJSFllcjJZUnR2emFWbF9MdHBGcG5NaURreHc2NnBJaXRTSHJBcWlmVHIwZFFnUmRja21HWXRnV05hMHh6S1N3Mi12ODNlN3otMk1sM1g4aDJRaHp4MG56OElCUURuUnBhOWQ3SXhYQmRmcjdJdHBKSzNwSVZiTEpLQQ?oc=5)
-
-2026-07-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnI0bmUwZVZZb3VWWFA3emJ4UndwWndsd0tBMnhLcVIzNFh6cjJzeVBYWHVoYl9rZjRiYWVJSFllcjJZUnR2emFWbF9MdHBGcG5NaURreHc2NnBJaXRTSHJBcWlmVHIwZFFnUmRja21HWXRnV05hMHh6S1N3Mi12ODNlN3otMk1sM1g4aDJRaHp4MG56OElCUURuUnBhOWQ3SXhYQmRmcjdJdHBKSzNwSVZiTEpLQQ?oc=5)
-
----
-
 ### [Maladie d'Alzheimer : voici les signes dans la façon de parler que les spécialistes recommandent de surveiller - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
 
 2026-07-12 <span class="news-indication-tag">maladie d'Alzheimer</span>
@@ -107,14 +139,6 @@ permalink: /news/pembrolizumab/
 2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMV9ndTI1cDFDZEhxUVdGWGxzYWJmTjQ1RjcwY0Y3NlV2Tjc3WlNPSW1RQjV0NFRLam9ob2NVS2V5MUhjakhkemowNHpnVmJzNF9OUGJQbUJHS3hCZmJQak9RcWNDbUswZlpqMzBJTDdZS3ZzQno4b09ETnBwRUJualliNklWVlpfeGln?oc=5)
-
----
-
-### [Schoolgirl's response to being told about dad's terminal cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45UHVmN09oQTd1bHl2T1gtNmM1NExtNUdkQkR0NUZZUVR3cjh5N2taZGFSV1d2ZFYtWGQ3N1A2RXE1amUtdnprSVc1alZrckJtQldDUHlELVdkWGo3?oc=5)
-
-2026-07-12 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45UHVmN09oQTd1bHl2T1gtNmM1NExtNUdkQkR0NUZZUVR3cjh5N2taZGFSV1d2ZFYtWGQ3N1A2RXE1amUtdnprSVc1alZrckJtQldDUHlELVdkWGo3?oc=5)
 
 ---
 
@@ -142,22 +166,6 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [Joghurt und Probiotika: Bis zu 50% weniger Darmkrebsrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhCVXJTMFNYcFNFMFVrY1BQMDk0U1hINlV3WUdmUkdUXzVyd1U1aFZOSGFiY1dEOC1TY1AzMlB4cmhrdW1IOUJXemw0TTlsOTdUSlV2U3hZdGpDOUVrMUdNalFySXhScG04SFMwcnFPZjFTRFJaZTVhb3V1OTRKLW9POVRkR1VTSnVlSkdaN1BwQjdRRXh6QTVtaDlCbllBQ2tRQldkcDI3ZnVWOXFYQ0hJUQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">Krebs</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhCVXJTMFNYcFNFMFVrY1BQMDk0U1hINlV3WUdmUkdUXzVyd1U1aFZOSGFiY1dEOC1TY1AzMlB4cmhrdW1IOUJXemw0TTlsOTdUSlV2U3hZdGpDOUVrMUdNalFySXhScG04SFMwcnFPZjFTRFJaZTVhb3V1OTRKLW9POVRkR1VTSnVlSkdaN1BwQjdRRXh6QTVtaDlCbllBQ2tRQldkcDI3ZnVWOXFYQ0hJUQ?oc=5)
-
----
-
-### [La creatina non serve solo ai muscoli: ora interessa anche gli oncologi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">cancro</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
-
----
-
 ### [Second prostate-specific membrane antigen PET scan can change treatment for nearly half of prostate cancer patients - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3FOWFVmM0hwQURVeDk3VjdWZ2EtMDdyd08xd0ZBVEJHbUpVcllNYXpHM0pEbEktOFY2TENSWnBuM1hNY3RNRG1PUDFyT2lUTHVDTm1FdmhFSjluQjd1M1padjFnZWdsb1lYYUcyM1JiQ0h0RVlkUjVCODhKMDdmS2xNYzRlNjVHWEE?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span>
@@ -182,14 +190,6 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [TikTok star Becki Jones reveals her dad’s heartbreaking cancer diagnosis - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1dRMEo3LVFRQi1CMXpJQk1TUXN6M1RGN08yMVRfSGpnSjI0UWpnOUFqUElJWU5ZRW9LRktLeFgxclRaQlRiNXhOX3pFSFpnYi0tS1NkalVIUWJ3cFE5dnZzYWs2M1dESkkzaGJGd3dGR2liaXVMZm5wV080dVRzSDJrYjdDbWtOcjdUdUZhRzA?oc=5)
-
-2026-07-11 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1dRMEo3LVFRQi1CMXpJQk1TUXN6M1RGN08yMVRfSGpnSjI0UWpnOUFqUElJWU5ZRW9LRktLeFgxclRaQlRiNXhOX3pFSFpnYi0tS1NkalVIUWJ3cFE5dnZzYWs2M1dESkkzaGJGd3dGR2liaXVMZm5wV080dVRzSDJrYjdDbWtOcjdUdUZhRzA?oc=5)
-
----
-
 ### [À 33 ans, il pensait que son mal de dos venait du travail : c’était en réalité un cancer de stade 4 - Yahoo Life France](https://news.google.com/rss/articles/CBMidkFVX3lxTE9KX3BuaENmbGRqaUg0ZGdTMFVUNldsanYxZ095cnpqT0pxdkltcWQtZUJjOVBCMEpxZTRQNFpjZ19qOFFzTm56ekxUdmM1RzhBN2JPNmZaTFREUXlWNWg0b0FvZURWMzcwSjk0YmN6RVhiRjJUSEE?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span>
@@ -206,11 +206,11 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### ['It's time to do a test': Bowel cancer screening for people in their 50s critically low, NHS warns - Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
+### [People in 50s urged to complete bowel cancer screening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
 
 ---
 

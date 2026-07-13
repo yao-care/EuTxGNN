@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [¿El ibuprofeno puede prevenir la diabetes? Esto dice la ciencia - El Diario NY](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWRFaUFlNVJxUWJPa09hSVlJOEFnTnd5REpNMUFQN0JrWTBSME1SdUFLMHA2Z01TN2FQemRhTzNDTHJ0d0VZaFRyYUc4MWlkbWljT3BkeE9QX0FsMGpsSHBvVDRiNmlybFZXOXFLNkhkY18xTDFzb3ZfZ2ZZVGhFbllPOHVkckp3b3V0YkZkcXdyMjVNbEt2aGtrVk8?oc=5)
+
+2026-07-12 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[El Diario NY](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWRFaUFlNVJxUWJPa09hSVlJOEFnTnd5REpNMUFQN0JrWTBSME1SdUFLMHA2Z01TN2FQemRhTzNDTHJ0d0VZaFRyYUc4MWlkbWljT3BkeE9QX0FsMGpsSHBvVDRiNmlybFZXOXFLNkhkY18xTDFzb3ZfZ2ZZVGhFbllPOHVkckp3b3V0YkZkcXdyMjVNbEt2aGtrVk8?oc=5)
+
+---
 
 ### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
 

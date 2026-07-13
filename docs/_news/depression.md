@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Este sensor en las lágrimas detecta dopamina y podría revelar si padeces Parkinson o depresión](https://news.google.com/rss/articles/CBMihgFBVV95cUxNdV81R0tQWWlxQVp1ODBLZHh4QUxzblNIbEZROTdiRHpMekwyMnJuRmdUYmNiVGQyZUx6Wm1QeGZXNmtoU3l6VVc3WVljY2pvZ0puNUxXaUlINUQxd3c0eWtaenVPMmdTeU9QcUJWcGdUWXRwOHlta2FPNzgzZjF6ZFEwRGV0UQ?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-07-12
 
 來源：[National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
-
----
-
-### [Stress und Darm: 95% des Serotonins wird im Bauch produziert](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1N6N2NsbUZEZnlGdmlWcERQeUZ2THZ2R2NoRDZheGRkdVpEZmtNVjU4OE9iZ1hodmU2aTU4NWd0b0hIS2h5YWJ2eDFiVlNKM3BzSXhpU2dCNTdrOGFvcEtoUlBUVXVhU2FFd0JiMjUtNHFrUkZiQm41elN3WUhqU0hRQU5naDRNUXlUV053SEFrTW5FZWR1MFM5YVN4SWRlaVZoRVhhWnAyaGYwTUpVZmFOaVpsQQ?oc=5)
-
-2026-07-11
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1N6N2NsbUZEZnlGdmlWcERQeUZ2THZ2R2NoRDZheGRkdVpEZmtNVjU4OE9iZ1hodmU2aTU4NWd0b0hIS2h5YWJ2eDFiVlNKM3BzSXhpU2dCNTdrOGFvcEtoUlBUVXVhU2FFd0JiMjUtNHFrUkZiQm41elN3WUhqU0hRQU5naDRNUXlUV053SEFrTW5FZWR1MFM5YVN4SWRlaVZoRVhhWnAyaGYwTUpVZmFOaVpsQQ?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/deferiprone/
 
 ## 相關新聞（1 則）
 
-### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
 
 2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabète（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabète（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabète（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,21 +114,45 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [SGLT2-Inhibitoren senken Alzheimer-Risiko: neue Studien und VAE-Programme - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGFELVhleG1OR2R5aEw2aTJQU0JqMjRpaTNfVllpRTRGVG1FRGhNSzVMR1BZdGJGdEk1eG1vX2piZTNVdWRTdm1BdmVqLTdnTXVfNmF5ZjR0RGhaWjhEcl9DM3ZmOGVGaUJfR3d3OFQ2OThpZk1LU2RQcTlENEhqVlozVmlpNFY5ODhiQmgyelNnc2N2MnhaRXp6Z0ZyWlVBMlozalpzSQ?oc=5)
+
+2026-07-13
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGFELVhleG1OR2R5aEw2aTJQU0JqMjRpaTNfVllpRTRGVG1FRGhNSzVMR1BZdGJGdEk1eG1vX2piZTNVdWRTdm1BdmVqLTdnTXVfNmF5ZjR0RGhaWjhEcl9DM3ZmOGVGaUJfR3d3OFQ2OThpZk1LU2RQcTlENEhqVlozVmlpNFY5ODhiQmgyelNnc2N2MnhaRXp6Z0ZyWlVBMlozalpzSQ?oc=5)
+
+---
+
+### [¿El ibuprofeno puede prevenir la diabetes? Esto dice la ciencia - El Diario NY](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWRFaUFlNVJxUWJPa09hSVlJOEFnTnd5REpNMUFQN0JrWTBSME1SdUFLMHA2Z01TN2FQemRhTzNDTHJ0d0VZaFRyYUc4MWlkbWljT3BkeE9QX0FsMGpsSHBvVDRiNmlybFZXOXFLNkhkY18xTDFzb3ZfZ2ZZVGhFbllPOHVkckp3b3V0YkZkcXdyMjVNbEt2aGtrVk8?oc=5)
+
+2026-07-12
+
+來源：[El Diario NY](https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWRFaUFlNVJxUWJPa09hSVlJOEFnTnd5REpNMUFQN0JrWTBSME1SdUFLMHA2Z01TN2FQemRhTzNDTHJ0d0VZaFRyYUc4MWlkbWljT3BkeE9QX0FsMGpsSHBvVDRiNmlybFZXOXFLNkhkY18xTDFzb3ZfZ2ZZVGhFbllPOHVkckp3b3V0YkZkcXdyMjVNbEt2aGtrVk8?oc=5)
+
+---
+
+### [Diabetespatienten häufiger von Zahn- und Implantatverlust betroffen - ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
+
+2026-07-12
+
+來源：[ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
+
+---
+
+### [«Mia figlia va all’estero, ma senza dispositivi per il diabete» - Alto Adige](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREs3VFdfRjczcEpnWVBvUU05b1N5Tm1pdDJNd0dNWEZnVExYSXl4dXBBZk15cC1LRlBSTjFDQVhIRXBPRDBrcUsyd1BkRS11bWQ1UDc4aHZjeHNZcVNrTVhCS2d6LWJWRzlLRTk3cGZ5RS1KZGZsTnpObVVqWmhXbzVNNHNzTkduRklLTjk5NFZGd1RBREN2Ym5DSlc3NEFfYTFJdm5RSmNORVE2enNvRXUtVndkcGVBby1vX0VnR2dXdw?oc=5)
+
+2026-07-12
+
+來源：[Alto Adige](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREs3VFdfRjczcEpnWVBvUU05b1N5Tm1pdDJNd0dNWEZnVExYSXl4dXBBZk15cC1LRlBSTjFDQVhIRXBPRDBrcUsyd1BkRS11bWQ1UDc4aHZjeHNZcVNrTVhCS2d6LWJWRzlLRTk3cGZ5RS1KZGZsTnpObVVqWmhXbzVNNHNzTkduRklLTjk5NFZGd1RBREN2Ym5DSlc3NEFfYTFJdm5RSmNORVE2enNvRXUtVndkcGVBby1vX0VnR2dXdw?oc=5)
+
+---
 
 ### [Diabète : l’alimentation équilibrée reste le pilier central pour éviter les complications - Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
 
 2026-07-12
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
-
----
-
-### [Warning issued over type 2 diabetes symptoms at night that are 'easy to explain away' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
-
-2026-07-11
-
-來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTVYNjVsQmx6dTJwNXlMTEtEblkwRmtCdV9tamNjNEU3bG9EWmRMbUhDaEpNMHllMXJyZml2SmZSVHFqS3JUTXNWeDJNenYtVmpfYS0zT3lwUjVvMzRjU2ZmRFd2V182S2ZVcWpkQWQ0bVpYT0kzMVlfTzQ3ZVVVTERzLTh2LWM?oc=5)
 
 ---
 

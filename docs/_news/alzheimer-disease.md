@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Granddaughter’s video diary captures unfiltered reality of dementia - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJOdXpjYkhkMHJmM09IeEhLWUJqbTRxR09WYXlzX2p1UzVwUjJpOUZwU0pTeFJObEc5Yi1Wck5CcmlpLXI1dERja1pQV0pDWG0zTjVqQktrM2NhcXc5R29rYkktUzRyODZfbnlxX0FncEl4dTk5RzlITEx0YV9Yc3ZIbm93VmRDcWUyVzVVUHp2ZEl4?oc=5)
+
+2026-07-12
+
+來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJOdXpjYkhkMHJmM09IeEhLWUJqbTRxR09WYXlzX2p1UzVwUjJpOUZwU0pTeFJObEc5Yi1Wck5CcmlpLXI1dERja1pQV0pDWG0zTjVqQktrM2NhcXc5R29rYkktUzRyODZfbnlxX0FncEl4dTk5RzlITEx0YV9Yc3ZIbm93VmRDcWUyVzVVUHp2ZEl4?oc=5)
+
+---
 
 ### [Maladie d'Alzheimer : voici les signes dans la façon de parler que les spécialistes recommandent de surveiller - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
 

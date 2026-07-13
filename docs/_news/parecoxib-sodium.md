@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
+### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
 
 2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
-
----
-
-### [El punto que hay que presionar para aliviar el dolor de cabeza y los mareos - El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
-
-2026-07-12 <span class="news-indication-tag">migraña</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm9PY1V1eV9wcjFJQTZSdE8yUGU5ck9JbmVHSHFWQWdvTUMtMnQ0NHYwWEU3OGZuSlBKVHVvVlQ3ZFQ4Z0J2U3JWLUstdkpFM25iU3JaNUdlQWRFTS1mV1pSbEhxampvTmp5czZyTURCaWdwTmNVc2Q5NHlJaEhoaGszNTJwRGdNajU2Tk5QZHBSblBWc3BOckplX3AyOHktX2RiaDljSXkzX1haWV9DV0c3QnRXTHZw0gG-AUFVX3lxTE9uMnNGcEZMdGNieUxBRGZNX1o3Z2tfQXhtbUJna3NsVHhXSkZZQWs3aEV2T2EzYzdKV0xGckJydHNuTXNKdlVQOWFTRWRBamdUSmpGZ0kwQjlMR3BBYWJHUnhPd2NHUm1TMnRMYzBxMXZvaHpFdHA0VnFOYmNycnVhN0NYTmJHb2ZJSUZLZnBvelRiQ3hDX1BhQUNDbjNSZWJpT21iQWdIbDFGcnc4NDhUSFd2cWN6Z0RXZ1hnaGc?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
 
 ---
 

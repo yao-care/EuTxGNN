@@ -54,6 +54,14 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（5 則）
 
+### [On accuse le gras de nos assiettes d'engraisser le foie : la science montre qu'un sucre présent dans les sodas fait bien pire](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
+
+---
+
 ### [Médicaments de l'obésité : troubles digestifs, carences nutritionnelles... le point sur les effets secondaires - La Provence](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQclJOUURxTHZXdFlNbGpFMHE4TXVHd1BrYVpfNzZxclRqSGE5UUR5bHhveXd2VGF2XzRUUzN4enZTMTlZeTlndWJOWkhubGZhWFNMSTJkel9qajM2MXFvdTZzQ0szNzF1alg0TWhmcUcxS2dUVmxfaHEtLTg4ZThmQ0xaR1FqTFVOa3FfdEVudGdBME9TTU9IaUZZV1VPSUtiRkRVNHV5UlNnQXY0SUVBSnZmSXRyQmJtLUlvYnVoMUZ2VVFfbWpoZllCcnBrZW1xWXh2M2xZMWRSUnJuenBZMU9vaXE4QnoyM0FaOGJZZGdWQklC?oc=5)
 
 2026-07-11 <span class="news-indication-tag">obésité</span>
@@ -83,14 +91,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-07-11 <span class="news-indication-tag">obesidad</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlZdkRTai0tT3hJLW5TR1hNWW4wSE9xa3VqQkVHWUVtU1BvMGdlbDRWUG5JNFFYMDB2YXRSOXdHaWhTeTJ0clRQcmRTNUIwbWlUa3J4Q0QyT1NrRWt1Q2VPQllreU5YVUJNUEcta2FyUU91WlJmcGNCVFRya0ZFQlYxQ0dVSkpvX0tqYXZrNGlRZzNiY2dFNUZlNDNvOUtfcDQ1bkZIRnNQUDlPeFRlTWtTYjdrUWc0WmtldFhzUVV3dVVERHRxNVVlakI1M1BBaFYxUzFyRdIB3AFBVV95cUxNQmN6Z0VKaHJLcFUyOUhiWW0xaE8xMDVxUGs4YlhHT0VOd2liRlhCek1IMWdrYXBOTnU5ZUhFY3dINXRmY29nNnBRVFFGOTkwM2VjWVFGR3hvZk9kbGdNa1BsOG1udTdvNFVLODdWSkw4Q3psNkQzV2JOcnMzaEp6TUN3bWxNTHAxZ0xPcUFiYTNoUU03bTI1Q0NVRW1lWTVuT3pxUHA3LUluOE0wNkJ4RHFnMlUzSDIzNFRHaXdIX3lZRWdxWTZPZG83NFJoQkFvOEhOUXlEZzdkX3VY?oc=5)
-
----
-
-### [La próxima revolución contra la obesidad: de las inyecciones semanales a las pastillas diarias y los efectos "cirugía"](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3lFQ2h0aTMtYzlWTk9CQXpDemdYcnE2azNObWhERzFHQXNMY3ZRMGstMThlTlN2R01YUlRsTDEtVGYyOVBmOUY4ZEtzMDlWMWVIRUphS2dqSURyeWZOWGwwS0xDR2dJNG9JZmg3NmNldEMtM0xUbFl4eGlPZXFCd1B6dy1HbUh0N1BxV0NSVmx3UXVLVUtuNDV1ZmtUUVkzVldjR082MkRsTWNBa0FtQ0piY3hPTUp5ZlRkY2h0S0NnOEhNUGlkTVVzS1dSbjJiWkRQMjRrZXhKbEk3UFR3VnhUaDNtTElvUnc?oc=5)
-
-2026-07-10 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3lFQ2h0aTMtYzlWTk9CQXpDemdYcnE2azNObWhERzFHQXNMY3ZRMGstMThlTlN2R01YUlRsTDEtVGYyOVBmOUY4ZEtzMDlWMWVIRUphS2dqSURyeWZOWGwwS0xDR2dJNG9JZmg3NmNldEMtM0xUbFl4eGlPZXFCd1B6dy1HbUh0N1BxV0NSVmx3UXVLVUtuNDV1ZmtUUVkzVldjR082MkRsTWNBa0FtQ0piY3hPTUp5ZlRkY2h0S0NnOEhNUGlkTVVzS1dSbjJiWkRQMjRrZXhKbEk3UFR3VnhUaDNtTElvUnc?oc=5)
 
 ---
 

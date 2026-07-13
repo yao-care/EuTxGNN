@@ -14,7 +14,7 @@ permalink: /news/selumetinib-sulfate/
 ---
 
 <p class="key-answer" data-question="Selumetinib Sulfate 有什麼相關新聞？">
-<strong>Selumetinib Sulfate</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selumetinib Sulfate</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/selumetinib-sulfate/
 <p><a href="{{ '/drugs/selumetinib-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（36 則）
+## 相關新聞（35 則）
+
+### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
+
+---
+
+### [Darmkrebs: Joghurt und Kimchi halbieren Erkrankungsrisiko](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU01lNHBwWUhDU2pFbWt2ampoZDZFNF9JMG9yWW1ibUJfb0kzTWVWZURsd1BuamxUNUYtNFBtdjhGa1MxYko3Q3RXR0ZYWGNSWktfNnZUX3FIaElQd3FDU1RSSFY0TkRPSTY4ZVZEXzBHcDRiMk5PSEx4czNMZEZJQWhIU0JPbHhfR0V2cGthTHRUamxyQkdIOGRFMHI3OUNtRktaS0hMeFg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU01lNHBwWUhDU2pFbWt2ampoZDZFNF9JMG9yWW1ibUJfb0kzTWVWZURsd1BuamxUNUYtNFBtdjhGa1MxYko3Q3RXR0ZYWGNSWktfNnZUX3FIaElQd3FDU1RSSFY0TkRPSTY4ZVZEXzBHcDRiMk5PSEx4czNMZEZJQWhIU0JPbHhfR0V2cGthTHRUamxyQkdIOGRFMHI3OUNtRktaS0hMeFg?oc=5)
+
+---
 
 ### [Salamanca, epicentro de la prevención del cáncer: casi 16.000 mamografías y análisis genéticos para toda la Comunidad - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXpTNmNJR1JBcjBuaDIxb09XRjJRbEdpcm0xZmhLaG9DSnRjc3U5S3BHLU5nUksxU05NbGNNd18zR3hralJ6MV9nT29nTFhGVkhmUHQ1emM2WHJQUEtoTEpmZjlvYjR0dzhpVHRDZUlsSEoyVTV5QU13TGNIV2JEZGpFUHY5T3R6bGEwVHR2YUdDa0haMVR2UHNSWXM3NjhHdkVyd2p3bW8tUHVoQVRlaUFBR2hDd0trdHUwTU5GTUJmbXc4VGs2YjZ5MXlBSVNhcUk4cWowV1MwVWtmYlJKZFFXem9ZSndMOFVRU1ZlSWp5SnNsUTd3?oc=5)
 
-2026-07-12 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-07-12 <span class="news-indication-tag">AF</span>
 
 來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaXpTNmNJR1JBcjBuaDIxb09XRjJRbEdpcm0xZmhLaG9DSnRjc3U5S3BHLU5nUksxU05NbGNNd18zR3hralJ6MV9nT29nTFhGVkhmUHQ1emM2WHJQUEtoTEpmZjlvYjR0dzhpVHRDZUlsSEoyVTV5QU13TGNIV2JEZGpFUHY5T3R6bGEwVHR2YUdDa0haMVR2UHNSWXM3NjhHdkVyd2p3bW8tUHVoQVRlaUFBR2hDd0trdHUwTU5GTUJmbXc4VGs2YjZ5MXlBSVNhcUk4cWowV1MwVWtmYlJKZFFXem9ZSndMOFVRU1ZlSWp5SnNsUTd3?oc=5)
+
+---
+
+### [Brustkrebs: Diese Nahrungsmittel senken das Erkrankungsrisiko](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3RJV1BuZWxnUGdZZU5JR1FJXzcxa3dMNjZvLVVRWGZGYjYybmRrcE9hbXppU0pBM0k4UkNOWTJoZjBxNF83OUpLZDgydVU3Qk5vb3A3TTQwTnY1LW1EMHZsalV4czFZYXZRMG5LWWRCMHpJMW9rVnNwVDhwNkMwdW4wOHJJVVZDejgtdFpoMVdhTGtoeU1SNzFvYUIxZ3ZBVUR6YmtoOUFBOGZ0Sk1QZWYzMWd1bkV0d0U0dDBn?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3RJV1BuZWxnUGdZZU5JR1FJXzcxa3dMNjZvLVVRWGZGYjYybmRrcE9hbXppU0pBM0k4UkNOWTJoZjBxNF83OUpLZDgydVU3Qk5vb3A3TTQwTnY1LW1EMHZsalV4czFZYXZRMG5LWWRCMHpJMW9rVnNwVDhwNkMwdW4wOHJJVVZDejgtdFpoMVdhTGtoeU1SNzFvYUIxZ3ZBVUR6YmtoOUFBOGZ0Sk1QZWYzMWd1bkV0d0U0dDBn?oc=5)
+
+---
+
+### [What four oncologists do daily to avoid cancer - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0kwWlRzanhxQktOQ25LRC1kaFFpSEd6Qm9FZUNqOHhNdFlyaTk4MUllM0VvT1JlVEtrMDNramloaFNWUHNjUzhxTG5Oc2d3NG8yYjJ6VzRmekY4a0loUjByMWlHaGZINmxRbFpBOXZtc0JISTBxeG02VzlTbkQ2dWRaclVOR0VFVFRWR01iWE00ZjFxZk5nRU9fMWVZYWlDaVBBd1pn?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0kwWlRzanhxQktOQ25LRC1kaFFpSEd6Qm9FZUNqOHhNdFlyaTk4MUllM0VvT1JlVEtrMDNramloaFNWUHNjUzhxTG5Oc2d3NG8yYjJ6VzRmekY4a0loUjByMWlHaGZINmxRbFpBOXZtc0JISTBxeG02VzlTbkQ2dWRaclVOR0VFVFRWR01iWE00ZjFxZk5nRU9fMWVZYWlDaVBBd1pn?oc=5)
+
+---
+
+### [Martha Lillard, last known US polio survivor using iron lung, dies aged 78 - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmF5eVQ4LUJLZ0Z5dTAxSHVUdk9KOVRvSmNlOGJfZ3J2R1Y4WGVZOVpHT0VXY3dhQjRCMGlkYmFsUi0wd1ZUU2lTV0VEMVVjU0Z6endDZlh6ZHd1SDhrRHlYTEVNRGpoblV6d3Q0UWhWdkZyNFhNa21xNzQ4dUR0TTA4bVV4eWsyNnluVE5kOWVLM1hQODI2QmxFLTBsa1k?oc=5)
+
+2026-07-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmF5eVQ4LUJLZ0Z5dTAxSHVUdk9KOVRvSmNlOGJfZ3J2R1Y4WGVZOVpHT0VXY3dhQjRCMGlkYmFsUi0wd1ZUU2lTV0VEMVVjU0Z6endDZlh6ZHd1SDhrRHlYTEVNRGpoblV6d3Q0UWhWdkZyNFhNa21xNzQ4dUR0TTA4bVV4eWsyNnluVE5kOWVLM1hQODI2QmxFLTBsa1k?oc=5)
 
 ---
 
@@ -67,6 +107,14 @@ permalink: /news/selumetinib-sulfate/
 2026-07-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pjMk82cVdza2JISzRKMXR0Ump0dkpFckNIbWJuZFdsVkV1bzhpYmNsU3ZjcU9Yczk3TnR3RjI2UlNBMGNLel9nVTRCS2owd2NUOFp0SHNoVDBhQ2U1NzYza2RKZXItRWVxeElQV2RMako3Q3REVzhoRHVnemttVlhjUzBncFI1UlFBMHc5dy1FQmFjSFhiYy1SWGRaSWVJRjAyZzFUUUxBbzlrQUl1TjdlZmVGNzdvX29z?oc=5)
+
+---
+
+### [The Ebola epidemic is getting out of control - The Economist](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSW5NQlZuRmZwUS1hTU43cHNIeWlnY0JLbWkzNVZfb3k0czhnNGVJWEhtVDVDdmNNVV9OOGFUSF9ZblpydHpUZkF3aDd2T0MzOG9XM0xaakdwV090NGRBR0lfUGliYUtPQXlBaW9Pc2NrdzFqYmFjVnBnelkyQXZiMlZTYjlrRGF0THJQVFBfTEJVbldJMWpWN2hGN3MwVjh3V2pEUXR1SQ?oc=5)
+
+2026-07-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSW5NQlZuRmZwUS1hTU43cHNIeWlnY0JLbWkzNVZfb3k0czhnNGVJWEhtVDVDdmNNVV9OOGFUSF9ZblpydHpUZkF3aDd2T0MzOG9XM0xaakdwV090NGRBR0lfUGliYUtPQXlBaW9Pc2NrdzFqYmFjVnBnelkyQXZiMlZTYjlrRGF0THJQVFBfTEJVbldJMWpWN2hGN3MwVjh3V2pEUXR1SQ?oc=5)
 
 ---
 
@@ -86,6 +134,30 @@ permalink: /news/selumetinib-sulfate/
 
 ---
 
+### ['My heart burst open': Redcar woman turns back on corporate life after self healing journey - Teesside Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVE00WEZwemZBR1Z3Y2JxQko0LXVNdmxHOHowX1ZZb3ZyTGVLU05NVlVRaHV3MnItaHF4dTYxemk0cDF3aVFMSlFkaldvWGhKdVMyY0dKdXVFQk00Vm03SVZzTU5XTUhJOHlVRHBza2RrUXpjaXhSYkRKdTA4Yl9lZDZ4V3laLUkzVTJvVDZrcWVaRGPSAZgBQVVfeXFMTVZ6QkNSZHZ2T1IwVjk1bm1CWW9VTGdMOWVfZ1JHSVVidjduS0FzbVVMUzJwbEtFNEVtZ1U5R2RJbHZWZ1VMMTFlaHJSRGNJVTlqRm5PQk52bDVQbjJzemZueHNUanZrd1BQQVNLcjJPREZsZHV5MkdsUVBFQ1VBbVQ3dm8yQ1pNZFlvTUI3ai1JdlVDeG9QTG8?oc=5)
+
+2026-07-12 <span class="news-indication-tag">AF</span>
+
+來源：[Teesside Live](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVE00WEZwemZBR1Z3Y2JxQko0LXVNdmxHOHowX1ZZb3ZyTGVLU05NVlVRaHV3MnItaHF4dTYxemk0cDF3aVFMSlFkaldvWGhKdVMyY0dKdXVFQk00Vm03SVZzTU5XTUhJOHlVRHBza2RrUXpjaXhSYkRKdTA4Yl9lZDZ4V3laLUkzVTJvVDZrcWVaRGPSAZgBQVVfeXFMTVZ6QkNSZHZ2T1IwVjk1bm1CWW9VTGdMOWVfZ1JHSVVidjduS0FzbVVMUzJwbEtFNEVtZ1U5R2RJbHZWZ1VMMTFlaHJSRGNJVTlqRm5PQk52bDVQbjJzemZueHNUanZrd1BQQVNLcjJPREZsZHV5MkdsUVBFQ1VBbVQ3dm8yQ1pNZFlvTUI3ai1JdlVDeG9QTG8?oc=5)
+
+---
+
+### [Meningioma, l'ombra del tumore su due contraccettivi comuni: l'EMA lancia l'allarme - il Giornale](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWw3b3I4d0wwTjJLU2dSUlhGbS1LWmxRbXB5MW5CVmJJa1g2RW5WNzlDQWRNdUx3YkNjT0Y1UHJPcXFaRTM2RVZsRjJmU3AxMlhUc2hWeG91Rl9ZVU1WTFJtcldYMW9BdThBTllLZUFSWVNyQ1hoSzFaUXd4dld6Q2xIeWZ3TUh2eklCeGdBWGhYUUlPTFlicWhJUzZrOUlGUGhvWlk5bWNTRmZUUUdfUks2WGhtN2Rid3FGZg?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWw3b3I4d0wwTjJLU2dSUlhGbS1LWmxRbXB5MW5CVmJJa1g2RW5WNzlDQWRNdUx3YkNjT0Y1UHJPcXFaRTM2RVZsRjJmU3AxMlhUc2hWeG91Rl9ZVU1WTFJtcldYMW9BdThBTllLZUFSWVNyQ1hoSzFaUXd4dld6Q2xIeWZ3TUh2eklCeGdBWGhYUUlPTFlicWhJUzZrOUlGUGhvWlk5bWNTRmZUUUdfUks2WGhtN2Rid3FGZg?oc=5)
+
+---
+
+### [Tumore del pancreas e del colon: nuove terapie che cambiano le prospettive di cura](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3Q4MWNWanM4QlA4Y1Z0UlF3SEJpdzRmR1N6bmdnb0ZEazdwMG9idHpqSllJMnM1LW1VLXVJbXFoS2FybkpxMGQtNHRpU2d1NnZzMGh0bzNrcnM0WEV0b20zMUtRSlFLOXN0WlRGblh6QW9ucHd1dXRCZ1lZQmJ4ZVBjOWoxTFNpVnBFcm55cGJ3UEtBMVRFa1VOVWFyTXk1TWo5djVZTVNmeUZDb2ZZeV9FWlVDN09EWmFmUEs0alE4TFd5SWVlcTRpX2U?oc=5)
+
+2026-07-12 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3Q4MWNWanM4QlA4Y1Z0UlF3SEJpdzRmR1N6bmdnb0ZEazdwMG9idHpqSllJMnM1LW1VLXVJbXFoS2FybkpxMGQtNHRpU2d1NnZzMGh0bzNrcnM0WEV0b20zMUtRSlFLOXN0WlRGblh6QW9ucHd1dXRCZ1lZQmJ4ZVBjOWoxTFNpVnBFcm55cGJ3UEtBMVRFa1VOVWFyTXk1TWo5djVZTVNmeUZDb2ZZeV9FWlVDN09EWmFmUEs0alE4TFd5SWVlcTRpX2U?oc=5)
+
+---
+
 ### [Thousands sickened by explosive diarrhea parasite as troubling map reveals extent of outbreak hitting at least 31 states - The Sun](https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEJnblN2ZkhJd3lnNXg0Qmh6dnhsektWeVd5WU9Pakx2cnB5LXozbW1hS0t4MGIxejgwWk5BcHFMS1RKZERuWUkwdkRIbWhFNzh5bjMxdEt0WXdsRGd6cS04Qm1qVlVObEJKaEZBTEMyZV9nbW9OaG5MMzhfaDVsa3VrQTFQcjRkZV9XaDZVTmZZaVdyRlE2ZU5odW4tc0NmY3dkeURqaGg1a01wVGxRS0dxUVM?oc=5)
 
 2026-07-12 <span class="news-indication-tag">AF</span>
@@ -99,14 +171,6 @@ permalink: /news/selumetinib-sulfate/
 2026-07-12 <span class="news-indication-tag">AF</span>
 
 來源：[20Minutos](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTJvQWhfdWJNNFBHdXh4Qi1aelBxNlNOZU1Fd3RYTGFZeEVaWng1dGRXM202djF6anUzZTZHVklmLWpiTzVpSnY1T043MmxCQThHOGMyWHNEa3FIck9aUjl4VmluV2ZhTlBXclF5aVBFZERhQWJHMEo0SU56cVRSbmFyeVppbjZBeVlYM0dnbkNoQ0RjSURmNmhMWTg3MURYV2VXaFBRcFhydFJGTEhDU28zTnd3QkRNT094RWF2MWhFbWlpLWlPeFpJOWFKV05iZEE?oc=5)
-
----
-
-### [Demenz-Vorbeugung: MIND-Diät senkt Risiko um 35 Prozent](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUJKMDNGSTliNFV6OG9nUWQyT3JzMFpibHcySnJhb05XSjRvV1FXRGlvSjJnaVdqYWxFbGhGS3F5YjE1d1NFbnVnT1BxMlNZYmFhRVBrNjB2bmVSSkR3dG9fUndnZ1lIUkJDcG55Sk04THZZQzUxLWlfa2hVbHZaVEI3WHNTN0I1dEZJSHJocVRxbUtUeVhYWkNvSFZoMzBVUW9yd1JUSQ?oc=5)
 
 ---
 
@@ -134,14 +198,6 @@ permalink: /news/selumetinib-sulfate/
 
 ---
 
-### [Tumore al pancreas, la pillola che frena il motore della malattia](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnI0bmUwZVZZb3VWWFA3emJ4UndwWndsd0tBMnhLcVIzNFh6cjJzeVBYWHVoYl9rZjRiYWVJSFllcjJZUnR2emFWbF9MdHBGcG5NaURreHc2NnBJaXRTSHJBcWlmVHIwZFFnUmRja21HWXRnV05hMHh6S1N3Mi12ODNlN3otMk1sM1g4aDJRaHp4MG56OElCUURuUnBhOWQ3SXhYQmRmcjdJdHBKSzNwSVZiTEpLQQ?oc=5)
-
-2026-07-12 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnI0bmUwZVZZb3VWWFA3emJ4UndwWndsd0tBMnhLcVIzNFh6cjJzeVBYWHVoYl9rZjRiYWVJSFllcjJZUnR2emFWbF9MdHBGcG5NaURreHc2NnBJaXRTSHJBcWlmVHIwZFFnUmRja21HWXRnV05hMHh6S1N3Mi12ODNlN3otMk1sM1g4aDJRaHp4MG56OElCUURuUnBhOWQ3SXhYQmRmcjdJdHBKSzNwSVZiTEpLQQ?oc=5)
-
----
-
 ### [I competed with friends for the best tan as teens… now I’m 30 with incurable cancer that’s spread to my brain - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMV9ndTI1cDFDZEhxUVdGWGxzYWJmTjQ1RjcwY0Y3NlV2Tjc3WlNPSW1RQjV0NFRLam9ob2NVS2V5MUhjakhkemowNHpnVmJzNF9OUGJQbUJHS3hCZmJQak9RcWNDbUswZlpqMzBJTDdZS3ZzQno4b09ETnBwRUJualliNklWVlpfeGln?oc=5)
 
 2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -155,14 +211,6 @@ permalink: /news/selumetinib-sulfate/
 2026-07-12 <span class="news-indication-tag">AF</span>
 
 來源：[EFESalud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOXRwSXAwMnFyNjloTlMwWE9aT2dIeWtKOTc2Mk51UmVGaXREb3I4MXZqbDQ0UjBZWW1NbEtoa3cwU0d1a1VaN3JfWXprOHp4T3NPbmF0Ni1yZ0NMeGQ1d1l1MjQzQTRRdmc?oc=5)
-
----
-
-### [Schoolgirl's response to being told about dad's terminal cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45UHVmN09oQTd1bHl2T1gtNmM1NExtNUdkQkR0NUZZUVR3cjh5N2taZGFSV1d2ZFYtWGQ3N1A2RXE1amUtdnprSVc1alZrckJtQldDUHlELVdkWGo3?oc=5)
-
-2026-07-12 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE45UHVmN09oQTd1bHl2T1gtNmM1NExtNUdkQkR0NUZZUVR3cjh5N2taZGFSV1d2ZFYtWGQ3N1A2RXE1amUtdnprSVc1alZrckJtQldDUHlELVdkWGo3?oc=5)
 
 ---
 
@@ -214,30 +262,6 @@ permalink: /news/selumetinib-sulfate/
 
 ---
 
-### [Joghurt und Probiotika: Bis zu 50% weniger Darmkrebsrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhCVXJTMFNYcFNFMFVrY1BQMDk0U1hINlV3WUdmUkdUXzVyd1U1aFZOSGFiY1dEOC1TY1AzMlB4cmhrdW1IOUJXemw0TTlsOTdUSlV2U3hZdGpDOUVrMUdNalFySXhScG04SFMwcnFPZjFTRFJaZTVhb3V1OTRKLW9POVRkR1VTSnVlSkdaN1BwQjdRRXh6QTVtaDlCbllBQ2tRQldkcDI3ZnVWOXFYQ0hJUQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">Krebs</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhCVXJTMFNYcFNFMFVrY1BQMDk0U1hINlV3WUdmUkdUXzVyd1U1aFZOSGFiY1dEOC1TY1AzMlB4cmhrdW1IOUJXemw0TTlsOTdUSlV2U3hZdGpDOUVrMUdNalFySXhScG04SFMwcnFPZjFTRFJaZTVhb3V1OTRKLW9POVRkR1VTSnVlSkdaN1BwQjdRRXh6QTVtaDlCbllBQ2tRQldkcDI3ZnVWOXFYQ0hJUQ?oc=5)
-
----
-
-### [Last US polio patient using an iron lung to survive dies in Oklahoma - The Independent](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDlibWFiR0E3ZjlvWHBoSHhJSno0OXBZOGJER29TQjRvcmF2QUt2UGZBWjFNam5kQVpCSmlsb2w0R0J6QmszSkk4SGhYYy1TdWlEbkxkX2dCYnBqc1hocUxXbkk1aFF4RWswQTV1SDZLczJwZkhFVGVaN3pBWlRwQnI4M19kZw?oc=5)
-
-2026-07-11 <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDlibWFiR0E3ZjlvWHBoSHhJSno0OXBZOGJER29TQjRvcmF2QUt2UGZBWjFNam5kQVpCSmlsb2w0R0J6QmszSkk4SGhYYy1TdWlEbkxkX2dCYnBqc1hocUxXbkk1aFF4RWswQTV1SDZLczJwZkhFVGVaN3pBWlRwQnI4M19kZw?oc=5)
-
----
-
-### [La creatina non serve solo ai muscoli: ora interessa anche gli oncologi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">cancro</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
-
----
-
 ### [Our baby was found dead by his sister after we put him to bed with a runny nose - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUZBVGp2WW9xUVF0RlRzMm9fb0dZT1MzcGxjME5adTRqcUY4NEhQTlo2SVdxX0xZVkZZNzBxY1o3VnFVUWVpUy02RFhfLUU4dkFlQVpmcjJzTVE4S3BWN2ZqOGpjVWtVYTFUTm5nTUU2MTFQWkxCZkNHTHk4a2FleXVLalN2TG1qeDlv?oc=5)
 
 2026-07-11 <span class="news-indication-tag">AF</span>
@@ -246,11 +270,11 @@ permalink: /news/selumetinib-sulfate/
 
 ---
 
-### [Caminar cinco minutos cada hora ayuda a reducir los daños de la vida sedentaria](https://news.google.com/rss/articles/CBMivgFBVV95cUxORGZ4MzNYUU12VWNYV3ZMS0JTbjU5VjhrT2JwZ3FadU84N05ON3gzN0I4ODZnOGI4ZllOYlJpSGlvSjN0cDlUbFo0cVNEQTV6Mng3b0hPcUFvLWtXaUtqZVBCSWc3STROZGVGY1pQSkpOZUMwd2F0Rk5EbWVLdUwxclM4N2NPSFhmRFdHMEpKMGdJVVgteG9uNm4ySjVfQ1dqWlBlU3doaFlYUGY1WGVMclFNcVRzUmUxZzljQ1p30gHYAUFVX3lxTFBHbFRzQzBNNDhVbWNaQTJaMlZoLURUQUJ6MnBFbXEwTGd5TlhCV2RuLVZtekx6OXBxb0tzVThvbFRYQ29pcXo0cEg4TTFMTG02Z0dJNW9LUDZXNnlTMkJWVjY3RlNSUU85ekdmazlGbDZVMkVuUEFvR2NjeDlhZ29jWTZzMUFpbWo3RVVmTmt0emUzdXM3MnFjaXFKU2xfLW5Sc2VfTzJqWDUyOUlRaGJldm5VYWgxaDFQWU9HZFZnTjlWQWVadGMyamZmV3d3LTQ2ZnZPS0dOYQ?oc=5)
+### [Paziente di mezza età ricoverato con la febbre West Nile: è il primo caso dell'estate](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmlRZVdSdzluM0NOdG1JMGkyalpiU1RDUXNlZHY3WEdiUDJjS3dRSFZVNWY3YzE5MjU1bFJhcGZfQWhvb1JMRlgzbnRQYUxWLWlFSG5hNkZJRzduVUMwei1FMzMyTWc3eWdYTDVRaHlPS29qMGVhdzVZZzVOUkhOWk9IaEQ?oc=5)
 
 2026-07-11 <span class="news-indication-tag">AF</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMivgFBVV95cUxORGZ4MzNYUU12VWNYV3ZMS0JTbjU5VjhrT2JwZ3FadU84N05ON3gzN0I4ODZnOGI4ZllOYlJpSGlvSjN0cDlUbFo0cVNEQTV6Mng3b0hPcUFvLWtXaUtqZVBCSWc3STROZGVGY1pQSkpOZUMwd2F0Rk5EbWVLdUwxclM4N2NPSFhmRFdHMEpKMGdJVVgteG9uNm4ySjVfQ1dqWlBlU3doaFlYUGY1WGVMclFNcVRzUmUxZzljQ1p30gHYAUFVX3lxTFBHbFRzQzBNNDhVbWNaQTJaMlZoLURUQUJ6MnBFbXEwTGd5TlhCV2RuLVZtekx6OXBxb0tzVThvbFRYQ29pcXo0cEg4TTFMTG02Z0dJNW9LUDZXNnlTMkJWVjY3RlNSUU85ekdmazlGbDZVMkVuUEFvR2NjeDlhZ29jWTZzMUFpbWo3RVVmTmt0emUzdXM3MnFjaXFKU2xfLW5Sc2VfTzJqWDUyOUlRaGJldm5VYWgxaDFQWU9HZFZnTjlWQWVadGMyamZmV3d3LTQ2ZnZPS0dOYQ?oc=5)
+來源：[PadovaOggi](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmlRZVdSdzluM0NOdG1JMGkyalpiU1RDUXNlZHY3WEdiUDJjS3dRSFZVNWY3YzE5MjU1bFJhcGZfQWhvb1JMRlgzbnRQYUxWLWlFSG5hNkZJRzduVUMwei1FMzMyTWc3eWdYTDVRaHlPS29qMGVhdzVZZzVOUkhOWk9IaEQ?oc=5)
 
 ---
 
@@ -278,35 +302,11 @@ permalink: /news/selumetinib-sulfate/
 
 ---
 
-### [Urgent medicines warning issued as heatwave temperatures continue to climb - South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkpfU1liMDUxaVZ1cWhGaVFYb3BON3VYZUVRZS1Cb2RJOHhRcWhTd3VsNklPODY0ajZ5VXhMaUc2QzBIVUtPVnlMVEhGMDBQRXdQT1VfT3lnNm9nNWxrM1N6dDJqUDVCaFQyb3MtMjM0U0NZTGVScWdGbXJFR0h4Tjh4SGl3VWZqY0NMWWdadnRvOFByX084NW5hYlBRTlVGWDlwM0NR?oc=5)
-
-2026-07-11 <span class="news-indication-tag">AF</span>
-
-來源：[South Wales Argus](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZkpfU1liMDUxaVZ1cWhGaVFYb3BON3VYZUVRZS1Cb2RJOHhRcWhTd3VsNklPODY0ajZ5VXhMaUc2QzBIVUtPVnlMVEhGMDBQRXdQT1VfT3lnNm9nNWxrM1N6dDJqUDVCaFQyb3MtMjM0U0NZTGVScWdGbXJFR0h4Tjh4SGl3VWZqY0NMWWdadnRvOFByX084NW5hYlBRTlVGWDlwM0NR?oc=5)
-
----
-
-### [TikTok star Becki Jones reveals her dad’s heartbreaking cancer diagnosis - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1dRMEo3LVFRQi1CMXpJQk1TUXN6M1RGN08yMVRfSGpnSjI0UWpnOUFqUElJWU5ZRW9LRktLeFgxclRaQlRiNXhOX3pFSFpnYi0tS1NkalVIUWJ3cFE5dnZzYWs2M1dESkkzaGJGd3dGR2liaXVMZm5wV080dVRzSDJrYjdDbWtOcjdUdUZhRzA?oc=5)
-
-2026-07-11 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxON1dRMEo3LVFRQi1CMXpJQk1TUXN6M1RGN08yMVRfSGpnSjI0UWpnOUFqUElJWU5ZRW9LRktLeFgxclRaQlRiNXhOX3pFSFpnYi0tS1NkalVIUWJ3cFE5dnZzYWs2M1dESkkzaGJGd3dGR2liaXVMZm5wV080dVRzSDJrYjdDbWtOcjdUdUZhRzA?oc=5)
-
----
-
 ### [À 33 ans, il pensait que son mal de dos venait du travail : c’était en réalité un cancer de stade 4 - Yahoo Life France](https://news.google.com/rss/articles/CBMidkFVX3lxTE9KX3BuaENmbGRqaUg0ZGdTMFVUNldsanYxZ095cnpqT0pxdkltcWQtZUJjOVBCMEpxZTRQNFpjZ19qOFFzTm56ekxUdmM1RzhBN2JPNmZaTFREUXlWNWg0b0FvZURWMzcwSjk0YmN6RVhiRjJUSEE?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span>
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMidkFVX3lxTE9KX3BuaENmbGRqaUg0ZGdTMFVUNldsanYxZ095cnpqT0pxdkltcWQtZUJjOVBCMEpxZTRQNFpjZ19qOFFzTm56ekxUdmM1RzhBN2JPNmZaTFREUXlWNWg0b0FvZURWMzcwSjk0YmN6RVhiRjJUSEE?oc=5)
-
----
-
-### [Jabs plea from bereaved mum of Meningitis B victim](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tY1VMbzQ3RThSazQzd0M4N0U5ZWJqcG11YmZoQ2xaOUxaQUhiSkZ2QjRnemtfdV9VUjlRZjNNX0RqRnpsWG11dkE4LTlYUTg5d29FemtFMk85VEFZ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tY1VMbzQ3RThSazQzd0M4N0U5ZWJqcG11YmZoQ2xaOUxaQUhiSkZ2QjRnemtfdV9VUjlRZjNNX0RqRnpsWG11dkE4LTlYUTg5d29FemtFMk85VEFZ?oc=5)
 
 ---
 
@@ -326,19 +326,11 @@ permalink: /news/selumetinib-sulfate/
 
 ---
 
-### [Mental health hospitalizations associated with sustained extreme heat in multiple countries](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1POUtkYkJndkdTVkVzckJoMmI3Tk5faG9sNUFoMVk4NUI0eTdmMlFEUFNUS0pQT191emlPbDJVN0w1TXBSUl9jNGZzVm9FVFlldXROeUxvYXVnaVdVbnBj?oc=5)
-
-2026-07-11 <span class="news-indication-tag">AF</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1POUtkYkJndkdTVkVzckJoMmI3Tk5faG9sNUFoMVk4NUI0eTdmMlFEUFNUS0pQT191emlPbDJVN0w1TXBSUl9jNGZzVm9FVFlldXROeUxvYXVnaVdVbnBj?oc=5)
-
----
-
-### ['It's time to do a test': Bowel cancer screening for people in their 50s critically low, NHS warns - Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
+### [People in 50s urged to complete bowel cancer screening](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
 
 2026-07-11 <span class="news-indication-tag">cancer</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEEyUi1vUFVnUWZQS3BHMGNUYWhTYWNjWmQzZkN1Ql83NTNKaXBFTkl2Ul94YThDV1dxVG5QakNqa2tyeEhpLXBJekhBWUQxVE04ZGFHcko1czV3V3Y3TzFMb1ZzRDJtTlpKQ3U1d2V0QmNMRmpZM29qZFZRR2d6SmlDeU92clFkN0VKNzhrZGdRRlFkWnpLQS1GazJoeTZhRWVrcXJpbGZweEdBQ3JEeVF4aE9mSXlQVzJDUFBaNEVyS1E5a21XVg?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LYkdBNmd2ekVWWk5WcUhTbGhTOTBpOGdaSDZGTWxKNy1odjh5SUxJWWZYNW5pWnNxVFYzaTBPVnh6eGhhaG0xQjNEczhGUlVXREtWMTdKSm1CWG5w?oc=5)
 
 ---
 
