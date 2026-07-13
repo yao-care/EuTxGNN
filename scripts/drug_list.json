@@ -1,6 +1,6 @@
 {
-  "total": 710,
-  "generated_at": "2026-07-13T01:29:13.451654",
+  "total": 724,
+  "generated_at": "2026-07-13T13:59:55.796837",
   "drugs": [
     {
       "name": "Abacavir",
@@ -1534,16 +1534,16 @@
       "name": "Crizotinib",
       "file": "crizotinib.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "fibromatosis, gingival",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Cytarabine",
       "file": "cytarabine.md",
       "evidence_level": "L5",
-      "indication_count": 55,
-      "predicted_indication": "small cell lung carcinoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1555,11 +1555,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Dacomitinib",
+      "file": "dacomitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Dalbavancin Hydrochloride",
       "file": "dalbavancin-hydrochloride.md",
       "evidence_level": "L5",
       "indication_count": 50,
       "predicted_indication": "postinfectious vasculitis",
+      "approved_indication": ""
+    },
+    {
+      "name": "Dalbavancin",
+      "file": "dalbavancin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1571,27 +1587,35 @@
       "approved_indication": ""
     },
     {
+      "name": "Damoctocog Alfa Pegol",
+      "file": "damoctocog_alfa_pegol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Dapagliflozin",
       "file": "dapagliflozin.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "classic stiff person syndrome",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Daptomycin",
       "file": "daptomycin.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "osteoarthritis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Daratumumab",
       "file": "daratumumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "indolent plasma cell myeloma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1603,6 +1627,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Darbepoetin Alfa",
+      "file": "darbepoetin_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Darifenacin Hydrobromide",
       "file": "darifenacin-hydrobromide.md",
       "evidence_level": "L5",
@@ -1611,19 +1643,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Darifenacin",
+      "file": "darifenacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Darolutamide",
       "file": "darolutamide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "homozygous familial hypercholesterolemia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Darunavir",
       "file": "darunavir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1635,51 +1675,59 @@
       "approved_indication": ""
     },
     {
+      "name": "Dasatinib",
+      "file": "dasatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Daunorubicin",
       "file": "daunorubicin.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "acute lymphoblastic/lymphocytic leukemia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Decitabine",
       "file": "decitabine.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "myeloid leukemia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Deferasirox",
       "file": "deferasirox.md",
       "evidence_level": "L5",
-      "indication_count": 53,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Deferiprone",
       "file": "deferiprone.md",
       "evidence_level": "L5",
-      "indication_count": 56,
-      "predicted_indication": "hepatic porphyria",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Defibrotide",
       "file": "defibrotide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "pseudo-von Willebrand disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Degarelix",
       "file": "degarelix.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "hypertrichosis (disease)",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1694,32 +1742,32 @@
       "name": "Denosumab",
       "file": "denosumab.md",
       "evidence_level": "L5",
-      "indication_count": 52,
-      "predicted_indication": "severe nonproliferative diabetic retinopathy",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Desloratadine",
       "file": "desloratadine.md",
       "evidence_level": "L5",
-      "indication_count": 53,
-      "predicted_indication": "allergic urticaria",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Deutetrabenazine",
       "file": "deutetrabenazine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "psychogenic movement disorders",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Dexamethasone",
       "file": "dexamethasone.md",
-      "evidence_level": "L1",
-      "indication_count": 174,
-      "predicted_indication": "alopecia areata",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1731,11 +1779,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Dexmedetomidine",
+      "file": "dexmedetomidine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Dexrazoxane Hydrochloride",
       "file": "dexrazoxane-hydrochloride.md",
       "evidence_level": "L5",
       "indication_count": 50,
       "predicted_indication": "sclerosing cholangitis",
+      "approved_indication": ""
+    },
+    {
+      "name": "Dexrazoxane",
+      "file": "dexrazoxane.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1747,11 +1811,19 @@
       "approved_indication": ""
     },
     {
+      "name": "Dibotermin Alfa",
+      "file": "dibotermin_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Diflunisal",
       "file": "diflunisal.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "osteoarthritis susceptibility",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -1763,6 +1835,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Dimethyl Fumarate",
+      "file": "dimethyl_fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Diroximel Fumarate (Biib098)",
       "file": "diroximel-fumarate-biib098.md",
       "evidence_level": "L5",
@@ -1771,19 +1851,27 @@
       "approved_indication": ""
     },
     {
+      "name": "Diroximel Fumarate",
+      "file": "diroximel_fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Docetaxel",
       "file": "docetaxel.md",
       "evidence_level": "L5",
-      "indication_count": 54,
-      "predicted_indication": "female breast carcinoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Dolutegravir",
       "file": "dolutegravir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -3062,48 +3150,48 @@
       "name": "L-Lysine",
       "file": "l-lysine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "gastroparesis (disease)",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lacosamide",
       "file": "lacosamide.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "manic bipolar affective disorder",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lamivudine",
       "file": "lamivudine.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "HIV infectious disease",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lanadelumab",
       "file": "lanadelumab.md",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "predicted_indication": "C1 inhibitor deficiency",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lapatinib",
       "file": "lapatinib.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "dermatofibrosarcoma protuberans",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Laronidase",
       "file": "laronidase.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "Scheie syndrome",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -3115,6 +3203,14 @@
       "approved_indication": ""
     },
     {
+      "name": "Larotrectinib",
+      "file": "larotrectinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Lasmiditan Succinate",
       "file": "lasmiditan-succinate.md",
       "evidence_level": "L5",
@@ -3123,35 +3219,43 @@
       "approved_indication": ""
     },
     {
+      "name": "Lasmiditan",
+      "file": "lasmiditan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Latanoprost",
       "file": "latanoprost.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "primary hereditary glaucoma",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lebrikizumab",
       "file": "lebrikizumab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "severe nonproliferative diabetic retinopathy",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lecanemab",
       "file": "lecanemab.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "diabetic cataract",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Ledipasvir",
       "file": "ledipasvir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "chronic hepatitis C virus infection",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
@@ -3163,59 +3267,67 @@
       "approved_indication": ""
     },
     {
+      "name": "Lefamulin",
+      "file": "lefamulin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "approved_indication": ""
+    },
+    {
       "name": "Leflunomide",
       "file": "leflunomide.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "rheumatoid arthritis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lenalidomide",
       "file": "lenalidomide.md",
       "evidence_level": "L5",
-      "indication_count": 51,
-      "predicted_indication": "myeloid leukemia",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Letermovir",
       "file": "letermovir.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "vulvovaginal candidiasis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Levetiracetam",
       "file": "levetiracetam.md",
-      "evidence_level": "L2",
-      "indication_count": 50,
-      "predicted_indication": "visual epilepsy",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Levodopa",
       "file": "levodopa.md",
       "evidence_level": "L5",
-      "indication_count": 50,
-      "predicted_indication": "juvenile onset Parkinson disease 19A",
+      "indication_count": 10,
+      "predicted_indication": "Rasmussen Subacute Encephalitis",
       "approved_indication": ""
     },
     {
       "name": "Levofloxacin",
       "file": "levofloxacin.md",
       "evidence_level": "L5",
-      "indication_count": 60,
-      "predicted_indication": "punctate epithelial keratoconjunctivitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
       "name": "Lidocaine",
       "file": "lidocaine.md",
       "evidence_level": "L5",
-      "indication_count": 61,
-      "predicted_indication": "punctate epithelial keratoconjunctivitis",
+      "indication_count": 10,
+      "predicted_indication": "",
       "approved_indication": ""
     },
     {
