@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Lecanemab
-description: "Lecanemab drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 334
+parent: 僅模型預測 (L5)
+nav_order: 221
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lecanemab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lecanemab: From Alzheimer's Disease to Diabetic Cataract
+
+## One-Sentence Summary
+
+Lecanemab is an anti-amyloid beta (Aβ) monoclonal antibody developed for early Alzheimer's disease, currently not approved in Taiwan.
+The TxGNN model predicts it may be effective for **Diabetic Cataract**, though **0 clinical trials** and **0 publications** currently support this direction.
+Notably, all 10 top TxGNN predictions cluster around ocular conditions — suggesting a consistent but entirely AI-derived hypothesis linking Lecanemab's amyloid-targeting mechanism to lens and retinal pathology.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lecanemab |
-| DrugBank ID | [DB14580](https://go.drugbank.com/drugs/DB14580) |
-| Brand Names (EU) | Leqembi |
+| Item | Content |
+|------|---------|
+| Original Indication | Alzheimer's disease (early stage; not yet marketed in Taiwan) |
+| Predicted New Indication | Diabetic Cataract |
+| TxGNN Prediction Score | 98.48% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 98.48% |
+| Taiwan Market Status | 未上市 (Not Marketed) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Leqembi is indicated for the treatment of adult patients with a clinical diagnosis of mild cognitive impairment and mild dementia due to Alzheimer’s disease (Early Alzheimer’s disease) who are apolipoprotein E 4 (ApoE&nbsp;ε4) non-carriers or heterozygotes with confirmed amyloid pathology (see section 4.4).
+Lecanemab is a humanized IgG1 monoclonal antibody that selectively targets soluble amyloid beta (Aβ) protofibrils — large oligomeric aggregates considered the primary neurotoxic species in Alzheimer's disease. By binding these protofibrils with high affinity, it facilitates their clearance via Fc-receptor-mediated microglial phagocytosis, reducing overall Aβ plaque burden. Detailed MOA data from DrugBank was not available in this Evidence Pack, and formal mechanism documentation should be retrieved to complete this analysis.
 
----
+The mechanistic bridge to diabetic cataract is indirect but theoretically traceable. Research has found Aβ-like peptides in the diabetic lens (Schultz et al., 2015, *IOVS*), and lens epithelial cells are known to express amyloid precursor protein (APP). In diabetic cataract, chronic hyperglycemia activates the sorbitol pathway and promotes advanced glycation end-product (AGE) formation, leading to lens protein crosslinking and opacity. The hypothesis is that an Aβ-like aggregation process may represent an additive co-mechanism in diabetic lenses, making anti-Aβ antibodies theoretically relevant.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | diabetic cataract | 98.48% | DL |
-| 2 | craniostenosis cataract | 98.40% | DL |
-| 3 | tetanic cataract | 98.40% | DL |
-| 4 | diabetes mellitus type 2 associated cataract | 98.40% | DL |
-| 5 | immature cataract | 98.40% | DL |
-| 6 | mature cataract | 98.40% | DL |
-| 7 | cortical cataract | 98.38% | DL |
-| 8 | nuclear senile cataract | 98.38% | DL |
-| 9 | senile cataract | 98.32% | DL |
-| 10 | diabetic retinopathy | 98.19% | DL |
-| 11 | antithrombin deficiency type 2 | 97.94% | DL |
-| 12 | severe nonproliferative diabetic retinopathy | 97.93% | DL |
-| 13 | factor 5 excess with spontaneous thrombosis | 97.88% | DL |
-| 14 | heparin cofactor 2 deficiency | 97.83% | DL |
-| 15 | thrombophilia | 97.57% | DL |
-| 16 | diffuse gastric adenocarcinoma | 95.75% | DL |
-| 17 | hemorrhagic disease of newborn | 95.31% | DL |
-| 18 | gastric carcinoma | 95.26% | DL |
-| 19 | gastric adenocarcinoma and proximal polyposis of the stomach | 95.06% | DL |
-| 20 | bronchitis | 95.03% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, two major barriers substantially undermine this prediction. First, Lecanemab's epitope is precisely tuned to Aβ protofibrils — cross-reactivity with crystallins (the primary proteins forming cataract aggregates) has never been demonstrated. Second, the blood-aqueous humor barrier presents a severe pharmacokinetic obstacle: systemic IV administration of a large IgG1 antibody (~143 kDa) is unlikely to reach therapeutic concentrations within the lens. The TxGNN score of 98.48% most plausibly reflects graph-level proximity between Alzheimer's and cataract disease nodes in the knowledge graph (potentially mediated by shared "protein aggregation" nodes), rather than direct clinical plausibility.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+> **Contextual note (not from Evidence Pack):** Based on Lecanemab's approved clinical profile for Alzheimer's disease, the most significant known safety concern is Amyloid-Related Imaging Abnormalities (ARIA) — specifically ARIA-E (cerebral edema) and ARIA-H (microhemorrhages/hemosiderin deposition). These occur in a meaningful proportion of treated patients and require MRI monitoring. Any future repurposing study involving systemic IV dosing would need to assess ARIA risk in a non-Alzheimer's population. This information is included here to compensate for the Blocking data gap (DG001: TFDA warnings/contraindications not yet retrieved).
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+All 10 TxGNN top predictions for Lecanemab involve ocular conditions (9 cataract subtypes and 1 diabetic retinopathy), but zero clinical trials and zero publications support any of them. This is a purely model-generated hypothesis (L5) facing both pharmacokinetic barriers (poor ocular penetration of systemic IV antibody) and mechanistic specificity gaps (no cross-reactivity data with lens crystallins).
+
+**To proceed, the following is needed:**
+
+- **Resolve Blocking data gap (DG001):** Retrieve TFDA package insert / SmPC to complete safety profiling before any S1 evaluation
+- **Resolve High data gap (DG002):** Obtain full DrugBank MOA data to confirm pharmacological basis for ocular repurposing
+- **Preclinical ocular PK study:** Determine whether Lecanemab — or a modified intravitreal formulation — can achieve therapeutic concentrations in aqueous humor or lens tissue
+- **Cross-reactivity characterization:** Assess whether Lecanemab's anti-Aβ protofibril binding extends to crystallin aggregates or lens-derived Aβ-like peptides
+- **Prioritize diabetic retinopathy (Rank 10) over diabetic cataract:** Among all 10 predictions, diabetic retinopathy has the strongest preclinical mechanistic support — documented Aβ deposits in diabetic retinal ganglion cells, elevated BACE1 in DR patients, and protective effects of anti-Aβ antibodies in rodent DR models. If any wet-lab or clinical investigation is to follow, that indication represents a more scientifically defensible starting point.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

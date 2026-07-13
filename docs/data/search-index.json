@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16",
-  "drug_count": 710,
-  "indication_count": 2500,
+  "generated": "2026-07-13",
+  "drug_count": 724,
+  "indication_count": 2518,
   "drugs": [
     {
       "name": "Abacavir",
@@ -15302,6 +15302,14 @@
       ]
     },
     {
+      "name": "Dacomitinib",
+      "slug": "dacomitinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Dalbavancin Hydrochloride",
       "slug": "dalbavancin-hydrochloride",
       "brands": [
@@ -15413,6 +15421,14 @@
       ]
     },
     {
+      "name": "Dalbavancin",
+      "slug": "dalbavancin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Damoctocog Alfa Pegol",
       "slug": "damoctocog-alfa-pegol",
       "brands": [
@@ -15522,6 +15538,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Damoctocog Alfa Pegol",
+      "slug": "damoctocog_alfa_pegol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Dapagliflozin",
@@ -15968,6 +15992,14 @@
       ]
     },
     {
+      "name": "Darbepoetin Alfa",
+      "slug": "darbepoetin_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Darifenacin Hydrobromide",
       "slug": "darifenacin-hydrobromide",
       "brands": [
@@ -16077,6 +16109,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Darifenacin",
+      "slug": "darifenacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Darolutamide",
@@ -16199,103 +16239,33 @@
       "level": "L5",
       "indications": [
         {
-          "name": "HIV infectious disease",
-          "score": 99.98,
+          "name": "Congenital Human Immunodeficiency Virus | **L1** | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "feline acquired immunodeficiency syndrome",
-          "score": 99.97,
+          "name": "AIDS Related Complex | L2 | Research Question",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "simian immunodeficiency virus infection",
-          "score": 99.97,
+          "name": "Simian Immunodeficiency Virus Infection | L4 | Research Question (animal model only)",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
-          "score": 99.97,
+          "name": "Feline Acquired Immunodeficiency Syndrome | L5 | **Hold** — false positive (human HIV trial mismatched by semantic similarity)",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "AIDS",
-          "score": 99.58,
+          "name": "Neurodevelopmental disorder with ataxic gait / absent speech | L5 | **Hold** — no biological rationale; graph topology artifact",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "obsolete familial combined hyperlipidemia",
-          "score": 99.19,
-          "level": "L5"
-        },
-        {
-          "name": "congenital human immunodeficiency virus",
-          "score": 98.97,
-          "level": "L5"
-        },
-        {
-          "name": "AIDS related complex",
-          "score": 98.97,
-          "level": "L5"
-        },
-        {
-          "name": "fibroma of prostate",
-          "score": 97.74,
-          "level": "L5"
-        },
-        {
-          "name": "Brenner tumor",
-          "score": 97.53,
-          "level": "L5"
-        },
-        {
-          "name": "benign reproductive system neoplasm",
-          "score": 97.52,
-          "level": "L5"
-        },
-        {
-          "name": "benign prostate phyllodes tumor",
-          "score": 97.35,
-          "level": "L5"
-        },
-        {
-          "name": "male reproductive organ cancer",
-          "score": 96.83,
-          "level": "L5"
-        },
-        {
-          "name": "prostate cancer/brain cancer susceptibility",
-          "score": 96.25,
-          "level": "L5"
-        },
-        {
-          "name": "prostate leiomyoma",
-          "score": 96.24,
-          "level": "L5"
-        },
-        {
-          "name": "breast fibrocystic disease",
-          "score": 92.38,
-          "level": "L5"
-        },
-        {
-          "name": "chronic hepatitis C virus infection",
-          "score": 91.23,
-          "level": "L5"
-        },
-        {
-          "name": "benign mammary dysplasia",
-          "score": 91.05,
-          "level": "L5"
-        },
-        {
-          "name": "apocrine adenosis of breast",
-          "score": 91.01,
-          "level": "L5"
-        },
-        {
-          "name": "blunt duct adenosis of breast",
-          "score": 91.01,
+          "name": "Familial Combined Hyperlipidemia (obsolete term) | L5 | **Hold** — obsolete ontology term; lipid effect is an adverse reaction, not a therapeutic target",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -16410,6 +16380,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Dasatinib",
+      "slug": "dasatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Daunorubicin",
@@ -17536,7 +17514,7 @@
         "Ozurdex"
       ],
       "original": "Treatment of multiple myeloma.",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "alopecia areata",
@@ -17752,6 +17730,14 @@
       ]
     },
     {
+      "name": "Dexmedetomidine",
+      "slug": "dexmedetomidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Dexrazoxane Hydrochloride",
       "slug": "dexrazoxane-hydrochloride",
       "brands": [
@@ -17863,6 +17849,14 @@
       ]
     },
     {
+      "name": "Dexrazoxane",
+      "slug": "dexrazoxane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Dibotermin Alfa",
       "slug": "dibotermin-alfa",
       "brands": [
@@ -17884,13 +17878,21 @@
       ]
     },
     {
+      "name": "Dibotermin Alfa",
+      "slug": "dibotermin_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Diflunisal",
       "slug": "diflunisal",
       "brands": [
         "Attrogy"
       ],
       "original": "Attrogy is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (ATTRv) in adult patients with stage 1 or stage 2 polyneuropathy.",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "osteoarthritis susceptibility",
@@ -18106,6 +18108,14 @@
       ]
     },
     {
+      "name": "Dimethyl Fumarate",
+      "slug": "dimethyl_fumarate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Diroximel Fumarate (Biib098)",
       "slug": "diroximel-fumarate-biib098",
       "brands": [
@@ -18215,6 +18225,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Diroximel Fumarate",
+      "slug": "diroximel_fumarate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Docetaxel",
@@ -34820,7 +34838,7 @@
         "Takhzyro"
       ],
       "original": "Takhzyro is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in patients aged 2 years and older.",
-      "level": "L1",
+      "level": "L5",
       "indications": [
         {
           "name": "C1 inhibitor deficiency",
@@ -35258,6 +35276,14 @@
       ]
     },
     {
+      "name": "Larotrectinib",
+      "slug": "larotrectinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Lasmiditan Succinate",
       "slug": "lasmiditan-succinate",
       "brands": [
@@ -35367,6 +35393,14 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Lasmiditan",
+      "slug": "lasmiditan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Latanoprost",
@@ -35924,6 +35958,14 @@
       ]
     },
     {
+      "name": "Lefamulin",
+      "slug": "lefamulin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Leflunomide",
       "slug": "leflunomide",
       "brands": [
@@ -36265,7 +36307,7 @@
         "Keppra"
       ],
       "original": "Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Keppra is indicat...",
-      "level": "L2",
+      "level": "L5",
       "indications": [
         {
           "name": "visual epilepsy",
@@ -36379,103 +36421,73 @@
       "level": "L5",
       "indications": [
         {
-          "name": "juvenile onset Parkinson disease 19A",
-          "score": 99.66,
+          "name": "Rasmussen Subacute Encephalitis | 99.06% | L5 | **Hold**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hereditary late onset Parkinson disease",
-          "score": 99.55,
+          "name": "PLA2G6-Associated Neurodegeneration | 98.75% | L3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "atypical juvenile parkinsonism",
-          "score": 99.2,
+          "name": "Myelitis | 98.47% | L4 | **Hold**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "X-linked parkinsonism-spasticity syndrome",
-          "score": 99.17,
+          "name": "Transaldolase Deficiency | 98.20% | L5 | **Hold**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Rasmussen subacute encephalitis",
-          "score": 99.06,
+          "name": "Paralysis Agitans, Juvenile (Hunt) | 98.03% | L3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "PLA2G6-associated neurodegeneration",
-          "score": 98.75,
+          "name": "Fructose-1,6-bisphosphatase Deficiency | 97.81% | L5 | **Hold**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "myelitis",
-          "score": 98.47,
+          "name": "Progressive Supranuclear Palsy-CBS | 97.58% | L3 | **Research Question**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "hemiparkinsonism-hemiatrophy syndrome",
-          "score": 98.28,
+          "name": "Lewy Body Dementia | 97.25% | L3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "transaldolase deficiency",
-          "score": 98.2,
+          "name": "Multiple System Atrophy, Parkinsonian Type | 97.02% | L3 | **Proceed with Guardrails**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "Parkinson disease",
-          "score": 98.13,
+          "name": "X-linked ID-Ataxia-Apraxia Syndrome | 96.46% | L4 | **Research Question**",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "parkinsonian-pyramidal syndrome",
-          "score": 98.13,
+          "name": "**Lewy Body Dementia** | L3 | Tier-1 systematic review + DLB Consortium guidelines support conditional motor use; active trials",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "paralysis agitans, juvenile, of Hunt",
-          "score": 98.03,
+          "name": "**MSA, Parkinsonian Type** | L3 | Direct case evidence (2024); active Phase 1/2 CARBIDOH trial; ~30% initial response rate in n=100 cohort",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "fructose-1,6-bisphosphatase deficiency",
-          "score": 97.81,
+          "name": "**PLA2G6-Associated Neurodegeneration** | L3 | Retrospective cohort + multiple case series; direct mechanistic link via nigrostriatal degeneration",
+          "score": 99.0,
           "level": "L5"
         },
         {
-          "name": "progressive supranuclear palsy-corticobasal syndrome",
-          "score": 97.58,
-          "level": "L5"
-        },
-        {
-          "name": "Lewy body dementia",
-          "score": 97.25,
-          "level": "L5"
-        },
-        {
-          "name": "early-onset parkinsonism-intellectual disability syndrome",
-          "score": 97.11,
-          "level": "L5"
-        },
-        {
-          "name": "multiple system atrophy, parkinsonian type",
-          "score": 97.02,
-          "level": "L5"
-        },
-        {
-          "name": "postencephalitic Parkinson disease",
-          "score": 96.56,
-          "level": "L5"
-        },
-        {
-          "name": "X-linked intellectual disability-ataxia-apraxia syndrome",
-          "score": 96.46,
-          "level": "L5"
-        },
-        {
-          "name": "lethal infantile mitochondrial myopathy",
-          "score": 96.27,
+          "name": "**Paralysis Agitans, Juvenile (Hunt)** | L3 | Juvenile-onset PD: direct levodopa indication; highest dyskinesia risk requires special monitoring",
+          "score": 99.0,
           "level": "L5"
         }
       ]
@@ -70566,12 +70578,56 @@
   ],
   "indications": [
     {
+      "name": "**Lewy Body Dementia** | L3 | Tier-1 systematic review + DLB Consortium guidelines support conditional motor use; active trials",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "**MSA, Parkinsonian Type** | L3 | Direct case evidence (2024); active Phase 1/2 CARBIDOH trial; ~30% initial response rate in n=100 cohort",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "**Myeloid leukemia** | **91.01%** | **L3** | **Research Question**",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Baricitinib",
           "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "**PLA2G6-Associated Neurodegeneration** | L3 | Retrospective cohort + multiple case series; direct mechanistic link via nigrostriatal degeneration",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "**Paralysis Agitans, Juvenile (Hunt)** | L3 | Juvenile-onset PD: direct levodopa indication; highest dyskinesia risk requires special monitoring",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
           "score": 99.0
         }
       ]
@@ -70952,7 +71008,7 @@
     },
     {
       "name": "AIDS",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -70980,11 +71036,6 @@
           "score": 99.7
         },
         {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 99.58
-        },
-        {
           "drug": "Elvitegravir",
           "slug": "elvitegravir",
           "score": 99.55
@@ -71003,12 +71054,28 @@
           "drug": "Mycophenolate Mofetil",
           "slug": "mycophenolate-mofetil",
           "score": 99.25
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.21
+        }
+      ]
+    },
+    {
+      "name": "AIDS Related Complex | L2 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
+          "score": 99.0
         }
       ]
     },
     {
       "name": "AIDS related complex",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -71041,11 +71108,6 @@
           "score": 98.98
         },
         {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 98.97
-        },
-        {
           "drug": "Doravirine",
           "slug": "doravirine",
           "score": 98.75
@@ -71059,6 +71121,11 @@
           "drug": "Cobicistat",
           "slug": "cobicistat",
           "score": 98.33
+        },
+        {
+          "drug": "Lopinavir",
+          "slug": "lopinavir",
+          "score": 98.24
         }
       ]
     },
@@ -71573,7 +71640,7 @@
     },
     {
       "name": "Brenner tumor",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -72031,6 +72098,17 @@
         {
           "drug": "Baricitinib",
           "slug": "baricitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Congenital Human Immunodeficiency Virus | **L1** | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
           "score": 99.0
         }
       ]
@@ -72567,6 +72645,17 @@
       ]
     },
     {
+      "name": "Familial Combined Hyperlipidemia (obsolete term) | L5 | **Hold** — obsolete ontology term; lipid effect is an adverse reaction, not a therapeutic target",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Familial encephalopathy w/ neuroserpin inclusion bodies | 99.93% | L5 | Hold | ER conformational disease (SERPINI1 misfolding) — not lysosomal; cerliponase alfa cannot clear ER aggregates",
       "drug_count": 1,
       "drugs": [
@@ -72589,12 +72678,34 @@
       ]
     },
     {
+      "name": "Feline Acquired Immunodeficiency Syndrome | L5 | **Hold** — false positive (human HIV trial mismatched by semantic similarity)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Focal Stiff Limb Syndrome | 97.92% | ✗ No mechanistic basis — anti-GAD65 autoimmune pathway unrelated to SGLT2",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Canagliflozin",
           "slug": "canagliflozin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Fructose-1,6-bisphosphatase Deficiency | 97.81% | L5 | **Hold**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
           "score": 99.0
         }
       ]
@@ -72959,7 +73070,7 @@
     },
     {
       "name": "HIV infectious disease",
-      "drug_count": 62,
+      "drug_count": 61,
       "drugs": [
         {
           "drug": "Atazanavir (As Sulfate)",
@@ -72975,11 +73086,6 @@
           "drug": "Tipranavir",
           "slug": "tipranavir",
           "score": 99.99
-        },
-        {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 99.98
         },
         {
           "drug": "Rilpivirine Hydrochloride",
@@ -73010,6 +73116,11 @@
           "drug": "Ritonavir",
           "slug": "ritonavir",
           "score": 99.96
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.95
         }
       ]
     },
@@ -74230,8 +74341,19 @@
       ]
     },
     {
+      "name": "Lewy Body Dementia | 97.25% | L3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Lewy body dementia",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -74247,11 +74369,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 98.83
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 97.25
         },
         {
           "drug": "Opicapone",
@@ -74709,6 +74826,17 @@
       ]
     },
     {
+      "name": "Multiple System Atrophy, Parkinsonian Type | 97.02% | L3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Mycoplasma pneumoniae pneumonia",
       "drug_count": 2,
       "drugs": [
@@ -74731,6 +74859,17 @@
         {
           "drug": "Carbidopa",
           "slug": "carbidopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Myelitis | 98.47% | L4 | **Hold**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
           "score": 99.0
         }
       ]
@@ -74775,6 +74914,17 @@
         {
           "drug": "Caffeine",
           "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Neurodevelopmental disorder with ataxic gait / absent speech | L5 | **Hold** — no biological rationale; graph topology artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
           "score": 99.0
         }
       ]
@@ -75004,8 +75154,19 @@
       ]
     },
     {
+      "name": "PLA2G6-Associated Neurodegeneration | 98.75% | L3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "PLA2G6-associated neurodegeneration",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Rotigotine",
@@ -75026,11 +75187,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.71
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.75
         },
         {
           "drug": "Opicapone",
@@ -75148,6 +75304,17 @@
       ]
     },
     {
+      "name": "Paralysis Agitans, Juvenile (Hunt) | 98.03% | L3 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Paralysis agitans, juvenile, of Hunt | 95.60% | L5 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -75160,7 +75327,7 @@
     },
     {
       "name": "Parkinson disease",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Entacapone",
@@ -75176,11 +75343,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.4
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.13
         },
         {
           "drug": "Opicapone",
@@ -75548,6 +75710,17 @@
       ]
     },
     {
+      "name": "Progressive Supranuclear Palsy-CBS | 97.58% | L3 | **Research Question**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Prostatic Urethra Urothelial Carcinoma | 98.27% | ⚠️ Moderate — EpCAM-positive epithelial; rare anatomical site | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -75705,8 +75878,19 @@
       ]
     },
     {
+      "name": "Rasmussen Subacute Encephalitis | 99.06% | L5 | **Hold**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Rasmussen subacute encephalitis",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -75722,11 +75906,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.56
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.06
         },
         {
           "drug": "Opicapone",
@@ -76240,6 +76419,17 @@
       ]
     },
     {
+      "name": "Simian Immunodeficiency Virus Infection | L4 | Research Question (animal model only)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Singleton-Merten syndrome",
       "drug_count": 1,
       "drugs": [
@@ -76589,6 +76779,17 @@
           "drug": "Dexmedetomidine Hydrochloride",
           "slug": "dexmedetomidine-hydrochloride",
           "score": 97.69
+        }
+      ]
+    },
+    {
+      "name": "Transaldolase Deficiency | 98.20% | L5 | **Hold**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
         }
       ]
     },
@@ -77075,6 +77276,17 @@
       ]
     },
     {
+      "name": "X-linked ID-Ataxia-Apraxia Syndrome | 96.46% | L4 | **Research Question**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levodopa",
+          "slug": "levodopa",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "X-linked adrenoleukodystrophy",
       "drug_count": 3,
       "drugs": [
@@ -77151,7 +77363,7 @@
     },
     {
       "name": "X-linked intellectual disability-ataxia-apraxia syndrome",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -77162,11 +77374,6 @@
           "drug": "Entacapone",
           "slug": "entacapone",
           "score": 98.96
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 96.46
         },
         {
           "drug": "Opicapone",
@@ -77252,7 +77459,7 @@
     },
     {
       "name": "X-linked parkinsonism-spasticity syndrome",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -77268,11 +77475,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.74
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.17
         },
         {
           "drug": "Opicapone",
@@ -81127,7 +81329,7 @@
     },
     {
       "name": "apocrine adenosis of breast",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Etravirine",
@@ -82033,7 +82235,7 @@
     },
     {
       "name": "atypical juvenile parkinsonism",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -82054,11 +82256,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.72
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.2
         },
         {
           "drug": "Opicapone",
@@ -83086,7 +83283,7 @@
     },
     {
       "name": "benign mammary dysplasia",
-      "drug_count": 13,
+      "drug_count": 12,
       "drugs": [
         {
           "drug": "Etravirine",
@@ -83704,7 +83901,7 @@
     },
     {
       "name": "benign prostate phyllodes tumor",
-      "drug_count": 26,
+      "drug_count": 25,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -83752,9 +83949,9 @@
           "score": 98.06
         },
         {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 97.35
+          "drug": "Apalutamide",
+          "slug": "apalutamide",
+          "score": 97.21
         }
       ]
     },
@@ -83802,7 +83999,7 @@
     },
     {
       "name": "benign reproductive system neoplasm",
-      "drug_count": 30,
+      "drug_count": 29,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -84539,7 +84736,7 @@
     },
     {
       "name": "blunt duct adenosis of breast",
-      "drug_count": 13,
+      "drug_count": 12,
       "drugs": [
         {
           "drug": "Etravirine",
@@ -84587,9 +84784,9 @@
           "score": 91.84
         },
         {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 91.01
+          "drug": "Sevelamer",
+          "slug": "sevelamer",
+          "score": 89.91
         }
       ]
     },
@@ -85253,7 +85450,7 @@
     },
     {
       "name": "breast fibrocystic disease",
-      "drug_count": 20,
+      "drug_count": 19,
       "drugs": [
         {
           "drug": "Etravirine",
@@ -87907,7 +88104,7 @@
     },
     {
       "name": "chronic hepatitis C virus infection",
-      "drug_count": 31,
+      "drug_count": 30,
       "drugs": [
         {
           "drug": "Ledipasvir",
@@ -89820,7 +90017,7 @@
     },
     {
       "name": "congenital human immunodeficiency virus",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -89853,11 +90050,6 @@
           "score": 98.98
         },
         {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 98.97
-        },
-        {
           "drug": "Doravirine",
           "slug": "doravirine",
           "score": 98.75
@@ -89871,6 +90063,11 @@
           "drug": "Cobicistat",
           "slug": "cobicistat",
           "score": 98.33
+        },
+        {
+          "drug": "Lopinavir",
+          "slug": "lopinavir",
+          "score": 98.24
         }
       ]
     },
@@ -93524,7 +93721,7 @@
     },
     {
       "name": "early-onset parkinsonism-intellectual disability syndrome",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -93540,11 +93737,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 98.79
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 97.11
         },
         {
           "drug": "Opicapone",
@@ -96559,7 +96751,7 @@
     },
     {
       "name": "feline acquired immunodeficiency syndrome",
-      "drug_count": 56,
+      "drug_count": 55,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -96575,11 +96767,6 @@
           "drug": "Etravirine",
           "slug": "etravirine",
           "score": 99.98
-        },
-        {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 99.97
         },
         {
           "drug": "Rilpivirine Hydrochloride",
@@ -96609,6 +96796,11 @@
         {
           "drug": "Cobicistat",
           "slug": "cobicistat",
+          "score": 99.92
+        },
+        {
+          "drug": "Emtricitabine",
+          "slug": "emtricitabine",
           "score": 99.92
         }
       ]
@@ -97008,7 +97200,7 @@
     },
     {
       "name": "fibroma of prostate",
-      "drug_count": 31,
+      "drug_count": 30,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -97647,7 +97839,7 @@
     },
     {
       "name": "fructose-1,6-bisphosphatase deficiency",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -97663,11 +97855,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 98.82
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 97.81
         },
         {
           "drug": "Opicapone",
@@ -99734,7 +99921,7 @@
     },
     {
       "name": "hemiparkinsonism-hemiatrophy syndrome",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -99750,11 +99937,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.15
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.28
         },
         {
           "drug": "Opicapone",
@@ -101059,7 +101241,7 @@
     },
     {
       "name": "hereditary late onset Parkinson disease",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -101080,11 +101262,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.9
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.55
         },
         {
           "drug": "Opicapone",
@@ -105670,7 +105847,7 @@
     },
     {
       "name": "juvenile onset Parkinson disease 19A",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -105691,11 +105868,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.89
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 99.66
         },
         {
           "drug": "Opicapone",
@@ -106334,7 +106506,7 @@
     },
     {
       "name": "lethal infantile mitochondrial myopathy",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Entacapone",
@@ -106345,11 +106517,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 98.71
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 96.27
         },
         {
           "drug": "Opicapone",
@@ -108105,7 +108272,7 @@
     },
     {
       "name": "male reproductive organ cancer",
-      "drug_count": 21,
+      "drug_count": 20,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -111130,17 +111297,6 @@
       ]
     },
     {
-      "name": "multiple system atrophy, parkinsonian type",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 97.02
-        }
-      ]
-    },
-    {
       "name": "muscular hypertrophy-hepatomegaly-polyhydramnios syndrome",
       "drug_count": 1,
       "drugs": [
@@ -111258,7 +111414,7 @@
     },
     {
       "name": "myelitis",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -111274,11 +111430,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.32
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.47
         },
         {
           "drug": "Opicapone",
@@ -112837,7 +112988,7 @@
     },
     {
       "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
-      "drug_count": 55,
+      "drug_count": 54,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -112848,11 +112999,6 @@
           "drug": "Atazanavir (As Sulfate)",
           "slug": "atazanavir-as-sulfate",
           "score": 99.98
-        },
-        {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 99.97
         },
         {
           "drug": "Etravirine",
@@ -112888,6 +113034,11 @@
           "drug": "Ritonavir",
           "slug": "ritonavir",
           "score": 99.92
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.91
         }
       ]
     },
@@ -113919,7 +114070,7 @@
     },
     {
       "name": "obsolete familial combined hyperlipidemia",
-      "drug_count": 48,
+      "drug_count": 47,
       "drugs": [
         {
           "drug": "Simvastatin",
@@ -116219,7 +116370,7 @@
     },
     {
       "name": "paralysis agitans, juvenile, of Hunt",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Entacapone",
@@ -116235,11 +116386,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.25
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.03
         },
         {
           "drug": "Opicapone",
@@ -116574,7 +116720,7 @@
     },
     {
       "name": "parkinsonian-pyramidal syndrome",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -116590,11 +116736,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.34
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.13
         },
         {
           "drug": "Opicapone",
@@ -119220,17 +119361,6 @@
       ]
     },
     {
-      "name": "postencephalitic Parkinson disease",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 96.56
-        }
-      ]
-    },
-    {
       "name": "posteroinferior myocardial infarction",
       "drug_count": 4,
       "drugs": [
@@ -120728,17 +120858,12 @@
     },
     {
       "name": "progressive supranuclear palsy-corticobasal syndrome",
-      "drug_count": 3,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Entacapone",
           "slug": "entacapone",
           "score": 99.04
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 97.58
         },
         {
           "drug": "Botulinum Toxin Type A",
@@ -120792,7 +120917,7 @@
     },
     {
       "name": "prostate cancer/brain cancer susceptibility",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -120840,9 +120965,9 @@
           "score": 98.12
         },
         {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 96.25
+          "drug": "Zidovudine",
+          "slug": "zidovudine",
+          "score": 94.27
         }
       ]
     },
@@ -120894,7 +121019,7 @@
     },
     {
       "name": "prostate leiomyoma",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -126127,7 +126252,7 @@
     },
     {
       "name": "simian immunodeficiency virus infection",
-      "drug_count": 57,
+      "drug_count": 56,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -126143,11 +126268,6 @@
           "drug": "Etravirine",
           "slug": "etravirine",
           "score": 99.98
-        },
-        {
-          "drug": "Darunavir",
-          "slug": "darunavir",
-          "score": 99.97
         },
         {
           "drug": "Rilpivirine Hydrochloride",
@@ -126177,6 +126297,11 @@
         {
           "drug": "Cobicistat",
           "slug": "cobicistat",
+          "score": 99.92
+        },
+        {
+          "drug": "Emtricitabine",
+          "slug": "emtricitabine",
           "score": 99.92
         }
       ]
@@ -129576,7 +129701,7 @@
     },
     {
       "name": "transaldolase deficiency",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
         {
           "drug": "Tolcapone",
@@ -129592,11 +129717,6 @@
           "drug": "Rasagiline",
           "slug": "rasagiline",
           "score": 99.19
-        },
-        {
-          "drug": "Levodopa",
-          "slug": "levodopa",
-          "score": 98.2
         },
         {
           "drug": "Opicapone",

@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Denosumab
-description: "Denosumab drug repurposing predictions from TxGNN. Evidence level L5 with 52 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 167
+parent: 僅模型預測 (L5)
+nav_order: 177
 evidence_level: L5
-indication_count: 52
+indication_count: 10
 ---
 
 # Denosumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **52**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Denosumab: From Osteoporosis to Severe Nonproliferative Diabetic Retinopathy
+
+## One-Sentence Summary
+
+Denosumab (Prolia®/Xgeva®) is a fully human monoclonal antibody targeting RANKL, globally approved for osteoporosis, bone metastases from solid tumors, and giant cell tumor of bone; it is not currently registered in Taiwan.
+The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**, achieving a prediction score of **99.63%**.
+Currently, **no clinical trials or published literature** directly support this specific repurposing direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Denosumab |
-| DrugBank ID | [DB06643](https://go.drugbank.com/drugs/DB06643) |
-| Brand Names (EU) | Degevma, Vevzuo, Xbryk |
+| Item | Content |
+|------|---------|
+| Original Indication | Not registered in Taiwan; globally approved for osteoporosis, bone metastases, and giant cell tumor of bone |
+| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+| TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| Predicted Indications | 52 |
-| Top Prediction Score | 99.63% |
+| Taiwan Market Status | ✗ Not Registered |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone (see section 5.1). Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
+Currently, detailed mechanism of action data is not available from the evidence pack. Based on known information, Denosumab is a fully human monoclonal antibody that binds and neutralizes RANKL (receptor activator of nuclear factor kappa-B ligand), a key cytokine regulating osteoclast formation, activation, and survival. By blocking RANKL from engaging its receptor RANK, Denosumab suppresses osteoclast-mediated bone resorption — the basis for its efficacy in osteoporosis and bone-related oncologic conditions.
 
----
+The theoretical mechanistic bridge proposed by TxGNN connects the RANKL/OPG axis to diabetic retinopathy: RANKL signaling may theoretically regulate pericyte apoptosis and inflammatory responses within retinal microvasculature, processes that are central to the progression of diabetic retinopathy. Blocking RANKL could, in principle, attenuate retinal vascular inflammation and protect pericyte integrity.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | severe nonproliferative diabetic retinopathy | 99.63% | DL |
-| 2 | drug-induced osteoporosis | 99.36% | DL |
-| 3 | diabetic retinopathy | 99.23% | DL |
-| 4 | dermatitis | 97.25% | DL |
-| 5 | diabetic cataract | 96.66% | DL |
-| 6 | acrodermatitis chronica atrophicans | 96.23% | DL |
-| 7 | neonatal dermatomyositis | 95.81% | DL |
-| 8 | hydroa vacciniforme, familial | 95.20% | DL |
-| 9 | secondary interstitial lung disease specific to childhood associated with a connective tissue disease | 94.97% | DL |
-| 10 | acne keloid | 94.78% | DL |
-| 11 | amyopathic dermatomyositis | 94.67% | DL |
-| 12 | nuclear senile cataract | 93.96% | DL |
-| 13 | cortical cataract | 93.96% | DL |
-| 14 | senile cataract | 93.78% | DL |
-| 15 | craniostenosis cataract | 93.11% | DL |
-| 16 | mature cataract | 93.11% | DL |
-| 17 | tetanic cataract | 93.11% | DL |
-| 18 | diabetes mellitus type 2 associated cataract | 93.11% | DL |
-| 19 | immature cataract | 93.11% | DL |
-| 20 | primary release disorder of platelets | 92.24% | DL |
-
-*Showing top 20 of 52 predictions.*
+However, this mechanistic link is explicitly characterized as **highly speculative** in the evidence pack. There is no published preclinical animal research or human clinical data validating RANKL blockade as a strategy for severe nonproliferative diabetic retinopathy. The biological plausibility exists at a conceptual level only and has not been subjected to any experimental testing.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered for severe nonproliferative diabetic retinopathy.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available for severe nonproliferative diabetic retinopathy.
 
 ---
 
-## Data Access
+## Cytotoxicity
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Denosumab (as Xgeva®) is approved for oncologic indications including prevention of skeletal-related events from bone metastases and treatment of unresectable giant cell tumor of bone; literature in this evidence pack further references its use in prostate cancer-related bone loss. It is therefore classified as an antineoplastic targeted therapy.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|---------|
+| Cytotoxicity Classification | Targeted therapy (Anti-RANKL human monoclonal antibody; not a conventional cytotoxic agent) |
+| Myelosuppression Risk | Low (not a myelosuppressive agent; principal bone marrow risk is via hypocalcaemia, not direct marrow toxicity) |
+| Emetogenicity Classification | Minimal (biologic injection; emetogenicity not a primary concern) |
+| Monitoring Items | Serum calcium and vitamin D (hypocalcaemia), renal function, dental health assessment (osteonecrosis of the jaw), CBC if concurrent chemotherapy |
+| Handling Protection | Standard biologic/injectable handling precautions; not classified as a conventional cytotoxic requiring cytotoxic handling protocols |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+> **Note:** Taiwan regulatory safety data (TFDA SmPC warnings and contraindications) are unavailable for this drug, as it is not registered in Taiwan. DDI database query returned no results. For clinical decision-making, consult the EMA SmPC for Prolia® or Xgeva®, which documents known risks including hypocalcaemia, osteonecrosis of the jaw, atypical femoral fractures, and serious skin reactions.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Although the TxGNN model assigns a high prediction score of 99.63% for severe nonproliferative diabetic retinopathy, the proposed RANKL/OPG–retinal microvascular mechanistic link is entirely speculative, with zero supporting preclinical or clinical evidence at the time of this assessment (Evidence Level L5).
+
+**To proceed, the following is needed:**
+
+- **Basic science validation:** Preclinical studies (in vitro retinal pericyte models or rodent diabetic retinopathy models) to determine whether RANKL/OPG signaling plays a functional role in retinal vascular disease
+- **Mechanistic data:** Retrieve complete MOA and DrugBank pharmacology data (Data Gap DG002) to assess pathway plausibility more rigorously
+- **Regulatory safety review:** Obtain Taiwan TFDA SmPC or EMA SmPC full text to complete S1 safety screening (Data Gap DG001)
+- **Literature expansion:** Conduct a broader search for basic science papers linking RANKL signaling to retinal pericyte biology, diabetic microangiopathy, or neovascularization — any preclinical signal would upgrade this from L5 to L4 and warrant hypothesis-driven study design
+- **Indirect evidence review:** PMID 38899553 (Cohort/RWE, 2024) reports that Denosumab reduces microvascular complications including retinopathy in T2DM patients compared to bisphosphonates — this indirect signal from the rank-2 indication (diabetic retinopathy) should be reviewed as supporting context before completely dismissing the hypothesis
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

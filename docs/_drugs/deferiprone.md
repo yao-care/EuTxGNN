@@ -1,132 +1,104 @@
 ---
 layout: default
 title: Deferiprone
-description: "Deferiprone drug repurposing predictions from TxGNN. Evidence level L5 with 56 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 163
+parent: 僅模型預測 (L5)
+nav_order: 173
 evidence_level: L5
-indication_count: 56
+indication_count: 10
 ---
 
 # Deferiprone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **56**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Deferiprone: From Transfusional Iron Overload to Hepatic Porphyria
+
+## One-Sentence Summary
+
+Deferiprone is an oral iron chelator established for treating transfusional iron overload in patients with thalassemia major, targeting toxic intracellular iron accumulation in the heart, liver, and other organs.
+The TxGNN model predicts it may be effective for **Hepatic Porphyria**, particularly subtypes where excess hepatic iron worsens porphyrin-driven oxidative damage.
+Currently **0 registered clinical trials** and **2 preclinical publications** support this direction, placing the evidence at **L4** (mechanism/animal model level).
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Deferiprone |
-| DrugBank ID | [DB08826](https://go.drugbank.com/drugs/DB08826) |
-| Brand Names (EU) | Deferiprone Lipomed, Ferriprox |
-| Evidence Level | L5 |
-| Predicted Indications | 56 |
-| Top Prediction Score | 99.20% |
+| Item | Content |
+|------|---------|
+| Original Indication | Transfusional iron overload in thalassemia major |
+| Predicted New Indication | Hepatic Porphyria |
+| TxGNN Prediction Score | 99.20% |
+| Evidence Level | L4 |
+| EU Market Status | Not marketed (0 licenses in regulatory database) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why Is This Prediction Reasonable?
 
-Deferiprone Lipomed monotherapy is indicated for the treatment of iron overload in patients with thalassaemia major when current chelation therapy is contraindicated or inadequate. Deferiprone Lipomed in combination with another chelator is indicated in patients with thalassaemia major when monotherapy with any iron chelator is ineffective, or when prevention or treatment of life-threatening consequences of iron overload justifies rapid or intensive correction.
+Detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Deferiprone (known as L1) is an oral bidentate iron chelator that binds ferric iron (Fe³⁺) in a 3:1 molar ratio and forms a stable complex excreted renally. Its key pharmacological advantage over deferoxamine is membrane permeability: deferiprone enters cells and removes iron from intracellular compartments, including cardiac myocytes, hepatocytes, and erythroid precursors. This property underlies its proven superiority over deferoxamine in clearing myocardial iron in thalassemia major patients.
 
----
+In hepatic porphyria — specifically **Congenital Erythropoietic Porphyria (CEP)** and **Porphyria Cutanea Tarda (PCT)** — hepatic iron overload functions as a pathogenic cofactor. Excess intracellular iron catalyzes Fenton-type reactions, generating reactive oxygen species that amplify oxidative damage from accumulating non-physiological porphyrin isomers. This worsens both skin photosensitivity and chronic hemolytic anemia. Deferiprone's ability to chelate intracellular iron provides a mechanistically coherent rationale: reducing the iron substrate for Fenton chemistry could attenuate the porphyrin-iron oxidative cascade in iron-overloaded subtypes.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | hepatic porphyria | 99.20% | DL |
-| 2 | hepatopulmonary syndrome | 99.20% | DL |
-| 3 | primitive portal vein thrombosis | 99.20% | DL |
-| 4 | early-onset familial noncirrhotic portal hypertension | 99.20% | DL |
-| 5 | hepatoportal sclerosis | 99.20% | DL |
-| 6 | idiopathic copper-associated cirrhosis | 99.20% | DL |
-| 7 | hemoglobinopathy | 99.16% | DL |
-| 8 | pyruvate kinase deficiency of red cells | 99.15% | DL |
-| 9 | beta-thalassemia with other manifestations | 99.03% | DL |
-| 10 | pyropoikilocytosis, hereditary | 99.02% | DL |
-| 11 | partial deletion of the short arm of chromosome 16 | 98.92% | DL |
-| 12 | hemolytic anemia due to glucophosphate isomerase deficiency | 98.79% | DL |
-| 13 | chronic hepatitis C virus infection | 98.44% | DL |
-| 14 | obsolete familial combined hyperlipidemia | 97.16% | DL |
-| 15 | HIV infectious disease | 96.66% | DL |
-| 16 | familial hyperlipidemia | 96.50% | DL |
-| 17 | homozygous familial hypercholesterolemia | 96.42% | DL |
-| 18 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 96.20% | DL |
-| 19 | paratenonitis | 96.03% | DL |
-| 20 | calcific tendinitis | 95.95% | DL |
-
-*Showing top 20 of 56 predictions.*
+However, **"hepatic porphyria" is a heterogeneous diagnostic category** that includes diseases with fundamentally different pathophysiology. The mechanistic rationale applies selectively to iron-driven subtypes (CEP, PCT). Acute hepatic porphyrias — Acute Intermittent Porphyria (AIP), Variegate Porphyria (VP), and Hereditary Coproporphyria (HCP) — are triggered by enzyme deficiencies in the heme synthesis pathway and are not primarily iron-mediated. Deferiprone is unlikely to provide benefit in these subtypes and the prediction should be interpreted with this heterogeneity in mind.
 
 ---
 
-## About TxGNN Predictions
+## Literature Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+| PMID | Year | Type | Journal | Key Findings |
+|------|------|------|---------|-------------|
+| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Animal model + possible case series | *Blood* | Iron chelation rescued hemolytic anemia and skin photosensitivity in a CEP mouse model (UROS-deficient); results suggest that iron reduction — targeting the Fenton cascade — may be a viable therapeutic strategy in CEP |
+| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Animal experiment | *Hepatology* | Deferiprone reduced hepatic uroporphyrin (URO) accumulation in Hfe⁻/⁻ mice given ALA (a PCT model); efficacy was comparable to iron-deficient diet, validating iron depletion as a mechanistic intervention in PCT-like uroporphyria |
 
 ---
 
-## Clinical Validation Needed
+## Safety Considerations
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
+Please refer to the SmPC for safety information.
 
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+> **Note:** Two data gaps have been identified that affect safety evaluation:
+> - **DG001 (Blocking):** TFDA labeling warnings and contraindications are unavailable — full S1 safety screening cannot be completed.
+> - **DG002 (High):** MOA documentation is absent — limits mechanistic link analysis.
 
 ---
 
-## Data Access
+## Conclusion and Next Steps
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+**Decision: Hold**
 
----
+**Rationale:**
+All available evidence is preclinical (L4: animal models only), and the target population within "hepatic porphyria" is narrow — the mechanistic rationale holds for iron-overloaded subtypes (CEP, PCT) but not for acute hepatic porphyrias. Without human clinical data and with critical safety data gaps unresolved, this candidate is not ready to advance.
 
-## Citation
+**To proceed, the following is needed:**
+- **Subtype specificity:** Restrict the repurposing target to CEP and/or PCT with documented iron overload, rather than the broader "hepatic porphyria" grouping
+- **Safety gap resolution (DG001):** Retrieve SmPC or TFDA labeling to complete contraindication and warning review
+- **MOA documentation (DG002):** Obtain structured DrugBank MOA data to strengthen the mechanistic rationale dossier
+- **Human case evidence:** Identify published case reports or retrospective series of CEP/PCT patients who received deferiprone, to establish whether preclinical benefits translate clinically
+- **Biomarker eligibility criteria:** Define serum ferritin and transferrin saturation thresholds as inclusion criteria for any future pilot study, ensuring iron overload is confirmed in enrolled patients
+## Disclaimer
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

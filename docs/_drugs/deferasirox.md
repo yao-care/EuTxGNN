@@ -1,132 +1,106 @@
 ---
 layout: default
 title: Deferasirox
-description: "Deferasirox drug repurposing predictions from TxGNN. Evidence level L5 with 53 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 162
+parent: 僅模型預測 (L5)
+nav_order: 172
 evidence_level: L5
-indication_count: 53
+indication_count: 10
 ---
 
 # Deferasirox
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **53**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Deferasirox: From Iron Overload to HIV Infectious Disease
+
+## One-Sentence Summary
+
+Deferasirox is an oral iron chelator established for managing chronic iron overload in transfusion-dependent patients (e.g., beta-thalassemia, sickle cell disease).
+The TxGNN model predicts it may be effective for **HIV Infectious Disease**,
+with **0 clinical trials** and **2 publications** currently supporting this direction — primarily through the hypothesis that iron chelation disrupts HIV Tat-mediated viral transcription.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Deferasirox |
-| DrugBank ID | [DB01609](https://go.drugbank.com/drugs/DB01609) |
-| Brand Names (EU) | Deferasirox Accord, Deferasirox Mylan |
-| Evidence Level | L5 |
-| Predicted Indications | 53 |
-| Top Prediction Score | 99.40% |
+| Item | Content |
+|------|------|
+| Original Indication | Chronic iron overload (no regulatory record captured in current dataset) |
+| Predicted New Indication | HIV Infectious Disease |
+| TxGNN Prediction Score | 99.40% |
+| Evidence Level | L4 |
+| EU Market Status | Not registered (per current dataset) |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Deferasirox Mylan is indicated for  the treatment of chronic iron overload due to frequent blood transfusions (?7 ml/kg/month of packed red blood cells) in patients with beta thalassaemia major aged 6 years and older the treatment of chronic iron overload due to blood transfusions when deferoxamine therapy is contraindicated or inadequate in the following patient groups:  in paediatric patients with beta thalassaemia major with iron overload due to frequent blood transfusions (?7 ml/kg/month of 
+Deferasirox is a tridentate oral iron chelator that selectively binds ferric iron (Fe³⁺). Although detailed MOA data is not available in this dataset, the drug's pharmacological identity is well-established: it reduces labile plasma iron and tissue iron burden by forming stable, soluble iron complexes that are excreted via the feces. It is most commonly used in patients with transfusional hemosiderosis — a complication of repeated blood transfusions in conditions such as beta-thalassemia and myelodysplastic syndromes.
 
----
+Iron has a multifaceted role in HIV pathogenesis. HIV-1 Tat protein — the viral transactivator essential for LTR-driven transcription — has been shown to accumulate in endolysosomes, where intracellular iron concentration modulates its oligomerization state. One 2021 in vitro study (PMID 34550543) demonstrated that elevated endolysosomal iron increases Tat oligomerization and β-catenin expression, thereby suppressing LTR transactivation. Separately, iron serves as a cofactor for ribonucleotide reductase, which is required for dNTP synthesis during viral replication. These observations collectively raise the hypothesis that iron chelation could interfere with HIV replication at multiple nodes.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | HIV infectious disease | 99.40% | DL |
-| 2 | chronic hepatitis C virus infection | 99.39% | DL |
-| 3 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 99.23% | DL |
-| 4 | obsolete familial combined hyperlipidemia | 99.20% | DL |
-| 5 | dermatofibrosarcoma protuberans | 99.11% | DL |
-| 6 | feline acquired immunodeficiency syndrome | 98.96% | DL |
-| 7 | simian immunodeficiency virus infection | 98.96% | DL |
-| 8 | beta-thalassemia with other manifestations | 98.59% | DL |
-| 9 | pyropoikilocytosis, hereditary | 98.55% | DL |
-| 10 | pyruvate kinase deficiency of red cells | 98.50% | DL |
-| 11 | hemoglobinopathy | 98.50% | DL |
-| 12 | sitosterolemia | 98.48% | DL |
-| 13 | Plasmodium falciparum malaria | 98.47% | DL |
-| 14 | homozygous familial hypercholesterolemia | 98.33% | DL |
-| 15 | partial deletion of the short arm of chromosome 16 | 98.26% | DL |
-| 16 | hemolytic anemia due to glucophosphate isomerase deficiency | 98.24% | DL |
-| 17 | gout | 97.16% | DL |
-| 18 | fibroblastic neoplasm | 97.10% | DL |
-| 19 | hepatitis B virus infection | 97.09% | DL |
-| 20 | conventional fibrosarcoma | 96.98% | DL |
-
-*Showing top 20 of 53 predictions.*
+However, this mechanistic link remains directionally ambiguous and unvalidated in human subjects. Removing iron could suppress viral replication under some conditions — but may also impair host immune cell function, potentially worsening HIV outcomes. The TxGNN prediction likely reflects iron's deep integration in the virus–host graph rather than a directly supported clinical hypothesis. No human trials have tested this.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Basic Science / In Vitro | Journal of Neurovirology | Endolysosomal iron promotes HIV-1 Tat oligomerization and β-catenin expression, suppressing LTR transactivation — mechanistic evidence that iron status modulates HIV Tat activity in neural cells |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Drug Review / Editorial | Journal of the American Pharmacists Association | Narrative overview of deferasirox as a new drug approval; no HIV efficacy data; confirms deferasirox's class as an oral iron chelator |
 
 ---
 
-## Data Access
+## Safety Considerations
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Please refer to the SmPC for safety information.
 
 ---
 
-## Citation
+## Conclusion and Next Steps
 
-If using this data, please cite:
+**Decision: Hold**
 
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+**Rationale:**
+The evidence base consists solely of two early-stage publications — one in vitro mechanistic study and one drug review editorial — with no clinical trials and no human data in HIV populations. While the iron–HIV interaction is biologically plausible, the mechanistic direction is unresolved and the safety profile of iron chelation in immunocompromised patients has not been characterized.
+
+**To proceed, the following is needed:**
+- Formal MOA documentation (DrugBank or pharmacological literature) confirming iron chelation mechanism
+- In vitro or animal model studies specifically demonstrating deferasirox suppresses HIV-1 replication at clinically relevant concentrations
+- Clarification of the directional iron–HIV hypothesis: does lower iron help or harm the host immune response?
+- Safety data in HIV-infected or immunocompromised populations (renal function, hepatotoxicity, cytopenias)
+- Recovery of TFDA/EMA regulatory record (SmPC) to identify contraindications relevant to HIV co-morbidities (e.g., renal impairment, concurrent antiretroviral DDI risk)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>

@@ -1,132 +1,116 @@
 ---
 layout: default
 title: Darolutamide
-description: "Darolutamide drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 157
+parent: 僅模型預測 (L5)
+nav_order: 167
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Darolutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Darolutamide: From Prostate Cancer to Homozygous Familial Hypercholesterolemia
+
+## One-Sentence Summary
+
+Darolutamide is a next-generation androgen receptor (AR) antagonist approved in multiple countries for the treatment of prostate cancer (nmCRPC and mHSPC), though it is not yet registered in Taiwan.
+The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**,
+with **no clinical trials** and **no publications** currently supporting this repurposing direction.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Darolutamide |
-| DrugBank ID | [DB12941](https://go.drugbank.com/drugs/DB12941) |
-| Brand Names (EU) | Nubeqa |
+| Item | Content |
+|------|------|
+| Original Indication | Prostate Cancer (not registered in Taiwan) |
+| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+| TxGNN Prediction Score | 99.11% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.11% |
+| Taiwan Market Status | ✗ Not Marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-NUBEQA is indicated for the treatment of adult men with  non‑metastatic castration resistant prostate cancer (nmCRPC) who are at high risk of developing metastatic disease (see section&nbsp;5.1). metastatic hormone‑sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy (see section&nbsp;5.1). metastatic hormone‑sensitive prostate cancer (mHSPC) in combination with docetaxel and androgen deprivation therapy (see section&nbsp;5.1).
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Darolutamide is a selective androgen receptor (AR) antagonist with a distinctive diarylthiohydantoin structure that confers low CNS penetration, minimal off-target hormonal activity, and a favorable drug–drug interaction profile compared to earlier-generation anti-androgens. It is approved for non-metastatic castration-resistant prostate cancer (nmCRPC) and metastatic hormone-sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy (ADT).
 
----
+The proposed link between AR antagonism and HoFH draws on the observation that androgen signaling participates in hepatic LDL receptor (LDLR) expression and whole-body cholesterol metabolism. Androgen deprivation therapy is already known to alter lipid profiles — typically elevating LDL and lowering HDL — confirming that AR signaling does interact with cholesterol homeostasis pathways. Theoretically, modulating AR activity could influence hepatic lipid handling.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | homozygous familial hypercholesterolemia | 99.11% | DL |
-| 2 | multiple endocrine neoplasia | 99.06% | DL |
-| 3 | HIV infectious disease | 99.04% | DL |
-| 4 | simian immunodeficiency virus infection | 98.70% | DL |
-| 5 | feline acquired immunodeficiency syndrome | 98.70% | DL |
-| 6 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 98.56% | DL |
-| 7 | cytomegalovirus infection | 98.33% | DL |
-| 8 | thrombotic disease | 98.29% | DL |
-| 9 | malignant catarrh | 98.18% | DL |
-| 10 | infectious bovine rhinotracheitis | 98.18% | DL |
-| 11 | rheumatoid arthritis | 97.64% | DL |
-| 12 | Prinzmetal angina | 97.57% | DL |
-| 13 | hypoalphalipoproteinemia | 97.52% | DL |
-| 14 | antithrombin deficiency type 2 | 97.38% | DL |
-| 15 | heparin cofactor 2 deficiency | 97.29% | DL |
-| 16 | hyperthyroidism | 97.27% | DL |
-| 17 | factor 5 excess with spontaneous thrombosis | 97.14% | DL |
-| 18 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 97.01% | DL |
-| 19 | oral candidiasis | 96.75% | DL |
-| 20 | leprosy | 96.70% | DL |
-
-*Showing top 20 of 50 predictions.*
+However, Homozygous Familial Hypercholesterolemia is caused by biallelic loss-of-function mutations in the *LDLR* gene, resulting in near-absent LDLR protein activity. AR antagonism has no known mechanism to rescue mutant LDLR function, upregulate alternative LDL clearance pathways, or compensate for LDLR deficiency. No preclinical data (in vitro or in vivo) demonstrates that darolutamide reduces LDL in LDLR-deficient models. The high TxGNN score (99.11%) most likely reflects an indirect mathematical connection through shared lipid metabolism nodes in the knowledge graph, rather than a genuine biological signal. **This prediction should be treated as a potential graph artifact rather than a clinically actionable hypothesis.**
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## Cytotoxicity
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+Darolutamide is approved for prostate cancer and is classified as an antineoplastic targeted therapy. It is **not** a conventional cytotoxic agent.
 
----
-
-## Citation
-
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy — Non-steroidal androgen receptor antagonist (2nd-generation, diarylthiohydantoin class) |
+| Myelosuppression Risk | Low (myelosuppression is not a primary mechanism-related toxicity of AR antagonists; not expected in standard use) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Liver function tests (ALT/AST), cardiovascular status and blood pressure, fatigue/fall risk assessment in elderly patients |
+| Handling Protection | Standard antineoplastic handling precautions recommended per institutional cytotoxic drug policy |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This prediction rests entirely on TxGNN model output (L5 evidence) with no supporting clinical trials or published literature for the HoFH indication. The biological rationale is mechanistically unsound — HoFH is a monogenic disease driven by LDLR loss-of-function, a target that AR antagonism cannot address — making this prediction very likely a knowledge graph artifact rather than a clinically actionable signal. Of note, 4 of the top 10 TxGNN predictions for darolutamide are veterinary or animal diseases (SIV, FIV, IBR, malignant catarrh), further suggesting this prediction run may reflect systematic graph-level noise rather than drug-specific biological insight.
+
+**To proceed, the following is needed:**
+- Obtain detailed MOA and pharmacology data from DrugBank (Data Gap DG002) to anchor any mechanistic hypothesis
+- Obtain SmPC / prescribing information to complete the safety profile and identify key warnings and contraindications (Data Gap DG001)
+- Consult a lipid metabolism specialist to independently assess whether any AR–LDLR mechanistic link could support hypothesis generation
+- If interest persists, commission targeted in vitro studies using LDLR-deficient hepatocyte models (e.g., HepG2-LDLR-KO) before any clinical translation is considered
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,132 +1,120 @@
 ---
 layout: default
 title: Lapatinib
-description: "Lapatinib drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
-parent: AI Predictions (L5)
-nav_order: 328
+parent: 僅模型預測 (L5)
+nav_order: 215
 evidence_level: L5
-indication_count: 50
+indication_count: 10
 ---
 
 # Lapatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **50**
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lapatinib: From HER2-Positive Breast Cancer to Dermatofibrosarcoma Protuberans
+
+## One-Sentence Summary
+
+Lapatinib (Tykerb/Tyverb) is a dual tyrosine kinase inhibitor targeting EGFR and HER2, originally approved for the treatment of HER2-positive metastatic breast cancer in combination with other agents.
+The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**, with a prediction confidence of **99.30%** — however, **no clinical trials or supporting literature** currently exist for this combination, and the mechanistic rationale is limited.
 
 ---
 
 ## Quick Overview
 
-| Item | Value |
-|------|-------|
-| Drug Name | Lapatinib |
-| DrugBank ID | [DB01259](https://go.drugbank.com/drugs/DB01259) |
-| Brand Names (EU) | Tyverb |
+| Item | Content |
+|------|------|
+| Original Indication | HER2-positive metastatic breast cancer (not registered in Taiwan) |
+| Predicted New Indication | Dermatofibrosarcoma Protuberans (DFSP) |
+| TxGNN Prediction Score | 99.30% |
 | Evidence Level | L5 |
-| Predicted Indications | 50 |
-| Top Prediction Score | 99.30% |
+| Taiwan Market Status | Not marketed |
+| Number of Authorizations | 0 |
+| Recommended Decision | Hold |
 
 ---
 
-## Approved Indication (EMA)
+## Why is This Prediction Reasonable?
 
-Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2):  in combination with capecitabine for patients with advanced or metastatic disease with progression following prior therapy, which must have included anthracyclines and taxanes and therapy with trastuzumab in the metastatic setting; in combination with trastuzumab for patients with hormone-receptor-negative metastatic disease that has progressed on prior trastuzumab therapy or therapies 
+Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Lapatinib is a small-molecule inhibitor that reversibly binds the ATP-binding pocket of both EGFR (HER1/ErbB1) and HER2 (ErbB2) tyrosine kinases. This dual blockade suppresses downstream PI3K/AKT and RAS/MAPK signaling cascades — pathways that are critical for proliferation and survival in HER2-amplified tumors. Its oral bioavailability and CNS penetration distinguish it from antibody-based HER2 therapies such as trastuzumab.
 
----
+Dermatofibrosarcoma Protuberans (DFSP) is a rare dermal sarcoma characterized by the COL1A1-PDGFB gene fusion, which drives constitutive PDGFR (platelet-derived growth factor receptor) signaling. The established targeted therapy for advanced DFSP is Imatinib, a PDGFR inhibitor — not an EGFR/HER2 inhibitor. EGFR overexpression or HER2 amplification has not been documented as a key oncogenic mechanism in DFSP, making the mechanistic basis for Lapatinib in this setting comparatively weak.
 
-## Predicted New Indications
-
-TxGNN model predictions for potential drug repurposing:
-
-| Rank | Indication | Score | Source |
-|:----:|------------|------:|--------|
-| 1 | dermatofibrosarcoma protuberans | 99.30% | DL |
-| 2 | fibroblastic neoplasm | 98.43% | DL |
-| 3 | conventional fibrosarcoma | 98.36% | DL |
-| 4 | kidney fibrosarcoma | 98.35% | DL |
-| 5 | cysticercosis | 98.34% | DL |
-| 6 | heart fibrosarcoma | 98.25% | DL |
-| 7 | low grade fibromyxoid sarcoma | 98.23% | DL |
-| 8 | Plasmodium falciparum malaria | 98.02% | DL |
-| 9 | coenurosis | 97.46% | DL |
-| 10 | HER2 positive breast carcinoma | 97.36% | DL |
-| 11 | lymphangiomyoma | 97.29% | DL |
-| 12 | benign PEComa | 97.29% | DL |
-| 13 | uterine corpus perivascular epithelioid cell tumor | 97.26% | DL |
-| 14 | autosomal recessive familial Mediterranean fever | 97.04% | DL |
-| 15 | liver fibrosarcoma | 96.89% | DL |
-| 16 | cutaneous undifferentiated pleomorphic sarcoma | 96.73% | DL |
-| 17 | central nervous system fibrosarcoma | 96.38% | DL |
-| 18 | progesterone-receptor positive breast cancer | 96.34% | DL |
-| 19 | normal breast-like subtype of breast carcinoma | 96.34% | DL |
-| 20 | progesterone-receptor negative breast cancer | 96.28% | DL |
-
-*Showing top 20 of 50 predictions.*
+The TxGNN model's high confidence score (99.30%) most likely reflects network-level structural similarity within the receptor tyrosine kinase inhibitor drug class and overlapping graph topology, rather than a direct mechanistic match with the primary DFSP driver. Notably, among all 10 predicted indications reviewed, the most scientifically coherent signal is for *Plasmodium falciparum* malaria (Rank 8, L4 evidence), where in vitro studies directly demonstrate haemozoin inhibition — a mechanism with substantially stronger scientific support than the DFSP prediction.
 
 ---
 
-## About TxGNN Predictions
+## Clinical Trial Evidence
 
-### Prediction Sources
-
-| Source | Description |
-|--------|-------------|
-| **KG** | Knowledge Graph - Network topology-based associations |
-| **DL** | Deep Learning - Neural network score prediction |
-
-### Evidence Levels
-
-| Level | Definition |
-|:-----:|------------|
-| L1 | Multiple Phase 3 RCTs / Systematic Reviews |
-| L2 | Single RCT or multiple Phase 2 trials |
-| L3 | Observational studies / Large case series |
-| L4 | Preclinical / Mechanistic / Case reports |
-| **L5** | AI prediction only (current) |
+Currently no related clinical trials registered.
 
 ---
 
-## Clinical Validation Needed
+## Literature Evidence
 
-<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Research Use Only:</strong> These predictions are computational hypotheses that require clinical validation. They should NOT be used for clinical decision-making.
-</div>
-
-### Next Steps for Validation
-
-1. **Literature Review**: Search PubMed for existing evidence
-2. **Clinical Trial Search**: Check ClinicalTrials.gov for ongoing studies
-3. **Mechanistic Analysis**: Evaluate biological plausibility
-4. **Preclinical Studies**: Conduct in vitro/in vivo validation
-5. **Clinical Trials**: Design and conduct human studies
+Currently no related literature available.
 
 ---
 
-## Data Access
+## EU Market Information
 
-- **FHIR API**: `/fhir/ClinicalUseDefinition/`
-- **CSV Download**: [All Predictions](/downloads/)
-- **GitHub**: [yao-care/EuTxGNN](https://github.com/yao-care/EuTxGNN)
+No marketing authorization records are present in the current evidence pack (market status: not marketed, 0 registered licenses). This may reflect a data gap rather than confirmed absence from the EU market, as Lapatinib is known internationally under the brand name Tyverb. Verification against the EMA product database is recommended.
 
 ---
 
-## Citation
+## Cytotoxicity
 
-If using this data, please cite:
-
-```bibtex
-@article{huang2023txgnn,
-  title={A foundation model for clinician-centered drug repurposing},
-  author={Huang, Kexin and others},
-  journal={Nature Medicine},
-  year={2023},
-  doi={10.1038/s41591-023-02233-x}
-}
-```
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy — Dual EGFR/HER2 tyrosine kinase inhibitor (TKI); not a conventional cytotoxic agent |
+| Myelosuppression Risk | Low to moderate (neutropenia and thrombocytopenia are reported but less frequent than with traditional chemotherapy) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Liver function tests (LFTs; hepatotoxicity risk), left ventricular ejection fraction (LVEF assessment prior to and during treatment), CBC with differential, QTc interval (cardiac monitoring), skin toxicity evaluation (rash, hand-foot syndrome) |
+| Handling Protection | Classified as a hazardous drug on the NIOSH list; standard cytotoxic-safe handling precautions are recommended per institutional pharmacy guidelines |
 
 ---
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 4px; font-size: 0.9rem;">
-<strong>Disclaimer:</strong> This report is for research purposes only and does not constitute medical advice. Drug repurposing predictions require rigorous clinical validation before any therapeutic application.
-</div>
+## Safety Considerations
+
+Please refer to the SmPC for safety information.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+Despite the TxGNN model's high algorithmic confidence (99.30%), there is no clinical trial evidence and no supporting literature for Lapatinib in DFSP, and the primary oncogenic driver of DFSP — PDGFR activation via the COL1A1-PDGFB fusion — is mechanistically distinct from Lapatinib's EGFR/HER2 targets, leaving no established scientific basis for this repurposing direction at this time.
+
+**To proceed, the following is needed:**
+- Evidence of EGFR or HER2 overexpression in DFSP tumor samples (IHC, FISH, or transcriptomic analysis) to establish a target-disease link
+- Preclinical sensitivity testing of Lapatinib in DFSP cell lines or patient-derived xenograft models
+- Full MOA data retrieval from DrugBank (data gap DG002) to strengthen mechanistic rationale analysis
+- TFDA SmPC retrieval and parsing (data gap DG001, blocking severity) to enable safety pre-screening
+- **Priority redirection**: Consider advancing the *Plasmodium falciparum* malaria signal (Rank 8, L4 evidence; 3 supporting publications including direct haemozoin inhibition data, PMID 32235391) as a higher-priority repurposing candidate for focused investigation
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
