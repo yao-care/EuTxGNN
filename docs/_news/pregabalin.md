@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,31 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Roberto Belvís, sobre migrañas: “La cafeína es la causa número uno de la migraña de fin de semana”.](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+
+2026-07-13 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+
+---
+
+### [Mejorar la vida de la persona con migraña es posible - IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">migraña</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
+
+---
+
+### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+
+2026-07-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+
+---
 
 
 <div class="disclaimer">

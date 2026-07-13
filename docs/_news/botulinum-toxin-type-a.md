@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,39 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（4 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [EPOC y contaminación: caminar en zonas con altos niveles de carbono empeora los síntomas respiratorios](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRISmJDc3lHUjFhWGpjZG1rbG1QU2h4emdmemhDbm5SdlhrOWxLMUhkczBjX2JST0VNQlBObjBLMWVDMHIxTzI1aFEyQmhYdkFHXzZJQ1BCa1pXN0UzVnlleG5SX3ZKQ2daWTBzVFlHRXRFZWtDNVM2cG9uVWZHT2xkYzJtOTJpUElrSGRYUnB2ZElfb1hSVklrR0ZBSG05M19MdktQNURvRmFXWjBvQTIxeDdFQVp2REhqeDBUelU5bVp3MmdLYkstclpLMmNId2tmTzJYVQ?oc=5)
+
+2026-07-13 <span class="news-indication-tag">EPOC</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRISmJDc3lHUjFhWGpjZG1rbG1QU2h4emdmemhDbm5SdlhrOWxLMUhkczBjX2JST0VNQlBObjBLMWVDMHIxTzI1aFEyQmhYdkFHXzZJQ1BCa1pXN0UzVnlleG5SX3ZKQ2daWTBzVFlHRXRFZWtDNVM2cG9uVWZHT2xkYzJtOTJpUElrSGRYUnB2ZElfb1hSVklrR0ZBSG05M19MdktQNURvRmFXWjBvQTIxeDdFQVp2REhqeDBUelU5bVp3MmdLYkstclpLMmNId2tmTzJYVQ?oc=5)
+
+---
+
+### [La terapia celular abre una nueva era en el tratamiento de la enfermedad de Parkinson - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
+
+2026-07-13 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
+
+---
+
+### [En EPOC, reducir hospitalizaciones no es solo un objetivo clínico, es un objetivo de salud pública - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRpM19IalNPdUQ2NFdWdVNaM1FYbTl6c3E4RV9nZkxUUjk5eC1kRDdkMkZxWDFVNkZjVkV2V2d4SFBvV09rTFQ0SEhIbUxaa09UYWZBM1pyQTB2SWo3d2lfSnEySVFGcEd6ZDVRcy11Q0M4R3hTMF8zWEVPVHNXUl9sUzItRXVkWDNoaFhVSHlnYml6RjNfS0R6NDZoNkx6N29CT2pDMlE1VVBCSW05SDdVTEh1d0twU0NMVS1xZ9IBugFBVV95cUxOQ29rM1BIMW9TRzNoTG16b2FYam1PWXlhOEQ4aXdQM0lwRDhzYmRHY0Z0eVdQMDFBd2ZxSm45VHlSejE1aFVrc1I4S0xTcUQ4UGF3c1lFV2RQbEU4eGN0TmxaMnR2U2FCSXphTmJXeTg5dGxEZDFzekFFMDhBa1ExZ0czME1ETjNzVFJCWWJmQTg2LUxfUG94N0JnNE12VVZZdWhvaGRmREhPLTJrQUpnY3lCMlg0R2FJUGc?oc=5)
+
+2026-07-13 <span class="news-indication-tag">EPOC</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRpM19IalNPdUQ2NFdWdVNaM1FYbTl6c3E4RV9nZkxUUjk5eC1kRDdkMkZxWDFVNkZjVkV2V2d4SFBvV09rTFQ0SEhIbUxaa09UYWZBM1pyQTB2SWo3d2lfSnEySVFGcEd6ZDVRcy11Q0M4R3hTMF8zWEVPVHNXUl9sUzItRXVkWDNoaFhVSHlnYml6RjNfS0R6NDZoNkx6N29CT2pDMlE1VVBCSW05SDdVTEh1d0twU0NMVS1xZ9IBugFBVV95cUxOQ29rM1BIMW9TRzNoTG16b2FYam1PWXlhOEQ4aXdQM0lwRDhzYmRHY0Z0eVdQMDFBd2ZxSm45VHlSejE1aFVrc1I4S0xTcUQ4UGF3c1lFV2RQbEU4eGN0TmxaMnR2U2FCSXphTmJXeTg5dGxEZDFzekFFMDhBa1ExZ0czME1ETjNzVFJCWWJmQTg2LUxfUG94N0JnNE12VVZZdWhvaGRmREhPLTJrQUpnY3lCMlg0R2FJUGc?oc=5)
+
+---
+
+### [Morbo di Parkinson, perché è più frequente negli uomini?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSENlX1p0cEk2eEd4ZHdhVjJ0WXdNaF9LbXp5dWk1YWhycG9NMGhUWEVTOEhyeGw2VzhnRUNPRVhoTTUwcTZtdWZIcFlCX0lPVnU5ZXQzT190bXc2bUZ4X0JnOVRjcTR2dFZoTElFdEVBaTVZT3BibWRsWXJVVEVJSEFHTVA?oc=5)
+
+2026-07-12 <span class="news-indication-tag">morbo di Parkinson</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSENlX1p0cEk2eEd4ZHdhVjJ0WXdNaF9LbXp5dWk1YWhycG9NMGhUWEVTOEhyeGw2VzhnRUNPRVhoTTUwcTZtdWZIcFlCX0lPVnU5ZXQzT190bXc2bUZ4X0JnOVRjcTR2dFZoTElFdEVBaTVZT3BibWRsWXJVVEVJSEFHTVA?oc=5)
+
+---
 
 
 <div class="disclaimer">

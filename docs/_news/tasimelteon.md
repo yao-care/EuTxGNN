@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Neuromodulación para depresión mayor farmacorresistente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
+
+2026-07-13 <span class="news-indication-tag">depresión</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
+
+---
+
+### [La créatine, un complément alimentaire bon pour les muscles… et pour le cerveau - National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
+
+2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
+
+---
 
 
 <div class="disclaimer">
