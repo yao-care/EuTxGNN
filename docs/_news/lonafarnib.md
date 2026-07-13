@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxObVkwdkEyRlBfaDBIZVdLM1JkQXdWejdZVkFVb1k5TnFTamdMQTl1TmdQMHoySEhfVUVFVEthUFUyeDU3c1VzODNfM3Y0YXdmVkRNdHBkVE9HZWJteDBfQ3VBTVVTSXgydl9hdE1QTGJKUC1mTW9CVG96OU90ZnhvTkdsTlBiZ0hBdFZab0dUMC1fdnFqWWwyUHhkZmNKc00yeWZLMGJMb29WR2tHdmY5UVA1YmFGZw?oc=5)
-
----
-
-### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
-
-2026-07-11 <span class="news-indication-tag">arthritis</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

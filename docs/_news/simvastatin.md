@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,39 +52,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [Los dos síntomas para detectar un ictus y qué hacer si lo sufres, según el doctor Felices - Las Provincias](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUNYdVNYSlRELXhzZUM5VW9WVnllbUdhZUFqS0lYQ1ZmUjhheVNWNWV3UGdQeHcwbGp6QnpTQVhrX0E0dlVRTEZPbDE4TkVrcTVBbDl6Qm03c1BqS2FENzJxM2IteDB0RER2aFJKc3Q1VUt2aFp1X01NdnZuVHc4YkxjUC0tWldIaEthRmc0M0pQOXFMWWtEMmw5ZW42REtvVWVvVWE0Ti1QeTZiX2JDeDYzYW9kQzl6SkHSAb8BQVVfeXFMTzZWcURVMFdERjktbDlRY1JISkxEeEFWYS1nZnpGWXlDUnNUM04tZDZjSnNsMUNmSFRzTF9GWHA0aUFhR0dLWHFqMl9Eb2EtMXRLdWVMb01Ya1JXTXJYTjM4U1pIb0pkTzRrZnhYcThJZzVSWDR0OGxGZ0pmTEdFTnZUX3IyaHItenFSbzRkOF9YR1R6QWNvb3J4c25TVVhxZVR2NVZQQnR5eUd6eTZENUJuckppc01HVGZWaklFYlE?oc=5)
-
-2026-07-12 <span class="news-indication-tag">ictus</span>
-
-來源：[Las Provincias](https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUNYdVNYSlRELXhzZUM5VW9WVnllbUdhZUFqS0lYQ1ZmUjhheVNWNWV3UGdQeHcwbGp6QnpTQVhrX0E0dlVRTEZPbDE4TkVrcTVBbDl6Qm03c1BqS2FENzJxM2IteDB0RER2aFJKc3Q1VUt2aFp1X01NdnZuVHc4YkxjUC0tWldIaEthRmc0M0pQOXFMWWtEMmw5ZW42REtvVWVvVWE0Ti1QeTZiX2JDeDYzYW9kQzl6SkHSAb8BQVVfeXFMTzZWcURVMFdERjktbDlRY1JISkxEeEFWYS1nZnpGWXlDUnNUM04tZDZjSnNsMUNmSFRzTF9GWHA0aUFhR0dLWHFqMl9Eb2EtMXRLdWVMb01Ya1JXTXJYTjM4U1pIb0pkTzRrZnhYcThJZzVSWDR0OGxGZ0pmTEdFTnZUX3IyaHItenFSbzRkOF9YR1R6QWNvb3J4c25TVVhxZVR2NVZQQnR5eUd6eTZENUJuckppc01HVGZWaklFYlE?oc=5)
-
----
-
-### [Ondate di calore: i 10 consigli per proteggersi dal caldo - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUTF5VDcwVnFKN3NBcFNSWnFVQnRyT1FZcTJuRU1aLUZKUzlKcEk5bWptZHdqU3pIYW8yTUM4VG1td0JyZ2g0RWYxREJoWFJJOUJWQTYybUNia1hBaDAyZ1FyVEhINXJIcGhGRlJiV0E5bHoyRVhGOF93NEt5cXhuNC03SDFsUEtOUEp5eVBKUGFoeGZwbGlHSmM4MDBYUzdqQWpYODdZSlFNcklfT2dVbFdCb0FqWVFYckxoVmR1OWxfNDFRbnRPVnljTV9XVDJHRUhlc2Z1SW9EMHPSAbsBQVVfeXFMT2tSbDF2LXctWkN6MkZsN2h3eUk3cDFLUlYxeFpPNHdlMHRLWmZhaW14QWxxUjYxY0FHTGJsOVV0WTkydUtMekhUaGlnRnVfR1hBbkF1S3JTQnVUSGJiSFphaXF2R0lVeTNDR3htSGFybGw3akl0RzF1bXk5c2NmOTFwR1VoX3RpaHBCWXJOdjhJYUhzSDNKWWNCUzdJTXgzUG5WTVBHUFVqMDV2cE95YVhOX29mWklZY1dSbw?oc=5)
-
-2026-07-12 <span class="news-indication-tag">ictus</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUTF5VDcwVnFKN3NBcFNSWnFVQnRyT1FZcTJuRU1aLUZKUzlKcEk5bWptZHdqU3pIYW8yTUM4VG1td0JyZ2g0RWYxREJoWFJJOUJWQTYybUNia1hBaDAyZ1FyVEhINXJIcGhGRlJiV0E5bHoyRVhGOF93NEt5cXhuNC03SDFsUEtOUEp5eVBKUGFoeGZwbGlHSmM4MDBYUzdqQWpYODdZSlFNcklfT2dVbFdCb0FqWVFYckxoVmR1OWxfNDFRbnRPVnljTV9XVDJHRUhlc2Z1SW9EMHPSAbsBQVVfeXFMT2tSbDF2LXctWkN6MkZsN2h3eUk3cDFLUlYxeFpPNHdlMHRLWmZhaW14QWxxUjYxY0FHTGJsOVV0WTkydUtMekhUaGlnRnVfR1hBbkF1S3JTQnVUSGJiSFphaXF2R0lVeTNDR3htSGFybGw3akl0RzF1bXk5c2NmOTFwR1VoX3RpaHBCWXJOdjhJYUhzSDNKWWNCUzdJTXgzUG5WTVBHUFVqMDV2cE95YVhOX29mWklZY1dSbw?oc=5)
-
----
-
-### [La vitamina D mejora la recuperación funcional tras un ictus, según un estudio del Hospital de Badajoz](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX09VNWFDYmNqcXI1LU1OQkY4VGxBQS1zc0J5OERqcFVHTVVDbG91YVhMYVNiV2p3WkhrdkwyRHkwdmpZYTFiaFBHaXBjdERFOHNPZ3FwTDBMY1U1cUh5aTA3Vzd3bHlJdU8yeXZENWhSXzhKbnRPS1dXRTJYQm81bTBJV2UtVTNueWk1aTVscWtla3NKZzlGbGtXQ3BXQl81ZEFrd09ZTkd2eXfSAbABQVVfeXFMTmE0S1MwWF9JMTJTT0VpLVRtRWRxOE5QYnE1d3pnMUNidHlfQUN2eUNNdW5KaUtsaWRHN3FfV2VIODlfeHFTbmhHOVI2bUdmVXBNMGpDTy1MYnJnclg0dHFYaTJHUU96aTVSRUd1M3h2QnNlU3JJLU5PNzA4MnJyXzJEWnkwR2tIMGQyMXJpd0lDcTFkWVE1YzMwZ3hoYzQycmQ3dENNTHhHb015Q05oUHc?oc=5)
-
-2026-07-12 <span class="news-indication-tag">ictus</span>
-
-來源：[Tododisca](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX09VNWFDYmNqcXI1LU1OQkY4VGxBQS1zc0J5OERqcFVHTVVDbG91YVhMYVNiV2p3WkhrdkwyRHkwdmpZYTFiaFBHaXBjdERFOHNPZ3FwTDBMY1U1cUh5aTA3Vzd3bHlJdU8yeXZENWhSXzhKbnRPS1dXRTJYQm81bTBJV2UtVTNueWk1aTVscWtla3NKZzlGbGtXQ3BXQl81ZEFrd09ZTkd2eXfSAbABQVVfeXFMTmE0S1MwWF9JMTJTT0VpLVRtRWRxOE5QYnE1d3pnMUNidHlfQUN2eUNNdW5KaUtsaWRHN3FfV2VIODlfeHFTbmhHOVI2bUdmVXBNMGpDTy1MYnJnclg0dHFYaTJHUU96aTVSRUd1M3h2QnNlU3JJLU5PNzA4MnJyXzJEWnkwR2tIMGQyMXJpd0lDcTFkWVE1YzMwZ3hoYzQycmQ3dENNTHhHb015Q05oUHc?oc=5)
-
----
-
-### [La radiografía del ictus en las mujeres: «En ellas pueden darse síntomas diferentes que en los hombres» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
-
-2026-07-12 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
