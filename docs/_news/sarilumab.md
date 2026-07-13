@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [EPOC y contaminación: caminar en zonas con altos niveles de carbono empeora los síntomas respiratorios](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRISmJDc3lHUjFhWGpjZG1rbG1QU2h4emdmemhDbm5SdlhrOWxLMUhkczBjX2JST0VNQlBObjBLMWVDMHIxTzI1aFEyQmhYdkFHXzZJQ1BCa1pXN0UzVnlleG5SX3ZKQ2daWTBzVFlHRXRFZWtDNVM2cG9uVWZHT2xkYzJtOTJpUElrSGRYUnB2ZElfb1hSVklrR0ZBSG05M19MdktQNURvRmFXWjBvQTIxeDdFQVp2REhqeDBUelU5bVp3MmdLYkstclpLMmNId2tmTzJYVQ?oc=5)
-
-2026-07-13 <span class="news-indication-tag">EPOC</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRISmJDc3lHUjFhWGpjZG1rbG1QU2h4emdmemhDbm5SdlhrOWxLMUhkczBjX2JST0VNQlBObjBLMWVDMHIxTzI1aFEyQmhYdkFHXzZJQ1BCa1pXN0UzVnlleG5SX3ZKQ2daWTBzVFlHRXRFZWtDNVM2cG9uVWZHT2xkYzJtOTJpUElrSGRYUnB2ZElfb1hSVklrR0ZBSG05M19MdktQNURvRmFXWjBvQTIxeDdFQVp2REhqeDBUelU5bVp3MmdLYkstclpLMmNId2tmTzJYVQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [En EPOC, reducir hospitalizaciones no es solo un objetivo clínico, es un objetivo de salud pública - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRpM19IalNPdUQ2NFdWdVNaM1FYbTl6c3E4RV9nZkxUUjk5eC1kRDdkMkZxWDFVNkZjVkV2V2d4SFBvV09rTFQ0SEhIbUxaa09UYWZBM1pyQTB2SWo3d2lfSnEySVFGcEd6ZDVRcy11Q0M4R3hTMF8zWEVPVHNXUl9sUzItRXVkWDNoaFhVSHlnYml6RjNfS0R6NDZoNkx6N29CT2pDMlE1VVBCSW05SDdVTEh1d0twU0NMVS1xZ9IBugFBVV95cUxOQ29rM1BIMW9TRzNoTG16b2FYam1PWXlhOEQ4aXdQM0lwRDhzYmRHY0Z0eVdQMDFBd2ZxSm45VHlSejE1aFVrc1I4S0xTcUQ4UGF3c1lFV2RQbEU4eGN0TmxaMnR2U2FCSXphTmJXeTg5dGxEZDFzekFFMDhBa1ExZ0czME1ETjNzVFJCWWJmQTg2LUxfUG94N0JnNE12VVZZdWhvaGRmREhPLTJrQUpnY3lCMlg0R2FJUGc?oc=5)
 
@@ -70,19 +62,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Morbus Crohn: Genvariante erklärt schwere Verläufe nach Jahrzehnten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS15SWM2c0UxLWZ0X3RpUVlKdGFLTXVBRjl4M3liM3A5V0J4NnA0NmVFRTQwbWE5cE1hMlV3T0J3d1JmeDBhdXJNeGI2RHZkN2xYUmRMVk45Q2FZVnFoMzk5c2FfSVU0UUhHMHV4MUtFMWRmVkZvX1Z6cGNCMVdoSFdyUkFKclBUNUV2SzlaNjlKMDRpN2hNZkI3blFiUjZHX2FTSHhYMFVCVkdQal9DOTROU0FMV2Zw?oc=5)
+### [Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments - Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
-2026-07-12 <span class="news-indication-tag">Morbus Crohn</span>
+2026-07-13 <span class="news-indication-tag">arthritis</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS15SWM2c0UxLWZ0X3RpUVlKdGFLTXVBRjl4M3liM3A5V0J4NnA0NmVFRTQwbWE5cE1hMlV3T0J3d1JmeDBhdXJNeGI2RHZkN2xYUmRMVk45Q2FZVnFoMzk5c2FfSVU0UUhHMHV4MUtFMWRmVkZvX1Z6cGNCMVdoSFdyUkFKclBUNUV2SzlaNjlKMDRpN2hNZkI3blFiUjZHX2FTSHhYMFVCVkdQal9DOTROU0FMV2Zw?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
 ---
 
-### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+### [Morbus Crohn: HLA-DRB1*01: 03, IL-10-Autoantikörper und Mikrobiommarker - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0lnalI1RGZpZkVWZHRiOFV0dXhLN0dJVDJaZkg5Q2phUmtEODVLYUlmQW9tQXhJcTgzaXBWTWhSRnR1NTJELXQtSW9YdGJxWlBFZzFDNDNYbjhPeWJHVTV4Sm5STUM2YW9RQXVNOUtyN0MxMGI4dDN2WEhMWmVjSnViOVBpVkNDUk9vS2xkUFJudDRPY1B1eERtN0RxYWEzU3c?oc=5)
 
-2026-07-11 <span class="news-indication-tag">arthritis</span>
+2026-07-12 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0lnalI1RGZpZkVWZHRiOFV0dXhLN0dJVDJaZkg5Q2phUmtEODVLYUlmQW9tQXhJcTgzaXBWTWhSRnR1NTJELXQtSW9YdGJxWlBFZzFDNDNYbjhPeWJHVTV4Sm5STUM2YW9RQXVNOUtyN0MxMGI4dDN2WEhMWmVjSnViOVBpVkNDUk9vS2xkUFJudDRPY1B1eERtN0RxYWEzU3c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Roberto Belvís, sobre migrañas: “La cafeína es la causa número uno de la migraña de fin de semana”.](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+### [Parodontitis kann die Herzklappe schädigen - smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
 
-2026-07-13 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/rimegepant/
 2026-07-13 <span class="news-indication-tag">migraña</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
+
+---
+
+### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">heart failure</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
 
 ---
 

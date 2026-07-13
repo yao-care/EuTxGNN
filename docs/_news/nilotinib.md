@@ -14,7 +14,7 @@ permalink: /news/nilotinib/
 ---
 
 <p class="key-answer" data-question="Nilotinib 有什麼相關新聞？">
-<strong>Nilotinib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nilotinib</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/nilotinib/
 <p><a href="{{ '/drugs/nilotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
 
-### [Erhöht hormonelle Verhütung das Risiko für Hirntumoren?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkVMM0JxOHM4X1dIX3daemxVeEVpTlRJSm5idk40UW1paDRmd2EzYnlKbzR3NUY4LVZIdUNlT3NlWGJELTFsU2ZxQkhNNlNSNEdlOG1TQ3FxV1F6RTdaWkcwbHg5bVhjUjA0WUxyUXJxRXpxTmNXVVdINGxnNE5zOEFiWHlWS2wwU1UtdFJzLVpydW1iTTJYUGxFckl2cGRuRUxBNzctckVUQTVtVlhOUGZ2dUtDSFhlWG0xUG5GYkM?oc=5)
+### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
 
 2026-07-13 <span class="news-indication-tag">tumor</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkVMM0JxOHM4X1dIX3daemxVeEVpTlRJSm5idk40UW1paDRmd2EzYnlKbzR3NUY4LVZIdUNlT3NlWGJELTFsU2ZxQkhNNlNSNEdlOG1TQ3FxV1F6RTdaWkcwbHg5bVhjUjA0WUxyUXJxRXpxTmNXVVdINGxnNE5zOEFiWHlWS2wwU1UtdFJzLVpydW1iTTJYUGxFckl2cGRuRUxBNzctckVUQTVtVlhOUGZ2dUtDSFhlWG0xUG5GYkM?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+
+---
+
+### [Erhöht hormonelle Verhütung das Risiko für Hirntumoren?](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRExkSkdXNEMtMkxJZ2NwcEZRcWVjZk4tNWxoYS1McVl5UVprRkZNT015V01HakR0N1laWU5PTFRpWHAwNlRGQy1zbndSX0tyNVBnZkhiTUtXcmNETGkwWnBybjNzVC1pZkdkcVk0NXExZGVNcDEtWDAzbWtUdDBMNVRCcGdLZUFDanFNRC0xc0FNVko3d2c0ZnRCNHhkcnM5MWJWcW1PZHlkUVhLbkl4Uk1VVWlFZE5JYjNiTnJ3?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumor</span>
+
+來源：[BILD](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRExkSkdXNEMtMkxJZ2NwcEZRcWVjZk4tNWxoYS1McVl5UVprRkZNT015V01HakR0N1laWU5PTFRpWHAwNlRGQy1zbndSX0tyNVBnZkhiTUtXcmNETGkwWnBybjNzVC1pZkdkcVk0NXExZGVNcDEtWDAzbWtUdDBMNVRCcGdLZUFDanFNRC0xc0FNVko3d2c0ZnRCNHhkcnM5MWJWcW1PZHlkUVhLbkl4Uk1VVWlFZE5JYjNiTnJ3?oc=5)
+
+---
+
+### [Devon dad, 35, thought he had repetitive strain at work before devastating stage 4 brain tumour diagnosis - Devon Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWxweEx6OXBFUXhGUmJYSi1kaWg1WkJuRmdZYVc2YnE3dnZCNE80c29PX1czazlWYWhYWjlzbGZvV09qT2dNTWtvNDFTQldBcGdwSGQwV3J2bkZLZVFmRWtDZ2o0MUFoU2tGYnNqRm1QQ19ZbkkwakRDSU1QUnUteUZrMU5IbWMzNVE?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumour</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWxweEx6OXBFUXhGUmJYSi1kaWg1WkJuRmdZYVc2YnE3dnZCNE80c29PX1czazlWYWhYWjlzbGZvV09qT2dNTWtvNDFTQldBcGdwSGQwV3J2bkZLZVFmRWtDZ2o0MUFoU2tGYnNqRm1QQ19ZbkkwakRDSU1QUnUteUZrMU5IbWMzNVE?oc=5)
 
 ---
 
@@ -70,19 +86,27 @@ permalink: /news/nilotinib/
 
 ---
 
-### [MD Anderson Cancer Center Madrid-Hospiten, pionero en usar láser de biomodulación ATP38 en terapia oncológica](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWmxYRjJMSWtTM3FmZktjdnI5VG84SjB5d3NreVZwREtwcGtLWWhJV0JyckFuWFZlQlU2Q1ZRZExzNTRLcFlyak0zQ0J4TFNrc1J4SjNOTlBZS2pBLXFidFBZN3hrd3d1V3NSWV9heVBldmdieklzT3h5dUNGNHJIZGNvNm1CT2xkdUxoNW1HWERCU0FSM21EQUNUUHBaZ1hULV91SlFyZmUyZktmT1l3Z2lJOEtZQzZaMGQzUGxSbWszLUthUVlkR3drUXBHT2wyQ3dZdXVCZzVpR3JTU0pTVklUVDdFeVhzTmJSZ2dHQWdzWmRyR1Jj?oc=5)
+### [First sign of my cancer struck when I drank - it had been growing for 10 YEARS - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWlyZENHMGJBaW1YenpYSHpIRUNNTG9zYTdydlFDRWdtNzFnUE9CWWNxNjhyTTBWclJYN0s2ZUFLUHFrOUl3UWhzY2tScHp5T2hwV0RvQlhwMm1JYl91TnN3YmlhTi1NaVM0NXlHU2JzckR6RmRwMUROMzk2VU8tbXJHbnExRU5iSXgwNXluTUVVQQ?oc=5)
 
 2026-07-13 <span class="news-indication-tag">cancer</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWmxYRjJMSWtTM3FmZktjdnI5VG84SjB5d3NreVZwREtwcGtLWWhJV0JyckFuWFZlQlU2Q1ZRZExzNTRLcFlyak0zQ0J4TFNrc1J4SjNOTlBZS2pBLXFidFBZN3hrd3d1V3NSWV9heVBldmdieklzT3h5dUNGNHJIZGNvNm1CT2xkdUxoNW1HWERCU0FSM21EQUNUUHBaZ1hULV91SlFyZmUyZktmT1l3Z2lJOEtZQzZaMGQzUGxSbWszLUthUVlkR3drUXBHT2wyQ3dZdXVCZzVpR3JTU0pTVklUVDdFeVhzTmJSZ2dHQWdzWmRyR1Jj?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWlyZENHMGJBaW1YenpYSHpIRUNNTG9zYTdydlFDRWdtNzFnUE9CWWNxNjhyTTBWclJYN0s2ZUFLUHFrOUl3UWhzY2tScHp5T2hwV0RvQlhwMm1JYl91TnN3YmlhTi1NaVM0NXlHU2JzckR6RmRwMUROMzk2VU8tbXJHbnExRU5iSXgwNXluTUVVQQ?oc=5)
 
 ---
 
-### [El diagnóstico precoz, clave para mejorar el abordaje del sarcoma: “Al ser poco frecuentes, no se piensa en ellos”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObllXSHc4YVV6bHlvSzRtY0dCYmJOQ1hkeVJ6cGhhTzRTeDBTbFgzcHlmek16NVUyNGFmdnZ0U0xjNy14QVRrTUFGYkduWHYzRi1ILUVmdnJzNHRVZjdHb0lnd19xWU9DUUc3eVJRWlhzQzFGRWR3bjZINFcyMFU2akNfOV91Ny1Nb1ZSTWpQSC1GTjVjcFJaSFVLQXNYNFNRdk0zdE9XdC1KdDlMd01ORkpLVno2eEx5TGJ3Vl9fQ2pob1dTeTJLcjl4QndIcVlHelI1VE05QWJCWnV3dy1pU29n?oc=5)
+### [Tumore colon-retto: scoperto legame tra microbiota e sviluppo della malattia - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcE9RT0FCZmRsRWd1LXJ1VEFucHVfM1ZYRmF0SEJfTmdEUlN4ZzloNWxSNXFFa3NrWlVIQXFUNlNmcW1wMjc0Z09HWXJwNkFFNDd3Ylg3WWwwal9HdDVQTnZoMlYyQUZKNnlQT0ZYeE5KVURCRWczaHZSekRENWctZFJoRU5VUndDMEdhLXZ2aEE2a2dyenQ3UkNvWWktVmRKT01fSUZXbjlQTTA?oc=5)
 
 2026-07-13 <span class="news-indication-tag">tumor</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObllXSHc4YVV6bHlvSzRtY0dCYmJOQ1hkeVJ6cGhhTzRTeDBTbFgzcHlmek16NVUyNGFmdnZ0U0xjNy14QVRrTUFGYkduWHYzRi1ILUVmdnJzNHRVZjdHb0lnd19xWU9DUUc3eVJRWlhzQzFGRWR3bjZINFcyMFU2akNfOV91Ny1Nb1ZSTWpQSC1GTjVjcFJaSFVLQXNYNFNRdk0zdE9XdC1KdDlMd01ORkpLVno2eEx5TGJ3Vl9fQ2pob1dTeTJLcjl4QndIcVlHelI1VE05QWJCWnV3dy1pU29n?oc=5)
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcE9RT0FCZmRsRWd1LXJ1VEFucHVfM1ZYRmF0SEJfTmdEUlN4ZzloNWxSNXFFa3NrWlVIQXFUNlNmcW1wMjc0Z09HWXJwNkFFNDd3Ylg3WWwwal9HdDVQTnZoMlYyQUZKNnlQT0ZYeE5KVURCRWczaHZSekRENWctZFJoRU5VUndDMEdhLXZ2aEE2a2dyenQ3UkNvWWktVmRKT01fSUZXbjlQTTA?oc=5)
+
+---
+
+### [Tumore pancreas: nuovo test del sangue ad alta sensibilità per rilevarne le tracce - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFdyZ0pTUkZodU5WODJvS1pTR0ZFcU5HTk51NzQ2YjI1cnA3dzR2MktYbDR6bFRORTY5b2F1QTRqcmdTOWpqWjZZbUhTV3FKZzhMR01rYmdmc052MW1rdmlWdlNlWkd0dHFLbG95WTRmMDl2SmxYZ2JzaVV0NU5qWGtMMlFVV2pUSEZvOXA5YksyZUx0bDhVTnJEV3VjNDBKbWpCVWNqRUw3bmZySC1YSWpjbw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumor</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFdyZ0pTUkZodU5WODJvS1pTR0ZFcU5HTk51NzQ2YjI1cnA3dzR2MktYbDR6bFRORTY5b2F1QTRqcmdTOWpqWjZZbUhTV3FKZzhMR01rYmdmc052MW1rdmlWdlNlWkd0dHFLbG95WTRmMDl2SmxYZ2JzaVV0NU5qWGtMMlFVV2pUSEZvOXA5YksyZUx0bDhVTnJEV3VjNDBKbWpCVWNqRUw3bmZySC1YSWpjbw?oc=5)
 
 ---
 
@@ -91,6 +115,14 @@ permalink: /news/nilotinib/
 2026-07-13 <span class="news-indication-tag">tumor</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFNrOXlUNmh1el9KYlhMMmhnLW8xNUJ1Vlh4NmItcDJOVzZ4QUVqamo5a0ttZG5JbUZlNXUzMi1sXzRjTGdsa2FBVlQ2ZWJDVmJHc0hYVmE3ZTcyQXpKdlBRMnM5Mk5ZNUFnRjVOS3dQTmpSdFNvS1FfRHJfcmNCWDU4UFNtVC1FYUs3VFgxX25idGtsbThuYU1B?oc=5)
+
+---
+
+### [Tumori dell’appendice: rari, complessi e ancora poco conosciuti](https://news.google.com/rss/articles/CBMisAFBVV95cUxQakNzd3hNWlNfZGJPWXVhZURZQm00TDluX3djYVdzUlFuTG5GZUdKXzh1bmcxek8zZ2lrQW9iLV9TUHBBeDNkS0ZTWXdTMHZMWk84d09kNnVSZXJGMko0TVNjN3dZQjJQY1JROGZ2b0U5UDFVeTAybzR2U3c2Q1c5aVBXWThGU0hRV09Xay1aSUFzejhpemJibnFHR0h1SnVFMVpMdGRtYkVTUEVWNGJxcQ?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMisAFBVV95cUxQakNzd3hNWlNfZGJPWXVhZURZQm00TDluX3djYVdzUlFuTG5GZUdKXzh1bmcxek8zZ2lrQW9iLV9TUHBBeDNkS0ZTWXdTMHZMWk84d09kNnVSZXJGMko0TVNjN3dZQjJQY1JROGZ2b0U5UDFVeTAybzR2U3c2Q1c5aVBXWThGU0hRV09Xay1aSUFzejhpemJibnFHR0h1SnVFMVpMdGRtYkVTUEVWNGJxcQ?oc=5)
 
 ---
 
@@ -104,7 +136,7 @@ permalink: /news/nilotinib/
 
 ### [Breast cancer patients face ‘inexcusable’ postcode lottery - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUd4VlNaOXR4b29LWFhEeVFYRGJVbjUwR3RmVGZ2Rmo1M24tc3RTVXdQckpGMWFHRG1UMHQ2c09ITUYwZEV4dVhpbFZWd3JqNGN6RUczZDlUaERzTDBtZ1JycHkyWGExaGF5QkpPSjVvTm1adTgxazRDZjNKa0s4aEVpR1FSMVFaMzJHdEZNYklXTTN3bm1QaVl1U3J6TENIME9CTA?oc=5)
 
-2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-07-13 <span class="news-indication-tag">cancer</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUd4VlNaOXR4b29LWFhEeVFYRGJVbjUwR3RmVGZ2Rmo1M24tc3RTVXdQckpGMWFHRG1UMHQ2c09ITUYwZEV4dVhpbFZWd3JqNGN6RUczZDlUaERzTDBtZ1JycHkyWGExaGF5QkpPSjVvTm1adTgxazRDZjNKa0s4aEVpR1FSMVFaMzJHdEZNYklXTTN3bm1QaVl1U3J6TENIME9CTA?oc=5)
 
@@ -131,14 +163,6 @@ permalink: /news/nilotinib/
 2026-07-12 <span class="news-indication-tag">Krebs</span>
 
 來源：[Zentrum der Gesundheit](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1pjMk82cVdza2JISzRKMXR0Ump0dkpFckNIbWJuZFdsVkV1bzhpYmNsU3ZjcU9Yczk3TnR3RjI2UlNBMGNLel9nVTRCS2owd2NUOFp0SHNoVDBhQ2U1NzYza2RKZXItRWVxeElQV2RMako3Q3REVzhoRHVnemttVlhjUzBncFI1UlFBMHc5dy1FQmFjSFhiYy1SWGRaSWVJRjAyZzFUUUxBbzlrQUl1TjdlZmVGNzdvX29z?oc=5)
-
----
-
-### [Japanese Team Finds Frog Bacteria That Wipes Out Cancer Tumors With a Single Dose - Good News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzlocVI5NTBVRDg0a0tnbVdLQzloV3NXWDNBZ01HTGNVVGQ5OUpjeFFTbS1XaE9IMHNBQVNWNG1FRWpmVG52RVFSRUZJT3I0SWQzNFhRUjZiVXl3WE5PWkFqZkc4cEVVdl94YVJPSHlXalJvOUdEZzZodGNiRG9qbHE4RmFtV2wyRlF0ZDFkaV9hWVc4T0lQTXNseU1mckh1MktqRy1sUXAwck9K?oc=5)
-
-2026-07-12 <span class="news-indication-tag">cancer</span>
-
-來源：[Good News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzlocVI5NTBVRDg0a0tnbVdLQzloV3NXWDNBZ01HTGNVVGQ5OUpjeFFTbS1XaE9IMHNBQVNWNG1FRWpmVG52RVFSRUZJT3I0SWQzNFhRUjZiVXl3WE5PWkFqZkc4cEVVdl94YVJPSHlXalJvOUdEZzZodGNiRG9qbHE4RmFtV2wyRlF0ZDFkaV9hWVc4T0lQTXNseU1mckh1MktqRy1sUXAwck9K?oc=5)
 
 ---
 
@@ -203,14 +227,6 @@ permalink: /news/nilotinib/
 2026-07-11 <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
-
----
-
-### [La creatina non serve solo ai muscoli: ora interessa anche gli oncologi](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
-
-2026-07-11 <span class="news-indication-tag">cancro</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFVa3JWcEpYeFI3WHZEMUV3TnNqWnlXS09HWVFqUWhRQnhFaEF6a3VCTWVuMVlBSERwMU1SdUN1YUh2XzZwMzZuZVg5aWtTYmFLUVM0WnY0RzdqMVplUDhjeGV0Y0N3aUpWczlZdS1DemJEMndkbjlzRi1WeXBYT0kwQXBIT3p3ZDVxSnF3RjJPMGthVTdIaTZEdUUyc0FLekFqOGE3Qjl3TmVrUHpGNWpTcE95TlhTQ2VuQWpzWQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Diseñan nuevas estrategias para proteger el riñón de la diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Roberto Belvís, sobre migrañas: “La cafeína es la causa número uno de la migraña de fin de semana”.](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+### [Obesità: proteina “interruttore” protegge da diabete e fegato grasso - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
 
-2026-07-13 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/ziconotide/
 2026-07-12 <span class="news-indication-tag">obésité</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
-
----
-
-### [Gruesome side effects of ‘world’s most powerful weight loss drug’ as man shares insane before and after](https://news.google.com/rss/articles/CBMioAFBVV95cUxQal93NTdSSGVsNHB0SHZ5OEd4RDQ3bUc5V2NFUllKclRyaTZSbUFmUDllZGl4TDBsMkdrWFVmVEpHTjJOdFgyZ0VSYlNMLWtXYkdrMlJHbF9yeENNZ2JlRnBMaXQxdlNaeGFrZUZqNmg4eFdGRkJLMFBrTVFIOGRCOEpUR1F3RDZNZlFndThYNXVad2hGYTh5azc3ZWU5eVZW?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxQal93NTdSSGVsNHB0SHZ5OEd4RDQ3bUc5V2NFUllKclRyaTZSbUFmUDllZGl4TDBsMkdrWFVmVEpHTjJOdFgyZ0VSYlNMLWtXYkdrMlJHbF9yeENNZ2JlRnBMaXQxdlNaeGFrZUZqNmg4eFdGRkJLMFBrTVFIOGRCOEpUR1F3RDZNZlFndThYNXVad2hGYTh5azc3ZWU5eVZW?oc=5)
 
 ---
 

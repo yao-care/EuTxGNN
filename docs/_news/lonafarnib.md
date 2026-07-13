@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart failure</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,21 +52,37 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
+### [Ernährung am Arbeitsplatz: MIND-Diät senkt Demenzrisiko um 35%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 2026-07-13 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 ---
 
-### [Pfefferminzöl: Menthol senkt den Blutdruck um 8 mmHg - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
+### [Parodontitis kann die Herzklappe schädigen - smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
 
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-13 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
+
+---
+
+### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">heart failure</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+---
+
+### [Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments - Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
+
+2026-07-13 <span class="news-indication-tag">arthritis</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+### [Pfefferminzöl: Menthol senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
-2026-07-11 <span class="news-indication-tag">arthritis</span>
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
 ---
 

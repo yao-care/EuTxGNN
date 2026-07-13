@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,15 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Hepatitis-E-Viren verändern sich schon früh während der Infektion - RUB Newsportal](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3BhamNBSzkzbGxFZnhiX0tvTTc0V1FlNVpDSlBkRW56dkh6M3c1MXNNWlZSRVc5cnM1RmU4N3g2ajhZeFZxWVdQUWZrNTZpZnRkUFpSSExVcEtKYUppT21fc2xtNExZN3RrNHB1VWJqTHZwU2xySmFfRFcyeE9MUWhSb3Z3SW1XRkgxN2N1Q3hjUnZOLVNRZ1h4QzNxYlBGd19CbDM3bmgyc0VIazRSd3AzZ2RGLUI1ZWthdXl4OA?oc=5)
-
-2026-07-13
-
-來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3BhamNBSzkzbGxFZnhiX0tvTTc0V1FlNVpDSlBkRW56dkh6M3c1MXNNWlZSRVc5cnM1RmU4N3g2ajhZeFZxWVdQUWZrNTZpZnRkUFpSSExVcEtKYUppT21fc2xtNExZN3RrNHB1VWJqTHZwU2xySmFfRFcyeE9MUWhSb3Z3SW1XRkgxN2N1Q3hjUnZOLVNRZ1h4QzNxYlBGd19CbDM3bmgyc0VIazRSd3AzZ2RGLUI1ZWthdXl4OA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Hepatitis C rates falling in North East, study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wekFXREthT0NRUFNXWEttMDNkbm5HSzhFLWpyR1FMcVhXaURLMHRENmdSU2VodHhOcUdvMmhrZ0lILUl4cEdOeC1oNTVWaGE0emFzV1hTcXpjdGhz?oc=5)
 

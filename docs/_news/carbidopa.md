@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [El estudio que demuestra que cinco hábitos cotidianos mejoran la salud cognitiva en mayores - Libertad Digital](https://news.google.com/rss/articles/CBMingJBVV95cUxQTUc2cFVYQVl5eHVLemxfRXdRWHZxMExiOUkxV2ZRQ2ZQVHp2VktEeGEtY3hQbXdCT0p5UFYxMWNnYzVpUEp3ZHRtclBOMmZHU2c1SkdVYTVQRThqYzczTFZUYkRTbzhCcGRSSnczZXRhcW1NR3ZHT18xQ3FsNzJGOVo2U05CNHdTc1BwYnprLXNndEx2VGhtRl96UmFvWWNmM25vcW1rektDbjhpcjMzbDVNbUVHWXdyZmRudWNHNGZwaC1yR0tnTkZtSG1pUVR4SmExSWJZaXlZcFNNa0h5R05Edld5c0QzQkprRE1xTTA1cUlMdGZrSnB1SFh6eDAtSTE4cUZXWWh0c1IyS3pGdDZtUFRtb0YxOV81Tm5n0gGoAkFVX3lxTE9oeFc2bktXSEdlTEdMNUJsbVJMSjZETlg0Y2kxTXU5NENhcHJkdjQwRWY3ekNrb3ROdE1oZTFPV3B1Zi1yZWUyeHlYWDJ6b3UzdU1KUEI3TU1fbHlTWXJPT052dGt5ZjRLaE1tSVdPeFdUeEF3OWhCZEZMMk1jQll2UnlveXp4dUw0bTVyOWlIWmJrV2JUOGxjeXR4LWJZNl9HR0VHMzNERnltUU43ODZ2cDFBWVZYQzJXaWNla2dIb1BneUhfN3RpM3Nsc0lFaG5nT2NmS2t3QzlDaElENmpyWGZnb0xfU0hXS1hKb0hzeDQ0RHZKMUVmV0tPNlJiRko0S0JacjhZQ1pRell5T25VeVZnTWk4N2pfSmkxTnJvN0VxRGxvODU1?oc=5)
 
@@ -88,14 +88,6 @@ permalink: /news/carbidopa/
 2026-07-12 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
-
----
-
-### [Morbo di Parkinson, perché è più frequente negli uomini?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSENlX1p0cEk2eEd4ZHdhVjJ0WXdNaF9LbXp5dWk1YWhycG9NMGhUWEVTOEhyeGw2VzhnRUNPRVhoTTUwcTZtdWZIcFlCX0lPVnU5ZXQzT190bXc2bUZ4X0JnOVRjcTR2dFZoTElFdEVBaTVZT3BibWRsWXJVVEVJSEFHTVA?oc=5)
-
-2026-07-12 <span class="news-indication-tag">morbo di Parkinson</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSENlX1p0cEk2eEd4ZHdhVjJ0WXdNaF9LbXp5dWk1YWhycG9NMGhUWEVTOEhyeGw2VzhnRUNPRVhoTTUwcTZtdWZIcFlCX0lPVnU5ZXQzT190bXc2bUZ4X0JnOVRjcTR2dFZoTElFdEVBaTVZT3BibWRsWXJVVEVJSEFHTVA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li>heart disease（98.0%）</li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,13 +52,29 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
 
-### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+### [Parodontitis kann die Herzklappe schädigen - smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
 
-2026-07-11 <span class="news-indication-tag">arthritis</span>
+2026-07-13 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
+
+---
+
+### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">heart failure</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+---
+
+### [Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments - Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
+
+2026-07-13 <span class="news-indication-tag">arthritis</span>
+
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
 ---
 

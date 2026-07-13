@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
+### [Ernährung am Arbeitsplatz: MIND-Diät senkt Demenzrisiko um 35%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 2026-07-13 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
-
----
-
-### [Hepatitis-E-Viren verändern sich schon früh während der Infektion - RUB Newsportal](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3BhamNBSzkzbGxFZnhiX0tvTTc0V1FlNVpDSlBkRW56dkh6M3c1MXNNWlZSRVc5cnM1RmU4N3g2ajhZeFZxWVdQUWZrNTZpZnRkUFpSSExVcEtKYUppT21fc2xtNExZN3RrNHB1VWJqTHZwU2xySmFfRFcyeE9MUWhSb3Z3SW1XRkgxN2N1Q3hjUnZOLVNRZ1h4QzNxYlBGd19CbDM3bmgyc0VIazRSd3AzZ2RGLUI1ZWthdXl4OA?oc=5)
-
-2026-07-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3BhamNBSzkzbGxFZnhiX0tvTTc0V1FlNVpDSlBkRW56dkh6M3c1MXNNWlZSRVc5cnM1RmU4N3g2ajhZeFZxWVdQUWZrNTZpZnRkUFpSSExVcEtKYUppT21fc2xtNExZN3RrNHB1VWJqTHZwU2xySmFfRFcyeE9MUWhSb3Z3SW1XRkgxN2N1Q3hjUnZOLVNRZ1h4QzNxYlBGd19CbDM3bmgyc0VIazRSd3AzZ2RGLUI1ZWthdXl4OA?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 ---
 
@@ -78,19 +70,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [Pfefferminzöl: Menthol senkt den Blutdruck um 8 mmHg - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
-
----
-
 ### [Ipertensione causa di ictus e infarto: si cura meglio a casa che in ambulatorio. Il successo dello studio IMPACT-BP, un modello per l’Italia](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
 
 2026-07-12 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
+
+---
+
+### [Pfefferminzöl: Menthol senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
 ---
 

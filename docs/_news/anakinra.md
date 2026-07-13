@@ -44,11 +44,11 @@ permalink: /news/anakinra/
 
 ## 相關新聞（1 則）
 
-### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+### [Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments - Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
-2026-07-11 <span class="news-indication-tag">arthritis</span>
+2026-07-13 <span class="news-indication-tag">arthritis</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
 ---
 

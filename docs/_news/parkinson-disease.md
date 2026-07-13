@@ -3,7 +3,7 @@ layout: default
 title: "enfermedad de Parkinson（parkinson disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "enfermedad de Parkinson（parkinson disease） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="enfermedad de Parkinson（parkinson disease） 有什麼相關新聞？">
-<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>enfermedad de Parkinson（parkinson disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/parkinson-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [La terapia celular abre una nueva era en el tratamiento de la enfermedad de Parkinson - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
 
 2026-07-13
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
-
----
-
-### [Morbo di Parkinson, perché è più frequente negli uomini?](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSENlX1p0cEk2eEd4ZHdhVjJ0WXdNaF9LbXp5dWk1YWhycG9NMGhUWEVTOEhyeGw2VzhnRUNPRVhoTTUwcTZtdWZIcFlCX0lPVnU5ZXQzT190bXc2bUZ4X0JnOVRjcTR2dFZoTElFdEVBaTVZT3BibWRsWXJVVEVJSEFHTVA?oc=5)
-
-2026-07-12
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSENlX1p0cEk2eEd4ZHdhVjJ0WXdNaF9LbXp5dWk1YWhycG9NMGhUWEVTOEhyeGw2VzhnRUNPRVhoTTUwcTZtdWZIcFlCX0lPVnU5ZXQzT190bXc2bUZ4X0JnOVRjcTR2dFZoTElFdEVBaTVZT3BibWRsWXJVVEVJSEFHTVA?oc=5)
 
 ---
 

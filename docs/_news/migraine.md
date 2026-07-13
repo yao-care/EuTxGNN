@@ -3,7 +3,7 @@ layout: default
 title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<strong>migraña（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,15 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Roberto Belvís, sobre migrañas: “La cafeína es la causa número uno de la migraña de fin de semana”.](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
-
-2026-07-13
-
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Mejorar la vida de la persona con migraña es posible - IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
 

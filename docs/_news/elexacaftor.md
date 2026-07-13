@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
+### [Ernährung am Arbeitsplatz: MIND-Diät senkt Demenzrisiko um 35%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 2026-07-13 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
-
----
-
-### [Roberto Belvís, sobre migrañas: “La cafeína es la causa número uno de la migraña de fin de semana”.](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
-
-2026-07-13 <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[cuidateplus.marca.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEZqRUJSN0xGNzY0TE1Sel9XWFZGbWpILXY1WG9mUlJaN21Gb3E1OHlWTlVLbGZZU1V3VVY2MnExZFFwSnBHcGZ5Sy03MG4zdzJCMlR0UVlScVI1UGZuU2pPLXkyRmFrUVAyRkJkMmtRR1RURFAtUHRWMVUwVHF1eFFHWUVydDQ5MngxZ1FmWk9YWTZvXzBCZ1FDUVNuZzRfcFFMckpiQndEQW5qYmNFNWJKSGxId2JVYXZkT0oyZ9IBxAFBVV95cUxNNWJ3R1cyLTFlS1hpRlRfVlo3aThTaVpTUU1XaEtfS2NuMllpTWlSSnItLU5QQVlCSEpyaFFPZjlQUTU5RlBubExJbHlteDNtc1ZuSnpwbmhpX3JSVEdxdVZwQkhRTGVyNDhBVE5XM0l5UUZjVUpRUExIMU9MMWM5a0EyYjB3YW9NMUNnY3FnTmJOTTBxdnRVcEk2cHZDUjBJalAyX052bmJiSXhZVklmNWlWdE84dDZPb3Utc2tFbkVsYlVL?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [Pfefferminzöl: Menthol senkt den Blutdruck um 8 mmHg - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
+### [Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments - Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-13 <span class="news-indication-tag">arthritis</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
+來源：[Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+### [Pfefferminzöl: Menthol senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
-2026-07-11 <span class="news-indication-tag">arthritis</span>
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXFJaExhZ2JxNXk3eWRvMktuSzhmM09mWllGSlRWalhxMktCTW5kTFBqRHNnUGpIUHdaSlJYaXNwaExpUm1rX3g0VTlrWklld0hwMDJRZDZ2ekNlX1lyS2RUbUtkMVBoV0ZMaHRHMnpSZ0dMaWhJNFJTQ1NJTWt3bk1TbnlIYXE1TXA1WHdLN3dmNEd6M3h1WA?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
 ---
 

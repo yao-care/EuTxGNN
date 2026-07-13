@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lamivudine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Hepatitis-E-Viren verändern sich schon früh während der Infektion - RUB Newsportal](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3BhamNBSzkzbGxFZnhiX0tvTTc0V1FlNVpDSlBkRW56dkh6M3c1MXNNWlZSRVc5cnM1RmU4N3g2ajhZeFZxWVdQUWZrNTZpZnRkUFpSSExVcEtKYUppT21fc2xtNExZN3RrNHB1VWJqTHZwU2xySmFfRFcyeE9MUWhSb3Z3SW1XRkgxN2N1Q3hjUnZOLVNRZ1h4QzNxYlBGd19CbDM3bmgyc0VIazRSd3AzZ2RGLUI1ZWthdXl4OA?oc=5)
-
-2026-07-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[RUB Newsportal](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3BhamNBSzkzbGxFZnhiX0tvTTc0V1FlNVpDSlBkRW56dkh6M3c1MXNNWlZSRVc5cnM1RmU4N3g2ajhZeFZxWVdQUWZrNTZpZnRkUFpSSExVcEtKYUppT21fc2xtNExZN3RrNHB1VWJqTHZwU2xySmFfRFcyeE9MUWhSb3Z3SW1XRkgxN2N1Q3hjUnZOLVNRZ1h4QzNxYlBGd19CbDM3bmgyc0VIazRSd3AzZ2RGLUI1ZWthdXl4OA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Hepatitis C rates falling in North East, study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wekFXREthT0NRUFNXWEttMDNkbm5HSzhFLWpyR1FMcVhXaURLMHRENmdSU2VodHhOcUdvMmhrZ0lILUl4cEdOeC1oNTVWaGE0emFzV1hTcXpjdGhz?oc=5)
 

@@ -62,6 +62,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Obesità: proteina “interruttore” protegge da diabete e fegato grasso - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
+
+---
+
 ### ["No existe una dieta que funcione para todo el mundo": así influye la genética en la pérdida de peso - Cadena SER](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTdpcjhnR0FDbkhuOXo2TVVicWlDY1BxSk5SeVlvaGMzTXFUcHZHWUEwQ29QaExHWVhqNThRWW5oa1VReGMxS3ZSX3V1b01QYjdWSjJOSDMzSmFwUWlkT001NVl5OEhxbmxHVmVpQm5QcnlzTmsyU2lRQTlEaU1tVC13R2FfWjZzNWltZkhpS1EtUkVsdEpIUGRYZGZlR0Z3MnY5NzlXcDV6VGRCRFRubF9tWFNzVWZoVTVOeEI5Ny1GZVFSX1BQb0s4NDRyb3FTdEJJeHRmcFlkVGFGZEdkVXJYRzlEZ9IB-gFBVV95cUxOdzdHa3VtR0t3NE95R1Rxc2kzUm9BLS1Ib2R1cl9ubm55bG1uOG90V2ZUZTVzRjJad3IzR0c1OFpNakpxY0o1Q0dRTFdLV2h5RzJ3V1MwLWVneUU1Rm9idWNwV016V3pVWHJkQkc2eW1mYk1YeWFUci1PaVpWR2lQZmNqTHExazQ3VGF6SXhFZUtPMDZkZUd2Mk9EZ3JaS0Fhc2ZUNDRDcU9xeWJNS2phT1hMYTE2WXNOblRVZWhYeWYzWXhneWQyeU93VHpJa1hPbVRqUGJVMzZUYVJUNHJ4R3d3VUtVYjRKYVVTeWZiTGdIZGpTaDk4c2J3?oc=5)
 
 2026-07-13 <span class="news-indication-tag">obesidad</span>
@@ -107,14 +115,6 @@ permalink: /news/orlistat/
 2026-07-12 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDVpbWZ0Z0ZsU0k5R0ZPazNuRFEwVVEzNVdUc0lFVUVabWs0RnNtWFY3Vkl6VnYtLUVBTEFWcUxnWFRiQkNDWGQzMG02ZHZkZ2kyVmdpWWdXRGROWnBYd2p5ZGVkZXh0RzUzMHIwdjNKRjJaZEFMa3BkSjNNNDNPdEUzbXRtMWl6OXF1X2RTU2tQc01YcW03MVUtU3ZlZUJYUDVtbVRzS2wwb2JHOWlOdWlMcFZBWGFRdU16aTd3QzlqMzNBbGNYZGR1dENlZU51NXl5bFdXQkgyczR3SEVz?oc=5)
-
----
-
-### [Gruesome side effects of ‘world’s most powerful weight loss drug’ as man shares insane before and after](https://news.google.com/rss/articles/CBMioAFBVV95cUxQal93NTdSSGVsNHB0SHZ5OEd4RDQ3bUc5V2NFUllKclRyaTZSbUFmUDllZGl4TDBsMkdrWFVmVEpHTjJOdFgyZ0VSYlNMLWtXYkdrMlJHbF9yeENNZ2JlRnBMaXQxdlNaeGFrZUZqNmg4eFdGRkJLMFBrTVFIOGRCOEpUR1F3RDZNZlFndThYNXVad2hGYTh5azc3ZWU5eVZW?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxQal93NTdSSGVsNHB0SHZ5OEd4RDQ3bUc5V2NFUllKclRyaTZSbUFmUDllZGl4TDBsMkdrWFVmVEpHTjJOdFgyZ0VSYlNMLWtXYkdrMlJHbF9yeENNZ2JlRnBMaXQxdlNaeGFrZUZqNmg4eFdGRkJLMFBrTVFIOGRCOEpUR1F3RDZNZlFndThYNXVad2hGYTh5azc3ZWU5eVZW?oc=5)
 
 ---
 

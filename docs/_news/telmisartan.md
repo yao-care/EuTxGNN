@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
 
-### [Demenz-Prävention: MIND-Diät senkt Alzheimer-Risiko um 35%](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
+### [Ernährung am Arbeitsplatz: MIND-Diät senkt Demenzrisiko um 35%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
 
 2026-07-13 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxONWZ3NkZkZlg3RTRrMnBwY2xybS1GQThxV0doZllZNkhEdDlkX0thcHFsb2ktYkFvYlppNzZFakFFVGR1eGJJUEJab0stQU0zVFZ1WG1fU3YwdzFnckJpb0tSdFZxUDlmanN2RE5sVFZZbzhIVnp6ai1EV0VuejVRM1dlOWtOc25OaDA2aG42U0ZHeGRSbkNvVUZiVk41cFNoMF9ZRjBXTE9jUURDQmdWbGhONjBOdw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
+
+---
+
+### [Parodontitis kann die Herzklappe schädigen - smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
+
+2026-07-13 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">heart failure</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+---
+
 ### [Caldo estremo, qual è il limite sopportabile. Cosa fare se si arriva al punto di rottura - la Repubblica](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdDZkQWR5S0tkdVBWb0dsR3QtV2pYajJuc3JrZERFQXdrS3kwTFdjYXpJUXhjbFVGU091bEJSaUF2VlNfRUdUSUQ1dE5JbVRONl9UNkphMnE3VXAzZU9wWUlvNlpJaXVvWDZpZy1uSXptV2xPYzVDWXVCeTBWdEdRRmxWZ0pVU3RmVEx4OFRvU0JtMWNrVDNiTkM4RDZlRW9TaTE3Q2hDVkw4dmRHU0IyaTJ3Tk9vMTRtOXBBamREaUx3ekM4d2VRN0tsU1dRZkMzWUZqR0I4QWxFa0NHenpV0gHkAUFVX3lxTFBWZzVWSEtTeUpPN01sMmdGRFJLczdPQUswNVItZV9XZ2hxaHZXa0dXVGRfUVRUSHdjNGhnV3h0OUlFTDNfXzdvMkc0QVIyMkxPMkFZa0RiTjVwYXNFOGxhSkdhRGw4X1o4Nnpxb3M2ZkcwMkdrRzFSLW92c1UzcFZjcDZZNV8wLVZ2N2t6bDZHMkZob2VSdE1tU0R4amJsOGhxWkJNdW9lWlpZTzAzaTBuR0dvU2Z2T1RlRXBGUkNLQ08xbkdIZDBSSWtIU01PUm55bjZqdXREdmZDVU11bWFUZmxBeg?oc=5)
 
 2026-07-13 <span class="news-indication-tag">ictus</span>
@@ -78,19 +94,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Pfefferminzöl: Menthol senkt den Blutdruck um 8 mmHg - it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBBdEFNNmdhalpfZjFzZWVUV2o3WFIzSmtXdDBmY0RRbEY0SlVhX0o4Tm54WW9IMTBDMUt5WWdjUE15TVF0elhrYlUzMUV0RlhwRU9uU1N4S2VLcEJBOUdXOVNSMmpMcXY2Z3BpX0ZOWjM0Y3F1Q0xaMmJFTjIwV1BmX3NFOUJWQkVKVA?oc=5)
-
----
-
 ### [Ipertensione causa di ictus e infarto: si cura meglio a casa che in ambulatorio. Il successo dello studio IMPACT-BP, un modello per l’Italia](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
 
 2026-07-12 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
+
+---
+
+### [Pfefferminzöl: Menthol senkt Blutdruck um 8 mmHg](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
+
+2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
 ---
 

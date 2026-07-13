@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
 
-### [La sanidad riojana compra 224 'bombas' de insulina que "revolucionan" el manejo de la diabetes](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXB6bkZwV2tPaWpDOGxEMnB5MWFVTHo2dFVRYXFwLTdHei0zUkZwZGlKcVBWc1MxOUM0RFVjNWJmdm9yWVBSVFhuaHE5eXpuYTBjYXhkQlhKQjc5UjNFalFhaHg3V0lNZXl4WFNXR2hxNms1WTlBakgycnpGRHB2bWJ5ZGdQQ2RLd0t5NndfMkdyQ1R3bkJqLXNHVGtYd29XR0E?oc=5)
+### [Intervento innovativo all'ospedale di Perugia: salvato un arto a paziente diabetico](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmczN3VjZWhJZ29qcnZnejNzTm9JeTUxdi1iQzA2XzlZY2puVm5yaXJEY3kzQUo1bnBWR09PVEJYYXpsdHd5MlJaOHhSWDFLZzd1eEdTM2ZFM2ZpdGlBcVVwR2pEQ1k4TzBuSGo5ZTJwSzJmSWNRZHhMNF92cWpwTkx4QjJVZ1UtdzhXSlNxQWUtRzRvYWZyZ2lNdw?oc=5)
 
-2026-07-13 <span class="news-indication-tag">diabetes</span>
+2026-07-13 <span class="news-indication-tag">diabetic</span>
 
-來源：[NueveCuatroUno](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXB6bkZwV2tPaWpDOGxEMnB5MWFVTHo2dFVRYXFwLTdHei0zUkZwZGlKcVBWc1MxOUM0RFVjNWJmdm9yWVBSVFhuaHE5eXpuYTBjYXhkQlhKQjc5UjNFalFhaHg3V0lNZXl4WFNXR2hxNms1WTlBakgycnpGRHB2bWJ5ZGdQQ2RLd0t5NndfMkdyQ1R3bkJqLXNHVGtYd29XR0E?oc=5)
+來源：[PerugiaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmczN3VjZWhJZ29qcnZnejNzTm9JeTUxdi1iQzA2XzlZY2puVm5yaXJEY3kzQUo1bnBWR09PVEJYYXpsdHd5MlJaOHhSWDFLZzd1eEdTM2ZFM2ZpdGlBcVVwR2pEQ1k4TzBuSGo5ZTJwSzJmSWNRZHhMNF92cWpwTkx4QjJVZ1UtdzhXSlNxQWUtRzRvYWZyZ2lNdw?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
+
+---
+
+### [Obesità: proteina “interruttore” protegge da diabete e fegato grasso - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
 
 ---
 
@@ -94,11 +102,27 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU09tRUhBSGlUcm9QVlJ3WFhXc1RpTmRzZHN1amVsZUoxTEFOWl93LXRJMlJZcTNJemVkUEVhczJETUhvSHV0SWRMV19EUUlEZ1ZhZWxlZjRTWG80WllVem5YRFNYa2tDaWxrRXl4VDJyT3llU2ZWRmE2M2E0RXl2YUpTaW5TZE9DdldaZUxQZERkejdqLW1GdFA3ZWI2VWZqT1B3U0FEeGRPTkRpSmVjOV9YbU9QSi1B?oc=5)
+### [Parodontitis kann die Herzklappe schädigen - smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
 
-2026-07-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU09tRUhBSGlUcm9QVlJ3WFhXc1RpTmRzZHN1amVsZUoxTEFOWl93LXRJMlJZcTNJemVkUEVhczJETUhvSHV0SWRMV19EUUlEZ1ZhZWxlZjRTWG80WllVem5YRFNYa2tDaWxrRXl4VDJyT3llU2ZWRmE2M2E0RXl2YUpTaW5TZE9DdldaZUxQZERkejdqLW1GdFA3ZWI2VWZqT1B3U0FEeGRPTkRpSmVjOV9YbU9QSi1B?oc=5)
+來源：[smart up news](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZUdtc0ZGZ3FPcXdaVElKLXRlOEt4RWE4eVZFZV9GbXFSeThsNWl4VFBhaEdhUTB3aWcwdEU3dWQ1NTZSUDZmZjNaRkZHcGxaUzhPaTZDeEV3dlRucDZqY1dKVUJzSDEtRmNfS3VyOW1ZNTRfeHZrSVFSdmJWUUtNU2VDWm9oS2ZMX184ZFhiT1J5YlFubkhLM2FCclNZZVoyeTJ3WlZ1alRtUF9fcmRmLU9BaUlRTlBraGVQNzBGS3ByZ0U?oc=5)
+
+---
+
+### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">heart failure</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+---
+
+### [SGLT2-Inhibitoren senken Alzheimer-Risiko: neue Studien und VAE-Programme - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGFELVhleG1OR2R5aEw2aTJQU0JqMjRpaTNfVllpRTRGVG1FRGhNSzVMR1BZdGJGdEk1eG1vX2piZTNVdWRTdm1BdmVqLTdnTXVfNmF5ZjR0RGhaWjhEcl9DM3ZmOGVGaUJfR3d3OFQ2OThpZk1LU2RQcTlENEhqVlozVmlpNFY5ODhiQmgyelNnc2N2MnhaRXp6Z0ZyWlVBMlozalpzSQ?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGFELVhleG1OR2R5aEw2aTJQU0JqMjRpaTNfVllpRTRGVG1FRGhNSzVMR1BZdGJGdEk1eG1vX2piZTNVdWRTdm1BdmVqLTdnTXVfNmF5ZjR0RGhaWjhEcl9DM3ZmOGVGaUJfR3d3OFQ2OThpZk1LU2RQcTlENEhqVlozVmlpNFY5ODhiQmgyelNnc2N2MnhaRXp6Z0ZyWlVBMlozalpzSQ?oc=5)
 
 ---
 
@@ -131,14 +155,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-07-12 <span class="news-indication-tag">diabète</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
-
----
-
-### [Gruesome side effects of ‘world’s most powerful weight loss drug’ as man shares insane before and after](https://news.google.com/rss/articles/CBMioAFBVV95cUxQal93NTdSSGVsNHB0SHZ5OEd4RDQ3bUc5V2NFUllKclRyaTZSbUFmUDllZGl4TDBsMkdrWFVmVEpHTjJOdFgyZ0VSYlNMLWtXYkdrMlJHbF9yeENNZ2JlRnBMaXQxdlNaeGFrZUZqNmg4eFdGRkJLMFBrTVFIOGRCOEpUR1F3RDZNZlFndThYNXVad2hGYTh5azc3ZWU5eVZW?oc=5)
-
-2026-07-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMioAFBVV95cUxQal93NTdSSGVsNHB0SHZ5OEd4RDQ3bUc5V2NFUllKclRyaTZSbUFmUDllZGl4TDBsMkdrWFVmVEpHTjJOdFgyZ0VSYlNMLWtXYkdrMlJHbF9yeENNZ2JlRnBMaXQxdlNaeGFrZUZqNmg4eFdGRkJLMFBrTVFIOGRCOEpUR1F3RDZNZlFndThYNXVad2hGYTh5azc3ZWU5eVZW?oc=5)
 
 ---
 

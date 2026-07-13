@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [EPOC y contaminación: caminar en zonas con altos niveles de carbono empeora los síntomas respiratorios](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRISmJDc3lHUjFhWGpjZG1rbG1QU2h4emdmemhDbm5SdlhrOWxLMUhkczBjX2JST0VNQlBObjBLMWVDMHIxTzI1aFEyQmhYdkFHXzZJQ1BCa1pXN0UzVnlleG5SX3ZKQ2daWTBzVFlHRXRFZWtDNVM2cG9uVWZHT2xkYzJtOTJpUElrSGRYUnB2ZElfb1hSVklrR0ZBSG05M19MdktQNURvRmFXWjBvQTIxeDdFQVp2REhqeDBUelU5bVp3MmdLYkstclpLMmNId2tmTzJYVQ?oc=5)
-
-2026-07-13 <span class="news-indication-tag">EPOC</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTnRISmJDc3lHUjFhWGpjZG1rbG1QU2h4emdmemhDbm5SdlhrOWxLMUhkczBjX2JST0VNQlBObjBLMWVDMHIxTzI1aFEyQmhYdkFHXzZJQ1BCa1pXN0UzVnlleG5SX3ZKQ2daWTBzVFlHRXRFZWtDNVM2cG9uVWZHT2xkYzJtOTJpUElrSGRYUnB2ZElfb1hSVklrR0ZBSG05M19MdktQNURvRmFXWjBvQTIxeDdFQVp2REhqeDBUelU5bVp3MmdLYkstclpLMmNId2tmTzJYVQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [En EPOC, reducir hospitalizaciones no es solo un objetivo clínico, es un objetivo de salud pública - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRpM19IalNPdUQ2NFdWdVNaM1FYbTl6c3E4RV9nZkxUUjk5eC1kRDdkMkZxWDFVNkZjVkV2V2d4SFBvV09rTFQ0SEhIbUxaa09UYWZBM1pyQTB2SWo3d2lfSnEySVFGcEd6ZDVRcy11Q0M4R3hTMF8zWEVPVHNXUl9sUzItRXVkWDNoaFhVSHlnYml6RjNfS0R6NDZoNkx6N29CT2pDMlE1VVBCSW05SDdVTEh1d0twU0NMVS1xZ9IBugFBVV95cUxOQ29rM1BIMW9TRzNoTG16b2FYam1PWXlhOEQ4aXdQM0lwRDhzYmRHY0Z0eVdQMDFBd2ZxSm45VHlSejE1aFVrc1I4S0xTcUQ4UGF3c1lFV2RQbEU4eGN0TmxaMnR2U2FCSXphTmJXeTg5dGxEZDFzekFFMDhBa1ExZ0czME1ETjNzVFJCWWJmQTg2LUxfUG94N0JnNE12VVZZdWhvaGRmREhPLTJrQUpnY3lCMlg0R2FJUGc?oc=5)
 
