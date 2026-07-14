@@ -14,7 +14,7 @@ permalink: /news/ublituximab/
 ---
 
 <p class="key-answer" data-question="Ublituximab 有什麼相關新聞？">
-<strong>Ublituximab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ublituximab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ublituximab/
 <p><a href="{{ '/drugs/ublituximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+
+---
 
 ### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/ublituximab/
 
 ---
 
-### [Migrañas o diabetes podrían tener su origen en traumas desarrollados en la infancia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
-
----
-
 ### [Kampf gegen Mangelernährung im Krankenhaus - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
+
+---
+
+### [CGM, Wearables und Bewegung: Risiko senken – Chancen und Grenzen 2026 - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9zeGRONldUOFI3cTJURVgwdTZyMTBGVC01SDlJcEt2UFY1YW1ON1hueEQ0NU4zMWU5YmpKR1h3Z2RwalQtSDN0UnB2cWdDYUNpeVBOZ2JVZHl6OUdsSnZfaFdCVTR2aEh2ZlFIOHloZjdBUjduWWdVNXBvWjh5RmJQZzlGUFJmN2NSU2hSc3M1djEtNGpZQ1l2WU1Vdw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9zeGRONldUOFI3cTJURVgwdTZyMTBGVC01SDlJcEt2UFY1YW1ON1hueEQ0NU4zMWU5YmpKR1h3Z2RwalQtSDN0UnB2cWdDYUNpeVBOZ2JVZHl6OUdsSnZfaFdCVTR2aEh2ZlFIOHloZjdBUjduWWdVNXBvWjh5RmJQZzlGUFJmN2NSU2hSc3M1djEtNGpZQ1l2WU1Vdw?oc=5)
 
 ---
 
@@ -94,14 +102,6 @@ permalink: /news/ublituximab/
 
 ---
 
-### [Diseñan nuevas estrategias para proteger el riñón de la diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
-
----
-
 ### [Obesità: proteina “interruttore” protegge da diabete e fegato grasso - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
 
 2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -115,22 +115,6 @@ permalink: /news/ublituximab/
 2026-07-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdlMTlKOGpody1TckVUVDAxN0Y0WERkWDU5Qkd2WDZSUXVIdFNiLU1HRHdUN3FBM3B5TVdwVzYtM25ka3J5NnJSV1hteUtzY3I4c0RmSFJfbFVDZkhVRVNGNWNmZm5zR1ZFNkZHX1BtVGUtNWIzUHpHOGE2R2FDNDYtUEdnUFFQbHE4WHlXWDFwTDJwYy1qRVZtaWNETWdJU21CQXh3Tm1yVDE0UUkxcnI1OHZfb0owa1VpQ09HSC1xQkhMYjlrX2NLaDBpdm1aNlFLajZ3ekYtVzV3ZVJEdmJITUdxNUhfcjdN?oc=5)
-
----
-
-### [Los agonistas del GLP-1 emergen como una posible terapia frente al COVID persistente en pacientes con diabetes - El médico interactivo](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnhReE9mZFZ3b2o2T3VlNkROTE12OGdLVzJTckZkeGdJcFZrWUROR2Ftb2dMcE96ME5PN2g2SVFDd2FKR201RHV0bnBWOC1JUkN4NDZYZV8tQlJ5VkJyQ09KWGJvU0RTd3NHaUw1MTdOQUtQU3hiVENYbjRVN0RKcjJoZXJ0Z2h3OTVibmh6RU90MEtLeFNXNTRmTmR6bHZXMV9mcTM4cWtVRm9KWDhZb2NWN1AzdEJ3RTJhNnE2Uzc5aTQzWWdrZDVwUW1ka2Q4c0g2RHVBX242bEU?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnhReE9mZFZ3b2o2T3VlNkROTE12OGdLVzJTckZkeGdJcFZrWUROR2Ftb2dMcE96ME5PN2g2SVFDd2FKR201RHV0bnBWOC1JUkN4NDZYZV8tQlJ5VkJyQ09KWGJvU0RTd3NHaUw1MTdOQUtQU3hiVENYbjRVN0RKcjJoZXJ0Z2h3OTVibmh6RU90MEtLeFNXNTRmTmR6bHZXMV9mcTM4cWtVRm9KWDhZb2NWN1AzdEJ3RTJhNnE2Uzc5aTQzWWdrZDVwUW1ka2Q4c0g2RHVBX242bEU?oc=5)
-
----
-
-### [Blutzucker: 46.000 Mahlzeiten zeigen, warum Kohlenhydratzählen zu kurz greift - Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0lGejZrdEtDMEVtZ3M3Wk1uTFlZU3hCQy1rWEVzYTlFcEpoUHBPX1NNNVBRb2U3VUpUZ2hONVRZYUlBRUJDR2tXeTVSMjl6YXNvMGs5QjVyVzlwOUpBemV5djFVV1YtWEFTUWRaREl2bkU0NExpbGNXa1lFcG5Wam9pOTdvUVN6aUdSM2lLUjJORS1qSmc4OTdvX3k4aEtzWThtWHM4OTVjelQ0Y3g1Mk5mRS1TU0hUU2c?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0lGejZrdEtDMEVtZ3M3Wk1uTFlZU3hCQy1rWEVzYTlFcEpoUHBPX1NNNVBRb2U3VUpUZ2hONVRZYUlBRUJDR2tXeTVSMjl6YXNvMGs5QjVyVzlwOUpBemV5djFVV1YtWEFTUWRaREl2bkU0NExpbGNXa1lFcG5Wam9pOTdvUVN6aUdSM2lLUjJORS1qSmc4OTdvX3k4aEtzWThtWHM4OTVjelQ0Y3g1Mk5mRS1TU0hUU2c?oc=5)
 
 ---
 

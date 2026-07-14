@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Morbus Crohn: HLA-DRB1*01: 03, IL-10-Autoantikörper und Mikrobiommarker - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0lnalI1RGZpZkVWZHRiOFV0dXhLN0dJVDJaZkg5Q2phUmtEODVLYUlmQW9tQXhJcTgzaXBWTWhSRnR1NTJELXQtSW9YdGJxWlBFZzFDNDNYbjhPeWJHVTV4Sm5STUM2YW9RQXVNOUtyN0MxMGI4dDN2WEhMWmVjSnViOVBpVkNDUk9vS2xkUFJudDRPY1B1eERtN0RxYWEzU3c?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0lnalI1RGZpZkVWZHRiOFV0dXhLN0dJVDJaZkg5Q2phUmtEODVLYUlmQW9tQXhJcTgzaXBWTWhSRnR1NTJELXQtSW9YdGJxWlBFZzFDNDNYbjhPeWJHVTV4Sm5STUM2YW9RQXVNOUtyN0MxMGI4dDN2WEhMWmVjSnViOVBpVkNDUk9vS2xkUFJudDRPY1B1eERtN0RxYWEzU3c?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

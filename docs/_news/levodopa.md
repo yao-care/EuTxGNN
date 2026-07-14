@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Resultados del Ensayo LatAm-FINGERS sobre Deterioro Cognitivo Un estudio realizado desde Argentina. - Gestión y Economía de la Salud](https://news.google.com/rss/articles/CBMingFBVV95cUxNMXZRTEdJdGd2YnZnbGIySUpjaXdFV0VjV0FIVjcxWWg2VGFqM0gyN0hwd1BnZGM2bU5QSVJDczVWLVp4MmxSUFpXNmh1TXdXd2pMam1MYl90Wl9BOFpKUEJ2SEt6WFVDNmhJYU5ETTBOZExXLXpMdERTVlhpNEFLbUZKd2xvMVJVUjZsWEtVX3FWQmgyWVNRczhVTjRWdw?oc=5)
 
@@ -61,14 +61,6 @@ permalink: /news/levodopa/
 2026-07-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
-
----
-
-### [La terapia celular abre una nueva era en el tratamiento de la enfermedad de Parkinson - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
-
-2026-07-13 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,15 +46,21 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li>epilepsy（92.4%）</li>
+<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 epilepsy</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Over half of adults with learning difficulties do not live past 65, report says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OQ25GY1pNOVIwUXdzejJ5Mm51Q2dTSEZtY292NGRvc3hrYXdueHp5MGpaNDJrbWNLa3Q1TnBwWXp6WVpidkw2dHRRMnByckNIbWpjNkNEaER3aEFa?oc=5)
+
+2026-07-13 <span class="news-indication-tag">epilepsy</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OQ25GY1pNOVIwUXdzejJ5Mm51Q2dTSEZtY292NGRvc3hrYXdueHp5MGpaNDJrbWNLa3Q1TnBwWXp6WVpidkw2dHRRMnByckNIbWpjNkNEaER3aEFa?oc=5)
+
+---
 
 
 <div class="disclaimer">

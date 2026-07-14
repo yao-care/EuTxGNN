@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [La terapia celular abre una nueva era en el tratamiento de la enfermedad de Parkinson - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
-
-2026-07-13 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

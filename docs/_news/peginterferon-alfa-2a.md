@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
+
+### [Rapidez con que avanza brote de ébola alarma a la OMS](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUoxLWhRTkRjcnJycG53SFR0emhWUzBTUVYwQnd2QkREV0NrdER4aUdBWThfcFR5SWw5ZUliT05Ub3hHSTZTM2VRWHpHZ2NCUG9DY1cwVU4tTy1BX3Y0YlBZUXYyV1ZScTFPZkVYT3ZqU2cxenJEdUdDZFpQUUFsZUhKY094ZVE0N2ZmZUxxY3lkekpLMXfSAZYBQVVfeXFMUDVzdjVPclR5RlRzOTRkcktYV0xPbjJwMnkzWnpPZnUwbExMNWI0cVJXVkgtZEdvN1FQRVRjNEhMVW44alV2Z0xaZGV2ZnZWWm1TcnhBaU1jSlAxcmZBUUhYV2lUVEE3VUIzdlNad3F6d0pLVTJFeGxaT2ZsQXdpelpkSUdNT0t4WmFJUFhVUFFacjhYYmR3?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[dw.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUoxLWhRTkRjcnJycG53SFR0emhWUzBTUVYwQnd2QkREV0NrdER4aUdBWThfcFR5SWw5ZUliT05Ub3hHSTZTM2VRWHpHZ2NCUG9DY1cwVU4tTy1BX3Y0YlBZUXYyV1ZScTFPZkVYT3ZqU2cxenJEdUdDZFpQUUFsZUhKY094ZVE0N2ZmZUxxY3lkekpLMXfSAZYBQVVfeXFMUDVzdjVPclR5RlRzOTRkcktYV0xPbjJwMnkzWnpPZnUwbExMNWI0cVJXVkgtZEdvN1FQRVRjNEhMVW44alV2Z0xaZGV2ZnZWWm1TcnhBaU1jSlAxcmZBUUhYV2lUVEE3VUIzdlNad3F6d0pLVTJFeGxaT2ZsQXdpelpkSUdNT0t4WmFJUFhVUFFacjhYYmR3?oc=5)
+
+---
+
+### [Multiple Sklerose: Heilung in 5–10 Jahren für realistisch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTdrZmhXd2lvUUVmQTNBaHY0cHMtbmZHejlpTUJrWnFET2pBS0h5bGFwN3ZmdzF5ZmpieDdYbmlLVUI5ZHBTMklSeW9NSUlZcVpqVGtlZVBlMTF0ak5Rd1BSbDlfSS1mWlFTZGl1YmdqOGNITjB4UDhsTXVoTGRjeGxnY0l6MXZRUGlhVWNXNWxNUkFLR1dVUzI3WVA1NlpOVDdPTExWMDNjZw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTdrZmhXd2lvUUVmQTNBaHY0cHMtbmZHejlpTUJrWnFET2pBS0h5bGFwN3ZmdzF5ZmpieDdYbmlLVUI5ZHBTMklSeW9NSUlZcVpqVGtlZVBlMTF0ak5Rd1BSbDlfSS1mWlFTZGl1YmdqOGNITjB4UDhsTXVoTGRjeGxnY0l6MXZRUGlhVWNXNWxNUkFLR1dVUzI3WVA1NlpOVDdPTExWMDNjZw?oc=5)
+
+---
 
 ### [Neue Pilotstudie MS-PAVED sucht Menschen mit Multipler Sklerose](https://news.google.com/rss/articles/CBMigwJBVV95cUxNc19wR3ZFTENZVjVtZDVtNkFNb2paZHBpTjI1TFhNWkxvZzR3R1NtbnhIeEtodnlJSzl4Q2tuRUJFUDFkeXo5NmVZbTJaQW9qeUQwOFpQNXVSZXppcEJBenZMN2JqeFBqbkI0Z25KZnh1aDhBWGhkNGFNR2R3NVZaMjlhNnBXWjBrV2RSd09fRkVVR3BnYVJSQVNjTW1xa0Nkb2JBZzRYX2FNZWJaRVBmN1BXdlpMcVlaMXhrNV9hU0FnZlQ1OGF6WFdJcXJTV2VQc3NDTGdLSHl5a1o3Q1VaLWRVdDVGYUhFS2xTZlpSalZUNTloRkR6OWwwMkZsdm0tUktJ?oc=5)
 
@@ -62,27 +78,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span>
-
-來源：[SWISSLATIN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
-
----
-
 ### [Sie leben in unserem Darm: Diese zwei Bakterien könnten Multiple Sklerose auslösen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[VOL.AT](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
-
----
-
-### [Hours each day in an iron lung kept her breathing, her will to live kept her alive](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
 
 ---
 
@@ -102,14 +102,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Staff at DR Congo Ebola centre strike as virus continues spreading - Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dzWUVIRmdCdEl4cFRfSC1yVTJadm1QbjdPX2RYTzBuS2VLRTNEQmRMc2tlWDlCclRMRWM5U3M1cXY0VHVFakVzbGFlTGp5RS16dXdYUUdrczl6NWJZNWl4c2VfWXJvRDNxZHZYU1V2X3M5WTBRQnc0eXF2dWdsWHJsR19NcFZGcHBGSFN0QzRYdTdURkI0X0dOYmo4RU05WkRXeTczY9IBrAFBVV95cUxQcVNIZWZzWjhraFgwVTBfWVpRTk42NUttN0lPR2dQLUUzUF9LbXQtLUdqSnR6ZnRQYkFIenRMZ2NrVEctVEZRSV9Ebi1JX1U4d2hEb1ozS0lnOFduVTV6aUlTVVdQb0YtRHl4WEhSVTNoVTl0OVBtVThMZXRsaGl5Vk1vR0VydVRJY01oT2RZeVYtZWttZzhCeERsVG00UWQ2Q3lIcjdBTGlZTldW?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dzWUVIRmdCdEl4cFRfSC1yVTJadm1QbjdPX2RYTzBuS2VLRTNEQmRMc2tlWDlCclRMRWM5U3M1cXY0VHVFakVzbGFlTGp5RS16dXdYUUdrczl6NWJZNWl4c2VfWXJvRDNxZHZYU1V2X3M5WTBRQnc0eXF2dWdsWHJsR19NcFZGcHBGSFN0QzRYdTdURkI0X0dOYmo4RU05WkRXeTczY9IBrAFBVV95cUxQcVNIZWZzWjhraFgwVTBfWVpRTk42NUttN0lPR2dQLUUzUF9LbXQtLUdqSnR6ZnRQYkFIenRMZ2NrVEctVEZRSV9Ebi1JX1U4d2hEb1ozS0lnOFduVTV6aUlTVVdQb0YtRHl4WEhSVTNoVTl0OVBtVThMZXRsaGl5Vk1vR0VydVRJY01oT2RZeVYtZWttZzhCeERsVG00UWQ2Q3lIcjdBTGlZTldW?oc=5)
-
----
-
 ### [Nach der Abnehmspritze: Harter Klumpen im Magen – Ärzte verordnen der Frau Cola - Berliner Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXA3SElFLTJ0Tlp6QlhoU3FBczNuSUh1aW9yRDQ4M1BGMnB4Z29RR1ctT0d5RkdRd0RkMWZCTmdMSVVrdkxINHdzOHdCQ2VtWEVocE93SjhBUGg4Rlc3cFhmUzgzRVRWMnkyNmJZcjZEcnFkbEpaazgzQXJPZWVYZWd0OFUtZlNXZ2FkeWhwRlE5eWhtNzNjbloyaUxtR3dfV2JOQllFd0l1YjZfNlp3LWRmRnBGRzJsTXBFV3dhZG9GeThY?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span>
@@ -118,11 +110,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [PIP change of circumstances: autism and ADHD have highest failed-assessment rates - Benefits and Work](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1plb0ZKN3J0Q2syLUZ6ZUJZbUJwZXhLZDVGWVhackJib2dEcXFEYldKbFVxaEhTSDdzUVFTTC1JdzhLZXdvZG1sdHozMjNkekNNdktZWm9jS3BHZExxNHZOZUVtUGZCbG9TTHZOMFRha0hMOGhOT3kxU1hKRUlnWHAwbzJMWGFVTnpRWXl5TnFMMk5ENUJ2dnEwT3dkQzRuQzhndGljQ0FQVW5rRE53SEExOGh2WndqX1Vr?oc=5)
+### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
+
+2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
+
+---
+
+### [The simple daily habit that boosts vitamin D and serotonin (and lowers cortisol)](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcDd1aW0zQmJKUDItcm9xOWlpRU0yXzBIX1RNQklxRVR0SjdsdGtFMnNQcXBnRGhZNFdxZjc5d0NWRGtNRmU3M0lmOVNXeWx6VlFjTnJ6UmFpTFB3ZUFvLTlicFlGYTZU?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span>
 
-來源：[Benefits and Work](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1plb0ZKN3J0Q2syLUZ6ZUJZbUJwZXhLZDVGWVhackJib2dEcXFEYldKbFVxaEhTSDdzUVFTTC1JdzhLZXdvZG1sdHozMjNkekNNdktZWm9jS3BHZExxNHZOZUVtUGZCbG9TTHZOMFRha0hMOGhOT3kxU1hKRUlnWHAwbzJMWGFVTnpRWXl5TnFMMk5ENUJ2dnEwT3dkQzRuQzhndGljQ0FQVW5rRE53SEExOGh2WndqX1Vr?oc=5)
+來源：[vogueadria.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcDd1aW0zQmJKUDItcm9xOWlpRU0yXzBIX1RNQklxRVR0SjdsdGtFMnNQcXBnRGhZNFdxZjc5d0NWRGtNRmU3M0lmOVNXeWx6VlFjTnJ6UmFpTFB3ZUFvLTlicFlGYTZU?oc=5)
 
 ---
 
@@ -139,22 +139,6 @@ permalink: /news/peginterferon-alfa-2a/
 2026-07-13 <span class="news-indication-tag">hepatitis</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wekFXREthT0NRUFNXWEttMDNkbm5HSzhFLWpyR1FMcVhXaURLMHRENmdSU2VodHhOcUdvMmhrZ0lILUl4cEdOeC1oNTVWaGE0emFzV1hTcXpjdGhz?oc=5)
-
----
-
-### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
-
----
-
-### [„Dass Multiple Sklerose heilbar ist, werde ich wohl noch erleben“ - Kölner Stadt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmY5S0VvejNyS19KNU5JNDg2WXpIRVZuSlkzUzA2X09uaWFjT0ZEY3dySXJ1RE9qdEVFSzdnZkFORy1iaFFHMnMxWmtaMmlZTGNnbHdiMlY3R212QXotZkQwOFNBSTZuYjZsTjlwLWJLX3EtQlRFcno3b29nMnpsV3RkVG9DaFM1NzB4QzBrU1NNVnUxS0t6bTloRUh2YnN3Z3oyc3BTc29wNHFBZFNKbFpTN0taWUtVN3kxM1o1LXl3LUtYLTBlQVNnTlMwLVVib3Jr?oc=5)
-
-2026-07-13 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmY5S0VvejNyS19KNU5JNDg2WXpIRVZuSlkzUzA2X09uaWFjT0ZEY3dySXJ1RE9qdEVFSzdnZkFORy1iaFFHMnMxWmtaMmlZTGNnbHdiMlY3R212QXotZkQwOFNBSTZuYjZsTjlwLWJLX3EtQlRFcno3b29nMnpsV3RkVG9DaFM1NzB4QzBrU1NNVnUxS0t6bTloRUh2YnN3Z3oyc3BTc29wNHFBZFNKbFpTN0taWUtVN3kxM1o1LXl3LUtYLTBlQVNnTlMwLVVib3Jr?oc=5)
 
 ---
 
