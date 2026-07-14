@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（12 則）
+
+### [El estreñimiento crónico podría estar relacionado con el “segundo cerebro” del intestino](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVQ2TGtxSDlHR3RCNzYtUkNlM2hhN0w0UmFTR0RranJDeDFRT0dEQWxjTWR1cHAzNldJUlFlMWJCb2JJUGNqXzkycE1TS29KQ3dvUFZaaUo3a08yc0M5WlRPLW1MbDBsN0wxX1ZZS2hfaVlhZDc4cmVRaklPd3lGY1N4bEJ2cEpxX3NYTGsycU81QWF1ak04aHpxbFp4X20yUnJ2LWhkMUJMT0x6R0swcWtPcjhjVUtRYk56Wi15Zkd4NEgyV3Vrd09qb0xISk1LY1HSAewBQVVfeXFMUFZqd0FkYTZEZU5vbUVKbjdlWWc2d3ZuNGlKaF92NVVqWm8tcXJWYk9sWWhUd3Q5bWJrdmt4QlhoQXpfUW40a1FMWEZlRndvMWtFQXV0SGJzc3JJQ1dCVndpTUxsV2tkUFpBQ1BMN1ZHbXNuUnBoMnRId3JKTm5CMmFhSnVDQjdHR280czQ0anJVNVlOWDN4N3d4cVlSdHpIOHpWUWxiU3I4dWVQajhPcXNVQ3c5YmxEam56RnpUZFd6UHpTNWh2SVdRUzdqbXZvNlFzYkhxZHl1YU5YeE90YVU1SGdEcFVRRVdOM1U?oc=5)
+
+2026-07-13 <span class="news-indication-tag">MS</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVQ2TGtxSDlHR3RCNzYtUkNlM2hhN0w0UmFTR0RranJDeDFRT0dEQWxjTWR1cHAzNldJUlFlMWJCb2JJUGNqXzkycE1TS29KQ3dvUFZaaUo3a08yc0M5WlRPLW1MbDBsN0wxX1ZZS2hfaVlhZDc4cmVRaklPd3lGY1N4bEJ2cEpxX3NYTGsycU81QWF1ak04aHpxbFp4X20yUnJ2LWhkMUJMT0x6R0swcWtPcjhjVUtRYk56Wi15Zkd4NEgyV3Vrd09qb0xISk1LY1HSAewBQVVfeXFMUFZqd0FkYTZEZU5vbUVKbjdlWWc2d3ZuNGlKaF92NVVqWm8tcXJWYk9sWWhUd3Q5bWJrdmt4QlhoQXpfUW40a1FMWEZlRndvMWtFQXV0SGJzc3JJQ1dCVndpTUxsV2tkUFpBQ1BMN1ZHbXNuUnBoMnRId3JKTm5CMmFhSnVDQjdHR280czQ0anJVNVlOWDN4N3d4cVlSdHpIOHpWUWxiU3I4dWVQajhPcXNVQ3c5YmxEam56RnpUZFd6UHpTNWh2SVdRUzdqbXZvNlFzYkhxZHl1YU5YeE90YVU1SGdEcFVRRVdOM1U?oc=5)
+
+---
+
+### [Experts Warn Of Commonly Dismissed Dementia Symptoms That Can Surface 15 Years Before Doctors Catch It - Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+
+2026-07-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+
+---
+
+### [U.S. citizen working in Congo tests positive for Ebola - Global News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE45SE5XNGJoN1NvTFAwZkhuQldIODhLN25hUTlyTXY2Q0YzSFBqYnh1SDQtQk9qVVBVMU1wUmRiS09pZldpMVhsZHhSQkJDQUhlVnFMSUdlMlF6QmVneXY1NnRNMTR2S2dseTNyRzZBdDE1eklGXzQ1cXdNMXcwb0JJVERXcjJuZGxxVA?oc=5)
+
+2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Global News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE45SE5XNGJoN1NvTFAwZkhuQldIODhLN25hUTlyTXY2Q0YzSFBqYnh1SDQtQk9qVVBVMU1wUmRiS09pZldpMVhsZHhSQkJDQUhlVnFMSUdlMlF6QmVneXY1NnRNMTR2S2dseTNyRzZBdDE1eklGXzQ1cXdNMXcwb0JJVERXcjJuZGxxVA?oc=5)
+
+---
 
 ### [Nach der Abnehmspritze: Harter Klumpen im Magen – Ärzte verordnen der Frau Cola - Berliner Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXA3SElFLTJ0Tlp6QlhoU3FBczNuSUh1aW9yRDQ4M1BGMnB4Z29RR1ctT0d5RkdRd0RkMWZCTmdMSVVrdkxINHdzOHdCQ2VtWEVocE93SjhBUGg4Rlc3cFhmUzgzRVRWMnkyNmJZcjZEcnFkbEpaazgzQXJPZWVYZWd0OFUtZlNXZ2FkeWhwRlE5eWhtNzNjbloyaUxtR3dfV2JOQllFd0l1YjZfNlp3LWRmRnBGRzJsTXBFV3dhZG9GeThY?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Alzheimer-Prävention: 3.000 Schritte täglich bremsen Tau-Ablagerung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXR1aUNjOXNNTG14dlRuX1NmTjZjQVVfc2thWWhCODYtZTlZcGotTm1wUXVsZ0Nmak5SdlE5X0lET2ROaDRoZWdwOWhBRzFud0M3R3JxamgwLS1iMno1R0VaVjZ3UFFGY2g1RjVCNnVQbE1mVmZtOEE2MXB0V1ZCVVFFWXpBMFBKcFIycDdpSmg3TlhVNGVDUDBiN1Z1SGc1SGtVREJwV1YzLUxpYkNHZ3B3S1haeTRX?oc=5)
+### [PIP change of circumstances: autism and ADHD have highest failed-assessment rates - Benefits and Work](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1plb0ZKN3J0Q2syLUZ6ZUJZbUJwZXhLZDVGWVhackJib2dEcXFEYldKbFVxaEhTSDdzUVFTTC1JdzhLZXdvZG1sdHozMjNkekNNdktZWm9jS3BHZExxNHZOZUVtUGZCbG9TTHZOMFRha0hMOGhOT3kxU1hKRUlnWHAwbzJMWGFVTnpRWXl5TnFMMk5ENUJ2dnEwT3dkQzRuQzhndGljQ0FQVW5rRE53SEExOGh2WndqX1Vr?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXR1aUNjOXNNTG14dlRuX1NmTjZjQVVfc2thWWhCODYtZTlZcGotTm1wUXVsZ0Nmak5SdlE5X0lET2ROaDRoZWdwOWhBRzFud0M3R3JxamgwLS1iMno1R0VaVjZ3UFFGY2g1RjVCNnVQbE1mVmZtOEE2MXB0V1ZCVVFFWXpBMFBKcFIycDdpSmg3TlhVNGVDUDBiN1Z1SGc1SGtVREJwV1YzLUxpYkNHZ3B3S1haeTRX?oc=5)
+來源：[Benefits and Work](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1plb0ZKN3J0Q2syLUZ6ZUJZbUJwZXhLZDVGWVhackJib2dEcXFEYldKbFVxaEhTSDdzUVFTTC1JdzhLZXdvZG1sdHozMjNkekNNdktZWm9jS3BHZExxNHZOZUVtUGZCbG9TTHZOMFRha0hMOGhOT3kxU1hKRUlnWHAwbzJMWGFVTnpRWXl5TnFMMk5ENUJ2dnEwT3dkQzRuQzhndGljQ0FQVW5rRE53SEExOGh2WndqX1Vr?oc=5)
 
 ---
 
@@ -91,6 +115,14 @@ permalink: /news/ledipasvir/
 2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Burgosnoticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2NPSXFyMEIxaWM3dnY0NXJBTUhIX0FSWlU1UDdtYzNqV1lRMUV0OXg3SnNUTUZrcGpQYkN5S0RTbDZqLVpNcnplajdxbW1IeHo2dU5iNDk1aW1ZZThhb2xmNC1LbmVtOTRtN1o3UTlVNGcxaF9kMlQyOU81Y0hNVTVEcHdvYlQ2T1VVQkdjOTVxcF94Z24wenRaSVYtVW5sUkRxZmVIUGZuR0F0YzdSb2FKckJYU2t2RllObV9hajNVY3ROaF9uZTUyMkJrbWdWT2c?oc=5)
+
+---
+
+### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
+
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
 ---
 

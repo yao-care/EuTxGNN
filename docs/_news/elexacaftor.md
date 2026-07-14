@@ -54,11 +54,11 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（5 則）
 
-### [Ernährung am Arbeitsplatz: MIND-Diät senkt Demenzrisiko um 35%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
+### [MIND-Diät: Neue Studie belegt 35-Prozent-Schutz vor Demenz](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0gyRklKZFg5d2RXV3pNeXdTQ3dkclJCbzRGSXkwRnFUR3lLbWZPNEdXVEpHZWlYeDk2MTVYR0x6UWNSV1o2ZjI3SVkzM2s1ZXFfZ2tGWm9meWxYVU5yUEY0TURfTzNUWHYwTkwyQVluVng4VVpBLU1KaGlwYWd4MDNyMHZjMS10ekRWTUtJMkEzRDRyU21zUjl5cldGR0d6Q3NhbDN2Rkw4MUE?oc=5)
 
-2026-07-13 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU9vRUdoTHFka1gxQW8zbjQwaFlQQXpjZmdKRk5GWmFKLWJDdFdDNWk4SVozeGRhU3hoTE11NmQ1WUhzMlRaU3VkQXFkWUpuTGNUYk9icmVvTWR6Z1JGUV9NMUdJbnI3eXJpUlQ3Q21pMjR1VlBTZTZiNkozblNoN0tndjJINGM3TFRjVFZiWHpvQlFaTDg4V1kwb0FhWFZVUlhXVC16dzJ6WXlJMHMwZ0Zlc1hadFFn?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0gyRklKZFg5d2RXV3pNeXdTQ3dkclJCbzRGSXkwRnFUR3lLbWZPNEdXVEpHZWlYeDk2MTVYR0x6UWNSV1o2ZjI3SVkzM2s1ZXFfZ2tGWm9meWxYVU5yUEY0TURfTzNUWHYwTkwyQVluVng4VVpBLU1KaGlwYWd4MDNyMHZjMS10ekRWTUtJMkEzRDRyU21zUjl5cldGR0d6Q3NhbDN2Rkw4MUE?oc=5)
 
 ---
 

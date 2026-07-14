@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [Typ-2-Diabetes: 60 Prozent leiden unter Vitamin-D-Mangel](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+
+---
 
 ### [Intervento innovativo all'ospedale di Perugia: salvato un arto a paziente diabetico](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmczN3VjZWhJZ29qcnZnejNzTm9JeTUxdi1iQzA2XzlZY2puVm5yaXJEY3kzQUo1bnBWR09PVEJYYXpsdHd5MlJaOHhSWDFLZzd1eEdTM2ZFM2ZpdGlBcVVwR2pEQ1k4TzBuSGo5ZTJwSzJmSWNRZHhMNF92cWpwTkx4QjJVZ1UtdzhXSlNxQWUtRzRvYWZyZ2lNdw?oc=5)
 
@@ -102,35 +110,11 @@ permalink: /news/guselkumab/
 
 ---
 
-### [SGLT2-Inhibitoren senken Alzheimer-Risiko: neue Studien und VAE-Programme - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGFELVhleG1OR2R5aEw2aTJQU0JqMjRpaTNfVllpRTRGVG1FRGhNSzVMR1BZdGJGdEk1eG1vX2piZTNVdWRTdm1BdmVqLTdnTXVfNmF5ZjR0RGhaWjhEcl9DM3ZmOGVGaUJfR3d3OFQ2OThpZk1LU2RQcTlENEhqVlozVmlpNFY5ODhiQmgyelNnc2N2MnhaRXp6Z0ZyWlVBMlozalpzSQ?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxORGFELVhleG1OR2R5aEw2aTJQU0JqMjRpaTNfVllpRTRGVG1FRGhNSzVMR1BZdGJGdEk1eG1vX2piZTNVdWRTdm1BdmVqLTdnTXVfNmF5ZjR0RGhaWjhEcl9DM3ZmOGVGaUJfR3d3OFQ2OThpZk1LU2RQcTlENEhqVlozVmlpNFY5ODhiQmgyelNnc2N2MnhaRXp6Z0ZyWlVBMlozalpzSQ?oc=5)
-
----
-
 ### [Diabetespatienten häufiger von Zahn- und Implantatverlust betroffen - ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
 
 2026-07-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
-
----
-
-### [«Mia figlia va all’estero, ma senza dispositivi per il diabete» - Alto Adige](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREs3VFdfRjczcEpnWVBvUU05b1N5Tm1pdDJNd0dNWEZnVExYSXl4dXBBZk15cC1LRlBSTjFDQVhIRXBPRDBrcUsyd1BkRS11bWQ1UDc4aHZjeHNZcVNrTVhCS2d6LWJWRzlLRTk3cGZ5RS1KZGZsTnpObVVqWmhXbzVNNHNzTkduRklLTjk5NFZGd1RBREN2Ym5DSlc3NEFfYTFJdm5RSmNORVE2enNvRXUtVndkcGVBby1vX0VnR2dXdw?oc=5)
-
-2026-07-12 <span class="news-indication-tag">diabete</span>
-
-來源：[Alto Adige](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREs3VFdfRjczcEpnWVBvUU05b1N5Tm1pdDJNd0dNWEZnVExYSXl4dXBBZk15cC1LRlBSTjFDQVhIRXBPRDBrcUsyd1BkRS11bWQ1UDc4aHZjeHNZcVNrTVhCS2d6LWJWRzlLRTk3cGZ5RS1KZGZsTnpObVVqWmhXbzVNNHNzTkduRklLTjk5NFZGd1RBREN2Ym5DSlc3NEFfYTFJdm5RSmNORVE2enNvRXUtVndkcGVBby1vX0VnR2dXdw?oc=5)
-
----
-
-### [Typ-2-Diabetes: Neue Pflicht-Screenings und Mikronährstoff-Lücken - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUtFYXk4VTlhcXBkUnVFSllaVHdfV3hfTTA1TDB2ZDZ5dWdqQ0NFdU54RWFKYmdJVjlaWlo0Znhxa3Y3Tmt4Vnc0ckFDdUhxUm9wdDRBREJSSzdOZnJaTGVrSUhySjY3aEdWLXN5eDFYU1FXMDFDLUVRdjd2THFFMnVtOFhZU0lGczNvdnNkNkRCUDdIb3RHUEc3OG1rakE?oc=5)
-
-2026-07-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUtFYXk4VTlhcXBkUnVFSllaVHdfV3hfTTA1TDB2ZDZ5dWdqQ0NFdU54RWFKYmdJVjlaWlo0Znhxa3Y3Tmt4Vnc0ckFDdUhxUm9wdDRBREJSSzdOZnJaTGVrSUhySjY3aEdWLXN5eDFYU1FXMDFDLUVRdjd2THFFMnVtOFhZU0lGczNvdnNkNkRCUDdIb3RHUEc3OG1rakE?oc=5)
 
 ---
 

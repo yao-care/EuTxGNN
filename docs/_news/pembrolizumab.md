@@ -14,7 +14,7 @@ permalink: /news/pembrolizumab/
 ---
 
 <p class="key-answer" data-question="Pembrolizumab 有什麼相關新聞？">
-<strong>Pembrolizumab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pembrolizumab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/pembrolizumab/
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（29 則）
 
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
 
-2026-07-13 <span class="news-indication-tag">tumor</span>
+2026-07-14 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+
+---
+
+### [Resultados del Ensayo LatAm-FINGERS sobre Deterioro Cognitivo Un estudio realizado desde Argentina. - Gestión y Economía de la Salud](https://news.google.com/rss/articles/CBMingFBVV95cUxNMXZRTEdJdGd2YnZnbGIySUpjaXdFV0VjV0FIVjcxWWg2VGFqM0gyN0hwd1BnZGM2bU5QSVJDczVWLVp4MmxSUFpXNmh1TXdXd2pMam1MYl90Wl9BOFpKUEJ2SEt6WFVDNmhJYU5ETTBOZExXLXpMdERTVlhpNEFLbUZKd2xvMVJVUjZsWEtVX3FWQmgyWVNRczhVTjRWdw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Gestión y Economía de la Salud](https://news.google.com/rss/articles/CBMingFBVV95cUxNMXZRTEdJdGd2YnZnbGIySUpjaXdFV0VjV0FIVjcxWWg2VGFqM0gyN0hwd1BnZGM2bU5QSVJDczVWLVp4MmxSUFpXNmh1TXdXd2pMam1MYl90Wl9BOFpKUEJ2SEt6WFVDNmhJYU5ETTBOZExXLXpMdERTVlhpNEFLbUZKd2xvMVJVUjZsWEtVX3FWQmgyWVNRczhVTjRWdw?oc=5)
+
+---
+
+### [Experts Warn Of Commonly Dismissed Dementia Symptoms That Can Surface 15 Years Before Doctors Catch It - Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+
+2026-07-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+
+---
+
+### [“Quel piccolo neo nell’occhio era un melanoma”: Jez Bridges e il tumore scoperto a un controllo della vista](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkQyRXYyS2ZDX2ZsVF9yMnVBcTZrYjQwLVRnOUpibUVJU1lBZmhyUHIzeWZKdXRIUHJlNURmQ0NfSGE4TGlUUmo4eEdwX2hGdnpxZGdUU1hUeFVncUx4bl9HTHJ1Z0l6Vk1uckR5WjY0ekJST1lkMGtLQmtZZ01NQVh1Q092cmdWc1h2Wm9fenFSQkpMV2pZbXYwUGoyR2M1SllaQldmVFZBbWVuMG45Tmh0aGxxUFVETy1RdUxDMFhiUDVYbnV4aGNmRVd2Z1ItMGx1aDZ2MG1KRGFtSWNmYw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumor</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkQyRXYyS2ZDX2ZsVF9yMnVBcTZrYjQwLVRnOUpibUVJU1lBZmhyUHIzeWZKdXRIUHJlNURmQ0NfSGE4TGlUUmo4eEdwX2hGdnpxZGdUU1hUeFVncUx4bl9HTHJ1Z0l6Vk1uckR5WjY0ekJST1lkMGtLQmtZZ01NQVh1Q092cmdWc1h2Wm9fenFSQkpMV2pZbXYwUGoyR2M1SllaQldmVFZBbWVuMG45Tmh0aGxxUFVETy1RdUxDMFhiUDVYbnV4aGNmRVd2Z1ItMGx1aDZ2MG1KRGFtSWNmYw?oc=5)
 
 ---
 
@@ -86,14 +110,6 @@ permalink: /news/pembrolizumab/
 
 ---
 
-### [El estudio que demuestra que cinco hábitos cotidianos mejoran la salud cognitiva en mayores - Libertad Digital](https://news.google.com/rss/articles/CBMingJBVV95cUxQTUc2cFVYQVl5eHVLemxfRXdRWHZxMExiOUkxV2ZRQ2ZQVHp2VktEeGEtY3hQbXdCT0p5UFYxMWNnYzVpUEp3ZHRtclBOMmZHU2c1SkdVYTVQRThqYzczTFZUYkRTbzhCcGRSSnczZXRhcW1NR3ZHT18xQ3FsNzJGOVo2U05CNHdTc1BwYnprLXNndEx2VGhtRl96UmFvWWNmM25vcW1rektDbjhpcjMzbDVNbUVHWXdyZmRudWNHNGZwaC1yR0tnTkZtSG1pUVR4SmExSWJZaXlZcFNNa0h5R05Edld5c0QzQkprRE1xTTA1cUlMdGZrSnB1SFh6eDAtSTE4cUZXWWh0c1IyS3pGdDZtUFRtb0YxOV81Tm5n0gGoAkFVX3lxTE9oeFc2bktXSEdlTEdMNUJsbVJMSjZETlg0Y2kxTXU5NENhcHJkdjQwRWY3ekNrb3ROdE1oZTFPV3B1Zi1yZWUyeHlYWDJ6b3UzdU1KUEI3TU1fbHlTWXJPT052dGt5ZjRLaE1tSVdPeFdUeEF3OWhCZEZMMk1jQll2UnlveXp4dUw0bTVyOWlIWmJrV2JUOGxjeXR4LWJZNl9HR0VHMzNERnltUU43ODZ2cDFBWVZYQzJXaWNla2dIb1BneUhfN3RpM3Nsc0lFaG5nT2NmS2t3QzlDaElENmpyWGZnb0xfU0hXS1hKb0hzeDQ0RHZKMUVmV0tPNlJiRko0S0JacjhZQ1pRell5T25VeVZnTWk4N2pfSmkxTnJvN0VxRGxvODU1?oc=5)
-
-2026-07-13 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMingJBVV95cUxQTUc2cFVYQVl5eHVLemxfRXdRWHZxMExiOUkxV2ZRQ2ZQVHp2VktEeGEtY3hQbXdCT0p5UFYxMWNnYzVpUEp3ZHRtclBOMmZHU2c1SkdVYTVQRThqYzczTFZUYkRTbzhCcGRSSnczZXRhcW1NR3ZHT18xQ3FsNzJGOVo2U05CNHdTc1BwYnprLXNndEx2VGhtRl96UmFvWWNmM25vcW1rektDbjhpcjMzbDVNbUVHWXdyZmRudWNHNGZwaC1yR0tnTkZtSG1pUVR4SmExSWJZaXlZcFNNa0h5R05Edld5c0QzQkprRE1xTTA1cUlMdGZrSnB1SFh6eDAtSTE4cUZXWWh0c1IyS3pGdDZtUFRtb0YxOV81Tm5n0gGoAkFVX3lxTE9oeFc2bktXSEdlTEdMNUJsbVJMSjZETlg0Y2kxTXU5NENhcHJkdjQwRWY3ekNrb3ROdE1oZTFPV3B1Zi1yZWUyeHlYWDJ6b3UzdU1KUEI3TU1fbHlTWXJPT052dGt5ZjRLaE1tSVdPeFdUeEF3OWhCZEZMMk1jQll2UnlveXp4dUw0bTVyOWlIWmJrV2JUOGxjeXR4LWJZNl9HR0VHMzNERnltUU43ODZ2cDFBWVZYQzJXaWNla2dIb1BneUhfN3RpM3Nsc0lFaG5nT2NmS2t3QzlDaElENmpyWGZnb0xfU0hXS1hKb0hzeDQ0RHZKMUVmV0tPNlJiRko0S0JacjhZQ1pRell5T25VeVZnTWk4N2pfSmkxTnJvN0VxRGxvODU1?oc=5)
-
----
-
 ### [First sign of my cancer struck when I drank - it had been growing for 10 YEARS - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWlyZENHMGJBaW1YenpYSHpIRUNNTG9zYTdydlFDRWdtNzFnUE9CWWNxNjhyTTBWclJYN0s2ZUFLUHFrOUl3UWhzY2tScHp5T2hwV0RvQlhwMm1JYl91TnN3YmlhTi1NaVM0NXlHU2JzckR6RmRwMUROMzk2VU8tbXJHbnExRU5iSXgwNXluTUVVQQ?oc=5)
 
 2026-07-13 <span class="news-indication-tag">cancer</span>
@@ -110,11 +126,27 @@ permalink: /news/pembrolizumab/
 
 ---
 
+### [El diagnóstico precoz, clave para mejorar el abordaje del sarcoma: “Al ser poco frecuentes, no se piensa en ellos”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObllXSHc4YVV6bHlvSzRtY0dCYmJOQ1hkeVJ6cGhhTzRTeDBTbFgzcHlmek16NVUyNGFmdnZ0U0xjNy14QVRrTUFGYkduWHYzRi1ILUVmdnJzNHRVZjdHb0lnd19xWU9DUUc3eVJRWlhzQzFGRWR3bjZINFcyMFU2akNfOV91Ny1Nb1ZSTWpQSC1GTjVjcFJaSFVLQXNYNFNRdk0zdE9XdC1KdDlMd01ORkpLVno2eEx5TGJ3Vl9fQ2pob1dTeTJLcjl4QndIcVlHelI1VE05QWJCWnV3dy1pU29n?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumor</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObllXSHc4YVV6bHlvSzRtY0dCYmJOQ1hkeVJ6cGhhTzRTeDBTbFgzcHlmek16NVUyNGFmdnZ0U0xjNy14QVRrTUFGYkduWHYzRi1ILUVmdnJzNHRVZjdHb0lnd19xWU9DUUc3eVJRWlhzQzFGRWR3bjZINFcyMFU2akNfOV91Ny1Nb1ZSTWpQSC1GTjVjcFJaSFVLQXNYNFNRdk0zdE9XdC1KdDlMd01ORkpLVno2eEx5TGJ3Vl9fQ2pob1dTeTJLcjl4QndIcVlHelI1VE05QWJCWnV3dy1pU29n?oc=5)
+
+---
+
 ### [Tumore pancreas: nuovo test del sangue ad alta sensibilità per rilevarne le tracce - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFdyZ0pTUkZodU5WODJvS1pTR0ZFcU5HTk51NzQ2YjI1cnA3dzR2MktYbDR6bFRORTY5b2F1QTRqcmdTOWpqWjZZbUhTV3FKZzhMR01rYmdmc052MW1rdmlWdlNlWkd0dHFLbG95WTRmMDl2SmxYZ2JzaVV0NU5qWGtMMlFVV2pUSEZvOXA5YksyZUx0bDhVTnJEV3VjNDBKbWpCVWNqRUw3bmZySC1YSWpjbw?oc=5)
 
 2026-07-13 <span class="news-indication-tag">tumor</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFdyZ0pTUkZodU5WODJvS1pTR0ZFcU5HTk51NzQ2YjI1cnA3dzR2MktYbDR6bFRORTY5b2F1QTRqcmdTOWpqWjZZbUhTV3FKZzhMR01rYmdmc052MW1rdmlWdlNlWkd0dHFLbG95WTRmMDl2SmxYZ2JzaVV0NU5qWGtMMlFVV2pUSEZvOXA5YksyZUx0bDhVTnJEV3VjNDBKbWpCVWNqRUw3bmZySC1YSWpjbw?oc=5)
+
+---
+
+### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
+
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
 ---
 
@@ -131,14 +163,6 @@ permalink: /news/pembrolizumab/
 2026-07-13 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMisAFBVV95cUxQakNzd3hNWlNfZGJPWXVhZURZQm00TDluX3djYVdzUlFuTG5GZUdKXzh1bmcxek8zZ2lrQW9iLV9TUHBBeDNkS0ZTWXdTMHZMWk84d09kNnVSZXJGMko0TVNjN3dZQjJQY1JROGZ2b0U5UDFVeTAybzR2U3c2Q1c5aVBXWThGU0hRV09Xay1aSUFzejhpemJibnFHR0h1SnVFMVpMdGRtYkVTUEVWNGJxcQ?oc=5)
-
----
-
-### [A Drug Already Proven Safe in Humans Just Reduced Multiple Signs of Alzheimer's in Mice](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDFKMTFmc3JsQ1UxelNzZWxCbjB1WHZzRHJTU1JsYTdSb1NWV1JGZXRjdkxoTUI5VzF1ZnF0MzVXXzJGMWI5TGgtY3ZMc29qcE5VQXhPSU1KeEltbHFMaXhqcHJrajRxWWk3aXh6bjVoR01EeUxTazJLRDYxU3lWTlRpdEktQ0VEdUZtaWtWT1hwZXYyTlE?oc=5)
-
-2026-07-13 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDFKMTFmc3JsQ1UxelNzZWxCbjB1WHZzRHJTU1JsYTdSb1NWV1JGZXRjdkxoTUI5VzF1ZnF0MzVXXzJGMWI5TGgtY3ZMc29qcE5VQXhPSU1KeEltbHFMaXhqcHJrajRxWWk3aXh6bjVoR01EeUxTazJLRDYxU3lWTlRpdEktQ0VEdUZtaWtWT1hwZXYyTlE?oc=5)
 
 ---
 
@@ -259,14 +283,6 @@ permalink: /news/pembrolizumab/
 2026-07-12 <span class="news-indication-tag">cancer</span>
 
 來源：[The York Press](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaXFKRTZLRUlwYThPWGRsajFOOGRXaFQ0UEZVQXpfSHRBVnBRbVpkNFlnOU5hUEZNWi1kOUg4MWdKcHJQREJ5YzE2UDVLOWRuUFNvXzdjUTIxTkY0dzZHd3l0clZtVGZUclRDTDVBcWdaVGJtbEVyZjdUVEFnZkZadGtPMUstSjZWY2k4Sg?oc=5)
-
----
-
-### [Tumore del rene: al San Raffaele un modello di IA stima il rischio prima dell’intervento](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
-
-2026-07-11 <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYklSRTQxSHlPZUJwdHhiOVpldENJcXNpSVpuZWRBNW1OSzRpN1pRSmczbkpuSU1LSVpzbkphTTVjMFRPRlZLRWQ5QU93cEllRW1EQ0lsdF8wa3AxRjhJcVBtT2FkeUpHY0twRTVsNUVSUE5jTlBxN3kyQjNJVUdYT1l3TV9mWGhIU2tCZ2FJdm42c1RicmhrcTU3bVJYd3BIS192Nl9lOGFESWlrcjVSbmhWUmJDM09GRUREMWx5eURaWmI4ekk3OUh5YVByQkM2S2RGTXZqRG5iVG9EcTZR?oc=5)
 
 ---
 

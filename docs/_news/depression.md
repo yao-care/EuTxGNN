@@ -37,7 +37,7 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [Neuromodulación para depresión mayor farmacorresistente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
+### [Neuromodulación como alternativa de primera línea para depresión mayor farmacorresistente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
 
 2026-07-13
 
