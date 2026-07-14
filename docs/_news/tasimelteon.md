@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Pablo Ojeda, nutricionista, indica el suplemento que debes tomar para prevenir la demencia y el alzhéimer: «Ha demostrado ser efectiva»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWUyOHdCbmlYX2s0a0xsWUdSbUNZcEdFeElFTW4tS3pCbm80Qzduc0RrS05KTms5TkdOTUozeFVGbVlSbXNtRHJSZjdna3FxbG1yck92NzdnLUVZSnlrNjVaN0ROZ2VlUGtSeEZ4b21CN1U4eTZUQVNseDVjTzQzZk1SR3M2M2JMb1NxQlpnLXFrT01mSEtUNi1XREo3UWJHclpyQncyRGJkUEXSAbABQVVfeXFMUEFlNDB0dzRHWEp4Tlg0Q2pGZjlQWkpEX2c0Z0pOVmpOeWhJazhUV0oxUjBEQ2tlZWd3MW8yRTJPbk9OUXY3Sm5iU2N5bWdXZENHbXdZdUlvbjFtN25JU2l3bXYwdXVWZUo0YlNveHRtNjFXczBHX29ScUVxX3A1Slo1TzFtWmg3a1E1dnZmLU16eThVTXFadUxVNDFQSVgtZjNXTlZ5NU53cG9FU3lGSXQ?oc=5)
+
+2026-07-14 <span class="news-indication-tag">depresión</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWUyOHdCbmlYX2s0a0xsWUdSbUNZcEdFeElFTW4tS3pCbm80Qzduc0RrS05KTms5TkdOTUozeFVGbVlSbXNtRHJSZjdna3FxbG1yck92NzdnLUVZSnlrNjVaN0ROZ2VlUGtSeEZ4b21CN1U4eTZUQVNseDVjTzQzZk1SR3M2M2JMb1NxQlpnLXFrT01mSEtUNi1XREo3UWJHclpyQncyRGJkUEXSAbABQVVfeXFMUEFlNDB0dzRHWEp4Tlg0Q2pGZjlQWkpEX2c0Z0pOVmpOeWhJazhUV0oxUjBEQ2tlZWd3MW8yRTJPbk9OUXY3Sm5iU2N5bWdXZENHbXdZdUlvbjFtN25JU2l3bXYwdXVWZUo0YlNveHRtNjFXczBHX29ScUVxX3A1Slo1TzFtWmg3a1E1dnZmLU16eThVTXFadUxVNDFQSVgtZjNXTlZ5NU53cG9FU3lGSXQ?oc=5)
+
+---
 
 ### [Neuromodulación como alternativa de primera línea para depresión mayor farmacorresistente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
 

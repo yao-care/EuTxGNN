@@ -54,11 +54,19 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（10 則）
 
-### [Typ-2-Diabetes: 60 Prozent leiden unter Vitamin-D-Mangel](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+### [Typ-2-Diabetes: 60 Prozent leiden unter Vitamin-D-Mangel - Ad Hoc News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
 
 2026-07-13 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+
+---
+
+### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
 
 ---
 
@@ -107,14 +115,6 @@ permalink: /news/sacubitril/
 2026-07-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnhReE9mZFZ3b2o2T3VlNkROTE12OGdLVzJTckZkeGdJcFZrWUROR2Ftb2dMcE96ME5PN2g2SVFDd2FKR201RHV0bnBWOC1JUkN4NDZYZV8tQlJ5VkJyQ09KWGJvU0RTd3NHaUw1MTdOQUtQU3hiVENYbjRVN0RKcjJoZXJ0Z2h3OTVibmh6RU90MEtLeFNXNTRmTmR6bHZXMV9mcTM4cWtVRm9KWDhZb2NWN1AzdEJ3RTJhNnE2Uzc5aTQzWWdrZDVwUW1ka2Q4c0g2RHVBX242bEU?oc=5)
-
----
-
-### [Simple Shot Shows Promise to Reverse Osteo-Arthritis Within Months, Following Animal Treatments - Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
-
-2026-07-13 <span class="news-indication-tag">arthritis</span>
-
-來源：[Good News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RoQ2s0Q0VrcEJlNjZlRHVvZ2FCQWFmMTRfUmZueGRHd25KNEVOUW5Pd3ROX1pMNDl0Ym9FVW83RjN1ZXpMZjhHUVJCdzJtMWdfQndfaHpMa1hOOV9rajRHb1Ftbkc5NGxVOWRhOWpFVld4MjFMclYxQ2dJbWstNExhSW14cDBMdlgzVWZabkhEWEhSS1RkTFJHdGN4TW82d1VN?oc=5)
 
 ---
 

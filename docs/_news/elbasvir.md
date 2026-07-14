@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
 
-### [El estreñimiento crónico podría estar relacionado con el “segundo cerebro” del intestino](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVQ2TGtxSDlHR3RCNzYtUkNlM2hhN0w0UmFTR0RranJDeDFRT0dEQWxjTWR1cHAzNldJUlFlMWJCb2JJUGNqXzkycE1TS29KQ3dvUFZaaUo3a08yc0M5WlRPLW1MbDBsN0wxX1ZZS2hfaVlhZDc4cmVRaklPd3lGY1N4bEJ2cEpxX3NYTGsycU81QWF1ak04aHpxbFp4X20yUnJ2LWhkMUJMT0x6R0swcWtPcjhjVUtRYk56Wi15Zkd4NEgyV3Vrd09qb0xISk1LY1HSAewBQVVfeXFMUFZqd0FkYTZEZU5vbUVKbjdlWWc2d3ZuNGlKaF92NVVqWm8tcXJWYk9sWWhUd3Q5bWJrdmt4QlhoQXpfUW40a1FMWEZlRndvMWtFQXV0SGJzc3JJQ1dCVndpTUxsV2tkUFpBQ1BMN1ZHbXNuUnBoMnRId3JKTm5CMmFhSnVDQjdHR280czQ0anJVNVlOWDN4N3d4cVlSdHpIOHpWUWxiU3I4dWVQajhPcXNVQ3c5YmxEam56RnpUZFd6UHpTNWh2SVdRUzdqbXZvNlFzYkhxZHl1YU5YeE90YVU1SGdEcFVRRVdOM1U?oc=5)
+### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[SWISSLATIN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
+
+---
+
+### [NHS hopes ‘sepsis sensors’ will save thousands of lives - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
+
+---
+
+### [Sie leben in unserem Darm: Diese zwei Bakterien könnten Multiple Sklerose auslösen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
+
+2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[VOL.AT](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
+
+---
+
+### [ADHD and periods: Are my hormones making my symptoms worse?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wM25UZndESEdyNHVFaTE2NWo0VktPdURqb2R5OHN3dUhOWVlJYUtvS2VlTkR1aTJ6VEp5RHVwZmdmLUhCcnpiNTlmT18xVldiM0dtTURtWHZrWjRU?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span>
 
-來源：[Infobae](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVQ2TGtxSDlHR3RCNzYtUkNlM2hhN0w0UmFTR0RranJDeDFRT0dEQWxjTWR1cHAzNldJUlFlMWJCb2JJUGNqXzkycE1TS29KQ3dvUFZaaUo3a08yc0M5WlRPLW1MbDBsN0wxX1ZZS2hfaVlhZDc4cmVRaklPd3lGY1N4bEJ2cEpxX3NYTGsycU81QWF1ak04aHpxbFp4X20yUnJ2LWhkMUJMT0x6R0swcWtPcjhjVUtRYk56Wi15Zkd4NEgyV3Vrd09qb0xISk1LY1HSAewBQVVfeXFMUFZqd0FkYTZEZU5vbUVKbjdlWWc2d3ZuNGlKaF92NVVqWm8tcXJWYk9sWWhUd3Q5bWJrdmt4QlhoQXpfUW40a1FMWEZlRndvMWtFQXV0SGJzc3JJQ1dCVndpTUxsV2tkUFpBQ1BMN1ZHbXNuUnBoMnRId3JKTm5CMmFhSnVDQjdHR280czQ0anJVNVlOWDN4N3d4cVlSdHpIOHpWUWxiU3I4dWVQajhPcXNVQ3c5YmxEam56RnpUZFd6UHpTNWh2SVdRUzdqbXZvNlFzYkhxZHl1YU5YeE90YVU1SGdEcFVRRVdOM1U?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wM25UZndESEdyNHVFaTE2NWo0VktPdURqb2R5OHN3dUhOWVlJYUtvS2VlTkR1aTJ6VEp5RHVwZmdmLUhCcnpiNTlmT18xVldiM0dtTURtWHZrWjRU?oc=5)
 
 ---
 
@@ -70,11 +94,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [U.S. citizen working in Congo tests positive for Ebola - Global News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE45SE5XNGJoN1NvTFAwZkhuQldIODhLN25hUTlyTXY2Q0YzSFBqYnh1SDQtQk9qVVBVMU1wUmRiS09pZldpMVhsZHhSQkJDQUhlVnFMSUdlMlF6QmVneXY1NnRNMTR2S2dseTNyRzZBdDE1eklGXzQ1cXdNMXcwb0JJVERXcjJuZGxxVA?oc=5)
+### [Staff at DR Congo Ebola centre strike as virus continues spreading - Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dzWUVIRmdCdEl4cFRfSC1yVTJadm1QbjdPX2RYTzBuS2VLRTNEQmRMc2tlWDlCclRMRWM5U3M1cXY0VHVFakVzbGFlTGp5RS16dXdYUUdrczl6NWJZNWl4c2VfWXJvRDNxZHZYU1V2X3M5WTBRQnc0eXF2dWdsWHJsR19NcFZGcHBGSFN0QzRYdTdURkI0X0dOYmo4RU05WkRXeTczY9IBrAFBVV95cUxQcVNIZWZzWjhraFgwVTBfWVpRTk42NUttN0lPR2dQLUUzUF9LbXQtLUdqSnR6ZnRQYkFIenRMZ2NrVEctVEZRSV9Ebi1JX1U4d2hEb1ozS0lnOFduVTV6aUlTVVdQb0YtRHl4WEhSVTNoVTl0OVBtVThMZXRsaGl5Vk1vR0VydVRJY01oT2RZeVYtZWttZzhCeERsVG00UWQ2Q3lIcjdBTGlZTldW?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Global News](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE45SE5XNGJoN1NvTFAwZkhuQldIODhLN25hUTlyTXY2Q0YzSFBqYnh1SDQtQk9qVVBVMU1wUmRiS09pZldpMVhsZHhSQkJDQUhlVnFMSUdlMlF6QmVneXY1NnRNMTR2S2dseTNyRzZBdDE1eklGXzQ1cXdNMXcwb0JJVERXcjJuZGxxVA?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dzWUVIRmdCdEl4cFRfSC1yVTJadm1QbjdPX2RYTzBuS2VLRTNEQmRMc2tlWDlCclRMRWM5U3M1cXY0VHVFakVzbGFlTGp5RS16dXdYUUdrczl6NWJZNWl4c2VfWXJvRDNxZHZYU1V2X3M5WTBRQnc0eXF2dWdsWHJsR19NcFZGcHBGSFN0QzRYdTdURkI0X0dOYmo4RU05WkRXeTczY9IBrAFBVV95cUxQcVNIZWZzWjhraFgwVTBfWVpRTk42NUttN0lPR2dQLUUzUF9LbXQtLUdqSnR6ZnRQYkFIenRMZ2NrVEctVEZRSV9Ebi1JX1U4d2hEb1ozS0lnOFduVTV6aUlTVVdQb0YtRHl4WEhSVTNoVTl0OVBtVThMZXRsaGl5Vk1vR0VydVRJY01oT2RZeVYtZWttZzhCeERsVG00UWQ2Q3lIcjdBTGlZTldW?oc=5)
 
 ---
 
@@ -102,19 +126,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Osteoporose-Prävention: Calcium + Vitamin D senken Risiko um 16%](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpZUFBYekw4Rk5QWmhPZTFQQmc0RzBQQk9PdEM3amZBMFNnbTAtZ0toYnpEcl9YcmY1YnRFQkZtQmk2TWdWMVhTUnRyeGhWMVpXYXZHVm93Um1VUGgwU1ZwWThkNlBZQUtIcms2Y2FCVjRPVXc4OEdvbWxFc1p5MTNqellKRU9NSGg3dDNYTlV3MVk2WjVMRS11Mlo3ZXE0WmtCUXBBSkwtNjlGMHNDUXFOYkVmSEJGM3c?oc=5)
+### [Osteoporose-Prävention: Calcium + Vitamin D senken Risiko um 16% - Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpZUFBYekw4Rk5QWmhPZTFQQmc0RzBQQk9PdEM3amZBMFNnbTAtZ0toYnpEcl9YcmY1YnRFQkZtQmk2TWdWMVhTUnRyeGhWMVpXYXZHVm93Um1VUGgwU1ZwWThkNlBZQUtIcms2Y2FCVjRPVXc4OEdvbWxFc1p5MTNqellKRU9NSGg3dDNYTlV3MVk2WjVMRS11Mlo3ZXE0WmtCUXBBSkwtNjlGMHNDUXFOYkVmSEJGM3c?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpZUFBYekw4Rk5QWmhPZTFQQmc0RzBQQk9PdEM3amZBMFNnbTAtZ0toYnpEcl9YcmY1YnRFQkZtQmk2TWdWMVhTUnRyeGhWMVpXYXZHVm93Um1VUGgwU1ZwWThkNlBZQUtIcms2Y2FCVjRPVXc4OEdvbWxFc1p5MTNqellKRU9NSGg3dDNYTlV3MVk2WjVMRS11Mlo3ZXE0WmtCUXBBSkwtNjlGMHNDUXFOYkVmSEJGM3c?oc=5)
-
----
-
-### [La OMS advierte de que el cáncer sigue siendo la segunda causa de muerte en el mundo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2NPSXFyMEIxaWM3dnY0NXJBTUhIX0FSWlU1UDdtYzNqV1lRMUV0OXg3SnNUTUZrcGpQYkN5S0RTbDZqLVpNcnplajdxbW1IeHo2dU5iNDk1aW1ZZThhb2xmNC1LbmVtOTRtN1o3UTlVNGcxaF9kMlQyOU81Y0hNVTVEcHdvYlQ2T1VVQkdjOTVxcF94Z24wenRaSVYtVW5sUkRxZmVIUGZuR0F0YzdSb2FKckJYU2t2RllObV9hajNVY3ROaF9uZTUyMkJrbWdWT2c?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Burgosnoticias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2NPSXFyMEIxaWM3dnY0NXJBTUhIX0FSWlU1UDdtYzNqV1lRMUV0OXg3SnNUTUZrcGpQYkN5S0RTbDZqLVpNcnplajdxbW1IeHo2dU5iNDk1aW1ZZThhb2xmNC1LbmVtOTRtN1o3UTlVNGcxaF9kMlQyOU81Y0hNVTVEcHdvYlQ2T1VVQkdjOTVxcF94Z24wenRaSVYtVW5sUkRxZmVIUGZuR0F0YzdSb2FKckJYU2t2RllObV9hajNVY3ROaF9uZTUyMkJrbWdWT2c?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpZUFBYekw4Rk5QWmhPZTFQQmc0RzBQQk9PdEM3amZBMFNnbTAtZ0toYnpEcl9YcmY1YnRFQkZtQmk2TWdWMVhTUnRyeGhWMVpXYXZHVm93Um1VUGgwU1ZwWThkNlBZQUtIcms2Y2FCVjRPVXc4OEdvbWxFc1p5MTNqellKRU9NSGg3dDNYTlV3MVk2WjVMRS11Mlo3ZXE0WmtCUXBBSkwtNjlGMHNDUXFOYkVmSEJGM3c?oc=5)
 
 ---
 
@@ -131,6 +147,14 @@ permalink: /news/elbasvir/
 2026-07-13 <span class="news-indication-tag">hepatitis</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wekFXREthT0NRUFNXWEttMDNkbm5HSzhFLWpyR1FMcVhXaURLMHRENmdSU2VodHhOcUdvMmhrZ0lILUl4cEdOeC1oNTVWaGE0emFzV1hTcXpjdGhz?oc=5)
+
+---
+
+### [Scientists discover a hidden heart valve risk linked to gum disease](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
+
+2026-07-13 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5)
 
 ---
 

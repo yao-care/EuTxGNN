@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Diseñan nuevas estrategias para proteger el riñón de la diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/bupropion/
 2026-07-13 <span class="news-indication-tag">obesidad</span>
 
 來源：[Cadena SER](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTdpcjhnR0FDbkhuOXo2TVVicWlDY1BxSk5SeVlvaGMzTXFUcHZHWUEwQ29QaExHWVhqNThRWW5oa1VReGMxS3ZSX3V1b01QYjdWSjJOSDMzSmFwUWlkT001NVl5OEhxbmxHVmVpQm5QcnlzTmsyU2lRQTlEaU1tVC13R2FfWjZzNWltZkhpS1EtUkVsdEpIUGRYZGZlR0Z3MnY5NzlXcDV6VGRCRFRubF9tWFNzVWZoVTVOeEI5Ny1GZVFSX1BQb0s4NDRyb3FTdEJJeHRmcFlkVGFGZEdkVXJYRzlEZ9IB-gFBVV95cUxOdzdHa3VtR0t3NE95R1Rxc2kzUm9BLS1Ib2R1cl9ubm55bG1uOG90V2ZUZTVzRjJad3IzR0c1OFpNakpxY0o1Q0dRTFdLV2h5RzJ3V1MwLWVneUU1Rm9idWNwV016V3pVWHJkQkc2eW1mYk1YeWFUci1PaVpWR2lQZmNqTHExazQ3VGF6SXhFZUtPMDZkZUd2Mk9EZ3JaS0Fhc2ZUNDRDcU9xeWJNS2phT1hMYTE2WXNOblRVZWhYeWYzWXhneWQyeU93VHpJa1hPbVRqUGJVMzZUYVJUNHJ4R3d3VUtVYjRKYVVTeWZiTGdIZGpTaDk4c2J3?oc=5)
-
----
-
-### [On accuse le gras de nos assiettes d'engraisser le foie : la science montre qu'un sucre présent dans les sodas fait bien pire](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
-
-2026-07-12 <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
 
 ---
 

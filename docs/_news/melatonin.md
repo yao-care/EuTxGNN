@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Diseñan nuevas estrategias para proteger el riñón de la diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/melatonin/
 2026-07-13 <span class="news-indication-tag">migraña</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
-
----
-
-### [On accuse le gras de nos assiettes d'engraisser le foie : la science montre qu'un sucre présent dans les sodas fait bien pire](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
-
-2026-07-12 <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGN1NjlPYlJ4V3pOaXdCRmI2LUFWTWlwSlB6UGJRMklONEVrZlZkR2lFNHo3V1JDUFBvRF9XR0thN2ZxWURsVXVvVENkM3hvbzM2X0RyaE81blFMdVo1aFJOUW1mQWMzWW53WG8wMG03QkRIeEtvZmowQVJJMGFDaEoteFNTdWR5bmdhSDh2SHhibFNSRXB5YVk5ZmxENWZXeWhzZ3pWdHViQXVWUGYwUWgybTUtZ05CMTBueDdzOEVWVU1GLXllLUdpbW5PbnJGcHVFVDZCaE5YbWlUc3hoQg?oc=5)
 
 ---
 
