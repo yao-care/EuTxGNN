@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（13 則）
+
+### [Neue Pilotstudie MS-PAVED sucht Menschen mit Multipler Sklerose](https://news.google.com/rss/articles/CBMigwJBVV95cUxNc19wR3ZFTENZVjVtZDVtNkFNb2paZHBpTjI1TFhNWkxvZzR3R1NtbnhIeEtodnlJSzl4Q2tuRUJFUDFkeXo5NmVZbTJaQW9qeUQwOFpQNXVSZXppcEJBenZMN2JqeFBqbkI0Z25KZnh1aDhBWGhkNGFNR2R3NVZaMjlhNnBXWjBrV2RSd09fRkVVR3BnYVJSQVNjTW1xa0Nkb2JBZzRYX2FNZWJaRVBmN1BXdlpMcVlaMXhrNV9hU0FnZlQ1OGF6WFdJcXJTV2VQc3NDTGdLSHl5a1o3Q1VaLWRVdDVGYUhFS2xTZlpSalZUNTloRkR6OWwwMkZsdm0tUktJ?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMigwJBVV95cUxNc19wR3ZFTENZVjVtZDVtNkFNb2paZHBpTjI1TFhNWkxvZzR3R1NtbnhIeEtodnlJSzl4Q2tuRUJFUDFkeXo5NmVZbTJaQW9qeUQwOFpQNXVSZXppcEJBenZMN2JqeFBqbkI0Z25KZnh1aDhBWGhkNGFNR2R3NVZaMjlhNnBXWjBrV2RSd09fRkVVR3BnYVJSQVNjTW1xa0Nkb2JBZzRYX2FNZWJaRVBmN1BXdlpMcVlaMXhrNV9hU0FnZlQ1OGF6WFdJcXJTV2VQc3NDTGdLSHl5a1o3Q1VaLWRVdDVGYUhFS2xTZlpSalZUNTloRkR6OWwwMkZsdm0tUktJ?oc=5)
+
+---
 
 ### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [NHS hopes ‘sepsis sensors’ will save thousands of lives - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
-
----
-
 ### [Sie leben in unserem Darm: Diese zwei Bakterien könnten Multiple Sklerose auslösen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[VOL.AT](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
+
+---
+
+### [Hours each day in an iron lung kept her breathing, her will to live kept her alive](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
 
 ---
 
@@ -118,22 +126,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
----
-
-### [Osteoporose-Prävention: Calcium + Vitamin D senken Risiko um 16% - Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpZUFBYekw4Rk5QWmhPZTFQQmc0RzBQQk9PdEM3amZBMFNnbTAtZ0toYnpEcl9YcmY1YnRFQkZtQmk2TWdWMVhTUnRyeGhWMVpXYXZHVm93Um1VUGgwU1ZwWThkNlBZQUtIcms2Y2FCVjRPVXc4OEdvbWxFc1p5MTNqellKRU9NSGg3dDNYTlV3MVk2WjVMRS11Mlo3ZXE0WmtCUXBBSkwtNjlGMHNDUXFOYkVmSEJGM3c?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span>
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGpZUFBYekw4Rk5QWmhPZTFQQmc0RzBQQk9PdEM3amZBMFNnbTAtZ0toYnpEcl9YcmY1YnRFQkZtQmk2TWdWMVhTUnRyeGhWMVpXYXZHVm93Um1VUGgwU1ZwWThkNlBZQUtIcms2Y2FCVjRPVXc4OEdvbWxFc1p5MTNqellKRU9NSGg3dDNYTlV3MVk2WjVMRS11Mlo3ZXE0WmtCUXBBSkwtNjlGMHNDUXFOYkVmSEJGM3c?oc=5)
-
----
-
 ### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
 2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -163,14 +155,6 @@ permalink: /news/ledipasvir/
 2026-07-13 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Kölner Stadt-Anzeiger](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmY5S0VvejNyS19KNU5JNDg2WXpIRVZuSlkzUzA2X09uaWFjT0ZEY3dySXJ1RE9qdEVFSzdnZkFORy1iaFFHMnMxWmtaMmlZTGNnbHdiMlY3R212QXotZkQwOFNBSTZuYjZsTjlwLWJLX3EtQlRFcno3b29nMnpsV3RkVG9DaFM1NzB4QzBrU1NNVnUxS0t6bTloRUh2YnN3Z3oyc3BTc29wNHFBZFNKbFpTN0taWUtVN3kxM1o1LXl3LUtYLTBlQVNnTlMwLVVib3Jr?oc=5)
-
----
-
-### [Los 10 mejores sérums con niacinamida, el activo transversal apto para todas las pieles - Revista CLARA](https://news.google.com/rss/articles/CBMibkFVX3lxTE95bE5oeUJ0aUp3b3JXUnlNSWFSUjc1LWdLY05fNzBMcHdLa3BDNlpQYkVFcnVCS0lsd3VNM3VqQ1V5VUVMdThqSFdDaWJFWGlGdU4ydG1WM2VGVHphY0R0ZG9kU0pfbnozU3hsTGxR?oc=5)
-
-2026-07-12 <span class="news-indication-tag">MS</span>
-
-來源：[Revista CLARA](https://news.google.com/rss/articles/CBMibkFVX3lxTE95bE5oeUJ0aUp3b3JXUnlNSWFSUjc1LWdLY05fNzBMcHdLa3BDNlpQYkVFcnVCS0lsd3VNM3VqQ1V5VUVMdThqSFdDaWJFWGlGdU4ydG1WM2VGVHphY0R0ZG9kU0pfbnozU3hsTGxR?oc=5)
 
 ---
 

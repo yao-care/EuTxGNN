@@ -14,7 +14,7 @@ permalink: /news/sufentanil-citrate/
 ---
 
 <p class="key-answer" data-question="Sufentanil Citrate 有什麼相關新聞？">
-<strong>Sufentanil Citrate</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sufentanil Citrate</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/sufentanil-citrate/
 <p><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
-
-### [Joghurt gegen Darmkrebs? Neue Studie zeigt überraschenden Zusammenhang](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
-
-2026-07-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
-
----
+## 相關新聞（33 則）
 
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
 
@@ -70,19 +62,67 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Typ-2-Diabetes: 60 Prozent leiden unter Vitamin-D-Mangel - Ad Hoc News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
 
-2026-07-13 <span class="news-indication-tag">diabetes</span>
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
 
 ---
 
-### [“Quel piccolo neo nell’occhio era un melanoma”: Jez Bridges e il tumore scoperto a un controllo della vista](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkQyRXYyS2ZDX2ZsVF9yMnVBcTZrYjQwLVRnOUpibUVJU1lBZmhyUHIzeWZKdXRIUHJlNURmQ0NfSGE4TGlUUmo4eEdwX2hGdnpxZGdUU1hUeFVncUx4bl9HTHJ1Z0l6Vk1uckR5WjY0ekJST1lkMGtLQmtZZ01NQVh1Q092cmdWc1h2Wm9fenFSQkpMV2pZbXYwUGoyR2M1SllaQldmVFZBbWVuMG45Tmh0aGxxUFVETy1RdUxDMFhiUDVYbnV4aGNmRVd2Z1ItMGx1aDZ2MG1KRGFtSWNmYw?oc=5)
+### [«Un neo nell'occhio si è rivelato un cancro terminale. Non c'era nessun sintomo. Vorrei solo più tempo con la mia famiglia»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlZyVTZfbFZHc2drQUJGdEREcEowZW9raHlyVWFhQVZLX1EyQVhVQTE4cDZ4Ty1VZkJRMEdJZHc2NkNJTjVCcFV3U3VhSXY4MURidlRKWnZQNjNEbW9VTXVfZXQtemNBMDg3X2NGclJYVVR1X2xYSnZIUVJCeVlLNXZ2cWpCQlVMRmhvY3U2dEdkdVlOU09mU09EYnFPVDFSUDlzNnJjZnpYOGPSAZYBQVVfeXFMT1VIaGpEdFd3SlQtQjBLdWFhbXNpZzZfRE40YlNJdEczd0JKZGpWbGVHVWJyaGlYbmlwSUZ3ZDFjWUswZVpMLVdBRDk3VGlwalM3aWllc25fV3NXUU5TaEI2d2prcmVBME9YYmF2eTFiTTVBa29lZHhuWTdvdE9rMG55Yi1zZXdiVHFIREJGMmcyNlNJbkV3?oc=5)
 
-2026-07-13 <span class="news-indication-tag">tumor</span>
+2026-07-14 <span class="news-indication-tag">cancro</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkQyRXYyS2ZDX2ZsVF9yMnVBcTZrYjQwLVRnOUpibUVJU1lBZmhyUHIzeWZKdXRIUHJlNURmQ0NfSGE4TGlUUmo4eEdwX2hGdnpxZGdUU1hUeFVncUx4bl9HTHJ1Z0l6Vk1uckR5WjY0ekJST1lkMGtLQmtZZ01NQVh1Q092cmdWc1h2Wm9fenFSQkpMV2pZbXYwUGoyR2M1SllaQldmVFZBbWVuMG45Tmh0aGxxUFVETy1RdUxDMFhiUDVYbnV4aGNmRVd2Z1ItMGx1aDZ2MG1KRGFtSWNmYw?oc=5)
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlZyVTZfbFZHc2drQUJGdEREcEowZW9raHlyVWFhQVZLX1EyQVhVQTE4cDZ4Ty1VZkJRMEdJZHc2NkNJTjVCcFV3U3VhSXY4MURidlRKWnZQNjNEbW9VTXVfZXQtemNBMDg3X2NGclJYVVR1X2xYSnZIUVJCeVlLNXZ2cWpCQlVMRmhvY3U2dEdkdVlOU09mU09EYnFPVDFSUDlzNnJjZnpYOGPSAZYBQVVfeXFMT1VIaGpEdFd3SlQtQjBLdWFhbXNpZzZfRE40YlNJdEczd0JKZGpWbGVHVWJyaGlYbmlwSUZ3ZDFjWUswZVpMLVdBRDk3VGlwalM3aWllc25fV3NXUU5TaEI2d2prcmVBME9YYmF2eTFiTTVBa29lZHhuWTdvdE9rMG55Yi1zZXdiVHFIREJGMmcyNlNJbkV3?oc=5)
+
+---
+
+### [Migrañas o diabetes podrían tener su origen en traumas desarrollados en la infancia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
+
+---
+
+### [Kampf gegen Mangelernährung im Krankenhaus - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
+
+---
+
+### [Hirntumor-Impfstoff: 66 Prozent der Patienten leben nach acht Jahren noch](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVdZT29JZUczRjB0MTJoMHNGZ3YwVU1oY3JqU3VHOXoxQzE5cHMwYXVMTGY0TTJGdmxrQ1l6bDZIa0RJTXJ1RVlXX3JXbm9HQUVHcFYyMmZlWVVvUVB2YjdMazBmSC1DaEZpcWJNWW8xUW51NUxKVm91djZKN2l6dGZzVjBKSEtWdlBXS3BuY1poX3VuMExneFBxYU1SVHctWmVBb1JtNXh1OFZo?oc=5)
+
+2026-07-14 <span class="news-indication-tag">tumor</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVdZT29JZUczRjB0MTJoMHNGZ3YwVU1oY3JqU3VHOXoxQzE5cHMwYXVMTGY0TTJGdmxrQ1l6bDZIa0RJTXJ1RVlXX3JXbm9HQUVHcFYyMmZlWVVvUVB2YjdMazBmSC1DaEZpcWJNWW8xUW51NUxKVm91djZKN2l6dGZzVjBKSEtWdlBXS3BuY1poX3VuMExneFBxYU1SVHctWmVBb1JtNXh1OFZo?oc=5)
+
+---
+
+### [Joghurt gegen Darmkrebs? Neue Studie zeigt überraschenden Zusammenhang](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
+
+2026-07-14 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
+
+---
+
+### [Alcool : comment faire le point sur sa consommation et minorer les dangers - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFp3RS1kN1BOWjVPdjRNS1hmVVVjR1lGN0xJTXFfWE9KOFJ6QWtOUERoNVc0QjFGeW5zdlg1dWI3RnhKLV9SQlhTM01CYkJDVUJ2NmVPTXN3VVFSdDdkb3RzWExDUUczSE91YVRVWG5SMkVuZEJjTlU3RzVkYzdSQkVuZDlrOEdMQjRIQ1NqRGhQSkpLYkNtR2pWNWZiV1dmb0lVVUYyQnVGeUw0dm1IMWdkb0dad2EtS3VKV3NzZFhRYmJPZlByWg?oc=5)
+
+2026-07-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFp3RS1kN1BOWjVPdjRNS1hmVVVjR1lGN0xJTXFfWE9KOFJ6QWtOUERoNVc0QjFGeW5zdlg1dWI3RnhKLV9SQlhTM01CYkJDVUJ2NmVPTXN3VVFSdDdkb3RzWExDUUczSE91YVRVWG5SMkVuZEJjTlU3RzVkYzdSQkVuZDlrOEdMQjRIQ1NqRGhQSkpLYkNtR2pWNWZiV1dmb0lVVUYyQnVGeUw0dm1IMWdkb0dad2EtS3VKV3NzZFhRYmJPZlByWg?oc=5)
+
+---
+
+### [Vaping ‘reduces fitness in the young as much as smoking’ - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDRGWmtTeGdUQmtrWmFfWGRqSzZISzl2a1dVejB5WkQxOUlwcmI2QWU1dTlBSWN2RFVwV29FdjJ5ZEhBQ1J5QnF5OF9vQUxEcFM4dnYxYUU1NnBPanNFcVdUVm1xY2hDcmpXc21hejBob0trbklEZ1NEbU10c29OQVBTYnA4aVZkTjZtcDNJQkFCaERzdDhQWVlpWE5ZWXI2OVNyUQ?oc=5)
+
+2026-07-13 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDRGWmtTeGdUQmtrWmFfWGRqSzZISzl2a1dVejB5WkQxOUlwcmI2QWU1dTlBSWN2RFVwV29FdjJ5ZEhBQ1J5QnF5OF9vQUxEcFM4dnYxYUU1NnBPanNFcVdUVm1xY2hDcmpXc21hejBob0trbklEZ1NEbU10c29OQVBTYnA4aVZkTjZtcDNJQkFCaERzdDhQWVlpWE5ZWXI2OVNyUQ?oc=5)
 
 ---
 
@@ -142,14 +182,6 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Typ-2-Diabetes: Warum kontinuierliche Glukosemessung auch vielen Betroffenen helfen könnte - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
-
----
-
 ### [Online: diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdlMTlKOGpody1TckVUVDAxN0Y0WERkWDU5Qkd2WDZSUXVIdFNiLU1HRHdUN3FBM3B5TVdwVzYtM25ka3J5NnJSV1hteUtzY3I4c0RmSFJfbFVDZkhVRVNGNWNmZm5zR1ZFNkZHX1BtVGUtNWIzUHpHOGE2R2FDNDYtUEdnUFFQbHE4WHlXWDFwTDJwYy1qRVZtaWNETWdJU21CQXh3Tm1yVDE0UUkxcnI1OHZfb0owa1VpQ09HSC1xQkhMYjlrX2NLaDBpdm1aNlFLajZ3ekYtVzV3ZVJEdmJITUdxNUhfcjdN?oc=5)
 
 2026-07-13 <span class="news-indication-tag">diabetes</span>
@@ -170,7 +202,7 @@ permalink: /news/sufentanil-citrate/
 
 2026-07-13 <span class="news-indication-tag">cancro</span>
 
-來源：[DiLei](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUI0SU9wWjlQUUNtbDBzb09nNkpseXdpRG1zQ3RjSFlIcXVETnA5RFFxYTJtWEVjRHVTcy1zWGh6SUZxVEhRaFZfZHdpTzFrbFdUSFFjR3BOdmdnbEtPNjY3UENpWDcwUnJlclB2aTFEWTVMWFdBVi02WFp6ODZWRUJ4RUoyeW9EUVowNmY1MkRfRjRWRFk2SmdGanF4YjDSAaQBQVVfeXFMUFR6bWtpaldsWnltOWtTdU5GbmtFbTV2YmtPekVuWFp5cGpOb0NTaTJuUmFIcEw2Qng1NXZVdzh2cXI4WmZIVWVFbVRLaHYzcDBDUzFxQU55emo3VlA1dGhDQnZ1MEhDU1RwOW1iWmExeVFHLXFvM2UwZGxOMThOeURDZHBjRENBY1JZTDVxTGw5TDkxUHRiQ0E2R244ZmJQQ0owTXY?oc=5)
+來源：[dilei.it](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUI0SU9wWjlQUUNtbDBzb09nNkpseXdpRG1zQ3RjSFlIcXVETnA5RFFxYTJtWEVjRHVTcy1zWGh6SUZxVEhRaFZfZHdpTzFrbFdUSFFjR3BOdmdnbEtPNjY3UENpWDcwUnJlclB2aTFEWTVMWFdBVi02WFp6ODZWRUJ4RUoyeW9EUVowNmY1MkRfRjRWRFk2SmdGanF4YjDSAaQBQVVfeXFMUFR6bWtpaldsWnltOWtTdU5GbmtFbTV2YmtPekVuWFp5cGpOb0NTaTJuUmFIcEw2Qng1NXZVdzh2cXI4WmZIVWVFbVRLaHYzcDBDUzFxQU55emo3VlA1dGhDQnZ1MEhDU1RwOW1iWmExeVFHLXFvM2UwZGxOMThOeURDZHBjRENBY1JZTDVxTGw5TDkxUHRiQ0E2R244ZmJQQ0owTXY?oc=5)
 
 ---
 
@@ -238,11 +270,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Hirntumor-Impfstoff: 66% überleben 8 Jahre statt 2,5 bis 5 - Ad Hoc News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUluTFA4dmdaNGtTcTN2Y0xWOXBtMmNHcmc4QXBMX2d4bDZpVko2LVdiSzZvRUtlSHBuWGxQTGVKMGRlaHVlc3N3NkU0d1k0YWFSR1ZUZXpVaWtzbnpMQ0lhN3BUSnZXbGM3S0JLYjB6R0JDQmx6RlZMVjB0dHBSa0pSVnhoZVpZQlJRVk00Y0FMczJWTU5fMG8yMGV1NWhlQ3FVWkZCTXh3VnpxcS1rRG9iZ1o?oc=5)
+### [Blutzucker: 46.000 Mahlzeiten zeigen, warum Kohlenhydratzählen zu kurz greift - Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0lGejZrdEtDMEVtZ3M3Wk1uTFlZU3hCQy1rWEVzYTlFcEpoUHBPX1NNNVBRb2U3VUpUZ2hONVRZYUlBRUJDR2tXeTVSMjl6YXNvMGs5QjVyVzlwOUpBemV5djFVV1YtWEFTUWRaREl2bkU0NExpbGNXa1lFcG5Wam9pOTdvUVN6aUdSM2lLUjJORS1qSmc4OTdvX3k4aEtzWThtWHM4OTVjelQ0Y3g1Mk5mRS1TU0hUU2c?oc=5)
 
-2026-07-12 <span class="news-indication-tag">tumor</span>
+2026-07-13 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUluTFA4dmdaNGtTcTN2Y0xWOXBtMmNHcmc4QXBMX2d4bDZpVko2LVdiSzZvRUtlSHBuWGxQTGVKMGRlaHVlc3N3NkU0d1k0YWFSR1ZUZXpVaWtzbnpMQ0lhN3BUSnZXbGM3S0JLYjB6R0JDQmx6RlZMVjB0dHBSa0pSVnhoZVpZQlJRVk00Y0FMczJWTU5fMG8yMGV1NWhlQ3FVWkZCTXh3VnpxcS1rRG9iZ1o?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0lGejZrdEtDMEVtZ3M3Wk1uTFlZU3hCQy1rWEVzYTlFcEpoUHBPX1NNNVBRb2U3VUpUZ2hONVRZYUlBRUJDR2tXeTVSMjl6YXNvMGs5QjVyVzlwOUpBemV5djFVV1YtWEFTUWRaREl2bkU0NExpbGNXa1lFcG5Wam9pOTdvUVN6aUdSM2lLUjJORS1qSmc4OTdvX3k4aEtzWThtWHM4OTVjelQ0Y3g1Mk5mRS1TU0hUU2c?oc=5)
 
 ---
 
@@ -278,35 +310,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Meningioma, l'ombra del tumore su due contraccettivi comuni: l'EMA lancia l'allarme - il Giornale](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWw3b3I4d0wwTjJLU2dSUlhGbS1LWmxRbXB5MW5CVmJJa1g2RW5WNzlDQWRNdUx3YkNjT0Y1UHJPcXFaRTM2RVZsRjJmU3AxMlhUc2hWeG91Rl9ZVU1WTFJtcldYMW9BdThBTllLZUFSWVNyQ1hoSzFaUXd4dld6Q2xIeWZ3TUh2eklCeGdBWGhYUUlPTFlicWhJUzZrOUlGUGhvWlk5bWNTRmZUUUdfUks2WGhtN2Rid3FGZg?oc=5)
-
-2026-07-12 <span class="news-indication-tag">tumor</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWw3b3I4d0wwTjJLU2dSUlhGbS1LWmxRbXB5MW5CVmJJa1g2RW5WNzlDQWRNdUx3YkNjT0Y1UHJPcXFaRTM2RVZsRjJmU3AxMlhUc2hWeG91Rl9ZVU1WTFJtcldYMW9BdThBTllLZUFSWVNyQ1hoSzFaUXd4dld6Q2xIeWZ3TUh2eklCeGdBWGhYUUlPTFlicWhJUzZrOUlGUGhvWlk5bWNTRmZUUUdfUks2WGhtN2Rid3FGZg?oc=5)
-
----
-
 ### [Tumore del pancreas e del colon: nuove terapie che cambiano le prospettive di cura](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3Q4MWNWanM4QlA4Y1Z0UlF3SEJpdzRmR1N6bmdnb0ZEazdwMG9idHpqSllJMnM1LW1VLXVJbXFoS2FybkpxMGQtNHRpU2d1NnZzMGh0bzNrcnM0WEV0b20zMUtRSlFLOXN0WlRGblh6QW9ucHd1dXRCZ1lZQmJ4ZVBjOWoxTFNpVnBFcm55cGJ3UEtBMVRFa1VOVWFyTXk1TWo5djVZTVNmeUZDb2ZZeV9FWlVDN09EWmFmUEs0alE4TFd5SWVlcTRpX2U?oc=5)
 
 2026-07-12 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQY3Q4MWNWanM4QlA4Y1Z0UlF3SEJpdzRmR1N6bmdnb0ZEazdwMG9idHpqSllJMnM1LW1VLXVJbXFoS2FybkpxMGQtNHRpU2d1NnZzMGh0bzNrcnM0WEV0b20zMUtRSlFLOXN0WlRGblh6QW9ucHd1dXRCZ1lZQmJ4ZVBjOWoxTFNpVnBFcm55cGJ3UEtBMVRFa1VOVWFyTXk1TWo5djVZTVNmeUZDb2ZZeV9FWlVDN09EWmFmUEs0alE4TFd5SWVlcTRpX2U?oc=5)
-
----
-
-### [Diabète : l’alimentation équilibrée reste le pilier central pour éviter les complications - Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
-
-2026-07-12 <span class="news-indication-tag">diabète</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
-
----
-
-### [La créatine, un complément alimentaire bon pour les muscles… et pour le cerveau - National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
-
-2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
-
-來源：[National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
 
 ---
 

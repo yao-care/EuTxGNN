@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（6 則）
+
+### [El buen uso y control de los fármacos contra la obesidad](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
+
+2026-07-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
+
+---
 
 ### [Diseñan nuevas estrategias para proteger el riñón de la diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
 
@@ -67,6 +75,22 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
+
+---
+
+### [How just five days of overeating can make you crave more food - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
+
+2026-07-13 <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
+
+---
+
+### [El Hospital de Bellvitge (Barcelona) mejora el trasplante hepático en pacientes con obesidad - Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
+
+2026-07-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
 
 ---
 

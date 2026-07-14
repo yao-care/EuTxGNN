@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
+
+### [Aurelio Rojas, cardiólogo, advierte sobre el azúcar: “Dárselo a un niño todos los días es uno de los mayores errores que hemos normalizado”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">hipertensión</span>
+
+來源：[MARCA](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
+
+---
 
 ### [Las células madre reavivan la esperanza terapéutica en el ictus crónico - El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
 
 2026-07-14 <span class="news-indication-tag">ictus</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
-
----
-
-### [Propionato de imidazol, la molécula bacteriana que puede cambiar la prevención de ictus e infartos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzVaeVR1SGtKVUdPdGUzekQ3eWpTZTd3d2JDNWhNelJWWTQzTk52LWRzZHJqR2JCS2JiT0daVFgxWlVNS1RBTXEyX0ZYT3dWM2g0cldkMFNwNnNPbU9scm1XbVJldTcwUjFVZThGVExScUluRW42UFlpZVVWUUUyQU1zOGJSOWltYU43WFM0UWhDUUVmM2FpWmdqOXFkOFF1MllrSXBrallCcTN4UksyOGNxeHJUTHNzQmkxczQtbWhibUQtVk41OTY1UGg?oc=5)
-
-2026-07-14 <span class="news-indication-tag">ictus</span>
-
-來源：[Innovaspain](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzVaeVR1SGtKVUdPdGUzekQ3eWpTZTd3d2JDNWhNelJWWTQzTk52LWRzZHJqR2JCS2JiT0daVFgxWlVNS1RBTXEyX0ZYT3dWM2g0cldkMFNwNnNPbU9scm1XbVJldTcwUjFVZThGVExScUluRW42UFlpZVVWUUUyQU1zOGJSOWltYU43WFM0UWhDUUVmM2FpWmdqOXFkOFF1MllrSXBrallCcTN4UksyOGNxeHJUTHNzQmkxczQtbWhibUQtVk41OTY1UGg?oc=5)
 
 ---
 
@@ -83,22 +83,6 @@ permalink: /news/telmisartan/
 2026-07-13 <span class="news-indication-tag">stroke</span>
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQSWo5b3pPU1ZJSzE2MldsejhNZEdMR1doRXdlZ1RFVVZDSURSdGl2ZjFpV1pxd0hHZ2NST19tb3BVYlh0MjFzWlNYbzQ4VGZDS1pyM1VxWUdacWFPLTROanFXWGZLWm84b3cwbWlReXEwQnY4QWhnVms3TkhaZDNGLTlkNm5RX2lhXzNOYllFbDJ5LXRqNXpOUklpNU9DTG9WMFR3czhLbHNfclIyQnVHakNpcnBBX1liY09RZmN2OFN5cVJyYmhNbEY4Q3hoT0Zhc0R0NTdwQ3FZakxnbnFfWTNyMlc1Y3pDY2trb0gxOU9OZHRUNjJ2dWdYekNqbHktZ3VNTlptaUF4akw3ODE3X29OUVlTelVESk9meGQtOHBLLUlOZGYyQmtYZEJZdW13azFxbUpTeldmY3dzckc4RWs5T2dIc01qMlBz?oc=5)
-
----
-
-### [Ipertensione causa di ictus e infarto: si cura meglio a casa che in ambulatorio. Il successo dello studio IMPACT-BP, un modello per l’Italia](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
-
-2026-07-12 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
-
----
-
-### [Pfefferminzöl: Menthol senkt Blutdruck um 8 mmHg - Ad Hoc News](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
 
 ---
 

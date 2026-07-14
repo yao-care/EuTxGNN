@@ -14,7 +14,7 @@ permalink: /news/pegfilgrastim/
 ---
 
 <p class="key-answer" data-question="Pegfilgrastim 有什麼相關新聞？">
-<strong>Pegfilgrastim</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pegfilgrastim</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/pegfilgrastim/
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
-### [Typ-2-Diabetes: 60 Prozent leiden unter Vitamin-D-Mangel - Ad Hoc News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
 
-2026-07-13 <span class="news-indication-tag">diabetes</span>
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2dUSElhS0toWnpxQWtNRVBwSkJRamRwMVdLM1I3X3lFTE1mVFhyUVhtbEx4UjlxTFlkR1NjV09mVXAzUjBGY3hfOXRJY1NiY1pFU1M5VDJzcDUyX0czanR5WGRqbmdTalVobXk2RkNfNWJRNTRCanV4YTRXZmFFTUFSNDVfYmI4Wk56b3A0bW03OUhhVnBxX1JtcjlwSkx3alRXVEJScw?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
+
+---
+
+### [Migrañas o diabetes podrían tener su origen en traumas desarrollados en la infancia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
+
+---
+
+### [Kampf gegen Mangelernährung im Krankenhaus - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
 
 ---
 
@@ -94,14 +110,6 @@ permalink: /news/pegfilgrastim/
 
 ---
 
-### [Typ-2-Diabetes: Warum kontinuierliche Glukosemessung auch vielen Betroffenen helfen könnte - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
-
----
-
 ### [Online: diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdlMTlKOGpody1TckVUVDAxN0Y0WERkWDU5Qkd2WDZSUXVIdFNiLU1HRHdUN3FBM3B5TVdwVzYtM25ka3J5NnJSV1hteUtzY3I4c0RmSFJfbFVDZkhVRVNGNWNmZm5zR1ZFNkZHX1BtVGUtNWIzUHpHOGE2R2FDNDYtUEdnUFFQbHE4WHlXWDFwTDJwYy1qRVZtaWNETWdJU21CQXh3Tm1yVDE0UUkxcnI1OHZfb0owa1VpQ09HSC1xQkhMYjlrX2NLaDBpdm1aNlFLajZ3ekYtVzV3ZVJEdmJITUdxNUhfcjdN?oc=5)
 
 2026-07-13 <span class="news-indication-tag">diabetes</span>
@@ -118,19 +126,19 @@ permalink: /news/pegfilgrastim/
 
 ---
 
+### [Blutzucker: 46.000 Mahlzeiten zeigen, warum Kohlenhydratzählen zu kurz greift - Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0lGejZrdEtDMEVtZ3M3Wk1uTFlZU3hCQy1rWEVzYTlFcEpoUHBPX1NNNVBRb2U3VUpUZ2hONVRZYUlBRUJDR2tXeTVSMjl6YXNvMGs5QjVyVzlwOUpBemV5djFVV1YtWEFTUWRaREl2bkU0NExpbGNXa1lFcG5Wam9pOTdvUVN6aUdSM2lLUjJORS1qSmc4OTdvX3k4aEtzWThtWHM4OTVjelQ0Y3g1Mk5mRS1TU0hUU2c?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0lGejZrdEtDMEVtZ3M3Wk1uTFlZU3hCQy1rWEVzYTlFcEpoUHBPX1NNNVBRb2U3VUpUZ2hONVRZYUlBRUJDR2tXeTVSMjl6YXNvMGs5QjVyVzlwOUpBemV5djFVV1YtWEFTUWRaREl2bkU0NExpbGNXa1lFcG5Wam9pOTdvUVN6aUdSM2lLUjJORS1qSmc4OTdvX3k4aEtzWThtWHM4OTVjelQ0Y3g1Mk5mRS1TU0hUU2c?oc=5)
+
+---
+
 ### [Diabetespatienten häufiger von Zahn- und Implantatverlust betroffen - ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
 
 2026-07-12 <span class="news-indication-tag">diabetes</span>
 
 來源：[ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
-
----
-
-### [Diabète : l’alimentation équilibrée reste le pilier central pour éviter les complications - Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
-
-2026-07-12 <span class="news-indication-tag">diabète</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0RDQWVUZF9xRUhPbDVJVVZGMG1oa0VNSnpPUEZtbGFIRnE0QTktdllwX3pUZ2twT1JmbEIxeWZnUlViN1V0Rk8wSWJuNVNkUldoSUVndlFiTUNjei1OaUwxeklNVmhOb1JtcWRmT3dpdVA2aU4xUTJlSGM3TGh6aXlkNlA3eFROVmVXOGktNFJMUE8zWlcwNllnNnlPQ0dfMmdubjBjQnhFOUNjLWFLUEdsT3lwdHpYak9jSGZjSXV1dkNHUUFhS3VrRDBmd0lH?oc=5)
 
 ---
 

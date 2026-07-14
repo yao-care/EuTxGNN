@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [El buen uso y control de los fármacos contra la obesidad](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
+
+2026-07-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
+
+---
 
 ### [Las células madre reavivan la esperanza terapéutica en el ictus crónico - El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
 
 2026-07-14 <span class="news-indication-tag">ictus</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
-
----
-
-### [Propionato de imidazol, la molécula bacteriana que puede cambiar la prevención de ictus e infartos](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzVaeVR1SGtKVUdPdGUzekQ3eWpTZTd3d2JDNWhNelJWWTQzTk52LWRzZHJqR2JCS2JiT0daVFgxWlVNS1RBTXEyX0ZYT3dWM2g0cldkMFNwNnNPbU9scm1XbVJldTcwUjFVZThGVExScUluRW42UFlpZVVWUUUyQU1zOGJSOWltYU43WFM0UWhDUUVmM2FpWmdqOXFkOFF1MllrSXBrallCcTN4UksyOGNxeHJUTHNzQmkxczQtbWhibUQtVk41OTY1UGg?oc=5)
-
-2026-07-14 <span class="news-indication-tag">ictus</span>
-
-來源：[Innovaspain](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzVaeVR1SGtKVUdPdGUzekQ3eWpTZTd3d2JDNWhNelJWWTQzTk52LWRzZHJqR2JCS2JiT0daVFgxWlVNS1RBTXEyX0ZYT3dWM2g0cldkMFNwNnNPbU9scm1XbVJldTcwUjFVZThGVExScUluRW42UFlpZVVWUUUyQU1zOGJSOWltYU43WFM0UWhDUUVmM2FpWmdqOXFkOFF1MllrSXBrallCcTN4UksyOGNxeHJUTHNzQmkxczQtbWhibUQtVk41OTY1UGg?oc=5)
 
 ---
 
@@ -83,6 +83,22 @@ permalink: /news/orlistat/
 2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
+
+---
+
+### [How just five days of overeating can make you crave more food - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
+
+2026-07-13 <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
+
+---
+
+### [El Hospital de Bellvitge (Barcelona) mejora el trasplante hepático en pacientes con obesidad - Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
+
+2026-07-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/orlistat/
 2026-07-13 <span class="news-indication-tag">stroke</span>
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiywJBVV95cUxQSWo5b3pPU1ZJSzE2MldsejhNZEdMR1doRXdlZ1RFVVZDSURSdGl2ZjFpV1pxd0hHZ2NST19tb3BVYlh0MjFzWlNYbzQ4VGZDS1pyM1VxWUdacWFPLTROanFXWGZLWm84b3cwbWlReXEwQnY4QWhnVms3TkhaZDNGLTlkNm5RX2lhXzNOYllFbDJ5LXRqNXpOUklpNU9DTG9WMFR3czhLbHNfclIyQnVHakNpcnBBX1liY09RZmN2OFN5cVJyYmhNbEY4Q3hoT0Zhc0R0NTdwQ3FZakxnbnFfWTNyMlc1Y3pDY2trb0gxOU9OZHRUNjJ2dWdYekNqbHktZ3VNTlptaUF4akw3ODE3X29OUVlTelVESk9meGQtOHBLLUlOZGYyQmtYZEJZdW13azFxbUpTeldmY3dzckc4RWs5T2dIc01qMlBz?oc=5)
-
----
-
-### [Ipertensione causa di ictus e infarto: si cura meglio a casa che in ambulatorio. Il successo dello studio IMPACT-BP, un modello per l’Italia](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
-
-2026-07-12 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
 
 ---
 

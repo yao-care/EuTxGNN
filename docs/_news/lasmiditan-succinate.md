@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [El buen uso y control de los fármacos contra la obesidad](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
+
+2026-07-14 <span class="news-indication-tag">obesidad</span>
+
+來源：[RTVE.es](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
+
+---
+
+### [Migrañas o diabetes podrían tener su origen en traumas desarrollados en la infancia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHdUcDJiOWRlc2k3dkZ4WXBMcTRjeVpxT3ItQWJuWjJrbkY3ZDFXcEpPZ2h2ZE5iZmM5NVEyaXZmWnBBZ1hiLWZUMlNLd0RhLVJRXzVDaDNobFVQWHJOVVNBWmN3WUpidGtZSkJraDhtMjFXby1rOUxFTXZMTXVSSHlxeXJ3YkJ4VHVwLVpQQ19aT19VWnlzSjFHT21FT3hDXzhwZEZPMmNPVDRhTWhVLVoxazBNN1lwUnNVcl94NHRtR1F0ZGs4Vw?oc=5)
+
+---
 
 ### [Diseñan nuevas estrategias para proteger el riñón de la diabetes](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDRhcThoVlNFTDJuLWJIb1J1WWJlSkNKMS03VGFSSkVidUJUeXdNSkkxMWNKa3NCR3pObVR4NmhkUUVWbllOYmRxd0hPYkNMMEFCUldGVDZLRGc5TFFiLWdONWRmVm8ybzNzSk10blpacEQ0clltSFZCaWtDUmwtRVk4S0hZeUxYeS1xcGp5RGVxekw2RThwbkYxOUR5MnhwdXFnWTJEQWNuZXBLMG5wajRxS0tCaGF6WkE?oc=5)
 
@@ -70,19 +86,27 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
+### [How just five days of overeating can make you crave more food - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
+
+2026-07-13 <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
+
+---
+
+### [El Hospital de Bellvitge (Barcelona) mejora el trasplante hepático en pacientes con obesidad - Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
+
+2026-07-13 <span class="news-indication-tag">obesidad</span>
+
+來源：[Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
+
+---
+
 ### ["No existe una dieta que funcione para todo el mundo": así influye la genética en la pérdida de peso - Cadena SER](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTdpcjhnR0FDbkhuOXo2TVVicWlDY1BxSk5SeVlvaGMzTXFUcHZHWUEwQ29QaExHWVhqNThRWW5oa1VReGMxS3ZSX3V1b01QYjdWSjJOSDMzSmFwUWlkT001NVl5OEhxbmxHVmVpQm5QcnlzTmsyU2lRQTlEaU1tVC13R2FfWjZzNWltZkhpS1EtUkVsdEpIUGRYZGZlR0Z3MnY5NzlXcDV6VGRCRFRubF9tWFNzVWZoVTVOeEI5Ny1GZVFSX1BQb0s4NDRyb3FTdEJJeHRmcFlkVGFGZEdkVXJYRzlEZ9IB-gFBVV95cUxOdzdHa3VtR0t3NE95R1Rxc2kzUm9BLS1Ib2R1cl9ubm55bG1uOG90V2ZUZTVzRjJad3IzR0c1OFpNakpxY0o1Q0dRTFdLV2h5RzJ3V1MwLWVneUU1Rm9idWNwV016V3pVWHJkQkc2eW1mYk1YeWFUci1PaVpWR2lQZmNqTHExazQ3VGF6SXhFZUtPMDZkZUd2Mk9EZ3JaS0Fhc2ZUNDRDcU9xeWJNS2phT1hMYTE2WXNOblRVZWhYeWYzWXhneWQyeU93VHpJa1hPbVRqUGJVMzZUYVJUNHJ4R3d3VUtVYjRKYVVTeWZiTGdIZGpTaDk4c2J3?oc=5)
 
 2026-07-13 <span class="news-indication-tag">obesidad</span>
 
 來源：[Cadena SER](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTdpcjhnR0FDbkhuOXo2TVVicWlDY1BxSk5SeVlvaGMzTXFUcHZHWUEwQ29QaExHWVhqNThRWW5oa1VReGMxS3ZSX3V1b01QYjdWSjJOSDMzSmFwUWlkT001NVl5OEhxbmxHVmVpQm5QcnlzTmsyU2lRQTlEaU1tVC13R2FfWjZzNWltZkhpS1EtUkVsdEpIUGRYZGZlR0Z3MnY5NzlXcDV6VGRCRFRubF9tWFNzVWZoVTVOeEI5Ny1GZVFSX1BQb0s4NDRyb3FTdEJJeHRmcFlkVGFGZEdkVXJYRzlEZ9IB-gFBVV95cUxOdzdHa3VtR0t3NE95R1Rxc2kzUm9BLS1Ib2R1cl9ubm55bG1uOG90V2ZUZTVzRjJad3IzR0c1OFpNakpxY0o1Q0dRTFdLV2h5RzJ3V1MwLWVneUU1Rm9idWNwV016V3pVWHJkQkc2eW1mYk1YeWFUci1PaVpWR2lQZmNqTHExazQ3VGF6SXhFZUtPMDZkZUd2Mk9EZ3JaS0Fhc2ZUNDRDcU9xeWJNS2phT1hMYTE2WXNOblRVZWhYeWYzWXhneWQyeU93VHpJa1hPbVRqUGJVMzZUYVJUNHJ4R3d3VUtVYjRKYVVTeWZiTGdIZGpTaDk4c2J3?oc=5)
-
----
-
-### [Mejorar la vida de la persona con migraña es posible - IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
-
-2026-07-13 <span class="news-indication-tag">migraña</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmxXMzEtYXk0aDlYQkRmOUxEVElQVHVPVDVSSTY3LWlyYklKdkRwTTRmRlNueFZzbm1EMG9ySGE4QXpVeWk2U19KdG1Dcy1TNzFiOFdQTFlCUllhVmw2YUdJbE1DVXVUZGFRcHZqbGxFUmZqbkNESnlJTlgwdHlBX0lzc1BKazA2MWdLRGxuS3VRdkVFUUgwdkxwM3c4NUU2aDZIZ2w3c1lGelHSAaYBQVVfeXFMT0JVX2xIZFdQWXoyZVZPb1NZSWl3RDA5eHJkTGpmSV9FNmZNMkwtRnhraWRxWERTNUViNlpHN3NOUXF5SHJIa2F0UDdBTUtWODJvZ1ZLeXNoemJ0NXVWVWVPT2JlZzJONElnMTY4bzdyWmFZNXNVVzgzbHRUdXR3cXdqeHdFSkpFWng4bE84cEh0aXJ0SHNkZmsxN1Q3MjdzalROdE5xZw?oc=5)
 
 ---
 

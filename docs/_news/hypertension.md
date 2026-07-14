@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ipertensione（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# ipertensione（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ipertensione（hypertension） 有什麼相關新聞？">
-<strong>ipertensione（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ipertensione」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Ipertensione causa di ictus e infarto: si cura meglio a casa che in ambulatorio. Il successo dello studio IMPACT-BP, un modello per l’Italia](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
+### [Aurelio Rojas, cardiólogo, advierte sobre el azúcar: “Dárselo a un niño todos los días es uno de los mayores errores que hemos normalizado”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
 
-2026-07-12
+2026-07-14
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JJSkxyN0dmTllPMDlZVjNkUWhjclFSVUozNWVDQkZteVhLeU0yenU3aWlhTjNfX1Y2WmJZWGR3dEg1WFR3a3o2Qi1WcjVKTzRoeFZzYXNjVk1uTXUwbVVlVnpieTB2aTBvU3d3ZzJwazNKWlRNcjYyVWJ1bkZkeXE3MXp4UU1McDVldFVoWnAyUzRaak1jWldaOVRCXzVYanFXbGpwSlhYRERpNDZTYTd5eVFRcXRIb0RyR3dMN2NDWXBKaUhOZk1PVzJSVmNtRnRuXzVrUHJYZHpzd0lQV09JTjBnTC0zZ0xsVjZJYl9oemI0czF3eW85SEVZNkFhWV9lSGpEX0hfa0d4RG1JUk5pTFhVZw?oc=5)
-
----
-
-### [Pfefferminzöl: Menthol senkt Blutdruck um 8 mmHg - Ad Hoc News](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
-
-2026-07-12
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMingFBVV95cUxPd2pBYk5ObWRDSEVZSXNIMjhjcUVXTENtUXE5eDdfMlJzWUJ5eW55TVVwM0ZpYUJTaEt3M3c4dWZmWHJ1WG0zQWxya0ctaFJUZVZpcXhyS1ZkZ2NtY2REZ01OaVhVT0lDT3p2cU5PN25IdE50YmJ4TW0wUTR6NlNhdlBlenRuSlZlczhKVmpKOTBlVHJ4MFBseElMeWVSdw?oc=5)
+來源：[MARCA](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
 
 ---
 

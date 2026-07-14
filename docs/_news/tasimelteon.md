@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [It should have been the best moment of my life but I just felt nothing - Devon Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEVGcDlidTdiNXUyYVUzTTk2UWY3X282WWhJclQyX0ZKU2ZuWGxvRk5lR21hUWRvanhBREwzVlJQTmRGMW10Sks2Q3RBSkJkVEdzM2FaMjNVVWZaZW9zYW5lR240V2dSemNKdE1JVlFucndtVXFsRWE0b0lSWVctVVh3VUlleWw1Mk9V0gGLAUFVX3lxTFBMRUZwOWJ1N2I1dTJhVTNNOTZRZjdfbzZZaElyVDJfRkpTZm5YbG9GTmVHbWFRZG9qeEFETDNWUlBOZEYxbXRKSzZDdEFKQmRUR3MzYVoyM1VVZlplb3NhbmVHbjRXZ1J6Y0p0TUlWUW5yd21VcWxFYTRvSVJZVy1VWHdVSWV5bDUyT1U?oc=5)
+
+2026-07-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEVGcDlidTdiNXUyYVUzTTk2UWY3X282WWhJclQyX0ZKU2ZuWGxvRk5lR21hUWRvanhBREwzVlJQTmRGMW10Sks2Q3RBSkJkVEdzM2FaMjNVVWZaZW9zYW5lR240V2dSemNKdE1JVlFucndtVXFsRWE0b0lSWVctVVh3VUlleWw1Mk9V0gGLAUFVX3lxTFBMRUZwOWJ1N2I1dTJhVTNNOTZRZjdfbzZZaElyVDJfRkpTZm5YbG9GTmVHbWFRZG9qeEFETDNWUlBOZEYxbXRKSzZDdEFKQmRUR3MzYVoyM1VVZlplb3NhbmVHbjRXZ1J6Y0p0TUlWUW5yd21VcWxFYTRvSVJZVy1VWHdVSWV5bDUyT1U?oc=5)
+
+---
 
 ### [Pablo Ojeda, nutricionista, indica el suplemento que debes tomar para prevenir la demencia y el alzhéimer: «Ha demostrado ser efectiva»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWUyOHdCbmlYX2s0a0xsWUdSbUNZcEdFeElFTW4tS3pCbm80Qzduc0RrS05KTms5TkdOTUozeFVGbVlSbXNtRHJSZjdna3FxbG1yck92NzdnLUVZSnlrNjVaN0ROZ2VlUGtSeEZ4b21CN1U4eTZUQVNseDVjTzQzZk1SR3M2M2JMb1NxQlpnLXFrT01mSEtUNi1XREo3UWJHclpyQncyRGJkUEXSAbABQVVfeXFMUEFlNDB0dzRHWEp4Tlg0Q2pGZjlQWkpEX2c0Z0pOVmpOeWhJazhUV0oxUjBEQ2tlZWd3MW8yRTJPbk9OUXY3Sm5iU2N5bWdXZENHbXdZdUlvbjFtN25JU2l3bXYwdXVWZUo0YlNveHRtNjFXczBHX29ScUVxX3A1Slo1TzFtWmg3a1E1dnZmLU16eThVTXFadUxVNDFQSVgtZjNXTlZ5NU53cG9FU3lGSXQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">depresión</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWUyOHdCbmlYX2s0a0xsWUdSbUNZcEdFeElFTW4tS3pCbm80Qzduc0RrS05KTms5TkdOTUozeFVGbVlSbXNtRHJSZjdna3FxbG1yck92NzdnLUVZSnlrNjVaN0ROZ2VlUGtSeEZ4b21CN1U4eTZUQVNseDVjTzQzZk1SR3M2M2JMb1NxQlpnLXFrT01mSEtUNi1XREo3UWJHclpyQncyRGJkUEXSAbABQVVfeXFMUEFlNDB0dzRHWEp4Tlg0Q2pGZjlQWkpEX2c0Z0pOVmpOeWhJazhUV0oxUjBEQ2tlZWd3MW8yRTJPbk9OUXY3Sm5iU2N5bWdXZENHbXdZdUlvbjFtN25JU2l3bXYwdXVWZUo0YlNveHRtNjFXczBHX29ScUVxX3A1Slo1TzFtWmg3a1E1dnZmLU16eThVTXFadUxVNDFQSVgtZjNXTlZ5NU53cG9FU3lGSXQ?oc=5)
-
----
-
-### [Neuromodulación como alternativa de primera línea para depresión mayor farmacorresistente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
-
-2026-07-13 <span class="news-indication-tag">depresión</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbU55X0wtX0xsZUYxVG5oRzI2c25iNkFLaHNGZFpBMm5BUVp0T2g1WXNWM1lHN2JqWkhWNW1TdzJaVF9MRHBJTkRTX3Y3ZlNJZmx6RlpsR2ZoTmd0WVh4N0dzYjZwbEpSTm9jcVZRMFJ2TFBPaTZmWm80c3N1WkhyckRWandGcWw4THMtX3lsNTNLNjE4eDM3UzlHYVV4dVRmaGdyUjh4Um0?oc=5)
-
----
-
-### [La créatine, un complément alimentaire bon pour les muscles… et pour le cerveau - National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
-
-2026-07-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
-
-來源：[National Geographic](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2I5czdFTlRoTHRQN0dnRlFpSmV3XzBRZGlLSGZUdGZMTzVpOExuNkZmTUJMbUZEc3BLME44aUEtd0s4cUJvVmlzYllMTDllUWlZLXZMX0Y2X1otNHpNY2RFVmJsd0d4d2hrYkt5UzFmSURESURiVmZTNzk4OHVMOF81TjdqR3VNLS1vdldvX0V2YUNOV215dlFncUdRUjNnMFhiUUQ2OFhTbnpFMTZicVdIT1VTVm9xamxoNTg5QkZOX1k3UEJuVDVzc0g2SW4tUG1JWFRZRWlVcER1R0E?oc=5)
 
 ---
 

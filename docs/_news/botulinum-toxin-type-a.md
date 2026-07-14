@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [La terapia celular abre una nueva era en el tratamiento de la enfermedad de Parkinson - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
 
-2026-07-13 <span class="news-indication-tag">enfermedad de Parkinson</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
 來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEppZlNxZkdGbmR3d2I1TERqUmFwYzg1ZWFyUUFuaU1IN3M1ZU5kRlk4QnYwUTdjSmxpWUoxTzdDNHJxQlRTOXF5M29jNWRHSnI1VExxRU1xcTFFR0JLZElLbmxFakR2U18yS3BOQlBvLURqOHRxckRZb2Q5aUktcHg3VUh1d1prWVYxN3M3TjJnTnZXX25mbDlId0tDMkgyTEpkMGl6eGFTNE1CbGZ6S1h3ZG13b2p0WGc?oc=5)
-
----
-
-### [En EPOC, reducir hospitalizaciones no es solo un objetivo clínico, es un objetivo de salud pública - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRpM19IalNPdUQ2NFdWdVNaM1FYbTl6c3E4RV9nZkxUUjk5eC1kRDdkMkZxWDFVNkZjVkV2V2d4SFBvV09rTFQ0SEhIbUxaa09UYWZBM1pyQTB2SWo3d2lfSnEySVFGcEd6ZDVRcy11Q0M4R3hTMF8zWEVPVHNXUl9sUzItRXVkWDNoaFhVSHlnYml6RjNfS0R6NDZoNkx6N29CT2pDMlE1VVBCSW05SDdVTEh1d0twU0NMVS1xZ9IBugFBVV95cUxOQ29rM1BIMW9TRzNoTG16b2FYam1PWXlhOEQ4aXdQM0lwRDhzYmRHY0Z0eVdQMDFBd2ZxSm45VHlSejE1aFVrc1I4S0xTcUQ4UGF3c1lFV2RQbEU4eGN0TmxaMnR2U2FCSXphTmJXeTg5dGxEZDFzekFFMDhBa1ExZ0czME1ETjNzVFJCWWJmQTg2LUxfUG94N0JnNE12VVZZdWhvaGRmREhPLTJrQUpnY3lCMlg0R2FJUGc?oc=5)
-
-2026-07-13 <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTRpM19IalNPdUQ2NFdWdVNaM1FYbTl6c3E4RV9nZkxUUjk5eC1kRDdkMkZxWDFVNkZjVkV2V2d4SFBvV09rTFQ0SEhIbUxaa09UYWZBM1pyQTB2SWo3d2lfSnEySVFGcEd6ZDVRcy11Q0M4R3hTMF8zWEVPVHNXUl9sUzItRXVkWDNoaFhVSHlnYml6RjNfS0R6NDZoNkx6N29CT2pDMlE1VVBCSW05SDdVTEh1d0twU0NMVS1xZ9IBugFBVV95cUxOQ29rM1BIMW9TRzNoTG16b2FYam1PWXlhOEQ4aXdQM0lwRDhzYmRHY0Z0eVdQMDFBd2ZxSm45VHlSejE1aFVrc1I4S0xTcUQ4UGF3c1lFV2RQbEU4eGN0TmxaMnR2U2FCSXphTmJXeTg5dGxEZDFzekFFMDhBa1ExZ0czME1ETjNzVFJCWWJmQTg2LUxfUG94N0JnNE12VVZZdWhvaGRmREhPLTJrQUpnY3lCMlg0R2FJUGc?oc=5)
 
 ---
 

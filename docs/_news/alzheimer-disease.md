@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Resultados del Ensayo LatAm-FINGERS sobre Deterioro Cognitivo Un estudio realizado desde Argentina. - Gestión y Economía de la Salud](https://news.google.com/rss/articles/CBMingFBVV95cUxNMXZRTEdJdGd2YnZnbGIySUpjaXdFV0VjV0FIVjcxWWg2VGFqM0gyN0hwd1BnZGM2bU5QSVJDczVWLVp4MmxSUFpXNmh1TXdXd2pMam1MYl90Wl9BOFpKUEJ2SEt6WFVDNmhJYU5ETTBOZExXLXpMdERTVlhpNEFLbUZKd2xvMVJVUjZsWEtVX3FWQmgyWVNRczhVTjRWdw?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-07-13
 
 來源：[Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1Jzem56QkpmdGd4YVVraGp1MVRHM3g2cFFsNHhKT0xCa1ZlcS0yZ3FuOE51RXdfNjRjM1F3ZDlQcE1NUTFfel9QZUp4TTd5SkxwYmxHc0tLbzFrQ0JaMGdaZzI5c3pZVkc3eGlkSmVTZWUtbGctNmhmeHgzYVg4S0x2RHZXUUhlUWN1SnJzTmRqdHdxcHozX0RoR1RiVGQ4VzkzVERMU2FnNVM2bGc?oc=5)
-
----
-
-### [Granddaughter’s video diary captures unfiltered reality of dementia - The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJOdXpjYkhkMHJmM09IeEhLWUJqbTRxR09WYXlzX2p1UzVwUjJpOUZwU0pTeFJObEc5Yi1Wck5CcmlpLXI1dERja1pQV0pDWG0zTjVqQktrM2NhcXc5R29rYkktUzRyODZfbnlxX0FncEl4dTk5RzlITEx0YV9Yc3ZIbm93VmRDcWUyVzVVUHp2ZEl4?oc=5)
-
-2026-07-12
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXJOdXpjYkhkMHJmM09IeEhLWUJqbTRxR09WYXlzX2p1UzVwUjJpOUZwU0pTeFJObEc5Yi1Wck5CcmlpLXI1dERja1pQV0pDWG0zTjVqQktrM2NhcXc5R29rYkktUzRyODZfbnlxX0FncEl4dTk5RzlITEx0YV9Yc3ZIbm93VmRDcWUyVzVVUHp2ZEl4?oc=5)
-
----
-
-### [Maladie d'Alzheimer : voici les signes dans la façon de parler que les spécialistes recommandent de surveiller - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
-
-2026-07-12
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3lqaDR4cVR3eTdJSEVaS1pSazhjd0E0MGpvQzA2b2VIc2xSVVpwQUluNHpPY05NNmw4dVAyeW5VQjE4ZnhBT2E2NDRQcVRrWlM4TGprR3NpU0NKNTl0Yy05VjdFNERxX0c2LW8zRTNqQ3p1elJNMEc0dlh6NWFqaHZzdkV0S3REbmFGSkJDRE1WcXpNVWtOZXU4clg4a2gwazRLazk3dmJ1UjJ4TGhwRm5YNVhJOWNybjlCSTJxRExkLTRRMzRPbzVaZE9peEtob1Z5bG1sSmllUUlKOGRNek9pQjM1UTFhVDlyWVlqZWdaQQ?oc=5)
 
 ---
 
