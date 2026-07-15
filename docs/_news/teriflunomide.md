@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [La cobertura mundial de vacunación infantil avanza con lentitud: "Todos los niños merecen beneficiarse de su protección"](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTlktSWZISlZZTHpmdnM1UGpRMlMxdExsc3dZdXZsazFMbGN0eVl6QzBJb2VfLVRrdDU5LUF5T0g0dmNfLWtLaDRXU1l5TC02c192TWJXNDF4UlZrc3EtREIwTk9oek9BTEFKaHo1dHVzWDh3ZkF6VFRPQzlPdXN2cUZKcFJ6T2poaWd2UUp6c0phMkxPaDRqcUtKTVJsbmNfNkJKVlFFX01XNV9ZNm9NNlhxdDV0TWQ3bUN1NmlweG4zVkNNODBJWXVGNFRzMEI0dGZaWWJrQ2QzYTVSQzJHclFkZUVBLVFHZzkxSw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">MS</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTlktSWZISlZZTHpmdnM1UGpRMlMxdExsc3dZdXZsazFMbGN0eVl6QzBJb2VfLVRrdDU5LUF5T0g0dmNfLWtLaDRXU1l5TC02c192TWJXNDF4UlZrc3EtREIwTk9oek9BTEFKaHo1dHVzWDh3ZkF6VFRPQzlPdXN2cUZKcFJ6T2poaWd2UUp6c0phMkxPaDRqcUtKTVJsbmNfNkJKVlFFX01XNV9ZNm9NNlhxdDV0TWQ3bUN1NmlweG4zVkNNODBJWXVGNFRzMEI0dGZaWWJrQ2QzYTVSQzJHclFkZUVBLVFHZzkxSw?oc=5)
+
+---
+
+### [El grupo Ribera potencia la investigación clínica en esclerosis múltiple desde el Hospital de Torrejón](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQzNac3NSVURhdTJJZmk2YnE5Umx0S1BNNTZDbFN0M2Q1NmRxSkxXcHVfR2J3NDJNTWcyYmdzdG1FTGtRbW4zWm5YRHdxbzVrN3g2cW5aZk9hLTl5aVo2X2c5NF9jVlNGZzdFUVZxYTY3NlNRUXJRNTlibEVweUh6UkVBMW9kYWhpZllxYUtIQUVRUFh3T0o4WlphRjY3UUQ2cFRWeWY1X2tVRU5feGdDTHBybnNlMXl6Zk1oTUh5SVJiUHRIa3o0Y1Z5VHRqaldtcmhlTFJ1YS1rUHBoVU5VRnhGcl91dw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQzNac3NSVURhdTJJZmk2YnE5Umx0S1BNNTZDbFN0M2Q1NmRxSkxXcHVfR2J3NDJNTWcyYmdzdG1FTGtRbW4zWm5YRHdxbzVrN3g2cW5aZk9hLTl5aVo2X2c5NF9jVlNGZzdFUVZxYTY3NlNRUXJRNTlibEVweUh6UkVBMW9kYWhpZllxYUtIQUVRUFh3T0o4WlphRjY3UUQ2cFRWeWY1X2tVRU5feGdDTHBybnNlMXl6Zk1oTUh5SVJiUHRIa3o0Y1Z5VHRqaldtcmhlTFJ1YS1rUHBoVU5VRnhGcl91dw?oc=5)
+
+---
+
+### [High levels of microplastics found in heart attack survivors - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc0ekx0WXhka0xhd1pEWlZvcXZVQW8zeFpYV3pFN3JZalZiQXNFSHpadEVOQ0xoaGlYUjg3SlRscHpBS1d4cllqRkw1REJpV3pKbkRITm5CTk5yTEM3WTR2ajlwb0pfVUJMaEc1empnaERiSU9ld1otN1M2XzN1XzN1M1NQOWRVaUIzX1AwV0FjcVVzMTMwa3R3?oc=5)
+
+2026-07-15 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc0ekx0WXhka0xhd1pEWlZvcXZVQW8zeFpYV3pFN3JZalZiQXNFSHpadEVOQ0xoaGlYUjg3SlRscHpBS1d4cllqRkw1REJpV3pKbkRITm5CTk5yTEM3WTR2ajlwb0pfVUJMaEc1empnaERiSU9ld1otN1M2XzN1XzN1M1NQOWRVaUIzX1AwV0FjcVVzMTMwa3R3?oc=5)
+
+---
 
 ### [La República Democrática del Congo supera los 2.000 casos de ébola - EL PAÍS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXJnWm9xMTJYOEFoQldIY3FWWERzMkRVQXQtcjBlT25aUGlvRGs4MTAtX0xYTG9RQzhtcWhJejRsN2pHOVhHUG5LTTRBdWtJRUE4WEJzRkdmN3g2Q0d5RUwzNlhWdmxmeEhub0JRYVllZHJpeWdxVDdyZHo2U3hLYXBySnB2Z0dqUG9XQktTUGtVTDJ0bTQ5V3I1bnRrVlN4R1lfRkVJZUh0eWZnZ2fSAcIBQVVfeXFMUC1adEZiVzRubU5Wb0xXU2VkNm95VkdJWDdOazdBVVlyUUdfR0lpVkdTNnFPNHpyd2tkdHNjQ0xmb1d2WC1wSlpfaXk0U25tVGRaclFNX1VlMVQxc2xxY05TWTBZUVJSWGIzYVl1UnF6bkpNcEVnT1ktZ3FrMVlzdUlEYVpUSzZDX3N2MXYzeEpweWJDQWtkYjF0cENMeGNzUHNJUnV2RkROeEdEUThwMFVfbEo3WVpUTW15OUhqOFFyZkE?oc=5)
 
@@ -78,11 +102,27 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Shock rise in imported diseases as British tourists warned over mosquitoes this summer - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHBCVG9GdEloVElTZFNURTExSHBXZXg5eHdUSmhCYm5OeW93cEdQQzc4bVQxczhfSzhSQTJueURzWndyc24ySTB0bjJlY2ZrcTJWa3hvVGE0NTlIY180ci1pSU9oRllSZGQ0M3UwUmlzMi1NcVZWSDlFZHM2VVRJM2gyY1BkNW1VOG0yUkRvWUZXMVJkT09uUHp5amVST1JkQk9KbDBEZlU?oc=5)
+### [Psychology says the loneliest people in retirement aren't the ones who never made friends — they're the ones who spent forty years being the friend everyone else leaned on, and quietly forgot to build anything for themselves - Silicon Canals](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNQkxNYmk5LTAtS25keGUxVEVQbk0wVGFJNFBmY0FLcng0MzNfVmRwOE5odkhSSlNhUG9FSlVEbktwNER5T2VNQy1sbjBCZElvWHJSY0JfakotYlo5TkFxVG9aNUJxeEt1V3loLTRJM3JlejY5dTFCN05YbnZuYUF2Y2pGTUxWa3BMWi1NMlhidk1kc1VBZnVkNmZPN2lsbVZwVWdyVHBWSUgxQmF6LXNfcjR1MWNNV2dydm8wLWlSaDQ1dXUzeVhlTkdJaFA2ejF0N1d0d0RnOG5Ebzhmel9UWXBHVlhpRktIMzN0NlNFR1dwOUhKWXVOdHF1WnRLZXhlRTBUWlk3TG94Ny1YbEY3TE9ReHhMSkdVWXJDZTd0YkNJdkx5c2JNc2Rpa2x6eTJvSVRwbER6Qk9pRXM?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNQkxNYmk5LTAtS25keGUxVEVQbk0wVGFJNFBmY0FLcng0MzNfVmRwOE5odkhSSlNhUG9FSlVEbktwNER5T2VNQy1sbjBCZElvWHJSY0JfakotYlo5TkFxVG9aNUJxeEt1V3loLTRJM3JlejY5dTFCN05YbnZuYUF2Y2pGTUxWa3BMWi1NMlhidk1kc1VBZnVkNmZPN2lsbVZwVWdyVHBWSUgxQmF6LXNfcjR1MWNNV2dydm8wLWlSaDQ1dXUzeVhlTkdJaFA2ejF0N1d0d0RnOG5Ebzhmel9UWXBHVlhpRktIMzN0NlNFR1dwOUhKWXVOdHF1WnRLZXhlRTBUWlk3TG94Ny1YbEY3TE9ReHhMSkdVWXJDZTd0YkNJdkx5c2JNc2Rpa2x6eTJvSVRwbER6Qk9pRXM?oc=5)
+
+---
+
+### [Rapid magnetic brain stimulation eases depression within days, but benefits fade within weeks - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
+
+2026-07-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
+
+---
+
+### [Ebola in Congo si diffonde come mai prima. Ma gli operatori sanitari scioperano: “Non ci pagano” - la Repubblica](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTG5JYXVXNng5Q1dfeU1XbVJIOE5RVXlvZ3FsRGtaQlkyTWVibUliTWpDWjJ3eXRHekFoQ0tibzZrU3A1RWdTaVJGXy1fUUZidUdZTlByV3hNMEc1QkpybXMxNWM3WUlFdXR1a0JkdHVEMnRmcHVuWVVSVjkwakllajYzSTMtcjZ6akoxYlQyRXRHMlc3Zk1jczdyZ0o4dFUz0gGmAUFVX3lxTFB5Z0ZHOHpFMk1yY2w5ZDMyRzJkendUTFRhcUVJYmVYa1pQZ2J5OFFTYXpUelBJdWtkdmdMbDgyd0MtVXI1UUF3UXFudVhZQUNTdGttVUJBSUFBbW1QMVBHbkkyYU5ELW9jb040MEgycnF1WlFsNnB1S24zNWw2VWpEWXBhSGFZRTVVdkpMT1k5cmFtcV9ZRWpvRlQtQ1NTZnNWTmloUlE?oc=5)
 
 2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHBCVG9GdEloVElTZFNURTExSHBXZXg5eHdUSmhCYm5OeW93cEdQQzc4bVQxczhfSzhSQTJueURzWndyc24ySTB0bjJlY2ZrcTJWa3hvVGE0NTlIY180ci1pSU9oRllSZGQ0M3UwUmlzMi1NcVZWSDlFZHM2VVRJM2gyY1BkNW1VOG0yUkRvWUZXMVJkT09uUHp5amVST1JkQk9KbDBEZlU?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTG5JYXVXNng5Q1dfeU1XbVJIOE5RVXlvZ3FsRGtaQlkyTWVibUliTWpDWjJ3eXRHekFoQ0tibzZrU3A1RWdTaVJGXy1fUUZidUdZTlByV3hNMEc1QkpybXMxNWM3WUlFdXR1a0JkdHVEMnRmcHVuWVVSVjkwakllajYzSTMtcjZ6akoxYlQyRXRHMlc3Zk1jczdyZ0o4dFUz0gGmAUFVX3lxTFB5Z0ZHOHpFMk1yY2w5ZDMyRzJkendUTFRhcUVJYmVYa1pQZ2J5OFFTYXpUelBJdWtkdmdMbDgyd0MtVXI1UUF3UXFudVhZQUNTdGttVUJBSUFBbW1QMVBHbkkyYU5ELW9jb040MEgycnF1WlFsNnB1S24zNWw2VWpEWXBhSGFZRTVVdkpMT1k5cmFtcV9ZRWpvRlQtQ1NTZnNWTmloUlE?oc=5)
 
 ---
 
@@ -94,11 +134,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [NHS hopes ‘sepsis sensors’ will save thousands of lives - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
+### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
 
-2026-07-14 <span class="news-indication-tag">MS</span>
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
+來源：[SWISSLATIN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
 
 ---
 
@@ -123,30 +163,6 @@ permalink: /news/teriflunomide/
 2026-07-13 <span class="news-indication-tag">MS</span>
 
 來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXA3SElFLTJ0Tlp6QlhoU3FBczNuSUh1aW9yRDQ4M1BGMnB4Z29RR1ctT0d5RkdRd0RkMWZCTmdMSVVrdkxINHdzOHdCQ2VtWEVocE93SjhBUGg4Rlc3cFhmUzgzRVRWMnkyNmJZcjZEcnFkbEpaazgzQXJPZWVYZWd0OFUtZlNXZ2FkeWhwRlE5eWhtNzNjbloyaUxtR3dfV2JOQllFd0l1YjZfNlp3LWRmRnBGRzJsTXBFV3dhZG9GeThY?oc=5)
-
----
-
-### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
-
----
-
-### [The simple daily habit that boosts vitamin D and serotonin (and lowers cortisol)](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcDd1aW0zQmJKUDItcm9xOWlpRU0yXzBIX1RNQklxRVR0SjdsdGtFMnNQcXBnRGhZNFdxZjc5d0NWRGtNRmU3M0lmOVNXeWx6VlFjTnJ6UmFpTFB3ZUFvLTlicFlGYTZU?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span>
-
-來源：[vogueadria.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcDd1aW0zQmJKUDItcm9xOWlpRU0yXzBIX1RNQklxRVR0SjdsdGtFMnNQcXBnRGhZNFdxZjc5d0NWRGtNRmU3M0lmOVNXeWx6VlFjTnJ6UmFpTFB3ZUFvLTlicFlGYTZU?oc=5)
-
----
-
-### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
-
-2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
 ---
 

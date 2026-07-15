@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Stoffwechsel und Krebs: Fettleibigkeit erhöht Risiko für 19 Arten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Fettleibigkeit</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: «Estos alimentos que parecen inofensivos para nuestros hijos están programando un futuro de obesidad»](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5PeVROVEEzWllYWXRVZlJmNzlKN0pxWnpZSE1aUVJfcEtvMHcyTTZGcEQxLWVIYzA1bWFUbm5IWW5qYUo5LTBmVGpQRVUzck1UN3IxOWFIU0JMQUVQb2JjMElFc1BWZFczdjhuTTVfQXpiVHZBbTdvX01xZjRyZTU2LUc5QUVndU1aTzZQTndmQzM1R2xIY2Vzak9MMU1kU0lPeXJlbG1kck10MDFNU0Jwbk5FQ0luc0x1Rk9GdFNPejlacXA1VS1n0gHPAUFVX3lxTFBDNWFxUUJ1V0xlUV92anFTaWx1M0VSODQ2d1AtVW1rUm5OTTRNXzlDMTFuVzZncmE3OFZxeGFVa0x3RFRjZ2VoQjMyUEZMbld1YndaVE16MW5adGlFbVBhVFJKQXZDVVNYdHE1aU5aOUkwY0J1Q0lsRGgybnNRbHpnaHVVblR4MnRPM292MFFwNDJha0ROT0k4NlItei1kZXJNbDBtNm94Wnp3UmJMellxYnNBWkkxblNEeDF0T2ZIMWdQZ200T0FFMU1peFg5UQ?oc=5)
+
+2026-07-15 <span class="news-indication-tag">obesidad</span>
+
+來源：[ABC](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5PeVROVEEzWllYWXRVZlJmNzlKN0pxWnpZSE1aUVJfcEtvMHcyTTZGcEQxLWVIYzA1bWFUbm5IWW5qYUo5LTBmVGpQRVUzck1UN3IxOWFIU0JMQUVQb2JjMElFc1BWZFczdjhuTTVfQXpiVHZBbTdvX01xZjRyZTU2LUc5QUVndU1aTzZQTndmQzM1R2xIY2Vzak9MMU1kU0lPeXJlbG1kck10MDFNU0Jwbk5FQ0luc0x1Rk9GdFNPejlacXA1VS1n0gHPAUFVX3lxTFBDNWFxUUJ1V0xlUV92anFTaWx1M0VSODQ2d1AtVW1rUm5OTTRNXzlDMTFuVzZncmE3OFZxeGFVa0x3RFRjZ2VoQjMyUEZMbld1YndaVE16MW5adGlFbVBhVFJKQXZDVVNYdHE1aU5aOUkwY0J1Q0lsRGgybnNRbHpnaHVVblR4MnRPM292MFFwNDJha0ROT0k4NlItei1kZXJNbDBtNm94Wnp3UmJMellxYnNBWkkxblNEeDF0T2ZIMWdQZ200T0FFMU1peFg5UQ?oc=5)
+
+---
 
 ### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
@@ -70,14 +86,6 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Aurelio Rojas, cardiólogo, advierte sobre el azúcar: “Dárselo a un niño todos los días es uno de los mayores errores que hemos normalizado”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">obesidad</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
-
----
-
 ### [El buen uso y control de los fármacos contra la obesidad](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
 
 2026-07-14 <span class="news-indication-tag">obesidad</span>
@@ -91,22 +99,6 @@ permalink: /news/lasmiditan-succinate/
 2026-07-13 <span class="news-indication-tag">obesity</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEZaY0xJNTU1azNMekdRcV9hSElvQzE0eDZmNnRQckNSR3pVc05abWRKcFp2N0tDSW54VzdLQjZJb3RyOFRTdjZXcnRSZHd0WWJzbHRvcm1ENmx6dVBlRkc3TWZUUF9DY2FRZUU0TmtlT2JHUFdsUjBkMVlZdUhGVXdMbDZjZUpUSFlDdldwYW0?oc=5)
-
----
-
-### [Obesità: proteina “interruttore” protegge da diabete e fegato grasso - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
-
----
-
-### [El Hospital de Bellvitge (Barcelona) mejora el trasplante hepático en pacientes con obesidad - Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
-
-2026-07-13 <span class="news-indication-tag">obesidad</span>
-
-來源：[Europa Press](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVpvVFlnVjRsQmxiWlNoQjlXY25wNWhZX0xCaWNiWlpjVzRDNDJSVUE5d3dQQ1BGNWhSS0tWY1JuRThRUEF4bXhKcDlDMTBEQXI1cHdCbzhtdDQ1LXptMU9TRlNRVUE1cGhzNUpwS2JSTjhyeEV4bjJUZTFOZWVsOHhtTlB0RFVIRS1rbUR5cDFSUU9xMU5sWWFrWUVPYVRrekpWQ3l5MUtsU2tJOFR0cVV2Rkx6QzBFamg5TjZNZGxOdHlvQ05wU0lsdk9VYnBQMmF3TDN3?oc=5)
 
 ---
 

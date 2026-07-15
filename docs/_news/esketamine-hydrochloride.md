@@ -54,11 +54,11 @@ permalink: /news/esketamine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [It should have been the best moment of my life but I just felt nothing - Devon Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEVGcDlidTdiNXUyYVUzTTk2UWY3X282WWhJclQyX0ZKU2ZuWGxvRk5lR21hUWRvanhBREwzVlJQTmRGMW10Sks2Q3RBSkJkVEdzM2FaMjNVVWZaZW9zYW5lR240V2dSemNKdE1JVlFucndtVXFsRWE0b0lSWVctVVh3VUlleWw1Mk9V0gGLAUFVX3lxTFBMRUZwOWJ1N2I1dTJhVTNNOTZRZjdfbzZZaElyVDJfRkpTZm5YbG9GTmVHbWFRZG9qeEFETDNWUlBOZEYxbXRKSzZDdEFKQmRUR3MzYVoyM1VVZlplb3NhbmVHbjRXZ1J6Y0p0TUlWUW5yd21VcWxFYTRvSVJZVy1VWHdVSWV5bDUyT1U?oc=5)
+### [Rapid magnetic brain stimulation eases depression within days, but benefits fade within weeks - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
 
-2026-07-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-來源：[Devon Live](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEVGcDlidTdiNXUyYVUzTTk2UWY3X282WWhJclQyX0ZKU2ZuWGxvRk5lR21hUWRvanhBREwzVlJQTmRGMW10Sks2Q3RBSkJkVEdzM2FaMjNVVWZaZW9zYW5lR240V2dSemNKdE1JVlFucndtVXFsRWE0b0lSWVctVVh3VUlleWw1Mk9V0gGLAUFVX3lxTFBMRUZwOWJ1N2I1dTJhVTNNOTZRZjdfbzZZaElyVDJfRkpTZm5YbG9GTmVHbWFRZG9qeEFETDNWUlBOZEYxbXRKSzZDdEFKQmRUR3MzYVoyM1VVZlplb3NhbmVHbjRXZ1J6Y0p0TUlWUW5yd21VcWxFYTRvSVJZVy1VWHdVSWV5bDUyT1U?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
 
 ---
 
