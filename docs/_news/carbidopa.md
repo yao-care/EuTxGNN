@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Resultados del Ensayo LatAm-FINGERS sobre Deterioro Cognitivo Un estudio realizado desde Argentina. - Gestión y Economía de la Salud](https://news.google.com/rss/articles/CBMingFBVV95cUxNMXZRTEdJdGd2YnZnbGIySUpjaXdFV0VjV0FIVjcxWWg2VGFqM0gyN0hwd1BnZGM2bU5QSVJDczVWLVp4MmxSUFpXNmh1TXdXd2pMam1MYl90Wl9BOFpKUEJ2SEt6WFVDNmhJYU5ETTBOZExXLXpMdERTVlhpNEFLbUZKd2xvMVJVUjZsWEtVX3FWQmgyWVNRczhVTjRWdw?oc=5)
-
-2026-07-13 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Gestión y Economía de la Salud](https://news.google.com/rss/articles/CBMingFBVV95cUxNMXZRTEdJdGd2YnZnbGIySUpjaXdFV0VjV0FIVjcxWWg2VGFqM0gyN0hwd1BnZGM2bU5QSVJDczVWLVp4MmxSUFpXNmh1TXdXd2pMam1MYl90Wl9BOFpKUEJ2SEt6WFVDNmhJYU5ETTBOZExXLXpMdERTVlhpNEFLbUZKd2xvMVJVUjZsWEtVX3FWQmgyWVNRczhVTjRWdw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Experts Warn Of Commonly Dismissed Dementia Symptoms That Can Surface 15 Years Before Doctors Catch It - Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
 
 2026-07-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
-
----
-
-### [AUS DER INTERNATIONALEN KONFERENZ DER ALZHEIMER'S ASSOCIATION 2026: EIN LEBENSSTILPROGRAMM VERBESSERT DIE GEHIRNGESUNDHEIT BEI ÄLTEREN ERWACHSENEN MIT DEM RISIKO EINER DEMENZ IN GANZ LATEINAMERIK - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1Jzem56QkpmdGd4YVVraGp1MVRHM3g2cFFsNHhKT0xCa1ZlcS0yZ3FuOE51RXdfNjRjM1F3ZDlQcE1NUTFfel9QZUp4TTd5SkxwYmxHc0tLbzFrQ0JaMGdaZzI5c3pZVkc3eGlkSmVTZWUtbGctNmhmeHgzYVg4S0x2RHZXUUhlUWN1SnJzTmRqdHdxcHozX0RoR1RiVGQ4VzkzVERMU2FnNVM2bGc?oc=5)
-
-2026-07-13 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1Jzem56QkpmdGd4YVVraGp1MVRHM3g2cFFsNHhKT0xCa1ZlcS0yZ3FuOE51RXdfNjRjM1F3ZDlQcE1NUTFfel9QZUp4TTd5SkxwYmxHc0tLbzFrQ0JaMGdaZzI5c3pZVkc3eGlkSmVTZWUtbGctNmhmeHgzYVg4S0x2RHZXUUhlUWN1SnJzTmRqdHdxcHozX0RoR1RiVGQ4VzkzVERMU2FnNVM2bGc?oc=5)
 
 ---
 

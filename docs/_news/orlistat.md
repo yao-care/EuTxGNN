@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [El vapeo perjudica los vasos sanguíneos y reduce un 15 % la capacidad física, según un estudio - La Vanguardia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVBmRWlLR0o5RFlFRnlKZEdWQUhmS3VjNHNLcTNZMm1VVjQ4MEVlNzJCOExYeE5VNFJrcmJhODVsc3dDN1dQdDV6TmFvb3NXLUVrRG91akh1Qk5MMEZfMU02VkpMWXR2SG9SLXNlT0ZaRk50bUdnRXBYRnBUWlFrNm1WYlpYcW05T1ZrWFJ2aE00Y1N6d0I2bVFLa0F0UTlOLV83QnRQcDNya2o3Ti1Yc01YTnNjNHFKYWZUWkM1cmM1cTE0TzRIQmR3aUI2aUlZN3JMRHNRRlV4UdIB3wFBVV95cUxNQmF1TkY4Wkk5U0Y1T01YbTRzRW1xQi1yZ1JJNGJ1NUVIUkJfWWxlaENPSzBiaThNZEIyaGs1ZDJGQVd3RDJmZ2VuX293dUY2bkw3WU83dDlHNFlzQlFPeVZOdnF2UEt1anVjNWY3S3Q3WXNBVnZNOHBqMm9lb244LUZEVFJYLU84SlRDdXFwTFljbmtkOG9wVVhPMUhPTXhOaE1NRVUwSWVSeE50eElWeGtqWF9FdFBHb2cxUVpkQmp2bFJBd1NkRjFDMVNJalVLUmpkU1Y5d3lIV245aVk0?oc=5)
-
-2026-07-14 <span class="news-indication-tag">CVA</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVBmRWlLR0o5RFlFRnlKZEdWQUhmS3VjNHNLcTNZMm1VVjQ4MEVlNzJCOExYeE5VNFJrcmJhODVsc3dDN1dQdDV6TmFvb3NXLUVrRG91akh1Qk5MMEZfMU02VkpMWXR2SG9SLXNlT0ZaRk50bUdnRXBYRnBUWlFrNm1WYlpYcW05T1ZrWFJ2aE00Y1N6d0I2bVFLa0F0UTlOLV83QnRQcDNya2o3Ti1Yc01YTnNjNHFKYWZUWkM1cmM1cTE0TzRIQmR3aUI2aUlZN3JMRHNRRlV4UdIB3wFBVV95cUxNQmF1TkY4Wkk5U0Y1T01YbTRzRW1xQi1yZ1JJNGJ1NUVIUkJfWWxlaENPSzBiaThNZEIyaGs1ZDJGQVd3RDJmZ2VuX293dUY2bkw3WU83dDlHNFlzQlFPeVZOdnF2UEt1anVjNWY3S3Q3WXNBVnZNOHBqMm9lb244LUZEVFJYLU84SlRDdXFwTFljbmtkOG9wVVhPMUhPTXhOaE1NRVUwSWVSeE50eElWeGtqWF9FdFBHb2cxUVpkQmp2bFJBd1NkRjFDMVNJalVLUmpkU1Y5d3lIV245aVk0?oc=5)
-
----
-
-### [Schlaganfall und Herzinfarkt: „Vitamin K aktiviert Proteine, die Blutgefäße vor Verkalkung schützen“](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNS1LRHFQWFlNTjRiU0Rpb3Z1cHJiS05WbFpqWlBaMzdleVVuNVNBWUtLVWV3WWlsajZBOGtBVmZHM0p0Wm44a19GSTJEWW91bGxQZ1Rjcm9hSjYxVEJVQXcwVDQwWnFwTW9aS1RncGlGOXdGN3VIUWJlNUhzS09rcFFUaEFHNktDZGZYdzI2dkRtVXotV19vUVpMY1RVTjNMekNfdGFSZ3ZXb1l6NkdtcWlLektqVmo3SzA1TXpFQW5sWTB1X0tFa3pJcjFuYmpqdDhhcDY4bGVrZks0MWZaVnctWDJrZ1l6SjY3eFNDTXNXcEhMemtz?oc=5)
+### [Vitamin K: Neue Studien belegen Schutz vor Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5NZk1aQUxDWGREYV82NDluSERlQlF2bzB1T1k3LWY1RVI1ZzNRWGhLRnZLcDVSQ0RyRHl6VW04dHFVS2xDZjlIT0t6S0RFbjl4a1BCXzR5VmtvZGdmMmVkNEFYWU9OcHY1aEJ3UnpxZlZHbmlnc3hkQmR6S2ZIcjZ4OHRQZ1FzWmZEREdhZEZ0ZUluV3BUd3UxQWtMVUo1eTBNNV81cnpsX3g5cWttX3RhdTNxNms4RnRZ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNS1LRHFQWFlNTjRiU0Rpb3Z1cHJiS05WbFpqWlBaMzdleVVuNVNBWUtLVWV3WWlsajZBOGtBVmZHM0p0Wm44a19GSTJEWW91bGxQZ1Rjcm9hSjYxVEJVQXcwVDQwWnFwTW9aS1RncGlGOXdGN3VIUWJlNUhzS09rcFFUaEFHNktDZGZYdzI2dkRtVXotV19vUVpMY1RVTjNMekNfdGFSZ3ZXb1l6NkdtcWlLektqVmo3SzA1TXpFQW5sWTB1X0tFa3pJcjFuYmpqdDhhcDY4bGVrZks0MWZaVnctWDJrZ1l6SjY3eFNDTXNXcEhMemtz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5NZk1aQUxDWGREYV82NDluSERlQlF2bzB1T1k3LWY1RVI1ZzNRWGhLRnZLcDVSQ0RyRHl6VW04dHFVS2xDZjlIT0t6S0RFbjl4a1BCXzR5VmtvZGdmMmVkNEFYWU9OcHY1aEJ3UnpxZlZHbmlnc3hkQmR6S2ZIcjZ4OHRQZ1FzWmZEREdhZEZ0ZUluV3BUd3UxQWtMVUo1eTBNNV81cnpsX3g5cWttX3RhdTNxNms4RnRZ?oc=5)
 
 ---
 
@@ -86,6 +78,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Las células madre reavivan la esperanza terapéutica en el ictus crónico - El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">ictus</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
+
+---
+
 ### [Scientists Develop a Food Ingredient That May Prevent Obesity](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEZaY0xJNTU1azNMekdRcV9hSElvQzE0eDZmNnRQckNSR3pVc05abWRKcFp2N0tDSW54VzdLQjZJb3RyOFRTdjZXcnRSZHd0WWJzbHRvcm1ENmx6dVBlRkc3TWZUUF9DY2FRZUU0TmtlT2JHUFdsUjBkMVlZdUhGVXdMbDZjZUpUSFlDdldwYW0?oc=5)
 
 2026-07-13 <span class="news-indication-tag">obesity</span>
@@ -99,14 +99,6 @@ permalink: /news/orlistat/
 2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
-
----
-
-### [How just five days of overeating can make you crave more food - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
-
-2026-07-13 <span class="news-indication-tag">obesity</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
 
 ---
 

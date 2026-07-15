@@ -14,7 +14,7 @@ permalink: /news/inotuzumab-ozogamicin/
 ---
 
 <p class="key-answer" data-question="Inotuzumab Ozogamicin 有什麼相關新聞？">
-<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/inotuzumab-ozogamicin/
 <p><a href="{{ '/drugs/inotuzumab-ozogamicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
-
-### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
-
----
+## 相關新聞（29 則）
 
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
 
 2026-07-14 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+
+---
+
+### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
+
+---
+
+### [Brustkrebs: Vitamin-D-Mangel verdreifacht Schmerzrisiko nach OP](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
+
+2026-07-14 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
 
 ---
 
@@ -78,19 +86,27 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
+### [Enfermedades físicas y trauma infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+
+---
+
+### [Diabetes-Therapie: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
+
+---
+
 ### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
-
----
-
-### [La incidencia del cáncer de piel se dispara un 40% en cuatro años](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUMzWVgzdnhmdWtGdmYwRDRYRDZDSDF6aGk2N1NQYS1CM0RTMlo5Y1VNV3JOV2JxWDNEQkhTUnNXME0tU1NySEo5R2hKbl8tNWhvUVY5R2dCOW1CLUpIbk01V1hkMG1ISk5sdElzclYzdS00dTdYcG42d1FKOFpFMzMycHlsY0ZqQXUyQkNKbzYzaUpFcVVGaU1CTXYxaXZjenNrUmRndk1BMmJjdUhYS0hNTjZLWHNQMTlrQmNRNUJaZ0ExbkpBY194alpyalBJMGxxT2FkekI4U2wwNnfSAeMBQVVfeXFMT2ptZ1RrM2s5TGxmSGZiaWhXcTkzQlZPeklPY19ucUlhOTE0d05uQnV1dUFRRWZwc0pndkRINmNSeFF2VkVSY29tVFI1NXd2bGhheGl1d0VaMXZxdWYzYVQ0OTF1NkdwQkgtYk0tbmt4UlVTeXdDUmJ1V0ZLc3ZVLWZ2ZHhrd1dqUDhoOVk2dGpUb3FtdW8xbWwyMEl6Zjc0ZUJieE1ramFyX19BMDE2X0MtdElWcnJ2RXUteVBwem9oZjdHZkp5WTZvR1Z5ZmJmSlJmZVZkaTNwekoxbmh5aElZNGM?oc=5)
-
-2026-07-14 <span class="news-indication-tag">tumor</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUMzWVgzdnhmdWtGdmYwRDRYRDZDSDF6aGk2N1NQYS1CM0RTMlo5Y1VNV3JOV2JxWDNEQkhTUnNXME0tU1NySEo5R2hKbl8tNWhvUVY5R2dCOW1CLUpIbk01V1hkMG1ISk5sdElzclYzdS00dTdYcG42d1FKOFpFMzMycHlsY0ZqQXUyQkNKbzYzaUpFcVVGaU1CTXYxaXZjenNrUmRndk1BMmJjdUhYS0hNTjZLWHNQMTlrQmNRNUJaZ0ExbkpBY194alpyalBJMGxxT2FkekI4U2wwNnfSAeMBQVVfeXFMT2ptZ1RrM2s5TGxmSGZiaWhXcTkzQlZPeklPY19ucUlhOTE0d05uQnV1dUFRRWZwc0pndkRINmNSeFF2VkVSY29tVFI1NXd2bGhheGl1d0VaMXZxdWYzYVQ0OTF1NkdwQkgtYk0tbmt4UlVTeXdDUmJ1V0ZLc3ZVLWZ2ZHhrd1dqUDhoOVk2dGpUb3FtdW8xbWwyMEl6Zjc0ZUJieE1ramFyX19BMDE2X0MtdElWcnJ2RXUteVBwem9oZjdHZkp5WTZvR1Z5ZmJmSlJmZVZkaTNwekoxbmh5aElZNGM?oc=5)
 
 ---
 
@@ -118,19 +134,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Beloved dad known as 'The Wizard' only has weeks to live after cancer diagnosis - Great Yarmouth Mercury](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1NieHEzU1VQckRYR2xiOTFMTVo2QVRNblg1UlhuZnBDMGZYYTR4dmJyUzNVZVdac2pnRXFnSzdteGFKRTVwbE9QM2pnS2Ita0hrenBpZF8xcmw0UVBGd3g2TUU3WW9iTkJnUnQwMkZDMWk4amUtNjZESnFUWllJUFoycEFyTUxma0dqcF9nbG1VdDA1N2Rzd1BDQXRCTTVLRlBGTQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Great Yarmouth Mercury](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1NieHEzU1VQckRYR2xiOTFMTVo2QVRNblg1UlhuZnBDMGZYYTR4dmJyUzNVZVdac2pnRXFnSzdteGFKRTVwbE9QM2pnS2Ita0hrenBpZF8xcmw0UVBGd3g2TUU3WW9iTkJnUnQwMkZDMWk4amUtNjZESnFUWllJUFoycEFyTUxma0dqcF9nbG1VdDA1N2Rzd1BDQXRCTTVLRlBGTQ?oc=5)
-
----
-
-### [CGM, Wearables und Bewegung: Risiko senken – Chancen und Grenzen 2026 - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9zeGRONldUOFI3cTJURVgwdTZyMTBGVC01SDlJcEt2UFY1YW1ON1hueEQ0NU4zMWU5YmpKR1h3Z2RwalQtSDN0UnB2cWdDYUNpeVBOZ2JVZHl6OUdsSnZfaFdCVTR2aEh2ZlFIOHloZjdBUjduWWdVNXBvWjh5RmJQZzlGUFJmN2NSU2hSc3M1djEtNGpZQ1l2WU1Vdw?oc=5)
+### [Diabetes Jahre vorab anhand der Darmflora vorhersehbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9zeGRONldUOFI3cTJURVgwdTZyMTBGVC01SDlJcEt2UFY1YW1ON1hueEQ0NU4zMWU5YmpKR1h3Z2RwalQtSDN0UnB2cWdDYUNpeVBOZ2JVZHl6OUdsSnZfaFdCVTR2aEh2ZlFIOHloZjdBUjduWWdVNXBvWjh5RmJQZzlGUFJmN2NSU2hSc3M1djEtNGpZQ1l2WU1Vdw?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
 
 ---
 
@@ -150,6 +158,14 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
+### [Joghurt gegen Darmkrebs? Neue Studie zeigt überraschenden Zusammenhang](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
+
+2026-07-14 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
+
+---
+
 ### [Völlig unerwartet: Dieses Alltagslebensmittel steht im Verdacht, Lungenkrebs zu fördern - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFZhbk1qdTVjNnRSaG9wSXN1b3hfcjJzVUVnYWZ5R1pNZzFlTnUtbHdraFJsVXhGUjFCcExvMGUyTWRJalN4R01KVHhhcGIxaW8waVRja0hfMnZYbkZNaGZaNHpSVmJxMjBidks2RGtlZGJ1QnRWRlN1NTdlS2pNVUVzR0pkSllvUGNEMktvZzY2eGFUNEI5Y0xGeGFEOTNXVVh6d2Y2YUNOZjJkTHpzQ1UxQlRyeFg4RjJ5Y2pPanhXSXNyeE5wMA?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Krebs</span>
@@ -166,35 +182,11 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
-
----
-
 ### [Erhöht hormonelle Verhütung das Risiko für Hirntumoren?](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRExkSkdXNEMtMkxJZ2NwcEZRcWVjZk4tNWxoYS1McVl5UVprRkZNT015V01HakR0N1laWU5PTFRpWHAwNlRGQy1zbndSX0tyNVBnZkhiTUtXcmNETGkwWnBybjNzVC1pZkdkcVk0NXExZGVNcDEtWDAzbWtUdDBMNVRCcGdLZUFDanFNRC0xc0FNVko3d2c0ZnRCNHhkcnM5MWJWcW1PZHlkUVhLbkl4Uk1VVWlFZE5JYjNiTnJ3?oc=5)
 
 2026-07-13 <span class="news-indication-tag">tumor</span>
 
 來源：[BILD](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRExkSkdXNEMtMkxJZ2NwcEZRcWVjZk4tNWxoYS1McVl5UVprRkZNT015V01HakR0N1laWU5PTFRpWHAwNlRGQy1zbndSX0tyNVBnZkhiTUtXcmNETGkwWnBybjNzVC1pZkdkcVk0NXExZGVNcDEtWDAzbWtUdDBMNVRCcGdLZUFDanFNRC0xc0FNVko3d2c0ZnRCNHhkcnM5MWJWcW1PZHlkUVhLbkl4Uk1VVWlFZE5JYjNiTnJ3?oc=5)
-
----
-
-### [Devon dad, 35, thought he had repetitive strain at work before devastating stage 4 brain tumour diagnosis - Devon Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWxweEx6OXBFUXhGUmJYSi1kaWg1WkJuRmdZYVc2YnE3dnZCNE80c29PX1czazlWYWhYWjlzbGZvV09qT2dNTWtvNDFTQldBcGdwSGQwV3J2bkZLZVFmRWtDZ2o0MUFoU2tGYnNqRm1QQ19ZbkkwakRDSU1QUnUteUZrMU5IbWMzNVE?oc=5)
-
-2026-07-13 <span class="news-indication-tag">tumour</span>
-
-來源：[Devon Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWxweEx6OXBFUXhGUmJYSi1kaWg1WkJuRmdZYVc2YnE3dnZCNE80c29PX1czazlWYWhYWjlzbGZvV09qT2dNTWtvNDFTQldBcGdwSGQwV3J2bkZLZVFmRWtDZ2o0MUFoU2tGYnNqRm1QQ19ZbkkwakRDSU1QUnUteUZrMU5IbWMzNVE?oc=5)
-
----
-
-### [Fermentierte Lebensmittel: 50% weniger Darmkrebsrisiko laut NHANES](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDVGQzMzcnRXcFRiUDRieEZ2Y3A2dUN6dHhOQldubjE4b0JxSTZyR1l2Q3VkUGt5QUZZX2hTVHFKUkcyb3pmWklIRFAzc1R3QUltNDFrNXVENUVWdjUydnZORHdvRFFxY2xEc2xfcVZ1emtQX21DdUJpZFViaWhOdkc2Tm82cmZTUXlPaHljMUtqZkdLcWdRZEVtRmdWOWRHbGx4cnNWUl81cHhWdE5VdDFHcmR6Mm1RT0ZrWmxB?oc=5)
-
-2026-07-13 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDVGQzMzcnRXcFRiUDRieEZ2Y3A2dUN6dHhOQldubjE4b0JxSTZyR1l2Q3VkUGt5QUZZX2hTVHFKUkcyb3pmWklIRFAzc1R3QUltNDFrNXVENUVWdjUydnZORHdvRFFxY2xEc2xfcVZ1emtQX21DdUJpZFViaWhOdkc2Tm82cmZTUXlPaHljMUtqZkdLcWdRZEVtRmdWOWRHbGx4cnNWUl81cHhWdE5VdDFHcmR6Mm1RT0ZrWmxB?oc=5)
 
 ---
 
@@ -264,9 +256,17 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
-2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
+
+---
+
+### [CGM & 46.000 Mahlzeiten: Warum Kohlenhydratzählen beim Blutzucker nicht reicht - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
 
 ---
 
@@ -283,38 +283,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-07-13 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1cG5YOWl3NXp6WFFxd0FIdkZUbjdsdG9RclpZR2doS1dLQl9xaFFsRVpYa3VQc1JTbzh0OTRBRmE2dWNlTW5QMW9Fa2Z1Sm9sZ0tfam1UUVpvRFNY?oc=5)
-
----
-
-### [Brustkrebs-Schmerzen: Vitamin-D-Mangel erhöht Risiko um das Dreifache](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2VWcG5lOVFVYWxJV005VlFKZ2pOdmRDdmNTVXozT1NCMDREbFZwcmNWdHVuRk5aX0x1R2xJak4wa0MwckdFZ2RkX0t4ZnpzeXJZSm9UMmZoRTEwb1c2YVZSYkk3UEMzZ3pTcnotaXVVeE5HU1NROGw3RTh5UDFjeUd2bDVGcW8tLXh5aUVBMlVvMXRLWmktWUZnZDU0T3BXOXdVd1ExQm5KcFZ5X3NjX25SRF9GNHFmVkE?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2VWcG5lOVFVYWxJV005VlFKZ2pOdmRDdmNTVXozT1NCMDREbFZwcmNWdHVuRk5aX0x1R2xJak4wa0MwckdFZ2RkX0t4ZnpzeXJZSm9UMmZoRTEwb1c2YVZSYkk3UEMzZ3pTcnotaXVVeE5HU1NROGw3RTh5UDFjeUd2bDVGcW8tLXh5aUVBMlVvMXRLWmktWUZnZDU0T3BXOXdVd1ExQm5KcFZ5X3NjX25SRF9GNHFmVkE?oc=5)
-
----
-
-### [Brustkrebs: Diese Nahrungsmittel senken das Erkrankungsrisiko](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3RJV1BuZWxnUGdZZU5JR1FJXzcxa3dMNjZvLVVRWGZGYjYybmRrcE9hbXppU0pBM0k4UkNOWTJoZjBxNF83OUpLZDgydVU3Qk5vb3A3TTQwTnY1LW1EMHZsalV4czFZYXZRMG5LWWRCMHpJMW9rVnNwVDhwNkMwdW4wOHJJVVZDejgtdFpoMVdhTGtoeU1SNzFvYUIxZ3ZBVUR6YmtoOUFBOGZ0Sk1QZWYzMWd1bkV0d0U0dDBn?oc=5)
-
-2026-07-12 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3RJV1BuZWxnUGdZZU5JR1FJXzcxa3dMNjZvLVVRWGZGYjYybmRrcE9hbXppU0pBM0k4UkNOWTJoZjBxNF83OUpLZDgydVU3Qk5vb3A3TTQwTnY1LW1EMHZsalV4czFZYXZRMG5LWWRCMHpJMW9rVnNwVDhwNkMwdW4wOHJJVVZDejgtdFpoMVdhTGtoeU1SNzFvYUIxZ3ZBVUR6YmtoOUFBOGZ0Sk1QZWYzMWd1bkV0d0U0dDBn?oc=5)
-
----
-
-### [What four oncologists do daily to avoid cancer - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0kwWlRzanhxQktOQ25LRC1kaFFpSEd6Qm9FZUNqOHhNdFlyaTk4MUllM0VvT1JlVEtrMDNramloaFNWUHNjUzhxTG5Oc2d3NG8yYjJ6VzRmekY4a0loUjByMWlHaGZINmxRbFpBOXZtc0JISTBxeG02VzlTbkQ2dWRaclVOR0VFVFRWR01iWE00ZjFxZk5nRU9fMWVZYWlDaVBBd1pn?oc=5)
-
-2026-07-12 <span class="news-indication-tag">cancer</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0kwWlRzanhxQktOQ25LRC1kaFFpSEd6Qm9FZUNqOHhNdFlyaTk4MUllM0VvT1JlVEtrMDNramloaFNWUHNjUzhxTG5Oc2d3NG8yYjJ6VzRmekY4a0loUjByMWlHaGZINmxRbFpBOXZtc0JISTBxeG02VzlTbkQ2dWRaclVOR0VFVFRWR01iWE00ZjFxZk5nRU9fMWVZYWlDaVBBd1pn?oc=5)
-
----
-
-### [Diabetespatienten häufiger von Zahn- und Implantatverlust betroffen - ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
-
-2026-07-12 <span class="news-indication-tag">diabetes</span>
-
-來源：[ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
 
 ---
 

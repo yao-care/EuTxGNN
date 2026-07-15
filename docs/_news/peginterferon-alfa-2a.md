@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
 
-### [Rapidez con que avanza brote de ébola alarma a la OMS](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUoxLWhRTkRjcnJycG53SFR0emhWUzBTUVYwQnd2QkREV0NrdER4aUdBWThfcFR5SWw5ZUliT05Ub3hHSTZTM2VRWHpHZ2NCUG9DY1cwVU4tTy1BX3Y0YlBZUXYyV1ZScTFPZkVYT3ZqU2cxenJEdUdDZFpQUUFsZUhKY094ZVE0N2ZmZUxxY3lkekpLMXfSAZYBQVVfeXFMUDVzdjVPclR5RlRzOTRkcktYV0xPbjJwMnkzWnpPZnUwbExMNWI0cVJXVkgtZEdvN1FQRVRjNEhMVW44alV2Z0xaZGV2ZnZWWm1TcnhBaU1jSlAxcmZBUUhYV2lUVEE3VUIzdlNad3F6d0pLVTJFeGxaT2ZsQXdpelpkSUdNT0t4WmFJUFhVUFFacjhYYmR3?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span>
-
-來源：[dw.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUoxLWhRTkRjcnJycG53SFR0emhWUzBTUVYwQnd2QkREV0NrdER4aUdBWThfcFR5SWw5ZUliT05Ub3hHSTZTM2VRWHpHZ2NCUG9DY1cwVU4tTy1BX3Y0YlBZUXYyV1ZScTFPZkVYT3ZqU2cxenJEdUdDZFpQUUFsZUhKY094ZVE0N2ZmZUxxY3lkekpLMXfSAZYBQVVfeXFMUDVzdjVPclR5RlRzOTRkcktYV0xPbjJwMnkzWnpPZnUwbExMNWI0cVJXVkgtZEdvN1FQRVRjNEhMVW44alV2Z0xaZGV2ZnZWWm1TcnhBaU1jSlAxcmZBUUhYV2lUVEE3VUIzdlNad3F6d0pLVTJFeGxaT2ZsQXdpelpkSUdNT0t4WmFJUFhVUFFacjhYYmR3?oc=5)
-
----
-
-### [Multiple Sklerose: Heilung in 5–10 Jahren für realistisch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTdrZmhXd2lvUUVmQTNBaHY0cHMtbmZHejlpTUJrWnFET2pBS0h5bGFwN3ZmdzF5ZmpieDdYbmlLVUI5ZHBTMklSeW9NSUlZcVpqVGtlZVBlMTF0ak5Rd1BSbDlfSS1mWlFTZGl1YmdqOGNITjB4UDhsTXVoTGRjeGxnY0l6MXZRUGlhVWNXNWxNUkFLR1dVUzI3WVA1NlpOVDdPTExWMDNjZw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTdrZmhXd2lvUUVmQTNBaHY0cHMtbmZHejlpTUJrWnFET2pBS0h5bGFwN3ZmdzF5ZmpieDdYbmlLVUI5ZHBTMklSeW9NSUlZcVpqVGtlZVBlMTF0ak5Rd1BSbDlfSS1mWlFTZGl1YmdqOGNITjB4UDhsTXVoTGRjeGxnY0l6MXZRUGlhVWNXNWxNUkFLR1dVUzI3WVA1NlpOVDdPTExWMDNjZw?oc=5)
-
----
-
-### [Neue Pilotstudie MS-PAVED sucht Menschen mit Multipler Sklerose](https://news.google.com/rss/articles/CBMigwJBVV95cUxNc19wR3ZFTENZVjVtZDVtNkFNb2paZHBpTjI1TFhNWkxvZzR3R1NtbnhIeEtodnlJSzl4Q2tuRUJFUDFkeXo5NmVZbTJaQW9qeUQwOFpQNXVSZXppcEJBenZMN2JqeFBqbkI0Z25KZnh1aDhBWGhkNGFNR2R3NVZaMjlhNnBXWjBrV2RSd09fRkVVR3BnYVJSQVNjTW1xa0Nkb2JBZzRYX2FNZWJaRVBmN1BXdlpMcVlaMXhrNV9hU0FnZlQ1OGF6WFdJcXJTV2VQc3NDTGdLSHl5a1o3Q1VaLWRVdDVGYUhFS2xTZlpSalZUNTloRkR6OWwwMkZsdm0tUktJ?oc=5)
+### [Ampliación: Casos de ébola en RD del Congo superan los 2.000 - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWdNV0t2N3d5a09EaTdFdDh1NExVM3BrQUMxNkRHSXd4NkgzWFRlUHNnc3VWbDBZS0Fhb0UyRFlXaVRNZzVKWmJwckg1ZUk1QnlIQ1U4MzFIdE5KRHpCZ1RwbG9WNVVDMVdCOWVhSnZUX1ppZTFkTHYwOTlQWi1jdXNVOA?oc=5)
 
 2026-07-14 <span class="news-indication-tag">MS</span>
 
-來源：[lifePR](https://news.google.com/rss/articles/CBMigwJBVV95cUxNc19wR3ZFTENZVjVtZDVtNkFNb2paZHBpTjI1TFhNWkxvZzR3R1NtbnhIeEtodnlJSzl4Q2tuRUJFUDFkeXo5NmVZbTJaQW9qeUQwOFpQNXVSZXppcEJBenZMN2JqeFBqbkI0Z25KZnh1aDhBWGhkNGFNR2R3NVZaMjlhNnBXWjBrV2RSd09fRkVVR3BnYVJSQVNjTW1xa0Nkb2JBZzRYX2FNZWJaRVBmN1BXdlpMcVlaMXhrNV9hU0FnZlQ1OGF6WFdJcXJTV2VQc3NDTGdLSHl5a1o3Q1VaLWRVdDVGYUhFS2xTZlpSalZUNTloRkR6OWwwMkZsdm0tUktJ?oc=5)
+來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWdNV0t2N3d5a09EaTdFdDh1NExVM3BrQUMxNkRHSXd4NkgzWFRlUHNnc3VWbDBZS0Fhb0UyRFlXaVRNZzVKWmJwckg1ZUk1QnlIQ1U4MzFIdE5KRHpCZ1RwbG9WNVVDMVdCOWVhSnZUX1ppZTFkTHYwOTlQWi1jdXNVOA?oc=5)
+
+---
+
+### [Tamsulosin: Studie zeigt schwache Wirkung bei Prostata-Vergrößerung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGdqbm5yVUNadGViaFYxNVpUamJGVGxqWVNBNFVpbXpZSGFrUnd6bVA3RXN4dTNCQzlhTG1jcEE0REVUZjZCcTFTemhDZ2ptNlVCa3doZms3N2hQN0hTSVJyS0tSWUdyem9VYXNZWkQyZ1JWSFVUaTJMNzdWYjFKQU81eDNFTXBObFlPRV9OSHh2TXNnNzAzQml5UUZZS2Q1UjVCcDFIVjRXSi1YSGd0VG1EcEJWekp4?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGdqbm5yVUNadGViaFYxNVpUamJGVGxqWVNBNFVpbXpZSGFrUnd6bVA3RXN4dTNCQzlhTG1jcEE0REVUZjZCcTFTemhDZ2ptNlVCa3doZms3N2hQN0hTSVJyS0tSWUdyem9VYXNZWkQyZ1JWSFVUaTJMNzdWYjFKQU81eDNFTXBObFlPRV9OSHh2TXNnNzAzQml5UUZZS2Q1UjVCcDFIVjRXSi1YSGd0VG1EcEJWekp4?oc=5)
+
+---
+
+### [Mehr als 70 Jahre in der Eisernen Lunge – wohl letzte Patientin gestorben](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFM1WEdiODI4amo1Ukd5cTE2T1Z3Q2gtQ3k5SVJLaThGbVBhRlM0X1VoaERBdlB4aHhsd1ItR3M1N3FUZnB4VzFaR2Z0d2pGZXA0ZUZzREZHSS1qalNXVTJHZmlVRV9nUENoNFN6eWxFWlkwZzlDQUkycEEwcThlZDkyLTg4S0llby05LWs3N1lyVzQzUEpvNmlybFRlRFI3a1NuT09ueW9Td1d1ZDFBaEczMXJsTFp1UWhWUkJaeUd5c0duczlrUU1vUFpnZkZPOTFaOHVKcw?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFM1WEdiODI4amo1Ukd5cTE2T1Z3Q2gtQ3k5SVJLaThGbVBhRlM0X1VoaERBdlB4aHhsd1ItR3M1N3FUZnB4VzFaR2Z0d2pGZXA0ZUZzREZHSS1qalNXVTJHZmlVRV9nUENoNFN6eWxFWlkwZzlDQUkycEEwcThlZDkyLTg4S0llby05LWs3N1lyVzQzUEpvNmlybFRlRFI3a1NuT09ueW9Td1d1ZDFBaEczMXJsTFp1UWhWUkJaeUd5c0duczlrUU1vUFpnZkZPOTFaOHVKcw?oc=5)
+
+---
+
+### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SWISSLATIN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
+
+---
+
+### [NHS hopes ‘sepsis sensors’ will save thousands of lives - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHYxakFWV0tXTEN3UjRuTGVHcHRZS0VWaVp4dDJ4WGFNeFhlV1hqeXBHeUJHdjctMldaXzhhVzRnT1VaeDRHTnRnblJoaHNPcnVreWdRVDJWU0N6MDhmTXVKcklPeHdLbk9xTDl6dUMzbm5TZS1jNUpnWEtmVEpTT00zWnRWTlEzN21CajI0enV1QWJsSFRzeFFVYWVMOE0?oc=5)
 
 ---
 
@@ -110,11 +126,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
+### [Multiple Sklerose: Heilung in 5 bis 10 Jahren realistisch – was sich ändert - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHJrSkx2NWVhb2JVNG50VXZwak9QLUU2OEdNS2EwOWRmZmpiQXl2M2hZUG8yVUlaaUtZUzBMczVyeHBEc0FQdWpvZWtmUVBKZ2FGYWRmX3hiampSM2dLQUVBM2YzNEhnQjdDd0xucVVZcTlTaXlQeWtOSHBLenU5eHZ5VXFob3pRdUNSOWpNYy1OWnhKY3l1Xy05dW04Tzg1b21VMl9QcV8?oc=5)
 
-2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">MS</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHJrSkx2NWVhb2JVNG50VXZwak9QLUU2OEdNS2EwOWRmZmpiQXl2M2hZUG8yVUlaaUtZUzBMczVyeHBEc0FQdWpvZWtmUVBKZ2FGYWRmX3hiampSM2dLQUVBM2YzNEhnQjdDd0xucVVZcTlTaXlQeWtOSHBLenU5eHZ5VXFob3pRdUNSOWpNYy1OWnhKY3l1Xy05dW04Tzg1b21VMl9QcV8?oc=5)
+
+---
+
+### [Inquiétudes sur une nouvelle maladie transmise par les tiques - Noovo Info](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0o5aFc1Vk1YWXlFWG15M3ZuZU9mTWN5UVRnd0I0cWZJNXNsWjV5WDJIbXJ5MEZjRl81YllITnZuT1hPbFpab2d3NVptZzZRSFhfdE5KaXprZW83TUFMTmEzcHpxRklmYml0NUVIRDdEVzFFQWdvYnZXRXU0aldieGliclZDV1BlSi1nTFlFVkJ3dS1SNHZRYl95V1dFNHEzVnZYczBaR2VfNU9KSG9yczVnV3JCODE5?oc=5)
+
+2026-07-13 <span class="news-indication-tag">MS</span>
+
+來源：[Noovo Info](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0o5aFc1Vk1YWXlFWG15M3ZuZU9mTWN5UVRnd0I0cWZJNXNsWjV5WDJIbXJ5MEZjRl81YllITnZuT1hPbFpab2d3NVptZzZRSFhfdE5KaXprZW83TUFMTmEzcHpxRklmYml0NUVIRDdEVzFFQWdvYnZXRXU0aldieGliclZDV1BlSi1nTFlFVkJ3dS1SNHZRYl95V1dFNHEzVnZYczBaR2VfNU9KSG9yczVnV3JCODE5?oc=5)
 
 ---
 
@@ -128,7 +152,7 @@ permalink: /news/peginterferon-alfa-2a/
 
 ### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
-2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 

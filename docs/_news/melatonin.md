@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Eierstöcke nach der Menopause: Forscher entdecken überraschende neue Rolle - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTdweGx2V2FORENSZHBZUXN3S2xhWWZGMTZhNC1YNFc1bUJwdjB2Ry1qUHo5YjZDdDlobTFlMEZZV2s5S1ViRFFRUDZELXl6V0JQaG1OX29qdU0wQ3VseXFtendVRElDNThvUGtBV0tmTk0tTHV2amJ2Qm5xUGY1Z3FqUm5fdFUwd2hrQ2lQdGhPUlludkpUbTJLOFRVUUpXb1Y1cHFEVWstbllUU0dQWDljNXB6eDQyWmJQT05CMWhrNC0xNDVwOEFOME5nMjBiOVFGNXpR?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/melatonin/
 
 ---
 
-### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+### [Enfermedades físicas y trauma infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/melatonin/
 2026-07-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ09PT1pmU1JKRnBFUEVtOFpzYnhJRTFBamJDU1Jua2JxY3hRS2hoY1VTY0kyZ0owYjdiY2E2S0ZLLTNIaG5yYVZLM05QZi05cjZhR2FpZzEzakpXQTl5NG5kNHhWcWprQVlERE1MYjRFRVFMd2pnUDJSTFUxRnhoNnRVNkYxZGtwclRyX2t0M0lLNXE3VXM0S2x3cHN6dw?oc=5)
-
----
-
-### [How just five days of overeating can make you crave more food - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
-
-2026-07-13 <span class="news-indication-tag">obesity</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRlhNSmlrNXNrLTloZWViOUlNMmlIUDBaUXFITHB2YVpGY3Z2UDJRTjcwOWJpQWlUcnE0cHMtQVdiTW4wekJhNWtOUzNPTWdEQ0lSNURCNVZSRkxqbE9uNU5lMUphQ1NSSWd5c2cyNXMxYjNOM1BDSnhiWDItSHl4Sk1lTGpxRmJuTVlBQmZGQlo3UHZGeWI3Z2FjZ05HemtMUW5zbExBYk0?oc=5)
 
 ---
 

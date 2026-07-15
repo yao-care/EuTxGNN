@@ -14,7 +14,7 @@ permalink: /news/dulaglutide/
 ---
 
 <p class="key-answer" data-question="Dulaglutide 有什麼相關新聞？">
-<strong>Dulaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dulaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/dulaglutide/
 <p><a href="{{ '/drugs/dulaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
+
+---
+
+### [Enfermedades físicas y trauma infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+
+---
+
+### [Diabetes-Therapie: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
 
 ---
 
@@ -78,19 +94,11 @@ permalink: /news/dulaglutide/
 
 ---
 
-### [CGM, Wearables und Bewegung: Risiko senken – Chancen und Grenzen 2026 - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9zeGRONldUOFI3cTJURVgwdTZyMTBGVC01SDlJcEt2UFY1YW1ON1hueEQ0NU4zMWU5YmpKR1h3Z2RwalQtSDN0UnB2cWdDYUNpeVBOZ2JVZHl6OUdsSnZfaFdCVTR2aEh2ZlFIOHloZjdBUjduWWdVNXBvWjh5RmJQZzlGUFJmN2NSU2hSc3M1djEtNGpZQ1l2WU1Vdw?oc=5)
+### [Diabetes Jahre vorab anhand der Darmflora vorhersehbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNLU9zeGRONldUOFI3cTJURVgwdTZyMTBGVC01SDlJcEt2UFY1YW1ON1hueEQ0NU4zMWU5YmpKR1h3Z2RwalQtSDN0UnB2cWdDYUNpeVBOZ2JVZHl6OUdsSnZfaFdCVTR2aEh2ZlFIOHloZjdBUjduWWdVNXBvWjh5RmJQZzlGUFJmN2NSU2hSc3M1djEtNGpZQ1l2WU1Vdw?oc=5)
-
----
-
-### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
 
 ---
 
@@ -118,11 +126,11 @@ permalink: /news/dulaglutide/
 
 ---
 
-### [Diabetespatienten häufiger von Zahn- und Implantatverlust betroffen - ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
+### [CGM & 46.000 Mahlzeiten: Warum Kohlenhydratzählen beim Blutzucker nicht reicht - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
 
-2026-07-12 <span class="news-indication-tag">diabetes</span>
+2026-07-13 <span class="news-indication-tag">diabetes</span>
 
-來源：[ZWP online](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3B0ZkZHR1pNRUJ1OHBuTmU2Y1BVMHdnbWxtRWJZZHVpdTNOYXNUbXo3TTJLcVhoSjU3emRKMU1Xa3RpdXV0SXJBanpGVGpCaDRfd2RHSV9DN3JZWldFVS1yMDhhZ2xPT0RKa3M3bjNKSllxQ3g2bDV1MGtkeGFlRElaZW9BdkQ5ckloMW5UaGhYa3c5dGZONFlIay0zNzlfNlpKQmlFZ2lUMTM1N1dXNmlPT3BXX0dueThhcllRZjRicXBuaVVnNUFJQ1hkaTlqYzJ6LVFHQmI?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="Aripiprazole 有什麼相關新聞？">
-<strong>Aripiprazole</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aripiprazole</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,37 @@ permalink: /news/aripiprazole/
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（28 則）
 
-### [Alcool : comment faire le point sur sa consommation et minorer les dangers - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFp3RS1kN1BOWjVPdjRNS1hmVVVjR1lGN0xJTXFfWE9KOFJ6QWtOUERoNVc0QjFGeW5zdlg1dWI3RnhKLV9SQlhTM01CYkJDVUJ2NmVPTXN3VVFSdDdkb3RzWExDUUczSE91YVRVWG5SMkVuZEJjTlU3RzVkYzdSQkVuZDlrOEdMQjRIQ1NqRGhQSkpLYkNtR2pWNWZiV1dmb0lVVUYyQnVGeUw0dm1IMWdkb0dad2EtS3VKV3NzZFhRYmJPZlByWg?oc=5)
+### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
 
-2026-07-14 <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFp3RS1kN1BOWjVPdjRNS1hmVVVjR1lGN0xJTXFfWE9KOFJ6QWtOUERoNVc0QjFGeW5zdlg1dWI3RnhKLV9SQlhTM01CYkJDVUJ2NmVPTXN3VVFSdDdkb3RzWExDUUczSE91YVRVWG5SMkVuZEJjTlU3RzVkYzdSQkVuZDlrOEdMQjRIQ1NqRGhQSkpLYkNtR2pWNWZiV1dmb0lVVUYyQnVGeUw0dm1IMWdkb0dad2EtS3VKV3NzZFhRYmJPZlByWg?oc=5)
-
----
-
-### [Stefano Corti punto da una zecca in Africa: il ricovero in ospedale](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOG1qVlNfTnFlSUhDdGJRWlpRV1RtcXNfV0s3RWNHcnQ3TVFwaGhsR1ByS3dQZzcycFRxaHlDY29obFVWSml0T3k5MkRHNlJhRU83VlRGMFZIRWI2STRieThNSzVtR2h1c3ptSG5lVnhXYnY4RnhoTXY3ZHZOcUdYOG9WaUJOV2g3d1hlenFYY25vNGxBcy1rdlcyYUJadmw1TTN2YVdHeFk1bDhyb2p5aGNuYw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">AF</span>
-
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMiswFBVV95cUxPOG1qVlNfTnFlSUhDdGJRWlpRV1RtcXNfV0s3RWNHcnQ3TVFwaGhsR1ByS3dQZzcycFRxaHlDY29obFVWSml0T3k5MkRHNlJhRU83VlRGMFZIRWI2STRieThNSzVtR2h1c3ptSG5lVnhXYnY4RnhoTXY3ZHZOcUdYOG9WaUJOV2g3d1hlenFYY25vNGxBcy1rdlcyYUJadmw1TTN2YVdHeFk1bDhyb2p5aGNuYw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
 
 ---
 
-### [Casi di scabbia nell’Rsa, colpiti operatori e ospiti. Scatta la profilassi, 14 persone in isolamento - La Nazione](https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1RmbzNIaGtrV29yZUc1V1FvSXNpX1BYZVY1a3pfLXVfTEpEamNUY2RBMTdoU3VfTGxsSmhUdGxRUGFjSkVOYUpzMmVtNUVZa3Nua01kZTZTeV9yRjNRWDdaUlBlWkVuX3lYaS1weDlyTlcwN3ZuM2daanBlWHM2aHc3VlE?oc=5)
+### [Inviato de «Le Iene» morso da una zecca e curato a Gavardo - Giornale di Brescia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHZ5RHZiU2ozRDZhLVc3OUVUX3Nva0VhcDg0WDZXY1dHTERfVUlia3Vrd01Udm5pcnA1N3BVRDJndjFDWE5DN1hiY0FHVWRfOFg1OEdQN0ZsNURycnBuLS1SNHdnS1BIVWhLa2d4U3VUUGhIQlZ6VTRJSExwUTBRb3o1cTFrS1RMd25meTRIVU5ONzF5UV9YYlg0am9sZHd5ODR2Vzh2WE1DZw?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[La Nazione](https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1RmbzNIaGtrV29yZUc1V1FvSXNpX1BYZVY1a3pfLXVfTEpEamNUY2RBMTdoU3VfTGxsSmhUdGxRUGFjSkVOYUpzMmVtNUVZa3Nua01kZTZTeV9yRjNRWDdaUlBlWkVuX3lYaS1weDlyTlcwN3ZuM2daanBlWHM2aHc3VlE?oc=5)
+來源：[Giornale di Brescia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHZ5RHZiU2ozRDZhLVc3OUVUX3Nva0VhcDg0WDZXY1dHTERfVUlia3Vrd01Udm5pcnA1N3BVRDJndjFDWE5DN1hiY0FHVWRfOFg1OEdQN0ZsNURycnBuLS1SNHdnS1BIVWhLa2d4U3VUUGhIQlZ6VTRJSExwUTBRb3o1cTFrS1RMd25meTRIVU5ONzF5UV9YYlg0am9sZHd5ODR2Vzh2WE1DZw?oc=5)
 
 ---
 
-### ['Explosive diarrhoea' outbreak remains a mystery as officials struggle to find sources](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvcnlrc0pPVGJsOHdIc2V1dzU2OUVQLTN6bW9GblNnSk05UEpwd2trTHE0RjB6c0d0MWtYRU95WGNUaDlyaGNHUDhyTVhQdmdoQmRsZVExYzJ2eWw4?oc=5)
+### [Un estudio identifica una vía inmunitaria vinculada a la mayor vulnerabilidad de las mujeres al alzhéimer](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTThWWXo1d1lqOEQ1UnhnQzN2RkxtT0FsU1A3MVhldXJRLTdlTlkzdEVDb091MEcwckRveDRJcGxYd1ZwczAtSkJWTXhnMnd0RXdsTVpYM0c4bE1qLXMxZk9KZ0ZuUU9HdVZ2cHItTkp1bVdPWjdDRjVTUXNSZmdwOHd6Yl80N0RRREVYY010RHhsNjVlajZ1NFN1NHRESXlSaEFnYjFYdWRPcjRmc05DNDBSZlljVjN4SkpZOHpwWUpnVUd6cVNWaHYxQkRGYkU?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvcnlrc0pPVGJsOHdIc2V1dzU2OUVQLTN6bW9GblNnSk05UEpwd2trTHE0RjB6c0d0MWtYRU95WGNUaDlyaGNHUDhyTVhQdmdoQmRsZVExYzJ2eWw4?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTThWWXo1d1lqOEQ1UnhnQzN2RkxtT0FsU1A3MVhldXJRLTdlTlkzdEVDb091MEcwckRveDRJcGxYd1ZwczAtSkJWTXhnMnd0RXdsTVpYM0c4bE1qLXMxZk9KZ0ZuUU9HdVZ2cHItTkp1bVdPWjdDRjVTUXNSZmdwOHd6Yl80N0RRREVYY010RHhsNjVlajZ1NFN1NHRESXlSaEFnYjFYdWRPcjRmc05DNDBSZlljVjN4SkpZOHpwWUpnVUd6cVNWaHYxQkRGYkU?oc=5)
 
 ---
 
-### [Una vía inmunitaria podría contribuir a la mayor vulnerabilidad de las mujeres frente al alzhéimer - Salud a Diario](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2t5YnhibDUwZy1qT2VoN01VZGVUV2RZQXUzMmZPNTRFRmNydkNYS2JIaklIN25fYzA5UUoyR3VxZzQ5OTBQcFY1UEVZenUwMklXYVFBVDQzOHZCME5BeDBOY1RqcGJ3YzdiOWh3Y3MxZzN0NjR2OHhYcjdMUkRxYkVMYlJVNjJGT3hYbHJjdlQwV3E4Z3JiWU1FQVZFTFJuYUYyaDk4TTlFZVpzYk9fVHR6NVNqd0R0Umw2TDNRX2dHOWJCS2k0WmlYTHFHbk5xWVFaU3B3U24?oc=5)
+### [Girl, five, has had life changed forever after contracting rare disease - St Helens Star](https://news.google.com/rss/articles/CBMikAFBVV95cUxPazNFczJXYVdtbnR1M2tZVDNPVU5qVTZJY3JXbkJHWmNsYWVEaGQ5YjBfeTlFOGIyMXpMYm1sWXhwQXpnUFpjcldFTXYzb3ZKRG1BV1pPOHNzWVZUS3FKV2J4OWlVQ1l5RVF4TVBWYnB2OXhydWZjZkJ4ZW9fdVpHd2hSUWlZSk1ZMTJaakpCYUc?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2t5YnhibDUwZy1qT2VoN01VZGVUV2RZQXUzMmZPNTRFRmNydkNYS2JIaklIN25fYzA5UUoyR3VxZzQ5OTBQcFY1UEVZenUwMklXYVFBVDQzOHZCME5BeDBOY1RqcGJ3YzdiOWh3Y3MxZzN0NjR2OHhYcjdMUkRxYkVMYlJVNjJGT3hYbHJjdlQwV3E4Z3JiWU1FQVZFTFJuYUYyaDk4TTlFZVpzYk9fVHR6NVNqd0R0Umw2TDNRX2dHOWJCS2k0WmlYTHFHbk5xWVFaU3B3U24?oc=5)
+來源：[St Helens Star](https://news.google.com/rss/articles/CBMikAFBVV95cUxPazNFczJXYVdtbnR1M2tZVDNPVU5qVTZJY3JXbkJHWmNsYWVEaGQ5YjBfeTlFOGIyMXpMYm1sWXhwQXpnUFpjcldFTXYzb3ZKRG1BV1pPOHNzWVZUS3FKV2J4OWlVQ1l5RVF4TVBWYnB2OXhydWZjZkJ4ZW9fdVpHd2hSUWlZSk1ZMTJaakpCYUc?oc=5)
 
 ---
 
@@ -102,11 +94,19 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Niemals mit Kaffee einnehmen! Experte warnt vor diesem Fehler mit Nahrungsergänzungsmitteln](https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2tVQ0dpUl9YS3RfTWFzQ2pEaVR4Y1AxeTF2ajFIMG1EVkd1SWY4djNhMTVUZmlMTnlvcF9XTUdCa1dzSWpCMEtVbzAxNk1iVlI5U0l5TV94OVQ0bkRhbzdUNzN1WFlrOXB6amhCbXE5dHdza2lDcDg4Y0g4dlBVOXZwZDZfRTB4VXNPOWQzYXVHdXpkV2ROOHZwR1BvWVJKRTI4cGJvYjk1bkhQNzM5NVhDZWlHZ3RScjVRVkppb2JYWEFtS19YMGZoNWx4Tk0?oc=5)
+### [I spent 30 years being told my agony was ‘normal’ and it cost me my chance to have children - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXVpWGM5bHFWMmRNdDVZcTJHeFNsZEN5d3RPODUtTzJkZTlWY1hRNUpSTjFaSHl4d25Ub3VEeWUzV1V2VUF0QUlxcUk3Um5uSU1WVVVhR0o2YjlXLTRKNl9rc21OSGQtTU5PWGtqUnFhYmhYUGRrYllhdFFGckhHeG5uamF1TGNwUVE4VndTclVoMFNWbWVuZHdmdE4yLXd6c0dfS0xQUG4?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[wmn.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2tVQ0dpUl9YS3RfTWFzQ2pEaVR4Y1AxeTF2ajFIMG1EVkd1SWY4djNhMTVUZmlMTnlvcF9XTUdCa1dzSWpCMEtVbzAxNk1iVlI5U0l5TV94OVQ0bkRhbzdUNzN1WFlrOXB6amhCbXE5dHdza2lDcDg4Y0g4dlBVOXZwZDZfRTB4VXNPOWQzYXVHdXpkV2ROOHZwR1BvWVJKRTI4cGJvYjk1bkhQNzM5NVhDZWlHZ3RScjVRVkppb2JYWEFtS19YMGZoNWx4Tk0?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXVpWGM5bHFWMmRNdDVZcTJHeFNsZEN5d3RPODUtTzJkZTlWY1hRNUpSTjFaSHl4d25Ub3VEeWUzV1V2VUF0QUlxcUk3Um5uSU1WVVVhR0o2YjlXLTRKNl9rc21OSGQtTU5PWGtqUnFhYmhYUGRrYllhdFFGckhHeG5uamF1TGNwUVE4VndTclVoMFNWbWVuZHdmdE4yLXd6c0dfS0xQUG4?oc=5)
+
+---
+
+### [Diabetes-Therapie: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
 
 ---
 
@@ -142,22 +142,6 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Caldo estremo, cuore a rischio: il 70% delle morti per cause cardiovascolari - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXhqYjFLYkU1M0FfTjBTaUFpb0dKLUxWaWpMYVlZbU9RY1BWVU9TbTN1QjdPdTZJaXhYUFUycFEta0Q1REs5Mk44b1RhQmhibEtSclBYNGJVdFYxaURtLVFPTnFlU19QaXdlSjFoY0J2cnFSblJaejBOek5lclN2WjF4YnBfektVUE1KR19QQUlJd19RQXVVRjVhYjBuYlBZY09IbUl6WVNLQQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXhqYjFLYkU1M0FfTjBTaUFpb0dKLUxWaWpMYVlZbU9RY1BWVU9TbTN1QjdPdTZJaXhYUFUycFEta0Q1REs5Mk44b1RhQmhibEtSclBYNGJVdFYxaURtLVFPTnFlU19QaXdlSjFoY0J2cnFSblJaejBOek5lclN2WjF4YnBfektVUE1KR19QQUlJd19RQXVVRjVhYjBuYlBZY09IbUl6WVNLQQ?oc=5)
-
----
-
-### [Beloved dad known as 'The Wizard' only has weeks to live after cancer diagnosis - Great Yarmouth Mercury](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1NieHEzU1VQckRYR2xiOTFMTVo2QVRNblg1UlhuZnBDMGZYYTR4dmJyUzNVZVdac2pnRXFnSzdteGFKRTVwbE9QM2pnS2Ita0hrenBpZF8xcmw0UVBGd3g2TUU3WW9iTkJnUnQwMkZDMWk4amUtNjZESnFUWllJUFoycEFyTUxma0dqcF9nbG1VdDA1N2Rzd1BDQXRCTTVLRlBGTQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Great Yarmouth Mercury](https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1NieHEzU1VQckRYR2xiOTFMTVo2QVRNblg1UlhuZnBDMGZYYTR4dmJyUzNVZVdac2pnRXFnSzdteGFKRTVwbE9QM2pnS2Ita0hrenBpZF8xcmw0UVBGd3g2TUU3WW9iTkJnUnQwMkZDMWk4amUtNjZESnFUWllJUFoycEFyTUxma0dqcF9nbG1VdDA1N2Rzd1BDQXRCTTVLRlBGTQ?oc=5)
-
----
-
 ### [My bum and privates were ravaged by a flesh-eating bug after eating fried shrimp - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1JuWF9aa0dOcHBxdzVTZm9wV0QtY2RnbjFVcHBCYkRkN0tTcTBVUzJPUFoxMldzZkh2T1hVa2M3QTh3eVhGSHVmY29oRUhyd2EtNkwxLW5DRWM3TE40MWlrWmQwNmJIVmJ5dTRUT2Q4VzFaZVVfYWlVOXgtQVhyczUyQV9ZN2pfS3NNenNhLWdvUQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
@@ -166,11 +150,19 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Canicule : que boire par 37 °C pour rester hydraté et les boissons à éviter (alcool, café, soda)](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWZTbWlHRF9aWmR1V2ZGWVY2RlJRc2hVQVNyN1gwU2FNaVlpRWllQ2JuMExqampHT1VPc2hTYVJxMkFwYjM0Z191RzBjQzNDN193cXhWTlJZTG91TjFBX2w0cW5IX3FnaU5rSnRsMVdqTmFnS3NkWVIwS3h5MVVvTUtTbmZYSUhmZlJYZnNwT2xpNDJSNVE?oc=5)
+### [Neurologe verrät, mit nur 30 Minuten täglich kann man Anti-Aging-Vorteile verschaffen - Business Insider Deutschland](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXhGaU1yQ2hBRG1rMXFQTW9HdVNvS2s3b2owcWx1UE1XdzJEbmE0aWpFN1hoV01xZHJfV3YtRjBuTWhNbVpjRFprd0RaWEd3YzY0R2NXbElEQmZwZ3pUeW1yOGhCbkl4QUNTQl93alhRYWVPMDdZTnMwWWRnYTg3WU9GWVZXSkE2NnNhTVBiZFFUS2ptUXh3M2ZyRjZ2cmt1UnRPWEhqdTNpNUhMYTZFMUExaVpIeUlUTnowakNfM1MtWFktZEt5elE1TUtXb09SclByVm5TRmR0QQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[Selectra](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWZTbWlHRF9aWmR1V2ZGWVY2RlJRc2hVQVNyN1gwU2FNaVlpRWllQ2JuMExqampHT1VPc2hTYVJxMkFwYjM0Z191RzBjQzNDN193cXhWTlJZTG91TjFBX2w0cW5IX3FnaU5rSnRsMVdqTmFnS3NkWVIwS3h5MVVvTUtTbmZYSUhmZlJYZnNwT2xpNDJSNVE?oc=5)
+來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXhGaU1yQ2hBRG1rMXFQTW9HdVNvS2s3b2owcWx1UE1XdzJEbmE0aWpFN1hoV01xZHJfV3YtRjBuTWhNbVpjRFprd0RaWEd3YzY0R2NXbElEQmZwZ3pUeW1yOGhCbkl4QUNTQl93alhRYWVPMDdZTnMwWWRnYTg3WU9GWVZXSkE2NnNhTVBiZFFUS2ptUXh3M2ZyRjZ2cmt1UnRPWEhqdTNpNUhMYTZFMUExaVpIeUlUTnowakNfM1MtWFktZEt5elE1TUtXb09SclByVm5TRmR0QQ?oc=5)
+
+---
+
+### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[SWISSLATIN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
 
 ---
 
@@ -182,11 +174,11 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [‘I’m a GP — we should all know the signs of this condition affecting 1.5m people’ - Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVh5TjZjWjNvTnRCcHVTalIwbFhOclJ5U19ub2ZjaE0ybHZhTUJ4Y0dodEZpbkdJbmQtdVV1SExTWWtxRmowYzg1NkpTUVFSNzlWZGxVZ09JYkVldUtPUlhhSEJFVnBWQ18tcDQ5b0pTMWhaaTl2c1VxbTQwcl9MRHVTVUhvelg1UlRzMndVbVVBWG1rRGfSAZsBQVVfeXFMTkVBai1ROHVhZWI2dXpoYmQ2aW1nM1FLaG5Pc1U4SkhzdzFJNHZ2eFlNdTNhWlFSa25TbnhrTzdtdlQwbFYwWUpsYUlhQUhCMWtWTFIyMzhfREIwREhJOUEzaG1GWE4xYm9pR0JLc0k3UVBCZXhnQkV4SXNFN0RvQVZ3RzZrUWNFaWt3a1JTM0pCUFIzY0FrZUp2Znc?oc=5)
+### [Alcool : comment faire le point sur sa consommation et minorer les dangers - Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFp3RS1kN1BOWjVPdjRNS1hmVVVjR1lGN0xJTXFfWE9KOFJ6QWtOUERoNVc0QjFGeW5zdlg1dWI3RnhKLV9SQlhTM01CYkJDVUJ2NmVPTXN3VVFSdDdkb3RzWExDUUczSE91YVRVWG5SMkVuZEJjTlU3RzVkYzdSQkVuZDlrOEdMQjRIQ1NqRGhQSkpLYkNtR2pWNWZiV1dmb0lVVUYyQnVGeUw0dm1IMWdkb0dad2EtS3VKV3NzZFhRYmJPZlByWg?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[Daily Express](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVh5TjZjWjNvTnRCcHVTalIwbFhOclJ5U19ub2ZjaE0ybHZhTUJ4Y0dodEZpbkdJbmQtdVV1SExTWWtxRmowYzg1NkpTUVFSNzlWZGxVZ09JYkVldUtPUlhhSEJFVnBWQ18tcDQ5b0pTMWhaaTl2c1VxbTQwcl9MRHVTVUhvelg1UlRzMndVbVVBWG1rRGfSAZsBQVVfeXFMTkVBai1ROHVhZWI2dXpoYmQ2aW1nM1FLaG5Pc1U4SkhzdzFJNHZ2eFlNdTNhWlFSa25TbnhrTzdtdlQwbFYwWUpsYUlhQUhCMWtWTFIyMzhfREIwREhJOUEzaG1GWE4xYm9pR0JLc0k3UVBCZXhnQkV4SXNFN0RvQVZ3RzZrUWNFaWt3a1JTM0pCUFIzY0FrZUp2Znc?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFp3RS1kN1BOWjVPdjRNS1hmVVVjR1lGN0xJTXFfWE9KOFJ6QWtOUERoNVc0QjFGeW5zdlg1dWI3RnhKLV9SQlhTM01CYkJDVUJ2NmVPTXN3VVFSdDdkb3RzWExDUUczSE91YVRVWG5SMkVuZEJjTlU3RzVkYzdSQkVuZDlrOEdMQjRIQ1NqRGhQSkpLYkNtR2pWNWZiV1dmb0lVVUYyQnVGeUw0dm1IMWdkb0dad2EtS3VKV3NzZFhRYmJPZlByWg?oc=5)
 
 ---
 
@@ -198,27 +190,27 @@ permalink: /news/aripiprazole/
 
 ---
 
-### [Staff at DR Congo Ebola centre strike as virus continues spreading - Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dzWUVIRmdCdEl4cFRfSC1yVTJadm1QbjdPX2RYTzBuS2VLRTNEQmRMc2tlWDlCclRMRWM5U3M1cXY0VHVFakVzbGFlTGp5RS16dXdYUUdrczl6NWJZNWl4c2VfWXJvRDNxZHZYU1V2X3M5WTBRQnc0eXF2dWdsWHJsR19NcFZGcHBGSFN0QzRYdTdURkI0X0dOYmo4RU05WkRXeTczY9IBrAFBVV95cUxQcVNIZWZzWjhraFgwVTBfWVpRTk42NUttN0lPR2dQLUUzUF9LbXQtLUdqSnR6ZnRQYkFIenRMZ2NrVEctVEZRSV9Ebi1JX1U4d2hEb1ozS0lnOFduVTV6aUlTVVdQb0YtRHl4WEhSVTNoVTl0OVBtVThMZXRsaGl5Vk1vR0VydVRJY01oT2RZeVYtZWttZzhCeERsVG00UWQ2Q3lIcjdBTGlZTldW?oc=5)
+### [‘Like I’d been kicked in the stomach by the devil’: Sheffield man shares warning after pancreatitis diagnosis](https://news.google.com/rss/articles/CBMifkFVX3lxTE81U1VoN1JRUHZiMFlxbno5aU9OTUNEUnYyaTZBczQ3UDNKbUFNNlNPQmhsVXBRLUNtTnJEUkFNOTA0Mk91WWVWNlZFbjhhNmF4eEFGZGxKbzFuTnpUeUNzTFhnSG94eWhTN05tRjUzejNHTWw4SnVGRXZOMzBpdw?oc=5)
 
-2026-07-13 <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2dzWUVIRmdCdEl4cFRfSC1yVTJadm1QbjdPX2RYTzBuS2VLRTNEQmRMc2tlWDlCclRMRWM5U3M1cXY0VHVFakVzbGFlTGp5RS16dXdYUUdrczl6NWJZNWl4c2VfWXJvRDNxZHZYU1V2X3M5WTBRQnc0eXF2dWdsWHJsR19NcFZGcHBGSFN0QzRYdTdURkI0X0dOYmo4RU05WkRXeTczY9IBrAFBVV95cUxQcVNIZWZzWjhraFgwVTBfWVpRTk42NUttN0lPR2dQLUUzUF9LbXQtLUdqSnR6ZnRQYkFIenRMZ2NrVEctVEZRSV9Ebi1JX1U4d2hEb1ozS0lnOFduVTV6aUlTVVdQb0YtRHl4WEhSVTNoVTl0OVBtVThMZXRsaGl5Vk1vR0VydVRJY01oT2RZeVYtZWttZzhCeERsVG00UWQ2Q3lIcjdBTGlZTldW?oc=5)
-
----
-
-### [Scots mum whose son became critically ill with meningitis urges vaccine uptake - STV News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3lyNzFNVEYxNmZrT1Q2WnFNWnV0cnh0TGkyX1ZKajBSeGFjUGVRVTQ0UlN3eHFiOVFIem9qOHVPb0NyMGdzdGF1MzYtdVk2T1ZseEVHclFJRG94Znd4N1BYWFNFWC1ydDk5eENvQ2xCX3F5M0hnQ2dpX3k3YXNNZUYwdjhjdWZzR3YweGdpR2VjZ0tGaVpWemlrc0VxTm92ZmNaYjZlS1BzQk5CZ2tubWVfc21lV1E?oc=5)
-
-2026-07-13 <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3lyNzFNVEYxNmZrT1Q2WnFNWnV0cnh0TGkyX1ZKajBSeGFjUGVRVTQ0UlN3eHFiOVFIem9qOHVPb0NyMGdzdGF1MzYtdVk2T1ZseEVHclFJRG94Znd4N1BYWFNFWC1ydDk5eENvQ2xCX3F5M0hnQ2dpX3k3YXNNZUYwdjhjdWZzR3YweGdpR2VjZ0tGaVpWemlrc0VxTm92ZmNaYjZlS1BzQk5CZ2tubWVfc21lV1E?oc=5)
+來源：[thestar.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE81U1VoN1JRUHZiMFlxbno5aU9OTUNEUnYyaTZBczQ3UDNKbUFNNlNPQmhsVXBRLUNtTnJEUkFNOTA0Mk91WWVWNlZFbjhhNmF4eEFGZGxKbzFuTnpUeUNzTFhnSG94eWhTN05tRjUzejNHTWw4SnVGRXZOMzBpdw?oc=5)
 
 ---
 
-### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
+### [Quando fa caldo non servono più proteine: come cambia la dieta con l’afa - la Repubblica](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkxlbHAtR1BpTm9qS1FVa3ZQMWl1SU9kWnFfUmsxbWVkYS1GSmNfcW9ERnUyN283VW05QkR5cHZLV05LRWtTdmIwRlMtN2dMYWF2QnBzMzV3YTdyMG1TZVZjNDV4elUzdjhqdU1qVHhsNno0R2NqbGFKUlplVDhTUnBfNkxzVUF2X2psN9IBkgFBVV95cUxOdkE2R1l2cDNJMmIxaUxaYXlCZVRMcFZyMEZFZFVrTzlsRFpXaXhKT1lMSjIwUjVYMUk5dmNzSjFJa1ZLT2xLTklhYnB4NDhocjlMbEJaa2RVQ0pQVXJZNV9XdTFpdGhrNzdoMXVsV0NuSk5pa1lTOVN4X3RzUVQ5RzU0bGlNaEtSR1dUemkxc0JVdw?oc=5)
 
-2026-07-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxPeWprODg5Mmc5ckwtV044UmZTTkNvM0V3ZGc2dUM0ZnUyTTlHLU5XNTl0RWE3YXUtNE9DM3FCaDdPUWpPMEdiSVZKWXVuZFJ5V2Zxd1M1QkZ2WExCa1Y3bUNHdFNwbXdxZWdMZ21Gb2NRck1Xd1FzN0V6UjgzdkZkcGh1Q0J4MndNVTMxc2VqTDJmUy1YaVdkOGZaWkNOUQ?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkxlbHAtR1BpTm9qS1FVa3ZQMWl1SU9kWnFfUmsxbWVkYS1GSmNfcW9ERnUyN283VW05QkR5cHZLV05LRWtTdmIwRlMtN2dMYWF2QnBzMzV3YTdyMG1TZVZjNDV4elUzdjhqdU1qVHhsNno0R2NqbGFKUlplVDhTUnBfNkxzVUF2X2psN9IBkgFBVV95cUxOdkE2R1l2cDNJMmIxaUxaYXlCZVRMcFZyMEZFZFVrTzlsRFpXaXhKT1lMSjIwUjVYMUk5dmNzSjFJa1ZLT2xLTklhYnB4NDhocjlMbEJaa2RVQ0pQVXJZNV9XdTFpdGhrNzdoMXVsV0NuSk5pa1lTOVN4X3RzUVQ5RzU0bGlNaEtSR1dUemkxc0JVdw?oc=5)
+
+---
+
+### [Are you starting uni? What you need to know about the meningitis B vaccine in Scotland](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rMXRvUl9IZ0NzOG1Kc0Rrd3lfVDliMnYtRUFVTm1qT2h2NHlXSGxDWU9fQjFjSWhzZFp6dl9WY2diejFCZWg3bWs5bW9jUGdJYlpqRFlYSjdpdy1B?oc=5)
+
+2026-07-13 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rMXRvUl9IZ0NzOG1Kc0Rrd3lfVDliMnYtRUFVTm1qT2h2NHlXSGxDWU9fQjFjSWhzZFp6dl9WY2diejFCZWg3bWs5bW9jUGdJYlpqRFlYSjdpdy1B?oc=5)
 
 ---
 
@@ -232,7 +224,7 @@ permalink: /news/aripiprazole/
 
 ### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
-2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">AF</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
@@ -243,6 +235,14 @@ permalink: /news/aripiprazole/
 2026-07-13 <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjBxTEhCa2RLQ2FIZnRBSnE4MUlkQk9ieWI4QlJOd2xWVHB2OWh1UnNPWXM1ZGxBSkRqdTJ6YlNFYjQ1ZW9kYjBaZ1FBSzNQeVdPeUZpaDl4VjJIUktrXzFqR2JWX1lqTi12WEFhelpqMVI4WGF1YkIwaDQtbXdYbXVzRmhGWnR2WUhid3gxcnVkZzd0cWFDQ3E0bTU0THhZXy1IX1N5MnZ6Z0NvZ1NLSGlndTAtYUN3eTlNTF9PQXhTaGZlNXpPQXU0cw?oc=5)
+
+---
+
+### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
+
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
 ---
 
@@ -267,6 +267,14 @@ permalink: /news/aripiprazole/
 2026-07-13 <span class="news-indication-tag">AF</span>
 
 來源：[Bored Panda](https://news.google.com/rss/articles/CBMie0FVX3lxTFBPNzc4clBVWTBQSEtiVXdTYWlWaE1zNWxpQXhYVGZ3RjB3X29yMkE3S0tTMFY4S1Q2Z1VTS24zS0dqbkc4WGtKVXRpOEJDM2xhT3gzSnZFWk9EbUYzSTJVa2hXcG9PczVXQ2FoRTliX0FZczQ0bWxvQzJ3VQ?oc=5)
+
+---
+
+### [Siete beneficios saludables del café probados por la ciencia - Directo al Paladar](https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2pQeTc3a1lqLWpUdlEzZTBmek1jeE1jcGx3V0xvUWp6SGlqMjBUTkxCRlFFeHZDNU1xbTRpcm5oZVhSWHY1MmVOSWNsYTlUa09wSllGanB3ZHpuTDZTSkFQWUdLWE82MTg3UkYySmpBZ1JoOGxGcVNTa01VWlZ5OU8wMHhqY2YtWURnR3EtQXcyd9IBlwFBVV95cUxPLUtXQ2hVWVVnNWJoM01Pa2w4Mmpva3pEX2MwQ1pfQ2IyYUFDQkpYVFZOUlNibW5qLVpDTVhCaWRDSWw3QzIyWG15M0FOUnp3YVFudEMtSmVfZk5ZaWZQdVcxbVNGbHNrcG9XR0lMRWlBdXp5NFI0c2p3VmdjRWs2SjRDTEdrbkNGbmhnQmUwSTNFc3UtbURj?oc=5)
+
+2026-07-13 <span class="news-indication-tag">AF</span>
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2pQeTc3a1lqLWpUdlEzZTBmek1jeE1jcGx3V0xvUWp6SGlqMjBUTkxCRlFFeHZDNU1xbTRpcm5oZVhSWHY1MmVOSWNsYTlUa09wSllGanB3ZHpuTDZTSkFQWUdLWE82MTg3UkYySmpBZ1JoOGxGcVNTa01VWlZ5OU8wMHhqY2YtWURnR3EtQXcyd9IBlwFBVV95cUxPLUtXQ2hVWVVnNWJoM01Pa2w4Mmpva3pEX2MwQ1pfQ2IyYUFDQkpYVFZOUlNibW5qLVpDTVhCaWRDSWw3QzIyWG15M0FOUnp3YVFudEMtSmVfZk5ZaWZQdVcxbVNGbHNrcG9XR0lMRWlBdXp5NFI0c2p3VmdjRWs2SjRDTEdrbkNGbmhnQmUwSTNFc3UtbURj?oc=5)
 
 ---
 
