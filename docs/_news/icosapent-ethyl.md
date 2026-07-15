@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiopatía</span></li>
+<li>heart disease（98.0%）</li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,15 +52,9 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Los pacientes que sufren un infarto tienen más microplásticos en la sangre del corazón](https://news.google.com/rss/articles/CBMipAFBVV95cUxOek9zRHpYU2pYTTZlYnkzb1RkMlVnNjVfTGR3V0w5Zm9JazAzU0IwcUhfLUFqLXNFemRLdjFBVkRKaXpFWGZYcWpaLTA3b193ZVhMT3pSX0tUWXF1VEdvTFp6UW9Yc1E2cmZGS2FxeFU0MzhzWTRlSVY5THoxd2lVanNnWTFMZ2JJWUxybnYwc1hpS1IwNl9CYUlVai1VUG5VZG9hWdIBqgFBVV95cUxOUk0wOXhWYXZvZ1FiSUFlalFhcWpwS3pkOVdrUkl1cG9ZX2pfaklsOEJRTXk2VHR1Y2RHOFJlRnZDa3VoQVpNSWJZclJrTlpGbkNUUHVseFFCTU15TTJxNXdFcTVzLXBQQkhmQW51UUJXVE0ycVU4d1NQd3JwN0xzRmVvT0lLeU91NVlnZkE5dldWZTNlbjFSS0VJS3oxZ09iRHpWVzFQXzVfQQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMipAFBVV95cUxOek9zRHpYU2pYTTZlYnkzb1RkMlVnNjVfTGR3V0w5Zm9JazAzU0IwcUhfLUFqLXNFemRLdjFBVkRKaXpFWGZYcWpaLTA3b193ZVhMT3pSX0tUWXF1VEdvTFp6UW9Yc1E2cmZGS2FxeFU0MzhzWTRlSVY5THoxd2lVanNnWTFMZ2JJWUxybnYwc1hpS1IwNl9CYUlVai1VUG5VZG9hWdIBqgFBVV95cUxOUk0wOXhWYXZvZ1FiSUFlalFhcWpwS3pkOVdrUkl1cG9ZX2pfaklsOEJRTXk2VHR1Y2RHOFJlRnZDa3VoQVpNSWJZclJrTlpGbkNUUHVseFFCTU15TTJxNXdFcTVzLXBQQkhmQW51UUJXVE0ycVU4d1NQd3JwN0xzRmVvT0lLeU91NVlnZkE5dldWZTNlbjFSS0VJS3oxZ09iRHpWVzFQXzVfQQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

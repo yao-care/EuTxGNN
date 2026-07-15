@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 cardiopatía</span></li>
+<li>heart disease（97.8%）</li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,23 +52,9 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Los pacientes que sufren un infarto tienen más microplásticos en la sangre del corazón](https://news.google.com/rss/articles/CBMipAFBVV95cUxOek9zRHpYU2pYTTZlYnkzb1RkMlVnNjVfTGR3V0w5Zm9JazAzU0IwcUhfLUFqLXNFemRLdjFBVkRKaXpFWGZYcWpaLTA3b193ZVhMT3pSX0tUWXF1VEdvTFp6UW9Yc1E2cmZGS2FxeFU0MzhzWTRlSVY5THoxd2lVanNnWTFMZ2JJWUxybnYwc1hpS1IwNl9CYUlVai1VUG5VZG9hWdIBqgFBVV95cUxOUk0wOXhWYXZvZ1FiSUFlalFhcWpwS3pkOVdrUkl1cG9ZX2pfaklsOEJRTXk2VHR1Y2RHOFJlRnZDa3VoQVpNSWJZclJrTlpGbkNUUHVseFFCTU15TTJxNXdFcTVzLXBQQkhmQW51UUJXVE0ycVU4d1NQd3JwN0xzRmVvT0lLeU91NVlnZkE5dldWZTNlbjFSS0VJS3oxZ09iRHpWVzFQXzVfQQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMipAFBVV95cUxOek9zRHpYU2pYTTZlYnkzb1RkMlVnNjVfTGR3V0w5Zm9JazAzU0IwcUhfLUFqLXNFemRLdjFBVkRKaXpFWGZYcWpaLTA3b193ZVhMT3pSX0tUWXF1VEdvTFp6UW9Yc1E2cmZGS2FxeFU0MzhzWTRlSVY5THoxd2lVanNnWTFMZ2JJWUxybnYwc1hpS1IwNl9CYUlVai1VUG5VZG9hWdIBqgFBVV95cUxOUk0wOXhWYXZvZ1FiSUFlalFhcWpwS3pkOVdrUkl1cG9ZX2pfaklsOEJRTXk2VHR1Y2RHOFJlRnZDa3VoQVpNSWJZclJrTlpGbkNUUHVseFFCTU15TTJxNXdFcTVzLXBQQkhmQW51UUJXVE0ycVU4d1NQd3JwN0xzRmVvT0lLeU91NVlnZkE5dldWZTNlbjFSS0VJS3oxZ09iRHpWVzFQXzVfQQ?oc=5)
-
----
-
-### [Aurelio Rojas, cardiólogo, advierte sobre el azúcar: “Dárselo a un niño todos los días es uno de los mayores errores que hemos normalizado”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">hipertensión</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

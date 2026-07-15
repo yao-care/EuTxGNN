@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（12 則）
 
-### [Ampliación: Casos de ébola en RD del Congo superan los 2.000 - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWdNV0t2N3d5a09EaTdFdDh1NExVM3BrQUMxNkRHSXd4NkgzWFRlUHNnc3VWbDBZS0Fhb0UyRFlXaVRNZzVKWmJwckg1ZUk1QnlIQ1U4MzFIdE5KRHpCZ1RwbG9WNVVDMVdCOWVhSnZUX1ppZTFkTHYwOTlQWi1jdXNVOA?oc=5)
+### [La República Democrática del Congo supera los 2.000 casos de ébola - EL PAÍS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXJnWm9xMTJYOEFoQldIY3FWWERzMkRVQXQtcjBlT25aUGlvRGs4MTAtX0xYTG9RQzhtcWhJejRsN2pHOVhHUG5LTTRBdWtJRUE4WEJzRkdmN3g2Q0d5RUwzNlhWdmxmeEhub0JRYVllZHJpeWdxVDdyZHo2U3hLYXBySnB2Z0dqUG9XQktTUGtVTDJ0bTQ5V3I1bnRrVlN4R1lfRkVJZUh0eWZnZ2fSAcIBQVVfeXFMUC1adEZiVzRubU5Wb0xXU2VkNm95VkdJWDdOazdBVVlyUUdfR0lpVkdTNnFPNHpyd2tkdHNjQ0xmb1d2WC1wSlpfaXk0U25tVGRaclFNX1VlMVQxc2xxY05TWTBZUVJSWGIzYVl1UnF6bkpNcEVnT1ktZ3FrMVlzdUlEYVpUSzZDX3N2MXYzeEpweWJDQWtkYjF0cENMeGNzUHNJUnV2RkROeEdEUThwMFVfbEo3WVpUTW15OUhqOFFyZkE?oc=5)
 
-2026-07-14 <span class="news-indication-tag">MS</span>
+2026-07-15 <span class="news-indication-tag">MS</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWdNV0t2N3d5a09EaTdFdDh1NExVM3BrQUMxNkRHSXd4NkgzWFRlUHNnc3VWbDBZS0Fhb0UyRFlXaVRNZzVKWmJwckg1ZUk1QnlIQ1U4MzFIdE5KRHpCZ1RwbG9WNVVDMVdCOWVhSnZUX1ppZTFkTHYwOTlQWi1jdXNVOA?oc=5)
+來源：[EL PAÍS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXJnWm9xMTJYOEFoQldIY3FWWERzMkRVQXQtcjBlT25aUGlvRGs4MTAtX0xYTG9RQzhtcWhJejRsN2pHOVhHUG5LTTRBdWtJRUE4WEJzRkdmN3g2Q0d5RUwzNlhWdmxmeEhub0JRYVllZHJpeWdxVDdyZHo2U3hLYXBySnB2Z0dqUG9XQktTUGtVTDJ0bTQ5V3I1bnRrVlN4R1lfRkVJZUh0eWZnZ2fSAcIBQVVfeXFMUC1adEZiVzRubU5Wb0xXU2VkNm95VkdJWDdOazdBVVlyUUdfR0lpVkdTNnFPNHpyd2tkdHNjQ0xmb1d2WC1wSlpfaXk0U25tVGRaclFNX1VlMVQxc2xxY05TWTBZUVJSWGIzYVl1UnF6bkpNcEVnT1ktZ3FrMVlzdUlEYVpUSzZDX3N2MXYzeEpweWJDQWtkYjF0cENMeGNzUHNJUnV2RkROeEdEUThwMFVfbEo3WVpUTW15OUhqOFFyZkE?oc=5)
 
 ---
 
@@ -70,19 +70,27 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Multiple Sklerose: Heilung in fünf bis zehn Jahren realistisch](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
+
+---
+
+### [Shock rise in imported diseases as British tourists warned over mosquitoes this summer - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHBCVG9GdEloVElTZFNURTExSHBXZXg5eHdUSmhCYm5OeW93cEdQQzc4bVQxczhfSzhSQTJueURzWndyc24ySTB0bjJlY2ZrcTJWa3hvVGE0NTlIY180ci1pSU9oRllSZGQ0M3UwUmlzMi1NcVZWSDlFZHM2VVRJM2gyY1BkNW1VOG0yUkRvWUZXMVJkT09uUHp5amVST1JkQk9KbDBEZlU?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHBCVG9GdEloVElTZFNURTExSHBXZXg5eHdUSmhCYm5OeW93cEdQQzc4bVQxczhfSzhSQTJueURzWndyc24ySTB0bjJlY2ZrcTJWa3hvVGE0NTlIY180ci1pSU9oRllSZGQ0M3UwUmlzMi1NcVZWSDlFZHM2VVRJM2gyY1BkNW1VOG0yUkRvWUZXMVJkT09uUHp5amVST1JkQk9KbDBEZlU?oc=5)
+
+---
+
 ### [Mehr als 70 Jahre in der Eisernen Lunge – wohl letzte Patientin gestorben](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFM1WEdiODI4amo1Ukd5cTE2T1Z3Q2gtQ3k5SVJLaThGbVBhRlM0X1VoaERBdlB4aHhsd1ItR3M1N3FUZnB4VzFaR2Z0d2pGZXA0ZUZzREZHSS1qalNXVTJHZmlVRV9nUENoNFN6eWxFWlkwZzlDQUkycEEwcThlZDkyLTg4S0llby05LWs3N1lyVzQzUEpvNmlybFRlRFI3a1NuT09ueW9Td1d1ZDFBaEczMXJsTFp1UWhWUkJaeUd5c0duczlrUU1vUFpnZkZPOTFaOHVKcw?oc=5)
 
 2026-07-14 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFM1WEdiODI4amo1Ukd5cTE2T1Z3Q2gtQ3k5SVJLaThGbVBhRlM0X1VoaERBdlB4aHhsd1ItR3M1N3FUZnB4VzFaR2Z0d2pGZXA0ZUZzREZHSS1qalNXVTJHZmlVRV9nUENoNFN6eWxFWlkwZzlDQUkycEEwcThlZDkyLTg4S0llby05LWs3N1lyVzQzUEpvNmlybFRlRFI3a1NuT09ueW9Td1d1ZDFBaEczMXJsTFp1UWhWUkJaeUd5c0duczlrUU1vUFpnZkZPOTFaOHVKcw?oc=5)
-
----
-
-### [OMS llama urgente a la acción ante la previsión de que el número de nuevos casos de cáncer se duplicará de aquí a 2050](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[SWISSLATIN](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXBNWE1BSVlGeTk2aWk5VGxrVlpvdEZHN1lrdG9hYmFEenJnSU1TMDFsZWlaajBhNnloWFpVemdQYmJIRGFvSkpfb3NkTWVqMWptSlhqT3VIRF9CUElFQ2xrSmRkTEppeE4xSXE0SC0yWHlMMlhzOG5vS2gwb3dGcy1BSl9XeTNJNk16cW1UZ3FuUHc2ZUM0QzRnQkZScXhENklVb3pSLTFtODZMS0dCb2NoYjdaemhmTXAzUmI2ajNyTDl0czM5WHBMT3Y1M3NBM3JfeGl3RGs?oc=5)
 
 ---
 
@@ -110,14 +118,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Experts Warn Of Commonly Dismissed Dementia Symptoms That Can Surface 15 Years Before Doctors Catch It - Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
-
-2026-07-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
-
----
-
 ### [Nach der Abnehmspritze: Harter Klumpen im Magen – Ärzte verordnen der Frau Cola - Berliner Zeitung](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXA3SElFLTJ0Tlp6QlhoU3FBczNuSUh1aW9yRDQ4M1BGMnB4Z29RR1ctT0d5RkdRd0RkMWZCTmdMSVVrdkxINHdzOHdCQ2VtWEVocE93SjhBUGg4Rlc3cFhmUzgzRVRWMnkyNmJZcjZEcnFkbEpaazgzQXJPZWVYZWd0OFUtZlNXZ2FkeWhwRlE5eWhtNzNjbloyaUxtR3dfV2JOQllFd0l1YjZfNlp3LWRmRnBGRzJsTXBFV3dhZG9GeThY?oc=5)
 
 2026-07-13 <span class="news-indication-tag">MS</span>
@@ -126,19 +126,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Multiple Sklerose: Heilung in 5 bis 10 Jahren realistisch – was sich ändert - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHJrSkx2NWVhb2JVNG50VXZwak9QLUU2OEdNS2EwOWRmZmpiQXl2M2hZUG8yVUlaaUtZUzBMczVyeHBEc0FQdWpvZWtmUVBKZ2FGYWRmX3hiampSM2dLQUVBM2YzNEhnQjdDd0xucVVZcTlTaXlQeWtOSHBLenU5eHZ5VXFob3pRdUNSOWpNYy1OWnhKY3l1Xy05dW04Tzg1b21VMl9QcV8?oc=5)
+### [Ebola e le altre epidemie: «Così l'Africa sta cambiando la sanità globale» - Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
-2026-07-13 <span class="news-indication-tag">MS</span>
+2026-07-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHJrSkx2NWVhb2JVNG50VXZwak9QLUU2OEdNS2EwOWRmZmpiQXl2M2hZUG8yVUlaaUtZUzBMczVyeHBEc0FQdWpvZWtmUVBKZ2FGYWRmX3hiampSM2dLQUVBM2YzNEhnQjdDd0xucVVZcTlTaXlQeWtOSHBLenU5eHZ5VXFob3pRdUNSOWpNYy1OWnhKY3l1Xy05dW04Tzg1b21VMl9QcV8?oc=5)
-
----
-
-### [Inquiétudes sur une nouvelle maladie transmise par les tiques - Noovo Info](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0o5aFc1Vk1YWXlFWG15M3ZuZU9mTWN5UVRnd0I0cWZJNXNsWjV5WDJIbXJ5MEZjRl81YllITnZuT1hPbFpab2d3NVptZzZRSFhfdE5KaXprZW83TUFMTmEzcHpxRklmYml0NUVIRDdEVzFFQWdvYnZXRXU0aldieGliclZDV1BlSi1nTFlFVkJ3dS1SNHZRYl95V1dFNHEzVnZYczBaR2VfNU9KSG9yczVnV3JCODE5?oc=5)
-
-2026-07-13 <span class="news-indication-tag">MS</span>
-
-來源：[Noovo Info](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM0o5aFc1Vk1YWXlFWG15M3ZuZU9mTWN5UVRnd0I0cWZJNXNsWjV5WDJIbXJ5MEZjRl81YllITnZuT1hPbFpab2d3NVptZzZRSFhfdE5KaXprZW83TUFMTmEzcHpxRklmYml0NUVIRDdEVzFFQWdvYnZXRXU0aldieGliclZDV1BlSi1nTFlFVkJ3dS1SNHZRYl95V1dFNHEzVnZYczBaR2VfNU9KSG9yczVnV3JCODE5?oc=5)
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeTFYaDllUUdESjNyRFRoUGlMT08yOFBuNkR4N3FPczJTU2hycW9MWUNDTXVOMEkwTDZfbVgxYUw5a0pIZGNQYk5SRXZYaEl4cUpkZzhyY25RSl9xOTB1MFJvdWM5R29YMmNwaUlaU0E2OWRscFM1bzY5XzJPNDZwTDd2OEhJSkJwMTVQcExpWWNEM0FIRG03eWRwaktLYnN6VnZUS1VDUnh3eTFRVldSN3dtemRrUWhyd3JoekswOTE5VHdQSXJzNUsybkFuYVFRR2txN0hOalJRZ0xIR0dGbDFDc2g2SVdOUlg0Qk5mUUJndFpQR0xHUU52Qnc3cFNOXzVVNnJpcF_SAY4CQVVfeXFMUERZLUZTZDl6SjFqYThFaTJHRFZLc3pPazNSN25HZktqZ2RObHdBOUIwVVRhR1hWSUZHSzRTdGpFSkhSbFl3ZGtpSDJmY1k1cTBhT2RVeWVpVEpycU1vUGFWNHZtNjN4TER5bmloVjNsNE5xd0VMdnVfLVh6RXRfUjhjUERXbUN5b1V3TDBlbXBzX3M3Vm9jYVB5MjQyRkhFM3huTVFsM2xqTG5RVFJzai1kWEtTRFZBS2hhSFJSTXhrM0tSMmhWRF9XRW5ycmNDcmc2ZDFCRkllWDl1NXV3NW84UUZ4TVBYejZjekxFcC1yYVgxS2NZS3BRcW5aWGlxbW8yWUVkTHdZWFg5c29n?oc=5)
 
 ---
 
@@ -152,17 +144,9 @@ permalink: /news/pibrentasvir/
 
 ### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
-2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
-
----
-
-### [Hepatitis C rates falling in North East, study suggests](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wekFXREthT0NRUFNXWEttMDNkbm5HSzhFLWpyR1FMcVhXaURLMHRENmdSU2VodHhOcUdvMmhrZ0lILUl4cEdOeC1oNTVWaGE0emFzV1hTcXpjdGhz?oc=5)
-
-2026-07-13 <span class="news-indication-tag">hepatitis</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wekFXREthT0NRUFNXWEttMDNkbm5HSzhFLWpyR1FMcVhXaURLMHRENmdSU2VodHhOcUdvMmhrZ0lILUl4cEdOeC1oNTVWaGE0emFzV1hTcXpjdGhz?oc=5)
 
 ---
 

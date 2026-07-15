@@ -54,11 +54,27 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ## 相關新聞（29 則）
 
+### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+
+---
+
 ### [„Eine gute Thymusgesundheit trägt dazu bei, dass das Immunsystem Tumore besser angreift“](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
 
-2026-07-14 <span class="news-indication-tag">tumor</span>
+2026-07-15 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeEQzRHhpS1NVSmpEVnhwQy03bUNKWkFoN0FYT1lleURuRHI5eWUtazNZY3dEdkdmVzhXX3MtSng1NEN5WEZqWTJzN1FhV3Z3YUdzd0tNSWhCbUdNTndRRUN2eUZhWTNqNVhFMm82dDctSjVjYjlycktQcENhakFNdmEwS3pPbV9xWUdlWVY3S2hLczYtN1A5MGQ5MWhpSXhScDMtZHVUNEc1ZlZCVjY0cjU2MWx4MlZ0aHJidXIyUWVtSnBxaS1pbmlYZ0Nyb2RDTmlMZkRwVThPOGxaUHAwSWd6MnhJTmpDXzh0NFR3?oc=5)
+
+---
+
+### [Kaum zu glauben: Ein ganz normales Lebensmittel soll das Darmkrebs-Risiko um 50 Prozent drücken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT18wVWdHb1NtVHc3ZkU4SG5HQ2Mzam9XZWl5Q1dmSnphSEJxSE5vNUY0a3Y3R1R4Mmp2QkdvaTVyTVpVLUJnNHN3Y3VEb1RWZzBycTlKYTUxcDdXTU1GRkY2dVJpOHN4X1ZCQ2VKQjlvTzJ4YVFIQkZfTTdEZEIyZXNSc2VZVmRvNlhFekhyUU43LXBpSTJnb09JckVPZ0JvdDhmSktqd1FsUQ?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT18wVWdHb1NtVHc3ZkU4SG5HQ2Mzam9XZWl5Q1dmSnphSEJxSE5vNUY0a3Y3R1R4Mmp2QkdvaTVyTVpVLUJnNHN3Y3VEb1RWZzBycTlKYTUxcDdXTU1GRkY2dVJpOHN4X1ZCQ2VKQjlvTzJ4YVFIQkZfTTdEZEIyZXNSc2VZVmRvNlhFekhyUU43LXBpSTJnb09JckVPZ0JvdDhmSktqd1FsUQ?oc=5)
 
 ---
 
@@ -78,6 +94,14 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
+### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+
+---
+
 ### [Des souris oubliées pendant le Covid ? L’incroyable coup de chance qui a résolu un mystère sur le cancer du sein](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEl0NHpOZVdld05sSEpZdXhmZnBLTFRpSG1GcUVVdUNwNmdBX0hMM2s5Q0JiZ01WdTFjakN5RzlCTDYxcDZRbTUxUWV0WWJCRzdvRmU1TGI5Qk1kS2kwQnI2Y1pyRHU0VkNSU3EweHpObWVhWW9iOU5CaWNIRnJpc0VoN2lWWVRwc1ZVSDQ2WGFxYTNCM0JWLXNfeWtfT3Jpd3A4azFUQnlWZTB0OWFvM1NBMU54Yzc0THYwamlEMzdVa3lZSm53TmswSDJTZw?oc=5)
 
 2026-07-14 <span class="news-indication-tag">cancer</span>
@@ -86,27 +110,27 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
-### [Enfermedades físicas y trauma infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+### [One in four adults has metabolic syndrome – and it may be ageing their brains - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
 
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
+2026-07-14 <span class="news-indication-tag">diabetes</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
 
 ---
 
 ### [Diabetes-Therapie: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
 
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
 
 ---
 
-### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
+### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
+來源：[leinetal24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
 
 ---
 
@@ -120,7 +144,7 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ### [«Un neo nell'occhio si è rivelato un cancro terminale. Non c'era nessun sintomo. Vorrei solo più tempo con la mia famiglia»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlZyVTZfbFZHc2drQUJGdEREcEowZW9raHlyVWFhQVZLX1EyQVhVQTE4cDZ4Ty1VZkJRMEdJZHc2NkNJTjVCcFV3U3VhSXY4MURidlRKWnZQNjNEbW9VTXVfZXQtemNBMDg3X2NGclJYVVR1X2xYSnZIUVJCeVlLNXZ2cWpCQlVMRmhvY3U2dEdkdVlOU09mU09EYnFPVDFSUDlzNnJjZnpYOGPSAZYBQVVfeXFMT1VIaGpEdFd3SlQtQjBLdWFhbXNpZzZfRE40YlNJdEczd0JKZGpWbGVHVWJyaGlYbmlwSUZ3ZDFjWUswZVpMLVdBRDk3VGlwalM3aWllc25fV3NXUU5TaEI2d2prcmVBME9YYmF2eTFiTTVBa29lZHhuWTdvdE9rMG55Yi1zZXdiVHFIREJGMmcyNlNJbkV3?oc=5)
 
-2026-07-14 <span class="news-indication-tag">cancro</span>
+2026-07-14 <span class="news-indication-tag">tumor</span>
 
 來源：[Leggo.it](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlZyVTZfbFZHc2drQUJGdEREcEowZW9raHlyVWFhQVZLX1EyQVhVQTE4cDZ4Ty1VZkJRMEdJZHc2NkNJTjVCcFV3U3VhSXY4MURidlRKWnZQNjNEbW9VTXVfZXQtemNBMDg3X2NGclJYVVR1X2xYSnZIUVJCeVlLNXZ2cWpCQlVMRmhvY3U2dEdkdVlOU09mU09EYnFPVDFSUDlzNnJjZnpYOGPSAZYBQVVfeXFMT1VIaGpEdFd3SlQtQjBLdWFhbXNpZzZfRE40YlNJdEczd0JKZGpWbGVHVWJyaGlYbmlwSUZ3ZDFjWUswZVpMLVdBRDk3VGlwalM3aWllc25fV3NXUU5TaEI2d2prcmVBME9YYmF2eTFiTTVBa29lZHhuWTdvdE9rMG55Yi1zZXdiVHFIREJGMmcyNlNJbkV3?oc=5)
 
@@ -131,6 +155,14 @@ permalink: /news/trastuzumab-deruxtecan/
 2026-07-14 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxORlFqZ3pfWWNxRmxxYkNWdzBqRkpuX2JKUnQ3M0EyY2ZYUzJ5VHk5Ym1OUkZRM2Q5M2puYU9ybElDMDJsNlBVRE1jd2h0cWpsRWVJVEVNbzRTNnZrNXhhTVNzUnBOd0Q1ZlpzV0s1NU9qcmhxQW1VQXZRYTFjd29LNzEzN1dtdlU?oc=5)
+
+---
+
+### [Metz. Infirmière, elle combat deux cancers et écrit un livre pour décrire l’effondrement du système de santé - Le Républicain Lorrain](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN2tUVGdOUWZrTUxhR2FjMkFwWk84S2Z5eDBQNTRweGlyd3MxZ1RCZTFramJVSVNlUDl1d1ctZkJtVTBfTlRMQ2NUM2RtWXJtcEw1d1lUeklYMHo0NnFTYTlKR2QtbUZPbmUzdVdMUmJfdXRudTEtelpuNnBBNjZTSHQ5cFFuRlU0aWQ2N2luRWRGRzBwb3BPaUxVTTdUQjBPX1F0RDdPM0FoR21uUHdHWFh1YncyWlNUb3FUSVBHbUhQVW96ZXQ1bjlBWFJ5TElfcF9wdE0xZHNfQ2pmd09Ld3dRZ0Jvel93RkVzVHNicGJWVGlmX1VqcjFkclM?oc=5)
+
+2026-07-14 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Républicain Lorrain](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN2tUVGdOUWZrTUxhR2FjMkFwWk84S2Z5eDBQNTRweGlyd3MxZ1RCZTFramJVSVNlUDl1d1ctZkJtVTBfTlRMQ2NUM2RtWXJtcEw1d1lUeklYMHo0NnFTYTlKR2QtbUZPbmUzdVdMUmJfdXRudTEtelpuNnBBNjZTSHQ5cFFuRlU0aWQ2N2luRWRGRzBwb3BPaUxVTTdUQjBPX1F0RDdPM0FoR21uUHdHWFh1YncyWlNUb3FUSVBHbUhQVW96ZXQ1bjlBWFJ5TElfcF9wdE0xZHNfQ2pmd09Ld3dRZ0Jvel93RkVzVHNicGJWVGlmX1VqcjFkclM?oc=5)
 
 ---
 
@@ -158,27 +190,19 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
-### [Joghurt gegen Darmkrebs? Neue Studie zeigt überraschenden Zusammenhang](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
-
-2026-07-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlaUTk5X2tsOHZlSEJ1bE9oV19yRmJGbk5wNnpOSUJHRkVRWlJxN3I3eXRoelRyekdueDVDcV9zc1Job1Z6RTQ0dnN1bUt1MGFsWlVvYmNyMC1EcnZNalhQQVZkLW0tc3B0b3E0RXJuZm12NTladWpZMmxtRlNFTTk5WWNwajBfRHY3VkRCZFRNZDlaR2FUZHVDRkNobE43YUF2SWlTZ00xV3RBOHhPdXdVSUlONkRta3VFZkJGY3FONU9WMElCU0lB?oc=5)
-
----
-
-### [Völlig unerwartet: Dieses Alltagslebensmittel steht im Verdacht, Lungenkrebs zu fördern - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFZhbk1qdTVjNnRSaG9wSXN1b3hfcjJzVUVnYWZ5R1pNZzFlTnUtbHdraFJsVXhGUjFCcExvMGUyTWRJalN4R01KVHhhcGIxaW8waVRja0hfMnZYbkZNaGZaNHpSVmJxMjBidks2RGtlZGJ1QnRWRlN1NTdlS2pNVUVzR0pkSllvUGNEMktvZzY2eGFUNEI5Y0xGeGFEOTNXVVh6d2Y2YUNOZjJkTHpzQ1UxQlRyeFg4RjJ5Y2pPanhXSXNyeE5wMA?oc=5)
-
-2026-07-14 <span class="news-indication-tag">Krebs</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFZhbk1qdTVjNnRSaG9wSXN1b3hfcjJzVUVnYWZ5R1pNZzFlTnUtbHdraFJsVXhGUjFCcExvMGUyTWRJalN4R01KVHhhcGIxaW8waVRja0hfMnZYbkZNaGZaNHpSVmJxMjBidks2RGtlZGJ1QnRWRlN1NTdlS2pNVUVzR0pkSllvUGNEMktvZzY2eGFUNEI5Y0xGeGFEOTNXVVh6d2Y2YUNOZjJkTHpzQ1UxQlRyeFg4RjJ5Y2pPanhXSXNyeE5wMA?oc=5)
-
----
-
 ### [Vaping ‘reduces fitness in the young as much as smoking’ - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDRGWmtTeGdUQmtrWmFfWGRqSzZISzl2a1dVejB5WkQxOUlwcmI2QWU1dTlBSWN2RFVwV29FdjJ5ZEhBQ1J5QnF5OF9vQUxEcFM4dnYxYUU1NnBPanNFcVdUVm1xY2hDcmpXc21hejBob0trbklEZ1NEbU10c29OQVBTYnA4aVZkTjZtcDNJQkFCaERzdDhQWVlpWE5ZWXI2OVNyUQ?oc=5)
 
 2026-07-13 <span class="news-indication-tag">cancer</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDRGWmtTeGdUQmtrWmFfWGRqSzZISzl2a1dVejB5WkQxOUlwcmI2QWU1dTlBSWN2RFVwV29FdjJ5ZEhBQ1J5QnF5OF9vQUxEcFM4dnYxYUU1NnBPanNFcVdUVm1xY2hDcmpXc21hejBob0trbklEZ1NEbU10c29OQVBTYnA4aVZkTjZtcDNJQkFCaERzdDhQWVlpWE5ZWXI2OVNyUQ?oc=5)
+
+---
+
+### [13 de Julio: “Día Internacional del Sarcoma” - La Voz de Puertollano](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmJqZ1F1Ym1UNlFqSnRacnlZTE14NlpXN3dZVlE2dHFNdVFtZnk2dW9wSmtHLVVoN0puNE0tQnNNMC1uSDREdE9OZnp3ZUwxMXNDRDNENktheFVqZHlhN1ZWR3NCSmVaRGYtSFRzaVNVMGtaNGRYLVQ0Tlo3SzlyeHJpUTZaZnZ3anpvS3JGakFCaGllNXJTd2htdmFiaE8zbndvUk1pMlRQSnppYmVSYkN1WnpTUE1mZ3c?oc=5)
+
+2026-07-13 <span class="news-indication-tag">tumor</span>
+
+來源：[La Voz de Puertollano](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmJqZ1F1Ym1UNlFqSnRacnlZTE14NlpXN3dZVlE2dHFNdVFtZnk2dW9wSmtHLVVoN0puNE0tQnNNMC1uSDREdE9OZnp3ZUwxMXNDRDNENktheFVqZHlhN1ZWR3NCSmVaRGYtSFRzaVNVMGtaNGRYLVQ0Tlo3SzlyeHJpUTZaZnZ3anpvS3JGakFCaGllNXJTd2htdmFiaE8zbndvUk1pMlRQSnppYmVSYkN1WnpTUE1mZ3c?oc=5)
 
 ---
 
@@ -214,6 +238,14 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
+### [Typ-2-Diabetes: Warum kontinuierliche Glukosemessung auch vielen Betroffenen helfen könnte - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
+
+---
+
 ### [Online: diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdlMTlKOGpody1TckVUVDAxN0Y0WERkWDU5Qkd2WDZSUXVIdFNiLU1HRHdUN3FBM3B5TVdwVzYtM25ka3J5NnJSV1hteUtzY3I4c0RmSFJfbFVDZkhVRVNGNWNmZm5zR1ZFNkZHX1BtVGUtNWIzUHpHOGE2R2FDNDYtUEdnUFFQbHE4WHlXWDFwTDJwYy1qRVZtaWNETWdJU21CQXh3Tm1yVDE0UUkxcnI1OHZfb0owa1VpQ09HSC1xQkhMYjlrX2NLaDBpdm1aNlFLajZ3ekYtVzV3ZVJEdmJITUdxNUhfcjdN?oc=5)
 
 2026-07-13 <span class="news-indication-tag">diabetes</span>
@@ -238,14 +270,6 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ---
 
-### [El diagnóstico precoz, clave para mejorar el abordaje del sarcoma: “Al ser poco frecuentes, no se piensa en ellos”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObllXSHc4YVV6bHlvSzRtY0dCYmJOQ1hkeVJ6cGhhTzRTeDBTbFgzcHlmek16NVUyNGFmdnZ0U0xjNy14QVRrTUFGYkduWHYzRi1ILUVmdnJzNHRVZjdHb0lnd19xWU9DUUc3eVJRWlhzQzFGRWR3bjZINFcyMFU2akNfOV91Ny1Nb1ZSTWpQSC1GTjVjcFJaSFVLQXNYNFNRdk0zdE9XdC1KdDlMd01ORkpLVno2eEx5TGJ3Vl9fQ2pob1dTeTJLcjl4QndIcVlHelI1VE05QWJCWnV3dy1pU29n?oc=5)
-
-2026-07-13 <span class="news-indication-tag">tumor</span>
-
-來源：[ConSalud.es](https://news.google.com/rss/articles/CBMi4gFBVV95cUxObllXSHc4YVV6bHlvSzRtY0dCYmJOQ1hkeVJ6cGhhTzRTeDBTbFgzcHlmek16NVUyNGFmdnZ0U0xjNy14QVRrTUFGYkduWHYzRi1ILUVmdnJzNHRVZjdHb0lnd19xWU9DUUc3eVJRWlhzQzFGRWR3bjZINFcyMFU2akNfOV91Ny1Nb1ZSTWpQSC1GTjVjcFJaSFVLQXNYNFNRdk0zdE9XdC1KdDlMd01ORkpLVno2eEx5TGJ3Vl9fQ2pob1dTeTJLcjl4QndIcVlHelI1VE05QWJCWnV3dy1pU29n?oc=5)
-
----
-
 ### [Tumore pancreas: nuovo test del sangue ad alta sensibilità per rilevarne le tracce - Federazione Nazionale degli Ordini dei Biologi](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFdyZ0pTUkZodU5WODJvS1pTR0ZFcU5HTk51NzQ2YjI1cnA3dzR2MktYbDR6bFRORTY5b2F1QTRqcmdTOWpqWjZZbUhTV3FKZzhMR01rYmdmc052MW1rdmlWdlNlWkd0dHFLbG95WTRmMDl2SmxYZ2JzaVV0NU5qWGtMMlFVV2pUSEZvOXA5YksyZUx0bDhVTnJEV3VjNDBKbWpCVWNqRUw3bmZySC1YSWpjbw?oc=5)
 
 2026-07-13 <span class="news-indication-tag">tumor</span>
@@ -256,33 +280,9 @@ permalink: /news/trastuzumab-deruxtecan/
 
 ### [NHS confirms tests being sent to everybody in England over age 50 - Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
 
-2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Birmingham Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEdXajVxUzYxZGxvMVFrNExRejI0MGV5RXd4TFZqMGc5NG1nOTFOTlQ4UGMyeVpkNXNCU0pOVGlRcEJfQUdrVkNSQmVad3NzZ3BOMS1DR3RXVjFnbEJNOE1JR21Mb1M3bFVxaEdXdm04XzM3ZVJOMTNyRWhZYklFVVI1WllIUjVtR2REcUVDanpWak9P?oc=5)
-
----
-
-### [CGM & 46.000 Mahlzeiten: Warum Kohlenhydratzählen beim Blutzucker nicht reicht - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
-
----
-
-### [Hirntumoren als Netzwerke: Warum Therapien oft scheitern - Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFNrOXlUNmh1el9KYlhMMmhnLW8xNUJ1Vlh4NmItcDJOVzZ4QUVqamo5a0ttZG5JbUZlNXUzMi1sXzRjTGdsa2FBVlQ2ZWJDVmJHc0hYVmE3ZTcyQXpKdlBRMnM5Mk5ZNUFnRjVOS3dQTmpSdFNvS1FfRHJfcmNCWDU4UFNtVC1FYUs3VFgxX25idGtsbThuYU1B?oc=5)
-
-2026-07-13 <span class="news-indication-tag">tumor</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFNrOXlUNmh1el9KYlhMMmhnLW8xNUJ1Vlh4NmItcDJOVzZ4QUVqamo5a0ttZG5JbUZlNXUzMi1sXzRjTGdsa2FBVlQ2ZWJDVmJHc0hYVmE3ZTcyQXpKdlBRMnM5Mk5ZNUFnRjVOS3dQTmpSdFNvS1FfRHJfcmNCWDU4UFNtVC1FYUs3VFgxX25idGtsbThuYU1B?oc=5)
-
----
-
-### ['I went for an eye test and was told I had cancer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1cG5YOWl3NXp6WFFxd0FIdkZUbjdsdG9RclpZR2doS1dLQl9xaFFsRVpYa3VQc1JTbzh0OTRBRmE2dWNlTW5QMW9Fa2Z1Sm9sZ0tfam1UUVpvRFNY?oc=5)
-
-2026-07-13 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1cG5YOWl3NXp6WFFxd0FIdkZUbjdsdG9RclpZR2doS1dLQl9xaFFsRVpYa3VQc1JTbzh0OTRBRmE2dWNlTW5QMW9Fa2Z1Sm9sZ0tfam1UUVpvRFNY?oc=5)
 
 ---
 

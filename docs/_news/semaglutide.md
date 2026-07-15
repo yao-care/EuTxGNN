@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
 
 ### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
 
@@ -62,27 +62,35 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Enfermedades físicas y trauma infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
+
+---
+
+### [One in four adults has metabolic syndrome – and it may be ageing their brains - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
 
 ---
 
 ### [Diabetes-Therapie: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
 
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlZwT1c2dGtnQUFvZmljb3VpdTlpdnZFWnVSRGxjYTBQMFZnZWZaOXZOOWcxckdJb1BBVy0wZUJCbGNwRkFGUVktTkpIal9WZ0ItTDNXZjBuY0ljQVN6UU9ma09VbnVSTG9QN0pZSUdGbmloNDItRlowTXR1Qy1Tanc3NmdIMHpVcG4zQXN6aF8yR3dLbUVock13QjBtU0dqZ3hOQ0ItWnp6c1BSUFlhY01IVnJMYTVl?oc=5)
 
 ---
 
-### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
+### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDNJb3dDcWhnMFltLUd0WlhBcnYwbFJyTVQxSkxiU2hXYTV1OElRbUxya0tZUm9pU0lXcHZoSE9WOGtYWmF3TzBoSU5OallSd1QtNElGaEtLYm1OaXlIb3BQdENFTHlwZ3pwNHE0Zmd4VkVVcXFaUXBWRVpiUVVKTk0zcFFWRVRrc0hodzZobC1hanRaYTA3R3dnSUl3OV9yTDhyTWlZNmxrajBQTzBzeGtwZ0FqWGJ0X0laTG13OGczSzJMTFdwY2RFcy1BOVZSSnhaZkt2X0RVMFpkZ0V2QklBeTVmbDBlRDZxdXl2NnBxRlktOUt1Q3AwRE9xZw?oc=5)
+來源：[leinetal24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
 
 ---
 
@@ -99,6 +107,14 @@ permalink: /news/semaglutide/
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
+
+---
+
+### [Grasso da cadavere per i corpi svuotati dai farmaci dimagranti: la nuova tendenza Usa - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOR00tQXpjUXRrLWxVNUlfb2EwSTdVaVRlOG5GcndKV1cxY0t6WnozZnZxUExtVjlyYll4azdOQWRrNzRRZWs1VHJoWkdVZzFvSnZiZ0NTV2ZuQWYwRHc0OGRxbGlSWjlQQUtCMzBoTHVLNWNUcFFzLUY0d0lJTy1lcVk1UUFmOTBodmZsVjdiQW1FTHlVSlNlOU9VWGItcHlQWnFMYUVPeVpNQzV4Si1mSG9EQ29iZknSAbwBQVVfeXFMTWJwckFERFAzWkhKYUwwWmRwQ0FuZ1ctWHpJb05rMTc4VEhwS2Y5clpmeTRpRWw2U1AwaVBidF9YU09iclNMWEhXUG0xd2sxeE84bnl6M0UzLXdyb0ZvQklKRmlJZWt5aVV0SlcxTGVXdEp6T3JMTWZjSXdzVktOdHdBQnBMenIwMFkyVEtwY3ZScUtncl9QdlkxSDRRU1dwOU5QaldFTDRrNGVrNU5QYTU4dW9mLUZEWG10TW0?oc=5)
+
+2026-07-14 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOR00tQXpjUXRrLWxVNUlfb2EwSTdVaVRlOG5GcndKV1cxY0t6WnozZnZxUExtVjlyYll4azdOQWRrNzRRZWs1VHJoWkdVZzFvSnZiZ0NTV2ZuQWYwRHc0OGRxbGlSWjlQQUtCMzBoTHVLNWNUcFFzLUY0d0lJTy1lcVk1UUFmOTBodmZsVjdiQW1FTHlVSlNlOU9VWGItcHlQWnFMYUVPeVpNQzV4Si1mSG9EQ29iZknSAbwBQVVfeXFMTWJwckFERFAzWkhKYUwwWmRwQ0FuZ1ctWHpJb05rMTc4VEhwS2Y5clpmeTRpRWw2U1AwaVBidF9YU09iclNMWEhXUG0xd2sxeE84bnl6M0UzLXdyb0ZvQklKRmlJZWt5aVV0SlcxTGVXdEp6T3JMTWZjSXdzVktOdHdBQnBMenIwMFkyVEtwY3ZScUtncl9QdlkxSDRRU1dwOU5QaldFTDRrNGVrNU5QYTU4dW9mLUZEWG10TW0?oc=5)
 
 ---
 
@@ -126,19 +142,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Typ-2-Diabetes: Warum kontinuierliche Glukosemessung auch vielen Betroffenen helfen könnte - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
+
+2026-07-13 <span class="news-indication-tag">diabetes</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQzJyUmJuaVJ0QTJ6MS11cmZFQnZzcC0yUEZKVGVBNlNBYnpjdlNfQzhuc3otdzlKdVFfNUxUVmV4MGE5WjVQbEVseTJUc2thSnhLWV85Z19QenBuRVp6SXJyR1gwRVB3WVNycFg0MVRhZ0xmLWc3NkRvQy03ZlBXT3U1YjdEZDVaZ2dwQXd5Tmg2NkxEZC1WMnBQY2Q1SHVtU05UVnVKUnB3M0tqVEdQa2ZxMENuYzZFaUFaY2NKZ241S0NXME9OV0JKemRyOGl3ZzBGX3dORkFab184S0E?oc=5)
+
+---
+
 ### [Online: diabinfo im Dialog: Vermeiden, Aufhalten, Heilen? Neue Perspektiven aus der Diabetesforschung](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdlMTlKOGpody1TckVUVDAxN0Y0WERkWDU5Qkd2WDZSUXVIdFNiLU1HRHdUN3FBM3B5TVdwVzYtM25ka3J5NnJSV1hteUtzY3I4c0RmSFJfbFVDZkhVRVNGNWNmZm5zR1ZFNkZHX1BtVGUtNWIzUHpHOGE2R2FDNDYtUEdnUFFQbHE4WHlXWDFwTDJwYy1qRVZtaWNETWdJU21CQXh3Tm1yVDE0UUkxcnI1OHZfb0owa1VpQ09HSC1xQkhMYjlrX2NLaDBpdm1aNlFLajZ3ekYtVzV3ZVJEdmJITUdxNUhfcjdN?oc=5)
 
 2026-07-13 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaWdlMTlKOGpody1TckVUVDAxN0Y0WERkWDU5Qkd2WDZSUXVIdFNiLU1HRHdUN3FBM3B5TVdwVzYtM25ka3J5NnJSV1hteUtzY3I4c0RmSFJfbFVDZkhVRVNGNWNmZm5zR1ZFNkZHX1BtVGUtNWIzUHpHOGE2R2FDNDYtUEdnUFFQbHE4WHlXWDFwTDJwYy1qRVZtaWNETWdJU21CQXh3Tm1yVDE0UUkxcnI1OHZfb0owa1VpQ09HSC1xQkhMYjlrX2NLaDBpdm1aNlFLajZ3ekYtVzV3ZVJEdmJITUdxNUhfcjdN?oc=5)
-
----
-
-### [CGM & 46.000 Mahlzeiten: Warum Kohlenhydratzählen beim Blutzucker nicht reicht - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
-
-2026-07-13 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDRNRTc5c3gyODdjVXFLYlctWnU3dFhlUlVSbFUzOW03VHNxWnJDVWF6eUl2UEp6eDNCVnROV3FOVkxtcnVjdDY2WjZXUHV0Z2RqOVdxcDJaZ1p3MmRCaTBDaHc5UC1iaFczQzhUb055M2JZRXRpNUI2VlZDMmU4OS1NS1NqcGtNUlJSMlpXSkMzTTNyUFI5d210TEhtUnhobGN4YlVWalo4T29U?oc=5)
 
 ---
 

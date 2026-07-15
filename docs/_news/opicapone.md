@@ -54,11 +54,11 @@ permalink: /news/opicapone/
 
 ## 相關新聞（1 則）
 
-### [Experts Warn Of Commonly Dismissed Dementia Symptoms That Can Surface 15 Years Before Doctors Catch It - Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+### [Blood test for Alzheimer's rolled out as part of 'landmark' study - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9vQ2tLdm9rb3VGUWZiNGZ1THZBMF9STm5Qc2t3b1dFc3d0RFRuby0xNUM0ZEEzZVpNYkdYY3FfdEU0OTNvZ1VUb0RIaWx5UjhibmhpcXVseXdDd24yUUJqZ1hCcmhFVm1lUEhnTnFBMXpTUlBNTEpiV0YxbGRVUl9HMnRGMGV4UHFSWWhDMDhKOTgtd1BwVWJaX2I1cWM?oc=5)
 
-2026-07-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-15 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9vQ2tLdm9rb3VGUWZiNGZ1THZBMF9STm5Qc2t3b1dFc3d0RFRuby0xNUM0ZEEzZVpNYkdYY3FfdEU0OTNvZ1VUb0RIaWx5UjhibmhpcXVseXdDd24yUUJqZ1hCcmhFVm1lUEhnTnFBMXpTUlBNTEpiV0YxbGRVUl9HMnRGMGV4UHFSWWhDMDhKOTgtd1BwVWJaX2I1cWM?oc=5)
 
 ---
 

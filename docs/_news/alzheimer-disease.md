@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（1 則）
 
-### [Experts Warn Of Commonly Dismissed Dementia Symptoms That Can Surface 15 Years Before Doctors Catch It - Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+### [Blood test for Alzheimer's rolled out as part of 'landmark' study - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9vQ2tLdm9rb3VGUWZiNGZ1THZBMF9STm5Qc2t3b1dFc3d0RFRuby0xNUM0ZEEzZVpNYkdYY3FfdEU0OTNvZ1VUb0RIaWx5UjhibmhpcXVseXdDd24yUUJqZ1hCcmhFVm1lUEhnTnFBMXpTUlBNTEpiV0YxbGRVUl9HMnRGMGV4UHFSWWhDMDhKOTgtd1BwVWJaX2I1cWM?oc=5)
 
-2026-07-13
+2026-07-15
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTRJVFFLVWJadU5nQlJncHpTNk51cmp5dHNxdjlvTWFtbTd3Mkd3a3o3SGxvanc5N1pRQk5ndlB0SjhfMXhHMGJRTDI3c0hHLUJLWW9WVXZhTHV3Tmo2R05oWEQ2RGQzYlFoU0JEbUJCQkVENENEUTd5ZFRkM2pEaTMxUURLYUxmU24yUDZHVUNyeDB2d0U0QUpXa2tBVWFZMUVIQlJxdGxfR2NDZnNOLUI4THFocnVx?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9vQ2tLdm9rb3VGUWZiNGZ1THZBMF9STm5Qc2t3b1dFc3d0RFRuby0xNUM0ZEEzZVpNYkdYY3FfdEU0OTNvZ1VUb0RIaWx5UjhibmhpcXVseXdDd24yUUJqZ1hCcmhFVm1lUEhnTnFBMXpTUlBNTEpiV0YxbGRVUl9HMnRGMGV4UHFSWWhDMDhKOTgtd1BwVWJaX2I1cWM?oc=5)
 
 ---
 

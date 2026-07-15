@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Enfermedades físicas y trauma infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
+### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3F1SFFVZ1lyejhQbmF2dDdPc1BPQktMUDVWaWlXS2l4MnRpVUhHdUl4VjFrYVppMlNndjdqSDNtMUEyYUU5R3UxWnNzVGl4c2paLVAzUFItUVljQ295T3RyMjl2X3RJZkcyaVE3QV82UzhNOEo1UW1wRTBZbDZYSzJhZ3JQbjlWd2I3S2Q5MTM2ampaUm1WQ1laX190cG5MeFc4Y3VsbFhzU2kwa2JxcVM4bkV0QTN0alpLNlFHZ2VsR2ZvNVp4RWpiTnUwU0RQdzgybTk1NXl3aDlTUTBpOElvQmZ2MHYwaTlJYlI4Y0t3SDZnUjBENU9hUTBpLS1s?oc=5)
-
----
-
-### [Aurelio Rojas, cardiólogo, advierte sobre el azúcar: “Dárselo a un niño todos los días es uno de los mayores errores que hemos normalizado”](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">hipertensión</span>
-
-來源：[MARCA](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1ppVlVOZnJOZTRKcXdRdUlNZ2xYSkZBcHBvTk92S3JpaHFqWjRnRVBaSHE4bHVzc0xPcXRIUWVZV3dLMHNYXzFWaDZqdGZfMHg0akc5ZGVqXzIxb2tHZmNNdnZjLUYtcTFzWjFvbWlBUDJWdlJMYkR3c1o4THBzODRPVW00MTAycUctaWRrXzhLY25SbkljZnpEZ2VLNmVHaEczSHN1S1lOX1FHbjZGRzlPNUpHUjZodE1mZHg1dk9zMlhsS2N1ZF91a1E1LVltbFVmWmQtT3hjTU9DWWdKWmpyd0MzRjVudzJBell1a9IB7wFBVV95cUxOcVRMTjQ2TGhpaWtDUjZLOWItMFVEclJoZ0xzUVZXajhSWHowaE1oX2pycG9MTlExalZpY2pYZ2k2bVB1WU5jR2VhRHp3eGdzbWVtWGpIbFFSU1BqZ1hhUEpsdG9YZHNxaU1IVG5QaUNkSFhkdEtJOEpGbks2QkVFak1TelpaN0wyeXZSbTFmMG5ZQ2UxWWp2b0FxX3U3emFDYm5nSGR4aF9YT0NnRERxb3ZpOTdHMkEtQ0NjLXFJbW9kbHR2RnNOVWUtd2VzemtGM1lWYnVpUWlYbUtWc3lQUGQ1T1RaRUtydExhQ0xZYw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
 ---
 
