@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdsVlp2Vk5SS0FlRE5tVnVHMVlSWGFRVkpTbEpDMDUyWVJDZE1RTGIxV0JkRjJvRlRrVHRuLWE5al94aGdSNXlLUWsyY2lfLTBEd25HVGFDNnFxbnZrbDVTNnZRZ3FJMzNGNi1LU2dpVFdmZlhvSktVUzVsNWxsTndTQks2RkZlcWdScEpaVUNGUzJsS3dWOERFS1l6WE5CUUFQUkR0RENTeklPQmcyWlUyMA?oc=5)
+
+2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdsVlp2Vk5SS0FlRE5tVnVHMVlSWGFRVkpTbEpDMDUyWVJDZE1RTGIxV0JkRjJvRlRrVHRuLWE5al94aGdSNXlLUWsyY2lfLTBEd25HVGFDNnFxbnZrbDVTNnZRZ3FJMzNGNi1LU2dpVFdmZlhvSktVUzVsNWxsTndTQks2RkZlcWdScEpaVUNGUzJsS3dWOERFS1l6WE5CUUFQUkR0RENTeklPQmcyWlUyMA?oc=5)
+
+---
 
 ### [Typ-1-Diabetes: Hypoimmune Inselzelltransplantation vermeidet Immunsuppression – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Ozempic fa dimagrirre ma svuota il corpo? La soluzione: grasso prelevato dai cadaveri per seno e glutei](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUhISHFmeFo3LXlpd1hTZzAyNU9jWGdmV3MtUEJvYkpXaGRDUmZHa2dkZ2hQbkkwRTJKSzA2S0NkQjkyNklxY1o5N2N3MFZCRDdEUS1YSV9Sd3RHZ3BuVkhlamZLSEE1bV9sSkZzSGRGeDA2YnF0MVFVNER6NDNJdzNKQUhSeHVHREdjbGd0MXBucUZBVm4tbHI1bmVUa3VBbDR2Q1d5cGhDUVhCT0hhV05NQUpHZw?oc=5)
+
+2026-07-15 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUhISHFmeFo3LXlpd1hTZzAyNU9jWGdmV3MtUEJvYkpXaGRDUmZHa2dkZ2hQbkkwRTJKSzA2S0NkQjkyNklxY1o5N2N3MFZCRDdEUS1YSV9Sd3RHZ3BuVkhlamZLSEE1bV9sSkZzSGRGeDA2YnF0MVFVNER6NDNJdzNKQUhSeHVHREdjbGd0MXBucUZBVm4tbHI1bmVUa3VBbDR2Q1d5cGhDUVhCT0hhV05NQUpHZw?oc=5)
+
+---
+
 ### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
-
----
-
-### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
 ---
 
@@ -110,27 +118,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Grasso da cadavere per i corpi svuotati dai farmaci dimagranti: la nuova tendenza Usa - la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOR00tQXpjUXRrLWxVNUlfb2EwSTdVaVRlOG5GcndKV1cxY0t6WnozZnZxUExtVjlyYll4azdOQWRrNzRRZWs1VHJoWkdVZzFvSnZiZ0NTV2ZuQWYwRHc0OGRxbGlSWjlQQUtCMzBoTHVLNWNUcFFzLUY0d0lJTy1lcVk1UUFmOTBodmZsVjdiQW1FTHlVSlNlOU9VWGItcHlQWnFMYUVPeVpNQzV4Si1mSG9EQ29iZknSAbwBQVVfeXFMTWJwckFERFAzWkhKYUwwWmRwQ0FuZ1ctWHpJb05rMTc4VEhwS2Y5clpmeTRpRWw2U1AwaVBidF9YU09iclNMWEhXUG0xd2sxeE84bnl6M0UzLXdyb0ZvQklKRmlJZWt5aVV0SlcxTGVXdEp6T3JMTWZjSXdzVktOdHdBQnBMenIwMFkyVEtwY3ZScUtncl9QdlkxSDRRU1dwOU5QaldFTDRrNGVrNU5QYTU4dW9mLUZEWG10TW0?oc=5)
-
-2026-07-14 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOR00tQXpjUXRrLWxVNUlfb2EwSTdVaVRlOG5GcndKV1cxY0t6WnozZnZxUExtVjlyYll4azdOQWRrNzRRZWs1VHJoWkdVZzFvSnZiZ0NTV2ZuQWYwRHc0OGRxbGlSWjlQQUtCMzBoTHVLNWNUcFFzLUY0d0lJTy1lcVk1UUFmOTBodmZsVjdiQW1FTHlVSlNlOU9VWGItcHlQWnFMYUVPeVpNQzV4Si1mSG9EQ29iZknSAbwBQVVfeXFMTWJwckFERFAzWkhKYUwwWmRwQ0FuZ1ctWHpJb05rMTc4VEhwS2Y5clpmeTRpRWw2U1AwaVBidF9YU09iclNMWEhXUG0xd2sxeE84bnl6M0UzLXdyb0ZvQklKRmlJZWt5aVV0SlcxTGVXdEp6T3JMTWZjSXdzVktOdHdBQnBMenIwMFkyVEtwY3ZScUtncl9QdlkxSDRRU1dwOU5QaldFTDRrNGVrNU5QYTU4dW9mLUZEWG10TW0?oc=5)
-
----
-
 ### [Semaglutide dose may matter more than weight loss for heart health](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVkxcTlpSm9UQnQ2aUVpYlA1R1Fjbkw3M045VVYzZm1yQmFRQ3g2YXVNYTdwSmI0RFhKTzlUaFZPUnhYLWpLYXhPQ0NoMEhHbGRnQVl6elVUMjhQd3d3T3VsRGl0YnVlTjd4UmV2UzFFdFBFZUlNWlZMSy1xR20xeGgyNjAxRFlYMmg1UUpWWXBNcnVwekl6WTJGSkFZTVVmOG0tUzJtNlpuY3BkYVY4WU1IY20?oc=5)
 
 2026-07-14 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVkxcTlpSm9UQnQ2aUVpYlA1R1Fjbkw3M045VVYzZm1yQmFRQ3g2YXVNYTdwSmI0RFhKTzlUaFZPUnhYLWpLYXhPQ0NoMEhHbGRnQVl6elVUMjhQd3d3T3VsRGl0YnVlTjd4UmV2UzFFdFBFZUlNWlZMSy1xR20xeGgyNjAxRFlYMmg1UUpWWXBNcnVwekl6WTJGSkFZTVVmOG0tUzJtNlpuY3BkYVY4WU1IY20?oc=5)
-
----
-
-### [Alzheimer-Prävention: Diabetes-Medikamente senken Risiko um 43%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXlvTDVNbDBrZHhNeEkxTzJKRDRsZG5VQUVqVDlYSTFmR0dDYW5NRVJLUk8tOWcwbFlSTldySzVsWl9EdF9JdTMyaFFWWExVckt1WURiemN5LUZSQjBVV3g1RFk4UTk5NnVQSXNwY2dZNm5sN1RPQk9kN094ZVFQOGZXZF9ZNGxyZmFNaWRSY3lMSzN0S24tU3I2aWRMd1M2UUh5M2JsdFV1X3VCejU2UDFub2hZdUhhOHlV?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXlvTDVNbDBrZHhNeEkxTzJKRDRsZG5VQUVqVDlYSTFmR0dDYW5NRVJLUk8tOWcwbFlSTldySzVsWl9EdF9JdTMyaFFWWExVckt1WURiemN5LUZSQjBVV3g1RFk4UTk5NnVQSXNwY2dZNm5sN1RPQk9kN094ZVFQOGZXZF9ZNGxyZmFNaWRSY3lMSzN0S24tU3I2aWRMd1M2UUh5M2JsdFV1X3VCejU2UDFub2hZdUhhOHlV?oc=5)
 
 ---
 

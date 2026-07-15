@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Psoriasis-Arthritis: Hoher BMI verhindert anhaltende minimale Krankheitsaktivität – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Q4eUFTem9GWlRHSTA5NEc0RGVQb25pSV83c281cU5ZOTBqWHJlbTdSa1lUX2FBRDd3SVFmQjhTak9QOUNwMkVuUEhGa3g5V2gwbUVlSDViQmhRTmtoMUpGN2dGVHdtNE16TDdlcF9WaGVoMXNuMVlpMml5aTUtVVhXdHVITFU1ZlZkRkdHV252MnJTdFBWbEJrRDJKZVFiU3JkX2ZNT0dvWU9qdlA0SzdGRTF3LXA2UXQxbHRHYVoxcWYxc01zTXVzSEFmZFJYNHdsUGZnVVZZR1hGdnpBZjFtOA?oc=5)
 
 2026-07-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Q4eUFTem9GWlRHSTA5NEc0RGVQb25pSV83c281cU5ZOTBqWHJlbTdSa1lUX2FBRDd3SVFmQjhTak9QOUNwMkVuUEhGa3g5V2gwbUVlSDViQmhRTmtoMUpGN2dGVHdtNE16TDdlcF9WaGVoMXNuMVlpMml5aTUtVVhXdHVITFU1ZlZkRkdHV252MnJTdFBWbEJrRDJKZVFiU3JkX2ZNT0dvWU9qdlA0SzdGRTF3LXA2UXQxbHRHYVoxcWYxc01zTXVzSEFmZFJYNHdsUGZnVVZZR1hGdnpBZjFtOA?oc=5)
-
----
-
-### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（3 則）
 
+### [7-Day No-Sugar Anti-Inflammatory Meal Plan for High Blood Pressure, Created by a Dietitian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+
+2026-07-15 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+
+---
+
 ### [Psoriasis-Arthritis: Hoher BMI verhindert anhaltende minimale Krankheitsaktivität – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Q4eUFTem9GWlRHSTA5NEc0RGVQb25pSV83c281cU5ZOTBqWHJlbTdSa1lUX2FBRDd3SVFmQjhTak9QOUNwMkVuUEhGa3g5V2gwbUVlSDViQmhRTmtoMUpGN2dGVHdtNE16TDdlcF9WaGVoMXNuMVlpMml5aTUtVVhXdHVITFU1ZlZkRkdHV252MnJTdFBWbEJrRDJKZVFiU3JkX2ZNT0dvWU9qdlA0SzdGRTF3LXA2UXQxbHRHYVoxcWYxc01zTXVzSEFmZFJYNHdsUGZnVVZZR1hGdnpBZjFtOA?oc=5)
 
 2026-07-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
@@ -67,14 +75,6 @@ permalink: /news/elexacaftor/
 2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
-
----
-
-### [Un estudio vincula los abusos infantiles con una mayor probabilidad de sufrir enfermedades físicas o somáticas en la edad adulta](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">migraña</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS0ZTSjVsR3R2TUpVYXNpM3Mzc3lpc3BvUlZpNllwaFJyUzItRkRuc3JzOUd6aURMcmMyZkhKU0p3NDlXd3ZmMVoxRFpRajZpYlJVcTVZWkFsUzRjM3ZqMV9yWlZFdWM0akIwZ3hndTlCczJaYnB1WlVOVGFfMGt0VzdmdkNvUXVLSzcwSXNhRl9FVmNFa3pQT3pWLThwYV9Kd0ZYYWR6RDAwdnNQUHBacG5MZTVnWWo4R01wOFFTdUgtbUpnVXlUZ2xENy1NYTlvY0hVUG1wYmdUZGk3LVMtZXVwVjFlQjJzMUFxNURR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Rapid magnetic brain stimulation eases depression within days, but benefits fade within weeks - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
 
 2026-07-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
-
----
-
-### [Pablo Ojeda, nutricionista, indica el suplemento que debes tomar para prevenir la demencia y el alzhéimer: «Ha demostrado ser efectiva»](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWUyOHdCbmlYX2s0a0xsWUdSbUNZcEdFeElFTW4tS3pCbm80Qzduc0RrS05KTms5TkdOTUozeFVGbVlSbXNtRHJSZjdna3FxbG1yck92NzdnLUVZSnlrNjVaN0ROZ2VlUGtSeEZ4b21CN1U4eTZUQVNseDVjTzQzZk1SR3M2M2JMb1NxQlpnLXFrT01mSEtUNi1XREo3UWJHclpyQncyRGJkUEXSAbABQVVfeXFMUEFlNDB0dzRHWEp4Tlg0Q2pGZjlQWkpEX2c0Z0pOVmpOeWhJazhUV0oxUjBEQ2tlZWd3MW8yRTJPbk9OUXY3Sm5iU2N5bWdXZENHbXdZdUlvbjFtN25JU2l3bXYwdXVWZUo0YlNveHRtNjFXczBHX29ScUVxX3A1Slo1TzFtWmg3a1E1dnZmLU16eThVTXFadUxVNDFQSVgtZjNXTlZ5NU53cG9FU3lGSXQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">depresión</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWUyOHdCbmlYX2s0a0xsWUdSbUNZcEdFeElFTW4tS3pCbm80Qzduc0RrS05KTms5TkdOTUozeFVGbVlSbXNtRHJSZjdna3FxbG1yck92NzdnLUVZSnlrNjVaN0ROZ2VlUGtSeEZ4b21CN1U4eTZUQVNseDVjTzQzZk1SR3M2M2JMb1NxQlpnLXFrT01mSEtUNi1XREo3UWJHclpyQncyRGJkUEXSAbABQVVfeXFMUEFlNDB0dzRHWEp4Tlg0Q2pGZjlQWkpEX2c0Z0pOVmpOeWhJazhUV0oxUjBEQ2tlZWd3MW8yRTJPbk9OUXY3Sm5iU2N5bWdXZENHbXdZdUlvbjFtN25JU2l3bXYwdXVWZUo0YlNveHRtNjFXczBHX29ScUVxX3A1Slo1TzFtWmg3a1E1dnZmLU16eThVTXFadUxVNDFQSVgtZjNXTlZ5NU53cG9FU3lGSXQ?oc=5)
 
 ---
 

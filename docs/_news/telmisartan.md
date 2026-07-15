@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [7-Day No-Sugar Anti-Inflammatory Meal Plan for High Blood Pressure, Created by a Dietitian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+
+2026-07-15 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+
+---
 
 ### [Bluthochdruck-Therapie: AHA und ACC vereinen Herz, Niere, Stoffwechsel](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
 
@@ -70,19 +78,19 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Diciotto anni senza voce dopo un Ictus, poi il cervello ha ricominciato a parlare](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWh4cDNfUFVEUjVoOHFHcmJzY1AtMGl0a2gzeE1NbGJWNmExcU9MZHROdkZfTkpfbEVsanhVa1hnODZuTjB2MklNSWVBUFp6R0s5MUNQV1F4VGpoNUs5QjNaSnJxZ184SHNSTG5aNFJSOTJ6UzlFWmJoeHQtR0tKbXVnZG1QcVNFOHF5Q3lUV3hFMkdzbF9VVjlMSnNZSXFMYVRReGVlM1pISUtKZTNycFhrOUIzYy04b193R3h4dFlaLVg4VHAwTHhYTllNQVpGZms5OFYyNA?oc=5)
+
+2026-07-15 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWh4cDNfUFVEUjVoOHFHcmJzY1AtMGl0a2gzeE1NbGJWNmExcU9MZHROdkZfTkpfbEVsanhVa1hnODZuTjB2MklNSWVBUFp6R0s5MUNQV1F4VGpoNUs5QjNaSnJxZ184SHNSTG5aNFJSOTJ6UzlFWmJoeHQtR0tKbXVnZG1QcVNFOHF5Q3lUV3hFMkdzbF9VVjlMSnNZSXFMYVRReGVlM1pISUtKZTNycFhrOUIzYy04b193R3h4dFlaLVg4VHAwTHhYTllNQVpGZms5OFYyNA?oc=5)
+
+---
+
 ### [Vitamin K: Neue Studien belegen Schutz vor Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5NZk1aQUxDWGREYV82NDluSERlQlF2bzB1T1k3LWY1RVI1ZzNRWGhLRnZLcDVSQ0RyRHl6VW04dHFVS2xDZjlIT0t6S0RFbjl4a1BCXzR5VmtvZGdmMmVkNEFYWU9OcHY1aEJ3UnpxZlZHbmlnc3hkQmR6S2ZIcjZ4OHRQZ1FzWmZEREdhZEZ0ZUluV3BUd3UxQWtMVUo1eTBNNV81cnpsX3g5cWttX3RhdTNxNms4RnRZ?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5NZk1aQUxDWGREYV82NDluSERlQlF2bzB1T1k3LWY1RVI1ZzNRWGhLRnZLcDVSQ0RyRHl6VW04dHFVS2xDZjlIT0t6S0RFbjl4a1BCXzR5VmtvZGdmMmVkNEFYWU9OcHY1aEJ3UnpxZlZHbmlnc3hkQmR6S2ZIcjZ4OHRQZ1FzWmZEREdhZEZ0ZUluV3BUd3UxQWtMVUo1eTBNNV81cnpsX3g5cWttX3RhdTNxNms4RnRZ?oc=5)
-
----
-
-### [Las células madre reavivan la esperanza terapéutica en el ictus crónico - El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">ictus</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2t0Ui02OXJwS1VpYlA2LTU0c0pWMW5HU1hBS0E0T0VGVk1XU003bW1wRWtwalFEY1czMnpJNHpPanBsQThuZm5EX0NRRllZbE1lSGdXMHQzVTExNnpMX0RpbnBmQnlQSEd4ZktHUGxkQmpKeUp6dEhocDJKcHlnN3g5UndobG0tdF9sR19WeTlTTWRiN1B5V3RNMU96UnNVQVJfM09Bdw?oc=5)
 
 ---
 

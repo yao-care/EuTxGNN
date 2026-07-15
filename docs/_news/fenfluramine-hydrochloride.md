@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,13 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（1 則）
 
 ### [Stoffwechsel und Krebs: Fettleibigkeit erhöht Risiko für 19 Arten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Fettleibigkeit</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
-
----
-
-### [Aurelio Rojas, cardiólogo: «Estos alimentos que parecen inofensivos para nuestros hijos están programando un futuro de obesidad»](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5PeVROVEEzWllYWXRVZlJmNzlKN0pxWnpZSE1aUVJfcEtvMHcyTTZGcEQxLWVIYzA1bWFUbm5IWW5qYUo5LTBmVGpQRVUzck1UN3IxOWFIU0JMQUVQb2JjMElFc1BWZFczdjhuTTVfQXpiVHZBbTdvX01xZjRyZTU2LUc5QUVndU1aTzZQTndmQzM1R2xIY2Vzak9MMU1kU0lPeXJlbG1kck10MDFNU0Jwbk5FQ0luc0x1Rk9GdFNPejlacXA1VS1n0gHPAUFVX3lxTFBDNWFxUUJ1V0xlUV92anFTaWx1M0VSODQ2d1AtVW1rUm5OTTRNXzlDMTFuVzZncmE3OFZxeGFVa0x3RFRjZ2VoQjMyUEZMbld1YndaVE16MW5adGlFbVBhVFJKQXZDVVNYdHE1aU5aOUkwY0J1Q0lsRGgybnNRbHpnaHVVblR4MnRPM292MFFwNDJha0ROT0k4NlItei1kZXJNbDBtNm94Wnp3UmJMellxYnNBWkkxblNEeDF0T2ZIMWdQZ200T0FFMU1peFg5UQ?oc=5)
-
-2026-07-15 <span class="news-indication-tag">obesidad</span>
-
-來源：[ABC](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5PeVROVEEzWllYWXRVZlJmNzlKN0pxWnpZSE1aUVJfcEtvMHcyTTZGcEQxLWVIYzA1bWFUbm5IWW5qYUo5LTBmVGpQRVUzck1UN3IxOWFIU0JMQUVQb2JjMElFc1BWZFczdjhuTTVfQXpiVHZBbTdvX01xZjRyZTU2LUc5QUVndU1aTzZQTndmQzM1R2xIY2Vzak9MMU1kU0lPeXJlbG1kck10MDFNU0Jwbk5FQ0luc0x1Rk9GdFNPejlacXA1VS1n0gHPAUFVX3lxTFBDNWFxUUJ1V0xlUV92anFTaWx1M0VSODQ2d1AtVW1rUm5OTTRNXzlDMTFuVzZncmE3OFZxeGFVa0x3RFRjZ2VoQjMyUEZMbld1YndaVE16MW5adGlFbVBhVFJKQXZDVVNYdHE1aU5aOUkwY0J1Q0lsRGgybnNRbHpnaHVVblR4MnRPM292MFFwNDJha0ROT0k4NlItei1kZXJNbDBtNm94Wnp3UmJMellxYnNBWkkxblNEeDF0T2ZIMWdQZ200T0FFMU1peFg5UQ?oc=5)
-
----
-
-### [Dos estudios revelan el vínculo del cerebro con la caquexia, la obesidad y la infertilidad](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVGxMZDBsekNqdUxob2VESmMxWXZfdDZQdmFzblUtMmM2QnpQNDgwbzhDU0lXUENlcUhnUnpmMW4zdmh3bS1nSEhERTZwS3BCcFBabktsOC1ZZEtrVkZjS3R5U0dnSWlqMm9KaE81MWpaWGxydklWamtDRWZfcWZGX1VDdHd2N0dUZS16bXEtQmsxTklyMnVpTVFfbFY4Q19GS2g3aDRRZWFvTDJFdGxENTVsVjhwMFVaeHRxRHNxRUMxMW1lUURtdWJocy1JSXl6YUVLcHZlUV8?oc=5)
-
-2026-07-14 <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVGxMZDBsekNqdUxob2VESmMxWXZfdDZQdmFzblUtMmM2QnpQNDgwbzhDU0lXUENlcUhnUnpmMW4zdmh3bS1nSEhERTZwS3BCcFBabktsOC1ZZEtrVkZjS3R5U0dnSWlqMm9KaE81MWpaWGxydklWamtDRWZfcWZGX1VDdHd2N0dUZS16bXEtQmsxTklyMnVpTVFfbFY4Q19GS2g3aDRRZWFvTDJFdGxENTVsVjhwMFVaeHRxRHNxRUMxMW1lUURtdWJocy1JSXl6YUVLcHZlUV8?oc=5)
-
----
-
-### [El buen uso y control de los fármacos contra la obesidad](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
-
-2026-07-14 <span class="news-indication-tag">obesidad</span>
-
-來源：[RTVE.es](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTR0X1h0MmRaYmRTNDZMLW5YVDd5N2Z3T3phdEZnZXVHaXFmX2NDRG94VkZaSnZjRmg5TnlyRUsxZUVkOWtVUUNFSzg4a3FRcElCT0FPeGpDWURXb2JFY2JXdUxVUTdsYjhTS0k3c3Y5OEhZTElFbjFLRWxRUVljZ1VoajRaeGVoWVpFU3VJMFhGU3M?oc=5)
-
----
-
-### [Scientists Develop a Food Ingredient That May Prevent Obesity](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEZaY0xJNTU1azNMekdRcV9hSElvQzE0eDZmNnRQckNSR3pVc05abWRKcFp2N0tDSW54VzdLQjZJb3RyOFRTdjZXcnRSZHd0WWJzbHRvcm1ENmx6dVBlRkc3TWZUUF9DY2FRZUU0TmtlT2JHUFdsUjBkMVlZdUhGVXdMbDZjZUpUSFlDdldwYW0?oc=5)
-
-2026-07-13 <span class="news-indication-tag">obesity</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEZaY0xJNTU1azNMekdRcV9hSElvQzE0eDZmNnRQckNSR3pVc05abWRKcFp2N0tDSW54VzdLQjZJb3RyOFRTdjZXcnRSZHd0WWJzbHRvcm1ENmx6dVBlRkc3TWZUUF9DY2FRZUU0TmtlT2JHUFdsUjBkMVlZdUhGVXdMbDZjZUpUSFlDdldwYW0?oc=5)
 
 ---
 

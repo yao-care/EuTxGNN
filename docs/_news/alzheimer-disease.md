@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [‘Landmark’ study to see blood test for Alzheimer’s offered by GPs - STV News](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFFKZExxWExVT0hHYWZVdlk3V092eWZ3RVkwMFFrOC1EQ0hVdVhtQmE1V19XMExQUTZQci1kWWkyamFJU1NzMjFiNHJhTTVwY0xJclV5VVIyZldMS0dPNzVUVkh5Mm1tQU5CNGxOandVZzhlc1d6em1Bb3JjMW5FcVBmOUFKalFnLVpFWWl1SGFfdDF4dUE?oc=5)
+
+2026-07-15
+
+來源：[STV News](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFFKZExxWExVT0hHYWZVdlk3V092eWZ3RVkwMFFrOC1EQ0hVdVhtQmE1V19XMExQUTZQci1kWWkyamFJU1NzMjFiNHJhTTVwY0xJclV5VVIyZldMS0dPNzVUVkh5Mm1tQU5CNGxOandVZzhlc1d6em1Bb3JjMW5FcVBmOUFKalFnLVpFWWl1SGFfdDF4dUE?oc=5)
+
+---
 
 ### [Rare Autopsy Finds Alzheimer's Drugs Only Work in Some Parts of The Brain](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjNPRlVnZ200bFNWdzVZdEo5ZmFYdzhsR29VMHV6X0xkUERhRGM1anU0c0hoajFDTUJRVnY5Z0RqaXpuVmYwcDFJU2JReXQxb1RRUExuZXRoTHF5RkVhblI2TEEwbDk1cEVyLUFRdEVCN05JY0dxNjNaZFdCYnVXcEZGM09QNUNEQURxOEZNZkhMeG8?oc=5)
 
@@ -54,11 +62,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Blood test for Alzheimer's rolled out as part of 'landmark' study - Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9vQ2tLdm9rb3VGUWZiNGZ1THZBMF9STm5Qc2t3b1dFc3d0RFRuby0xNUM0ZEEzZVpNYkdYY3FfdEU0OTNvZ1VUb0RIaWx5UjhibmhpcXVseXdDd24yUUJqZ1hCcmhFVm1lUEhnTnFBMXpTUlBNTEpiV0YxbGRVUl9HMnRGMGV4UHFSWWhDMDhKOTgtd1BwVWJaX2I1cWM?oc=5)
+### [New Alzheimer’s drug could stop disease - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
 
-2026-07-15
+2026-07-14
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk9vQ2tLdm9rb3VGUWZiNGZ1THZBMF9STm5Qc2t3b1dFc3d0RFRuby0xNUM0ZEEzZVpNYkdYY3FfdEU0OTNvZ1VUb0RIaWx5UjhibmhpcXVseXdDd24yUUJqZ1hCcmhFVm1lUEhnTnFBMXpTUlBNTEpiV0YxbGRVUl9HMnRGMGV4UHFSWWhDMDhKOTgtd1BwVWJaX2I1cWM?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
 
 ---
 

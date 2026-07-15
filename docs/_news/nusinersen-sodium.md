@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="Nusinersen Sodium 有什麼相關新聞？">
-<strong>Nusinersen Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nusinersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/nusinersen-sodium/
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Over half of adults with learning difficulties do not live past 65, report says](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OQ25GY1pNOVIwUXdzejJ5Mm51Q2dTSEZtY292NGRvc3hrYXdueHp5MGpaNDJrbWNLa3Q1TnBwWXp6WVpidkw2dHRRMnByckNIbWpjNkNEaER3aEFa?oc=5)
-
-2026-07-13 <span class="news-indication-tag">epilepsy</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OQ25GY1pNOVIwUXdzejJ5Mm51Q2dTSEZtY292NGRvc3hrYXdueHp5MGpaNDJrbWNLa3Q1TnBwWXp6WVpidkw2dHRRMnByckNIbWpjNkNEaER3aEFa?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
