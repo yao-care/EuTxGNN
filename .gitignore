@@ -40,7 +40,6 @@ Thumbs.db
 docs/_site/
 docs/.jekyll-cache/
 docs/.sass-cache/
-docs/Gemfile.lock
 
 # Large data files (download from Harvard Dataverse)
 data/kg.csv
