@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
 
-2026-07-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+2026-07-16 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
 
 ---
 
@@ -70,19 +70,19 @@ permalink: /news/melatonin/
 
 ---
 
+### [Pillola per dimagrire, via libera in Europa: come funzionerà il nuovo farmaco (che può sostituire le iniezioni) - Il Messaggero](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3llWF82WFNHQ3ZIU083RDVvNHZaUnEwMTEzU1ZsN0M3clI5R01NNk5hME1DZTg0ajhoRWNUQVRMUkVJVTNHUmdYSTV2VUE2aExsR1otVGZSTFpvSHVWRjRWazQ4QVhRTEIzdks0b0FOQWZVMUh3eE1wTUtrdEhMNkF6RWd4amFlTkh1QjU5WnR1QzBCaXdfR1lQd0UySnA0SzBtdjJOaFdrZ3RzM0FxTE8yMkJ5d9IBrwFBVV95cUxQWUFlWW1KREREa1BUZ1QwRXU4aEpUd1VkQ2xvVU9SdWxQcGRiUVNHZEJHa2RiU0tUY05kMVJwUEJGdWVGaGVVckdueEw5Nmg1R0ZZeTBPY2JyeVZJU0NrZFc0N09aSGxTeDdlOE4tT0VzS2ZOOFN5MXgyRnFoUDlpdlk3MXVlbFhsb1BFQU5nMW1TRVN3c2dITm81NlhBcHZGYUsxQUd6Zkg3MTRQQTdz?oc=5)
+
+2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3llWF82WFNHQ3ZIU083RDVvNHZaUnEwMTEzU1ZsN0M3clI5R01NNk5hME1DZTg0ajhoRWNUQVRMUkVJVTNHUmdYSTV2VUE2aExsR1otVGZSTFpvSHVWRjRWazQ4QVhRTEIzdks0b0FOQWZVMUh3eE1wTUtrdEhMNkF6RWd4amFlTkh1QjU5WnR1QzBCaXdfR1lQd0UySnA0SzBtdjJOaFdrZ3RzM0FxTE8yMkJ5d9IBrwFBVV95cUxQWUFlWW1KREREa1BUZ1QwRXU4aEpUd1VkQ2xvVU9SdWxQcGRiUVNHZEJHa2RiU0tUY05kMVJwUEJGdWVGaGVVckdueEw5Nmg1R0ZZeTBPY2JyeVZJU0NrZFc0N09aSGxTeDdlOE4tT0VzS2ZOOFN5MXgyRnFoUDlpdlk3MXVlbFhsb1BFQU5nMW1TRVN3c2dITm81NlhBcHZGYUsxQUd6Zkg3MTRQQTdz?oc=5)
+
+---
+
 ### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
 
 2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
----
-
-### [¿Medicamentos contra la obesidad y apoyo al estilo de vida?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
-
-2026-07-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
 
 ---
 
@@ -94,11 +94,19 @@ permalink: /news/melatonin/
 
 ---
 
-### [Melatonin-Langzeitnutzung: Herzinsuffizienz-Risiko steigt um 90% - Ad Hoc News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2VpZm03WXpERjBnRmQ0cVRqS2ZKUVRnc1lzSjJPcGhwMy1hTG1ZTUI2Z2o0WHFudEFiLVF6bjdrc1dBYndZZ1JPWUVwejhNRjZaSnhIWUNpdE5GR0pRS3YtYm85RDdwTVllY0V2QVhNM094SXBuWGYzdmozd1BTMW11ZnVwVzYxOTM3MTBFb2VjS1R5eXl6RFAxOFRPb21GclVKZjIzZWVrSGJCYzYyajZEY1pIenFIaWZN?oc=5)
+### [Schlafmittel Melatonin: Gefahr für die Herzgesundheit? - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZzOGM3VzdUaFY3emZPNTZUeHl2eDlnSFAzcjdvTmllYlloR2Y3LWlJQ2dwb2VhYmJrT3l0Y05QYmxsSi0tUjhpLUdWZjB6Z1pCdUJoMmNnS0VvekxVV2ljcEoycVduNkNUY2pZQUR6bUNibWE1WUF5OGZzQThuZnZCLWI2SFNyeDVLV0VNYlU5ZG1ER0E1cHpRYw?oc=5)
 
-2026-07-16 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
+2026-07-15 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2VpZm03WXpERjBnRmQ0cVRqS2ZKUVRnc1lzSjJPcGhwMy1hTG1ZTUI2Z2o0WHFudEFiLVF6bjdrc1dBYndZZ1JPWUVwejhNRjZaSnhIWUNpdE5GR0pRS3YtYm85RDdwTVllY0V2QVhNM094SXBuWGYzdmozd1BTMW11ZnVwVzYxOTM3MTBFb2VjS1R5eXl6RFAxOFRPb21GclVKZjIzZWVrSGJCYzYyajZEY1pIenFIaWZN?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXZzOGM3VzdUaFY3emZPNTZUeHl2eDlnSFAzcjdvTmllYlloR2Y3LWlJQ2dwb2VhYmJrT3l0Y05QYmxsSi0tUjhpLUdWZjB6Z1pCdUJoMmNnS0VvekxVV2ljcEoycVduNkNUY2pZQUR6bUNibWE1WUF5OGZzQThuZnZCLWI2SFNyeDVLV0VNYlU5ZG1ER0E1cHpRYw?oc=5)
+
+---
+
+### [A new biotech startup tries to tackle obesity, but not in the way you might expect](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVlOb3NMMUo5aXRjS0Q3UVY3MGZad0x4WVhIaHY0ZTU0MTR0bGpVcHJudlhvYXlWZDlkeTVGMFVuTkpOdHBLZ29iakFEUEJaTDJCLUhxUVRxLVk4ckdPM2YtOW11d2phUHk2NDdtNm5CSzdSc1B1NWlIVXJwNXkya1Y4eE5XZUhqNDRZ?oc=5)
+
+2026-07-15 <span class="news-indication-tag">obesity</span>
+
+來源：[STAT](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVlOb3NMMUo5aXRjS0Q3UVY3MGZad0x4WVhIaHY0ZTU0MTR0bGpVcHJudlhvYXlWZDlkeTVGMFVuTkpOdHBLZ29iakFEUEJaTDJCLUhxUVRxLVk4ckdPM2YtOW11d2phUHk2NDdtNm5CSzdSc1B1NWlIVXJwNXkya1Y4eE5XZUhqNDRZ?oc=5)
 
 ---
 

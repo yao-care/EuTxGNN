@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Ictus, una vita sessuale soddisfacente dopo l’evento acuto è possibile](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdXFzRTVwZHBIdlZqUURoQ1hEY2FSUDdocUt6aTY3TGZjLVd6YWk1THFZdkhnYkJfQkpncTh6ZEJscjd0a1pmSlk5MXNtcnBFVFUtOGY5RU1uVGdRN3lqWTh30gFnQVVfeXFMTkkycXpYd3RjRHlmZmUwZjM0ZlFUUm1HYUsxSUI3NE9pdVZiYmVoVGlZd3N0Ql9qTzFCMWJTYVhjMzJ0U1dBWW96M1BtNUtldXEzOTJfZUJvUTBuUHA3OWNQSE42UGZRbw?oc=5)
 
@@ -54,14 +54,6 @@ permalink: /news/stroke/
 2026-07-15
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWh4cDNfUFVEUjVoOHFHcmJzY1AtMGl0a2gzeE1NbGJWNmExcU9MZHROdkZfTkpfbEVsanhVa1hnODZuTjB2MklNSWVBUFp6R0s5MUNQV1F4VGpoNUs5QjNaSnJxZ184SHNSTG5aNFJSOTJ6UzlFWmJoeHQtR0tKbXVnZG1QcVNFOHF5Q3lUV3hFMkdzbF9VVjlMSnNZSXFMYVRReGVlM1pISUtKZTNycFhrOUIzYy04b193R3h4dFlaLVg4VHAwTHhYTllNQVpGZms5OFYyNA?oc=5)
-
----
-
-### [Vitamin K: Neue Studien belegen Schutz vor Herzinfarkt und Schlaganfall - Ad Hoc News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5NZk1aQUxDWGREYV82NDluSERlQlF2bzB1T1k3LWY1RVI1ZzNRWGhLRnZLcDVSQ0RyRHl6VW04dHFVS2xDZjlIT0t6S0RFbjl4a1BCXzR5VmtvZGdmMmVkNEFYWU9OcHY1aEJ3UnpxZlZHbmlnc3hkQmR6S2ZIcjZ4OHRQZ1FzWmZEREdhZEZ0ZUluV3BUd3UxQWtMVUo1eTBNNV81cnpsX3g5cWttX3RhdTNxNms4RnRZ?oc=5)
-
-2026-07-14
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5NZk1aQUxDWGREYV82NDluSERlQlF2bzB1T1k3LWY1RVI1ZzNRWGhLRnZLcDVSQ0RyRHl6VW04dHFVS2xDZjlIT0t6S0RFbjl4a1BCXzR5VmtvZGdmMmVkNEFYWU9OcHY1aEJ3UnpxZlZHbmlnc3hkQmR6S2ZIcjZ4OHRQZ1FzWmZEREdhZEZ0ZUluV3BUd3UxQWtMVUo1eTBNNV81cnpsX3g5cWttX3RhdTNxNms4RnRZ?oc=5)
 
 ---
 

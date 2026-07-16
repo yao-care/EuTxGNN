@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（15 則）
+
+### [(S+) Erst schwere Grippe, dann Infarkt: Was Fachleute raten](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVZwZXNUNXNHZ2d2T2VfcE9WenFKaTVvbVZaeUppN2JmR1BQWWwwOV9UYWRuT05aYk4tUEUzR1R2ajdPN29SR1FaSGQ2dHIyMFlCTkstMEdiQnlPbmFia1p4eVVtWjI4djdfQU9XRnNweFVpbGZhOXdIT280YTlXOUttOUpCRm1pcUoyZE1WVTRBcHVaWTBaVWhjdnVwZnFHRXJWenA3Y19rbjdkRVc3Q2FfQ1FNRFZKVlpRMlVIamVQaURYOV83TzhqZURuUGFsQUJ3?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[Spiegel](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVZwZXNUNXNHZ2d2T2VfcE9WenFKaTVvbVZaeUppN2JmR1BQWWwwOV9UYWRuT05aYk4tUEUzR1R2ajdPN29SR1FaSGQ2dHIyMFlCTkstMEdiQnlPbmFia1p4eVVtWjI4djdfQU9XRnNweFVpbGZhOXdIT280YTlXOUttOUpCRm1pcUoyZE1WVTRBcHVaWTBaVWhjdnVwZnFHRXJWenA3Y19rbjdkRVc3Q2FfQ1FNRFZKVlpRMlVIamVQaURYOV83TzhqZURuUGFsQUJ3?oc=5)
+
+---
+
+### [La OMS actualiza sus directrices para prevenir o retrasar hasta el 45% de los casos de demencia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
+
+---
 
 ### [Fatty liver disease symptoms in the bathroom that mean the condition has progressed, according to a doctor - GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
 
 2026-07-16 <span class="news-indication-tag">MS</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
+
+---
+
+### [Paralysed man regains hand function through novel brain technology - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5)
+
+---
+
+### [OMS : 45% des risques de démence évitables par des actions préventives - 20 Minuten](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWU42WGUxa2NzVmlCV2pOVlRiVU1QY1hNZkV0aEdGbEdKdmZpMDBKYUJCOWRhSnRFSWNZaDRmdEdKaHlwelh5ZV9jdWwtUzhheXNzYW9jbFFoOVZBYkdYM0k0T3lVNjRicFpPVzcwbU5BazB0aTV4cEp1dkktbkdGQVE0ZWc5alB0WGJfLW5HekdpQU9RWGxJVmtoc0ZpdEU2am1KaXJwNXN4MmFFdEdn?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[20 Minuten](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWU42WGUxa2NzVmlCV2pOVlRiVU1QY1hNZkV0aEdGbEdKdmZpMDBKYUJCOWRhSnRFSWNZaDRmdEdKaHlwelh5ZV9jdWwtUzhheXNzYW9jbFFoOVZBYkdYM0k0T3lVNjRicFpPVzcwbU5BazB0aTV4cEp1dkktbkdGQVE0ZWc5alB0WGJfLW5HekdpQU9RWGxJVmtoc0ZpdEU2am1KaXJwNXN4MmFFdEdn?oc=5)
+
+---
+
+### [NHS symptoms list as people told go to hospital 'straight away' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzd4OG40OWdDSkVBSTFSOTI3OUd1VHFKbklNYjdCdF85dXo3VWY5UVB5ZXczVDdPX0ZhQTItbXRRc2NXRk9KVExMeDNqcWZRdTVnenZjaVZjUDVZaURuVGIwc0hXeDBySjdOVTJSNTFkMTZxeHhRSWlGYVZRM2VPdtIBhgFBVV95cUxQcmdJNFdhZEhRSG9sX0FUVWFRUGdjVXdCa0tFeFVFVDREdlo4cjZ5NEhJMEM0T2JZd1lELWdSUlk0VlNOcTNqRDlZMVljVVNCN21Fd09Sd0lxWVJXUEVSOFllUlRaYXhNdkZqMkpQSGhNQ2QxRmhYX284MFJBdGRPemhBYnUxUQ?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzd4OG40OWdDSkVBSTFSOTI3OUd1VHFKbklNYjdCdF85dXo3VWY5UVB5ZXczVDdPX0ZhQTItbXRRc2NXRk9KVExMeDNqcWZRdTVnenZjaVZjUDVZaURuVGIwc0hXeDBySjdOVTJSNTFkMTZxeHhRSWlGYVZRM2VPdtIBhgFBVV95cUxQcmdJNFdhZEhRSG9sX0FUVWFRUGdjVXdCa0tFeFVFVDREdlo4cjZ5NEhJMEM0T2JZd1lELWdSUlk0VlNOcTNqRDlZMVljVVNCN21Fd09Sd0lxWVJXUEVSOFllUlRaYXhNdkZqMkpQSGhNQ2QxRmhYX284MFJBdGRPemhBYnUxUQ?oc=5)
 
 ---
 
@@ -78,14 +118,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [DRC Ebola cases surpass 2,000 as more health workers begin strike - Al Jazeera](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2Ffd3UxS1hhS0s4bzZlbjBpOGVkRVRTbUlDQUFsa19GT0h4RVc1NVdRZWRkc0tXdm1wa2xMamhYT2tWM3Joa1pVYjFGVWpYUXl6dGdkekQzLVVyNUFzVzRSYmRDZEk4cXZLRTdvZjlHZmQ0LVVVZ2w4MVl5dkxoS2pTR3ZGbXJULUNWUDFBdlZlNmVUdDJvN09WZ0MzeHN3UF9tRlFpUlfSAa4BQVVfeXFMTkpOS1A4aTk5VFVwTWpZc3J6akVaZjA0Vk14bWpnMkdmTzhCU20wUjkzd0dweWNpbjRPY2VnWmFEbm5RWDUyekVtb0dIUDNVa1RzcE9NeGdzbGZpOHliVmNzQTlVbE1fT05YZHZmVklXUXFQVTlzbWpzQWc5QTAtNjB2SmFweHo4UEZ4eDkxbHlIV25FcUs3cXhtYnIxUDY1TnV2WVJWLXRuSmNqSzZn?oc=5)
-
-2026-07-15 <span class="news-indication-tag">MS</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2Ffd3UxS1hhS0s4bzZlbjBpOGVkRVRTbUlDQUFsa19GT0h4RVc1NVdRZWRkc0tXdm1wa2xMamhYT2tWM3Joa1pVYjFGVWpYUXl6dGdkekQzLVVyNUFzVzRSYmRDZEk4cXZLRTdvZjlHZmQ0LVVVZ2w4MVl5dkxoS2pTR3ZGbXJULUNWUDFBdlZlNmVUdDJvN09WZ0MzeHN3UF9tRlFpUlfSAa4BQVVfeXFMTkpOS1A4aTk5VFVwTWpZc3J6akVaZjA0Vk14bWpnMkdmTzhCU20wUjkzd0dweWNpbjRPY2VnWmFEbm5RWDUyekVtb0dIUDNVa1RzcE9NeGdzbGZpOHliVmNzQTlVbE1fT05YZHZmVklXUXFQVTlzbWpzQWc5QTAtNjB2SmFweHo4UEZ4eDkxbHlIV25FcUs3cXhtYnIxUDY1TnV2WVJWLXRuSmNqSzZn?oc=5)
-
----
-
 ### [Oms, un caso di demenza su due può essere evitato: ecco le nuove linee guida - la Repubblica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUtnZFZwN3dibEM3M2hJNVpLWFUwRHV5eXc0VUJhNE92Q0xEcVM1Q1ZzMDMtODhPMnVwa3hiUnV4SXp6emZIaUpRRFdTc1R3bEh3MzUxbnhCWWppc3dwZElhUGZFWUFIcFR3M1ZEZUx6a3hlN05UV3FXN24tNDBJbUxGckwzTFhwaXdZMGZ5am4wZGJENHRZMDJreGJodXpKbnppeWF1dmJkZ285X21LRktTSFFfaWpHZWk3dy00T3IzUVBmVXExcDAxQ0ZTdGfSAdQBQVVfeXFMTWFEck5vNFhTNm1zb21QS1B4dEVBY0dmOU4yZUhwd1FHTkhxSkRKNWFfUVdWTE5Sd2xCenpnY0VoVDhBM0ZFNFNBNURXZk50V1hhWXFhSi15NjN3VWlHdHloZUVhSlFzajFienpGdlFVT2FoNUpGeC1mbG9CeVBXNlNNc2MtMHNjek1jY2wwMWkxbXEtNGduZDhXU1BxWl9IM2pHdzR5MVFscE5tY3BpY01YVklmbUh2NWVNQkQtLTBWUnVuZjNFS05tQkZEemU5ZWM1WXc?oc=5)
 
 2026-07-15 <span class="news-indication-tag">MS</span>
@@ -94,11 +126,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Zanzare, quali sono i repellenti più efficaci? - Corriere della Sera](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSk1lWUxtMGZWbTNVU1RSV2FLN1RPZXNUM3RMQ1RFTENZUjE1eDdmellDVGNUMmFsSmZnbkZnV24xTXk1bzF6SXhsMVQwLW81Mlhfd2VWbEtCY3RoRG1hd1VQNGdqSVF4Y1BJU2xWMkVTYy10TzZUT1FjVEdHUXpMOG1DQWdLYVF2NUU2QnlGaUN2SjlEQ0FVd3V1akYxZmV1X3ZGUkVPcndTZ0FfUVJ1UzZQM0bSAboBQVVfeXFMTjZ5djFxWlA1YW5Md2FORlU4c1Rpc2ZJa1lZSGhwdnVhME5BekxZQnlPd3VOWXZZeWNLYjI1eFNiVDNoTTFMc0RqamdkSlhMdUoxYTluMy12RHZQQU1fbmJOM2Frb0Nia1E2Q2pUVW9zZmNyQVZJX3lKcXNHX1RHQjZhT0dncUFkQXNjNDlYc3ltTFdEUHlzR2VEYnU4bzRuVmRMT1NHbnhBajVUcU5VVkNETGRvdjI5TEpn?oc=5)
+### [Alzheimer : les troubles de la mémoire ne seraient pas le premier signe, mais ce changement de comportement - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVVhEdFBIRU04SHJxOFJKcHdncjN1a2ctLVo4TGh1TTB5bEhrelFVV3FBcDIyVGhaRko5ZDV1SEdOd1JlaVVLSlI5OVhMMDM2QmotNnJwOURTWWxuNEVPQUtPeG12Z2xKQTVwallmX1Vyd3BjWmdaTnU5VmlKMWdDamU0bzFVX1NxeTVJY3VnaEdLM1lIOVhIM2gtMU1HclNDU2ZsNGg2UUQwejJKcHllbzNGN2xHZVpRT0M2WFNZY1Vyb09aeUtOTmIweGQ2T3hXTTVjZktSbVE3MFZnMHkxU1RMT0NJcENObUVZS2hiYXNqQzh4LWc?oc=5)
 
 2026-07-15 <span class="news-indication-tag">MS</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSk1lWUxtMGZWbTNVU1RSV2FLN1RPZXNUM3RMQ1RFTENZUjE1eDdmellDVGNUMmFsSmZnbkZnV24xTXk1bzF6SXhsMVQwLW81Mlhfd2VWbEtCY3RoRG1hd1VQNGdqSVF4Y1BJU2xWMkVTYy10TzZUT1FjVEdHUXpMOG1DQWdLYVF2NUU2QnlGaUN2SjlEQ0FVd3V1akYxZmV1X3ZGUkVPcndTZ0FfUVJ1UzZQM0bSAboBQVVfeXFMTjZ5djFxWlA1YW5Md2FORlU4c1Rpc2ZJa1lZSGhwdnVhME5BekxZQnlPd3VOWXZZeWNLYjI1eFNiVDNoTTFMc0RqamdkSlhMdUoxYTluMy12RHZQQU1fbmJOM2Frb0Nia1E2Q2pUVW9zZmNyQVZJX3lKcXNHX1RHQjZhT0dncUFkQXNjNDlYc3ltTFdEUHlzR2VEYnU4bzRuVmRMT1NHbnhBajVUcU5VVkNETGRvdjI5TEpn?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVVhEdFBIRU04SHJxOFJKcHdncjN1a2ctLVo4TGh1TTB5bEhrelFVV3FBcDIyVGhaRko5ZDV1SEdOd1JlaVVLSlI5OVhMMDM2QmotNnJwOURTWWxuNEVPQUtPeG12Z2xKQTVwallmX1Vyd3BjWmdaTnU5VmlKMWdDamU0bzFVX1NxeTVJY3VnaEdLM1lIOVhIM2gtMU1HclNDU2ZsNGg2UUQwejJKcHllbzNGN2xHZVpRT0M2WFNZY1Vyb09aeUtOTmIweGQ2T3hXTTVjZktSbVE3MFZnMHkxU1RMT0NJcENObUVZS2hiYXNqQzh4LWc?oc=5)
 
 ---
 
@@ -123,14 +155,6 @@ permalink: /news/ledipasvir/
 2026-07-15 <span class="news-indication-tag">MS</span>
 
 來源：[Diebewertung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHpGTVdITDNoeDFVQkMwaUlHRVBuMUhDRF9tNDlycnlCalNvVERUUmgzQlFhNHE5Ry1lUVFBTGw0S1hYeG5QN2F5TWhBVUpzMHl2aFl5OWtxTGVDUDY0SUNMWi13RjNHWGUwTGU2eE5XYXlwVVBrOVZaUE0yYVZrU09yVTVkSDU5ZUdvWlN0aFpzYUoyWVJrZXRVWk11YWh0cjB2Z2FNOXJlM01qbnp6WQ?oc=5)
-
----
-
-### [Grave dato sobre las vacunas y los niños en Argentina: sólo Haití, Venezuela, Surinam y Bolivia figuran peor](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdUQ2dVo3Y19QLXNYeGhDclRrU0xGOHVOY0VVV2N2VmJIVmpYTTRTdkhlbXBUcng5MHdnQkdaamswSlZyZjJOR09YcS1VcnFpNDBPUUxkQ09tMGFQcXNmdF8wbGZTUHVNaDNkR3hidmtDTHhDOHRUclBFcHlWVHpZbDMzeW45aFY3R1A2Z2lNRDNKZFhlUzM2LWZsckhPSzY1QmNqV1dRWC1tazNqVWF6WmNQbzYtbWVpV2wwckFnVHlXRlJrZXhiX2ptV3RJeEE?oc=5)
-
-2026-07-15 <span class="news-indication-tag">MS</span>
-
-來源：[Clarin.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdUQ2dVo3Y19QLXNYeGhDclRrU0xGOHVOY0VVV2N2VmJIVmpYTTRTdkhlbXBUcng5MHdnQkdaamswSlZyZjJOR09YcS1VcnFpNDBPUUxkQ09tMGFQcXNmdF8wbGZTUHVNaDNkR3hidmtDTHhDOHRUclBFcHlWVHpZbDMzeW45aFY3R1A2Z2lNRDNKZFhlUzM2LWZsckhPSzY1QmNqV1dRWC1tazNqVWF6WmNQbzYtbWVpV2wwckFnVHlXRlJrZXhiX2ptV3RJeEE?oc=5)
 
 ---
 

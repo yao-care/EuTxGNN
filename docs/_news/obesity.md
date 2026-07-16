@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,14 +38,6 @@ permalink: /news/obesity/
 
 ## 相關新聞（5 則）
 
-### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
-
-2026-07-16
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
-
----
-
 ### [La relación entre obesidad y dislipemias: "Está en la base fisiopatológica de la mayoría de los factores de riesgo cardiovascular" - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
 
 2026-07-16
@@ -54,11 +46,19 @@ permalink: /news/obesity/
 
 ---
 
-### [¿Medicamentos contra la obesidad y apoyo al estilo de vida?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
+### [Pillola per dimagrire, via libera in Europa: come funzionerà il nuovo farmaco (che può sostituire le iniezioni) - Il Messaggero](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3llWF82WFNHQ3ZIU083RDVvNHZaUnEwMTEzU1ZsN0M3clI5R01NNk5hME1DZTg0ajhoRWNUQVRMUkVJVTNHUmdYSTV2VUE2aExsR1otVGZSTFpvSHVWRjRWazQ4QVhRTEIzdks0b0FOQWZVMUh3eE1wTUtrdEhMNkF6RWd4amFlTkh1QjU5WnR1QzBCaXdfR1lQd0UySnA0SzBtdjJOaFdrZ3RzM0FxTE8yMkJ5d9IBrwFBVV95cUxQWUFlWW1KREREa1BUZ1QwRXU4aEpUd1VkQ2xvVU9SdWxQcGRiUVNHZEJHa2RiU0tUY05kMVJwUEJGdWVGaGVVckdueEw5Nmg1R0ZZeTBPY2JyeVZJU0NrZFc0N09aSGxTeDdlOE4tT0VzS2ZOOFN5MXgyRnFoUDlpdlk3MXVlbFhsb1BFQU5nMW1TRVN3c2dITm81NlhBcHZGYUsxQUd6Zkg3MTRQQTdz?oc=5)
 
 2026-07-16
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3llWF82WFNHQ3ZIU083RDVvNHZaUnEwMTEzU1ZsN0M3clI5R01NNk5hME1DZTg0ajhoRWNUQVRMUkVJVTNHUmdYSTV2VUE2aExsR1otVGZSTFpvSHVWRjRWazQ4QVhRTEIzdks0b0FOQWZVMUh3eE1wTUtrdEhMNkF6RWd4amFlTkh1QjU5WnR1QzBCaXdfR1lQd0UySnA0SzBtdjJOaFdrZ3RzM0FxTE8yMkJ5d9IBrwFBVV95cUxQWUFlWW1KREREa1BUZ1QwRXU4aEpUd1VkQ2xvVU9SdWxQcGRiUVNHZEJHa2RiU0tUY05kMVJwUEJGdWVGaGVVckdueEw5Nmg1R0ZZeTBPY2JyeVZJU0NrZFc0N09aSGxTeDdlOE4tT0VzS2ZOOFN5MXgyRnFoUDlpdlk3MXVlbFhsb1BFQU5nMW1TRVN3c2dITm81NlhBcHZGYUsxQUd6Zkg3MTRQQTdz?oc=5)
+
+---
+
+### [A new biotech startup tries to tackle obesity, but not in the way you might expect](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVlOb3NMMUo5aXRjS0Q3UVY3MGZad0x4WVhIaHY0ZTU0MTR0bGpVcHJudlhvYXlWZDlkeTVGMFVuTkpOdHBLZ29iakFEUEJaTDJCLUhxUVRxLVk4ckdPM2YtOW11d2phUHk2NDdtNm5CSzdSc1B1NWlIVXJwNXkya1Y4eE5XZUhqNDRZ?oc=5)
+
+2026-07-15
+
+來源：[STAT](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVlOb3NMMUo5aXRjS0Q3UVY3MGZad0x4WVhIaHY0ZTU0MTR0bGpVcHJudlhvYXlWZDlkeTVGMFVuTkpOdHBLZ29iakFEUEJaTDJCLUhxUVRxLVk4ckdPM2YtOW11d2phUHk2NDdtNm5CSzdSc1B1NWlIVXJwNXkya1Y4eE5XZUhqNDRZ?oc=5)
 
 ---
 
