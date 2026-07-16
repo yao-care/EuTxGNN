@@ -70,11 +70,11 @@ permalink: /news/pretomanid/
 
 ---
 
-### [Loneliness strongly linked to poorer mental health and well-being, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+### [Parodontitis kann die Herzklappe schädigen – Forscher entdecken gefährlichen Zusammenhang - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3dhYTFRQnRONFVTX0R6UTc5M3hBVXBFWEEtd2h4eWpaTE9iWjRoMW9pMDRvRzlnbHZxa0NQNFVMTGhTZF8yUFgzbG9fVGlQZXA0NVhxRXVmQTRib3VYdm1vU1FMaVFWdndhN0tnLXFySzVYT1o4eUpzWjdXRFpqa3p3MFFFY1VUSlZqVlRCczVxbWIwT21GWmY1WUlQT18xLWE5UEQ0WUk0ejMtR1VUa3dMTzBnUHcwS2RhX2dtUENUMTNMempRR1hGZw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-15 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3dhYTFRQnRONFVTX0R6UTc5M3hBVXBFWEEtd2h4eWpaTE9iWjRoMW9pMDRvRzlnbHZxa0NQNFVMTGhTZF8yUFgzbG9fVGlQZXA0NVhxRXVmQTRib3VYdm1vU1FMaVFWdndhN0tnLXFySzVYT1o4eUpzWjdXRFpqa3p3MFFFY1VUSlZqVlRCczVxbWIwT21GWmY1WUlQT18xLWE5UEQ0WUk0ejMtR1VUa3dMTzBnUHcwS2RhX2dtUENUMTNMempRR1hGZw?oc=5)
 
 ---
 

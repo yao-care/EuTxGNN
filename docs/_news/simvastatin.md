@@ -54,11 +54,11 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（3 則）
 
-### [Loneliness strongly linked to poorer mental health and well-being, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+### [Ictus, una vita sessuale soddisfacente dopo l’evento acuto è possibile](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdXFzRTVwZHBIdlZqUURoQ1hEY2FSUDdocUt6aTY3TGZjLVd6YWk1THFZdkhnYkJfQkpncTh6ZEJscjd0a1pmSlk5MXNtcnBFVFUtOGY5RU1uVGdRN3lqWTh30gFnQVVfeXFMTkkycXpYd3RjRHlmZmUwZjM0ZlFUUm1HYUsxSUI3NE9pdVZiYmVoVGlZd3N0Ql9qTzFCMWJTYVhjMzJ0U1dBWW96M1BtNUtldXEzOTJfZUJvUTBuUHA3OWNQSE42UGZRbw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-15 <span class="news-indication-tag">ictus</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+來源：[DiLei](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdXFzRTVwZHBIdlZqUURoQ1hEY2FSUDdocUt6aTY3TGZjLVd6YWk1THFZdkhnYkJfQkpncTh6ZEJscjd0a1pmSlk5MXNtcnBFVFUtOGY5RU1uVGdRN3lqWTh30gFnQVVfeXFMTkkycXpYd3RjRHlmZmUwZjM0ZlFUUm1HYUsxSUI3NE9pdVZiYmVoVGlZd3N0Ql9qTzFCMWJTYVhjMzJ0U1dBWW96M1BtNUtldXEzOTJfZUJvUTBuUHA3OWNQSE42UGZRbw?oc=5)
 
 ---
 

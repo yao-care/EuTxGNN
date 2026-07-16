@@ -54,19 +54,43 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（8 則）
 
+### [SGLT2-Hemmer: Blutdrucksenker schützen auch vor Alzheimer um 43% - Ad Hoc News](https://news.google.com/rss/articles/CBMivAFBVV95cUxObDhMejRRSktOS2NpVkRMdjNnaVlrVU5Oa1hVeWNxRllsSWtBOXUwejM1WnFBVFRobEI2NnNoU0dHR0UyN0pkSnhXdUVCZURtdHhDM3l5MktZTFcwcFUtMjJoLUI5V09NV1RLUGdSelhocTRieXFFb1k2Qm8wT0NfVEprZ0NrdG01U2FFbUJFWGc0Q2M3eXFtWjVUa0p1T3Q2dUpoSVA2cWZsSUFJYVRPME85eC1CY3Z5aWlMag?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMivAFBVV95cUxObDhMejRRSktOS2NpVkRMdjNnaVlrVU5Oa1hVeWNxRllsSWtBOXUwejM1WnFBVFRobEI2NnNoU0dHR0UyN0pkSnhXdUVCZURtdHhDM3l5MktZTFcwcFUtMjJoLUI5V09NV1RLUGdSelhocTRieXFFb1k2Qm8wT0NfVEprZ0NrdG01U2FFbUJFWGc0Q2M3eXFtWjVUa0p1T3Q2dUpoSVA2cWZsSUFJYVRPME85eC1CY3Z5aWlMag?oc=5)
+
+---
+
+### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
+
+2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
+
+---
+
+### [Warum Frauen mit Diabetes besonders belastet sind - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+
+---
+
+### [Orchideen-Stoff Saligenin und Low-Carb: Neue Wege gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZrM3lCY1NzSlpxVm10UWxfR0dXNHpiOG9LUW03LThHd1BUc2JoQ1FraDcyM2ZlVXM0d3A3UFpnLVBmNFhiOXloekJvM3FJcGlpV1N5M0dfRFNKQnNLX1BnZUFxQnJZenVtcjU2QXBJM3ZrUkt6d29QVUx6WU1WWUJhNnV1TG9zVG9wd2ZWNmpSenNtbTdINW0tb1lDd2RCQU5Z?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZrM3lCY1NzSlpxVm10UWxfR0dXNHpiOG9LUW03LThHd1BUc2JoQ1FraDcyM2ZlVXM0d3A3UFpnLVBmNFhiOXloekJvM3FJcGlpV1N5M0dfRFNKQnNLX1BnZUFxQnJZenVtcjU2QXBJM3ZrUkt6d29QVUx6WU1WWUJhNnV1TG9zVG9wd2ZWNmpSenNtbTdINW0tb1lDd2RCQU5Z?oc=5)
+
+---
+
 ### [Trescientos pacientes del Chuvi reciben los primeros fármacos específicos para combatir las migrañas - Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
 
 2026-07-16 <span class="news-indication-tag">migraña</span>
 
 來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
-
----
-
-### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
 
 ---
 
@@ -86,35 +110,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Bei Typ-2-Diabetes lohnt sich Low Carb - Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RQSHhJOTFMQ1RUZl9hTF9NanhqYVcxX1AzZjVDOHk2SXo5NnAtalJPWWhhZW5Gcm5DODNuOGxmSUxfdkNSRmNGM0lHM2NTSHFKMTk4RnRfenUta2RoWmRSLWk0Y1c4SV9oUUJDY0szOUdWRmlPZkJISDhUZjFybmYtNTRQNmlJQVV1c0VHajctd2U2ZndfOXJHR0l0c3BudU1ObDVXX2tiQnM?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RQSHhJOTFMQ1RUZl9hTF9NanhqYVcxX1AzZjVDOHk2SXo5NnAtalJPWWhhZW5Gcm5DODNuOGxmSUxfdkNSRmNGM0lHM2NTSHFKMTk4RnRfenUta2RoWmRSLWk0Y1c4SV9oUUJDY0szOUdWRmlPZkJISDhUZjFybmYtNTRQNmlJQVV1c0VHajctd2U2ZndfOXJHR0l0c3BudU1ObDVXX2tiQnM?oc=5)
-
----
-
 ### [One in four adults has metabolic syndrome – and it may be ageing their brains - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
-
----
-
-### [Kampf gegen Mangelernährung im Krankenhaus - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
-
----
-
-### [Diabete tipo 2, orforglipron e semaglutide orale a confronto. Ecco che cosa emerge](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
-
-2026-07-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Doctor33](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
 
 ---
 

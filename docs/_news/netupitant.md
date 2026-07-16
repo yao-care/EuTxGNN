@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="Netupitant 有什麼相關新聞？">
-<strong>Netupitant</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Netupitant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/netupitant/
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology](https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5)
 
 2026-07-16 <span class="news-indication-tag">cardiovascular disease</span>
 
 來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5)
+
+---
+
+### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
+
+2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/netupitant/
 
 ---
 
-### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
-
----
-
 ### [Bluthochdruck-Therapie: AHA und ACC vereinen Herz, Niere, Stoffwechsel - Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
@@ -94,19 +94,11 @@ permalink: /news/netupitant/
 
 ---
 
-### [Loneliness strongly linked to poorer mental health and well-being, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+### [Parodontitis kann die Herzklappe schädigen – Forscher entdecken gefährlichen Zusammenhang - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3dhYTFRQnRONFVTX0R6UTc5M3hBVXBFWEEtd2h4eWpaTE9iWjRoMW9pMDRvRzlnbHZxa0NQNFVMTGhTZF8yUFgzbG9fVGlQZXA0NVhxRXVmQTRib3VYdm1vU1FMaVFWdndhN0tnLXFySzVYT1o4eUpzWjdXRFpqa3p3MFFFY1VUSlZqVlRCczVxbWIwT21GWmY1WUlQT18xLWE5UEQ0WUk0ejMtR1VUa3dMTzBnUHcwS2RhX2dtUENUMTNMempRR1hGZw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-15 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
-
----
-
-### [Popular Childhood Drinks Linked to Higher Blood Pressure Later in Life](https://news.google.com/rss/articles/CBMinAFBVV95cUxPejBRS0MtUVh5UDJtZ2l6RmYxcF85WWp4MjJYcFlrZ0Fqa1NkWDN0WDMyakZvSFRlSlBldl9pMUdoRmR3eWJ2YTc4TFB4UkhMeFlhanJERkhqaDd4VUhKYjF4bVFTSTVITHc4YUppa3ZUa3RPM1FVNENEcU5HQlRaek1vdUsyZ0gwYjcta0szOFFiN3JsM2RaNi02Mm4?oc=5)
-
-2026-07-14 <span class="news-indication-tag">hypertension</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinAFBVV95cUxPejBRS0MtUVh5UDJtZ2l6RmYxcF85WWp4MjJYcFlrZ0Fqa1NkWDN0WDMyakZvSFRlSlBldl9pMUdoRmR3eWJ2YTc4TFB4UkhMeFlhanJERkhqaDd4VUhKYjF4bVFTSTVITHc4YUppa3ZUa3RPM1FVNENEcU5HQlRaek1vdUsyZ0gwYjcta0szOFFiN3JsM2RaNi02Mm4?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3dhYTFRQnRONFVTX0R6UTc5M3hBVXBFWEEtd2h4eWpaTE9iWjRoMW9pMDRvRzlnbHZxa0NQNFVMTGhTZF8yUFgzbG9fVGlQZXA0NVhxRXVmQTRib3VYdm1vU1FMaVFWdndhN0tnLXFySzVYT1o4eUpzWjdXRFpqa3p3MFFFY1VUSlZqVlRCczVxbWIwT21GWmY1WUlQT18xLWE5UEQ0WUk0ejMtR1VUa3dMTzBnUHcwS2RhX2dtUENUMTNMempRR1hGZw?oc=5)
 
 ---
 

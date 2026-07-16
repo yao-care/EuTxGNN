@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El ejercicio físico se confirma como el gran protector del cerebro frente a la demencia y la depresión](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUVNWUV0WDVKdF9YVDhmMGFTNVpacmtKMmRtY1FNZ0dtNFJ6cF85S2R2OFBvaGNLTjYzNVBwNmZJTWd0cDVyWFlvaFRSZ2NFNzZocFBYdHpqZDZELWtiMkhJZWNRanVyNnNCaklMWThfdy1YTG10VV9DQldKd2JxWGlkejVaOGhDSXVoX3ZlU2s4MFFTRVBuVUN6N21GRzlpeDUwN1c4N2tVVEZia1ZBTklmQXpnMzM1UkpsOF9kcnczZmZ5djl4RkZUOUdaYTNMWTZUaUF3dWY5YjhyRWxWc2R3aDljdHo3LW9SNDdKbUw3QXFFUGhHSlNGdklOMEnSAYQCQVVfeXFMTTBjUmxHM0NJVm5VenRQOEJJRlJmeHpUQ2MxempuTGN5N0IyWWtlNktvUy1JdnQxY0hiY0pCMV9RdnJ4N3I0cEtoc2lKbWNWeWdSNFdVUWNFanptYUxheFFKZ2RWd0M4N0NIelk2UERSU2oyV1ZEeTNiS3FOUHE0MHdYRUl3bTFMem1ITFo5eUZJSVo0eEQzc3BDVHNoR1FVbkJkTURpN29vY3Z4VTF6WnRCek5kSzlpcVRzRnYzeXlJZHd1X3A5NnVicUV2M1JUal9Eb0JYWFFYMHh3MTJ2RzNPMXgxUmRWUlZZU2NCdENuR3g2TlNIdElOSUtHcWtSSmlFT0o?oc=5)
 
 2026-07-16 <span class="news-indication-tag">depresión</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUVNWUV0WDVKdF9YVDhmMGFTNVpacmtKMmRtY1FNZ0dtNFJ6cF85S2R2OFBvaGNLTjYzNVBwNmZJTWd0cDVyWFlvaFRSZ2NFNzZocFBYdHpqZDZELWtiMkhJZWNRanVyNnNCaklMWThfdy1YTG10VV9DQldKd2JxWGlkejVaOGhDSXVoX3ZlU2s4MFFTRVBuVUN6N21GRzlpeDUwN1c4N2tVVEZia1ZBTklmQXpnMzM1UkpsOF9kcnczZmZ5djl4RkZUOUdaYTNMWTZUaUF3dWY5YjhyRWxWc2R3aDljdHo3LW9SNDdKbUw3QXFFUGhHSlNGdklOMEnSAYQCQVVfeXFMTTBjUmxHM0NJVm5VenRQOEJJRlJmeHpUQ2MxempuTGN5N0IyWWtlNktvUy1JdnQxY0hiY0pCMV9RdnJ4N3I0cEtoc2lKbWNWeWdSNFdVUWNFanptYUxheFFKZ2RWd0M4N0NIelk2UERSU2oyV1ZEeTNiS3FOUHE0MHdYRUl3bTFMem1ITFo5eUZJSVo0eEQzc3BDVHNoR1FVbkJkTURpN29vY3Z4VTF6WnRCek5kSzlpcVRzRnYzeXlJZHd1X3A5NnVicUV2M1JUal9Eb0JYWFFYMHh3MTJ2RzNPMXgxUmRWUlZZU2NCdENuR3g2TlNIdElOSUtHcWtSSmlFT0o?oc=5)
-
----
-
-### [Rapid magnetic brain stimulation eases depression within days, but benefits fade within weeks - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
-
-2026-07-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
 
 ---
 

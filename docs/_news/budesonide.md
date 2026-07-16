@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Enrobées de sucre, ces nanoparticules affament une tumeur cérébrale mortelle](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUE4wVnJhUFRLUGk4d1pPWVFzX0t0LXdOWk43MWVTRXI2b2dIWXo2aVBTSERybUU1cm1lZkkxSXVfYlhrYTg2T2s5dDdDX0Q0RHFEMnBkRFJFN3VfZXJwVEkyUFU3aC1iZzdtMkF5dmpMczZYbEZPRGFEbmlXRTIwVzg4WUpHM0JoVzQ2N0hMR3JfV01yY1h4bXpDbVZZeUxU?oc=5)
+
+2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUE4wVnJhUFRLUGk4d1pPWVFzX0t0LXdOWk43MWVTRXI2b2dIWXo2aVBTSERybUU1cm1lZkkxSXVfYlhrYTg2T2s5dDdDX0Q0RHFEMnBkRFJFN3VfZXJwVEkyUFU3aC1iZzdtMkF5dmpMczZYbEZPRGFEbmlXRTIwVzg4WUpHM0JoVzQ2N0hMR3JfV01yY1h4bXpDbVZZeUxU?oc=5)
+
+---
+
+### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
+
+2026-07-15 <span class="news-indication-tag">asma</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
+
+---
 
 ### [Rhinoviren bei Asthma im Fokus - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0ctS2JfeFlZQ1BjYU9fS0xtZ3lxdGNvZWdVdzNhLUVtbzgwNEpGNl96eERmMnZUQkJTamxPWGwweTFGSjVLc3Qta1BGYzBuaVdVaGtoVXNvOXBhX0ladlU0ZjlhSTg0dkFsSkNGbGdYUWVBamNUdFdjQTlFaUdKOE1fU1VUT1Vvb0VXbnRENUlISkU4RDUwSTN3N19icFJHM1hMcUln?oc=5)
 

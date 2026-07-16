@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="Risankizumab 有什麼相關新聞？">
-<strong>Risankizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Risankizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/risankizumab/
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+### [SGLT2-Hemmer: Blutdrucksenker schützen auch vor Alzheimer um 43% - Ad Hoc News](https://news.google.com/rss/articles/CBMivAFBVV95cUxObDhMejRRSktOS2NpVkRMdjNnaVlrVU5Oa1hVeWNxRllsSWtBOXUwejM1WnFBVFRobEI2NnNoU0dHR0UyN0pkSnhXdUVCZURtdHhDM3l5MktZTFcwcFUtMjJoLUI5V09NV1RLUGdSelhocTRieXFFb1k2Qm8wT0NfVEprZ0NrdG01U2FFbUJFWGc0Q2M3eXFtWjVUa0p1T3Q2dUpoSVA2cWZsSUFJYVRPME85eC1CY3Z5aWlMag?oc=5)
 
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMivAFBVV95cUxObDhMejRRSktOS2NpVkRMdjNnaVlrVU5Oa1hVeWNxRllsSWtBOXUwejM1WnFBVFRobEI2NnNoU0dHR0UyN0pkSnhXdUVCZURtdHhDM3l5MktZTFcwcFUtMjJoLUI5V09NV1RLUGdSelhocTRieXFFb1k2Qm8wT0NfVEprZ0NrdG01U2FFbUJFWGc0Q2M3eXFtWjVUa0p1T3Q2dUpoSVA2cWZsSUFJYVRPME85eC1CY3Z5aWlMag?oc=5)
+
+---
+
+### [Warum Frauen mit Diabetes besonders belastet sind - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+
+---
+
+### [Orchideen-Stoff Saligenin und Low-Carb: Neue Wege gegen Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZrM3lCY1NzSlpxVm10UWxfR0dXNHpiOG9LUW03LThHd1BUc2JoQ1FraDcyM2ZlVXM0d3A3UFpnLVBmNFhiOXloekJvM3FJcGlpV1N5M0dfRFNKQnNLX1BnZUFxQnJZenVtcjU2QXBJM3ZrUkt6d29QVUx6WU1WWUJhNnV1TG9zVG9wd2ZWNmpSenNtbTdINW0tb1lDd2RCQU5Z?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZrM3lCY1NzSlpxVm10UWxfR0dXNHpiOG9LUW03LThHd1BUc2JoQ1FraDcyM2ZlVXM0d3A3UFpnLVBmNFhiOXloekJvM3FJcGlpV1N5M0dfRFNKQnNLX1BnZUFxQnJZenVtcjU2QXBJM3ZrUkt6d29QVUx6WU1WWUJhNnV1TG9zVG9wd2ZWNmpSenNtbTdINW0tb1lDd2RCQU5Z?oc=5)
 
 ---
 
@@ -86,35 +102,11 @@ permalink: /news/risankizumab/
 
 ---
 
-### [Bei Typ-2-Diabetes lohnt sich Low Carb - Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RQSHhJOTFMQ1RUZl9hTF9NanhqYVcxX1AzZjVDOHk2SXo5NnAtalJPWWhhZW5Gcm5DODNuOGxmSUxfdkNSRmNGM0lHM2NTSHFKMTk4RnRfenUta2RoWmRSLWk0Y1c4SV9oUUJDY0szOUdWRmlPZkJISDhUZjFybmYtNTRQNmlJQVV1c0VHajctd2U2ZndfOXJHR0l0c3BudU1ObDVXX2tiQnM?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RQSHhJOTFMQ1RUZl9hTF9NanhqYVcxX1AzZjVDOHk2SXo5NnAtalJPWWhhZW5Gcm5DODNuOGxmSUxfdkNSRmNGM0lHM2NTSHFKMTk4RnRfenUta2RoWmRSLWk0Y1c4SV9oUUJDY0szOUdWRmlPZkJISDhUZjFybmYtNTRQNmlJQVV1c0VHajctd2U2ZndfOXJHR0l0c3BudU1ObDVXX2tiQnM?oc=5)
-
----
-
 ### [One in four adults has metabolic syndrome – and it may be ageing their brains - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
-
----
-
-### [Kampf gegen Mangelernährung im Krankenhaus - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span>
-
-來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxONmpBcVc3U0hLZmY5THJWSlVqQ2lZQjE4bzRIVEREY0V3Sm5QWjJuUE9paXJqLVhDV201ck1CdmEtY3VLWlFpNWpmU1lUcFhyNDhjZnp4MEM1ck9OdnJ4VGdLbnBzT2tnUGVnY2tua3AwVUY0RmYyem9relR4YnBuaDNSWnlkTVlucGp3Uy14N0I3cWxR?oc=5)
-
----
-
-### [Diabete tipo 2, orforglipron e semaglutide orale a confronto. Ecco che cosa emerge](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
-
-2026-07-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Doctor33](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
 
 ---
 

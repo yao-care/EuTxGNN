@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,37 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
 
-### [Metabolisches Syndrom: Verdoppelt Sterblichkeit bei Brustkrebs - Ad Hoc News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
+### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+
+2026-07-16
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+
+---
+
+### [La relación entre obesidad y dislipemias: "Está en la base fisiopatológica de la mayoría de los factores de riesgo cardiovascular" - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+
+2026-07-16
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+
+---
+
+### [¿Medicamentos contra la obesidad y apoyo al estilo de vida?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
+
+2026-07-16
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
+
+---
+
+### [Stoffwechsel und Krebs: Fettleibigkeit erhöht Risiko für 19 Arten - Ad Hoc News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
 
 2026-07-15
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
 
 ---
 
