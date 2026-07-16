@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
 
-### [Hasta el 45% de los riesgos de demencia podrían prevenirse o retrasarse, afirma la OMS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGl5b3ZmY05IWFk4MWFlb0lVbnVhbFltbE5oSnZLNWRPb0hBMTVZRkZUY1gxaDZ3WlRaTEZrOVMySlBKN2hMeEZmUVl2OWJ2RGFkV2JyRGc0TExWa09JNzhQMUhOeXB0TElJdWZiamtHb3NEQTgtcEhUVy10TFdES2lQZUtiWHRhbU10bnBpMWUyZkd5b1FSNlpHM1U3VGt3YkRpdExLT0ZQMUl4Qlo1OGpWMTREbVZwVEEzalFkZkhQTDdVNEZWenkwR3VOUnJCQmtHRw?oc=5)
+### [Fears for New Zealand’s native species as first bird flu case emerges - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTJMbWRCRy05d3NBM1dpSDZHWDQtQThSMXBtRVNUZkYwSTh0azFTUEFpYU1ja3J1eDZnWXpNSy1wR0pqZ1ZaMWE1RFFmZzB6SktHcVNRMDRfbTFEM0x2Y0cxc2g5UmF6N1o3QXhxeVFkaE9iRHp2TktLS1JkOHZienRmcG1UTHJDZ1E?oc=5)
 
-2026-07-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-16 <span class="news-indication-tag">MS</span>
 
-來源：[RFI](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGl5b3ZmY05IWFk4MWFlb0lVbnVhbFltbE5oSnZLNWRPb0hBMTVZRkZUY1gxaDZ3WlRaTEZrOVMySlBKN2hMeEZmUVl2OWJ2RGFkV2JyRGc0TExWa09JNzhQMUhOeXB0TElJdWZiamtHb3NEQTgtcEhUVy10TFdES2lQZUtiWHRhbU10bnBpMWUyZkd5b1FSNlpHM1U3VGt3YkRpdExLT0ZQMUl4Qlo1OGpWMTREbVZwVEEzalFkZkhQTDdVNEZWenkwR3VOUnJCQmtHRw?oc=5)
-
----
-
-### [Crece la huelga de trabajadores de salud en Congo mientras el brote de ébola supera los 2.000 casos](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXp6X29McVlLNGd5dWFNUm5qX0xGQkZQdU1DaDg3YTVWajlQT19iV1k4cFcyUTlKamRJdzBLQ0xjdW45NzA0LVplSFhDT1lyamFNMnZfbHo2bFFkRW5hbzE2bXo5QU9KbU4tSV92eG9WYUozd3hNOWh4TmRsV3J4VlJvY1BHRTJvOFZyNzJR?oc=5)
-
-2026-07-15 <span class="news-indication-tag">MS</span>
-
-來源：[Yahoo](https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXp6X29McVlLNGd5dWFNUm5qX0xGQkZQdU1DaDg3YTVWajlQT19iV1k4cFcyUTlKamRJdzBLQ0xjdW45NzA0LVplSFhDT1lyamFNMnZfbHo2bFFkRW5hbzE2bXo5QU9KbU4tSV92eG9WYUozd3hNOWh4TmRsV3J4VlJvY1BHRTJvOFZyNzJR?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTJMbWRCRy05d3NBM1dpSDZHWDQtQThSMXBtRVNUZkYwSTh0azFTUEFpYU1ja3J1eDZnWXpNSy1wR0pqZ1ZaMWE1RFFmZzB6SktHcVNRMDRfbTFEM0x2Y0cxc2g5UmF6N1o3QXhxeVFkaE9iRHp2TktLS1JkOHZienRmcG1UTHJDZ1E?oc=5)
 
 ---
 
-### [Semaglutid: Magenbezoar mit 1,5 Litern Cola gelöst](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTRNcGNtazZSMWJycE9LWlJ4b2VvTW43UVZfdEdmOGdnSFdRdGItV0U4bExhS1ZadlE1cnRGU0FQLTY0WjZwTDR0UDhPTDh2QUpjZzVOX1gwUzMxY2pyUjNXRkFjOHpyZlZLYkxOQmVSVTk0NEhDbi15dDZmRXdMT042dDI3YTh4MW9aVHR0eTFqUFQ3RVo1a01SZnFqRThX?oc=5)
+### [Biologists pinpoint how common virus triggers multiple sclerosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5)
+
+2026-07-15 <span class="news-indication-tag">multiple sclerosis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5)
+
+---
+
+### [Identifican cómo el virus de la mononucleosis puede activar células inmunitarias implicadas en la esclerosis múltiple - El Confidencial](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnhPMDI0WTNCUkFUUmFBSmF0dUtIalBXSlZqNmFjM3NYckxuNzZ5dWwxYjlsbWcwbElPWWJGMWRiaHVveGZ4WjVBajROWUdpRVBtdlJyWEVXOEZtOGNCZ0p2R1FieUFzb0s4ZVBZdXhlZ1REa01SZVVtUkI1dkRpSGwySHBNZGRmZVBkdnZqR296alJCTHQyTDZfXy1NVkZLNHhkTzVZaHVDQzlTWHU5ZE9GcFVqOUExb2pTMmI0M3VQNlAxMWVqSA?oc=5)
+
+2026-07-15 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnhPMDI0WTNCUkFUUmFBSmF0dUtIalBXSlZqNmFjM3NYckxuNzZ5dWwxYjlsbWcwbElPWWJGMWRiaHVveGZ4WjVBajROWUdpRVBtdlJyWEVXOEZtOGNCZ0p2R1FieUFzb0s4ZVBZdXhlZ1REa01SZVVtUkI1dkRpSGwySHBNZGRmZVBkdnZqR296alJCTHQyTDZfXy1NVkZLNHhkTzVZaHVDQzlTWHU5ZE9GcFVqOUExb2pTMmI0M3VQNlAxMWVqSA?oc=5)
+
+---
+
+### [Oms, un caso di demenza su due può essere evitato: ecco le nuove linee guida - la Repubblica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUtnZFZwN3dibEM3M2hJNVpLWFUwRHV5eXc0VUJhNE92Q0xEcVM1Q1ZzMDMtODhPMnVwa3hiUnV4SXp6emZIaUpRRFdTc1R3bEh3MzUxbnhCWWppc3dwZElhUGZFWUFIcFR3M1ZEZUx6a3hlN05UV3FXN24tNDBJbUxGckwzTFhwaXdZMGZ5am4wZGJENHRZMDJreGJodXpKbnppeWF1dmJkZ285X21LRktTSFFfaWpHZWk3dy00T3IzUVBmVXExcDAxQ0ZTdGfSAdQBQVVfeXFMTWFEck5vNFhTNm1zb21QS1B4dEVBY0dmOU4yZUhwd1FHTkhxSkRKNWFfUVdWTE5Sd2xCenpnY0VoVDhBM0ZFNFNBNURXZk50V1hhWXFhSi15NjN3VWlHdHloZUVhSlFzajFienpGdlFVT2FoNUpGeC1mbG9CeVBXNlNNc2MtMHNjek1jY2wwMWkxbXEtNGduZDhXU1BxWl9IM2pHdzR5MVFscE5tY3BpY01YVklmbUh2NWVNQkQtLTBWUnVuZjNFS05tQkZEemU5ZWM1WXc?oc=5)
 
 2026-07-15 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTRNcGNtazZSMWJycE9LWlJ4b2VvTW43UVZfdEdmOGdnSFdRdGItV0U4bExhS1ZadlE1cnRGU0FQLTY0WjZwTDR0UDhPTDh2QUpjZzVOX1gwUzMxY2pyUjNXRkFjOHpyZlZLYkxOQmVSVTk0NEhDbi15dDZmRXdMT042dDI3YTh4MW9aVHR0eTFqUFQ3RVo1a01SZnFqRThX?oc=5)
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUtnZFZwN3dibEM3M2hJNVpLWFUwRHV5eXc0VUJhNE92Q0xEcVM1Q1ZzMDMtODhPMnVwa3hiUnV4SXp6emZIaUpRRFdTc1R3bEh3MzUxbnhCWWppc3dwZElhUGZFWUFIcFR3M1ZEZUx6a3hlN05UV3FXN24tNDBJbUxGckwzTFhwaXdZMGZ5am4wZGJENHRZMDJreGJodXpKbnppeWF1dmJkZ285X21LRktTSFFfaWpHZWk3dy00T3IzUVBmVXExcDAxQ0ZTdGfSAdQBQVVfeXFMTWFEck5vNFhTNm1zb21QS1B4dEVBY0dmOU4yZUhwd1FHTkhxSkRKNWFfUVdWTE5Sd2xCenpnY0VoVDhBM0ZFNFNBNURXZk50V1hhWXFhSi15NjN3VWlHdHloZUVhSlFzajFienpGdlFVT2FoNUpGeC1mbG9CeVBXNlNNc2MtMHNjek1jY2wwMWkxbXEtNGduZDhXU1BxWl9IM2pHdzR5MVFscE5tY3BpY01YVklmbUh2NWVNQkQtLTBWUnVuZjNFS05tQkZEemU5ZWM1WXc?oc=5)
+
+---
+
+### [Semaglutid: Magenbezoar mit 1,5 Litern Cola gelöst - Ad Hoc News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTRNcGNtazZSMWJycE9LWlJ4b2VvTW43UVZfdEdmOGdnSFdRdGItV0U4bExhS1ZadlE1cnRGU0FQLTY0WjZwTDR0UDhPTDh2QUpjZzVOX1gwUzMxY2pyUjNXRkFjOHpyZlZLYkxOQmVSVTk0NEhDbi15dDZmRXdMT042dDI3YTh4MW9aVHR0eTFqUFQ3RVo1a01SZnFqRThX?oc=5)
+
+2026-07-15 <span class="news-indication-tag">MS</span>
+
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTRNcGNtazZSMWJycE9LWlJ4b2VvTW43UVZfdEdmOGdnSFdRdGItV0U4bExhS1ZadlE1cnRGU0FQLTY0WjZwTDR0UDhPTDh2QUpjZzVOX1gwUzMxY2pyUjNXRkFjOHpyZlZLYkxOQmVSVTk0NEhDbi15dDZmRXdMT042dDI3YTh4MW9aVHR0eTFqUFQ3RVo1a01SZnFqRThX?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Demenza senile: la metà dei casi potrebbe essere evitata con modifiche allo stile di vita - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdGNVliSTg3NzV2UXJiWUlROXJvVXVuM1NpZFJid3RZSnFwX3ROeHk1ZGlBZ1F3dmY4Rm5aX0thQXB6aDRPUm9ZbndseF9UT1V5MEpfWXlTTExSUFUzV29TYWQxNGtENkxhRWM5TmZxNG5KbndUemZrSjNZeTV5TERLQjB0c0w4a1duUHpnTHNqR281cXFNeW51alRXRk44RUoxb3ZyQ2VRSDRhSWfSAbMBQVVfeXFMTWlpTU9BclFJbmE1VmlLQllYWHdWVGZHYnk1WXlKZkJpTURJWkdDdzhpbTFzZGZ1VmtvemlIX1h5VEE3MUh1VmEyT1dQSmpLYTNRdlo3TkVkMGRXVlZ0U0dQMm1OczloS29QaTNsSmx3TzZYMXowQVoyNnF3NHVIcFhYM1NnSS1wMFNEdFd3blRMc1J3Z3lQZ3VVQWxSbUx2eW5xYXpCUmRHbEh0bUktNXFHRjA?oc=5)
-
-2026-07-15 <span class="news-indication-tag">MS</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdGNVliSTg3NzV2UXJiWUlROXJvVXVuM1NpZFJid3RZSnFwX3ROeHk1ZGlBZ1F3dmY4Rm5aX0thQXB6aDRPUm9ZbndseF9UT1V5MEpfWXlTTExSUFUzV29TYWQxNGtENkxhRWM5TmZxNG5KbndUemZrSjNZeTV5TERLQjB0c0w4a1duUHpnTHNqR281cXFNeW51alRXRk44RUoxb3ZyQ2VRSDRhSWfSAbMBQVVfeXFMTWlpTU9BclFJbmE1VmlLQllYWHdWVGZHYnk1WXlKZkJpTURJWkdDdzhpbTFzZGZ1VmtvemlIX1h5VEE3MUh1VmEyT1dQSmpLYTNRdlo3TkVkMGRXVlZ0U0dQMm1OczloS29QaTNsSmx3TzZYMXowQVoyNnF3NHVIcFhYM1NnSS1wMFNEdFd3blRMc1J3Z3lQZ3VVQWxSbUx2eW5xYXpCUmRHbEh0bUktNXFHRjA?oc=5)
-
----
-
 ### [Major Alzheimer's breakthrough as new drug could stop disease - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRLLW1VeHk5akRlbmNfOTdXc2thVDdMMEdlOUltRnAtUE5YM01OeXIya25oUjh5YVNrRS14VEh6TDd3MmpqRndSUVllYXpvSnRDSUFzc1E3a3VLcFFRT29Oa1hBZ19rZTVZOWZ5MFoycXBUenNpZ1d1dEFGTkNNeEV3WnhIVF9ONll1eXJoVTAwbV810gGaAUFVX3lxTFBjR2tIb25nam9HRTRUWVNobm5DbVBoOTNuWmpPakVZOTJ5dmthWENUNnpfVkdRU3l0Z05YLWQ2d2Izbks3MkM0WmdpUWRib1F6RDJpRG5RSzBmdmtmSjRLakwxZlpqZUZITllUWVdDVkIxRWJ3N2hDRms3VFIxWGJuN1R4US1ndG85ckFrUWgwaXhPU0x5cGJrOHc?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
@@ -118,27 +126,27 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Why the secret to eternal youth might be a trip to an art gallery - The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUF9JV09JVk42Vi0ycFl1dHVfZHp1dDE2Mzd4WTRkX09hTDYxLU9yeEhNVG1udFB4U0J6S0RqeVVvX0tfdm9yaTIxUXdmSFNKUVd1aXozZDdsa19Jblk2SnJZR1JQUVpYWUdFbVpKS0ZtR0xGNl9DYndncnZsQWxyaGpmN1FtZGhzdHVacG1aSWFwc0VDNWpzWjkyWmM?oc=5)
+### [Going to museums, movies, and theater may help your body stay younger](https://news.google.com/rss/articles/CBMib0FVX3lxTFBIbkM2RVprSkEyMUx6S3pUSVBJcmpyRENiZm5BRDZlT2g1MS13UnhmbnNJVVowWHNSTDlGaEN0OXo1OXFpelQwMlNCQU1mQkEyTUk5NlY0Q3FiVXQ3VDdaZF9PQXBLV0h3a1cxRzdjVQ?oc=5)
 
-2026-07-14 <span class="news-indication-tag">MS</span>
+2026-07-15 <span class="news-indication-tag">MS</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUF9JV09JVk42Vi0ycFl1dHVfZHp1dDE2Mzd4WTRkX09hTDYxLU9yeEhNVG1udFB4U0J6S0RqeVVvX0tfdm9yaTIxUXdmSFNKUVd1aXozZDdsa19Jblk2SnJZR1JQUVpYWUdFbVpKS0ZtR0xGNl9DYndncnZsQWxyaGpmN1FtZGhzdHVacG1aSWFwc0VDNWpzWjkyWmM?oc=5)
-
----
-
-### [Tamsulosin: Studie zeigt schwache Wirkung bei Prostata-Vergrößerung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGdqbm5yVUNadGViaFYxNVpUamJGVGxqWVNBNFVpbXpZSGFrUnd6bVA3RXN4dTNCQzlhTG1jcEE0REVUZjZCcTFTemhDZ2ptNlVCa3doZms3N2hQN0hTSVJyS0tSWUdyem9VYXNZWkQyZ1JWSFVUaTJMNzdWYjFKQU81eDNFTXBObFlPRV9OSHh2TXNnNzAzQml5UUZZS2Q1UjVCcDFIVjRXSi1YSGd0VG1EcEJWekp4?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGdqbm5yVUNadGViaFYxNVpUamJGVGxqWVNBNFVpbXpZSGFrUnd6bVA3RXN4dTNCQzlhTG1jcEE0REVUZjZCcTFTemhDZ2ptNlVCa3doZms3N2hQN0hTSVJyS0tSWUdyem9VYXNZWkQyZ1JWSFVUaTJMNzdWYjFKQU81eDNFTXBObFlPRV9OSHh2TXNnNzAzQml5UUZZS2Q1UjVCcDFIVjRXSi1YSGd0VG1EcEJWekp4?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBIbkM2RVprSkEyMUx6S3pUSVBJcmpyRENiZm5BRDZlT2g1MS13UnhmbnNJVVowWHNSTDlGaEN0OXo1OXFpelQwMlNCQU1mQkEyTUk5NlY0Q3FiVXQ3VDdaZF9PQXBLV0h3a1cxRzdjVQ?oc=5)
 
 ---
 
-### [Multiple Sklerose: Heilung in fünf bis zehn Jahren realistisch](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
+### [Tamsulosin: Studie zeigt schwache Wirkung bei Prostata-Vergrößerung - Ad Hoc News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGdqbm5yVUNadGViaFYxNVpUamJGVGxqWVNBNFVpbXpZSGFrUnd6bVA3RXN4dTNCQzlhTG1jcEE0REVUZjZCcTFTemhDZ2ptNlVCa3doZms3N2hQN0hTSVJyS0tSWUdyem9VYXNZWkQyZ1JWSFVUaTJMNzdWYjFKQU81eDNFTXBObFlPRV9OSHh2TXNnNzAzQml5UUZZS2Q1UjVCcDFIVjRXSi1YSGd0VG1EcEJWekp4?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span>
+
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGdqbm5yVUNadGViaFYxNVpUamJGVGxqWVNBNFVpbXpZSGFrUnd6bVA3RXN4dTNCQzlhTG1jcEE0REVUZjZCcTFTemhDZ2ptNlVCa3doZms3N2hQN0hTSVJyS0tSWUdyem9VYXNZWkQyZ1JWSFVUaTJMNzdWYjFKQU81eDNFTXBObFlPRV9OSHh2TXNnNzAzQml5UUZZS2Q1UjVCcDFIVjRXSi1YSGd0VG1EcEJWekp4?oc=5)
+
+---
+
+### [Multiple Sklerose: Heilung in fünf bis zehn Jahren realistisch - Ad Hoc News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
 
 ---
 
@@ -163,22 +171,6 @@ permalink: /news/grazoprevir/
 2026-07-14 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcFM1WEdiODI4amo1Ukd5cTE2T1Z3Q2gtQ3k5SVJLaThGbVBhRlM0X1VoaERBdlB4aHhsd1ItR3M1N3FUZnB4VzFaR2Z0d2pGZXA0ZUZzREZHSS1qalNXVTJHZmlVRV9nUENoNFN6eWxFWlkwZzlDQUkycEEwcThlZDkyLTg4S0llby05LWs3N1lyVzQzUEpvNmlybFRlRFI3a1NuT09ueW9Td1d1ZDFBaEczMXJsTFp1UWhWUkJaeUd5c0duczlrUU1vUFpnZkZPOTFaOHVKcw?oc=5)
-
----
-
-### [Sie leben in unserem Darm: Diese zwei Bakterien könnten Multiple Sklerose auslösen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[VOL.AT](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjU5YTdNTGZQQV9xYUl4T2QwZ2NXREIxYUdPN3JRXzhTMGVUbGNIbkoxdlZjNWxHalJ3V3ZBX200TEp1V2ZjSnp0RlZuMWZFNzJkZDVlaGhReDhwb0VIVUxsN1FJTk45RHQ3dVFTZ0g3Q0pFV3hqNERCNE8xUEpaWVJGZ2VzdUFjMmxwd1M1R2E5TlhjNFhoN3p0ZnAyeU94TktSTVdEM3VuT0hVV2R0aQ?oc=5)
-
----
-
-### [Hours each day in an iron lung kept her breathing, her will to live kept her alive](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
-
-2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
 
 ---
 

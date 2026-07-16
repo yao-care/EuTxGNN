@@ -54,51 +54,51 @@ permalink: /news/sotatercept/
 
 ## 相關新聞（24 則）
 
-### [Tumore della prostata. La teranostica sta cambiando la storia della malattia, ma soprattutto sta cambiando la storia della persona](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
-
-2026-07-15 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
-
----
-
 ### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
 
-2026-07-15 <span class="news-indication-tag">Krebs</span>
+2026-07-16 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
 
 ---
 
-### [Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxTFFWSVppZU9PV0JYTHZERzFIMUZaZk9zTFRESExuU3FQMVlGcHBKYWRpS0NsNHpOYnltV3VYSHdhN3M4RTBpR1VLR2JERTJjZWczMy1NX25wNVhhcUZF?oc=5)
+### [Kaum zu glauben: Ein ganz normales Lebensmittel soll das Darmkrebs-Risiko um 50 Prozent drücken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGhuRTBEcnZCTUhsOUk3dEJjNk15elpMSGRrbDFtUXktajRVRkFvODM0dTRZNGJ0NFgxcG5remo4YXNSWC1PelRTVXVwNjFpNmVMLWhXVUc3Qi0wd3lidW1weUJka0MxYUJXWkdicDV5S1ZrSmotU1FwRVRVM3BxOGFZUlh4NzhwNDRHbFNKbHpTSHIyZU9JaHVFcHdiekVfSjY3U2Fn?oc=5)
+
+2026-07-16 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGhuRTBEcnZCTUhsOUk3dEJjNk15elpMSGRrbDFtUXktajRVRkFvODM0dTRZNGJ0NFgxcG5remo4YXNSWC1PelRTVXVwNjFpNmVMLWhXVUc3Qi0wd3lidW1weUJka0MxYUJXWkdicDV5S1ZrSmotU1FwRVRVM3BxOGFZUlh4NzhwNDRHbFNKbHpTSHIyZU9JaHVFcHdiekVfSjY3U2Fn?oc=5)
+
+---
+
+### [Alerta de un posible riesgo de la dieta cetogénica: podría favorecer tumores en el intestino delgado](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXBGS0xIVE1PVnNtMFFleFktLWJYNmF6NDNFUFZTaUhBWlVpNHNHbWFYS3B4YlM2amU0WWkwWS1YY2lrNUJOUGs0UEFCTk5sOWpXUVlRa2IzM3VDRDdhSkFYMUkwTnNtMXBvV0xGY2N5VExwcmZwODVEQlBpOUN0UHRGQWc0WlloR2FuWGIweW4xa0d4X0tHb1ZGT1Zyd2ZlcVRfX3k1d18tNV85TGQ2UjhJRTYydnNWeEVJWHlkRHNaRFVqZWdUTlVKVWRsMzRKMU9aaTdmZGFZbXdaWUE?oc=5)
+
+2026-07-16 <span class="news-indication-tag">tumor</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXBGS0xIVE1PVnNtMFFleFktLWJYNmF6NDNFUFZTaUhBWlVpNHNHbWFYS3B4YlM2amU0WWkwWS1YY2lrNUJOUGs0UEFCTk5sOWpXUVlRa2IzM3VDRDdhSkFYMUkwTnNtMXBvV0xGY2N5VExwcmZwODVEQlBpOUN0UHRGQWc0WlloR2FuWGIweW4xa0d4X0tHb1ZGT1Zyd2ZlcVRfX3k1d18tNV85TGQ2UjhJRTYydnNWeEVJWHlkRHNaRFVqZWdUTlVKVWRsMzRKMU9aaTdmZGFZbXdaWUE?oc=5)
+
+---
+
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+
+---
+
+### [Tumore del colon, quanto si può aspettare? Il limite cambia con la terapia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnItMlBrUVdDV3NwOFZjTjVpbTU2aTBnbW5UNUQ0cjRZcERaSUpOamZQUUhfT2xRamw4OFFscGdBcmRhell0X1JodEhzV3VlLU1ISG8tMGNrZHdLU2o1aWN1eS10cVIwZ1dkeHFHaFhqQ0lNZEdNbDRvSlNiZ3pXYVJscTFXNkFJaU9aU3FqdVZocThHd1JxOWo0QWFqWklqTWdmaUI1T0p4Nm1wVF9GVkFhZGo4NjdpSUhQUU84a0V6U1FUb2JZbGpaOGZZWWFNS19xag?oc=5)
 
 2026-07-15 <span class="news-indication-tag">tumor</span>
 
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxTFFWSVppZU9PV0JYTHZERzFIMUZaZk9zTFRESExuU3FQMVlGcHBKYWRpS0NsNHpOYnltV3VYSHdhN3M4RTBpR1VLR2JERTJjZWczMy1NX25wNVhhcUZF?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnItMlBrUVdDV3NwOFZjTjVpbTU2aTBnbW5UNUQ0cjRZcERaSUpOamZQUUhfT2xRamw4OFFscGdBcmRhell0X1JodEhzV3VlLU1ISG8tMGNrZHdLU2o1aWN1eS10cVIwZ1dkeHFHaFhqQ0lNZEdNbDRvSlNiZ3pXYVJscTFXNkFJaU9aU3FqdVZocThHd1JxOWo0QWFqWklqTWdmaUI1T0p4Nm1wVF9GVkFhZGo4NjdpSUhQUU84a0V6U1FUb2JZbGpaOGZZWWFNS19xag?oc=5)
 
 ---
 
-### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
-
----
-
-### [Diabetes: Orchideen-Stoff verbessert Insulinresistenz im Zelltest](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl9OemlRdmZJUjFKMURuM2w5QkpUVGZ6anpVdGlleUhvTjlkSE9ONEtDTVJ2VUtfOGpZYUVwaG5ZYnpjRTBTNkM1d3ZlRjl2MUM1U3JVMnY1SjN4Yl9DaDhuOTVkZzJIOE5mV29yajZFbmVVeGtLQVlNNnh2TnliR2Q4eExKMHZyeUFWazdad3VXbzRveFRFR3dqVlFwUkQzZFJ3b0NLZ0pVME40a3FVbzkxVQ?oc=5)
-
-2026-07-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl9OemlRdmZJUjFKMURuM2w5QkpUVGZ6anpVdGlleUhvTjlkSE9ONEtDTVJ2VUtfOGpZYUVwaG5ZYnpjRTBTNkM1d3ZlRjl2MUM1U3JVMnY1SjN4Yl9DaDhuOTVkZzJIOE5mV29yajZFbmVVeGtLQVlNNnh2TnliR2Q4eExKMHZyeUFWazdad3VXbzRveFRFR3dqVlFwUkQzZFJ3b0NLZ0pVME40a3FVbzkxVQ?oc=5)
-
----
-
-### [Metabolisches Syndrom: Verdoppelt Sterblichkeit bei Brustkrebs](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
+### [Metabolisches Syndrom: Verdoppelt Sterblichkeit bei Brustkrebs - Ad Hoc News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
 
 ---
 
@@ -107,14 +107,6 @@ permalink: /news/sotatercept/
 2026-07-15 <span class="news-indication-tag">tumor</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQaTVmVzk2dmdWbVRNX2ljV2FaWjlIZTltZ1h4OHU1YkMwR2JwNi15dU40MG5DWVQ4ZndaN0hnYmZ6Y2dTcGJ1VWNlYnhSamFudHE4aVlkMzZvTVZnc2huU3A2MkNfMmhaaWxRN2hPVVNGT01DVU5tb2JObHhzbncxVGdxMGpkNnhVdnRTdzV2WUg0TTl6Y2t0eGVDbTBBb2UtTlU4blNmbktvakFaWVR5QlVwczFzMUxSbWc5YU9ud2libkdMQndqbGwwdkd5azlTdkVXNVUtLS1QUEZpTFNBbUotRUZXMHIxZlBfV3BrdVlZb3paTERVb0xKeERqMnJNZmFOSzdlekcyTG16bVNuSlBuS0JFbXJBN1djSmJ4T0dqVFBIb1loTNIBkwJBVV95cUxOaVFOdnpuamhTanFjRTZJaWZjWlFWNFoyQ2s5S1ZFaTJqbVRLZGFfVUthZFBXVXhwQVNqeUpyVTBsaTNOTlhkVDRDUkxTWnRYWF9fME9XdlZBZzVfMlhQSGhlRkhXUUVRdjVJdnlaejYzT3k2WWVoMW5KT256ZkdXUWNibXMtczZKV1EzTHZJVFBRdnJkNE5YRjBlbGVOcnlnXzhwTHpfTWUtYS0xU0dFdUxwOGw3S3NYbXRJdHR1cTM4OWt3VVYwVHlfM2dzdWthYTVPVG1mZFpsSGxlc050VFdZemNvTzlPa0UtOGxoNHRNTElrVWZVeVFscWlmVGRYeTA5V0ZrWXZKbV9HMG1GWHJQWQ?oc=5)
-
----
-
-### [A Bayesian framework for longitudinal EHR and genetic discovery](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5)
-
-2026-07-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5)
 
 ---
 
@@ -158,14 +150,6 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Kaum zu glauben: Ein ganz normales Lebensmittel soll das Darmkrebs-Risiko um 50 Prozent drücken - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT18wVWdHb1NtVHc3ZkU4SG5HQ2Mzam9XZWl5Q1dmSnphSEJxSE5vNUY0a3Y3R1R4Mmp2QkdvaTVyTVpVLUJnNHN3Y3VEb1RWZzBycTlKYTUxcDdXTU1GRkY2dVJpOHN4X1ZCQ2VKQjlvTzJ4YVFIQkZfTTdEZEIyZXNSc2VZVmRvNlhFekhyUU43LXBpSTJnb09JckVPZ0JvdDhmSktqd1FsUQ?oc=5)
-
-2026-07-15 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT18wVWdHb1NtVHc3ZkU4SG5HQ2Mzam9XZWl5Q1dmSnphSEJxSE5vNUY0a3Y3R1R4Mmp2QkdvaTVyTVpVLUJnNHN3Y3VEb1RWZzBycTlKYTUxcDdXTU1GRkY2dVJpOHN4X1ZCQ2VKQjlvTzJ4YVFIQkZfTTdEZEIyZXNSc2VZVmRvNlhFekhyUU43LXBpSTJnb09JckVPZ0JvdDhmSktqd1FsUQ?oc=5)
-
----
-
 ### [Keine Rückfälle: Studie zu mRNA-Impfungen macht Brustkrebs-Patientinnen Hoffnung](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTYxYi0zbnJieEdKSTdiNXF2MDdEZ0ZPaFF3eDZFV0U3MFNVc0QyOFFjZTRhaWF5UDZFcWhWSi1CZTVISndNZTJnaVNld253b3l1VGJoazB1dVY5VXg1MXBReFdCOTZIT1FIOXNGUlR6djNSTVEzYl9qbldOdndHVW9Tdk9yR0tHOFlES3BieEtjYmdxU1JGTlZCR0l4RTVO?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Krebs</span>
@@ -174,19 +158,27 @@ permalink: /news/sotatercept/
 
 ---
 
-### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
+### [Typ-1-Diabetes: 62% suchen psychische Hilfe, 66% leiden unter Schlaf - Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPek9BeGU1T2RaSENXSk1wSW1oem1JOC04Tk9XaWZNNk05OHFvVEpxZkMxekxMT1k3OGVETnVZTG10Z0ZqUWtoV3FDbDJmQmZOQ3ZidmZoWHItX3pqellDamtJamoyLUM5LUExRG1GZVhUdlcyVTFsRmJPNHB4cUFfRWxFTDR2Yk12QTc5QXBHMmR4TUZLcWY1T2lPZWUycmVMRXNIYXViOHdDVjR2bExHVnFpYUM3Zk0?oc=5)
 
 ---
 
-### [Brustkrebs: Vitamin-D-Mangel verdreifacht Schmerzrisiko nach OP](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
+### [Brustkrebs: Vitamin-D-Mangel verdreifacht Schmerzrisiko nach OP - Ad Hoc News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Krebs</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
+
+---
+
+### [Tumori gastrointestinali: 60mila diagnosi all’anno, la cura cambia passo e obiettivi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWppa19IVG9Jb3FTYnRfeTB0UTNyYW1uY1oyT2NCZE84a0hMc3hSNGU0NlhlTnNuVDcxcTVGOVJhSEF4clpXcHI5WkFXTHVwYnJTbnpZWjRWWUlEUTJObXVwS2tRaW1CbU1tM24yZ0VpNmpoenpCa2tQb2xiaVlvNzkxYlJLZllQaTdhcFZRM2RsaHI4TnY4RzdWQUtVVG5HT3JUYl9Xekt5U1hzbUtaVndIZ2NNQnR6ckJZ?oc=5)
+
+2026-07-14 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWppa19IVG9Jb3FTYnRfeTB0UTNyYW1uY1oyT2NCZE84a0hMc3hSNGU0NlhlTnNuVDcxcTVGOVJhSEF4clpXcHI5WkFXTHVwYnJTbnpZWjRWWUlEUTJObXVwS2tRaW1CbU1tM24yZ0VpNmpoenpCa2tQb2xiaVlvNzkxYlJLZllQaTdhcFZRM2RsaHI4TnY4RzdWQUtVVG5HT3JUYl9Xekt5U1hzbUtaVndIZ2NNQnR6ckJZ?oc=5)
 
 ---
 
@@ -235,6 +227,14 @@ permalink: /news/sotatercept/
 2026-07-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
 來源：[Doctor33](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
+
+---
+
+### [Tumore della prostata. La teranostica sta cambiando la storia della malattia, ma soprattutto sta cambiando la storia della persona](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
+
+2026-07-14 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
 
 ---
 

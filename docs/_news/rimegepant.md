@@ -54,27 +54,27 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（4 則）
 
-### [Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
+### [Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology](https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5)
 
-2026-07-15 <span class="news-indication-tag">heart disease</span>
+2026-07-16 <span class="news-indication-tag">cardiovascular disease</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
-
----
-
-### [A Bayesian framework for longitudinal EHR and genetic discovery](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5)
-
-2026-07-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5)
+來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5)
 
 ---
 
-### [High levels of microplastics found in heart attack survivors - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc0ekx0WXhka0xhd1pEWlZvcXZVQW8zeFpYV3pFN3JZalZiQXNFSHpadEVOQ0xoaGlYUjg3SlRscHpBS1d4cllqRkw1REJpV3pKbkRITm5CTk5yTEM3WTR2ajlwb0pfVUJMaEc1empnaERiSU9ld1otN1M2XzN1XzN1M1NQOWRVaUIzX1AwV0FjcVVzMTMwa3R3?oc=5)
+### [Ultra-processed foods ‘may be linked to a quarter of heart disease’ - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
 
-2026-07-15 <span class="news-indication-tag">cardiovascular disease</span>
+2026-07-16 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc0ekx0WXhka0xhd1pEWlZvcXZVQW8zeFpYV3pFN3JZalZiQXNFSHpadEVOQ0xoaGlYUjg3SlRscHpBS1d4cllqRkw1REJpV3pKbkRITm5CTk5yTEM3WTR2ajlwb0pfVUJMaEc1empnaERiSU9ld1otN1M2XzN1XzN1M1NQOWRVaUIzX1AwV0FjcVVzMTMwa3R3?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+
+---
+
+### [Trescientos pacientes del Chuvi reciben los primeros fármacos específicos para combatir las migrañas - Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
+
+2026-07-16 <span class="news-indication-tag">migraña</span>
+
+來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
 
 ---
 

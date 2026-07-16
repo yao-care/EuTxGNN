@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [El ejercicio físico se confirma como el gran protector del cerebro frente a la demencia y la depresión](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUVNWUV0WDVKdF9YVDhmMGFTNVpacmtKMmRtY1FNZ0dtNFJ6cF85S2R2OFBvaGNLTjYzNVBwNmZJTWd0cDVyWFlvaFRSZ2NFNzZocFBYdHpqZDZELWtiMkhJZWNRanVyNnNCaklMWThfdy1YTG10VV9DQldKd2JxWGlkejVaOGhDSXVoX3ZlU2s4MFFTRVBuVUN6N21GRzlpeDUwN1c4N2tVVEZia1ZBTklmQXpnMzM1UkpsOF9kcnczZmZ5djl4RkZUOUdaYTNMWTZUaUF3dWY5YjhyRWxWc2R3aDljdHo3LW9SNDdKbUw3QXFFUGhHSlNGdklOMEnSAYQCQVVfeXFMTTBjUmxHM0NJVm5VenRQOEJJRlJmeHpUQ2MxempuTGN5N0IyWWtlNktvUy1JdnQxY0hiY0pCMV9RdnJ4N3I0cEtoc2lKbWNWeWdSNFdVUWNFanptYUxheFFKZ2RWd0M4N0NIelk2UERSU2oyV1ZEeTNiS3FOUHE0MHdYRUl3bTFMem1ITFo5eUZJSVo0eEQzc3BDVHNoR1FVbkJkTURpN29vY3Z4VTF6WnRCek5kSzlpcVRzRnYzeXlJZHd1X3A5NnVicUV2M1JUal9Eb0JYWFFYMHh3MTJ2RzNPMXgxUmRWUlZZU2NCdENuR3g2TlNIdElOSUtHcWtSSmlFT0o?oc=5)
+
+2026-07-16
+
+來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUVNWUV0WDVKdF9YVDhmMGFTNVpacmtKMmRtY1FNZ0dtNFJ6cF85S2R2OFBvaGNLTjYzNVBwNmZJTWd0cDVyWFlvaFRSZ2NFNzZocFBYdHpqZDZELWtiMkhJZWNRanVyNnNCaklMWThfdy1YTG10VV9DQldKd2JxWGlkejVaOGhDSXVoX3ZlU2s4MFFTRVBuVUN6N21GRzlpeDUwN1c4N2tVVEZia1ZBTklmQXpnMzM1UkpsOF9kcnczZmZ5djl4RkZUOUdaYTNMWTZUaUF3dWY5YjhyRWxWc2R3aDljdHo3LW9SNDdKbUw3QXFFUGhHSlNGdklOMEnSAYQCQVVfeXFMTTBjUmxHM0NJVm5VenRQOEJJRlJmeHpUQ2MxempuTGN5N0IyWWtlNktvUy1JdnQxY0hiY0pCMV9RdnJ4N3I0cEtoc2lKbWNWeWdSNFdVUWNFanptYUxheFFKZ2RWd0M4N0NIelk2UERSU2oyV1ZEeTNiS3FOUHE0MHdYRUl3bTFMem1ITFo5eUZJSVo0eEQzc3BDVHNoR1FVbkJkTURpN29vY3Z4VTF6WnRCek5kSzlpcVRzRnYzeXlJZHd1X3A5NnVicUV2M1JUal9Eb0JYWFFYMHh3MTJ2RzNPMXgxUmRWUlZZU2NCdENuR3g2TlNIdElOSUtHcWtSSmlFT0o?oc=5)
+
+---
 
 ### [Rapid magnetic brain stimulation eases depression within days, but benefits fade within weeks - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdk9ZZm0xRmE5SnVYajB5eGVRaTdmUDBpbWFRUG9sNi1LdHNCSFg5TGo5TGh2N1pGMUNtREVCS0JZZERSRldhM1F5RzdPQWc4OHdJYV9HZFJnbTFVUGFwWHZUUWUyNnlkaFNhOG9JYTFCSkYxamJVeWxRaVl2ZUZES29BSGZaRENj?oc=5)
 

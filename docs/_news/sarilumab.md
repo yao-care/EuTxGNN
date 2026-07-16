@@ -54,14 +54,6 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（3 則）
 
-### [Chronische Entzündungen: BIRC3-Gen-Mutationen erklären schwere Crohn-Verläufe](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNF9jRzJadWZLRGpNYXhyTVdwNHFaUDZwWnhTRzAxMXlBVGpFYmk2eUwyUTk3aGVaMjJRMUF4TkNDTDNIWjNiYUd5N1QwWnJTN1dIVDNaTW1QbmJFSXBOYlh2WVdvMUoyaWE2N1VQQmFKY2Q0VVN4amFQTk1TTGRpcHFXZHAtRzZsOF9MQ2Npb2ZFR3RhV0JaYlJTWTZLZTlGVkticnc4MzQzajdXN29oaWZB?oc=5)
-
-2026-07-16 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNF9jRzJadWZLRGpNYXhyTVdwNHFaUDZwWnhTRzAxMXlBVGpFYmk2eUwyUTk3aGVaMjJRMUF4TkNDTDNIWjNiYUd5N1QwWnJTN1dIVDNaTW1QbmJFSXBOYlh2WVdvMUoyaWE2N1VQQmFKY2Q0VVN4amFQTk1TTGRpcHFXZHAtRzZsOF9MQ2Npb2ZFR3RhV0JaYlJTWTZLZTlGVkticnc4MzQzajdXN29oaWZB?oc=5)
-
----
-
 ### [Psoriasis-Arthritis: Hoher BMI verhindert anhaltende minimale Krankheitsaktivität – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Q4eUFTem9GWlRHSTA5NEc0RGVQb25pSV83c281cU5ZOTBqWHJlbTdSa1lUX2FBRDd3SVFmQjhTak9QOUNwMkVuUEhGa3g5V2gwbUVlSDViQmhRTmtoMUpGN2dGVHdtNE16TDdlcF9WaGVoMXNuMVlpMml5aTUtVVhXdHVITFU1ZlZkRkdHV252MnJTdFBWbEJrRDJKZVFiU3JkX2ZNT0dvWU9qdlA0SzdGRTF3LXA2UXQxbHRHYVoxcWYxc01zTXVzSEFmZFJYNHdsUGZnVVZZR1hGdnpBZjFtOA?oc=5)
 
 2026-07-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
@@ -75,6 +67,14 @@ permalink: /news/sarilumab/
 2026-07-15 <span class="news-indication-tag">asthma</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0ctS2JfeFlZQ1BjYU9fS0xtZ3lxdGNvZWdVdzNhLUVtbzgwNEpGNl96eERmMnZUQkJTamxPWGwweTFGSjVLc3Qta1BGYzBuaVdVaGtoVXNvOXBhX0ladlU0ZjlhSTg0dkFsSkNGbGdYUWVBamNUdFdjQTlFaUdKOE1fU1VUT1Vvb0VXbnRENUlISkU4RDUwSTN3N19icFJHM1hMcUln?oc=5)
+
+---
+
+### [Morbus Crohn: Gen wirft Darm aus der Bahn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUgwTE5LQ01HZndmMnhtTHNSc09aaVRVWUxMTl9mTjNpbWdScVByNlQ4WDFMS1dqaU53bDlQYWEwdGRTUXg2bEtjc2JCcE9Wc085SGtqN2ZCZUVTZ1dkaldwSzk5VE10cFVIUDc1ck9CUmdIYTVvQWtFZnhzLVlxaENicnZmN1VPSmlCN1ZGdEpsRUho?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUgwTE5LQ01HZndmMnhtTHNSc09aaVRVWUxMTl9mTjNpbWdScVByNlQ4WDFMS1dqaU53bDlQYWEwdGRTUXg2bEtjc2JCcE9Wc085SGtqN2ZCZUVTZ1dkaldwSzk5VE10cFVIUDc1ck9CUmdIYTVvQWtFZnhzLVlxaENicnZmN1VPSmlCN1ZGdEpsRUho?oc=5)
 
 ---
 

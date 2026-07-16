@@ -54,19 +54,19 @@ permalink: /news/macitentan/
 
 ## 相關新聞（3 則）
 
-### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
 
 ---
 
-### [Bluthochdruck-Therapie: AHA und ACC vereinen Herz, Niere, Stoffwechsel](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
+### [Bluthochdruck-Therapie: AHA und ACC vereinen Herz, Niere, Stoffwechsel - Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
 
 ---
 
