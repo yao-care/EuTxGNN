@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
 
-### [Identifican cómo el virus de la mononucleosis puede activar células inmunitarias implicadas en la esclerosis múltiple - El Confidencial](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnhPMDI0WTNCUkFUUmFBSmF0dUtIalBXSlZqNmFjM3NYckxuNzZ5dWwxYjlsbWcwbElPWWJGMWRiaHVveGZ4WjVBajROWUdpRVBtdlJyWEVXOEZtOGNCZ0p2R1FieUFzb0s4ZVBZdXhlZ1REa01SZVVtUkI1dkRpSGwySHBNZGRmZVBkdnZqR296alJCTHQyTDZfXy1NVkZLNHhkTzVZaHVDQzlTWHU5ZE9GcFVqOUExb2pTMmI0M3VQNlAxMWVqSA?oc=5)
+### [Hasta el 45% de los riesgos de demencia podrían prevenirse o retrasarse, afirma la OMS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGl5b3ZmY05IWFk4MWFlb0lVbnVhbFltbE5oSnZLNWRPb0hBMTVZRkZUY1gxaDZ3WlRaTEZrOVMySlBKN2hMeEZmUVl2OWJ2RGFkV2JyRGc0TExWa09JNzhQMUhOeXB0TElJdWZiamtHb3NEQTgtcEhUVy10TFdES2lQZUtiWHRhbU10bnBpMWUyZkd5b1FSNlpHM1U3VGt3YkRpdExLT0ZQMUl4Qlo1OGpWMTREbVZwVEEzalFkZkhQTDdVNEZWenkwR3VOUnJCQmtHRw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-07-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnhPMDI0WTNCUkFUUmFBSmF0dUtIalBXSlZqNmFjM3NYckxuNzZ5dWwxYjlsbWcwbElPWWJGMWRiaHVveGZ4WjVBajROWUdpRVBtdlJyWEVXOEZtOGNCZ0p2R1FieUFzb0s4ZVBZdXhlZ1REa01SZVVtUkI1dkRpSGwySHBNZGRmZVBkdnZqR296alJCTHQyTDZfXy1NVkZLNHhkTzVZaHVDQzlTWHU5ZE9GcFVqOUExb2pTMmI0M3VQNlAxMWVqSA?oc=5)
+來源：[RFI](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGl5b3ZmY05IWFk4MWFlb0lVbnVhbFltbE5oSnZLNWRPb0hBMTVZRkZUY1gxaDZ3WlRaTEZrOVMySlBKN2hMeEZmUVl2OWJ2RGFkV2JyRGc0TExWa09JNzhQMUhOeXB0TElJdWZiamtHb3NEQTgtcEhUVy10TFdES2lQZUtiWHRhbU10bnBpMWUyZkd5b1FSNlpHM1U3VGt3YkRpdExLT0ZQMUl4Qlo1OGpWMTREbVZwVEEzalFkZkhQTDdVNEZWenkwR3VOUnJCQmtHRw?oc=5)
 
 ---
 
@@ -78,11 +78,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [La OMS asegura que hasta un 45% de riesgo de demencia se puede prevenir o retrasar](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDlWYnF4aWQyVTMtNUxickZOZklsVnlWSzM2QWFjN1RDNkhrcFBCci1LMkxfTEltT01EWWVZQ1hIT0ZuNm5MWDQyVEk4U19Fd2ZfeGhYUGVuRWJETXhxeHBRZ0xRYXliUjlDYjVFTXJWRE9iRVhTWVlJRWw3cFJJdEo2bTFLOXJlQnMyQ2d6Y3FPSzRjeS10dWxLZE9RZTNla1NJd3RRcHlWME5t?oc=5)
+### [Ebola outbreak in Congo passes 2,000 cases and 750 deaths - Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWFPWjhXeE1ENDlWUkNPZHhSLWItd2laeGJ1ek5hUEdXWktLUHRYWWZPcmRTeEN1WXQtMkVVb1ppZXZWeU9JUm00blBONE1tRGpZaGVEZUJEaVJMWHV0UEdROGdDc2RzRmV5bnpJSWp1dURzWHpjb1hXVllXODliOXNNVENiYnl5eE9oZE95Vjg5VExjRnNwRQ?oc=5)
 
 2026-07-15 <span class="news-indication-tag">MS</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDlWYnF4aWQyVTMtNUxickZOZklsVnlWSzM2QWFjN1RDNkhrcFBCci1LMkxfTEltT01EWWVZQ1hIT0ZuNm5MWDQyVEk4U19Fd2ZfeGhYUGVuRWJETXhxeHBRZ0xRYXliUjlDYjVFTXJWRE9iRVhTWVlJRWw3cFJJdEo2bTFLOXJlQnMyQ2d6Y3FPSzRjeS10dWxLZE9RZTNla1NJd3RRcHlWME5t?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWFPWjhXeE1ENDlWUkNPZHhSLWItd2laeGJ1ek5hUEdXWktLUHRYWWZPcmRTeEN1WXQtMkVVb1ppZXZWeU9JUm00blBONE1tRGpZaGVEZUJEaVJMWHV0UEdROGdDc2RzRmV5bnpJSWp1dURzWHpjb1hXVllXODliOXNNVENiYnl5eE9oZE95Vjg5VExjRnNwRQ?oc=5)
+
+---
+
+### [La cobertura mundial de vacunación infantil avanza con lentitud: "Todos los niños merecen beneficiarse de su protección"](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTlktSWZISlZZTHpmdnM1UGpRMlMxdExsc3dZdXZsazFMbGN0eVl6QzBJb2VfLVRrdDU5LUF5T0g0dmNfLWtLaDRXU1l5TC02c192TWJXNDF4UlZrc3EtREIwTk9oek9BTEFKaHo1dHVzWDh3ZkF6VFRPQzlPdXN2cUZKcFJ6T2poaWd2UUp6c0phMkxPaDRqcUtKTVJsbmNfNkJKVlFFX01XNV9ZNm9NNlhxdDV0TWQ3bUN1NmlweG4zVkNNODBJWXVGNFRzMEI0dGZaWWJrQ2QzYTVSQzJHclFkZUVBLVFHZzkxSw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">MS</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTlktSWZISlZZTHpmdnM1UGpRMlMxdExsc3dZdXZsazFMbGN0eVl6QzBJb2VfLVRrdDU5LUF5T0g0dmNfLWtLaDRXU1l5TC02c192TWJXNDF4UlZrc3EtREIwTk9oek9BTEFKaHo1dHVzWDh3ZkF6VFRPQzlPdXN2cUZKcFJ6T2poaWd2UUp6c0phMkxPaDRqcUtKTVJsbmNfNkJKVlFFX01XNV9ZNm9NNlhxdDV0TWQ3bUN1NmlweG4zVkNNODBJWXVGNFRzMEI0dGZaWWJrQ2QzYTVSQzJHclFkZUVBLVFHZzkxSw?oc=5)
 
 ---
 
@@ -94,27 +102,19 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [Vacunación contra el sarampión se ha estancado en el mundo: informe OMS y Unicef - La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXdfRHdFSjZrTUdQUmROOVVUMDZJVjU5WlpnM2dKRENURzRsS0JmamNEaElZX1ZjMEhBanVuc1dsSjVCLVBNYWJ1MTVsWnQtMzFWRzJSdTBLTTFvc081REZmU3hkWUp5bFY1ei0zYk91bTVFZnhtd0tDUWYyWjhla2Nkd0c0V21QaGp2LXlKcEoyNG1ncGhDeU1KVEFhcjZCckt5bFpaaXg5Vmc?oc=5)
-
-2026-07-15 <span class="news-indication-tag">MS</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXdfRHdFSjZrTUdQUmROOVVUMDZJVjU5WlpnM2dKRENURzRsS0JmamNEaElZX1ZjMEhBanVuc1dsSjVCLVBNYWJ1MTVsWnQtMzFWRzJSdTBLTTFvc081REZmU3hkWUp5bFY1ei0zYk91bTVFZnhtd0tDUWYyWjhla2Nkd0c0V21QaGp2LXlKcEoyNG1ncGhDeU1KVEFhcjZCckt5bFpaaXg5Vmc?oc=5)
-
----
-
-### [High levels of microplastics found in heart attack survivors - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc0ekx0WXhka0xhd1pEWlZvcXZVQW8zeFpYV3pFN3JZalZiQXNFSHpadEVOQ0xoaGlYUjg3SlRscHpBS1d4cllqRkw1REJpV3pKbkRITm5CTk5yTEM3WTR2ajlwb0pfVUJMaEc1empnaERiSU9ld1otN1M2XzN1XzN1M1NQOWRVaUIzX1AwV0FjcVVzMTMwa3R3?oc=5)
-
-2026-07-15 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGc0ekx0WXhka0xhd1pEWlZvcXZVQW8zeFpYV3pFN3JZalZiQXNFSHpadEVOQ0xoaGlYUjg3SlRscHpBS1d4cllqRkw1REJpV3pKbkRITm5CTk5yTEM3WTR2ajlwb0pfVUJMaEc1empnaERiSU9ld1otN1M2XzN1XzN1M1NQOWRVaUIzX1AwV0FjcVVzMTMwa3R3?oc=5)
-
----
-
 ### [Demenza senile: la metà dei casi potrebbe essere evitata con modifiche allo stile di vita - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdGNVliSTg3NzV2UXJiWUlROXJvVXVuM1NpZFJid3RZSnFwX3ROeHk1ZGlBZ1F3dmY4Rm5aX0thQXB6aDRPUm9ZbndseF9UT1V5MEpfWXlTTExSUFUzV29TYWQxNGtENkxhRWM5TmZxNG5KbndUemZrSjNZeTV5TERLQjB0c0w4a1duUHpnTHNqR281cXFNeW51alRXRk44RUoxb3ZyQ2VRSDRhSWfSAbMBQVVfeXFMTWlpTU9BclFJbmE1VmlLQllYWHdWVGZHYnk1WXlKZkJpTURJWkdDdzhpbTFzZGZ1VmtvemlIX1h5VEE3MUh1VmEyT1dQSmpLYTNRdlo3TkVkMGRXVlZ0U0dQMm1OczloS29QaTNsSmx3TzZYMXowQVoyNnF3NHVIcFhYM1NnSS1wMFNEdFd3blRMc1J3Z3lQZ3VVQWxSbUx2eW5xYXpCUmRHbEh0bUktNXFHRjA?oc=5)
 
 2026-07-15 <span class="news-indication-tag">MS</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbXdGNVliSTg3NzV2UXJiWUlROXJvVXVuM1NpZFJid3RZSnFwX3ROeHk1ZGlBZ1F3dmY4Rm5aX0thQXB6aDRPUm9ZbndseF9UT1V5MEpfWXlTTExSUFUzV29TYWQxNGtENkxhRWM5TmZxNG5KbndUemZrSjNZeTV5TERLQjB0c0w4a1duUHpnTHNqR281cXFNeW51alRXRk44RUoxb3ZyQ2VRSDRhSWfSAbMBQVVfeXFMTWlpTU9BclFJbmE1VmlLQllYWHdWVGZHYnk1WXlKZkJpTURJWkdDdzhpbTFzZGZ1VmtvemlIX1h5VEE3MUh1VmEyT1dQSmpLYTNRdlo3TkVkMGRXVlZ0U0dQMm1OczloS29QaTNsSmx3TzZYMXowQVoyNnF3NHVIcFhYM1NnSS1wMFNEdFd3blRMc1J3Z3lQZ3VVQWxSbUx2eW5xYXpCUmRHbEh0bUktNXFHRjA?oc=5)
+
+---
+
+### [Major Alzheimer's breakthrough as new drug could stop disease - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRLLW1VeHk5akRlbmNfOTdXc2thVDdMMEdlOUltRnAtUE5YM01OeXIya25oUjh5YVNrRS14VEh6TDd3MmpqRndSUVllYXpvSnRDSUFzc1E3a3VLcFFRT29Oa1hBZ19rZTVZOWZ5MFoycXBUenNpZ1d1dEFGTkNNeEV3WnhIVF9ONll1eXJoVTAwbV810gGaAUFVX3lxTFBjR2tIb25nam9HRTRUWVNobm5DbVBoOTNuWmpPakVZOTJ5dmthWENUNnpfVkdRU3l0Z05YLWQ2d2Izbks3MkM0WmdpUWRib1F6RDJpRG5RSzBmdmtmSjRLakwxZlpqZUZITllUWVdDVkIxRWJ3N2hDRms3VFIxWGJuN1R4US1ndG85ckFrUWgwaXhPU0x5cGJrOHc?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRLLW1VeHk5akRlbmNfOTdXc2thVDdMMEdlOUltRnAtUE5YM01OeXIya25oUjh5YVNrRS14VEh6TDd3MmpqRndSUVllYXpvSnRDSUFzc1E3a3VLcFFRT29Oa1hBZ19rZTVZOWZ5MFoycXBUenNpZ1d1dEFGTkNNeEV3WnhIVF9ONll1eXJoVTAwbV810gGaAUFVX3lxTFBjR2tIb25nam9HRTRUWVNobm5DbVBoOTNuWmpPakVZOTJ5dmthWENUNnpfVkdRU3l0Z05YLWQ2d2Izbks3MkM0WmdpUWRib1F6RDJpRG5RSzBmdmtmSjRLakwxZlpqZUZITllUWVdDVkIxRWJ3N2hDRms3VFIxWGJuN1R4US1ndG85ckFrUWgwaXhPU0x5cGJrOHc?oc=5)
 
 ---
 
@@ -139,14 +139,6 @@ permalink: /news/glecaprevir/
 2026-07-14 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalBTZ3FXelloYTA4djhmdmVqTTk2R1NFcm1oZ3lDWVhyTl9VX09JeThPTW94R3QxWU1wMkxQVG4wQ1lLSmhWV0xCLVNsY1Y4T0pGaTR2MGhRVS0zWHZlX0dKWWFmeUNNRE5VbDFoaTQ4SjlYb1R6REpFM2I2bUE4R284TFhkT0dSbmc0V3ZwNnpQenJfLTN1ZjBWSVJLdWlnNlNOcUltNW1mWjdPb290ZA?oc=5)
-
----
-
-### [New Alzheimer’s drug could stop disease - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
-
-2026-07-14 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
 
 ---
 
@@ -182,11 +174,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [ADHD and periods: Are my hormones making my symptoms worse?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wM25UZndESEdyNHVFaTE2NWo0VktPdURqb2R5OHN3dUhOWVlJYUtvS2VlTkR1aTJ6VEp5RHVwZmdmLUhCcnpiNTlmT18xVldiM0dtTURtWHZrWjRU?oc=5)
+### [Hours each day in an iron lung kept her breathing, her will to live kept her alive](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
 
-2026-07-13 <span class="news-indication-tag">MS</span>
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wM25UZndESEdyNHVFaTE2NWo0VktPdURqb2R5OHN3dUhOWVlJYUtvS2VlTkR1aTJ6VEp5RHVwZmdmLUhCcnpiNTlmT18xVldiM0dtTURtWHZrWjRU?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
 
 ---
 

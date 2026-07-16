@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthma 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthma 有什麼相關新聞？">
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
-2026-07-15
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Rhinoviren bei Asthma im Fokus - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0ctS2JfeFlZQ1BjYU9fS0xtZ3lxdGNvZWdVdzNhLUVtbzgwNEpGNl96eERmMnZUQkJTamxPWGwweTFGSjVLc3Qta1BGYzBuaVdVaGtoVXNvOXBhX0ladlU0ZjlhSTg0dkFsSkNGbGdYUWVBamNUdFdjQTlFaUdKOE1fU1VUT1Vvb0VXbnRENUlISkU4RDUwSTN3N19icFJHM1hMcUln?oc=5)
 

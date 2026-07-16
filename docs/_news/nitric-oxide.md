@@ -14,7 +14,7 @@ permalink: /news/nitric-oxide/
 ---
 
 <p class="key-answer" data-question="Nitric Oxide 有什麼相關新聞？">
-<strong>Nitric Oxide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nitric Oxide</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/nitric-oxide/
 <p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（29 則）
+
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+
+---
+
+### [Jeden Tag Haferflocken essen: Das passiert im Körper – Experten warnen vor diesem Risiko](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaktwZ0l3RUQzOFZmeUFaVzJvZlp2S0lTV1JnVUZCUFNKZ051X2RtcTF3OTNlVW0yNXBYc2Zia3o2cHd3S3lGdGx0Qk1haTg3NTJQX2lKT09aWGlPNzFobVdQYVk5RjRUTS1fV2g0d1ZQdEpXOW8wRk9qdm9RYkxDcnBxRFhPRURVNjhDUWF0cWI4NFA5VjM0TkpTR3NnYm1HaGRjcDllcHJXR1pwVjZ6UWNubkpYZ2VKMWc?oc=5)
+
+2026-07-15 <span class="news-indication-tag">AF</span>
+
+來源：[wmn.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaktwZ0l3RUQzOFZmeUFaVzJvZlp2S0lTV1JnVUZCUFNKZ051X2RtcTF3OTNlVW0yNXBYc2Zia3o2cHd3S3lGdGx0Qk1haTg3NTJQX2lKT09aWGlPNzFobVdQYVk5RjRUTS1fV2g0d1ZQdEpXOW8wRk9qdm9RYkxDcnBxRFhPRURVNjhDUWF0cWI4NFA5VjM0TkpTR3NnYm1HaGRjcDllcHJXR1pwVjZ6UWNubkpYZ2VKMWc?oc=5)
+
+---
+
+### [Hasta el 45% de los riesgos de demencia podrían prevenirse o retrasarse, afirma la OMS](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGl5b3ZmY05IWFk4MWFlb0lVbnVhbFltbE5oSnZLNWRPb0hBMTVZRkZUY1gxaDZ3WlRaTEZrOVMySlBKN2hMeEZmUVl2OWJ2RGFkV2JyRGc0TExWa09JNzhQMUhOeXB0TElJdWZiamtHb3NEQTgtcEhUVy10TFdES2lQZUtiWHRhbU10bnBpMWUyZkd5b1FSNlpHM1U3VGt3YkRpdExLT0ZQMUl4Qlo1OGpWMTREbVZwVEEzalFkZkhQTDdVNEZWenkwR3VOUnJCQmtHRw?oc=5)
+
+2026-07-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RFI](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGl5b3ZmY05IWFk4MWFlb0lVbnVhbFltbE5oSnZLNWRPb0hBMTVZRkZUY1gxaDZ3WlRaTEZrOVMySlBKN2hMeEZmUVl2OWJ2RGFkV2JyRGc0TExWa09JNzhQMUhOeXB0TElJdWZiamtHb3NEQTgtcEhUVy10TFdES2lQZUtiWHRhbU10bnBpMWUyZkd5b1FSNlpHM1U3VGt3YkRpdExLT0ZQMUl4Qlo1OGpWMTREbVZwVEEzalFkZkhQTDdVNEZWenkwR3VOUnJCQmtHRw?oc=5)
+
+---
 
 ### [Woman lost half her bum and privates after eating meal on date](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd244bmUxQ0lOWXRldGhleTliczNyZ2hhUlpUenBvQUc4Rjk4R2FQTUZDeW9MeWxLLXZBdU15TE14eGt2cGpld1A2LUhSRXJ1QjkwZTNGZEJWMVVGWVZDV2hQZHVKNEwwWUtKcjY2QnNsZlE3ajNWdmVaMnR1RnRjOFgySWFsaGRqMWo3dnQtdnl3bl94dU91WENYQml6M3pfODh0ZzlPRDBPS2kxaVlVdm9URTJFNWM?oc=5)
 
@@ -62,19 +86,27 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdsVlp2Vk5SS0FlRE5tVnVHMVlSWGFRVkpTbEpDMDUyWVJDZE1RTGIxV0JkRjJvRlRrVHRuLWE5al94aGdSNXlLUWsyY2lfLTBEd25HVGFDNnFxbnZrbDVTNnZRZ3FJMzNGNi1LU2dpVFdmZlhvSktVUzVsNWxsTndTQks2RkZlcWdScEpaVUNGUzJsS3dWOERFS1l6WE5CUUFQUkR0RENTeklPQmcyWlUyMA?oc=5)
+### [The 7 supps that can be dangerous in hot weather & 37p fix everyone should take - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUNIcG01N3dmSHBZdWNYV2FYUmVwam51bU1kbXNHM2JJS0Q1RUxaY0lQcGZHUXpDSlFLUmxnRFRuQkdmY09jbVRsTEJPaXVCTkpTWnBEcURFdF93OXJJTEFzRkJoZlBSQnJiQnd5MENfYXNGYWc5aGtJczBhaWJseFlyZ2xoYUR6bVYtYUh4VlRuVWt0QWY1MjJhOA?oc=5)
 
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-15 <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdsVlp2Vk5SS0FlRE5tVnVHMVlSWGFRVkpTbEpDMDUyWVJDZE1RTGIxV0JkRjJvRlRrVHRuLWE5al94aGdSNXlLUWsyY2lfLTBEd25HVGFDNnFxbnZrbDVTNnZRZ3FJMzNGNi1LU2dpVFdmZlhvSktVUzVsNWxsTndTQks2RkZlcWdScEpaVUNGUzJsS3dWOERFS1l6WE5CUUFQUkR0RENTeklPQmcyWlUyMA?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUNIcG01N3dmSHBZdWNYV2FYUmVwam51bU1kbXNHM2JJS0Q1RUxaY0lQcGZHUXpDSlFLUmxnRFRuQkdmY09jbVRsTEJPaXVCTkpTWnBEcURFdF93OXJJTEFzRkJoZlBSQnJiQnd5MENfYXNGYWc5aGtJczBhaWJseFlyZ2xoYUR6bVYtYUh4VlRuVWt0QWY1MjJhOA?oc=5)
 
 ---
 
-### [7-Day No-Sugar Anti-Inflammatory Meal Plan for High Blood Pressure, Created by a Dietitian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+### [‘It’s concerning’: Health bosses’ warning as nine new cases of measles recorded in Kent in July - Kent Online](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXNTNGZGRk9fbDhzQWY5NXNFVXM3RDgySl9VS21iZmtXUzRtVFNDRWRiM1RBRkRJUU9XWVJsWW1UTnRYNUtMNVk5aUQzU203VE9GZkk5c1pKbGJkTDhnTERPSkZjblMyX1dRNl83RTA4aEhIdkFFZlJzTmNXcG96N0IyOGxhcGJGb2VlQ2FTWXRCUG5VYUg4b25TdWhIUFJRQWtjRQ?oc=5)
 
-2026-07-15 <span class="news-indication-tag">high blood pressure</span>
+2026-07-15 <span class="news-indication-tag">AF</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+來源：[Kent Online](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXNTNGZGRk9fbDhzQWY5NXNFVXM3RDgySl9VS21iZmtXUzRtVFNDRWRiM1RBRkRJUU9XWVJsWW1UTnRYNUtMNVk5aUQzU203VE9GZkk5c1pKbGJkTDhnTERPSkZjblMyX1dRNl83RTA4aEhIdkFFZlJzTmNXcG96N0IyOGxhcGJGb2VlQ2FTWXRCUG5VYUg4b25TdWhIUFJRQWtjRQ?oc=5)
+
+---
+
+### [Schneller als andere über 80-Jährige: "Super Movers" bleiben geistig länger fit](https://news.google.com/rss/articles/CBMiygFBVV95cUxORTFGakI3UEtNZXlzNS1wMkM4TVY3M2xEU0JKZGFsdGIyY2lUU0tfdEJjRTJNLVBFRjZaektqWUI4M1FrYm9JNUNGQ1dUdm9NUDNDcklpYzR5MXAzMnZkTmxGM01ENm5mYkQ3Z1ZhX1RBdVdQc3VaWG5IbXFFb3Zic2tMVWQzNzhpdkpRSnUybXloUzRlaGF4WEVuZkhnazd5OUdNT01UNGhTT2Q1ZXVuMUhOY2U1ZUw5QjhNZ3JLY2gxWTI3OThWTUpB?oc=5)
+
+2026-07-15 <span class="news-indication-tag">AF</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMiygFBVV95cUxORTFGakI3UEtNZXlzNS1wMkM4TVY3M2xEU0JKZGFsdGIyY2lUU0tfdEJjRTJNLVBFRjZaektqWUI4M1FrYm9JNUNGQ1dUdm9NUDNDcklpYzR5MXAzMnZkTmxGM01ENm5mYkQ3Z1ZhX1RBdVdQc3VaWG5IbXFFb3Zic2tMVWQzNzhpdkpRSnUybXloUzRlaGF4WEVuZkhnazd5OUdNT01UNGhTT2Q1ZXVuMUhOY2U1ZUw5QjhNZ3JLY2gxWTI3OThWTUpB?oc=5)
 
 ---
 
@@ -107,14 +139,6 @@ permalink: /news/nitric-oxide/
 2026-07-15 <span class="news-indication-tag">AF</span>
 
 來源：[COPE](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNRnpLNUVScnY0Tm81a3JfT3l3RUd2cnFCMDE3OW11VzZtV25lazhKLTBFV3FhYTI2WGFYdGtGWkczUzdWU0V4ZTdpb2VfbEpsc1dLVGpEQkJhUlhkZFVxMEk3NTN5M1gyc1hieG5va2NiZkxwM0xYdWNDMnRMdkx0bVRrbVlINWFCaExWUFd0SHp6LThkdXZCRGpINzVoSlRlMEx3NXBrRmJJSzBWdDhYeGY3WXNvTnU0aHJKYU1DSGZzdHhySnFPZXlIRDlENklrTlFvQVZCV094ZDlEX2tKcGF3Uy05ZnhNMTRuZXVPdFV4QjQ0ZFA2ZVJMLVBwVGhlMkRBclBRRk5pSV9jd2czTWc3d0FkMDVlSkktSGljenNjc2pMeDloTnRTcEFBb2VsQVBWSG9TeVJiMW1ibng2aVVOVS1Uc0xM?oc=5)
-
----
-
-### [British tourists warned over spike in deadly mosquito viruses in holiday hotspots - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1hEWWU3MmlMRGpkeEp3emJHRTZrVVpmc3c1WjQtcEY5alRMTFJKdXVLZDRQWVphX3prRzc3NkQzd0ppaUJkclh2X3MxZTNXV2tKOE83X01uQ1JtUEdWR2VSU1lxT3dPbDNRZGNrbmVvbjlLd1d1eVVmYnpwSGxJbTJiTldobENfMmgxYVpWbEIwal9od0tlRl9PUXA0b0NOT1VaUGhyZjQwREFSeThVTg?oc=5)
-
-2026-07-15 <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1hEWWU3MmlMRGpkeEp3emJHRTZrVVpmc3c1WjQtcEY5alRMTFJKdXVLZDRQWVphX3prRzc3NkQzd0ppaUJkclh2X3MxZTNXV2tKOE83X01uQ1JtUEdWR2VSU1lxT3dPbDNRZGNrbmVvbjlLd1d1eVVmYnpwSGxJbTJiTldobENfMmgxYVpWbEIwal9od0tlRl9PUXA0b0NOT1VaUGhyZjQwREFSeThVTg?oc=5)
 
 ---
 
@@ -166,19 +190,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Cyclospora outbreaks causing diarrhea in US expected to continue through August - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGJaWmlLQmIxSW53aDBNbG1TSUlfQVR5QlYzVjFMRDBXal9DZHFMd3pFQ0JlLXd1SFY1YlpCbVdFSGx5akdjaXF0SHdoR01aOW9ISF9YMDJLNUt2bEJTY19jcnpUU21pTW8zakt6ellRV1Rwd1d1Q1hMLXVPWDBJX3J3WExmRnlkdEw1TGJ1RjhxcmJfUG9RTDFyZ3JuRDJDaFE?oc=5)
+### [Raffica casi di scabbia nella Rsa per gli anziani!](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUZpT21uMEFiQzYyallpQVktdEp0RDluU3NGUEdROEVMb3YtM3U1Q0RGWUdoYkdZX1NwQUNnMEdrNjRYZnFpajNBbExfaDVjeGNlLVdFR1JkS1NTMFhwWXJiX2JnNFJzTzdFU2pCZ2NISGVWdGZUN2VTa3Vvd2pzNjFvb19aaXc4NkxV?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGJaWmlLQmIxSW53aDBNbG1TSUlfQVR5QlYzVjFMRDBXal9DZHFMd3pFQ0JlLXd1SFY1YlpCbVdFSGx5akdjaXF0SHdoR01aOW9ISF9YMDJLNUt2bEJTY19jcnpUU21pTW8zakt6ellRV1Rwd1d1Q1hMLXVPWDBJX3J3WExmRnlkdEw1TGJ1RjhxcmJfUG9RTDFyZ3JuRDJDaFE?oc=5)
-
----
-
-### [Girl, five, has had life changed forever after contracting rare disease - St Helens Star](https://news.google.com/rss/articles/CBMikAFBVV95cUxPazNFczJXYVdtbnR1M2tZVDNPVU5qVTZJY3JXbkJHWmNsYWVEaGQ5YjBfeTlFOGIyMXpMYm1sWXhwQXpnUFpjcldFTXYzb3ZKRG1BV1pPOHNzWVZUS3FKV2J4OWlVQ1l5RVF4TVBWYnB2OXhydWZjZkJ4ZW9fdVpHd2hSUWlZSk1ZMTJaakpCYUc?oc=5)
-
-2026-07-14 <span class="news-indication-tag">AF</span>
-
-來源：[St Helens Star](https://news.google.com/rss/articles/CBMikAFBVV95cUxPazNFczJXYVdtbnR1M2tZVDNPVU5qVTZJY3JXbkJHWmNsYWVEaGQ5YjBfeTlFOGIyMXpMYm1sWXhwQXpnUFpjcldFTXYzb3ZKRG1BV1pPOHNzWVZUS3FKV2J4OWlVQ1l5RVF4TVBWYnB2OXhydWZjZkJ4ZW9fdVpHd2hSUWlZSk1ZMTJaakpCYUc?oc=5)
+來源：[FirenzeToday](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUZpT21uMEFiQzYyallpQVktdEp0RDluU3NGUEdROEVMb3YtM3U1Q0RGWUdoYkdZX1NwQUNnMEdrNjRYZnFpajNBbExfaDVjeGNlLVdFR1JkS1NTMFhwWXJiX2JnNFJzTzdFU2pCZ2NISGVWdGZUN2VTa3Vvd2pzNjFvb19aaXc4NkxV?oc=5)
 
 ---
 
@@ -190,6 +206,14 @@ permalink: /news/nitric-oxide/
 
 ---
 
+### [Popular Childhood Drinks Linked to Higher Blood Pressure Later in Life](https://news.google.com/rss/articles/CBMinAFBVV95cUxPejBRS0MtUVh5UDJtZ2l6RmYxcF85WWp4MjJYcFlrZ0Fqa1NkWDN0WDMyakZvSFRlSlBldl9pMUdoRmR3eWJ2YTc4TFB4UkhMeFlhanJERkhqaDd4VUhKYjF4bVFTSTVITHc4YUppa3ZUa3RPM1FVNENEcU5HQlRaek1vdUsyZ0gwYjcta0szOFFiN3JsM2RaNi02Mm4?oc=5)
+
+2026-07-14 <span class="news-indication-tag">hypertension</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinAFBVV95cUxPejBRS0MtUVh5UDJtZ2l6RmYxcF85WWp4MjJYcFlrZ0Fqa1NkWDN0WDMyakZvSFRlSlBldl9pMUdoRmR3eWJ2YTc4TFB4UkhMeFlhanJERkhqaDd4VUhKYjF4bVFTSTVITHc4YUppa3ZUa3RPM1FVNENEcU5HQlRaek1vdUsyZ0gwYjcta0szOFFiN3JsM2RaNi02Mm4?oc=5)
+
+---
+
 ### [It took 30 years to receive an endometriosis diagnosis and it’s left me childless - The Telegraph](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXVpWGM5bHFWMmRNdDVZcTJHeFNsZEN5d3RPODUtTzJkZTlWY1hRNUpSTjFaSHl4d25Ub3VEeWUzV1V2VUF0QUlxcUk3Um5uSU1WVVVhR0o2YjlXLTRKNl9rc21OSGQtTU5PWGtqUnFhYmhYUGRrYllhdFFGckhHeG5uamF1TGNwUVE4VndTclVoMFNWbWVuZHdmdE4yLXd6c0dfS0xQUG4?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
@@ -198,11 +222,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
+### [Screening oncologici, in Calabria adesione sotto la media nazionale - il Lametino.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZ5NG5jZXd0Xzc4UndOZk1PaHJiLXR4TWtOMUxJT3FIWTNPbHNRTjdBYlRzTW5kOVl0RHEtNUZMX0JtLUs4RWI0U3hQN2JUeW93alVaal9PYVEySWs5dC1RYk1pSUFYaC1PT1lCQkMtM1RMNFFuQTBFeGdncFpvWDgwLWR2dWdnZElIOEg1cmM1dGxIVjItUXlsTWUtOU5vTzltQ00tMA?oc=5)
 
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-14 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[leinetal24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZ5NG5jZXd0Xzc4UndOZk1PaHJiLXR4TWtOMUxJT3FIWTNPbHNRTjdBYlRzTW5kOVl0RHEtNUZMX0JtLUs4RWI0U3hQN2JUeW93alVaal9PYVEySWs5dC1RYk1pSUFYaC1PT1lCQkMtM1RMNFFuQTBFeGdncFpvWDgwLWR2dWdnZElIOEg1cmM1dGxIVjItUXlsTWUtOU5vTzltQ00tMA?oc=5)
 
 ---
 
@@ -214,19 +238,19 @@ permalink: /news/nitric-oxide/
 
 ---
 
+### [Erste Bundibugyo-Ebola-Impfung startet klinische Tests in UK](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWjBvQVQ0OFFCS3NQVXdzTm91RDdmSjYxTzdacHpTNzZWVC1uSURoNndqMlVtNlltd0xxMDFfWjZ6Y29RY3FlWm13ZkFPWi1FZE9yaGVLTXp4RXExZ1hpSldpTmFJOUZIQ3BWZ1JDbm1pU3hEVnRvR3hUc0hpQUNiNjBlRXh5WWozeUhIcGw1WEk1UkFBQkU5dzI1Y054NU1nOXJzcHUxNlhMZUdZSTJHT3d0WEs0NGxfbWZZUUJONnBURWptRTdF?oc=5)
+
+2026-07-14 <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWjBvQVQ0OFFCS3NQVXdzTm91RDdmSjYxTzdacHpTNzZWVC1uSURoNndqMlVtNlltd0xxMDFfWjZ6Y29RY3FlWm13ZkFPWi1FZE9yaGVLTXp4RXExZ1hpSldpTmFJOUZIQ3BWZ1JDbm1pU3hEVnRvR3hUc0hpQUNiNjBlRXh5WWozeUhIcGw1WEk1UkFBQkU5dzI1Y054NU1nOXJzcHUxNlhMZUdZSTJHT3d0WEs0NGxfbWZZUUJONnBURWptRTdF?oc=5)
+
+---
+
 ### [Liverpool woman bitten by bat on holiday in Greece given life-saving rabies treatment - Liverpool Echo](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX09zLTVWa3lvNGNLZk5pdlcxeGlMWUFqZzFqdVRMN3hiNXNaSzJZWVpYU3gwSlFIcFRoT3pYQW9WUWp5dXRDTXRHdGtCUjc1aXFsd2tkM0RVdXV4UWlhbkxFRjJwMUN6WHNpWWRjOFhVVlVhT1pzbmpVN3BkRFFMWHpWbl9qVG9Nc1kzLTBnU1RuV1RwcVdmaHZXRdIBoAFBVV95cUxQSjBjdTVxUnFRTFVNY3E0eVpFMkZBS2xrT3lfbXc5bTBXNlpPWHBnZm1MUXBBaGR0aXRvaUtvWkFsRTJmenlldFJYUjl4bDZfeld4VW5KWThoTEFiUnNsU3U5cUVmWWh3ckU4WkJDcG9LQXdnMzM2YUc1WmUtNDRNanNEYS1WejNPRklkZ1hVdG9pSlk3XzcwN2xQODV3Qkdr?oc=5)
 
 2026-07-14 <span class="news-indication-tag">AF</span>
 
 來源：[Liverpool Echo](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX09zLTVWa3lvNGNLZk5pdlcxeGlMWUFqZzFqdVRMN3hiNXNaSzJZWVpYU3gwSlFIcFRoT3pYQW9WUWp5dXRDTXRHdGtCUjc1aXFsd2tkM0RVdXV4UWlhbkxFRjJwMUN6WHNpWWRjOFhVVlVhT1pzbmpVN3BkRFFMWHpWbl9qVG9Nc1kzLTBnU1RuV1RwcVdmaHZXRdIBoAFBVV95cUxQSjBjdTVxUnFRTFVNY3E0eVpFMkZBS2xrT3lfbXc5bTBXNlpPWHBnZm1MUXBBaGR0aXRvaUtvWkFsRTJmenlldFJYUjl4bDZfeld4VW5KWThoTEFiUnNsU3U5cUVmWWh3ckU4WkJDcG9LQXdnMzM2YUc1WmUtNDRNanNEYS1WejNPRklkZ1hVdG9pSlk3XzcwN2xQODV3Qkdr?oc=5)
-
----
-
-### [Screening oncologici, in Fvg adesioni sopra la media ma gli inviti restano incompleti - Messaggero Veneto](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS29pZUlWRWRRdHVNY0dwLTNRZlFaY1Q2dGxTYVo1cGd2TEhOYnFxT2tIemlGWllKZHlEWVlTRy1PSVNjX212ZGtkWnd0aGNRelV0SjJwSVZBd3VTRjhPT2ZOeFVsMm5fWENSaHl4azAybGk3RGtscEFYaDh2UlVtcUNrdHJQa1hhb0cwSG85cGc4T2xCUjgxX0FkV05RdG90QWJsSzFSWnFaeFdBQXZ2ag?oc=5)
-
-2026-07-14 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Messaggero Veneto](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS29pZUlWRWRRdHVNY0dwLTNRZlFaY1Q2dGxTYVo1cGd2TEhOYnFxT2tIemlGWllKZHlEWVlTRy1PSVNjX212ZGtkWnd0aGNRelV0SjJwSVZBd3VTRjhPT2ZOeFVsMm5fWENSaHl4azAybGk3RGtscEFYaDh2UlVtcUNrdHJQa1hhb0cwSG85cGc4T2xCUjgxX0FkV05RdG90QWJsSzFSWnFaeFdBQXZ2ag?oc=5)
 
 ---
 
@@ -251,6 +275,14 @@ permalink: /news/nitric-oxide/
 2026-07-14 <span class="news-indication-tag">AF</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkxlbHAtR1BpTm9qS1FVa3ZQMWl1SU9kWnFfUmsxbWVkYS1GSmNfcW9ERnUyN283VW05QkR5cHZLV05LRWtTdmIwRlMtN2dMYWF2QnBzMzV3YTdyMG1TZVZjNDV4elUzdjhqdU1qVHhsNno0R2NqbGFKUlplVDhTUnBfNkxzVUF2X2psN9IBkgFBVV95cUxOdkE2R1l2cDNJMmIxaUxaYXlCZVRMcFZyMEZFZFVrTzlsRFpXaXhKT1lMSjIwUjVYMUk5dmNzSjFJa1ZLT2xLTklhYnB4NDhocjlMbEJaa2RVQ0pQVXJZNV9XdTFpdGhrNzdoMXVsV0NuSk5pa1lTOVN4X3RzUVQ5RzU0bGlNaEtSR1dUemkxc0JVdw?oc=5)
+
+---
+
+### [Hours each day in an iron lung kept her breathing, her will to live kept her alive](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
+
+2026-07-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xZVpGZEI1VlNobGd4dl83eDB2STRWLW9ER1BObnNyd2YwdzZpeWg5SjVpNG9GZE43RWlxQWxRVlEwS1poWEZ6NDFONVVVanJraENqNmlYMFFROEdt?oc=5)
 
 ---
 

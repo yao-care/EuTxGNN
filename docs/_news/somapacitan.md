@@ -54,11 +54,19 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（9 則）
 
-### [Diabetes: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdsVlp2Vk5SS0FlRE5tVnVHMVlSWGFRVkpTbEpDMDUyWVJDZE1RTGIxV0JkRjJvRlRrVHRuLWE5al94aGdSNXlLUWsyY2lfLTBEd25HVGFDNnFxbnZrbDVTNnZRZ3FJMzNGNi1LU2dpVFdmZlhvSktVUzVsNWxsTndTQks2RkZlcWdScEpaVUNGUzJsS3dWOERFS1l6WE5CUUFQUkR0RENTeklPQmcyWlUyMA?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdsVlp2Vk5SS0FlRE5tVnVHMVlSWGFRVkpTbEpDMDUyWVJDZE1RTGIxV0JkRjJvRlRrVHRuLWE5al94aGdSNXlLUWsyY2lfLTBEd25HVGFDNnFxbnZrbDVTNnZRZ3FJMzNGNi1LU2dpVFdmZlhvSktVUzVsNWxsTndTQks2RkZlcWdScEpaVUNGUzJsS3dWOERFS1l6WE5CUUFQUkR0RENTeklPQmcyWlUyMA?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
+
+---
+
+### [Diabetes: Orchideen-Stoff verbessert Insulinresistenz im Zelltest](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl9OemlRdmZJUjFKMURuM2w5QkpUVGZ6anpVdGlleUhvTjlkSE9ONEtDTVJ2VUtfOGpZYUVwaG5ZYnpjRTBTNkM1d3ZlRjl2MUM1U3JVMnY1SjN4Yl9DaDhuOTVkZzJIOE5mV29yajZFbmVVeGtLQVlNNnh2TnliR2Q4eExKMHZyeUFWazdad3VXbzRveFRFR3dqVlFwUkQzZFJ3b0NLZ0pVME40a3FVbzkxVQ?oc=5)
+
+2026-07-15 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVl9OemlRdmZJUjFKMURuM2w5QkpUVGZ6anpVdGlleUhvTjlkSE9ONEtDTVJ2VUtfOGpZYUVwaG5ZYnpjRTBTNkM1d3ZlRjl2MUM1U3JVMnY1SjN4Yl9DaDhuOTVkZzJIOE5mV29yajZFbmVVeGtLQVlNNnh2TnliR2Q4eExKMHZyeUFWazdad3VXbzRveFRFR3dqVlFwUkQzZFJ3b0NLZ0pVME40a3FVbzkxVQ?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/somapacitan/
 2026-07-15 <span class="news-indication-tag">diabetes</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
-
----
-
-### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
-2026-07-15 <span class="news-indication-tag">asma</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
 
 ---
 
@@ -94,19 +94,19 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Bei Typ-2-Diabetes lohnt sich Low Carb - Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RQSHhJOTFMQ1RUZl9hTF9NanhqYVcxX1AzZjVDOHk2SXo5NnAtalJPWWhhZW5Gcm5DODNuOGxmSUxfdkNSRmNGM0lHM2NTSHFKMTk4RnRfenUta2RoWmRSLWk0Y1c4SV9oUUJDY0szOUdWRmlPZkJISDhUZjFybmYtNTRQNmlJQVV1c0VHajctd2U2ZndfOXJHR0l0c3BudU1ObDVXX2tiQnM?oc=5)
+
+2026-07-14 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2RQSHhJOTFMQ1RUZl9hTF9NanhqYVcxX1AzZjVDOHk2SXo5NnAtalJPWWhhZW5Gcm5DODNuOGxmSUxfdkNSRmNGM0lHM2NTSHFKMTk4RnRfenUta2RoWmRSLWk0Y1c4SV9oUUJDY0szOUdWRmlPZkJISDhUZjFybmYtNTRQNmlJQVV1c0VHajctd2U2ZndfOXJHR0l0c3BudU1ObDVXX2tiQnM?oc=5)
+
+---
+
 ### [One in four adults has metabolic syndrome – and it may be ageing their brains - The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
 
 2026-07-14 <span class="news-indication-tag">diabetes</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUh0em1rMWYxbi1aTURiVC1ReVNNOGZzYkI0cG55cmhWaVBjMXBsTjB2ekNSb0NCcWcwQ1pkNkpyTlVlN0dfcjhNSkdUUm5RYzh1U0lFamtKZzRnZ0k5ZERzVGJubWZjbUVyNXAtdjBiamlxY2hReUFoQ1o4TDJ5aWg0b043SzRPU0R0T2d5VG1sbkJHNUtRWTEtczk2ZW1vWHNrSXNDdUtYTXRKeFh3?oc=5)
-
----
-
-### [Insulet, Calm und Lila Moss: Achtsamkeit trifft Diabetes in neuer Content-Partnerschaft](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
-
-2026-07-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[leinetal24](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdHZqaVZya0JibDVlUVNDUGZBQUVJRlNUWVp3Vjk0UWw0SEk2d085VzNCOEw3VldiSFdYSWhDaWZFeENDaWdhdFdJQW5JaFF4dGhkelhRQkpOSW9OSXkwVGFDb3g2V1ZfeTUtSGo5a2lpaFYzTVZyWTQ2aUJCNWo0RWw5SHVzSDFaM3FWZ1BxYUNkRnN2SzROSVNsZnY0ajFaRG1RWlF1MVBsakl4RExUdXFWVlp3bUdqMkpiWTVsVURETDcxV19XZkhEUUd0ZGIyaVZQdHpiQmdiWVJkZ0tOeUMtVFQ?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetes Jahre vorab anhand der Darmflora vorhersehbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
+### [Diabete tipo 2, orforglipron e semaglutide orale a confronto. Ecco che cosa emerge](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
 
-2026-07-14 <span class="news-indication-tag">diabetes</span>
+2026-07-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjFycnBZTHpzN2hKYlJMMjRQZXZucXROdmF0M2lrSVdBZWlrMUtWVUVPNl9jOFRmSGo1S2pTaHc4a0lqUUxUMmc2QlpLTWo5T1ljSUo2MTBOUmwzWEJCM0FWQ1VzRU9KYXdQV2lsYks3bzI5cjhqaW92SnRIZlBWekVFamdid1A4dnY1cUNJT0xUMjBzODZ0Z0w2Szh6SktKam9DaldVQ1QzMTdObjI1eUtBVVdVUQ?oc=5)
+來源：[Doctor33](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd043UkhWNnN4VzJVd1pjV2lEVTloRzhleWNaZk1aazI4TmhydVROM1hsTExTLWYzQlpfWFNlVU9ZeTdqRG1qQzJQMlprb0R3UWdyMUxOUXJpVFRhdGJaU0ZQZnk3R1doOWg1ak1aSzYwSFczVURCOFZnaEwtZ3I1MTBCY3l3LVYzOUNPZHJpMktsUlpzWjBHZ1BfTEdCaEZGWXp6ODY3TWZ0b1FTUXVTQkJpOElxb1hralIw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
-2026-07-15 <span class="news-indication-tag">asma</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Rhinoviren bei Asthma im Fokus - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0ctS2JfeFlZQ1BjYU9fS0xtZ3lxdGNvZWdVdzNhLUVtbzgwNEpGNl96eERmMnZUQkJTamxPWGwweTFGSjVLc3Qta1BGYzBuaVdVaGtoVXNvOXBhX0ladlU0ZjlhSTg0dkFsSkNGbGdYUWVBamNUdFdjQTlFaUdKOE1fU1VUT1Vvb0VXbnRENUlISkU4RDUwSTN3N19icFJHM1hMcUln?oc=5)
 

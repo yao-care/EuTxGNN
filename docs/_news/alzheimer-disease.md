@@ -46,6 +46,14 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（3 則）
 
+### [Major Alzheimer's breakthrough as new drug could stop disease - Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRLLW1VeHk5akRlbmNfOTdXc2thVDdMMEdlOUltRnAtUE5YM01OeXIya25oUjh5YVNrRS14VEh6TDd3MmpqRndSUVllYXpvSnRDSUFzc1E3a3VLcFFRT29Oa1hBZ19rZTVZOWZ5MFoycXBUenNpZ1d1dEFGTkNNeEV3WnhIVF9ONll1eXJoVTAwbV810gGaAUFVX3lxTFBjR2tIb25nam9HRTRUWVNobm5DbVBoOTNuWmpPakVZOTJ5dmthWENUNnpfVkdRU3l0Z05YLWQ2d2Izbks3MkM0WmdpUWRib1F6RDJpRG5RSzBmdmtmSjRLakwxZlpqZUZITllUWVdDVkIxRWJ3N2hDRms3VFIxWGJuN1R4US1ndG85ckFrUWgwaXhPU0x5cGJrOHc?oc=5)
+
+2026-07-15
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRLLW1VeHk5akRlbmNfOTdXc2thVDdMMEdlOUltRnAtUE5YM01OeXIya25oUjh5YVNrRS14VEh6TDd3MmpqRndSUVllYXpvSnRDSUFzc1E3a3VLcFFRT29Oa1hBZ19rZTVZOWZ5MFoycXBUenNpZ1d1dEFGTkNNeEV3WnhIVF9ONll1eXJoVTAwbV810gGaAUFVX3lxTFBjR2tIb25nam9HRTRUWVNobm5DbVBoOTNuWmpPakVZOTJ5dmthWENUNnpfVkdRU3l0Z05YLWQ2d2Izbks3MkM0WmdpUWRib1F6RDJpRG5RSzBmdmtmSjRLakwxZlpqZUZITllUWVdDVkIxRWJ3N2hDRms3VFIxWGJuN1R4US1ndG85ckFrUWgwaXhPU0x5cGJrOHc?oc=5)
+
+---
+
 ### [‘Landmark’ study to see blood test for Alzheimer’s offered by GPs - STV News](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFFKZExxWExVT0hHYWZVdlk3V092eWZ3RVkwMFFrOC1EQ0hVdVhtQmE1V19XMExQUTZQci1kWWkyamFJU1NzMjFiNHJhTTVwY0xJclV5VVIyZldMS0dPNzVUVkh5Mm1tQU5CNGxOandVZzhlc1d6em1Bb3JjMW5FcVBmOUFKalFnLVpFWWl1SGFfdDF4dUE?oc=5)
 
 2026-07-15
@@ -54,19 +62,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Rare Autopsy Finds Alzheimer's Drugs Only Work in Some Parts of The Brain](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjNPRlVnZ200bFNWdzVZdEo5ZmFYdzhsR29VMHV6X0xkUERhRGM1anU0c0hoajFDTUJRVnY5Z0RqaXpuVmYwcDFJU2JReXQxb1RRUExuZXRoTHF5RkVhblI2TEEwbDk1cEVyLUFRdEVCN05JY0dxNjNaZFdCYnVXcEZGM09QNUNEQURxOEZNZkhMeG8?oc=5)
-
-2026-07-15
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjNPRlVnZ200bFNWdzVZdEo5ZmFYdzhsR29VMHV6X0xkUERhRGM1anU0c0hoajFDTUJRVnY5Z0RqaXpuVmYwcDFJU2JReXQxb1RRUExuZXRoTHF5RkVhblI2TEEwbDk1cEVyLUFRdEVCN05JY0dxNjNaZFdCYnVXcEZGM09QNUNEQURxOEZNZkhMeG8?oc=5)
-
----
-
-### [New Alzheimer’s drug could stop disease - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
+### [Herpes immune response linked to Alzheimer's disease - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1JBYUZEcG9uNC1MVWVTU2JqYU1tcGYzeS1ONFVDbm1SWC15WFZMWDF6TWRoOHNubThKUENyT2NCSm9iVVVfTDRwTDFwd3pUMzhxVHhvcXlyTnVQMnNoR3diSGhuWGtjY1dMMVlVR3lXcWlJQWtJMF82NzN6TFZqRGt5Ti1VRERUQ3VR?oc=5)
 
 2026-07-14
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1JBYUZEcG9uNC1MVWVTU2JqYU1tcGYzeS1ONFVDbm1SWC15WFZMWDF6TWRoOHNubThKUENyT2NCSm9iVVVfTDRwTDFwd3pUMzhxVHhvcXlyTnVQMnNoR3diSGhuWGtjY1dMMVlVR3lXcWlJQWtJMF82NzN6TFZqRGt5Ti1VRERUQ3VR?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="Voretigene Neparvovec 有什麼相關新聞？">
-<strong>Voretigene Neparvovec</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voretigene Neparvovec</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/voretigene-neparvovec/
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [7-Day No-Sugar Anti-Inflammatory Meal Plan for High Blood Pressure, Created by a Dietitian](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+### [Diabetes-Medikamente: Alzheimer-Risiko sinkt um bis zu 43 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">high blood pressure</span>
+2026-07-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWRXWnh0ZVpDMmpVdk9JMzJTOUg3REFUQUFmVFV2eFlzaktzeGFDNklCYTVub1BEZnFhWjJGWVliUTY0X2FRbU5WT010QTZNaUYzckZreFNDWlU4MTNzaTk0eklwZnRZcngxUndSSFNxblVkOGF2YkF6eVdhRFB4amlUWWVDT3FLYWd3WGNCTGpNOExpcWI5MTlrUjI?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTEzblhLZzR5YXlpalpNWEoxdkNFaDBFWTVBOWprdW82OWR6dk5MaEFLcWVvcjNxOHJBaEltMG1YaHEzbGVuajlSNDM1VlloOTBXU21SY1gtME5Da0NBSElLOTdNNV81bVJUUXI3LVE3QXN2S2Z2c2VOMWh1X3V5SzQtWFJxMTkzQTNZbU14ZXgxMkQ3c2xTQmpmOXhmdHJDWHd6eEZZaFJJZmJkYlYya2lMYw?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/voretigene-neparvovec/
 2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk00dUJ3RThQSC04MlBXS1NBOW0xRWhXamt2V29TOU5FdDhaREpKaWVvaW1lSmJFc1NNVHVwTTIyT3ZUS2NLR0N2SkpsQVV3UGZrX2dkOXE1RmxESF9TaklaOXdpZ3BXdVZDem9YdnVCajVDNkZHNHh0VHhaUlhreGhvU01ieUVVUVo0RUw1dWo4bmpRRzZ2OC1uVmxBekpPWTJEbmZSWkl5ZGQzVUFIUmFtalVKWWc?oc=5)
+
+---
+
+### [Popular Childhood Drinks Linked to Higher Blood Pressure Later in Life](https://news.google.com/rss/articles/CBMinAFBVV95cUxPejBRS0MtUVh5UDJtZ2l6RmYxcF85WWp4MjJYcFlrZ0Fqa1NkWDN0WDMyakZvSFRlSlBldl9pMUdoRmR3eWJ2YTc4TFB4UkhMeFlhanJERkhqaDd4VUhKYjF4bVFTSTVITHc4YUppa3ZUa3RPM1FVNENEcU5HQlRaek1vdUsyZ0gwYjcta0szOFFiN3JsM2RaNi02Mm4?oc=5)
+
+2026-07-14 <span class="news-indication-tag">hypertension</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinAFBVV95cUxPejBRS0MtUVh5UDJtZ2l6RmYxcF85WWp4MjJYcFlrZ0Fqa1NkWDN0WDMyakZvSFRlSlBldl9pMUdoRmR3eWJ2YTc4TFB4UkhMeFlhanJERkhqaDd4VUhKYjF4bVFTSTVITHc4YUppa3ZUa3RPM1FVNENEcU5HQlRaek1vdUsyZ0gwYjcta0szOFFiN3JsM2RaNi02Mm4?oc=5)
 
 ---
 

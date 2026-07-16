@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Morbus Crohn: Gen wirft Darm aus der Bahn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUgwTE5LQ01HZndmMnhtTHNSc09aaVRVWUxMTl9mTjNpbWdScVByNlQ4WDFMS1dqaU53bDlQYWEwdGRTUXg2bEtjc2JCcE9Wc085SGtqN2ZCZUVTZ1dkaldwSzk5VE10cFVIUDc1ck9CUmdIYTVvQWtFZnhzLVlxaENicnZmN1VPSmlCN1ZGdEpsRUho?oc=5)
+### [Chronische Entzündungen: BIRC3-Gen-Mutationen erklären schwere Crohn-Verläufe](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNF9jRzJadWZLRGpNYXhyTVdwNHFaUDZwWnhTRzAxMXlBVGpFYmk2eUwyUTk3aGVaMjJRMUF4TkNDTDNIWjNiYUd5N1QwWnJTN1dIVDNaTW1QbmJFSXBOYlh2WVdvMUoyaWE2N1VQQmFKY2Q0VVN4amFQTk1TTGRpcHFXZHAtRzZsOF9MQ2Npb2ZFR3RhV0JaYlJTWTZLZTlGVkticnc4MzQzajdXN29oaWZB?oc=5)
 
-2026-07-15
+2026-07-16
 
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUgwTE5LQ01HZndmMnhtTHNSc09aaVRVWUxMTl9mTjNpbWdScVByNlQ4WDFMS1dqaU53bDlQYWEwdGRTUXg2bEtjc2JCcE9Wc085SGtqN2ZCZUVTZ1dkaldwSzk5VE10cFVIUDc1ck9CUmdIYTVvQWtFZnhzLVlxaENicnZmN1VPSmlCN1ZGdEpsRUho?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNF9jRzJadWZLRGpNYXhyTVdwNHFaUDZwWnhTRzAxMXlBVGpFYmk2eUwyUTk3aGVaMjJRMUF4TkNDTDNIWjNiYUd5N1QwWnJTN1dIVDNaTW1QbmJFSXBOYlh2WVdvMUoyaWE2N1VQQmFKY2Q0VVN4amFQTk1TTGRpcHFXZHAtRzZsOF9MQ2Npb2ZFR3RhV0JaYlJTWTZLZTlGVkticnc4MzQzajdXN29oaWZB?oc=5)
 
 ---
 

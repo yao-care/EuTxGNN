@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Loneliness strongly linked to poorer mental health and well-being, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+
+2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5)
+
+---
 
 ### [Diciotto anni senza voce dopo un Ictus, poi il cervello ha ricominciato a parlare](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWh4cDNfUFVEUjVoOHFHcmJzY1AtMGl0a2gzeE1NbGJWNmExcU9MZHROdkZfTkpfbEVsanhVa1hnODZuTjB2MklNSWVBUFp6R0s5MUNQV1F4VGpoNUs5QjNaSnJxZ184SHNSTG5aNFJSOTJ6UzlFWmJoeHQtR0tKbXVnZG1QcVNFOHF5Q3lUV3hFMkdzbF9VVjlMSnNZSXFMYVRReGVlM1pISUtKZTNycFhrOUIzYy04b193R3h4dFlaLVg4VHAwTHhYTllNQVpGZms5OFYyNA?oc=5)
 

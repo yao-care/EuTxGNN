@@ -54,6 +54,14 @@ permalink: /news/nomegestrol-acetate/
 
 ## 相關新聞（18 則）
 
+### [Tumore della prostata. La teranostica sta cambiando la storia della malattia, ma soprattutto sta cambiando la storia della persona](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
+
+2026-07-15 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
+
+---
+
 ### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
 
 2026-07-15 <span class="news-indication-tag">Krebs</span>
@@ -62,11 +70,35 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### [Neue Therapie gegen Brustkrebs: "Mehrzahl der Patientinnen bis zu sechs Jahre lang rückfallfrei"](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVFCSWhsTUdOQmVmbzZEemswN0xHaWlCVy1PN05OQjJ4VE9JcXJSWUd3OWVnNlB1cUJWd2ptMnJ5dk5uWERVVW5lTVpZSl8xTXpKWmI4bWtUWVJlbldXY1hFNzhCX2dLakpzdUhrYjg0Q0F3QVUtQ1BZQTM2TjRTRWJVUGV1YVNMbnZQd0ZRSzVUZ2oyUEcwZnBJSVZjcnFJT1hsZkdNakNVZDFCRUlIekxn?oc=5)
+### [Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxTFFWSVppZU9PV0JYTHZERzFIMUZaZk9zTFRESExuU3FQMVlGcHBKYWRpS0NsNHpOYnltV3VYSHdhN3M4RTBpR1VLR2JERTJjZWczMy1NX25wNVhhcUZF?oc=5)
 
-2026-07-15 <span class="news-indication-tag">Krebs</span>
+2026-07-15 <span class="news-indication-tag">tumor</span>
 
-來源：[MDR.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVFCSWhsTUdOQmVmbzZEemswN0xHaWlCVy1PN05OQjJ4VE9JcXJSWUd3OWVnNlB1cUJWd2ptMnJ5dk5uWERVVW5lTVpZSl8xTXpKWmI4bWtUWVJlbldXY1hFNzhCX2dLakpzdUhrYjg0Q0F3QVUtQ1BZQTM2TjRTRWJVUGV1YVNMbnZQd0ZRSzVUZ2oyUEcwZnBJSVZjcnFJT1hsZkdNakNVZDFCRUlIekxn?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxTFFWSVppZU9PV0JYTHZERzFIMUZaZk9zTFRESExuU3FQMVlGcHBKYWRpS0NsNHpOYnltV3VYSHdhN3M4RTBpR1VLR2JERTJjZWczMy1NX25wNVhhcUZF?oc=5)
+
+---
+
+### [Metabolisches Syndrom: Verdoppelt Sterblichkeit bei Brustkrebs](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQc0NBLU5ha3JENzNXR2lmeG95TkRXZDFRdm9xOVdVRUVfdG9QTHR6U0RDMzh5SjNOaTh6UV9qeGRyTkdqVkNNOEc3UG85S3AtTmctV29yZzdtTk1mamJzc0x5U1JRVkpiSWF6aG9zMWpydXlEMjVGODZlMXRSU3JyM1l0MTVsS0R1ZmN4bldMQjRGMVljQXNwVG1pSEp5dTVxZFVud1BHZl9vdEVPSENF?oc=5)
+
+---
+
+### [El avance que puede cambiar la investigación del cáncer gracias a las pistas genéticas encontradas en un reptil - El Economista](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQaTVmVzk2dmdWbVRNX2ljV2FaWjlIZTltZ1h4OHU1YkMwR2JwNi15dU40MG5DWVQ4ZndaN0hnYmZ6Y2dTcGJ1VWNlYnhSamFudHE4aVlkMzZvTVZnc2huU3A2MkNfMmhaaWxRN2hPVVNGT01DVU5tb2JObHhzbncxVGdxMGpkNnhVdnRTdzV2WUg0TTl6Y2t0eGVDbTBBb2UtTlU4blNmbktvakFaWVR5QlVwczFzMUxSbWc5YU9ud2libkdMQndqbGwwdkd5azlTdkVXNVUtLS1QUEZpTFNBbUotRUZXMHIxZlBfV3BrdVlZb3paTERVb0xKeERqMnJNZmFOSzdlekcyTG16bVNuSlBuS0JFbXJBN1djSmJ4T0dqVFBIb1loTNIBkwJBVV95cUxOaVFOdnpuamhTanFjRTZJaWZjWlFWNFoyQ2s5S1ZFaTJqbVRLZGFfVUthZFBXVXhwQVNqeUpyVTBsaTNOTlhkVDRDUkxTWnRYWF9fME9XdlZBZzVfMlhQSGhlRkhXUUVRdjVJdnlaejYzT3k2WWVoMW5KT256ZkdXUWNibXMtczZKV1EzTHZJVFBRdnJkNE5YRjBlbGVOcnlnXzhwTHpfTWUtYS0xU0dFdUxwOGw3S3NYbXRJdHR1cTM4OWt3VVYwVHlfM2dzdWthYTVPVG1mZFpsSGxlc050VFdZemNvTzlPa0UtOGxoNHRNTElrVWZVeVFscWlmVGRYeTA5V0ZrWXZKbV9HMG1GWHJQWQ?oc=5)
+
+2026-07-15 <span class="news-indication-tag">tumor</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQaTVmVzk2dmdWbVRNX2ljV2FaWjlIZTltZ1h4OHU1YkMwR2JwNi15dU40MG5DWVQ4ZndaN0hnYmZ6Y2dTcGJ1VWNlYnhSamFudHE4aVlkMzZvTVZnc2huU3A2MkNfMmhaaWxRN2hPVVNGT01DVU5tb2JObHhzbncxVGdxMGpkNnhVdnRTdzV2WUg0TTl6Y2t0eGVDbTBBb2UtTlU4blNmbktvakFaWVR5QlVwczFzMUxSbWc5YU9ud2libkdMQndqbGwwdkd5azlTdkVXNVUtLS1QUEZpTFNBbUotRUZXMHIxZlBfV3BrdVlZb3paTERVb0xKeERqMnJNZmFOSzdlekcyTG16bVNuSlBuS0JFbXJBN1djSmJ4T0dqVFBIb1loTNIBkwJBVV95cUxOaVFOdnpuamhTanFjRTZJaWZjWlFWNFoyQ2s5S1ZFaTJqbVRLZGFfVUthZFBXVXhwQVNqeUpyVTBsaTNOTlhkVDRDUkxTWnRYWF9fME9XdlZBZzVfMlhQSGhlRkhXUUVRdjVJdnlaejYzT3k2WWVoMW5KT256ZkdXUWNibXMtczZKV1EzTHZJVFBRdnJkNE5YRjBlbGVOcnlnXzhwTHpfTWUtYS0xU0dFdUxwOGw3S3NYbXRJdHR1cTM4OWt3VVYwVHlfM2dzdWthYTVPVG1mZFpsSGxlc050VFdZemNvTzlPa0UtOGxoNHRNTElrVWZVeVFscWlmVGRYeTA5V0ZrWXZKbV9HMG1GWHJQWQ?oc=5)
+
+---
+
+### [A Bayesian framework for longitudinal EHR and genetic discovery](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5)
+
+2026-07-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5)
 
 ---
 
@@ -94,14 +126,6 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
-2026-07-15 <span class="news-indication-tag">asma</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
----
-
 ### [Rhinoviren bei Asthma im Fokus - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxON0ctS2JfeFlZQ1BjYU9fS0xtZ3lxdGNvZWdVdzNhLUVtbzgwNEpGNl96eERmMnZUQkJTamxPWGwweTFGSjVLc3Qta1BGYzBuaVdVaGtoVXNvOXBhX0ladlU0ZjlhSTg0dkFsSkNGbGdYUWVBamNUdFdjQTlFaUdKOE1fU1VUT1Vvb0VXbnRENUlISkU4RDUwSTN3N19icFJHM1hMcUln?oc=5)
 
 2026-07-15 <span class="news-indication-tag">asthma</span>
@@ -115,14 +139,6 @@ permalink: /news/nomegestrol-acetate/
 2026-07-15 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkt2cnRyNGsyb3QtZ1BvLW0wbjZwalkxSWI3WVdZdWppbHlqd0ZlUkpGVk1QME4td2hsdzVYZkdib29tbWxMX1BaZUNTMXJmeHdWUHdGb1FHNDBKS2JOTE4wQVAwZXF5MXdLc0tZQ3FBaTU1RDlDb2FOSU42OTlXWnpnWXZVeGxvOW92bExBTXNEX3ZGcVhQdHQ3WVhFcS1FMlZxaDd6T0F1MXFwcEZheXF5M0I5UkZNV280?oc=5)
-
----
-
-### [Stoffwechsel und Krebs: Fettleibigkeit erhöht Risiko für 19 Arten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Fettleibigkeit</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
 
 ---
 
@@ -142,6 +158,14 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
+### [Keine Rückfälle: Studie zu mRNA-Impfungen macht Brustkrebs-Patientinnen Hoffnung](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTYxYi0zbnJieEdKSTdiNXF2MDdEZ0ZPaFF3eDZFV0U3MFNVc0QyOFFjZTRhaWF5UDZFcWhWSi1CZTVISndNZTJnaVNld253b3l1VGJoazB1dVY5VXg1MXBReFdCOTZIT1FIOXNGUlR6djNSTVEzYl9qbldOdndHVW9Tdk9yR0tHOFlES3BieEtjYmdxU1JGTlZCR0l4RTVO?oc=5)
+
+2026-07-15 <span class="news-indication-tag">Krebs</span>
+
+來源：[MDR.de](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTYxYi0zbnJieEdKSTdiNXF2MDdEZ0ZPaFF3eDZFV0U3MFNVc0QyOFFjZTRhaWF5UDZFcWhWSi1CZTVISndNZTJnaVNld253b3l1VGJoazB1dVY5VXg1MXBReFdCOTZIT1FIOXNGUlR6djNSTVEzYl9qbldOdndHVW9Tdk9yR0tHOFlES3BieEtjYmdxU1JGTlZCR0l4RTVO?oc=5)
+
+---
+
 ### [Brustkrebs: Vitamin-D-Mangel verdreifacht Schmerzrisiko nach OP](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUc2cDJTa3dCcVI2eGctX2VGckRJRmRBamEzVnpFWm9DbWhjNWQtRVVOZ1Q1cXI5bnFwbTc2TVhuQlpqNHlOdFY2SHZGbmFmcW1uVjRfREpXaFV3UktOUHQtUGQyeFJ0MXhmRzJIamRGazhWcG8xZkpoZlp6a0dhYkV1ZU5uM3dyRzJjSWR1cld0d3hWWjBDc0VHZUZRdktjTlJYRnBhMU5NbzByTXN6dA?oc=5)
 
 2026-07-14 <span class="news-indication-tag">Krebs</span>
@@ -150,19 +174,11 @@ permalink: /news/nomegestrol-acetate/
 
 ---
 
-### [Les produits ultra-transformés ont des conséquences catastrophiques sur notre santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTl9rZUNtSkFTUUJYZ3hYU3JMdXNhQXhlYVp3WmdjU29NdzNvSGFJMjl1bG1Ea3ZCVnQ2dWxNQnFQN3RpdEl1Y0RPRzNFTlA0ZjJpc1lBMl9Ob3Z4djM2eWNvZnpQT3dqX2tTNGJQOGRNUktzXzd2bDFsXzBlVHp5LVdxbi00endMMERQX1c2c1I?oc=5)
-
-2026-07-14 <span class="news-indication-tag">cancer</span>
-
-來源：[tameteo.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTl9rZUNtSkFTUUJYZ3hYU3JMdXNhQXhlYVp3WmdjU29NdzNvSGFJMjl1bG1Ea3ZCVnQ2dWxNQnFQN3RpdEl1Y0RPRzNFTlA0ZjJpc1lBMl9Ob3Z4djM2eWNvZnpQT3dqX2tTNGJQOGRNUktzXzd2bDFsXzBlVHp5LVdxbi00endMMERQX1c2c1I?oc=5)
-
----
-
-### [Screening oncologici, in Fvg adesioni sopra la media ma gli inviti restano incompleti - Messaggero Veneto](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS29pZUlWRWRRdHVNY0dwLTNRZlFaY1Q2dGxTYVo1cGd2TEhOYnFxT2tIemlGWllKZHlEWVlTRy1PSVNjX212ZGtkWnd0aGNRelV0SjJwSVZBd3VTRjhPT2ZOeFVsMm5fWENSaHl4azAybGk3RGtscEFYaDh2UlVtcUNrdHJQa1hhb0cwSG85cGc4T2xCUjgxX0FkV05RdG90QWJsSzFSWnFaeFdBQXZ2ag?oc=5)
+### [Screening oncologici, in Calabria adesione sotto la media nazionale - il Lametino.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZ5NG5jZXd0Xzc4UndOZk1PaHJiLXR4TWtOMUxJT3FIWTNPbHNRTjdBYlRzTW5kOVl0RHEtNUZMX0JtLUs4RWI0U3hQN2JUeW93alVaal9PYVEySWs5dC1RYk1pSUFYaC1PT1lCQkMtM1RMNFFuQTBFeGdncFpvWDgwLWR2dWdnZElIOEg1cmM1dGxIVjItUXlsTWUtOU5vTzltQ00tMA?oc=5)
 
 2026-07-14 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[Messaggero Veneto](https://news.google.com/rss/articles/CBMisAFBVV95cUxPS29pZUlWRWRRdHVNY0dwLTNRZlFaY1Q2dGxTYVo1cGd2TEhOYnFxT2tIemlGWllKZHlEWVlTRy1PSVNjX212ZGtkWnd0aGNRelV0SjJwSVZBd3VTRjhPT2ZOeFVsMm5fWENSaHl4azAybGk3RGtscEFYaDh2UlVtcUNrdHJQa1hhb0cwSG85cGc4T2xCUjgxX0FkV05RdG90QWJsSzFSWnFaeFdBQXZ2ag?oc=5)
+來源：[il Lametino.it](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNHZ5NG5jZXd0Xzc4UndOZk1PaHJiLXR4TWtOMUxJT3FIWTNPbHNRTjdBYlRzTW5kOVl0RHEtNUZMX0JtLUs4RWI0U3hQN2JUeW93alVaal9PYVEySWs5dC1RYk1pSUFYaC1PT1lCQkMtM1RMNFFuQTBFeGdncFpvWDgwLWR2dWdnZElIOEg1cmM1dGxIVjItUXlsTWUtOU5vTzltQ00tMA?oc=5)
 
 ---
 
@@ -171,22 +187,6 @@ permalink: /news/nomegestrol-acetate/
 2026-07-14 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxORlFqZ3pfWWNxRmxxYkNWdzBqRkpuX2JKUnQ3M0EyY2ZYUzJ5VHk5Ym1OUkZRM2Q5M2puYU9ybElDMDJsNlBVRE1jd2h0cWpsRWVJVEVNbzRTNnZrNXhhTVNzUnBOd0Q1ZlpzV0s1NU9qcmhxQW1VQXZRYTFjd29LNzEzN1dtdlU?oc=5)
-
----
-
-### [Metz. Infirmière, elle combat deux cancers et écrit un livre pour décrire l’effondrement du système de santé - Le Républicain Lorrain](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN2tUVGdOUWZrTUxhR2FjMkFwWk84S2Z5eDBQNTRweGlyd3MxZ1RCZTFramJVSVNlUDl1d1ctZkJtVTBfTlRMQ2NUM2RtWXJtcEw1d1lUeklYMHo0NnFTYTlKR2QtbUZPbmUzdVdMUmJfdXRudTEtelpuNnBBNjZTSHQ5cFFuRlU0aWQ2N2luRWRGRzBwb3BPaUxVTTdUQjBPX1F0RDdPM0FoR21uUHdHWFh1YncyWlNUb3FUSVBHbUhQVW96ZXQ1bjlBWFJ5TElfcF9wdE0xZHNfQ2pmd09Ld3dRZ0Jvel93RkVzVHNicGJWVGlmX1VqcjFkclM?oc=5)
-
-2026-07-14 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Républicain Lorrain](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN2tUVGdOUWZrTUxhR2FjMkFwWk84S2Z5eDBQNTRweGlyd3MxZ1RCZTFramJVSVNlUDl1d1ctZkJtVTBfTlRMQ2NUM2RtWXJtcEw1d1lUeklYMHo0NnFTYTlKR2QtbUZPbmUzdVdMUmJfdXRudTEtelpuNnBBNjZTSHQ5cFFuRlU0aWQ2N2luRWRGRzBwb3BPaUxVTTdUQjBPX1F0RDdPM0FoR21uUHdHWFh1YncyWlNUb3FUSVBHbUhQVW96ZXQ1bjlBWFJ5TElfcF9wdE0xZHNfQ2pmd09Ld3dRZ0Jvel93RkVzVHNicGJWVGlmX1VqcjFkclM?oc=5)
-
----
-
-### [Tumore della prostata. La teranostica sta cambiando la storia della malattia, ma soprattutto sta cambiando la storia della persona](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
-
-2026-07-14 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS2JJWjJqM2dzMDV6NkJrMFZHS0VHRnQ5VFRoaHotclhuWGFDUDQtZm54ZGgxS2dMSGppZXlKUW9MWTdZb2d2M2FjZUZ2cjNDcnZZN1cwdHo3SVdST1VObmZoYkZaRHlnV3N3UC10TjZCSTV2MnktelBIS2ZFTENCd3JjdEE5bXVyUGVtU2sxdXJEMUJUNnRraXFMNWxJUnJMLVJtZ2p0UmpWajd3ZXM5cFJtbEFHcEdtclFJMzlRa1VTTlBWVnBHc1VMWEpIbTl6bHFGd3JXU1dRMkItOC1LLWstckNOa3hhNmhOLUU5NE1TSi1wRTF2N1ctcFZDM3htNTNCSFVkTE4tQXM?oc=5)
 
 ---
 
