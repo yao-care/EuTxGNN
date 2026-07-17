@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Mash: la malattia del fegato diffusa ma poco conosciuta - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
+
+2026-07-17 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
+
+---
 
 ### [Bluthochdruck: Neue Leitlinien verbinden Herz, Nieren und Stoffwechsel](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
 

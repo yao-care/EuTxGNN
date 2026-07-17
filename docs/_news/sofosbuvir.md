@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（18 則）
 
-### [Enger Zusammenhang: Anstieg der Herz-Kreislauf-Tode infolge von Grippewellen - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHBnZmtlM0tDMS1VdXdwTHQyWFRBblFFUjR3Skw1ZnNaVEs0OEtLekV0Snl1TjU3Y2EzNFhsT0U3cnNtSzQ3Z0ZQNU1NVXhpQW1ZYnhpOUxJbHI2a0VUZ1NIckwyYU00bHdjakxILWczcDhVN0dmQ1FLaHVWdDhsclowS3pTVXQxb1FEWlRZSmk2RHBseGI5NHduM0tGRm10MUlnd2F3?oc=5)
+### [Eiserne Lunge: Letzte Nutzerin verstorben | DIE PTA](https://news.google.com/rss/articles/CBMingFBVV95cUxNWjI3X2VjTE9mejdOWWhfWFRFTzZ2c2x4UXQ2SWFNZzM3Yk9BT3ZoRm11ZEVpZnEwVkJ2ODdTTTlFVHFzeFgxa2dxUWo5QTBDSjJqZHlvajR3TV82TWpjVVA3WUxWMVMzUnotakZkVWp5Mkc3LXprM1BscFpSZ1BQQkZPY2diV1BKWnFDRjNIZmk4ZmpSeHZnVDhSVkhVZw?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
-來源：[Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHBnZmtlM0tDMS1VdXdwTHQyWFRBblFFUjR3Skw1ZnNaVEs0OEtLekV0Snl1TjU3Y2EzNFhsT0U3cnNtSzQ3Z0ZQNU1NVXhpQW1ZYnhpOUxJbHI2a0VUZ1NIckwyYU00bHdjakxILWczcDhVN0dmQ1FLaHVWdDhsclowS3pTVXQxb1FEWlRZSmk2RHBseGI5NHduM0tGRm10MUlnd2F3?oc=5)
+來源：[diepta.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNWjI3X2VjTE9mejdOWWhfWFRFTzZ2c2x4UXQ2SWFNZzM3Yk9BT3ZoRm11ZEVpZnEwVkJ2ODdTTTlFVHFzeFgxa2dxUWo5QTBDSjJqZHlvajR3TV82TWpjVVA3WUxWMVMzUnotakZkVWp5Mkc3LXprM1BscFpSZ1BQQkZPY2diV1BKWnFDRjNIZmk4ZmpSeHZnVDhSVkhVZw?oc=5)
+
+---
+
+### [Veränderte saisonale Häufungen: Atemwegsinfektionen und kardiovaskuläre Mortalität unter Einfluss der COVID-19-Pandemie - Biermann Medizin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1poRjNqN1BDYmRqdkIzQjk3RW9sd3laSDhRdldJd1dyc2lFT2tDV0xuZkpkdHZTRkhRRGNyczg2NmZKdGhVTEFnOEJrcHdXbjhadEVraE5obFVhcmR6SGNtUGZsY0dReHJIUjdpZ1ZVci1kUUt5U1VGRnF0TVRTZENqeENfc0prRmpuNFRfd2xVQTJzNDhJNlhfYmhhOTFUZG1DLTNSZlpMNDhieTNEU3JrZjlzRGlMTUdkdkdJakQxT1AzMjZzOWtSSnUxMnFGTTFBaFg4MktTQXZZLUFBVFRzQkNEdw?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1poRjNqN1BDYmRqdkIzQjk3RW9sd3laSDhRdldJd1dyc2lFT2tDV0xuZkpkdHZTRkhRRGNyczg2NmZKdGhVTEFnOEJrcHdXbjhadEVraE5obFVhcmR6SGNtUGZsY0dReHJIUjdpZ1ZVci1kUUt5U1VGRnF0TVRTZENqeENfc0prRmpuNFRfd2xVQTJzNDhJNlhfYmhhOTFUZG1DLTNSZlpMNDhieTNEU3JrZjlzRGlMTUdkdkdJakQxT1AzMjZzOWtSSnUxMnFGTTFBaFg4MktTQXZZLUFBVFRzQkNEdw?oc=5)
+
+---
+
+### [Fatty liver disease symptoms in the bathroom that mean the condition has progressed, according to a doctor - GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
+
+---
+
+### [Mash: la malattia del fegato diffusa ma poco conosciuta - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
+
+2026-07-17 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
+
+---
+
+### ['Cancer diagnosis at 14 inspired my to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
+
+2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
+
+---
+
+### [More than 600,000 Britons ‘too fat to work’ - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc09lbnkycjVNTEpEVVYzLVhwLW0wWWtmM0E2bDVvdDkxbkxLOV95a1NjaDduSWtmcS1udnEwTmVnd0pkQlpUU0VhZzdxT3hUSEZHSmN5Ym5YV2ZaMTlQaDY3ZzFKeWxZX25WVzlLeEs5d2NHdUtIZWl6UlZSMkcwb2NJS0F6XzVPNW1vRWxn?oc=5)
+
+2026-07-17 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc09lbnkycjVNTEpEVVYzLVhwLW0wWWtmM0E2bDVvdDkxbkxLOV95a1NjaDduSWtmcS1udnEwTmVnd0pkQlpUU0VhZzdxT3hUSEZHSmN5Ym5YV2ZaMTlQaDY3ZzFKeWxZX25WVzlLeEs5d2NHdUtIZWl6UlZSMkcwb2NJS0F6XzVPNW1vRWxn?oc=5)
 
 ---
 
@@ -86,27 +126,35 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Brain implant helps paralysed man to feed himself and drink from cup - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5)
+### [La OMS actualiza sus directrices para prevenir o retrasar hasta el 45% de los casos de demencia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
 
 2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5)
-
----
-
-### [Fatty liver disease symptoms in the bathroom that mean the condition has progressed, according to a doctor - GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
-
----
-
-### [La OMS actualiza sus directrices para prevenir o retrasar hasta el 45% de los casos de demencia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
 來源：[iSanidad](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
+
+---
+
+### [Demenze, il 45% possono essere prevenute o rallentate con stile di vita, alimentazione e integratori](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2tBeDFscFJrLTJMdm9KMm1SRWI1Z0JOM1lJSWN5MnMzb0w3TlJZRkFzZDZtcW8yWTQyTEllb0l3T2tLT1JvMGhFLVF4TC1BQnRqRlQ2VHdCcGVwd2szblB5NWp6ZEs5TTJOYjhJekMxZEdkM2o5Wm5Yb3RjVXcwZVN0OWRReFlmZUp2TlZQZk9IUnJLeUpQdGVnbjhjSVRlSkxKUWt6YWkzTUxfQXJ2bm1yMmliZHFQRHZ6OGVuSVY1ZkNCT0VLMkhjbFFCcFMzcWQtbkNyczdkWktkLXFXOXo4WTgyY1V3UG54LQ?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2tBeDFscFJrLTJMdm9KMm1SRWI1Z0JOM1lJSWN5MnMzb0w3TlJZRkFzZDZtcW8yWTQyTEllb0l3T2tLT1JvMGhFLVF4TC1BQnRqRlQ2VHdCcGVwd2szblB5NWp6ZEs5TTJOYjhJekMxZEdkM2o5Wm5Yb3RjVXcwZVN0OWRReFlmZUp2TlZQZk9IUnJLeUpQdGVnbjhjSVRlSkxKUWt6YWkzTUxfQXJ2bm1yMmliZHFQRHZ6OGVuSVY1ZkNCT0VLMkhjbFFCcFMzcWQtbkNyczdkWktkLXFXOXo4WTgyY1V3UG54LQ?oc=5)
+
+---
+
+### [Paralysed man regains hand function through novel brain technology - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5)
+
+---
+
+### [RD Congo, l'epidemia di Ebola sempre più fuori controllo - Vatican News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2ZiMU5HSk92NzF0aWU1TE95WUZfb2xLSk55TURhZ2hnb0ZKYm5iZXdFUUJhcVU4TERIQllva1JWT3JVbGFrM2JWNGd5TGRiUWIySlNOVkpXckRaSXVjZlMwR0JNelVtYU44TE9YYmE0dWdORDFtMmRVdWVrRmFjaWNNbUx0ZzgycXNVeVplOUhfRGRFanY5bVBFaVpYaU90UjEzUGx1cVlaMlVPc2c?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[Vatican News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2ZiMU5HSk92NzF0aWU1TE95WUZfb2xLSk55TURhZ2hnb0ZKYm5iZXdFUUJhcVU4TERIQllva1JWT3JVbGFrM2JWNGd5TGRiUWIySlNOVkpXckRaSXVjZlMwR0JNelVtYU44TE9YYmE0dWdORDFtMmRVdWVrRmFjaWNNbUx0ZzgycXNVeVplOUhfRGRFanY5bVBFaVpYaU90UjEzUGx1cVlaMlVPc2c?oc=5)
 
 ---
 
@@ -118,19 +166,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Schnelles Gehen und KI-gestützte Frühtests: Weniger Demenzrisiko ab 30 Minuten - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1FpQnY3N3RFa1ZSQWhsQ0dkX0F1ZE1WNV9iX0hEYjlJcjVWdVZjMmVVaTFuTWt4MlR4dlhkRExIY0ZtN3FFNmxoR0VDRTAyM3I1MFBZMm5aN25UQXRNdzJrODBfM0k1bk1kS2xrM0tSRW16S0VBM19mV1dyVzlocVQ2NzdFc28waFIwcWpOZEQwd0FGQms0NWhwRmFYU1dFM2h2SHR1eTdLeWpNSEtWSg?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1FpQnY3N3RFa1ZSQWhsQ0dkX0F1ZE1WNV9iX0hEYjlJcjVWdVZjMmVVaTFuTWt4MlR4dlhkRExIY0ZtN3FFNmxoR0VDRTAyM3I1MFBZMm5aN25UQXRNdzJrODBfM0k1bk1kS2xrM0tSRW16S0VBM19mV1dyVzlocVQ2NzdFc28waFIwcWpOZEQwd0FGQms0NWhwRmFYU1dFM2h2SHR1eTdLeWpNSEtWSg?oc=5)
+
+---
+
 ### [Más cerca del origen de la esclerosis múltiple: observan cómo el virus Epstein-Barr dispara la respuesta inmune - El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxNOVgzWXZ0UTJ5aHFJby0xR1ZPcFZRLTdQMGV4UHVVNWJ6RlBybTNEWGl4ZDZfYzZOX1hkYVJmbmdFLWFFdjNSRWxHUTJMb1pLMlpTbHlDVDY4VW1MYVFuMklwSFlVUGFnZ0o5TENBM2VXMVFSaml1NkNvam9vSUR4aVF3cUNzRTQ3RUc4UnhsckdsTU05Mmk4djN3VXVCMkFxVGZEdy03S1I5aGtVLW5mMk16eEp5cVJCdS1fbU1IV29fZkF2Yk1UZkxPdDZNWFpJX09WRzNqXzFGY3gzWThCckNObUtQTUVURGM4cy1uaHljU1pRUVp4Szk2MnZNM0FLN3fSAYcCQVVfeXFMTjNVRklVZ3Q2Z0M4UmV0WTh0R3hnQXZjWFI0N1ZQQmptMzF4d2tWb3pKeEVoMTVzMTVtc2Q0aVVmZWNrX1hpZjdxRGRSYUpZM29JaGdOWTFYUU13bXdaNHM4OF9vejRIbWlYZThXRktTT203NjZFc0diQU4tVzNqWXY4Q2RWeFpCVmFIc2NEZUI1eWl6bW1UcnRrcmF5bzRjRFVsUDBoOUw3eXhoNUZ1T0JNalBUNnhyM3VldnhIeUF4VDFnZlpBWElvVTlSbWJkUnFudm1yR0IxTTJEeFM4U1JXUkhBeXNhbkU2RUQxdllYd0VLbFl5YVY5RFVkTEExcFRKMWZTNTg?oc=5)
 
 2026-07-15 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxNOVgzWXZ0UTJ5aHFJby0xR1ZPcFZRLTdQMGV4UHVVNWJ6RlBybTNEWGl4ZDZfYzZOX1hkYVJmbmdFLWFFdjNSRWxHUTJMb1pLMlpTbHlDVDY4VW1MYVFuMklwSFlVUGFnZ0o5TENBM2VXMVFSaml1NkNvam9vSUR4aVF3cUNzRTQ3RUc4UnhsckdsTU05Mmk4djN3VXVCMkFxVGZEdy03S1I5aGtVLW5mMk16eEp5cVJCdS1fbU1IV29fZkF2Yk1UZkxPdDZNWFpJX09WRzNqXzFGY3gzWThCckNObUtQTUVURGM4cy1uaHljU1pRUVp4Szk2MnZNM0FLN3fSAYcCQVVfeXFMTjNVRklVZ3Q2Z0M4UmV0WTh0R3hnQXZjWFI0N1ZQQmptMzF4d2tWb3pKeEVoMTVzMTVtc2Q0aVVmZWNrX1hpZjdxRGRSYUpZM29JaGdOWTFYUU13bXdaNHM4OF9vejRIbWlYZThXRktTT203NjZFc0diQU4tVzNqWXY4Q2RWeFpCVmFIc2NEZUI1eWl6bW1UcnRrcmF5bzRjRFVsUDBoOUw3eXhoNUZ1T0JNalBUNnhyM3VldnhIeUF4VDFnZlpBWElvVTlSbWJkUnFudm1yR0IxTTJEeFM4U1JXUkhBeXNhbkU2RUQxdllYd0VLbFl5YVY5RFVkTEExcFRKMWZTNTg?oc=5)
-
----
-
-### [Ultra-processed food linked to 25% of ALL heart disease deaths, damning research claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
-
-2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
 
 ---
 
@@ -142,11 +190,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Demenza, l'Oms aggiorna le raccomandazioni sulla prevenzione. Le nuove indicazioni](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1NYZWtWWFF5UXAxQzZNVjZOSE5tS1lqYTBxeUFadWk2RF84VEdBcHpUMUtYLXUwZzMwQWo0SnRGY3pobmFTUW5LRzZSWURSX09OZzJsZ2Vsc241ZEVvR2QwWnBtZnNyaV9EYjh0Vkh2TUtrdFVfMF9QamdaUFZVUmc5TlJCUW96UDhSa2lWYm4yQUZ0c0IxaU80RzZSeVpLdjlvTU03Z25PVng2VFhza2p3SFVFTU5BdUE?oc=5)
+### [Hirntumore: Gestagene erhöhen Risiko - PTA IN LOVE](https://news.google.com/rss/articles/CBMickFVX3lxTE0yYkVhMWZYZnJjME8xY0NYdHRBbDd3TDk3eTE2eE1ONzlTSk1ZRlpYV1VXclZRX2I1M1llZGZIQUZlV2hoZnRlU2FyN2NYTjNDTGh1UzZ4MUV1aVNtQWtkbFM3SUt4M1ItMzVyTy1oODZyZw?oc=5)
 
-2026-07-15 <span class="news-indication-tag">MS</span>
+2026-07-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
-來源：[Doctor33](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1NYZWtWWFF5UXAxQzZNVjZOSE5tS1lqYTBxeUFadWk2RF84VEdBcHpUMUtYLXUwZzMwQWo0SnRGY3pobmFTUW5LRzZSWURSX09OZzJsZ2Vsc241ZEVvR2QwWnBtZnNyaV9EYjh0Vkh2TUtrdFVfMF9QamdaUFZVUmc5TlJCUW96UDhSa2lWYm4yQUZ0c0IxaU80RzZSeVpLdjlvTU03Z25PVng2VFhza2p3SFVFTU5BdUE?oc=5)
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMickFVX3lxTE0yYkVhMWZYZnJjME8xY0NYdHRBbDd3TDk3eTE2eE1ONzlTSk1ZRlpYV1VXclZRX2I1M1llZGZIQUZlV2hoZnRlU2FyN2NYTjNDTGh1UzZ4MUV1aVNtQWtkbFM3SUt4M1ItMzVyTy1oODZyZw?oc=5)
 
 ---
 

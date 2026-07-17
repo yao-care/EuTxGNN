@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+
+---
+
+### [Caldo estremo: 65mila a rischio nel Mantovano, allerta bimbi, donne incinte e anziani - Gazzetta di Mantova](https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdMMnJaZ3JxdkpqU3dhSmp4T2w4MzFNUFVjb3dxTVkwemVtcms5ZENKTnZwN1NmLUcxMUFMeElsLTdYalZxNHJVODdTLTNrNlNKbldqVlZaZUcxWDd3VDBkVGlkYzJaSENsc0hxQ2gwR2FaUGw0NVJFQzhRR0lUUlJEbjlwbERUWjkyU1lzajJUOFRmWU10R3VLdFVKQ2tVaFp1OUpOS1hqRmxac3Z2S0NGNkltQdIBuwFBVV95cUxPS0hvZ2tTSzJtd2NncU0xd19pWmg0Z1NTaEFQSkYtejlWUXJoMS1BZHdVZllRcElaN1dBVGVJY3FONnI5b3ZBcDJVSEFEcGtNcWgzZkV2cWtuNk11bjBRakJ4cG1zMzMxNVBVbHZRQ25JaUxudTI2QzBfd0JrUUhOREpVaV9jUk42RzR4NWt0UU1VTjQyN0U4NHVBWGdvQ05lZmR6alQwU3ZpamluUU9waUdxamFoVVozSmJJ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">ictus</span>
+
+來源：[Gazzetta di Mantova](https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdMMnJaZ3JxdkpqU3dhSmp4T2w4MzFNUFVjb3dxTVkwemVtcms5ZENKTnZwN1NmLUcxMUFMeElsLTdYalZxNHJVODdTLTNrNlNKbldqVlZaZUcxWDd3VDBkVGlkYzJaSENsc0hxQ2gwR2FaUGw0NVJFQzhRR0lUUlJEbjlwbERUWjkyU1lzajJUOFRmWU10R3VLdFVKQ2tVaFp1OUpOS1hqRmxac3Z2S0NGNkltQdIBuwFBVV95cUxPS0hvZ2tTSzJtd2NncU0xd19pWmg0Z1NTaEFQSkYtejlWUXJoMS1BZHdVZllRcElaN1dBVGVJY3FONnI5b3ZBcDJVSEFEcGtNcWgzZkV2cWtuNk11bjBRakJ4cG1zMzMxNVBVbHZRQ25JaUxudTI2QzBfd0JrUUhOREpVaV9jUk42RzR4NWt0UU1VTjQyN0U4NHVBWGdvQ05lZmR6alQwU3ZpamluUU9waUdxamFoVVozSmJJ?oc=5)
+
+---
 
 
 <div class="disclaimer">
