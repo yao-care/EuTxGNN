@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [Glasgow mother with incurable brain cancer treasuring every moment with young sons - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEJmLXZpa3FMZl9sMm5IZXFvcEQ3ckJnMTF6N2pXS09VZU1OQUVubjBNOTFsQkRGWVpFRUtxMlBRd0o3QTRtVk04Uzc3UVBMNDAtWVZtdnpmZFF6QlJRRS1kRjVURjBaVnRtZkI2UVNYMmd3ektISXZxMjFiazJyclE5OFFXLXc1aFpEVDFWT05NVzZ5LW8xOWJ1TlVMbmJjemk2VEtNVmRjVzZQT2tjem1GbTlvcVh5M0E?oc=5)
+### [Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
 
-2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
+2026-07-17 <span class="news-indication-tag">diabete</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEJmLXZpa3FMZl9sMm5IZXFvcEQ3ckJnMTF6N2pXS09VZU1OQUVubjBNOTFsQkRGWVpFRUtxMlBRd0o3QTRtVk04Uzc3UVBMNDAtWVZtdnpmZFF6QlJRRS1kRjVURjBaVnRtZkI2UVNYMmd3ektISXZxMjFiazJyclE5OFFXLXc1aFpEVDFWT05NVzZ5LW8xOWJ1TlVMbmJjemk2VEtNVmRjVzZQT2tjem1GbTlvcVh5M0E?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
 
 ---
 
@@ -70,6 +70,14 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Typ-2-Diabetes: Low-Insulin-Diät senkt Blutzucker um 17%](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
+
+2026-07-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
+
+---
+
 ### [Las secuelas 'no mentales' del maltrato infantil: «Saber que tras mis diez enfermedades está mi pasado me ayuda a combatirlas mejor»](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span>
@@ -78,19 +86,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Low-Insulin-Ernährung: Studie belegt 5,2 kg Gewichtsverlust](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
+### [Neue Maßstäbe bei der kontinuierlichen Zuckermessung speziell für Menschen mit Typ-2-Diabetes: / Neuer Sensor Dexcom Flex ab heute in Deutschland verfügbar - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
-
----
-
-### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
-
-2026-07-16 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
 
 ---
 
@@ -123,14 +123,6 @@ permalink: /news/abaloparatide/
 2026-07-16 <span class="news-indication-tag">migraña</span>
 
 來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
-
----
-
-### [Typ-1-Diabetes: Hypoimmune Inselzelltransplantation vermeidet Immunsuppression – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
-
-2026-07-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
 
 ---
 

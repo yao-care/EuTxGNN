@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,13 +114,29 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+
+2026-07-17
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+
+---
 
 ### [SGLT2-Hemmer und CKM: Alzheimer-Risiko sinkt laut neuen Daten um bis zu 43% - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
 
 2026-07-17
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Low-Insulin-Diät senkt Blutzucker um 17%](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
+
+2026-07-17
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
 
 ---
 
@@ -132,11 +148,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Low-Insulin-Ernährung: Studie belegt 5,2 kg Gewichtsverlust](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
+### [Neue Maßstäbe bei der kontinuierlichen Zuckermessung speziell für Menschen mit Typ-2-Diabetes: / Neuer Sensor Dexcom Flex ab heute in Deutschland verfügbar - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
 
 2026-07-16
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
 
 ---
 
@@ -145,14 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-07-16
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
-
----
-
-### [Typ-1-Diabetes: Hypoimmune Inselzelltransplantation vermeidet Immunsuppression – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
-
-2026-07-15
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
 
 ---
 

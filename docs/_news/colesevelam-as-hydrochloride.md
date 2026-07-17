@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+
+2026-07-17 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+
+---
 
 ### [El mavacamten es eficaz para la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Typ-2-Diabetes: Low-Insulin-Diät senkt Blutzucker um 17%](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
+
+2026-07-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
+
+---
+
 ### [Las secuelas 'no mentales' del maltrato infantil: «Saber que tras mis diez enfermedades está mi pasado me ayuda a combatirlas mejor»](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span>
@@ -78,11 +94,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Low-Insulin-Ernährung: Studie belegt 5,2 kg Gewichtsverlust](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
+### [Neue Maßstäbe bei der kontinuierlichen Zuckermessung speziell für Menschen mit Typ-2-Diabetes: / Neuer Sensor Dexcom Flex ab heute in Deutschland verfügbar - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
+來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
 
 ---
 
@@ -99,14 +115,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-07-15 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
-
----
-
-### [Typ-1-Diabetes: Hypoimmune Inselzelltransplantation vermeidet Immunsuppression – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
-
-2026-07-15 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU3EybnJIcFpjWlZUVm1hMmZCMEh0N2FQeEVVZFJialNZU0l0WThfTmdxZ24xV3BCQWJJeExQWmw3X2RfeEpSLXM5bzV1RHh2d3YxVXVQd1hxc0FsMWktdmpEcHdCMjNFQWdaVk5jWTNuajd1VkJzX1l5RURqWGFYLW1rdnN3N2NuUHp3SWRxak8za2tDT0w1Y09zS1gwWDAxWkg2TVl6amNXYzZoVXNEZndMOVVhbUtIQlZUVGlEcTdja1JQOUdNOUJ1X0dQQVJPakhfaFM5ZV9nVE56NkpV?oc=5)
 
 ---
 

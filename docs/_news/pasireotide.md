@@ -14,7 +14,7 @@ permalink: /news/pasireotide/
 ---
 
 <p class="key-answer" data-question="Pasireotide 有什麼相關新聞？">
-<strong>Pasireotide</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pasireotide</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/pasireotide/
 <p><a href="{{ '/drugs/pasireotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（30 則）
+
+### [Präeklampsie: Apherese könnte Schwangerschaft verlängern](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVzN2aWR6ejdUZnR5TWxEQ2RzRVotVFozQ05YUTZOT0YyVTNJWFZtWnJMWDVjdHVMVWJzbl9JZkxSUnFiQ09ETE1laTNITkNDNDRtSXd4RFBYM3p4ajd4UHpOUzNDc3U3T3AzcFF2ellTYmpMSXFSNzdCa2I2Q0lSVlI1eUNacmFaUDhDaThweHRGT20ydzZHeVpoWEhXUnFxZ2lDdm9hLXRkQWhlVUZBRVE2RzgyNjk0ODJrR2hPb1c2V0Q2WlotUEtYSVZXVUt3N2VQdW11a3pMV1NVV2l3NENPTkxnUQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">AF</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVzN2aWR6ejdUZnR5TWxEQ2RzRVotVFozQ05YUTZOT0YyVTNJWFZtWnJMWDVjdHVMVWJzbl9JZkxSUnFiQ09ETE1laTNITkNDNDRtSXd4RFBYM3p4ajd4UHpOUzNDc3U3T3AzcFF2ellTYmpMSXFSNzdCa2I2Q0lSVlI1eUNacmFaUDhDaThweHRGT20ydzZHeVpoWEhXUnFxZ2lDdm9hLXRkQWhlVUZBRVE2RzgyNjk0ODJrR2hPb1c2V0Q2WlotUEtYSVZXVUt3N2VQdW11a3pMV1NVV2l3NENPTkxnUQ?oc=5)
+
+---
+
+### [Why America became addicted to protein - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmp6X2pQT1ZDcXFMVHZXdE5tZjg4UE9DSzJQNHN3WWduX0twbzhNdWJXMWdvNnVvcnhJVF9TX1RkOXEySVRxYVVPcnBBekpYSmJ5Zk9UdzhMNWwzRm85WGJHRllVbWFES1FmSHljTzZac285MFdjVXQ1THJqZE1SRFlEVkVsZ0p6alFQeGZWMmQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmp6X2pQT1ZDcXFMVHZXdE5tZjg4UE9DSzJQNHN3WWduX0twbzhNdWJXMWdvNnVvcnhJVF9TX1RkOXEySVRxYVVPcnBBekpYSmJ5Zk9UdzhMNWwzRm85WGJHRllVbWFES1FmSHljTzZac285MFdjVXQ1THJqZE1SRFlEVkVsZ0p6alFQeGZWMmQ?oc=5)
+
+---
 
 ### [Rheuma: Krafttraining senkt Demenzrisiko um bis zu 45 Prozent](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeW5IUTA3WGNmZUF5RHhxaFU0WVREOEd3SzJNVWFRb0xwSTlhTE5ZUjhva0RmaEp2bWdvMWZzbzFfTVUtOHhYNEUtdDRGd1ZhZmxON080WDdKYmJ3Sk81Q0o5WnZobklBU09QLXhUWi1GeDFINjdxRXpyaWl6QVRySU03OXJscHREdnktRHlOdm9oNU8yM3h0UlAwTWc5amZVczFiQzlKaG1IVUUwWWc?oc=5)
 
@@ -78,11 +94,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Rischio Escherichia coli nel formaggio, scatta il richiamo: i lotti da non consumare](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGZTd3JEd3p2X3ZiYTZmZnRmNFd2M2otSWRoM19tal8yN2JWWl90ZjRybm1ZbWRiaEhEUS1lOXIwdHFrWkEwVnNyRF93M3RhTWxmdVpxRVl2b1VGQmR3WlF6VjVIT3l1T3RBMll5bGdnOTlRVGcyc3RZTlZNVFBSM1htc1JQelJ1Zms5SWNaZnQ1QXlPVUs3TlU1LXd2M0JxeU4xMDBYekl2ZFHSAbABQVVfeXFMTUsyRm9FaEdSckhOYzdBNnEtYzNXbENkRVZlc2U1dUtoWEE1VDJuelNWbk1hOVhuamZTRXlKT25ZQjUwTjlhb1l5NDRNSXZwdzctaWdhYjRfRXI0bjBVTHpTbldiaVJVZGRTNWR3UXpjZnlUbEdySnZTcFBvOFVuVk8xaVMwUlZ6REVFNk5iT0dWeGo5bEk4MWk1a0JiZUlueDhmNXpMMmYyYWJxb1dfVDY?oc=5)
+### [Alysha (33) hielt Schwangerschaft für Nebenwirkung von Abnehmmedikament](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWhmbUVNMWRyNEtrcDZnSDQ4eGNMeE03SUF3UWhUUkFlTkxQVktDQ19Id1VVTWdYYWY0SjBfNWdGMmpRWVB2R0NzbF93eUJaNnpaazg3SloweUdQRWYwaUhvUTNpMWFTNkJZcFJieE05b043ZnVTZXFIR1Y0ZEd2STdRaVo2b1k0NDNKdTVhcF9PQUYwRmFKUWtrYUM3R3U3NGdwZWxxSEJsY1RUamlr?oc=5)
 
 2026-07-17 <span class="news-indication-tag">AF</span>
 
-來源：[QuiFinanza](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGZTd3JEd3p2X3ZiYTZmZnRmNFd2M2otSWRoM19tal8yN2JWWl90ZjRybm1ZbWRiaEhEUS1lOXIwdHFrWkEwVnNyRF93M3RhTWxmdVpxRVl2b1VGQmR3WlF6VjVIT3l1T3RBMll5bGdnOTlRVGcyc3RZTlZNVFBSM1htc1JQelJ1Zms5SWNaZnQ1QXlPVUs3TlU1LXd2M0JxeU4xMDBYekl2ZFHSAbABQVVfeXFMTUsyRm9FaEdSckhOYzdBNnEtYzNXbENkRVZlc2U1dUtoWEE1VDJuelNWbk1hOVhuamZTRXlKT25ZQjUwTjlhb1l5NDRNSXZwdzctaWdhYjRfRXI0bjBVTHpTbldiaVJVZGRTNWR3UXpjZnlUbEdySnZTcFBvOFVuVk8xaVMwUlZ6REVFNk5iT0dWeGo5bEk4MWk1a0JiZUlueDhmNXpMMmYyYWJxb1dfVDY?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLWhmbUVNMWRyNEtrcDZnSDQ4eGNMeE03SUF3UWhUUkFlTkxQVktDQ19Id1VVTWdYYWY0SjBfNWdGMmpRWVB2R0NzbF93eUJaNnpaazg3SloweUdQRWYwaUhvUTNpMWFTNkJZcFJieE05b043ZnVTZXFIR1Y0ZEd2STdRaVo2b1k0NDNKdTVhcF9PQUYwRmFKUWtrYUM3R3U3NGdwZWxxSEJsY1RUamlr?oc=5)
 
 ---
 
@@ -110,6 +126,22 @@ permalink: /news/pasireotide/
 
 ---
 
+### [Il caldo e i litigi di coppia o i conflitti al lavoro: “Amplifica stanchezza e irritabilità” - la Repubblica](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDFiMGQyczhOYWZNeW5mTmpnSXhSaGRCZzhrclZDSmlHQ3h1RW44T1ZZUVpJTTh4VlRQZXhNQmh4TU41eE1ucWhOLVBrOUl2ZzB1Ry1pbWhVc0s4QmxhY2l2WmJSNEp0blJFZ1F0M0NCOVNKTEdrc1o5S0h4Qm1SZnE5QWNSZnhVb3ZmTWhnZ3VMMnhmTmN4SlpzdGZNTnpzOThseFR4eHU3MldXQUEw0gG0AUFVX3lxTE1rd1ZHemxfTUlEdF9vQmh5bGFfUWFLaGhmOEJwNk51S0FUbFh0M01RRlRyeHBIR3JISV9od0FJTlpBNWxSNHlRTHgwSEpBcnVwanhNTlc4dXlVUzUwa2x6d09SQXNVOTA2aGRfY190ajA5RmJqV0NLMGREamlEX2gxSzJwdnJtZXE2ZkE5WkhFWFVMcUFZOW9lbmRHZEFMZndmc25pdkVvMk9GbldfMlJqWTgxYQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDFiMGQyczhOYWZNeW5mTmpnSXhSaGRCZzhrclZDSmlHQ3h1RW44T1ZZUVpJTTh4VlRQZXhNQmh4TU41eE1ucWhOLVBrOUl2ZzB1Ry1pbWhVc0s4QmxhY2l2WmJSNEp0blJFZ1F0M0NCOVNKTEdrc1o5S0h4Qm1SZnE5QWNSZnhVb3ZmTWhnZ3VMMnhmTmN4SlpzdGZNTnpzOThseFR4eHU3MldXQUEw0gG0AUFVX3lxTE1rd1ZHemxfTUlEdF9vQmh5bGFfUWFLaGhmOEJwNk51S0FUbFh0M01RRlRyeHBIR3JISV9od0FJTlpBNWxSNHlRTHgwSEpBcnVwanhNTlc4dXlVUzUwa2x6d09SQXNVOTA2aGRfY190ajA5RmJqV0NLMGREamlEX2gxSzJwdnJtZXE2ZkE5WkhFWFVMcUFZOW9lbmRHZEFMZndmc25pdkVvMk9GbldfMlJqWTgxYQ?oc=5)
+
+---
+
+### [L'azienda dona un ecografo di ultima generazione al reparto di Ostetricia e Ginecologia del Bufalini](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGhhY1RmckFtQzhVUDN6Z3BBdDB3WDQzelBNRDNVektrMEI1eUZudHEzRjZwM0xpeFZMR284WVRzVVZOYlZnNVAyM3Q5XzR3dFYwbHlxQlBvQWVKcHRaS0NEUm1TRThkYXk3Ti1TVlFHZTY3T042eVdhaW9vYjBYNGFKX3NIdFp4OTZZSHhKbTNaaWdSZ2g0dC14dzJjSnlfMmg5WE1aYXBYWkhOTmtFamJ3R25Uc1ZIaWFsdmNUbkVVMUdKeU5BWG5tR25GM096ZExjU0hETQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">AF</span>
+
+來源：[CesenaToday](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGhhY1RmckFtQzhVUDN6Z3BBdDB3WDQzelBNRDNVektrMEI1eUZudHEzRjZwM0xpeFZMR284WVRzVVZOYlZnNVAyM3Q5XzR3dFYwbHlxQlBvQWVKcHRaS0NEUm1TRThkYXk3Ti1TVlFHZTY3T042eVdhaW9vYjBYNGFKX3NIdFp4OTZZSHhKbTNaaWdSZ2g0dC14dzJjSnlfMmg5WE1aYXBYWkhOTmtFamJ3R25Uc1ZIaWFsdmNUbkVVMUdKeU5BWG5tR25GM096ZExjU0hETQ?oc=5)
+
+---
+
 ### [»Wir sollten den Geschlechtern gerecht werden« - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdURKdEV3TzNzaHdSSkhMSUhCTXJGMWs1LU9yVFNiNnBxU1VPT2w4Q3c1enRfY2pXZlE0ZGFVbEMzNEVCczdaX25lb1lFRHE3VHA1b3NpcU1aRllCTlcyZktfMTJQMlRlbjlpTjhIUFZEaFllaEF0LUIzOFN4b1pycTl3?oc=5)
 
 2026-07-17 <span class="news-indication-tag">AF</span>
@@ -134,27 +166,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Somerset stem cell donor urges others to sign up after dad's diagnosis](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4weThwdmppMkh4QWQxSkJ5YjRldVcwUTNjX2JncGJwbXdrdDFTRHhvV0dMOWJ0SFpOY2R0cXpfUU5naE5JLVFvdEZCNEZYUDZudmY5Q0twX0hXV3VN?oc=5)
-
-2026-07-17 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4weThwdmppMkh4QWQxSkJ5YjRldVcwUTNjX2JncGJwbXdrdDFTRHhvV0dMOWJ0SFpOY2R0cXpfUU5naE5JLVFvdEZCNEZYUDZudmY5Q0twX0hXV3VN?oc=5)
-
----
-
-### ['Cancer diagnosis at 14 inspired my to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
+### ['Cancer diagnosis at 14 inspired me to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
-
----
-
-### [Grimsby and Scunthorpe A&Es breached safety rules](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XcGtTc2pITVZxUVBrYWZSMnNfRlROUlpGbEJNRWlsdm92MjdLWTJUb29qQTJjOWc4bXQtQkIwWkpFNHZ4OTh6aXJFbTJWRmVuWjZtR0tpaXY3MHdp?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XcGtTc2pITVZxUVBrYWZSMnNfRlROUlpGbEJNRWlsdm92MjdLWTJUb29qQTJjOWc4bXQtQkIwWkpFNHZ4OTh6aXJFbTJWRmVuWjZtR0tpaXY3MHdp?oc=5)
 
 ---
 
@@ -163,6 +179,14 @@ permalink: /news/pasireotide/
 2026-07-17 <span class="news-indication-tag">AF</span>
 
 來源：[la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUU52bHp2WEdzSXlhb24tYjNoel9IM0tCOG5TVkN5SDduWW5YMUxtS2tUMjZLNTFUeU9xU3hXTHhuSF9sNklyMlNENTg5Mm90NDhZbTZ3cmcxSEQxN0lESmJONS13bzdsWXk0aGNzTXY1U0Z2blFmVUIzWllZVk1OSUtrX0ZNeUZnX05kdzR2Z2NpeVFDN2xFa3NuWURlcWRqMjVIczYwbmF2T1XSAbABQVVfeXFMTkRvVHpMZzUzbzBCd0Z2eUY1d0ZKWWloS09VM0Fjd0RBYm9vcUk2c05FZjZ1cmo3dHVWSEt3c2paNnhMZlRtbHRObTdnMm5pZk5jRktzWnVfSkM3WFRldmpaZ0tvaHZHN25NT3hNUTl2cTVfdHdYMnVhOWowQWY5LTN5ek52d3V5Zlc4WDJNa1dkMmxKa3EtRXN1dkhocHBOVl9XQVpnSXA2c25JSFlrUlc?oc=5)
+
+---
+
+### [Hampshire teacher urges people not to ignore symptoms after cancer diagnosis - Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
+
+2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
 
 ---
 
@@ -179,14 +203,6 @@ permalink: /news/pasireotide/
 2026-07-16 <span class="news-indication-tag">AF</span>
 
 來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXRfdmdWOWZsa1RKMXVkY1dJek5LaXJuVVE0SnB1Sm5wejdSVFRvdFpHdmdNSGhub3Fib2FZN1FNT2hqbGJ5T09UR1JDd3VfMnpPOWhsdC1TSW5MVUphVzd1bXA0TEVwMkRob3RULXpXcnhTd2VlUko5dUx6bGNEeHBSRUd1UHJaNWJUWTR3?oc=5)
-
----
-
-### [Ue, in commercio la prima pillola per dimagrire: come funziona - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VtRm1vSnpQYmZsUDNBQkJ3T3gyVDlxT0lMS1RjZ19Md0FYeUgwUXJtS2F4SU9NTVJpRDN3bTJid3poYmcxSlB0U1E2UzltNjNOM2pWNlBZWllQRXNJSEVTNFlsdWYtX3dmT2pGazhoeTBmczNUWmpqLUpyMnZlSzFxejRHZFdnZG9EMUFPTmZaWHhCOWRMcklBNWoxdGREMjRV?oc=5)
-
-2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VtRm1vSnpQYmZsUDNBQkJ3T3gyVDlxT0lMS1RjZ19Md0FYeUgwUXJtS2F4SU9NTVJpRDN3bTJid3poYmcxSlB0U1E2UzltNjNOM2pWNlBZWllQRXNJSEVTNFlsdWYtX3dmT2pGazhoeTBmczNUWmpqLUpyMnZlSzFxejRHZFdnZG9EMUFPTmZaWHhCOWRMcklBNWoxdGREMjRV?oc=5)
 
 ---
 
@@ -230,11 +246,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
+### [Hitze in der Schwangerschaft und im Säuglingsalter könnten die Hirnentwicklung nachhaltig beeinflussen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzJTNDVranpYdzR1OEl1bVZubmdFeVRPNml0UmJIRjZrb2NZQVloYVIwV0ZpZFFnU3NtMnRzQW4xOTliOTBKejFKcUN1RUJkMmkydnNGSTJjM2t2c0dtbXc0Z2Z1ZS04dmFMbFJLTk9CRmtCak53c2lJd1ZIc2VfbUFteW9EMUJKcWM5ZHZRLXBtNjJDcEptMVFFRmpnNURVcHhXSzVIakF5YTV1SF9GSW84ck1hV0E3OG5wVVZpUklYR2JYemlGc1lWanpjdUZmblNlMFlnTzdvaW1WRXRZcWJmV2dNMjd0WExPVW11UzVKanY3dVZmRC1oUzhiOUpI?oc=5)
 
-2026-07-16 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-07-16 <span class="news-indication-tag">AF</span>
 
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzJTNDVranpYdzR1OEl1bVZubmdFeVRPNml0UmJIRjZrb2NZQVloYVIwV0ZpZFFnU3NtMnRzQW4xOTliOTBKejFKcUN1RUJkMmkydnNGSTJjM2t2c0dtbXc0Z2Z1ZS04dmFMbFJLTk9CRmtCak53c2lJd1ZIc2VfbUFteW9EMUJKcWM5ZHZRLXBtNjJDcEptMVFFRmpnNURVcHhXSzVIakF5YTV1SF9GSW84ck1hV0E3OG5wVVZpUklYR2JYemlGc1lWanpjdUZmblNlMFlnTzdvaW1WRXRZcWJmV2dNMjd0WExPVW11UzVKanY3dVZmRC1oUzhiOUpI?oc=5)
 
 ---
 
@@ -270,51 +286,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### ['I had swollen stomach - now I'm planning my funeral at 33' - The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZ0JSeXlhY3pSTklyUm16SU5pdjFNYnh3OEZ2WlJxLVREMDdKQ1lTVUhiQ2ZHWlRDYkF1eEczcU80c3UzWmVSNFM4eElaMHRleUIzYmk4cGozdjRLRC1JTjFJaWI0T2RWZkJEbDFMUnBmeEhKdHo0MUFB0gF_QVVfeXFMT1E0dDI3QnhEenJzNUZDdEUxM1BmdmY1MDEtdmRNSHdJRTJIT2tCTl9vckhpVTBtWlRSMl91NXFsVmZwODBHWll0dS14dHVPT3NOY01VSFBJN0lXMEdRWVRDXzZNdFZTdExuWk1reTBvNXVUM0U5SWYyQ3NSQjRDaw?oc=5)
-
-2026-07-16 <span class="news-indication-tag">AF</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZ0JSeXlhY3pSTklyUm16SU5pdjFNYnh3OEZ2WlJxLVREMDdKQ1lTVUhiQ2ZHWlRDYkF1eEczcU80c3UzWmVSNFM4eElaMHRleUIzYmk4cGozdjRLRC1JTjFJaWI0T2RWZkJEbDFMUnBmeEhKdHo0MUFB0gF_QVVfeXFMT1E0dDI3QnhEenJzNUZDdEUxM1BmdmY1MDEtdmRNSHdJRTJIT2tCTl9vckhpVTBtWlRSMl91NXFsVmZwODBHWll0dS14dHVPT3NOY01VSFBJN0lXMEdRWVRDXzZNdFZTdExuWk1reTBvNXVUM0U5SWYyQ3NSQjRDaw?oc=5)
-
----
-
-### [Da un farmaco mutaforma un doppio colpo ai tumori](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRDY1TXdtbkJZNi1kTTRwcWVmaUxKOV85UnhiaWZuSHE2V0xSdThZSS1oaWtEbkJGMWd3TEgxY0I2TG5ZbURiSXBtemIwRGRZaGZob3JIeWRGeW9DTWtOV2laeS1MT0lCYnFHelVGbkRxSkVHNm1qd2xITmIwVUJfRENVZklkLVFWb2RMNm1wU3RoSVpudkFSNXZJamlubkp6dUhYTk5YYmM3em1uUEFvOHVoUjljeFhrWWxqZkZwLTJLUTJfbHpGd2RRRVZOMlVVMjBWbVZlSUlZbHRZdllWeGN0UTB5V3lI0gHuAUFVX3lxTFBRRWZabkhUc0NCTVhvLTZzMVVUMzlsbE5TUDdWWXpicGZ5WnlNSWh6NnNONnBuQmQ0S012WjJ0ckpLUE5JVDdOalpXMW1LcndsclducXVxOWlwY2F2eHZJenBmMklDV2xHX1lIZlBodHk0MTFXRGFBN3VrVEw3czlDdmdENWVWdG9hQVQ1Mzdwa19hUmx2SFdyYWJXdjhvUlpwczFFZlVSQ3dPNG8yaHo5N0IzLXBaNm1qc2IzUlFlVFp1WFl3dXhIQWhnUEtfVGxlejBRUDFzSUxHdE13VldqSm16Wk5xbHJ0bThHTVE?oc=5)
-
-2026-07-16 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRDY1TXdtbkJZNi1kTTRwcWVmaUxKOV85UnhiaWZuSHE2V0xSdThZSS1oaWtEbkJGMWd3TEgxY0I2TG5ZbURiSXBtemIwRGRZaGZob3JIeWRGeW9DTWtOV2laeS1MT0lCYnFHelVGbkRxSkVHNm1qd2xITmIwVUJfRENVZklkLVFWb2RMNm1wU3RoSVpudkFSNXZJamlubkp6dUhYTk5YYmM3em1uUEFvOHVoUjljeFhrWWxqZkZwLTJLUTJfbHpGd2RRRVZOMlVVMjBWbVZlSUlZbHRZdllWeGN0UTB5V3lI0gHuAUFVX3lxTFBRRWZabkhUc0NCTVhvLTZzMVVUMzlsbE5TUDdWWXpicGZ5WnlNSWh6NnNONnBuQmQ0S012WjJ0ckpLUE5JVDdOalpXMW1LcndsclducXVxOWlwY2F2eHZJenBmMklDV2xHX1lIZlBodHk0MTFXRGFBN3VrVEw3czlDdmdENWVWdG9hQVQ1Mzdwa19hUmx2SFdyYWJXdjhvUlpwczFFZlVSQ3dPNG8yaHo5N0IzLXBaNm1qc2IzUlFlVFp1WFl3dXhIQWhnUEtfVGxlejBRUDFzSUxHdE13VldqSm16Wk5xbHJ0bThHTVE?oc=5)
-
----
-
 ### [Siringhe di adrenalina nei ristoranti contro le reazioni allergiche: il piano allo studio - Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxQaEF0WVBRNFU5Vlo4ZGVVajR6WVVHZV91cG1iUGs3Y0pFM3VoWXhCTzA4TWZCbnJRVXFFQWxoeGU0RndxdjVOc094Q1ljTGY0eUhqNTdGX2hFbzFTUVoxeVlWN2lhSG5aeGhlTzlHM1ZlZE1ETk5tcjh6M3lWMzN5MV80X09lUEJHckNzWUw3WFRHV21oSGgxZm91cUtYSG0teEhOeGNybUUyRjdZQ0dDU2N6UHdhOTJ5QTVyN2JHUXp5Q2lsOTBhaEJVR3B0cmlZZ2EtT3B1aS00azRMRUZhMG9VdXk5LUhucXBKcFJwTkhOdy11S0JpSS1KOXBWLUJteHZJaHdPVDA4QdIBjwJBVV95cUxPRTZ6N21hR2I5LUJUclo2YUlFNkpZeUZoZUxyb3JUTlNWOEVUMXhnSGxxMFMtU0tTRkM2QjQ0eGNxbVVXOXFXd2tlcjc2V3NyenBxcmpqNXUycEFCaF9BRTNGT0Fra0FtcVptdEVwem1jZEtvcWlQOW5BcXRoMTFSNWI5MUhwWVlrOXpfckxoV2JmcXlyZVZCczFrVVhHOTJpREtjWDhDbDFRN1RYTWFVOWFBZXE1LVlQY29YLWRxamZKdS0tZWx3XzMtNmtUUTNuQXRwN2xIVTlQZHNNMlV3OV9ab0xoYlp2WjdUTUtKVUREdTI2R1V1LTkwVEdDR0d3bi1GWVQzZm04UjZxTzNF?oc=5)
 
 2026-07-16 <span class="news-indication-tag">AF</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxQaEF0WVBRNFU5Vlo4ZGVVajR6WVVHZV91cG1iUGs3Y0pFM3VoWXhCTzA4TWZCbnJRVXFFQWxoeGU0RndxdjVOc094Q1ljTGY0eUhqNTdGX2hFbzFTUVoxeVlWN2lhSG5aeGhlTzlHM1ZlZE1ETk5tcjh6M3lWMzN5MV80X09lUEJHckNzWUw3WFRHV21oSGgxZm91cUtYSG0teEhOeGNybUUyRjdZQ0dDU2N6UHdhOTJ5QTVyN2JHUXp5Q2lsOTBhaEJVR3B0cmlZZ2EtT3B1aS00azRMRUZhMG9VdXk5LUhucXBKcFJwTkhOdy11S0JpSS1KOXBWLUJteHZJaHdPVDA4QdIBjwJBVV95cUxPRTZ6N21hR2I5LUJUclo2YUlFNkpZeUZoZUxyb3JUTlNWOEVUMXhnSGxxMFMtU0tTRkM2QjQ0eGNxbVVXOXFXd2tlcjc2V3NyenBxcmpqNXUycEFCaF9BRTNGT0Fra0FtcVptdEVwem1jZEtvcWlQOW5BcXRoMTFSNWI5MUhwWVlrOXpfckxoV2JmcXlyZVZCczFrVVhHOTJpREtjWDhDbDFRN1RYTWFVOWFBZXE1LVlQY29YLWRxamZKdS0tZWx3XzMtNmtUUTNuQXRwN2xIVTlQZHNNMlV3OV9ab0xoYlp2WjdUTUtKVUREdTI2R1V1LTkwVEdDR0d3bi1GWVQzZm04UjZxTzNF?oc=5)
-
----
-
-### [A Deadly Ebola-Like Virus Is Spreading. Are We Ready?](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGRSN1FpTk83X1dTSm9zWkhwZmFJWlc2R0R4RFlxWXRfd3d6SW0xdlFnaUFSdmlXTVNreUZ4N0lxRkkwa1ludnA3eGRaTzhMS3dnb3MzbWUzVjl1US1pd0NIbFJzMEhlTk0wMjdHSE92b2FxR3lpeWF1R2hXSUdkbkdyTQ?oc=5)
-
-2026-07-16 <span class="news-indication-tag">AF</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGRSN1FpTk83X1dTSm9zWkhwZmFJWlc2R0R4RFlxWXRfd3d6SW0xdlFnaUFSdmlXTVNreUZ4N0lxRkkwa1ludnA3eGRaTzhMS3dnb3MzbWUzVjl1US1pd0NIbFJzMEhlTk0wMjdHSE92b2FxR3lpeWF1R2hXSUdkbkdyTQ?oc=5)
-
----
-
-### [Biowaffen: Warum die heimliche Produktion immer einfacher wird und was dagegen zu tun ist](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTk3QkE1WmlLbmdreHFHck53NWRDNllpUkhOVWlRd196bk1saWRjNzR3bG5nUjRHMmU0djNKVkQ0V1ZDNHRTeS1sdWEwZExiTHJ6OTYzQWZ0NFNWWXpnN1ZNQkZlYy1yR1B5ODVFREFMUThGUWNvb2VjYmo0OEdtd0RwbHZCSFBOMHVTbUNwVjBHb2dKRXFIc041Q1d6V2NKa093MUVPWFdvb24ycG1ZZ0F3d3pmOUVleUlMZmFZYjJMbGM?oc=5)
-
-2026-07-15 <span class="news-indication-tag">AF</span>
-
-來源：[Table.Briefings](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTk3QkE1WmlLbmdreHFHck53NWRDNllpUkhOVWlRd196bk1saWRjNzR3bG5nUjRHMmU0djNKVkQ0V1ZDNHRTeS1sdWEwZExiTHJ6OTYzQWZ0NFNWWXpnN1ZNQkZlYy1yR1B5ODVFREFMUThGUWNvb2VjYmo0OEdtd0RwbHZCSFBOMHVTbUNwVjBHb2dKRXFIc041Q1d6V2NKa093MUVPWFdvb24ycG1ZZ0F3d3pmOUVleUlMZmFZYjJMbGM?oc=5)
-
----
-
-### [Schwangerschaft: Bücken erhöht Fehlgeburtsrisiko um 36%](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHFOMVB3UFpUa3AwYTEyWmVZaTRJRThlaXRiaDBkZVl5a0NWZW8tR0owcXNvWnFBYUdsSjAzalFLS3lIYmN2VTNOREhFVURuX29TRTdoS2lDNGNybkVIUUpvREJPUjE4OGZ3T0N1dlpCOU9BVk9hS3lFUzNmRmZKVjEwTE15c05Fb0w0bGt2UE9BdVRWaXo4ZDBxSWFrUEgyRGFPNnp4OEsxaEpnX2sw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHFOMVB3UFpUa3AwYTEyWmVZaTRJRThlaXRiaDBkZVl5a0NWZW8tR0owcXNvWnFBYUdsSjAzalFLS3lIYmN2VTNOREhFVURuX29TRTdoS2lDNGNybkVIUUpvREJPUjE4OGZ3T0N1dlpCOU9BVk9hS3lFUzNmRmZKVjEwTE15c05Fb0w0bGt2UE9BdVRWaXo4ZDBxSWFrUEgyRGFPNnp4OEsxaEpnX2sw?oc=5)
 
 ---
 

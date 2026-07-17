@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Et si on pouvait un jour intervenir, avant l'apparition des premiers symptômes, chez les personnes à haut risque de développer la maladie d'Alzheimer - La Libre.be](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPVmZxY2xtRWhCd05zNk9NQnZsalhiZ01sUTRTZ1hUblRiSVYzdkdodXlhcl94MDFnZVhVdWhhZnNlNjB3VVdzRU43TTRLMUpDN3k2VzZvQ0R6d1ZMNGx0S2pWM1RXeFRnWEVOT2ZJV2Y3RWJhaXBxdUxLS0tqSTNyNWltSW55b1lReDRlZUxENnVkMGU4V2RuR3FNZU1va1B5bVlfTWRXMVdTNEZUMTFVY1NYYTBRV3BKWkd5aHliNWJESmJ1RXh6QnZVOWhHOWxoQ2JPYXUxT2J4ZUhLRjNPY0dKY3hPSFhuekpfdzVVN3FVY0dsNUFWNE5qLUY0MU1EZ3V1dURWcHA2ODF6WWJTSHpKbS1FYWdINVFTeEZCVlpydUVrVW8yLXRXT05RYkx0NWtsQW80QTdwMzNVUldzemRGWQ?oc=5)
+
+2026-07-17
+
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPVmZxY2xtRWhCd05zNk9NQnZsalhiZ01sUTRTZ1hUblRiSVYzdkdodXlhcl94MDFnZVhVdWhhZnNlNjB3VVdzRU43TTRLMUpDN3k2VzZvQ0R6d1ZMNGx0S2pWM1RXeFRnWEVOT2ZJV2Y3RWJhaXBxdUxLS0tqSTNyNWltSW55b1lReDRlZUxENnVkMGU4V2RuR3FNZU1va1B5bVlfTWRXMVdTNEZUMTFVY1NYYTBRV3BKWkd5aHliNWJESmJ1RXh6QnZVOWhHOWxoQ2JPYXUxT2J4ZUhLRjNPY0dKY3hPSFhuekpfdzVVN3FVY0dsNUFWNE5qLUY0MU1EZ3V1dURWcHA2ODF6WWJTSHpKbS1FYWdINVFTeEZCVlpydUVrVW8yLXRXT05RYkx0NWtsQW80QTdwMzNVUldzemRGWQ?oc=5)
+
+---
 
 ### [No daughter should have to watch both parents succumb to dementia - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTdFX3BDdFhreG5CZy1GZEhkMk1nMlpHNnVsc29vVE50SnY0RS1FZmhnVTNRVDltQ1k4MWJ4cGJvYnc4RC1DcjdEWWxEaUl0aWFCdzhkOFNHX3dBM0t4clVZakRvUGhqQUFBZ0VtakZKWHJHblcydUh4MU1SS3NSLURYbVEzS2ktVjh5cS1tNHdFRGtpUmE3UEs3Z0k?oc=5)
 

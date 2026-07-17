@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+
+2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+
+---
+
+### [Obesidad con agonistas del receptor GLP1 y su impacto en fertilidad asistida - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUdoYU91a1dUTHpUNEdNUXVIQXdnZDRaZ1hGcnhCN3R3Mi1XY180WUZZdTVnY3BFLVNGTHFaN3JYemtQTTFLWTBTRktrVHNaYXNqRzVkTzlKWjFVcHB3MGVoZzQ4QV9WeWNUR2NWcmpGeUJoMEdaLTliSjhUMFpkNWRoUUR3UEhUU3A4VlRYQ3FmRElNM3oxQUNQZHNnSENWVDBqLVNybll4aFRuRU1VQUlUal9ZY1JaRTQtbnRtOTlBUEnSAb4BQVVfeXFMTXRUdnJRQXJ3WXhoV0w5bXk3Wl8xNmtqNzN2WE9qREJaemlwNVU3eHVuMjU2R3YzWC1XTTRKcTZPS0ZYUEx6OGtTV0cxeE1rNGhoSUF6bzJLbnd6aGVVUzM0eG55d19vZnNHU3RYWV9RS0ZzWlREZ2h0RTBFbDd5Vlh0dTVnRE9mRzlTQlYzZGJBV2xVZWxJNDZkdjVCN3NQWkpoZGN4MUhkX0VzU1R0a2ROMnp4YnZ4eU9ucHFCQQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUdoYU91a1dUTHpUNEdNUXVIQXdnZDRaZ1hGcnhCN3R3Mi1XY180WUZZdTVnY3BFLVNGTHFaN3JYemtQTTFLWTBTRktrVHNaYXNqRzVkTzlKWjFVcHB3MGVoZzQ4QV9WeWNUR2NWcmpGeUJoMEdaLTliSjhUMFpkNWRoUUR3UEhUU3A4VlRYQ3FmRElNM3oxQUNQZHNnSENWVDBqLVNybll4aFRuRU1VQUlUal9ZY1JaRTQtbnRtOTlBUEnSAb4BQVVfeXFMTXRUdnJRQXJ3WXhoV0w5bXk3Wl8xNmtqNzN2WE9qREJaemlwNVU3eHVuMjU2R3YzWC1XTTRKcTZPS0ZYUEx6OGtTV0cxeE1rNGhoSUF6bzJLbnd6aGVVUzM0eG55d19vZnNHU3RYWV9RS0ZzWlREZ2h0RTBFbDd5Vlh0dTVnRE9mRzlTQlYzZGJBV2xVZWxJNDZkdjVCN3NQWkpoZGN4MUhkX0VzU1R0a2ROMnp4YnZ4eU9ucHFCQQ?oc=5)
+
+---
 
 ### [More than 600,000 Britons ‘too fat to work’ - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc09lbnkycjVNTEpEVVYzLVhwLW0wWWtmM0E2bDVvdDkxbkxLOV95a1NjaDduSWtmcS1udnEwTmVnd0pkQlpUU0VhZzdxT3hUSEZHSmN5Ym5YV2ZaMTlQaDY3ZzFKeWxZX25WVzlLeEs5d2NHdUtIZWl6UlZSMkcwb2NJS0F6XzVPNW1vRWxn?oc=5)
 
 2026-07-17 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc09lbnkycjVNTEpEVVYzLVhwLW0wWWtmM0E2bDVvdDkxbkxLOV95a1NjaDduSWtmcS1udnEwTmVnd0pkQlpUU0VhZzdxT3hUSEZHSmN5Ym5YV2ZaMTlQaDY3ZzFKeWxZX25WVzlLeEs5d2NHdUtIZWl6UlZSMkcwb2NJS0F6XzVPNW1vRWxn?oc=5)
-
----
-
-### [Chronische Entzündungen: 30 Pflanzen pro Woche senken Risiko um 31%](https://news.google.com/rss/articles/CBMitgFBVV95cUxOejlLaFJSVFJQUWRwU1F5NDZuQW5obHFjbWdtRDZ5bV9KTFZzZlZNTkgxdVlwWEZWWGxtUDU2aUNyS20zbExQTGw0U0RzRnFGU09GMHgyWTNUVEhiZVdsVm9mcEtsVW56VG1MZU1vcFpZano0WENLNG9idUtETHJtUTk2YWowMnpvbDBQQmhLbUU1aWthQllveGhWTUkyZzNZM0xZajBrc0o5VjZOZjRhc1M0VnNJQQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">Adipositas</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOejlLaFJSVFJQUWRwU1F5NDZuQW5obHFjbWdtRDZ5bV9KTFZzZlZNTkgxdVlwWEZWWGxtUDU2aUNyS20zbExQTGw0U0RzRnFGU09GMHgyWTNUVEhiZVdsVm9mcEtsVW56VG1MZU1vcFpZano0WENLNG9idUtETHJtUTk2YWowMnpvbDBQQmhLbUU1aWthQllveGhWTUkyZzNZM0xZajBrc0o5VjZOZjRhc1M0VnNJQQ?oc=5)
 
 ---
 
@@ -78,19 +86,27 @@ permalink: /news/bupropion/
 
 ---
 
-### [Ue, in commercio la prima pillola per dimagrire: come funziona - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VtRm1vSnpQYmZsUDNBQkJ3T3gyVDlxT0lMS1RjZ19Md0FYeUgwUXJtS2F4SU9NTVJpRDN3bTJid3poYmcxSlB0U1E2UzltNjNOM2pWNlBZWllQRXNJSEVTNFlsdWYtX3dmT2pGazhoeTBmczNUWmpqLUpyMnZlSzFxejRHZFdnZG9EMUFPTmZaWHhCOWRMcklBNWoxdGREMjRV?oc=5)
+### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
-2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
-來源：[il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VtRm1vSnpQYmZsUDNBQkJ3T3gyVDlxT0lMS1RjZ19Md0FYeUgwUXJtS2F4SU9NTVJpRDN3bTJid3poYmcxSlB0U1E2UzltNjNOM2pWNlBZWllQRXNJSEVTNFlsdWYtX3dmT2pGazhoeTBmczNUWmpqLUpyMnZlSzFxejRHZFdnZG9EMUFPTmZaWHhCOWRMcklBNWoxdGREMjRV?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
 ---
 
-### [Farmaci, in Puglia la stretta della Regione: manovra da 15 mln. “Spese alte per gli anti-obesità” - la Repubblica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOd25zVUpVV1RieEFnaUZOWlEyNWVtaFdWZWRyY1Rra1lFMlRLUmlGYzVlTlhxYmhpTDktRF9aR2U4ZXdqUUM4UURjUnR2VE9KSTM5eUN3Q1Nveks3N0RyU2hhZ0xDZkFlREx4aXNmeEdJMzZxMG83UzBpNW5KU0NpbHVEZWlDX1VGWjdYSExYQWMxTTg1Y0tfdm5HaER6MXhwM1Jscm5td25JSFVORE5vbXFrTm9zeWtpSGZxTXFGQWVDdnd3amZIdFIyTG3SAdIBQVVfeXFMUE5GRzAtS2Y5THNELWt0LW5ONzNZNGE1NmxTRzdsOXJoNkFvcUNOSE92bTItOVZFVHA2OGRkTmJXYTczNE1XaHB1NzNlRlJfRDItRV94d0VKMUsyUlJySWJ2Y09Fc0RfQk9rX3hpaklTcnl4YzI2VkpMdnNISVJzUEtZTGJnTU9IMkhQb3J1Qll3MW54MmszdHRNUjBhTEhRYWRNVUVjWW5PUFRlX3pjYy1yWEdtY25aR3RsUzM1Ym4tZjUtTTNtMjUtYU51bm1fV053?oc=5)
+### [La relación entre obesidad y dislipemias: "Está en la base fisiopatológica de la mayoría de los factores de riesgo cardiovascular" - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
 
-2026-07-16 <span class="news-indication-tag">obesità</span>
+2026-07-16 <span class="news-indication-tag">obesidad</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMizAFBVV95cUxOd25zVUpVV1RieEFnaUZOWlEyNWVtaFdWZWRyY1Rra1lFMlRLUmlGYzVlTlhxYmhpTDktRF9aR2U4ZXdqUUM4UURjUnR2VE9KSTM5eUN3Q1Nveks3N0RyU2hhZ0xDZkFlREx4aXNmeEdJMzZxMG83UzBpNW5KU0NpbHVEZWlDX1VGWjdYSExYQWMxTTg1Y0tfdm5HaER6MXhwM1Jscm5td25JSFVORE5vbXFrTm9zeWtpSGZxTXFGQWVDdnd3amZIdFIyTG3SAdIBQVVfeXFMUE5GRzAtS2Y5THNELWt0LW5ONzNZNGE1NmxTRzdsOXJoNkFvcUNOSE92bTItOVZFVHA2OGRkTmJXYTczNE1XaHB1NzNlRlJfRDItRV94d0VKMUsyUlJySWJ2Y09Fc0RfQk9rX3hpaklTcnl4YzI2VkpMdnNISVJzUEtZTGJnTU9IMkhQb3J1Qll3MW54MmszdHRNUjBhTEhRYWRNVUVjWW5PUFRlX3pjYy1yWEdtY25aR3RsUzM1Ym4tZjUtTTNtMjUtYU51bm1fV053?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+
+---
+
+### [El 67,5 % de los pacientes con obesidad infantil ya presenta comorbilidad metabólica - El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTk2LWZzaE10ZEVaZ0pMZWVKSDhRRlR5WTNocGtfMHZWQ0RjdnVVbFRvM3BzR2hpSDByVWRMQjZDR1VWMGd3ZFRFUGJKMFRDcE4zZ2loSDlHbGljanFLOFhORGpna3NROHJYdlA3N0ltY2dSQTlTS3VOMi1fLVJtbjRIOEthRXJtNWZVaXBlNW0xTEswaEFHQ2FFUlZkaDdKZnkzT2FOcVVieUtIdURydU5aR2I?oc=5)
+
+2026-07-16 <span class="news-indication-tag">obesidad</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTk2LWZzaE10ZEVaZ0pMZWVKSDhRRlR5WTNocGtfMHZWQ0RjdnVVbFRvM3BzR2hpSDByVWRMQjZDR1VWMGd3ZFRFUGJKMFRDcE4zZ2loSDlHbGljanFLOFhORGpna3NROHJYdlA3N0ltY2dSQTlTS3VOMi1fLVJtbjRIOEthRXJtNWZVaXBlNW0xTEswaEFHQ2FFUlZkaDdKZnkzT2FOcVVieUtIdURydU5aR2I?oc=5)
 
 ---
 

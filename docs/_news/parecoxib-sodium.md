@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Glasgow mother with incurable brain cancer treasuring every moment with young sons - Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEJmLXZpa3FMZl9sMm5IZXFvcEQ3ckJnMTF6N2pXS09VZU1OQUVubjBNOTFsQkRGWVpFRUtxMlBRd0o3QTRtVk04Uzc3UVBMNDAtWVZtdnpmZFF6QlJRRS1kRjVURjBaVnRtZkI2UVNYMmd3ektISXZxMjFiazJyclE5OFFXLXc1aFpEVDFWT05NVzZ5LW8xOWJ1TlVMbmJjemk2VEtNVmRjVzZQT2tjem1GbTlvcVh5M0E?oc=5)
+### [Juvenile Arthritis: Stammzellen verbessern Tränenproduktion messbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
 
-2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span>
+2026-07-17 <span class="news-indication-tag">arthritis</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEJmLXZpa3FMZl9sMm5IZXFvcEQ3ckJnMTF6N2pXS09VZU1OQUVubjBNOTFsQkRGWVpFRUtxMlBRd0o3QTRtVk04Uzc3UVBMNDAtWVZtdnpmZFF6QlJRRS1kRjVURjBaVnRtZkI2UVNYMmd3ektISXZxMjFiazJyclE5OFFXLXc1aFpEVDFWT05NVzZ5LW8xOWJ1TlVMbmJjemk2VEtNVmRjVzZQT2tjem1GbTlvcVh5M0E?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/parecoxib-sodium/
 2026-07-17 <span class="news-indication-tag">arthritis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
-
----
-
-### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
-
-2026-07-16 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
 
 ---
 

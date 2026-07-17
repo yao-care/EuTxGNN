@@ -54,6 +54,22 @@ permalink: /news/pibrentasvir/
 
 ## 相關新聞（18 則）
 
+### [The TRUTH about viral 'parasite cleanse' drink for bloating, acne and tiredness - as GP reveals true signs of worms - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
+
+---
+
+### [What is cyclosporiasis, the parasitic illness causing ‘explosive’ diarrhea? - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN21GREFTODR5VjNadUppQ04tUkhDcW0yTzR5dXJrU0RjWWlQbVZURFBIeVhOZUdGTWdGQzZQei1Mc2NDTEJkeEV0NmJROE10VTVXVmFXS3hhS3ctVDhYdV9VZFFXcl9jRUxZQ0xRVkJENFgzNm1PS1IwWVZIaXVmdm5DMDBGQXMwVldLYkM2TDV1M1FLbjBGV1dsWTA0djJuWHFmOHk1ZWU?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN21GREFTODR5VjNadUppQ04tUkhDcW0yTzR5dXJrU0RjWWlQbVZURFBIeVhOZUdGTWdGQzZQei1Mc2NDTEJkeEV0NmJROE10VTVXVmFXS3hhS3ctVDhYdV9VZFFXcl9jRUxZQ0xRVkJENFgzNm1PS1IwWVZIaXVmdm5DMDBGQXMwVldLYkM2TDV1M1FLbjBGV1dsWTA0djJuWHFmOHk1ZWU?oc=5)
+
+---
+
 ### [Eiserne Lunge: Letzte Nutzerin verstorben | DIE PTA](https://news.google.com/rss/articles/CBMingFBVV95cUxNWjI3X2VjTE9mejdOWWhfWFRFTzZ2c2x4UXQ2SWFNZzM3Yk9BT3ZoRm11ZEVpZnEwVkJ2ODdTTTlFVHFzeFgxa2dxUWo5QTBDSjJqZHlvajR3TV82TWpjVVA3WUxWMVMzUnotakZkVWp5Mkc3LXprM1BscFpSZ1BQQkZPY2diV1BKWnFDRjNIZmk4ZmpSeHZnVDhSVkhVZw?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
@@ -62,19 +78,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Veränderte saisonale Häufungen: Atemwegsinfektionen und kardiovaskuläre Mortalität unter Einfluss der COVID-19-Pandemie - Biermann Medizin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1poRjNqN1BDYmRqdkIzQjk3RW9sd3laSDhRdldJd1dyc2lFT2tDV0xuZkpkdHZTRkhRRGNyczg2NmZKdGhVTEFnOEJrcHdXbjhadEVraE5obFVhcmR6SGNtUGZsY0dReHJIUjdpZ1ZVci1kUUt5U1VGRnF0TVRTZENqeENfc0prRmpuNFRfd2xVQTJzNDhJNlhfYmhhOTFUZG1DLTNSZlpMNDhieTNEU3JrZjlzRGlMTUdkdkdJakQxT1AzMjZzOWtSSnUxMnFGTTFBaFg4MktTQXZZLUFBVFRzQkNEdw?oc=5)
+### [Gehirnschutz: 3.000 Schritte täglich bremsen Demenz-Risiko](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndLR00tMlN4RjVLOEZiUXVETkJGbkU1OXhMNV9jZEVsUlZGdEdFU1BUeE15UjRlcm80d0psVGNBTnUyN3ZhaFRKVEtjc2x0cXhtOTIwS3E5aDJVdWN0NDFuTTdLd29pSEJ4YXRpSHAzUnJ0TmlRWWNqLVlDMG42djUyelB1Z0NJUDM2VUhTel9QQVJtRHo2U2N0ck96M2JyQ05ZRVhpbS1JbGs?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1poRjNqN1BDYmRqdkIzQjk3RW9sd3laSDhRdldJd1dyc2lFT2tDV0xuZkpkdHZTRkhRRGNyczg2NmZKdGhVTEFnOEJrcHdXbjhadEVraE5obFVhcmR6SGNtUGZsY0dReHJIUjdpZ1ZVci1kUUt5U1VGRnF0TVRTZENqeENfc0prRmpuNFRfd2xVQTJzNDhJNlhfYmhhOTFUZG1DLTNSZlpMNDhieTNEU3JrZjlzRGlMTUdkdkdJakQxT1AzMjZzOWtSSnUxMnFGTTFBaFg4MktTQXZZLUFBVFRzQkNEdw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndLR00tMlN4RjVLOEZiUXVETkJGbkU1OXhMNV9jZEVsUlZGdEdFU1BUeE15UjRlcm80d0psVGNBTnUyN3ZhaFRKVEtjc2x0cXhtOTIwS3E5aDJVdWN0NDFuTTdLd29pSEJ4YXRpSHAzUnJ0TmlRWWNqLVlDMG42djUyelB1Z0NJUDM2VUhTel9QQVJtRHo2U2N0ck96M2JyQ05ZRVhpbS1JbGs?oc=5)
 
 ---
 
-### [Fatty liver disease symptoms in the bathroom that mean the condition has progressed, according to a doctor - GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
+### [Crèmes solaires ou vêtements anti‑UV, quelle est la meilleure protection ?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm9zM0QtMTNKdE1IeHEyLWxZMnR3V3RFdWxDY3VtRnhaVThmNk5nUFRMamlnWGE4YWtwUHk0NXphOUpGSzJFTTNkdUlRS1VGYWdPeVlxOUpBZnpvcXhvUVVPTlItQVpFYzJwU3VleDhFZU9SNUdUdE1YQlVHeUFmTW9jWnZGYWRMZnpwQTZiNWRTU3lFTmtjR01QUjBUN0FiNDdkUHVXRTlXSVU5?oc=5)
 
-2026-07-17 <span class="news-indication-tag">MS</span>
+2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmV5dXhSZlJoOUJUQl9hVmhYVGMyMk1DeUZoWTRROFdmcGctU1dtU0djWWE1VDdDZkpwNlZSZlBuSm9QTkF1dkJFa3pEdjJOQWRrdGI0eVM5R0UzbmRaU2lWNFBpRFk2aVlvQUdkRmMxSUswMVVQTUJHb3NtVUVSY29nbFpZOG40?oc=5)
+來源：[RTBF](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm9zM0QtMTNKdE1IeHEyLWxZMnR3V3RFdWxDY3VtRnhaVThmNk5nUFRMamlnWGE4YWtwUHk0NXphOUpGSzJFTTNkdUlRS1VGYWdPeVlxOUpBZnpvcXhvUVVPTlItQVpFYzJwU3VleDhFZU9SNUdUdE1YQlVHeUFmTW9jWnZGYWRMZnpwQTZiNWRTU3lFTmtjR01QUjBUN0FiNDdkUHVXRTlXSVU5?oc=5)
 
 ---
 
@@ -86,7 +102,7 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### ['Cancer diagnosis at 14 inspired my to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
+### ['Cancer diagnosis at 14 inspired me to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
@@ -102,11 +118,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Grimsby and Scunthorpe A&Es breached safety rules](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XcGtTc2pITVZxUVBrYWZSMnNfRlROUlpGbEJNRWlsdm92MjdLWTJUb29qQTJjOWc4bXQtQkIwWkpFNHZ4OTh6aXJFbTJWRmVuWjZtR0tpaXY3MHdp?oc=5)
+### [Hampshire teacher urges people not to ignore symptoms after cancer diagnosis - Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
 
-2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XcGtTc2pITVZxUVBrYWZSMnNfRlROUlpGbEJNRWlsdm92MjdLWTJUb29qQTJjOWc4bXQtQkIwWkpFNHZ4OTh6aXJFbTJWRmVuWjZtR0tpaXY3MHdp?oc=5)
+來源：[Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
 
 ---
 
@@ -166,14 +182,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Schnelles Gehen und KI-gestützte Frühtests: Weniger Demenzrisiko ab 30 Minuten - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1FpQnY3N3RFa1ZSQWhsQ0dkX0F1ZE1WNV9iX0hEYjlJcjVWdVZjMmVVaTFuTWt4MlR4dlhkRExIY0ZtN3FFNmxoR0VDRTAyM3I1MFBZMm5aN25UQXRNdzJrODBfM0k1bk1kS2xrM0tSRW16S0VBM19mV1dyVzlocVQ2NzdFc28waFIwcWpOZEQwd0FGQms0NWhwRmFYU1dFM2h2SHR1eTdLeWpNSEtWSg?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1FpQnY3N3RFa1ZSQWhsQ0dkX0F1ZE1WNV9iX0hEYjlJcjVWdVZjMmVVaTFuTWt4MlR4dlhkRExIY0ZtN3FFNmxoR0VDRTAyM3I1MFBZMm5aN25UQXRNdzJrODBfM0k1bk1kS2xrM0tSRW16S0VBM19mV1dyVzlocVQ2NzdFc28waFIwcWpOZEQwd0FGQms0NWhwRmFYU1dFM2h2SHR1eTdLeWpNSEtWSg?oc=5)
-
----
-
 ### [Más cerca del origen de la esclerosis múltiple: observan cómo el virus Epstein-Barr dispara la respuesta inmune - El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxNOVgzWXZ0UTJ5aHFJby0xR1ZPcFZRLTdQMGV4UHVVNWJ6RlBybTNEWGl4ZDZfYzZOX1hkYVJmbmdFLWFFdjNSRWxHUTJMb1pLMlpTbHlDVDY4VW1MYVFuMklwSFlVUGFnZ0o5TENBM2VXMVFSaml1NkNvam9vSUR4aVF3cUNzRTQ3RUc4UnhsckdsTU05Mmk4djN3VXVCMkFxVGZEdy03S1I5aGtVLW5mMk16eEp5cVJCdS1fbU1IV29fZkF2Yk1UZkxPdDZNWFpJX09WRzNqXzFGY3gzWThCckNObUtQTUVURGM4cy1uaHljU1pRUVp4Szk2MnZNM0FLN3fSAYcCQVVfeXFMTjNVRklVZ3Q2Z0M4UmV0WTh0R3hnQXZjWFI0N1ZQQmptMzF4d2tWb3pKeEVoMTVzMTVtc2Q0aVVmZWNrX1hpZjdxRGRSYUpZM29JaGdOWTFYUU13bXdaNHM4OF9vejRIbWlYZThXRktTT203NjZFc0diQU4tVzNqWXY4Q2RWeFpCVmFIc2NEZUI1eWl6bW1UcnRrcmF5bzRjRFVsUDBoOUw3eXhoNUZ1T0JNalBUNnhyM3VldnhIeUF4VDFnZlpBWElvVTlSbWJkUnFudm1yR0IxTTJEeFM4U1JXUkhBeXNhbkU2RUQxdllYd0VLbFl5YVY5RFVkTEExcFRKMWZTNTg?oc=5)
 
 2026-07-15 <span class="news-indication-tag">esclerosis múltiple</span>
@@ -187,14 +195,6 @@ permalink: /news/pibrentasvir/
 2026-07-15 <span class="news-indication-tag">multiple sclerosis</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5)
-
----
-
-### [Hirntumore: Gestagene erhöhen Risiko - PTA IN LOVE](https://news.google.com/rss/articles/CBMickFVX3lxTE0yYkVhMWZYZnJjME8xY0NYdHRBbDd3TDk3eTE2eE1ONzlTSk1ZRlpYV1VXclZRX2I1M1llZGZIQUZlV2hoZnRlU2FyN2NYTjNDTGh1UzZ4MUV1aVNtQWtkbFM3SUt4M1ItMzVyTy1oODZyZw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
-
-來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMickFVX3lxTE0yYkVhMWZYZnJjME8xY0NYdHRBbDd3TDk3eTE2eE1ONzlTSk1ZRlpYV1VXclZRX2I1M1llZGZIQUZlV2hoZnRlU2FyN2NYTjNDTGh1UzZ4MUV1aVNtQWtkbFM3SUt4M1ItMzVyTy1oODZyZw?oc=5)
 
 ---
 
