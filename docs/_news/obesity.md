@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（5 則）
 
-### [La relación entre obesidad y dislipemias: "Está en la base fisiopatológica de la mayoría de los factores de riesgo cardiovascular" - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+### [Pflanzenvielfalt und neue Adipositas-Medikamente: So kippt 2026 die Debatte - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNPeHNTX3JmTy1JSExZRTNQWnVKU1NpNzFrNFBfSFlfTVlsLVFPR1hYZ3RxMjM4eXVaT3B1WE1qNzZYZk9QRGJhNElvMmp1dkF0MWFjcVZNaVJ3azA0eHJJUE5vU3dOUmt2bGEtTnBnYWpxcnVVVnl3a2d3TjQzcEVKZFFzOFlVbHFWTWc1SkVlV3pZdkphN3E5b1hsaGI3ZVB3YVJsNnlYQQ?oc=5)
 
 2026-07-16
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNPeHNTX3JmTy1JSExZRTNQWnVKU1NpNzFrNFBfSFlfTVlsLVFPR1hYZ3RxMjM4eXVaT3B1WE1qNzZYZk9QRGJhNElvMmp1dkF0MWFjcVZNaVJ3azA0eHJJUE5vU3dOUmt2bGEtTnBnYWpxcnVVVnl3a2d3TjQzcEVKZFFzOFlVbHFWTWc1SkVlV3pZdkphN3E5b1hsaGI3ZVB3YVJsNnlYQQ?oc=5)
 
 ---
 
@@ -54,6 +54,14 @@ permalink: /news/obesity/
 
 ---
 
+### [El cerebro desvela nuevas respuestas sobre el metabolismo y la infertilidad](https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0VIdlJ5ZkFNZU83VE9nVnhWU21mWDFNTXUtQml1anJmQmFWbWxZWWdlU2h6VWhoMlVSOHg0SVgwbml6MWVsMzBlV0EwbVloOXlHbHM1eVVLVU1zajJQSVJ2UzViXzlkdkZyOGk5RUNCMko4QVdoc0ZkaEVsMGlQMU4zanhHLXJaV0RaRkk5dkJKOHkxZHAxZW5BYnlRbDRWT1A0YURDNWxpVXA2?oc=5)
+
+2026-07-15
+
+來源：[NoticiasDe.es](https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0VIdlJ5ZkFNZU83VE9nVnhWU21mWDFNTXUtQml1anJmQmFWbWxZWWdlU2h6VWhoMlVSOHg0SVgwbml6MWVsMzBlV0EwbVloOXlHbHM1eVVLVU1zajJQSVJ2UzViXzlkdkZyOGk5RUNCMko4QVdoc0ZkaEVsMGlQMU4zanhHLXJaV0RaRkk5dkJKOHkxZHAxZW5BYnlRbDRWT1A0YURDNWxpVXA2?oc=5)
+
+---
+
 ### [A new biotech startup tries to tackle obesity, but not in the way you might expect](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVlOb3NMMUo5aXRjS0Q3UVY3MGZad0x4WVhIaHY0ZTU0MTR0bGpVcHJudlhvYXlWZDlkeTVGMFVuTkpOdHBLZ29iakFEUEJaTDJCLUhxUVRxLVk4ckdPM2YtOW11d2phUHk2NDdtNm5CSzdSc1B1NWlIVXJwNXkya1Y4eE5XZUhqNDRZ?oc=5)
 
 2026-07-15
@@ -62,19 +70,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Stoffwechsel und Krebs: Fettleibigkeit erhöht Risiko für 19 Arten - Ad Hoc News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
+### [Stoffwechsel und Krebs: Fettleibigkeit erhöht Risiko für 19 Arten](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
 
 2026-07-15
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
-
----
-
-### [Une étude souligne la nécessité de surveiller les risques de fragilité chez les personnes âgées sous traitemen](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNTWVjd2dudUF3RkdJcjEzUmRBMlB0c2tCNjNhVzFKYjI4allCdUpxWm8xcERzOVdoR3BmSTFVdDI0ZDc1anFQa3ZOakxBMEtzMHZJNGtOMzdPRmwwUnVsUWNvVG9xUGRoM184SVpuT2ZoT3EyMU5idjBsVEh5c1RIdExiay1NWFBjU0x4MGpnaWxlamtaT0pkYll6akJSejN6T1lmUU5mWXA2U0hyZ282ZHNnUFYwRTcwUUZCaVRWRFdPLVowQ0NJVzVyZkl2a1RSRW5remI3TjNFV1hDdzBHRUFRU2p2OTY3TThaYUFvYmV1ODU5Vm9qYXg1eGo0UmRTSTB0NXBmSnFVc0lZaGpGZ1gyeXoydHZKLVNIMUhnT2xNY2d1SHg2VWx1N3YyVmFsQ2dJYXFXZ0RCdzNRYzE2NjhsaVFKMmc50gHOAkFVX3lxTFBTQlhrTlk3TFM2QjZxYTl5YlM2RXhlc0ZfSTJ3c3AxaTlqdnV2LUo1aHFsaGphOFlrdE9qWTN2c21EUnRJSDZmQm5YUnRyUmpaUFowU0pfdldha296ZGYxSzJsZUF1SEVVVWluRDhFb1pxcTU3azVyMzJzQkRteVRKc1lKcXh5OVR0QUp4YlNxdG5zZ0Z0N1NjcUJNM1czNGR6U3pxWS1USm8wc1VVTVBMb2Rnb280YXhUTUZ3aHZKNHNVRVptZk9waEt3YWh3RlpQemhqMG9JRkwtWjJnM0I4VTNvTE05X1E0VlRFa2M5WmZHNjdBSlpLV002TjRvYVFtTFN5U0g4V0VCeFlpWWd5N0Z1SFFsQ0hQUTdUV0JaZnRXNTFwRFo0WUpFYUFmUV9LVkdtTE1wR1hlMUo1ZXZaR1Y3TkhXYTdYb1NUSlE?oc=5)
-
-2026-07-14
-
-來源：[Boursorama](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNTWVjd2dudUF3RkdJcjEzUmRBMlB0c2tCNjNhVzFKYjI4allCdUpxWm8xcERzOVdoR3BmSTFVdDI0ZDc1anFQa3ZOakxBMEtzMHZJNGtOMzdPRmwwUnVsUWNvVG9xUGRoM184SVpuT2ZoT3EyMU5idjBsVEh5c1RIdExiay1NWFBjU0x4MGpnaWxlamtaT0pkYll6akJSejN6T1lmUU5mWXA2U0hyZ282ZHNnUFYwRTcwUUZCaVRWRFdPLVowQ0NJVzVyZkl2a1RSRW5remI3TjNFV1hDdzBHRUFRU2p2OTY3TThaYUFvYmV1ODU5Vm9qYXg1eGo0UmRTSTB0NXBmSnFVc0lZaGpGZ1gyeXoydHZKLVNIMUhnT2xNY2d1SHg2VWx1N3YyVmFsQ2dJYXFXZ0RCdzNRYzE2NjhsaVFKMmc50gHOAkFVX3lxTFBTQlhrTlk3TFM2QjZxYTl5YlM2RXhlc0ZfSTJ3c3AxaTlqdnV2LUo1aHFsaGphOFlrdE9qWTN2c21EUnRJSDZmQm5YUnRyUmpaUFowU0pfdldha296ZGYxSzJsZUF1SEVVVWluRDhFb1pxcTU3azVyMzJzQkRteVRKc1lKcXh5OVR0QUp4YlNxdG5zZ0Z0N1NjcUJNM1czNGR6U3pxWS1USm8wc1VVTVBMb2Rnb280YXhUTUZ3aHZKNHNVRVptZk9waEt3YWh3RlpQemhqMG9JRkwtWjJnM0I4VTNvTE05X1E0VlRFa2M5WmZHNjdBSlpLV002TjRvYVFtTFN5U0g4V0VCeFlpWWd5N0Z1SFFsQ0hQUTdUV0JaZnRXNTFwRFo0WUpFYUFmUV9LVkdtTE1wR1hlMUo1ZXZaR1Y3TkhXYTdYb1NUSlE?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXREZjFGbjV0bFE0Y283VEJ3NWxxV3NJUnZpRGpGaUVHb1JNZWhQZzhGWHdCYks1bnFPSXBQUl9Cdlg4MTBHZnp3ekxwZjVqUUN2dFFBelk3MkhWYzRTSEJNMEdSYVU5Q2t2RW5xM2MzQnh5dlVJLWlrbmRmNFM2dGhmM2lRZFF4V25McUh0c1NJLWc2UEJDWFFLMkhLaTRVX3UzeUlPOXJpeG1fMEgyYVhKYWdKdw?oc=5)
 
 ---
 

@@ -54,11 +54,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（7 則）
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43% - Ad Hoc News](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWNkVkd3c2ZHTXZ4WmhwQmkzM2xsR28wRlozUE9qTnVOUUhWbUs3aGpEVmdYU1B1OXhLZW1yRHNidFJBSE9jaUNNZVlaQU1WUEhlX0FGWE45UXZMT1p2UGtHUjY4QXhVRW4tb2ZhTU5FT2NacU8wY3NPdEVOU09FX0EzS0VGOXdEZmdZME40dWR3dVV0RVUxRktpdl9XWVZ1dWFwMkZ1a0RENTVOdmx3Z3UtU05XbURFOE9Udg?oc=5)
+### [Las secuelas 'no mentales' del maltrato infantil: «Saber que tras mis diez enfermedades está mi pasado me ayuda a combatirlas mejor»](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
-2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWNkVkd3c2ZHTXZ4WmhwQmkzM2xsR28wRlozUE9qTnVOUUhWbUs3aGpEVmdYU1B1OXhLZW1yRHNidFJBSE9jaUNNZVlaQU1WUEhlX0FGWE45UXZMT1p2UGtHUjY4QXhVRW4tb2ZhTU5FT2NacU8wY3NPdEVOU09FX0EzS0VGOXdEZmdZME40dWR3dVV0RVUxRktpdl9XWVZ1dWFwMkZ1a0RENTVOdmx3Z3UtU05XbURFOE9Udg?oc=5)
+來源：[ABC](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
+
+---
+
+### [SGLT2-Hemmer und KI fürs Stoffwechselgedächtnis: Alzheimer-Risiko sinkt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU9zSjBFOTJuMTlxVVNzUS1Kc0lkRFU5eXFlcHJ2RFQzYVhsdWdyYkltMEV6WFBvNTRLdjBsWXJYNmNNMk91Mm02bm1lV1lGRjdpbDhpMHZLaVJOdW5Pa2ktZHBxeG9tVFNYbVc2dl9JYjdoT0FzQXNvTmE4TnNGdnJTTDhuMnlXTnlPeEtIdThmVlJJU1A5WTc3ZVBxNmx1eEVQNGpqZw?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU9zSjBFOTJuMTlxVVNzUS1Kc0lkRFU5eXFlcHJ2RFQzYVhsdWdyYkltMEV6WFBvNTRLdjBsWXJYNmNNMk91Mm02bm1lV1lGRjdpbDhpMHZLaVJOdW5Pa2ktZHBxeG9tVFNYbVc2dl9JYjdoT0FzQXNvTmE4TnNGdnJTTDhuMnlXTnlPeEtIdThmVlJJU1A5WTc3ZVBxNmx1eEVQNGpqZw?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-07-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2c2WVJzci1YVVFpOVRzTVROcEp1MnJyMmd5MlNJTktyRU94bDdvQVN2S05PdHNncUwzeTVXdTJ6ek1ONm4xaUxrZHpQRDRCa1hmb1R3b0htdkdtWjZuSjFQY2ZqR2pGaGhGYjZjT0lVUWtRRW5lMFg3YmlfODRTWlV1ZmZCcTJSYmFmVlk0VnB2QlU1cGZwdUt2NjVfRVhXUEFHUDBQMTlJdw?oc=5)
-
----
-
-### [Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology](https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5)
-
-2026-07-16 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[European Society of Cardiology](https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5)
 
 ---
 

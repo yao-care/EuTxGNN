@@ -54,19 +54,19 @@ permalink: /news/upadacitinib/
 
 ## 相關新聞（3 則）
 
+### [Llega a España depemokimab para el tratamiento del asma grave con inflamación de tipo 2 y para la rinosinusitis crónica con pólipos nasales](https://news.google.com/rss/articles/CBMilgJBVV95cUxPcWVaeWtVYnp1UTl1R3FTOGdrOUJ3ejBNUjNaUDVydHNLT01xeFlpVmlLdXVUbnhEdTV2WnI3MHRFcUhWYllaWldrNmZuV1FZY0hHZ1RHT3VSdWdQVm9hYTItWkprVGFEcHZLdUxkU0h1MjhBVjd1eHJpRlI1RW1Fcng4WFlNbTg3dFVKM2NfbngzekZjaDJZLWdoSFZsZzdzSFBhaTF0Q1RGZ3lfZWt0MW9BQWJjUGoyOWpWUFlJWnZ0STJYUXVMZGdUQnBuVVNRYmo4eGFTcDBfdVhoVU9DaWZrbWtRN0RwRmR0YkxDWG1WamM1QkhyR3dpX1dJZG84MmJHUjFkTUN4N0luQV9NangwWDgtUQ?oc=5)
+
+2026-07-15 <span class="news-indication-tag">asma</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMilgJBVV95cUxPcWVaeWtVYnp1UTl1R3FTOGdrOUJ3ejBNUjNaUDVydHNLT01xeFlpVmlLdXVUbnhEdTV2WnI3MHRFcUhWYllaWldrNmZuV1FZY0hHZ1RHT3VSdWdQVm9hYTItWkprVGFEcHZLdUxkU0h1MjhBVjd1eHJpRlI1RW1Fcng4WFlNbTg3dFVKM2NfbngzekZjaDJZLWdoSFZsZzdzSFBhaTF0Q1RGZ3lfZWt0MW9BQWJjUGoyOWpWUFlJWnZ0STJYUXVMZGdUQnBuVVNRYmo4eGFTcDBfdVhoVU9DaWZrbWtRN0RwRmR0YkxDWG1WamM1QkhyR3dpX1dJZG84MmJHUjFkTUN4N0luQV9NangwWDgtUQ?oc=5)
+
+---
+
 ### [Psoriasis-Arthritis: Hoher BMI verhindert anhaltende minimale Krankheitsaktivität – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Q4eUFTem9GWlRHSTA5NEc0RGVQb25pSV83c281cU5ZOTBqWHJlbTdSa1lUX2FBRDd3SVFmQjhTak9QOUNwMkVuUEhGa3g5V2gwbUVlSDViQmhRTmtoMUpGN2dGVHdtNE16TDdlcF9WaGVoMXNuMVlpMml5aTUtVVhXdHVITFU1ZlZkRkdHV252MnJTdFBWbEJrRDJKZVFiU3JkX2ZNT0dvWU9qdlA0SzdGRTF3LXA2UXQxbHRHYVoxcWYxc01zTXVzSEFmZFJYNHdsUGZnVVZZR1hGdnpBZjFtOA?oc=5)
 
 2026-07-15 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc0Q4eUFTem9GWlRHSTA5NEc0RGVQb25pSV83c281cU5ZOTBqWHJlbTdSa1lUX2FBRDd3SVFmQjhTak9QOUNwMkVuUEhGa3g5V2gwbUVlSDViQmhRTmtoMUpGN2dGVHdtNE16TDdlcF9WaGVoMXNuMVlpMml5aTUtVVhXdHVITFU1ZlZkRkdHV252MnJTdFBWbEJrRDJKZVFiU3JkX2ZNT0dvWU9qdlA0SzdGRTF3LXA2UXQxbHRHYVoxcWYxc01zTXVzSEFmZFJYNHdsUGZnVVZZR1hGdnpBZjFtOA?oc=5)
-
----
-
-### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
-
-2026-07-15 <span class="news-indication-tag">asma</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Una buena condición física ayuda a prevenir la demencia, la depresión y los trastornos psicóticos, según un estudio](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNTR0YzRFeVZ5alBXWEVfWWxBd2pZOVlnMHZVOGttRE1aRzBzTHV0WFBnVjB5cEMyQkVLcW1uX2p5Y1Y5Mm1lam1RR01XSE0tLUhLR1VBY1l3OXJGWTFEenlpX1NfVVJLeVBRTzdFbU5nT3VrWUxUaUdLTDd4WGVUYmdPalQ3S096TUVLLURvNFp6Y0FvOGdYN0ViZk00eDBIXzZSSEEzS3A4bU83d3dsQjljd0VNTjUxa3VOMndGR1VNOHY2eGpNRWp2NW42UWZpbzlzUDBDN3ZSNU16TmxKRjJ4YzBfbHlDTGd5Q1FlRDZ2UQ?oc=5)
-
-2026-07-15 <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNTR0YzRFeVZ5alBXWEVfWWxBd2pZOVlnMHZVOGttRE1aRzBzTHV0WFBnVjB5cEMyQkVLcW1uX2p5Y1Y5Mm1lam1RR01XSE0tLUhLR1VBY1l3OXJGWTFEenlpX1NfVVJLeVBRTzdFbU5nT3VrWUxUaUdLTDd4WGVUYmdPalQ3S096TUVLLURvNFp6Y0FvOGdYN0ViZk00eDBIXzZSSEEzS3A4bU83d3dsQjljd0VNTjUxa3VOMndGR1VNOHY2eGpNRWp2NW42UWZpbzlzUDBDN3ZSNU16TmxKRjJ4YzBfbHlDTGd5Q1FlRDZ2UQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

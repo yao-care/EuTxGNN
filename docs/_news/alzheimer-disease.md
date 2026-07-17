@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,29 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [No daughter should have to watch both parents succumb to dementia - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTdFX3BDdFhreG5CZy1GZEhkMk1nMlpHNnVsc29vVE50SnY0RS1FZmhnVTNRVDltQ1k4MWJ4cGJvYnc4RC1DcjdEWWxEaUl0aWFCdzhkOFNHX3dBM0t4clVZakRvUGhqQUFBZ0VtakZKWHJHblcydUh4MU1SS3NSLURYbVEzS2ktVjh5cS1tNHdFRGtpUmE3UEs3Z0k?oc=5)
 
 2026-07-16
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTdFX3BDdFhreG5CZy1GZEhkMk1nMlpHNnVsc29vVE50SnY0RS1FZmhnVTNRVDltQ1k4MWJ4cGJvYnc4RC1DcjdEWWxEaUl0aWFCdzhkOFNHX3dBM0t4clVZakRvUGhqQUFBZ0VtakZKWHJHblcydUh4MU1SS3NSLURYbVEzS2ktVjh5cS1tNHdFRGtpUmE3UEs3Z0k?oc=5)
-
----
-
-### [‘Landmark’ Alzheimer’s blood test rolled out to hundreds by GPs - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0laN2RkT2EzYTN3WFFCY055R29kTXNKZGpqbzY3ZmF6Z3VQMzlkNWtDeWZlUG5sVjM1MG5EeDJCWUFMSW5qVGtSSEtaMnBzdFNPa3JNU0JpZjFnWEU4M0ItT1pUVHZZRy0zM1dCbjk3ZEdCWjFOa3dhTnY5RkU4ZGFscw?oc=5)
-
-2026-07-15
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0laN2RkT2EzYTN3WFFCY055R29kTXNKZGpqbzY3ZmF6Z3VQMzlkNWtDeWZlUG5sVjM1MG5EeDJCWUFMSW5qVGtSSEtaMnBzdFNPa3JNU0JpZjFnWEU4M0ItT1pUVHZZRy0zM1dCbjk3ZEdCWjFOa3dhTnY5RkU4ZGFscw?oc=5)
-
----
-
-### [New Alzheimer’s drug could stop disease - The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
-
-2026-07-14
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5)
 
 ---
 
