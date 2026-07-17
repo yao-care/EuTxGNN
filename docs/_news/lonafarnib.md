@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Ultra-processed foods ‘may be linked to a quarter of heart disease’ - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+### [Rheumatoide Arthritis – auch auf die Lunge achten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
 
-2026-07-16 <span class="news-indication-tag">heart disease</span>
+2026-07-17 <span class="news-indication-tag">arthritis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
 
 ---
 
@@ -67,6 +67,14 @@ permalink: /news/lonafarnib/
 2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
+
+---
+
+### [Ultra-processed food linked to 25% of ALL heart disease deaths, damning research claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
+
+2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
 
 ---
 

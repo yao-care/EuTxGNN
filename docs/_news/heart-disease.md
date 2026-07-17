@@ -87,11 +87,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（2 則）
 
-### [Ultra-processed foods ‘may be linked to a quarter of heart disease’ - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+### [Ultra-processed food linked to 25% of ALL heart disease deaths, damning research claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
 
-2026-07-16
+2026-07-15
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
 
 ---
 

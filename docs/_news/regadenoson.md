@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/regadenoson/
 
 ---
 
+### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
+
+2026-07-16 <span class="news-indication-tag">Migräne</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
+
+---
+
 ### [Trescientos pacientes del Chuvi reciben los primeros fármacos específicos para combatir las migrañas - Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
 
 2026-07-16 <span class="news-indication-tag">migraña</span>
@@ -78,11 +86,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [Llega a España depemokimab para el tratamiento del asma grave con inflamación de tipo 2 y para la rinosinusitis crónica con pólipos nasales](https://news.google.com/rss/articles/CBMilgJBVV95cUxPcWVaeWtVYnp1UTl1R3FTOGdrOUJ3ejBNUjNaUDVydHNLT01xeFlpVmlLdXVUbnhEdTV2WnI3MHRFcUhWYllaWldrNmZuV1FZY0hHZ1RHT3VSdWdQVm9hYTItWkprVGFEcHZLdUxkU0h1MjhBVjd1eHJpRlI1RW1Fcng4WFlNbTg3dFVKM2NfbngzekZjaDJZLWdoSFZsZzdzSFBhaTF0Q1RGZ3lfZWt0MW9BQWJjUGoyOWpWUFlJWnZ0STJYUXVMZGdUQnBuVVNRYmo4eGFTcDBfdVhoVU9DaWZrbWtRN0RwRmR0YkxDWG1WamM1QkhyR3dpX1dJZG84MmJHUjFkTUN4N0luQV9NangwWDgtUQ?oc=5)
+### [Llega a España depemokimab, el primer biológico para el asma - El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
 
 2026-07-15 <span class="news-indication-tag">asma</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMilgJBVV95cUxPcWVaeWtVYnp1UTl1R3FTOGdrOUJ3ejBNUjNaUDVydHNLT01xeFlpVmlLdXVUbnhEdTV2WnI3MHRFcUhWYllaWldrNmZuV1FZY0hHZ1RHT3VSdWdQVm9hYTItWkprVGFEcHZLdUxkU0h1MjhBVjd1eHJpRlI1RW1Fcng4WFlNbTg3dFVKM2NfbngzekZjaDJZLWdoSFZsZzdzSFBhaTF0Q1RGZ3lfZWt0MW9BQWJjUGoyOWpWUFlJWnZ0STJYUXVMZGdUQnBuVVNRYmo4eGFTcDBfdVhoVU9DaWZrbWtRN0RwRmR0YkxDWG1WamM1QkhyR3dpX1dJZG84MmJHUjFkTUN4N0luQV9NangwWDgtUQ?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2VLWGF0Njl1Z0lQZXZBd0kyXzdyNnppSWdIMi1WeG04RXVLbWxXS05SSzBFMEFFUzVIUWU2OGVSQ3VoanFCNGhGUTVyRy1CNXA4Q09RYzFzY1ROdkMwcy01OHlRdXRIUVRYLXFRUG01LWwtcDNPaVhPeTlPWElvUk5BOHFUX0N1SmpWZlV4X3RmWXBRRWtV?oc=5)
 
 ---
 

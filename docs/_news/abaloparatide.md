@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Las secuelas 'no mentales' del maltrato infantil: «Saber que tras mis diez enfermedades está mi pasado me ayuda a combatirlas mejor»](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
-2026-07-16 <span class="news-indication-tag">diabetes</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
 ---
 
-### [SGLT2-Hemmer und KI fürs Stoffwechselgedächtnis: Alzheimer-Risiko sinkt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU9zSjBFOTJuMTlxVVNzUS1Kc0lkRFU5eXFlcHJ2RFQzYVhsdWdyYkltMEV6WFBvNTRLdjBsWXJYNmNNMk91Mm02bm1lV1lGRjdpbDhpMHZLaVJOdW5Pa2ktZHBxeG9tVFNYbVc2dl9JYjdoT0FzQXNvTmE4TnNGdnJTTDhuMnlXTnlPeEtIdThmVlJJU1A5WTc3ZVBxNmx1eEVQNGpqZw?oc=5)
+### [SGLT2-Hemmer und CKM: Alzheimer-Risiko sinkt laut neuen Daten um bis zu 43% - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
 
-2026-07-16 <span class="news-indication-tag">diabetes</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU9zSjBFOTJuMTlxVVNzUS1Kc0lkRFU5eXFlcHJ2RFQzYVhsdWdyYkltMEV6WFBvNTRLdjBsWXJYNmNNMk91Mm02bm1lV1lGRjdpbDhpMHZLaVJOdW5Pa2ktZHBxeG9tVFNYbVc2dl9JYjdoT0FzQXNvTmE4TnNGdnJTTDhuMnlXTnlPeEtIdThmVlJJU1A5WTc3ZVBxNmx1eEVQNGpqZw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
 
 ---
 
-### [Low-Insulin-Ernährung und Semaglutid: Studie liefert 5,2-kg-Erfolg im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2c2WVJzci1YVVFpOVRzTVROcEp1MnJyMmd5MlNJTktyRU94bDdvQVN2S05PdHNncUwzeTVXdTJ6ek1ONm4xaUxrZHpQRDRCa1hmb1R3b0htdkdtWjZuSjFQY2ZqR2pGaGhGYjZjT0lVUWtRRW5lMFg3YmlfODRTWlV1ZmZCcTJSYmFmVlk0VnB2QlU1cGZwdUt2NjVfRVhXUEFHUDBQMTlJdw?oc=5)
+### [Low-Insulin-Ernährung: Studie belegt 5,2 kg Gewichtsverlust](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2c2WVJzci1YVVFpOVRzTVROcEp1MnJyMmd5MlNJTktyRU94bDdvQVN2S05PdHNncUwzeTVXdTJ6ek1ONm4xaUxrZHpQRDRCa1hmb1R3b0htdkdtWjZuSjFQY2ZqR2pGaGhGYjZjT0lVUWtRRW5lMFg3YmlfODRTWlV1ZmZCcTJSYmFmVlk0VnB2QlU1cGZwdUt2NjVfRVhXUEFHUDBQMTlJdw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
 
 ---
 
@@ -91,6 +91,14 @@ permalink: /news/abaloparatide/
 2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
+
+---
+
+### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
+
+2026-07-16 <span class="news-indication-tag">Migräne</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
 
 ---
 

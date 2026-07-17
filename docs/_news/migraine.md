@@ -3,7 +3,7 @@ layout: default
 title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。4 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
+<strong>emicrania（migraine）</strong> 目前有 <strong>4 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
 
@@ -92,6 +92,14 @@ permalink: /news/migraine/
 2026-07-16
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
+
+---
+
+### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
+
+2026-07-16
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
 
 ---
 

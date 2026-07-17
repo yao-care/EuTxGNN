@@ -56,33 +56,33 @@ permalink: /news/semaglutide/
 
 ### [Las secuelas 'no mentales' del maltrato infantil: «Saber que tras mis diez enfermedades está mi pasado me ayuda a combatirlas mejor»](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
-2026-07-16 <span class="news-indication-tag">diabetes</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
 
 ---
 
-### [SGLT2-Hemmer und KI fürs Stoffwechselgedächtnis: Alzheimer-Risiko sinkt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU9zSjBFOTJuMTlxVVNzUS1Kc0lkRFU5eXFlcHJ2RFQzYVhsdWdyYkltMEV6WFBvNTRLdjBsWXJYNmNNMk91Mm02bm1lV1lGRjdpbDhpMHZLaVJOdW5Pa2ktZHBxeG9tVFNYbVc2dl9JYjdoT0FzQXNvTmE4TnNGdnJTTDhuMnlXTnlPeEtIdThmVlJJU1A5WTc3ZVBxNmx1eEVQNGpqZw?oc=5)
+### [SGLT2-Hemmer und CKM: Alzheimer-Risiko sinkt laut neuen Daten um bis zu 43% - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
 
-2026-07-16 <span class="news-indication-tag">diabetes</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU9zSjBFOTJuMTlxVVNzUS1Kc0lkRFU5eXFlcHJ2RFQzYVhsdWdyYkltMEV6WFBvNTRLdjBsWXJYNmNNMk91Mm02bm1lV1lGRjdpbDhpMHZLaVJOdW5Pa2ktZHBxeG9tVFNYbVc2dl9JYjdoT0FzQXNvTmE4TnNGdnJTTDhuMnlXTnlPeEtIdThmVlJJU1A5WTc3ZVBxNmx1eEVQNGpqZw?oc=5)
-
----
-
-### [Low-Insulin-Ernährung und Semaglutid: Studie liefert 5,2-kg-Erfolg im Blick - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2c2WVJzci1YVVFpOVRzTVROcEp1MnJyMmd5MlNJTktyRU94bDdvQVN2S05PdHNncUwzeTVXdTJ6ek1ONm4xaUxrZHpQRDRCa1hmb1R3b0htdkdtWjZuSjFQY2ZqR2pGaGhGYjZjT0lVUWtRRW5lMFg3YmlfODRTWlV1ZmZCcTJSYmFmVlk0VnB2QlU1cGZwdUt2NjVfRVhXUEFHUDBQMTlJdw?oc=5)
-
-2026-07-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2c2WVJzci1YVVFpOVRzTVROcEp1MnJyMmd5MlNJTktyRU94bDdvQVN2S05PdHNncUwzeTVXdTJ6ek1ONm4xaUxrZHpQRDRCa1hmb1R3b0htdkdtWjZuSjFQY2ZqR2pGaGhGYjZjT0lVUWtRRW5lMFg3YmlfODRTWlV1ZmZCcTJSYmFmVlk0VnB2QlU1cGZwdUt2NjVfRVhXUEFHUDBQMTlJdw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
 
 ---
 
-### [Pillola per dimagrire, via libera in Europa: come funzionerà il nuovo farmaco (che può sostituire le iniezioni) - Il Messaggero](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3llWF82WFNHQ3ZIU083RDVvNHZaUnEwMTEzU1ZsN0M3clI5R01NNk5hME1DZTg0ajhoRWNUQVRMUkVJVTNHUmdYSTV2VUE2aExsR1otVGZSTFpvSHVWRjRWazQ4QVhRTEIzdks0b0FOQWZVMUh3eE1wTUtrdEhMNkF6RWd4amFlTkh1QjU5WnR1QzBCaXdfR1lQd0UySnA0SzBtdjJOaFdrZ3RzM0FxTE8yMkJ5d9IBrwFBVV95cUxQWUFlWW1KREREa1BUZ1QwRXU4aEpUd1VkQ2xvVU9SdWxQcGRiUVNHZEJHa2RiU0tUY05kMVJwUEJGdWVGaGVVckdueEw5Nmg1R0ZZeTBPY2JyeVZJU0NrZFc0N09aSGxTeDdlOE4tT0VzS2ZOOFN5MXgyRnFoUDlpdlk3MXVlbFhsb1BFQU5nMW1TRVN3c2dITm81NlhBcHZGYUsxQUd6Zkg3MTRQQTdz?oc=5)
+### [Ue, in commercio la prima pillola per dimagrire: come funziona - il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VtRm1vSnpQYmZsUDNBQkJ3T3gyVDlxT0lMS1RjZ19Md0FYeUgwUXJtS2F4SU9NTVJpRDN3bTJid3poYmcxSlB0U1E2UzltNjNOM2pWNlBZWllQRXNJSEVTNFlsdWYtX3dmT2pGazhoeTBmczNUWmpqLUpyMnZlSzFxejRHZFdnZG9EMUFPTmZaWHhCOWRMcklBNWoxdGREMjRV?oc=5)
 
 2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3llWF82WFNHQ3ZIU083RDVvNHZaUnEwMTEzU1ZsN0M3clI5R01NNk5hME1DZTg0ajhoRWNUQVRMUkVJVTNHUmdYSTV2VUE2aExsR1otVGZSTFpvSHVWRjRWazQ4QVhRTEIzdks0b0FOQWZVMUh3eE1wTUtrdEhMNkF6RWd4amFlTkh1QjU5WnR1QzBCaXdfR1lQd0UySnA0SzBtdjJOaFdrZ3RzM0FxTE8yMkJ5d9IBrwFBVV95cUxQWUFlWW1KREREa1BUZ1QwRXU4aEpUd1VkQ2xvVU9SdWxQcGRiUVNHZEJHa2RiU0tUY05kMVJwUEJGdWVGaGVVckdueEw5Nmg1R0ZZeTBPY2JyeVZJU0NrZFc0N09aSGxTeDdlOE4tT0VzS2ZOOFN5MXgyRnFoUDlpdlk3MXVlbFhsb1BFQU5nMW1TRVN3c2dITm81NlhBcHZGYUsxQUd6Zkg3MTRQQTdz?oc=5)
+來源：[il Giornale](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3VtRm1vSnpQYmZsUDNBQkJ3T3gyVDlxT0lMS1RjZ19Md0FYeUgwUXJtS2F4SU9NTVJpRDN3bTJid3poYmcxSlB0U1E2UzltNjNOM2pWNlBZWllQRXNJSEVTNFlsdWYtX3dmT2pGazhoeTBmczNUWmpqLUpyMnZlSzFxejRHZFdnZG9EMUFPTmZaWHhCOWRMcklBNWoxdGREMjRV?oc=5)
+
+---
+
+### [Low-Insulin-Ernährung: Studie belegt 5,2 kg Gewichtsverlust](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVFMMnp0a3p3OERkNVhFNjNNMU5tSG1LbUJ2Wmx2VWtoZWoxQWY1Wi0zMk9fbE83dW14VGhaSVdTWjFveDdqLUhiODJWb2VVSExGMU5yLXNRbXA1aGxCSWJMWnhaYmY4V1VBclA3ZlVGSW91NEpkY3JUYkpYVDhNREdtX2pPV1NkWUVrV05LX1dQUjNTbnF5M3ZiTXMteE45bjdPRWhacTkxMTdu?oc=5)
 
 ---
 
@@ -102,7 +102,7 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Ozempic svuota il corpo e arriva una soluzione: grasso prelevato dai cadaveri per seno e glutei](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUhISHFmeFo3LXlpd1hTZzAyNU9jWGdmV3MtUEJvYkpXaGRDUmZHa2dkZ2hQbkkwRTJKSzA2S0NkQjkyNklxY1o5N2N3MFZCRDdEUS1YSV9Sd3RHZ3BuVkhlamZLSEE1bV9sSkZzSGRGeDA2YnF0MVFVNER6NDNJdzNKQUhSeHVHREdjbGd0MXBucUZBVm4tbHI1bmVUa3VBbDR2Q1d5cGhDUVhCT0hhV05NQUpHZw?oc=5)
+### [Ozempic fa dimagrirre ma svuota il corpo? La soluzione: grasso prelevato dai cadaveri per seno e glutei](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUhISHFmeFo3LXlpd1hTZzAyNU9jWGdmV3MtUEJvYkpXaGRDUmZHa2dkZ2hQbkkwRTJKSzA2S0NkQjkyNklxY1o5N2N3MFZCRDdEUS1YSV9Sd3RHZ3BuVkhlamZLSEE1bV9sSkZzSGRGeDA2YnF0MVFVNER6NDNJdzNKQUhSeHVHREdjbGd0MXBucUZBVm4tbHI1bmVUa3VBbDR2Q1d5cGhDUVhCT0hhV05NQUpHZw?oc=5)
 
 2026-07-15 <span class="news-drug-tag">Semaglutide</span>
 

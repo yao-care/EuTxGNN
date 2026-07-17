@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [VRAI OU FAUX. Migraine : prévalence chez les femmes, lumière, café, hérédité... 4 questions que vous vous êtes toujours posées sur votre mal de crâne](https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2dLX1R0NzdOUEZaRU1ydDBzUGNKYTJoNzZTRENVOTZRdUhLQTFIRkNGMG05eGlQNENBWGFhWUFYUGlWNnk2RWRadzR6UXdXc2hTaWdndFQyZG5kMEdPLVJkT09YWUlQYXBQdEZiUGlDRGNNYjV3Rm1HSDVnd2FjcHRiSlpjdjhZOGc1a2VjM0N2bDJGOEFhMUNhRGxDSGN5UVBsaVVQS0xjNTV5bHpQUWYyY0RsZ3g2TGc2bWgtV1lkbi1HVTRiWEhXejF0LTRQSUROQUxVZm95SVlEd05IZ3FxSTZUeUNOdFRFUmJXejJYTFl0cERpUVc2Y3NpYzFtNzQ4em5HMTVqZWw5cmx3ak9NZk9VekJO?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [Ultra-processed foods ‘may be linked to a quarter of heart disease’ - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
 
-2026-07-16 <span class="news-indication-tag">heart disease</span>
+2026-07-16 <span class="news-indication-tag">Migräne</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVJkNWlpVjgtNmxVcEN2MVRjMzBXNGh2X3J3M3NPbUZfa2ZBUktueEFRb253bTh0WnBzeEl2UGxGa09oNGhFU09Pb0g3LUdCYjZOOUpFOHItNGUxYUNhYzNlS1ZVeU9aZ00wVURjOFJwdVM5QjNCZ3V2MWt3VVhsajlOVFRQM25ocWJVMURPenFtYlAyYXFEMUoxeFYwYms?oc=5)
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
 
 ---
 
@@ -83,6 +83,14 @@ permalink: /news/rimegepant/
 2026-07-16 <span class="news-indication-tag">migraña</span>
 
 來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
+
+---
+
+### [Ultra-processed food linked to 25% of ALL heart disease deaths, damning research claims - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
+
+2026-07-15 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1MT2pCSTZ3MjE5TGJPX1FEMk4yYjFUYXZxSFJ0U2RlRnd6YUNfdnMyWU9BOU11Yk9BQ2IyZ0RIYjRNTVVBcG94X0FUcTFiQ19pYUx6VTVZMXN5blhNc1h3NHBIYmpLS2FvN3FQZHNfQTdEdjQxUHlkOWhWcUJGQ2hmNlJpUUNCaHFMODZ4TnlsRUMy?oc=5)
 
 ---
 

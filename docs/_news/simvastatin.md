@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Ictus, una vita sessuale soddisfacente dopo l’evento acuto è possibile](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdXFzRTVwZHBIdlZqUURoQ1hEY2FSUDdocUt6aTY3TGZjLVd6YWk1THFZdkhnYkJfQkpncTh6ZEJscjd0a1pmSlk5MXNtcnBFVFUtOGY5RU1uVGdRN3lqWTh30gFnQVVfeXFMTkkycXpYd3RjRHlmZmUwZjM0ZlFUUm1HYUsxSUI3NE9pdVZiYmVoVGlZd3N0Ql9qTzFCMWJTYVhjMzJ0U1dBWW96M1BtNUtldXEzOTJfZUJvUTBuUHA3OWNQSE42UGZRbw?oc=5)
-
-2026-07-15 <span class="news-indication-tag">ictus</span>
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdXFzRTVwZHBIdlZqUURoQ1hEY2FSUDdocUt6aTY3TGZjLVd6YWk1THFZdkhnYkJfQkpncTh6ZEJscjd0a1pmSlk5MXNtcnBFVFUtOGY5RU1uVGdRN3lqWTh30gFnQVVfeXFMTkkycXpYd3RjRHlmZmUwZjM0ZlFUUm1HYUsxSUI3NE9pdVZiYmVoVGlZd3N0Ql9qTzFCMWJTYVhjMzJ0U1dBWW96M1BtNUtldXEzOTJfZUJvUTBuUHA3OWNQSE42UGZRbw?oc=5)
-
----
-
-### [Diciotto anni senza voce dopo un Ictus, poi il cervello ha ricominciato a parlare](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWh4cDNfUFVEUjVoOHFHcmJzY1AtMGl0a2gzeE1NbGJWNmExcU9MZHROdkZfTkpfbEVsanhVa1hnODZuTjB2MklNSWVBUFp6R0s5MUNQV1F4VGpoNUs5QjNaSnJxZ184SHNSTG5aNFJSOTJ6UzlFWmJoeHQtR0tKbXVnZG1QcVNFOHF5Q3lUV3hFMkdzbF9VVjlMSnNZSXFMYVRReGVlM1pISUtKZTNycFhrOUIzYy04b193R3h4dFlaLVg4VHAwTHhYTllNQVpGZms5OFYyNA?oc=5)
-
-2026-07-15 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWh4cDNfUFVEUjVoOHFHcmJzY1AtMGl0a2gzeE1NbGJWNmExcU9MZHROdkZfTkpfbEVsanhVa1hnODZuTjB2MklNSWVBUFp6R0s5MUNQV1F4VGpoNUs5QjNaSnJxZ184SHNSTG5aNFJSOTJ6UzlFWmJoeHQtR0tKbXVnZG1QcVNFOHF5Q3lUV3hFMkdzbF9VVjlMSnNZSXFMYVRReGVlM1pISUtKZTNycFhrOUIzYy04b193R3h4dFlaLVg4VHAwTHhYTllNQVpGZms5OFYyNA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Rheumatoide Arthritis – auch auf die Lunge achten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
+
+2026-07-17 <span class="news-indication-tag">arthritis</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
+
+---
 
 ### [Bluthochdruck: Neue Leitlinien verbinden Herz, Nieren und Stoffwechsel](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
 
