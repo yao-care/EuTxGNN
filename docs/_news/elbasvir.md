@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（17 則）
 
 ### [The TRUTH about viral 'parasite cleanse' drink for bloating, acne and tiredness - as GP reveals true signs of worms - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
-
----
-
-### [What is cyclosporiasis, the parasitic illness causing ‘explosive’ diarrhea? - The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN21GREFTODR5VjNadUppQ04tUkhDcW0yTzR5dXJrU0RjWWlQbVZURFBIeVhOZUdGTWdGQzZQei1Mc2NDTEJkeEV0NmJROE10VTVXVmFXS3hhS3ctVDhYdV9VZFFXcl9jRUxZQ0xRVkJENFgzNm1PS1IwWVZIaXVmdm5DMDBGQXMwVldLYkM2TDV1M1FLbjBGV1dsWTA0djJuWHFmOHk1ZWU?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN21GREFTODR5VjNadUppQ04tUkhDcW0yTzR5dXJrU0RjWWlQbVZURFBIeVhOZUdGTWdGQzZQei1Mc2NDTEJkeEV0NmJROE10VTVXVmFXS3hhS3ctVDhYdV9VZFFXcl9jRUxZQ0xRVkJENFgzNm1PS1IwWVZIaXVmdm5DMDBGQXMwVldLYkM2TDV1M1FLbjBGV1dsWTA0djJuWHFmOHk1ZWU?oc=5)
 
 ---
 
@@ -78,11 +70,27 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Gehirnschutz: 3.000 Schritte täglich bremsen Demenz-Risiko](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndLR00tMlN4RjVLOEZiUXVETkJGbkU1OXhMNV9jZEVsUlZGdEdFU1BUeE15UjRlcm80d0psVGNBTnUyN3ZhaFRKVEtjc2x0cXhtOTIwS3E5aDJVdWN0NDFuTTdLd29pSEJ4YXRpSHAzUnJ0TmlRWWNqLVlDMG42djUyelB1Z0NJUDM2VUhTel9QQVJtRHo2U2N0ck96M2JyQ05ZRVhpbS1JbGs?oc=5)
+### [Gehirnschutz: 3.000 Schritte täglich bremsen Demenz-Risiko - Ad Hoc News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndLR00tMlN4RjVLOEZiUXVETkJGbkU1OXhMNV9jZEVsUlZGdEdFU1BUeE15UjRlcm80d0psVGNBTnUyN3ZhaFRKVEtjc2x0cXhtOTIwS3E5aDJVdWN0NDFuTTdLd29pSEJ4YXRpSHAzUnJ0TmlRWWNqLVlDMG42djUyelB1Z0NJUDM2VUhTel9QQVJtRHo2U2N0ck96M2JyQ05ZRVhpbS1JbGs?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndLR00tMlN4RjVLOEZiUXVETkJGbkU1OXhMNV9jZEVsUlZGdEdFU1BUeE15UjRlcm80d0psVGNBTnUyN3ZhaFRKVEtjc2x0cXhtOTIwS3E5aDJVdWN0NDFuTTdLd29pSEJ4YXRpSHAzUnJ0TmlRWWNqLVlDMG42djUyelB1Z0NJUDM2VUhTel9QQVJtRHo2U2N0ck96M2JyQ05ZRVhpbS1JbGs?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObndLR00tMlN4RjVLOEZiUXVETkJGbkU1OXhMNV9jZEVsUlZGdEdFU1BUeE15UjRlcm80d0psVGNBTnUyN3ZhaFRKVEtjc2x0cXhtOTIwS3E5aDJVdWN0NDFuTTdLd29pSEJ4YXRpSHAzUnJ0TmlRWWNqLVlDMG42djUyelB1Z0NJUDM2VUhTel9QQVJtRHo2U2N0ck96M2JyQ05ZRVhpbS1JbGs?oc=5)
+
+---
+
+### [L'Alzheimer? Nel 40% dei casi si può prevenire: ecco le regole d'oro - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDBvb0lVODE3c0VjdW9MeC0yOHlzYTJWUl9JTDl2YzNXLVp6RTdBclpvZE5NaE5oa3J4VEZCbTkyZG1pcm1XdVhyRzV6bkt2MnNTYnBmQzNnQ0R2aXJkYTJsWFhqeWtmOVZpV0kxckZyYnY0ZXlfZXhSM1FwRjFDdmFnVGpqeEJxOUZWamZHbEJaWm9iZG9uakRiMzV4eWVVT2JSaG5NaV9rc3BseHBSVNIBtgFBVV95cUxNMmgzb0h0MHJkQ3FNR3VlTVpZeWFrc3pMTnh2ZVpCdzluMjNxakhzM29yMHc3T1BrdEs2WXdqYmVjQkt5ZWQxRnZDMlZsSlRGRzlxd0xoVEJSSThZTnd1Nkp4bDNXX3h0SFU5YTJ6aUxqQkpoOC15QTdaOFNpLW11ZUZ6U0loUm5nX1BRVkxzd0pNd1M3cGxLVUJzX0ttU0NiQ1dLYXRrbnJKamMyT1J0TFBUb243UQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDBvb0lVODE3c0VjdW9MeC0yOHlzYTJWUl9JTDl2YzNXLVp6RTdBclpvZE5NaE5oa3J4VEZCbTkyZG1pcm1XdVhyRzV6bkt2MnNTYnBmQzNnQ0R2aXJkYTJsWFhqeWtmOVZpV0kxckZyYnY0ZXlfZXhSM1FwRjFDdmFnVGpqeEJxOUZWamZHbEJaWm9iZG9uakRiMzV4eWVVT2JSaG5NaV9rc3BseHBSVNIBtgFBVV95cUxNMmgzb0h0MHJkQ3FNR3VlTVpZeWFrc3pMTnh2ZVpCdzluMjNxakhzM29yMHc3T1BrdEs2WXdqYmVjQkt5ZWQxRnZDMlZsSlRGRzlxd0xoVEJSSThZTnd1Nkp4bDNXX3h0SFU5YTJ6aUxqQkpoOC15QTdaOFNpLW11ZUZ6U0loUm5nX1BRVkxzd0pNd1M3cGxLVUJzX0ttU0NiQ1dLYXRrbnJKamMyT1J0TFBUb243UQ?oc=5)
+
+---
+
+### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
 
 ---
 
@@ -118,6 +126,14 @@ permalink: /news/elbasvir/
 
 ---
 
+### [New Alzheimer's drug repairs DNA damage and reduces brain inflammation](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5)
+
+2026-07-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5)
+
+---
+
 ### [Hampshire teacher urges people not to ignore symptoms after cancer diagnosis - Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -126,19 +142,27 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Casos de ébola en República Democrática del Congo superan los 2.100 y OMS advierte de mayor propagación - Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFBFLWtidFA4cENlMXZqWUNFb0ZKUDltMFZoZ085ZG41cGozbzF6LURZdTlxUFBVUDA3WFozRW1OVnZiVjk1dXFGNy1ZdXhoeXlfdC1sYnRwbk9iMFV2NEw5UHgyOW9BYWtFNHZTRHU3ZDRobnhIQlJ5b0syTThINUtZOA?oc=5)
+### [Common Mouth Bacteria May Trigger Dangerous Calcium Buildup in the Heart](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmhaOXI1SGRQcGFyMkhOOUk3aHhfLWVGbmhjVUNtMkdrWF9lUE55WDVjSVU5S1VGLURfb2dvMVdEYzRXYUY4RFVCczh6aXZzalN3emFVaTQ1N3dySF9ReURJSlNuLVhydjRqa3FvQ3lSWndYd0ZrUE5wUk1XN3NOM1cwalBhWldVaTk5TWw1b1NqVE05MHZpOVYyOUxqWTA?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
-來源：[Xinhua Español](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFBFLWtidFA4cENlMXZqWUNFb0ZKUDltMFZoZ085ZG41cGozbzF6LURZdTlxUFBVUDA3WFozRW1OVnZiVjk1dXFGNy1ZdXhoeXlfdC1sYnRwbk9iMFV2NEw5UHgyOW9BYWtFNHZTRHU3ZDRobnhIQlJ5b0syTThINUtZOA?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmhaOXI1SGRQcGFyMkhOOUk3aHhfLWVGbmhjVUNtMkdrWF9lUE55WDVjSVU5S1VGLURfb2dvMVdEYzRXYUY4RFVCczh6aXZzalN3emFVaTQ1N3dySF9ReURJSlNuLVhydjRqa3FvQ3lSWndYd0ZrUE5wUk1XN3NOM1cwalBhWldVaTk5TWw1b1NqVE05MHZpOVYyOUxqWTA?oc=5)
 
 ---
 
-### [Studie entschlüsselt, wie EBV-Infektion Multiple Sklerose antreibt - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0RjMnplR21SZjY2WlJ4LTR5TkZNc3Y5UlAtdmc2Rk5RU2hKV3RoVWd5VUd0bXlsZTZjZ1QyeF9NaUJKVVVwM1lmYktBYi1RS2FJZG45ZzdnSE41eWw3QXBNbjVmV3loWm1WMUJjbWZBcHQyRFNXQWtSeDFWMmpJMGxVc2RXeWtjajRiZi05eTJjX1RFNXEySTZYT2FSbTA?oc=5)
+### [EBV und MS: T-Zellen bei Patienten doppelt so aktiv wie bei Gesunden - Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXgzQUJuUUE1SkhodF90c0xscDliS1k1eVdiT1IzcGJPY0FjakQya1BWem1uLW1lbFU3TWRWOUxuTXhIVG9EdlBSRXhTckptOUljaF9DWmpIVUxlTEYwTlE4Yk1vZzhkVjVGZ3pJVjdBVUFTZlRZdE1GWDVGa0lIOWFUZ0hQa0ZGLVdvRUsxYzFGWDdpNzQ3MVk5T181RFVfdm1sNURib2JNRHRoek11YWJETkwzV00?oc=5)
 
-2026-07-17 <span class="news-indication-tag">Multiple Sklerose</span>
+2026-07-16 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0RjMnplR21SZjY2WlJ4LTR5TkZNc3Y5UlAtdmc2Rk5RU2hKV3RoVWd5VUd0bXlsZTZjZ1QyeF9NaUJKVVVwM1lmYktBYi1RS2FJZG45ZzdnSE41eWw3QXBNbjVmV3loWm1WMUJjbWZBcHQyRFNXQWtSeDFWMmpJMGxVc2RXeWtjajRiZi05eTJjX1RFNXEySTZYT2FSbTA?oc=5)
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXgzQUJuUUE1SkhodF90c0xscDliS1k1eVdiT1IzcGJPY0FjakQya1BWem1uLW1lbFU3TWRWOUxuTXhIVG9EdlBSRXhTckptOUljaF9DWmpIVUxlTEYwTlE4Yk1vZzhkVjVGZ3pJVjdBVUFTZlRZdE1GWDVGa0lIOWFUZ0hQa0ZGLVdvRUsxYzFGWDdpNzQ3MVk5T181RFVfdm1sNURib2JNRHRoek11YWJETkwzV00?oc=5)
+
+---
+
+### [Brain implant helps paralysed man to feed himself and drink from cup - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5)
+
+2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5)
 
 ---
 
@@ -147,22 +171,6 @@ permalink: /news/elbasvir/
 2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
-
----
-
-### [Demenze, il 45% possono essere prevenute o rallentate con stile di vita, alimentazione e integratori](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2tBeDFscFJrLTJMdm9KMm1SRWI1Z0JOM1lJSWN5MnMzb0w3TlJZRkFzZDZtcW8yWTQyTEllb0l3T2tLT1JvMGhFLVF4TC1BQnRqRlQ2VHdCcGVwd2szblB5NWp6ZEs5TTJOYjhJekMxZEdkM2o5Wm5Yb3RjVXcwZVN0OWRReFlmZUp2TlZQZk9IUnJLeUpQdGVnbjhjSVRlSkxKUWt6YWkzTUxfQXJ2bm1yMmliZHFQRHZ6OGVuSVY1ZkNCT0VLMkhjbFFCcFMzcWQtbkNyczdkWktkLXFXOXo4WTgyY1V3UG54LQ?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY2tBeDFscFJrLTJMdm9KMm1SRWI1Z0JOM1lJSWN5MnMzb0w3TlJZRkFzZDZtcW8yWTQyTEllb0l3T2tLT1JvMGhFLVF4TC1BQnRqRlQ2VHdCcGVwd2szblB5NWp6ZEs5TTJOYjhJekMxZEdkM2o5Wm5Yb3RjVXcwZVN0OWRReFlmZUp2TlZQZk9IUnJLeUpQdGVnbjhjSVRlSkxKUWt6YWkzTUxfQXJ2bm1yMmliZHFQRHZ6OGVuSVY1ZkNCT0VLMkhjbFFCcFMzcWQtbkNyczdkWktkLXFXOXo4WTgyY1V3UG54LQ?oc=5)
-
----
-
-### [Paralysed man regains hand function through novel brain technology - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5)
 
 ---
 
@@ -179,22 +187,6 @@ permalink: /news/elbasvir/
 2026-07-16 <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzd4OG40OWdDSkVBSTFSOTI3OUd1VHFKbklNYjdCdF85dXo3VWY5UVB5ZXczVDdPX0ZhQTItbXRRc2NXRk9KVExMeDNqcWZRdTVnenZjaVZjUDVZaURuVGIwc0hXeDBySjdOVTJSNTFkMTZxeHhRSWlGYVZRM2VPdtIBhgFBVV95cUxQcmdJNFdhZEhRSG9sX0FUVWFRUGdjVXdCa0tFeFVFVDREdlo4cjZ5NEhJMEM0T2JZd1lELWdSUlk0VlNOcTNqRDlZMVljVVNCN21Fd09Sd0lxWVJXUEVSOFllUlRaYXhNdkZqMkpQSGhNQ2QxRmhYX284MFJBdGRPemhBYnUxUQ?oc=5)
-
----
-
-### [Más cerca del origen de la esclerosis múltiple: observan cómo el virus Epstein-Barr dispara la respuesta inmune - El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxNOVgzWXZ0UTJ5aHFJby0xR1ZPcFZRLTdQMGV4UHVVNWJ6RlBybTNEWGl4ZDZfYzZOX1hkYVJmbmdFLWFFdjNSRWxHUTJMb1pLMlpTbHlDVDY4VW1MYVFuMklwSFlVUGFnZ0o5TENBM2VXMVFSaml1NkNvam9vSUR4aVF3cUNzRTQ3RUc4UnhsckdsTU05Mmk4djN3VXVCMkFxVGZEdy03S1I5aGtVLW5mMk16eEp5cVJCdS1fbU1IV29fZkF2Yk1UZkxPdDZNWFpJX09WRzNqXzFGY3gzWThCckNObUtQTUVURGM4cy1uaHljU1pRUVp4Szk2MnZNM0FLN3fSAYcCQVVfeXFMTjNVRklVZ3Q2Z0M4UmV0WTh0R3hnQXZjWFI0N1ZQQmptMzF4d2tWb3pKeEVoMTVzMTVtc2Q0aVVmZWNrX1hpZjdxRGRSYUpZM29JaGdOWTFYUU13bXdaNHM4OF9vejRIbWlYZThXRktTT203NjZFc0diQU4tVzNqWXY4Q2RWeFpCVmFIc2NEZUI1eWl6bW1UcnRrcmF5bzRjRFVsUDBoOUw3eXhoNUZ1T0JNalBUNnhyM3VldnhIeUF4VDFnZlpBWElvVTlSbWJkUnFudm1yR0IxTTJEeFM4U1JXUkhBeXNhbkU2RUQxdllYd0VLbFl5YVY5RFVkTEExcFRKMWZTNTg?oc=5)
-
-2026-07-15 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[El Español](https://news.google.com/rss/articles/CBMiggJBVV95cUxNOVgzWXZ0UTJ5aHFJby0xR1ZPcFZRLTdQMGV4UHVVNWJ6RlBybTNEWGl4ZDZfYzZOX1hkYVJmbmdFLWFFdjNSRWxHUTJMb1pLMlpTbHlDVDY4VW1MYVFuMklwSFlVUGFnZ0o5TENBM2VXMVFSaml1NkNvam9vSUR4aVF3cUNzRTQ3RUc4UnhsckdsTU05Mmk4djN3VXVCMkFxVGZEdy03S1I5aGtVLW5mMk16eEp5cVJCdS1fbU1IV29fZkF2Yk1UZkxPdDZNWFpJX09WRzNqXzFGY3gzWThCckNObUtQTUVURGM4cy1uaHljU1pRUVp4Szk2MnZNM0FLN3fSAYcCQVVfeXFMTjNVRklVZ3Q2Z0M4UmV0WTh0R3hnQXZjWFI0N1ZQQmptMzF4d2tWb3pKeEVoMTVzMTVtc2Q0aVVmZWNrX1hpZjdxRGRSYUpZM29JaGdOWTFYUU13bXdaNHM4OF9vejRIbWlYZThXRktTT203NjZFc0diQU4tVzNqWXY4Q2RWeFpCVmFIc2NEZUI1eWl6bW1UcnRrcmF5bzRjRFVsUDBoOUw3eXhoNUZ1T0JNalBUNnhyM3VldnhIeUF4VDFnZlpBWElvVTlSbWJkUnFudm1yR0IxTTJEeFM4U1JXUkhBeXNhbkU2RUQxdllYd0VLbFl5YVY5RFVkTEExcFRKMWZTNTg?oc=5)
-
----
-
-### [Biologists pinpoint how common virus triggers multiple sclerosis](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5)
-
-2026-07-15 <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5)
 
 ---
 

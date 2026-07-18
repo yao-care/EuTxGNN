@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Low-Insulin-Diät: 5,2 Kilogramm Gewichtsverlust in sechs Monaten - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
+
+2026-07-17 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
+
+---
 
 ### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
@@ -72,17 +80,9 @@ permalink: /news/semaglutide/
 
 ### [SGLT2-Hemmer und CKM: Alzheimer-Risiko sinkt laut neuen Daten um bis zu 43% - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabetes</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
-
----
-
-### [Typ-2-Diabetes: Low-Insulin-Diät senkt Blutzucker um 17%](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOajZWN1pOV2JCbUdKYmtqbnpaWXl4VDBmenRhQ2RmaVZWSWQzUmhFdTZGSTBXaHFqOEQ2a0RkTjQ4blFrUmpWVS1VcTRiWGhPQlZqUlJUU2otU1JETXlqVGxBZDVOWFpHYmF4dXhQLTg4Q2pvRkJyRnhsSW5EdWN6dGlOYm9nbjV4X1hveEo1M19JaEs0TkswMmxNSmRGbkhoand5TVg3VDlPWnEzYmZsXzNB?oc=5)
 
 ---
 
@@ -91,6 +91,14 @@ permalink: /news/semaglutide/
 2026-07-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
+
+---
+
+### [Estudio revela beneficio inesperado de los medicamentos para la obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
+
+2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[SuMédico](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [No daughter should have to watch both parents succumb to dementia - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTdFX3BDdFhreG5CZy1GZEhkMk1nMlpHNnVsc29vVE50SnY0RS1FZmhnVTNRVDltQ1k4MWJ4cGJvYnc4RC1DcjdEWWxEaUl0aWFCdzhkOFNHX3dBM0t4clVZakRvUGhqQUFBZ0VtakZKWHJHblcydUh4MU1SS3NSLURYbVEzS2ktVjh5cS1tNHdFRGtpUmE3UEs3Z0k?oc=5)
+### [New Alzheimer's drug repairs DNA damage and reduces brain inflammation](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5)
 
-2026-07-16
+2026-07-17
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTdFX3BDdFhreG5CZy1GZEhkMk1nMlpHNnVsc29vVE50SnY0RS1FZmhnVTNRVDltQ1k4MWJ4cGJvYnc4RC1DcjdEWWxEaUl0aWFCdzhkOFNHX3dBM0t4clVZakRvUGhqQUFBZ0VtakZKWHJHblcydUh4MU1SS3NSLURYbVEzS2ktVjh5cS1tNHdFRGtpUmE3UEs3Z0k?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5)
 
 ---
 

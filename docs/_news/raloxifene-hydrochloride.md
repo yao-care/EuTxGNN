@@ -56,7 +56,7 @@ permalink: /news/raloxifene-hydrochloride/
 
 ### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
 
-2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
 

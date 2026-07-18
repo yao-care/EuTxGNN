@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
 
-2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
 
@@ -75,22 +75,6 @@ permalink: /news/telmisartan/
 2026-07-17 <span class="news-indication-tag">ictus</span>
 
 來源：[Gazzetta di Mantova](https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdMMnJaZ3JxdkpqU3dhSmp4T2w4MzFNUFVjb3dxTVkwemVtcms5ZENKTnZwN1NmLUcxMUFMeElsLTdYalZxNHJVODdTLTNrNlNKbldqVlZaZUcxWDd3VDBkVGlkYzJaSENsc0hxQ2gwR2FaUGw0NVJFQzhRR0lUUlJEbjlwbERUWjkyU1lzajJUOFRmWU10R3VLdFVKQ2tVaFp1OUpOS1hqRmxac3Z2S0NGNkltQdIBuwFBVV95cUxPS0hvZ2tTSzJtd2NncU0xd19pWmg0Z1NTaEFQSkYtejlWUXJoMS1BZHdVZllRcElaN1dBVGVJY3FONnI5b3ZBcDJVSEFEcGtNcWgzZkV2cWtuNk11bjBRakJ4cG1zMzMxNVBVbHZRQ25JaUxudTI2QzBfd0JrUUhOREpVaV9jUk42RzR4NWt0UU1VTjQyN0U4NHVBWGdvQ05lZmR6alQwU3ZpamluUU9waUdxamFoVVozSmJJ?oc=5)
-
----
-
-### [Bluthochdruck: Neue Leitlinien verbinden Herz, Nieren und Stoffwechsel](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
-
-2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
-
----
-
-### [Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
-
-2026-07-15 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tobramycin/
 ---
 
 <p class="key-answer" data-question="Tobramycin 有什麼相關新聞？">
-<strong>Tobramycin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tobramycin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tobramycin/
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El mavacamten es eficaz para la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Genotipia](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
-
----
-
-### [Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
-
-2026-07-15 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
 
 ---
 

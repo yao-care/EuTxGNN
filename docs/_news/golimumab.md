@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Leben mit Colitis ulcerosa: Aleyna vertrug lange nur vier Lebensmittel - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa3lhdDViTm9mMkxsS25qR05vYWxoRFB1UXdodEpPQTlFSlo5MUktc19lOU9hdURFYTUwVHhHVTMzX0tMWVh0N1NrTlgtaWVOamZ5a3BvNUIxYm42NHpidlVLN1lxaWw3M2t3TzFQM3FDWGtDRUdqeEhycnRMcml1RHRPVGhDUEU0ZzRCUVowTF9sLUhkYTMta1MzTzllc0ZGSjRCbG4xMFhWTFotQXFFQTZENmhyV19fR2FxRG1JTnFMTmFPT3NDTmQxMGpmcjZLbTZXNXhPU0Z5UTJjNkVVdWU2NnMyQQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa3lhdDViTm9mMkxsS25qR05vYWxoRFB1UXdodEpPQTlFSlo5MUktc19lOU9hdURFYTUwVHhHVTMzX0tMWVh0N1NrTlgtaWVOamZ5a3BvNUIxYm42NHpidlVLN1lxaWw3M2t3TzFQM3FDWGtDRUdqeEhycnRMcml1RHRPVGhDUEU0ZzRCUVowTF9sLUhkYTMta1MzTzllc0ZGSjRCbG4xMFhWTFotQXFFQTZENmhyV19fR2FxRG1JTnFMTmFPT3NDTmQxMGpmcjZLbTZXNXhPU0Z5UTJjNkVVdWU2NnMyQQ?oc=5)
-
----
-
-### [Juvenile Arthritis: Stammzellen verbessern Tränenproduktion messbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
-
-2026-07-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
 
 ### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
@@ -86,11 +86,27 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
+### [Pflanzenvielfalt und neue Adipositas-Medikamente: So kippt 2026 die Debatte - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNPeHNTX3JmTy1JSExZRTNQWnVKU1NpNzFrNFBfSFlfTVlsLVFPR1hYZ3RxMjM4eXVaT3B1WE1qNzZYZk9QRGJhNElvMmp1dkF0MWFjcVZNaVJ3azA0eHJJUE5vU3dOUmt2bGEtTnBnYWpxcnVVVnl3a2d3TjQzcEVKZFFzOFlVbHFWTWc1SkVlV3pZdkphN3E5b1hsaGI3ZVB3YVJsNnlYQQ?oc=5)
+
+2026-07-16 <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNPeHNTX3JmTy1JSExZRTNQWnVKU1NpNzFrNFBfSFlfTVlsLVFPR1hYZ3RxMjM4eXVaT3B1WE1qNzZYZk9QRGJhNElvMmp1dkF0MWFjcVZNaVJ3azA0eHJJUE5vU3dOUmt2bGEtTnBnYWpxcnVVVnl3a2d3TjQzcEVKZFFzOFlVbHFWTWc1SkVlV3pZdkphN3E5b1hsaGI3ZVB3YVJsNnlYQQ?oc=5)
+
+---
+
 ### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
 2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
+
+---
+
+### [Estudio revela beneficio inesperado de los medicamentos para la obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
+
+2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[SuMédico](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 ---
 

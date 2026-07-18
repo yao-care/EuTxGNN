@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="Ospemifene 有什麼相關新聞？">
-<strong>Ospemifene</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ospemifene</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/ospemifene/
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Juvenile Arthritis: Stammzellen verbessern Tränenproduktion messbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
-
-2026-07-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [El mavacamten es eficaz para la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
 
@@ -99,22 +91,6 @@ permalink: /news/ospemifene/
 2026-07-16 <span class="news-indication-tag">migraña</span>
 
 來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
-
----
-
-### [Bluthochdruck: Neue Leitlinien verbinden Herz, Nieren und Stoffwechsel](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
-
-2026-07-15 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVENHeHlQQWJKaW51dHE1ek9WOVFsT2RMT19kTzIycEZYZmtlN0RrNURIa3REYXhqaU5pQ3FBZUdJQkgxN182MUR6RFlCVzgzb29YVi1YdV9QTHgzR3NmcFNScFowcDJtcUxjS2gzWmdodlZsUlhwNVpnZXREZFlKMVJoajhyZWNUaG1ZclRzdFk5WEpxb001cGd3OUYwcHV4YVhtOUxZT3M1NzFJOFpzY0ctZnkxSHE1?oc=5)
-
----
-
-### [Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
-
-2026-07-15 <span class="news-indication-tag">heart disease</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5)
 
 ---
 

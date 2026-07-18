@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [¿Neuropatía craneal motora ocular y enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHJncmF2UUZfV0dJQmtPdHJsU1BUaUY5YWZ1OW0zaDdKRU54UkZfeXdQLVQyR3had0V4R1hxc0lGNkdycjdOQ29xRUhSU3lsSWtqUGk0UC1YUXVvdk1MUTJ2M3dQbE9sWmNLd0R4OTdIU19mM3V4Nkk4XzJ1dnV0MERHWVJsaTVHMlk4RklQSmlTY1NaTW1UWVVaV3JwendtR3ZzTzhPWEd1SkN2UGNJYUlMNkFocHdmb1BDYVJEU0F0WFdMem04YTEzMlFKTEdoNzcxeTV5V1Q?oc=5)
+
+2026-07-17 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHJncmF2UUZfV0dJQmtPdHJsU1BUaUY5YWZ1OW0zaDdKRU54UkZfeXdQLVQyR3had0V4R1hxc0lGNkdycjdOQ29xRUhSU3lsSWtqUGk0UC1YUXVvdk1MUTJ2M3dQbE9sWmNLd0R4OTdIU19mM3V4Nkk4XzJ1dnV0MERHWVJsaTVHMlk4RklQSmlTY1NaTW1UWVVaV3JwendtR3ZzTzhPWEd1SkN2UGNJYUlMNkFocHdmb1BDYVJEU0F0WFdMem04YTEzMlFKTEdoNzcxeTV5V1Q?oc=5)
+
+---
 
 
 <div class="disclaimer">

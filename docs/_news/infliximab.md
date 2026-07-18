@@ -14,7 +14,7 @@ permalink: /news/infliximab/
 ---
 
 <p class="key-answer" data-question="Infliximab 有什麼相關新聞？">
-<strong>Infliximab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Infliximab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/infliximab/
 <p><a href="{{ '/drugs/infliximab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Juvenile Arthritis: Stammzellen verbessern Tränenproduktion messbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
-
-2026-07-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkhuRXczOEFQLUVSR3NuOTNEbGhwajF5a0NSRFdwTlRYdGR0ZG82ZVUwdWhCY0p0dmhHYUhpWF9JWHBuclcyYkM3WC1EVlA2VGs0azRscnljRUpBNTFneWUzOENuOG5BRl9pb2M4cGtIVlZRVUxwTXNwRFJNOEg2Zjh6bkFIU2pLR3ZEdUtvNGpvS3pQTjdpcW05dWUtbm00Zkh2YmczYmpMTlE1dXduc3QxeUxmZWc?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Rheumatoide Arthritis – auch auf die Lunge achten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
 

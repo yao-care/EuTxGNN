@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,23 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Une méta-analyse sur 500 000 personnes le confirme : une faible force de préhension augmente le risque de dépression de 42 %](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
+
+2026-07-17
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
+
+---
+
+### [The Best Time to Take Vitamin D for Optimal Sleep and Health - Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
+
+2026-07-17
+
+來源：[Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
+
+---
 
 ### [Un estudio identifica una veintena de genes vinculados a la depresión y la ansiedad regulados por RBFOX1](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFhCMmJmdlh1VkZ5YUdIem1MTHFLdF9ENmYweHMtRjdySXJ5WTI2M3pDTlRyWXQxZUtmZGVTYS05ekQxZFFJY3gwMVkzMUgzN2VjQnFpTWVuaG13YXpMMG9tYTQ2ZFAtcXpzMU80UU9kenVlS1hyNUVRUFQyb0Z6cmV6RTlyMXFKTWtjZzRqY3hVUHFkWk8tV3B0aFMwZWtiajgzdUZwb3c3akZ6Nmg5VmRSVmJHR203ZzNKVEx2bjA4b21rb1hEdmw4V0QxYlZNNHg2QVRoTGo?oc=5)
 
@@ -45,11 +61,11 @@ permalink: /news/depression/
 
 ---
 
-### [El ejercicio físico se confirma como el gran protector del cerebro frente a la demencia y la depresión](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUVNWUV0WDVKdF9YVDhmMGFTNVpacmtKMmRtY1FNZ0dtNFJ6cF85S2R2OFBvaGNLTjYzNVBwNmZJTWd0cDVyWFlvaFRSZ2NFNzZocFBYdHpqZDZELWtiMkhJZWNRanVyNnNCaklMWThfdy1YTG10VV9DQldKd2JxWGlkejVaOGhDSXVoX3ZlU2s4MFFTRVBuVUN6N21GRzlpeDUwN1c4N2tVVEZia1ZBTklmQXpnMzM1UkpsOF9kcnczZmZ5djl4RkZUOUdaYTNMWTZUaUF3dWY5YjhyRWxWc2R3aDljdHo3LW9SNDdKbUw3QXFFUGhHSlNGdklOMEnSAYQCQVVfeXFMTTBjUmxHM0NJVm5VenRQOEJJRlJmeHpUQ2MxempuTGN5N0IyWWtlNktvUy1JdnQxY0hiY0pCMV9RdnJ4N3I0cEtoc2lKbWNWeWdSNFdVUWNFanptYUxheFFKZ2RWd0M4N0NIelk2UERSU2oyV1ZEeTNiS3FOUHE0MHdYRUl3bTFMem1ITFo5eUZJSVo0eEQzc3BDVHNoR1FVbkJkTURpN29vY3Z4VTF6WnRCek5kSzlpcVRzRnYzeXlJZHd1X3A5NnVicUV2M1JUal9Eb0JYWFFYMHh3MTJ2RzNPMXgxUmRWUlZZU2NCdENuR3g2TlNIdElOSUtHcWtSSmlFT0o?oc=5)
+### [Un estudio revela que una buena condición física puede ayudar a prevenir la demencia y la depresión - 65 y más](https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3laSUlzMTF2YmxzRDFYWmpfanV5emRxMzlrTllLcThSSUtQVWNqU1NXYWZQLXZ1S3ZsaXJmMnp2VjljT1JqckdycXhVRmNkRElNLS02cFJ2eU9rMEEtZGE2dnlWQUJQcjdJNGlRdmJLSXRTNDVYdGhNclFBUy01VEN3U1VLLXhkbTdLTUV3UFl5RzlpNGVUNUIyUVBMeUJPdnk1b0xiU2U2UHlqUWdaRWtjUkdHS2tNX2gwaHQ5NA?oc=5)
 
-2026-07-16
+2026-07-17
 
-來源：[COPE](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUVNWUV0WDVKdF9YVDhmMGFTNVpacmtKMmRtY1FNZ0dtNFJ6cF85S2R2OFBvaGNLTjYzNVBwNmZJTWd0cDVyWFlvaFRSZ2NFNzZocFBYdHpqZDZELWtiMkhJZWNRanVyNnNCaklMWThfdy1YTG10VV9DQldKd2JxWGlkejVaOGhDSXVoX3ZlU2s4MFFTRVBuVUN6N21GRzlpeDUwN1c4N2tVVEZia1ZBTklmQXpnMzM1UkpsOF9kcnczZmZ5djl4RkZUOUdaYTNMWTZUaUF3dWY5YjhyRWxWc2R3aDljdHo3LW9SNDdKbUw3QXFFUGhHSlNGdklOMEnSAYQCQVVfeXFMTTBjUmxHM0NJVm5VenRQOEJJRlJmeHpUQ2MxempuTGN5N0IyWWtlNktvUy1JdnQxY0hiY0pCMV9RdnJ4N3I0cEtoc2lKbWNWeWdSNFdVUWNFanptYUxheFFKZ2RWd0M4N0NIelk2UERSU2oyV1ZEeTNiS3FOUHE0MHdYRUl3bTFMem1ITFo5eUZJSVo0eEQzc3BDVHNoR1FVbkJkTURpN29vY3Z4VTF6WnRCek5kSzlpcVRzRnYzeXlJZHd1X3A5NnVicUV2M1JUal9Eb0JYWFFYMHh3MTJ2RzNPMXgxUmRWUlZZU2NCdENuR3g2TlNIdElOSUtHcWtSSmlFT0o?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3laSUlzMTF2YmxzRDFYWmpfanV5emRxMzlrTllLcThSSUtQVWNqU1NXYWZQLXZ1S3ZsaXJmMnp2VjljT1JqckdycXhVRmNkRElNLS02cFJ2eU9rMEEtZGE2dnlWQUJQcjdJNGlRdmJLSXRTNDVYdGhNclFBUy01VEN3U1VLLXhkbTdLTUV3UFl5RzlpNGVUNUIyUVBMeUJPdnk1b0xiU2U2UHlqUWdaRWtjUkdHS2tNX2gwaHQ5NA?oc=5)
 
 ---
 
