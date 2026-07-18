@@ -54,6 +54,14 @@ permalink: /news/selpercatinib/
 
 ## 相關新聞（4 則）
 
+### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+---
+
 ### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
 
 2026-07-18 <span class="news-indication-tag">migraña</span>
@@ -75,14 +83,6 @@ permalink: /news/selpercatinib/
 2026-07-17 <span class="news-indication-tag">Migräne</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
-
----
-
-### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
-2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
 
 ---
 

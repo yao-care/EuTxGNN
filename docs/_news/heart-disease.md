@@ -3,7 +3,7 @@ layout: default
 title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "cardiopatía（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
-<strong>cardiopatía（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,7 +85,15 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+2026-07-18
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+---
 
 ### [Un hallazgo español amplía el uso del único fármaco contra la miocardiopatía hipertrófica - Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
 

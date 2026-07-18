@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+
+2026-07-18 <span class="news-indication-tag">copd</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
+
+### [Wissenschaft - Wie die eiserne Lunge einst Leben rettete](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFd0VHF0am40RUhmd1RtZkVkekR6WG5neWxpMmdOZG1rc1h3QVNnWk9pTGRtM0NWaXlvc0NOblFaY0c4d09oTmlZT3NiUGIzakNwcGF5aENjalJESGQ4amZjSTdWQzJGazVYTnVhWmtrS1dGUkFmRm83a1BFNldUSFU2WDNQNzd6RHdGTlhZamZ6dzhNR2I3bVJLMm41SE9mYUcyV0Flbm5uSjc2eTRpMlQwWHNDaTJkTEdUTXBGcUdzOTUxQ2VIVWc5MW14c3psejVzZHBKRlM?oc=5)
+
+2026-07-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[radioeins](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFd0VHF0am40RUhmd1RtZkVkekR6WG5neWxpMmdOZG1rc1h3QVNnWk9pTGRtM0NWaXlvc0NOblFaY0c4d09oTmlZT3NiUGIzakNwcGF5aENjalJESGQ4amZjSTdWQzJGazVYTnVhWmtrS1dGUkFmRm83a1BFNldUSFU2WDNQNzd6RHdGTlhZamZ6dzhNR2I3bVJLMm41SE9mYUcyV0Flbm5uSjc2eTRpMlQwWHNDaTJkTEdUTXBGcUdzOTUxQ2VIVWc5MW14c3psejVzZHBKRlM?oc=5)
+
+---
+
+### [OMS propone llevar la prevención de la demencia a la atención primaria](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzludXNtQnBRdl83UC15WnVwbTZKTjluVW1NT203emMzeEE3M1dMZ1RYS0tURjJjbmY3VzFEc2hqbUFYR0FEZnBSUkxJcTlqeVJRUGN6MEMyNGhXZXJ3dUNvRjBUV2tDY3gwRkFtSkRwZDU4Q0lPNmdPSVp6QQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[consultorsalud.com.mx](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzludXNtQnBRdl83UC15WnVwbTZKTjluVW1NT203emMzeEE3M1dMZ1RYS0tURjJjbmY3VzFEc2hqbUFYR0FEZnBSUkxJcTlqeVJRUGN6MEMyNGhXZXJ3dUNvRjBUV2tDY3gwRkFtSkRwZDU4Q0lPNmdPSVp6QQ?oc=5)
+
+---
 
 ### [The TRUTH about viral 'parasite cleanse' drink for bloating, acne and tiredness - as GP reveals true signs of worms - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Eiserne Lunge: Letzte Nutzerin verstorben | DIE PTA](https://news.google.com/rss/articles/CBMingFBVV95cUxNWjI3X2VjTE9mejdOWWhfWFRFTzZ2c2x4UXQ2SWFNZzM3Yk9BT3ZoRm11ZEVpZnEwVkJ2ODdTTTlFVHFzeFgxa2dxUWo5QTBDSjJqZHlvajR3TV82TWpjVVA3WUxWMVMzUnotakZkVWp5Mkc3LXprM1BscFpSZ1BQQkZPY2diV1BKWnFDRjNIZmk4ZmpSeHZnVDhSVkhVZw?oc=5)
+### [Paralysed man regains movement in arms and hands after brain implant breakthrough - GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pa3U0a1Qyb0szV1hFTkpNWjVqVm1RSEk0Y20zajVjTkYyblA2RjJ1TkpEclZSYXh5RVpvemhaUkMxV0ZYMmkxVDUydEk2X05vSzFMY1Bhbm5uWjdvMVVVYjdCZmtKVzdTX3VPcmxvbnViNXRGbnYyWg?oc=5)
 
-2026-07-17 <span class="news-indication-tag">MS</span>
+2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[diepta.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNWjI3X2VjTE9mejdOWWhfWFRFTzZ2c2x4UXQ2SWFNZzM3Yk9BT3ZoRm11ZEVpZnEwVkJ2ODdTTTlFVHFzeFgxa2dxUWo5QTBDSjJqZHlvajR3TV82TWpjVVA3WUxWMVMzUnotakZkVWp5Mkc3LXprM1BscFpSZ1BQQkZPY2diV1BKWnFDRjNIZmk4ZmpSeHZnVDhSVkhVZw?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pa3U0a1Qyb0szV1hFTkpNWjVqVm1RSEk0Y20zajVjTkYyblA2RjJ1TkpEclZSYXh5RVpvemhaUkMxV0ZYMmkxVDUydEk2X05vSzFMY1Bhbm5uWjdvMVVVYjdCZmtKVzdTX3VPcmxvbnViNXRGbnYyWg?oc=5)
 
 ---
 
@@ -86,27 +102,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Crèmes solaires ou vêtements anti‑UV, quelle est la meilleure protection ?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm9zM0QtMTNKdE1IeHEyLWxZMnR3V3RFdWxDY3VtRnhaVThmNk5nUFRMamlnWGE4YWtwUHk0NXphOUpGSzJFTTNkdUlRS1VGYWdPeVlxOUpBZnpvcXhvUVVPTlItQVpFYzJwU3VleDhFZU9SNUdUdE1YQlVHeUFmTW9jWnZGYWRMZnpwQTZiNWRTU3lFTmtjR01QUjBUN0FiNDdkUHVXRTlXSVU5?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[RTBF](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUm9zM0QtMTNKdE1IeHEyLWxZMnR3V3RFdWxDY3VtRnhaVThmNk5nUFRMamlnWGE4YWtwUHk0NXphOUpGSzJFTTNkdUlRS1VGYWdPeVlxOUpBZnpvcXhvUVVPTlItQVpFYzJwU3VleDhFZU9SNUdUdE1YQlVHeUFmTW9jWnZGYWRMZnpwQTZiNWRTU3lFTmtjR01QUjBUN0FiNDdkUHVXRTlXSVU5?oc=5)
-
----
-
 ### [Mash: la malattia del fegato diffusa ma poco conosciuta - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
 
 2026-07-17 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
-
----
-
-### [Hampshire teacher urges people not to ignore symptoms after cancer diagnosis - Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkM0X3dwYVZiZUd3dmZHeHA3Q1RpeVdDNmpLTENmeXN6cFpOamdvT2hOLWN1VnFKZl9XaXUtMVBzckNzbWRKSzlwR1puR1pNSC1jUUNJU3haOUd1aHhBMHpNdm1uWWlGUklGTmdFdk5jSld2QkdyeDNlUVdxRjJBcjBHUVdwUGxjbmNTNlJpejJzbDhvOVpQV2R3?oc=5)
 
 ---
 
@@ -126,30 +126,6 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Half a million Brits may be too fat to work, study suggests as weight alone keeps 4% of obese people on the dole - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlF4YXB4aV9qRC1ITlJ1eWozZXdfNEEyOTFfRUFVVV9MNHhPN0FBaXpwRmJNRV8yMkNSVEtxZU0zdnItcWtwVDdzdnhJYVFwcmt2aVJxdS1aRUtiYTBvbmlnUlA3RjFNcVcxV1laQXVKeHk1MjlPVWEwWWFRZjh4ZVVKMDRVaERCVUdLdWloTnRXRG8z?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlF4YXB4aV9qRC1ITlJ1eWozZXdfNEEyOTFfRUFVVV9MNHhPN0FBaXpwRmJNRV8yMkNSVEtxZU0zdnItcWtwVDdzdnhJYVFwcmt2aVJxdS1aRUtiYTBvbmlnUlA3RjFNcVcxV1laQXVKeHk1MjlPVWEwWWFRZjh4ZVVKMDRVaERCVUdLdWloTnRXRG8z?oc=5)
-
----
-
-### [Brain implant helps paralysed man to feed himself and drink from cup - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5)
-
----
-
-### [La OMS actualiza sus directrices para prevenir o retrasar hasta el 45% de los casos de demencia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
-
----
-
 ### [RD Congo, l'epidemia di Ebola sempre più fuori controllo - Vatican News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2ZiMU5HSk92NzF0aWU1TE95WUZfb2xLSk55TURhZ2hnb0ZKYm5iZXdFUUJhcVU4TERIQllva1JWT3JVbGFrM2JWNGd5TGRiUWIySlNOVkpXckRaSXVjZlMwR0JNelVtYU44TE9YYmE0dWdORDFtMmRVdWVrRmFjaWNNbUx0ZzgycXNVeVplOUhfRGRFanY5bVBFaVpYaU90UjEzUGx1cVlaMlVPc2c?oc=5)
 
 2026-07-16 <span class="news-indication-tag">MS</span>
@@ -158,11 +134,11 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [NHS symptoms list as people told go to hospital 'straight away' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzd4OG40OWdDSkVBSTFSOTI3OUd1VHFKbklNYjdCdF85dXo3VWY5UVB5ZXczVDdPX0ZhQTItbXRRc2NXRk9KVExMeDNqcWZRdTVnenZjaVZjUDVZaURuVGIwc0hXeDBySjdOVTJSNTFkMTZxeHhRSWlGYVZRM2VPdtIBhgFBVV95cUxQcmdJNFdhZEhRSG9sX0FUVWFRUGdjVXdCa0tFeFVFVDREdlo4cjZ5NEhJMEM0T2JZd1lELWdSUlk0VlNOcTNqRDlZMVljVVNCN21Fd09Sd0lxWVJXUEVSOFllUlRaYXhNdkZqMkpQSGhNQ2QxRmhYX284MFJBdGRPemhBYnUxUQ?oc=5)
+### [How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you - The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0FONXF0WktLWFJ2QVdhSXNuV09YLTM5Y2laMFJTQzJpTldxZ1g3cEQ5d2gyc1pycVZQZkZxbi04TDkxekIxRl9oZ0lPSGxfWnlFTFRpcDVjcnBHX29lY3NkTWIxMGczX1NsQkx1UGJHMlRkLXNoQUZtNTlKUlV5Z0hmVDNXWmUxNFdNclJ3eVI5R0dUZjhjeTFvVjhZSUY2ZmdDazFvQXMtYUFkd0l2TDNoSFB6YU9Sb3BrN2xzOFNDVXVRMGEtUU1JUE13bjFBaGN5dGdodW0teDhqS1E?oc=5)
 
 2026-07-16 <span class="news-indication-tag">MS</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzd4OG40OWdDSkVBSTFSOTI3OUd1VHFKbklNYjdCdF85dXo3VWY5UVB5ZXczVDdPX0ZhQTItbXRRc2NXRk9KVExMeDNqcWZRdTVnenZjaVZjUDVZaURuVGIwc0hXeDBySjdOVTJSNTFkMTZxeHhRSWlGYVZRM2VPdtIBhgFBVV95cUxQcmdJNFdhZEhRSG9sX0FUVWFRUGdjVXdCa0tFeFVFVDREdlo4cjZ5NEhJMEM0T2JZd1lELWdSUlk0VlNOcTNqRDlZMVljVVNCN21Fd09Sd0lxWVJXUEVSOFllUlRaYXhNdkZqMkpQSGhNQ2QxRmhYX284MFJBdGRPemhBYnUxUQ?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0FONXF0WktLWFJ2QVdhSXNuV09YLTM5Y2laMFJTQzJpTldxZ1g3cEQ5d2gyc1pycVZQZkZxbi04TDkxekIxRl9oZ0lPSGxfWnlFTFRpcDVjcnBHX29lY3NkTWIxMGczX1NsQkx1UGJHMlRkLXNoQUZtNTlKUlV5Z0hmVDNXWmUxNFdNclJ3eVI5R0dUZjhjeTFvVjhZSUY2ZmdDazFvQXMtYUFkd0l2TDNoSFB6YU9Sb3BrN2xzOFNDVXVRMGEtUU1JUE13bjFBaGN5dGdodW0teDhqS1E?oc=5)
 
 ---
 

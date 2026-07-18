@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
-2026-07-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+2026-07-18 <span class="news-indication-tag">obesity</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/ziconotide/
 2026-07-18 <span class="news-indication-tag">migraña</span>
 
 來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
+
+---
+
+### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+
+2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
 ---
 
@@ -104,7 +112,7 @@ permalink: /news/ziconotide/
 
 ### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
-2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
@@ -118,35 +126,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [La relación entre obesidad y dislipemias: "Está en la base fisiopatológica de la mayoría de los factores de riesgo cardiovascular" - Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+### [Einfluss von Übergewicht auf das Krebsrisiko möglicherweise deutlich unterschätzt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdfOW5maTlDd1ZucXhxdlFSd2FvbkRjcXhNelJXREEwQnlXWXVIM2pKNGVpYkdRVnhTaVJXcFhHTWh2ZEE4U3J5Z0FqODg4WWstT0E4T2ZqbWdqbFpRMHJNRDVDekZzLW5DUzVYa0dVU3NROUxEcUNFclJRT1B3WjhXVzBvVXpCSmNPX09KV1FKQ01KNHNaXzlsVzZpRTJnY0MzTF9SU3QzZWdqY0RSUU5sMWJOYUVsMUhBUFJPbjQ0djBEVHROQjEtakN4QWc4THNTLURWVFdBUQ?oc=5)
 
-2026-07-16 <span class="news-indication-tag">obesidad</span>
+2026-07-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
-
----
-
-### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
-2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
----
-
-### [¿Medicamentos contra la obesidad y apoyo al estilo de vida?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
-
-2026-07-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
-
----
-
-### [El 67,5 % de los pacientes con obesidad infantil ya presenta comorbilidad metabólica - El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTk2LWZzaE10ZEVaZ0pMZWVKSDhRRlR5WTNocGtfMHZWQ0RjdnVVbFRvM3BzR2hpSDByVWRMQjZDR1VWMGd3ZFRFUGJKMFRDcE4zZ2loSDlHbGljanFLOFhORGpna3NROHJYdlA3N0ltY2dSQTlTS3VOMi1fLVJtbjRIOEthRXJtNWZVaXBlNW0xTEswaEFHQ2FFUlZkaDdKZnkzT2FOcVVieUtIdURydU5aR2I?oc=5)
-
-2026-07-16 <span class="news-indication-tag">obesidad</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTk2LWZzaE10ZEVaZ0pMZWVKSDhRRlR5WTNocGtfMHZWQ0RjdnVVbFRvM3BzR2hpSDByVWRMQjZDR1VWMGd3ZFRFUGJKMFRDcE4zZ2loSDlHbGljanFLOFhORGpna3NROHJYdlA3N0ltY2dSQTlTS3VOMi1fLVJtbjRIOEthRXJtNWZVaXBlNW0xTEswaEFHQ2FFUlZkaDdKZnkzT2FOcVVieUtIdURydU5aR2I?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdfOW5maTlDd1ZucXhxdlFSd2FvbkRjcXhNelJXREEwQnlXWXVIM2pKNGVpYkdRVnhTaVJXcFhHTWh2ZEE4U3J5Z0FqODg4WWstT0E4T2ZqbWdqbFpRMHJNRDVDekZzLW5DUzVYa0dVU3NROUxEcUNFclJRT1B3WjhXVzBvVXpCSmNPX09KV1FKQ01KNHNaXzlsVzZpRTJnY0MzTF9SU3QzZWdqY0RSUU5sMWJOYUVsMUhBUFJPbjQ0djBEVHROQjEtakN4QWc4THNTLURWVFdBUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/lipegfilgrastim/
 ---
 
 <p class="key-answer" data-question="Lipegfilgrastim 有什麼相關新聞？">
-<strong>Lipegfilgrastim</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lipegfilgrastim</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/lipegfilgrastim/
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
-### [Low-Insulin-Ernährung vs. orale Abnehmmedikamente: Was wirklich zählt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
+### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzE2Qnlyb2JfU05XY3RJOTNLQm1USkpwUDB6U0VuX0pUcFQzQ3lYRlZaN1NkWHdEeFNOYnZxekZiOFpfZW5tYURuX2x3SjhOUnQzWjlhaHVFOFc5Mi1RYmpMNzRZYk1aQTJxNjJwRDA5NGxUUUFNMkFSbkNBRVR2T2pyTGw2a3UxTGo5TG15Z3ZSQjdMMHFKYXk2OVJLMnlDVTdUWmxJTzFvd29OSFVDUUtRNTRUZU9GRHExcQ?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzE2Qnlyb2JfU05XY3RJOTNLQm1USkpwUDB6U0VuX0pUcFQzQ3lYRlZaN1NkWHdEeFNOYnZxekZiOFpfZW5tYURuX2x3SjhOUnQzWjlhaHVFOFc5Mi1RYmpMNzRZYk1aQTJxNjJwRDA5NGxUUUFNMkFSbkNBRVR2T2pyTGw2a3UxTGo5TG15Z3ZSQjdMMHFKYXk2OVJLMnlDVTdUWmxJTzFvd29OSFVDUUtRNTRUZU9GRHExcQ?oc=5)
 
 ---
 
-### [SGLT2-Hemmer und CKM: Alzheimer-Risiko sinkt laut neuen Daten um bis zu 43% - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
+### [CGM für Typ-2-Diabetes: Blutzucker sinkt um einen Prozentpunkt](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHgzaWNmQmxONThmN3R0cFdocTJRTUxSSk5ZVi1zLVhndXlFTDBNd1dUR0FIWHNRT3J4dUJzVVRTSXhwY0I5OU9JdVR4eHZmLXNiRkNaMDZFQUZGSjNXTm5zTTlqU3hObEZzSTk1eVBULUdnWXlOUW1EU05BZFJTYi1YUGRVa0U2ZVdLc1FmRjdFczFieEItZ0tyekNoMWhiVGxXRnFCTXd3cmZIWDRrbw?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHItUW5lRUYyRGlkUkV5UGQ4MmpvSXBMYmNjbU5nT1h1M3o1Q2pMMl83RHVKLUlHMF9UZGY5dzA3bHFVSDJzbjM5QXJRYlJHSVBkOXBMTE9GTFdzSnkyS1hkd0dUWndFWHZfa281MjJLVXp3VnhoWmVjbjg1cW5Dd1RXSGN4SmpoeWpEcjhENG56dWtwdlFYd0FjQkcwaGtRYlZmeWUzR0w?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHgzaWNmQmxONThmN3R0cFdocTJRTUxSSk5ZVi1zLVhndXlFTDBNd1dUR0FIWHNRT3J4dUJzVVRTSXhwY0I5OU9JdVR4eHZmLXNiRkNaMDZFQUZGSjNXTm5zTTlqU3hObEZzSTk1eVBULUdnWXlOUW1EU05BZFJTYi1YUGRVa0U2ZVdLc1FmRjdFczFieEItZ0tyekNoMWhiVGxXRnFCTXd3cmZIWDRrbw?oc=5)
 
 ---
 
@@ -75,22 +75,6 @@ permalink: /news/lipegfilgrastim/
 2026-07-16 <span class="news-indication-tag">diabetes</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGRNSjg3enVnTGNiV3NCLS1mNGprejhhTERLS0dQX3pNMzlDdVlqQ3pPNXNPSGNucmMwTFVOOS1xYnNGbmpsbW11VkN0YnpDN2hqcTlUa3lLMlNtVUR1Qzh2bmcxSzhQTm54dFpCc0phYkRMYkdpSVVHeGJqaE4zYW9za1RtclhuWEQ2N1Rjc9IBlAFBVV95cUxNX2lWRWVzR1JiUWEtb2gxMkZZcG9YN1ZSc012N0lvV3BDMktOSDA4T29uX1o1QTEwMGM4ZVppVmJPLVdXQ1I3Mk5LVXp2U1ltdEZwaWpuVHZhR045R0tHbVdvRU56YUJKc0t0c05YS05VeExPd0FldkIyX1RWNFAtM014cUhPNnZjWEl1MHZaTzVkUy1v?oc=5)
-
----
-
-### [Neue Maßstäbe bei der kontinuierlichen Zuckermessung speziell für Menschen mit Typ-2-Diabetes: / Neuer Sensor Dexcom Flex ab heute in Deutschland verfügbar - Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
-
-2026-07-16 <span class="news-indication-tag">diabetes</span>
-
-來源：[Braunschweiger Zeitung](https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1hULUxzTEpKYTZhclp3aEJYSk5oMGpqSFhpNVNrcTM3djFVWmYtcG9NczlqZm4zZlhidTJ0eUNTY0NHcXRDQlEyRW5wOWJTWjBZSTk1VE5DSjZjcXBqUXJxMkV0ekRmUUlBRXluUHltUmJOUVd1bjVfVVAtdEpzN1hHaDBUQlNHS0RoYTFfank3dkNzLWxLRm81cWszY09NczI5cnBNZnBiQjRPYy1GbWo3a1BEaG1pNFo0UXUtVGFRTUdteFNKZ2Vha2xqZGlPaTMxSkdQMTFocEpQdGI1WTRKdWwzblZ4T1NmdjVUNXZhVkZBbnB3M25mS0NWRTk4ODIzQWY3ZklRc2JWM0oyZnh3bjVNSzhqM3hib0RTakhZUnh3SVFscDJxUHFPNnE5eGxheWZOSW1EZkVkVHRrVGpxRVJwSWs5YThUOWdWRFRRWmRWR19WQjBzMkk?oc=5)
-
----
-
-### [Diabetes bei Frauen: Ein Drittel seltener moderne Medikamente](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
-
-2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
 
 ---
 

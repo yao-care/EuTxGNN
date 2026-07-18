@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+
+2026-07-18 <span class="news-indication-tag">copd</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+
+---
 
 ### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 

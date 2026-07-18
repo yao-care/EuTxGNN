@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+---
 
 ### [¿Neuropatía craneal motora ocular y enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHJncmF2UUZfV0dJQmtPdHJsU1BUaUY5YWZ1OW0zaDdKRU54UkZfeXdQLVQyR3had0V4R1hxc0lGNkdycjdOQ29xRUhSU3lsSWtqUGk0UC1YUXVvdk1MUTJ2M3dQbE9sWmNLd0R4OTdIU19mM3V4Nkk4XzJ1dnV0MERHWVJsaTVHMlk4RklQSmlTY1NaTW1UWVVaV3JwendtR3ZzTzhPWEd1SkN2UGNJYUlMNkFocHdmb1BDYVJEU0F0WFdMem04YTEzMlFKTEdoNzcxeTV5V1Q?oc=5)
 
