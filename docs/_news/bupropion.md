@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+
+2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+
+---
 
 ### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
@@ -70,11 +78,27 @@ permalink: /news/bupropion/
 
 ---
 
+### [Lipödem-Ernährung: 30 Pflanzen pro Woche senken Entzündungsrisiko - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjdCcXdnT0F4RF9rZ1NHM1VQczA1VE5NNUxqYmk2NW1KVUxLeG00ZE1xWGswUlF2UzJ6M3NDaG9jM2MzN3Zqa2Z3RVJBdlRBZXRuV185djJBNlIwOXIxZ1pDU2xwVHZwdTJWMnU5YXF1eEh5ajdzTXV5UWRPSkUycUZOY0ZUT1Nyc2NRbi0wOHoyV2haMTZvNzdsOVpMLTZy?oc=5)
+
+2026-07-18 <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjdCcXdnT0F4RF9rZ1NHM1VQczA1VE5NNUxqYmk2NW1KVUxLeG00ZE1xWGswUlF2UzJ6M3NDaG9jM2MzN3Zqa2Z3RVJBdlRBZXRuV185djJBNlIwOXIxZ1pDU2xwVHZwdTJWMnU5YXF1eEh5ajdzTXV5UWRPSkUycUZOY0ZUT1Nyc2NRbi0wOHoyV2haMTZvNzdsOVpMLTZy?oc=5)
+
+---
+
 ### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
 2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+
+---
+
+### [I ritocchini col grasso dei cadaveri dopo l'effetto Ozempic: la nuova moda per rassodare il corpo svuotato dalle diete lampo](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
+
+2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[today.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
 
 ---
 
@@ -94,27 +118,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
-
-2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
-
----
-
 ### [Estudio revela beneficio inesperado de los medicamentos para la obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[SuMédico](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
-
----
-
-### [Einfluss von Übergewicht auf das Krebsrisiko möglicherweise deutlich unterschätzt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdfOW5maTlDd1ZucXhxdlFSd2FvbkRjcXhNelJXREEwQnlXWXVIM2pKNGVpYkdRVnhTaVJXcFhHTWh2ZEE4U3J5Z0FqODg4WWstT0E4T2ZqbWdqbFpRMHJNRDVDekZzLW5DUzVYa0dVU3NROUxEcUNFclJRT1B3WjhXVzBvVXpCSmNPX09KV1FKQ01KNHNaXzlsVzZpRTJnY0MzTF9SU3QzZWdqY0RSUU5sMWJOYUVsMUhBUFJPbjQ0djBEVHROQjEtakN4QWc4THNTLURWVFdBUQ?oc=5)
-
-2026-07-16 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdfOW5maTlDd1ZucXhxdlFSd2FvbkRjcXhNelJXREEwQnlXWXVIM2pKNGVpYkdRVnhTaVJXcFhHTWh2ZEE4U3J5Z0FqODg4WWstT0E4T2ZqbWdqbFpRMHJNRDVDekZzLW5DUzVYa0dVU3NROUxEcUNFclJRT1B3WjhXVzBvVXpCSmNPX09KV1FKQ01KNHNaXzlsVzZpRTJnY0MzTF9SU3QzZWdqY0RSUU5sMWJOYUVsMUhBUFJPbjQ0djBEVHROQjEtakN4QWc4THNTLURWVFdBUQ?oc=5)
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 ---
 

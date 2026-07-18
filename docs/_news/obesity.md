@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。8 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。9 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>8 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>9 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+
+2026-07-18
+
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+
+---
 
 ### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
@@ -54,11 +62,27 @@ permalink: /news/obesity/
 
 ---
 
+### [Lipödem-Ernährung: 30 Pflanzen pro Woche senken Entzündungsrisiko - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjdCcXdnT0F4RF9rZ1NHM1VQczA1VE5NNUxqYmk2NW1KVUxLeG00ZE1xWGswUlF2UzJ6M3NDaG9jM2MzN3Zqa2Z3RVJBdlRBZXRuV185djJBNlIwOXIxZ1pDU2xwVHZwdTJWMnU5YXF1eEh5ajdzTXV5UWRPSkUycUZOY0ZUT1Nyc2NRbi0wOHoyV2haMTZvNzdsOVpMLTZy?oc=5)
+
+2026-07-18
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjdCcXdnT0F4RF9rZ1NHM1VQczA1VE5NNUxqYmk2NW1KVUxLeG00ZE1xWGswUlF2UzJ6M3NDaG9jM2MzN3Zqa2Z3RVJBdlRBZXRuV185djJBNlIwOXIxZ1pDU2xwVHZwdTJWMnU5YXF1eEh5ajdzTXV5UWRPSkUycUZOY0ZUT1Nyc2NRbi0wOHoyV2haMTZvNzdsOVpMLTZy?oc=5)
+
+---
+
 ### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
 2026-07-17
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+
+---
+
+### [I ritocchini col grasso dei cadaveri dopo l'effetto Ozempic: la nuova moda per rassodare il corpo svuotato dalle diete lampo](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
+
+2026-07-17
+
+來源：[today.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
 
 ---
 
@@ -78,27 +102,11 @@ permalink: /news/obesity/
 
 ---
 
-### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
-
-2026-07-16
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
-
----
-
 ### [Estudio revela beneficio inesperado de los medicamentos para la obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 2026-07-16
 
-來源：[SuMédico](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
-
----
-
-### [Einfluss von Übergewicht auf das Krebsrisiko möglicherweise deutlich unterschätzt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdfOW5maTlDd1ZucXhxdlFSd2FvbkRjcXhNelJXREEwQnlXWXVIM2pKNGVpYkdRVnhTaVJXcFhHTWh2ZEE4U3J5Z0FqODg4WWstT0E4T2ZqbWdqbFpRMHJNRDVDekZzLW5DUzVYa0dVU3NROUxEcUNFclJRT1B3WjhXVzBvVXpCSmNPX09KV1FKQ01KNHNaXzlsVzZpRTJnY0MzTF9SU3QzZWdqY0RSUU5sMWJOYUVsMUhBUFJPbjQ0djBEVHROQjEtakN4QWc4THNTLURWVFdBUQ?oc=5)
-
-2026-07-16
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTVdfOW5maTlDd1ZucXhxdlFSd2FvbkRjcXhNelJXREEwQnlXWXVIM2pKNGVpYkdRVnhTaVJXcFhHTWh2ZEE4U3J5Z0FqODg4WWstT0E4T2ZqbWdqbFpRMHJNRDVDekZzLW5DUzVYa0dVU3NROUxEcUNFclJRT1B3WjhXVzBvVXpCSmNPX09KV1FKQ01KNHNaXzlsVzZpRTJnY0MzTF9SU3QzZWdqY0RSUU5sMWJOYUVsMUhBUFJPbjQ0djBEVHROQjEtakN4QWc4THNTLURWVFdBUQ?oc=5)
+來源：[sumedico.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 ---
 

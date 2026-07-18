@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Demenz-Prävention: Bluthochdruck-Behandlung senkt Risiko um 45%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1VhV1kxcUYwdUZHaE9xV09CY2R5ZjlieHZ4MzRYWlpOUGxWM3N3RXdWeEY1UW5vbUNMbG5McnNkT0xCSngxcmZRZklOT1dKZ3JTbXVDLWFSOEpJcm0zRG5HZEF1N3NFOXpZZjYtbjNVa1lVTU5kRXhEY1FuWFMzQ1NuRFFWY1JTcGVBTFdQd3Z6NzlMZzdqRmE3cElNTnZIX1JhdDJqYkViRkJwYVJIb3NIQ19YUzA2SWRn?oc=5)
+
+2026-07-18 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1VhV1kxcUYwdUZHaE9xV09CY2R5ZjlieHZ4MzRYWlpOUGxWM3N3RXdWeEY1UW5vbUNMbG5McnNkT0xCSngxcmZRZklOT1dKZ3JTbXVDLWFSOEpJcm0zRG5HZEF1N3NFOXpZZjYtbjNVa1lVTU5kRXhEY1FuWFMzQ1NuRFFWY1JTcGVBTFdQd3Z6NzlMZzdqRmE3cElNTnZIX1JhdDJqYkViRkJwYVJIb3NIQ19YUzA2SWRn?oc=5)
+
+---
 
 ### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
 

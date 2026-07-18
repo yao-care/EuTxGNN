@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Alzheimer-Therapie: Diranersen bremst Abbau um bis zu 42 Prozent](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
+
+2026-07-18 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
+
+---
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 

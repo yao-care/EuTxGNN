@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
+
+### [Studie geplant: Neuartiges Medikament könnte Alzheimer-Symptome bremsen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0ZMb0J2STg1U3BkVlJGaWdDN0NmeVRtbWh5MXRrZTZ0aGRLRkdPbnJrSkhHWGlIUE1fOVZIRkIxRjBhODV4SllfanJNZmVSTGZkampJMlIyenEyNDE1bHd2OHhIRUY3elgyOVVOV29mOVk2SzRNaXp2eTN1OVRrN3ZTX2RTSmlFckFSd2xCVFdzZXdjeGYzVUhpbnRHLTA0cW4yeDUxbEN6NWFCMW9Vekt0Uk53Y1lKbk12XzdLcVVodzducGNvUE9rS0pmbko2?oc=5)
+
+2026-07-18 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0ZMb0J2STg1U3BkVlJGaWdDN0NmeVRtbWh5MXRrZTZ0aGRLRkdPbnJrSkhHWGlIUE1fOVZIRkIxRjBhODV4SllfanJNZmVSTGZkampJMlIyenEyNDE1bHd2OHhIRUY3elgyOVVOV29mOVk2SzRNaXp2eTN1OVRrN3ZTX2RTSmlFckFSd2xCVFdzZXdjeGYzVUhpbnRHLTA0cW4yeDUxbEN6NWFCMW9Vekt0Uk53Y1lKbk12XzdLcVVodzducGNvUE9rS0pmbko2?oc=5)
+
+---
+
+### [Alzheimer-Therapie: Diranersen bremst Abbau um bis zu 42 Prozent](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
+
+2026-07-18 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
+
+---
+
+### [La OMS afirma que el 45 por ciento de los casos de demencia pueden prevenirse - ANSA Latina](https://news.google.com/rss/articles/CBMilwJBVV95cUxQckZDVTZMWkpzcExmTjlEbHJYa0NQenlYakIzcHRVVExNQnRPNWMxZmVZS1dnMkdNUlp4T25QeXVheWR1OUNQZFpNWW85bnRiWkZlSnRJVkx4d2dpZXpSajE4RkFZdXJTOUxxa0hneWUxNkE0SlpsWE55UmJScnFnUWlNcUhneEV1X2xnNFRkUXBfQlJmTW1lU092NXM5UXRqTGQyS3VjOS1GT2lRNVNDTzJmeFVsbm9GZlkxdFc3WkdISE9zMFJVcmxaWFVEMlFRcHNiYmRxcjl4UUx3SG5GdFpqVUljOGJaWGozT0phM3lWbW5jSlJfd0JEVEg4ZFJtcHZ0U1pTY0NVYmRPNF9taVBaaE1Cck3SAZwCQVVfeXFMUF9VN19Dd01JcXFFNDBpOHd3Z2tleG9wNW84cXFKY29vUks4TDhmNHNlZ1l4b0ZaTjQwSFYyWlE5cHFnQVVkMzZld29tV29fTFRSWTc1WFFzOUtKR0RXX2U3VnQyeVp0ZDBuSjA4RVdHYUN0endMejVRdHJZOTd3cXpraTF1endydmdyYmlhdU9zTG1PSEFkRWw5TFBVcjg3eU9IeFdTZzRFN1ZJcldTU0l5bGZDdkVsY3RVMzJKLVZnUU5MNG5sa1NiaFFCcGlHZXpWeUdOX2kxTVFZWUpDSGhtcHR0SjUzVVcwM1p4QWViT1M5em9ydHhCdWFVTFNWYTI3Z0NQczdSTzJkbTNmMkUzRFBNSFRCaU9Rb2Y?oc=5)
+
+2026-07-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ANSA Latina](https://news.google.com/rss/articles/CBMilwJBVV95cUxQckZDVTZMWkpzcExmTjlEbHJYa0NQenlYakIzcHRVVExNQnRPNWMxZmVZS1dnMkdNUlp4T25QeXVheWR1OUNQZFpNWW85bnRiWkZlSnRJVkx4d2dpZXpSajE4RkFZdXJTOUxxa0hneWUxNkE0SlpsWE55UmJScnFnUWlNcUhneEV1X2xnNFRkUXBfQlJmTW1lU092NXM5UXRqTGQyS3VjOS1GT2lRNVNDTzJmeFVsbm9GZlkxdFc3WkdISE9zMFJVcmxaWFVEMlFRcHNiYmRxcjl4UUx3SG5GdFpqVUljOGJaWGozT0phM3lWbW5jSlJfd0JEVEg4ZFJtcHZ0U1pTY0NVYmRPNF9taVBaaE1Cck3SAZwCQVVfeXFMUF9VN19Dd01JcXFFNDBpOHd3Z2tleG9wNW84cXFKY29vUks4TDhmNHNlZ1l4b0ZaTjQwSFYyWlE5cHFnQVVkMzZld29tV29fTFRSWTc1WFFzOUtKR0RXX2U3VnQyeVp0ZDBuSjA4RVdHYUN0endMejVRdHJZOTd3cXpraTF1endydmdyYmlhdU9zTG1PSEFkRWw5TFBVcjg3eU9IeFdTZzRFN1ZJcldTU0l5bGZDdkVsY3RVMzJKLVZnUU5MNG5sa1NiaFFCcGlHZXpWeUdOX2kxTVFZWUpDSGhtcHR0SjUzVVcwM1p4QWViT1M5em9ydHhCdWFVTFNWYTI3Z0NQczdSTzJkbTNmMkUzRFBNSFRCaU9Rb2Y?oc=5)
+
+---
 
 ### [Wissenschaft - Wie die eiserne Lunge einst Leben rettete](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFd0VHF0am40RUhmd1RtZkVkekR6WG5neWxpMmdOZG1rc1h3QVNnWk9pTGRtM0NWaXlvc0NOblFaY0c4d09oTmlZT3NiUGIzakNwcGF5aENjalJESGQ4amZjSTdWQzJGazVYTnVhWmtrS1dGUkFmRm83a1BFNldUSFU2WDNQNzd6RHdGTlhZamZ6dzhNR2I3bVJLMm41SE9mYUcyV0Flbm5uSjc2eTRpMlQwWHNDaTJkTEdUTXBGcUdzOTUxQ2VIVWc5MW14c3psejVzZHBKRlM?oc=5)
 
@@ -62,11 +86,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [OMS propone llevar la prevención de la demencia a la atención primaria](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzludXNtQnBRdl83UC15WnVwbTZKTjluVW1NT203emMzeEE3M1dMZ1RYS0tURjJjbmY3VzFEc2hqbUFYR0FEZnBSUkxJcTlqeVJRUGN6MEMyNGhXZXJ3dUNvRjBUV2tDY3gwRkFtSkRwZDU4Q0lPNmdPSVp6QQ?oc=5)
+### [Descubren mecanismos inmunitarios entre virus de Epstein-Barr y riesgo de esclerosis múltiple: esto se sabe - La Patria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDdxcnQzX0VoaWhHOTdTcE0wS2Z4R0pMZW9KeHBGWFhYLXo4NlRGUlJ5UUFGeW1WQkNLcXZoeE5UUlJmNEFaOXkyTE9nbFFYTURvYnpKZGYwb08tNDRZQmltQjFZRHFkMVlVd3FXRzY4d2xkN1VPbi0xRHFnR0Nrc3I1VG9KUmwwcE9Sa01wQmJJOFoxNUI1V0poSnlhZmlGZkVJak1FOXM4b2RfZk9lNWFCSk96RVAwc1FFTGhUcExIQQ?oc=5)
+
+2026-07-18 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[La Patria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDdxcnQzX0VoaWhHOTdTcE0wS2Z4R0pMZW9KeHBGWFhYLXo4NlRGUlJ5UUFGeW1WQkNLcXZoeE5UUlJmNEFaOXkyTE9nbFFYTURvYnpKZGYwb08tNDRZQmltQjFZRHFkMVlVd3FXRzY4d2xkN1VPbi0xRHFnR0Nrc3I1VG9KUmwwcE9Sa01wQmJJOFoxNUI1V0poSnlhZmlGZkVJak1FOXM4b2RfZk9lNWFCSk96RVAwc1FFTGhUcExIQQ?oc=5)
+
+---
+
+### [ECT Reprograms Adult Neurons into a Youthful State - Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTE4zNkVoT0lwR1hXbmRWV1Y5aFJJUWQtSC1kNms2X2I3UnRrSGNvcF91a0RuUVk5cFRoTW5ZdnlSY1d2MV9GQTNVc0FYSTZSNUhTQnVLUC01NV9YUVNiMzNwSmVkNDF3NXRHWmpZUXB4X1VMQQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
-來源：[consultorsalud.com.mx](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MzludXNtQnBRdl83UC15WnVwbTZKTjluVW1NT203emMzeEE3M1dMZ1RYS0tURjJjbmY3VzFEc2hqbUFYR0FEZnBSUkxJcTlqeVJRUGN6MEMyNGhXZXJ3dUNvRjBUV2tDY3gwRkFtSkRwZDU4Q0lPNmdPSVp6QQ?oc=5)
+來源：[Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTE4zNkVoT0lwR1hXbmRWV1Y5aFJJUWQtSC1kNms2X2I3UnRrSGNvcF91a0RuUVk5cFRoTW5ZdnlSY1d2MV9GQTNVc0FYSTZSNUhTQnVLUC01NV9YUVNiMzNwSmVkNDF3NXRHWmpZUXB4X1VMQQ?oc=5)
 
 ---
 
@@ -83,6 +115,14 @@ permalink: /news/sofosbuvir/
 2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pa3U0a1Qyb0szV1hFTkpNWjVqVm1RSEk0Y20zajVjTkYyblA2RjJ1TkpEclZSYXh5RVpvemhaUkMxV0ZYMmkxVDUydEk2X05vSzFMY1Bhbm5uWjdvMVVVYjdCZmtKVzdTX3VPcmxvbnViNXRGbnYyWg?oc=5)
+
+---
+
+### [L'abitudine da 5 minuti al mattino che allunga la vita (secondo gli scienziati della longevità)](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1RlcFdtZDd3cHVuZC1vVVUxZUg4c25vbVhRVkNpTXRtQXdGN3VIRTNTT0xlZ0xfc2J6b3g3eXV0SW9wTHFSVDY1NlpFek14NWtJRWFGNVZQY2JEQVVHcUt6TU5GMU1RcnNvSm9QYmJ6NlNuQ21kZV9LSEhfZENQaGVOa0Q5bXJ1cXROSFo2WDhCRlZmakVnU1U3MzdNdTdTQlR1VzNrT0hacWtScF9MeTFlWmU4N3k1UDY3WUJDUTdtcmxxRndRNlIzVlBxaVloMW80bUN3?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1RlcFdtZDd3cHVuZC1vVVUxZUg4c25vbVhRVkNpTXRtQXdGN3VIRTNTT0xlZ0xfc2J6b3g3eXV0SW9wTHFSVDY1NlpFek14NWtJRWFGNVZQY2JEQVVHcUt6TU5GMU1RcnNvSm9QYmJ6NlNuQ21kZV9LSEhfZENQaGVOa0Q5bXJ1cXROSFo2WDhCRlZmakVnU1U3MzdNdTdTQlR1VzNrT0hacWtScF9MeTFlWmU4N3k1UDY3WUJDUTdtcmxxRndRNlIzVlBxaVloMW80bUN3?oc=5)
 
 ---
 
@@ -123,22 +163,6 @@ permalink: /news/sofosbuvir/
 2026-07-17 <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmhaOXI1SGRQcGFyMkhOOUk3aHhfLWVGbmhjVUNtMkdrWF9lUE55WDVjSVU5S1VGLURfb2dvMVdEYzRXYUY4RFVCczh6aXZzalN3emFVaTQ1N3dySF9ReURJSlNuLVhydjRqa3FvQ3lSWndYd0ZrUE5wUk1XN3NOM1cwalBhWldVaTk5TWw1b1NqVE05MHZpOVYyOUxqWTA?oc=5)
-
----
-
-### [RD Congo, l'epidemia di Ebola sempre più fuori controllo - Vatican News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2ZiMU5HSk92NzF0aWU1TE95WUZfb2xLSk55TURhZ2hnb0ZKYm5iZXdFUUJhcVU4TERIQllva1JWT3JVbGFrM2JWNGd5TGRiUWIySlNOVkpXckRaSXVjZlMwR0JNelVtYU44TE9YYmE0dWdORDFtMmRVdWVrRmFjaWNNbUx0ZzgycXNVeVplOUhfRGRFanY5bVBFaVpYaU90UjEzUGx1cVlaMlVPc2c?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[Vatican News](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2ZiMU5HSk92NzF0aWU1TE95WUZfb2xLSk55TURhZ2hnb0ZKYm5iZXdFUUJhcVU4TERIQllva1JWT3JVbGFrM2JWNGd5TGRiUWIySlNOVkpXckRaSXVjZlMwR0JNelVtYU44TE9YYmE0dWdORDFtMmRVdWVrRmFjaWNNbUx0ZzgycXNVeVplOUhfRGRFanY5bVBFaVpYaU90UjEzUGx1cVlaMlVPc2c?oc=5)
-
----
-
-### [How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you - The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0FONXF0WktLWFJ2QVdhSXNuV09YLTM5Y2laMFJTQzJpTldxZ1g3cEQ5d2gyc1pycVZQZkZxbi04TDkxekIxRl9oZ0lPSGxfWnlFTFRpcDVjcnBHX29lY3NkTWIxMGczX1NsQkx1UGJHMlRkLXNoQUZtNTlKUlV5Z0hmVDNXWmUxNFdNclJ3eVI5R0dUZjhjeTFvVjhZSUY2ZmdDazFvQXMtYUFkd0l2TDNoSFB6YU9Sb3BrN2xzOFNDVXVRMGEtUU1JUE13bjFBaGN5dGdodW0teDhqS1E?oc=5)
-
-2026-07-16 <span class="news-indication-tag">MS</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0FONXF0WktLWFJ2QVdhSXNuV09YLTM5Y2laMFJTQzJpTldxZ1g3cEQ5d2gyc1pycVZQZkZxbi04TDkxekIxRl9oZ0lPSGxfWnlFTFRpcDVjcnBHX29lY3NkTWIxMGczX1NsQkx1UGJHMlRkLXNoQUZtNTlKUlV5Z0hmVDNXWmUxNFdNclJ3eVI5R0dUZjhjeTFvVjhZSUY2ZmdDazFvQXMtYUFkd0l2TDNoSFB6YU9Sb3BrN2xzOFNDVXVRMGEtUU1JUE13bjFBaGN5dGdodW0teDhqS1E?oc=5)
 
 ---
 
