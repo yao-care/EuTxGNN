@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Une méta-analyse sur 500 000 personnes le confirme : une faible force de préhension augmente le risque de dépression de 42 %](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
 
 2026-07-17
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
-
----
-
-### [The Best Time to Take Vitamin D for Optimal Sleep and Health - Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
-
-2026-07-17
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
 
 ---
 

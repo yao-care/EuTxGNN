@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Low-Insulin-Diät: 5,2 Kilogramm Gewichtsverlust in sechs Monaten - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
-2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+2026-07-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
 ---
 
-### [Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+### [Low-Insulin-Ernährung vs. orale Abnehmmedikamente: Was wirklich zählt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabete</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Warum Frauen mit Diabetes besonders belastet sind - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+### [Diabetes bei Frauen: Ein Drittel seltener moderne Medikamente](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
 
 ---
 

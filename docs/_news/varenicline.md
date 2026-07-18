@@ -54,27 +54,27 @@ permalink: /news/varenicline/
 
 ## 相關新聞（3 則）
 
+### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
+
+2026-07-18 <span class="news-indication-tag">migraña</span>
+
+來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
+
+---
+
+### [Migräne senkt Demenzrisiko: Rotterdam-Studie zeigt 30 Prozent weniger Erkrankungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
+
+2026-07-17 <span class="news-indication-tag">Migräne</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
+
+---
+
 ### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
 
 2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
----
-
-### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
-
-2026-07-16 <span class="news-indication-tag">Migräne</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
-
----
-
-### [Trescientos pacientes del Chuvi reciben los primeros fármacos específicos para combatir las migrañas - Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
-
-2026-07-16 <span class="news-indication-tag">migraña</span>
-
-來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
 
 ---
 

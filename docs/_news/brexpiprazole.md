@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Une méta-analyse sur 500 000 personnes le confirme : une faible force de préhension augmente le risque de dépression de 42 %](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
 
 2026-07-17 <span class="news-indication-tag">dépression</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
-
----
-
-### [The Best Time to Take Vitamin D for Optimal Sleep and Health - Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
-
-2026-07-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
 
 ---
 

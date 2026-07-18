@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [El mavacamten es eficaz para la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
+### [Un hallazgo español amplía el uso del único fármaco contra la miocardiopatía hipertrófica - Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
 
-2026-07-17 <span class="news-indication-tag">cardiopatía</span>
+2026-07-18 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Genotipia](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
+
+---
+
+### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
+
+2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor（cancer） 相關新聞"
+title: "Krebs（cancer） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "tumor（cancer） 的相關健康新聞報導。32 則新聞、229 個相關藥物。"
+description: "Krebs（cancer） 的相關健康新聞報導。32 則新聞、229 個相關藥物。"
 permalink: /news/cancer/
 ---
 
-# tumor（cancer） 相關新聞
+# Krebs（cancer） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="tumor（cancer） 有什麼相關新聞？">
-<strong>tumor（cancer）</strong> 目前有 <strong>32 則</strong>相關新聞報導，229 個相關藥物。
+<p class="key-answer" data-question="Krebs（cancer） 有什麼相關新聞？">
+<strong>Krebs（cancer）</strong> 目前有 <strong>32 則</strong>相關新聞報導，229 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「tumor」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Krebs」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -259,6 +259,14 @@ permalink: /news/cancer/
 
 ## 相關新聞（32 則）
 
+### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGpCc0hYc3BVOEhUcG5DZVRmblExUlE3djg2MGNMZE9wMEpBYlhDaFl4aEFjc3pocW1ZTXFsS2hzRmRnZ0pSZ0RTT0QxNWd6Uk1seHoxVEVia25vMkw3WUhPOGNoaGlFZzQ3MklHV2M3Y1BYZHQxVmZBaWcxNktMNkJyTENHR3dnNk9SY3VJWGVVNFgzNU44Z0h4ZlFaZk9jbnk3eXpKbGVhR0Rnc3M2bGhXSVpUZS1NX3c0cjBFb3I?oc=5)
+
+2026-07-18
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGpCc0hYc3BVOEhUcG5DZVRmblExUlE3djg2MGNMZE9wMEpBYlhDaFl4aEFjc3pocW1ZTXFsS2hzRmRnZ0pSZ0RTT0QxNWd6Uk1seHoxVEVia25vMkw3WUhPOGNoaGlFZzQ3MklHV2M3Y1BYZHQxVmZBaWcxNktMNkJyTENHR3dnNk9SY3VJWGVVNFgzNU44Z0h4ZlFaZk9jbnk3eXpKbGVhR0Rnc3M2bGhXSVpUZS1NX3c0cjBFb3I?oc=5)
+
+---
+
 ### [How these twins' rare growth disorder could provide the key to preventing cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHU4X193YzFJTGRTb2lKMnZUQWgzVTNORkpFSnJIMzNrS1B0SFpsM00tdEhCSmsxTUY3d1F4aDhaenJpSjItWnFvMXppVDFZMllfd0dKZnZNamxv?oc=5)
 
 2026-07-17
@@ -283,11 +291,19 @@ permalink: /news/cancer/
 
 ---
 
-### [Mundkrebs: IL-1?-Blockade stoppt Tumor-Entstehung im Modell - Ad Hoc News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJVTUItWFVDVHVuOUdLOXZtVl9TXzZUV2hZdDNVTWlNT3VVM2xGZnRJMFN4ZHNuaDhBYjRyWWhNYmEzX3lUQVBVVk80NnNMNDJVMnJVM2VSMUlHQUJ2dXlCNzdtc3FvVmJ4dWNEYXJOQkZYS1l0X3ppdjM1dTRZbEtGclJZNWlZenN2azBHNkR3bHpRd0ZUMmVXSEt3Qk84dGZEaUlyS3Z6dw?oc=5)
+### [Mundkrebs: IL-1?-Blockade stoppt Tumor-Entstehung im Modell](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJVTUItWFVDVHVuOUdLOXZtVl9TXzZUV2hZdDNVTWlNT3VVM2xGZnRJMFN4ZHNuaDhBYjRyWWhNYmEzX3lUQVBVVk80NnNMNDJVMnJVM2VSMUlHQUJ2dXlCNzdtc3FvVmJ4dWNEYXJOQkZYS1l0X3ppdjM1dTRZbEtGclJZNWlZenN2azBHNkR3bHpRd0ZUMmVXSEt3Qk84dGZEaUlyS3Z6dw?oc=5)
 
 2026-07-17
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJVTUItWFVDVHVuOUdLOXZtVl9TXzZUV2hZdDNVTWlNT3VVM2xGZnRJMFN4ZHNuaDhBYjRyWWhNYmEzX3lUQVBVVk80NnNMNDJVMnJVM2VSMUlHQUJ2dXlCNzdtc3FvVmJ4dWNEYXJOQkZYS1l0X3ppdjM1dTRZbEtGclJZNWlZenN2azBHNkR3bHpRd0ZUMmVXSEt3Qk84dGZEaUlyS3Z6dw?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkJVTUItWFVDVHVuOUdLOXZtVl9TXzZUV2hZdDNVTWlNT3VVM2xGZnRJMFN4ZHNuaDhBYjRyWWhNYmEzX3lUQVBVVk80NnNMNDJVMnJVM2VSMUlHQUJ2dXlCNzdtc3FvVmJ4dWNEYXJOQkZYS1l0X3ppdjM1dTRZbEtGclJZNWlZenN2azBHNkR3bHpRd0ZUMmVXSEt3Qk84dGZEaUlyS3Z6dw?oc=5)
+
+---
+
+### [«Così riusciremo a combattere il tumore al cervello» - La Provincia Unica Tv](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmlBaFJhSkN1T19mdURQS2pOWEV3OXhLc01FNW1XVXItUS0xdE0tYUhadDQwNXFGUUxwVlVidFFMYTVQLXZHclV1Tnk4NVZZaTRqWl9MSDVqUU5NTklYeWhwd1dYUnBIY1QzbzU1MzdmWmdGVFFaS0dJblBSNGd1aE4yaHMxZmRZYmpqMWVfRmZxZFNYWURtdzRHeVItWnlYRXVQQUtLblU5N0d3REF2c0FB?oc=5)
+
+2026-07-17
+
+來源：[La Provincia Unica Tv](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmlBaFJhSkN1T19mdURQS2pOWEV3OXhLc01FNW1XVXItUS0xdE0tYUhadDQwNXFGUUxwVlVidFFMYTVQLXZHclV1Tnk4NVZZaTRqWl9MSDVqUU5NTklYeWhwd1dYUnBIY1QzbzU1MzdmWmdGVFFaS0dJblBSNGd1aE4yaHMxZmRZYmpqMWVfRmZxZFNYWURtdzRHeVItWnlYRXVQQUtLblU5N0d3REF2c0FB?oc=5)
 
 ---
 
@@ -347,11 +363,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Darmgesundheit: Ballaststoffe und Mikrobiom-Vielfalt senken Krankheitsrisiko - Ad Hoc News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWdzLXlzbll1bzNZdFUxQmVvT1VSbnBoQkJDMExsSjN2WXZjQkx4czU4elhBSHVkUS13UHFwdVAtZGg4M0dlN3dwU3JlTFprU2ZzTGpzR0pqczRnYkY2dWY1NGM0WkpqeTFuTEQ0VkhLSHVOdTNnOTVqbVNpRHhJa2NveVpONks5QUlLQ3dMRGltSVVxLTNaMmhwY2FhLU5RUUwxdFZ1NURaNFE?oc=5)
+### [Darmgesundheit: Ballaststoffe und Mikrobiom-Vielfalt senken Krankheitsrisiko](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWdzLXlzbll1bzNZdFUxQmVvT1VSbnBoQkJDMExsSjN2WXZjQkx4czU4elhBSHVkUS13UHFwdVAtZGg4M0dlN3dwU3JlTFprU2ZzTGpzR0pqczRnYkY2dWY1NGM0WkpqeTFuTEQ0VkhLSHVOdTNnOTVqbVNpRHhJa2NveVpONks5QUlLQ3dMRGltSVVxLTNaMmhwY2FhLU5RUUwxdFZ1NURaNFE?oc=5)
 
 2026-07-17
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWdzLXlzbll1bzNZdFUxQmVvT1VSbnBoQkJDMExsSjN2WXZjQkx4czU4elhBSHVkUS13UHFwdVAtZGg4M0dlN3dwU3JlTFprU2ZzTGpzR0pqczRnYkY2dWY1NGM0WkpqeTFuTEQ0VkhLSHVOdTNnOTVqbVNpRHhJa2NveVpONks5QUlLQ3dMRGltSVVxLTNaMmhwY2FhLU5RUUwxdFZ1NURaNFE?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWdzLXlzbll1bzNZdFUxQmVvT1VSbnBoQkJDMExsSjN2WXZjQkx4czU4elhBSHVkUS13UHFwdVAtZGg4M0dlN3dwU3JlTFprU2ZzTGpzR0pqczRnYkY2dWY1NGM0WkpqeTFuTEQ0VkhLSHVOdTNnOTVqbVNpRHhJa2NveVpONks5QUlLQ3dMRGltSVVxLTNaMmhwY2FhLU5RUUwxdFZ1NURaNFE?oc=5)
 
 ---
 
@@ -363,11 +379,11 @@ permalink: /news/cancer/
 
 ---
 
-### [Alle Betroffenen hatten bereits Metastasen: Neue Genmutation alarmiert Prostatakrebs-Forscher - OP Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGtNM3ZmbnpCdEx3X3Z5UHRiMm1xQ1lGZ1NZTEwxTWswdlZ4Qnp0Tzh5S1NWNkZrdTBIRmFIWHQxYU5qRHpOR0kyQVcwRUlHeWhjOEdya3NQajJMbHJLZW1rVGYtLXM0UmVRUEdjb1pqVWJ6bHpzakJhUGtsUGx3NHBkaDllRGllcmtJd3MtaGFjTmdCQ2ptZXhJZlJJTFdVTzlzc1dDSC10QkZHMGhr?oc=5)
+### [Alle Betroffenen hatten bereits Metastasen: Neue Genmutation alarmiert Prostatakrebs-Forscher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNGUmNzN2MwX3dZRVFxVWxYYktPbTNxNE4td3R5SXRyaEJMdUk4MDlUY3VWM0dOZXhwQ0hfMTlHYlE3QVkzdVJNcWl3eVhZekZKNWJScjdEM041ajNHc3I2VHR6bmpoZ1BMaXE4bTJ2elFHSTFvcmNnMzZ5UDR5aHRCV2prWl9rSndZNVhPWjlfOGwzMTliZXplbnZSV0tyR1JlV3lKcnJZbW8?oc=5)
 
 2026-07-17
 
-來源：[OP Online](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGtNM3ZmbnpCdEx3X3Z5UHRiMm1xQ1lGZ1NZTEwxTWswdlZ4Qnp0Tzh5S1NWNkZrdTBIRmFIWHQxYU5qRHpOR0kyQVcwRUlHeWhjOEdya3NQajJMbHJLZW1rVGYtLXM0UmVRUEdjb1pqVWJ6bHpzakJhUGtsUGx3NHBkaDllRGllcmtJd3MtaGFjTmdCQ2ptZXhJZlJJTFdVTzlzc1dDSC10QkZHMGhr?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNGUmNzN2MwX3dZRVFxVWxYYktPbTNxNE4td3R5SXRyaEJMdUk4MDlUY3VWM0dOZXhwQ0hfMTlHYlE3QVkzdVJNcWl3eVhZekZKNWJScjdEM041ajNHc3I2VHR6bmpoZ1BMaXE4bTJ2elFHSTFvcmNnMzZ5UDR5aHRCV2prWl9rSndZNVhPWjlfOGwzMTliZXplbnZSV0tyR1JlV3lKcnJZbW8?oc=5)
 
 ---
 
@@ -392,14 +408,6 @@ permalink: /news/cancer/
 2026-07-17
 
 來源：[STV News](https://news.google.com/rss/articles/CBMiowFBVV95cUxNajZYWURoeHlDMmRLVEpPcU0tYUNKTHMzb1E5Q25HdUQ0RHpCUnBTZW9tYnBERWs2TTdldEVuSE1QSzhnbHl2RFU0N09TeDAxUjB3Q0lFczJzQktVcTZDaExRemNTZ3R0elFabUNUTzNDWnFHMUt1LWk5eFlZeXpJc2dpLUZBbzVMUHRMM05BZU5ob2huQ3lzdUI1MWdfWUtmWFNR?oc=5)
-
----
-
-### ['Cancer diagnosis at 14 inspired me to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
-
-2026-07-17
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
 
 ---
 
@@ -504,14 +512,6 @@ permalink: /news/cancer/
 2026-07-16
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSC1uS2xZZmFWYlowT3d2NHg1U0h6YlVVMHRnYlpKZFEyX0Q1SUQ3UW1aUU0zdEhUMDUxdzZQZG1RZ1pRUFh3SGZuTUpYaE12QjF4bFJwVXpZWUtyOWhsZHNka05yYzR3aHluSldOTXQ0OTVQU3dxMkVPX0hVemFrRXFUcmk3VUNfYXFMRnNTMXJaYVZDR051LWZzSzFUU0tNQTBDOXhUOTVlczlXYXBBTHg0Z254WGlSaVc2dk5raGlab0FUZUVwcE9BX3RNTFd6S2FOOUYyWE5fX0U?oc=5)
-
----
-
-### [Forscher weisen Krebs-Marker bereits in gesunden Bauchspeicheldrüsen nach](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWHFRQVlEZkg0MzlLOVowQnhyWnV2SGV2ZVlJMzA2eV9KbEVuc2xfblV6OGJKT2wydjE2MEpaOXotRjhkLXU2NGZ6WmZhVVVpOUJVQ0pFZk9Sc3huUUV0NVZfWHByT0V2NnVHbm5UZ2k5SjBoNHU2MGotUmhCT2pCYmJrRm9teFNmNVNETExydEdZVG1fRjZ6dnh6LTVUUjhiTUpTN3hibmdJS293OEVLTWJMZ3M2YjI3bktxRXZ0cV8xNXE4dkIweUdBeTBrRE0weEE?oc=5)
-
-2026-07-16
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWHFRQVlEZkg0MzlLOVowQnhyWnV2SGV2ZVlJMzA2eV9KbEVuc2xfblV6OGJKT2wydjE2MEpaOXotRjhkLXU2NGZ6WmZhVVVpOUJVQ0pFZk9Sc3huUUV0NVZfWHByT0V2NnVHbm5UZ2k5SjBoNHU2MGotUmhCT2pCYmJrRm9teFNmNVNETExydEdZVG1fRjZ6dnh6LTVUUjhiTUpTN3hibmdJS293OEVLTWJMZ3M2YjI3bktxRXZ0cV8xNXE4dkIweUdBeTBrRE0weEE?oc=5)
 
 ---
 

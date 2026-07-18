@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Low-Insulin-Diät: 5,2 Kilogramm Gewichtsverlust in sechs Monaten - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
+### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabetes</span>
+2026-07-18 <span class="news-indication-tag">migraña</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
+來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
 
 ---
 
-### [Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+### [Low-Insulin-Ernährung vs. orale Abnehmmedikamente: Was wirklich zählt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabete</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
+
+---
+
+### [Migräne senkt Demenzrisiko: Rotterdam-Studie zeigt 30 Prozent weniger Erkrankungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
+
+2026-07-17 <span class="news-indication-tag">Migräne</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
 
 ---
 
@@ -94,35 +102,19 @@ permalink: /news/abaloparatide/
 
 ---
 
+### [Diabetes bei Frauen: Ein Drittel seltener moderne Medikamente](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
+
+---
+
 ### [Cefalea ed emicrania non sono tutte uguali: il neurologo Matteo Fuccaro Simonetto spiega quando preoccuparsi e come affrontarle](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
 
 2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
----
-
-### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
-
-2026-07-16 <span class="news-indication-tag">Migräne</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
-
----
-
-### [Warum Frauen mit Diabetes besonders belastet sind - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
-
-2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
-
----
-
-### [Trescientos pacientes del Chuvi reciben los primeros fármacos específicos para combatir las migrañas - Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
-
-2026-07-16 <span class="news-indication-tag">migraña</span>
-
-來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
 
 ---
 

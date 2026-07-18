@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Low-Insulin-Diät: 5,2 Kilogramm Gewichtsverlust in sechs Monaten - Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
+### [Low-Insulin-Ernährung vs. orale Abnehmmedikamente: Was wirklich zählt - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabetes</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmhadDVtWW4wdXp2ZzZXejB0aXBCRzZxeXRpZzNxMmNhS2hMRmhPQ2JxTnBKOFpoRGlKSnc0Ukg0N1owOTVjNGdUai14V3VrcHVKRVNJNVVTM2ZkYk9RRGp1LXZnaW5hSlhmTUMyV0kyN1pyYnFzQmx0YTdHb3p4NGQ1VzRaQmxWY1hYNGpxWGZOMXlfMHhiaWFVdTZ5TFRmUjZSdE0wdUdvRFZtUVZaT25UYw?oc=5)
-
----
-
-### [Il nuovo farmaco contro infarto, diabete e invecchiamento non si compra in farmacia: si chiama movimento](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTy1BS2Q4Y0JVUi1sN2VGZ200bE5mYkpGVlljUGh3SjVLbHpEcVU0MEFuNWdOWFdIdndGbGFaQVZZc2xndG5IZGFjNFpsMF8wMnE0YS1RSkZhbXdxQnpQYko0bFMtb21lWGNRRjdOTnV6c1VOT21oRFZpdzFJVjdCWm9maTczZkRseGNrYVk5ajIzODg3R1BPdGZyU0hsQ1QzVkZBMzdhLTVYUVpNclQ0MnBlcW9lQmJzQ1ROVUFPdGQ1UG50Qi1BS1lIZjhndE44VWNGSHdFXzFXeElHdmRLRVF5S1hMV2dG?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzA5R0Q3N2FSODhGang1aUJtUkpXV0VGckhYRXBfckEyVFQxY19wdHYzREdiTHNIRkcwS0pfQ2JGajl2MWdmWVNGSURTYktpZFRmMERUcmlDSEo5bklURlowWlRNYURiV3VkV2YwM3FMV0hCeWlWRXRKVm9hcFU3TFByMjNpU2QtWThORWtmX0RPQXM4VzViVU5RbzJjT3NiWjBR?oc=5)
 
 ---
 
-### [El mavacamten es eficaz para la miocardiopatía hipertrófica](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
+### [Un hallazgo español amplía el uso del único fármaco contra la miocardiopatía hipertrófica - Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
 
-2026-07-17 <span class="news-indication-tag">cardiopatía</span>
+2026-07-18 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Genotipia](https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1R4aHBSTE4yS0ZMVnZlVzkxZnUwalFXX1pubFRjQ0REOTNpNE05T2tXYUhRd1N1SjNPbktPRUxKWVdXbUl0Z3dZYzBpQzc1dS1nZmFoQnJlQkR1RzhrNjBfY1RLUi1CSDdEdU9OTWE5VnFkQ3pCVm93OXp1Q3JmamNlc0RxY0N3dEE?oc=5)
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
 
 ---
 
@@ -102,11 +94,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Warum Frauen mit Diabetes besonders belastet sind - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+### [Diabetes bei Frauen: Ein Drittel seltener moderne Medikamente](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
 
 2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
 
 ---
 

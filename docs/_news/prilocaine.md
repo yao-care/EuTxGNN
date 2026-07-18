@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,27 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（31 則）
+
+### [European airport issues urgent warning after stowaway mosquito sparks life-threatening disease outbreak - GB News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOellzelM3ZTJWY3gzc2hOa21sT3F0ejY3a3ZKM2VTR2xDYzBLbzZpVU1OeUQwSVNQXzlWSFhoM29WR0g1RmZodjlqWVZiSDg3Y2tlNlRoQ2FvSnhpUHlodm9WQUo4RElWXzdEdm1HQjNhY2xaMW1Bd3ZzSHhqR1p3MlJPNjQzQXI2RF9qVFFvVXdMODg1ZUV3UUpBS2wtWEk1TFRFQQ?oc=5)
+
+2026-07-18 <span class="news-indication-tag">AF</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOellzelM3ZTJWY3gzc2hOa21sT3F0ejY3a3ZKM2VTR2xDYzBLbzZpVU1OeUQwSVNQXzlWSFhoM29WR0g1RmZodjlqWVZiSDg3Y2tlNlRoQ2FvSnhpUHlodm9WQUo4RElWXzdEdm1HQjNhY2xaMW1Bd3ZzSHhqR1p3MlJPNjQzQXI2RF9qVFFvVXdMODg1ZUV3UUpBS2wtWEk1TFRFQQ?oc=5)
+
+---
+
+### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
+
+2026-07-18 <span class="news-indication-tag">migraña</span>
+
+來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
+
+---
 
 ### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 
-2026-07-18 <span class="news-indication-tag">AF</span>
+2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 
@@ -78,22 +94,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Psychology says people who go very still when they're upset — no fidgeting, no shifting, almost no movement — aren't calm or indifferent; they're often the ones for whom stillness became the only safe response to something overwhelming - Silicon Canals](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSHllem53eHJiNXl2alBjVDQwOGtEbWx2d1k2U1oxdjBCdTdSZ3d2V1J0MDhITE5jMVRXeTlaaWhrS0lHZk0tdlk5Ul9qVXN1Z1lZVy1uRmFTREYxaUZlWDdWT0prbm9xX3dTV3R3dXhCeDNzSTNQM0tzZkNQRHJhVlZPb1hkVFg5eEFCcmF1TW9XOERkWV91TGxGZTAyNXhuUl9nRkxxTnlOS0xSV3pBLXZ6dzN3OVRUN1lzTlVTQ2thcGxRVTVRaGZnVXZKSlREVlFwbVJBYkJWQnU3ZnNWeWNrcTRJSG81U1FWQzRuVVMxTTVRYWpLeXppSm1tOGpfX1Mtb3VDM3ZSczhtWmh4U2ZydXBjZDZDZ2p6YUNjeVdtRENfNDJWM0pqWQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">AF</span>
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSHllem53eHJiNXl2alBjVDQwOGtEbWx2d1k2U1oxdjBCdTdSZ3d2V1J0MDhITE5jMVRXeTlaaWhrS0lHZk0tdlk5Ul9qVXN1Z1lZVy1uRmFTREYxaUZlWDdWT0prbm9xX3dTV3R3dXhCeDNzSTNQM0tzZkNQRHJhVlZPb1hkVFg5eEFCcmF1TW9XOERkWV91TGxGZTAyNXhuUl9nRkxxTnlOS0xSV3pBLXZ6dzN3OVRUN1lzTlVTQ2thcGxRVTVRaGZnVXZKSlREVlFwbVJBYkJWQnU3ZnNWeWNrcTRJSG81U1FWQzRuVVMxTTVRYWpLeXppSm1tOGpfX1Mtb3VDM3ZSczhtWmh4U2ZydXBjZDZDZ2p6YUNjeVdtRENfNDJWM0pqWQ?oc=5)
-
----
-
-### [The Best Time to Take Vitamin D for Optimal Sleep and Health - Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
-
-2026-07-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5)
-
----
-
 ### [Why America became addicted to protein - The Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmp6X2pQT1ZDcXFMVHZXdE5tZjg4UE9DSzJQNHN3WWduX0twbzhNdWJXMWdvNnVvcnhJVF9TX1RkOXEySVRxYVVPcnBBekpYSmJ5Zk9UdzhMNWwzRm85WGJHRllVbWFES1FmSHljTzZac285MFdjVXQ1THJqZE1SRFlEVkVsZ0p6alFQeGZWMmQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">AF</span>
@@ -107,14 +107,6 @@ permalink: /news/prilocaine/
 2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzR0SHdEUkJFUW55ZmRNbVEzdEkxNnBIUlhDREEtMUxrZm1vVWpEY1pFajZmdUJvR2V3dWdFY2gwWmhIUEtELV9TYjRBSExUTUNLUnFGZEw5TGktSGxlU2VWQXRUNk1Vd3JXODVjY2FTWmQzVzAxVTFyRGFKNFdacmtmby1yLTdPQndpMHpNX0xVQWZOR2FyS0Z3a0dpTllwOVBXQTZ0UUI0d2o1VWVYTkFtdnZCVEZoRk5DOG90LUl1ZHdG?oc=5)
-
----
-
-### [Malaria outbreak hits major airport after SINGLE mosquito stowed away on plane - The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxOejNJR0tramVhV3FHajJSa20xRGUtVmx1ZjRNRW1iVlh5YUJfV0dON3l2b3pBTjRWNWZld0VGaWRaTXJ0ODhZbVk2eTd6aXVEZFg3UzhEZ3Zfb25lSXk2cGhkSkNoRXBDRnJHNXhBVlBXVVNLeEZYZndVSWtlNzVpLUc2Q01ndVI4cmhiQTJLUEU?oc=5)
-
-2026-07-17 <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikAFBVV95cUxOejNJR0tramVhV3FHajJSa20xRGUtVmx1ZjRNRW1iVlh5YUJfV0dON3l2b3pBTjRWNWZld0VGaWRaTXJ0ODhZbVk2eTd6aXVEZFg3UzhEZ3Zfb25lSXk2cGhkSkNoRXBDRnJHNXhBVlBXVVNLeEZYZndVSWtlNzVpLUc2Q01ndVI4cmhiQTJLUEU?oc=5)
 
 ---
 
@@ -142,11 +134,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Lupus-Therapie: 14 von 15 Patienten erreichen dauerhafte Remission - Ad Hoc News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHZtNHE1bU1OZnliU1dQNVNCSjBWWU0yblRiS0FLLWpPTzVMRnRxUENPWmJzNEJJdG9zN3BzRDhpMktXM3pSS05iOHhIdkZSenduX184ZDVNNHBrYjhhUmw2d0ltNlBDUEtNbkZmMmV3RFU2T3dfUWdSN01YWXZBWnVrbnc1aGNKRHhzaVluTUYteFd3dEV6UHpDRVlubF9Ybkc5T2tRTzJ3ckg2aUUxZGN4Wm0?oc=5)
+### [Lupus-Therapie: 14 von 15 Patienten erreichen dauerhafte Remission](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHZtNHE1bU1OZnliU1dQNVNCSjBWWU0yblRiS0FLLWpPTzVMRnRxUENPWmJzNEJJdG9zN3BzRDhpMktXM3pSS05iOHhIdkZSenduX184ZDVNNHBrYjhhUmw2d0ltNlBDUEtNbkZmMmV3RFU2T3dfUWdSN01YWXZBWnVrbnc1aGNKRHhzaVluTUYteFd3dEV6UHpDRVlubF9Ybkc5T2tRTzJ3ckg2aUUxZGN4Wm0?oc=5)
 
 2026-07-17 <span class="news-indication-tag">AF</span>
 
-來源：[Ad Hoc News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHZtNHE1bU1OZnliU1dQNVNCSjBWWU0yblRiS0FLLWpPTzVMRnRxUENPWmJzNEJJdG9zN3BzRDhpMktXM3pSS05iOHhIdkZSenduX184ZDVNNHBrYjhhUmw2d0ltNlBDUEtNbkZmMmV3RFU2T3dfUWdSN01YWXZBWnVrbnc1aGNKRHhzaVluTUYteFd3dEV6UHpDRVlubF9Ybkc5T2tRTzJ3ckg2aUUxZGN4Wm0?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHZtNHE1bU1OZnliU1dQNVNCSjBWWU0yblRiS0FLLWpPTzVMRnRxUENPWmJzNEJJdG9zN3BzRDhpMktXM3pSS05iOHhIdkZSenduX184ZDVNNHBrYjhhUmw2d0ltNlBDUEtNbkZmMmV3RFU2T3dfUWdSN01YWXZBWnVrbnc1aGNKRHhzaVluTUYteFd3dEV6UHpDRVlubF9Ybkc5T2tRTzJ3ckg2aUUxZGN4Wm0?oc=5)
 
 ---
 
@@ -155,6 +147,14 @@ permalink: /news/prilocaine/
 2026-07-17 <span class="news-indication-tag">AF</span>
 
 來源：[CesenaToday](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGhhY1RmckFtQzhVUDN6Z3BBdDB3WDQzelBNRDNVektrMEI1eUZudHEzRjZwM0xpeFZMR284WVRzVVZOYlZnNVAyM3Q5XzR3dFYwbHlxQlBvQWVKcHRaS0NEUm1TRThkYXk3Ti1TVlFHZTY3T042eVdhaW9vYjBYNGFKX3NIdFp4OTZZSHhKbTNaaWdSZ2g0dC14dzJjSnlfMmg5WE1aYXBYWkhOTmtFamJ3R25Uc1ZIaWFsdmNUbkVVMUdKeU5BWG5tR25GM096ZExjU0hETQ?oc=5)
+
+---
+
+### [Migräne senkt Demenzrisiko: Rotterdam-Studie zeigt 30 Prozent weniger Erkrankungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
+
+2026-07-17 <span class="news-indication-tag">Migräne</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
 
 ---
 
@@ -174,6 +174,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [La importancia de descifrar el cerebro para entender el metabolismo y la infertilidad - El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
+
+2026-07-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
+
+---
+
 ### [Mash: la malattia del fegato diffusa ma poco conosciuta - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
 
 2026-07-17 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
@@ -182,19 +190,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### ['Cancer diagnosis at 14 inspired me to become a doctor'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
+### [Demenzprävention: Schon wenig Krafttraining senkt Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNY2w2UTU4d0VybFU1VUlzbzV3TUkxeFAzWEpqa2dRRDRMcVgtRFpZWHJyd3hMaU1meHdScWRsLTFaRjdnc1lDTUNmWk42bUNzazltMXg0Q3h1M2RFZzNZWEkxc2Z5M1NuQVpnU1JtZFVQZWdYYVJQTVR5cVVJWk1PMk0xRzNCUEJlOUtyVjBPNFNPMV9iaG1JSGltWDN4dw?oc=5)
 
-2026-07-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-17 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SV0N1THRlWjJCZlR1ZDRYRlhOb3NHRE9DMEUwVE5iLVFNTmlrRXQxck40eW9FdV9uWkdncUJ3TUxUeFB3bXV2QkpLUXNIY21YZjlhSk1QOXg5M2JK?oc=5)
-
----
-
-### [New Alzheimer's drug repairs DNA damage and reduces brain inflammation](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNY2w2UTU4d0VybFU1VUlzbzV3TUkxeFAzWEpqa2dRRDRMcVgtRFpZWHJyd3hMaU1meHdScWRsLTFaRjdnc1lDTUNmWk42bUNzazltMXg0Q3h1M2RFZzNZWEkxc2Z5M1NuQVpnU1JtZFVQZWdYYVJQTVR5cVVJWk1PMk0xRzNCUEJlOUtyVjBPNFNPMV9iaG1JSGltWDN4dw?oc=5)
 
 ---
 
@@ -222,19 +222,19 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
+
+2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
+
+---
+
 ### [La señal oculta en la sangre que los científicos han encontrado y que podría ayudar a explicar las diferencias del Alzheimer entre sexos - El Economista](https://news.google.com/rss/articles/CBMiygJBVV95cUxQLTNzLUpBa0xOVm1PQnpqT0QzSGUzVGtQckxzOWlzQTZqbWdyNVRQbFFhM3JWS2NpSkpNY2pPT1JBMXVmakw2NjBNcWFHblp4TDZQQlJsQUt6UkdqZHhiajlWWFB3TWhET2JfVV94T0xIZzZueU90RkxlVlV0V3ZSeWNyV0pnbGhEWUdEakgwSWhIanplamZlZExZVUxUbE1qeVVPLWRhTjBwVWVaNWFFcVRfaERuNWRwM3BTQk9WeGhWWTV0MXJfcy1Ra0p2Y3k2b0RSYV9Wb191NXlrQUlaaXRBTHpxeUZFN0RYRXg2WlVhbTVQUzlUbkFtUS1CWUZEY1lOWHBZUzM3Z25Xejk4a3hNRmVzOE9fNlo2U01Nb211dkgzYm1KaGk5VW1tdnRVZGYtdVBLUUhCbUZxd2Q0dWdiR1dsUGh2b1E?oc=5)
 
 2026-07-16 <span class="news-indication-tag">AF</span>
 
 來源：[El Economista](https://news.google.com/rss/articles/CBMiygJBVV95cUxQLTNzLUpBa0xOVm1PQnpqT0QzSGUzVGtQckxzOWlzQTZqbWdyNVRQbFFhM3JWS2NpSkpNY2pPT1JBMXVmakw2NjBNcWFHblp4TDZQQlJsQUt6UkdqZHhiajlWWFB3TWhET2JfVV94T0xIZzZueU90RkxlVlV0V3ZSeWNyV0pnbGhEWUdEakgwSWhIanplamZlZExZVUxUbE1qeVVPLWRhTjBwVWVaNWFFcVRfaERuNWRwM3BTQk9WeGhWWTV0MXJfcy1Ra0p2Y3k2b0RSYV9Wb191NXlrQUlaaXRBTHpxeUZFN0RYRXg2WlVhbTVQUzlUbkFtUS1CWUZEY1lOWHBZUzM3Z25Xejk4a3hNRmVzOE9fNlo2U01Nb211dkgzYm1KaGk5VW1tdnRVZGYtdVBLUUhCbUZxd2Q0dWdiR1dsUGh2b1E?oc=5)
-
----
-
-### [Ancient DNA Finally Solves a 16th-Century Murder Mystery](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXRfdmdWOWZsa1RKMXVkY1dJek5LaXJuVVE0SnB1Sm5wejdSVFRvdFpHdmdNSGhub3Fib2FZN1FNT2hqbGJ5T09UR1JDd3VfMnpPOWhsdC1TSW5MVUphVzd1bXA0TEVwMkRob3RULXpXcnhTd2VlUko5dUx6bGNEeHBSRUd1UHJaNWJUWTR3?oc=5)
-
-2026-07-16 <span class="news-indication-tag">AF</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXRfdmdWOWZsa1RKMXVkY1dJek5LaXJuVVE0SnB1Sm5wejdSVFRvdFpHdmdNSGhub3Fib2FZN1FNT2hqbGJ5T09UR1JDd3VfMnpPOWhsdC1TSW5MVUphVzd1bXA0TEVwMkRob3RULXpXcnhTd2VlUko5dUx6bGNEeHBSRUd1UHJaNWJUWTR3?oc=5)
 
 ---
 
@@ -246,11 +246,11 @@ permalink: /news/prilocaine/
 
 ---
 
-### [La OMS actualiza sus directrices para prevenir o retrasar hasta el 45% de los casos de demencia](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
+### [‘Explosive diarrhea’ parasite cases skyrocket while CDC still looks for root cause - The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5EMkZMYnkzanFHR29EU09UZlF3dTVCd1dSMWlJMmRxMlpOR2N3MW16YzhQZTJzTmxpM3FSUUdlZDI0Y2FyWlQtWWxNaVJGVWU2U01kRzA4WG8zT0EtVU80QUVfdlFzNkl4M1ZYSkNtd0hXbkJ3X3RzU3hQLTNTVEp3OFlxVTZzWGZfUjZwbkNwaTIwUHJwNDE3VnBzRWNZSDVPLTF0WGdJdm9OMDdqVGRn?oc=5)
 
-2026-07-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-16 <span class="news-indication-tag">AF</span>
 
-來源：[iSanidad](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTZwU1l6VTdYUDhOeXFubmFzcFlCbG0wQTJWaTFJbjQ5SE5keEVhd21lYUZkVkpRZXZzZEIwdW9Ed0gxa3NCOEZyYnh2TlBRSkc1cHd4VlVLMTdLaEExd3NnVGhpajcybl92VGwxazBGTDRTOUwyRU5zX2V3dl8zVWhzTi15SVdERkkybG9DYVlIcUVLNC1QSWRRSzA?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMW5EMkZMYnkzanFHR29EU09UZlF3dTVCd1dSMWlJMmRxMlpOR2N3MW16YzhQZTJzTmxpM3FSUUdlZDI0Y2FyWlQtWWxNaVJGVWU2U01kRzA4WG8zT0EtVU80QUVfdlFzNkl4M1ZYSkNtd0hXbkJ3X3RzU3hQLTNTVEp3OFlxVTZzWGZfUjZwbkNwaTIwUHJwNDE3VnBzRWNZSDVPLTF0WGdJdm9OMDdqVGRn?oc=5)
 
 ---
 
@@ -278,6 +278,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Diabetes bei Frauen: Ein Drittel seltener moderne Medikamente](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
+
+2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWxkZi1LTVIxMlVSZm5hU3Z0cU9aWmZvemRaOXFrVWlkMjJWUnZTUVdLOGxSRWdCblQ4TDhDVjZJMWs5RkxlU0hDR3Z0MVMwOVIxeGRLVlRpNWlrMk5rcWE0dENmX0VXWC1sRG83UTk0MDlsTUdFQWMxRzJuTGZxSTJ4QmZCczBGX1AtUlFKTFVtNXNmZG9uMmt1ZklCQXNURlRiQnBRV0dhOXlOdVE?oc=5)
+
+---
+
 ### [Moustiques : pourquoi en voit-on beaucoup moins cet été ?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSUVTSHp1QmZDRHJvYVlNSjNuV1hfNVhQRXdIaXQyS2JzdnRrdEFwcDBaQU8tb1ZOR09YemZyTzFfRFd2VG5EQUh6OU9JbW1meG0xd2FqRVJIa2VrQ3dYTlNMbjNweFFkMWtRSHRRdnZ4LVgzVFExcE52QzhQNnRfXzNRYWtLeDRJUC1EV05XWWY5eUV6b00yZ1RuOFhodHM?oc=5)
 
 2026-07-16 <span class="news-indication-tag">AF</span>
@@ -291,38 +299,6 @@ permalink: /news/prilocaine/
 2026-07-16 <span class="news-indication-tag">emicrania</span> <span class="news-indication-tag">AF</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZGgydTdYNmVHRlhyV2tkMFFWdE9wV1YwV004UmZsTks2QUZfeF9oaEZlNmtpWDA1SGFHQzhDQ3BPWTBYUThjcllQTjhISFRtVk9CVEtTd21XWk1BcHduVG0zUGtrWF9NN3BOSkF5STN0Vmk3amRBRnpfVjhUYUU1dUpHMTNiMFJCU0Vrcl9aVTFjTHBTUThaWkdMMVlaVFJPTjkyUHB5RHE1MER3cm16dTd2b1RHLURBdkw4cGxmcHlIMENxSnFBWDE3NnVRWTlndjJQOExnd0VvdHgxSTJPNUx1NmliTE1PRzJzMl9INGR1S3NRX00xakJIOEI?oc=5)
-
----
-
-### [Demenz vs. Migräne: Wenn Schmerzen schützen](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
-
-2026-07-16 <span class="news-indication-tag">Migräne</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEhka242cDc5eHFnRlItTVBrazY3TExwZnQ2a0JYSklQczFwVVZrLWg3bFpudjF3MFl5Y2VtNVc4NHhIYTZTWU45X3JiUWd5NjhDM3NCemRkMFQ0ZFpRY1J1a2VHOV9ZeG50TUt1d0VFN3RnTzBSMjVGYVdZVWtnRlU1SEd0WDRkUnRqTlUxVkE1VmE3MkcwUg?oc=5)
-
----
-
-### [Warum Frauen mit Diabetes besonders belastet sind - Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
-
-2026-07-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkRfZHZGQ25IRDNCdWd0N2tTaU5XSm1ZQ2l5QnZfMWNMaUpacGVhamd5LXJEbHBDOFUxYW9Pa1FDWlJUeHpCS2t6UVRnY1lEbW96WFNMUVhYWC1qdGdUMHk2aldFcnlwMkxYa1pERkJDamVMWEVfaVFGSmhpZ291SDZhSVBnZXREdjZvcTlSSGR0OWdrbjMtZU9QNHhzSXNVdENBcVpB?oc=5)
-
----
-
-### [Siringhe di adrenalina nei ristoranti contro le reazioni allergiche: il piano allo studio - Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxQaEF0WVBRNFU5Vlo4ZGVVajR6WVVHZV91cG1iUGs3Y0pFM3VoWXhCTzA4TWZCbnJRVXFFQWxoeGU0RndxdjVOc094Q1ljTGY0eUhqNTdGX2hFbzFTUVoxeVlWN2lhSG5aeGhlTzlHM1ZlZE1ETk5tcjh6M3lWMzN5MV80X09lUEJHckNzWUw3WFRHV21oSGgxZm91cUtYSG0teEhOeGNybUUyRjdZQ0dDU2N6UHdhOTJ5QTVyN2JHUXp5Q2lsOTBhaEJVR3B0cmlZZ2EtT3B1aS00azRMRUZhMG9VdXk5LUhucXBKcFJwTkhOdy11S0JpSS1KOXBWLUJteHZJaHdPVDA4QdIBjwJBVV95cUxPRTZ6N21hR2I5LUJUclo2YUlFNkpZeUZoZUxyb3JUTlNWOEVUMXhnSGxxMFMtU0tTRkM2QjQ0eGNxbVVXOXFXd2tlcjc2V3NyenBxcmpqNXUycEFCaF9BRTNGT0Fra0FtcVptdEVwem1jZEtvcWlQOW5BcXRoMTFSNWI5MUhwWVlrOXpfckxoV2JmcXlyZVZCczFrVVhHOTJpREtjWDhDbDFRN1RYTWFVOWFBZXE1LVlQY29YLWRxamZKdS0tZWx3XzMtNmtUUTNuQXRwN2xIVTlQZHNNMlV3OV9ab0xoYlp2WjdUTUtKVUREdTI2R1V1LTkwVEdDR0d3bi1GWVQzZm04UjZxTzNF?oc=5)
-
-2026-07-16 <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiigJBVV95cUxQaEF0WVBRNFU5Vlo4ZGVVajR6WVVHZV91cG1iUGs3Y0pFM3VoWXhCTzA4TWZCbnJRVXFFQWxoeGU0RndxdjVOc094Q1ljTGY0eUhqNTdGX2hFbzFTUVoxeVlWN2lhSG5aeGhlTzlHM1ZlZE1ETk5tcjh6M3lWMzN5MV80X09lUEJHckNzWUw3WFRHV21oSGgxZm91cUtYSG0teEhOeGNybUUyRjdZQ0dDU2N6UHdhOTJ5QTVyN2JHUXp5Q2lsOTBhaEJVR3B0cmlZZ2EtT3B1aS00azRMRUZhMG9VdXk5LUhucXBKcFJwTkhOdy11S0JpSS1KOXBWLUJteHZJaHdPVDA4QdIBjwJBVV95cUxPRTZ6N21hR2I5LUJUclo2YUlFNkpZeUZoZUxyb3JUTlNWOEVUMXhnSGxxMFMtU0tTRkM2QjQ0eGNxbVVXOXFXd2tlcjc2V3NyenBxcmpqNXUycEFCaF9BRTNGT0Fra0FtcVptdEVwem1jZEtvcWlQOW5BcXRoMTFSNWI5MUhwWVlrOXpfckxoV2JmcXlyZVZCczFrVVhHOTJpREtjWDhDbDFRN1RYTWFVOWFBZXE1LVlQY29YLWRxamZKdS0tZWx3XzMtNmtUUTNuQXRwN2xIVTlQZHNNMlV3OV9ab0xoYlp2WjdUTUtKVUREdTI2R1V1LTkwVEdDR0d3bi1GWVQzZm04UjZxTzNF?oc=5)
-
----
-
-### [Trescientos pacientes del Chuvi reciben los primeros fármacos específicos para combatir las migrañas - Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
-
-2026-07-16 <span class="news-indication-tag">migraña</span>
-
-來源：[Faro de Vigo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTNhVmZESkdFbklaSEVJMUctSVFoekNKUnpFX2Itd3lHMW1pcURuTUhUdnN5Snd0bUdZTThhMVI0U1J0aG43MHNEbFlUTkUxQ1NOS215dVdmOHdMQXRzcFdmNlg4T1VUU0oxRndBanBkUkMwWTZpNjdsbS1LbU9kVlFPaXI4WEdROTVsQ08tcDVtcGZyLUJvbUN1Z1BUZUw1TENUaXpHaGY3QdIBrwFBVV95cUxPS044anM3Z09ucnVoZU1lZ0RDR2xycmppeGZQWENkdHE5S0VOdGc4b05SZXY0OFIySHBFYnlkWlQ5OUJRdkFoSmdPOS1DaWxiMkR6Zzg3RlJVNXlOS2lYTGFCVC1UUmRYSXIzMWR4OEhLMFhCYnVmOFl5SW14WmtZaUdwN2tVOXQ4UF8zSTFCZ3BTMnQzT3FNVkxQSXhpQnBfTXIza0kycEZTZ3BKYko0?oc=5)
 
 ---
 

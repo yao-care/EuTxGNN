@@ -56,9 +56,17 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
-2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+2026-07-18 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
+
+---
+
+### [Ces traitements amaigrissants étaient censés changer leur vie : des patientes rapportent avoir perdu tout intérêt pour ce qu'elles aimaient](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXU4UDFOOTMtUTR5bnVpUW5TOHg4UjlaaTRGZ1JvSEluZ1Qxa3psQndTUUtobWVpNEFRellNT09KQ2RJN0NkN3BzTTE1NnR0YzVpVE5nblRnRW0tcGZ3dnp6M3NJNjNsTFBjNHlUUmIycmh2cWtud3FSdklCQWk2aTBZNDFqbUc3MXJZdUZiTWFyaVZpbUFOV29rOHNvaW1CWms3c2pUdVZ0SEtBYWU2OUFqMV81QmE1REMtdFlDYWpZR2ljYWFVa2kzaWU5UHQ1YncwbUt6MkZUdC1CNURSQUg3NlF1aUdZcVhiTkw0YWUtZw?oc=5)
+
+2026-07-18 <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXU4UDFOOTMtUTR5bnVpUW5TOHg4UjlaaTRGZ1JvSEluZ1Qxa3psQndTUUtobWVpNEFRellNT09KQ2RJN0NkN3BzTTE1NnR0YzVpVE5nblRnRW0tcGZ3dnp6M3NJNjNsTFBjNHlUUmIycmh2cWtud3FSdklCQWk2aTBZNDFqbUc3MXJZdUZiTWFyaVZpbUFOV29rOHNvaW1CWms3c2pUdVZ0SEtBYWU2OUFqMV81QmE1REMtdFlDYWpZR2ljYWFVa2kzaWU5UHQ1YncwbUt6MkZUdC1CNURSQUg3NlF1aUdZcVhiTkw0YWUtZw?oc=5)
 
 ---
 
@@ -70,33 +78,17 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [More than 600,000 Britons ‘too fat to work’ - The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc09lbnkycjVNTEpEVVYzLVhwLW0wWWtmM0E2bDVvdDkxbkxLOV95a1NjaDduSWtmcS1udnEwTmVnd0pkQlpUU0VhZzdxT3hUSEZHSmN5Ym5YV2ZaMTlQaDY3ZzFKeWxZX25WVzlLeEs5d2NHdUtIZWl6UlZSMkcwb2NJS0F6XzVPNW1vRWxn?oc=5)
+### [La importancia de descifrar el cerebro para entender el metabolismo y la infertilidad - El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
 
-2026-07-17 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
+2026-07-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc09lbnkycjVNTEpEVVYzLVhwLW0wWWtmM0E2bDVvdDkxbkxLOV95a1NjaDduSWtmcS1udnEwTmVnd0pkQlpUU0VhZzdxT3hUSEZHSmN5Ym5YV2ZaMTlQaDY3ZzFKeWxZX25WVzlLeEs5d2NHdUtIZWl6UlZSMkcwb2NJS0F6XzVPNW1vRWxn?oc=5)
-
----
-
-### [Un estudio impulsado en Santiago relaciona la obesidad o la caquexia con el hipotálamo - Diario de Ferrol](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRnFMNnVScmNTUTZHNjZhWmI5cTdSdVB5amg0RU1PVzFLMG1aSjFZRk5BZV85UkhxejV2TFI5NlQyMVlJbWJOeWVGenRjOFBXSzJmbnJGTGJFa3RDbF9Oa3RySkptdUc2MXc3aGlTRUtfa0s0d2FmVVhKd1RKbDVKdjlYMzYwcHNQUnNUZ0ZLNEpoeEpoYTZHNnlxWXpZYWk3M1d5eDd3SmtxYWxweXlWcEhZZTFrYjlZeGxTYkZOUXhqbWVBeUtIZGJ5YXpyMjZ6N3l1Y2liTVNtS3hxQW5jYkJ6eHd1VG80MGVLclVKaw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Ferrol](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRnFMNnVScmNTUTZHNjZhWmI5cTdSdVB5amg0RU1PVzFLMG1aSjFZRk5BZV85UkhxejV2TFI5NlQyMVlJbWJOeWVGenRjOFBXSzJmbnJGTGJFa3RDbF9Oa3RySkptdUc2MXc3aGlTRUtfa0s0d2FmVVhKd1RKbDVKdjlYMzYwcHNQUnNUZ0ZLNEpoeEpoYTZHNnlxWXpZYWk3M1d5eDd3SmtxYWxweXlWcEhZZTFrYjlZeGxTYkZOUXhqbWVBeUtIZGJ5YXpyMjZ6N3l1Y2liTVNtS3hxQW5jYkJ6eHd1VG80MGVLclVKaw?oc=5)
-
----
-
-### [Pflanzenvielfalt und neue Adipositas-Medikamente: So kippt 2026 die Debatte - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNPeHNTX3JmTy1JSExZRTNQWnVKU1NpNzFrNFBfSFlfTVlsLVFPR1hYZ3RxMjM4eXVaT3B1WE1qNzZYZk9QRGJhNElvMmp1dkF0MWFjcVZNaVJ3azA0eHJJUE5vU3dOUmt2bGEtTnBnYWpxcnVVVnl3a2d3TjQzcEVKZFFzOFlVbHFWTWc1SkVlV3pZdkphN3E5b1hsaGI3ZVB3YVJsNnlYQQ?oc=5)
-
-2026-07-16 <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNPeHNTX3JmTy1JSExZRTNQWnVKU1NpNzFrNFBfSFlfTVlsLVFPR1hYZ3RxMjM4eXVaT3B1WE1qNzZYZk9QRGJhNElvMmp1dkF0MWFjcVZNaVJ3azA0eHJJUE5vU3dOUmt2bGEtTnBnYWpxcnVVVnl3a2d3TjQzcEVKZFFzOFlVbHFWTWc1SkVlV3pZdkphN3E5b1hsaGI3ZVB3YVJsNnlYQQ?oc=5)
+來源：[El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
 
 ---
 
 ### [Natural Supplement May Boost Cancer-Fighting Immunity](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
-2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+2026-07-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMihgFBVV95cUxONUFuTkJnX3ZHenBKSzlPd0tkaTBNLWQyMWF6aDRud2dtRzI0OG1sUjNZLXZ1S0NsclFUejc0VEo1N0xDcVhJX1RkaUFoR2I0TzBWYVFYandCZGxCNkxIVTBJZlZPSEVKUFFGSUl5MmJHNnlVYUhNTGVxVFAxZ3VSeVdzMFlidw?oc=5)
 
@@ -115,6 +107,14 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-07-16 <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDNTeWpzRy02QkQ5SGtTYXgyMmV5NkotY1JnTWVKYUpPVXZpUml3Mk5oT0RPdnU2YkpCdG5Nc25jYWhkQTZ0ZHJxVlk4bjRXbzVBZEl2TVVmQkROenJnSEFkZlhGMlhCMGZ0VUxHREg4VTBzV0podTdpSkg4ZnhRemVKaThFd3UxYlo1QWlqbzM1U3h4MkJQM3VDdGdtOHhkclMxVFU5STJPRkpfbHdLRVRn?oc=5)
+
+---
+
+### [¿Medicamentos contra la obesidad y apoyo al estilo de vida?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
+
+2026-07-16 <span class="news-indication-tag">obesidad</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcmVjQWhDSlR5eDlaWGd0Si1ld2RuV0p3dmhNVDdfa21ISGRQWnN4cHBVdVZWZlNJUEVSUER1cjIxTXc4NTFBVV9neVdWMHBVVWk1cEp2VG1NR0xCaGhnelZXdGwyYmhZbXhTYUtDUzBhR3hjTzM5LUp1V3NNa1BtY1NYYmg3c3BjODZic2NqRnVvWFBVRFRBNmtObm04ZEMyaDI4UUhzUHl3NzJUcjFUYzBlbkdHb2htOUw0YUQ2WldXT1V2SmlHbGFoWlpvS3NhSnNTUzRXbmUzNDd0MnRfSTZuQUdyVnZs?oc=5)
 
 ---
 
