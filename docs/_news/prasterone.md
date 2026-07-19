@@ -14,7 +14,7 @@ permalink: /news/prasterone/
 ---
 
 <p class="key-answer" data-question="Prasterone 有什麼相關新聞？">
-<strong>Prasterone</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prasterone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/prasterone/
 <p><a href="{{ '/drugs/prasterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+
+2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+
+---
 
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/prasterone/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzE2Qnlyb2JfU05XY3RJOTNLQm1USkpwUDB6U0VuX0pUcFQzQ3lYRlZaN1NkWHdEeFNOYnZxekZiOFpfZW5tYURuX2x3SjhOUnQzWjlhaHVFOFc5Mi1RYmpMNzRZYk1aQTJxNjJwRDA5NGxUUUFNMkFSbkNBRVR2T2pyTGw2a3UxTGo5TG15Z3ZSQjdMMHFKYXk2OVJLMnlDVTdUWmxJTzFvd29OSFVDUUtRNTRUZU9GRHExcQ?oc=5)
+### [Jen Gale, investigadora: “Los largos periodos sentado se relacionan con más riesgo cardiovascular, diabetes y algunos cánceres; interrumpirlos con pausas sencillas puede ayudar” - La Vanguardia](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS0dQTVYyaXdWTXhmZVVUQXR0bXJTbUphQWltRDdzaEFOcEs0NG9RQkpzNElrRmMzZG9Qd1RQUDZ2QTZQMTNlUy0yclhNVnV4UVgxTGhhbW1tMjNFNVBOTm5aN2RaN21JUzRvNHRpWHNLdm5BaWdZbWR1ZVhGcFJVSEcxeXNWanR2V1NsUG9tcF9MNzB5eER0bW1aNkZwdXRUVTdNdnFqYVEwaFowNFljV21aYmVUNlFTOExwY0xybFpmMXhtbHdIRFZSRWE1NU5oUTg4cGVUSVM2U292M0hhSk1iUlJNbFFiN3FUejhITTVFNndjVDZNNDBmbVVIa0lBSEtmaWlfTGRKeUVpVGtJamwyb0Nna3NnVHVrOVFVeVFFOGRsc0dNTGhwSWo4YmxSRnpqWDVDbk1jbmPSAcACQVVfeXFMTjYtVDZKMGxZcFY4LWh3V2hlWTRVazNKZ1JkcFQwS1BhU1VmOWF6bV9UODZ6Z2ZGNmphaVRGV0YwRkJuSk1BZlRyajZrWEhBelRLNDFIWDJZbW5tS0pkSXhONWMwUl9BQWNWaHBJSmNWaGxXR0c2VVlOaUFuQTFxbVIxNWZmLVB3MWdKbzdsdmZJcUtjYUJLVW9EdEZPLXJuNXNuOVFoOGFyZzRYQ09Db0h2SXVocGdNa2tpb2E0Wm1zQWFGYmlGMDJJUml5ZjZuYXlBVVBiYWRGdDdiZ2VaOENtd1ROYy1FeVYwcGN4V2FMTVkxQ1RERGtrYTB1RkhodEVzYk1sZ0xYUlFiNEpBZV9YNnBOSThrbV96ZmZmTy1idGduS1liUFRqQlc5aTktN2pMM3NwRWdYZjQ1cWpuZXY?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzE2Qnlyb2JfU05XY3RJOTNLQm1USkpwUDB6U0VuX0pUcFQzQ3lYRlZaN1NkWHdEeFNOYnZxekZiOFpfZW5tYURuX2x3SjhOUnQzWjlhaHVFOFc5Mi1RYmpMNzRZYk1aQTJxNjJwRDA5NGxUUUFNMkFSbkNBRVR2T2pyTGw2a3UxTGo5TG15Z3ZSQjdMMHFKYXk2OVJLMnlDVTdUWmxJTzFvd29OSFVDUUtRNTRUZU9GRHExcQ?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS0dQTVYyaXdWTXhmZVVUQXR0bXJTbUphQWltRDdzaEFOcEs0NG9RQkpzNElrRmMzZG9Qd1RQUDZ2QTZQMTNlUy0yclhNVnV4UVgxTGhhbW1tMjNFNVBOTm5aN2RaN21JUzRvNHRpWHNLdm5BaWdZbWR1ZVhGcFJVSEcxeXNWanR2V1NsUG9tcF9MNzB5eER0bW1aNkZwdXRUVTdNdnFqYVEwaFowNFljV21aYmVUNlFTOExwY0xybFpmMXhtbHdIRFZSRWE1NU5oUTg4cGVUSVM2U292M0hhSk1iUlJNbFFiN3FUejhITTVFNndjVDZNNDBmbVVIa0lBSEtmaWlfTGRKeUVpVGtJamwyb0Nna3NnVHVrOVFVeVFFOGRsc0dNTGhwSWo4YmxSRnpqWDVDbk1jbmPSAcACQVVfeXFMTjYtVDZKMGxZcFY4LWh3V2hlWTRVazNKZ1JkcFQwS1BhU1VmOWF6bV9UODZ6Z2ZGNmphaVRGV0YwRkJuSk1BZlRyajZrWEhBelRLNDFIWDJZbW5tS0pkSXhONWMwUl9BQWNWaHBJSmNWaGxXR0c2VVlOaUFuQTFxbVIxNWZmLVB3MWdKbzdsdmZJcUtjYUJLVW9EdEZPLXJuNXNuOVFoOGFyZzRYQ09Db0h2SXVocGdNa2tpb2E0Wm1zQWFGYmlGMDJJUml5ZjZuYXlBVVBiYWRGdDdiZ2VaOENtd1ROYy1FeVYwcGN4V2FMTVkxQ1RERGtrYTB1RkhodEVzYk1sZ0xYUlFiNEpBZV9YNnBOSThrbV96ZmZmTy1idGduS1liUFRqQlc5aTktN2pMM3NwRWdYZjQ1cWpuZXY?oc=5)
 
 ---
 
@@ -75,22 +83,6 @@ permalink: /news/prasterone/
 2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
-
----
-
-### [Still in the dark: effects of sex differences on statin-associated diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
-
----
-
-### [The world’s most common operation that people now have before they need it - The i Paper](https://news.google.com/rss/articles/CBMifkFVX3lxTE05TzFTWm1DbkxNLU5Wb3RPYzdoYzFQbW9JNVFKNTYwd2lLa3FveWJ4WTU3STBYUllmWGZDc3dJRFByN09hT2thMThNRmUxeC1JdEoxVko0SnBnRUhjLUNNSG5tRXpSNWdsYWt5aGpRWUtEeEFWQUYxN2FRYXFHdw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMifkFVX3lxTE05TzFTWm1DbkxNLU5Wb3RPYzdoYzFQbW9JNVFKNTYwd2lLa3FveWJ4WTU3STBYUllmWGZDc3dJRFByN09hT2thMThNRmUxeC1JdEoxVko0SnBnRUhjLUNNSG5tRXpSNWdsYWt5aGpRWUtEeEFWQUYxN2FRYXFHdw?oc=5)
 
 ---
 

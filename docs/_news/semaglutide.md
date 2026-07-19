@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+
+2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+
+---
 
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzE2Qnlyb2JfU05XY3RJOTNLQm1USkpwUDB6U0VuX0pUcFQzQ3lYRlZaN1NkWHdEeFNOYnZxekZiOFpfZW5tYURuX2x3SjhOUnQzWjlhaHVFOFc5Mi1RYmpMNzRZYk1aQTJxNjJwRDA5NGxUUUFNMkFSbkNBRVR2T2pyTGw2a3UxTGo5TG15Z3ZSQjdMMHFKYXk2OVJLMnlDVTdUWmxJTzFvd29OSFVDUUtRNTRUZU9GRHExcQ?oc=5)
+### [Jen Gale, investigadora: “Los largos periodos sentado se relacionan con más riesgo cardiovascular, diabetes y algunos cánceres; interrumpirlos con pausas sencillas puede ayudar” - La Vanguardia](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS0dQTVYyaXdWTXhmZVVUQXR0bXJTbUphQWltRDdzaEFOcEs0NG9RQkpzNElrRmMzZG9Qd1RQUDZ2QTZQMTNlUy0yclhNVnV4UVgxTGhhbW1tMjNFNVBOTm5aN2RaN21JUzRvNHRpWHNLdm5BaWdZbWR1ZVhGcFJVSEcxeXNWanR2V1NsUG9tcF9MNzB5eER0bW1aNkZwdXRUVTdNdnFqYVEwaFowNFljV21aYmVUNlFTOExwY0xybFpmMXhtbHdIRFZSRWE1NU5oUTg4cGVUSVM2U292M0hhSk1iUlJNbFFiN3FUejhITTVFNndjVDZNNDBmbVVIa0lBSEtmaWlfTGRKeUVpVGtJamwyb0Nna3NnVHVrOVFVeVFFOGRsc0dNTGhwSWo4YmxSRnpqWDVDbk1jbmPSAcACQVVfeXFMTjYtVDZKMGxZcFY4LWh3V2hlWTRVazNKZ1JkcFQwS1BhU1VmOWF6bV9UODZ6Z2ZGNmphaVRGV0YwRkJuSk1BZlRyajZrWEhBelRLNDFIWDJZbW5tS0pkSXhONWMwUl9BQWNWaHBJSmNWaGxXR0c2VVlOaUFuQTFxbVIxNWZmLVB3MWdKbzdsdmZJcUtjYUJLVW9EdEZPLXJuNXNuOVFoOGFyZzRYQ09Db0h2SXVocGdNa2tpb2E0Wm1zQWFGYmlGMDJJUml5ZjZuYXlBVVBiYWRGdDdiZ2VaOENtd1ROYy1FeVYwcGN4V2FMTVkxQ1RERGtrYTB1RkhodEVzYk1sZ0xYUlFiNEpBZV9YNnBOSThrbV96ZmZmTy1idGduS1liUFRqQlc5aTktN2pMM3NwRWdYZjQ1cWpuZXY?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzE2Qnlyb2JfU05XY3RJOTNLQm1USkpwUDB6U0VuX0pUcFQzQ3lYRlZaN1NkWHdEeFNOYnZxekZiOFpfZW5tYURuX2x3SjhOUnQzWjlhaHVFOFc5Mi1RYmpMNzRZYk1aQTJxNjJwRDA5NGxUUUFNMkFSbkNBRVR2T2pyTGw2a3UxTGo5TG15Z3ZSQjdMMHFKYXk2OVJLMnlDVTdUWmxJTzFvd29OSFVDUUtRNTRUZU9GRHExcQ?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS0dQTVYyaXdWTXhmZVVUQXR0bXJTbUphQWltRDdzaEFOcEs0NG9RQkpzNElrRmMzZG9Qd1RQUDZ2QTZQMTNlUy0yclhNVnV4UVgxTGhhbW1tMjNFNVBOTm5aN2RaN21JUzRvNHRpWHNLdm5BaWdZbWR1ZVhGcFJVSEcxeXNWanR2V1NsUG9tcF9MNzB5eER0bW1aNkZwdXRUVTdNdnFqYVEwaFowNFljV21aYmVUNlFTOExwY0xybFpmMXhtbHdIRFZSRWE1NU5oUTg4cGVUSVM2U292M0hhSk1iUlJNbFFiN3FUejhITTVFNndjVDZNNDBmbVVIa0lBSEtmaWlfTGRKeUVpVGtJamwyb0Nna3NnVHVrOVFVeVFFOGRsc0dNTGhwSWo4YmxSRnpqWDVDbk1jbmPSAcACQVVfeXFMTjYtVDZKMGxZcFY4LWh3V2hlWTRVazNKZ1JkcFQwS1BhU1VmOWF6bV9UODZ6Z2ZGNmphaVRGV0YwRkJuSk1BZlRyajZrWEhBelRLNDFIWDJZbW5tS0pkSXhONWMwUl9BQWNWaHBJSmNWaGxXR0c2VVlOaUFuQTFxbVIxNWZmLVB3MWdKbzdsdmZJcUtjYUJLVW9EdEZPLXJuNXNuOVFoOGFyZzRYQ09Db0h2SXVocGdNa2tpb2E0Wm1zQWFGYmlGMDJJUml5ZjZuYXlBVVBiYWRGdDdiZ2VaOENtd1ROYy1FeVYwcGN4V2FMTVkxQ1RERGtrYTB1RkhodEVzYk1sZ0xYUlFiNEpBZV9YNnBOSThrbV96ZmZmTy1idGduS1liUFRqQlc5aTktN2pMM3NwRWdYZjQ1cWpuZXY?oc=5)
 
 ---
 
@@ -86,27 +94,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Still in the dark: effects of sex differences on statin-associated diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
-
----
-
 ### [I ritocchini col grasso dei cadaveri dopo l'effetto Ozempic: la nuova moda per rassodare il corpo svuotato dalle diete lampo](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
 
 2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[today.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
-
----
-
-### [The world’s most common operation that people now have before they need it - The i Paper](https://news.google.com/rss/articles/CBMifkFVX3lxTE05TzFTWm1DbkxNLU5Wb3RPYzdoYzFQbW9JNVFKNTYwd2lLa3FveWJ4WTU3STBYUllmWGZDc3dJRFByN09hT2thMThNRmUxeC1JdEoxVko0SnBnRUhjLUNNSG5tRXpSNWdsYWt5aGpRWUtEeEFWQUYxN2FRYXFHdw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[The i Paper](https://news.google.com/rss/articles/CBMifkFVX3lxTE05TzFTWm1DbkxNLU5Wb3RPYzdoYzFQbW9JNVFKNTYwd2lLa3FveWJ4WTU3STBYUllmWGZDc3dJRFByN09hT2thMThNRmUxeC1JdEoxVko0SnBnRUhjLUNNSG5tRXpSNWdsYWt5aGpRWUtEeEFWQUYxN2FRYXFHdw?oc=5)
 
 ---
 
@@ -131,14 +123,6 @@ permalink: /news/semaglutide/
 2026-07-17 <span class="news-indication-tag">diabetes</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2p0aHdsS0lIamswVFp3TmZiWnEyT3JZUG9MYTRyQzVnUUM5SEN4dWZ1c0tpQTNhalZFUl84N2xrRVhPN1ZGSmZJNTAteTJUT20xNlgxZ1AtSDUtdXRzYVRJZVZ0a1hfVFlMdXFuelB5Y28zWlJUTExhdTFLMUY5UlN2Q3dtSm1uSnFsdDNTYy1nb2NqdTB3YWQ5MGx2Rlo0UTQ3SnpvNU9XMjhjSWdtMVpWSkxfRWZfdHNVZGhBNW9Ga05MOGszcFppWjhUU3R0UUpRekt4SWRwamPSAeABQVVfeXFMT3RtOUZQMzd0WkMwdi1xRjRfS0RuSDY2WkVUbXlXaVNpZ28yVlFMZU9Dd2F0SDNHMjhKQmhMTXpGUHYzQzB5SHlLZS0xNVBCakJXWnZSTDN6VHZmUlAtc3Z5SmtqcDBQZVcySkZOZWg3SkxhWmVOcFl6ZDBPQ2w1Z3NjSFgtdXFCM2t1bUl3Qi00NVUwUFdBZ0p0bDFCd0hOZEhfSEVKZ21iUTZDNm1NWGxGMjBhck5QejdWeERNaExXSlVOOXJkeVM2cFBjbU1qQUk2US1KNk1mdlU2NGpoSEY?oc=5)
-
----
-
-### [Estudio revela beneficio inesperado de los medicamentos para la obesidad](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
-
-2026-07-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdad9IBzgFBVV95cUxPSFVkR3gzZkdlM0JiUTVxcTRYZ1p0bGNJMTNXQTFQR3FKQTJFZWRZRWZiYUdmZGlJUGdKYTI1TkhJVW5uUFNSc2FXUGxUVm1HakhtekdXSXh0OXhzQTE4WEZxTU51WlN5SkxtMkE0ZUd4ZGpDUW5aVXJPZGZ0UEtYS2pKYzlhYndJLWVBcndQNlFyYW16Y2E0M0h6emZHUElYMDhsYVRfajc0eDN3Zm0zdmdMTTNQVHBCRlZEV3hCZWdlbW1tUUF5dlNfZUdadw?oc=5)
 
 ---
 

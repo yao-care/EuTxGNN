@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer-Krankheit（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [Alzheimer-Therapie: Diranersen bremst Abbau um bis zu 42 Prozent](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
-
-2026-07-18
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 

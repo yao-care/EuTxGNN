@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
 
 ### [Studie geplant: Neuartiges Medikament könnte Alzheimer-Symptome bremsen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0ZMb0J2STg1U3BkVlJGaWdDN0NmeVRtbWh5MXRrZTZ0aGRLRkdPbnJrSkhHWGlIUE1fOVZIRkIxRjBhODV4SllfanJNZmVSTGZkampJMlIyenEyNDE1bHd2OHhIRUY3elgyOVVOV29mOVk2SzRNaXp2eTN1OVRrN3ZTX2RTSmlFckFSd2xCVFdzZXdjeGYzVUhpbnRHLTA0cW4yeDUxbEN6NWFCMW9Vekt0Uk53Y1lKbk12XzdLcVVodzducGNvUE9rS0pmbko2?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Alzheimer-Therapie: Diranersen bremst Abbau um bis zu 42 Prozent](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
+### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
-2026-07-18 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+---
+
+### [New study sheds light on how Epstein-Barr virus may contribute to multiple sclerosis - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlEblUxYVpYbkZ1MXAyckZSZ2huYkFPa3FkMlhXSlVlbFVyd2MwSXpOVjNBeE9JcGt5NEk5bzdfVzROUlgtNzQ2SGVDYXFDQjNWXzVDdmlteUMxQ0NRU2dpV2tDODlEdHhPbXl6R21NZUM0eDFadWFydnJLWjNuWWc0LTZEQWZDSGc?oc=5)
+
+2026-07-18 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlEblUxYVpYbkZ1MXAyckZSZ2huYkFPa3FkMlhXSlVlbFVyd2MwSXpOVjNBeE9JcGt5NEk5bzdfVzROUlgtNzQ2SGVDYXFDQjNWXzVDdmlteUMxQ0NRU2dpV2tDODlEdHhPbXl6R21NZUM0eDFadWFydnJLWjNuWWc0LTZEQWZDSGc?oc=5)
 
 ---
 
@@ -86,11 +94,27 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Going abroad? These are the illnesses most likely to ruin your holiday - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0pSNEFhaFhOdHBtR0tCUWJ5dGxHUWxqT2lqN3IyYXN3Y241d2phVVpmalZQeF9NNkltWllXNF9aM0ExaW9jdnR5eDdTeVM4MXRoU2VULVloZmgyWWgwTHBMQmoxQ2RiRUs1OUNPRFhNZFJwNnVTTTZEcDhPMExyYm9ZZUtRLVlTZTdFOXJvbXpiSjVfNTlzMVFzXzRDUllVNEw5RHBIV0xHUDhlZ2stNmpyTTE1RUg0LVE?oc=5)
+
+2026-07-18 <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0pSNEFhaFhOdHBtR0tCUWJ5dGxHUWxqT2lqN3IyYXN3Y241d2phVVpmalZQeF9NNkltWllXNF9aM0ExaW9jdnR5eDdTeVM4MXRoU2VULVloZmgyWWgwTHBMQmoxQ2RiRUs1OUNPRFhNZFJwNnVTTTZEcDhPMExyYm9ZZUtRLVlTZTdFOXJvbXpiSjVfNTlzMVFzXzRDUllVNEw5RHBIV0xHUDhlZ2stNmpyTTE1RUg0LVE?oc=5)
+
+---
+
 ### [Descubren mecanismos inmunitarios entre virus de Epstein-Barr y riesgo de esclerosis múltiple: esto se sabe - La Patria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDdxcnQzX0VoaWhHOTdTcE0wS2Z4R0pMZW9KeHBGWFhYLXo4NlRGUlJ5UUFGeW1WQkNLcXZoeE5UUlJmNEFaOXkyTE9nbFFYTURvYnpKZGYwb08tNDRZQmltQjFZRHFkMVlVd3FXRzY4d2xkN1VPbi0xRHFnR0Nrc3I1VG9KUmwwcE9Sa01wQmJJOFoxNUI1V0poSnlhZmlGZkVJak1FOXM4b2RfZk9lNWFCSk96RVAwc1FFTGhUcExIQQ?oc=5)
 
 2026-07-18 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[La Patria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDdxcnQzX0VoaWhHOTdTcE0wS2Z4R0pMZW9KeHBGWFhYLXo4NlRGUlJ5UUFGeW1WQkNLcXZoeE5UUlJmNEFaOXkyTE9nbFFYTURvYnpKZGYwb08tNDRZQmltQjFZRHFkMVlVd3FXRzY4d2xkN1VPbi0xRHFnR0Nrc3I1VG9KUmwwcE9Sa01wQmJJOFoxNUI1V0poSnlhZmlGZkVJak1FOXM4b2RfZk9lNWFCSk96RVAwc1FFTGhUcExIQQ?oc=5)
+
+---
+
+### [OMS advierte que casos de cáncer se duplicarán para 2050 si no se toman medidas urgentes - Correo del Caroní](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1aa3U2Q0hURUJNN0trdzhNT2J1MlcyZW9zbFNzUGJ6YVB2S0l3VmxlUzVHVnF6V09lV0pqeDNXLWFXYTJYSllsMThFaVhKV3RKZHRvd1R6c01pa3lvc0J6Y2JWMzJldzFIbnVlS3VfY2JBNkI0amYtX0VjcWVSdEdMX0E3LWMxODRHeVc4cG5nSlhjTjB0UGRrYnltcWxDSWg2LV82QzZxbklObE9yN1BaNWVxSVE2MjRZVUpvTm1ZS0xiZ3FhV0FTV0I?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span>
+
+來源：[Correo del Caroní](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1aa3U2Q0hURUJNN0trdzhNT2J1MlcyZW9zbFNzUGJ6YVB2S0l3VmxlUzVHVnF6V09lV0pqeDNXLWFXYTJYSllsMThFaVhKV3RKZHRvd1R6c01pa3lvc0J6Y2JWMzJldzFIbnVlS3VfY2JBNkI0amYtX0VjcWVSdEdMX0E3LWMxODRHeVc4cG5nSlhjTjB0UGRrYnltcWxDSWg2LV82QzZxbklObE9yN1BaNWVxSVE2MjRZVUpvTm1ZS0xiZ3FhV0FTV0I?oc=5)
 
 ---
 
@@ -102,19 +126,19 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [Brain implant lets a paralyzed man feed himself and pet his dog - Boing Boing](https://news.google.com/rss/articles/CBMidEFVX3lxTE5xcFFhM1J5LTgya3l6bUwtODMwclRpdC1tbF94cHRvUlVnOUU1TEh0OXBraVdLM3pPM3I0MXpZdlZsTTZVRTJUNUhrUTlXcnZDamNBNW9BQ3pXczdKNjFNNV9kN2ZTTVpDaDV2OGpoMENvakot0gF6QVVfeXFMT29od3VXUVZWZDhqT2JBZEMtZDJaLTdoSFc3d2Ixd3Yzc1poS2NEanY5RmU4cU5VZ01Cb0NnLWRRV2lTVVdDQU5iTnRKRHk5NEpqOXhCdHhCYWF1ZVpxUVR6NzU2Q2JqU01zeWE1NHktdmo3VE1HaFYtbWc?oc=5)
+
+2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Boing Boing](https://news.google.com/rss/articles/CBMidEFVX3lxTE5xcFFhM1J5LTgya3l6bUwtODMwclRpdC1tbF94cHRvUlVnOUU1TEh0OXBraVdLM3pPM3I0MXpZdlZsTTZVRTJUNUhrUTlXcnZDamNBNW9BQ3pXczdKNjFNNV9kN2ZTTVpDaDV2OGpoMENvakot0gF6QVVfeXFMT29od3VXUVZWZDhqT2JBZEMtZDJaLTdoSFc3d2Ixd3Yzc1poS2NEanY5RmU4cU5VZ01Cb0NnLWRRV2lTVVdDQU5iTnRKRHk5NEpqOXhCdHhCYWF1ZVpxUVR6NzU2Q2JqU01zeWE1NHktdmo3VE1HaFYtbWc?oc=5)
+
+---
+
 ### [The TRUTH about viral 'parasite cleanse' drink for bloating, acne and tiredness - as GP reveals true signs of worms - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
-
----
-
-### [Paralysed man regains movement in arms and hands after brain implant breakthrough - GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pa3U0a1Qyb0szV1hFTkpNWjVqVm1RSEk0Y20zajVjTkYyblA2RjJ1TkpEclZSYXh5RVpvemhaUkMxV0ZYMmkxVDUydEk2X05vSzFMY1Bhbm5uWjdvMVVVYjdCZmtKVzdTX3VPcmxvbnViNXRGbnYyWg?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE5pa3U0a1Qyb0szV1hFTkpNWjVqVm1RSEk0Y20zajVjTkYyblA2RjJ1TkpEclZSYXh5RVpvemhaUkMxV0ZYMmkxVDUydEk2X05vSzFMY1Bhbm5uWjdvMVVVYjdCZmtKVzdTX3VPcmxvbnViNXRGbnYyWg?oc=5)
 
 ---
 
@@ -155,14 +179,6 @@ permalink: /news/grazoprevir/
 2026-07-17 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0RjMnplR21SZjY2WlJ4LTR5TkZNc3Y5UlAtdmc2Rk5RU2hKV3RoVWd5VUd0bXlsZTZjZ1QyeF9NaUJKVVVwM1lmYktBYi1RS2FJZG45ZzdnSE41eWw3QXBNbjVmV3loWm1WMUJjbWZBcHQyRFNXQWtSeDFWMmpJMGxVc2RXeWtjajRiZi05eTJjX1RFNXEySTZYT2FSbTA?oc=5)
-
----
-
-### [Common Mouth Bacteria May Trigger Dangerous Calcium Buildup in the Heart](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmhaOXI1SGRQcGFyMkhOOUk3aHhfLWVGbmhjVUNtMkdrWF9lUE55WDVjSVU5S1VGLURfb2dvMVdEYzRXYUY4RFVCczh6aXZzalN3emFVaTQ1N3dySF9ReURJSlNuLVhydjRqa3FvQ3lSWndYd0ZrUE5wUk1XN3NOM1cwalBhWldVaTk5TWw1b1NqVE05MHZpOVYyOUxqWTA?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmhaOXI1SGRQcGFyMkhOOUk3aHhfLWVGbmhjVUNtMkdrWF9lUE55WDVjSVU5S1VGLURfb2dvMVdEYzRXYUY4RFVCczh6aXZzalN3emFVaTQ1N3dySF9ReURJSlNuLVhydjRqa3FvQ3lSWndYd0ZrUE5wUk1XN3NOM1cwalBhWldVaTk5TWw1b1NqVE05MHZpOVYyOUxqWTA?oc=5)
 
 ---
 

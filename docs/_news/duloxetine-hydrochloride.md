@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Duloxetine Hydrochloride 有什麼相關新聞？">
-<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duloxetine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/duloxetine-hydrochloride/
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Qigong bei Krebs: Studie belegt weniger Depression und bessere Lebensqualität](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUw4NDVRaVhpSmpwSmtoYmZXQmVWczJSNlFvZzUxRnAzTWJ3Q3ZhcHJubklZRUpEYVlpdUlrRFpCNmtFMzcxREtKTU5fOGtDTHhOUlJGd1NCOUxUUmx2MjlHcExZWEJ3cllxS1pnZUJqMXBlLUhMTnBHMm4wTlFEU2w3WXBNMW1YUmZ6Y3gzNHRBM1NXSFhSVHhHQ09TTWpueHBxYzZ0akpiWHNvVjlJ?oc=5)
+### [Depression und Angst: KI-Coaching lindert Symptome um 51%](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
 
-2026-07-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span>
+2026-07-18 <span class="news-indication-tag">depression</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUw4NDVRaVhpSmpwSmtoYmZXQmVWczJSNlFvZzUxRnAzTWJ3Q3ZhcHJubklZRUpEYVlpdUlrRFpCNmtFMzcxREtKTU5fOGtDTHhOUlJGd1NCOUxUUmx2MjlHcExZWEJ3cllxS1pnZUJqMXBlLUhMTnBHMm4wTlFEU2w3WXBNMW1YUmZ6Y3gzNHRBM1NXSFhSVHhHQ09TTWpueHBxYzZ0akpiWHNvVjlJ?oc=5)
-
----
-
-### [Une méta-analyse sur 500 000 personnes le confirme : une faible force de préhension augmente le risque de dépression de 42 %](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
-
-2026-07-17 <span class="news-indication-tag">dépression</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRlFSckZLdnZhbi1URWtuVzlab2ZnMjdEY3lYVGVGaVY4V0Q3eWFmdHIwc3dYTkp2RFhNY2QzbDRvYndpcTNScU8xemFPX296N3dyaV9vd2E2YXNwWm84MVJHNDlHdVY2dEt6bkQ4R0drVkhZc01IU0ZCMHRibWRIdm01ZGRWOUlvaVQ2bkVibXl1RzEyWGVveG5jd2lXZndwNWhhRlYtUzgxN0QtVTRVZ0MxTVk0VTlPUXFWRXVWbklSYnFPZ0JRZXU0NVFnajNuTVBpZ2FRdDYyNnI0?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
 
 ---
 

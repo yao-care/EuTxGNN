@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Alzheimer-Therapie: Diranersen bremst Abbau um bis zu 42 Prozent](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
-
-2026-07-18 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">MS</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHVfTm1udEdUWEFRRFEyMENVUmxicWtpcW44RWpRYXE4SVA1MmlTaWpNTDQ5M3pRRWFRWS1HVTNXUktPcGZoMml2ekpwZGZTQ2ZiOGFiQndBR1ZEN2N1RmswSE5KWHAwTkYzRTVFM19jM0EzUE5oWWxZaE1sams2SWFKd2NISUoyS21HMDFFUm5uVGRVRHBrYWpUc1RyQW43UkZ3VkNHcnZQOXJZaUlCSFhB?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
 ---
 
-### [¿Neuropatía craneal motora ocular y enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHJncmF2UUZfV0dJQmtPdHJsU1BUaUY5YWZ1OW0zaDdKRU54UkZfeXdQLVQyR3had0V4R1hxc0lGNkdycjdOQ29xRUhSU3lsSWtqUGk0UC1YUXVvdk1MUTJ2M3dQbE9sWmNLd0R4OTdIU19mM3V4Nkk4XzJ1dnV0MERHWVJsaTVHMlk4RklQSmlTY1NaTW1UWVVaV3JwendtR3ZzTzhPWEd1SkN2UGNJYUlMNkFocHdmb1BDYVJEU0F0WFdMem04YTEzMlFKTEdoNzcxeTV5V1Q?oc=5)
+### [¿Neuropatía craneal motora ocular y enfermedad de Parkinson?](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlRJcHVTMDhzUDh4dlZicWF4blBhTTY2dU05bF9ZWUdhZ2M4UGJVU2ltX0Vxb0U5SWVzVVZjNUlGcDJLdFNGSTIxN0liMlo0Z2J0SW1UczExd3d0ZVJzYnVUbldfS2pJeFBXYTJLUFh4NF9hMlNwQktsR2Y2TTVIYndsVjVFWkI1VklvMTRLWDgtQXMtRjhYYUNSeDU3NDBR?oc=5)
 
 2026-07-17 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHJncmF2UUZfV0dJQmtPdHJsU1BUaUY5YWZ1OW0zaDdKRU54UkZfeXdQLVQyR3had0V4R1hxc0lGNkdycjdOQ29xRUhSU3lsSWtqUGk0UC1YUXVvdk1MUTJ2M3dQbE9sWmNLd0R4OTdIU19mM3V4Nkk4XzJ1dnV0MERHWVJsaTVHMlk4RklQSmlTY1NaTW1UWVVaV3JwendtR3ZzTzhPWEd1SkN2UGNJYUlMNkFocHdmb1BDYVJEU0F0WFdMem04YTEzMlFKTEdoNzcxeTV5V1Q?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlRJcHVTMDhzUDh4dlZicWF4blBhTTY2dU05bF9ZWUdhZ2M4UGJVU2ltX0Vxb0U5SWVzVVZjNUlGcDJLdFNGSTIxN0liMlo0Z2J0SW1UczExd3d0ZVJzYnVUbldfS2pJeFBXYTJLUFh4NF9hMlNwQktsR2Y2TTVIYndsVjVFWkI1VklvMTRLWDgtQXMtRjhYYUNSeDU3NDBR?oc=5)
 
 ---
 
