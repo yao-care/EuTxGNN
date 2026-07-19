@@ -14,7 +14,7 @@ permalink: /news/acalabrutinib/
 ---
 
 <p class="key-answer" data-question="Acalabrutinib 有什麼相關新聞？">
-<strong>Acalabrutinib</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Acalabrutinib</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/acalabrutinib/
 <p><a href="{{ '/drugs/acalabrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（32 則）
+
+### [Krebs-Hoffnung aus der Antarktis: Wie ein kleines Meerestier die Forschung voranbringt - Berliner Kurier](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHM3NWZabTVLcTBYOElrNFpCNDY3dEpRVHlkVlR3d2xqMG5UY2ZBTldNVXlkSjFXY1BMYjVsMEJHck9VbDU3NDhfWU9TRmxhak8zZW4ySWxIN3hTM2wzSWc4ZTc1ejU1SktWVDBUV0F2TmVoaF8xMzBRQmtDZXRkdTlXa3lIUFk?oc=5)
+
+2026-07-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[Berliner Kurier](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHM3NWZabTVLcTBYOElrNFpCNDY3dEpRVHlkVlR3d2xqMG5UY2ZBTldNVXlkSjFXY1BMYjVsMEJHck9VbDU3NDhfWU9TRmxhak8zZW4ySWxIN3hTM2wzSWc4ZTc1ejU1SktWVDBUV0F2TmVoaF8xMzBRQmtDZXRkdTlXa3lIUFk?oc=5)
+
+---
+
+### [Vaccino mirato a Kras: per la prima volta sull'uomo risposte immunitarie durature contro il cancro al pancreas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
+
+2026-07-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
+
+---
 
 ### [Cancer du sein : pourquoi cette association rejette le dépistage organisé et préconise une approche individuelle - St Martin Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWFWT1RVNnk4NVNqVUFtWTZBUTU4MWpHUFBDYkdwcHVXaDdreklFOFVRLXhreDdCVXJxM0VLZkZpenRiZTlXeDBRN1ZXUEZ1azhIMUdJYklXV1UzX0ZVTVR6UGJPdFl4VFp1ajN4T3RBZnB5WlpYS2gzT01URDlfN3lKTWFrU1NWV1dFNmhKN2t0VU5iR3Z5M0t1dG5jNGY5SUM0UmNlOHc5N2s1UElwUGhFNTR6dzRfUVVaTUdlLWJGODVETmdvRm9WU096UFJ6QXNLci1n?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/acalabrutinib/
 
 ---
 
-### [Yolanda Gilaberte, dermatóloga: "Aumenta el riesgo de melanoma el haber sufrido más de cinco quemaduras en la infancia o una con ampollas"](https://news.google.com/rss/articles/CBMiggJBVV95cUxPX2RwZENzNkVWcjNLeVdyOXdOMFZTcEY4NzYweGpwWVlGUFdSUFlTaWV6N2NsWE16VUREd1FxQ1lXSnExcFBHdTdxRjA5UmNRd2RUV1lBSnBfc1dGYkhxNF96MmhtZ3V2SkFlbXZUSC1JTzVmNmVJcElhVjY3MklUMUpzOU81LW45SjZ6WjJVLXNGdTJUSXJpOW4wNE1pVV81MUR4NzlFWHFTb0o0TXpBdkh1RlFBd2tTcW5YMjF3MlpWSHpzRHFZNmNLYzVKSkN4RW5mbFdBcXNVcE8ydlZaZEprREhaQUhLQkFYakFYNlczWlRyd3J6Rk1Idl9GNHUwMFHSAYcCQVVfeXFMTkl0eVhqLWVMaDVUS1FFOVVyYzhRMEVpaUdTcEt3Rjl5Rnl5N3NIam41dFlVTVFWMk9oZ1R6amRCdDk1dERuVUFheWNkOEd5TXVtS2Y4RmVkeUphelZYNl9uQXVPRTFqYmUyY1JLaVJkOHQweVFFaU43U3ZrR0NlODF1V0JjbXRRTG45WU00MFNGMHoydU1OSkVVb2RZaFlFc3JPME1LaFhqUlp0YjM4bFctYXZXc3EyNEx3a2U2cFVSOFd2ZlVMVDVFSVRoTm1aeDRaUzFPSzZxQUdraTFJTGlBNlFxTGducnZzaWx6SUttMXBCVExYRy16TFVDdFJDd0ZMM2RZUGc?oc=5)
+### [Tumore pancreas, come capire se il mal di schiena è un sintomo. L'oncologo: «Ecco quali sono i segnali da considerare» - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbm1yaWI0X1dXQklwbGIzb1h0TzQ2MUZlNHpUdDk0eDJ4cENERDlOZW16aXhscHN5bHBGeEhUY29oNUtEa01QQUZlYVk3M2xUakkzRUFsRUtxTUhZWGwzSTZDdTFDbHRkeFZQR3l4cjdtMGlxdURoUzZPRGI0UmhfVDNfVXBKSUIyLVoyQ1JTelV1Zm8zUVEyV2RkcXBtQ2JwSW4wM0RIbnd6MXdQeVBENlh0Y9IBuAFBVV95cUxOTXJfZlBOQzZ2N2dJZmhZa2M4ekxYbzBEYThpNXZsOGE3Tnc0dTNySGtZOTM2aVg2YnBZbEFLY2kzMEtLSnBHbTlXSHh5ODFhTVVESzVDRk1lcG8ycDREUzB5WlJMSVlYTkItTzdzQUNiX09ieWNCcU84NmtwRkFieEJ0el85WGFwSDFIMEYwTV9OZXpuWmRUb2JZRFZxMWp3YkZkTXFjeUdrTTFicUdNNldqeGhULTY1?oc=5)
 
-2026-07-18 <span class="news-indication-tag">cancer</span>
+2026-07-18 <span class="news-indication-tag">tumor</span>
 
-來源：[COPE](https://news.google.com/rss/articles/CBMiggJBVV95cUxPX2RwZENzNkVWcjNLeVdyOXdOMFZTcEY4NzYweGpwWVlGUFdSUFlTaWV6N2NsWE16VUREd1FxQ1lXSnExcFBHdTdxRjA5UmNRd2RUV1lBSnBfc1dGYkhxNF96MmhtZ3V2SkFlbXZUSC1JTzVmNmVJcElhVjY3MklUMUpzOU81LW45SjZ6WjJVLXNGdTJUSXJpOW4wNE1pVV81MUR4NzlFWHFTb0o0TXpBdkh1RlFBd2tTcW5YMjF3MlpWSHpzRHFZNmNLYzVKSkN4RW5mbFdBcXNVcE8ydlZaZEprREhaQUhLQkFYakFYNlczWlRyd3J6Rk1Idl9GNHUwMFHSAYcCQVVfeXFMTkl0eVhqLWVMaDVUS1FFOVVyYzhRMEVpaUdTcEt3Rjl5Rnl5N3NIam41dFlVTVFWMk9oZ1R6amRCdDk1dERuVUFheWNkOEd5TXVtS2Y4RmVkeUphelZYNl9uQXVPRTFqYmUyY1JLaVJkOHQweVFFaU43U3ZrR0NlODF1V0JjbXRRTG45WU00MFNGMHoydU1OSkVVb2RZaFlFc3JPME1LaFhqUlp0YjM4bFctYXZXc3EyNEx3a2U2cFVSOFd2ZlVMVDVFSVRoTm1aeDRaUzFPSzZxQUdraTFJTGlBNlFxTGducnZzaWx6SUttMXBCVExYRy16TFVDdFJDd0ZMM2RZUGc?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbm1yaWI0X1dXQklwbGIzb1h0TzQ2MUZlNHpUdDk0eDJ4cENERDlOZW16aXhscHN5bHBGeEhUY29oNUtEa01QQUZlYVk3M2xUakkzRUFsRUtxTUhZWGwzSTZDdTFDbHRkeFZQR3l4cjdtMGlxdURoUzZPRGI0UmhfVDNfVXBKSUIyLVoyQ1JTelV1Zm8zUVEyV2RkcXBtQ2JwSW4wM0RIbnd6MXdQeVBENlh0Y9IBuAFBVV95cUxOTXJfZlBOQzZ2N2dJZmhZa2M4ekxYbzBEYThpNXZsOGE3Tnc0dTNySGtZOTM2aVg2YnBZbEFLY2kzMEtLSnBHbTlXSHh5ODFhTVVESzVDRk1lcG8ycDREUzB5WlJMSVlYTkItTzdzQUNiX09ieWNCcU84NmtwRkFieEJ0el85WGFwSDFIMEYwTV9OZXpuWmRUb2JZRFZxMWp3YkZkTXFjeUdrTTFicUdNNldqeGhULTY1?oc=5)
 
 ---
 
@@ -174,14 +190,6 @@ permalink: /news/acalabrutinib/
 
 ---
 
-### [Family's agony as dad and son both diagnosed with cancer - The Worcester News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVo3T3V5Nms2cGZVX3Z2dURJTThzUm4wQl96UDhlb2V4Vkl4RGZpU0ZCdXBTRVJDMC1LWEE1UGNXN2NGdWlYNUVUM2tlckVjQVpwS1NtUTFKVmtSYkNKdEpDc295a2hRbml3LTY4X0NYUzg4LTl1b3Vldy05T3czLTJXeVlMT3IxbHgtQ29YT1Y4QQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[The Worcester News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVo3T3V5Nms2cGZVX3Z2dURJTThzUm4wQl96UDhlb2V4Vkl4RGZpU0ZCdXBTRVJDMC1LWEE1UGNXN2NGdWlYNUVUM2tlckVjQVpwS1NtUTFKVmtSYkNKdEpDc295a2hRbml3LTY4X0NYUzg4LTl1b3Vldy05T3czLTJXeVlMT3IxbHgtQ29YT1Y4QQ?oc=5)
-
----
-
 ### [Un estudio revela que la dieta keto podría actuar de forma opuesta en distintas partes del intestino - Diario de Salud](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTklzMmY2aVgzbFdjYlV6UExhZGJjdHEySmJIclFxYjRzNWpnRmR6enZ6NUtpdXgxTkZjNUFJbEJuSVlURUczQUVZUlhVV3BhS0tkUHFPX0NxUGRJYXBFWEoxNHFFXzdqRndxaE1OeS1qSS05WXc0MUdwc2xRTjlJdlp0RzZjckFEUmR5OHZ5SmhuS29McC1ZZWs4dXFUMTFySkI0bnRnSEVJUm1VdjZEQ21ZWGxKYTl6bzdGNndkaEJBcFNrT0dVMXlXRG9nNXV0TXJ0SjlOY3VWUQ?oc=5)
 
 2026-07-17 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">tumor</span>
@@ -246,6 +254,14 @@ permalink: /news/acalabrutinib/
 
 ---
 
+### [Beth Brown said she never wore SPF and has used sun beds from the age of 22](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnZISGJrdDE0T08yd2pVVzNLM2RNREplblpaQmFRV2JGX01qYVZRcXpTWlFMWEtQa19aV3JNeng2a1RCX2pYdVNFbUdfTTRpaVc4V0pSREp6NE16d1RWVW94OHlmRDhIS0hUOVFySnF4bGtHM2d0d0VKc3d2eGxmZFNteDV0UThLa2ZkOHpjWFE2TDhLRGFqQjRtNVBkWi11aDl3dTFGYkNvM2duakcxbnNjdFJIMWhFN2cxak5WcXRROGNTMjlRMWFITGo1elBTUU9sZ2haWDJOTzlNTHFwYw?oc=5)
+
+2026-07-17 <span class="news-indication-tag">cancer</span>
+
+來源：[facebook.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnZISGJrdDE0T08yd2pVVzNLM2RNREplblpaQmFRV2JGX01qYVZRcXpTWlFMWEtQa19aV3JNeng2a1RCX2pYdVNFbUdfTTRpaVc4V0pSREp6NE16d1RWVW94OHlmRDhIS0hUOVFySnF4bGtHM2d0d0VKc3d2eGxmZFNteDV0UThLa2ZkOHpjWFE2TDhLRGFqQjRtNVBkWi11aDl3dTFGYkNvM2duakcxbnNjdFJIMWhFN2cxak5WcXRROGNTMjlRMWFITGo1elBTUU9sZ2haWDJOTzlNTHFwYw?oc=5)
+
+---
+
 ### [I’ve been diagnosing breast cancer for 35 years – this is what causes real risk - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWU1PT2h5UGtNWHpvSG1QQzZFQTRfYTZpamxHdDZXV1NtRjhYbWdPWFVNQ0wwZHM1VWlJbW5lRzNESGVyMEV0WVlfWWp4czMtU1NiOEFFUUw4cnlyb0ltOW1zVGZaQjYxMTNfRXgtNl9ZV0JKV3VXQmQzMmxGencxTDA2VVZoYzZxam9F?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cancer</span>
@@ -291,14 +307,6 @@ permalink: /news/acalabrutinib/
 2026-07-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNGUmNzN2MwX3dZRVFxVWxYYktPbTNxNE4td3R5SXRyaEJMdUk4MDlUY3VWM0dOZXhwQ0hfMTlHYlE3QVkzdVJNcWl3eVhZekZKNWJScjdEM041ajNHc3I2VHR6bmpoZ1BMaXE4bTJ2elFHSTFvcmNnMzZ5UDR5aHRCV2prWl9rSndZNVhPWjlfOGwzMTliZXplbnZSV0tyR1JlV3lKcnJZbW8?oc=5)
-
----
-
-### [Woman sold house to fund brain cancer treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJeHNYMGJ1WENxTS03LTM5Y21nRXItU2JWNHZOdC1lNHJHQ3NsLUhkdVhYenl3cXNPaDdJMWRIUGg5Ymp3YVhwU3BSZTZDYUs3Sldhcy0wQmtKeGNy?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJeHNYMGJ1WENxTS03LTM5Y21nRXItU2JWNHZOdC1lNHJHQ3NsLUhkdVhYenl3cXNPaDdJMWRIUGg5Ymp3YVhwU3BSZTZDYUs3Sldhcy0wQmtKeGNy?oc=5)
 
 ---
 

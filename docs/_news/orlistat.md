@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（6 則）
 
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ces traitements amaigrissants étaient censés changer leur vie : des patientes rapportent avoir perdu tout intérêt pour ce qu'elles aimaient](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXU4UDFOOTMtUTR5bnVpUW5TOHg4UjlaaTRGZ1JvSEluZ1Qxa3psQndTUUtobWVpNEFRellNT09KQ2RJN0NkN3BzTTE1NnR0YzVpVE5nblRnRW0tcGZ3dnp6M3NJNjNsTFBjNHlUUmIycmh2cWtud3FSdklCQWk2aTBZNDFqbUc3MXJZdUZiTWFyaVZpbUFOV29rOHNvaW1CWms3c2pUdVZ0SEtBYWU2OUFqMV81QmE1REMtdFlDYWpZR2ljYWFVa2kzaWU5UHQ1YncwbUt6MkZUdC1CNURSQUg3NlF1aUdZcVhiTkw0YWUtZw?oc=5)
-
-2026-07-18 <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWXU4UDFOOTMtUTR5bnVpUW5TOHg4UjlaaTRGZ1JvSEluZ1Qxa3psQndTUUtobWVpNEFRellNT09KQ2RJN0NkN3BzTTE1NnR0YzVpVE5nblRnRW0tcGZ3dnp6M3NJNjNsTFBjNHlUUmIycmh2cWtud3FSdklCQWk2aTBZNDFqbUc3MXJZdUZiTWFyaVZpbUFOV29rOHNvaW1CWms3c2pUdVZ0SEtBYWU2OUFqMV81QmE1REMtdFlDYWpZR2ljYWFVa2kzaWU5UHQ1YncwbUt6MkZUdC1CNURSQUg3NlF1aUdZcVhiTkw0YWUtZw?oc=5)
-
----
-
 ### [Beneficios de tirzepatida para apnea obstructiva del sueño](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
-
----
-
-### [Semaglutide, ecco la pillola per dimagrire: come funziona, quanto costa e i consigli per l'assunzione - Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
-
-2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW9peXZPbHo2LUdPOEhnZXNHaFZQTGthaXBiUnJCUnVwTGROZndhck9JYktyNmxHV3VfQi1tZmZWLVYzWHlVTVhLZ0RDak5vUVhOQmUySE4xTXU0SUxPU3ZmTmEwUkVwOS1UMTJLNW9TNmRWYjN3clI4dm1lZ204WHJVTmlHWEttOEgzUDZTWVQyRDdMSGFkOUxNNWZlcEtfbzNiNGJ5SjZGVU0xeVNjd1Q0QlRORkIwNVpvei15ZVJMQ01P0gG-AUFVX3lxTE44MTcwaTY3ZHVsVW9aOXJ1T2VhZXJRY0V3SFRPa1FxZnN3bzhNRDFPc2tUclp0RlJ6ejI2eDJYVi1oUEx2M0I5RHpWdUpqZXZWT0F5NUxOUUdUZHVzeWxReFB1Y1F6TTUxaDhwNTBYQjR3ajVrcEI2dy00bE5GeFFPQ0JQaHBVM2d2NE1CY3Vnb3ZmWUl0SVVhTGFVckdzck85ai1qRzlmRUFESzZxT1E3NUVBRTNvSWFOcVZTcEE?oc=5)
 
 ---
 
@@ -110,27 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
-
----
-
-### [La importancia de descifrar el cerebro para entender el metabolismo y la infertilidad - El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
-
----
-
-### [Caldo estremo: 65mila a rischio nel Mantovano, allerta bimbi, donne incinte e anziani - Gazzetta di Mantova](https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdMMnJaZ3JxdkpqU3dhSmp4T2w4MzFNUFVjb3dxTVkwemVtcms5ZENKTnZwN1NmLUcxMUFMeElsLTdYalZxNHJVODdTLTNrNlNKbldqVlZaZUcxWDd3VDBkVGlkYzJaSENsc0hxQ2gwR2FaUGw0NVJFQzhRR0lUUlJEbjlwbERUWjkyU1lzajJUOFRmWU10R3VLdFVKQ2tVaFp1OUpOS1hqRmxac3Z2S0NGNkltQdIBuwFBVV95cUxPS0hvZ2tTSzJtd2NncU0xd19pWmg0Z1NTaEFQSkYtejlWUXJoMS1BZHdVZllRcElaN1dBVGVJY3FONnI5b3ZBcDJVSEFEcGtNcWgzZkV2cWtuNk11bjBRakJ4cG1zMzMxNVBVbHZRQ25JaUxudTI2QzBfd0JrUUhOREpVaV9jUk42RzR4NWt0UU1VTjQyN0U4NHVBWGdvQ05lZmR6alQwU3ZpamluUU9waUdxamFoVVozSmJJ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">ictus</span>
-
-來源：[Gazzetta di Mantova](https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdMMnJaZ3JxdkpqU3dhSmp4T2w4MzFNUFVjb3dxTVkwemVtcms5ZENKTnZwN1NmLUcxMUFMeElsLTdYalZxNHJVODdTLTNrNlNKbldqVlZaZUcxWDd3VDBkVGlkYzJaSENsc0hxQ2gwR2FaUGw0NVJFQzhRR0lUUlJEbjlwbERUWjkyU1lzajJUOFRmWU10R3VLdFVKQ2tVaFp1OUpOS1hqRmxac3Z2S0NGNkltQdIBuwFBVV95cUxPS0hvZ2tTSzJtd2NncU0xd19pWmg0Z1NTaEFQSkYtejlWUXJoMS1BZHdVZllRcElaN1dBVGVJY3FONnI5b3ZBcDJVSEFEcGtNcWgzZkV2cWtuNk11bjBRakJ4cG1zMzMxNVBVbHZRQ25JaUxudTI2QzBfd0JrUUhOREpVaV9jUk42RzR4NWt0UU1VTjQyN0U4NHVBWGdvQ05lZmR6alQwU3ZpamluUU9waUdxamFoVVozSmJJ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 ---
 

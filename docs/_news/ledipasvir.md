@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（14 則）
+
+### [Una de cada cinco personas desarrollará cáncer a lo largo de su vida, según estimaciones de la OMS - 65 y más](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFMwdnZjbnd4b2RDdzYySl94eTYwbGVLUFNjODZNb2N1MHdLaFcwbHczMUp5dkl1UHdNcHdVWXRxQ3RDNzVPNnEzNVowQ1paeXJmSm9ac3VaN3FZQjRfX3p2dEZMbWtreXlkRDJjNnYtY21EQUZ3RmVXRVU5bFpTLTBvVzJRWEJEM012NTR5M3dVdkpSdFE?oc=5)
+
+2026-07-19 <span class="news-indication-tag">MS</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFMwdnZjbnd4b2RDdzYySl94eTYwbGVLUFNjODZNb2N1MHdLaFcwbHczMUp5dkl1UHdNcHdVWXRxQ3RDNzVPNnEzNVowQ1paeXJmSm9ac3VaN3FZQjRfX3p2dEZMbWtreXlkRDJjNnYtY21EQUZ3RmVXRVU5bFpTLTBvVzJRWEJEM012NTR5M3dVdkpSdFE?oc=5)
+
+---
 
 ### [Studie geplant: Neuartiges Medikament könnte Alzheimer-Symptome bremsen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0ZMb0J2STg1U3BkVlJGaWdDN0NmeVRtbWh5MXRrZTZ0aGRLRkdPbnJrSkhHWGlIUE1fOVZIRkIxRjBhODV4SllfanJNZmVSTGZkampJMlIyenEyNDE1bHd2OHhIRUY3elgyOVVOV29mOVk2SzRNaXp2eTN1OVRrN3ZTX2RTSmlFckFSd2xCVFdzZXdjeGYzVUhpbnRHLTA0cW4yeDUxbEN6NWFCMW9Vekt0Uk53Y1lKbk12XzdLcVVodzducGNvUE9rS0pmbko2?oc=5)
 
@@ -110,14 +118,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [OMS advierte que casos de cáncer se duplicarán para 2050 si no se toman medidas urgentes - Correo del Caroní](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1aa3U2Q0hURUJNN0trdzhNT2J1MlcyZW9zbFNzUGJ6YVB2S0l3VmxlUzVHVnF6V09lV0pqeDNXLWFXYTJYSllsMThFaVhKV3RKZHRvd1R6c01pa3lvc0J6Y2JWMzJldzFIbnVlS3VfY2JBNkI0amYtX0VjcWVSdEdMX0E3LWMxODRHeVc4cG5nSlhjTjB0UGRrYnltcWxDSWg2LV82QzZxbklObE9yN1BaNWVxSVE2MjRZVUpvTm1ZS0xiZ3FhV0FTV0I?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[Correo del Caroní](https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1aa3U2Q0hURUJNN0trdzhNT2J1MlcyZW9zbFNzUGJ6YVB2S0l3VmxlUzVHVnF6V09lV0pqeDNXLWFXYTJYSllsMThFaVhKV3RKZHRvd1R6c01pa3lvc0J6Y2JWMzJldzFIbnVlS3VfY2JBNkI0amYtX0VjcWVSdEdMX0E3LWMxODRHeVc4cG5nSlhjTjB0UGRrYnltcWxDSWg2LV82QzZxbklObE9yN1BaNWVxSVE2MjRZVUpvTm1ZS0xiZ3FhV0FTV0I?oc=5)
-
----
-
 ### [ECT Reprograms Adult Neurons into a Youthful State - Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTE4zNkVoT0lwR1hXbmRWV1Y5aFJJUWQtSC1kNms2X2I3UnRrSGNvcF91a0RuUVk5cFRoTW5ZdnlSY1d2MV9GQTNVc0FYSTZSNUhTQnVLUC01NV9YUVNiMzNwSmVkNDF3NXRHWmpZUXB4X1VMQQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
@@ -150,35 +150,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [L'Alzheimer? Nel 40% dei casi si può prevenire: ecco le regole d'oro - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDBvb0lVODE3c0VjdW9MeC0yOHlzYTJWUl9JTDl2YzNXLVp6RTdBclpvZE5NaE5oa3J4VEZCbTkyZG1pcm1XdVhyRzV6bkt2MnNTYnBmQzNnQ0R2aXJkYTJsWFhqeWtmOVZpV0kxckZyYnY0ZXlfZXhSM1FwRjFDdmFnVGpqeEJxOUZWamZHbEJaWm9iZG9uakRiMzV4eWVVT2JSaG5NaV9rc3BseHBSVNIBtgFBVV95cUxNMmgzb0h0MHJkQ3FNR3VlTVpZeWFrc3pMTnh2ZVpCdzluMjNxakhzM29yMHc3T1BrdEs2WXdqYmVjQkt5ZWQxRnZDMlZsSlRGRzlxd0xoVEJSSThZTnd1Nkp4bDNXX3h0SFU5YTJ6aUxqQkpoOC15QTdaOFNpLW11ZUZ6U0loUm5nX1BRVkxzd0pNd1M3cGxLVUJzX0ttU0NiQ1dLYXRrbnJKamMyT1J0TFBUb243UQ?oc=5)
+### [Demenza, le 5 abitudini che possono prevenire la malattia. I consigli dell'OMS per mantenere il cervello attivo - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFdEX1l0Y3JfSjk0S21QYWNHQkpWM0lmMnoyNk1kWVpoREdKWlN3VVBDc0tSenAta0Y4bkh1b05TUzhGX1g0c2Z0NjRLS2FyVW8tb1dadHp3NjNUWHNfelJWWm9yRzlOQTJVbEdZY3J2MUE2cnlsNlJjalhCMmRTVVhnM0h4THlkTlVTVkxZRElFbHhLcEZNU2JZRU5FMWk4?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDBvb0lVODE3c0VjdW9MeC0yOHlzYTJWUl9JTDl2YzNXLVp6RTdBclpvZE5NaE5oa3J4VEZCbTkyZG1pcm1XdVhyRzV6bkt2MnNTYnBmQzNnQ0R2aXJkYTJsWFhqeWtmOVZpV0kxckZyYnY0ZXlfZXhSM1FwRjFDdmFnVGpqeEJxOUZWamZHbEJaWm9iZG9uakRiMzV4eWVVT2JSaG5NaV9rc3BseHBSVNIBtgFBVV95cUxNMmgzb0h0MHJkQ3FNR3VlTVpZeWFrc3pMTnh2ZVpCdzluMjNxakhzM29yMHc3T1BrdEs2WXdqYmVjQkt5ZWQxRnZDMlZsSlRGRzlxd0xoVEJSSThZTnd1Nkp4bDNXX3h0SFU5YTJ6aUxqQkpoOC15QTdaOFNpLW11ZUZ6U0loUm5nX1BRVkxzd0pNd1M3cGxLVUJzX0ttU0NiQ1dLYXRrbnJKamMyT1J0TFBUb243UQ?oc=5)
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFdEX1l0Y3JfSjk0S21QYWNHQkpWM0lmMnoyNk1kWVpoREdKWlN3VVBDc0tSenAta0Y4bkh1b05TUzhGX1g0c2Z0NjRLS2FyVW8tb1dadHp3NjNUWHNfelJWWm9yRzlOQTJVbEdZY3J2MUE2cnlsNlJjalhCMmRTVVhnM0h4THlkTlVTVkxZRElFbHhLcEZNU2JZRU5FMWk4?oc=5)
 
 ---
 
-### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
-
----
-
-### [Mash: la malattia del fegato diffusa ma poco conosciuta - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
-
-2026-07-17 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
-
----
-
-### [Studie entschlüsselt, wie EBV-Infektion Multiple Sklerose antreibt - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0RjMnplR21SZjY2WlJ4LTR5TkZNc3Y5UlAtdmc2Rk5RU2hKV3RoVWd5VUd0bXlsZTZjZ1QyeF9NaUJKVVVwM1lmYktBYi1RS2FJZG45ZzdnSE41eWw3QXBNbjVmV3loWm1WMUJjbWZBcHQyRFNXQWtSeDFWMmpJMGxVc2RXeWtjajRiZi05eTJjX1RFNXEySTZYT2FSbTA?oc=5)
-
-2026-07-17 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0RjMnplR21SZjY2WlJ4LTR5TkZNc3Y5UlAtdmc2Rk5RU2hKV3RoVWd5VUd0bXlsZTZjZ1QyeF9NaUJKVVVwM1lmYktBYi1RS2FJZG45ZzdnSE41eWw3QXBNbjVmV3loWm1WMUJjbWZBcHQyRFNXQWtSeDFWMmpJMGxVc2RXeWtjajRiZi05eTJjX1RFNXEySTZYT2FSbTA?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 ---
 

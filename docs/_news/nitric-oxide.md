@@ -14,7 +14,7 @@ permalink: /news/nitric-oxide/
 ---
 
 <p class="key-answer" data-question="Nitric Oxide 有什麼相關新聞？">
-<strong>Nitric Oxide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nitric Oxide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/nitric-oxide/
 <p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（22 則）
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+### [Por qué las mujeres son más vulnerables al alzhéimer - 65 y más](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE5XUGRsTHVyZ2d5MjVjRUc3VFFBNnZrM3ludE5GcTFZYnRGUjExVXotLThRWkI4WTZpbWpWZ2FhSHNMMTNyeF95akdPUDFzc01yLUV4OWc1eFBENzc4cGU0WVpQSlBqQWdSRG5KWi1TTHFpVy12UGFNUlRUdWNKVWdhYWpyLVJkWU9laExn?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-19 <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+來源：[65 y más](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE5XUGRsTHVyZ2d5MjVjRUc3VFFBNnZrM3ludE5GcTFZYnRGUjExVXotLThRWkI4WTZpbWpWZ2FhSHNMMTNyeF95akdPUDFzc01yLUV4OWc1eFBENzc4cGU0WVpQSlBqQWdSRG5KWi1TTHFpVy12UGFNUlRUdWNKVWdhYWpyLVJkWU9laExn?oc=5)
+
+---
+
+### [Il ritorno dei medicinali contraffatti: come riconoscerli](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5)
+
+2026-07-18 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/nitric-oxide/
 2026-07-18 <span class="news-indication-tag">AF</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0tRYkpwck5kZWREbFdWeW9YdkRYRFB0WmJOT0Z4TlZDekNIdmJsWXNVOXhfSDRmdnN5UUgtYVRPYlBPX1ZNYVJQMHBleWN3OHljWWhEbFNSMVhVdXl2VF9rektRR1o0Qnh2Z2FxUk5nTWctZzc5eUVJY1JUQXk3STFBN0gyWXBRVmZUd0J1Y0dtTGpvOGVlUnFlS1Nybk9CVktaZ01XRzJJWURzNzNBblNmWQ?oc=5)
-
----
-
-### [Pourquoi voit-on moins de moustiques cet été 2026 ? - Orange Actualités](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUtOVUVkOVF4ejZGZC1DTVU2T3FjU3FuMTVrYS0zXzVsazFYRHRQenFGR2RtODhwaGppazRPeEpTWTVPOWViQzRGMGV1aGlOeHEzRkNvYjJLUW1GRkYzM0VqMFowYVdzSkozRGMwc21tTXVJVUdwRTlkR2dqemEtNEVHUTdFOFNIM2NJWEctU3JYRk1mX2NRT0pWbWhyX2p3YkpJck9RclA?oc=5)
-
-2026-07-18 <span class="news-indication-tag">AF</span>
-
-來源：[Orange Actualités](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUtOVUVkOVF4ejZGZC1DTVU2T3FjU3FuMTVrYS0zXzVsazFYRHRQenFGR2RtODhwaGppazRPeEpTWTVPOWViQzRGMGV1aGlOeHEzRkNvYjJLUW1GRkYzM0VqMFowYVdzSkozRGMwc21tTXVJVUdwRTlkR2dqemEtNEVHUTdFOFNIM2NJWEctU3JYRk1mX2NRT0pWbWhyX2p3YkpJck9RclA?oc=5)
 
 ---
 
@@ -134,14 +134,6 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [Rheumatoide Arthritis: Krafttraining senkt Demenzrisiko um 45%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
-2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
----
-
 ### [Ondate di calore, come proteggere il cuore dei pazienti fragili](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmdRYXdDZ2l4ZDFLM0E3MDRWMC1iNUpjampZRmVERlBObG9UbE5xOGdmci1lcEVCZl85d054cF9zTnNZTkp0d3REbmtMamVSRktYZ01XeTJTXzNIZlBUQV9oV0w5bG92YzY2YS13dU9ORzNYYlE4eWNxM3ZybzlrX2pRcmdnNS1vTHZWSHF1VlFKR2s2Y1QzNC0tRS1hNjUtTjFFTnBmdE9YOTFqQmFXNUFZYw?oc=5)
 
 2026-07-18 <span class="news-indication-tag">AF</span>
@@ -158,11 +150,27 @@ permalink: /news/nitric-oxide/
 
 ---
 
+### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
+
+2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
+
+---
+
 ### [Mamografías con inteligencia artificial: así podrían priorizarse los casos de mayor riesgo](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFFULV9EODd3WXZnWFpVRGJLVVZKeDlhV3VoTlgxaW9sampOaEFQeEZmTWlYb2kwaHpveW52WVZsZEd3TnY2bHFBTUdpQXBjQ1RMUHVaZFJvb3RCcU1oNW1mSzZIYTl5eGJjdWVEdGVSSU40aE51QUdFRmdJYTdtVU5YbUltNGR2TGlBRzJaVjRCRDR1WVNVSjQ5VXdRWW9DSmFsRDdJTjI4UHVYOFpYT01jbFZRWFhoV244Y1YwRzY2a01vS2tmRU9DZEVpd9IB0wFBVV95cUxNTDUxd3ZxeGRISG9TMmZ1OExYOUk4c01RcVdObDhRNkVmLV9Jd2pQbXN4M2I2T0s2M3RlMThTLW8wV3R4X2hnS3c4MnpzcEJZS2FFbnJzdW01MjRNWWUwYUxaM1RjQXJHdVNiNTd2d3RfRkZMV1dxeTl3cGZfQ2FGcHNYTFdETDhxd3JjUWFzeU13Z2NNcUNpbzZTUFpHTkJ5YmF0a2tLb1JKSnczc1VycVc5a3BiNWhOeXFrZmZnOE5xYkxFMlhKU3ktWUxGaVgzYldR?oc=5)
 
 2026-07-17 <span class="news-indication-tag">AF</span>
 
 來源：[Portafolio.co](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFFULV9EODd3WXZnWFpVRGJLVVZKeDlhV3VoTlgxaW9sampOaEFQeEZmTWlYb2kwaHpveW52WVZsZEd3TnY2bHFBTUdpQXBjQ1RMUHVaZFJvb3RCcU1oNW1mSzZIYTl5eGJjdWVEdGVSSU40aE51QUdFRmdJYTdtVU5YbUltNGR2TGlBRzJaVjRCRDR1WVNVSjQ5VXdRWW9DSmFsRDdJTjI4UHVYOFpYT01jbFZRWFhoV244Y1YwRzY2a01vS2tmRU9DZEVpd9IB0wFBVV95cUxNTDUxd3ZxeGRISG9TMmZ1OExYOUk4c01RcVdObDhRNkVmLV9Jd2pQbXN4M2I2T0s2M3RlMThTLW8wV3R4X2hnS3c4MnpzcEJZS2FFbnJzdW01MjRNWWUwYUxaM1RjQXJHdVNiNTd2d3RfRkZMV1dxeTl3cGZfQ2FGcHNYTFdETDhxd3JjUWFzeU13Z2NNcUNpbzZTUFpHTkJ5YmF0a2tLb1JKSnczc1VycVc5a3BiNWhOeXFrZmZnOE5xYkxFMlhKU3ktWUxGaVgzYldR?oc=5)
+
+---
+
+### [Kryptische Schwangerschaft: Baby kommt in Ambulanz zur Welt und überlebt nach 154 Tagen NICU - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWpTR0hCd2NBcER1YS1aZ0FVdkY5WVJJRzBlNk1ueWNON2xQN0toa2EtcFluQVpQWEtJclJwRzFHc1JLbGJ5UFR4THVNbkdYYUM0cWhKQ1Zmc2o2NFFIYmhhajZobXdGeTFmLXZlNlRIRXZrT08wZFdnS1UteGdyc2tZVm1MZ3JKN1hleF9zaS1YRnVaMi12Z3RmalljUjRJVEc4dlBhbzQ5aXVnRmpGeGVVaFVobm9TbF9yc29pRnN2QQ?oc=5)
+
+2026-07-17 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWpTR0hCd2NBcER1YS1aZ0FVdkY5WVJJRzBlNk1ueWNON2xQN0toa2EtcFluQVpQWEtJclJwRzFHc1JLbGJ5UFR4THVNbkdYYUM0cWhKQ1Zmc2o2NFFIYmhhajZobXdGeTFmLXZlNlRIRXZrT08wZFdnS1UteGdyc2tZVm1MZ3JKN1hleF9zaS1YRnVaMi12Z3RmalljUjRJVEc4dlBhbzQ5aXVnRmpGeGVVaFVobm9TbF9yc29pRnN2QQ?oc=5)
 
 ---
 
@@ -206,19 +214,11 @@ permalink: /news/nitric-oxide/
 
 ---
 
-### [TCM gegen Schlafstörungen: Ginseng und Poria zeigen signifikante Effekte](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzNOd0IyWG1CaFNfSEFMX080eUdtSi1UME9HLXhycUE2V2RhdEtlbFlCWFpGVktpeWVhVkg1QndCZG8zaUVBS1RDYVZ6YUpRUGkxdy1OT3FmYzRoRnNsajJXaGx2TFlzcE0zR1R3enBqOFRDanF4V2w3NmFRZVFtTVVWbWdCdnBWTHd4QTJSaGxXYWFLbHphRlV0bl9mUm1LdEJvLWd5aFBldGN0OFk3VFh5bjZ4NU5SYWtrWWd3?oc=5)
-
-2026-07-17 <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzNOd0IyWG1CaFNfSEFMX080eUdtSi1UME9HLXhycUE2V2RhdEtlbFlCWFpGVktpeWVhVkg1QndCZG8zaUVBS1RDYVZ6YUpRUGkxdy1OT3FmYzRoRnNsajJXaGx2TFlzcE0zR1R3enBqOFRDanF4V2w3NmFRZVFtTVVWbWdCdnBWTHd4QTJSaGxXYWFLbHphRlV0bl9mUm1LdEJvLWd5aFBldGN0OFk3VFh5bjZ4NU5SYWtrWWd3?oc=5)
-
----
-
-### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tdE53d05oRkhVaUw2UFhkYXNaLXFNcVYxNW5MSGFnWVhjbHlnSTBYYVBJN2x2Q1dLdGV0d1pnVXlJcHd0TlV4dGJaVQ?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 ---
 
@@ -227,30 +227,6 @@ permalink: /news/nitric-oxide/
 2026-07-17 <span class="news-indication-tag">AF</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHZtNHE1bU1OZnliU1dQNVNCSjBWWU0yblRiS0FLLWpPTzVMRnRxUENPWmJzNEJJdG9zN3BzRDhpMktXM3pSS05iOHhIdkZSenduX184ZDVNNHBrYjhhUmw2d0ltNlBDUEtNbkZmMmV3RFU2T3dfUWdSN01YWXZBWnVrbnc1aGNKRHhzaVluTUYteFd3dEV6UHpDRVlubF9Ybkc5T2tRTzJ3ckg2aUUxZGN4Wm0?oc=5)
-
----
-
-### [»Wir sollten den Geschlechtern gerecht werden« - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdURKdEV3TzNzaHdSSkhMSUhCTXJGMWs1LU9yVFNiNnBxU1VPT2w4Q3c1enRfY2pXZlE0ZGFVbEMzNEVCczdaX25lb1lFRHE3VHA1b3NpcU1aRllCTlcyZktfMTJQMlRlbjlpTjhIUFZEaFllaEF0LUIzOFN4b1pycTl3?oc=5)
-
-2026-07-17 <span class="news-indication-tag">AF</span>
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdURKdEV3TzNzaHdSSkhMSUhCTXJGMWs1LU9yVFNiNnBxU1VPT2w4Q3c1enRfY2pXZlE0ZGFVbEMzNEVCczdaX25lb1lFRHE3VHA1b3NpcU1aRllCTlcyZktfMTJQMlRlbjlpTjhIUFZEaFllaEF0LUIzOFN4b1pycTl3?oc=5)
-
----
-
-### [La importancia de descifrar el cerebro para entender el metabolismo y la infertilidad - El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Progreso de Lugo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm1MbXU4d184V1Y4UWtYN0lwSElYVXV3LTFSWnhTRUpmczYyanA5TWZ6WF9HRUNFUHR3WTAtbjE0ZmtwbDQzazhZU3h6NVdmSXpabUo2U2ZJNnJVVWdMLWIzOS1PbVRlN1pUczAzU2xKRXhabkxPeE5uckRvWGJLTldNb0pwSTNlUV96TlpxeU1oZ1dJWTBpSGN2MUszcThZWEtHWGIwRlVOUDZ4X1RvaHdyXzQtUHREcDc0ZHV3eWU1aFh3VzZJVmg0Z3VWQdIB0wFBVV95cUxOVkFrQTRMd1RnRGF1VUthTDVYd3NqN3FxZzZjWk1jWDEwYy1iMXV4YWxySGE2cmZYYnRvWFJoUXBFcHJEZnRZQ3NYaTBZM0pQUEZUeTNiMmxTYTg4b1JOYVF6dEtrc1BXS3NzNzk5dlhvLVlVSWxuVW04S1QyTFNvSHA2UzRVenA0RWNWOW9FS0pwX2pjb19UQXRNUUhLbm45Ums4U2RhcTFJRjhEZlc1TU9NbEx4UmF5QmZTY0VweWhfT2R3NHhKMkZ1akhSUVZLNl9n?oc=5)
-
----
-
-### [Mash: la malattia del fegato diffusa ma poco conosciuta - Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
-
-2026-07-17 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE52bzVUNWpXOHd3dWVqTkF4NlpMOVU3LThHMlc5TllFMHdSZWZmTGsyWGVJX05Yb1ppYVFyT3J0X0lTTW5tSENxRmIxZ1k4c0liSFVSSHJCYjBZTmViTDB0WFdrRTRjLWN6cDZpR1Ftb0lyV2ZqLUJPdHBLM1lCZ2tHTHU0NEljLWpiN2p2Qk9NRk1Rb3B4Ul9iZkNQZ0RlcnloZHR6VEZqa1YtZGsyQUJWdEFhS2kxc0FjaUQ4UnZXd1hqUjlwSEJmaFZ1WkVOVmsxSVJfX1PSAd4BQVVfeXFMTlo0X1pKdk5RTTM1bzZEc01SZnJRd25ZMll4cG5XZEdvNXltNC15bFhHS3I1WDRZZWlwUjhmc09ZclFPN1JqbzhEeVZ1V0F1eUxvREJoYmdrdHR5d1lrRjBEZi1udENmbnBXbHJBT0F5ZTJ0c2hfOUxUeUlyU29MRlRINEtmTG5WekUzbi11cklReHNMWTROMTEtMTFBd2QxOW5TRFA1NXdEanNoc2M5TEViM3dZckFSbGw5ODVRWjI5WXkyNF9OLThsYU9MZnhjT1BYVDh0NnozOVRPUVV3?oc=5)
 
 ---
 

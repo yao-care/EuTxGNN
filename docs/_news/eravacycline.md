@@ -14,7 +14,7 @@ permalink: /news/eravacycline/
 ---
 
 <p class="key-answer" data-question="Eravacycline 有什麼相關新聞？">
-<strong>Eravacycline</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eravacycline</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/eravacycline/
 <p><a href="{{ '/drugs/eravacycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（41 則）
+## 相關新聞（36 則）
+
+### [Krebs-Hoffnung aus der Antarktis: Wie ein kleines Meerestier die Forschung voranbringt - Berliner Kurier](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHM3NWZabTVLcTBYOElrNFpCNDY3dEpRVHlkVlR3d2xqMG5UY2ZBTldNVXlkSjFXY1BMYjVsMEJHck9VbDU3NDhfWU9TRmxhak8zZW4ySWxIN3hTM2wzSWc4ZTc1ejU1SktWVDBUV0F2TmVoaF8xMzBRQmtDZXRkdTlXa3lIUFk?oc=5)
+
+2026-07-19 <span class="news-indication-tag">Krebs</span>
+
+來源：[Berliner Kurier](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHM3NWZabTVLcTBYOElrNFpCNDY3dEpRVHlkVlR3d2xqMG5UY2ZBTldNVXlkSjFXY1BMYjVsMEJHck9VbDU3NDhfWU9TRmxhak8zZW4ySWxIN3hTM2wzSWc4ZTc1ejU1SktWVDBUV0F2TmVoaF8xMzBRQmtDZXRkdTlXa3lIUFk?oc=5)
+
+---
 
 ### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
 
 ---
 
-### [Rheumatoide Arthritis: Neuer TYK2-Inhibitor erreicht 77% Remission](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0ttWmg2OVQ0bUluQjFSYi1VLW9CMXBic3I1X045eG8wSnMtek1TWW90Y3VyTC1ZYjlUOEY4UFJXRDIyLWVCdHZicUsyZ05lY2N1SFNEWkRYTHRZVGpNOGtDM0VKTFNuXzczTXJhS3Q2RVdrQ1ZOTTg0bGJmWkFiM3h0eDZWT1JJTHN2M19lelpJOE9RWFR0Y3psUHpfY2ZmbzEzaU9KdjhEV3NWZHRjS1lMYmJPazFBSjVKNkxB?oc=5)
+### [Vaccino mirato a Kras: per la prima volta sull'uomo risposte immunitarie durature contro il cancro al pancreas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
 
-2026-07-18 <span class="news-indication-tag">arthritis</span>
+2026-07-18 <span class="news-indication-tag">tumor</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0ttWmg2OVQ0bUluQjFSYi1VLW9CMXBic3I1X045eG8wSnMtek1TWW90Y3VyTC1ZYjlUOEY4UFJXRDIyLWVCdHZicUsyZ05lY2N1SFNEWkRYTHRZVGpNOGtDM0VKTFNuXzczTXJhS3Q2RVdrQ1ZOTTg0bGJmWkFiM3h0eDZWT1JJTHN2M19lelpJOE9RWFR0Y3psUHpfY2ZmbzEzaU9KdjhEV3NWZHRjS1lMYmJPazFBSjVKNkxB?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
 
 ---
 
@@ -78,19 +86,19 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Tumore pancreas, come capire se il mal di schiena è un sintomo. L'oncologo: «Ecco quali sono i segnali da considerare» - Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbm1yaWI0X1dXQklwbGIzb1h0TzQ2MUZlNHpUdDk0eDJ4cENERDlOZW16aXhscHN5bHBGeEhUY29oNUtEa01QQUZlYVk3M2xUakkzRUFsRUtxTUhZWGwzSTZDdTFDbHRkeFZQR3l4cjdtMGlxdURoUzZPRGI0UmhfVDNfVXBKSUIyLVoyQ1JTelV1Zm8zUVEyV2RkcXBtQ2JwSW4wM0RIbnd6MXdQeVBENlh0Y9IBuAFBVV95cUxOTXJfZlBOQzZ2N2dJZmhZa2M4ekxYbzBEYThpNXZsOGE3Tnc0dTNySGtZOTM2aVg2YnBZbEFLY2kzMEtLSnBHbTlXSHh5ODFhTVVESzVDRk1lcG8ycDREUzB5WlJMSVlYTkItTzdzQUNiX09ieWNCcU84NmtwRkFieEJ0el85WGFwSDFIMEYwTV9OZXpuWmRUb2JZRFZxMWp3YkZkTXFjeUdrTTFicUdNNldqeGhULTY1?oc=5)
+
+2026-07-18 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbm1yaWI0X1dXQklwbGIzb1h0TzQ2MUZlNHpUdDk0eDJ4cENERDlOZW16aXhscHN5bHBGeEhUY29oNUtEa01QQUZlYVk3M2xUakkzRUFsRUtxTUhZWGwzSTZDdTFDbHRkeFZQR3l4cjdtMGlxdURoUzZPRGI0UmhfVDNfVXBKSUIyLVoyQ1JTelV1Zm8zUVEyV2RkcXBtQ2JwSW4wM0RIbnd6MXdQeVBENlh0Y9IBuAFBVV95cUxOTXJfZlBOQzZ2N2dJZmhZa2M4ekxYbzBEYThpNXZsOGE3Tnc0dTNySGtZOTM2aVg2YnBZbEFLY2kzMEtLSnBHbTlXSHh5ODFhTVVESzVDRk1lcG8ycDREUzB5WlJMSVlYTkItTzdzQUNiX09ieWNCcU84NmtwRkFieEJ0el85WGFwSDFIMEYwTV9OZXpuWmRUb2JZRFZxMWp3YkZkTXFjeUdrTTFicUdNNldqeGhULTY1?oc=5)
+
+---
+
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
 2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
-
----
-
-### [Yolanda Gilaberte, dermatóloga: "Aumenta el riesgo de melanoma el haber sufrido más de cinco quemaduras en la infancia o una con ampollas"](https://news.google.com/rss/articles/CBMiggJBVV95cUxPX2RwZENzNkVWcjNLeVdyOXdOMFZTcEY4NzYweGpwWVlGUFdSUFlTaWV6N2NsWE16VUREd1FxQ1lXSnExcFBHdTdxRjA5UmNRd2RUV1lBSnBfc1dGYkhxNF96MmhtZ3V2SkFlbXZUSC1JTzVmNmVJcElhVjY3MklUMUpzOU81LW45SjZ6WjJVLXNGdTJUSXJpOW4wNE1pVV81MUR4NzlFWHFTb0o0TXpBdkh1RlFBd2tTcW5YMjF3MlpWSHpzRHFZNmNLYzVKSkN4RW5mbFdBcXNVcE8ydlZaZEprREhaQUhLQkFYakFYNlczWlRyd3J6Rk1Idl9GNHUwMFHSAYcCQVVfeXFMTkl0eVhqLWVMaDVUS1FFOVVyYzhRMEVpaUdTcEt3Rjl5Rnl5N3NIam41dFlVTVFWMk9oZ1R6amRCdDk1dERuVUFheWNkOEd5TXVtS2Y4RmVkeUphelZYNl9uQXVPRTFqYmUyY1JLaVJkOHQweVFFaU43U3ZrR0NlODF1V0JjbXRRTG45WU00MFNGMHoydU1OSkVVb2RZaFlFc3JPME1LaFhqUlp0YjM4bFctYXZXc3EyNEx3a2U2cFVSOFd2ZlVMVDVFSVRoTm1aeDRaUzFPSzZxQUdraTFJTGlBNlFxTGducnZzaWx6SUttMXBCVExYRy16TFVDdFJDd0ZMM2RZUGc?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cancer</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMiggJBVV95cUxPX2RwZENzNkVWcjNLeVdyOXdOMFZTcEY4NzYweGpwWVlGUFdSUFlTaWV6N2NsWE16VUREd1FxQ1lXSnExcFBHdTdxRjA5UmNRd2RUV1lBSnBfc1dGYkhxNF96MmhtZ3V2SkFlbXZUSC1JTzVmNmVJcElhVjY3MklUMUpzOU81LW45SjZ6WjJVLXNGdTJUSXJpOW4wNE1pVV81MUR4NzlFWHFTb0o0TXpBdkh1RlFBd2tTcW5YMjF3MlpWSHpzRHFZNmNLYzVKSkN4RW5mbFdBcXNVcE8ydlZaZEprREhaQUhLQkFYakFYNlczWlRyd3J6Rk1Idl9GNHUwMFHSAYcCQVVfeXFMTkl0eVhqLWVMaDVUS1FFOVVyYzhRMEVpaUdTcEt3Rjl5Rnl5N3NIam41dFlVTVFWMk9oZ1R6amRCdDk1dERuVUFheWNkOEd5TXVtS2Y4RmVkeUphelZYNl9uQXVPRTFqYmUyY1JLaVJkOHQweVFFaU43U3ZrR0NlODF1V0JjbXRRTG45WU00MFNGMHoydU1OSkVVb2RZaFlFc3JPME1LaFhqUlp0YjM4bFctYXZXc3EyNEx3a2U2cFVSOFd2ZlVMVDVFSVRoTm1aeDRaUzFPSzZxQUdraTFJTGlBNlFxTGducnZzaWx6SUttMXBCVExYRy16TFVDdFJDd0ZMM2RZUGc?oc=5)
 
 ---
 
@@ -107,14 +115,6 @@ permalink: /news/eravacycline/
 2026-07-18 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Tribunal du Net](https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGlWaDF2eFltZ2I5VWhIeC1Uc01TNDJQWEdTYzM3djFoNjkyUW80cmhDaWNnUUJIbFhaaXFIbHVSQWhGS2Z1YkkyX016bXNEWW0tekktUTZwYlRhNDFTc0ZyOE1acDNkZF9OaWxwUnh3RjJaVVl5LWlpVzMtWHBNaWl1M0dqZENyUkE?oc=5)
-
----
-
-### [Jen Gale, investigadora: “Los largos periodos sentado se relacionan con más riesgo cardiovascular, diabetes y algunos cánceres; interrumpirlos con pausas sencillas puede ayudar” - La Vanguardia](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS0dQTVYyaXdWTXhmZVVUQXR0bXJTbUphQWltRDdzaEFOcEs0NG9RQkpzNElrRmMzZG9Qd1RQUDZ2QTZQMTNlUy0yclhNVnV4UVgxTGhhbW1tMjNFNVBOTm5aN2RaN21JUzRvNHRpWHNLdm5BaWdZbWR1ZVhGcFJVSEcxeXNWanR2V1NsUG9tcF9MNzB5eER0bW1aNkZwdXRUVTdNdnFqYVEwaFowNFljV21aYmVUNlFTOExwY0xybFpmMXhtbHdIRFZSRWE1NU5oUTg4cGVUSVM2U292M0hhSk1iUlJNbFFiN3FUejhITTVFNndjVDZNNDBmbVVIa0lBSEtmaWlfTGRKeUVpVGtJamwyb0Nna3NnVHVrOVFVeVFFOGRsc0dNTGhwSWo4YmxSRnpqWDVDbk1jbmPSAcACQVVfeXFMTjYtVDZKMGxZcFY4LWh3V2hlWTRVazNKZ1JkcFQwS1BhU1VmOWF6bV9UODZ6Z2ZGNmphaVRGV0YwRkJuSk1BZlRyajZrWEhBelRLNDFIWDJZbW5tS0pkSXhONWMwUl9BQWNWaHBJSmNWaGxXR0c2VVlOaUFuQTFxbVIxNWZmLVB3MWdKbzdsdmZJcUtjYUJLVW9EdEZPLXJuNXNuOVFoOGFyZzRYQ09Db0h2SXVocGdNa2tpb2E0Wm1zQWFGYmlGMDJJUml5ZjZuYXlBVVBiYWRGdDdiZ2VaOENtd1ROYy1FeVYwcGN4V2FMTVkxQ1RERGtrYTB1RkhodEVzYk1sZ0xYUlFiNEpBZV9YNnBOSThrbV96ZmZmTy1idGduS1liUFRqQlc5aTktN2pMM3NwRWdYZjQ1cWpuZXY?oc=5)
-
-2026-07-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS0dQTVYyaXdWTXhmZVVUQXR0bXJTbUphQWltRDdzaEFOcEs0NG9RQkpzNElrRmMzZG9Qd1RQUDZ2QTZQMTNlUy0yclhNVnV4UVgxTGhhbW1tMjNFNVBOTm5aN2RaN21JUzRvNHRpWHNLdm5BaWdZbWR1ZVhGcFJVSEcxeXNWanR2V1NsUG9tcF9MNzB5eER0bW1aNkZwdXRUVTdNdnFqYVEwaFowNFljV21aYmVUNlFTOExwY0xybFpmMXhtbHdIRFZSRWE1NU5oUTg4cGVUSVM2U292M0hhSk1iUlJNbFFiN3FUejhITTVFNndjVDZNNDBmbVVIa0lBSEtmaWlfTGRKeUVpVGtJamwyb0Nna3NnVHVrOVFVeVFFOGRsc0dNTGhwSWo4YmxSRnpqWDVDbk1jbmPSAcACQVVfeXFMTjYtVDZKMGxZcFY4LWh3V2hlWTRVazNKZ1JkcFQwS1BhU1VmOWF6bV9UODZ6Z2ZGNmphaVRGV0YwRkJuSk1BZlRyajZrWEhBelRLNDFIWDJZbW5tS0pkSXhONWMwUl9BQWNWaHBJSmNWaGxXR0c2VVlOaUFuQTFxbVIxNWZmLVB3MWdKbzdsdmZJcUtjYUJLVW9EdEZPLXJuNXNuOVFoOGFyZzRYQ09Db0h2SXVocGdNa2tpb2E0Wm1zQWFGYmlGMDJJUml5ZjZuYXlBVVBiYWRGdDdiZ2VaOENtd1ROYy1FeVYwcGN4V2FMTVkxQ1RERGtrYTB1RkhodEVzYk1sZ0xYUlFiNEpBZV9YNnBOSThrbV96ZmZmTy1idGduS1liUFRqQlc5aTktN2pMM3NwRWdYZjQ1cWpuZXY?oc=5)
 
 ---
 
@@ -166,14 +166,6 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Rheumatoide Arthritis: Krafttraining senkt Demenzrisiko um 45%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
-2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
----
-
 ### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGpCc0hYc3BVOEhUcG5DZVRmblExUlE3djg2MGNMZE9wMEpBYlhDaFl4aEFjc3pocW1ZTXFsS2hzRmRnZ0pSZ0RTT0QxNWd6Uk1seHoxVEVia25vMkw3WUhPOGNoaGlFZzQ3MklHV2M3Y1BYZHQxVmZBaWcxNktMNkJyTENHR3dnNk9SY3VJWGVVNFgzNU44Z0h4ZlFaZk9jbnk3eXpKbGVhR0Rnc3M2bGhXSVpUZS1NX3c0cjBFb3I?oc=5)
 
 2026-07-18 <span class="news-indication-tag">Krebs</span>
@@ -187,6 +179,14 @@ permalink: /news/eravacycline/
 2026-07-18 <span class="news-indication-tag">tumor</span>
 
 來源：[20 Minuten](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFB3Zll0T2dNTXNNZmhBM0ZzQkFLVUkyRnFZU3hKZ0kxX1NWaWxXUUYwdXBkZk81MURENzZjLUJKYlYtdGx0Y3VuV0tfRjBWYUlyVXZ1bE84Z25hdWFwelJuSUJnQk1SaTNsZFBoRGw1YVIxaHA2ZWxKbHFHR2x0ekdCWVBNdWlYRFd0M2thYjZYRl9xUENWWDZyeUFRRHFKZE5ndWc1dzcwUkJuS0JYT09VUXd0S2tsWkE?oc=5)
+
+---
+
+### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
+
+2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 
 ---
 
@@ -219,14 +219,6 @@ permalink: /news/eravacycline/
 2026-07-17 <span class="news-indication-tag">tumor</span>
 
 來源：[El Faro de La Palma](https://news.google.com/rss/articles/CBMif0FVX3lxTE51TnppOEVqV2d6akMzS2FPa3ZlUzJPUnNXUWxpYUJieVZEZVFYR0Q1V3pJNXBCUTFsVjVub2xEdGlEWno5bDgtbkstWEFYUVFWeEx4S1M1WDVZaW5MT0t0d0pmSnVTTVpWRGo4LVMyaFk2c3gtbzBZbVplMTc0VE0?oc=5)
-
----
-
-### [Family's agony as dad and son both diagnosed with cancer - The Worcester News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVo3T3V5Nms2cGZVX3Z2dURJTThzUm4wQl96UDhlb2V4Vkl4RGZpU0ZCdXBTRVJDMC1LWEE1UGNXN2NGdWlYNUVUM2tlckVjQVpwS1NtUTFKVmtSYkNKdEpDc295a2hRbml3LTY4X0NYUzg4LTl1b3Vldy05T3czLTJXeVlMT3IxbHgtQ29YT1Y4QQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[The Worcester News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVo3T3V5Nms2cGZVX3Z2dURJTThzUm4wQl96UDhlb2V4Vkl4RGZpU0ZCdXBTRVJDMC1LWEE1UGNXN2NGdWlYNUVUM2tlckVjQVpwS1NtUTFKVmtSYkNKdEpDc295a2hRbml3LTY4X0NYUzg4LTl1b3Vldy05T3czLTJXeVlMT3IxbHgtQ29YT1Y4QQ?oc=5)
 
 ---
 
@@ -294,6 +286,14 @@ permalink: /news/eravacycline/
 
 ---
 
+### [Beth Brown said she never wore SPF and has used sun beds from the age of 22](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnZISGJrdDE0T08yd2pVVzNLM2RNREplblpaQmFRV2JGX01qYVZRcXpTWlFMWEtQa19aV3JNeng2a1RCX2pYdVNFbUdfTTRpaVc4V0pSREp6NE16d1RWVW94OHlmRDhIS0hUOVFySnF4bGtHM2d0d0VKc3d2eGxmZFNteDV0UThLa2ZkOHpjWFE2TDhLRGFqQjRtNVBkWi11aDl3dTFGYkNvM2duakcxbnNjdFJIMWhFN2cxak5WcXRROGNTMjlRMWFITGo1elBTUU9sZ2haWDJOTzlNTHFwYw?oc=5)
+
+2026-07-17 <span class="news-indication-tag">cancer</span>
+
+來源：[facebook.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnZISGJrdDE0T08yd2pVVzNLM2RNREplblpaQmFRV2JGX01qYVZRcXpTWlFMWEtQa19aV3JNeng2a1RCX2pYdVNFbUdfTTRpaVc4V0pSREp6NE16d1RWVW94OHlmRDhIS0hUOVFySnF4bGtHM2d0d0VKc3d2eGxmZFNteDV0UThLa2ZkOHpjWFE2TDhLRGFqQjRtNVBkWi11aDl3dTFGYkNvM2duakcxbnNjdFJIMWhFN2cxak5WcXRROGNTMjlRMWFITGo1elBTUU9sZ2haWDJOTzlNTHFwYw?oc=5)
+
+---
+
 ### [I’ve been diagnosing breast cancer for 35 years – this is what causes real risk - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWU1PT2h5UGtNWHpvSG1QQzZFQTRfYTZpamxHdDZXV1NtRjhYbWdPWFVNQ0wwZHM1VWlJbW5lRzNESGVyMEV0WVlfWWp4czMtU1NiOEFFUUw4cnlyb0ltOW1zVGZaQjYxMTNfRXgtNl9ZV0JKV3VXQmQzMmxGencxTDA2VVZoYzZxam9F?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cancer</span>
@@ -334,51 +334,11 @@ permalink: /news/eravacycline/
 
 ---
 
-### [Pilar García Durruti, endocrina: “La diabetes tipo 2 no suele aparecer de un día para otro: en la mayoría de los casos existe una fase previa que puede prolongarse durante años sin síntomas” - La Vanguardia](https://news.google.com/rss/articles/CBMipgJBVV95cUxNdm9FUkNtVHNBbW5Fc09BdzlCT2J2SDlNTjFwb3lsS1NZaG8tZXdpVVVoUDQxMndoUHNjTldCWEJHVjZHc0VmTm9fZTFsRjFkM3VUOXNMaXlrR3hka1l0MDZkNlQxTlFjb2dBX1ZjRDEybFhYdVB0aXdZZUZvalNiZ2k0RGE5TGRFM21zdURGc3N2SVd2Z0pjakFDQ0tOWEhMOEVsRlFIelJYd3dGeTFYMV8wZHVvWHoxLWRQMWttbFRzTVF1RjhsV1JyZGxuYzdZR0NZdlNtZURKY3E3TUFkd2dva2d6ay1HaGpabmxpOXpBR2lIOUszWTlqbVN0a3c2R1Bnb1ZMTkZaQUttZWdrbE83VmwzN3hxNkhVUE92dnh0b0RXM2fSAasCQVVfeXFMUFlzX2hMSGZnYm5QNVBJbkdhWC1yQ180U2syRFRVcl8yUEJOc2Myem1YazB1bXJ0RjJkRlc1YVR2WjVXeXhoUVlxdk40UFkyYnA1VzhkNHpXVVRZRFlET2daejY2YW1oLWs2Qmd1b3ZmTEdDSE5jT3pCVmZXd2s3VGFFRzFDdEhWVFZrWXAzNWNBX2RoY1FqRGdBNmRnYnN5V1RnWWNNQXpSc0JxSzAxMjRKaFFqSGo2S3FIQjRnWXRzN0s5d3BPajNycFVFUDNmaEhqbHZsV19pVDVxOGNlekdGam1CRlVUa3hTbGotRE1nMjloanJ3VkNjd0NRaFp5VmxndzRoMjFCYnIwN0NER0k5MnFna2RvMHNSOHRyeW9PTlF4dGdIUlNtRE0?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMipgJBVV95cUxNdm9FUkNtVHNBbW5Fc09BdzlCT2J2SDlNTjFwb3lsS1NZaG8tZXdpVVVoUDQxMndoUHNjTldCWEJHVjZHc0VmTm9fZTFsRjFkM3VUOXNMaXlrR3hka1l0MDZkNlQxTlFjb2dBX1ZjRDEybFhYdVB0aXdZZUZvalNiZ2k0RGE5TGRFM21zdURGc3N2SVd2Z0pjakFDQ0tOWEhMOEVsRlFIelJYd3dGeTFYMV8wZHVvWHoxLWRQMWttbFRzTVF1RjhsV1JyZGxuYzdZR0NZdlNtZURKY3E3TUFkd2dva2d6ay1HaGpabmxpOXpBR2lIOUszWTlqbVN0a3c2R1Bnb1ZMTkZaQUttZWdrbE83VmwzN3hxNkhVUE92dnh0b0RXM2fSAasCQVVfeXFMUFlzX2hMSGZnYm5QNVBJbkdhWC1yQ180U2syRFRVcl8yUEJOc2Myem1YazB1bXJ0RjJkRlc1YVR2WjVXeXhoUVlxdk40UFkyYnA1VzhkNHpXVVRZRFlET2daejY2YW1oLWs2Qmd1b3ZmTEdDSE5jT3pCVmZXd2s3VGFFRzFDdEhWVFZrWXAzNWNBX2RoY1FqRGdBNmRnYnN5V1RnWWNNQXpSc0JxSzAxMjRKaFFqSGo2S3FIQjRnWXRzN0s5d3BPajNycFVFUDNmaEhqbHZsV19pVDVxOGNlekdGam1CRlVUa3hTbGotRE1nMjloanJ3VkNjd0NRaFp5VmxndzRoMjFCYnIwN0NER0k5MnFna2RvMHNSOHRyeW9PTlF4dGdIUlNtRE0?oc=5)
-
----
-
 ### [Alle Betroffenen hatten bereits Metastasen: Neue Genmutation alarmiert Prostatakrebs-Forscher - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNGUmNzN2MwX3dZRVFxVWxYYktPbTNxNE4td3R5SXRyaEJMdUk4MDlUY3VWM0dOZXhwQ0hfMTlHYlE3QVkzdVJNcWl3eVhZekZKNWJScjdEM041ajNHc3I2VHR6bmpoZ1BMaXE4bTJ2elFHSTFvcmNnMzZ5UDR5aHRCV2prWl9rSndZNVhPWjlfOGwzMTliZXplbnZSV0tyR1JlV3lKcnJZbW8?oc=5)
 
 2026-07-17 <span class="news-indication-tag">Krebs</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUNGUmNzN2MwX3dZRVFxVWxYYktPbTNxNE4td3R5SXRyaEJMdUk4MDlUY3VWM0dOZXhwQ0hfMTlHYlE3QVkzdVJNcWl3eVhZekZKNWJScjdEM041ajNHc3I2VHR6bmpoZ1BMaXE4bTJ2elFHSTFvcmNnMzZ5UDR5aHRCV2prWl9rSndZNVhPWjlfOGwzMTliZXplbnZSV0tyR1JlV3lKcnJZbW8?oc=5)
-
----
-
-### [Rheumatoide Arthritis – auch auf die Lunge achten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
-
-2026-07-17 <span class="news-indication-tag">arthritis</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWS1XUWJjbjBfbjllSWp5d09maVYtaGVjeHk2UHJIQlpiaDA3dEJPS2ZVRVI4YzJRZXFha0UyOHNEN2pic0tINkNFN01XWjZuWl94SHVCb240dDV2VUNJdEJOaWRLcFVTX0VIdEppeDlTX3NzMmlFcmlBcEUxeWN0c1pXMVY0ZUlRMnN1WVV3MFRQNzFVSUg3VmFyVWgtV3Y5Z3c?oc=5)
-
----
-
-### [CGM für Typ-2-Diabetes: Blutzucker sinkt um einen Prozentpunkt](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHgzaWNmQmxONThmN3R0cFdocTJRTUxSSk5ZVi1zLVhndXlFTDBNd1dUR0FIWHNRT3J4dUJzVVRTSXhwY0I5OU9JdVR4eHZmLXNiRkNaMDZFQUZGSjNXTm5zTTlqU3hObEZzSTk1eVBULUdnWXlOUW1EU05BZFJTYi1YUGRVa0U2ZVdLc1FmRjdFczFieEItZ0tyekNoMWhiVGxXRnFCTXd3cmZIWDRrbw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHgzaWNmQmxONThmN3R0cFdocTJRTUxSSk5ZVi1zLVhndXlFTDBNd1dUR0FIWHNRT3J4dUJzVVRTSXhwY0I5OU9JdVR4eHZmLXNiRkNaMDZFQUZGSjNXTm5zTTlqU3hObEZzSTk1eVBULUdnWXlOUW1EU05BZFJTYi1YUGRVa0U2ZVdLc1FmRjdFczFieEItZ0tyekNoMWhiVGxXRnFCTXd3cmZIWDRrbw?oc=5)
-
----
-
-### [Woman sold house to fund brain cancer treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJeHNYMGJ1WENxTS03LTM5Y21nRXItU2JWNHZOdC1lNHJHQ3NsLUhkdVhYenl3cXNPaDdJMWRIUGg5Ymp3YVhwU3BSZTZDYUs3Sldhcy0wQmtKeGNy?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJeHNYMGJ1WENxTS03LTM5Y21nRXItU2JWNHZOdC1lNHJHQ3NsLUhkdVhYenl3cXNPaDdJMWRIUGg5Ymp3YVhwU3BSZTZDYUs3Sldhcy0wQmtKeGNy?oc=5)
-
----
-
-### [Nueva prueba de la importancia de una familia feliz: el trauma infantil genera enfermedades físicas de adulto - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2p0aHdsS0lIamswVFp3TmZiWnEyT3JZUG9MYTRyQzVnUUM5SEN4dWZ1c0tpQTNhalZFUl84N2xrRVhPN1ZGSmZJNTAteTJUT20xNlgxZ1AtSDUtdXRzYVRJZVZ0a1hfVFlMdXFuelB5Y28zWlJUTExhdTFLMUY5UlN2Q3dtSm1uSnFsdDNTYy1nb2NqdTB3YWQ5MGx2Rlo0UTQ3SnpvNU9XMjhjSWdtMVpWSkxfRWZfdHNVZGhBNW9Ga05MOGszcFppWjhUU3R0UUpRekt4SWRwamPSAeABQVVfeXFMT3RtOUZQMzd0WkMwdi1xRjRfS0RuSDY2WkVUbXlXaVNpZ28yVlFMZU9Dd2F0SDNHMjhKQmhMTXpGUHYzQzB5SHlLZS0xNVBCakJXWnZSTDN6VHZmUlAtc3Z5SmtqcDBQZVcySkZOZWg3SkxhWmVOcFl6ZDBPQ2w1Z3NjSFgtdXFCM2t1bUl3Qi00NVUwUFdBZ0p0bDFCd0hOZEhfSEVKZ21iUTZDNm1NWGxGMjBhck5QejdWeERNaExXSlVOOXJkeVM2cFBjbU1qQUk2US1KNk1mdlU2NGpoSEY?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2p0aHdsS0lIamswVFp3TmZiWnEyT3JZUG9MYTRyQzVnUUM5SEN4dWZ1c0tpQTNhalZFUl84N2xrRVhPN1ZGSmZJNTAteTJUT20xNlgxZ1AtSDUtdXRzYVRJZVZ0a1hfVFlMdXFuelB5Y28zWlJUTExhdTFLMUY5UlN2Q3dtSm1uSnFsdDNTYy1nb2NqdTB3YWQ5MGx2Rlo0UTQ3SnpvNU9XMjhjSWdtMVpWSkxfRWZfdHNVZGhBNW9Ga05MOGszcFppWjhUU3R0UUpRekt4SWRwamPSAeABQVVfeXFMT3RtOUZQMzd0WkMwdi1xRjRfS0RuSDY2WkVUbXlXaVNpZ28yVlFMZU9Dd2F0SDNHMjhKQmhMTXpGUHYzQzB5SHlLZS0xNVBCakJXWnZSTDN6VHZmUlAtc3Z5SmtqcDBQZVcySkZOZWg3SkxhWmVOcFl6ZDBPQ2w1Z3NjSFgtdXFCM2t1bUl3Qi00NVUwUFdBZ0p0bDFCd0hOZEhfSEVKZ21iUTZDNm1NWGxGMjBhck5QejdWeERNaExXSlVOOXJkeVM2cFBjbU1qQUk2US1KNk1mdlU2NGpoSEY?oc=5)
 
 ---
 

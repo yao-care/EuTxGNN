@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Depression und Angst: KI-Coaching lindert Symptome um 51%](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
 
@@ -45,11 +45,11 @@ permalink: /news/depression/
 
 ---
 
-### [¿Cuáles son los beneficios para tu mente de tener una buena condición física?](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRm82U0sxY2FKR1ltVmtOdDVKSENFcEk5UmcwTVJMWHFsYjUyZk9ObUVYaXpBcnhVTkthREtMMDBNV3ZXZFdBb2c4eTU2cWhKRDNCbjZGSVhzZXd6RloxNnNPTlgyQzRiWTdhXzFJRDBzMGJJVVFRZEY2UmZJVmZBZkwyc2FkS0RMdTF5dEdIeTdFZmZ4ZWg1Rmh5Z0huSFZ6Zk5Yb3I4VnJEZ25YWjhrbmJBVll1NDE5MW5OYnNyUDY3RFlONU10aE5CXzVPd0lrc1ZWMmozZzNtdmduVVlXT9IB4AFBVV95cUxNRm82U0sxY2FKR1ltVmtOdDVKSENFcEk5UmcwTVJMWHFsYjUyZk9ObUVYaXpBcnhVTkthREtMMDBNV3ZXZFdBb2c4eTU2cWhKRDNCbjZGSVhzZXd6RloxNnNPTlgyQzRiWTdhXzFJRDBzMGJJVVFRZEY2UmZJVmZBZkwyc2FkS0RMdTF5dEdIeTdFZmZ4ZWg1Rmh5Z0huSFZ6Zk5Yb3I4VnJEZ25YWjhrbmJBVll1NDE5MW5OYnNyUDY3RFlONU10aE5CXzVPd0lrc1ZWMmozZzNtdmduVVlXTw?oc=5)
+### [¿La depresión está escrita en los genes? Un estudio identifica 19 claves genéticas relacionadas con el trastorno - Diario Las Américas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX2k0eE93dGZmbnRteTVNdVpPTnhnLVBlanVPQ2hBSFdjNDZHaTNGMVFaeEdQRWM0Sy1RS2g2cmhqVU1JTnZIbFhwam91MUIyU0xCQ1VxQnEzUUJNaUVoWlJIenNkWFZ1Zlg0bm5GSHFnbWFvbkJnZlFENFR1WnJ0RFhTbmpKZ3pfVVF0OU14MHhvSDRwa2hrbzJ5Qy1jdi1WdFRjV2k1VTRmR1poblVxYy1FcUJjbklQMm13TTZGR2RWRFRCaWNWOU1tdUh2VXgzclA2ZXR6cXBVYVZxVm1vZFhlcXdTWnRHZ29mUdIB8gFBVV95cUxPM2N4aG9SVW1Wb05FSFhOLW04aUppbzdNV1NfaXZ0MFJVX2RCZVJ5YWtHQ2ZSM181X3Zzbk5OX2diWmNXd3YzSU1mSEh2Smk3TklOV0pUck1HS3ptTGRwLU5TTlR1N19INGhfU2pvQWxWOUdIMmozSHhGUFFkVnBqelV3RFZ2SVFZT2V6SHBxblI1NFBocVZtb1ZpVVoxS0dIVWEwOWFKRmlTLUUtYlVUQnd0Zk1Td1ZBZ2lRSURVMXBVazFxeHMzTGZ6eElsbVdXYjdZMlQzWEszZHo4M2pOZGZJU1VqOTA3clM5clM5WG1GZw?oc=5)
 
 2026-07-17
 
-來源：[sumedico.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRm82U0sxY2FKR1ltVmtOdDVKSENFcEk5UmcwTVJMWHFsYjUyZk9ObUVYaXpBcnhVTkthREtMMDBNV3ZXZFdBb2c4eTU2cWhKRDNCbjZGSVhzZXd6RloxNnNPTlgyQzRiWTdhXzFJRDBzMGJJVVFRZEY2UmZJVmZBZkwyc2FkS0RMdTF5dEdIeTdFZmZ4ZWg1Rmh5Z0huSFZ6Zk5Yb3I4VnJEZ25YWjhrbmJBVll1NDE5MW5OYnNyUDY3RFlONU10aE5CXzVPd0lrc1ZWMmozZzNtdmduVVlXT9IB4AFBVV95cUxNRm82U0sxY2FKR1ltVmtOdDVKSENFcEk5UmcwTVJMWHFsYjUyZk9ObUVYaXpBcnhVTkthREtMMDBNV3ZXZFdBb2c4eTU2cWhKRDNCbjZGSVhzZXd6RloxNnNPTlgyQzRiWTdhXzFJRDBzMGJJVVFRZEY2UmZJVmZBZkwyc2FkS0RMdTF5dEdIeTdFZmZ4ZWg1Rmh5Z0huSFZ6Zk5Yb3I4VnJEZ25YWjhrbmJBVll1NDE5MW5OYnNyUDY3RFlONU10aE5CXzVPd0lrc1ZWMmozZzNtdmduVVlXTw?oc=5)
+來源：[Diario Las Américas](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX2k0eE93dGZmbnRteTVNdVpPTnhnLVBlanVPQ2hBSFdjNDZHaTNGMVFaeEdQRWM0Sy1RS2g2cmhqVU1JTnZIbFhwam91MUIyU0xCQ1VxQnEzUUJNaUVoWlJIenNkWFZ1Zlg0bm5GSHFnbWFvbkJnZlFENFR1WnJ0RFhTbmpKZ3pfVVF0OU14MHhvSDRwa2hrbzJ5Qy1jdi1WdFRjV2k1VTRmR1poblVxYy1FcUJjbklQMm13TTZGR2RWRFRCaWNWOU1tdUh2VXgzclA2ZXR6cXBVYVZxVm1vZFhlcXdTWnRHZ29mUdIB8gFBVV95cUxPM2N4aG9SVW1Wb05FSFhOLW04aUppbzdNV1NfaXZ0MFJVX2RCZVJ5YWtHQ2ZSM181X3Zzbk5OX2diWmNXd3YzSU1mSEh2Smk3TklOV0pUck1HS3ptTGRwLU5TTlR1N19INGhfU2pvQWxWOUdIMmozSHhGUFFkVnBqelV3RFZ2SVFZT2V6SHBxblI1NFBocVZtb1ZpVVoxS0dIVWEwOWFKRmlTLUUtYlVUQnd0Zk1Td1ZBZ2lRSURVMXBVazFxeHMzTGZ6eElsbVdXYjdZMlQzWEszZHo4M2pOZGZJU1VqOTA3clM5clM5WG1GZw?oc=5)
 
 ---
 
@@ -58,14 +58,6 @@ permalink: /news/depression/
 2026-07-17
 
 來源：[Newsweek](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkVQNktXVWpXa1ZRN2ZOUHFadXgzdE5DV25FV3JBVTNhT19YbTdFeU5XN2VhZ0VJMHpRUzl1WkJJcFQ5VHVBWExoSXdhT19MdEVLWmFEdGthWUd5eFNXY3J5SmxhRENtbDhlUkNNWE9aMUUxc1VZai04YWc4LVBkQmNrbUhMYzE1eXVzS0lUTjhnQlJO?oc=5)
-
----
-
-### [Un estudio identifica una veintena de genes vinculados a la depresión y la ansiedad regulados por RBFOX1](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFhCMmJmdlh1VkZ5YUdIem1MTHFLdF9ENmYweHMtRjdySXJ5WTI2M3pDTlRyWXQxZUtmZGVTYS05ekQxZFFJY3gwMVkzMUgzN2VjQnFpTWVuaG13YXpMMG9tYTQ2ZFAtcXpzMU80UU9kenVlS1hyNUVRUFQyb0Z6cmV6RTlyMXFKTWtjZzRqY3hVUHFkWk8tV3B0aFMwZWtiajgzdUZwb3c3akZ6Nmg5VmRSVmJHR203ZzNKVEx2bjA4b21rb1hEdmw4V0QxYlZNNHg2QVRoTGo?oc=5)
-
-2026-07-17
-
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFhCMmJmdlh1VkZ5YUdIem1MTHFLdF9ENmYweHMtRjdySXJ5WTI2M3pDTlRyWXQxZUtmZGVTYS05ekQxZFFJY3gwMVkzMUgzN2VjQnFpTWVuaG13YXpMMG9tYTQ2ZFAtcXpzMU80UU9kenVlS1hyNUVRUFQyb0Z6cmV6RTlyMXFKTWtjZzRqY3hVUHFkWk8tV3B0aFMwZWtiajgzdUZwb3c3akZ6Nmg5VmRSVmJHR203ZzNKVEx2bjA4b21rb1hEdmw4V0QxYlZNNHg2QVRoTGo?oc=5)
 
 ---
 
