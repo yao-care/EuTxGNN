@@ -64,17 +64,17 @@ permalink: /news/tezepelumab/
 
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
 ---
 
-### [Sobering explanation behind why people in these three countries barely get cancer](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
+### [Still in the dark: effects of sex differences on statin-associated diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
 
 ---
 

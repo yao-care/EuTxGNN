@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="Lecanemab 有什麼相關新聞？">
-<strong>Lecanemab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lecanemab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lecanemab/
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
 
@@ -62,27 +62,19 @@ permalink: /news/lecanemab/
 
 ---
 
-### [Studie geplant: Neuartiges Medikament könnte Alzheimer-Symptome bremsen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0ZMb0J2STg1U3BkVlJGaWdDN0NmeVRtbWh5MXRrZTZ0aGRLRkdPbnJrSkhHWGlIUE1fOVZIRkIxRjBhODV4SllfanJNZmVSTGZkampJMlIyenEyNDE1bHd2OHhIRUY3elgyOVVOV29mOVk2SzRNaXp2eTN1OVRrN3ZTX2RTSmlFckFSd2xCVFdzZXdjeGYzVUhpbnRHLTA0cW4yeDUxbEN6NWFCMW9Vekt0Uk53Y1lKbk12XzdLcVVodzducGNvUE9rS0pmbko2?oc=5)
-
-2026-07-18 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">MS</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0ZMb0J2STg1U3BkVlJGaWdDN0NmeVRtbWh5MXRrZTZ0aGRLRkdPbnJrSkhHWGlIUE1fOVZIRkIxRjBhODV4SllfanJNZmVSTGZkampJMlIyenEyNDE1bHd2OHhIRUY3elgyOVVOV29mOVk2SzRNaXp2eTN1OVRrN3ZTX2RTSmlFckFSd2xCVFdzZXdjeGYzVUhpbnRHLTA0cW4yeDUxbEN6NWFCMW9Vekt0Uk53Y1lKbk12XzdLcVVodzducGNvUE9rS0pmbko2?oc=5)
-
----
-
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
 ---
 
-### [Sobering explanation behind why people in these three countries barely get cancer](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
+### [Still in the dark: effects of sex differences on statin-associated diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
 
-2026-07-17 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">cancer</span>
+2026-07-17 <span class="news-indication-tag">diabetes</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
 
 ---
 

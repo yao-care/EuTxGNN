@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
 
 2026-07-18 <span class="news-indication-tag">migraña</span>
 
 來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
-
----
-
-### [Migräne senkt Demenzrisiko: Rotterdam-Studie zeigt 30 Prozent weniger Erkrankungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
-
-2026-07-17 <span class="news-indication-tag">Migräne</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
 
 ---
 

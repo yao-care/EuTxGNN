@@ -54,11 +54,11 @@ permalink: /news/bupropion/
 
 ## 相關新聞（5 則）
 
-### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+### [Patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-19 <span class="news-indication-tag">obesidad</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+來源：[Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
 ---
 

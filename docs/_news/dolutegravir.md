@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Chronische Hepatitis B: Bepirovirsen erreicht funktionelle Heilungsraten bis 26 % - Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
+
+2026-07-19 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
+
+---
 
 
 <div class="disclaimer">

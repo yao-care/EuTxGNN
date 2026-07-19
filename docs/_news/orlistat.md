@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+### [Patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-19 <span class="news-indication-tag">obesidad</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+來源：[Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/orlistat/
 2026-07-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUdoYU91a1dUTHpUNEdNUXVIQXdnZDRaZ1hGcnhCN3R3Mi1XY180WUZZdTVnY3BFLVNGTHFaN3JYemtQTTFLWTBTRktrVHNaYXNqRzVkTzlKWjFVcHB3MGVoZzQ4QV9WeWNUR2NWcmpGeUJoMEdaLTliSjhUMFpkNWRoUUR3UEhUU3A4VlRYQ3FmRElNM3oxQUNQZHNnSENWVDBqLVNybll4aFRuRU1VQUlUal9ZY1JaRTQtbnRtOTlBUEnSAb4BQVVfeXFMTXRUdnJRQXJ3WXhoV0w5bXk3Wl8xNmtqNzN2WE9qREJaemlwNVU3eHVuMjU2R3YzWC1XTTRKcTZPS0ZYUEx6OGtTV0cxeE1rNGhoSUF6bzJLbnd6aGVVUzM0eG55d19vZnNHU3RYWV9RS0ZzWlREZ2h0RTBFbDd5Vlh0dTVnRE9mRzlTQlYzZGJBV2xVZWxJNDZkdjVCN3NQWkpoZGN4MUhkX0VzU1R0a2ROMnp4YnZ4eU9ucHFCQQ?oc=5)
-
----
-
-### [Neue Perspektive für die Schlaganfalltherapie / Neuroprotektion durch Blockade von NLRP3 in Akutphase des Schlaganfalls - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aDFhaEswTVl5WEhoV2hROEkwVnRSeHhtSVlXVEJqMkhkOTBTNmlYTENNM0dLZWxTbjdGSFhEVGtlSTJDNzFia0IySQ?oc=5)
 
 ---
 

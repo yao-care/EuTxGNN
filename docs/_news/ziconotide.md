@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+### [Patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-07-19 <span class="news-indication-tag">obesidad</span>
 
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+來源：[Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/ziconotide/
 2026-07-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUdoYU91a1dUTHpUNEdNUXVIQXdnZDRaZ1hGcnhCN3R3Mi1XY180WUZZdTVnY3BFLVNGTHFaN3JYemtQTTFLWTBTRktrVHNaYXNqRzVkTzlKWjFVcHB3MGVoZzQ4QV9WeWNUR2NWcmpGeUJoMEdaLTliSjhUMFpkNWRoUUR3UEhUU3A4VlRYQ3FmRElNM3oxQUNQZHNnSENWVDBqLVNybll4aFRuRU1VQUlUal9ZY1JaRTQtbnRtOTlBUEnSAb4BQVVfeXFMTXRUdnJRQXJ3WXhoV0w5bXk3Wl8xNmtqNzN2WE9qREJaemlwNVU3eHVuMjU2R3YzWC1XTTRKcTZPS0ZYUEx6OGtTV0cxeE1rNGhoSUF6bzJLbnd6aGVVUzM0eG55d19vZnNHU3RYWV9RS0ZzWlREZ2h0RTBFbDd5Vlh0dTVnRE9mRzlTQlYzZGJBV2xVZWxJNDZkdjVCN3NQWkpoZGN4MUhkX0VzU1R0a2ROMnp4YnZ4eU9ucHFCQQ?oc=5)
-
----
-
-### [Migräne senkt Demenzrisiko: Rotterdam-Studie zeigt 30 Prozent weniger Erkrankungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
-
-2026-07-17 <span class="news-indication-tag">Migräne</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlNjM0xtV1laVjR6T2kyUTEzU3hHREliR09kSnhYYlVqUEVIMkwtRWJHdkxWcWlYaFE0UjJBSkNpbXpQcnFUanE4WUN0X0xLeHNzQ2pxV1I1YlNPako3S08ySXhCR3FSUFFHdXNpNnNUWGhJRnNxRkM5RF9vVF9JY29GRGVWazFGS3JhaW5QWmdQbENtaFNnNHRCS01fTmlpU2Y0WTYydmtEb0REV2x2dXpqbHVDMVlBcUE?oc=5)
 
 ---
 

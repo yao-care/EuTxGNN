@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Chronische Hepatitis B: Bepirovirsen erreicht funktionelle Heilungsraten bis 26 % - Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
+
+2026-07-19 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
+
+---
 
 ### [Demenz-Prävention: Bluthochdruck-Behandlung senkt Risiko um 45%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1VhV1kxcUYwdUZHaE9xV09CY2R5ZjlieHZ4MzRYWlpOUGxWM3N3RXdWeEY1UW5vbUNMbG5McnNkT0xCSngxcmZRZklOT1dKZ3JTbXVDLWFSOEpJcm0zRG5HZEF1N3NFOXpZZjYtbjNVa1lVTU5kRXhEY1FuWFMzQ1NuRFFWY1JTcGVBTFdQd3Z6NzlMZzdqRmE3cElNTnZIX1JhdDJqYkViRkJwYVJIb3NIQ19YUzA2SWRn?oc=5)
 
