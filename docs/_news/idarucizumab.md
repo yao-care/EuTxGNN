@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Gebrechlichkeit: Dreifaches Bruchrisiko schon bei moderaten Formen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+2026-07-19 <span class="news-indication-tag">arthritis</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+---
 
 ### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
 

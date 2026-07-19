@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AF（atrial fibrillation） 相關新聞"
+title: "Vorhofflimmern（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。20 則新聞、39 個相關藥物。"
+description: "Vorhofflimmern（atrial fibrillation） 的相關健康新聞報導。21 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
-# AF（atrial fibrillation） 相關新聞
+# Vorhofflimmern（atrial fibrillation） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>20 則</strong>相關新聞報導，39 個相關藥物。
+<p class="key-answer" data-question="Vorhofflimmern（atrial fibrillation） 有什麼相關新聞？">
+<strong>Vorhofflimmern（atrial fibrillation）</strong> 目前有 <strong>21 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AF」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Vorhofflimmern」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -67,7 +67,23 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
+
+### [Klinik in Kronach: Neue Methode verkürzt Behandlungszeit - Fränkischer Tag](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU1ZWmtYcEU3dGNlbXh6WllXRmtPVXdNVzBQdzZaVjZ5SHBjQmJ6ckVEcFF5SWVuV2J6TTA0cU1SbmZla2VFTzdmRGk4X2luN0lGZUgzQU5xUXZLR3g3Q09BaUl2dVFrQWxWSEFTbEhYNkY4dGc4aTl2bFpQV3ZCUzlFbmVHYkM4c3RJVW9HVF82Z2hLX1B6aV9CNDI0ZEI3LXphY2RDcjZNbXNKakh2UnV3cUxzRF9hMWc?oc=5)
+
+2026-07-19
+
+來源：[Fränkischer Tag](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUU1ZWmtYcEU3dGNlbXh6WllXRmtPVXdNVzBQdzZaVjZ5SHBjQmJ6ckVEcFF5SWVuV2J6TTA0cU1SbmZla2VFTzdmRGk4X2luN0lGZUgzQU5xUXZLR3g3Q09BaUl2dVFrQWxWSEFTbEhYNkY4dGc4aTl2bFpQV3ZCUzlFbmVHYkM4c3RJVW9HVF82Z2hLX1B6aV9CNDI0ZEI3LXphY2RDcjZNbXNKakh2UnV3cUxzRF9hMWc?oc=5)
+
+---
+
+### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+2026-07-19
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+---
 
 ### [Antennentechnik: Wie war das noch mal beim Urknall? - DIE ZEIT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQald2WmF0enZBY1A4QjRUSDM0d1R6cDkyZHlrZzNEdGs0Z3FVdWRtYVZJWGE0TDkxTlBHbDYwR1R2Z3RpeHJ2ajVveG5RNmZUdURhVFMwVTZkYjFDTEV4MTJFOGxaMV91MFFXWFhoZ09IM00xSUpzUE1BcXdocFhpOHlzb0FKUER2OXl1Q1FJbi1NQ1NlS1RXWHdtTjVmdGdvM0E?oc=5)
 
@@ -93,6 +109,14 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [La dieta che fa bene a noi e al Pianeta è già sulla nostra tavola](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEwwS0ZWSmQyNzBWblN5eUZaWjlJZnp6eG4tc1ZyUU9xZEZyXzJ5cngtcnIzWHpxREZJdW5hZlBoUS1wbW1TRjY0ZGFyYjBvMWpwWWR3VTFlbGtOLVpFQXpqWlRTUlh3T29lY0dDV3RPYkRTemUxTlJVWEItUUNLU2VrQnFpakxOdEdGdkFsa1hyUF9mQjd5MXRRTzg4bzRheHdNclg2UHd2RTRqamJLZDVyeFRXaE0?oc=5)
+
+2026-07-19
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEwwS0ZWSmQyNzBWblN5eUZaWjlJZnp6eG4tc1ZyUU9xZEZyXzJ5cngtcnIzWHpxREZJdW5hZlBoUS1wbW1TRjY0ZGFyYjBvMWpwWWR3VTFlbGtOLVpFQXpqWlRTUlh3T29lY0dDV3RPYkRTemUxTlJVWEItUUNLU2VrQnFpakxOdEdGdkFsa1hyUF9mQjd5MXRRTzg4bzRheHdNclg2UHd2RTRqamJLZDVyeFRXaE0?oc=5)
+
+---
+
 ### [El 69% de las personas con artrosis son mujeres - La Razón](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkZELVlIMmY1VTZyQXZNWkV3RlRTRThEZFI5aDk4QXNCYkZ6UXJFYnhqUHFNVF9TRS1iREpLanljaElhV0dsb3ZwOXFQa3h5VE9DZmhFWmtjbm1IM3BYTXlmTnFRYklVOTE0eUFlQjlBNlQ1cEE0ckUxUG5UQTQ0SC1vZHFhVElZem1BT0pQa0ZvbDRlR2tOSE5pbU9QV3ZhQWZFY9IBuAFBVV95cUxQV0EzdVc5MmVhV2RNeG9NT3FGTUJSV1lmVlU3ekZzeE1PNTA1UGZKc29VZHpkZnpKMU5tVFdHSkZ6aXU4bFlES1FSc1lzOTA0elNETnFrbEFINkVuQnFLX0VxakxvQWFXSUV4eVJjd1lnYjR4Q1R0Yk5tWlk1akN2RE1mZEtETG1KUjhaaU9iQnVvWnhfYWo0a3BtUVVDTC0wUVdhNi1ZNjBzcktfS0hEOGNtdVhUdndo?oc=5)
 
 2026-07-19
@@ -109,14 +133,6 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Por qué las mujeres son más vulnerables al alzhéimer - 65 y más](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE5XUGRsTHVyZ2d5MjVjRUc3VFFBNnZrM3ludE5GcTFZYnRGUjExVXotLThRWkI4WTZpbWpWZ2FhSHNMMTNyeF95akdPUDFzc01yLUV4OWc1eFBENzc4cGU0WVpQSlBqQWdSRG5KWi1TTHFpVy12UGFNUlRUdWNKVWdhYWpyLVJkWU9laExn?oc=5)
-
-2026-07-19
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWE5XUGRsTHVyZ2d5MjVjRUc3VFFBNnZrM3ludE5GcTFZYnRGUjExVXotLThRWkI4WTZpbWpWZ2FhSHNMMTNyeF95akdPUDFzc01yLUV4OWc1eFBENzc4cGU0WVpQSlBqQWdSRG5KWi1TTHFpVy12UGFNUlRUdWNKVWdhYWpyLVJkWU9laExn?oc=5)
-
----
-
 ### [Il ritorno dei medicinali contraffatti: come riconoscerli](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5)
 
 2026-07-18
@@ -130,14 +146,6 @@ permalink: /news/atrial-fibrillation/
 2026-07-18
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWJsVmxJNks5QVdOVjJCTnpBb3hVRnAtejBHRF9Tdi1pclo4blYxTVp3cHllSDRyY3VHQ01QYVRxdTFWaHpYSzBXbnZQYV9SVTRmbjhwbkViWVkwWHd0emNSdVhZM1lwdEtTck9pVlNiWjB4RnlYTHdSTldaaHQteWJVQWFENEt1bkpKV1RBU0ZYMVZ5LUpPcWFWZDFhNEFOTzFUdm14ajhTMWhoTmRJQkpPc2VicEZGdlVHRms1TFV3YmJR?oc=5)
-
----
-
-### [European airport issues urgent warning after stowaway mosquito sparks life-threatening disease outbreak - GB News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOellzelM3ZTJWY3gzc2hOa21sT3F0ejY3a3ZKM2VTR2xDYzBLbzZpVU1OeUQwSVNQXzlWSFhoM29WR0g1RmZodjlqWVZiSDg3Y2tlNlRoQ2FvSnhpUHlodm9WQUo4RElWXzdEdm1HQjNhY2xaMW1Bd3ZzSHhqR1p3MlJPNjQzQXI2RF9qVFFvVXdMODg1ZUV3UUpBS2wtWEk1TFRFQQ?oc=5)
-
-2026-07-18
-
-來源：[GB News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOellzelM3ZTJWY3gzc2hOa21sT3F0ejY3a3ZKM2VTR2xDYzBLbzZpVU1OeUQwSVNQXzlWSFhoM29WR0g1RmZodjlqWVZiSDg3Y2tlNlRoQ2FvSnhpUHlodm9WQUo4RElWXzdEdm1HQjNhY2xaMW1Bd3ZzSHhqR1p3MlJPNjQzQXI2RF9qVFFvVXdMODg1ZUV3UUpBS2wtWEk1TFRFQQ?oc=5)
 
 ---
 
@@ -181,11 +189,27 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### ['Ebola outbreak is brutal, painful and very distressing'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pRENjaTdoSGhzaFlvSlp4WWJhMVVTS0M3RTBGSFVGejRaeWxkaS00bENWdzRXQUhPaUZpTVYta0pDS21YSEJjNUpaM1M4NkZsT0pIYnlRdGV3WGNO?oc=5)
+
+2026-07-18
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pRENjaTdoSGhzaFlvSlp4WWJhMVVTS0M3RTBGSFVGejRaeWxkaS00bENWdzRXQUhPaUZpTVYta0pDS21YSEJjNUpaM1M4NkZsT0pIYnlRdGV3WGNO?oc=5)
+
+---
+
 ### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 
 2026-07-18
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
+
+---
+
+### [How to properly clean produce to help avoid the explosive diarrhea parasite cyclospora - The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQjNsQ3RSQ0h2UjFCb1BPbUs4b0VHYmJkVEh2U3J1azAzZHFTSnBWM3BCWXJRUUtzWVEyRFVRc0R5MjBUQi1QZmxRbGtLb1gtNl9oU2gtaEV6dDFCeWRJNXZZUENrRzNiVmY4SVFIQkZiYXpDUER2bEVoTjcwMV9LY1QwRm5ZWEc0NDMwNC1uRmY?oc=5)
+
+2026-07-18
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQjNsQ3RSQ0h2UjFCb1BPbUs4b0VHYmJkVEh2U3J1azAzZHFTSnBWM3BCWXJRUUtzWVEyRFVRc0R5MjBUQi1QZmxRbGtLb1gtNl9oU2gtaEV6dDFCeWRJNXZZUENrRzNiVmY4SVFIQkZiYXpDUER2bEVoTjcwMV9LY1QwRm5ZWEc0NDMwNC1uRmY?oc=5)
 
 ---
 
@@ -210,22 +234,6 @@ permalink: /news/atrial-fibrillation/
 2026-07-17
 
 來源：[Boing Boing](https://news.google.com/rss/articles/CBMidEFVX3lxTE5xcFFhM1J5LTgya3l6bUwtODMwclRpdC1tbF94cHRvUlVnOUU1TEh0OXBraVdLM3pPM3I0MXpZdlZsTTZVRTJUNUhrUTlXcnZDamNBNW9BQ3pXczdKNjFNNV9kN2ZTTVpDaDV2OGpoMENvakot0gF6QVVfeXFMT29od3VXUVZWZDhqT2JBZEMtZDJaLTdoSFc3d2Ixd3Yzc1poS2NEanY5RmU4cU5VZ01Cb0NnLWRRV2lTVVdDQU5iTnRKRHk5NEpqOXhCdHhCYWF1ZVpxUVR6NzU2Q2JqU01zeWE1NHktdmo3VE1HaFYtbWc?oc=5)
-
----
-
-### [I ritocchini col grasso dei cadaveri dopo l'effetto Ozempic: la nuova moda per rassodare il corpo svuotato dalle diete lampo](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
-
-2026-07-17
-
-來源：[today.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
-
----
-
-### [Prostate cancer treatment used by Jeremy Clarkson as effective as radiotherapy - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2RBWVFfUVFQX20wazNXaUtGM3FfTngzY1c1RFNuVEUtYnFrdTdhYVhPYTdDalIxaFNTV1NWbjJBdXR1TzBhMVFQQUdLWEpqcWFCbU50SDEzeHpvNlE1UnNWTFVmTmFrNEctanE0Rk4yLUpEZ1gyanotR01aS0FveS1POEtGektkNmZWMHlOX05NcHZfbTlZdXRLZk1hNENJY0EyOUp2YTFjRVI0UXJmSg?oc=5)
-
-2026-07-17
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2RBWVFfUVFQX20wazNXaUtGM3FfTngzY1c1RFNuVEUtYnFrdTdhYVhPYTdDalIxaFNTV1NWbjJBdXR1TzBhMVFQQUdLWEpqcWFCbU50SDEzeHpvNlE1UnNWTFVmTmFrNEctanE0Rk4yLUpEZ1gyanotR01aS0FveS1POEtGektkNmZWMHlOX05NcHZfbTlZdXRLZk1hNENJY0EyOUp2YTFjRVI0UXJmSg?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "arthritis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "arthritis 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<strong>arthritis</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Gebrechlichkeit: Dreifaches Bruchrisiko schon bei moderaten Formen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+2026-07-19
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+---
 
 ### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
 

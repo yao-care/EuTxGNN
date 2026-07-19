@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Una “scossa” al midollo libera il braccio bloccato dall’ictus](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
+
+2026-07-19 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
+
+---
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 

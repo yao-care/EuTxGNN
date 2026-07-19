@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="Bictegravir 有什麼相關新聞？">
-<strong>Bictegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bictegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bictegravir/
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+2026-07-19 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+---
 
 ### [Chronische Hepatitis B: Bepirovirsen erreicht funktionelle Heilungsraten bis 26 % - Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
 

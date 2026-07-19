@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [L’avatar che ti parla e riconosce la depressione dai segnali del corpo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3NuNFkwZ011dzNKc2w2UnFpWHdmVDFneEpiQVVRUmVXZjZaUGtqYW16MTVDenlrOVpZcm5NR21EaFBxck1EdkpubURKYVFQU0RTTFdoM1MtekRwc3lrY21nM3JsLTVCcWNDR3NOTUVIdE9MUXZhU0xVRFdZYlNnZnVUcEFMM2NNeUNfc3p6eGhLNTRoVjBmeHpjTDFnZXg1LUYxLU9vUTBQeEpCSkVSWHBHdXBreGdpMmZVOU4tX0tWdmtWNzVmSw?oc=5)
 
@@ -58,14 +58,6 @@ permalink: /news/depression/
 2026-07-18
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
-
----
-
-### [Common Digestive Drug May Help Ease Depression and Brain Fog](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkVQNktXVWpXa1ZRN2ZOUHFadXgzdE5DV25FV3JBVTNhT19YbTdFeU5XN2VhZ0VJMHpRUzl1WkJJcFQ5VHVBWExoSXdhT19MdEVLWmFEdGthWUd5eFNXY3J5SmxhRENtbDhlUkNNWE9aMUUxc1VZai04YWc4LVBkQmNrbUhMYzE1eXVzS0lUTjhnQlJO?oc=5)
-
-2026-07-17
-
-來源：[Newsweek](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkVQNktXVWpXa1ZRN2ZOUHFadXgzdE5DV25FV3JBVTNhT19YbTdFeU5XN2VhZ0VJMHpRUzl1WkJJcFQ5VHVBWExoSXdhT19MdEVLWmFEdGthWUd5eFNXY3J5SmxhRENtbDhlUkNNWE9aMUUxc1VZai04YWc4LVBkQmNrbUhMYzE1eXVzS0lUTjhnQlJO?oc=5)
 
 ---
 

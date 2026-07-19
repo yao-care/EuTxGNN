@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+### [JAMA-Analyse: SGLT2- und GLP-1-Hemmer senken Alzheimer-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span>
+2026-07-19 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/ustekinumab/
 2026-07-18 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Actu.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXVyWTVJbmd5MHpwZC1nUGhGb19tNjhGWm5XMXFXdmV2YTByVzl2WUdwYlBNOVJ4MjdER0MyYWlOcGRFY055ci11bGgyT3c3XzFOZW5QaVU5RlQyRmNEcUdCa2pfUUhtV3VCSVZKOWd6cnlsbXdxdU9mUzBoZ29IdjNlZWlUQklpMVNZTktYSmtScDh2eWFvUjhvR0RUckhPMmUxcWZVRWVFeWszeXB5bnFCZDRpYzc2MHU3ZHNSOFZZQjhBSXRIb3F2X05FSlV3bVZuMUJNbFRlQTVGYzVJMnhmU2NhOWNtV2ZUWDJrQXQ?oc=5)
-
----
-
-### [Still in the dark: effects of sex differences on statin-associated diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
 
 ---
 

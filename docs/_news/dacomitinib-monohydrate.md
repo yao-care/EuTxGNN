@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Gebrechlichkeit: Dreifaches Bruchrisiko schon bei moderaten Formen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+2026-07-19 <span class="news-indication-tag">arthritis</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+---
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 

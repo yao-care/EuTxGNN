@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（12 則）
+
+### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+2026-07-19 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+---
 
 ### [Antennentechnik: Wie war das noch mal beim Urknall? - DIE ZEIT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQald2WmF0enZBY1A4QjRUSDM0d1R6cDkyZHlrZzNEdGs0Z3FVdWRtYVZJWGE0TDkxTlBHbDYwR1R2Z3RpeHJ2ajVveG5RNmZUdURhVFMwVTZkYjFDTEV4MTJFOGxaMV91MFFXWFhoZ09IM00xSUpzUE1BcXdocFhpOHlzb0FKUER2OXl1Q1FJbi1NQ1NlS1RXWHdtTjVmdGdvM0E?oc=5)
 
@@ -126,30 +134,6 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Going abroad? These are the illnesses most likely to ruin your holiday - The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0pSNEFhaFhOdHBtR0tCUWJ5dGxHUWxqT2lqN3IyYXN3Y241d2phVVpmalZQeF9NNkltWllXNF9aM0ExaW9jdnR5eDdTeVM4MXRoU2VULVloZmgyWWgwTHBMQmoxQ2RiRUs1OUNPRFhNZFJwNnVTTTZEcDhPMExyYm9ZZUtRLVlTZTdFOXJvbXpiSjVfNTlzMVFzXzRDUllVNEw5RHBIV0xHUDhlZ2stNmpyTTE1RUg0LVE?oc=5)
-
-2026-07-18 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0pSNEFhaFhOdHBtR0tCUWJ5dGxHUWxqT2lqN3IyYXN3Y241d2phVVpmalZQeF9NNkltWllXNF9aM0ExaW9jdnR5eDdTeVM4MXRoU2VULVloZmgyWWgwTHBMQmoxQ2RiRUs1OUNPRFhNZFJwNnVTTTZEcDhPMExyYm9ZZUtRLVlTZTdFOXJvbXpiSjVfNTlzMVFzXzRDUllVNEw5RHBIV0xHUDhlZ2stNmpyTTE1RUg0LVE?oc=5)
-
----
-
-### [Descubren mecanismos inmunitarios entre virus de Epstein-Barr y riesgo de esclerosis múltiple: esto se sabe - La Patria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDdxcnQzX0VoaWhHOTdTcE0wS2Z4R0pMZW9KeHBGWFhYLXo4NlRGUlJ5UUFGeW1WQkNLcXZoeE5UUlJmNEFaOXkyTE9nbFFYTURvYnpKZGYwb08tNDRZQmltQjFZRHFkMVlVd3FXRzY4d2xkN1VPbi0xRHFnR0Nrc3I1VG9KUmwwcE9Sa01wQmJJOFoxNUI1V0poSnlhZmlGZkVJak1FOXM4b2RfZk9lNWFCSk96RVAwc1FFTGhUcExIQQ?oc=5)
-
-2026-07-18 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[La Patria](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDdxcnQzX0VoaWhHOTdTcE0wS2Z4R0pMZW9KeHBGWFhYLXo4NlRGUlJ5UUFGeW1WQkNLcXZoeE5UUlJmNEFaOXkyTE9nbFFYTURvYnpKZGYwb08tNDRZQmltQjFZRHFkMVlVd3FXRzY4d2xkN1VPbi0xRHFnR0Nrc3I1VG9KUmwwcE9Sa01wQmJJOFoxNUI1V0poSnlhZmlGZkVJak1FOXM4b2RfZk9lNWFCSk96RVAwc1FFTGhUcExIQQ?oc=5)
-
----
-
-### [One death reported in New York City Legionnaires’ disease cluster](https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWFpXbTl3MGJGTkdEN25rUG1HVmpUaVE3MjdhcmxDQlZTQW85dDdubEtVNUpuZjN3eTU1VVhicVk0NENOXzNxc3FGVC04QmxmdWMyQjZJakRrUi1zM3RZa2ZWakNyMUVBZllIeA?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE5WWFpXbTl3MGJGTkdEN25rUG1HVmpUaVE3MjdhcmxDQlZTQW85dDdubEtVNUpuZjN3eTU1VVhicVk0NENOXzNxc3FGVC04QmxmdWMyQjZJakRrUi1zM3RZa2ZWakNyMUVBZllIeA?oc=5)
-
----
-
 ### [ECT Reprograms Adult Neurons into a Youthful State - Neuroscience News](https://news.google.com/rss/articles/CBMickFVX3lxTE4zNkVoT0lwR1hXbmRWV1Y5aFJJUWQtSC1kNms2X2I3UnRrSGNvcF91a0RuUVk5cFRoTW5ZdnlSY1d2MV9GQTNVc0FYSTZSNUhTQnVLUC01NV9YUVNiMzNwSmVkNDF3NXRHWmpZUXB4X1VMQQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">MS</span>
@@ -163,30 +147,6 @@ permalink: /news/grazoprevir/
 2026-07-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Boing Boing](https://news.google.com/rss/articles/CBMidEFVX3lxTE5xcFFhM1J5LTgya3l6bUwtODMwclRpdC1tbF94cHRvUlVnOUU1TEh0OXBraVdLM3pPM3I0MXpZdlZsTTZVRTJUNUhrUTlXcnZDamNBNW9BQ3pXczdKNjFNNV9kN2ZTTVpDaDV2OGpoMENvakot0gF6QVVfeXFMT29od3VXUVZWZDhqT2JBZEMtZDJaLTdoSFc3d2Ixd3Yzc1poS2NEanY5RmU4cU5VZ01Cb0NnLWRRV2lTVVdDQU5iTnRKRHk5NEpqOXhCdHhCYWF1ZVpxUVR6NzU2Q2JqU01zeWE1NHktdmo3VE1HaFYtbWc?oc=5)
-
----
-
-### [The TRUTH about viral 'parasite cleanse' drink for bloating, acne and tiredness - as GP reveals true signs of worms - The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3lCQlpFNzZWcW8waS1xVDRvdVp4NTVBeE9QMEdoOHFBZW9LYW5Eck5tM2pUQ09IR0xISW1PN1RySTJDZmJIQjJOZWpqbUt3c2diSW95eU12LUN6V2g5V1E0bFY0bDlkTjZEc3A0b0VTN0h5M184Z0JXQTR1SkE4LTZiTThXVTRxRExvcGxLcWRYTjE5dmxXYw?oc=5)
-
----
-
-### [L'abitudine da 5 minuti al mattino che allunga la vita (secondo gli scienziati della longevità)](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1RlcFdtZDd3cHVuZC1vVVUxZUg4c25vbVhRVkNpTXRtQXdGN3VIRTNTT0xlZ0xfc2J6b3g3eXV0SW9wTHFSVDY1NlpFek14NWtJRWFGNVZQY2JEQVVHcUt6TU5GMU1RcnNvSm9QYmJ6NlNuQ21kZV9LSEhfZENQaGVOa0Q5bXJ1cXROSFo2WDhCRlZmakVnU1U3MzdNdTdTQlR1VzNrT0hacWtScF9MeTFlWmU4N3k1UDY3WUJDUTdtcmxxRndRNlIzVlBxaVloMW80bUN3?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1RlcFdtZDd3cHVuZC1vVVUxZUg4c25vbVhRVkNpTXRtQXdGN3VIRTNTT0xlZ0xfc2J6b3g3eXV0SW9wTHFSVDY1NlpFek14NWtJRWFGNVZQY2JEQVVHcUt6TU5GMU1RcnNvSm9QYmJ6NlNuQ21kZV9LSEhfZENQaGVOa0Q5bXJ1cXROSFo2WDhCRlZmakVnU1U3MzdNdTdTQlR1VzNrT0hacWtScF9MeTFlWmU4N3k1UDY3WUJDUTdtcmxxRndRNlIzVlBxaVloMW80bUN3?oc=5)
-
----
-
-### [Demenza, le 5 abitudini che possono prevenire la malattia. I consigli dell'OMS per mantenere il cervello attivo - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFdEX1l0Y3JfSjk0S21QYWNHQkpWM0lmMnoyNk1kWVpoREdKWlN3VVBDc0tSenAta0Y4bkh1b05TUzhGX1g0c2Z0NjRLS2FyVW8tb1dadHp3NjNUWHNfelJWWm9yRzlOQTJVbEdZY3J2MUE2cnlsNlJjalhCMmRTVVhnM0h4THlkTlVTVkxZRElFbHhLcEZNU2JZRU5FMWk4?oc=5)
-
-2026-07-17 <span class="news-indication-tag">MS</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFdEX1l0Y3JfSjk0S21QYWNHQkpWM0lmMnoyNk1kWVpoREdKWlN3VVBDc0tSenAta0Y4bkh1b05TUzhGX1g0c2Z0NjRLS2FyVW8tb1dadHp3NjNUWHNfelJWWm9yRzlOQTJVbEdZY3J2MUE2cnlsNlJjalhCMmRTVVhnM0h4THlkTlVTVkxZRElFbHhLcEZNU2JZRU5FMWk4?oc=5)
 
 ---
 

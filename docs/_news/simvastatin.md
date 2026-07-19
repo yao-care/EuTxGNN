@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Una “scossa” al midollo libera il braccio bloccato dall’ictus](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
+
+2026-07-19 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
+
+---
 
 
 <div class="disclaimer">

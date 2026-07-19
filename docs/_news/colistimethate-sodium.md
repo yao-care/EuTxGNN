@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Gebrechlichkeit: Dreifaches Bruchrisiko schon bei moderaten Formen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+2026-07-19 <span class="news-indication-tag">arthritis</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+---
 
 ### [Demenz-Prävention: Bluthochdruck-Behandlung senkt Risiko um 45%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1VhV1kxcUYwdUZHaE9xV09CY2R5ZjlieHZ4MzRYWlpOUGxWM3N3RXdWeEY1UW5vbUNMbG5McnNkT0xCSngxcmZRZklOT1dKZ3JTbXVDLWFSOEpJcm0zRG5HZEF1N3NFOXpZZjYtbjNVa1lVTU5kRXhEY1FuWFMzQ1NuRFFWY1JTcGVBTFdQd3Z6NzlMZzdqRmE3cElNTnZIX1JhdDJqYkViRkJwYVJIb3NIQ19YUzA2SWRn?oc=5)
 

@@ -54,11 +54,19 @@ permalink: /news/cabotegravir/
 
 ## 相關新聞（5 則）
 
-### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+### [Gebrechlichkeit: Dreifaches Bruchrisiko schon bei moderaten Formen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
 
-2026-07-18 <span class="news-indication-tag">diabetes</span>
+2026-07-19 <span class="news-indication-tag">arthritis</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk5OeGpRYkZYUkFNQjFqUWR5SnJWeHFBQnpnT29CSWRmRHNJWnNyZHE4ZzQtSjlndFh3TjRfejVpekVEakozcHRQc1FLaXZNRXB0QmFsNDJ6Y3M4a0RuQjUzZ0lLVkxCWUtiUDBQb2paMm9XbUVwbHZJcmVYemZEdHdUa1kxcFNWYnJmeVZQdHJiUFZxWUVIdHNhWlhuMmlaUmtXR0w2ZjBocFVkTl9RZGFiT3VVWWZi?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
+
+---
+
+### [JAMA-Analyse: SGLT2- und GLP-1-Hemmer senken Alzheimer-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
+
+2026-07-19 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/cabotegravir/
 2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
-
----
-
-### [Still in the dark: effects of sex differences on statin-associated diabetes risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
-
-2026-07-17 <span class="news-indication-tag">diabetes</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5)
 
 ---
 

@@ -54,6 +54,22 @@ permalink: /news/orlistat/
 
 ## 相關新聞（5 則）
 
+### [Un estudio avala la relación coste-efectividad de semaglutida 2,4 mg para tratar la obesidad en España](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
+
+2026-07-19 <span class="news-indication-tag">obesidad</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
+
+---
+
+### [Una “scossa” al midollo libera il braccio bloccato dall’ictus](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
+
+2026-07-19 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
+
+---
+
 ### [Patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
 2026-07-19 <span class="news-indication-tag">obesidad</span>
@@ -75,22 +91,6 @@ permalink: /news/orlistat/
 2026-07-17 <span class="news-indication-tag">obesidad</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
-
----
-
-### [I ritocchini col grasso dei cadaveri dopo l'effetto Ozempic: la nuova moda per rassodare il corpo svuotato dalle diete lampo](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
-
-2026-07-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[today.it](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tcnQ5QzQ0dktfOXE0Zk9hc2RzWVMxVEVWNTlyYnhaYnp3SW9CNVcwSFpjT1VsT3pyOHliTnBqdFJHdndyQzY1MXQ1TER4S1ZnSXdsNV9GWFZGVkduSkk3NlN1NzV5QdIBZkFVX3lxTFB4OEVNdkg0MndmWG9kOU4waHFmMUUxWVh4Tkw3NUdtYk16aDZBcTBwVzlpMnlEejdqVS0wNnVPOGFHc0FuS0hoZ09FNXhudWFaQ1pydTl6VENZTnU4SER0bVlfamowUQ?oc=5)
-
----
-
-### [Obesidad con agonistas del receptor GLP1 y su impacto en fertilidad asistida - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUdoYU91a1dUTHpUNEdNUXVIQXdnZDRaZ1hGcnhCN3R3Mi1XY180WUZZdTVnY3BFLVNGTHFaN3JYemtQTTFLWTBTRktrVHNaYXNqRzVkTzlKWjFVcHB3MGVoZzQ4QV9WeWNUR2NWcmpGeUJoMEdaLTliSjhUMFpkNWRoUUR3UEhUU3A4VlRYQ3FmRElNM3oxQUNQZHNnSENWVDBqLVNybll4aFRuRU1VQUlUal9ZY1JaRTQtbnRtOTlBUEnSAb4BQVVfeXFMTXRUdnJRQXJ3WXhoV0w5bXk3Wl8xNmtqNzN2WE9qREJaemlwNVU3eHVuMjU2R3YzWC1XTTRKcTZPS0ZYUEx6OGtTV0cxeE1rNGhoSUF6bzJLbnd6aGVVUzM0eG55d19vZnNHU3RYWV9RS0ZzWlREZ2h0RTBFbDd5Vlh0dTVnRE9mRzlTQlYzZGJBV2xVZWxJNDZkdjVCN3NQWkpoZGN4MUhkX0VzU1R0a2ROMnp4YnZ4eU9ucHFCQQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUdoYU91a1dUTHpUNEdNUXVIQXdnZDRaZ1hGcnhCN3R3Mi1XY180WUZZdTVnY3BFLVNGTHFaN3JYemtQTTFLWTBTRktrVHNaYXNqRzVkTzlKWjFVcHB3MGVoZzQ4QV9WeWNUR2NWcmpGeUJoMEdaLTliSjhUMFpkNWRoUUR3UEhUU3A4VlRYQ3FmRElNM3oxQUNQZHNnSENWVDBqLVNybll4aFRuRU1VQUlUal9ZY1JaRTQtbnRtOTlBUEnSAb4BQVVfeXFMTXRUdnJRQXJ3WXhoV0w5bXk3Wl8xNmtqNzN2WE9qREJaemlwNVU3eHVuMjU2R3YzWC1XTTRKcTZPS0ZYUEx6OGtTV0cxeE1rNGhoSUF6bzJLbnd6aGVVUzM0eG55d19vZnNHU3RYWV9RS0ZzWlREZ2h0RTBFbDd5Vlh0dTVnRE9mRzlTQlYzZGJBV2xVZWxJNDZkdjVCN3NQWkpoZGN4MUhkX0VzU1R0a2ROMnp4YnZ4eU9ucHFCQQ?oc=5)
 
 ---
 

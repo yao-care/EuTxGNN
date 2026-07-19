@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [L’avatar che ti parla e riconosce la depressione dai segnali del corpo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3NuNFkwZ011dzNKc2w2UnFpWHdmVDFneEpiQVVRUmVXZjZaUGtqYW16MTVDenlrOVpZcm5NR21EaFBxck1EdkpubURKYVFQU0RTTFdoM1MtekRwc3lrY21nM3JsLTVCcWNDR3NOTUVIdE9MUXZhU0xVRFdZYlNnZnVUcEFMM2NNeUNfc3p6eGhLNTRoVjBmeHpjTDFnZXg1LUYxLU9vUTBQeEpCSkVSWHBHdXBreGdpMmZVOU4tX0tWdmtWNzVmSw?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/esketamine-hydrochloride/
 2026-07-18 <span class="news-indication-tag">depression</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
-
----
-
-### [Common Digestive Drug May Help Ease Depression and Brain Fog](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkVQNktXVWpXa1ZRN2ZOUHFadXgzdE5DV25FV3JBVTNhT19YbTdFeU5XN2VhZ0VJMHpRUzl1WkJJcFQ5VHVBWExoSXdhT19MdEVLWmFEdGthWUd5eFNXY3J5SmxhRENtbDhlUkNNWE9aMUUxc1VZai04YWc4LVBkQmNrbUhMYzE1eXVzS0lUTjhnQlJO?oc=5)
-
-2026-07-17 <span class="news-indication-tag">depression</span>
-
-來源：[Newsweek](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkVQNktXVWpXa1ZRN2ZOUHFadXgzdE5DV25FV3JBVTNhT19YbTdFeU5XN2VhZ0VJMHpRUzl1WkJJcFQ5VHVBWExoSXdhT19MdEVLWmFEdGthWUd5eFNXY3J5SmxhRENtbDhlUkNNWE9aMUUxc1VZai04YWc4LVBkQmNrbUhMYzE1eXVzS0lUTjhnQlJO?oc=5)
 
 ---
 
