@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+
+---
+
+### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
 ---
 

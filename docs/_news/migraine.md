@@ -3,7 +3,7 @@ layout: default
 title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<strong>Migräne（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+2026-07-20
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+---
 
 ### [Migräne: Antientzündliche Kost mit Fisch und Kurkuma lindert Anfälle](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
 

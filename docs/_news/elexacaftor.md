@@ -54,11 +54,19 @@ permalink: /news/elexacaftor/
 
 ## 相關新聞（4 則）
 
-### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+
+---
+
+### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/elexacaftor/
 2026-07-19 <span class="news-indication-tag">migraine</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtMRkJBMl96NUdabHd1X3FfRm9zSG9xUEFXa3FOaTh2SWFDTHE1RzE3R1NfcTdSMTJ2WlpESlpMOFNkYzlNU3k0QUxnWEEtcXVjTkZobEVDelFVeDlDNGg1OHlvcndDOV8xa3p6NEtSSkEwQ1RodW40ZzdsN1pHN2lWR0YzcERPNDg0b0hwUmR3b3EyOTY1NEljR2JxYTZi?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Krafttraining senkt Demenzrisiko um 45%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
-2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
 
 ---
 

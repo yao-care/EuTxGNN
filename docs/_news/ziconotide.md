@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+---
 
 ### [Migräne: Antientzündliche Kost mit Fisch und Kurkuma lindert Anfälle](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
 
@@ -88,7 +96,7 @@ permalink: /news/ziconotide/
 
 ### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
-2026-07-18 <span class="news-indication-tag">obesity</span>
+2026-07-18 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 

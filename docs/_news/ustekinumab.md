@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/ustekinumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
-<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（100.0%）</li>
 <li>parapsoriasis（99.9%）</li>
 <li>pityriasis lichenoides（99.9%）</li>
 <li>acute lichenoid pityriasis（99.9%）</li>
@@ -52,7 +52,23 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Wenn die Haut vor Diabetes warnt](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
+
+---
+
+### [SGLT2- und GLP-1-Medikamente: Warum sinkt Alzheimer-Risiko bei Typ-2-Diabetes? - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+
+---
 
 ### [The best time to exercise if you want to lose stubborn belly fat, according to a doctor - GB News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5JZGN5TTBrV3ZTVDhobjRGbzF2a3JfenBGRExPNE01VlpPQ2x6NlVkbFNNcjlaaWNCWnVlRVlMU3QybndpQ0FHSE1uZlJDcUFYZlNpM0pveE53S2hTLUFtbEhFS0owTWVJLUNJSG01T0JsQmRzRmoxU3lvQ3NrUzJDaw?oc=5)
 
@@ -62,35 +78,11 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [JAMA-Analyse: SGLT2- und GLP-1-Hemmer senken Alzheimer-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
-
-2026-07-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
-
----
-
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
 2026-07-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
-
----
-
-### [Psoriasis : une découverte majeure en France ouvre la voie au premier traitement véritablement sur mesure](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXVyWTVJbmd5MHpwZC1nUGhGb19tNjhGWm5XMXFXdmV2YTByVzl2WUdwYlBNOVJ4MjdER0MyYWlOcGRFY055ci11bGgyT3c3XzFOZW5QaVU5RlQyRmNEcUdCa2pfUUhtV3VCSVZKOWd6cnlsbXdxdU9mUzBoZ29IdjNlZWlUQklpMVNZTktYSmtScDh2eWFvUjhvR0RUckhPMmUxcWZVRWVFeWszeXB5bnFCZDRpYzc2MHU3ZHNSOFZZQjhBSXRIb3F2X05FSlV3bVZuMUJNbFRlQTVGYzVJMnhmU2NhOWNtV2ZUWDJrQXQ?oc=5)
-
-2026-07-18 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXVyWTVJbmd5MHpwZC1nUGhGb19tNjhGWm5XMXFXdmV2YTByVzl2WUdwYlBNOVJ4MjdER0MyYWlOcGRFY055ci11bGgyT3c3XzFOZW5QaVU5RlQyRmNEcUdCa2pfUUhtV3VCSVZKOWd6cnlsbXdxdU9mUzBoZ29IdjNlZWlUQklpMVNZTktYSmtScDh2eWFvUjhvR0RUckhPMmUxcWZVRWVFeWszeXB5bnFCZDRpYzc2MHU3ZHNSOFZZQjhBSXRIb3F2X05FSlV3bVZuMUJNbFRlQTVGYzVJMnhmU2NhOWNtV2ZUWDJrQXQ?oc=5)
-
----
-
-### [30-Day High-Protein Diabetes-Friendly Meal Plan for Weight Loss, Created by a Dietitian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
-
-2026-07-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
 
 ---
 

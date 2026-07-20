@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
 
-### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+### [Schlaganfall und Herzinfarkt: „Vitamin K aktiviert Proteine, die Blutgefäße vor Verkalkung schützen“](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNS1LRHFQWFlNTjRiU0Rpb3Z1cHJiS05WbFpqWlBaMzdleVVuNVNBWUtLVWV3WWlsajZBOGtBVmZHM0p0Wm44a19GSTJEWW91bGxQZ1Rjcm9hSjYxVEJVQXcwVDQwWnFwTW9aS1RncGlGOXdGN3VIUWJlNUhzS09rcFFUaEFHNktDZGZYdzI2dkRtVXotV19vUVpMY1RVTjNMekNfdGFSZ3ZXb1l6NkdtcWlLektqVmo3SzA1TXpFQW5sWTB1X0tFa3pJcjFuYmpqdDhhcDY4bGVrZks0MWZaVnctWDJrZ1l6SjY3eFNDTXNXcEhMemtz?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNS1LRHFQWFlNTjRiU0Rpb3Z1cHJiS05WbFpqWlBaMzdleVVuNVNBWUtLVWV3WWlsajZBOGtBVmZHM0p0Wm44a19GSTJEWW91bGxQZ1Rjcm9hSjYxVEJVQXcwVDQwWnFwTW9aS1RncGlGOXdGN3VIUWJlNUhzS09rcFFUaEFHNktDZGZYdzI2dkRtVXotV19vUVpMY1RVTjNMekNfdGFSZ3ZXb1l6NkdtcWlLektqVmo3SzA1TXpFQW5sWTB1X0tFa3pJcjFuYmpqdDhhcDY4bGVrZks0MWZaVnctWDJrZ1l6SjY3eFNDTXNXcEhMemtz?oc=5)
+
+---
+
+### [Wie weiter nach Durchbruch-Schlaganfall trotz DOAK?](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
+
+---
+
+### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+
+---
+
+### [La vitamina D mejora la recuperación funcional tras un ictus - 65 y más](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXBreDY0UzkzVzltN3E2WGtLSlJHRjdpZ3BkMmVLWkI3Vk9pRUZpdXV5VmpodjlfMm9TdjFSRTgwSFJRMTZxM0o5LUE5YUx4RkxzWjhsenEtZFdzVHIzVl9LTk56WjN5dGdsT2lRck9TcnN1ajdHME9xSTk0SThwZG8tZlJCazJSaGh1eTEwUDBaUQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">ictus</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXBreDY0UzkzVzltN3E2WGtLSlJHRjdpZ3BkMmVLWkI3Vk9pRUZpdXV5VmpodjlfMm9TdjFSRTgwSFJRMTZxM0o5LUE5YUx4RkxzWjhsenEtZFdzVHIzVl9LTk56WjN5dGdsT2lRck9TcnN1ajdHME9xSTk0SThwZG8tZlJCazJSaGh1eTEwUDBaUQ?oc=5)
 
 ---
 
@@ -67,6 +91,14 @@ permalink: /news/telmisartan/
 2026-07-19 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
+
+---
+
+### [Un estudio del CSIC refleja el potencial de la cortistatina en la reducción de inflamación y daño cerebral tras un ictus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1NnYm5DMVMyZDNxU1dlQkluME92MnpkbnhGUHN5Z0N1a3N3ZlFWUVZfUHc3eW5WLVM5M1BzQTdhTnBGVFJ3LTVteUdQMjh1TGtMbU01RWZWZUM5VnRFdnBhdDBZejIxTXJsSmp4N1JRRkV6X0ZZYUlsZVZfYVFHTU5PcjBKcXBaaS1iRjVtbXZCdm8zbDlRcmx0V2ZWaGJVUUZPaWlfMEdvR29CYV9XRWpiX2E3cmNOVkpHd3JkT3dBcXM0VlU0YVMta21XbURHM1UzSEZSdXFXRjBMRzJpOFVySQ?oc=5)
+
+2026-07-19 <span class="news-indication-tag">ictus</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1NnYm5DMVMyZDNxU1dlQkluME92MnpkbnhGUHN5Z0N1a3N3ZlFWUVZfUHc3eW5WLVM5M1BzQTdhTnBGVFJ3LTVteUdQMjh1TGtMbU01RWZWZUM5VnRFdnBhdDBZejIxTXJsSmp4N1JRRkV6X0ZZYUlsZVZfYVFHTU5PcjBKcXBaaS1iRjVtbXZCdm8zbDlRcmx0V2ZWaGJVUUZPaWlfMEdvR29CYV9XRWpiX2E3cmNOVkpHd3JkT3dBcXM0VlU0YVMta21XbURHM1UzSEZSdXFXRjBMRzJpOFVySQ?oc=5)
 
 ---
 
@@ -80,17 +112,9 @@ permalink: /news/telmisartan/
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
-
----
-
-### [Un hallazgo español amplía el uso del único fármaco contra la miocardiopatía hipertrófica - Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
 
 ---
 

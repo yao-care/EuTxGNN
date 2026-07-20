@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,23 +52,9 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Psoriasis : une découverte majeure en France ouvre la voie au premier traitement véritablement sur mesure](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXVyWTVJbmd5MHpwZC1nUGhGb19tNjhGWm5XMXFXdmV2YTByVzl2WUdwYlBNOVJ4MjdER0MyYWlOcGRFY055ci11bGgyT3c3XzFOZW5QaVU5RlQyRmNEcUdCa2pfUUhtV3VCSVZKOWd6cnlsbXdxdU9mUzBoZ29IdjNlZWlUQklpMVNZTktYSmtScDh2eWFvUjhvR0RUckhPMmUxcWZVRWVFeWszeXB5bnFCZDRpYzc2MHU3ZHNSOFZZQjhBSXRIb3F2X05FSlV3bVZuMUJNbFRlQTVGYzVJMnhmU2NhOWNtV2ZUWDJrQXQ?oc=5)
-
-2026-07-18 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Actu.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXVyWTVJbmd5MHpwZC1nUGhGb19tNjhGWm5XMXFXdmV2YTByVzl2WUdwYlBNOVJ4MjdER0MyYWlOcGRFY055ci11bGgyT3c3XzFOZW5QaVU5RlQyRmNEcUdCa2pfUUhtV3VCSVZKOWd6cnlsbXdxdU9mUzBoZ29IdjNlZWlUQklpMVNZTktYSmtScDh2eWFvUjhvR0RUckhPMmUxcWZVRWVFeWszeXB5bnFCZDRpYzc2MHU3ZHNSOFZZQjhBSXRIb3F2X05FSlV3bVZuMUJNbFRlQTVGYzVJMnhmU2NhOWNtV2ZUWDJrQXQ?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Krafttraining senkt Demenzrisiko um 45%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
-2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

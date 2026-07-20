@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="Norethisterone 有什麼相關新聞？">
-<strong>Norethisterone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Norethisterone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/norethisterone/
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Kniearthrose: Plättchenreiches Plasma senkt Schmerz um 50%](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
-
-2026-07-19 <span class="news-indication-tag">asma</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

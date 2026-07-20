@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Wenn die Haut vor Diabetes warnt](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[TARA24](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
+
+---
+
+### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
+
+---
+
+### [SGLT2- und GLP-1-Medikamente: Warum sinkt Alzheimer-Risiko bei Typ-2-Diabetes? - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+
+---
 
 ### [Migräne: Antientzündliche Kost mit Fisch und Kurkuma lindert Anfälle](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
 
@@ -78,27 +102,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [JAMA-Analyse: SGLT2- und GLP-1-Hemmer senken Alzheimer-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
-
-2026-07-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
-
----
-
 ### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
 2026-07-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
-
----
-
-### [30-Day High-Protein Diabetes-Friendly Meal Plan for Weight Loss, Created by a Dietitian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
-
-2026-07-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
 
 ---
 

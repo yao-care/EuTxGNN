@@ -14,7 +14,7 @@ permalink: /news/faricimab/
 ---
 
 <p class="key-answer" data-question="Faricimab 有什麼相關新聞？">
-<strong>Faricimab</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Faricimab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/faricimab/
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（20 則）
 
-### [Kniearthrose: Plättchenreiches Plasma senkt Schmerz um 50%](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
+### [Wenn die Haut vor Diabetes warnt](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
 
-2026-07-19 <span class="news-indication-tag">asma</span>
+2026-07-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
+來源：[TARA24](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
 
 ---
 
-### ['I beat cancer 13 years ago but it's come back even worse - I'm not ready to die' - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxQakcwM2xoQV9oNkw1cFM2Z21jbmFFdU8wTUtqeTlyVkhyRzVHYUhSZjh1b3h6TWZTRjZfbF9sUXZxMl82UGx3WTVDLTJQRlBETXlsVGpKTWpUTmt4U2xvSE5DNWNEbE5wNGxCNHpwUHBSRVRwTmdmb0ZNaERNMnFlNlFWT2VCZDDSAYwBQVVfeXFMTmttTnB4eDZnT1RrTkREaHFVWjVnTElkSHRIcEp1NjhJSHhITEdOSzVVTHEzWUE1amZRSHd6Zm5CcmNqVGQzcFdobUh3X1I3MXd1TDBENDNtZzF1OXZVcGNyRWVEdmZwX2Y3MmVyU0ZxSDZtM1U4Mmtsc21mUmZadG43Smg1Zlp1S0NscUs?oc=5)
+### [Surgeons use 3D imaging to operate on 13-year-old’s brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
 
-2026-07-19 <span class="news-indication-tag">cancer</span>
+2026-07-20 <span class="news-indication-tag">tumour</span>
 
-來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxQakcwM2xoQV9oNkw1cFM2Z21jbmFFdU8wTUtqeTlyVkhyRzVHYUhSZjh1b3h6TWZTRjZfbF9sUXZxMl82UGx3WTVDLTJQRlBETXlsVGpKTWpUTmt4U2xvSE5DNWNEbE5wNGxCNHpwUHBSRVRwTmdmb0ZNaERNMnFlNlFWT2VCZDDSAYwBQVVfeXFMTmttTnB4eDZnT1RrTkREaHFVWjVnTElkSHRIcEp1NjhJSHhITEdOSzVVTHEzWUE1amZRSHd6Zm5CcmNqVGQzcFdobUh3X1I3MXd1TDBENDNtZzF1OXZVcGNyRWVEdmZwX2Y3MmVyU0ZxSDZtM1U4Mmtsc21mUmZadG43Smg1Zlp1S0NscUs?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
+
+---
+
+### [SGLT2- und GLP-1-Medikamente: Warum sinkt Alzheimer-Risiko bei Typ-2-Diabetes? - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+
+---
+
+### [Altern in Schüben: Biologische Wellen im Alter von 34, 60 und 78](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWC1ZVVlkWVZvZlRHV0hiN25QRUZCQ3d3ZGpGdk1vTnpUbFI2OExsSGRFV01oVGxJWVRYZmliUlp2NkFUcmZmYVhJb1lOODNvSkUwNTVnT2tNZTBsYjRYcFRCYWo3UF9kb0lLMm9lUC10ZkREWl9HMHR6RXNSWV9FaHBrR2lLY1hlWTFnLWUwS0pDUkdhZ2p4T2tJQzdxUUkteWFWT0RNc2J5cjNEY1JkdF9B?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWC1ZVVlkWVZvZlRHV0hiN25QRUZCQ3d3ZGpGdk1vTnpUbFI2OExsSGRFV01oVGxJWVRYZmliUlp2NkFUcmZmYVhJb1lOODNvSkUwNTVnT2tNZTBsYjRYcFRCYWo3UF9kb0lLMm9lUC10ZkREWl9HMHR6RXNSWV9FaHBrR2lLY1hlWTFnLWUwS0pDUkdhZ2p4T2tJQzdxUUkteWFWT0RNc2J5cjNEY1JkdF9B?oc=5)
 
 ---
 
@@ -126,27 +142,11 @@ permalink: /news/faricimab/
 
 ---
 
-### [JAMA-Analyse: SGLT2- und GLP-1-Hemmer senken Alzheimer-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
-
-2026-07-19 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
-
----
-
 ### [Burnham brain tumour survivor unveils charity single raising life‑saving funds](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlhiRzMxRkVtSGdZem5HVDVSUnY1Wmp4aUhaYVJJTXVqaS1CM0laTWNTM3FUaEctald6a0JEXy1tYXF0d3FwUXVtN25BRW9Uc0ZINFFYYk8yd0FXRGRVZUhoN2duZ2paNDVNa1hYQUV0NUJKdHJPVGtRUkZkMDBiV0xDeHlrZEo5ejFkS1pwZEozNmtqT3pzTmtXYUJtN2EzWld0ekpXVVFjZUZNTjYwWkQ4V3lwNFlncmtKOFRHRHJVVlM5Wkt1VA?oc=5)
 
 2026-07-18 <span class="news-indication-tag">tumour</span>
 
 來源：[Burnham-On-Sea.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlhiRzMxRkVtSGdZem5HVDVSUnY1Wmp4aUhaYVJJTXVqaS1CM0laTWNTM3FUaEctald6a0JEXy1tYXF0d3FwUXVtN25BRW9Uc0ZINFFYYk8yd0FXRGRVZUhoN2duZ2paNDVNa1hYQUV0NUJKdHJPVGtRUkZkMDBiV0xDeHlrZEo5ejFkS1pwZEozNmtqT3pzTmtXYUJtN2EzWld0ekpXVVFjZUZNTjYwWkQ4V3lwNFlncmtKOFRHRHJVVlM5Wkt1VA?oc=5)
-
----
-
-### [Altern: Drei Alterungsschübe um 34, 60 und 78 Jahre identifiziert](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXlvLVFqT0pCV2IzQXl2SWdTN2FHR09mV0t1WVNrX1M3ZGQtVjdiVjBWZ09fOHM5NVB5dmpKTFhtSEVqR0hCbWoxWGF5WjZROVRTQmV6QTF1YlVYRGdKcVlGSW5hOEVwLXhLTGttLXVDTVV1enRnTWROM294N0VFZ0gtSmFiS3FxblM2dzdsVVMxQ05UT2ZWdDBpNVk1TDJpOFBjdmxqMGpnRThDY1VDbVM3OA?oc=5)
-
-2026-07-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXlvLVFqT0pCV2IzQXl2SWdTN2FHR09mV0t1WVNrX1M3ZGQtVjdiVjBWZ09fOHM5NVB5dmpKTFhtSEVqR0hCbWoxWGF5WjZROVRTQmV6QTF1YlVYRGdKcVlGSW5hOEVwLXhLTGttLXVDTVV1enRnTWROM294N0VFZ0gtSmFiS3FxblM2dzdsVVMxQ05UT2ZWdDBpNVk1TDJpOFBjdmxqMGpnRThDY1VDbVM3OA?oc=5)
 
 ---
 
@@ -206,51 +206,11 @@ permalink: /news/faricimab/
 
 ---
 
-### [CT-Scans könnten weit mehr Krebsfälle verursachen als angenommen - Forschung und Wissen](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmZJazVSVjN0NkRKTERFWlZLYnlhajhMUWtrWTBPeXRTX01ncGtNMTZDMko2aVctLUxaTXBRSmt2OXhqakptUVJrdmNMdTU1Ri1xb1hINW14d3R2SXJweW5FTDlmMXhUd2xTemJ5WWpzZ3hYVzFvZUFQRUEySU92X3oweWhYUktUR0lRemxDYklqclh4UzhMOWNmcmRkZkFVeVJ0UTdMSEoyRkJPOFRzRTNBNWp5dTlpUHIxWVo3YU1VbWpyMC01T2JwMXk?oc=5)
-
-2026-07-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmZJazVSVjN0NkRKTERFWlZLYnlhajhMUWtrWTBPeXRTX01ncGtNMTZDMko2aVctLUxaTXBRSmt2OXhqakptUVJrdmNMdTU1Ri1xb1hINW14d3R2SXJweW5FTDlmMXhUd2xTemJ5WWpzZ3hYVzFvZUFQRUEySU92X3oweWhYUktUR0lRemxDYklqclh4UzhMOWNmcmRkZkFVeVJ0UTdMSEoyRkJPOFRzRTNBNWp5dTlpUHIxWVo3YU1VbWpyMC01T2JwMXk?oc=5)
-
----
-
-### [30-Day High-Protein Diabetes-Friendly Meal Plan for Weight Loss, Created by a Dietitian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
-
-2026-07-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
-
----
-
-### [Cancers, pesticides : Louis-Adrien Delarue, médecin en lutte contre les « irresponsables politiques - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa29jNGIzR3cwQzMwM2locmpicGVDeV9JajJFWldaZkFudnFFVlFPWUVObmxCNFBsbkFMR2lKYXNwWWlxWTZmYUFOVk9hTEYweGhGbzg1U2xhYmFQeTN6eGFTam1WcTNlWldHWkc2QTBtSjlVUkx1LVVQRElWby1NbUNESnZoQ1JRQWc?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cancer</span>
-
-來源：[Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa29jNGIzR3cwQzMwM2locmpicGVDeV9JajJFWldaZkFudnFFVlFPWUVObmxCNFBsbkFMR2lKYXNwWWlxWTZmYUFOVk9hTEYweGhGbzg1U2xhYmFQeTN6eGFTam1WcTNlWldHWkc2QTBtSjlVUkx1LVVQRElWby1NbUNESnZoQ1JRQWc?oc=5)
-
----
-
-### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGpCc0hYc3BVOEhUcG5DZVRmblExUlE3djg2MGNMZE9wMEpBYlhDaFl4aEFjc3pocW1ZTXFsS2hzRmRnZ0pSZ0RTT0QxNWd6Uk1seHoxVEVia25vMkw3WUhPOGNoaGlFZzQ3MklHV2M3Y1BYZHQxVmZBaWcxNktMNkJyTENHR3dnNk9SY3VJWGVVNFgzNU44Z0h4ZlFaZk9jbnk3eXpKbGVhR0Rnc3M2bGhXSVpUZS1NX3c0cjBFb3I?oc=5)
-
-2026-07-18 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGpCc0hYc3BVOEhUcG5DZVRmblExUlE3djg2MGNMZE9wMEpBYlhDaFl4aEFjc3pocW1ZTXFsS2hzRmRnZ0pSZ0RTT0QxNWd6Uk1seHoxVEVia25vMkw3WUhPOGNoaGlFZzQ3MklHV2M3Y1BYZHQxVmZBaWcxNktMNkJyTENHR3dnNk9SY3VJWGVVNFgzNU44Z0h4ZlFaZk9jbnk3eXpKbGVhR0Rnc3M2bGhXSVpUZS1NX3c0cjBFb3I?oc=5)
-
----
-
-### [Hirntumor mit 14: David schliesst KV-Lehre mit Bestnote 5,6 ab - 20 Minuten](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFB3Zll0T2dNTXNNZmhBM0ZzQkFLVUkyRnFZU3hKZ0kxX1NWaWxXUUYwdXBkZk81MURENzZjLUJKYlYtdGx0Y3VuV0tfRjBWYUlyVXZ1bE84Z25hdWFwelJuSUJnQk1SaTNsZFBoRGw1YVIxaHA2ZWxKbHFHR2x0ekdCWVBNdWlYRFd0M2thYjZYRl9xUENWWDZyeUFRRHFKZE5ndWc1dzcwUkJuS0JYT09VUXd0S2tsWkE?oc=5)
-
-2026-07-18 <span class="news-indication-tag">tumor</span>
-
-來源：[20 Minuten](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFB3Zll0T2dNTXNNZmhBM0ZzQkFLVUkyRnFZU3hKZ0kxX1NWaWxXUUYwdXBkZk81MURENzZjLUJKYlYtdGx0Y3VuV0tfRjBWYUlyVXZ1bE84Z25hdWFwelJuSUJnQk1SaTNsZFBoRGw1YVIxaHA2ZWxKbHFHR2x0ekdCWVBNdWlYRFd0M2thYjZYRl9xUENWWDZyeUFRRHFKZE5ndWc1dzcwUkJuS0JYT09VUXd0S2tsWkE?oc=5)
-
----
-
-### [Beth Brown said she never wore SPF and has used sun beds from the age of 22](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnZISGJrdDE0T08yd2pVVzNLM2RNREplblpaQmFRV2JGX01qYVZRcXpTWlFMWEtQa19aV3JNeng2a1RCX2pYdVNFbUdfTTRpaVc4V0pSREp6NE16d1RWVW94OHlmRDhIS0hUOVFySnF4bGtHM2d0d0VKc3d2eGxmZFNteDV0UThLa2ZkOHpjWFE2TDhLRGFqQjRtNVBkWi11aDl3dTFGYkNvM2duakcxbnNjdFJIMWhFN2cxak5WcXRROGNTMjlRMWFITGo1elBTUU9sZ2haWDJOTzlNTHFwYw?oc=5)
+### [My face eczema turned out to be skin cancer that left me with a gaping hole in my face – I feel stupid not using SPF - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmpQRUR5SEtJUEF6cUVjNWx0a25HUHlhUWhDZzJFX2xWT0NZWjJFWkNmSHRvR2lCMEJsaEoxcExBMVBwTVhpTlNLcjU1a18xY2F0ZDA2Xy1WSzFCM0pCRFVES2tqTFZvNUxzdzBtMnd5c2xrT1hxSks4Z09IV2NYa0ljRl9aUzA3YnhlMFM0cGlYUQ?oc=5)
 
 2026-07-17 <span class="news-indication-tag">cancer</span>
 
-來源：[facebook.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUnZISGJrdDE0T08yd2pVVzNLM2RNREplblpaQmFRV2JGX01qYVZRcXpTWlFMWEtQa19aV3JNeng2a1RCX2pYdVNFbUdfTTRpaVc4V0pSREp6NE16d1RWVW94OHlmRDhIS0hUOVFySnF4bGtHM2d0d0VKc3d2eGxmZFNteDV0UThLa2ZkOHpjWFE2TDhLRGFqQjRtNVBkWi11aDl3dTFGYkNvM2duakcxbnNjdFJIMWhFN2cxak5WcXRROGNTMjlRMWFITGo1elBTUU9sZ2haWDJOTzlNTHFwYw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmpQRUR5SEtJUEF6cUVjNWx0a25HUHlhUWhDZzJFX2xWT0NZWjJFWkNmSHRvR2lCMEJsaEoxcExBMVBwTVhpTlNLcjU1a18xY2F0ZDA2Xy1WSzFCM0pCRFVES2tqTFZvNUxzdzBtMnd5c2xrT1hxSks4Z09IV2NYa0ljRl9aUzA3YnhlMFM0cGlYUQ?oc=5)
 
 ---
 

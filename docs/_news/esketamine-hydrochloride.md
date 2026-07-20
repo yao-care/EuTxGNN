@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Científicos españoles identifican 19 genes que harían que algunas personas sean más susceptibles a la depresión y la ansiedad](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbHZicVkybTJFR05OVzc4cmdzUXBUZHAyN1M0eUJWU2tReHNqNFFUSFFDcGFoTWZiRnhQS2lPR3poaHZ5OHpyRVl6ckh1d2VQak9IYUd5S2pKUlFPelI3cDRhRVc1a0xJdHZ6Zk40SWFRMFVJVnFHaUFtRTlfQ2RWSFhuVDJMZkM4ejI0MU5jQWlSanYyTTBBVHJxbG5yYmZLcWVSY2RVOVlUNHpkTGRUdEM3bHZPTUppcWVPS3J2UGR4NEdQLTlrazhuX3RWNFkwR0hlWGxWY2d5anlQMmJlNVNpTmlzWmwxVjNrMUk3ZUNCdkE?oc=5)
-
-2026-07-18 <span class="news-indication-tag">depresión</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbHZicVkybTJFR05OVzc4cmdzUXBUZHAyN1M0eUJWU2tReHNqNFFUSFFDcGFoTWZiRnhQS2lPR3poaHZ5OHpyRVl6ckh1d2VQak9IYUd5S2pKUlFPelI3cDRhRVc1a0xJdHZ6Zk40SWFRMFVJVnFHaUFtRTlfQ2RWSFhuVDJMZkM4ejI0MU5jQWlSanYyTTBBVHJxbG5yYmZLcWVSY2RVOVlUNHpkTGRUdEM3bHZPTUppcWVPS3J2UGR4NEdQLTlrazhuX3RWNFkwR0hlWGxWY2d5anlQMmJlNVNpTmlzWmwxVjNrMUk3ZUNCdkE?oc=5)
-
----
-
-### [Depression und Angst: KI-Coaching lindert Symptome um 51%](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
-
-2026-07-18 <span class="news-indication-tag">depression</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQREtjTnlNUlVvTnd4WWVNTzJGMmdqZHhzS1NxNzNnSFJ1UWJ4WXZtUDVQWlFGRmFoamVybV9hbnRKaVl4RGxFR2xjMWViM0lfOUs2eXd3SElmWl91OHlFQ1JXckszX1pFVGJ3dDhkSEpubHVUcGpVV0Jnd2ZCSmZUVy1BVFBKOWsxaTVmT2VYWWVSUVR3eWtTS1NFNUJBQkZES3hYeV9XZEllUlNhZTNtYkJn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

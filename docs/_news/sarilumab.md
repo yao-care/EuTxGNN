@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Kniearthrose: Plättchenreiches Plasma senkt Schmerz um 50%](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
-
-2026-07-19 <span class="news-indication-tag">asma</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
 
 2026-07-18 <span class="news-indication-tag">copd</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Krafttraining senkt Demenzrisiko um 45%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
-
-2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
 
 ---
 

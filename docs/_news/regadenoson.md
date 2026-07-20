@@ -54,11 +54,11 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（3 則）
 
-### [Kniearthrose: Plättchenreiches Plasma senkt Schmerz um 50%](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
+### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
-2026-07-19 <span class="news-indication-tag">asma</span>
+2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkw0YnlGLWZtcXZWNk00OW9rdU8zODFfOUJXTHlRRi1rb0QtbEJyc19aVUcyM1pjeDlKR0ZvMWtqMXBvemNISWVHSUI2YTJRX2ZlZWZIWllJTTE5b0ZQSlRiWVptX045dTZWN1p2cGpDRVc4VlkxdmkxZGVQM0kwZUNWWVVPRkR4bHFSYWNabVdKOUZXTHduWVJ4Z1VpQVBqSm4yWDlUYkEtbUsxRjRxZnFldmQ?oc=5)
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
 ---
 

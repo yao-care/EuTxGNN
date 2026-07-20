@@ -72,7 +72,7 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
-2026-07-18 <span class="news-indication-tag">obesity</span>
+2026-07-18 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 

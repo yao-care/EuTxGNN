@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
 
-### [Kognitives Training: 3.000 Schritte täglich bremsen Tau-Proteine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlRzVGtvc2FvTlk1alFtaW9YX2c0S2JjYUxmTXVQdGU2YnVydWhBZHA5YmxCTFpfdTdtdGpKRzFhbXdTS0JRQnVYelBDYmx5SFRfVjZNS0pHM2JGQS1SUjdnMV9xd2VFQmxULUF1N3RnZkZCR3g0QTQwdFJfTXlQanFwNXlKaS0xU2QzOTBuRG8yX3c1YWQ0OEFGaFl6OXpOOHFtWHpuX1pkajhLb1RUc2tYSQ?oc=5)
+### [La OMSA alerta de la primera transmisión sostenida de la rabia en mamíferos marinos - Diario Veterinario](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU9nNlU3QTlLQ0ZsTFk2SWk2YXd1WFNNSFVSb0xoRE5DbG15X2xuTmRyNEpEU0VaV1hHYnVobUZmdmtHNk1uR1FGNllaOTVNR1kzWkgzTTRoWjQ1V01faUg1dmJpRlQxTTlmcFhCcVBMVVA3OVFLREFaZnBBZjZSQXdmdWJ2YXN3V2toakZQNDNGeTNWMUZ1dnZzd3Z1OVMxU1NQUVVEa1pySF9TS0E?oc=5)
 
 2026-07-20 <span class="news-indication-tag">MS</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlRzVGtvc2FvTlk1alFtaW9YX2c0S2JjYUxmTXVQdGU2YnVydWhBZHA5YmxCTFpfdTdtdGpKRzFhbXdTS0JRQnVYelBDYmx5SFRfVjZNS0pHM2JGQS1SUjdnMV9xd2VFQmxULUF1N3RnZkZCR3g0QTQwdFJfTXlQanFwNXlKaS0xU2QzOTBuRG8yX3c1YWQ0OEFGaFl6OXpOOHFtWHpuX1pkajhLb1RUc2tYSQ?oc=5)
+來源：[Diario Veterinario](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU9nNlU3QTlLQ0ZsTFk2SWk2YXd1WFNNSFVSb0xoRE5DbG15X2xuTmRyNEpEU0VaV1hHYnVobUZmdmtHNk1uR1FGNllaOTVNR1kzWkgzTTRoWjQ1V01faUg1dmJpRlQxTTlmcFhCcVBMVVA3OVFLREFaZnBBZjZSQXdmdWJ2YXN3V2toakZQNDNGeTNWMUZ1dnZzd3Z1OVMxU1NQUVVEa1pySF9TS0E?oc=5)
+
+---
+
+### [Carlos Egea, experto en Sueño: “Dormir menos de 6 horas o más de 9 tiene consecuencias para la salud y aumenta el riesgo de mortalidad”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUVFkQUZyMUdVeGlLSUtFNnpwRUpZQTV0d3JMX3JYTW9vZmFraXh4dVZvazYwd2RYSFAxa3BhRDhIa0UzTUJMQlBTVUhRTW9lMDJ2WjlQdDh4MVRpbHVSYk50dk9XWjZfNzhOd2p6dmtTUy1IQXB1ZzJTU1RRM0FLbW40QkZPdnZCZmJlV1VFZV8xUWxoeHctUm9zSFFFS0YyNDlQclhtSTYxMk1qNUprYlRCUXlNZWpaT1dQV0FLcThvZVBnTmVNREh6Vk9vVXdEem9fREpUNUxESTJpSFRwNXFUQzZ0N1djcHNLelFn0gHzAUFVX3lxTE5XbGc0UVJ0N2dfQnFBZ2pqNTdmQml6YmVubUhSZVFLYTB4NEJ5dGFmaDVKb25kV0lJdzh4c1FYbXRMLTh2REtsOTdEZ3RqVWhYa0I0QjBVZTVSMjA0Mk1idk92Q1VHSGs3c0kzZEIzc0N6OWhsa2RpajBoLVVNUFI0T3gwZUhibzkwVkNPaFJ5TzlIOXd4TnYxWUpaUkVQSGlTbDZkUHItREpiT2RORkJGQl9PamFnU3pVRTNKTEMtc0E5aDFqeUx3S3JxRFJHWXZJcVJZNVV0SXByOVdGYkdzTXZDd2k3RFAyR2dzS3NpU0RLcw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUVFkQUZyMUdVeGlLSUtFNnpwRUpZQTV0d3JMX3JYTW9vZmFraXh4dVZvazYwd2RYSFAxa3BhRDhIa0UzTUJMQlBTVUhRTW9lMDJ2WjlQdDh4MVRpbHVSYk50dk9XWjZfNzhOd2p6dmtTUy1IQXB1ZzJTU1RRM0FLbW40QkZPdnZCZmJlV1VFZV8xUWxoeHctUm9zSFFFS0YyNDlQclhtSTYxMk1qNUprYlRCUXlNZWpaT1dQV0FLcThvZVBnTmVNREh6Vk9vVXdEem9fREpUNUxESTJpSFRwNXFUQzZ0N1djcHNLelFn0gHzAUFVX3lxTE5XbGc0UVJ0N2dfQnFBZ2pqNTdmQml6YmVubUhSZVFLYTB4NEJ5dGFmaDVKb25kV0lJdzh4c1FYbXRMLTh2REtsOTdEZ3RqVWhYa0I0QjBVZTVSMjA0Mk1idk92Q1VHSGs3c0kzZEIzc0N6OWhsa2RpajBoLVVNUFI0T3gwZUhibzkwVkNPaFJ5TzlIOXd4TnYxWUpaUkVQSGlTbDZkUHItREpiT2RORkJGQl9PamFnU3pVRTNKTEMtc0E5aDFqeUx3S3JxRFJHWXZJcVJZNVV0SXByOVdGYkdzTXZDd2k3RFAyR2dzS3NpU0RLcw?oc=5)
+
+---
+
+### [Online News: Aktualisierte Handlungsempfehlungen für Kinderwunsch und Schwangerschaft - ernährungs umschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxQazA1QXF1VVJubEUyOVZUT21KWmpEUXU0SXhiYkVMQzZqdEZGU3NkWndfRFVtLVhfSFJEMlBhLWFENkV5WXRfVWNsaVlaNVB2LUlCN0p5NGVZTUpDVDQzRUlsZkxxYnlrYi02MEhJNmc1dGY1NkxGRGY4WjNuSHVFNkZmRHBYVnRBVDdpbzZpZXNOeVBERkNtTXVidzE5NXN2YWd5RTU4bHdvMVNXV0Jr?oc=5)
+
+2026-07-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxQazA1QXF1VVJubEUyOVZUT21KWmpEUXU0SXhiYkVMQzZqdEZGU3NkWndfRFVtLVhfSFJEMlBhLWFENkV5WXRfVWNsaVlaNVB2LUlCN0p5NGVZTUpDVDQzRUlsZkxxYnlrYi02MEhJNmc1dGY1NkxGRGY4WjNuSHVFNkZmRHBYVnRBVDdpbzZpZXNOeVBERkNtTXVidzE5NXN2YWd5RTU4bHdvMVNXV0Jr?oc=5)
 
 ---
 
@@ -102,6 +118,14 @@ permalink: /news/grazoprevir/
 
 ---
 
+### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+
+---
+
 ### [New study sheds light on how Epstein-Barr virus may contribute to multiple sclerosis - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlEblUxYVpYbkZ1MXAyckZSZ2huYkFPa3FkMlhXSlVlbFVyd2MwSXpOVjNBeE9JcGt5NEk5bzdfVzROUlgtNzQ2SGVDYXFDQjNWXzVDdmlteUMxQ0NRU2dpV2tDODlEdHhPbXl6R21NZUM0eDFadWFydnJLWjNuWWc0LTZEQWZDSGc?oc=5)
 
 2026-07-18 <span class="news-indication-tag">multiple sclerosis</span>
@@ -110,11 +134,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Wissenschaft - Wie die eiserne Lunge einst Leben rettete](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFd0VHF0am40RUhmd1RtZkVkekR6WG5neWxpMmdOZG1rc1h3QVNnWk9pTGRtM0NWaXlvc0NOblFaY0c4d09oTmlZT3NiUGIzakNwcGF5aENjalJESGQ4amZjSTdWQzJGazVYTnVhWmtrS1dGUkFmRm83a1BFNldUSFU2WDNQNzd6RHdGTlhZamZ6dzhNR2I3bVJLMm41SE9mYUcyV0Flbm5uSjc2eTRpMlQwWHNDaTJkTEdUTXBGcUdzOTUxQ2VIVWc5MW14c3psejVzZHBKRlM?oc=5)
+### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
-2026-07-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-18 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[radioeins](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaFd0VHF0am40RUhmd1RtZkVkekR6WG5neWxpMmdOZG1rc1h3QVNnWk9pTGRtM0NWaXlvc0NOblFaY0c4d09oTmlZT3NiUGIzakNwcGF5aENjalJESGQ4amZjSTdWQzJGazVYTnVhWmtrS1dGUkFmRm83a1BFNldUSFU2WDNQNzd6RHdGTlhZamZ6dzhNR2I3bVJLMm41SE9mYUcyV0Flbm5uSjc2eTRpMlQwWHNDaTJkTEdUTXBGcUdzOTUxQ2VIVWc5MW14c3psejVzZHBKRlM?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
 ---
 
