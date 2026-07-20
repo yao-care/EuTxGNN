@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Rasburicase 有什麼相關新聞？">
-<strong>Rasburicase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasburicase</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rasburicase/
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+### [Cardiologists Wish You Would Stop Doing These 3 Things for High Blood Pressure](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1VmQi1Pdnk4YmNtNWxwVUs3Vll1TTNCMTFiazliMXd4NWdlbERaMF9LLWtOay01R0R0TTEzLTloVWtFTHN5cnhfbW1fRExOWER4RjRtYWZCei1UalEtdHQwRkVTdXhldTR3ZmhDZVBDMjl3SnotbS1MOEFIUnRfVGM1RS0?oc=5)
 
-2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-20 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1VmQi1Pdnk4YmNtNWxwVUs3Vll1TTNCMTFiazliMXd4NWdlbERaMF9LLWtOay01R0R0TTEzLTloVWtFTHN5cnhfbW1fRExOWER4RjRtYWZCei1UalEtdHQwRkVTdXhldTR3ZmhDZVBDMjl3SnotbS1MOEFIUnRfVGM1RS0?oc=5)
+
+---
+
+### [Alzheimer vorbeugen? 3000 Schritte täglich reichen bereits](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Blick](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/rasburicase/
 2026-07-20 <span class="news-indication-tag">high blood pressure</span>
 
 來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
+
+---
+
+### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
 
 ---
 

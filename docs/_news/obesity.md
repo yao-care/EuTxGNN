@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Medicamentos contra la obesidad: una revolución histórica...si sabemos utilizarlos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
+### [La Comunidad de Madrid identifica patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
 
 2026-07-20
 
-來源：[20Minutos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
+來源：[Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
 
 ---
 
@@ -51,14 +51,6 @@ permalink: /news/obesity/
 2026-07-19
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
-
----
-
-### [Patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
-
-2026-07-19
-
-來源：[Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
 ---
 

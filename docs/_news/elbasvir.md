@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
-### [La RDC supera los 2.300 casos de ébola mientras la OMS alerta de una crisis agravada por cuatro epidemias simultáneas - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZnQjJRdmlBLWxWVlZDdFZhXzAtUkhKeFJEdGJzSTh0QTYwcHNxZEc3VlE3dlotMmVfdUNUMTJGckZsLW1lc29UYnIweGJ0MzNfWWpSU0RwSUxLNnJNWk1Lek5VMXJERlJJVHkxY1pQMjBBTWdMSnozUjhaR0hKSUFseTRHNFdDRU11VTNwNUJ6NWxjMkRhRUxvQmlIX3J3SlhoSi1HbE10RktxWkFXU1VTRWQ?oc=5)
+### [Mainzer Forscher: Fortschritte bei der Therapie gegen Multiple Sklerose - Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
+
+---
+
+### [MASLD, ALD, Hepatitis: Früherkennung in der Hausarztpraxis - Medical Tribune](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzI2dnU1eEpNZ25JcVVndkNoR2hxaEJjMnc0NWVFbjc1S1RxS0tQekt1a1BxQnMwbEpWRzdyMC1KbzM1cFBQMTdzS0Z1bF9rQlozaUJnZnUwd0pCSXRqeUhnMlg5eWNfem5HN3lXbG1sTm1TWUJ4T3RTcDczY1RfOXZ4OHhCN0lpLWI1b1RHZzdwb05Ua1hRYXFpU1FxTmVucmxJ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzI2dnU1eEpNZ25JcVVndkNoR2hxaEJjMnc0NWVFbjc1S1RxS0tQekt1a1BxQnMwbEpWRzdyMC1KbzM1cFBQMTdzS0Z1bF9rQlozaUJnZnUwd0pCSXRqeUhnMlg5eWNfem5HN3lXbG1sTm1TWUJ4T3RTcDczY1RfOXZ4OHhCN0lpLWI1b1RHZzdwb05Ua1hRYXFpU1FxTmVucmxJ?oc=5)
+
+---
+
+### [Nutrición y salud cerebral: lo que comemos también cuida la memoria](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEJRbjRrejgzeEdmV2FkOG9NeEwwdHZuVXZnM0ZaVk5NeVBIUE1hdER1eFdseTltSkZ6OFJvOGYteS1WbGhmVG1rZXpsdDNXYi03WHdGRldFT1RhRHlreENSU0djVlUxWlFPWmpWNmVBSExIdHRZdFRfVHlGT0t6TUhUSGgySWNNMDVIbXEySQ?oc=5)
 
 2026-07-20 <span class="news-indication-tag">MS</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2ZnQjJRdmlBLWxWVlZDdFZhXzAtUkhKeFJEdGJzSTh0QTYwcHNxZEc3VlE3dlotMmVfdUNUMTJGckZsLW1lc29UYnIweGJ0MzNfWWpSU0RwSUxLNnJNWk1Lek5VMXJERlJJVHkxY1pQMjBBTWdMSnozUjhaR0hKSUFseTRHNFdDRU11VTNwNUJ6NWxjMkRhRUxvQmlIX3J3SlhoSi1HbE10RktxWkFXU1VTRWQ?oc=5)
+來源：[IPMARK](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEJRbjRrejgzeEdmV2FkOG9NeEwwdHZuVXZnM0ZaVk5NeVBIUE1hdER1eFdseTltSkZ6OFJvOGYteS1WbGhmVG1rZXpsdDNXYi03WHdGRldFT1RhRHlreENSU0djVlUxWlFPWmpWNmVBSExIdHRZdFRfVHlGT0t6TUhUSGgySWNNMDVIbXEySQ?oc=5)
 
 ---
 
@@ -78,11 +94,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [La OMS explica cuáles son los factores de riesgo de la demencia y cómo prevenirlos](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDR2TXJMeWJ2c09DMU5XMS05RWN5ZnpfV1JlZWZWZW5McjhLMWdsQlZ1MGFMRkpqanZrS0xzSHhTR2w3cnZTVHd4SVRaaWlhUlFJdVBwRGVqVEVjQ2tiam5adHdsREtuVXhPTG1WcVlLSUJ2YTZydFVDcTFZWnBFTUlKaWQ2TG5nUlFNSnFCdGpLdkZzSGRqT0RTM2J3TmgzNWZtc2ZQNmxmdnRuLTF3el9EWnU0Z9IBuwFBVV95cUxNaDV4bU03WEZSb2dnQzNhbHhYRHZQQlB4YU03MDA3emFCenZlMG1CZS04QlhHUDhZY3JOb2cwZVRpem1Jc083U2FmaHdIc0o1UnNYRFdkZGNjZTNCQURWTEYyeTczdFNZaVdNMTVlUWJDaHNSNTdEcnpBQTh5V0VSWE5CX3U3NjR3Tk54VFpEVmNEajJuUXNDbUJpS2NsNW1oZVQyVUsySlE3eDNvQi1pQVhHdEpuSnhwQVl3?oc=5)
+### [Surgeons use 3D imaging to operate on 13-year-old’s brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
 
-2026-07-19 <span class="news-indication-tag">MS</span>
+2026-07-20 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[lasprovincias.es](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDR2TXJMeWJ2c09DMU5XMS05RWN5ZnpfV1JlZWZWZW5McjhLMWdsQlZ1MGFMRkpqanZrS0xzSHhTR2w3cnZTVHd4SVRaaWlhUlFJdVBwRGVqVEVjQ2tiam5adHdsREtuVXhPTG1WcVlLSUJ2YTZydFVDcTFZWnBFTUlKaWQ2TG5nUlFNSnFCdGpLdkZzSGRqT0RTM2J3TmgzNWZtc2ZQNmxmdnRuLTF3el9EWnU0Z9IBuwFBVV95cUxNaDV4bU03WEZSb2dnQzNhbHhYRHZQQlB4YU03MDA3emFCenZlMG1CZS04QlhHUDhZY3JOb2cwZVRpem1Jc083U2FmaHdIc0o1UnNYRFdkZGNjZTNCQURWTEYyeTczdFNZaVdNMTVlUWJDaHNSNTdEcnpBQTh5V0VSWE5CX3U3NjR3Tk54VFpEVmNEajJuUXNDbUJpS2NsNW1oZVQyVUsySlE3eDNvQi1pQVhHdEpuSnhwQVl3?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
+
+---
+
+### [Filtered coffee links to slower biological aging while instant coffee shows the opposite](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDZXMjZZMEc2ZFJWWFl0WU4teWlNU3hJYWlJS2xOOFVOTXhfUVgza3ZaZlR6OUs4eVk2MFlKN1NoZmlULVBzZmxnazVoS3RPckFCMEZLZ2Jjemt2anBKMkNKWkktMW5xQzdNN1FuaFczYnhaMUx4S09PbXFQTE5Wc0xIcUlvNVVQV0xTcndJMnFlajRBMnctNHVkWDF1eTJxZGZkOWR4YTgxanhmVjU2Y3lHck5QQU9NaXI5Y3hUVVlPclpUTlh2OTQ4Tk05cVk2dGc?oc=5)
+
+2026-07-20 <span class="news-indication-tag">MS</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDZXMjZZMEc2ZFJWWFl0WU4teWlNU3hJYWlJS2xOOFVOTXhfUVgza3ZaZlR6OUs4eVk2MFlKN1NoZmlULVBzZmxnazVoS3RPckFCMEZLZ2Jjemt2anBKMkNKWkktMW5xQzdNN1FuaFczYnhaMUx4S09PbXFQTE5Wc0xIcUlvNVVQV0xTcndJMnFlajRBMnctNHVkWDF1eTJxZGZkOWR4YTgxanhmVjU2Y3lHck5QQU9NaXI5Y3hUVVlPclpUTlh2OTQ4Tk05cVk2dGc?oc=5)
 
 ---
 
@@ -107,22 +131,6 @@ permalink: /news/elbasvir/
 2026-07-19 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
-
----
-
-### [Una de cada cinco personas desarrollará cáncer a lo largo de su vida, según estimaciones de la OMS - 65 y más](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFMwdnZjbnd4b2RDdzYySl94eTYwbGVLUFNjODZNb2N1MHdLaFcwbHczMUp5dkl1UHdNcHdVWXRxQ3RDNzVPNnEzNVowQ1paeXJmSm9ac3VaN3FZQjRfX3p2dEZMbWtreXlkRDJjNnYtY21EQUZ3RmVXRVU5bFpTLTBvVzJRWEJEM012NTR5M3dVdkpSdFE?oc=5)
-
-2026-07-19 <span class="news-indication-tag">MS</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFMwdnZjbnd4b2RDdzYySl94eTYwbGVLUFNjODZNb2N1MHdLaFcwbHczMUp5dkl1UHdNcHdVWXRxQ3RDNzVPNnEzNVowQ1paeXJmSm9ac3VaN3FZQjRfX3p2dEZMbWtreXlkRDJjNnYtY21EQUZ3RmVXRVU5bFpTLTBvVzJRWEJEM012NTR5M3dVdkpSdFE?oc=5)
-
----
-
-### [New study sheds light on how Epstein-Barr virus may contribute to multiple sclerosis - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlEblUxYVpYbkZ1MXAyckZSZ2huYkFPa3FkMlhXSlVlbFVyd2MwSXpOVjNBeE9JcGt5NEk5bzdfVzROUlgtNzQ2SGVDYXFDQjNWXzVDdmlteUMxQ0NRU2dpV2tDODlEdHhPbXl6R21NZUM0eDFadWFydnJLWjNuWWc0LTZEQWZDSGc?oc=5)
-
-2026-07-18 <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlEblUxYVpYbkZ1MXAyckZSZ2huYkFPa3FkMlhXSlVlbFVyd2MwSXpOVjNBeE9JcGt5NEk5bzdfVzROUlgtNzQ2SGVDYXFDQjNWXzVDdmlteUMxQ0NRU2dpV2tDODlEdHhPbXl6R21NZUM0eDFadWFydnJLWjNuWWc0LTZEQWZDSGc?oc=5)
 
 ---
 

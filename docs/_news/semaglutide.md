@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Alzheimer vorbeugen? 3000 Schritte täglich reichen bereits](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Blick](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
+
+---
 
 ### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
 
-2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">diabetes</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
 
 ---
 
@@ -78,27 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Medicamentos contra la obesidad: una revolución histórica...si sabemos utilizarlos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
-
-2026-07-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
-
----
-
 ### [The best time to exercise if you want to lose stubborn belly fat, according to a doctor - GB News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5JZGN5TTBrV3ZTVDhobjRGbzF2a3JfenBGRExPNE01VlpPQ2x6NlVkbFNNcjlaaWNCWnVlRVlMU3QybndpQ0FHSE1uZlJDcUFYZlNpM0pveE53S2hTLUFtbEhFS0owTWVJLUNJSG01T0JsQmRzRmoxU3lvQ3NrUzJDaw?oc=5)
 
 2026-07-19 <span class="news-indication-tag">diabetes</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5JZGN5TTBrV3ZTVDhobjRGbzF2a3JfenBGRExPNE01VlpPQ2x6NlVkbFNNcjlaaWNCWnVlRVlMU3QybndpQ0FHSE1uZlJDcUFYZlNpM0pveE53S2hTLUFtbEhFS0owTWVJLUNJSG01T0JsQmRzRmoxU3lvQ3NrUzJDaw?oc=5)
-
----
-
-### [Diabetes tipo 2 y enfermedad renal - Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
-
-2026-07-18 <span class="news-indication-tag">diabetes</span>
-
-來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
 
 ---
 

@@ -54,19 +54,27 @@ permalink: /news/orlistat/
 
 ## 相關新聞（7 則）
 
+### [Ictus, un fattore molto diffuso moltiplica i rischi cerebrovascolari - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnFSLWQ0ei1EazJJTFFZQ0ZfV3hjOGRrb1VfVV9tM0poY2VJREsxUnQxM2xIMF94V1VBekk4YWlTTm9jZXJFMWpycWZnSlpZUzNRUnF4Zjl4X3hTVFV4b3VHdWxiSWt1a3pYcFBKeEZfcnUxNUtISTZTdnd4QVoyckVRaW1odno2bV8wS0J2MEQzRzBFWUF5MzZnQWhZajdic3ZnZk1WV0ppNFNiUkMyRjl5N0VIWWRf0gG-AUFVX3lxTE9sSmVlX0dSaDVHdXBEc3VoUlZEbWRiZHByNXluTldKRW5yVm1MbzctMWpGY0x3OUJTNUVCNDNPRGtEYkRnRTBkMzBQQVhnTUl5MlFtdGRTWVl2bXpLUlF5ZjdSVktTT0xYOE9fQU85ZDU4QWpnNXQ0RzdTN1E4ZjB3ZG90eksyWGpSRklIT08tT2oyRnk2RGFEVlNKMkg1clRXaXdZaVJXdTY1UE5pZVliWnI1cFNhbUczUWdBbkE?oc=5)
+
+2026-07-20 <span class="news-indication-tag">ictus</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnFSLWQ0ei1EazJJTFFZQ0ZfV3hjOGRrb1VfVV9tM0poY2VJREsxUnQxM2xIMF94V1VBekk4YWlTTm9jZXJFMWpycWZnSlpZUzNRUnF4Zjl4X3hTVFV4b3VHdWxiSWt1a3pYcFBKeEZfcnUxNUtISTZTdnd4QVoyckVRaW1odno2bV8wS0J2MEQzRzBFWUF5MzZnQWhZajdic3ZnZk1WV0ppNFNiUkMyRjl5N0VIWWRf0gG-AUFVX3lxTE9sSmVlX0dSaDVHdXBEc3VoUlZEbWRiZHByNXluTldKRW5yVm1MbzctMWpGY0x3OUJTNUVCNDNPRGtEYkRnRTBkMzBQQVhnTUl5MlFtdGRTWVl2bXpLUlF5ZjdSVktTT0xYOE9fQU85ZDU4QWpnNXQ0RzdTN1E4ZjB3ZG90eksyWGpSRklIT08tT2oyRnk2RGFEVlNKMkg1clRXaXdZaVJXdTY1UE5pZVliWnI1cFNhbUczUWdBbkE?oc=5)
+
+---
+
+### [La Comunidad de Madrid identifica patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">obesidad</span>
+
+來源：[Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
+
+---
+
 ### [Wie weiter nach Durchbruch-Schlaganfall trotz DOAK?](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
-
----
-
-### [Medicamentos contra la obesidad: una revolución histórica...si sabemos utilizarlos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
-
-2026-07-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/orlistat/
 2026-07-19 <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHVvSDNsSTJMQ2VIeXRkekxpWW93OWhJaUFRUExzWmRESzJJNWVKNlRaYkh3MzJ3NUtpTFB2WThid3dBb1JxVFlLQ0EzVHA3SHVJWDRtTl8yRVlUQ0pzTl9lWXppLVN1QkozRmllQkR3MnBSMXJhQTNfcUZzRTlFMWNpRjk4ZlRuS29OYmVmeTE4V0hPSTl5eDMyZ3Utb3NjWE9iX2hDSExNeDdrcEdkRmhLaVBIc0I4a1E?oc=5)
-
----
-
-### [Patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
-
-2026-07-19 <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
 
 ---
 

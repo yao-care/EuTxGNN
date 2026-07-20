@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [MASLD, ALD, Hepatitis: Früherkennung in der Hausarztpraxis - Medical Tribune](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzI2dnU1eEpNZ25JcVVndkNoR2hxaEJjMnc0NWVFbjc1S1RxS0tQekt1a1BxQnMwbEpWRzdyMC1KbzM1cFBQMTdzS0Z1bF9rQlozaUJnZnUwd0pCSXRqeUhnMlg5eWNfem5HN3lXbG1sTm1TWUJ4T3RTcDczY1RfOXZ4OHhCN0lpLWI1b1RHZzdwb05Ua1hRYXFpU1FxTmVucmxJ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzI2dnU1eEpNZ25JcVVndkNoR2hxaEJjMnc0NWVFbjc1S1RxS0tQekt1a1BxQnMwbEpWRzdyMC1KbzM1cFBQMTdzS0Z1bF9rQlozaUJnZnUwd0pCSXRqeUhnMlg5eWNfem5HN3lXbG1sTm1TWUJ4T3RTcDczY1RfOXZ4OHhCN0lpLWI1b1RHZzdwb05Ua1hRYXFpU1FxTmVucmxJ?oc=5)
+
+---
 
 ### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
 

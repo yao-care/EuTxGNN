@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,29 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [La Rioja inicia una investigación para prevenir el alzhéimer en personas con predisposición genética](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdEJ0aXlCQWh3MWx2amJwY2I4TGF1SEctT3BOVTJGOW8wOTl5dnNoNVBFX2llTU16cGMyLVAySDBCRkg2LXZ4ODBZT1lKSXVYZS1rWUpJRWV1UTA4YUR2T0VoZlIzRzJWRFBiTkpJdXJFMGpWVXhtTlZ4VzNWSEcyNkYzWkRhSXQySWU0d2t6Qi13U05BcWdyQlJ2VnhBTnU0OHJJbWVEQ0xrbFRlM2NKbUxJemN6Nm5oYXpuamRjbnQwLUNyeDA3Z0YxRTAwOUQxbXdRXzktZzhuZDVFVHp2b1dyQQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdEJ0aXlCQWh3MWx2amJwY2I4TGF1SEctT3BOVTJGOW8wOTl5dnNoNVBFX2llTU16cGMyLVAySDBCRkg2LXZ4ODBZT1lKSXVYZS1rWUpJRWV1UTA4YUR2T0VoZlIzRzJWRFBiTkpJdXJFMGpWVXhtTlZ4VzNWSEcyNkYzWkRhSXQySWU0d2t6Qi13U05BcWdyQlJ2VnhBTnU0OHJJbWVEQ0xrbFRlM2NKbUxJemN6Nm5oYXpuamRjbnQwLUNyeDA3Z0YxRTAwOUQxbXdRXzktZzhuZDVFVHp2b1dyQQ?oc=5)
+
+---
 
 ### [Kern Pharma lanza Carbidopa/Levodopa en comprimidos EFG para el tratamiento del Parkinson - Revista Pharma Market](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2N2aHZjMjlVOUlXOU9aRzNEeWZxY3VKMDBHeDBCMVpyZXoyUjF5S2VHc2I1SEQ0SlVNT2ltNDBQdE5OZTRKQmp5eDFRN195VHgxYmFhSVRuSmZXWUI1d05pM2RzeHRZc2tqLVljZDV2YVdrZGxGVHNlWGtOWUpLakw1ZzBJQXE4TUtUWVdlNEo2ek8wNElkNmZBdC1Tbi04OGRmV1pybS1zenRDLTU5V0RaWkpmZzlDV2c?oc=5)
 
 2026-07-20 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span>
 
 來源：[Revista Pharma Market](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2N2aHZjMjlVOUlXOU9aRzNEeWZxY3VKMDBHeDBCMVpyZXoyUjF5S2VHc2I1SEQ0SlVNT2ltNDBQdE5OZTRKQmp5eDFRN195VHgxYmFhSVRuSmZXWUI1d05pM2RzeHRZc2tqLVljZDV2YVdrZGxGVHNlWGtOWUpLakw1ZzBJQXE4TUtUWVdlNEo2ek8wNElkNmZBdC1Tbi04OGRmV1pybS1zenRDLTU5V0RaWkpmZzlDV2c?oc=5)
+
+---
+
+### [Where You Live May Shape Your Dementia Risk More Than Scientists Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDdHQlh0M1R5ZDhfMURPMmM0eVpqWGctOXZ6RDhra2tPUDA4M0wxS3JkN2lyaDRlUU5VTzI0YlFVSWhUR19BMUE1YWZsRC1ib3Z2bDlGRmRncEVwenZsRTE2NEt1QjZ5d0hEN296YWpXWEhhQWg5SkplRmxxYUxveHFXMlA3Nnk4TS1XZkVHQVA3WXJGRThfQ21zaFdYLThj?oc=5)
+
+2026-07-19 <span class="news-indication-tag">dementia</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDdHQlh0M1R5ZDhfMURPMmM0eVpqWGctOXZ6RDhra2tPUDA4M0wxS3JkN2lyaDRlUU5VTzI0YlFVSWhUR19BMUE1YWZsRC1ib3Z2bDlGRmRncEVwenZsRTE2NEt1QjZ5d0hEN296YWpXWEhhQWg5SkplRmxxYUxveHFXMlA3Nnk4TS1XZkVHQVA3WXJGRThfQ21zaFdYLThj?oc=5)
 
 ---
 

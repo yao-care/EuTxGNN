@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -54,11 +54,11 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（1 則）
 
-### [I thought I had arthritis — then I was diagnosed with a condition I'd never heard of - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+### [Le gène qui change tout : vers des traitements personnalisés contre le psoriasis - La Croix](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1FjNkQ0NDdQbVFvRzJvNm5kM3NjVkM5Qi1JYVJwbHhNOVJDc3JxNld4Q3J6am1wWXFXYWVqX1lCYk5WZFdFSDhMTlc0UTJ4WnBGVmU4czdVNC1VUG4waGNHTXphOUdhR1NuUW1VMlBuWmhvcW55ZnVYbVl5S0ZTVGFlZF9RLUZsYjU1Z0ZYQWFmdE1FQm5kQ3JkNXJEMUwxZHdzdkNmN2xSUlpQeHpHRWVBMXE4SlVlelE?oc=5)
 
-2026-07-20 <span class="news-indication-tag">arthritis</span>
+2026-07-20 <span class="news-indication-tag">psoriasis</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+來源：[La Croix](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1FjNkQ0NDdQbVFvRzJvNm5kM3NjVkM5Qi1JYVJwbHhNOVJDc3JxNld4Q3J6am1wWXFXYWVqX1lCYk5WZFdFSDhMTlc0UTJ4WnBGVmU4czdVNC1VUG4waGNHTXphOUdhR1NuUW1VMlBuWmhvcW55ZnVYbVl5S0ZTVGFlZF9RLUZsYjU1Z0ZYQWFmdE1FQm5kQ3JkNXJEMUwxZHdzdkNmN2xSUlpQeHpHRWVBMXE4SlVlelE?oc=5)
 
 ---
 
