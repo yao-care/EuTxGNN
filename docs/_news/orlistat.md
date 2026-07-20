@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（5 則）
 
+### [Schlaganfall vorbeugen: 80 Prozent der Fälle durch Blutdruck, Cholesterin und Risiko-Tools - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
+
+2026-07-19 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
+
+---
+
 ### [Un estudio avala la relación coste-efectividad de semaglutida 2,4 mg para tratar la obesidad en España](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
 
 2026-07-19 <span class="news-indication-tag">obesidad</span>
@@ -83,14 +91,6 @@ permalink: /news/orlistat/
 2026-07-18 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
-
----
-
-### [Beneficios de tirzepatida para apnea obstructiva del sueño](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
 
 ---
 

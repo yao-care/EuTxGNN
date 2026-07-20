@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
 ### [Migräne: Antientzündliche Kost mit Fisch und Kurkuma lindert Anfälle](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
 
@@ -91,22 +91,6 @@ permalink: /news/ziconotide/
 2026-07-18 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
-
----
-
-### [El ensayo de un fármaco contra la migraña demuestra la reducción a la mitad de los ataques](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
-
-2026-07-18 <span class="news-indication-tag">migraña</span>
-
-來源：[Merca2.es](https://news.google.com/rss/articles/CBMifkFVX3lxTE5IWG9GS0VTczh2dDhZbDVYUE1RS2JwZGhLSTRmQUpCM3FsM3VreGM1U2RXM3RJQlZKeXEzdDR5dlotVThXVEU4VGtMUTZmcXZ6VVdxN0tpQndjUGxCS2pwRVFRa1hOOVItMi1WbEUzU3FraThwVGF0ejJGMlozZw?oc=5)
-
----
-
-### [Beneficios de tirzepatida para apnea obstructiva del sueño](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
 
 ---
 

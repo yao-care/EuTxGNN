@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Un estudio avala la relación coste-efectividad de semaglutida 2,4 mg para tratar la obesidad en España](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/bupropion/
 2026-07-18 <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
-
----
-
-### [Beneficios de tirzepatida para apnea obstructiva del sueño](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
-
-2026-07-17 <span class="news-indication-tag">obesidad</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVR2bm9kbDJlNGFkUW56UE5BdDNZOHNydWdlOXdfMVN5Z202dmttMXR0b1hma0hjZG4yV3NYTndZUmlCZy1lZUt3YW9vRTdEWjlxdU5CbGJxeTVTRVBaSk54NHBxYTVhU2VpZTBWZ1dub0VsYW9ucG9oY2xnR3hIMGwtX0ZfVFV3ZG9kX1JNUkdXS0VjYl9Vc2NWTnllVFFXSURQZkNKdG5jLURnbG12WllzQjQ?oc=5)
 
 ---
 

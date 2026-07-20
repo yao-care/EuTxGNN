@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [The best time to exercise if you want to lose stubborn belly fat, according to a doctor - GB News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5JZGN5TTBrV3ZTVDhobjRGbzF2a3JfenBGRExPNE01VlpPQ2x6NlVkbFNNcjlaaWNCWnVlRVlMU3QybndpQ0FHSE1uZlJDcUFYZlNpM0pveE53S2hTLUFtbEhFS0owTWVJLUNJSG01T0JsQmRzRmoxU3lvQ3NrUzJDaw?oc=5)
+
+2026-07-19
+
+來源：[GB News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5JZGN5TTBrV3ZTVDhobjRGbzF2a3JfenBGRExPNE01VlpPQ2x6NlVkbFNNcjlaaWNCWnVlRVlMU3QybndpQ0FHSE1uZlJDcUFYZlNpM0pveE53S2hTLUFtbEhFS0owTWVJLUNJSG01T0JsQmRzRmoxU3lvQ3NrUzJDaw?oc=5)
+
+---
 
 ### [JAMA-Analyse: SGLT2- und GLP-1-Hemmer senken Alzheimer-Risiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZ5Y1NncDV6RC1BSENKZHFSRHM1STF4aVRVY0llb2plWFZkZmUwdHl1RUd4Y3NvS0l4ZnBwZ051U1AtNkp6MkN1Y1hGRkp4TlphUGI5Yms2WVgzQlh5dXdUcDJQbnlEYy1iVnNxemtvOHowUzlkSnZ0NHdPbjg0S1FvTFI1OW4tQ21SZFNqeGdleFQtby1hcFpwM2N0R2Rmbmc?oc=5)
 
@@ -129,6 +137,14 @@ permalink: /news/diabetes-mellitus/
 2026-07-18
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
+
+---
+
+### [30-Day High-Protein Diabetes-Friendly Meal Plan for Weight Loss, Created by a Dietitian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
+
+2026-07-18
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1N1b212ZlBKRjZCdzJ1ZjI2cDE4U001ZWdJX2YxTnBnWlNtU2lpM1pDZ19XLU1CZ1RuZkhwQ01WV2JFeDNwYXFBaEtOVmVEOGVrSzk5R0t0ZzB5NVB2VXJ2TmNDYm9UX2xLLXZNd19ITlNfS2pNcUx2VE5uYXE3UmRBRWJXSldxZmc3NXB0UVB4eHlf?oc=5)
 
 ---
 

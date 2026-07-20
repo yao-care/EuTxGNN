@@ -14,7 +14,7 @@ permalink: /news/everolimus/
 ---
 
 <p class="key-answer" data-question="Everolimus 有什麼相關新聞？">
-<strong>Everolimus</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Everolimus</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/everolimus/
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（20 則）
+
+### ['I beat cancer 13 years ago but it's come back even worse - I'm not ready to die' - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxQakcwM2xoQV9oNkw1cFM2Z21jbmFFdU8wTUtqeTlyVkhyRzVHYUhSZjh1b3h6TWZTRjZfbF9sUXZxMl82UGx3WTVDLTJQRlBETXlsVGpKTWpUTmt4U2xvSE5DNWNEbE5wNGxCNHpwUHBSRVRwTmdmb0ZNaERNMnFlNlFWT2VCZDDSAYwBQVVfeXFMTmttTnB4eDZnT1RrTkREaHFVWjVnTElkSHRIcEp1NjhJSHhITEdOSzVVTHEzWUE1amZRSHd6Zm5CcmNqVGQzcFdobUh3X1I3MXd1TDBENDNtZzF1OXZVcGNyRWVEdmZwX2Y3MmVyU0ZxSDZtM1U4Mmtsc21mUmZadG43Smg1Zlp1S0NscUs?oc=5)
+
+2026-07-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxQakcwM2xoQV9oNkw1cFM2Z21jbmFFdU8wTUtqeTlyVkhyRzVHYUhSZjh1b3h6TWZTRjZfbF9sUXZxMl82UGx3WTVDLTJQRlBETXlsVGpKTWpUTmt4U2xvSE5DNWNEbE5wNGxCNHpwUHBSRVRwTmdmb0ZNaERNMnFlNlFWT2VCZDDSAYwBQVVfeXFMTmttTnB4eDZnT1RrTkREaHFVWjVnTElkSHRIcEp1NjhJSHhITEdOSzVVTHEzWUE1amZRSHd6Zm5CcmNqVGQzcFdobUh3X1I3MXd1TDBENDNtZzF1OXZVcGNyRWVEdmZwX2Y3MmVyU0ZxSDZtM1U4Mmtsc21mUmZadG43Smg1Zlp1S0NscUs?oc=5)
+
+---
+
+### [«Ho venduto la mia casa per pagarmi le cure per il tumore al cervello, è stata la decisione più difficile che abbia mai preso» - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxOdFVHMFFudVRTajlaampaR09WM09yU0llcVZOR1RsNk5VcmF3N2w0Rkg1T0xYSkk2YUFsbVVIdTgycWI0c2MtdndfQVNGUGlzdnItNkQwSS12aHdJV3lQdGJkaWtTbVllRkVhY2xLQkhuVHI5Q1lsSTR5d1VDbm80ZkJ5Ql9TeHVOMGwtTkZiTWxQV053REhDcjBlU1JYd9IBmgFBVV95cUxNdW5XRXdmRFc3WE9QNFY1T0x5aUMtTVN6MHFrRmtCc1p6aXRfYVcyUm1UcVh6TS1VZkVWd0dIRWZUUGE1aWNrZ2wtMzZ3R3h1NzdjRjJjTC1BTXpkeF9zMVFzSndudnNKTHJxYTFCZ0RLOXRPS1lxM2hJWnJBYTF4VzhjVXVaek1ISG94YWdkcy1UV2NocXQwSGd3?oc=5)
+
+2026-07-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxOdFVHMFFudVRTajlaampaR09WM09yU0llcVZOR1RsNk5VcmF3N2w0Rkg1T0xYSkk2YUFsbVVIdTgycWI0c2MtdndfQVNGUGlzdnItNkQwSS12aHdJV3lQdGJkaWtTbVllRkVhY2xLQkhuVHI5Q1lsSTR5d1VDbm80ZkJ5Ql9TeHVOMGwtTkZiTWxQV053REhDcjBlU1JYd9IBmgFBVV95cUxNdW5XRXdmRFc3WE9QNFY1T0x5aUMtTVN6MHFrRmtCc1p6aXRfYVcyUm1UcVh6TS1VZkVWd0dIRWZUUGE1aWNrZ2wtMzZ3R3h1NzdjRjJjTC1BTXpkeF9zMVFzSndudnNKTHJxYTFCZ0RLOXRPS1lxM2hJWnJBYTF4VzhjVXVaek1ISG94YWdkcy1UV2NocXQwSGd3?oc=5)
+
+---
+
+### [Il batterio che apre la strada al tumore del colon. Ora sappiamo come ci riesce](https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG1xM184UTVnY1NNM0Rkb2pGTVB0S1JWbHNBeFNaeGJfbnJjZDhoek1zNHk3bTdDZVJWc2RBamF5al82ZFdwbjIwWVBrb2ZFUk15UlRZR1c2Mnk4b1o0VWlrYkhaUEh2b1VXaGV5aWZlcDdhV0FjRGpUQjA2MHBPSEx5RG1ydVlVQzFhNXVldDBTckxtcE9MSEpjSDdtUkhCajZTRzhzQ0ZCN2luOGRHTWtYUGI1ekJzdy1RcEJJc1VRVXNXWDc2akRB?oc=5)
+
+2026-07-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG1xM184UTVnY1NNM0Rkb2pGTVB0S1JWbHNBeFNaeGJfbnJjZDhoek1zNHk3bTdDZVJWc2RBamF5al82ZFdwbjIwWVBrb2ZFUk15UlRZR1c2Mnk4b1o0VWlrYkhaUEh2b1VXaGV5aWZlcDdhV0FjRGpUQjA2MHBPSEx5RG1ydVlVQzFhNXVldDBTckxtcE9MSEpjSDdtUkhCajZTRzhzQ0ZCN2luOGRHTWtYUGI1ekJzdy1RcEJJc1VRVXNXWDc2akRB?oc=5)
+
+---
 
 ### [Vacuna contra el cáncer de páncreas activa respuestas inmunitarias duraderas](https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWhQa21QV0Rxd09jV2x2R0xldG1XT2t5TXdxWk5WZ05mcEQtS1BwWW5uZjRYWlZ0WExxMkFhMkI3YmNuVkw0LU90NUc2T1dXd0xnams5RjhXMWxMUWRVM09ZakRSVTU0OWxPOE5WbldOV0NsdUhJVTJuSE9DQk1KTQ?oc=5)
 
@@ -91,6 +115,14 @@ permalink: /news/everolimus/
 2026-07-18 <span class="news-indication-tag">tumour</span>
 
 來源：[Burnham-On-Sea.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlhiRzMxRkVtSGdZem5HVDVSUnY1Wmp4aUhaYVJJTXVqaS1CM0laTWNTM3FUaEctald6a0JEXy1tYXF0d3FwUXVtN25BRW9Uc0ZINFFYYk8yd0FXRGRVZUhoN2duZ2paNDVNa1hYQUV0NUJKdHJPVGtRUkZkMDBiV0xDeHlrZEo5ejFkS1pwZEozNmtqT3pzTmtXYUJtN2EzWld0ekpXVVFjZUZNTjYwWkQ4V3lwNFlncmtKOFRHRHJVVlM5Wkt1VA?oc=5)
+
+---
+
+### [Altern: Drei Alterungsschübe um 34, 60 und 78 Jahre identifiziert](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXlvLVFqT0pCV2IzQXl2SWdTN2FHR09mV0t1WVNrX1M3ZGQtVjdiVjBWZ09fOHM5NVB5dmpKTFhtSEVqR0hCbWoxWGF5WjZROVRTQmV6QTF1YlVYRGdKcVlGSW5hOEVwLXhLTGttLXVDTVV1enRnTWROM294N0VFZ0gtSmFiS3FxblM2dzdsVVMxQ05UT2ZWdDBpNVk1TDJpOFBjdmxqMGpnRThDY1VDbVM3OA?oc=5)
+
+2026-07-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXlvLVFqT0pCV2IzQXl2SWdTN2FHR09mV0t1WVNrX1M3ZGQtVjdiVjBWZ09fOHM5NVB5dmpKTFhtSEVqR0hCbWoxWGF5WjZROVRTQmV6QTF1YlVYRGdKcVlGSW5hOEVwLXhLTGttLXVDTVV1enRnTWROM294N0VFZ0gtSmFiS3FxblM2dzdsVVMxQ05UT2ZWdDBpNVk1TDJpOFBjdmxqMGpnRThDY1VDbVM3OA?oc=5)
 
 ---
 
@@ -171,22 +203,6 @@ permalink: /news/everolimus/
 2026-07-18 <span class="news-indication-tag">tumor</span>
 
 來源：[20 Minuten](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFB3Zll0T2dNTXNNZmhBM0ZzQkFLVUkyRnFZU3hKZ0kxX1NWaWxXUUYwdXBkZk81MURENzZjLUJKYlYtdGx0Y3VuV0tfRjBWYUlyVXZ1bE84Z25hdWFwelJuSUJnQk1SaTNsZFBoRGw1YVIxaHA2ZWxKbHFHR2x0ekdCWVBNdWlYRFd0M2thYjZYRl9xUENWWDZyeUFRRHFKZE5ndWc1dzcwUkJuS0JYT09VUXd0S2tsWkE?oc=5)
-
----
-
-### [How these twins' rare growth disorder could provide the key to preventing cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHU4X193YzFJTGRTb2lKMnZUQWgzVTNORkpFSnJIMzNrS1B0SFpsM00tdEhCSmsxTUY3d1F4aDhaenJpSjItWnFvMXppVDFZMllfd0dKZnZNamxv?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHU4X193YzFJTGRTb2lKMnZUQWgzVTNORkpFSnJIMzNrS1B0SFpsM00tdEhCSmsxTUY3d1F4aDhaenJpSjItWnFvMXppVDFZMllfd0dKZnZNamxv?oc=5)
-
----
-
-### [Sobering explanation behind why people in these three countries barely get cancer](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
 
 ---
 

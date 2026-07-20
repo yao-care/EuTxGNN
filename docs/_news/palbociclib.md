@@ -14,7 +14,7 @@ permalink: /news/palbociclib/
 ---
 
 <p class="key-answer" data-question="Palbociclib 有什麼相關新聞？">
-<strong>Palbociclib</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Palbociclib</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/palbociclib/
 <p><a href="{{ '/drugs/palbociclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
+
+### ['I beat cancer 13 years ago but it's come back even worse - I'm not ready to die' - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxQakcwM2xoQV9oNkw1cFM2Z21jbmFFdU8wTUtqeTlyVkhyRzVHYUhSZjh1b3h6TWZTRjZfbF9sUXZxMl82UGx3WTVDLTJQRlBETXlsVGpKTWpUTmt4U2xvSE5DNWNEbE5wNGxCNHpwUHBSRVRwTmdmb0ZNaERNMnFlNlFWT2VCZDDSAYwBQVVfeXFMTmttTnB4eDZnT1RrTkREaHFVWjVnTElkSHRIcEp1NjhJSHhITEdOSzVVTHEzWUE1amZRSHd6Zm5CcmNqVGQzcFdobUh3X1I3MXd1TDBENDNtZzF1OXZVcGNyRWVEdmZwX2Y3MmVyU0ZxSDZtM1U4Mmtsc21mUmZadG43Smg1Zlp1S0NscUs?oc=5)
+
+2026-07-19 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxQakcwM2xoQV9oNkw1cFM2Z21jbmFFdU8wTUtqeTlyVkhyRzVHYUhSZjh1b3h6TWZTRjZfbF9sUXZxMl82UGx3WTVDLTJQRlBETXlsVGpKTWpUTmt4U2xvSE5DNWNEbE5wNGxCNHpwUHBSRVRwTmdmb0ZNaERNMnFlNlFWT2VCZDDSAYwBQVVfeXFMTmttTnB4eDZnT1RrTkREaHFVWjVnTElkSHRIcEp1NjhJSHhITEdOSzVVTHEzWUE1amZRSHd6Zm5CcmNqVGQzcFdobUh3X1I3MXd1TDBENDNtZzF1OXZVcGNyRWVEdmZwX2Y3MmVyU0ZxSDZtM1U4Mmtsc21mUmZadG43Smg1Zlp1S0NscUs?oc=5)
+
+---
+
+### [«Ho venduto la mia casa per pagarmi le cure per il tumore al cervello, è stata la decisione più difficile che abbia mai preso» - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxOdFVHMFFudVRTajlaampaR09WM09yU0llcVZOR1RsNk5VcmF3N2w0Rkg1T0xYSkk2YUFsbVVIdTgycWI0c2MtdndfQVNGUGlzdnItNkQwSS12aHdJV3lQdGJkaWtTbVllRkVhY2xLQkhuVHI5Q1lsSTR5d1VDbm80ZkJ5Ql9TeHVOMGwtTkZiTWxQV053REhDcjBlU1JYd9IBmgFBVV95cUxNdW5XRXdmRFc3WE9QNFY1T0x5aUMtTVN6MHFrRmtCc1p6aXRfYVcyUm1UcVh6TS1VZkVWd0dIRWZUUGE1aWNrZ2wtMzZ3R3h1NzdjRjJjTC1BTXpkeF9zMVFzSndudnNKTHJxYTFCZ0RLOXRPS1lxM2hJWnJBYTF4VzhjVXVaek1ISG94YWdkcy1UV2NocXQwSGd3?oc=5)
+
+2026-07-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxOdFVHMFFudVRTajlaampaR09WM09yU0llcVZOR1RsNk5VcmF3N2w0Rkg1T0xYSkk2YUFsbVVIdTgycWI0c2MtdndfQVNGUGlzdnItNkQwSS12aHdJV3lQdGJkaWtTbVllRkVhY2xLQkhuVHI5Q1lsSTR5d1VDbm80ZkJ5Ql9TeHVOMGwtTkZiTWxQV053REhDcjBlU1JYd9IBmgFBVV95cUxNdW5XRXdmRFc3WE9QNFY1T0x5aUMtTVN6MHFrRmtCc1p6aXRfYVcyUm1UcVh6TS1VZkVWd0dIRWZUUGE1aWNrZ2wtMzZ3R3h1NzdjRjJjTC1BTXpkeF9zMVFzSndudnNKTHJxYTFCZ0RLOXRPS1lxM2hJWnJBYTF4VzhjVXVaek1ISG94YWdkcy1UV2NocXQwSGd3?oc=5)
+
+---
+
+### [Il batterio che apre la strada al tumore del colon. Ora sappiamo come ci riesce](https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG1xM184UTVnY1NNM0Rkb2pGTVB0S1JWbHNBeFNaeGJfbnJjZDhoek1zNHk3bTdDZVJWc2RBamF5al82ZFdwbjIwWVBrb2ZFUk15UlRZR1c2Mnk4b1o0VWlrYkhaUEh2b1VXaGV5aWZlcDdhV0FjRGpUQjA2MHBPSEx5RG1ydVlVQzFhNXVldDBTckxtcE9MSEpjSDdtUkhCajZTRzhzQ0ZCN2luOGRHTWtYUGI1ekJzdy1RcEJJc1VRVXNXWDc2akRB?oc=5)
+
+2026-07-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPTG1xM184UTVnY1NNM0Rkb2pGTVB0S1JWbHNBeFNaeGJfbnJjZDhoek1zNHk3bTdDZVJWc2RBamF5al82ZFdwbjIwWVBrb2ZFUk15UlRZR1c2Mnk4b1o0VWlrYkhaUEh2b1VXaGV5aWZlcDdhV0FjRGpUQjA2MHBPSEx5RG1ydVlVQzFhNXVldDBTckxtcE9MSEpjSDdtUkhCajZTRzhzQ0ZCN2luOGRHTWtYUGI1ekJzdy1RcEJJc1VRVXNXWDc2akRB?oc=5)
+
+---
 
 ### [Vacuna contra el cáncer de páncreas activa respuestas inmunitarias duraderas](https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWhQa21QV0Rxd09jV2x2R0xldG1XT2t5TXdxWk5WZ05mcEQtS1BwWW5uZjRYWlZ0WExxMkFhMkI3YmNuVkw0LU90NUc2T1dXd0xnams5RjhXMWxMUWRVM09ZakRSVTU0OWxPOE5WbldOV0NsdUhJVTJuSE9DQk1KTQ?oc=5)
 
@@ -67,14 +91,6 @@ permalink: /news/palbociclib/
 2026-07-19 <span class="news-indication-tag">Krebs</span>
 
 來源：[Berliner Kurier](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHM3NWZabTVLcTBYOElrNFpCNDY3dEpRVHlkVlR3d2xqMG5UY2ZBTldNVXlkSjFXY1BMYjVsMEJHck9VbDU3NDhfWU9TRmxhak8zZW4ySWxIN3hTM2wzSWc4ZTc1ejU1SktWVDBUV0F2TmVoaF8xMzBRQmtDZXRkdTlXa3lIUFk?oc=5)
-
----
-
-### [Gebrechlichkeit: Dreifaches Bruchrisiko schon bei moderaten Formen](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
-
-2026-07-19 <span class="news-indication-tag">arthritis</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDJwZVhrTHd2NlVNVGM4MEEzbWRjbkRzUEl4MkxXSGlNb0RDYUhjc0NKbE9FazJmUmtfWDRTaEdQNUdHbkR6cTlZM0pGTFRzaXpZaEJXSHphMDlMRUhpbzN6Z25uclRMNUJNUUZfSWNHZkVQdjQzc3BzQ1kzX3RBVVNQUUc0d1c1dW5iZGRiSVVuRXpESHhDTHd6aXMzVDlBcmhJdmtPelNtWTFxM3A0ZVRDZWc?oc=5)
 
 ---
 
@@ -99,6 +115,14 @@ permalink: /news/palbociclib/
 2026-07-18 <span class="news-indication-tag">tumour</span>
 
 來源：[Burnham-On-Sea.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlhiRzMxRkVtSGdZem5HVDVSUnY1Wmp4aUhaYVJJTXVqaS1CM0laTWNTM3FUaEctald6a0JEXy1tYXF0d3FwUXVtN25BRW9Uc0ZINFFYYk8yd0FXRGRVZUhoN2duZ2paNDVNa1hYQUV0NUJKdHJPVGtRUkZkMDBiV0xDeHlrZEo5ejFkS1pwZEozNmtqT3pzTmtXYUJtN2EzWld0ekpXVVFjZUZNTjYwWkQ4V3lwNFlncmtKOFRHRHJVVlM5Wkt1VA?oc=5)
+
+---
+
+### [Altern: Drei Alterungsschübe um 34, 60 und 78 Jahre identifiziert](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXlvLVFqT0pCV2IzQXl2SWdTN2FHR09mV0t1WVNrX1M3ZGQtVjdiVjBWZ09fOHM5NVB5dmpKTFhtSEVqR0hCbWoxWGF5WjZROVRTQmV6QTF1YlVYRGdKcVlGSW5hOEVwLXhLTGttLXVDTVV1enRnTWROM294N0VFZ0gtSmFiS3FxblM2dzdsVVMxQ05UT2ZWdDBpNVk1TDJpOFBjdmxqMGpnRThDY1VDbVM3OA?oc=5)
+
+2026-07-18 <span class="news-indication-tag">Krebs</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXlvLVFqT0pCV2IzQXl2SWdTN2FHR09mV0t1WVNrX1M3ZGQtVjdiVjBWZ09fOHM5NVB5dmpKTFhtSEVqR0hCbWoxWGF5WjZROVRTQmV6QTF1YlVYRGdKcVlGSW5hOEVwLXhLTGttLXVDTVV1enRnTWROM294N0VFZ0gtSmFiS3FxblM2dzdsVVMxQ05UT2ZWdDBpNVk1TDJpOFBjdmxqMGpnRThDY1VDbVM3OA?oc=5)
 
 ---
 
@@ -128,7 +152,7 @@ permalink: /news/palbociclib/
 
 ### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
@@ -166,6 +190,14 @@ permalink: /news/palbociclib/
 
 ---
 
+### [Rheumatoide Arthritis: Krafttraining senkt Demenzrisiko um 45%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
+
+2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX08ySnFtTER3QS1MYml4UHR2NHdJRXM2ZUFBVFhobXZMZXJyRU4wYVJQQkhYaXNIVFREdFl0QVpKc1RrdnA0TkRQVnVYMU5XMEpkWWplbjh3empZMlJSUnFFWXN5U2M5dGEtSzVWU0gwUWpNU09wVGlOUmpiOGhkRkEydG1pcXlmZ3Yzeng2d0NfQzZ5VXBrVUJITWJpcGw5LVgyeTU1RDJpZUlCUjVfdmI3MlVjQVEy?oc=5)
+
+---
+
 ### [Cancers, pesticides : Louis-Adrien Delarue, médecin en lutte contre les « irresponsables politiques - Reporterre, le média de l'écologie](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa29jNGIzR3cwQzMwM2locmpicGVDeV9JajJFWldaZkFudnFFVlFPWUVObmxCNFBsbkFMR2lKYXNwWWlxWTZmYUFOVk9hTEYweGhGbzg1U2xhYmFQeTN6eGFTam1WcTNlWldHWkc2QTBtSjlVUkx1LVVQRElWby1NbUNESnZoQ1JRQWc?oc=5)
 
 2026-07-18 <span class="news-indication-tag">cancer</span>
@@ -195,30 +227,6 @@ permalink: /news/palbociclib/
 2026-07-18 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0hpanpSaG9tQng3aEllOF80clBLTmtPZ25QUDZaWXJsUWtGT0VCVzdVNGhRNjNsN1p3UFBfTlluOFdLdTc0cld3Q0pHSkVyRG5hS180eWRXbzFlcXVqSlZSeks2TURHUTZ4ck9tVXJJbGVwQTFxcDhuRmg3Yk5CZmptWVlUNFZhOWFQQktnVVhmN3FVR3RWVlhCTTYzd0F5ZUhwTTBYc240bFdPUHZKSGM4S3I5MDBqX2FaV2VGTWRGbDlrUzBSam9VZVJFV1RrMVpON0s1OTlhWFZ2VUl3cnc5NXMzZzFDZ1RleW1RbnUxWFFfYWFLZHBn0gGEAkFVX3lxTE5xcWRzNUc1ZFQ1cFU4bFR0ZWg1ZUF0WVlZeEJhYkZkN2JFNDFMTzNTOXVXdFE0WVhMZ1oyYTd1YmJoWU55d3k3cXdXNEpGTGVUSjVSakNEa3dKYjRubmx4Vk8tRFplaU5RQTBLSm5HRjc2OXBXLThja3RZd3hCSDRRTjl3a09BWnFQX1FxVXhQYk5MWTJvaGd6X3pwZHpZUDA5OXZDb3RFZUxlVmxfMHdHZGZFOV96ZGU5bFYwQUw0bzFGbFVwdTZiazhaeVczZzRsam1hRG1WODdEYVRUQWJpLXhJa2ZySFViRVRsY1poX3lQbXIyY3VseDZJdmpaWElYSldz?oc=5)
-
----
-
-### [Krafttraining und Zelltherapien: Neue Daten zu Entzündungen bei Rheuma & Co. - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
-
-2026-07-18 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXpQX212Zm9kRXJCbXhQZk93bmNhbldmY0V6ampORUVzNnZlaHRLcWZVOW5ONXUwTDFZT3cyY1JWMExaLW9zbFcwV3IweEdvUE1nSHZMYzBXZzRSd21HbTFkUU04ZThSRVlYT3h1b3hCek5DVEJGaTI1MHhhd2JzV3JtTS1IT1kyRXh1YzhqdGFGdjZ3a2tlSG5HSjJqTkJxWVNVNnFhLUw?oc=5)
-
----
-
-### [How these twins' rare growth disorder could provide the key to preventing cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHU4X193YzFJTGRTb2lKMnZUQWgzVTNORkpFSnJIMzNrS1B0SFpsM00tdEhCSmsxTUY3d1F4aDhaenJpSjItWnFvMXppVDFZMllfd0dKZnZNamxv?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHU4X193YzFJTGRTb2lKMnZUQWgzVTNORkpFSnJIMzNrS1B0SFpsM00tdEhCSmsxTUY3d1F4aDhaenJpSjItWnFvMXppVDFZMllfd0dKZnZNamxv?oc=5)
-
----
-
-### [Sobering explanation behind why people in these three countries barely get cancer](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
-
-2026-07-17 <span class="news-indication-tag">cancer</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEQ2UFFHeTZ0MVhqMzhVSUJYWjd3NUZqYlhMQU9BVElDM05vekxZSHMzV01uZktSZGFpSS1sN3BBRVlVbTUySFRLTGkxRTJPcV9qSHBZNTVmSkRhZjRJMWNxeGJqdEFGTzVwYUs2N1h2NmhTZGxfWjdyMjN2NDNvRXBHZkROdm5hWVlxbHdLUEJCRGpncWdqSEhXSFlYc0E?oc=5)
 
 ---
 

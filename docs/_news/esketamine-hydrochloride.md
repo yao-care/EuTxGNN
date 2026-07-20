@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [L’avatar che ti parla e riconosce la depressione dai segnali del corpo](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3NuNFkwZ011dzNKc2w2UnFpWHdmVDFneEpiQVVRUmVXZjZaUGtqYW16MTVDenlrOVpZcm5NR21EaFBxck1EdkpubURKYVFQU0RTTFdoM1MtekRwc3lrY21nM3JsLTVCcWNDR3NOTUVIdE9MUXZhU0xVRFdZYlNnZnVUcEFMM2NNeUNfc3p6eGhLNTRoVjBmeHpjTDFnZXg1LUYxLU9vUTBQeEpCSkVSWHBHdXBreGdpMmZVOU4tX0tWdmtWNzVmSw?oc=5)
-
-2026-07-19 <span class="news-indication-tag">depression</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3NuNFkwZ011dzNKc2w2UnFpWHdmVDFneEpiQVVRUmVXZjZaUGtqYW16MTVDenlrOVpZcm5NR21EaFBxck1EdkpubURKYVFQU0RTTFdoM1MtekRwc3lrY21nM3JsLTVCcWNDR3NOTUVIdE9MUXZhU0xVRFdZYlNnZnVUcEFMM2NNeUNfc3p6eGhLNTRoVjBmeHpjTDFnZXg1LUYxLU9vUTBQeEpCSkVSWHBHdXBreGdpMmZVOU4tX0tWdmtWNzVmSw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Científicos españoles identifican 19 genes que harían que algunas personas sean más susceptibles a la depresión y la ansiedad](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbHZicVkybTJFR05OVzc4cmdzUXBUZHAyN1M0eUJWU2tReHNqNFFUSFFDcGFoTWZiRnhQS2lPR3poaHZ5OHpyRVl6ckh1d2VQak9IYUd5S2pKUlFPelI3cDRhRVc1a0xJdHZ6Zk40SWFRMFVJVnFHaUFtRTlfQ2RWSFhuVDJMZkM4ejI0MU5jQWlSanYyTTBBVHJxbG5yYmZLcWVSY2RVOVlUNHpkTGRUdEM3bHZPTUppcWVPS3J2UGR4NEdQLTlrazhuX3RWNFkwR0hlWGxWY2d5anlQMmJlNVNpTmlzWmwxVjNrMUk3ZUNCdkE?oc=5)
 
