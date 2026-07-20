@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+### [GSK lanza en España depemokimab, el primer biológico ultraprolongado para asma grave y poliposis nasal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
 
-2026-07-18 <span class="news-indication-tag">copd</span>
+2026-07-20 <span class="news-indication-tag">asma</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+來源：[pharmatech.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
+
+---
+
+### [I thought I had arthritis — then I was diagnosed with a condition I'd never heard of - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
 
 ---
 

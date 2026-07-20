@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
@@ -62,9 +62,17 @@ permalink: /news/givosiran/
 
 ---
 
+### [The #1 Thing to Avoid If You Have High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
+
+2026-07-20 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
+
+---
+
 ### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
 
-2026-07-19 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-07-19 <span class="news-indication-tag">epatite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
 

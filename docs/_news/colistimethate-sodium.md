@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [I thought I had arthritis — then I was diagnosed with a condition I'd never heard of - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+---
 
 ### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+
+---
+
+### [The #1 Thing to Avoid If You Have High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
+
+2026-07-20 <span class="news-indication-tag">high blood pressure</span>
+
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
 
 ---
 

@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li>asthma（99.5%）</li>
+<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asma</span></li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -54,11 +54,11 @@ permalink: /news/budesonide/
 
 ## 相關新聞（1 則）
 
-### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+### [GSK lanza en España depemokimab, el primer biológico ultraprolongado para asma grave y poliposis nasal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
 
-2026-07-18 <span class="news-indication-tag">copd</span>
+2026-07-20 <span class="news-indication-tag">asma</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
+來源：[pharmatech.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
 
 ---
 

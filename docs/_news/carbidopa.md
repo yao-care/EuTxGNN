@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Kern Pharma lanza Carbidopa/Levodopa en comprimidos EFG para el tratamiento del Parkinson - Revista Pharma Market](https://news.google.com/rss/articles/CBMiugFBVV95cUxPc2N2aHZjMjlVOUlXOU9aRzNEeWZxY3VKMDBHeDBCMVpyZXoyUjF5S2VHc2I1SEQ0SlVNT2ltNDBQdE5OZTRKQmp5eDFRN195VHgxYmFhSVRuSmZXWUI1d05pM2RzeHRZc2tqLVljZDV2YVdrZGxGVHNlWGtOWUpLakw1ZzBJQXE4TUtUWVdlNEo2ek8wNElkNmZBdC1Tbi04OGRmV1pybS1zenRDLTU5V0RaWkpmZzlDV2c?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/carbidopa/
 2026-07-19 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMisgFBVV95cUxObmFIcGJYVHVZRU1ZT0d6dXBLNWR1VDA0X3dxSXBLX3NyYTY3Q19sOXFKX1UzZWtMTUJNLUk1N1dXakR5Y3JRZUt2MkdCVTROMzF2cDBOM1dlQXNFbnZCTGYwd3pxNXczd1ZmODdiaE5pbFdweHQ5WkJYTVhQY3dNN1YwZ3YwSUZ6a1RUc01FMTZjQTltSW1rSDQ4bS11eW9MRThfcGJRLWhqQUtLX2I4VXVR?oc=5)
-
----
-
-### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
-
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
 ---
 

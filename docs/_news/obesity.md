@@ -38,6 +38,14 @@ permalink: /news/obesity/
 
 ## 相關新聞（3 則）
 
+### [Medicamentos contra la obesidad: una revolución histórica...si sabemos utilizarlos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
+
+2026-07-20
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjVvbW1NbGJSNGV2eHc5WXRkUmJpNTU4YlpaajJ1ODMtazFubFpWTFVESm5VWUZFMWQzOVRncUZ5ZXFxZXN1LXNRV3d2UjJ6cWZyTFpCeWJQWEF4dWVkbkI1NWlKeVBXWHZ3aFhrMjJHNmFRU0Q0Q2xaWmxuM1N3Q2ZaNFRyUkd2YWJMaGVDWXdDdXhxNEdtTkN4eG9MZHNIdW55c0dkS2V3RXhicl9VUU5FNEtaY2V4dzdjWVBvVGFQY2p6?oc=5)
+
+---
+
 ### [Un estudio avala la relación coste-efectividad de semaglutida 2,4 mg para tratar la obesidad en España](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
 
 2026-07-19
@@ -51,14 +59,6 @@ permalink: /news/obesity/
 2026-07-19
 
 來源：[Diario de Gastronomía](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0lRa3pPMDhXRUNaZGc3MlRDSEtSeGxNbkdOVGZPd2VBNlhzTDVaN3lSZnZZZmZEOTJPaUxtVlIyQ1RlalFtdElJVUhxZmVkclpsblBZc2lEZFhiQUlQMVFmT20tbk5yMFh4eVhDU1UzcmEwemY5OTBjSFJpQWdsQzVZNTVYeGpudzZvTTFSdHNmZmN3OU4xejZNdW1tSm54S2xXbmN4MXVBdW8?oc=5)
-
----
-
-### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
-
-2026-07-18
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
 ---
 

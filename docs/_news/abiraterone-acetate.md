@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [How Much Coffee Is Too Much? Heart Experts Have a New Answer](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
+
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
+
+---
+
+### [Migräne: Warum viele Patienten unzureichend behandelt sind - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Migräne</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
+
+---
+
+### [I thought I had arthritis — then I was diagnosed with a condition I'd never heard of - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+---
 
 ### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
@@ -64,17 +88,25 @@ permalink: /news/abiraterone-acetate/
 
 ### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
-2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">migraine</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
 ---
 
-### [Migräne: Antientzündliche Kost mit Fisch und Kurkuma lindert Anfälle](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
+### [The #1 Thing to Avoid If You Have High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
 
-2026-07-19 <span class="news-indication-tag">Migräne</span>
+2026-07-20 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
+
+---
+
+### [Migräne-Risiko senken: Pflanzen pro Woche, GLP-1 und mediterrane Kost - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Migräne</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
 
 ---
 
@@ -83,14 +115,6 @@ permalink: /news/abiraterone-acetate/
 2026-07-19 <span class="news-indication-tag">migraine</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtMRkJBMl96NUdabHd1X3FfRm9zSG9xUEFXa3FOaTh2SWFDTHE1RzE3R1NfcTdSMTJ2WlpESlpMOFNkYzlNU3k0QUxnWEEtcXVjTkZobEVDelFVeDlDNGg1OHlvcndDOV8xa3p6NEtSSkEwQ1RodW40ZzdsN1pHN2lWR0YzcERPNDg0b0hwUmR3b3EyOTY1NEljR2JxYTZi?oc=5)
-
----
-
-### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
-
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Un biomarqueur d'Alzheimer détecté à 45 ans — 25 ans avant les premiers symptômes habituels](https://news.google.com/rss/articles/CBMisgFBVV95cUxObmFIcGJYVHVZRU1ZT0d6dXBLNWR1VDA0X3dxSXBLX3NyYTY3Q19sOXFKX1UzZWtMTUJNLUk1N1dXakR5Y3JRZUt2MkdCVTROMzF2cDBOM1dlQXNFbnZCTGYwd3pxNXczd1ZmODdiaE5pbFdweHQ5WkJYTVhQY3dNN1YwZ3YwSUZ6a1RUc01FMTZjQTltSW1rSDQ4bS11eW9MRThfcGJRLWhqQUtLX2I4VXVR?oc=5)
 
 2026-07-19
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMisgFBVV95cUxObmFIcGJYVHVZRU1ZT0d6dXBLNWR1VDA0X3dxSXBLX3NyYTY3Q19sOXFKX1UzZWtMTUJNLUk1N1dXakR5Y3JRZUt2MkdCVTROMzF2cDBOM1dlQXNFbnZCTGYwd3pxNXczd1ZmODdiaE5pbFdweHQ5WkJYTVhQY3dNN1YwZ3YwSUZ6a1RUc01FMTZjQTltSW1rSDQ4bS11eW9MRThfcGJRLWhqQUtLX2I4VXVR?oc=5)
-
----
-
-### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
-
-2026-07-18
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
 
 ---
 

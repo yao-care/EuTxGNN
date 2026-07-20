@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+---
+
+### [Oui, il est possible de guérir du diabète de type 2 - National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabète</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+---
+
+### [I thought I had arthritis — then I was diagnosed with a condition I'd never heard of - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+---
 
 ### [Wenn die Haut vor Diabetes warnt](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
 
 2026-07-20 <span class="news-indication-tag">diabetes</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
-
----
-
-### [SGLT2- und GLP-1-Medikamente: Warum sinkt Alzheimer-Risiko bei Typ-2-Diabetes? - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/cabotegravir/
 2026-07-18 <span class="news-indication-tag">diabetes</span>
 
 來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0NQVEkybTkyN3pwTzdCeURzeXJzQmFsYTl4Z1pJQm5Gd0pGdVJCUk5ocGlsQkk3bjlkWWVldnNuT0hEYTJaRWtzMU5RYjR3dVZQOWhCYkU1V2s2MUlPNnVQQ1d6OFdZUnhacDViQ2liOWJJTlRDMGk0WFVBeFc5TmNVUW56QjAxeVJBdzVRSExzQWZBYVN4OEpxbHFVbmFhYkhFaUpxUEtMSkpjaVJ5MTM2OE1fUU5lSkpKZEhQSEpXQld2RTdIWDhR?oc=5)
-
----
-
-### [COPD-Schübe: 76% zeigen Gehirn-Beeinträchtigung innerhalb 24h](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
-
-2026-07-18 <span class="news-indication-tag">copd</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkN0Wm9WZ0x5Q0xoVFZFZXk5NXFqRHBpVFpQY0V2MFNIQkJCejk3TlFpUlk2TUtzU2RfQlFLdkdQc2l1azU4bnZseTgxM09jSDVhQjNadFZnTkF4RDJYTWlFT1B5TEprMWhoNnJUMTJBQm4zOTBfZmhkc0dVR29xMTNfWVFUdDNZWDVSdmxTYzNUU0gyUWJ0eWlScWplaHBZVlNxeXlPbVU5aHdRNWNLUVNJV3lsQTlnZHc?oc=5)
 
 ---
 

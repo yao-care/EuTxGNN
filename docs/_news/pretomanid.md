@@ -54,11 +54,11 @@ permalink: /news/pretomanid/
 
 ## 相關新聞（1 則）
 
-### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+### [How Much Coffee Is Too Much? Heart Experts Have a New Answer](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
 
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
 
 ---
 

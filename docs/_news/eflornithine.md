@@ -14,7 +14,7 @@ permalink: /news/eflornithine/
 ---
 
 <p class="key-answer" data-question="Eflornithine 有什麼相關新聞？">
-<strong>Eflornithine</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eflornithine</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,79 @@ permalink: /news/eflornithine/
 <p><a href="{{ '/drugs/eflornithine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（38 則）
+
+### [HIV erhöht Risiko für HPV-assoziierte Krebserkrankungen stärker als Organtransplantation – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZURIN0lIelBiSlh5RDFHYWtEZ19XS051NUJIa2hWUHdLNTVoWWVmQVpQdGJQVzQ3dmQ0MlhWRDN1WWg4MG1BZ0hsUE1CdnlXMUtLWDNpTmUzOUw4TDhIR3VmSkYza0JQN2pkS1RsTDZIU2h6b2dtTEQweVM2ei1YODBfeDZCcm9IRGloWFlHYTdWVWJJd2tlX3hSUW9pMFhTck9qVVRwRGJDZnF6azExZEFuNkZJdVJrWWM5QWk0c3hhOHRXZ1MtZWw3TjFtUGNwOExuY2dqMGkzenVSbGQxMkhnLXJTN3VNV1U4M3hn?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZURIN0lIelBiSlh5RDFHYWtEZ19XS051NUJIa2hWUHdLNTVoWWVmQVpQdGJQVzQ3dmQ0MlhWRDN1WWg4MG1BZ0hsUE1CdnlXMUtLWDNpTmUzOUw4TDhIR3VmSkYza0JQN2pkS1RsTDZIU2h6b2dtTEQweVM2ei1YODBfeDZCcm9IRGloWFlHYTdWVWJJd2tlX3hSUW9pMFhTck9qVVRwRGJDZnF6azExZEFuNkZJdVJrWWM5QWk0c3hhOHRXZ1MtZWw3TjFtUGNwOExuY2dqMGkzenVSbGQxMkhnLXJTN3VNV1U4M3hn?oc=5)
+
+---
+
+### [Zucker raus, Fett rein: Hilft eine Keto-Diät bei psychischen Erkrankungen? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkVSYjJXOWhqcjEyaGhuY1hhZjVhcXRjNHh6c1B0UGFpSU9aZTRpRE80ZWZlYVpLTlR0X1NVTmV3TDdiN0hyMVpFOTZNOWotY2lZNTlDRC1nbjVUWkJsLVRlYUU2Q3YwSmhnOHVXQmZSby1nMFJkVld5TTRVU2xGWE54czhOR2FnWjVfZzN3aW5zVVo4UkhHVGxNVm10cThqb00xZWdYUjNzdw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkVSYjJXOWhqcjEyaGhuY1hhZjVhcXRjNHh6c1B0UGFpSU9aZTRpRE80ZWZlYVpLTlR0X1NVTmV3TDdiN0hyMVpFOTZNOWotY2lZNTlDRC1nbjVUWkJsLVRlYUU2Q3YwSmhnOHVXQmZSby1nMFJkVld5TTRVU2xGWE54czhOR2FnWjVfZzN3aW5zVVo4UkhHVGxNVm10cThqb00xZWdYUjNzdw?oc=5)
+
+---
+
+### [95 % des cancers agressifs repérés : un test urinaire pourrait éviter un tiers des biopsies](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZktTdFI3M2w2bVNGaW94ck1waWpkbkIzYlRHUXI2dWx4b2h4U2RtUG04YUxFcmpEWEVKS25zZFlwQ1BjUzhRVnJiRV9YT0NTVmxhbk1IS3VaZmVtQ0ZMTEVjaDdqelBnZnktNGVHTGc3SXNucmRJQXVTRzUwT2ZZbXZtNnJOQnF0Q1EyQUgzaGI2ZTNqZkdrMUxqSTY1M3d6MDVZU1FJSDBzWFVBa04xWQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZktTdFI3M2w2bVNGaW94ck1waWpkbkIzYlRHUXI2dWx4b2h4U2RtUG04YUxFcmpEWEVKS25zZFlwQ1BjUzhRVnJiRV9YT0NTVmxhbk1IS3VaZmVtQ0ZMTEVjaDdqelBnZnktNGVHTGc3SXNucmRJQXVTRzUwT2ZZbXZtNnJOQnF0Q1EyQUgzaGI2ZTNqZkdrMUxqSTY1M3d6MDVZU1FJSDBzWFVBa04xWQ?oc=5)
+
+---
+
+### [Wie gesund ist Chili wirklich? Studie findet Zusammenhang mit Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUtVdEJxTGFXNFNFOEI4Tk5lU3prUHgwcm50Qk91YU9PbVlaelpuUUc5TTJBNlJEckd6ZEx5WW9pOUkyVEJZcF81ZHhNYkxnempKb2ZQMlpXQWRXSEZKQ0EyS2dHTzhtZ2dhZkhMQnM0NkVHcUc2Z1FrdVZmZ1lRck1xTm1zYjhQVUJ3Mjg4ZndrTXh1eUlfcWRQYkpXQlpyX0gzNGZqU05EaTEwZ3cwakt2ZDZIUQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUtVdEJxTGFXNFNFOEI4Tk5lU3prUHgwcm50Qk91YU9PbVlaelpuUUc5TTJBNlJEckd6ZEx5WW9pOUkyVEJZcF81ZHhNYkxnempKb2ZQMlpXQWRXSEZKQ0EyS2dHTzhtZ2dhZkhMQnM0NkVHcUc2Z1FrdVZmZ1lRck1xTm1zYjhQVUJ3Mjg4ZndrTXh1eUlfcWRQYkpXQlpyX0gzNGZqU05EaTEwZ3cwakt2ZDZIUQ?oc=5)
+
+---
+
+### [Manuel J. Castillo, médico: “Administrar testosterona podría favorecer el crecimiento de células tumorales de la próstata que ya estuvieran presentes” - La Vanguardia](https://news.google.com/rss/articles/CBMinwJBVV95cUxPRDJBdC1LODhnT3FERnFyXzBOTzRqWlJRRnlMN1h1U1ViWm9mVXBVdGRsanBjVDljUFp2Nnh6MnpmZndrRk02QS1aTUNmSnV1bUN2VlN4QUFxU1J1NG1tVWM0eGdncEdpbW4xcC1jVWpTeW0xdW9pa3BYUi1RWWRydEtjMWhWOGZuZ3J3VTVTSTQwXzhUam14YUhIQzRjM3ZDeEFSZkVxRlZ0emtCczRENlJCTzkzVzRfWnpHWFlLUXhMVm1ucFl0RWFxdUZLUExubjhlLVE4WmZqaElucHFuR2hEeEREUHFPT0Qtc1VlcFRIUHVaWlhwb1J6VmR2R1FXWU1FMkpud1ByRlN5bzg1WXFSbHFqaVhOMVk3LVpuY9IBpAJBVV95cUxQS3hoSmJ4QmlaSDZHalZTQjV2ODNPVXZqczN1dWZjOUVtTWgzRTgwcy1haVZxOXdiOXVFOWpTcWFBM2otZ3ZvcG9Jd0NBS19ab2VUTy12bVlFSkdXRkNSZUdIckxoQnpQZVBjWi1CMGNlR3ctNmMyMWdqelFPTm5Lb1c1Q1VRanF4NXJNRjI5N1FKamRzejUxMmE4TVZjZkFDYjc1UURKRHpDQW5DMmlBRUlwbkxxdTVzazM2QlZrU3paV2hiUXN6R3labTFSLVFOUlhnNVVJRlBYY3l3M0xTSjVVaUZueWVVWnZ6WWF3Vk8yMVo1QjdmUmhTU3o0LVpLWllqa0wzMGtYNzBzZ3o0UTVFdzZ6Wm9tZDYtLVgtd3JkSGpL?oc=5)
+
+2026-07-20 <span class="news-indication-tag">tumor</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMinwJBVV95cUxPRDJBdC1LODhnT3FERnFyXzBOTzRqWlJRRnlMN1h1U1ViWm9mVXBVdGRsanBjVDljUFp2Nnh6MnpmZndrRk02QS1aTUNmSnV1bUN2VlN4QUFxU1J1NG1tVWM0eGdncEdpbW4xcC1jVWpTeW0xdW9pa3BYUi1RWWRydEtjMWhWOGZuZ3J3VTVTSTQwXzhUam14YUhIQzRjM3ZDeEFSZkVxRlZ0emtCczRENlJCTzkzVzRfWnpHWFlLUXhMVm1ucFl0RWFxdUZLUExubjhlLVE4WmZqaElucHFuR2hEeEREUHFPT0Qtc1VlcFRIUHVaWlhwb1J6VmR2R1FXWU1FMkpud1ByRlN5bzg1WXFSbHFqaVhOMVk3LVpuY9IBpAJBVV95cUxQS3hoSmJ4QmlaSDZHalZTQjV2ODNPVXZqczN1dWZjOUVtTWgzRTgwcy1haVZxOXdiOXVFOWpTcWFBM2otZ3ZvcG9Jd0NBS19ab2VUTy12bVlFSkdXRkNSZUdIckxoQnpQZVBjWi1CMGNlR3ctNmMyMWdqelFPTm5Lb1c1Q1VRanF4NXJNRjI5N1FKamRzejUxMmE4TVZjZkFDYjc1UURKRHpDQW5DMmlBRUlwbkxxdTVzazM2QlZrU3paV2hiUXN6R3labTFSLVFOUlhnNVVJRlBYY3l3M0xTSjVVaUZueWVVWnZ6WWF3Vk8yMVo1QjdmUmhTU3o0LVpLWllqa0wzMGtYNzBzZ3o0UTVFdzZ6Wm9tZDYtLVgtd3JkSGpL?oc=5)
+
+---
+
+### [rbb GESUND - Zwanghaftes Haare-Ausreißen: Was steckt dahinter?](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWllVEhXS3VUaG1zWHJKN1hpb2JvMnllelZrYW8yWVhGMjNBVVZkdk1CYXBEeENsekpWYjV4ZUFvLXZ5djYwZWw0N0VsazU3ZHQ3VkVkZW5kc2gtZHJPdjRTYXVXcWJaVFFIaXhaV3VuQjV6ODhHZngxaE5PMnlubWtMWUZJOXlOam5VY3BEU2VzS0l2aXl0RklZQUdWRkQ5RzZONDdhZkdDS3ZMdEp4U2VsbzRjcUdnR2c?oc=5)
+
+2026-07-20 <span class="news-indication-tag">AF</span>
+
+來源：[Inforadio](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWllVEhXS3VUaG1zWHJKN1hpb2JvMnllelZrYW8yWVhGMjNBVVZkdk1CYXBEeENsekpWYjV4ZUFvLXZ5djYwZWw0N0VsazU3ZHQ3VkVkZW5kc2gtZHJPdjRTYXVXcWJaVFFIaXhaV3VuQjV6ODhHZngxaE5PMnlubWtMWUZJOXlOam5VY3BEU2VzS0l2aXl0RklZQUdWRkQ5RzZONDdhZkdDS3ZMdEp4U2VsbzRjcUdnR2c?oc=5)
+
+---
+
+### [Herz aus dem Takt: So kommt man Vorhofflimmern auf die Spur - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWFDZi1sRXBsT1hWMW1Cdzk4OHVLMGphc2NLWWxYaGoyZVg5ODdJX1VmY1VfMXRYVlBGMzh4UVhwOEN2eGhEcVdHOGdfTzNyRS1kQWk3YTlpeXY3V1l5c0pfMmpnTzVDMFdVa2ZnODhpWERjRGVSd253UU1VcHFud0Y1dTFVVk83RW5qa2JuWnhUMWllbUVma0d3SE93SWlLeEl5UU1rb0loQUQ0cURUdkJ3TGVPQ2VidTh0dldrRjl1dw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWFDZi1sRXBsT1hWMW1Cdzk4OHVLMGphc2NLWWxYaGoyZVg5ODdJX1VmY1VfMXRYVlBGMzh4UVhwOEN2eGhEcVdHOGdfTzNyRS1kQWk3YTlpeXY3V1l5c0pfMmpnTzVDMFdVa2ZnODhpWERjRGVSd253UU1VcHFud0Y1dTFVVk83RW5qa2JuWnhUMWllbUVma0d3SE93SWlLeEl5UU1rb0loQUQ0cURUdkJ3TGVPQ2VidTh0dldrRjl1dw?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+---
+
+### [How Much Coffee Is Too Much? Heart Experts Have a New Answer](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
+
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
+
+---
 
 ### [Vitamine in der Schwangerschaft: Welche braucht der Körper? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtwUlV5NHA2Y3V6RTJKQzV1UUxhaXJnMnJPc0tfN1ZoY3dwbHpHOGN2UTJQWU0tVTg0dVdMZmZmY1FpSUxwTWVkNzhvRF9Wb09jUmtCUUJRY3VTTWlOeTFDQ05wLXd6dXlIMjBBeVJGaFFaUE5LcjFIejgydUc1SlNNZTk5c1daOXV3TGRDbVVYbFpSVlgyTTh2YjQxT2ZPaFR2MXhfZWhBOWhkTHdBeDdDaE45bzNlVkE?oc=5)
 
@@ -94,22 +166,6 @@ permalink: /news/eflornithine/
 
 ---
 
-### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
-
----
-
-### [Online News: Aktualisierte Handlungsempfehlungen für Kinderwunsch und Schwangerschaft - ernährungs umschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxQazA1QXF1VVJubEUyOVZUT21KWmpEUXU0SXhiYkVMQzZqdEZGU3NkWndfRFVtLVhfSFJEMlBhLWFENkV5WXRfVWNsaVlaNVB2LUlCN0p5NGVZTUpDVDQzRUlsZkxxYnlrYi02MEhJNmc1dGY1NkxGRGY4WjNuSHVFNkZmRHBYVnRBVDdpbzZpZXNOeVBERkNtTXVidzE5NXN2YWd5RTU4bHdvMVNXV0Jr?oc=5)
-
-2026-07-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ernährungs umschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxQazA1QXF1VVJubEUyOVZUT21KWmpEUXU0SXhiYkVMQzZqdEZGU3NkWndfRFVtLVhfSFJEMlBhLWFENkV5WXRfVWNsaVlaNVB2LUlCN0p5NGVZTUpDVDQzRUlsZkxxYnlrYi02MEhJNmc1dGY1NkxGRGY4WjNuSHVFNkZmRHBYVnRBVDdpbzZpZXNOeVBERkNtTXVidzE5NXN2YWd5RTU4bHdvMVNXV0Jr?oc=5)
-
----
-
 ### [Altern in Schüben: Biologische Wellen im Alter von 34, 60 und 78](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWC1ZVVlkWVZvZlRHV0hiN25QRUZCQ3d3ZGpGdk1vTnpUbFI2OExsSGRFV01oVGxJWVRYZmliUlp2NkFUcmZmYVhJb1lOODNvSkUwNTVnT2tNZTBsYjRYcFRCYWo3UF9kb0lLMm9lUC10ZkREWl9HMHR6RXNSWV9FaHBrR2lLY1hlWTFnLWUwS0pDUkdhZ2p4T2tJQzdxUUkteWFWT0RNc2J5cjNEY1JkdF9B?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Krebs</span>
@@ -118,19 +174,27 @@ permalink: /news/eflornithine/
 
 ---
 
-### [La AECC de A Coruña pide no faltar a las mamografías tras la caída registrada en el cribado: "Participar salva vidas" - El Ideal Gallego](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQell1SThrLUktS2RvbHpzZkZxRHp6YUc2cnZrZjFkaG5hSjBlVFB2ZU80RzNKcFJxdjRCcFJsanAyMC1MWWotSTBvMTFwSXFpSEhEbnJoeGFicUVuNWxtSTdaZ1hJUjlwem1mckRYOUpjRGxJRzdvdzE0dkJjMU1Lb1hPM0JmRHpLeFRZR3k0RDRTSklvQXoxMGFOY2UzeDFQMlE1YlJ2ZTdhWVR2UnRJTzFKNVh1OGNfMzZkVFZjdk1VakhuVFlvQVJjM3dUakNxT0dWNThtbEljemZCc2tLOGc2Zw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[El Ideal Gallego](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQell1SThrLUktS2RvbHpzZkZxRHp6YUc2cnZrZjFkaG5hSjBlVFB2ZU80RzNKcFJxdjRCcFJsanAyMC1MWWotSTBvMTFwSXFpSEhEbnJoeGFicUVuNWxtSTdaZ1hJUjlwem1mckRYOUpjRGxJRzdvdzE0dkJjMU1Lb1hPM0JmRHpLeFRZR3k0RDRTSklvQXoxMGFOY2UzeDFQMlE1YlJ2ZTdhWVR2UnRJTzFKNVh1OGNfMzZkVFZjdk1VakhuVFlvQVJjM3dUakNxT0dWNThtbEljemZCc2tLOGc2Zw?oc=5)
-
----
-
 ### [Rauchen, Gebrechlichkeit und Frakturen: Krafttraining als Hebel im Alter - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXNhY0FHZktIZmNHbWt0RVFtaERKa1lYTHNWX0NUb0RIU08zX0FtOGxUTmxxeUoyQnF1ajhQYk5zX0tOSld3S041bGcySkQwMjJidzNSNGVTUl8zTjBpazNvd1NYczNvUThGQ01rREY2anhHUDc5LXZnZU5nME0yS2d6RWhMbFllYTlNazBBRTFHam5xSG1EVWxpS0F6VEppYm4yMw?oc=5)
 
 2026-07-20 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXNhY0FHZktIZmNHbWt0RVFtaERKa1lYTHNWX0NUb0RIU08zX0FtOGxUTmxxeUoyQnF1ajhQYk5zX0tOSld3S041bGcySkQwMjJidzNSNGVTUl8zTjBpazNvd1NYczNvUThGQ01rREY2anhHUDc5LXZnZU5nME0yS2d6RWhMbFllYTlNazBBRTFHam5xSG1EVWxpS0F6VEppYm4yMw?oc=5)
+
+---
+
+### [Bewegung senkt Demenzrisiko: 7.000 Schritte täglich reichen aus](https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0lGNExRdGFZeGhfdzJhRGw1V3g3aWYwUS11NjZ6UmFjRHNBRHhTZTFaR1paRUtFRUlvQUpldlZ5X1hlaTZrYWhWNUZla1ZES01PWEl0YkV1S1VGMFFVUEs1RlRRNmFhZHkwczcwOXNsWWd2Y2VuODlmOWhqY1MxUFVOaUpjTTB5UmJxamFiNmpNWEdzVllYWThURDFVbG04dVlrNW1rWnJlMlFxTllxLTJn?oc=5)
+
+2026-07-20 <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0lGNExRdGFZeGhfdzJhRGw1V3g3aWYwUS11NjZ6UmFjRHNBRHhTZTFaR1paRUtFRUlvQUpldlZ5X1hlaTZrYWhWNUZla1ZES01PWEl0YkV1S1VGMFFVUEs1RlRRNmFhZHkwczcwOXNsWWd2Y2VuODlmOWhqY1MxUFVOaUpjTTB5UmJxamFiNmpNWEdzVllYWThURDFVbG04dVlrNW1rWnJlMlFxTllxLTJn?oc=5)
+
+---
+
+### [Legionella a New York, due morti e 72 contagi. Decine di evacuati nel quartiere dei ricchi - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlhiS2RxVEVqZkZRYTliYngtT2R2VlBfODY5QnM2T2l0cGZmNEtlNVlZaHdmazVKeUhJMU1ES0RZMnBXNkhlUUpmQzNMOGpjeFJVcjJhUXB3M3lMcmJBUGFJcFpqU25OZGt5aG5hcFp2ZW9leHZWVDVSRDhsVm1HSzNTWTFWcGJOLVFkcTBvQQ?oc=5)
+
+2026-07-19 <span class="news-indication-tag">AF</span>
+
+來源：[Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlhiS2RxVEVqZkZRYTliYngtT2R2VlBfODY5QnM2T2l0cGZmNEtlNVlZaHdmazVKeUhJMU1ES0RZMnBXNkhlUUpmQzNMOGpjeFJVcjJhUXB3M3lMcmJBUGFJcFpqU25OZGt5aG5hcFp2ZW9leHZWVDVSRDhsVm1HSzNTWTFWcGJOLVFkcTBvQQ?oc=5)
 
 ---
 
@@ -158,6 +222,14 @@ permalink: /news/eflornithine/
 
 ---
 
+### [Tumore al pancreas, svolta nella prevenzione: scoperto vaccino in grado di prevenire la malattia e addestrare il sistema immunitario - Il Messaggero](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlI4bm5YZ0R4OVRpeEZKNG42R1RUNWJMX0tWM3RmcUVHSWEzakx1UGNhb25raFVycFZTQjBYTUtaUDB1ZTRVaWxDeElndGFuVzE0QWZwNVloT0diS19NcGxkZHhIWUxxUnRBNHd2RzN6UlV5ZHpuV1AxMDdwTnM0WFNZRjNKVEpBajEwb0dGUjJqRGNXeDNQYzM1cVppS1F2eHo2ZW9zT2x0aVZ0TEZLandSdW1CMF9pelo1cnhVTmJYMEdBTkHSAb8BQVVfeXFMUERJWlJzUUpBQko5ajlGUEFMSlczamxJQ1MtNnJNQTZFbmxJajZFQXZaTVgzYUV2R3RNeWViZFpPNHhhaUVnQl9pRVVHczFIT1hNa0d5dXlQcUFuX1RmR181bHEyS3p6RGZ4c3BONmZYa3ZvcWJzN2Y0TXN6bHR0WVVaMkM2M2U4cldibC0xLWVxSTdqR2hCYWZ1LU1DbkFndFNvWU1wdGliei1wUmVqeVNvbnY4ZkhSdnMtTXhoRjA?oc=5)
+
+2026-07-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlI4bm5YZ0R4OVRpeEZKNG42R1RUNWJMX0tWM3RmcUVHSWEzakx1UGNhb25raFVycFZTQjBYTUtaUDB1ZTRVaWxDeElndGFuVzE0QWZwNVloT0diS19NcGxkZHhIWUxxUnRBNHd2RzN6UlV5ZHpuV1AxMDdwTnM0WFNZRjNKVEpBajEwb0dGUjJqRGNXeDNQYzM1cVppS1F2eHo2ZW9zT2x0aVZ0TEZLandSdW1CMF9pelo1cnhVTmJYMEdBTkHSAb8BQVVfeXFMUERJWlJzUUpBQko5ajlGUEFMSlczamxJQ1MtNnJNQTZFbmxJajZFQXZaTVgzYUV2R3RNeWViZFpPNHhhaUVnQl9pRVVHczFIT1hNa0d5dXlQcUFuX1RmR181bHEyS3p6RGZ4c3BONmZYa3ZvcWJzN2Y0TXN6bHR0WVVaMkM2M2U4cldibC0xLWVxSTdqR2hCYWZ1LU1DbkFndFNvWU1wdGliei1wUmVqeVNvbnY4ZkhSdnMtTXhoRjA?oc=5)
+
+---
+
 ### [Krebs-Hoffnung aus der Antarktis: Wie ein kleines Meerestier die Forschung voranbringt - Berliner Kurier](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHM3NWZabTVLcTBYOElrNFpCNDY3dEpRVHlkVlR3d2xqMG5UY2ZBTldNVXlkSjFXY1BMYjVsMEJHck9VbDU3NDhfWU9TRmxhak8zZW4ySWxIN3hTM2wzSWc4ZTc1ejU1SktWVDBUV0F2TmVoaF8xMzBRQmtDZXRkdTlXa3lIUFk?oc=5)
 
 2026-07-19 <span class="news-indication-tag">Krebs</span>
@@ -174,14 +246,6 @@ permalink: /news/eflornithine/
 
 ---
 
-### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
-
-2026-07-19 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
-
----
-
 ### [Antennentechnik: Wie war das noch mal beim Urknall? - DIE ZEIT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQald2WmF0enZBY1A4QjRUSDM0d1R6cDkyZHlrZzNEdGs0Z3FVdWRtYVZJWGE0TDkxTlBHbDYwR1R2Z3RpeHJ2ajVveG5RNmZUdURhVFMwVTZkYjFDTEV4MTJFOGxaMV91MFFXWFhoZ09IM00xSUpzUE1BcXdocFhpOHlzb0FKUER2OXl1Q1FJbi1NQ1NlS1RXWHdtTjVmdGdvM0E?oc=5)
 
 2026-07-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -190,19 +254,19 @@ permalink: /news/eflornithine/
 
 ---
 
-### [¿Es el plástico la causa oculta de los infartos? Los investigadores responden tras detectar niveles dobles en pacientes infartados - La Razón](https://news.google.com/rss/articles/CBMihAJBVV95cUxQU3gxUXJ5Z3V5N2x6aGdYTmpGMVlSeG1RVy02aWtkNGozLVg2VUNXM2MzNU5pSHF1OTc3RFQ0YzJ4YU04ZVJ1enZCN2ZhYy1oT1dJc2JUaWdEVkstb2hMNEtMZDVSc3U4MzhvZ0JEay1Rc3lyTE0wUnp2RjRnZXFHajEzSW9kZWNUUi1FQVJhYTNZcFUwdGEzbnJ6MF8zQzgyTUJjaEFZWTlHdlV4czZlTVBZX01SLWVyLUhBV2xsY0gybG1pY2psOW5ZNHQ5N21vZjFTZVZSUlotMC0wS1NSYnR0Q3ZIRFFhelI0VXlIcHFwTlhzbDlYUTJLbW9ZeDZlUkpPddIBmAJBVV95cUxPSUlreUs1eXk0bWhPQTBvbS1MWi03YTF6S2JzTTl1Ql9kNS1YbWdLYWhyU2tUTlVUa1VfTFRoSnBNMmtyTURvY0VsU2xFVmlpYjd6VHFwYlpYUGdSeGdfYmtDNE1vUzdZZWdRZDlXQUNGSl95QmJRQUpFYnptenBJUDcwZFdWSjNsQUhQNVROUUc5aE5FVk9xSWw4M3llakdPamx6bS0zMHc4anN0RFQ1R0JoMGZSc191VllyLVR6NlJSNXhIXzBtQ0R1S1V6bHNRT016SE1FS29jcTI0bEVERHlTYmdEaFF5MDZGNFJwYkJmbnJJSEJvSm0tM0t6TlVGSk1YVHlseWpuNjNIZzBkX0NVU2gwOXYy?oc=5)
-
-2026-07-19 <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMihAJBVV95cUxQU3gxUXJ5Z3V5N2x6aGdYTmpGMVlSeG1RVy02aWtkNGozLVg2VUNXM2MzNU5pSHF1OTc3RFQ0YzJ4YU04ZVJ1enZCN2ZhYy1oT1dJc2JUaWdEVkstb2hMNEtMZDVSc3U4MzhvZ0JEay1Rc3lyTE0wUnp2RjRnZXFHajEzSW9kZWNUUi1FQVJhYTNZcFUwdGEzbnJ6MF8zQzgyTUJjaEFZWTlHdlV4czZlTVBZX01SLWVyLUhBV2xsY0gybG1pY2psOW5ZNHQ5N21vZjFTZVZSUlotMC0wS1NSYnR0Q3ZIRFFhelI0VXlIcHFwTlhzbDlYUTJLbW9ZeDZlUkpPddIBmAJBVV95cUxPSUlreUs1eXk0bWhPQTBvbS1MWi03YTF6S2JzTTl1Ql9kNS1YbWdLYWhyU2tUTlVUa1VfTFRoSnBNMmtyTURvY0VsU2xFVmlpYjd6VHFwYlpYUGdSeGdfYmtDNE1vUzdZZWdRZDlXQUNGSl95QmJRQUpFYnptenBJUDcwZFdWSjNsQUhQNVROUUc5aE5FVk9xSWw4M3llakdPamx6bS0zMHc4anN0RFQ1R0JoMGZSc191VllyLVR6NlJSNXhIXzBtQ0R1S1V6bHNRT016SE1FS29jcTI0bEVERHlTYmdEaFF5MDZGNFJwYkJmbnJJSEJvSm0tM0t6TlVGSk1YVHlseWpuNjNIZzBkX0NVU2gwOXYy?oc=5)
-
----
-
 ### [«Mal di testa e nausea quando ero incinta: avevo un tumore al cervello. Ho chiamato il mio bimbo come il chirurgo che mi ha salvata» - Il Messaggero](https://news.google.com/rss/articles/CBMipAFBVV95cUxQb0Y5eXhRZEVrZjI0cENjNEZKMXpURzZtTFhZNWZTQ0pNQWI2ZE5TWHZjdnh6Z2VmT0YteXhBLWZaZnh6UjhnYTBHT21UN0hKTjJEb1VBcDJDRWtCNnRKemJEb1hacVZ3eHZwUV9HRGhOUlZIR3JxanJEaWZsdnBHZzFYYVNXYW5zWDRkdEh1a29TX0s0MUpueFVNNFJaOFY4bGxwcNIBqgFBVV95cUxPaFNNRFlOWWs1NW1sQnVFS3k3UWhZUDNSODhjVk9ueklxSk93bnR3MF9aa04waUpwMVVlRl9aTGxFN0gyZVYxYXBjQ1l0UTBQUHVDLXhobmFvOGhtR2xXSDdQV0FMdl9JN0lZdFVfdTNTb3hpVENVX1BMRy1teDVlMlBUQmRzWW9oRC1tYTd6dWZXZ2dVcUktZzBXR0U0cVFabVBFNC1ST2dBUQ?oc=5)
 
 2026-07-19 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipAFBVV95cUxQb0Y5eXhRZEVrZjI0cENjNEZKMXpURzZtTFhZNWZTQ0pNQWI2ZE5TWHZjdnh6Z2VmT0YteXhBLWZaZnh6UjhnYTBHT21UN0hKTjJEb1VBcDJDRWtCNnRKemJEb1hacVZ3eHZwUV9HRGhOUlZIR3JxanJEaWZsdnBHZzFYYVNXYW5zWDRkdEh1a29TX0s0MUpueFVNNFJaOFY4bGxwcNIBqgFBVV95cUxPaFNNRFlOWWs1NW1sQnVFS3k3UWhZUDNSODhjVk9ueklxSk93bnR3MF9aa04waUpwMVVlRl9aTGxFN0gyZVYxYXBjQ1l0UTBQUHVDLXhobmFvOGhtR2xXSDdQV0FMdl9JN0lZdFVfdTNTb3hpVENVX1BMRy1teDVlMlBUQmRzWW9oRC1tYTd6dWZXZ2dVcUktZzBXR0U0cVFabVBFNC1ST2dBUQ?oc=5)
+
+---
+
+### [Los pacientes con infarto concentran más microplásticos en la sangre, según una investigación - La Vanguardia](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUxNVUpUVHlNMVpsVjZ3dE45cHRtUVNzWi1iWGRNMmRaUGg2bV9VTzdQRjhFdlJXTHpkMjk2YVEyLXVIN1dpVHN1TEItYXNodmduWHE2NFgwb2ozVDRDRlFuekw2NkhYWGN6a2JpcU9IdlR3bmdELWp0ZjBqOTFZWG03dFFRc1hjVWhuU09kbXJkbzJ1OG51N3ZfWUROSUttYllGN1IzamdzTEtVYURQX0JHS0dPWWNEbkJFSE56YlNLRV9tSnR5dlM2ZVBZNE9yR1h2YUxPWDJjTHfSAeABQVVfeXFMUEx4eTczMHNOaXo1eVhKd3VJeF85WXdySzB4NHNGRU9jWUhnSy0yOHZ0XzlHYktvcHczS0ZEcFZCeXVaNzF2TVBZclFmMWE2MF9hcUFsVW5qb1pNMmVXTzM0MGJINEpDM3lCTE9CMTA5U2pOcFpONkJxUmhJLXdKZnVYSi0xYlFQSTJJR3FSbC10TEwwWXpsU0tRZjdROXN2M1lZMkkyUmlFQllRLWhjU1Z4OVpEQzI2aV9kZlJrM3hLZGNkY1ZaLVV1Y2h1bTZQLXBqSzdvS29YZnEwdWt2YXU?oc=5)
+
+2026-07-19 <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUxNVUpUVHlNMVpsVjZ3dE45cHRtUVNzWi1iWGRNMmRaUGg2bV9VTzdQRjhFdlJXTHpkMjk2YVEyLXVIN1dpVHN1TEItYXNodmduWHE2NFgwb2ozVDRDRlFuekw2NkhYWGN6a2JpcU9IdlR3bmdELWp0ZjBqOTFZWG03dFFRc1hjVWhuU09kbXJkbzJ1OG51N3ZfWUROSUttYllGN1IzamdzTEtVYURQX0JHS0dPWWNEbkJFSE56YlNLRV9tSnR5dlM2ZVBZNE9yR1h2YUxPWDJjTHfSAeABQVVfeXFMUEx4eTczMHNOaXo1eVhKd3VJeF85WXdySzB4NHNGRU9jWUhnSy0yOHZ0XzlHYktvcHczS0ZEcFZCeXVaNzF2TVBZclFmMWE2MF9hcUFsVW5qb1pNMmVXTzM0MGJINEpDM3lCTE9CMTA5U2pOcFpONkJxUmhJLXdKZnVYSi0xYlFQSTJJR3FSbC10TEwwWXpsU0tRZjdROXN2M1lZMkkyUmlFQllRLWhjU1Z4OVpEQzI2aV9kZlJrM3hLZGNkY1ZaLVV1Y2h1bTZQLXBqSzdvS29YZnEwdWt2YXU?oc=5)
 
 ---
 
@@ -246,19 +310,11 @@ permalink: /news/eflornithine/
 
 ---
 
-### [Il ritorno dei medicinali contraffatti: come riconoscerli](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5)
+### [Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5)
 
 2026-07-18 <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWpXOWhTZ1JOVmFVWTNQTjNNSWtoNmV3eG1wRzdRZHluYlgxMmdDVGFVRVJ0SFJlMGdleHNDSG1kZjFDNk1jcDE0QkVFcmtFdWpoc2t4ZEV1WWctRHJuNWhJYU4zVFRxMlhrdzVwOTR5QjF6bklqblNNQ09wekZZOVBRWFlCVnZFVDFXTWd4U2MxMS01bjJBZHBta2VFOHFsM2VZUDFnZjl5SUU?oc=5)
-
----
-
-### [Vaccino mirato a Kras: per la prima volta sull'uomo risposte immunitarie durature contro il cancro al pancreas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
-
-2026-07-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5)
 
 ---
 
@@ -291,38 +347,6 @@ permalink: /news/eflornithine/
 2026-07-18 <span class="news-indication-tag">Krebs</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxONFlaa1B5b3VkX21aSko5VEJpeTNQUHFPMDNENjNnVnB4TGJ2V1dsYjhqY1ItRzlZLUtiQlRrRGJpc1Ntcy1UTlp0c0ZPVHBpcTFsWnhMZjFEUV9MN19zcV8yODFXQWdXd2M3dXJkUXFDMUNSTTJiTmNvVUVzLXB5MFhURkkxZlR3YmZRaWpRMGV5SWt5NktWa3pmcFBwU2RqZURCQkdlRUREY2R4SEJRamIyWFJTNHZzVG0yTmZEZ1hJWWRNQU45ZWJHZHVaZw?oc=5)
-
----
-
-### [La radiografia che guarda oltre i polmoni e trova tracce di centinaia di malattie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejdXeHRCWVl0RU5GX182bGg3T1BGNEZmUXR3elk4V041U0thdVdNQzhPdFJWaTM0Y0E1UnVLNnFCTlRMclNBaEVYYWNveVJLYVk2N0JKS3FIQ1N6V1ZVbG9xRFpwTmFFUjB4VXVvU0VaTXMtZE8wZnhXS0l6V01iZldVeHNxQ1czY1JwYmIwUDFWN1l6YnNMSVlNeXVJZUIza1gyQ2h4cVFWUzh0SWprWWRseF9WSVRmdzI4Wnk4QzVfem5QanZGcFBOM1J1VkNickJxVGVkYkQ?oc=5)
-
-2026-07-18 <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejdXeHRCWVl0RU5GX182bGg3T1BGNEZmUXR3elk4V041U0thdVdNQzhPdFJWaTM0Y0E1UnVLNnFCTlRMclNBaEVYYWNveVJLYVk2N0JKS3FIQ1N6V1ZVbG9xRFpwTmFFUjB4VXVvU0VaTXMtZE8wZnhXS0l6V01iZldVeHNxQ1czY1JwYmIwUDFWN1l6YnNMSVlNeXVJZUIza1gyQ2h4cVFWUzh0SWprWWRseF9WSVRmdzI4Wnk4QzVfem5QanZGcFBOM1J1VkNickJxVGVkYkQ?oc=5)
-
----
-
-### ['Doctors told me I was too young for breast cancer screenings but now I'm dying' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWpSZ3A2RXVwaFQzTWZZZmczUHRoNHRuV0JoYXNxRFBmQ3RnTG83YnlrYkMyZzNvLW16bUVmQU9GSEU5NGtKQVJ5U2dwVDdrVjRaZXhpbUV0VWgxLTY5alpUNHpmRkROTVpwRHFzS2MtSDNOVGEySEhUWGo4X3RSd0NtblBBdw?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWpSZ3A2RXVwaFQzTWZZZmczUHRoNHRuV0JoYXNxRFBmQ3RnTG83YnlrYkMyZzNvLW16bUVmQU9GSEU5NGtKQVJ5U2dwVDdrVjRaZXhpbUV0VWgxLTY5alpUNHpmRkROTVpwRHFzS2MtSDNOVGEySEhUWGo4X3RSd0NtblBBdw?oc=5)
-
----
-
-### [Glasgow mum diagnosed with rare cancer after doctors suspected kidney stones - Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEkyQ25ndHpJeGJPcWRFZEdzMC1TS0dMNHdJTlBfUFRmNTRGVHRrM1FQaEVEUjVCbWxlWVJTLTQ4b3RiQ2F4alVOS2FKMlFSYXRVSnFjSHZ0ZXl2SXFwcmMzRDd6NXQ2UUFxY0ZPN3pmcVZEekJleUcxZl9TaDVEeWdLenNtc3dDRzFMMzZwTndIOGhq0gGaAUFVX3lxTFBDcGFReGVDR0Q3VmtiVFhlZk9mUmJVaG9BMFRQVG9MNjZ0N01uSE5ienlwTzhqN2N5UkNIYnNUcEVmd0ZHY0tGVTEzVVJZYWRyNlBwT1JaTjR4ajJzRzJUeTVOdUgxX2ZqaDlLMTZjWlpmSVExWEZKTmQ4RUI0VWM4SmVBZlBnQUpJVlUtYUdhalJ0MUd3SkNfNVE?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEkyQ25ndHpJeGJPcWRFZEdzMC1TS0dMNHdJTlBfUFRmNTRGVHRrM1FQaEVEUjVCbWxlWVJTLTQ4b3RiQ2F4alVOS2FKMlFSYXRVSnFjSHZ0ZXl2SXFwcmMzRDd6NXQ2UUFxY0ZPN3pmcVZEekJleUcxZl9TaDVEeWdLenNtc3dDRzFMMzZwTndIOGhq0gGaAUFVX3lxTFBDcGFReGVDR0Q3VmtiVFhlZk9mUmJVaG9BMFRQVG9MNjZ0N01uSE5ienlwTzhqN2N5UkNIYnNUcEVmd0ZHY0tGVTEzVVJZYWRyNlBwT1JaTjR4ajJzRzJUeTVOdUgxX2ZqaDlLMTZjWlpmSVExWEZKTmQ4RUI0VWM4SmVBZlBnQUpJVlUtYUdhalJ0MUd3SkNfNVE?oc=5)
-
----
-
-### [Too many Britons are too fat to work – and smartphones are the problem - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
-
-2026-07-18 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5)
 
 ---
 

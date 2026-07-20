@@ -56,7 +56,7 @@ permalink: /news/cobicistat/
 
 ### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
 
-2026-07-19 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-07-19 <span class="news-indication-tag">epatite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
 

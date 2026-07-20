@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [How Much Coffee Is Too Much? Heart Experts Have a New Answer](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
+
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[Gizmodo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGgtSEp6NFFYcllJS0czbTlvUF9TbENZcXFtRlBUNk8yX05uWEh3RWlWMXpOZFZiaUxtZWhQdXM5U3JJdWFzMWdsVThZbDB2QUVTeFB0VjY2czNpYURHOGJfNlZXSkVnOTJiemZmVVJQWHNIaENwSWpPWmd3TTNEYy1yNExLa05jU29vdHlZZ0dOY29s?oc=5)
+
+---
+
+### [I thought I had arthritis — then I was diagnosed with a condition I'd never heard of - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">arthritis</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2YtRkxuUnNtYkJRMmhBMHIxRFBleGJ1eTNLOWk4cXI0b2EyVFAwOXlCOHpqem02V0c2UXdtUEhzQ3RwTm11MFF2a2ZYdU1rdHF1RWxqV2dkcWFIUkt5aVFfb0J1bENlb0ZaazBTclFtUVRaZzVIeXhlaG9XOTZQZEp5ZDZfZGhSWGd3UnhB0gGTAUFVX3lxTE9NNjZfYWsyUDVjNFd5MXlIZWs1Wm9qLWpobVRrekZleVBFeXFEM1FuNkJpUVZJaHh3MFN0X1MzVXFmbWZCN1BsYlZTSHNRV0Q2bE8xZVV0aWF1ZVBpd3JLR0hUVDlaY3NiQWhSUl9kb2I3MTZIYkZkcmV0V09Cd2xRUzNKZkh6aWJUdkx6V193WUpNMA?oc=5)
+
+---
 
 ### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [What your walking speed reveals about your risk of heart disease and dementia - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+### [The #1 Thing to Avoid If You Have High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
 
-2026-07-18 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-20 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+---
+
+### [Migräne: Warum viele Patienten unzureichend behandelt sind - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Migräne</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
+
+---
+
+### [Oui, il est possible de guérir du diabète de type 2 - National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabète</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+---
 
 ### [Wenn die Haut vor Diabetes warnt](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
 
@@ -64,25 +88,17 @@ permalink: /news/abaloparatide/
 
 ### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
-2026-07-20 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">migraine</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
 
 ---
 
-### [SGLT2- und GLP-1-Medikamente: Warum sinkt Alzheimer-Risiko bei Typ-2-Diabetes? - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
+### [Migräne-Risiko senken: Pflanzen pro Woche, GLP-1 und mediterrane Kost - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
 
-2026-07-20 <span class="news-indication-tag">diabetes</span>
+2026-07-20 <span class="news-indication-tag">Migräne</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
-
----
-
-### [Migräne: Antientzündliche Kost mit Fisch und Kurkuma lindert Anfälle](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
-
-2026-07-19 <span class="news-indication-tag">Migräne</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHhxMGdyTXhYM1AwZ21ybDVWblJ3bE5PVlVIXzVRbzlMR0FxLTJic25mRDFIRTFMYkxoVm1hdUlZZHJrOU5wamVIT1ZlRy0wLVk2VDJwNEZMX2xWdTg5M2s1WEZGTDh6b1FBUldnOUlUMDBva2JkNzVVeHlPUHNtRFEwTXdaYlJRSGx2RVBfcHRrNUNBV2VwaWdFTlM0blU3RXlUN2dqMzFaNW94eFhaWFRqdDd4WEFaVTlr?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
 
 ---
 

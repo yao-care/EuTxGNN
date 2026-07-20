@@ -14,7 +14,7 @@ permalink: /news/inotuzumab-ozogamicin/
 ---
 
 <p class="key-answer" data-question="Inotuzumab Ozogamicin 有什麼相關新聞？">
-<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inotuzumab Ozogamicin</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/inotuzumab-ozogamicin/
 <p><a href="{{ '/drugs/inotuzumab-ozogamicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（23 則）
+
+### [HIV erhöht Risiko für HPV-assoziierte Krebserkrankungen stärker als Organtransplantation – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZURIN0lIelBiSlh5RDFHYWtEZ19XS051NUJIa2hWUHdLNTVoWWVmQVpQdGJQVzQ3dmQ0MlhWRDN1WWg4MG1BZ0hsUE1CdnlXMUtLWDNpTmUzOUw4TDhIR3VmSkYza0JQN2pkS1RsTDZIU2h6b2dtTEQweVM2ei1YODBfeDZCcm9IRGloWFlHYTdWVWJJd2tlX3hSUW9pMFhTck9qVVRwRGJDZnF6azExZEFuNkZJdVJrWWM5QWk0c3hhOHRXZ1MtZWw3TjFtUGNwOExuY2dqMGkzenVSbGQxMkhnLXJTN3VNV1U4M3hn?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZURIN0lIelBiSlh5RDFHYWtEZ19XS051NUJIa2hWUHdLNTVoWWVmQVpQdGJQVzQ3dmQ0MlhWRDN1WWg4MG1BZ0hsUE1CdnlXMUtLWDNpTmUzOUw4TDhIR3VmSkYza0JQN2pkS1RsTDZIU2h6b2dtTEQweVM2ei1YODBfeDZCcm9IRGloWFlHYTdWVWJJd2tlX3hSUW9pMFhTck9qVVRwRGJDZnF6azExZEFuNkZJdVJrWWM5QWk0c3hhOHRXZ1MtZWw3TjFtUGNwOExuY2dqMGkzenVSbGQxMkhnLXJTN3VNV1U4M3hn?oc=5)
+
+---
+
+### [95 % des cancers agressifs repérés : un test urinaire pourrait éviter un tiers des biopsies](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZktTdFI3M2w2bVNGaW94ck1waWpkbkIzYlRHUXI2dWx4b2h4U2RtUG04YUxFcmpEWEVKS25zZFlwQ1BjUzhRVnJiRV9YT0NTVmxhbk1IS3VaZmVtQ0ZMTEVjaDdqelBnZnktNGVHTGc3SXNucmRJQXVTRzUwT2ZZbXZtNnJOQnF0Q1EyQUgzaGI2ZTNqZkdrMUxqSTY1M3d6MDVZU1FJSDBzWFVBa04xWQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZktTdFI3M2w2bVNGaW94ck1waWpkbkIzYlRHUXI2dWx4b2h4U2RtUG04YUxFcmpEWEVKS25zZFlwQ1BjUzhRVnJiRV9YT0NTVmxhbk1IS3VaZmVtQ0ZMTEVjaDdqelBnZnktNGVHTGc3SXNucmRJQXVTRzUwT2ZZbXZtNnJOQnF0Q1EyQUgzaGI2ZTNqZkdrMUxqSTY1M3d6MDVZU1FJSDBzWFVBa04xWQ?oc=5)
+
+---
+
+### [Wie gesund ist Chili wirklich? Studie findet Zusammenhang mit Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUtVdEJxTGFXNFNFOEI4Tk5lU3prUHgwcm50Qk91YU9PbVlaelpuUUc5TTJBNlJEckd6ZEx5WW9pOUkyVEJZcF81ZHhNYkxnempKb2ZQMlpXQWRXSEZKQ0EyS2dHTzhtZ2dhZkhMQnM0NkVHcUc2Z1FrdVZmZ1lRck1xTm1zYjhQVUJ3Mjg4ZndrTXh1eUlfcWRQYkpXQlpyX0gzNGZqU05EaTEwZ3cwakt2ZDZIUQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUtVdEJxTGFXNFNFOEI4Tk5lU3prUHgwcm50Qk91YU9PbVlaelpuUUc5TTJBNlJEckd6ZEx5WW9pOUkyVEJZcF81ZHhNYkxnempKb2ZQMlpXQWRXSEZKQ0EyS2dHTzhtZ2dhZkhMQnM0NkVHcUc2Z1FrdVZmZ1lRck1xTm1zYjhQVUJ3Mjg4ZndrTXh1eUlfcWRQYkpXQlpyX0gzNGZqU05EaTEwZ3cwakt2ZDZIUQ?oc=5)
+
+---
+
+### [Manuel J. Castillo, médico: “Administrar testosterona podría favorecer el crecimiento de células tumorales de la próstata que ya estuvieran presentes” - La Vanguardia](https://news.google.com/rss/articles/CBMinwJBVV95cUxPRDJBdC1LODhnT3FERnFyXzBOTzRqWlJRRnlMN1h1U1ViWm9mVXBVdGRsanBjVDljUFp2Nnh6MnpmZndrRk02QS1aTUNmSnV1bUN2VlN4QUFxU1J1NG1tVWM0eGdncEdpbW4xcC1jVWpTeW0xdW9pa3BYUi1RWWRydEtjMWhWOGZuZ3J3VTVTSTQwXzhUam14YUhIQzRjM3ZDeEFSZkVxRlZ0emtCczRENlJCTzkzVzRfWnpHWFlLUXhMVm1ucFl0RWFxdUZLUExubjhlLVE4WmZqaElucHFuR2hEeEREUHFPT0Qtc1VlcFRIUHVaWlhwb1J6VmR2R1FXWU1FMkpud1ByRlN5bzg1WXFSbHFqaVhOMVk3LVpuY9IBpAJBVV95cUxQS3hoSmJ4QmlaSDZHalZTQjV2ODNPVXZqczN1dWZjOUVtTWgzRTgwcy1haVZxOXdiOXVFOWpTcWFBM2otZ3ZvcG9Jd0NBS19ab2VUTy12bVlFSkdXRkNSZUdIckxoQnpQZVBjWi1CMGNlR3ctNmMyMWdqelFPTm5Lb1c1Q1VRanF4NXJNRjI5N1FKamRzejUxMmE4TVZjZkFDYjc1UURKRHpDQW5DMmlBRUlwbkxxdTVzazM2QlZrU3paV2hiUXN6R3labTFSLVFOUlhnNVVJRlBYY3l3M0xTSjVVaUZueWVVWnZ6WWF3Vk8yMVo1QjdmUmhTU3o0LVpLWllqa0wzMGtYNzBzZ3o0UTVFdzZ6Wm9tZDYtLVgtd3JkSGpL?oc=5)
+
+2026-07-20 <span class="news-indication-tag">tumor</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMinwJBVV95cUxPRDJBdC1LODhnT3FERnFyXzBOTzRqWlJRRnlMN1h1U1ViWm9mVXBVdGRsanBjVDljUFp2Nnh6MnpmZndrRk02QS1aTUNmSnV1bUN2VlN4QUFxU1J1NG1tVWM0eGdncEdpbW4xcC1jVWpTeW0xdW9pa3BYUi1RWWRydEtjMWhWOGZuZ3J3VTVTSTQwXzhUam14YUhIQzRjM3ZDeEFSZkVxRlZ0emtCczRENlJCTzkzVzRfWnpHWFlLUXhMVm1ucFl0RWFxdUZLUExubjhlLVE4WmZqaElucHFuR2hEeEREUHFPT0Qtc1VlcFRIUHVaWlhwb1J6VmR2R1FXWU1FMkpud1ByRlN5bzg1WXFSbHFqaVhOMVk3LVpuY9IBpAJBVV95cUxQS3hoSmJ4QmlaSDZHalZTQjV2ODNPVXZqczN1dWZjOUVtTWgzRTgwcy1haVZxOXdiOXVFOWpTcWFBM2otZ3ZvcG9Jd0NBS19ab2VUTy12bVlFSkdXRkNSZUdIckxoQnpQZVBjWi1CMGNlR3ctNmMyMWdqelFPTm5Lb1c1Q1VRanF4NXJNRjI5N1FKamRzejUxMmE4TVZjZkFDYjc1UURKRHpDQW5DMmlBRUlwbkxxdTVzazM2QlZrU3paV2hiUXN6R3labTFSLVFOUlhnNVVJRlBYY3l3M0xTSjVVaUZueWVVWnZ6WWF3Vk8yMVo1QjdmUmhTU3o0LVpLWllqa0wzMGtYNzBzZ3o0UTVFdzZ6Wm9tZDYtLVgtd3JkSGpL?oc=5)
+
+---
+
+### [Diabetes-Medikamente: SGLT2-Inhibitoren senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2ZlSkk4YzdMN2t4SmJjcTgyTDRxeTM3cXZjUDFic0FIMWtpZklTRzNSTHJ3NE16ZXF0T1dBeWtONXc2Yy1UUkRheFplRTlQRzQ5bWFwRnYxNmlpNFRwTXh1SVlQTGxGTUc2RHh0WlpTanlnb2FLYlRLaTRwclFfRFlmMlJhM3Q2Z2dWVVNReXlXb2J5RnRJTFpwMThlWnEyQlUzMjkyU3EyWTdMTzZ6aXJUQ0pBekJT?oc=5)
+
+---
+
+### [Oui, il est possible de guérir du diabète de type 2 - National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabète</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+---
 
 ### [Wenn die Haut vor Diabetes warnt](https://news.google.com/rss/articles/CBMieEFVX3lxTE5OX1RvUGNlZ2EzSXUtcFZEZ1NoQjdrV0pxTC1PdTVKYUNMWFg1c3gyLWQ5MXdDVUNTV2liMlhRTFZLTEtXRlJvYlRqM2t0ZjNIVVppb2dzVXVJWFBtMXZveEI4b3ZIZjhTT0Q1VVZadHhlMzlrLU1BSw?oc=5)
 
@@ -67,14 +115,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-07-20 <span class="news-indication-tag">tumour</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
-
----
-
-### [SGLT2- und GLP-1-Medikamente: Warum sinkt Alzheimer-Risiko bei Typ-2-Diabetes? - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2F1LS1wQURwRmc0dlFpRFFxMXgwRXJlTlBraFN0dGNDYjBuZi1EZ2cwRHVsMFE2aWdzZDUwQzE2Rk9abUM2c1RlTVROZnVJR1ptZndZaThQN1JaQ0VfRUE4empXOU9EY3lnMUI2ay0wV3p0eldyYTVSaHlhQmxRZENNSmM3dkJhaVBfTy1PNkJxRzNLVUJuUW1EcGZMUU9ZVFhTVFEwRjhiTzA?oc=5)
 
 ---
 
@@ -107,6 +147,14 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-07-19 <span class="news-indication-tag">tumor</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWhQa21QV0Rxd09jV2x2R0xldG1XT2t5TXdxWk5WZ05mcEQtS1BwWW5uZjRYWlZ0WExxMkFhMkI3YmNuVkw0LU90NUc2T1dXd0xnams5RjhXMWxMUWRVM09ZakRSVTU0OWxPOE5WbldOV0NsdUhJVTJuSE9DQk1KTQ?oc=5)
+
+---
+
+### [Tumore al pancreas, svolta nella prevenzione: scoperto vaccino in grado di prevenire la malattia e addestrare il sistema immunitario - Il Messaggero](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlI4bm5YZ0R4OVRpeEZKNG42R1RUNWJMX0tWM3RmcUVHSWEzakx1UGNhb25raFVycFZTQjBYTUtaUDB1ZTRVaWxDeElndGFuVzE0QWZwNVloT0diS19NcGxkZHhIWUxxUnRBNHd2RzN6UlV5ZHpuV1AxMDdwTnM0WFNZRjNKVEpBajEwb0dGUjJqRGNXeDNQYzM1cVppS1F2eHo2ZW9zT2x0aVZ0TEZLandSdW1CMF9pelo1cnhVTmJYMEdBTkHSAb8BQVVfeXFMUERJWlJzUUpBQko5ajlGUEFMSlczamxJQ1MtNnJNQTZFbmxJajZFQXZaTVgzYUV2R3RNeWViZFpPNHhhaUVnQl9pRVVHczFIT1hNa0d5dXlQcUFuX1RmR181bHEyS3p6RGZ4c3BONmZYa3ZvcWJzN2Y0TXN6bHR0WVVaMkM2M2U4cldibC0xLWVxSTdqR2hCYWZ1LU1DbkFndFNvWU1wdGliei1wUmVqeVNvbnY4ZkhSdnMtTXhoRjA?oc=5)
+
+2026-07-19 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlI4bm5YZ0R4OVRpeEZKNG42R1RUNWJMX0tWM3RmcUVHSWEzakx1UGNhb25raFVycFZTQjBYTUtaUDB1ZTRVaWxDeElndGFuVzE0QWZwNVloT0diS19NcGxkZHhIWUxxUnRBNHd2RzN6UlV5ZHpuV1AxMDdwTnM0WFNZRjNKVEpBajEwb0dGUjJqRGNXeDNQYzM1cVppS1F2eHo2ZW9zT2x0aVZ0TEZLandSdW1CMF9pelo1cnhVTmJYMEdBTkHSAb8BQVVfeXFMUERJWlJzUUpBQko5ajlGUEFMSlczamxJQ1MtNnJNQTZFbmxJajZFQXZaTVgzYUV2R3RNeWViZFpPNHhhaUVnQl9pRVVHczFIT1hNa0d5dXlQcUFuX1RmR181bHEyS3p6RGZ4c3BONmZYa3ZvcWJzN2Y0TXN6bHR0WVVaMkM2M2U4cldibC0xLWVxSTdqR2hCYWZ1LU1DbkFndFNvWU1wdGliei1wUmVqeVNvbnY4ZkhSdnMtTXhoRjA?oc=5)
 
 ---
 
@@ -150,14 +198,6 @@ permalink: /news/inotuzumab-ozogamicin/
 
 ---
 
-### [Vaccino mirato a Kras: per la prima volta sull'uomo risposte immunitarie durature contro il cancro al pancreas](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
-
-2026-07-18 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOXzdfeFRCSlpKRjI2VVNXOUpRWGVVNEdiMEV3VHhDMG14YmIzbmtZWUtCd1dMaWNaZDlUNmRibnZOalF2UktqQzh5ZGJaNmhjYUZ0bnhZUUpvSTN1dm5nRndBMy1rekRXb29jcmZCQjRJbi10SVpZNm95dWVNbjRLNk55TE80RS1Ubi1MQkstcTNUZkFETTRyM3k4R2ZKZ3VHYURhZFRsSDMzNy1zUkRZd3dCVXRldl9Rdm1YajJ2a2xnR2ViSFd2dzQtU2NGajFSTVkxMUNFUHlsVG9oNlFsZFp5dGhKcGF6N3JxU3JGXzBrQQ?oc=5)
-
----
-
 ### [Cancer du sein : pourquoi cette association rejette le dépistage organisé et préconise une approche individuelle - St Martin Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWFWT1RVNnk4NVNqVUFtWTZBUTU4MWpHUFBDYkdwcHVXaDdreklFOFVRLXhreDdCVXJxM0VLZkZpenRiZTlXeDBRN1ZXUEZ1azhIMUdJYklXV1UzX0ZVTVR6UGJPdFl4VFp1ajN4T3RBZnB5WlpYS2gzT01URDlfN3lKTWFrU1NWV1dFNmhKN2t0VU5iR3Z5M0t1dG5jNGY5SUM0UmNlOHc5N2s1UElwUGhFNTR6dzRfUVVaTUdlLWJGODVETmdvRm9WU096UFJ6QXNLci1n?oc=5)
 
 2026-07-18 <span class="news-indication-tag">cancer</span>
@@ -187,22 +227,6 @@ permalink: /news/inotuzumab-ozogamicin/
 2026-07-18 <span class="news-indication-tag">Krebs</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMizgFBVV95cUxONFlaa1B5b3VkX21aSko5VEJpeTNQUHFPMDNENjNnVnB4TGJ2V1dsYjhqY1ItRzlZLUtiQlRrRGJpc1Ntcy1UTlp0c0ZPVHBpcTFsWnhMZjFEUV9MN19zcV8yODFXQWdXd2M3dXJkUXFDMUNSTTJiTmNvVUVzLXB5MFhURkkxZlR3YmZRaWpRMGV5SWt5NktWa3pmcFBwU2RqZURCQkdlRUREY2R4SEJRamIyWFJTNHZzVG0yTmZEZ1hJWWRNQU45ZWJHZHVaZw?oc=5)
-
----
-
-### ['Doctors told me I was too young for breast cancer screenings but now I'm dying' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWpSZ3A2RXVwaFQzTWZZZmczUHRoNHRuV0JoYXNxRFBmQ3RnTG83YnlrYkMyZzNvLW16bUVmQU9GSEU5NGtKQVJ5U2dwVDdrVjRaZXhpbUV0VWgxLTY5alpUNHpmRkROTVpwRHFzS2MtSDNOVGEySEhUWGo4X3RSd0NtblBBdw?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWpSZ3A2RXVwaFQzTWZZZmczUHRoNHRuV0JoYXNxRFBmQ3RnTG83YnlrYkMyZzNvLW16bUVmQU9GSEU5NGtKQVJ5U2dwVDdrVjRaZXhpbUV0VWgxLTY5alpUNHpmRkROTVpwRHFzS2MtSDNOVGEySEhUWGo4X3RSd0NtblBBdw?oc=5)
-
----
-
-### [Glasgow mum diagnosed with rare cancer after doctors suspected kidney stones - Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEkyQ25ndHpJeGJPcWRFZEdzMC1TS0dMNHdJTlBfUFRmNTRGVHRrM1FQaEVEUjVCbWxlWVJTLTQ4b3RiQ2F4alVOS2FKMlFSYXRVSnFjSHZ0ZXl2SXFwcmMzRDd6NXQ2UUFxY0ZPN3pmcVZEekJleUcxZl9TaDVEeWdLenNtc3dDRzFMMzZwTndIOGhq0gGaAUFVX3lxTFBDcGFReGVDR0Q3VmtiVFhlZk9mUmJVaG9BMFRQVG9MNjZ0N01uSE5ienlwTzhqN2N5UkNIYnNUcEVmd0ZHY0tGVTEzVVJZYWRyNlBwT1JaTjR4ajJzRzJUeTVOdUgxX2ZqaDlLMTZjWlpmSVExWEZKTmQ4RUI0VWM4SmVBZlBnQUpJVlUtYUdhalJ0MUd3SkNfNVE?oc=5)
-
-2026-07-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEkyQ25ndHpJeGJPcWRFZEdzMC1TS0dMNHdJTlBfUFRmNTRGVHRrM1FQaEVEUjVCbWxlWVJTLTQ4b3RiQ2F4alVOS2FKMlFSYXRVSnFjSHZ0ZXl2SXFwcmMzRDd6NXQ2UUFxY0ZPN3pmcVZEekJleUcxZl9TaDVEeWdLenNtc3dDRzFMMzZwTndIOGhq0gGaAUFVX3lxTFBDcGFReGVDR0Q3VmtiVFhlZk9mUmJVaG9BMFRQVG9MNjZ0N01uSE5ienlwTzhqN2N5UkNIYnNUcEVmd0ZHY0tGVTEzVVJZYWRyNlBwT1JaTjR4ajJzRzJUeTVOdUgxX2ZqaDlLMTZjWlpmSVExWEZKTmQ4RUI0VWM4SmVBZlBnQUpJVlUtYUdhalJ0MUd3SkNfNVE?oc=5)
 
 ---
 
