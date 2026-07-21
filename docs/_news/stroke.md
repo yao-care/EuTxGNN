@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。7 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。7 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>7 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>7 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（7 則）
 
-### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
 2026-07-21
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
 ---
 
@@ -89,11 +89,11 @@ permalink: /news/stroke/
 
 ---
 
-### [Wie weiter nach Durchbruch-Schlaganfall trotz DOAK?](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
+### [Schlaganfall vorbeugen: 80 Prozent der Fälle durch Blutdruck, Cholesterin und Risiko-Tools - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
 
-2026-07-20
+2026-07-19
 
-來源：[medonline.at](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
 
 ---
 

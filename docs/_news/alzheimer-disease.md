@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Alzheimer（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad de Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# enfermedad de Alzheimer（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad de Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>enfermedad de Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad de Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
+
+2026-07-21
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
+
+---
 
 ### [La Rioja inicia una investigación para prevenir el alzhéimer en personas con predisposición genética](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdEJ0aXlCQWh3MWx2amJwY2I4TGF1SEctT3BOVTJGOW8wOTl5dnNoNVBFX2llTU16cGMyLVAySDBCRkg2LXZ4ODBZT1lKSXVYZS1rWUpJRWV1UTA4YUR2T0VoZlIzRzJWRFBiTkpJdXJFMGpWVXhtTlZ4VzNWSEcyNkYzWkRhSXQySWU0d2t6Qi13U05BcWdyQlJ2VnhBTnU0OHJJbWVEQ0xrbFRlM2NKbUxJemN6Nm5oYXpuamRjbnQwLUNyeDA3Z0YxRTAwOUQxbXdRXzktZzhuZDVFVHp2b1dyQQ?oc=5)
 

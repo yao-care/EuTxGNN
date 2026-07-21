@@ -14,7 +14,7 @@ permalink: /news/erlotinib/
 ---
 
 <p class="key-answer" data-question="Erlotinib 有什麼相關新聞？">
-<strong>Erlotinib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Erlotinib</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/erlotinib/
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（24 則）
+
+### [Brustkrebs: Gallensäuren als wichtiger Faktor identifiziert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0laaE1GVTYxVDZJaHNiZXBZbGNKZzNOdm5vcEEtU1dBSnhTblJfc3g1VEUtQjFZcWs1enRwUTAza09JcWNwd3gwdkk4Rnc5dUhnX3ZfMS1Edm1DTFVCeDJyTkk5NzZhU2FPelowMG5XTVdCQ2gzWWt3VlRPdDdpZWg0dzVMQTlLWHlzMlhxUTZ0Q2RvcmYtR1RCbV95bmVRcGh1SEo5Z0NLd2RkRTZEX0ZkRlR4RWZ5TF9QbA?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0laaE1GVTYxVDZJaHNiZXBZbGNKZzNOdm5vcEEtU1dBSnhTblJfc3g1VEUtQjFZcWs1enRwUTAza09JcWNwd3gwdkk4Rnc5dUhnX3ZfMS1Edm1DTFVCeDJyTkk5NzZhU2FPelowMG5XTVdCQ2gzWWt3VlRPdDdpZWg0dzVMQTlLWHlzMlhxUTZ0Q2RvcmYtR1RCbV95bmVRcGh1SEo5Z0NLd2RkRTZEX0ZkRlR4RWZ5TF9QbA?oc=5)
+
+---
+
+### [Le Viagra pourrait être efficace contre la progression du cancer, selon une étude israélienne](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTExVUzNBVnVNTUpuZ1B1dEtMXzhHQnJGeklmWXVqQW9IM0pnMDU5UUQ2QmxRWXdkaGc3T1RXUDhHM1BKamt3cm1FSnVBeVg3cFNCdEd1cWpLUkVJbG0wWUdQS0pjVnNpRXJVbjNUb2x4c3pZbVR5UUpoZjVNRmtQamdVallmMmc0Y09aYjhjVTdhX1ZGWGFOc0R2eDVmXzh1ODVJdXB5UFI5YmttcW8wd1pqaEVNTTQwaXpKdkFIZG5XMTcwdG44akpCMjk?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span>
+
+來源：[IsraJ](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTExVUzNBVnVNTUpuZ1B1dEtMXzhHQnJGeklmWXVqQW9IM0pnMDU5UUQ2QmxRWXdkaGc3T1RXUDhHM1BKamt3cm1FSnVBeVg3cFNCdEd1cWpLUkVJbG0wWUdQS0pjVnNpRXJVbjNUb2x4c3pZbVR5UUpoZjVNRmtQamdVallmMmc0Y09aYjhjVTdhX1ZGWGFOc0R2eDVmXzh1ODVJdXB5UFI5YmttcW8wd1pqaEVNTTQwaXpKdkFIZG5XMTcwdG44akpCMjk?oc=5)
+
+---
 
 ### [Biologisches Altern: 40 Prozent lassen sich durch Lebensstil beeinflussen](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2V5U3hEOXB3YmRKekd0V2NKVXNGbnNxc3dObThhTHJPZWJFVVR3eFZaMEpEYUtpQXVMZmFyS3FSZGx0Uk44NlBTS21xbVFsQVRLQjhCdWpwa0xpeGFIRkVJaUpRQjhzRHFTUTV3eWhLMGtwczdFLXh6THJWRTFxQXJlMlZ4cFFnV1psWC11N056SElSVHZxN0sxdU9QWlE2dTZFeUhnWGQ4WGlLSndScWh4TUNjeWo0MjhoSklR?oc=5)
 
 2026-07-21 <span class="news-indication-tag">Krebs</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2V5U3hEOXB3YmRKekd0V2NKVXNGbnNxc3dObThhTHJPZWJFVVR3eFZaMEpEYUtpQXVMZmFyS3FSZGx0Uk44NlBTS21xbVFsQVRLQjhCdWpwa0xpeGFIRkVJaUpRQjhzRHFTUTV3eWhLMGtwczdFLXh6THJWRTFxQXJlMlZ4cFFnV1psWC11N056SElSVHZxN0sxdU9QWlE2dTZFeUhnWGQ4WGlLSndScWh4TUNjeWo0MjhoSklR?oc=5)
+
+---
+
+### [Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
 
 ---
 
@@ -86,11 +110,11 @@ permalink: /news/erlotinib/
 
 ---
 
-### [As a prostate cancer surgeon, this is what I wish every man knew about the disease - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2I3dkl4WlZoRks3djJpY3A3UW9GV2NzWEt3Q25EYVpaMXpDWE1TbXIwWnlQX2xsbk9SbXB5UDJmcVFFdndtZm03bVhhZW5LSHNUdU1hQlN1ZFBOYmwxSnlLbXpSMk8za1dKUktwU3FaOTlnVVhvVnc0cjBFREViX1hOcFRuZTMwVjU4TjJaTEZEbG9WcEJwWGY3TUJmMEZOWURoTm9fMTJFcWtnM3dTdjRzUQ?oc=5)
+### [Scoperto il "ponte invisibile" tra nervi e cancro - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJtQzZ2cGZJQ3dyVWtlN2ZzUE05ME5PNXNEcndyU0hwanN2a3F0U19FeGVmYkIzbnE3UkR3Si1wMGpxVldqVnpOQzdvWTR0ODQ4eDFscEEwYTl3X054dG8xMkFGenc4ZjZfNkFRMG4zZnJUdnAweWNHdDMzTUw2MUxScmZmem11Uk1lb0I2SWxaZllkTjZhSkg0cDVwY1U5TkJ6N0lnQnRUUC1Mcnh4RjNGRXlDanNkV2Ew0gHAAUFVX3lxTFBwZGhoWTBpaXJoVXdmMmdHSnd2SjdtTDlQTGlDa2xCOV9mNjZPZG5MT2NSQVk1eUtYTGlQVG5ScGdoZ1FoUVlwdnN0UlpRZEJQWVdoVU4yS0ZfRU5zYXpxVlNheV9faG9tc0d6MW1wX1lLN0ExUmJGd251SFR6TGRUTk5vcHhubWVLd3A5ZHBCVGE0Vl9aQ0dEUk0zZFNXZHhCUnd5S2FWandwM1A5aHB1SGlkTy1ZUGZqYnlDaVJrUA?oc=5)
 
-2026-07-20 <span class="news-indication-tag">cancer</span>
+2026-07-20 <span class="news-indication-tag">cancro</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2I3dkl4WlZoRks3djJpY3A3UW9GV2NzWEt3Q25EYVpaMXpDWE1TbXIwWnlQX2xsbk9SbXB5UDJmcVFFdndtZm03bVhhZW5LSHNUdU1hQlN1ZFBOYmwxSnlLbXpSMk8za1dKUktwU3FaOTlnVVhvVnc0cjBFREViX1hOcFRuZTMwVjU4TjJaTEZEbG9WcEJwWGY3TUJmMEZOWURoTm9fMTJFcWtnM3dTdjRzUQ?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJtQzZ2cGZJQ3dyVWtlN2ZzUE05ME5PNXNEcndyU0hwanN2a3F0U19FeGVmYkIzbnE3UkR3Si1wMGpxVldqVnpOQzdvWTR0ODQ4eDFscEEwYTl3X054dG8xMkFGenc4ZjZfNkFRMG4zZnJUdnAweWNHdDMzTUw2MUxScmZmem11Uk1lb0I2SWxaZllkTjZhSkg0cDVwY1U5TkJ6N0lnQnRUUC1Mcnh4RjNGRXlDanNkV2Ew0gHAAUFVX3lxTFBwZGhoWTBpaXJoVXdmMmdHSnd2SjdtTDlQTGlDa2xCOV9mNjZPZG5MT2NSQVk1eUtYTGlQVG5ScGdoZ1FoUVlwdnN0UlpRZEJQWVdoVU4yS0ZfRU5zYXpxVlNheV9faG9tc0d6MW1wX1lLN0ExUmJGd251SFR6TGRUTk5vcHhubWVLd3A5ZHBCVGE0Vl9aQ0dEUk0zZFNXZHhCUnd5S2FWandwM1A5aHB1SGlkTy1ZUGZqYnlDaVJrUA?oc=5)
 
 ---
 
@@ -158,6 +182,14 @@ permalink: /news/erlotinib/
 
 ---
 
+### ['Doctors dismissed my husband's excruciating headaches before scan showed devastating reality' - North Wales Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdE9fblZiN096dnI3MFJMcjE0dFVtYXFqQ3U5WGllM3lFZGtZOUtZbmRxMVRHQzZ1Y0NQdGRER0hUTE83VTdEQTdKNUZOeHJJaDBjTHFkeEtybnhFMDZWUlBsZVU4TEZpdEVaMjh4LXl2dTFpeU8xLVQzQXZQR1dYOEJGeEtHWTlRSnRybURhWDBRZklRS0FrVUlGeTBjeVdQS2tsYXJlekxuV2VB?oc=5)
+
+2026-07-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdE9fblZiN096dnI3MFJMcjE0dFVtYXFqQ3U5WGllM3lFZGtZOUtZbmRxMVRHQzZ1Y0NQdGRER0hUTE83VTdEQTdKNUZOeHJJaDBjTHFkeEtybnhFMDZWUlBsZVU4TEZpdEVaMjh4LXl2dTFpeU8xLVQzQXZQR1dYOEJGeEtHWTlRSnRybURhWDBRZklRS0FrVUlGeTBjeVdQS2tsYXJlekxuV2VB?oc=5)
+
+---
+
 ### [Mammografie, al Ca' Foncello l'intelligenza artificiale individua i tumori precoci](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1VrNHVBM1NxTnBaTXdoMk10X21MSW9kNHdocDBhQTY4YVRWOWtYNEdjQnRHU2wzdHBWYklJZFlReTJNZ2pIeENiejUtZlIyWFJQc2J5cWdib0JZVFVQMkY3RkxuRzBsdEJ5WjFKR2p4dHR4NDhCaFB0UlBsSThHY3E1OENCdEtoTE03T2RvQnlmUERYeDh5MzREQ2xPYXJwd0FuRXByRi0?oc=5)
 
 2026-07-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -166,19 +198,19 @@ permalink: /news/erlotinib/
 
 ---
 
+### [HPV-Impfung: Mehr Schutz vor Krebs – Erste Erfolge im Kreis Olpe](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUdEUzRBUXBQenZzQl9SclR2NXp1ZmJicGlJeFhjelFubzNmeEE5RExkbmhrQU8ySlhUSjZ5SVhKZXUzd0pHVDlxNHdPNWpCRkczNElJYXZUR0ZMbFppb0U1WThJRHlQS2oxYmk3QWo1QmNQWVdaSHJCdWpBbFZ2TkNJbEJLNzZ0dHY0U3Q2LV9qRXBCQ0g3cVdGcjBUSE5iUlZmcHJfSkE?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Krebs</span>
+
+來源：[LokalPlus](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUdEUzRBUXBQenZzQl9SclR2NXp1ZmJicGlJeFhjelFubzNmeEE5RExkbmhrQU8ySlhUSjZ5SVhKZXUzd0pHVDlxNHdPNWpCRkczNElJYXZUR0ZMbFppb0U1WThJRHlQS2oxYmk3QWo1QmNQWVdaSHJCdWpBbFZ2TkNJbEJLNzZ0dHY0U3Q2LV9qRXBCQ0g3cVdGcjBUSE5iUlZmcHJfSkE?oc=5)
+
+---
+
 ### [Surgeons use 3D imaging to operate on 13-year-old’s brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
 
 2026-07-20 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
-
----
-
-### [«Ho venduto la mia casa per pagarmi le cure per il tumore al cervello, è stata la decisione più difficile che abbia mai preso» - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxOdFVHMFFudVRTajlaampaR09WM09yU0llcVZOR1RsNk5VcmF3N2w0Rkg1T0xYSkk2YUFsbVVIdTgycWI0c2MtdndfQVNGUGlzdnItNkQwSS12aHdJV3lQdGJkaWtTbVllRkVhY2xLQkhuVHI5Q1lsSTR5d1VDbm80ZkJ5Ql9TeHVOMGwtTkZiTWxQV053REhDcjBlU1JYd9IBmgFBVV95cUxNdW5XRXdmRFc3WE9QNFY1T0x5aUMtTVN6MHFrRmtCc1p6aXRfYVcyUm1UcVh6TS1VZkVWd0dIRWZUUGE1aWNrZ2wtMzZ3R3h1NzdjRjJjTC1BTXpkeF9zMVFzSndudnNKTHJxYTFCZ0RLOXRPS1lxM2hJWnJBYTF4VzhjVXVaek1ISG94YWdkcy1UV2NocXQwSGd3?oc=5)
-
-2026-07-19 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxOdFVHMFFudVRTajlaampaR09WM09yU0llcVZOR1RsNk5VcmF3N2w0Rkg1T0xYSkk2YUFsbVVIdTgycWI0c2MtdndfQVNGUGlzdnItNkQwSS12aHdJV3lQdGJkaWtTbVllRkVhY2xLQkhuVHI5Q1lsSTR5d1VDbm80ZkJ5Ql9TeHVOMGwtTkZiTWxQV053REhDcjBlU1JYd9IBmgFBVV95cUxNdW5XRXdmRFc3WE9QNFY1T0x5aUMtTVN6MHFrRmtCc1p6aXRfYVcyUm1UcVh6TS1VZkVWd0dIRWZUUGE1aWNrZ2wtMzZ3R3h1NzdjRjJjTC1BTXpkeF9zMVFzSndudnNKTHJxYTFCZ0RLOXRPS1lxM2hJWnJBYTF4VzhjVXVaek1ISG94YWdkcy1UV2NocXQwSGd3?oc=5)
 
 ---
 
@@ -195,14 +227,6 @@ permalink: /news/erlotinib/
 2026-07-19 <span class="news-indication-tag">dementia</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDdHQlh0M1R5ZDhfMURPMmM0eVpqWGctOXZ6RDhra2tPUDA4M0wxS3JkN2lyaDRlUU5VTzI0YlFVSWhUR19BMUE1YWZsRC1ib3Z2bDlGRmRncEVwenZsRTE2NEt1QjZ5d0hEN296YWpXWEhhQWg5SkplRmxxYUxveHFXMlA3Nnk4TS1XZkVHQVA3WXJGRThfQ21zaFdYLThj?oc=5)
-
----
-
-### [Tumore al pancreas, svolta nella prevenzione: scoperto vaccino in grado di prevenire la malattia e addestrare il sistema immunitario - Il Messaggero](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlI4bm5YZ0R4OVRpeEZKNG42R1RUNWJMX0tWM3RmcUVHSWEzakx1UGNhb25raFVycFZTQjBYTUtaUDB1ZTRVaWxDeElndGFuVzE0QWZwNVloT0diS19NcGxkZHhIWUxxUnRBNHd2RzN6UlV5ZHpuV1AxMDdwTnM0WFNZRjNKVEpBajEwb0dGUjJqRGNXeDNQYzM1cVppS1F2eHo2ZW9zT2x0aVZ0TEZLandSdW1CMF9pelo1cnhVTmJYMEdBTkHSAb8BQVVfeXFMUERJWlJzUUpBQko5ajlGUEFMSlczamxJQ1MtNnJNQTZFbmxJajZFQXZaTVgzYUV2R3RNeWViZFpPNHhhaUVnQl9pRVVHczFIT1hNa0d5dXlQcUFuX1RmR181bHEyS3p6RGZ4c3BONmZYa3ZvcWJzN2Y0TXN6bHR0WVVaMkM2M2U4cldibC0xLWVxSTdqR2hCYWZ1LU1DbkFndFNvWU1wdGliei1wUmVqeVNvbnY4ZkhSdnMtTXhoRjA?oc=5)
-
-2026-07-19 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlI4bm5YZ0R4OVRpeEZKNG42R1RUNWJMX0tWM3RmcUVHSWEzakx1UGNhb25raFVycFZTQjBYTUtaUDB1ZTRVaWxDeElndGFuVzE0QWZwNVloT0diS19NcGxkZHhIWUxxUnRBNHd2RzN6UlV5ZHpuV1AxMDdwTnM0WFNZRjNKVEpBajEwb0dGUjJqRGNXeDNQYzM1cVppS1F2eHo2ZW9zT2x0aVZ0TEZLandSdW1CMF9pelo1cnhVTmJYMEdBTkHSAb8BQVVfeXFMUERJWlJzUUpBQko5ajlGUEFMSlczamxJQ1MtNnJNQTZFbmxJajZFQXZaTVgzYUV2R3RNeWViZFpPNHhhaUVnQl9pRVVHczFIT1hNa0d5dXlQcUFuX1RmR181bHEyS3p6RGZ4c3BONmZYa3ZvcWJzN2Y0TXN6bHR0WVVaMkM2M2U4cldibC0xLWVxSTdqR2hCYWZ1LU1DbkFndFNvWU1wdGliei1wUmVqeVNvbnY4ZkhSdnMtTXhoRjA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Common health condition could increase heart disease risk in women - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/rimegepant/
 2026-07-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
-
----
-
-### [Migräne: Warum viele Patienten unzureichend behandelt sind - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Migräne</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
 
 ---
 

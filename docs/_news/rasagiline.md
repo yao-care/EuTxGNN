@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
+
+---
 
 ### [La Rioja inicia una investigación para prevenir el alzhéimer en personas con predisposición genética](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdEJ0aXlCQWh3MWx2amJwY2I4TGF1SEctT3BOVTJGOW8wOTl5dnNoNVBFX2llTU16cGMyLVAySDBCRkg2LXZ4ODBZT1lKSXVYZS1rWUpJRWV1UTA4YUR2T0VoZlIzRzJWRFBiTkpJdXJFMGpWVXhtTlZ4VzNWSEcyNkYzWkRhSXQySWU0d2t6Qi13U05BcWdyQlJ2VnhBTnU0OHJJbWVEQ0xrbFRlM2NKbUxJemN6Nm5oYXpuamRjbnQwLUNyeDA3Z0YxRTAwOUQxbXdRXzktZzhuZDVFVHp2b1dyQQ?oc=5)
 

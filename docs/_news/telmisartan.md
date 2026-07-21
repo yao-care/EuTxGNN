@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
-### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+### [Une étude sur 25 ans alerte : ces boissons données aux enfants augmenteraient de 52 % leur risque d’hypertension - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY05kSXFYTWVWTS04Y3I5eXJFd3VFbVRBUGpSZDllQUdiMHdWNE5CbGhSMURDVkF3OTdpQmpSME5sZWxXRjNEV3NtczNYcXAtYnhTYjhXcmNVcndPejludVR1Q3RpQW1nQmxFb2NrcEN2ZDAyZHhlQk02LWlFbEJxeHJsazFzcE1tY0dKSk9iUVFKMlVOUTJ6dFlFTEJvdTdxU1pfalVIOUJlYWFxS0NMLXdYQnk1TURaSE5fQjhtQzd2Y0xURnhfWU9SZk5Nc2ZsSkduT3BHdWx0cHUwd29jTTJoX2lNR2dFcElv?oc=5)
 
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-07-21 <span class="news-indication-tag">hypertension</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY05kSXFYTWVWTS04Y3I5eXJFd3VFbVRBUGpSZDllQUdiMHdWNE5CbGhSMURDVkF3OTdpQmpSME5sZWxXRjNEV3NtczNYcXAtYnhTYjhXcmNVcndPejludVR1Q3RpQW1nQmxFb2NrcEN2ZDAyZHhlQk02LWlFbEJxeHJsazFzcE1tY0dKSk9iUVFKMlVOUTJ6dFlFTEJvdTdxU1pfalVIOUJlYWFxS0NMLXdYQnk1TURaSE5fQjhtQzd2Y0xURnhfWU9SZk5Nc2ZsSkduT3BHdWx0cHUwd29jTTJoX2lNR2dFcElv?oc=5)
+
+---
+
+### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
 ---
 
@@ -110,19 +118,27 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Wie weiter nach Durchbruch-Schlaganfall trotz DOAK?](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[medonline.at](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
-
----
-
-### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+
+---
+
+### [Schlaganfall vorbeugen: 80 Prozent der Fälle durch Blutdruck, Cholesterin und Risiko-Tools - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
+
+2026-07-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
+
+---
+
+### [Voici l'huile naturelle qu'une étude récente associe à une baisse de la tension artérielle chez des adultes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdWZsWG1RS3dabnBVNm8xeTdNQ0Y5LUdzbTgxTUx5bXFNbk9YeFBfZlRKYWRHT2I1SnVJZ2ZycXE1akVVZWNxOXR5aHpMeVlaRm5YM2haTkx6WW9zaG9OUWtsMUJVSkhiTUNMcDNVeXdEV1V4bEFleWxjZld4MWhwc1JBbUd4VnVRaGh5QmoxSjFGQl9WVXRxcDJxM1VQUEwxWXdlVm5MNGxVaURwNjZPMlBqLUhtMHVFQTJ2eGRzUWJVT0FWQlFBa21adXlDMW94a1hDd1JFRUdTWWNfYlB0OG9MVUdrXzB5bzBnV2pDNGliOGt2VXBCZDBBWjg1S1E?oc=5)
+
+2026-07-19 <span class="news-indication-tag">hypertension</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdWZsWG1RS3dabnBVNm8xeTdNQ0Y5LUdzbTgxTUx5bXFNbk9YeFBfZlRKYWRHT2I1SnVJZ2ZycXE1akVVZWNxOXR5aHpMeVlaRm5YM2haTkx6WW9zaG9OUWtsMUJVSkhiTUNMcDNVeXdEV1V4bEFleWxjZld4MWhwc1JBbUd4VnVRaGh5QmoxSjFGQl9WVXRxcDJxM1VQUEwxWXdlVm5MNGxVaURwNjZPMlBqLUhtMHVFQTJ2eGRzUWJVT0FWQlFBa21adXlDMW94a1hDd1JFRUdTWWNfYlB0OG9MVUdrXzB5bzBnV2pDNGliOGt2VXBCZDBBWjg1S1E?oc=5)
 
 ---
 

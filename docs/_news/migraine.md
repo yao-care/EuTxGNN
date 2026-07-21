@@ -3,7 +3,7 @@ layout: default
 title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。5 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。4 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>5 則</strong>相關新聞報導，49 個相關藥物。
+<strong>Migräne（migraine）</strong> 目前有 <strong>4 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -77,21 +77,13 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Menopause beeinflusst Migräne, Schlaganfall und Parkinson - Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
 
 2026-07-20
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
-
----
-
-### [Migräne: Warum viele Patienten unzureichend behandelt sind - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
-
-2026-07-20
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
 
 ---
 

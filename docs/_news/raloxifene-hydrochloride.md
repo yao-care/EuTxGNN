@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（7 則）
 
-### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Wie weiter nach Durchbruch-Schlaganfall trotz DOAK?](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
+### [Schlaganfall vorbeugen: 80 Prozent der Fälle durch Blutdruck, Cholesterin und Risiko-Tools - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
 
-2026-07-20 <span class="news-indication-tag">Schlaganfall</span>
+2026-07-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[medonline.at](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBwc1E3enhqSHNNUXhvN19SSDhSS0VPUks0M3N0VlVMY2JxNjdQcHBzZWVMa3V4UFg4d2ttLWNobl9peVhBaWMzSTBFNDR1OEdtT3BQOThtXzJmVkdfSzVCQVVRc2JubWdzMExmMk1lU2NaVWxEODRPUFpvUEN6U1RIcTBiV3c?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
 
 ---
 

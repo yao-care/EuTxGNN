@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="Sildenafil 有什麼相關新聞？">
-<strong>Sildenafil</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sildenafil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/sildenafil/
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
+
+### [Klinikum Wolfsburg setzt auf neue Herztherapie bei Vorhofflimmern](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHQ0TGFDYldlQVRjTm5TWmZwbnNTM0txNnlwN0VldEhEN2VPYmY2dzA0WWttYU5OSVhIeE4xNEhzZHh3YWpmMTBSZ1lGd2taYl9hQmtXajR3aXV2Yi1tNFRTLUxKeURzLUVfeVYzWl9ZT2xtSk5reTlqZGYtdlpvc1RVTHZnT2lMWWdRYmJtRzktVWtwUGZQcm5rSUtVMmpJUE9ZdnhWSGt4NmotSEl2X1IyS0tPUElqbkVmQ0JjV1Q2MF9jR2RhY0xMUXdPcGxVZDV3a1BxRDPSAfQBQVVfeXFMUDRxdmhXZ1lmQUtnVjdqRjZzZHV3aDNGUzRWY2dfbmxZQ09GTGFfVUNHZkJpT19qcWhEcE5hT1o1SEp3MFdoSldnNWxNM3UxV0N6ZVJNUnlkUkpiT2NSa05tWkJWVVVzSlZGdU55a2xEMDRmaEc4Q2x4NW5ySEFRWnRiZTV6OU9MQ1BEYzV2NndZa0pqWGFRSTVKVzlDbUI4X1FKYUJZUHNwcE0weGVPNUJmbGpOajV5QUdVdW52RzRqZTFyamJGMk9ZZEtkajdYTGFCaEdoNHZESGFjZUdoOFByU1FWcEhDNnRzeTRQdTJCSWw3Mw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[WAZ-ONLINE.de](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHQ0TGFDYldlQVRjTm5TWmZwbnNTM0txNnlwN0VldEhEN2VPYmY2dzA0WWttYU5OSVhIeE4xNEhzZHh3YWpmMTBSZ1lGd2taYl9hQmtXajR3aXV2Yi1tNFRTLUxKeURzLUVfeVYzWl9ZT2xtSk5reTlqZGYtdlpvc1RVTHZnT2lMWWdRYmJtRzktVWtwUGZQcm5rSUtVMmpJUE9ZdnhWSGt4NmotSEl2X1IyS0tPUElqbkVmQ0JjV1Q2MF9jR2RhY0xMUXdPcGxVZDV3a1BxRDPSAfQBQVVfeXFMUDRxdmhXZ1lmQUtnVjdqRjZzZHV3aDNGUzRWY2dfbmxZQ09GTGFfVUNHZkJpT19qcWhEcE5hT1o1SEp3MFdoSldnNWxNM3UxV0N6ZVJNUnlkUkpiT2NSa05tWkJWVVVzSlZGdU55a2xEMDRmaEc4Q2x4NW5ySEFRWnRiZTV6OU9MQ1BEYzV2NndZa0pqWGFRSTVKVzlDbUI4X1FKYUJZUHNwcE0weGVPNUJmbGpOajV5QUdVdW52RzRqZTFyamJGMk9ZZEtkajdYTGFCaEdoNHZESGFjZUdoOFByU1FWcEhDNnRzeTRQdTJCSWw3Mw?oc=5)
+
+---
+
+### [¿Cuántas tazas de café al día son demasiadas? Esto es lo que dice la ciencia - La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXZqU1NHcnBBS1c4S3dnck9DZlBSYzQ2MWpvM3BFZXNnejhGdjhWbFd6ZGlaTzRFcGJkYVozUE9KMjZCRVZ1VUdLc25HVWtXVGtQaUxCUzJBcmVDRWlZWEI2emFvaGw5QmZqajVtb0EyT2kxeks2QTlDNGx0ZUdzY2tCdGZ0a2RhNWpZQk5EbnNIR2tnN0VZNVFhbzh5N042dEJQMGNrX2JoaUliaFVIa3hoMEQwQ1ZTWURRVXN1TdIBxAFBVV95cUxPSndSb1JQMkdZV25SeEpuLVFuZUtjaFJVX3dQWWdDclRJa3lzV1JvYURMOFNXQnVpOXN5OEJiTERaSEp2U2R6aGp3dmZjT1pQSmNmRDNzVkZGa2YwVkdPMm9sQmJYQlRjWGJjNVR3MjduZW1zdl9UMkl4SEpZNzBjQ0owMUppSWtMc1RsUXJyd2gzQk1yWFBKczgxalVtSF85dlVRamx0TTJENFA1aW5nclpmVWNJTGRya1ZWX2Nla2tKZllN?oc=5)
+
+2026-07-21 <span class="news-indication-tag">AF</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXZqU1NHcnBBS1c4S3dnck9DZlBSYzQ2MWpvM3BFZXNnejhGdjhWbFd6ZGlaTzRFcGJkYVozUE9KMjZCRVZ1VUdLc25HVWtXVGtQaUxCUzJBcmVDRWlZWEI2emFvaGw5QmZqajVtb0EyT2kxeks2QTlDNGx0ZUdzY2tCdGZ0a2RhNWpZQk5EbnNIR2tnN0VZNVFhbzh5N042dEJQMGNrX2JoaUliaFVIa3hoMEQwQ1ZTWURRVXN1TdIBxAFBVV95cUxPSndSb1JQMkdZV25SeEpuLVFuZUtjaFJVX3dQWWdDclRJa3lzV1JvYURMOFNXQnVpOXN5OEJiTERaSEp2U2R6aGp3dmZjT1pQSmNmRDNzVkZGa2YwVkdPMm9sQmJYQlRjWGJjNVR3MjduZW1zdl9UMkl4SEpZNzBjQ0owMUppSWtMc1RsUXJyd2gzQk1yWFBKczgxalVtSF85dlVRamx0TTJENFA1aW5nclpmVWNJTGRya1ZWX2Nla2tKZllN?oc=5)
+
+---
+
+### [Biogénesis Bagó acuerda apoyar al sector bovino de Sudáfrica en la prevención y manejo de la fiebre aftosa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXFmNFdxcHlkZTU5eGdPRXNPX0JHdkFPZ0U3VzdIMzRJSFJNY0plaEF3cDJnekd4UnFJZExRajkxR2FYZjM2V1FvaVdlUkFnZVBYTzVPTjVhSU9ZdDFLM2N2T0tKNXJsTzh1OURYQXNxQTF5QzBRalhYRkI1YUxGVDBJWXRsSzBkVU9SMzJXOU1NOVpjU1FsQzhCcmxWVW9ZMjhyM2NrT0o5MDRNWmFaWjZXamtxLTdGdG1HRVQ2eU9aUQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">AF</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXFmNFdxcHlkZTU5eGdPRXNPX0JHdkFPZ0U3VzdIMzRJSFJNY0plaEF3cDJnekd4UnFJZExRajkxR2FYZjM2V1FvaVdlUkFnZVBYTzVPTjVhSU9ZdDFLM2N2T0tKNXJsTzh1OURYQXNxQTF5QzBRalhYRkI1YUxGVDBJWXRsSzBkVU9SMzJXOU1NOVpjU1FsQzhCcmxWVW9ZMjhyM2NrT0o5MDRNWmFaWjZXamtxLTdGdG1HRVQ2eU9aUQ?oc=5)
+
+---
+
+### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+
+---
 
 ### [Alzheimer, l'ipotesi affascinante (e finora senza basi scientifiche) che alcuni pazienti abbiano un «risveglio» - Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPNmNxUUdvZ3dkZXZTaFdVQldDTlJhVnRyTGlDU2tBeXpDdzIyX3I2V2hnakpIZVU1WFB1eEFEb3p2TFJLSVgycTk3dTd1WUpIZ2s3d1liMmJJWHVZcmM0TnZDZUtiaHVEY2M1bV9fblUyMllPbFdXSm92Y1pibE1kaTh6allQZXpaT19zQm83V0VyU1BGeTAxdjgwSm9WbXdkQk5uY2kwaFNhTFg4aS1STkhzMlpXNGs3bU5tT1RtR3dVNEdVRG81NVlqNmdqOXN1TTZBWTBtMkJJaUVWbGZ6QU9DYlBJTElaYWhBM2dkbzk0bjVlbEc1bkdHTEI5ZkE1LThDRzJVMVY0MWxRQzEyeG5pYWJxenROeXN5dzhxMDA1NGYycEVPVUtfUWtzMWvSAbQCQVVfeXFMTm0tSHRhWjl6U2cxOGZzTkkwVDVTbmJzLXdMUmI2N3hsVU1aZVNmWnJZdzRjWFRGLXNYWVhxWVE5R3ZHSkdVNmFWdkxzcWx3cjRPcVJiaE8xRjMxVUItOGVXOXA3WEQxVnU2d3RCaC1BNXpxWU40bFdZNjd4WTZYcjB5NnlyVldfVDV4alhNTC1CMG1GeHpNWndoUEJNODZUXy01djdZQktmNWx1UWwtWGxtWE00Mng2dF9rWGhqNnZmdXE3bWROLURHUkg3Z1B3S3ZCZkJYME1lVGh1M3doYmtCcG5HcGt1U2NuRWR6QzBTRUF0LXF1VUJRVk1OaG9yWWJrTkpMRWF6elRQY2hXM3ZpZEg2MGtvM1BRakVGYWhtZlFiODUwRldFc21wOWhIamJRbTQ?oc=5)
 
@@ -62,11 +94,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [La cafeína puede beneficiar al corazón, pero expertos advierten sobre sus riesgos en exceso](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUF96VU43bFVmcko2ZUptcnVBZVJJNFFld3E4czJ3S1FpMXo3SDl6WXdOX1AtZkdhSlctaGpva09aeHVRcVo4RkxycndVOTkxUWZtTDVrYldKLWJ3LXNzM2QwQ1VUbVVQb3p5TElfYkZiWW8xUDliYlpTdnNEQm9CbFFmTnZuT1g2OFpCaXczSVFjUDMxZk9LdER2NF9DMUg3LXZfakJB?oc=5)
+### [Dr. García Borreguero, experto en sueño: «Dormir 6 horas te deja igual que si bebieras» - The Objective](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEZpMUU5QXJZX01mNXUtRWRSTjh3amtwMVZFYjAyWFJId3NFdndYTm5xOHBUdWlxNTBqOGw0TXVpRnRCUmdOZnFjMkRwa1NlWExhVG02cjVWX1hmckVob2JTR1RGWUVJN3l5bzdjRG9FMXIwenNHVTNuMk44UmZoQmE1T2c0SVlVR1k1RzJPNEQ4cVd3WTZwc3AzTTdQRzJIYlVaSU9LMk56UGdUWF9PSTN4RF9xNFBrdy02ZEY2TldvVTlqbERoQdIBzgFBVV95cUxNWUhnMU1OVmxGd0V0YVRsLVRBanU4V2lrNHVQZ0pIT2pqQjZXZkhERV8wX2NyOWM2ZXNyRFdHb2RnX0o1RWJZX0Vzb3JVV1dva3Z6anF2UnJoSnJ1VlhTTFNHcHNRTkcxWVdaazhKTU1wYk1ySml6d3pRVnRqWi1oRGpvZnQ5endtZTJVRkk3Zi1MLXhFSGhGQzdYdEVoZHVGbDMwcnFvSDZZbFlJWFR5azBjZ3BfaHk2VTdIM01ha0lMNXlpSUt6Wll5eEhqUQ?oc=5)
 
 2026-07-21 <span class="news-indication-tag">AF</span>
 
-來源：[Yahoo](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUF96VU43bFVmcko2ZUptcnVBZVJJNFFld3E4czJ3S1FpMXo3SDl6WXdOX1AtZkdhSlctaGpva09aeHVRcVo4RkxycndVOTkxUWZtTDVrYldKLWJ3LXNzM2QwQ1VUbVVQb3p5TElfYkZiWW8xUDliYlpTdnNEQm9CbFFmTnZuT1g2OFpCaXczSVFjUDMxZk9LdER2NF9DMUg3LXZfakJB?oc=5)
+來源：[The Objective](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEZpMUU5QXJZX01mNXUtRWRSTjh3amtwMVZFYjAyWFJId3NFdndYTm5xOHBUdWlxNTBqOGw0TXVpRnRCUmdOZnFjMkRwa1NlWExhVG02cjVWX1hmckVob2JTR1RGWUVJN3l5bzdjRG9FMXIwenNHVTNuMk44UmZoQmE1T2c0SVlVR1k1RzJPNEQ4cVd3WTZwc3AzTTdQRzJIYlVaSU9LMk56UGdUWF9PSTN4RF9xNFBrdy02ZEY2TldvVTlqbERoQdIBzgFBVV95cUxNWUhnMU1OVmxGd0V0YVRsLVRBanU4V2lrNHVQZ0pIT2pqQjZXZkhERV8wX2NyOWM2ZXNyRFdHb2RnX0o1RWJZX0Vzb3JVV1dva3Z6anF2UnJoSnJ1VlhTTFNHcHNRTkcxWVdaazhKTU1wYk1ySml6d3pRVnRqWi1oRGpvZnQ5endtZTJVRkk3Zi1MLXhFSGhGQzdYdEVoZHVGbDMwcnFvSDZZbFlJWFR5azBjZ3BfaHk2VTdIM01ha0lMNXlpSUt6Wll5eEhqUQ?oc=5)
 
 ---
 
@@ -86,30 +118,6 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Präzise Behandlung: Klinikum setzt auf Elektroporation gegen Vorhofflimmern](https://news.google.com/rss/articles/CBMiuAFBVV95cUxON20ySjRVSDdHYk56UkJBa0szeFkwR1RWUnYtRkF0Zno0T3lBeGhBeld5X0hhSEFmV1cwOE42M3VtVTVaOWlrTFgwOTFhRVk3ZG1jOE1BLVN0c0Rjd0c4a0VtclltZjM0QXc3SWpHU0lIVDJzYmdTRUUxTkI5WGExZmZhcVB2bnJnVG91ZDc3YXFWUXpaa2JUU3JmRmkyZm56WGdoTERDZ0xXNEU4aVpjMTVyZ3ZaZHNx?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Osthessen|News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxON20ySjRVSDdHYk56UkJBa0szeFkwR1RWUnYtRkF0Zno0T3lBeGhBeld5X0hhSEFmV1cwOE42M3VtVTVaOWlrTFgwOTFhRVk3ZG1jOE1BLVN0c0Rjd0c4a0VtclltZjM0QXc3SWpHU0lIVDJzYmdTRUUxTkI5WGExZmZhcVB2bnJnVG91ZDc3YXFWUXpaa2JUU3JmRmkyZm56WGdoTERDZ0xXNEU4aVpjMTVyZ3ZaZHNx?oc=5)
-
----
-
-### [Salute: sorpresa, 3-5 tazze di caffè nero non fanno male al cuore](https://news.google.com/rss/articles/CBMihgFBVV95cUxPaU1uMmFpVnZ3VzFONHUzTlhXc2NvZjliSTFZRDliQU0wbGhvTGdwOVRrZmxCZHRnQzNndTFUNnYxMU45UHJEWFN3OGpScC1LQW5QYkJwLWNtZmpaV0c3T0Q4NzZwOWNrZmNHMjM0TjJROHpPVlFzQ3B1WDdwWDhRUHhlUjYzZw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPaU1uMmFpVnZ3VzFONHUzTlhXc2NvZjliSTFZRDliQU0wbGhvTGdwOVRrZmxCZHRnQzNndTFUNnYxMU45UHJEWFN3OGpScC1LQW5QYkJwLWNtZmpaV0c3T0Q4NzZwOWNrZmNHMjM0TjJROHpPVlFzQ3B1WDdwWDhRUHhlUjYzZw?oc=5)
-
----
-
-### [Should You Keep Taking Vitamin D During the Summer? - Verywell Health](https://news.google.com/rss/articles/CBMicEFVX3lxTE5SQVpVVm9xUk1jWTVkT25vbFNxNVN0VmtxOW5MM1I0OHFLNXVBZEJ5Z3RjNjA1RERDc0pHNDNRQ1JYVF8yaFdNbkExRDBfSm9jc3pJUk1fWlhjNjYyZTlmSzBzZUdzcTVNeGMxLVFhcFo?oc=5)
-
-2026-07-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Verywell Health](https://news.google.com/rss/articles/CBMicEFVX3lxTE5SQVpVVm9xUk1jWTVkT25vbFNxNVN0VmtxOW5MM1I0OHFLNXVBZEJ5Z3RjNjA1RERDc0pHNDNRQ1JYVF8yaFdNbkExRDBfSm9jc3pJUk1fWlhjNjYyZTlmSzBzZUdzcTVNeGMxLVFhcFo?oc=5)
-
----
-
 ### [Zucker raus, Fett rein: Hilft eine Keto-Diät bei psychischen Erkrankungen? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkVSYjJXOWhqcjEyaGhuY1hhZjVhcXRjNHh6c1B0UGFpSU9aZTRpRE80ZWZlYVpLTlR0X1NVTmV3TDdiN0hyMVpFOTZNOWotY2lZNTlDRC1nbjVUWkJsLVRlYUU2Q3YwSmhnOHVXQmZSby1nMFJkVld5TTRVU2xGWE54czhOR2FnWjVfZzN3aW5zVVo4UkhHVGxNVm10cThqb00xZWdYUjNzdw?oc=5)
 
 2026-07-20 <span class="news-indication-tag">AF</span>
@@ -118,11 +126,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Weltweit größte Genstudie zu Borderline identifiziert 11 Risikoloci und breite Überschneidungen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUjU5NmNWWmlUa3QwU2dfRDRxQjh6cHF6Wjg0X1c1bldCcXB0NTJMZDhZWDB5dGxNOWR2LVFLMWVLZVJuWTBJV0dGdlh5M296SERIMnpnTHB5TF9kTHdxQ0dLN2QzdVBTV0dnVEJoYUhocDVTMy1HRXRuZHQwZjNpZmdtb1F0MDZnanFDUVJnNTlsT2hyUTNpYWlmcnV4Z05Kbkc2clMydWR0WVpGYXVJejJ3WnRXSGNKMzRJa2lxcEdZejBKLVFWcXNZUGlTM1RJUHFXeWpJd2puM1k?oc=5)
+### ['Doctors dismissed my husband's excruciating headaches before scan showed devastating reality' - North Wales Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdE9fblZiN096dnI3MFJMcjE0dFVtYXFqQ3U5WGllM3lFZGtZOUtZbmRxMVRHQzZ1Y0NQdGRER0hUTE83VTdEQTdKNUZOeHJJaDBjTHFkeEtybnhFMDZWUlBsZVU4TEZpdEVaMjh4LXl2dTFpeU8xLVQzQXZQR1dYOEJGeEtHWTlRSnRybURhWDBRZklRS0FrVUlGeTBjeVdQS2tsYXJlekxuV2VB?oc=5)
 
-2026-07-20 <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUjU5NmNWWmlUa3QwU2dfRDRxQjh6cHF6Wjg0X1c1bldCcXB0NTJMZDhZWDB5dGxNOWR2LVFLMWVLZVJuWTBJV0dGdlh5M296SERIMnpnTHB5TF9kTHdxQ0dLN2QzdVBTV0dnVEJoYUhocDVTMy1HRXRuZHQwZjNpZmdtb1F0MDZnanFDUVJnNTlsT2hyUTNpYWlmcnV4Z05Kbkc2clMydWR0WVpGYXVJejJ3WnRXSGNKMzRJa2lxcEdZejBKLVFWcXNZUGlTM1RJUHFXeWpJd2puM1k?oc=5)
+來源：[North Wales Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdE9fblZiN096dnI3MFJMcjE0dFVtYXFqQ3U5WGllM3lFZGtZOUtZbmRxMVRHQzZ1Y0NQdGRER0hUTE83VTdEQTdKNUZOeHJJaDBjTHFkeEtybnhFMDZWUlBsZVU4TEZpdEVaMjh4LXl2dTFpeU8xLVQzQXZQR1dYOEJGeEtHWTlRSnRybURhWDBRZklRS0FrVUlGeTBjeVdQS2tsYXJlekxuV2VB?oc=5)
 
 ---
 
@@ -174,14 +182,6 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Carlos Egea, experto en Sueño: “Dormir menos de 6 horas o más de 9 tiene consecuencias para la salud y aumenta el riesgo de mortalidad”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUVFkQUZyMUdVeGlLSUtFNnpwRUpZQTV0d3JMX3JYTW9vZmFraXh4dVZvazYwd2RYSFAxa3BhRDhIa0UzTUJMQlBTVUhRTW9lMDJ2WjlQdDh4MVRpbHVSYk50dk9XWjZfNzhOd2p6dmtTUy1IQXB1ZzJTU1RRM0FLbW40QkZPdnZCZmJlV1VFZV8xUWxoeHctUm9zSFFFS0YyNDlQclhtSTYxMk1qNUprYlRCUXlNZWpaT1dQV0FLcThvZVBnTmVNREh6Vk9vVXdEem9fREpUNUxESTJpSFRwNXFUQzZ0N1djcHNLelFn0gHzAUFVX3lxTE5XbGc0UVJ0N2dfQnFBZ2pqNTdmQml6YmVubUhSZVFLYTB4NEJ5dGFmaDVKb25kV0lJdzh4c1FYbXRMLTh2REtsOTdEZ3RqVWhYa0I0QjBVZTVSMjA0Mk1idk92Q1VHSGs3c0kzZEIzc0N6OWhsa2RpajBoLVVNUFI0T3gwZUhibzkwVkNPaFJ5TzlIOXd4TnYxWUpaUkVQSGlTbDZkUHItREpiT2RORkJGQl9PamFnU3pVRTNKTEMtc0E5aDFqeUx3S3JxRFJHWXZJcVJZNVV0SXByOVdGYkdzTXZDd2k3RFAyR2dzS3NpU0RLcw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[CuídatePlus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUVFkQUZyMUdVeGlLSUtFNnpwRUpZQTV0d3JMX3JYTW9vZmFraXh4dVZvazYwd2RYSFAxa3BhRDhIa0UzTUJMQlBTVUhRTW9lMDJ2WjlQdDh4MVRpbHVSYk50dk9XWjZfNzhOd2p6dmtTUy1IQXB1ZzJTU1RRM0FLbW40QkZPdnZCZmJlV1VFZV8xUWxoeHctUm9zSFFFS0YyNDlQclhtSTYxMk1qNUprYlRCUXlNZWpaT1dQV0FLcThvZVBnTmVNREh6Vk9vVXdEem9fREpUNUxESTJpSFRwNXFUQzZ0N1djcHNLelFn0gHzAUFVX3lxTE5XbGc0UVJ0N2dfQnFBZ2pqNTdmQml6YmVubUhSZVFLYTB4NEJ5dGFmaDVKb25kV0lJdzh4c1FYbXRMLTh2REtsOTdEZ3RqVWhYa0I0QjBVZTVSMjA0Mk1idk92Q1VHSGs3c0kzZEIzc0N6OWhsa2RpajBoLVVNUFI0T3gwZUhibzkwVkNPaFJ5TzlIOXd4TnYxWUpaUkVQSGlTbDZkUHItREpiT2RORkJGQl9PamFnU3pVRTNKTEMtc0E5aDFqeUx3S3JxRFJHWXZJcVJZNVV0SXByOVdGYkdzTXZDd2k3RFAyR2dzS3NpU0RLcw?oc=5)
-
----
-
 ### ["Sterne und Schlaf" - Nils Traummann verbindet Nachthimmel, Dunkelheit und Regeneration](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVdoRHF1aTJ6UW5yVmo2NWFNRGY5alJIVTZiZDRfV2REeEppcENFVE9zVFM5MVkzQ3hHc01ueHhXdlZ6OWVnSjVGWV92NXRwazVPUFp2aWRmQk5ONHVpMEE0b01SV3kxdm1LempZUDVLT3hqTXRpdEtEcWQwNk5IbUxERmd1d3ZLa0JYVG5Od3hTa2RrVW5DcF9HcnlnbmtxcTJpWTE2M28yNGZYbFdUT1otdUZNODhzb1ZjUm9DSQ?oc=5)
 
 2026-07-20 <span class="news-indication-tag">AF</span>
@@ -198,11 +198,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Legionella a New York, due morti e 72 contagi. Decine di evacuati nel quartiere dei ricchi - Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlhiS2RxVEVqZkZRYTliYngtT2R2VlBfODY5QnM2T2l0cGZmNEtlNVlZaHdmazVKeUhJMU1ES0RZMnBXNkhlUUpmQzNMOGpjeFJVcjJhUXB3M3lMcmJBUGFJcFpqU25OZGt5aG5hcFp2ZW9leHZWVDVSRDhsVm1HSzNTWTFWcGJOLVFkcTBvQQ?oc=5)
+### [New York, focolaio di legionella: due morti e centinaia di evacuati](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkdGTUctcC1zMVdqZ1B0akoyWnRSQ2lvVlRsNnRGNWlrUFJ2TXJ2M1ZHb0wydVh3MTZPZUtTQlNySEpSOFE5dS16WnM5ZDRyaHBxbEoxejNlcGxvRW45VmhCWXlCM0ROVVZhZldOZlRqTjFhV1ZOV2ZXU2VTbHhWa3ZSUzFVOWcxX0FmX0FjbVA3VXp10gFoQVVfeXFMT1ZseE5QRzlhZnJLdlE5STFJeHZwWHhNM0dtZkhwSDU2UEZlNzd1NFlrcXVGZTFQLU9KeFk0Zks5RlJkakQ1ZXAyV0F4YTFNUUozajlMS3kzUC1VVWUzaFllTkxiWUNIbTY?oc=5)
 
 2026-07-19 <span class="news-indication-tag">AF</span>
 
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlhiS2RxVEVqZkZRYTliYngtT2R2VlBfODY5QnM2T2l0cGZmNEtlNVlZaHdmazVKeUhJMU1ES0RZMnBXNkhlUUpmQzNMOGpjeFJVcjJhUXB3M3lMcmJBUGFJcFpqU25OZGt5aG5hcFp2ZW9leHZWVDVSRDhsVm1HSzNTWTFWcGJOLVFkcTBvQQ?oc=5)
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkdGTUctcC1zMVdqZ1B0akoyWnRSQ2lvVlRsNnRGNWlrUFJ2TXJ2M1ZHb0wydVh3MTZPZUtTQlNySEpSOFE5dS16WnM5ZDRyaHBxbEoxejNlcGxvRW45VmhCWXlCM0ROVVZhZldOZlRqTjFhV1ZOV2ZXU2VTbHhWa3ZSUzFVOWcxX0FmX0FjbVA3VXp10gFoQVVfeXFMT1ZseE5QRzlhZnJLdlE5STFJeHZwWHhNM0dtZkhwSDU2UEZlNzd1NFlrcXVGZTFQLU9KeFk0Zks5RlJkakQ1ZXAyV0F4YTFNUUozajlMS3kzUC1VVWUzaFllTkxiWUNIbTY?oc=5)
 
 ---
 
@@ -211,30 +211,6 @@ permalink: /news/sildenafil/
 2026-07-19 <span class="news-indication-tag">AF</span>
 
 來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd1JYNzlWSmJpNU1TWnlpWThLWmV4Z2NQcXFXSmVjZ2JJenQxVk5tX040VDJVRElkNGFIN2VPNXhpZkxlbUwzbktVdlNDQ01jNXhUd0pFUERseWRSMGFKN1ZPalNablFURUhBTTJuNzFvWmNlRGVvNjVzVk5CRV94OC1qS3Q0eFZQNHJ5OUxiLTVHUHhtOWNtWDQyZ2k4dWd5TDdsUmRwN09ScXQ0NG1zMzRKRW0zTGs5M2JpTnNJR2E0cUw1T1lBMlJwUU9aRFVnTGpEbUhsRU9sNVVNb1U3RWdxVkxLWUtDcWc?oc=5)
-
----
-
-### [Antennentechnik: Wie war das noch mal beim Urknall? - DIE ZEIT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQald2WmF0enZBY1A4QjRUSDM0d1R6cDkyZHlrZzNEdGs0Z3FVdWRtYVZJWGE0TDkxTlBHbDYwR1R2Z3RpeHJ2ajVveG5RNmZUdURhVFMwVTZkYjFDTEV4MTJFOGxaMV91MFFXWFhoZ09IM00xSUpzUE1BcXdocFhpOHlzb0FKUER2OXl1Q1FJbi1NQ1NlS1RXWHdtTjVmdGdvM0E?oc=5)
-
-2026-07-19 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[DIE ZEIT](https://news.google.com/rss/articles/CBMiogFBVV95cUxQald2WmF0enZBY1A4QjRUSDM0d1R6cDkyZHlrZzNEdGs0Z3FVdWRtYVZJWGE0TDkxTlBHbDYwR1R2Z3RpeHJ2ajVveG5RNmZUdURhVFMwVTZkYjFDTEV4MTJFOGxaMV91MFFXWFhoZ09IM00xSUpzUE1BcXdocFhpOHlzb0FKUER2OXl1Q1FJbi1NQ1NlS1RXWHdtTjVmdGdvM0E?oc=5)
-
----
-
-### [La artrosis afecta al 69% de mujeres en España: campaña 'Tía Dura' impulsa el diagnóstico temprano](https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbTZlVXdsM0JlWV9udVlvMGYwSW0yN0xPbWNCc3ozZ0dUUFFaVkY3RlhyNEo2aWo4T1E2Qk82TEVBMTNlRkNHNDNDbFJ0aUd0OHFHVWtVRWxudlNwVmNZT2huLThoeS1PVjR5aUgySzcyNldXT20zNUh2OA?oc=5)
-
-2026-07-19 <span class="news-indication-tag">AF</span>
-
-來源：[que.es](https://news.google.com/rss/articles/CBMie0FVX3lxTE5DbTZlVXdsM0JlWV9udVlvMGYwSW0yN0xPbWNCc3ozZ0dUUFFaVkY3RlhyNEo2aWo4T1E2Qk82TEVBMTNlRkNHNDNDbFJ0aUd0OHFHVWtVRWxudlNwVmNZT2huLThoeS1PVjR5aUgySzcyNldXT20zNUh2OA?oc=5)
-
----
-
-### [I’m afraid you do have time to exercise – this is what you’re missing - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY01FbGxhR3JiMGtQeTQyNFZrZ1RIYzFtdnk0OWZsZ2RrbG5xZXQ1a3hUMzZBSENMLXVoZjcxa2ZxZHN5ckJfX3NwTFdPTjBHcjN0Z3EybVRGWmlJeURyaDhtLTNUMGpidG9RN0xTczlFLXFIeDBMRzF3OGo2bEZCdHVSOW9RQmFtR1VrOF9TTl9UQU9hdm5LWW9vWkNOQ0RQcW00Wg?oc=5)
-
-2026-07-19 <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxQY01FbGxhR3JiMGtQeTQyNFZrZ1RIYzFtdnk0OWZsZ2RrbG5xZXQ1a3hUMzZBSENMLXVoZjcxa2ZxZHN5ckJfX3NwTFdPTjBHcjN0Z3EybVRGWmlJeURyaDhtLTNUMGpidG9RN0xTczlFLXFIeDBMRzF3OGo2bEZCdHVSOW9RQmFtR1VrOF9TTl9UQU9hdm5LWW9vWkNOQ0RQcW00Wg?oc=5)
 
 ---
 

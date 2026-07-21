@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Un índice bajo de fibrosis hepática favorece la remisión de la diabetes tras una cirugía de obesidad - Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+
+---
 
 ### [Fini les injections : une pilule promet une perte de poids spectaculaire](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
 
 2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
+
+---
+
+### [The Exercise Paradox: Why Workouts Don’t Guarantee Weight Loss](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">obesity</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
 
 ---
 

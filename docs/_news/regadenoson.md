@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [GSK lanza en España depemokimab, el primer biológico ultraprolongado para asma grave y poliposis nasal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/regadenoson/
 2026-07-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
-
----
-
-### [Migräne: Warum viele Patienten unzureichend behandelt sind - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Migräne</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
 
 ---
 

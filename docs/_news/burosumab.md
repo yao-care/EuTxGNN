@@ -14,7 +14,7 @@ permalink: /news/burosumab/
 ---
 
 <p class="key-answer" data-question="Burosumab 有什麼相關新聞？">
-<strong>Burosumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Burosumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/burosumab/
 <p><a href="{{ '/drugs/burosumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [Diabetes: SGLT2-Mittel senken Alzheimer-Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBLQjI3b2Q3QkdQZW5hbk9KYUtmYTlTWmZxMVhZU0lscDNTV2dSRUp3Rl9lNDdseVVIeVRwZzBXOW9FSzZLZVpEcks0ZmRNVTd4cGtELVJPSE1HYlRYS015NFB1aVI5LXl5WHZOUlJMeGFMdDVnVFhoZjl6d3VVeWpha1JzN2pJZWdGc0QtR2FDb3lhU2hMVkUya3ZGdktoQzZZMmJaOTNqMVk1?oc=5)
+### [SGLT2-Inhibitoren senken Alzheimer-Risiko: Neue Risikostufen im Fokus - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lRVWFQM2NweWFTbG1NWWNBSlhOdG1LNnB4SWlIdEJEVkpwTklISDhkWVJhSWJKZEtzakxGYkd6QWlYd0xBY2J1YUprQ0x0Z1pnUnAwZVFwSWl2NlYtb2NUeEZCdkRrck1wWUJac05Mb2R3NzhGUmp1TThjeFN4eFM0VHlXdkd5Mk1uN1pnM2M0Tml6d0Q1TFZBNVVoUExzV3c?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBLQjI3b2Q3QkdQZW5hbk9KYUtmYTlTWmZxMVhZU0lscDNTV2dSRUp3Rl9lNDdseVVIeVRwZzBXOW9FSzZLZVpEcks0ZmRNVTd4cGtELVJPSE1HYlRYS015NFB1aVI5LXl5WHZOUlJMeGFMdDVnVFhoZjl6d3VVeWpha1JzN2pJZWdGc0QtR2FDb3lhU2hMVkUya3ZGdktoQzZZMmJaOTNqMVk1?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lRVWFQM2NweWFTbG1NWWNBSlhOdG1LNnB4SWlIdEJEVkpwTklISDhkWVJhSWJKZEtzakxGYkd6QWlYd0xBY2J1YUprQ0x0Z1pnUnAwZVFwSWl2NlYtb2NUeEZCdkRrck1wWUJac05Mb2R3NzhGUmp1TThjeFN4eFM0VHlXdkd5Mk1uN1pnM2M0Tml6d0Q1TFZBNVVoUExzV3c?oc=5)
+
+---
+
+### [Un índice bajo de fibrosis hepática favorece la remisión de la diabetes tras una cirugía de obesidad - Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+
+---
+
+### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
 ---
 
