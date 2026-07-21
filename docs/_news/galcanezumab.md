@@ -14,7 +14,7 @@ permalink: /news/galcanezumab/
 ---
 
 <p class="key-answer" data-question="Galcanezumab 有什麼相關新聞？">
-<strong>Galcanezumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Galcanezumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/galcanezumab/
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Menopause beeinflusst Migräne, Schlaganfall und Parkinson - Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/galcanezumab/
 
 ---
 
-### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">migraine</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
-
----
-
 ### [Migräne-Risiko senken: Pflanzen pro Woche, GLP-1 und mediterrane Kost - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
-
----
-
-### [The truth about migraines: what causes them – and how to find relief - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtMRkJBMl96NUdabHd1X3FfRm9zSG9xUEFXa3FOaTh2SWFDTHE1RzE3R1NfcTdSMTJ2WlpESlpMOFNkYzlNU3k0QUxnWEEtcXVjTkZobEVDelFVeDlDNGg1OHlvcndDOV8xa3p6NEtSSkEwQ1RodW40ZzdsN1pHN2lWR0YzcERPNDg0b0hwUmR3b3EyOTY1NEljR2JxYTZi?oc=5)
-
-2026-07-19 <span class="news-indication-tag">migraine</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtMRkJBMl96NUdabHd1X3FfRm9zSG9xUEFXa3FOaTh2SWFDTHE1RzE3R1NfcTdSMTJ2WlpESlpMOFNkYzlNU3k0QUxnWEEtcXVjTkZobEVDelFVeDlDNGg1OHlvcndDOV8xa3p6NEtSSkEwQ1RodW40ZzdsN1pHN2lWR0YzcERPNDg0b0hwUmR3b3EyOTY1NEljR2JxYTZi?oc=5)
 
 ---
 

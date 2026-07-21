@@ -54,6 +54,22 @@ permalink: /news/givosiran/
 
 ## 相關新聞（6 則）
 
+### [La eliminación de la hepatitis C pasa por un diagnóstico más proactivo, automatizado y coordinado](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
+
+---
+
+### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+
+---
+
 ### [Une étude sur 25 ans alerte : ces boissons données aux enfants augmenteraient de 52 % leur risque d’hypertension - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY05kSXFYTWVWTS04Y3I5eXJFd3VFbVRBUGpSZDllQUdiMHdWNE5CbGhSMURDVkF3OTdpQmpSME5sZWxXRjNEV3NtczNYcXAtYnhTYjhXcmNVcndPejludVR1Q3RpQW1nQmxFb2NrcEN2ZDAyZHhlQk02LWlFbEJxeHJsazFzcE1tY0dKSk9iUVFKMlVOUTJ6dFlFTEJvdTdxU1pfalVIOUJlYWFxS0NMLXdYQnk1TURaSE5fQjhtQzd2Y0xURnhfWU9SZk5Nc2ZsSkduT3BHdWx0cHUwd29jTTJoX2lNR2dFcElv?oc=5)
 
 2026-07-21 <span class="news-indication-tag">hypertension</span>
@@ -62,11 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+### [« 80 % des hospitalisations pourraient être évitées » : Le Parlement adopte des mesures de lutte préventive contre les maladies cardiovasculaires - Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
 
-2026-07-21 <span class="news-indication-tag">epatite</span>
+2026-07-21 <span class="news-indication-tag">hypertension</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
 
 ---
 
@@ -78,27 +94,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Herz-Kreislauf: Frauen brauchen strengere Blutdruck-Grenzwerte](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
+### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHVoSlBDNlF5S3ktWllmbllSeGtmcWN4ZmZxRzNaUWlTQlhFSGZUalFTR09vRDJoMGFOSDNqUDhoRFhfRmRVTmZSWTVzblRGY0N3NmZieDI1eGR1Q1B5LTRpY1RXZXJxUWtsYnpaWTYzOUU1c3lBakM1VEEyVzV0NVpkdmdPWm1PaWN2N3Y2OEpTNmp6TGFncmVIczFjc3k4dDdpeUxTNnZQQXMtMjU0?oc=5)
-
----
-
-### [Schlaganfall vorbeugen: 80 Prozent der Fälle durch Blutdruck, Cholesterin und Risiko-Tools - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
-
-2026-07-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
-
----
-
-### [Voici l'huile naturelle qu'une étude récente associe à une baisse de la tension artérielle chez des adultes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdWZsWG1RS3dabnBVNm8xeTdNQ0Y5LUdzbTgxTUx5bXFNbk9YeFBfZlRKYWRHT2I1SnVJZ2ZycXE1akVVZWNxOXR5aHpMeVlaRm5YM2haTkx6WW9zaG9OUWtsMUJVSkhiTUNMcDNVeXdEV1V4bEFleWxjZld4MWhwc1JBbUd4VnVRaGh5QmoxSjFGQl9WVXRxcDJxM1VQUEwxWXdlVm5MNGxVaURwNjZPMlBqLUhtMHVFQTJ2eGRzUWJVT0FWQlFBa21adXlDMW94a1hDd1JFRUdTWWNfYlB0OG9MVUdrXzB5bzBnV2pDNGliOGt2VXBCZDBBWjg1S1E?oc=5)
-
-2026-07-19 <span class="news-indication-tag">hypertension</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdWZsWG1RS3dabnBVNm8xeTdNQ0Y5LUdzbTgxTUx5bXFNbk9YeFBfZlRKYWRHT2I1SnVJZ2ZycXE1akVVZWNxOXR5aHpMeVlaRm5YM2haTkx6WW9zaG9OUWtsMUJVSkhiTUNMcDNVeXdEV1V4bEFleWxjZld4MWhwc1JBbUd4VnVRaGh5QmoxSjFGQl9WVXRxcDJxM1VQUEwxWXdlVm5MNGxVaURwNjZPMlBqLUhtMHVFQTJ2eGRzUWJVT0FWQlFBa21adXlDMW94a1hDd1JFRUdTWWNfYlB0OG9MVUdrXzB5bzBnV2pDNGliOGt2VXBCZDBBWjg1S1E?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
 
 ---
 

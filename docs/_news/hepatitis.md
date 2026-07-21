@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epatite（hepatitis） 相關新聞"
+title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# epatite（hepatitis） 相關新聞
+# hepatitis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -55,11 +55,11 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（2 則）
 
-### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+### [La eliminación de la hepatitis C pasa por un diagnóstico más proactivo, automatizado y coordinado](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
 
 2026-07-21
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
 
 ---
 

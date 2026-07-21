@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+
+---
 
 ### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
 
@@ -64,25 +72,17 @@ permalink: /news/simvastatin/
 
 ### [Common health condition could increase heart disease risk in women - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
 
 ---
 
-### [Una molécula del organismo reduce la inflamación y el daño cerebral tras un ictus, según un estudio preclínico - Hablando en Plata](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFZkYl93UG9CZWw0ZThjQWVKaktsYXV0WXM3RlhMQXM4M0ZHb1ljX090RkN0QVRMVWlxMDRaUGJJdWptU2xPUjR6aXB6VTBLT2V3LTl2NGVBdzdRVzNFZGZTVUxaX2lnOGIyZVRUYlFJNkx4T2VfNEt6ZlZBRzVuVVk4VGNidkxXRnpzajdFZk45OVRYYjdnaUVNbVY3bm9HdkJLSzQ3X2hCUG9WNFNpRXdJX3dRaGFCUTNDQUN1LS15ZkE3MTRuc0Fpcm43d195TU8wTGE4WlJ3SXoycm1fYVU3elZELTVtMXh3VVN30gHuAUFVX3lxTE9Gd3JoNFR4VXJ6MW43VkdmWklCWHU0R0ZQNnZQQjlxeDRfMl9JdkVDckF0Y2ZiTkZnZFpNM0t4LXVQRmJiUk9IdExoWkotYUZweDRzeDJwUDdRbFZoRExUYmlXVkxtanFrcXRhMkllYnk2S1o0dGZmek5xU0ZVY0F2TDcxbHAxeWdFeTViWFpmbXlKcDJIRDZ2cDREbWRiRGpoQ2VoSWh4SU5iTnpJdzVfZWFTX29lenJGeEh4N09QbXl6VFctY1NUa0ZzQkJheXl1VU1HYXhVLURCZ080RHlPV2FGYzZPdm05MmswLUE?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span>
-
-來源：[Hablando en Plata](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFZkYl93UG9CZWw0ZThjQWVKaktsYXV0WXM3RlhMQXM4M0ZHb1ljX090RkN0QVRMVWlxMDRaUGJJdWptU2xPUjR6aXB6VTBLT2V3LTl2NGVBdzdRVzNFZGZTVUxaX2lnOGIyZVRUYlFJNkx4T2VfNEt6ZlZBRzVuVVk4VGNidkxXRnpzajdFZk45OVRYYjdnaUVNbVY3bm9HdkJLSzQ3X2hCUG9WNFNpRXdJX3dRaGFCUTNDQUN1LS15ZkE3MTRuc0Fpcm43d195TU8wTGE4WlJ3SXoycm1fYVU3elZELTVtMXh3VVN30gHuAUFVX3lxTE9Gd3JoNFR4VXJ6MW43VkdmWklCWHU0R0ZQNnZQQjlxeDRfMl9JdkVDckF0Y2ZiTkZnZFpNM0t4LXVQRmJiUk9IdExoWkotYUZweDRzeDJwUDdRbFZoRExUYmlXVkxtanFrcXRhMkllYnk2S1o0dGZmek5xU0ZVY0F2TDcxbHAxeWdFeTViWFpmbXlKcDJIRDZ2cDREbWRiRGpoQ2VoSWh4SU5iTnpJdzVfZWFTX29lenJGeEh4N09QbXl6VFctY1NUa0ZzQkJheXl1VU1HYXhVLURCZ080RHlPV2FGYzZPdm05MmswLUE?oc=5)
-
----
-
-### [World Brain Day, il 22 luglio palazzo comunale si illumina di azzurro - La Provincia di Cremona](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1hYWWhoQXVlXzRkdGxONm9GSGxUQTFMN3NoVXNtdEJjUFpsQ29tT2l1RndlbE9oUHAtU0wzQUtpWFlUU3ZCejhNdkZ1MjhndTV0YlRaU29jV015d3RzeVhrRjlndVR1X3V6YmpKVDduTkE1N3lHN2V4UFU4ay0wREN4U25PaVo2eW5SN0ZDMDV2YUs3VEh4SmY1MGRYSHZiX3l1aFZaVDZJLWZzZFlQUjU4cGZIQkZaaXRVaFBOaw?oc=5)
+### [La salute del cervello è la nuova grande sfida della sanità: oltre 3,4 miliardi di persone convivono con una condizione neurologica](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
 
 2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1hYWWhoQXVlXzRkdGxONm9GSGxUQTFMN3NoVXNtdEJjUFpsQ29tT2l1RndlbE9oUHAtU0wzQUtpWFlUU3ZCejhNdkZ1MjhndTV0YlRaU29jV015d3RzeVhrRjlndVR1X3V6YmpKVDduTkE1N3lHN2V4UFU4ay0wREN4U25PaVo2eW5SN0ZDMDV2YUs3VEh4SmY1MGRYSHZiX3l1aFZaVDZJLWZzZFlQUjU4cGZIQkZaaXRVaFBOaw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/simvastatin/
 2026-07-20 <span class="news-indication-tag">ictus</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnFSLWQ0ei1EazJJTFFZQ0ZfV3hjOGRrb1VfVV9tM0poY2VJREsxUnQxM2xIMF94V1VBekk4YWlTTm9jZXJFMWpycWZnSlpZUzNRUnF4Zjl4X3hTVFV4b3VHdWxiSWt1a3pYcFBKeEZfcnUxNUtISTZTdnd4QVoyckVRaW1odno2bV8wS0J2MEQzRzBFWUF5MzZnQWhZajdic3ZnZk1WV0ppNFNiUkMyRjl5N0VIWWRf0gG-AUFVX3lxTE9sSmVlX0dSaDVHdXBEc3VoUlZEbWRiZHByNXluTldKRW5yVm1MbzctMWpGY0x3OUJTNUVCNDNPRGtEYkRnRTBkMzBQQVhnTUl5MlFtdGRTWVl2bXpLUlF5ZjdSVktTT0xYOE9fQU85ZDU4QWpnNXQ0RzdTN1E4ZjB3ZG90eksyWGpSRklIT08tT2oyRnk2RGFEVlNKMkg1clRXaXdZaVJXdTY1UE5pZVliWnI1cFNhbUczUWdBbkE?oc=5)
-
----
-
-### [Schlaganfall vorbeugen: 80 Prozent der Fälle durch Blutdruck, Cholesterin und Risiko-Tools - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
-
-2026-07-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVE9DRF92ZmdNR3N6Y1p4SlFEWFpEZUdYWWlCYjNfdm5BaUFrM0tMdmYxdmFWbl9HdzFMYXNFSWd0aHpEOHpweTBSREJfWS1wZTMzamJubjh3d1NwWlJEZndrMFZObGdKMzdHV3dOTXY5MWVYWXBTcG1tVmRvaDkwWWxlUWhfT1hyT2ZVdjVHeXlBaE9Ibi1ZWURybmlOWm5UN0JRRU50XzMwMlBESTNrSHNrQVpqTV83b3o1UnJ3?oc=5)
 
 ---
 

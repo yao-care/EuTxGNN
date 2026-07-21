@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Un índice bajo de fibrosis hepática favorece la remisión de la diabetes tras una cirugía de obesidad - Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 
 2026-07-21
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+來源：[Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 
 ---
 
@@ -59,14 +59,6 @@ permalink: /news/obesity/
 2026-07-20
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
-
----
-
-### [La Comunidad de Madrid identifica patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
-
-2026-07-20
-
-來源：[Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
 
 ---
 

@@ -35,7 +35,7 @@ permalink: /news/ustekinumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
-<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（100.0%）</li>
 <li>parapsoriasis（99.9%）</li>
 <li>pityriasis lichenoides（99.9%）</li>
 <li>acute lichenoid pityriasis（99.9%）</li>
@@ -54,19 +54,27 @@ permalink: /news/ustekinumab/
 
 ## 相關新聞（5 則）
 
-### [SGLT2-Inhibitoren senken Alzheimer-Risiko: Neue Risikostufen im Fokus - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lRVWFQM2NweWFTbG1NWWNBSlhOdG1LNnB4SWlIdEJEVkpwTklISDhkWVJhSWJKZEtzakxGYkd6QWlYd0xBY2J1YUprQ0x0Z1pnUnAwZVFwSWl2NlYtb2NUeEZCdkRrck1wWUJac05Mb2R3NzhGUmp1TThjeFN4eFM0VHlXdkd5Mk1uN1pnM2M0Tml6d0Q1TFZBNVVoUExzV3c?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3lRVWFQM2NweWFTbG1NWWNBSlhOdG1LNnB4SWlIdEJEVkpwTklISDhkWVJhSWJKZEtzakxGYkd6QWlYd0xBY2J1YUprQ0x0Z1pnUnAwZVFwSWl2NlYtb2NUeEZCdkRrck1wWUJac05Mb2R3NzhGUmp1TThjeFN4eFM0VHlXdkd5Mk1uN1pnM2M0Tml6d0Q1TFZBNVVoUExzV3c?oc=5)
-
----
-
-### [Un índice bajo de fibrosis hepática favorece la remisión de la diabetes tras una cirugía de obesidad - Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMijwJBVV95cUxNeXVCeU5FaTBySXl0blBqWWljRmZDQ0l2bFVnWU50c2dhVXA0OXlaNHRvdTNSTklPTFZBZXNGREhfTTZ1NWRzS2diWDlmLWVFM18xSXR5QkZDejBYcURhV2VSbVdUQXV2SHRJVHhzcjZNRjdISXY3RnRiUDFoWkVDbnBBYUtHMzJvYTY4bm9NcGFJRTZvVEZCTnViNThJMVF1bFhsZ2otdUZLbkNPNUZBNFBKajhyM3g1ZlQ5YWw1alB1R2Nya0hDOFdVTDE4Mk9qWGQ3T203Nm5SWUdzTFVPMnMwQkJid19mTEVlTmZnRDI4LXF3eHVjVVV5U3gxTDE5YThUc2pLY29PSW5LenNF0gGPAkFVX3lxTFB6Rmg3NHI1ZFlQOUdIeU5zOFBub1FXc1NCV1BNUW13Sm9tNUZPOGg2enNfakFBVk00OUYwOThxZzBwcGdrZmZQUWhCX01Ecm1Md3dVeWxfVDljYjR2UWpkNVlyTlZNWWJKaVdocHJnQ0hOTHhXM1htN20zcEF6YkxTaEU5aFR5TDlqcE9DQXVfNVZCYnA1ZHNvRnVIRmtIS1V3OVI1NGdrcll4VVdXLWZsUVFIRzRINlhOQ3NoLWVCX2pGUXdnSlFlYlhSRV9ZOExBRWRhTHlWQmZrQWlmWDdtSUFWc3h0dzREOWhBNDlzbVF2VjFTcS0zWlN3Q0xYUGpmSDBUMVFYYXYwNmxFUHM?oc=5)
+來源：[Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
+
+---
+
+### [Neue Zelltherapie eröffnet bei Typ-1-Diabetes eine große Chance - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
+
+---
+
+### [SGLT2-Hemmer senken Alzheimer-Risiko deutlich: Bis zu 43% laut JAMA Network Open - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWW9zcHJaSWhoVGxXaG5xcXI1clV1YWhFdmpKY1NYZDVSdGJpeVAtUXY3SjE2TWxwWkp5b2JIc2NiQ0RqMkRBS1g3VncwUjBUUFFiMTVpaVR6VUhRNy1CakZIaU92MkF4cDY2UXBhX2NPQTVFZ3Ytb19IZnBlcFE1WlAyZ3lQMXhuTHVpQXJlNlBTNGdWN3JpQTN5VjZyZUg5V2JrS0dNN3Atcjl5dm5V?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWW9zcHJaSWhoVGxXaG5xcXI1clV1YWhFdmpKY1NYZDVSdGJpeVAtUXY3SjE2TWxwWkp5b2JIc2NiQ0RqMkRBS1g3VncwUjBUUFFiMTVpaVR6VUhRNy1CakZIaU92MkF4cDY2UXBhX2NPQTVFZ3Ytb19IZnBlcFE1WlAyZ3lQMXhuTHVpQXJlNlBTNGdWN3JpQTN5VjZyZUg5V2JrS0dNN3Atcjl5dm5V?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/ustekinumab/
 2026-07-20 <span class="news-indication-tag">diabète</span>
 
 來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
-
----
-
-### [Le gène qui change tout : vers des traitements personnalisés contre le psoriasis - La Croix](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1FjNkQ0NDdQbVFvRzJvNm5kM3NjVkM5Qi1JYVJwbHhNOVJDc3JxNld4Q3J6am1wWXFXYWVqX1lCYk5WZFdFSDhMTlc0UTJ4WnBGVmU4czdVNC1VUG4waGNHTXphOUdhR1NuUW1VMlBuWmhvcW55ZnVYbVl5S0ZTVGFlZF9RLUZsYjU1Z0ZYQWFmdE1FQm5kQ3JkNXJEMUwxZHdzdkNmN2xSUlpQeHpHRWVBMXE4SlVlelE?oc=5)
-
-2026-07-20 <span class="news-indication-tag">psoriasis</span>
-
-來源：[La Croix](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1FjNkQ0NDdQbVFvRzJvNm5kM3NjVkM5Qi1JYVJwbHhNOVJDc3JxNld4Q3J6am1wWXFXYWVqX1lCYk5WZFdFSDhMTlc0UTJ4WnBGVmU4czdVNC1VUG4waGNHTXphOUdhR1NuUW1VMlBuWmhvcW55ZnVYbVl5S0ZTVGFlZF9RLUZsYjU1Z0ZYQWFmdE1FQm5kQ3JkNXJEMUwxZHdzdkNmN2xSUlpQeHpHRWVBMXE4SlVlelE?oc=5)
 
 ---
 

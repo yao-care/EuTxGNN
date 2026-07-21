@@ -54,11 +54,11 @@ permalink: /news/golimumab/
 
 ## 相關新聞（1 則）
 
-### [Colitis ulcerosa: Blinddarm produziert krankmachende Antikörper](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
+### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 
-2026-07-21 <span class="news-indication-tag">colitis ulcerosa</span>
+2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 
 ---
 

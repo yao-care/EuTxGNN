@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Hot Yoga gegen Depressionen: Je öfter, desto besser die Wirkung](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnU3aG1rTWZObm9GR0FQQWxrZmRHU18wUVFuRkFHVFJOTzZRZXY5YnFrQi1xTlk5U05pUndwSlVJZFA1cExweXZzYmJlaHFfYkk0M3pyT3NMemJWU0lXR2ZoSHZCRHZ1ell2aDQ5eDB4OG9WZ3ZFSlZJYWFFZ2plaFVrcGF2TnZUNGxJX1hMVGFoVFFTMnpVelJlZ216ZjQ?oc=5)
 
@@ -50,6 +50,14 @@ permalink: /news/depression/
 2026-07-20
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnE3QVpOYzN1YzFnUVdteXhrSmRjRXExZFV6eGJDd1doRjdiWm0yNjVNUVg4S1Q5NGowQ2FkdnhqMmlYanhpWnBiZzFIVHNUTDFGVFBWMnpDNG40dGt4T1RyaDFoWUNzRlV4UGdnaXE1RERfNlQzSXNHRnUxV3lBSUNOc3RheGZub0ZpWnQ0QTdxdEtFWWFkUmlNQU9sUEhWQUpIdU1rdUNlRWU4SE9F?oc=5)
+
+---
+
+### [Los genes relacionados con la depresión actúan como una orquesta y ya identificaron al “director”](https://news.google.com/rss/articles/CBMixAFBVV95cUxObGxsTFh3azk1cnBUTDNQZUJWbXJMYXJqUmFzWEpTWTF2WkxmTUh0OTRZdXM1VmljOGpSNWx5bmZaSXBrb1d0bU1xMXZvSGxaZFQ4V0NObTlrWjlwX2ZSay1ESE9XaktNLXNROE8wQzhnYXJFb3d2c211WGF0dk9ocUg3ZjBfSmNkcHhvTWFQWDhWTXlMNmhaeGxGQ0xxdV9jaGdRZnFkNVZCUk9SdWVDZVV1UWxPZFFDTU5fUGxZTlpEaEVx?oc=5)
+
+2026-07-20
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMixAFBVV95cUxObGxsTFh3azk1cnBUTDNQZUJWbXJMYXJqUmFzWEpTWTF2WkxmTUh0OTRZdXM1VmljOGpSNWx5bmZaSXBrb1d0bU1xMXZvSGxaZFQ4V0NObTlrWjlwX2ZSay1ESE9XaktNLXNROE8wQzhnYXJFb3d2c211WGF0dk9ocUg3ZjBfSmNkcHhvTWFQWDhWTXlMNmhaeGxGQ0xxdV9jaGdRZnFkNVZCUk9SdWVDZVV1UWxPZFFDTU5fUGxZTlpEaEVx?oc=5)
 
 ---
 

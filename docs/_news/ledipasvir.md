@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,69 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
 
-### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+### [La eliminación de la hepatitis C pasa por un diagnóstico más proactivo, automatizado y coordinado](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
 
-2026-07-21 <span class="news-indication-tag">epatite</span>
+2026-07-21 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
+
+---
+
+### [Tick bites are on the rise in the US and UK. Here’s how to protect yourself - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTlsUGttZEZISzZkVHZUdThjVzNWbmZOZFlGWXlMX2JoRkhJYWQwUTNjRkZYbEJVaWRzRkp3eXV5NDhxOFd6TTU1T1FJYUJhTWFNV3A2czJObFVDamE3SFRLQ3FEOE51WkNTSjRXOHRfS09Yc2ZzSkFxSW05LV9qVmxvVDdkQ0lpOG9F?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTlsUGttZEZISzZkVHZUdThjVzNWbmZOZFlGWXlMX2JoRkhJYWQwUTNjRkZYbEJVaWRzRkp3eXV5NDhxOFd6TTU1T1FJYUJhTWFNV3A2czJObFVDamE3SFRLQ3FEOE51WkNTSjRXOHRfS09Yc2ZzSkFxSW05LV9qVmxvVDdkQ0lpOG9F?oc=5)
+
+---
+
+### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
+
+---
+
+### [Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world - The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
+
+---
+
+### [Demenz-Prävention: 3.000 Schritte täglich können Alzheimer verlangsamen - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
+
+---
+
+### [The no-diet, no-exercise slimming hack as nurse claims it drops '6lb instantly' - so what's the expert verdict? - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWxxbWlhQ3N5MkxZcDZ2dmlOZVNia3pGXzRGYUxVZEdfS3FCV3liWVN6czZxSGZBY1NEVDV4Ry04NU84Q2VibVFUX0wxek5ZNENKZC1LdGZENmdqZjUxSGxZOW13VFhNM2owQWN6S0t4THZzcnFiTUZEdFQxaVRIZkNhenRxRFM4dTVV?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWxxbWlhQ3N5MkxZcDZ2dmlOZVNia3pGXzRGYUxVZEdfS3FCV3liWVN6czZxSGZBY1NEVDV4Ry04NU84Q2VibVFUX0wxek5ZNENKZC1LdGZENmdqZjUxSGxZOW13VFhNM2owQWN6S0t4THZzcnFiTUZEdFQxaVRIZkNhenRxRFM4dTVV?oc=5)
+
+---
+
+### [El brote de ébola en Congo se cobra mil vidas y ronda los 2.500 casos oficiales - Redacción médica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMkJfUUdDU0tDZmZTZGc4OTVIVk9Valc2QnR2X2lhLUtod1VMOWJHR1pETlRUTHFCTVJXd01keFlXUDlfc1ZpSkN4MXRhRkZiNHNIQlJDejR2V0E1dkVybFhlYWdDS0NWYUxZYWp2RGJuaWZ2cWZ6emU4Zmk3RTQ4MGFndlpxVlktOFo2dnZHRDNISVloRjNRTzVHbGxRVGg3N0I5bVEtNHNyY1U0SHk2SkR5REtDcDNpRl82VWNVUWRyblA1R1RVQzFEMlllQWNfOG15Zy1wa010Y1NubTAzYmlVY9IB6AFBVV95cUxPRURhZ2dhOE9YWXpJcUltb2UtekJzR3hjc3UzdWZUZU0zOXhva2dvWENJRk1ibFhpX0xUNDlDbXJsRWdWR1RLVFRyT1I1VWxaMTU1ZFpadEdiWTJZRkcwaWFhSUNuQTlPWHlQN08wVEhUTGJhTjE3WXRIS1ZoQkRVWk5FSUxvN0N5QXNUUkdDSDFnLW9GZkc1LVh3ZHNVcXVjMmpLbHBIamxjc0dFVFJTWHQxN2pnNW1BY2w2RVNNT3hMZm1JYzhWdkc5OXFRZmRtRlFoazlub2t3NmlxVFV4OWtnNHNobUp6?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMkJfUUdDU0tDZmZTZGc4OTVIVk9Valc2QnR2X2lhLUtod1VMOWJHR1pETlRUTHFCTVJXd01keFlXUDlfc1ZpSkN4MXRhRkZiNHNIQlJDejR2V0E1dkVybFhlYWdDS0NWYUxZYWp2RGJuaWZ2cWZ6emU4Zmk3RTQ4MGFndlpxVlktOFo2dnZHRDNISVloRjNRTzVHbGxRVGg3N0I5bVEtNHNyY1U0SHk2SkR5REtDcDNpRl82VWNVUWRyblA1R1RVQzFEMlllQWNfOG15Zy1wa010Y1NubTAzYmlVY9IB6AFBVV95cUxPRURhZ2dhOE9YWXpJcUltb2UtekJzR3hjc3UzdWZUZU0zOXhva2dvWENJRk1ibFhpX0xUNDlDbXJsRWdWR1RLVFRyT1I1VWxaMTU1ZFpadEdiWTJZRkcwaWFhSUNuQTlPWHlQN08wVEhUTGJhTjE3WXRIS1ZoQkRVWk5FSUxvN0N5QXNUUkdDSDFnLW9GZkc1LVh3ZHNVcXVjMmpLbHBIamxjc0dFVFJTWHQxN2pnNW1BY2w2RVNNT3hMZm1JYzhWdkc5OXFRZmRtRlFoazlub2t3NmlxVFV4OWtnNHNobUp6?oc=5)
+
+---
+
+### [Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds - The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
 
 ---
 
@@ -70,14 +126,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Alzheimer-Prävention: Schon 3.000 Schritte täglich bremsen Abbau](https://news.google.com/rss/articles/CBMitAFBVV95cUxONU9wN3pOdUtnM3ZuVzFvd3RUT1FLMURTZjZhQTU0MjRnQzZaOU13V015Z1ZCcjRKTUI2cExQeG5nSzhDVk83OHQtV1hVY3JVRGFxNXEzb1Yxc3lxYmx1YWpiLXRFVEgxajFtcDFXQndPSFA4dDd4YS1lMmtZUUQ4WUdWcmQ1VGV2QzdTb2xRbG43ZlVfTmJNOUpoeHVOdWNTVDltN1RtQU1rWHhBa2ZEM0tRc2Q?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxONU9wN3pOdUtnM3ZuVzFvd3RUT1FLMURTZjZhQTU0MjRnQzZaOU13V015Z1ZCcjRKTUI2cExQeG5nSzhDVk83OHQtV1hVY3JVRGFxNXEzb1Yxc3lxYmx1YWpiLXRFVEgxajFtcDFXQndPSFA4dDd4YS1lMmtZUUQ4WUdWcmQ1VGV2QzdTb2xRbG43ZlVfTmJNOUpoeHVOdWNTVDltN1RtQU1rWHhBa2ZEM0tRc2Q?oc=5)
-
----
-
 ### [Rätsel um Multiple Sklerose gelöst? Zwei Bakterien als Auslöser in Verdacht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnpMdE5kSzViV2U2N19WUnp2Q1ppeFNkQjVQNTJwSl81NFpJZ284b3dBZ2d3ZnRucHRwSzZpNjR3eTZUREw5c0xWMWRFOFI4dGw1ajhnQTNIOWtHeE9BLXRscDVqT0NGSldNT2w5eTNkM1huUXRlXzJNV0NiM01Id1hGSTlKcjBLaENMZ0VEYzNXeFRtTDJPcDkwUnptRE5MMjNFMERXcDJpbWthWnFibzZKOU5XR21S?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Multiple Sklerose</span>
@@ -86,43 +134,19 @@ permalink: /news/ledipasvir/
 
 ---
 
+### [La salute del cervello è la nuova grande sfida della sanità: oltre 3,4 miliardi di persone convivono con una condizione neurologica](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
+
+2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
+
+---
+
 ### [Mainzer Forscher: Fortschritte bei der Therapie gegen Multiple Sklerose - Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
-
----
-
-### [World Brain Day, il 22 luglio palazzo comunale si illumina di azzurro - La Provincia di Cremona](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1hYWWhoQXVlXzRkdGxONm9GSGxUQTFMN3NoVXNtdEJjUFpsQ29tT2l1RndlbE9oUHAtU0wzQUtpWFlUU3ZCejhNdkZ1MjhndTV0YlRaU29jV015d3RzeVhrRjlndVR1X3V6YmpKVDduTkE1N3lHN2V4UFU4ay0wREN4U25PaVo2eW5SN0ZDMDV2YUs3VEh4SmY1MGRYSHZiX3l1aFZaVDZJLWZzZFlQUjU4cGZIQkZaaXRVaFBOaw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1hYWWhoQXVlXzRkdGxONm9GSGxUQTFMN3NoVXNtdEJjUFpsQ29tT2l1RndlbE9oUHAtU0wzQUtpWFlUU3ZCejhNdkZ1MjhndTV0YlRaU29jV015d3RzeVhrRjlndVR1X3V6YmpKVDduTkE1N3lHN2V4UFU4ay0wREN4U25PaVo2eW5SN0ZDMDV2YUs3VEh4SmY1MGRYSHZiX3l1aFZaVDZJLWZzZFlQUjU4cGZIQkZaaXRVaFBOaw?oc=5)
-
----
-
-### [Nutrición y salud cerebral: lo que comemos también cuida la memoria](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEJRbjRrejgzeEdmV2FkOG9NeEwwdHZuVXZnM0ZaVk5NeVBIUE1hdER1eFdseTltSkZ6OFJvOGYteS1WbGhmVG1rZXpsdDNXYi03WHdGRldFT1RhRHlreENSU0djVlUxWlFPWmpWNmVBSExIdHRZdFRfVHlGT0t6TUhUSGgySWNNMDVIbXEySQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">MS</span>
-
-來源：[IPMARK](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEJRbjRrejgzeEdmV2FkOG9NeEwwdHZuVXZnM0ZaVk5NeVBIUE1hdER1eFdseTltSkZ6OFJvOGYteS1WbGhmVG1rZXpsdDNXYi03WHdGRldFT1RhRHlreENSU0djVlUxWlFPWmpWNmVBSExIdHRZdFRfVHlGT0t6TUhUSGgySWNNMDVIbXEySQ?oc=5)
-
----
-
-### [La OMSA alerta de la detección por primera vez de transmisión sostenida de rabia en mamíferos marinos en libertad](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRzFDbEFCak5TMzF1UVIwMmp2aDB6ZHhHTEhBY3lhRFNyTy1jZ1c1aWpWZWtZcno3b2YxTWdfbkl4c0xRZVRtRXhLdHAtWHZuWV9fZUlyXzNuYkE4VHpHV1lPNmZIYUszdU5BREVNMUpZSGdYNlR5UHFWclptaGFydnI2Mlo2OGZRR3ZPWWFZTktZM01URHBPbGw4bW1GVC1LNG1jTTZMTm15X29Wczl4Wk5XdWt4ZFFFOGh4eF9oU29TV0cwWVROajlMZw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">MS</span>
-
-來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMiywFBVV95cUxNRzFDbEFCak5TMzF1UVIwMmp2aDB6ZHhHTEhBY3lhRFNyTy1jZ1c1aWpWZWtZcno3b2YxTWdfbkl4c0xRZVRtRXhLdHAtWHZuWV9fZUlyXzNuYkE4VHpHV1lPNmZIYUszdU5BREVNMUpZSGdYNlR5UHFWclptaGFydnI2Mlo2OGZRR3ZPWWFZTktZM01URHBPbGw4bW1GVC1LNG1jTTZMTm15X29Wczl4Wk5XdWt4ZFFFOGh4eF9oU29TV0cwWVROajlMZw?oc=5)
-
----
-
-### [Surgeons use 3D imaging to operate on 13-year-old’s brain tumour - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
-
-2026-07-20 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcU90cnJnZWJXZHFvOTdzdmpGZ0Y0MmpfbUcxU3hVUFVLRU1jZVJHaW50SDVYaDVWNzZTZUpQT21RZFU4TmstdXQyU3pPQmU5V01JUUxQVUNJanNsOEZwVGpocFlnQlpmS3MxTkZEN1Z5WlI2RzZnc0MwZ294dzNWS0dSWURVY1dHN2g2SjRyYjFhU0hlSnZOZ0FB?oc=5)
 
 ---
 

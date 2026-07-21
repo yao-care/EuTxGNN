@@ -54,11 +54,11 @@ permalink: /news/dolutegravir/
 
 ## 相關新聞（2 則）
 
-### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+### [La eliminación de la hepatitis C pasa por un diagnóstico más proactivo, automatizado y coordinado](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
 
-2026-07-21 <span class="news-indication-tag">epatite</span>
+2026-07-21 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
 
 ---
 
