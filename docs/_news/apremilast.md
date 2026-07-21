@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="Apremilast 有什麼相關新聞？">
-<strong>Apremilast</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apremilast</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,71 +52,9 @@ permalink: /news/apremilast/
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（0 則）
 
-### [Cardiologists Wish You Would Stop Doing These 3 Things for High Blood Pressure](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1VmQi1Pdnk4YmNtNWxwVUs3Vll1TTNCMTFiazliMXd4NWdlbERaMF9LLWtOay01R0R0TTEzLTloVWtFTHN5cnhfbW1fRExOWER4RjRtYWZCei1UalEtdHQwRkVTdXhldTR3ZmhDZVBDMjl3SnotbS1MOEFIUnRfVGM1RS0?oc=5)
-
-2026-07-20 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1VmQi1Pdnk4YmNtNWxwVUs3Vll1TTNCMTFiazliMXd4NWdlbERaMF9LLWtOay01R0R0TTEzLTloVWtFTHN5cnhfbW1fRExOWER4RjRtYWZCei1UalEtdHQwRkVTdXhldTR3ZmhDZVBDMjl3SnotbS1MOEFIUnRfVGM1RS0?oc=5)
-
----
-
-### [Alzheimer vorbeugen? 3000 Schritte täglich reichen bereits](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[Blick](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
-
----
-
-### [Migräne: Warum viele Patienten unzureichend behandelt sind - Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Migräne</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUgtUzVmRGR0WmNNU3hCajd5Uy03Y1N6aW13TGlCT2hEWHVQVTRUT1Z2LVhfVnFzdFpQNEpSVmpsM2c1cGlwdzZtU1dFS1JDRW5xU0szckp0d3ZISG1BYUZCeTlBWWJhUlNqdFpubmEwbzIxWkpNYjRWQ1drMi1UcVJnWmgyRGlMalBOVUg2Mm9hUHdRbjU1OA?oc=5)
-
----
-
-### [REPORTAGE. "Je revis" : ils souffrent de migraines sévères, ce parcours de soins près de Toulouse révolutionne leur quotidien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">migraine</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ0gyZ1BCMWdESXRXYms5WTdFMTc1emRfRzJxeVJOOUREaTM2Tjd3Zk91TzgxQ09yeTNwa2R1QTBTZzJROElPSTQwclRfZ09xekVvRlM4UnlqUGoyNGdhUVVwTWh5UVdFWkpwRzB6V2c3SDE1VVB0akhSRGUwV2JaQi13OEx6ZExtcUdRTnhoWGVtZGhTZk9RMk9xMHFZdVZkMVNGa09JaDM1dFJfSWpyZm1hQkZGY3BJLW5PdzZVSkZ1LVlQZkUwaG1HeDZsZ1E4cDBlbGd2WlE4dlBpa1dvbkd5WGxyQkp1QU1rblFUQnhPbDQtNUJNN2NhanA?oc=5)
-
----
-
-### [The #1 Thing to Avoid If You Have High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
-
-2026-07-20 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
-
----
-
-### [Migräne-Risiko senken: Pflanzen pro Woche, GLP-1 und mediterrane Kost - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXVnZ1hINXQ2ZGh6aW14UDlFQjJFSko2WUIwZDNoS3c0QVV2dkxHbEsxUmkwU0psTGJ2b2lZWlFaNl9adDM1Y0U3TjE1RmZyWG11bHRJZ1pLT0IwTE9VN2tpRWlqaXpuRElWOU5fM2Z3R1JWSmJpcEdqcEt6dk1jRWpXZVk2Tldudk5hWDBScklBM1RaaVZpU01JMjBsZXpfS0E?oc=5)
-
----
-
-### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
-
----
-
-### [The truth about migraines: what causes them – and how to find relief - The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtMRkJBMl96NUdabHd1X3FfRm9zSG9xUEFXa3FOaTh2SWFDTHE1RzE3R1NfcTdSMTJ2WlpESlpMOFNkYzlNU3k0QUxnWEEtcXVjTkZobEVDelFVeDlDNGg1OHlvcndDOV8xa3p6NEtSSkEwQ1RodW40ZzdsN1pHN2lWR0YzcERPNDg0b0hwUmR3b3EyOTY1NEljR2JxYTZi?oc=5)
-
-2026-07-19 <span class="news-indication-tag">migraine</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWtMRkJBMl96NUdabHd1X3FfRm9zSG9xUEFXa3FOaTh2SWFDTHE1RzE3R1NfcTdSMTJ2WlpESlpMOFNkYzlNU3k0QUxnWEEtcXVjTkZobEVDelFVeDlDNGg1OHlvcndDOV8xa3p6NEtSSkEwQ1RodW40ZzdsN1pHN2lWR0YzcERPNDg0b0hwUmR3b3EyOTY1NEljR2JxYTZi?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [La Comunidad de Madrid identifica patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">obesidad</span>
-
-來源：[Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
-
----
-
-### [Un estudio avala la relación coste-efectividad de semaglutida 2,4 mg para tratar la obesidad en España](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
-
-2026-07-19 <span class="news-indication-tag">obesidad</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUtzbmhXX1RtekRtUnlFSGtuMUxEaGZlRkxJZ3NEMGFnOFkzWEFDS3IzYkhrc2htQjFOVjF6TGNpaG5tTXRZcHpSUVFJbEpQNXFmLWtlY1BkQXNTOWNEZ1lHcENrbmFYajBmczA5cW9SdU1NSHU1OHhVUDhKeFpvY3pSMWdGZUJEa0ZXeldnN0Vrb3BGOHZKdGVFclk4V1lCT0syaDUteDU3ZElHTXAtUXpwWnhULUlrUlk5dUJR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

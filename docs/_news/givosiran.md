@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,63 +52,9 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（0 則）
 
-### [Cardiologists Wish You Would Stop Doing These 3 Things for High Blood Pressure](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1VmQi1Pdnk4YmNtNWxwVUs3Vll1TTNCMTFiazliMXd4NWdlbERaMF9LLWtOay01R0R0TTEzLTloVWtFTHN5cnhfbW1fRExOWER4RjRtYWZCei1UalEtdHQwRkVTdXhldTR3ZmhDZVBDMjl3SnotbS1MOEFIUnRfVGM1RS0?oc=5)
-
-2026-07-20 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1VmQi1Pdnk4YmNtNWxwVUs3Vll1TTNCMTFiazliMXd4NWdlbERaMF9LLWtOay01R0R0TTEzLTloVWtFTHN5cnhfbW1fRExOWER4RjRtYWZCei1UalEtdHQwRkVTdXhldTR3ZmhDZVBDMjl3SnotbS1MOEFIUnRfVGM1RS0?oc=5)
-
----
-
-### [MASLD, ALD, Hepatitis: Früherkennung in der Hausarztpraxis - Medical Tribune](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzI2dnU1eEpNZ25JcVVndkNoR2hxaEJjMnc0NWVFbjc1S1RxS0tQekt1a1BxQnMwbEpWRzdyMC1KbzM1cFBQMTdzS0Z1bF9rQlozaUJnZnUwd0pCSXRqeUhnMlg5eWNfem5HN3lXbG1sTm1TWUJ4T3RTcDczY1RfOXZ4OHhCN0lpLWI1b1RHZzdwb05Ua1hRYXFpU1FxTmVucmxJ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzI2dnU1eEpNZ25JcVVndkNoR2hxaEJjMnc0NWVFbjc1S1RxS0tQekt1a1BxQnMwbEpWRzdyMC1KbzM1cFBQMTdzS0Z1bF9rQlozaUJnZnUwd0pCSXRqeUhnMlg5eWNfem5HN3lXbG1sTm1TWUJ4T3RTcDczY1RfOXZ4OHhCN0lpLWI1b1RHZzdwb05Ua1hRYXFpU1FxTmVucmxJ?oc=5)
-
----
-
-### [Alzheimer vorbeugen? 3000 Schritte täglich reichen bereits](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-來源：[Blick](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDZMcmJRdFVrajVvek1fcE9kX2piYW1ZSlRFVUV0RXJtYjJMVWppVk1GNDJhaHp4Q1d3RnpKMFpKNzV3cmxqSE44aEpXYUVKc3c0eTJTNGU3U3VqQkNpM2UtMWFTLUdGSzJ1N0FjTDVlLUhmLUtnTzFNZkpRZS1UX19EQzV3MWpsMDJLQmtjQUp4WmozY3VTZGZWTndHVFRteUo0Y1d1T0M0c2RtMXp1bzlDcHRWS055UkwxQ29Jbw?oc=5)
-
----
-
-### [The #1 Thing to Avoid If You Have High Blood Pressure, According to Dietitians](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
-
-2026-07-20 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzVGRzJuN2lvSmpCWV9FakMtQTFlWVlEWXVQbEFHNENadHhHZnVWcHI3WDhUeGFfNVZTUDFQYThpV0t4TGFwYXFpYXdCX085dHVGVWh6M2dYZWFqTlhIQXQ3dTJRYVVSMEJ5dTc2OVROYVZabVdWTW0zTGJCOTJNVUFNWHJaTEpr?oc=5)
-
----
-
-### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
-
----
-
-### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
-
-2026-07-19 <span class="news-indication-tag">epatite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
-
----
-
-### [Chronische Hepatitis B: Bepirovirsen erreicht funktionelle Heilungsraten bis 26 % - Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
-
-2026-07-19 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
