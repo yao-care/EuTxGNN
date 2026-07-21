@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Capsaicin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,23 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Common health condition could increase heart disease risk in women - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
+
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
+
+---
+
+### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
+
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
+
+---
 
 
 <div class="disclaimer">

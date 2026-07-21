@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li>psoriasis（99.2%）</li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,9 +52,31 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Diabetes: SGLT2-Mittel senken Alzheimer-Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBLQjI3b2Q3QkdQZW5hbk9KYUtmYTlTWmZxMVhZU0lscDNTV2dSRUp3Rl9lNDdseVVIeVRwZzBXOW9FSzZLZVpEcks0ZmRNVTd4cGtELVJPSE1HYlRYS015NFB1aVI5LXl5WHZOUlJMeGFMdDVnVFhoZjl6d3VVeWpha1JzN2pJZWdGc0QtR2FDb3lhU2hMVkUya3ZGdktoQzZZMmJaOTNqMVk1?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBLQjI3b2Q3QkdQZW5hbk9KYUtmYTlTWmZxMVhZU0lscDNTV2dSRUp3Rl9lNDdseVVIeVRwZzBXOW9FSzZLZVpEcks0ZmRNVTd4cGtELVJPSE1HYlRYS015NFB1aVI5LXl5WHZOUlJMeGFMdDVnVFhoZjl6d3VVeWpha1JzN2pJZWdGc0QtR2FDb3lhU2hMVkUya3ZGdktoQzZZMmJaOTNqMVk1?oc=5)
+
+---
+
+### [Oui, il est possible de guérir du diabète de type 2 - National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabète</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+---
+
+### [Le gène qui change tout : vers des traitements personnalisés contre le psoriasis - La Croix](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1FjNkQ0NDdQbVFvRzJvNm5kM3NjVkM5Qi1JYVJwbHhNOVJDc3JxNld4Q3J6am1wWXFXYWVqX1lCYk5WZFdFSDhMTlc0UTJ4WnBGVmU4czdVNC1VUG4waGNHTXphOUdhR1NuUW1VMlBuWmhvcW55ZnVYbVl5S0ZTVGFlZF9RLUZsYjU1Z0ZYQWFmdE1FQm5kQ3JkNXJEMUwxZHdzdkNmN2xSUlpQeHpHRWVBMXE4SlVlelE?oc=5)
+
+2026-07-20 <span class="news-indication-tag">psoriasis</span>
+
+來源：[La Croix](https://news.google.com/rss/articles/CBMiugFBVV95cUxON1FjNkQ0NDdQbVFvRzJvNm5kM3NjVkM5Qi1JYVJwbHhNOVJDc3JxNld4Q3J6am1wWXFXYWVqX1lCYk5WZFdFSDhMTlc0UTJ4WnBGVmU4czdVNC1VUG4waGNHTXphOUdhR1NuUW1VMlBuWmhvcW55ZnVYbVl5S0ZTVGFlZF9RLUZsYjU1Z0ZYQWFmdE1FQm5kQ3JkNXJEMUwxZHdzdkNmN2xSUlpQeHpHRWVBMXE4SlVlelE?oc=5)
+
+---
 
 
 <div class="disclaimer">

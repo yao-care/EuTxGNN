@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,47 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（5 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Hepatitis B: 76% der Patienten leiden unter Erektionsstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
+
+2026-07-21 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
+
+---
+
+### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+
+---
+
+### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+
+---
+
+### [Fegato grasso e steatosi: si può guarire con dieta ed esercizio fisico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+2026-07-19 <span class="news-indication-tag">epatite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjFzSDZrVVBjcGF5WmFQZWhaT3kxaWtoRGZNa3NaNXJRTlBnaUtZbWpqU1VERDk2TkdyaHc2UkpVM0d0Sy1RZUFua0FsSmplSk1GeDVyU1M2LWJ3UU84YXNRN1NPNWl4MXJFb3VKLW81cEpyd3ZkQl9IRXJ6ZWtCaW1PWEdiTGwzNkhlWFI3cmhBSkxjcFk3RDhHSDBOa1hDM1NUb19QdkpfZk9SeW4tbnR6UDlETEZkMzI2Rw?oc=5)
+
+---
+
+### [Chronische Hepatitis B: Bepirovirsen erreicht funktionelle Heilungsraten bis 26 % - Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
+
+2026-07-19 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkl6aFJQREFiMTRwWDRnYzdjLUpvaTNCMkZuQlV5ajk0MWlEM3VGdmVxaFh6Zk1MWkhOYkVxZXNjbnJFeUtrd2JrelRScElRa2IxZ2gxaUM4Y3pEV3RvNnFHOWphRk1xZjlJLUQwc2REWWUxQ0dsbUUtY3FvZzlhT0JDYkdJdW1ONDk0a1luUHNtbHl3ajhweG5ZTG9CNUxtZUhOTHVfdDZ1NkJ1bVE?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Describen el impacto de la bacteriuria subclínica en gatos con enfermedad renal crónica, con o sin tratamiento antimicrobiano](https://news.google.com/rss/articles/CBMi3wFBVV95cUxONW81MUlkR200bUVIXzdVWVp1NjFqbHc4SGNmOF9QOXZyLUcxQ2Jsc1NLeEhHcWUzWUxKMUgxU0lSRmprblJuZzN5TDc1dXhkVnhmdU1qTEhEZlhxcVRDdkhvME0zT0x4QmpZeEpJU01Kdmp6emhOaHc4MnBveXhPeDNjOUhFLUdxTHY0SXdZNjJMNVRra09MVGJZaFpKeW5QUFBRd1djZ3BlckF2cVFOcmxZbnVTbjdWSkN4ekwzcUt0N0dWTVpRc2hTdGdKcGJHQnYwNjZmZUtFVmNDc3pn?oc=5)
+
+2026-07-20 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxONW81MUlkR200bUVIXzdVWVp1NjFqbHc4SGNmOF9QOXZyLUcxQ2Jsc1NLeEhHcWUzWUxKMUgxU0lSRmprblJuZzN5TDc1dXhkVnhmdU1qTEhEZlhxcVRDdkhvME0zT0x4QmpZeEpJU01Kdmp6emhOaHc4MnBveXhPeDNjOUhFLUdxTHY0SXdZNjJMNVRra09MVGJZaFpKeW5QUFBRd1djZ3BlckF2cVFOcmxZbnVTbjdWSkN4ekwzcUt0N0dWTVpRc2hTdGdKcGJHQnYwNjZmZUtFVmNDc3pn?oc=5)
+
+---
+
+### [Alle Langschläfer freuen sich: Aldi-Produkt macht Zimmer für 14,99 Euro stockdunkel](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQUJ3WTRsMEpDZEFsRGVrZklGNTJEWDBjcTFlczhHdGZpbDVMWFlDZHR6MEhMaUQyNUljWG5IU3NGenNNaXRoT0R5ZDNxT3JNbzg4dzAxaVNleE5tLXhMbEJEZ1VfMkJENm5kWUVidU5jMnNiMi04N2FWYWNZUFRMSGpDTDRlTWY4T2NHWmJ6TVgzQldIcTRVWWhEZmZYMU85d1AtXzhBb01TTllkNG5LZEdYRnRQN2tKVzZEcXoxR25xaUpPVDJYVW90VF9Wd0xjUzRCOGY2bTlJcjVFY0JZQV9GWm1EczRYSjBiUTBGOUNwV2pLeVE?oc=5)
+
+2026-07-19 <span class="news-indication-tag">CKD</span>
+
+來源：[Ruhr24](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQUJ3WTRsMEpDZEFsRGVrZklGNTJEWDBjcTFlczhHdGZpbDVMWFlDZHR6MEhMaUQyNUljWG5IU3NGenNNaXRoT0R5ZDNxT3JNbzg4dzAxaVNleE5tLXhMbEJEZ1VfMkJENm5kWUVidU5jMnNiMi04N2FWYWNZUFRMSGpDTDRlTWY4T2NHWmJ6TVgzQldIcTRVWWhEZmZYMU85d1AtXzhBb01TTllkNG5LZEdYRnRQN2tKVzZEcXoxR25xaUpPVDJYVW90VF9Wd0xjUzRCOGY2bTlJcjVFY0JZQV9GWm1EczRYSjBiUTBGOUNwV2pLeVE?oc=5)
+
+---
 
 
 <div class="disclaimer">

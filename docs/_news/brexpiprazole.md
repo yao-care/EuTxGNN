@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Depressione, un reset del cervello e torna il sereno](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnE3QVpOYzN1YzFnUVdteXhrSmRjRXExZFV6eGJDd1doRjdiWm0yNjVNUVg4S1Q5NGowQ2FkdnhqMmlYanhpWnBiZzFIVHNUTDFGVFBWMnpDNG40dGt4T1RyaDFoWUNzRlV4UGdnaXE1RERfNlQzSXNHRnUxV3lBSUNOc3RheGZub0ZpWnQ0QTdxdEtFWWFkUmlNQU9sUEhWQUpIdU1rdUNlRWU4SE9F?oc=5)
+
+2026-07-20 <span class="news-indication-tag">depression</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnE3QVpOYzN1YzFnUVdteXhrSmRjRXExZFV6eGJDd1doRjdiWm0yNjVNUVg4S1Q5NGowQ2FkdnhqMmlYanhpWnBiZzFIVHNUTDFGVFBWMnpDNG40dGt4T1RyaDFoWUNzRlV4UGdnaXE1RERfNlQzSXNHRnUxV3lBSUNOc3RheGZub0ZpWnQ0QTdxdEtFWWFkUmlNQU9sUEhWQUpIdU1rdUNlRWU4SE9F?oc=5)
+
+---
+
+### [Los genes relacionados con la depresión actúan como una orquesta y ya identificaron al “director”](https://news.google.com/rss/articles/CBMixAFBVV95cUxObGxsTFh3azk1cnBUTDNQZUJWbXJMYXJqUmFzWEpTWTF2WkxmTUh0OTRZdXM1VmljOGpSNWx5bmZaSXBrb1d0bU1xMXZvSGxaZFQ4V0NObTlrWjlwX2ZSay1ESE9XaktNLXNROE8wQzhnYXJFb3d2c211WGF0dk9ocUg3ZjBfSmNkcHhvTWFQWDhWTXlMNmhaeGxGQ0xxdV9jaGdRZnFkNVZCUk9SdWVDZVV1UWxPZFFDTU5fUGxZTlpEaEVx?oc=5)
+
+2026-07-20 <span class="news-indication-tag">depresión</span>
+
+來源：[WIRED](https://news.google.com/rss/articles/CBMixAFBVV95cUxObGxsTFh3azk1cnBUTDNQZUJWbXJMYXJqUmFzWEpTWTF2WkxmTUh0OTRZdXM1VmljOGpSNWx5bmZaSXBrb1d0bU1xMXZvSGxaZFQ4V0NObTlrWjlwX2ZSay1ESE9XaktNLXNROE8wQzhnYXJFb3d2c211WGF0dk9ocUg3ZjBfSmNkcHhvTWFQWDhWTXlMNmhaeGxGQ0xxdV9jaGdRZnFkNVZCUk9SdWVDZVV1UWxPZFFDTU5fUGxZTlpEaEVx?oc=5)
+
+---
 
 
 <div class="disclaimer">

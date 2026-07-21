@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Fini les injections : une pilule promet une perte de poids spectaculaire](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
+
+2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
+
+---
+
+### [La Comunidad de Madrid identifica patrones que conectan la microbiota intestinal con la salud metabólica en la obesidad - Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">obesidad</span>
+
+來源：[Dream Alcalá](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSml0MXlQaGdnRG5idWwwMFRJZkRDd19WODhuSTBjY3JUc1VFUGdRVFpRTjNKSmg2ZGI4Vmh3a3BHVmxtWk91M0hhcmVnM1hnb3pKQVhEWUpodFQ0MUZ3dXlRbmVJdmZ3dDk0N3N0SXFCdTNDVVdlWDlsc2F3a2VQTTFlejgzZ21zSDl2Y0ZYWm9rb3BmR0U3SENkenFSeHk4T2ZJVnhsWnp1ekFZbUp0SWhNTHdYMjJqWVJYM1BYSHYtdEQzNnlVbXMwOWJNYko5ZVFtQ1BjbUlrTm9aV2R2Njk2TQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

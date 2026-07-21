@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [GSK lanza en España depemokimab, el primer biológico ultraprolongado para asma grave y poliposis nasal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
+
+2026-07-20 <span class="news-indication-tag">asma</span>
+
+來源：[pharmatech.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVlLeW1OSkpaaUZaNzhyV0l1bXl5U3BqOGRPMlBZakIxdHVWWGl6VzR3ZUZfVVVNMzhHUW5xTDIyQm52ZW1ZUVZkZDJKcmFvbWNmYlFjYllDT2Mta2Y1cWhka3lDVWVFVUpscDhHTTEtUWhDMUphQ1dRTFo2eE1XWDVjRG43clYyeEUzbnc0WjN5Rll4WHpVU19sYjVldEQtSWRNNXlWRDBaLTF3N0pLWkc5YzJJNG5OSUVXN0stN2FfSkdESm9ZMnQzbmhaWDhO?oc=5)
+
+---
+
+### [Microbioma e medicina anticipatoria: come le esperienze infantili plasmano la salute per tutta la vita - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
+
+2026-07-20 <span class="news-indication-tag">asma</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
+
+---
 
 
 <div class="disclaimer">

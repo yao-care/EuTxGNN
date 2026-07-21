@@ -14,7 +14,7 @@ permalink: /news/ambrisentan/
 ---
 
 <p class="key-answer" data-question="Ambrisentan 有什麼相關新聞？">
-<strong>Ambrisentan</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ambrisentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,23 @@ permalink: /news/ambrisentan/
 <p><a href="{{ '/drugs/ambrisentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+
+---
+
+### [Bluthochdruck: Warum Frauen ab 50 strengere Grenzwerte brauchen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+
+2026-07-20 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTHZwU1d2NVBnWlZJRDFzejhiVEJkUmJCMnpJa0JsalV4aTBzWFY4RlBMaHROYkEzSmVBMHZ1X2JYSVAxc09oaEREVUhjdnFuXzZlRzc5b19HYk9rTWxLcHl2T1JpWXV3a0xNOFRVUWdTTEg0bzRGNEpKbVJYZ1FGcHpiOGYxNUFmU1VEWktBSTNiR3IySmFzanp3?oc=5)
+
+---
 
 
 <div class="disclaimer">

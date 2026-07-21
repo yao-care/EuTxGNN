@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="Insulin Detemir 有什麼相關新聞？">
-<strong>Insulin Detemir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Insulin Detemir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,23 @@ permalink: /news/insulin-detemir/
 <p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Diabetes: SGLT2-Mittel senken Alzheimer-Risiko um 43 Prozent](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBLQjI3b2Q3QkdQZW5hbk9KYUtmYTlTWmZxMVhZU0lscDNTV2dSRUp3Rl9lNDdseVVIeVRwZzBXOW9FSzZLZVpEcks0ZmRNVTd4cGtELVJPSE1HYlRYS015NFB1aVI5LXl5WHZOUlJMeGFMdDVnVFhoZjl6d3VVeWpha1JzN2pJZWdGc0QtR2FDb3lhU2hMVkUya3ZGdktoQzZZMmJaOTNqMVk1?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVBLQjI3b2Q3QkdQZW5hbk9KYUtmYTlTWmZxMVhZU0lscDNTV2dSRUp3Rl9lNDdseVVIeVRwZzBXOW9FSzZLZVpEcks0ZmRNVTd4cGtELVJPSE1HYlRYS015NFB1aVI5LXl5WHZOUlJMeGFMdDVnVFhoZjl6d3VVeWpha1JzN2pJZWdGc0QtR2FDb3lhU2hMVkUya3ZGdktoQzZZMmJaOTNqMVk1?oc=5)
+
+---
+
+### [Oui, il est possible de guérir du diabète de type 2 - National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+2026-07-20 <span class="news-indication-tag">diabète</span>
+
+來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
+
+---
 
 
 <div class="disclaimer">
