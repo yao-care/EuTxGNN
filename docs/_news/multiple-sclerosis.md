@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,13 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
-### [Tick bites are on the rise in the US and UK. Here’s how to protect yourself - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTlsUGttZEZISzZkVHZUdThjVzNWbmZOZFlGWXlMX2JoRkhJYWQwUTNjRkZYbEJVaWRzRkp3eXV5NDhxOFd6TTU1T1FJYUJhTWFNV3A2czJObFVDamE3SFRLQ3FEOE51WkNTSjRXOHRfS09Yc2ZzSkFxSW05LV9qVmxvVDdkQ0lpOG9F?oc=5)
+### [Gefahr von Nierenschäden: Stiftung Warentest warnt vor diesen Vitamin-D-Mitteln](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa1E2M0g5QTZhaXlJQ29RN3JUZTJ4TVgzUUlsMHc0aF85NURSVlFXenhyLWNQS1JZQXBtNjU1ajFmNDNiZU5hUzBJaUNfQ3RRcVhnX3ZKUW4xcTZybFduVEE2eEdXVjRDd3R0eTFFNmgxRlVPRVltR1ZOT0xSX3RjUy1CT3pCNDFYZGNneERPM0VxeWFjQUFQaW9iaGZFTjhYNTBxWVNCTVJKY05CYzdVUThjanlRc2hkNXFUekVZazZDYlh2aDlnU3luUlNITWJDOWY3WThDZEl4Zlp5?oc=5)
 
 2026-07-21
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTlsUGttZEZISzZkVHZUdThjVzNWbmZOZFlGWXlMX2JoRkhJYWQwUTNjRkZYbEJVaWRzRkp3eXV5NDhxOFd6TTU1T1FJYUJhTWFNV3A2czJObFVDamE3SFRLQ3FEOE51WkNTSjRXOHRfS09Yc2ZzSkFxSW05LV9qVmxvVDdkQ0lpOG9F?oc=5)
+來源：[Joyn](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa1E2M0g5QTZhaXlJQ29RN3JUZTJ4TVgzUUlsMHc0aF85NURSVlFXenhyLWNQS1JZQXBtNjU1ajFmNDNiZU5hUzBJaUNfQ3RRcVhnX3ZKUW4xcTZybFduVEE2eEdXVjRDd3R0eTFFNmgxRlVPRVltR1ZOT0xSX3RjUy1CT3pCNDFYZGNneERPM0VxeWFjQUFQaW9iaGZFTjhYNTBxWVNCTVJKY05CYzdVUThjanlRc2hkNXFUekVZazZDYlh2aDlnU3luUlNITWJDOWY3WThDZEl4Zlp5?oc=5)
 
 ---
 
@@ -69,14 +69,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-21
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
-
----
-
-### [Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world - The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
-
-2026-07-21
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
 
 ---
 
@@ -96,19 +88,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [El brote de ébola en Congo se cobra mil vidas y ronda los 2.500 casos oficiales - Redacción médica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMkJfUUdDU0tDZmZTZGc4OTVIVk9Valc2QnR2X2lhLUtod1VMOWJHR1pETlRUTHFCTVJXd01keFlXUDlfc1ZpSkN4MXRhRkZiNHNIQlJDejR2V0E1dkVybFhlYWdDS0NWYUxZYWp2RGJuaWZ2cWZ6emU4Zmk3RTQ4MGFndlpxVlktOFo2dnZHRDNISVloRjNRTzVHbGxRVGg3N0I5bVEtNHNyY1U0SHk2SkR5REtDcDNpRl82VWNVUWRyblA1R1RVQzFEMlllQWNfOG15Zy1wa010Y1NubTAzYmlVY9IB6AFBVV95cUxPRURhZ2dhOE9YWXpJcUltb2UtekJzR3hjc3UzdWZUZU0zOXhva2dvWENJRk1ibFhpX0xUNDlDbXJsRWdWR1RLVFRyT1I1VWxaMTU1ZFpadEdiWTJZRkcwaWFhSUNuQTlPWHlQN08wVEhUTGJhTjE3WXRIS1ZoQkRVWk5FSUxvN0N5QXNUUkdDSDFnLW9GZkc1LVh3ZHNVcXVjMmpLbHBIamxjc0dFVFJTWHQxN2pnNW1BY2w2RVNNT3hMZm1JYzhWdkc5OXFRZmRtRlFoazlub2t3NmlxVFV4OWtnNHNobUp6?oc=5)
-
-2026-07-21
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMkJfUUdDU0tDZmZTZGc4OTVIVk9Valc2QnR2X2lhLUtod1VMOWJHR1pETlRUTHFCTVJXd01keFlXUDlfc1ZpSkN4MXRhRkZiNHNIQlJDejR2V0E1dkVybFhlYWdDS0NWYUxZYWp2RGJuaWZ2cWZ6emU4Zmk3RTQ4MGFndlpxVlktOFo2dnZHRDNISVloRjNRTzVHbGxRVGg3N0I5bVEtNHNyY1U0SHk2SkR5REtDcDNpRl82VWNVUWRyblA1R1RVQzFEMlllQWNfOG15Zy1wa010Y1NubTAzYmlVY9IB6AFBVV95cUxPRURhZ2dhOE9YWXpJcUltb2UtekJzR3hjc3UzdWZUZU0zOXhva2dvWENJRk1ibFhpX0xUNDlDbXJsRWdWR1RLVFRyT1I1VWxaMTU1ZFpadEdiWTJZRkcwaWFhSUNuQTlPWHlQN08wVEhUTGJhTjE3WXRIS1ZoQkRVWk5FSUxvN0N5QXNUUkdDSDFnLW9GZkc1LVh3ZHNVcXVjMmpLbHBIamxjc0dFVFJTWHQxN2pnNW1BY2w2RVNNT3hMZm1JYzhWdkc5OXFRZmRtRlFoazlub2t3NmlxVFV4OWtnNHNobUp6?oc=5)
-
----
-
 ### [Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds - The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
 
 2026-07-21
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
+
+---
+
+### [“$50,000 Over Nothing”: 26 Doctors Share Their Approach To People Who Fake Symptoms - Bored Panda](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVjhjZ05Lc3RGMHVtOTJaamp4ZnhuZ0dJVmlGRk4zV3V3R2c4Slg0djdLZWxaNzRlQ0tDYzA5RlJEZEJ5NVNDdzRPSUVJbTRfTTUyZlBTSzQ4c2VqVUFwSjgwRDZua3VKdkRtc05JTnRUU1BsTFVFem1VQ0JSUQ?oc=5)
+
+2026-07-21
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVjhjZ05Lc3RGMHVtOTJaamp4ZnhuZ0dJVmlGRk4zV3V3R2c4Slg0djdLZWxaNzRlQ0tDYzA5RlJEZEJ5NVNDdzRPSUVJbTRfTTUyZlBTSzQ4c2VqVUFwSjgwRDZua3VKdkRtc05JTnRUU1BsTFVFem1VQ0JSUQ?oc=5)
 
 ---
 
@@ -120,19 +112,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La salute del cervello è la nuova grande sfida della sanità: oltre 3,4 miliardi di persone convivono con una condizione neurologica](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
-
-2026-07-20
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
-
----
-
 ### [Mainzer Forscher: Fortschritte bei der Therapie gegen Multiple Sklerose - Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
 
 2026-07-20
 
 來源：[Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
+
+---
+
+### [Giornata neurologia, Sin: "Benessere del cervello una sfida che riguarda tutti" - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
+
+2026-07-20
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
 
 ---
 

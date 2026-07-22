@@ -48,19 +48,19 @@ permalink: /news/levodopa/
 
 ## 相關新聞（2 則）
 
+### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+
+---
+
 ### [Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
 
 2026-07-21 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
-
----
-
-### [El CIBIR desarrolla una terapia génica para prevenir el alzhéimer](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3ExX2duM0VydWNLT1pFSFlabDJzUi1wb3p2Y3hCYlMtX2wyTkg1bzlsajRXcnZuY1V3cFVqNGkzZlRnMTFmeEF3V05jMEF5aHdaQUFpWEwxLUpmdlpXU0JZRWdHUGdQZDlnTDlfWl9hSnpBME5JYlhCcW9ycUZ2dXgxbFZORDEyNGtMYQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[NueveCuatroUno](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3ExX2duM0VydWNLT1pFSFlabDJzUi1wb3p2Y3hCYlMtX2wyTkg1bzlsajRXcnZuY1V3cFVqNGkzZlRnMTFmeEF3V05jMEF5aHdaQUFpWEwxLUpmdlpXU0JZRWdHUGdQZDlnTDlfWl9hSnpBME5JYlhCcW9ycUZ2dXgxbFZORDEyNGtMYQ?oc=5)
 
 ---
 

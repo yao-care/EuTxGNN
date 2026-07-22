@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
+### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+
+2026-07-21
+
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+
+---
+
 ### [Voici la piste infectieuse explorée par des chercheurs pour comprendre l'origine de la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
 
 2026-07-21
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT1Q1dHh3V2pZUkxqVmpRMXM5WXp1VFY1QVBxME1SSlNDU2FobDlCN19IV1NVcFlrMVo0bFVub2VRaGpTd3B3UWk3LTVfZHFSX0x5QVVlbU1YSlg2Yl95Q0NHNWlkazlzbkxWSW1JeEluQmtYWEJVZmlQSk1yN1pUTnJLbkxrUHNDaU1JazRXNVlDM0x0bGhVLTNkUGo2LTlZRGRySEhHSFdJdThuRmxobkhudUxsQk5JdGRpU2x1akJ5VWFrNGthNFhkZ0hGdHFvYXJWMl9zb0U2U0VUOFZQVjVHZjZ6U3N5S1VaZEx1MDFlQQ?oc=5)
-
----
-
-### [El CIBIR desarrolla una terapia génica para prevenir el alzhéimer](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3ExX2duM0VydWNLT1pFSFlabDJzUi1wb3p2Y3hCYlMtX2wyTkg1bzlsajRXcnZuY1V3cFVqNGkzZlRnMTFmeEF3V05jMEF5aHdaQUFpWEwxLUpmdlpXU0JZRWdHUGdQZDlnTDlfWl9hSnpBME5JYlhCcW9ycUZ2dXgxbFZORDEyNGtMYQ?oc=5)
-
-2026-07-20
-
-來源：[NueveCuatroUno](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3ExX2duM0VydWNLT1pFSFlabDJzUi1wb3p2Y3hCYlMtX2wyTkg1bzlsajRXcnZuY1V3cFVqNGkzZlRnMTFmeEF3V05jMEF5aHdaQUFpWEwxLUpmdlpXU0JZRWdHUGdQZDlnTDlfWl9hSnpBME5JYlhCcW9ycUZ2dXgxbFZORDEyNGtMYQ?oc=5)
 
 ---
 

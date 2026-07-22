@@ -14,7 +14,7 @@ permalink: /news/sugammadex-sodium/
 ---
 
 <p class="key-answer" data-question="Sugammadex Sodium 有什麼相關新聞？">
-<strong>Sugammadex Sodium</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sugammadex Sodium</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/sugammadex-sodium/
 <p><a href="{{ '/drugs/sugammadex-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（26 則）
+
+### [Krebserkrankungen der Schilddrüse - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHNNNGROM2ttb19OSE41ME1fYlZpejljcEtLekdRNEs2Rl9WSDhaQUo3Y0FYZUhkVzdOOEFtOHpXU0U1YVNpQVlTWEk1X1FEdHgxZE54bzlHWmNWSUxKSk1WWE1pR3JjcE1meGk3a0VfS0FJck1MQVAtOVBlOWU2bnpnbjNwbGxpaWpJWXdRelJFWk02d0FMSWMwMDVIdXhrVVgtN1BNU0Y?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHNNNGROM2ttb19OSE41ME1fYlZpejljcEtLekdRNEs2Rl9WSDhaQUo3Y0FYZUhkVzdOOEFtOHpXU0U1YVNpQVlTWEk1X1FEdHgxZE54bzlHWmNWSUxKSk1WWE1pR3JjcE1meGk3a0VfS0FJck1MQVAtOVBlOWU2bnpnbjNwbGxpaWpJWXdRelJFWk02d0FMSWMwMDVIdXhrVVgtN1BNU0Y?oc=5)
+
+---
+
+### [Hepatitis B: 296 Millionen Infizierte, doch nur 4,3% in Behandlung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
+
+---
+
+### [PANDA repère le cancer du pancréas là où l’œil humain échoue](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTY3OVRNN1BGeFV6WmRZV1piQy1LUm9kZUxOTXAwdVhmREE1bnBnMnRlb2RXZldrb0c5NzNoMldnNUlUUjQwYVlBTTN5NnhZcC14MXN4U0xUb2dkdWxUR0h5RTlWTVk4RGtDTW1FYUVwdTNLN2s5SzAtT19MWjhKSzI4LVdQYjU2YU45Sw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTY3OVRNN1BGeFV6WmRZV1piQy1LUm9kZUxOTXAwdVhmREE1bnBnMnRlb2RXZldrb0c5NzNoMldnNUlUUjQwYVlBTTN5NnhZcC14MXN4U0xUb2dkdWxUR0h5RTlWTVk4RGtDTW1FYUVwdTNLN2s5SzAtT19MWjhKSzI4LVdQYjU2YU45Sw?oc=5)
+
+---
 
 ### [Vitamin D und Screening-Strategien: neue Daten zu Prostatakrebs und Strahlendermatitis - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
 
 2026-07-21 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
+
+---
+
+### [Dad-to-be, 31, given 'incurable' Royal Stoke cancer bombshell - The Sentinel](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzJob0xTY204OFpwTElfaDB3blBIbGRMNDRxa1o4RlFGN1U4dTdvazlySlk5SERwTHFzUkNZMUJ2Q3BOXzNDNGhKeGVGd2dFNUNRY3UtdHJHU2pDaEVKWV9Cc3FaQ3lZcmNrNExoM2pQeFhkaDdlcFNDYnVNMVJoNVNWOU52RHdtT3ZlLUs4a3hvOW1KcXfSAZsBQVVfeXFMUHZYaWJZVWNzMF9QaEoyR3lRcGpGNDJNZDJ1UHdUR0F2S0FmNWJ6NHZNcGFMZVdwT2IzWVB4T29iVXlMaTVTWEFBb3ZaRXJibDg1azEyd2l4V2Q1dExGOXNpRmhJQkU1UkEweTJYdk5UUUVwS1NaVW81eHNkNER0UjFjYllXSWZHNlNtRE5ZaHRMZEpwek5vU1NTckk?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzJob0xTY204OFpwTElfaDB3blBIbGRMNDRxa1o4RlFGN1U4dTdvazlySlk5SERwTHFzUkNZMUJ2Q3BOXzNDNGhKeGVGd2dFNUNRY3UtdHJHU2pDaEVKWV9Cc3FaQ3lZcmNrNExoM2pQeFhkaDdlcFNDYnVNMVJoNVNWOU52RHdtT3ZlLUs4a3hvOW1KcXfSAZsBQVVfeXFMUHZYaWJZVWNzMF9QaEoyR3lRcGpGNDJNZDJ1UHdUR0F2S0FmNWJ6NHZNcGFMZVdwT2IzWVB4T29iVXlMaTVTWEFBb3ZaRXJibDg1azEyd2l4V2Q1dExGOXNpRmhJQkU1UkEweTJYdk5UUUVwS1NaVW81eHNkNER0UjFjYllXSWZHNlNtRE5ZaHRMZEpwek5vU1NTckk?oc=5)
 
 ---
 
@@ -110,6 +142,14 @@ permalink: /news/sugammadex-sodium/
 
 ---
 
+### [L'IA ora può prevedere il tumore al polmone fino a sei anni prima: la scoperta che potrebbe cambiare la prevenzione](https://news.google.com/rss/articles/CBMihAJBVV95cUxNb3ljYjJ0RXpRQkhYbWtJWG91cF9WT2NvSy03d29IUHZrZWJTMEc0b0lOT2puY1FQTFoyMVBHSXA4Q1VBc1plYVZBeUJ6OWlPdUU5QjNYT3pZcjBYUmMzdHZ2UHlUTThRRndHT0wtRUZrQjduSThlVGFaSWQwQnNsdEhobDNWQ2I0ZHlDdE5CUkF3RmpKVkstNUZyT29haDNvSXFqMXh4UTdhVnJ3aXlBUWJvMnJxbEFCa1lqel9oQmtKcnU0MXNKQzNKd1p3b005b1Z6ZjBPd3c4WENqMTdUT2Z1SEdJdS1haXRwN3A2WXk0WVIzc3ZYUGE1a0UxazBXM1o2Zw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihAJBVV95cUxNb3ljYjJ0RXpRQkhYbWtJWG91cF9WT2NvSy03d29IUHZrZWJTMEc0b0lOT2puY1FQTFoyMVBHSXA4Q1VBc1plYVZBeUJ6OWlPdUU5QjNYT3pZcjBYUmMzdHZ2UHlUTThRRndHT0wtRUZrQjduSThlVGFaSWQwQnNsdEhobDNWQ2I0ZHlDdE5CUkF3RmpKVkstNUZyT29haDNvSXFqMXh4UTdhVnJ3aXlBUWJvMnJxbEFCa1lqel9oQmtKcnU0MXNKQzNKd1p3b005b1Z6ZjBPd3c4WENqMTdUT2Z1SEdJdS1haXRwN3A2WXk0WVIzc3ZYUGE1a0UxazBXM1o2Zw?oc=5)
+
+---
+
 ### [Le Viagra pourrait être efficace contre la progression du cancer, selon une étude israélienne](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTExVUzNBVnVNTUpuZ1B1dEtMXzhHQnJGeklmWXVqQW9IM0pnMDU5UUQ2QmxRWXdkaGc3T1RXUDhHM1BKamt3cm1FSnVBeVg3cFNCdEd1cWpLUkVJbG0wWUdQS0pjVnNpRXJVbjNUb2x4c3pZbVR5UUpoZjVNRmtQamdVallmMmc0Y09aYjhjVTdhX1ZGWGFOc0R2eDVmXzh1ODVJdXB5UFI5YmttcW8wd1pqaEVNTTQwaXpKdkFIZG5XMTcwdG44akpCMjk?oc=5)
 
 2026-07-21 <span class="news-indication-tag">cancer</span>
@@ -142,11 +182,19 @@ permalink: /news/sugammadex-sodium/
 
 ---
 
-### [Common health condition could increase heart disease risk in women - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
+### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
+
+---
+
+### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
+
+2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
 
 ---
 
@@ -195,14 +243,6 @@ permalink: /news/sugammadex-sodium/
 2026-07-20 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZktTdFI3M2w2bVNGaW94ck1waWpkbkIzYlRHUXI2dWx4b2h4U2RtUG04YUxFcmpEWEVKS25zZFlwQ1BjUzhRVnJiRV9YT0NTVmxhbk1IS3VaZmVtQ0ZMTEVjaDdqelBnZnktNGVHTGc3SXNucmRJQXVTRzUwT2ZZbXZtNnJOQnF0Q1EyQUgzaGI2ZTNqZkdrMUxqSTY1M3d6MDVZU1FJSDBzWFVBa04xWQ?oc=5)
-
----
-
-### [Screening mammografico, diagnosi ancora più veloci grazie all’IA](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUNpeVo5RWd3OEhudlZIalQ4S194dWowSUJ3VkYzTTJoTDFmZ2hvOFkxS0dsWFBUVVJMWTF4cVdla2Ffc0FmSkNkckpod2t3YWVFNThvN2ZVdmd6djNrYkVnRTZEcE9mS2FSbzd6OVNsdFRuZ2xtWWFja0pmUkhlYWp1ZUJGNlFmd3F5WHRfLVJKLXR1Vmc1dUwtM1UxRkFEc1J1REpJUGtqNUJ6Z2FLQQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUNpeVo5RWd3OEhudlZIalQ4S194dWowSUJ3VkYzTTJoTDFmZ2hvOFkxS0dsWFBUVVJMWTF4cVdla2Ffc0FmSkNkckpod2t3YWVFNThvN2ZVdmd6djNrYkVnRTZEcE9mS2FSbzd6OVNsdFRuZ2xtWWFja0pmUkhlYWp1ZUJGNlFmd3F5WHRfLVJKLXR1Vmc1dUwtM1UxRkFEc1J1REpJUGtqNUJ6Z2FLQQ?oc=5)
 
 ---
 

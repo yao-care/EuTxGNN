@@ -14,7 +14,7 @@ permalink: /news/pegfilgrastim/
 ---
 
 <p class="key-answer" data-question="Pegfilgrastim 有什麼相關新聞？">
-<strong>Pegfilgrastim</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pegfilgrastim</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/pegfilgrastim/
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+
+---
+
+### [Typ-2-Diabetes: 18 Prozent erreichen Remission durch Ernährung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
+
+---
 
 ### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [COPD: Hülsenfrüchte senken Entzündungsmarker um 7,4 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+
+2026-07-21 <span class="news-indication-tag">copd</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+
+---
+
+### [Why Ventolin vanished from Israeli pharmacies, leaving asthma patients scrambling](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+
+2026-07-21 <span class="news-indication-tag">asthma</span>
+
+來源：[Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+
+---
 
 ### [Microbioma e medicina anticipatoria: come le esperienze infantili plasmano la salute per tutta la vita - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
 

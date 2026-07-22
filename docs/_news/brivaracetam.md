@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,16 +45,22 @@ permalink: /news/brivaracetam/
 <li>Rett syndrome, congenital variant（98.8%）</li>
 <li>restless legs syndrome（98.1%）</li>
 <li>partial motor epilepsy（97.8%）</li>
-<li>epilepsy（96.2%）</li>
+<li class="indication-matched">epilepsy（96.2%）<span class="indication-tag">📰 epilepsia</span></li>
 <li>trigeminal nerve neoplasm（95.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Una nueva terapia génica personalizada logra frenar una forma grave de epilepsia infantil - Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZG52RGh6TFlLNE1jMDF4S1dlTURCVm9wNFFzUUFLU2UzV0Y4ME9DMmQyd1Q0c3VVdVp6VGVtU0ZiNmFNVUQ0bXdqRzhKcVlvM3VQN3hPSlV3TTY3TFpLTjBSOU9PVnBGektGS0pWODdCSzVGV1FuUTR6VjRWeTVidi0zWXUtd2xJbzR0MVRjLUhfNG5vZWpPaFZQNFVvYlJNdkNFa1RUb3VvNFRTb1lNdnprSlQ0bGlnUnBIX2xOSWcxdlozRUYxM1dVNjZyWFgzZHlYRlBwZjRQTGZpaUR4Z2xXMGQ5aWxWSkF3SFRKcGRXS1Q0S3N2NVdR0gGEAkFVX3lxTE1vVjktWWlqdTA2bnVaTEVQVXVndXVCUTk3NW1UbUdmNk5EMTRSMUx5Z3dCWTRCNUl0OVd2UmJMNF9KdWtpWEQ5ZEtZTzZXU2xVUGlmdE9ZVlV1OGowRDdmNHU3V2hOTy0xZzQ5bWpjRjVFdGwxclc0S2hkY09IdEpvLS0zSXlnelhLTDZjMTNqWUEtVHphV3ZwUkdIOW1FTVdQOE8xWkhDQjN6eG40S0Z0bXhRRk5tZFNjQUN4aEZxcmZaNXktZWV6ajV4SkkxOEtNWGJWY2o0N0ZncEt0aFhweG5RbFB0Q29laWZDeEstOGExYVJpWDdTbk10X21JZF93Snhp?oc=5)
+
+2026-07-21 <span class="news-indication-tag">epilepsia</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZG52RGh6TFlLNE1jMDF4S1dlTURCVm9wNFFzUUFLU2UzV0Y4ME9DMmQyd1Q0c3VVdVp6VGVtU0ZiNmFNVUQ0bXdqRzhKcVlvM3VQN3hPSlV3TTY3TFpLTjBSOU9PVnBGektGS0pWODdCSzVGV1FuUTR6VjRWeTVidi0zWXUtd2xJbzR0MVRjLUhfNG5vZWpPaFZQNFVvYlJNdkNFa1RUb3VvNFRTb1lNdnprSlQ0bGlnUnBIX2xOSWcxdlozRUYxM1dVNjZyWFgzZHlYRlBwZjRQTGZpaUR4Z2xXMGQ5aWxWSkF3SFRKcGRXS1Q0S3N2NVdR0gGEAkFVX3lxTE1vVjktWWlqdTA2bnVaTEVQVXVndXVCUTk3NW1UbUdmNk5EMTRSMUx5Z3dCWTRCNUl0OVd2UmJMNF9KdWtpWEQ5ZEtZTzZXU2xVUGlmdE9ZVlV1OGowRDdmNHU3V2hOTy0xZzQ5bWpjRjVFdGwxclc0S2hkY09IdEpvLS0zSXlnelhLTDZjMTNqWUEtVHphV3ZwUkdIOW1FTVdQOE8xWkhDQjN6eG40S0Z0bXhRRk5tZFNjQUN4aEZxcmZaNXktZWV6ajV4SkkxOEtNWGJWY2o0N0ZncEt0aFhweG5RbFB0Q29laWZDeEstOGExYVJpWDdTbk10X21JZF93Snhp?oc=5)
+
+---
 
 
 <div class="disclaimer">

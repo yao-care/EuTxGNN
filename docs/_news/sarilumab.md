@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [COPD: Hülsenfrüchte senken Entzündungsmarker um 7,4 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+
+2026-07-21 <span class="news-indication-tag">copd</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+
+---
+
+### [Why Ventolin vanished from Israeli pharmacies, leaving asthma patients scrambling](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+
+2026-07-21 <span class="news-indication-tag">asthma</span>
+
+來源：[Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+
+---
 
 ### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 

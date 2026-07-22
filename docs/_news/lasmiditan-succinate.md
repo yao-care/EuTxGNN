@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/lasmiditan-succinate/
 2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
+
+---
+
+### [Perché è così facile ingrassare e tanto difficile dimagrire? Cosa dice la scienza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlAtWk1kMVR3eGtBLVVJZTZZdnJHaWNwMWp3eDlpRkRpTDBPNzVKemF1bndfNGM4Q1FfVktLS2NrQ29yMTdyV2FKN19jUWdTQmxfaTRzdDNzcmxCUUV4TlI4Y2NyS1hYUnZaYV91dXhObGpVS3BwU0VYeVhXRFkxQlkySmZSWE1tTUN1a2NjVU16ODhSYW9RMHlHSDQwdTM2aHQtSVpxdnF4U0pUc2tRTXZ6Wk84WE9Q?oc=5)
+
+2026-07-20 <span class="news-indication-tag">obesità</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlAtWk1kMVR3eGtBLVVJZTZZdnJHaWNwMWp3eDlpRkRpTDBPNzVKemF1bndfNGM4Q1FfVktLS2NrQ29yMTdyV2FKN19jUWdTQmxfaTRzdDNzcmxCUUV4TlI4Y2NyS1hYUnZaYV91dXhObGpVS3BwU0VYeVhXRFkxQlkySmZSWE1tTUN1a2NjVU16ODhSYW9RMHlHSDQwdTM2aHQtSVpxdnF4U0pUc2tRTXZ6Wk84WE9Q?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/mirvetuximab-soravtansine/
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Why Ventolin vanished from Israeli pharmacies, leaving asthma patients scrambling](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+
+2026-07-21 <span class="news-indication-tag">asthma</span>
+
+來源：[Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+
+---
 
 ### [Microbioma e medicina anticipatoria: come le esperienze infantili plasmano la salute per tutta la vita - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
 

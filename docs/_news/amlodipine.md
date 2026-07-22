@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（34 則）
+
+### [Krebserkrankungen der Schilddrüse - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHNNNGROM2ttb19OSE41ME1fYlZpejljcEtLekdRNEs2Rl9WSDhaQUo3Y0FYZUhkVzdOOEFtOHpXU0U1YVNpQVlTWEk1X1FEdHgxZE54bzlHWmNWSUxKSk1WWE1pR3JjcE1meGk3a0VfS0FJck1MQVAtOVBlOWU2bnpnbjNwbGxpaWpJWXdRelJFWk02d0FMSWMwMDVIdXhrVVgtN1BNU0Y?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHNNNGROM2ttb19OSE41ME1fYlZpejljcEtLekdRNEs2Rl9WSDhaQUo3Y0FYZUhkVzdOOEFtOHpXU0U1YVNpQVlTWEk1X1FEdHgxZE54bzlHWmNWSUxKSk1WWE1pR3JjcE1meGk3a0VfS0FJck1MQVAtOVBlOWU2bnpnbjNwbGxpaWpJWXdRelJFWk02d0FMSWMwMDVIdXhrVVgtN1BNU0Y?oc=5)
+
+---
+
+### [Hepatitis B: 296 Millionen Infizierte, doch nur 4,3% in Behandlung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
+
+---
+
+### [PANDA repère le cancer du pancréas là où l’œil humain échoue](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTY3OVRNN1BGeFV6WmRZV1piQy1LUm9kZUxOTXAwdVhmREE1bnBnMnRlb2RXZldrb0c5NzNoMldnNUlUUjQwYVlBTTN5NnhZcC14MXN4U0xUb2dkdWxUR0h5RTlWTVk4RGtDTW1FYUVwdTNLN2s5SzAtT19MWjhKSzI4LVdQYjU2YU45Sw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTY3OVRNN1BGeFV6WmRZV1piQy1LUm9kZUxOTXAwdVhmREE1bnBnMnRlb2RXZldrb0c5NzNoMldnNUlUUjQwYVlBTTN5NnhZcC14MXN4U0xUb2dkdWxUR0h5RTlWTVk4RGtDTW1FYUVwdTNLN2s5SzAtT19MWjhKSzI4LVdQYjU2YU45Sw?oc=5)
+
+---
 
 ### [Vitamin D und Screening-Strategien: neue Daten zu Prostatakrebs und Strahlendermatitis - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+### [Dad-to-be, 31, given 'incurable' Royal Stoke cancer bombshell - The Sentinel](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzJob0xTY204OFpwTElfaDB3blBIbGRMNDRxa1o4RlFGN1U4dTdvazlySlk5SERwTHFzUkNZMUJ2Q3BOXzNDNGhKeGVGd2dFNUNRY3UtdHJHU2pDaEVKWV9Cc3FaQ3lZcmNrNExoM2pQeFhkaDdlcFNDYnVNMVJoNVNWOU52RHdtT3ZlLUs4a3hvOW1KcXfSAZsBQVVfeXFMUHZYaWJZVWNzMF9QaEoyR3lRcGpGNDJNZDJ1UHdUR0F2S0FmNWJ6NHZNcGFMZVdwT2IzWVB4T29iVXlMaTVTWEFBb3ZaRXJibDg1azEyd2l4V2Q1dExGOXNpRmhJQkU1UkEweTJYdk5UUUVwS1NaVW81eHNkNER0UjFjYllXSWZHNlNtRE5ZaHRMZEpwek5vU1NTckk?oc=5)
 
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-07-21 <span class="news-indication-tag">cancer</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzJob0xTY204OFpwTElfaDB3blBIbGRMNDRxa1o4RlFGN1U4dTdvazlySlk5SERwTHFzUkNZMUJ2Q3BOXzNDNGhKeGVGd2dFNUNRY3UtdHJHU2pDaEVKWV9Cc3FaQ3lZcmNrNExoM2pQeFhkaDdlcFNDYnVNMVJoNVNWOU52RHdtT3ZlLUs4a3hvOW1KcXfSAZsBQVVfeXFMUHZYaWJZVWNzMF9QaEoyR3lRcGpGNDJNZDJ1UHdUR0F2S0FmNWJ6NHZNcGFMZVdwT2IzWVB4T29iVXlMaTVTWEFBb3ZaRXJibDg1azEyd2l4V2Q1dExGOXNpRmhJQkU1UkEweTJYdk5UUUVwS1NaVW81eHNkNER0UjFjYllXSWZHNlNtRE5ZaHRMZEpwek5vU1NTckk?oc=5)
 
 ---
 
@@ -126,6 +150,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [L'IA ora può prevedere il tumore al polmone fino a sei anni prima: la scoperta che potrebbe cambiare la prevenzione](https://news.google.com/rss/articles/CBMihAJBVV95cUxNb3ljYjJ0RXpRQkhYbWtJWG91cF9WT2NvSy03d29IUHZrZWJTMEc0b0lOT2puY1FQTFoyMVBHSXA4Q1VBc1plYVZBeUJ6OWlPdUU5QjNYT3pZcjBYUmMzdHZ2UHlUTThRRndHT0wtRUZrQjduSThlVGFaSWQwQnNsdEhobDNWQ2I0ZHlDdE5CUkF3RmpKVkstNUZyT29haDNvSXFqMXh4UTdhVnJ3aXlBUWJvMnJxbEFCa1lqel9oQmtKcnU0MXNKQzNKd1p3b005b1Z6ZjBPd3c4WENqMTdUT2Z1SEdJdS1haXRwN3A2WXk0WVIzc3ZYUGE1a0UxazBXM1o2Zw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihAJBVV95cUxNb3ljYjJ0RXpRQkhYbWtJWG91cF9WT2NvSy03d29IUHZrZWJTMEc0b0lOT2puY1FQTFoyMVBHSXA4Q1VBc1plYVZBeUJ6OWlPdUU5QjNYT3pZcjBYUmMzdHZ2UHlUTThRRndHT0wtRUZrQjduSThlVGFaSWQwQnNsdEhobDNWQ2I0ZHlDdE5CUkF3RmpKVkstNUZyT29haDNvSXFqMXh4UTdhVnJ3aXlBUWJvMnJxbEFCa1lqel9oQmtKcnU0MXNKQzNKd1p3b005b1Z6ZjBPd3c4WENqMTdUT2Z1SEdJdS1haXRwN3A2WXk0WVIzc3ZYUGE1a0UxazBXM1o2Zw?oc=5)
+
+---
+
 ### [Le Viagra pourrait être efficace contre la progression du cancer, selon une étude israélienne](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTExVUzNBVnVNTUpuZ1B1dEtMXzhHQnJGeklmWXVqQW9IM0pnMDU5UUQ2QmxRWXdkaGc3T1RXUDhHM1BKamt3cm1FSnVBeVg3cFNCdEd1cWpLUkVJbG0wWUdQS0pjVnNpRXJVbjNUb2x4c3pZbVR5UUpoZjVNRmtQamdVallmMmc0Y09aYjhjVTdhX1ZGWGFOc0R2eDVmXzh1ODVJdXB5UFI5YmttcW8wd1pqaEVNTTQwaXpKdkFIZG5XMTcwdG44akpCMjk?oc=5)
 
 2026-07-21 <span class="news-indication-tag">cancer</span>
@@ -166,6 +198,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
+
+---
+
 ### [New antibody drug stops aggressive prostate cancer from spreading](https://news.google.com/rss/articles/CBMib0FVX3lxTE05TkxVSzBFazZoWkZpVVBGNVctbzA0NUN6RWgyd09jYTN0cWpZMTlQSUtzcWpNSGV4QVlUenpURVhOR05vRXVvZGVPMEcxb3VpTThPWTRkMUlLYS1VaFM0eFJxWFhJNnk5ekhBQXlNdw?oc=5)
 
 2026-07-21 <span class="news-indication-tag">cancer</span>
@@ -174,11 +214,19 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Common health condition could increase heart disease risk in women - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
+### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnUzTGZaZVJiVkhBN0ZMaGRFelpiSjQ5ZkdpOUk0M1RDSWc4WVZuMlI1SHRxUWJyVW9lRUM4WVEzcC1JOVlVSXBYajBLVlpmX1A4SnVndkhFeTNGR0ExdXVKYUhqV0ZsWVdYWG44akFydHd4NExNUFRDRkNYWjExOWs0MU9xRmJmUHRNZGdfTExaZw?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
+
+---
+
+### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
+
+2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
 
 ---
 
@@ -187,14 +235,6 @@ permalink: /news/amlodipine/
 2026-07-20 <span class="news-indication-tag">cancro</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJtQzZ2cGZJQ3dyVWtlN2ZzUE05ME5PNXNEcndyU0hwanN2a3F0U19FeGVmYkIzbnE3UkR3Si1wMGpxVldqVnpOQzdvWTR0ODQ4eDFscEEwYTl3X054dG8xMkFGenc4ZjZfNkFRMG4zZnJUdnAweWNHdDMzTUw2MUxScmZmem11Uk1lb0I2SWxaZllkTjZhSkg0cDVwY1U5TkJ6N0lnQnRUUC1Mcnh4RjNGRXlDanNkV2Ew0gHAAUFVX3lxTFBwZGhoWTBpaXJoVXdmMmdHSnd2SjdtTDlQTGlDa2xCOV9mNjZPZG5MT2NSQVk1eUtYTGlQVG5ScGdoZ1FoUVlwdnN0UlpRZEJQWVdoVU4yS0ZfRU5zYXpxVlNheV9faG9tc0d6MW1wX1lLN0ExUmJGd251SFR6TGRUTk5vcHhubWVLd3A5ZHBCVGE0Vl9aQ0dEUk0zZFNXZHhCUnd5S2FWandwM1A5aHB1SGlkTy1ZUGZqYnlDaVJrUA?oc=5)
-
----
-
-### [La salute del cervello è la nuova grande sfida della sanità: oltre 3,4 miliardi di persone convivono con una condizione neurologica](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBTRkFROVlYYmY2aEVfOVhIRVR4RDlueWtIYXBNcl9TdjF3SFpuNmh5a0V6U1R0UHBaWElnbkFUaFhDZmpidldIcENhVWxHNmw3d2tfMzYzVkRManJSbjg5TS1LdkhXMnk3LU13dHcwWEpWYWRMRmlhd0t0c2xBZko3UmVwT2xYcFc0a0ROYUVWMFJZTU8zT1U5QTQ5UzdTNnJCaW81Y0l6XzJQeldoLVlmQklsSU5IYUMwWVFjUlNJdTZNOGxBdzN6c19NN2JGc3ZZQzJhbHE4OUl6NnBSNnlFUlNZZ0NGdGZXOVRjLUxkY0tDWTVMRmNiNTIwa3BSNzQyNTJ1cmxaaEViSUFUb3k5U0RFSUE1?oc=5)
 
 ---
 
@@ -238,19 +278,19 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Screening mammografico, diagnosi ancora più veloci grazie all’IA](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUNpeVo5RWd3OEhudlZIalQ4S194dWowSUJ3VkYzTTJoTDFmZ2hvOFkxS0dsWFBUVVJMWTF4cVdla2Ffc0FmSkNkckpod2t3YWVFNThvN2ZVdmd6djNrYkVnRTZEcE9mS2FSbzd6OVNsdFRuZ2xtWWFja0pmUkhlYWp1ZUJGNlFmd3F5WHRfLVJKLXR1Vmc1dUwtM1UxRkFEc1J1REpJUGtqNUJ6Z2FLQQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUNpeVo5RWd3OEhudlZIalQ4S194dWowSUJ3VkYzTTJoTDFmZ2hvOFkxS0dsWFBUVVJMWTF4cVdla2Ffc0FmSkNkckpod2t3YWVFNThvN2ZVdmd6djNrYkVnRTZEcE9mS2FSbzd6OVNsdFRuZ2xtWWFja0pmUkhlYWp1ZUJGNlFmd3F5WHRfLVJKLXR1Vmc1dUwtM1UxRkFEc1J1REpJUGtqNUJ6Z2FLQQ?oc=5)
-
----
-
 ### [« C’est vraiment rageant pour les malades » : une pétition pour accéder au nouveau traitement contre le cancer du pancréas - Le Parisien](https://news.google.com/rss/articles/CBMiowJBVV95cUxOZWRxNG1IZ0pfUVk1M0FvdFlfdlI5VEpNOWhGLVY5X1BFYVU5ODVYcTJUSFhLckhCS28xTEFncWVrUGNXdUIyRDR4QXdodnVIdVNUV3psYzQ2a2hTQTdOZFlrdGtfbnFld1dVcXBTME12djYwTGpFZVJGT2tXcEczdWhORkJLdTZCbHJYdEFOX2VNUlRWZnVoXzhFYzUwOGlsb0FERWE0dEhfazQ4cGxpbTRfNGh4NHFPUVBjYlNKMGMzbms2YUpsOGR0VllYalRhemp0MWlBRFR3Sy1HSk1PdjRuVlhIeW9DTjVjZFB3eGZfUEtwZDdyTG1kWWM3bDVrcTVhN2x6SHh3dFZQR0l2OUdFanZ2RzV6SHVsUWt5Z3BqYXM?oc=5)
 
 2026-07-20 <span class="news-indication-tag">cancer</span>
 
 來源：[Le Parisien](https://news.google.com/rss/articles/CBMiowJBVV95cUxOZWRxNG1IZ0pfUVk1M0FvdFlfdlI5VEpNOWhGLVY5X1BFYVU5ODVYcTJUSFhLckhCS28xTEFncWVrUGNXdUIyRDR4QXdodnVIdVNUV3psYzQ2a2hTQTdOZFlrdGtfbnFld1dVcXBTME12djYwTGpFZVJGT2tXcEczdWhORkJLdTZCbHJYdEFOX2VNUlRWZnVoXzhFYzUwOGlsb0FERWE0dEhfazQ4cGxpbTRfNGh4NHFPUVBjYlNKMGMzbms2YUpsOGR0VllYalRhemp0MWlBRFR3Sy1HSk1PdjRuVlhIeW9DTjVjZFB3eGZfUEtwZDdyTG1kWWM3bDVrcTVhN2x6SHh3dFZQR0l2OUdFanZ2RzV6SHVsUWt5Z3BqYXM?oc=5)
+
+---
+
+### [Giornata neurologia, Sin: "Benessere del cervello una sfida che riguarda tutti" - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
+
+2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
 
 ---
 
