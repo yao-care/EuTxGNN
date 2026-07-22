@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
+
+### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+
+---
+
+### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
+
+---
 
 ### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 
@@ -78,14 +94,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Bluthochdruck: Bis zu 80 Prozent der Schlaganfälle sind vermeidbar](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFRiYzNISG81RE5jajl3Q3JvVzRjYXNiZTlMa19LbVZEeDY4YUxxOGNYSndGVkJIWjJ3bU1TdEZCcEdiR2FpY2RyQlVFakRESnM1a1kzMWYzS19ZNWxCMS1TTThqNVNKT3U3bmVQUnpab0FXOExNRE9fVDdoVGZCNWhESGEtQUdYTEJfT0F1dmJjNF80VHpzVTlJUk9BNDFCNk5iMGVpdkRoY0FsM3dxSjBVLVVQQQ?oc=5)
-
----
-
 ### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
 2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
@@ -107,30 +115,6 @@ permalink: /news/orlistat/
 2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
 
 來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
-
----
-
-### [The Exercise Paradox: Why Workouts Don’t Guarantee Weight Loss](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">obesity</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
-
----
-
-### [Menopause beeinflusst Migräne, Schlaganfall und Parkinson - Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Migräne</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmt1eG5MNFptWkRPYnJmYW1KWEgzRzRHd05lMzAxSlllSmlVX0NGVFFuc0lRakNyR0RpLWlSdktJcVhDS0FGNXZuWHFWYlNLUHdCNDFfVzFNYXY4VExUejBQWDdKUkZEUGVSM1BKeUJlNkNBVmQ0OHZZalRtYmFlbi12enoxUWlONTgyN2dIMmU?oc=5)
-
----
-
-### [Ictus, un fattore molto diffuso moltiplica i rischi cerebrovascolari - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnFSLWQ0ei1EazJJTFFZQ0ZfV3hjOGRrb1VfVV9tM0poY2VJREsxUnQxM2xIMF94V1VBekk4YWlTTm9jZXJFMWpycWZnSlpZUzNRUnF4Zjl4X3hTVFV4b3VHdWxiSWt1a3pYcFBKeEZfcnUxNUtISTZTdnd4QVoyckVRaW1odno2bV8wS0J2MEQzRzBFWUF5MzZnQWhZajdic3ZnZk1WV0ppNFNiUkMyRjl5N0VIWWRf0gG-AUFVX3lxTE9sSmVlX0dSaDVHdXBEc3VoUlZEbWRiZHByNXluTldKRW5yVm1MbzctMWpGY0x3OUJTNUVCNDNPRGtEYkRnRTBkMzBQQVhnTUl5MlFtdGRTWVl2bXpLUlF5ZjdSVktTT0xYOE9fQU85ZDU4QWpnNXQ0RzdTN1E4ZjB3ZG90eksyWGpSRklIT08tT2oyRnk2RGFEVlNKMkg1clRXaXdZaVJXdTY1UE5pZVliWnI1cFNhbUczUWdBbkE?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnFSLWQ0ei1EazJJTFFZQ0ZfV3hjOGRrb1VfVV9tM0poY2VJREsxUnQxM2xIMF94V1VBekk4YWlTTm9jZXJFMWpycWZnSlpZUzNRUnF4Zjl4X3hTVFV4b3VHdWxiSWt1a3pYcFBKeEZfcnUxNUtISTZTdnd4QVoyckVRaW1odno2bV8wS0J2MEQzRzBFWUF5MzZnQWhZajdic3ZnZk1WV0ppNFNiUkMyRjl5N0VIWWRf0gG-AUFVX3lxTE9sSmVlX0dSaDVHdXBEc3VoUlZEbWRiZHByNXluTldKRW5yVm1MbzctMWpGY0x3OUJTNUVCNDNPRGtEYkRnRTBkMzBQQVhnTUl5MlFtdGRTWVl2bXpLUlF5ZjdSVktTT0xYOE9fQU85ZDU4QWpnNXQ0RzdTN1E4ZjB3ZG90eksyWGpSRklIT08tT2oyRnk2RGFEVlNKMkg1clRXaXdZaVJXdTY1UE5pZVliWnI1cFNhbUczUWdBbkE?oc=5)
 
 ---
 

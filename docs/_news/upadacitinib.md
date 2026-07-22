@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Why Ventolin vanished from Israeli pharmacies, leaving asthma patients scrambling](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
-2026-07-21 <span class="news-indication-tag">asthma</span>
+2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
+
+---
+
+### [Así es la nueva opción terapéutica para convivir con asma grave y pólipos nasales - La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+
+2026-07-22 <span class="news-indication-tag">asma</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
 
 ---
 

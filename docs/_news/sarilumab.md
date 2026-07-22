@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
+
+2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
+
+---
+
+### [Así es la nueva opción terapéutica para convivir con asma grave y pólipos nasales - La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+
+2026-07-22 <span class="news-indication-tag">asma</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+
+---
 
 ### [COPD: Hülsenfrüchte senken Entzündungsmarker um 7,4 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Why Ventolin vanished from Israeli pharmacies, leaving asthma patients scrambling](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
-
-2026-07-21 <span class="news-indication-tag">asthma</span>
-
-來源：[Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
-
----
-
-### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
+### [Colitis ulcerosa: Blinddarm produziert krankmachende Antikörper](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
 
 2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
 
 ---
 

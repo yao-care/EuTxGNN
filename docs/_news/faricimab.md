@@ -14,7 +14,7 @@ permalink: /news/faricimab/
 ---
 
 <p class="key-answer" data-question="Faricimab 有什麼相關新聞？">
-<strong>Faricimab</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Faricimab</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/faricimab/
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（36 則）
 
-### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Intervallfasten statt Kalorienzählen - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJtU3hISHRQdW0zYWxaQWpLYUNjdWxWV2NIanV3blJDbnpld2dNSklzVkhROEhwWVNwbmxUaU9RVFZFcS1fb2s5eU1vOGRrYkFDQkFsQ2p1M0pKTnFhWEJsTUxIdVZ2Q1U5ZFZ0TUluRmkxSlhESjA5aksyRGRwZVdqYXBYM3NxMm51S1BtZ3JpUkZ2bUtBaWlFUWZhUHM4S1VqWkVmNlk?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJtU3hISHRQdW0zYWxaQWpLYUNjdWxWV2NIanV3blJDbnpld2dNSklzVkhROEhwWVNwbmxUaU9RVFZFcS1fb2s5eU1vOGRrYkFDQkFsQ2p1M0pKTnFhWEJsTUxIdVZ2Q1U5ZFZ0TUluRmkxSlhESjA5aksyRGRwZVdqYXBYM3NxMm51S1BtZ3JpUkZ2bUtBaWlFUWZhUHM4S1VqWkVmNlk?oc=5)
+
+---
+
+### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tYZndJMjBLZ3BxcDNKY2o5VWJ1T0I1SHhKaDNMUEZwS0tOREszaVVNSGNhRUUxdDVCSDBsbmNZaGRoOVpocEFfMkF5TVNwSU9WVVliUS1OYXVWT2RsN3VGLWM4NWRQS0ZrQjVxWURvV2Y2RkF6WWM4enRxVm1tNnNXbmo2SEhqODBFWlBzOEl4TFctclY4WGJTanRKOTRNY0tFeDllTXhQaE13LXlETTBlaXZoLS1FN3hucmw2RGc?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Krebs</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tYZndJMjBLZ3BxcDNKY2o5VWJ1T0I1SHhKaDNMUEZwS0tOREszaVVNSGNhRUUxdDVCSDBsbmNZaGRoOVpocEFfMkF5TVNwSU9WVVliUS1OYXVWT2RsN3VGLWM4NWRQS0ZrQjVxWURvV2Y2RkF6WWM4enRxVm1tNnNXbmo2SEhqODBFWlBzOEl4TFctclY4WGJTanRKOTRNY0tFeDllTXhQaE13LXlETTBlaXZoLS1FN3hucmw2RGc?oc=5)
+
+---
+
+### [Tagestipp | 22.07.2026 - Diabetes und Hitze - Antenne Brandenburg](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV8tZ0JrdUhhQ2plTTNmM0NzSW9zN2ZFMDBLeVJ2UkhnTUhSSW1RNk9vOWxoWWR0N1B6ZU5DVVlaYTUzWnN5S1dscEdfbVAzNTNWZmFNclNXT1BBVWJVck16U09SWTVqNHY0a3JXMWE2X0pRNzMyMEd1ejZKWng3aGRiczhtMnhmekp6ODNLQ0I?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Antenne Brandenburg](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV8tZ0JrdUhhQ2plTTNmM0NzSW9zN2ZFMDBLeVJ2UkhnTUhSSW1RNk9vOWxoWWR0N1B6ZU5DVVlaYTUzWnN5S1dscEdfbVAzNTNWZmFNclNXT1BBVWJVck16U09SWTVqNHY0a3JXMWE2X0pRNzMyMEd1ejZKWng3aGRiczhtMnhmekp6ODNLQ0I?oc=5)
+
+---
+
+### [Así es la nueva opción terapéutica para convivir con asma grave y pólipos nasales - La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+
+2026-07-22 <span class="news-indication-tag">asma</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+
+---
+
+### [Vitamin D gegen Krebstherapie-Schäden: 87% berichten Besserung](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtrV1VyQTlvaFRoTUFCTVRZUFBPWnRubFNLbm1xYnZ5bnZMTVExSms1MnJKQ2RqRVhRZkJpb3hhMkRBTXFzWUlyNGM5cWZBNnlYOW81ZTdXMTFhRU9tTC1pYTZmZ0Y0ZkU3cjBhd01Welk1bWRrX09GMjdMdWJMZXZRQzBNYTBhUERxWTlySVdDNEtveG5vWWNHX0VSWWJ3UG9feVhtcVZPenhrU1E5Um81aUVCTU9fRlE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtrV1VyQTlvaFRoTUFCTVRZUFBPWnRubFNLbm1xYnZ5bnZMTVExSms1MnJKQ2RqRVhRZkJpb3hhMkRBTXFzWUlyNGM5cWZBNnlYOW81ZTdXMTFhRU9tTC1pYTZmZ0Y0ZkU3cjBhd01Welk1bWRrX09GMjdMdWJMZXZRQzBNYTBhUERxWTlySVdDNEtveG5vWWNHX0VSWWJ3UG9feVhtcVZPenhrU1E5Um81aUVCTU9fRlE?oc=5)
+
+---
+
+### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 ---
 
@@ -91,22 +139,6 @@ permalink: /news/faricimab/
 2026-07-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
-
----
-
-### [Why Ventolin vanished from Israeli pharmacies, leaving asthma patients scrambling](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
-
-2026-07-21 <span class="news-indication-tag">asthma</span>
-
-來源：[Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUmtONk51OFEzY2xfX20zWTZzVEQ2R2wyYWVMdnNxZkVqSVpLOGR4eGxLWU1TSU9PRmZBTk9iMDJ1aVV4TXdCdHNKVVJDeEpuRWZVdlBPSjQwZkN3bXJkVm40Zjl4X0x2LXc?oc=5)
-
----
-
-### [Vitamin D und Screening-Strategien: neue Daten zu Prostatakrebs und Strahlendermatitis - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Krebs</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
 
 ---
 
@@ -147,6 +179,14 @@ permalink: /news/faricimab/
 2026-07-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
+
+---
+
+### [Man diagnosed with cancer aged 28 shares three early signs he noticed](https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRBcHBPVVQ1YWVfcEdJaTIwdHA0bUlkd2RSYmVxdndxQ0l1M0IzWUV2NmlHVVktSXEwdldBUjY3R3BHMmRMbl9FbG5IeEdmYzQ1aWRXS0dYaDR1NjNzSHR0YUVhWExXRkl0azg5dlY0QV9iMlJsNHgzcmtmRmR1dHJzMnRiVWdXaGdzWDdlUmRmcmxsOVVMZndkcU1oUTlDZHBqYms1MW1XaktRQXBlenF3?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRBcHBPVVQ1YWVfcEdJaTIwdHA0bUlkd2RSYmVxdndxQ0l1M0IzWUV2NmlHVVktSXEwdldBUjY3R3BHMmRMbl9FbG5IeEdmYzQ1aWRXS0dYaDR1NjNzSHR0YUVhWExXRkl0azg5dlY0QV9iMlJsNHgzcmtmRmR1dHJzMnRiVWdXaGdzWDdlUmRmcmxsOVVMZndkcU1oUTlDZHBqYms1MW1XaktRQXBlenF3?oc=5)
 
 ---
 
@@ -198,6 +238,14 @@ permalink: /news/faricimab/
 
 ---
 
+### [My excruciating headache was dismissed - now I have just months to live at 34 - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjJWMEkwM2lRNU9hSmpPLW9YZHV2VHlHWERmaXkzbjlNVU52cWtkcVVtaVJlU0hQcWJwQmlDTkRqbE9ZbHR1ZGZuc05rN3ZVcGo2ZHhXVDVNc0x1N09SQXNOUWd0a29wNXBZR1NNdGZ5bU5iLTdhanpSWTB2WmEyN3k4NG5lVDdtZEhWVThGUFh1UQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjJWMEkwM2lRNU9hSmpPLW9YZHV2VHlHWERmaXkzbjlNVU52cWtkcVVtaVJlU0hQcWJwQmlDTkRqbE9ZbHR1ZGZuc05rN3ZVcGo2ZHhXVDVNc0x1N09SQXNOUWd0a29wNXBZR1NNdGZ5bU5iLTdhanpSWTB2WmEyN3k4NG5lVDdtZEhWVThGUFh1UQ?oc=5)
+
+---
+
 ### [Le Viagra pourrait être efficace contre la progression du cancer, selon une étude israélienne](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTExVUzNBVnVNTUpuZ1B1dEtMXzhHQnJGeklmWXVqQW9IM0pnMDU5UUQ2QmxRWXdkaGc3T1RXUDhHM1BKamt3cm1FSnVBeVg3cFNCdEd1cWpLUkVJbG0wWUdQS0pjVnNpRXJVbjNUb2x4c3pZbVR5UUpoZjVNRmtQamdVallmMmc0Y09aYjhjVTdhX1ZGWGFOc0R2eDVmXzh1ODVJdXB5UFI5YmttcW8wd1pqaEVNTTQwaXpKdkFIZG5XMTcwdG44akpCMjk?oc=5)
 
 2026-07-21 <span class="news-indication-tag">cancer</span>
@@ -238,14 +286,6 @@ permalink: /news/faricimab/
 
 ---
 
-### [Scoperto il "ponte invisibile" tra nervi e cancro - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJtQzZ2cGZJQ3dyVWtlN2ZzUE05ME5PNXNEcndyU0hwanN2a3F0U19FeGVmYkIzbnE3UkR3Si1wMGpxVldqVnpOQzdvWTR0ODQ4eDFscEEwYTl3X054dG8xMkFGenc4ZjZfNkFRMG4zZnJUdnAweWNHdDMzTUw2MUxScmZmem11Uk1lb0I2SWxaZllkTjZhSkg0cDVwY1U5TkJ6N0lnQnRUUC1Mcnh4RjNGRXlDanNkV2Ew0gHAAUFVX3lxTFBwZGhoWTBpaXJoVXdmMmdHSnd2SjdtTDlQTGlDa2xCOV9mNjZPZG5MT2NSQVk1eUtYTGlQVG5ScGdoZ1FoUVlwdnN0UlpRZEJQWVdoVU4yS0ZfRU5zYXpxVlNheV9faG9tc0d6MW1wX1lLN0ExUmJGd251SFR6TGRUTk5vcHhubWVLd3A5ZHBCVGE0Vl9aQ0dEUk0zZFNXZHhCUnd5S2FWandwM1A5aHB1SGlkTy1ZUGZqYnlDaVJrUA?oc=5)
-
-2026-07-20 <span class="news-indication-tag">cancro</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJtQzZ2cGZJQ3dyVWtlN2ZzUE05ME5PNXNEcndyU0hwanN2a3F0U19FeGVmYkIzbnE3UkR3Si1wMGpxVldqVnpOQzdvWTR0ODQ4eDFscEEwYTl3X054dG8xMkFGenc4ZjZfNkFRMG4zZnJUdnAweWNHdDMzTUw2MUxScmZmem11Uk1lb0I2SWxaZllkTjZhSkg0cDVwY1U5TkJ6N0lnQnRUUC1Mcnh4RjNGRXlDanNkV2Ew0gHAAUFVX3lxTFBwZGhoWTBpaXJoVXdmMmdHSnd2SjdtTDlQTGlDa2xCOV9mNjZPZG5MT2NSQVk1eUtYTGlQVG5ScGdoZ1FoUVlwdnN0UlpRZEJQWVdoVU4yS0ZfRU5zYXpxVlNheV9faG9tc0d6MW1wX1lLN0ExUmJGd251SFR6TGRUTk5vcHhubWVLd3A5ZHBCVGE0Vl9aQ0dEUk0zZFNXZHhCUnd5S2FWandwM1A5aHB1SGlkTy1ZUGZqYnlDaVJrUA?oc=5)
-
----
-
 ### [Neue Studie: Junge Menschen altern schneller und erkranken früher an Krebs - Der Bund](https://news.google.com/rss/articles/CBMilAFBVV95cUxNV3VfZjFvbk90U1hWRWZ5anJGN2hmbDctX0pXYlYxTmtqRFZuaFMwaTc4MXdQWkMyS3ItZ281RUFVUkpnTHd6TWN3Rmt6RDdSaUhsR0JCRG5DeEdMR1lBbzZ5YnZjUDJUMy02cmpJWDZ2TEthMzVaMWY2d1llSEkyZ3MwaHVKbjhJbjlUaElkYWRSdllX?oc=5)
 
 2026-07-20 <span class="news-indication-tag">Krebs</span>
@@ -254,11 +294,11 @@ permalink: /news/faricimab/
 
 ---
 
-### [Care worker loses job offer because she has cancer - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUZXaXRpRDYtZXkxV2gwUWtuSEQ5V19oN0FHY2dVNkdONXdoLTNnMXFnYm02eVpvTUl4SGN1MDllWDhubDZTMFpSbDFpakRENUp3c21VYlJsNlRCVkNtNzVRXzQycHhyc3FHRWs5TzU4TVFJenBUejdmeElZRVhlMHZ0ODZtbEU?oc=5)
+### [As a prostate cancer surgeon, this is what I wish every man knew about the disease - The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2I3dkl4WlZoRks3djJpY3A3UW9GV2NzWEt3Q25EYVpaMXpDWE1TbXIwWnlQX2xsbk9SbXB5UDJmcVFFdndtZm03bVhhZW5LSHNUdU1hQlN1ZFBOYmwxSnlLbXpSMk8za1dKUktwU3FaOTlnVVhvVnc0cjBFREViX1hOcFRuZTMwVjU4TjJaTEZEbG9WcEJwWGY3TUJmMEZOWURoTm9fMTJFcWtnM3dTdjRzUQ?oc=5)
 
 2026-07-20 <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUZXaXRpRDYtZXkxV2gwUWtuSEQ5V19oN0FHY2dVNkdONXdoLTNnMXFnYm02eVpvTUl4SGN1MDllWDhubDZTMFpSbDFpakRENUp3c21VYlJsNlRCVkNtNzVRXzQycHhyc3FHRWs5TzU4TVFJenBUejdmeElZRVhlMHZ0ODZtbEU?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2I3dkl4WlZoRks3djJpY3A3UW9GV2NzWEt3Q25EYVpaMXpDWE1TbXIwWnlQX2xsbk9SbXB5UDJmcVFFdndtZm03bVhhZW5LSHNUdU1hQlN1ZFBOYmwxSnlLbXpSMk8za1dKUktwU3FaOTlnVVhvVnc0cjBFREViX1hOcFRuZTMwVjU4TjJaTEZEbG9WcEJwWGY3TUJmMEZOWURoTm9fMTJFcWtnM3dTdjRzUQ?oc=5)
 
 ---
 
@@ -299,22 +339,6 @@ permalink: /news/faricimab/
 2026-07-20 <span class="news-indication-tag">asma</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
-
----
-
-### [Oui, il est possible de guérir du diabète de type 2 - National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
-
-2026-07-20 <span class="news-indication-tag">diabète</span>
-
-來源：[National Geographic](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFZldU0tSW9CamFZREhZVkVhN0Y4VTNoYjNoc2prWkJjcXA0WFgxNWNjNnExZERPaTA0VGYxbnJaQ2VfT1ZXeTh0WWhJYXc2eTBBNHMzSGdNMTktUkR5ak5pTmJFRm5qc3NfcUNReG9oZ3ZlSWNtU09rMUVUN2VMM2Z2RW1jbnJILUFnYndzLTFZbUx5OXFKTzNGQkhNTWVIZG1sbTI1dER6SnhDMUh4SWxFQ3ZUZmdiR3VOM2JGazg2azg?oc=5)
-
----
-
-### [HPV-Impfung: Mehr Schutz vor Krebs – Erste Erfolge im Kreis Olpe](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUdEUzRBUXBQenZzQl9SclR2NXp1ZmJicGlJeFhjelFubzNmeEE5RExkbmhrQU8ySlhUSjZ5SVhKZXUzd0pHVDlxNHdPNWpCRkczNElJYXZUR0ZMbFppb0U1WThJRHlQS2oxYmk3QWo1QmNQWVdaSHJCdWpBbFZ2TkNJbEJLNzZ0dHY0U3Q2LV9qRXBCQ0g3cVdGcjBUSE5iUlZmcHJfSkE?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Krebs</span>
-
-來源：[LokalPlus](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUdEUzRBUXBQenZzQl9SclR2NXp1ZmJicGlJeFhjelFubzNmeEE5RExkbmhrQU8ySlhUSjZ5SVhKZXUzd0pHVDlxNHdPNWpCRkczNElJYXZUR0ZMbFppb0U1WThJRHlQS2oxYmk3QWo1QmNQWVdaSHJCdWpBbFZ2TkNJbEJLNzZ0dHY0U3Q2LV9qRXBCQ0g3cVdGcjBUSE5iUlZmcHJfSkE?oc=5)
 
 ---
 

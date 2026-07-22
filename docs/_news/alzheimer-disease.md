@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [What top brain experts do to protect their memory - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjVHbHRMNUlORnV3VXJOZmFCc3YxcVVEdDdlQzUyUjJYSHQxZDNldWJfeDBtRXJlSk85WTY1ZkszbGFlRjhES3FnUDVWd00tNkM2N0FidVVQMlJKam9sSE9ZbEZTb2ZwaGtGdThfZVFpZjYtQW5WX1hEQk1hRVNLNzR4MlNzdmMzUjZzOGFhdzVTOVBQSlJIZWVQMmVBSW5vMnNVcnN3?oc=5)
+
+2026-07-22
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjVHbHRMNUlORnV3VXJOZmFCc3YxcVVEdDdlQzUyUjJYSHQxZDNldWJfeDBtRXJlSk85WTY1ZkszbGFlRjhES3FnUDVWd00tNkM2N0FidVVQMlJKam9sSE9ZbEZTb2ZwaGtGdThfZVFpZjYtQW5WX1hEQk1hRVNLNzR4MlNzdmMzUjZzOGFhdzVTOVBQSlJIZWVQMmVBSW5vMnNVcnN3?oc=5)
+
+---
 
 ### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/asenapine-maleate/
 ---
 
 <p class="key-answer" data-question="Asenapine Maleate 有什麼相關新聞？">
-<strong>Asenapine Maleate</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Asenapine Maleate</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,85 @@ permalink: /news/asenapine-maleate/
 <p><a href="{{ '/drugs/asenapine-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（33 則）
 
-### [Health worker monitored for Ebola in London hospital after working in DRC - The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2pTdTN5cFpRNUNnYnNVX0NMc0lhVHRzdmx2UXBZeDVKNjltMVJvLTRuVnN6ZlhWSF9Rak5hUHlQY1p1TUc4VUtVZERuWjRaRmllS1pKaV9NdlAyWUs0bW9GcWpSUnBUZ1l3WFRFbDdqS0pNaU5UN3QwM19McXBKb0dMLTFNOEx3Y25lZ2VFS0c2WEZZWV90UkNOQkZhUkItcmNvRG42Ylh0MGNDOFRDQk8tUXJpelFxRS1sdXhyYmVkV1U?oc=5)
+### [„Klug entscheiden“-Empfehlung zu Vorhofflimmern: Das steht drin](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkYxLWVsNTZHRTZYNXF5a1FEYW9pa1pVS3JGdi1nUHV1anJkbVJSWUZ1UkVkaGluT09LcFpmR1lWN2VlWVV4UUs0dWZ0aW42N0s2SE4yd2FMVGVsMXAxQUJ0S0dvdXEtWEsyeXZSM3ZzY0Q2cW03Z3N4OF9XQW1aS2xsVURyMU9LWE1KYUc1VUFLVHg3OGxubi1VU0pUN3lCOU9nalBWZEhaWFplZ3c?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkYxLWVsNTZHRTZYNXF5a1FEYW9pa1pVS3JGdi1nUHV1anJkbVJSWUZ1UkVkaGluT09LcFpmR1lWN2VlWVV4UUs0dWZ0aW42N0s2SE4yd2FMVGVsMXAxQUJ0S0dvdXEtWEsyeXZSM3ZzY0Q2cW03Z3N4OF9XQW1aS2xsVURyMU9LWE1KYUc1VUFLVHg3OGxubi1VU0pUN3lCOU9nalBWZEhaWFplZ3c?oc=5)
+
+---
+
+### [Tomar hasta cinco tazas de café al día es seguro para el corazón](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlduQ0tjY3NJNWRlOXZOTVRfOE9fQ3k5bXc5X0lIeXE3azdwTXJ4dDB2WENXR3Fwa3ljOGZlLU1abnctREhTRFpDVkJ4QXdjTENSRFNkRnVMSk1FblJtWjhTUVpta09maUduUGo1cnpiczVJT3VhZHBHeWtVdEFEUU15SGd6NW1JZzlhM0NqaUhZdVk5enBwNmgzamJEWnNIb1E?oc=5)
+
+2026-07-22 <span class="news-indication-tag">AF</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlduQ0tjY3NJNWRlOXZOTVRfOE9fQ3k5bXc5X0lIeXE3azdwTXJ4dDB2WENXR3Fwa3ljOGZlLU1abnctREhTRFpDVkJ4QXdjTENSRFNkRnVMSk1FblJtWjhTUVpta09maUduUGo1cnpiczVJT3VhZHBHeWtVdEFEUU15SGd6NW1JZzlhM0NqaUhZdVk5enBwNmgzamJEWnNIb1E?oc=5)
+
+---
+
+### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
+
+2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
+
+---
+
+### [Winterberg: Aktion „3000 Schritte für Gesundheit und Gemeinschaft“ - Brilon totallokal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3M2QWJUWjFtNDZvVDVCd1FtUDRfNkZwTEtXSmJVWE5ka0V0UkxKV0d5ajZuYlZjSXpGYU9HeXpZZ2hqaHhQQWhvZk00SWpkZVRhd29pUVRJd0I5RTMzeEx1cnRjdzJ6c0RVOE5ZeGdjYV9RTjZTdUVDWXFxVlU3X2dIMWx0V2tVQVo2SWh6bHk5eFdfUmhtcnpoTV9wOHdUNXRxYkJyN2g?oc=5)
+
+2026-07-22 <span class="news-indication-tag">AF</span>
+
+來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3M2QWJUWjFtNDZvVDVCd1FtUDRfNkZwTEtXSmJVWE5ka0V0UkxKV0d5ajZuYlZjSXpGYU9HeXpZZ2hqaHhQQWhvZk00SWpkZVRhd29pUVRJd0I5RTMzeEx1cnRjdzJ6c0RVOE5ZeGdjYV9RTjZTdUVDWXFxVlU3X2dIMWx0V2tVQVo2SWh6bHk5eFdfUmhtcnpoTV9wOHdUNXRxYkJyN2g?oc=5)
+
+---
+
+### [Darm-Hirn-Achse: Antientzündliche Ernährung senkt Demenzrisiko um 29%](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFREWHUtNnUtbkFxOGlrcWE5OFAteWZ6Uk9MZlctT3FTd2w3RkE3OC1tcEg5cWp0cmJYaHRIWWhza3pqOHJJOTdiZmFnOFJPYVV5UkYwZ2NnSzIzOU9DcXF2WnAzU090VTNOTExoOWhjT3pqaGdYd0ZnbnlrRzhESWJMQ2llY0FUZzJZeTBDMVJRMFV1c2U4bGxEZy0wcXVRRGU4aEI0TGxWOHNzYU55RXpjc3oxVXc4RkE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFREWHUtNnUtbkFxOGlrcWE5OFAteWZ6Uk9MZlctT3FTd2w3RkE3OC1tcEg5cWp0cmJYaHRIWWhza3pqOHJJOTdiZmFnOFJPYVV5UkYwZ2NnSzIzOU9DcXF2WnAzU090VTNOTExoOWhjT3pqaGdYd0ZnbnlrRzhESWJMQ2llY0FUZzJZeTBDMVJRMFV1c2U4bGxEZy0wcXVRRGU4aEI0TGxWOHNzYU55RXpjc3oxVXc4RkE?oc=5)
+
+---
+
+### [Blutdruck-Therapie: Sartane senken Abbruchrisiko um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+
+---
+
+### [UK humanitarian worker monitored for Ebola in London hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41YjRVSlhyUjNPbUVBWFdfMUp1bm5OYkpxZ1JCQkxGS04yV3o3Q1lBYWNfNVNrRTJRT0pvWXE5dzRwU1Nsc2FDZXBnZ2tXTWk1WTZPalRIR0JUVDFp?oc=5)
+
+2026-07-22 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41YjRVSlhyUjNPbUVBWFdfMUp1bm5OYkpxZ1JCQkxGS04yV3o3Q1lBYWNfNVNrRTJRT0pvWXE5dzRwU1Nsc2FDZXBnZ2tXTWk1WTZPalRIR0JUVDFp?oc=5)
+
+---
+
+### [Tick bites are on the rise in the US and UK. Here’s how to protect yourself - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTlsUGttZEZISzZkVHZUdThjVzNWbmZOZFlGWXlMX2JoRkhJYWQwUTNjRkZYbEJVaWRzRkp3eXV5NDhxOFd6TTU1T1FJYUJhTWFNV3A2czJObFVDamE3SFRLQ3FEOE51WkNTSjRXOHRfS09Yc2ZzSkFxSW05LV9qVmxvVDdkQ0lpOG9F?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTlsUGttZEZISzZkVHZUdThjVzNWbmZOZFlGWXlMX2JoRkhJYWQwUTNjRkZYbEJVaWRzRkp3eXV5NDhxOFd6TTU1T1FJYUJhTWFNV3A2czJObFVDamE3SFRLQ3FEOE51WkNTSjRXOHRfS09Yc2ZzSkFxSW05LV9qVmxvVDdkQ0lpOG9F?oc=5)
+
+---
+
+### [Vitamin D: Stiftung Warentest warnt vor Überdosierung in Präparaten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1BYZ1BxODBYTTM4VFJIb2ZZZmVRY3BmTGcwdThxV3VfNXVoWnRHcXZEMkRtR0hqWUMybUVIV3FIbU1lYkluclM1a2lXZHJnb04xOFVCQnNmMUJOY2RUV1RsVGdvUWZLZ3c2d2RubkVNMGVXWWVpNlNvZzhaYWlDeTJKR2UwWDUxUlFLUTRtdm1uMVVxbFA5NHBLbjNuYXZpRlJtWDEzbm9Hd2g4Qk8zR3Q3eFRYMUl6?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1BYZ1BxODBYTTM4VFJIb2ZZZmVRY3BmTGcwdThxV3VfNXVoWnRHcXZEMkRtR0hqWUMybUVIV3FIbU1lYkluclM1a2lXZHJnb04xOFVCQnNmMUJOY2RUV1RsVGdvUWZLZ3c2d2RubkVNMGVXWWVpNlNvZzhaYWlDeTJKR2UwWDUxUlFLUTRtdm1uMVVxbFA5NHBLbjNuYXZpRlJtWDEzbm9Hd2g4Qk8zR3Q3eFRYMUl6?oc=5)
+
+---
+
+### [US funding cuts deal blow to global HIV treatment: Report - Al Jazeera](https://news.google.com/rss/articles/CBMingFBVV95cUxOdGdzYnc0NGsyUVdURHVZc1dTZmlzdDBhWFVyWHIyQlFLbDU5N2RvZGQ2aGNHMW9RRVp0ckJldk16NVB6cmQzRUtySG85X1lXOVBMekRodmliaGFoYUp2LXF4d1llNVM0d3FHQkZGdFJ3T3czQnBFR2VsY2NXUEc2UVRBSGNWZXB1VjZjTW1YRkZGLXRlYkR3TzVGS21Md9IBowFBVV95cUxOeVBQZDJiclhmQXdiX2dTZFlMWS0wMV96dlNOV2xuOENHMHAzaUowcjVka3c4UmJLbmdQRzNQd2xOR3EtckV5ekcyeFBocG9LVkVaMmdhMnpQbjBmNzVuOTZOWFpReHNsT0lTYU1CR2ViY3lQSnM0bVpDOUhqV0s1NU9mNnVvby13bHlvaTNLbk5aTEtFYjFTQXdtNXVPb0E2MzlZ?oc=5)
 
 2026-07-21 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2pTdTN5cFpRNUNnYnNVX0NMc0lhVHRzdmx2UXBZeDVKNjltMVJvLTRuVnN6ZlhWSF9Rak5hUHlQY1p1TUc4VUtVZERuWjRaRmllS1pKaV9NdlAyWUs0bW9GcWpSUnBUZ1l3WFRFbDdqS0pNaU5UN3QwM19McXBKb0dMLTFNOEx3Y25lZ2VFS0c2WEZZWV90UkNOQkZhUkItcmNvRG42Ylh0MGNDOFRDQk8tUXJpelFxRS1sdXhyYmVkV1U?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMingFBVV95cUxOdGdzYnc0NGsyUVdURHVZc1dTZmlzdDBhWFVyWHIyQlFLbDU5N2RvZGQ2aGNHMW9RRVp0ckJldk16NVB6cmQzRUtySG85X1lXOVBMekRodmliaGFoYUp2LXF4d1llNVM0d3FHQkZGdFJ3T3czQnBFR2VsY2NXUEc2UVRBSGNWZXB1VjZjTW1YRkZGLXRlYkR3TzVGS21Md9IBowFBVV95cUxOeVBQZDJiclhmQXdiX2dTZFlMWS0wMV96dlNOV2xuOENHMHAzaUowcjVka3c4UmJLbmdQRzNQd2xOR3EtckV5ekcyeFBocG9LVkVaMmdhMnpQbjBmNzVuOTZOWFpReHNsT0lTYU1CR2ViY3lQSnM0bVpDOUhqV0s1NU9mNnVvby13bHlvaTNLbk5aTEtFYjFTQXdtNXVPb0E2MzlZ?oc=5)
 
 ---
 
@@ -78,33 +150,9 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Gefahr von Nierenschäden: Stiftung Warentest warnt vor diesen Vitamin-D-Mitteln](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa1E2M0g5QTZhaXlJQ29RN3JUZTJ4TVgzUUlsMHc0aF85NURSVlFXenhyLWNQS1JZQXBtNjU1ajFmNDNiZU5hUzBJaUNfQ3RRcVhnX3ZKUW4xcTZybFduVEE2eEdXVjRDd3R0eTFFNmgxRlVPRVltR1ZOT0xSX3RjUy1CT3pCNDFYZGNneERPM0VxeWFjQUFQaW9iaGZFTjhYNTBxWVNCTVJKY05CYzdVUThjanlRc2hkNXFUekVZazZDYlh2aDlnU3luUlNITWJDOWY3WThDZEl4Zlp5?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span>
-
-來源：[Joyn](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa1E2M0g5QTZhaXlJQ29RN3JUZTJ4TVgzUUlsMHc0aF85NURSVlFXenhyLWNQS1JZQXBtNjU1ajFmNDNiZU5hUzBJaUNfQ3RRcVhnX3ZKUW4xcTZybFduVEE2eEdXVjRDd3R0eTFFNmgxRlVPRVltR1ZOT0xSX3RjUy1CT3pCNDFYZGNneERPM0VxeWFjQUFQaW9iaGZFTjhYNTBxWVNCTVJKY05CYzdVUThjanlRc2hkNXFUekVZazZDYlh2aDlnU3luUlNITWJDOWY3WThDZEl4Zlp5?oc=5)
-
----
-
-### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
-
----
-
-### [Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world - The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
-
-2026-07-21 <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
-
----
-
 ### [Demenz-Prävention: 3.000 Schritte täglich können Alzheimer verlangsamen - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
 
-2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
 
@@ -142,19 +190,11 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [¿Cuántas tazas de café al día son demasiadas? Esto es lo que dice la ciencia - La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXZqU1NHcnBBS1c4S3dnck9DZlBSYzQ2MWpvM3BFZXNnejhGdjhWbFd6ZGlaTzRFcGJkYVozUE9KMjZCRVZ1VUdLc25HVWtXVGtQaUxCUzJBcmVDRWlZWEI2emFvaGw5QmZqajVtb0EyT2kxeks2QTlDNGx0ZUdzY2tCdGZ0a2RhNWpZQk5EbnNIR2tnN0VZNVFhbzh5N042dEJQMGNrX2JoaUliaFVIa3hoMEQwQ1ZTWURRVXN1TdIBxAFBVV95cUxPSndSb1JQMkdZV25SeEpuLVFuZUtjaFJVX3dQWWdDclRJa3lzV1JvYURMOFNXQnVpOXN5OEJiTERaSEp2U2R6aGp3dmZjT1pQSmNmRDNzVkZGa2YwVkdPMm9sQmJYQlRjWGJjNVR3MjduZW1zdl9UMkl4SEpZNzBjQ0owMUppSWtMc1RsUXJyd2gzQk1yWFBKczgxalVtSF85dlVRamx0TTJENFA1aW5nclpmVWNJTGRya1ZWX2Nla2tKZllN?oc=5)
+### [My excruciating headache was dismissed - now I have just months to live at 34 - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjJWMEkwM2lRNU9hSmpPLW9YZHV2VHlHWERmaXkzbjlNVU52cWtkcVVtaVJlU0hQcWJwQmlDTkRqbE9ZbHR1ZGZuc05rN3ZVcGo2ZHhXVDVNc0x1N09SQXNOUWd0a29wNXBZR1NNdGZ5bU5iLTdhanpSWTB2WmEyN3k4NG5lVDdtZEhWVThGUFh1UQ?oc=5)
 
-2026-07-21 <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXZqU1NHcnBBS1c4S3dnck9DZlBSYzQ2MWpvM3BFZXNnejhGdjhWbFd6ZGlaTzRFcGJkYVozUE9KMjZCRVZ1VUdLc25HVWtXVGtQaUxCUzJBcmVDRWlZWEI2emFvaGw5QmZqajVtb0EyT2kxeks2QTlDNGx0ZUdzY2tCdGZ0a2RhNWpZQk5EbnNIR2tnN0VZNVFhbzh5N042dEJQMGNrX2JoaUliaFVIa3hoMEQwQ1ZTWURRVXN1TdIBxAFBVV95cUxPSndSb1JQMkdZV25SeEpuLVFuZUtjaFJVX3dQWWdDclRJa3lzV1JvYURMOFNXQnVpOXN5OEJiTERaSEp2U2R6aGp3dmZjT1pQSmNmRDNzVkZGa2YwVkdPMm9sQmJYQlRjWGJjNVR3MjduZW1zdl9UMkl4SEpZNzBjQ0owMUppSWtMc1RsUXJyd2gzQk1yWFBKczgxalVtSF85dlVRamx0TTJENFA1aW5nclpmVWNJTGRya1ZWX2Nla2tKZllN?oc=5)
-
----
-
-### [Thousands raised in honour of inspirational Teesside teacher after MND diagnosis - Teesside Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWktcTh2Y2JiejNCWmh2ZndBajFfdk1XR0F3NTlIWHBrbUFGbThkdk5yOUdmYy1IUEhMZ014MkNXeVVIa3BOSS1kRDBBcjllclZZYWhrbUpJWkFrQzU0NWpHN0pYdHo5SHFWZDlHMzkwWUpLOU5BdHlZMXN0bEdZbmlOcWtZUFhNdkYteVp4VUZ5SzB5RC1IZW9uUV9OWkI4Uk5pc1Vn?oc=5)
-
-2026-07-21 <span class="news-indication-tag">AF</span>
-
-來源：[Teesside Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWktcTh2Y2JiejNCWmh2ZndBajFfdk1XR0F3NTlIWHBrbUFGbThkdk5yOUdmYy1IUEhMZ014MkNXeVVIa3BOSS1kRDBBcjllclZZYWhrbUpJWkFrQzU0NWpHN0pYdHo5SHFWZDlHMzkwWUpLOU5BdHlZMXN0bEdZbmlOcWtZUFhNdkYteVp4VUZ5SzB5RC1IZW9uUV9OWkI4Uk5pc1Vn?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTjJWMEkwM2lRNU9hSmpPLW9YZHV2VHlHWERmaXkzbjlNVU52cWtkcVVtaVJlU0hQcWJwQmlDTkRqbE9ZbHR1ZGZuc05rN3ZVcGo2ZHhXVDVNc0x1N09SQXNOUWd0a29wNXBZR1NNdGZ5bU5iLTdhanpSWTB2WmEyN3k4NG5lVDdtZEhWVThGUFh1UQ?oc=5)
 
 ---
 
@@ -166,6 +206,14 @@ permalink: /news/asenapine-maleate/
 
 ---
 
+### [Campaña de prevención del Virus del Nilo - Onda Mencía Radio](https://news.google.com/rss/articles/CBMifkFVX3lxTE16Ty1RbGJac2lDbWhLYXFNOXA4WWtURExHT0t0MVd6LU1WMVJvb1ZyU3hOVVY1WEZqd0xpMnZXWUR0Wl84d3YzWVo5SG11ejVRcHByZUYwUERIR2o5dDg5bHJXRWlReF9ZN1dybnEwN0pHcWZKZ3E4enViN0dZdw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">AF</span>
+
+來源：[Onda Mencía Radio](https://news.google.com/rss/articles/CBMifkFVX3lxTE16Ty1RbGJac2lDbWhLYXFNOXA4WWtURExHT0t0MVd6LU1WMVJvb1ZyU3hOVVY1WEZqd0xpMnZXWUR0Wl84d3YzWVo5SG11ejVRcHByZUYwUERIR2o5dDg5bHJXRWlReF9ZN1dybnEwN0pHcWZKZ3E4enViN0dZdw?oc=5)
+
+---
+
 ### [Alzheimer, l'ipotesi affascinante (e finora senza basi scientifiche) che alcuni pazienti abbiano un «risveglio» - Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPNmNxUUdvZ3dkZXZTaFdVQldDTlJhVnRyTGlDU2tBeXpDdzIyX3I2V2hnakpIZVU1WFB1eEFEb3p2TFJLSVgycTk3dTd1WUpIZ2s3d1liMmJJWHVZcmM0TnZDZUtiaHVEY2M1bV9fblUyMllPbFdXSm92Y1pibE1kaTh6allQZXpaT19zQm83V0VyU1BGeTAxdjgwSm9WbXdkQk5uY2kwaFNhTFg4aS1STkhzMlpXNGs3bU5tT1RtR3dVNEdVRG81NVlqNmdqOXN1TTZBWTBtMkJJaUVWbGZ6QU9DYlBJTElaYWhBM2dkbzk0bjVlbEc1bkdHTEI5ZkE1LThDRzJVMVY0MWxRQzEyeG5pYWJxenROeXN5dzhxMDA1NGYycEVPVUtfUWtzMWvSAbQCQVVfeXFMTm0tSHRhWjl6U2cxOGZzTkkwVDVTbmJzLXdMUmI2N3hsVU1aZVNmWnJZdzRjWFRGLXNYWVhxWVE5R3ZHSkdVNmFWdkxzcWx3cjRPcVJiaE8xRjMxVUItOGVXOXA3WEQxVnU2d3RCaC1BNXpxWU40bFdZNjd4WTZYcjB5NnlyVldfVDV4alhNTC1CMG1GeHpNWndoUEJNODZUXy01djdZQktmNWx1UWwtWGxtWE00Mng2dF9rWGhqNnZmdXE3bWROLURHUkg3Z1B3S3ZCZkJYME1lVGh1M3doYmtCcG5HcGt1U2NuRWR6QzBTRUF0LXF1VUJRVk1OaG9yWWJrTkpMRWF6elRQY2hXM3ZpZEg2MGtvM1BRakVGYWhtZlFiODUwRldFc21wOWhIamJRbTQ?oc=5)
 
 2026-07-21 <span class="news-indication-tag">AF</span>
@@ -174,19 +222,19 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Dr. García Borreguero, experto en sueño: «Dormir 6 horas te deja igual que si bebieras» - The Objective](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEZpMUU5QXJZX01mNXUtRWRSTjh3amtwMVZFYjAyWFJId3NFdndYTm5xOHBUdWlxNTBqOGw0TXVpRnRCUmdOZnFjMkRwa1NlWExhVG02cjVWX1hmckVob2JTR1RGWUVJN3l5bzdjRG9FMXIwenNHVTNuMk44UmZoQmE1T2c0SVlVR1k1RzJPNEQ4cVd3WTZwc3AzTTdQRzJIYlVaSU9LMk56UGdUWF9PSTN4RF9xNFBrdy02ZEY2TldvVTlqbERoQdIBzgFBVV95cUxNWUhnMU1OVmxGd0V0YVRsLVRBanU4V2lrNHVQZ0pIT2pqQjZXZkhERV8wX2NyOWM2ZXNyRFdHb2RnX0o1RWJZX0Vzb3JVV1dva3Z6anF2UnJoSnJ1VlhTTFNHcHNRTkcxWVdaazhKTU1wYk1ySml6d3pRVnRqWi1oRGpvZnQ5endtZTJVRkk3Zi1MLXhFSGhGQzdYdEVoZHVGbDMwcnFvSDZZbFlJWFR5azBjZ3BfaHk2VTdIM01ha0lMNXlpSUt6Wll5eEhqUQ?oc=5)
+### [Colitis ulcerosa: Blinddarm produziert krankmachende Antikörper](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
 
-2026-07-21 <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[The Objective](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEZpMUU5QXJZX01mNXUtRWRSTjh3amtwMVZFYjAyWFJId3NFdndYTm5xOHBUdWlxNTBqOGw0TXVpRnRCUmdOZnFjMkRwa1NlWExhVG02cjVWX1hmckVob2JTR1RGWUVJN3l5bzdjRG9FMXIwenNHVTNuMk44UmZoQmE1T2c0SVlVR1k1RzJPNEQ4cVd3WTZwc3AzTTdQRzJIYlVaSU9LMk56UGdUWF9PSTN4RF9xNFBrdy02ZEY2TldvVTlqbERoQdIBzgFBVV95cUxNWUhnMU1OVmxGd0V0YVRsLVRBanU4V2lrNHVQZ0pIT2pqQjZXZkhERV8wX2NyOWM2ZXNyRFdHb2RnX0o1RWJZX0Vzb3JVV1dva3Z6anF2UnJoSnJ1VlhTTFNHcHNRTkcxWVdaazhKTU1wYk1ySml6d3pRVnRqWi1oRGpvZnQ5endtZTJVRkk3Zi1MLXhFSGhGQzdYdEVoZHVGbDMwcnFvSDZZbFlJWFR5azBjZ3BfaHk2VTdIM01ha0lMNXlpSUt6Wll5eEhqUQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
 
 ---
 
-### [“$50,000 Over Nothing”: 26 Doctors Share Their Approach To People Who Fake Symptoms - Bored Panda](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVjhjZ05Lc3RGMHVtOTJaamp4ZnhuZ0dJVmlGRk4zV3V3R2c4Slg0djdLZWxaNzRlQ0tDYzA5RlJEZEJ5NVNDdzRPSUVJbTRfTTUyZlBTSzQ4c2VqVUFwSjgwRDZua3VKdkRtc05JTnRUU1BsTFVFem1VQ0JSUQ?oc=5)
+### [Sri Lanka uses air force drones to tackle spreading dengue outbreak](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDVoUG4tUU94eDVpWTlBMzhFNHBHNFItRGVUaldmLXdpVkMyOS1iUjRVV05qSG1PTFJMNXdPR2d5UUdLSWx3aWNtcTFkNmUwRVA1aS1MSkNleTVfZlNBQ1BGUEZuaFl6RzN1RWtsTUVKVFZDOUg5ZWgzZUFOT2NRd2gwd1lsZXoycS0xa3pEZ0lHMEoxRUNyX2FqZUJoZWVpU09YeVU3S1dBODJoZnpLVVZwSDJ5X3BlOFNiSmdraUdlanVLY2gzVnhDTVktNE5NdUE?oc=5)
 
-2026-07-21 <span class="news-indication-tag">MS</span>
+2026-07-21 <span class="news-indication-tag">AF</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMifkFVX3lxTFBZVjhjZ05Lc3RGMHVtOTJaamp4ZnhuZ0dJVmlGRk4zV3V3R2c4Slg0djdLZWxaNzRlQ0tDYzA5RlJEZEJ5NVNDdzRPSUVJbTRfTTUyZlBTSzQ4c2VqVUFwSjgwRDZua3VKdkRtc05JTnRUU1BsTFVFem1VQ0JSUQ?oc=5)
+來源：[Reuters](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDVoUG4tUU94eDVpWTlBMzhFNHBHNFItRGVUaldmLXdpVkMyOS1iUjRVV05qSG1PTFJMNXdPR2d5UUdLSWx3aWNtcTFkNmUwRVA1aS1MSkNleTVfZlNBQ1BGUEZuaFl6RzN1RWtsTUVKVFZDOUg5ZWgzZUFOT2NRd2gwd1lsZXoycS0xa3pEZ0lHMEoxRUNyX2FqZUJoZWVpU09YeVU3S1dBODJoZnpLVVZwSDJ5X3BlOFNiSmdraUdlanVLY2gzVnhDTVktNE5NdUE?oc=5)
 
 ---
 
@@ -222,11 +270,19 @@ permalink: /news/asenapine-maleate/
 
 ---
 
-### [Mainzer Forscher: Fortschritte bei der Therapie gegen Multiple Sklerose - Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
+### [Squirrelpox outbreak sparks red squirrel warning in Formby](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJYThlZHVjOHBERHdTMkhZT3FEM21UNmZ6ejFXOF9iMTNNS3NiSXN6OE5pOGFFZ0ltemZuRS0tUVVKUDJCcDUyM1FSN0hzTHVxZkFMR0lBQU02SGNp?oc=5)
 
-2026-07-20 <span class="news-indication-tag">Multiple Sklerose</span>
+2026-07-20 <span class="news-indication-tag">AF</span>
 
-來源：[Allgemeine Zeitung](https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0xCSXdoSW9paXd3aGljcnU1eFpMNmdkbjFPN1VrUzIzVmJJS0s2ejItTU9kY1p4NW5XTXFycFRLMWd2RG9JQTlScVhHOFRheklyVkpmbkFVYmZITzZQUUFtUW05RFNrX0MxWFpIUF9PM2VUR2I2RS10UkE4bDVtWXlSTjZUNVBTZ0dyZzhrRXpWVTRkeHhEQU9xdnllNzhCcW1kZDF3STJxM1NEOENrbDN0WmgxcGhBXzFGU2gwMm5UMWZNRDd3?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJYThlZHVjOHBERHdTMkhZT3FEM21UNmZ6ejFXOF9iMTNNS3NiSXN6OE5pOGFFZ0ltemZuRS0tUVVKUDJCcDUyM1FSN0hzTHVxZkFMR0lBQU02SGNp?oc=5)
+
+---
+
+### [Ein Gen mit Aussagekraft](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYi1JOFJ5WTAwelp1cHA0VUFmMUprbkpCc3k4UzFaMUtLY0lBMVhNVlBKSG16dEhoOUdwMWNuaXhCOVVPc3IwTmJUdVQ1Ry0xTWRHMHl2aDl0RWJRZnI4RFRzQzJXZ3dkWGJQOGhNQ2FDbGdWOG5nMjFUSkRLYm8?oc=5)
+
+2026-07-20 <span class="news-indication-tag">AF</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYi1JOFJ5WTAwelp1cHA0VUFmMUprbkpCc3k4UzFaMUtLY0lBMVhNVlBKSG16dEhoOUdwMWNuaXhCOVVPc3IwTmJUdVQ1Ry0xTWRHMHl2aDl0RWJRZnI4RFRzQzJXZ3dkWGJQOGhNQ2FDbGdWOG5nMjFUSkRLYm8?oc=5)
 
 ---
 

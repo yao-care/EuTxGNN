@@ -54,6 +54,14 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（4 則）
 
+### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+
+---
+
 ### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -75,14 +83,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-07-20 <span class="news-indication-tag">obesità</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlAtWk1kMVR3eGtBLVVJZTZZdnJHaWNwMWp3eDlpRkRpTDBPNzVKemF1bndfNGM4Q1FfVktLS2NrQ29yMTdyV2FKN19jUWdTQmxfaTRzdDNzcmxCUUV4TlI4Y2NyS1hYUnZaYV91dXhObGpVS3BwU0VYeVhXRFkxQlkySmZSWE1tTUN1a2NjVU16ODhSYW9RMHlHSDQwdTM2aHQtSVpxdnF4U0pUc2tRTXZ6Wk84WE9Q?oc=5)
-
----
-
-### [The Exercise Paradox: Why Workouts Don’t Guarantee Weight Loss](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">obesity</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjJKT3R1V0xkZEFxbjZpdkZBUkc3TWpubnpCai1udm91bmdFN2VnR3pLRGdEWXVvUEdLck1OYzROc0ZhZWlpMTIycWdDdkhlRl9hdkR0Rjd5Q1RTeVlyc003SUxhMkxxaGpsZlN0aGs4LWVmUnNsV0hadGd5ZjZlSFZhTWtiblBnUUwyUXpUbw?oc=5)
 
 ---
 
