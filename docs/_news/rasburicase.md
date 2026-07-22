@@ -54,6 +54,14 @@ permalink: /news/rasburicase/
 
 ## 相關新聞（4 則）
 
+### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
+
+---
+
 ### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
@@ -67,14 +75,6 @@ permalink: /news/rasburicase/
 2026-07-21 <span class="news-indication-tag">hypertension</span>
 
 來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
-
----
-
-### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
 
 ---
 

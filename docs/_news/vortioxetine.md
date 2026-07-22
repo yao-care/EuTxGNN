@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [¿Qué genes hacen que algunas personas sean más susceptibles a la depresión? - La Vanguardia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZCcjlVanlwQ0JJVEpCRmhhSE1RVHRveWlDWFVsdmVxanl2akFHbU1NZHQ1RlpGSGVyTFVQSDlNSVU0VGd1TDQ4RXIwTWstZmxWSENhTWEybVhpMXNnOVFzX2R5LWhfdzJpc1BIMTFHQkZjazZjTktnQ3lGc3RHUW9OWmVtVHBpM1JzWkhrRTBHNHdjdTZiWTVpYVJpSE5xdmNOamFtUFRBRDh20gGyAUFVX3lxTE1zVWh1SU5lNURBTkl5RnRwWW13US0wbGR1SENjZHdlUTYyZWZYVml2ajNuMWQzNzloU0NlY2YtSnNQWXozV01RelVOVk53c2tMN2ctT1VJc2tVQmdpNk1oRGpjeTUxOG9XMlNyVERxQW5VeUFiT285T2pzazRnSTd5Yjl6MFFfUVlMOXh3eUlfQ0MtV2JuQWpwbDJLMHI0WUZ4a2kwSlFoZGFURjlfMngzYlE?oc=5)
+### [Ketogene Ernährung im Fokus: Neue Daten deuten messbaren Entzündungshemmungseffekt - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGTERDRTV6d21xS0tveVlFcURrYnd6VU5sYmJMUmY4cXg0U3o0SEtMR3Bfd3M2ZU1JUTlkWF9oM3FyOFAyU2x3RkF6STlSVGo3eVNhb3BtMjdBUzN6UFdyRGZ4dFV5eWkwYm1acmJCODlMYXVoLUo2LTJ2MGRlRHFocExnZjh5bUxnTXhIRHFlYkJVWTRFVHNYbDhReTg2QS1URkRwM1kxeVVRdE5YSEd6Y19UZw?oc=5)
 
-2026-07-22 <span class="news-indication-tag">depresión</span>
+2026-07-22 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZCcjlVanlwQ0JJVEpCRmhhSE1RVHRveWlDWFVsdmVxanl2akFHbU1NZHQ1RlpGSGVyTFVQSDlNSVU0VGd1TDQ4RXIwTWstZmxWSENhTWEybVhpMXNnOVFzX2R5LWhfdzJpc1BIMTFHQkZjazZjTktnQ3lGc3RHUW9OWmVtVHBpM1JzWkhrRTBHNHdjdTZiWTVpYVJpSE5xdmNOamFtUFRBRDh20gGyAUFVX3lxTE1zVWh1SU5lNURBTkl5RnRwWW13US0wbGR1SENjZHdlUTYyZWZYVml2ajNuMWQzNzloU0NlY2YtSnNQWXozV01RelVOVk53c2tMN2ctT1VJc2tVQmdpNk1oRGpjeTUxOG9XMlNyVERxQW5VeUFiT285T2pzazRnSTd5Yjl6MFFfUVlMOXh3eUlfQ0MtV2JuQWpwbDJLMHI0WUZ4a2kwSlFoZGFURjlfMngzYlE?oc=5)
-
----
-
-### [Demenzprävention: Antientzündliche Ernährung senkt Risiko um 29%](https://news.google.com/rss/articles/CBMivwFBVV95cUxNczlhdG5SR2JpZ0didEU5bGFnX3lCRnJaZEhoUXpScGZtQ2kxbFJDblpkUGh2Ymcwc0Q2dW56T3FiZnE2OFhtWVhzUTk4U3pSVzY0V1lpSDJOVXB5cUpMOUZYQmFKd2s0LUt4T3hPdUxXRnZHd193dXJlcnlNNUoxa1JsZVZ0RGdnRWFIT3NjZGhHVV9ibkZuaTBEbTZVVXN3eWZIRjBOUzMyemJ4RTNRLWotMUFnRV9WM2tYcV9mMA?oc=5)
-
-2026-07-21 <span class="news-indication-tag">depression</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNczlhdG5SR2JpZ0didEU5bGFnX3lCRnJaZEhoUXpScGZtQ2kxbFJDblpkUGh2Ymcwc0Q2dW56T3FiZnE2OFhtWVhzUTk4U3pSVzY0V1lpSDJOVXB5cUpMOUZYQmFKd2s0LUt4T3hPdUxXRnZHd193dXJlcnlNNUoxa1JsZVZ0RGdnRWFIT3NjZGhHVV9ibkZuaTBEbTZVVXN3eWZIRjBOUzMyemJ4RTNRLWotMUFnRV9WM2tYcV9mMA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGTERDRTV6d21xS0tveVlFcURrYnd6VU5sYmJMUmY4cXg0U3o0SEtMR3Bfd3M2ZU1JUTlkWF9oM3FyOFAyU2x3RkF6STlSVGo3eVNhb3BtMjdBUzN6UFdyRGZ4dFV5eWkwYm1acmJCODlMYXVoLUo2LTJ2MGRlRHFocExnZjh5bUxnTXhIRHFlYkJVWTRFVHNYbDhReTg2QS1URkRwM1kxeVVRdE5YSEd6Y19UZw?oc=5)
 
 ---
 
-### [Hot Yoga gegen Depressionen: Je öfter, desto besser die Wirkung](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnU3aG1rTWZObm9GR0FQQWxrZmRHU18wUVFuRkFHVFJOTzZRZXY5YnFrQi1xTlk5U05pUndwSlVJZFA1cExweXZzYmJlaHFfYkk0M3pyT3NMemJWU0lXR2ZoSHZCRHZ1ell2aDQ5eDB4OG9WZ3ZFSlZJYWFFZ2plaFVrcGF2TnZUNGxJX1hMVGFoVFFTMnpVelJlZ216ZjQ?oc=5)
+### [Border line, depressione, schizofrenia, bipolare: la rivoluzione che dai geni porta alle nuove terapie](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPejdsbC1EaTFNNEdyUkhoNEp2WTV0dk5uVDlnbVJLWFMtQi1TalBLUlkzLUx4RnljZF9UUXYyM3dhRVdGVHU1aWkwVDBMUzdHenlhLUV1Sy1za3RWRV9tcmdVbzZGUzJtVUFlUTlkMlg2eGpFcDNoVlRxOWdwS0JlRkdRVWh1czl0Nm11QjBoODFJckdqOVVoQUVvUjBWay1lTXRpVWNXUk91VnpYQkFoM1A0RzBIMHdOeWxmVWV3UWtNVFNXblQzcFRmQ0dMcDA1bTFsLUxhb0wtSmJvNkpZTUlnZw?oc=5)
 
-2026-07-21 <span class="news-indication-tag">depression</span>
+2026-07-22 <span class="news-indication-tag">depression</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnU3aG1rTWZObm9GR0FQQWxrZmRHU18wUVFuRkFHVFJOTzZRZXY5YnFrQi1xTlk5U05pUndwSlVJZFA1cExweXZzYmJlaHFfYkk0M3pyT3NMemJWU0lXR2ZoSHZCRHZ1ell2aDQ5eDB4OG9WZ3ZFSlZJYWFFZ2plaFVrcGF2TnZUNGxJX1hMVGFoVFFTMnpVelJlZ216ZjQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPejdsbC1EaTFNNEdyUkhoNEp2WTV0dk5uVDlnbVJLWFMtQi1TalBLUlkzLUx4RnljZF9UUXYyM3dhRVdGVHU1aWkwVDBMUzdHenlhLUV1Sy1za3RWRV9tcmdVbzZGUzJtVUFlUTlkMlg2eGpFcDNoVlRxOWdwS0JlRkdRVWh1czl0Nm11QjBoODFJckdqOVVoQUVvUjBWay1lTXRpVWNXUk91VnpYQkFoM1A0RzBIMHdOeWxmVWV3UWtNVFNXblQzcFRmQ0dMcDA1bTFsLUxhb0wtSmJvNkpZTUlnZw?oc=5)
 
 ---
 

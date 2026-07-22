@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/natalizumab/
 <li><strong>預測適應症</strong>（20 個）：<ul>
 <li>bronchitis（99.5%）</li>
 <li>parapsoriasis（99.4%）</li>
-<li>psoriasis（99.2%）</li>
+<li class="indication-matched">psoriasis（99.2%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>severe nonproliferative diabetic retinopathy（99.2%）</li>
 <li>acute lichenoid pityriasis（99.0%）</li>
 <li>pityriasis lichenoides（98.7%）</li>
@@ -52,13 +52,37 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
+
+---
+
+### [Guselkumab, ya disponible en España para el tratamiento de la psoriasis en placas en niños](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+
+2026-07-22 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+
+---
+
+### [COPD: Isoflavone aus Hülsenfrüchten senken Entzündungen um 7,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
 
 2026-07-22 <span class="news-indication-tag">copd</span>
 
-來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
+
+---
+
+### [Helping Patients With Diabetes Utilize Technology](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
 
 ---
 
@@ -70,27 +94,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Tagestipp | 22.07.2026 - Diabetes und Hitze - Antenne Brandenburg](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV8tZ0JrdUhhQ2plTTNmM0NzSW9zN2ZFMDBLeVJ2UkhnTUhSSW1RNk9vOWxoWWR0N1B6ZU5DVVlaYTUzWnN5S1dscEdfbVAzNTNWZmFNclNXT1BBVWJVck16U09SWTVqNHY0a3JXMWE2X0pRNzMyMEd1ejZKWng3aGRiczhtMnhmekp6ODNLQ0I?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Antenne Brandenburg](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV8tZ0JrdUhhQ2plTTNmM0NzSW9zN2ZFMDBLeVJ2UkhnTUhSSW1RNk9vOWxoWWR0N1B6ZU5DVVlaYTUzWnN5S1dscEdfbVAzNTNWZmFNclNXT1BBVWJVck16U09SWTVqNHY0a3JXMWE2X0pRNzMyMEd1ejZKWng3aGRiczhtMnhmekp6ODNLQ0I?oc=5)
-
----
-
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2Rib1JoV1p4U3A1MW1WR0p0emxIUHRvNFUzX01XS05FYndPbXRCeWJYTnZjeXBneGdQLU1LeV90SkVkSjh4MW9OdzhTNEZMUWlfNXlsSDF4c2tBbm1seWFrRGpfUE1QOHlMenZoTXA1UnY5ZE9abXJVbEhWRXZZN1hhdU90ZkZXZGowMThYYzBnS3p4REtzT243WjQyTExuYlQzcGo3bHZ2RTlPYWNXTDdMd1pYaWM?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2Rib1JoV1p4U3A1MW1WR0p0emxIUHRvNFUzX01XS05FYndPbXRCeWJYTnZjeXBneGdQLU1LeV90SkVkSjh4MW9OdzhTNEZMUWlfNXlsSDF4c2tBbm1seWFrRGpfUE1QOHlMenZoTXA1UnY5ZE9abXJVbEhWRXZZN1hhdU90ZkZXZGowMThYYzBnS3p4REtzT243WjQyTExuYlQzcGo3bHZ2RTlPYWNXTDdMd1pYaWM?oc=5)
-
----
-
-### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 ---
 

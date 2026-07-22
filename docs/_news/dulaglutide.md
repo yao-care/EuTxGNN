@@ -54,6 +54,22 @@ permalink: /news/dulaglutide/
 
 ## 相關新聞（7 則）
 
+### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
+
+---
+
+### [Helping Patients With Diabetes Utilize Technology](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
+
+---
+
 ### [Typ-2-Diabetes: Intervallfasten statt Kalorienzählen - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJtU3hISHRQdW0zYWxaQWpLYUNjdWxWV2NIanV3blJDbnpld2dNSklzVkhROEhwWVNwbmxUaU9RVFZFcS1fb2s5eU1vOGRrYkFDQkFsQ2p1M0pKTnFhWEJsTUxIdVZ2Q1U5ZFZ0TUluRmkxSlhESjA5aksyRGRwZVdqYXBYM3NxMm51S1BtZ3JpUkZ2bUtBaWlFUWZhUHM4S1VqWkVmNlk?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span>
@@ -62,27 +78,11 @@ permalink: /news/dulaglutide/
 
 ---
 
-### [Tagestipp | 22.07.2026 - Diabetes und Hitze - Antenne Brandenburg](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV8tZ0JrdUhhQ2plTTNmM0NzSW9zN2ZFMDBLeVJ2UkhnTUhSSW1RNk9vOWxoWWR0N1B6ZU5DVVlaYTUzWnN5S1dscEdfbVAzNTNWZmFNclNXT1BBVWJVck16U09SWTVqNHY0a3JXMWE2X0pRNzMyMEd1ejZKWng3aGRiczhtMnhmekp6ODNLQ0I?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Antenne Brandenburg](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZV8tZ0JrdUhhQ2plTTNmM0NzSW9zN2ZFMDBLeVJ2UkhnTUhSSW1RNk9vOWxoWWR0N1B6ZU5DVVlaYTUzWnN5S1dscEdfbVAzNTNWZmFNclNXT1BBVWJVck16U09SWTVqNHY0a3JXMWE2X0pRNzMyMEd1ejZKWng3aGRiczhtMnhmekp6ODNLQ0I?oc=5)
-
----
-
-### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2Rib1JoV1p4U3A1MW1WR0p0emxIUHRvNFUzX01XS05FYndPbXRCeWJYTnZjeXBneGdQLU1LeV90SkVkSjh4MW9OdzhTNEZMUWlfNXlsSDF4c2tBbm1seWFrRGpfUE1QOHlMenZoTXA1UnY5ZE9abXJVbEhWRXZZN1hhdU90ZkZXZGowMThYYzBnS3p4REtzT243WjQyTExuYlQzcGo3bHZ2RTlPYWNXTDdMd1pYaWM?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2Rib1JoV1p4U3A1MW1WR0p0emxIUHRvNFUzX01XS05FYndPbXRCeWJYTnZjeXBneGdQLU1LeV90SkVkSjh4MW9OdzhTNEZMUWlfNXlsSDF4c2tBbm1seWFrRGpfUE1QOHlMenZoTXA1UnY5ZE9abXJVbEhWRXZZN1hhdU90ZkZXZGowMThYYzBnS3p4REtzT243WjQyTExuYlQzcGo3bHZ2RTlPYWNXTDdMd1pYaWM?oc=5)
-
----
-
-### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 ---
 

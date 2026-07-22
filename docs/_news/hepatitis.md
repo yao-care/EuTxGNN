@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,15 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Hepatitis B: 296 Millionen Infizierte, doch nur 4,3% in Behandlung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
-
-2026-07-21
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Hepatitis B: 76% der Patienten leiden unter Erektionsstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
 

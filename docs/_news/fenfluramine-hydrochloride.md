@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+### [El índice de obesidad sarcopénica supera al IMC en la predicción de enfermedad cardiovascular - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUgwdVVYeUtVT0cwWlY0RnlQS2xoUHZ1SEF3eDctMWZGMy1lWTRIQlBPdGxERXZGb0YtQXpKZ2lFUmhQZEkzYUk2V0hkc1RSem83aHdpejNNUnByMGEwN3kzcFRRUDkzUl9pU21pNG9yb0k4ZGhoRjBOZm1aa20tX09MQm80aXdVWWplUGRVc0FndldsYUVFRkxNRjFVR2djT01NdVdLQjllc1dNRktwQmRUd0duVE3SAbIBQVVfeXFMTVNWdGl3VDhULTFDN3lvWmV5dDdhQ1ljOW9EQzl2Y3B2Tkx2YlhfSmprZXBxNGVtUFNGdXVFcjhSYTNST1A5NGhXeERIbHN6dVZBUU5ER3JNZjExZ3BiSm5aOHU0N0hfdUVjbXZpNF82SkFxV0xUMkg4azRMcXZxUEl1N0ZmWTRLMWdtU0FzOGtweWJnV3Z0RXBheDNvczFCeldqbDdWVjdxdzVnXy0zd2plZw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUgwdVVYeUtVT0cwWlY0RnlQS2xoUHZ1SEF3eDctMWZGMy1lWTRIQlBPdGxERXZGb0YtQXpKZ2lFUmhQZEkzYUk2V0hkc1RSem83aHdpejNNUnByMGEwN3kzcFRRUDkzUl9pU21pNG9yb0k4ZGhoRjBOZm1aa20tX09MQm80aXdVWWplUGRVc0FndldsYUVFRkxNRjFVR2djT01NdVdLQjllc1dNRktwQmRUd0duVE3SAbIBQVVfeXFMTVNWdGl3VDhULTFDN3lvWmV5dDdhQ1ljOW9EQzl2Y3B2Tkx2YlhfSmprZXBxNGVtUFNGdXVFcjhSYTNST1A5NGhXeERIbHN6dVZBUU5ER3JNZjExZ3BiSm5aOHU0N0hfdUVjbXZpNF82SkFxV0xUMkg4azRMcXZxUEl1N0ZmWTRLMWdtU0FzOGtweWJnV3Z0RXBheDNvczFCeldqbDdWVjdxdzVnXy0zd2plZw?oc=5)
+
+---
+
+### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 ---
 

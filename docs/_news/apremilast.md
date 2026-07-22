@@ -54,6 +54,14 @@ permalink: /news/apremilast/
 
 ## 相關新聞（7 則）
 
+### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
+
+---
+
 ### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
@@ -86,14 +94,6 @@ permalink: /news/apremilast/
 
 ---
 
-### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
-
----
-
 ### [Une étude sur 25 ans alerte : ces boissons données aux enfants augmenteraient de 52 % leur risque d’hypertension - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY05kSXFYTWVWTS04Y3I5eXJFd3VFbVRBUGpSZDllQUdiMHdWNE5CbGhSMURDVkF3OTdpQmpSME5sZWxXRjNEV3NtczNYcXAtYnhTYjhXcmNVcndPejludVR1Q3RpQW1nQmxFb2NrcEN2ZDAyZHhlQk02LWlFbEJxeHJsazFzcE1tY0dKSk9iUVFKMlVOUTJ6dFlFTEJvdTdxU1pfalVIOUJlYWFxS0NMLXdYQnk1TURaSE5fQjhtQzd2Y0xURnhfWU9SZk5Nc2ZsSkduT3BHdWx0cHUwd29jTTJoX2lNR2dFcElv?oc=5)
 
 2026-07-21 <span class="news-indication-tag">hypertension</span>
@@ -104,7 +104,7 @@ permalink: /news/apremilast/
 
 ### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 

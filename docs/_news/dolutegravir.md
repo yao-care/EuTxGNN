@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Hepatitis B: 296 Millionen Infizierte, doch nur 4,3% in Behandlung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Hepatitis B: 76% der Patienten leiden unter Erektionsstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
 

@@ -54,19 +54,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
-
----
-
 ### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+
+---
+
+### [Studie: Herzinfarktpatienten haben oft Mikroplastik im Blut](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9jYjB3d0JNVmswRWZtLUZfZnBTclVDcnllVkVfVlVIZG01ald4cU5IendFNmdMYVJCZ0pwQk9naklyNlpMcEFtWFB4bjl1NmZXandLNVRYd3l0Z09KczRZTFNobFVHdG93eDJwcFduaWY2bmFrdUpORHNRV1lYSmxPRy1SWU0yVkN1bFhtSDlWV1ZQNWs3WFVhZXYwMUJVQ09ySUl3SWpQMUpVZ3VZdzFERFpDcUNKZ21V?oc=5)
+
+2026-07-21 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[oekotest.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9jYjB3d0JNVmswRWZtLUZfZnBTclVDcnllVkVfVlVIZG01ald4cU5IendFNmdMYVJCZ0pwQk9naklyNlpMcEFtWFB4bjl1NmZXandLNVRYd3l0Z09KczRZTFNobFVHdG93eDJwcFduaWY2bmFrdUpORHNRV1lYSmxPRy1SWU0yVkN1bFhtSDlWV1ZQNWs3WFVhZXYwMUJVQ09ySUl3SWpQMUpVZ3VZdzFERFpDcUNKZ21V?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Guselkumab, ya disponible en España para el tratamiento de la psoriasis en placas en niños](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+
+2026-07-22 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+
+---
 
 ### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 

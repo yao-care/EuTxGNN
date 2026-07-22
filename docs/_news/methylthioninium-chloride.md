@@ -54,11 +54,11 @@ permalink: /news/methylthioninium-chloride/
 
 ## 相關新聞（1 則）
 
-### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+### [COPD: Isoflavone aus Hülsenfrüchten senken Entzündungen um 7,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
 
 2026-07-22 <span class="news-indication-tag">copd</span>
 
-來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
 
 ---
 

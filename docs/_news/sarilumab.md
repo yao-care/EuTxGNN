@@ -54,11 +54,11 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
-### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+### [COPD: Isoflavone aus Hülsenfrüchten senken Entzündungen um 7,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
 
 2026-07-22 <span class="news-indication-tag">copd</span>
 
-來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Colitis ulcerosa: Blinddarm produziert krankmachende Antikörper](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
+### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 
 2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 
 ---
 
