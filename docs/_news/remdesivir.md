@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="Remdesivir 有什麼相關新聞？">
-<strong>Remdesivir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Remdesivir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/remdesivir/
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
----
-
-### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
-
-2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
 
 ---
 

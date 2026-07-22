@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Así es la nueva opción terapéutica para convivir con asma grave y pólipos nasales - La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+### [Oft falsch diagnostiziert: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 
-2026-07-22 <span class="news-indication-tag">asma</span>
+2026-07-22 <span class="news-indication-tag">Migräne</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
-
----
-
-### [Microbioma e medicina anticipatoria: come le esperienze infantili plasmano la salute per tutta la vita - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
-
-2026-07-20 <span class="news-indication-tag">asma</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 
 ---
 

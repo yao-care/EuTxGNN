@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Bluthochdruck: Mit Prävention lassen sich bis zu 80 Prozent der Schlaganfälle vermeiden - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVEZEbjVrbG9obzRyUTZURDViem5UekJDLVVfVnJrU0xsNUtIR0hETGpJMFFJaFpLSkNEWWI3b0YyTVdhRVl4aFlpN3Y0b0VxWUd6VHRaZUlib1VhemJmMkxxOXRNSlNQQWtYMnRpeFRLaEZ4b050WEhOQVViSC1SbmtQNmZuYTRxWW1rV2NIcXhfQ2ZGOW1LeU9jdnRYalhLS3VNMWtlTDVWbXVjSGJlb2NrckN3Zk1MMldFVw?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
-
----
-
-### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
----
-
-### [Giornata neurologia, Sin: "Benessere del cervello una sfida che riguarda tutti" - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
+來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 ---
 

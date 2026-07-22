@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Emtricitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Hepatitis B: 296 Millionen Infizierte, doch nur 4,3% in Behandlung](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
 
 2026-07-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1MtX0ZwdnkzVmtHRTA3SExXbDVHdWJuY181NXVSTGVXWkNCVlJuQzVnWGJUdVhqemhDQy1FdlZkLXZ2OHBLcWkwQ0N6c1RveTdDeW9ZZHVvY3piZVZiXzQwVG90aWdpbmwwcmRVUGoxa2hicFpBWjBmWElXa01vNldKbjFpVzhEMkI2eGFVTFhQbC0xTW9uZjVDc25pSlpHUFVYb1A2WkxkOUhXN2d3ZEdpVnhjTWpQSmVadA?oc=5)
-
----
-
-### [La eliminación de la hepatitis C pasa por un diagnóstico más proactivo, automatizado y coordinado](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
-
-2026-07-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZC1nVjVOVVJvc1FIcVJjMWxRTDE4RURFU2NodmJMU1B5dDI3U3poUTY0S2VNYmFkRTk1OGlWVjl4Smsyd2RXVUJhUklvTnF5TklWdTRJLWw4X2lTQnprTjVDSDRrOGNsbE1oaHNTYlRia0p6VGt5NnprSU5PdUo2bGlyYkkzTmpwLXhPZ3JEc2FfWEtYMFRQa0VmNUFxMmhreDFDOTJsSGJOM2l1ZUNsOG1PUG84NDBBNDFEcGtSVUVXTjQ?oc=5)
 
 ---
 

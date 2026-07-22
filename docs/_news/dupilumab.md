@@ -54,11 +54,11 @@ permalink: /news/dupilumab/
 
 ## 相關新聞（1 則）
 
-### [COPD: Hülsenfrüchte senken Entzündungsmarker um 7,4 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
-2026-07-21 <span class="news-indication-tag">copd</span>
+2026-07-22 <span class="news-indication-tag">copd</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 ---
 

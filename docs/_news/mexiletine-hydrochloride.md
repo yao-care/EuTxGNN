@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Mexiletine Hydrochloride 有什麼相關新聞？">
-<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mexiletine Hydrochloride</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/mexiletine-hydrochloride/
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（24 則）
 
-### [„Klug entscheiden“-Empfehlung zu Vorhofflimmern: Das steht drin](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkYxLWVsNTZHRTZYNXF5a1FEYW9pa1pVS3JGdi1nUHV1anJkbVJSWUZ1UkVkaGluT09LcFpmR1lWN2VlWVV4UUs0dWZ0aW42N0s2SE4yd2FMVGVsMXAxQUJ0S0dvdXEtWEsyeXZSM3ZzY0Q2cW03Z3N4OF9XQW1aS2xsVURyMU9LWE1KYUc1VUFLVHg3OGxubi1VU0pUN3lCOU9nalBWZEhaWFplZ3c?oc=5)
+### [So beeinflusst Kaffee das Brustkrebsrisiko](https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3ZpZVdXaFgwOFZENUdRQ191TUhhWjBCUF81Z0t0N0JpYW40X3Y1UEZVcWNtcTJhdmk1NG44dlJ5Tk1FRDJwdnNhd1pGOG9WS2VtaDB3YTlxQjZMWXA0YVE2UkJUMEMxbV9wN2huand0THdPcEVSNmtYSGdoUktEWmV4UEh5Vjh5S3Y4d3VnQXFoQ3k5bGFxajBTSHBYTGFtXzA3SDNn?oc=5)
 
-2026-07-22 <span class="news-indication-tag">Vorhofflimmern</span>
+2026-07-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkYxLWVsNTZHRTZYNXF5a1FEYW9pa1pVS3JGdi1nUHV1anJkbVJSWUZ1UkVkaGluT09LcFpmR1lWN2VlWVV4UUs0dWZ0aW42N0s2SE4yd2FMVGVsMXAxQUJ0S0dvdXEtWEsyeXZSM3ZzY0Q2cW03Z3N4OF9XQW1aS2xsVURyMU9LWE1KYUc1VUFLVHg3OGxubi1VU0pUN3lCOU9nalBWZEhaWFplZ3c?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3ZpZVdXaFgwOFZENUdRQ191TUhhWjBCUF81Z0t0N0JpYW40X3Y1UEZVcWNtcTJhdmk1NG44dlJ5Tk1FRDJwdnNhd1pGOG9WS2VtaDB3YTlxQjZMWXA0YVE2UkJUMEMxbV9wN2huand0THdPcEVSNmtYSGdoUktEWmV4UEh5Vjh5S3Y4d3VnQXFoQ3k5bGFxajBTSHBYTGFtXzA3SDNn?oc=5)
 
 ---
 
-### [Tomar hasta cinco tazas de café al día es seguro para el corazón](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlduQ0tjY3NJNWRlOXZOTVRfOE9fQ3k5bXc5X0lIeXE3azdwTXJ4dDB2WENXR3Fwa3ljOGZlLU1abnctREhTRFpDVkJ4QXdjTENSRFNkRnVMSk1FblJtWjhTUVpta09maUduUGo1cnpiczVJT3VhZHBHeWtVdEFEUU15SGd6NW1JZzlhM0NqaUhZdVk5enBwNmgzamJEWnNIb1E?oc=5)
+### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+---
+
+### [I felt like I was burning alive after sudden rash ravaged every inch of my body for months - miracle cure banished it - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHd0ejhfazlJQjZSUkZfYUhlVTRmX2RvaWtYSFNldWpwTHkyaEFROWJ3X2paSDh2VGVLS1oxd3FhNkxMY0h4S1JGTEpob3dBeEE5U00ySFJ6dE1BTEpsVDV2RUdmenVRWC02QlBQUEg3X2c2aDN0dHNJc2EyYi02LXRMWVI1eVZkV3ROQnNjTlVCVk9nendMeG1yV1c?oc=5)
 
 2026-07-22 <span class="news-indication-tag">AF</span>
 
-來源：[Sinc](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlduQ0tjY3NJNWRlOXZOTVRfOE9fQ3k5bXc5X0lIeXE3azdwTXJ4dDB2WENXR3Fwa3ljOGZlLU1abnctREhTRFpDVkJ4QXdjTENSRFNkRnVMSk1FblJtWjhTUVpta09maUduUGo1cnpiczVJT3VhZHBHeWtVdEFEUU15SGd6NW1JZzlhM0NqaUhZdVk5enBwNmgzamJEWnNIb1E?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHd0ejhfazlJQjZSUkZfYUhlVTRmX2RvaWtYSFNldWpwTHkyaEFROWJ3X2paSDh2VGVLS1oxd3FhNkxMY0h4S1JGTEpob3dBeEE5U00ySFJ6dE1BTEpsVDV2RUdmenVRWC02QlBQUEg3X2c2aDN0dHNJc2EyYi02LXRMWVI1eVZkV3ROQnNjTlVCVk9nendMeG1yV1c?oc=5)
+
+---
+
+### [Oft falsch diagnostiziert: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Migräne</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 
 ---
 
@@ -78,35 +94,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Winterberg: Aktion „3000 Schritte für Gesundheit und Gemeinschaft“ - Brilon totallokal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3M2QWJUWjFtNDZvVDVCd1FtUDRfNkZwTEtXSmJVWE5ka0V0UkxKV0d5ajZuYlZjSXpGYU9HeXpZZ2hqaHhQQWhvZk00SWpkZVRhd29pUVRJd0I5RTMzeEx1cnRjdzJ6c0RVOE5ZeGdjYV9RTjZTdUVDWXFxVlU3X2dIMWx0V2tVQVo2SWh6bHk5eFdfUmhtcnpoTV9wOHdUNXRxYkJyN2g?oc=5)
+### [How many cups of coffee a day are safe for the heart?](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVFHQ0xjY2VkXzhVQ1RTYlFWRkhhY081VmJ5N29NR29RdFd5NnU3cl90TXd0cXhzUGRNRGZodnkwakxpdGE5enR4U0lxMHpMV01jT1dWcV9nOXg2ZUljNXYxYjB3dFhUd2JvdHlwclM4RHZhWFd4d3JtQ2g4aVdXOExsNmpYSDFtZzZ2NFJfTllTUVFJeDJrVXVjd1Q0TlAyQllZQjIxYVVXa2JGWUc2aEItNA?oc=5)
 
 2026-07-22 <span class="news-indication-tag">AF</span>
 
-來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3M2QWJUWjFtNDZvVDVCd1FtUDRfNkZwTEtXSmJVWE5ka0V0UkxKV0d5ajZuYlZjSXpGYU9HeXpZZ2hqaHhQQWhvZk00SWpkZVRhd29pUVRJd0I5RTMzeEx1cnRjdzJ6c0RVOE5ZeGdjYV9RTjZTdUVDWXFxVlU3X2dIMWx0V2tVQVo2SWh6bHk5eFdfUmhtcnpoTV9wOHdUNXRxYkJyN2g?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVFHQ0xjY2VkXzhVQ1RTYlFWRkhhY081VmJ5N29NR29RdFd5NnU3cl90TXd0cXhzUGRNRGZodnkwakxpdGE5enR4U0lxMHpMV01jT1dWcV9nOXg2ZUljNXYxYjB3dFhUd2JvdHlwclM4RHZhWFd4d3JtQ2g4aVdXOExsNmpYSDFtZzZ2NFJfTllTUVFJeDJrVXVjd1Q0TlAyQllZQjIxYVVXa2JGWUc2aEItNA?oc=5)
 
 ---
 
-### [Darm-Hirn-Achse: Antientzündliche Ernährung senkt Demenzrisiko um 29%](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFREWHUtNnUtbkFxOGlrcWE5OFAteWZ6Uk9MZlctT3FTd2w3RkE3OC1tcEg5cWp0cmJYaHRIWWhza3pqOHJJOTdiZmFnOFJPYVV5UkYwZ2NnSzIzOU9DcXF2WnAzU090VTNOTExoOWhjT3pqaGdYd0ZnbnlrRzhESWJMQ2llY0FUZzJZeTBDMVJRMFV1c2U4bGxEZy0wcXVRRGU4aEI0TGxWOHNzYU55RXpjc3oxVXc4RkE?oc=5)
+### [Health worker monitored for Ebola in London hospital after working in DRC - The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2pTdTN5cFpRNUNnYnNVX0NMc0lhVHRzdmx2UXBZeDVKNjltMVJvLTRuVnN6ZlhWSF9Rak5hUHlQY1p1TUc4VUtVZERuWjRaRmllS1pKaV9NdlAyWUs0bW9GcWpSUnBUZ1l3WFRFbDdqS0pNaU5UN3QwM19McXBKb0dMLTFNOEx3Y25lZ2VFS0c2WEZZWV90UkNOQkZhUkItcmNvRG42Ylh0MGNDOFRDQk8tUXJpelFxRS1sdXhyYmVkV1U?oc=5)
 
-2026-07-22 <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFREWHUtNnUtbkFxOGlrcWE5OFAteWZ6Uk9MZlctT3FTd2w3RkE3OC1tcEg5cWp0cmJYaHRIWWhza3pqOHJJOTdiZmFnOFJPYVV5UkYwZ2NnSzIzOU9DcXF2WnAzU090VTNOTExoOWhjT3pqaGdYd0ZnbnlrRzhESWJMQ2llY0FUZzJZeTBDMVJRMFV1c2U4bGxEZy0wcXVRRGU4aEI0TGxWOHNzYU55RXpjc3oxVXc4RkE?oc=5)
-
----
-
-### [Blutdruck-Therapie: Sartane senken Abbruchrisiko um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
-
----
-
-### [UK humanitarian worker monitored for Ebola in London hospital](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41YjRVSlhyUjNPbUVBWFdfMUp1bm5OYkpxZ1JCQkxGS04yV3o3Q1lBYWNfNVNrRTJRT0pvWXE5dzRwU1Nsc2FDZXBnZ2tXTWk1WTZPalRIR0JUVDFp?oc=5)
-
-2026-07-22 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE41YjRVSlhyUjNPbUVBWFdfMUp1bm5OYkpxZ1JCQkxGS04yV3o3Q1lBYWNfNVNrRTJRT0pvWXE5dzRwU1Nsc2FDZXBnZ2tXTWk1WTZPalRIR0JUVDFp?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2pTdTN5cFpRNUNnYnNVX0NMc0lhVHRzdmx2UXBZeDVKNjltMVJvLTRuVnN6ZlhWSF9Rak5hUHlQY1p1TUc4VUtVZERuWjRaRmllS1pKaV9NdlAyWUs0bW9GcWpSUnBUZ1l3WFRFbDdqS0pNaU5UN3QwM19McXBKb0dMLTFNOEx3Y25lZ2VFS0c2WEZZWV90UkNOQkZhUkItcmNvRG42Ylh0MGNDOFRDQk8tUXJpelFxRS1sdXhyYmVkV1U?oc=5)
 
 ---
 
@@ -115,6 +115,14 @@ permalink: /news/mexiletine-hydrochloride/
 2026-07-21 <span class="news-indication-tag">AF</span>
 
 來源：[Al Jazeera](https://news.google.com/rss/articles/CBMingFBVV95cUxOdGdzYnc0NGsyUVdURHVZc1dTZmlzdDBhWFVyWHIyQlFLbDU5N2RvZGQ2aGNHMW9RRVp0ckJldk16NVB6cmQzRUtySG85X1lXOVBMekRodmliaGFoYUp2LXF4d1llNVM0d3FHQkZGdFJ3T3czQnBFR2VsY2NXUEc2UVRBSGNWZXB1VjZjTW1YRkZGLXRlYkR3TzVGS21Md9IBowFBVV95cUxOeVBQZDJiclhmQXdiX2dTZFlMWS0wMV96dlNOV2xuOENHMHAzaUowcjVka3c4UmJLbmdQRzNQd2xOR3EtckV5ekcyeFBocG9LVkVaMmdhMnpQbjBmNzVuOTZOWFpReHNsT0lTYU1CR2ViY3lQSnM0bVpDOUhqV0s1NU9mNnVvby13bHlvaTNLbk5aTEtFYjFTQXdtNXVPb0E2MzlZ?oc=5)
+
+---
+
+### [Hypertension artérielle : les parlementaires entérinent un compromis sur la proposition de loi Neuder - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
 
 ---
 
@@ -142,9 +150,17 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
+### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+
+---
+
 ### [Demenz-Prävention: 3.000 Schritte täglich können Alzheimer verlangsamen - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
 
-2026-07-21 <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
 
@@ -182,14 +198,6 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
-
----
-
 ### [Campaña de prevención del Virus del Nilo - Onda Mencía Radio](https://news.google.com/rss/articles/CBMifkFVX3lxTE16Ty1RbGJac2lDbWhLYXFNOXA4WWtURExHT0t0MVd6LU1WMVJvb1ZyU3hOVVY1WEZqd0xpMnZXWUR0Wl84d3YzWVo5SG11ejVRcHByZUYwUERIR2o5dDg5bHJXRWlReF9ZN1dybnEwN0pHcWZKZ3E4enViN0dZdw?oc=5)
 
 2026-07-21 <span class="news-indication-tag">AF</span>
@@ -198,11 +206,19 @@ permalink: /news/mexiletine-hydrochloride/
 
 ---
 
-### [« 80 % des hospitalisations pourraient être évitées » : Le Parlement adopte des mesures de lutte préventive contre les maladies cardiovasculaires - Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
+### [Allarme in Venezuela per una patologia letale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFROWmZPVmlYbjVMZENPZ1ZuaWhZRmxaTWdzdWpqUVQ1c3hXWWswMWNQWFRPZ0doWjBaRFg5d1JFYmIyWGc4UXZ3Y1dNQ2syelNJdHhVczhKNks5MXE5YUcwLTgycmExbFVsTDFKSkx3WnlfcXFHTHcwT1VVT0FXTG02YkRtc0ctdnVjZA?oc=5)
 
-2026-07-21 <span class="news-indication-tag">hypertension</span>
+2026-07-21 <span class="news-drug-tag">Dexrazoxane Hydrochloride</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
+來源：[Ticinonline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFROWmZPVmlYbjVMZENPZ1ZuaWhZRmxaTWdzdWpqUVQ1c3hXWWswMWNQWFRPZ0doWjBaRFg5d1JFYmIyWGc4UXZ3Y1dNQ2syelNJdHhVczhKNks5MXE5YUcwLTgycmExbFVsTDFKSkx3WnlfcXFHTHcwT1VVT0FXTG02YkRtc0ctdnVjZA?oc=5)
+
+---
+
+### [Anche Ricciardi inchioda Conte sulla pandemia: "Gestione frammentata per motivi politici" - il Giornale](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk43MXM4eWtMcVJDeWhjMkRUcFFBa3p4R0haRnowb3BaNjh0VTBTVlMzYU1HMlZZbFBMWkJ5UThPcW54Q21oX3ZFX2VhSE5LMkk5SjQ5eW4wZzM4MTlodmd3Z0M1eVNnU3loWE02Qk9HaldQT09CenlsWmFCQXJxUFk2VDQ3aUdleTRxTWhyZnJMbDlXMzJiWExyaWF2S283Y0dNQ2EzcXpaZw?oc=5)
+
+2026-07-21 <span class="news-indication-tag">AF</span>
+
+來源：[il Giornale](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdk43MXM4eWtMcVJDeWhjMkRUcFFBa3p4R0haRnowb3BaNjh0VTBTVlMzYU1HMlZZbFBMWkJ5UThPcW54Q21oX3ZFX2VhSE5LMkk5SjQ5eW4wZzM4MTlodmd3Z0M1eVNnU3loWE02Qk9HaldQT09CenlsWmFCQXJxUFk2VDQ3aUdleTRxTWhyZnJMbDlXMzJiWExyaWF2S283Y0dNQ2EzcXpaZw?oc=5)
 
 ---
 
@@ -211,14 +227,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-07-21 <span class="news-indication-tag">AF</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPNmNxUUdvZ3dkZXZTaFdVQldDTlJhVnRyTGlDU2tBeXpDdzIyX3I2V2hnakpIZVU1WFB1eEFEb3p2TFJLSVgycTk3dTd1WUpIZ2s3d1liMmJJWHVZcmM0TnZDZUtiaHVEY2M1bV9fblUyMllPbFdXSm92Y1pibE1kaTh6allQZXpaT19zQm83V0VyU1BGeTAxdjgwSm9WbXdkQk5uY2kwaFNhTFg4aS1STkhzMlpXNGs3bU5tT1RtR3dVNEdVRG81NVlqNmdqOXN1TTZBWTBtMkJJaUVWbGZ6QU9DYlBJTElaYWhBM2dkbzk0bjVlbEc1bkdHTEI5ZkE1LThDRzJVMVY0MWxRQzEyeG5pYWJxenROeXN5dzhxMDA1NGYycEVPVUtfUWtzMWvSAbQCQVVfeXFMTm0tSHRhWjl6U2cxOGZzTkkwVDVTbmJzLXdMUmI2N3hsVU1aZVNmWnJZdzRjWFRGLXNYWVhxWVE5R3ZHSkdVNmFWdkxzcWx3cjRPcVJiaE8xRjMxVUItOGVXOXA3WEQxVnU2d3RCaC1BNXpxWU40bFdZNjd4WTZYcjB5NnlyVldfVDV4alhNTC1CMG1GeHpNWndoUEJNODZUXy01djdZQktmNWx1UWwtWGxtWE00Mng2dF9rWGhqNnZmdXE3bWROLURHUkg3Z1B3S3ZCZkJYME1lVGh1M3doYmtCcG5HcGt1U2NuRWR6QzBTRUF0LXF1VUJRVk1OaG9yWWJrTkpMRWF6elRQY2hXM3ZpZEg2MGtvM1BRakVGYWhtZlFiODUwRldFc21wOWhIamJRbTQ?oc=5)
-
----
-
-### [Sri Lanka uses air force drones to tackle spreading dengue outbreak](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDVoUG4tUU94eDVpWTlBMzhFNHBHNFItRGVUaldmLXdpVkMyOS1iUjRVV05qSG1PTFJMNXdPR2d5UUdLSWx3aWNtcTFkNmUwRVA1aS1MSkNleTVfZlNBQ1BGUEZuaFl6RzN1RWtsTUVKVFZDOUg5ZWgzZUFOT2NRd2gwd1lsZXoycS0xa3pEZ0lHMEoxRUNyX2FqZUJoZWVpU09YeVU3S1dBODJoZnpLVVZwSDJ5X3BlOFNiSmdraUdlanVLY2gzVnhDTVktNE5NdUE?oc=5)
-
-2026-07-21 <span class="news-indication-tag">AF</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDVoUG4tUU94eDVpWTlBMzhFNHBHNFItRGVUaldmLXdpVkMyOS1iUjRVV05qSG1PTFJMNXdPR2d5UUdLSWx3aWNtcTFkNmUwRVA1aS1MSkNleTVfZlNBQ1BGUEZuaFl6RzN1RWtsTUVKVFZDOUg5ZWgzZUFOT2NRd2gwd1lsZXoycS0xa3pEZ0lHMEoxRUNyX2FqZUJoZWVpU09YeVU3S1dBODJoZnpLVVZwSDJ5X3BlOFNiSmdraUdlanVLY2gzVnhDTVktNE5NdUE?oc=5)
 
 ---
 
@@ -235,54 +243,6 @@ permalink: /news/mexiletine-hydrochloride/
 2026-07-20 <span class="news-indication-tag">AF</span>
 
 來源：[WIRED](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTZXWjRZT1pNRnVsVGEwZEs5MTQ5UTJqRmJXZEt0M3lBQW1lRE9xNUk4NTdDbzBnTXBTdXZsbWJFenpxR1pWS1FONEFQajJ1a2E3R2ZOZS1yYkZYeW9xakd3Y213czVGdmJLa1lNWi1mRlhiblBEdmdMVGVtemYyX1hiTnN6X3M?oc=5)
-
----
-
-### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
-
-2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
-
----
-
-### [Squirrelpox outbreak sparks red squirrel warning in Formby](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJYThlZHVjOHBERHdTMkhZT3FEM21UNmZ6ejFXOF9iMTNNS3NiSXN6OE5pOGFFZ0ltemZuRS0tUVVKUDJCcDUyM1FSN0hzTHVxZkFMR0lBQU02SGNp?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJYThlZHVjOHBERHdTMkhZT3FEM21UNmZ6ejFXOF9iMTNNS3NiSXN6OE5pOGFFZ0ltemZuRS0tUVVKUDJCcDUyM1FSN0hzTHVxZkFMR0lBQU02SGNp?oc=5)
-
----
-
-### [Ein Gen mit Aussagekraft](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYi1JOFJ5WTAwelp1cHA0VUFmMUprbkpCc3k4UzFaMUtLY0lBMVhNVlBKSG16dEhoOUdwMWNuaXhCOVVPc3IwTmJUdVQ1Ry0xTWRHMHl2aDl0RWJRZnI4RFRzQzJXZ3dkWGJQOGhNQ2FDbGdWOG5nMjFUSkRLYm8?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NYi1JOFJ5WTAwelp1cHA0VUFmMUprbkpCc3k4UzFaMUtLY0lBMVhNVlBKSG16dEhoOUdwMWNuaXhCOVVPc3IwTmJUdVQ1Ry0xTWRHMHl2aDl0RWJRZnI4RFRzQzJXZ3dkWGJQOGhNQ2FDbGdWOG5nMjFUSkRLYm8?oc=5)
-
----
-
-### [Herz aus dem Takt: So kommt man Vorhofflimmern auf die Spur - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWFDZi1sRXBsT1hWMW1Cdzk4OHVLMGphc2NLWWxYaGoyZVg5ODdJX1VmY1VfMXRYVlBGMzh4UVhwOEN2eGhEcVdHOGdfTzNyRS1kQWk3YTlpeXY3V1l5c0pfMmpnTzVDMFdVa2ZnODhpWERjRGVSd253UU1VcHFud0Y1dTFVVk83RW5qa2JuWnhUMWllbUVma0d3SE93SWlLeEl5UU1rb0loQUQ0cURUdkJ3TGVPQ2VidTh0dldrRjl1dw?oc=5)
-
-2026-07-20 <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWFDZi1sRXBsT1hWMW1Cdzk4OHVLMGphc2NLWWxYaGoyZVg5ODdJX1VmY1VfMXRYVlBGMzh4UVhwOEN2eGhEcVdHOGdfTzNyRS1kQWk3YTlpeXY3V1l5c0pfMmpnTzVDMFdVa2ZnODhpWERjRGVSd253UU1VcHFud0Y1dTFVVk83RW5qa2JuWnhUMWllbUVma0d3SE93SWlLeEl5UU1rb0loQUQ0cURUdkJ3TGVPQ2VidTh0dldrRjl1dw?oc=5)
-
----
-
-### [Medici ruler ‘killed with arsenic’ may have died from malaria - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazRYZHo5bVRNRXFucFVqcHBKYlR6RzlNenhUSV9LLVV3ZUMwUWdHdjNXNmd4Y2MzQktNNW9hOE1mSTVMbk9hRHZwWXFNd2pJN3A5Z0xnYWFjYWtWYTJJc3E4eHc5V1I0d3dXem9jeWJJLV8xRVRuakVvWWZtRGpXVmRqc3dzY1NRSnIwSnMtT3UtaG1oTEE?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazRYZHo5bVRNRXFucFVqcHBKYlR6RzlNenhUSV9LLVV3ZUMwUWdHdjNXNmd4Y2MzQktNNW9hOE1mSTVMbk9hRHZwWXFNd2pJN3A5Z0xnYWFjYWtWYTJJc3E4eHc5V1I0d3dXem9jeWJJLV8xRVRuakVvWWZtRGpXVmRqc3dzY1NRSnIwSnMtT3UtaG1oTEE?oc=5)
-
----
-
-### [Vitamine in der Schwangerschaft: Welche braucht der Körper? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtwUlV5NHA2Y3V6RTJKQzV1UUxhaXJnMnJPc0tfN1ZoY3dwbHpHOGN2UTJQWU0tVTg0dVdMZmZmY1FpSUxwTWVkNzhvRF9Wb09jUmtCUUJRY3VTTWlOeTFDQ05wLXd6dXlIMjBBeVJGaFFaUE5LcjFIejgydUc1SlNNZTk5c1daOXV3TGRDbVVYbFpSVlgyTTh2YjQxT2ZPaFR2MXhfZWhBOWhkTHdBeDdDaE45bzNlVkE?oc=5)
-
-2026-07-20 <span class="news-indication-tag">AF</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtwUlV5NHA2Y3V6RTJKQzV1UUxhaXJnMnJPc0tfN1ZoY3dwbHpHOGN2UTJQWU0tVTg0dVdMZmZmY1FpSUxwTWVkNzhvRF9Wb09jUmtCUUJRY3VTTWlOeTFDQ05wLXd6dXlIMjBBeVJGaFFaUE5LcjFIejgydUc1SlNNZTk5c1daOXV3TGRDbVVYbFpSVlgyTTh2YjQxT2ZPaFR2MXhfZWhBOWhkTHdBeDdDaE45bzNlVkE?oc=5)
 
 ---
 

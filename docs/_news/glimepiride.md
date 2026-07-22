@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="Glimepiride 有什麼相關新聞？">
-<strong>Glimepiride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glimepiride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/glimepiride/
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [Typ-2-Diabetes: Intervallfasten statt Kalorienzählen - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJtU3hISHRQdW0zYWxaQWpLYUNjdWxWV2NIanV3blJDbnpld2dNSklzVkhROEhwWVNwbmxUaU9RVFZFcS1fb2s5eU1vOGRrYkFDQkFsQ2p1M0pKTnFhWEJsTUxIdVZ2Q1U5ZFZ0TUluRmkxSlhESjA5aksyRGRwZVdqYXBYM3NxMm51S1BtZ3JpUkZ2bUtBaWlFUWZhUHM4S1VqWkVmNlk?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/glimepiride/
 
 ---
 
-### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+### [Alzheimer-Prävention: SGLT2-Inhibitoren senken Risiko um 43%](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2Rib1JoV1p4U3A1MW1WR0p0emxIUHRvNFUzX01XS05FYndPbXRCeWJYTnZjeXBneGdQLU1LeV90SkVkSjh4MW9OdzhTNEZMUWlfNXlsSDF4c2tBbm1seWFrRGpfUE1QOHlMenZoTXA1UnY5ZE9abXJVbEhWRXZZN1hhdU90ZkZXZGowMThYYzBnS3p4REtzT243WjQyTExuYlQzcGo3bHZ2RTlPYWNXTDdMd1pYaWM?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ2Rib1JoV1p4U3A1MW1WR0p0emxIUHRvNFUzX01XS05FYndPbXRCeWJYTnZjeXBneGdQLU1LeV90SkVkSjh4MW9OdzhTNEZMUWlfNXlsSDF4c2tBbm1seWFrRGpfUE1QOHlMenZoTXA1UnY5ZE9abXJVbEhWRXZZN1hhdU90ZkZXZGowMThYYzBnS3p4REtzT243WjQyTExuYlQzcGo3bHZ2RTlPYWNXTDdMd1pYaWM?oc=5)
+
+---
+
+### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ permalink: /news/glimepiride/
 
 ---
 
-### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
-
----
-
 ### [Neue Zelltherapie eröffnet bei Typ-1-Diabetes eine große Chance - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabetes</span>
@@ -102,19 +102,11 @@ permalink: /news/glimepiride/
 
 ---
 
-### [SGLT2-Hemmer senken Alzheimer-Risiko deutlich: Bis zu 43% laut JAMA Network Open - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWW9zcHJaSWhoVGxXaG5xcXI1clV1YWhFdmpKY1NYZDVSdGJpeVAtUXY3SjE2TWxwWkp5b2JIc2NiQ0RqMkRBS1g3VncwUjBUUFFiMTVpaVR6VUhRNy1CakZIaU92MkF4cDY2UXBhX2NPQTVFZ3Ytb19IZnBlcFE1WlAyZ3lQMXhuTHVpQXJlNlBTNGdWN3JpQTN5VjZyZUg5V2JrS0dNN3Atcjl5dm5V?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWW9zcHJaSWhoVGxXaG5xcXI1clV1YWhFdmpKY1NYZDVSdGJpeVAtUXY3SjE2TWxwWkp5b2JIc2NiQ0RqMkRBS1g3VncwUjBUUFFiMTVpaVR6VUhRNy1CakZIaU92MkF4cDY2UXBhX2NPQTVFZ3Ytb19IZnBlcFE1WlAyZ3lQMXhuTHVpQXJlNlBTNGdWN3JpQTN5VjZyZUg5V2JrS0dNN3Atcjl5dm5V?oc=5)
-
----
-
-### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 ---
 

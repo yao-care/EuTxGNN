@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [¿Por qué algunas personas son más propensas a la depresión?](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOenhvTm9NNkpJM0hNOVkzdTBITUQxaWdnRzJsWlllaktjMGgwOHk2cmhDOXRyOWdWVFd6cW81TmVTR3Vid2JvV0NPbjlvSlEwT3hNTGg3STBua1JrbHhBd1FEZTliVWRRMVNOOU5tc2Zybk91a2Q4cVo4ejBHX2xSSFBLX29Gc0YtRE93NzFiUld4T1hWNW5RUjdzQk1TcWFaM3FRTGFLbjcyYTY5WWh0VDJXRlZvdlV1S0lQa1dpZTU5U1AwMlU3NF9sYnJONGZEbndZTVRUdXNaaGtGZ00xUkVn0gHiAUFVX3lxTE5lZGxOTWI3TmJDYlplUjlzYWtjSjVlUXBVWVhfel9kN1J4bUY5TUZEQU1xXzQzbk9qd0lsUjBuUjI0YmFUTl8wcnMwZm44dVNBcVJoYWpBOU1PbjMwRjRJWks1emdwam5TeWJTZ0ttT3BzLVpwdDBVa0dtOF9YbWptRXdvbWVlcWUtVXlnSzAzZUpsdDZjcThEV1BzTlJSUjBRbUpBSFlpaGdlYTJMWVJpZjg2NWlxTlZGTkhXeHFWOW5yNXY2OFBfMVRwNldNV2NxWGFtXzFjUUtxMGhOUG0zZVE?oc=5)
+### [¿Qué genes hacen que algunas personas sean más susceptibles a la depresión? - La Vanguardia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZCcjlVanlwQ0JJVEpCRmhhSE1RVHRveWlDWFVsdmVxanl2akFHbU1NZHQ1RlpGSGVyTFVQSDlNSVU0VGd1TDQ4RXIwTWstZmxWSENhTWEybVhpMXNnOVFzX2R5LWhfdzJpc1BIMTFHQkZjazZjTktnQ3lGc3RHUW9OWmVtVHBpM1JzWkhrRTBHNHdjdTZiWTVpYVJpSE5xdmNOamFtUFRBRDh20gGyAUFVX3lxTE1zVWh1SU5lNURBTkl5RnRwWW13US0wbGR1SENjZHdlUTYyZWZYVml2ajNuMWQzNzloU0NlY2YtSnNQWXozV01RelVOVk53c2tMN2ctT1VJc2tVQmdpNk1oRGpjeTUxOG9XMlNyVERxQW5VeUFiT285T2pzazRnSTd5Yjl6MFFfUVlMOXh3eUlfQ0MtV2JuQWpwbDJLMHI0WUZ4a2kwSlFoZGFURjlfMngzYlE?oc=5)
 
-2026-07-21 <span class="news-indication-tag">depresión</span>
+2026-07-22 <span class="news-indication-tag">depresión</span>
 
-來源：[dw.com](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOenhvTm9NNkpJM0hNOVkzdTBITUQxaWdnRzJsWlllaktjMGgwOHk2cmhDOXRyOWdWVFd6cW81TmVTR3Vid2JvV0NPbjlvSlEwT3hNTGg3STBua1JrbHhBd1FEZTliVWRRMVNOOU5tc2Zybk91a2Q4cVo4ejBHX2xSSFBLX29Gc0YtRE93NzFiUld4T1hWNW5RUjdzQk1TcWFaM3FRTGFLbjcyYTY5WWh0VDJXRlZvdlV1S0lQa1dpZTU5U1AwMlU3NF9sYnJONGZEbndZTVRUdXNaaGtGZ00xUkVn0gHiAUFVX3lxTE5lZGxOTWI3TmJDYlplUjlzYWtjSjVlUXBVWVhfel9kN1J4bUY5TUZEQU1xXzQzbk9qd0lsUjBuUjI0YmFUTl8wcnMwZm44dVNBcVJoYWpBOU1PbjMwRjRJWks1emdwam5TeWJTZ0ttT3BzLVpwdDBVa0dtOF9YbWptRXdvbWVlcWUtVXlnSzAzZUpsdDZjcThEV1BzTlJSUjBRbUpBSFlpaGdlYTJMWVJpZjg2NWlxTlZGTkhXeHFWOW5yNXY2OFBfMVRwNldNV2NxWGFtXzFjUUtxMGhOUG0zZVE?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZCcjlVanlwQ0JJVEpCRmhhSE1RVHRveWlDWFVsdmVxanl2akFHbU1NZHQ1RlpGSGVyTFVQSDlNSVU0VGd1TDQ4RXIwTWstZmxWSENhTWEybVhpMXNnOVFzX2R5LWhfdzJpc1BIMTFHQkZjazZjTktnQ3lGc3RHUW9OWmVtVHBpM1JzWkhrRTBHNHdjdTZiWTVpYVJpSE5xdmNOamFtUFRBRDh20gGyAUFVX3lxTE1zVWh1SU5lNURBTkl5RnRwWW13US0wbGR1SENjZHdlUTYyZWZYVml2ajNuMWQzNzloU0NlY2YtSnNQWXozV01RelVOVk53c2tMN2ctT1VJc2tVQmdpNk1oRGpjeTUxOG9XMlNyVERxQW5VeUFiT285T2pzazRnSTd5Yjl6MFFfUVlMOXh3eUlfQ0MtV2JuQWpwbDJLMHI0WUZ4a2kwSlFoZGFURjlfMngzYlE?oc=5)
+
+---
+
+### [Demenzprävention: Antientzündliche Ernährung senkt Risiko um 29%](https://news.google.com/rss/articles/CBMivwFBVV95cUxNczlhdG5SR2JpZ0didEU5bGFnX3lCRnJaZEhoUXpScGZtQ2kxbFJDblpkUGh2Ymcwc0Q2dW56T3FiZnE2OFhtWVhzUTk4U3pSVzY0V1lpSDJOVXB5cUpMOUZYQmFKd2s0LUt4T3hPdUxXRnZHd193dXJlcnlNNUoxa1JsZVZ0RGdnRWFIT3NjZGhHVV9ibkZuaTBEbTZVVXN3eWZIRjBOUzMyemJ4RTNRLWotMUFnRV9WM2tYcV9mMA?oc=5)
+
+2026-07-21 <span class="news-indication-tag">depression</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNczlhdG5SR2JpZ0didEU5bGFnX3lCRnJaZEhoUXpScGZtQ2kxbFJDblpkUGh2Ymcwc0Q2dW56T3FiZnE2OFhtWVhzUTk4U3pSVzY0V1lpSDJOVXB5cUpMOUZYQmFKd2s0LUt4T3hPdUxXRnZHd193dXJlcnlNNUoxa1JsZVZ0RGdnRWFIT3NjZGhHVV9ibkZuaTBEbTZVVXN3eWZIRjBOUzMyemJ4RTNRLWotMUFnRV9WM2tYcV9mMA?oc=5)
 
 ---
 

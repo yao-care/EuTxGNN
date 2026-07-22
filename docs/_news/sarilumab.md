@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+
+2026-07-22 <span class="news-indication-tag">copd</span>
+
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+
+---
 
 ### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
@@ -62,19 +70,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Así es la nueva opción terapéutica para convivir con asma grave y pólipos nasales - La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
+### [Morbus Crohn: Fastendiät hilft 70 Prozent der Patienten](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1JiQlE5eTlCUS1DT25sanQyQUNvc3lLRHZWY2JRdElUaEFZTFhCZm14SWE1SjY2Ym9sdWNCMmtoQWdMTlFLYjljYjhwSW9tNnp0czBfY0FFdUpyZi0yWGFZT1RVMHNZRndMYmh5aFI5MTJkOGEyTVhta0JvWXl0dTBrWlctVEw3d2hmN09xUFR5c3ZEcF9XZFByUllhNmUwTDRfUWMzdw?oc=5)
 
-2026-07-22 <span class="news-indication-tag">asma</span>
+2026-07-22 <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[La Razón](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMjJxN3BxR0l2TkJWQm1EUTA1X0FSdjdna1JxU2hMRkFpQ25XQkItMS1oZ3Q5Q3Rka2pESWpMLW1wSFNEa292Rm4tVGEySmJBMFMyWmtIT0g0NnpIZmtvZ2JkZExGNlp0Zmstb0VWemxORHVnVC1MeUhRYXlNQ2xwUlEyT3NvYVhqdC1NaW1HVEEyQkdCVXoxaXBCVldZX2tPWHhxbENfY25sT0dHR25JM3pZRGVDSW14c2FfQk5BUjNJdmU1S2JsWFhGNNIB3wFBVV95cUxNWG92dlhtcmRObk9vV3lpU1J1amNTVUlmcVlEYWdqUHdlTWNZd19WZ0tvaGNTckhncTJ0MFdLRUVhR3N0WmwtaGxyNUEtT0Z3UXVWVHhTSkRJNGN0ZVpmc1RVQWQwZkdYVjM0QWpRNDl5UTJ5dTBRTG9Tdm4zRFJjSWJwS1NrcmtpcF9YZlBibElwR3RxLURoblJ3NEpiZ3drOWJZMWw2NTNuZV93YXp3SGdqMmI4WmNod3NIMjdiRkNuWjBYZmZDaXFpV2VvQ1l0SmxzQ0VuekxKXzdWNjVr?oc=5)
-
----
-
-### [COPD: Hülsenfrüchte senken Entzündungsmarker um 7,4 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
-
-2026-07-21 <span class="news-indication-tag">copd</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1JiQlE5eTlCUS1DT25sanQyQUNvc3lLRHZWY2JRdElUaEFZTFhCZm14SWE1SjY2Ym9sdWNCMmtoQWdMTlFLYjljYjhwSW9tNnp0czBfY0FFdUpyZi0yWGFZT1RVMHNZRndMYmh5aFI5MTJkOGEyTVhta0JvWXl0dTBrWlctVEw3d2hmN09xUFR5c3ZEcF9XZFByUllhNmUwTDRfUWMzdw?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/sarilumab/
 2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUlKSXo3S1U4b2JzeFYtZmRjZUI1enNlNW5INF83X0xGSkxJb1pnaWgzQjlia3diQk1uTDNZTnZDVTlPcG5LWmx6S1Z5d2ljOVpoR2pZR3hKeTNLZjFrRWxhdkNndm9VN04tYUdCUjgtUlBtaXJHZlRjRnQ5TXdMT2p1WEhYZzVfSU12UEhjTGlBZExsVDVPNkw4MWFaY2FnMjJPbG9NakdIUDFkOTUtOFdn?oc=5)
-
----
-
-### [Microbioma e medicina anticipatoria: come le esperienze infantili plasmano la salute per tutta la vita - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
-
-2026-07-20 <span class="news-indication-tag">asma</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUy1JZkgtN3d2RXhvSmF5Rkk1Wno2SVhEVjZENURvcWpUZnV3TDBiVkVDZndZcHhWdVFzWVl5V2U3Y2Q4LWdzbWI4NFV4aWtYcGNVb2t4c2ZrUTdkRDJXQ09FeDd4V2xHUDBXeVVPWGhMWHp5WkdObXp6LV9tWVJYemhTLXc5MkNBblZSSERMUzczdk9yOU9odG1odG1nTGNhMFU5eTM3QUdybU1EVm5aR3hBMFBWeEw4M3c?oc=5)
 
 ---
 

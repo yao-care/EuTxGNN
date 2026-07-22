@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [What top brain experts do to protect their memory - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjVHbHRMNUlORnV3VXJOZmFCc3YxcVVEdDdlQzUyUjJYSHQxZDNldWJfeDBtRXJlSk85WTY1ZkszbGFlRjhES3FnUDVWd00tNkM2N0FidVVQMlJKam9sSE9ZbEZTb2ZwaGtGdThfZVFpZjYtQW5WX1hEQk1hRVNLNzR4MlNzdmMzUjZzOGFhdzVTOVBQSlJIZWVQMmVBSW5vMnNVcnN3?oc=5)
-
-2026-07-22 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjVHbHRMNUlORnV3VXJOZmFCc3YxcVVEdDdlQzUyUjJYSHQxZDNldWJfeDBtRXJlSk85WTY1ZkszbGFlRjhES3FnUDVWd00tNkM2N0FidVVQMlJKam9sSE9ZbEZTb2ZwaGtGdThfZVFpZjYtQW5WX1hEQk1hRVNLNzR4MlNzdmMzUjZzOGFhdzVTOVBQSlJIZWVQMmVBSW5vMnNVcnN3?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
 

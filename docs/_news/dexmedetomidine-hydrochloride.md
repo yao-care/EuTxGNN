@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Blutdruck-Therapie: Sartane senken Abbruchrisiko um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+---
+
+### [Oft falsch diagnostiziert: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Migräne</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+
+---
+
+### [Hypertension artérielle : les parlementaires entérinent un compromis sur la proposition de loi Neuder - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/dexmedetomidine-hydrochloride/
 2026-07-21 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY05kSXFYTWVWTS04Y3I5eXJFd3VFbVRBUGpSZDllQUdiMHdWNE5CbGhSMURDVkF3OTdpQmpSME5sZWxXRjNEV3NtczNYcXAtYnhTYjhXcmNVcndPejludVR1Q3RpQW1nQmxFb2NrcEN2ZDAyZHhlQk02LWlFbEJxeHJsazFzcE1tY0dKSk9iUVFKMlVOUTJ6dFlFTEJvdTdxU1pfalVIOUJlYWFxS0NMLXdYQnk1TURaSE5fQjhtQzd2Y0xURnhfWU9SZk5Nc2ZsSkduT3BHdWx0cHUwd29jTTJoX2lNR2dFcElv?oc=5)
-
----
-
-### [« 80 % des hospitalisations pourraient être évitées » : Le Parlement adopte des mesures de lutte préventive contre les maladies cardiovasculaires - Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
-
-2026-07-21 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
 
 ---
 

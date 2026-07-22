@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Blutdruck-Therapie: Sartane senken Abbruchrisiko um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+---
+
+### [Hypertension artérielle : les parlementaires entérinent un compromis sur la proposition de loi Neuder - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+
+2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+
+---
+
 ### [Une étude sur 25 ans alerte : ces boissons données aux enfants augmenteraient de 52 % leur risque d’hypertension - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY05kSXFYTWVWTS04Y3I5eXJFd3VFbVRBUGpSZDllQUdiMHdWNE5CbGhSMURDVkF3OTdpQmpSME5sZWxXRjNEV3NtczNYcXAtYnhTYjhXcmNVcndPejludVR1Q3RpQW1nQmxFb2NrcEN2ZDAyZHhlQk02LWlFbEJxeHJsazFzcE1tY0dKSk9iUVFKMlVOUTJ6dFlFTEJvdTdxU1pfalVIOUJlYWFxS0NMLXdYQnk1TURaSE5fQjhtQzd2Y0xURnhfWU9SZk5Nc2ZsSkduT3BHdWx0cHUwd29jTTJoX2lNR2dFcElv?oc=5)
 
 2026-07-21 <span class="news-indication-tag">hypertension</span>
@@ -78,43 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
-
----
-
-### [« 80 % des hospitalisations pourraient être évitées » : Le Parlement adopte des mesures de lutte préventive contre les maladies cardiovasculaires - Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
-
-2026-07-21 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
-
----
-
 ### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
----
-
-### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
-
-2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
-
----
-
-### [Giornata neurologia, Sin: "Benessere del cervello una sfida che riguarda tutti" - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
 
 ---
 

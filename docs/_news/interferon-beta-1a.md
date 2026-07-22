@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（13 則）
 
-### [Blutdruck-Therapie: Sartane senken Abbruchrisiko um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+### [Thymulin: Neues Hormon bremst altersbedingte Entzündungen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2MzVTdKM0J3U1BLbmNlWGYxbEI3a1NRaUU3bkdFc3p6NHBpZmp4NFZvSC0ySnpXTjhCNWtTdHdwQlhTbko4cFdudWh6Mnprd29aZU90UnZDeTRjNlFKZjdsRUstYjV5Yk9JU1lJalN1WDlHR0ZVeHFpZFdCeU1vOXhtLWQwZGtybGtzR29zN21wQ29FNkdYRV9EcnRZX0QzdFdQTVVMTTI3dw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2MzVTdKM0J3U1BLbmNlWGYxbEI3a1NRaUU3bkdFc3p6NHBpZmp4NFZvSC0ySnpXTjhCNWtTdHdwQlhTbko4cFdudWh6Mnprd29aZU90UnZDeTRjNlFKZjdsRUstYjV5Yk9JU1lJalN1WDlHR0ZVeHFpZFdCeU1vOXhtLWQwZGtybGtzR29zN21wQ29FNkdYRV9EcnRZX0QzdFdQTVVMTTI3dw?oc=5)
+
+---
+
+### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+---
+
+### [DWP confirms eight infectious diseases that could qualify for PIP worth up to £458 a month - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bG1fclBjeDRUcTBQeFZPTU81Mk0yVHJvQjVKXzJXNU5Qd2lkUUY0TDRQUUxPVWNERUhIb2YzM1h5M1V6UExSR3FPaVZ0ZC1WZVdPN084dDlXV3hpUElwM1BESTdNdTZnWFlubkhPbXd6ZjBnSW52TkdwOA?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE42bG1fclBjeDRUcTBQeFZPTU81Mk0yVHJvQjVKXzJXNU5Qd2lkUUY0TDRQUUxPVWNERUhIb2YzM1h5M1V6UExSR3FPaVZ0ZC1WZVdPN084dDlXV3hpUElwM1BESTdNdTZnWFlubkhPbXd6ZjBnSW52TkdwOA?oc=5)
+
+---
+
+### [El ébola en la RDC alcanza los 2.473 casos confirmados y roza el millar de fallecidos - Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2VKUE1QZU1FNnJTR0lDQzZTZGhCWE11UVVOSTFxYS1VeFBlZkY3Ukp6cUZ2X3ZNc2FXSnR2bWhXdEUyV0VEanAtX0xsWWRGdHZXdFF1ZmdUdlpuTTI0ZVZVaXYyWnVrYThyaGp4R1F2Tllnc1dib25INVBIV3M4Mk1GMWZYUXU0TVFGUHA2NWk5ZFlMTXg5bUhKN1lYNHJWaFIyREFB?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2VKUE1QZU1FNnJTR0lDQzZTZGhCWE11UVVOSTFxYS1VeFBlZkY3Ukp6cUZ2X3ZNc2FXSnR2bWhXdEUyV0VEanAtX0xsWWRGdHZXdFF1ZmdUdlpuTTI0ZVZVaXYyWnVrYThyaGp4R1F2Tllnc1dib25INVBIV3M4Mk1GMWZYUXU0TVFGUHA2NWk5ZFlMTXg5bUhKN1lYNHJWaFIyREFB?oc=5)
+
+---
+
+### [Demenza, le cinque buone pratiche adottate (e suggerite) da una specialista della «brain longevity» per prevenirla - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
+
+---
+
+### [Multiple Sklerose (MS): Angriff auf die Schaltzentrale, AMSEL e.V., Story](https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ0IxTW5VUG92LUk5ZUxBR1U4dF9uUmlDQUdCcUpqd1g4UmFZUE5kdjFzajA0RDZycGZ2LWhtRjRaZGlKdmRNMEVXbEQ0V1EwWFF3eEhCdUtkSEM4R2ZRRjktQllpMFZvNk5JanhUUlF2RFliclF0Q3pyREJWVzJYLWdfb0pObUcxdkdUV3FETFBMWFFwN3B5T19oWUt2VG5IM3gtZEhmaDNVSjNyal9VNDdTMDZYU1lvSU5VNUVYbEt0QjNTNGNrNlhRYTB0VlQ0a2lxVWgxUUxpd2F6NHpCSUg5N2dQR2lINEpXaU14QS1LSVktVURKQzI0RXlRZFlyNi1sQ3dyS1pVTmVMWHcxUWlKaW9jWldzc2RlcG5rakhLLTQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span>
+
+來源：[lifePR](https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ0IxTW5VUG92LUk5ZUxBR1U4dF9uUmlDQUdCcUpqd1g4UmFZUE5kdjFzajA0RDZycGZ2LWhtRjRaZGlKdmRNMEVXbEQ0V1EwWFF3eEhCdUtkSEM4R2ZRRjktQllpMFZvNk5JanhUUlF2RFliclF0Q3pyREJWVzJYLWdfb0pObUcxdkdUV3FETFBMWFFwN3B5T19oWUt2VG5IM3gtZEhmaDNVSjNyal9VNDdTMDZYU1lvSU5VNUVYbEt0QjNTNGNrNlhRYTB0VlQ0a2lxVWgxUUxpd2F6NHpCSUg5N2dQR2lINEpXaU14QS1LSVktVURKQzI0RXlRZFlyNi1sQ3dyS1pVTmVMWHcxUWlKaW9jWldzc2RlcG5rakhLLTQ?oc=5)
+
+---
+
+### [RDC : l'épidémie d'Ebola menace un million de personnes de pauvreté](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTRRenVQLVM2S3VDaFVQbDNvb0lTTll4UTZyVUJqMUJ0NHpFX1RpOHFmNllOT01LUWFBOEhEZ2NDek56Vm1FQzNPTHE0aEw5R2FUYk80WU9OYnpVLV9mQ2UzS25CZEdnRkpOQTc4cG1aOFdJUHIzX1dCMHBGVzNqV2xOSUtTRG8weXZXYWhKZ3hVQ3BMdi05cVZmanQybXpjeTF1d1ljbmJlLVlZVHBRMkhPT1l2VkR4N19kcEVodw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span>
+
+來源：[rts.ch](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTRRenVQLVM2S3VDaFVQbDNvb0lTTll4UTZyVUJqMUJ0NHpFX1RpOHFmNllOT01LUWFBOEhEZ2NDek56Vm1FQzNPTHE0aEw5R2FUYk80WU9OYnpVLV9mQ2UzS25CZEdnRkpOQTc4cG1aOFdJUHIzX1dCMHBGVzNqV2xOSUtTRG8weXZXYWhKZ3hVQ3BMdi05cVZmanQybXpjeTF1d1ljbmJlLVlZVHBRMkhPT1l2VkR4N19kcEVodw?oc=5)
 
 ---
 
@@ -70,11 +118,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Vitamin D: Stiftung Warentest warnt vor Überdosierung in Präparaten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1BYZ1BxODBYTTM4VFJIb2ZZZmVRY3BmTGcwdThxV3VfNXVoWnRHcXZEMkRtR0hqWUMybUVIV3FIbU1lYkluclM1a2lXZHJnb04xOFVCQnNmMUJOY2RUV1RsVGdvUWZLZ3c2d2RubkVNMGVXWWVpNlNvZzhaYWlDeTJKR2UwWDUxUlFLUTRtdm1uMVVxbFA5NHBLbjNuYXZpRlJtWDEzbm9Hd2g4Qk8zR3Q3eFRYMUl6?oc=5)
+### [SUMOylation enhances DNMT1 function to repress mega-intergenic RNAs and viral mimicry](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSE1rMy01Yi1DZmxkclJqNmNnTmhuWjh3MkduWDZQYjlOY3Bwekxpa2c1SGkzM3I2aWMtcFhSSElFbXhmU19fU3B2eGR3YzNIRWhiUjFzWFVEWHN3Q3p3?oc=5)
 
 2026-07-21 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1BYZ1BxODBYTTM4VFJIb2ZZZmVRY3BmTGcwdThxV3VfNXVoWnRHcXZEMkRtR0hqWUMybUVIV3FIbU1lYkluclM1a2lXZHJnb04xOFVCQnNmMUJOY2RUV1RsVGdvUWZLZ3c2d2RubkVNMGVXWWVpNlNvZzhaYWlDeTJKR2UwWDUxUlFLUTRtdm1uMVVxbFA5NHBLbjNuYXZpRlJtWDEzbm9Hd2g4Qk8zR3Q3eFRYMUl6?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSE1rMy01Yi1DZmxkclJqNmNnTmhuWjh3MkduWDZQYjlOY3Bwekxpa2c1SGkzM3I2aWMtcFhSSElFbXhmU19fU3B2eGR3YzNIRWhiUjFzWFVEWHN3Q3p3?oc=5)
 
 ---
 
@@ -107,14 +155,6 @@ permalink: /news/interferon-beta-1a/
 2026-07-20 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnpMdE5kSzViV2U2N19WUnp2Q1ppeFNkQjVQNTJwSl81NFpJZ284b3dBZ2d3ZnRucHRwSzZpNjR3eTZUREw5c0xWMWRFOFI4dGw1ajhnQTNIOWtHeE9BLXRscDVqT0NGSldNT2w5eTNkM1huUXRlXzJNV0NiM01Id1hGSTlKcjBLaENMZ0VEYzNXeFRtTDJPcDkwUnptRE5MMjNFMERXcDJpbWthWnFibzZKOU5XR21S?oc=5)
-
----
-
-### [Giornata neurologia, Sin: "Benessere del cervello una sfida che riguarda tutti" - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
 
 ---
 

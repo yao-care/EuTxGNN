@@ -54,19 +54,19 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（2 則）
 
-### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
+### [Oft falsch diagnostiziert: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-22 <span class="news-indication-tag">Migräne</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 
 ---
 
-### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
+### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
 ---
 

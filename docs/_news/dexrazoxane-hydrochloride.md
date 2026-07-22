@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [COPD: Hülsenfrüchte senken Entzündungsmarker um 7,4 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
-2026-07-21 <span class="news-indication-tag">copd</span>
+2026-07-22 <span class="news-indication-tag">copd</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dFOGM4SFJPSFp3SUtCVnBfREh5WnhCU3dQeThTamtXOWFmcmhIMkhBY18xUm9OQUh5ejRsT01YLWxwMXVKbmFEN0ZJeTdkS3dYM3pSYS0wd1JtSXRGZUJMOWI4Tm16aVRIRWpNbFptajg5SEkxRXVXZGRaYWNFdHoxLXUzU2ZLQmtObHZNTzZCeFhmVU9UWkhJNGFUbUVvWFdtelVOUGRMZ015WGhz?oc=5)
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+
+---
+
+### [Allarme in Venezuela per una patologia letale](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFROWmZPVmlYbjVMZENPZ1ZuaWhZRmxaTWdzdWpqUVQ1c3hXWWswMWNQWFRPZ0doWjBaRFg5d1JFYmIyWGc4UXZ3Y1dNQ2syelNJdHhVczhKNks5MXE5YUcwLTgycmExbFVsTDFKSkx3WnlfcXFHTHcwT1VVT0FXTG02YkRtc0ctdnVjZA?oc=5)
+
+2026-07-21 <span class="news-drug-tag">Dexrazoxane Hydrochloride</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ticinonline](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFROWmZPVmlYbjVMZENPZ1ZuaWhZRmxaTWdzdWpqUVQ1c3hXWWswMWNQWFRPZ0doWjBaRFg5d1JFYmIyWGc4UXZ3Y1dNQ2syelNJdHhVczhKNks5MXE5YUcwLTgycmExbFVsTDFKSkx3WnlfcXFHTHcwT1VVT0FXTG02YkRtc0ctdnVjZA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（3 則）
 
-### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 ---
 
@@ -70,51 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Un bajo índice de fibrosis hepática favorece la remisión de la diabetes tras cirugía de obesidad - Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Malaga Actualidad](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUV84U0U0MlNrMHJUakotekRmMl9Ja1huTkRRSWhNNVlpeW5NYzMxbGxISE94TERTMXJrTWxvMTNqSE04WGlhajVGdlZfUF9JcUxpNGJiRElxRzR0RHctWGo4OTkzX0dESGxTSDJiYTlSb0cxOEZMU0ZvOWlIWE9jdGx2YzBSYlNpRjFYQ2lxUHNFb2hOUnVDQlR5RGRqUWdRb1MxYUtmU2RXdkJHTEl3TG9VZ1JRLXdGdUhWZWkxamZDRmpnem11ZWttN0dFS1ZGTmxmUGpQcVM0eW8?oc=5)
-
----
-
-### [Quanti caffè al giorno fanno bene al cuore? La nuova risposta dei cardiologi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
+### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTZpcHhieF9vWjdPeTRBald2Tmg2RXB2c3ptYTlwUGhpTUNqWkFfVWhhdTlQQ3dQYkt0dWFPUktOY08zbE9kQ3FWOWdpSmF1SUxMNUlHLW9jTXoxLWV6M1l3OGpaLVZXUjUxOFRaVmFwNDh3Z2FVeDJMcDEyWUNCSUExUndaOUJ0YjZESDBEdVRzZk54S3dGWGRmTmpfSWFNVnlTS1VrZG9xVTRYWjRZaERUSEZ6aTdIZTVVamd4eUlYYTBhcXVFWjZYdkxOV1Rs?oc=5)
-
----
-
-### [Fini les injections : une pilule promet une perte de poids spectaculaire](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
-
-2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX0QxMklMZU5TZ2Q3c2F3TlNhaVRoTFZUY3kyMGJIQTZKdkhoTWJFQ1g0T29FeXo3eE5WZUk0RTExSjZxNDcxLUlsV3RFRHdGcEF1Q2U0YjhjNEROZmpHVFpCTXRiM2VYSVlSR0RTM3k4NnpMSGJzU0xzdno4SDREX3RPS2VKQlJGUGxhYlI5SzROZlA2RlV6NGdn?oc=5)
-
----
-
-### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
----
-
-### [Perché è così facile ingrassare e tanto difficile dimagrire? Cosa dice la scienza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlAtWk1kMVR3eGtBLVVJZTZZdnJHaWNwMWp3eDlpRkRpTDBPNzVKemF1bndfNGM4Q1FfVktLS2NrQ29yMTdyV2FKN19jUWdTQmxfaTRzdDNzcmxCUUV4TlI4Y2NyS1hYUnZaYV91dXhObGpVS3BwU0VYeVhXRFkxQlkySmZSWE1tTUN1a2NjVU16ODhSYW9RMHlHSDQwdTM2aHQtSVpxdnF4U0pUc2tRTXZ6Wk84WE9Q?oc=5)
-
-2026-07-20 <span class="news-indication-tag">obesità</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlAtWk1kMVR3eGtBLVVJZTZZdnJHaWNwMWp3eDlpRkRpTDBPNzVKemF1bndfNGM4Q1FfVktLS2NrQ29yMTdyV2FKN19jUWdTQmxfaTRzdDNzcmxCUUV4TlI4Y2NyS1hYUnZaYV91dXhObGpVS3BwU0VYeVhXRFkxQlkySmZSWE1tTUN1a2NjVU16ODhSYW9RMHlHSDQwdTM2aHQtSVpxdnF4U0pUc2tRTXZ6Wk84WE9Q?oc=5)
-
----
-
-### [Giornata neurologia, Sin: "Benessere del cervello una sfida che riguarda tutti" - Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
-
-2026-07-20 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdUxYMWJyN0tXSW1JYUl5dnl0eEFLeUVJUmhfdGx2cTZ4NmpyU1B0NFJodWxPY1pxeVVwT1RMTDdUeEJ1cktZajQwbTV0RzRmYkhUcnYxRklfR1djU1MzX09uYmtuY04wTzdNS0lBTFYxbnpOOThxX2hBb3FrRDhodzdzaGIxcGlwRU1Ddk9ZRDA0VFZ2QmZsWkQwMnB1bFFWQjdha084M3hMSW9HbGVnb3VISFJmc3J6QllWVXVSQ1gtb2Y3YmlTclVNV2RNY2NHUzZYZEVjWTd4TjI3VVRZVQ?oc=5)
+來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 ---
 

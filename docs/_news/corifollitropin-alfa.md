@@ -54,11 +54,27 @@ permalink: /news/corifollitropin-alfa/
 
 ## 相關新聞（6 則）
 
-### [Blutdruck-Therapie: Sartane senken Abbruchrisiko um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNX0dubWlEZ3ZjZFdYbGVPX2czU094cUg1TTB1TWItZ3NGczgySUJJTTRndm1raWlKSzE4R0pVSFRrQ2dacjNnOFV1WmNZRFgxU3JPczlqVktmb2taZ0QyLU5nMjlOajA3UXozR09GVlQzbnFleTF0SW5SckVaVXltY3dhR0FSTjdRYWZxMURrbW9lbHpSdzY3U2tmemNReFQwYTVXRldUMDJFRXF4TGRz?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+---
+
+### [Oft falsch diagnostiziert: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Migräne</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+
+---
+
+### [Hypertension artérielle : les parlementaires entérinent un compromis sur la proposition de loi Neuder - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
+
+2026-07-21 <span class="news-indication-tag">hypertension</span>
+
+來源：[Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
 
 ---
 
@@ -78,27 +94,11 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [« 80 % des hospitalisations pourraient être évitées » : Le Parlement adopte des mesures de lutte préventive contre les maladies cardiovasculaires - Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
-
-2026-07-21 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMipgJBVV95cUxPZENjZ3Rfa3ZEdXhNQzdSbENJa0hvYVJLQjNJUmswNUpwaTRSN3BnV2RqSmZ4R29JbW1XMzk0MHV4TEpKS1ZnRDdOY3BSdU1KRk5oQ2tpVHkzYXVWMnNUWkpsSGVuWEpzcTh1UnVCellwWURaREZQcjB4Q0NWRk85enhJR2Y4Z2pzNEttNlBvbGNKQVByeVk4Nl9FNXA3MkdGLUxIMWFFUllkLVpNMDh6N0psdldkZGk4aVdnQnJKd0V0dG9meFpfc1NuSXBCd3NZTlVZVlVhMnBoQkFoNkdwVUtKNi1UVjRwQzZJeXFYRFh4NDFBRmlqeThla0ZyUDFmY3FpTk50ZnhaT1NEQnRZQlljVUtPbU1tNk5neHplR0dVWVZpbFE?oc=5)
-
----
-
 ### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-07-20 <span class="news-indication-tag">heart disease</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
----
-
-### [Five cups of coffee a day safe for most adults, say heart experts - The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
-
-2026-07-20 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNvUTlOeFdQZEo5cHp4bDgxQk5RQzVFNXpXWTVMQmppeWdYT3RtbmxiTHJ4STBxMERuamc4bnRvYTB3WE9zWFhhQkRWOGU1S3lyV1pvc3VINzhNVEZVeUZHNmhHNm1MNGwtNEpjNFBjMDJXN2VTb2E2Uk1KQ0Q3cEROQ2NpVnJDSURkeFhVZVIwaE0?oc=5)
 
 ---
 
