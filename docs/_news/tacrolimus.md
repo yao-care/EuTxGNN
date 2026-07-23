@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Arthritis: Pim1-Kinase als Schalter für Entzündungen entdeckt](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2M3VUREdkpDbkZKaml2N2QxOEw0WlBIb3dJbUF5MVpnM0F2dGlnX0c5S0NzSDFIbEZQMmJmNGkxUWNleG9ObUxWdzJaTjJnbEtzSjRpQTZIVS1uNFJHRlJXLWltSnJROEFsVTlOeFlVTE1DUk5oY3EwZDUzX0ZtRlp4dERDblVna3NNT3NXU3NaU25wWm1Tbk1hZlcxdVpKUVcwSlJnLVlHMWJVVlhnSQ?oc=5)
+### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 
-2026-07-23 <span class="news-indication-tag">arthritis</span>
+2026-07-23 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2M3VUREdkpDbkZKaml2N2QxOEw0WlBIb3dJbUF5MVpnM0F2dGlnX0c5S0NzSDFIbEZQMmJmNGkxUWNleG9ObUxWdzJaTjJnbEtzSjRpQTZIVS1uNFJHRlJXLWltSnJROEFsVTlOeFlVTE1DUk5oY3EwZDUzX0ZtRlp4dERDblVna3NNT3NXU3NaU25wWm1Tbk1hZlcxdVpKUVcwSlJnLVlHMWJVVlhnSQ?oc=5)
-
----
-
-### [Guselkumab, ya disponible en España para el tratamiento de la psoriasis en placas en niños](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
-
-2026-07-22 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 
 ---
 

@@ -54,11 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（3 則）
 
-### [Arthritis: Pim1-Kinase als Schalter für Entzündungen entdeckt](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2M3VUREdkpDbkZKaml2N2QxOEw0WlBIb3dJbUF5MVpnM0F2dGlnX0c5S0NzSDFIbEZQMmJmNGkxUWNleG9ObUxWdzJaTjJnbEtzSjRpQTZIVS1uNFJHRlJXLWltSnJROEFsVTlOeFlVTE1DUk5oY3EwZDUzX0ZtRlp4dERDblVna3NNT3NXU3NaU25wWm1Tbk1hZlcxdVpKUVcwSlJnLVlHMWJVVlhnSQ?oc=5)
+### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
-2026-07-23 <span class="news-indication-tag">arthritis</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2M3VUREdkpDbkZKaml2N2QxOEw0WlBIb3dJbUF5MVpnM0F2dGlnX0c5S0NzSDFIbEZQMmJmNGkxUWNleG9ObUxWdzJaTjJnbEtzSjRpQTZIVS1uNFJHRlJXLWltSnJROEFsVTlOeFlVTE1DUk5oY3EwZDUzX0ZtRlp4dERDblVna3NNT3NXU3NaU25wWm1Tbk1hZlcxdVpKUVcwSlJnLVlHMWJVVlhnSQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
+
+---
+
+### [Fat jabs increase risk of losing your hair - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdU9ERWI2dlRsaFhxSWVjQTlCejUzWHREbWFPck9RWkc1dzFRSTllYkhCM0N2Y09DOFRsaWZvV0tWS3hzNm9vYjd5Zl9Hb192M3MzVkpHZEZVczVYbVB2XzVMX19lSzN5WWNvVTAzRC1qZFluUU43VVZ2NUJtU0pqbGx4cmNVNmhpTGVPb0RGNnVXWVBSaENvRFFR?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdU9ERWI2dlRsaFhxSWVjQTlCejUzWHREbWFPck9RWkc1dzFRSTllYkhCM0N2Y09DOFRsaWZvV0tWS3hzNm9vYjd5Zl9Hb192M3MzVkpHZEZVczVYbVB2XzVMX19lSzN5WWNvVTAzRC1qZFluUU43VVZ2NUJtU0pqbGx4cmNVNmhpTGVPb0RGNnVXWVBSaENvRFFR?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/tirzepatide/
 2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
----
-
-### [Fat jabs STOP binge drinking and slash hospitalisations by more than a quarter - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
-
-2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
 
 ---
 

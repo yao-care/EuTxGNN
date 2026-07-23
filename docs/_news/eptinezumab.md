@@ -14,7 +14,7 @@ permalink: /news/eptinezumab/
 ---
 
 <p class="key-answer" data-question="Eptinezumab 有什麼相關新聞？">
-<strong>Eptinezumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eptinezumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/eptinezumab/
 <p><a href="{{ '/drugs/eptinezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Una de cada siete personas padece migraña - Diario Siglo XXI](https://news.google.com/rss/articles/CBMimgFBVV95cUxQclNNcElnT2M1MzdtUzJVd3Q3LWpzRkQyNTNYWlJBdEhpeF9CeEJLZFAtV3RlMFBZX2o0ZzRZNEdJVC1Tc3J4Vkx4Sm1mRVdCUEI0NE84V2QtdEd5SUhQVzI4bmtwNTRfcUZoQy05YjMxcWphaF9rZ0tlR241b3I1dkpKY1pNZUc0eFJaLXRGb2FXVzlqM3A0b3dn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">migraña</span>
-
-來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMimgFBVV95cUxQclNNcElnT2M1MzdtUzJVd3Q3LWpzRkQyNTNYWlJBdEhpeF9CeEJLZFAtV3RlMFBZX2o0ZzRZNEdJVC1Tc3J4Vkx4Sm1mRVdCUEI0NE84V2QtdEd5SUhQVzI4bmtwNTRfcUZoQy05YjMxcWphaF9rZ0tlR241b3I1dkpKY1pNZUc0eFJaLXRGb2FXVzlqM3A0b3dn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Falsche Diagnose, echte Angst: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 

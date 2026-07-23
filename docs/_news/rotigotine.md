@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,61 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
 
-### [La RD del Congo supera la barrera de los 1.000 muertos confirmados por el brote de ébola - Onda Cero](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWdUM2VGdWZQWjFRZ3IzWVBrX2lSX3VPNG1LU1RuSlhBcDVURHF2RG5feXZRbWRTUUlXWFk1a3RfcDJ4QVEzQXZkNzFnU0NBanlkQ09sSzdrQy1rV1RYZUMybl83dy1FU01KWjNacWJwR09YbG05akExZGw3dkcxNjlkMDhCdFZmclEwTDc1RHRkeGZxcVZJN1FZSmJZY3NoblJ0c2xURGZWemdFa21pa0U1SHJuQmdCZXNCeTBBd0pHdlIwSXBOVmIxQTVGVUHSAc8BQVVfeXFMT2o5eXRZcVpELTFqeGd0RktQaDJiNFVkZi1zV2MzRVZJRmhHb3JzVUswNjh1RElzM3VQS01DNi1sOFA1U0liZ0lXSUFKaWZxd3NrajM3YUVaZ2F3U3JIeEJCNjQtajRuQnZfSEJUdjBvN0VOUWpwcDVSZ2ZzUUk2aWNIc2pzU0VpaWw2ZHpvNmlMWkNodXVDZjJHOGJ2R1Y4Yk0wQ2ZydlBVODF5bW1lYzFRUTZtckRVSUFPdUVHdzlVZWpYMTFvSVh4b1pHV0Vn?oc=5)
+### [Mutter der Braut bricht auf der Hochzeit zusammen – Ärzte finden seltenes „Happy-Heart-Syndrom“ - Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnliU3VLMExpY2xEOTU2WktGQnVSbFA0UzlkZkpyLW93Q1NWR29oemZrcF9RUUZhZV9vM2dEOXRCRGxpOGtkQ2NnRzJsTDBwWUZxdEhTeTllR0xacjVHRGcxZU10NW5zdW1HOGkyOXIzNHdiakIxanE0Y3J2QnNwTkdHRWJENHh6YmRKQTB2U1R0ZmU5X1QyWnhfdk5XZHBodG1RcXBTYWtiVlE?oc=5)
 
 2026-07-23 <span class="news-indication-tag">MS</span>
 
-來源：[Onda Cero](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWdUM2VGdWZQWjFRZ3IzWVBrX2lSX3VPNG1LU1RuSlhBcDVURHF2RG5feXZRbWRTUUlXWFk1a3RfcDJ4QVEzQXZkNzFnU0NBanlkQ09sSzdrQy1rV1RYZUMybl83dy1FU01KWjNacWJwR09YbG05akExZGw3dkcxNjlkMDhCdFZmclEwTDc1RHRkeGZxcVZJN1FZSmJZY3NoblJ0c2xURGZWemdFa21pa0U1SHJuQmdCZXNCeTBBd0pHdlIwSXBOVmIxQTVGVUHSAc8BQVVfeXFMT2o5eXRZcVpELTFqeGd0RktQaDJiNFVkZi1zV2MzRVZJRmhHb3JzVUswNjh1RElzM3VQS01DNi1sOFA1U0liZ0lXSUFKaWZxd3NrajM3YUVaZ2F3U3JIeEJCNjQtajRuQnZfSEJUdjBvN0VOUWpwcDVSZ2ZzUUk2aWNIc2pzU0VpaWw2ZHpvNmlMWkNodXVDZjJHOGJ2R1Y4Yk0wQ2ZydlBVODF5bW1lYzFRUTZtckRVSUFPdUVHdzlVZWpYMTFvSVh4b1pHV0Vn?oc=5)
+來源：[Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnliU3VLMExpY2xEOTU2WktGQnVSbFA0UzlkZkpyLW93Q1NWR29oemZrcF9RUUZhZV9vM2dEOXRCRGxpOGtkQ2NnRzJsTDBwWUZxdEhTeTllR0xacjVHRGcxZU10NW5zdW1HOGkyOXIzNHdiakIxanE0Y3J2QnNwTkdHRWJENHh6YmRKQTB2U1R0ZmU5X1QyWnhfdk5XZHBodG1RcXBTYWtiVlE?oc=5)
 
 ---
 
-### [Demenz-Prävention: 3.000 Schritte täglich bremsen Tau-Ablagerungen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDUtTlF3Qm5VZzFqbUg5RUozbHJPZFhWU3JmdFpmYWVYYjQxZ2FnVlVrTTI2eDRDbVpnemxfRW03NkRYZzdLeWlKSmhtUUtmTHVaZFhIWEdscWFNMGp1VktsUjNPMDV4TUVrZ25CcFNyY1F2RzJrLW9LSHpoVDJQQWd0YzJIaWFJTlJpWlpwNkl3cjZzYUFBX0ZPLW1wSFFsaHQ3a2JmSU1kSXoxeHRKSlJEM2E4Q1U?oc=5)
+### [El brote de ébola deja más de 1.000 muertos en RD Congo](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXRoT09PTVBpaGpPeFlCNWh4MnhqVHNhVEdyUXdZdFNtQUdZa2hSUm50ejI4QVZqRlh0NEd4V3U0NWZrcGdiM2hfc1pHVHlCbVl5UHVFTFJEVmRRSkF3YndkZVJad19KUDFPM21NS3piMUNRS2VDT1pONmdYRmFWV29uT2xjY0hscnExWVVrdDM?oc=5)
 
-2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-07-23 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDUtTlF3Qm5VZzFqbUg5RUozbHJPZFhWU3JmdFpmYWVYYjQxZ2FnVlVrTTI2eDRDbVpnemxfRW03NkRYZzdLeWlKSmhtUUtmTHVaZFhIWEdscWFNMGp1VktsUjNPMDV4TUVrZ25CcFNyY1F2RzJrLW9LSHpoVDJQQWd0YzJIaWFJTlJpWlpwNkl3cjZzYUFBX0ZPLW1wSFFsaHQ3a2JmSU1kSXoxeHRKSlJEM2E4Q1U?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXRoT09PTVBpaGpPeFlCNWh4MnhqVHNhVEdyUXdZdFNtQUdZa2hSUm50ejI4QVZqRlh0NEd4V3U0NWZrcGdiM2hfc1pHVHlCbVl5UHVFTFJEVmRRSkF3YndkZVJad19KUDFPM21NS3piMUNRS2VDT1pONmdYRmFWV29uT2xjY0hscnExWVVrdDM?oc=5)
 
 ---
 
-### [Multiple sclerosis: First drug to help patients walk now on NHS in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2I0VzB3V1Uya3lPb0kySHVpek9BQ25OUzEzRWpPOVZaMDVVdEQ5cDJXX21fR2ZQQWp2emZUVjlrWmNkc3Z1V1Z1Y1E3Tk1DRkxBczl2aUgzQnAw?oc=5)
+### [Ocrelizumab: Ein Funke Hoffnung bei schwerer MS](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzNWdGYtSGRZb3JUWXlIWkRaU09IRGduRkg4TC1DTEdBWTczQ3hRb3Y0dXNHSlkzek5RYlVReEJBd0o5X29EdjBYZnBKRkx4eGFxSjdZXzNSMmhHVTNVNk9vaGt3WEdHUUFXeTVrYTZzNm9od19MVkdCMkRIenBTQ3owdUhONWFxeWJhdUV1SGhJaVdjdUJoU0JJZ1Y?oc=5)
 
-2026-07-22 <span class="news-indication-tag">multiple sclerosis</span>
+2026-07-23 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2I0VzB3V1Uya3lPb0kySHVpek9BQ25OUzEzRWpPOVZaMDVVdEQ5cDJXX21fR2ZQQWp2emZUVjlrWmNkc3Z1V1Z1Y1E3Tk1DRkxBczl2aUgzQnAw?oc=5)
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzNWdGYtSGRZb3JUWXlIWkRaU09IRGduRkg4TC1DTEdBWTczQ3hRb3Y0dXNHSlkzek5RYlVReEJBd0o5X29EdjBYZnBKRkx4eGFxSjdZXzNSMmhHVTNVNk9vaGt3WEdHUUFXeTVrYTZzNm9od19MVkdCMkRIenBTQ3owdUhONWFxeWJhdUV1SGhJaVdjdUJoU0JJZ1Y?oc=5)
+
+---
+
+### [Potenzmittel könnte Krebs bremsen – Forschende finden neuen Ansatz, wie Sildenafil Metastasen hemmt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
+
+---
+
+### ['Life-changing' drug to help MS patients walk available to thousands on NHS - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
+
+2026-07-23 <span class="news-indication-tag">multiple sclerosis</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
+
+---
+
+### [Multiple Sklerose: Dieses Darmbakterium kann schützen](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3MzUnFkdmpfX2NpU3lKcFl6bUlFWGFGQ1NsdVFMX2w0dG8yUjc3bVMtZXhVTEFyczg4U1UxcDhjUEZTWFFjWWlqRkd3NUVKX0FYOEFzU3dXeHZHUjV5UEt3UnpkN1IyenE0Z2JxV1M1bm5McGQzbi1USG80THZGUDB6Q1g3bnlwZ2l0T2lNQkhvUGZwVFBITjZRNWY4T3dtVE9ZYUR4UGxEamE5WlNqbDF4X08?oc=5)
+
+2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3MzUnFkdmpfX2NpU3lKcFl6bUlFWGFGQ1NsdVFMX2w0dG8yUjc3bVMtZXhVTEFyczg4U1UxcDhjUEZTWFFjWWlqRkd3NUVKX0FYOEFzU3dXeHZHUjV5UEt3UnpkN1IyenE0Z2JxV1M1bm5McGQzbi1USG80THZGUDB6Q1g3bnlwZ2l0T2lNQkhvUGZwVFBITjZRNWY4T3dtVE9ZYUR4UGxEamE5WlNqbDF4X08?oc=5)
+
+---
+
+### [Giuseppe Fatati: «La longevità si costruisce un’estate alla volta. Il miglior risultato delle vacanze? Tornare a casa con un'abitudine nuova». Eccone 10 da mettere nella valigia del rientro (senza aspettare settembre) - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
+
+2026-07-23 <span class="news-indication-tag">MS</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
 
 ---
 
@@ -83,22 +115,6 @@ permalink: /news/rotigotine/
 2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
----
-
-### [Entzündungen: Autoantikörper neutralisieren Bremse – neue Wirkstoffe greifen an](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZEckhkOTJnd1lKcEtaMVNiWGQ4WDcyVGJxTldibjBHOTRGX2pGbTRxQ01IMFVEeVpQT1lkZXJlOGRzbm1HTm9JRENTQ2Fkc1BaQVdKYjFpd3JueVdBN0VqdXJqRVotQnplMjN4RHBNNzdxbndBN3hpdlZGdkxnZkpwaFRRN0Jyb09zWXl3Rm5hdDBsVUkwTkVNWWpIanZ6TG15VUtjaEJ4XzJJVVJWYUdqVUkzclE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZEckhkOTJnd1lKcEtaMVNiWGQ4WDcyVGJxTldibjBHOTRGX2pGbTRxQ01IMFVEeVpQT1lkZXJlOGRzbm1HTm9JRENTQ2Fkc1BaQVdKYjFpd3JueVdBN0VqdXJqRVotQnplMjN4RHBNNzdxbndBN3hpdlZGdkxnZkpwaFRRN0Jyb09zWXl3Rm5hdDBsVUkwTkVNWWpIanZ6TG15VUtjaEJ4XzJJVVJWYUdqVUkzclE?oc=5)
-
----
-
-### [Letby baby died from birth trauma, medical expert claims - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
 
 ---
 
@@ -118,11 +134,27 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Le bilan de l'épidémie d'Ebola en RDC et en Ouganda dépasse désormais les 1 000 morts](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTk5qdWMyYzZObDZ4empRemJtWXJQNEZzQ1FSTVowSEJyZHdrNWE0eTYyanc0OFFXaTRmMFVmRzFTX2g4dE9OSHMtejVaeUNiSkIyZXpLRnZwUlRzbzdEcElCYVp3MEowRTU3YVFZcUsyUlBvaW1aTVN4eF9Ha21PTmRnZm9wNG9sQi00aHA0UTBRTkpRRWdmSHktUlhINmdxR0ZWYXZYVURYNGFPRFBQNDZVMjVnMnZuYkFtVldLVng1dmZxT1ZkUW5kVjVlcXpLTU9nSFJsZk1ZUWVw?oc=5)
+### [Schrittzahl-Mythos: Warum schon 7.000 Schritte Demenzrisiko senken können - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZHWWZRVmR0TU0tSVdIdzlITjZjMFVlTV9KSkVobHBOamRqSjBZYTFwMFNUWjRCZlRSdUZDSHpnY0lXMlg2UGcxSHJ3Zk5VUlFJRlBsaHY0MGt3UEpHVlFPN0I0S2Z0ZzZGenQzQmFxRlNkUWNDdzhjaVdzTjBLVWkxRWQ0ZW5uamdld3pkWXp1TDRVb0dmRjNHbnFvQUJXdDFPZEdtTFE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZHWWZRVmR0TU0tSVdIdzlITjZjMFVlTV9KSkVobHBOamRqSjBZYTFwMFNUWjRCZlRSdUZDSHpnY0lXMlg2UGcxSHJ3Zk5VUlFJRlBsaHY0MGt3UEpHVlFPN0I0S2Z0ZzZGenQzQmFxRlNkUWNDdzhjaVdzTjBLVWkxRWQ0ZW5uamdld3pkWXp1TDRVb0dmRjNHbnFvQUJXdDFPZEdtTFE?oc=5)
+
+---
+
+### [Temperature sopra i 40°? Ecco cosa succede al corpo e chi corre più rischi - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMipgFBVV95cUxORE9IbG5wWk5mSmliMUtOOWRoZ3JnRmhQRGtxV3hqR0dlZHJwVWRQbWdKakwzVjJ2Y0xBcXQtY0R3aGo4MDZOZ0VKQlJTUTFUZ3dOaWxDRGRtWVhxQWFwT1Q3MGRwaDdGY1lhTHFHX0NmbWQ5N0xDV1lfVGFyaE5QazZIc2xXUU5IX2VzdzhOOVJwd1dvQUxOb281bnRzTXg0bFVyY3lB0gGrAUFVX3lxTE9YVlRYb1BScy02aWlfZzd1ajhmcGl0d1ZzWjc4OV8tcEx2czBPbllPRnBuS0RzTEdGSVhNVU14YnFIbzBtUk0ybDhSQWYyOEZoNHU1MGNOaUZnajI3QmMtMjhxLUxDc0VUQUxGTVdOSkdUMnEtOTRaalNYaF9XQnhFRkg2RFRJSEVVOVU5dXZlbGFibWZzOEwxOVcxWlZzVVhLd3cydlVWSFZaQQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMipgFBVV95cUxORE9IbG5wWk5mSmliMUtOOWRoZ3JnRmhQRGtxV3hqR0dlZHJwVWRQbWdKakwzVjJ2Y0xBcXQtY0R3aGo4MDZOZ0VKQlJTUTFUZ3dOaWxDRGRtWVhxQWFwT1Q3MGRwaDdGY1lhTHFHX0NmbWQ5N0xDV1lfVGFyaE5QazZIc2xXUU5IX2VzdzhOOVJwd1dvQUxOb281bnRzTXg0bFVyY3lB0gGrAUFVX3lxTE9YVlRYb1BScy02aWlfZzd1ajhmcGl0d1ZzWjc4OV8tcEx2czBPbllPRnBuS0RzTEdGSVhNVU14YnFIbzBtUk0ybDhSQWYyOEZoNHU1MGNOaUZnajI3QmMtMjhxLUxDc0VUQUxGTVdOSkdUMnEtOTRaalNYaF9XQnhFRkg2RFRJSEVVOVU5dXZlbGFibWZzOEwxOVcxWlZzVVhLd3cydlVWSFZaQQ?oc=5)
+
+---
+
+### [Demenza, le cinque buone pratiche adottate (e suggerite) da una specialista della «brain longevity» che possono contribuire a prevenirla - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
 
 2026-07-22 <span class="news-indication-tag">MS</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTk5qdWMyYzZObDZ4empRemJtWXJQNEZzQ1FSTVowSEJyZHdrNWE0eTYyanc0OFFXaTRmMFVmRzFTX2g4dE9OSHMtejVaeUNiSkIyZXpLRnZwUlRzbzdEcElCYVp3MEowRTU3YVFZcUsyUlBvaW1aTVN4eF9Ha21PTmRnZm9wNG9sQi00aHA0UTBRTkpRRWdmSHktUlhINmdxR0ZWYXZYVURYNGFPRFBQNDZVMjVnMnZuYkFtVldLVng1dmZxT1ZkUW5kVjVlcXpLTU9nSFJsZk1ZUWVw?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
 
 ---
 
@@ -152,7 +184,7 @@ permalink: /news/rotigotine/
 
 ### [SUMOylation enhances DNMT1 function to repress mega-intergenic RNAs and viral mimicry](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSE1rMy01Yi1DZmxkclJqNmNnTmhuWjh3MkduWDZQYjlOY3Bwekxpa2c1SGkzM3I2aWMtcFhSSElFbXhmU19fU3B2eGR3YzNIRWhiUjFzWFVEWHN3Q3p3?oc=5)
 
-2026-07-21 <span class="news-indication-tag">MS</span>
+2026-07-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpSE1rMy01Yi1DZmxkclJqNmNnTmhuWjh3MkduWDZQYjlOY3Bwekxpa2c1SGkzM3I2aWMtcFhSSElFbXhmU19fU3B2eGR3YzNIRWhiUjFzWFVEWHN3Q3p3?oc=5)
 
@@ -166,27 +198,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Fall eines Happy-Heart-Syndroms: Zu viel empfundenes Glück kann das Herz brechen](https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVptaXlnVmhvZ0YzZEZONmt0U2htMTNGWEtyTVk1dWxUME9MQjhrX2JNOGxNMkJ5d1pQbmpzZVNadDAzQ2dnWC1SdGxSNjBLU1FBa0x4VHJac1RoMWlIN3NCTF9OeWZRZEoyNE5WODdETEo5ZzdMbGk0RFNBT3l4aC1NUXNidDFRVWF1N25LQ3d6RnlXNUE?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span>
-
-來源：[n-tv.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVptaXlnVmhvZ0YzZEZONmt0U2htMTNGWEtyTVk1dWxUME9MQjhrX2JNOGxNMkJ5d1pQbmpzZVNadDAzQ2dnWC1SdGxSNjBLU1FBa0x4VHJac1RoMWlIN3NCTF9OeWZRZEoyNE5WODdETEo5ZzdMbGk0RFNBT3l4aC1NUXNidDFRVWF1N25LQ3d6RnlXNUE?oc=5)
-
----
-
 ### [The no-diet, no-exercise slimming hack as nurse claims it drops '6lb instantly' - so what's the expert verdict? - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWxxbWlhQ3N5MkxZcDZ2dmlOZVNia3pGXzRGYUxVZEdfS3FCV3liWVN6czZxSGZBY1NEVDV4Ry04NU84Q2VibVFUX0wxek5ZNENKZC1LdGZENmdqZjUxSGxZOW13VFhNM2owQWN6S0t4THZzcnFiTUZEdFQxaVRIZkNhenRxRFM4dTVV?oc=5)
 
 2026-07-21 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWxxbWlhQ3N5MkxZcDZ2dmlOZVNia3pGXzRGYUxVZEdfS3FCV3liWVN6czZxSGZBY1NEVDV4Ry04NU84Q2VibVFUX0wxek5ZNENKZC1LdGZENmdqZjUxSGxZOW13VFhNM2owQWN6S0t4THZzcnFiTUZEdFQxaVRIZkNhenRxRFM4dTVV?oc=5)
-
----
-
-### [Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds - The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
 
 ---
 

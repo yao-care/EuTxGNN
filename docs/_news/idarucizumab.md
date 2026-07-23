@@ -54,11 +54,11 @@ permalink: /news/idarucizumab/
 
 ## 相關新聞（3 則）
 
-### [Arthritis: Pim1-Kinase als Schalter für Entzündungen entdeckt](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2M3VUREdkpDbkZKaml2N2QxOEw0WlBIb3dJbUF5MVpnM0F2dGlnX0c5S0NzSDFIbEZQMmJmNGkxUWNleG9ObUxWdzJaTjJnbEtzSjRpQTZIVS1uNFJHRlJXLWltSnJROEFsVTlOeFlVTE1DUk5oY3EwZDUzX0ZtRlp4dERDblVna3NNT3NXU3NaU25wWm1Tbk1hZlcxdVpKUVcwSlJnLVlHMWJVVlhnSQ?oc=5)
+### [El calor intenso aumenta las complicaciones de las patologías respiratorias - El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
 
-2026-07-23 <span class="news-indication-tag">arthritis</span>
+2026-07-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2M3VUREdkpDbkZKaml2N2QxOEw0WlBIb3dJbUF5MVpnM0F2dGlnX0c5S0NzSDFIbEZQMmJmNGkxUWNleG9ObUxWdzJaTjJnbEtzSjRpQTZIVS1uNFJHRlJXLWltSnJROEFsVTlOeFlVTE1DUk5oY3EwZDUzX0ZtRlp4dERDblVna3NNT3NXU3NaU25wWm1Tbk1hZlcxdVpKUVcwSlJnLVlHMWJVVlhnSQ?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "CKD（chronic kidney disease） 相關新聞"
+title: "chronische Nierenerkrankung（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "chronische Nierenerkrankung（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
-# CKD（chronic kidney disease） 相關新聞
+# chronische Nierenerkrankung（chronic kidney disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
-<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="chronische Nierenerkrankung（chronic kidney disease） 有什麼相關新聞？">
+<strong>chronische Nierenerkrankung（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「CKD」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「chronische Nierenerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/chronic-kidney-disease/
 
 ## 相關新聞（1 則）
 
-### [Fat jabs STOP binge drinking and slash hospitalisations by more than a quarter - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
+### [Chronische Nierenerkrankung viel zu selten früh erkannt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk9WQ3FPOWljT2gxMjdWcmhEQmdFQnBHOVVfSWhRU1U4VXlxS09nVTZ6QTlBTVo2eTd3R2E5aER5MDlpOHQyYndTMWhLMm1odGVTNTJuakNCeGpub2szaXRrU0s3UkpZTzdIenozVHNGanVjV2dBbXRmQ0NrajZGQzQ4R0FxbnBaRHpJcFFDQi1hMjB4ejhGTXVUdTlUOVdwdkJtdEk1Q3k?oc=5)
 
-2026-07-21
+2026-07-23
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk9WQ3FPOWljT2gxMjdWcmhEQmdFQnBHOVVfSWhRU1U4VXlxS09nVTZ6QTlBTVo2eTd3R2E5aER5MDlpOHQyYndTMWhLMm1odGVTNTJuakNCeGpub2szaXRrU0s3UkpZTzdIenozVHNGanVjV2dBbXRmQ0NrajZGQzQ4R0FxbnBaRHpJcFFDQi1hMjB4ejhGTXVUdTlUOVdwdkJtdEk1Q3k?oc=5)
 
 ---
 

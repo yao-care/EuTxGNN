@@ -54,11 +54,11 @@ permalink: /news/regadenoson/
 
 ## 相關新聞（2 則）
 
-### [Una de cada siete personas padece migraña - Diario Siglo XXI](https://news.google.com/rss/articles/CBMimgFBVV95cUxQclNNcElnT2M1MzdtUzJVd3Q3LWpzRkQyNTNYWlJBdEhpeF9CeEJLZFAtV3RlMFBZX2o0ZzRZNEdJVC1Tc3J4Vkx4Sm1mRVdCUEI0NE84V2QtdEd5SUhQVzI4bmtwNTRfcUZoQy05YjMxcWphaF9rZ0tlR241b3I1dkpKY1pNZUc0eFJaLXRGb2FXVzlqM3A0b3dn?oc=5)
+### [El calor intenso aumenta las complicaciones de las patologías respiratorias - El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
 
-2026-07-22 <span class="news-indication-tag">migraña</span>
+2026-07-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diario Siglo XXI](https://news.google.com/rss/articles/CBMimgFBVV95cUxQclNNcElnT2M1MzdtUzJVd3Q3LWpzRkQyNTNYWlJBdEhpeF9CeEJLZFAtV3RlMFBZX2o0ZzRZNEdJVC1Tc3J4Vkx4Sm1mRVdCUEI0NE84V2QtdEd5SUhQVzI4bmtwNTRfcUZoQy05YjMxcWphaF9rZ0tlR241b3I1dkpKY1pNZUc0eFJaLXRGb2FXVzlqM3A0b3dn?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
 
 ---
 

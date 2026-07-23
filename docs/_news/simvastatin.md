@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Revisar la tensión y pedir una analítica al año: gestos sencillos de autocuidado que pueden evitar complicaciones como ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+
+2026-07-23 <span class="news-indication-tag">ictus</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+
+---
+
+### [AVC, troubles cognitifs… Des espoirs pour traiter la maladie des petits vaisseaux cérébraux qui touche des millions de personnes - Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
+
+2026-07-23 <span class="news-indication-tag">AVC</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
+
+---
 
 ### [Giornata mondiale della Neurologia, a Borgo Trento la stroke unit che tratta 500 pazienti l'anno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUXZ2Ym84NWtjeUxzeFFwd0VCbXZXNmdyZ1VPV0JGVHJwVzZSZ2NfMGtXelJRejVEM1NZOEhrS01FSlhrRF9yRFdMOXhHc1lOVmFzUWVlYllxQWZ3NGlKUFQ3ZlZLYXN0M0JmQjg4VzZrOEhmaDFIS29ld3U2S2lmZjR4Uk0yZjYzb2FfWmFaM0lnekFmR1cwUGNYdzlMdXVOTDV6c08xcnJZMTlIbmwyLUpjX3VXY2NCZlhxY25WX3hqdXRINUhoNWlJN1dzZlp5dEExUzVKM2c2R1Z6V0hlTWQ2Zk9ZUEhvZnpwddIB8gFBVV95cUxPbE5XbGxoU0FwQWMxTnZ6THhhTlp2ODM0SUZIU2N6dk9McTZQYnFKTHo5RFRLbkhLT1FFNm40TVo2Q0x2RHFralFyRS1iWkVYYjhvcWVmdERRS3hFR2lmT1R2MEJwRUJNSlpfbFFfNmxLdFJmV091WTJpcnF4NjNkdW85YmJDMFY1MnFCTW5sNldDSTJpSmQ5V2ZnY1MyR2NtLS1fanR6T0hBbXp5WDU0aXZGX1lTYlFtMjhDQVpQWnNUbUtYaVlGdzdONnVpcHdHLTc1YXZ3Z3oydHQwVmpZaDBJVk5KcUNuM20wY0NxX2Jxdw?oc=5)
 
@@ -75,14 +91,6 @@ permalink: /news/simvastatin/
 2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
----
-
-### [Studie: Herzinfarktpatienten haben oft Mikroplastik im Blut](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9jYjB3d0JNVmswRWZtLUZfZnBTclVDcnllVkVfVlVIZG01ald4cU5IendFNmdMYVJCZ0pwQk9naklyNlpMcEFtWFB4bjl1NmZXandLNVRYd3l0Z09KczRZTFNobFVHdG93eDJwcFduaWY2bmFrdUpORHNRV1lYSmxPRy1SWU0yVkN1bFhtSDlWV1ZQNWs3WFVhZXYwMUJVQ09ySUl3SWpQMUpVZ3VZdzFERFpDcUNKZ21V?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[oekotest.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9jYjB3d0JNVmswRWZtLUZfZnBTclVDcnllVkVfVlVIZG01ald4cU5IendFNmdMYVJCZ0pwQk9naklyNlpMcEFtWFB4bjl1NmZXandLNVRYd3l0Z09KczRZTFNobFVHdG93eDJwcFduaWY2bmFrdUpORHNRV1lYSmxPRy1SWU0yVkN1bFhtSDlWV1ZQNWs3WFVhZXYwMUJVQ09ySUl3SWpQMUpVZ3VZdzFERFpDcUNKZ21V?oc=5)
 
 ---
 

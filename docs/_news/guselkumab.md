@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
+
+---
+
+### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+---
+
+### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
+
+---
 
 ### [Typ-2-Diabetes bei jungen Frauen nimmt zu: UK warnt vor Verschiebung des Erkrankungsalters - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1dJY0ZGdDRtU0ZTZlZwZWVTalhwYlFMZFpZMzJRTFVpMmdHaW5OV0RldlgxU1g4SnJEaEVTZHJkc3VNa2pVLXUzTHhkQkVMSGFUVTJuY281MS1rWlNoSVJURVY2alZmY3lDVzZTNHQ1cUpZd2hMSVpTVFJLT2U0Zjd0ME5DbF95MDVVWGEtX0V6aUVQRDVzLUYzRVNYNU1GYS00LVRwSXhZNVU2Snp3WEQ5eXNzM0VkTkpLTnhR?oc=5)
 
@@ -78,11 +102,11 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Guselkumab, ya disponible en España para el tratamiento de la psoriasis en placas en niños](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+### [rbb GESUND - Hitze und Diabetes: ein problematisches Duo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMm1Sb0lPSm81TzM0ZkRMTm1Wc0JHTDBlLVpJb0RXRU9POUh1ZVFwbFBUMFdUeDI5ZnpsVzdIQ0dQbXFPcHF1UzhMSjhzQWVzZmtzaklJYlpuZFdmd0ZORkxnMnlFZXdSbFRGRmdCWVRJbDhiVERjR3VCVmR2ZklMQVhLTG5GVk1OYTRxNjBDenhmVVB4UXllNEc1cHJnU3JDZnJJdHFR?oc=5)
 
-2026-07-22 <span class="news-drug-tag">Guselkumab</span> <span class="news-indication-tag">psoriasis</span>
+2026-07-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVvdFhJNXFlQXlEUEFYaEV0V29HUTRhbDM0eVBJLTlwM0p4MS1KOGlDV2ZkU20yeWR4V1hERVdnUEc1OERfVjd3d0xGdTNpc2JWUTFMRWYyYnVtR2VqcjJxOWdKS195WlQ3UE1ENUd3SnZZWGFCQ05VaVU1Z0ZXekI4Z09HMExRTFo4Z2FXSHp3aUM4bDBZLWN2cGVmaV9kU181Y3hVRzFzWi02eUZ6SEN6TEpjdw?oc=5)
+來源：[Inforadio](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMm1Sb0lPSm81TzM0ZkRMTm1Wc0JHTDBlLVpJb0RXRU9POUh1ZVFwbFBUMFdUeDI5ZnpsVzdIQ0dQbXFPcHF1UzhMSjhzQWVzZmtzaklJYlpuZFdmd0ZORkxnMnlFZXdSbFRGRmdCWVRJbDhiVERjR3VCVmR2ZklMQVhLTG5GVk1OYTRxNjBDenhmVVB4UXllNEc1cHJnU3JDZnJJdHFR?oc=5)
 
 ---
 
@@ -99,14 +123,6 @@ permalink: /news/guselkumab/
 2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
----
-
-### [La contaminación atmosférica en la infancia incrementa el síndrome metabólico: ¿cómo proteger a los niños?...](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVhGWHVVQnI1Q0hlbWxUQWw0TjFzOVF6N1NXVGdDLVRFeXpfQ2FwbXdBZ2I5U2NrOXVRRlVxTkM2M1hsbzRWeThIbkU1Y01wUVF2WEo0T09zbXRCTkExTlhQU0Vzd1lJT0J4bm55a1gxT0ozUndqVEFjWTBIUWdzQmVYNXNCQVZpdzR2MkV3bjA4RkF3Yi16MGFPbUpzcmU3ZnFkWDhQUTNwbTlGOUJ4S192Z0RsVGZhR2VYUnJB0gHDAUFVX3lxTE1nS0NvTWV5TjJ5bVktc0FTXzJocnVnVzZxVXR0bUl5M1E3QUhIeGVoT2VDeXBONTJFU3RtalQ4eGV6a1VnUElIU3B4OXlScmd2a1NkbnZXQ2lEVmsyd3BGZ2FSQlBaZlVSZ01ESGhOVHdoRnh1dzdBWUdnMERySkdUdF8wV1J2UXJXWW94ZndDd1RJSWppelVzeTV2bGd5Y0o4QnI3MjhJOXVfVXJiVG5sVmRDR2JuNGxBaUNiWnVabkhBSQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVhGWHVVQnI1Q0hlbWxUQWw0TjFzOVF6N1NXVGdDLVRFeXpfQ2FwbXdBZ2I5U2NrOXVRRlVxTkM2M1hsbzRWeThIbkU1Y01wUVF2WEo0T09zbXRCTkExTlhQU0Vzd1lJT0J4bm55a1gxT0ozUndqVEFjWTBIUWdzQmVYNXNCQVZpdzR2MkV3bjA4RkF3Yi16MGFPbUpzcmU3ZnFkWDhQUTNwbTlGOUJ4S192Z0RsVGZhR2VYUnJB0gHDAUFVX3lxTE1nS0NvTWV5TjJ5bVktc0FTXzJocnVnVzZxVXR0bUl5M1E3QUhIeGVoT2VDeXBONTJFU3RtalQ4eGV6a1VnUElIU3B4OXlScmd2a1NkbnZXQ2lEVmsyd3BGZ2FSQlBaZlVSZ01ESGhOVHdoRnh1dzdBWUdnMERySkdUdF8wV1J2UXJXWW94ZndDd1RJSWppelVzeTV2bGd5Y0o4QnI3MjhJOXVfVXJiVG5sVmRDR2JuNGxBaUNiWnVabkhBSQ?oc=5)
 
 ---
 

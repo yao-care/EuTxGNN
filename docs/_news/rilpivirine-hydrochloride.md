@@ -54,11 +54,11 @@ permalink: /news/rilpivirine-hydrochloride/
 
 ## 相關新聞（2 則）
 
-### [Die stille Gefahr für die Leber. Elbe-Elster-Klinikum klärt zu Hepatitis auf - NIEDERLAUSITZ aktuell](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhDbld4SlMzekVOdDdGVUh6VmJUSlFXaXVlZ294Mk9Del8yUFNYV19KMFVnUXMtMjNTbWlGVGNMSFJ4NkhjNnRiYUxqYm1aNnltMlphWXJiQzNIQ1UzQWx6Rl9oWU9EcjVweUdXR0FnSW1lMFhER3pYN1VaMVIwWnpCZDdDY2dSNWFXU3NTbDI5Q190emV2OWtSdGROdm94SUlvbTJxU3dkOUZibXlhSTZ1a1FSRzlLWXhoMDZMWjZ6Q3ktWWc?oc=5)
+### [Deutsche Leberstiftung zum Welt-Hepatitis-Tag: Wissen über Hepatitis kann Leben retten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
 
-2026-07-23 <span class="news-indication-tag">hepatitis</span>
+2026-07-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[NIEDERLAUSITZ aktuell](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhDbld4SlMzekVOdDdGVUh6VmJUSlFXaXVlZ294Mk9Del8yUFNYV19KMFVnUXMtMjNTbWlGVGNMSFJ4NkhjNnRiYUxqYm1aNnltMlphWXJiQzNIQ1UzQWx6Rl9oWU9EcjVweUdXR0FnSW1lMFhER3pYN1VaMVIwWnpCZDdDY2dSNWFXU3NTbDI5Q190emV2OWtSdGROdm94SUlvbTJxU3dkOUZibXlhSTZ1a1FSRzlLWXhoMDZMWjZ6Q3ktWWc?oc=5)
+來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
 
 ---
 

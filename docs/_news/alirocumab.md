@@ -54,11 +54,11 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（1 則）
 
-### [Fat jabs STOP binge drinking and slash hospitalisations by more than a quarter - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
+### [Chronische Nierenerkrankung viel zu selten früh erkannt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk9WQ3FPOWljT2gxMjdWcmhEQmdFQnBHOVVfSWhRU1U4VXlxS09nVTZ6QTlBTVo2eTd3R2E5aER5MDlpOHQyYndTMWhLMm1odGVTNTJuakNCeGpub2szaXRrU0s3UkpZTzdIenozVHNGanVjV2dBbXRmQ0NrajZGQzQ4R0FxbnBaRHpJcFFDQi1hMjB4ejhGTXVUdTlUOVdwdkJtdEk1Q3k?oc=5)
 
-2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span>
+2026-07-23 <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk9WQ3FPOWljT2gxMjdWcmhEQmdFQnBHOVVfSWhRU1U4VXlxS09nVTZ6QTlBTVo2eTd3R2E5aER5MDlpOHQyYndTMWhLMm1odGVTNTJuakNCeGpub2szaXRrU0s3UkpZTzdIenozVHNGanVjV2dBbXRmQ0NrajZGQzQ4R0FxbnBaRHpJcFFDQi1hMjB4ejhGTXVUdTlUOVdwdkJtdEk1Q3k?oc=5)
 
 ---
 

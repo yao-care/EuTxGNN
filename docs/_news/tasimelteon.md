@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Wenn die Traurigkeit einzieht: So können Partner bei Depressionen unterstützen](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE5QdHljLU5YaWUyOG1nZHFQSGFUZVRNaUFwbzZQbHhBUFpLUHZsZm42bV9GZFo0aVhGcXFzN0FoNlF6bkoyNGRuLUVmeE9DVDVlUXhEVFg5cjd1emNBT2RhYXZpdlJGUTRTMXZCOG15UlN4V00teTBFTmNPZ2R4OG5yU1lRQzF1X0tpZm9HM3NDTG9nQU9tVGtYOVBNbjd4NVpzQ3JJNHBiRVV4WnF0amtoTldfRHplQ1V3dFNGdFRwcDcwdnkzczlB?oc=5)
-
-2026-07-23 <span class="news-indication-tag">depression</span>
-
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE5QdHljLU5YaWUyOG1nZHFQSGFUZVRNaUFwbzZQbHhBUFpLUHZsZm42bV9GZFo0aVhGcXFzN0FoNlF6bkoyNGRuLUVmeE9DVDVlUXhEVFg5cjd1emNBT2RhYXZpdlJGUTRTMXZCOG15UlN4V00teTBFTmNPZ2R4OG5yU1lRQzF1X0tpZm9HM3NDTG9nQU9tVGtYOVBNbjd4NVpzQ3JJNHBiRVV4WnF0amtoTldfRHplQ1V3dFNGdFRwcDcwdnkzczlB?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Depressione, ansia e altri disturbi: il cervello potrebbe leggere i sintomi meglio delle diagnosi](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS3V3Y0p4ZjJpNDB6bU9KVmVLQU1hVHlHNnFIQTRKdXhrQmU0eTFjZklCV2tzMHgxVnBrSWhVei1DTlJ5Y0VkS2prcmxVcV9raVBFejNyYXpUb2tuREZyZEl4Sk9weXlEcXdPZXlQdzE2eTB4cG1ubDEzeXg1aVFxVXpleFVJZVg2TGJaT19nV0FhNTdJV0dnOXg2elpoU1o5N1RrX29xazhZXy12X1lHdlJ4cGh5a2FKYkdhWmJMdWhJbEtyMm1YTVVELUxEWWxwR0lkVExxaS1tVFVkczVrZW5LSmcwenlnNVB3?oc=5)
 
@@ -78,11 +70,11 @@ permalink: /news/tasimelteon/
 
 ---
 
-### [¿Qué genes hacen que algunas personas sean más susceptibles a la depresión? - La Vanguardia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZCcjlVanlwQ0JJVEpCRmhhSE1RVHRveWlDWFVsdmVxanl2akFHbU1NZHQ1RlpGSGVyTFVQSDlNSVU0VGd1TDQ4RXIwTWstZmxWSENhTWEybVhpMXNnOVFzX2R5LWhfdzJpc1BIMTFHQkZjazZjTktnQ3lGc3RHUW9OWmVtVHBpM1JzWkhrRTBHNHdjdTZiWTVpYVJpSE5xdmNOamFtUFRBRDh20gGyAUFVX3lxTE1zVWh1SU5lNURBTkl5RnRwWW13US0wbGR1SENjZHdlUTYyZWZYVml2ajNuMWQzNzloU0NlY2YtSnNQWXozV01RelVOVk53c2tMN2ctT1VJc2tVQmdpNk1oRGpjeTUxOG9XMlNyVERxQW5VeUFiT285T2pzazRnSTd5Yjl6MFFfUVlMOXh3eUlfQ0MtV2JuQWpwbDJLMHI0WUZ4a2kwSlFoZGFURjlfMngzYlE?oc=5)
+### [Creatina: los mitos sobre el suplemento de moda que se resisten a desaparecer](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hMZXFfeE9YdnZ4TmFaY29iU0ViejlKdEVPRHNzUndqbTdidk1SVUpyZGZSU3dVaHZ5eVpyS2pHZjMtQkNtbDdFMHdyN19RNFpvSmFkX21UY2JxbTdGRlFURGpwSzctVDBTZTd3bHA0QWJHZjJJOGlWNkhUencxb0hVODlDemVkUzQ2ekRPbmF2d1M4Y0RzczFDeUxEQWRycEo5M1RTeklkU2pDSnFEN0xnUUdYRFk?oc=5)
 
-2026-07-22 <span class="news-indication-tag">depresión</span>
+2026-07-21 <span class="news-indication-tag">depresión</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlZCcjlVanlwQ0JJVEpCRmhhSE1RVHRveWlDWFVsdmVxanl2akFHbU1NZHQ1RlpGSGVyTFVQSDlNSVU0VGd1TDQ4RXIwTWstZmxWSENhTWEybVhpMXNnOVFzX2R5LWhfdzJpc1BIMTFHQkZjazZjTktnQ3lGc3RHUW9OWmVtVHBpM1JzWkhrRTBHNHdjdTZiWTVpYVJpSE5xdmNOamFtUFRBRDh20gGyAUFVX3lxTE1zVWh1SU5lNURBTkl5RnRwWW13US0wbGR1SENjZHdlUTYyZWZYVml2ajNuMWQzNzloU0NlY2YtSnNQWXozV01RelVOVk53c2tMN2ctT1VJc2tVQmdpNk1oRGpjeTUxOG9XMlNyVERxQW5VeUFiT285T2pzazRnSTd5Yjl6MFFfUVlMOXh3eUlfQ0MtV2JuQWpwbDJLMHI0WUZ4a2kwSlFoZGFURjlfMngzYlE?oc=5)
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hMZXFfeE9YdnZ4TmFaY29iU0ViejlKdEVPRHNzUndqbTdidk1SVUpyZGZSU3dVaHZ5eVpyS2pHZjMtQkNtbDdFMHdyN19RNFpvSmFkX21UY2JxbTdGRlFURGpwSzctVDBTZTd3bHA0QWJHZjJJOGlWNkhUencxb0hVODlDemVkUzQ2ekRPbmF2d1M4Y0RzczFDeUxEQWRycEo5M1RTeklkU2pDSnFEN0xnUUdYRFk?oc=5)
 
 ---
 
