@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,29 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Seven ways ready meals and biscuits are damaging your brain - The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUVMWUdnUkhpaW1kN0ZOZEl1eGgzTkNkRjRHNldoY2VDeWpla2J4Q3JLNnpjRWtoUl9QYkhxWDJLRWdZVGsweUpCODhPT3VheFFLV0g5OUtIYnlRWnVValdQN3BsNXpaTTRKODVkS3FOS0RfaFF1LURYQXVJOEFJNXU3dVhUU0J5bXJhd1lQaUpxYm1VTjJCcVMtUlR2OFlXTnM1Y3haT0E0Wmo5emc?oc=5)
+### [Scientists discover hidden gateways that allow the brain to clear waste - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
 
-2026-07-23
+2026-07-22
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUVMWUdnUkhpaW1kN0ZOZEl1eGgzTkNkRjRHNldoY2VDeWpla2J4Q3JLNnpjRWtoUl9QYkhxWDJLRWdZVGsweUpCODhPT3VheFFLV0g5OUtIYnlRWnVValdQN3BsNXpaTTRKODVkS3FOS0RfaFF1LURYQXVJOEFJNXU3dVhUU0J5bXJhd1lQaUpxYm1VTjJCcVMtUlR2OFlXTnM1Y3haT0E0Wmo5emc?oc=5)
-
----
-
-### [Nearly 49,000 brain scans reveal aging signatures linked to dementia, addiction and mental illness - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmkzenBzZmlzR2wzcm1BMENaYTdlUzU0bHlpNDN6aEpKRWFPSlkySW1KRGJwci1JaU83TFRlQ1ZzVkhBNVFKR2JKdmNnb3ZDdmx4OVo2NWNsbG51b2tPOG5PVUZ3SVdTbTB1UXBKYlktYnFWRzNmMUtWd0xiTERHQWRTLU42UQ?oc=5)
-
-2026-07-21
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmkzenBzZmlzR2wzcm1BMENaYTdlUzU0bHlpNDN6aEpKRWFPSlkySW1KRGJwci1JaU83TFRlQ1ZzVkhBNVFKR2JKdmNnb3ZDdmx4OVo2NWNsbG51b2tPOG5PVUZ3SVdTbTB1UXBKYlktYnFWRzNmMUtWd0xiTERHQWRTLU42UQ?oc=5)
-
----
-
-### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
-
-2026-07-21
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
 
 ---
 

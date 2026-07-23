@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ibuprofen</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [For 7 years I hid my 120-a-day Nurofen addiction… until my stomach burst - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnBZNW1TeDdYcERqUnJCbGFmcktrNzJfM1dFcEJfaTJsc3IzeW1VM1lERmNpT1B1bGhnSnpCSlRhZW5RQ09BMG5HYm5KSllST0QyUTdncXMzSVBub1ZaRkk0OHZtSmtQMVdxbkZEa2dfbEJGbzd5a0xzZjZqRjljUkgtS1psdw?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Ibuprofen</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnBZNW1TeDdYcERqUnJCbGFmcktrNzJfM1dFcEJfaTJsc3IzeW1VM1lERmNpT1B1bGhnSnpCSlRhZW5RQ09BMG5HYm5KSllST0QyUTdncXMzSVBub1ZaRkk0OHZtSmtQMVdxbkZEa2dfbEJGbzd5a0xzZjZqRjljUkgtS1psdw?oc=5)
+
+---
+
+### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+---
+
+### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">arthritis</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
+
+---
 
 ### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 

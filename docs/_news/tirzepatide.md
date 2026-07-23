@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Weight loss drugs linked to loss of hair in major new study - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeURKWDJfcVhQY2d0RVp1MVBxOXlwaTFGTTZwVjIyNUx3VVk3bEhqUUl5Skh2Z2NCNUNSQ2Q1bU1iUVZ1Y1pvT3Jza3pLRFNXTjVOSldMRTA0Z3V1dzdWb0F0cFhreEhHWWo3b3ZKUjE1M0lvOTV4bEh1MEpqTk1VQkVjdzNDZ2d6VzZ5OUdJR3pBQllrUXRURWtkWGRFNEE?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Tirzepatide</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeURKWDJfcVhQY2d0RVp1MVBxOXlwaTFGTTZwVjIyNUx3VVk3bEhqUUl5Skh2Z2NCNUNSQ2Q1bU1iUVZ1Y1pvT3Jza3pLRFNXTjVOSldMRTA0Z3V1dzdWb0F0cFhreEhHWWo3b3ZKUjE1M0lvOTV4bEh1MEpqTk1VQkVjdzNDZ2d6VzZ5OUdJR3pBQllrUXRURWtkWGRFNEE?oc=5)
+
+---
+
+### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+---
 
 ### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 
-### [Fat jabs increase risk of losing your hair - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdU9ERWI2dlRsaFhxSWVjQTlCejUzWHREbWFPck9RWkc1dzFRSTllYkhCM0N2Y09DOFRsaWZvV0tWS3hzNm9vYjd5Zl9Hb192M3MzVkpHZEZVczVYbVB2XzVMX19lSzN5WWNvVTAzRC1qZFluUU43VVZ2NUJtU0pqbGx4cmNVNmhpTGVPb0RGNnVXWVBSaENvRFFR?oc=5)
+### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Tirzepatide</span>
+2026-07-23 <span class="news-indication-tag">arthritis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdU9ERWI2dlRsaFhxSWVjQTlCejUzWHREbWFPck9RWkc1dzFRSTllYkhCM0N2Y09DOFRsaWZvV0tWS3hzNm9vYjd5Zl9Hb192M3MzVkpHZEZVczVYbVB2XzVMX19lSzN5WWNvVTAzRC1qZFluUU43VVZ2NUJtU0pqbGx4cmNVNmhpTGVPb0RGNnVXWVBSaENvRFFR?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 

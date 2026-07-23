@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="Brivaracetam 有什麼相關新聞？">
-<strong>Brivaracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brivaracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,22 +45,16 @@ permalink: /news/brivaracetam/
 <li>Rett syndrome, congenital variant（98.8%）</li>
 <li>restless legs syndrome（98.1%）</li>
 <li>partial motor epilepsy（97.8%）</li>
-<li class="indication-matched">epilepsy（96.2%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（96.2%）</li>
 <li>trigeminal nerve neoplasm（95.1%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Una nueva terapia personalizada ayuda a un menor con epilepsia grave a caminar sin ayuda](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjItbWxMemhqblZ6bHhzZHBONDVKb0RBZFZpOXFyQkZEVUtYcHRMZUhSU1BGcjBNYXprd0NucEpGY0g0Z25VR3pxck1pRTVGMmtxQV9FR0V5Z3hjU1hjN2RiajhZR2xCeVE1Zk9tbEJTaU0wbFJ4NjdBcWNLd3JuS0k5YS1WeEpYb2hTc3FaZVNSSVBhVTREdHNRc1RXNXFQdmliQkJvVFrSAa4BQVVfeXFMUGZJdDUtYzU0eDFmUmNIMG1LNDhiMGJhUms5MWFwbmNkbm1ROFppeWNkVE9aQk9HOVBvRzhXSEJWd0FBcVNRaDJHd1ZsZnVYWkstMmVYa3JZM0dNb0VOTGxPd1FrQ1lPaHl3TVMyanBIdU9ZSXJNUjM4X2hYOWVEcVNQN1pXN0NyNUd1WTZYNDJEa3I4WUo3c3NYY2pIRnFpR1BqNFZ3azZrVU1GWHZ3?oc=5)
-
-2026-07-21 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Deia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjItbWxMemhqblZ6bHhzZHBONDVKb0RBZFZpOXFyQkZEVUtYcHRMZUhSU1BGcjBNYXprd0NucEpGY0g0Z25VR3pxck1pRTVGMmtxQV9FR0V5Z3hjU1hjN2RiajhZR2xCeVE1Zk9tbEJTaU0wbFJ4NjdBcWNLd3JuS0k5YS1WeEpYb2hTc3FaZVNSSVBhVTREdHNRc1RXNXFQdmliQkJvVFrSAa4BQVVfeXFMUGZJdDUtYzU0eDFmUmNIMG1LNDhiMGJhUms5MWFwbmNkbm1ROFppeWNkVE9aQk9HOVBvRzhXSEJWd0FBcVNRaDJHd1ZsZnVYWkstMmVYa3JZM0dNb0VOTGxPd1FrQ1lPaHl3TVMyanBIdU9ZSXJNUjM4X2hYOWVEcVNQN1pXN0NyNUd1WTZYNDJEa3I4WUo3c3NYY2pIRnFpR1BqNFZ3azZrVU1GWHZ3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

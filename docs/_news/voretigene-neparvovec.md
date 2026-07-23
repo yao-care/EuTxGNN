@@ -54,6 +54,14 @@ permalink: /news/voretigene-neparvovec/
 
 ## 相關新聞（3 則）
 
+### [Sartane bei Bluthochdruck: Therapieabbruch sinkt laut JAMA-Metaanalyse deutlich - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
+
+---
+
 ### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
@@ -67,14 +75,6 @@ permalink: /news/voretigene-neparvovec/
 2026-07-22 <span class="news-indication-tag">hypertension</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXAtZDBlZmlfYjJ5ang5clEyeEllX08wRmZiXzlQQnJUSjhZZ1J0aE1ReTdmZVdWNGdkWHo1aWdaODRIVnpnLWpoLXFEYXYzQW1GdWdGM3pkTHdvMWlYWHBhMHE5N2VVZ1M3S1dWRVZRcVZ2VmtTcDI3TDNSbU8xeVA3VUt3SmxJbGpReXVXTVB2T1poT0lDVFZwUkJBbU1WMU9zU18tdXNWSi11VDB6NkNuc2Fib19yeGxIVEpWSFFKYVhWR1BMZWIwLXQ1bUhDdUo3eFpOWTNVRkd5eEhxWA?oc=5)
-
----
-
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 ---
 

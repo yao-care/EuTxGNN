@@ -34,11 +34,11 @@ permalink: /news/ulcerative-colitis/
 
 ## 相關新聞（1 則）
 
-### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
+### [IBD-Früherkennung: Antikörper verraten Crohn bis 10 Jahre vorher](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXJ3Q0F4a1VuZVRaX3ljMncxSW1PZTZXNFZ3MXo5RmZBQ2ZJNjNUVVhUd0d0eHg3Y29yUVVYSXdsMnZNbHVTZ1gxaURWZDBscnZsSUk4NFl6ekpKSHJZV3dld1JKSzdEcmpyaWZRRWhQckdhTjdYS2JRZW43OGFMbzd0alZCbmtzbE8ybjVQNUxhZ0pnOFAtdmNGdTZsQW9lOURNRXJwR3Z0SDE3b3kxeGdPLXM?oc=5)
 
-2026-07-21
+2026-07-23
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXJ3Q0F4a1VuZVRaX3ljMncxSW1PZTZXNFZ3MXo5RmZBQ2ZJNjNUVVhUd0d0eHg3Y29yUVVYSXdsMnZNbHVTZ1gxaURWZDBscnZsSUk4NFl6ekpKSHJZV3dld1JKSzdEcmpyaWZRRWhQckdhTjdYS2JRZW43OGFMbzd0alZCbmtzbE8ybjVQNUxhZ0pnOFAtdmNGdTZsQW9lOURNRXJwR3Z0SDE3b3kxeGdPLXM?oc=5)
 
 ---
 

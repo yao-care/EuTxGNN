@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Revisar la tensión y pedir una analítica al año: gestos sencillos de autocuidado que pueden evitar complicaciones como ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+### [Sartane bei Bluthochdruck: Therapieabbruch sinkt laut JAMA-Metaanalyse deutlich - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
 
-2026-07-23 <span class="news-indication-tag">ictus</span>
+2026-07-23 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
+
+---
+
+### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
 
 ---
 
@@ -94,27 +102,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
-
----
-
 ### [Aneurismi, ictus e infarti precoci: un gene regista della malattia può essere riparato](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
 
 2026-07-22 <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
-
----
-
-### [Ma il caffè fa bene al cuore? Si, ma alle giuste dosi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
 
 ---
 

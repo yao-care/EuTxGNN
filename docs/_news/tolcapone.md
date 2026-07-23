@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="Tolcapone 有什麼相關新聞？">
-<strong>Tolcapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tolcapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/tolcapone/
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Seven ways ready meals and biscuits are damaging your brain - The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUVMWUdnUkhpaW1kN0ZOZEl1eGgzTkNkRjRHNldoY2VDeWpla2J4Q3JLNnpjRWtoUl9QYkhxWDJLRWdZVGsweUpCODhPT3VheFFLV0g5OUtIYnlRWnVValdQN3BsNXpaTTRKODVkS3FOS0RfaFF1LURYQXVJOEFJNXU3dVhUU0J5bXJhd1lQaUpxYm1VTjJCcVMtUlR2OFlXTnM1Y3haT0E0Wmo5emc?oc=5)
+### [Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
-2026-07-23 <span class="news-indication-tag">dementia</span>
+2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUVMWUdnUkhpaW1kN0ZOZEl1eGgzTkNkRjRHNldoY2VDeWpla2J4Q3JLNnpjRWtoUl9QYkhxWDJLRWdZVGsweUpCODhPT3VheFFLV0g5OUtIYnlRWnVValdQN3BsNXpaTTRKODVkS3FOS0RfaFF1LURYQXVJOEFJNXU3dVhUU0J5bXJhd1lQaUpxYm1VTjJCcVMtUlR2OFlXTnM1Y3haT0E0Wmo5emc?oc=5)
-
----
-
-### [Nearly 49,000 brain scans reveal aging signatures linked to dementia, addiction and mental illness - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmkzenBzZmlzR2wzcm1BMENaYTdlUzU0bHlpNDN6aEpKRWFPSlkySW1KRGJwci1JaU83TFRlQ1ZzVkhBNVFKR2JKdmNnb3ZDdmx4OVo2NWNsbG51b2tPOG5PVUZ3SVdTbTB1UXBKYlktYnFWRzNmMUtWd0xiTERHQWRTLU42UQ?oc=5)
-
-2026-07-21 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dementia</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmkzenBzZmlzR2wzcm1BMENaYTdlUzU0bHlpNDN6aEpKRWFPSlkySW1KRGJwci1JaU83TFRlQ1ZzVkhBNVFKR2JKdmNnb3ZDdmx4OVo2NWNsbG51b2tPOG5PVUZ3SVdTbTB1UXBKYlktYnFWRzNmMUtWd0xiTERHQWRTLU42UQ?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
 ---
 
-### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+### [Scientists discover hidden gateways that allow the brain to clear waste - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
 
-2026-07-21 <span class="news-indication-tag">Alzheimer's</span>
+2026-07-22 <span class="news-indication-tag">dementia</span>
 
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
 
 ---
 

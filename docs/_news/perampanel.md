@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="Perampanel 有什麼相關新聞？">
-<strong>Perampanel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Perampanel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ permalink: /news/perampanel/
 <li>guanidinoacetate methyltransferase deficiency（99.6%）</li>
 <li>partial motor epilepsy（99.4%）</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features（99.1%）</li>
-<li class="indication-matched">epilepsy（99.0%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（99.0%）</li>
 <li>epilepsy with generalized tonic-clonic seizures（99.0%）</li>
 <li>trigeminal nerve neoplasm（98.7%）</li>
 <li>trigeminal neuralgia（97.2%）</li>
@@ -52,15 +52,9 @@ permalink: /news/perampanel/
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Una nueva terapia personalizada ayuda a un menor con epilepsia grave a caminar sin ayuda](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjItbWxMemhqblZ6bHhzZHBONDVKb0RBZFZpOXFyQkZEVUtYcHRMZUhSU1BGcjBNYXprd0NucEpGY0g0Z25VR3pxck1pRTVGMmtxQV9FR0V5Z3hjU1hjN2RiajhZR2xCeVE1Zk9tbEJTaU0wbFJ4NjdBcWNLd3JuS0k5YS1WeEpYb2hTc3FaZVNSSVBhVTREdHNRc1RXNXFQdmliQkJvVFrSAa4BQVVfeXFMUGZJdDUtYzU0eDFmUmNIMG1LNDhiMGJhUms5MWFwbmNkbm1ROFppeWNkVE9aQk9HOVBvRzhXSEJWd0FBcVNRaDJHd1ZsZnVYWkstMmVYa3JZM0dNb0VOTGxPd1FrQ1lPaHl3TVMyanBIdU9ZSXJNUjM4X2hYOWVEcVNQN1pXN0NyNUd1WTZYNDJEa3I4WUo3c3NYY2pIRnFpR1BqNFZ3azZrVU1GWHZ3?oc=5)
-
-2026-07-21 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Deia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNjItbWxMemhqblZ6bHhzZHBONDVKb0RBZFZpOXFyQkZEVUtYcHRMZUhSU1BGcjBNYXprd0NucEpGY0g0Z25VR3pxck1pRTVGMmtxQV9FR0V5Z3hjU1hjN2RiajhZR2xCeVE1Zk9tbEJTaU0wbFJ4NjdBcWNLd3JuS0k5YS1WeEpYb2hTc3FaZVNSSVBhVTREdHNRc1RXNXFQdmliQkJvVFrSAa4BQVVfeXFMUGZJdDUtYzU0eDFmUmNIMG1LNDhiMGJhUms5MWFwbmNkbm1ROFppeWNkVE9aQk9HOVBvRzhXSEJWd0FBcVNRaDJHd1ZsZnVYWkstMmVYa3JZM0dNb0VOTGxPd1FrQ1lPaHl3TVMyanBIdU9ZSXJNUjM4X2hYOWVEcVNQN1pXN0NyNUd1WTZYNDJEa3I4WUo3c3NYY2pIRnFpR1BqNFZ3azZrVU1GWHZ3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

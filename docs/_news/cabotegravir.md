@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（16 則）
+
+### [Bambino di 9 anni col diabete perde il volo da Londra, fermato per i controlli ai dispositivi: «Non ci hanno fatto partire per colpa mia» - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnEwcG03QzRvQ2g4alpLRHl5WjVCd1BjdkpRZmZlR1BiVTRlUFF3SzQ0VmtNZzhZRmNvNmU1VXFQbG9IajE0c1hGYlp6SERxaFVNSzY4MXJMaVMxb1VOeTJscGhoN2J6aFpwX0RIWnRzUTVyZnpQUHpUNE1tZzFVUjdrdmo0QXhHZkQ1TXNCMzJQYV80OFZNbVItQjVpR1FGNTloQWRaR0jSAa4BQVVfeXFMTzRvOEYybE9uODE1bkxDTmptNkpWVHNhRFNodHlyYk11Ylk4dVNld3ZrOGhPNDM5MUhVYmk4YkRoNTN0THF0TFgyYUppRVFvUHZ5bGNEaFBJSVR0VFRaY05haVVsMmhLWlUwOWYzV1lZTEJIMmViZUNoWkdHaWprcmMzQ25uTjY3TnM1R3pfbnBkZjZLWGd6ZWxDb1lEUlpuMkxYS0tPRFZDTWxQSlRB?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabete</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnEwcG03QzRvQ2g4alpLRHl5WjVCd1BjdkpRZmZlR1BiVTRlUFF3SzQ0VmtNZzhZRmNvNmU1VXFQbG9IajE0c1hGYlp6SERxaFVNSzY4MXJMaVMxb1VOeTJscGhoN2J6aFpwX0RIWnRzUTVyZnpQUHpUNE1tZzFVUjdrdmo0QXhHZkQ1TXNCMzJQYV80OFZNbVItQjVpR1FGNTloQWRaR0jSAa4BQVVfeXFMTzRvOEYybE9uODE1bkxDTmptNkpWVHNhRFNodHlyYk11Ylk4dVNld3ZrOGhPNDM5MUhVYmk4YkRoNTN0THF0TFgyYUppRVFvUHZ5bGNEaFBJSVR0VFRaY05haVVsMmhLWlUwOWYzV1lZTEJIMmViZUNoWkdHaWprcmMzQ25uTjY3TnM1R3pfbnBkZjZLWGd6ZWxDb1lEUlpuMkxYS0tPRFZDTWxQSlRB?oc=5)
+
+---
+
+### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
+
+---
 
 ### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
 
@@ -62,17 +78,25 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [El calor intenso aumenta las complicaciones de las patologías respiratorias - El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
+### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 
-2026-07-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+---
+
+### [Microbiote intestinal : et si dans un futur proche, il était possible de rajeunir le cerveau à l'aide de matières fécales ?](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOam1MOVZpVWFsaGxoTFBhbHpxY042dlRsa1lfX0xuRFlMOFRUQVYwU1JLYjJ6Z2pLX1ZhdVA4Y3JsVjR2d25SRWNEUUFtSU4xWVpHaC1saEt1ZmRjWkh6MnRySnZ2NEc0X3d1Mm0xS284ZEJPUjZGS0p0R2V6Y3JBZWRWdUtMd1pIUGVBbENsUVYyWHhvcWVDU21ucGMyS05IOHBIR1NqUW0zREhGOW1Jenc4NkJ3Wm1WZnJ3NElFb1huOTJJdVNsbWpfQUY1U2ZRZ2RoLWJSV3A?oc=5)
+
+2026-07-23 <span class="news-indication-tag">EPOC</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOam1MOVZpVWFsaGxoTFBhbHpxY042dlRsa1lfX0xuRFlMOFRUQVYwU1JLYjJ6Z2pLX1ZhdVA4Y3JsVjR2d25SRWNEUUFtSU4xWVpHaC1saEt1ZmRjWkh6MnRySnZ2NEc0X3d1Mm0xS284ZEJPUjZGS0p0R2V6Y3JBZWRWdUtMd1pIUGVBbENsUVYyWHhvcWVDU21ucGMyS05IOHBIR1NqUW0zREhGOW1Jenc4NkJ3Wm1WZnJ3NElFb1huOTJJdVNsbWpfQUY1U2ZRZ2RoLWJSV3A?oc=5)
 
 ---
 
 ### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
@@ -94,11 +118,27 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">arthritis</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
+
+---
+
 ### [Alzheimer-Risiko senken: Diabetes-Medikamente mit Potenzial bis 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
 
 2026-07-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
+
+---
+
+### [Boire son café à cette heure précise maximiserait ses effets sur le cerveau, selon les chercheurs - La Provence](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmt6em4zZ3lvYnVlV0ZQUFdqMWRBYVREajYwRVZXVklibGRRMV9xS1QyZUhLeEdnWE4wWVVjeUxQQ3JnRndIT3BNdl9lcjBWSmtCbkM0czZXRmd4d2x4ZWZnNWdUSjhDOTVGa2Nrd0VtT2xnd0ZHeFdicXBRcGo3SmdGUy1Yc0t0TW5yU1VfekgxWl9ySGV5XzQ2RXNYa2c3c3JpQkktQlA0ZlQxZkoyb1VMR2FsLWZIS3hWTkp3WlZCNFRxTEdrRkV1N1BiLUlDejIyZm95Yk5JQlhzODdDT0hBc2hRbHRMUkE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Provence](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmt6em4zZ3lvYnVlV0ZQUFdqMWRBYVREajYwRVZXVklibGRRMV9xS1QyZUhLeEdnWE4wWVVjeUxQQ3JnRndIT3BNdl9lcjBWSmtCbkM0czZXRmd4d2x4ZWZnNWdUSjhDOTVGa2Nrd0VtT2xnd0ZHeFdicXBRcGo3SmdGUy1Yc0t0TW5yU1VfekgxWl9ySGV5XzQ2RXNYa2c3c3JpQkktQlA0ZlQxZkoyb1VMR2FsLWZIS3hWTkp3WlZCNFRxTEdrRkV1N1BiLUlDejIyZm95Yk5JQlhzODdDT0hBc2hRbHRMUkE?oc=5)
 
 ---
 
@@ -118,14 +158,6 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Ma il caffè fa bene al cuore? Si, ma alle giuste dosi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
----
-
 ### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 2026-07-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
@@ -142,19 +174,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
-
----
-
-### [Neue Zelltherapie eröffnet bei Typ-1-Diabetes eine große Chance - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 ---
 

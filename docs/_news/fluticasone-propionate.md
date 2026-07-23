@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Propionate 有什麼相關新聞？">
-<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Propionate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/fluticasone-propionate/
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El calor intenso aumenta las complicaciones de las patologías respiratorias - El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
-
-2026-07-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

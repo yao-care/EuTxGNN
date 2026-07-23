@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Bambino di 9 anni col diabete perde il volo da Londra, fermato per i controlli ai dispositivi: «Non ci hanno fatto partire per colpa mia» - Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnEwcG03QzRvQ2g4alpLRHl5WjVCd1BjdkpRZmZlR1BiVTRlUFF3SzQ0VmtNZzhZRmNvNmU1VXFQbG9IajE0c1hGYlp6SERxaFVNSzY4MXJMaVMxb1VOeTJscGhoN2J6aFpwX0RIWnRzUTVyZnpQUHpUNE1tZzFVUjdrdmo0QXhHZkQ1TXNCMzJQYV80OFZNbVItQjVpR1FGNTloQWRaR0jSAa4BQVVfeXFMTzRvOEYybE9uODE1bkxDTmptNkpWVHNhRFNodHlyYk11Ylk4dVNld3ZrOGhPNDM5MUhVYmk4YkRoNTN0THF0TFgyYUppRVFvUHZ5bGNEaFBJSVR0VFRaY05haVVsMmhLWlUwOWYzV1lZTEJIMmViZUNoWkdHaWprcmMzQ25uTjY3TnM1R3pfbnBkZjZLWGd6ZWxDb1lEUlpuMkxYS0tPRFZDTWxQSlRB?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabete</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnEwcG03QzRvQ2g4alpLRHl5WjVCd1BjdkpRZmZlR1BiVTRlUFF3SzQ0VmtNZzhZRmNvNmU1VXFQbG9IajE0c1hGYlp6SERxaFVNSzY4MXJMaVMxb1VOeTJscGhoN2J6aFpwX0RIWnRzUTVyZnpQUHpUNE1tZzFVUjdrdmo0QXhHZkQ1TXNCMzJQYV80OFZNbVItQjVpR1FGNTloQWRaR0jSAa4BQVVfeXFMTzRvOEYybE9uODE1bkxDTmptNkpWVHNhRFNodHlyYk11Ylk4dVNld3ZrOGhPNDM5MUhVYmk4YkRoNTN0THF0TFgyYUppRVFvUHZ5bGNEaFBJSVR0VFRaY05haVVsMmhLWlUwOWYzV1lZTEJIMmViZUNoWkdHaWprcmMzQ25uTjY3TnM1R3pfbnBkZjZLWGd6ZWxDb1lEUlpuMkxYS0tPRFZDTWxQSlRB?oc=5)
+
+---
+
+### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
+
+---
 
 ### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
 
@@ -62,9 +78,17 @@ permalink: /news/sacubitril/
 
 ---
 
+### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+
+---
+
 ### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
@@ -83,6 +107,14 @@ permalink: /news/sacubitril/
 2026-07-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
+
+---
+
+### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">arthritis</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 
@@ -110,14 +142,6 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Ma il caffè fa bene al cuore? Si, ma alle giuste dosi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
-
----
-
 ### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
@@ -126,19 +150,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
+### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
-
----
-
-### [Neue Zelltherapie eröffnet bei Typ-1-Diabetes eine große Chance - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
 
 ---
 

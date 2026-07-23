@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [El calor intenso aumenta las complicaciones de las patologías respiratorias - El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
-
-2026-07-23 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlUSFItaFhaTnlCVjZNck5rb2NMaEh5cGhESndpa0J2N0M4d01tU3lUQ2t5XzJ1ck5UZFk5SkN1MU5jY2s5N3daNHNCYl91SENMNVl3MGVsS3FHMFhwb1RhNFl1TWxKV2NVcDg1STFWTHhDMHk1aU11T1hzZU5xSlpwc1l4cWhzRlNyS3cwZHllaDhUbGs5WjlHUDZaa05IakNTTTJfdTJ2TXc4?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Falsche Diagnose, echte Angst: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
 
