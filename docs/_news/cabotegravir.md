@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
+### [Alzheimer-Risiko senken: Diabetes-Medikamente mit Potenzial bis 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
 
-2026-07-22 <span class="news-indication-tag">diabetes</span>
+2026-07-23 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
 
 ---
 
-### [COPD: Isoflavone aus Hülsenfrüchten senken Entzündungen um 7,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
+### [Typ-2-Diabetes: Kohlenhydratarme Ernährung führt zu 18% Remission](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUp6YTgzY1NEc0VaN1JEU1M1VndYOU40eUxKeG1XX25rc3dKMGdkSXhYMmlKN05JRGlQTXJtMTNWY0RxOHBwNXBpa3BzVC1hRWJCSDRQU0lkcjZOTXAybTlXMklVeEZRNDdobnlLZi1oTUhHczZQX2hETTdnbkZOU3o0NVY1NlNKQmpDQjJuX2FXSmtzOUptcjJKMk1sa0x6ejVhRjNYbjIzcHlOVnBheV9n?oc=5)
 
-2026-07-22 <span class="news-indication-tag">copd</span>
+2026-07-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUp6YTgzY1NEc0VaN1JEU1M1VndYOU40eUxKeG1XX25rc3dKMGdkSXhYMmlKN05JRGlQTXJtMTNWY0RxOHBwNXBpa3BzVC1hRWJCSDRQU0lkcjZOTXAybTlXMklVeEZRNDdobnlLZi1oTUhHczZQX2hETTdnbkZOU3o0NVY1NlNKQmpDQjJuX2FXSmtzOUptcjJKMk1sa0x6ejVhRjNYbjIzcHlOVnBheV9n?oc=5)
+
+---
+
+### [Typ-2-Diabetes bei Jungen: Inzidenz bei Frauen um 69% gestiegen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBkcnE3MnlLd1lCUlNuemVnY1ZPMnRUaHZuT2F4RUg4TmNNRFI0aS1heFpDODJKZVhQVExyYmdxMER3Ri0xcEp3WDB0bnJJaldtQ0ZDdjhyN1JhQXlsUVMtTmVqa0N4UGRlaXVaWGtMbkpWQ2pfWjVTa003a1F3SGhmNWIxY3VmVWttY21pZmVzRDUyMGlvOWc1V2JMYV9CUElhWHJYWThYRHBDYnBKVVVGNTEtZU1GaFE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBkcnE3MnlLd1lCUlNuemVnY1ZPMnRUaHZuT2F4RUg4TmNNRFI0aS1heFpDODJKZVhQVExyYmdxMER3Ri0xcEp3WDB0bnJJaldtQ0ZDdjhyN1JhQXlsUVMtTmVqa0N4UGRlaXVaWGtMbkpWQ2pfWjVTa003a1F3SGhmNWIxY3VmVWttY21pZmVzRDUyMGlvOWc1V2JMYV9CUElhWHJYWThYRHBDYnBKVVVGNTEtZU1GaFE?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/cabotegravir/
 2026-07-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
+
+---
+
+### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
+
+2026-07-22 <span class="news-indication-tag">copd</span>
+
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 ---
 
@@ -94,19 +110,19 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [La contaminación atmosférica en la infancia incrementa el síndrome metabólico: ¿cómo proteger a los niños?...](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVhGWHVVQnI1Q0hlbWxUQWw0TjFzOVF6N1NXVGdDLVRFeXpfQ2FwbXdBZ2I5U2NrOXVRRlVxTkM2M1hsbzRWeThIbkU1Y01wUVF2WEo0T09zbXRCTkExTlhQU0Vzd1lJT0J4bm55a1gxT0ozUndqVEFjWTBIUWdzQmVYNXNCQVZpdzR2MkV3bjA4RkF3Yi16MGFPbUpzcmU3ZnFkWDhQUTNwbTlGOUJ4S192Z0RsVGZhR2VYUnJB0gHDAUFVX3lxTE1nS0NvTWV5TjJ5bVktc0FTXzJocnVnVzZxVXR0bUl5M1E3QUhIeGVoT2VDeXBONTJFU3RtalQ4eGV6a1VnUElIU3B4OXlScmd2a1NkbnZXQ2lEVmsyd3BGZ2FSQlBaZlVSZ01ESGhOVHdoRnh1dzdBWUdnMERySkdUdF8wV1J2UXJXWW94ZndDd1RJSWppelVzeTV2bGd5Y0o4QnI3MjhJOXVfVXJiVG5sVmRDR2JuNGxBaUNiWnVabkhBSQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVhGWHVVQnI1Q0hlbWxUQWw0TjFzOVF6N1NXVGdDLVRFeXpfQ2FwbXdBZ2I5U2NrOXVRRlVxTkM2M1hsbzRWeThIbkU1Y01wUVF2WEo0T09zbXRCTkExTlhQU0Vzd1lJT0J4bm55a1gxT0ozUndqVEFjWTBIUWdzQmVYNXNCQVZpdzR2MkV3bjA4RkF3Yi16MGFPbUpzcmU3ZnFkWDhQUTNwbTlGOUJ4S192Z0RsVGZhR2VYUnJB0gHDAUFVX3lxTE1nS0NvTWV5TjJ5bVktc0FTXzJocnVnVzZxVXR0bUl5M1E3QUhIeGVoT2VDeXBONTJFU3RtalQ4eGV6a1VnUElIU3B4OXlScmd2a1NkbnZXQ2lEVmsyd3BGZ2FSQlBaZlVSZ01ESGhOVHdoRnh1dzdBWUdnMERySkdUdF8wV1J2UXJXWW94ZndDd1RJSWppelVzeTV2bGd5Y0o4QnI3MjhJOXVfVXJiVG5sVmRDR2JuNGxBaUNiWnVabkhBSQ?oc=5)
+
+---
+
 ### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: 18 Prozent erreichen Remission durch Ernährung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
 
 ---
 

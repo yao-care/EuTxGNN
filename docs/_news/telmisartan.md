@@ -70,6 +70,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Aneurismi, ictus e infarti precoci: un gene regista della malattia può essere riparato](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
+
+2026-07-22 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
+
+---
+
 ### [Hypertension artérielle : les parlementaires entérinent un compromis sur la proposition de loi Neuder - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdXU4ZmpFMk9jSGV6TG9MaXo2bm5PQlFXUmQxRGF4RGhBU1FzOHJGdFVQczA4ODVqWjFsUjZCT0ttX1FPaEFZRnBkdFk1dktFbGJtNHQ5QWpTeHNkUmFuV0lFSW5UN0dVUTgzQ0VveGdLQW0zR1UwakZKSS1OZnhpQ3JaXzdFeVNuYWVLSlk2SUxkNWFxc1ZkX1psbUJFb0JEMDdValo4NWcta0NiaFhzT3UzbkVwcU00VVR4NkNPX051aG9tdFBiRDNscFRSZnI4TzFrN0JMd1RwcGRXQlB2RGhWcDRWblhncjJvbDFDb1dkRElsdWZRbnkyWQ?oc=5)
 
 2026-07-21 <span class="news-indication-tag">hypertension</span>
@@ -99,14 +107,6 @@ permalink: /news/telmisartan/
 2026-07-21 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[oekotest.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm9jYjB3d0JNVmswRWZtLUZfZnBTclVDcnllVkVfVlVIZG01ald4cU5IendFNmdMYVJCZ0pwQk9naklyNlpMcEFtWFB4bjl1NmZXandLNVRYd3l0Z09KczRZTFNobFVHdG93eDJwcFduaWY2bmFrdUpORHNRV1lYSmxPRy1SWU0yVkN1bFhtSDlWV1ZQNWs3WFVhZXYwMUJVQ09ySUl3SWpQMUpVZ3VZdzFERFpDcUNKZ21V?oc=5)
-
----
-
-### [Women with common health condition face higher risk of heart disease - The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
-
-2026-07-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbm44cFcya2FMLW1GNTdjbi02ZVhKdzhaMjRTZVdUb3JpZUFxNmlNNHBDMmV2N2htX1JyZ0ZfQVlHdTdFMnVJOTkwTEhiUDY4TzZfdjZqbWx2NDd6ZHU1cmJfRnFLY0pVWXRNSzYwOXA0Mmg2X1FLSDc3VXQycUpoLU9LUlRlN1U?oc=5)
 
 ---
 

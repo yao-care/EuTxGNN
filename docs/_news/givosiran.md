@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/givosiran/
 2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
+
+---
+
+### [MASH e steatosi del fegato, malattie tanto frequenti quanto sottovalutate: come si scoprono e si affrontano](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
+
+2026-07-22 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
 
 ---
 

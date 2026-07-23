@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Aneurismi, ictus e infarti precoci: un gene regista della malattia può essere riparato](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
+
+2026-07-22 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
+
+---
 
 ### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 

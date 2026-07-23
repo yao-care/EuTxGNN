@@ -64,7 +64,7 @@ permalink: /news/azathioprine/
 
 ### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 
-2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 

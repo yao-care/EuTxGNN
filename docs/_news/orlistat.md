@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [El índice de obesidad sarcopénica supera al IMC en la predicción de enfermedad cardiovascular - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUgwdVVYeUtVT0cwWlY0RnlQS2xoUHZ1SEF3eDctMWZGMy1lWTRIQlBPdGxERXZGb0YtQXpKZ2lFUmhQZEkzYUk2V0hkc1RSem83aHdpejNNUnByMGEwN3kzcFRRUDkzUl9pU21pNG9yb0k4ZGhoRjBOZm1aa20tX09MQm80aXdVWWplUGRVc0FndldsYUVFRkxNRjFVR2djT01NdVdLQjllc1dNRktwQmRUd0duVE3SAbIBQVVfeXFMTVNWdGl3VDhULTFDN3lvWmV5dDdhQ1ljOW9EQzl2Y3B2Tkx2YlhfSmprZXBxNGVtUFNGdXVFcjhSYTNST1A5NGhXeERIbHN6dVZBUU5ER3JNZjExZ3BiSm5aOHU0N0hfdUVjbXZpNF82SkFxV0xUMkg4azRMcXZxUEl1N0ZmWTRLMWdtU0FzOGtweWJnV3Z0RXBheDNvczFCeldqbDdWVjdxdzVnXy0zd2plZw?oc=5)
 
 2026-07-22 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUgwdVVYeUtVT0cwWlY0RnlQS2xoUHZ1SEF3eDctMWZGMy1lWTRIQlBPdGxERXZGb0YtQXpKZ2lFUmhQZEkzYUk2V0hkc1RSem83aHdpejNNUnByMGEwN3kzcFRRUDkzUl9pU21pNG9yb0k4ZGhoRjBOZm1aa20tX09MQm80aXdVWWplUGRVc0FndldsYUVFRkxNRjFVR2djT01NdVdLQjllc1dNRktwQmRUd0duVE3SAbIBQVVfeXFMTVNWdGl3VDhULTFDN3lvWmV5dDdhQ1ljOW9EQzl2Y3B2Tkx2YlhfSmprZXBxNGVtUFNGdXVFcjhSYTNST1A5NGhXeERIbHN6dVZBUU5ER3JNZjExZ3BiSm5aOHU0N0hfdUVjbXZpNF82SkFxV0xUMkg4azRMcXZxUEl1N0ZmWTRLMWdtU0FzOGtweWJnV3Z0RXBheDNvczFCeldqbDdWVjdxdzVnXy0zd2plZw?oc=5)
+
+---
+
+### [Aneurismi, ictus e infarti precoci: un gene regista della malattia può essere riparato](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
+
+2026-07-22 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
 
 ---
 

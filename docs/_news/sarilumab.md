@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [COPD: Isoflavone aus Hülsenfrüchten senken Entzündungen um 7,4%](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
+### [Ketogene Ernährung im Fokus: Neue Daten deuten messbaren Entzündungshemmungseffekt - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGTERDRTV6d21xS0tveVlFcURrYnd6VU5sYmJMUmY4cXg0U3o0SEtMR3Bfd3M2ZU1JUTlkWF9oM3FyOFAyU2x3RkF6STlSVGo3eVNhb3BtMjdBUzN6UFdyRGZ4dFV5eWkwYm1acmJCODlMYXVoLUo2LTJ2MGRlRHFocExnZjh5bUxnTXhIRHFlYkJVWTRFVHNYbDhReTg2QS1URkRwM1kxeVVRdE5YSEd6Y19UZw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGTERDRTV6d21xS0tveVlFcURrYnd6VU5sYmJMUmY4cXg0U3o0SEtMR3Bfd3M2ZU1JUTlkWF9oM3FyOFAyU2x3RkF6STlSVGo3eVNhb3BtMjdBUzN6UFdyRGZ4dFV5eWkwYm1acmJCODlMYXVoLUo2LTJ2MGRlRHFocExnZjh5bUxnTXhIRHFlYkJVWTRFVHNYbDhReTg2QS1URkRwM1kxeVVRdE5YSEd6Y19UZw?oc=5)
+
+---
+
+### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 2026-07-22 <span class="news-indication-tag">copd</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlVUE1VeTBOVXd6Y0syb1haWnMwTkhuU1JNLXllNVRTWkpKMjZxZjFnaUg1YUtBNzFfLWhDaFl6bDZPd3NkaXItVWItMDRaendpZkhNcUp6a3k2b1hleWl6NlRQMS1xUUR5bmRnelo4Z3BheVNHdHd1TWN4aDBwU2YwdXp6bjR4bE16TDF0UUNxN1NxaExSQlVuV2FlVWowMTd5dm5ONGF4UElOR1Fnc0N5elNKOU1lZE11YmZB?oc=5)
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 ---
 
@@ -67,22 +75,6 @@ permalink: /news/sarilumab/
 2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
----
-
-### [Morbus Crohn: Fastendiät hilft 70 Prozent der Patienten](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1JiQlE5eTlCUS1DT25sanQyQUNvc3lLRHZWY2JRdElUaEFZTFhCZm14SWE1SjY2Ym9sdWNCMmtoQWdMTlFLYjljYjhwSW9tNnp0czBfY0FFdUpyZi0yWGFZT1RVMHNZRndMYmh5aFI5MTJkOGEyTVhta0JvWXl0dTBrWlctVEw3d2hmN09xUFR5c3ZEcF9XZFByUllhNmUwTDRfUWMzdw?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1JiQlE5eTlCUS1DT25sanQyQUNvc3lLRHZWY2JRdElUaEFZTFhCZm14SWE1SjY2Ym9sdWNCMmtoQWdMTlFLYjljYjhwSW9tNnp0czBfY0FFdUpyZi0yWGFZT1RVMHNZRndMYmh5aFI5MTJkOGEyTVhta0JvWXl0dTBrWlctVEw3d2hmN09xUFR5c3ZEcF9XZFByUllhNmUwTDRfUWMzdw?oc=5)
-
----
-
-### [Appendix liefert Immun-Treiber bei Colitis ulcerosa und präzisiert Biomarker - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
 
 ---
 

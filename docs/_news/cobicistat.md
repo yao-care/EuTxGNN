@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [MASH e steatosi del fegato, malattie tanto frequenti quanto sottovalutate: come si scoprono e si affrontano](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
+
+2026-07-22 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[DiLei](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
+
+---
 
 ### [Hepatitis B: 76% der Patienten leiden unter Erektionsstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
 

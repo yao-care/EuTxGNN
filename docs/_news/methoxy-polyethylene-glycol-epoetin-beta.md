@@ -14,7 +14,7 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 ---
 
 <p class="key-answer" data-question="Methoxy Polyethylene Glycol-Epoetin Beta 有什麼相關新聞？">
-<strong>Methoxy Polyethylene Glycol-Epoetin Beta</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methoxy Polyethylene Glycol-Epoetin Beta</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 <p><a href="{{ '/drugs/methoxy-polyethylene-glycol-epoetin-beta/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
+## 相關新聞（41 則）
+
+### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+---
+
+### [Alzheimer-Risiko senken: Diabetes-Medikamente mit Potenzial bis 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
+
+---
+
+### [Huaier-Pilz: Meta-Analyse mit 4.832 Patienten belegt Leberkrebs-Erfolge](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGxsbEJLTE9oMUxyUFdKbm5Kc056X01FMzc0bXFqRlgtNjlKekQwbVZRYVFuNVg4b0NPRG9jNy1MYS1aajBXTjIycGwwYzNUQVlhdHM2aUM2WVFqaVFWU09ER0FPX3hFMTVBU2FPX3Y0U2tCT0J6cmJUZDBmR2xmSVUtU3VjN3JDcDF1V2FnQ3VyNGtZLWhjX05teVhGLUVBMk5SX05XOTI4MUx1bXNtcVZfMl9MektlcVM4?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeGxsbEJLTE9oMUxyUFdKbm5Kc056X01FMzc0bXFqRlgtNjlKekQwbVZRYVFuNVg4b0NPRG9jNy1MYS1aajBXTjIycGwwYzNUQVlhdHM2aUM2WVFqaVFWU09ER0FPX3hFMTVBU2FPX3Y0U2tCT0J6cmJUZDBmR2xmSVUtU3VjN3JDcDF1V2FnQ3VyNGtZLWhjX05teVhGLUVBMk5SX05XOTI4MUx1bXNtcVZfMl9MektlcVM4?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Kohlenhydratarme Ernährung führt zu 18% Remission](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUp6YTgzY1NEc0VaN1JEU1M1VndYOU40eUxKeG1XX25rc3dKMGdkSXhYMmlKN05JRGlQTXJtMTNWY0RxOHBwNXBpa3BzVC1hRWJCSDRQU0lkcjZOTXAybTlXMklVeEZRNDdobnlLZi1oTUhHczZQX2hETTdnbkZOU3o0NVY1NlNKQmpDQjJuX2FXSmtzOUptcjJKMk1sa0x6ejVhRjNYbjIzcHlOVnBheV9n?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabetes</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUp6YTgzY1NEc0VaN1JEU1M1VndYOU40eUxKeG1XX25rc3dKMGdkSXhYMmlKN05JRGlQTXJtMTNWY0RxOHBwNXBpa3BzVC1hRWJCSDRQU0lkcjZOTXAybTlXMklVeEZRNDdobnlLZi1oTUhHczZQX2hETTdnbkZOU3o0NVY1NlNKQmpDQjJuX2FXSmtzOUptcjJKMk1sa0x6ejVhRjNYbjIzcHlOVnBheV9n?oc=5)
+
+---
+
+### [Ce cancer de la peau recule enfin grâce à une piste inédite](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalRXQTN1UEZIUklRRHZzN3Jlb2k2djRCckxmX3VjcDZBY1ZvNG5MUXVlN01JZWE2RS1ZSHN1b0puQ2xFY2lqaGF6R0I4MlYtcF9rQVZSdHVUY0ozTEFSdDc3WU1feDVTVnNGYXJxWUN5Tkt6cEZJb01yY2ZDX0FqeG1JTEtyaVhtVjlN?oc=5)
+
+2026-07-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalRXQTN1UEZIUklRRHZzN3Jlb2k2djRCckxmX3VjcDZBY1ZvNG5MUXVlN01JZWE2RS1ZSHN1b0puQ2xFY2lqaGF6R0I4MlYtcF9rQVZSdHVUY0ozTEFSdDc3WU1feDVTVnNGYXJxWUN5Tkt6cEZJb01yY2ZDX0FqeG1JTEtyaVhtVjlN?oc=5)
+
+---
 
 ### [Mit 44 erhielt ich die Diagnose Lungenkrebs im Endstadium – heute feiere ich meinen 50. Geburtstag - Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
 
 2026-07-22 <span class="news-indication-tag">Krebs</span>
 
 來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
-
----
-
-### [Diabetes-Medikamente: SGLT2-Hemmer senken Alzheimer-Risiko um 43%](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pXRkowY2lLbnhOZDhTZjJCZU1lWnBMOGF5UzhLVHRvN0RpUjVTV1Nnby1haldyTnQ0U2VtS0pwOUNGUjlkX0gzaGc3bExWaVNzc2k4QlY3OXJtUUdSRnc2Zk1USkd0YjhZbTZrbDQxRGJWX1QtLUJKQ2I5c1c0OVhCTFRDN0IxQkQ2bktLbTdBVU9mUVBvUWVTbVZGNzNQbXFoZ2h3aVJmQ2F3YXN6UUxsaWI4QllwZnprcw?oc=5)
 
 ---
 
@@ -78,6 +110,14 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
+### [Rare contagious cancer discovered in wild catfish](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MY0l5X1licm91NFUwM0w0R1NlYkZpSTFLTjZsVVd3NXByWFh2NDNfcVdwUWNrY1pJekVLb1I0MkY1em8tYVJSYlp5RGQ1SnpxUk1OcTNIU3ZRSF9USXZn?oc=5)
+
+2026-07-22 <span class="news-indication-tag">cancer</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MY0l5X1licm91NFUwM0w0R1NlYkZpSTFLTjZsVVd3NXByWFh2NDNfcVdwUWNrY1pJekVLb1I0MkY1em8tYVJSYlp5RGQ1SnpxUk1OcTNIU3ZRSF9USXZn?oc=5)
+
+---
+
 ### [Un cáncer transmisible de tipo melanoma entre peces - Science Media Centre España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzVGZ2NlMl9pNEtUaWp3d3UzeVBnQjV4aUhNS05aUjltSDhqd05XWGJkeTROZkJsR1RGOWxTMWpxQlYyWk5EX3p0V1pNTWNzVl9weHh5RVdvTGFadkhJMlYzMlJBQ1NGTkFaeXhLU3hoYnFZY2wwQVc0cGplV0lmbTh0OXEzanhCNjl3VUZWWjA0VTJwSHZtMWpjb3JzN0U0aGhFRFRTdHE5N0JxNVVrYXdEUFdPS0JnZk9henhmNjlISkE?oc=5)
 
 2026-07-22 <span class="news-indication-tag">tumor</span>
@@ -86,19 +126,19 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Krebs bei Jüngeren immer häufiger – Forscher finden möglichen Grund](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTlNRDBEWUxqSm1zVm9kankwVi10OEU1bE1neHZ6RWgzQnlzNmxFYzFZLTBkRl9wMzlEenNlS2kyWk4xWVdBeXUzckN6SGI5eGl6cllUc3pIT0Z6UHFEZWpNX0J4Y3BYaGVzWTdycWlVU0ZqMG5kYk5ibEl4bFM5MTc3SmlKc2xER1hkdC1pZ3BNbDhhSmJCZDNoU1J4SEJlUHVkamhNVXlXWTdMamt0N25ERi0?oc=5)
+### [Typ-2-Diabetes bei Jungen: Inzidenz bei Frauen um 69% gestiegen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBkcnE3MnlLd1lCUlNuemVnY1ZPMnRUaHZuT2F4RUg4TmNNRFI0aS1heFpDODJKZVhQVExyYmdxMER3Ri0xcEp3WDB0bnJJaldtQ0ZDdjhyN1JhQXlsUVMtTmVqa0N4UGRlaXVaWGtMbkpWQ2pfWjVTa003a1F3SGhmNWIxY3VmVWttY21pZmVzRDUyMGlvOWc1V2JMYV9CUElhWHJYWThYRHBDYnBKVVVGNTEtZU1GaFE?oc=5)
 
-2026-07-22 <span class="news-indication-tag">Krebs</span>
+2026-07-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTlNRDBEWUxqSm1zVm9kankwVi10OEU1bE1neHZ6RWgzQnlzNmxFYzFZLTBkRl9wMzlEenNlS2kyWk4xWVdBeXUzckN6SGI5eGl6cllUc3pIT0Z6UHFEZWpNX0J4Y3BYaGVzWTdycWlVU0ZqMG5kYk5ibEl4bFM5MTc3SmlKc2xER1hkdC1pZ3BNbDhhSmJCZDNoU1J4SEJlUHVkamhNVXlXWTdMamt0N25ERi0?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBkcnE3MnlLd1lCUlNuemVnY1ZPMnRUaHZuT2F4RUg4TmNNRFI0aS1heFpDODJKZVhQVExyYmdxMER3Ri0xcEp3WDB0bnJJaldtQ0ZDdjhyN1JhQXlsUVMtTmVqa0N4UGRlaXVaWGtMbkpWQ2pfWjVTa003a1F3SGhmNWIxY3VmVWttY21pZmVzRDUyMGlvOWc1V2JMYV9CUElhWHJYWThYRHBDYnBKVVVGNTEtZU1GaFE?oc=5)
 
 ---
 
-### [Calcular el riesgo de padecer un cáncer de mama antes de que el tumor aparezca es posible gracias a "Mamorisk"](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS3l2eWFDMU4wM1hmYUw4WjdEaFRtalUwZUtfRTNENy1TYkV2Y0JhdVJ0MWtPOUxhODBtemxVREYzU25mMFl5U3J5bDJiQnU4MmR4aWtJUzdkNDhCVEJMY1JybzRsRF95VnBGWG5WVHJfRnpuV0lmWGh6LWNYVGVnRnJXZ2dOMGFFeVRZS3FnZHB4NGYtMW9CdXhJc0VoUWNXSlVYdG1rWDl4LTdiek12OFBQcnMzSk5hSm5iNlF5TmUwaXJBRDVLODV2Y2stS3J5VXNjMWd4QUVPQ0FjeGFsRkp0VFZBOTRkd3Qtdjg5M2FJX2NG0gH0AUFVX3lxTE1PTVY1NE5ZUEJpbkIyY29ZcEJySkU1TEJqR2w2aFdSVFNNTUxmNHpqV0VGazVaalRRalNMWEVuaTBLcERjN2dsWGFDN2hUWll1bHVFc3JZelhTbWZIeFA1a2QtMUVhNWx3bTZFRmJSYXVuQndQX216alVmT09JOE5yMXJiZ2dpdGVFODdrSEJYRVpCcGNES2dnb1VMRUREN1VVOUxTM3ZfT2FUYUp4cWQ3bHNzZHlGdkdXUFl3aXVCOFpVSmZXQTZhcGZCbnB0bTBIZGw2dEl4VFFZU0pxZU1LZk1UV2FBX0RhYzdlR3IwMEd1eDA?oc=5)
+### [Malattie del cervello e tumori: ecco il controllo di qualità delle cellule che agisce sul magnesio e le proteine](https://news.google.com/rss/articles/CBMigAJBVV95cUxOUVRmVjlNMWR6U1pfcnRDb0ZZcmxNRXNfU3I4RXB0UlQ3NFJYZWRvb0tKelBiX243Y09xWmcwZXFQc1RTdG5iRnUwVjliR3dQT1JwTFpzbEJhQ29RWkxDVEV6M016SWE3WVd2YmpaNG1xRVgtMk9Yem9oNnFHYlFVclJOajgxMzAtaHp3RXl2WldocFE4bGFlTGpsSEhYc1lCalBEMHZyQ1pTNklZMWFtRDdjRnJ1SlBwSmhNX2NPeXdwazM1d0V2UjJaR3ZZQTEzdzRwSmtnZjdoSmNqczN6UlpJNE1ZSGRLSzRaY0ZUcjhpN25MWnk5QU9oa3ZxMjdT?oc=5)
 
 2026-07-22 <span class="news-indication-tag">tumor</span>
 
-來源：[antena3.com](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQS3l2eWFDMU4wM1hmYUw4WjdEaFRtalUwZUtfRTNENy1TYkV2Y0JhdVJ0MWtPOUxhODBtemxVREYzU25mMFl5U3J5bDJiQnU4MmR4aWtJUzdkNDhCVEJMY1JybzRsRF95VnBGWG5WVHJfRnpuV0lmWGh6LWNYVGVnRnJXZ2dOMGFFeVRZS3FnZHB4NGYtMW9CdXhJc0VoUWNXSlVYdG1rWDl4LTdiek12OFBQcnMzSk5hSm5iNlF5TmUwaXJBRDVLODV2Y2stS3J5VXNjMWd4QUVPQ0FjeGFsRkp0VFZBOTRkd3Qtdjg5M2FJX2NG0gH0AUFVX3lxTE1PTVY1NE5ZUEJpbkIyY29ZcEJySkU1TEJqR2w2aFdSVFNNTUxmNHpqV0VGazVaalRRalNMWEVuaTBLcERjN2dsWGFDN2hUWll1bHVFc3JZelhTbWZIeFA1a2QtMUVhNWx3bTZFRmJSYXVuQndQX216alVmT09JOE5yMXJiZ2dpdGVFODdrSEJYRVpCcGNES2dnb1VMRUREN1VVOUxTM3ZfT2FUYUp4cWQ3bHNzZHlGdkdXUFl3aXVCOFpVSmZXQTZhcGZCbnB0bTBIZGw2dEl4VFFZU0pxZU1LZk1UV2FBX0RhYzdlR3IwMEd1eDA?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMigAJBVV95cUxOUVRmVjlNMWR6U1pfcnRDb0ZZcmxNRXNfU3I4RXB0UlQ3NFJYZWRvb0tKelBiX243Y09xWmcwZXFQc1RTdG5iRnUwVjliR3dQT1JwTFpzbEJhQ29RWkxDVEV6M016SWE3WVd2YmpaNG1xRVgtMk9Yem9oNnFHYlFVclJOajgxMzAtaHp3RXl2WldocFE4bGFlTGpsSEhYc1lCalBEMHZyQ1pTNklZMWFtRDdjRnJ1SlBwSmhNX2NPeXdwazM1d0V2UjJaR3ZZQTEzdzRwSmtnZjdoSmNqczN6UlpJNE1ZSGRLSzRaY0ZUcjhpN25MWnk5QU9oa3ZxMjdT?oc=5)
 
 ---
 
@@ -142,11 +182,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Scientists May Have Discovered How to Reverse Chronic Inflammation](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDhwcWlOQy1yQVU3LU02czE5QktVajU0TlZFNDFXX2dUZzU3N0pZckVjUUNBeTB5d1hRaXB5UmtWLW9RdHhTeERTVEo1c2xXZUxITlVabEhoVzVrSVV3emlKZzBYZlM4akkxR1U1TERPV3JtUHZDMm85b3lvbWdpYnFZdnZMcmxRenlWR0dWVjJVaktvdExud3dmRQ?oc=5)
+### [Arranca en España un estudio para predecir el riesgo personalizado de cáncer de mama - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlhXYTB4NDZYRVo4RFNZcUVtdjVfMnBLN1JibkRaNUpsa0hiVGM1NElmbHJwQnhxaFpwY1BuTy13MENGNElyM2RSYnFwb0dOTVZLRDRNdHdwb19NeG5fSmpNRGwxWnBvX2ZWLXIxbUpsS2piZnE2NnBMMmFwNTBBdW1RREZxaFpCWF9zSVpnemJlNzBlLUdlaEFXa3NWa0JYeGhYS1NOX1ZfcWR2cl9TM2M2aHZWTmkxNTdkY2tURTBLUdIBvAFBVV95cUxNcjVJODZDWV9VNlNrcjk4dEVXLWpJUTBCa3hXUllRVk83amlqWWpUSWpwT0tRTlM4bmRrUTJjNmxEQmRncGhHR1lZZjZINFZ4ZTl3THp4Rm9yeTRpLU5hY3gtVTVlOEtSRjBOZXBrc2k0TDNhUHFSdmQ0eEVFMDhFQ0YwaFdpd3hsRjN6VjJYTjBNU215MUoxVUpaRmRMOXNnN2dNZS13XzR4REx3VTNjY21YTjd4di1OWktadw?oc=5)
 
-2026-07-22 <span class="news-indication-tag">cancer</span>
+2026-07-22 <span class="news-indication-tag">tumor</span>
 
-來源：[inc.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDhwcWlOQy1yQVU3LU02czE5QktVajU0TlZFNDFXX2dUZzU3N0pZckVjUUNBeTB5d1hRaXB5UmtWLW9RdHhTeERTVEo1c2xXZUxITlVabEhoVzVrSVV3emlKZzBYZlM4akkxR1U1TERPV3JtUHZDMm85b3lvbWdpYnFZdnZMcmxRenlWR0dWVjJVaktvdExud3dmRQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlhXYTB4NDZYRVo4RFNZcUVtdjVfMnBLN1JibkRaNUpsa0hiVGM1NElmbHJwQnhxaFpwY1BuTy13MENGNElyM2RSYnFwb0dOTVZLRDRNdHdwb19NeG5fSmpNRGwxWnBvX2ZWLXIxbUpsS2piZnE2NnBMMmFwNTBBdW1RREZxaFpCWF9zSVpnemJlNzBlLUdlaEFXa3NWa0JYeGhYS1NOX1ZfcWR2cl9TM2M2aHZWTmkxNTdkY2tURTBLUdIBvAFBVV95cUxNcjVJODZDWV9VNlNrcjk4dEVXLWpJUTBCa3hXUllRVk83amlqWWpUSWpwT0tRTlM4bmRrUTJjNmxEQmRncGhHR1lZZjZINFZ4ZTl3THp4Rm9yeTRpLU5hY3gtVTVlOEtSRjBOZXBrc2k0TDNhUHFSdmQ0eEVFMDhFQ0YwaFdpd3hsRjN6VjJYTjBNU215MUoxVUpaRmRMOXNnN2dNZS13XzR4REx3VTNjY21YTjd4di1OWktadw?oc=5)
 
 ---
 
@@ -182,19 +222,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
+### [La contaminación atmosférica en la infancia incrementa el síndrome metabólico: ¿cómo proteger a los niños?...](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVhGWHVVQnI1Q0hlbWxUQWw0TjFzOVF6N1NXVGdDLVRFeXpfQ2FwbXdBZ2I5U2NrOXVRRlVxTkM2M1hsbzRWeThIbkU1Y01wUVF2WEo0T09zbXRCTkExTlhQU0Vzd1lJT0J4bm55a1gxT0ozUndqVEFjWTBIUWdzQmVYNXNCQVZpdzR2MkV3bjA4RkF3Yi16MGFPbUpzcmU3ZnFkWDhQUTNwbTlGOUJ4S192Z0RsVGZhR2VYUnJB0gHDAUFVX3lxTE1nS0NvTWV5TjJ5bVktc0FTXzJocnVnVzZxVXR0bUl5M1E3QUhIeGVoT2VDeXBONTJFU3RtalQ4eGV6a1VnUElIU3B4OXlScmd2a1NkbnZXQ2lEVmsyd3BGZ2FSQlBaZlVSZ01ESGhOVHdoRnh1dzdBWUdnMERySkdUdF8wV1J2UXJXWW94ZndDd1RJSWppelVzeTV2bGd5Y0o4QnI3MjhJOXVfVXJiVG5sVmRDR2JuNGxBaUNiWnVabkhBSQ?oc=5)
 
-2026-07-22 <span class="news-indication-tag">Krebs</span>
+2026-07-22 <span class="news-indication-tag">diabetes</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
-
----
-
-### [Vitamin D gegen Krebstherapie-Schäden: 87% berichten Besserung](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtrV1VyQTlvaFRoTUFCTVRZUFBPWnRubFNLbm1xYnZ5bnZMTVExSms1MnJKQ2RqRVhRZkJpb3hhMkRBTXFzWUlyNGM5cWZBNnlYOW81ZTdXMTFhRU9tTC1pYTZmZ0Y0ZkU3cjBhd01Welk1bWRrX09GMjdMdWJMZXZRQzBNYTBhUERxWTlySVdDNEtveG5vWWNHX0VSWWJ3UG9feVhtcVZPenhrU1E5Um81aUVCTU9fRlE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEtrV1VyQTlvaFRoTUFCTVRZUFBPWnRubFNLbm1xYnZ5bnZMTVExSms1MnJKQ2RqRVhRZkJpb3hhMkRBTXFzWUlyNGM5cWZBNnlYOW81ZTdXMTFhRU9tTC1pYTZmZ0Y0ZkU3cjBhd01Welk1bWRrX09GMjdMdWJMZXZRQzBNYTBhUERxWTlySVdDNEtveG5vWWNHX0VSWWJ3UG9feVhtcVZPenhrU1E5Um81aUVCTU9fRlE?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVhGWHVVQnI1Q0hlbWxUQWw0TjFzOVF6N1NXVGdDLVRFeXpfQ2FwbXdBZ2I5U2NrOXVRRlVxTkM2M1hsbzRWeThIbkU1Y01wUVF2WEo0T09zbXRCTkExTlhQU0Vzd1lJT0J4bm55a1gxT0ozUndqVEFjWTBIUWdzQmVYNXNCQVZpdzR2MkV3bjA4RkF3Yi16MGFPbUpzcmU3ZnFkWDhQUTNwbTlGOUJ4S192Z0RsVGZhR2VYUnJB0gHDAUFVX3lxTE1nS0NvTWV5TjJ5bVktc0FTXzJocnVnVzZxVXR0bUl5M1E3QUhIeGVoT2VDeXBONTJFU3RtalQ4eGV6a1VnUElIU3B4OXlScmd2a1NkbnZXQ2lEVmsyd3BGZ2FSQlBaZlVSZ01ESGhOVHdoRnh1dzdBWUdnMERySkdUdF8wV1J2UXJXWW94ZndDd1RJSWppelVzeTV2bGd5Y0o4QnI3MjhJOXVfVXJiVG5sVmRDR2JuNGxBaUNiWnVabkhBSQ?oc=5)
 
 ---
 
@@ -206,9 +238,17 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [The Hidden Cancer Risk of Ketogenic Diets](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHl1TmItM1M4N2ZQMncycG14aWFaY3ZVQ2xncHNtQ1lRQWFrRUxLaVNtdWxJek16d3FvcjNUREJfNTF6akQ0MTFmQTRITE9kMVd1aFA5WHlFeDZsMElMdXMxeXVnR2czZzJoOTlOTzdNellVQ1E?oc=5)
+### [Man diagnosed with cancer aged 28 shares three early signs he noticed](https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRBcHBPVVQ1YWVfcEdJaTIwdHA0bUlkd2RSYmVxdndxQ0l1M0IzWUV2NmlHVVktSXEwdldBUjY3R3BHMmRMbl9FbG5IeEdmYzQ1aWRXS0dYaDR1NjNzSHR0YUVhWExXRkl0azg5dlY0QV9iMlJsNHgzcmtmRmR1dHJzMnRiVWdXaGdzWDdlUmRmcmxsOVVMZndkcU1oUTlDZHBqYms1MW1XaktRQXBlenF3?oc=5)
 
 2026-07-21 <span class="news-indication-tag">cancer</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRBcHBPVVQ1YWVfcEdJaTIwdHA0bUlkd2RSYmVxdndxQ0l1M0IzWUV2NmlHVVktSXEwdldBUjY3R3BHMmRMbl9FbG5IeEdmYzQ1aWRXS0dYaDR1NjNzSHR0YUVhWExXRkl0azg5dlY0QV9iMlJsNHgzcmtmRmR1dHJzMnRiVWdXaGdzWDdlUmRmcmxsOVVMZndkcU1oUTlDZHBqYms1MW1XaktRQXBlenF3?oc=5)
+
+---
+
+### [The Hidden Cancer Risk of Ketogenic Diets](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHl1TmItM1M4N2ZQMncycG14aWFaY3ZVQ2xncHNtQ1lRQWFrRUxLaVNtdWxJek16d3FvcjNUREJfNTF6akQ0MTFmQTRITE9kMVd1aFA5WHlFeDZsMElMdXMxeXVnR2czZzJoOTlOTzdNellVQ1E?oc=5)
+
+2026-07-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHl1TmItM1M4N2ZQMncycG14aWFaY3ZVQ2xncHNtQ1lRQWFrRUxLaVNtdWxJek16d3FvcjNUREJfNTF6akQ0MTFmQTRITE9kMVd1aFA5WHlFeDZsMElMdXMxeXVnR2czZzJoOTlOTzdNellVQ1E?oc=5)
 
@@ -222,11 +262,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Man diagnosed with cancer aged 28 shares three early signs he noticed](https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRBcHBPVVQ1YWVfcEdJaTIwdHA0bUlkd2RSYmVxdndxQ0l1M0IzWUV2NmlHVVktSXEwdldBUjY3R3BHMmRMbl9FbG5IeEdmYzQ1aWRXS0dYaDR1NjNzSHR0YUVhWExXRkl0azg5dlY0QV9iMlJsNHgzcmtmRmR1dHJzMnRiVWdXaGdzWDdlUmRmcmxsOVVMZndkcU1oUTlDZHBqYms1MW1XaktRQXBlenF3?oc=5)
+### [Scientists May Have Discovered How to Reverse Chronic Inflammation](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDhwcWlOQy1yQVU3LU02czE5QktVajU0TlZFNDFXX2dUZzU3N0pZckVjUUNBeTB5d1hRaXB5UmtWLW9RdHhTeERTVEo1c2xXZUxITlVabEhoVzVrSVV3emlKZzBYZlM4akkxR1U1TERPV3JtUHZDMm85b3lvbWdpYnFZdnZMcmxRenlWR0dWVjJVaktvdExud3dmRQ?oc=5)
 
 2026-07-21 <span class="news-indication-tag">cancer</span>
 
-來源：[LADbible](https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRBcHBPVVQ1YWVfcEdJaTIwdHA0bUlkd2RSYmVxdndxQ0l1M0IzWUV2NmlHVVktSXEwdldBUjY3R3BHMmRMbl9FbG5IeEdmYzQ1aWRXS0dYaDR1NjNzSHR0YUVhWExXRkl0azg5dlY0QV9iMlJsNHgzcmtmRmR1dHJzMnRiVWdXaGdzWDdlUmRmcmxsOVVMZndkcU1oUTlDZHBqYms1MW1XaktRQXBlenF3?oc=5)
+來源：[inc.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDhwcWlOQy1yQVU3LU02czE5QktVajU0TlZFNDFXX2dUZzU3N0pZckVjUUNBeTB5d1hRaXB5UmtWLW9RdHhTeERTVEo1c2xXZUxITlVabEhoVzVrSVV3emlKZzBYZlM4akkxR1U1TERPV3JtUHZDMm85b3lvbWdpYnFZdnZMcmxRenlWR0dWVjJVaktvdExud3dmRQ?oc=5)
 
 ---
 
@@ -238,11 +278,11 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Typ-2-Diabetes: 18 Prozent erreichen Remission durch Ernährung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
+### [Vitamin D und Screening-Strategien: neue Daten zu Prostatakrebs und Strahlendermatitis - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
 
-2026-07-21 <span class="news-indication-tag">diabetes</span>
+2026-07-21 <span class="news-indication-tag">Krebs</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUNLcWkycXdQRl9TdldCdFpiaEUzT2o3c29Fb0o5X05VcWJVYkNQNVRNODU3c0x4TmdjQV8tRzJfN3YxT2pDS09KX2h2bklEUm42U2tXTm01Ylc0SWtWM1gzQjI1MUFrd3FiS1p2dmZPZTloTklpbWp5MHFXN25pSGR0MnMzUERUb1hwWmJQaG43Q3dabUU5NjVMS194cE0yaFhSVVhKaHBiaFFsRjUtVQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUC1FMU5QYTlZSWhwNlNud2lfOWdmOUI0NURCY3djTUQ4NzV2OU9qVnFIT3dxMS1Wd3VSWnJxNnI0bXloQmc1U0JIdkxFUzJJbVpEVW1LZlAtV1RTTHhxOTk2M0tRZnJWelJ1dFpQY0N5WGk0bDBUdmRTMTVET1BjQzRHb0FDYktQNk1kblZBYUlHajBDRk1NcGtjb1JUSERZSjVFdVdmSndhckRkeWp3RjJFMVVmbHpH?oc=5)
 
 ---
 
@@ -278,14 +318,6 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 
 ---
 
-### [Demenz-Prävention: 3.000 Schritte täglich können Alzheimer verlangsamen - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
-
----
-
 ### [Dieta chetogenica? Tanti dubbi: salute, ecco cosa si rischia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTVOaEJ6a29hcHVuQ09EZk1vVlVwTVllUzlrTHR4LTZzNFNkTjAyUmc3d1FYLWJqakRRQm5IUzVoVnp5SjBNVVh6UWpOT0huZHdvM3FhTUhaN2V4aGFSUlFQNzJxYURiT21VdnpzdjFPOE5idU9TMmJzWW5BUjQwYU1QR2dLaEpySTdsTElqN0xlMGR0Wno1ZER0endIVWV6cUtzLVVqa1JqVWViQWxwd2FUY2dtc3doZHI1RS1IQk1Pb0VDMkRFYdIBzAFBVV95cUxOT29zbGx6WHN2OXJYcUIyVHBaOUw5amd1ZDQ0QmNJRFhxS2FQRmxFNFlFNUVidmJlRXFUdGlyVEdoajZQRElWQlZLWU1ZeEJ5eXBzMHRKdXN1bjJ0ZTZ0ZmlvN0hEd2U2bllIV0FlLWJWcU9FR2pxbzRKTHZLYXNEWTlnWmNjNVMzQTQ5djJ6Y1hDYUQtbFRkbGVsMzBVYlFDLU9hNS1QQlphSzRCdlFEZ1NCRlE3S21fN0UwUnVwOUI2Q3IyaUZNdWVhWXI?oc=5)
 
 2026-07-21 <span class="news-indication-tag">tumor</span>
@@ -315,14 +347,6 @@ permalink: /news/methoxy-polyethylene-glycol-epoetin-beta/
 2026-07-21 <span class="news-indication-tag">cancer</span>
 
 來源：[Revista Mia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjRORTRTR2dCbmdSUy11TDBOenZoRnhpa3FheGlheENQNXNJQlpTR0d0MXFMMlNMWnNmZDY5dUpudnVCcVVwYVlxZU04Y3dkeWF4RVNWVkRweU16UUVoNG9WbHdjQno4dDVSOHFlYW01d2NfaW5SM1dnUXJaaDQwZVBqSlpvZDNfUGIwakI0eXpObnR5ZENpSg?oc=5)
-
----
-
-### [Brustkrebs: Gallensäuren als wichtiger Faktor identifiziert](https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0laaE1GVTYxVDZJaHNiZXBZbGNKZzNOdm5vcEEtU1dBSnhTblJfc3g1VEUtQjFZcWs1enRwUTAza09JcWNwd3gwdkk4Rnc5dUhnX3ZfMS1Edm1DTFVCeDJyTkk5NzZhU2FPelowMG5XTVdCQ2gzWWt3VlRPdDdpZWg0dzVMQTlLWHlzMlhxUTZ0Q2RvcmYtR1RCbV95bmVRcGh1SEo5Z0NLd2RkRTZEX0ZkRlR4RWZ5TF9QbA?oc=5)
-
-2026-07-21 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0laaE1GVTYxVDZJaHNiZXBZbGNKZzNOdm5vcEEtU1dBSnhTblJfc3g1VEUtQjFZcWs1enRwUTAza09JcWNwd3gwdkk4Rnc5dUhnX3ZfMS1Edm1DTFVCeDJyTkk5NzZhU2FPelowMG5XTVdCQ2gzWWt3VlRPdDdpZWg0dzVMQTlLWHlzMlhxUTZ0Q2RvcmYtR1RCbV95bmVRcGh1SEo5Z0NLd2RkRTZEX0ZkRlR4RWZ5TF9QbA?oc=5)
 
 ---
 

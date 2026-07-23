@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。16 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。19 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>16 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>19 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,45 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（19 則）
 
-### [Letby baby died from birth trauma, medical expert claims - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
+### [Multiple sclerosis: First drug to help patients walk now on NHS in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2I0VzB3V1Uya3lPb0kySHVpek9BQ25OUzEzRWpPOVZaMDVVdEQ5cDJXX21fR2ZQQWp2emZUVjlrWmNkc3Z1V1Z1Y1E3Tk1DRkxBczl2aUgzQnAw?oc=5)
 
 2026-07-22
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2I0VzB3V1Uya3lPb0kySHVpek9BQ25OUzEzRWpPOVZaMDVVdEQ5cDJXX21fR2ZQQWp2emZUVjlrWmNkc3Z1V1Z1Y1E3Tk1DRkxBczl2aUgzQnAw?oc=5)
+
+---
+
+### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
+
+2026-07-22
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
+
+---
+
+### [Entzündungen: Autoantikörper neutralisieren Bremse – neue Wirkstoffe greifen an](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZEckhkOTJnd1lKcEtaMVNiWGQ4WDcyVGJxTldibjBHOTRGX2pGbTRxQ01IMFVEeVpQT1lkZXJlOGRzbm1HTm9JRENTQ2Fkc1BaQVdKYjFpd3JueVdBN0VqdXJqRVotQnplMjN4RHBNNzdxbndBN3hpdlZGdkxnZkpwaFRRN0Jyb09zWXl3Rm5hdDBsVUkwTkVNWWpIanZ6TG15VUtjaEJ4XzJJVVJWYUdqVUkzclE?oc=5)
+
+2026-07-22
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZEckhkOTJnd1lKcEtaMVNiWGQ4WDcyVGJxTldibjBHOTRGX2pGbTRxQ01IMFVEeVpQT1lkZXJlOGRzbm1HTm9JRENTQ2Fkc1BaQVdKYjFpd3JueVdBN0VqdXJqRVotQnplMjN4RHBNNzdxbndBN3hpdlZGdkxnZkpwaFRRN0Jyb09zWXl3Rm5hdDBsVUkwTkVNWWpIanZ6TG15VUtjaEJ4XzJJVVJWYUdqVUkzclE?oc=5)
+
+---
+
+### [Alzheimer-Vorbeugung: Schon 3.000 Schritte täglich verlangsamen Tau-Proteine](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3FZVXJUQVdINE1KUzBTalZaMVIyUUR6NjMzM0xWRmU5TndGenE4TWJFZlQxeWtDeWU0VlRjaG8xZnFKVFhzZzhSZmJXVXd2ankyRDBVOEVKaVZwazBpbnF3RXRBMVhmTS1nV2YwVUFiU0Y3cUxJZ0VWdU1xekt2bkh1cS1RX1F3c0t6eDNpMmZiaEpsMnpYa2kwamlONm8yQlZhTkd6N2pCOWdyM0I5eFBR?oc=5)
+
+2026-07-22
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3FZVXJUQVdINE1KUzBTalZaMVIyUUR6NjMzM0xWRmU5TndGenE4TWJFZlQxeWtDeWU0VlRjaG8xZnFKVFhzZzhSZmJXVXd2ankyRDBVOEVKaVZwazBpbnF3RXRBMVhmTS1nV2YwVUFiU0Y3cUxJZ0VWdU1xekt2bkh1cS1RX1F3c0t6eDNpMmZiaEpsMnpYa2kwamlONm8yQlZhTkd6N2pCOWdyM0I5eFBR?oc=5)
+
+---
+
+### [Por qué el actual brote de ébola en el Congo es tan difícil de controlar - AP News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDZOWHU1Z1BlV1p6cjNmal84SUJyczhSSk14N2dWMWtRWVFDVEFxWnlJOWRUajJoaTZSRFNCdXpQUkRQNzZiakpfS1o0SnNnclE5RDd1dGN1N2N4LWVoaUxhbkRVOWhJckFaYm9zQlJWMWdKNHlIX25TZU9ndFhJSkk0MGlub256dG5GRms4LTg3SXRpS09feVFSNEVVamM3ZmoxQzFqZW8?oc=5)
+
+2026-07-22
+
+來源：[AP News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDZOWHU1Z1BlV1p6cjNmal84SUJyczhSSk14N2dWMWtRWVFDVEFxWnlJOWRUajJoaTZSRFNCdXpQUkRQNzZiakpfS1o0SnNnclE5RDd1dGN1N2N4LWVoaUxhbkRVOWhJckFaYm9zQlJWMWdKNHlIX25TZU9ndFhJSkk0MGlub256dG5GRms4LTg3SXRpS09feVFSNEVVamM3ZmoxQzFqZW8?oc=5)
 
 ---
 
@@ -88,27 +120,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
-2026-07-22
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
----
-
 ### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
 
 2026-07-22
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
-
----
-
-### [Ebola : le bilan de l’épidémie dépasse désormais les 1 000 morts en RDC et en Ouganda, selon l’OMS - Le Monde.fr](https://news.google.com/rss/articles/CBMingJBVV95cUxQT21lMGlQSFJEblBGTkNjTXZzalRpRnRDQUdmY184d2tFYXR5Q2ZDd2NLN0l0bmk0clo0ZE8yb1VJU1hiMUhQMzZ0WHRrV21yVHluNktHaUk2RXp6cWcwcmtIVElfSmJTRVhKcUZ4SENYZmRoNnpwR0NVSWFGRnNQc2x3TlpsVDI2TlRpNHdpTC1DYUt1dUtERzhpeEFUYUhZTDBBQUo0TWV1V29vcVJOd0JWT25sS3JBTlh0MWtGTzBDdUxHUk91TzVqaDJxOUNVYUljMXluNmFPN19oWlNZdWJkeDJNOEpjNnlILXNLc0p3SS14eHJubk9kT1ViWjd4QkxKWWU0a2lIRGVYZWQwSGJ5WE1rbDhVR0RLdENn?oc=5)
-
-2026-07-22
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMingJBVV95cUxQT21lMGlQSFJEblBGTkNjTXZzalRpRnRDQUdmY184d2tFYXR5Q2ZDd2NLN0l0bmk0clo0ZE8yb1VJU1hiMUhQMzZ0WHRrV21yVHluNktHaUk2RXp6cWcwcmtIVElfSmJTRVhKcUZ4SENYZmRoNnpwR0NVSWFGRnNQc2x3TlpsVDI2TlRpNHdpTC1DYUt1dUtERzhpeEFUYUhZTDBBQUo0TWV1V29vcVJOd0JWT25sS3JBTlh0MWtGTzBDdUxHUk91TzVqaDJxOUNVYUljMXluNmFPN19oWlNZdWJkeDJNOEpjNnlILXNLc0p3SS14eHJubk9kT1ViWjd4QkxKWWU0a2lIRGVYZWQwSGJ5WE1rbDhVR0RLdENn?oc=5)
 
 ---
 
@@ -120,11 +136,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Multiple Sklerose (MS): Angriff auf die Schaltzentrale, AMSEL e.V., Story](https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ0IxTW5VUG92LUk5ZUxBR1U4dF9uUmlDQUdCcUpqd1g4UmFZUE5kdjFzajA0RDZycGZ2LWhtRjRaZGlKdmRNMEVXbEQ0V1EwWFF3eEhCdUtkSEM4R2ZRRjktQllpMFZvNk5JanhUUlF2RFliclF0Q3pyREJWVzJYLWdfb0pObUcxdkdUV3FETFBMWFFwN3B5T19oWUt2VG5IM3gtZEhmaDNVSjNyal9VNDdTMDZYU1lvSU5VNUVYbEt0QjNTNGNrNlhRYTB0VlQ0a2lxVWgxUUxpd2F6NHpCSUg5N2dQR2lINEpXaU14QS1LSVktVURKQzI0RXlRZFlyNi1sQ3dyS1pVTmVMWHcxUWlKaW9jWldzc2RlcG5rakhLLTQ?oc=5)
+### [Multiple Sklerose (MS): Angriff auf die Schaltzentrale - Deutscher Presseindex](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnBfWldkS3RkazlrT1p3VHlNWjRVOVdSR3hKUFNJQ2h0ZWFZNjU0bFM5S0VONzRramtDZWg5WVZiQjdQaVpaWTJDOFh5bV81QndwUUpxNEZqU3A5dXVleDFKcGRUWl93b0ZycG5LSEJhWDdjZVpDVEt1ZjQwYW5oMzVhaGIwZWMyQXRzaEUwbTVBNEhVNDhQWmF1UkRQS21o?oc=5)
 
 2026-07-22
 
-來源：[lifePR](https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ0IxTW5VUG92LUk5ZUxBR1U4dF9uUmlDQUdCcUpqd1g4UmFZUE5kdjFzajA0RDZycGZ2LWhtRjRaZGlKdmRNMEVXbEQ0V1EwWFF3eEhCdUtkSEM4R2ZRRjktQllpMFZvNk5JanhUUlF2RFliclF0Q3pyREJWVzJYLWdfb0pObUcxdkdUV3FETFBMWFFwN3B5T19oWUt2VG5IM3gtZEhmaDNVSjNyal9VNDdTMDZYU1lvSU5VNUVYbEt0QjNTNGNrNlhRYTB0VlQ0a2lxVWgxUUxpd2F6NHpCSUg5N2dQR2lINEpXaU14QS1LSVktVURKQzI0RXlRZFlyNi1sQ3dyS1pVTmVMWHcxUWlKaW9jWldzc2RlcG5rakhLLTQ?oc=5)
+來源：[Deutscher Presseindex](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnBfWldkS3RkazlrT1p3VHlNWjRVOVdSR3hKUFNJQ2h0ZWFZNjU0bFM5S0VONzRramtDZWg5WVZiQjdQaVpaWTJDOFh5bV81QndwUUpxNEZqU3A5dXVleDFKcGRUWl93b0ZycG5LSEJhWDdjZVpDVEt1ZjQwYW5oMzVhaGIwZWMyQXRzaEUwbTVBNEhVNDhQWmF1UkRQS21o?oc=5)
+
+---
+
+### [Gehirngesundheit: 3.000 Schritte täglich bremsen Demenz-Marker](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTm1JNXJoTi1UZkJlU3dkZ0FfSi1BSDEzNnk5c05HQThERFE0OW1jemZialRHNC1CSVNudjBGTmtHemJjQ3FCRkQ2RkFHUFBoblpLeUE4MjhXR1d1TUQ3cTNSeGpZMXNITTFmWndVRW14SU1mVWVnVTE2MFQzN0FmTVpCNDNMX0hOcVhOVUJLX19fWHVtbDN1ZDF5R2RSMTB5UHVKMHQ1VnkwcnZYU3BnWA?oc=5)
+
+2026-07-22
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTm1JNXJoTi1UZkJlU3dkZ0FfSi1BSDEzNnk5c05HQThERFE0OW1jemZialRHNC1CSVNudjBGTmtHemJjQ3FCRkQ2RkFHUFBoblpLeUE4MjhXR1d1TUQ3cTNSeGpZMXNITTFmWndVRW14SU1mVWVnVTE2MFQzN0FmTVpCNDNMX0hOcVhOVUJLX19fWHVtbDN1ZDF5R2RSMTB5UHVKMHQ1VnkwcnZYU3BnWA?oc=5)
+
+---
+
+### [The Hidden Cancer Risk of Ketogenic Diets](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHl1TmItM1M4N2ZQMncycG14aWFaY3ZVQ2xncHNtQ1lRQWFrRUxLaVNtdWxJek16d3FvcjNUREJfNTF6akQ0MTFmQTRITE9kMVd1aFA5WHlFeDZsMElMdXMxeXVnR2czZzJoOTlOTzdNellVQ1E?oc=5)
+
+2026-07-21
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHl1TmItM1M4N2ZQMncycG14aWFaY3ZVQ2xncHNtQ1lRQWFrRUxLaVNtdWxJek16d3FvcjNUREJfNTF6akQ0MTFmQTRITE9kMVd1aFA5WHlFeDZsMElMdXMxeXVnR2czZzJoOTlOTzdNellVQ1E?oc=5)
 
 ---
 
@@ -144,6 +176,14 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [When it’s critical you see a doctor NOW for persistent back pain - and the exercise plan proven to fix it - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkR5U2hDQWR0SXl4YVZpZ0tGZHlwaHpOMzdHQU1BbjdqQlpxajJRSWZPUlpzMGdVX0JFXzhwT2wxem1KNC1hV214MEJhU0k1ZTR3OWg3V1JycldJd3YxX1hRVlFSRmUwWUJMcjlYTVhKNldZa3h1T2xfNEJWb3FUUVNVQmQ1T1RiS19MYWZCRXBfa2s?oc=5)
+
+2026-07-21
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkR5U2hDQWR0SXl4YVZpZ0tGZHlwaHpOMzdHQU1BbjdqQlpxajJRSWZPUlpzMGdVX0JFXzhwT2wxem1KNC1hV214MEJhU0k1ZTR3OWg3V1JycldJd3YxX1hRVlFSRmUwWUJMcjlYTVhKNldZa3h1T2xfNEJWb3FUUVNVQmQ1T1RiS19MYWZCRXBfa2s?oc=5)
+
+---
+
 ### [Fall eines Happy-Heart-Syndroms: Zu viel empfundenes Glück kann das Herz brechen](https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVptaXlnVmhvZ0YzZEZONmt0U2htMTNGWEtyTVk1dWxUME9MQjhrX2JNOGxNMkJ5d1pQbmpzZVNadDAzQ2dnWC1SdGxSNjBLU1FBa0x4VHJac1RoMWlIN3NCTF9OeWZRZEoyNE5WODdETEo5ZzdMbGk0RFNBT3l4aC1NUXNidDFRVWF1N25LQ3d6RnlXNUE?oc=5)
 
 2026-07-21
@@ -152,27 +192,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Demenz-Prävention: 3.000 Schritte täglich können Alzheimer verlangsamen - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
-
-2026-07-21
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1hbGpndEF0R2lGUU81ZkFnQmdxR2VvWGpQTmxUU2RxVERmbExyMjRzdlBuU1prLU15MWk2RkpFSzFReWI5XzVKSEwxUGJTMnU1TzBaWGxzLTRzSTdoME5jNzZEdE1BdDJMNmw3WklMTHNsSzVIVDc1MDEtYWRmQlFiRzF2WW9jOXo2elJ0a3BPX1FJUk1UTGxCS1Q3aTY5MllXUFNpZGo?oc=5)
-
----
-
 ### [The no-diet, no-exercise slimming hack as nurse claims it drops '6lb instantly' - so what's the expert verdict? - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWxxbWlhQ3N5MkxZcDZ2dmlOZVNia3pGXzRGYUxVZEdfS3FCV3liWVN6czZxSGZBY1NEVDV4Ry04NU84Q2VibVFUX0wxek5ZNENKZC1LdGZENmdqZjUxSGxZOW13VFhNM2owQWN6S0t4THZzcnFiTUZEdFQxaVRIZkNhenRxRFM4dTVV?oc=5)
 
 2026-07-21
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWxxbWlhQ3N5MkxZcDZ2dmlOZVNia3pGXzRGYUxVZEdfS3FCV3liWVN6czZxSGZBY1NEVDV4Ry04NU84Q2VibVFUX0wxek5ZNENKZC1LdGZENmdqZjUxSGxZOW13VFhNM2owQWN6S0t4THZzcnFiTUZEdFQxaVRIZkNhenRxRFM4dTVV?oc=5)
-
----
-
-### [Warning to Brits as paralysing tropical viruses sweep European holiday hotspots - map reveals most at risk - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVhmWVpOLXZxRkZ6UTNVbm5YMTNQV0lMSHJDNHZ0RUhLVnVNaWlJemhTUFZfYWlDd29ZS3pxeVZlWUZzQlNCelJILWgxVVVIbnFiZEx3UHJCUWZFV0hGMEh0NmlFNmFVVWE0X3F6VzhLdEZYQWMwY0RvVHljUXVadHEtN1VNODJIWkFlcFlyWjZIdXdSaVFhdWcwYnNQbEh5MlF2QjBR?oc=5)
-
-2026-07-21
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVhmWVpOLXZxRkZ6UTNVbm5YMTNQV0lMSHJDNHZ0RUhLVnVNaWlJemhTUFZfYWlDd29ZS3pxeVZlWUZzQlNCelJILWgxVVVIbnFiZEx3UHJCUWZFV0hGMEh0NmlFNmFVVWE0X3F6VzhLdEZYQWMwY0RvVHljUXVadHEtN1VNODJIWkFlcFlyWjZIdXdSaVFhdWcwYnNQbEh5MlF2QjBR?oc=5)
 
 ---
 
