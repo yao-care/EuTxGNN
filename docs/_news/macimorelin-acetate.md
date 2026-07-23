@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（23 則）
+
+### [Dengue: What is the mosquito-borne disease that Sri Lanka is using drones to fight?](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5SDZSQUctUXcycWRBVjNqbEI4UDZISnNpUWR4NktJMWt6T2FRT25xN3F0QjJRejVNX0VUeVVkTWlaVUhSOTItY2duVC1UaURzc3hPTTdwRGN6RVJt?oc=5)
+
+2026-07-23 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5SDZSQUctUXcycWRBVjNqbEI4UDZISnNpUWR4NktJMWt6T2FRT25xN3F0QjJRejVNX0VUeVVkTWlaVUhSOTItY2duVC1UaURzc3hPTTdwRGN6RVJt?oc=5)
+
+---
+
+### [Ach, Mensch!: Beginnt Adipositas im Gehirn, Jens Brüning? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOak1PTTRTamg3X2Z2OWozTGdqQkN2LUJieFZEZERGZU1fMXlGVDJzdEJVUGlSNXJ6RVZaVE1nZ0FmUUpVanV4d25ZODZVNGNkN0RSd19GRXpyY2tvMEU4YWdac2ZVOW96RFo5WlRudGFmOHBNUGNTYk84dExoVm51eTQxajdWVlpsNmZNN1VBWkVGQVMzUGs2bA?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOak1PTTRTamg3X2Z2OWozTGdqQkN2LUJieFZEZERGZU1fMXlGVDJzdEJVUGlSNXJ6RVZaVE1nZ0FmUUpVanV4d25ZODZVNGNkN0RSd19GRXpyY2tvMEU4YWdac2ZVOW96RFo5WlRudGFmOHBNUGNTYk84dExoVm51eTQxajdWVlpsNmZNN1VBWkVGQVMzUGs2bA?oc=5)
+
+---
+
+### [‘I would rather be poor’: man says money cannot compensate for partner’s death after failed cancer diagnosis - The Guardian](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXJOZFk3U1pTb05ZZ09NQktYZE5sLU1wWkU2RjV3Yk5wT3ozQ3NoVXFEQmtKOTR0MVJTQ2FFVXBQbFM4WDRJY2hiUklBWUprd212VjVERVZyb08zYUQtbG5jaHEzT1EwMTc1SEktcDVZNVZVRjMxeGNISk9TUFNWNmViRV9Ob2pLaThuSEJGSEFHR2xORnh4bnY1bjFkdUpTVlVNaEsyU25VSkYtNTdadUVFakJtcndhVTZUV2txR1Ewemp6TU1qeTEzZDRnT1dXaXlWWFZDZmYzRjVMZ2RPeHhSUUhLUk0?oc=5)
+
+2026-07-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXJOZFk3U1pTb05ZZ09NQktYZE5sLU1wWkU2RjV3Yk5wT3ozQ3NoVXFEQmtKOTR0MVJTQ2FFVXBQbFM4WDRJY2hiUklBWUprd212VjVERVZyb08zYUQtbG5jaHEzT1EwMTc1SEktcDVZNVZVRjMxeGNISk9TUFNWNmViRV9Ob2pLaThuSEJGSEFHR2xORnh4bnY1bjFkdUpTVlVNaEsyU25VSkYtNTdadUVFakJtcndhVTZUV2txR1Ewemp6TU1qeTEzZDRnT1dXaXlWWFZDZmYzRjVMZ2RPeHhSUUhLUk0?oc=5)
+
+---
+
+### [Übertragbare Krebsart bei Fischen entdeckt - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdThiRFpLTURSZXVXa1ZBbHNadl90QnFZM2U4QTBJZ0thLUZZT1VjZVBmcUNDMUtsTUJUd05WaVBaVmRualZZTFMtcENhdnMzZ0ZxWUV2UU91NlNocV9iVnZsZ3Y1amYzaHdyRXlaQXEwd1NYckdHdWx3N1g0TEdWbA?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdThiRFpLTURSZXVXa1ZBbHNadl90QnFZM2U4QTBJZ0thLUZZT1VjZVBmcUNDMUtsTUJUd05WaVBaVmRualZZTFMtcENhdnMzZ0ZxWUV2UU91NlNocV9iVnZsZ3Y1amYzaHdyRXlaQXEwd1NYckdHdWx3N1g0TEdWbA?oc=5)
+
+---
+
+### [Typ-2-Diabetes: 18% schaffen Remission ohne Medikamente – was Studien zeigen - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
+
+---
 
 ### [Africa's camels are dying from extreme heat as temperatures soar](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xQmlpWE9leWtmUkZpVi1US2swZjNueGpYN1NuM0tyTk5mZVA5VzBGNEZpSk5wQ0hqTG1jWG5TWWFtZHEwWjI0bzczZ05ma3NzTW9zanU1SDN2dE1z?oc=5)
 
 2026-07-22 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xQmlpWE9leWtmUkZpVi1US2swZjNueGpYN1NuM0tyTk5mZVA5VzBGNEZpSk5wQ0hqTG1jWG5TWWFtZHEwWjI0bzczZ05ma3NzTW9zanU1SDN2dE1z?oc=5)
+
+---
+
+### [Lichtsäule über der Sonne - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjI4TnRYWGRlTHRERjUwQ0J5dG9VNXVhWnRvVURmcGZNd3IyWVlyLTFockZYTXp6cm1SSUR5cjNjN21RS1o5TXBpSDQxNGJ4V0FMdGZiMjRCajJ0S1NuUWhEdnUtX2tVRGpkak1aQzBGT2xwRXpCdENTMkFrZjltd19zMXE5NVVQdDhETHNB?oc=5)
+
+2026-07-22 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjI4TnRYWGRlTHRERjUwQ0J5dG9VNXVhWnRvVURmcGZNd3IyWVlyLTFockZYTXp6cm1SSUR5cjNjN21RS1o5TXBpSDQxNGJ4V0FMdGZiMjRCajJ0S1NuUWhEdnUtX2tVRGpkak1aQzBGT2xwRXpCdENTMkFrZjltd19zMXE5NVVQdDhETHNB?oc=5)
 
 ---
 
@@ -102,11 +150,27 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
+### [Ma il caffè fa bene al cuore? Si, ma alle giuste dosi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
+
+---
+
 ### [MASH e steatosi del fegato, malattie tanto frequenti quanto sottovalutate: come si scoprono e si affrontano](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
 
 2026-07-22 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
 
 來源：[DiLei](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
+
+---
+
+### [Cheshire dad's £12,500 dream holiday goes badly wrong - 'we flew straight home' - Cheshire Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEVPRnFHUE03R3FNdGxleTB0cXFRV3pMQzRVLVMwbnVMblZYOUhUOFNZcjV4TFRxNW1ub2Y0SWxnTmlmWFFvdG9pcTR6MGJWaXA0MENteDRKLTVWN241NXpKUmJOZDkxOE9VS3l4RDdJekl4aTJtTUpZS3o4MUw2cXN5VE44SjZ5UlJNVWhOQXZUZFk5YU9BaWVPM1V5amxWTHRZ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">AF</span>
+
+來源：[Cheshire Live](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEVPRnFHUE03R3FNdGxleTB0cXFRV3pMQzRVLVMwbnVMblZYOUhUOFNZcjV4TFRxNW1ub2Y0SWxnTmlmWFFvdG9pcTR6MGJWaXA0MENteDRKLTVWN241NXpKUmJOZDkxOE9VS3l4RDdJekl4aTJtTUpZS3o4MUw2cXN5VE44SjZ5UlJNVWhOQXZUZFk5YU9BaWVPM1V5amxWTHRZ?oc=5)
 
 ---
 
@@ -126,14 +190,6 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Winterberg: Aktion „3000 Schritte für Gesundheit und Gemeinschaft“ - Brilon totallokal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3M2QWJUWjFtNDZvVDVCd1FtUDRfNkZwTEtXSmJVWE5ka0V0UkxKV0d5ajZuYlZjSXpGYU9HeXpZZ2hqaHhQQWhvZk00SWpkZVRhd29pUVRJd0I5RTMzeEx1cnRjdzJ6c0RVOE5ZeGdjYV9RTjZTdUVDWXFxVlU3X2dIMWx0V2tVQVo2SWh6bHk5eFdfUmhtcnpoTV9wOHdUNXRxYkJyN2g?oc=5)
-
-2026-07-22 <span class="news-indication-tag">AF</span>
-
-來源：[Brilon totallokal](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3M2QWJUWjFtNDZvVDVCd1FtUDRfNkZwTEtXSmJVWE5ka0V0UkxKV0d5ajZuYlZjSXpGYU9HeXpZZ2hqaHhQQWhvZk00SWpkZVRhd29pUVRJd0I5RTMzeEx1cnRjdzJ6c0RVOE5ZeGdjYV9RTjZTdUVDWXFxVlU3X2dIMWx0V2tVQVo2SWh6bHk5eFdfUmhtcnpoTV9wOHdUNXRxYkJyN2g?oc=5)
-
----
-
 ### [L’Alzheimer è un affare di coppia: se il partner si ammala, il rischio per il coniuge sale - la Repubblica](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFNyYWZsZm11blBNcHFuMnlqSk1hSVZhMlAxTUljd280R1p5RTB2OU43VzRSamE4WGtIMU1SQkJscHJNdWpTWEFsNVV0UmIxTVdnQTlqNzFEOWZ3ekVsSmtOUmtTUF9wbXZiQk81NnRDc0cwZ19SYzNMQ0FBd3ltaXp1RjBqVWpERThnY1dkRzMxcVZHMjZTQ2FpeS1mWkRnaWQ3cGF2bG52SUNzS2dPeFpGMmZBSFhLbVRjLUtnQ2FBMFAyTXZ2ZHFFRnk1WldoT0pNMnBRdnlDdUJxVE9IetIB5gFBVV95cUxQNFFHTTl2NTN4bVdGVkdJWGQzbFRxR0VhU1hPVS1aYlRGaEJFemMwblF3T3lzSTFsUEh2bE9nOEdqS0NnM0ZHQVEtejBSdHZEZVRsaFVUZE1MQm5lVFoxZUM2YndTWWJFT29pN1VDY1lxWTNtU1dxOXJ0SDJKQURia3JDVnkxOW9SWGhJem9Ebno0amZTN0lyNzh5R0J5TFBObm1JTWhTRjBSd3U1VExRZldRS2Q4RnIxdmtmQ2VtYW1iR09xeDh4SndwUlYyaS1nNF9tY3puQjhsMDhVb0RmamxLN2liZw?oc=5)
 
 2026-07-22 <span class="news-indication-tag">AF</span>
@@ -150,14 +206,6 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [US funding cuts deal blow to global HIV treatment: Report - Al Jazeera](https://news.google.com/rss/articles/CBMingFBVV95cUxOdGdzYnc0NGsyUVdURHVZc1dTZmlzdDBhWFVyWHIyQlFLbDU5N2RvZGQ2aGNHMW9RRVp0ckJldk16NVB6cmQzRUtySG85X1lXOVBMekRodmliaGFoYUp2LXF4d1llNVM0d3FHQkZGdFJ3T3czQnBFR2VsY2NXUEc2UVRBSGNWZXB1VjZjTW1YRkZGLXRlYkR3TzVGS21Md9IBowFBVV95cUxOeVBQZDJiclhmQXdiX2dTZFlMWS0wMV96dlNOV2xuOENHMHAzaUowcjVka3c4UmJLbmdQRzNQd2xOR3EtckV5ekcyeFBocG9LVkVaMmdhMnpQbjBmNzVuOTZOWFpReHNsT0lTYU1CR2ViY3lQSnM0bVpDOUhqV0s1NU9mNnVvby13bHlvaTNLbk5aTEtFYjFTQXdtNXVPb0E2MzlZ?oc=5)
-
-2026-07-21 <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMingFBVV95cUxOdGdzYnc0NGsyUVdURHVZc1dTZmlzdDBhWFVyWHIyQlFLbDU5N2RvZGQ2aGNHMW9RRVp0ckJldk16NVB6cmQzRUtySG85X1lXOVBMekRodmliaGFoYUp2LXF4d1llNVM0d3FHQkZGdFJ3T3czQnBFR2VsY2NXUEc2UVRBSGNWZXB1VjZjTW1YRkZGLXRlYkR3TzVGS21Md9IBowFBVV95cUxOeVBQZDJiclhmQXdiX2dTZFlMWS0wMV96dlNOV2xuOENHMHAzaUowcjVka3c4UmJLbmdQRzNQd2xOR3EtckV5ekcyeFBocG9LVkVaMmdhMnpQbjBmNzVuOTZOWFpReHNsT0lTYU1CR2ViY3lQSnM0bVpDOUhqV0s1NU9mNnVvby13bHlvaTNLbk5aTEtFYjFTQXdtNXVPb0E2MzlZ?oc=5)
-
----
-
 ### [La dieta che fa dimagrire... potrebbe aiutare anche il pianeta](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOW13Y3ZnMlUwS0xEd2xXYjB3NHkzN3dFb01rRUk4T29BcC1jQURPR2doV25vb3ZlYUlqdmdobGFkS3FyTm9XVVpybldwS0tqY2VwMkV1WGYySVl2Z1JVQTRXb0I0VDlfWUE1eklHdm5DeWZISTkzU0ZScV9OWkZFQlE3UHFTTnNLanNObXRkR3dEVTNFdDhOVVVqUkY3XzZUU2RleGZsNlJRelFlQWVsUw?oc=5)
 
 2026-07-21 <span class="news-indication-tag">AF</span>
@@ -166,11 +214,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+### [Trump’s HIV funding cuts having ‘severe and devastating’ impact around the world - The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
 
-2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-indication-tag">AF</span>
 
-來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVUySzZBM2hVSmtFSk0taDFRVnpOM2NZMktwWG9QT2NzQlpFSHB0dGJIWGdJSWlsbThYdVV2UmJZU0tsUTlWWWZ6bE9JMGpNdXkwY2dIcV94MUZpcVJUbF9rY2hScnIycW5xZjZWODVDZEhZWXpsYVpsc3pGYlM4N1hkb0ZGZy1fdTJOMmQ5RGY5dGJ0dlBNVHE3SmpKazRVN0REdEV2NDVaS3pnRHhTODd0U3EybkxHeldmVHhLSFhTa0hrcjdTcDludVBWRENyYmc?oc=5)
 
 ---
 
@@ -187,14 +235,6 @@ permalink: /news/macimorelin-acetate/
 2026-07-21 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tclE3UU1vR1BPV0ItVklwMUNucl9KMGZTRmtBNGNNaG02WHFhbUZxQkhtcVJUaVVfZFZ2dTM3M09aTWpqX0pqOGczcldwWmFNdkVpY29nd29MMVpf?oc=5)
-
----
-
-### [Alzheimer, l'ipotesi affascinante (e finora senza basi scientifiche) che alcuni pazienti abbiano un «risveglio» - Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPNmNxUUdvZ3dkZXZTaFdVQldDTlJhVnRyTGlDU2tBeXpDdzIyX3I2V2hnakpIZVU1WFB1eEFEb3p2TFJLSVgycTk3dTd1WUpIZ2s3d1liMmJJWHVZcmM0TnZDZUtiaHVEY2M1bV9fblUyMllPbFdXSm92Y1pibE1kaTh6allQZXpaT19zQm83V0VyU1BGeTAxdjgwSm9WbXdkQk5uY2kwaFNhTFg4aS1STkhzMlpXNGs3bU5tT1RtR3dVNEdVRG81NVlqNmdqOXN1TTZBWTBtMkJJaUVWbGZ6QU9DYlBJTElaYWhBM2dkbzk0bjVlbEc1bkdHTEI5ZkE1LThDRzJVMVY0MWxRQzEyeG5pYWJxenROeXN5dzhxMDA1NGYycEVPVUtfUWtzMWvSAbQCQVVfeXFMTm0tSHRhWjl6U2cxOGZzTkkwVDVTbmJzLXdMUmI2N3hsVU1aZVNmWnJZdzRjWFRGLXNYWVhxWVE5R3ZHSkdVNmFWdkxzcWx3cjRPcVJiaE8xRjMxVUItOGVXOXA3WEQxVnU2d3RCaC1BNXpxWU40bFdZNjd4WTZYcjB5NnlyVldfVDV4alhNTC1CMG1GeHpNWndoUEJNODZUXy01djdZQktmNWx1UWwtWGxtWE00Mng2dF9rWGhqNnZmdXE3bWROLURHUkg3Z1B3S3ZCZkJYME1lVGh1M3doYmtCcG5HcGt1U2NuRWR6QzBTRUF0LXF1VUJRVk1OaG9yWWJrTkpMRWF6elRQY2hXM3ZpZEg2MGtvM1BRakVGYWhtZlFiODUwRldFc21wOWhIamJRbTQ?oc=5)
-
-2026-07-21 <span class="news-indication-tag">AF</span>
-
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirwJBVV95cUxPNmNxUUdvZ3dkZXZTaFdVQldDTlJhVnRyTGlDU2tBeXpDdzIyX3I2V2hnakpIZVU1WFB1eEFEb3p2TFJLSVgycTk3dTd1WUpIZ2s3d1liMmJJWHVZcmM0TnZDZUtiaHVEY2M1bV9fblUyMllPbFdXSm92Y1pibE1kaTh6allQZXpaT19zQm83V0VyU1BGeTAxdjgwSm9WbXdkQk5uY2kwaFNhTFg4aS1STkhzMlpXNGs3bU5tT1RtR3dVNEdVRG81NVlqNmdqOXN1TTZBWTBtMkJJaUVWbGZ6QU9DYlBJTElaYWhBM2dkbzk0bjVlbEc1bkdHTEI5ZkE1LThDRzJVMVY0MWxRQzEyeG5pYWJxenROeXN5dzhxMDA1NGYycEVPVUtfUWtzMWvSAbQCQVVfeXFMTm0tSHRhWjl6U2cxOGZzTkkwVDVTbmJzLXdMUmI2N3hsVU1aZVNmWnJZdzRjWFRGLXNYWVhxWVE5R3ZHSkdVNmFWdkxzcWx3cjRPcVJiaE8xRjMxVUItOGVXOXA3WEQxVnU2d3RCaC1BNXpxWU40bFdZNjd4WTZYcjB5NnlyVldfVDV4alhNTC1CMG1GeHpNWndoUEJNODZUXy01djdZQktmNWx1UWwtWGxtWE00Mng2dF9rWGhqNnZmdXE3bWROLURHUkg3Z1B3S3ZCZkJYME1lVGh1M3doYmtCcG5HcGt1U2NuRWR6QzBTRUF0LXF1VUJRVk1OaG9yWWJrTkpMRWF6elRQY2hXM3ZpZEg2MGtvM1BRakVGYWhtZlFiODUwRldFc21wOWhIamJRbTQ?oc=5)
 
 ---
 

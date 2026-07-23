@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
 
-### [El índice de obesidad sarcopénica supera al IMC en la predicción de enfermedad cardiovascular - IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUgwdVVYeUtVT0cwWlY0RnlQS2xoUHZ1SEF3eDctMWZGMy1lWTRIQlBPdGxERXZGb0YtQXpKZ2lFUmhQZEkzYUk2V0hkc1RSem83aHdpejNNUnByMGEwN3kzcFRRUDkzUl9pU21pNG9yb0k4ZGhoRjBOZm1aa20tX09MQm80aXdVWWplUGRVc0FndldsYUVFRkxNRjFVR2djT01NdVdLQjllc1dNRktwQmRUd0duVE3SAbIBQVVfeXFMTVNWdGl3VDhULTFDN3lvWmV5dDdhQ1ljOW9EQzl2Y3B2Tkx2YlhfSmprZXBxNGVtUFNGdXVFcjhSYTNST1A5NGhXeERIbHN6dVZBUU5ER3JNZjExZ3BiSm5aOHU0N0hfdUVjbXZpNF82SkFxV0xUMkg4azRMcXZxUEl1N0ZmWTRLMWdtU0FzOGtweWJnV3Z0RXBheDNvczFCeldqbDdWVjdxdzVnXy0zd2plZw?oc=5)
+### [Ach, Mensch!: Beginnt Adipositas im Gehirn, Jens Brüning? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOak1PTTRTamg3X2Z2OWozTGdqQkN2LUJieFZEZERGZU1fMXlGVDJzdEJVUGlSNXJ6RVZaVE1nZ0FmUUpVanV4d25ZODZVNGNkN0RSd19GRXpyY2tvMEU4YWdac2ZVOW96RFo5WlRudGFmOHBNUGNTYk84dExoVm51eTQxajdWVlpsNmZNN1VBWkVGQVMzUGs2bA?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOak1PTTRTamg3X2Z2OWozTGdqQkN2LUJieFZEZERGZU1fMXlGVDJzdEJVUGlSNXJ6RVZaVE1nZ0FmUUpVanV4d25ZODZVNGNkN0RSd19GRXpyY2tvMEU4YWdac2ZVOW96RFo5WlRudGFmOHBNUGNTYk84dExoVm51eTQxajdWVlpsNmZNN1VBWkVGQVMzUGs2bA?oc=5)
+
+---
+
+### [El índice de obesidad sarcopénica supera al IMC en la predicción de enfermedad cardiovascular - IM Farmacias](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkVnUHp2dDJTTEZJeTBYNXlsbWhpaVl3ak9PYW9iSEx6SnVOdExnS1VwWkRmanVlY0MwSVo3UUk2LUJ5SzRHQ1NJU0YxZHhrRzRRTG02QkJOdHhSUDZOU1pfUjdYbUNKV3lJa2JlVEtJY2w1UjVidGVQQVJVczNyeVJXMnZhcF9aWWNfQ2tfMHlZbnlhdXkxaTVTQnVWMnhSRDNuRXZ2SUJCcmPSAaYBQVVfeXFMTlRVbjJpYTNOQVc2dTE0cXZhT0lEdEZBN3Z0NGd2ZE9nSzVrTFE2TEpSamVFUjFadkZVMzFOX19kcExBV0NFSTRmZjl2VUZiUTdYMmNLNlVYYkxuVEtHZUJvYWhWNG1UVll2YXBTX0kzdTFHX09PZXR0OHIwRFEtbmM5OV82X21BcXJjOWx0ZU9lVTQ0WHhMTWt3TWV1UmNucnBGUDBDUQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">obesidad</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUgwdVVYeUtVT0cwWlY0RnlQS2xoUHZ1SEF3eDctMWZGMy1lWTRIQlBPdGxERXZGb0YtQXpKZ2lFUmhQZEkzYUk2V0hkc1RSem83aHdpejNNUnByMGEwN3kzcFRRUDkzUl9pU21pNG9yb0k4ZGhoRjBOZm1aa20tX09MQm80aXdVWWplUGRVc0FndldsYUVFRkxNRjFVR2djT01NdVdLQjllc1dNRktwQmRUd0duVE3SAbIBQVVfeXFMTVNWdGl3VDhULTFDN3lvWmV5dDdhQ1ljOW9EQzl2Y3B2Tkx2YlhfSmprZXBxNGVtUFNGdXVFcjhSYTNST1A5NGhXeERIbHN6dVZBUU5ER3JNZjExZ3BiSm5aOHU0N0hfdUVjbXZpNF82SkFxV0xUMkg4azRMcXZxUEl1N0ZmWTRLMWdtU0FzOGtweWJnV3Z0RXBheDNvczFCeldqbDdWVjdxdzVnXy0zd2plZw?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkVnUHp2dDJTTEZJeTBYNXlsbWhpaVl3ak9PYW9iSEx6SnVOdExnS1VwWkRmanVlY0MwSVo3UUk2LUJ5SzRHQ1NJU0YxZHhrRzRRTG02QkJOdHhSUDZOU1pfUjdYbUNKV3lJa2JlVEtJY2w1UjVidGVQQVJVczNyeVJXMnZhcF9aWWNfQ2tfMHlZbnlhdXkxaTVTQnVWMnhSRDNuRXZ2SUJCcmPSAaYBQVVfeXFMTlRVbjJpYTNOQVc2dTE0cXZhT0lEdEZBN3Z0NGd2ZE9nSzVrTFE2TEpSamVFUjFadkZVMzFOX19kcExBV0NFSTRmZjl2VUZiUTdYMmNLNlVYYkxuVEtHZUJvYWhWNG1UVll2YXBTX0kzdTFHX09PZXR0OHIwRFEtbmM5OV82X21BcXJjOWx0ZU9lVTQ0WHhMTWt3TWV1UmNucnBGUDBDUQ?oc=5)
+
+---
+
+### [Giornata mondiale della Neurologia, a Borgo Trento la stroke unit che tratta 500 pazienti l'anno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUXZ2Ym84NWtjeUxzeFFwd0VCbXZXNmdyZ1VPV0JGVHJwVzZSZ2NfMGtXelJRejVEM1NZOEhrS01FSlhrRF9yRFdMOXhHc1lOVmFzUWVlYllxQWZ3NGlKUFQ3ZlZLYXN0M0JmQjg4VzZrOEhmaDFIS29ld3U2S2lmZjR4Uk0yZjYzb2FfWmFaM0lnekFmR1cwUGNYdzlMdXVOTDV6c08xcnJZMTlIbmwyLUpjX3VXY2NCZlhxY25WX3hqdXRINUhoNWlJN1dzZlp5dEExUzVKM2c2R1Z6V0hlTWQ2Zk9ZUEhvZnpwddIB8gFBVV95cUxPbE5XbGxoU0FwQWMxTnZ6THhhTlp2ODM0SUZIU2N6dk9McTZQYnFKTHo5RFRLbkhLT1FFNm40TVo2Q0x2RHFralFyRS1iWkVYYjhvcWVmdERRS3hFR2lmT1R2MEJwRUJNSlpfbFFfNmxLdFJmV091WTJpcnF4NjNkdW85YmJDMFY1MnFCTW5sNldDSTJpSmQ5V2ZnY1MyR2NtLS1fanR6T0hBbXp5WDU0aXZGX1lTYlFtMjhDQVpQWnNUbUtYaVlGdzdONnVpcHdHLTc1YXZ3Z3oydHQwVmpZaDBJVk5KcUNuM20wY0NxX2Jxdw?oc=5)
+
+2026-07-22 <span class="news-indication-tag">stroke</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUXZ2Ym84NWtjeUxzeFFwd0VCbXZXNmdyZ1VPV0JGVHJwVzZSZ2NfMGtXelJRejVEM1NZOEhrS01FSlhrRF9yRFdMOXhHc1lOVmFzUWVlYllxQWZ3NGlKUFQ3ZlZLYXN0M0JmQjg4VzZrOEhmaDFIS29ld3U2S2lmZjR4Uk0yZjYzb2FfWmFaM0lnekFmR1cwUGNYdzlMdXVOTDV6c08xcnJZMTlIbmwyLUpjX3VXY2NCZlhxY25WX3hqdXRINUhoNWlJN1dzZlp5dEExUzVKM2c2R1Z6V0hlTWQ2Zk9ZUEhvZnpwddIB8gFBVV95cUxPbE5XbGxoU0FwQWMxTnZ6THhhTlp2ODM0SUZIU2N6dk9McTZQYnFKTHo5RFRLbkhLT1FFNm40TVo2Q0x2RHFralFyRS1iWkVYYjhvcWVmdERRS3hFR2lmT1R2MEJwRUJNSlpfbFFfNmxLdFJmV091WTJpcnF4NjNkdW85YmJDMFY1MnFCTW5sNldDSTJpSmQ5V2ZnY1MyR2NtLS1fanR6T0hBbXp5WDU0aXZGX1lTYlFtMjhDQVpQWnNUbUtYaVlGdzdONnVpcHdHLTc1YXZ3Z3oydHQwVmpZaDBJVk5KcUNuM20wY0NxX2Jxdw?oc=5)
 
 ---
 
@@ -70,6 +86,14 @@ permalink: /news/orlistat/
 
 ---
 
+### [Ma il caffè fa bene al cuore? Si, ma alle giuste dosi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
+
+2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
+
+---
+
 ### [Obese young women driving rise in diabetes - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZlRUgwTUJkYnEyYkZOZWZpOVlOUHhObXpTM0hRTlJlbjZ5VmJyZ1VKcmhXSjJXSXdIQ2NOcE0zY1JMSUdvS21fWGhTdDF6eFpFUkJuUElrQk55cDNRZnl3N00tajRiZGZXQzd4MC1zc0VGUjBtYzBrOWRrLVZZaVQ4THROZGVxTnNIOWRnY09jbnNpU0FLb1NwQQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
@@ -78,11 +102,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+### [Fat jabs STOP binge drinking and slash hospitalisations by more than a quarter - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
 
-2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span>
 
-來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0tLV25zVUJEdWlpOGpab3hlTi10OF92aHllSUdHTGJIMlRSQmNDcndXVWhOTHRhQ09zSUxpbWZnUENOb3FESEs1YzVCM09LNUl2WWp5ZFNpdWY5aHhPaVVpN1FXaEp6bHFFa1ZOa2NqV2Y4TGxwekdrLWFkYWZldGVnOWJsT3NxVEk2a2R1Mk5MNFN3WkwyQnBMZFI?oc=5)
 
 ---
 

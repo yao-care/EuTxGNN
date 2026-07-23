@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Nearly 49,000 brain scans reveal aging signatures linked to dementia, addiction and mental illness - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmkzenBzZmlzR2wzcm1BMENaYTdlUzU0bHlpNDN6aEpKRWFPSlkySW1KRGJwci1JaU83TFRlQ1ZzVkhBNVFKR2JKdmNnb3ZDdmx4OVo2NWNsbG51b2tPOG5PVUZ3SVdTbTB1UXBKYlktYnFWRzNmMUtWd0xiTERHQWRTLU42UQ?oc=5)
 
 2026-07-21
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmkzenBzZmlzR2wzcm1BMENaYTdlUzU0bHlpNDN6aEpKRWFPSlkySW1KRGJwci1JaU83TFRlQ1ZzVkhBNVFKR2JKdmNnb3ZDdmx4OVo2NWNsbG51b2tPOG5PVUZ3SVdTbTB1UXBKYlktYnFWRzNmMUtWd0xiTERHQWRTLU42UQ?oc=5)
+
+---
+
+### [There May Be A New Way To Clear Alzheimer's Proteins From The Brain - HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
+
+2026-07-21
+
+來源：[HuffPost UK](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNLbm5GeVE2Skp4ZFdxMmlHU3NWLWdQd1lLdEpGcHd2OEZPejJtYW5EOVZoVGRrYV9ReUZiaFFzNzZqLVJ2Y3psSThYZnlFQjJhenVpLW0tSUluVGRCbUZ5VjlXVUsxdG53VEVqNVZ3Z05wMGphY0dsYUF2LS1mR3ZDTGhKUjdSR1EyQVZ2TlkxS0hvRWptbG5qVG1VVUU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bimekizumab/
 ---
 
 <p class="key-answer" data-question="Bimekizumab 有什麼相關新聞？">
-<strong>Bimekizumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bimekizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/bimekizumab/
 <p><a href="{{ '/drugs/bimekizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
+
+### [Typ-2-Diabetes bei jungen Frauen nimmt zu: UK warnt vor Verschiebung des Erkrankungsalters - it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1dJY0ZGdDRtU0ZTZlZwZWVTalhwYlFMZFpZMzJRTFVpMmdHaW5OV0RldlgxU1g4SnJEaEVTZHJkc3VNa2pVLXUzTHhkQkVMSGFUVTJuY281MS1rWlNoSVJURVY2alZmY3lDVzZTNHQ1cUpZd2hMSVpTVFJLT2U0Zjd0ME5DbF95MDVVWGEtX0V6aUVQRDVzLUYzRVNYNU1GYS00LVRwSXhZNVU2Snp3WEQ5eXNzM0VkTkpLTnhR?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1dJY0ZGdDRtU0ZTZlZwZWVTalhwYlFMZFpZMzJRTFVpMmdHaW5OV0RldlgxU1g4SnJEaEVTZHJkc3VNa2pVLXUzTHhkQkVMSGFUVTJuY281MS1rWlNoSVJURVY2alZmY3lDVzZTNHQ1cUpZd2hMSVpTVFJLT2U0Zjd0ME5DbF95MDVVWGEtX0V6aUVQRDVzLUYzRVNYNU1GYS00LVRwSXhZNVU2Snp3WEQ5eXNzM0VkTkpLTnhR?oc=5)
+
+---
+
+### [Typ-2-Diabetes: 18% schaffen Remission ohne Medikamente – was Studien zeigen - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
+
+---
 
 ### [Alzheimer-Risiko senken: Diabetes-Medikamente mit Potenzial bis 43 Prozent - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
 
 2026-07-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3N2Y3hETmVDakl4UUhaTXNDRGRSa0FGb3cyMkYyTXBfNHRROWdjLXNXQk1OU0luSnB4NFEtRkJINWk1S0R4cUVYVXRWLVd6eVF0OGtTSFFCQkUxUXhKaVhmQU5CbHZwaVZOZ2txUHc3RUhyTmVYOWt4RkY3RHFrWDJCOVlRWEU0VmI4NzVsaW5lWUdQaktWQWZReXFfZm0yNnRXeDdKc1I?oc=5)
-
----
-
-### [Typ-2-Diabetes: Kohlenhydratarme Ernährung führt zu 18% Remission](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUp6YTgzY1NEc0VaN1JEU1M1VndYOU40eUxKeG1XX25rc3dKMGdkSXhYMmlKN05JRGlQTXJtMTNWY0RxOHBwNXBpa3BzVC1hRWJCSDRQU0lkcjZOTXAybTlXMklVeEZRNDdobnlLZi1oTUhHczZQX2hETTdnbkZOU3o0NVY1NlNKQmpDQjJuX2FXSmtzOUptcjJKMk1sa0x6ejVhRjNYbjIzcHlOVnBheV9n?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUp6YTgzY1NEc0VaN1JEU1M1VndYOU40eUxKeG1XX25rc3dKMGdkSXhYMmlKN05JRGlQTXJtMTNWY0RxOHBwNXBpa3BzVC1hRWJCSDRQU0lkcjZOTXAybTlXMklVeEZRNDdobnlLZi1oTUhHczZQX2hETTdnbkZOU3o0NVY1NlNKQmpDQjJuX2FXSmtzOUptcjJKMk1sa0x6ejVhRjNYbjIzcHlOVnBheV9n?oc=5)
-
----
-
-### [Typ-2-Diabetes bei Jungen: Inzidenz bei Frauen um 69% gestiegen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBkcnE3MnlLd1lCUlNuemVnY1ZPMnRUaHZuT2F4RUg4TmNNRFI0aS1heFpDODJKZVhQVExyYmdxMER3Ri0xcEp3WDB0bnJJaldtQ0ZDdjhyN1JhQXlsUVMtTmVqa0N4UGRlaXVaWGtMbkpWQ2pfWjVTa003a1F3SGhmNWIxY3VmVWttY21pZmVzRDUyMGlvOWc1V2JMYV9CUElhWHJYWThYRHBDYnBKVVVGNTEtZU1GaFE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTBkcnE3MnlLd1lCUlNuemVnY1ZPMnRUaHZuT2F4RUg4TmNNRFI0aS1heFpDODJKZVhQVExyYmdxMER3Ri0xcEp3WDB0bnJJaldtQ0ZDdjhyN1JhQXlsUVMtTmVqa0N4UGRlaXVaWGtMbkpWQ2pfWjVTa003a1F3SGhmNWIxY3VmVWttY21pZmVzRDUyMGlvOWc1V2JMYV9CUElhWHJYWThYRHBDYnBKVVVGNTEtZU1GaFE?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/bimekizumab/
 
 ---
 
-### [Typ-2-Diabetes: Intervallfasten statt Kalorienzählen - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJtU3hISHRQdW0zYWxaQWpLYUNjdWxWV2NIanV3blJDbnpld2dNSklzVkhROEhwWVNwbmxUaU9RVFZFcS1fb2s5eU1vOGRrYkFDQkFsQ2p1M0pKTnFhWEJsTUxIdVZ2Q1U5ZFZ0TUluRmkxSlhESjA5aksyRGRwZVdqYXBYM3NxMm51S1BtZ3JpUkZ2bUtBaWlFUWZhUHM4S1VqWkVmNlk?oc=5)
+### [Ma il caffè fa bene al cuore? Si, ma alle giuste dosi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
 
-2026-07-22 <span class="news-indication-tag">diabetes</span>
+2026-07-22 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJtU3hISHRQdW0zYWxaQWpLYUNjdWxWV2NIanV3blJDbnpld2dNSklzVkhROEhwWVNwbmxUaU9RVFZFcS1fb2s5eU1vOGRrYkFDQkFsQ2p1M0pKTnFhWEJsTUxIdVZ2Q1U5ZFZ0TUluRmkxSlhESjA5aksyRGRwZVdqYXBYM3NxMm51S1BtZ3JpUkZ2bUtBaWlFUWZhUHM4S1VqWkVmNlk?oc=5)
+來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWxndUVUcmQtdzNheHNvQUhyZWF3WGQwczNmSVFRblJfeUVjRnB2LUx6NlQ1REtUa1JUQXJmVDF0WUNEeGpLTkFKV1pPN2dxVFFwMXpkdm93aGRIM200XzJHWlBsaHMyRHN5YUZIc3VNSm9TRElTX1FaMFpsOXVGQ3ZYRDd6VFE?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/bimekizumab/
 2026-07-21 <span class="news-indication-tag">diabetes</span>
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWk4MGFzb1hkU3lsTjNyUWR3YzhSSldOZEl6eDIzNTNmYlFtajU3ckxzQWlNV2tFRmFNb0xuWF9tVVI1ZTJaWGZKcVFYVWdTQUJQN1g1QXZEZTlhVUhUbUpIU1gwQWw0U3FjeXBoTjJIUUowcmtVRGFDMTdTcDM2aVpBZk50b2k2Y0tuM0NVWTdtTzZ2Z2w3V0puT3NWM1BaZVNQQjU1dm5jNzR6VmJZVjVFbHMxZ3EydmUxTzcxRTM?oc=5)
-
----
-
-### [Bassetti: "Cinque caffè al giorno fanno bene al cuore e riducono la possibilità di ictus e diabete"](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
-
-2026-07-21 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[today.it](https://news.google.com/rss/articles/CBMic0FVX3lxTFBjT1c4SFJSQzhuYTFhdUJseEs1V1lEOGU3RlRWbXVNZThLTUFhdU9JV1NPeEFuYUVULU9DT0s2c2xIT19TVlJXNFZXT2hpR21nUUNmcS13Mi1LRXJ1SlI4b2xQR2tCQnh4QUNEd1VET1BnQUHSAXNBVV95cUxOdTVaOTNoTE5ZaWFnSVI2TVBtNFI5MHdRSjNYYjJSQXBCbWcwMmk4b3I0Mnd0czZZM1YtNmo0UUtWNGhHSC1mMGM3TVlQZy05VHJ5UjM2Q1E0NFhzeFJORHB4T0UwcU54NEQ1RTNfRExkYTNB?oc=5)
 
 ---
 

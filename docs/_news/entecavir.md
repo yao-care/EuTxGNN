@@ -54,19 +54,19 @@ permalink: /news/entecavir/
 
 ## 相關新聞（2 則）
 
+### [Die stille Gefahr für die Leber. Elbe-Elster-Klinikum klärt zu Hepatitis auf - NIEDERLAUSITZ aktuell](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhDbld4SlMzekVOdDdGVUh6VmJUSlFXaXVlZ294Mk9Del8yUFNYV19KMFVnUXMtMjNTbWlGVGNMSFJ4NkhjNnRiYUxqYm1aNnltMlphWXJiQzNIQ1UzQWx6Rl9oWU9EcjVweUdXR0FnSW1lMFhER3pYN1VaMVIwWnpCZDdDY2dSNWFXU3NTbDI5Q190emV2OWtSdGROdm94SUlvbTJxU3dkOUZibXlhSTZ1a1FSRzlLWXhoMDZMWjZ6Q3ktWWc?oc=5)
+
+2026-07-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[NIEDERLAUSITZ aktuell](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhDbld4SlMzekVOdDdGVUh6VmJUSlFXaXVlZ294Mk9Del8yUFNYV19KMFVnUXMtMjNTbWlGVGNMSFJ4NkhjNnRiYUxqYm1aNnltMlphWXJiQzNIQ1UzQWx6Rl9oWU9EcjVweUdXR0FnSW1lMFhER3pYN1VaMVIwWnpCZDdDY2dSNWFXU3NTbDI5Q190emV2OWtSdGROdm94SUlvbTJxU3dkOUZibXlhSTZ1a1FSRzlLWXhoMDZMWjZ6Q3ktWWc?oc=5)
+
+---
+
 ### [MASH e steatosi del fegato, malattie tanto frequenti quanto sottovalutate: come si scoprono e si affrontano](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
 
 2026-07-22 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
 
 來源：[DiLei](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
-
----
-
-### [Hepatitis B: 76% der Patienten leiden unter Erektionsstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
-
-2026-07-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
 
 ---
 

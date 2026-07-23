@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（19 則）
+
+### [La RD del Congo supera la barrera de los 1.000 muertos confirmados por el brote de ébola - Onda Cero](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWdUM2VGdWZQWjFRZ3IzWVBrX2lSX3VPNG1LU1RuSlhBcDVURHF2RG5feXZRbWRTUUlXWFk1a3RfcDJ4QVEzQXZkNzFnU0NBanlkQ09sSzdrQy1rV1RYZUMybl83dy1FU01KWjNacWJwR09YbG05akExZGw3dkcxNjlkMDhCdFZmclEwTDc1RHRkeGZxcVZJN1FZSmJZY3NoblJ0c2xURGZWemdFa21pa0U1SHJuQmdCZXNCeTBBd0pHdlIwSXBOVmIxQTVGVUHSAc8BQVVfeXFMT2o5eXRZcVpELTFqeGd0RktQaDJiNFVkZi1zV2MzRVZJRmhHb3JzVUswNjh1RElzM3VQS01DNi1sOFA1U0liZ0lXSUFKaWZxd3NrajM3YUVaZ2F3U3JIeEJCNjQtajRuQnZfSEJUdjBvN0VOUWpwcDVSZ2ZzUUk2aWNIc2pzU0VpaWw2ZHpvNmlMWkNodXVDZjJHOGJ2R1Y4Yk0wQ2ZydlBVODF5bW1lYzFRUTZtckRVSUFPdUVHdzlVZWpYMTFvSVh4b1pHV0Vn?oc=5)
+
+2026-07-23 <span class="news-indication-tag">MS</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWdUM2VGdWZQWjFRZ3IzWVBrX2lSX3VPNG1LU1RuSlhBcDVURHF2RG5feXZRbWRTUUlXWFk1a3RfcDJ4QVEzQXZkNzFnU0NBanlkQ09sSzdrQy1rV1RYZUMybl83dy1FU01KWjNacWJwR09YbG05akExZGw3dkcxNjlkMDhCdFZmclEwTDc1RHRkeGZxcVZJN1FZSmJZY3NoblJ0c2xURGZWemdFa21pa0U1SHJuQmdCZXNCeTBBd0pHdlIwSXBOVmIxQTVGVUHSAc8BQVVfeXFMT2o5eXRZcVpELTFqeGd0RktQaDJiNFVkZi1zV2MzRVZJRmhHb3JzVUswNjh1RElzM3VQS01DNi1sOFA1U0liZ0lXSUFKaWZxd3NrajM3YUVaZ2F3U3JIeEJCNjQtajRuQnZfSEJUdjBvN0VOUWpwcDVSZ2ZzUUk2aWNIc2pzU0VpaWw2ZHpvNmlMWkNodXVDZjJHOGJ2R1Y4Yk0wQ2ZydlBVODF5bW1lYzFRUTZtckRVSUFPdUVHdzlVZWpYMTFvSVh4b1pHV0Vn?oc=5)
+
+---
+
+### [Die stille Gefahr für die Leber. Elbe-Elster-Klinikum klärt zu Hepatitis auf - NIEDERLAUSITZ aktuell](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhDbld4SlMzekVOdDdGVUh6VmJUSlFXaXVlZ294Mk9Del8yUFNYV19KMFVnUXMtMjNTbWlGVGNMSFJ4NkhjNnRiYUxqYm1aNnltMlphWXJiQzNIQ1UzQWx6Rl9oWU9EcjVweUdXR0FnSW1lMFhER3pYN1VaMVIwWnpCZDdDY2dSNWFXU3NTbDI5Q190emV2OWtSdGROdm94SUlvbTJxU3dkOUZibXlhSTZ1a1FSRzlLWXhoMDZMWjZ6Q3ktWWc?oc=5)
+
+2026-07-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[NIEDERLAUSITZ aktuell](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhDbld4SlMzekVOdDdGVUh6VmJUSlFXaXVlZ294Mk9Del8yUFNYV19KMFVnUXMtMjNTbWlGVGNMSFJ4NkhjNnRiYUxqYm1aNnltMlphWXJiQzNIQ1UzQWx6Rl9oWU9EcjVweUdXR0FnSW1lMFhER3pYN1VaMVIwWnpCZDdDY2dSNWFXU3NTbDI5Q190emV2OWtSdGROdm94SUlvbTJxU3dkOUZibXlhSTZ1a1FSRzlLWXhoMDZMWjZ6Q3ktWWc?oc=5)
+
+---
+
+### [Demenz-Prävention: 3.000 Schritte täglich bremsen Tau-Ablagerungen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDUtTlF3Qm5VZzFqbUg5RUozbHJPZFhWU3JmdFpmYWVYYjQxZ2FnVlVrTTI2eDRDbVpnemxfRW03NkRYZzdLeWlKSmhtUUtmTHVaZFhIWEdscWFNMGp1VktsUjNPMDV4TUVrZ25CcFNyY1F2RzJrLW9LSHpoVDJQQWd0YzJIaWFJTlJpWlpwNkl3cjZzYUFBX0ZPLW1wSFFsaHQ3a2JmSU1kSXoxeHRKSlJEM2E4Q1U?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDUtTlF3Qm5VZzFqbUg5RUozbHJPZFhWU3JmdFpmYWVYYjQxZ2FnVlVrTTI2eDRDbVpnemxfRW03NkRYZzdLeWlKSmhtUUtmTHVaZFhIWEdscWFNMGp1VktsUjNPMDV4TUVrZ25CcFNyY1F2RzJrLW9LSHpoVDJQQWd0YzJIaWFJTlJpWlpwNkl3cjZzYUFBX0ZPLW1wSFFsaHQ3a2JmSU1kSXoxeHRKSlJEM2E4Q1U?oc=5)
+
+---
 
 ### [Multiple sclerosis: First drug to help patients walk now on NHS in England](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ra2I0VzB3V1Uya3lPb0kySHVpek9BQ25OUzEzRWpPOVZaMDVVdEQ5cDJXX21fR2ZQQWp2emZUVjlrWmNkc3Z1V1Z1Y1E3Tk1DRkxBczl2aUgzQnAw?oc=5)
 
@@ -78,19 +102,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Alzheimer-Vorbeugung: Schon 3.000 Schritte täglich verlangsamen Tau-Proteine](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3FZVXJUQVdINE1KUzBTalZaMVIyUUR6NjMzM0xWRmU5TndGenE4TWJFZlQxeWtDeWU0VlRjaG8xZnFKVFhzZzhSZmJXVXd2ankyRDBVOEVKaVZwazBpbnF3RXRBMVhmTS1nV2YwVUFiU0Y3cUxJZ0VWdU1xekt2bkh1cS1RX1F3c0t6eDNpMmZiaEpsMnpYa2kwamlONm8yQlZhTkd6N2pCOWdyM0I5eFBR?oc=5)
+### [Letby baby died from birth trauma, medical expert claims - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3FZVXJUQVdINE1KUzBTalZaMVIyUUR6NjMzM0xWRmU5TndGenE4TWJFZlQxeWtDeWU0VlRjaG8xZnFKVFhzZzhSZmJXVXd2ankyRDBVOEVKaVZwazBpbnF3RXRBMVhmTS1nV2YwVUFiU0Y3cUxJZ0VWdU1xekt2bkh1cS1RX1F3c0t6eDNpMmZiaEpsMnpYa2kwamlONm8yQlZhTkd6N2pCOWdyM0I5eFBR?oc=5)
-
----
-
-### [Por qué el actual brote de ébola en el Congo es tan difícil de controlar - AP News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDZOWHU1Z1BlV1p6cjNmal84SUJyczhSSk14N2dWMWtRWVFDVEFxWnlJOWRUajJoaTZSRFNCdXpQUkRQNzZiakpfS1o0SnNnclE5RDd1dGN1N2N4LWVoaUxhbkRVOWhJckFaYm9zQlJWMWdKNHlIX25TZU9ndFhJSkk0MGlub256dG5GRms4LTg3SXRpS09feVFSNEVVamM3ZmoxQzFqZW8?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[AP News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDZOWHU1Z1BlV1p6cjNmal84SUJyczhSSk14N2dWMWtRWVFDVEFxWnlJOWRUajJoaTZSRFNCdXpQUkRQNzZiakpfS1o0SnNnclE5RDd1dGN1N2N4LWVoaUxhbkRVOWhJckFaYm9zQlJWMWdKNHlIX25TZU9ndFhJSkk0MGlub256dG5GRms4LTg3SXRpS09feVFSNEVVamM3ZmoxQzFqZW8?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
 
 ---
 
@@ -110,27 +126,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Thymulin: Neues Hormon bremst altersbedingte Entzündungen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2MzVTdKM0J3U1BLbmNlWGYxbEI3a1NRaUU3bkdFc3p6NHBpZmp4NFZvSC0ySnpXTjhCNWtTdHdwQlhTbko4cFdudWh6Mnprd29aZU90UnZDeTRjNlFKZjdsRUstYjV5Yk9JU1lJalN1WDlHR0ZVeHFpZFdCeU1vOXhtLWQwZGtybGtzR29zN21wQ29FNkdYRV9EcnRZX0QzdFdQTVVMTTI3dw?oc=5)
+### [Le bilan de l'épidémie d'Ebola en RDC et en Ouganda dépasse désormais les 1 000 morts](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTk5qdWMyYzZObDZ4empRemJtWXJQNEZzQ1FSTVowSEJyZHdrNWE0eTYyanc0OFFXaTRmMFVmRzFTX2g4dE9OSHMtejVaeUNiSkIyZXpLRnZwUlRzbzdEcElCYVp3MEowRTU3YVFZcUsyUlBvaW1aTVN4eF9Ha21PTmRnZm9wNG9sQi00aHA0UTBRTkpRRWdmSHktUlhINmdxR0ZWYXZYVURYNGFPRFBQNDZVMjVnMnZuYkFtVldLVng1dmZxT1ZkUW5kVjVlcXpLTU9nSFJsZk1ZUWVw?oc=5)
 
 2026-07-22 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2MzVTdKM0J3U1BLbmNlWGYxbEI3a1NRaUU3bkdFc3p6NHBpZmp4NFZvSC0ySnpXTjhCNWtTdHdwQlhTbko4cFdudWh6Mnprd29aZU90UnZDeTRjNlFKZjdsRUstYjV5Yk9JU1lJalN1WDlHR0ZVeHFpZFdCeU1vOXhtLWQwZGtybGtzR29zN21wQ29FNkdYRV9EcnRZX0QzdFdQTVVMTTI3dw?oc=5)
-
----
-
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHZNcDdELVVNUEhhSEwteFJyQmhfdWN6QXZmN2pRX0QwUjJSeFdvR0dhX254eXRWeVh5bEQzX1ZzeUNEOXYyM1FmeklUemh2bEdfSlpqck04NS0xN0pnbEpXLTN3bXVhOUZsVWphMWpOVTVOUEF3X3A1M3FvbTlsVmNfRVl1NUJCMXRRNWxxekdfN2JkREFEU3hVdzVtZ2syT05JWDBQaGg2amc?oc=5)
-
----
-
-### [Demenza, le cinque buone pratiche adottate (e suggerite) da una specialista della «brain longevity» che possono contribuire a prevenirla - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTk5qdWMyYzZObDZ4empRemJtWXJQNEZzQ1FSTVowSEJyZHdrNWE0eTYyanc0OFFXaTRmMFVmRzFTX2g4dE9OSHMtejVaeUNiSkIyZXpLRnZwUlRzbzdEcElCYVp3MEowRTU3YVFZcUsyUlBvaW1aTVN4eF9Ha21PTmRnZm9wNG9sQi00aHA0UTBRTkpRRWdmSHktUlhINmdxR0ZWYXZYVURYNGFPRFBQNDZVMjVnMnZuYkFtVldLVng1dmZxT1ZkUW5kVjVlcXpLTU9nSFJsZk1ZUWVw?oc=5)
 
 ---
 
@@ -142,19 +142,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Multiple Sklerose (MS): Angriff auf die Schaltzentrale - Deutscher Presseindex](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnBfWldkS3RkazlrT1p3VHlNWjRVOVdSR3hKUFNJQ2h0ZWFZNjU0bFM5S0VONzRramtDZWg5WVZiQjdQaVpaWTJDOFh5bV81QndwUUpxNEZqU3A5dXVleDFKcGRUWl93b0ZycG5LSEJhWDdjZVpDVEt1ZjQwYW5oMzVhaGIwZWMyQXRzaEUwbTVBNEhVNDhQWmF1UkRQS21o?oc=5)
+### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
-2026-07-22 <span class="news-indication-tag">MS</span>
+2026-07-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
 
-來源：[Deutscher Presseindex](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSnBfWldkS3RkazlrT1p3VHlNWjRVOVdSR3hKUFNJQ2h0ZWFZNjU0bFM5S0VONzRramtDZWg5WVZiQjdQaVpaWTJDOFh5bV81QndwUUpxNEZqU3A5dXVleDFKcGRUWl93b0ZycG5LSEJhWDdjZVpDVEt1ZjQwYW5oMzVhaGIwZWMyQXRzaEUwbTVBNEhVNDhQWmF1UkRQS21o?oc=5)
-
----
-
-### [Gehirngesundheit: 3.000 Schritte täglich bremsen Demenz-Marker](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTm1JNXJoTi1UZkJlU3dkZ0FfSi1BSDEzNnk5c05HQThERFE0OW1jemZialRHNC1CSVNudjBGTmtHemJjQ3FCRkQ2RkFHUFBoblpLeUE4MjhXR1d1TUQ3cTNSeGpZMXNITTFmWndVRW14SU1mVWVnVTE2MFQzN0FmTVpCNDNMX0hOcVhOVUJLX19fWHVtbDN1ZDF5R2RSMTB5UHVKMHQ1VnkwcnZYU3BnWA?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTm1JNXJoTi1UZkJlU3dkZ0FfSi1BSDEzNnk5c05HQThERFE0OW1jemZialRHNC1CSVNudjBGTmtHemJjQ3FCRkQ2RkFHUFBoblpLeUE4MjhXR1d1TUQ3cTNSeGpZMXNITTFmWndVRW14SU1mVWVnVTE2MFQzN0FmTVpCNDNMX0hOcVhOVUJLX19fWHVtbDN1ZDF5R2RSMTB5UHVKMHQ1VnkwcnZYU3BnWA?oc=5)
+來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 ---
 
@@ -163,6 +155,14 @@ permalink: /news/pibrentasvir/
 2026-07-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMidkFVX3lxTE1QNHl1TmItM1M4N2ZQMncycG14aWFaY3ZVQ2xncHNtQ1lRQWFrRUxLaVNtdWxJek16d3FvcjNUREJfNTF6akQ0MTFmQTRITE9kMVd1aFA5WHlFeDZsMElMdXMxeXVnR2czZzJoOTlOTzdNellVQ1E?oc=5)
+
+---
+
+### [Swimming can alleviate low back pain – new study - The Conversation](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXJPYkgwR2M4dnNrdnFzZ2hCZWNlQTJNTWhZd0ZrbVlNd2tnaDdSUEduS3NQd19rc052NkxvdDkyVDdiZ1hxLWZ1WUoyQW5nRW9LUEN0ZHkwcWVBb0l3VV90OGZlSkVxZ0luZm04dm1iMFJJMnJCLUJEaUw1dk03eXNiRDQwUWF1?oc=5)
+
+2026-07-21 <span class="news-indication-tag">MS</span>
+
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXJPYkgwR2M4dnNrdnFzZ2hCZWNlQTJNTWhZd0ZrbVlNd2tnaDdSUEduS3NQd19rc052NkxvdDkyVDdiZ1hxLWZ1WUoyQW5nRW9LUEN0ZHkwcWVBb0l3VV90OGZlSkVxZ0luZm04dm1iMFJJMnJCLUJEaUw1dk03eXNiRDQwUWF1?oc=5)
 
 ---
 
@@ -179,14 +179,6 @@ permalink: /news/pibrentasvir/
 2026-07-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjNBQkwxZEFNVXRmRkhTbnBSUWxIYWR3SjRIZDhYUXpSckRDQnpURUlGbFE3UFNfS3h0S2xkcFdtTWllaTNUYXBGSkxISHU2dDE1ZXljRzRsakRoc0V4QTJFYjd5c3FzenhuUHk2VHg4ZlpCUjh6RnJGMDVaVU1BQTN6S21XQVl0emZwLVVYeWdhNHhqSDNBMHZrV0JxNFZrOEQtcWd0cnVYeHlWMHc?oc=5)
-
----
-
-### [When it’s critical you see a doctor NOW for persistent back pain - and the exercise plan proven to fix it - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkR5U2hDQWR0SXl4YVZpZ0tGZHlwaHpOMzdHQU1BbjdqQlpxajJRSWZPUlpzMGdVX0JFXzhwT2wxem1KNC1hV214MEJhU0k1ZTR3OWg3V1JycldJd3YxX1hRVlFSRmUwWUJMcjlYTVhKNldZa3h1T2xfNEJWb3FUUVNVQmQ1T1RiS19MYWZCRXBfa2s?oc=5)
-
-2026-07-21 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkR5U2hDQWR0SXl4YVZpZ0tGZHlwaHpOMzdHQU1BbjdqQlpxajJRSWZPUlpzMGdVX0JFXzhwT2wxem1KNC1hV214MEJhU0k1ZTR3OWg3V1JycldJd3YxX1hRVlFSRmUwWUJMcjlYTVhKNldZa3h1T2xfNEJWb3FUUVNVQmQ1T1RiS19MYWZCRXBfa2s?oc=5)
 
 ---
 
@@ -211,14 +203,6 @@ permalink: /news/pibrentasvir/
 2026-07-21 <span class="news-indication-tag">MS</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5)
-
----
-
-### [Hepatitis B: 76% der Patienten leiden unter Erektionsstörungen](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
-
-2026-07-21 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQW5KYnJJVWJCYTVQbnZsbHhmbjhOdzg3UFpudThSYUpac09xWVVRQUlMaFBIaWFiQzVjdnMtOTAtUEx0T0M4ZkdRLVNmamhpUXhvcTgtcTFseDlreEs4YUZSWHF3dU9oNnViY0k1X3liSmxXWTlBTWF6d2xDLXVXZjdsTUNfV24zdEN3bHU0Vy1hSEt4YVdjTFY4cEVsU2d0NW5NTjA4RGw0aXgtVlZtUi1YQV80RjRZZ1E?oc=5)
 
 ---
 
