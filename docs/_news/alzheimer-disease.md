@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [90 % de précision : cette prise de sang pourrait repérer Alzheimer très tôt](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0Q5aWwyY1hWdHc5RmtaVTJQQkdaME9tRWl4ak9RYy11cDNmQ1dXdENrVzFVT29vLWZtSG1oQXlnYU5PUXVKMkFZV2l0MUluNGZSTk1IS3RGLUhYd2ltaHl2QUhKZlFKalNZd2liMzRZZElxWTlSNDZIVTNYaU1MVC04RnhWZlpVNGRkbjZnRFhKUTRMRjRsM0JKQQ?oc=5)
 
@@ -54,7 +54,7 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Frequent MONEY troubles 'may raise dementia risk' - the 3 groups most at risk - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+### [Frequent MONEY troubles may raise dementia risk - cash at three key ages linked to faster brain ageing - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
 
 2026-07-23
 
@@ -70,27 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Could my four cups of coffee a day kill me? - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVpWOTExZjVVWUFUTDdxbWRQRVphbnk2Q3pQcnRTaURYUHNBVXFCWlA2cGg2bEh3bHVDTDBTTHZxUjdiUXp3cFNMUks3X1RiYWgzVW9sZndiX2R5OE1Gb2NsYWpVcXIzakRMVTBpOHZqU1o0bElJc0x5Nm5EOXhvbFFJWmltYUtPOEQ4bElzZVZwVE9KaHA5cXg0QQ?oc=5)
+### [SuperAgers retain exceptional memory through mechanisms beyond genetics](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
 
 2026-07-23
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVpWOTExZjVVWUFUTDdxbWRQRVphbnk2Q3pQcnRTaURYUHNBVXFCWlA2cGg2bEh3bHVDTDBTTHZxUjdiUXp3cFNMUks3X1RiYWgzVW9sZndiX2R5OE1Gb2NsYWpVcXIzakRMVTBpOHZqU1o0bElJc0x5Nm5EOXhvbFFJWmltYUtPOEQ4bElzZVZwVE9KaHA5cXg0QQ?oc=5)
-
----
-
-### [Exceptional memory in 80s defies simple Alzheimer's genetic risk explanation - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE92RGRyblMyQUNWcUNnRktNUkpfbWZQLTdEdFJhellZcVBSdFQ1NGZhR0tqc05kdnp2RDE5TTFWV0haaVpBVWctZDRjQW5YeC1MeEc3LWhsNWtkZDZvdTEzYUNTUHo3ZUdwZzBuZ2NXeWcyd1ZCX1NSdmQydWJTeldrSDdVYVE?oc=5)
-
-2026-07-23
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE92RGRyblMyQUNWcUNnRktNUkpfbWZQLTdEdFJhellZcVBSdFQ1NGZhR0tqc05kdnp2RDE5TTFWV0haaVpBVWctZDRjQW5YeC1MeEc3LWhsNWtkZDZvdTEzYUNTUHo3ZUdwZzBuZ2NXeWcyd1ZCX1NSdmQydWJTeldrSDdVYVE?oc=5)
-
----
-
-### [Scientists discover hidden gateways that allow the brain to clear waste - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
-
-2026-07-22
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
+來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/iloprost/
 ---
 
 <p class="key-answer" data-question="Iloprost 有什麼相關新聞？">
-<strong>Iloprost</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Iloprost</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/iloprost/
 <p><a href="{{ '/drugs/iloprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2d5UnVjMGxKOWpLaWlCZ3ptUkdOb0tpaTd0ZW80cGJCU0VTam42Wnd4Z3NsYkF6LTZvNDVkNURqUnh6eUVKTmd3dk1FN0I1dmpueTQxbXpBRDB6ekg1YkFEQ1lJeVZWM1N5NEllVGt4cjFiaWxXaEtEZVByN3NOUUdHa29OWURkbGdIRnJQUWk1cUVLVzhpVHREMDhqMzRzb2haNEFleDZEdDBsZFBuYlprTmRjSlZxblE?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2d5UnVjMGxKOWpLaWlCZ3ptUkdOb0tpaTd0ZW80cGJCU0VTam42Wnd4Z3NsYkF6LTZvNDVkNURqUnh6eUVKTmd3dk1FN0I1dmpueTQxbXpBRDB6ekg1YkFEQ1lJeVZWM1N5NEllVGt4cjFiaWxXaEtEZVByN3NOUUdHa29OWURkbGdIRnJQUWk1cUVLVzhpVHREMDhqMzRzb2haNEFleDZEdDBsZFBuYlprTmRjSlZxblE?oc=5)
+
+---
+
+### [Popular childhood drinks may raise blood pressure decades later](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
 
 ---
 

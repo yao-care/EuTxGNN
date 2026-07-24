@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
-
----
-
-### [Gasherd ersetzt - weniger Asthmabeschwerden - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
-
-2026-07-24 <span class="news-indication-tag">asthma</span>
-
-來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
 
