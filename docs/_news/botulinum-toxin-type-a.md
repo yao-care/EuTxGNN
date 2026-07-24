@@ -54,9 +54,17 @@ permalink: /news/botulinum-toxin-type-a/
 
 ## 相關新聞（4 則）
 
+### [Lancet-Studie: Behandlungsqualität von COPD-Patienten steigt nach Klinikaufenthalt auf rund 80 Prozent - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
+
+2026-07-23 <span class="news-indication-tag">copd</span>
+
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
+
+---
+
 ### [Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
-2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
@@ -75,14 +83,6 @@ permalink: /news/botulinum-toxin-type-a/
 2026-07-22 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmt6em4zZ3lvYnVlV0ZQUFdqMWRBYVREajYwRVZXVklibGRRMV9xS1QyZUhLeEdnWE4wWVVjeUxQQ3JnRndIT3BNdl9lcjBWSmtCbkM0czZXRmd4d2x4ZWZnNWdUSjhDOTVGa2Nrd0VtT2xnd0ZHeFdicXBRcGo3SmdGUy1Yc0t0TW5yU1VfekgxWl9ySGV5XzQ2RXNYa2c3c3JpQkktQlA0ZlQxZkoyb1VMR2FsLWZIS3hWTkp3WlZCNFRxTEdrRkV1N1BiLUlDejIyZm95Yk5JQlhzODdDT0hBc2hRbHRMUkE?oc=5)
-
----
-
-### [Ernährung bei COPD: 6 Dinge, auf die es ankommt - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Schwäbische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hCWGR0WjIwbXhLdGY1Z014aFlHQ0dmSlY2R09wd1M0MURoVFplSnRNcGRpOVFIb1lEdm02c0xaQVQyallRS1hmWmhyVzlqcThkaFNhalctc2tiSVdUOHpycnpiZDE1cDktb29aandnaU9MejlzTWloWHV4RGRRZDN3b2tTLUMyRHg2YnNhOWxSNXE5OFdYWHZOVjQxV1JrRHJTWU55bEkteEYtd09DLVVR?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/golimumab/
 
 ## 相關新聞（4 則）
 
-### [IBD-Früherkennung: Antikörper verraten Crohn bis 10 Jahre vorher](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXJ3Q0F4a1VuZVRaX3ljMncxSW1PZTZXNFZ3MXo5RmZBQ2ZJNjNUVVhUd0d0eHg3Y29yUVVYSXdsMnZNbHVTZ1gxaURWZDBscnZsSUk4NFl6ekpKSHJZV3dld1JKSzdEcmpyaWZRRWhQckdhTjdYS2JRZW43OGFMbzd0alZCbmtzbE8ybjVQNUxhZ0pnOFAtdmNGdTZsQW9lOURNRXJwR3Z0SDE3b3kxeGdPLXM?oc=5)
+### [Darmerkrankungen: Antikörper verraten Morbus Crohn zehn Jahre früh](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
 
-2026-07-23 <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXJ3Q0F4a1VuZVRaX3ljMncxSW1PZTZXNFZ3MXo5RmZBQ2ZJNjNUVVhUd0d0eHg3Y29yUVVYSXdsMnZNbHVTZ1gxaURWZDBscnZsSUk4NFl6ekpKSHJZV3dld1JKSzdEcmpyaWZRRWhQckdhTjdYS2JRZW43OGFMbzd0alZCbmtzbE8ybjVQNUxhZ0pnOFAtdmNGdTZsQW9lOURNRXJwR3Z0SDE3b3kxeGdPLXM?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
 
 ---
 

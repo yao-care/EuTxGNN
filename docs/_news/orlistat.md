@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Jeder 10. Baden-Badener adipös – „Tickende Zeitbombe für die Gesundheit“ - goodnews4® Baden](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS0xYW40SFJUOFVUcGtxb0pMMExQZThBa2ZBNEFuendlTTM5RzdXLUQyNmRqSjUySnYtRVVLRFRQQlJHdzlDMGRMYlV1OTZrekVzZDZ4ZURlYmFUMFR1THZiaXY5ai0zX2VkbS1DNm03c2VwWlBMdEZ6VDQ4bzVRZkUxTVRENDd0QWdzREUzekEwR29lSDdsSjI0UTFzMUtyNXpTVENVVF9MS2M4Z01TRXFucFZKUV9JOFhuTXYzcw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">Adipositas</span>
+
+來源：[goodnews4® Baden-Baden](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS0xYW40SFJUOFVUcGtxb0pMMExQZThBa2ZBNEFuendlTTM5RzdXLUQyNmRqSjUySnYtRVVLRFRQQlJHdzlDMGRMYlV1OTZrekVzZDZ4ZURlYmFUMFR1THZiaXY5ai0zX2VkbS1DNm03c2VwWlBMdEZ6VDQ4bzVRZkUxTVRENDd0QWdzREUzekEwR29lSDdsSjI0UTFzMUtyNXpTVENVVF9MS2M4Z01TRXFucFZKUV9JOFhuTXYzcw?oc=5)
+
+---
 
 ### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
 
 2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
+
+---
+
+### [Revisar la tensión y pedir una analítica al año: gestos sencillos de autocuidado que pueden evitar complicaciones como ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+
+2026-07-23 <span class="news-indication-tag">ictus</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
 
 ---
 
@@ -78,35 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
+### [Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
 2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
-
----
-
-### [Giornata mondiale della Neurologia, a Borgo Trento la stroke unit che tratta 500 pazienti l'anno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUXZ2Ym84NWtjeUxzeFFwd0VCbXZXNmdyZ1VPV0JGVHJwVzZSZ2NfMGtXelJRejVEM1NZOEhrS01FSlhrRF9yRFdMOXhHc1lOVmFzUWVlYllxQWZ3NGlKUFQ3ZlZLYXN0M0JmQjg4VzZrOEhmaDFIS29ld3U2S2lmZjR4Uk0yZjYzb2FfWmFaM0lnekFmR1cwUGNYdzlMdXVOTDV6c08xcnJZMTlIbmwyLUpjX3VXY2NCZlhxY25WX3hqdXRINUhoNWlJN1dzZlp5dEExUzVKM2c2R1Z6V0hlTWQ2Zk9ZUEhvZnpwddIB8gFBVV95cUxPbE5XbGxoU0FwQWMxTnZ6THhhTlp2ODM0SUZIU2N6dk9McTZQYnFKTHo5RFRLbkhLT1FFNm40TVo2Q0x2RHFralFyRS1iWkVYYjhvcWVmdERRS3hFR2lmT1R2MEJwRUJNSlpfbFFfNmxLdFJmV091WTJpcnF4NjNkdW85YmJDMFY1MnFCTW5sNldDSTJpSmQ5V2ZnY1MyR2NtLS1fanR6T0hBbXp5WDU0aXZGX1lTYlFtMjhDQVpQWnNUbUtYaVlGdzdONnVpcHdHLTc1YXZ3Z3oydHQwVmpZaDBJVk5KcUNuM20wY0NxX2Jxdw?oc=5)
-
-2026-07-22 <span class="news-indication-tag">stroke</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUXZ2Ym84NWtjeUxzeFFwd0VCbXZXNmdyZ1VPV0JGVHJwVzZSZ2NfMGtXelJRejVEM1NZOEhrS01FSlhrRF9yRFdMOXhHc1lOVmFzUWVlYllxQWZ3NGlKUFQ3ZlZLYXN0M0JmQjg4VzZrOEhmaDFIS29ld3U2S2lmZjR4Uk0yZjYzb2FfWmFaM0lnekFmR1cwUGNYdzlMdXVOTDV6c08xcnJZMTlIbmwyLUpjX3VXY2NCZlhxY25WX3hqdXRINUhoNWlJN1dzZlp5dEExUzVKM2c2R1Z6V0hlTWQ2Zk9ZUEhvZnpwddIB8gFBVV95cUxPbE5XbGxoU0FwQWMxTnZ6THhhTlp2ODM0SUZIU2N6dk9McTZQYnFKTHo5RFRLbkhLT1FFNm40TVo2Q0x2RHFralFyRS1iWkVYYjhvcWVmdERRS3hFR2lmT1R2MEJwRUJNSlpfbFFfNmxLdFJmV091WTJpcnF4NjNkdW85YmJDMFY1MnFCTW5sNldDSTJpSmQ5V2ZnY1MyR2NtLS1fanR6T0hBbXp5WDU0aXZGX1lTYlFtMjhDQVpQWnNUbUtYaVlGdzdONnVpcHdHLTc1YXZ3Z3oydHQwVmpZaDBJVk5KcUNuM20wY0NxX2Jxdw?oc=5)
-
----
-
-### [Aneurismi, ictus e infarti precoci: un gene regista della malattia può essere riparato](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
-
-2026-07-22 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWTFjTUVyanZXSC0tX3ZGb0lmNTlMOGlBS25MZ0ktcFl1cVgwUFV1OXBENWRFbHZLWXh6cFhVbW1CbGs0WkJpQjB1VWN0enlkTXJLYmhWVlhoYVpvempkSWZhVmp2NFRrUEhYWTlfNnVFZlU5dm5EUXIxZElZd0dUOFNtdU4wWUVvaFFKN0t3RE1GSTh1RnZoN3pfbjlWU20xYWttcERudU43bWdHbnpHemtJdklvY0xYelc4R051bnJkdDNxWEptaGpFU1d6cEc1RG9RSUZfZ292UXR3?oc=5)
-
----
-
-### [More young women in their 20s are getting type 2 diabetes](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
-
-2026-07-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUEpLOEZ1YTBRa2Y0b3ZCcDV3bzhvUWloWlFnaVotMUF5TFU5dWRVR0l0cXRoT3hoSHl0dDBvZThsenZXcjAzaWlFVmhPa0ZxbFdCajd6M01QRmZu?oc=5)
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
 ---
 

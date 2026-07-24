@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Not checking one body part 'regularly' increases risk of dementia by 500 per cent - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
+
+2026-07-23
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
+
+---
+
+### [Exceptional memory in 80s defies simple Alzheimer's genetic risk explanation - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE92RGRyblMyQUNWcUNnRktNUkpfbWZQLTdEdFJhellZcVBSdFQ1NGZhR0tqc05kdnp2RDE5TTFWV0haaVpBVWctZDRjQW5YeC1MeEc3LWhsNWtkZDZvdTEzYUNTUHo3ZUdwZzBuZ2NXeWcyd1ZCX1NSdmQydWJTeldrSDdVYVE?oc=5)
+
+2026-07-23
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE92RGRyblMyQUNWcUNnRktNUkpfbWZQLTdEdFJhellZcVBSdFQ1NGZhR0tqc05kdnp2RDE5TTFWV0haaVpBVWctZDRjQW5YeC1MeEc3LWhsNWtkZDZvdTEzYUNTUHo3ZUdwZzBuZ2NXeWcyd1ZCX1NSdmQydWJTeldrSDdVYVE?oc=5)
+
+---
 
 ### [Scientists discover hidden gateways that allow the brain to clear waste - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnY1TFE0NVBseG9Cc29RbVNEOFlfUjJVeVJQTzdfcURyLThSNUktWnA0MzhuMnpvV2xiNlF5cVRLeWZnU1lPaEE0MGhDemJkZ0hSXzR6aldwdlJvVFFJR1B3T0NsY0NLQU9Bc0VKc0I4SjRvS1d0RWFpUWxjTDRwYmxR?oc=5)
 
