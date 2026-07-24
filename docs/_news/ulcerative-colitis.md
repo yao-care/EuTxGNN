@@ -34,11 +34,11 @@ permalink: /news/ulcerative-colitis/
 
 ## 相關新聞（1 則）
 
-### [Darmerkrankungen: Antikörper verraten Morbus Crohn zehn Jahre früh](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
+### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
 
-2026-07-23
+2026-07-24
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
 
 ---
 

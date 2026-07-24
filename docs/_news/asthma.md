@@ -3,7 +3,7 @@ layout: default
 title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Gasherd ersetzt - weniger Asthmabeschwerden - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
+
+2026-07-24
+
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
+
+---
 
 ### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
 

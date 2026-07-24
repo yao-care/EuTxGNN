@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Falsche Diagnose, echte Angst: Was Migräne mit Aura langfristig mit dem Körper macht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
 
-2026-07-22 <span class="news-indication-tag">Migräne</span>
+2026-07-24 <span class="news-indication-tag">migraña</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+
+---
+
+### [The everyday health hacks cardiologists and medical experts use to reduce their risk of heart disease - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
 
 ---
 

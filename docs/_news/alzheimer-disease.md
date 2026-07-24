@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [90 % de précision : cette prise de sang pourrait repérer Alzheimer très tôt](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0Q5aWwyY1hWdHc5RmtaVTJQQkdaME9tRWl4ak9RYy11cDNmQ1dXdENrVzFVT29vLWZtSG1oQXlnYU5PUXVKMkFZV2l0MUluNGZSTk1IS3RGLUhYd2ltaHl2QUhKZlFKalNZd2liMzRZZElxWTlSNDZIVTNYaU1MVC04RnhWZlpVNGRkbjZnRFhKUTRMRjRsM0JKQQ?oc=5)
+
+2026-07-24
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0Q5aWwyY1hWdHc5RmtaVTJQQkdaME9tRWl4ak9RYy11cDNmQ1dXdENrVzFVT29vLWZtSG1oQXlnYU5PUXVKMkFZV2l0MUluNGZSTk1IS3RGLUhYd2ltaHl2QUhKZlFKalNZd2liMzRZZElxWTlSNDZIVTNYaU1MVC04RnhWZlpVNGRkbjZnRFhKUTRMRjRsM0JKQQ?oc=5)
+
+---
+
+### [Frequent MONEY troubles 'may raise dementia risk' - the 3 groups most at risk - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+
+2026-07-23
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+
+---
 
 ### [Not checking one body part 'regularly' increases risk of dementia by 500 per cent - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
 

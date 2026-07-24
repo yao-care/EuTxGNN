@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Sartane bei Bluthochdruck: Therapieabbruch sinkt laut JAMA-Metaanalyse deutlich - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
+### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
 
-2026-07-23 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
-
----
-
-### [Popular childhood drinks may raise blood pressure decades later](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
 
 ---
 
-### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+### [The everyday health hacks cardiologists and medical experts use to reduce their risk of heart disease - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
 
-2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+2026-07-24 <span class="news-indication-tag">heart disease</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/dacomitinib-monohydrate/
 2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
----
-
-### [Selon les scientifiques, boire deux sodas par jour dès l'enfance laisse une trace mesurable sur les artères 25 ans plus tard](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXAtZDBlZmlfYjJ5ang5clEyeEllX08wRmZiXzlQQnJUSjhZZ1J0aE1ReTdmZVdWNGdkWHo1aWdaODRIVnpnLWpoLXFEYXYzQW1GdWdGM3pkTHdvMWlYWHBhMHE5N2VVZ1M3S1dWRVZRcVZ2VmtTcDI3TDNSbU8xeVA3VUt3SmxJbGpReXVXTVB2T1poT0lDVFZwUkJBbU1WMU9zU18tdXNWSi11VDB6NkNuc2Fib19yeGxIVEpWSFFKYVhWR1BMZWIwLXQ1bUhDdUo3eFpOWTNVRkd5eEhxWA?oc=5)
-
-2026-07-22 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXAtZDBlZmlfYjJ5ang5clEyeEllX08wRmZiXzlQQnJUSjhZZ1J0aE1ReTdmZVdWNGdkWHo1aWdaODRIVnpnLWpoLXFEYXYzQW1GdWdGM3pkTHdvMWlYWHBhMHE5N2VVZ1M3S1dWRVZRcVZ2VmtTcDI3TDNSbU8xeVA3VUt3SmxJbGpReXVXTVB2T1poT0lDVFZwUkJBbU1WMU9zU18tdXNWSi11VDB6NkNuc2Fib19yeGxIVEpWSFFKYVhWR1BMZWIwLXQ1bUhDdUo3eFpOWTNVRkd5eEhxWA?oc=5)
 
 ---
 

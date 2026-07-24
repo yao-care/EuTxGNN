@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [90 % de précision : cette prise de sang pourrait repérer Alzheimer très tôt](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0Q5aWwyY1hWdHc5RmtaVTJQQkdaME9tRWl4ak9RYy11cDNmQ1dXdENrVzFVT29vLWZtSG1oQXlnYU5PUXVKMkFZV2l0MUluNGZSTk1IS3RGLUhYd2ltaHl2QUhKZlFKalNZd2liMzRZZElxWTlSNDZIVTNYaU1MVC04RnhWZlpVNGRkbjZnRFhKUTRMRjRsM0JKQQ?oc=5)
+
+2026-07-24 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0Q5aWwyY1hWdHc5RmtaVTJQQkdaME9tRWl4ak9RYy11cDNmQ1dXdENrVzFVT29vLWZtSG1oQXlnYU5PUXVKMkFZV2l0MUluNGZSTk1IS3RGLUhYd2ltaHl2QUhKZlFKalNZd2liMzRZZElxWTlSNDZIVTNYaU1MVC04RnhWZlpVNGRkbjZnRFhKUTRMRjRsM0JKQQ?oc=5)
+
+---
+
+### [Frequent MONEY troubles 'may raise dementia risk' - the 3 groups most at risk - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+
+2026-07-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+
+---
 
 ### [Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 

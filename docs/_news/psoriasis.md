@@ -49,11 +49,11 @@ permalink: /news/psoriasis/
 
 ---
 
-### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+### [Actualidad para la innovación farmacéutica](https://news.google.com/rss/articles/CBMif0FVX3lxTE1vVXJuY29iVnpCdTVxNllzakdTLTY2cFJYcXRtREkzWHBBcUNEcThONFFtVmlodkloeExLMGtmUXQxazdqM21ab1FvaGhXYkY4d0k5TURvaFBMMEwxNV9Jb2JVbmdLWWpaNlBxTnR0dTRVWVpiczhrel90UlVfdVU?oc=5)
 
 2026-07-23
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMif0FVX3lxTE1vVXJuY29iVnpCdTVxNllzakdTLTY2cFJYcXRtREkzWHBBcUNEcThONFFtVmlodkloeExLMGtmUXQxazdqM21ab1FvaGhXYkY4d0k5TURvaFBMMEwxNV9Jb2JVbmdLWWpaNlBxTnR0dTRVWVpiczhrel90UlVfdVU?oc=5)
 
 ---
 

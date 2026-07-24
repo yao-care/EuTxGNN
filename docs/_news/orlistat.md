@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Wirbelsäulenmanipulation: Ärzte warnen vor Schlaganfallrisiko](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
+
+---
+
+### [Ictus, togliere il coagulo non basta: quando la trombectomia può fare più male che bene](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
+
+2026-07-24 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
+
+---
+
+### [Nach dem Schlaganfall plötzlich Epilepsie – 16 Jahre kämpfte Renate (65) um ihre Selbstständigkeit](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Epilepsie</span>
+
+來源：[like-online.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
+
+---
 
 ### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
 
@@ -62,11 +86,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+### [Farmaci anti-obesità, l'incredibile legame con la caduta dei capelli: cosa dicono gli scienziati - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
 
-2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
+
+---
+
+### [Obesità, il muscolo cambia prima della bilancia: la conferma da uno studio internazionale - Corriere Salentino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhvRVZwdGVfbDh3YXpqTjY0YTJuU2lRMkRyY0hFOFF2b0gtSEJmMjJnSU1oczBCYlJ6YmxuWWF5WnZTdndPWXA5Sk5rZjVYWTdFS0V3aFlEeXI1cG5xRjF2eUIybjhmY0JBbW5JTjJ0ZTd0SF9oUVg1NmtyYjNfbnd6VGxiRl9EaEFLdUNRbk5UQzAwUnNRV2dOOFR3S0pMcGtNZXFURlktSlhmc0RBM1BlUHZlR1hudVd2bTRKUEFFYzVkamxGTw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">obesità</span>
+
+來源：[Corriere Salentino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhvRVZwdGVfbDh3YXpqTjY0YTJuU2lRMkRyY0hFOFF2b0gtSEJmMjJnSU1oczBCYlJ6YmxuWWF5WnZTdndPWXA5Sk5rZjVYWTdFS0V3aFlEeXI1cG5xRjF2eUIybjhmY0JBbW5JTjJ0ZTd0SF9oUVg1NmtyYjNfbnd6VGxiRl9EaEFLdUNRbk5UQzAwUnNRV2dOOFR3S0pMcGtNZXFURlktSlhmc0RBM1BlUHZlR1hudVd2bTRKUEFFYzVkamxGTw?oc=5)
 
 ---
 
@@ -75,14 +107,6 @@ permalink: /news/orlistat/
 2026-07-23 <span class="news-indication-tag">AVC</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
-
----
-
-### [Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
 ---
 

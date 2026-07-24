@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li>heart disease（98.0%）</li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -54,11 +54,11 @@ permalink: /news/icosapent-ethyl/
 
 ## 相關新聞（2 則）
 
-### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+### [The everyday health hacks cardiologists and medical experts use to reduce their risk of heart disease - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
 
-2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
+2026-07-24 <span class="news-indication-tag">heart disease</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
 
 ---
 

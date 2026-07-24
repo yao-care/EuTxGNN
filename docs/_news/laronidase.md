@@ -14,7 +14,7 @@ permalink: /news/laronidase/
 ---
 
 <p class="key-answer" data-question="Laronidase 有什麼相關新聞？">
-<strong>Laronidase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Laronidase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/laronidase/
 <p><a href="{{ '/drugs/laronidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [The everyday health hacks cardiologists and medical experts use to reduce their risk of heart disease - The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">heart disease</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZPbHc1S1NEelhWb0loNGNnblZ1c0JUbmtGRXZHRHBza18yUDA3a0NNNHYyaGp5ZGEwUjgwVEJkYVhQaGxMaEMta0ZGOWRDaUk5em9INVF6TG53a0x5TDhQcFlGOVFwbEZvM2Z6QWhvU2VKLVVFajZfWmlkMzR1UW1xQ09nZndWY0l0SzdQQzVFS2E1azNuQ2l6bUFpZU10dmZlS3JpamV4WlY4S2NyMDRGc1pMZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（17 則）
 
-### [Entzündungen: Forscher klären Immunbremsen-Fehler bei COVID-19](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDEwNjA1S0g2LVlvMkIxLXBNRTd6eG9XYTF1MWcwbnRQd0F5Y0tjNnhjd1FYUFVHX0RtMTE0RjdFa2dETnI5LWVMQmhQMUJNWVlNV1BIZzNwLXJ3V2pBRFFNQzFDUzRYUUY2UHVtb1VpcHFFdXIwNllMUHY0UEswQXhzQkpYZUJXTHRWYWpvb1YzSnQ3aFNxMU9uZ0FYR0tISk4zdXQzR0VPMU53UnBMeUlR?oc=5)
+### [West Nile, dall'Oms Europa le misure per ridurre i rischi delle punture di zanzare](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
+
+---
+
+### [Travel warning to Brits after cases of deadly virus that kills 40% of victims found in Spanish holiday hotspot - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDEwNjA1S0g2LVlvMkIxLXBNRTd6eG9XYTF1MWcwbnRQd0F5Y0tjNnhjd1FYUFVHX0RtMTE0RjdFa2dETnI5LWVMQmhQMUJNWVlNV1BIZzNwLXJ3V2pBRFFNQzFDUzRYUUY2UHVtb1VpcHFFdXIwNllMUHY0UEswQXhzQkpYZUJXTHRWYWpvb1YzSnQ3aFNxMU9uZ0FYR0tISk4zdXQzR0VPMU53UnBMeUlR?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
+
+---
+
+### [Lipödem: Ketogene Ernährung bremst Entzündungen und Schmerzen messbar - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
+
+---
+
+### [I begged docs to take my 'tummy bug' symptoms seriously - now I'm facing a death sentence at 40 - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NJZFUxaDdwcm4xWlFYTUtBeDBrMVpXMGZmZGxOYU12amstUktPOUYzWEluVEM1ajBVdWZJcVZmd3VXZFFWanl4aFdUcGZQQUJ0SV9YLU0zSVZKYm1qNjlLZ3Z4NjVIeU8wN2tQYUFlUjE2STAzd1ZCSTY0c3RHdkFmemIxakw0ZG5vZFpVNm8wUDFsMFE?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NJZFUxaDdwcm4xWlFYTUtBeDBrMVpXMGZmZGxOYU12amstUktPOUYzWEluVEM1ajBVdWZJcVZmd3VXZFFWanl4aFdUcGZQQUJ0SV9YLU0zSVZKYm1qNjlLZ3Z4NjVIeU8wN2tQYUFlUjE2STAzd1ZCSTY0c3RHdkFmemIxakw0ZG5vZFpVNm8wUDFsMFE?oc=5)
+
+---
+
+### [Autoantikörper bremsen Entzündungshemmung – neue KI-Ansätze gegen Hyperinflammation - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0Fhdm1kdzkyaGdRNVZJUFRxT1N6ZWZNOFFSejhRV2JNdGRoRndLaGd5aUJybkgyWmhFcnNLMmoySm5CcU4zY1N5NnRCNHpRZGFBbHVBS202OEp6VW9Ram5KMEN1MmxSNnIyZTNZejI0a3NRUHEwZFJVMmprZS1yYXVEZENVNDJ0R1otZEE2TXJEdHlWbGdjczZBZTJyUUE5LXRKRUxWVmY3bm9fU2lJWWQ4OFUzbXM?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0Fhdm1kdzkyaGdRNVZJUFRxT1N6ZWZNOFFSejhRV2JNdGRoRndLaGd5aUJybkgyWmhFcnNLMmoySm5CcU4zY1N5NnRCNHpRZGFBbHVBS202OEp6VW9Ram5KMEN1MmxSNnIyZTNZejI0a3NRUHEwZFJVMmprZS1yYXVEZENVNDJ0R1otZEE2TXJEdHlWbGdjczZBZTJyUUE5LXRKRUxWVmY3bm9fU2lJWWQ4OFUzbXM?oc=5)
+
+---
+
+### [Tagestipp | 24.07.2026 - Wenn die Blasenentzündung immer wiederkommt - Antenne Brandenburg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJVQjE0c0tNMS0yQjU2NVQwSDV3YXd6cW1vTVUxclVnaFdtOXladE5aaU1xWEI2cTRZM09KNWcwREVmVVdRNjBTZTZPUFh2REhiTXFqZXNqY3ZtZEhjTm1HQU1QeFh4MGw2RDl1ZTBUOWt2YXgyU2lhcUV2TE4ya2FFLW1IN1lZbk9IM2FRdG92ZTJGR2tDcHRKSV9TczlOWkNkTVdGUWFsenRDakd5X1poZw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[Antenne Brandenburg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJVQjE0c0tNMS0yQjU2NVQwSDV3YXd6cW1vTVUxclVnaFdtOXladE5aaU1xWEI2cTRZM09KNWcwREVmVVdRNjBTZTZPUFh2REhiTXFqZXNqY3ZtZEhjTm1HQU1QeFh4MGw2RDl1ZTBUOWt2YXgyU2lhcUV2TE4ya2FFLW1IN1lZbk9IM2FRdG92ZTJGR2tDcHRKSV9TczlOWkNkTVdGUWFsenRDakd5X1poZw?oc=5)
 
 ---
 
@@ -72,9 +112,17 @@ permalink: /news/cariprazine-hydrochloride/
 
 ### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+---
+
+### [Frequent MONEY troubles 'may raise dementia risk' - the 3 groups most at risk - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+
+2026-07-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
 
 ---
 
@@ -90,15 +138,15 @@ permalink: /news/cariprazine-hydrochloride/
 
 2026-07-23 <span class="news-indication-tag">MS</span>
 
-來源：[Artsy](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBRUkxscGROUGlLeEhFMHltNDV4azA0Mko1VFZfeTl4Mm9aQXRpOW0weVViY1FhN2lqd1JQZlNjRUhoZTlud0RmNHJkZlJIdEJUQ0JEMEtyRGdCM0FrU1pIanQ1bFl6aDdlV1VwTHY4TkNMbDVsb29ZdVB5bDRlZw?oc=5)
+來源：[artsy.net](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBRUkxscGROUGlLeEhFMHltNDV4azA0Mko1VFZfeTl4Mm9aQXRpOW0weVViY1FhN2lqd1JQZlNjRUhoZTlud0RmNHJkZlJIdEJUQ0JEMEtyRGdCM0FrU1pIanQ1bFl6aDdlV1VwTHY4TkNMbDVsb29ZdVB5bDRlZw?oc=5)
 
 ---
 
-### [Mutter der Braut bricht auf der Hochzeit zusammen – Ärzte finden seltenes „Happy-Heart-Syndrom“ - Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnliU3VLMExpY2xEOTU2WktGQnVSbFA0UzlkZkpyLW93Q1NWR29oemZrcF9RUUZhZV9vM2dEOXRCRGxpOGtkQ2NnRzJsTDBwWUZxdEhTeTllR0xacjVHRGcxZU10NW5zdW1HOGkyOXIzNHdiakIxanE0Y3J2QnNwTkdHRWJENHh6YmRKQTB2U1R0ZmU5X1QyWnhfdk5XZHBodG1RcXBTYWtiVlE?oc=5)
+### [L’OMS blanchit le smartphone : la science n’a trouvé aucun lien avec le cancer du cerveau](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTRXMHYxSjZQWlNnSWx3blRBV294YTdVcEwwWFZVRV8tSWFGNy1NNFdTTDBoZWQ4V1hiRFJ2RG1QMVFyUjVkenlubVdTSmlZT01LSG0tdVNKYmhCb0RGVzlDZzNORzY2TG52R01ZZmJsMklfdEZFX3E3bGNRbjZpZTI1Sy12RGtKQXJNUHE4RFpKa0Y0bWc?oc=5)
 
-2026-07-23 <span class="news-indication-tag">MS</span>
+2026-07-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnliU3VLMExpY2xEOTU2WktGQnVSbFA0UzlkZkpyLW93Q1NWR29oemZrcF9RUUZhZV9vM2dEOXRCRGxpOGtkQ2NnRzJsTDBwWUZxdEhTeTllR0xacjVHRGcxZU10NW5zdW1HOGkyOXIzNHdiakIxanE0Y3J2QnNwTkdHRWJENHh6YmRKQTB2U1R0ZmU5X1QyWnhfdk5XZHBodG1RcXBTYWtiVlE?oc=5)
+來源：[01net.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTRXMHYxSjZQWlNnSWx3blRBV294YTdVcEwwWFZVRV8tSWFGNy1NNFdTTDBoZWQ4V1hiRFJ2RG1QMVFyUjVkenlubVdTSmlZT01LSG0tdVNKYmhCb0RGVzlDZzNORzY2TG52R01ZZmJsMklfdEZFX3E3bGNRbjZpZTI1Sy12RGtKQXJNUHE4RFpKa0Y0bWc?oc=5)
 
 ---
 
@@ -107,6 +155,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-07-23 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzNWdGYtSGRZb3JUWXlIWkRaU09IRGduRkg4TC1DTEdBWTczQ3hRb3Y0dXNHSlkzek5RYlVReEJBd0o5X29EdjBYZnBKRkx4eGFxSjdZXzNSMmhHVTNVNk9vaGt3WEdHUUFXeTVrYTZzNm9od19MVkdCMkRIenBTQ3owdUhONWFxeWJhdUV1SGhJaVdjdUJoU0JJZ1Y?oc=5)
+
+---
+
+### [Potenzmittel könnte Krebs bremsen – Forschende finden neuen Ansatz, wie Sildenafil Metastasen hemmt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
 
 ---
 
@@ -126,35 +182,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Giuseppe Fatati: «La longevità si costruisce un’estate alla volta. Il miglior risultato delle vacanze? Tornare a casa con un'abitudine nuova». Eccone 10 da mettere nella valigia del rientro (senza aspettare settembre) - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
-
-2026-07-23 <span class="news-indication-tag">MS</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
-
----
-
 ### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
 
 2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
----
-
-### [Letby baby died from birth trauma, medical expert claims - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
-
----
-
-### [Demenza, le cinque buone pratiche adottate (e suggerite) da una specialista della «brain longevity» che possono contribuire a prevenirla - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
 
 ---
 

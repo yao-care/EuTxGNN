@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Lancet-Studie: Behandlungsqualität von COPD-Patienten steigt nach Klinikaufenthalt auf rund 80 Prozent - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
-
-2026-07-23 <span class="news-indication-tag">copd</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
 2026-07-23 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
-
----
-
-### [Microbiote intestinal : et si dans un futur proche, il était possible de rajeunir le cerveau à l'aide de matières fécales ?](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOam1MOVZpVWFsaGxoTFBhbHpxY042dlRsa1lfX0xuRFlMOFRUQVYwU1JLYjJ6Z2pLX1ZhdVA4Y3JsVjR2d25SRWNEUUFtSU4xWVpHaC1saEt1ZmRjWkh6MnRySnZ2NEc0X3d1Mm0xS284ZEJPUjZGS0p0R2V6Y3JBZWRWdUtMd1pIUGVBbENsUVYyWHhvcWVDU21ucGMyS05IOHBIR1NqUW0zREhGOW1Jenc4NkJ3Wm1WZnJ3NElFb1huOTJJdVNsbWpfQUY1U2ZRZ2RoLWJSV3A?oc=5)
-
-2026-07-23 <span class="news-indication-tag">EPOC</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOam1MOVZpVWFsaGxoTFBhbHpxY042dlRsa1lfX0xuRFlMOFRUQVYwU1JLYjJ6Z2pLX1ZhdVA4Y3JsVjR2d25SRWNEUUFtSU4xWVpHaC1saEt1ZmRjWkh6MnRySnZ2NEc0X3d1Mm0xS284ZEJPUjZGS0p0R2V6Y3JBZWRWdUtMd1pIUGVBbENsUVYyWHhvcWVDU21ucGMyS05IOHBIR1NqUW0zREhGOW1Jenc4NkJ3Wm1WZnJ3NElFb1huOTJJdVNsbWpfQUY1U2ZRZ2RoLWJSV3A?oc=5)
 
 ---
 

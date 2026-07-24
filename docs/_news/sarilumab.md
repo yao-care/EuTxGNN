@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [Darmerkrankungen: Antikörper verraten Morbus Crohn zehn Jahre früh](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
+### [Gasherd ersetzt - weniger Asthmabeschwerden - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
 
-2026-07-23 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">asthma</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
+
+---
+
+### [Lipödem: Ketogene Ernährung bremst Entzündungen und Schmerzen messbar - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
+
+---
+
+### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
 
 ---
 
@@ -70,43 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Lancet-Studie: Behandlungsqualität von COPD-Patienten steigt nach Klinikaufenthalt auf rund 80 Prozent - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
-
-2026-07-23 <span class="news-indication-tag">copd</span>
-
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
-
----
-
-### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
-
----
-
-### [Microbiote intestinal : et si dans un futur proche, il était possible de rajeunir le cerveau à l'aide de matières fécales ?](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOam1MOVZpVWFsaGxoTFBhbHpxY042dlRsa1lfX0xuRFlMOFRUQVYwU1JLYjJ6Z2pLX1ZhdVA4Y3JsVjR2d25SRWNEUUFtSU4xWVpHaC1saEt1ZmRjWkh6MnRySnZ2NEc0X3d1Mm0xS284ZEJPUjZGS0p0R2V6Y3JBZWRWdUtMd1pIUGVBbENsUVYyWHhvcWVDU21ucGMyS05IOHBIR1NqUW0zREhGOW1Jenc4NkJ3Wm1WZnJ3NElFb1huOTJJdVNsbWpfQUY1U2ZRZ2RoLWJSV3A?oc=5)
-
-2026-07-23 <span class="news-indication-tag">EPOC</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOam1MOVZpVWFsaGxoTFBhbHpxY042dlRsa1lfX0xuRFlMOFRUQVYwU1JLYjJ6Z2pLX1ZhdVA4Y3JsVjR2d25SRWNEUUFtSU4xWVpHaC1saEt1ZmRjWkh6MnRySnZ2NEc0X3d1Mm0xS284ZEJPUjZGS0p0R2V6Y3JBZWRWdUtMd1pIUGVBbENsUVYyWHhvcWVDU21ucGMyS05IOHBIR1NqUW0zREhGOW1Jenc4NkJ3Wm1WZnJ3NElFb1huOTJJdVNsbWpfQUY1U2ZRZ2RoLWJSV3A?oc=5)
-
----
-
 ### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 2026-07-23 <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
----
-
-### [Ketogene Ernährung: Neue Studien belegen Erfolge bei chronischen Entzündungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmZMcXN0Z1czSjZuTkpOeFpXOVJhNkl1N2thTThFeFFYVS1VRk1vZTg5WEdTSVZ3YzBSZE9iNHRVcC1vYzQ1VzF0RklQMGdDZnhkMlM5a1pDWVdLTHJ4RnVKVkdsakIxbVZ4UFdsZ2sxcXpFQnFRSllUX0otdVhVNzdYUFhFdVRVMlFXVlVUQno0VnE0azV2LXJQazIySW9WQ3ZQVTRDVnBFdmFfaGVaSlFBWQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmZMcXN0Z1czSjZuTkpOeFpXOVJhNkl1N2thTThFeFFYVS1VRk1vZTg5WEdTSVZ3YzBSZE9iNHRVcC1vYzQ1VzF0RklQMGdDZnhkMlM5a1pDWVdLTHJ4RnVKVkdsakIxbVZ4UFdsZ2sxcXpFQnFRSllUX0otdVhVNzdYUFhFdVRVMlFXVlVUQno0VnE0azV2LXJQazIySW9WQ3ZQVTRDVnBFdmFfaGVaSlFBWQ?oc=5)
 
 ---
 

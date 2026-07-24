@@ -54,19 +54,19 @@ permalink: /news/drospirenone/
 
 ## 相關新聞（3 則）
 
+### [Gasherd ersetzt - weniger Asthmabeschwerden - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
+
+2026-07-24 <span class="news-indication-tag">asthma</span>
+
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWdIU2puY2U1cnVLZlhKdWN4dk0tcjhmN3VoVThIdGVlS0dIeERadGw1N3NDSXFmN0dGYUs0cXhxaUlDUU1UVGZhOURwWXdQSHVRNW1TTkJFTzdQZWdFMHRROFRnTjc3Z3ZqWlVYM3JRY01FVVZlZG5yYlJEX19Dc1BpMFJKekJyX1BqRUF1UWs3V0dmbXU4?oc=5)
+
+---
+
 ### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
 
 2026-07-23 <span class="news-drug-tag">Tezepelumab</span> <span class="news-indication-tag">asthma</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
-
----
-
-### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 
 ---
 
