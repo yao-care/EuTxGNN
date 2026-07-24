@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Sartane bei Bluthochdruck: Therapieabbruch sinkt laut JAMA-Metaanalyse deutlich - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/givosiran/
 
 ---
 
+### [Popular childhood drinks may raise blood pressure decades later](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+
+---
+
 ### [Deutsche Leberstiftung zum Welt-Hepatitis-Tag: Wissen über Hepatitis kann Leben retten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
 
 2026-07-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
+
+---
+
+### [Hepatitis A: Gefahr auf dem Teller, Schutz im Arm - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/givosiran/
 2026-07-22 <span class="news-indication-tag">hypertension</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXAtZDBlZmlfYjJ5ang5clEyeEllX08wRmZiXzlQQnJUSjhZZ1J0aE1ReTdmZVdWNGdkWHo1aWdaODRIVnpnLWpoLXFEYXYzQW1GdWdGM3pkTHdvMWlYWHBhMHE5N2VVZ1M3S1dWRVZRcVZ2VmtTcDI3TDNSbU8xeVA3VUt3SmxJbGpReXVXTVB2T1poT0lDVFZwUkJBbU1WMU9zU18tdXNWSi11VDB6NkNuc2Fib19yeGxIVEpWSFFKYVhWR1BMZWIwLXQ1bUhDdUo3eFpOWTNVRkd5eEhxWA?oc=5)
-
----
-
-### [MASH e steatosi del fegato, malattie tanto frequenti quanto sottovalutate: come si scoprono e si affrontano](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
-
-2026-07-22 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[DiLei](https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXNKUktsbjg3UDNmeXdQSlBlVDFKQ3VwZEVZbXlnc0R1YTBubm1xNVVkYzVxNS1XakZXSmRqZVR4M3Y3UEpmZWJkWjlDbzh0WGdodktBamNERS04LWVEM2FFZEhsUU9BaHNuUWxad3pfTGY2bHpqX2NGcThOQ0lrNmVCU3RUYnl0MFZha095ZWVxalo40gGaAUFVX3lxTFBRYTN4eFFCWGtwWkFsMzFYTDBTMkp1WXdEWksxSVM3LXNMd3JwT0xacU03bEMwckN1T0NJSlozWXBDMy03cEFwMVpsb3pLU25kRGhJMmVndkh0T3hJRUE4U2ZQUUdYVTBPdG93MS1YY1E2cFpGakQzS2xmSlMwZ2JXMVJlb2JnaGxiWUVjbWpoR092NHctYjN0U2c?oc=5)
 
 ---
 

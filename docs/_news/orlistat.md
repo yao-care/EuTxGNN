@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Jeder 10. Baden-Badener adipös – „Tickende Zeitbombe für die Gesundheit“ - goodnews4® Baden](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS0xYW40SFJUOFVUcGtxb0pMMExQZThBa2ZBNEFuendlTTM5RzdXLUQyNmRqSjUySnYtRVVLRFRQQlJHdzlDMGRMYlV1OTZrekVzZDZ4ZURlYmFUMFR1THZiaXY5ai0zX2VkbS1DNm03c2VwWlBMdEZ6VDQ4bzVRZkUxTVRENDd0QWdzREUzekEwR29lSDdsSjI0UTFzMUtyNXpTVENVVF9MS2M4Z01TRXFucFZKUV9JOFhuTXYzcw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Adipositas</span>
-
-來源：[goodnews4® Baden-Baden](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcS0xYW40SFJUOFVUcGtxb0pMMExQZThBa2ZBNEFuendlTTM5RzdXLUQyNmRqSjUySnYtRVVLRFRQQlJHdzlDMGRMYlV1OTZrekVzZDZ4ZURlYmFUMFR1THZiaXY5ai0zX2VkbS1DNm03c2VwWlBMdEZ6VDQ4bzVRZkUxTVRENDd0QWdzREUzekEwR29lSDdsSjI0UTFzMUtyNXpTVENVVF9MS2M4Z01TRXFucFZKUV9JOFhuTXYzcw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
 
 2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
----
-
-### [Revisar la tensión y pedir una analítica al año: gestos sencillos de autocuidado que pueden evitar complicaciones como ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
-
-2026-07-23 <span class="news-indication-tag">ictus</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
 
 ---
 
@@ -96,7 +80,7 @@ permalink: /news/orlistat/
 
 ### [Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 

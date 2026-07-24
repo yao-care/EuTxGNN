@@ -70,11 +70,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Revisar la tensión y pedir una analítica al año: gestos sencillos de autocuidado que pueden evitar complicaciones como ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+### [Popular childhood drinks may raise blood pressure decades later](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
 
-2026-07-23 <span class="news-indication-tag">ictus</span>
+2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
 
 ---
 

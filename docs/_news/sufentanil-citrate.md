@@ -14,7 +14,7 @@ permalink: /news/sufentanil-citrate/
 ---
 
 <p class="key-answer" data-question="Sufentanil Citrate 有什麼相關新聞？">
-<strong>Sufentanil Citrate</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sufentanil Citrate</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/sufentanil-citrate/
 <p><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（36 則）
+## 相關新聞（37 則）
+
+### [Drei Durchbrüche bei Krebs: Fortschritte geben Millionen Menschen Hoffnung](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONk5uVGppa1VPNlgtTnNOYjF1SFktaHVGSmlOcmJHUTFZZ21FWVBNX2FqSWpJcEZHdGNIZmxEcEFTSzFKa3F0Zy1wS1pNU05fVTZtTGptQVdRUVI5UDllOU9odHRIWVNJUkhnTGlzMHhaNlZlWUdzX0lqNWQ0TnE0YVp6MHJTeHFNb3BLdmZYX1RxazBXUW5wSTQyUjNTQWpjZV82eVk5alJqcWtnQU9XVVBTMEhIRHFrVlRoTHMwVTRQOVAxb2dtU2wxQU5FNXJpOC1IU3h2NG1DbzhfWDhiblBHaUx5U3ZSd0JjWkNvaHRXWmVlelE?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONk5uVGppa1VPNlgtTnNOYjF1SFktaHVGSmlOcmJHUTFZZ21FWVBNX2FqSWpJcEZHdGNIZmxEcEFTSzFKa3F0Zy1wS1pNU05fVTZtTGptQVdRUVI5UDllOU9odHRIWVNJUkhnTGlzMHhaNlZlWUdzX0lqNWQ0TnE0YVp6MHJTeHFNb3BLdmZYX1RxazBXUW5wSTQyUjNTQWpjZV82eVk5alJqcWtnQU9XVVBTMEhIRHFrVlRoTHMwVTRQOVAxb2dtU2wxQU5FNXJpOC1IU3h2NG1DbzhfWDhiblBHaUx5U3ZSd0JjWkNvaHRXWmVlelE?oc=5)
+
+---
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+---
+
+### [Experten informieren, warum die HPV-Impfung so wichtig ist – auch für Jungs](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[Pnp.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
+
+---
+
+### [¿Será posible calcular el riesgo de cáncer de mama años antes? España prueba una 'calculadora' con 10.000 mujeres - El Confidencial](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVRNTHBEN2FzSk9OMkxiWGFCRURkbkpxNTk3ZlM0UE5MMFJrZkhBd0xvVXpYWWdDQzM2bGR5TDJtQ2tERUFCdzZ0U3ZFMFR0aUE0OVM4THhnM1RlTG5vdy1aM0dBMHJLeHpnY1RiVVFZSWxQLXN1SFBDcG1HckFiU05LRHZiYlExZ3VwV0lSbGp6VDhkcG45Y1A0bFQtMFBNQk1XRA?oc=5)
+
+2026-07-24 <span class="news-indication-tag">tumor</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVRNTHBEN2FzSk9OMkxiWGFCRURkbkpxNTk3ZlM0UE5MMFJrZkhBd0xvVXpYWWdDQzM2bGR5TDJtQ2tERUFCdzZ0U3ZFMFR0aUE0OVM4THhnM1RlTG5vdy1aM0dBMHJLeHpnY1RiVVFZSWxQLXN1SFBDcG1HckFiU05LRHZiYlExZ3VwV0lSbGp6VDhkcG45Y1A0bFQtMFBNQk1XRA?oc=5)
+
+---
 
 ### [Bauchspeicheldrüsenkrebs: Vitamin C verdoppelt Überlebenszeit](https://news.google.com/rss/articles/CBMisAFBVV95cUxQanFJWXAwT3Q4Q01ELUl1V0p2THc1eGx3ZVNxdC12N1ZuRndYR012cGZneVE1ZFRGcWthUVd1bE55TFhFVXNLVUw3Nl9Rc1p0QndRVzFFTDZzcjMweWtTTUEybFZ4c2hIYzdRUHBJOWU4YkdIU25odDVKY01URFlHMGN1X0ktWEZPdUdTR1l2dEMwRzRVRTRkUU9Ba2pjSC1HQkhwY200Ymg2YmE1VUEtdQ?oc=5)
 
@@ -67,6 +99,14 @@ permalink: /news/sufentanil-citrate/
 2026-07-24 <span class="news-indication-tag">tumor</span>
 
 來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
+
+---
+
+### [mKRAS-VAX: Impfstoff gegen Bauchspeicheldrüsenkrebs zeigt Schutz in erster Humanstudie - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1lDVW1fNVJwd0VyTVh0bnB1VXNtcDlhVzVjR3M0N1V0N25HcE83MlZSeTd2ZFpXekREaU5OcmpKOHdyMWZmSHRrU3BRQVF3aGs5M0FZVXNzb2dWNnFhUmVCOWhxbUgtdTRMeHotOVA5YkxxOW4tRTNaanZzNGp3WFBPRVhKZkNZcDNud0R5YW9DOWpqZU81M1BSTWVDYXJZQ0wxbGVmZjFsUkpLcnFfNURJa3JRVGpIZ1E?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1lDVW1fNVJwd0VyTVh0bnB1VXNtcDlhVzVjR3M0N1V0N25HcE83MlZSeTd2ZFpXekREaU5OcmpKOHdyMWZmSHRrU3BRQVF3aGs5M0FZVXNzb2dWNnFhUmVCOWhxbUgtdTRMeHotOVA5YkxxOW4tRTNaanZzNGp3WFBPRVhKZkNZcDNud0R5YW9DOWpqZU81M1BSTWVDYXJZQ0wxbGVmZjFsUkpLcnFfNURJa3JRVGpIZ1E?oc=5)
 
 ---
 
@@ -142,14 +182,6 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Desarrollan una calculadora para evaluar el riesgo de cáncer de mama](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR1g0Z0x6Z21HR3ZsSE9QQnlCUThVVF9icTE4NlBjbFJKWHJwYk1uTVV5WnFUcDdfMXRVcVpyQ3JsdUhGWWxwTkpwODF4c3JBcV9TRFFDRmRVcU9ZMjVvS2dLbkFBYUxzSjVTaC1JSmJfYkNpMFlnbk5qV0xaU3puTmE4Y3hJSVl4MlppRzJtTk91aUJFUjhha0VkWmxLaVM3bVljLXV3NzhUbTFNR0FtRXpXSW1RdDhaNER3dmVfUDMwZ25pTHNoVVFFSWdaSU1XbjIwcVRPXzNwV0ZFNEFvTWxWdTItZ0hOQ1HSAe8BQVVfeXFMTmQxN1d3SG9jZE1FZHR3Y0JoQzZVbVJUb0laSVRXMDRpSnR1bU1rZmhvSkQ0eXhXbVdhRmpkSjU2TFpabnh5WlJ1alBoMFlGRWh2ODZjd3o2Rm1BbmpWVE9qVkwwZEtINWJXUEgyNS1KTWd6TGhObERaMVVnTU9vNmxZUlMtNUYtZVoyTHRZZ2hDZUd3Z0VRU0hqM1dBN2ZjZ1B6bWVjYU5WYXd2emRiMkl2MmlzNGZqRXhLMDRRa1h6Z3NfRF9aN1NQUDBiZlNWU2xoSDRoYi1iOGZfM2FBbGhyc194UG8tRFJ2X29Semc?oc=5)
-
-2026-07-23 <span class="news-indication-tag">tumor</span>
-
-來源：[COPE](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR1g0Z0x6Z21HR3ZsSE9QQnlCUThVVF9icTE4NlBjbFJKWHJwYk1uTVV5WnFUcDdfMXRVcVpyQ3JsdUhGWWxwTkpwODF4c3JBcV9TRFFDRmRVcU9ZMjVvS2dLbkFBYUxzSjVTaC1JSmJfYkNpMFlnbk5qV0xaU3puTmE4Y3hJSVl4MlppRzJtTk91aUJFUjhha0VkWmxLaVM3bVljLXV3NzhUbTFNR0FtRXpXSW1RdDhaNER3dmVfUDMwZ25pTHNoVVFFSWdaSU1XbjIwcVRPXzNwV0ZFNEFvTWxWdTItZ0hOQ1HSAe8BQVVfeXFMTmQxN1d3SG9jZE1FZHR3Y0JoQzZVbVJUb0laSVRXMDRpSnR1bU1rZmhvSkQ0eXhXbVdhRmpkSjU2TFpabnh5WlJ1alBoMFlGRWh2ODZjd3o2Rm1BbmpWVE9qVkwwZEtINWJXUEgyNS1KTWd6TGhObERaMVVnTU9vNmxZUlMtNUYtZVoyTHRZZ2hDZUd3Z0VRU0hqM1dBN2ZjZ1B6bWVjYU5WYXd2emRiMkl2MmlzNGZqRXhLMDRRa1h6Z3NfRF9aN1NQUDBiZlNWU2xoSDRoYi1iOGZfM2FBbGhyc194UG8tRFJ2X29Semc?oc=5)
-
----
-
 ### [Mit 44 erhielt ich die Diagnose Lungenkrebs im Endstadium – heute feiere ich meinen 50. Geburtstag - Business Insider Deutschland](https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTF0T1g3NkJTLTFBRXJBNngzQjJWZGViVnluT2tSWjJ0T1cyeG53d3N1aVZKZ3hMenhHZFZnaHlOaW16SzN0M1Mwdl9BdkZlM1lZNWVSNVR0aVhqWW9nUU0xSllaOWhvMVB2UmNZUHJDUTBENWhvZWRCNzJDNHY2Sk1WVElobGIyMlZ5Z1NtbzRtbkRYZ1dyMTloVXozZFlFaHZfTlEyeEpyakRoTi1oWA?oc=5)
 
 2026-07-23 <span class="news-indication-tag">Krebs</span>
@@ -200,7 +232,7 @@ permalink: /news/sufentanil-citrate/
 
 ### [Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
@@ -219,14 +251,6 @@ permalink: /news/sufentanil-citrate/
 2026-07-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1dJY0ZGdDRtU0ZTZlZwZWVTalhwYlFMZFpZMzJRTFVpMmdHaW5OV0RldlgxU1g4SnJEaEVTZHJkc3VNa2pVLXUzTHhkQkVMSGFUVTJuY281MS1rWlNoSVJURVY2alZmY3lDVzZTNHQ1cUpZd2hMSVpTVFJLT2U0Zjd0ME5DbF95MDVVWGEtX0V6aUVQRDVzLUYzRVNYNU1GYS00LVRwSXhZNVU2Snp3WEQ5eXNzM0VkTkpLTnhR?oc=5)
-
----
-
-### [Typ-2-Diabetes: 18% schaffen Remission ohne Medikamente – was Studien zeigen - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
 
 ---
 
@@ -254,11 +278,11 @@ permalink: /news/sufentanil-citrate/
 
 ---
 
-### [Schrittzahl-Mythos: Warum schon 7.000 Schritte Demenzrisiko senken können - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZHWWZRVmR0TU0tSVdIdzlITjZjMFVlTV9KSkVobHBOamRqSjBZYTFwMFNUWjRCZlRSdUZDSHpnY0lXMlg2UGcxSHJ3Zk5VUlFJRlBsaHY0MGt3UEpHVlFPN0I0S2Z0ZzZGenQzQmFxRlNkUWNDdzhjaVdzTjBLVWkxRWQ0ZW5uamdld3pkWXp1TDRVb0dmRjNHbnFvQUJXdDFPZEdtTFE?oc=5)
+### [Rare contagious cancer discovered in wild catfish](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MY0l5X1licm91NFUwM0w0R1NlYkZpSTFLTjZsVVd3NXByWFh2NDNfcVdwUWNrY1pJekVLb1I0MkY1em8tYVJSYlp5RGQ1SnpxUk1OcTNIU3ZRSF9USXZn?oc=5)
 
-2026-07-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+2026-07-22 <span class="news-indication-tag">cancer</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZHWWZRVmR0TU0tSVdIdzlITjZjMFVlTV9KSkVobHBOamRqSjBZYTFwMFNUWjRCZlRSdUZDSHpnY0lXMlg2UGcxSHJ3Zk5VUlFJRlBsaHY0MGt3UEpHVlFPN0I0S2Z0ZzZGenQzQmFxRlNkUWNDdzhjaVdzTjBLVWkxRWQ0ZW5uamdld3pkWXp1TDRVb0dmRjNHbnFvQUJXdDFPZEdtTFE?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MY0l5X1licm91NFUwM0w0R1NlYkZpSTFLTjZsVVd3NXByWFh2NDNfcVdwUWNrY1pJekVLb1I0MkY1em8tYVJSYlp5RGQ1SnpxUk1OcTNIU3ZRSF9USXZn?oc=5)
 
 ---
 
@@ -267,6 +291,14 @@ permalink: /news/sufentanil-citrate/
 2026-07-22 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMigAJBVV95cUxOUVRmVjlNMWR6U1pfcnRDb0ZZcmxNRXNfU3I4RXB0UlQ3NFJYZWRvb0tKelBiX243Y09xWmcwZXFQc1RTdG5iRnUwVjliR3dQT1JwTFpzbEJhQ29RWkxDVEV6M016SWE3WVd2YmpaNG1xRVgtMk9Yem9oNnFHYlFVclJOajgxMzAtaHp3RXl2WldocFE4bGFlTGpsSEhYc1lCalBEMHZyQ1pTNklZMWFtRDdjRnJ1SlBwSmhNX2NPeXdwazM1d0V2UjJaR3ZZQTEzdzRwSmtnZjdoSmNqczN6UlpJNE1ZSGRLSzRaY0ZUcjhpN25MWnk5QU9oa3ZxMjdT?oc=5)
+
+---
+
+### [Il gene che aiuta il tumore a ripararsi può diventare il suo punto debole](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFVwSkx3bFVObmE4X00tYTRKMGlxYnVpV18wUWxHa2JQMXVUaEFIbjBBVjZjMldpUVlTVWtVVThjMmd1c1JJeFRaQ1puYUlMS1laWFZFQjZYeGpqQm5RcGxxUTdORVVjUk5ZeW9Dek81UHoxdmtRWDd2QVNLUDMzaEpCdXpvNW9MUkVLcnpEM1pkMkpYUHo2U2RoNG9pZGpjTmxGSjdMUW1ta0txeTdZS1pSVHY0U3F1ZkhCZGZzUmRWYWg0WjFUWHVsNnhyQQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFVwSkx3bFVObmE4X00tYTRKMGlxYnVpV18wUWxHa2JQMXVUaEFIbjBBVjZjMldpUVlTVWtVVThjMmd1c1JJeFRaQ1puYUlMS1laWFZFQjZYeGpqQm5RcGxxUTdORVVjUk5ZeW9Dek81UHoxdmtRWDd2QVNLUDMzaEpCdXpvNW9MUkVLcnpEM1pkMkpYUHo2U2RoNG9pZGpjTmxGSjdMUW1ta0txeTdZS1pSVHY0U3F1ZkhCZGZzUmRWYWg0WjFUWHVsNnhyQQ?oc=5)
 
 ---
 
@@ -283,6 +315,14 @@ permalink: /news/sufentanil-citrate/
 2026-07-22 <span class="news-indication-tag">cancro</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMzVWVC1nZG5JdWc4X2lNNHRwQXhCY3k5OElFX1F4bGdkN2Q4MTJWQmtpTTg3TS1vc0dnQlFfcDduckM5S3hmZTZudXdzamt1MFA1V3k2UHZibUZ3RWRGU242Q3ZUdWtLMUIwWFZLRTYzODVhUEZnYWZsMmlMblNEMGVUaEFhczJaYVUwSW10b1pEeEY2VGttd05xSlVCQklleFBzdmNzQXEtMGN3eFRVN243WlZuN2NJVGlnRGZ4SnVnQVl1Rl9SUjdteS02MjV6RzZ6a2poM0hBaFhEZE43N0Q2UHhveEZidS1hNnM0VUtucXNZWG1GSU80ZHBXQW1ZNFBuYWNHMmJReTlmU3BOWWdSWXQyRlZVUmM0U0sxejB2ejdhbDJUZNIBrgJBVV95cUxOY2RkejJoN3hOeXBWa3RKbGNrUlliTWJZUXVVazhQU0xsN1kwYnY3cF9SNGQ3X2Y3TlZhUGVZQjNWMzZZNEx0T2ZfSVNWbjRUdUtLcTBOeV9fU1RSYmNRZ2IxcUctYmFFY3BXX2J3Y0I0REtVdGJZNElVODdlajQzN1RfenRmVUYwYThoRTU2c05nNjlVbDJFQS1iX1JUNl9Hc3pxcVVnemRUMmRNajl4Y1hoQ0M4MEpiTjRmam5VTWdxbGdiVHZzNXoxUVpWWjA3Y0UtSFFldDlhcFNRMHhVUVVsWDVGTmdNOVdZS3hhZXVlYmdzWVZRQ1VhWktOcTZkbnZ4aW53MFV0SzFwWHBrTmtWQ3RjZThZSDY3R042LVJrbEhsZ2toTzZPSDFPQQ?oc=5)
+
+---
+
+### [Tumore dell'ovaio, una donna su tre aspetta più di un anno per la diagnosi](https://news.google.com/rss/articles/CBMimgJBVV95cUxNVmRQTlhoSWNNbjRycjRFRGtycjEzV2FHS1JWOWRZZ0ZEaEtBYjVSZ3IzS2VWMDdhZG9NVXJDOUs0R0Z5YWFkb2lGeTdPUEJRbnlzS0lYcGQwZ1M4am1KbExCV1JYVTlORDROYkpVT3dCTnNuMjNRd1RhdTBjWFl0NlJWMEowWDh0RFB2Q0hGT0s2bE1nR3p5T3QxaEgwNV9PSWRjN1JWYTRkaFRfMExHSFViWkJPMk1ESzZsWEl6MXJBZS1oMnh6Vjl0UXZ3b1ktZHQ4SUtWbFVGOWRka2JpSDV1SnlvQWw1UHk4eXBuNGxRN0hrbl9sTnVLdEZFN3pQNm1Sc3Y3SzVISTRDaFloYVpjcTNRcExuVnfSAZ8CQVVfeXFMTXR1V1RZTENTc3hGRFVLUW1SVGhZNjhJMjBlekU4eVF6LU5JTkJYUGJmVmIzaVZOTHVQNGhXaDh2V1c5WThMNVIteVBURVBUNG5wUGZ1OGxfY1ZDSUJ5REw1TXNmNGl0cURjUjNYWE9Ia0x6QnAxbW1EY2pFY2taa2hCNlB5LXliT0NSZk0tdmNmS0FPRGZ3YVFzcFgtbVlvUVNua1ExZGpxbTVzWHQ2cmR3bEZGYXdXei1nMTh6RFNldXMtTlpvenZmSExOcHMzQ1BFVzRlMENPYTNDWmQ0NzNGdFpvazlBaWZXemdLZ21BNFZKNmdoRHhoMk1lQ3p6VG9IWWEtRjlzV2lwVzlNV1B1amdBUGIyd3RkM2tWMUU?oc=5)
+
+2026-07-22 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMimgJBVV95cUxNVmRQTlhoSWNNbjRycjRFRGtycjEzV2FHS1JWOWRZZ0ZEaEtBYjVSZ3IzS2VWMDdhZG9NVXJDOUs0R0Z5YWFkb2lGeTdPUEJRbnlzS0lYcGQwZ1M4am1KbExCV1JYVTlORDROYkpVT3dCTnNuMjNRd1RhdTBjWFl0NlJWMEowWDh0RFB2Q0hGT0s2bE1nR3p5T3QxaEgwNV9PSWRjN1JWYTRkaFRfMExHSFViWkJPMk1ESzZsWEl6MXJBZS1oMnh6Vjl0UXZ3b1ktZHQ4SUtWbFVGOWRka2JpSDV1SnlvQWw1UHk4eXBuNGxRN0hrbl9sTnVLdEZFN3pQNm1Sc3Y3SzVISTRDaFloYVpjcTNRcExuVnfSAZ8CQVVfeXFMTXR1V1RZTENTc3hGRFVLUW1SVGhZNjhJMjBlekU4eVF6LU5JTkJYUGJmVmIzaVZOTHVQNGhXaDh2V1c5WThMNVIteVBURVBUNG5wUGZ1OGxfY1ZDSUJ5REw1TXNmNGl0cURjUjNYWE9Ia0x6QnAxbW1EY2pFY2taa2hCNlB5LXliT0NSZk0tdmNmS0FPRGZ3YVFzcFgtbVlvUVNua1ExZGpxbTVzWHQ2cmR3bEZGYXdXei1nMTh6RFNldXMtTlpvenZmSExOcHMzQ1BFVzRlMENPYTNDWmQ0NzNGdFpvazlBaWZXemdLZ21BNFZKNmdoRHhoMk1lQ3p6VG9IWWEtRjlzV2lwVzlNV1B1amdBUGIyd3RkM2tWMUU?oc=5)
 
 ---
 
@@ -307,38 +347,6 @@ permalink: /news/sufentanil-citrate/
 2026-07-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
-
----
-
-### [NHS encourage women over 50 to attend breast cancer screenings - We love Stornoway](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEhoYTZoUmlNRkZhR1c0WDNMLXl6aE83RWRNVlVsOGtJU0pJWlV3aFJqMG13Ukp1aUtCQkZtUjZRdGtzT2RGSURkM0FYQndwUnBURW43RzZ5bjY1ZU1VREpFS1Q4OXJlNHBRWUFZNG1DX3k2QjRNMkE3VDlta1JHNUhYSUoyRmVwb0xRVkVzczgzajlSWHVRMm02WUNnMUNtUlRRaGl0R1IwY1Q1Qk5qb0daQUp0UQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">cancer</span>
-
-來源：[We love Stornoway](https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEhoYTZoUmlNRkZhR1c0WDNMLXl6aE83RWRNVlVsOGtJU0pJWlV3aFJqMG13Ukp1aUtCQkZtUjZRdGtzT2RGSURkM0FYQndwUnBURW43RzZ5bjY1ZU1VREpFS1Q4OXJlNHBRWUFZNG1DX3k2QjRNMkE3VDlta1JHNUhYSUoyRmVwb0xRVkVzczgzajlSWHVRMm02WUNnMUNtUlRRaGl0R1IwY1Q1Qk5qb0daQUp0UQ?oc=5)
-
----
-
-### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tYZndJMjBLZ3BxcDNKY2o5VWJ1T0I1SHhKaDNMUEZwS0tOREszaVVNSGNhRUUxdDVCSDBsbmNZaGRoOVpocEFfMkF5TVNwSU9WVVliUS1OYXVWT2RsN3VGLWM4NWRQS0ZrQjVxWURvV2Y2RkF6WWM4enRxVm1tNnNXbmo2SEhqODBFWlBzOEl4TFctclY4WGJTanRKOTRNY0tFeDllTXhQaE13LXlETTBlaXZoLS1FN3hucmw2RGc?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0tYZndJMjBLZ3BxcDNKY2o5VWJ1T0I1SHhKaDNMUEZwS0tOREszaVVNSGNhRUUxdDVCSDBsbmNZaGRoOVpocEFfMkF5TVNwSU9WVVliUS1OYXVWT2RsN3VGLWM4NWRQS0ZrQjVxWURvV2Y2RkF6WWM4enRxVm1tNnNXbmo2SEhqODBFWlBzOEl4TFctclY4WGJTanRKOTRNY0tFeDllTXhQaE13LXlETTBlaXZoLS1FN3hucmw2RGc?oc=5)
-
----
-
-### [Nuovo gene alleato dei tumori, li aiuta a riparare il loro Dna](https://news.google.com/rss/articles/CBMihAJBVV95cUxOaWdEZ0d6VDZXaTBtVzBUOENacE5mRk5JZ3E0ZF96OUNWNS1GZ2FJTVhTdkZQV1BzRDRRZ3ZORWRFV1N1NWVIdHF4aVZoejZ5NV9Cd3diNmNBRUdPTGVWSF9lc1p1MFFkcUk2WFE3YzlldWtYY2ZudGJ5UlBnbmRXTnZiUmZSUnFrdG5wV3pKMFFJQm1kQUE3dzVxZUlyU0RtWkh3ZkpNbE1HejNzck55cDlXZXQyNkFnZVRhV1hmaV9OTjlOMkdaSkJhdVMtUjFzMDNfRWVYT1daRl85Q1FxMldFZVZXd1pza29waFE0SkNSZ2dwRkxnenlQalp1LU15N281ZtIBigJBVV95cUxPMGxxVTJKdlJ0UmtVQnRFTDgxWVc3UlU4bGJpbElNVURfLVAteEE5b1UxbmgwWVlvcGlpYkRXbDNYSFlSa3Z4TzFYZkpHTlRHWVZGWGp6czhGR1A3bG1LaU15NWw4RlRtaTU3U3hWaWU5RFBHOWFELURPOXFHVmdtLUJlbExKa2JQQlVHSmU4VUQyVmhKdUcwRjZQRjlvU1hzYU51VnQyRFBSdmFwaUE5VmpyNDQzTVE4clhFYUFISGpnampMUG10LTY2WWIwMmtscXNXZ2VQVENtWjhEa1pNMzhUUUFyb1R1TEdSUldDaXRSLVJDLXF0eWc5Q09RcUExR3NmdGNGUFhGUQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">cancer</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMihAJBVV95cUxOaWdEZ0d6VDZXaTBtVzBUOENacE5mRk5JZ3E0ZF96OUNWNS1GZ2FJTVhTdkZQV1BzRDRRZ3ZORWRFV1N1NWVIdHF4aVZoejZ5NV9Cd3diNmNBRUdPTGVWSF9lc1p1MFFkcUk2WFE3YzlldWtYY2ZudGJ5UlBnbmRXTnZiUmZSUnFrdG5wV3pKMFFJQm1kQUE3dzVxZUlyU0RtWkh3ZkpNbE1HejNzck55cDlXZXQyNkFnZVRhV1hmaV9OTjlOMkdaSkJhdVMtUjFzMDNfRWVYT1daRl85Q1FxMldFZVZXd1pza29waFE0SkNSZ2dwRkxnenlQalp1LU15N281ZtIBigJBVV95cUxPMGxxVTJKdlJ0UmtVQnRFTDgxWVc3UlU4bGJpbElNVURfLVAteEE5b1UxbmgwWVlvcGlpYkRXbDNYSFlSa3Z4TzFYZkpHTlRHWVZGWGp6czhGR1A3bG1LaU15NWw4RlRtaTU3U3hWaWU5RFBHOWFELURPOXFHVmdtLUJlbExKa2JQQlVHSmU4VUQyVmhKdUcwRjZQRjlvU1hzYU51VnQyRFBSdmFwaUE5VmpyNDQzTVE4clhFYUFISGpnampMUG10LTY2WWIwMmtscXNXZ2VQVENtWjhEa1pNMzhUUUFyb1R1TEdSUldDaXRSLVJDLXF0eWc5Q09RcUExR3NmdGNGUFhGUQ?oc=5)
-
----
-
-### [Krebs und Gen Z: Generation altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Krebs</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnBnS0lCc09VcUM3MHRRU200MTJBdnBGdjd0NDdEazZQSHpTSHRNenlMa1R2UWNIaWdsTEJnOW5Xa20yNC1EWThiX2t2WHhST3Nid0dxVmVPQm5LNERtaXpHT1pOeUNoZmdUY3RIS19RejVoOXJRaUV0cXNHbXU4UlJEXzQ1SUNfby10RkZoRFVYaXd2VE52WFktWFprMUdSUXloZUZid3VtUmp4MnFoNGp5eW5STndoTmlXaklmS24xd21UX0dvYi1NdTltNXFZaDJsNHZHM2xodFpkZ3I2U0Q2NXFvOTZm?oc=5)
 
 ---
 

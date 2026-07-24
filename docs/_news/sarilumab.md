@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Darmerkrankungen: Antikörper verraten Morbus Crohn zehn Jahre früh](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
 
@@ -102,27 +102,19 @@ permalink: /news/sarilumab/
 
 ---
 
+### [Ketogene Ernährung: Neue Studien belegen Erfolge bei chronischen Entzündungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmZMcXN0Z1czSjZuTkpOeFpXOVJhNkl1N2thTThFeFFYVS1VRk1vZTg5WEdTSVZ3YzBSZE9iNHRVcC1vYzQ1VzF0RklQMGdDZnhkMlM5a1pDWVdLTHJ4RnVKVkdsakIxbVZ4UFdsZ2sxcXpFQnFRSllUX0otdVhVNzdYUFhFdVRVMlFXVlVUQno0VnE0azV2LXJQazIySW9WQ3ZQVTRDVnBFdmFfaGVaSlFBWQ?oc=5)
+
+2026-07-22 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmZMcXN0Z1czSjZuTkpOeFpXOVJhNkl1N2thTThFeFFYVS1VRk1vZTg5WEdTSVZ3YzBSZE9iNHRVcC1vYzQ1VzF0RklQMGdDZnhkMlM5a1pDWVdLTHJ4RnVKVkdsakIxbVZ4UFdsZ2sxcXpFQnFRSllUX0otdVhVNzdYUFhFdVRVMlFXVlVUQno0VnE0azV2LXJQazIySW9WQ3ZQVTRDVnBFdmFfaGVaSlFBWQ?oc=5)
+
+---
+
 ### [Boire son café à cette heure précise maximiserait ses effets sur le cerveau, selon les chercheurs - La Provence](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmt6em4zZ3lvYnVlV0ZQUFdqMWRBYVREajYwRVZXVklibGRRMV9xS1QyZUhLeEdnWE4wWVVjeUxQQ3JnRndIT3BNdl9lcjBWSmtCbkM0czZXRmd4d2x4ZWZnNWdUSjhDOTVGa2Nrd0VtT2xnd0ZHeFdicXBRcGo3SmdGUy1Yc0t0TW5yU1VfekgxWl9ySGV5XzQ2RXNYa2c3c3JpQkktQlA0ZlQxZkoyb1VMR2FsLWZIS3hWTkp3WlZCNFRxTEdrRkV1N1BiLUlDejIyZm95Yk5JQlhzODdDT0hBc2hRbHRMUkE?oc=5)
 
 2026-07-22 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmt6em4zZ3lvYnVlV0ZQUFdqMWRBYVREajYwRVZXVklibGRRMV9xS1QyZUhLeEdnWE4wWVVjeUxQQ3JnRndIT3BNdl9lcjBWSmtCbkM0czZXRmd4d2x4ZWZnNWdUSjhDOTVGa2Nrd0VtT2xnd0ZHeFdicXBRcGo3SmdGUy1Yc0t0TW5yU1VfekgxWl9ySGV5XzQ2RXNYa2c3c3JpQkktQlA0ZlQxZkoyb1VMR2FsLWZIS3hWTkp3WlZCNFRxTEdrRkV1N1BiLUlDejIyZm95Yk5JQlhzODdDT0hBc2hRbHRMUkE?oc=5)
-
----
-
-### [Ketogene Ernährung im Fokus: Neue Daten deuten messbaren Entzündungshemmungseffekt - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGTERDRTV6d21xS0tveVlFcURrYnd6VU5sYmJMUmY4cXg0U3o0SEtMR3Bfd3M2ZU1JUTlkWF9oM3FyOFAyU2x3RkF6STlSVGo3eVNhb3BtMjdBUzN6UFdyRGZ4dFV5eWkwYm1acmJCODlMYXVoLUo2LTJ2MGRlRHFocExnZjh5bUxnTXhIRHFlYkJVWTRFVHNYbDhReTg2QS1URkRwM1kxeVVRdE5YSEd6Y19UZw?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVlGTERDRTV6d21xS0tveVlFcURrYnd6VU5sYmJMUmY4cXg0U3o0SEtMR3Bfd3M2ZU1JUTlkWF9oM3FyOFAyU2x3RkF6STlSVGo3eVNhb3BtMjdBUzN6UFdyRGZ4dFV5eWkwYm1acmJCODlMYXVoLUo2LTJ2MGRlRHFocExnZjh5bUxnTXhIRHFlYkJVWTRFVHNYbDhReTg2QS1URkRwM1kxeVVRdE5YSEd6Y19UZw?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 

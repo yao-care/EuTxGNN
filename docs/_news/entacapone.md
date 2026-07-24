@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/entacapone/
 2026-07-23 <span class="news-indication-tag">dementia</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
+
+---
+
+### [Could my four cups of coffee a day kill me? - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVpWOTExZjVVWUFUTDdxbWRQRVphbnk2Q3pQcnRTaURYUHNBVXFCWlA2cGg2bEh3bHVDTDBTTHZxUjdiUXp3cFNMUks3X1RiYWgzVW9sZndiX2R5OE1Gb2NsYWpVcXIzakRMVTBpOHZqU1o0bElJc0x5Nm5EOXhvbFFJWmltYUtPOEQ4bElzZVZwVE9KaHA5cXg0QQ?oc=5)
+
+2026-07-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVpWOTExZjVVWUFUTDdxbWRQRVphbnk2Q3pQcnRTaURYUHNBVXFCWlA2cGg2bEh3bHVDTDBTTHZxUjdiUXp3cFNMUks3X1RiYWgzVW9sZndiX2R5OE1Gb2NsYWpVcXIzakRMVTBpOHZqU1o0bElJc0x5Nm5EOXhvbFFJWmltYUtPOEQ4bElzZVZwVE9KaHA5cXg0QQ?oc=5)
 
 ---
 

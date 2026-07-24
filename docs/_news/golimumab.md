@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Darmerkrankungen: Antikörper verraten Morbus Crohn zehn Jahre früh](https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDWVktTTY5a0VJdWU0dUM5QmIyWlFuaHM4TGpPaENJX21zcGVIemZBQzU1bGRyWlcwc3UySXBGMzNQeE5UZThYLTI4UHBQc2UyNXVkSEUwMFhlcGVWcFp2MkZucVZRUVk3YVAwX2tILTZEYWhJbnpMaGNvTk1vM2I2NnhRMW1LRkhUVXM2NE13TGJ0QXNybjlGek9rcEo2WXpMalRaOHZQTEgtZUItYUlmaHAwcG8?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/golimumab/
 2026-07-23 <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 

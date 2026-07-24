@@ -54,6 +54,14 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（3 則）
 
+### [Vers une révolution du traitement du psoriasis grâce à une découverte génétique majeure - 20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
+
+2026-07-24 <span class="news-indication-tag">psoriasis</span>
+
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
+
+---
+
 ### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
@@ -67,14 +75,6 @@ permalink: /news/tacrolimus/
 2026-07-23 <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 

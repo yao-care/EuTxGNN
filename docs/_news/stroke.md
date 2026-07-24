@@ -3,7 +3,7 @@ layout: default
 title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
 
 2026-07-23
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
----
-
-### [Revisar la tensión y pedir una analítica al año: gestos sencillos de autocuidado que pueden evitar complicaciones como ictus](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
-
-2026-07-23
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ25OOE1LWWR0bFNLS0k0dGo5LTUtVEdzU01xaUVIeERncVJjQzlBc1p0aHhkdV80by1kWDl6ODk5ZW9OSXU1b3puRnJZYW9fQkx6bE1CR0dmVTA5el82MVB1eVZ6SFFmZEJBODdEVW15QlRZczFPM19RVEtzanh1TkgxUm9Scm1qb0NHdk91OG1YbDhrclZsWDF4dS1ESHRRRi15cllULVFmSWoxSTA5aTZHS1YxbmtIVjc5QmNEeWRUTjlUMHQ3VHl5VHVOMmdLMXA3ZGUtQ3FneC1WTjV1N2NrSEE1YlB2LXVMRXJveHpLcW9L?oc=5)
 
 ---
 

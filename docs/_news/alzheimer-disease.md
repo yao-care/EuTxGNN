@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Not checking one body part 'regularly' increases risk of dementia by 500 per cent - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
 
 2026-07-23
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
+
+---
+
+### [Could my four cups of coffee a day kill me? - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVpWOTExZjVVWUFUTDdxbWRQRVphbnk2Q3pQcnRTaURYUHNBVXFCWlA2cGg2bEh3bHVDTDBTTHZxUjdiUXp3cFNMUks3X1RiYWgzVW9sZndiX2R5OE1Gb2NsYWpVcXIzakRMVTBpOHZqU1o0bElJc0x5Nm5EOXhvbFFJWmltYUtPOEQ4bElzZVZwVE9KaHA5cXg0QQ?oc=5)
+
+2026-07-23
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVpWOTExZjVVWUFUTDdxbWRQRVphbnk2Q3pQcnRTaURYUHNBVXFCWlA2cGg2bEh3bHVDTDBTTHZxUjdiUXp3cFNMUks3X1RiYWgzVW9sZndiX2R5OE1Gb2NsYWpVcXIzakRMVTBpOHZqU1o0bElJc0x5Nm5EOXhvbFFJWmltYUtPOEQ4bElzZVZwVE9KaHA5cXg0QQ?oc=5)
 
 ---
 

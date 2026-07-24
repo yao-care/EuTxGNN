@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabete（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。9 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>9 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（9 則）
 
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+---
+
 ### [Bambino di 9 anni col diabete perde il volo da Londra, fermato per i controlli ai dispositivi: «Non ci hanno fatto partire per colpa mia»](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1B3VDE1RXVPVmFBSWxmUXRnc09vSXVjNURGbmk4d3hNMlQzeVdPeS1jbjNJZFM3RkJMUmQ3VnVRc01QZUpIQnRiLW9qSDFUenp3RGpsOUdfQ21Sc3FGTkh6alQwaVd4TEhEcE1tQWpDNUNrVWZLWWNmX3lnS3ozVzlyRzdxTjBXSEtBeGF6X05hUURKNXZLTncxNjVJNnBkY2FYUWpRX19CSTlUTWNyTDBOd1NKNmhXdEHSAaQBQVVfeXFMTVM0UFVsMWZacFZxS1diRUFoblhBZ2ppZ3VQeU5aQk9Fenk1UWZ3SWNPc0hSUGVDMm9RSDlMTVREeFlhVV90R3NGWXZTS3haTjhIUmFNTGt2d3dXc0pOdllkVnNiTm5hakh0SkZTMlF6WEdsTVRQUzZHYklHWDM3R1BWQ2FRenl3RXZaVjdzamI5bVBSSVh2VGdyZ2hvOExlMEVaejU?oc=5)
 
 2026-07-23
@@ -153,14 +161,6 @@ permalink: /news/diabetes-mellitus/
 2026-07-23
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1dJY0ZGdDRtU0ZTZlZwZWVTalhwYlFMZFpZMzJRTFVpMmdHaW5OV0RldlgxU1g4SnJEaEVTZHJkc3VNa2pVLXUzTHhkQkVMSGFUVTJuY281MS1rWlNoSVJURVY2alZmY3lDVzZTNHQ1cUpZd2hMSVpTVFJLT2U0Zjd0ME5DbF95MDVVWGEtX0V6aUVQRDVzLUYzRVNYNU1GYS00LVRwSXhZNVU2Snp3WEQ5eXNzM0VkTkpLTnhR?oc=5)
-
----
-
-### [Typ-2-Diabetes: 18% schaffen Remission ohne Medikamente – was Studien zeigen - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
-
-2026-07-23
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
 
 ---
 

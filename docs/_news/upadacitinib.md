@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/upadacitinib/
 2026-07-23 <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 

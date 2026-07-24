@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [Entzündungen: Forscher klären Immunbremsen-Fehler bei COVID-19](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDEwNjA1S0g2LVlvMkIxLXBNRTd6eG9XYTF1MWcwbnRQd0F5Y0tjNnhjd1FYUFVHX0RtMTE0RjdFa2dETnI5LWVMQmhQMUJNWVlNV1BIZzNwLXJ3V2pBRFFNQzFDUzRYUUY2UHVtb1VpcHFFdXIwNllMUHY0UEswQXhzQkpYZUJXTHRWYWpvb1YzSnQ3aFNxMU9uZ0FYR0tISk4zdXQzR0VPMU53UnBMeUlR?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDEwNjA1S0g2LVlvMkIxLXBNRTd6eG9XYTF1MWcwbnRQd0F5Y0tjNnhjd1FYUFVHX0RtMTE0RjdFa2dETnI5LWVMQmhQMUJNWVlNV1BIZzNwLXJ3V2pBRFFNQzFDUzRYUUY2UHVtb1VpcHFFdXIwNllMUHY0UEswQXhzQkpYZUJXTHRWYWpvb1YzSnQ3aFNxMU9uZ0FYR0tISk4zdXQzR0VPMU53UnBMeUlR?oc=5)
+
+---
+
+### [Alzheimer-Prävention: Schon 3.000 Schritte täglich bremsen Abbau](https://news.google.com/rss/articles/CBMisgFBVV95cUxObUR6ZEdxbUJFRjlGNTFxR2cya3lrVzdGU2dNU2JJTDVDUjYxdnFQS2doOG53UmR1ZmJBUEQ4V0Ntd1ktYWsyYU9Nc3lySXVqcTBDMVlZaERadGVpWmRXN29NMGFqRnZ2Q2laQ29za0V2bmpaaEVyY0d2S29oOEY3RnFxNEZvUWJQcmZIbTFJd3NKdlhlRlpSaklWZjZpbWlpRE1DMl90ejV5T2daSUl3aVJB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxObUR6ZEdxbUJFRjlGNTFxR2cya3lrVzdGU2dNU2JJTDVDUjYxdnFQS2doOG53UmR1ZmJBUEQ4V0Ntd1ktYWsyYU9Nc3lySXVqcTBDMVlZaERadGVpWmRXN29NMGFqRnZ2Q2laQ29za0V2bmpaaEVyY0d2S29oOEY3RnFxNEZvUWJQcmZIbTFJd3NKdlhlRlpSaklWZjZpbWlpRE1DMl90ejV5T2daSUl3aVJB?oc=5)
+
+---
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+---
 
 ### [Dermatologist Reveals The Major Red Flag On Your Skin That Could Signal Heart Problems - Bored Panda](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pkZ2Y4VHNDWnBRYlVtTDJoZko0cURlUUdKeE1keDNqVG9DMUlNT2htVkUyazRCSXdLSHNWZDdBR2k2RjM5Y3F3aDE0NDY2WURQblh1c0d1ZHdqYzNOZTRoV0h2eHU0VlR2VW5UZ0tKSTFJQkI5eHFlUndRTnp2d3hoZXZkSXlfWHNRZ2d0c1liei1kcnlSV3d1SHhhQQ?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [MS-Therapie: Darm-Bakterium Akkermansia massiliensis schützt vor Erkrankung](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3d2TDlUa2VVLUVUZnVQYkh0NHhRYjlmbGRDVEtMMzZoeFRXSVZ4bWVUTmY5cWhSaW5neGhYUVp2V3BPODVuRER5bmtYUS1pc053MnRZVDdVdGFLQ1NCLVdPVHVVTjJJOTFCTkkySFR4M0gxM19BSFZpOEw4ZFoxWE1ONzJ6ZzdUM1lhZExYajA3MmJMVkNxMUZjVTFNOWh1S0pvVHY2RHpnRTZnSU1Xam5tZw?oc=5)
+### [5 Art Habits That Can Help You Live Longer](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBRUkxscGROUGlLeEhFMHltNDV4azA0Mko1VFZfeTl4Mm9aQXRpOW0weVViY1FhN2lqd1JQZlNjRUhoZTlud0RmNHJkZlJIdEJUQ0JEMEtyRGdCM0FrU1pIanQ1bFl6aDdlV1VwTHY4TkNMbDVsb29ZdVB5bDRlZw?oc=5)
 
-2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3d2TDlUa2VVLUVUZnVQYkh0NHhRYjlmbGRDVEtMMzZoeFRXSVZ4bWVUTmY5cWhSaW5neGhYUVp2V3BPODVuRER5bmtYUS1pc053MnRZVDdVdGFLQ1NCLVdPVHVVTjJJOTFCTkkySFR4M0gxM19BSFZpOEw4ZFoxWE1ONzJ6ZzdUM1lhZExYajA3MmJMVkNxMUZjVTFNOWh1S0pvVHY2RHpnRTZnSU1Xam5tZw?oc=5)
+來源：[Artsy](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBRUkxscGROUGlLeEhFMHltNDV4azA0Mko1VFZfeTl4Mm9aQXRpOW0weVViY1FhN2lqd1JQZlNjRUhoZTlud0RmNHJkZlJIdEJUQ0JEMEtyRGdCM0FrU1pIanQ1bFl6aDdlV1VwTHY4TkNMbDVsb29ZdVB5bDRlZw?oc=5)
 
 ---
 
@@ -86,19 +110,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Drug that helps MS patients walk now available on NHS - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2xwblJ4T2FudzlJRlpBZUJyNldoVklsX0ExbEl1YmlXZUxXNTd5SElEbW1CYVprN2NYbVU4U045S01KYWhwWUNMcUNmcWFqOW5zRDROanBhVWRrakVaMWFUYnh4aUtaLWp2Rl9oc3dFUndXeEVGWUctYUxTc3BHT1U0UmZ2RXZNNmZxUWhKY2UzZnRkcVV4Z2pFSkMxUVNWZ0JKZA?oc=5)
+### ['Life-changing' drug to help MS patients walk available to thousands on NHS - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
 
 2026-07-23 <span class="news-indication-tag">multiple sclerosis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOR2xwblJ4T2FudzlJRlpBZUJyNldoVklsX0ExbEl1YmlXZUxXNTd5SElEbW1CYVprN2NYbVU4U045S01KYWhwWUNMcUNmcWFqOW5zRDROanBhVWRrakVaMWFUYnh4aUtaLWp2Rl9oc3dFUndXeEVGWUctYUxTc3BHT1U0UmZ2RXZNNmZxUWhKY2UzZnRkcVV4Z2pFSkMxUVNWZ0JKZA?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
 
 ---
 
-### [Giuseppe Fatati: «La longevità si costruisce un’estate alla volta. Il miglior risultato delle vacanze? Tornare a casa con un'abitudine nuova». Eccone 10 da mettere nella valigia del rientro (senza aspettare settembre)](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
+### [Multiple Sklerose: Dieses Darmbakterium kann schützen](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3MzUnFkdmpfX2NpU3lKcFl6bUlFWGFGQ1NsdVFMX2w0dG8yUjc3bVMtZXhVTEFyczg4U1UxcDhjUEZTWFFjWWlqRkd3NUVKX0FYOEFzU3dXeHZHUjV5UEt3UnpkN1IyenE0Z2JxV1M1bm5McGQzbi1USG80THZGUDB6Q1g3bnlwZ2l0T2lNQkhvUGZwVFBITjZRNWY4T3dtVE9ZYUR4UGxEamE5WlNqbDF4X08?oc=5)
+
+2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3MzUnFkdmpfX2NpU3lKcFl6bUlFWGFGQ1NsdVFMX2w0dG8yUjc3bVMtZXhVTEFyczg4U1UxcDhjUEZTWFFjWWlqRkd3NUVKX0FYOEFzU3dXeHZHUjV5UEt3UnpkN1IyenE0Z2JxV1M1bm5McGQzbi1USG80THZGUDB6Q1g3bnlwZ2l0T2lNQkhvUGZwVFBITjZRNWY4T3dtVE9ZYUR4UGxEamE5WlNqbDF4X08?oc=5)
+
+---
+
+### [Giuseppe Fatati: «La longevità si costruisce un’estate alla volta. Il miglior risultato delle vacanze? Tornare a casa con un'abitudine nuova». Eccone 10 da mettere nella valigia del rientro (senza aspettare settembre) - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
 
 2026-07-23 <span class="news-indication-tag">MS</span>
 
-來源：[vanityfair.it](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZllhWGJFVE5iQjlGX0RBOUFtend0VlB1UzhlQ3YzajZEeWt5WVpfRXYyaXMwYWloRk81MG9jUHBWcmRiT25wYUpIdi1GLV9kT2pvaERhRkI0VGxqbW82Z0NXOUdhWm9SVzhSaW12MENBQ25ONGpMZ3JDdk5lNXdXVDVUSWFDYkJjX1hhRDJJMkh6SExVaXZUaUFZbHRxTkM5RnZpZnlTN1d0c2EtUWc4ZlBHa2pkVmlUQjh4ZzNrcGJtVVNZUW5xaVhFbjN4NmV1U3JmUnVZQ2VDbXZFUG1kX1F4SkdMbllsU2ZITnEyZDhzMFJXR0E1bkMza3E?oc=5)
 
 ---
 
@@ -110,14 +142,6 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Entzündungen: Autoantikörper neutralisieren Bremse – neue Wirkstoffe greifen an](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZEckhkOTJnd1lKcEtaMVNiWGQ4WDcyVGJxTldibjBHOTRGX2pGbTRxQ01IMFVEeVpQT1lkZXJlOGRzbm1HTm9JRENTQ2Fkc1BaQVdKYjFpd3JueVdBN0VqdXJqRVotQnplMjN4RHBNNzdxbndBN3hpdlZGdkxnZkpwaFRRN0Jyb09zWXl3Rm5hdDBsVUkwTkVNWWpIanZ6TG15VUtjaEJ4XzJJVVJWYUdqVUkzclE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZEckhkOTJnd1lKcEtaMVNiWGQ4WDcyVGJxTldibjBHOTRGX2pGbTRxQ01IMFVEeVpQT1lkZXJlOGRzbm1HTm9JRENTQ2Fkc1BaQVdKYjFpd3JueVdBN0VqdXJqRVotQnplMjN4RHBNNzdxbndBN3hpdlZGdkxnZkpwaFRRN0Jyb09zWXl3Rm5hdDBsVUkwTkVNWWpIanZ6TG15VUtjaEJ4XzJJVVJWYUdqVUkzclE?oc=5)
-
----
-
 ### [Letby baby died from birth trauma, medical expert claims - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUlREMUlRYmRtR0Uyc1NzT3ZINUw0T091RzM1WUlIVHRJSFRwRkVVWDNMQkttQWdveXpKdmw3SjgwOXlhRUQtZENaLTU2NzBzU0UxbmhYOEVmdkhBd1hTT3V4eVNjRlJGdlpQYTlVZzEyOW16bW9XclM3Q1hYU0E3c2xoVjdtOVQ0bHV5V3N4Q2dQNVdqZXRMU2VaaE5waVZOWHc?oc=5)
 
 2026-07-22 <span class="news-indication-tag">MS</span>
@@ -126,27 +150,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Schrittzahl-Mythos: Warum schon 7.000 Schritte Demenzrisiko senken können - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZHWWZRVmR0TU0tSVdIdzlITjZjMFVlTV9KSkVobHBOamRqSjBZYTFwMFNUWjRCZlRSdUZDSHpnY0lXMlg2UGcxSHJ3Zk5VUlFJRlBsaHY0MGt3UEpHVlFPN0I0S2Z0ZzZGenQzQmFxRlNkUWNDdzhjaVdzTjBLVWkxRWQ0ZW5uamdld3pkWXp1TDRVb0dmRjNHbnFvQUJXdDFPZEdtTFE?oc=5)
-
-2026-07-22 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZHWWZRVmR0TU0tSVdIdzlITjZjMFVlTV9KSkVobHBOamRqSjBZYTFwMFNUWjRCZlRSdUZDSHpnY0lXMlg2UGcxSHJ3Zk5VUlFJRlBsaHY0MGt3UEpHVlFPN0I0S2Z0ZzZGenQzQmFxRlNkUWNDdzhjaVdzTjBLVWkxRWQ0ZW5uamdld3pkWXp1TDRVb0dmRjNHbnFvQUJXdDFPZEdtTFE?oc=5)
-
----
-
-### [Demenza, le cinque buone pratiche adottate (e suggerite) da una specialista della «brain longevity» che possono contribuire a prevenirla](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
+### [Demenza, le cinque buone pratiche adottate (e suggerite) da una specialista della «brain longevity» che possono contribuire a prevenirla - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
 
 2026-07-22 <span class="news-indication-tag">MS</span>
 
-來源：[vanityfair.it](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
-
----
-
-### [Magic mushrooms may reshape the brain long after the trip ends](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVemNKeG01U3ZyelI2WDB4VWc5SE4yRU5yaUhLRGtDRFBPV0NLbmoyWEFTS3ZtcnMyeE82QmdXVkl2VE9mTWxqV0xObEtTWE13NVZhSWhUUHY0STYwU0tLd1BvSi01Mmo2eU53RlQ4cw?oc=5)
-
-2026-07-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVemNKeG01U3ZyelI2WDB4VWc5SE4yRU5yaUhLRGtDRFBPV0NLbmoyWEFTS3ZtcnMyeE82QmdXVkl2VE9mTWxqV0xObEtTWE13NVZhSWhUUHY0STYwU0tLd1BvSi01Mmo2eU53RlQ4cw?oc=5)
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNDhIbWlqRmR4Q2xnTFhkcTRXM3dvbHlKUTJhNGtNN1pBeGJwM1FrcURQUjhMRjZLRmtnWUxFTVFjWmJxOHhzLVJoTzFvbkVoVkd4ZjY0ZVdLV2JMVm5JSEVfWF9hcXhET0JyTTA1MC1SeFpYLWEzS3FXc0pyRUFMaVpyT3N6RndMTXlEQVItSkE1RnhoRDFMOHF6bk5yY3RWeDRmVUFrNlpUd0RHc0R3VnpSV0RLNktmV3p6b1VqSDhVYVpTZ1ItV2h6RENnc3ZtSEpFbWpaOA?oc=5)
 
 ---
 

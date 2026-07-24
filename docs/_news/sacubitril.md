@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+---
 
 ### [Bambino di 9 anni col diabete perde il volo da Londra, fermato per i controlli ai dispositivi: «Non ci hanno fatto partire per colpa mia»](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1B3VDE1RXVPVmFBSWxmUXRnc09vSXVjNURGbmk4d3hNMlQzeVdPeS1jbjNJZFM3RkJMUmQ3VnVRc01QZUpIQnRiLW9qSDFUenp3RGpsOUdfQ21Sc3FGTkh6alQwaVd4TEhEcE1tQWpDNUNrVWZLWWNmX3lnS3ozVzlyRzdxTjBXSEtBeGF6X05hUURKNXZLTncxNjVJNnBkY2FYUWpRX19CSTlUTWNyTDBOd1NKNmhXdEHSAaQBQVVfeXFMTVM0UFVsMWZacFZxS1diRUFoblhBZ2ppZ3VQeU5aQk9Fenk1UWZ3SWNPc0hSUGVDMm9RSDlMTVREeFlhVV90R3NGWXZTS3haTjhIUmFNTGt2d3dXc0pOdllkVnNiTm5hakh0SkZTMlF6WEdsTVRQUzZHYklHWDM3R1BWQ2FRenl3RXZaVjdzamI5bVBSSVh2VGdyZ2hvOExlMEVaejU?oc=5)
 
@@ -88,7 +96,7 @@ permalink: /news/sacubitril/
 
 ### [Con nuovi farmaci anti diabete e obesità più rischi di perdere i capelli, lo studio](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Adnkronos](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGRvUFplWFc1RVl1dVkxUl80RFRCeUUyV1FobUVCYVZMLVdwMWVGZ3FPTWRlVG1yVGtaLXVOajRTdlM1VENpRjVubUlLLWFBZHZLai0zOUhjeXpNalIyTDNfT1N3bjZldm5FWXVScFBuSFhaSFR2dHo4OXpaVlVETm5WQXFXRnNUODl6UTRmbWtzRXhkX0RyeWdPWVJUU3ZqYlhINkZudm9GSHQ1UUtUcnQ0cmdPNHRjcnc?oc=5)
 
@@ -99,14 +107,6 @@ permalink: /news/sacubitril/
 2026-07-23 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1dJY0ZGdDRtU0ZTZlZwZWVTalhwYlFMZFpZMzJRTFVpMmdHaW5OV0RldlgxU1g4SnJEaEVTZHJkc3VNa2pVLXUzTHhkQkVMSGFUVTJuY281MS1rWlNoSVJURVY2alZmY3lDVzZTNHQ1cUpZd2hMSVpTVFJLT2U0Zjd0ME5DbF95MDVVWGEtX0V6aUVQRDVzLUYzRVNYNU1GYS00LVRwSXhZNVU2Snp3WEQ5eXNzM0VkTkpLTnhR?oc=5)
-
----
-
-### [Typ-2-Diabetes: 18% schaffen Remission ohne Medikamente – was Studien zeigen - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU1VN2FVbzhlWmd0Z1NOeDA0UUo4WFhWVHo4S1ZXOG1VdUxvU3Z1SXRHdWZQYXBLdmZGdkRsT0dpVEZ2LTE4VW1VWlA0UmVSMVRjLXZ5aGdWcEE2NV8zSzlGVXBneHdrNlFfTXNPSjh6enRsNlVWVDA4TVBPMHdxS2VtX3RCa29vT3IwX2tQMHctN3NQeHIwUGVEZ0pFbzM3UmF2UVFTYw?oc=5)
 
 ---
 
@@ -139,14 +139,6 @@ permalink: /news/sacubitril/
 2026-07-22 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk9OUXIxZm03RWpidGNvdkN0a1h2NWJMX0dNRGZaem9GeU1VRWdQcHdmdWNkaFhKRE9WVmlGZDdqWnFaSjFHRVNFdVlyeHJmUXROVnBNM3F6RC1GYVUzbVNLcWdxc0NfcFR2RnV3d0FYN3RkVzc0RFhsQ25TcW1walhGM0lnaVFKaVY5aElMZWN0bUxnQ2Q2RTV3?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 

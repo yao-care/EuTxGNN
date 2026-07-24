@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Sartane bei Bluthochdruck: Therapieabbruch sinkt laut JAMA-Metaanalyse deutlich - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
 
 2026-07-23
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEc2SHhOeE5jd1d2SFc1OG02UXNfSmYwSGNSbUdpR2NUS3JCQ05uaHJMbFQ2bUllS2FaZ3FsN0JjUjh5ZndCc0tGcUs5akU3UWgwQTZ6c01kTjlnX2hZVEVrRFJGQUFoQ3hoZlZsT3JBY2EtVllMcFo5bzZIZXltcXR1bGFJUEVqcHNYb1NIMXJLVnlGQ1JYdGREcmg5OHpNejB3R2FQOW5CZlpUdUc0?oc=5)
+
+---
+
+### [Popular childhood drinks may raise blood pressure decades later](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+
+2026-07-23
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
 
 ---
 

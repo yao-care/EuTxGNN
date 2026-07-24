@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Lancet-Studie: Behandlungsqualität von COPD-Patienten steigt nach Klinikaufenthalt auf rund 80 Prozent - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNVBjbHBIZmFmSmVJeGZpNk9tOE16ZzJkNjNITjl5YnY2MlFDSDJOVVhReGxQTFVtQk12b3d0Z1otSzRnYnZoeDBFc0E4T29fMTU4ekozcS1JbnVmNHZxWWo2UmtJMFlOb0dqdlNKcU1XWkFGeWJwblRnekRZNjQtaW1lWWstWGxxVm9JOXVMTlZmQjBOY1hRNS1ydW11X09qRXFzVnJPNnVHcUhLRnJfZXZSS3FXNmtBMzFya0ZpOXZTVEhhNjBGcC11REtVNGQyWDd3Wlk4alZuYWJ3TVF6bnVjenRyRmM?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/idarucizumab/
 2026-07-22 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Provence](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmt6em4zZ3lvYnVlV0ZQUFdqMWRBYVREajYwRVZXVklibGRRMV9xS1QyZUhLeEdnWE4wWVVjeUxQQ3JnRndIT3BNdl9lcjBWSmtCbkM0czZXRmd4d2x4ZWZnNWdUSjhDOTVGa2Nrd0VtT2xnd0ZHeFdicXBRcGo3SmdGUy1Yc0t0TW5yU1VfekgxWl9ySGV5XzQ2RXNYa2c3c3JpQkktQlA0ZlQxZkoyb1VMR2FsLWZIS3hWTkp3WlZCNFRxTEdrRkV1N1BiLUlDejIyZm95Yk5JQlhzODdDT0hBc2hRbHRMUkE?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Vers une révolution du traitement du psoriasis grâce à une découverte génétique majeure - 20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
+
+2026-07-24
+
+來源：[20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
+
+---
 
 ### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 

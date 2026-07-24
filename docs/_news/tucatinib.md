@@ -62,6 +62,14 @@ permalink: /news/tucatinib/
 
 ---
 
+### [Popular childhood drinks may raise blood pressure decades later](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+
+2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
+
+---
+
 ### [Psoriasis und Adipositas gemeinsam behandeln: Vorteile der Kombinationstherapie - Gelbe Liste](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0xaRHg2aWhfbHpudXVrMHlBZUswT05xMkxJTkNpTTJKVl82SnJxX0tkdk43c1BuQ0JGWW50VWxjbzR6VldKcm5fRzVvQkIzOEJiYlJyVUJDdjdtYURHc3FuX0IxZEtUQ1dVeDBsano2WTlLT1RwVC0zMWNJZ1lNV2RqYkpQaDhmLW9hUjJfVV9iaUl1NTdCSG1iNDFXMHEySEM2cDR3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">psoriasis</span>
@@ -99,14 +107,6 @@ permalink: /news/tucatinib/
 2026-07-22 <span class="news-indication-tag">Migräne</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkdqVFF1Rk9Vb3p0TkRiMktyZk1WRUk4aVM1SE5LU1JUVHh6dHE4QVpzS0ZrZVE4MnV2Q1BZaEl5X1VqNzFvSk45VDNybWR5VDJmeTdzUS01WVNXd1dQWGc0blNiSnZZaV9rU05TTTlCbjRvOGw1SUc0R3BGVjZid1RVQ2lKcmtHTkZLa3JhN3Y4eEpYMHFmYjBKSGl4RFZoZlA5WjJkVGFBZkZR?oc=5)
-
----
-
-### ['Arthritis flare-ups aren't random', says expert - the 'most underrated' fix may happen after dark - GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
-
-2026-07-22 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDF5WnpHYTdMUWxxRXd6N0owS2ZVYWk4X2pneGROMVZpcXFweTNxdHlzbkR6OE01cE14Rk1WQXJ1QXFkMHhwMUJrbkN3WDhxM3VETkZaN1VnNlJrQjBfa1pHUkRLY2ZZMnhTWTAxUHdIdXk1Yi1zcjZ1Vm9QckdrQ1hn?oc=5)
 
 ---
 
