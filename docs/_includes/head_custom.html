@@ -43,7 +43,7 @@
 
 <!-- YMYL 審核資訊 Meta -->
 <meta name="last-reviewed" content="2026-03-03">
-<meta name="reviewed-by" content="EuTxGNN Research Team">
+<meta name="reviewed-by" content="藥提醒科技有限公司 (yao.care)">
 
 <!-- Schema.org 結構化資料 -->
 {% if page.layout == 'default' and page.evidence_level %}
@@ -62,24 +62,13 @@
       "dateModified": "2026-03-03",
       "lastReviewed": "2026-03-03",
       "reviewedBy": {
-        "@type": "Organization",
-        "name": "EuTxGNN Research Team"
+        "@id": "https://www.yao.care/#organization"
       },
       "author": {
-        "@type": "Organization",
-        "name": "EuTxGNN Team",
-        "url": "https://eutxgnn.yao.care/"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "EuTxGNN",
-        "url": "https://eutxgnn.yao.care/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://eutxgnn.yao.care/assets/images/og-default.png",
-          "width": 1200,
-          "height": 630
-        }
+        "@id": "https://www.yao.care/#organization"
       },
       "about": {
         "@type": "MedicalEntity",
@@ -141,7 +130,7 @@
       "url": "https://eutxgnn.yao.care/",
       "description": "AI-powered drug repurposing predictions for 642 EMA-approved drugs with clinical evidence validation",
       "publisher": {
-        "@id": "https://eutxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
@@ -154,32 +143,48 @@
       }
     },
     {
-      "@type": "Organization",
-      "@id": "https://eutxgnn.yao.care/#organization",
-      "name": "EuTxGNN",
-      "url": "https://eutxgnn.yao.care/",
-      "description": "Drug repurposing prediction platform based on Harvard TxGNN model",
+      "@type": ["Organization", "MedicalOrganization"],
+      "@id": "https://www.yao.care/#organization",
+      "name": "yao.care",
+      "legalName": "藥提醒科技有限公司",
+      "alternateName": "藥提醒",
+      "url": "https://www.yao.care",
+      "taxID": "83620786",
+      "email": "service@yao.care",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://eutxgnn.yao.care/assets/images/og-default.png",
-        "width": 1200,
-        "height": 630
+        "url": "https://www.yao.care/assets/images/logo.png"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "台灣大道二段220號12樓",
+        "addressLocality": "台中市西區",
+        "addressCountry": "TW"
       },
       "sameAs": [
+        "https://www.wikidata.org/wiki/Q140265007",
+        "https://github.com/yao-care",
+        "https://www.google.com/maps?cid=12025785010180313919",
+        "https://www.yao.care/medical/txgnn/"
+      ]
+    },
+    {
+      "@type": ["SoftwareApplication", "WebApplication"],
+      "@id": "https://eutxgnn.yao.care/#software",
+      "name": "EuTxGNN",
+      "alternateName": "EuTxGNN Drug Repurposing Reports",
+      "url": "https://eutxgnn.yao.care/",
+      "applicationCategory": "HealthApplication",
+      "operatingSystem": "Web",
+      "isAccessibleForFree": true,
+      "publisher": { "@id": "https://www.yao.care/#organization" },
+      "author": { "@id": "https://www.yao.care/#organization" },
+      "creator": { "@id": "https://www.yao.care/#organization" },
+      "copyrightHolder": { "@id": "https://www.yao.care/#organization" },
+      "sameAs": [
+        "https://www.yao.care/medical/txgnn/",
         "https://github.com/yao-care/EuTxGNN"
-      ],
-      "knowsAbout": [
-        "Drug Repurposing",
-        "Machine Learning in Healthcare",
-        "Clinical Evidence Synthesis",
-        "European Medicines Agency",
-        "FHIR Healthcare Interoperability"
-      ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "contactType": "technical support",
-        "url": "https://github.com/yao-care/EuTxGNN/issues"
-      }
+      ]
     },
     {
       "@type": "Article",
@@ -187,10 +192,10 @@
       "headline": "Drug Repurposing: From Data to Evidence",
       "description": "AI-powered drug repurposing predictions for 642 EMA-approved drugs with clinical trial and literature evidence reports",
       "author": {
-        "@id": "https://eutxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@id": "https://eutxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-03",
@@ -203,23 +208,6 @@
         "https://eutxgnn.yao.care/drugs/",
         "https://eutxgnn.yao.care/methodology/",
         "https://eutxgnn.yao.care/fhir/metadata"
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "https://eutxgnn.yao.care/#researcher",
-      "name": "EuTxGNN Research Team",
-      "knowsAbout": [
-        "Drug Repurposing",
-        "Graph Neural Networks",
-        "Clinical Evidence Synthesis"
-      ],
-      "hasCredential": {
-        "@type": "EducationalOccupationalCredential",
-        "credentialCategory": "Research Methodology"
-      },
-      "sameAs": [
-        "https://github.com/yao-care/EuTxGNN"
       ]
     },
     {
@@ -262,10 +250,7 @@
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-03",
       "mainEntity": {
-        "@type": "Organization",
-        "name": "EuTxGNN",
-        "url": "https://eutxgnn.yao.care/",
-        "description": "Drug repurposing prediction platform based on Harvard TxGNN model"
+        "@id": "https://www.yao.care/#organization"
       }
     },
     {
@@ -501,20 +486,10 @@
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-03",
       "author": {
-        "@type": "Organization",
-        "name": "EuTxGNN",
-        "url": "https://eutxgnn.yao.care/"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "EuTxGNN",
-        "url": "https://eutxgnn.yao.care/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://eutxgnn.yao.care/assets/images/og-default.png",
-          "width": 1200,
-          "height": 630
-        }
+        "@id": "https://www.yao.care/#organization"
       },
       "isPartOf": {
         "@id": "https://eutxgnn.yao.care/news/#webpage"
@@ -577,4 +552,5 @@
 }
 </script>
 {% endif %}
+
 

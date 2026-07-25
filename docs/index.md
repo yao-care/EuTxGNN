@@ -266,5 +266,23 @@ EuTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab
 <strong>Disclaimer</strong><br>
 This report is for <strong>research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Any drug repurposing decisions require complete clinical validation and regulatory review.
 <br><br>
-<small>Last updated: 2026-03-05 | Maintainer: EuTxGNN Research Team</small>
+<small>Last updated: 2026-03-05 | Maintainer: 藥提醒科技有限公司 (yao.care)</small>
 </div>
+
+---
+
+## About the Developer
+
+This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration
+number 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
+
+EuTxGNN is the the European Union site of the company's "TxGNN Drug Repurposing" product line.
+The same system is deployed across 30 countries and regions, each named `{CC}TxGNN`
+(JpTxGNN, UsTxGNN, DETxGNN, and so on) at `{cc}txgnn.yao.care`.
+Product overview: <https://www.yao.care/medical/txgnn/>.
+
+The TxGNN model itself was developed by the Zitnik Lab at Harvard Medical School and published
+in *Nature Medicine*. This platform is the production system 藥提醒科技有限公司 built on top of that
+model, covering national drug-registration data integration, dual knowledge-graph and
+deep-learning prediction, PubMed / ClinicalTrials evidence grading, and SMART on FHIR
+electronic health record integration.
