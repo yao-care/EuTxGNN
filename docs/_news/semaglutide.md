@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（13 則）
+
+### [La exposición infantil a la contaminación atmosférica se relaciona con un mayor riesgo de síndrome metabólico - Salud a Diario](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQnh5Mm5fRzdVN2lNLWVjVHRrQ2QxSXZaV2Z6cmZHN1BzM3JycTFpTDVCemhxTE9Ha1l2RkFZeUhSdzByVjZib0FwQzVrVjYwS2c5TVZSaUxDYlRaTWg2bGxRYzlaOGZHcDU2bHM0VUZVV1BEN0lhc0RyQklqMzhUVHNIQWVyc1RBX0dlTVdkajloSE1FQXNfTDBSaWs0WF9Xc0VaVWdLRUdJWUdXdFpTOGhWQmR5cFlmZ1hmVlE1aEVmSERGMFlzbndSQ0NHemhBckh1NlNhVnVjSXhhbVdvZVZSZHotVHc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQnh5Mm5fRzdVN2lNLWVjVHRrQ2QxSXZaV2Z6cmZHN1BzM3JycTFpTDVCemhxTE9Ha1l2RkFZeUhSdzByVjZib0FwQzVrVjYwS2c5TVZSaUxDYlRaTWg2bGxRYzlaOGZHcDU2bHM0VUZVV1BEN0lhc0RyQklqMzhUVHNIQWVyc1RBX0dlTVdkajloSE1FQXNfTDBSaWs0WF9Xc0VaVWdLRUdJWUdXdFpTOGhWQmR5cFlmZ1hmVlE1aEVmSERGMFlzbndSQ0NHemhBckh1NlNhVnVjSXhhbVdvZVZSZHotVHc?oc=5)
+
+---
 
 ### [‘Ozempic face’ and hair loss: what evidence is there for weight-loss drug side-effects? - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbU5NZ0ZUc3p5NDhmRWpWZ2lsRXlISVY3R2NQa0xrdkRIRURfSklKVURBRDUxOUx6MldsTXlveVh1cllEaFFsNl9VczloUHJmVVB2Q0NWbDFJNW9xc1NCblJkX3N3MVJneE4waEp2b1N6OThpbDhQT1hOVVhLWjJfRm9iMUFTaUVOM2FxZndoRUFucHgzWUFEZU5TYm5FalcwYjdwb2d4RWlWQQ?oc=5)
 
@@ -118,6 +126,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Ozempic gratis o a prezzi ridotti per gli obesi: Regione Lombardia stanzia 2 milioni - la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2FFYU9sT25NdEhvbUQ0aUs5WnNscDZZbFpBc25uZTFOeHVtWHl5Y3cxZXd5MkhFQmxHU0pEejlWdmdMR2l4d3pESHphOVc3czRwdzdkY3JCc2xRV080NEtXczdLUnBFRG1mZ0k1NEFCeWpVOHdHMjgxbmRLY3lXSkczWlo2cFJwMW1mWEVaSG13bWpUSHlCV2VTbE5Fb3NvdjQwazQzSE9sU2xnclh0MG50LXRjODlzNXFtZDkxVkQxYUJwTXlVeDBn0gHPAUFVX3lxTE5pU1BMNWdGeklRNzNpYzRsT3NIMUM0TFl5Q1h4OXNUZzYta1RqMEhDM2ZEYVhha29lN0N3UVRic0pWdXcwWWtRUDJMNnVsbWpkYXpfYjNWY0NPckM4TDNpc0c4MVJ5Z1ZBR0QydVIwSFFvU2paTTl2YlpZdklLblVUeTZ1M0NIQkEzbWR1VUJTdjRlcEUtUmNGeHF5dW9mVXBVWTJrRzhscHdDN2pCZXdtUmYzcGN3S3VSaG5OWmZnLUdLVVJiNjV5S3o2OWZ2WQ?oc=5)
+
+2026-07-24 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2FFYU9sT25NdEhvbUQ0aUs5WnNscDZZbFpBc25uZTFOeHVtWHl5Y3cxZXd5MkhFQmxHU0pEejlWdmdMR2l4d3pESHphOVc3czRwdzdkY3JCc2xRV080NEtXczdLUnBFRG1mZ0k1NEFCeWpVOHdHMjgxbmRLY3lXSkczWlo2cFJwMW1mWEVaSG13bWpUSHlCV2VTbE5Fb3NvdjQwazQzSE9sU2xnclh0MG50LXRjODlzNXFtZDkxVkQxYUJwTXlVeDBn0gHPAUFVX3lxTE5pU1BMNWdGeklRNzNpYzRsT3NIMUM0TFl5Q1h4OXNUZzYta1RqMEhDM2ZEYVhha29lN0N3UVRic0pWdXcwWWtRUDJMNnVsbWpkYXpfYjNWY0NPckM4TDNpc0c4MVJ5Z1ZBR0QydVIwSFFvU2paTTl2YlpZdklLblVUeTZ1M0NIQkEzbWR1VUJTdjRlcEUtUmNGeHF5dW9mVXBVWTJrRzhscHdDN2pCZXdtUmYzcGN3S3VSaG5OWmZnLUdLVVJiNjV5S3o2OWZ2WQ?oc=5)
+
+---
+
 ### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -134,35 +150,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabete e attività fisica in pensione: perché il golf e altri sport aerobici possono essere più adatto del tennis](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUZhNHNoV3p0bEdoZUVVMGtrSnducmhoaWVySUdTSTNMRGhJZ3RzbnZqQ0ZpU0dJWkpLNUNKZ0M5SHNKcTg0c3N2X2dNNGw3UEdnbWZILUFWZFUxMWJxdDhZYU9MRUtVSHBfWlVodXMzRElJRXAzb05ZTlpVR2QwSFF4Sl9aeU5KbjVBZldrdGdTeExJT2xZOUtrdkZDclRMTkhYNUhITGNpeW1OZ1ZMelk4RVdDaTVnZ0lhV1o3R3FHM3FDT3dJWURJYWpDSTRVM3licko3MjJLeHlzbVQzOXh4cWVJaWdibEFRNWpwNlF5RUwzRFE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUZhNHNoV3p0bEdoZUVVMGtrSnducmhoaWVySUdTSTNMRGhJZ3RzbnZqQ0ZpU0dJWkpLNUNKZ0M5SHNKcTg0c3N2X2dNNGw3UEdnbWZILUFWZFUxMWJxdDhZYU9MRUtVSHBfWlVodXMzRElJRXAzb05ZTlpVR2QwSFF4Sl9aeU5KbjVBZldrdGdTeExJT2xZOUtrdkZDclRMTkhYNUhITGNpeW1OZ1ZMelk4RVdDaTVnZ0lhV1o3R3FHM3FDT3dJWURJYWpDSTRVM3licko3MjJLeHlzbVQzOXh4cWVJaWdibEFRNWpwNlF5RUwzRFE?oc=5)
-
----
-
 ### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
 
 2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
-
----
-
-### [Bambino di 9 anni col diabete perde il volo da Londra, fermato per i controlli ai dispositivi: «Non ci hanno fatto partire per colpa mia»](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1B3VDE1RXVPVmFBSWxmUXRnc09vSXVjNURGbmk4d3hNMlQzeVdPeS1jbjNJZFM3RkJMUmQ3VnVRc01QZUpIQnRiLW9qSDFUenp3RGpsOUdfQ21Sc3FGTkh6alQwaVd4TEhEcE1tQWpDNUNrVWZLWWNmX3lnS3ozVzlyRzdxTjBXSEtBeGF6X05hUURKNXZLTncxNjVJNnBkY2FYUWpRX19CSTlUTWNyTDBOd1NKNmhXdEHSAaQBQVVfeXFMTVM0UFVsMWZacFZxS1diRUFoblhBZ2ppZ3VQeU5aQk9Fenk1UWZ3SWNPc0hSUGVDMm9RSDlMTVREeFlhVV90R3NGWXZTS3haTjhIUmFNTGt2d3dXc0pOdllkVnNiTm5hakh0SkZTMlF6WEdsTVRQUzZHYklHWDM3R1BWQ2FRenl3RXZaVjdzamI5bVBSSVh2VGdyZ2hvOExlMEVaejU?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabetic</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1B3VDE1RXVPVmFBSWxmUXRnc09vSXVjNURGbmk4d3hNMlQzeVdPeS1jbjNJZFM3RkJMUmQ3VnVRc01QZUpIQnRiLW9qSDFUenp3RGpsOUdfQ21Sc3FGTkh6alQwaVd4TEhEcE1tQWpDNUNrVWZLWWNmX3lnS3ozVzlyRzdxTjBXSEtBeGF6X05hUURKNXZLTncxNjVJNnBkY2FYUWpRX19CSTlUTWNyTDBOd1NKNmhXdEHSAaQBQVVfeXFMTVM0UFVsMWZacFZxS1diRUFoblhBZ2ppZ3VQeU5aQk9Fenk1UWZ3SWNPc0hSUGVDMm9RSDlMTVREeFlhVV90R3NGWXZTS3haTjhIUmFNTGt2d3dXc0pOdllkVnNiTm5hakh0SkZTMlF6WEdsTVRQUzZHYklHWDM3R1BWQ2FRenl3RXZaVjdzamI5bVBSSVh2VGdyZ2hvOExlMEVaejU?oc=5)
-
----
-
-### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
 
 ---
 

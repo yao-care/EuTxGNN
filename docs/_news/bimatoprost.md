@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="Bimatoprost 有什麼相關新聞？">
-<strong>Bimatoprost</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bimatoprost</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/bimatoprost/
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（31 則）
 
-### [¿Cuánto café puedes tomar al día sin riesgo para la salud? Cuidado, que no es igual con las bebidas energéticas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWZMeE9rdWdqdnNfNy11UWs1dWRrNHFRMGNoQ1N3QXNkeGVEZ2dzSlZfS0N5cTBPclFDUnBWRFN4NVNuQjdxMEViaE9maEtnNjgwSzlIcUFOR0FOUDVBSHRSRFdYUzhTclNFSTBfRWNoS1JnNnBuTWZNcUk0TVRRZ0xpREFLZU1VWjdfQ095QUxWam14NUtjdjFEdHZKWVBCWDJNWWk5WVFSZnUyQUJ0RFNJUHl0QXlVUy1vYWZBM1pydGJDUzA2UDMtLWVYUHVPREtIVnZzQld1UQ?oc=5)
+### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
 
-2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-25 <span class="news-indication-tag">AF</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWZMeE9rdWdqdnNfNy11UWs1dWRrNHFRMGNoQ1N3QXNkeGVEZ2dzSlZfS0N5cTBPclFDUnBWRFN4NVNuQjdxMEViaE9maEtnNjgwSzlIcUFOR0FOUDVBSHRSRFdYUzhTclNFSTBfRWNoS1JnNnBuTWZNcUk0TVRRZ0xpREFLZU1VWjdfQ095QUxWam14NUtjdjFEdHZKWVBCWDJNWWk5WVFSZnUyQUJ0RFNJUHl0QXlVUy1vYWZBM1pydGJDUzA2UDMtLWVYUHVPREtIVnZzQld1UQ?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
+
+---
+
+### [Aumentano i casi di West Nile in Europa, l'Italia la più colpita](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUDRtaktXTlJPQzd1emFMMjhhN0d5Q2FKZ05DZFJoYUlXNXQ4V3lYWVlTMXBNQ2dLNWF6X3Z3cnRBbzNlU2k5Z2YwcmdLUlNnSmMyMzFKVGNCd3VYTjBZY0pTX1NFSFFQbllMU3B4MG1JSjl5ZEM4WjFLQ180WFpGOE1WZHg3QUFsUm5uODN5cmZjNmx4ZEdlTzI1bjJQUDRndDRJOEtJM1doX0dQZWNqUjlPOVdFT01aUnJIV0hlZk5TVy0yc3F6eFpVbWJKT25SWmZRam81bUowMGZB?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUDRtaktXTlJPQzd1emFMMjhhN0d5Q2FKZ05DZFJoYUlXNXQ4V3lYWVlTMXBNQ2dLNWF6X3Z3cnRBbzNlU2k5Z2YwcmdLUlNnSmMyMzFKVGNCd3VYTjBZY0pTX1NFSFFQbllMU3B4MG1JSjl5ZEM4WjFLQ180WFpGOE1WZHg3QUFsUm5uODN5cmZjNmx4ZEdlTzI1bjJQUDRndDRJOEtJM1doX0dQZWNqUjlPOVdFT01aUnJIV0hlZk5TVy0yc3F6eFpVbWJKT25SWmZRam81bUowMGZB?oc=5)
+
+---
+
+### [Automaten-Kaffee: Schwedische Forscher entdecken verstecktes Gesundheitsrisiko](https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcXZESEtpc1I3dUJ6eFRfckRibnNIQlFpdV9SODI1d1B1WW4xYVY5TDBkbjVXSEFLX2FxU3VqSGlLQkxhdzNCVlVhS2ZyblVOb3FmelV0MGY4VDFFWURpQ1cza2lLc1c5VnZUUw?oc=5)
+
+2026-07-25 <span class="news-indication-tag">AF</span>
+
+來源：[t3n](https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcXZESEtpc1I3dUJ6eFRfckRibnNIQlFpdV9SODI1d1B1WW4xYVY5TDBkbjVXSEFLX2FxU3VqSGlLQkxhdzNCVlVhS2ZyblVOb3FmelV0MGY4VDFFWURpQ1cza2lLc1c5VnZUUw?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/bimatoprost/
 2026-07-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 來源：[Grazia.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
+
+---
+
+### [Alzheimer-Prävention: 3.000 Schritte täglich bremsen Tau-Ausbreitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
 
 ---
 
@@ -104,7 +128,7 @@ permalink: /news/bimatoprost/
 
 ### [Dieses Hormon schwindet mit dem Alter – und Forscher glauben, dass es Krebs und Entzündungen begünstigt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
 
@@ -126,11 +150,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [How to avoid West Nile virus as cases start to rise in Europe](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVN1LWl1T3I2X1diTjZSbjdwVUJqUzQyY3V1U2ZuRDNidWxXNVo2alJuWUZEN3daQXRWTzBROU5UdHAwd09qSWZDdVBQS294QUtNOFdxc0oxZU5YSmsxTzdac2w4RXZqZktHR3pPc0ZscFpObUZGenR1YmZsckM5eHNXVlN1M1p2V0FZQXJxaFZMdHJwSVhBbXNnS2FiVzdBSjVCc2NnWQ?oc=5)
+### [Ondate di calore, informazioni utili su sito e canali social del Comune - La Provincia di Cremona](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXdyel9XWnFkSjd1SHd1THF6UGR6elNMNW0yRFl1VXpQMTdTYVhFTTlfLUFacTNIa0g0RV81RnFSVWpXWlRhdl82c0FVQ1RNY20zXzNpdXl0dVN6a1hVcEVqUEFCRHBodF82Q1NZbUtveHl0RVZtR1I4dTdDQnp5RzYxdHlHQzl0UG1sUmxLTzZQb2xLdzVjRDZpczM5R1ZEZVR3b05FNnpYMkowRWN2aHVEYWZtc0RVd3RhTnd3SnZwZVJjQU4w?oc=5)
 
 2026-07-24 <span class="news-indication-tag">AF</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVN1LWl1T3I2X1diTjZSbjdwVUJqUzQyY3V1U2ZuRDNidWxXNVo2alJuWUZEN3daQXRWTzBROU5UdHAwd09qSWZDdVBQS294QUtNOFdxc0oxZU5YSmsxTzdac2w4RXZqZktHR3pPc0ZscFpObUZGenR1YmZsckM5eHNXVlN1M1p2V0FZQXJxaFZMdHJwSVhBbXNnS2FiVzdBSjVCc2NnWQ?oc=5)
+來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXdyel9XWnFkSjd1SHd1THF6UGR6elNMNW0yRFl1VXpQMTdTYVhFTTlfLUFacTNIa0g0RV81RnFSVWpXWlRhdl82c0FVQ1RNY20zXzNpdXl0dVN6a1hVcEVqUEFCRHBodF82Q1NZbUtveHl0RVZtR1I4dTdDQnp5RzYxdHlHQzl0UG1sUmxLTzZQb2xLdzVjRDZpczM5R1ZEZVR3b05FNnpYMkowRWN2aHVEYWZtc0RVd3RhTnd3SnZwZVJjQU4w?oc=5)
 
 ---
 
@@ -174,11 +198,27 @@ permalink: /news/bimatoprost/
 
 ---
 
+### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+
+---
+
 ### [Innere Uhr: 27 Genbereiche steuern Schlafrhythmus und Leistung - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkY3TXEtVG1ZZWhYd0hxTjNtc1Mzdi1abHhwa1NKQ0tEcjhSYjY5ckpiVV80N3lHRWdzSTRSRFIzNFJNQ1IxeWlYb3FXcUoyQkl3WE1aY2hzcnJWNUJNcVFqS3cya3JfVTJsRGtTYTBFRHpqekI4MGdlWGMxS2RsVmh5R2NZWWY0T3BQZjFfbkIxdE9vUFQ5Q1pTVUJWLVp2c1hzcERIakNZUTQ5R3RN?oc=5)
 
 2026-07-24 <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkY3TXEtVG1ZZWhYd0hxTjNtc1Mzdi1abHhwa1NKQ0tEcjhSYjY5ckpiVV80N3lHRWdzSTRSRFIzNFJNQ1IxeWlYb3FXcUoyQkl3WE1aY2hzcnJWNUJNcVFqS3cya3JfVTJsRGtTYTBFRHpqekI4MGdlWGMxS2RsVmh5R2NZWWY0T3BQZjFfbkIxdE9vUFQ5Q1pTVUJWLVp2c1hzcERIakNZUTQ5R3RN?oc=5)
+
+---
+
+### [AstroGeo: Radioaktive Steine, Aasbienen und Ballon-Abenteuer - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSklDeElnMnNSZEhOdWxiTmNyM3lsME1JbFdvZnJsR3BERDQ4aFFOU0RDa0E3NzZmbVdoRzB5elZibTNzaGhaM0lPOTNDam50NElBbm1HaUpzVDdFZldFWnpHUmk2YVZ6VEk2Zk9uMDk0cnlmM3pqUXhZd1V0OVNLR2NtWFptNHVBZ2FUMHVlWEp1NVhpQ2NtWnFwZ1RkNjQ?oc=5)
+
+2026-07-24 <span class="news-indication-tag">AF</span>
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSklDeElnMnNSZEhOdWxiTmNyM3lsME1JbFdvZnJsR3BERDQ4aFFOU0RDa0E3NzZmbVdoRzB5elZibTNzaGhaM0lPOTNDam50NElBbm1HaUpzVDdFZldFWnpHUmk2YVZ6VEk2Zk9uMDk0cnlmM3pqUXhZd1V0OVNLR2NtWFptNHVBZ2FUMHVlWEp1NVhpQ2NtWnFwZ1RkNjQ?oc=5)
 
 ---
 
@@ -195,6 +235,14 @@ permalink: /news/bimatoprost/
 2026-07-24 <span class="news-indication-tag">AF</span>
 
 來源：[Hackaday](https://news.google.com/rss/articles/CBMingFBVV95cUxNbjlfOWxCYUlOaTFmb0wteE5mRkNmUEs3dmgzMjlCUFB5UFR0VHJKUFRHWGhEWURoYWctTWlfNVhiNWpqblY1UjFiWlBKZ0xVNE5EamVwbXhkOWZPMDA5NlVtamlQa1NmTGpQdnJ1WENaWWxQc0ZYQ0xlcDI2QktVSzlHSU40R1BBSHFFOVNPQi1wOWQwTjZFZ0FpSkdaZw?oc=5)
+
+---
+
+### [Southern California suburb alarmed as ‘exceptionally rare’ cancer sickens multiple children - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk1oMGRrNmZDNkc0YkpaN01kVHBjeWdtdWUxaE1iOHhlVW1iYWo2aDk5eTNDdHBZS0RWVjg2SkIycHc2bkhobG5RZi1abTlUSTlwaGJuSDgzdmVsOVdfRUdiY2pqcGc1Qzhsb3JhdXM5dnlzeGREQUQyT1M0WWN0QzBtN0RUWVAzN0hacg?oc=5)
+
+2026-07-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk1oMGRrNmZDNkc0YkpaN01kVHBjeWdtdWUxaE1iOHhlVW1iYWo2aDk5eTNDdHBZS0RWVjg2SkIycHc2bkhobG5RZi1abTlUSTlwaGJuSDgzdmVsOVdfRUdiY2pqcGc1Qzhsb3JhdXM5dnlzeGREQUQyT1M0WWN0QzBtN0RUWVAzN0hacg?oc=5)
 
 ---
 
@@ -222,6 +270,14 @@ permalink: /news/bimatoprost/
 
 ---
 
+### [„Wie ein Parasit“: Forscher finden erstmals ansteckenden Krebs bei Süßwasserfischen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZG1lY3UzY0drdi13WU5pN1lqNWp3VGgzNE5jbkJQOXlGODBKU3NGclNMZU1PbVB6MEtRZmVVZHdEdDVTSk8yd2tsSTFfRXNEUlBXUDJ6UUdwR3Y2dEJCX2xjLWtTWm5ZX0ZDV203QWZYOWVlRGx2ZEpCaHVDWlFnNXdFTnpQZVIwNGdYM2s3THBrYTkxMnE2WFQ0ODVINkE4NFJ3YkhEelBPaEJPYkp3eWdOSkRDbEw2LXFPeFVjZWc?oc=5)
+
+2026-07-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZG1lY3UzY0drdi13WU5pN1lqNWp3VGgzNE5jbkJQOXlGODBKU3NGclNMZU1PbVB6MEtRZmVVZHdEdDVTSk8yd2tsSTFfRXNEUlBXUDJ6UUdwR3Y2dEJCX2xjLWtTWm5ZX0ZDV203QWZYOWVlRGx2ZEpCaHVDWlFnNXdFTnpQZVIwNGdYM2s3THBrYTkxMnE2WFQ0ODVINkE4NFJ3YkhEelBPaEJPYkp3eWdOSkRDbEw2LXFPeFVjZWc?oc=5)
+
+---
+
 ### [Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
 
 2026-07-23 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
@@ -238,43 +294,11 @@ permalink: /news/bimatoprost/
 
 ---
 
-### [Why air travel can be so hard on the body - The Conversation](https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp1LWVJcEVKWFZsOE1uT1ZBV0lhcE0yRmJSUHlDWUVqc01ja3JScHNIbnJ2aDM1SjFqRHh5YTRJbHBBcHNVcEF3OGVqYlRhMUlfQm9mQUlrTE9PbnYwNm85SVJDVDVEcngwMjVQSUJ2R3RTNWlmdWJ4bk5yQ0M0YTZB?oc=5)
-
-2026-07-23 <span class="news-indication-tag">AF</span>
-
-來源：[The Conversation](https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp1LWVJcEVKWFZsOE1uT1ZBV0lhcE0yRmJSUHlDWUVqc01ja3JScHNIbnJ2aDM1SjFqRHh5YTRJbHBBcHNVcEF3OGVqYlRhMUlfQm9mQUlrTE9PbnYwNm85SVJDVDVEcngwMjVQSUJ2R3RTNWlmdWJ4bk5yQ0M0YTZB?oc=5)
-
----
-
-### [Stoke-on-Trent mum goes from size 10 to 20 after 'crippling' pain so bad she thought she'd been poisoned - The Sentinel](https://news.google.com/rss/articles/CBMihAFBVV95cUxNblhBXzB3WUQzZkU4ME5RWFJmWnE1SndoaFV1azlJQjF2X1pYZGZoSi1La2NiUnhEOXExcjNQRGp0QzdVckYzS2ozMlJLeEVpTTAxX0JQY0kyX0JhOWxKNmMtMXhsR1FldHBYMS1TYzhtUlQ1WkhSOW92WkZTNUJNNzU3dm7SAYoBQVVfeXFMTWozeC0xQzQzZWx6emg3YThNUkdjaVdxSG5pMUx4d2lidXVhb3JfY0IyS0p0b3FWWG1HX25JN1hxSXFvU3EyNko5b0ZWMlRlY2VkVzZZeUlGVDQ5akdQWVhXMHRqOWxxUjFkVHZrbF9qeFlBZDVwRGRZUTNjekJSYkgyS3VEeUtVdDV3?oc=5)
-
-2026-07-23 <span class="news-indication-tag">AF</span>
-
-來源：[The Sentinel](https://news.google.com/rss/articles/CBMihAFBVV95cUxNblhBXzB3WUQzZkU4ME5RWFJmWnE1SndoaFV1azlJQjF2X1pYZGZoSi1La2NiUnhEOXExcjNQRGp0QzdVckYzS2ozMlJLeEVpTTAxX0JQY0kyX0JhOWxKNmMtMXhsR1FldHBYMS1TYzhtUlQ1WkhSOW92WkZTNUJNNzU3dm7SAYoBQVVfeXFMTWozeC0xQzQzZWx6emg3YThNUkdjaVdxSG5pMUx4d2lidXVhb3JfY0IyS0p0b3FWWG1HX25JN1hxSXFvU3EyNko5b0ZWMlRlY2VkVzZZeUlGVDQ5akdQWVhXMHRqOWxxUjFkVHZrbF9qeFlBZDVwRGRZUTNjekJSYkgyS3VEeUtVdDV3?oc=5)
-
----
-
-### [Frühe Immun- und Synapsenveränderungen bei Parkinson entdeckt - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3VUZsUTI5ZEd5X1Fjc2ZBSVpkUEQ4dkI0aWFyVllRYWVKdTRxd1l2SDZyS1Z4cVF3SzVmTnFIUWpKc3VvOWF1eFQzUQ?oc=5)
-
-2026-07-23 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3VUZsUTI5ZEd5X1Fjc2ZBSVpkUEQ4dkI0aWFyVllRYWVKdTRxd1l2SDZyS1Z4cVF3SzVmTnFIUWpKc3VvOWF1eFQzUQ?oc=5)
-
----
-
 ### [Millions 'walking around' with early sign of disease 'months before feeling ill'](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEdWM2psOEU3SVk4VmxSa1AyX2xmaWpPVFB6MnZ3REFPTFgzNWl3dFpROC1HcXl6bV9KOHVFbnRTYUFHTFRnS3drUDdKbG5oSDFsN2ZxTTRUY1N2cjllTGxHUnNyTnFtdFp0WkRMaDludE5LNVZGaUhJVlZoSW53RnpLeExuT2s?oc=5)
 
 2026-07-23 <span class="news-indication-tag">AF</span>
 
 來源：[AOL.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEdWM2psOEU3SVk4VmxSa1AyX2xmaWpPVFB6MnZ3REFPTFgzNWl3dFpROC1HcXl6bV9KOHVFbnRTYUFHTFRnS3drUDdKbG5oSDFsN2ZxTTRUY1N2cjllTGxHUnNyTnFtdFp0WkRMaDludE5LNVZGaUhJVlZoSW53RnpLeExuT2s?oc=5)
-
----
-
-### [Potenzmittel könnte Krebs bremsen – Forschende finden neuen Ansatz, wie Sildenafil Metastasen hemmt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
 
 ---
 

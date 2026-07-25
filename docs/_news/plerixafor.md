@@ -14,7 +14,7 @@ permalink: /news/plerixafor/
 ---
 
 <p class="key-answer" data-question="Plerixafor 有什麼相關新聞？">
-<strong>Plerixafor</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Plerixafor</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/plerixafor/
 <p><a href="{{ '/drugs/plerixafor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（28 則）
 
-### [Après des décennies de recherche, enfin une innovation thérapeutique contre le cancer du pancréas - Le Temps](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkdfdlpWcGdBUFhrak1JNkxiRk1lMlVsSm52LVgzcWRqUnItS0VQWFU0YnpOZm5hMmNHZy1lWUVrdnhrdG1nakYyMW1GQUR1YjRKVXFjb2NyZ1BzV0R6ZE9GT09WOGZYc1pFZGNiOU94T0k2RjVrWnFFSmVHMnd2RjcwMXlDQ294MTdLV21qTmpuaTZpeERSWTA2a21BaEo0MjB0bk9HcDQ1eGo5TU1HeTRqelRJa21fbjFCQlhGOW8wd3JIcEVtdFBMUUl5dDg?oc=5)
+### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
-2026-07-25 <span class="news-indication-tag">cancer</span>
+2026-07-25 <span class="news-indication-tag">Krebs</span>
 
-來源：[Le Temps](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkdfdlpWcGdBUFhrak1JNkxiRk1lMlVsSm52LVgzcWRqUnItS0VQWFU0YnpOZm5hMmNHZy1lWUVrdnhrdG1nakYyMW1GQUR1YjRKVXFjb2NyZ1BzV0R6ZE9GT09WOGZYc1pFZGNiOU94T0k2RjVrWnFFSmVHMnd2RjcwMXlDQ294MTdLV21qTmpuaTZpeERSWTA2a21BaEo0MjB0bk9HcDQ1eGo5TU1HeTRqelRJa21fbjFCQlhGOW8wd3JIcEVtdFBMUUl5dDg?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+---
+
+### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
+
+2026-07-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
+
+---
+
+### [Mediziner findet Achillesferse resistenter Brustkrebszellen - Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Krebs</span>
+
+來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/plerixafor/
 
 ---
 
-### [Scientists Discover The Fourth Transmissible Cancer Known To Science](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGRTVXZRZVI3eHdhbzZnQlV2SmVsb29yVUVRVjZwZXlCT3ppb2c2Q2RsY0t6ck5WVm1RR1oxSlQ4R18zYVNpZFpBbEVab2tMZWtpaURKYnJsMTIyWldlUzZKYXptVTd5R2FuNXZReU5famNuUVJJVVFNTklmdnlPeHdZSE5sNjFzUjRvVEd1Ul9GNXVBM2d6YVFXN0JXSnh1WEJpaTFaNjVMRjlQdUJMclk0MFlPSDB1Rk84?oc=5)
+### [Bizarre CRISPR enzyme kills cancer cells by shredding their DNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
 
-2026-07-25 <span class="news-indication-tag">cancer</span>
+2026-07-24 <span class="news-indication-tag">cancer</span>
 
-來源：[Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGRTVXZRZVI3eHdhbzZnQlV2SmVsb29yVUVRVjZwZXlCT3ppb2c2Q2RsY0t6ck5WVm1RR1oxSlQ4R18zYVNpZFpBbEVab2tMZWtpaURKYnJsMTIyWldlUzZKYXptVTd5R2FuNXZReU5famNuUVJJVVFNTklmdnlPeHdZSE5sNjFzUjRvVEd1Ul9GNXVBM2d6YVFXN0JXSnh1WEJpaTFaNjVMRjlQdUJMclk0MFlPSDB1Rk84?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
 
 ---
 
@@ -94,9 +110,17 @@ permalink: /news/plerixafor/
 
 ---
 
+### [Après des décennies de recherche, enfin une innovation thérapeutique contre le cancer du pancréas - Le Temps](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkdfdlpWcGdBUFhrak1JNkxiRk1lMlVsSm52LVgzcWRqUnItS0VQWFU0YnpOZm5hMmNHZy1lWUVrdnhrdG1nakYyMW1GQUR1YjRKVXFjb2NyZ1BzV0R6ZE9GT09WOGZYc1pFZGNiOU94T0k2RjVrWnFFSmVHMnd2RjcwMXlDQ294MTdLV21qTmpuaTZpeERSWTA2a21BaEo0MjB0bk9HcDQ1eGo5TU1HeTRqelRJa21fbjFCQlhGOW8wd3JIcEVtdFBMUUl5dDg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">cancer</span>
+
+來源：[Le Temps](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkdfdlpWcGdBUFhrak1JNkxiRk1lMlVsSm52LVgzcWRqUnItS0VQWFU0YnpOZm5hMmNHZy1lWUVrdnhrdG1nakYyMW1GQUR1YjRKVXFjb2NyZ1BzV0R6ZE9GT09WOGZYc1pFZGNiOU94T0k2RjVrWnFFSmVHMnd2RjcwMXlDQ294MTdLV21qTmpuaTZpeERSWTA2a21BaEo0MjB0bk9HcDQ1eGo5TU1HeTRqelRJa21fbjFCQlhGOW8wd3JIcEVtdFBMUUl5dDg?oc=5)
+
+---
+
 ### [Dieses Hormon schwindet mit dem Alter – und Forscher glauben, dass es Krebs und Entzündungen begünstigt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
 
@@ -158,11 +182,11 @@ permalink: /news/plerixafor/
 
 ---
 
-### [50 cancers repérés dans une goutte de sang avant tout symptôme](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGVmbC1CQlMzdDBReXc5dzdVcHBBWWlHY3diNGFqbFpQUFY2Qkh4RGhrS3hLSTRGVDQzMGtyZUFYVUMzczg4UWtqTG12a1lReGhyaHZGUldOUV80MFBIdkl0WF9OdTJoMlJDNkhIOUZ5VmRlMTlHOW1tSVVJdS1HaXphdlgtUVNRM1ZVZGJsOA?oc=5)
+### [Mit 44 erhielt ich die Diagnose Lungenkrebs im Endstadium – heute feiere ich meinen 50. Geburtstag - Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
 
-2026-07-24 <span class="news-indication-tag">cancer</span>
+2026-07-24 <span class="news-indication-tag">Krebs</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGVmbC1CQlMzdDBReXc5dzdVcHBBWWlHY3diNGFqbFpQUFY2Qkh4RGhrS3hLSTRGVDQzMGtyZUFYVUMzczg4UWtqTG12a1lReGhyaHZGUldOUV80MFBIdkl0WF9OdTJoMlJDNkhIOUZ5VmRlMTlHOW1tSVVJdS1HaXphdlgtUVNRM1ZVZGJsOA?oc=5)
+來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
 
 ---
 
@@ -206,6 +230,14 @@ permalink: /news/plerixafor/
 
 ---
 
+### [Southern California suburb alarmed as ‘exceptionally rare’ cancer sickens multiple children - The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk1oMGRrNmZDNkc0YkpaN01kVHBjeWdtdWUxaE1iOHhlVW1iYWo2aDk5eTNDdHBZS0RWVjg2SkIycHc2bkhobG5RZi1abTlUSTlwaGJuSDgzdmVsOVdfRUdiY2pqcGc1Qzhsb3JhdXM5dnlzeGREQUQyT1M0WWN0QzBtN0RUWVAzN0hacg?oc=5)
+
+2026-07-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRk1oMGRrNmZDNkc0YkpaN01kVHBjeWdtdWUxaE1iOHhlVW1iYWo2aDk5eTNDdHBZS0RWVjg2SkIycHc2bkhobG5RZi1abTlUSTlwaGJuSDgzdmVsOVdfRUdiY2pqcGc1Qzhsb3JhdXM5dnlzeGREQUQyT1M0WWN0QzBtN0RUWVAzN0hacg?oc=5)
+
+---
+
 ### [Brustkrebs: So beeinflusst Kaffee das Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
 
 2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -214,11 +246,11 @@ permalink: /news/plerixafor/
 
 ---
 
-### [Mariano Barbacid, en la UIMP: «En ciencia, hay que intentarlo todo» - El Diario Montañés](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlU0Q1ZLUzV0bjNNcWtxVlhVenNucHpBTmlzWWd0YlNSVlZOajdabUJWb0FtTkg5dnk2N1FZOVhzUEZHVy14ejVZRkZxaU5pRVEwZlMzQ2QyelBWVmdzcTlFWEhoRERMTkM3RkZJLTk2S1l1NC1abm1OeGVHTDRFOWUxenhjZ0l6ZWpYcFRzUmpxQTBjMk9aRWtYaFc2Vl95LVBLaEM4QUxTZ1V2dVp5Z2l6RQ?oc=5)
+### [Le cancer du sein trahi par le sang cinq ans avant les symptômes](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
 
-2026-07-23 <span class="news-indication-tag">tumor</span>
+2026-07-23 <span class="news-indication-tag">cancer</span>
 
-來源：[El Diario Montañés](https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlU0Q1ZLUzV0bjNNcWtxVlhVenNucHpBTmlzWWd0YlNSVlZOajdabUJWb0FtTkg5dnk2N1FZOVhzUEZHVy14ejVZRkZxaU5pRVEwZlMzQ2QyelBWVmdzcTlFWEhoRERMTkM3RkZJLTk2S1l1NC1abm1OeGVHTDRFOWUxenhjZ0l6ZWpYcFRzUmpxQTBjMk9aRWtYaFc2Vl95LVBLaEM4QUxTZ1V2dVp5Z2l6RQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
 
 ---
 
@@ -230,11 +262,11 @@ permalink: /news/plerixafor/
 
 ---
 
-### [Pancréas, foie, testicule, poumon, prostate… Certains cancers progressent en nombre, d'autres régressent - La Libre.be](https://news.google.com/rss/articles/CBMigwJBVV95cUxNLTJ6M19lbmxCSWpSOXA5dzh1YmxzdlM0cE02NDZBbE13dk9BVHdmNVN2Q1ZjWmFRVUtYVkVYX242WGJ2QzBaMG5GSHh1S2RBcTF2VmU4ZTNoUGIxUHhTZW9EYmFhRUw2YWpWZm44bGh0VVdjVXJIUTBJaGl2LVNMYlBxTnk4Sm85VjVJcEVDZk1xNXgwb28zTjZ0SFltWHVxWlhIYVRuS2p2NGZOb3ZTX0ZEa2R6bWg3UHJVVlQ5NkV2Rk1mNUg0ZFFpcC1aQVFOejRrb3Rwc1N4TDVqRDhqX0c5YkdjcVp5TUo5NlJod0t6c01IX2VzRm9ocmczVkVmV3FR?oc=5)
+### [„Wie ein Parasit“: Forscher finden erstmals ansteckenden Krebs bei Süßwasserfischen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZG1lY3UzY0drdi13WU5pN1lqNWp3VGgzNE5jbkJQOXlGODBKU3NGclNMZU1PbVB6MEtRZmVVZHdEdDVTSk8yd2tsSTFfRXNEUlBXUDJ6UUdwR3Y2dEJCX2xjLWtTWm5ZX0ZDV203QWZYOWVlRGx2ZEpCaHVDWlFnNXdFTnpQZVIwNGdYM2s3THBrYTkxMnE2WFQ0ODVINkE4NFJ3YkhEelBPaEJPYkp3eWdOSkRDbEw2LXFPeFVjZWc?oc=5)
 
-2026-07-23 <span class="news-indication-tag">cancer</span>
+2026-07-23 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMigwJBVV95cUxNLTJ6M19lbmxCSWpSOXA5dzh1YmxzdlM0cE02NDZBbE13dk9BVHdmNVN2Q1ZjWmFRVUtYVkVYX242WGJ2QzBaMG5GSHh1S2RBcTF2VmU4ZTNoUGIxUHhTZW9EYmFhRUw2YWpWZm44bGh0VVdjVXJIUTBJaGl2LVNMYlBxTnk4Sm85VjVJcEVDZk1xNXgwb28zTjZ0SFltWHVxWlhIYVRuS2p2NGZOb3ZTX0ZEa2R6bWg3UHJVVlQ5NkV2Rk1mNUg0ZFFpcC1aQVFOejRrb3Rwc1N4TDVqRDhqX0c5YkdjcVp5TUo5NlJod0t6c01IX2VzRm9ocmczVkVmV3FR?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZG1lY3UzY0drdi13WU5pN1lqNWp3VGgzNE5jbkJQOXlGODBKU3NGclNMZU1PbVB6MEtRZmVVZHdEdDVTSk8yd2tsSTFfRXNEUlBXUDJ6UUdwR3Y2dEJCX2xjLWtTWm5ZX0ZDV203QWZYOWVlRGx2ZEpCaHVDWlFnNXdFTnpQZVIwNGdYM2s3THBrYTkxMnE2WFQ0ODVINkE4NFJ3YkhEelBPaEJPYkp3eWdOSkRDbEw2LXFPeFVjZWc?oc=5)
 
 ---
 
@@ -243,62 +275,6 @@ permalink: /news/plerixafor/
 2026-07-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[01net.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTRXMHYxSjZQWlNnSWx3blRBV294YTdVcEwwWFZVRV8tSWFGNy1NNFdTTDBoZWQ4V1hiRFJ2RG1QMVFyUjVkenlubVdTSmlZT01LSG0tdVNKYmhCb0RGVzlDZzNORzY2TG52R01ZZmJsMklfdEZFX3E3bGNRbjZpZTI1Sy12RGtKQXJNUHE4RFpKa0Y0bWc?oc=5)
-
----
-
-### [Un estudio de la ULL halla en el genoma de peces de Canarias una capacidad «extraordinaria» para combatir células tumorales](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXgySEhKaTJsWmlXNEZpX28wRE1TRjh4LWdIcWNDb25mdVBVQndWa04yOHhZSVlOWE1OWmpjd1RvZUFienZKYXJXUXFSSjlFYm9zTGdVWXJFUzZoUDVxRm5wQ3dqTE41S3RET29CczhwSnJ6Tk1abjhJVzlOOFR0YWNlVXlfLV9uZWJNcDNXbl83V1BMcVNJR3B5Sy1wZHNaSHF3TmhOMTlCVW9pMU91VE1wMjdqTEHSAbwBQVVfeXFMUF9LM2l2enVYOHBtMzdXVVJlRVpmTmZkWkphNlNkX0NRS2ZsZ3RUSHJaZ0U2NllTNDZFSVRwNkR2WDduMnNrSTRxaExkVTRxU2pjTFFMcWg3S1ZUem15M0thQzF0aFpDVTROa2J0SFlwZ1ZEN0NDOHVFSGpWcGczUjVEYktOV1IzVjNNTWppa2R6ZGhyaEtNeVhOTzdOcXM2RC1JMVMtUkUzbTkwYUQzS3dJQXV6anlXNzFNaXA?oc=5)
-
-2026-07-23 <span class="news-indication-tag">tumor</span>
-
-來源：[Canarias7](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXgySEhKaTJsWmlXNEZpX28wRE1TRjh4LWdIcWNDb25mdVBVQndWa04yOHhZSVlOWE1OWmpjd1RvZUFienZKYXJXUXFSSjlFYm9zTGdVWXJFUzZoUDVxRm5wQ3dqTE41S3RET29CczhwSnJ6Tk1abjhJVzlOOFR0YWNlVXlfLV9uZWJNcDNXbl83V1BMcVNJR3B5Sy1wZHNaSHF3TmhOMTlCVW9pMU91VE1wMjdqTEHSAbwBQVVfeXFMUF9LM2l2enVYOHBtMzdXVVJlRVpmTmZkWkphNlNkX0NRS2ZsZ3RUSHJaZ0U2NllTNDZFSVRwNkR2WDduMnNrSTRxaExkVTRxU2pjTFFMcWg3S1ZUem15M0thQzF0aFpDVTROa2J0SFlwZ1ZEN0NDOHVFSGpWcGczUjVEYktOV1IzVjNNTWppa2R6ZGhyaEtNeVhOTzdOcXM2RC1JMVMtUkUzbTkwYUQzS3dJQXV6anlXNzFNaXA?oc=5)
-
----
-
-### [Ibs.Granada se incorpora a Cancer Prevention Europe, consorcio europeo de referencia en prevención del cáncer](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX2xycEc4OGw4TmxrZXR6OS1RX0lrb1E3Um9LckoxT0V3WkE0bEVFeHE4X2UtLTYtYWVCaWpzazNySXFWTXNvM0lxRzl0RU1wb1BZdE9PeHNpUWllR29YQVpoTGlWT1lnaTkwUzVGc1FHc3NmOTNza0ZnVUFWMW1ScjN2ZjAzaFBuQ3JVU3h2TkI4ME92VWRPRklwaFZQclh2RTRNSXZWZGR5WTktQjl5bUhfRkNMNFp6OUpQQjhxWDU3TV9TZkROMXQ1WDVpd19WLUhxaXRCbzBJSGY1eV8yU3J2ZVZOXzZuZnlMOEotdjZraDkxbVd30gH8AUFVX3lxTFB4bE1FNEJpeG0zeVZGNk8xSDNfMmVGMUdYUmVtX0lzakpBdm5ZSEZwQlhJMWNnZEIwSVZTbXlobGNZc0lkMGdxRkFNR1BObjl6S3Z3LWp3bDZRcnlVZDZ1WlhZZ1BiNG9oeDZqMU5lN3E1bm9Tdm0xREhlbm5pRmJGQzF5UFUyMEZ2c284UEhIOUFvWGxCd3NuaEhWQXNkcU9ldFFaTFBCcFRJRFNZWnVKd0o4VnhpbnRsc2lodF9GQUFYSFlSNVkteFpXZkRSd0k2dHNGeDF5bXk3dmVSUXBSR1hObHVWVDFsTDJJVFBzaU9oSEtRY0hpeDUwTA?oc=5)
-
-2026-07-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Teleprensa](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX2xycEc4OGw4TmxrZXR6OS1RX0lrb1E3Um9LckoxT0V3WkE0bEVFeHE4X2UtLTYtYWVCaWpzazNySXFWTXNvM0lxRzl0RU1wb1BZdE9PeHNpUWllR29YQVpoTGlWT1lnaTkwUzVGc1FHc3NmOTNza0ZnVUFWMW1ScjN2ZjAzaFBuQ3JVU3h2TkI4ME92VWRPRklwaFZQclh2RTRNSXZWZGR5WTktQjl5bUhfRkNMNFp6OUpQQjhxWDU3TV9TZkROMXQ1WDVpd19WLUhxaXRCbzBJSGY1eV8yU3J2ZVZOXzZuZnlMOEotdjZraDkxbVd30gH8AUFVX3lxTFB4bE1FNEJpeG0zeVZGNk8xSDNfMmVGMUdYUmVtX0lzakpBdm5ZSEZwQlhJMWNnZEIwSVZTbXlobGNZc0lkMGdxRkFNR1BObjl6S3Z3LWp3bDZRcnlVZDZ1WlhZZ1BiNG9oeDZqMU5lN3E1bm9Tdm0xREhlbm5pRmJGQzF5UFUyMEZ2c284UEhIOUFvWGxCd3NuaEhWQXNkcU9ldFFaTFBCcFRJRFNZWnVKd0o4VnhpbnRsc2lodF9GQUFYSFlSNVkteFpXZkRSd0k2dHNGeDF5bXk3dmVSUXBSR1hObHVWVDFsTDJJVFBzaU9oSEtRY0hpeDUwTA?oc=5)
-
----
-
-### [Potenzmittel könnte Krebs bremsen – Forschende finden neuen Ansatz, wie Sildenafil Metastasen hemmt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
-
----
-
-### [Mit 44 erhielt ich die Diagnose Lungenkrebs im Endstadium – heute feiere ich meinen 50. Geburtstag - Business Insider Deutschland](https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTF0T1g3NkJTLTFBRXJBNngzQjJWZGViVnluT2tSWjJ0T1cyeG53d3N1aVZKZ3hMenhHZFZnaHlOaW16SzN0M1Mwdl9BdkZlM1lZNWVSNVR0aVhqWW9nUU0xSllaOWhvMVB2UmNZUHJDUTBENWhvZWRCNzJDNHY2Sk1WVElobGIyMlZ5Z1NtbzRtbkRYZ1dyMTloVXozZFlFaHZfTlEyeEpyakRoTi1oWA?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTF0T1g3NkJTLTFBRXJBNngzQjJWZGViVnluT2tSWjJ0T1cyeG53d3N1aVZKZ3hMenhHZFZnaHlOaW16SzN0M1Mwdl9BdkZlM1lZNWVSNVR0aVhqWW9nUU0xSllaOWhvMVB2UmNZUHJDUTBENWhvZWRCNzJDNHY2Sk1WVElobGIyMlZ5Z1NtbzRtbkRYZ1dyMTloVXozZFlFaHZfTlEyeEpyakRoTi1oWA?oc=5)
-
----
-
-### [Una vacuna experimental logra activar el sistema inmunitario frente al principal gen implicado en el cáncer de páncreas](https://news.google.com/rss/articles/CBMimgJBVV95cUxQcGNIeTBveVNNN0hRaWdrSzduc3lvNlM3V1pLdF9wekhseE9NM2F1RXY0UjBmVzRuRWtudUV6UnFFZmFPRE9rc1lGMWVyMTZQYUNHbDBySVNKMzBqeUJNMlQ4RmZxSG1Pd3I2NGRnYXNkeVppbmVxTm9qVTRPQ1FDWjFVb1JVbGFucWFCbjEyUjlpeXIwVEVTOVB2S0JGLWNia0VDMEhTQ2NFR3o2S0Y2bHRBYnJ0eGE2UG5aSE1FcmlvMU1nU2hQNHNZU1EtY3RGT2tRU21WNVdiTUsyV0RyTlgtbm5NMGZlM25hNGxvc0RSanhOWWM4dkJLYng5SGU5QVhqQ2ZHMjNFTVlXSVZ5RloyeHZxaVAtNUHSAZoCQVVfeXFMTlJ4YUFyY3pDMW9VRDgxMS1QYVA1MlpoMUx5dEZtaDJEZHFTMERMQWVPejd2NC0wck5kaHZ2STA2NVc3LTZoWUtMbjR4VVhQUTlaRDFFTEVOdFFmSlZVeV8zQkVNa2ozRkFPUVNlSnJzVE1GWkwyU3ZraEMtcTBMQTJaQXpQYzhLNEJSMkVhcTItWE4zU01vcjRiRVYxMTFlMGxTNjVFQ0VNb3BrMk9mRWVKR1JmRWl1U3EyWDFRV2ZwWE84Yzd3blJ0N0x6MmJQSks5cGpNTDllNjNhR3dfOEg2VV9iVTFHdktmWl9FUTd6dXJ3Zi1ocXJqYXliTFY3VG9fVEJPUVVkU2RKOXVxRENpOUpHcW5jVXRR?oc=5)
-
-2026-07-23 <span class="news-indication-tag">tumor</span>
-
-來源：[LaSexta](https://news.google.com/rss/articles/CBMimgJBVV95cUxQcGNIeTBveVNNN0hRaWdrSzduc3lvNlM3V1pLdF9wekhseE9NM2F1RXY0UjBmVzRuRWtudUV6UnFFZmFPRE9rc1lGMWVyMTZQYUNHbDBySVNKMzBqeUJNMlQ4RmZxSG1Pd3I2NGRnYXNkeVppbmVxTm9qVTRPQ1FDWjFVb1JVbGFucWFCbjEyUjlpeXIwVEVTOVB2S0JGLWNia0VDMEhTQ2NFR3o2S0Y2bHRBYnJ0eGE2UG5aSE1FcmlvMU1nU2hQNHNZU1EtY3RGT2tRU21WNVdiTUsyV0RyTlgtbm5NMGZlM25hNGxvc0RSanhOWWM4dkJLYng5SGU5QVhqQ2ZHMjNFTVlXSVZ5RloyeHZxaVAtNUHSAZoCQVVfeXFMTlJ4YUFyY3pDMW9VRDgxMS1QYVA1MlpoMUx5dEZtaDJEZHFTMERMQWVPejd2NC0wck5kaHZ2STA2NVc3LTZoWUtMbjR4VVhQUTlaRDFFTEVOdFFmSlZVeV8zQkVNa2ozRkFPUVNlSnJzVE1GWkwyU3ZraEMtcTBMQTJaQXpQYzhLNEJSMkVhcTItWE4zU01vcjRiRVYxMTFlMGxTNjVFQ0VNb3BrMk9mRWVKR1JmRWl1U3EyWDFRV2ZwWE84Yzd3blJ0N0x6MmJQSks5cGpNTDllNjNhR3dfOEg2VV9iVTFHdktmWl9FUTd6dXJ3Zi1ocXJqYXliTFY3VG9fVEJPUVVkU2RKOXVxRENpOUpHcW5jVXRR?oc=5)
-
----
-
-### [Warum erkranken immer mehr junge Menschen an Krebs? Neue Studie liefert konkrete Hinweise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWM2Y1lnZlZWMi15YWpIWWh4ZWxxWjlLWWlNYTR3NVZSVnpuS2V4UVhXVU9KbV83Q3AwM1FKQU13dXY2M0NUUFRseG9mTk16c3Jvc0pJamljeVVkbDhVOWtMNVhIRGpPX3lVdldkM2MwM0xjUjNZMm9UdDc4T25JUzFtMTBPZ3hqUVZ2ZlRRY0JDT0xKRWp2NklaUFpIVGROSmVFTXIwYkk?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Krebs</span>
-
-來源：[Merkur](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWM2Y1lnZlZWMi15YWpIWWh4ZWxxWjlLWWlNYTR3NVZSVnpuS2V4UVhXVU9KbV83Q3AwM1FKQU13dXY2M0NUUFRseG9mTk16c3Jvc0pJamljeVVkbDhVOWtMNVhIRGpPX3lVdldkM2MwM0xjUjNZMm9UdDc4T25JUzFtMTBPZ3hqUVZ2ZlRRY0JDT0xKRWp2NklaUFpIVGROSmVFTXIwYkk?oc=5)
-
----
-
-### [Tumori del colon-retto, come aspirina e dieta pesco-vegetariana proteggono l'intestino - la Repubblica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR3RXRTFCeGcyLUR3ZER6aWx1U3RmSkc3c3U0dFR3VGlpVUZwcVMzWXBRZW9nQ0c4TTFoclhtUnBrcFFhREtHRmVVeDFFY0MtT1JCWWRtbDZrNG5DZ2NlREc3dUJwN3dyMm9XUjNxMk1TN3ZueVJqM3Q4MGVFb0s0MFNQSTZIY0ppSWk1MlVsYTlsWEdPVnNOS3Q3ZkE2SHRwblNDcUJGX1BfbUdTUTBfSVUtRkZVUnBEYkpQclRsSTlKR3lINU5kWjMtdnlHUzBmWVNqd2I4VjhvcktHbDZURlpieHp0eEt0T1k2MGJKdEZ3dmvSAfgBQVVfeXFMT25wYjFDTzBTcTNVSkpia1JJRzlBRWlLMmpPT1NVTk1OYjg2Ykd4MFNzYjN4Ynl0ZURGVzB3aW1lNVYtWlU3eWdXcmtteTE4WmtnQWxnUi1oRzB3alN0SGlBSWEtLVFSZWhKZGNyT1YzWFo5eklaVUliZ2tSX3pmMnA3VFd5YmgzVnJBQ3hvam83Qy1BSkNuNUtEYlJsQVFNVjFXVkRuUTdQOFh6RkxpWVpFMTNWb1gwcUJxRWw2Q24tUUFMbEd2MldCMG5KV1FuakJvS3Fpd3hmc21mMDdidXlWaFdWS2U3aE1jQ3JGVlBNRV9pcEMxbmc?oc=5)
-
-2026-07-23 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR3RXRTFCeGcyLUR3ZER6aWx1U3RmSkc3c3U0dFR3VGlpVUZwcVMzWXBRZW9nQ0c4TTFoclhtUnBrcFFhREtHRmVVeDFFY0MtT1JCWWRtbDZrNG5DZ2NlREc3dUJwN3dyMm9XUjNxMk1TN3ZueVJqM3Q4MGVFb0s0MFNQSTZIY0ppSWk1MlVsYTlsWEdPVnNOS3Q3ZkE2SHRwblNDcUJGX1BfbUdTUTBfSVUtRkZVUnBEYkpQclRsSTlKR3lINU5kWjMtdnlHUzBmWVNqd2I4VjhvcktHbDZURlpieHp0eEt0T1k2MGJKdEZ3dmvSAfgBQVVfeXFMT25wYjFDTzBTcTNVSkpia1JJRzlBRWlLMmpPT1NVTk1OYjg2Ykd4MFNzYjN4Ynl0ZURGVzB3aW1lNVYtWlU3eWdXcmtteTE4WmtnQWxnUi1oRzB3alN0SGlBSWEtLVFSZWhKZGNyT1YzWFo5eklaVUliZ2tSX3pmMnA3VFd5YmgzVnJBQ3hvam83Qy1BSkNuNUtEYlJsQVFNVjFXVkRuUTdQOFh6RkxpWVpFMTNWb1gwcUJxRWw2Q24tUUFMbEd2MldCMG5KV1FuakJvS3Fpd3hmc21mMDdidXlWaFdWS2U3aE1jQ3JGVlBNRV9pcEMxbmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
+
+### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
+
+2026-07-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
+
+---
+
+### [Aumentano i casi di West Nile in Europa, l'Italia la più colpita](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUDRtaktXTlJPQzd1emFMMjhhN0d5Q2FKZ05DZFJoYUlXNXQ4V3lYWVlTMXBNQ2dLNWF6X3Z3cnRBbzNlU2k5Z2YwcmdLUlNnSmMyMzFKVGNCd3VYTjBZY0pTX1NFSFFQbllMU3B4MG1JSjl5ZEM4WjFLQ180WFpGOE1WZHg3QUFsUm5uODN5cmZjNmx4ZEdlTzI1bjJQUDRndDRJOEtJM1doX0dQZWNqUjlPOVdFT01aUnJIV0hlZk5TVy0yc3F6eFpVbWJKT25SWmZRam81bUowMGZB?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUDRtaktXTlJPQzd1emFMMjhhN0d5Q2FKZ05DZFJoYUlXNXQ4V3lYWVlTMXBNQ2dLNWF6X3Z3cnRBbzNlU2k5Z2YwcmdLUlNnSmMyMzFKVGNCd3VYTjBZY0pTX1NFSFFQbllMU3B4MG1JSjl5ZEM4WjFLQ180WFpGOE1WZHg3QUFsUm5uODN5cmZjNmx4ZEdlTzI1bjJQUDRndDRJOEtJM1doX0dQZWNqUjlPOVdFT01aUnJIV0hlZk5TVy0yc3F6eFpVbWJKT25SWmZRam81bUowMGZB?oc=5)
+
+---
 
 ### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
 
@@ -70,14 +86,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Alzheimer-Risiko senken: 3.000 Schritte, Bewegung & neue Biomarker - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1VWEVnc2JiR2hmOTF5NURoUVlnbVJJb3VmdmZtWlV5UWhiWkNiN2pNN0NkSjVOSlIxQ0l4Y0ctRFU1ajl4SEQ1VEFwQzNBQWJkWWdRdFNIOHhEbDhWMnNxa2pPcXE4VDVZUWl0OC1kYlU1SzRVU0ZBbmxvZWw4T0RMSUstM2FfUHZxaVZRaU9yOGVrTm1QbVRR?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1VWEVnc2JiR2hmOTF5NURoUVlnbVJJb3VmdmZtWlV5UWhiWkNiN2pNN0NkSjVOSlIxQ0l4Y0ctRFU1ajl4SEQ1VEFwQzNBQWJkWWdRdFNIOHhEbDhWMnNxa2pPcXE4VDVZUWl0OC1kYlU1SzRVU0ZBbmxvZWw4T0RMSUstM2FfUHZxaVZRaU9yOGVrTm1QbVRR?oc=5)
-
----
-
 ### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
@@ -86,11 +94,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Dieses Hormon schwindet mit dem Alter – und Forscher glauben, dass es Krebs und Entzündungen begünstigt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
+### [Alzheimer-Prävention: 3.000 Schritte täglich bremsen Tau-Ausbreitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/pibrentasvir/
 2026-07-24 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdaRk1vY1pieks3MjdOZFZFV3NvS1Q3Q0RKcGlzcEwwRDh5NXR2T2xudnlIOE9YMkl6WW16bGh1SnJ4SXNyeF9GaEJlQjhmeUc4Q3BSaDhPT2N6X3ZqTHNkTUFkWG96aVFFZUtRSnBtZG0xd3hsZkdtS19PeDFQNDc3V3NzVUliaTdCaFc5TDJXS3RrckF3UDdIbmU5UzJUb083clBjV3FHeUlGUVNZMWFCREtXWWtRQjMw0gG2AUFVX3lxTE5vdDJfbkZqNmZKWkFXM2U1S1pKMUtCMWwtWnBHTk51VWh4Z2ljamVRMmZLNjZ1NUlxOXJNeXA1b0s2MG95a0prZURqNklpbnNkTHF3ZjZZYW5ONFNvLTFHcm5UT3F3aGU3anFiUDJMREU1aE04V3JTNjR2a3ZFMzgwZDVVTktqRksyaW02OG9tdzRCNndyQmctekxyVldvbUNEbjZla0YtR1lnTWV4NHp0Mnpic0FR?oc=5)
-
----
-
-### [El autocuidado vascular es clave para prevenir el 90% de los ictus y proteger la salud cerebral - Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVk3aFZJZTZfOG50d25scW1laWktTVFmMUp4Wnc4M3J0Z25ZMWMzMXBiVWFmSUM0WDhDbTJEZHpQaHlkXzlIZS1Fc2JWTGRxemdzMVVMdDEtMl96YUhVVjBpNU42T2dPTTdfYllPdkgyOUNDVW1fTmVBcDBYS2cySHVkR2dXZjlBVEF0SkZkR0pkQkNJY2VGdTB6OGNlOXZJNDhTZFJfOHZGTTh4MDUydFg4cmxJUlN0QnU1WEtCbW5NYkpuSU1QaXpmMFBuMFoz?oc=5)
-
-2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
-
-來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVk3aFZJZTZfOG50d25scW1laWktTVFmMUp4Wnc4M3J0Z25ZMWMzMXBiVWFmSUM0WDhDbTJEZHpQaHlkXzlIZS1Fc2JWTGRxemdzMVVMdDEtMl96YUhVVjBpNU42T2dPTTdfYllPdkgyOUNDVW1fTmVBcDBYS2cySHVkR2dXZjlBVEF0SkZkR0pkQkNJY2VGdTB6OGNlOXZJNDhTZFJfOHZGTTh4MDUydFg4cmxJUlN0QnU1WEtCbW5NYkpuSU1QaXpmMFBuMFoz?oc=5)
 
 ---
 
@@ -150,11 +150,27 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Studie: Hoher Süßstoffkonsum könnte das Gedächtnis schneller altern lassen](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnFKZzVoaVZMV2g1VU1Ob3JyVmVSQkhnZFg0WnVxVTJ3VmtfejZ6ZkVYMHo1YUJQaFBqNHRlb3h6bGxhS3Y1OWo4MXVpSU9EYjhNX2dDRVU4UVRScjNrSlRtZzNqU0tPTXVoN0Zwc2s2ZlBKdDdCWkRrd2RUWUtSZnhoVHZhSWdIbFRRRjg3ZnhaQjVVQkVaYjF2SlJkUjE3QnExSi0xdDVuYWwzN3hpRGxXWQ?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnFKZzVoaVZMV2g1VU1Ob3JyVmVSQkhnZFg0WnVxVTJ3VmtfejZ6ZkVYMHo1YUJQaFBqNHRlb3h6bGxhS3Y1OWo4MXVpSU9EYjhNX2dDRVU4UVRScjNrSlRtZzNqU0tPTXVoN0Zwc2s2ZlBKdDdCWkRrd2RUWUtSZnhoVHZhSWdIbFRRRjg3ZnhaQjVVQkVaYjF2SlJkUjE3QnExSi0xdDVuYWwzN3hpRGxXWQ?oc=5)
+
+---
+
 ### [rbb GESUND - Wenn die Blasenentzündung immer wiederkommt](https://news.google.com/rss/articles/CBMipAFBVV95cUxPejNKQU5GWWxETjVSbFdrZ0JRajc0MTNkMmFOU181Rnhya0E1ajNaQVlDa0pvN1NlMjZHS2d0UUx6UFo3dm56Z3hiTUhyQ3paWngwbEJLZ0xFcm1YRml5V0xZZjNtdTR5VzVINktHSXg3NVFsYUdOTEthT0tPYnFYU1pxR2pUQnlCZVdvQTdFU1c0eDBpeUJRak03NUEtR1JvTndYNA?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
 
 來源：[Inforadio](https://news.google.com/rss/articles/CBMipAFBVV95cUxPejNKQU5GWWxETjVSbFdrZ0JRajc0MTNkMmFOU181Rnhya0E1ajNaQVlDa0pvN1NlMjZHS2d0UUx6UFo3dm56Z3hiTUhyQ3paWngwbEJLZ0xFcm1YRml5V0xZZjNtdTR5VzVINktHSXg3NVFsYUdOTEthT0tPYnFYU1pxR2pUQnlCZVdvQTdFU1c0eDBpeUJRak03NUEtR1JvTndYNA?oc=5)
+
+---
+
+### [« Les conditions de sa propagation évoluent » : l’OMS alerte l’Europe face à la recrudescence des cas d’un virus potentiellement mortel - RTL Info](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX1puLWQ5bWZzRWNmS3hsNzlhcXhZVno0M1JhZXItLU1ZTGc0QjBFWUFhbEwxajlWU2QzeFVPM1pmbVEzUGxYXzl2TzlEVnR0bkVDT0VHYWYzTUk5dzEtVVYwTnZKdVFDb1czbzFzS1NHRm5hM1ZsbVBzR2JGcjZMUkNuN1YxeDI3bUM1ZEJFQUtORU1pc1UtdlF2VkdzU0dPaEZ4YWxqeXRuNFh2TE4wY1Y1bUZsYW5KampqQzlKRGVMdzdhancyb0x2YkdIOTV2dURianJR?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[RTL Info](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX1puLWQ5bWZzRWNmS3hsNzlhcXhZVno0M1JhZXItLU1ZTGc0QjBFWUFhbEwxajlWU2QzeFVPM1pmbVEzUGxYXzl2TzlEVnR0bkVDT0VHYWYzTUk5dzEtVVYwTnZKdVFDb1czbzFzS1NHRm5hM1ZsbVBzR2JGcjZMUkNuN1YxeDI3bUM1ZEJFQUtORU1pc1UtdlF2VkdzU0dPaEZ4YWxqeXRuNFh2TE4wY1Y1bUZsYW5KampqQzlKRGVMdzdhancyb0x2YkdIOTV2dURianJR?oc=5)
 
 ---
 
@@ -190,27 +206,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Mutter der Braut bricht auf der Hochzeit zusammen – Ärzte finden seltenes „Happy-Heart-Syndrom“](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVdQaGQzT3d2R1pxbE9LMFNmTUhSakNtTXhMcEZyM3BCZnNrVDlYQVJyZzlUbjluQ3RYb08yc25iUVBwWEhOaVc4el93QWpYZHVtN05XS1pUdHdRejNScy1JMkVMdzlPVkl4ekgzYkVQbXI3VUhSZndrQXhLbUNfZXF3S2dEOWpRME9vc2FvMjdlaC1INmwta0FfZzc?oc=5)
+
+2026-07-23 <span class="news-indication-tag">MS</span>
+
+來源：[fnp.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVdQaGQzT3d2R1pxbE9LMFNmTUhSakNtTXhMcEZyM3BCZnNrVDlYQVJyZzlUbjluQ3RYb08yc25iUVBwWEhOaVc4el93QWpYZHVtN05XS1pUdHdRejNScy1JMkVMdzlPVkl4ekgzYkVQbXI3VUhSZndrQXhLbUNfZXF3S2dEOWpRME9vc2FvMjdlaC1INmwta0FfZzc?oc=5)
+
+---
+
 ### [Ocrelizumab: Ein Funke Hoffnung bei schwerer MS](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzNWdGYtSGRZb3JUWXlIWkRaU09IRGduRkg4TC1DTEdBWTczQ3hRb3Y0dXNHSlkzek5RYlVReEJBd0o5X29EdjBYZnBKRkx4eGFxSjdZXzNSMmhHVTNVNk9vaGt3WEdHUUFXeTVrYTZzNm9od19MVkdCMkRIenBTQ3owdUhONWFxeWJhdUV1SGhJaVdjdUJoU0JJZ1Y?oc=5)
 
 2026-07-23 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
 
 來源：[doccheck.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzNWdGYtSGRZb3JUWXlIWkRaU09IRGduRkg4TC1DTEdBWTczQ3hRb3Y0dXNHSlkzek5RYlVReEJBd0o5X29EdjBYZnBKRkx4eGFxSjdZXzNSMmhHVTNVNk9vaGt3WEdHUUFXeTVrYTZzNm9od19MVkdCMkRIenBTQ3owdUhONWFxeWJhdUV1SGhJaVdjdUJoU0JJZ1Y?oc=5)
-
----
-
-### [Potenzmittel könnte Krebs bremsen – Forschende finden neuen Ansatz, wie Sildenafil Metastasen hemmt](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2gxZjRnUjh1WjRLVW5zeEZSWDlhRjYtNlRPTXIxenA2Mk5lb1g2d1pFMzdQVTRNaHd4WURUTG9sQ1lTQVZ6c2pwaENodWFQWUYxRzQ4c01RNnRFX0lYNHhpQlRHWVJWSHk4eTNRUm9VTFloY2ZGUFJ3NmwxV25TbTRydGw5TVhjRXFSQ0NGRTgtWXJrVFdYQVh4Nkc0RUdFNHBMWm14ZXR0YXR6Z0FaYy1pZkg0S2t2Zi1OSzU3ZDRlcFctdGhjS2I2X29VZw?oc=5)
-
----
-
-### ['Life-changing' drug to help MS patients walk available to thousands on NHS - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
-
-2026-07-23 <span class="news-indication-tag">multiple sclerosis</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
 
 ---
 

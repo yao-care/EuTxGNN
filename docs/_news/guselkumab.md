@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（13 則）
+
+### [La exposición infantil a la contaminación atmosférica se relaciona con un mayor riesgo de síndrome metabólico - Salud a Diario](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQnh5Mm5fRzdVN2lNLWVjVHRrQ2QxSXZaV2Z6cmZHN1BzM3JycTFpTDVCemhxTE9Ha1l2RkFZeUhSdzByVjZib0FwQzVrVjYwS2c5TVZSaUxDYlRaTWg2bGxRYzlaOGZHcDU2bHM0VUZVV1BEN0lhc0RyQklqMzhUVHNIQWVyc1RBX0dlTVdkajloSE1FQXNfTDBSaWs0WF9Xc0VaVWdLRUdJWUdXdFpTOGhWQmR5cFlmZ1hmVlE1aEVmSERGMFlzbndSQ0NHemhBckh1NlNhVnVjSXhhbVdvZVZSZHotVHc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">diabetes</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQnh5Mm5fRzdVN2lNLWVjVHRrQ2QxSXZaV2Z6cmZHN1BzM3JycTFpTDVCemhxTE9Ha1l2RkFZeUhSdzByVjZib0FwQzVrVjYwS2c5TVZSaUxDYlRaTWg2bGxRYzlaOGZHcDU2bHM0VUZVV1BEN0lhc0RyQklqMzhUVHNIQWVyc1RBX0dlTVdkajloSE1FQXNfTDBSaWs0WF9Xc0VaVWdLRUdJWUdXdFpTOGhWQmR5cFlmZ1hmVlE1aEVmSERGMFlzbndSQ0NHemhBckh1NlNhVnVjSXhhbVdvZVZSZHotVHc?oc=5)
+
+---
 
 ### [Une image du fond de l’œil pourrait trahir un diabète encore invisible](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
 
 2026-07-25 <span class="news-indication-tag">diabète</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
-
----
-
-### [Morbus Crohn: Neue Blutmarker erkennen Krankheit zehn Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
 
 ---
 
@@ -126,19 +126,19 @@ permalink: /news/guselkumab/
 
 ---
 
+### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+
+---
+
 ### [Neue Diabetes-Tech Übersicht: Pumpen, Sensoren und kommende Technologien auf einen Blick](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
-
----
-
-### [Diabete e attività fisica in pensione: perché il golf e altri sport aerobici possono essere più adatto del tennis](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUZhNHNoV3p0bEdoZUVVMGtrSnducmhoaWVySUdTSTNMRGhJZ3RzbnZqQ0ZpU0dJWkpLNUNKZ0M5SHNKcTg0c3N2X2dNNGw3UEdnbWZILUFWZFUxMWJxdDhZYU9MRUtVSHBfWlVodXMzRElJRXAzb05ZTlpVR2QwSFF4Sl9aeU5KbjVBZldrdGdTeExJT2xZOUtrdkZDclRMTkhYNUhITGNpeW1OZ1ZMelk4RVdDaTVnZ0lhV1o3R3FHM3FDT3dJWURJYWpDSTRVM3licko3MjJLeHlzbVQzOXh4cWVJaWdibEFRNWpwNlF5RUwzRFE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUZhNHNoV3p0bEdoZUVVMGtrSnducmhoaWVySUdTSTNMRGhJZ3RzbnZqQ0ZpU0dJWkpLNUNKZ0M5SHNKcTg0c3N2X2dNNGw3UEdnbWZILUFWZFUxMWJxdDhZYU9MRUtVSHBfWlVodXMzRElJRXAzb05ZTlpVR2QwSFF4Sl9aeU5KbjVBZldrdGdTeExJT2xZOUtrdkZDclRMTkhYNUhITGNpeW1OZ1ZMelk4RVdDaTVnZ0lhV1o3R3FHM3FDT3dJWURJYWpDSTRVM3licko3MjJLeHlzbVQzOXh4cWVJaWdibEFRNWpwNlF5RUwzRFE?oc=5)
 
 ---
 
@@ -155,22 +155,6 @@ permalink: /news/guselkumab/
 2026-07-24 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdfbVJsT0wyMGNoamFETGN5S1NvTVpXZld2V1I0WU41US1JSkZldml6Q0ZSTTMyMURUMzRXanFmVTZkbmdCel95NkF6ODhSUVI1eDZXYXR4OGRzS0g1RE1oNy1YejZKVGZ6V3lSUWxZbUFfTFJPZXZ1S1REQlRab29YVkVmQ2R0eWwzMEZhcU5fMjRfQUNuOXNxLWFsSmJ1Sm9kX3FrWW5obkhUT3hYN1hvNmZoVzFCVUFyRjVPNV9uUQ?oc=5)
-
----
-
-### [Bambino di 9 anni col diabete perde il volo da Londra, fermato per i controlli ai dispositivi: «Non ci hanno fatto partire per colpa mia»](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1B3VDE1RXVPVmFBSWxmUXRnc09vSXVjNURGbmk4d3hNMlQzeVdPeS1jbjNJZFM3RkJMUmQ3VnVRc01QZUpIQnRiLW9qSDFUenp3RGpsOUdfQ21Sc3FGTkh6alQwaVd4TEhEcE1tQWpDNUNrVWZLWWNmX3lnS3ozVzlyRzdxTjBXSEtBeGF6X05hUURKNXZLTncxNjVJNnBkY2FYUWpRX19CSTlUTWNyTDBOd1NKNmhXdEHSAaQBQVVfeXFMTVM0UFVsMWZacFZxS1diRUFoblhBZ2ppZ3VQeU5aQk9Fenk1UWZ3SWNPc0hSUGVDMm9RSDlMTVREeFlhVV90R3NGWXZTS3haTjhIUmFNTGt2d3dXc0pOdllkVnNiTm5hakh0SkZTMlF6WEdsTVRQUzZHYklHWDM3R1BWQ2FRenl3RXZaVjdzamI5bVBSSVh2VGdyZ2hvOExlMEVaejU?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabetic</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1B3VDE1RXVPVmFBSWxmUXRnc09vSXVjNURGbmk4d3hNMlQzeVdPeS1jbjNJZFM3RkJMUmQ3VnVRc01QZUpIQnRiLW9qSDFUenp3RGpsOUdfQ21Sc3FGTkh6alQwaVd4TEhEcE1tQWpDNUNrVWZLWWNmX3lnS3ozVzlyRzdxTjBXSEtBeGF6X05hUURKNXZLTncxNjVJNnBkY2FYUWpRX19CSTlUTWNyTDBOd1NKNmhXdEHSAaQBQVVfeXFMTVM0UFVsMWZacFZxS1diRUFoblhBZ2ppZ3VQeU5aQk9Fenk1UWZ3SWNPc0hSUGVDMm9RSDlMTVREeFlhVV90R3NGWXZTS3haTjhIUmFNTGt2d3dXc0pOdllkVnNiTm5hakh0SkZTMlF6WEdsTVRQUzZHYklHWDM3R1BWQ2FRenl3RXZaVjdzamI5bVBSSVh2VGdyZ2hvOExlMEVaejU?oc=5)
-
----
-
-### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
 
 ---
 

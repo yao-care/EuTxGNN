@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Chronische Nierenerkrankung viel zu selten früh erkannt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk9WQ3FPOWljT2gxMjdWcmhEQmdFQnBHOVVfSWhRU1U4VXlxS09nVTZ6QTlBTVo2eTd3R2E5aER5MDlpOHQyYndTMWhLMm1odGVTNTJuakNCeGpub2szaXRrU0s3UkpZTzdIenozVHNGanVjV2dBbXRmQ0NrajZGQzQ4R0FxbnBaRHpJcFFDQi1hMjB4ejhGTXVUdTlUOVdwdkJtdEk1Q3k?oc=5)
-
-2026-07-23 <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk9WQ3FPOWljT2gxMjdWcmhEQmdFQnBHOVVfSWhRU1U4VXlxS09nVTZ6QTlBTVo2eTd3R2E5aER5MDlpOHQyYndTMWhLMm1odGVTNTJuakNCeGpub2szaXRrU0s3UkpZTzdIenozVHNGanVjV2dBbXRmQ0NrajZGQzQ4R0FxbnBaRHpJcFFDQi1hMjB4ejhGTXVUdTlUOVdwdkJtdEk1Q3k?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
