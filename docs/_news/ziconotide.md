@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Obesità in crescita tra i giovani, ripercussioni sulle donne in età fertile](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
+
+2026-07-24 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
+
+---
 
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
-2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 

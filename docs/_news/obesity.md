@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Obesità in crescita tra i giovani, ripercussioni sulle donne in età fertile](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
+
+2026-07-24
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
+
+---
 
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Novara:" Se un bambino dorme solo nove ore al giorno è un problema, funziona a singhiozzo". Scopriamo insieme quante ore è necessario riposare per vivere bene la giornata](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNy0wcllLeU9XS3dHcjZqRnNfMU5lTnlRR1A0NTJpYm5vRkFYY0xDeXVnR0E2RXpsRVVKWFZfc3o1M2F5Y1JMaTF4dGtJdHR2RU9Md04yX0Foc29ScVJnaDlPVV9ERURySUhJcTNyQmdSMHNnZU5Nc0FMWTdFbXNka3BvNzRGd0tWVHhaQ1FIWkZIdFRqOXo3NlIzaDZBUzRYblNyUWM4YlVISDdUSzRQeG9zcVllSlhsZ1JiRXBIdDUzbTl6eEt6cg?oc=5)
-
-2026-07-23 <span class="news-indication-tag">depression</span>
-
-來源：[Ascuolaoggi](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNy0wcllLeU9XS3dHcjZqRnNfMU5lTnlRR1A0NTJpYm5vRkFYY0xDeXVnR0E2RXpsRVVKWFZfc3o1M2F5Y1JMaTF4dGtJdHR2RU9Md04yX0Foc29ScVJnaDlPVV9ERURySUhJcTNyQmdSMHNnZU5Nc0FMWTdFbXNka3BvNzRGd0tWVHhaQ1FIWkZIdFRqOXo3NlIzaDZBUzRYblNyUWM4YlVISDdUSzRQeG9zcVllSlhsZ1JiRXBIdDUzbTl6eEt6cg?oc=5)
-
----
-
-### [Aspirin reverses diet-driven depression-like behavior in mice - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnp1LWNTdkkwZ2ZYdF8yWEQ3VzJrNGJKQ0VnYjlaY0RHUWJuNkpHNnpOemVkb3h2RTk2S0U1Q1BybDRjOEprc3VRQksyVERYcXRnaG1Qc0V3VFpDUENCUDd0Zk9lSVhMRklSWGdLcW1hRG9mTmhUaG05RUMzRGtUbVYyYU8wdXhEVmFn?oc=5)
-
-2026-07-23 <span class="news-indication-tag">depression</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnp1LWNTdkkwZ2ZYdF8yWEQ3VzJrNGJKQ0VnYjlaY0RHUWJuNkpHNnpOemVkb3h2RTk2S0U1Q1BybDRjOEprc3VRQksyVERYcXRnaG1Qc0V3VFpDUENCUDd0Zk9lSVhMRklSWGdLcW1hRG9mTmhUaG05RUMzRGtUbVYyYU8wdXhEVmFn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
