@@ -54,11 +54,11 @@ permalink: /news/remdesivir/
 
 ## 相關新聞（2 則）
 
-### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
+### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Herzerkrankung</span>
+2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[FreshPlaza.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
 
 ---
 

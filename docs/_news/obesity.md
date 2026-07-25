@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesidad（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
+<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,6 +38,14 @@ permalink: /news/obesity/
 
 ## 相關新聞（3 則）
 
+### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+2026-07-25
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+---
+
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 2026-07-24
@@ -51,14 +59,6 @@ permalink: /news/obesity/
 2026-07-24
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
-
----
-
-### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
-
-2026-07-23
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 

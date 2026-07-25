@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [What five neuroscientists do daily to protect their brains from dementia - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
 
@@ -77,22 +77,6 @@ permalink: /news/levodopa/
 2026-07-23 <span class="news-indication-tag">Parkinson's</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzR5SkZuQ1FwLXlVSHFJLVJnMm1SOXNnT2Jlb2ZYbk00NUQzYVZWcjV2QnJlQW9LLVdsdnhrWXdYMFk1amcyb1dZcmNZNFBxNEtjLU1FQzUtelhoVjlyUFVtWUUzRVVwQnhnVGZ2dnJQc1pLQTlRMDdXX1E5dVZwZGdIVHpPS29zU1lwT0NvcjY5RXNGTlZfbTc0Wksya2s?oc=5)
-
----
-
-### [Not checking one body part 'regularly' increases risk of dementia by 500 per cent - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">dementia</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
-
----
-
-### [SuperAgers retain exceptional memory through mechanisms beyond genetics](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
 
 ---
 

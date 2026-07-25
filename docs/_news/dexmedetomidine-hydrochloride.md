@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
+
+---
+
+### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+
+2026-07-24 <span class="news-indication-tag">migraña</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
 
 ---
 

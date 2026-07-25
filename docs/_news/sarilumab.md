@@ -54,6 +54,22 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
+### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+---
+
+### [Morbus Crohn: Neue Blutmarker erkennen Krankheit zehn Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
+
+---
+
 ### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 2026-07-24 <span class="news-indication-tag">artrite</span>
@@ -62,27 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
-
----
-
 ### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
 
 2026-07-23 <span class="news-drug-tag">Tezepelumab</span> <span class="news-indication-tag">asthma</span>
 
 來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
-
----
-
-### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 

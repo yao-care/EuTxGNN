@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [What five neuroscientists do daily to protect their brains from dementia - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-07-23
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
-
----
-
-### [Not checking one body part 'regularly' increases risk of dementia by 500 per cent - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
-
-2026-07-23
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFA2SHc0djNwUnVxbExXaGdDQUJjTW9ud3lIU19Sb3BjTVhGa1VMSG5yVnlrWjZfM2M0WHBtNlJXZW5TdmtybnYwbml5OG00XzJydEQtU2ZDVTBqQnNIWDUtc2JMNFN4cWZ6bEc5TUVrUXp0QnV5eG9fMU43YnHSAYIBQVVfeXFMTUVmUFBWcnF1V1JpUkRxZms0Z2JpUFMzUmM3MHE5eW5rajRxSnUwS3lrUVp5emJPRWY3ako5ZlZHQ1hGcE5xdmR2OXkxUWpGS3dabDRrZmlrWlQzTlZIaHZMcDdWU2V3WTJabDM5X011aE5jcEd3b211TzJNcmYtSzRXZw?oc=5)
-
----
-
-### [SuperAgers retain exceptional memory through mechanisms beyond genetics](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
-
-2026-07-23
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
+### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Herzerkrankung</span>
+2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[FreshPlaza.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
+來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+---
+
+### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+
+2026-07-24 <span class="news-indication-tag">migraña</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
 
 ---
 

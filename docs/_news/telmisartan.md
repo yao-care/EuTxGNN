@@ -54,6 +54,30 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（12 則）
 
+### [¿Cuánto café puedes tomar al día sin riesgo para la salud? Cuidado, que no es igual con las bebidas energéticas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWZMeE9rdWdqdnNfNy11UWs1dWRrNHFRMGNoQ1N3QXNkeGVEZ2dzSlZfS0N5cTBPclFDUnBWRFN4NVNuQjdxMEViaE9maEtnNjgwSzlIcUFOR0FOUDVBSHRSRFdYUzhTclNFSTBfRWNoS1JnNnBuTWZNcUk0TVRRZ0xpREFLZU1VWjdfQ095QUxWam14NUtjdjFEdHZKWVBCWDJNWWk5WVFSZnUyQUJ0RFNJUHl0QXlVUy1vYWZBM1pydGJDUzA2UDMtLWVYUHVPREtIVnZzQld1UQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWZMeE9rdWdqdnNfNy11UWs1dWRrNHFRMGNoQ1N3QXNkeGVEZ2dzSlZfS0N5cTBPclFDUnBWRFN4NVNuQjdxMEViaE9maEtnNjgwSzlIcUFOR0FOUDVBSHRSRFdYUzhTclNFSTBfRWNoS1JnNnBuTWZNcUk0TVRRZ0xpREFLZU1VWjdfQ095QUxWam14NUtjdjFEdHZKWVBCWDJNWWk5WVFSZnUyQUJ0RFNJUHl0QXlVUy1vYWZBM1pydGJDUzA2UDMtLWVYUHVPREtIVnZzQld1UQ?oc=5)
+
+---
+
+### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+---
+
+### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
+
+---
+
 ### [Schlaganfall-Folgen: Jeder zweite Patient profitiert von früher Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
@@ -62,11 +86,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Aurelio Rojas, cardiólogo: "Las personas que beben café de forma moderada tienen menos riesgo de infarto e ictus"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+### [Caffé: ecco i benefici per la salute e quanto berne al giorno](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
 
-2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Trendencias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+來源：[Grazia.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
 
 ---
 
@@ -86,14 +110,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
-
----
-
 ### [Ictus, togliere il coagulo non basta: quando la trombectomia può fare più male che bene](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
 
 2026-07-24 <span class="news-indication-tag">ictus</span>
@@ -110,27 +126,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[FreshPlaza.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
-
----
-
 ### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
 2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
----
-
-### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
 
 ---
 

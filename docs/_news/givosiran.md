@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
+
+---
+
+### [Wissen über Hepatitis rettet Leben](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
 
 ---
 
@@ -67,22 +75,6 @@ permalink: /news/givosiran/
 2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
-
----
-
-### [Deutsche Leberstiftung zum Welt-Hepatitis-Tag: Wissen über Hepatitis kann Leben retten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
-
----
-
-### [Hepatitis A: Gefahr auf dem Teller, Schutz im Arm - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
 
 ---
 

@@ -54,6 +54,22 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（4 則）
 
+### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+---
+
+### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+---
+
 ### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 2026-07-24 <span class="news-indication-tag">artrite</span>
@@ -62,27 +78,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[FreshPlaza.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
-
----
-
 ### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
 2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
----
-
-### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 

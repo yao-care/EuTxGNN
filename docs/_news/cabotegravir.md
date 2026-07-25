@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+---
+
+### [Une image du fond de l’œil pourrait trahir un diabète encore invisible](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
+
+2026-07-25 <span class="news-indication-tag">diabète</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
+
+---
 
 ### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 2026-07-24 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+---
+
+### [Caffé: ecco i benefici per la salute e quanto berne al giorno](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Grazia.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
 
 ---
 
@@ -78,6 +102,14 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Gaceta Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUndGMWhJNUdRV1l2TENCdHM5QldsOG5IanVfbE9EMC1nSTRRX0hNNmpGajFIejRwRzgwYXdTZEszOFl2Z1gtVWwyQ05XNjJLUDFUMWZLRk9MX1FKSFAxb0c0ZXBoSkpjb2lzY01GUHI4b21ZNkZrY2FYTTBRd3d2TkFwblpCYm1UVm9UZDk2TFExQVJfQVlCanBxTnNMcTgxOFktWmt1R24wRkphbUktQXd3b253SXdFblFOU2ZLM0dOZGNhYVo1WHVxdw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUndGMWhJNUdRV1l2TENCdHM5QldsOG5IanVfbE9EMC1nSTRRX0hNNmpGajFIejRwRzgwYXdTZEszOFl2Z1gtVWwyQ05XNjJLUDFUMWZLRk9MX1FKSFAxb0c0ZXBoSkpjb2lzY01GUHI4b21ZNkZrY2FYTTBRd3d2TkFwblpCYm1UVm9UZDk2TFExQVJfQVlCanBxTnNMcTgxOFktWmt1R24wRkphbUktQXd3b253SXdFblFOU2ZLM0dOZGNhYVo1WHVxdw?oc=5)
+
+---
+
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
@@ -94,11 +126,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Diari digital de la URV](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUNjVWpZNG9WTUdtOTh1NGNsZWVKcnJjNTRZUThOTm54UVZDN2pwXzNSSnFmTGplRWtwTUJaRmgySnc5dDdwT1VDWWl1dWlvUmNMMWJXMEZWNTI4bXFzVTFheXVabGowVFc5eGRLYXA2Rmx0bUpxSGgzVGxCUkVncVluVm9GUzBpcjkwRFFHd1UxcU11Qmc?oc=5)
+### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
 
-2026-07-24 <span class="news-indication-tag">diabetes</span>
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Diari digital de la URV](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUNjVWpZNG9WTUdtOTh1NGNsZWVKcnJjNTRZUThOTm54UVZDN2pwXzNSSnFmTGplRWtwTUJaRmgySnc5dDdwT1VDWWl1dWlvUmNMMWJXMEZWNTI4bXFzVTFheXVabGowVFc5eGRLYXA2Rmx0bUpxSGgzVGxCUkVncVluVm9GUzBpcjkwRFFHd1UxcU11Qmc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
 
 ---
 
@@ -110,19 +142,19 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Diabete e attività fisica in pensione: perché il golf e altri sport aerobici possono essere più adatto del tennis](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUZhNHNoV3p0bEdoZUVVMGtrSnducmhoaWVySUdTSTNMRGhJZ3RzbnZqQ0ZpU0dJWkpLNUNKZ0M5SHNKcTg0c3N2X2dNNGw3UEdnbWZILUFWZFUxMWJxdDhZYU9MRUtVSHBfWlVodXMzRElJRXAzb05ZTlpVR2QwSFF4Sl9aeU5KbjVBZldrdGdTeExJT2xZOUtrdkZDclRMTkhYNUhITGNpeW1OZ1ZMelk4RVdDaTVnZ0lhV1o3R3FHM3FDT3dJWURJYWpDSTRVM3licko3MjJLeHlzbVQzOXh4cWVJaWdibEFRNWpwNlF5RUwzRFE?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOUZhNHNoV3p0bEdoZUVVMGtrSnducmhoaWVySUdTSTNMRGhJZ3RzbnZqQ0ZpU0dJWkpLNUNKZ0M5SHNKcTg0c3N2X2dNNGw3UEdnbWZILUFWZFUxMWJxdDhZYU9MRUtVSHBfWlVodXMzRElJRXAzb05ZTlpVR2QwSFF4Sl9aeU5KbjVBZldrdGdTeExJT2xZOUtrdkZDclRMTkhYNUhITGNpeW1OZ1ZMelk4RVdDaTVnZ0lhV1o3R3FHM3FDT3dJWURJYWpDSTRVM3licko3MjJLeHlzbVQzOXh4cWVJaWdibEFRNWpwNlF5RUwzRFE?oc=5)
+
+---
+
 ### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
 
 2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
-
----
-
-### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 
@@ -134,35 +166,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
----
-
 ### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
-
----
-
-### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
-
----
-
-### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 

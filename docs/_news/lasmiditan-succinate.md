@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+---
 
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
+### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+
+2026-07-24 <span class="news-indication-tag">migraña</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+
+---
+
 ### [El celastrol reduce el peso corporal y la inflamación cerebral asociada a la obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
 
 2026-07-24 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
-
----
-
-### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 

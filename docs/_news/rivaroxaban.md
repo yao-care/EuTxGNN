@@ -54,19 +54,19 @@ permalink: /news/rivaroxaban/
 
 ## 相關新聞（2 則）
 
+### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+---
+
 ### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 2026-07-24 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
-
----
-
-### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 

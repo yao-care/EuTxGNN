@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Deutsche Leberstiftung zum Welt-Hepatitis-Tag: Wissen über Hepatitis kann Leben retten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
+### [Wissen über Hepatitis rettet Leben](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
 
-2026-07-23
+2026-07-24
 
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
-
----
-
-### [Hepatitis A: Gefahr auf dem Teller, Schutz im Arm - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
-
-2026-07-23
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
 
 ---
 

@@ -54,6 +54,22 @@ permalink: /news/orlistat/
 
 ## 相關新聞（11 則）
 
+### [¿Cuánto café puedes tomar al día sin riesgo para la salud? Cuidado, que no es igual con las bebidas energéticas](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWZMeE9rdWdqdnNfNy11UWs1dWRrNHFRMGNoQ1N3QXNkeGVEZ2dzSlZfS0N5cTBPclFDUnBWRFN4NVNuQjdxMEViaE9maEtnNjgwSzlIcUFOR0FOUDVBSHRSRFdYUzhTclNFSTBfRWNoS1JnNnBuTWZNcUk0TVRRZ0xpREFLZU1VWjdfQ095QUxWam14NUtjdjFEdHZKWVBCWDJNWWk5WVFSZnUyQUJ0RFNJUHl0QXlVUy1vYWZBM1pydGJDUzA2UDMtLWVYUHVPREtIVnZzQld1UQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWZMeE9rdWdqdnNfNy11UWs1dWRrNHFRMGNoQ1N3QXNkeGVEZ2dzSlZfS0N5cTBPclFDUnBWRFN4NVNuQjdxMEViaE9maEtnNjgwSzlIcUFOR0FOUDVBSHRSRFdYUzhTclNFSTBfRWNoS1JnNnBuTWZNcUk0TVRRZ0xpREFLZU1VWjdfQ095QUxWam14NUtjdjFEdHZKWVBCWDJNWWk5WVFSZnUyQUJ0RFNJUHl0QXlVUy1vYWZBM1pydGJDUzA2UDMtLWVYUHVPREtIVnZzQld1UQ?oc=5)
+
+---
+
+### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+---
+
 ### [Schlaganfall-Folgen: Jeder zweite Patient profitiert von früher Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
@@ -62,11 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Aurelio Rojas, cardiólogo: "Las personas que beben café de forma moderada tienen menos riesgo de infarto e ictus"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+### [Caffé: ecco i benefici per la salute e quanto berne al giorno](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
 
-2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Trendencias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+來源：[Grazia.it](https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTh1OU53OWN1enpzQmNqaTdjck1sc1dhRzVUcWR5VU85YkVPX2s1WjR5Z2VGc2ZZOGZwRlBKRnQyUVlWLVJqZ0syUUdjUlRDOUpSU05HQk91WnJFeTJmTDBPUUtiU1VPWk01T0J1SGU0VDlKQ1MwMWNOSmFQUGpMSGlRQnFWdllMODVvSm1DTEN2QmtsUkVlWlFaU2xfQWc2QWEyWEYtNjNMM3pscVRaZENfeFJKa0lEX0wwV0g4cw?oc=5)
 
 ---
 
@@ -118,27 +134,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [La stessa caffeina. Due effetti opposti sul cuore. Tutto dipende da dove arriva](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTZjWDV1MUNmNnd3OXNWSmhjRVpwSUg1MlhHeWU3SHNUV1RkLWhCVWp0Zm9aWE91TlVZbGpNOUNERG1JdXh5M0N0ZXJnNDA0WkZ3OXh6aFdHMUphaDRmWEYyNGNkVTF0TGh3bmRQZFpUYWRnMjNldDVzOVpROXpqVjZNRlNfZEg3VnE4SGlKREFCQlVobG5LM3dvb1dvbUFlU0trMnVpNS1YejFFUFNvQkNoNktJR25FbzZZS2tfbWU1SEtOM0hPSw?oc=5)
-
----
-
 ### [AVC, troubles cognitifs… Des espoirs pour traiter la maladie des petits vaisseaux cérébraux qui touche des millions de personnes - Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
 
 2026-07-23 <span class="news-indication-tag">AVC</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
-
----
-
-### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 

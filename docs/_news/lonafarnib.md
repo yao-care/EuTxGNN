@@ -54,27 +54,35 @@ permalink: /news/lonafarnib/
 
 ## 相關新聞（6 則）
 
+### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+---
+
+### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+---
+
+### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
+
+---
+
 ### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 2026-07-24 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
-
----
-
-### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
-
----
-
-### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[FreshPlaza.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/lonafarnib/
 2026-07-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wdUxIUkFIdHhJbnVTdEphWDVjZ2k2SjlWZjFmM2NXT1RLVkRCQlJIXzYzTFdYZzdBV1h5T1BRa3k0VWF4V2hud3lwYVM0c0p4NFQ4Ujlad1NOXzE5U1RLbmpZdWRZTndPSldsUW0ydw?oc=5)
-
----
-
-### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">arthritis</span>
-
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/febuxostat/
 
 ## 相關新聞（2 則）
 
-### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3BBRTlCWEFzS19LNGQxNlJvR0tLQkp5c0lEallVQmt4azY5Ukh2SVoxaDVQWnI4c01vOU1SdVVfQ2F2Y0hZY3dPSFFqRHJXemRpMExOQXQtZHJnRS04aTZUODZWUXJycm1JbGxqREJwM1JxR2k4cld1UEdJRlFUczlUNDR3a1RqOFhmLU9VX3otRlpwYm9Za1ptU2RGbElteV9yalNpTzZaekdHcHFIRW8tYWpKWXZsUnc?oc=5)
 
 ---
 

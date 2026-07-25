@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
+
+### [Immunforschung: Forschende entschlüsseln Mechanismus hinter Entzündung bei COVID](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnZSQWduajQ0Yzk2TUVjMW9xeVJBeC1Pb3QtekpaVWg4d0xDTGJyLVdBVXZqNUQwbTZIRlpwUV9aWkVBd3NXZmNqaTUyeFFCRWotWVIxWTRFcUNabzNVLVVZUVpTdV9DWjBIdkxhU2xDZW9OVGIwNVV3MmRIeXlXQVVpd3lXaEFER2Y5VXJ3QXZtcDNieGQwX1BoaEU?oc=5)
+
+---
+
+### [Darmmikrobiom: Wie Bakterien Lupus und MS auslösen - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dmR2t5TXFVLVlzNndaR3pWaC1QWjE5bmZnQ0o3ZDcyUC1CRWJVdEJ4ZUtTUGhZT3lfR0diNmY1aExfem11Rl94SHhYUFFSb2ItQzEzMTZUNmJIZllndDZqMW9VUU01ZW56enhkU3JRbldKRGN3M3hrV08ydWdpZWpYdjZxcXN3cFVzejhmSXJxeEwwaHl3Tnp4Ti1pWkVK?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dmR2t5TXFVLVlzNndaR3pWaC1QWjE5bmZnQ0o3ZDcyUC1CRWJVdEJ4ZUtTUGhZT3lfR0diNmY1aExfem11Rl94SHhYUFFSb2ItQzEzMTZUNmJIZllndDZqMW9VUU01ZW56enhkU3JRbldKRGN3M3hrV08ydWdpZWpYdjZxcXN3cFVzejhmSXJxeEwwaHl3Tnp4Ti1pWkVK?oc=5)
+
+---
+
+### [Alzheimer-Risiko senken: 3.000 Schritte, Bewegung & neue Biomarker - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1VWEVnc2JiR2hmOTF5NURoUVlnbVJJb3VmdmZtWlV5UWhiWkNiN2pNN0NkSjVOSlIxQ0l4Y0ctRFU1ajl4SEQ1VEFwQzNBQWJkWWdRdFNIOHhEbDhWMnNxa2pPcXE4VDVZUWl0OC1kYlU1SzRVU0ZBbmxvZWw4T0RMSUstM2FfUHZxaVZRaU9yOGVrTm1QbVRR?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE1VWEVnc2JiR2hmOTF5NURoUVlnbVJJb3VmdmZtWlV5UWhiWkNiN2pNN0NkSjVOSlIxQ0l4Y0ctRFU1ajl4SEQ1VEFwQzNBQWJkWWdRdFNIOHhEbDhWMnNxa2pPcXE4VDVZUWl0OC1kYlU1SzRVU0ZBbmxvZWw4T0RMSUstM2FfUHZxaVZRaU9yOGVrTm1QbVRR?oc=5)
+
+---
 
 ### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
-
----
-
-### [Alzheimer-Prävention: 3.000 Schritte täglich bremsen Tau-Ausbreitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
 
 ---
 
@@ -94,11 +110,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [West Nile, le misure per ridurre i rischi delle punture di zanzare](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
+### [Wissen über Hepatitis rettet Leben](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
 
-2026-07-24 <span class="news-indication-tag">MS</span>
+2026-07-24 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
+來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
 
 ---
 
@@ -134,14 +158,6 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Anti-CD20 in MS: Wie KI-gestützt wirkende IgA-B-Zellen aus dem Darm ins Gehirn migrieren - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlGVzlBUG51SkFQS3AtVVJJaGlvRGhMQ1FjOG9BaHFRcTdBc3BsQ3NER3V3MTRPWDkzZVlNSmlyQ2NnWWdSdV8xalJ6LWJiWW96bUN5ZXFVWFVBQzNKYmNvR3ItVm1sVmNmT09DWkRvUmN1bHdoUmgxdUtSM1pmUWtRNjJUbzRiaFBxZzRLSzN6MU1VSktfVE1lczkxdnF6cThXSjRoTnpIWnp1VGtXcTZSOGkzOUwxcFNpWg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlGVzlBUG51SkFQS3AtVVJJaGlvRGhMQ1FjOG9BaHFRcTdBc3BsQ3NER3V3MTRPWDkzZVlNSmlyQ2NnWWdSdV8xalJ6LWJiWW96bUN5ZXFVWFVBQzNKYmNvR3ItVm1sVmNmT09DWkRvUmN1bHdoUmgxdUtSM1pmUWtRNjJUbzRiaFBxZzRLSzN6MU1VSktfVE1lczkxdnF6cThXSjRoTnpIWnp1VGtXcTZSOGkzOUwxcFNpWg?oc=5)
-
----
-
 ### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
 
 2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -163,22 +179,6 @@ permalink: /news/elbasvir/
 2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
----
-
-### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
-
----
-
-### [Degenerazione maculare, arriva in UE la vista bionica (e costa un botto) - Futuro Prossimo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVktGOG9wdWJ2dk1zNGZEVkVwSHlwalRYQlctUm05SHhYQXRYYl9nOVIxdTNNbFNmME4zRTRtQ0VkUDNOZFlVWFI0TG8waE54cGdZWHNjanhyVmRhX0luUzE0WEhhSklnWlRDYzAyTTNGQTV6WWpqNFJOS3BVMzZxU2JrSEhZdHgwVzNRRWgxc0tYck1YSmw0N0g4LXljeTBNTEtJdldBUU5FQjl2?oc=5)
-
-2026-07-23 <span class="news-indication-tag">MS</span>
-
-來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVktGOG9wdWJ2dk1zNGZEVkVwSHlwalRYQlctUm05SHhYQXRYYl9nOVIxdTNNbFNmME4zRTRtQ0VkUDNOZFlVWFI0TG8waE54cGdZWHNjanhyVmRhX0luUzE0WEhhSklnWlRDYzAyTTNGQTV6WWpqNFJOS3BVMzZxU2JrSEhZdHgwVzNRRWgxc0tYck1YSmw0N0g4LXljeTBNTEtJdldBUU5FQjl2?oc=5)
 
 ---
 
@@ -206,35 +206,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Deutsche Leberstiftung zum Welt-Hepatitis-Tag: Wissen über Hepatitis kann Leben retten - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HVTd5SmhTeFF4LWZaRUJTdnlLSzV0bWh2MjJxSVlvbzh5Njl5S3NTeEJXUHFiWWotMVh3bXVRUkd3ZThsLXlOdnFVaw?oc=5)
-
----
-
 ### ['Life-changing' drug to help MS patients walk available to thousands on NHS - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
 
 2026-07-23 <span class="news-indication-tag">multiple sclerosis</span>
 
 來源：[Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUt4TkVkX2R5T1VYYXUxWk5jc3NUWnZWTWhHTktCczdDbGhtZXg5TTFXcFFQZWxLUDZJYVJ2VDJKeGxBcml0eWFOUmRjN2VnczFWMWlaM0RBbFVpTXM2aV9UQ3lIekI2a1FwQjFtd2lCWHhKTFJQZGtJWmtqbGVHS2NtZWRTQ2VLdDZaSXA0RHZqMHRyNGw1eGRCMkFXOXE2MEF2NFJuWmhyVk10VkE?oc=5)
-
----
-
-### [Hepatitis A: Gefahr auf dem Teller, Schutz im Arm - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
-
----
-
-### [SuperAgers retain exceptional memory through mechanisms beyond genetics](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
 
 ---
 
