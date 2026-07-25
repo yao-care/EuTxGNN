@@ -4,9 +4,6 @@
 title: "EuTxGNN Drug Repurposing Reports"
 description: "EU (EMA) drug repurposing predictions powered by TxGNN"
 
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
 url: "https://eutxgnn.yao.care"
 baseurl: ""
 lang: "en"
@@ -77,4 +74,5 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
 
