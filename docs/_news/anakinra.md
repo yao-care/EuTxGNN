@@ -14,7 +14,7 @@ permalink: /news/anakinra/
 ---
 
 <p class="key-answer" data-question="Anakinra 有什麼相關新聞？">
-<strong>Anakinra</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Anakinra</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/anakinra/
 <p><a href="{{ '/drugs/anakinra/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+2026-07-24 <span class="news-indication-tag">artrite</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+---
 
 ### [Natural compound may fight rheumatoid arthritis at its source](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [Farmaci anti-obesità, l'incredibile legame con la caduta dei capelli: cosa dicono gli scienziati - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
+### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+2026-07-24 <span class="news-indication-tag">artrite</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+---
+
+### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+---
+
+### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 

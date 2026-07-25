@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [Farmaci anti-obesità, l'incredibile legame con la caduta dei capelli: cosa dicono gli scienziati - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
+### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
-
----
-
-### [Obesità, il muscolo cambia prima della bilancia: la conferma da uno studio internazionale - Corriere Salentino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhvRVZwdGVfbDh3YXpqTjY0YTJuU2lRMkRyY0hFOFF2b0gtSEJmMjJnSU1oczBCYlJ6YmxuWWF5WnZTdndPWXA5Sk5rZjVYWTdFS0V3aFlEeXI1cG5xRjF2eUIybjhmY0JBbW5JTjJ0ZTd0SF9oUVg1NmtyYjNfbnd6VGxiRl9EaEFLdUNRbk5UQzAwUnNRV2dOOFR3S0pMcGtNZXFURlktSlhmc0RBM1BlUHZlR1hudVd2bTRKUEFFYzVkamxGTw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">obesità</span>
-
-來源：[Corriere Salentino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhvRVZwdGVfbDh3YXpqTjY0YTJuU2lRMkRyY0hFOFF2b0gtSEJmMjJnSU1oczBCYlJ6YmxuWWF5WnZTdndPWXA5Sk5rZjVYWTdFS0V3aFlEeXI1cG5xRjF2eUIybjhmY0JBbW5JTjJ0ZTd0SF9oUVg1NmtyYjNfbnd6VGxiRl9EaEFLdUNRbk5UQzAwUnNRV2dOOFR3S0pMcGtNZXFURlktSlhmc0RBM1BlUHZlR1hudVd2bTRKUEFFYzVkamxGTw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 

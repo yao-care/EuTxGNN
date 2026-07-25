@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（23 則）
+
+### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
+
+---
 
 ### [Alzheimer-Prävention: 3.000 Schritte täglich bremsen Tau-Ausbreitung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
 
-2026-07-24 <span class="news-indication-tag">MS</span>
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTFXV2Raclpfd01DNjZPV1JMREdxd1YyNjdSbmp0bWpTMkNhT3BYTVBRVVdXVWl2emtHNHBCamdLZDhXaU1kR3lLcFZpUHJMTkJmLWNhdWg2TmNwbnJnN082b3g1X0xYWkpWS0Ftc09hbkZlN2ZnZWF0RmlnYWd3MFJRd1RRX1FpOTZZREJhVkVWQlp4ckMycTd5WHBjTGxpNlpfMFBNMEMzM2hYQmN4V3JvRnF2ME9kX2c?oc=5)
 
 ---
 
-### [Lipödem: Ketogene Ernährung reduziert Entzündungen messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPazBRUm9pSkpUeW1OSGJKRlplSzNoSjFaVEJadjdBZWwtNnk0QzdETWNvZXZjeGRQdnY1aWg0VUtiTFl2WDVFQUhHdF9BNzhrQUs5aWVwYmwwWG5iTHRlajE0TlRFTzY3Y3FfaWJhSkJtTWZBSTJjZ2lNeDdWNGJOb255N2h3WG9adlh1enUySTNhei10bjFhZ2JXMXI1ckZMNVNXanBYUkJ2OEFYekE?oc=5)
+### [Dieses Hormon schwindet mit dem Alter – und Forscher glauben, dass es Krebs und Entzündungen begünstigt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
 
-2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPazBRUm9pSkpUeW1OSGJKRlplSzNoSjFaVEJadjdBZWwtNnk0QzdETWNvZXZjeGRQdnY1aWg0VUtiTFl2WDVFQUhHdF9BNzhrQUs5aWVwYmwwWG5iTHRlajE0TlRFTzY3Y3FfaWJhSkJtTWZBSTJjZ2lNeDdWNGJOb255N2h3WG9adlh1enUySTNhei10bjFhZ2JXMXI1ckZMNVNXanBYUkJ2OEFYekE?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxNZFlfR04tSjY5allZcFdseGFwWHVRZXZKMkxCbGVDdFMteFRPOTFmMWRnSG5idUFxNjFwMGktYmlKWUMzRWxiUE9YVnoteUdvbzA0UENuLTUzVndxMkQxeFhiNTQ3Q3dzcFJIUWMybGhUSkdGdDFDdkZoZHV4enNPNVRGMzhfX0RZenZId01BSHpsZFJ4aU1leV9acnliZzNtc3JaTnJnVDlvU0t3VDhXNFhJcnVCZ2hsbVNOLS1JU0lIMmxocW1udkJIZWlKZw?oc=5)
 
 ---
 
@@ -86,19 +94,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [West Nile, dall'Oms Europa le misure per ridurre i rischi delle punture di zanzare](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
+### [West Nile, le misure per ridurre i rischi delle punture di zanzare](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
 
 來源：[Tgcom24](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblMyZXVhWWhTVFJQR1I3WkZvNFZleTZWQW1xSGxnMl9jamhVZDlMaFpkMjE5aTVOT0IyMGJWUTRtMXFoUDIzTnpJUFR1TlVoNi1kZU8tMEkxMC0ySU5KdXE1RzQtVGhJU3JiNmtvTk5fTWpIVGRoRjRRd1Myb1FnelFrN1FVVmRzWGVxWlNEVG51VFBDYXVqekZQZ2R3RW03aEJmdEhVMkZ4UQ?oc=5)
-
----
-
-### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
 
 ---
 
@@ -107,6 +107,14 @@ permalink: /news/pibrentasvir/
 2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
+
+---
+
+### [Lipödem: Ketogene Ernährung bremst Entzündungen und Schmerzen messbar - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
 
 ---
 
@@ -126,27 +134,51 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Frequent MONEY troubles may raise dementia risk - cash at three key ages linked to faster brain ageing - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
+### [Anti-CD20 in MS: Wie KI-gestützt wirkende IgA-B-Zellen aus dem Darm ins Gehirn migrieren - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlGVzlBUG51SkFQS3AtVVJJaGlvRGhMQ1FjOG9BaHFRcTdBc3BsQ3NER3V3MTRPWDkzZVlNSmlyQ2NnWWdSdV8xalJ6LWJiWW96bUN5ZXFVWFVBQzNKYmNvR3ItVm1sVmNmT09DWkRvUmN1bHdoUmgxdUtSM1pmUWtRNjJUbzRiaFBxZzRLSzN6MU1VSktfVE1lczkxdnF6cThXSjRoTnpIWnp1VGtXcTZSOGkzOUwxcFNpWg?oc=5)
 
-2026-07-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxR1g2VllWOXNaUW5lazg3WEpQTHUxaGxERXYtQ2JzSWs5eEwzQ1ZPc0xQZzNzX1pzM3dBTDNnQ0wxRlQyeUJuTjFYZENyVGUwc2RCVTlEZDdFRVdKcm4weTZ0RjhVQmdnSGs5eUFqc0s1MXp0U056eWxUX0RPQQ?oc=5)
-
----
-
-### [Dermatologist Reveals The Major Red Flag On Your Skin That Could Signal Heart Problems - Bored Panda](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pkZ2Y4VHNDWnBRYlVtTDJoZko0cURlUUdKeE1keDNqVG9DMUlNT2htVkUyazRCSXdLSHNWZDdBR2k2RjM5Y3F3aDE0NDY2WURQblh1c0d1ZHdqYzNOZTRoV0h2eHU0VlR2VW5UZ0tKSTFJQkI5eHFlUndRTnp2d3hoZXZkSXlfWHNRZ2d0c1liei1kcnlSV3d1SHhhQQ?oc=5)
-
-2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pkZ2Y4VHNDWnBRYlVtTDJoZko0cURlUUdKeE1keDNqVG9DMUlNT2htVkUyazRCSXdLSHNWZDdBR2k2RjM5Y3F3aDE0NDY2WURQblh1c0d1ZHdqYzNOZTRoV0h2eHU0VlR2VW5UZ0tKSTFJQkI5eHFlUndRTnp2d3hoZXZkSXlfWHNRZ2d0c1liei1kcnlSV3d1SHhhQQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlGVzlBUG51SkFQS3AtVVJJaGlvRGhMQ1FjOG9BaHFRcTdBc3BsQ3NER3V3MTRPWDkzZVlNSmlyQ2NnWWdSdV8xalJ6LWJiWW96bUN5ZXFVWFVBQzNKYmNvR3ItVm1sVmNmT09DWkRvUmN1bHdoUmgxdUtSM1pmUWtRNjJUbzRiaFBxZzRLSzN6MU1VSktfVE1lczkxdnF6cThXSjRoTnpIWnp1VGtXcTZSOGkzOUwxcFNpWg?oc=5)
 
 ---
 
-### [5 Art Habits That Can Help You Live Longer](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBRUkxscGROUGlLeEhFMHltNDV4azA0Mko1VFZfeTl4Mm9aQXRpOW0weVViY1FhN2lqd1JQZlNjRUhoZTlud0RmNHJkZlJIdEJUQ0JEMEtyRGdCM0FrU1pIanQ1bFl6aDdlV1VwTHY4TkNMbDVsb29ZdVB5bDRlZw?oc=5)
+### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+---
+
+### [Drei Durchbrüche bei Krebs: Fortschritte geben Millionen Menschen Hoffnung](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONk5uVGppa1VPNlgtTnNOYjF1SFktaHVGSmlOcmJHUTFZZ21FWVBNX2FqSWpJcEZHdGNIZmxEcEFTSzFKa3F0Zy1wS1pNU05fVTZtTGptQVdRUVI5UDllOU9odHRIWVNJUkhnTGlzMHhaNlZlWUdzX0lqNWQ0TnE0YVp6MHJTeHFNb3BLdmZYX1RxazBXUW5wSTQyUjNTQWpjZV82eVk5alJqcWtnQU9XVVBTMEhIRHFrVlRoTHMwVTRQOVAxb2dtU2wxQU5FNXJpOC1IU3h2NG1DbzhfWDhiblBHaUx5U3ZSd0JjWkNvaHRXWmVlelE?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi9gFBVV95cUxONk5uVGppa1VPNlgtTnNOYjF1SFktaHVGSmlOcmJHUTFZZ21FWVBNX2FqSWpJcEZHdGNIZmxEcEFTSzFKa3F0Zy1wS1pNU05fVTZtTGptQVdRUVI5UDllOU9odHRIWVNJUkhnTGlzMHhaNlZlWUdzX0lqNWQ0TnE0YVp6MHJTeHFNb3BLdmZYX1RxazBXUW5wSTQyUjNTQWpjZV82eVk5alJqcWtnQU9XVVBTMEhIRHFrVlRoTHMwVTRQOVAxb2dtU2wxQU5FNXJpOC1IU3h2NG1DbzhfWDhiblBHaUx5U3ZSd0JjWkNvaHRXWmVlelE?oc=5)
+
+---
+
+### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
+
+2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
+
+---
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+---
+
+### [Degenerazione maculare, arriva in UE la vista bionica (e costa un botto) - Futuro Prossimo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVktGOG9wdWJ2dk1zNGZEVkVwSHlwalRYQlctUm05SHhYQXRYYl9nOVIxdTNNbFNmME4zRTRtQ0VkUDNOZFlVWFI0TG8waE54cGdZWHNjanhyVmRhX0luUzE0WEhhSklnWlRDYzAyTTNGQTV6WWpqNFJOS3BVMzZxU2JrSEhZdHgwVzNRRWgxc0tYck1YSmw0N0g4LXljeTBNTEtJdldBUU5FQjl2?oc=5)
 
 2026-07-23 <span class="news-indication-tag">MS</span>
 
-來源：[Artsy](https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBRUkxscGROUGlLeEhFMHltNDV4azA0Mko1VFZfeTl4Mm9aQXRpOW0weVViY1FhN2lqd1JQZlNjRUhoZTlud0RmNHJkZlJIdEJUQ0JEMEtyRGdCM0FrU1pIanQ1bFl6aDdlV1VwTHY4TkNMbDVsb29ZdVB5bDRlZw?oc=5)
+來源：[Futuro Prossimo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVktGOG9wdWJ2dk1zNGZEVkVwSHlwalRYQlctUm05SHhYQXRYYl9nOVIxdTNNbFNmME4zRTRtQ0VkUDNOZFlVWFI0TG8waE54cGdZWHNjanhyVmRhX0luUzE0WEhhSklnWlRDYzAyTTNGQTV6WWpqNFJOS3BVMzZxU2JrSEhZdHgwVzNRRWgxc0tYck1YSmw0N0g4LXljeTBNTEtJdldBUU5FQjl2?oc=5)
 
 ---
 
@@ -190,14 +222,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Multiple Sklerose: Dieses Darmbakterium kann schützen](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3MzUnFkdmpfX2NpU3lKcFl6bUlFWGFGQ1NsdVFMX2w0dG8yUjc3bVMtZXhVTEFyczg4U1UxcDhjUEZTWFFjWWlqRkd3NUVKX0FYOEFzU3dXeHZHUjV5UEt3UnpkN1IyenE0Z2JxV1M1bm5McGQzbi1USG80THZGUDB6Q1g3bnlwZ2l0T2lNQkhvUGZwVFBITjZRNWY4T3dtVE9ZYUR4UGxEamE5WlNqbDF4X08?oc=5)
-
-2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3MzUnFkdmpfX2NpU3lKcFl6bUlFWGFGQ1NsdVFMX2w0dG8yUjc3bVMtZXhVTEFyczg4U1UxcDhjUEZTWFFjWWlqRkd3NUVKX0FYOEFzU3dXeHZHUjV5UEt3UnpkN1IyenE0Z2JxV1M1bm5McGQzbi1USG80THZGUDB6Q1g3bnlwZ2l0T2lNQkhvUGZwVFBITjZRNWY4T3dtVE9ZYUR4UGxEamE5WlNqbDF4X08?oc=5)
-
----
-
 ### [Hepatitis A: Gefahr auf dem Teller, Schutz im Arm - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEZ0QmV1RFpxYXRoMVYtM2NWTzdHY0ZjNm1iVTROUUxjODJWNmVxZzU0cDNJaWtFXzBFOEVWeFJLUjNROERnNGRFbHpHejR3T0QyVTNpNDZiM0pwbzA4d2UxaFpNRHluSjI4TjBIVGtUWWEzN0lzdy1MUXlVUjdlbDhzVUtwcW9RVjQ5YTl0N19uMmZBRWZNZGlQUmFhaV9RcEwyTU13V2RnU1pmTVpkcTQyaw?oc=5)
 
 2026-07-23 <span class="news-indication-tag">hepatitis</span>
@@ -211,14 +235,6 @@ permalink: /news/pibrentasvir/
 2026-07-23 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUVpHM2M5NVh4dVN4Zm8xT3c5a0p0a1BMSFFEMzZhMnlOWDZVNzBuUjE0bFJ2S2xWUHItQWt6cEZVaXBnRThqUXJRLWRUbnFOTTIyUzVCeDR0M0ZnQU11bU5jRnhtS25TcGJoVmdERzZmNHJBMDRoSW1lZjNDUmFoRTNvOTNXemQ0Yy12c3c0dENlZTB3Z0tkRGVmeWRKSWNfVG96WTlTQ3Y3dzZ4ZVkxOFFyb0NIM043OU9J?oc=5)
-
----
-
-### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
 
 ---
 

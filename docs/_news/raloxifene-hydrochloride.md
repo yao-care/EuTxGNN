@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Wirbelsäulenmanipulation: Ärzte warnen vor Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
+### [Schlaganfall-Folgen: Jeder zweite Patient profitiert von früher Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: "Las personas que beben café de forma moderada tienen menos riesgo de infarto e ictus"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+
+2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Trendencias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
 
 ---
 

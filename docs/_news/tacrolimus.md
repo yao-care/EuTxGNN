@@ -54,19 +54,19 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（3 則）
 
+### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+2026-07-24 <span class="news-indication-tag">artrite</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+---
+
 ### [Santé. Psoriasis : vers un traitement sur mesure grâce à une découverte génétique majeure - Le Progrès](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdfbVJsT0wyMGNoamFETGN5S1NvTVpXZld2V1I0WU41US1JSkZldml6Q0ZSTTMyMURUMzRXanFmVTZkbmdCel95NkF6ODhSUVI1eDZXYXR4OGRzS0g1RE1oNy1YejZKVGZ6V3lSUWxZbUFfTFJPZXZ1S1REQlRab29YVkVmQ2R0eWwzMEZhcU5fMjRfQUNuOXNxLWFsSmJ1Sm9kX3FrWW5obkhUT3hYN1hvNmZoVzFCVUFyRjVPNV9uUQ?oc=5)
 
 2026-07-24 <span class="news-indication-tag">psoriasis</span>
 
 來源：[Le Progrès](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczdfbVJsT0wyMGNoamFETGN5S1NvTVpXZld2V1I0WU41US1JSkZldml6Q0ZSTTMyMURUMzRXanFmVTZkbmdCel95NkF6ODhSUVI1eDZXYXR4OGRzS0g1RE1oNy1YejZKVGZ6V3lSUWxZbUFfTFJPZXZ1S1REQlRab29YVkVmQ2R0eWwzMEZhcU5fMjRfQUNuOXNxLWFsSmJ1Sm9kX3FrWW5obkhUT3hYN1hvNmZoVzFCVUFyRjVPNV9uUQ?oc=5)
-
----
-
-### [Dermatologist Reveals The Major Red Flag On Your Skin That Could Signal Heart Problems - Bored Panda](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pkZ2Y4VHNDWnBRYlVtTDJoZko0cURlUUdKeE1keDNqVG9DMUlNT2htVkUyazRCSXdLSHNWZDdBR2k2RjM5Y3F3aDE0NDY2WURQblh1c0d1ZHdqYzNOZTRoV0h2eHU0VlR2VW5UZ0tKSTFJQkI5eHFlUndRTnp2d3hoZXZkSXlfWHNRZ2d0c1liei1kcnlSV3d1SHhhQQ?oc=5)
-
-2026-07-23 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pkZ2Y4VHNDWnBRYlVtTDJoZko0cURlUUdKeE1keDNqVG9DMUlNT2htVkUyazRCSXdLSHNWZDdBR2k2RjM5Y3F3aDE0NDY2WURQblh1c0d1ZHdqYzNOZTRoV0h2eHU0VlR2VW5UZ0tKSTFJQkI5eHFlUndRTnp2d3hoZXZkSXlfWHNRZ2d0c1liei1kcnlSV3d1SHhhQQ?oc=5)
 
 ---
 

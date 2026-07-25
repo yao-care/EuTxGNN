@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
 
-### [Wirbelsäulenmanipulation: Ärzte warnen vor Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
+### [Schlaganfall-Folgen: Jeder zweite Patient profitiert von früher Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: "Las personas que beben café de forma moderada tienen menos riesgo de infarto e ictus"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+
+2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Trendencias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/telmisartan/
 2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">MS</span>
 
 來源：[Onda Regional de Murcia | ORM](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVk3aFZJZTZfOG50d25scW1laWktTVFmMUp4Wnc4M3J0Z25ZMWMzMXBiVWFmSUM0WDhDbTJEZHpQaHlkXzlIZS1Fc2JWTGRxemdzMVVMdDEtMl96YUhVVjBpNU42T2dPTTdfYllPdkgyOUNDVW1fTmVBcDBYS2cySHVkR2dXZjlBVEF0SkZkR0pkQkNJY2VGdTB6OGNlOXZJNDhTZFJfOHZGTTh4MDUydFg4cmxJUlN0QnU1WEtCbW5NYkpuSU1QaXpmMFBuMFoz?oc=5)
+
+---
+
+### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
 
 ---
 
@@ -102,11 +118,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2d5UnVjMGxKOWpLaWlCZ3ptUkdOb0tpaTd0ZW80cGJCU0VTam42Wnd4Z3NsYkF6LTZvNDVkNURqUnh6eUVKTmd3dk1FN0I1dmpueTQxbXpBRDB6ekg1YkFEQ1lJeVZWM1N5NEllVGt4cjFiaWxXaEtEZVByN3NOUUdHa29OWURkbGdIRnJQUWk1cUVLVzhpVHREMDhqMzRzb2haNEFleDZEdDBsZFBuYlprTmRjSlZxblE?oc=5)
+### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2d5UnVjMGxKOWpLaWlCZ3ptUkdOb0tpaTd0ZW80cGJCU0VTam42Wnd4Z3NsYkF6LTZvNDVkNURqUnh6eUVKTmd3dk1FN0I1dmpueTQxbXpBRDB6ekg1YkFEQ1lJeVZWM1N5NEllVGt4cjFiaWxXaEtEZVByN3NOUUdHa29OWURkbGdIRnJQUWk1cUVLVzhpVHREMDhqMzRzb2haNEFleDZEdDBsZFBuYlprTmRjSlZxblE?oc=5)
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/telmisartan/
 2026-07-23 <span class="news-indication-tag">AVC</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
-
----
-
-### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
 
 ---
 

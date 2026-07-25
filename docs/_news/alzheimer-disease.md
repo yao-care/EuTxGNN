@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [What five neuroscientists do daily to protect their brains from dementia - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
+
+2026-07-24
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
+
+---
 
 ### [90 % de précision : cette prise de sang pourrait repérer Alzheimer très tôt](https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0Q5aWwyY1hWdHc5RmtaVTJQQkdaME9tRWl4ak9RYy11cDNmQ1dXdENrVzFVT29vLWZtSG1oQXlnYU5PUXVKMkFZV2l0MUluNGZSTk1IS3RGLUhYd2ltaHl2QUhKZlFKalNZd2liMzRZZElxWTlSNDZIVTNYaU1MVC04RnhWZlpVNGRkbjZnRFhKUTRMRjRsM0JKQQ?oc=5)
 

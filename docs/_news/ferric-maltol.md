@@ -14,7 +14,7 @@ permalink: /news/ferric-maltol/
 ---
 
 <p class="key-answer" data-question="Ferric Maltol 有什麼相關新聞？">
-<strong>Ferric Maltol</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ferric Maltol</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/ferric-maltol/
 <p><a href="{{ '/drugs/ferric-maltol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Semaglutide, la sorpresa nelle ossa: nel diabete associata a meno fratture](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
+
+2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
+
+---
 
 ### [Orales Semaglutid schützt das Herz bei Typ-2-Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29MV1Y1MzhBb3IzWHZpVHVXc3g5WU1odVpFbDRuOWZyM2hCeXFtQ19ENUJoekZUZ3M2MWNxTVJNMXRGaDROUk9tLUNTNmliQUVzcWlVa0g5aDJLOHFqSlp5VFBaaU5LbkRIRXNZNHVib25qRFlrZnN6anJ4TmZzNUVuYmtzVF9tSGJVeldlMUVEMnlhLS10UklPaC1STmRqdVRlX3FkTWo?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29MV1Y1MzhBb3IzWHZpVHVXc3g5WU1odVpFbDRuOWZyM2hCeXFtQ19ENUJoekZUZ3M2MWNxTVJNMXRGaDROUk9tLUNTNmliQUVzcWlVa0g5aDJLOHFqSlp5VFBaaU5LbkRIRXNZNHVib25qRFlrZnN6anJ4TmZzNUVuYmtzVF9tSGJVeldlMUVEMnlhLS10UklPaC1STmRqdVRlX3FkTWo?oc=5)
-
----
-
-### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Gaceta Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUndGMWhJNUdRV1l2TENCdHM5QldsOG5IanVfbE9EMC1nSTRRX0hNNmpGajFIejRwRzgwYXdTZEszOFl2Z1gtVWwyQ05XNjJLUDFUMWZLRk9MX1FKSFAxb0c0ZXBoSkpjb2lzY01GUHI4b21ZNkZrY2FYTTBRd3d2TkFwblpCYm1UVm9UZDk2TFExQVJfQVlCanBxTnNMcTgxOFktWmt1R24wRkphbUktQXd3b253SXdFblFOU2ZLM0dOZGNhYVo1WHVxdw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUndGMWhJNUdRV1l2TENCdHM5QldsOG5IanVfbE9EMC1nSTRRX0hNNmpGajFIejRwRzgwYXdTZEszOFl2Z1gtVWwyQ05XNjJLUDFUMWZLRk9MX1FKSFAxb0c0ZXBoSkpjb2lzY01GUHI4b21ZNkZrY2FYTTBRd3d2TkFwblpCYm1UVm9UZDk2TFExQVJfQVlCanBxTnNMcTgxOFktWmt1R24wRkphbUktQXd3b253SXdFblFOU2ZLM0dOZGNhYVo1WHVxdw?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ permalink: /news/ferric-maltol/
 
 ---
 
-### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
+### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Diari digital de la URV](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUNjVWpZNG9WTUdtOTh1NGNsZWVKcnJjNTRZUThOTm54UVZDN2pwXzNSSnFmTGplRWtwTUJaRmgySnc5dDdwT1VDWWl1dWlvUmNMMWJXMEZWNTI4bXFzVTFheXVabGowVFc5eGRLYXA2Rmx0bUpxSGgzVGxCUkVncVluVm9GUzBpcjkwRFFHd1UxcU11Qmc?oc=5)
 
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-24 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
+來源：[Diari digital de la URV](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUNjVWpZNG9WTUdtOTh1NGNsZWVKcnJjNTRZUThOTm54UVZDN2pwXzNSSnFmTGplRWtwTUJaRmgySnc5dDdwT1VDWWl1dWlvUmNMMWJXMEZWNTI4bXFzVTFheXVabGowVFc5eGRLYXA2Rmx0bUpxSGgzVGxCUkVncVluVm9GUzBpcjkwRFFHd1UxcU11Qmc?oc=5)
 
 ---
 
@@ -99,6 +99,22 @@ permalink: /news/ferric-maltol/
 2026-07-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
+
+---
+
+### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+---
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 
@@ -118,19 +134,19 @@ permalink: /news/ferric-maltol/
 
 ---
 
-### [Farmaci anti-obesità, l'incredibile legame con la caduta dei capelli: cosa dicono gli scienziati - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
-
----
-
 ### [Diabete, l’algoritmo che indica chi dovrebbe controllare prima la retina](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
 
 2026-07-23 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWsyX18xanlsSGtfZkE2aVJLTlVfSW9zNGU3UzhfU2pnQTdvaXZvdFd2N2hRaWIwZ1llczRrU2JJa3MxY0xWZHpMTGhRN3dqM2lmOHFuRmtQdmpYc3A5bFRxX1VQNkltVHN6R1JWZ1pkQTdHNjNoZ1ZVaHN4ZU1ybzNuSnJCd0lFRmIzUWNxQmxBazdnMERuc3JwZXE2TnBxankxNUlUVjMtRkVjdnRYdWZ0Mk9OOTBkQ01GMnVuY0hkZEwweGQ5WnV3?oc=5)
+
+---
+
+### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="Prasugrel 有什麼相關新聞？">
-<strong>Prasugrel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prasugrel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/prasugrel/
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+2026-07-24 <span class="news-indication-tag">artrite</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+---
+
+### [Bluthochdruck: Ab 180/ 120 mmHg drohen lebensbedrohliche Notfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXhBU3lrdzZGZFFPMl9MVXE3NVZROGlYc0JCLVlWdmdyTDlkZ2dIcmpVcGJfVnM1UkIzNXk5NE1DOUIybUFYdU94enhXYVMxdGI4SFBhUXBLdWtVZWN6ajFoVnotOGdkbjFQTkZyVXoxcTZPT21sOVdBM1dUT2t3WkRocHVNQjRlVTFmVDJJSC04TzZ2c3ZfdzJSYWswNTBETzhoeGk5d1hhTmhfNGRpLTF2MA?oc=5)
+
+---
 
 ### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/prasugrel/
 
 ---
 
-### [Bluthochdruck: Sartane mit Blockern senken Abbruchrisiko um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2d5UnVjMGxKOWpLaWlCZ3ptUkdOb0tpaTd0ZW80cGJCU0VTam42Wnd4Z3NsYkF6LTZvNDVkNURqUnh6eUVKTmd3dk1FN0I1dmpueTQxbXpBRDB6ekg1YkFEQ1lJeVZWM1N5NEllVGt4cjFiaWxXaEtEZVByN3NOUUdHa29OWURkbGdIRnJQUWk1cUVLVzhpVHREMDhqMzRzb2haNEFleDZEdDBsZFBuYlprTmRjSlZxblE?oc=5)
+### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2d5UnVjMGxKOWpLaWlCZ3ptUkdOb0tpaTd0ZW80cGJCU0VTam42Wnd4Z3NsYkF6LTZvNDVkNURqUnh6eUVKTmd3dk1FN0I1dmpueTQxbXpBRDB6ekg1YkFEQ1lJeVZWM1N5NEllVGt4cjFiaWxXaEtEZVByN3NOUUdHa29OWURkbGdIRnJQUWk1cUVLVzhpVHREMDhqMzRzb2haNEFleDZEdDBsZFBuYlprTmRjSlZxblE?oc=5)
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/prasugrel/
 2026-07-23 <span class="news-indication-tag">arthritis</span>
 
 來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wVU82dUlkQ1llc1F0MzR0anBwYTctMlRhUmJpUkJxdmJBYkJtNlJGYU8zT3lEQzVDdW1RLW5CUEJqM1JGX1BRNlpaLVUtMXJqYWphOUVTZ0xTMFNiSElQREVmcmJnZWVuUWVBM081Zw?oc=5)
-
----
-
-### [Cardiologist warns 'never ignore' these five symptoms of high blood pressure - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
-
-2026-07-22 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEM3SXhGbE54R1lyVDJMRVl1dEhyQkt5NllwS1FMUlY0WmV0NjhBOWI5Vmo0dEZ5cmFHYzN0aFlxTTZGNmNmbUs3OFpuQ3BzNjUzTWRfQm1nUGQ3Z1ZuLWF2OTh6dnNibmE0T2x5WXd4Sm5LbUtaWDlzNDhHVUd3UHAybDI1cFZjWUHSAY8BQVVfeXFMTlJ0LUY5MWQyRVZEV0hMVjRYVWNZTy02dkdXXzFKczFvQnRld09Jc20xM2FvQUtnU09pbzRGYWFTRkdDaEp3VUZiMUZNYlRZLUdzVzNRWXFfVXZZSFFpMGttX1c0OTdETnZSTmw4QURZcDBZeFJkcGNyVjQ3THdQVDRpU2RQN1lSRVdCS0ZGMjQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,13 +52,29 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+2026-07-24 <span class="news-indication-tag">artrite</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
+
+---
 
 ### [US-Studie verknüpft täglichen Avocadokonsum mit geringerem Herzerkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[FreshPlaza.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWtmeHI1eWl2S0JoYWphMWNXTTNNanJBSDExeUxmSG9fWlpEQ0lEUDJrN0NRcVBoTnlVSWMxQTU3TzRjeURhazN1cm1KNV84aEI3ODN0VHRfTlpqd3R6VjlWYmpoenVUZW1tOWFEV0U4YXFKdDlMdUdCX3hKMTZmOXVqYVdSdERKNDRHanlyLW5PRkhNc191Zi00enZLTUY2MTJxbVdKbG5ybElUSTBUWERxMzhubVdCU1I1Rm11aVY?oc=5)
+
+---
+
+### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
+
+2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
 ---
 

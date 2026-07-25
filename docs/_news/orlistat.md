@@ -54,19 +54,27 @@ permalink: /news/orlistat/
 
 ## 相關新聞（11 則）
 
+### [Schlaganfall-Folgen: Jeder zweite Patient profitiert von früher Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
+
+---
+
+### [Aurelio Rojas, cardiólogo: "Las personas que beben café de forma moderada tienen menos riesgo de infarto e ictus"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+
+2026-07-24 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[Trendencias](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXF5QlVOVmVONUk4WHBuRmNnOWdIcnVGVWRlY190ellqZl91aUgwMy1qNlZseG1DVzNlVGtSMm5DMXNGVDl2cXFWRjBjZEQ5UXVEQmxmQV9XRThnRmVuVkRZZTdUY0dld2RYd3V3LTh0UWxTNXdGVTFzOThZWTIzd3BaTmRLRXhDRzF2dHIzUGRRNV93Z2JYLUtlZzM0Z2xsX1YySHZqeUhOckxDRzVkVU5lMFhFSHJWMldhWVN6S2JBMmt5RWfSAcsBQVVfeXFMTWNYUmFKanFDYjgtRXBrdVFMT0cwbl9fdHhhWkFXbm00RVE3eDFRMmxBTW5JTGJsR3d2LWc4SEF6QmdXcVI4LXdBWTB3bTlfby04M19CaTNDVFc0Nm02N1pCVGNHTEprWXZ5VWJXQVlmOTZ3Vlg4TEZhOHNrWjFBMFJjdnFDLTBHbTAtOUJHdUxGTXhFTUQ4ZnFfN0JFMF93SFJkdlVOaGx1ODVtdWhMa1FWVXVhNGFLVU9NZUFnaHY0eGs2Mm5PQTkzOGc?oc=5)
+
+---
+
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [Wirbelsäulenmanipulation: Ärzte warnen vor Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaERBeXBfM2ZjaVZ5STlCcnRndmxJS0hEUzNrVFh4cmNMa0ZUUjV1ejdmRlZHVkNKcnFvUTZtb09YbWt6Y3lCTXdNcUU4OVVmWXlncndsd0oxT2JzTkR5RU1kODdPNzVzN1JzSE53bUNSNGVWNjRiQmhQb0xNZDhyTTVYdndnN2dsQzFQV25IdmJOaF82MEN2TWw0RnVmSG5ZUkgxaEhLa252VWRTYVNBZw?oc=5)
 
 ---
 
@@ -118,27 +126,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci anti-obesità, l'incredibile legame con la caduta dei capelli: cosa dicono gli scienziati - Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTREY05Gd0QtRVowenh4NDhONWpyVDZmNHQ0R24tTjk1cUxWM2F4bHhBSlVXN2NXSUVVNzVWVjQ4SlFpQVoybXpvb3BDaUt5dFVmLTFqeno4eVZJQnI3X2tUNXo1cjAzQlZyT3FOLUFNbjkwaHNOM3g2X05kZ1AtUjRsREJ0OXJQSDJ3a3hJSkZVSk1GZ3BTSDJudDFhNnJRSEd0YmFNMFFOdlBib0JzSNIBrgFBVV95cUxQYkFGRnZtb1RRYkV5dW1MTmZBa1V4ZC1XanoxSGh2TUFtem8wY3d3OTZSRlhPb1pyMklRVEItNXRfY3lkZjdDQ2dFN0xLcGhKQWhkYlR5M2hKdHhhZmdrblBGeXk1dzZhdWY2Nks5UEpzb1F0SFJJeXFHWGVJeUhQNDRIV2FORFR2NlN1NGsyWk1ZQ1ktOHRWT05KSkRPOVFlSGJrT3dWa0JnbkxqU3c?oc=5)
-
----
-
-### [Obesità, il muscolo cambia prima della bilancia: la conferma da uno studio internazionale - Corriere Salentino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhvRVZwdGVfbDh3YXpqTjY0YTJuU2lRMkRyY0hFOFF2b0gtSEJmMjJnSU1oczBCYlJ6YmxuWWF5WnZTdndPWXA5Sk5rZjVYWTdFS0V3aFlEeXI1cG5xRjF2eUIybjhmY0JBbW5JTjJ0ZTd0SF9oUVg1NmtyYjNfbnd6VGxiRl9EaEFLdUNRbk5UQzAwUnNRV2dOOFR3S0pMcGtNZXFURlktSlhmc0RBM1BlUHZlR1hudVd2bTRKUEFFYzVkamxGTw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">obesità</span>
-
-來源：[Corriere Salentino](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblhvRVZwdGVfbDh3YXpqTjY0YTJuU2lRMkRyY0hFOFF2b0gtSEJmMjJnSU1oczBCYlJ6YmxuWWF5WnZTdndPWXA5Sk5rZjVYWTdFS0V3aFlEeXI1cG5xRjF2eUIybjhmY0JBbW5JTjJ0ZTd0SF9oUVg1NmtyYjNfbnd6VGxiRl9EaEFLdUNRbk5UQzAwUnNRV2dOOFR3S0pMcGtNZXFURlktSlhmc0RBM1BlUHZlR1hudVd2bTRKUEFFYzVkamxGTw?oc=5)
-
----
-
 ### [AVC, troubles cognitifs… Des espoirs pour traiter la maladie des petits vaisseaux cérébraux qui touche des millions de personnes - Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
 
 2026-07-23 <span class="news-indication-tag">AVC</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMijAJBVV95cUxOS0tXT3ZrYWV3NndidnR0MlhKMkhKSFhRYU5peXlaWW9UVlZlRVBubzJzNjZtZ0lSZGNMcXEtYnVHYk55MUlBLUZFelpFcVNfRlM3ZVBabTVyVFNscjlQaExGN2NkZ3g1cndxWVJ6TUVUcl9ldGhzS3g5ZFIxS3YzVkUteWw0VnBhZ3pLSzNHSXdPUVZaaHAxbXhDTHNPMGQ2MzZEc2NkMkkxRXVwUVlubEZHam5wakpMcHBHRWpqX3RsbTd0WE5xTUN1czRaU3A0cUY5OTdHYTQtcFhwUW5SbXNLTEQ3T2p4dDZfb0xxb2hRV2QtOU1Gb1NiWldqbzMtdjd0V3RVbmh4NUV2?oc=5)
+
+---
+
+### [Farmaci GLP-1: Ozempic e Mounjaro fanno perdere i capelli?](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
+
+2026-07-23 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXNkUGNJRWtpaHllMVdHSmE1YzE2RUdKbkY1WFZqNElENzhJT21fX2ZnTjFrVDVLdmFmQ0RaYjZ1eUZ1OEF2MXF5aGhTWFBRWXFxdDhaSl9LdUEzODFOTHlGU2ExUXdyRHNDeGlabGF2SEttZmZqNDdjeHNSOHloRm5BTGpwUkM3bzhnTEp4NkhBSWJrb25JdGVZdjh1bk0xRTFLVUhvU3JPQ1drSWNIeFhJWEpWd2M?oc=5)
 
 ---
 
