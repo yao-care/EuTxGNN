@@ -54,11 +54,27 @@ permalink: /news/romosozumab/
 
 ## 相關新聞（5 則）
 
+### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+---
+
 ### [La «pandemia metabólica» de la diabetes se triplica en América e impulsa nuevos fármacos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
 
 2026-07-26 <span class="news-indication-tag">diabetes</span>
 
 來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+
+---
+
+### [Karotten: Rohe Form senkt Blutzucker, gekochte erhöht ihn deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
 
 ---
 
@@ -75,22 +91,6 @@ permalink: /news/romosozumab/
 2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
-
----
-
-### [Orales Semaglutid schützt das Herz bei Typ-2-Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29MV1Y1MzhBb3IzWHZpVHVXc3g5WU1odVpFbDRuOWZyM2hCeXFtQ19ENUJoekZUZ3M2MWNxTVJNMXRGaDROUk9tLUNTNmliQUVzcWlVa0g5aDJLOHFqSlp5VFBaaU5LbkRIRXNZNHVib25qRFlrZnN6anJ4TmZzNUVuYmtzVF9tSGJVeldlMUVEMnlhLS10UklPaC1STmRqdVRlX3FkTWo?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29MV1Y1MzhBb3IzWHZpVHVXc3g5WU1odVpFbDRuOWZyM2hCeXFtQ19ENUJoekZUZ3M2MWNxTVJNMXRGaDROUk9tLUNTNmliQUVzcWlVa0g5aDJLOHFqSlp5VFBaaU5LbkRIRXNZNHVib25qRFlrZnN6anJ4TmZzNUVuYmtzVF9tSGJVeldlMUVEMnlhLS10UklPaC1STmRqdVRlX3FkTWo?oc=5)
-
----
-
-### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 ---
 

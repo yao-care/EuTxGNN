@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（8 則）
+
+### [Obésité aux États-Unis : les données de 300 millions de dossiers médicaux révèlent une décrue inédite liée aux traitements GLP-1](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obésité</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
+
+---
+
+### [La edad, la obesidad y una dieta pobre aumentan el riesgo de déficit de vitamina D - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOVlmenNVZE1xdzY4akJySjR1YkJVWXFvY2s3blRZMnZEX0kxN3JJODVaYW9TSDNnNzVfMkR2MUotelhEWGQxYmJNTEMyMVkxbGQ5a1NuZ0pfYi1WYlpnWjRMV1hLOS1R?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obesidad</span>
+
+來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOVlmenNVZE1xdzY4akJySjR1YkJVWXFvY2s3blRZMnZEX0kxN3JJODVaYW9TSDNnNzVfMkR2MUotelhEWGQxYmJNTEMyMVkxbGQ5a1NuZ0pfYi1WYlpnWjRMV1hLOS1R?oc=5)
+
+---
+
+### [Bbc, clamoroso sfregio dagli inglesi: "Ecco perché i bimbi italiani sono grassi" | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjdMR0g0MUpuTExTZDNjTUFMVjNuSVJUOUctTVpYV0FPT09ySXZvWE1MUnpQQ2M4aEFUQW5id1FGY2xoZ3J4d1d4U1JOMjVCMzZadDNQS2JqZml5SnQzSS1Ma2gyRUxqSUJrYWhaa0xGZ2ZVdFZpaE1YZ19hN0ZlMXFtcDAzWjA5c2NnNlRVRjFkRXlKZ2d2Sml3ZnFLNmN2b29fZtIBqAFBVV95cUxQeWh5azFBeGZLak1RdkRKSUVwdUJ3NElyM2hKMGZrNjdBX0llTE1EejVkYW5ocjAwendGOXRDMTNmcktHRFVKWFdCbV9tdlhqQjZidUFlbTdsa0Q3djdaNmQyRHJHWFMwR1NlTmlPRTRfZmxudUZoTm1RNWFVUV9vZi1ydzFGNWM2V3hkcFE3WkFwdjE3TEJiTkRvZE9xczBueEpHTm9BZXQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obesità</span>
+
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjdMR0g0MUpuTExTZDNjTUFMVjNuSVJUOUctTVpYV0FPT09ySXZvWE1MUnpQQ2M4aEFUQW5id1FGY2xoZ3J4d1d4U1JOMjVCMzZadDNQS2JqZml5SnQzSS1Ma2gyRUxqSUJrYWhaa0xGZ2ZVdFZpaE1YZ19hN0ZlMXFtcDAzWjA5c2NnNlRVRjFkRXlKZ2d2Sml3ZnFLNmN2b29fZtIBqAFBVV95cUxQeWh5azFBeGZLak1RdkRKSUVwdUJ3NElyM2hKMGZrNjdBX0llTE1EejVkYW5ocjAwendGOXRDMTNmcktHRFVKWFdCbV9tdlhqQjZidUFlbTdsa0Q3djdaNmQyRHJHWFMwR1NlTmlPRTRfZmxudUZoTm1RNWFVUV9vZi1ydzFGNWM2V3hkcFE3WkFwdjE3TEJiTkRvZE9xczBueEpHTm9BZXQ?oc=5)
+
+---
+
+### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+---
+
+### [Lombardia, 2 milioni per l’accesso ai nuovi farmaci anti-obesità per i pazienti più fragili](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2toM05aSGoyd3M3RHd1TkpaRGswcFJwWmVjRkJfTmYyOWRCajNYXzJPTm5SWlU0dHM3dXZNdDFhdU5ZTkhXajNzMmRqWXFBLU9KbWcxdXFaa0VBSTl5dXFoQlBvek1HM1lWSldVVmU4b1ZIZnVmM3ZBRXJRdVZGQ1dMWVRha3k1aWMzc1dFQ25vbFJmQWNfUE92X3NCU2ZMTnZNbk9KeVF6aHJvYmpnNjgweEhxWFU3OTFPeEg0MHQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obesità</span>
+
+來源：[RIFday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2toM05aSGoyd3M3RHd1TkpaRGswcFJwWmVjRkJfTmYyOWRCajNYXzJPTm5SWlU0dHM3dXZNdDFhdU5ZTkhXajNzMmRqWXFBLU9KbWcxdXFaa0VBSTl5dXFoQlBvek1HM1lWSldVVmU4b1ZIZnVmM3ZBRXJRdVZGQ1dMWVRha3k1aWMzc1dFQ25vbFJmQWNfUE92X3NCU2ZMTnZNbk9KeVF6aHJvYmpnNjgweEhxWFU3OTFPeEg0MHQ?oc=5)
+
+---
+
+### [Millions of people are losing weight using GLP-1s. How do the drugs affect their love lives? - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEUwTnJ5MG1aUG9jM0lrTWhhaWRyQXNBdnkySkRqeXRLQ3pvVnRVRVdfSXJ0YWN4Ymc3MWpMMGxfNUF0WG5UeTR3MjJ4bVJpdDhDaGpCT2YzSkU3UVp3eGZzcUcxN1pZOElzZ3U0aGtSdnJrVFRoVkhtbTBNSl9Wa2xkQkdxSktXWTRrMTNhTUVXQUJHcVlSc1BKbS0?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEUwTnJ5MG1aUG9jM0lrTWhhaWRyQXNBdnkySkRqeXRLQ3pvVnRVRVdfSXJ0YWN4Ymc3MWpMMGxfNUF0WG5UeTR3MjJ4bVJpdDhDaGpCT2YzSkU3UVp3eGZzcUcxN1pZOElzZ3U0aGtSdnJrVFRoVkhtbTBNSl9Wa2xkQkdxSktXWTRrMTNhTUVXQUJHcVlSc1BKbS0?oc=5)
+
+---
 
 ### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
 
@@ -67,14 +115,6 @@ permalink: /news/naltrexone/
 2026-07-25 <span class="news-indication-tag">obesidad</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
-
----
-
-### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 ---
 

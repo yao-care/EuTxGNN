@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [A daily fiber supplement reduced knee arthritis pain and improved strength](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+
+---
 
 ### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
 

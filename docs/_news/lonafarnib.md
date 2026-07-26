@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Bluthochdruck: Kombinationen senken Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWNQazlsS3BKb1ZwMVNRaHcySkdGNDZLZ21tbkxyZkNOVS1BZ1VpTFRGdzlQWE44Vmt4b19MWjRmeGI2UEZNdDROV1cyLXVHWTZVb1lTdGtpNVE3cEt2ZnBqUm55U084QW9UOEJKYl9zNVAyRjFySm1SVXhxd1czN0tzLUZiSlJoR3BMdjFRbm85RTZuVkVTdENTUk5qZXF4Mk5xUGJ0Y05pckJ1bld4dTB2NA?oc=5)
+### [Bluthochdruck: Kombinationspräparate senken Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
 
 2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWNQazlsS3BKb1ZwMVNRaHcySkdGNDZLZ21tbkxyZkNOVS1BZ1VpTFRGdzlQWE44Vmt4b19MWjRmeGI2UEZNdDROV1cyLXVHWTZVb1lTdGtpNVE3cEt2ZnBqUm55U084QW9UOEJKYl9zNVAyRjFySm1SVXhxd1czN0tzLUZiSlJoR3BMdjFRbm85RTZuVkVTdENTUk5qZXF4Mk5xUGJ0Y05pckJ1bld4dTB2NA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
 
 ---
 
-### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
+### [A daily fiber supplement reduced knee arthritis pain and improved strength](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">hypertension</span>
+2026-07-25 <span class="news-indication-tag">arthritis</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
-
----
-
-### [Bluthochdruck: Vegetarische Kost senkt Druck um 4,8 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
-
-2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/lonafarnib/
 2026-07-24 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
-
----
-
-### [Voici la fascinante piste contre l'hypertension difficile à contrôler explorée par des chercheurs selon une étude prometteuse - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
-
-2026-07-24 <span class="news-indication-tag">hypertension</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
 
 ---
 

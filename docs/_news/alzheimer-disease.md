@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Leading brain expert brands soft drink a ‘bullet to your brain’ in stark dementia warning](https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VXSmVCaS1pY3RYTGRobktEc09nVUFsZ3ZCeW4zMTdIUWlTZ0xTN0pYVUVtWklKU0NsZVloWUtiYUZPUzNTREhZN1dLaWU1TG02THFzXzR1eWJBUTVKandsemhHYTNFV1c5aFpKa3kxVHVkSWxrNzdkNUE1cDNjREtUdWVxcnlCck5wakZQTW1rWjBCaXM4V2UyOHRuT3kydjNhbTlLS1pmUUdLZ1l1SFoxV3hGVVMxV2huQk5ad3VvRzdpaXfSAcsBQVVfeXFMUG4wUzZhYkFLbnJfQVNIRTRlQmUzaC1LZUVRWkExRnNkWTFOMzBzSjNXMWRGMm5iekI0Zms0Rzg5OWw2OGpWbWY2TFM5a3NLSFRFd3JzRERMeHd6UGpnSzZQeXJOWXFxWXJwTExMbXFXRU1FNjUwQ21ReE90TTZiOU9ZR2V2dXN1dU93SjVvejN6ZllCM2h2cG83dVdkUzRORTVsUXlVdnotRFFIU2QxRzNPa19feVA4Y2pDdjVrM3c5cGp6R1Z3bUxQVXM?oc=5)
+### [Scientists identify physical change that could signal dementia years before diagnosis - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
 
 2026-07-26
 
-來源：[7NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VXSmVCaS1pY3RYTGRobktEc09nVUFsZ3ZCeW4zMTdIUWlTZ0xTN0pYVUVtWklKU0NsZVloWUtiYUZPUzNTREhZN1dLaWU1TG02THFzXzR1eWJBUTVKandsemhHYTNFV1c5aFpKa3kxVHVkSWxrNzdkNUE1cDNjREtUdWVxcnlCck5wakZQTW1rWjBCaXM4V2UyOHRuT3kydjNhbTlLS1pmUUdLZ1l1SFoxV3hGVVMxV2huQk5ad3VvRzdpaXfSAcsBQVVfeXFMUG4wUzZhYkFLbnJfQVNIRTRlQmUzaC1LZUVRWkExRnNkWTFOMzBzSjNXMWRGMm5iekI0Zms0Rzg5OWw2OGpWbWY2TFM5a3NLSFRFd3JzRERMeHd6UGpnSzZQeXJOWXFxWXJwTExMbXFXRU1FNjUwQ21ReE90TTZiOU9ZR2V2dXN1dU93SjVvejN6ZllCM2h2cG83dVdkUzRORTVsUXlVdnotRFFIU2QxRzNPa19feVA4Y2pDdjVrM3c5cGp6R1Z3bUxQVXM?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
+
+---
+
+### [Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
+
+2026-07-26
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
 
 ---
 

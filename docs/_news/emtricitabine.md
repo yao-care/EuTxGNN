@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="Emtricitabine 有什麼相關新聞？">
-<strong>Emtricitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Emtricitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/emtricitabine/
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [„Lass uns Klartext reden“: Aktionstag der Hepatitis-Eliminationsinitiative in Nürnberg - Mainfranken News](https://news.google.com/rss/articles/CBMivgFBVV95cUxObTB2c2owYmZFT0NVSF9ldzNLSWdGRlB4cjFmbzJxRlF4NGNwRGJrX0VCNzc5ak5MVTU2bk9FcHE4RUwwT2djSElKRElfelZESHNWLTZKRy1LRzgxOFBJekh0aDlNc0twcmNXMmZYd0lZT0VDSjJPeF9jMnd0NDh3XzZvMVc3V2JRNnhwUDhCX0dtOC1FNTAzM1gxWnRxU29ha2VVOVZIUzE0eG5nZmIyZmFaODJNNlFlQzBIcTNn?oc=5)
-
-2026-07-26 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Mainfranken News](https://news.google.com/rss/articles/CBMivgFBVV95cUxObTB2c2owYmZFT0NVSF9ldzNLSWdGRlB4cjFmbzJxRlF4NGNwRGJrX0VCNzc5ak5MVTU2bk9FcHE4RUwwT2djSElKRElfelZESHNWLTZKRy1LRzgxOFBJekh0aDlNc0twcmNXMmZYd0lZT0VDSjJPeF9jMnd0NDh3XzZvMVc3V2JRNnhwUDhCX0dtOC1FNTAzM1gxWnRxU29ha2VVOVZIUzE0eG5nZmIyZmFaODJNNlFlQzBIcTNn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Rage, hépatite, typhoïde : le point sur les vaccins de voyage](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
 

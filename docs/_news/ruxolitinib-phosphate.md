@@ -14,7 +14,7 @@ permalink: /news/ruxolitinib-phosphate/
 ---
 
 <p class="key-answer" data-question="Ruxolitinib Phosphate 有什麼相關新聞？">
-<strong>Ruxolitinib Phosphate</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ruxolitinib Phosphate</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/ruxolitinib-phosphate/
 <p><a href="{{ '/drugs/ruxolitinib-phosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（18 則）
+
+### [Elderly shut out of ‘golden age’ of cancer care - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm5veWFrdnpkZVRISEtxcVlzblAxZXBEamxGWnJPMXV0b2pCVzlEYVMwR2tMRlhpMjJoYzhUV1RITFRiUzFnX1RMbWdQN29PU3lfdWFiSmZnUUo4TUJzc2huSEJBb3FvaUJRSWpkb3N3YmpNdklpelZSTDdjMVpqcUxfVWxSWmZsTHdYT0Q0SnpRdVdYc2VjNWNsaGE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm5veWFrdnpkZVRISEtxcVlzblAxZXBEamxGWnJPMXV0b2pCVzlEYVMwR2tMRlhpMjJoYzhUV1RITFRiUzFnX1RMbWdQN29PU3lfdWFiSmZnUUo4TUJzc2huSEJBb3FvaUJRSWpkb3N3YmpNdklpelZSTDdjMVpqcUxfVWxSWmZsTHdYT0Q0SnpRdVdYc2VjNWNsaGE?oc=5)
+
+---
+
+### [Vaccino personalizzato contro il melanoma: la nuova rivoluzione nelle cure](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZLb3FWMXM1R0pRaVh6b0xUMENPcFhSWXNLNDFXbldNeTRRbkt6d21FNEM0VWxURVZleHpjbGNGNXVnT1VnOUVQQ3BwZnk5UWhxVW5QWEFKbF9xY2hEbUZQd0FiZEx2c0lWbXV1UW9LcGNCa28xdHlsQUViOFZib0REaEVybEQ5V3BhbFZOWk9nTlhWNTk3MkNMMDhDWTJTNU41cURfX1ozaU9pY2pNdzFYbV94Z3dJcTgwQ1c4aDNiQQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">cancro</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZLb3FWMXM1R0pRaVh6b0xUMENPcFhSWXNLNDFXbldNeTRRbkt6d21FNEM0VWxURVZleHpjbGNGNXVnT1VnOUVQQ3BwZnk5UWhxVW5QWEFKbF9xY2hEbUZQd0FiZEx2c0lWbXV1UW9LcGNCa28xdHlsQUViOFZib0REaEVybEQ5V3BhbFZOWk9nTlhWNTk3MkNMMDhDWTJTNU41cURfX1ozaU9pY2pNdzFYbV94Z3dJcTgwQ1c4aDNiQQ?oc=5)
+
+---
+
+### [New cancer treatment praised by first recipient](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XU1RRUkNhSHNtazhiUVh1VHNnemRFS0VpSGVrQnJMYzI1eG9pS285cW1wX0hta0RBR2t4MUlrMjg2RXNGTzVmUzdVV0EzN1B0TDIzMUVBVVdjZF9f?oc=5)
+
+2026-07-26 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XU1RRUkNhSHNtazhiUVh1VHNnemRFS0VpSGVrQnJMYzI1eG9pS285cW1wX0hta0RBR2t4MUlrMjg2RXNGTzVmUzdVV0EzN1B0TDIzMUVBVVdjZF9f?oc=5)
+
+---
+
+### [Microbioma e cancro al colon: maxi studio su un batterio intestinale associato alla resistenza alle terapie. Il ruolo protettivo delle mele](https://news.google.com/rss/articles/CBMiowJBVV95cUxOOWhIaFd0c1pJNU9jQ3ZrUUxrOXpQYm56QlFwdkNnUVhSWUd3M1N4TElCR1hveC1Lc3NDMHJFTktyR3V0Ti05WDhjVU5KWFlCYUtMZk1FNG5NLU1iTUlSOWJyNEpOakFIU080YVI1ems3eFg0NldXanJlQm0tUC1zVnpjd2JRbExRUl8yZEFabTM0YlFHcUcwZGNnMjlDTVp4aE45Yjg0SzNMSnZDUHBmdk5RUzNYamxWT3lGcW1EU0w0TnN6YUM0UTNVdWU3TFpzUzRPQmpLRjhQcFotNm1RcE1POWtqM2xlVExnVUdwUENQTlliZ25xUWNHa0RsNmxPQjZPbmhDcDBFcG45TVp5TGVxU19LZVV3UzBfV09mc0NMVms?oc=5)
+
+2026-07-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiowJBVV95cUxOOWhIaFd0c1pJNU9jQ3ZrUUxrOXpQYm56QlFwdkNnUVhSWUd3M1N4TElCR1hveC1Lc3NDMHJFTktyR3V0Ti05WDhjVU5KWFlCYUtMZk1FNG5NLU1iTUlSOWJyNEpOakFIU080YVI1ems3eFg0NldXanJlQm0tUC1zVnpjd2JRbExRUl8yZEFabTM0YlFHcUcwZGNnMjlDTVp4aE45Yjg0SzNMSnZDUHBmdk5RUzNYamxWT3lGcW1EU0w0TnN6YUM0UTNVdWU3TFpzUzRPQmpLRjhQcFotNm1RcE1POWtqM2xlVExnVUdwUENQTlliZ25xUWNHa0RsNmxPQjZPbmhDcDBFcG45TVp5TGVxU19LZVV3UzBfV09mc0NMVms?oc=5)
+
+---
 
 ### [Brustkrebs: So beeinflusst Kaffee das Erkrankungsrisiko](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTVxTGxJRWRZd2dES0txMkZlUG9CbXJGcjVxb3k3WWtyR1pUX3lmSmY2bDY2SElqYThhbVZNWUhKSHhERmtkdkdSam9wZkJyWlRvUElzbEYyWDE5NXA3VWtCTHJObzdEOFR2RklzSGxZTEJ2bTFoYWJVdnQ4UVN6Ql9MdHprQ1AxVTdBWE5tbHRCTS1ic0xCb25wUGRkaFpNaVBud0FNNkxqN2tRM0tJQmxTcGZEZw?oc=5)
 
 2026-07-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTVxTGxJRWRZd2dES0txMkZlUG9CbXJGcjVxb3k3WWtyR1pUX3lmSmY2bDY2SElqYThhbVZNWUhKSHhERmtkdkdSam9wZkJyWlRvUElzbEYyWDE5NXA3VWtCTHJObzdEOFR2RklzSGxZTEJ2bTFoYWJVdnQ4UVN6Ql9MdHprQ1AxVTdBWE5tbHRCTS1ic0xCb25wUGRkaFpNaVBud0FNNkxqN2tRM0tJQmxTcGZEZw?oc=5)
-
----
-
-### [Man who went to opticians for reading glasses diagnosed with melanoma - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFJINk8temItbWRLN2c3SFFnelNJV0xqZDJkX2dPUVN0WHNzb1BXZ1psZWN1THBXYUVYZjZ2V1UySU8zd091WGZySWNSRW1DRVB3NHpwWlZfM09oZHBMQTVHWlFHdW1HaXh3aHZGalc5MlBBQXNzVUlUOWVyNDlpNlRldFRZNXRDaGF2RjhEWXRjbGJpSkd3SDFvV2g?oc=5)
-
-2026-07-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFJINk8temItbWRLN2c3SFFnelNJV0xqZDJkX2dPUVN0WHNzb1BXZ1psZWN1THBXYUVYZjZ2V1UySU8zd091WGZySWNSRW1DRVB3NHpwWlZfM09oZHBMQTVHWlFHdW1HaXh3aHZGalc5MlBBQXNzVUlUOWVyNDlpNlRldFRZNXRDaGF2RjhEWXRjbGJpSkd3SDFvV2g?oc=5)
 
 ---
 
@@ -80,7 +104,7 @@ permalink: /news/ruxolitinib-phosphate/
 
 ### [Il farmaco per la disfunzione erettile potrebbe contrastare le metastasi del cancro](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHNQZzZZTFlmRUlHTUZtRGtDVVVENlhKOUU4QWRwbHQ0aERqcGZtZHIyRXdObTJOMkJWMExwSGZNd3dkNVoyTjJxckFRTWRSbWtnUzhfUG40OVM1Tm9SWGMtakhRS2NaM3dNckwxMHBEWkdRWkZIR1g4TlBvaHY2VExWeFc1Qy1jUmdZU21sczFwanN1Wk54bmJVYXNFaXhSQkNGVkl5dTU1M0dsNld3QkZLZFhHT1RJcThaa1NxRWloS012d0J6dUo2bjFwa2J3UWQwX3U2Wk4wSmJ1ZVBIamNhZVlvSFIzaFdnMzJ4b2NMdTRTMmdwM9IB_gFBVV95cUxQSkVTa0tZRXhzZm5FZXVoYldsbVczLXZfVE5QbWpxendtNExZVE1HVXFPcWwxa0dJOWFzWVRMNDc1VUZYUlpCTEJlY19SX0dUdFI1UlF1c0RiQU5ManM4RzdNMkRVa01zdW90S21obHRocDIzcnc1X0FVQWFoWk1xeWNMMmJ4TTRfYW9rMC1GWE1NNUFXT3NhSVZVQlhpNmgwQ0hyUHh2SjQwWTh4dkxxSDJucFpjWTBvYVFyanh3VGFyYkVSanQ1b0s2MElwLXREbGloRmZrR21wUk9vRndONDIxR3VmM19GR0FBTTdtR19mVmhYa29paTNFVEJ3QQ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">cancro</span>
+2026-07-26 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHNQZzZZTFlmRUlHTUZtRGtDVVVENlhKOUU4QWRwbHQ0aERqcGZtZHIyRXdObTJOMkJWMExwSGZNd3dkNVoyTjJxckFRTWRSbWtnUzhfUG40OVM1Tm9SWGMtakhRS2NaM3dNckwxMHBEWkdRWkZIR1g4TlBvaHY2VExWeFc1Qy1jUmdZU21sczFwanN1Wk54bmJVYXNFaXhSQkNGVkl5dTU1M0dsNld3QkZLZFhHT1RJcThaa1NxRWloS012d0J6dUo2bjFwa2J3UWQwX3U2Wk4wSmJ1ZVBIamNhZVlvSFIzaFdnMzJ4b2NMdTRTMmdwM9IB_gFBVV95cUxQSkVTa0tZRXhzZm5FZXVoYldsbVczLXZfVE5QbWpxendtNExZVE1HVXFPcWwxa0dJOWFzWVRMNDc1VUZYUlpCTEJlY19SX0dUdFI1UlF1c0RiQU5ManM4RzdNMkRVa01zdW90S21obHRocDIzcnc1X0FVQWFoWk1xeWNMMmJ4TTRfYW9rMC1GWE1NNUFXT3NhSVZVQlhpNmgwQ0hyUHh2SjQwWTh4dkxxSDJucFpjWTBvYVFyanh3VGFyYkVSanQ1b0s2MElwLXREbGloRmZrR21wUk9vRndONDIxR3VmM19GR0FBTTdtR19mVmhYa29paTNFVEJ3QQ?oc=5)
 
@@ -91,14 +115,6 @@ permalink: /news/ruxolitinib-phosphate/
 2026-07-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV2VLdnJybUEyMXMxWVZOSHNnY1VobnhRTEF2ZEdybkYyT1lfY3hBWFpoNm5fZ3pTRmFkUGZTSnpNcHFjWUFGTDVkV0l2eExFRnFSVi14dWNqdmhGQnlfbTFmcFhNbjlKMmtfdkIteko0Y21GdkFLV1RvWlpsZkl6TV9fWVhXZVYta29ublJZY3ZJTVByYURiQkZ6V2NseWw5OUI4MVRlSjFLUGh2T3pXNmctRS12bGMxS2U4cHBhQVNEZ093Y01GZXhDcm9CbXA3dmtEWVRPV1EzOU93a1VGa2dSSjU?oc=5)
-
----
-
-### [Les risques liés à l'alcool commenceraient bien plus tôt qu'on ne le pensait - La Libre.be](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV043NW9mdy1KVGIxcDRZdTVPSXduVUNzM2hjR1hvQU1QSGtwZ1JOSU1YNEJIUFhCUUd3NGtqWkV0eTAwcHM5Snpyci1FUGwwUm5XNUc4NmRhSXdqMmk0VU8zeFg5MzhXZG81aE5XeThkYjhPR3lvUk5yYURjNmFRYm9lQ0lBcGVPM3lNb29yNjd4ZE5iNEdsUU5NRUNjREt4X0lYTFpKaVRfbmlYbk5Vdy1jWXJNdk1BX3NmNEMzRGtlTHVEWkVhUVJwamlzS2lpU1N4UGpuNF9yWWQy?oc=5)
-
-2026-07-26 <span class="news-indication-tag">cancer</span>
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV043NW9mdy1KVGIxcDRZdTVPSXduVUNzM2hjR1hvQU1QSGtwZ1JOSU1YNEJIUFhCUUd3NGtqWkV0eTAwcHM5Snpyci1FUGwwUm5XNUc4NmRhSXdqMmk0VU8zeFg5MzhXZG81aE5XeThkYjhPR3lvUk5yYURjNmFRYm9lQ0lBcGVPM3lNb29yNjd4ZE5iNEdsUU5NRUNjREt4X0lYTFpKaVRfbmlYbk5Vdy1jWXJNdk1BX3NmNEMzRGtlTHVEWkVhUVJwamlzS2lpU1N4UGpuNF9yWWQy?oc=5)
 
 ---
 
@@ -115,6 +131,14 @@ permalink: /news/ruxolitinib-phosphate/
 2026-07-25 <span class="news-indication-tag">cancer</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
+
+---
+
+### [Santé. Cancer du rectum : certains patients pourront-ils être dispensés d’une radiochimiothérapie ? - L'Est Républicain](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQnhySVRrc09kWjlrczdEc1BJV3dQOVlHWVpZN3VabF9STTZpZ0xxamdydC1rc1VBV3d2UVdFQWRWdHR3NGJHUTNCM2JLX3AteHpiTUtWaUFUQ2ZKMzZ5eFNweWJ6NElGNnpNTW1yaEFobk5nT3BiVjUwYV9mUnNmMXZvSFdLUHI4YWF6WGhhYlVsMkFzcGFhTnR4RDdpdzN6ZDB3aGxrZ184T0ZNV21xcGJSQzBTQURKVXNlTE1USGxyNF80Y3NPUzFiQjhhcFhaSmo2WnZaWFY4S3Bm?oc=5)
+
+2026-07-25 <span class="news-indication-tag">cancer</span>
+
+來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQnhySVRrc09kWjlrczdEc1BJV3dQOVlHWVpZN3VabF9STTZpZ0xxamdydC1rc1VBV3d2UVdFQWRWdHR3NGJHUTNCM2JLX3AteHpiTUtWaUFUQ2ZKMzZ5eFNweWJ6NElGNnpNTW1yaEFobk5nT3BiVjUwYV9mUnNmMXZvSFdLUHI4YWF6WGhhYlVsMkFzcGFhTnR4RDdpdzN6ZDB3aGxrZ184T0ZNV21xcGJSQzBTQURKVXNlTE1USGxyNF80Y3NPUzFiQjhhcFhaSmo2WnZaWFY4S3Bm?oc=5)
 
 ---
 
@@ -136,7 +160,7 @@ permalink: /news/ruxolitinib-phosphate/
 
 ### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
 
-2026-07-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-07-25 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
 
@@ -171,38 +195,6 @@ permalink: /news/ruxolitinib-phosphate/
 2026-07-25 <span class="news-indication-tag">cancer</span>
 
 來源：[Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGRTVXZRZVI3eHdhbzZnQlV2SmVsb29yVUVRVjZwZXlCT3ppb2c2Q2RsY0t6ck5WVm1RR1oxSlQ4R18zYVNpZFpBbEVab2tMZWtpaURKYnJsMTIyWldlUzZKYXptVTd5R2FuNXZReU5famNuUVJJVVFNTklmdnlPeHdZSE5sNjFzUjRvVEd1Ul9GNXVBM2d6YVFXN0JXSnh1WEJpaTFaNjVMRjlQdUJMclk0MFlPSDB1Rk84?oc=5)
-
----
-
-### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX?oc=5)
-
----
-
-### [Après des décennies de recherche, enfin une innovation thérapeutique contre le cancer du pancréas - Le Temps](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkdfdlpWcGdBUFhrak1JNkxiRk1lMlVsSm52LVgzcWRqUnItS0VQWFU0YnpOZm5hMmNHZy1lWUVrdnhrdG1nakYyMW1GQUR1YjRKVXFjb2NyZ1BzV0R6ZE9GT09WOGZYc1pFZGNiOU94T0k2RjVrWnFFSmVHMnd2RjcwMXlDQ294MTdLV21qTmpuaTZpeERSWTA2a21BaEo0MjB0bk9HcDQ1eGo5TU1HeTRqelRJa21fbjFCQlhGOW8wd3JIcEVtdFBMUUl5dDg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Temps](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkdfdlpWcGdBUFhrak1JNkxiRk1lMlVsSm52LVgzcWRqUnItS0VQWFU0YnpOZm5hMmNHZy1lWUVrdnhrdG1nakYyMW1GQUR1YjRKVXFjb2NyZ1BzV0R6ZE9GT09WOGZYc1pFZGNiOU94T0k2RjVrWnFFSmVHMnd2RjcwMXlDQ294MTdLV21qTmpuaTZpeERSWTA2a21BaEo0MjB0bk9HcDQ1eGo5TU1HeTRqelRJa21fbjFCQlhGOW8wd3JIcEVtdFBMUUl5dDg?oc=5)
-
----
-
-### [Una nanoterapia reactiva la inmunidad antitumoral en un modelo de cáncer hepático - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemtGSjVEYUJLeFZzY2ZJRHNMaEVnLUlYc3k3a015ZXZOR0o4djFEbWxqNk9vbWJGTHQzTW8xWXg4NWZiNGVuaFVJTDg5MVBtVUJfTDhtY2EyM0pNcllOblpUeEFQUUdDTE0xS09PWF9NdDBTY3JFVG4tZkVzdkx0NWdua0IxNkdfQlpENTFmSGNpSHRBdlY0LU93NXhGUHV5MlMtOXh4ZFlLRkNOTl8zRTExbWlSNjB4a3FaOUFMRFRHQdIBvAFBVV95cUxPMy1RTlRtU2dfT3ZGdE5JU0RvYWtyUHI2WGZBcXNLcUp3REZDNWpIUmRKaEUwNWNDa2Job3FIcm9DWkk5RjRkTGNpVnBicFNSMDZIZVVTNFpFVHVXTGFlMlhKMnJKNHpYVVFWZVcwWGJLV1R4c01NcDVReFUzWDJURmpZcl9VMXhVQ2VsZzBPSlM1eXZkcUFneVlYci0wbFp0Tkh0WDZ1VzItMXhOTFd4dlF1NkY4RVd1c3pqUw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemtGSjVEYUJLeFZzY2ZJRHNMaEVnLUlYc3k3a015ZXZOR0o4djFEbWxqNk9vbWJGTHQzTW8xWXg4NWZiNGVuaFVJTDg5MVBtVUJfTDhtY2EyM0pNcllOblpUeEFQUUdDTE0xS09PWF9NdDBTY3JFVG4tZkVzdkx0NWdua0IxNkdfQlpENTFmSGNpSHRBdlY0LU93NXhGUHV5MlMtOXh4ZFlLRkNOTl8zRTExbWlSNjB4a3FaOUFMRFRHQdIBvAFBVV95cUxPMy1RTlRtU2dfT3ZGdE5JU0RvYWtyUHI2WGZBcXNLcUp3REZDNWpIUmRKaEUwNWNDa2Job3FIcm9DWkk5RjRkTGNpVnBicFNSMDZIZVVTNFpFVHVXTGFlMlhKMnJKNHpYVVFWZVcwWGJLV1R4c01NcDVReFUzWDJURmpZcl9VMXhVQ2VsZzBPSlM1eXZkcUFneVlYci0wbFp0Tkh0WDZ1VzItMXhOTFd4dlF1NkY4RVd1c3pqUw?oc=5)
-
----
-
-### [On lui diagnostique à tort des hémorroïdes, elle meurt finalement d’un cancer à 40 ans](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNTFpS1FOM1Y3V0RKNTM0WFhTV1VlZzJPRmRwdWJBT1hVczBoRWdwVGxKWUVMZFc5QXJsQWs1OUdsQlJCYlU2V0hRdm45MngzeGR5czhnZm0zdVdtUXhQZjg5OVhsQ05oekZ4ekNWMU53MVg1TUQ2QWRtN2ZZcnQ2SUJOSnVIYkZOWnh4V2pjNHF3d0Ewc2RtM1Fpd0N4UkxJQzd0b0VhU19QTjA2WEpleDZPNEcwcm5XZG9fZWp3aV9wUUNZS1YyR0JKMzJEV3VKV1gyRkNycTZ0OFpwci14ZVl4Z1FCbFppWGdF?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNTFpS1FOM1Y3V0RKNTM0WFhTV1VlZzJPRmRwdWJBT1hVczBoRWdwVGxKWUVMZFc5QXJsQWs1OUdsQlJCYlU2V0hRdm45MngzeGR5czhnZm0zdVdtUXhQZjg5OVhsQ05oekZ4ekNWMU53MVg1TUQ2QWRtN2ZZcnQ2SUJOSnVIYkZOWnh4V2pjNHF3d0Ewc2RtM1Fpd0N4UkxJQzd0b0VhU19QTjA2WEpleDZPNEcwcm5XZG9fZWp3aV9wUUNZS1YyR0JKMzJEV3VKV1gyRkNycTZ0OFpwci14ZVl4Z1FCbFppWGdF?oc=5)
 
 ---
 

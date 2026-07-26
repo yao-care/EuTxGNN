@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/sarilumab/
 2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
+
+---
+
+### [A daily fiber supplement reduced knee arthritis pain and improved strength](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
 
 ---
 

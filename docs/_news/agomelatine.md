@@ -54,11 +54,11 @@ permalink: /news/agomelatine/
 
 ## 相關新聞（2 則）
 
-### [Depression: Entzündungshemmer erreichen 54% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRldpc0VsU1R4Z2YwSGctYlFNQ3RreFJNQXo1Z040Ynd6OVFxTU4yOU9LbGhBNmhULWRwSWUtM1NIUkx4QUdXTEtoWUpPcDNXNGJKNWFwVWRjYjJZRzY3ZzFkWmZMckY2cV9KRU0xY0JsM3ltT0k2c0g1QWtFRU5FNUhvNlBKOHNkQ3pxSVNlaGNzZU5EVHBwSGRldVZ5aUUwSUJ6bjdsZGZEb3NWaGpBSW5aQk0?oc=5)
+### [Depression: Entzündungshemmer zeigen 54% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3lLQ2FyWXhVbkJkXzgzLVdVVmtTZFNHdUc0cTlscVZOd1VaNmNlb2NQWnFjLU56NGlLQWZZdi0xdjV2VDRkTi1FYTZaOENOMnRCb1VkVm5pU3YzbEd6dDRyaElzWktzWFR5ZEg1Uk5kaFdXZmpiX2RLOFdlMWdmYUJKMi11Q1ZzdnVjaEVxQnExaGtHZDZLemVUX0dlLTZRMTU5YlA0MkZZOGJvUTFFRg?oc=5)
 
 2026-07-26 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRldpc0VsU1R4Z2YwSGctYlFNQ3RreFJNQXo1Z040Ynd6OVFxTU4yOU9LbGhBNmhULWRwSWUtM1NIUkx4QUdXTEtoWUpPcDNXNGJKNWFwVWRjYjJZRzY3ZzFkWmZMckY2cV9KRU0xY0JsM3ltT0k2c0g1QWtFRU5FNUhvNlBKOHNkQ3pxSVNlaGNzZU5EVHBwSGRldVZ5aUUwSUJ6bjdsZGZEb3NWaGpBSW5aQk0?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3lLQ2FyWXhVbkJkXzgzLVdVVmtTZFNHdUc0cTlscVZOd1VaNmNlb2NQWnFjLU56NGlLQWZZdi0xdjV2VDRkTi1FYTZaOENOMnRCb1VkVm5pU3YzbEd6dDRyaElzWktzWFR5ZEg1Uk5kaFdXZmpiX2RLOFdlMWdmYUJKMi11Q1ZzdnVjaEVxQnExaGtHZDZLemVUX0dlLTZRMTU5YlA0MkZZOGJvUTFFRg?oc=5)
 
 ---
 

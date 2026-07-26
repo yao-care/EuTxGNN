@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（11 則）
+
+### [Lichtverschmutzung durch Satelliten: Erde droht künstlicher Ring](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmlHX0xwbkwwMkFTck9qYzdockJCN0s5WEphRUk3T3k5YUl2VkM0TGZBNjB1Z0pnbE1ia0daWmxnN0sybnlsSDYzazR1TUwwdnE4elB0QlMtMklWeTdhZTJZcG5WdDZ5cXcxdl9JakNjbUpxZ3VfbWF5SFYyelpwc1lJa1VBNk5Ba1RISV9R?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span>
+
+來源：[t3n](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmlHX0xwbkwwMkFTck9qYzdockJCN0s5WEphRUk3T3k5YUl2VkM0TGZBNjB1Z0pnbE1ia0daWmxnN0sybnlsSDYzazR1TUwwdnE4elB0QlMtMklWeTdhZTJZcG5WdDZ5cXcxdl9JakNjbUpxZ3VfbWF5SFYyelpwc1lJa1VBNk5Ba1RISV9R?oc=5)
+
+---
+
+### [Scientists identify physical change that could signal dementia years before diagnosis - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
+
+2026-07-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
+
+---
 
 ### [Darmschübe: Wearables erkennen Colitis-Anfälle sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzZVZkF1Snhna20zYTlzUFpOUDBVZjdoN0MxTWdtSWM3bUl4ZU01QzJnYlo5SmZzZFhkckRBUDVrcl9EVlJtbllBWFVUX19WVzVsQnlrNmY4d1BDZzN1aVJLZW5EVTZjU1phaHlySGVJbmx4R3FGUkY5alFKaTdwdGZJcDNRUHl2Z1pWb3IySnNZbDVYVFlpRDRYQXFqaUctRjV3STFRUnA3WGVOQlRWaGUwdExlQXVMclE?oc=5)
 
@@ -62,27 +78,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Man who went to opticians for reading glasses diagnosed with melanoma - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFJINk8temItbWRLN2c3SFFnelNJV0xqZDJkX2dPUVN0WHNzb1BXZ1psZWN1THBXYUVYZjZ2V1UySU8zd091WGZySWNSRW1DRVB3NHpwWlZfM09oZHBMQTVHWlFHdW1HaXh3aHZGalc5MlBBQXNzVUlUOWVyNDlpNlRldFRZNXRDaGF2RjhEWXRjbGJpSkd3SDFvV2g?oc=5)
-
-2026-07-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFJINk8temItbWRLN2c3SFFnelNJV0xqZDJkX2dPUVN0WHNzb1BXZ1psZWN1THBXYUVYZjZ2V1UySU8zd091WGZySWNSRW1DRVB3NHpwWlZfM09oZHBMQTVHWlFHdW1HaXh3aHZGalc5MlBBQXNzVUlUOWVyNDlpNlRldFRZNXRDaGF2RjhEWXRjbGJpSkd3SDFvV2g?oc=5)
-
----
-
-### [FCC gibt Test frei: Riesenspiegel im All soll nachts Licht nach unten senden - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHBrNkxhazlaOFFpMzRpMktnaHFFZXpPYzN4QW5Oc2RkVXpuaF9DdER5Tk9MNklrRF9LMTRHVlBWRWtCWEdGY1hNTDBHaGlTa01rbkZjdWFyS1h3Vy12dXI1NW9meHNVekpHMFd5M0gtYnRKZ1U0a0c5TmtQQ0tfVDZxa1hTQWJmSXJVLU5hUU40eU8tbFkxZU1TT05OTG1jLV91aFAwZmdmQ3M?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHBrNkxhazlaOFFpMzRpMktnaHFFZXpPYzN4QW5Oc2RkVXpuaF9DdER5Tk9MNklrRF9LMTRHVlBWRWtCWEdGY1hNTDBHaGlTa01rbkZjdWFyS1h3Vy12dXI1NW9meHNVekpHMFd5M0gtYnRKZ1U0a0c5TmtQQ0tfVDZxa1hTQWJmSXJVLU5hUU40eU8tbFkxZU1TT05OTG1jLV91aFAwZmdmQ3M?oc=5)
-
----
-
 ### [Stammzelltherapie: Nabelschnur-Zellen zeigen Erfolg bei Reizdarmsyndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
 
 2026-07-26 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
+
+---
+
+### [Caldo e annegamenti, l’OMS avverte: il rischio cresce con la temperatura](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDZ6YlNKYXk5X2ktVWV4UVZoZEZlLTRBVTIzVUZVM0hZNjV1Nkc4aTFFTjViNTkySTVKeC1NSlpTNy03ZmZTSE1rTkQxNTVSY3NLOWJNaUN6dXg5T0MtTDFfeWpoU040QUdXcVJGWkJSTVFhYlB0X1ZHYzVPTElBYTd4d3VKZm5GbHA0bEhFQ2ctNzlpNXR3WGVWU0MxWThydWdSNXd1MVJxNnBkeXpBWHVkUlhiUjNmOXl2OA?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDZ6YlNKYXk5X2ktVWV4UVZoZEZlLTRBVTIzVUZVM0hZNjV1Nkc4aTFFTjViNTkySTVKeC1NSlpTNy03ZmZTSE1rTkQxNTVSY3NLOWJNaUN6dXg5T0MtTDFfeWpoU040QUdXcVJGWkJSTVFhYlB0X1ZHYzVPTElBYTd4d3VKZm5GbHA0bEhFQ2ctNzlpNXR3WGVWU0MxWThydWdSNXd1MVJxNnBkeXpBWHVkUlhiUjNmOXl2OA?oc=5)
 
 ---
 
@@ -112,17 +120,9 @@ permalink: /news/rotigotine/
 
 ### [Everyone seems to be taking creatine. Should you? - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
 
-2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-25 <span class="news-indication-tag">MS</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
-
----
-
-### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
-
-2026-07-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
 
 ---
 
@@ -134,51 +134,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Il caldo estivo può causare infiammazione? Cosa succede al corpo quando le temperature aumentano](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXZIeEwwdWR4X1ZSTkRlaHNOV2NVRjJSNzdlLWpZWXBQMlJWSmk3RzBCX0N3M2JpWDJnMXBWcER2ZkRMaEVCOUlBUGVTdzJ2UUVlSXVHOU5BZFZFdHJIazdLektEUU81elZyRER0OERpQ0dqNFUyNmFlYl9RYlNEUFZVbHkzT2RLT2RIWFhXbkpfbWhzSGxMQ01QdHdscjR6THZ5X3dEa1c0X20zc3RtVGJnNUNyT1VJcEdPRmJaX1NoN3N1UDdMRU11bXljWENzZGdVZ2JsaVg?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXZIeEwwdWR4X1ZSTkRlaHNOV2NVRjJSNzdlLWpZWXBQMlJWSmk3RzBCX0N3M2JpWDJnMXBWcER2ZkRMaEVCOUlBUGVTdzJ2UUVlSXVHOU5BZFZFdHJIazdLektEUU81elZyRER0OERpQ0dqNFUyNmFlYl9RYlNEUFZVbHkzT2RLT2RIWFhXbkpfbWhzSGxMQ01QdHdscjR6THZ5X3dEa1c0X20zc3RtVGJnNUNyT1VJcEdPRmJaX1NoN3N1UDdMRU11bXljWENzZGdVZ2JsaVg?oc=5)
-
----
-
 ### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
-
----
-
-### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX?oc=5)
-
----
-
-### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [Should We Be Concerned About Muscle Loss With GLP-1s?](https://news.google.com/rss/articles/CBMingFBVV95cUxNblplUUlvclItTmZ1aG1Vb2FVOF83S3BlYm1wZTgtQWRsNlF0V29EZHRyTVZiQUU0RUtLanNlalVabEQyODFoVmdBLW00QWlXVmdPVFIybFo5dThxaklaZFQxTG1KRTczb21lMUVzSXZrM2d2VWktcGRhWEEwY0hLV1FfNXg2Nzc5eWFSUXUxM2o4Y05zUHIwajhfZXUyQQ?oc=5)
-
-2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxNblplUUlvclItTmZ1aG1Vb2FVOF83S3BlYm1wZTgtQWRsNlF0V29EZHRyTVZiQUU0RUtLanNlalVabEQyODFoVmdBLW00QWlXVmdPVFIybFo5dThxaklaZFQxTG1KRTczb21lMUVzSXZrM2d2VWktcGRhWEEwY0hLV1FfNXg2Nzc5eWFSUXUxM2o4Y05zUHIwajhfZXUyQQ?oc=5)
-
----
-
-### [El intestino puede ser un actor clave en la inmunoterapia para la esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdaRk1vY1pieks3MjdOZFZFV3NvS1Q3Q0RKcGlzcEwwRDh5NXR2T2xudnlIOE9YMkl6WW16bGh1SnJ4SXNyeF9GaEJlQjhmeUc4Q3BSaDhPT2N6X3ZqTHNkTUFkWG96aVFFZUtRSnBtZG0xd3hsZkdtS19PeDFQNDc3V3NzVUliaTdCaFc5TDJXS3RrckF3UDdIbmU5UzJUb083clBjV3FHeUlGUVNZMWFCREtXWWtRQjMw0gG2AUFVX3lxTE5vdDJfbkZqNmZKWkFXM2U1S1pKMUtCMWwtWnBHTk51VWh4Z2ljamVRMmZLNjZ1NUlxOXJNeXA1b0s2MG95a0prZURqNklpbnNkTHF3ZjZZYW5ONFNvLTFHcm5UT3F3aGU3anFiUDJMREU1aE04V3JTNjR2a3ZFMzgwZDVVTktqRksyaW02OG9tdzRCNndyQmctekxyVldvbUNEbjZla0YtR1lnTWV4NHp0Mnpic0FR?oc=5)
-
-2026-07-24 <span class="news-indication-tag">esclerosis múltiple</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdaRk1vY1pieks3MjdOZFZFV3NvS1Q3Q0RKcGlzcEwwRDh5NXR2T2xudnlIOE9YMkl6WW16bGh1SnJ4SXNyeF9GaEJlQjhmeUc4Q3BSaDhPT2N6X3ZqTHNkTUFkWG96aVFFZUtRSnBtZG0xd3hsZkdtS19PeDFQNDc3V3NzVUliaTdCaFc5TDJXS3RrckF3UDdIbmU5UzJUb083clBjV3FHeUlGUVNZMWFCREtXWWtRQjMw0gG2AUFVX3lxTE5vdDJfbkZqNmZKWkFXM2U1S1pKMUtCMWwtWnBHTk51VWh4Z2ljamVRMmZLNjZ1NUlxOXJNeXA1b0s2MG95a0prZURqNklpbnNkTHF3ZjZZYW5ONFNvLTFHcm5UT3F3aGU3anFiUDJMREU1aE04V3JTNjR2a3ZFMzgwZDVVTktqRksyaW02OG9tdzRCNndyQmctekxyVldvbUNEbjZla0YtR1lnTWV4NHp0Mnpic0FR?oc=5)
 
 ---
 

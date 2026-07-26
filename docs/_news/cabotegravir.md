@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+---
 
 ### [La «pandemia metabólica» de la diabetes se triplica en América e impulsa nuevos fármacos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
 
@@ -78,6 +86,14 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [Karotten: Rohe Form senkt Blutzucker, gekochte erhöht ihn deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
+
+---
+
 ### [La pire façon de boire son café pour le cerveau : elle accélère le déclin cognitif après 50 ans - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
 
 2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
@@ -94,6 +110,14 @@ permalink: /news/cabotegravir/
 
 ---
 
+### [A daily fiber supplement reduced knee arthritis pain and improved strength](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">arthritis</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+
+---
+
 ### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 2026-07-24 <span class="news-indication-tag">artrite</span>
@@ -107,22 +131,6 @@ permalink: /news/cabotegravir/
 2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
-
----
-
-### [Orales Semaglutid schützt das Herz bei Typ-2-Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29MV1Y1MzhBb3IzWHZpVHVXc3g5WU1odVpFbDRuOWZyM2hCeXFtQ19ENUJoekZUZ3M2MWNxTVJNMXRGaDROUk9tLUNTNmliQUVzcWlVa0g5aDJLOHFqSlp5VFBaaU5LbkRIRXNZNHVib25qRFlrZnN6anJ4TmZzNUVuYmtzVF9tSGJVeldlMUVEMnlhLS10UklPaC1STmRqdVRlX3FkTWo?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29MV1Y1MzhBb3IzWHZpVHVXc3g5WU1odVpFbDRuOWZyM2hCeXFtQ19ENUJoekZUZ3M2MWNxTVJNMXRGaDROUk9tLUNTNmliQUVzcWlVa0g5aDJLOHFqSlp5VFBaaU5LbkRIRXNZNHVib25qRFlrZnN6anJ4TmZzNUVuYmtzVF9tSGJVeldlMUVEMnlhLS10UklPaC1STmRqdVRlX3FkTWo?oc=5)
-
----
-
-### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 ---
 
