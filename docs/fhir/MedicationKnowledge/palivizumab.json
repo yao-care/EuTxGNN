@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "palivizumab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00110",
-        "display": "PALIVIZUMAB"
+        "display": "Palivizumab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "palivizumab",
-        "display": "Synagis"
+        "display": NaN
       }
     ],
-    "text": "Synagis (PALIVIZUMAB)"
+    "text": "nan (Palivizumab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Synagis"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000257"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

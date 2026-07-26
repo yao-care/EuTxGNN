@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "nintedanib",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "nintedanib",
-        "display": "Nintedanib Accord"
+        "display": "Ofev"
       }
     ],
-    "text": "Nintedanib Accord (NINTEDANIB)"
+    "text": "Ofev (NINTEDANIB)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Nintedanib Accord"
+    "Ofev"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/006179"
+      "valueString": "EMEA/H/C/003821"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

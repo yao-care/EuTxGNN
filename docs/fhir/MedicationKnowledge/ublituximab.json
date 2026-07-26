@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "ublituximab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB11850",
-        "display": "UBLITUXIMAB"
+        "display": "Ublituximab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "ublituximab",
-        "display": "Briumvi"
+        "display": NaN
       }
     ],
-    "text": "Briumvi (UBLITUXIMAB)"
+    "text": "nan (Ublituximab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Briumvi"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/005914"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

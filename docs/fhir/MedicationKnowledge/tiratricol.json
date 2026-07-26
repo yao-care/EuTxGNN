@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tiratricol",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB03604",
-        "display": "TIRATRICOL"
+        "display": "Tiratricol"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tiratricol",
-        "display": "Emcitate"
+        "display": NaN
       }
     ],
-    "text": "Emcitate (TIRATRICOL)"
+    "text": "nan (Tiratricol)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Emcitate"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/005220"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

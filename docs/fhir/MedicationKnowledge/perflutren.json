@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "perflutren",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00556",
-        "display": "PERFLUTREN"
+        "display": "Perflutren"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "perflutren",
-        "display": "Optison"
+        "display": NaN
       }
     ],
-    "text": "Optison (PERFLUTREN)"
+    "text": "nan (Perflutren)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Optison"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000166"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tacrolimus",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tacrolimus",
-        "display": "Advagraf"
+        "display": "Protopic"
       }
     ],
-    "text": "Advagraf (TACROLIMUS)"
+    "text": "Protopic (TACROLIMUS)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Advagraf"
+    "Protopic"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000712"
+      "valueString": "EMEA/H/C/000374"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

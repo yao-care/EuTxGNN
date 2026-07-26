@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "agalsidase-beta",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00103",
-        "display": "AGALSIDASE BETA"
+        "display": "Agalsidase beta"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "agalsidase-beta",
-        "display": "Fabrazyme"
+        "display": NaN
       }
     ],
-    "text": "Fabrazyme (AGALSIDASE BETA)"
+    "text": "nan (Agalsidase beta)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Fabrazyme"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000370"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "fenofibrate",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "fenofibrate",
-        "display": "Pravafenix"
+        "display": "Cholib"
       }
     ],
-    "text": "Pravafenix (FENOFIBRATE)"
+    "text": "Cholib (FENOFIBRATE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Pravafenix"
+    "Cholib"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001243"
+      "valueString": "EMEA/H/C/002559"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

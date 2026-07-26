@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tenofovir-alafenamide",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tenofovir-alafenamide",
-        "display": "Tenofovir alafenamide"
+        "display": "Biktarvy"
       }
     ],
-    "text": "Tenofovir alafenamide (TENOFOVIR ALAFENAMIDE)"
+    "text": "Biktarvy (TENOFOVIR ALAFENAMIDE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Tenofovir alafenamide"
+    "Biktarvy"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/004449"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

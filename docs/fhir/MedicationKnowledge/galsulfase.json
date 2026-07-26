@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "galsulfase",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB01279",
-        "display": "GALSULFASE"
+        "display": "Galsulfase"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "galsulfase",
-        "display": "Naglazyme"
+        "display": NaN
       }
     ],
-    "text": "Naglazyme (GALSULFASE)"
+    "text": "nan (Galsulfase)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Naglazyme"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000640"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tenofovir-disoproxil",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tenofovir-disoproxil",
-        "display": "Tenofovir disoproxil"
+        "display": "Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)"
       }
     ],
-    "text": "Tenofovir disoproxil (TENOFOVIR DISOPROXIL)"
+    "text": "Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan) (TENOFOVIR DISOPROXIL)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Tenofovir disoproxil"
+    "Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/004049"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

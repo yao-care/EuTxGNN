@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "vonicog-alfa",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB12872",
-        "display": "VONICOG ALFA"
+        "display": "Vonicog Alfa"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "vonicog-alfa",
-        "display": "Veyvondi"
+        "display": NaN
       }
     ],
-    "text": "Veyvondi (VONICOG ALFA)"
+    "text": "nan (Vonicog Alfa)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Veyvondi"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004454"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

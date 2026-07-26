@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tadalafil",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tadalafil",
-        "display": "Adcirca (previously Tadalafil Lilly)"
+        "display": "Tadalafil Mylan"
       }
     ],
-    "text": "Adcirca (previously Tadalafil Lilly) (TADALAFIL)"
+    "text": "Tadalafil Mylan (TADALAFIL)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Adcirca (previously Tadalafil Lilly)"
+    "Tadalafil Mylan"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001021"
+      "valueString": "EMEA/H/C/003787"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

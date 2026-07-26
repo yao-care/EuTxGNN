@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "nepafenac",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB06802",
-        "display": "NEPAFENAC"
+        "display": "Nepafenac"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "nepafenac",
-        "display": "Nevanac"
+        "display": NaN
       }
     ],
-    "text": "Nevanac (NEPAFENAC)"
+    "text": "nan (Nepafenac)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Nevanac"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000818"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

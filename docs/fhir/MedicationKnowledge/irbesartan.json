@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "irbesartan",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "irbesartan",
-        "display": "Irbesartan Teva"
+        "display": "Aprovel"
       }
     ],
-    "text": "Irbesartan Teva (IRBESARTAN)"
+    "text": "Aprovel (IRBESARTAN)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Irbesartan Teva"
+    "Aprovel"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001093"
+      "valueString": "EMEA/H/C/000141"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

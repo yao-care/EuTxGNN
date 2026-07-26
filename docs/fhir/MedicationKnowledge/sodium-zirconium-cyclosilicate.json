@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "sodium-zirconium-cyclosilicate",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB14048",
-        "display": "SODIUM ZIRCONIUM CYCLOSILICATE"
+        "display": "Sodium zirconium cyclosilicate"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "sodium-zirconium-cyclosilicate",
-        "display": "Lokelma"
+        "display": NaN
       }
     ],
-    "text": "Lokelma (SODIUM ZIRCONIUM CYCLOSILICATE)"
+    "text": "nan (Sodium zirconium cyclosilicate)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Lokelma"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004029"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

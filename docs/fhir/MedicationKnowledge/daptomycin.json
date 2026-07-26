@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "daptomycin",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00080",
-        "display": "DAPTOMYCIN"
+        "display": "Daptomycin"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "daptomycin",
-        "display": "Cubicin"
+        "display": NaN
       }
     ],
-    "text": "Cubicin (DAPTOMYCIN)"
+    "text": "nan (Daptomycin)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Cubicin"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000637"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

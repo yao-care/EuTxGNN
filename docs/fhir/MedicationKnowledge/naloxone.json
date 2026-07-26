@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "naloxone",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "naloxone",
-        "display": "Naloxone"
+        "display": "Suboxone"
       }
     ],
-    "text": "Naloxone (NALOXONE)"
+    "text": "Suboxone (NALOXONE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Naloxone"
+    "Suboxone"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/000697"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

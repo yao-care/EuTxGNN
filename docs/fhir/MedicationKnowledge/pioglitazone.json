@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "pioglitazone",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "pioglitazone",
-        "display": "Pioglitazone"
+        "display": "Competact"
       }
     ],
-    "text": "Pioglitazone (PIOGLITAZONE)"
+    "text": "Competact (PIOGLITAZONE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Pioglitazone"
+    "Competact"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/000655"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

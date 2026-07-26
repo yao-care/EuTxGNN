@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "mitotane",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00648",
-        "display": "MITOTANE"
+        "display": "Mitotane"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "mitotane",
-        "display": "Lysodren"
+        "display": NaN
       }
     ],
-    "text": "Lysodren (MITOTANE)"
+    "text": "nan (Mitotane)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Lysodren"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000521"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

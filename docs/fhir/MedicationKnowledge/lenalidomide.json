@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "lenalidomide",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "lenalidomide",
-        "display": "Lenalidomide Mylan"
+        "display": "Lenalidomide Accord"
       }
     ],
-    "text": "Lenalidomide Mylan (LENALIDOMIDE)"
+    "text": "Lenalidomide Accord (LENALIDOMIDE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Lenalidomide Mylan"
+    "Lenalidomide Accord"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/005306"
+      "valueString": "EMEA/H/C/004857"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "duloxetine-major-depressive-disorder",
   "meta": {
-    "lastUpdated": "2026-03-03T10:23:13Z"
+    "lastUpdated": "2026-07-26T10:06:11Z"
   },
   "type": "indication",
   "status": "active",
@@ -20,15 +20,15 @@
   },
   "extension": [
     {
-      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L5"
     },
     {
-      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/prediction-source",
-      "valueString": "TxGNN Knowledge Graph"
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Deep Learning Model"
     },
     {
-      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/drugbank-id",
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
       "valueString": "DB00476"
     }
   ]

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "nonacog-beta-pegol",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB13933",
-        "display": "NONACOG BETA PEGOL"
+        "display": "Nonacog beta pegol"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "nonacog-beta-pegol",
-        "display": "Refixia"
+        "display": NaN
       }
     ],
-    "text": "Refixia (NONACOG BETA PEGOL)"
+    "text": "nan (Nonacog beta pegol)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Refixia"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004178"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

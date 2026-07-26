@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "corifollitropin-alfa",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB09066",
-        "display": "CORIFOLLITROPIN ALFA"
+        "display": "Corifollitropin alfa"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "corifollitropin-alfa",
-        "display": "Elonva"
+        "display": NaN
       }
     ],
-    "text": "Elonva (CORIFOLLITROPIN ALFA)"
+    "text": "nan (Corifollitropin alfa)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Elonva"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001106"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

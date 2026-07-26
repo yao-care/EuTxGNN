@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "alendronic-acid",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "alendronic-acid",
-        "display": "Alendronic acid"
+        "display": "Vantavo (previously Alendronate sodium and colecalciferol, MSD)"
       }
     ],
-    "text": "Alendronic acid (ALENDRONIC ACID)"
+    "text": "Vantavo (previously Alendronate sodium and colecalciferol, MSD) (ALENDRONIC ACID)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Alendronic acid"
+    "Vantavo (previously Alendronate sodium and colecalciferol, MSD)"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/001180"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

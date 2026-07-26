@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "romosozumab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB11866",
-        "display": "ROMOSOZUMAB"
+        "display": "Romosozumab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "romosozumab",
-        "display": "Evenity"
+        "display": NaN
       }
     ],
-    "text": "Evenity (ROMOSOZUMAB)"
+    "text": "nan (Romosozumab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Evenity"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004465"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

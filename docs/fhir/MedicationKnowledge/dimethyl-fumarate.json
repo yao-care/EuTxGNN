@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "dimethyl-fumarate",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "dimethyl-fumarate",
-        "display": "Tecfidera"
+        "display": "Skilarence"
       }
     ],
-    "text": "Tecfidera (DIMETHYL FUMARATE)"
+    "text": "Skilarence (DIMETHYL FUMARATE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Tecfidera"
+    "Skilarence"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002601"
+      "valueString": "EMEA/H/C/002157"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

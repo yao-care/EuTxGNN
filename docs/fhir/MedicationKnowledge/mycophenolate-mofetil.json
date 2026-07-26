@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "mycophenolate-mofetil",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00688",
-        "display": "MYCOPHENOLATE MOFETIL"
+        "display": "Mycophenolate mofetil"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "mycophenolate-mofetil",
-        "display": "Myclausen"
+        "display": NaN
       }
     ],
-    "text": "Myclausen (MYCOPHENOLATE MOFETIL)"
+    "text": "nan (Mycophenolate mofetil)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Myclausen"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001218"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

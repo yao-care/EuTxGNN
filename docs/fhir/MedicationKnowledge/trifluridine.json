@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "trifluridine",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "trifluridine",
-        "display": "Trifluridine"
+        "display": "Lonsurf"
       }
     ],
-    "text": "Trifluridine (TRIFLURIDINE)"
+    "text": "Lonsurf (TRIFLURIDINE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Trifluridine"
+    "Lonsurf"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/003897"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

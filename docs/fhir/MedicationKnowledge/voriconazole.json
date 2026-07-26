@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "voriconazole",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "voriconazole",
-        "display": "Voriconazole Accord"
+        "display": "Vfend"
       }
     ],
-    "text": "Voriconazole Accord (VORICONAZOLE)"
+    "text": "Vfend (VORICONAZOLE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Voriconazole Accord"
+    "Vfend"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002669"
+      "valueString": "EMEA/H/C/000387"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

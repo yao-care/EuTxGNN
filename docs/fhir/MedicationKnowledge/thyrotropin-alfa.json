@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "thyrotropin-alfa",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00024",
-        "display": "THYROTROPIN ALFA"
+        "display": "Thyrotropin alfa"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "thyrotropin-alfa",
-        "display": "Thyrogen"
+        "display": NaN
       }
     ],
-    "text": "Thyrogen (THYROTROPIN ALFA)"
+    "text": "nan (Thyrotropin alfa)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Thyrogen"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000220"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

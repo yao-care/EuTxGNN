@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "elafibranor",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB05187",
-        "display": "ELAFIBRANOR"
+        "display": "Elafibranor"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "elafibranor",
-        "display": "Iqirvo"
+        "display": NaN
       }
     ],
-    "text": "Iqirvo (ELAFIBRANOR)"
+    "text": "nan (Elafibranor)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Iqirvo"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/006231"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

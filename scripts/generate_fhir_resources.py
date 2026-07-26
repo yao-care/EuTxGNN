@@ -17,6 +17,7 @@ Output:
 
 import json
 import re
+import shutil
 from pathlib import Path
 from datetime import datetime
 
@@ -198,15 +199,31 @@ def main():
 
     # 2. Load prediction results
     print("2. Loading prediction results...")
+    # 以 KG+DL 合併後的候選為準（collect_evidence.py 用的也是這一份）。
+    # 只讀 repurposing_candidates.csv.gz 會少掉 DL 的預測：它僅涵蓋 304 個藥，
+    # 而合併檔涵蓋 609 個，重跑會把既有資源砍掉一大半。
+    merged_path = base_dir / "data" / "processed" / "repurposing_candidates_merged.csv"
     candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv.gz"
 
-    if not candidates_path.exists():
-        print(f"   Error: Cannot find predictions at {candidates_path}")
+    if merged_path.exists():
+        candidates = pd.read_csv(merged_path)
+        print(f"   Loaded {len(candidates)} predictions from {merged_path.name}")
+    elif candidates_path.exists():
+        candidates = pd.read_csv(candidates_path)
+        print(f"   Warning: {merged_path.name} 不存在，退回 KG-only 的 "
+              f"{candidates_path.name}（涵蓋範圍較小）")
+        print("   重建方式：python3 scripts/rebuild_merged_candidates.py --apply")
+    else:
+        print(f"   Error: Cannot find predictions at {merged_path} 或 {candidates_path}")
         print("   Please run run_kg_prediction.py first")
         return
 
-    candidates = pd.read_csv(candidates_path)
-    print(f"   Loaded {len(candidates)} predictions")
+    # 重建輸出目錄：舊版從不清除已不存在的資源，改動資料後會留下孤兒
+    for sub in ("MedicationKnowledge", "ClinicalUseDefinition"):
+        d = fhir_dir / sub
+        if d.exists():
+            shutil.rmtree(d)
+        d.mkdir(parents=True, exist_ok=True)
 
     # 3. Generate MedicationKnowledge
     print("3. Generating MedicationKnowledge resources...")
@@ -239,6 +256,8 @@ def main():
     # 4. Generate ClinicalUseDefinition
     print("4. Generating ClinicalUseDefinition resources...")
     cud_count = 0
+    used_stems = set()
+    cud_collisions = 0
 
     for _, row in candidates.iterrows():
         ingredient = row.get('ingredient', '')
@@ -261,14 +280,24 @@ def main():
         )
         drug_slug = slugify(ingredient)
         indication_slug = slugify(indication)
-        filename = f"{drug_slug}-{indication_slug}.json"
-        filepath = fhir_dir / "ClinicalUseDefinition" / filename
+        stem = f"{drug_slug}-{indication_slug}"
+        # 標點不同的適應症可能 slug 相同，不處理會讓後者覆蓋前者而靜默少檔
+        if stem in used_stems:
+            cud_collisions += 1
+            n = 2
+            while f"{stem}-{n}" in used_stems:
+                n += 1
+            stem = f"{stem}-{n}"
+            resource["id"] = stem
+        used_stems.add(stem)
+        filepath = fhir_dir / "ClinicalUseDefinition" / f"{stem}.json"
 
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(resource, f, indent=2, ensure_ascii=False)
         cud_count += 1
 
-    print(f"   Created {cud_count} ClinicalUseDefinition resources")
+    print(f"   Created {cud_count} ClinicalUseDefinition resources"
+          f"（slug 碰撞另加後綴 {cud_collisions} 筆）")
 
     # 5. Summary
     print()

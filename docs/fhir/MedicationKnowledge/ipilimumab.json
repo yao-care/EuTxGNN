@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "ipilimumab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB06186",
-        "display": "IPILIMUMAB"
+        "display": "Ipilimumab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "ipilimumab",
-        "display": "Yervoy"
+        "display": NaN
       }
     ],
-    "text": "Yervoy (IPILIMUMAB)"
+    "text": "nan (Ipilimumab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Yervoy"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002213"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

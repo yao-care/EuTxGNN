@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "pitolisant",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "pitolisant",
-        "display": "Wakix"
+        "display": "Ozawade"
       }
     ],
-    "text": "Wakix (PITOLISANT)"
+    "text": "Ozawade (PITOLISANT)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Wakix"
+    "Ozawade"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002616"
+      "valueString": "EMEA/H/C/005117"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

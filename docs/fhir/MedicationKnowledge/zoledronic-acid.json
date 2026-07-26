@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "zoledronic-acid",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "zoledronic-acid",
-        "display": "Zometa"
+        "display": "Zoledronic acid Mylan"
       }
     ],
-    "text": "Zometa (ZOLEDRONIC ACID)"
+    "text": "Zoledronic acid Mylan (ZOLEDRONIC ACID)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Zometa"
+    "Zoledronic acid Mylan"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000336"
+      "valueString": "EMEA/H/C/002482"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

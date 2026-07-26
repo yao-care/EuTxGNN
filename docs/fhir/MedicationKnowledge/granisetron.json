@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "granisetron",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00889",
-        "display": "GRANISETRON"
+        "display": "Granisetron"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "granisetron",
-        "display": "Sancuso"
+        "display": NaN
       }
     ],
-    "text": "Sancuso (GRANISETRON)"
+    "text": "nan (Granisetron)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Sancuso"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002296"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

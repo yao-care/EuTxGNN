@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "aprepitant",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00673",
-        "display": "APREPITANT"
+        "display": "Aprepitant"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "aprepitant",
-        "display": "Emend"
+        "display": NaN
       }
     ],
-    "text": "Emend (APREPITANT)"
+    "text": "nan (Aprepitant)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Emend"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000527"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

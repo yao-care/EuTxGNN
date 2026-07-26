@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "ezetimibe",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "ezetimibe",
-        "display": "Ezetimibe"
+        "display": "Nustendi"
       }
     ],
-    "text": "Ezetimibe (EZETIMIBE)"
+    "text": "Nustendi (EZETIMIBE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Ezetimibe"
+    "Nustendi"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/004959"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

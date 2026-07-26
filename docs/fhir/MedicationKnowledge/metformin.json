@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "metformin",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "metformin",
-        "display": "Metformin"
+        "display": "Jentadueto"
       }
     ],
-    "text": "Metformin (METFORMIN)"
+    "text": "Jentadueto (METFORMIN)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Metformin"
+    "Jentadueto"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/002279"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "peginterferon-alfa-2a",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00008",
-        "display": "PEGINTERFERON ALFA-2A"
+        "display": "Peginterferon alfa-2a"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "peginterferon-alfa-2a",
-        "display": "Pegasys"
+        "display": NaN
       }
     ],
-    "text": "Pegasys (PEGINTERFERON ALFA-2A)"
+    "text": "nan (Peginterferon alfa-2a)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Pegasys"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000395"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "roflumilast",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB01656",
-        "display": "ROFLUMILAST"
+        "display": "Roflumilast"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "roflumilast",
-        "display": "Daxas"
+        "display": NaN
       }
     ],
-    "text": "Daxas (ROFLUMILAST)"
+    "text": "nan (Roflumilast)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Daxas"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001179"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "clascoterone",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB12499",
-        "display": "CLASCOTERONE"
+        "display": "Clascoterone"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "clascoterone",
-        "display": "Winlevi"
+        "display": NaN
       }
     ],
-    "text": "Winlevi (CLASCOTERONE)"
+    "text": "nan (Clascoterone)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Winlevi"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/006138"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

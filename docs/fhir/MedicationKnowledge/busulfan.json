@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "busulfan",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB01008",
-        "display": "BUSULFAN"
+        "display": "Busulfan"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "busulfan",
-        "display": "Busulfan Fresenius Kabi"
+        "display": NaN
       }
     ],
-    "text": "Busulfan Fresenius Kabi (BUSULFAN)"
+    "text": "nan (Busulfan)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Busulfan Fresenius Kabi"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002806"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

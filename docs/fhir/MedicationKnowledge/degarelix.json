@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "degarelix",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB06699",
-        "display": "DEGARELIX"
+        "display": "Degarelix"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "degarelix",
-        "display": "Firmagon"
+        "display": NaN
       }
     ],
-    "text": "Firmagon (DEGARELIX)"
+    "text": "nan (Degarelix)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Firmagon"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000986"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

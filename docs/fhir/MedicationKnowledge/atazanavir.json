@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "atazanavir",
   "meta": {
-    "lastUpdated": "2026-03-03T10:23:11Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -13,7 +13,7 @@
         "display": "ATAZANAVIR"
       },
       {
-        "system": "https://eutxgnn.github.io/drugs",
+        "system": "https://eutxgnn.yao.care/drugs",
         "code": "atazanavir",
         "display": "Evotaz"
       }
@@ -36,11 +36,11 @@
   ],
   "extension": [
     {
-      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/ema-product-number",
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
       "valueString": "EMEA/H/C/003904"
     },
     {
-      "url": "https://eutxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L5"
     }
   ]

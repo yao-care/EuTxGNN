@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "ulipristal-hereditary-thrombocytopenia-with-normal-platelets",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:44Z"
+    "lastUpdated": "2026-07-26T10:06:24Z"
   },
   "type": "indication",
   "status": "active",
@@ -25,7 +25,7 @@
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
-      "valueString": "TxGNN Deep Learning"
+      "valueString": "TxGNN Deep Learning Model"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",

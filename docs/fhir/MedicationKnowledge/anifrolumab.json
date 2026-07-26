@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "anifrolumab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB11976",
-        "display": "ANIFROLUMAB"
+        "display": "Anifrolumab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "anifrolumab",
-        "display": "Saphnelo"
+        "display": NaN
       }
     ],
-    "text": "Saphnelo (ANIFROLUMAB)"
+    "text": "nan (Anifrolumab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Saphnelo"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004975"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

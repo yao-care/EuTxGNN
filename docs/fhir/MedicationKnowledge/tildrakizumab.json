@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tildrakizumab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB14004",
-        "display": "TILDRAKIZUMAB"
+        "display": "Tildrakizumab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tildrakizumab",
-        "display": "Ilumetri"
+        "display": NaN
       }
     ],
-    "text": "Ilumetri (TILDRAKIZUMAB)"
+    "text": "nan (Tildrakizumab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Ilumetri"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004514"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

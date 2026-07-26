@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "vilanterol",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "vilanterol",
-        "display": "Vilanterol"
+        "display": "Laventair Ellipta (previously Laventair)"
       }
     ],
-    "text": "Vilanterol (VILANTEROL)"
+    "text": "Laventair Ellipta (previously Laventair) (VILANTEROL)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Vilanterol"
+    "Laventair Ellipta (previously Laventair)"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": NaN
+      "valueString": "EMEA/H/C/003754"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

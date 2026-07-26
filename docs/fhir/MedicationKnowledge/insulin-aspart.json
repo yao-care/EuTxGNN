@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "insulin-aspart",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "insulin-aspart",
-        "display": "Fiasp"
+        "display": "Insulin aspart Sanofi"
       }
     ],
-    "text": "Fiasp (INSULIN ASPART)"
+    "text": "Insulin aspart Sanofi (INSULIN ASPART)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Fiasp"
+    "Insulin aspart Sanofi"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004046"
+      "valueString": "EMEA/H/C/005033"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

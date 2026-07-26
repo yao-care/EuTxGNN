@@ -2,7 +2,7 @@
   "resourceType": "ClinicalUseDefinition",
   "id": "acetylsalicylic-acid-osteoarthritis",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:48Z"
+    "lastUpdated": "2026-07-26T10:06:25Z"
   },
   "type": "indication",
   "status": "active",

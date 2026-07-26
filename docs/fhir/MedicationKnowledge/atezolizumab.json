@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "atezolizumab",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB11595",
-        "display": "ATEZOLIZUMAB"
+        "display": "Atezolizumab"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "atezolizumab",
-        "display": "Tecentriq"
+        "display": NaN
       }
     ],
-    "text": "Tecentriq (ATEZOLIZUMAB)"
+    "text": "nan (Atezolizumab)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Tecentriq"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004143"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

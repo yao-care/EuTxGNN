@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "entecavir",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB00442",
-        "display": "ENTECAVIR"
+        "display": "Entecavir"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "entecavir",
-        "display": "Entecavir Accord"
+        "display": NaN
       }
     ],
-    "text": "Entecavir Accord (ENTECAVIR)"
+    "text": "nan (Entecavir)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Entecavir Accord"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004458"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

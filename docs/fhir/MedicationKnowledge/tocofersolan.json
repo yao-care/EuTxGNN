@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tocofersolan",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:31Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB11635",
-        "display": "TOCOFERSOLAN"
+        "display": "Tocofersolan"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tocofersolan",
-        "display": "Vedrop"
+        "display": NaN
       }
     ],
-    "text": "Vedrop (TOCOFERSOLAN)"
+    "text": "nan (Tocofersolan)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Vedrop"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/000920"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "velaglucerase-alfa",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB06720",
-        "display": "VELAGLUCERASE ALFA"
+        "display": "Velaglucerase alfa"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "velaglucerase-alfa",
-        "display": "Vpriv"
+        "display": NaN
       }
     ],
-    "text": "Vpriv (VELAGLUCERASE ALFA)"
+    "text": "nan (Velaglucerase alfa)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Vpriv"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/001249"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

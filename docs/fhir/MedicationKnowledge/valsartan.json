@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "valsartan",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "valsartan",
-        "display": "Neparvis"
+        "display": "Exforge HCT"
       }
     ],
-    "text": "Neparvis (VALSARTAN)"
+    "text": "Exforge HCT (VALSARTAN)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Neparvis"
+    "Exforge HCT"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004343"
+      "valueString": "EMEA/H/C/001068"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

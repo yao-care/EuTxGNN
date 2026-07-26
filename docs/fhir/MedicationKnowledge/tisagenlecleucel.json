@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "tisagenlecleucel",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -10,15 +10,15 @@
       {
         "system": "https://www.drugbank.ca/drugs",
         "code": "DB13881",
-        "display": "TISAGENLECLEUCEL"
+        "display": "Tisagenlecleucel"
       },
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "tisagenlecleucel",
-        "display": "Kymriah"
+        "display": NaN
       }
     ],
-    "text": "Kymriah (TISAGENLECLEUCEL)"
+    "text": "nan (Tisagenlecleucel)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Kymriah"
+    NaN
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/004090"
+      "valueString": NaN
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",

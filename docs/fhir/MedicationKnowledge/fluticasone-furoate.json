@@ -2,7 +2,7 @@
   "resourceType": "MedicationKnowledge",
   "id": "fluticasone-furoate",
   "meta": {
-    "lastUpdated": "2026-03-03T10:40:32Z"
+    "lastUpdated": "2026-07-26T10:06:07Z"
   },
   "status": "active",
   "code": {
@@ -15,10 +15,10 @@
       {
         "system": "https://eutxgnn.yao.care/drugs",
         "code": "fluticasone-furoate",
-        "display": "Relvar Ellipta"
+        "display": "Avamys"
       }
     ],
-    "text": "Relvar Ellipta (FLUTICASONE FUROATE)"
+    "text": "Avamys (FLUTICASONE FUROATE)"
   },
   "intendedJurisdiction": [
     {
@@ -32,12 +32,12 @@
     }
   ],
   "synonym": [
-    "Relvar Ellipta"
+    "Avamys"
   ],
   "extension": [
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/ema-product-number",
-      "valueString": "EMEA/H/C/002673"
+      "valueString": "EMEA/H/C/000770"
     },
     {
       "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
