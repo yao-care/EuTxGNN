@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
+<li>asthma（99.9%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -52,15 +52,9 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
-
-2026-07-23 <span class="news-drug-tag">Tezepelumab</span> <span class="news-indication-tag">asthma</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

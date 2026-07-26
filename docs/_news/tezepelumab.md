@@ -14,7 +14,7 @@ permalink: /news/tezepelumab/
 ---
 
 <p class="key-answer" data-question="Tezepelumab 有什麼相關新聞？">
-<strong>Tezepelumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tezepelumab</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tezepelumab/
 <p><a href="{{ '/drugs/tezepelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
 
@@ -102,14 +102,6 @@ permalink: /news/tezepelumab/
 
 ---
 
-### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
----
-
 ### [Neue Diabetes-Tech Übersicht: Pumpen, Sensoren und kommende Technologien auf einen Blick](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabetes</span>
@@ -126,11 +118,11 @@ permalink: /news/tezepelumab/
 
 ---
 
-### [Tezepelumab reduziert Bedarf an oralen Kortikosteroiden bei schwerem Asthma - Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
-2026-07-23 <span class="news-drug-tag">Tezepelumab</span> <span class="news-indication-tag">asthma</span>
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUkyaDFsYV80QzhBZVlrWVJxUG15NVI1SzJ1UHo0V1pITkhSVDc0WUdxT1pjaVNZaC1kMi1wbHZCRmprbzBIdzUxWkFjOGRMMXA1dUhwN1lJa21vZ1V1RFotSXREemJ4ZDB4UV95ajdIVWNXeDdoUktGTm5MYmtaemlEZmRZS1pkSXVEVEZ5LXI5OEpsdG1wX1RzYWZSYW1qZ0R2UEFXZEhGUUNpdVlkWk51eWk?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 

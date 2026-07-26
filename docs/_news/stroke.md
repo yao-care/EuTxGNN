@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。7 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>7 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+2026-07-26
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+---
 
 ### [Los neurólogos advierten: la población descuida dos controles clave para proteger la salud cerebral - Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWhQTHVZM0x2ZVB4Zy1TZXRySFFxeElFc3N5OUV5cEpBZGRPYW9GODNGZHVfSVpXZXAzN19jNXJRaWhPUkdoYjg4dE1jUnF4MXFmWUVKNjZJUDZoQ3RaaHdTUWh0ZWtBVXQzQ3l5cXIxMTNfU0RjYTN1UGFObFdHMEppOW43MXN6d0d4dE9jN25JUlhFaG5ZMGlYZ1J3RVBhT19ZM0NNa1J3VkozT3NxYlMtanplbWtQQWQ0UHU1alFJenFjZnlOSXFLUUVuLXphYVRSOXlsbFhoZlRkLUZid2VOQXcyV3hsNlJocmRpbVh5RmJr0gH6AUFVX3lxTE5nQnczbHdFTXY0aGY1bUZOelpnTG50STh2ZHo5SzN3cE5IX1ctR3BMeDZVRUY1TjZsQ2ZPWmRZdzdCVi1wQ1J4NVAxNUptcTdXNlVydFdDd1pWOXNSbHVEbGJmUVBwMmRYaVNrVUkwQllsdWNELWdERUhqQWw4aWpadDB4TFBHU0R1QjZxcnFESWk1RzRIcFJDX3lMQVhMT1g2YmhNRzJ2M3NBUlZTdTk5UGtSUEU2bV9CSmdWbGVxVUFULW8tQl9Sb1VudFhMdU92QW5ic245R1VWWS1YWmJWNmZnNy12QUZ6MkMxNW1teEtuUVNmZEt5WXc?oc=5)
 
@@ -57,6 +65,14 @@ permalink: /news/stroke/
 
 ---
 
+### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
+
+2026-07-25
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
+
+---
+
 ### [Schlaganfall-Folgen: Jeder zweite Patient profitiert von früher Therapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTU90cUszcUxpZzlMTzVHV1VNanc5TTYteW9vU2NwXzRhOXBxMlAzQTN6MnRmN0UzaDlDNFlydDdIbGtuLVBYTkZxeHJkRUJCdzBkbUVxNnh6MlFvN25TOTZvZVZBR3NzZUNFemE2ckIzWG10Sl9IUEl3N1BxLXRxeDczSEwxRnJ0Q3JUSFl5azdOT2ZqVGs2SF82b3UxT3ZmeUtXbEtkeHF6RGgtRHo1eTViYmtfVVA1eFlZNUp3?oc=5)
 
 2026-07-24
@@ -65,11 +81,11 @@ permalink: /news/stroke/
 
 ---
 
-### [Colpita da ictus in gravidanza, a Lucca salvano lei e il bambino - Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+### [Faut-il rendre le vaccin contre la grippe obligatoire pour les soignants ?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
 2026-07-24
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/stroke/
 2026-07-24
 
 來源：[like-online.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
-
----
-
-### [Schlaganfall-Therapie: THUNDERBOLT erreicht 87,5% Erfolgsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
-
-2026-07-23
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
 
 ---
 

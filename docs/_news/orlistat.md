@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+---
+
+### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
+
+---
 
 ### [Los neurólogos advierten: la población descuida dos controles clave para proteger la salud cerebral - Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWhQTHVZM0x2ZVB4Zy1TZXRySFFxeElFc3N5OUV5cEpBZGRPYW9GODNGZHVfSVpXZXAzN19jNXJRaWhPUkdoYjg4dE1jUnF4MXFmWUVKNjZJUDZoQ3RaaHdTUWh0ZWtBVXQzQ3l5cXIxMTNfU0RjYTN1UGFObFdHMEppOW43MXN6d0d4dE9jN25JUlhFaG5ZMGlYZ1J3RVBhT19ZM0NNa1J3VkozT3NxYlMtanplbWtQQWQ0UHU1alFJenFjZnlOSXFLUUVuLXphYVRSOXlsbFhoZlRkLUZid2VOQXcyV3hsNlJocmRpbVh5RmJr0gH6AUFVX3lxTE5nQnczbHdFTXY0aGY1bUZOelpnTG50STh2ZHo5SzN3cE5IX1ctR3BMeDZVRUY1TjZsQ2ZPWmRZdzdCVi1wQ1J4NVAxNUptcTdXNlVydFdDd1pWOXNSbHVEbGJmUVBwMmRYaVNrVUkwQllsdWNELWdERUhqQWw4aWpadDB4TFBHU0R1QjZxcnFESWk1RzRIcFJDX3lMQVhMT1g2YmhNRzJ2M3NBUlZTdTk5UGtSUEU2bV9CSmdWbGVxVUFULW8tQl9Sb1VudFhMdU92QW5ic245R1VWWS1YWmJWNmZnNy12QUZ6MkMxNW1teEtuUVNmZEt5WXc?oc=5)
 
@@ -67,6 +83,22 @@ permalink: /news/orlistat/
 2026-07-25 <span class="news-indication-tag">CVA</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjVBcnR2UlNxSHhfamg5VzhGRWRWenVKMTJMTl81TzRGZE1tSlRRWHhZVXVscHNjZ3BTVEt3X29UOWJYZ1IyRF9KV0dBSkJVaTNNYXk2MlF1NDV5dDZ5WUtCRnBPZFV6UHBqbFcwSmh1bDdwQ3N4SkJOLWNLOUJZQndtNXRoemlEYW90VTBhcHN1dl9UbDZXX1hIV3kwRWVNQVAw0gGoAUFVX3lxTE5wb3NCNTFoZVBLckl6WmJ2Qk4wckZJVUJWNm1ObmN4WmVDSGZ2aWhwemlxTDMxdExaLVZyNzBYdmJBVVA1YUFlTjg4VTdyWndPNXh0bHZsXzFzQS1kbGZFYmhIQkp2S3FYSnlzQ3RzWjBla25WTEw0UHhrZHFkaVBRWWFnNmJwaTNkcDlxYmxDRHQ3dXRxUWxhSGVtLUNmdXdaRU5UMVNrQg?oc=5)
+
+---
+
+### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
+
+---
+
+### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
 
 ---
 
@@ -94,11 +126,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Colpita da ictus in gravidanza, a Lucca salvano lei e il bambino - Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+### [Faut-il rendre le vaccin contre la grippe obligatoire pour les soignants ?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
-2026-07-24 <span class="news-indication-tag">ictus</span>
+2026-07-24 <span class="news-indication-tag">CVA</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
 ---
 
@@ -115,14 +147,6 @@ permalink: /news/orlistat/
 2026-07-24 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Epilepsie</span>
 
 來源：[like-online.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
-
----
-
-### [Schlaganfall-Therapie: THUNDERBOLT erreicht 87,5% Erfolgsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
 
 ---
 

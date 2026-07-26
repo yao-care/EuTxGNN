@@ -14,7 +14,7 @@ permalink: /news/selinexor/
 ---
 
 <p class="key-answer" data-question="Selinexor 有什麼相關新聞？">
-<strong>Selinexor</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selinexor</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/selinexor/
 <p><a href="{{ '/drugs/selinexor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（23 則）
 
 ### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Krebs</span>
+2026-07-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+---
+
+### ["C'est un immense soulagement" : après un traitement expérimental à Rome, la petite Lyséa est en rémission complète de son cancer - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
 
 ---
 
@@ -126,22 +134,6 @@ permalink: /news/selinexor/
 
 ---
 
-### [Bizarre CRISPR enzyme kills cancer cells by shredding their DNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
-
----
-
-### [Questa mammografia può prevedere il tumore fino a 5 anni prima: la scoperta che cambia la prevenzione](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVlzSVhoZVJiS0x2OFNYYVNUVUtxNC15eFNBVEhBMktRSEcxeTBkaXZ5VDFQLXZqaDc1cFNnX3VMdFBIZUowM2xnOVhVNWNVdm10amVPNEVXRUdXV1RMUWgzYXdRb1hnNzhacTFSdGE2WmFwQ2pJd3lvajM3QmRHWE1VdndPWmZUZVhmWHNtV21kenRyWl9Fdk1uSElZOUpZUmR3Y1FyY1dGRVN5b2E1czQ1WWktYzRFRk1XUVJoTVlPejVRbFhXSDVxTHdid2c2OE9sRDZjZmVpQ3dxNnlnZlVsQzFQdUtkR1VTdUFGaE82QQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVlzSVhoZVJiS0x2OFNYYVNUVUtxNC15eFNBVEhBMktRSEcxeTBkaXZ5VDFQLXZqaDc1cFNnX3VMdFBIZUowM2xnOVhVNWNVdm10amVPNEVXRUdXV1RMUWgzYXdRb1hnNzhacTFSdGE2WmFwQ2pJd3lvajM3QmRHWE1VdndPWmZUZVhmWHNtV21kenRyWl9Fdk1uSElZOUpZUmR3Y1FyY1dGRVN5b2E1czQ1WWktYzRFRk1XUVJoTVlPejVRbFhXSDVxTHdid2c2OE9sRDZjZmVpQ3dxNnlnZlVsQzFQdUtkR1VTdUFGaE82QQ?oc=5)
-
----
-
 ### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX0gGaAUFVX3lxTFA5YU9TZkxjNDJvZDJzcjl6Znl0YXBoblR2SE9kUkZ6S3EydkQyVkFEWTdZR1A3SE9RS1FiZGhCSnR5VUh5THNQWWdzRWgyQ2d0OVdKTXJoR2RyVVR5RlhlSndMLU5WRGQzUEFDVVJJdy1tUmRBMkFyRUdHbUlJOWZqZXFjQ3Fub2NYZkJPZzJiVm1BaGU3WVpCeXc?oc=5)
 
 2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -171,14 +163,6 @@ permalink: /news/selinexor/
 2026-07-24 <span class="news-indication-tag">tumor</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemtGSjVEYUJLeFZzY2ZJRHNMaEVnLUlYc3k3a015ZXZOR0o4djFEbWxqNk9vbWJGTHQzTW8xWXg4NWZiNGVuaFVJTDg5MVBtVUJfTDhtY2EyM0pNcllOblpUeEFQUUdDTE0xS09PWF9NdDBTY3JFVG4tZkVzdkx0NWdua0IxNkdfQlpENTFmSGNpSHRBdlY0LU93NXhGUHV5MlMtOXh4ZFlLRkNOTl8zRTExbWlSNjB4a3FaOUFMRFRHQdIBvAFBVV95cUxPMy1RTlRtU2dfT3ZGdE5JU0RvYWtyUHI2WGZBcXNLcUp3REZDNWpIUmRKaEUwNWNDa2Job3FIcm9DWkk5RjRkTGNpVnBicFNSMDZIZVVTNFpFVHVXTGFlMlhKMnJKNHpYVVFWZVcwWGJLV1R4c01NcDVReFUzWDJURmpZcl9VMXhVQ2VsZzBPSlM1eXZkcUFneVlYci0wbFp0Tkh0WDZ1VzItMXhOTFd4dlF1NkY4RVd1c3pqUw?oc=5)
-
----
-
-### [Glasgow cancer patient died after surgery delayed twice over lack of beds - Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhyVDNGT0RWM244QW41SFgtb0VLcmhmc1o1QUFwSjFyX3pTT2IzaTVjMjkwTEtrZ2R5d2FUcVo0Y0dWd3piTS1hbVFXd2JUY055UEVWSWRuSXZEdHBQZ3JIRzNfZnhwVkM5dDVvSDZRY3FSUjJCS1lac3YzM3FGcFBkVzVvMFkwVXRSM3piZjlNa0Y50gGaAUFVX3lxTE0wcVo3OTBRSmQ5cnhOTXhqSkYwckZUMk9JNnA0Qk5yS3JHUS04YlNlWmpuaUp5MXVFUWlyWWhfVXNHYjdVLTl1MmZKak9TaHVfOGhMLUN5YnhCdzUwbGRkOER4RGNveXdNbG9rWmxlM3FCMTBfd1ZPRVhJcUhneElLUEx5OGdDTG9kTFBjSDVRRG5MTkRXdE1XbkE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhyVDNGT0RWM244QW41SFgtb0VLcmhmc1o1QUFwSjFyX3pTT2IzaTVjMjkwTEtrZ2R5d2FUcVo0Y0dWd3piTS1hbVFXd2JUY055UEVWSWRuSXZEdHBQZ3JIRzNfZnhwVkM5dDVvSDZRY3FSUjJCS1lac3YzM3FGcFBkVzVvMFkwVXRSM3piZjlNa0Y50gGaAUFVX3lxTE0wcVo3OTBRSmQ5cnhOTXhqSkYwckZUMk9JNnA0Qk5yS3JHUS04YlNlWmpuaUp5MXVFUWlyWWhfVXNHYjdVLTl1MmZKak9TaHVfOGhMLUN5YnhCdzUwbGRkOER4RGNveXdNbG9rWmxlM3FCMTBfd1ZPRVhJcUhneElLUEx5OGdDTG9kTFBjSDVRRG5MTkRXdE1XbkE?oc=5)
 
 ---
 
@@ -251,30 +235,6 @@ permalink: /news/selinexor/
 2026-07-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Pnp.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
-
----
-
-### [Científicos españoles logran detectar la infiltración invisible en el cáncer cerebral más agresivo - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
-
----
-
-### [Brustkrebs: So beeinflusst Kaffee das Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
-
----
-
-### [Le cancer du sein trahi par le sang cinq ans avant les symptômes](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
 
 ---
 

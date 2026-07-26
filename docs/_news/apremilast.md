@@ -62,11 +62,11 @@ permalink: /news/apremilast/
 
 ---
 
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
+### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
 
 2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/aliskiren/
 ---
 
 <p class="key-answer" data-question="Aliskiren 有什麼相關新聞？">
-<strong>Aliskiren</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aliskiren</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/aliskiren/
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（35 則）
 
 ### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Krebs</span>
+2026-07-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+---
+
+### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/aliskiren/
 2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
+
+---
+
+### ["C'est un immense soulagement" : après un traitement expérimental à Rome, la petite Lyséa est en rémission complète de son cancer - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
 
 ---
 
@@ -83,6 +99,14 @@ permalink: /news/aliskiren/
 2026-07-25 <span class="news-indication-tag">ictus</span>
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWhQTHVZM0x2ZVB4Zy1TZXRySFFxeElFc3N5OUV5cEpBZGRPYW9GODNGZHVfSVpXZXAzN19jNXJRaWhPUkdoYjg4dE1jUnF4MXFmWUVKNjZJUDZoQ3RaaHdTUWh0ZWtBVXQzQ3l5cXIxMTNfU0RjYTN1UGFObFdHMEppOW43MXN6d0d4dE9jN25JUlhFaG5ZMGlYZ1J3RVBhT19ZM0NNa1J3VkozT3NxYlMtanplbWtQQWQ0UHU1alFJenFjZnlOSXFLUUVuLXphYVRSOXlsbFhoZlRkLUZid2VOQXcyV3hsNlJocmRpbVh5RmJr0gH6AUFVX3lxTE5nQnczbHdFTXY0aGY1bUZOelpnTG50STh2ZHo5SzN3cE5IX1ctR3BMeDZVRUY1TjZsQ2ZPWmRZdzdCVi1wQ1J4NVAxNUptcTdXNlVydFdDd1pWOXNSbHVEbGJmUVBwMmRYaVNrVUkwQllsdWNELWdERUhqQWw4aWpadDB4TFBHU0R1QjZxcnFESWk1RzRIcFJDX3lMQVhMT1g2YmhNRzJ2M3NBUlZTdTk5UGtSUEU2bV9CSmdWbGVxVUFULW8tQl9Sb1VudFhMdU92QW5ic245R1VWWS1YWmJWNmZnNy12QUZ6MkMxNW1teEtuUVNmZEt5WXc?oc=5)
+
+---
+
+### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
 
 ---
 
@@ -110,14 +134,6 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
-
-2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
-
----
-
 ### [Tumore del rene: la nuova chirurgia che salva organi e qualità della vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlVfQm9JdVFSNmtLWkpZa3VCMHA5dzliRTd2VEZWekJtaHg2Q0NmbXB2ZTZrelpYNXpBSTBFa0l6YnQyeF9aZm1BTjJvdnQxbHIwZVBudkU3TmluUU1xclVMX25qeWNQeEJMM2hFQndHdm1aZnd6aEtQUmtoSW96WWduWnp6aWIybTJsYzdHMjVWUVJzNmVnY1pxWThCeElLWWtXenREN1dVUU1uMDR0V0dka2QwbWI1ejJsV2U4RDVqQW10Wm9NS0l2UDM?oc=5)
 
 2026-07-25 <span class="news-indication-tag">tumor</span>
@@ -131,6 +147,14 @@ permalink: /news/aliskiren/
 2026-07-25 <span class="news-indication-tag">Krebs</span>
 
 來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
+
+---
+
+### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
 
 ---
 
@@ -174,27 +198,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Bizarre CRISPR enzyme kills cancer cells by shredding their DNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
-
----
-
 ### [Voici la fascinante piste contre l'hypertension difficile à contrôler explorée par des chercheurs selon une étude prometteuse - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
 
 2026-07-24 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
-
----
-
-### [Questa mammografia può prevedere il tumore fino a 5 anni prima: la scoperta che cambia la prevenzione](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVlzSVhoZVJiS0x2OFNYYVNUVUtxNC15eFNBVEhBMktRSEcxeTBkaXZ5VDFQLXZqaDc1cFNnX3VMdFBIZUowM2xnOVhVNWNVdm10amVPNEVXRUdXV1RMUWgzYXdRb1hnNzhacTFSdGE2WmFwQ2pJd3lvajM3QmRHWE1VdndPWmZUZVhmWHNtV21kenRyWl9Fdk1uSElZOUpZUmR3Y1FyY1dGRVN5b2E1czQ1WWktYzRFRk1XUVJoTVlPejVRbFhXSDVxTHdid2c2OE9sRDZjZmVpQ3dxNnlnZlVsQzFQdUtkR1VTdUFGaE82QQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVlzSVhoZVJiS0x2OFNYYVNUVUtxNC15eFNBVEhBMktRSEcxeTBkaXZ5VDFQLXZqaDc1cFNnX3VMdFBIZUowM2xnOVhVNWNVdm10amVPNEVXRUdXV1RMUWgzYXdRb1hnNzhacTFSdGE2WmFwQ2pJd3lvajM3QmRHWE1VdndPWmZUZVhmWHNtV21kenRyWl9Fdk1uSElZOUpZUmR3Y1FyY1dGRVN5b2E1czQ1WWktYzRFRk1XUVJoTVlPejVRbFhXSDVxTHdid2c2OE9sRDZjZmVpQ3dxNnlnZlVsQzFQdUtkR1VTdUFGaE82QQ?oc=5)
 
 ---
 
@@ -230,14 +238,6 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Glasgow cancer patient died after surgery delayed twice over lack of beds - Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhyVDNGT0RWM244QW41SFgtb0VLcmhmc1o1QUFwSjFyX3pTT2IzaTVjMjkwTEtrZ2R5d2FUcVo0Y0dWd3piTS1hbVFXd2JUY055UEVWSWRuSXZEdHBQZ3JIRzNfZnhwVkM5dDVvSDZRY3FSUjJCS1lac3YzM3FGcFBkVzVvMFkwVXRSM3piZjlNa0Y50gGaAUFVX3lxTE0wcVo3OTBRSmQ5cnhOTXhqSkYwckZUMk9JNnA0Qk5yS3JHUS04YlNlWmpuaUp5MXVFUWlyWWhfVXNHYjdVLTl1MmZKak9TaHVfOGhMLUN5YnhCdzUwbGRkOER4RGNveXdNbG9rWmxlM3FCMTBfd1ZPRVhJcUhneElLUEx5OGdDTG9kTFBjSDVRRG5MTkRXdE1XbkE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhyVDNGT0RWM244QW41SFgtb0VLcmhmc1o1QUFwSjFyX3pTT2IzaTVjMjkwTEtrZ2R5d2FUcVo0Y0dWd3piTS1hbVFXd2JUY055UEVWSWRuSXZEdHBQZ3JIRzNfZnhwVkM5dDVvSDZRY3FSUjJCS1lac3YzM3FGcFBkVzVvMFkwVXRSM3piZjlNa0Y50gGaAUFVX3lxTE0wcVo3OTBRSmQ5cnhOTXhqSkYwckZUMk9JNnA0Qk5yS3JHUS04YlNlWmpuaUp5MXVFUWlyWWhfVXNHYjdVLTl1MmZKak9TaHVfOGhMLUN5YnhCdzUwbGRkOER4RGNveXdNbG9rWmxlM3FCMTBfd1ZPRVhJcUhneElLUEx5OGdDTG9kTFBjSDVRRG5MTkRXdE1XbkE?oc=5)
-
----
-
 ### [On lui diagnostique à tort des hémorroïdes, elle meurt finalement d’un cancer à 40 ans](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNTFpS1FOM1Y3V0RKNTM0WFhTV1VlZzJPRmRwdWJBT1hVczBoRWdwVGxKWUVMZFc5QXJsQWs1OUdsQlJCYlU2V0hRdm45MngzeGR5czhnZm0zdVdtUXhQZjg5OVhsQ05oekZ4ekNWMU53MVg1TUQ2QWRtN2ZZcnQ2SUJOSnVIYkZOWnh4V2pjNHF3d0Ewc2RtM1Fpd0N4UkxJQzd0b0VhU19QTjA2WEpleDZPNEcwcm5XZG9fZWp3aV9wUUNZS1YyR0JKMzJEV3VKV1gyRkNycTZ0OFpwci14ZVl4Z1FCbFppWGdF?oc=5)
 
 2026-07-24 <span class="news-indication-tag">cancer</span>
@@ -246,11 +246,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Colpita da ictus in gravidanza, a Lucca salvano lei e il bambino - Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+### [Faut-il rendre le vaccin contre la grippe obligatoire pour les soignants ?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
-2026-07-24 <span class="news-indication-tag">ictus</span>
+2026-07-24 <span class="news-indication-tag">CVA</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
 ---
 
@@ -331,38 +331,6 @@ permalink: /news/aliskiren/
 2026-07-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Pnp.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
-
----
-
-### [Científicos españoles logran detectar la infiltración invisible en el cáncer cerebral más agresivo - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
-
----
-
-### [Brustkrebs: So beeinflusst Kaffee das Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
-
----
-
-### [Schlaganfall-Therapie: THUNDERBOLT erreicht 87,5% Erfolgsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
-
----
-
-### [Le cancer du sein trahi par le sang cinq ans avant les symptômes](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
 
 ---
 

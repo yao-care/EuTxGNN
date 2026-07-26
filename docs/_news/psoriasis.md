@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "psoriasis 相關新聞"
+title: "soriasi（psoriasis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "soriasi（psoriasis） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
-# psoriasis 相關新聞
+# soriasi（psoriasis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="soriasi（psoriasis） 有什麼相關新聞？">
+<strong>soriasi（psoriasis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「psoriasis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「soriasi」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+
+2026-07-25
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+
+---
 
 ### [Vers une révolution du traitement du psoriasis grâce à une découverte génétique majeure - 20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
 

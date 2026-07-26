@@ -54,11 +54,51 @@ permalink: /news/pibrentasvir/
 
 ## 相關新聞（22 則）
 
-### [Everyone seems to be taking creatine — should you? - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
+### [Reizdarmsyndrom: Stammzellen aus Nabelschnur zeigen Erfolg im Tiermodell - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFc4Y0VCQUliN1hWQk44Uko3RnVsQVQ4VTFocVpJV25PTDZWRnJ6R295c1lISXg4U2JDQkZ3dXRLVENtZ2U4TkUyWWlMYnZRNGw4UVo2Y0FHaEJqQWlqNTQ3V2VmYVRNSDRIMEhDaG1vY01Fd1kzZWc3QTFXZjYwMGo0SU5SRVo2dWdjaFVYSHRwOWVOUWdGMFhobkhYUGNuVl9fYzdnRzMydlM0c1NydmFRQ0s1aWZSU0lqNA?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFc4Y0VCQUliN1hWQk44Uko3RnVsQVQ4VTFocVpJV25PTDZWRnJ6R295c1lISXg4U2JDQkZ3dXRLVENtZ2U4TkUyWWlMYnZRNGw4UVo2Y0FHaEJqQWlqNTQ3V2VmYVRNSDRIMEhDaG1vY01Fd1kzZWc3QTFXZjYwMGo0SU5SRVo2dWdjaFVYSHRwOWVOUWdGMFhobkhYUGNuVl9fYzdnRzMydlM0c1NydmFRQ0s1aWZSU0lqNA?oc=5)
+
+---
+
+### [Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’ - Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkVVelBDZll6QXltZUNfaElyaTY5NmFjazZZYUdJMFYzVWdlUlpaNWszZjJVb2FsVXRJWFBMOFMweUthQjdndG5XNHdNYjJqalZ0UnBEbkhjb1hIcjRJTGdPSlVDRnJjZE5MSF9DaDRzVjVkaF9SdlBuUmIzbDBVYnhScG1kcE1sLTRjNDNjQ2xneVFMb2ZPRWF5VWFGSXNVTHBzZFdzaGJqdXdlRW5SatIBtgFBVV95cUxPQjFaQ1RFTnFxZGZQanBmT2dUZjNnS3RhTjRFcXFCaGZGMU5GVzZhdmVnWkZvVDQzRk1XWFVMMC1jOHNnZVNSQWFUNGgzclIxa0xpVVpoZmJNWkdBU29oemdSTnJGZ1Y5c29TTkVkVVo0bVdDZk1TSzBqdjhfUENhZTl3TG4xUmtvX0ZoX1dobUNyX3ExOW9wQzJfQUZzUjJfOG9UbWJidFAwcDNMMFlfUkUzZHhZQQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkVVelBDZll6QXltZUNfaElyaTY5NmFjazZZYUdJMFYzVWdlUlpaNWszZjJVb2FsVXRJWFBMOFMweUthQjdndG5XNHdNYjJqalZ0UnBEbkhjb1hIcjRJTGdPSlVDRnJjZE5MSF9DaDRzVjVkaF9SdlBuUmIzbDBVYnhScG1kcE1sLTRjNDNjQ2xneVFMb2ZPRWF5VWFGSXNVTHBzZFdzaGJqdXdlRW5SatIBtgFBVV95cUxPQjFaQ1RFTnFxZGZQanBmT2dUZjNnS3RhTjRFcXFCaGZGMU5GVzZhdmVnWkZvVDQzRk1XWFVMMC1jOHNnZVNSQWFUNGgzclIxa0xpVVpoZmJNWkdBU29oemdSTnJGZ1Y5c29TTkVkVVo0bVdDZk1TSzBqdjhfUENhZTl3TG4xUmtvX0ZoX1dobUNyX3ExOW9wQzJfQUZzUjJfOG9UbWJidFAwcDNMMFlfUkUzZHhZQQ?oc=5)
+
+---
+
+### [Deux villes balnéaires placées en alerte rouge face au virus West Nile : les autorités inquiètent après cinq premiers cas identifiés - Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMWVmVDlrZ0FObjVOd3VmQVZkZ0xmVlBablQ1eUxlRHR0NV9ESDlkSmNJNmFkaGl5WmVpNS0wcDNkUzAwRDVSSk1naThhQlhrMHdvU1NNWFBYVExDZU9HWHhhVDlUMlJZV3YwbTZWeWVzdWdoeWNzRldKell5NmRaNy0xRHFWaE5Wc1ZkOFZOZ1JiU2NrVkFDbU9UWjJiWXVIU1BUUkpQdlNoU3U4b1JoMEt0NnhGd1hGVFF0YW1mRGU4Zjc5VEVKcTBvd21lbm1od0ZqYndMZzU3ZDRSczJjT25Zb0wzWDY0ai1hMS1Sd2VTUGhNX3lGTHlad2QwcHV5T0xjME1vOHUxazg?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMWVmVDlrZ0FObjVOd3VmQVZkZ0xmVlBablQ1eUxlRHR0NV9ESDlkSmNJNmFkaGl5WmVpNS0wcDNkUzAwRDVSSk1naThhQlhrMHdvU1NNWFBYVExDZU9HWHhhVDlUMlJZV3YwbTZWeWVzdWdoeWNzRldKell5NmRaNy0xRHFWaE5Wc1ZkOFZOZ1JiU2NrVkFDbU9UWjJiWXVIU1BUUkpQdlNoU3U4b1JoMEt0NnhGd1hGVFF0YW1mRGU4Zjc5VEVKcTBvd21lbm1od0ZqYndMZzU3ZDRSczJjT25Zb0wzWDY0ai1hMS1Sd2VTUGhNX3lGTHlad2QwcHV5T0xjME1vOHUxazg?oc=5)
+
+---
+
+### [West Nile, l’allarme dell’OMS: l’Italia ha la diffusione più ampia d’Europa](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnBsaklzejFjS3BRRmF1SVJReUhDR0FWRUhqOVZySHVlbjNsY2dqSmRhNXl0TWJoVHpIZTBxNE5qeW0tSnR6YTBpbG9sSFB6Qm1WZHRvbmxiTl9PSDZtMFVlcVF6eUJEVzhTeV9JWkVLNHBjb2QxVGxTazcwVkFUT2Y4bkczakt4bkJWa1pYZHhtMXNqVDE5R05QcXZ6Nk9ZLXRxMjR0WVNkLUp6Q1lMQ1B6cjVLeXV1VFVMOA?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnBsaklzejFjS3BRRmF1SVJReUhDR0FWRUhqOVZySHVlbjNsY2dqSmRhNXl0TWJoVHpIZTBxNE5qeW0tSnR6YTBpbG9sSFB6Qm1WZHRvbmxiTl9PSDZtMFVlcVF6eUJEVzhTeV9JWkVLNHBjb2QxVGxTazcwVkFUT2Y4bkczakt4bkJWa1pYZHhtMXNqVDE5R05QcXZ6Nk9ZLXRxMjR0WVNkLUp6Q1lMQ1B6cjVLeXV1VFVMOA?oc=5)
+
+---
+
+### [Everyone seems to be taking creatine. Should you? - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
 
 2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
+
+---
+
+### [Multiple Sklerose: Diese Bakterium der Darmflora kann schützen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckFFOVBJQS1qOGxMaXYwWjNrbElVaEU2VkIzSkJSSnZNNFIzQ0w2YTlDWVRxWXBtT255dENlMjNQNmo5UWVZOURfVDd6Ym1FTWxtZ3o0dTVfUG01dE5QZ21MNkVPNmRJRkxoUzF0MnFrWEdIOV93MlJ0bUdveU1SY3BsZ1FoSlJvSkxVcmpmVUE3RFhtMnA4Q1NOYktGOVhHcE44SEJkRk5KNWdsU001bVRDaFk1dklkSDJnT0xiVmEyQQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckFFOVBJQS1qOGxMaXYwWjNrbElVaEU2VkIzSkJSSnZNNFIzQ0w2YTlDWVRxWXBtT255dENlMjNQNmo5UWVZOURfVDd6Ym1FTWxtZ3o0dTVfUG01dE5QZ21MNkVPNmRJRkxoUzF0MnFrWEdIOV93MlJ0bUdveU1SY3BsZ1FoSlJvSkxVcmpmVUE3RFhtMnA4Q1NOYktGOVhHcE44SEJkRk5KNWdsU001bVRDaFk1dklkSDJnT0xiVmEyQQ?oc=5)
 
 ---
 
@@ -70,19 +110,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Entzündungen: Antientzündliche Ernährung senkt Demenzrisiko um 29% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkN3U1UwbHFLelFMZVJ6TzVPdFpXVUhfc2NQVmowRFB2U3JWOXZpMnl0M1NNUlF2bmxERFlMeW10b3gzNWgtaWJkV1lqOE9waVZYbEpma29EdHgyeXY4Vk1ITzRKblNmU21TcmtIUGVxTmpvbU50elBfdGp4RjY4elEwQjl0ZlR0SFUtdTc5V1RRUkRKR3BucGhOUnZFajh3Nk1JcUxDdGFWSVRSZ3ZtdlBBdU1DdHc?oc=5)
+### [Un estudio abre la puerta a utilizar un fármaco contra la esclerosis múltiple en una leucemia infantil - Somos Pacientes](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeF9tN1haWmEwa3NpNk5mdUw2RHJDXzVGSDVXenB2MzZZOXVoWnl2VkxjRG85SlNhY1BBTnhZQkZETlZ4UUhoNjFFbS1rM0FpdHkxcVFzaWZxWGtkQWtJMEhDTDA0SmdZWW8wMWxoZzdZTHF4NHd3Q0xfd3JudXVQMG8zSTdyclZGZkMyOUZDd3JxdmVfTXlGSlY4aWd4eHV5UWJrekdqS0w1WHp0Wl9tRzBnVFNNcVRzcnlNQ2RTenJwSC1saTVnVGVMM3ItdUtKNXdLalgwREF6bHB4cVhhQUY5Y3YyaERSQmx0VEtrMA?oc=5)
 
-2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-25 <span class="news-indication-tag">esclerosis múltiple</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkN3U1UwbHFLelFMZVJ6TzVPdFpXVUhfc2NQVmowRFB2U3JWOXZpMnl0M1NNUlF2bmxERFlMeW10b3gzNWgtaWJkV1lqOE9waVZYbEpma29EdHgyeXY4Vk1ITzRKblNmU21TcmtIUGVxTmpvbU50elBfdGp4RjY4elEwQjl0ZlR0SFUtdTc5V1RRUkRKR3BucGhOUnZFajh3Nk1JcUxDdGFWSVRSZ3ZtdlBBdU1DdHc?oc=5)
-
----
-
-### [West Nile nella Marca, ecco la misure di prevenzione contro il virus](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW1yMDZwYjktZnlnREwtS0hMM0RXTDkxZzBkU2pDN3ZacHkzVEptSkZNZGttWUg3LVg4aENJbjlxSm5aX2JCaFJCWmJiemhrSTNWRjVzRms1NUV3d2VGX0lpVEFTcTh0dHdiZ1V1TDdMMU5nWTFFS1pnSVdFNWF2SFlEY3FBc2NWR0Rjek5kamI3clZVSmUxeWVJQTZ1RkhXYU9v?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[TrevisoToday](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW1yMDZwYjktZnlnREwtS0hMM0RXTDkxZzBkU2pDN3ZacHkzVEptSkZNZGttWUg3LVg4aENJbjlxSm5aX2JCaFJCWmJiemhrSTNWRjVzRms1NUV3d2VGX0lpVEFTcTh0dHdiZ1V1TDdMMU5nWTFFS1pnSVdFNWF2SFlEY3FBc2NWR0Rjek5kamI3clZVSmUxeWVJQTZ1RkhXYU9v?oc=5)
+來源：[Somos Pacientes](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeF9tN1haWmEwa3NpNk5mdUw2RHJDXzVGSDVXenB2MzZZOXVoWnl2VkxjRG85SlNhY1BBTnhZQkZETlZ4UUhoNjFFbS1rM0FpdHkxcVFzaWZxWGtkQWtJMEhDTDA0SmdZWW8wMWxoZzdZTHF4NHd3Q0xfd3JudXVQMG8zSTdyclZGZkMyOUZDd3JxdmVfTXlGSlY4aWd4eHV5UWJrekdqS0w1WHp0Wl9tRzBnVFNNcVRzcnlNQ2RTenJwSC1saTVnVGVMM3ItdUtKNXdLalgwREF6bHB4cVhhQUY5Y3YyaERSQmx0VEtrMA?oc=5)
 
 ---
 
@@ -94,14 +126,6 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Darmmikrobiom: Wie Bakterien Lupus und MS auslösen - AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dmR2t5TXFVLVlzNndaR3pWaC1QWjE5bmZnQ0o3ZDcyUC1CRWJVdEJ4ZUtTUGhZT3lfR0diNmY1aExfem11Rl94SHhYUFFSb2ItQzEzMTZUNmJIZllndDZqMW9VUU01ZW56enhkU3JRbldKRGN3M3hrV08ydWdpZWpYdjZxcXN3cFVzejhmSXJxeEwwaHl3Tnp4Ti1pWkVK?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dmR2t5TXFVLVlzNndaR3pWaC1QWjE5bmZnQ0o3ZDcyUC1CRWJVdEJ4ZUtTUGhZT3lfR0diNmY1aExfem11Rl94SHhYUFFSb2ItQzEzMTZUNmJIZllndDZqMW9VUU01ZW56enhkU3JRbldKRGN3M3hrV08ydWdpZWpYdjZxcXN3cFVzejhmSXJxeEwwaHl3Tnp4Ti1pWkVK?oc=5)
-
----
-
 ### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
@@ -110,27 +134,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Alzheimer-Prävention: Schon 3.000 Schritte täglich bremsen Abbau - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3pDcnpvdGV6THpJWERGanRqLW45b3J4UnVPbVI2LXhydDBDaTEzZ0xiMExFLUlZUEhmTjBVZ3BxMmlWQkF6S28wR3I0aXBvNGUyYWtpb2RGSmljbGNFZ1JyNHJmQlVVbC1VWmlFazcyN2NRNGJPb0FlVllybk9qd1FqVVdIM3BCZndrWkR6WkZQMUhZR0RldGs2aDB2X3FIUVJVWHZYemMyRmp4YUR5M2ZkVEc?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3pDcnpvdGV6THpJWERGanRqLW45b3J4UnVPbVI2LXhydDBDaTEzZ0xiMExFLUlZUEhmTjBVZ3BxMmlWQkF6S28wR3I0aXBvNGUyYWtpb2RGSmljbGNFZ1JyNHJmQlVVbC1VWmlFazcyN2NRNGJPb0FlVllybk9qd1FqVVdIM3BCZndrWkR6WkZQMUhZR0RldGs2aDB2X3FIUVJVWHZYemMyRmp4YUR5M2ZkVEc?oc=5)
-
----
-
 ### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX0gGaAUFVX3lxTFA5YU9TZkxjNDJvZDJzcjl6Znl0YXBoblR2SE9kUkZ6S3EydkQyVkFEWTdZR1A3SE9RS1FiZGhCSnR5VUh5THNQWWdzRWgyQ2d0OVdKTXJoR2RyVVR5RlhlSndMLU5WRGQzUEFDVVJJdy1tUmRBMkFyRUdHbUlJOWZqZXFjQ3Fub2NYZkJPZzJiVm1BaGU3WVpCeXc?oc=5)
 
 2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX0gGaAUFVX3lxTFA5YU9TZkxjNDJvZDJzcjl6Znl0YXBoblR2SE9kUkZ6S3EydkQyVkFEWTdZR1A3SE9RS1FiZGhCSnR5VUh5THNQWWdzRWgyQ2d0OVdKTXJoR2RyVVR5RlhlSndMLU5WRGQzUEFDVVJJdy1tUmRBMkFyRUdHbUlJOWZqZXFjQ3Fub2NYZkJPZzJiVm1BaGU3WVpCeXc?oc=5)
-
----
-
-### [The common concern that can age your brain faster and increase Alzheimer’s risk - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3lqVkxyMUQ2aV9tYldtMEJBemU2ZzFYWTBCQzVseGE4RzlUeWRqYmgwaHJIcTZaX1pnaWkwcno5ejZ4VE9YMng0NXVhSlRVQV9ZRHNoVEJES1hHTGhKNDF6OWJpVlV5bW9MZXlhREh3TUhZcmdELUZBenV2VG1LQTBLd3ZCbGZmdjlzNjFfc05KbUhfQVpiUVNEOGE4UWVJclRsUHpoX3U0SUE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3lqVkxyMUQ2aV9tYldtMEJBemU2ZzFYWTBCQzVseGE4RzlUeWRqYmgwaHJIcTZaX1pnaWkwcno5ejZ4VE9YMng0NXVhSlRVQV9ZRHNoVEJES1hHTGhKNDF6OWJpVlV5bW9MZXlhREh3TUhZcmdELUZBenV2VG1LQTBLd3ZCbGZmdjlzNjFfc05KbUhfQVpiUVNEOGE4UWVJclRsUHpoX3U0SUE?oc=5)
 
 ---
 
@@ -166,19 +174,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
----
-
 ### [Travel warning to Brits after cases of deadly virus that kills 40% of victims found in Spanish holiday hotspot - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
+
+---
+
+### [Lipödem: Ketogene Ernährung bremst Entzündungen und Schmerzen messbar - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
+
+2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
 
 ---
 
@@ -190,27 +198,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Studie: Hoher Süßstoffkonsum könnte das Gedächtnis schneller altern lassen](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnFKZzVoaVZMV2g1VU1Ob3JyVmVSQkhnZFg0WnVxVTJ3VmtfejZ6ZkVYMHo1YUJQaFBqNHRlb3h6bGxhS3Y1OWo4MXVpSU9EYjhNX2dDRVU4UVRScjNrSlRtZzNqU0tPTXVoN0Zwc2s2ZlBKdDdCWkRrd2RUWUtSZnhoVHZhSWdIbFRRRjg3ZnhaQjVVQkVaYjF2SlJkUjE3QnExSi0xdDVuYWwzN3hpRGxXWQ?oc=5)
+### [Tagestipp | 24.07.2026 - Wenn die Blasenentzündung immer wiederkommt - Antenne Brandenburg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJVQjE0c0tNMS0yQjU2NVQwSDV3YXd6cW1vTVUxclVnaFdtOXladE5aaU1xWEI2cTRZM09KNWcwREVmVVdRNjBTZTZPUFh2REhiTXFqZXNqY3ZtZEhjTm1HQU1QeFh4MGw2RDl1ZTBUOWt2YXgyU2lhcUV2TE4ya2FFLW1IN1lZbk9IM2FRdG92ZTJGR2tDcHRKSV9TczlOWkNkTVdGUWFsenRDakd5X1poZw?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
 
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnFKZzVoaVZMV2g1VU1Ob3JyVmVSQkhnZFg0WnVxVTJ3VmtfejZ6ZkVYMHo1YUJQaFBqNHRlb3h6bGxhS3Y1OWo4MXVpSU9EYjhNX2dDRVU4UVRScjNrSlRtZzNqU0tPTXVoN0Zwc2s2ZlBKdDdCWkRrd2RUWUtSZnhoVHZhSWdIbFRRRjg3ZnhaQjVVQkVaYjF2SlJkUjE3QnExSi0xdDVuYWwzN3hpRGxXWQ?oc=5)
-
----
-
-### [rbb GESUND - Wenn die Blasenentzündung immer wiederkommt](https://news.google.com/rss/articles/CBMipAFBVV95cUxPejNKQU5GWWxETjVSbFdrZ0JRajc0MTNkMmFOU181Rnhya0E1ajNaQVlDa0pvN1NlMjZHS2d0UUx6UFo3dm56Z3hiTUhyQ3paWngwbEJLZ0xFcm1YRml5V0xZZjNtdTR5VzVINktHSXg3NVFsYUdOTEthT0tPYnFYU1pxR2pUQnlCZVdvQTdFU1c0eDBpeUJRak03NUEtR1JvTndYNA?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span>
-
-來源：[Inforadio](https://news.google.com/rss/articles/CBMipAFBVV95cUxPejNKQU5GWWxETjVSbFdrZ0JRajc0MTNkMmFOU181Rnhya0E1ajNaQVlDa0pvN1NlMjZHS2d0UUx6UFo3dm56Z3hiTUhyQ3paWngwbEJLZ0xFcm1YRml5V0xZZjNtdTR5VzVINktHSXg3NVFsYUdOTEthT0tPYnFYU1pxR2pUQnlCZVdvQTdFU1c0eDBpeUJRak03NUEtR1JvTndYNA?oc=5)
-
----
-
-### [« Les conditions de sa propagation évoluent » : l’OMS alerte l’Europe face à la recrudescence des cas d’un virus potentiellement mortel - RTL Info](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX1puLWQ5bWZzRWNmS3hsNzlhcXhZVno0M1JhZXItLU1ZTGc0QjBFWUFhbEwxajlWU2QzeFVPM1pmbVEzUGxYXzl2TzlEVnR0bkVDT0VHYWYzTUk5dzEtVVYwTnZKdVFDb1czbzFzS1NHRm5hM1ZsbVBzR2JGcjZMUkNuN1YxeDI3bUM1ZEJFQUtORU1pc1UtdlF2VkdzU0dPaEZ4YWxqeXRuNFh2TE4wY1Y1bUZsYW5KampqQzlKRGVMdzdhancyb0x2YkdIOTV2dURianJR?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span>
-
-來源：[RTL Info](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX1puLWQ5bWZzRWNmS3hsNzlhcXhZVno0M1JhZXItLU1ZTGc0QjBFWUFhbEwxajlWU2QzeFVPM1pmbVEzUGxYXzl2TzlEVnR0bkVDT0VHYWYzTUk5dzEtVVYwTnZKdVFDb1czbzFzS1NHRm5hM1ZsbVBzR2JGcjZMUkNuN1YxeDI3bUM1ZEJFQUtORU1pc1UtdlF2VkdzU0dPaEZ4YWxqeXRuNFh2TE4wY1Y1bUZsYW5KampqQzlKRGVMdzdhancyb0x2YkdIOTV2dURianJR?oc=5)
+來源：[Antenne Brandenburg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJVQjE0c0tNMS0yQjU2NVQwSDV3YXd6cW1vTVUxclVnaFdtOXladE5aaU1xWEI2cTRZM09KNWcwREVmVVdRNjBTZTZPUFh2REhiTXFqZXNqY3ZtZEhjTm1HQU1QeFh4MGw2RDl1ZTBUOWt2YXgyU2lhcUV2TE4ya2FFLW1IN1lZbk9IM2FRdG92ZTJGR2tDcHRKSV9TczlOWkNkTVdGUWFsenRDakd5X1poZw?oc=5)
 
 ---
 
@@ -227,6 +219,14 @@ permalink: /news/pibrentasvir/
 2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
+
+---
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 

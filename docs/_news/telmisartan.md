@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+
+---
 
 ### [Bluthochdruck: Vegetarische Kost senkt Druck um 4,8 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
 
@@ -70,6 +78,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+
+---
+
 ### [Primer trasplante de órganos entre pacientes con VIH en España: «Al fin se hace efectivo nuestro derecho a ser donantes»](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjVBcnR2UlNxSHhfamg5VzhGRWRWenVKMTJMTl81TzRGZE1tSlRRWHhZVXVscHNjZ3BTVEt3X29UOWJYZ1IyRF9KV0dBSkJVaTNNYXk2MlF1NDV5dDZ5WUtCRnBPZFV6UHBqbFcwSmh1bDdwQ3N4SkJOLWNLOUJZQndtNXRoemlEYW90VTBhcHN1dl9UbDZXX1hIV3kwRWVNQVAw0gGoAUFVX3lxTE5wb3NCNTFoZVBLckl6WmJ2Qk4wckZJVUJWNm1ObmN4WmVDSGZ2aWhwemlxTDMxdExaLVZyNzBYdmJBVVA1YUFlTjg4VTdyWndPNXh0bHZsXzFzQS1kbGZFYmhIQkp2S3FYSnlzQ3RzWjBla25WTEw0UHhrZHFkaVBRWWFnNmJwaTNkcDlxYmxDRHQ3dXRxUWxhSGVtLUNmdXdaRU5UMVNrQg?oc=5)
 
 2026-07-25 <span class="news-indication-tag">CVA</span>
@@ -78,11 +94,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
+### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Colpita da ictus in gravidanza, a Lucca salvano lei e il bambino - Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+### [Faut-il rendre le vaccin contre la grippe obligatoire pour les soignants ?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
-2026-07-24 <span class="news-indication-tag">ictus</span>
+2026-07-24 <span class="news-indication-tag">CVA</span>
 
-來源：[Il Tirreno](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDF4NFlGY09jajJvaUdLRjhidjZ3ekpLQlBWVXhfYTVMc05aNlVOMDhsank4WnFXTlgxMzVpUXpmS1hiNHJxaS1LMEdraVNYTWtLM2NfSTRwN2J1ejBvQUJRQ09JOWdGb2R5QW11VzhRdmVyWjkyMXl1bVczak52UjBkN21sX1ZzTVF3X0hWdjIxdllhdEdCSWxGNHlfcnBPWDRONllseE5vdVdrQ1YwS1N1dFoxeWhMMmNYc2ZGb01ERTVnMHJETGxn?oc=5)
+來源：[Linfo.re](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/telmisartan/
 2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
----
-
-### [Schlaganfall-Therapie: THUNDERBOLT erreicht 87,5% Erfolgsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVjMk9kUmQ3TDNBd1c5S2RNODY0bTJFYWVOSk1aV19KSXpaT3VpOFptMEhnRzAxS3lrS201Q0F0WW1EekwxZmJFTEVqQkwtd3daQm9LY2wydklUQzBrUDE1N2JJZFE0SE12LTY3T3dIZFdCR2ZpQVJreXpvZmVWTEtmNTBTZzc5eDhfaVo4NVZrWW5aSmQ3OHktV0tMWHlqN2REb2lwOERrb3UyVFkyVGd3cWRnekFT?oc=5)
 
 ---
 

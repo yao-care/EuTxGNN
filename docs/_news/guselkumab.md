@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+
+2026-07-25 <span class="news-indication-tag">soriasi</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+
+---
 
 ### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/guselkumab/
 2026-07-25 <span class="news-indication-tag">diabète</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
+
+---
+
+### [Morbus Crohn: Neue Blutmarker erkennen Krankheit zehn Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
 
 ---
 
@@ -102,22 +118,6 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Typ-2-Diabetes: Kohlenhydratarm kann Remission bringen – doch nicht pauschal - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZnNFlKV2JOUVBlNjZtQ29iekw4ZXlIUTNSVWgyM0s5TXUxOThMTFBzRFIybEZuNzNjNEFWU3dxX3IxVmJTNno2bl9oekh0dHlSVHUtcGVTWVZjU3ZYVjF5dXhDWGxJSVhLZWttMF90Yk9aakVubndJVEZvUUY4LXlvMlN1aHZDLTlJRG5YaldaOWRuZlJOTnlPT0RHT29nbXBrNjgwOTk?oc=5)
-
----
-
-### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
-
----
-
 ### [Neue Diabetes-Tech Übersicht: Pumpen, Sensoren und kommende Technologien auf einen Blick](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabetes</span>
@@ -139,6 +139,14 @@ permalink: /news/guselkumab/
 2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
+
+---
+
+### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
+
+2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 

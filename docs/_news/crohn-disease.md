@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Wearables und Biomarker erkennen Schübe bei Colitis ulcerosa deutlich früher - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+### [Morbus Crohn: Neue Blutmarker erkennen Krankheit zehn Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
 
 2026-07-24
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdKc3EtaGNTNkNCUGdUc2FYSDhlbG9nc1g4ZG1DT2FxMllxQTk1QkF0Rm5SaktMUVF5SldrSHNaYWwwcjVWYVpYRXZfUmVUaEU5NlpsQS1nMHZBU0g4S1V5UG4tdVIwdmFOVXlWLUpxYVljNF95OVJYSW04U3libUExa0plWkpKLWJUN1ZKLWRzUDVjQmplYy1oUWtpbHdZZWVMdlBfT09NLWNDRmc0?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
 
 ---
 

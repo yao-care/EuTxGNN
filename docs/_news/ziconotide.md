@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
+
+---
+
+### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
+
+---
 
 ### [Obesità in crescita tra i giovani, ripercussioni sulle donne in età fertile](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
 

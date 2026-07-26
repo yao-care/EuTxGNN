@@ -14,7 +14,7 @@ permalink: /news/cinacalcet-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cinacalcet Hydrochloride 有什麼相關新聞？">
-<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/cinacalcet-hydrochloride/
 <p><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（26 則）
 
 ### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Krebs</span>
+2026-07-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
@@ -70,11 +70,27 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
+### ["C'est un immense soulagement" : après un traitement expérimental à Rome, la petite Lyséa est en rémission complète de son cancer - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">cancer</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
+
+---
+
 ### [«Io, infermiera, ho ignorato per anni un sanguinamento comune. Era un tumore al colon al terzo stadio» - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFpaMEdUMVdueEhTTi1uRU1FbFRmalZoZzZhSDI3cTFLVnd5Y2ZZYURiVi1wMGN2Z2NIRGJHNFJETTNlUmRhZDdKZVE1Q2syZmlRMG9jalNJWkdfb2t5UDJVTHhGX3R1UFdrVGpyX0R3NGhraGxrbldFck02aF9VZnhCemVDUjg3TVFxTjFwbUFneWs1OFFBT2Zva3MtMFdJQ1lSaFF0d1FjT3FNaHFILThIc1RGb0RCZ0dRZENn0gG6AUFVX3lxTE9HV0NxajBWUW42alZIeFRXanpMeldYNzl1NjJVSnN5SUhMV3lqdWVKSXdtZVEtU09qQmhvYjI4TkF3ZEs1N2xqYmZTN3VIZDNNZXlUU2dTNWk0Z3IwVzlSSzRja2g3M3NxOXBqQUpCNzR0clhsV0tUOUY5YkcyNzY0QjF1cWpucUtKckdNclZVeVpIWXkxYWFrVVpxYVlBWjBHQlhMY1ZkRXR3OTJHMWV1RU9uTFU5Qk9Mdw?oc=5)
 
 2026-07-25 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFpaMEdUMVdueEhTTi1uRU1FbFRmalZoZzZhSDI3cTFLVnd5Y2ZZYURiVi1wMGN2Z2NIRGJHNFJETTNlUmRhZDdKZVE1Q2syZmlRMG9jalNJWkdfb2t5UDJVTHhGX3R1UFdrVGpyX0R3NGhraGxrbldFck02aF9VZnhCemVDUjg3TVFxTjFwbUFneWs1OFFBT2Zva3MtMFdJQ1lSaFF0d1FjT3FNaHFILThIc1RGb0RCZ0dRZENn0gG6AUFVX3lxTE9HV0NxajBWUW42alZIeFRXanpMeldYNzl1NjJVSnN5SUhMV3lqdWVKSXdtZVEtU09qQmhvYjI4TkF3ZEs1N2xqYmZTN3VIZDNNZXlUU2dTNWk0Z3IwVzlSSzRja2g3M3NxOXBqQUpCNzR0clhsV0tUOUY5YkcyNzY0QjF1cWpucUtKckdNclZVeVpIWXkxYWFrVVpxYVlBWjBHQlhMY1ZkRXR3OTJHMWV1RU9uTFU5Qk9Mdw?oc=5)
+
+---
+
+### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-07-25 <span class="news-indication-tag">cancro</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2dOWFlPSVBOQjJXbXlnSFRXeEkxcDEzblBkYjF5NnZMTVFRY05XMjN1Q1dTNmpNcWRyUUZuRFBTVlF3RlE2bzdKTHNveS1OV0hubTIzSG8yTndWZTdpcjdETDVRX1haTDdQMXJ2Mjd4T05HaG4yNUlienRyUzR0NlVub2QwQkFicmFPTTNycWwxMzdfN2JYNFdfaUhyTEszU0UyWFRUQk1FQUnSAaQBQVVfeXFMTnI3UWNqT2otMzUydEd2U1JEM1JUb2VfaHhlOUVOLWdwQzlzV2ZzZlo2b0ZNaWRTR1oyek9leFlYdm1vU0xkWExyMGFmZlEzcWNuR1k2aDJBc1NBVE9jMW43LXQwTFpwSW0wTnp4N3RWd1I1T1dsRzZhZVViTmN4amwxa3lSbjA5NmEzQ3Q5NDQxdl9WQzYwRENhWHJ2M2M0S0NHYlk?oc=5)
-
----
-
-### [Bluthochdruck: Sartane senken Therapieabbruch um 27 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
-
-2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOclJ5ZXpvVkNhc2xXOHB4NGFKaFlzbnR5b3hUSmdiaUJZeGRRX0g2VlM1cldpdHNrVDFYelRlX3NvMmhnMnRaWExaY0NMcVh4bUFkY0ktbjdKbW02RDByLTFuVFpGa0dOTTI3UjdaVDdmQ2Zzb2FhUjdnVVFPNm00VndfY3lFRTJCdEpCYkIwOFM4WExrZzFmQlo4UTdvT1ZtS0RRU0pNWVBQTGc?oc=5)
 
 ---
 
@@ -142,27 +150,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Bizarre CRISPR enzyme kills cancer cells by shredding their DNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54ZG1CckVBU21NelQwSUZmdDhXTjRkV2hlREVRcEhsRlZCaEdYcW9FaVctUE9wTFJYYVlKY3lLaHZVLUI0UEJpOXJSRFdFb3FueGd1NnMtV1NVckNrREhV?oc=5)
-
----
-
 ### [Voici la fascinante piste contre l'hypertension difficile à contrôler explorée par des chercheurs selon une étude prometteuse - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
 
 2026-07-24 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
-
----
-
-### [Questa mammografia può prevedere il tumore fino a 5 anni prima: la scoperta che cambia la prevenzione](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVlzSVhoZVJiS0x2OFNYYVNUVUtxNC15eFNBVEhBMktRSEcxeTBkaXZ5VDFQLXZqaDc1cFNnX3VMdFBIZUowM2xnOVhVNWNVdm10amVPNEVXRUdXV1RMUWgzYXdRb1hnNzhacTFSdGE2WmFwQ2pJd3lvajM3QmRHWE1VdndPWmZUZVhmWHNtV21kenRyWl9Fdk1uSElZOUpZUmR3Y1FyY1dGRVN5b2E1czQ1WWktYzRFRk1XUVJoTVlPejVRbFhXSDVxTHdid2c2OE9sRDZjZmVpQ3dxNnlnZlVsQzFQdUtkR1VTdUFGaE82QQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQVlzSVhoZVJiS0x2OFNYYVNUVUtxNC15eFNBVEhBMktRSEcxeTBkaXZ5VDFQLXZqaDc1cFNnX3VMdFBIZUowM2xnOVhVNWNVdm10amVPNEVXRUdXV1RMUWgzYXdRb1hnNzhacTFSdGE2WmFwQ2pJd3lvajM3QmRHWE1VdndPWmZUZVhmWHNtV21kenRyWl9Fdk1uSElZOUpZUmR3Y1FyY1dGRVN5b2E1czQ1WWktYzRFRk1XUVJoTVlPejVRbFhXSDVxTHdid2c2OE9sRDZjZmVpQ3dxNnlnZlVsQzFQdUtkR1VTdUFGaE82QQ?oc=5)
 
 ---
 
@@ -195,14 +187,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-07-24 <span class="news-indication-tag">tumor</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemtGSjVEYUJLeFZzY2ZJRHNMaEVnLUlYc3k3a015ZXZOR0o4djFEbWxqNk9vbWJGTHQzTW8xWXg4NWZiNGVuaFVJTDg5MVBtVUJfTDhtY2EyM0pNcllOblpUeEFQUUdDTE0xS09PWF9NdDBTY3JFVG4tZkVzdkx0NWdua0IxNkdfQlpENTFmSGNpSHRBdlY0LU93NXhGUHV5MlMtOXh4ZFlLRkNOTl8zRTExbWlSNjB4a3FaOUFMRFRHQdIBvAFBVV95cUxPMy1RTlRtU2dfT3ZGdE5JU0RvYWtyUHI2WGZBcXNLcUp3REZDNWpIUmRKaEUwNWNDa2Job3FIcm9DWkk5RjRkTGNpVnBicFNSMDZIZVVTNFpFVHVXTGFlMlhKMnJKNHpYVVFWZVcwWGJLV1R4c01NcDVReFUzWDJURmpZcl9VMXhVQ2VsZzBPSlM1eXZkcUFneVlYci0wbFp0Tkh0WDZ1VzItMXhOTFd4dlF1NkY4RVd1c3pqUw?oc=5)
-
----
-
-### [Glasgow cancer patient died after surgery delayed twice over lack of beds - Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhyVDNGT0RWM244QW41SFgtb0VLcmhmc1o1QUFwSjFyX3pTT2IzaTVjMjkwTEtrZ2R5d2FUcVo0Y0dWd3piTS1hbVFXd2JUY055UEVWSWRuSXZEdHBQZ3JIRzNfZnhwVkM5dDVvSDZRY3FSUjJCS1lac3YzM3FGcFBkVzVvMFkwVXRSM3piZjlNa0Y50gGaAUFVX3lxTE0wcVo3OTBRSmQ5cnhOTXhqSkYwckZUMk9JNnA0Qk5yS3JHUS04YlNlWmpuaUp5MXVFUWlyWWhfVXNHYjdVLTl1MmZKak9TaHVfOGhMLUN5YnhCdzUwbGRkOER4RGNveXdNbG9rWmxlM3FCMTBfd1ZPRVhJcUhneElLUEx5OGdDTG9kTFBjSDVRRG5MTkRXdE1XbkE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXhyVDNGT0RWM244QW41SFgtb0VLcmhmc1o1QUFwSjFyX3pTT2IzaTVjMjkwTEtrZ2R5d2FUcVo0Y0dWd3piTS1hbVFXd2JUY055UEVWSWRuSXZEdHBQZ3JIRzNfZnhwVkM5dDVvSDZRY3FSUjJCS1lac3YzM3FGcFBkVzVvMFkwVXRSM3piZjlNa0Y50gGaAUFVX3lxTE0wcVo3OTBRSmQ5cnhOTXhqSkYwckZUMk9JNnA0Qk5yS3JHUS04YlNlWmpuaUp5MXVFUWlyWWhfVXNHYjdVLTl1MmZKak9TaHVfOGhMLUN5YnhCdzUwbGRkOER4RGNveXdNbG9rWmxlM3FCMTBfd1ZPRVhJcUhneElLUEx5OGdDTG9kTFBjSDVRRG5MTkRXdE1XbkE?oc=5)
 
 ---
 
@@ -275,30 +259,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-07-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Pnp.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
-
----
-
-### [Científicos españoles logran detectar la infiltración invisible en el cáncer cerebral más agresivo - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ2tQcXZtMEFzdk1lY2VDaTlUSXpIT1hiSDVBejBsUmRkMS1XdWRSWEZ1b3k2SWlMUWhSNGxCVlEwOVNYVUUwcktSQXZaZHlEcU5WYVVKRWYzX0xqN2NIampJT1o1QWRuVFdiOFRqdHY3d2FwdDVnRFd2dC1VQ1VWRGR3dVhVamZDak1lcmxWRFdDRFZBbDdpVUpyLXo0bmFQb0NGNEE3SXR3clkxOS1IMEZjUng2U1JCdkxEOEplVk5FZ2FUdV9OYXhqUEs4aUlxNElCbXB1ajJKVzNvN1Q3WUZTdUphYURhci1SbnVxY21HRmlHQnhsbVlWaDI1NW02aGhzZDlUYTjSAZMCQVVfeXFMTlY4Ym9kdGF1MGtMLXd3UmtTT1ZCLWZiOTlyZWhBa2wyWThyUWNPaUp6RUpKM3NNX19XdXVIYlZHdXB2ajJGRVIyT0dYbXJ4R0ZPOVFYbVU0elBhdlVZcjVhVThZVUliZjVHWDNabHNQR3hVcXkxckl2NUZGS0JvYmRsWWd4c0dJTEJ2dnIwNTNlY2liNXNYV2N0N0R4UEV6alptZFE2WjA3cHNaLUl1c2pNbHdDQVRNVWFuYmpyWDVXRDcxSVVlLWF5ZUhieENBT3NfLTU2UHZYaEpYVFpSbVNhbGZsaVlaMFRoX0wtREVlRUZ1dmxfbThzMGFGY3VvRmFxWFRRb1Q3VUx1ZTNfaEJULVk?oc=5)
-
----
-
-### [Brustkrebs: So beeinflusst Kaffee das Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXF3VVVTT2pfVkdKeWNoSmhQSDY1R21CRnZhTTdQcWJUMkdEU3RwaVFLWGQ2ZG55SEFESWhHcHZLWnJiWEFhNERrN3J3QWtXWVpzRzZ2bGlib21zZDlqRjNhejVIVC10N0M1QndiWjI5elZtdndIb3ljNmZsQlEtNFZIUnVIUUVaRWxvdFhmc3VSTnhYQmgxMmJNNUwxcjFZNnltT1dMaw?oc=5)
-
----
-
-### [Le cancer du sein trahi par le sang cinq ans avant les symptômes](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
-
-2026-07-23 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlBmX1l4MElNSjBuT2NXWU1nUVZBNDB4TU16bkl2d296VEt5SUt2bm5MRHBYYmFTZzREQVNxQmw1THVENmVJdW0zcjBNTU1PSEFKdExGaWxBc1FrRFdTTTg3WVpVdnJ1bFByTXU0VVl6a0RScTNkR2lBd2VqWlIwdDhqbi0zQjRndmNwRmZxTzRudw?oc=5)
 
 ---
 
