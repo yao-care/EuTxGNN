@@ -44,6 +44,22 @@ permalink: /news/blinatumomab/
 
 ## 相關新聞（7 則）
 
+### [La «pandemia metabólica» de la diabetes se triplica en América e impulsa nuevos fármacos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+
+---
+
+### [La 'puerta' que alimenta la piel: una proteína podría abrir la vía a nuevos tratamientos para eccema y psoriasis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">psoriasis</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
+
+---
+
 ### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
 
 2026-07-25 <span class="news-indication-tag">soriasi</span>
@@ -57,14 +73,6 @@ permalink: /news/blinatumomab/
 2026-07-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
-
----
-
-### [Une image du fond de l’œil pourrait trahir un diabète encore invisible](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
-
-2026-07-25 <span class="news-indication-tag">diabète</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
 
 ---
 
@@ -89,14 +97,6 @@ permalink: /news/blinatumomab/
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [Neue Diabetes-Tech Übersicht: Pumpen, Sensoren und kommende Technologien auf einen Blick](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
 
 ---
 

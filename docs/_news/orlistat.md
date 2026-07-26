@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
-
-### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
-
-2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
 
@@ -115,30 +107,6 @@ permalink: /news/orlistat/
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [Ictus, togliere il coagulo non basta: quando la trombectomia può fare più male che bene](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
-
----
-
-### [El celastrol reduce el peso corporal y la inflamación cerebral asociada a la obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
-
----
-
-### [Nach dem Schlaganfall plötzlich Epilepsie – 16 Jahre kämpfte Renate (65) um ihre Selbstständigkeit](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Epilepsie</span>
-
-來源：[like-online.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
 
 ---
 

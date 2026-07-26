@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
-### [Wenn der Herzinfarkt in der Notaufnahme zum Magenproblem wird - Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+### [Bluthochdruck: Kombinationen senken Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWNQazlsS3BKb1ZwMVNRaHcySkdGNDZLZ21tbkxyZkNOVS1BZ1VpTFRGdzlQWE44Vmt4b19MWjRmeGI2UEZNdDROV1cyLXVHWTZVb1lTdGtpNVE3cEt2ZnBqUm55U084QW9UOEJKYl9zNVAyRjFySm1SVXhxd1czN0tzLUZiSlJoR3BMdjFRbm85RTZuVkVTdENTUk5qZXF4Mk5xUGJ0Y05pckJ1bld4dTB2NA?oc=5)
 
 2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWNQazlsS3BKb1ZwMVNRaHcySkdGNDZLZ21tbkxyZkNOVS1BZ1VpTFRGdzlQWE44Vmt4b19MWjRmeGI2UEZNdDROV1cyLXVHWTZVb1lTdGtpNVE3cEt2ZnBqUm55U084QW9UOEJKYl9zNVAyRjFySm1SVXhxd1czN0tzLUZiSlJoR3BMdjFRbm85RTZuVkVTdENTUk5qZXF4Mk5xUGJ0Y05pckJ1bld4dTB2NA?oc=5)
 
 ---
 
-### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
+### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
-2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
+2026-07-26 <span class="news-indication-tag">hypertension</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/telmisartan/
 2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
-
----
-
-### [Bluthochdruck: Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
-
-2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
 
 ---
 
@@ -131,22 +123,6 @@ permalink: /news/telmisartan/
 2026-07-24 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
-
----
-
-### [Ictus, togliere il coagulo non basta: quando la trombectomia può fare più male che bene](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">ictus</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
-
----
-
-### [Nach dem Schlaganfall plötzlich Epilepsie – 16 Jahre kämpfte Renate (65) um ihre Selbstständigkeit](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Epilepsie</span>
-
-來源：[like-online.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
 
 ---
 

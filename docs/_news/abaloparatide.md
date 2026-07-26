@@ -54,6 +54,22 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（7 則）
 
+### [La «pandemia metabólica» de la diabetes se triplica en América e impulsa nuevos fármacos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+
+2026-07-26 <span class="news-indication-tag">diabetes</span>
+
+來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+
+---
+
+### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
+
+2026-07-26 <span class="news-indication-tag">migraine</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
+
+---
+
 ### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
 
 2026-07-25 <span class="news-indication-tag">diabetes</span>
@@ -62,19 +78,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Une image du fond de l’œil pourrait trahir un diabète encore invisible](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
+### [Ola de calor y migraña: factores que agravan el dolor y consejos para reducir su impacto](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
 
-2026-07-25 <span class="news-indication-tag">diabète</span>
+2026-07-25 <span class="news-indication-tag">migraña</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlFPdmN0MGFVdlZOVjJGVDZ1ZnhaMU9YMFpvZEpCUXpkSEZYV2FERDdVdnd2djY4bXZWUjNSeVZGYkVaRG9ReDNqV0xKRHJyLWFFNFlLQ3NXSktiMnZkbTZodnB5azdleDFMcXJGRHJZcVRLN1VkTmNQaWhWYVZ0X05zQXZLa1Z1cmFpUl9udEZPTmZYcS1wRVdR?oc=5)
-
----
-
-### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/abaloparatide/
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [Neue Diabetes-Tech Übersicht: Pumpen, Sensoren und kommende Technologien auf einen Blick](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
 
 ---
 

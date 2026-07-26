@@ -54,11 +54,19 @@ permalink: /news/sarilumab/
 
 ## 相關新聞（4 則）
 
-### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
 
-2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-07-26 <span class="news-indication-tag">copd</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
+
+---
+
+### [Espinacas y brócoli contra la EPOC: las verduras de hoja verde reducen un 16 % el riesgo de enfermedad pulmonar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
+
+2026-07-26 <span class="news-indication-tag">EPOC</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/sarilumab/
 2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
-
----
-
-### [Morbus Crohn: Neue Blutmarker erkennen Krankheit zehn Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
 
 ---
 

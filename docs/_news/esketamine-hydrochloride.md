@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Depression: Entzündungshemmer erreichen 54% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRldpc0VsU1R4Z2YwSGctYlFNQ3RreFJNQXo1Z040Ynd6OVFxTU4yOU9LbGhBNmhULWRwSWUtM1NIUkx4QUdXTEtoWUpPcDNXNGJKNWFwVWRjYjJZRzY3ZzFkWmZMckY2cV9KRU0xY0JsM3ltT0k2c0g1QWtFRU5FNUhvNlBKOHNkQ3pxSVNlaGNzZU5EVHBwSGRldVZ5aUUwSUJ6bjdsZGZEb3NWaGpBSW5aQk0?oc=5)
+
+2026-07-26 <span class="news-indication-tag">depression</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRldpc0VsU1R4Z2YwSGctYlFNQ3RreFJNQXo1Z040Ynd6OVFxTU4yOU9LbGhBNmhULWRwSWUtM1NIUkx4QUdXTEtoWUpPcDNXNGJKNWFwVWRjYjJZRzY3ZzFkWmZMckY2cV9KRU0xY0JsM3ltT0k2c0g1QWtFRU5FNUhvNlBKOHNkQ3pxSVNlaGNzZU5EVHBwSGRldVZ5aUUwSUJ6bjdsZGZEb3NWaGpBSW5aQk0?oc=5)
+
+---
+
+### [Depression: Kreatin-Einnahme zeigt Wirkung](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTFuQTlUOFlRc0R1Um1PVG5LNURaSEJZQzROSEtmMXQ2a2hiZDQ1Wlh0dDk4YzBUdWg2QWVKdExxRjNBWFpfdjF5b0hOZjVnd2NIb2pSYnp3cFZsOXNfV1ZwcEdUNldqcjdxWkZFd25UemRXdTBsbGN4Z1RfWlRULVRuV2d0S2lzeWZhcVd5VWdqbUdObWdGOEMteGU2YVNnVUZ6dg?oc=5)
+
+2026-07-26 <span class="news-indication-tag">depression</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTFuQTlUOFlRc0R1Um1PVG5LNURaSEJZQzROSEtmMXQ2a2hiZDQ1Wlh0dDk4YzBUdWg2QWVKdExxRjNBWFpfdjF5b0hOZjVnd2NIb2pSYnp3cFZsOXNfV1ZwcEdUNldqcjdxWkZFd25UemRXdTBsbGN4Z1RfWlRULVRuV2d0S2lzeWZhcVd5VWdqbUdObWdGOEMteGU2YVNnVUZ6dg?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Leading brain expert brands soft drink a ‘bullet to your brain’ in stark dementia warning](https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VXSmVCaS1pY3RYTGRobktEc09nVUFsZ3ZCeW4zMTdIUWlTZ0xTN0pYVUVtWklKU0NsZVloWUtiYUZPUzNTREhZN1dLaWU1TG02THFzXzR1eWJBUTVKandsemhHYTNFV1c5aFpKa3kxVHVkSWxrNzdkNUE1cDNjREtUdWVxcnlCck5wakZQTW1rWjBCaXM4V2UyOHRuT3kydjNhbTlLS1pmUUdLZ1l1SFoxV3hGVVMxV2huQk5ad3VvRzdpaXfSAcsBQVVfeXFMUG4wUzZhYkFLbnJfQVNIRTRlQmUzaC1LZUVRWkExRnNkWTFOMzBzSjNXMWRGMm5iekI0Zms0Rzg5OWw2OGpWbWY2TFM5a3NLSFRFd3JzRERMeHd6UGpnSzZQeXJOWXFxWXJwTExMbXFXRU1FNjUwQ21ReE90TTZiOU9ZR2V2dXN1dU93SjVvejN6ZllCM2h2cG83dVdkUzRORTVsUXlVdnotRFFIU2QxRzNPa19feVA4Y2pDdjVrM3c5cGp6R1Z3bUxQVXM?oc=5)
+
+2026-07-26 <span class="news-indication-tag">dementia</span>
+
+來源：[7NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VXSmVCaS1pY3RYTGRobktEc09nVUFsZ3ZCeW4zMTdIUWlTZ0xTN0pYVUVtWklKU0NsZVloWUtiYUZPUzNTREhZN1dLaWU1TG02THFzXzR1eWJBUTVKandsemhHYTNFV1c5aFpKa3kxVHVkSWxrNzdkNUE1cDNjREtUdWVxcnlCck5wakZQTW1rWjBCaXM4V2UyOHRuT3kydjNhbTlLS1pmUUdLZ1l1SFoxV3hGVVMxV2huQk5ad3VvRzdpaXfSAcsBQVVfeXFMUG4wUzZhYkFLbnJfQVNIRTRlQmUzaC1LZUVRWkExRnNkWTFOMzBzSjNXMWRGMm5iekI0Zms0Rzg5OWw2OGpWbWY2TFM5a3NLSFRFd3JzRERMeHd6UGpnSzZQeXJOWXFxWXJwTExMbXFXRU1FNjUwQ21ReE90TTZiOU9ZR2V2dXN1dU93SjVvejN6ZllCM2h2cG83dVdkUzRORTVsUXlVdnotRFFIU2QxRzNPa19feVA4Y2pDdjVrM3c5cGp6R1Z3bUxQVXM?oc=5)
+
+---
 
 ### [What five neuroscientists do daily to protect their brains from dementia - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
 

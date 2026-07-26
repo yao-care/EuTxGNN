@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。3 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>3 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
 
 2026-07-26
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
+
+---
+
+### [Espinacas y brócoli contra la EPOC: las verduras de hoja verde reducen un 16 % el riesgo de enfermedad pulmonar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
+
+2026-07-26
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
 
 ---
 

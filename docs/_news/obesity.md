@@ -3,7 +3,7 @@ layout: default
 title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesità（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
 
@@ -59,14 +59,6 @@ permalink: /news/obesity/
 2026-07-24
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [El celastrol reduce el peso corporal y la inflamación cerebral asociada a la obesidad - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
-
-2026-07-24
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU80Zmw3RGh5bWE3Qm5Edm5Td0o3S1J5QzBsM0ZvekRVMmNndVdJZzBrUGJwZXQ5dmFveW5sSmpsSU10aGZsOUE1Z3RyWG1YaFZraThSNHZESU1mODJJUW9YQVJfbDNlS3BYUFNxRUY2ZTFNVk83NWlGZDZNeTJDQVhJRXpuRDFBSlBUNEVNdmhTTzZDRnJjNXpMVnpXcGdmYjZfanEwSlA3R2RmYjIxeU1QWlpVRXQxUlR6R0RSWGcyUdIBvAFBVV95cUxOZ3l4T1lTbTBZd2FxMElPT0k3dFVQbmFUMkVIYTM4N2lQOElwbmd5eVBycWplcGVjR2RmRlJrOXBlWURTYmRwUkhIR1pNY3dURW5UYnhRa2JmUzFiT0JmbnFxN2NvazJqWUl6SVJoQWhMc2hTOURCS2gtcUNhOG15aW02TXR3T2xrMkFrWTVJS0xYV0hlLXdQbU5kd1MzOGw1clI4enh4MjVyZWs2THdEeHUyanVlaVloT1R4Rg?oc=5)
 
 ---
 

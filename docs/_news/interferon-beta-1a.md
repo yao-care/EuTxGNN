@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（16 則）
+
+### [Darmschübe: Wearables erkennen Colitis-Anfälle sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzZVZkF1Snhna20zYTlzUFpOUDBVZjdoN0MxTWdtSWM3bUl4ZU01QzJnYlo5SmZzZFhkckRBUDVrcl9EVlJtbllBWFVUX19WVzVsQnlrNmY4d1BDZzN1aVJLZW5EVTZjU1phaHlySGVJbmx4R3FGUkY5alFKaTdwdGZJcDNRUHl2Z1pWb3IySnNZbDVYVFlpRDRYQXFqaUctRjV3STFRUnA3WGVOQlRWaGUwdExlQXVMclE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzZVZkF1Snhna20zYTlzUFpOUDBVZjdoN0MxTWdtSWM3bUl4ZU01QzJnYlo5SmZzZFhkckRBUDVrcl9EVlJtbllBWFVUX19WVzVsQnlrNmY4d1BDZzN1aVJLZW5EVTZjU1phaHlySGVJbmx4R3FGUkY5alFKaTdwdGZJcDNRUHl2Z1pWb3IySnNZbDVYVFlpRDRYQXFqaUctRjV3STFRUnA3WGVOQlRWaGUwdExlQXVMclE?oc=5)
+
+---
+
+### [Man who went to opticians for reading glasses diagnosed with melanoma - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFJINk8temItbWRLN2c3SFFnelNJV0xqZDJkX2dPUVN0WHNzb1BXZ1psZWN1THBXYUVYZjZ2V1UySU8zd091WGZySWNSRW1DRVB3NHpwWlZfM09oZHBMQTVHWlFHdW1HaXh3aHZGalc5MlBBQXNzVUlUOWVyNDlpNlRldFRZNXRDaGF2RjhEWXRjbGJpSkd3SDFvV2g?oc=5)
+
+2026-07-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFJINk8temItbWRLN2c3SFFnelNJV0xqZDJkX2dPUVN0WHNzb1BXZ1psZWN1THBXYUVYZjZ2V1UySU8zd091WGZySWNSRW1DRVB3NHpwWlZfM09oZHBMQTVHWlFHdW1HaXh3aHZGalc5MlBBQXNzVUlUOWVyNDlpNlRldFRZNXRDaGF2RjhEWXRjbGJpSkd3SDFvV2g?oc=5)
+
+---
 
 ### [FCC gibt Test frei: Riesenspiegel im All soll nachts Licht nach unten senden - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHBrNkxhazlaOFFpMzRpMktnaHFFZXpPYzN4QW5Oc2RkVXpuaF9DdER5Tk9MNklrRF9LMTRHVlBWRWtCWEdGY1hNTDBHaGlTa01rbkZjdWFyS1h3Vy12dXI1NW9meHNVekpHMFd5M0gtYnRKZ1U0a0c5TmtQQ0tfVDZxa1hTQWJmSXJVLU5hUU40eU8tbFkxZU1TT05OTG1jLV91aFAwZmdmQ3M?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
-
----
-
 ### [Stammzelltherapie: Nabelschnur-Zellen zeigen Erfolg bei Reizdarmsyndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
 
 2026-07-26 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
+
+---
+
+### [Multiple Sklerose: Darmbakterium Akkermansia senkt MS-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlXY1o1OWZLenNaUjlNZXh0aUtuZUx3STF0cGJGUkhFR3JrR1NZbko3M01UblVSWHE5MTUyek9xRGlaVkQ1eG15cTc1SkhfZGttQ2tlRF96M1BBT1JITjFWSHZpd1Z4VWdLMm5BNUZUck5ScVdCcE05R0lPM1A5OS1jZXEtY3JZdDRpWllndTB3N0JTT3ZmZTRQQlVnNjVzclo5aGZXdTEtY2hF?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlXY1o1OWZLenNaUjlNZXh0aUtuZUx3STF0cGJGUkhFR3JrR1NZbko3M01UblVSWHE5MTUyek9xRGlaVkQ1eG15cTc1SkhfZGttQ2tlRF96M1BBT1JITjFWSHZpd1Z4VWdLMm5BNUZUck5ScVdCcE05R0lPM1A5OS1jZXEtY3JZdDRpWllndTB3N0JTT3ZmZTRQQlVnNjVzclo5aGZXdTEtY2hF?oc=5)
 
 ---
 
@@ -102,27 +118,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Multiple Sklerose: Diese Bakterium der Darmflora kann schützen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckFFOVBJQS1qOGxMaXYwWjNrbElVaEU2VkIzSkJSSnZNNFIzQ0w2YTlDWVRxWXBtT255dENlMjNQNmo5UWVZOURfVDd6Ym1FTWxtZ3o0dTVfUG01dE5QZ21MNkVPNmRJRkxoUzF0MnFrWEdIOV93MlJ0bUdveU1SY3BsZ1FoSlJvSkxVcmpmVUE3RFhtMnA4Q1NOYktGOVhHcE44SEJkRk5KNWdsU001bVRDaFk1dklkSDJnT0xiVmEyQQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckFFOVBJQS1qOGxMaXYwWjNrbElVaEU2VkIzSkJSSnZNNFIzQ0w2YTlDWVRxWXBtT255dENlMjNQNmo5UWVZOURfVDd6Ym1FTWxtZ3o0dTVfUG01dE5QZ21MNkVPNmRJRkxoUzF0MnFrWEdIOV93MlJ0bUdveU1SY3BsZ1FoSlJvSkxVcmpmVUE3RFhtMnA4Q1NOYktGOVhHcE44SEJkRk5KNWdsU001bVRDaFk1dklkSDJnT0xiVmEyQQ?oc=5)
-
----
-
 ### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
 
 2026-07-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
-
----
-
-### [West Nile nella Marca, ecco la misure di prevenzione contro il virus](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW1yMDZwYjktZnlnREwtS0hMM0RXTDkxZzBkU2pDN3ZacHkzVEptSkZNZGttWUg3LVg4aENJbjlxSm5aX2JCaFJCWmJiemhrSTNWRjVzRms1NUV3d2VGX0lpVEFTcTh0dHdiZ1V1TDdMMU5nWTFFS1pnSVdFNWF2SFlEY3FBc2NWR0Rjek5kamI3clZVSmUxeWVJQTZ1RkhXYU9v?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span>
-
-來源：[TrevisoToday](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW1yMDZwYjktZnlnREwtS0hMM0RXTDkxZzBkU2pDN3ZacHkzVEptSkZNZGttWUg3LVg4aENJbjlxSm5aX2JCaFJCWmJiemhrSTNWRjVzRms1NUV3d2VGX0lpVEFTcTh0dHdiZ1V1TDdMMU5nWTFFS1pnSVdFNWF2SFlEY3FBc2NWR0Rjek5kamI3clZVSmUxeWVJQTZ1RkhXYU9v?oc=5)
 
 ---
 
@@ -134,6 +134,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Il caldo estivo può causare infiammazione? Cosa succede al corpo quando le temperature aumentano](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXZIeEwwdWR4X1ZSTkRlaHNOV2NVRjJSNzdlLWpZWXBQMlJWSmk3RzBCX0N3M2JpWDJnMXBWcER2ZkRMaEVCOUlBUGVTdzJ2UUVlSXVHOU5BZFZFdHJIazdLektEUU81elZyRER0OERpQ0dqNFUyNmFlYl9RYlNEUFZVbHkzT2RLT2RIWFhXbkpfbWhzSGxMQ01QdHdscjR6THZ5X3dEa1c0X20zc3RtVGJnNUNyT1VJcEdPRmJaX1NoN3N1UDdMRU11bXljWENzZGdVZ2JsaVg?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXZIeEwwdWR4X1ZSTkRlaHNOV2NVRjJSNzdlLWpZWXBQMlJWSmk3RzBCX0N3M2JpWDJnMXBWcER2ZkRMaEVCOUlBUGVTdzJ2UUVlSXVHOU5BZFZFdHJIazdLektEUU81elZyRER0OERpQ0dqNFUyNmFlYl9RYlNEUFZVbHkzT2RLT2RIWFhXbkpfbWhzSGxMQ01QdHdscjR6THZ5X3dEa1c0X20zc3RtVGJnNUNyT1VJcEdPRmJaX1NoN3N1UDdMRU11bXljWENzZGdVZ2JsaVg?oc=5)
+
+---
+
 ### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
@@ -142,11 +150,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX0gGaAUFVX3lxTFA5YU9TZkxjNDJvZDJzcjl6Znl0YXBoblR2SE9kUkZ6S3EydkQyVkFEWTdZR1A3SE9RS1FiZGhCSnR5VUh5THNQWWdzRWgyQ2d0OVdKTXJoR2RyVVR5RlhlSndMLU5WRGQzUEFDVVJJdy1tUmRBMkFyRUdHbUlJOWZqZXFjQ3Fub2NYZkJPZzJiVm1BaGU3WVpCeXc?oc=5)
+### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX?oc=5)
 
 2026-07-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX0gGaAUFVX3lxTFA5YU9TZkxjNDJvZDJzcjl6Znl0YXBoblR2SE9kUkZ6S3EydkQyVkFEWTdZR1A3SE9RS1FiZGhCSnR5VUh5THNQWWdzRWgyQ2d0OVdKTXJoR2RyVVR5RlhlSndMLU5WRGQzUEFDVVJJdy1tUmRBMkFyRUdHbUlJOWZqZXFjQ3Fub2NYZkJPZzJiVm1BaGU3WVpCeXc?oc=5)
+來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUticGNfTmh3a294eV9BMTJvOEU5NUF2NFBUUUc2bmJiMFlVYWdLeWJfS0cwTGU5T1d3XzVhQU5JaGJYQVl0SnJLeDVEd09URWpDR3lIUkwxWEYxLUZyU3pxczJIQWtqRnFzYmRjbVd0NnplUnhBMnhodkdrclViOWVzdjM1NFN3RDJuYk1Vb3hPSUFX?oc=5)
 
 ---
 
@@ -171,22 +179,6 @@ permalink: /news/interferon-beta-1a/
 2026-07-24 <span class="news-indication-tag">esclerosis múltiple</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdaRk1vY1pieks3MjdOZFZFV3NvS1Q3Q0RKcGlzcEwwRDh5NXR2T2xudnlIOE9YMkl6WW16bGh1SnJ4SXNyeF9GaEJlQjhmeUc4Q3BSaDhPT2N6X3ZqTHNkTUFkWG96aVFFZUtRSnBtZG0xd3hsZkdtS19PeDFQNDc3V3NzVUliaTdCaFc5TDJXS3RrckF3UDdIbmU5UzJUb083clBjV3FHeUlGUVNZMWFCREtXWWtRQjMw0gG2AUFVX3lxTE5vdDJfbkZqNmZKWkFXM2U1S1pKMUtCMWwtWnBHTk51VWh4Z2ljamVRMmZLNjZ1NUlxOXJNeXA1b0s2MG95a0prZURqNklpbnNkTHF3ZjZZYW5ONFNvLTFHcm5UT3F3aGU3anFiUDJMREU1aE04V3JTNjR2a3ZFMzgwZDVVTktqRksyaW02OG9tdzRCNndyQmctekxyVldvbUNEbjZla0YtR1lnTWV4NHp0Mnpic0FR?oc=5)
-
----
-
-### [Travel warning to Brits after cases of deadly virus that kills 40% of victims found in Spanish holiday hotspot - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVV9jRXVhZzhvS21nT1ZYOVFaMjM4YS1EcEo0cENZNE5lUWVUVUpfSFpNLXdTc1NZT1lYQkVaSHJ6el84RER3WDhqS0JUYmd1ZUYzOHlsX0NxUjlodXBqTFJSTzRNaEtFN2RlNnZYRFpoN2RGb3ZwVmpmdTI4Rl9SbDRGU1BpdERFb2tmXzZTN21xT2R0SkM4VFVwc0I3Z0Rr?oc=5)
-
----
-
-### [I begged docs to take my 'tummy bug' symptoms seriously - now I'm facing a death sentence at 40 - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NJZFUxaDdwcm4xWlFYTUtBeDBrMVpXMGZmZGxOYU12amstUktPOUYzWEluVEM1ajBVdWZJcVZmd3VXZFFWanl4aFdUcGZQQUJ0SV9YLU0zSVZKYm1qNjlLZ3Z4NjVIeU8wN2tQYUFlUjE2STAzd1ZCSTY0c3RHdkFmemIxakw0ZG5vZFpVNm8wUDFsMFE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NJZFUxaDdwcm4xWlFYTUtBeDBrMVpXMGZmZGxOYU12amstUktPOUYzWEluVEM1ajBVdWZJcVZmd3VXZFFWanl4aFdUcGZQQUJ0SV9YLU0zSVZKYm1qNjlLZ3Z4NjVIeU8wN2tQYUFlUjE2STAzd1ZCSTY0c3RHdkFmemIxakw0ZG5vZFpVNm8wUDFsMFE?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/tenofovir-alafenamide/
 
 ## 相關新聞（2 則）
 
-### [Welt-Hepatitis-Tag 28. Juli: Neue Therapie heilt 20% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnlUc0VZX0dINklHYWhQd0xBTDEzbGkxcTRyMFVfdXVVRV82SC1OLXIwVUF5M2Z3TkZsTXNZMFI4blkxMzJvMDVqVHdhNnJKYS1MMHVHM2VLMWQ4QlBKM0xnOWhFVkMxWVA3V0M3d01qWHNncDJ4anhqQ1VTb0ZSSm1FRmhleU5nNmVna0UxaWVoT3hKWjNMTWVfLXRuRHp5THVpT1JBSGtUVXg4enNjbmloLWdXN1JWSFlTLQ?oc=5)
+### [„Lass uns Klartext reden“: Aktionstag der Hepatitis-Eliminationsinitiative in Nürnberg - Mainfranken News](https://news.google.com/rss/articles/CBMivgFBVV95cUxObTB2c2owYmZFT0NVSF9ldzNLSWdGRlB4cjFmbzJxRlF4NGNwRGJrX0VCNzc5ak5MVTU2bk9FcHE4RUwwT2djSElKRElfelZESHNWLTZKRy1LRzgxOFBJekh0aDlNc0twcmNXMmZYd0lZT0VDSjJPeF9jMnd0NDh3XzZvMVc3V2JRNnhwUDhCX0dtOC1FNTAzM1gxWnRxU29ha2VVOVZIUzE0eG5nZmIyZmFaODJNNlFlQzBIcTNn?oc=5)
 
 2026-07-26 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnlUc0VZX0dINklHYWhQd0xBTDEzbGkxcTRyMFVfdXVVRV82SC1OLXIwVUF5M2Z3TkZsTXNZMFI4blkxMzJvMDVqVHdhNnJKYS1MMHVHM2VLMWQ4QlBKM0xnOWhFVkMxWVA3V0M3d01qWHNncDJ4anhqQ1VTb0ZSSm1FRmhleU5nNmVna0UxaWVoT3hKWjNMTWVfLXRuRHp5THVpT1JBSGtUVXg4enNjbmloLWdXN1JWSFlTLQ?oc=5)
+來源：[Mainfranken News](https://news.google.com/rss/articles/CBMivgFBVV95cUxObTB2c2owYmZFT0NVSF9ldzNLSWdGRlB4cjFmbzJxRlF4NGNwRGJrX0VCNzc5ak5MVTU2bk9FcHE4RUwwT2djSElKRElfelZESHNWLTZKRy1LRzgxOFBJekh0aDlNc0twcmNXMmZYd0lZT0VDSjJPeF9jMnd0NDh3XzZvMVc3V2JRNnhwUDhCX0dtOC1FNTAzM1gxWnRxU29ha2VVOVZIUzE0eG5nZmIyZmFaODJNNlFlQzBIcTNn?oc=5)
 
 ---
 
