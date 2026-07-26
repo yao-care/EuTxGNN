@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Obesità in crescita tra i giovani, ripercussioni sulle donne in età fertile](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
+### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
-2026-07-24 <span class="news-indication-tag">obesità</span>
+2026-07-24 <span class="news-indication-tag">migraña</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
+來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/ziconotide/
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
 
 來源：[rci.fm](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
-
----
-
-### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
 
 ---
 

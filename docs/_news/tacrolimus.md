@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 soriasi</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,7 +52,7 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/tacrolimus/
 2026-07-24 <span class="news-indication-tag">artrite</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
-
----
-
-### [Vers une révolution du traitement du psoriasis grâce à une découverte génétique majeure - 20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
-
-2026-07-24 <span class="news-indication-tag">psoriasis</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
 
 ---
 

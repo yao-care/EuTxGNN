@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+
+---
+
+### [La pire façon de boire son café pour le cerveau : elle accélère le déclin cognitif après 50 ans - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
+
+2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
+
+---
 
 ### [Morbus Crohn: Neue Blutmarker erkennen Krankheit zehn Jahre früh - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmtjU0Fua2NjWDZtQy1VRGQ5UXRZUS1EbHdDLUNuN3ZjMFl5VUNpeWRTUkhyTHozZzluTGVaUmVFYmpzbEFYZGx4LTJzM2xuM0xvN1JEOWJhang1Uk5hTF9zT01rUGFNYmtqalhpVVViVjF1enplYXZSYkotWUt5MVdOb0J0Tk43dDk4NEt6S0FKcE92RElNSkZwTV8xcjRna1JWQ1BydFJ5dl9EUnpaZjBPUQ?oc=5)
 

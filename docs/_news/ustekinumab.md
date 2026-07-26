@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/ustekinumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
-<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
+<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 soriasi</span></li>
 <li>parapsoriasis（99.9%）</li>
 <li>pityriasis lichenoides（99.9%）</li>
 <li>acute lichenoid pityriasis（99.9%）</li>
@@ -52,7 +52,7 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（7 則）
 
 ### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
 
@@ -102,43 +102,11 @@ permalink: /news/ustekinumab/
 
 ---
 
-### [SGLT2-Hemmer und GLP-1: Senken Diabetes-Medikamente das Alzheimer-Risiko? - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUt1bHMwNmxYTXZ5MURpQ3Q0RUg2bWdXWXNPWWdtd0FURVoyWDBhc1kxYjZFQTl1M2RYN1lHTlRkdTVxVHZHUXVCRzVmc044THMzMjBYZ1ZHbmtsR25CS2ZWM0xUWjFwNUpMZGpZamJZYzdZSEdJZEhvQW1Qdm1OVmh6MDB4R1NoZGtsRDloblZxUjZpSW9nd3NVd3ZIeTY1ano5RDh3?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUt1bHMwNmxYTXZ5MURpQ3Q0RUg2bWdXWXNPWWdtd0FURVoyWDBhc1kxYjZFQTl1M2RYN1lHTlRkdTVxVHZHUXVCRzVmc044THMzMjBYZ1ZHbmtsR25CS2ZWM0xUWjFwNUpMZGpZamJZYzdZSEdJZEhvQW1Qdm1OVmh6MDB4R1NoZGtsRDloblZxUjZpSW9nd3NVd3ZIeTY1ano5RDh3?oc=5)
-
----
-
 ### [Neue Diabetes-Tech Übersicht: Pumpen, Sensoren und kommende Technologien auf einen Blick](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG8yV3RJdkZveVh3dUpFZDBpTXhpUG0xYy1TWkhuYW1mM2tscVBOM3JqV1h0Wm5BTGFoaTJXRk5TMTZtX01qeUktRGhsM1oyRnhHSmFxLUNiTjg1UG1BbnFvYm9yNGwycS10YnVoT1Q0djY2NFZRU1QxenhfX0Jsa2lnX1M2U1lBdDNnUHVTN3BhMHNPcGYzcnZkNUVvdWM4OVFDM1BHV2JpWUxkd3ltZ2pDSXlOaHRpNGpKMjlJNnU4Zw?oc=5)
-
----
-
-### [Vers une révolution du traitement du psoriasis grâce à une découverte génétique majeure - 20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
-
-2026-07-24 <span class="news-indication-tag">psoriasis</span>
-
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWk0SVJHWG5uOG81M0pGX3Q0WWxQWHk5bU1YSDBRUVFfV0xhdjhvSVNrMnhvUEVvYWpjSVlrZlNyZkNMS3pyRjNydldzWFJtMzhUenJXb2xNOUlHYjFoZ0I0M3RyQXB6eUdxdmtkcU1DVkJmVXB6X0hHWmo2WXhKSXdoeGxSQjZFNmxweUZib3pfaWxDWUdSWE4zUmVBbkJ1MUU2VlVOM3diYmNMWkNNMEQ3anA5WVN5T04xZ1YtdEVMcHE5TTRjX1pPOTZxLXBJTDRfTUp3?oc=5)
-
----
-
-### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
-
-2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
-
----
-
-### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 

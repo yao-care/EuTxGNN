@@ -54,11 +54,35 @@ permalink: /news/florbetapir-18f/
 
 ## 相關新聞（24 則）
 
+### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+
+---
+
 ### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
 2026-07-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
+
+---
+
+### [La pire façon de boire son café pour le cerveau : elle accélère le déclin cognitif après 50 ans - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
+
+2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
+
+---
+
+### [Durchbruch in der Brustkrebsdiagnose: Neue Methode verbessert Überlebenschancen deutlich](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXc4Y3NjTUlPa2ZRRGc1dC1tMHVTbkdJeUphZWFsNUZyRUV1aUhpWnh0blFrdkpTZjBRVGlRVTV0UjZwTXB4Ym03SmdFbUlkOUQ3Ql9aOW9IWmRQQ2pCYWJWUE1vY19Cd0dkZUUwSERkbmRCM0hYVWw1emdFSXZDZ0lUMDlBSkpQNVRZUkVFM1o5TmFhV0x6cUtWOGh5WGlQS2VSMkZ2bmVZVmNwR3ZYbEc3bXdWaVpfckE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heidelberg24](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXc4Y3NjTUlPa2ZRRGc1dC1tMHVTbkdJeUphZWFsNUZyRUV1aUhpWnh0blFrdkpTZjBRVGlRVTV0UjZwTXB4Ym03SmdFbUlkOUQ3Ql9aOW9IWmRQQ2pCYWJWUE1vY19Cd0dkZUUwSERkbmRCM0hYVWw1emdFSXZDZ0lUMDlBSkpQNVRZUkVFM1o5TmFhV0x6cUtWOGh5WGlQS2VSMkZ2bmVZVmNwR3ZYbEc3bXdWaVpfckE?oc=5)
 
 ---
 
@@ -158,6 +182,14 @@ permalink: /news/florbetapir-18f/
 
 ---
 
+### [Bestimmte Krebsart überträgt sich wohl von Fisch zu Fisch – auch bei Menschen möglich?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3c2X3hTZ0ZWam5HZkR5Yk9jaGdMMVo5REs4RGpHOE9YTnY1bFdYMFhXR2hzR3NrYXdOekRudmp2R2dydVdpa1c4YS1Bczl1dWZ4YndJWk1ObU5CTm5naFRkSjVFZnNzMjVobDg0eHFrOWZLckQwRUlrMUMwN3lRUHBvUXZrUXhHaWU5MnVzRkN5Y3NrZ1ZlM3FxTFJ0UHNBbDBMT3BuelAwalk0S1RF?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[GMX](https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3c2X3hTZ0ZWam5HZkR5Yk9jaGdMMVo5REs4RGpHOE9YTnY1bFdYMFhXR2hzR3NrYXdOekRudmp2R2dydVdpa1c4YS1Bczl1dWZ4YndJWk1ObU5CTm5naFRkSjVFZnNzMjVobDg0eHFrOWZLckQwRUlrMUMwN3lRUHBvUXZrUXhHaWU5MnVzRkN5Y3NrZ1ZlM3FxTFJ0UHNBbDBMT3BuelAwalk0S1RF?oc=5)
+
+---
+
 ### [Vitamin D bei Hautschäden nach Chemo: Wirksamkeit in 87 % - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnl5RGN1VTFGYU9YYzB1alVUbTNpeERxbzBaam5SUl9EQS1uNkEwc1hqZllxZVpHT3BCMTE4UEdlSWx4ZjRUc0ZEMXRzdlA4TE9VQ2g5NlNsOFdRV1c2cW52R0tVX2UzRGxtNWdNZXhrYVI1dUNIQmdQbmhIMFp0YTU0NWhjMGtIV0lxU25JX1c?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Krebs</span>
@@ -206,43 +238,11 @@ permalink: /news/florbetapir-18f/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: Vitamin-C-Infusionen verdoppeln Überleben - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDI1LW51S0dybGM2cXlJcTlYb1R1SDVHMDFiSnNfWExzMFlIbDRSODd0VE54V3lhYTZNeUtxUTdqOV9IZnBfbG12eHVZU1RvQVZYUXI2Y2k0cTlhd0hrdkNYWHVvZjR0SWRuNExDTDN2X0pKZU1hZlo5Nko2dno1aXJ2MEpSVEx2ajdLRmtLVXhaUVlJeTRpMXVUay1YRWN1MTRGQjVpakpDam9iUFB5WDU2NkN5N0c1?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDI1LW51S0dybGM2cXlJcTlYb1R1SDVHMDFiSnNfWExzMFlIbDRSODd0VE54V3lhYTZNeUtxUTdqOV9IZnBfbG12eHVZU1RvQVZYUXI2Y2k0cTlhd0hrdkNYWHVvZjR0SWRuNExDTDN2X0pKZU1hZlo5Nko2dno1aXJ2MEpSVEx2ajdLRmtLVXhaUVlJeTRpMXVUay1YRWN1MTRGQjVpakpDam9iUFB5WDU2NkN5N0c1?oc=5)
-
----
-
 ### [Mit 44 erhielt ich die Diagnose Lungenkrebs im Endstadium – heute feiere ich meinen 50. Geburtstag - Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
-
----
-
-### [Kontagiöse Krebsform breitet sich im See aus – Hinweise auf „Tumor-Infektion“ - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUx6NmhvY05rMVdHeDhza1UwaXBmdnRtTHE0UTJPeE5HMXROMnE4QS11UzVpMW9wSmpCNFRFdFc0ajhRajRYODhHOGhRelVpbkRQd2xoMXQxTGxneE9KZXNEMWdDZlczM1FmMnhScmRkUUxlaDlDdTBCSTFJRzZ4YnE1ZGRQdHdLMW5qMnNLUWpLNjRiWVhHc0xZOUxXM1E4QXhIbUZrMmdQdw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUx6NmhvY05rMVdHeDhza1UwaXBmdnRtTHE0UTJPeE5HMXROMnE4QS11UzVpMW9wSmpCNFRFdFc0ajhRajRYODhHOGhRelVpbkRQd2xoMXQxTGxneE9KZXNEMWdDZlczM1FmMnhScmRkUUxlaDlDdTBCSTFJRzZ4YnE1ZGRQdHdLMW5qMnNLUWpLNjRiWVhHc0xZOUxXM1E4QXhIbUZrMmdQdw?oc=5)
-
----
-
-### [Tumore della vescica, batteri probiotici trasformati in alleati dell’immunoterapia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGZ0cmVzd1FjdktoZldsSWprNWx1dWxweFI1Mk8zQklmWVY5aXZxWG92OUpxMXNzaTFBdHdPTDJ5QVdEd1IwazhSQWs2d1BwX2J1VkJ2Tjkwd0hYY1MyWVVBYzJRMWNqNktURjFuTGQ3MVJ0ZVNENDF5bmFVQWQ4R2h6WVNnX0RrV3hZMWRmNHhTdmZxZlhYTjJFZklrc3h0Y0ZjOVE3TEhXZ0dtUGh6N1A2Q3BqakpGV01qUEpBa1pheFhfdU9jZ0pEV21EMl93ZVJtaElhdw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGZ0cmVzd1FjdktoZldsSWprNWx1dWxweFI1Mk8zQklmWVY5aXZxWG92OUpxMXNzaTFBdHdPTDJ5QVdEd1IwazhSQWs2d1BwX2J1VkJ2Tjkwd0hYY1MyWVVBYzJRMWNqNktURjFuTGQ3MVJ0ZVNENDF5bmFVQWQ4R2h6WVNnX0RrV3hZMWRmNHhTdmZxZlhYTjJFZklrc3h0Y0ZjOVE3TEhXZ0dtUGh6N1A2Q3BqakpGV01qUEpBa1pheFhfdU9jZ0pEV21EMl93ZVJtaElhdw?oc=5)
-
----
-
-### [Experten informieren, warum die HPV-Impfung so wichtig ist – auch für Jungs](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Krebs</span>
-
-來源：[Pnp.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
 
 ---
 

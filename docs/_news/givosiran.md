@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Welt-Hepatitis-Tag 28. Juli: Neue Therapie heilt 20% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnlUc0VZX0dINklHYWhQd0xBTDEzbGkxcTRyMFVfdXVVRV82SC1OLXIwVUF5M2Z3TkZsTXNZMFI4blkxMzJvMDVqVHdhNnJKYS1MMHVHM2VLMWQ4QlBKM0xnOWhFVkMxWVA3V0M3d01qWHNncDJ4anhqQ1VTb0ZSSm1FRmhleU5nNmVna0UxaWVoT3hKWjNMTWVfLXRuRHp5THVpT1JBSGtUVXg4enNjbmloLWdXN1JWSFlTLQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">hepatitis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnlUc0VZX0dINklHYWhQd0xBTDEzbGkxcTRyMFVfdXVVRV82SC1OLXIwVUF5M2Z3TkZsTXNZMFI4blkxMzJvMDVqVHdhNnJKYS1MMHVHM2VLMWQ4QlBKM0xnOWhFVkMxWVA3V0M3d01qWHNncDJ4anhqQ1VTb0ZSSm1FRmhleU5nNmVna0UxaWVoT3hKWjNMTWVfLXRuRHp5THVpT1JBSGtUVXg4enNjbmloLWdXN1JWSFlTLQ?oc=5)
+
+---
+
+### [Wenn der Herzinfarkt in der Notaufnahme zum Magenproblem wird - Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+
+---
 
 ### [Bluthochdruck: Vegetarische Kost senkt Druck um 4,8 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+### [Bluthochdruck: Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
 
 2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
 
 ---
 
@@ -83,14 +99,6 @@ permalink: /news/givosiran/
 2026-07-24 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
-
----
-
-### [Wissen über Hepatitis rettet Leben](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
-
-2026-07-24 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="Amlodipine 有什麼相關新聞？">
-<strong>Amlodipine</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Amlodipine</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/amlodipine/
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（36 則）
 
 ### [Die Gen Z altert biologisch schneller als die Nachkriegsgeneration](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVBNSm9BdDFtMTQzQWVyYVJPWUdhenE4VE4wMnVaOFBrUmtMa184TE1lZUdVRmtqcTdqcjRzakNLSEhtTE82Wm9zbjlBZlVhNGlFc0pLc1RON3pvS3NxUEJ5cjFUdDZtbDEtVHRnNzBmdTRoWGliWjRpZ3F1TFpEeUVBYklqYlNaRUJhNTEwNlVNYkZCU3dQNGFHUm5EWndyYnU3Um1PMVgzY2xpYTJ5dGRPcUoyTTM1Z3ktTE1fR2xOV1NMc2ZhVDZWQkNpbFBqNTFCbHVwU1RldFU?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+### [Durchbruch in der Brustkrebsdiagnose: Neue Methode verbessert Überlebenschancen deutlich](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXc4Y3NjTUlPa2ZRRGc1dC1tMHVTbkdJeUphZWFsNUZyRUV1aUhpWnh0blFrdkpTZjBRVGlRVTV0UjZwTXB4Ym03SmdFbUlkOUQ3Ql9aOW9IWmRQQ2pCYWJWUE1vY19Cd0dkZUUwSERkbmRCM0hYVWw1emdFSXZDZ0lUMDlBSkpQNVRZUkVFM1o5TmFhV0x6cUtWOGh5WGlQS2VSMkZ2bmVZVmNwR3ZYbEc3bXdWaVpfckE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heidelberg24](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXc4Y3NjTUlPa2ZRRGc1dC1tMHVTbkdJeUphZWFsNUZyRUV1aUhpWnh0blFrdkpTZjBRVGlRVTV0UjZwTXB4Ym03SmdFbUlkOUQ3Ql9aOW9IWmRQQ2pCYWJWUE1vY19Cd0dkZUUwSERkbmRCM0hYVWw1emdFSXZDZ0lUMDlBSkpQNVRZUkVFM1o5TmFhV0x6cUtWOGh5WGlQS2VSMkZ2bmVZVmNwR3ZYbEc3bXdWaVpfckE?oc=5)
+
+---
+
+### [Wenn der Herzinfarkt in der Notaufnahme zum Magenproblem wird - Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+
+---
+
+### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
 
 2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Bluthochdruck: Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
+
+2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
+
+---
+
 ### [«Io, infermiera, ho ignorato per anni un sanguinamento comune. Era un tumore al colon al terzo stadio» - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFpaMEdUMVdueEhTTi1uRU1FbFRmalZoZzZhSDI3cTFLVnd5Y2ZZYURiVi1wMGN2Z2NIRGJHNFJETTNlUmRhZDdKZVE1Q2syZmlRMG9jalNJWkdfb2t5UDJVTHhGX3R1UFdrVGpyX0R3NGhraGxrbldFck02aF9VZnhCemVDUjg3TVFxTjFwbUFneWs1OFFBT2Zva3MtMFdJQ1lSaFF0d1FjT3FNaHFILThIc1RGb0RCZ0dRZENn0gG6AUFVX3lxTE9HV0NxajBWUW42alZIeFRXanpMeldYNzl1NjJVSnN5SUhMV3lqdWVKSXdtZVEtU09qQmhvYjI4TkF3ZEs1N2xqYmZTN3VIZDNNZXlUU2dTNWk0Z3IwVzlSSzRja2g3M3NxOXBqQUpCNzR0clhsV0tUOUY5YkcyNzY0QjF1cWpucUtKckdNclZVeVpIWXkxYWFrVVpxYVlBWjBHQlhMY1ZkRXR3OTJHMWV1RU9uTFU5Qk9Mdw?oc=5)
 
 2026-07-25 <span class="news-indication-tag">tumor</span>
@@ -102,11 +126,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+### [Federico Castillo, neurólogo del Hospital San Pedro: “Los hábitos saludables pueden prevenir hasta el 90% de los ictus” - Cadena SER](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUzVkZW5EX3E5OVFmMXctMWZnRnJkYlZGbTR5cVU4OENQQklmZDlYZThLTmJBZllsZmt5Um5OUWVsVl9kTXgzZ2dubFlDcUl3UVpVR3pIaElHMllER24tbnkwaUwzRkxBbi1aTEdqSjU5dW1mNW1lWVQ4QWMxbHlQOTVpY1AtQ29XdFlmR19saE1seWhnVXhiLU5HMS1fVXhHYVZ6d1IyRHVGbmNjd1ZhalhPQndTRGhEa3JLdDM5bG5JT1NhMW5IdTdMV1VJTVpveVFmczV5ancwRjBvVnpNVndKM2dOU2tzUWYwREhldkpHYkFOVDhQM3VB0gGOAkFVX3lxTE5hZ3lzZEhvOE9XNks3aEVBVFhnS1ZnQi1GdVpDZnVXN25IdldUR1JWa1BFNVR4cUdFNjRYSWM5VGJWSE5iN1Z6eW80TDhXdk5LMVpVc2xrQURMdy0tNExycWVtd2VYNEYtODNsREQxa0J3Y1RIRnpjQ090dWJ3bGItcEFkczAxaW1DbkxjdHU1SzdWYnFhaXdQRmNxZXRDZVFDdGZvRjVOb085cWFRNm1sTFhhVE5BbXpPbGdrWUtodkFSamRqZUNiRnBhV0l0ZVNCYXpBdlEzNzJfNWhnczV0bWpTUXNQalNUUE14cTNQZ0tlaWR0MWxWNlBFQUZvenZ2c05WQVpjeXdPSWUtUQ?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-25 <span class="news-indication-tag">ictus</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUzVkZW5EX3E5OVFmMXctMWZnRnJkYlZGbTR5cVU4OENQQklmZDlYZThLTmJBZllsZmt5Um5OUWVsVl9kTXgzZ2dubFlDcUl3UVpVR3pIaElHMllER24tbnkwaUwzRkxBbi1aTEdqSjU5dW1mNW1lWVQ4QWMxbHlQOTVpY1AtQ29XdFlmR19saE1seWhnVXhiLU5HMS1fVXhHYVZ6d1IyRHVGbmNjd1ZhalhPQndTRGhEa3JLdDM5bG5JT1NhMW5IdTdMV1VJTVpveVFmczV5ancwRjBvVnpNVndKM2dOU2tzUWYwREhldkpHYkFOVDhQM3VB0gGOAkFVX3lxTE5hZ3lzZEhvOE9XNks3aEVBVFhnS1ZnQi1GdVpDZnVXN25IdldUR1JWa1BFNVR4cUdFNjRYSWM5VGJWSE5iN1Z6eW80TDhXdk5LMVpVc2xrQURMdy0tNExycWVtd2VYNEYtODNsREQxa0J3Y1RIRnpjQ090dWJ3bGItcEFkczAxaW1DbkxjdHU1SzdWYnFhaXdQRmNxZXRDZVFDdGZvRjVOb085cWFRNm1sTFhhVE5BbXpPbGdrWUtodkFSamRqZUNiRnBhV0l0ZVNCYXpBdlEzNzJfNWhnczV0bWpTUXNQalNUUE14cTNQZ0tlaWR0MWxWNlBFQUZvenZ2c05WQVpjeXdPSWUtUQ?oc=5)
 
 ---
 
@@ -147,14 +171,6 @@ permalink: /news/amlodipine/
 2026-07-25 <span class="news-indication-tag">Krebs</span>
 
 來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
-
----
-
-### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
-
-2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
 
 ---
 
@@ -230,11 +246,27 @@ permalink: /news/amlodipine/
 
 ---
 
+### [Bestimmte Krebsart überträgt sich wohl von Fisch zu Fisch – auch bei Menschen möglich?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3c2X3hTZ0ZWam5HZkR5Yk9jaGdMMVo5REs4RGpHOE9YTnY1bFdYMFhXR2hzR3NrYXdOekRudmp2R2dydVdpa1c4YS1Bczl1dWZ4YndJWk1ObU5CTm5naFRkSjVFZnNzMjVobDg0eHFrOWZLckQwRUlrMUMwN3lRUHBvUXZrUXhHaWU5MnVzRkN5Y3NrZ1ZlM3FxTFJ0UHNBbDBMT3BuelAwalk0S1RF?oc=5)
+
+2026-07-24 <span class="news-indication-tag">Krebs</span>
+
+來源：[GMX](https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3c2X3hTZ0ZWam5HZkR5Yk9jaGdMMVo5REs4RGpHOE9YTnY1bFdYMFhXR2hzR3NrYXdOekRudmp2R2dydVdpa1c4YS1Bczl1dWZ4YndJWk1ObU5CTm5naFRkSjVFZnNzMjVobDg0eHFrOWZLckQwRUlrMUMwN3lRUHBvUXZrUXhHaWU5MnVzRkN5Y3NrZ1ZlM3FxTFJ0UHNBbDBMT3BuelAwalk0S1RF?oc=5)
+
+---
+
 ### [Vitamin D bei Hautschäden nach Chemo: Wirksamkeit in 87 % - it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnl5RGN1VTFGYU9YYzB1alVUbTNpeERxbzBaam5SUl9EQS1uNkEwc1hqZllxZVpHT3BCMTE4UEdlSWx4ZjRUc0ZEMXRzdlA4TE9VQ2g5NlNsOFdRV1c2cW52R0tVX2UzRGxtNWdNZXhrYVI1dUNIQmdQbmhIMFp0YTU0NWhjMGtIV0lxU25JX1c?oc=5)
 
 2026-07-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnl5RGN1VTFGYU9YYzB1alVUbTNpeERxbzBaam5SUl9EQS1uNkEwc1hqZllxZVpHT3BCMTE4UEdlSWx4ZjRUc0ZEMXRzdlA4TE9VQ2g5NlNsOFdRV1c2cW52R0tVX2UzRGxtNWdNZXhrYVI1dUNIQmdQbmhIMFp0YTU0NWhjMGtIV0lxU25JX1c?oc=5)
+
+---
+
+### [Cristina Pascual, hematóloga: “Permanecer sentado e inmóvil durante un viaje largo favorece el estancamiento de la sangre y puede dar lugar a la trombosis del viajero” - La Vanguardia](https://news.google.com/rss/articles/CBMioAJBVV95cUxOaHF4bjhyenBnWmh1aFc0Y3lTT0dadEQxbUVuTU9hRnJkN25YWURUend3S1RLa1pQY0Q3RFE2OUhhY1ktN3VNbFVCSmZ6V0VqaVcyMTdLMF9lcE9VdTJFTGxyMmJQR2lvOGdaYWR5aG9idkRyTkxnT19MdDZrQXRTcVl5dDVnUmhKMS1qUkhsakw2d1dxSVFaSGtRdWdsQnNDbmdVYV9hMnZnYkx4NTZ2UzV0b2dBWmctd3RKRHNmekZJeUNkLXpzV1FnVGdvdTRpbnNYZGFVV2x2TDctTlpneGh5eUgya2hUcHpEUUhQQ1B4NGVOR01nMmFmMWJ2Q29wLUk2SEJkendxcWlQY1lGaFNSX1N1MmwwdWFmVmp0cFHSAaYCQVVfeXFMTTJmNGxkcEpXRjBuNXdROGJreEZNWjhCOWdsbWdKVnBVWEJ6UnE3dHdsZHQ4eUJBY1l4WG9GRW05MHAzRDRVNDR5VnJVV0JORGJfNlNncmFGdE9sMG55MTZCU2pBR1c3eHJCai1RSzhCRUFta2VhZVJsNWVvWXczdUdxQ0FZRnpfM0tGVWlMTmdOb0MwMjhJZVc4THZ6bU1iQW5aUU1CMWp4bW1NZ2U2cko5YnBCc05YaUZKQ1hoQ3g0R3REUktOSlhiRkllSWwxa2hwM3hIbS1PYnBPTnVNalA5SEcwaUxGN2xVRWpTUFNDUEppd3ROSGREdmsxUXZLcnV4U3ZDZHd1NUp0WG52ODRPbEVOOHBqbGxuaF85c2l6WFZUSXFn?oc=5)
+
+2026-07-24 <span class="news-drug-tag">Amlodipine</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMioAJBVV95cUxOaHF4bjhyenBnWmh1aFc0Y3lTT0dadEQxbUVuTU9hRnJkN25YWURUend3S1RLa1pQY0Q3RFE2OUhhY1ktN3VNbFVCSmZ6V0VqaVcyMTdLMF9lcE9VdTJFTGxyMmJQR2lvOGdaYWR5aG9idkRyTkxnT19MdDZrQXRTcVl5dDVnUmhKMS1qUkhsakw2d1dxSVFaSGtRdWdsQnNDbmdVYV9hMnZnYkx4NTZ2UzV0b2dBWmctd3RKRHNmekZJeUNkLXpzV1FnVGdvdTRpbnNYZGFVV2x2TDctTlpneGh5eUgya2hUcHpEUUhQQ1B4NGVOR01nMmFmMWJ2Q29wLUk2SEJkendxcWlQY1lGaFNSX1N1MmwwdWFmVmp0cFHSAaYCQVVfeXFMTTJmNGxkcEpXRjBuNXdROGJreEZNWjhCOWdsbWdKVnBVWEJ6UnE3dHdsZHQ4eUJBY1l4WG9GRW05MHAzRDRVNDR5VnJVV0JORGJfNlNncmFGdE9sMG55MTZCU2pBR1c3eHJCai1RSzhCRUFta2VhZVJsNWVvWXczdUdxQ0FZRnpfM0tGVWlMTmdOb0MwMjhJZVc4THZ6bU1iQW5aUU1CMWp4bW1NZ2U2cko5YnBCc05YaUZKQ1hoQ3g0R3REUktOSlhiRkllSWwxa2hwM3hIbS1PYnBPTnVNalA5SEcwaUxGN2xVRWpTUFNDUEppd3ROSGREdmsxUXZLcnV4U3ZDZHd1NUp0WG52ODRPbEVOOHBqbGxuaF85c2l6WFZUSXFn?oc=5)
 
 ---
 
@@ -262,14 +294,6 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Faut-il rendre le vaccin contre la grippe obligatoire pour les soignants ?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
-
-2026-07-24 <span class="news-indication-tag">CVA</span>
-
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
-
----
-
 ### [Terapia 'cancella' cancro al cervello mortale in tre bambini: "Avevano pochissime opzioni". Studio su Nature Medicine](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd2tXWm83X2twM2h3RXJuMERtNGEyRkRpOFhKc1J6Y0d1NklyTVZEZkZaNG56blhEYXluZElYMHlSaVZOSF9PYU12ZGJ2SGZTRkFqLWRpTlc2NE1LM3FudlZwS185cFVNNHF2cG4zRENFWFdmMGRiN2tSMy1wcndLV2QxTHFPd0pvMGJwZXNXVXNpLWstSWI0b3B0MjlPdGlwRHZqUnpCeEZ6dU1mTnBhdkEtQ3pMWnJYV0trZVc1NXVmSHJRNG04LU9XemU5dUdvWG9MNGdURG56QTVRMTVYcnlJM3otX2pYZ0Jr?oc=5)
 
 2026-07-24 <span class="news-indication-tag">cancro</span>
@@ -294,11 +318,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: Vitamin-C-Infusionen verdoppeln Überleben - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDI1LW51S0dybGM2cXlJcTlYb1R1SDVHMDFiSnNfWExzMFlIbDRSODd0VE54V3lhYTZNeUtxUTdqOV9IZnBfbG12eHVZU1RvQVZYUXI2Y2k0cTlhd0hrdkNYWHVvZjR0SWRuNExDTDN2X0pKZU1hZlo5Nko2dno1aXJ2MEpSVEx2ajdLRmtLVXhaUVlJeTRpMXVUay1YRWN1MTRGQjVpakpDam9iUFB5WDU2NkN5N0c1?oc=5)
+### [Ictus, togliere il coagulo non basta: quando la trombectomia può fare più male che bene](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
 
-2026-07-24 <span class="news-indication-tag">Krebs</span>
+2026-07-24 <span class="news-indication-tag">ictus</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDI1LW51S0dybGM2cXlJcTlYb1R1SDVHMDFiSnNfWExzMFlIbDRSODd0VE54V3lhYTZNeUtxUTdqOV9IZnBfbG12eHVZU1RvQVZYUXI2Y2k0cTlhd0hrdkNYWHVvZjR0SWRuNExDTDN2X0pKZU1hZlo5Nko2dno1aXJ2MEpSVEx2ajdLRmtLVXhaUVlJeTRpMXVUay1YRWN1MTRGQjVpakpDam9iUFB5WDU2NkN5N0c1?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
 
 ---
 
@@ -315,38 +339,6 @@ permalink: /news/amlodipine/
 2026-07-24 <span class="news-indication-tag">Krebs</span>
 
 來源：[Business Insider Deutschland](https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1RfSU42QmQ5YmxfMGl1MF8xLVJZYTY4Ql9mQktldzNpN3ZiS2MtLVRUMWw1bERrczdzUkRlN1lhbnBXUUdweFl5SDVSOHdwT3dfRHJ4c2syWVRBTldoVzh0bEo2ZDRMc1Z1ck5LbjJ2NWl3LWt3UVJrckZFdS04bDBNQTF4OUt1R1kxeGRGMnlObkYzTGswNG9ZRFR2c2Q5ZFJVN2JvR1FCMzJ3?oc=5)
-
----
-
-### [Kontagiöse Krebsform breitet sich im See aus – Hinweise auf „Tumor-Infektion“ - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUx6NmhvY05rMVdHeDhza1UwaXBmdnRtTHE0UTJPeE5HMXROMnE4QS11UzVpMW9wSmpCNFRFdFc0ajhRajRYODhHOGhRelVpbkRQd2xoMXQxTGxneE9KZXNEMWdDZlczM1FmMnhScmRkUUxlaDlDdTBCSTFJRzZ4YnE1ZGRQdHdLMW5qMnNLUWpLNjRiWVhHc0xZOUxXM1E4QXhIbUZrMmdQdw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUx6NmhvY05rMVdHeDhza1UwaXBmdnRtTHE0UTJPeE5HMXROMnE4QS11UzVpMW9wSmpCNFRFdFc0ajhRajRYODhHOGhRelVpbkRQd2xoMXQxTGxneE9KZXNEMWdDZlczM1FmMnhScmRkUUxlaDlDdTBCSTFJRzZ4YnE1ZGRQdHdLMW5qMnNLUWpLNjRiWVhHc0xZOUxXM1E4QXhIbUZrMmdQdw?oc=5)
-
----
-
-### [Tumore della vescica, batteri probiotici trasformati in alleati dell’immunoterapia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGZ0cmVzd1FjdktoZldsSWprNWx1dWxweFI1Mk8zQklmWVY5aXZxWG92OUpxMXNzaTFBdHdPTDJ5QVdEd1IwazhSQWs2d1BwX2J1VkJ2Tjkwd0hYY1MyWVVBYzJRMWNqNktURjFuTGQ3MVJ0ZVNENDF5bmFVQWQ4R2h6WVNnX0RrV3hZMWRmNHhTdmZxZlhYTjJFZklrc3h0Y0ZjOVE3TEhXZ0dtUGh6N1A2Q3BqakpGV01qUEpBa1pheFhfdU9jZ0pEV21EMl93ZVJtaElhdw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGZ0cmVzd1FjdktoZldsSWprNWx1dWxweFI1Mk8zQklmWVY5aXZxWG92OUpxMXNzaTFBdHdPTDJ5QVdEd1IwazhSQWs2d1BwX2J1VkJ2Tjkwd0hYY1MyWVVBYzJRMWNqNktURjFuTGQ3MVJ0ZVNENDF5bmFVQWQ4R2h6WVNnX0RrV3hZMWRmNHhTdmZxZlhYTjJFZklrc3h0Y0ZjOVE3TEhXZ0dtUGh6N1A2Q3BqakpGV01qUEpBa1pheFhfdU9jZ0pEV21EMl93ZVJtaElhdw?oc=5)
-
----
-
-### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
-2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
----
-
-### [Experten informieren, warum die HPV-Impfung so wichtig ist – auch für Jungs](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
-
-2026-07-24 <span class="news-indication-tag">Krebs</span>
-
-來源：[Pnp.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlrT0FUdDNTcWxoeDVudEZRVm5yWEdQSWNIX01MVWJKa2t0bUQ2UXVGUzgwOVgzdWtxaG1fOFI4WkRjdmpabUZEQkRIT3dqSEhYNS1UM24xUUV3Sk8yWVRxMTMxRlE4aWtSMEFFSEoxN2poYlkzNVNMemFKZ0E0d0xiSEx4YmFOeTMwSUdlOFJYNUktNzZjUDAtaTZZRkVmSk1DMjh2aGloclhGYmpNSUtEeFRyOHZxSGZ0aW1INnZWaXpmSkhfMllB?oc=5)
 
 ---
 

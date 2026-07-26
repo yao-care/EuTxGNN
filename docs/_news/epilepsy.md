@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Epilepsie（epilepsy） 相關新聞"
+title: "epilepsia（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Epilepsie（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
+description: "epilepsia（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
-# Epilepsie（epilepsy） 相關新聞
+# epilepsia（epilepsy） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Epilepsie（epilepsy） 有什麼相關新聞？">
-<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
+<p class="key-answer" data-question="epilepsia（epilepsy） 有什麼相關新聞？">
+<strong>epilepsia（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Epilepsie」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「epilepsia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,7 +38,15 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Una terapia genética personalizada permitió que un adolescente con epilepsia severa camine por primera vez](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUpuSGR4ZXFBTU1VcldReW9kc3RBWXRHUlhOS050QjJTSkRjYlF3b3NiRU5OSkZKMHFFOVl2WHQ1YkFDSU1PcUhtSF96RUs1V05mT0xzOFdJdm5rRXQ1ZVFGR3hoS2diZ0VYWHNGVFczOHVDZ0FXeGpVR2Zka1dBd1h1c0RoVkVtRHNJM3ZadzFCYXFYMmJUVmFzVDJ5b3hST3Z1QmxGc3Y3X05zLUdxazIwZkJoWng0V3JDVzhQNm0xQVhYS1NuRFpyd29fajV3SkU3N2doS0pGZE5ON3RhdGNtamotbWZjQWx2UtIBhwJBVV95cUxOb0dQTXB5QnJkb21OeHU1c0RvcDVuZllTQU5FWmNPN0l0dWdYeU93cWVycWF0THluMkJpRnoyT1VLWHFjQmZETmhhRWozYWd5eVNEYnAwN3d4emVCT0hBRmtaVUJjSGxFc05tbXBMdkVVTnlrZnpyVWVTQ1E1Q3JOd3RUenJSYk1zVlByN2hhblBWTW5fMjhVaVc3VE1OTUxlTGxEYnY5MU8tME4tZ3p5bUo1dWNmaWtfQWlrUUF2RDl6MVYwSk9GcVhTWE5wN3hMd3VjZjAydmlnaVVnX2hrRXdPZi14ZDZPZ09ZTTNGNnhzbnRwbnRZTUprVjRxb0dDOUhMWERoRQ?oc=5)
+
+2026-07-24
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUpuSGR4ZXFBTU1VcldReW9kc3RBWXRHUlhOS050QjJTSkRjYlF3b3NiRU5OSkZKMHFFOVl2WHQ1YkFDSU1PcUhtSF96RUs1V05mT0xzOFdJdm5rRXQ1ZVFGR3hoS2diZ0VYWHNGVFczOHVDZ0FXeGpVR2Zka1dBd1h1c0RoVkVtRHNJM3ZadzFCYXFYMmJUVmFzVDJ5b3hST3Z1QmxGc3Y3X05zLUdxazIwZkJoWng0V3JDVzhQNm0xQVhYS1NuRFpyd29fajV3SkU3N2doS0pGZE5ON3RhdGNtamotbWZjQWx2UtIBhwJBVV95cUxOb0dQTXB5QnJkb21OeHU1c0RvcDVuZllTQU5FWmNPN0l0dWdYeU93cWVycWF0THluMkJpRnoyT1VLWHFjQmZETmhhRWozYWd5eVNEYnAwN3d4emVCT0hBRmtaVUJjSGxFc05tbXBMdkVVTnlrZnpyVWVTQ1E1Q3JOd3RUenJSYk1zVlByN2hhblBWTW5fMjhVaVc3VE1OTUxlTGxEYnY5MU8tME4tZ3p5bUo1dWNmaWtfQWlrUUF2RDl6MVYwSk9GcVhTWE5wN3hMd3VjZjAydmlnaVVnX2hrRXdPZi14ZDZPZ09ZTTNGNnhzbnRwbnRZTUprVjRxb0dDOUhMWERoRQ?oc=5)
+
+---
 
 ### [Nach dem Schlaganfall plötzlich Epilepsie – 16 Jahre kämpfte Renate (65) um ihre Selbstständigkeit](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaUhHRV8zbVVSWVJZSExrVjJwMnBwd2Y0YUxpUG1qV3JPdHJESExvSHJtZ3B6bVhmX0p3bmcwVnBrVnJ3a1FYV0J5alFwa0wxdEk2MUlxTU5ocEFzSFZ4SlpUd1Y5anEwbWxQcWlCdVFkXzQ2UHk1VjJQUWxRczdGUTMxZGR6WjRqT2VPc2ZsSFU5REM0ZVpXdE9tQndydVNmcHdGQ3N1cFFacE1nb0dobGNqdlNQLTYxd0tnVmNpX0twWVF1TTJSeFB3Qm1yd1cyNnVhU01QcUhNUUo3cEx0c1g2RURXRzNaWUtYNzBNbEVtLXM?oc=5)
 

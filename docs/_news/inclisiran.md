@@ -54,11 +54,11 @@ permalink: /news/inclisiran/
 
 ## 相關新聞（1 則）
 
-### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
 2026-07-24 <span class="news-indication-tag">migraña</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
+來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
 ---
 

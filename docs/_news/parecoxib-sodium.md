@@ -54,6 +54,14 @@ permalink: /news/parecoxib-sodium/
 
 ## 相關新聞（7 則）
 
+### [Wenn der Herzinfarkt in der Notaufnahme zum Magenproblem wird - Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Luxemburger Wort](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeml2OFgxMGR1a0gxc3FWT0RjOFVEbHhOX1k2VGgwanZpVTZlV1FSUG9QeHRneVc4MFY2YkZkSkI2N05UZEw4ejBLZVJZLUdQbXNlLUJ5NWZic1ZwR3JFSU9iX3BETEZBbTktMTJEWjV0TEQ4dGFxb1N3ZDNyaXl4c21fV2ZHNTYtY3BXdk91M0xzTFVUVEQxTTZUa2RrSzlMVHltMEZJM2c2anp5cEh2WVo0LXlkNWRXdERZ?oc=5)
+
+---
+
 ### [Bluthochdruck: Vegetarische Kost senkt Druck um 4,8 mmHg - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2JTVzhmUFNOTkw0Z2RUVDRJTE5wY0xCRENoMkZoOUNXUlBldTVMY05OaFdBRWl2MUF1cDNidUNyNVlkU1NaeFNpaTRuTHRfNEFEYi0zaWZqR3N5UzZYMnZkendxSG5kSXAzUEhVbTdWaGZ0VkQ2ZmJLNzh5QmRPOXBxWWxFbE5GT2Rocl9oUDRreHhpTC1XQzVuS3RyajhNRzlYYWdpYw?oc=5)
 
 2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
@@ -62,11 +70,11 @@ permalink: /news/parecoxib-sodium/
 
 ---
 
-### [Bluthochdruck: Vitamin-Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+### [Bluthochdruck: Kombination senkt Therapieabbruch um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
 
 2026-07-25 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkx1dk9UUnhXa2FMeVpvelhFdmdIdEoydDd0dmZxMmJFb2o3c19hS25DTVhRS2RSZG9pb1Bqa2hISllsMVhmNHpVa0ZJcGtnRnRMWFlGckN4T0xwV3RHRlpaZHhWcDVyNUJ6NFJUR3lqbWczSXdmSDZaZHlhd2pBNXI5LU1SSmdEMGRCTXhMM1BmVDVZQ1YyY3FWMzF6RFUyZ1RIRkV4aWdzVFpnMWU0YVlScG5mZ0RxNXc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlo3b2tjS2o1OGhLaDFaY0xDQWJ1NlcyNy15R3M3U1R6TjVpLU0zVGdLWVZNeDZFcUZsRW5oNl9OMzZDT2dYZTl5U3B1b1hYRU5OeGVtczlqZXBCeFRFS3VMOVBiM0JqajV0MnhIOEswZmZ2RVhsLTYyMHNrcFZTVnJYcjVzQV9NeFJicnZlclA4VkZYN05OU24zTGhQSGMxMmx6QmdtenNEYW1kNWM0?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/parecoxib-sodium/
 2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+
+---
+
+### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
+
+2026-07-24 <span class="news-indication-tag">migraña</span>
+
+來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
 ---
 
@@ -91,22 +107,6 @@ permalink: /news/parecoxib-sodium/
 2026-07-24 <span class="news-indication-tag">hypertension</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxPMi1EMS0yaVlOUnRaRVVfTjQ2R0c3VU1DU3R1Y0hLc1lLNUh0alpWQVJaTzVucTVDdU81OWlLaXI4M0k5UW1sWE5VTlZYeGhva0RyWmgyMzBBZ1EtS1BIZFV1X21lZ1JZbG5GVmg0dlBQSVBIM19mMl9QSGs2NWFrcGk2c1pXeDE5YmMwRnpYOHF1ZnJoZnRaV05IT0RXRHFLZElxTWxDVnVGR1N3UkNaYnJxcnFOMEpENW01Rl9nOTNCMzA1RDFjaUx2bHlXZzBTNW95aUl6LTZhdHVNUmk4NXBVMk4ybVZoN0Vlak5jSzRMWmowNk5ZWTZSVm1jUEh5QVg0?oc=5)
-
----
-
-### [Anticuerpos monoclonales anti-CGRP para personas con migraña](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGRham4xd3RSNkVibFNWT1lSSjk4RU43WkEzclZ3MEtPMmJDaVVUSlliYjJYUW9OWU94T3dic2NPSm5XUV9OcHdRMVlLNHkyUHctMTZQbFg4cTFCRWlNLUl1VWNkdDVld1VfdXBTSDVSTnpQa0RVVFEwWG5BaFhBbVZfSUo2eDJvRU5RWlVrb3Y0OXMxbjY0d3R5RUF4c09sazBhY1Zqd09xQ25iRDZGSml3?oc=5)
-
----
-
-### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
-2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
 
 ---
 

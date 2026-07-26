@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（11 則）
 
-### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+### [Studie: Mikro- und Nanoplastik im Blut schwerer Herzinfarktpatienten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
 
 2026-07-26 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW9pQkVWTDd3aXVNalNkUHZkSHlXRmplZ1VjblBUdXVsUHczY0lFN0pvZW00LXp1M19ZUUJBWHA0bzBIbTdBUTRzRm1fTWxhSjdTOEJTbTZWYWdfUXU4enBYdkhiZFFucjVSYUNYZmpoRm1LQXRsTk1aRGRFdGJvOVlCTXMzUi1hUEtrV0pja1E4MVRkRlNpMjdGYzNKbHc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjJHYUx5Ti1kQ29uWXotbE9OalNGdlR3S3pURWM0UGdfamt3TGRvNTZZNXpiMHlyOVlURy1BRVM5TUdxWUpSNHVrdFNWYi1JcW9fZlUwYWk5d21WLVJDSG0xRUQzaEt6MHh6M2l1SndmZWRiTi1mcjRWbHpfZ2JsVE92dWNlNmtuTm9qekhSQUt4UldwbkZJd2tSQjk3d3FHSGc?oc=5)
 
 ---
 
@@ -78,19 +78,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Federico Castillo, neurólogo del Hospital San Pedro: “Los hábitos saludables pueden prevenir hasta el 90% de los ictus” - Cadena SER](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUzVkZW5EX3E5OVFmMXctMWZnRnJkYlZGbTR5cVU4OENQQklmZDlYZThLTmJBZllsZmt5Um5OUWVsVl9kTXgzZ2dubFlDcUl3UVpVR3pIaElHMllER24tbnkwaUwzRkxBbi1aTEdqSjU5dW1mNW1lWVQ4QWMxbHlQOTVpY1AtQ29XdFlmR19saE1seWhnVXhiLU5HMS1fVXhHYVZ6d1IyRHVGbmNjd1ZhalhPQndTRGhEa3JLdDM5bG5JT1NhMW5IdTdMV1VJTVpveVFmczV5ancwRjBvVnpNVndKM2dOU2tzUWYwREhldkpHYkFOVDhQM3VB0gGOAkFVX3lxTE5hZ3lzZEhvOE9XNks3aEVBVFhnS1ZnQi1GdVpDZnVXN25IdldUR1JWa1BFNVR4cUdFNjRYSWM5VGJWSE5iN1Z6eW80TDhXdk5LMVpVc2xrQURMdy0tNExycWVtd2VYNEYtODNsREQxa0J3Y1RIRnpjQ090dWJ3bGItcEFkczAxaW1DbkxjdHU1SzdWYnFhaXdQRmNxZXRDZVFDdGZvRjVOb085cWFRNm1sTFhhVE5BbXpPbGdrWUtodkFSamRqZUNiRnBhV0l0ZVNCYXpBdlEzNzJfNWhnczV0bWpTUXNQalNUUE14cTNQZ0tlaWR0MWxWNlBFQUZvenZ2c05WQVpjeXdPSWUtUQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">ictus</span>
+
+來源：[Cadena SER](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUzVkZW5EX3E5OVFmMXctMWZnRnJkYlZGbTR5cVU4OENQQklmZDlYZThLTmJBZllsZmt5Um5OUWVsVl9kTXgzZ2dubFlDcUl3UVpVR3pIaElHMllER24tbnkwaUwzRkxBbi1aTEdqSjU5dW1mNW1lWVQ4QWMxbHlQOTVpY1AtQ29XdFlmR19saE1seWhnVXhiLU5HMS1fVXhHYVZ6d1IyRHVGbmNjd1ZhalhPQndTRGhEa3JLdDM5bG5JT1NhMW5IdTdMV1VJTVpveVFmczV5ancwRjBvVnpNVndKM2dOU2tzUWYwREhldkpHYkFOVDhQM3VB0gGOAkFVX3lxTE5hZ3lzZEhvOE9XNks3aEVBVFhnS1ZnQi1GdVpDZnVXN25IdldUR1JWa1BFNVR4cUdFNjRYSWM5VGJWSE5iN1Z6eW80TDhXdk5LMVpVc2xrQURMdy0tNExycWVtd2VYNEYtODNsREQxa0J3Y1RIRnpjQ090dWJ3bGItcEFkczAxaW1DbkxjdHU1SzdWYnFhaXdQRmNxZXRDZVFDdGZvRjVOb085cWFRNm1sTFhhVE5BbXpPbGdrWUtodkFSamRqZUNiRnBhV0l0ZVNCYXpBdlEzNzJfNWhnczV0bWpTUXNQalNUUE14cTNQZ0tlaWR0MWxWNlBFQUZvenZ2c05WQVpjeXdPSWUtUQ?oc=5)
+
+---
+
 ### [Primer trasplante de órganos entre pacientes con VIH en España: «Al fin se hace efectivo nuestro derecho a ser donantes»](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjVBcnR2UlNxSHhfamg5VzhGRWRWenVKMTJMTl81TzRGZE1tSlRRWHhZVXVscHNjZ3BTVEt3X29UOWJYZ1IyRF9KV0dBSkJVaTNNYXk2MlF1NDV5dDZ5WUtCRnBPZFV6UHBqbFcwSmh1bDdwQ3N4SkJOLWNLOUJZQndtNXRoemlEYW90VTBhcHN1dl9UbDZXX1hIV3kwRWVNQVAw0gGoAUFVX3lxTE5wb3NCNTFoZVBLckl6WmJ2Qk4wckZJVUJWNm1ObmN4WmVDSGZ2aWhwemlxTDMxdExaLVZyNzBYdmJBVVA1YUFlTjg4VTdyWndPNXh0bHZsXzFzQS1kbGZFYmhIQkp2S3FYSnlzQ3RzWjBla25WTEw0UHhrZHFkaVBRWWFnNmJwaTNkcDlxYmxDRHQ3dXRxUWxhSGVtLUNmdXdaRU5UMVNrQg?oc=5)
 
 2026-07-25 <span class="news-indication-tag">CVA</span>
 
 來源：[ABC](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjVBcnR2UlNxSHhfamg5VzhGRWRWenVKMTJMTl81TzRGZE1tSlRRWHhZVXVscHNjZ3BTVEt3X29UOWJYZ1IyRF9KV0dBSkJVaTNNYXk2MlF1NDV5dDZ5WUtCRnBPZFV6UHBqbFcwSmh1bDdwQ3N4SkJOLWNLOUJZQndtNXRoemlEYW90VTBhcHN1dl9UbDZXX1hIV3kwRWVNQVAw0gGoAUFVX3lxTE5wb3NCNTFoZVBLckl6WmJ2Qk4wckZJVUJWNm1ObmN4WmVDSGZ2aWhwemlxTDMxdExaLVZyNzBYdmJBVVA1YUFlTjg4VTdyWndPNXh0bHZsXzFzQS1kbGZFYmhIQkp2S3FYSnlzQ3RzWjBla25WTEw0UHhrZHFkaVBRWWFnNmJwaTNkcDlxYmxDRHQ3dXRxUWxhSGVtLUNmdXdaRU5UMVNrQg?oc=5)
-
----
-
-### [Café y salud cardiovascular: ¿Cuántas tazas de café con cafeína se pueden tomar al día sin riesgo?](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
-
-2026-07-25 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFhVXBialgtWkRBMlNhMldMb0JTTWJ6dGtXam1PV0FhWUl5WHFtU0VycUFFZ052b0V3NUUtTzZYT1MyWkp4OUdQRldoWVZrU1VhMTNxWFpCZllCR3NuSjdTU2ZmTnJyNFlsZzFzSFE1UGMtdE5kN1oya19hdl9UWFBJcGhVTGRpaHJtcmotZVY2TFcteWExRE50ZGV3U29ET3VaT2xQczRud3I4MGtLMmc1Z0JfWFJhOVBqY29POFBCNXdYaGRZOEtjd1ZlRHc?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Obesità in crescita tra i giovani, ripercussioni sulle donne in età fertile](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
-
-2026-07-24 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1d5ZjJPU3RfQ3JCVUJ3ejBURFp5LVBRMjIzSGY1My13eDNVdkVmZ2k5QjJQUEs3dFRtQ0FpUERuVXBzeXMzUEh0MzJNT2R1ZmVad2w2WndWR3Z3cVZNcHhNUFVhRF94a211Z1Q5VG5qNG8za1Brc2tWNXNTQ2FDREpIaXRjR1RLZmhMNnFuSFUweDRjZTNHdEMyb3NZcm03UmUzTjdxWVZqMFQ4WW9ObGkwQzFPcEwya2ZwOW1hWlliNUU?oc=5)
-
----
-
 ### [Diabète, obésité, accès aux soins : la santé des Outre-mer se dégrade, alerte l'Assurance maladie](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktvV2dLc1d1ajJHdUVsTldTYkJ1ZWh6ckc3aGsxd2JqZ1RzaXZqVVB0RjR2R29FOF9pazREVHVEMDgzYVd5a1h5alMtNF93Z1lGVTBiZ1VZTnRhUS1WZXFzcGdxejBHRzZ5dDhfQlExUlA1NTk1THFyaGdxNC1NdWhLaUZramt4Z3M0UVlURTBmbjFNRk5aN3RNUDRSbmdWbUR0djVSbTVTSVZkN0VUZzFLTW1ORGlkVlRBZzJn?oc=5)
 
 2026-07-24 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
@@ -126,11 +118,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Faut-il rendre le vaccin contre la grippe obligatoire pour les soignants ?](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
+### [Ictus, togliere il coagulo non basta: quando la trombectomia può fare più male che bene](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
 
-2026-07-24 <span class="news-indication-tag">CVA</span>
+2026-07-24 <span class="news-indication-tag">ictus</span>
 
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWVqOTlvN01VWUx1azNHOEJHNEItVzlqU1VWZEpVVWF5eWNFVkZRcklTQzdCMlpfdGhDUXd0MUNReWFBZnFSREg1OU9CRXA4VmNnNnhBS0tTTXdxbEl2ZGpuUi15cUZuMmxrYmE0b0lnMzFrOXdwdmR6SV9jbEhVTXBfa3BTa084ODhsZDNmRHl0N0VvMUtkc2lGSEVSbEdlWElNcmV3M05wWTd2Y29SVk1R?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZjZzZUhvSjV6N0xhbmxtbVg1cUo4LW9jZm9KN1ZvaWpBSXR0T3NrZldCdVl4Y214RG9xcEEtYURFNjljanBZak9Jc0stT1ljc0dPaTFZVFFNV0xGcGh1SVVteE9PWkJydGtreDFEU1J1V0NCM3FwenhNZ28yaGtDZ01BSEdxZHJ4STdhOFJ2X3MxeTRyeTdvcjkyUWRoLWpVdW51Sk90a1RKdFotWG9PdHFFRnRyWWRJdTF1QlpTTDB2QzlNOWo2T3hfM2dQX0l1R01VN1FNUC0zbllVckE?oc=5)
 
 ---
 

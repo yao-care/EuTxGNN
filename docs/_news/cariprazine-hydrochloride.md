@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（17 則）
 
-### [Reizdarmsyndrom: Stammzellen aus Nabelschnur zeigen Erfolg im Tiermodell - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFc4Y0VCQUliN1hWQk44Uko3RnVsQVQ4VTFocVpJV25PTDZWRnJ6R295c1lISXg4U2JDQkZ3dXRLVENtZ2U4TkUyWWlMYnZRNGw4UVo2Y0FHaEJqQWlqNTQ3V2VmYVRNSDRIMEhDaG1vY01Fd1kzZWc3QTFXZjYwMGo0SU5SRVo2dWdjaFVYSHRwOWVOUWdGMFhobkhYUGNuVl9fYzdnRzMydlM0c1NydmFRQ0s1aWZSU0lqNA?oc=5)
+### [FCC gibt Test frei: Riesenspiegel im All soll nachts Licht nach unten senden - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHBrNkxhazlaOFFpMzRpMktnaHFFZXpPYzN4QW5Oc2RkVXpuaF9DdER5Tk9MNklrRF9LMTRHVlBWRWtCWEdGY1hNTDBHaGlTa01rbkZjdWFyS1h3Vy12dXI1NW9meHNVekpHMFd5M0gtYnRKZ1U0a0c5TmtQQ0tfVDZxa1hTQWJmSXJVLU5hUU40eU8tbFkxZU1TT05OTG1jLV91aFAwZmdmQ3M?oc=5)
 
 2026-07-26 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbFc4Y0VCQUliN1hWQk44Uko3RnVsQVQ4VTFocVpJV25PTDZWRnJ6R295c1lISXg4U2JDQkZ3dXRLVENtZ2U4TkUyWWlMYnZRNGw4UVo2Y0FHaEJqQWlqNTQ3V2VmYVRNSDRIMEhDaG1vY01Fd1kzZWc3QTFXZjYwMGo0SU5SRVo2dWdjaFVYSHRwOWVOUWdGMFhobkhYUGNuVl9fYzdnRzMydlM0c1NydmFRQ0s1aWZSU0lqNA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRHBrNkxhazlaOFFpMzRpMktnaHFFZXpPYzN4QW5Oc2RkVXpuaF9DdER5Tk9MNklrRF9LMTRHVlBWRWtCWEdGY1hNTDBHaGlTa01rbkZjdWFyS1h3Vy12dXI1NW9meHNVekpHMFd5M0gtYnRKZ1U0a0c5TmtQQ0tfVDZxa1hTQWJmSXJVLU5hUU40eU8tbFkxZU1TT05OTG1jLV91aFAwZmdmQ3M?oc=5)
 
 ---
 
-### [Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’ - Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkVVelBDZll6QXltZUNfaElyaTY5NmFjazZZYUdJMFYzVWdlUlpaNWszZjJVb2FsVXRJWFBMOFMweUthQjdndG5XNHdNYjJqalZ0UnBEbkhjb1hIcjRJTGdPSlVDRnJjZE5MSF9DaDRzVjVkaF9SdlBuUmIzbDBVYnhScG1kcE1sLTRjNDNjQ2xneVFMb2ZPRWF5VWFGSXNVTHBzZFdzaGJqdXdlRW5SatIBtgFBVV95cUxPQjFaQ1RFTnFxZGZQanBmT2dUZjNnS3RhTjRFcXFCaGZGMU5GVzZhdmVnWkZvVDQzRk1XWFVMMC1jOHNnZVNSQWFUNGgzclIxa0xpVVpoZmJNWkdBU29oemdSTnJGZ1Y5c29TTkVkVVo0bVdDZk1TSzBqdjhfUENhZTl3TG4xUmtvX0ZoX1dobUNyX3ExOW9wQzJfQUZzUjJfOG9UbWJidFAwcDNMMFlfUkUzZHhZQQ?oc=5)
+### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlFiRERBekItZlJEdUpKS1NSYUtfVS1rOUtXMjFjclAwZWlYUXQzOXFtRUE3U045bFhQZ3NvS2N3QndqRElWMnVqNXUxdmF1aWw3RXY0XzZoR09LRGUzR0MxVmhJNGM2b1FQcU4ycUtzNW5paXFBR2FtQ3kyZjF6OS05Q3BCcXBuXzQ5ekRXeTF4VzZqYVJYN2YwVEJKN3hyLUtQQzNSUWQ4X09sazQw?oc=5)
+
+---
+
+### [Stammzelltherapie: Nabelschnur-Zellen zeigen Erfolg bei Reizdarmsyndrom - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
+
+---
+
+### [Demenz-Prävention: Antientzündliche Ernährung senkt Risiko um 29% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVZqdjJCcDlaWTdTYmc1cVZjQzVtaldJWEZ1eVB3eFZSaG03Q3dvZTJxdVZlQXNzT0ZmbGd3eFdFaHpEdXJzdHpHLTRUejZKNTZRdFhZdzBOaWpNbHNHV3JUUk1FVmNDdE5WVE1rM3lXY0NkUW5lMkpDTmJWbU5pS3hTS2Q1OVNUWGptak1kTERKR2U1RlFSWUNDdXFYdjhya1g4NEYtUnFpZmE1ek1aZlBHS1JSUQ?oc=5)
 
 2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkVVelBDZll6QXltZUNfaElyaTY5NmFjazZZYUdJMFYzVWdlUlpaNWszZjJVb2FsVXRJWFBMOFMweUthQjdndG5XNHdNYjJqalZ0UnBEbkhjb1hIcjRJTGdPSlVDRnJjZE5MSF9DaDRzVjVkaF9SdlBuUmIzbDBVYnhScG1kcE1sLTRjNDNjQ2xneVFMb2ZPRWF5VWFGSXNVTHBzZFdzaGJqdXdlRW5SatIBtgFBVV95cUxPQjFaQ1RFTnFxZGZQanBmT2dUZjNnS3RhTjRFcXFCaGZGMU5GVzZhdmVnWkZvVDQzRk1XWFVMMC1jOHNnZVNSQWFUNGgzclIxa0xpVVpoZmJNWkdBU29oemdSTnJGZ1Y5c29TTkVkVVo0bVdDZk1TSzBqdjhfUENhZTl3TG4xUmtvX0ZoX1dobUNyX3ExOW9wQzJfQUZzUjJfOG9UbWJidFAwcDNMMFlfUkUzZHhZQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVZqdjJCcDlaWTdTYmc1cVZjQzVtaldJWEZ1eVB3eFZSaG03Q3dvZTJxdVZlQXNzT0ZmbGd3eFdFaHpEdXJzdHpHLTRUejZKNTZRdFhZdzBOaWpNbHNHV3JUUk1FVmNDdE5WVE1rM3lXY0NkUW5lMkpDTmJWbU5pS3hTS2Q1OVNUWGptak1kTERKR2U1RlFSWUNDdXFYdjhya1g4NEYtUnFpZmE1ek1aZlBHS1JSUQ?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-07-25 <span class="news-indication-tag">MS</span>
 
 來源：[Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMWVmVDlrZ0FObjVOd3VmQVZkZ0xmVlBablQ1eUxlRHR0NV9ESDlkSmNJNmFkaGl5WmVpNS0wcDNkUzAwRDVSSk1naThhQlhrMHdvU1NNWFBYVExDZU9HWHhhVDlUMlJZV3YwbTZWeWVzdWdoeWNzRldKell5NmRaNy0xRHFWaE5Wc1ZkOFZOZ1JiU2NrVkFDbU9UWjJiWXVIU1BUUkpQdlNoU3U4b1JoMEt0NnhGd1hGVFF0YW1mRGU4Zjc5VEVKcTBvd21lbm1od0ZqYndMZzU3ZDRSczJjT25Zb0wzWDY0ai1hMS1Sd2VTUGhNX3lGTHlad2QwcHV5T0xjME1vOHUxazg?oc=5)
-
----
-
-### [West Nile, l’allarme dell’OMS: l’Italia ha la diffusione più ampia d’Europa](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnBsaklzejFjS3BRRmF1SVJReUhDR0FWRUhqOVZySHVlbjNsY2dqSmRhNXl0TWJoVHpIZTBxNE5qeW0tSnR6YTBpbG9sSFB6Qm1WZHRvbmxiTl9PSDZtMFVlcVF6eUJEVzhTeV9JWkVLNHBjb2QxVGxTazcwVkFUT2Y4bkczakt4bkJWa1pYZHhtMXNqVDE5R05QcXZ6Nk9ZLXRxMjR0WVNkLUp6Q1lMQ1B6cjVLeXV1VFVMOA?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnBsaklzejFjS3BRRmF1SVJReUhDR0FWRUhqOVZySHVlbjNsY2dqSmRhNXl0TWJoVHpIZTBxNE5qeW0tSnR6YTBpbG9sSFB6Qm1WZHRvbmxiTl9PSDZtMFVlcVF6eUJEVzhTeV9JWkVLNHBjb2QxVGxTazcwVkFUT2Y4bkczakt4bkJWa1pYZHhtMXNqVDE5R05QcXZ6Nk9ZLXRxMjR0WVNkLUp6Q1lMQ1B6cjVLeXV1VFVMOA?oc=5)
 
 ---
 
@@ -107,6 +115,14 @@ permalink: /news/cariprazine-hydrochloride/
 2026-07-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
+
+---
+
+### [West Nile nella Marca, ecco la misure di prevenzione contro il virus](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW1yMDZwYjktZnlnREwtS0hMM0RXTDkxZzBkU2pDN3ZacHkzVEptSkZNZGttWUg3LVg4aENJbjlxSm5aX2JCaFJCWmJiemhrSTNWRjVzRms1NUV3d2VGX0lpVEFTcTh0dHdiZ1V1TDdMMU5nWTFFS1pnSVdFNWF2SFlEY3FBc2NWR0Rjek5kamI3clZVSmUxeWVJQTZ1RkhXYU9v?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span>
+
+來源：[TrevisoToday](https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW1yMDZwYjktZnlnREwtS0hMM0RXTDkxZzBkU2pDN3ZacHkzVEptSkZNZGttWUg3LVg4aENJbjlxSm5aX2JCaFJCWmJiemhrSTNWRjVzRms1NUV3d2VGX0lpVEFTcTh0dHdiZ1V1TDdMMU5nWTFFS1pnSVdFNWF2SFlEY3FBc2NWR0Rjek5kamI3clZVSmUxeWVJQTZ1RkhXYU9v?oc=5)
 
 ---
 
@@ -166,51 +182,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Lipödem: Ketogene Ernährung bremst Entzündungen und Schmerzen messbar - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUt4bi14eG9VNnptb25kUUc3UzRVS1Ytb3hxNGM4b0FFZWtSVkloYlpadFlmQnZ6ZmJzcndVUnRVUllfT0JvMzdxWGFXSndqSzJ1YW5nTnNHelRvY0xGTEV4eU44bHI4UEtXRFdVTnFBUEtmSHBuSl9wT2g3bW5SdGJWbmxOaGU1OEpNc1RsN2xrR19RUEYxQXNKRk9RS1ByMm84QWZB?oc=5)
-
----
-
 ### [I begged docs to take my 'tummy bug' symptoms seriously - now I'm facing a death sentence at 40 - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NJZFUxaDdwcm4xWlFYTUtBeDBrMVpXMGZmZGxOYU12amstUktPOUYzWEluVEM1ajBVdWZJcVZmd3VXZFFWanl4aFdUcGZQQUJ0SV9YLU0zSVZKYm1qNjlLZ3Z4NjVIeU8wN2tQYUFlUjE2STAzd1ZCSTY0c3RHdkFmemIxakw0ZG5vZFpVNm8wUDFsMFE?oc=5)
 
 2026-07-24 <span class="news-indication-tag">MS</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NJZFUxaDdwcm4xWlFYTUtBeDBrMVpXMGZmZGxOYU12amstUktPOUYzWEluVEM1ajBVdWZJcVZmd3VXZFFWanl4aFdUcGZQQUJ0SV9YLU0zSVZKYm1qNjlLZ3Z4NjVIeU8wN2tQYUFlUjE2STAzd1ZCSTY0c3RHdkFmemIxakw0ZG5vZFpVNm8wUDFsMFE?oc=5)
-
----
-
-### [Tagestipp | 24.07.2026 - Wenn die Blasenentzündung immer wiederkommt - Antenne Brandenburg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJVQjE0c0tNMS0yQjU2NVQwSDV3YXd6cW1vTVUxclVnaFdtOXladE5aaU1xWEI2cTRZM09KNWcwREVmVVdRNjBTZTZPUFh2REhiTXFqZXNqY3ZtZEhjTm1HQU1QeFh4MGw2RDl1ZTBUOWt2YXgyU2lhcUV2TE4ya2FFLW1IN1lZbk9IM2FRdG92ZTJGR2tDcHRKSV9TczlOWkNkTVdGUWFsenRDakd5X1poZw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span>
-
-來源：[Antenne Brandenburg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEJVQjE0c0tNMS0yQjU2NVQwSDV3YXd6cW1vTVUxclVnaFdtOXladE5aaU1xWEI2cTRZM09KNWcwREVmVVdRNjBTZTZPUFh2REhiTXFqZXNqY3ZtZEhjTm1HQU1QeFh4MGw2RDl1ZTBUOWt2YXgyU2lhcUV2TE4ya2FFLW1IN1lZbk9IM2FRdG92ZTJGR2tDcHRKSV9TczlOWkNkTVdGUWFsenRDakd5X1poZw?oc=5)
-
----
-
-### [Bis zu 70 Prozent mehr Haarausfall: Neue Studie zeigt erschreckende Nebenwirkung von Wegovy und Mounjaro - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
-
-2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUdNLVkwYm44SkNOX0c1MVN2eF83YjdFQS1kNDM4a2c3eFV3MHVzbmk3eXVBeU5sUXdDN0EyN0ZUZHZDQkp0WFJLcU5NNUVSRHBYaDdveU5wYW1VS3ZpMG0xYmJ0cV9HU1BWRXUzb3dtcUdzQjJHWnhjTUw1eUFwRkxrWXNDRGVlVnVrdi1BV1ZLWUhqbVNiaEp3?oc=5)
-
----
-
-### [5 hidden signs of heart failure US cardiologist flags to watch for - The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
-2026-07-24 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Times of India](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0R3RkthN0dLajN6ZjJTbG80WjZkTE56d1MzbVgxWGc2SGxWdFVGQVYyWTR1T0JYWlVRMEFTRm83dG5kMTI3RW5DRUlDUlcxR2EyUmNHQmhHV18wWlloLVlfQkFhUVBOVHpGZUJxcGJ0VWNQb3JESWFPWnF4LWt2SGxiTmhmZ05lOFJLRGVSSFpNbUo1VUdrUnFKX0thOHVPeWROTllXTy1RRkFuMkJGVnhQV256ekJlYllvYndoYzVwZzlOOUFOUjFkUVBPdEZJcVdHNjVSeF9mbXPSAeMBQVVfeXFMT0pZT2FMcHZEbmd0LXJuU3k3X3otSTlBWXJ4OVBzc3Q3MWUtYW8ycURnaDR6eUttMnJid2liUjBkWnhEUTVwcUkyckhydy1fQjIzN0ZUUGwwb2N4dFlkR2FZQnhGeHc4Y0RyamtTdkJVdXZLbzUzTmRHUHRxS2U3UEllRnJBbm1ORzBwalV6MmxoWUhoSmdBM0QzR2YtUGJGODc4bTVCalh5TTREM1NYUXJuZFRSYzhscWJnWllSSVZQbHVlb0ZKYmpYdE9manVFU28zdUlsLVRVVm11MHJsdFBtcGc?oc=5)
-
----
-
-### [Diabetes-Remission: Ernährungsumstellung hilft 18 Prozent ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
-
-2026-07-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUc5N1RCNU5YQ1pQTHVMUUlOMlJFXzhESGlYSmdkdVp2SzU0TTA5LTVkLUlBS3pUN2pWV1B4d1JaVVhkQU9paHVGcU1tenVkSkh2Ul9GTWhVS052OVNsZ1kxRE5YbUtUaGJYYS1RZ1owT28tcmNaY2RaUlIyR1gzN3hnZlMtaFEwSmZKZnhjZnRubUNobGs0VHhkQ05zZ3NmNG8zQ3I1TWNHdkxUZmFLUg?oc=5)
 
 ---
 

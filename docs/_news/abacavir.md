@@ -54,19 +54,19 @@ permalink: /news/abacavir/
 
 ## 相關新聞（2 則）
 
+### [Welt-Hepatitis-Tag 28. Juli: Neue Therapie heilt 20% der Patienten - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnlUc0VZX0dINklHYWhQd0xBTDEzbGkxcTRyMFVfdXVVRV82SC1OLXIwVUF5M2Z3TkZsTXNZMFI4blkxMzJvMDVqVHdhNnJKYS1MMHVHM2VLMWQ4QlBKM0xnOWhFVkMxWVA3V0M3d01qWHNncDJ4anhqQ1VTb0ZSSm1FRmhleU5nNmVna0UxaWVoT3hKWjNMTWVfLXRuRHp5THVpT1JBSGtUVXg4enNjbmloLWdXN1JWSFlTLQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">hepatitis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnlUc0VZX0dINklHYWhQd0xBTDEzbGkxcTRyMFVfdXVVRV82SC1OLXIwVUF5M2Z3TkZsTXNZMFI4blkxMzJvMDVqVHdhNnJKYS1MMHVHM2VLMWQ4QlBKM0xnOWhFVkMxWVA3V0M3d01qWHNncDJ4anhqQ1VTb0ZSSm1FRmhleU5nNmVna0UxaWVoT3hKWjNMTWVfLXRuRHp5THVpT1JBSGtUVXg4enNjbmloLWdXN1JWSFlTLQ?oc=5)
+
+---
+
 ### [Rage, hépatite, typhoïde : le point sur les vaccins de voyage](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
 
 2026-07-25 <span class="news-indication-tag">hépatite</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
-
----
-
-### [Wissen über Hepatitis rettet Leben](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
-
-2026-07-24 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Frankfurt-Live.com](https://news.google.com/rss/articles/CBMidEFVX3lxTE5OQ1FWQ2JPWHZjcmlJaWkyamtwWF9Zc1A2VW1jenlzTFFPeGkzSnZhRHRpV0QzYWRCeEVNSzFwQjBYNWhtbUp5bUhOc0NGakFNaXd1TGJDQVk5bXFxdEN4ekIxTlZkbDY0RGR2X2RKX0J0NDhB?oc=5)
 
 ---
 
