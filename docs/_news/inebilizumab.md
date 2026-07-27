@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（24 則）
+
+### [Brustkrebs: Gallensäuren ein wesentlicher Faktor](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTERpUzhfRW85RjR3NjJweTlUSF9yWFY2NFFVcUc2dXRNbmxfTDVlM0Q3Tm8yR1N5Y01JakJWakdQZHdCQ0ptcmpVXzg0Y2Fudkg2b2hycXJnN0wwQlR5ZlFRODExcGJVZTI3T3lscllWMVZSZXlRSHRhNEsxRzJsT1R4aGFIQkFlWnlZeVJSeGI2S0xFclN0MzkzX0o0WVpKcEFmdDRweDJkNDNCb3c?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTERpUzhfRW85RjR3NjJweTlUSF9yWFY2NFFVcUc2dXRNbmxfTDVlM0Q3Tm8yR1N5Y01JakJWakdQZHdCQ0ptcmpVXzg0Y2Fudkg2b2hycXJnN0wwQlR5ZlFRODExcGJVZTI3T3lscllWMVZSZXlRSHRhNEsxRzJsT1R4aGFIQkFlWnlZeVJSeGI2S0xFclN0MzkzX0o0WVpKcEFmdDRweDJkNDNCb3c?oc=5)
+
+---
+
+### [Studie untersucht Chili: Auffälliger Zusammenhang mit Speiseröhrenkrebs](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHdkTEhoRUhRSENPMk1iNFlGczJuNUx1dVZzZ0FzZDdWT081UXJRYVV1MFRaeFRoYWxCQjdaMHRRZ292RkoxSDhWYmFKaTItendEeFI1dk82cVY4YTdvR2RFZHFEU2J3QjlnUVhrYktxcjFnc1kxdHgzXzV1LWhsaF90ZnFSSlpRNHNubzFPaTRPODRUS2Y1Vmp3U2o1N3NBeXR6Z2Zjenk4Yl9p?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Krebs</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHdkTEhoRUhRSENPMk1iNFlGczJuNUx1dVZzZ0FzZDdWT081UXJRYVV1MFRaeFRoYWxCQjdaMHRRZ292RkoxSDhWYmFKaTItendEeFI1dk82cVY4YTdvR2RFZHFEU2J3QjlnUVhrYktxcjFnc1kxdHgzXzV1LWhsaF90ZnFSSlpRNHNubzFPaTRPODRUS2Y1Vmp3U2o1N3NBeXR6Z2Zjenk4Yl9p?oc=5)
+
+---
 
 ### [Hallan una huella bioquímica que identifica mayor riesgo de mortalidad en diabetes y resistencia a insulina](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
 
@@ -67,6 +83,22 @@ permalink: /news/inebilizumab/
 2026-07-27 <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
+
+---
+
+### [Essen: Treffen der Selbsthilfegruppe DIA Kids SHG für Eltern und Angehörigen von Kindern mit Diabetes](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
+
+2026-07-27 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
+
+---
+
+### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
+
+2026-07-27 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
 
 ---
 
@@ -86,19 +118,19 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Psoriasis als Warnsignal: Entzündung steigert Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
-
----
-
 ### [How many cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
 2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
+
+---
+
+### [Mariano Barbacid: «En 2030 el cáncer de páncreas será el segundo tumor con mayor incidencia”](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDRYZ0dTZ205cW5QejRmM0V2amh5RkpxUGtyNHctRWNoNDM0NDg1M25odUI2M1d3RTdFQkdFYnB4VmFuZkI4TWpQWXBZZzZ2eG51bGxIa1JHb0thOTFValItcmVLc2RqT245eEJxTmJ1bE1mYXFUYzVNNEFZLWRiMjB1Q09IdmhOcVpKbXVSY21aX2dhYjJpRHhpTmMzb3lYbDBDVC1zVnk0dTc5aWfSAbMBQVVfeXFMTng3M2o3dU9rNGxHR2NwT1FqT3UyZnlnYm5LdjBubHRCc1h3Y1BrNzdCU3UtN3R3clZGNnZEYnd2V01MeUZvXzUwVE9TVWlhY2pCX0sydHFPcGZiTjgzSE5LcmxkaFMyQmtoeEstOEJzeEFTOFJLZWg2T21MOFl1eXVINlFmVGlsZzV5VjFqRTBLMjlpc3pGdWV3TnRjX1hTTzZfY01xRWI3MDhVeDVES0dBVzg?oc=5)
+
+2026-07-27 <span class="news-indication-tag">tumor</span>
+
+來源：[OkDiario](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDRYZ0dTZ205cW5QejRmM0V2amh5RkpxUGtyNHctRWNoNDM0NDg1M25odUI2M1d3RTdFQkdFYnB4VmFuZkI4TWpQWXBZZzZ2eG51bGxIa1JHb0thOTFValItcmVLc2RqT245eEJxTmJ1bE1mYXFUYzVNNEFZLWRiMjB1Q09IdmhOcVpKbXVSY21aX2dhYjJpRHhpTmMzb3lYbDBDVC1zVnk0dTc5aWfSAbMBQVVfeXFMTng3M2o3dU9rNGxHR2NwT1FqT3UyZnlnYm5LdjBubHRCc1h3Y1BrNzdCU3UtN3R3clZGNnZEYnd2V01MeUZvXzUwVE9TVWlhY2pCX0sydHFPcGZiTjgzSE5LcmxkaFMyQmtoeEstOEJzeEFTOFJLZWg2T21MOFl1eXVINlFmVGlsZzV5VjFqRTBLMjlpc3pGdWV3TnRjX1hTTzZfY01xRWI3MDhVeDVES0dBVzg?oc=5)
 
 ---
 
@@ -110,11 +142,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [«La radioterapia ha mejorado tanto que ya es un competidor de la cirugía en determinados tumores» - Diario Sur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOGpZQk9wVkZBRHB6VUg2R2V4ZWllZ1pZN1lVaVNqbUNLQlNjczJIR2FjRUYwVUo5RkI0VDhaMGZsLTJVNEdXNXpDU1BIUXdwZ1JCUVZ6ZEEzY1VKN0NJbXR4Y2ZpeU83MGpGRXlPZzU3SWp3aVpCMlFCMG9SUkEtd0FWVlgwUEZQUG9ycnpiYzN0ZXFRN3REMnR6bXl6ck96dmRqbm9RdjJwdUs1aHVrWjB6TzdncE5KMHl1UTNHSlUzd9IBxwFBVV95cUxNeUU4RjlwdHRFVVhZNWpsdU1LYjVJTjBvR2VFeXR4VG5EZ1hMeV9RcTFtVmZnNlpockkyT0VxakJXdE0wX09XQWp5ZjNMd3FkeG5zRVlGREdGc29hSENTaE5raGpCS0ZzcHRrdzZhYXhTTTlIYVJYa0F2SDkwTlVMbEoydmc0SjgwR21YYmZPenZmN0JPbXFxTmlGc3RONU5aMHJnLTRDNGRuaXdOc0JwQmNOVWZGd2hYalZpbjk3TFZiLVpCUFIw?oc=5)
+### [Disease-on-a-Chip für die Forschung - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">tumor</span>
+2026-07-26 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOGpZQk9wVkZBRHB6VUg2R2V4ZWllZ1pZN1lVaVNqbUNLQlNjczJIR2FjRUYwVUo5RkI0VDhaMGZsLTJVNEdXNXpDU1BIUXdwZ1JCUVZ6ZEEzY1VKN0NJbXR4Y2ZpeU83MGpGRXlPZzU3SWp3aVpCMlFCMG9SUkEtd0FWVlgwUEZQUG9ycnpiYzN0ZXFRN3REMnR6bXl6ck96dmRqbm9RdjJwdUs1aHVrWjB6TzdncE5KMHl1UTNHSlUzd9IBxwFBVV95cUxNeUU4RjlwdHRFVVhZNWpsdU1LYjVJTjBvR2VFeXR4VG5EZ1hMeV9RcTFtVmZnNlpockkyT0VxakJXdE0wX09XQWp5ZjNMd3FkeG5zRVlGREdGc29hSENTaE5raGpCS0ZzcHRrdzZhYXhTTTlIYVJYa0F2SDkwTlVMbEoydmc0SjgwR21YYmZPenZmN0JPbXFxTmlGc3RONU5aMHJnLTRDNGRuaXdOc0JwQmNOVWZGd2hYalZpbjk3TFZiLVpCUFIw?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
 
 ---
 
@@ -176,7 +208,7 @@ permalink: /news/inebilizumab/
 
 ### [Il farmaco per la disfunzione erettile potrebbe contrastare le metastasi del cancro](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHNQZzZZTFlmRUlHTUZtRGtDVVVENlhKOUU4QWRwbHQ0aERqcGZtZHIyRXdObTJOMkJWMExwSGZNd3dkNVoyTjJxckFRTWRSbWtnUzhfUG40OVM1Tm9SWGMtakhRS2NaM3dNckwxMHBEWkdRWkZIR1g4TlBvaHY2VExWeFc1Qy1jUmdZU21sczFwanN1Wk54bmJVYXNFaXhSQkNGVkl5dTU1M0dsNld3QkZLZFhHT1RJcThaa1NxRWloS012d0J6dUo2bjFwa2J3UWQwX3U2Wk4wSmJ1ZVBIamNhZVlvSFIzaFdnMzJ4b2NMdTRTMmdwM9IB_gFBVV95cUxQSkVTa0tZRXhzZm5FZXVoYldsbVczLXZfVE5QbWpxendtNExZVE1HVXFPcWwxa0dJOWFzWVRMNDc1VUZYUlpCTEJlY19SX0dUdFI1UlF1c0RiQU5ManM4RzdNMkRVa01zdW90S21obHRocDIzcnc1X0FVQWFoWk1xeWNMMmJ4TTRfYW9rMC1GWE1NNUFXT3NhSVZVQlhpNmgwQ0hyUHh2SjQwWTh4dkxxSDJucFpjWTBvYVFyanh3VGFyYkVSanQ1b0s2MElwLXREbGloRmZrR21wUk9vRndONDIxR3VmM19GR0FBTTdtR19mVmhYa29paTNFVEJ3QQ?oc=5)
 
-2026-07-26 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">AF</span>
+2026-07-26 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 來源：[RaiNews](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHNQZzZZTFlmRUlHTUZtRGtDVVVENlhKOUU4QWRwbHQ0aERqcGZtZHIyRXdObTJOMkJWMExwSGZNd3dkNVoyTjJxckFRTWRSbWtnUzhfUG40OVM1Tm9SWGMtakhRS2NaM3dNckwxMHBEWkdRWkZIR1g4TlBvaHY2VExWeFc1Qy1jUmdZU21sczFwanN1Wk54bmJVYXNFaXhSQkNGVkl5dTU1M0dsNld3QkZLZFhHT1RJcThaa1NxRWloS012d0J6dUo2bjFwa2J3UWQwX3U2Wk4wSmJ1ZVBIamNhZVlvSFIzaFdnMzJ4b2NMdTRTMmdwM9IB_gFBVV95cUxQSkVTa0tZRXhzZm5FZXVoYldsbVczLXZfVE5QbWpxendtNExZVE1HVXFPcWwxa0dJOWFzWVRMNDc1VUZYUlpCTEJlY19SX0dUdFI1UlF1c0RiQU5ManM4RzdNMkRVa01zdW90S21obHRocDIzcnc1X0FVQWFoWk1xeWNMMmJ4TTRfYW9rMC1GWE1NNUFXT3NhSVZVQlhpNmgwQ0hyUHh2SjQwWTh4dkxxSDJucFpjWTBvYVFyanh3VGFyYkVSanQ1b0s2MElwLXREbGloRmZrR21wUk9vRndONDIxR3VmM19GR0FBTTdtR19mVmhYa29paTNFVEJ3QQ?oc=5)
 
@@ -211,30 +243,6 @@ permalink: /news/inebilizumab/
 2026-07-25 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQnhySVRrc09kWjlrczdEc1BJV3dQOVlHWVpZN3VabF9STTZpZ0xxamdydC1rc1VBV3d2UVdFQWRWdHR3NGJHUTNCM2JLX3AteHpiTUtWaUFUQ2ZKMzZ5eFNweWJ6NElGNnpNTW1yaEFobk5nT3BiVjUwYV9mUnNmMXZvSFdLUHI4YWF6WGhhYlVsMkFzcGFhTnR4RDdpdzN6ZDB3aGxrZ184T0ZNV21xcGJSQzBTQURKVXNlTE1USGxyNF80Y3NPUzFiQjhhcFhaSmo2WnZaWFY4S3Bm?oc=5)
-
----
-
-### [Mariano Barbacid, bioquímico: "En 2030 el cáncer de páncreas será el segundo cáncer con mayor incidencia"](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHo2SzdGZy12cDJoYXM2b245NHIwX0d0ZmJSZ0w0V3VHTDQ2ZmhTUWpCTnRqcnlHTDZEaFVHRWlMMUd1ZWdXNWNvbVBjRFhhU2cySlZkdE1EU2t3M0FIQVBZc2hkRTNwSk5KaDhMWGx0N3Z1UDl4SDRvMS1BaHpVR25sajRYUkNXdWlCaWtMcXJxQUtSSHlXY2RkcWdLZ3ZrT3NtRnB4SlpXVm9HYm1ZaHZLaS1nZw?oc=5)
-
-2026-07-25 <span class="news-indication-tag">tumor</span>
-
-來源：[20Minutos](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHo2SzdGZy12cDJoYXM2b245NHIwX0d0ZmJSZ0w0V3VHTDQ2ZmhTUWpCTnRqcnlHTDZEaFVHRWlMMUd1ZWdXNWNvbVBjRFhhU2cySlZkdE1EU2t3M0FIQVBZc2hkRTNwSk5KaDhMWGx0N3Z1UDl4SDRvMS1BaHpVR25sajRYUkNXdWlCaWtMcXJxQUtSSHlXY2RkcWdLZ3ZrT3NtRnB4SlpXVm9HYm1ZaHZLaS1nZw?oc=5)
-
----
-
-### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
-
-2026-07-25 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
-
----
-
-### [Mediziner findet Achillesferse resistenter Brustkrebszellen - Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
-
-2026-07-25 <span class="news-indication-tag">Krebs</span>
-
-來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "colitis ulcerosa（ulcerative colitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "colitis ulcerosa（ulcerative colitis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "colitis ulcerosa（ulcerative colitis） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/ulcerative-colitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ulcerative-colitis/
 ---
 
 <p class="key-answer" data-question="colitis ulcerosa（ulcerative colitis） 有什麼相關新聞？">
-<strong>colitis ulcerosa（ulcerative colitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<strong>colitis ulcerosa（ulcerative colitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ permalink: /news/ulcerative-colitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
 
 2026-07-27
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
+
+---
+
+### [Disease-on-a-Chip für die Forschung - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
+
+2026-07-26
+
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Hallan una huella bioquímica que identifica mayor riesgo de mortalidad en diabetes y resistencia a insulina](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Los GLP-1, relacionados con mayor riesgo de caída del cabello](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekZjalZmQlctZVgzRlIzRlhrYnF2eTRVRVNEYlFaelVUNWlGTGlSNWpsd19qTnZXNTRrWXRRSXlybHJOV0JUY1MzcWVkcjM1b1lhUVQxa2JreDJlTTFtNWl0UnN6WnpIUHdWdjdsMk9kVTItaENuMmhnZU1Td3ZnWnh5Y1N2ZzFIek11QkpQNWhnc0JWZWtkU1dhNVdRNUpJeXQ0UUtVUmpHUQ?oc=5)
+### [Essen: Treffen der Selbsthilfegruppe DIA Kids SHG für Eltern und Angehörigen von Kindern mit Diabetes](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
 
-2026-07-27 <span class="news-drug-tag">Semaglutide</span>
+2026-07-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekZjalZmQlctZVgzRlIzRlhrYnF2eTRVRVNEYlFaelVUNWlGTGlSNWpsd19qTnZXNTRrWXRRSXlybHJOV0JUY1MzcWVkcjM1b1lhUVQxa2JreDJlTTFtNWl0UnN6WnpIUHdWdjdsMk9kVTItaENuMmhnZU1Td3ZnWnh5Y1N2ZzFIek11QkpQNWhnc0JWZWtkU1dhNVdRNUpJeXQ0UUtVUmpHUQ?oc=5)
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ permalink: /news/semaglutide/
 2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
+
+---
+
+### [Una inteligencia artificial descubre en nuestro propio organismo una posible alternativa natural al Ozempic - La Razón](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRGNPeDk0dHpjbHlrYnU0cERGdmpnRTBaY2pnd1gtOE9RUkMwcXJyWEx0a2VjMTRTYnJ5Szl1d3JpY05LZ004NXpiQThid0xENzhUUGI3anFPOXJaUUp6QlZydmVlaDJsTkROZDh6RW1sNTZKaGt1b2VfcmdQbWtmekhWR1pHZDBmU1A2akFHbk1vQjBPWUlPa09ob2ZLLUNnNjF3OVN0dDNRRGZlRWV0V3RNQnMtYTRobWstV1FUbVhHMS15Q194MW0xZTMxNlBKeldGd3F1SUVIT00zMkFCcVB4V1RHbUdPRHI3b3pEUFZQRG5R0gGIAkFVX3lxTE9Zb3FBRGdJLWZnV2xka3E2MzRES3FJZGFUTmN0Q00tYWxFY0RMY2QxT3AyNUZQMUU5RjR3UnFSaEo0dkJFRVVhWFlDdWVFWS1lQ3dUQ1Bvdkplak1xN0lQblFOU0Fab3Z1OEZfc2lyZ0lTMzdGX09sZkR1djNFN19xbXllRkVQcnFpQnNZME44dWFRdl83UGprdjFpVkxzUDZLTVdFbVpQREVOakEydF9QVlA1UzZfdkUzMnF3SWRwZ2VBb2I3aDlXRjI4YlZsU2JDUVBEWlVRb1JZN1lSVVBULU4wb0x0SzIxc1pxYkpueFMxV3M4V0NQRFhBd2ZyQnJrTjZpUGhEZA?oc=5)
+
+2026-07-25 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRGNPeDk0dHpjbHlrYnU0cERGdmpnRTBaY2pnd1gtOE9RUkMwcXJyWEx0a2VjMTRTYnJ5Szl1d3JpY05LZ004NXpiQThid0xENzhUUGI3anFPOXJaUUp6QlZydmVlaDJsTkROZDh6RW1sNTZKaGt1b2VfcmdQbWtmekhWR1pHZDBmU1A2akFHbk1vQjBPWUlPa09ob2ZLLUNnNjF3OVN0dDNRRGZlRWV0V3RNQnMtYTRobWstV1FUbVhHMS15Q194MW0xZTMxNlBKeldGd3F1SUVIT00zMkFCcVB4V1RHbUdPRHI3b3pEUFZQRG5R0gGIAkFVX3lxTE9Zb3FBRGdJLWZnV2xka3E2MzRES3FJZGFUTmN0Q00tYWxFY0RMY2QxT3AyNUZQMUU5RjR3UnFSaEo0dkJFRVVhWFlDdWVFWS1lQ3dUQ1Bvdkplak1xN0lQblFOU0Fab3Z1OEZfc2lyZ0lTMzdGX09sZkR1djNFN19xbXllRkVQcnFpQnNZME44dWFRdl83UGprdjFpVkxzUDZLTVdFbVpQREVOakEydF9QVlA1UzZfdkUzMnF3SWRwZ2VBb2I3aDlXRjI4YlZsU2JDUVBEWlVRb1JZN1lSVVBULU4wb0x0SzIxc1pxYkpueFMxV3M4V0NQRFhBd2ZyQnJrTjZpUGhEZA?oc=5)
 
 ---
 

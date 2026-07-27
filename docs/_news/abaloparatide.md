@@ -62,19 +62,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+### [Essen: Treffen der Selbsthilfegruppe DIA Kids SHG für Eltern und Angehörigen von Kindern mit Diabetes](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
 
-2026-07-27 <span class="news-indication-tag">Migräne</span>
+2026-07-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
 
 ---
 
-### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
+### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
 
-2026-07-26 <span class="news-indication-tag">migraine</span>
+2026-07-27 <span class="news-indication-tag">Migräne</span>
 
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="Dolutegravir 有什麼相關新聞？">
-<strong>Dolutegravir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dolutegravir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/dolutegravir/
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [La hepatitis D, la más grave, deja de ser una enfermedad sin tratamiento para ser una prioridad clínica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
+### [Dr. Juan Arenas, jefe del servicio del Aparato Digestivo de Policlínica Gipuzkoa: "La hepatitis puede pasar desapercibida durante años: una simple prueba permite detectarla a tiempo"](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
 
-2026-07-27 <span class="news-indication-tag">hepatitis</span>
+2026-07-27 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
-
----
-
-### [Carmina Montoliu: “El gran desafío es diagnosticar la hepatitis a tiempo”](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[elperiodic.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
+來源：[Comunicae](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
 
 ---
 

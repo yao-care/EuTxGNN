@@ -3,7 +3,7 @@ layout: default
 title: "obesidad（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。6 則新聞、8 個相關藥物。"
+description: "obesidad（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>6 則</strong>相關新聞報導，8 個相關藥物。
+<strong>obesidad（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Where You Carry Your Body Fat Is Directly Linked to Brain Aging in First-of-Its-Kind Study](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+
+2026-07-27
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+
+---
 
 ### [La edad, la obesidad y una dieta pobre elevan el riesgo de déficit de vitamina D - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
 
@@ -46,11 +54,11 @@ permalink: /news/obesity/
 
 ---
 
-### [La Bbc: “Bambini italiani ingrassano per pizza, pasta e pane. La dieta mediterranea non esiste più” - la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+### ["Pizza, pasta, patate, proteine e pane rendono i bambini italiani (ed in particolare del Sud) obesi": l'allarme della Bbc - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3d5VExRMnZEcWxMUFlxVzJWNS1SdW5IR3ZJbi1hVVVrWTBVYmxaWXlKZTFOM1FrNkdsTnlBTUhfQWZ5Ynk2cWNtM05XR182a0pCY3hIQ0FpdTktM3lKeS1aZm1SVHZ6bHRTMzFOTmZsamh1X0dlak9DNjhIYkxDUkY5WkdUNzg1OEdNazgxVEFIUzh1aTVVREZwVG5JTjVIZnBBckN6WHNCWlZNVjVpbTZFaVBYTDgzeXc?oc=5)
 
-2026-07-26
+2026-07-27
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3d5VExRMnZEcWxMUFlxVzJWNS1SdW5IR3ZJbi1hVVVrWTBVYmxaWXlKZTFOM1FrNkdsTnlBTUhfQWZ5Ynk2cWNtM05XR182a0pCY3hIQ0FpdTktM3lKeS1aZm1SVHZ6bHRTMzFOTmZsamh1X0dlak9DNjhIYkxDUkY5WkdUNzg1OEdNazgxVEFIUzh1aTVVREZwVG5JTjVIZnBBckN6WHNCWlZNVjVpbTZFaVBYTDgzeXc?oc=5)
 
 ---
 

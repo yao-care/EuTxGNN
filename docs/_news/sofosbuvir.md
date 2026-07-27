@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
 
-### [Una investigación liderada por la UV impulsa nuevas terapias para frenar el avance de la esclerosis múltiple - Valencia Plaza](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFRUN0NXdDRmWmtOc2VDQnpSaHJ1TDhiX0l6R3ZrYW5nRkF3aUJhSVJiMlp2Qm40TUItYnowdU84NW9uOE1NMzV5a2FrV3FobjZLWEVETXVWaG5nMnB1ODJYdVhHMmNfQVVtRldxMnJjdFZ1cGRTVldEcXprV3I2SjJtbWZjcklGMVc4ZnNJT1J6SE5SbG5FWTQ4Y0gxd1F0UG9neFp3dzI1TFVUVTY5UWhlVVRzSGtRZ0RYMDFqYmQ4UVlxZnlJOGVHZjB1bUZsQzF1NVQtdHJReGduM0J2d3hucVRzN1JjZnI1SFA3WXNpQQ?oc=5)
+### [La OMS advierte de que el cáncer afectará directa o indirectamente al 92 % de la población mundial](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnNmajA4dU1iVUZHOWRORWIwV21KVFl6MWh4RXdZTElPY2NmYlJGeVdrRFZwVDJYVFVpSVhLSDZ0MGFaM0V2VEplUkpQdVBPX2FuYmktM3NFSnBibnVVVmNtNE1wc3BWa2RIcUJSRkFINlRCSkp4ekNObHNjSnRRRmdodGpVV2p5X1BibjNxLVl6UHN0M0NJSTlfYWxjN1dKUkxQTnpFYW9aRWdJcWtjUE1WLUYtZXUwSjBUa3pUVEw0ekJsQmc?oc=5)
 
-2026-07-27 <span class="news-indication-tag">esclerosis múltiple</span>
+2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Valencia Plaza](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFRUN0NXdDRmWmtOc2VDQnpSaHJ1TDhiX0l6R3ZrYW5nRkF3aUJhSVJiMlp2Qm40TUItYnowdU84NW9uOE1NMzV5a2FrV3FobjZLWEVETXVWaG5nMnB1ODJYdVhHMmNfQVVtRldxMnJjdFZ1cGRTVldEcXprV3I2SjJtbWZjcklGMVc4ZnNJT1J6SE5SbG5FWTQ4Y0gxd1F0UG9neFp3dzI1TFVUVTY5UWhlVVRzSGtRZ0RYMDFqYmQ4UVlxZnlJOGVHZjB1bUZsQzF1NVQtdHJReGduM0J2d3hucVRzN1JjZnI1SFA3WXNpQQ?oc=5)
+來源：[Informativos.Net](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnNmajA4dU1iVUZHOWRORWIwV21KVFl6MWh4RXdZTElPY2NmYlJGeVdrRFZwVDJYVFVpSVhLSDZ0MGFaM0V2VEplUkpQdVBPX2FuYmktM3NFSnBibnVVVmNtNE1wc3BWa2RIcUJSRkFINlRCSkp4ekNObHNjSnRRRmdodGpVV2p5X1BibjNxLVl6UHN0M0NJSTlfYWxjN1dKUkxQTnpFYW9aRWdJcWtjUE1WLUYtZXUwSjBUa3pUVEw0ekJsQmc?oc=5)
 
 ---
 
-### [La hepatitis D, la más grave, deja de ser una enfermedad sin tratamiento para ser una prioridad clínica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
+### [Hoffnung in der Demenz-Forschung: Diese Impfung könnte Alzheimer bremsen](https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1E2aGNpNU94bm5GM3MteWU3bUpnTWRKWHVkRlZrZlJaVE96bjBWSGdpZEdaZzdvQno5OVdHeDlJNFEtZHVzNmxReHZ6LWFmSS1udWwwbVhrVFhKZ3YtX1FYOHpyZlRKVU1TcS1hbThPbmE2NVNBLUhNNUpfY1BfVTQ5Y2VwWXlqZTFTN2YzNEhXeDhpQUlyZXFGcFlXaDhJMVBOei1KY0M2aDFYYXpKczhRMm1vVjRST0RxZGZnM0RBdHdsZ2lVVTFn?oc=5)
 
-2026-07-27 <span class="news-indication-tag">hepatitis</span>
+2026-07-27 <span class="news-indication-tag">MS</span>
 
-來源：[Servimedia](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
+來源：[BILD](https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1E2aGNpNU94bm5GM3MteWU3bUpnTWRKWHVkRlZrZlJaVE96bjBWSGdpZEdaZzdvQno5OVdHeDlJNFEtZHVzNmxReHZ6LWFmSS1udWwwbVhrVFhKZ3YtX1FYOHpyZlRKVU1TcS1hbThPbmE2NVNBLUhNNUpfY1BfVTQ5Y2VwWXlqZTFTN2YzNEhXeDhpQUlyZXFGcFlXaDhJMVBOei1KY0M2aDFYYXpKczhRMm1vVjRST0RxZGZnM0RBdHdsZ2lVVTFn?oc=5)
+
+---
+
+### [Entzündungshemmung: Curcumin senkt Demenzrisiko um 29 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVBWMGpJVWFmSWxCanItdi0yTl9EdDdzWWMyLXAyWlNpRzhNSllRUEVpMHlzRjNvdGQ1WXJ3MHBITk9PTURlNmJ0QjVzek1Ncy1xSUNjOXdpZjZBdGRVdDZsRW5NYzM0Szl3N3FsT2pGQUVwcXp1amQ0ZlJTMktFQkY2UGJVME9Ob1BaUUg3ZWlNUGZkbUdlZURPZE9mSjhxLXBHV0sxeVdZcHB5WmRV?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVBWMGpJVWFmSWxCanItdi0yTl9EdDdzWWMyLXAyWlNpRzhNSllRUEVpMHlzRjNvdGQ1WXJ3MHBITk9PTURlNmJ0QjVzek1Ncy1xSUNjOXdpZjZBdGRVdDZsRW5NYzM0Szl3N3FsT2pGQUVwcXp1amQ0ZlJTMktFQkY2UGJVME9Ob1BaUUg3ZWlNUGZkbUdlZURPZE9mSjhxLXBHV0sxeVdZcHB5WmRV?oc=5)
+
+---
+
+### [Dr. Juan Arenas, jefe del servicio del Aparato Digestivo de Policlínica Gipuzkoa: "La hepatitis puede pasar desapercibida durante años: una simple prueba permite detectarla a tiempo"](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
+
+2026-07-27 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[Comunicae](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
+
+---
+
+### [Multiple Sklerose: Diese Bakterien der Darmflora können schützen](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
 
 ---
 
@@ -78,22 +102,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Carmina Montoliu: “El gran desafío es diagnosticar la hepatitis a tiempo”](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-來源：[elperiodic.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
-
----
-
-### [El cáncer aumentará hasta 35 millones de casos en 2050 si no se actúa, alerta la OMS](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlZ2eVFzZ1V1UlVLR2RTc1NCTkVHc3RHQWdWbVFhU1pLeFhxbTYyYUlVempYLVFNYjJXVHJ6dlRGTFNPdDhLS0RxRVpaYmI5NE1tbDVfSVZMbE1lZ0VKZzJOdnNKUGNDMnFjbldNN3FnWXBvT3dJRUZtUG9Hc1F1S3gyWTJSRVVVZWFn?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[GNDiario](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlZ2eVFzZ1V1UlVLR2RTc1NCTkVHc3RHQWdWbVFhU1pLeFhxbTYyYUlVempYLVFNYjJXVHJ6dlRGTFNPdDhLS0RxRVpaYmI5NE1tbDVfSVZMbE1lZ0VKZzJOdnNKUGNDMnFjbldNN3FnWXBvT3dJRUZtUG9Hc1F1S3gyWTJSRVVVZWFn?oc=5)
-
----
-
 ### [España mantiene el paso firme para eliminar la hepatitis C antes de 2030 - Diario de Sevilla](https://news.google.com/rss/articles/CBMiowFBVV95cUxQalY1UDA0dVhRUkxKLVNvVkp3b3c3NjFmenh0WmwyLUI4Tzhlay1MME9UOERlZ3NmaUZBNXQ1QS1HOHZrVTMzeUpaUF94dmRPanZsZmxvd1NwUDU3TUZ1Z2FrS0dJc2Vmb0hsUVg1bUp4aGhkcUJNYlJzdTMxOEN3ZlhYZm9fOTFtb3pTSWc1dGZuZDlQNVNCZTRody1aNWpZT1Nj0gGoAUFVX3lxTE1CSFYtdEZGcFltNXpyMHpEdHpUM1lQRWI4VHNVUkI3MVVxdHZCd2NJc1hYYXBYYWVseXdfT1hwdWtmWEJ2cDJtRFJWTWJDRDRMMlpUMXF3X2EyajR3NFppaWlwbE9oNVc1dm55SzNreFluYWRCY2FfMThrbGxqYkROeUxCLV9jSmdBdVVWY3B4b3VRWGY1SnNNdk5tUWZveDlScmZCY2lUUA?oc=5)
 
 2026-07-27 <span class="news-indication-tag">hepatitis</span>
@@ -102,11 +110,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Colitis-Schübe: Wearables erkennen Entzündung sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanZyZUJGb1FGQkdhMlhhZUxBYjhRd2NLeWd2dXc1V1ZVbFpsdWREbXAzeDkzTnNSMUJLMUNQTlJwa1I4YmpueWNadVY2Mm12bFNyMHp1cGJub1NUNDQ5YXliRUNSSnRWNmxnZzZhNmlyRFJGSVB0UnY5V1o4LWRoby1vdzRiYm9FNTlBRE9JY0tDOFlJZXJDaEJVNzJrUndvbHpUbF9EZ3plUkc0SWpDd29fV0tMXzFO?oc=5)
+### [Disease-on-a-Chip für die Forschung - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
 
-2026-07-27 <span class="news-indication-tag">MS</span>
+2026-07-26 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanZyZUJGb1FGQkdhMlhhZUxBYjhRd2NLeWd2dXc1V1ZVbFpsdWREbXAzeDkzTnNSMUJLMUNQTlJwa1I4YmpueWNadVY2Mm12bFNyMHp1cGJub1NUNDQ5YXliRUNSSnRWNmxnZzZhNmlyRFJGSVB0UnY5V1o4LWRoby1vdzRiYm9FNTlBRE9JY0tDOFlJZXJDaEJVNzJrUndvbHpUbF9EZ3plUkc0SWpDd29fV0tMXzFO?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
 
 ---
 
@@ -126,14 +134,6 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Caldo record, il cardiologo Quero avverte: «Il cuore è sotto stress, alcuni sintomi possono salvare la vita» · LaC News24 - LaC News24](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUlhHQmVZRHpjRDdUWXZqZVFDSm5lbFlOY1dSSEM5TXAtM2pteU5YTjh4WjlGbEVPQkpwaVVjZ0paZ21fVmFHdE9VT3NWUUpURXA2X21zb0xzbVRIS2VrY3pxdTVuM1puN3BTc3V1b1lkUVpQeXE4cVNsSjJkSXQ1ZFRIbXU3Zm1TcG9Mck40ZjJBeG5BNFJCS2QzWEVhMHFjLS1hQUZVcXM1UUMwaWtteWVJMVhzYTZ2a0drd3VsQnRHWV9MSGNuTzY2Mlp5Zy1nSTJvNndDeTQteGNzOE5pRdIB5gFBVV95cUxOOEFaYXktNFhpemNmdmdhZ3pPTWRmcHFGdDdTc21BY3p5SkM3QW9IbHg4SXNnNWdVN1pJRmFIYTZFWWY3MVFLNWIzdGdheFJrQ0ZOOEJPRW9Rbjg0UWdTZC00OGY0bWNzaEJkbWFkQTl6cGlCamkwVGtZUUs3MGtneFVBd0dvTGloTEpIbVhud2ZjTmFJLW1BNkNKR3FjNTJSUFdTSzlDTlVHZU9DUElFbTZ0MS1XYjdMRW5NRUpkRkxtbjdGUWpDTDkyeExDX1prUjN5MkltQU8tRTJ0dThtdHdtRjBjdw?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span>
-
-來源：[LaC News24](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUlhHQmVZRHpjRDdUWXZqZVFDSm5lbFlOY1dSSEM5TXAtM2pteU5YTjh4WjlGbEVPQkpwaVVjZ0paZ21fVmFHdE9VT3NWUUpURXA2X21zb0xzbVRIS2VrY3pxdTVuM1puN3BTc3V1b1lkUVpQeXE4cVNsSjJkSXQ1ZFRIbXU3Zm1TcG9Mck40ZjJBeG5BNFJCS2QzWEVhMHFjLS1hQUZVcXM1UUMwaWtteWVJMVhzYTZ2a0drd3VsQnRHWV9MSGNuTzY2Mlp5Zy1nSTJvNndDeTQteGNzOE5pRdIB5gFBVV95cUxOOEFaYXktNFhpemNmdmdhZ3pPTWRmcHFGdDdTc21BY3p5SkM3QW9IbHg4SXNnNWdVN1pJRmFIYTZFWWY3MVFLNWIzdGdheFJrQ0ZOOEJPRW9Rbjg0UWdTZC00OGY0bWNzaEJkbWFkQTl6cGlCamkwVGtZUUs3MGtneFVBd0dvTGloTEpIbVhud2ZjTmFJLW1BNkNKR3FjNTJSUFdTSzlDTlVHZU9DUElFbTZ0MS1XYjdMRW5NRUpkRkxtbjdGUWpDTDkyeExDX1prUjN5MkltQU8tRTJ0dThtdHdtRjBjdw?oc=5)
-
----
-
 ### [Ebola cases in DR Congo surpass 3,000 - as health workers go on strike - Sky News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXBTcFhtMnp2aVRhV19sQXpjNjBmRjYtT09CTVNpUmF1c016Uk16OURoYjlMSU8zRjQ4QWtNV3BMeG5MekhpSzJPMFdSVzdWR0NxNkF4U1l6Ykt1bXZyWEpJOTRxckF4MVNOa09XUDRYQkxkSkNtMDRCODVTUXdleXhkaVZTZEJvVzJhZjJTXzVsRFBhS215cW9kdFh3Q3hQbkNDMllBVQ?oc=5)
 
 2026-07-26 <span class="news-indication-tag">MS</span>
@@ -142,11 +142,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Multiple Sklerose: Darmbakterium Akkermansia senkt MS-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlXY1o1OWZLenNaUjlNZXh0aUtuZUx3STF0cGJGUkhFR3JrR1NZbko3M01UblVSWHE5MTUyek9xRGlaVkQ1eG15cTc1SkhfZGttQ2tlRF96M1BBT1JITjFWSHZpd1Z4VWdLMm5BNUZUck5ScVdCcE05R0lPM1A5OS1jZXEtY3JZdDRpWllndTB3N0JTT3ZmZTRQQlVnNjVzclo5aGZXdTEtY2hF?oc=5)
+### [Stammzelltherapie: Nabelschnur-Zellen zeigen Erfolg bei Reizdarmsyndrom](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
 
-2026-07-25 <span class="news-indication-tag">MS</span>
+2026-07-26 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlXY1o1OWZLenNaUjlNZXh0aUtuZUx3STF0cGJGUkhFR3JrR1NZbko3M01UblVSWHE5MTUyek9xRGlaVkQ1eG15cTc1SkhfZGttQ2tlRF96M1BBT1JITjFWSHZpd1Z4VWdLMm5BNUZUck5ScVdCcE05R0lPM1A5OS1jZXEtY3JZdDRpWllndTB3N0JTT3ZmZTRQQlVnNjVzclo5aGZXdTEtY2hF?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
+
+---
+
+### [Macchie solari, come proteggersi e quando affidarsi al laser - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVExnTDNmRnNLOW5rdnVkMGFfWlFNQmNkRHd5aVZ1VGx2WkVIdmtOYkxYSU95ZFExU3gtZnY4QUo3YjNUUUx2cndwQnJaOGFOY2ludXBQZEhjT3hySm9oMzBZYndyUFFJSnFtYkhpX0xGUUo4WExDUVZMY0RnYmxmRzF4M3Q5VE5RRnZXZEY0Q09abVp4NFNpc01kOEtSSnhhOVN2OUJCc0dhZ1JPR0otSC15NUJHLUNXY040bEoxYlEzSDVQR3c?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVExnTDNmRnNLOW5rdnVkMGFfWlFNQmNkRHd5aVZ1VGx2WkVIdmtOYkxYSU95ZFExU3gtZnY4QUo3YjNUUUx2cndwQnJaOGFOY2ludXBQZEhjT3hySm9oMzBZYndyUFFJSnFtYkhpX0xGUUo4WExDUVZMY0RnYmxmRzF4M3Q5VE5RRnZXZEY0Q09abVp4NFNpc01kOEtSSnhhOVN2OUJCc0dhZ1JPR0otSC15NUJHLUNXY040bEoxYlEzSDVQR3c?oc=5)
 
 ---
 
@@ -155,6 +163,14 @@ permalink: /news/sofosbuvir/
 2026-07-25 <span class="news-indication-tag">MS</span>
 
 來源：[Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMWVmVDlrZ0FObjVOd3VmQVZkZ0xmVlBablQ1eUxlRHR0NV9ESDlkSmNJNmFkaGl5WmVpNS0wcDNkUzAwRDVSSk1naThhQlhrMHdvU1NNWFBYVExDZU9HWHhhVDlUMlJZV3YwbTZWeWVzdWdoeWNzRldKell5NmRaNy0xRHFWaE5Wc1ZkOFZOZ1JiU2NrVkFDbU9UWjJiWXVIU1BUUkpQdlNoU3U4b1JoMEt0NnhGd1hGVFF0YW1mRGU4Zjc5VEVKcTBvd21lbm1od0ZqYndMZzU3ZDRSczJjT25Zb0wzWDY0ai1hMS1Sd2VTUGhNX3lGTHlad2QwcHV5T0xjME1vOHUxazg?oc=5)
+
+---
+
+### [«Bere caffè ogni giorno può cambiare il tuo organismo: cosa dicono gli studi su intestino, umore e longevità» - Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1ZuSkp4WThyWmFSNUNmLXhrLXlzUDUyb0VzaDhOS3ZCX0ZRS2lKRHZwZTFGY0QyZW1QV2prNlZFSERydEU3d09YWmVEcktENVFqMXREQ3pOdnlDdGg0aDlyaEJRZndhb2FvSFpybVdNWUtyTzBoWE9yTkJiR2kyakFPTE4xT1dhMHU5Q3BiUXRpQVRJMi1WVVFvWWg1T3ZHVnRkSEZ3N0tIOHp50gGmAUFVX3lxTE1oS0Q0WmV1YXFtbi14a25US08tOWFyLWQzMGFTTG1XanZyRTVSWV9qcGFYZGNjTlpUZDJ3bEktUEhPNTVwanY1NTdhbXFiUGZZNGpKbGtURXNzcDNYZEhVcGxGdjdSRFQ4Z0VvZ3hReUxxYkR3WFhyZ1YwcXVSRFVFN01oQXFseS1JTkozU0x0ZllVNlRIODM5RWtRNDNXdU9Hd3JYWEE?oc=5)
+
+2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1ZuSkp4WThyWmFSNUNmLXhrLXlzUDUyb0VzaDhOS3ZCX0ZRS2lKRHZwZTFGY0QyZW1QV2prNlZFSERydEU3d09YWmVEcktENVFqMXREQ3pOdnlDdGg0aDlyaEJRZndhb2FvSFpybVdNWUtyTzBoWE9yTkJiR2kyakFPTE4xT1dhMHU5Q3BiUXRpQVRJMi1WVVFvWWg1T3ZHVnRkSEZ3N0tIOHp50gGmAUFVX3lxTE1oS0Q0WmV1YXFtbi14a25US08tOWFyLWQzMGFTTG1XanZyRTVSWV9qcGFYZGNjTlpUZDJ3bEktUEhPNTVwanY1NTdhbXFiUGZZNGpKbGtURXNzcDNYZEhVcGxGdjdSRFQ4Z0VvZ3hReUxxYkR3WFhyZ1YwcXVSRFVFN01oQXFseS1JTkozU0x0ZllVNlRIODM5RWtRNDNXdU9Hd3JYWEE?oc=5)
 
 ---
 

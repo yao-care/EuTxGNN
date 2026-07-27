@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（8 則）
 
+### [Where You Carry Your Body Fat Is Directly Linked to Brain Aging in First-of-Its-Kind Study](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+
+2026-07-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+
+---
+
 ### [La edad, la obesidad y una dieta pobre elevan el riesgo de déficit de vitamina D - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
 
 2026-07-27 <span class="news-indication-tag">obesidad</span>
@@ -62,19 +70,19 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+### ["Pizza, pasta, patate, proteine e pane rendono i bambini italiani (ed in particolare del Sud) obesi": l'allarme della Bbc - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3d5VExRMnZEcWxMUFlxVzJWNS1SdW5IR3ZJbi1hVVVrWTBVYmxaWXlKZTFOM1FrNkdsTnlBTUhfQWZ5Ynk2cWNtM05XR182a0pCY3hIQ0FpdTktM3lKeS1aZm1SVHZ6bHRTMzFOTmZsamh1X0dlak9DNjhIYkxDUkY5WkdUNzg1OEdNazgxVEFIUzh1aTVVREZwVG5JTjVIZnBBckN6WHNCWlZNVjVpbTZFaVBYTDgzeXc?oc=5)
 
-2026-07-27 <span class="news-indication-tag">Migräne</span>
+2026-07-27 <span class="news-indication-tag">obesità</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3d5VExRMnZEcWxMUFlxVzJWNS1SdW5IR3ZJbi1hVVVrWTBVYmxaWXlKZTFOM1FrNkdsTnlBTUhfQWZ5Ynk2cWNtM05XR182a0pCY3hIQ0FpdTktM3lKeS1aZm1SVHZ6bHRTMzFOTmZsamh1X0dlak9DNjhIYkxDUkY5WkdUNzg1OEdNazgxVEFIUzh1aTVVREZwVG5JTjVIZnBBckN6WHNCWlZNVjVpbTZFaVBYTDgzeXc?oc=5)
 
 ---
 
-### [La Bbc: “Bambini italiani ingrassano per pizza, pasta e pane. La dieta mediterranea non esiste più” - la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
 
-2026-07-26 <span class="news-indication-tag">obesità</span>
+2026-07-27 <span class="news-indication-tag">Migräne</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
 
 ---
 
@@ -107,14 +115,6 @@ permalink: /news/ziconotide/
 2026-07-26 <span class="news-indication-tag">obesità</span>
 
 來源：[RIFday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2toM05aSGoyd3M3RHd1TkpaRGswcFJwWmVjRkJfTmYyOWRCajNYXzJPTm5SWlU0dHM3dXZNdDFhdU5ZTkhXajNzMmRqWXFBLU9KbWcxdXFaa0VBSTl5dXFoQlBvek1HM1lWSldVVmU4b1ZIZnVmM3ZBRXJRdVZGQ1dMWVRha3k1aWMzc1dFQ25vbFJmQWNfUE92X3NCU2ZMTnZNbk9KeVF6aHJvYmpnNjgweEhxWFU3OTFPeEg0MHQ?oc=5)
-
----
-
-### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
-
-2026-07-26 <span class="news-indication-tag">migraine</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
 
 ---
 

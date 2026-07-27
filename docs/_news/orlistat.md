@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [Where You Carry Your Body Fat Is Directly Linked to Brain Aging in First-of-Its-Kind Study](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+
+2026-07-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+
+---
+
+### [Wenn Grippeviren Herzschmerz bringen](https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFpjR0xUZzJsNHpZek5qdUF6N0trNlVSYkc4S3VNNlBZcWZJYmZkSElWYWlKaTM0NHFHdGViX3pmdTRyYmdGeHJmOTRmaXdGaDlFUHY3OGVpNW5CclRrZkItRHlMbEpXVjEzQjRRV09naFBnYnd5YzBwS0U2STJSZzQtWXh3UjRPdEFvU1RBSQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFpjR0xUZzJsNHpZek5qdUF6N0trNlVSYkc4S3VNNlBZcWZJYmZkSElWYWlKaTM0NHFHdGViX3pmdTRyYmdGeHJmOTRmaXdGaDlFUHY3OGVpNW5CclRrZkItRHlMbEpXVjEzQjRRV09naFBnYnd5YzBwS0U2STJSZzQtWXh3UjRPdEFvU1RBSQ?oc=5)
+
+---
+
+### [Realizan el primer trasplante de España entre dos personas con VIH](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHN4ekpsYUZSV29LUXNNSzhUSE12Z18wZ3dHNFg5T1ZLV1BxRFVBTkZSem0tTVNaaTFWOHBjNUJIMkpnZXpLWHhyTkRfWU1hRnVidzAwa1JVRjE3TDFtRHk4QkNJR095dzNvcEU2TENHRGI4LTlEZG53UTlvNmViVHRDZlNRaElZeWp6bGdNakdJRlFnMTRnSmxDb3p2cFdkX3hvcQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">CVA</span>
+
+來源：[Sinc](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHN4ekpsYUZSV29LUXNNSzhUSE12Z18wZ3dHNFg5T1ZLV1BxRFVBTkZSem0tTVNaaTFWOHBjNUJIMkpnZXpLWHhyTkRfWU1hRnVidzAwa1JVRjE3TDFtRHk4QkNJR095dzNvcEU2TENHRGI4LTlEZG53UTlvNmViVHRDZlNRaElZeWp6bGdNakdJRlFnMTRnSmxDb3p2cFdkX3hvcQ?oc=5)
+
+---
+
+### [A woman who hadn't spoken an intelligible word in twenty years, silenced by a stroke, can form spoken sentences again — not by moving her mouth but through an experimental implant that reads the speech centres of her brain and turns her attempts to spea - Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">stroke</span>
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
+
+---
 
 ### [La edad, la obesidad y una dieta pobre elevan el riesgo de déficit de vitamina D - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
 
@@ -62,19 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Psoriasis als Warnsignal: Entzündung steigert Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
+### ["Pizza, pasta, patate, proteine e pane rendono i bambini italiani (ed in particolare del Sud) obesi": l'allarme della Bbc - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3d5VExRMnZEcWxMUFlxVzJWNS1SdW5IR3ZJbi1hVVVrWTBVYmxaWXlKZTFOM1FrNkdsTnlBTUhfQWZ5Ynk2cWNtM05XR182a0pCY3hIQ0FpdTktM3lKeS1aZm1SVHZ6bHRTMzFOTmZsamh1X0dlak9DNjhIYkxDUkY5WkdUNzg1OEdNazgxVEFIUzh1aTVVREZwVG5JTjVIZnBBckN6WHNCWlZNVjVpbTZFaVBYTDgzeXc?oc=5)
 
-2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
+2026-07-27 <span class="news-indication-tag">obesità</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
-
----
-
-### [La Bbc: “Bambini italiani ingrassano per pizza, pasta e pane. La dieta mediterranea non esiste più” - la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
-
-2026-07-26 <span class="news-indication-tag">obesità</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+來源：[Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3d5VExRMnZEcWxMUFlxVzJWNS1SdW5IR3ZJbi1hVVVrWTBVYmxaWXlKZTFOM1FrNkdsTnlBTUhfQWZ5Ynk2cWNtM05XR182a0pCY3hIQ0FpdTktM3lKeS1aZm1SVHZ6bHRTMzFOTmZsamh1X0dlak9DNjhIYkxDUkY5WkdUNzg1OEdNazgxVEFIUzh1aTVVREZwVG5JTjVIZnBBckN6WHNCWlZNVjVpbTZFaVBYTDgzeXc?oc=5)
 
 ---
 
