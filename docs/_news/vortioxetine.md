@@ -54,11 +54,11 @@ permalink: /news/vortioxetine/
 
 ## 相關新聞（2 則）
 
-### [Depression: Entzündungshemmer zeigen 54% Remissionsrate - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3lLQ2FyWXhVbkJkXzgzLVdVVmtTZFNHdUc0cTlscVZOd1VaNmNlb2NQWnFjLU56NGlLQWZZdi0xdjV2VDRkTi1FYTZaOENOMnRCb1VkVm5pU3YzbEd6dDRyaElzWktzWFR5ZEg1Uk5kaFdXZmpiX2RLOFdlMWdmYUJKMi11Q1ZzdnVjaEVxQnExaGtHZDZLemVUX0dlLTZRMTU5YlA0MkZZOGJvUTFFRg?oc=5)
+### [Depression: Entzündungshemmer erreichen 54% Remissionsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnF2Zkt0Wml1LVBPLW5ZZWhEbDJPVk9tLWxBdnE0dkw1WExKNFVDM1ljSS0yY3N0QS1fNER2RFh6SjdtSHkxZ3RsQWo1NWFuSU4yX2tLSmtReEV1dTc3TFkxdENpQlV6cEQ5WWpaNEpub2tSbHlWZ1czMmdDZjNVMlMyYXRTTHRpLVRwTHhad3Z2WWk4Z3YzR05PUnd4R1N6aS1RV1lBRVR6c1FJaDVvYXpRTTlmZw?oc=5)
 
 2026-07-26 <span class="news-indication-tag">depression</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3lLQ2FyWXhVbkJkXzgzLVdVVmtTZFNHdUc0cTlscVZOd1VaNmNlb2NQWnFjLU56NGlLQWZZdi0xdjV2VDRkTi1FYTZaOENOMnRCb1VkVm5pU3YzbEd6dDRyaElzWktzWFR5ZEg1Uk5kaFdXZmpiX2RLOFdlMWdmYUJKMi11Q1ZzdnVjaEVxQnExaGtHZDZLemVUX0dlLTZRMTU5YlA0MkZZOGJvUTFFRg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnF2Zkt0Wml1LVBPLW5ZZWhEbDJPVk9tLWxBdnE0dkw1WExKNFVDM1ljSS0yY3N0QS1fNER2RFh6SjdtSHkxZ3RsQWo1NWFuSU4yX2tLSmtReEV1dTc3TFkxdENpQlV6cEQ5WWpaNEpub2tSbHlWZ1czMmdDZjNVMlMyYXRTTHRpLVRwTHhad3Z2WWk4Z3YzR05PUnd4R1N6aS1RV1lBRVR6c1FJaDVvYXpRTTlmZw?oc=5)
 
 ---
 

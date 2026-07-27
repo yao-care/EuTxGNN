@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1b/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1B 有什麼相關新聞？">
-<strong>Interferon Beta-1B</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1B</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/interferon-beta-1b/
 <p><a href="{{ '/drugs/interferon-beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（23 則）
 
-### [Lichtverschmutzung durch Satelliten: Erde droht künstlicher Ring](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmlHX0xwbkwwMkFTck9qYzdockJCN0s5WEphRUk3T3k5YUl2VkM0TGZBNjB1Z0pnbE1ia0daWmxnN0sybnlsSDYzazR1TUwwdnE4elB0QlMtMklWeTdhZTJZcG5WdDZ5cXcxdl9JakNjbUpxZ3VfbWF5SFYyelpwc1lJa1VBNk5Ba1RISV9R?oc=5)
+### [Wearables: Darmschübe bis sieben Wochen früher erkennen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1VVWmJ1RnVvRFpselJaYUg1b2RQSV8zLXJYdEVCTERDeWJ0Rk1rVHZKbVUxSV9GNjEtN0FHWkJJQ2dOSEhrR2ZVNjJ5TjdmVmNtSWV4WVNRNWtFclI5eEhtS0hEMzRxRWJNYTFHVGdpRnYwS01GS0NYZlREbWEwaXJCSy1oZTRmbUtQTUxhclZjWjN3czRUcXdZRWtOVExpYUM2ckI1RUY?oc=5)
 
-2026-07-26 <span class="news-indication-tag">MS</span>
+2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">colitis ulcerosa</span> <span class="news-indication-tag">AF</span>
 
-來源：[t3n](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmlHX0xwbkwwMkFTck9qYzdockJCN0s5WEphRUk3T3k5YUl2VkM0TGZBNjB1Z0pnbE1ia0daWmxnN0sybnlsSDYzazR1TUwwdnE4elB0QlMtMklWeTdhZTJZcG5WdDZ5cXcxdl9JakNjbUpxZ3VfbWF5SFYyelpwc1lJa1VBNk5Ba1RISV9R?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1VVWmJ1RnVvRFpselJaYUg1b2RQSV8zLXJYdEVCTERDeWJ0Rk1rVHZKbVUxSV9GNjEtN0FHWkJJQ2dOSEhrR2ZVNjJ5TjdmVmNtSWV4WVNRNWtFclI5eEhtS0hEMzRxRWJNYTFHVGdpRnYwS01GS0NYZlREbWEwaXJCSy1oZTRmbUtQTUxhclZjWjN3czRUcXdZRWtOVExpYUM2ckI1RUY?oc=5)
+
+---
+
+### [Scientists identify physical change that could signal dementia years before diagnosis - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
+
+2026-07-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/interferon-beta-1b/
 
 ---
 
-### [Scientists identify physical change that could signal dementia years before diagnosis - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
+### [When Is the Best Time to Take Creatine?](https://news.google.com/rss/articles/CBMif0FVX3lxTE04Z2l0WnpIRmY0dW1OVzVzMTNJZ2lRVG5WaVhWWjNPMlpFR1ZYRnZRQWRhb1VNS1dnMW1VQTh6TUJRR2dJWXFUTGNRUERIUkMxZDRIQXV5b0Jickk2UjhaMEtFWEFBZDlycGZNVlBBbFVfUmNibDNvellqTl9ZSU0?oc=5)
 
-2026-07-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+2026-07-26 <span class="news-indication-tag">MS</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
+來源：[GQ](https://news.google.com/rss/articles/CBMif0FVX3lxTE04Z2l0WnpIRmY0dW1OVzVzMTNJZ2lRVG5WaVhWWjNPMlpFR1ZYRnZRQWRhb1VNS1dnMW1VQTh6TUJRR2dJWXFUTGNRUERIUkMxZDRIQXV5b0Jickk2UjhaMEtFWEFBZDlycGZNVlBBbFVfUmNibDNvellqTl9ZSU0?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/interferon-beta-1b/
 2026-07-26 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XU1RRUkNhSHNtazhiUVh1VHNnemRFS0VpSGVrQnJMYzI1eG9pS285cW1wX0hta0RBR2t4MUlrMjg2RXNGTzVmUzdVV0EzN1B0TDIzMUVBVVdjZF9f?oc=5)
-
----
-
-### [Darmschübe: Wearables erkennen Colitis-Anfälle sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzZVZkF1Snhna20zYTlzUFpOUDBVZjdoN0MxTWdtSWM3bUl4ZU01QzJnYlo5SmZzZFhkckRBUDVrcl9EVlJtbllBWFVUX19WVzVsQnlrNmY4d1BDZzN1aVJLZW5EVTZjU1phaHlySGVJbmx4R3FGUkY5alFKaTdwdGZJcDNRUHl2Z1pWb3IySnNZbDVYVFlpRDRYQXFqaUctRjV3STFRUnA3WGVOQlRWaGUwdExlQXVMclE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzZVZkF1Snhna20zYTlzUFpOUDBVZjdoN0MxTWdtSWM3bUl4ZU01QzJnYlo5SmZzZFhkckRBUDVrcl9EVlJtbllBWFVUX19WVzVsQnlrNmY4d1BDZzN1aVJLZW5EVTZjU1phaHlySGVJbmx4R3FGUkY5alFKaTdwdGZJcDNRUHl2Z1pWb3IySnNZbDVYVFlpRDRYQXFqaUctRjV3STFRUnA3WGVOQlRWaGUwdExlQXVMclE?oc=5)
 
 ---
 
@@ -123,6 +123,14 @@ permalink: /news/interferon-beta-1b/
 2026-07-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHpxOExBUEZkdmRLaWg2OVhLbkRsWmRGY3hNNlBCeGhGcXVvd1RUeUtpRzFsVmZLMkotTEkxell4aXVKM2IxX19IM1B4dS1NVHFiNEZ0VHh2dHkzajBDdlY2S2drSHRmNzlrWmhMZHRPSmJFVkotZDRsSGNMYWZkVTJOai0xS3lScmp1Yktoc1lfOUZ3eE1hOUhTUFV2dUZnQWhj?oc=5)
+
+---
+
+### [Entre 70 et 80 % des personnes infectées ne ressentent rien : l'OMS alerte sur le virus du Nil occidental qui circule en Europe](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalNRakJBNE1GcF9QQ3hBYTRLLU9vU0l2aDJXNzA4UWtsUGc3YnVDWndmczFxMXZnd0xaem9IRzU4MjBUWnFKRWNBZ3hiX2hWcF80cGtMY3d1alVhZDcya0dtMXRUSzhjV0xZMG5ETXl2NlBIUXFmRFZmWFo0U1ZZSkZiLWFWWmxmYVBYaVY0c1hmNzdLS2sybUszeTJyRWRRaFVDUFcxcXFNcmRPajhwSGQzYklTbHVXSFBZenc3YnoyX1lVWEZqX2RLc196Y2NCRi1yU1ViVWF2bGZXbmxV?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalNRakJBNE1GcF9QQ3hBYTRLLU9vU0l2aDJXNzA4UWtsUGc3YnVDWndmczFxMXZnd0xaem9IRzU4MjBUWnFKRWNBZ3hiX2hWcF80cGtMY3d1alVhZDcya0dtMXRUSzhjV0xZMG5ETXl2NlBIUXFmRFZmWFo0U1ZZSkZiLWFWWmxmYVBYaVY0c1hmNzdLS2sybUszeTJyRWRRaFVDUFcxcXFNcmRPajhwSGQzYklTbHVXSFBZenc3YnoyX1lVWEZqX2RLc196Y2NCRi1yU1ViVWF2bGZXbmxV?oc=5)
 
 ---
 
@@ -174,22 +182,6 @@ permalink: /news/interferon-beta-1b/
 
 ---
 
-### [Demenz-Prävention: Antientzündliche Ernährung senkt Risiko um 29% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVZqdjJCcDlaWTdTYmc1cVZjQzVtaldJWEZ1eVB3eFZSaG03Q3dvZTJxdVZlQXNzT0ZmbGd3eFdFaHpEdXJzdHpHLTRUejZKNTZRdFhZdzBOaWpNbHNHV3JUUk1FVmNDdE5WVE1rM3lXY0NkUW5lMkpDTmJWbU5pS3hTS2Q1OVNUWGptak1kTERKR2U1RlFSWUNDdXFYdjhya1g4NEYtUnFpZmE1ek1aZlBHS1JSUQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVZqdjJCcDlaWTdTYmc1cVZjQzVtaldJWEZ1eVB3eFZSaG03Q3dvZTJxdVZlQXNzT0ZmbGd3eFdFaHpEdXJzdHpHLTRUejZKNTZRdFhZdzBOaWpNbHNHV3JUUk1FVmNDdE5WVE1rM3lXY0NkUW5lMkpDTmJWbU5pS3hTS2Q1OVNUWGptak1kTERKR2U1RlFSWUNDdXFYdjhya1g4NEYtUnFpZmE1ek1aZlBHS1JSUQ?oc=5)
-
----
-
-### [Deux villes balnéaires placées en alerte rouge face au virus West Nile : les autorités inquiètent après cinq premiers cas identifiés - Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMWVmVDlrZ0FObjVOd3VmQVZkZ0xmVlBablQ1eUxlRHR0NV9ESDlkSmNJNmFkaGl5WmVpNS0wcDNkUzAwRDVSSk1naThhQlhrMHdvU1NNWFBYVExDZU9HWHhhVDlUMlJZV3YwbTZWeWVzdWdoeWNzRldKell5NmRaNy0xRHFWaE5Wc1ZkOFZOZ1JiU2NrVkFDbU9UWjJiWXVIU1BUUkpQdlNoU3U4b1JoMEt0NnhGd1hGVFF0YW1mRGU4Zjc5VEVKcTBvd21lbm1od0ZqYndMZzU3ZDRSczJjT25Zb0wzWDY0ai1hMS1Sd2VTUGhNX3lGTHlad2QwcHV5T0xjME1vOHUxazg?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span>
-
-來源：[Midi Libre](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMWVmVDlrZ0FObjVOd3VmQVZkZ0xmVlBablQ1eUxlRHR0NV9ESDlkSmNJNmFkaGl5WmVpNS0wcDNkUzAwRDVSSk1naThhQlhrMHdvU1NNWFBYVExDZU9HWHhhVDlUMlJZV3YwbTZWeWVzdWdoeWNzRldKell5NmRaNy0xRHFWaE5Wc1ZkOFZOZ1JiU2NrVkFDbU9UWjJiWXVIU1BUUkpQdlNoU3U4b1JoMEt0NnhGd1hGVFF0YW1mRGU4Zjc5VEVKcTBvd21lbm1od0ZqYndMZzU3ZDRSczJjT25Zb0wzWDY0ai1hMS1Sd2VTUGhNX3lGTHlad2QwcHV5T0xjME1vOHUxazg?oc=5)
-
----
-
 ### ["C'est un immense soulagement" : après un traitement expérimental à Rome, la petite Lyséa est en rémission complète de son cancer - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
 
 2026-07-25 <span class="news-indication-tag">cancer</span>
@@ -203,30 +195,6 @@ permalink: /news/interferon-beta-1b/
 2026-07-25 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Est Républicain](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQnhySVRrc09kWjlrczdEc1BJV3dQOVlHWVpZN3VabF9STTZpZ0xxamdydC1rc1VBV3d2UVdFQWRWdHR3NGJHUTNCM2JLX3AteHpiTUtWaUFUQ2ZKMzZ5eFNweWJ6NElGNnpNTW1yaEFobk5nT3BiVjUwYV9mUnNmMXZvSFdLUHI4YWF6WGhhYlVsMkFzcGFhTnR4RDdpdzN6ZDB3aGxrZ184T0ZNV21xcGJSQzBTQURKVXNlTE1USGxyNF80Y3NPUzFiQjhhcFhaSmo2WnZaWFY4S3Bm?oc=5)
-
----
-
-### [Tumori, l’asse Italia-Cina punta su Dna e intelligenza artificiale: cosa può cambiare per i pazienti](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1JVdFJoZ0dFc1NScVpQUldCWUpIdnhSa1NEOVJ2RDV1SmppXzBRQU9kZ093RG5CNHJibDQtbHluU0ZsS0Q1WHd4ZlE0VFUzU3ViMEhKNEVXZ3JSMGtuZk5KN3hyOTJyelF5UUFDa0NULTlIdnlXc3c2UU0xQ3VraHhpQWg2bS0zTDBEY3gwZUk3T2Z0NU9UZTFNWmZlRU5kRGNqTXFiNHJwZU1HWVRZQU0xYU1jVVNlVURWQXQzekRSQnh5X0hublBXTC1ESW12WnppNFdxSktPOTlHTHBiVW9DaGNZdkQ3bGRSTnZn?oc=5)
-
-2026-07-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS1JVdFJoZ0dFc1NScVpQUldCWUpIdnhSa1NEOVJ2RDV1SmppXzBRQU9kZ093RG5CNHJibDQtbHluU0ZsS0Q1WHd4ZlE0VFUzU3ViMEhKNEVXZ3JSMGtuZk5KN3hyOTJyelF5UUFDa0NULTlIdnlXc3c2UU0xQ3VraHhpQWg2bS0zTDBEY3gwZUk3T2Z0NU9UZTFNWmZlRU5kRGNqTXFiNHJwZU1HWVRZQU0xYU1jVVNlVURWQXQzekRSQnh5X0hublBXTC1ESW12WnppNFdxSktPOTlHTHBiVW9DaGNZdkQ3bGRSTnZn?oc=5)
-
----
-
-### [«Io, infermiera, ho ignorato per anni un sanguinamento comune. Era un tumore al colon al terzo stadio» - Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFpaMEdUMVdueEhTTi1uRU1FbFRmalZoZzZhSDI3cTFLVnd5Y2ZZYURiVi1wMGN2Z2NIRGJHNFJETTNlUmRhZDdKZVE1Q2syZmlRMG9jalNJWkdfb2t5UDJVTHhGX3R1UFdrVGpyX0R3NGhraGxrbldFck02aF9VZnhCemVDUjg3TVFxTjFwbUFneWs1OFFBT2Zva3MtMFdJQ1lSaFF0d1FjT3FNaHFILThIc1RGb0RCZ0dRZENn0gG6AUFVX3lxTE9HV0NxajBWUW42alZIeFRXanpMeldYNzl1NjJVSnN5SUhMV3lqdWVKSXdtZVEtU09qQmhvYjI4TkF3ZEs1N2xqYmZTN3VIZDNNZXlUU2dTNWk0Z3IwVzlSSzRja2g3M3NxOXBqQUpCNzR0clhsV0tUOUY5YkcyNzY0QjF1cWpucUtKckdNclZVeVpIWXkxYWFrVVpxYVlBWjBHQlhMY1ZkRXR3OTJHMWV1RU9uTFU5Qk9Mdw?oc=5)
-
-2026-07-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFpaMEdUMVdueEhTTi1uRU1FbFRmalZoZzZhSDI3cTFLVnd5Y2ZZYURiVi1wMGN2Z2NIRGJHNFJETTNlUmRhZDdKZVE1Q2syZmlRMG9jalNJWkdfb2t5UDJVTHhGX3R1UFdrVGpyX0R3NGhraGxrbldFck02aF9VZnhCemVDUjg3TVFxTjFwbUFneWs1OFFBT2Zva3MtMFdJQ1lSaFF0d1FjT3FNaHFILThIc1RGb0RCZ0dRZENn0gG6AUFVX3lxTE9HV0NxajBWUW42alZIeFRXanpMeldYNzl1NjJVSnN5SUhMV3lqdWVKSXdtZVEtU09qQmhvYjI4TkF3ZEs1N2xqYmZTN3VIZDNNZXlUU2dTNWk0Z3IwVzlSSzRja2g3M3NxOXBqQUpCNzR0clhsV0tUOUY5YkcyNzY0QjF1cWpucUtKckdNclZVeVpIWXkxYWFrVVpxYVlBWjBHQlhMY1ZkRXR3OTJHMWV1RU9uTFU5Qk9Mdw?oc=5)
-
----
-
-### [Everyone seems to be taking creatine. Should you? - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
-
-2026-07-25 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWVdGNEF0XzV6YmZ1dy1oaGJQN25fdzFkVVBkV1JHbmpidGh2bkc2QXhlaTRvbHBycGVvcjVsamhOcU51NE5PVXlMVUx5NXNtTExPeUgwMXgtQ3pfMzBJMXVFX1J5RGxkc3VadHR3WXZIeW1qZGdsc0toODRGSlJWSF93aWI5SXZJaGlzMjFrdWFiWXlkUnlXUkpOaVAtQ0J4TElsN2RDVGljeHBxbWl2QWJIQzB4SFdkelZj?oc=5)
 
 ---
 
@@ -267,22 +235,6 @@ permalink: /news/interferon-beta-1b/
 2026-07-25 <span class="news-indication-tag">cancer</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnE0S3dfYU92Ni1aeGVTNVVMMEs3c3RRSHEzNjNNdHpWMUZfdTNzd1BsR0YwYzBWZkstRVl2UUIzZXYwY21jb1BiT0lGOFU0cWU5YjNmOW9iZEtxSV9xSWxqeDBNYWMydHVZMFBrREhpanpFSWwwUF9adV9vY2NqNjlFcldVWVVGQ0NDY1pZWXQ?oc=5)
-
----
-
-### [Scientists Discover The Fourth Transmissible Cancer Known To Science](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGRTVXZRZVI3eHdhbzZnQlV2SmVsb29yVUVRVjZwZXlCT3ppb2c2Q2RsY0t6ck5WVm1RR1oxSlQ4R18zYVNpZFpBbEVab2tMZWtpaURKYnJsMTIyWldlUzZKYXptVTd5R2FuNXZReU5famNuUVJJVVFNTklmdnlPeHdZSE5sNjFzUjRvVEd1Ul9GNXVBM2d6YVFXN0JXSnh1WEJpaTFaNjVMRjlQdUJMclk0MFlPSDB1Rk84?oc=5)
-
-2026-07-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Forbes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGRTVXZRZVI3eHdhbzZnQlV2SmVsb29yVUVRVjZwZXlCT3ppb2c2Q2RsY0t6ck5WVm1RR1oxSlQ4R18zYVNpZFpBbEVab2tMZWtpaURKYnJsMTIyWldlUzZKYXptVTd5R2FuNXZReU5famNuUVJJVVFNTklmdnlPeHdZSE5sNjFzUjRvVEd1Ul9GNXVBM2d6YVFXN0JXSnh1WEJpaTFaNjVMRjlQdUJMclk0MFlPSDB1Rk84?oc=5)
-
----
-
-### [Herzschutz: Spezielle Nervenzellen bremsen stressbedingte Rhythmusstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
-
-2026-07-24 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVy05SE9PV3pEUzgyOVJ4SnNOV1hpNy1JMjVGVG1FZlhfSkdnTE5rbXgyYTM4dlRPSTZ4cWVQdU9wT2E0d2lvLWVtcGxSQjVWVnR1OXQwOG1XaG5BTFNYOUJWMEU5ZFpEMlY3bW9FWmVVYUtOZHlFd2NPQlRjZ0dQTHYwcDAzU0IzQXgtSlFRMWhnTzJNbk44bEtKT2F4cHAtY0V0OXBiYXM?oc=5)
 
 ---
 

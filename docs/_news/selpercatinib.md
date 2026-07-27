@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="Selpercatinib 有什麼相關新聞？">
-<strong>Selpercatinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selpercatinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/selpercatinib/
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
-
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
 
@@ -70,27 +62,27 @@ permalink: /news/selpercatinib/
 
 ---
 
+### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">hypertension</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
+
+---
+
+### [Planetary Health Diet lowers cardiovascular risk in older women](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">heart disease</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
+
+---
+
 ### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
 
 2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
-
----
-
-### [Ola de calor y migraña: factores que agravan el dolor y consejos para reducir su impacto](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
-2026-07-25 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
----
-
-### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
 ---
 

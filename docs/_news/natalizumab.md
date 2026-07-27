@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（8 則）
 
 ### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
 
@@ -86,14 +86,6 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Karotten: Rohe Form senkt Blutzucker, gekochte erhöht ihn deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
-
-2026-07-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
-
----
-
 ### [La 'puerta' que alimenta la piel: una proteína podría abrir la vía a nuevos tratamientos para eccema y psoriasis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
 
 2026-07-26 <span class="news-indication-tag">psoriasis</span>
@@ -123,14 +115,6 @@ permalink: /news/natalizumab/
 2026-07-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
-
----
-
-### [Semaglutide, la sorpresa nelle ossa: nel diabete associata a meno fratture](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
-
-2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
 
 ---
 

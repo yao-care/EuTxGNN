@@ -54,11 +54,11 @@ permalink: /news/iloprost/
 
 ## 相關新聞（1 則）
 
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
+### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-26 <span class="news-indication-tag">hypertension</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
 ---
 

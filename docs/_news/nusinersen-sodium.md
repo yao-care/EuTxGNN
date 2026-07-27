@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="Nusinersen Sodium 有什麼相關新聞？">
-<strong>Nusinersen Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Nusinersen Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/nusinersen-sodium/
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Una terapia genética personalizada permitió que un adolescente con epilepsia severa camine por primera vez](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUpuSGR4ZXFBTU1VcldReW9kc3RBWXRHUlhOS050QjJTSkRjYlF3b3NiRU5OSkZKMHFFOVl2WHQ1YkFDSU1PcUhtSF96RUs1V05mT0xzOFdJdm5rRXQ1ZVFGR3hoS2diZ0VYWHNGVFczOHVDZ0FXeGpVR2Zka1dBd1h1c0RoVkVtRHNJM3ZadzFCYXFYMmJUVmFzVDJ5b3hST3Z1QmxGc3Y3X05zLUdxazIwZkJoWng0V3JDVzhQNm0xQVhYS1NuRFpyd29fajV3SkU3N2doS0pGZE5ON3RhdGNtamotbWZjQWx2UtIBhwJBVV95cUxOb0dQTXB5QnJkb21OeHU1c0RvcDVuZllTQU5FWmNPN0l0dWdYeU93cWVycWF0THluMkJpRnoyT1VLWHFjQmZETmhhRWozYWd5eVNEYnAwN3d4emVCT0hBRmtaVUJjSGxFc05tbXBMdkVVTnlrZnpyVWVTQ1E1Q3JOd3RUenJSYk1zVlByN2hhblBWTW5fMjhVaVc3VE1OTUxlTGxEYnY5MU8tME4tZ3p5bUo1dWNmaWtfQWlrUUF2RDl6MVYwSk9GcVhTWE5wN3hMd3VjZjAydmlnaVVnX2hrRXdPZi14ZDZPZ09ZTTNGNnhzbnRwbnRZTUprVjRxb0dDOUhMWERoRQ?oc=5)
-
-2026-07-24 <span class="news-indication-tag">epilepsia</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUpuSGR4ZXFBTU1VcldReW9kc3RBWXRHUlhOS050QjJTSkRjYlF3b3NiRU5OSkZKMHFFOVl2WHQ1YkFDSU1PcUhtSF96RUs1V05mT0xzOFdJdm5rRXQ1ZVFGR3hoS2diZ0VYWHNGVFczOHVDZ0FXeGpVR2Zka1dBd1h1c0RoVkVtRHNJM3ZadzFCYXFYMmJUVmFzVDJ5b3hST3Z1QmxGc3Y3X05zLUdxazIwZkJoWng0V3JDVzhQNm0xQVhYS1NuRFpyd29fajV3SkU3N2doS0pGZE5ON3RhdGNtamotbWZjQWx2UtIBhwJBVV95cUxOb0dQTXB5QnJkb21OeHU1c0RvcDVuZllTQU5FWmNPN0l0dWdYeU93cWVycWF0THluMkJpRnoyT1VLWHFjQmZETmhhRWozYWd5eVNEYnAwN3d4emVCT0hBRmtaVUJjSGxFc05tbXBMdkVVTnlrZnpyVWVTQ1E1Q3JOd3RUenJSYk1zVlByN2hhblBWTW5fMjhVaVc3VE1OTUxlTGxEYnY5MU8tME4tZ3p5bUo1dWNmaWtfQWlrUUF2RDl6MVYwSk9GcVhTWE5wN3hMd3VjZjAydmlnaVVnX2hrRXdPZi14ZDZPZ09ZTTNGNnhzbnRwbnRZTUprVjRxb0dDOUhMWERoRQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

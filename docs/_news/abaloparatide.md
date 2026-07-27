@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（4 則）
 
 ### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
 
@@ -70,14 +70,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Karotten: Rohe Form senkt Blutzucker, gekochte erhöht ihn deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
-
-2026-07-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnYySk1VNVdJVkJKa0FHUG55T0xWZ3FGSWY3U0d4dVZDbUhlUGJKWGdPRjZKMFFvQUxraGdZMmNQWk5RT0JZS0k1MU1YaEtYWGJTTXZRSzAxV3RwbTZqN2tOU0VZMFhPRXdvLW4yd2dNWE93N19BbWYxd0t3VHRXcnBPeVRkT18yaDY5WUhJYm5MU19WZHY5SGVtV0pqemFzMHJXRkxHR3ZtY1BQRnRpMlNGLXQ?oc=5)
-
----
-
 ### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
 
 2026-07-26 <span class="news-indication-tag">migraine</span>
@@ -91,30 +83,6 @@ permalink: /news/abaloparatide/
 2026-07-25 <span class="news-indication-tag">diabetes</span>
 
 來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
-
----
-
-### [Ola de calor y migraña: factores que agravan el dolor y consejos para reducir su impacto](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
-2026-07-25 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
----
-
-### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
----
-
-### [Semaglutide, la sorpresa nelle ossa: nel diabete associata a meno fratture](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
-
-2026-07-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFdIeGY3TGJUSHVVWlJGcDR1Y0JHblRKckI2NThvZ19IZDVHTlBiYWtjWVhWV0ZveU4yVVlkS1NPeVZmR2pOaXJBTDJPYTRJV0RHbzhSOFZxdXVoTHJtUERYWHhuY1l0OGtkaUd5ZWNFSFJ2UnFNR2J4UUdxZ3oydjgwX1hYSWt2UzRhbENxck1BdUtZWlVOd3hXRk1yOWk3ZlNxeGE3bi10M3o5TjR2d1NMVWtHSm9kb0l2YWhGUG1kSDV5dE1BVXRjdHU?oc=5)
 
 ---
 

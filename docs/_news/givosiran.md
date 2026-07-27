@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
+### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-26 <span class="news-indication-tag">hypertension</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
-
----
-
-### [Rage, hépatite, typhoïde : le point sur les vaccins de voyage](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
-
-2026-07-25 <span class="news-indication-tag">hépatite</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
 ---
 

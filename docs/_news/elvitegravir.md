@@ -14,7 +14,7 @@ permalink: /news/elvitegravir/
 ---
 
 <p class="key-answer" data-question="Elvitegravir 有什麼相關新聞？">
-<strong>Elvitegravir</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elvitegravir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/elvitegravir/
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Rage, hépatite, typhoïde : le point sur les vaccins de voyage](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
-
-2026-07-25 <span class="news-indication-tag">hépatite</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFprZ2ZDVnVJT0hYMXl6aDlQUTFkTDZQSUV4NUlJVE02X2NpeENVYXMzZVFFdk1LV3lHMm56WlR1eWpCdGVMRHAtWldKVm9KZzQwYWpic2pKZHpxd1lWRFZKUHZyb09ScnpWUmFYZ3V5Q2JUQm5VWW5EeHNEZlhtYi15OG1nT19aU3NoWkNvS3ROeVFCU0JfVDZqVENrQm1ObWplaFgzZXlGMTRvV09YeWRMSFA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

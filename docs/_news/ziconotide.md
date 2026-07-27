@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [La Bbc: “Bambini italiani ingrassano per pizza, pasta e pane. La dieta mediterranea non esiste più” - la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obesità</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
+
+---
 
 ### [Obésité aux États-Unis : les données de 300 millions de dossiers médicaux révèlent une décrue inédite liée aux traitements GLP-1](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Bbc, clamoroso sfregio dagli inglesi: "Ecco perché i bimbi italiani sono grassi" | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjdMR0g0MUpuTExTZDNjTUFMVjNuSVJUOUctTVpYV0FPT09ySXZvWE1MUnpQQ2M4aEFUQW5id1FGY2xoZ3J4d1d4U1JOMjVCMzZadDNQS2JqZml5SnQzSS1Ma2gyRUxqSUJrYWhaa0xGZ2ZVdFZpaE1YZ19hN0ZlMXFtcDAzWjA5c2NnNlRVRjFkRXlKZ2d2Sml3ZnFLNmN2b29fZtIBqAFBVV95cUxQeWh5azFBeGZLak1RdkRKSUVwdUJ3NElyM2hKMGZrNjdBX0llTE1EejVkYW5ocjAwendGOXRDMTNmcktHRFVKWFdCbV9tdlhqQjZidUFlbTdsa0Q3djdaNmQyRHJHWFMwR1NlTmlPRTRfZmxudUZoTm1RNWFVUV9vZi1ydzFGNWM2V3hkcFE3WkFwdjE3TEJiTkRvZE9xczBueEpHTm9BZXQ?oc=5)
+### [Weight-loss jab users warned about relationship side effect no one prepares you for](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
 
-2026-07-26 <span class="news-indication-tag">obesità</span>
+2026-07-26 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjdMR0g0MUpuTExTZDNjTUFMVjNuSVJUOUctTVpYV0FPT09ySXZvWE1MUnpQQ2M4aEFUQW5id1FGY2xoZ3J4d1d4U1JOMjVCMzZadDNQS2JqZml5SnQzSS1Ma2gyRUxqSUJrYWhaa0xGZ2ZVdFZpaE1YZ19hN0ZlMXFtcDAzWjA5c2NnNlRVRjFkRXlKZ2d2Sml3ZnFLNmN2b29fZtIBqAFBVV95cUxQeWh5azFBeGZLak1RdkRKSUVwdUJ3NElyM2hKMGZrNjdBX0llTE1EejVkYW5ocjAwendGOXRDMTNmcktHRFVKWFdCbV9tdlhqQjZidUFlbTdsa0Q3djdaNmQyRHJHWFMwR1NlTmlPRTRfZmxudUZoTm1RNWFVUV9vZi1ydzFGNWM2V3hkcFE3WkFwdjE3TEJiTkRvZE9xczBueEpHTm9BZXQ?oc=5)
+來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/ziconotide/
 2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+
+---
+
+### [Weight loss injection side effects truth that everyone taking Wegovy, Mounjaro or Ozempic should be aware of - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
+
+2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
 
 ---
 
@@ -102,43 +118,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Millions of people are losing weight using GLP-1s. How do the drugs affect their love lives? - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEUwTnJ5MG1aUG9jM0lrTWhhaWRyQXNBdnkySkRqeXRLQ3pvVnRVRVdfSXJ0YWN4Ymc3MWpMMGxfNUF0WG5UeTR3MjJ4bVJpdDhDaGpCT2YzSkU3UVp3eGZzcUcxN1pZOElzZ3U0aGtSdnJrVFRoVkhtbTBNSl9Wa2xkQkdxSktXWTRrMTNhTUVXQUJHcVlSc1BKbS0?oc=5)
-
-2026-07-26 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEUwTnJ5MG1aUG9jM0lrTWhhaWRyQXNBdnkySkRqeXRLQ3pvVnRVRVdfSXJ0YWN4Ymc3MWpMMGxfNUF0WG5UeTR3MjJ4bVJpdDhDaGpCT2YzSkU3UVp3eGZzcUcxN1pZOElzZ3U0aGtSdnJrVFRoVkhtbTBNSl9Wa2xkQkdxSktXWTRrMTNhTUVXQUJHcVlSc1BKbS0?oc=5)
-
----
-
-### [Cosa succede davvero quando si sospendono i farmaci per dimagrire?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGJWamR0b3dlZWM4VXZXU2hMZXJOV1FDcDZSVDNnT3RodWlGdXppbmR3QzZVNmtaNGdodFR3LWtjajlUMUEzMTdaRDBNX1dsVllvUzRmQ2ZtSHJ6SUh2OHExNi1yTlNBTF9ZWTBkSnJ1b3VXYlVEYV9nSWdMY181RGlobWhyTlo0eE1lbXdFWWZHT2QzVGZXNU16NTZHRWZjUVRwVXhlckJiUUNmX3FrYkdkYUg4N1NUMFRfR1J1dlZUWjQ?oc=5)
-
----
-
 ### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
 
 2026-07-25 <span class="news-indication-tag">obesidad</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
-
----
-
-### [Ola de calor y migraña: factores que agravan el dolor y consejos para reducir su impacto](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
-2026-07-25 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
----
-
-### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
 
 ---
 

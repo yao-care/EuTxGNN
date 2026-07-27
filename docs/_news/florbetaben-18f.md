@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="Florbetaben (18F) 有什麼相關新聞？">
-<strong>Florbetaben (18F)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetaben (18F)</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/florbetaben-18f/
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
+### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-26 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNek1MczVBQjZuWmtDVXdFNXo1d1QwM1ZUN2wyS0hranpZUU1TeU5BMXdJalF2cDZoLVNrbVpQb2VRdDdjbEUzSTNxdUxDb0RwcVg4N3hYd2cwR3pRSXpYaVlkaTZfVXBVWHhBU3ZNeHZwTFJid2ZKRUZlTVhzMlJKNlBLbUNwbTRPdk9xNkpnX0IxR0VhRUdoMV9leG9KZWlldzVFbWt3bVpGVi1UNGhKQVJWdEhwNlU?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 ---
 
@@ -70,11 +70,19 @@ permalink: /news/florbetaben-18f/
 
 ---
 
-### [A daily fiber supplement reduced knee arthritis pain and improved strength](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
-2026-07-25 <span class="news-indication-tag">arthritis</span>
+2026-07-26 <span class="news-indication-tag">hypertension</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3VlhUdllabEIyWndkQUV6cU5Ya0RZQ0JXLWZFTnlXNFFYZUFlamh3c1p0bHdXdlc5MkVpcXNIVnNFTTNGSVFMenRINEVyQnBZZ2J0N1BnZVRtUlExcW9wbjQyZnlhSno4WEJUcnlCVQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
+
+---
+
+### [Planetary Health Diet lowers cardiovascular risk in older women](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
+
+2026-07-25 <span class="news-indication-tag">heart disease</span>
+
+來源：[News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
 
 ---
 
@@ -83,30 +91,6 @@ permalink: /news/florbetaben-18f/
 2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
-
----
-
-### [Ola de calor y migraña: factores que agravan el dolor y consejos para reducir su impacto](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
-2026-07-25 <span class="news-indication-tag">migraña</span>
-
-來源：[OkDiario](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVBaQ3lRc1RtZDBrVUNuU1pSZlhDWVFYTVdLMVdIUjVTMklna0NCa0ZDeHg3dlJuYmxvZUZUTWIyOEpQUVpUTzYzRm5LWDFwdlNoeEswWFVYdUNjZHRVODlKMHFQRTV3Vm4zakRWQW0zVHl4Z3dWdlk1YXplRmF1YkMwOTZvaTVMMzZmXzQ1Q3c2WWdYaDVicW9FaDdHVlI0aG1MOFhIeULSAa4BQVVfeXFMT0VKa3MyV2plclV3UUlTUVJseWU5OUVYcGhnMWNNX3dib3F0Y192MFcwUUkya3VXQkxhdWJmRGJRWTNTRU1LcFl6NVZMcEp5ejJNREdLM19YanlFbFA0eW5meGNfT2NmMUlQRnlRenIzdlNNTlFZWE5WQTNMb3BfZDVOWVZVNTZUTnpBSklTejJtQkRkcTN3V0tpWk1zQkZzRW0yVGpCLVZETTJjdXZ3?oc=5)
-
----
-
-### [¿Por qué aumentan la migraña, la demencia y otros trastornos neurológicos? Esto revela un estudio - El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
-2026-07-24 <span class="news-indication-tag">migraña</span>
-
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMizgFBVV95cUxNaHlidWFqZkxVcDFQb3B5NEFwR2RnckdyUVJ3RXVtcFpfTUlhQ1pnNGxkbWFQSXFGRDBuRnpDa0JCRzBFLWpWOEU2blBLck1JaWMxR084MGkwMHo0WjhUbUVhYlRxWm5YemVRSm1iU08teWZMRjQ3Vkk0QXNPSG9MS1I1T01pU0xHODV2UkVSSV9tRko4V1IzSGc5Vm1oSnNicGxVTzBUdDExNGRZcUlnX25NLVVFSFFZWUZhZjEwa2ZtRlRqRjh2MUVjaE02dw?oc=5)
-
----
-
-### [Un farmaco naturale sconfigge l'artrite in 21 giorni, i nuovi test rivoluzionari sugli animali - Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
-
-2026-07-24 <span class="news-indication-tag">artrite</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZ5cGszak5KX0JRRUswejFZV1dKT3NGV0RWNnd3UUR2WnJ2c2QzTG9zUDd1azRuaDhlV1VHOE1IWFNsRjF2Q0hCOFNyc1BzZ19pcm11WUhZTEQtM2xIbERoV1lKTThTNjkzTkp3MzdMN08yYkJsSGNVU1Nkdzd1cVNTSmd0ZGFlWlFEZU1LY09tWHNxWTRvUdIBlAFBVV95cUxOdTJ5WDEyblFRbm5QeUhuTFR0aXpGQmtuRmN1cW9MSnhYN2xfNGpaUkoxd1huaFBFQm1EOU5Fa2NzalJDUXJPY0hxSno4YW1nQm9xOGZsRk1EUV83a2FyQl9HZUpCeFFsZFVPM1VnSUl1UURmRXhYdGl6VkNtd1MwYkVUNkFBOEpHWEtsUHlYbGN2Z0hm?oc=5)
 
 ---
 

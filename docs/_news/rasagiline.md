@@ -54,6 +54,14 @@ permalink: /news/rasagiline/
 
 ## 相關新聞（3 則）
 
+### [Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
+
+2026-07-27 <span class="news-indication-tag">dementia</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
+
+---
+
 ### [Scientists identify physical change that could signal dementia years before diagnosis - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
 
 2026-07-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
@@ -62,19 +70,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
+### [Leading brain expert brands soft drink a ‘bullet to your brain’ in stark dementia warning](https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VXSmVCaS1pY3RYTGRobktEc09nVUFsZ3ZCeW4zMTdIUWlTZ0xTN0pYVUVtWklKU0NsZVloWUtiYUZPUzNTREhZN1dLaWU1TG02THFzXzR1eWJBUTVKandsemhHYTNFV1c5aFpKa3kxVHVkSWxrNzdkNUE1cDNjREtUdWVxcnlCck5wakZQTW1rWjBCaXM4V2UyOHRuT3kydjNhbTlLS1pmUUdLZ1l1SFoxV3hGVVMxV2huQk5ad3VvRzdpaXc?oc=5)
 
 2026-07-26 <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
-
----
-
-### [What five neuroscientists do daily to protect their brains from dementia - The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
-
-2026-07-24 <span class="news-indication-tag">dementia</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVZfZURCc1JSZVpmQ1pqVFEtM0hMeHUyc1NLQ3FDZ3c3SjJYbW9kc2paNlpyZjdKenNIU242anVSWnNDekZUX0lTRkFzN09rMDhmMTVtZWpZaVpsdm1lRHhUZVptYXVfbElCQXdPcGZheGN3M3piVXpHbTdvY0lOUnd6NGRZbFE1cGJDNXJ5TUVmdXNPdkhaa0J3YlA5V1gwZGxFamo4dGtrTzJE?oc=5)
+來源：[7NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1VXSmVCaS1pY3RYTGRobktEc09nVUFsZ3ZCeW4zMTdIUWlTZ0xTN0pYVUVtWklKU0NsZVloWUtiYUZPUzNTREhZN1dLaWU1TG02THFzXzR1eWJBUTVKandsemhHYTNFV1c5aFpKa3kxVHVkSWxrNzdkNUE1cDNjREtUdWVxcnlCck5wakZQTW1rWjBCaXM4V2UyOHRuT3kydjNhbTlLS1pmUUdLZ1l1SFoxV3hGVVMxV2huQk5ad3VvRzdpaXc?oc=5)
 
 ---
 
