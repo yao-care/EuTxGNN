@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbruch um 39%](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
+### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
-2026-07-27 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
-
----
-
-### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
-
-2026-07-27 <span class="news-indication-tag">artritis</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/elexacaftor/
 
 ---
 
-### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
+### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">arthritis</span>
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,27 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+### [KI-Biomarker und Wearables bei Morbus Crohn: Früherkennung bis zu zehn Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
 
-2026-07-27 <span class="news-indication-tag">artritis</span>
+2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
+
+---
+
+### [SEPAR alerta de que las olas de calor agravan el asma y la EPOC y pueden aumentar la mortalidad respiratoria](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
 
 ---
 
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
-2026-07-26 <span class="news-indication-tag">arthritis</span>
+2026-07-27 <span class="news-indication-tag">arthritis</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 

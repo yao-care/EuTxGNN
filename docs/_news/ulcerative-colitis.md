@@ -34,19 +34,19 @@ permalink: /news/ulcerative-colitis/
 
 ## 相關新聞（2 則）
 
+### [KI-Biomarker und Wearables bei Morbus Crohn: Früherkennung bis zu zehn Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
+
+2026-07-27
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
+
+---
+
 ### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
 
 2026-07-27
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
----
-
-### [Disease-on-a-Chip für die Forschung - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
-
-2026-07-26
-
-來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHNsRnVUN3ZMZEFvWFAwcnVFTVRYZm1JTWlVM2tlUndLTHZ3U05HZDhxT05kZzRBNHlPNEpIbFZjVHNfSDROZHE1Q3NtSkRlMWxTdUFPRHNmSjhHaWxKbTAyby14dTg0aXNVdnpIYWU3ekw4RnM3UzBuMmRzdmZUSWh0WEg4aVJYYWlodjgzZHJSOUtNeUxzNkp4cU9tc0FOalNBbQ?oc=5)
 
 ---
 

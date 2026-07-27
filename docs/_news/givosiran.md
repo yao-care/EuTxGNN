@@ -54,19 +54,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（4 則）
 
+### [Epatite C: migliaia di italiani non sanno di averla. Un semplice test può evitare cirrosi e tumore del fegato](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5)
+
+---
+
 ### [Dr. Juan Arenas, jefe del servicio del Aparato Digestivo de Policlínica Gipuzkoa: "La hepatitis puede pasar desapercibida durante años: una simple prueba permite detectarla a tiempo"](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
 
 2026-07-27 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 來源：[Comunicae](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
-
----
-
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbruch um 39%](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Epatite C, a Novara oltre 1.600 pazienti guariti: lo screening gratuito prorogato a fine 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
+### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[NovaraToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 

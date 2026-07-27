@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [SEPAR alerta de que las olas de calor agravan el asma y la EPOC y pueden aumentar la mortalidad respiratoria](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+
+---
 
 
 <div class="disclaimer">

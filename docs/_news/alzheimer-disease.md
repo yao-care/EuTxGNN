@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（3 則）
 
+### [New Study Finds Married People Are Up To 74% More Likely To Develop Dementia Under One Specific Condition - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnBEM0JKc0JiMlFvRTQ1VG5iMm9YQkp6S3ZtLTVMV0EtcjFDMmRfUnd2Wjk5Ym14MV9YejVxWGlXTFRFaFYzalpsMVRTUmgycklsYnotWkxIUXUxOHpheUJrVFNiYlVVUFMyU290UlhLZkZaa2NNZGt3N2I3aFA0bF9jVFpSRjR6U3U0TTdrdzlGT2Y2RGY5aTJn?oc=5)
+
+2026-07-27
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnBEM0JKc0JiMlFvRTQ1VG5iMm9YQkp6S3ZtLTVMV0EtcjFDMmRfUnd2Wjk5Ym14MV9YejVxWGlXTFRFaFYzalpsMVRTUmgycklsYnotWkxIUXUxOHpheUJrVFNiYlVVUFMyU290UlhLZkZaa2NNZGt3N2I3aFA0bF9jVFpSRjR6U3U0TTdrdzlGT2Y2RGY5aTJn?oc=5)
+
+---
+
 ### [Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
 
 2026-07-27
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
-
----
-
-### [Scientists identify physical change that could signal dementia years before diagnosis - GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
-
-2026-07-26
-
-來源：[GB News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGo5RlRadFR6Y3VWaDFjZnR0bWRMTlBoa0tzRWE5Q1dfSVVPMDRoNzlhQzFWSTBoUHFLeTRiMTJVZWZKdkhSSmpVZ0oxWl9UajcycXJwVXV2V2taeWVYbF92YzB2a2x4eXNvYnNzLUl6bkt6XzkwYVN3ckxPTmJ1Ul9wVV8?oc=5)
 
 ---
 

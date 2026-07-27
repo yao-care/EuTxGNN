@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/eslicarbazepine-acetate/
 <li>reading seizures（96.9%）</li>
 <li>trigeminal nerve neoplasm（95.9%）</li>
 <li>partial motor epilepsy（95.3%）</li>
-<li class="indication-matched">epilepsy（92.4%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（92.4%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Sanitas Valdebebas impulsa un terapia genética pionera en una bebé con epilepsia: reduce las crisis un 90%](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5SbHNhN05mVjQzR0JuV3YydXNfMU5UWHQzamRNRi13NHVkNDhiMnBrenVMQ2dJMUZVX0NkWGs0eWhvWmNVMW9ldHRMa0Qzc2lVdDlnZ1BBdlhIUjhzU3FaYjVOYjFUUWFKWkZTWERDNlcwdjlTbW5ZaG8wVXhEVWJ3LXhDRHVEMWdrZm53Q2pyTGxod2FYazlXa2RMQkxyOHg3RC1scTMwa0llT25kQmZTM3lxdnVUa25mVWRJYWZYeUkwa3c2eXNNa211MEZBdnhxN1diOE9sMjEyNURENjcxaWtQbkdSQlhmWDRxaURMNEk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">epilepsia</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcG5SbHNhN05mVjQzR0JuV3YydXNfMU5UWHQzamRNRi13NHVkNDhiMnBrenVMQ2dJMUZVX0NkWGs0eWhvWmNVMW9ldHRMa0Qzc2lVdDlnZ1BBdlhIUjhzU3FaYjVOYjFUUWFKWkZTWERDNlcwdjlTbW5ZaG8wVXhEVWJ3LXhDRHVEMWdrZm53Q2pyTGxod2FYazlXa2RMQkxyOHg3RC1scTMwa0llT25kQmZTM3lxdnVUa25mVWRJYWZYeUkwa3c2eXNNa211MEZBdnhxN1diOE9sMjEyNURENjcxaWtQbkdSQlhmWDRxaURMNEk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

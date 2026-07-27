@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
-2026-07-27 <span class="news-indication-tag">artritis</span>
+2026-07-27 <span class="news-indication-tag">arthritis</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/pregabalin/
 2026-07-27 <span class="news-indication-tag">Migräne</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
-
----
-
-### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
-2026-07-26 <span class="news-indication-tag">arthritis</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 ---
 

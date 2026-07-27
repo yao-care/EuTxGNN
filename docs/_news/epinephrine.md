@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [SEPAR alerta de que las olas de calor agravan el asma y la EPOC y pueden aumentar la mortalidad respiratoria](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+
+---
 
 ### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
 

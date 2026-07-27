@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Where You Carry Your Body Fat Is Directly Linked to Brain Aging in First-of-Its-Kind Study](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
+### [La paradoja del país soleado: por qué España sufre déficit de vitamina D y cómo afecta a todo tu organismo](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNm1BREpLbjQ3bjF0MnM1YlpBdGkzc3p5WldfR183d05yRzhuNDJZWkFXbjN1OVZzUHowcHFxN1ZCektqN2wxbTVfbENCVHVtenVpdVk5UEh0eXRVM3lvUjJPdjNFY2dBVE9peDZiend5SE1ZWVdMQkJfYWV3ajgzT0lfd2Y2MXFpcURlZzM2azFycENDZUpKemVMS0QxYnNVWWtON3ZXbkJpZGJDU2NZVUU5dTFOTmZXT2ZkeU5mZDB0N2pfc19reFN1dWRONElGQVM0cXRBYW9OOVFK?oc=5)
 
-2026-07-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTgxRm91LU16X044Vk9fOUNRMGZoRmJEOUFESGdMQlJVdDNPcDVNX0NsclZRczhNNko1Smt5QTdudGVkNUF0MGFIZTRCSm1VSGFkWjM2Vkw3QkVKRE54QlpWQ0ZxOHlIM2JBNVUwMURmZVFuWjdLa184bEh4OVRxSXF3dnpJX0syX2g1Q3dNMFdYcXdYT2tncERGaFNwWUVCeTItSGF5X2NjQmQ1cWtvNW5GMDk3SGVYTjRz?oc=5)
-
----
-
-### [La edad, la obesidad y una dieta pobre elevan el riesgo de déficit de vitamina D - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNm1BREpLbjQ3bjF0MnM1YlpBdGkzc3p5WldfR183d05yRzhuNDJZWkFXbjN1OVZzUHowcHFxN1ZCektqN2wxbTVfbENCVHVtenVpdVk5UEh0eXRVM3lvUjJPdjNFY2dBVE9peDZiend5SE1ZWVdMQkJfYWV3ajgzT0lfd2Y2MXFpcURlZzM2azFycENDZUpKemVMS0QxYnNVWWtON3ZXbkJpZGJDU2NZVUU5dTFOTmZXT2ZkeU5mZDB0N2pfc19reFN1dWRONElGQVM0cXRBYW9OOVFK?oc=5)
 
 ---
 
@@ -78,19 +70,19 @@ permalink: /news/bupropion/
 
 ---
 
+### [La semaglutide può aumentare il rischio di perdita dei capelli](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
+
+2026-07-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
+
+---
+
 ### [Obésité aux États-Unis : les données de 300 millions de dossiers médicaux révèlent une décrue inédite liée aux traitements GLP-1](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
 
 2026-07-26 <span class="news-indication-tag">obésité</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
-
----
-
-### [Weight-loss jab users warned about relationship side effect no one prepares you for](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
 
 ---
 

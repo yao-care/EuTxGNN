@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
-
----
-
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbruch um 39%](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ permalink: /news/thyrotropin-alfa/
 
 ---
 
-### [Planetary Health Diet lowers cardiovascular risk in older women](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
+### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
-2026-07-25 <span class="news-indication-tag">heart disease</span>
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
-
----
-
-### [Planetary Health Diet lowers cardiovascular risk in older women](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">heart disease</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
 
 ---
 

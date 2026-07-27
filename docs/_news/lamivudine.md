@@ -54,6 +54,14 @@ permalink: /news/lamivudine/
 
 ## 相關新聞（3 則）
 
+### [Epatite C: migliaia di italiani non sanno di averla. Un semplice test può evitare cirrosi e tumore del fegato](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5)
+
+---
+
 ### [Dr. Juan Arenas, jefe del servicio del Aparato Digestivo de Policlínica Gipuzkoa: "La hepatitis puede pasar desapercibida durante años: una simple prueba permite detectarla a tiempo"](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFc0YjJTOGliZDk5ZmVNMnJscnFpOUtoT1dKSVl6ODhQX0ZGcXNmWFAwbEZsazVEZE1XeGttVmF4WWVPN0pOXzJQek1PWnA1M1hMR3hRQ0R4TUVvSUtSZUxUMVNYX3NiRkFOR0w3bnJJaU14eTBHME1KSXlHZ3JDOHBhd3dqel9Y?oc=5)
 
 2026-07-27 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
@@ -67,14 +75,6 @@ permalink: /news/lamivudine/
 2026-07-27 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiowFBVV95cUxQalY1UDA0dVhRUkxKLVNvVkp3b3c3NjFmenh0WmwyLUI4Tzhlay1MME9UOERlZ3NmaUZBNXQ1QS1HOHZrVTMzeUpaUF94dmRPanZsZmxvd1NwUDU3TUZ1Z2FrS0dJc2Vmb0hsUVg1bUp4aGhkcUJNYlJzdTMxOEN3ZlhYZm9fOTFtb3pTSWc1dGZuZDlQNVNCZTRody1aNWpZT1Nj0gGoAUFVX3lxTE1CSFYtdEZGcFltNXpyMHpEdHpUM1lQRWI4VHNVUkI3MVVxdHZCd2NJc1hYYXBYYWVseXdfT1hwdWtmWEJ2cDJtRFJWTWJDRDRMMlpUMXF3X2EyajR3NFppaWlwbE9oNVc1dm55SzNreFluYWRCY2FfMThrbGxqYkROeUxCLV9jSmdBdVVWY3B4b3VRWGY1SnNNdk5tUWZveDlScmZCY2lUUA?oc=5)
-
----
-
-### [Epatite C, a Novara oltre 1.600 pazienti guariti: lo screening gratuito prorogato a fine 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
-
-2026-07-26 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
-
-來源：[NovaraToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
 
 ---
 

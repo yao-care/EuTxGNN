@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,13 +114,21 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
 
-### [Hallan una huella bioquímica que identifica mayor riesgo de mortalidad en diabetes y resistencia a insulina](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
+### [La ciencia encuentra una nueva huella bioquímica relacionada con la mortalidad en diabetes y resistencia a la insulina - El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxOUDVCbjdydjZobTZmeW5UOWFLWkgxYTZzWko3S1NlR1haVF9BVzloS1FLUW5xNFQxLXlFcmUweGNMUXkxZnIyclpmRUFxSWhkTE9TbXJXTjI1ODlHQkQ1dmpISWhnVkk3QkF2Vy1PaHg3OTdkOXNCRkV5Z0M0Q1R3QlFyVmdOeXA3X2w0a2ppRm8zTHVkemIzaUpsTlh1T2lqNHhsbWJ0dnhSbGVuWjR4SkxqRmlIcU0tT0dOSy1qcWZWYVhlMVA5Q0xjWHp6TzNFOGswY2VhaDN3djhEanNNdGo4UE5qVGNUbFJCQ2ZfSmxDNHItb2hudFdvM3k4Xy1EazVlZGFqeDVsM1dnYjhCWHo4Wmk2NFlkUHB3eW16M21WWkp2VkNiZnNhSUd4Y2ZVc1E?oc=5)
 
 2026-07-27
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxOUDVCbjdydjZobTZmeW5UOWFLWkgxYTZzWko3S1NlR1haVF9BVzloS1FLUW5xNFQxLXlFcmUweGNMUXkxZnIyclpmRUFxSWhkTE9TbXJXTjI1ODlHQkQ1dmpISWhnVkk3QkF2Vy1PaHg3OTdkOXNCRkV5Z0M0Q1R3QlFyVmdOeXA3X2w0a2ppRm8zTHVkemIzaUpsTlh1T2lqNHhsbWJ0dnhSbGVuWjR4SkxqRmlIcU0tT0dOSy1qcWZWYVhlMVA5Q0xjWHp6TzNFOGswY2VhaDN3djhEanNNdGo4UE5qVGNUbFJCQ2ZfSmxDNHItb2hudFdvM3k4Xy1EazVlZGFqeDVsM1dnYjhCWHo4Wmk2NFlkUHB3eW16M21WWkp2VkNiZnNhSUd4Y2ZVc1E?oc=5)
+
+---
+
+### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
+
+2026-07-27
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
 
 ---
 
@@ -129,6 +137,22 @@ permalink: /news/diabetes-mellitus/
 2026-07-27
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
+
+---
+
+### [La semaglutide può aumentare il rischio di perdita dei capelli](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
+
+2026-07-27
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
+
+---
+
+### [GLP-1 und Haarausfall: BMJ-Studie zeigt erhöhtes Risiko – meist reversibel - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
+
+2026-07-26
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
 
 ---
 

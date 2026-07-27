@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（11 則）
 
-### [Hallan una huella bioquímica que identifica mayor riesgo de mortalidad en diabetes y resistencia a insulina](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
+### [La ciencia encuentra una nueva huella bioquímica relacionada con la mortalidad en diabetes y resistencia a la insulina - El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxOUDVCbjdydjZobTZmeW5UOWFLWkgxYTZzWko3S1NlR1haVF9BVzloS1FLUW5xNFQxLXlFcmUweGNMUXkxZnIyclpmRUFxSWhkTE9TbXJXTjI1ODlHQkQ1dmpISWhnVkk3QkF2Vy1PaHg3OTdkOXNCRkV5Z0M0Q1R3QlFyVmdOeXA3X2w0a2ppRm8zTHVkemIzaUpsTlh1T2lqNHhsbWJ0dnhSbGVuWjR4SkxqRmlIcU0tT0dOSy1qcWZWYVhlMVA5Q0xjWHp6TzNFOGswY2VhaDN3djhEanNNdGo4UE5qVGNUbFJCQ2ZfSmxDNHItb2hudFdvM3k4Xy1EazVlZGFqeDVsM1dnYjhCWHo4Wmk2NFlkUHB3eW16M21WWkp2VkNiZnNhSUd4Y2ZVc1E?oc=5)
 
 2026-07-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxOUDVCbjdydjZobTZmeW5UOWFLWkgxYTZzWko3S1NlR1haVF9BVzloS1FLUW5xNFQxLXlFcmUweGNMUXkxZnIyclpmRUFxSWhkTE9TbXJXTjI1ODlHQkQ1dmpISWhnVkk3QkF2Vy1PaHg3OTdkOXNCRkV5Z0M0Q1R3QlFyVmdOeXA3X2w0a2ppRm8zTHVkemIzaUpsTlh1T2lqNHhsbWJ0dnhSbGVuWjR4SkxqRmlIcU0tT0dOSy1qcWZWYVhlMVA5Q0xjWHp6TzNFOGswY2VhaDN3djhEanNNdGo4UE5qVGNUbFJCQ2ZfSmxDNHItb2hudFdvM3k4Xy1EazVlZGFqeDVsM1dnYjhCWHo4Wmk2NFlkUHB3eW16M21WWkp2VkNiZnNhSUd4Y2ZVc1E?oc=5)
+
+---
+
+### [Natalizumab podría ser útil para tratar un tipo de leucemia infantil](https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmZFeldDa1FyTklocXNMbWZBRjlXb0s0Z0RDcklKY0gxYlVHc0JTQTFmSTFhVldaMVZXR2pSN3RZRHlyQ0VJSTBXRmNfMWg0TjROclBIRjlpbXgzY2E1T1ExYloyX2pjTnBMS0RJaU1ENGZTOEhwRWhHdFYyV1lSVWhpdWlqR3IzMEM3TVlKUVhBVlVaLXpQN3V3?oc=5)
+
+2026-07-27 <span class="news-drug-tag">Natalizumab</span>
+
+來源：[Farmacosalud](https://news.google.com/rss/articles/CBMimgFBVV95cUxQYmZFeldDa1FyTklocXNMbWZBRjlXb0s0Z0RDcklKY0gxYlVHc0JTQTFmSTFhVldaMVZXR2pSN3RZRHlyQ0VJSTBXRmNfMWg0TjROclBIRjlpbXgzY2E1T1ExYloyX2pjTnBMS0RJaU1ENGZTOEhwRWhHdFYyV1lSVWhpdWlqR3IzMEM3TVlKUVhBVlVaLXpQN3V3?oc=5)
+
+---
+
+### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
+
+---
+
+### [SEPAR alerta de que las olas de calor agravan el asma y la EPOC y pueden aumentar la mortalidad respiratoria](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[LaSexta](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
 
 ---
 
@@ -72,9 +96,17 @@ permalink: /news/natalizumab/
 
 ### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
 
-2026-07-27 <span class="news-indication-tag">psoriasis</span>
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
+
+---
+
+### [La semaglutide può aumentare il rischio di perdita dei capelli](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
+
+2026-07-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
 
 ---
 
@@ -86,6 +118,14 @@ permalink: /news/natalizumab/
 
 ---
 
+### [GLP-1 und Haarausfall: BMJ-Studie zeigt erhöhtes Risiko – meist reversibel - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
+
+2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
+
+---
+
 ### [La pire façon de boire son café pour le cerveau : elle accélère le déclin cognitif après 50 ans - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
 
 2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
@@ -94,11 +134,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+### [Obicetrapib, il CETP di nuova generazione convince il Chmp: colesterolo LDL ridotto fino al 50%](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
 
 2026-07-25 <span class="news-indication-tag">soriasi</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+來源：[Pharmastar](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
 
 ---
 

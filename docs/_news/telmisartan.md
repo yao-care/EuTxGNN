@@ -54,6 +54,14 @@ permalink: /news/telmisartan/
 
 ## 相關新聞（7 則）
 
+### [Schlaganfall: Jeder zweite Patient profitiert von früher kognitiver Therapie - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
+
+---
+
 ### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
@@ -70,14 +78,6 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Realizan el primer trasplante de España entre dos personas con VIH](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHN4ekpsYUZSV29LUXNNSzhUSE12Z18wZ3dHNFg5T1ZLV1BxRFVBTkZSem0tTVNaaTFWOHBjNUJIMkpnZXpLWHhyTkRfWU1hRnVidzAwa1JVRjE3TDFtRHk4QkNJR095dzNvcEU2TENHRGI4LTlEZG53UTlvNmViVHRDZlNRaElZeWp6bGdNakdJRlFnMTRnSmxDb3p2cFdkX3hvcQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">CVA</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHN4ekpsYUZSV29LUXNNSzhUSE12Z18wZ3dHNFg5T1ZLV1BxRFVBTkZSem0tTVNaaTFWOHBjNUJIMkpnZXpLWHhyTkRfWU1hRnVidzAwa1JVRjE3TDFtRHk4QkNJR095dzNvcEU2TENHRGI4LTlEZG53UTlvNmViVHRDZlNRaElZeWp6bGdNakdJRlFnMTRnSmxDb3p2cFdkX3hvcQ?oc=5)
-
----
-
 ### [A woman who hadn't spoken an intelligible word in twenty years, silenced by a stroke, can form spoken sentences again — not by moving her mouth but through an experimental implant that reads the speech centres of her brain and turns her attempts to spea - Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">stroke</span>
@@ -86,11 +86,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck: Kombinationspräparate senken Therapieabbruch um 39%](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
+### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
 
-2026-07-27 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUpmY0FscDZ1eEJnYk9JcEF4NWRJS29NNnBSNWZTem5CSWI4aDFJVm5jb05MNUtxa2RmLUtISXJUdmRNNldzSU0tX3NqczJLdUtBY2kzd2JsczZZTVY0MEtrd3c5Z21ON0lnWGlBaHNpakxTTjh1X2JOVXd5VDZPb1YxLXlJRjd5TEhlN1Q2NzUyMWp2UXI4a20wZVBXUW9JaDlROGo0UjBmWmxIX2RJT3ZpUU5Kd0xRZEMwWnBFNA?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
+
+---
+
+### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/telmisartan/
 2026-07-26 <span class="news-indication-tag">ictus</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd25pdEliRjNoWndZejRRZkdIUkZKX0NwSjBfTUpCZVNWSHpRZ20yTmYyLS0wWmd5WjFHb0tqalRnRmVfdmh1MjdiOTY3cFBsakExTVBPdVJLc0pBWERzNGlzZUotUGd4alhMel9PeW5DV0ZqWW9WNGdzQkJRdElKOGhBYUpUODJyUGszOGlYcXNvS3JEaXhsZ3RMU1I2U05YMVJ2cEQzazdzNUpHRGhYTXdMM1ZwdHlrb1lXRXR3OHVOaXPSAcgBQVVfeXFMTWszYmR2dmtJYUZwTlN6YUhabFVZT3c5QU8yZ0ZnVkZmNmI5Wk5mRHJXU3NGblMxYUs2QnU5STR2S20yc3Y2THRKeGhHSUg1SmJ4Qjc2ZkgzUTJvcGJsSm0xU3NIc1dtamtQNDhpRHRlWFg2TV9FTE5LekdxZ2Z0MVhuY0hQZGJzdmlwRUg5NTR6ZHB6Y1FqTDBOT0NwMmpfRl84OUNnWlhlT2F6M0JnWVlYR0VUZkh0YmEzYk5GNWFvZW8zVzJ1Q3M?oc=5)
-
----
-
-### [Planetary Health Diet lowers cardiovascular risk in older women](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">heart disease</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEVPY01HSFVvdlVmVDJ3cW1sYUNJYmFxRmt2SFAzcVJFRlRyRXZfdmY3THNNM2l1NHplTGlqMGY3Y0F5Y3lBZEpOeEM4ZU1lckFfMm9Oall5Yl9CVWhWWDJRQU5IQ0VjaGh2aExBRWpyQllzSWotaEY5SjFGT3RsWVR4VE40WlZUcEFMZFRremYtMDhqc2VmSnRjanVWOXVZOXZNOThBRmJ6N0JwdVRaeQ?oc=5)
 
 ---
 

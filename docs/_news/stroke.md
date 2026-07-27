@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。4 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。5 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>4 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>5 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Schlaganfall: Jeder zweite Patient profitiert von früher kognitiver Therapie - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
+
+2026-07-27
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
+
+---
 
 ### [Wenn Grippeviren Herzschmerz bringen](https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFpjR0xUZzJsNHpZek5qdUF6N0trNlVSYkc4S3VNNlBZcWZJYmZkSElWYWlKaTM0NHFHdGViX3pmdTRyYmdGeHJmOTRmaXdGaDlFUHY3OGVpNW5CclRrZkItRHlMbEpXVjEzQjRRV09naFBnYnd5YzBwS0U2STJSZzQtWXh3UjRPdEFvU1RBSQ?oc=5)
 
@@ -49,19 +57,19 @@ permalink: /news/stroke/
 
 ---
 
-### [Realizan el primer trasplante de España entre dos personas con VIH](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHN4ekpsYUZSV29LUXNNSzhUSE12Z18wZ3dHNFg5T1ZLV1BxRFVBTkZSem0tTVNaaTFWOHBjNUJIMkpnZXpLWHhyTkRfWU1hRnVidzAwa1JVRjE3TDFtRHk4QkNJR095dzNvcEU2TENHRGI4LTlEZG53UTlvNmViVHRDZlNRaElZeWp6bGdNakdJRlFnMTRnSmxDb3p2cFdkX3hvcQ?oc=5)
-
-2026-07-27
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHN4ekpsYUZSV29LUXNNSzhUSE12Z18wZ3dHNFg5T1ZLV1BxRFVBTkZSem0tTVNaaTFWOHBjNUJIMkpnZXpLWHhyTkRfWU1hRnVidzAwa1JVRjE3TDFtRHk4QkNJR095dzNvcEU2TENHRGI4LTlEZG53UTlvNmViVHRDZlNRaElZeWp6bGdNakdJRlFnMTRnSmxDb3p2cFdkX3hvcQ?oc=5)
-
----
-
 ### [A woman who hadn't spoken an intelligible word in twenty years, silenced by a stroke, can form spoken sentences again — not by moving her mouth but through an experimental implant that reads the speech centres of her brain and turns her attempts to spea - Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
 
 2026-07-27
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
+
+---
+
+### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
+
+2026-07-27
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
 
 ---
 

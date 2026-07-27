@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
-2026-07-27 <span class="news-indication-tag">psoriasis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
----
-
-### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
-
-2026-07-27 <span class="news-indication-tag">artritis</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
-2026-07-26 <span class="news-indication-tag">arthritis</span>
+2026-07-27 <span class="news-indication-tag">arthritis</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 ---
 
-### [Psoriasi, la pillola che blocca l’IL-23 potrebbe riscrivere le regole della cura](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
+
+---
+
+### [Obicetrapib, il CETP di nuova generazione convince il Chmp: colesterolo LDL ridotto fino al 50%](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
 
 2026-07-25 <span class="news-indication-tag">soriasi</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
+來源：[Pharmastar](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
 
 ---
 
