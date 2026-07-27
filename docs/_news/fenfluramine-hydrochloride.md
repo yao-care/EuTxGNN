@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Fenfluramine Hydrochloride 有什麼相關新聞？">
-<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fenfluramine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fenfluramine-hydrochloride/
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [La edad, la obesidad y una dieta pobre elevan el riesgo de déficit de vitamina D - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkZBZGMzNVg0dlR1ZUpFWVp5Rm02bVA5S1hmVDdlUVo4Q0tER3NXUDNWQ09MMGdqWDR2YnUzd1A0alZOZW5Za1NSSjlJcmlzZVdlSnZScU1fTzVnWE9oZDkxVVdZZGdoWmhQZVUyMTlsQmdYcHFZV3hBVk50elptNmtiUmpVNGZadmRxTWtXQTBudm9DS1RxZzZmMG1pMTg3NTVNMjBuWEN1TkRtMjFZVVdJeWZmb0ZKVGNWSlNYRUvSAbsBQVVfeXFMUENocEROemhyRXVVSGFDcjQyYTdNcFNIN19mSkV3OW9JRzVnZEVRTG8wZFZnV2dxSDAyNmhpeTVhOGFpSEVzdXYyd0pweVdjMlh1S1Z3aUJ1V1hHT0pULUhWdlJPWHhpaEJ5YXdFUUU5ZkpMc2R1bk8zbEZFYmpUVGJVcnVOOGU4Nm5sNDM2c0xzdXBPV0M4VVZjYzM5TEpZbUhqam5BSVhCSnFUVnVZdGh2VW9OdHBzQm9Yaw?oc=5)
+
+---
 
 ### [La Bbc: “Bambini italiani ingrassano per pizza, pasta e pane. La dieta mediterranea non esiste più” - la Repubblica](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdWRrczNMejZfSUFXbGszVU9aTVJnOWllb0VydlpPYmo2ajFuWUl2Sko0dm5qekZyUUtWOXh4enF5QmhPV3ZyZlFDSFNXYVpSVzh3LTRRWmdDbWFoenJSVGhoVHkyT1R1VHNPaHRObnlyMnhPc0Y0b283bjhlSG5wZ1FaVER5MVNaMUV0MVhhWlQxQWo1aHlzUm95ZXg3THRUMHUtbEI0Vko1UjEtMFpLbFctR2RLMzFUU2RLVGxIclgyazFfc0tHaWxpVXg5QdIB0wFBVV95cUxPRWdlTUc0Z3pMOFBTNGhqZmZZU2tqQmJ5SGJKMVVvN1RzNldvNkFuOE9DNjhPdllnRnFST2dCUVI0NzdPMjdFUzRPVkNxbWtFVXV0bnJkNG43cndsT3F1Uy02ekRxYnBWN3VyU2MtMlJKby11M05DWl85TTg4eXdiNFdla0dqenZrTFRNdXh5OGxJVWxnWFViVlBpdFRGTjNiM1h4MWJNcFZodldHek9qMjRCQWI3azduMk04Y3VSRm9Ub1JzbXFKU201d3Y5TUVmdWo4?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ---
 
-### [La edad, la obesidad y una dieta pobre aumentan el riesgo de déficit de vitamina D - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOVlmenNVZE1xdzY4akJySjR1YkJVWXFvY2s3blRZMnZEX0kxN3JJODVaYW9TSDNnNzVfMkR2MUotelhEWGQxYmJNTEMyMVkxbGQ5a1NuZ0pfYi1WYlpnWjRMV1hLOS1R?oc=5)
-
-2026-07-26 <span class="news-indication-tag">obesidad</span>
-
-來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOVlmenNVZE1xdzY4akJySjR1YkJVWXFvY2s3blRZMnZEX0kxN3JJODVaYW9TSDNnNzVfMkR2MUotelhEWGQxYmJNTEMyMVkxbGQ5a1NuZ0pfYi1WYlpnWjRMV1hLOS1R?oc=5)
-
----
-
 ### [Weight-loss jab users warned about relationship side effect no one prepares you for](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
 
 2026-07-26 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
 
 來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
-
----
-
-### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
-
-2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
 
 ---
 
@@ -107,14 +99,6 @@ permalink: /news/fenfluramine-hydrochloride/
 2026-07-26 <span class="news-indication-tag">obesità</span>
 
 來源：[RIFday](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2toM05aSGoyd3M3RHd1TkpaRGswcFJwWmVjRkJfTmYyOWRCajNYXzJPTm5SWlU0dHM3dXZNdDFhdU5ZTkhXajNzMmRqWXFBLU9KbWcxdXFaa0VBSTl5dXFoQlBvek1HM1lWSldVVmU4b1ZIZnVmM3ZBRXJRdVZGQ1dMWVRha3k1aWMzc1dFQ25vbFJmQWNfUE92X3NCU2ZMTnZNbk9KeVF6aHJvYmpnNjgweEhxWFU3OTFPeEg0MHQ?oc=5)
-
----
-
-### [El "interruptor" microbiano: descubren cómo las bacterias del intestino activan la quema de grasa](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNejJjanlsYXJ3Q01tNzQ4ejdjNURBSjZ0cmR5SU93WU1jRGpCX3lwT1dESnU5dzI4T0ZBRkx4SERtcXZHblV2cXd3cnczaHFkSndxNndfSUlwUjU5VDFVXzJYdFpwMDVPeGtnMzhNZnI4dHkzQ3Z6b1RSM2VuOUdGOXdTbktrRXVRWGk5VUpwOWduWkw3VWZvcndnaDZpa0ZVUTk0YjRHTWxTdnF5TFB1d2hnOTdiLVZQUURfdF92X2lyaWZUQnpLT2FtbDdtRHJ4VVIyWUxHUVZvUVJuSTBQYl9yMll2UmRmTTR1NUNDVQ?oc=5)
 
 ---
 

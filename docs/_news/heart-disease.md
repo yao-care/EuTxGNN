@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "heart disease 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
+description: "heart disease 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# heart disease 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
+<strong>heart disease</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -95,11 +95,11 @@ permalink: /news/heart-disease/
 
 ---
 
-### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+### [We’re beating heart disease](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5)
 
 2026-07-25
 
-來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+來源：[vox.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5)
 
 ---
 

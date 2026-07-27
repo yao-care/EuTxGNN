@@ -62,11 +62,11 @@ permalink: /news/travoprost/
 
 ---
 
-### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+### [We’re beating heart disease](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
+2026-07-25 <span class="news-drug-tag">Inclisiran</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+來源：[vox.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5)
 
 ---
 

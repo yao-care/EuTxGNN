@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart disease</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,7 +52,15 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+2026-07-27 <span class="news-indication-tag">artritis</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+---
 
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/abemaciclib/
 
 ---
 
-### [Studie mit überraschendem Ergebnis! Das passiert im Körper, wenn ihr jeden Tag eine Avocado esst](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+### [We’re beating heart disease](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5)
 
-2026-07-25 <span class="news-indication-tag">Herzerkrankung</span>
+2026-07-25 <span class="news-drug-tag">Inclisiran</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[RTL.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnBtSVBTTVNlRVFhQ0pZMGZ0NVVyM3NKZjNYY2NyYU5uQXQ1NFNlRVBoTndkYjlDbjRaZFcwOGNRMlpSb1VLRkF1UDFSVkt0MnNuWW1iRC02aHU5bjh0VDN0U1k5LThfQlpwY3Y2cHV3U3VvMkFDUlFsbFI4OFFPaHFYX0xRVHAyajQyOHJibVh6OVd3MEpnZ05yYXNsLU1QODR2djZCdkRXSldCaXVZUjJvUGUzcG8?oc=5)
+來源：[vox.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5)
 
 ---
 

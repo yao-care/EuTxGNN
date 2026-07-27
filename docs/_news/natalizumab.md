@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
-### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+### [Hallan una huella bioquímica que identifica mayor riesgo de mortalidad en diabetes y resistencia a insulina](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
 
-2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
+2026-07-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
 
 ---
 
-### [La «pandemia metabólica» de la diabetes se triplica en América e impulsa nuevos fármacos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+### [Psoriasis als Warnsignal: Entzündung steigert Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
 
-2026-07-26 <span class="news-indication-tag">diabetes</span>
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
 
-來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
 
 ---
 
@@ -75,22 +75,6 @@ permalink: /news/natalizumab/
 2026-07-26 <span class="news-indication-tag">copd</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
-
----
-
-### [Espinacas y brócoli contra la EPOC: las verduras de hoja verde reducen un 16 % el riesgo de enfermedad pulmonar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
-
-2026-07-26 <span class="news-indication-tag">EPOC</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
-
----
-
-### [La 'puerta' que alimenta la piel: una proteína podría abrir la vía a nuevos tratamientos para eccema y psoriasis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">psoriasis</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
 
 ---
 
@@ -107,14 +91,6 @@ permalink: /news/natalizumab/
 2026-07-25 <span class="news-indication-tag">soriasi</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlpLSmMtLXdjOXpnZW1kSFpTV3VGMDk4cklXcWRGa2Zna3ZZRGVlQkRmbDc2MTV4cGhKV09IOXZabmg0Wm1qaU1Ta1puaEVlLVdyQ3pVclN0SWUyYVFPSU1MdjM5eVhvV1VldUNtTDFQa0tDd1J6ZldMOC1uN1A5WWdaNE0xX203Q2tEQ0hFTDl6U3VmckMwZkloalpQbTNJRS1SZnUycEhJRi1jMWxYYzZ3LTlJYnE5N2djcklHR3lWUW9WRG56bnl2V1NwaFNMZ0JQMg?oc=5)
-
----
-
-### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
-
-2026-07-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
 
 ---
 

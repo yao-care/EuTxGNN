@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [Depression: Entzündungshemmer erreichen 54% Remissionsquote - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnF2Zkt0Wml1LVBPLW5ZZWhEbDJPVk9tLWxBdnE0dkw1WExKNFVDM1ljSS0yY3N0QS1fNER2RFh6SjdtSHkxZ3RsQWo1NWFuSU4yX2tLSmtReEV1dTc3TFkxdENpQlV6cEQ5WWpaNEpub2tSbHlWZ1czMmdDZjNVMlMyYXRTTHRpLVRwTHhad3Z2WWk4Z3YzR05PUnd4R1N6aS1RV1lBRVR6c1FJaDVvYXpRTTlmZw?oc=5)
+### [Depressionen: Was dem Stimmungstief vorausgeht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE5WejBQTmMwdXdtSlVRVk1CbGh1UkVrU0kwaGl1U3V6QlJxeW9hUk5kb01jWU5ZQTJoZk9LOXFkQTkyQTVHVnhvZ20wd056Y3dwdXZ4dm9Fekt1WFFCeEpJcTJYQTliUjJxZnp4aWFRUy15S280dW5oV1VHMndHUQ?oc=5)
 
 2026-07-26
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUnF2Zkt0Wml1LVBPLW5ZZWhEbDJPVk9tLWxBdnE0dkw1WExKNFVDM1ljSS0yY3N0QS1fNER2RFh6SjdtSHkxZ3RsQWo1NWFuSU4yX2tLSmtReEV1dTc3TFkxdENpQlV6cEQ5WWpaNEpub2tSbHlWZ1czMmdDZjNVMlMyYXRTTHRpLVRwTHhad3Z2WWk4Z3YzR05PUnd4R1N6aS1RV1lBRVR6c1FJaDVvYXpRTTlmZw?oc=5)
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE5WejBQTmMwdXdtSlVRVk1CbGh1UkVrU0kwaGl1U3V6QlJxeW9hUk5kb01jWU5ZQTJoZk9LOXFkQTkyQTVHVnhvZ20wd056Y3dwdXZ4dm9Fekt1WFFCeEpJcTJYQTliUjJxZnp4aWFRUy15S280dW5oV1VHMndHUQ?oc=5)
 
 ---
 

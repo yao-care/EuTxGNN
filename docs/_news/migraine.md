@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraine 相關新聞"
+title: "Migräne（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "Migräne（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraine 相關新聞
+# Migräne（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraine 有什麼相關新聞？">
-<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
+<strong>Migräne（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+2026-07-27
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+---
 
 ### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
 

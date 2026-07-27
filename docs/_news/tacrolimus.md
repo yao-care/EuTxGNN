@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+2026-07-27 <span class="news-indication-tag">artritis</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+---
+
+### [Psoriasis als Warnsignal: Entzündung steigert Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
+
+---
 
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 2026-07-26 <span class="news-indication-tag">arthritis</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [La 'puerta' que alimenta la piel: una proteína podría abrir la vía a nuevos tratamientos para eccema y psoriasis](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">psoriasis</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcGkya1hIay1xbEZWMzBUTjJycGplQWx5QUdFVEJmTnlxWjM0OXVBNzlLbF84TG9LekhFa1ZOd3RDeEIyVWNkSlZFZzh2VGNHSW1FUklyR051cVJaNHNBOVdyd3BQMmhnT282YnBYVjlWVEpJd2MxdjF3dW92aFpRTFNRRjJGQ1BWbEdGaW1FdXgzWjFmbjBTNlVuSmMwdjJXdDZpTGlaeUQ5UHdyTVd6ak9LQjBlWE9UN3k0cUVKbUhGLWxMekNQQmk3cmdvUEM0cV92bi1qTl81Mi1FaTBwZlZsUDE?oc=5)
 
 ---
 

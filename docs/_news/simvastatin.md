@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Psoriasis als Warnsignal: Entzündung steigert Risiko für Herzinfarkt und Schlaganfall - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1NVnpwZ08tdHdEeWVQNTVoQ0RlRWhvd2tnNFFIVlc0ZWpxWk5tcW80eEk5ZHNoOWFfRF9BeGt3dDVKWlJ6YzFuOWVobXhyZDc1aWQxLUxaV0gtTU0xbm1MUDBNTjB1NmRZQ3g0Rkp5YW9UMWw3OGNqSkJ5ajZBLWJLbXczUUlUZzZ2UzhBZm11ZUVYWTRoMHBYWFNaTmRHZ1ozMnpjMUJKNzNqLUpEMTFwd3Q2eWgtRUE?oc=5)
+
+---
 
 ### [El 90 % de los ictus podrían prevenirse: esto es lo que recomiendan los neurólogos - El Debate](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd25pdEliRjNoWndZejRRZkdIUkZKX0NwSjBfTUpCZVNWSHpRZ20yTmYyLS0wWmd5WjFHb0tqalRnRmVfdmh1MjdiOTY3cFBsakExTVBPdVJLc0pBWERzNGlzZUotUGd4alhMel9PeW5DV0ZqWW9WNGdzQkJRdElKOGhBYUpUODJyUGszOGlYcXNvS3JEaXhsZ3RMU1I2U05YMVJ2cEQzazdzNUpHRGhYTXdMM1ZwdHlrb1lXRXR3OHVOaXPSAcgBQVVfeXFMTWszYmR2dmtJYUZwTlN6YUhabFVZT3c5QU8yZ0ZnVkZmNmI5Wk5mRHJXU3NGblMxYUs2QnU5STR2S20yc3Y2THRKeGhHSUg1SmJ4Qjc2ZkgzUTJvcGJsSm0xU3NIc1dtamtQNDhpRHRlWFg2TV9FTE5LekdxZ2Z0MVhuY0hQZGJzdmlwRUg5NTR6ZHB6Y1FqTDBOT0NwMmpfRl84OUNnWlhlT2F6M0JnWVlYR0VUZkh0YmEzYk5GNWFvZW8zVzJ1Q3M?oc=5)
 

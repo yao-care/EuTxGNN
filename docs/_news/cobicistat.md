@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,39 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（4 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [La hepatitis D, la más grave, deja de ser una enfermedad sin tratamiento para ser una prioridad clínica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
+
+2026-07-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
+
+---
+
+### [Carmina Montoliu: “El gran desafío es diagnosticar la hepatitis a tiempo”](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[elperiodic.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
+
+---
+
+### [España mantiene el paso firme para eliminar la hepatitis C antes de 2030 - Diario de Sevilla](https://news.google.com/rss/articles/CBMiowFBVV95cUxQalY1UDA0dVhRUkxKLVNvVkp3b3c3NjFmenh0WmwyLUI4Tzhlay1MME9UOERlZ3NmaUZBNXQ1QS1HOHZrVTMzeUpaUF94dmRPanZsZmxvd1NwUDU3TUZ1Z2FrS0dJc2Vmb0hsUVg1bUp4aGhkcUJNYlJzdTMxOEN3ZlhYZm9fOTFtb3pTSWc1dGZuZDlQNVNCZTRody1aNWpZT1Nj0gGoAUFVX3lxTE1CSFYtdEZGcFltNXpyMHpEdHpUM1lQRWI4VHNVUkI3MVVxdHZCd2NJc1hYYXBYYWVseXdfT1hwdWtmWEJ2cDJtRFJWTWJDRDRMMlpUMXF3X2EyajR3NFppaWlwbE9oNVc1dm55SzNreFluYWRCY2FfMThrbGxqYkROeUxCLV9jSmdBdVVWY3B4b3VRWGY1SnNNdk5tUWZveDlScmZCY2lUUA?oc=5)
+
+2026-07-27 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiowFBVV95cUxQalY1UDA0dVhRUkxKLVNvVkp3b3c3NjFmenh0WmwyLUI4Tzhlay1MME9UOERlZ3NmaUZBNXQ1QS1HOHZrVTMzeUpaUF94dmRPanZsZmxvd1NwUDU3TUZ1Z2FrS0dJc2Vmb0hsUVg1bUp4aGhkcUJNYlJzdTMxOEN3ZlhYZm9fOTFtb3pTSWc1dGZuZDlQNVNCZTRody1aNWpZT1Nj0gGoAUFVX3lxTE1CSFYtdEZGcFltNXpyMHpEdHpUM1lQRWI4VHNVUkI3MVVxdHZCd2NJc1hYYXBYYWVseXdfT1hwdWtmWEJ2cDJtRFJWTWJDRDRMMlpUMXF3X2EyajR3NFppaWlwbE9oNVc1dm55SzNreFluYWRCY2FfMThrbGxqYkROeUxCLV9jSmdBdVVWY3B4b3VRWGY1SnNNdk5tUWZveDlScmZCY2lUUA?oc=5)
+
+---
+
+### [Epatite C, a Novara oltre 1.600 pazienti guariti: lo screening gratuito prorogato a fine 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
+
+2026-07-26 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+
+來源：[NovaraToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

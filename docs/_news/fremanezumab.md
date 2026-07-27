@@ -14,7 +14,7 @@ permalink: /news/fremanezumab/
 ---
 
 <p class="key-answer" data-question="Fremanezumab 有什麼相關新聞？">
-<strong>Fremanezumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fremanezumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/fremanezumab/
 <p><a href="{{ '/drugs/fremanezumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+---
 
 ### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
 

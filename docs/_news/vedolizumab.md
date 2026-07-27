@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="Vedolizumab 有什麼相關新聞？">
-<strong>Vedolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vedolizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/vedolizumab/
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
-### [Millions may have early liver disease without knowing it, warns surgeon - the first clue could be in the mirror - GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
+### [Hallan una huella bioquímica que identifica mayor riesgo de mortalidad en diabetes y resistencia a insulina](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
 
-2026-07-26 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span>
+2026-07-27 <span class="news-indication-tag">diabetes</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvLWZWaEpGU0ZOeU5MNnRBSTdqOFVKbC1jcGhpWkE4UUN0empWVDhwdzNpR2FJRHlyY2xtTGdqcm4xQ3daR1RMRTd2dFV6bzRBX0t4b0Z0SUQ0NzI2a2ZPcGlyNVZ0bEZ3TEhwQU5RNkZvUVhY?oc=5)
-
----
-
-### [La «pandemia metabólica» de la diabetes se triplica en América e impulsa nuevos fármacos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
-
-2026-07-26 <span class="news-indication-tag">diabetes</span>
-
-來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiekFVX3lxTE41REZkcmlxcHJOSWE5TXhyVGdyTFkzUjA5aHkzZVpaWllwUGVKLVIxd0dVNy1OdG41OFNISjFsek1FeUFESlJ2SHpCb21QUm9TbWZmQzF4cGlCRFF0ZWVVWTRNakZjYldxNUVURXpVUGNCa2NVcGtLUFZn?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1BKQmlFYUlwZ1pzMGxBMjBqVjN3UmpHMzBDS18xOXBHRGZTUVlSR1hJN24wRF9CSVg0S0xDblpFempZMmQ4MERaOEJrNWlJaXpCYXI1SElWbXpMN1NoT3gwUHhvem5OcVFrbXduekVrQ1FmTEJTUUZ0NUd2X0ZIak1SaWFROEI0c1U4dUNrbERRQmFSajVuNGVxTUtBNGhfdDNBSVNVZWJfeTl4YjhGUXRJZmVEM29nOXFpLS02SkVNNmZKM3BqR0hHU0x2UmhXczBObUE5STctaDREeFpQMlhfTDYtSDBwT1dmTXdvdEVidURfZHc?oc=5)
 
 ---
 
@@ -78,27 +70,11 @@ permalink: /news/vedolizumab/
 
 ---
 
-### [Espinacas y brócoli contra la EPOC: las verduras de hoja verde reducen un 16 % el riesgo de enfermedad pulmonar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
-
-2026-07-26 <span class="news-indication-tag">EPOC</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
-
----
-
 ### [La pire façon de boire son café pour le cerveau : elle accélère le déclin cognitif après 50 ans - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
 
 2026-07-26 <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXoxT3ZRc3p3OGFoRDNlYjdBbjdxX1BFaHN3bDJDYVFSV3ZlZzZsWGY2OThFRGQ3MGFpb2xEZVVLMVRUdDJPUWNNZU9VbE5nUEFnR2swYUgyNjNEeWpUTjkta1F4LTgxaEREV2h3X1JCYUlFYXUwMTNOai1HaUNoRkRmcmZBaUZySGF6QTI1YzVtUnRM?oc=5)
-
----
-
-### [Una huella bioquímica identifica a las personas con diabetes y resistencia a la insulina con mayor riesgo de mortalidad - Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
-
-2026-07-25 <span class="news-indication-tag">diabetes</span>
-
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaGJzb090VEc1SDJJNGpvSm5Eb21oZFR0RVVFRS1qaTdUY2lUalFxdWhITWpaZjhwai1pQk1JUThzZGpzRHJGUHlxQ0lhN3RyOFBvREN2RU1JSk9pTUpaMFBvbGk4cFJVdDlQazI1dWFYU1g0YUpNZ1UwUk1uWlQ1VzFKY2FRWlotZU5iajdmdkthSmxDYW5TVjJxRV9JblAxYWQ5c0VzMTBoX2pQS1pMSkJQMkVaT2tlbTQ1cHFCeTFfcUtuVl82ZW05bU4xRkRUT1BaXzc3SGxQYXJDaVR2M0hTdWVqVnJaSHkyRnM2NA?oc=5)
 
 ---
 

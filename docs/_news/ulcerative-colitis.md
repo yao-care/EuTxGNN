@@ -34,11 +34,11 @@ permalink: /news/ulcerative-colitis/
 
 ## 相關新聞（1 則）
 
-### [Wearables: Darmschübe bis sieben Wochen früher erkennen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1VVWmJ1RnVvRFpselJaYUg1b2RQSV8zLXJYdEVCTERDeWJ0Rk1rVHZKbVUxSV9GNjEtN0FHWkJJQ2dOSEhrR2ZVNjJ5TjdmVmNtSWV4WVNRNWtFclI5eEhtS0hEMzRxRWJNYTFHVGdpRnYwS01GS0NYZlREbWEwaXJCSy1oZTRmbUtQTUxhclZjWjN3czRUcXdZRWtOVExpYUM2ckI1RUY?oc=5)
+### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
 
 2026-07-27
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1VVWmJ1RnVvRFpselJaYUg1b2RQSV8zLXJYdEVCTERDeWJ0Rk1rVHZKbVUxSV9GNjEtN0FHWkJJQ2dOSEhrR2ZVNjJ5TjdmVmNtSWV4WVNRNWtFclI5eEhtS0hEMzRxRWJNYTFHVGdpRnYwS01GS0NYZlREbWEwaXJCSy1oZTRmbUtQTUxhclZjWjN3czRUcXdZRWtOVExpYUM2ckI1RUY?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
 
 ---
 

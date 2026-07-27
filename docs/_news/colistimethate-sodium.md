@@ -54,19 +54,19 @@ permalink: /news/colistimethate-sodium/
 
 ## 相關新聞（2 則）
 
+### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+2026-07-27 <span class="news-indication-tag">artritis</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+---
+
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 2026-07-26 <span class="news-indication-tag">arthritis</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
 ---
 

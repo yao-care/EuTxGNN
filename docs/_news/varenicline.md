@@ -54,19 +54,19 @@ permalink: /news/varenicline/
 
 ## 相關新聞（2 則）
 
+### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+---
+
 ### [Orages, chaleur, pression atmosphérique : pourquoi certaines migraines s’aggravent en été ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
 
 2026-07-26 <span class="news-indication-tag">migraine</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
-
----
-
-### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
 ---
 

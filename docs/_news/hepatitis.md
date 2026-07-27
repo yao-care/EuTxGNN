@@ -1,62 +1,63 @@
 ---
 layout: default
-title: "Ritonavir 相關新聞"
+title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Ritonavir 的相關健康新聞報導。原適應症：Ritonavir is indicated in combination with other a...。預測適應症 20 個。"
-permalink: /news/ritonavir/
+description: "epatite（hepatitis） 的相關健康新聞報導。4 則新聞、25 個相關藥物。"
+permalink: /news/hepatitis/
 ---
 
-# Ritonavir 相關新聞
+# epatite（hepatitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
+<strong>epatite（hepatitis）</strong> 目前有 <strong>4 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合 Ritonavir 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
+本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
-<div class="drug-info-card">
-<strong>藥物資訊</strong>
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><strong>原適應症</strong>：Ritonavir is indicated in combination with other antiretroviral agents for the treatment of HIV 1 infected patients (adults and children of 2 years of age and older).</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（20 個）：<ul>
-<li>HIV infectious disease（100.0%）</li>
-<li>simian immunodeficiency virus infection（99.9%）</li>
-<li>feline acquired immunodeficiency syndrome（99.9%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.9%）</li>
-<li>obsolete familial combined hyperlipidemia（99.8%）</li>
-<li>chronic hepatitis C virus infection（99.5%）</li>
-<li>AIDS（98.4%）</li>
-<li>hepatitis B virus infection（98.1%）</li>
-<li>hepatitis C virus infection（96.9%）</li>
-<li>AIDS related complex（96.7%）</li>
-<li>congenital human immunodeficiency virus（96.7%）</li>
-<li>chronic hepatitis B virus infection（96.4%）</li>
-<li>fibroma of prostate（95.8%）</li>
-<li>hepatitis E virus infection（95.5%）</li>
-<li>hepatitis, viral, animal（95.5%）</li>
-<li>hepatitis A virus infection（95.4%）</li>
-<li>Omsk hemorrhagic fever（95.4%）</li>
-<li>benign reproductive system neoplasm（95.4%）</li>
-<li>Brenner tumor（95.3%）</li>
-<li>Kyasanur forest disease（95.2%）</li>
-</ul></li>
+<li><a href="{{ '/drugs/abacavir/' | relative_url }}">Abacavir</a></li>
+<li><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">Baloxavir Marboxil</a></li>
+<li><a href="{{ '/drugs/bictegravir/' | relative_url }}">Bictegravir</a></li>
+<li><a href="{{ '/drugs/cobicistat/' | relative_url }}">Cobicistat</a></li>
+<li><a href="{{ '/drugs/deferasirox/' | relative_url }}">Deferasirox</a></li>
+<li><a href="{{ '/drugs/dolutegravir/' | relative_url }}">Dolutegravir</a></li>
+<li><a href="{{ '/drugs/elbasvir/' | relative_url }}">Elbasvir</a></li>
+<li><a href="{{ '/drugs/elvitegravir/' | relative_url }}">Elvitegravir</a></li>
+<li><a href="{{ '/drugs/emtricitabine/' | relative_url }}">Emtricitabine</a></li>
+<li><a href="{{ '/drugs/entecavir/' | relative_url }}">Entecavir</a></li>
+<li><a href="{{ '/drugs/givosiran/' | relative_url }}">Givosiran</a></li>
+<li><a href="{{ '/drugs/glecaprevir/' | relative_url }}">Glecaprevir</a></li>
+<li><a href="{{ '/drugs/grazoprevir/' | relative_url }}">Grazoprevir</a></li>
+<li><a href="{{ '/drugs/lamivudine/' | relative_url }}">Lamivudine</a></li>
+<li><a href="{{ '/drugs/ledipasvir/' | relative_url }}">Ledipasvir</a></li>
+<li><a href="{{ '/drugs/lopinavir/' | relative_url }}">Lopinavir</a></li>
+<li><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">Peginterferon Alfa-2A</a></li>
+<li><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Pibrentasvir</a></li>
+<li><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">Rilpivirine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/ritonavir/' | relative_url }}">Ritonavir</a></li>
+<li><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">Sofosbuvir</a></li>
+<li><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">Tenofovir Alafenamide</a></li>
+<li><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">Tenofovir Disoproxil</a></li>
+<li><a href="{{ '/drugs/teriflunomide/' | relative_url }}">Teriflunomide</a></li>
+<li><a href="{{ '/drugs/velpatasvir/' | relative_url }}">Velpatasvir</a></li>
 </ul>
-<p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（4 則）
 
 ### [La hepatitis D, la más grave, deja de ser una enfermedad sin tratamiento para ser una prioridad clínica](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
 
-2026-07-27 <span class="news-indication-tag">hepatitis</span>
+2026-07-27
 
 來源：[Servimedia](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEpSbUljY0FOZVJ6NTNIdW1sMzVTekFfdEV3ejB3ZVFxa3FjdXVuaXhkVzg3UEhla3VqZnpCSkNhTHg0ZnJLMTR5WUloWVV2WlBpZmpoNHA4dGRuYXVmVGw0RjFsMEY0QkZ2WjZHd2ZjeHc2eDIyYTR5bEZKV1hNZzZydVZBU1B4dmwyVEVyRUV2ME50LVAxM0VGdG1IR3V3RFUxS204MlpNbENPTXdIaEh6NVZNMDYwOVZna3BCSXdlY1p3cTN4czd5Tlk0NDg?oc=5)
 
@@ -64,7 +65,7 @@ permalink: /news/ritonavir/
 
 ### [Carmina Montoliu: “El gran desafío es diagnosticar la hepatitis a tiempo”](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
 
-2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-07-27
 
 來源：[elperiodic.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnFlbDF0QkwtYTctNGJ4QmhhSTZ1b2tEdDE2UGdqMFNsTm1vYnBRVlVwS0JRQkNTQlpYdEhXaElWR0MtUS1DLVFDeEZHSGxLZTBnVW1QendyZjV2N2ZLN0p6TXdFRHNuVmVWa0NvZU1sVXF1S3J0WjRpNm9oR05FYWdpa3hJOTBtcmRUVVNRdUlzMTVzSkwybkVIVHAwTkR1ejR5bmln?oc=5)
 
@@ -72,7 +73,7 @@ permalink: /news/ritonavir/
 
 ### [España mantiene el paso firme para eliminar la hepatitis C antes de 2030 - Diario de Sevilla](https://news.google.com/rss/articles/CBMiowFBVV95cUxQalY1UDA0dVhRUkxKLVNvVkp3b3c3NjFmenh0WmwyLUI4Tzhlay1MME9UOERlZ3NmaUZBNXQ1QS1HOHZrVTMzeUpaUF94dmRPanZsZmxvd1NwUDU3TUZ1Z2FrS0dJc2Vmb0hsUVg1bUp4aGhkcUJNYlJzdTMxOEN3ZlhYZm9fOTFtb3pTSWc1dGZuZDlQNVNCZTRody1aNWpZT1Nj0gGoAUFVX3lxTE1CSFYtdEZGcFltNXpyMHpEdHpUM1lQRWI4VHNVUkI3MVVxdHZCd2NJc1hYYXBYYWVseXdfT1hwdWtmWEJ2cDJtRFJWTWJDRDRMMlpUMXF3X2EyajR3NFppaWlwbE9oNVc1dm55SzNreFluYWRCY2FfMThrbGxqYkROeUxCLV9jSmdBdVVWY3B4b3VRWGY1SnNNdk5tUWZveDlScmZCY2lUUA?oc=5)
 
-2026-07-27 <span class="news-indication-tag">hepatitis</span>
+2026-07-27
 
 來源：[Diario de Sevilla](https://news.google.com/rss/articles/CBMiowFBVV95cUxQalY1UDA0dVhRUkxKLVNvVkp3b3c3NjFmenh0WmwyLUI4Tzhlay1MME9UOERlZ3NmaUZBNXQ1QS1HOHZrVTMzeUpaUF94dmRPanZsZmxvd1NwUDU3TUZ1Z2FrS0dJc2Vmb0hsUVg1bUp4aGhkcUJNYlJzdTMxOEN3ZlhYZm9fOTFtb3pTSWc1dGZuZDlQNVNCZTRody1aNWpZT1Nj0gGoAUFVX3lxTE1CSFYtdEZGcFltNXpyMHpEdHpUM1lQRWI4VHNVUkI3MVVxdHZCd2NJc1hYYXBYYWVseXdfT1hwdWtmWEJ2cDJtRFJWTWJDRDRMMlpUMXF3X2EyajR3NFppaWlwbE9oNVc1dm55SzNreFluYWRCY2FfMThrbGxqYkROeUxCLV9jSmdBdVVWY3B4b3VRWGY1SnNNdk5tUWZveDlScmZCY2lUUA?oc=5)
 
@@ -80,7 +81,7 @@ permalink: /news/ritonavir/
 
 ### [Epatite C, a Novara oltre 1.600 pazienti guariti: lo screening gratuito prorogato a fine 2026](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-07-26
 
 來源：[NovaraToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGJsUWI1UmVSS0Qzd1dsaDdxZ0Q1Vm5QM1k3VElYOWtMcG10aU81Zk40RHE3clpGWXFjYWhyaUJNOWROYzluVEMyWWJpcDNsY05SZEVvQ21XVzVnZkM0UU9xS1IwQ0VXbEMxeHpEc3I4YTZ4NU1pNGVEdXhIbTRkajVkN3JoMjBBRFZvTXhkbzFVUDN6eUd3Tm5xTQ?oc=5)
 
@@ -90,39 +91,3 @@ permalink: /news/ritonavir/
 <div class="disclaimer">
 <strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>

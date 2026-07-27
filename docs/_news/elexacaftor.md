@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+2026-07-27 <span class="news-indication-tag">artritis</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+---
+
+### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
+
+---
 
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
@@ -67,14 +83,6 @@ permalink: /news/elexacaftor/
 2026-07-26 <span class="news-indication-tag">migraine</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnFUc2dlZ3U5aVJTOFR0eE54UF9ud0FkQkxNeXlhUG5KQWtuZDRrOVZnZ1NiOFZUblg1ZVNEdEsxMUFzaDJmdWFWU2VieHRaUjhVQ2NsVDRXaTRqR2pRdGhmT3FJd2E0S3F2MEcwRmFFZ0pRNUJkcHNoRFJaUGtFd28tdmxlb2VodUNXbkU0NG9Yd29QU1d3bUliOXYzejNtUlIyOG0zR0EwYUc2Q1l3UldHOFZidGtFaVdvZ3VSanNjZGF1b0JWUGhSaXNTWGpqUXA1WUN4N0h6Vm8?oc=5)
-
----
-
-### [On attend des symptômes pour s'inquiéter de sa tension : des cardiologues expliquent pourquoi c'est déjà trop tard](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMizwFBVV95cUxOeU1QSmhYQW9uaWxoUVByZ0ZFd2U1Z3kyeGJNSHlZc1BRdjlMdEtlZjh1SWtjNmtkbDBjT1ZPbV9fQ2ozN0dGOC0tVW55cXlZa3BXMG9FOVRRNFR4NzltQW5ZazFYYVdfb2lrVTliZ0VVUTQ3MXdyWHNoS3cxNzFhQ1liYmRDOUY5SFJOSm9EUVc3UWFPUWxkM25ZdGIyN050M3NsYWxNQmlScDJXbzJJOE02TGRVY3NLN0tTUkJQaDdNb1VUWEVuX1hoZmZyUlE?oc=5)
 
 ---
 

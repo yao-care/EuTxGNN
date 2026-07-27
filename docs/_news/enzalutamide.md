@@ -14,7 +14,7 @@ permalink: /news/enzalutamide/
 ---
 
 <p class="key-answer" data-question="Enzalutamide 有什麼相關新聞？">
-<strong>Enzalutamide</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Enzalutamide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,55 @@ permalink: /news/enzalutamide/
 <p><a href="{{ '/drugs/enzalutamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（19 則）
+
+### [Una nuova molecola rende i tumori più vulnerabili a radio e chemioterapia: "Così si possono ridurre le dosi" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
+
+---
+
+### [Das Immunsystem im Kampf gegen Krebs – warum moderne Krebsmedizin mehr als den Tumor betrachtet](https://news.google.com/rss/articles/CBMizgFBVV95cUxOR2lWWnFLc09lNUg2bVR6cjBfZlJZSWZoQ1l2ZWZwTGxlbFhsb1hiVE9udzl4dHZlRF9XM09CYkFCOFQzMDhvVFpLdFc4Sjl4clVXTlpyMlE4Yno1WHI0cjdicmFqMnhsV1lxZEhMZG9ZeWpteGR6cTlDX2tRa1pTY0tDMFVDdi1VYUlqQ0lKSVZxRk9ubWxvSDIzNktsNmNaMzNjenpvRWg5YXJjVE5TVnVNdGZwbnZpSHpVRGxrSTJVRXZKTmtnZ0JjdmxIUQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">tumor</span>
+
+來源：[openPR.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOR2lWWnFLc09lNUg2bVR6cjBfZlJZSWZoQ1l2ZWZwTGxlbFhsb1hiVE9udzl4dHZlRF9XM09CYkFCOFQzMDhvVFpLdFc4Sjl4clVXTlpyMlE4Yno1WHI0cjdicmFqMnhsV1lxZEhMZG9ZeWpteGR6cTlDX2tRa1pTY0tDMFVDdi1VYUlqQ0lKSVZxRk9ubWxvSDIzNktsNmNaMzNjenpvRWg5YXJjVE5TVnVNdGZwbnZpSHpVRGxrSTJVRXZKTmtnZ0JjdmxIUQ?oc=5)
+
+---
+
+### [How many cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
+
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
+
+---
+
+### [Tumori, nanoparticelle d’oro per portare la chemioterapia più vicino al bersaglio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmk1d2d2T2U5VlRBT2E2cmVaaGw0ckVxUDZ3NDJ0NU5ZN09VeGZsUFVFUlhudExTbTBSSC1PQlRSMzRaMVA1TGVXZzM0TTVsZ1EtTWo5ekF3Y094UTE2N1JiLTJNeXRSdVZoeF9RNUNXd2JaM00wUC1uN2UzUHhZSFUtOHdPSGJITDdVeU5hbG5QRVZQOVdYMzJnNkFoS2twc1FZQk1WRE5VLW9PRDRWcVlhSHNQd1lKSUJaTnY1NTdZc2UyMEdmTmFCcEFpUW1EV2tHV0ZB?oc=5)
+
+2026-07-27 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmk1d2d2T2U5VlRBT2E2cmVaaGw0ckVxUDZ3NDJ0NU5ZN09VeGZsUFVFUlhudExTbTBSSC1PQlRSMzRaMVA1TGVXZzM0TTVsZ1EtTWo5ekF3Y094UTE2N1JiLTJNeXRSdVZoeF9RNUNXd2JaM00wUC1uN2UzUHhZSFUtOHdPSGJITDdVeU5hbG5QRVZQOVdYMzJnNkFoS2twc1FZQk1WRE5VLW9PRDRWcVlhSHNQd1lKSUJaTnY1NTdZc2UyMEdmTmFCcEFpUW1EV2tHV0ZB?oc=5)
+
+---
+
+### [«La radioterapia ha mejorado tanto que ya es un competidor de la cirugía en determinados tumores» - Diario Sur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOGpZQk9wVkZBRHB6VUg2R2V4ZWllZ1pZN1lVaVNqbUNLQlNjczJIR2FjRUYwVUo5RkI0VDhaMGZsLTJVNEdXNXpDU1BIUXdwZ1JCUVZ6ZEEzY1VKN0NJbXR4Y2ZpeU83MGpGRXlPZzU3SWp3aVpCMlFCMG9SUkEtd0FWVlgwUEZQUG9ycnpiYzN0ZXFRN3REMnR6bXl6ck96dmRqbm9RdjJwdUs1aHVrWjB6TzdncE5KMHl1UTNHSlUzd9IBxwFBVV95cUxNeUU4RjlwdHRFVVhZNWpsdU1LYjVJTjBvR2VFeXR4VG5EZ1hMeV9RcTFtVmZnNlpockkyT0VxakJXdE0wX09XQWp5ZjNMd3FkeG5zRVlGREdGc29hSENTaE5raGpCS0ZzcHRrdzZhYXhTTTlIYVJYa0F2SDkwTlVMbEoydmc0SjgwR21YYmZPenZmN0JPbXFxTmlGc3RONU5aMHJnLTRDNGRuaXdOc0JwQmNOVWZGd2hYalZpbjk3TFZiLVpCUFIw?oc=5)
+
+2026-07-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOGpZQk9wVkZBRHB6VUg2R2V4ZWllZ1pZN1lVaVNqbUNLQlNjczJIR2FjRUYwVUo5RkI0VDhaMGZsLTJVNEdXNXpDU1BIUXdwZ1JCUVZ6ZEEzY1VKN0NJbXR4Y2ZpeU83MGpGRXlPZzU3SWp3aVpCMlFCMG9SUkEtd0FWVlgwUEZQUG9ycnpiYzN0ZXFRN3REMnR6bXl6ck96dmRqbm9RdjJwdUs1aHVrWjB6TzdncE5KMHl1UTNHSlUzd9IBxwFBVV95cUxNeUU4RjlwdHRFVVhZNWpsdU1LYjVJTjBvR2VFeXR4VG5EZ1hMeV9RcTFtVmZnNlpockkyT0VxakJXdE0wX09XQWp5ZjNMd3FkeG5zRVlGREdGc29hSENTaE5raGpCS0ZzcHRrdzZhYXhTTTlIYVJYa0F2SDkwTlVMbEoydmc0SjgwR21YYmZPenZmN0JPbXFxTmlGc3RONU5aMHJnLTRDNGRuaXdOc0JwQmNOVWZGd2hYalZpbjk3TFZiLVpCUFIw?oc=5)
+
+---
+
+### [Tumore al seno, chi rischia di più il linfedema dopo l’intervento?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWxtN0NKbHIyX1JiWkZESXZEUVFETEdUXzlDajJRa3RmYjdXaHdDckFWSkFJMy1yaEs1UTVCbER3RGNHTGZyUlNoNUNId0p2TVJ0ZUg0Ulh2V1RNUVdfVmFmZWUzMXhwdDRwcm1uRGZJaVB1VzRVRHRFMFhIQ2FiQnNFM3hySlZ4dWlCM2haTEM2OUdCZDJEVVFSMjdzckp3emt2WFk5bTFDajVIR1VrX2VvLUpRMVJBQ2s5NUY2eTM?oc=5)
+
+2026-07-26 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWxtN0NKbHIyX1JiWkZESXZEUVFETEdUXzlDajJRa3RmYjdXaHdDckFWSkFJMy1yaEs1UTVCbER3RGNHTGZyUlNoNUNId0p2TVJ0ZUg0Ulh2V1RNUVdfVmFmZWUzMXhwdDRwcm1uRGZJaVB1VzRVRHRFMFhIQ2FiQnNFM3hySlZ4dWlCM2haTEM2OUdCZDJEVVFSMjdzckp3emt2WFk5bTFDajVIR1VrX2VvLUpRMVJBQ2s5NUY2eTM?oc=5)
+
+---
 
 ### [Elderly shut out of ‘golden age’ of cancer care - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm5veWFrdnpkZVRISEtxcVlzblAxZXBEamxGWnJPMXV0b2pCVzlEYVMwR2tMRlhpMjJoYzhUV1RITFRiUzFnX1RMbWdQN29PU3lfdWFiSmZnUUo4TUJzc2huSEJBb3FvaUJRSWpkb3N3YmpNdklpelZSTDdjMVpqcUxfVWxSWmZsTHdYT0Q0SnpRdVdYc2VjNWNsaGE?oc=5)
 
@@ -64,7 +112,7 @@ permalink: /news/enzalutamide/
 
 ### [Vaccino personalizzato contro il melanoma: la nuova rivoluzione nelle cure](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZLb3FWMXM1R0pRaVh6b0xUMENPcFhSWXNLNDFXbldNeTRRbkt6d21FNEM0VWxURVZleHpjbGNGNXVnT1VnOUVQQ3BwZnk5UWhxVW5QWEFKbF9xY2hEbUZQd0FiZEx2c0lWbXV1UW9LcGNCa28xdHlsQUViOFZib0REaEVybEQ5V3BhbFZOWk9nTlhWNTk3MkNMMDhDWTJTNU41cURfX1ozaU9pY2pNdzFYbV94Z3dJcTgwQ1c4aDNiQQ?oc=5)
 
-2026-07-26 <span class="news-indication-tag">cancro</span>
+2026-07-26 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZLb3FWMXM1R0pRaVh6b0xUMENPcFhSWXNLNDFXbldNeTRRbkt6d21FNEM0VWxURVZleHpjbGNGNXVnT1VnOUVQQ3BwZnk5UWhxVW5QWEFKbF9xY2hEbUZQd0FiZEx2c0lWbXV1UW9LcGNCa28xdHlsQUViOFZib0REaEVybEQ5V3BhbFZOWk9nTlhWNTk3MkNMMDhDWTJTNU41cURfX1ozaU9pY2pNdzFYbV94Z3dJcTgwQ1c4aDNiQQ?oc=5)
 
@@ -118,14 +166,6 @@ permalink: /news/enzalutamide/
 
 ---
 
-### [Durchbruch in der Brustkrebsdiagnose: Neue Methode verbessert Überlebenschancen deutlich](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXc4Y3NjTUlPa2ZRRGc1dC1tMHVTbkdJeUphZWFsNUZyRUV1aUhpWnh0blFrdkpTZjBRVGlRVTV0UjZwTXB4Ym03SmdFbUlkOUQ3Ql9aOW9IWmRQQ2pCYWJWUE1vY19Cd0dkZUUwSERkbmRCM0hYVWw1emdFSXZDZ0lUMDlBSkpQNVRZUkVFM1o5TmFhV0x6cUtWOGh5WGlQS2VSMkZ2bmVZVmNwR3ZYbEc3bXdWaVpfckE?oc=5)
-
-2026-07-26 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heidelberg24](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXc4Y3NjTUlPa2ZRRGc1dC1tMHVTbkdJeUphZWFsNUZyRUV1aUhpWnh0blFrdkpTZjBRVGlRVTV0UjZwTXB4Ym03SmdFbUlkOUQ3Ql9aOW9IWmRQQ2pCYWJWUE1vY19Cd0dkZUUwSERkbmRCM0hYVWw1emdFSXZDZ0lUMDlBSkpQNVRZUkVFM1o5TmFhV0x6cUtWOGh5WGlQS2VSMkZ2bmVZVmNwR3ZYbEc3bXdWaVpfckE?oc=5)
-
----
-
 ### ["C'est un immense soulagement" : après un traitement expérimental à Rome, la petite Lyséa est en rémission complète de son cancer - France 3 Régions](https://news.google.com/rss/articles/CBMipwJBVV95cUxQbWgwOGVkUVNNQVR3RVB0UGxzQ1A5bGMxWnZpNjlEdXVPbmRfd0FlUzlIZVBJOXgyeXlrNVhkRldRcVNhcElnUDNSWFk4RnpVODlncTNkVHRVUERIQWxUZ09URk8tX0xKMHg4RFJ5MmQyc2dOcmhQOVRhR3ZUbnFTSzg4aEd5M3RXOE9CSC1VUzNPMUFOUEhfVXZtWlF6RjUtVHVleDJIano4Y28zOXVkcVQ0ZE0zNi1NRGtWbVZMMnlWZFE2dk1Oa1lzSUdIOTVFSVlZZjAxVndQNmJiRUs4UXFYVU5yT19kVTdkYm12bWpfRm9RS2lJM3gzZks5LWJzNi1ET1hZdnJFVUhuNmx3V0xVNElTUXNsQWIwNXVUWGxmRmw4MWZZ?oc=5)
 
 2026-07-25 <span class="news-indication-tag">cancer</span>
@@ -142,6 +182,14 @@ permalink: /news/enzalutamide/
 
 ---
 
+### [Mariano Barbacid, bioquímico: "En 2030 el cáncer de páncreas será el segundo cáncer con mayor incidencia"](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHo2SzdGZy12cDJoYXM2b245NHIwX0d0ZmJSZ0w0V3VHTDQ2ZmhTUWpCTnRqcnlHTDZEaFVHRWlMMUd1ZWdXNWNvbVBjRFhhU2cySlZkdE1EU2t3M0FIQVBZc2hkRTNwSk5KaDhMWGx0N3Z1UDl4SDRvMS1BaHpVR25sajRYUkNXdWlCaWtMcXJxQUtSSHlXY2RkcWdLZ3ZrT3NtRnB4SlpXVm9HYm1ZaHZLaS1nZw?oc=5)
+
+2026-07-25 <span class="news-indication-tag">tumor</span>
+
+來源：[20Minutos](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHo2SzdGZy12cDJoYXM2b245NHIwX0d0ZmJSZ0w0V3VHTDQ2ZmhTUWpCTnRqcnlHTDZEaFVHRWlMMUd1ZWdXNWNvbVBjRFhhU2cySlZkdE1EU2t3M0FIQVBZc2hkRTNwSk5KaDhMWGx0N3Z1UDl4SDRvMS1BaHpVR25sajRYUkNXdWlCaWtMcXJxQUtSSHlXY2RkcWdLZ3ZrT3NtRnB4SlpXVm9HYm1ZaHZLaS1nZw?oc=5)
+
+---
+
 ### [Newport children's nurse says neuroblastoma diagnosis for her son has been 'horrendous'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ydEdiUTZjVXZocHp3cGxYMHd6V1Y0UjJmMG5EWDJQNWtBU0NaN3dpdTZtN2NDSGdHU1E4SU9EWXU3ZWQ5czh1X3BLNFdiTm5iNmVTMlV4NlRfUUZP?oc=5)
 
 2026-07-25 <span class="news-indication-tag">cancer</span>
@@ -150,27 +198,11 @@ permalink: /news/enzalutamide/
 
 ---
 
-### [Tumore del rene: la nuova chirurgia che salva organi e qualità della vita](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlVfQm9JdVFSNmtLWkpZa3VCMHA5dzliRTd2VEZWekJtaHg2Q0NmbXB2ZTZrelpYNXpBSTBFa0l6YnQyeF9aZm1BTjJvdnQxbHIwZVBudkU3TmluUU1xclVMX25qeWNQeEJMM2hFQndHdm1aZnd6aEtQUmtoSW96WWduWnp6aWIybTJsYzdHMjVWUVJzNmVnY1pxWThCeElLWWtXenREN1dVUU1uMDR0V0dka2QwbWI1ejJsV2U4RDVqQW10Wm9NS0l2UDM?oc=5)
-
-2026-07-25 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlVfQm9JdVFSNmtLWkpZa3VCMHA5dzliRTd2VEZWekJtaHg2Q0NmbXB2ZTZrelpYNXpBSTBFa0l6YnQyeF9aZm1BTjJvdnQxbHIwZVBudkU3TmluUU1xclVMX25qeWNQeEJMM2hFQndHdm1aZnd6aEtQUmtoSW96WWduWnp6aWIybTJsYzdHMjVWUVJzNmVnY1pxWThCeElLWWtXenREN1dVUU1uMDR0V0dka2QwbWI1ejJsV2U4RDVqQW10Wm9NS0l2UDM?oc=5)
-
----
-
 ### [Mediziner findet Achillesferse resistenter Brustkrebszellen - Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
 
 2026-07-25 <span class="news-indication-tag">Krebs</span>
 
 來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlFnS1VtOWFEZEpZY3pzOHRrR0Y4SFFXaWV4bGNJRldKMmZXWFV5ZzZ6emQ2cGNNZlVMVnVNN3NyTExmdmw0aUIxVWhabWRQUHZuRm5kakpjZlVsVnZaMklfa1A1Z2daQng0N0FVM08wTDZUNUJYNHVVVDdGQnJuTzQtendNTVdLU0hQZkFuZkwwTFBLM18za25XSXh2bDI3U21lUktNU2ZTYWdBR08zUzZhMEROUGhEWEhNdlhB?oc=5)
-
----
-
-### [Quand ils ont une envie de sucre, ces 3 cancérologues choisissent toujours cet aliment - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnE0S3dfYU92Ni1aeGVTNVVMMEs3c3RRSHEzNjNNdHpWMUZfdTNzd1BsR0YwYzBWZkstRVl2UUIzZXYwY21jb1BiT0lGOFU0cWU5YjNmOW9iZEtxSV9xSWxqeDBNYWMydHVZMFBrREhpanpFSWwwUF9adV9vY2NqNjlFcldVWVVGQ0NDY1pZWXQ?oc=5)
-
-2026-07-25 <span class="news-indication-tag">cancer</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnE0S3dfYU92Ni1aeGVTNVVMMEs3c3RRSHEzNjNNdHpWMUZfdTNzd1BsR0YwYzBWZkstRVl2UUIzZXYwY21jb1BiT0lGOFU0cWU5YjNmOW9iZEtxSV9xSWxqeDBNYWMydHVZMFBrREhpanpFSWwwUF9adV9vY2NqNjlFcldVWVVGQ0NDY1pZWXQ?oc=5)
 
 ---
 

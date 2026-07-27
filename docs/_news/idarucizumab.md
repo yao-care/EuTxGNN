@@ -54,6 +54,14 @@ permalink: /news/idarucizumab/
 
 ## 相關新聞（4 則）
 
+### [Ni milagro ni mito: el ejercicio reduce el dolor de la artrosis de cadera, pero con un efecto limitado](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+2026-07-27 <span class="news-indication-tag">artritis</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWJpbEVtT1k5TW1Ka3A1ZUtLcnBZSzAzdVZycWxISjJwSDJialMtNzZrczFfLUUwc2JkR3dQQ1cxTS1KZW50RWlxZG8zcVV2TGRpMEZJSVcyVWZkYUtCMGd1OWpFQnhFdXdDaWdxcUJ5Y1hOM0ZaVHRUdm5USi14MFpPT1JSYlRrRmdtUkR5bVpmY2lBRkFRdVBRSEZYcVNIM0w3dHhXQmZGM1NpOU1hWkJkdW9fajBucFNDOGRxRjlrRDZVdV9LQmpXUlpwZVRjREFIbGNSUGY?oc=5)
+
+---
+
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 2026-07-26 <span class="news-indication-tag">arthritis</span>
@@ -67,14 +75,6 @@ permalink: /news/idarucizumab/
 2026-07-26 <span class="news-indication-tag">copd</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
-
----
-
-### [Espinacas y brócoli contra la EPOC: las verduras de hoja verde reducen un 16 % el riesgo de enfermedad pulmonar](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
-
-2026-07-26 <span class="news-indication-tag">EPOC</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREZXUm5rMXZ4aE9YaHJYR3Bmc1RocnpSdWVDaXc3N0RSS2haV3hTVjVLTTBOYnh0MVUzNlpUQkwwRXRudEdqOXRYRzhtaVNNeG9ZRERBTy1zQWhzWXpjalk0c1VGbjhwTmtNQ0Q1VVdIUjNPSXFBWGsyMDR4b0x5Slg3Rkc5VGgtNTI2Zzh0V0NkWGJubmRNaXBEZVg5a0RMLTZHeG81RUFUU3Y5T2IxMTg3cnhGZ0dqQUE1NXQzNmJ3LVVYN1A1QjNEbXl0TDY1WWdGbEtfUzBleEhmR210Yw?oc=5)
 
 ---
 
