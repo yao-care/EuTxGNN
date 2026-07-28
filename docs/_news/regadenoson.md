@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [Las olas de calor elevan las exacerbaciones en el asma y la mortalidad respiratoria - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1ppRE1NczZNcHRvR1MzSkJ2b0NYU0htWFBjZ0NNbVJCdmhsYktJMDNhcnV3MndPQTdqVldhQ0RBb04yWmI1NW1obDcyWC1WdEJ4S2FwUmE0YXI5UlZGQkN2SHJFZWxmYTlnUmo5OHNnaElqYTJZVEJyNmJWSFAtSWctZm1zTWgwTkctTnBtcTJaN190YjVZNE9fSWJMNGdwcEJuNDgxWnlaSVVBQ2hrazM1N2ZxS3B4Z0RTQk1jbkJrN0HSAb4BQVVfeXFMTWdpSi1IM1RXeEJaQVEtYUxVVEZTOUJSenVkTFM5STg4enFFNHViS2NXMWIwNl9ma3R6T29LWUo5TktNZWE2T09sdFZrelpBanBILUZTZmVJTWdZcXRqNUFtTnR4WmxCaUVYd0xyR0ZYV0pia2JJLVhMZ0VZSVdraF84QUdma2NObGlkUGZtRlRLRGtVdlZTdmZCbXl1TFp3TENmNlJ0OG55b2JYYWZwMjdrSGFYUEtVNkxsUFNyQQ?oc=5)
-
-2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1ppRE1NczZNcHRvR1MzSkJ2b0NYU0htWFBjZ0NNbVJCdmhsYktJMDNhcnV3MndPQTdqVldhQ0RBb04yWmI1NW1obDcyWC1WdEJ4S2FwUmE0YXI5UlZGQkN2SHJFZWxmYTlnUmo5OHNnaElqYTJZVEJyNmJWSFAtSWctZm1zTWgwTkctTnBtcTJaN190YjVZNE9fSWJMNGdwcEJuNDgxWnlaSVVBQ2hrazM1N2ZxS3B4Z0RTQk1jbkJrN0HSAb4BQVVfeXFMTWdpSi1IM1RXeEJaQVEtYUxVVEZTOUJSenVkTFM5STg4enFFNHViS2NXMWIwNl9ma3R6T29LWUo5TktNZWE2T09sdFZrelpBanBILUZTZmVJTWdZcXRqNUFtTnR4WmxCaUVYd0xyR0ZYV0pia2JJLVhMZ0VZSVdraF84QUdma2NObGlkUGZtRlRLRGtVdlZTdmZCbXl1TFp3TENmNlJ0OG55b2JYYWZwMjdrSGFYUEtVNkxsUFNyQQ?oc=5)
-
----
-
-### [Emicrania, la risonanza rivela cosa potrebbe accadere nei muscoli del collo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
-
----
-
-### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Migräne</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

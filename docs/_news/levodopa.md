@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,23 +46,9 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Save your brain — stop late-night snacking - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">dementia</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
-
----
-
-### [6 simple ways to give your brain a boost](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm1HUlBPRkNGd0VLNkJJVndvOXA2ckVfamR3ajZWWGJRcWFNZDBQOUVrdE5ic0c0dUQydUdZeWMwLWMwaTZSd1BkckNiZ3piMjJiN1cyWTlPQXMwMUZndEdVdXdSMVBIUDY3dmlNcTVoMXFITXhZeWdqNURxX1V0VFlxZnN2MU9tMjMxT1JwanA0YVNWaUp5N1hLNA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[RTE.ie](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm1HUlBPRkNGd0VLNkJJVndvOXA2ckVfamR3ajZWWGJRcWFNZDBQOUVrdE5ic0c0dUQydUdZeWMwLWMwaTZSd1BkckNiZ3piMjJiN1cyWTlPQXMwMUZndEdVdXdSMVBIUDY3dmlNcTVoMXFITXhZeWdqNURxX1V0VFlxZnN2MU9tMjMxT1JwanA0YVNWaUp5N1hLNA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

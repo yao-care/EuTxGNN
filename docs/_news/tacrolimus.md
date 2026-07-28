@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
+<li>psoriasis（98.7%）</li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -52,31 +52,9 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [Ema. Via libera a 12 nuovi farmaci, tra cui impianto oculare rivoluzionario e primo orale per la psoriasi - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObDQwVkFQTWlnTzFvRHNmZnVsdEt1d2NyRnotTTJ5M3lfRnpHc2hGSi1kbG5Ic1F3WmJVQXUwQ1lyd2tHVU50TGY1d0xCMER0ZHJFeGJOSDNPWW5sc2dHOUE1SkNQSjdOY1k0UTlKZDV1aXlIaXVfT1JoZFV5S0JBTnoybUlzOTBCaklMamFNaGk3bG1ubHBKZ0pSc2NKbWRobmZ3QXVSUjVseU9OOW9VWWQ3LXBIMGQxeXRmeW5MWnplbFBSUV9pWnVGSXhKQkFBaVJPYzFCSXBsbURhdExjVHFZVDRmaW1rSFE?oc=5)
-
-2026-07-27 <span class="news-indication-tag">soriasi</span>
-
-來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObDQwVkFQTWlnTzFvRHNmZnVsdEt1d2NyRnotTTJ5M3lfRnpHc2hGSi1kbG5Ic1F3WmJVQXUwQ1lyd2tHVU50TGY1d0xCMER0ZHJFeGJOSDNPWW5sc2dHOUE1SkNQSjdOY1k0UTlKZDV1aXlIaXVfT1JoZFV5S0JBTnoybUlzOTBCaklMamFNaGk3bG1ubHBKZ0pSc2NKbWRobmZ3QXVSUjVseU9OOW9VWWQ3LXBIMGQxeXRmeW5MWnplbFBSUV9pWnVGSXhKQkFBaVJPYzFCSXBsbURhdExjVHFZVDRmaW1rSFE?oc=5)
-
----
-
-### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
-2026-07-27 <span class="news-indication-tag">arthritis</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

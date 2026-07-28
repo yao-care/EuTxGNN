@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,87 +52,9 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（0 則）
 
-### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
-
----
-
-### [Obesità infantile, curare il bambino non basta: il risultato cambia quando si muove tutta la famiglia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExVR2dXbWFVU3NzeTV6SDk0bVRBRG9MeDlKTE4wNDdHVld5cks2Mmp5aDNyOFk0VEh6NkRkSjRIQUJiM25fb2VSWnN4eHdQSUlkUVN4Ti1Ba2gwR2VaN29LcGpvV2pyN0ZjLW1ocE4wUmlFbkVaR2JScVlXS1EzMmpFcFhyMEJzdWc2RGdESlNzUVJTY05UTHpGZmtBWWdzZmtrbWJnTGNnSnFYbWwxdHR4Tnl3Mkc0T2hQZDlqSWJNYlBjZ3A1SXJMejFEZmlWVVAtVHd0MjJjbXp5aUZhUFRkLUZ4UlV2NXFkZFE5UlQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">obesità</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExVR2dXbWFVU3NzeTV6SDk0bVRBRG9MeDlKTE4wNDdHVld5cks2Mmp5aDNyOFk0VEh6NkRkSjRIQUJiM25fb2VSWnN4eHdQSUlkUVN4Ti1Ba2gwR2VaN29LcGpvV2pyN0ZjLW1ocE4wUmlFbkVaR2JScVlXS1EzMmpFcFhyMEJzdWc2RGdESlNzUVJTY05UTHpGZmtBWWdzZmtrbWJnTGNnSnFYbWwxdHR4Tnl3Mkc0T2hQZDlqSWJNYlBjZ3A1SXJMejFEZmlWVVAtVHd0MjJjbXp5aUZhUFRkLUZ4UlV2NXFkZFE5UlQ?oc=5)
-
----
-
-### [Weight-loss jab users warned about relationship side effect no one prepares you for](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
-
-2026-07-27 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
-
----
-
-### [Schlaganfall: Jeder zweite Patient profitiert von früher kognitiver Therapie - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
-
----
-
-### [A woman who hadn't spoken an intelligible word in twenty years, silenced by a stroke, can form spoken sentences again — not by moving her mouth but through an experimental implant that reads the speech centres of her brain and turns her attempts to spea - Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">stroke</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVEtRVXdXZ1FfNFpkTDQ2LVdjc3RlLXZodU9MR3RhdGdZUFZEUmVtaERBb05SRURwa1ZJb1V1c2dfYlR2Nl92WllpeHZXS1NoekVsYXZjZ3hsTDdOakRnSmZqdk91TENFalczNFljd0tUdUh0Sm5vOVVUcjd3REJZXzBUZGFFOXk5ODhKS1puSzlYYTU0UlkwODJoeDd3V1hRZjg1R0U0WVBqNXZjVjVpUVBYbmlvVF9jdU8ydTFNYW1rWXpQSFppSDhkMVktNmVKNlM2Uy1iTGlJTnZIRldmVDF0UEFXcVBiaW81bW5CYkR0Y1F0a01zeXBDYmlvcThReUlzaEhZbDdoTkZoZjFNTzFpQTFXU25kZElKNzROaHVhX2s0Q25aYWlvTjRLMWhUbVJVOEx1UVQ?oc=5)
-
----
-
-### [PMOS-Diagnose: Jede achte Frau betroffen – Betriebe müssen handeln](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU196S1pOcE9sZm1CblcyandtYURSUThGdHNWdHcydmVZdFRBMWgwSTlWREtiNUpTU19QSmltR2pROFhqTlpkZGFYWnVjTGNSN3RyX0MyMFBTTHQwenJXaE5rOGlHa1BIaGdtaF9ZaGpuRkEzTmpvNFhhTlZuYS1Cd1JBTWFsZnVZcUJZVkNONHltclhSUkVoTWRUNGxzeXotQ2VEV083bkNWZ1RKNDhYRg?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPU196S1pOcE9sZm1CblcyandtYURSUThGdHNWdHcydmVZdFRBMWgwSTlWREtiNUpTU19QSmltR2pROFhqTlpkZGFYWnVjTGNSN3RyX0MyMFBTTHQwenJXaE5rOGlHa1BIaGdtaF9ZaGpuRkEzTmpvNFhhTlZuYS1Cd1JBTWFsZnVZcUJZVkNONHltclhSUkVoTWRUNGxzeXotQ2VEV083bkNWZ1RKNDhYRg?oc=5)
-
----
-
-### [Psoriasis: American Heart Association warnt vor Herzinfarkt-Risiko](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
----
-
-### [Sì, ha ragione la Bbc: la dieta mediterranea sta sparendo e così diventiamo sempre più obesi - la Repubblica](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXNXZVlfYjBCYndkM0lyaE9qRzNqZlc0Wm15NS02bW1GeDJqQWQ0YkNOWUpPN3RfQWZXd19kWHNDOTlCUHk2OENCR1dGdzhTNXM3NnI1cUJ1SndFNXBqMFVkbVAwRzJ4dWZrXzc1R3RJbFpjUEtaM0RCcjc3c2NiNHhmeWZZNGttSmlNZmFiVHR4a1lBS0dId0U1QldtbUJXMFJRTlRnRHA0WWMwWnZxOTYyM185czhIVzYwWEtzSHRxNV95QmVxcE13NjVudlNDSjBRQkdrZ1ROcXlfa0tnenBjckwwY1XSAewBQVVfeXFMUGxjZ1NKSUQwcmxyRXZlQ2lyYlRWblBOeGwwV29TT2czS0lvenpaUGtUMmhVZUk5UW16ekNkZjRHbEVqd2JmNkFkV1V4RVlQSHJ4djdBajZ0Z18xUW5XNW9PMHlLR2s2SjlxcmZuampka3Q2dWRSeEp2SmtzMU5namtQWUR4Wi1kLVZTdWp6RWJOa0tfeHhreHdObDZMendmZF9OS19NVTRSVVc4OTBCX0Q4MDNyNjlCQkFpM0F4NVExdTRzZ1JPV0VZSEtDRFB4aGJqZmJ5Z0djU1ZZOGVlakdRRTBVUVptazV3S2E?oc=5)
-
-2026-07-27 <span class="news-indication-tag">obesità</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXNXZVlfYjBCYndkM0lyaE9qRzNqZlc0Wm15NS02bW1GeDJqQWQ0YkNOWUpPN3RfQWZXd19kWHNDOTlCUHk2OENCR1dGdzhTNXM3NnI1cUJ1SndFNXBqMFVkbVAwRzJ4dWZrXzc1R3RJbFpjUEtaM0RCcjc3c2NiNHhmeWZZNGttSmlNZmFiVHR4a1lBS0dId0U1QldtbUJXMFJRTlRnRHA0WWMwWnZxOTYyM185czhIVzYwWEtzSHRxNV95QmVxcE13NjVudlNDSjBRQkdrZ1ROcXlfa0tnenBjckwwY1XSAewBQVVfeXFMUGxjZ1NKSUQwcmxyRXZlQ2lyYlRWblBOeGwwV29TT2czS0lvenpaUGtUMmhVZUk5UW16ekNkZjRHbEVqd2JmNkFkV1V4RVlQSHJ4djdBajZ0Z18xUW5XNW9PMHlLR2s2SjlxcmZuampka3Q2dWRSeEp2SmtzMU5namtQWUR4Wi1kLVZTdWp6RWJOa0tfeHhreHdObDZMendmZF9OS19NVTRSVVc4OTBCX0Q4MDNyNjlCQkFpM0F4NVExdTRzZ1JPV0VZSEtDRFB4aGJqZmJ5Z0djU1ZZOGVlakdRRTBVUVptazV3S2E?oc=5)
-
----
-
-### [La semaglutide può aumentare il rischio di perdita dei capelli](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
-
-2026-07-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[AGI](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
-
----
-
-### [Obésité aux États-Unis : les données de 300 millions de dossiers médicaux révèlent une décrue inédite liée aux traitements GLP-1](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
-
-2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [KI-Biomarker und Wearables bei Morbus Crohn: Früherkennung bis zu zehn Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
-
----
-
-### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
-2026-07-27 <span class="news-indication-tag">arthritis</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

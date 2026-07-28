@@ -14,7 +14,7 @@ permalink: /news/artenimol/
 ---
 
 <p class="key-answer" data-question="Artenimol 有什麼相關新聞？">
-<strong>Artenimol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Artenimol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/artenimol/
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
-2026-07-27 <span class="news-indication-tag">arthritis</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

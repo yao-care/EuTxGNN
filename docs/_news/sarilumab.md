@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,39 +52,9 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [Las olas de calor elevan las exacerbaciones en el asma y la mortalidad respiratoria - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1ppRE1NczZNcHRvR1MzSkJ2b0NYU0htWFBjZ0NNbVJCdmhsYktJMDNhcnV3MndPQTdqVldhQ0RBb04yWmI1NW1obDcyWC1WdEJ4S2FwUmE0YXI5UlZGQkN2SHJFZWxmYTlnUmo5OHNnaElqYTJZVEJyNmJWSFAtSWctZm1zTWgwTkctTnBtcTJaN190YjVZNE9fSWJMNGdwcEJuNDgxWnlaSVVBQ2hrazM1N2ZxS3B4Z0RTQk1jbkJrN0HSAb4BQVVfeXFMTWdpSi1IM1RXeEJaQVEtYUxVVEZTOUJSenVkTFM5STg4enFFNHViS2NXMWIwNl9ma3R6T29LWUo5TktNZWE2T09sdFZrelpBanBILUZTZmVJTWdZcXRqNUFtTnR4WmxCaUVYd0xyR0ZYV0pia2JJLVhMZ0VZSVdraF84QUdma2NObGlkUGZtRlRLRGtVdlZTdmZCbXl1TFp3TENmNlJ0OG55b2JYYWZwMjdrSGFYUEtVNkxsUFNyQQ?oc=5)
-
-2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1ppRE1NczZNcHRvR1MzSkJ2b0NYU0htWFBjZ0NNbVJCdmhsYktJMDNhcnV3MndPQTdqVldhQ0RBb04yWmI1NW1obDcyWC1WdEJ4S2FwUmE0YXI5UlZGQkN2SHJFZWxmYTlnUmo5OHNnaElqYTJZVEJyNmJWSFAtSWctZm1zTWgwTkctTnBtcTJaN190YjVZNE9fSWJMNGdwcEJuNDgxWnlaSVVBQ2hrazM1N2ZxS3B4Z0RTQk1jbkJrN0HSAb4BQVVfeXFMTWdpSi1IM1RXeEJaQVEtYUxVVEZTOUJSenVkTFM5STg4enFFNHViS2NXMWIwNl9ma3R6T29LWUo5TktNZWE2T09sdFZrelpBanBILUZTZmVJTWdZcXRqNUFtTnR4WmxCaUVYd0xyR0ZYV0pia2JJLVhMZ0VZSVdraF84QUdma2NObGlkUGZtRlRLRGtVdlZTdmZCbXl1TFp3TENmNlJ0OG55b2JYYWZwMjdrSGFYUEtVNkxsUFNyQQ?oc=5)
-
----
-
-### [KI-Biomarker und Wearables bei Morbus Crohn: Früherkennung bis zu zehn Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
-
----
-
-### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
-2026-07-27 <span class="news-indication-tag">arthritis</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [COPD: Klinikaufenthalt steigert leitliniengerechte Therapiequote auf 80 Prozent - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
-
-2026-07-26 <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJieGx4T3pzQkMweWVUSk5ZMmRaOWUtMW1HNEY3STZjUi1xNklkU3NzRGJlVldDcmcyQmVfbU00emtfQVN1UzJFSWx6LXViczFZMXJlLUlBeEcwSGctLW5idWx4TElNbHFsNHB3bVdFMkxKOFU3dVVkM3BRSi1IaDBjbWFLdGE0UUIxSklzVHJwYUxvN1NDY3dGVGdpR0F3TFRjakszNHRIVnYweVM1bU1B?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
