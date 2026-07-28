@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,31 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+
+2026-07-28 <span class="news-indication-tag">stroke</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+
+---
+
+### [PMOS-Leitlinie: Nur jede dritte Frau bekommt eine gesicherte Diagnose - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+
+---
+
+### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+---
 
 
 <div class="disclaimer">

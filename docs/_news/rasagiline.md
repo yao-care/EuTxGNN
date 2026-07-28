@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="Rasagiline 有什麼相關新聞？">
-<strong>Rasagiline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasagiline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/rasagiline/
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Intermittent fasting linked to better brain health – but the method you use matters - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
+
+2026-07-28 <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
+
+---
 
 
 <div class="disclaimer">

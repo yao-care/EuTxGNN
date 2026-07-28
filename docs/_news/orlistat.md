@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,47 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（5 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+
+2026-07-28 <span class="news-indication-tag">stroke</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+
+---
+
+### [PMOS-Leitlinie: Nur jede dritte Frau bekommt eine gesicherte Diagnose - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+
+---
+
+### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">obesità</span>
+
+來源：[Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
+
+---
+
+### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+---
+
+### [Il Piccolo Lucio lo aveva detto: God save la dieta mediterranea](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">obesità</span>
+
+來源：[Domani](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

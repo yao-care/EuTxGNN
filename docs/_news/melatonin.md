@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,31 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">obesità</span>
+
+來源：[Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
+
+---
+
+### [Emicrania, la risonanza rivela cosa potrebbe accadere nei muscoli del collo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
+
+2026-07-27 <span class="news-indication-tag">emicrania</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
+
+---
+
+### [Il Piccolo Lucio lo aveva detto: God save la dieta mediterranea](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">obesità</span>
+
+來源：[Domani](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
