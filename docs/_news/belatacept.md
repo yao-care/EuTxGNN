@@ -31,7 +31,7 @@ permalink: /news/belatacept/
 <li>indolent plasma cell myeloma（96.9%）</li>
 <li>relapsing-remitting multiple sclerosis（96.8%）</li>
 <li>Crohn's colitis（96.2%）</li>
-<li class="indication-matched">heart disease（94.6%）<span class="indication-tag">📰 Herzerkrankung</span></li>
+<li>heart disease（94.6%）</li>
 <li>Laubry-Pezzi syndrome（94.1%）</li>
 <li>hyperthyroidism（93.8%）</li>
 <li>genetic syndromic Pierre Robin syndrome（93.7%）</li>
@@ -54,6 +54,38 @@ permalink: /news/belatacept/
 
 ## 相關新聞（34 則）
 
+### [Las olas de calor elevan las exacerbaciones en el asma y la mortalidad respiratoria - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1ppRE1NczZNcHRvR1MzSkJ2b0NYU0htWFBjZ0NNbVJCdmhsYktJMDNhcnV3MndPQTdqVldhQ0RBb04yWmI1NW1obDcyWC1WdEJ4S2FwUmE0YXI5UlZGQkN2SHJFZWxmYTlnUmo5OHNnaElqYTJZVEJyNmJWSFAtSWctZm1zTWgwTkctTnBtcTJaN190YjVZNE9fSWJMNGdwcEJuNDgxWnlaSVVBQ2hrazM1N2ZxS3B4Z0RTQk1jbkJrN0HSAb4BQVVfeXFMTWdpSi1IM1RXeEJaQVEtYUxVVEZTOUJSenVkTFM5STg4enFFNHViS2NXMWIwNl9ma3R6T29LWUo5TktNZWE2T09sdFZrelpBanBILUZTZmVJTWdZcXRqNUFtTnR4WmxCaUVYd0xyR0ZYV0pia2JJLVhMZ0VZSVdraF84QUdma2NObGlkUGZtRlRLRGtVdlZTdmZCbXl1TFp3TENmNlJ0OG55b2JYYWZwMjdrSGFYUEtVNkxsUFNyQQ?oc=5)
+
+2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1ppRE1NczZNcHRvR1MzSkJ2b0NYU0htWFBjZ0NNbVJCdmhsYktJMDNhcnV3MndPQTdqVldhQ0RBb04yWmI1NW1obDcyWC1WdEJ4S2FwUmE0YXI5UlZGQkN2SHJFZWxmYTlnUmo5OHNnaElqYTJZVEJyNmJWSFAtSWctZm1zTWgwTkctTnBtcTJaN190YjVZNE9fSWJMNGdwcEJuNDgxWnlaSVVBQ2hrazM1N2ZxS3B4Z0RTQk1jbkJrN0HSAb4BQVVfeXFMTWdpSi1IM1RXeEJaQVEtYUxVVEZTOUJSenVkTFM5STg4enFFNHViS2NXMWIwNl9ma3R6T29LWUo5TktNZWE2T09sdFZrelpBanBILUZTZmVJTWdZcXRqNUFtTnR4WmxCaUVYd0xyR0ZYV0pia2JJLVhMZ0VZSVdraF84QUdma2NObGlkUGZtRlRLRGtVdlZTdmZCbXl1TFp3TENmNlJ0OG55b2JYYWZwMjdrSGFYUEtVNkxsUFNyQQ?oc=5)
+
+---
+
+### [CKM-Syndrom: Krebsrisiko steigt um 25–30% in fortgeschrittenen Stadien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWszTzZqTVEyc3BOZ1lOcGNOb1kxYi1yYXNzNE84MlJyWFpfNHNndXhiakl5WnpyS0dqcnNzMzVoTzhjVmtKQU4tWXR6elVWeUtESlNTZlFYTGhJaE1LLXVOZFNPX25wOTEyREZ5UFlJZW9KU0dNQmtyekFHc0hscXB1Zko5Tk5tNmtDQzhlUGpKdF8yRHNjeWNHSF8xLVAwWFMwVHZFWmpDSWZ1Vm9KQXdJb0JzWUVV?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Krebs</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWszTzZqTVEyc3BOZ1lOcGNOb1kxYi1yYXNzNE84MlJyWFpfNHNndXhiakl5WnpyS0dqcnNzMzVoTzhjVmtKQU4tWXR6elVWeUtESlNTZlFYTGhJaE1LLXVOZFNPX25wOTEyREZ5UFlJZW9KU0dNQmtyekFHc0hscXB1Zko5Tk5tNmtDQzhlUGpKdF8yRHNjeWNHSF8xLVAwWFMwVHZFWmpDSWZ1Vm9KQXdJb0JzWUVV?oc=5)
+
+---
+
+### [On pensait le petit verre de rouge du dimanche bon pour le cœur : l'OMS vient de trancher sur la dose réellement sans danger](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3ptODdVMzRYbEFZLVAxN2VlUE9HRTVYWjQ5dzJrbVZBZS1WNGNaS3A5QVp1a2lRYjAtUVlFRGVTS1JiYnJXZUNlS1RxdUNIYXhSQTJxZHpOeXMzU0Q1U2ZzVVZfNENqWnd0dGdNRUtHQ01Yd1NwMDg0NUI4OWhidTcyUlR5TzhRSlRuRnlDcU51eXpMdkhDTk1yYTFLNnZLTllmSzhzX3phZlBCVnFueWQtVXZoaG4xSWt0V05UaDAtQmdRbzdOOGFTMXRqYllZSkIwZVNIMDFXel84QUpB?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3ptODdVMzRYbEFZLVAxN2VlUE9HRTVYWjQ5dzJrbVZBZS1WNGNaS3A5QVp1a2lRYjAtUVlFRGVTS1JiYnJXZUNlS1RxdUNIYXhSQTJxZHpOeXMzU0Q1U2ZzVVZfNENqWnd0dGdNRUtHQ01Yd1NwMDg0NUI4OWhidTcyUlR5TzhRSlRuRnlDcU51eXpMdkhDTk1yYTFLNnZLTllmSzhzX3phZlBCVnFueWQtVXZoaG4xSWt0V05UaDAtQmdRbzdOOGFTMXRqYllZSkIwZVNIMDFXel84QUpB?oc=5)
+
+---
+
+### [Industrial poultry farming leads to 100-fold increase in food-poisoning bacteria, study finds - Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDBPRmJSNzlNTVNyRHhJQnZwdGVjdVJNdGcxNExDTXh4NnpmNFFMdDdTdm1KdHppRjhMU29BSlFObXRzaXVMSm85T0dWNzBMQUVfYl9qT29vcEFNVTY1ZVQ4VFAtNGJyQUU1RWNMWWlhSFF6T2RZejhQMUpMT3lVN255Q3FiY3d0LW5OX09YQ2NFM09uUV9wRWUxOTlaNjlFVEYxU1Y3T3FJdWthQnQ1RXYyTVlEYmtJOWMtV1Utd3JNUkUzWjhv?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDBPRmJSNzlNTVNyRHhJQnZwdGVjdVJNdGcxNExDTXh4NnpmNFFMdDdTdm1KdHppRjhMU29BSlFObXRzaXVMSm85T0dWNzBMQUVfYl9qT29vcEFNVTY1ZVQ4VFAtNGJyQUU1RWNMWWlhSFF6T2RZejhQMUpMT3lVN255Q3FiY3d0LW5OX09YQ2NFM09uUV9wRWUxOTlaNjlFVEYxU1Y3T3FJdWthQnQ1RXYyTVlEYmtJOWMtV1Utd3JNUkUzWjhv?oc=5)
+
+---
+
 ### [Vuelve el virus del Nilo Occidental: cómo se transmite y principales síntomas - Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNyYmtBWEhCVjZIeG8wOGJfWWtzSGpTNTlGMk1TdHlYSi1xamkwczBnbXI2YldVd0JQTFNUU19VRU0xcHZrVC1GZExqMEVRdUxuQ1UyU2JOVGZ4M3pDRFhIZmxXRGZEUHp6RzZQTmpnSDd6NS0xX2k4VnZBYjJhZmN6MXBzQVVkRmhWc2RqejNHWTZZNk03QThtRkZTX1dOd01ndV9KYTcwY1FrWmxFbXNGUU5iV2VK?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span>
@@ -62,19 +94,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [Darmmikrobiom als Faktor bei Lupus und MS: neue Mechanismen und Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2E2Y09LUUxld0pBVFh0cmpqVWxXWGd1d1pDUTVUaWhsTFE5MWhrLUQtTFNxYm5UZW1ZckhoY1EwTGJDUnk1NkFuUEpEQl9RMGt5VFFZQ2dOTGFkeGJfTDFQUVkyNV9SRkV5d0JlV2RINExYczk5WmhiTktCblFTYXROTGRDa2l3MUR4UW5uMDZhVW5IQW9qUmlQYWlIenhLTlVuLWZZVmY?oc=5)
+### [World risks HIV resurgence as funding falls 18%, UNAIDS says](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEdyUHZVN2hZVi1aSm9yckxMcG96eDdNQ3JMUjNPVTRKSkItYWVKdnFDSzVPeklGY0YwSGdUQmVlOGE1dlJBT3ZIVFY0RFpQY3dhUDU1eW1oMHltNkhwZkRaMlBOSWdVWXhYcjY4V1ZBcURWSUtQT2k1YUI4T1FOckpwSWR1eWNuTUhzYnRTeHkyUmhtTzRmRmpsSXFzamFTb285RmlBaG9DTnVRZ3RfZldBcFNaTnY2WEdvUnhEOGJFekVmLWc?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2E2Y09LUUxld0pBVFh0cmpqVWxXWGd1d1pDUTVUaWhsTFE5MWhrLUQtTFNxYm5UZW1ZckhoY1EwTGJDUnk1NkFuUEpEQl9RMGt5VFFZQ2dOTGFkeGJfTDFQUVkyNV9SRkV5d0JlV2RINExYczk5WmhiTktCblFTYXROTGRDa2l3MUR4UW5uMDZhVW5IQW9qUmlQYWlIenhLTlVuLWZZVmY?oc=5)
-
----
-
-### [Demenzrisiko: Antientzündliche Ernährung senkt es um 29 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBmTE5jaFJHaGVwdVE1V3NILU5TSGVaLUtLX2JvNU9YYnN4bmNMMEsxZFFXN3l3MGI3TkJGX2k5dFdhNEhnYTVoSE91Z0xqMVRxVHdHWkZnV3pfLTZFVElwVzFCclkxQi1NT0RwR1V6TnBRQldkeHpxR2tMeVVtRG1RZUo1V3dTU3B6aUxGTDRJTE9DdGdYSXp4cDlxd0ZHcTRhR2VwYy1UZ2N2Tm9QZ2t3WQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBmTE5jaFJHaGVwdVE1V3NILU5TSGVaLUtLX2JvNU9YYnN4bmNMMEsxZFFXN3l3MGI3TkJGX2k5dFdhNEhnYTVoSE91Z0xqMVRxVHdHWkZnV3pfLTZFVElwVzFCclkxQi1NT0RwR1V6TnBRQldkeHpxR2tMeVVtRG1RZUo1V3dTU3B6aUxGTDRJTE9DdGdYSXp4cDlxd0ZHcTRhR2VwYy1UZ2N2Tm9QZ2t3WQ?oc=5)
+來源：[Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEdyUHZVN2hZVi1aSm9yckxMcG96eDdNQ3JMUjNPVTRKSkItYWVKdnFDSzVPeklGY0YwSGdUQmVlOGE1dlJBT3ZIVFY0RFpQY3dhUDU1eW1oMHltNkhwZkRaMlBOSWdVWXhYcjY4V1ZBcURWSUtQT2k1YUI4T1FOckpwSWR1eWNuTUhzYnRTeHkyUmhtTzRmRmpsSXFzamFTb285RmlBaG9DTnVRZ3RfZldBcFNaTnY2WEdvUnhEOGJFekVmLWc?oc=5)
 
 ---
 
@@ -94,14 +118,6 @@ permalink: /news/belatacept/
 
 ---
 
-### [Herzerkrankung: Digoxin lindert Herzinsuffizienz bei 55 Millionen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
-
----
-
 ### [Senkt Kaffee das Krebsrisiko? Aktuelle Forschung im Check - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDVta2RpNEtUakRndUcwVk5sX0NlVlFXVVhvV0tfS091Zkk4cmUyeDhyTDBLS1NIcjhJdzhFRkQzamd4Z2RkRTJUOTdCdzBXRm1HLTNhMHM2T25zRjFjdXdxWTFnd1VmZ01JS051VDdBbWE2MlJoR05KbExteXRIUXFhMVdwa2p5NDFhTDdVS0lXNzBSREU3b1NqWVNZV00?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -112,7 +128,7 @@ permalink: /news/belatacept/
 
 ### [Epatite C: migliaia di italiani non sanno di averla. Un semplice test può evitare cirrosi e tumore del fegato](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5)
 
-2026-07-27 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">epatite</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">epatite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0lMTmFzV3VDMnJKMVByQlRLT1lVQjk4WENNWnl4Qnpsc25Vd29WQmI3eFdra0JZc3FsdENQS0VBLW52MktoTkpGaXNfM2toZzR6Ujg5VWFXWnhxM1EwdHllc1RnaDFSTUxDcy1HRDROVVdGakppWTI4THprc2ROSXYzUWNwRU5zWUpVbDBYTFBhandjd2hoRGp4OUZzNkNiaTE5ODd3M1IxWkhocGJfSEdsX3lVVUxVWkFLTm1obTh6MjRXYV9femNrTkdHMDJmNUE2dHdqV3hZcHU0aWtrVzI2dzBPLWlhck9uOGg1aw?oc=5)
 
@@ -134,14 +150,6 @@ permalink: /news/belatacept/
 
 ---
 
-### [Melanoma, bufera su Rasio: “Il sole non lo provoca”. Gli esperti: “I raggi UV aumentano il rischio” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
----
-
 ### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -158,19 +166,19 @@ permalink: /news/belatacept/
 
 ---
 
-### [Scientists decipher how T cells sense enemies—such as cancer—at point of contact - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxON0h5TC11Q29EX2JoX211c1p3UFJkWFM4a0w0UHo4eXJIOEIzQUI0OUxxVV9iQ25hZG1lS0phSmt5aXA3amNSMmU0c3NlTjJUblVGSGNtZ3dwM1JyRmNnaDd4eVlLQkJiU0pDQWJBUlYycDUwLXE4eGtfQndWYlNkRGpOamRtRk9TcTVTYg?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxON0h5TC11Q29EX2JoX211c1p3UFJkWFM4a0w0UHo4eXJIOEIzQUI0OUxxVV9iQ25hZG1lS0phSmt5aXA3amNSMmU0c3NlTjJUblVGSGNtZ3dwM1JyRmNnaDd4eVlLQkJiU0pDQWJBUlYycDUwLXE4eGtfQndWYlNkRGpOamRtRk9TcTVTYg?oc=5)
-
----
-
 ### [Brustkrebs: Gallensäuren ein wesentlicher Faktor](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTERpUzhfRW85RjR3NjJweTlUSF9yWFY2NFFVcUc2dXRNbmxfTDVlM0Q3Tm8yR1N5Y01JakJWakdQZHdCQ0ptcmpVXzg0Y2Fudkg2b2hycXJnN0wwQlR5ZlFRODExcGJVZTI3T3lscllWMVZSZXlRSHRhNEsxRzJsT1R4aGFIQkFlWnlZeVJSeGI2S0xFclN0MzkzX0o0WVpKcEFmdDRweDJkNDNCb3c?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Krebs</span>
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTERpUzhfRW85RjR3NjJweTlUSF9yWFY2NFFVcUc2dXRNbmxfTDVlM0Q3Tm8yR1N5Y01JakJWakdQZHdCQ0ptcmpVXzg0Y2Fudkg2b2hycXJnN0wwQlR5ZlFRODExcGJVZTI3T3lscllWMVZSZXlRSHRhNEsxRzJsT1R4aGFIQkFlWnlZeVJSeGI2S0xFclN0MzkzX0o0WVpKcEFmdDRweDJkNDNCb3c?oc=5)
+
+---
+
+### [Multiple Sklerose: Diese Bakterien der Darmflora können schützen](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
 
 ---
 
@@ -182,11 +190,11 @@ permalink: /news/belatacept/
 
 ---
 
-### [SEPAR alerta de que las olas de calor agravan el asma y la EPOC y pueden aumentar la mortalidad respiratoria](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+### [Scientists Discover the First Contagious Cancer in a Freshwater Animal](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdG1Ld2ZQdnFGNGREVWFhYlVxUk5CY2JXYklyM3hjZV9tUTM5RnVfV1dzd0Nkakczb1lvTnI4SnJ2NFkwR0pyQnE5NVhpRzNYTlk4S1NoWWhmelBkMVk1WmtJYnQxeVBIZi1uOHB6bm56Y09XMHVhQlh5WExyNVI3SGZtbGxvUXdfMHJXZ0xrR0lGcDZlaGhXLXlqT1A?oc=5)
 
-2026-07-27 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span>
 
-來源：[LaSexta](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc3BHLWFTbzBidDJfSjk3XzBvVUpRVnNYSE5vaUdYelFLSUVHLWtKOW96YzROOXB1M3lBZ0FMRVo2aVYtZlltSFVaVVBVRDI0NzRUY3BVcVNhamx5OEVzeVVLQzBZV2taVVFmbFF2TC1jSjlqZFlCemNCNFR4TVQ3X3lRWUlfSExsdldSSDB2OURFU1E5T3M2VEdUTWZSaHpHZHJiejdFaEk3RjVxWVh1N2Z6QnFCbmNnMmtDNjVvTjI0VVVMOWJ6ZHd4eGIwenBVb2tIOEFJLVJnc2M0Rks1eklIOFRVbElJdTFvdF9yWGxuVVFEdld2bFcwYXdOeHlNaVFWMkV30gGGAkFVX3lxTE84dWpHRTg3cmh0YUVLN3lKUm83WjM5QTVCS1cwN3lyZGVHWkRUTU0yS1ctZzZ4ekpvUmxqZVFaWlZ0ZE9POGd0Xy1KQmE1aFhVdTUxRHg4SFNESjRiUXk4ZExaYnNLV1JocTduZ1JfR19OeXNTVWtxR1BDU0F0YmVkeHBJamk2LXpDRVVvbHgxUWVuVU16VFBqSW02TlRRTlVVSG83dGtCZEtwMDBMRFpSWHVOMUdqRXhKTWZRdlh4SExZaXVXYXhOUzZKUHRrREpDVWVKSG1lSG9HR2dvbFlTT1FDWlEtdTdvbE0wMHEweDBBRFpCU1M1ZG51cEE1ZWJwbE1YSHc?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdG1Ld2ZQdnFGNGREVWFhYlVxUk5CY2JXYklyM3hjZV9tUTM5RnVfV1dzd0Nkakczb1lvTnI4SnJ2NFkwR0pyQnE5NVhpRzNYTlk4S1NoWWhmelBkMVk1WmtJYnQxeVBIZi1uOHB6bm56Y09XMHVhQlh5WExyNVI3SGZtbGxvUXdfMHJXZ0xrR0lGcDZlaGhXLXlqT1A?oc=5)
 
 ---
 
@@ -262,6 +270,22 @@ permalink: /news/belatacept/
 
 ---
 
+### [Studie im Klinikum Stuttgart identifiziert gefährdete Patienten - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU041M3h0VDFMdk8yMmRTajNnZXBsNW93Y3BxRmthc3JsUllERXJvX1o2UnJUanN2ZXI4X2NwV0hqR1lKUTZuNk9XR3FMX0JVN2dGYWxiX3ZwRFhPNzJmTXhEcE1rNzNFYVJVZzFSUHVXeTVXeFpkcnlSOVRsSWVuZ2xSUWx3THctQWVUMGw0dmtsNldkVl94SUpIQ1lTVGJheTFja1hYUzAzS0R0VUkwLVRXTVdLMmFNTERUTFdTWnJuMnBVZjhMNnZxbmQ4T2ZPZWZodlE1Vzkwa1JQcnQ3OG51YjA5bDVQQUFrTURzWDY?oc=5)
+
+2026-07-26 <span class="news-indication-tag">MS</span>
+
+來源：[Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU041M3h0VDFMdk8yMmRTajNnZXBsNW93Y3BxRmthc3JsUllERXJvX1o2UnJUanN2ZXI4X2NwV0hqR1lKUTZuNk9XR3FMX0JVN2dGYWxiX3ZwRFhPNzJmTXhEcE1rNzNFYVJVZzFSUHVXeTVXeFpkcnlSOVRsSWVuZ2xSUWx3THctQWVUMGw0dmtsNldkVl94SUpIQ1lTVGJheTFja1hYUzAzS0R0VUkwLVRXTVdLMmFNTERUTFdTWnJuMnBVZjhMNnZxbmQ4T2ZPZWZodlE1Vzkwa1JQcnQ3OG51YjA5bDVQQUFrTURzWDY?oc=5)
+
+---
+
+### [Les oncologues sont formels : voici l'aliment à privilégier après 50 ans pour éloigner le risque de cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNazljcm5sR0ZiR1JlbU1iaWZkUDFqTkVZVldUdXNjU0tLTEMzd3lVMWhUMmtaYVRoU05mR2tNTjBiNE0xM0lneVdwMkhzS0l1NmcxSmdsdlFpY2l5aWo2U3huOXhJSUYxaURlRVFBb3dpdnlJWWJlZlN5RjFlTVF2eE1sVWZoLWZieTJJeHJlVTJtTnM5cktMMms2dUZKNWR1V09jakREZEkzdHhHZG9XeElNSDFZZlpmTFVaMS0wN0JHcDFqdlh4NkdqMmdMd1hYQThfRzJrY095eTc1UTFBTTVINkFudFRGUFhsYlVJaDM?oc=5)
+
+2026-07-26 <span class="news-indication-tag">cancer</span>
+
+來源：[grazia.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNazljcm5sR0ZiR1JlbU1iaWZkUDFqTkVZVldUdXNjU0tLTEMzd3lVMWhUMmtaYVRoU05mR2tNTjBiNE0xM0lneVdwMkhzS0l1NmcxSmdsdlFpY2l5aWo2U3huOXhJSUYxaURlRVFBb3dpdnlJWWJlZlN5RjFlTVF2eE1sVWZoLWZieTJJeHJlVTJtTnM5cktMMms2dUZKNWR1V09jakREZEkzdHhHZG9XeElNSDFZZlpmTFVaMS0wN0JHcDFqdlh4NkdqMmdMd1hYQThfRzJrY095eTc1UTFBTTVINkFudFRGUFhsYlVJaDM?oc=5)
+
+---
+
 ### [Elderly shut out of ‘golden age’ of cancer care - The Telegraph](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYm5veWFrdnpkZVRISEtxcVlzblAxZXBEamxGWnJPMXV0b2pCVzlEYVMwR2tMRlhpMjJoYzhUV1RITFRiUzFnX1RMbWdQN29PU3lfdWFiSmZnUUo4TUJzc2huSEJBb3FvaUJRSWpkb3N3YmpNdklpelZSTDdjMVpqcUxfVWxSWmZsTHdYT0Q0SnpRdVdYc2VjNWNsaGE?oc=5)
 
 2026-07-26 <span class="news-indication-tag">cancer</span>
@@ -299,30 +323,6 @@ permalink: /news/belatacept/
 2026-07-26 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHpxOExBUEZkdmRLaWg2OVhLbkRsWmRGY3hNNlBCeGhGcXVvd1RUeUtpRzFsVmZLMkotTEkxell4aXVKM2IxX19IM1B4dS1NVHFiNEZ0VHh2dHkzajBDdlY2S2drSHRmNzlrWmhMZHRPSmJFVkotZDRsSGNMYWZkVTJOai0xS3lScmp1Yktoc1lfOUZ3eE1hOUhTUFV2dUZnQWhj?oc=5)
-
----
-
-### [Entre 70 et 80 % des personnes infectées ne ressentent rien : l'OMS alerte sur le virus du Nil occidental qui circule en Europe](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalNRakJBNE1GcF9QQ3hBYTRLLU9vU0l2aDJXNzA4UWtsUGc3YnVDWndmczFxMXZnd0xaem9IRzU4MjBUWnFKRWNBZ3hiX2hWcF80cGtMY3d1alVhZDcya0dtMXRUSzhjV0xZMG5ETXl2NlBIUXFmRFZmWFo0U1ZZSkZiLWFWWmxmYVBYaVY0c1hmNzdLS2sybUszeTJyRWRRaFVDUFcxcXFNcmRPajhwSGQzYklTbHVXSFBZenc3YnoyX1lVWEZqX2RLc196Y2NCRi1yU1ViVWF2bGZXbmxV?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalNRakJBNE1GcF9QQ3hBYTRLLU9vU0l2aDJXNzA4UWtsUGc3YnVDWndmczFxMXZnd0xaem9IRzU4MjBUWnFKRWNBZ3hiX2hWcF80cGtMY3d1alVhZDcya0dtMXRUSzhjV0xZMG5ETXl2NlBIUXFmRFZmWFo0U1ZZSkZiLWFWWmxmYVBYaVY0c1hmNzdLS2sybUszeTJyRWRRaFVDUFcxcXFNcmRPajhwSGQzYklTbHVXSFBZenc3YnoyX1lVWEZqX2RLc196Y2NCRi1yU1ViVWF2bGZXbmxV?oc=5)
-
----
-
-### [Tumori e fattori di rischio: come cambiano fumo, alcol, movimento e peso nel corso della vita](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV2VLdnJybUEyMXMxWVZOSHNnY1VobnhRTEF2ZEdybkYyT1lfY3hBWFpoNm5fZ3pTRmFkUGZTSnpNcHFjWUFGTDVkV0l2eExFRnFSVi14dWNqdmhGQnlfbTFmcFhNbjlKMmtfdkIteko0Y21GdkFLV1RvWlpsZkl6TV9fWVhXZVYta29ublJZY3ZJTVByYURiQkZ6V2NseWw5OUI4MVRlSjFLUGh2T3pXNmctRS12bGMxS2U4cHBhQVNEZ093Y01GZXhDcm9CbXA3dmtEWVRPV1EzOU93a1VGa2dSSjU?oc=5)
-
-2026-07-26 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV2VLdnJybUEyMXMxWVZOSHNnY1VobnhRTEF2ZEdybkYyT1lfY3hBWFpoNm5fZ3pTRmFkUGZTSnpNcHFjWUFGTDVkV0l2eExFRnFSVi14dWNqdmhGQnlfbTFmcFhNbjlKMmtfdkIteko0Y21GdkFLV1RvWlpsZkl6TV9fWVhXZVYta29ublJZY3ZJTVByYURiQkZ6V2NseWw5OUI4MVRlSjFLUGh2T3pXNmctRS12bGMxS2U4cHBhQVNEZ093Y01GZXhDcm9CbXA3dmtEWVRPV1EzOU93a1VGa2dSSjU?oc=5)
-
----
-
-### [Les risques liés à l'alcool commenceraient bien plus tôt qu'on ne le pensait - La Libre.be](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV043NW9mdy1KVGIxcDRZdTVPSXduVUNzM2hjR1hvQU1QSGtwZ1JOSU1YNEJIUFhCUUd3NGtqWkV0eTAwcHM5Snpyci1FUGwwUm5XNUc4NmRhSXdqMmk0VU8zeFg5MzhXZG81aE5XeThkYjhPR3lvUk5yYURjNmFRYm9lQ0lBcGVPM3lNb29yNjd4ZE5iNEdsUU5NRUNjREt4X0lYTFpKaVRfbmlYbk5Vdy1jWXJNdk1BX3NmNEMzRGtlTHVEWkVhUVJwamlzS2lpU1N4UGpuNF9yWWQy?oc=5)
-
-2026-07-26 <span class="news-indication-tag">cancer</span>
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV043NW9mdy1KVGIxcDRZdTVPSXduVUNzM2hjR1hvQU1QSGtwZ1JOSU1YNEJIUFhCUUd3NGtqWkV0eTAwcHM5Snpyci1FUGwwUm5XNUc4NmRhSXdqMmk0VU8zeFg5MzhXZG81aE5XeThkYjhPR3lvUk5yYURjNmFRYm9lQ0lBcGVPM3lNb29yNjd4ZE5iNEdsUU5NRUNjREt4X0lYTFpKaVRfbmlYbk5Vdy1jWXJNdk1BX3NmNEMzRGtlTHVEWkVhUVJwamlzS2lpU1N4UGpuNF9yWWQy?oc=5)
 
 ---
 
