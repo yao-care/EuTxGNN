@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 soriasi</span></li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -54,6 +54,14 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（3 則）
 
+### [Ema. Via libera a 12 nuovi farmaci, tra cui impianto oculare rivoluzionario e primo orale per la psoriasi - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObDQwVkFQTWlnTzFvRHNmZnVsdEt1d2NyRnotTTJ5M3lfRnpHc2hGSi1kbG5Ic1F3WmJVQXUwQ1lyd2tHVU50TGY1d0xCMER0ZHJFeGJOSDNPWW5sc2dHOUE1SkNQSjdOY1k0UTlKZDV1aXlIaXVfT1JoZFV5S0JBTnoybUlzOTBCaklMamFNaGk3bG1ubHBKZ0pSc2NKbWRobmZ3QXVSUjVseU9OOW9VWWQ3LXBIMGQxeXRmeW5MWnplbFBSUV9pWnVGSXhKQkFBaVJPYzFCSXBsbURhdExjVHFZVDRmaW1rSFE?oc=5)
+
+2026-07-27 <span class="news-indication-tag">soriasi</span>
+
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObDQwVkFQTWlnTzFvRHNmZnVsdEt1d2NyRnotTTJ5M3lfRnpHc2hGSi1kbG5Ic1F3WmJVQXUwQ1lyd2tHVU50TGY1d0xCMER0ZHJFeGJOSDNPWW5sc2dHOUE1SkNQSjdOY1k0UTlKZDV1aXlIaXVfT1JoZFV5S0JBTnoybUlzOTBCaklMamFNaGk3bG1ubHBKZ0pSc2NKbWRobmZ3QXVSUjVseU9OOW9VWWQ3LXBIMGQxeXRmeW5MWnplbFBSUV9pWnVGSXhKQkFBaVJPYzFCSXBsbURhdExjVHFZVDRmaW1rSFE?oc=5)
+
+---
+
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 2026-07-27 <span class="news-indication-tag">arthritis</span>
@@ -67,14 +75,6 @@ permalink: /news/tacrolimus/
 2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
----
-
-### [Obicetrapib, il CETP di nuova generazione convince il Chmp: colesterolo LDL ridotto fino al 50%](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
-
-2026-07-25 <span class="news-indication-tag">soriasi</span>
-
-來源：[Pharmastar](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（14 則）
+
+### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+---
+
+### [Obesità infantile, curare il bambino non basta: il risultato cambia quando si muove tutta la famiglia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExVR2dXbWFVU3NzeTV6SDk0bVRBRG9MeDlKTE4wNDdHVld5cks2Mmp5aDNyOFk0VEh6NkRkSjRIQUJiM25fb2VSWnN4eHdQSUlkUVN4Ti1Ba2gwR2VaN29LcGpvV2pyN0ZjLW1ocE4wUmlFbkVaR2JScVlXS1EzMmpFcFhyMEJzdWc2RGdESlNzUVJTY05UTHpGZmtBWWdzZmtrbWJnTGNnSnFYbWwxdHR4Tnl3Mkc0T2hQZDlqSWJNYlBjZ3A1SXJMejFEZmlWVVAtVHd0MjJjbXp5aUZhUFRkLUZ4UlV2NXFkZFE5UlQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">obesità</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMExVR2dXbWFVU3NzeTV6SDk0bVRBRG9MeDlKTE4wNDdHVld5cks2Mmp5aDNyOFk0VEh6NkRkSjRIQUJiM25fb2VSWnN4eHdQSUlkUVN4Ti1Ba2gwR2VaN29LcGpvV2pyN0ZjLW1ocE4wUmlFbkVaR2JScVlXS1EzMmpFcFhyMEJzdWc2RGdESlNzUVJTY05UTHpGZmtBWWdzZmtrbWJnTGNnSnFYbWwxdHR4Tnl3Mkc0T2hQZDlqSWJNYlBjZ3A1SXJMejFEZmlWVVAtVHd0MjJjbXp5aUZhUFRkLUZ4UlV2NXFkZFE5UlQ?oc=5)
+
+---
 
 ### [Schlaganfall: Jeder zweite Patient profitiert von früher kognitiver Therapie - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
 
@@ -112,15 +128,23 @@ permalink: /news/orlistat/
 
 ### [Obésité aux États-Unis : les données de 300 millions de dossiers médicaux révèlent une décrue inédite liée aux traitements GLP-1](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
 
-2026-07-26 <span class="news-indication-tag">obésité</span>
+2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWxySGV3T2NnRG4yWFpMNDNISUxSQ3JSeHlBalgxRWs5VTF1VGdzUDI4bnpFWkNTLVBlUEVvWHN0b3JoVEY1NkRNU1FBREYzc0dBREp3azNTdFBtMm91R3dSdjdPb2NZZ1VmVGN2T2gtN3VzeWxBSTFIWU45enpSZGxFcVUxVWVBVnpHOS1mMlpWd0VCMHAxekZoR0NpMzh5d2piOVNLUXNELUwtdzRZZGlUQXZ5ZURsUkhQalB6eUcwb1kwVHNTaU9lY3ZtOUJXVUQxa1BZRGxEYTlmbXlhTldnd1E?oc=5)
 
 ---
 
+### [Weight-loss jab users warned about relationship side effect no one prepares you for](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
+
+2026-07-26 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[LADbible](https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEpscTZXOEZVd0RSQk5Dc1RTRWYtVDJWVVVuWjJ2OFM3UW50LVlOYnBZOExOay0tODE2TWhESWV5MU43RXJHcTJsWjRqUXE3djdnNmx3X2FId0hZdTg4QjVqeUs3SnlEcUVCT1lyQWo5elV0SFQwSEJVbVpZcGpXblRqRGdRb05NU3hHWVZMc1Jaemk2SzV2R3FZSUE?oc=5)
+
+---
+
 ### [Weight loss injection side effects truth that everyone taking Wegovy, Mounjaro or Ozempic should be aware of - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
 
-2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
 

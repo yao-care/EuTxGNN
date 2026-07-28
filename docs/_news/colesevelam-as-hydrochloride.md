@@ -62,11 +62,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+### [Perdere il grasso “sbagliato” può portare al diabete, visto per la prima l’effetto sul metabolismo: lo studio dell’UM](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">diabete</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
+
+---
+
+### [Herzerkrankung: Digoxin lindert Herzinsuffizienz bei 55 Millionen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Essen: Treffen der Selbsthilfegruppe DIA Kids SHG für Eltern und Angehörigen von Kindern mit Diabetes](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
-
----
-
 ### [La semaglutide può aumentare il rischio di perdita dei capelli](https://news.google.com/rss/articles/CBMihgFBVV95cUxNenhXVHJKNWxJMGE0TWhYYUdUMXlRRndqQ2EtOHpiVmZCSlI3R0dOWE5WQTFGdGpWT283TWtxRjh6YjlOWVNCMWRTczY2a2NoSVQ3VUlrUUJESll4NHV6RW12V2d2NGJ3bTItTndpOE5HcVFLenZoRGJvOFdYYlJONHQ2andTQQ?oc=5)
 
 2026-07-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -94,11 +94,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [GLP-1 und Haarausfall: BMJ-Studie zeigt erhöhtes Risiko – meist reversibel - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
+### [Weight loss injection side effects truth that everyone taking Wegovy, Mounjaro or Ozempic should be aware of - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
 
-2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
 
 ---
 

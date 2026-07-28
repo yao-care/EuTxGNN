@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Migräne（migraine） 相關新聞"
+title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Migräne（migraine） 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# Migräne（migraine） 相關新聞
+# emicrania（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Migräne（migraine） 有什麼相關新聞？">
-<strong>Migräne（migraine）</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
+<strong>emicrania（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Migräne」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Emicrania, la risonanza rivela cosa potrebbe accadere nei muscoli del collo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
+
+2026-07-27
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
+
+---
 
 ### [Migräne: Vitamine B1, B6, B12 beschleunigen Nervenregeneration](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtnbUlEVzJhQmVlejBkdzkzWTZvNW5ocWs0cHd4blFPMHFoTHNCN2lFb0hFMllqaWY1bUMtOEJJT0w3NmlJSFJhQTVoemJza2pVSXl3RkhCNGNpSnRSRF8yb2NoNmV3ck5qZVNWUXNoRXd4QTNBZTBrZDVwVkNZLUxLYlBMVkVKVTJWY0trQnFSMVV0R0NadDd3M3VYR3JFcVhwaE1XSlpOSzRORHc?oc=5)
 

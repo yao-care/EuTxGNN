@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+
+---
+
+### [Bluthochdruck: Qigong senkt Druck durch Atemkontrolle](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
+
+---
 
 ### [Schlaganfall: Jeder zweite Patient profitiert von früher kognitiver Therapie - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzh5TlNxRE5ZcTBPcTlMcFFpbXc4NTZ4Vk5SY2ViNmh1c0RSN08xVGdzbFYzVC1KbDV5V0QzZ3VjazEtaDVYcWJTNGNDVFFubVRKdFdxLURFR2FpTkwzRkU0RmlDdl85YUQ0Y1JoQ0h1bWdKakt3eGtTRDVpZF9Wc1pqMkxtS1VEYXZUQ3ZiQmk0Y0d0RTUxSl84b1dSTzdHVEVMTDE2aHN1eGZI?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+### [Herzerkrankung: Digoxin lindert Herzinsuffizienz bei 55 Millionen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/telmisartan/
 2026-07-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">psoriasis</span>
 
 來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxOamFrRGJmWDJqSGhuQTR4d3QwN1RjWjFvbm5lYkNUMm5yYTJyYnRzSlNPazVDMUdVM2ZrNHBzT3d4NzdvMWZZVlNwUXBKTTFLdllEWFBBRncyVDMyVjJ4a2NxVUNQN3IycGRrQmVZdVR4ZHc0TEtZbndGcHZZUUVEVHNYaFVJSVI3dFFDVDNNYVQ3aTlramJaSUtFUlJ6VzFxU3c3QllGZjQ5dnBqMVVSMjJwank?oc=5)
-
----
-
-### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
-
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/colistimethate-sodium/
 
 ## 相關新聞（2 則）
 
+### [Bluthochdruck: Qigong senkt Druck durch Atemkontrolle](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
+
+---
+
 ### [Osteoarthritis: Daily supplement shown to ease knee pain within six weeks - GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
 
 2026-07-27 <span class="news-indication-tag">arthritis</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
-
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 

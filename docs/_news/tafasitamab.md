@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tafasitamab</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/tafasitamab/
 <li>severe nonproliferative diabetic retinopathy（97.3%）</li>
 <li>diabetic retinopathy（95.4%）</li>
 <li>HER2 positive breast carcinoma（94.5%）</li>
-<li class="indication-matched">psoriasis（94.0%）<span class="indication-tag">📰 soriasi</span></li>
+<li class="indication-matched">psoriasis（94.0%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>progesterone-receptor positive breast cancer（93.0%）</li>
 <li>normal breast-like subtype of breast carcinoma（93.0%）</li>
 <li>breast tumor luminal A or B（92.9%）</li>
@@ -52,7 +52,7 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（28 則）
 
 ### [La ciencia encuentra una nueva huella bioquímica relacionada con la mortalidad en diabetes y resistencia a la insulina - El Economista](https://news.google.com/rss/articles/CBMisgJBVV95cUxOUDVCbjdydjZobTZmeW5UOWFLWkgxYTZzWko3S1NlR1haVF9BVzloS1FLUW5xNFQxLXlFcmUweGNMUXkxZnIyclpmRUFxSWhkTE9TbXJXTjI1ODlHQkQ1dmpISWhnVkk3QkF2Vy1PaHg3OTdkOXNCRkV5Z0M0Q1R3QlFyVmdOeXA3X2w0a2ppRm8zTHVkemIzaUpsTlh1T2lqNHhsbWJ0dnhSbGVuWjR4SkxqRmlIcU0tT0dOSy1qcWZWYVhlMVA5Q0xjWHp6TzNFOGswY2VhaDN3djhEanNNdGo4UE5qVGNUbFJCQ2ZfSmxDNHItb2hudFdvM3k4Xy1EazVlZGFqeDVsM1dnYjhCWHo4Wmk2NFlkUHB3eW16M21WWkp2VkNiZnNhSUd4Y2ZVc1E?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Pourquoi certains fumeurs développent un cancer et d'autres non : une étude apporte des pistes - Yahoo Actualités](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtvMUxmQlZsTnJJOWwtYjAyX0pEU2o5T2ZIa0xJbkNyUm8zbmdwTFUtVExnVERYWS1QbGltS0tHbk5sTGg4QVczMTdwR3BwT0xyWjEtbEJ0UkhjZGtMYUdvQ2xBamNMZVhaaDMxcEpUT1MtSTFrMDVYekxrYUs1V2Y0VWV4dHZmRjdLZnZtZlQwcEdDZk5OUS1xaGZwbXlJTjA0NU9nM2pFRlBmQjRjbDZwcURUQUd4bEZFZGVDMUtIUUZZd0FsWFFhTDBCZw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtvMUxmQlZsTnJJOWwtYjAyX0pEU2o5T2ZIa0xJbkNyUm8zbmdwTFUtVExnVERYWS1QbGltS0tHbk5sTGg4QVczMTdwR3BwT0xyWjEtbEJ0UkhjZGtMYUdvQ2xBamNMZVhaaDMxcEpUT1MtSTFrMDVYekxrYUs1V2Y0VWV4dHZmRjdLZnZtZlQwcEdDZk5OUS1xaGZwbXlJTjA0NU9nM2pFRlBmQjRjbDZwcURUQUd4bEZFZGVDMUtIUUZZd0FsWFFhTDBCZw?oc=5)
+
+---
+
 ### [Tumori, cellule malate “travestite da batteri” per risvegliare le difese immunitarie](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnVnbXpMTjFwTUFQQzJ4LUplTTJrdXRjZThFY0pxUUl3bGdHMDRLVnA5THJYN1pLMnRwYXJGQjZnZ3I0Yl9KemU3eTlsVS1iU0ZQLU1UODg3aktaMUN3c0lWV2lMeHpwajZjYXl1WTIwYl9adzBKSTJSUV9ZaHVMQ09na2JCQ2dVNUtLaWhyUDFBNnVyYWZKUlJDS21CRHFTdTRVYnp5UkpSOWhldGVzQWViZDVuNU5LeGMzcHV4Q1ZYemxzanZKcUFoOGtmclVVTkY2NmI1OUk?oc=5)
 
 2026-07-27 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnVnbXpMTjFwTUFQQzJ4LUplTTJrdXRjZThFY0pxUUl3bGdHMDRLVnA5THJYN1pLMnRwYXJGQjZnZ3I0Yl9KemU3eTlsVS1iU0ZQLU1UODg3aktaMUN3c0lWV2lMeHpwajZjYXl1WTIwYl9adzBKSTJSUV9ZaHVMQ09na2JCQ2dVNUtLaWhyUDFBNnVyYWZKUlJDS21CRHFTdTRVYnp5UkpSOWhldGVzQWViZDVuNU5LeGMzcHV4Q1ZYemxzanZKcUFoOGtmclVVTkY2NmI1OUk?oc=5)
+
+---
+
+### [Perdere il grasso “sbagliato” può portare al diabete, visto per la prima l’effetto sul metabolismo: lo studio dell’UM](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
+
+2026-07-27 <span class="news-indication-tag">diabete</span>
+
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
 
 ---
 
@@ -86,11 +102,27 @@ permalink: /news/tafasitamab/
 
 ---
 
+### [Non solo sesso: il Viagra fa "miracoli" anche contro i tumori e le metastasi. Uno studio svela i benefici - Secolo d'Italia](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYThwUUxnNTZRSW9EM1JQemNFTFpmNTBtekVVcjhrUEVjMkNDUVQ3Vlp2dHEwMEtJazJJeDBOYXMyeUhjN3lucXd3bVMtajBpQ2NQSVFfSXk0YTlIazJqOS1uMjNiajgxSV83N3lCZmFNbDRiVGw2NzhGeE84VUgxRFdvSW5kRnhWTno0Z3dPNEVjUjhxZkpLX0FfMzhhWW5oMlhqZWdxcDR0c21Nay0zVFBZZURFblVKeGJLUEhVRThkLTM4TEktajF2ckFKNDBZd1M5bk53?oc=5)
+
+2026-07-27 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Secolo d'Italia](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYThwUUxnNTZRSW9EM1JQemNFTFpmNTBtekVVcjhrUEVjMkNDUVQ3Vlp2dHEwMEtJazJJeDBOYXMyeUhjN3lucXd3bVMtajBpQ2NQSVFfSXk0YTlIazJqOS1uMjNiajgxSV83N3lCZmFNbDRiVGw2NzhGeE84VUgxRFdvSW5kRnhWTno0Z3dPNEVjUjhxZkpLX0FfMzhhWW5oMlhqZWdxcDR0c21Nay0zVFBZZURFblVKeGJLUEhVRThkLTM4TEktajF2ckFKNDBZd1M5bk53?oc=5)
+
+---
+
 ### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
+
+---
+
+### [Scientists decipher how T cells sense enemies—such as cancer—at point of contact - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxON0h5TC11Q29EX2JoX211c1p3UFJkWFM4a0w0UHo4eXJIOEIzQUI0OUxxVV9iQ25hZG1lS0phSmt5aXA3amNSMmU0c3NlTjJUblVGSGNtZ3dwM1JyRmNnaDd4eVlLQkJiU0pDQWJBUlYycDUwLXE4eGtfQndWYlNkRGpOamRtRk9TcTVTYg?oc=5)
+
+2026-07-27 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxON0h5TC11Q29EX2JoX211c1p3UFJkWFM4a0w0UHo4eXJIOEIzQUI0OUxxVV9iQ25hZG1lS0phSmt5aXA3amNSMmU0c3NlTjJUblVGSGNtZ3dwM1JyRmNnaDd4eVlLQkJiU0pDQWJBUlYycDUwLXE4eGtfQndWYlNkRGpOamRtRk9TcTVTYg?oc=5)
 
 ---
 
@@ -102,11 +134,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Gesundheitsvorsorge: HPV: Weit verbreitet und unterschätzt](https://news.google.com/rss/articles/CBMirAFBVV95cUxONEJyOXF2dGlRRUE5d05sbkRaYW00dkR5dUM2MldTQmdac29IU0xqQXZUbnNKdWJucXktSEVjSkIxOVZmZGVsejA4eWF2eFdDVG9seFpGV3lLYmRvbFVhUlJOYjFYVFcxQUNqU2ZERWpQY0xuV2l1U3pnNC1jZksxV2p0em1HUUhNNlQ1RUViVjlxUlY3V0Fvck5JMVJjSlViaVJmdU1wMlFaZnp2?oc=5)
+### [Ema. Via libera a 12 nuovi farmaci, tra cui impianto oculare rivoluzionario e primo orale per la psoriasi - Quotidiano Sanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObDQwVkFQTWlnTzFvRHNmZnVsdEt1d2NyRnotTTJ5M3lfRnpHc2hGSi1kbG5Ic1F3WmJVQXUwQ1lyd2tHVU50TGY1d0xCMER0ZHJFeGJOSDNPWW5sc2dHOUE1SkNQSjdOY1k0UTlKZDV1aXlIaXVfT1JoZFV5S0JBTnoybUlzOTBCaklMamFNaGk3bG1ubHBKZ0pSc2NKbWRobmZ3QXVSUjVseU9OOW9VWWQ3LXBIMGQxeXRmeW5MWnplbFBSUV9pWnVGSXhKQkFBaVJPYzFCSXBsbURhdExjVHFZVDRmaW1rSFE?oc=5)
 
-2026-07-27 <span class="news-indication-tag">Krebs</span>
+2026-07-27 <span class="news-indication-tag">soriasi</span>
 
-來源：[meine-news.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxONEJyOXF2dGlRRUE5d05sbkRaYW00dkR5dUM2MldTQmdac29IU0xqQXZUbnNKdWJucXktSEVjSkIxOVZmZGVsejA4eWF2eFdDVG9seFpGV3lLYmRvbFVhUlJOYjFYVFcxQUNqU2ZERWpQY0xuV2l1U3pnNC1jZksxV2p0em1HUUhNNlQ1RUViVjlxUlY3V0Fvck5JMVJjSlViaVJmdU1wMlFaZnp2?oc=5)
+來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObDQwVkFQTWlnTzFvRHNmZnVsdEt1d2NyRnotTTJ5M3lfRnpHc2hGSi1kbG5Ic1F3WmJVQXUwQ1lyd2tHVU50TGY1d0xCMER0ZHJFeGJOSDNPWW5sc2dHOUE1SkNQSjdOY1k0UTlKZDV1aXlIaXVfT1JoZFV5S0JBTnoybUlzOTBCaklMamFNaGk3bG1ubHBKZ0pSc2NKbWRobmZ3QXVSUjVseU9OOW9VWWQ3LXBIMGQxeXRmeW5MWnplbFBSUV9pWnVGSXhKQkFBaVJPYzFCSXBsbURhdExjVHFZVDRmaW1rSFE?oc=5)
 
 ---
 
@@ -115,14 +147,6 @@ permalink: /news/tafasitamab/
 2026-07-27 <span class="news-indication-tag">cancro</span>
 
 來源：[LaC News24](https://news.google.com/rss/articles/CBMijgJBVV95cUxOSEliVkprTVJobzJ0ZmszRGJMY0R5V0Z4bGYzT1lYTnZwMWlJTVd4U3EtNnVHSzRQeXRCYjB6ZG9TZG1EbDY3NnJ2Ym9Ici12cWFYN2N0dkpTNkN4QVZmMlJkUFNXVDRieHpVcEFzdWxhNXgzMHdXU2xNZHRtYTV6OFdUbU1fcmFFYjFnZU9nTjB5aWxNTTFTb285d0xLQzNWVG9PQmNGZkp3S2RGcnFjUGRpcUlSbG5tcG92ZGVESnJXNmVFeWx2aHMzXzROYUNXZm91RnV4TTd3bFdWVUtwc0o5Q3dPSFk4bW5xR0Q0WHA1YjZ5VGc5TnBTUzNUc2I3dUdObTZ1RFRlZzM5anfSAZMCQVVfeXFMTU9nSlQyRno1TTNXUGpwNlBnS2hMazByeUxnZFRPMmhhMmtJdkhUNVB5elBYU2d3M1NlTnpkaDJTZDJYdUtQSkNFLVQ4X2xHenlQQ0M4OFBGaXZfR2xaXzBnUFBla1VHY0lKM3VieGJPTWpCT1RQUXhuWDRoTEgzaXFfR1RTMW85SmxBNW5wYkM4SU51dnd0bzF4Wk5DWUZERWRmMVd4aU91QkdEQnFlM3B5OE9SYTVTOG1GbjgyVGZUWEtfcWdxSTN3T0RJaGlZOHhtQWUzVEZaUDZIQXFpN2tXVEtTY0xZTV94R2tMZWJJTDRLNlBGdURmZlQ5UmRaX3lYVjRaQmhrbW9Cell6d1pFdUk?oc=5)
-
----
-
-### [Essen: Treffen der Selbsthilfegruppe DIA Kids SHG für Eltern und Angehörigen von Kindern mit Diabetes](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span>
-
-來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDhhWWNJYVlIY3lMUzJwY3F2T3FSbXotcGtOZlNEYjc1Nl9YYlA5NWt2SmFHdWMtWGN4NXJpcFFwRUdvRHZIbGNJQUw5ZVpQUWh3LVBpWDZPRnhkbjdYcGdDa214MFZfNVZUNVU4Qkc5NGNadUFfLVNIV1BEdXlIZ1hMdmdmcDZZMUx2X0pnNlo2NTdIY1BKM0t1TlRyRElJMDNwd1RLemVCN2FPaDRIb1dEZlltQmdQMXpiUV9WdWlYTnZacTY4NmJnNXpuQ3E0YnFMV3FXYlJfSnM1R2R3UTZ6RF95U1E4VUp2VXFLMXg1bFE?oc=5)
 
 ---
 
@@ -206,11 +230,19 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Bauchspeicheldrüsenkrebs: Hochdosis-Vitamin C verdoppelt Überleben](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWpQSzk1WVp2TUh1NnpwYnNWYzdYRzdndVFaVFpvdmlRc0s3T3lpeld0U0l5czN0clllNGVXLXk3NVc4VjlBU3YydUxXWUlHUEd3b1Z0VVozWXBEQnp0cEFPVG1HQzVhSVlISVJpS2dZUGJGVXZDeTQ4dVFCTFllRElkWlZFcGRyS0k3XzNyNXcxRzQtUUZ6LVdiWjhEdHRrUTlRM3JiU2V5MTdIZ3AyemZxMmg0MHc?oc=5)
+### [Father diagnosed with terminal cancer after routine eye test - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVZsQi1OdThveDRKQzIyU0pBelJTUlFlX21mbWVCOFZvdzlOWE9xazFrRlc5bDAxYm1NZnVfRGhsbVhlenlGOGhIWktFY3lDci0xdHg4c2lmbmdrd1NHQ3JOdm9RTlNlUVAtQUo3Y0dnY2d5UjVBNlpDN25Ec1R4VHNfWFpCbEROd1hzSzhweXlGbWw3MkxsTFZSNXM?oc=5)
 
-2026-07-26 <span class="news-indication-tag">Krebs</span>
+2026-07-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWpQSzk1WVp2TUh1NnpwYnNWYzdYRzdndVFaVFpvdmlRc0s3T3lpeld0U0l5czN0clllNGVXLXk3NVc4VjlBU3YydUxXWUlHUEd3b1Z0VVozWXBEQnp0cEFPVG1HQzVhSVlISVJpS2dZUGJGVXZDeTQ4dVFCTFllRElkWlZFcGRyS0k3XzNyNXcxRzQtUUZ6LVdiWjhEdHRrUTlRM3JiU2V5MTdIZ3AyemZxMmg0MHc?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVZsQi1OdThveDRKQzIyU0pBelJTUlFlX21mbWVCOFZvdzlOWE9xazFrRlc5bDAxYm1NZnVfRGhsbVhlenlGOGhIWktFY3lDci0xdHg4c2lmbmdrd1NHQ3JOdm9RTlNlUVAtQUo3Y0dnY2d5UjVBNlpDN25Ec1R4VHNfWFpCbEROd1hzSzhweXlGbWw3MkxsTFZSNXM?oc=5)
+
+---
+
+### [Weight loss injection side effects truth that everyone taking Wegovy, Mounjaro or Ozempic should be aware of - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
+
+2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGRjYnBYVTZrcGZLN1ZjSWY0NzdSYV94VEJ1NjIzY1dnb3lNOU1xOTN5Y0hxc09rTVpRVnB1WEliWEgwbzh0QXFyWWxxc3JKV2JYdUM4UjNWaGJiYnRaQjEzMzQ3Q1dqN0NHWmNBcVZFOWpJZHlhM25DN3RMUUVwc01pQ3Q3YUs0bm1kbg?oc=5)
 
 ---
 
@@ -222,11 +254,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Il farmaco per la disfunzione erettile potrebbe contrastare le metastasi del cancro](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHNQZzZZTFlmRUlHTUZtRGtDVVVENlhKOUU4QWRwbHQ0aERqcGZtZHIyRXdObTJOMkJWMExwSGZNd3dkNVoyTjJxckFRTWRSbWtnUzhfUG40OVM1Tm9SWGMtakhRS2NaM3dNckwxMHBEWkdRWkZIR1g4TlBvaHY2VExWeFc1Qy1jUmdZU21sczFwanN1Wk54bmJVYXNFaXhSQkNGVkl5dTU1M0dsNld3QkZLZFhHT1RJcThaa1NxRWloS012d0J6dUo2bjFwa2J3UWQwX3U2Wk4wSmJ1ZVBIamNhZVlvSFIzaFdnMzJ4b2NMdTRTMmdwM9IB_gFBVV95cUxQSkVTa0tZRXhzZm5FZXVoYldsbVczLXZfVE5QbWpxendtNExZVE1HVXFPcWwxa0dJOWFzWVRMNDc1VUZYUlpCTEJlY19SX0dUdFI1UlF1c0RiQU5ManM4RzdNMkRVa01zdW90S21obHRocDIzcnc1X0FVQWFoWk1xeWNMMmJ4TTRfYW9rMC1GWE1NNUFXT3NhSVZVQlhpNmgwQ0hyUHh2SjQwWTh4dkxxSDJucFpjWTBvYVFyanh3VGFyYkVSanQ1b0s2MElwLXREbGloRmZrR21wUk9vRndONDIxR3VmM19GR0FBTTdtR19mVmhYa29paTNFVEJ3QQ?oc=5)
+### [Hochdosiertes Vitamin C und Vitamin D: Neue Daten in der Krebstherapie - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHpxOExBUEZkdmRLaWg2OVhLbkRsWmRGY3hNNlBCeGhGcXVvd1RUeUtpRzFsVmZLMkotTEkxell4aXVKM2IxX19IM1B4dS1NVHFiNEZ0VHh2dHkzajBDdlY2S2drSHRmNzlrWmhMZHRPSmJFVkotZDRsSGNMYWZkVTJOai0xS3lScmp1Yktoc1lfOUZ3eE1hOUhTUFV2dUZnQWhj?oc=5)
 
-2026-07-26 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-07-26 <span class="news-indication-tag">Krebs</span>
 
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMHNQZzZZTFlmRUlHTUZtRGtDVVVENlhKOUU4QWRwbHQ0aERqcGZtZHIyRXdObTJOMkJWMExwSGZNd3dkNVoyTjJxckFRTWRSbWtnUzhfUG40OVM1Tm9SWGMtakhRS2NaM3dNckwxMHBEWkdRWkZIR1g4TlBvaHY2VExWeFc1Qy1jUmdZU21sczFwanN1Wk54bmJVYXNFaXhSQkNGVkl5dTU1M0dsNld3QkZLZFhHT1RJcThaa1NxRWloS012d0J6dUo2bjFwa2J3UWQwX3U2Wk4wSmJ1ZVBIamNhZVlvSFIzaFdnMzJ4b2NMdTRTMmdwM9IB_gFBVV95cUxQSkVTa0tZRXhzZm5FZXVoYldsbVczLXZfVE5QbWpxendtNExZVE1HVXFPcWwxa0dJOWFzWVRMNDc1VUZYUlpCTEJlY19SX0dUdFI1UlF1c0RiQU5ManM4RzdNMkRVa01zdW90S21obHRocDIzcnc1X0FVQWFoWk1xeWNMMmJ4TTRfYW9rMC1GWE1NNUFXT3NhSVZVQlhpNmgwQ0hyUHh2SjQwWTh4dkxxSDJucFpjWTBvYVFyanh3VGFyYkVSanQ1b0s2MElwLXREbGloRmZrR21wUk9vRndONDIxR3VmM19GR0FBTTdtR19mVmhYa29paTNFVEJ3QQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHpxOExBUEZkdmRLaWg2OVhLbkRsWmRGY3hNNlBCeGhGcXVvd1RUeUtpRzFsVmZLMkotTEkxell4aXVKM2IxX19IM1B4dS1NVHFiNEZ0VHh2dHkzajBDdlY2S2drSHRmNzlrWmhMZHRPSmJFVkotZDRsSGNMYWZkVTJOai0xS3lScmp1Yktoc1lfOUZ3eE1hOUhTUFV2dUZnQWhj?oc=5)
 
 ---
 
@@ -238,19 +270,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [GLP-1 und Haarausfall: BMJ-Studie zeigt erhöhtes Risiko – meist reversibel - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
+### [Les risques liés à l'alcool commenceraient bien plus tôt qu'on ne le pensait - La Libre.be](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV043NW9mdy1KVGIxcDRZdTVPSXduVUNzM2hjR1hvQU1QSGtwZ1JOSU1YNEJIUFhCUUd3NGtqWkV0eTAwcHM5Snpyci1FUGwwUm5XNUc4NmRhSXdqMmk0VU8zeFg5MzhXZG81aE5XeThkYjhPR3lvUk5yYURjNmFRYm9lQ0lBcGVPM3lNb29yNjd4ZE5iNEdsUU5NRUNjREt4X0lYTFpKaVRfbmlYbk5Vdy1jWXJNdk1BX3NmNEMzRGtlTHVEWkVhUVJwamlzS2lpU1N4UGpuNF9yWWQy?oc=5)
 
-2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-07-26 <span class="news-indication-tag">cancer</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
-
----
-
-### [Obicetrapib, il CETP di nuova generazione convince il Chmp: colesterolo LDL ridotto fino al 50%](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
-
-2026-07-25 <span class="news-indication-tag">soriasi</span>
-
-來源：[Pharmastar](https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2YyY0ZUSE5DVGs4dnVKY2hxZW5QUlN1UFQ1OXAtNV9nRGF4bTBhUHpyX2k3ZFh1TGtZdFNWV1F5WGpDcllMb1lJQWJBakR1a3NlZjhVc2ZRT2ZJVzd0OU1zd2ZtaWRaQlhuS2NfMUhXVE5ma3J0LWVHbW8yUzVMZUFZTGdTVDdQZ0F0TFJ5LW9pQlZHXzJPYkxocVlUWGlQWWVKWmUzTkF2NEY5Ml83WVZkTUNlejdSVThMdDY1d0JpOWhncUpEd29xRHEyVGs?oc=5)
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV043NW9mdy1KVGIxcDRZdTVPSXduVUNzM2hjR1hvQU1QSGtwZ1JOSU1YNEJIUFhCUUd3NGtqWkV0eTAwcHM5Snpyci1FUGwwUm5XNUc4NmRhSXdqMmk0VU8zeFg5MzhXZG81aE5XeThkYjhPR3lvUk5yYURjNmFRYm9lQ0lBcGVPM3lNb29yNjd4ZE5iNEdsUU5NRUNjREt4X0lYTFpKaVRfbmlYbk5Vdy1jWXJNdk1BX3NmNEMzRGtlTHVEWkVhUVJwamlzS2lpU1N4UGpuNF9yWWQy?oc=5)
 
 ---
 

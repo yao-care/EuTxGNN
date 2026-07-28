@@ -54,11 +54,11 @@ permalink: /news/travoprost/
 
 ## 相關新聞（1 則）
 
-### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+### [Herzerkrankung: Digoxin lindert Herzinsuffizienz bei 55 Millionen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/selexipag/
 
 ## 相關新聞（1 則）
 
-### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
+### [Bluthochdruck: Qigong senkt Druck durch Atemkontrolle](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
 
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
+2026-07-28 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
 
 ---
 

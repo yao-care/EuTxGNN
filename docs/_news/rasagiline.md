@@ -54,6 +54,14 @@ permalink: /news/rasagiline/
 
 ## 相關新聞（3 則）
 
+### [Save your brain — stop late-night snacking - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
+
+2026-07-27 <span class="news-indication-tag">dementia</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
+
+---
+
 ### [New Study Finds Married People Are Up To 74% More Likely To Develop Dementia Under One Specific Condition - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnBEM0JKc0JiMlFvRTQ1VG5iMm9YQkp6S3ZtLTVMV0EtcjFDMmRfUnd2Wjk5Ym14MV9YejVxWGlXTFRFaFYzalpsMVRTUmgycklsYnotWkxIUXUxOHpheUJrVFNiYlVVUFMyU290UlhLZkZaa2NNZGt3N2I3aFA0bF9jVFpSRjR6U3U0TTdrdzlGT2Y2RGY5aTJn?oc=5)
 
 2026-07-27 <span class="news-indication-tag">dementia</span>
@@ -62,19 +70,11 @@ permalink: /news/rasagiline/
 
 ---
 
-### [Restricted eating hours may reduce cognitive decline in older age, researchers find - The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
+### [6 simple ways to give your brain a boost](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm1HUlBPRkNGd0VLNkJJVndvOXA2ckVfamR3ajZWWGJRcWFNZDBQOUVrdE5ic0c0dUQydUdZeWMwLWMwaTZSd1BkckNiZ3piMjJiN1cyWTlPQXMwMUZndEdVdXdSMVBIUDY3dmlNcTVoMXFITXhZeWdqNURxX1V0VFlxZnN2MU9tMjMxT1JwanA0YVNWaUp5N1hLNA?oc=5)
 
-2026-07-27 <span class="news-indication-tag">dementia</span>
+2026-07-27 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnB2WXdzWXBOcU1IcXE0VmFORnA5TElHaVRKXzB6TVZSMHRSVm1hQTdtaDlYenp2TzJ5LVdzOTRRMmdoZ0tob1A5VXNBTlo3TkkyYU0tVnk1U2RTMnBNVEtMc1VCM3d4Ym5yWGdGRW12V0dVLTRwMDN5bGo5RkkxSDRTWTRJZThnZjNfbEhaZ1hQZmRiLU1ud2RQZzM1Um5tWTFpUi1jLVJZRGxMelZnR19Zc3M2dUM3bjdTVTNERXo3bDhndml3TUJB?oc=5)
-
----
-
-### [Bad News For Bingers: Watching Too Much TV Linked to Smaller Brain Volume](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDI2dVQyOG1sNFI3N2xEekxRNUd6UzQyXzZnd1NzVXlhVWMzNFQ1QXVCRVVFQXVwR3Vqem85T0FDal9XQXVzZGxYSEJLcHY5Z0ZhdWZ3UGdqQnhqX29lN3V4MF8zcEk1YWtkaG5CYzVsT242Q052b0JMQko0cGdqYm9DZnYxMC1PRTVLaGxEelBhdTdjS1M3dmR6X2tsX1F5?oc=5)
-
-2026-07-26 <span class="news-indication-tag">dementia</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDI2dVQyOG1sNFI3N2xEekxRNUd6UzQyXzZnd1NzVXlhVWMzNFQ1QXVCRVVFQXVwR3Vqem85T0FDal9XQXVzZGxYSEJLcHY5Z0ZhdWZ3UGdqQnhqX29lN3V4MF8zcEk1YWtkaG5CYzVsT242Q052b0JMQko0cGdqYm9DZnYxMC1PRTVLaGxEelBhdTdjS1M3dmR6X2tsX1F5?oc=5)
+來源：[RTE.ie](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm1HUlBPRkNGd0VLNkJJVndvOXA2ckVfamR3ajZWWGJRcWFNZDBQOUVrdE5ic0c0dUQydUdZeWMwLWMwaTZSd1BkckNiZ3piMjJiN1cyWTlPQXMwMUZndEdVdXdSMVBIUDY3dmlNcTVoMXFITXhZeWdqNURxX1V0VFlxZnN2MU9tMjMxT1JwanA0YVNWaUp5N1hLNA?oc=5)
 
 ---
 

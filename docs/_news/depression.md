@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [Depressionen: Was dem Stimmungstief vorausgeht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE5WejBQTmMwdXdtSlVRVk1CbGh1UkVrU0kwaGl1U3V6QlJxeW9hUk5kb01jWU5ZQTJoZk9LOXFkQTkyQTVHVnhvZ20wd056Y3dwdXZ4dm9Fekt1WFFCeEpJcTJYQTliUjJxZnp4aWFRUy15S280dW5oV1VHMndHUQ?oc=5)
+### [Mayor riesgo de depresión respiratoria con fentanilo y combinaciones de opioides - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGJ1bm1JbXNINEg0eWZmY3Q1OUUzNjlDeW9JMVAxM0VMVnhFaWg1VjdiQTJEc0t6aGMtcVRFMmdDOVdjWkxEMVdlbXZIbW56YUdwdDZ2QUNiWUVEb1MwaXV0WTUzTzhIRFRBQUh5dk15WGlZQjJmelZaOGYyWTJNdXdlSW1pemtYelN6bmxMLXItRDdHYmZ0VWlkZi04c1RpWDVQQnpjT0ZoYTJYdkVkaWozOFpvNFk5VnFfTkpFLUfSAbsBQVVfeXFMTWxCYlZHNXFaRkdYODBJazg2ZVRhUG5lYXY1MkZEVWVXNXZVMnRqbktTTUc2d2Jjc2xJN3d5cVdGN2tCd00xaTkzY1dicGxmdk9UWmFsY1ppRU00V01MdkNFckc3SklRMmRSS2hXWlNBeXFFTG43Q3dyUXYyRnJvb0JJTGRkRmZUTVhkSDNXLTVjM0lEcXpveXAtWFZHOVZqLUdwQTIzYnJtd0hpRlQ0MFBzenhNaEpEOF9iMA?oc=5)
 
-2026-07-26
+2026-07-27
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMifkFVX3lxTE5WejBQTmMwdXdtSlVRVk1CbGh1UkVrU0kwaGl1U3V6QlJxeW9hUk5kb01jWU5ZQTJoZk9LOXFkQTkyQTVHVnhvZ20wd056Y3dwdXZ4dm9Fekt1WFFCeEpJcTJYQTliUjJxZnp4aWFRUy15S280dW5oV1VHMndHUQ?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGJ1bm1JbXNINEg0eWZmY3Q1OUUzNjlDeW9JMVAxM0VMVnhFaWg1VjdiQTJEc0t6aGMtcVRFMmdDOVdjWkxEMVdlbXZIbW56YUdwdDZ2QUNiWUVEb1MwaXV0WTUzTzhIRFRBQUh5dk15WGlZQjJmelZaOGYyWTJNdXdlSW1pemtYelN6bmxMLXItRDdHYmZ0VWlkZi04c1RpWDVQQnpjT0ZoYTJYdkVkaWozOFpvNFk5VnFfTkpFLUfSAbsBQVVfeXFMTWxCYlZHNXFaRkdYODBJazg2ZVRhUG5lYXY1MkZEVWVXNXZVMnRqbktTTUc2d2Jjc2xJN3d5cVdGN2tCd00xaTkzY1dicGxmdk9UWmFsY1ppRU00V01MdkNFckc3SklRMmRSS2hXWlNBeXFFTG43Q3dyUXYyRnJvb0JJTGRkRmZUTVhkSDNXLTVjM0lEcXpveXAtWFZHOVZqLUdwQTIzYnJtd0hpRlQ0MFBzenhNaEpEOF9iMA?oc=5)
 
 ---
 

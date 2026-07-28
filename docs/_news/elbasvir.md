@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（15 則）
 
-### [KI-Biomarker und Wearables bei Morbus Crohn: Früherkennung bis zu zehn Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
+### [Vuelve el virus del Nilo Occidental: cómo se transmite y principales síntomas - Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNyYmtBWEhCVjZIeG8wOGJfWWtzSGpTNTlGMk1TdHlYSi1xamkwczBnbXI2YldVd0JQTFNUU19VRU0xcHZrVC1GZExqMEVRdUxuQ1UyU2JOVGZ4M3pDRFhIZmxXRGZEUHp6RzZQTmpnSDd6NS0xX2k4VnZBYjJhZmN6MXBzQVVkRmhWc2RqejNHWTZZNk03QThtRkZTX1dOd01ndV9KYTcwY1FrWmxFbXNGUU5iV2VK?oc=5)
 
-2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-07-27 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTNyYmtBWEhCVjZIeG8wOGJfWWtzSGpTNTlGMk1TdHlYSi1xamkwczBnbXI2YldVd0JQTFNUU19VRU0xcHZrVC1GZExqMEVRdUxuQ1UyU2JOVGZ4M3pDRFhIZmxXRGZEUHp6RzZQTmpnSDd6NS0xX2k4VnZBYjJhZmN6MXBzQVVkRmhWc2RqejNHWTZZNk03QThtRkZTX1dOd01ndV9KYTcwY1FrWmxFbXNGUU5iV2VK?oc=5)
 
 ---
 
-### [Gehirngesundheit: Antientzündliche Ernährung senkt Demenzrisiko um 29%](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS0JKSFlvRk5BSlhVSWd3V01EVHdUNTJnbURaUHJhdUQydTNuZmFOSDM4VHNzbGFjYmJUMG4zRVJxaTFJTVZObXhlcE44dmZNMUtUMm44dVZZdWtVM3lLbVNYaC10SFkwQ2UtTkpGZEY2NnA4ejBjbXF2Q1RkUDlrTF9zVmRDdXZMY29TSHUwSlZBd3NDY2NCaC1XUkUtWkhpcHB1c3dkUVJRelhJV1dEWmhILUxoNDA0Qmo0?oc=5)
+### [Darmmikrobiom als Faktor bei Lupus und MS: neue Mechanismen und Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2E2Y09LUUxld0pBVFh0cmpqVWxXWGd1d1pDUTVUaWhsTFE5MWhrLUQtTFNxYm5UZW1ZckhoY1EwTGJDUnk1NkFuUEpEQl9RMGt5VFFZQ2dOTGFkeGJfTDFQUVkyNV9SRkV5d0JlV2RINExYczk5WmhiTktCblFTYXROTGRDa2l3MUR4UW5uMDZhVW5IQW9qUmlQYWlIenhLTlVuLWZZVmY?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2E2Y09LUUxld0pBVFh0cmpqVWxXWGd1d1pDUTVUaWhsTFE5MWhrLUQtTFNxYm5UZW1ZckhoY1EwTGJDUnk1NkFuUEpEQl9RMGt5VFFZQ2dOTGFkeGJfTDFQUVkyNV9SRkV5d0JlV2RINExYczk5WmhiTktCblFTYXROTGRDa2l3MUR4UW5uMDZhVW5IQW9qUmlQYWlIenhLTlVuLWZZVmY?oc=5)
+
+---
+
+### [Demenzrisiko: Antientzündliche Ernährung senkt es um 29 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBmTE5jaFJHaGVwdVE1V3NILU5TSGVaLUtLX2JvNU9YYnN4bmNMMEsxZFFXN3l3MGI3TkJGX2k5dFdhNEhnYTVoSE91Z0xqMVRxVHdHWkZnV3pfLTZFVElwVzFCclkxQi1NT0RwR1V6TnBRQldkeHpxR2tMeVVtRG1RZUo1V3dTU3B6aUxGTDRJTE9DdGdYSXp4cDlxd0ZHcTRhR2VwYy1UZ2N2Tm9QZ2t3WQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS0JKSFlvRk5BSlhVSWd3V01EVHdUNTJnbURaUHJhdUQydTNuZmFOSDM4VHNzbGFjYmJUMG4zRVJxaTFJTVZObXhlcE44dmZNMUtUMm44dVZZdWtVM3lLbVNYaC10SFkwQ2UtTkpGZEY2NnA4ejBjbXF2Q1RkUDlrTF9zVmRDdXZMY29TSHUwSlZBd3NDY2NCaC1XUkUtWkhpcHB1c3dkUVJRelhJV1dEWmhILUxoNDA0Qmo0?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTBmTE5jaFJHaGVwdVE1V3NILU5TSGVaLUtLX2JvNU9YYnN4bmNMMEsxZFFXN3l3MGI3TkJGX2k5dFdhNEhnYTVoSE91Z0xqMVRxVHdHWkZnV3pfLTZFVElwVzFCclkxQi1NT0RwR1V6TnBRQldkeHpxR2tMeVVtRG1RZUo1V3dTU3B6aUxGTDRJTE9DdGdYSXp4cDlxd0ZHcTRhR2VwYy1UZ2N2Tm9QZ2t3WQ?oc=5)
 
 ---
 
@@ -118,11 +126,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Multiple Sklerose: Diese Bakterien der Darmflora können schützen](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
+### [Ebola outbreak 'fastest-growing' in history as rapidly rising death toll hits 1,400 and health workers strike - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxONExSb1JuZ21RNGtnejdLVGFiS05POXJFeHlPNTVRMUF3N1BNQUpBXzBtLUhlT1lteno3c2R6bFd4ZXRDSnk0SkJtRl9KOTkzRnJGUjVNNjFBQmVXcFFDaThRWGRITk9fU0s5RVdmZ24taUd5Z0F6dVREYkhwb0NhRUp0VEVNUUk?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxONExSb1JuZ21RNGtnejdLVGFiS05POXJFeHlPNTVRMUF3N1BNQUpBXzBtLUhlT1lteno3c2R6bFd4ZXRDSnk0SkJtRl9KOTkzRnJGUjVNNjFBQmVXcFFDaThRWGRITk9fU0s5RVdmZ24taUd5Z0F6dVREYkhwb0NhRUp0VEVNUUk?oc=5)
+
+---
+
+### [‘Priority 1’ superbug spreading from pets to humans, study warns - The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxORE9wTzVYU0t0ekhxM0dEakZWeWFjVmR6OUluU0p1UHp3T2ZxSzFBVzlkXzlDMmxCaVZXVG41ekpZS1dRdk43b2ZOdG5BS0NRZGlRcGNncTBFbk9YQml2WHhDZk5YNm5VbWJpRTZLQVR5dGtfVHhQME9SWl9UM1FoT2NJSGFBb09qX3prX0U5ZHQ0cjBnUDhUSlRwTFBSNzktOTNLNHZHVQ?oc=5)
+
+2026-07-27 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxORE9wTzVYU0t0ekhxM0dEakZWeWFjVmR6OUluU0p1UHp3T2ZxSzFBVzlkXzlDMmxCaVZXVG41ekpZS1dRdk43b2ZOdG5BS0NRZGlRcGNncTBFbk9YQml2WHhDZk5YNm5VbWJpRTZLQVR5dGtfVHhQME9SWl9UM1FoT2NJSGFBb09qX3prX0U5ZHQ0cjBnUDhUSlRwTFBSNzktOTNLNHZHVQ?oc=5)
 
 ---
 
@@ -150,43 +166,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Ebola claims its 1,000th victim but true toll could be nearer 4,000 - The Times](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWHVXUXQtR1ZybUc3aF9VV0VvV0tUQXFqYWEyX2wyRHBvMEpVS0wtSXRQLXM2dWtub0hia3lpTDNKdHdvcENqZDlnaHU4WWZZUmJqeVBWTGtMdGhwaW9FUE1VX1FZd2JvUU5ETU0tcDZwY05UZVNqQm80ZUdkbElMUmMzNjZBZGstSmp2cHY4TnFJYTg4RWtoM1pWQWJ0VmxqclZmTmc1SXZEMDVTREN6aVBkb1dGbVRYQnhiQkp3?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWHVXUXQtR1ZybUc3aF9VV0VvV0tUQXFqYWEyX2wyRHBvMEpVS0wtSXRQLXM2dWtub0hia3lpTDNKdHdvcENqZDlnaHU4WWZZUmJqeVBWTGtMdGhwaW9FUE1VX1FZd2JvUU5ETU0tcDZwY05UZVNqQm80ZUdkbElMUmMzNjZBZGstSmp2cHY4TnFJYTg4RWtoM1pWQWJ0VmxqclZmTmc1SXZEMDVTREN6aVBkb1dGbVRYQnhiQkp3?oc=5)
-
----
-
-### [West Nile, dimesso il primo paziente ricoverato al Cotugno con sospetta encefalite - Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHhuV2hjTmN0X3J3d2JCQUoyNm5ia210dmphd1FDUzJvNWZTalFsNGE1aEJhT2pucjFJdVA2aHU5ZTVJSEhBNUhsRlNWdGlad0tKNHREZ2tXSkZyUXM1MmhSMWI0RTcteDZxdGhtQThzcXNxbEl6bkw2RXFqbHJXUVd6WlhISFRjUVpGdVE5OHk5eU5iTEhWd3Z5YUpXWkhwUVRwNjRkajhjbUs3Y3kyaXl0cHhFWnlmdTBXTTJyY1g?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Il Mattino](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHhuV2hjTmN0X3J3d2JCQUoyNm5ia210dmphd1FDUzJvNWZTalFsNGE1aEJhT2pucjFJdVA2aHU5ZTVJSEhBNUhsRlNWdGlad0tKNHREZ2tXSkZyUXM1MmhSMWI0RTcteDZxdGhtQThzcXNxbEl6bkw2RXFqbHJXUVd6WlhISFRjUVpGdVE5OHk5eU5iTEhWd3Z5YUpXWkhwUVRwNjRkajhjbUs3Y3kyaXl0cHhFWnlmdTBXTTJyY1g?oc=5)
-
----
-
 ### [Entre 70 et 80 % des personnes infectées ne ressentent rien : l'OMS alerte sur le virus du Nil occidental qui circule en Europe](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalNRakJBNE1GcF9QQ3hBYTRLLU9vU0l2aDJXNzA4UWtsUGc3YnVDWndmczFxMXZnd0xaem9IRzU4MjBUWnFKRWNBZ3hiX2hWcF80cGtMY3d1alVhZDcya0dtMXRUSzhjV0xZMG5ETXl2NlBIUXFmRFZmWFo0U1ZZSkZiLWFWWmxmYVBYaVY0c1hmNzdLS2sybUszeTJyRWRRaFVDUFcxcXFNcmRPajhwSGQzYklTbHVXSFBZenc3YnoyX1lVWEZqX2RLc196Y2NCRi1yU1ViVWF2bGZXbmxV?oc=5)
 
 2026-07-26 <span class="news-indication-tag">MS</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalNRakJBNE1GcF9QQ3hBYTRLLU9vU0l2aDJXNzA4UWtsUGc3YnVDWndmczFxMXZnd0xaem9IRzU4MjBUWnFKRWNBZ3hiX2hWcF80cGtMY3d1alVhZDcya0dtMXRUSzhjV0xZMG5ETXl2NlBIUXFmRFZmWFo0U1ZZSkZiLWFWWmxmYVBYaVY0c1hmNzdLS2sybUszeTJyRWRRaFVDUFcxcXFNcmRPajhwSGQzYklTbHVXSFBZenc3YnoyX1lVWEZqX2RLc196Y2NCRi1yU1ViVWF2bGZXbmxV?oc=5)
-
----
-
-### [GLP-1 und Haarausfall: BMJ-Studie zeigt erhöhtes Risiko – meist reversibel - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
-
-2026-07-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDZLRXBKZUhXczloa3o3Q1dCWGNkWmhHV0R3aVVvZ2xsZTFsUFZ3cUV4YnZDYWZ2ZWZDdTFkVEVUNTRtODNSNGU1MEdaZzd6Z3ZQNEdpR2xYMFFuQnJDYVpkSGRRNzJ4b2VybWloM3k1bm9YWmFXNmtzR0swbHJ0elBkTTZYU0duaHR6Z1JONmxpZU9CdHA1azAwb0RHbVBHQ1ZsLUtGRQ?oc=5)
-
----
-
-### [Stammzelltherapie: Nabelschnur-Zellen zeigen Erfolg bei Reizdarmsyndrom](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
-
-2026-07-26 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNjJFaVNySThBUndrTFlqckticzl0d2hfM1BWT09PcDFGNjI5aURmSTA1cVBMbFhOcHp0VmptYmN0dmp1SHN1TDVMeDQ1cDNVX1IzN3ZaU1Rfb25rU0lIU2E4XzVhLVpTMUxHWVFQbGl2LVNRTjJuc3hwQnhuNGZoV1YyaE82ZzlMYTc2NFgzTko4Ujk5eEhUZkFQenRubzZJb25jTmFjZzh5OUFxMUJGa3Q5bFJwMlBRbW9R?oc=5)
 
 ---
 

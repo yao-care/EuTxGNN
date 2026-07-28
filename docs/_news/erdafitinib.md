@@ -54,11 +54,19 @@ permalink: /news/erdafitinib/
 
 ## 相關新聞（3 則）
 
-### [Studie: Digoxin bei rheumatischer Herzerkrankung wirksam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+### [Bluthochdruck: Qigong senkt Druck durch Atemkontrolle](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxObW9kbjExM0hOUVQ2eHNNMmhOYkxGMUpfVzJOa3JNRXBOUE1zaWpUWW1ySFJDZEh3UEJsOUlDY0M1Q3czZjlfWkp3NUZZTVZBUVpBNlUtRDRnZGNDdFNwdXQ1elBrNi01ZnNmckVwNlBtbVpKM0hGdEJUdnZydmM5Y2VESkpJY3k4aFY2ajlUVFpmRlcwZDdJXzU4anNmZFo2ci1n?oc=5)
+
+---
+
+### [Herzerkrankung: Digoxin lindert Herzinsuffizienz bei 55 Millionen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 2026-07-27 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmVWZE4zbWR6Y2xFWXRDbkwxLXJrUkxIV3piRURxdHc1Y3JsX1VjRmtuR08zZ2hOSXdrUzRJeGtJeDE2cVJyLVpGN1l4SW9HcVN6bHVfMnJvYVg2ODRDMVZVNVdScE8zaVhRU2g2cVJKTlE4a1BralRSMlBOU3FYSUZyT2lQTGVhZ3NJVV8xNTBpbDNmQU9xQUxfejNHX3VnREw5RlNlVQ?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFdOLTNYb05SdFlWUUhzWUQ1S0pvamdySWEySGRnZmdXOGx3STRxMjJBSllLNmxFeXdTa0tDTERKazNqcG1rd3NLS0QzOHg0c201aS1KX2ZGSkIyWUhVcWE2RHBRM3lCLTJrNkJvaVhkb09JaFdLdHdfVUpRaDUxNzZyY2NmM3N0dXBSYkozSDQ0R0pkdkw5NXVUYXdsVHJiQ1hNMWxoR29xRm5JTENhSUtZSQ?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ permalink: /news/erdafitinib/
 2026-07-27 <span class="news-indication-tag">arthritis</span>
 
 來源：[GB News](https://news.google.com/rss/articles/CBMibkFVX3lxTE03VXpFZ3J4d2V4TmJ0X1dNVVUyUWUwR2R1Xy0weFFadVg4QTluWHdIMnIwREdUNjRjMjNhTncySE9Xa0dTb1pfOURqYVRGenducHI0RjJxNC1RbWN0b3cwZDB4bTRjU1FaZWM3eDB3?oc=5)
-
----
-
-### [Sartane: Therapieabbruch bei Bluthochdruck sinkt um 27 Prozent](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
-
-2026-07-26 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG0zeWk2TTNBbDExaV9sSUYtX0hzejdwczZtcjhTYmpPeHF4TVpMa2ZPQlltMnJUZklBQWxlWWhETlctS3FLdXFFbzBhN3BzWTg3Sm1HQlBOSHl2YXdia2NUWWZfaUJzc3hpbXZhWVdDdmREcDJhOVJSQXhFTGdRSDFRcWg2YjlxaE5OZjFDYno5OG9xS3Z0bDZGMlc2b0dDdXFSamNJbUxGX3RRR2ZZ?oc=5)
 
 ---
 
