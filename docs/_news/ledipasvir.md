@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（14 則）
+
+### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+---
+
+### [I tracked my blood pressure for a month – and caught something my GP check missed - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEhPUVZHWmN1bGs5ekhadWp2c2l2cG0zQWx3Wm9yM0RVSzRORXNLcERJU2tqUzRLbk9fTnBGSnNrclRVX1hSc3NVWF9iNGdaZHF6UFhucEs4N0I5bmhDRE5YUjBIanhkX0w2c2d2WjQzVlZmQnNvQi1RTDdhd2pnSlJZTmY5cHFXT3RGbzIzd24xelJMS2VyQ1cxSDdaQW1xMW9SVllReTc4eVVv?oc=5)
+
+2026-07-29 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEhPUVZHWmN1bGs5ekhadWp2c2l2cG0zQWx3Wm9yM0RVSzRORXNLcERJU2tqUzRLbk9fTnBGSnNrclRVX1hSc3NVWF9iNGdaZHF6UFhucEs4N0I5bmhDRE5YUjBIanhkX0w2c2d2WjQzVlZmQnNvQi1RTDdhd2pnSlJZTmY5cHFXT3RGbzIzd24xelJMS2VyQ1cxSDdaQW1xMW9SVllReTc4eVVv?oc=5)
+
+---
+
+### [Epatiti, Ecdc: “In Europa 5 mln con malattia cronica”. Iss: Serve prevenzione”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
+
+2026-07-29 <span class="news-indication-tag">epatite</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
+
+---
 
 ### [Dr. Juan Arenas, especialista en digestivo: «Muchas personas conviven con hepatitis crónica sin saberlo: cuando hay síntomas el daño ya es grave» - El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
 
@@ -62,11 +86,19 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Hyperinflammation: Wie eine fehlgeleitete IL-1Ra Bremse COVID-19 und Rheuma verbindet - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
+### [Akkermansia, B-Zell-Depletion und IL-1Ra: Darm-Hirn-Achse rückt bei MS-Risiko und Therapie in den Fokus - it boltwise](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFV6Sld6aG1IbE00UmdfOWgtTVJDU1EzdkNpQVFlWjhjUkVla2hhd3ZTamdsNWNnS3p5SGZXeWxSMHJfbVVfZWhBWXFiZTN0QnpmQUZOdU1xbC05UU5XbXJqYVBlYTZuNzRHSExsZTdyUWY3Q01zNHQyM2V5b0hyRmhqOUJGS2dGUGhCZnJaVzlEY1ZzUlZEMFFfOU9aNTJ2NGkzZ2dHd0pHQktmUm9OMGMwYXp3eEJOUXN2T2JBQ2NQT3YwM0lld3FGc0FNczQ?oc=5)
 
 2026-07-28 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFV6Sld6aG1IbE00UmdfOWgtTVJDU1EzdkNpQVFlWjhjUkVla2hhd3ZTamdsNWNnS3p5SGZXeWxSMHJfbVVfZWhBWXFiZTN0QnpmQUZOdU1xbC05UU5XbXJqYVBlYTZuNzRHSExsZTdyUWY3Q01zNHQyM2V5b0hyRmhqOUJGS2dGUGhCZnJaVzlEY1ZzUlZEMFFfOU9aNTJ2NGkzZ2dHd0pHQktmUm9OMGMwYXp3eEJOUXN2T2JBQ2NQT3YwM0lld3FGc0FNczQ?oc=5)
+
+---
+
+### [Entzündungsbremse: Wie der Körper seine IL-1Ra-Schutzfunktion blockiert](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
 
 ---
 
@@ -86,14 +118,6 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Epatite A, cresce il focolaio in Italia: i medici spiegano l’errore a tavola che può favorire il contagio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
-
-2026-07-28 <span class="news-indication-tag">epatite</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
-
----
-
 ### [Ebola cases in DR Congo have reached 3,262 - making it the 'fastest outbreak on record', according to officials. - Sky News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTM0RkFQLU1QU0l2a05qa2ptSkFuVUlySW03eW1FbXE4aWZYb3ZyOGplU0ZLeDRmZ0NTZ29OS1VVVEFpaUlmMWJxVURPRG45YjhqZUltQkZJSUhhNEhYUkEyeDBZX0lNTDdEN3lsYXRHemFTTVkyVmE0T3hnb09ONDA5Nk9WT0k?oc=5)
 
 2026-07-28 <span class="news-indication-tag">MS</span>
@@ -106,15 +130,7 @@ permalink: /news/ledipasvir/
 
 2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[aok.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
-
----
-
-### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
-2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 ---
 
@@ -126,19 +142,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [Qu'est-ce que le virus du Nil occidental, qui sévit en Espagne ?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjZERUFmS0MyV04yYnFKTHBEMVUzREp0ZWh5Si0waXJWTEhTdXJVZ3BvdWZsMWlLMS1DOGE3WF9yLXhic3psUTVxY0F6NTRNTVJpbEIzM1VlNFN0Y1NKQUVsTTFUQzlyUVhkOGM2X0NIdGNsZ3BLYmZpRlJQUm9VTGpBSFhmMXNfa3pKVy0xNkkwYlRtcWpwN1UwaG1Scmd6d2t0bnlSTE9BUdIBrwFBVV95cUxPQ1I3d3JIYkVOZmpZY1doc1BUc0JoTmc3YXZ4ZF9qSjY2NzV1SDRDc2NCTjNldFlZY1U1NUtmdG0zUDJiMDZiRm8tX0ZSek9fbFVVbnpKUEkxVEg5aHVGNDlCN1czRkw3eEQxUGs5eDdpX3N3SmdpRHpXU21aWXNCR0s1bl9DTjRBR0hYQVBmTlluN0VIMEt1OGpXM3VjWnJWNnBSWUJWcVVmOTNkS1F3?oc=5)
-
-2026-07-28 <span class="news-indication-tag">MS</span>
-
-來源：[CNews](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjZERUFmS0MyV04yYnFKTHBEMVUzREp0ZWh5Si0waXJWTEhTdXJVZ3BvdWZsMWlLMS1DOGE3WF9yLXhic3psUTVxY0F6NTRNTVJpbEIzM1VlNFN0Y1NKQUVsTTFUQzlyUVhkOGM2X0NIdGNsZ3BLYmZpRlJQUm9VTGpBSFhmMXNfa3pKVy0xNkkwYlRtcWpwN1UwaG1Scmd6d2t0bnlSTE9BUdIBrwFBVV95cUxPQ1I3d3JIYkVOZmpZY1doc1BUc0JoTmc3YXZ4ZF9qSjY2NzV1SDRDc2NCTjNldFlZY1U1NUtmdG0zUDJiMDZiRm8tX0ZSek9fbFVVbnpKUEkxVEg5aHVGNDlCN1czRkw3eEQxUGs5eDdpX3N3SmdpRHpXU21aWXNCR0s1bl9DTjRBR0hYQVBmTlluN0VIMEt1OGpXM3VjWnJWNnBSWUJWcVVmOTNkS1F3?oc=5)
-
----
-
-### [Factory farming could be fuelling spread of common disease which causes food poisoning - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmVXZjYzdzAySTNQdkE4Rk02U3RtSV9UaDIzMXVqYm9yWFhhQ1F4bUQ0WE1Nc2pwNjB2SXBUMy1kREdPb0tuOVIyUXhnUU00VXJSV2t5aFhWamJEVldQVS0yQjBMSEdUaUhQLS1FYjY2WklsLTRSdWdHVUtQWjE0XzNCNHRyS29vOWRUNGRjN0g0blVrVUlVdE9HM2RrNkxZTTF1cXNqTGVZQQ?oc=5)
+### [Industrial poultry farming leads to 100-fold increase in food-poisoning bacteria, study finds - Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDBPRmJSNzlNTVNyRHhJQnZwdGVjdVJNdGcxNExDTXh4NnpmNFFMdDdTdm1KdHppRjhMU29BSlFObXRzaXVMSm85T0dWNzBMQUVfYl9qT29vcEFNVTY1ZVQ4VFAtNGJyQUU1RWNMWWlhSFF6T2RZejhQMUpMT3lVN255Q3FiY3d0LW5OX09YQ2NFM09uUV9wRWUxOTlaNjlFVEYxU1Y3T3FJdWthQnQ1RXYyTVlEYmtJOWMtV1Utd3JNUkUzWjhv?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmVXZjYzdzAySTNQdkE4Rk02U3RtSV9UaDIzMXVqYm9yWFhhQ1F4bUQ0WE1Nc2pwNjB2SXBUMy1kREdPb0tuOVIyUXhnUU00VXJSV2t5aFhWamJEVldQVS0yQjBMSEdUaUhQLS1FYjY2WklsLTRSdWdHVUtQWjE0XzNCNHRyS29vOWRUNGRjN0g0blVrVUlVdE9HM2RrNkxZTTF1cXNqTGVZQQ?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDBPRmJSNzlNTVNyRHhJQnZwdGVjdVJNdGcxNExDTXh4NnpmNFFMdDdTdm1KdHppRjhMU29BSlFObXRzaXVMSm85T0dWNzBMQUVfYl9qT29vcEFNVTY1ZVQ4VFAtNGJyQUU1RWNMWWlhSFF6T2RZejhQMUpMT3lVN255Q3FiY3d0LW5OX09YQ2NFM09uUV9wRWUxOTlaNjlFVEYxU1Y3T3FJdWthQnQ1RXYyTVlEYmtJOWMtV1Utd3JNUkUzWjhv?oc=5)
 
 ---
 
@@ -155,22 +163,6 @@ permalink: /news/ledipasvir/
 2026-07-27 <span class="news-indication-tag">MS</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkMtTkZ4RnJOQWNOWm5OM0hQak0zRGJkTkFCSWVkMzJfY1JNMEhvQWwtMTNGRmtjX1pocmRXRDRXYmxEYVVOVnA2RmxnMHNMMl8wekswT0kxN0wzaTB6V0J4dDVEYWtZdUQ1dkc3Ull1VmVyYVE3R05FUVoxekQzX2RqM25VajAzU2ZQVzBBRVM3Rl9kYi1FNUVWSEMxaXMyMnh6eTFPVi12eTdSTDlHekVNTEhRLTBIblVnTVlB?oc=5)
-
----
-
-### [A Woman Shared 6 Rarely Discussed ADHD Symptoms, And People Feel Seen](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wZVhzY0VMaEJGNFRCYUVpMVJmUjNscXFWVWNtbXdMSnJ2WVNqZThHajNpZDFjc29vR2liUnV0ejBXeDY5SlkyaEVMZk8zYVVhWVZKNnhlSDBLTGxGa0xwd1JfWUJBLWl4MDFtLV9LZ1V4aFkzb3ZNag?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wZVhzY0VMaEJGNFRCYUVpMVJmUjNscXFWVWNtbXdMSnJ2WVNqZThHajNpZDFjc29vR2liUnV0ejBXeDY5SlkyaEVMZk8zYVVhWVZKNnhlSDBLTGxGa0xwd1JfWUJBLWl4MDFtLV9LZ1V4aFkzb3ZNag?oc=5)
-
----
-
-### [‘Priority 1’ superbug spreading from pets to humans, study warns - The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxORE9wTzVYU0t0ekhxM0dEakZWeWFjVmR6OUluU0p1UHp3T2ZxSzFBVzlkXzlDMmxCaVZXVG41ekpZS1dRdk43b2ZOdG5BS0NRZGlRcGNncTBFbk9YQml2WHhDZk5YNm5VbWJpRTZLQVR5dGtfVHhQME9SWl9UM1FoT2NJSGFBb09qX3prX0U5ZHQ0cjBnUDhUSlRwTFBSNzktOTNLNHZHVQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxORE9wTzVYU0t0ekhxM0dEakZWeWFjVmR6OUluU0p1UHp3T2ZxSzFBVzlkXzlDMmxCaVZXVG41ekpZS1dRdk43b2ZOdG5BS0NRZGlRcGNncTBFbk9YQml2WHhDZk5YNm5VbWJpRTZLQVR5dGtfVHhQME9SWl9UM1FoT2NJSGFBb09qX3prX0U5ZHQ0cjBnUDhUSlRwTFBSNzktOTNLNHZHVQ?oc=5)
 
 ---
 

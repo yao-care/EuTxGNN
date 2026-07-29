@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Save your brain — stop late-night snacking - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
+### [Hot Yoga and Heat Therapy in Santa Cruz - Good Times | Santa Cruz California's Leading Free Weekly](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wb0FJN2c1b1R2djdobWkzQTQtZ3dYRGNRWHh5OUItV2laS0FOYkYwS1dfRE5UNHRGY0doYmp3U3NLS21EbHUwd0VHYXhUUkRrRG1HZHNSSVNmUHdKbGdiQTlEZGpoazlsb2c?oc=5)
 
-2026-07-27 <span class="news-indication-tag">dementia</span>
+2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
+來源：[Good Times | Santa Cruz California's Leading Free Weekly](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wb0FJN2c1b1R2djdobWkzQTQtZ3dYRGNRWHh5OUItV2laS0FOYkYwS1dfRE5UNHRGY0doYmp3U3NLS21EbHUwd0VHYXhUUkRrRG1HZHNSSVNmUHdKbGdiQTlEZGpoazlsb2c?oc=5)
+
+---
+
+### [How The Vagus Nerve Promotes Healthy Cognition Via Acetylcholine Signaling](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Hackaday](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [How The Vagus Nerve Promotes Healthy Cognition Via Acetylcholine Signaling](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Parkinson's</span>
+
+來源：[Hackaday](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
+
+---
 
 
 <div class="disclaimer">

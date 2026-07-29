@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/drospirenone/
 2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
-
----
-
-### [Alzheimer, Avatar del cervello per la terapia su misura partendo da un prelievo di sangue - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
-
-2026-07-27 <span class="news-indication-tag">asma</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
 
 ---
 

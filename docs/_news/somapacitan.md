@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
+
+### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+---
 
 ### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
@@ -78,14 +86,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
-2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
----
-
 ### [Dos firmas metabolómicas en sangre predicen el riesgo de mortalidad en personas con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
 
 2026-07-28 <span class="news-indication-tag">diabetes</span>
@@ -94,27 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Disfunzione erettile, non è solo stress: le cause più comuni e i segnali da ascoltare](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
----
-
 ### [Perdere il grasso “sbagliato” può portare al diabete, visto per la prima l’effetto sul metabolismo: lo studio dell’UM](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
 
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
-
----
-
-### [Alzheimer, Avatar del cervello per la terapia su misura partendo da un prelievo di sangue - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
-
-2026-07-27 <span class="news-indication-tag">asma</span>
-
-來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
 
 ---
 

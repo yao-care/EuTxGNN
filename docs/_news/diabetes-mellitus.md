@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabete（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。4 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>4 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,15 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+2026-07-29
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+---
 
 ### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
 
@@ -124,27 +132,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
-2026-07-28
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
----
-
 ### [Dos firmas metabolómicas en sangre predicen el riesgo de mortalidad en personas con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
 
 2026-07-28
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
-
----
-
-### [Disfunzione erettile, non è solo stress: le cause più comuni e i segnali da ascoltare](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
-2026-07-27
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
 
 ---
 

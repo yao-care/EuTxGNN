@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+
+---
 
 ### [Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
 
@@ -70,27 +78,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
-2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
-
----
-
 ### [Dos firmas metabolómicas en sangre predicen el riesgo de mortalidad en personas con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
 
 2026-07-28 <span class="news-indication-tag">diabetes</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
-
----
-
-### [Disfunzione erettile, non è solo stress: le cause più comuni e i segnali da ascoltare](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
 
 ---
 
