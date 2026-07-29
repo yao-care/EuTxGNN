@@ -14,7 +14,7 @@ permalink: /news/azilsartan-medoxomil/
 ---
 
 <p class="key-answer" data-question="Azilsartan Medoxomil 有什麼相關新聞？">
-<strong>Azilsartan Medoxomil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Azilsartan Medoxomil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/azilsartan-medoxomil/
 <p><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（20 則）
+
+### [Krebs: Diese Methode soll die Diagnose bei Brustkrebs entscheidend verbessern](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
+
+---
+
+### [Gros fumeurs sans cancer : leurs poumons cacheraient une défense rare](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVzdoVGR1V3EzU1RZQjV1RmFzWWpEVk1oMk1HcTRmZjlSYUpUdXg5Zzk3dG9FcjJLZTZMV2hDY2N3SzJGWEdnQmN3bGtoWVY3UUFicXhmUmlCMVFpR19mTE42YkdXMVREREdsRFV3dDdxRGpCVzlmNERDNUptS2ExZTE5NUVPTkdTbzFVU05mNmtEN3pwRkE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVzdoVGR1V3EzU1RZQjV1RmFzWWpEVk1oMk1HcTRmZjlSYUpUdXg5Zzk3dG9FcjJLZTZMV2hDY2N3SzJGWEdnQmN3bGtoWVY3UUFicXhmUmlCMVFpR19mTE42YkdXMVREREdsRFV3dDdxRGpCVzlmNERDNUptS2ExZTE5NUVPTkdTbzFVU05mNmtEN3pwRkE?oc=5)
+
+---
 
 ### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+### [Parte lo screening polmonare per forti fumatori - Gazzetta di Mantova](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHlrX1EwaGZQQnlwcDdmbjVHYU1Ka1VnZFVJd01GMDVSTDh0dXA3YnAwU0dUX2otRnRabWNacDdjdGYzd2J1R1BaN2xWUGFDQXhCcFpVckZlRThDaXFKTW9LUjVTdTdsTF82cWdrV2RjSVBmU0U2RGZseDdvY1FzZS11RTFsNGprOXlIWWJweUhpbUk2djRpdlEyUFpNTU91MDFOaEoxUWdMOVo0NHhfanhKMlVYU0N0U21YSWJxYktDUDDSAcgBQVVfeXFMTnhEaFBJTFFfb3lUb0VhSnJkYjNHZGZzWFN4eS1CRjloQTByLWtXemw2QlVwNWVMOHVSQXV5UWNhcXNmOFFrSnR2UENNUFdkV29uaHJvc0poOXJvMVpONjUycGM5ZmJkSHBpSExPbTA0cFhPS19Xc2JpdVg3c1N5SVlTWWlwa3NKXzZMWnlwNU93NGtBbzI1bjlyT0dCLUNOcTRPWHJ5ZEJJNERPeUFGQktERnZTWnhuWGNTMkpCMDY2cVIyOERIWW4?oc=5)
 
-2026-07-28 <span class="news-indication-tag">stroke</span>
+2026-07-28 <span class="news-indication-tag">tumor</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+來源：[Gazzetta di Mantova](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHlrX1EwaGZQQnlwcDdmbjVHYU1Ka1VnZFVJd01GMDVSTDh0dXA3YnAwU0dUX2otRnRabWNacDdjdGYzd2J1R1BaN2xWUGFDQXhCcFpVckZlRThDaXFKTW9LUjVTdTdsTF82cWdrV2RjSVBmU0U2RGZseDdvY1FzZS11RTFsNGprOXlIWWJweUhpbUk2djRpdlEyUFpNTU91MDFOaEoxUWdMOVo0NHhfanhKMlVYU0N0U21YSWJxYktDUDDSAcgBQVVfeXFMTnhEaFBJTFFfb3lUb0VhSnJkYjNHZGZzWFN4eS1CRjloQTByLWtXemw2QlVwNWVMOHVSQXV5UWNhcXNmOFFrSnR2UENNUFdkV29uaHJvc0poOXJvMVpONjUycGM5ZmJkSHBpSExPbTA0cFhPS19Xc2JpdVg3c1N5SVlTWWlwa3NKXzZMWnlwNU93NGtBbzI1bjlyT0dCLUNOcTRPWHJ5ZEJJNERPeUFGQktERnZTWnhuWGNTMkpCMDY2cVIyOERIWW4?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ permalink: /news/azilsartan-medoxomil/
 2026-07-28 <span class="news-indication-tag">tumor</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+---
+
+### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
+
+2026-07-28 <span class="news-indication-tag">stroke</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
 
 ---
 
@@ -118,6 +142,14 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
+### [Los cardiólogos coinciden: más de 3 tazas de café al día se asocian a un menor riesgo de hipertensión - El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPTld1SmFRaWYxajdMai1lc21XRnBDNXF6TFhoWjFSTE1aUk9sXzRMMnJfbnJCQUhBNTdJSE1LbER0ZDNrV3h4TFhDTFltVjJvV2xCMmpKUG5FRDhzZWtBV0lLNjBOd2F3WHpSV1U0UVRHM3FwLW9XaVFoNG4tZFVlYXB2eTJpX2M1LVhielB5bzI3cFZwWTAxWEFwSmNOMFFrek4tOGw5NlJUbkk5VjJNdGpnbjBMWFV2ZDBTa0JiRXE0NWtCTmZjekR4YUplN1Bpb0tNekJ0VWFGYUlkRmVScjAwcmQtZGVCSmh3NHUzeGllbVY3a1BpZUxLVWRpNDllYlVxNkx1cDdWa3pzSEdDWEFvZHdRT3dmV2RyNVloWnBReGRKRm9uMDJvV1BYOV91QjdabUUxLWJKUdIBpAJBVV95cUxQcFpOTGtoRlhIdU5XdnR2X05mWVhZTzg2YngwbDVzZFdXT09xNldUWkh5YXhPQzJlYld3SWZNZlh6eXJ2WTVfOXh2RjNvN21DYmR5dFZjXzJPcVkwemVKdEF0REJHQmFJVjdBYktvM0k5dC1kZWd5N0puUUxSTjZ3dGtacTZNVTRaVzhYd1phTTdtTnFtNERla1pKcVdwWmN4QnlDcWVpRGZmU05VY2s1c3U3X1c0bnl1RjBocFFyMmpwYXFOOVV5NFF6OE9WLUhpT1ljemRhYTFhejBRRTF4RjhPaVdVYlY2SFZOM2tSS1hfWnNpOHdpaGNlWjZRbTgwUmJ4NUpqcWN1RE1kWkZDa29qdlJXb2t4MHYwZm51bFdsamZV?oc=5)
+
+2026-07-28 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPTld1SmFRaWYxajdMai1lc21XRnBDNXF6TFhoWjFSTE1aUk9sXzRMMnJfbnJCQUhBNTdJSE1LbER0ZDNrV3h4TFhDTFltVjJvV2xCMmpKUG5FRDhzZWtBV0lLNjBOd2F3WHpSV1U0UVRHM3FwLW9XaVFoNG4tZFVlYXB2eTJpX2M1LVhielB5bzI3cFZwWTAxWEFwSmNOMFFrek4tOGw5NlJUbkk5VjJNdGpnbjBMWFV2ZDBTa0JiRXE0NWtCTmZjekR4YUplN1Bpb0tNekJ0VWFGYUlkRmVScjAwcmQtZGVCSmh3NHUzeGllbVY3a1BpZUxLVWRpNDllYlVxNkx1cDdWa3pzSEdDWEFvZHdRT3dmV2RyNVloWnBReGRKRm9uMDJvV1BYOV91QjdabUUxLWJKUdIBpAJBVV95cUxQcFpOTGtoRlhIdU5XdnR2X05mWVhZTzg2YngwbDVzZFdXT09xNldUWkh5YXhPQzJlYld3SWZNZlh6eXJ2WTVfOXh2RjNvN21DYmR5dFZjXzJPcVkwemVKdEF0REJHQmFJVjdBYktvM0k5dC1kZWd5N0puUUxSTjZ3dGtacTZNVTRaVzhYd1phTTdtTnFtNERla1pKcVdwWmN4QnlDcWVpRGZmU05VY2s1c3U3X1c0bnl1RjBocFFyMmpwYXFOOVV5NFF6OE9WLUhpT1ljemRhYTFhejBRRTF4RjhPaVdVYlY2SFZOM2tSS1hfWnNpOHdpaGNlWjZRbTgwUmJ4NUpqcWN1RE1kWkZDa29qdlJXb2t4MHYwZm51bFdsamZV?oc=5)
+
+---
+
 ### [New Twice-Yearly Inclisiran Therapy Shows Major Reduction in LDL Cholesterol](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0JJZjYydlVuTUJSQ0F0WVVBbUpkb2NuMXRPcDZickpXbW94cUVFampwb1BxeEdfa0Qtb0Z4TzI5ZHBUa251MWdXWExoZ0xMSzBYR2V2OEFDRE9wTjhEMllpeGFZaDFSZ2dkYUp4a0RsYlZxYkxzcmpEclY3RnRwRmo0X1ZKVl9SNVJXYzdZdkZYVUprME1ZNnphOWlpdnM0N2FhVHRtVHVUcWs?oc=5)
 
 2026-07-28 <span class="news-drug-tag">Inclisiran</span> <span class="news-indication-tag">heart disease</span>
@@ -134,19 +166,27 @@ permalink: /news/azilsartan-medoxomil/
 
 ---
 
-### [Cuidado con los riñones en verano: la señal de alerta silenciosa del riesgo cardiovascular oculto](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
+### [Wie viele Tassen Kaffee Sie täglich brauchen, um Ihre Leber zu schützen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2p6RWxQd2lERzhQbnpiWTQteWdFalptdjlqRVZGQWJOWlZUeF8zS3JhZi14amRRU1lXMmplbGxmRWtSMjBTbGVNR05QTi1CalVvX2FCX2Q4U0NCaWc4UEdmdXRzVnlmaVUxUnBpTEdQUGFWTWNUMjBuOF9VUmtzVlpTamk3Z1BHNlZVdDh5cUUtLTdWdkc4cEtXUnUwbHdRVTRwNEU0S2tYbnc3U1RPT1lTM1hSc1NNdElqRWxfTUtRYXRLVXRZeV83OA?oc=5)
 
-2026-07-28 <span class="news-indication-tag">ictus</span>
+2026-07-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
+來源：[Ludwigshafen24](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2p6RWxQd2lERzhQbnpiWTQteWdFalptdjlqRVZGQWJOWlZUeF8zS3JhZi14amRRU1lXMmplbGxmRWtSMjBTbGVNR05QTi1CalVvX2FCX2Q4U0NCaWc4UEdmdXRzVnlmaVUxUnBpTEdQUGFWTWNUMjBuOF9VUmtzVlpTamk3Z1BHNlZVdDh5cUUtLTdWdkc4cEtXUnUwbHdRVTRwNEU0S2tYbnc3U1RPT1lTM1hSc1NNdElqRWxfTUtRYXRLVXRZeV83OA?oc=5)
 
 ---
 
-### [Pourquoi certains fumeurs développent un cancer et d'autres non : une étude apporte des pistes - Yahoo Actualités](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtvMUxmQlZsTnJJOWwtYjAyX0pEU2o5T2ZIa0xJbkNyUm8zbmdwTFUtVExnVERYWS1QbGltS0tHbk5sTGg4QVczMTdwR3BwT0xyWjEtbEJ0UkhjZGtMYUdvQ2xBamNMZVhaaDMxcEpUT1MtSTFrMDVYekxrYUs1V2Y0VWV4dHZmRjdLZnZtZlQwcEdDZk5OUS1xaGZwbXlJTjA0NU9nM2pFRlBmQjRjbDZwcURUQUd4bEZFZGVDMUtIUUZZd0FsWFFhTDBCZw?oc=5)
+### [El riñón, la señal de alerta silenciosa de los problemas de corazón - Alcantarilla Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1V6UDg4YUVBVlR5TVAtdzZRclRtYnpUMU8wcGhpaFBKb1BEdHBiY1NvYnJIR0lvOVZMdWk4T3cwNzB1T1NWOVY4VTNjRnVFQXpvWkZhb25JODh2SlJwWk1ZNHAybTRQMDlXVnVYb0NxVHh4ckpPZlM1LXNXR2FNelR1bnhqc2hfWkRQdnE5ZER1bkJmT25kWnVtYlFqV3N6cVgzemtSQjVrY2NuWEtNV1REeEc?oc=5)
+
+2026-07-27 <span class="news-indication-tag">ictus</span>
+
+來源：[Alcantarilla Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1V6UDg4YUVBVlR5TVAtdzZRclRtYnpUMU8wcGhpaFBKb1BEdHBiY1NvYnJIR0lvOVZMdWk4T3cwNzB1T1NWOVY4VTNjRnVFQXpvWkZhb25JODh2SlJwWk1ZNHAybTRQMDlXVnVYb0NxVHh4ckpPZlM1LXNXR2FNelR1bnhqc2hfWkRQdnE5ZER1bkJmT25kWnVtYlFqV3N6cVgzemtSQjVrY2NuWEtNV1REeEc?oc=5)
+
+---
+
+### [Faut-il s’inquiéter de la chute du taux de testostérone chez les hommes ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDlHWkFHVlphWklLZl9MU1p2eG5KRDJSZWU3MWt6c085dE1wRzNKZXFQdTRxZGhsMkc0azVCcmY0Wk5YOHUzaVgxdWxBX0t1NEM1OGNhZlZLdmhxcDk3NEVyV3lPOHdMSkplclB6WWNrQ1oyVWdRTVg4Vzk2VHBwakVOWE9OZUo1SWhPdjFucHgwMGt4X0MzTnd5d1FmdEt6OTJ4RDNlUEJPRTlua2JRQjFfUGllNW1kd0xmZjhWeVBJUTMzdHU4?oc=5)
 
 2026-07-27 <span class="news-indication-tag">cancer</span>
 
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtvMUxmQlZsTnJJOWwtYjAyX0pEU2o5T2ZIa0xJbkNyUm8zbmdwTFUtVExnVERYWS1QbGltS0tHbk5sTGg4QVczMTdwR3BwT0xyWjEtbEJ0UkhjZGtMYUdvQ2xBamNMZVhaaDMxcEpUT1MtSTFrMDVYekxrYUs1V2Y0VWV4dHZmRjdLZnZtZlQwcEdDZk5OUS1xaGZwbXlJTjA0NU9nM2pFRlBmQjRjbDZwcURUQUd4bEZFZGVDMUtIUUZZd0FsWFFhTDBCZw?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDlHWkFHVlphWklLZl9MU1p2eG5KRDJSZWU3MWt6c085dE1wRzNKZXFQdTRxZGhsMkc0azVCcmY0Wk5YOHUzaVgxdWxBX0t1NEM1OGNhZlZLdmhxcDk3NEVyV3lPOHdMSkplclB6WWNrQ1oyVWdRTVg4Vzk2VHBwakVOWE9OZUo1SWhPdjFucHgwMGt4X0MzTnd5d1FmdEt6OTJ4RDNlUEJPRTlua2JRQjFfUGllNW1kd0xmZjhWeVBJUTMzdHU4?oc=5)
 
 ---
 
@@ -171,30 +211,6 @@ permalink: /news/azilsartan-medoxomil/
 2026-07-27 <span class="news-indication-tag">cancer</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHRYS0FZb0h3UnRaM1RnRUNnVlJUUTV6WnkyWDVFYk1ZajdYQ0d5dGxFa3RCcXk2WnhnWmNRX1dWMzk0Q3Z0c1JlNUVOMDFHTy1lY0MtNzUwUE1mT1dkMERjRjFsNXA4ZDVLVElpMEtjX0pKYl84a1M2dFd5ZlNCZWRHR1lTbHlfelc0RDZNZnZwd0pSWk9mUl9hX01YQjZTcU9xNzhLR0MxenNWTDVGTGJHOVdKdlZKUFhvdVlLUi10Zw?oc=5)
-
----
-
-### [Dieta chetogenica, doppio effetto metabolico. “Protegge il colon, ma aumenta il rischio di tumori intestinali” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
-
----
-
-### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
-
----
-
-### [Tumori, nanoparticelle d’oro per portare la chemioterapia più vicino al bersaglio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmk1d2d2T2U5VlRBT2E2cmVaaGw0ckVxUDZ3NDJ0NU5ZN09VeGZsUFVFUlhudExTbTBSSC1PQlRSMzRaMVA1TGVXZzM0TTVsZ1EtTWo5ekF3Y094UTE2N1JiLTJNeXRSdVZoeF9RNUNXd2JaM00wUC1uN2UzUHhZSFUtOHdPSGJITDdVeU5hbG5QRVZQOVdYMzJnNkFoS2twc1FZQk1WRE5VLW9PRDRWcVlhSHNQd1lKSUJaTnY1NTdZc2UyMEdmTmFCcEFpUW1EV2tHV0ZB?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmk1d2d2T2U5VlRBT2E2cmVaaGw0ckVxUDZ3NDJ0NU5ZN09VeGZsUFVFUlhudExTbTBSSC1PQlRSMzRaMVA1TGVXZzM0TTVsZ1EtTWo5ekF3Y094UTE2N1JiLTJNeXRSdVZoeF9RNUNXd2JaM00wUC1uN2UzUHhZSFUtOHdPSGJITDdVeU5hbG5QRVZQOVdYMzJnNkFoS2twc1FZQk1WRE5VLW9PRDRWcVlhSHNQd1lKSUJaTnY1NTdZc2UyMEdmTmFCcEFpUW1EV2tHV0ZB?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（5 則）
 
+### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+2026-07-28
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+---
+
 ### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
 2026-07-28
@@ -137,14 +145,6 @@ permalink: /news/diabetes-mellitus/
 2026-07-27
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
----
-
-### [Antipsicotici nei bambini, uno studio misura come cambia il rischio di diabete](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
-
-2026-07-27
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
 
 ---
 

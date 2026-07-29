@@ -56,9 +56,17 @@ permalink: /news/ustekinumab/
 
 ### [Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">soriasi</span>
+2026-07-29 <span class="news-indication-tag">soriasi</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
+
+---
+
+### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+2026-07-28 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/ustekinumab/
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
----
-
-### [Antipsicotici nei bambini, uno studio misura come cambia il rischio di diabete](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
 
 ---
 

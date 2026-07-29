@@ -54,6 +54,14 @@ permalink: /news/metformin/
 
 ## 相關新聞（5 則）
 
+### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+2026-07-28 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+---
+
 ### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
 2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -75,14 +83,6 @@ permalink: /news/metformin/
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
----
-
-### [Antipsicotici nei bambini, uno studio misura come cambia il rischio di diabete](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
 
 ---
 

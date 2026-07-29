@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Dr. Juan Arenas, especialista en digestivo: «Muchas personas conviven con hepatitis crónica sin saberlo: cuando hay síntomas el daño ya es grave» - El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
+
+2026-07-29 <span class="news-indication-tag">hepatitis</span>
+
+來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
+
+---
 
 ### [Health plea as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
 
@@ -80,7 +88,7 @@ permalink: /news/givosiran/
 
 ### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[aok.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
@@ -94,11 +102,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [El diagnóstico precoz, principal reto en la lucha contra las hepatitis - Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
+### [Los cardiólogos coinciden: más de 3 tazas de café al día se asocian a un menor riesgo de hipertensión - El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPTld1SmFRaWYxajdMai1lc21XRnBDNXF6TFhoWjFSTE1aUk9sXzRMMnJfbnJCQUhBNTdJSE1LbER0ZDNrV3h4TFhDTFltVjJvV2xCMmpKUG5FRDhzZWtBV0lLNjBOd2F3WHpSV1U0UVRHM3FwLW9XaVFoNG4tZFVlYXB2eTJpX2M1LVhielB5bzI3cFZwWTAxWEFwSmNOMFFrek4tOGw5NlJUbkk5VjJNdGpnbjBMWFV2ZDBTa0JiRXE0NWtCTmZjekR4YUplN1Bpb0tNekJ0VWFGYUlkRmVScjAwcmQtZGVCSmh3NHUzeGllbVY3a1BpZUxLVWRpNDllYlVxNkx1cDdWa3pzSEdDWEFvZHdRT3dmV2RyNVloWnBReGRKRm9uMDJvV1BYOV91QjdabUUxLWJKUdIBpAJBVV95cUxQcFpOTGtoRlhIdU5XdnR2X05mWVhZTzg2YngwbDVzZFdXT09xNldUWkh5YXhPQzJlYld3SWZNZlh6eXJ2WTVfOXh2RjNvN21DYmR5dFZjXzJPcVkwemVKdEF0REJHQmFJVjdBYktvM0k5dC1kZWd5N0puUUxSTjZ3dGtacTZNVTRaVzhYd1phTTdtTnFtNERla1pKcVdwWmN4QnlDcWVpRGZmU05VY2s1c3U3X1c0bnl1RjBocFFyMmpwYXFOOVV5NFF6OE9WLUhpT1ljemRhYTFhejBRRTF4RjhPaVdVYlY2SFZOM2tSS1hfWnNpOHdpaGNlWjZRbTgwUmJ4NUpqcWN1RE1kWkZDa29qdlJXb2t4MHYwZm51bFdsamZV?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPTld1SmFRaWYxajdMai1lc21XRnBDNXF6TFhoWjFSTE1aUk9sXzRMMnJfbnJCQUhBNTdJSE1LbER0ZDNrV3h4TFhDTFltVjJvV2xCMmpKUG5FRDhzZWtBV0lLNjBOd2F3WHpSV1U0UVRHM3FwLW9XaVFoNG4tZFVlYXB2eTJpX2M1LVhielB5bzI3cFZwWTAxWEFwSmNOMFFrek4tOGw5NlJUbkk5VjJNdGpnbjBMWFV2ZDBTa0JiRXE0NWtCTmZjekR4YUplN1Bpb0tNekJ0VWFGYUlkRmVScjAwcmQtZGVCSmh3NHUzeGllbVY3a1BpZUxLVWRpNDllYlVxNkx1cDdWa3pzSEdDWEFvZHdRT3dmV2RyNVloWnBReGRKRm9uMDJvV1BYOV91QjdabUUxLWJKUdIBpAJBVV95cUxQcFpOTGtoRlhIdU5XdnR2X05mWVhZTzg2YngwbDVzZFdXT09xNldUWkh5YXhPQzJlYld3SWZNZlh6eXJ2WTVfOXh2RjNvN21DYmR5dFZjXzJPcVkwemVKdEF0REJHQmFJVjdBYktvM0k5dC1kZWd5N0puUUxSTjZ3dGtacTZNVTRaVzhYd1phTTdtTnFtNERla1pKcVdwWmN4QnlDcWVpRGZmU05VY2s1c3U3X1c0bnl1RjBocFFyMmpwYXFOOVV5NFF6OE9WLUhpT1ljemRhYTFhejBRRTF4RjhPaVdVYlY2SFZOM2tSS1hfWnNpOHdpaGNlWjZRbTgwUmJ4NUpqcWN1RE1kWkZDa29qdlJXb2t4MHYwZm51bFdsamZV?oc=5)
 
 ---
 

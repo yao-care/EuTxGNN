@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,21 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Save your brain — stop late-night snacking - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
 
 2026-07-27 <span class="news-indication-tag">dementia</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
+
+---
+
+### [New Study Finds Married People Are Up To 74% More Likely To Develop Dementia Under One Specific Condition - Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnBEM0JKc0JiMlFvRTQ1VG5iMm9YQkp6S3ZtLTVMV0EtcjFDMmRfUnd2Wjk5Ym14MV9YejVxWGlXTFRFaFYzalpsMVRTUmgycklsYnotWkxIUXUxOHpheUJrVFNiYlVVUFMyU290UlhLZkZaa2NNZGt3N2I3aFA0bF9jVFpSRjR6U3U0TTdrdzlGT2Y2RGY5aTJn?oc=5)
+
+2026-07-27 <span class="news-indication-tag">dementia</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYnBEM0JKc0JiMlFvRTQ1VG5iMm9YQkp6S3ZtLTVMV0EtcjFDMmRfUnd2Wjk5Ym14MV9YejVxWGlXTFRFaFYzalpsMVRTUmgycklsYnotWkxIUXUxOHpheUJrVFNiYlVVUFMyU290UlhLZkZaa2NNZGt3N2I3aFA0bF9jVFpSRjR6U3U0TTdrdzlGT2Y2RGY5aTJn?oc=5)
 
 ---
 

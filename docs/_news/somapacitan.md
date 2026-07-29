@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+
+---
+
+### [La plasmaféresis podría mejorar la recuperación de una enfermedad rara que puede causar ceguera](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
+
+2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
+
+---
+
+### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+2026-07-28 <span class="news-indication-tag">diabete</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+---
 
 ### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
@@ -75,14 +99,6 @@ permalink: /news/somapacitan/
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGJaSThIUzRRWHR0U3lkNElwSkNGVFlZUVJSRVNHMXVhSklvaGJIN21VdkhBbzZQSGhDNWIxMVBXZHI1cjdiSXBNZDVlTGpoWkZya1Vkenp3aC0zY1RjdkdNT2wtZHluQUdQa3FYYmVQcGRFdVE0cmxJUC1jRG9KazhTX3VneFBXUngwRXAxSDN4NDlsNUNPSS1WN2VHRUZWUmVSU3RQUjJMNkpuVkJNcVVVcHlhWi1ELWRONGVEZ0RvcFYxME5wQ3N2aVRTckk?oc=5)
-
----
-
-### [Antipsicotici nei bambini, uno studio misura come cambia il rischio di diabete](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
 
 ---
 

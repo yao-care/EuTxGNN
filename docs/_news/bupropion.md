@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ["Nous apprenons toujours, même après 40 ans" : remboursés depuis juin 2026, les médicaments contre l'obésité continuent de surprendre les chercheurs](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
+
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
+
+---
 
 ### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
 

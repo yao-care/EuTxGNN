@@ -14,7 +14,7 @@ permalink: /news/carfilzomib/
 ---
 
 <p class="key-answer" data-question="Carfilzomib 有什麼相關新聞？">
-<strong>Carfilzomib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carfilzomib</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/carfilzomib/
 <p><a href="{{ '/drugs/carfilzomib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（18 則）
+
+### [Krebs: Diese Methode soll die Diagnose bei Brustkrebs entscheidend verbessern](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
+
+---
+
+### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+
+---
+
+### [La plasmaféresis podría mejorar la recuperación de una enfermedad rara que puede causar ceguera](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
+
+2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
+
+---
+
+### [Gros fumeurs sans cancer : leurs poumons cacheraient une défense rare](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVzdoVGR1V3EzU1RZQjV1RmFzWWpEVk1oMk1HcTRmZjlSYUpUdXg5Zzk3dG9FcjJLZTZMV2hDY2N3SzJGWEdnQmN3bGtoWVY3UUFicXhmUmlCMVFpR19mTE42YkdXMVREREdsRFV3dDdxRGpCVzlmNERDNUptS2ExZTE5NUVPTkdTbzFVU05mNmtEN3pwRkE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVzdoVGR1V3EzU1RZQjV1RmFzWWpEVk1oMk1HcTRmZjlSYUpUdXg5Zzk3dG9FcjJLZTZMV2hDY2N3SzJGWEdnQmN3bGtoWVY3UUFicXhmUmlCMVFpR19mTE42YkdXMVREREdsRFV3dDdxRGpCVzlmNERDNUptS2ExZTE5NUVPTkdTbzFVU05mNmtEN3pwRkE?oc=5)
+
+---
 
 ### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
 2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+---
+
+### [Parte lo screening polmonare per forti fumatori - Gazzetta di Mantova](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHlrX1EwaGZQQnlwcDdmbjVHYU1Ka1VnZFVJd01GMDVSTDh0dXA3YnAwU0dUX2otRnRabWNacDdjdGYzd2J1R1BaN2xWUGFDQXhCcFpVckZlRThDaXFKTW9LUjVTdTdsTF82cWdrV2RjSVBmU0U2RGZseDdvY1FzZS11RTFsNGprOXlIWWJweUhpbUk2djRpdlEyUFpNTU91MDFOaEoxUWdMOVo0NHhfanhKMlVYU0N0U21YSWJxYktDUDDSAcgBQVVfeXFMTnhEaFBJTFFfb3lUb0VhSnJkYjNHZGZzWFN4eS1CRjloQTByLWtXemw2QlVwNWVMOHVSQXV5UWNhcXNmOFFrSnR2UENNUFdkV29uaHJvc0poOXJvMVpONjUycGM5ZmJkSHBpSExPbTA0cFhPS19Xc2JpdVg3c1N5SVlTWWlwa3NKXzZMWnlwNU93NGtBbzI1bjlyT0dCLUNOcTRPWHJ5ZEJJNERPeUFGQktERnZTWnhuWGNTMkpCMDY2cVIyOERIWW4?oc=5)
+
+2026-07-28 <span class="news-indication-tag">tumor</span>
+
+來源：[Gazzetta di Mantova](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHlrX1EwaGZQQnlwcDdmbjVHYU1Ka1VnZFVJd01GMDVSTDh0dXA3YnAwU0dUX2otRnRabWNacDdjdGYzd2J1R1BaN2xWUGFDQXhCcFpVckZlRThDaXFKTW9LUjVTdTdsTF82cWdrV2RjSVBmU0U2RGZseDdvY1FzZS11RTFsNGprOXlIWWJweUhpbUk2djRpdlEyUFpNTU91MDFOaEoxUWdMOVo0NHhfanhKMlVYU0N0U21YSWJxYktDUDDSAcgBQVVfeXFMTnhEaFBJTFFfb3lUb0VhSnJkYjNHZGZzWFN4eS1CRjloQTByLWtXemw2QlVwNWVMOHVSQXV5UWNhcXNmOFFrSnR2UENNUFdkV29uaHJvc0poOXJvMVpONjUycGM5ZmJkSHBpSExPbTA0cFhPS19Xc2JpdVg3c1N5SVlTWWlwa3NKXzZMWnlwNU93NGtBbzI1bjlyT0dCLUNOcTRPWHJ5ZEJJNERPeUFGQktERnZTWnhuWGNTMkpCMDY2cVIyOERIWW4?oc=5)
 
 ---
 
@@ -110,11 +150,19 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [Pourquoi certains fumeurs développent un cancer et d'autres non : une étude apporte des pistes - Yahoo Actualités](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtvMUxmQlZsTnJJOWwtYjAyX0pEU2o5T2ZIa0xJbkNyUm8zbmdwTFUtVExnVERYWS1QbGltS0tHbk5sTGg4QVczMTdwR3BwT0xyWjEtbEJ0UkhjZGtMYUdvQ2xBamNMZVhaaDMxcEpUT1MtSTFrMDVYekxrYUs1V2Y0VWV4dHZmRjdLZnZtZlQwcEdDZk5OUS1xaGZwbXlJTjA0NU9nM2pFRlBmQjRjbDZwcURUQUd4bEZFZGVDMUtIUUZZd0FsWFFhTDBCZw?oc=5)
+### [Wie viele Tassen Kaffee Sie täglich brauchen, um Ihre Leber zu schützen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2p6RWxQd2lERzhQbnpiWTQteWdFalptdjlqRVZGQWJOWlZUeF8zS3JhZi14amRRU1lXMmplbGxmRWtSMjBTbGVNR05QTi1CalVvX2FCX2Q4U0NCaWc4UEdmdXRzVnlmaVUxUnBpTEdQUGFWTWNUMjBuOF9VUmtzVlpTamk3Z1BHNlZVdDh5cUUtLTdWdkc4cEtXUnUwbHdRVTRwNEU0S2tYbnc3U1RPT1lTM1hSc1NNdElqRWxfTUtRYXRLVXRZeV83OA?oc=5)
+
+2026-07-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[Ludwigshafen24](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2p6RWxQd2lERzhQbnpiWTQteWdFalptdjlqRVZGQWJOWlZUeF8zS3JhZi14amRRU1lXMmplbGxmRWtSMjBTbGVNR05QTi1CalVvX2FCX2Q4U0NCaWc4UEdmdXRzVnlmaVUxUnBpTEdQUGFWTWNUMjBuOF9VUmtzVlpTamk3Z1BHNlZVdDh5cUUtLTdWdkc4cEtXUnUwbHdRVTRwNEU0S2tYbnc3U1RPT1lTM1hSc1NNdElqRWxfTUtRYXRLVXRZeV83OA?oc=5)
+
+---
+
+### [Faut-il s’inquiéter de la chute du taux de testostérone chez les hommes ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDlHWkFHVlphWklLZl9MU1p2eG5KRDJSZWU3MWt6c085dE1wRzNKZXFQdTRxZGhsMkc0azVCcmY0Wk5YOHUzaVgxdWxBX0t1NEM1OGNhZlZLdmhxcDk3NEVyV3lPOHdMSkplclB6WWNrQ1oyVWdRTVg4Vzk2VHBwakVOWE9OZUo1SWhPdjFucHgwMGt4X0MzTnd5d1FmdEt6OTJ4RDNlUEJPRTlua2JRQjFfUGllNW1kd0xmZjhWeVBJUTMzdHU4?oc=5)
 
 2026-07-27 <span class="news-indication-tag">cancer</span>
 
-來源：[Yahoo Actualités](https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUtvMUxmQlZsTnJJOWwtYjAyX0pEU2o5T2ZIa0xJbkNyUm8zbmdwTFUtVExnVERYWS1QbGltS0tHbk5sTGg4QVczMTdwR3BwT0xyWjEtbEJ0UkhjZGtMYUdvQ2xBamNMZVhaaDMxcEpUT1MtSTFrMDVYekxrYUs1V2Y0VWV4dHZmRjdLZnZtZlQwcEdDZk5OUS1xaGZwbXlJTjA0NU9nM2pFRlBmQjRjbDZwcURUQUd4bEZFZGVDMUtIUUZZd0FsWFFhTDBCZw?oc=5)
+來源：[Le Figaro Santé](https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDlHWkFHVlphWklLZl9MU1p2eG5KRDJSZWU3MWt6c085dE1wRzNKZXFQdTRxZGhsMkc0azVCcmY0Wk5YOHUzaVgxdWxBX0t1NEM1OGNhZlZLdmhxcDk3NEVyV3lPOHdMSkplclB6WWNrQ1oyVWdRTVg4Vzk2VHBwakVOWE9OZUo1SWhPdjFucHgwMGt4X0MzTnd5d1FmdEt6OTJ4RDNlUEJPRTlua2JRQjFfUGllNW1kd0xmZjhWeVBJUTMzdHU4?oc=5)
 
 ---
 
@@ -147,30 +195,6 @@ permalink: /news/carfilzomib/
 2026-07-27 <span class="news-indication-tag">asma</span>
 
 來源：[Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
-
----
-
-### [Dieta chetogenica, doppio effetto metabolico. “Protegge il colon, ma aumenta il rischio di tumori intestinali” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
-
----
-
-### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
-
----
-
-### [Tumori, nanoparticelle d’oro per portare la chemioterapia più vicino al bersaglio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmk1d2d2T2U5VlRBT2E2cmVaaGw0ckVxUDZ3NDJ0NU5ZN09VeGZsUFVFUlhudExTbTBSSC1PQlRSMzRaMVA1TGVXZzM0TTVsZ1EtTWo5ekF3Y094UTE2N1JiLTJNeXRSdVZoeF9RNUNXd2JaM00wUC1uN2UzUHhZSFUtOHdPSGJITDdVeU5hbG5QRVZQOVdYMzJnNkFoS2twc1FZQk1WRE5VLW9PRDRWcVlhSHNQd1lKSUJaTnY1NTdZc2UyMEdmTmFCcEFpUW1EV2tHV0ZB?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmk1d2d2T2U5VlRBT2E2cmVaaGw0ckVxUDZ3NDJ0NU5ZN09VeGZsUFVFUlhudExTbTBSSC1PQlRSMzRaMVA1TGVXZzM0TTVsZ1EtTWo5ekF3Y094UTE2N1JiLTJNeXRSdVZoeF9RNUNXd2JaM00wUC1uN2UzUHhZSFUtOHdPSGJITDdVeU5hbG5QRVZQOVdYMzJnNkFoS2twc1FZQk1WRE5VLW9PRDRWcVlhSHNQd1lKSUJaTnY1NTdZc2UyMEdmTmFCcEFpUW1EV2tHV0ZB?oc=5)
 
 ---
 

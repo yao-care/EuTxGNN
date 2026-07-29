@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（11 則）
 
-### [Wearables erkennen Colitis-Schübe bis zu 7 Wochen früher](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
-
-2026-07-29 <span class="news-indication-tag">MS</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
-
----
-
-### [Entzündungsbremse: Wie der Körper seine IL-1Ra-Schutzfunktion blockiert](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
+### [Hyperinflammation: Wie eine fehlgeleitete IL-1Ra Bremse COVID-19 und Rheuma verbindet - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
 
 2026-07-28 <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
 
 ---
 
@@ -78,11 +70,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[aok.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+
+---
+
 ### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
 2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+---
+
+### [DWP confirms full list of 25 skin conditions that qualify for £114 weekly payment - Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFlVeDBUeEtfWFNzSm9wcG5KTWtTT1duRUMyWGc5SXBzenZ2TVJpbFhJeWtJeVhGZTRqVkJGLThjOG4wUzR4RlBKa1VHM2lBVkxsV19RNC1kWFFTZ2pHLURjSG1aVlRTTEY4NVBIcFBKTTg4c0NpaDNtal9JNEhENGFpQlR6dFFidE85YjJoTFk?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span>
+
+來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFlVeDBUeEtfWFNzSm9wcG5KTWtTT1duRUMyWGc5SXBzenZ2TVJpbFhJeWtJeVhGZTRqVkJGLThjOG4wUzR4RlBKa1VHM2lBVkxsV19RNC1kWFFTZ2pHLURjSG1aVlRTTEY4NVBIcFBKTTg4c0NpaDNtal9JNEhENGFpQlR6dFFidE85YjJoTFk?oc=5)
 
 ---
 
@@ -94,27 +102,19 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [El diagnóstico precoz, principal reto en la lucha contra las hepatitis - Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
+### [Factory farming could be fuelling spread of common disease which causes food poisoning - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmVXZjYzdzAySTNQdkE4Rk02U3RtSV9UaDIzMXVqYm9yWFhhQ1F4bUQ0WE1Nc2pwNjB2SXBUMy1kREdPb0tuOVIyUXhnUU00VXJSV2t5aFhWamJEVldQVS0yQjBMSEdUaUhQLS1FYjY2WklsLTRSdWdHVUtQWjE0XzNCNHRyS29vOWRUNGRjN0g0blVrVUlVdE9HM2RrNkxZTTF1cXNqTGVZQQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-27 <span class="news-indication-tag">MS</span>
 
-來源：[Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
-
----
-
-### [Giant chicken farms create mutant diarrhoea bacteria - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxObmI0YXIyblJvVGZoUGhlYVlvSjZuWWVtSmJ6c2RJT0pVR1JvM19ETGhwVllrV1FfN1JNR2RFSWJCZVhIWUR5dGJwZVBwcWlZZ25jaXlMY1dncXlCc1p1MzdxM3owYnkyTlJrYnAwN19IYjI4cTRsZFFWZFhZZ3I4UGdMZGg4ZVljSUlCaUhKZjRNSWMxY2l6b0xZNEprRk9oX2Ew?oc=5)
-
-2026-07-28 <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxObmI0YXIyblJvVGZoUGhlYVlvSjZuWWVtSmJ6c2RJT0pVR1JvM19ETGhwVllrV1FfN1JNR2RFSWJCZVhIWUR5dGJwZVBwcWlZZ25jaXlMY1dncXlCc1p1MzdxM3owYnkyTlJrYnAwN19IYjI4cTRsZFFWZFhZZ3I4UGdMZGg4ZVljSUlCaUhKZjRNSWMxY2l6b0xZNEprRk9oX2Ew?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmVXZjYzdzAySTNQdkE4Rk02U3RtSV9UaDIzMXVqYm9yWFhhQ1F4bUQ0WE1Nc2pwNjB2SXBUMy1kREdPb0tuOVIyUXhnUU00VXJSV2t5aFhWamJEVldQVS0yQjBMSEdUaUhQLS1FYjY2WklsLTRSdWdHVUtQWjE0XzNCNHRyS29vOWRUNGRjN0g0blVrVUlVdE9HM2RrNkxZTTF1cXNqTGVZQQ?oc=5)
 
 ---
 
-### [On pensait le petit verre de rouge du dimanche bon pour le cœur : l'OMS vient de trancher sur la dose réellement sans danger](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3ptODdVMzRYbEFZLVAxN2VlUE9HRTVYWjQ5dzJrbVZBZS1WNGNaS3A5QVp1a2lRYjAtUVlFRGVTS1JiYnJXZUNlS1RxdUNIYXhSQTJxZHpOeXMzU0Q1U2ZzVVZfNENqWnd0dGdNRUtHQ01Yd1NwMDg0NUI4OWhidTcyUlR5TzhRSlRuRnlDcU51eXpMdkhDTk1yYTFLNnZLTllmSzhzX3phZlBCVnFueWQtVXZoaG4xSWt0V05UaDAtQmdRbzdOOGFTMXRqYllZSkIwZVNIMDFXel84QUpB?oc=5)
+### [KI-Biomarker und Wearables bei Morbus Crohn: Früherkennung bis zu zehn Jahre früher - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span>
+2026-07-27 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3ptODdVMzRYbEFZLVAxN2VlUE9HRTVYWjQ5dzJrbVZBZS1WNGNaS3A5QVp1a2lRYjAtUVlFRGVTS1JiYnJXZUNlS1RxdUNIYXhSQTJxZHpOeXMzU0Q1U2ZzVVZfNENqWnd0dGdNRUtHQ01Yd1NwMDg0NUI4OWhidTcyUlR5TzhRSlRuRnlDcU51eXpMdkhDTk1yYTFLNnZLTllmSzhzX3phZlBCVnFueWQtVXZoaG4xSWt0V05UaDAtQmdRbzdOOGFTMXRqYllZSkIwZVNIMDFXel84QUpB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1ZZT1hnaUlRSlAtc3A0V2R2RDd0M1JtR1BNbnF1RldJYkRvaDZmc3BXZ3hPZ3czNDVERXJ4MUVGYV9xWXdfT3VKSlUwZ05MZEpDUG1Ha3ByMk5OVF9jMEcyLUV1UVhfdDF4S1ktV0NhY3E5R0djVXZQWlZYZDU4WU9leWZyN08wYjEwaWxzWFlWekFDVDdEeVBhNHlueWFraS1tS3VzZ0lLbVRnSWJpNmJFUmNEa2s?oc=5)
 
 ---
 
@@ -123,14 +123,6 @@ permalink: /news/interferon-beta-1a/
 2026-07-27 <span class="news-indication-tag">MS</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkMtTkZ4RnJOQWNOWm5OM0hQak0zRGJkTkFCSWVkMzJfY1JNMEhvQWwtMTNGRmtjX1pocmRXRDRXYmxEYVVOVnA2RmxnMHNMMl8wekswT0kxN0wzaTB6V0J4dDVEYWtZdUQ1dkc3Ull1VmVyYVE3R05FUVoxekQzX2RqM25VajAzU2ZQVzBBRVM3Rl9kYi1FNUVWSEMxaXMyMnh6eTFPVi12eTdSTDlHekVNTEhRLTBIblVnTVlB?oc=5)
-
----
-
-### [NHS confirms double vaccine for older adults aged 65-80 - Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkF1cVptTmtFamlIM2FoWmNqNEdKSEdXNjQ5blY1cm5Eazl0eEtZZ2ZoencwckVmUlVvcC1Mby1XMHdWOXI3VWRkeFJkLUl0M1ZzcFVCZ21ETHYyUzdnYTdVT1JRR0owNTAxbGNjek9hbFR5UFBmdjlvS1JpdzhTVHdTRkkwUEFxLTd2LS1B0gGTAUFVX3lxTE13MUtPcTlfOERGajZ1WU9sMUJrdWxTN0JnYklrNmVWMS1tZTltSENnVXdsVTJGVG5na1Zpa01PaDZHMElZelkxbnNMM05EN2ZFUU9fR01Vd0RZcmt6em01SWd5ZnA4M1ZkR2JFMEp4YXN5Y0pDUEtSd3d6clZnbkYyOUk1WjlSMU9Gc0dqMkY1WW9pQQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbkF1cVptTmtFamlIM2FoWmNqNEdKSEdXNjQ5blY1cm5Eazl0eEtZZ2ZoencwckVmUlVvcC1Mby1XMHdWOXI3VWRkeFJkLUl0M1ZzcFVCZ21ETHYyUzdnYTdVT1JRR0owNTAxbGNjek9hbFR5UFBmdjlvS1JpdzhTVHdTRkkwUEFxLTd2LS1B0gGTAUFVX3lxTE13MUtPcTlfOERGajZ1WU9sMUJrdWxTN0JnYklrNmVWMS1tZTltSENnVXdsVTJGVG5na1Zpa01PaDZHMElZelkxbnNMM05EN2ZFUU9fR01Vd0RZcmt6em01SWd5ZnA4M1ZkR2JFMEp4YXN5Y0pDUEtSd3d6clZnbkYyOUk1WjlSMU9Gc0dqMkY1WW9pQQ?oc=5)
 
 ---
 
@@ -147,22 +139,6 @@ permalink: /news/interferon-beta-1a/
 2026-07-27 <span class="news-indication-tag">MS</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipwFBVV95cUxORE9wTzVYU0t0ekhxM0dEakZWeWFjVmR6OUluU0p1UHp3T2ZxSzFBVzlkXzlDMmxCaVZXVG41ekpZS1dRdk43b2ZOdG5BS0NRZGlRcGNncTBFbk9YQml2WHhDZk5YNm5VbWJpRTZLQVR5dGtfVHhQME9SWl9UM1FoT2NJSGFBb09qX3prX0U5ZHQ0cjBnUDhUSlRwTFBSNzktOTNLNHZHVQ?oc=5)
-
----
-
-### [Una pillola dopo il sesso può prevenire alcune infezioni? Le nuove indicazioni dell’OMS](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmJiR2F2R3JxblJZOTVnYXkyZWtwdGN6eVJlZEo0NnI5SWlOOFhidk5MZHA3enY5OWNnYkFBRDV4aHllNzBvVktYZHc0ckxYYzJOb1kweFpheEZTamVPa2tyQXJINHltQ1pIOVJtNzBuYmM5Y3lIQjFNU01JVDF4dmwyYlZRdWJmSXYwYm1ob1ZGVXNpbUJHb3pBZmpQcm5YdlNVdHNyNmsxLUhsMEIyUzVmUk9pNkRUQnhmeS1iV2lkWklNU2tMOE9yMWR6T0JMM3c5R21yYVlWQ2pQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmJiR2F2R3JxblJZOTVnYXkyZWtwdGN6eVJlZEo0NnI5SWlOOFhidk5MZHA3enY5OWNnYkFBRDV4aHllNzBvVktYZHc0ckxYYzJOb1kweFpheEZTamVPa2tyQXJINHltQ1pIOVJtNzBuYmM5Y3lIQjFNU01JVDF4dmwyYlZRdWJmSXYwYm1ob1ZGVXNpbUJHb3pBZmpQcm5YdlNVdHNyNmsxLUhsMEIyUzVmUk9pNkRUQnhmeS1iV2lkWklNU2tMOE9yMWR6T0JMM3c5R21yYVlWQ2pQ?oc=5)
-
----
-
-### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
 ---
 

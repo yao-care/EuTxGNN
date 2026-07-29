@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "obésité（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "obésité（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# obésité（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
+<strong>obésité（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### ["Nous apprenons toujours, même après 40 ans" : remboursés depuis juin 2026, les médicaments contre l'obésité continuent de surprendre les chercheurs](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
+
+2026-07-28
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
+
+---
 
 ### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
 
