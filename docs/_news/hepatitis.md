@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。5 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。4 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>5 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>4 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Epatiti, Ecdc: “In Europa 5 mln con malattia cronica”. Iss: Serve prevenzione”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
 
@@ -76,14 +76,6 @@ permalink: /news/hepatitis/
 2026-07-28
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
-
----
-
-### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
-
-2026-07-28
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
 
 ---
 

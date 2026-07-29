@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Fibrillazione atriale con il 'clippaggo esterno" a Casa Sollievo: 8 pazienti trattati con la tecnica mininvasiva sull'auricola](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AFib</span>
+
+來源：[foggiatoday.it](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+
+---
 
 ### [José Abellán, cardiólogo, alerta: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzhNOUswMG1HV2FjMWFHUGF0Wk1JUHhPMVdzazhMMlVXVjNsMUc1V2tXZWF6X19EeHZFcWFyNlFmYWU0blgtOGlKbFFwTmVYZjlOWk94SGtGdmVXclEtUkVQdmtwczcyWXAxMG0tZnM3aGp3WEJ3a1NSVmlNX3NUb2ctc3V2eVJ5R29fZ1ZpZGpfRFMtM2g1OW1VU05rclBla0piY3pYUTExb0tYbmlQR08zanlON29a0gG-AUFVX3lxTFBoTi1KMVBOemJINzVpWGtfSE9xN2JCZmFnS0lQVFYwWks4T3NfQ2pxOGNiNjk0bVhBeGJjOHpvcDltSng3VHJvZDF5WjB5ejBUdXFtZ0VfU2pKODVZNmpLeVk2RFF6YWRpd1UzZGo4UDFiaUZCZXdEVXZBYnEzOHRDTDJmcDdKLTZNbEY2Mlg5ek0zd2N3NzloWlFheThscF9sVUI0ZXgzSldITVk4cF9KdU1ySGNiOE5RMndTUmc?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
+### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
 
 2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ permalink: /news/raloxifene-hydrochloride/
 2026-07-29 <span class="news-indication-tag">CVA</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
+
+---
+
+### [PMOS statt PCOS: Neue Leitlinie soll Diagnosequote und Langzeitrisiken senken - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmNjVmpwc1cwM2pEbGw0R05qN0dpZThXT09MREwtOG1XcmNJWll2bFVzNEFPQkoyU2NqVnVrM1ZqRFBRaHNfRFpvc3g0UWNtNW1nQXlIdEs2MHRvN1RjaDBINGN4YTAzaXdraWdXSFZVRm1qUTliU1FVLXRVZFR2MVFxTEdXRC1PcDNSSzdSS3M4QWNUN2JPMVAyMmdWMW5rVjR3RVYxZUdVTFIt?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmNjVmpwc1cwM2pEbGw0R05qN0dpZThXT09MREwtOG1XcmNJWll2bFVzNEFPQkoyU2NqVnVrM1ZqRFBRaHNfRFpvc3g0UWNtNW1nQXlIdEs2MHRvN1RjaDBINGN4YTAzaXdraWdXSFZVRm1qUTliU1FVLXRVZFR2MVFxTEdXRC1PcDNSSzdSS3M4QWNUN2JPMVAyMmdWMW5rVjR3RVYxZUdVTFIt?oc=5)
 
 ---
 

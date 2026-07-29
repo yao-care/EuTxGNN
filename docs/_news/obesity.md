@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,27 +38,27 @@ permalink: /news/obesity/
 
 ## 相關新聞（3 則）
 
+### [‘Our spark has gone’: The marriages ruined by Ozempic - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
+
+2026-07-29
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
+
+---
+
+### [Semaglutide in pillole autorizzato in Europa, che cosa cambia in concreto (e cosa no) per chi intraprende un percorso di dimagrimento con i farmaci GLP-1 - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
+
+2026-07-29
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
+
+---
+
 ### ["Nous apprenons toujours, même après 40 ans" : remboursés depuis juin 2026, les médicaments contre l'obésité continuent de surprendre les chercheurs](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
 
 2026-07-28
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
-
----
-
-### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
-
-2026-07-28
-
-來源：[Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
-
----
-
-### [Il Piccolo Lucio lo aveva detto: God save la dieta mediterranea](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
-
-2026-07-27
-
-來源：[Domani](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
+來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
 
 ---
 

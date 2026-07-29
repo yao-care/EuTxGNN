@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [‘Our spark has gone’: The marriages ruined by Ozempic - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
+
+2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
+
+---
+
+### [Fibrillazione atriale con il 'clippaggo esterno" a Casa Sollievo: 8 pazienti trattati con la tecnica mininvasiva sull'auricola](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AFib</span>
+
+來源：[foggiatoday.it](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+
+---
 
 ### [José Abellán, cardiólogo, alerta: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzhNOUswMG1HV2FjMWFHUGF0Wk1JUHhPMVdzazhMMlVXVjNsMUc1V2tXZWF6X19EeHZFcWFyNlFmYWU0blgtOGlKbFFwTmVYZjlOWk94SGtGdmVXclEtUkVQdmtwczcyWXAxMG0tZnM3aGp3WEJ3a1NSVmlNX3NUb2ctc3V2eVJ5R29fZ1ZpZGpfRFMtM2g1OW1VU05rclBla0piY3pYUTExb0tYbmlQR08zanlON29a0gG-AUFVX3lxTFBoTi1KMVBOemJINzVpWGtfSE9xN2JCZmFnS0lQVFYwWks4T3NfQ2pxOGNiNjk0bVhBeGJjOHpvcDltSng3VHJvZDF5WjB5ejBUdXFtZ0VfU2pKODVZNmpLeVk2RFF6YWRpd1UzZGo4UDFiaUZCZXdEVXZBYnEzOHRDTDJmcDdKLTZNbEY2Mlg5ek0zd2N3NzloWlFheThscF9sVUI0ZXgzSldITVk4cF9KdU1ySGNiOE5RMndTUmc?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
+### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
 
 2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
 
 ---
 
@@ -78,11 +94,27 @@ permalink: /news/orlistat/
 
 ---
 
+### [Semaglutide in pillole autorizzato in Europa, che cosa cambia in concreto (e cosa no) per chi intraprende un percorso di dimagrimento con i farmaci GLP-1 - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
+
+2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
+
+---
+
 ### ['Put the MenB vaccine on your university prep checklist'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
 
 2026-07-29 <span class="news-indication-tag">CVA</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
+
+---
+
+### [PMOS statt PCOS: Neue Leitlinie soll Diagnosequote und Langzeitrisiken senken - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmNjVmpwc1cwM2pEbGw0R05qN0dpZThXT09MREwtOG1XcmNJWll2bFVzNEFPQkoyU2NqVnVrM1ZqRFBRaHNfRFpvc3g0UWNtNW1nQXlIdEs2MHRvN1RjaDBINGN4YTAzaXdraWdXSFZVRm1qUTliU1FVLXRVZFR2MVFxTEdXRC1PcDNSSzdSS3M4QWNUN2JPMVAyMmdWMW5rVjR3RVYxZUdVTFIt?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmNjVmpwc1cwM2pEbGw0R05qN0dpZThXT09MREwtOG1XcmNJWll2bFVzNEFPQkoyU2NqVnVrM1ZqRFBRaHNfRFpvc3g0UWNtNW1nQXlIdEs2MHRvN1RjaDBINGN4YTAzaXdraWdXSFZVRm1qUTliU1FVLXRVZFR2MVFxTEdXRC1PcDNSSzdSS3M4QWNUN2JPMVAyMmdWMW5rVjR3RVYxZUdVTFIt?oc=5)
 
 ---
 
@@ -98,15 +130,7 @@ permalink: /news/orlistat/
 
 2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
-
----
-
-### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">obesità</span>
-
-來源：[Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
+來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
 
 ---
 
@@ -115,14 +139,6 @@ permalink: /news/orlistat/
 2026-07-28 <span class="news-indication-tag">ictus</span>
 
 來源：[OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
-
----
-
-### [Il Piccolo Lucio lo aveva detto: God save la dieta mediterranea](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">obesità</span>
-
-來源：[Domani](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbU9oN0dVbXhWUWhLMkd4Q2lPcWhPRng4a2Q5dEdUYmRjZnJ5U3NfeExIY0VKS3Y5OGRpYUt2eWh2dDVLQkV5V0VlVkdQYzFlSWZFa1oyc0NMOXIxMEZaUnVBb0JpdmxiWDUtb0pGeWs4MGc5aUN3VENqa05Jd0F2TjNESUQ2ekwwR1Fub09vR19vUU5lc3lUOWxXNTl3NjBXZlVfT2ZGSUhubjNtTGw1alJROV9sSVRwaDNwTWJVcEpOekZoaTFqMDAzcDF0Z2M0V1NMSQ?oc=5)
 
 ---
 

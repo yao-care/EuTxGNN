@@ -14,7 +14,7 @@ permalink: /news/pasireotide/
 ---
 
 <p class="key-answer" data-question="Pasireotide 有什麼相關新聞？">
-<strong>Pasireotide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pasireotide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/pasireotide/
 <p><a href="{{ '/drugs/pasireotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（19 則）
+
+### [Kaffee, Filter vs. Instant: Studien zu biologischem Alter treffen Longevity-Skepsis - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0ZxRi1YNVZqR1VZVURzYVpqZGFiTUM0WFpGbEdqanI4WGVlLWZCaFMxRWVRYkpzRzZ3Z0NlZ2xfZ0ZrWlhoRFhPcEc5Z3VjazgzQ1MtbzJlcjI4V2U3MEpYYnhTWEhINlNpR1hUUmU0eEMyemNhRUpJS1Rqb0FPblAxRXMzS1RONkcwTFhpZW52QWdLbW96MTl2cFRoOTVuRjY5TTh6RHNfaGNNeV9LU0tB?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0ZxRi1YNVZqR1VZVURzYVpqZGFiTUM0WFpGbEdqanI4WGVlLWZCaFMxRWVRYkpzRzZ3Z0NlZ2xfZ0ZrWlhoRFhPcEc5Z3VjazgzQ1MtbzJlcjI4V2U3MEpYYnhTWEhINlNpR1hUUmU0eEMyemNhRUpJS1Rqb0FPblAxRXMzS1RONkcwTFhpZW52QWdLbW96MTl2cFRoOTVuRjY5TTh6RHNfaGNNeV9LU0tB?oc=5)
+
+---
+
+### [Caso di Dengue a Verona, attivato il protocollo sanitario. Ecco le vie](https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2dydHlBamI5eC1zM2pTR2UyNnc0Zi1mTXpQd2hzbEQyU1FzSFdHeFhQSXhrNW5ManhseG1URXlXYmJlOWVITENFR0VFanQ4U21BRG9pYzNOWjNPS3VTWF9LLWsxMnA3dTN0N0VwbUNOSWZvdEFfaFduNWV1cVU3MzRQcXBkRmpuRmRGa2JHSzRic2lQWk9OLWIwRmZMVTZvRng1NDljcW95TnpUcHhUdVZpUDZDaFdiNTY0NGktYUtnbHVyUlHSAcsBQVVfeXFMTU50RmlpaERlVDRzbzdEMlFjYXNnRXByd3B4dktlcGFWNEFkQmhvU0t0cHBmUHZZTlBTb0pLbW5KVy1LNjdGampvY240Y1NfTktVTi1VQVFON25CeFZ5MlAzUU9zZmItdnpjSnFuc0pxNm9iaWtXY2M5ZUlfbVowT1lZb3VOeHJJdGNBQzB1a2ZONkxveHRYXzl6dlJfa2ZTNmhNZ2xxN2N4TDNhSDJ5MHpDaFdkbFdNV2tFVFJYN1UwVDdLVFhiRkVqYW8?oc=5)
+
+2026-07-29 <span class="news-indication-tag">AF</span>
+
+來源：[L'Arena](https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2dydHlBamI5eC1zM2pTR2UyNnc0Zi1mTXpQd2hzbEQyU1FzSFdHeFhQSXhrNW5ManhseG1URXlXYmJlOWVITENFR0VFanQ4U21BRG9pYzNOWjNPS3VTWF9LLWsxMnA3dTN0N0VwbUNOSWZvdEFfaFduNWV1cVU3MzRQcXBkRmpuRmRGa2JHSzRic2lQWk9OLWIwRmZMVTZvRng1NDljcW95TnpUcHhUdVZpUDZDaFdiNTY0NGktYUtnbHVyUlHSAcsBQVVfeXFMTU50RmlpaERlVDRzbzdEMlFjYXNnRXByd3B4dktlcGFWNEFkQmhvU0t0cHBmUHZZTlBTb0pLbW5KVy1LNjdGampvY240Y1NfTktVTi1VQVFON25CeFZ5MlAzUU9zZmItdnpjSnFuc0pxNm9iaWtXY2M5ZUlfbVowT1lZb3VOeHJJdGNBQzB1a2ZONkxveHRYXzl6dlJfa2ZTNmhNZ2xxN2N4TDNhSDJ5MHpDaFdkbFdNV2tFVFJYN1UwVDdLVFhiRkVqYW8?oc=5)
+
+---
+
+### [‘Our spark has gone’: The marriages ruined by Ozempic - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
+
+2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
+
+---
+
+### [Missed chances led to Legionnaires death - inquest](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdnc2bzFUNWlpbEQzd1o4NV9HQkoyUHpSTGN3X3lmT2pUYW5peEtnYVlnR0p0QXdfeV8xeWx0TG96SHpuUVI1OVNMV2RIVmpGZlJtQTNfS016NHFY?oc=5)
+
+2026-07-29 <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdnc2bzFUNWlpbEQzd1o4NV9HQkoyUHpSTGN3X3lmT2pUYW5peEtnYVlnR0p0QXdfeV8xeWx0TG96SHpuUVI1OVNMV2RIVmpGZlJtQTNfS016NHFY?oc=5)
+
+---
 
 ### [‘Heavy smoker’ died after reaction to quitting - The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTVid09nYjdLT2QyT08ydGdJTGNpdUJWZ3BIdkUtSi02UHc2a0ROQ3VTLV9XMUN2QVpSTUFvTTFpT19hNkw4ODlDbmxia3NnQnMtTVhkcVRsVFd3T1BDa1kzYS1HUHBmc284QWRNdDdLV0ZZOVFWYlB6TjN6TFJadVh4Q2M0a0xORk1tVVNnUlFyUkd3Y3dnOUNR?oc=5)
 
 2026-07-29 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTVid09nYjdLT2QyT08ydGdJTGNpdUJWZ3BIdkUtSi02UHc2a0ROQ3VTLV9XMUN2QVpSTUFvTTFpT19hNkw4ODlDbmxia3NnQnMtTVhkcVRsVFd3T1BDa1kzYS1HUHBmc284QWRNdDdLV0ZZOVFWYlB6TjN6TFJadVh4Q2M0a0xORk1tVVNnUlFyUkd3Y3dnOUNR?oc=5)
+
+---
+
+### [Fibrillazione atriale con il 'clippaggo esterno" a Casa Sollievo: 8 pazienti trattati con la tecnica mininvasiva sull'auricola](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AFib</span>
+
+來源：[foggiatoday.it](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
 
 ---
 
@@ -70,11 +110,27 @@ permalink: /news/pasireotide/
 
 ---
 
-### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
+### [En Afrique du Sud, la prévention et le dépistage du sida menacés par l’arrêt définitif de l’aide américaine - Le Monde.fr](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTllsRkYyZlpIdGFKYkNTU0EzdUVCMi11QWtVWUVCZmxXeXVLazk1QU52VWRVak1RY1VVNEJpTUJNbW9Bc3hma09tejYzUktPbFFQY0o4ZTV2cU4yaXMyNEEtNWdoZFhwQWhSbU5DMjdUWTdrQzl1eTlNRER4NEtTYVFqUWp3MFl6cWV2cjJiWlQ4SlJYTS1fQVJzVTBNMjF3OWsyQ0o1THFFejFyY2d5OGY1VmRtVTZ4RjcyMWx1b3JNWG1vbFJHZ2VCYi1STlE3alg1Q1RKZWlFS0lXWUtrU2lXQQ?oc=5)
+
+2026-07-29 <span class="news-indication-tag">AF</span>
+
+來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTllsRkYyZlpIdGFKYkNTU0EzdUVCMi11QWtVWUVCZmxXeXVLazk1QU52VWRVak1RY1VVNEJpTUJNbW9Bc3hma09tejYzUktPbFFQY0o4ZTV2cU4yaXMyNEEtNWdoZFhwQWhSbU5DMjdUWTdrQzl1eTlNRER4NEtTYVFqUWp3MFl6cWV2cjJiWlQ4SlJYTS1fQVJzVTBNMjF3OWsyQ0o1THFFejFyY2d5OGY1VmRtVTZ4RjcyMWx1b3JNWG1vbFJHZ2VCYi1STlE3alg1Q1RKZWlFS0lXWUtrU2lXQQ?oc=5)
+
+---
+
+### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
 
 2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
+
+---
+
+### [Úbeda intensifica la prevención frente al virus del Nilo occidental](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXV5c2xhYmpRX1M1b3VHWmp4VEgzOVF0aXZaWkQwVEMxNEstcUEzRVNnbGRBWFo5bnJxYXpNZWV6cnY4MFI4UmZlWWRhMWFnMG82Z1kzT3Q4WXFtRXJJcXJ6ZUpobDgwSU1Mb0R3dXlSakFWVU1WTDFDWFEzZmRubG5NXzI2VTNZY2ZfWi1yQlNPdlhwV0ZPa2F3?oc=5)
+
+2026-07-29 <span class="news-indication-tag">AF</span>
+
+來源：[extrajaen.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXV5c2xhYmpRX1M1b3VHWmp4VEgzOVF0aXZaWkQwVEMxNEstcUEzRVNnbGRBWFo5bnJxYXpNZWV6cnY4MFI4UmZlWWRhMWFnMG82Z1kzT3Q4WXFtRXJJcXJ6ZUpobDgwSU1Mb0R3dXlSakFWVU1WTDFDWFEzZmRubG5NXzI2VTNZY2ZfWi1yQlNPdlhwV0ZPa2F3?oc=5)
 
 ---
 
@@ -86,35 +142,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [Úbeda intensifica la prevención frente al virus del Nilo occidental - Cadena SER](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0dxRU5MeXBTVExKcVlEenNLT3pMNVlrMVdIcF9oT2UyVm5GdGpKeEhlNVlXdnZEdmtMUl9IRzFmYWtaTXdudV9GM2dtMElQRWVVVUg4dEF4b2xvVUotTFlueUJaWkRFLUxTekVMZWw4cXJzeEp0RmdyMEpDVE5FY0dvQjhUZGlnRC1qdTBjb1k0RmdOU29HQUpvNzEyX3dDdUhsMmRRMEZGWW03WHRKZC1LTnZaRFNhcHVlYlFmVXnSAdQBQVVfeXFMTjZod1dfTk9BNVdNX2tNcTRpNVFnXzBRb29tNHdRLXJ4OGhwN1loMWpxUVVsbmhZbXFBUGtPSy1zcXQ3eU5Zdl95a2I3YXhSaFNvNTFuT0d6RzduYVFTS05fSmpwcUpRU1lpUUFrRmMzMzhhdFg2VmJ0ckc1Sm5MMkFvZkU5NkxIbGNrQkVPWDJPbVpKMElyWVhrZ2xtaU9saGxXbGlLOEFfamlPdXVrb0IwYVAzcWRaQVIyN05HSkVJZ1B2eUluN1BrUHh3aWpJZDdtc24?oc=5)
-
-2026-07-29 <span class="news-indication-tag">AF</span>
-
-來源：[Cadena SER](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0dxRU5MeXBTVExKcVlEenNLT3pMNVlrMVdIcF9oT2UyVm5GdGpKeEhlNVlXdnZEdmtMUl9IRzFmYWtaTXdudV9GM2dtMElQRWVVVUg4dEF4b2xvVUotTFlueUJaWkRFLUxTekVMZWw4cXJzeEp0RmdyMEpDVE5FY0dvQjhUZGlnRC1qdTBjb1k0RmdOU29HQUpvNzEyX3dDdUhsMmRRMEZGWW03WHRKZC1LTnZaRFNhcHVlYlFmVXnSAdQBQVVfeXFMTjZod1dfTk9BNVdNX2tNcTRpNVFnXzBRb29tNHdRLXJ4OGhwN1loMWpxUVVsbmhZbXFBUGtPSy1zcXQ3eU5Zdl95a2I3YXhSaFNvNTFuT0d6RzduYVFTS05fSmpwcUpRU1lpUUFrRmMzMzhhdFg2VmJ0ckc1Sm5MMkFvZkU5NkxIbGNrQkVPWDJPbVpKMElyWVhrZ2xtaU9saGxXbGlLOEFfamlPdXVrb0IwYVAzcWRaQVIyN05HSkVJZ1B2eUluN1BrUHh3aWpJZDdtc24?oc=5)
-
----
-
-### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+### [Diese Stallbakterien schützen gegen Asthma und Allergien](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
-
----
-
-### [La plasmaféresis podría mejorar la recuperación de una enfermedad rara que puede causar ceguera](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
-
-2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHRmV0loemZScERGY1FPYk50b2pzM2lYVVVSZ3FwbDY2NU5rUmFEMDlyUDJ6UlJadGNhTmZsR1FYWWllZ2ViTlJ4Z0J4cUNrOGI4d3NDelNtNlVVeTFHS2NsSW0tZ1N1ZDRmcEJadC1VdktlYkl0N0dCakJRR3VONWdJOVNaeWlOWS1tQzl2clFLeW54eDVNclpGWGVvT0ZkcnQ0cmZ2OGtCT1ZTbXkydkU3VGhrc3Jqbm5JLXFjZ290RlkxMkZNVG1OM1ItZGltNUwtXzZtV3NUSjA?oc=5)
-
----
-
-### [Baby found 'emaciated' 19 days after social services closed case](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Hc0ZPbEhEaEJPR0JyU01XbEN4MDczc0lIS2IxNEtRY0VOOWw5Smt2WVRMcHYxZEVFa05PU3NrTGwxanNHRWRLYkpCNmM5NXM0SEhNQ3FHRDZnRFU3?oc=5)
-
-2026-07-29 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Hc0ZPbEhEaEJPR0JyU01XbEN4MDczc0lIS2IxNEtRY0VOOWw5Smt2WVRMcHYxZEVFa05PU3NrTGwxanNHRWRLYkpCNmM5NXM0SEhNQ3FHRDZnRFU3?oc=5)
+來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
 ---
 
@@ -126,11 +158,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [On pensait avoir atteint le plafond biologique de la longévité : une étude publiée dans Nature Communications montre tout autre chose](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa0k0YW53aFhROVZqMllpOE90VTNEQ0NwcVVUSHdaTVYzbzVZZHZ4Mlp3UGJnTU1ISnd4RzNEUm1zN1FjcTIzaGpPUUxNYXN1R1IzVGc3WDZOVEhSTFFRVC1nZlF3X01vZ2dzODc2X0VjMFd6MUd1b2RPMUllOHZqRVNTb1RlWGNXOHVHX2F5SmFkTkE4ejg1YUJPenpaOUg4aUs4cW1uakh4UkVNSC1VSE41bHJPU0VnVFBGU3M0cTZBTjFLS1NHS3pWQlRJZ0hwNTJ3R193NkRwcDE2R01nbFc1c1htVWhHTjhR?oc=5)
+### [Cáncer contagioso se está propagando en bagres de agua dulce](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXYzWk0ybmdsRURBRnI1WU94cjc1X3lGWjNYYzFSVU9PQkUyVVhuVF8yaGliUEJvRm1oZUpLSGtILWllR3BJTWJwUmlRWkJWOUVxZjZWSDR3MDMtT0U5cnlxQkxHM243OC03cTR2YTB5bTFac014ejhkY0JZV1hUcURPOU84SGtrNFVOaXZESDdadzJSR1F5X1o4SXlSUV9EWHNHeHdXY2FJRTRSQUZHMUpTYzV1TmVpcjZnQ0QxRmhZMXJKNkNz0gHHAUFVX3lxTE1pZ3hOYmx5Y2YydFhEaUN0LUdMaGlKYW9JTkMyRVRtWlphYmk0aWpaS0xBU210Y0FWVjVjRmpmal83ZkhXRU9FcUYxZWFkTTJtNzFueDN0UXFNQ2ZWMFN3YlJuUF9kZ1pwSkJsRngybGM3Mms4aWh1XzQxdV84VkliM245bzZlTjA0S1RObHNqeDlnaUhGQU4xek00SlFYM2pJVHJNaGVFdEx4UXpraGxBSjBlV1l2R2hYOFNuMWhpUXZ2TlNTQ1k?oc=5)
 
 2026-07-28 <span class="news-indication-tag">AF</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa0k0YW53aFhROVZqMllpOE90VTNEQ0NwcVVUSHdaTVYzbzVZZHZ4Mlp3UGJnTU1ISnd4RzNEUm1zN1FjcTIzaGpPUUxNYXN1R1IzVGc3WDZOVEhSTFFRVC1nZlF3X01vZ2dzODc2X0VjMFd6MUd1b2RPMUllOHZqRVNTb1RlWGNXOHVHX2F5SmFkTkE4ejg1YUJPenpaOUg4aUs4cW1uakh4UkVNSC1VSE41bHJPU0VnVFBGU3M0cTZBTjFLS1NHS3pWQlRJZ0hwNTJ3R193NkRwcDE2R01nbFc1c1htVWhHTjhR?oc=5)
+來源：[dw.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXYzWk0ybmdsRURBRnI1WU94cjc1X3lGWjNYYzFSVU9PQkUyVVhuVF8yaGliUEJvRm1oZUpLSGtILWllR3BJTWJwUmlRWkJWOUVxZjZWSDR3MDMtT0U5cnlxQkxHM243OC03cTR2YTB5bTFac014ejhkY0JZV1hUcURPOU84SGtrNFVOaXZESDdadzJSR1F5X1o4SXlSUV9EWHNHeHdXY2FJRTRSQUZHMUpTYzV1TmVpcjZnQ0QxRmhZMXJKNkNz0gHHAUFVX3lxTE1pZ3hOYmx5Y2YydFhEaUN0LUdMaGlKYW9JTkMyRVRtWlphYmk0aWpaS0xBU210Y0FWVjVjRmpmal83ZkhXRU9FcUYxZWFkTTJtNzFueDN0UXFNQ2ZWMFN3YlJuUF9kZ1pwSkJsRngybGM3Mms4aWh1XzQxdV84VkliM245bzZlTjA0S1RObHNqeDlnaUhGQU4xek00SlFYM2pJVHJNaGVFdEx4UXpraGxBSjBlV1l2R2hYOFNuMWhpUXZ2TlNTQ1k?oc=5)
 
 ---
 
@@ -142,11 +174,11 @@ permalink: /news/pasireotide/
 
 ---
 
-### [New Forest pony drift cancelled after flu outbreak - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzdFVTBQU3VkalFPRGp5TXdDZWROZFR2bEdDanNjVjdNNVJWczRQQU1qME5DRHpUcm5HRF9WUEpmY1lxRi05UDBiZ0owQW5JRkNlcXkxSi1wU240V1VaWUw3TEtwQThEY2tQaWJRQlFtRTE1MlVFQVVoVG1FcjhkQ2FFczM3VGhuRFJON0FPQmdkMlRldEpPcW4yaw?oc=5)
+### [Fibromialgia, lo studio genetico su 2,5 milioni di persone cambia la mappa della malattia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORld2TFVybnRhaFktVGY3eS1vZU5QUktfbkVoWlMxeU82UXRWVm1nZ1F0NnpPZTM3dDZNN1gwQ1RKVG9TNFVacFlZY01uZ2JTNEh2dXVKakQxM0w4dHI2NHczWGF5a2IzTWtycXJrZUtLeHZPdjF0b1RWTTJLRzZyb0RIMndnNEpQVFprekJBNzUtcjBkVUJ6VmlpWjFEdk02SVB1LTRwZ0lPNkNKQTF4bTBNT245VFluY01oZktvbDJMMEgzdEREQ29xMjdRcGZYaHdkTndVaTlNS0N0Y2NKbl93?oc=5)
 
-2026-07-28 <span class="news-indication-tag">AF</span>
+2026-07-28 <span class="news-indication-tag">AFib</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzdFVTBQU3VkalFPRGp5TXdDZWROZFR2bEdDanNjVjdNNVJWczRQQU1qME5DRHpUcm5HRF9WUEpmY1lxRi05UDBiZ0owQW5JRkNlcXkxSi1wU240V1VaWUw3TEtwQThEY2tQaWJRQlFtRTE1MlVFQVVoVG1FcjhkQ2FFczM3VGhuRFJON0FPQmdkMlRldEpPcW4yaw?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORld2TFVybnRhaFktVGY3eS1vZU5QUktfbkVoWlMxeU82UXRWVm1nZ1F0NnpPZTM3dDZNN1gwQ1RKVG9TNFVacFlZY01uZ2JTNEh2dXVKakQxM0w4dHI2NHczWGF5a2IzTWtycXJrZUtLeHZPdjF0b1RWTTJLRzZyb0RIMndnNEpQVFprekJBNzUtcjBkVUJ6VmlpWjFEdk02SVB1LTRwZ0lPNkNKQTF4bTBNT245VFluY01oZktvbDJMMEgzdEREQ29xMjdRcGZYaHdkTndVaTlNS0N0Y2NKbl93?oc=5)
 
 ---
 
@@ -158,35 +190,19 @@ permalink: /news/pasireotide/
 
 ---
 
+### [Studie: Chronischer Geldstress lässt Gehirn schneller altern](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFFlZHRDV09KWWpkcjhHYjZ5YlNieXpjczJCX3czRDNucUVTSmsxOFNvQkJfWWc0WXhTdUZhV01tNUFNZEplT1dEMTZ1OEI4aVNuMEE4d2d5Uk9CN2ZsOTFTWTFWcS1SdmlSeWM4WjRhNmFZMnpsUjdlMl9QYjlFVGRKd21adkl0U2J1TXNFZ1QzTVRsczBqTUpVVmY4NlZhNy1MY2xjVVI?oc=5)
+
+2026-07-28 <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFFlZHRDV09KWWpkcjhHYjZ5YlNieXpjczJCX3czRDNucUVTSmsxOFNvQkJfWWc0WXhTdUZhV01tNUFNZEplT1dEMTZ1OEI4aVNuMEE4d2d5Uk9CN2ZsOTFTWTFWcS1SdmlSeWM4WjRhNmFZMnpsUjdlMl9QYjlFVGRKd21adkl0U2J1TXNFZ1QzTVRsczBqTUpVVmY4NlZhNy1MY2xjVVI?oc=5)
+
+---
+
 ### [Intermittent fasting linked to better brain health – but the method you use matters - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
 
 2026-07-28 <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
-
----
-
-### [Headteacher, 57, dies in hospital after delay in getting 'critical medication'](https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2g3NGgtLWNKOFdMRGNmMWktT1ZmNzJNX0t6RmdwWHNIRUVhcWdpclJId2hNYzNkejRKR0liekFnWEotQnpJSUU5eEs5THlFaFVDaVI4UVFxcjd1RXN6NXVjQWk5d2tXcXNDWkh3aFI5cFd3Qm9ZMml3em9PNzdoem91bEtWY012OVduX3RiYjlHQQ?oc=5)
-
-2026-07-28 <span class="news-indication-tag">AF</span>
-
-來源：[Edp24](https://news.google.com/rss/articles/CBMikgFBVV95cUxQX2g3NGgtLWNKOFdMRGNmMWktT1ZmNzJNX0t6RmdwWHNIRUVhcWdpclJId2hNYzNkejRKR0liekFnWEotQnpJSUU5eEs5THlFaFVDaVI4UVFxcjd1RXN6NXVjQWk5d2tXcXNDWkh3aFI5cFd3Qm9ZMml3em9PNzdoem91bEtWY012OVduX3RiYjlHQQ?oc=5)
-
----
-
-### [Wie viele Tassen Kaffee Sie täglich brauchen, um Ihre Leber zu schützen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2p6RWxQd2lERzhQbnpiWTQteWdFalptdjlqRVZGQWJOWlZUeF8zS3JhZi14amRRU1lXMmplbGxmRWtSMjBTbGVNR05QTi1CalVvX2FCX2Q4U0NCaWc4UEdmdXRzVnlmaVUxUnBpTEdQUGFWTWNUMjBuOF9VUmtzVlpTamk3Z1BHNlZVdDh5cUUtLTdWdkc4cEtXUnUwbHdRVTRwNEU0S2tYbnc3U1RPT1lTM1hSc1NNdElqRWxfTUtRYXRLVXRZeV83OA?oc=5)
-
-2026-07-28 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ludwigshafen24](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2p6RWxQd2lERzhQbnpiWTQteWdFalptdjlqRVZGQWJOWlZUeF8zS3JhZi14amRRU1lXMmplbGxmRWtSMjBTbGVNR05QTi1CalVvX2FCX2Q4U0NCaWc4UEdmdXRzVnlmaVUxUnBpTEdQUGFWTWNUMjBuOF9VUmtzVlpTamk3Z1BHNlZVdDh5cUUtLTdWdkc4cEtXUnUwbHdRVTRwNEU0S2tYbnc3U1RPT1lTM1hSc1NNdElqRWxfTUtRYXRLVXRZeV83OA?oc=5)
-
----
-
-### [Aurelio Rojas, cardiologue : "La science vient de le confirmer, les personnes qui boivent du café avec modération ont une meilleure santé cardiovasculaire"](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzdTRXlqZWZrLUhPZEw3dzhMTkE5dDVDTm9vZ1k2Zm1QMzhoMDRmQlpiOElMTnJJZVFIV3c5WE1NVHoyWmZvb3ZlOENvVDljUmxRTXd3Y2tyVW8weElJbm40UmpPYkw0MmdsR19meTdKVGcxT1pWczNYbENyc0NiUkpKR24teUJLTXc?oc=5)
-
-2026-07-27 <span class="news-indication-tag">AF</span>
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzdTRXlqZWZrLUhPZEw3dzhMTkE5dDVDTm9vZ1k2Zm1QMzhoMDRmQlpiOElMTnJJZVFIV3c5WE1NVHoyWmZvb3ZlOENvVDljUmxRTXd3Y2tyVW8weElJbm40UmpPYkw0MmdsR19meTdKVGcxT1pWczNYbENyc0NiUkpKR24teUJLTXc?oc=5)
 
 ---
 
