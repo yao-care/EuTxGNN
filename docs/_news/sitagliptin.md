@@ -35,6 +35,14 @@ permalink: /news/sitagliptin/
 
 ## 相關新聞（5 則）
 
+### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+---
+
 ### [Dos firmas metabolómicas en sangre predicen el riesgo de mortalidad en personas con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
 
 2026-07-28 <span class="news-indication-tag">diabetes</span>
@@ -64,14 +72,6 @@ permalink: /news/sitagliptin/
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
-
----
-
-### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
 
 ---
 

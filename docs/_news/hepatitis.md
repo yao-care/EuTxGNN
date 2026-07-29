@@ -55,6 +55,14 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（5 則）
 
+### [Health plea as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
+
+2026-07-28
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
+
+---
+
 ### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
 
 2026-07-28
@@ -63,27 +71,19 @@ permalink: /news/hepatitis/
 
 ---
 
+### [Epatite A, cresce il focolaio in Italia: i medici spiegano l’errore a tavola che può favorire il contagio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
+
+2026-07-28
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
+
+---
+
 ### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 2026-07-28
 
-來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
-
----
-
-### [El ECDC alerta: Europa no logrará eliminar la hepatitis en 2030](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3g4UXBiTm1mcDUtYnJPREZ3Zlh0UkpWb1ppZS00ZXFjS3VPSnJXMW92N0RsTVE2VldVZWNlSUpCTmVJTEhkaWlySjhEZjBONnZRN242NkpXVl9ER1RrSHJYRVhIQldZbTRKbUl5NW9nNHZpNHQxN2pCdWQ0akR3U2xmSmVKM2h0U1dQa1JBaS1Vel9pcXlrNlVqNVd0RFZqelA3X2MwRDFBTXJRbHB5SVhPUnMtWGFhWm96WEk1V3ozMmdTdURkYUZGZw?oc=5)
-
-2026-07-28
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3g4UXBiTm1mcDUtYnJPREZ3Zlh0UkpWb1ppZS00ZXFjS3VPSnJXMW92N0RsTVE2VldVZWNlSUpCTmVJTEhkaWlySjhEZjBONnZRN242NkpXVl9ER1RrSHJYRVhIQldZbTRKbUl5NW9nNHZpNHQxN2pCdWQ0akR3U2xmSmVKM2h0U1dQa1JBaS1Vel9pcXlrNlVqNVd0RFZqelA3X2MwRDFBTXJRbHB5SVhPUnMtWGFhWm96WEk1V3ozMmdTdURkYUZGZw?oc=5)
-
----
-
-### [Epatite A, casi in aumento nel Lazio, lo Spallanzani: Focolai legati al consumo di cibi contaminati"](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUctQ2Z6OC1iM01UVncwRFEwS0dMOWdBQVVpT043V2FSSlY2aUtVN1hicjA1NTZWT0xJVmlrZGJraS1GQ2EwVmJoRzBWbUFOZWx2WV9JLWgyNGEwNXFYRmphTHdkSlZHdTRCLUh0Y2FuZkFvT2l3b0R0UmV2SlUycA?oc=5)
-
-2026-07-28
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUctQ2Z6OC1iM01UVncwRFEwS0dMOWdBQVVpT043V2FSSlY2aUtVN1hicjA1NTZWT0xJVmlrZGJraS1GQ2EwVmJoRzBWbUFOZWx2WV9JLWgyNGEwNXFYRmphTHdkSlZHdTRCLUh0Y2FuZkFvT2l3b0R0UmV2SlUycA?oc=5)
+來源：[aok.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 ---
 

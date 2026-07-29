@@ -43,11 +43,11 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（1 則）
 
-### [Intermittent fasting linked to better brain health – but the method you use matters - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
+### [Save your brain — stop late-night snacking - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
 
-2026-07-28 <span class="news-indication-tag">dementia</span>
+2026-07-27 <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
 
 ---
 

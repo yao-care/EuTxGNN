@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Darmmikrobiom: Antikörper verraten Morbus Crohn 10 Jahre früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
-
-2026-07-28 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
-
----
-
-### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

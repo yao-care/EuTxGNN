@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Darmmikrobiom: Antikörper verraten Morbus Crohn 10 Jahre früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
-
-2026-07-28 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Alzheimer, Avatar del cervello per la terapia su misura partendo da un prelievo di sangue - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
 

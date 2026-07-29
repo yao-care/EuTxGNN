@@ -36,7 +36,7 @@ permalink: /news/clopidogrel/
 
 ## 相關新聞（1 則）
 
-### [New Inclisiran Therapy Shows Reduction in LDL Cholesterol](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0JJZjYydlVuTUJSQ0F0WVVBbUpkb2NuMXRPcDZickpXbW94cUVFampwb1BxeEdfa0Qtb0Z4TzI5ZHBUa251MWdXWExoZ0xMSzBYR2V2OEFDRE9wTjhEMllpeGFZaDFSZ2dkYUp4a0RsYlZxYkxzcmpEclY3RnRwRmo0X1ZKVl9SNVJXYzdZdkZYVUprME1ZNnphOWlpdnM0N2FhVHRtVHVUcWs?oc=5)
+### [New Twice-Yearly Inclisiran Therapy Shows Major Reduction in LDL Cholesterol](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM0JJZjYydlVuTUJSQ0F0WVVBbUpkb2NuMXRPcDZickpXbW94cUVFampwb1BxeEdfa0Qtb0Z4TzI5ZHBUa251MWdXWExoZ0xMSzBYR2V2OEFDRE9wTjhEMllpeGFZaDFSZ2dkYUp4a0RsYlZxYkxzcmpEclY3RnRwRmo0X1ZKVl9SNVJXYzdZdkZYVUprME1ZNnphOWlpdnM0N2FhVHRtVHVUcWs?oc=5)
 
 2026-07-28 <span class="news-drug-tag">Inclisiran</span> <span class="news-indication-tag">heart disease</span>
 

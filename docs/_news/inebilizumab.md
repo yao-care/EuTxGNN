@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（21 則）
+
+### [Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
+
+2026-07-28 <span class="news-indication-tag">soriasi</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
+
+---
+
+### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+---
+
+### ['Il sole protegge dal melanoma', bufera sul post della nutrizionista](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+2026-07-28 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+---
+
+### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+---
 
 ### [Tumori rari: la scienza che rende la prognosi finalmente personalizzata](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU9KaDZsTkdpenVLbF9MNzd3V3JLVlpMQUlnRE5LWFlDVWQ5TEYtT18yMXVWT3J0UkNXdjVwb3dUOEM2bVR0NnRxWkdBbkdtRmZaTWFILXlkZXRPSU5ERVhURkh5eVdhQnp0Yzd1T2NwOUhGZ2RQSjQ3Z1FhUi1LTG5jRVllcUJTMG5ydnJBTzNLb1RtSzRKbGJqVDdUcWdVUGl3aW1ic2dDbmlhQ0tVdld4LW5BbGJVOUItd3BmMkFSWXhOOG1DVU9n?oc=5)
 
@@ -94,27 +126,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
-
-2026-07-28 <span class="news-indication-tag">soriasi</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
-
----
-
 ### [L’evoluzione dei tumori è influenzata dal patrimonio genetico](https://news.google.com/rss/articles/CBMi-AFBVV95cUxON1NiZlNSTjJmSzREb25RS19meHRqcFdMRkU3ZXJ4OG9TZE1wakhCU2VLZDRjcl84U241S0ZPWF9GRDRqemVheHhHXzYwLU9VY3BNM2xRZlVEVmtQU0tvd2s5TG4zUmY1T01BbEY1aU9RS0FzUDdLdFdGbE5MMVktbUFtUG9kcm56cUh1RUpSODE0WlNtUEJxSzZGTVVuTHVtZXZVaHFZeVpjWEh2cklmdGU2a2xST3k1T2M2anYtZGk1bzRlUGkzRHhoNW5xd0NJVnd0dklfYTBmMVA5Q2piM2tsWHJuMlNYNDRPd3R4eElqYTZBbjJsStIB_gFBVV95cUxOSWVGM0FsZDB2MEhaYWdHT3VjLVI1M3p6RWNYTGg1ZnNHZE9zNXlwR2VucmpJdUlxZFdHY2FLeEFoS205cDhOMlpIRzRyUUFhRlVOQ0F5ZWZYdXlYZ0FWQVl6OGJiTUJaNGNKOXktaWt4S3BpajJPRmpWN0dOakR6NWQtVll1T2VpbGNRZUlWanhXdUIwUnZUNTZUYWVXZV9ybDJEYUM4MVg5S3liMElVal93U09Fd1lJeXJHeVBFVjZkQUNnQ2tZUGU3MEdVT1NIdFZyMEVSNEFYM0E1QjNPRGFzLWUzbEZsYzFsOVlkQXpXU1kxdHpfYUQ1RlM3UQ?oc=5)
 
 2026-07-28 <span class="news-indication-tag">tumor</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi-AFBVV95cUxON1NiZlNSTjJmSzREb25RS19meHRqcFdMRkU3ZXJ4OG9TZE1wakhCU2VLZDRjcl84U241S0ZPWF9GRDRqemVheHhHXzYwLU9VY3BNM2xRZlVEVmtQU0tvd2s5TG4zUmY1T01BbEY1aU9RS0FzUDdLdFdGbE5MMVktbUFtUG9kcm56cUh1RUpSODE0WlNtUEJxSzZGTVVuTHVtZXZVaHFZeVpjWEh2cklmdGU2a2xST3k1T2M2anYtZGk1bzRlUGkzRHhoNW5xd0NJVnd0dklfYTBmMVA5Q2piM2tsWHJuMlNYNDRPd3R4eElqYTZBbjJsStIB_gFBVV95cUxOSWVGM0FsZDB2MEhaYWdHT3VjLVI1M3p6RWNYTGg1ZnNHZE9zNXlwR2VucmpJdUlxZFdHY2FLeEFoS205cDhOMlpIRzRyUUFhRlVOQ0F5ZWZYdXlYZ0FWQVl6OGJiTUJaNGNKOXktaWt4S3BpajJPRmpWN0dOakR6NWQtVll1T2VpbGNRZUlWanhXdUIwUnZUNTZUYWVXZV9ybDJEYUM4MVg5S3liMElVal93U09Fd1lJeXJHeVBFVjZkQUNnQ2tZUGU3MEdVT1NIdFZyMEVSNEFYM0E1QjNPRGFzLWUzbEZsYzFsOVlkQXpXU1kxdHpfYUQ1RlM3UQ?oc=5)
-
----
-
-### [Darmmikrobiom: Antikörper verraten Morbus Crohn 10 Jahre früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
-
-2026-07-28 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
 
 ---
 
@@ -131,14 +147,6 @@ permalink: /news/inebilizumab/
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlRsc0tKZGhQN0s1TUdtRTlvUFU1ZDdUZDVJNWFRWmRDSy1RSHFQQlJPRm5OTUxFY2I5TjhUMFQxVWdvWGVVbnI5Ni1fTHdEaUZ4Y2VsNGE4ODlHVUhZVVVxVDlvOWpxUFk1MG1ZVk1lc1poUnp2NXFROW50Ykw1aG5CaFlTbGdENlFqR3RUeTV0U0VrX2N4a29jdlZMdlc0RVNSMkpzczZaQnNndVBhMWszc3RxUW1BRk5NVUhldWZuSjFGeWhhdmJJRDg2UXFzQ1NV?oc=5)
-
----
-
-### [Engineered gut bacteria show promise against pancreatic cancer - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
 
 ---
 
@@ -182,22 +190,6 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Melanoma, bufera su Rasio: “Il sole non lo provoca”. Gli esperti: “I raggi UV aumentano il rischio” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
----
-
-### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
----
-
 ### [Alzheimer, Avatar del cervello per la terapia su misura partendo da un prelievo di sangue - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjFya1JXUmF6bUpYV3BLNWViY3RKQ0d2a0h0NjF4NzJrZFZrR1Y1eGlpQW54UjAySjRlcEFPdnFwOGJGWmR0SU1SWjB2UmdaT21oVGVXTlRIcWFOdG1uWGYtcXA5c3NFbkFvMWlPRFB3SjFBVmtERGtXVWtYVnBXVjYwbVVlbERzd3g0MHN3Z1NGeFpZVkQ0WkhOQk9GWU95TDgxWmM1VTd3aHdVUzNxeg?oc=5)
 
 2026-07-27 <span class="news-indication-tag">asma</span>
@@ -214,25 +206,9 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
----
-
-### [Una nuova molecola rende i tumori più vulnerabili a radio e chemioterapia: "Così si possono ridurre le dosi" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
----
-
 ### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 

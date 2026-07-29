@@ -14,7 +14,7 @@ permalink: /news/avanafil/
 ---
 
 <p class="key-answer" data-question="Avanafil 有什麼相關新聞？">
-<strong>Avanafil</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Avanafil</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/avanafil/
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（16 則）
+
+### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+---
 
 ### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [PMOS-Leitlinie: Nur jede dritte Frau bekommt eine gesicherte Diagnose - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+### ['Il sole protegge dal melanoma', bufera sul post della nutrizionista](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
 
-2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+2026-07-28 <span class="news-indication-tag">tumor</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
 
 ---
 
@@ -99,19 +107,11 @@ permalink: /news/avanafil/
 
 ---
 
-### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+### [Cuidado con los riñones en verano: la señal de alerta silenciosa del riesgo cardiovascular oculto](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
 
-2026-07-28 <span class="news-indication-tag">Schlaganfall</span>
+2026-07-28 <span class="news-indication-tag">ictus</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
-
----
-
-### [Engineered gut bacteria show promise against pancreatic cancer - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
 
 ---
 
@@ -147,14 +147,6 @@ permalink: /news/avanafil/
 
 ---
 
-### [Melanoma, bufera su Rasio: “Il sole non lo provoca”. Gli esperti: “I raggi UV aumentano il rischio” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
----
-
 ### [Dieta chetogenica, doppio effetto metabolico. “Protegge il colon, ma aumenta il rischio di tumori intestinali” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
 
 2026-07-27 <span class="news-indication-tag">tumor</span>
@@ -163,17 +155,9 @@ permalink: /news/avanafil/
 
 ---
 
-### [Una nuova molecola rende i tumori più vulnerabili a radio e chemioterapia: "Così si possono ridurre le dosi" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
----
-
 ### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 

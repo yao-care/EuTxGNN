@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Bambini e obesità, dopo sei mesi di dieta e esercizio fisico via libera a farmaci e chirurgia - Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
 
 2026-07-28 <span class="news-indication-tag">obesità</span>
 
 來源：[Corriere Roma](https://news.google.com/rss/articles/CBMimAJBVV95cUxQdC04clQwUG1zVm8wUm41cVRNS1oxOEM1b2JSVXU4ZkNBT2Z1UGJ4b0s0emRIUU56ODZYcjN1bnhLWFRPNVNYZXNNM3ZoV200VDVwQms1c3F2VVY1YkZIakFLdnl2cmhFUXJBMkl5ZEJCUUE0Z2RwNVNjX3ltbVNWbXNCcTJNY0dGREVXMWJRMXpLUlVjaWdvdEtHZ2laZGtvTmk5UDZ4YVFmVnlJd09XNDBrNkNfcVNrajNmNkE3V2wzSURrVVhhMlg0MTU3ZHdxU2FKYjlQUVc1emNyUnRKNno4ZXpsTFFEUzJvdEFPWE9zeHYybjFHYnhWdDNfbXFjZnlIUDZfbjdKQ2pSeW05Q0NNTnFUMGpW0gGeAkFVX3lxTE43N19lYTVlWkVoWlo0WmR5QXZFNnpMQzNyWUdDOTFBU0xfbE5IVGExYWhreHY4ZDY5UGx2ZldaYmRyN29DV094Q29MOWRnU1pHU3B3VXl0cHJWQVFSOGVaQjNjcmUyWjk2LWlVcU9pR0I3d2lHZm05MnlqZnBEZllwR1dNUUtCX0F5cGRBSmlaZ2RNc1NVVklvTTR2SDVGMlExX3o1dkFWWEJyenEyaXl5eUxYZy0xVzQzUVhuM3Y2a01FbE93OHVHdmEwUWJnTDRJLUVQeWdLa2JsVFEwMFV2azdJdjlEUThwZTRCU1NTQ2tIdTdfanpWcDVmQ2JhcHJNMGJMZ3ppcllMUTNHWmEtMDJRYzd6S1BadnVYNGc?oc=5)
-
----
-
-### [Emicrania, la risonanza rivela cosa potrebbe accadere nei muscoli del collo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
 
 ---
 

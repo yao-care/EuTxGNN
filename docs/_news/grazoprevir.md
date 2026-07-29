@@ -54,6 +54,30 @@ permalink: /news/grazoprevir/
 
 ## 相關新聞（18 則）
 
+### [Wearables erkennen Colitis-Schübe bis zu 7 Wochen früher](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
+
+2026-07-29 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
+
+---
+
+### [Entzündungsbremse: Wie der Körper seine IL-1Ra-Schutzfunktion blockiert](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
+
+---
+
+### [Health plea as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
+
+---
+
 ### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
 
 2026-07-28 <span class="news-indication-tag">hepatitis</span>
@@ -62,11 +86,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Ernährung, Entzündung und Alter: Bauchfett und Keto im Blick - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVTWG1LRGw5djQ3TGM0eVJ4LTh6X0lEd01uTjNERGRTMVVfQ2JSNFdKT2Jid1Y1eXAwTzlwcTczWTcxTng5V3dhWWh1LUZZSS1OWm45UzVUS2ZOb3o5TUtWNk16YjVqMGV4anU3Zko2Vk9kcXFoZUdKV2xWU3BZY1g2Y2l4ZG5hOUJyNFU2aTBKQVliVm9R?oc=5)
+### [Epatite A, cresce il focolaio in Italia: i medici spiegano l’errore a tavola che può favorire il contagio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-28 <span class="news-indication-tag">epatite</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVTWG1LRGw5djQ3TGM0eVJ4LTh6X0lEd01uTjNERGRTMVVfQ2JSNFdKT2Jid1Y1eXAwTzlwcTczWTcxTng5V3dhWWh1LUZZSS1OWm45UzVUS2ZOb3o5TUtWNk16YjVqMGV4anU3Zko2Vk9kcXFoZUdKV2xWU3BZY1g2Y2l4ZG5hOUJyNFU2aTBKQVliVm9R?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
 
 ---
 
@@ -82,15 +106,15 @@ permalink: /news/grazoprevir/
 
 2026-07-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+來源：[aok.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 ---
 
-### [El ECDC alerta: Europa no logrará eliminar la hepatitis en 2030](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3g4UXBiTm1mcDUtYnJPREZ3Zlh0UkpWb1ppZS00ZXFjS3VPSnJXMW92N0RsTVE2VldVZWNlSUpCTmVJTEhkaWlySjhEZjBONnZRN242NkpXVl9ER1RrSHJYRVhIQldZbTRKbUl5NW9nNHZpNHQxN2pCdWQ0akR3U2xmSmVKM2h0U1dQa1JBaS1Vel9pcXlrNlVqNVd0RFZqelA3X2MwRDFBTXJRbHB5SVhPUnMtWGFhWm96WEk1V3ozMmdTdURkYUZGZw?oc=5)
+### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3g4UXBiTm1mcDUtYnJPREZ3Zlh0UkpWb1ppZS00ZXFjS3VPSnJXMW92N0RsTVE2VldVZWNlSUpCTmVJTEhkaWlySjhEZjBONnZRN242NkpXVl9ER1RrSHJYRVhIQldZbTRKbUl5NW9nNHZpNHQxN2pCdWQ0akR3U2xmSmVKM2h0U1dQa1JBaS1Vel9pcXlrNlVqNVd0RFZqelA3X2MwRDFBTXJRbHB5SVhPUnMtWGFhWm96WEk1V3ozMmdTdURkYUZGZw?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
 ---
 
@@ -102,17 +126,9 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Epatite A, casi in aumento nel Lazio, lo Spallanzani: Focolai legati al consumo di cibi contaminati"](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUctQ2Z6OC1iM01UVncwRFEwS0dMOWdBQVVpT043V2FSSlY2aUtVN1hicjA1NTZWT0xJVmlrZGJraS1GQ2EwVmJoRzBWbUFOZWx2WV9JLWgyNGEwNXFYRmphTHdkSlZHdTRCLUh0Y2FuZkFvT2l3b0R0UmV2SlUycA?oc=5)
-
-2026-07-28 <span class="news-indication-tag">epatite</span>
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUctQ2Z6OC1iM01UVncwRFEwS0dMOWdBQVVpT043V2FSSlY2aUtVN1hicjA1NTZWT0xJVmlrZGJraS1GQ2EwVmJoRzBWbUFOZWx2WV9JLWgyNGEwNXFYRmphTHdkSlZHdTRCLUh0Y2FuZkFvT2l3b0R0UmV2SlUycA?oc=5)
-
----
-
 ### [El diagnóstico precoz, principal reto en la lucha contra las hepatitis - Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
 
@@ -150,27 +166,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
----
-
 ### [A Woman Shared 6 Rarely Discussed ADHD Symptoms, And People Feel Seen](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wZVhzY0VMaEJGNFRCYUVpMVJmUjNscXFWVWNtbXdMSnJ2WVNqZThHajNpZDFjc29vR2liUnV0ejBXeDY5SlkyaEVMZk8zYVVhWVZKNnhlSDBLTGxGa0xwd1JfWUJBLWl4MDFtLV9LZ1V4aFkzb3ZNag?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span>
 
 來源：[BuzzFeed](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wZVhzY0VMaEJGNFRCYUVpMVJmUjNscXFWVWNtbXdMSnJ2WVNqZThHajNpZDFjc29vR2liUnV0ejBXeDY5SlkyaEVMZk8zYVVhWVZKNnhlSDBLTGxGa0xwd1JfWUJBLWl4MDFtLV9LZ1V4aFkzb3ZNag?oc=5)
-
----
-
-### [Multiple Sklerose: Diese Bakterien der Darmflora können schützen](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
 
 ---
 
@@ -190,11 +190,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Deadly infection: Florida reports first rare, flesh-eating bacteria death of the year - FOX Weather](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMk5RaTZKQXBlNWt3SmtFdFdZd2wxWjVlY25USXJMaU5hV3h6UGpfcFd4WFNjNThITDdmRWYtR2pXdjNOMFVSQXVwczJiRGY3bmkwei01NFdHQUhGeWRQcEhLVDZoeVZpX1hoSG5teFQ2clFZV25OUF9ZcWthX3pJR25LcHlmSVpiNXI3Mkk2WdIBlAFBVV95cUxORGpQR1YxR2o0bHNScEJ6YjRYelVtWFRSOWNxYmdGbV9mZVU3dFktaWx2bE9SRm10UWVlY3dTVE9scUl4NENrOERUckwyX3lqR3hkS0J3UEZYNnQzeFR2VVFNclFrRWp0cFFmaUpLR2Q5UnNtQnZfNUN5ZUZWeTdaYTlTcmNZSVUxWFpWZG9wZDZTLU40?oc=5)
+### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
-2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[FOX Weather](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMk5RaTZKQXBlNWt3SmtFdFdZd2wxWjVlY25USXJMaU5hV3h6UGpfcFd4WFNjNThITDdmRWYtR2pXdjNOMFVSQXVwczJiRGY3bmkwei01NFdHQUhGeWRQcEhLVDZoeVZpX1hoSG5teFQ2clFZV25OUF9ZcWthX3pJR25LcHlmSVpiNXI3Mkk2WdIBlAFBVV95cUxORGpQR1YxR2o0bHNScEJ6YjRYelVtWFRSOWNxYmdGbV9mZVU3dFktaWx2bE9SRm10UWVlY3dTVE9scUl4NENrOERUckwyX3lqR3hkS0J3UEZYNnQzeFR2VVFNclFrRWp0cFFmaUpLR2Q5UnNtQnZfNUN5ZUZWeTdaYTlTcmNZSVUxWFpWZG9wZDZTLU40?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
 ---
 

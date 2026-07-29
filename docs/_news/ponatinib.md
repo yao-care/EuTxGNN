@@ -14,7 +14,7 @@ permalink: /news/ponatinib/
 ---
 
 <p class="key-answer" data-question="Ponatinib 有什麼相關新聞？">
-<strong>Ponatinib</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ponatinib</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ponatinib/
 <p><a href="{{ '/drugs/ponatinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（15 則）
+
+### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+---
+
+### ['Il sole protegge dal melanoma', bufera sul post della nutrizionista](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+2026-07-28 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+---
 
 ### [Tumori rari: la scienza che rende la prognosi finalmente personalizzata](https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU9KaDZsTkdpenVLbF9MNzd3V3JLVlpMQUlnRE5LWFlDVWQ5TEYtT18yMXVWT3J0UkNXdjVwb3dUOEM2bVR0NnRxWkdBbkdtRmZaTWFILXlkZXRPSU5ERVhURkh5eVdhQnp0Yzd1T2NwOUhGZ2RQSjQ3Z1FhUi1LTG5jRVllcUJTMG5ydnJBTzNLb1RtSzRKbGJqVDdUcWdVUGl3aW1ic2dDbmlhQ0tVdld4LW5BbGJVOUItd3BmMkFSWXhOOG1DVU9n?oc=5)
 
@@ -94,19 +110,11 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Intermittent fasting linked to better brain health – but the method you use matters - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
+### [Save your brain — stop late-night snacking - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
 
-2026-07-28 <span class="news-indication-tag">dementia</span>
+2026-07-27 <span class="news-indication-tag">dementia</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm5UcGphUkhWUFJ1QmwyUE5QeEd0M0duM0xxUzl0X1VIV3E5X1hPRGR6UGtwNjJIeTF1LXhjRmFtQzZEeG1rellTbjI0TTE5dmQxOGt6MjlSSllXTFY4WjZkSm8zcUZiY0R1Y0NYOVNZNE93UjJTUkFnQnZWNjV5dWxHOXhFOXc1WnM5OEJxbGZVakIxVGJuQ0VpTzNQZkpaR2dIeFFyNmg?oc=5)
-
----
-
-### [Engineered gut bacteria show promise against pancreatic cancer - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmhCeVAxR2k5bUxOV045WnJSdWo4REViX2R1ellVdE9Gck9LZDVaUWxxVk1NdHBkQ2QxbUY0UlE2UVpzNk96TkxkZFZzM0hfX1FjVnl4djRqZ19sVUVmWVQyWVQwZ0xjRUVQcDRGV293ODc4aVM4ckx2dE1YeW03QmNFZ1RpLUNpR1J4ZjZiZ0tCTll2T2pZV0U1RGJuWC1Qa1JFQk5KS2ZPSlZSVUplRWtLSEU0ZDA?oc=5)
 
 ---
 
@@ -142,14 +150,6 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Melanoma, bufera su Rasio: “Il sole non lo provoca”. Gli esperti: “I raggi UV aumentano il rischio” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
----
-
 ### [Dieta chetogenica, doppio effetto metabolico. “Protegge il colon, ma aumenta il rischio di tumori intestinali” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
 
 2026-07-27 <span class="news-indication-tag">tumor</span>
@@ -158,17 +158,9 @@ permalink: /news/ponatinib/
 
 ---
 
-### [Una nuova molecola rende i tumori più vulnerabili a radio e chemioterapia: "Così si possono ridurre le dosi" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
----
-
 ### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 

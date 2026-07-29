@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Dos firmas metabolómicas en sangre predicen el riesgo de mortalidad en personas con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
-
-2026-07-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [Colesterolo, psoriasi e malattie rare: l’EMA raccomanda 12 nuovi farmaci, ecco cosa cambia per i pazienti](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGcxSVBnZXR0MURCNVNnX2U1eEcxNmd6X0hFalpqeEtQYTRVRjB5dlFBeTdaWk9US3E3eTlGYkFESDVhZjZsTzNKZ1FlU2RBOTNUSjVlNzl3X3owQ0M4NlQ4VU9tT19ndlFVby15bjVhSVAzeVlOZnptVGI5c1lxREc5akdEa2xuczd6UFdwUl9Mdmw4bGxJbS1sSEc0eGdrMFBWaGp3X0JLODVxcDJSbFAxMWM5SUxnQ2hOQ1NIemNtMEc1SGdwbGF5V1JHYnVkZU9BZ3VET3ZsaDdnZllKclJMeGFBTzQ?oc=5)
 
@@ -70,11 +62,19 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Darmmikrobiom: Antikörper verraten Morbus Crohn 10 Jahre früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
+### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
 
-2026-07-28 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnh5bmRlcUxJUVJFd1Qyem84N2wySWd6N09BXzl3RE54cUlOa2paSGJ6WVB6ZHA1X3lEeWJBRjI2dWctdGd6SXRjY2ttWlI5S3dkd3h0ZWl0VnhDblZmVnRuUzZqMEVnVkxqaTBBZVBONzF5YU5veERfWGNhR29EM0cwaEZaMFQxSm45YkRLMHVseXQ5UTNMX3dpTHU0dzRlTmtWWTU5MlJyTlFWVU92ZG55OA?oc=5)
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+---
+
+### [Dos firmas metabolómicas en sangre predicen el riesgo de mortalidad en personas con diabetes - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
+
+2026-07-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlRHSmlSemQwWWw2US1JUFRHbHRyTmpfM2FhMkpwck1mcFFmOVJabENEeGpDS0g2X3FjNmVKTERFYk1qWWs5cXpIRkM5cHlNT2RmT3dmcW5JUFl5R3pZcVE3bjl3bE1TbF84TUl2blEzeElPQkxLZHd1Nm9NNklzU3ZNYkdmc3ZzLWNqYzFYTExUX0lXZGJDUGp2X0k1dHNldU9yekNIeFFBVzVCSUNKbXdIcmpLcXJnQl9rdGhRQ2ktUdIBvAFBVV95cUxNVVY1SXd1a1ozRW5FeEI1QkFUSnNCOXU0NEdjbE1vVUFvekZTX2N6V09iWEpaR092cmx0NlFyVVZ2THhKWVdBZXowWm95R0d6czVqTUlGS3JVLUFtVl9RNlNiY05KYThLVU1kQ29mY1VyYktSZUpOVzB0VjJmcVZLenBzQ201UDdvdmVLTTZ6eHU1a2NBQ0xWZU1uZ0czc05NOVYzRXdIdmtLd2xNcDQ4cC1iOVV4Z2x4amFTdg?oc=5)
 
 ---
 
@@ -99,22 +99,6 @@ permalink: /news/guselkumab/
 2026-07-27 <span class="news-indication-tag">diabete</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcEJQVTdldFNma3VoaGZnQTZXSzlkdks5TXJpRDh3UE9IeFp5aHpqVk9LS0hKMVZQc3hfSE1WVlVZTTRzR1Jjbjlxc2dDUjFhRWJFcWJQTkNzYUZzUnkwUXVRc2RZVzBlejJ6NkFTOGoxNktCTGticWR3Y1YyY2ItTjNvNmlaOFFzNGpWd2tWbGJYLVpqLW9CdjUyNklxVGltSFZlS1NVMm9tTHI2QlhEcEpNVjF3STJwRWVKay1XRC01NzVjOUxIVWZGT3VHQXRlVjgzUkxmVmdFRjJMdXRqRWlzTUYxU2tjLUQw?oc=5)
-
----
-
-### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
----
-
-### [Studie: Colitis ulcerosa bei früher Biologika-Therapie seltener progredient](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
-
-2026-07-27 <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXdqWENUcGFqWUl4blVudjRzaFA5Y0p6S0lNcW96S2RiTHRsa0Q0Si1iS1hSVFQ0MlRoNGp5OFRzLTQwUExpeXNUcGc2XzUtYWx2dmlUV2laSXk5MnMxSk13THJTMGthSzdGY0hndTR6dmxjcnJtZDRYUzJhNk8xV0FUdnc4Nno0ZF9qY0ppeWxfUVRGTGhlNXQxV0pRcERPWWpsNzFZUkhucF8xbW9NT1Jpd09fQVk?oc=5)
 
 ---
 

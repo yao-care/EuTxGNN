@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
 
@@ -49,19 +49,11 @@ permalink: /news/stroke/
 
 ---
 
-### [PMOS-Leitlinie: Nur jede dritte Frau bekommt eine gesicherte Diagnose - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
+### [Cuidado con los riñones en verano: la señal de alerta silenciosa del riesgo cardiovascular oculto](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
 
 2026-07-28
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxON2VUMHZ0U21GWVhXX3B2M3A2T2RGQkdFbFhjQktQVE5YbVNoYlBQcU9SRGo4RVRvS3EwM0x2TXlqOFdUNzZjaFNBSHRvSXFDWHNSYVBsVWo5dWZhMUZlYjIyeXN1NTV5TXZoaVhidG9WSTVETGpJU0x5Q2k1ZXZiN2ZLUnk4MTdqMDNSRDA5eVhVdm1NYV9qd3lQMnRxektuQWc?oc=5)
-
----
-
-### [Neuer Ansatz zur Prävention von Herzinfarkt und Schlaganfall](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
-
-2026-07-28
-
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2NDa240aTB6a1VXSlA5QlhncGJKMlR3MUh2WXk2T1RGTE5BTTJLbkNZdHVkUnFIWFM5eXdkMk1vcjVRai1vck5kaVg3OS1Odzdvc3ZUN2t6RUxtMWN5QTRSOU5VVVRnYlUyNU1CQXJiM21uQVZZdUlpOENYQ1JXZzl6NE0ybk5uUGVCN1lLRG1DNjZVbjlRR1dhakhfSjlhYnc?oc=5)
+來源：[OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
-### [Ernährung, Entzündung und Alter: Bauchfett und Keto im Blick - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVTWG1LRGw5djQ3TGM0eVJ4LTh6X0lEd01uTjNERGRTMVVfQ2JSNFdKT2Jid1Y1eXAwTzlwcTczWTcxTng5V3dhWWh1LUZZSS1OWm45UzVUS2ZOb3o5TUtWNk16YjVqMGV4anU3Zko2Vk9kcXFoZUdKV2xWU3BZY1g2Y2l4ZG5hOUJyNFU2aTBKQVliVm9R?oc=5)
+### [Wearables erkennen Colitis-Schübe bis zu 7 Wochen früher](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-29 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFVTWG1LRGw5djQ3TGM0eVJ4LTh6X0lEd01uTjNERGRTMVVfQ2JSNFdKT2Jid1Y1eXAwTzlwcTczWTcxTng5V3dhWWh1LUZZSS1OWm45UzVUS2ZOb3o5TUtWNk16YjVqMGV4anU3Zko2Vk9kcXFoZUdKV2xWU3BZY1g2Y2l4ZG5hOUJyNFU2aTBKQVliVm9R?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
+
+---
+
+### [Entzündungsbremse: Wie der Körper seine IL-1Ra-Schutzfunktion blockiert](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTldkamRCT2NSaVlBVHhpcjJ1MUpGemFPbEZlVFBwVWZhU1NYM3ZwZmswMlNGSGRnRnJFQVF1dlN2YXV3VFltVTNwLXAwSzZCS3BFUVJ5NzBqTDh3NGgwWFhDV0pYSjN4c1g4LUF5Z0VVa0VwMFRTR2gxaFJ6UjJWMGhjY1h6enpyaWl2NjVieDcxSTdsQ0VRUHl0U0xaRlR0NGhZNVBpWm1RLUN3em1aVFBReDA4dUdHdC15Ul93?oc=5)
 
 ---
 
@@ -70,11 +78,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Wegovy und Ozempic: Studie offenbart bisher unbekannte Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0p4cktfS1NkRlkzQ3ZIMzJhdW9Cc1p3TGFGU2hodzZiaUE3R2piejkzN1FzaEpLcnpUN0tadk9PR2RpWmtTVUgzeUxGQXlpbFdCRl91cEUxclRhYV9VWWRyR3hoVjMwNlJjLXRUNTctNHJySW1BX1RBM0p4c2RwNWExdVNOc08zUzVGRXRlTnJ1dDlFVHVKNHFtZHJpYVlKMndaeDBlY1BqcU1vQTItMlM1Sks5S0NjUjJrWXZFX1FrU1U2Vnc?oc=5)
+
+---
+
 ### [Qu'est-ce que le virus du Nil occidental, qui sévit en Espagne ?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjZERUFmS0MyV04yYnFKTHBEMVUzREp0ZWh5Si0waXJWTEhTdXJVZ3BvdWZsMWlLMS1DOGE3WF9yLXhic3psUTVxY0F6NTRNTVJpbEIzM1VlNFN0Y1NKQUVsTTFUQzlyUVhkOGM2X0NIdGNsZ3BLYmZpRlJQUm9VTGpBSFhmMXNfa3pKVy0xNkkwYlRtcWpwN1UwaG1Scmd6d2t0bnlSTE9BUdIBrwFBVV95cUxPQ1I3d3JIYkVOZmpZY1doc1BUc0JoTmc3YXZ4ZF9qSjY2NzV1SDRDc2NCTjNldFlZY1U1NUtmdG0zUDJiMDZiRm8tX0ZSek9fbFVVbnpKUEkxVEg5aHVGNDlCN1czRkw3eEQxUGs5eDdpX3N3SmdpRHpXU21aWXNCR0s1bl9DTjRBR0hYQVBmTlluN0VIMEt1OGpXM3VjWnJWNnBSWUJWcVVmOTNkS1F3?oc=5)
 
 2026-07-28 <span class="news-indication-tag">MS</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjZERUFmS0MyV04yYnFKTHBEMVUzREp0ZWh5Si0waXJWTEhTdXJVZ3BvdWZsMWlLMS1DOGE3WF9yLXhic3psUTVxY0F6NTRNTVJpbEIzM1VlNFN0Y1NKQUVsTTFUQzlyUVhkOGM2X0NIdGNsZ3BLYmZpRlJQUm9VTGpBSFhmMXNfa3pKVy0xNkkwYlRtcWpwN1UwaG1Scmd6d2t0bnlSTE9BUdIBrwFBVV95cUxPQ1I3d3JIYkVOZmpZY1doc1BUc0JoTmc3YXZ4ZF9qSjY2NzV1SDRDc2NCTjNldFlZY1U1NUtmdG0zUDJiMDZiRm8tX0ZSek9fbFVVbnpKUEkxVEg5aHVGNDlCN1czRkw3eEQxUGs5eDdpX3N3SmdpRHpXU21aWXNCR0s1bl9DTjRBR0hYQVBmTlluN0VIMEt1OGpXM3VjWnJWNnBSWUJWcVVmOTNkS1F3?oc=5)
+
+---
+
+### [El diagnóstico precoz, principal reto en la lucha contra las hepatitis - Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
 
 ---
 
@@ -110,27 +134,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Nach-Hause-Lieferung gesunder Lebensmittel kann Blutzucker verbessern – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYk9MWHRtWm9EMTlHUEJqQ29tS3YwUVNwT0hkNEFsNzRUaC0zcmd4NmYyTUQ3cTd4azUyUzluVWV5eUtiVDVkTlVYUGlVc0MxYjQwR0doQmR3Slhzd0xoQmdabms0VnB5RnpoT0cwRUNjZ3JPUHgzN1JudW5XSG1tRUhHeGFtT3ZFMUQ1YlVPYjR2YXBmWnpqRkZ5ZTZLRlJ5aDFtZWw3QllWMFVDM0hfdmtoQjRtMG9Zd1d2LWNIYXh2X0hxOGEyaF8yenI2eDRUSEZNUQ?oc=5)
-
----
-
 ### [A Woman Shared 6 Rarely Discussed ADHD Symptoms, And People Feel Seen](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wZVhzY0VMaEJGNFRCYUVpMVJmUjNscXFWVWNtbXdMSnJ2WVNqZThHajNpZDFjc29vR2liUnV0ejBXeDY5SlkyaEVMZk8zYVVhWVZKNnhlSDBLTGxGa0xwd1JfWUJBLWl4MDFtLV9LZ1V4aFkzb3ZNag?oc=5)
 
 2026-07-27 <span class="news-indication-tag">MS</span>
 
 來源：[BuzzFeed](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wZVhzY0VMaEJGNFRCYUVpMVJmUjNscXFWVWNtbXdMSnJ2WVNqZThHajNpZDFjc29vR2liUnV0ejBXeDY5SlkyaEVMZk8zYVVhWVZKNnhlSDBLTGxGa0xwd1JfWUJBLWl4MDFtLV9LZ1V4aFkzb3ZNag?oc=5)
-
----
-
-### [Multiple Sklerose: Diese Bakterien der Darmflora können schützen](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
-
-2026-07-27 <span class="news-indication-tag">MS</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1U4RjV5Q1VUWDlBVjlmWi1vY0pWMThuanNOYktQTGhVeDhnR2EwazZhUVYyeF9CT1VrS2pITGlKLXhyQURqeS1YYWw5VzVLeDJvRkpvSEw5akxfZ285QnFaRHVEblhVeGlYNjZSUmNoWTdjREVOQTRIR254Wjd0U1hYTkhNb1dDV0JlZVF3aDhIcEpKWE8zemZHTm0yeV9vWUMwVTBJajZsVmFWOVpRNEFDdVhyZFQweTRCV1FYdk15UlZD?oc=5)
 
 ---
 
@@ -150,11 +158,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Deadly infection: Florida reports first rare, flesh-eating bacteria death of the year - FOX Weather](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMk5RaTZKQXBlNWt3SmtFdFdZd2wxWjVlY25USXJMaU5hV3h6UGpfcFd4WFNjNThITDdmRWYtR2pXdjNOMFVSQXVwczJiRGY3bmkwei01NFdHQUhGeWRQcEhLVDZoeVZpX1hoSG5teFQ2clFZV25OUF9ZcWthX3pJR25LcHlmSVpiNXI3Mkk2WdIBlAFBVV95cUxORGpQR1YxR2o0bHNScEJ6YjRYelVtWFRSOWNxYmdGbV9mZVU3dFktaWx2bE9SRm10UWVlY3dTVE9scUl4NENrOERUckwyX3lqR3hkS0J3UEZYNnQzeFR2VVFNclFrRWp0cFFmaUpLR2Q5UnNtQnZfNUN5ZUZWeTdaYTlTcmNZSVUxWFpWZG9wZDZTLU40?oc=5)
+### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
-2026-07-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[FOX Weather](https://news.google.com/rss/articles/CBMijwFBVV95cUxQMk5RaTZKQXBlNWt3SmtFdFdZd2wxWjVlY25USXJMaU5hV3h6UGpfcFd4WFNjNThITDdmRWYtR2pXdjNOMFVSQXVwczJiRGY3bmkwei01NFdHQUhGeWRQcEhLVDZoeVZpX1hoSG5teFQ2clFZV25OUF9ZcWthX3pJR25LcHlmSVpiNXI3Mkk2WdIBlAFBVV95cUxORGpQR1YxR2o0bHNScEJ6YjRYelVtWFRSOWNxYmdGbV9mZVU3dFktaWx2bE9SRm10UWVlY3dTVE9scUl4NENrOERUckwyX3lqR3hkS0J3UEZYNnQzeFR2VVFNclFrRWp0cFFmaUpLR2Q5UnNtQnZfNUN5ZUZWeTdaYTlTcmNZSVUxWFpWZG9wZDZTLU40?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
 ---
 

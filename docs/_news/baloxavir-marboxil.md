@@ -14,7 +14,7 @@ permalink: /news/baloxavir-marboxil/
 ---
 
 <p class="key-answer" data-question="Baloxavir Marboxil 有什麼相關新聞？">
-<strong>Baloxavir Marboxil</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Baloxavir Marboxil</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/baloxavir-marboxil/
 <p><a href="{{ '/drugs/baloxavir-marboxil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（19 則）
+
+### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+
+---
+
+### ['Il sole protegge dal melanoma', bufera sul post della nutrizionista](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+2026-07-28 <span class="news-indication-tag">tumor</span>
+
+來源：[ANSA](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWkZVX3F1WHR1MURLcWJIbW9CQVJnN0RELVB2VWJ1Q0lWcXg2MUY3NDNLZjNfb3dVWXBETi1UVmhYampDLVlCTFhwNjFTOHZWNWM5RjRnRi1YWWZvOUR6WVpsdldmaC10Y3NFUDg2VFN4b3pUV0V0dXAzNWswTkF2X2RBUnVxTjM5NWhpZEtkOTl6UDNHZzlPZVdsb1hISW9XRzA0eF9ROGMwYUNrX0lTWHMtT2RwQ2ZzWVk1OGdtVG9EM1VzeTdBQ3F3SGtJM1ctWnNCVDhkSWREVXlod1RUMFlVQWRPT0lMOGk1bFdFeVFySjVLdnFIbU9QdlBDaFVHMlgxNW9saTV2bFnSAZACQVVfeXFMTUFDVWRMN2JXTFdXRWZEVjNPdWJTMTBIdGxHVVZKWHpBc0hwbmlxbkZxTXg0MWtfZXhJbTcwNENfQUJtb2lfTEtVdVJ6dlhqTlp1UFBuQXFqUlVRREl4cmVvWUxQUGVEak5XejVGdWhTaEZ1dTZGZkpMOWQ4aFAzdzBHbWU5SmNYUUxOaV92R1c4MkN0dURJM1lBWF92ekNTX0VOeVY3R0tQVGQ4WXhiaC1qZkhvZnhPUWhLSnByaWx0U0N3bGRxSzR3bG1aU2RYQWRhNFhGN0UzMEl5MjhWb251dW0yeFlsYnFQSXVTX2hQUHZZMTN2VE5TMUtxY3BFUFowMzhvcV8zN1pBbTNUaG0?oc=5)
+
+---
+
+### [Health plea as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
+
+2026-07-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
+
+---
 
 ### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
 
@@ -62,11 +86,19 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
+### [Epatite A, cresce il focolaio in Italia: i medici spiegano l’errore a tavola che può favorire il contagio](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
+
+2026-07-28 <span class="news-indication-tag">epatite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUTd1NGhEUm5lMGxRSzNoV0dNRVdabmxxbmhNd0c4WnVUTFNGUk1IenNfTmJncTNoNzQ2ZUFoQ1JLYWducXhEcEFUX3lnVFlDY3paYXJqRWRWV0lERTFyRjdsUWNXTmRNZ3VycVdUTWlTTS1BZDNZRF9rSVFUc0VnYkwtVHlLbE1UNDcwZ2s3aTBOa0RwLVlkcmFDX0IxUGVsOTU0aHR4aGtnenloRDJiWF9IdXJFeEt6Nkx3WW5tNmF1Z2tMS2hDalMzOThXNzFUdVczb0lsRUhZdkVHS1hlQS1vUlhaRE5W?oc=5)
+
+---
+
 ### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 2026-07-28 <span class="news-indication-tag">hepatitis</span>
 
-來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+來源：[aok.de](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 ---
 
@@ -94,14 +126,6 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [El ECDC alerta: Europa no logrará eliminar la hepatitis en 2030](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3g4UXBiTm1mcDUtYnJPREZ3Zlh0UkpWb1ppZS00ZXFjS3VPSnJXMW92N0RsTVE2VldVZWNlSUpCTmVJTEhkaWlySjhEZjBONnZRN242NkpXVl9ER1RrSHJYRVhIQldZbTRKbUl5NW9nNHZpNHQxN2pCdWQ0akR3U2xmSmVKM2h0U1dQa1JBaS1Vel9pcXlrNlVqNVd0RFZqelA3X2MwRDFBTXJRbHB5SVhPUnMtWGFhWm96WEk1V3ozMmdTdURkYUZGZw?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3g4UXBiTm1mcDUtYnJPREZ3Zlh0UkpWb1ppZS00ZXFjS3VPSnJXMW92N0RsTVE2VldVZWNlSUpCTmVJTEhkaWlySjhEZjBONnZRN242NkpXVl9ER1RrSHJYRVhIQldZbTRKbUl5NW9nNHZpNHQxN2pCdWQ0akR3U2xmSmVKM2h0U1dQa1JBaS1Vel9pcXlrNlVqNVd0RFZqelA3X2MwRDFBTXJRbHB5SVhPUnMtWGFhWm96WEk1V3ozMmdTdURkYUZGZw?oc=5)
-
----
-
 ### [Tumori: un integratore molto comune rafforza le difese contro il cancro. Lo studio - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1aRjRFWlM1V2JIZ3BnUUxwZjJpdTROMmNIaE4yQWxLTGJWWWM1bndWUXlLWF9hWHg2OC0yc3owMzZvUDBwWG5VNGZDT0FBbmJ1MWczdGNJNTBPMG5YUlFWWEt3VGw0M2k0Y3JiUG03dEtjZHBvOGs2aUtLblBnOWotQm9EYnNDUHV2eEN0WmNZZk9RdVlWQlJyY2tRcTBlZjk3YWpWcWRFUE82aTVMaXNuVy1FZ0k3S2lvSHQxYjnSAcYBQVVfeXFMT1dPQ0pDWXZzaV9BeFlCdGRPeG5ZRGgwVTlsMW12TzZ0b2ZlOW9OcDlNYThRaUo4Um83X2pJcF9QV0lQbUxlRDRqRVJHeTA2dG43Z3BHZ2g4eUR6NzlVTXhsZHNDbHY5NWJnT3RFQzBybmtoWTJQMng2cnVEWERsTTZOcDluNm9ZQ1MzT2JUTWNMaTRFNmstcVYzS3hnVGJ1c3M4U0JYM3I2SWh1N0lkQi1OM2FlcGRnU1dDRnVNSWZPMUFIamxB?oc=5)
 
 2026-07-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -110,17 +134,9 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Epatite A, casi in aumento nel Lazio, lo Spallanzani: Focolai legati al consumo di cibi contaminati"](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUctQ2Z6OC1iM01UVncwRFEwS0dMOWdBQVVpT043V2FSSlY2aUtVN1hicjA1NTZWT0xJVmlrZGJraS1GQ2EwVmJoRzBWbUFOZWx2WV9JLWgyNGEwNXFYRmphTHdkSlZHdTRCLUh0Y2FuZkFvT2l3b0R0UmV2SlUycA?oc=5)
-
-2026-07-28 <span class="news-indication-tag">epatite</span>
-
-來源：[RomaToday](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUctQ2Z6OC1iM01UVncwRFEwS0dMOWdBQVVpT043V2FSSlY2aUtVN1hicjA1NTZWT0xJVmlrZGJraS1GQ2EwVmJoRzBWbUFOZWx2WV9JLWgyNGEwNXFYRmphTHdkSlZHdTRCLUh0Y2FuZkFvT2l3b0R0UmV2SlUycA?oc=5)
-
----
-
 ### [El diagnóstico precoz, principal reto en la lucha contra las hepatitis - Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Canal Extremadura](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3pTOGFjd05SUEVuZl9NZ25JNDIyNEJBVjdyV1VCN19Vc3lNVlN2VVFrUGdzU0o4Z3ZMemdEY0hIT2FfSFBDSUxQeXl2eTlLczhMbEd2RGQ1Z1BBaUJmOWtjZ1BXU0FuOE1XVDZ0N0RiODFrVjVOVDI4WHRITVpLV1RVX045dmJxUFlfdUNCQWVEVlJfSlRoZ0toOVNpOE1odmp4bHJ0a0gtSDJKTFBVX2xTSDlOc0tOOGFNYkRyTQ?oc=5)
 
@@ -131,14 +147,6 @@ permalink: /news/baloxavir-marboxil/
 2026-07-28 <span class="news-indication-tag">tumor</span>
 
 來源：[ANSA](https://news.google.com/rss/articles/CBMi-AFBVV95cUxON1NiZlNSTjJmSzREb25RS19meHRqcFdMRkU3ZXJ4OG9TZE1wakhCU2VLZDRjcl84U241S0ZPWF9GRDRqemVheHhHXzYwLU9VY3BNM2xRZlVEVmtQU0tvd2s5TG4zUmY1T01BbEY1aU9RS0FzUDdLdFdGbE5MMVktbUFtUG9kcm56cUh1RUpSODE0WlNtUEJxSzZGTVVuTHVtZXZVaHFZeVpjWEh2cklmdGU2a2xST3k1T2M2anYtZGk1bzRlUGkzRHhoNW5xd0NJVnd0dklfYTBmMVA5Q2piM2tsWHJuMlNYNDRPd3R4eElqYTZBbjJsStIB_gFBVV95cUxOSWVGM0FsZDB2MEhaYWdHT3VjLVI1M3p6RWNYTGg1ZnNHZE9zNXlwR2VucmpJdUlxZFdHY2FLeEFoS205cDhOMlpIRzRyUUFhRlVOQ0F5ZWZYdXlYZ0FWQVl6OGJiTUJaNGNKOXktaWt4S3BpajJPRmpWN0dOakR6NWQtVll1T2VpbGNRZUlWanhXdUIwUnZUNTZUYWVXZV9ybDJEYUM4MVg5S3liMElVal93U09Fd1lJeXJHeVBFVjZkQUNnQ2tZUGU3MEdVT1NIdFZyMEVSNEFYM0E1QjNPRGFzLWUzbEZsYzFsOVlkQXpXU1kxdHpfYUQ1RlM3UQ?oc=5)
-
----
-
-### [Engineered gut bacteria show promise against pancreatic cancer - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
-
-2026-07-27 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5HU1p0Zk8wWFgyWk1jcU9nSnh1U01VeVBLSGtFZ2FMUERicV9BUVIzWURLNnB1VmhjQ3VIbXZBNnBpRlVXaWhIR2VIam1EZHQ3RzFhalpRN3UzZGJCbEJZRURVLUcwVHhoZ2FIMlZXUlVDbFhTM1NQS0Q3WmpZazQ?oc=5)
 
 ---
 
@@ -174,14 +182,6 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Melanoma, bufera su Rasio: “Il sole non lo provoca”. Gli esperti: “I raggi UV aumentano il rischio” - la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEdidVRfQjFQbEZCR0pkeFo5TGxVUFkwQl8tenNWUUV4YTNpTmE2VE9UV1RzdlA0Ni1qbmJyNVpDNjhMNnBxV09EWjZIbFhLY1dreTZIVGdEUVRkQWxZaVJzUWJiaUk2SjJUN2tvU1lRekRvX1VtOGJoUkE1ZWN2bXVYRmJGbThlY3o4RDFhNy14Q0EyWndlSkhLcUJ3N2xVcFY0QVlCVTlsU01rSXgydjln0gG3AUFVX3lxTFBkRWxvWE1QWWlnWkpGbkcxZzlUTkRZbWtqOHBFTkhCN3puZ1lIM080VlNVN0k5NnMxRnhzOEUtRVZIbHlEREs1LUZZcHNPSG10MmRRVmY4QTNiYzFxQ3JLQjRCTlIxdDhsWHptWjJ5TWppUGpvRmZZOHhEWU1hcUg2LXAxZmQtTlY3Nlp3TEstdVlPN0dlUk9LT1JkRTc0VDZjRFpIa0pYd1QtdXk0a0RtOEcweGpLcw?oc=5)
-
----
-
 ### [Dieta chetogenica, doppio effetto metabolico. “Protegge il colon, ma aumenta il rischio di tumori intestinali” - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVEsxQ0lQN1FJQ1RuTFlZank4WEpoOG5zWmNFaDlZSkd4MkRsRnR3UDJkWFFVUUpUWThzUExheHNNdTZveVdWalgtS2ZEcmpSazlEeENKOVlveE1XSU9wMVkxYnRmeGdydFYxUktpTmM0OTJWb3NFaW9MM2h3QWJGV3hzaUViVWktOWRxLS1tVVAwZw?oc=5)
 
 2026-07-27 <span class="news-indication-tag">tumor</span>
@@ -190,17 +190,9 @@ permalink: /news/baloxavir-marboxil/
 
 ---
 
-### [Una nuova molecola rende i tumori più vulnerabili a radio e chemioterapia: "Così si possono ridurre le dosi" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
-2026-07-27 <span class="news-indication-tag">tumor</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVl0RGRtTFhvUWxmUWJFUkVsZ2o3Q05GX2QycmdEQVNLeXMxWkxPY3BiYll4dmRsaUdXMWYzb0hCMFJMZDFKYkR0NEUtVFk5S0hhSXhMREJla0JKSVdMWi1kRW8tNkZBdHNJTVhlZUhkdVVCNHdYUGx4eU1WU3VSUGdBbklFc2dfb2VrRkxZM1FRenBMdjNEaEgwc2l6NG5EZDJ1WmJyMGMtUzhmSlB2ZWZsa3NqV0ljMFE0SHlueHJGVHlqY1I3RkZpdV9NbDE1NWs2R1ZoS1hYQmtBOTYyNGFQbTdiZGNWZE5TVTZIaw?oc=5)
-
----
-
 ### [The number of cups of coffee you need a day to protect your liver - The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 
-2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2ZDS3A3QXlSV21ZY2pSTGMtMUtfOV9QbU02NE1xeGdfejJFOGIyN1Q0Z1dpMVhoa1RRTk9IazJ4QzlJLU1Pd254b1BSVXJQOFRvQ2Nzc3FlQ3gwTnhqa2VWQjdwYVdJYjFNaE40TVNwajZpWHdoMHZ3V0J6RGZkejFRM1Y0TmlaUkwtOEpwTmJvMTNFZUZRY2poVjZZNkNGYWdSOEplMmpzSkZZZ3Nz?oc=5)
 

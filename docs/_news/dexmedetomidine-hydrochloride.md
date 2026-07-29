@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Hypertension artérielle : une maladie silencieuse qui exige un traitement régulier - Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
 
 2026-07-28 <span class="news-indication-tag">hypertension</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
-
----
-
-### [Emicrania, la risonanza rivela cosa potrebbe accadere nei muscoli del collo](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
-
-2026-07-27 <span class="news-indication-tag">emicrania</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkd2X0w2b2tnNzVFT3dPSXlIUEFfaXlDRDd2clNYNElra21OdHZpVXBzS3dLRXd5R0E4T2lGalRJSmdYSmZfOEQtTUtCUm9KR2NXSmRhOUZRc2E3T0JHNEdvR0txdXREbVVYb2o1bkhnMkJONkdqUzdOOTNCZHVVT1RXY2p5aWpfWTM0U0FwVi1ZS1JLSUNmN0pBUEd6R1hYSzM4WG1hQUozMnlVTmM1aE5kQmFaMjJaUWFWWXdZR2ZYNDlhQXV6d185THdSazA?oc=5)
 
 ---
 
