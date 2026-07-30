@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
-### [MSD y Wellcome impulsan una vacuna contra el ébola de Bundibugyo ante el avance del brote en la RDC](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSTRCZDN5UURsTlgxa1hiYVVGMThJMW9WRGlKTzNldWpkY3habHpwbkcycklUREFHdnBmczdpa3pNMHRrek5wUEZVZEVnbzMyZ1h6YnJpV2c5ZERmbUJwT2RVbFBuVmRwNWZ2NUxCRGNQT25IRU1nUDl2TFNiTnNvMF93VE9Fa2RVQ0REYW15RHhxTTJETXpkU1huT1NUV2lMRXZaWlkzODNBUkhtanI4RWlESnJqdnh2WkFOMzFIelg3bEFkSzhJQW5qQkoxS19oZGpRcUpHblUwSENSeHhHNlIyaGI?oc=5)
+### [Anti-Reflux mit Ernährung: Studie erreicht 81,2% Erfolgsquote gegen Sodbrennen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+
+---
+
+### [Una nueva vacuna contra el ébola "más prometedora", desarrollada en Singapur](https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0ZGekk1RDZoUW9zbXppMGV2RzlxejhJWTZNRmF0ckFxenVoQi1PbkVvdjdQWklyTEJLSkhpMTluZ0xSMi1zMUI5a2Q3elpCOHNKal9OanBLWjZ0M2NwNlBhUG1naDJnUFVPZVVMTGlKOWlHUk1pMmlseThJYndBQnFWUXZ0REZ5TkpMV1FMU2p5RW9TX1A1R3NNNnlxTTNmMVlZZDdLWW5Rb1dhcXZ3YnpmZUQ4YnZVS3hBaA?oc=5)
 
 2026-07-30 <span class="news-indication-tag">MS</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSTRCZDN5UURsTlgxa1hiYVVGMThJMW9WRGlKTzNldWpkY3habHpwbkcycklUREFHdnBmczdpa3pNMHRrek5wUEZVZEVnbzMyZ1h6YnJpV2c5ZERmbUJwT2RVbFBuVmRwNWZ2NUxCRGNQT25IRU1nUDl2TFNiTnNvMF93VE9Fa2RVQ0REYW15RHhxTTJETXpkU1huT1NUV2lMRXZaWlkzODNBUkhtanI4RWlESnJqdnh2WkFOMzFIelg3bEFkSzhJQW5qQkoxS19oZGpRcUpHblUwSENSeHhHNlIyaGI?oc=5)
+來源：[RFI](https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0ZGekk1RDZoUW9zbXppMGV2RzlxejhJWTZNRmF0ckFxenVoQi1PbkVvdjdQWklyTEJLSkhpMTluZ0xSMi1zMUI5a2Q3elpCOHNKal9OanBLWjZ0M2NwNlBhUG1naDJnUFVPZVVMTGlKOWlHUk1pMmlseThJYndBQnFWUXZ0REZ5TkpMV1FMU2p5RW9TX1A1R3NNNnlxTTNmMVlZZDdLWW5Rb1dhcXZ3YnpmZUQ4YnZVS3hBaA?oc=5)
+
+---
+
+### [Sclerosi multipla e caldo, perché i sintomi possono peggiorare senza indicare una ricaduta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmh2aVRYa0RMdGxJSV9seDhMMXJHeU14SXZNYkluU0d3a3A4ZUZRbWlUOVptdUdEMTIxRktsVEFtZVIyRFZBQ3JIWDkxZE1QY0VHam80MWdzcWVnYlFmcmRsSmUyZVptQUJXTUduTlU2UWZFWWdlOGZta0VRTnNIU1pnd1BIMl9uTkJZT1poRG9USXVLRkpGT09BaF91cVZfU0NQak9DS3R5QjBLbnhzZ3BxQTBROTNwb1l1dzZXLWYxMmRPb05zb0xCTEpMSXdhdjlnN3BSQQ?oc=5)
+
+2026-07-30 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmh2aVRYa0RMdGxJSV9seDhMMXJHeU14SXZNYkluU0d3a3A4ZUZRbWlUOVptdUdEMTIxRktsVEFtZVIyRFZBQ3JIWDkxZE1QY0VHam80MWdzcWVnYlFmcmRsSmUyZVptQUJXTUduTlU2UWZFWWdlOGZta0VRTnNIU1pnd1BIMl9uTkJZT1poRG9USXVLRkpGT09BaF91cVZfU0NQak9DS3R5QjBLbnhzZ3BxQTBROTNwb1l1dzZXLWYxMmRPb05zb0xCTEpMSXdhdjlnN3BSQQ?oc=5)
+
+---
+
+### [Multiple Sklerose: Diese Darmbakterien können schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ permalink: /news/pibrentasvir/
 2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
-
----
-
-### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
-
-2026-07-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
 ---
 
@@ -94,6 +110,14 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Hepatitis E erhöht Risiko für akutes Leberversagen bei Leberzirrhose](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
+
+2026-07-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
+
+---
+
 ### [New Channel 4 documentary, The Great ADHD Myth?, seeks to determine whether ADHD is a genuine neurodevelopmental disorder, or a social construct - Channel 4](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmdIZkNvSGNNN1RCOWpaLVY4bTFZUXMxSVVkYk52Wld3NThLbVB2WXp5WXVlcnBReFpTczVvendnU211WDBYYTNLNk5CV2Z6Snh0WFdjOUNHY2FaV1Rfa2VRZ3h0QTNuMENWMXhzOUlTaWNZSUhYdVA1YnVsbFRGNVh3TjJaYTlkS1hqXzduOXpXYTdaX3RWS19rYUhuS1kxaG1ydGFEOUlLZUJtZmExQlhibWU?oc=5)
 
 2026-07-29 <span class="news-indication-tag">MS</span>
@@ -102,19 +126,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
+### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
 2026-07-29 <span class="news-indication-tag">epatite</span>
 
-來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
-
----
-
-### [Multiple Sklerose: Darmbakterium reduziert Hirnentzündungen messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkFaOFJkSGFvLXNzNHVMcTZOb0MteTZiWHJhVDJYV3BQMFZmUmwxYkRtc2RJTVBGTXJYNXlITGJmQjhHRk1MWURyTUcwS2ZjZUZQMXBrd0FaTUNJNVllZ01GbWw4bUpNdTZiZGhWZkFKUWFRd1VFVUVlekR4OTlpQTBveV9nRGVQZDJLOUVjSUVyTnVFZkNZTHBBMjRxbE1HMjNkQUkwdXp5QTN3eGdSNTJIakI1RlE?oc=5)
-
-2026-07-29 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkFaOFJkSGFvLXNzNHVMcTZOb0MteTZiWHJhVDJYV3BQMFZmUmwxYkRtc2RJTVBGTXJYNXlITGJmQjhHRk1MWURyTUcwS2ZjZUZQMXBrd0FaTUNJNVllZ01GbWw4bUpNdTZiZGhWZkFKUWFRd1VFVUVlekR4OTlpQTBveV9nRGVQZDJLOUVjSUVyTnVFZkNZTHBBMjRxbE1HMjNkQUkwdXp5QTN3eGdSNTJIakI1RlE?oc=5)
+來源：[laprovinciacr.it](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
 ---
 
@@ -134,19 +150,11 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Immunbremse: Autoantikörper lösen schwere Entzündungen aus - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdElUcU1BNXZkMHJjT2NMMl9aQU5ucUVPaTBoUHNPeTItRVktQ1NrYTltSWhBVmxJVUh1RG5abkpPQ1N4X1Bzb3NsYUJqTTAtZXZFS1BiY3hnSTZGNm5DUWFTYS00V2RSTmFqa0oxM1o3TnYxQkpEQ1AxdUFzRl9NY0owdGg4VDE4Mzl6S3QtRllaRENvaUc5NkNhUlhOeVpIc0ZENm5iYVhtV1BCTnc?oc=5)
+### [Reizdarmsyndrom: Nabelschnur-Stammzellen zeigen im Tiermodell Hinweise auf Wirksamkeit - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
 
 2026-07-29 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdElUcU1BNXZkMHJjT2NMMl9aQU5ucUVPaTBoUHNPeTItRVktQ1NrYTltSWhBVmxJVUh1RG5abkpPQ1N4X1Bzb3NsYUJqTTAtZXZFS1BiY3hnSTZGNm5DUWFTYS00V2RSTmFqa0oxM1o3TnYxQkpEQ1AxdUFzRl9NY0owdGg4VDE4Mzl6S3QtRllaRENvaUc5NkNhUlhOeVpIc0ZENm5iYVhtV1BCTnc?oc=5)
-
----
-
-### [Reizdarmsyndrom: Nabelschnur-Stammzellen zeigen im Tiermodell Hinweise auf Wirksamkeit](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
-
-2026-07-29 <span class="news-indication-tag">MS</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
 
 ---
 

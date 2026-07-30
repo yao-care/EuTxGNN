@@ -54,19 +54,19 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（2 則）
 
+### [Bluthochdruck: Fixkombination senkt Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUtYZjRDUzJjQnllaG8zdGUyYTR3cmI4LTVuaElyYlNld1kxUElUekF5MnNZU1g0bFVYV2xFbDRBLXRlVklDaVV0X0FnZDB6dnBCSTZlMWZjUGpOSVV4WThGNHptdVhXUGdOZEVVNWh4dnRoakdYTkd2RFFiREFrZmJhWmFydzI0NU53ZXpQaXlpUGR5LURZSTNLNXRqdXVRWklDTGpqa0Z5UTlEcXAwVUVyMlZ4dw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUtYZjRDUzJjQnllaG8zdGUyYTR3cmI4LTVuaElyYlNld1kxUElUekF5MnNZU1g0bFVYV2xFbDRBLXRlVklDaVV0X0FnZDB6dnBCSTZlMWZjUGpOSVV4WThGNHptdVhXUGdOZEVVNWh4dnRoakdYTkd2RFFiREFrZmJhWmFydzI0NU53ZXpQaXlpUGR5LURZSTNLNXRqdXVRWklDTGpqa0Z5UTlEcXAwVUVyMlZ4dw?oc=5)
+
+---
+
 ### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
 
 2026-07-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
-
----
-
-### [Sartan plus Kalziumkanalblocker: Kombination senkt Therapieabbrüche bei Bluthochdruck](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
 ---
 

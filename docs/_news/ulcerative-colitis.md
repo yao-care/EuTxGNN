@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "colitis ulcerosa（ulcerative colitis） 相關新聞"
+title: "colite ulcerosa（ulcerative colitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "colitis ulcerosa（ulcerative colitis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "colite ulcerosa（ulcerative colitis） 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/ulcerative-colitis/
 ---
 
-# colitis ulcerosa（ulcerative colitis） 相關新聞
+# colite ulcerosa（ulcerative colitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="colitis ulcerosa（ulcerative colitis） 有什麼相關新聞？">
-<strong>colitis ulcerosa（ulcerative colitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<p class="key-answer" data-question="colite ulcerosa（ulcerative colitis） 有什麼相關新聞？">
+<strong>colite ulcerosa（ulcerative colitis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「colitis ulcerosa」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「colite ulcerosa」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -32,7 +32,15 @@ permalink: /news/ulcerative-colitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Crohn e Colite ulcerosa: segnali immunitari fino a 10 anni prima della diagnosi](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
+
+2026-07-30
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
+
+---
 
 ### [Colitis ulcerosa: Wearables erkennen Schübe bis 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
 

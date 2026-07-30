@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（3 則）
 
-### [Scientists Witness Remarkable Brain Cell 'Takeover' in Midlife](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
+### [Alzheimer : des scientifiques ont potentiellement trouvé le germe à l'origine de la maladie](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
 
 2026-07-30
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
 
 ---
 
@@ -62,11 +62,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Des scientifiques japonais pensent avoir identifié la substance à l'origine de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
+### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
 
 2026-07-29
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
 
 ---
 

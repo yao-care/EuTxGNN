@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,29 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Scientists Witness Remarkable Brain Cell 'Takeover' in Midlife](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
+### [Alzheimer : des scientifiques ont potentiellement trouvé le germe à l'origine de la maladie](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
 
-2026-07-30 <span class="news-indication-tag">dementia</span>
+2026-07-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
 
 ---
 
 ### [Giving babies less sugar could cut dementia risk, study finds - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
+2026-07-29 <span class="news-indication-tag">dementia</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
 ---
 
-### [Des scientifiques japonais pensent avoir identifié la substance à l'origine de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
+### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
 
-2026-07-29 <span class="news-indication-tag">maladie d'Alzheimer</span>
+2026-07-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
-
----
-
-### [How The Vagus Nerve Promotes Healthy Cognition Via Acetylcholine Signaling](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[Hackaday](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
 
 ---
 
