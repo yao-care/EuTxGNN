@@ -54,19 +54,19 @@ permalink: /news/rasagiline/
 
 ## 相關新聞（4 則）
 
-### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+### [Scientists Witness Remarkable Brain Cell 'Takeover' in Midlife](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
 
-2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
+2026-07-30 <span class="news-indication-tag">dementia</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
 
 ---
 
-### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+### [Giving babies less sugar could cut dementia risk, study finds - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
 ---
 

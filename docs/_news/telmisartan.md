@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Studie: Hoher Süßstoffkonsum hängt mit schnellerem Gedächtnisabbau zusammen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
+
+---
 
 ### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
 
-2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+2026-07-29 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
+
+---
+
+### [Sartan plus Kalziumkanalblocker: Kombination senkt Therapieabbrüche bei Bluthochdruck](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ permalink: /news/telmisartan/
 2026-07-28 <span class="news-indication-tag">stroke</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
-
----
-
-### [Hypertension artérielle : une maladie silencieuse qui exige un traitement régulier - Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
 
 ---
 

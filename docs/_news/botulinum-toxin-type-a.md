@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [COPD: Nach Klinikaufenthalt fehlt oft die empfohlene Therapie](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
-
-2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
-
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [How The Vagus Nerve Promotes Healthy Cognition Via Acetylcholine Signaling](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
 
 2026-07-29 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[Hackaday](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
-
----
-
-### [Un experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
-
-2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
 
 ---
 

@@ -54,11 +54,27 @@ permalink: /news/amlodipine/
 
 ## 相關新聞（29 則）
 
+### [Studie: Hoher Süßstoffkonsum hängt mit schnellerem Gedächtnisabbau zusammen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
+
+---
+
 ### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
 2026-07-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
+
+---
+
+### [Girl 'repeatedly dismissed by GP' diagnosed with cancer after Devon holiday - Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
+
+2026-07-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
 
-2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+2026-07-29 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
 
 ---
 
@@ -99,6 +115,22 @@ permalink: /news/amlodipine/
 2026-07-29 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
+
+---
+
+### [Sartan plus Kalziumkanalblocker: Kombination senkt Therapieabbrüche bei Bluthochdruck](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
+
+---
+
+### [‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
+
+2026-07-29 <span class="news-indication-tag">tumor</span>
+
+來源：[fiercebiotech.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
 
 ---
 
@@ -122,23 +154,15 @@ permalink: /news/amlodipine/
 
 2026-07-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlpFcGRFeU5xS2tuNzB5NW1Pc0ZzYzZyMkNVRUVxenF4LWZtZjctRnZNOEpHWDdDYkxxRUhRWHNkOFlNanNRbHIxMkttVlNLVy04b01RZjhma2k4V1lZUXp1dnpPU2x4STY5SWNCaG5leDlBNnhldXg0SUxDak00OVNFUXpmYnR2dWRibEk1S0M0czRfd1lsSVY4bVo4NmdKd09KR25reG1LTnY2Y2p3TWZhUGFoV3Z4T2cteU5B?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlpFcGRFeU5xS2tuNzB5NW1Pc0ZzYzZyMkNVRUVxenF4LWZtZjctRnZNOEpHWDdDYkxxRUhRWHNkOFlNanNRbHIxMkttVlNLVy04b01RZjhma2k4V1lZUXp1dnpPU2x4STY5SWNCaG5leDlBNnhldXg0SUxDak00OVNFUXpmYnR2dWRibEk1S0M0czRfd1lsSVY4bVo4NmdKd09KR25reG1LTnY2Y2p3TWZhUGFoV3Z4T2cteU5B?oc=5)
 
 ---
 
 ### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-07-29 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
-
----
-
-### [Kaffee gegen Entzündungen: 4+ Tassen senken Krebsrisiko um 17% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVhtNWk1Q25yOHdja09sT2pBWXVBYkFjSGwyUjM3THg2dGFFS1VSU21YbGN3ZnB4VWZqaTgzUTgzdE9Bbnd2d1duYmxzZnBmaHJLT25NR2N2UTFqa0tTTjYyZkJZYW4yVUJFMm1pUFJjVndTNThOVEszQThDbXBVV2daSkVOWWpmN0ZLWktfNzAxbVNSSXlWOW9TdXJiNGEyYTRGclIyRWp6Vlc1NXZ2MzMwY2xmQ1FN?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVhtNWk1Q25yOHdja09sT2pBWXVBYkFjSGwyUjM3THg2dGFFS1VSU21YbGN3ZnB4VWZqaTgzUTgzdE9Bbnd2d1duYmxzZnBmaHJLT25NR2N2UTFqa0tTTjYyZkJZYW4yVUJFMm1pUFJjVndTNThOVEszQThDbXBVV2daSkVOWWpmN0ZLWktfNzAxbVNSSXlWOW9TdXJiNGEyYTRGclIyRWp6Vlc1NXZ2MzMwY2xmQ1FN?oc=5)
 
 ---
 
@@ -162,7 +186,7 @@ permalink: /news/amlodipine/
 
 2026-07-29 <span class="news-indication-tag">cancer</span>
 
-來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmgxcVlYRjJBLVNLZ2ZXejJyTi1IOVo5RjFIUFJXMXBDbzVIV3RlSHhpVXJ3eDBybHc1Qks0dk9hTXBrS2JjeFNOWUpBSGNDSnRaTW90MlhsNlRncUdPcVVlUldQYWhPTUhDOTEwUkhrODdFbUZnaVBCdS1mbTlzSHVGX3l4MGxuSV9INlRXRUVVTWd3aXhCRnVONkxqaTRFZ0xvMTk3UmJsS3pydkpBT3FBY203dTMyR0I5cW50dlR5bWpzcDZ1UVNjSEZIZ2FJd2hfZzFVYVFjTGp5SmRBT2lFdw?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmgxcVlYRjJBLVNLZ2ZXejJyTi1IOVo5RjFIUFJXMXBDbzVIV3RlSHhpVXJ3eDBybHc1Qks0dk9hTXBrS2JjeFNOWUpBSGNDSnRaTW90MlhsNlRncUdPcVVlUldQYWhPTUhDOTEwUkhrODdFbUZnaVBCdS1mbTlzSHVGX3l4MGxuSV9INlRXRUVVTWd3aXhCRnVONkxqaTRFZ0xvMTk3UmJsS3pydkpBT3FBY203dTMyR0I5cW50dlR5bWpzcDZ1UVNjSEZIZ2FJd2hfZzFVYVFjTGp5SmRBT2lFdw?oc=5)
 
 ---
 
@@ -182,11 +206,11 @@ permalink: /news/amlodipine/
 
 ---
 
-### [Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+### [Vitamin C und Vitamin D bei Bauchspeicheldrüsenkrebs: Was neue Daten wirklich bedeuten](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUI2NjYxMmQ0TDJwR1B6am8wcUpaMFRrbnpNY2FRdEJaZFVhVTRUM2g4RjhCcmZobXlDY213NnNycFh5UGJQNkVOVXVySXdHM0hoelhqZkU2N2tPbmJjei16WWVueDE3VlRqYnp5YU5ieWZXTV90a28yRVdscjktUDNzVkpQTXNFaFQ5SXlRdGdtT1ZmSEZOaGxXdURHWmlWdDBKMEZwa09wR2pzYnFNZkx4UV9LYWdLRkE?oc=5)
 
-2026-07-29 <span class="news-indication-tag">oncology</span>
+2026-07-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUI2NjYxMmQ0TDJwR1B6am8wcUpaMFRrbnpNY2FRdEJaZFVhVTRUM2g4RjhCcmZobXlDY213NnNycFh5UGJQNkVOVXVySXdHM0hoelhqZkU2N2tPbmJjei16WWVueDE3VlRqYnp5YU5ieWZXTV90a28yRVdscjktUDNzVkpQTXNFaFQ5SXlRdGdtT1ZmSEZOaGxXdURHWmlWdDBKMEZwa09wR2pzYnFNZkx4UV9LYWdLRkE?oc=5)
 
 ---
 
@@ -259,30 +283,6 @@ permalink: /news/amlodipine/
 2026-07-28 <span class="news-indication-tag">stroke</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
-
----
-
-### [My son, 15, died of a silent cancer - docs dismissed only signs with antibiotics - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
-
-2026-07-28 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
-
----
-
-### [Tumore al seno, testata la mastectomia robotica attraverso una sola incisione](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
----
-
-### [Hypertension artérielle : une maladie silencieuse qui exige un traitement régulier - Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
 
 ---
 

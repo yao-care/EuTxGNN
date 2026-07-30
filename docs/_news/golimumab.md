@@ -54,11 +54,11 @@ permalink: /news/golimumab/
 
 ## 相關新聞（1 則）
 
-### [Wearables erkennen Darmentzündung: Schübe bei IBD bis zu sieben Wochen früher](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWRmemQ1UzFzMmM5S3F5Vk5SVjhNZjlEc0J1Yk1IQXNmc241cFNLWGdHMmt6Q2pUeXdwS0lxaHN0RjJRWDB1QmVLdW5EanR3cTd1YlBYTFB5WGh2cDhzNEtjWmg1Nk94Uk1CeHVnazU4NlNpUzRONjI4Tk5MWlR6MGlYWExPbFZ4WTlvRndUTVU2ckMwZ2FHN1FCVmdiRlJ3djdoaHdWVmoyNi1rbi1NMA?oc=5)
+### [Colitis ulcerosa: Wearables erkennen Schübe bis 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
 
-2026-07-30 <span class="news-indication-tag">colitis ulcerosa</span>
+2026-07-29 <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWRmemQ1UzFzMmM5S3F5Vk5SVjhNZjlEc0J1Yk1IQXNmc241cFNLWGdHMmt6Q2pUeXdwS0lxaHN0RjJRWDB1QmVLdW5EanR3cTd1YlBYTFB5WGh2cDhzNEtjWmg1Nk94Uk1CeHVnazU4NlNpUzRONjI4Tk5MWlR6MGlYWExPbFZ4WTlvRndUTVU2ckMwZ2FHN1FCVmdiRlJ3djdoaHdWVmoyNi1rbi1NMA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
 
 ---
 

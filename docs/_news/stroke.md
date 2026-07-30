@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。8 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>8 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [Studie: Hoher Süßstoffkonsum hängt mit schnellerem Gedächtnisabbau zusammen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
+
+2026-07-30
+
+來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
+
+---
 
 ### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
 2026-07-30
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
+
+---
+
+### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
+
+2026-07-29
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depressive disorder（depression） 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depressive disorder（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depressive disorder（depression） 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depressive disorder（depression） 有什麼相關新聞？">
-<strong>depressive disorder（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depressive disorder」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,29 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Demenz: Lange glaubten die Ärzte an eine Depression. Die Diagnose lautete Alzheimer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
+
+2026-07-30
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
+
+---
+
+### [El consumo de cannabis triplica el riesgo de trastornos mentales en adolescentes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVhzTkNaZC1EbU55YTVwV1dLd3lfY0UtNVdKYTRsSTRWeUtBMks3WmF4bTN2bDJGYjFpVk53YWhlUXhTbkNYZnpiMmZCdmt1ZkpMeXc1RU5Ea2Z6b2czcDVxV2ZoS3huV0FLLXRiNGVzWjBpNE9jYXEtS1RnNC1nZ3BqelFkWDFSOTRTX1VwUmRLVkRQSFBiNURWZnlUbHIzRUlrTFU3cENnQkdjbDNKVVFtYUFyUHBTUWJiVmtOeUVremfSAb4BQVVfeXFMUGQxTjhYNDFqRno1X1hWMDRiZkZ5RjBPMHhXX281NGQ3ZXk4RVpZVTg2T3R6MEtwV09TcEZ5Z3dXTUdpTnBhaUdmNFh6dHdPbk5QVGtGQmZwdlpMLWd0UkFSTVgyVGYzU3FZb1E3eWhLTkw0OEg5dzhmSjd5cGpzUjM5Uk5fMWJsS1Jab3pQR1BiZ3N4WldSakNMYkZWUjFSaXRwX1g4Y3BwdGZlTnp2NXI1UXB3VVdfUFM1RURaQQ?oc=5)
+
+2026-07-30
+
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVhzTkNaZC1EbU55YTVwV1dLd3lfY0UtNVdKYTRsSTRWeUtBMks3WmF4bTN2bDJGYjFpVk53YWhlUXhTbkNYZnpiMmZCdmt1ZkpMeXc1RU5Ea2Z6b2czcDVxV2ZoS3huV0FLLXRiNGVzWjBpNE9jYXEtS1RnNC1nZ3BqelFkWDFSOTRTX1VwUmRLVkRQSFBiNURWZnlUbHIzRUlrTFU3cENnQkdjbDNKVVFtYUFyUHBTUWJiVmtOeUVremfSAb4BQVVfeXFMUGQxTjhYNDFqRno1X1hWMDRiZkZ5RjBPMHhXX281NGQ3ZXk4RVpZVTg2T3R6MEtwV09TcEZ5Z3dXTUdpTnBhaUdmNFh6dHdPbk5QVGtGQmZwdlpMLWd0UkFSTVgyVGYzU3FZb1E3eWhLTkw0OEg5dzhmSjd5cGpzUjM5Uk5fMWJsS1Jab3pQR1BiZ3N4WldSakNMYkZWUjFSaXRwX1g4Y3BwdGZlTnp2NXI1UXB3VVdfUFM1RURaQQ?oc=5)
+
+---
 
 ### [Antidepressant Use Linked to Altered Gut Microbiota in Patients with Major Depressive Disorder](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3pyTWpIeHB1TGdUVUlNTHdrVElJS2ZXTFRkSDl5cDdPWkRZNlRUaVdkNUo3UW80WlIzdEhEU2lrS01wRGJSWXQ4aUZuaTRmRHVqb3JERVAwZXRHR1l3RlJ6OG53RVAzVjZGcV9HOXV2emRCOFBWZ3ZTOUlpMmhGRTlnOXJmQ0E5VzYzaWszdENySFJ1THFPN1EwMWU3ZHBPOUc5N2VwRzZ5amM?oc=5)
 
 2026-07-29
 
-來源：[medscape.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3pyTWpIeHB1TGdUVUlNTHdrVElJS2ZXTFRkSDl5cDdPWkRZNlRUaVdkNUo3UW80WlIzdEhEU2lrS01wRGJSWXQ4aUZuaTRmRHVqb3JERVAwZXRHR1l3RlJ6OG53RVAzVjZGcV9HOXV2emRCOFBWZ3ZTOUlpMmhGRTlnOXJmQ0E5VzYzaWszdENySFJ1THFPN1EwMWU3ZHBPOUc5N2VwRzZ5amM?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3pyTWpIeHB1TGdUVUlNTHdrVElJS2ZXTFRkSDl5cDdPWkRZNlRUaVdkNUo3UW80WlIzdEhEU2lrS01wRGJSWXQ4aUZuaTRmRHVqb3JERVAwZXRHR1l3RlJ6OG53RVAzVjZGcV9HOXV2emRCOFBWZ3ZTOUlpMmhGRTlnOXJmQ0E5VzYzaWszdENySFJ1THFPN1EwMWU3ZHBPOUc5N2VwRzZ5amM?oc=5)
 
 ---
 
@@ -50,14 +66,6 @@ permalink: /news/depression/
 2026-07-29
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiggJBVV95cUxQZjFZWjAxbUh0STJVVzF0cXdkUUdkNGx1TVNaSjF5OFRjeF9lazRuenB2OHhKOGJiX1BvbnVNM0dpVGdlWmhha0FoTVNYa3VjUTZDdTFEWEFVSVRWM3BMamNmRTNCZ0lCVzFMbmtRRjJucFkxU0hOREpWcU56UmxCNTE2b190QzNuQW5XTUw2NUxKckZOSThYN3FPbnFKWFAwMU5laUgxbmtoQmJtcW1oSGZBUUlXRFN4ZlR3REV4Wm9jenZlNE5rSG5JLWw4d2lvcHdXNElMWWxqcnM3dlh2VWlrZFVETUZ0X3ZIMWlzb3F3N2Z5WlN1R1F1YWhSRGM2cWc?oc=5)
-
----
-
-### [Demenz: Lange glaubten die Ärzte an eine Depression. Die Diagnose lautete Alzheimer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
-
-2026-07-28
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
 
 ---
 

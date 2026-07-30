@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="Ketoconazole 有什麼相關新聞？">
-<strong>Ketoconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ketoconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/ketoconazole/
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Atemwegsviren auch bei nichtakutem Asthma häufig nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2FWWHQ2bEpaOURBa1JtSHdoOG1PLVljZnQxWWhudnctWnRLamJVWGtVRjZabkZHRmNvMW1ZbGFHN2hLVkhtUTR3R3VxWGZiclNLSlZEMml1cmtOZVlSMWJrOWVfcDk3WkNlZWpQdzdzd2Z2QlZMRVJySlZ1anZ3MzJzOV9zY2RwNzNqczRpSDNVMm4wV0RSUGVIcHBUb19zTUhYNFZWcGZ1emZ6ckhnRQ?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asthma</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2FWWHQ2bEpaOURBa1JtSHdoOG1PLVljZnQxWWhudnctWnRLamJVWGtVRjZabkZHRmNvMW1ZbGFHN2hLVkhtUTR3R3VxWGZiclNLSlZEMml1cmtOZVlSMWJrOWVfcDk3WkNlZWpQdzdzd2Z2QlZMRVJySlZ1anZ3MzJzOV9zY2RwNzNqczRpSDNVMm4wV0RSUGVIcHBUb19zTUhYNFZWcGZ1emZ6ckhnRQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
-
----
-
-### [Un experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
-
-2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
 
 ---
 

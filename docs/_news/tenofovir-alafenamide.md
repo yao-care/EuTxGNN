@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Hepatitis silenciosa: cómo detectar a tiempo el desgaste del hígado antes de que sea irreversible - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
-
-2026-07-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
@@ -75,22 +67,6 @@ permalink: /news/tenofovir-alafenamide/
 2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
-
----
-
-### [Health plea as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
-
----
-
-### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（3 則）
 
-### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+### [Scientists Witness Remarkable Brain Cell 'Takeover' in Midlife](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
 
-2026-07-29
+2026-07-30
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5)
 
 ---
 
-### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+### [Giving babies less sugar could cut dementia risk, study finds - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
 2026-07-29
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
 ---
 

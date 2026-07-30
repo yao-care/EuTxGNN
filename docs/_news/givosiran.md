@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（4 則）
 
-### [Hepatitis silenciosa: cómo detectar a tiempo el desgaste del hígado antes de que sea irreversible - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
+### [Sartan plus Kalziumkanalblocker: Kombination senkt Therapieabbrüche bei Bluthochdruck](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
-2026-07-30 <span class="news-indication-tag">hepatitis</span>
+2026-07-29 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
-來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
-
----
-
-### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
-
-2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
 ---
 
@@ -91,30 +83,6 @@ permalink: /news/givosiran/
 2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
-
----
-
-### [Health plea as hepatitis A outbreak in Barry continues - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ItbElVNEVnQ1dVNDh3WEZKQVNSVE5vdVpIVmNYYzZTdTMzaGJPY3hFZ2pfQnpMcVJPdEMtOXNyYm53WXlmcUNKWWxRamE2SGxBeXRMYVAyb2xEVDRybVlfNUNOS2x5SmZiWklIamc1Nmtia00zSzBBTEtaNWFubkhxYW10bHptYTN2aXZIWGpHRW9tUHc?oc=5)
-
----
-
-### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
-
----
-
-### [Hypertension artérielle : une maladie silencieuse qui exige un traitement régulier - Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
-
-2026-07-28 <span class="news-indication-tag">hypertension</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
 
 ---
 

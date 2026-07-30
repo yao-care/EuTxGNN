@@ -14,7 +14,7 @@ permalink: /news/duvelisib/
 ---
 
 <p class="key-answer" data-question="Duvelisib 有什麼相關新聞？">
-<strong>Duvelisib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Duvelisib</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/duvelisib/
 <p><a href="{{ '/drugs/duvelisib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
+
+### [Girl 'repeatedly dismissed by GP' diagnosed with cancer after Devon holiday - Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
+
+2026-07-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
+
+---
 
 ### [Tumore del pancreas “inoperabile”: la radioterapia riapre la strada al bisturi](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVnpLUFAxY0EwZDJ4TXVJSlRTSVpPSkZDYlhoYldReklvcUh4dUJjM0lITDVSbVBvRlNsWXduU3NtMlJ4dW5Kc2tmaTRSY3lIa3N6TkpWNExfSWFCODMzSmxTNlFsLUJ0V3oxcnhYUF9NYk9aNGw4eWJoQ3p1SDhoMlNkTVBuZFRDSTV0cEFtWkVJTU1PS3E4Q2ZSaENKc24xMkNoQi1rcnhETEtxYk1CdlBHZ1lVXzFzYjEzdzVseEFqSnBYd2JfdnFDS0I2aFYt?oc=5)
 
@@ -86,6 +94,14 @@ permalink: /news/duvelisib/
 
 ---
 
+### [‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
+
+2026-07-29 <span class="news-indication-tag">tumor</span>
+
+來源：[fiercebiotech.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
+
+---
+
 ### [Accelera la ricerca sui tumori rari proteggendo la privacy](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmpRbFpfLUs0Z3hoeGY2RE9uaHpMT0kxNTJjaEw0NFE2MjJ5VWp0Yl83TkowVXNBeFYzLUdWQ1M3ZjRuYU5Lb2JoRnVUU1EyRXBuczN4dl9vcDdvS3BwTGwtbEdoemRDR0xXWHFpWkxhUk56S1VuYXE5ZzFBYndCOEt2Nk40UDQtbkhYUkxkTC1tbGY5YlZQWkV0dmM5d1JGeVRMZ2RNRDJuejV6RmFmZHJ2NlgyU0lpdFE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">tumor</span>
@@ -106,23 +122,15 @@ permalink: /news/duvelisib/
 
 2026-07-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlpFcGRFeU5xS2tuNzB5NW1Pc0ZzYzZyMkNVRUVxenF4LWZtZjctRnZNOEpHWDdDYkxxRUhRWHNkOFlNanNRbHIxMkttVlNLVy04b01RZjhma2k4V1lZUXp1dnpPU2x4STY5SWNCaG5leDlBNnhldXg0SUxDak00OVNFUXpmYnR2dWRibEk1S0M0czRfd1lsSVY4bVo4NmdKd09KR25reG1LTnY2Y2p3TWZhUGFoV3Z4T2cteU5B?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlpFcGRFeU5xS2tuNzB5NW1Pc0ZzYzZyMkNVRUVxenF4LWZtZjctRnZNOEpHWDdDYkxxRUhRWHNkOFlNanNRbHIxMkttVlNLVy04b01RZjhma2k4V1lZUXp1dnpPU2x4STY5SWNCaG5leDlBNnhldXg0SUxDak00OVNFUXpmYnR2dWRibEk1S0M0czRfd1lsSVY4bVo4NmdKd09KR25reG1LTnY2Y2p3TWZhUGFoV3Z4T2cteU5B?oc=5)
 
 ---
 
 ### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-07-29 <span class="news-indication-tag">cancer</span>
 
 來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
-
----
-
-### [Kaffee gegen Entzündungen: 4+ Tassen senken Krebsrisiko um 17% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVhtNWk1Q25yOHdja09sT2pBWXVBYkFjSGwyUjM3THg2dGFFS1VSU21YbGN3ZnB4VWZqaTgzUTgzdE9Bbnd2d1duYmxzZnBmaHJLT25NR2N2UTFqa0tTTjYyZkJZYW4yVUJFMm1pUFJjVndTNThOVEszQThDbXBVV2daSkVOWWpmN0ZLWktfNzAxbVNSSXlWOW9TdXJiNGEyYTRGclIyRWp6Vlc1NXZ2MzMwY2xmQ1FN?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVhtNWk1Q25yOHdja09sT2pBWXVBYkFjSGwyUjM3THg2dGFFS1VSU21YbGN3ZnB4VWZqaTgzUTgzdE9Bbnd2d1duYmxzZnBmaHJLT25NR2N2UTFqa0tTTjYyZkJZYW4yVUJFMm1pUFJjVndTNThOVEszQThDbXBVV2daSkVOWWpmN0ZLWktfNzAxbVNSSXlWOW9TdXJiNGEyYTRGclIyRWp6Vlc1NXZ2MzMwY2xmQ1FN?oc=5)
 
 ---
 
@@ -138,7 +146,7 @@ permalink: /news/duvelisib/
 
 2026-07-29 <span class="news-indication-tag">cancer</span>
 
-來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmgxcVlYRjJBLVNLZ2ZXejJyTi1IOVo5RjFIUFJXMXBDbzVIV3RlSHhpVXJ3eDBybHc1Qks0dk9hTXBrS2JjeFNOWUpBSGNDSnRaTW90MlhsNlRncUdPcVVlUldQYWhPTUhDOTEwUkhrODdFbUZnaVBCdS1mbTlzSHVGX3l4MGxuSV9INlRXRUVVTWd3aXhCRnVONkxqaTRFZ0xvMTk3UmJsS3pydkpBT3FBY203dTMyR0I5cW50dlR5bWpzcDZ1UVNjSEZIZ2FJd2hfZzFVYVFjTGp5SmRBT2lFdw?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmgxcVlYRjJBLVNLZ2ZXejJyTi1IOVo5RjFIUFJXMXBDbzVIV3RlSHhpVXJ3eDBybHc1Qks0dk9hTXBrS2JjeFNOWUpBSGNDSnRaTW90MlhsNlRncUdPcVVlUldQYWhPTUhDOTEwUkhrODdFbUZnaVBCdS1mbTlzSHVGX3l4MGxuSV9INlRXRUVVTWd3aXhCRnVONkxqaTRFZ0xvMTk3UmJsS3pydkpBT3FBY203dTMyR0I5cW50dlR5bWpzcDZ1UVNjSEZIZ2FJd2hfZzFVYVFjTGp5SmRBT2lFdw?oc=5)
 
 ---
 
@@ -158,11 +166,11 @@ permalink: /news/duvelisib/
 
 ---
 
-### [Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+### [Vitamin C und Vitamin D bei Bauchspeicheldrüsenkrebs: Was neue Daten wirklich bedeuten](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUI2NjYxMmQ0TDJwR1B6am8wcUpaMFRrbnpNY2FRdEJaZFVhVTRUM2g4RjhCcmZobXlDY213NnNycFh5UGJQNkVOVXVySXdHM0hoelhqZkU2N2tPbmJjei16WWVueDE3VlRqYnp5YU5ieWZXTV90a28yRVdscjktUDNzVkpQTXNFaFQ5SXlRdGdtT1ZmSEZOaGxXdURHWmlWdDBKMEZwa09wR2pzYnFNZkx4UV9LYWdLRkE?oc=5)
 
-2026-07-29 <span class="news-indication-tag">oncology</span>
+2026-07-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUI2NjYxMmQ0TDJwR1B6am8wcUpaMFRrbnpNY2FRdEJaZFVhVTRUM2g4RjhCcmZobXlDY213NnNycFh5UGJQNkVOVXVySXdHM0hoelhqZkU2N2tPbmJjei16WWVueDE3VlRqYnp5YU5ieWZXTV90a28yRVdscjktUDNzVkpQTXNFaFQ5SXlRdGdtT1ZmSEZOaGxXdURHWmlWdDBKMEZwa09wR2pzYnFNZkx4UV9LYWdLRkE?oc=5)
 
 ---
 
@@ -203,22 +211,6 @@ permalink: /news/duvelisib/
 2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1FRTEhxSzlkTnpwa0FkQ0k3TFBLbXEyVHJ3NHNZYmdkYmZ5X2trc0V4Y200VlFqREctOVM3bERQb1I1bzN6WHhNUzBrUzdfMXI5MTlXVzJCVE5hbFRBOTMwcFpsN0pNVHYzMThBaEN6VnpBVmFjaWo2TGJySFhyVE9kM3FhT09jQXRrT19UVE1lZjkxUm9CV3VB0gGfAUFVX3lxTE5LM1JaNXpRcVRvOHRhYWJoMnpaQTJSdloxT2J4NlNQcjI5bzBsWEZmV3d4OXhLWTlSbzNnbUIzbXFrNnJTcTdRTmpINEVQUXNPZ2FlcnFMcGxPcHlDOHdpVkFydDN5cnpZckpSYUxpc1hnWVQ0Y3ZVck5nNUc2d2lDQlNaNU4zaEJZZzdMazhUdjRSRTcxZ3E2ZmZjX09xOA?oc=5)
-
----
-
-### [My son, 15, died of a silent cancer - docs dismissed only signs with antibiotics - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
-
-2026-07-28 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
-
----
-
-### [Tumore al seno, testata la mastectomia robotica attraverso una sola incisione](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
 
 ---
 

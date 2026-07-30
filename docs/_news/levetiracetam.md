@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,15 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（99.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Una pionera terapia de precisión logra frenar las crisis epilépticas de una recién nacida - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTBTLUtJWHFSYjRGSWx5ckFuMHg3Y1ZPV2tHUzhxYVJQQlF6UzBlYzRiMTNfbzh3bzd4SmM4V2g0dWQxZ3htSEcwRTRyNk9xcjVqRGE4aHJnbTJqbHJrNTN1ZmFpdjUySjFIVU5SQUFkWVI1RkRlY1M0bXF0STBrQ182SnlSWnFpTEx4M0Z6UTMzR2xKQ3dCNVZSUXlhYkluTHRZcV9MaWpZNGZtZ3pjVVZscDRON2FvU0ItZHFLWDjSAbsBQVVfeXFMTVVqa01TNjZkbnFkczRjaXgtdHhpYWJ3U0RNNXNnRDFJQ0lKZ1RNTkx1N1YwY1otUlRpMDZSQkxMb0tLMzNqZlY1UHFVYlBBdk5FcVJJNkVQMGNPOXpCVzRrSFY3ZnlBV1I1OVdkTGp6di1iX04yaGprSkRuR2VueXA5cjhiUDV5Y0x2emhIMFlrZUZkdml2ZEYxY0F0WUliN2FWbFM2RldHMzNkLU84WXpXY1VjUjdGLTA4VQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">epilepsia</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTBTLUtJWHFSYjRGSWx5ckFuMHg3Y1ZPV2tHUzhxYVJQQlF6UzBlYzRiMTNfbzh3bzd4SmM4V2g0dWQxZ3htSEcwRTRyNk9xcjVqRGE4aHJnbTJqbHJrNTN1ZmFpdjUySjFIVU5SQUFkWVI1RkRlY1M0bXF0STBrQ182SnlSWnFpTEx4M0Z6UTMzR2xKQ3dCNVZSUXlhYkluTHRZcV9MaWpZNGZtZ3pjVVZscDRON2FvU0ItZHFLWDjSAbsBQVVfeXFMTVVqa01TNjZkbnFkczRjaXgtdHhpYWJ3U0RNNXNnRDFJQ0lKZ1RNTkx1N1YwY1otUlRpMDZSQkxMb0tLMzNqZlY1UHFVYlBBdk5FcVJJNkVQMGNPOXpCVzRrSFY3ZnlBV1I1OVdkTGp6di1iX04yaGprSkRuR2VueXA5cjhiUDV5Y0x2emhIMFlrZUZkdml2ZEYxY0F0WUliN2FWbFM2RldHMzNkLU84WXpXY1VjUjdGLTA4VQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

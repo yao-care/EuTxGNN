@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+### [Sartan plus Kalziumkanalblocker: Kombination senkt Therapieabbrüche bei Bluthochdruck](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
-2026-07-30
+2026-07-29
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
 ---
 
@@ -98,14 +98,6 @@ permalink: /news/hypertension/
 2026-07-29
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEhPUVZHWmN1bGs5ekhadWp2c2l2cG0zQWx3Wm9yM0RVSzRORXNLcERJU2tqUzRLbk9fTnBGSnNrclRVX1hSc3NVWF9iNGdaZHF6UFhucEs4N0I5bmhDRE5YUjBIanhkX0w2c2d2WjQzVlZmQnNvQi1RTDdhd2pnSlJZTmY5cHFXT3RGbzIzd24xelJMS2VyQ1cxSDdaQW1xMW9SVllReTc4eVVv?oc=5)
-
----
-
-### [Hypertension artérielle : une maladie silencieuse qui exige un traitement régulier - Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
-
-2026-07-28
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi2AFBVV95cUxObG4tQXZvc1FSWk1BTWhrYTZfNE1nckl0cnI3M1c0Y0JCTVpsekp6TmVucVBLTHBadnUtb1FndFRFZTQtQkxMV1BvdkpHaEZ0UmEtUUtUWFM3d0xTNVcxTWV5RFRjV1NWRzd2a2pyV1FqZmhxTUNULWRiR00xdWx0YWhzM3BEZzFFUUE4aXpqeWViVGZjMXZSZzF6Z0wtaGc2aDNfN2tCdThsQ0FONHc0NWdBRHRHaXlJUTk4cUc3M0xSTG1ydklHa2lrR21YYWUyNzRvallFSm0?oc=5)
 
 ---
 

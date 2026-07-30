@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [MSD y Wellcome impulsan una vacuna contra el ébola de Bundibugyo ante el avance del brote en la RDC](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSTRCZDN5UURsTlgxa1hiYVVGMThJMW9WRGlKTzNldWpkY3habHpwbkcycklUREFHdnBmczdpa3pNMHRrek5wUEZVZEVnbzMyZ1h6YnJpV2c5ZERmbUJwT2RVbFBuVmRwNWZ2NUxCRGNQT25IRU1nUDl2TFNiTnNvMF93VE9Fa2RVQ0REYW15RHhxTTJETXpkU1huT1NUV2lMRXZaWlkzODNBUkhtanI4RWlESnJqdnh2WkFOMzFIelg3bEFkSzhJQW5qQkoxS19oZGpRcUpHblUwSENSeHhHNlIyaGI?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSTRCZDN5UURsTlgxa1hiYVVGMThJMW9WRGlKTzNldWpkY3habHpwbkcycklUREFHdnBmczdpa3pNMHRrek5wUEZVZEVnbzMyZ1h6YnJpV2c5ZERmbUJwT2RVbFBuVmRwNWZ2NUxCRGNQT25IRU1nUDl2TFNiTnNvMF93VE9Fa2RVQ0REYW15RHhxTTJETXpkU1huT1NUV2lMRXZaWlkzODNBUkhtanI4RWlESnJqdnh2WkFOMzFIelg3bEFkSzhJQW5qQkoxS19oZGpRcUpHblUwSENSeHhHNlIyaGI?oc=5)
+
+---
+
+### [After years of struggling to walk, an MS drug changed my life in two weeks - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
+
+---
 
 ### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
@@ -62,11 +78,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [COPD: Nach Klinikaufenthalt fehlt oft die empfohlene Therapie](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
+### [Girl 'repeatedly dismissed by GP' diagnosed with cancer after Devon holiday - Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
 
-2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">copd</span>
+2026-07-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
+來源：[Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
+
+---
+
+### [Europe’s heatwaves are fuelling infectious diseases, agency warns](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVdOeENJVjZBdW1pcEc3N0NjR050R3VCVThGekR5cmlGV3BndHFOSFgxejlJaEZqN0owV0pTbkF6eE9adWZrZ3JwXzNUYWhPMUJueTZ0dkRWMlF0R091bnl3S1RBTXR6MU9EdzFNUy1QQ3NIYmo1VnlwaXJhaDBGV25qQkNRZGo0OEd0S1RCeHY4bjVHMzRXbGpVbmRhRHBlT1E0alNkNmZyczlXR0VjeGk2WQ?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVdOeENJVjZBdW1pcEc3N0NjR050R3VCVThGekR5cmlGV3BndHFOSFgxejlJaEZqN0owV0pTbkF6eE9adWZrZ3JwXzNUYWhPMUJueTZ0dkRWMlF0R091bnl3S1RBTXR6MU9EdzFNUy1QQ3NIYmo1VnlwaXJhaDBGV25qQkNRZGo0OEd0S1RCeHY4bjVHMzRXbGpVbmRhRHBlT1E0alNkNmZyczlXR0VjeGk2WQ?oc=5)
 
 ---
 
@@ -78,19 +102,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Fettlebererkrankung: Pflanzenstoff aus Grapefruits zeigt vielversprechende Wirkung](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3h3eXVUREs2TUxkOWR3Q0tKNjM4V2szTlhyV3A5YV9pZFh3VDlqTExkUG9QeHJBakJ0Z0t3YUFEMzhPR2EzR2loU3dPaUpCOHR1WFdQSVZKSzI4V1BiWVNpSTlPSlczNGdqSkdrRW8tUjJ4SU51SDBoVFRFcEhGSWpoN1FYS0ZXbTQtQWxKMUpTYjFpZEJPVXpwZkRoc1Rua2hjYkFGVzREM0lvV0RzcHZWbGVqMTF0UmQxQmNMZmZ2OEdxUmNZdUJGQTd2cmJSaEQ2Y1R4d09Vdw?oc=5)
+### [Multiple Sklerose: Darmbakterium reduziert Hirnentzündungen messbar - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkFaOFJkSGFvLXNzNHVMcTZOb0MteTZiWHJhVDJYV3BQMFZmUmwxYkRtc2RJTVBGTXJYNXlITGJmQjhHRk1MWURyTUcwS2ZjZUZQMXBrd0FaTUNJNVllZ01GbWw4bUpNdTZiZGhWZkFKUWFRd1VFVUVlekR4OTlpQTBveV9nRGVQZDJLOUVjSUVyTnVFZkNZTHBBMjRxbE1HMjNkQUkwdXp5QTN3eGdSNTJIakI1RlE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3h3eXVUREs2TUxkOWR3Q0tKNjM4V2szTlhyV3A5YV9pZFh3VDlqTExkUG9QeHJBakJ0Z0t3YUFEMzhPR2EzR2loU3dPaUpCOHR1WFdQSVZKSzI4V1BiWVNpSTlPSlczNGdqSkdrRW8tUjJ4SU51SDBoVFRFcEhGSWpoN1FYS0ZXbTQtQWxKMUpTYjFpZEJPVXpwZkRoc1Rua2hjYkFGVzREM0lvV0RzcHZWbGVqMTF0UmQxQmNMZmZ2OEdxUmNZdUJGQTd2cmJSaEQ2Y1R4d09Vdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkFaOFJkSGFvLXNzNHVMcTZOb0MteTZiWHJhVDJYV3BQMFZmUmwxYkRtc2RJTVBGTXJYNXlITGJmQjhHRk1MWURyTUcwS2ZjZUZQMXBrd0FaTUNJNVllZ01GbWw4bUpNdTZiZGhWZkFKUWFRd1VFVUVlekR4OTlpQTBveV9nRGVQZDJLOUVjSUVyTnVFZkNZTHBBMjRxbE1HMjNkQUkwdXp5QTN3eGdSNTJIakI1RlE?oc=5)
 
 ---
 
-### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+### [Diabetes-Remission: Lebensstiländerung senkt Nierenerkrankungsrisiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-07-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
 
 ---
 
@@ -102,11 +126,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Hyperinflammation: Wie eine fehlgeleitete IL-1Ra Bremse COVID-19 und Rheuma verbindet](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
+### [Immunbremse: Autoantikörper lösen schwere Entzündungen aus - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdElUcU1BNXZkMHJjT2NMMl9aQU5ucUVPaTBoUHNPeTItRVktQ1NrYTltSWhBVmxJVUh1RG5abkpPQ1N4X1Bzb3NsYUJqTTAtZXZFS1BiY3hnSTZGNm5DUWFTYS00V2RSTmFqa0oxM1o3TnYxQkpEQ1AxdUFzRl9NY0owdGg4VDE4Mzl6S3QtRllaRENvaUc5NkNhUlhOeVpIc0ZENm5iYVhtV1BCTnc?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span>
+2026-07-29 <span class="news-indication-tag">MS</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdElUcU1BNXZkMHJjT2NMMl9aQU5ucUVPaTBoUHNPeTItRVktQ1NrYTltSWhBVmxJVUh1RG5abkpPQ1N4X1Bzb3NsYUJqTTAtZXZFS1BiY3hnSTZGNm5DUWFTYS00V2RSTmFqa0oxM1o3TnYxQkpEQ1AxdUFzRl9NY0owdGg4VDE4Mzl6S3QtRllaRENvaUc5NkNhUlhOeVpIc0ZENm5iYVhtV1BCTnc?oc=5)
+
+---
+
+### [Reizdarmsyndrom: Nabelschnur-Stammzellen zeigen im Tiermodell Hinweise auf Wirksamkeit](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
+
+2026-07-29 <span class="news-indication-tag">MS</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
 
 ---
 
@@ -115,22 +147,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
-
----
-
-### [Akkermansia, B-Zell-Depletion und IL-1Ra: Darm-Hirn-Achse rückt bei MS-Risiko und Therapie in den Fokus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFV6Sld6aG1IbE00UmdfOWgtTVJDU1EzdkNpQVFlWjhjUkVla2hhd3ZTamdsNWNnS3p5SGZXeWxSMHJfbVVfZWhBWXFiZTN0QnpmQUZOdU1xbC05UU5XbXJqYVBlYTZuNzRHSExsZTdyUWY3Q01zNHQyM2V5b0hyRmhqOUJGS2dGUGhCZnJaVzlEY1ZzUlZEMFFfOU9aNTJ2NGkzZ2dHd0pHQktmUm9OMGMwYXp3eEJOUXN2T2JBQ2NQT3YwM0lld3FGc0FNczQ?oc=5)
-
-2026-07-28 <span class="news-indication-tag">MS</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFV6Sld6aG1IbE00UmdfOWgtTVJDU1EzdkNpQVFlWjhjUkVla2hhd3ZTamdsNWNnS3p5SGZXeWxSMHJfbVVfZWhBWXFiZTN0QnpmQUZOdU1xbC05UU5XbXJqYVBlYTZuNzRHSExsZTdyUWY3Q01zNHQyM2V5b0hyRmhqOUJGS2dGUGhCZnJaVzlEY1ZzUlZEMFFfOU9aNTJ2NGkzZ2dHd0pHQktmUm9OMGMwYXp3eEJOUXN2T2JBQ2NQT3YwM0lld3FGc0FNczQ?oc=5)
-
----
-
-### [DWP confirms full list of 25 skin conditions that qualify for £114 weekly payment - Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFlVeDBUeEtfWFNzSm9wcG5KTWtTT1duRUMyWGc5SXBzenZ2TVJpbFhJeWtJeVhGZTRqVkJGLThjOG4wUzR4RlBKa1VHM2lBVkxsV19RNC1kWFFTZ2pHLURjSG1aVlRTTEY4NVBIcFBKTTg4c0NpaDNtal9JNEhENGFpQlR6dFFidE85YjJoTFk?oc=5)
-
-2026-07-28 <span class="news-indication-tag">MS</span>
-
-來源：[Manchester Evening News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFlVeDBUeEtfWFNzSm9wcG5KTWtTT1duRUMyWGc5SXBzenZ2TVJpbFhJeWtJeVhGZTRqVkJGLThjOG4wUzR4RlBKa1VHM2lBVkxsV19RNC1kWFFTZ2pHLURjSG1aVlRTTEY4NVBIcFBKTTg4c0NpaDNtal9JNEhENGFpQlR6dFFidE85YjJoTFk?oc=5)
 
 ---
 

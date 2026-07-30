@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+### [Ernährung: Nährstoffe senken Diabetes-Risiko um 33 bis 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXdRVG10R0RyWlN4RzFPUDZyWXRqeFVWRDJfUUk1bHJreVdWei1KN0pVVEEyVEZ0bUpiWmNiZkNGVDV2SmUzOElVaHlUdUFFU1NSemhVUElMdWJudWVzR1ZMaDg4VnprZEVfeW90YWxsdEd0YkM2T2MxbEtBYjVSQmliemtpNmg5TGNIRjVTN2l0VF82VWJ1N01kcG1lNHR0TVpjUDVzdU1uZHVfUERfWDE5NjV4UQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">diabetes</span>
+2026-07-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXdRVG10R0RyWlN4RzFPUDZyWXRqeFVWRDJfUUk1bHJreVdWei1KN0pVVEEyVEZ0bUpiWmNiZkNGVDV2SmUzOElVaHlUdUFFU1NSemhVUElMdWJudWVzR1ZMaDg4VnprZEVfeW90YWxsdEd0YkM2T2MxbEtBYjVSQmliemtpNmg5TGNIRjVTN2l0VF82VWJ1N01kcG1lNHR0TVpjUDVzdU1uZHVfUERfWDE5NjV4UQ?oc=5)
 
 ---
 
-### [Semaglutide in pillole autorizzato in Europa, che cosa cambia in concreto (e cosa no) per chi intraprende un percorso di dimagrimento con i farmaci GLP-1 - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
+### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+
+---
+
+### [Diabetes-Remission: Lebensstiländerung senkt Nierenerkrankungsrisiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
+
+2026-07-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
+
+---
+
+### [Semaglutide in pillole autorizzato in Europa, che cosa cambia in concreto (e cosa no) per chi intraprende un percorso di dimagrimento con i farmaci GLP-1](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
 
 2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
+來源：[vanityfair.it](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
 
 ---
 
@@ -80,17 +96,9 @@ permalink: /news/semaglutide/
 
 ### ["Nous apprenons toujours, même après 40 ans" : remboursés depuis juin 2026, les médicaments contre l'obésité continuent de surprendre les chercheurs](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
 
-2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
-
----
-
-### [What’s That? Metabolic Disorders Driving Hearing Loss](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
-
-2026-07-28 <span class="news-indication-tag">diabetes</span>
-
-來源：[medscape.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
 
 ---
 

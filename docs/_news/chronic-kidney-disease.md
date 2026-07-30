@@ -39,11 +39,11 @@ permalink: /news/chronic-kidney-disease/
 
 ---
 
-### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+### [Sartan plus Kalziumkanalblocker: Kombination senkt Therapieabbrüche bei Bluthochdruck](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
-2026-07-30
+2026-07-29
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU40ZVh0Q1pxS09KRkxMQVJvN1IxU211X3Rld19qYmJjRUlaRnBtUUg4WUVCeG9PXy1oOTU1UFNheXpsRmJIeVV5dmRoVjZrTF9nRnRaTk8zc0QwOUV0cnVYVEtlY3ozaGE5ZjlPN3pzRHpTRWRmMEhMcnBGWjFZbUY5X01ZWjlycDBQbmlXR1A2UGRKdUlOTFQtXzVoRjJ2YWVZRUZsRmRDVzViV2w0QTJCcUVGbGhD?oc=5)
 
 ---
 
