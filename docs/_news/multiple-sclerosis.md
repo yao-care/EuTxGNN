@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。10 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>10 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,23 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
+
+2026-07-30
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
+
+---
+
+### [COPD: Nach Klinikaufenthalt fehlt oft die empfohlene Therapie](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
+
+2026-07-30
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
+
+---
 
 ### [New Channel 4 documentary, The Great ADHD Myth?, seeks to determine whether ADHD is a genuine neurodevelopmental disorder, or a social construct - Channel 4](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmdIZkNvSGNNN1RCOWpaLVY4bTFZUXMxSVVkYk52Wld3NThLbVB2WXp5WXVlcnBReFpTczVvendnU211WDBYYTNLNk5CV2Z6Snh0WFdjOUNHY2FaV1Rfa2VRZ3h0QTNuMENWMXhzOUlTaWNZSUhYdVA1YnVsbFRGNVh3TjJaYTlkS1hqXzduOXpXYTdaX3RWS19rYUhuS1kxaG1ydGFEOUlLZUJtZmExQlhibWU?oc=5)
 
@@ -64,11 +80,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Multiple Sklerose: Darmbakterium reduziert Hirnentzündungen messbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkFaOFJkSGFvLXNzNHVMcTZOb0MteTZiWHJhVDJYV3BQMFZmUmwxYkRtc2RJTVBGTXJYNXlITGJmQjhHRk1MWURyTUcwS2ZjZUZQMXBrd0FaTUNJNVllZ01GbWw4bUpNdTZiZGhWZkFKUWFRd1VFVUVlekR4OTlpQTBveV9nRGVQZDJLOUVjSUVyTnVFZkNZTHBBMjRxbE1HMjNkQUkwdXp5QTN3eGdSNTJIakI1RlE?oc=5)
+### [Fettlebererkrankung: Pflanzenstoff aus Grapefruits zeigt vielversprechende Wirkung](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3h3eXVUREs2TUxkOWR3Q0tKNjM4V2szTlhyV3A5YV9pZFh3VDlqTExkUG9QeHJBakJ0Z0t3YUFEMzhPR2EzR2loU3dPaUpCOHR1WFdQSVZKSzI4V1BiWVNpSTlPSlczNGdqSkdrRW8tUjJ4SU51SDBoVFRFcEhGSWpoN1FYS0ZXbTQtQWxKMUpTYjFpZEJPVXpwZkRoc1Rua2hjYkFGVzREM0lvV0RzcHZWbGVqMTF0UmQxQmNMZmZ2OEdxUmNZdUJGQTd2cmJSaEQ2Y1R4d09Vdw?oc=5)
 
 2026-07-29
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkFaOFJkSGFvLXNzNHVMcTZOb0MteTZiWHJhVDJYV3BQMFZmUmwxYkRtc2RJTVBGTXJYNXlITGJmQjhHRk1MWURyTUcwS2ZjZUZQMXBrd0FaTUNJNVllZ01GbWw4bUpNdTZiZGhWZkFKUWFRd1VFVUVlekR4OTlpQTBveV9nRGVQZDJLOUVjSUVyTnVFZkNZTHBBMjRxbE1HMjNkQUkwdXp5QTN3eGdSNTJIakI1RlE?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3h3eXVUREs2TUxkOWR3Q0tKNjM4V2szTlhyV3A5YV9pZFh3VDlqTExkUG9QeHJBakJ0Z0t3YUFEMzhPR2EzR2loU3dPaUpCOHR1WFdQSVZKSzI4V1BiWVNpSTlPSlczNGdqSkdrRW8tUjJ4SU51SDBoVFRFcEhGSWpoN1FYS0ZXbTQtQWxKMUpTYjFpZEJPVXpwZkRoc1Rua2hjYkFGVzREM0lvV0RzcHZWbGVqMTF0UmQxQmNMZmZ2OEdxUmNZdUJGQTd2cmJSaEQ2Y1R4d09Vdw?oc=5)
+
+---
+
+### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+
+2026-07-29
+
+來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
 
 ---
 
@@ -80,43 +104,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Dr. Juan Arenas, especialista en digestivo: «Muchas personas conviven con hepatitis crónica sin saberlo: cuando hay síntomas el daño ya es grave» - El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
-
-2026-07-29
-
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
-
----
-
-### [Hyperinflammation: Wie eine fehlgeleitete IL-1Ra Bremse COVID-19 und Rheuma verbindet - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
+### [Hyperinflammation: Wie eine fehlgeleitete IL-1Ra Bremse COVID-19 und Rheuma verbindet](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
 
 2026-07-28
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW5wT2dqN1ZyTEhzanpoMGpJU1N4dU5rLVM4UTlpdWl3WEFyTXJKSUVPaDQ2OXFKVnBLRjVHbHpPN0JXd205aFNUeHJqQU15TGJQdERRaEo4bXdjS1BYOGVZUzNxcWNYaW15eHN6SjdnV2w3d3hldkxaX0xPSGlJREgyem5VM2VibzdkME9BQVVuQ3YtT3Z2QXBFaWM1OHB6ZGxiWEhBbzhvSV9zMy15MjZVa0xnRTQ?oc=5)
 
 ---
 
-### [Ebola outbreak in DR Congo 'fastest on record' - Sky News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTM0RkFQLU1QU0l2a05qa2ptSkFuVUlySW03eW1FbXE4aWZYb3ZyOGplU0ZLeDRmZ0NTZ29OS1VVVEFpaUlmMWJxVURPRG45YjhqZUltQkZJSUhhNEhYUkEyeDBZX0lNTDdEN3lsYXRHemFTTVkyVmE0T3hnb09ONDA5Nk9WT0k?oc=5)
+### [Saarland meldet weniger Hepatitis-B-Fälle – Ministerium wirbt für Tests](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
 
 2026-07-28
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTM0RkFQLU1QU0l2a05qa2ptSkFuVUlySW03eW1FbXE4aWZYb3ZyOGplU0ZLeDRmZ0NTZ29OS1VVVEFpaUlmMWJxVURPRG45YjhqZUltQkZJSUhhNEhYUkEyeDBZX0lNTDdEN3lsYXRHemFTTVkyVmE0T3hnb09ONDA5Nk9WT0k?oc=5)
+來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
 
 ---
 
-### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+### [Akkermansia, B-Zell-Depletion und IL-1Ra: Darm-Hirn-Achse rückt bei MS-Risiko und Therapie in den Fokus](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFV6Sld6aG1IbE00UmdfOWgtTVJDU1EzdkNpQVFlWjhjUkVla2hhd3ZTamdsNWNnS3p5SGZXeWxSMHJfbVVfZWhBWXFiZTN0QnpmQUZOdU1xbC05UU5XbXJqYVBlYTZuNzRHSExsZTdyUWY3Q01zNHQyM2V5b0hyRmhqOUJGS2dGUGhCZnJaVzlEY1ZzUlZEMFFfOU9aNTJ2NGkzZ2dHd0pHQktmUm9OMGMwYXp3eEJOUXN2T2JBQ2NQT3YwM0lld3FGc0FNczQ?oc=5)
 
 2026-07-28
 
-來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
-
----
-
-### [Manger de la pastèque peut vous conduire à l'hôpital : un médecin met en garde](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDdHJJYkhGdWhpZXIxbU8wUkQ2bTZERnk2VVVTU1ZfOTRjUWRzMjlQbTd0enZRSEU1SFQxTXMtTXdIVllzOXBmOW11Nm1OYWR3Vlo0WDJXVVZGYUFBaVAxbWg0dGtOYWVielRmY3NyUzVveXdMUHFnenJiUQ?oc=5)
-
-2026-07-28
-
-來源：[Linternaute.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDdHJJYkhGdWhpZXIxbU8wUkQ2bTZERnk2VVVTU1ZfOTRjUWRzMjlQbTd0enZRSEU1SFQxTXMtTXdIVllzOXBmOW11Nm1OYWR3Vlo0WDJXVVZGYUFBaVAxbWg0dGtOYWVielRmY3NyUzVveXdMUHFnenJiUQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFV6Sld6aG1IbE00UmdfOWgtTVJDU1EzdkNpQVFlWjhjUkVla2hhd3ZTamdsNWNnS3p5SGZXeWxSMHJfbVVfZWhBWXFiZTN0QnpmQUZOdU1xbC05UU5XbXJqYVBlYTZuNzRHSExsZTdyUWY3Q01zNHQyM2V5b0hyRmhqOUJGS2dGUGhCZnJaVzlEY1ZzUlZEMFFfOU9aNTJ2NGkzZ2dHd0pHQktmUm9OMGMwYXp3eEJOUXN2T2JBQ2NQT3YwM0lld3FGc0FNczQ?oc=5)
 
 ---
 

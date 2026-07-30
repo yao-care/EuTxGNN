@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
 
 2026-07-29
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+
+---
+
+### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+
+2026-07-29
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
 
 ---
 

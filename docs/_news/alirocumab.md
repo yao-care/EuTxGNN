@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
+
+2026-07-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
+
+---
+
+### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+
+---
 
 
 <div class="disclaimer">

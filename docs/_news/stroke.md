@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。7 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>7 則</strong>相關新聞報導，11 個相關藥物。
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [PMOS-Syndrom: Ernährungstherapie schlägt Medikamente bei Reflux](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmQwdDhtdkRFUWtTYU1nc2J5SjItaGtYWDJBSkdVeUpoYTFkQjRoSTZReDlHaEMtSnNqUTB2Q0NVd0dWTDV3bW9HU2d5U2lLRXBtNWpudWFzWXRoQXREVS1HQXJjRkx5Z1gzSmJrYjlQMndRM0JudFVkaGYta3FDU1pxOTY0emVZYjdvRTdMTjhFYXVjY0hMQzZOU1hPUVllaVZlSF9sTHpHSTYxSndxU0Y5Yw?oc=5)
+### [Stiller Reflux: Eiweißreiche Kost schlägt Säureblocker mit 80% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
-2026-07-29
+2026-07-30
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmQwdDhtdkRFUWtTYU1nc2J5SjItaGtYWDJBSkdVeUpoYTFkQjRoSTZReDlHaEMtSnNqUTB2Q0NVd0dWTDV3bW9HU2d5U2lLRXBtNWpudWFzWXRoQXREVS1HQXJjRkx5Z1gzSmJrYjlQMndRM0JudFVkaGYta3FDU1pxOTY0emVZYjdvRTdMTjhFYXVjY0hMQzZOU1hPUVllaVZlSF9sTHpHSTYxSndxU0Y5Yw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkI2TFF3Q3BnWTBEMjFSSjRHSVJTNy10N3lzV3Nsckp3eEJpZklVLXhzTXVPTUNQRWhXeWdqdU1RWkdUeTFDTVJiUFg4X255cTU4LW1CUTVTalRCLVFJTXBlV2VGWlRLdlk3TzIxekIyS241RC1MVjFjQ0tmY003aWktX19iVVhxTkhjdl9OVHYyemMxbExDOUt4a1M0SUFKQ0Zza0MySGkwXy12Wko5c3ktRjZxNEl0eEtVOQ?oc=5)
 
 ---
 
@@ -57,11 +57,11 @@ permalink: /news/stroke/
 
 ---
 
-### [José Abellán, cardiólogo, alerta: roncar no es normal y puede aumentar el riesgo de infarto e ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNsaU1tc2RtVDJGR3pxZVFnZWwwN0FsNVhnRS1KTnFtZjh1Nl9UX25JUUtFUzZ3RE56UTBxZjcwMUZpdFI2dXBuR1VIbmd5TnJ6UHVDQ3NCQXN5U2x4NDZwLTVKblBwZmxDWmVkRndBVFc3c0lnNGVaLXNPMHJ6dTdac3M2ZXJ4YWM1YTQ0cUpUNl8tZGFjZ1VmMWJfTHl2ZWpmNUk2NjVfWFlvcGlZVDFZYTRRdw?oc=5)
+### [José Abellán, cardiólogo, alerta: roncar no es normal y puede aumentar el riesgo de infarto e ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNsaU1tc2RtVDJGR3pxZVFnZWwwN0FsNVhnRS1KTnFtZjh1Nl9UX25JUUtFUzZ3RE56UTBxZjcwMUZpdFI2dXBuR1VIbmd5TnJ6UHVDQ3NCQXN5U2x4NDZwLTVKblBwZmxDWmVkRndBVFc3c0lnNGVaLXNPMHJ6dTdac3M2ZXJ4YWM1YTQ0cUpUNl8tZGFjZ1VmMWJfTHl2ZWpmNUk2NjVfWFlvcGlZVDFZYTRRd9IBuwFBVV95cUxPOGtBd1lndmlXcC1CbC1BcFN4QTFYUVl2NUU1NkpEVTlZRmdIR0RKOVBMZXkwNWtGZWFiYkkwVDdFcWNqOHRZV1l6UGZvZFhuYkJhUjRwSF9acXgyZjdrbTRha1FYcWRqTTVkVU5BTkpKbTFCb0pfQS1yMDNJbFZMeS1DczVZYmkyUDBOQ0Qta045UXR0OS1nVDVQU0xGZW5aNFJfbVZ1dGZKMDlwTFExaWNVekVKeTd4Ui1N?oc=5)
 
 2026-07-29
 
-來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNsaU1tc2RtVDJGR3pxZVFnZWwwN0FsNVhnRS1KTnFtZjh1Nl9UX25JUUtFUzZ3RE56UTBxZjcwMUZpdFI2dXBuR1VIbmd5TnJ6UHVDQ3NCQXN5U2x4NDZwLTVKblBwZmxDWmVkRndBVFc3c0lnNGVaLXNPMHJ6dTdac3M2ZXJ4YWM1YTQ0cUpUNl8tZGFjZ1VmMWJfTHl2ZWpmNUk2NjVfWFlvcGlZVDFZYTRRdw?oc=5)
+來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNsaU1tc2RtVDJGR3pxZVFnZWwwN0FsNVhnRS1KTnFtZjh1Nl9UX25JUUtFUzZ3RE56UTBxZjcwMUZpdFI2dXBuR1VIbmd5TnJ6UHVDQ3NCQXN5U2x4NDZwLTVKblBwZmxDWmVkRndBVFc3c0lnNGVaLXNPMHJ6dTdac3M2ZXJ4YWM1YTQ0cUpUNl8tZGFjZ1VmMWJfTHl2ZWpmNUk2NjVfWFlvcGlZVDFZYTRRd9IBuwFBVV95cUxPOGtBd1lndmlXcC1CbC1BcFN4QTFYUVl2NUU1NkpEVTlZRmdIR0RKOVBMZXkwNWtGZWFiYkkwVDdFcWNqOHRZV1l6UGZvZFhuYkJhUjRwSF9acXgyZjdrbTRha1FYcWRqTTVkVU5BTkpKbTFCb0pfQS1yMDNJbFZMeS1DczVZYmkyUDBOQ0Qta045UXR0OS1nVDVQU0xGZW5aNFJfbVZ1dGZKMDlwTFExaWNVekVKeTd4Ui1N?oc=5)
 
 ---
 
@@ -86,14 +86,6 @@ permalink: /news/stroke/
 2026-07-28
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
-
----
-
-### [Cuidado con los riñones en verano: la señal de alerta silenciosa del riesgo cardiovascular oculto](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
-
-2026-07-28
-
-來源：[okdiario.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
 
 ---
 

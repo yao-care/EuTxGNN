@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+### [COPD: Nach Klinikaufenthalt fehlt oft die empfohlene Therapie](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
+
+2026-07-30
+
+來源：[Lungeninformationsdienst](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW1kYkd4bkVXX1RtbDRocEVhYXZ3OEhVMzQxT2JENVFIX0tIeXpkaFl0VzM5Z1VJWjVMSVhITWZLOHJFNUx5MUswdDdJN3NVYmxQRy10djhSRGQ4Rk5STVdRUUoxWTV2NGw0WEd2aWNYSENOMTFGMXh1UHN0WWwyVjE0bklvUnpOVmNOYzZTRzI2SmZsZnMzUlVPYjRCR3E5TldHZmtCd1ZfQkRZUWJDUjE0WkN1X3UyZmgxNGIxZXo?oc=5)
+
+---
+
+### [Un experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
 
 2026-07-28
 
-來源：[infosalus.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
 
 ---
 

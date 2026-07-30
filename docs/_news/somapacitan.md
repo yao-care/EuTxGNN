@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [Atemwegsviren auch bei nichtakutem Asthma häufig nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2FWWHQ2bEpaOURBa1JtSHdoOG1PLVljZnQxWWhudnctWnRLamJVWGtVRjZabkZHRmNvMW1ZbGFHN2hLVkhtUTR3R3VxWGZiclNLSlZEMml1cmtOZVlSMWJrOWVfcDk3WkNlZWpQdzdzd2Z2QlZMRVJySlZ1anZ3MzJzOV9zY2RwNzNqczRpSDNVMm4wV0RSUGVIcHBUb19zTUhYNFZWcGZ1emZ6ckhnRQ?oc=5)
+
+2026-07-30 <span class="news-indication-tag">asthma</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2FWWHQ2bEpaOURBa1JtSHdoOG1PLVljZnQxWWhudnctWnRLamJVWGtVRjZabkZHRmNvMW1ZbGFHN2hLVkhtUTR3R3VxWGZiclNLSlZEMml1cmtOZVlSMWJrOWVfcDk3WkNlZWpQdzdzd2Z2QlZMRVJySlZ1anZ3MzJzOV9zY2RwNzNqczRpSDNVMm4wV0RSUGVIcHBUb19zTUhYNFZWcGZ1emZ6ckhnRQ?oc=5)
+
+---
 
 ### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
 
@@ -78,11 +86,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+### [Un experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
 
 2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[infosalus.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb1RKZUpHNDVkQV8tTnExMFJ0X2lfRW9vOG5SdjBhOW8wX2x1VzhKUU43TkF3dEhGSk14X3lyNUt6eVFiQ1prWHRucDA3Mzkxdkh4SXlRc0pVLVJIbnQ2MzNrNzJpTy1IWUd1U0NsY2ZHQnZCU2FlRE5CUlhPRU5FeXEyanJmeU9TbU1INk53YmZCWW81NTE2Z2lOUFRuYWdzcmotc3hWcERzNE9mWVRTbGVwTUtyMkJyZ091ZlJJaGdoVXkyMklLUFNVeWVOWVJNaGxhQm01bE1KZTgxdkd1SjgzTWtWdHlfMC1F?oc=5)
+
+---
+
+### [What’s That? Metabolic Disorders Driving Hearing Loss](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
+
+2026-07-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[medscape.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
 
 ---
 

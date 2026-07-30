@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hypertension 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hypertension 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hypertension 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hypertension 有什麼相關新聞？">
-<strong>hypertension</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hypertension」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+
+2026-07-30
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+
+---
 
 ### [I tracked my blood pressure for a month – and caught something my GP check missed - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEhPUVZHWmN1bGs5ekhadWp2c2l2cG0zQWx3Wm9yM0RVSzRORXNLcERJU2tqUzRLbk9fTnBGSnNrclRVX1hSc3NVWF9iNGdaZHF6UFhucEs4N0I5bmhDRE5YUjBIanhkX0w2c2d2WjQzVlZmQnNvQi1RTDdhd2pnSlJZTmY5cHFXT3RGbzIzd24xelJMS2VyQ1cxSDdaQW1xMW9SVllReTc4eVVv?oc=5)
 

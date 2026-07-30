@@ -54,6 +54,14 @@ permalink: /news/lopinavir/
 
 ## 相關新聞（5 則）
 
+### [Hepatitis silenciosa: cómo detectar a tiempo el desgaste del hígado antes de que sea irreversible - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
+
+2026-07-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
+
+---
+
 ### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
 2026-07-29 <span class="news-indication-tag">epatite</span>
@@ -62,11 +70,11 @@ permalink: /news/lopinavir/
 
 ---
 
-### [Dr. Juan Arenas, especialista en digestivo: «Muchas personas conviven con hepatitis crónica sin saberlo: cuando hay síntomas el daño ya es grave» - El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
+### [Saarland meldet weniger Hepatitis-B-Fälle – Ministerium wirbt für Tests](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
 
-2026-07-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
+來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/lopinavir/
 2026-07-28 <span class="news-indication-tag">hepatitis</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
-
----
-
-### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
-
-2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 ---
 

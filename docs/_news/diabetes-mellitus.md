@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。2 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。3 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>2 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>3 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
 
@@ -129,6 +129,14 @@ permalink: /news/diabetes-mellitus/
 2026-07-28
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+
+---
+
+### [What’s That? Metabolic Disorders Driving Hearing Loss](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
+
+2026-07-28
+
+來源：[medscape.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
 
 ---
 

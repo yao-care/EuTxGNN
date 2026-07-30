@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
 
@@ -83,6 +83,14 @@ permalink: /news/semaglutide/
 2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
+
+---
+
+### [What’s That? Metabolic Disorders Driving Hearing Loss](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
+
+2026-07-28 <span class="news-indication-tag">diabetes</span>
+
+來源：[medscape.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxORHNoUE16Rjd4ek10UWxSTmlPWXpxeWJHVFJYNlFUdVNwWkxRN0g4UEVqenJBeXgxMDBXRWtfV0MxMFpsV2RBMFd0ZWY5WjhxU0UtNlpONUE1NEEwMFNBZURoTWRwV1FMSGhja2doRkRROGxuQXZiTGFSNFBCenlpNjJoc1p4aDYxZUJJeDlfRjlwdUx5dnA1QW9nNVI?oc=5)
 
 ---
 

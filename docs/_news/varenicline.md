@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Bluthochdruck-Kombinationspräparate: Therapieabbruch sinkt um 39%](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZ3OWdmakJ2bW90Q3ZoYWkxTUZ2LXpwb25pNUtCcHBlS3JBSGc5NFBtY05wLTlRZVFQUGR3WHJnalR3SFVqRUpGTWhGRGdKcnZoVlhRSHRyZXJDRlp4Z1ZJakg3UFpPanVEdEtwVkRvOVU3M1pnWlhidVN5czJwWkt6SlNFUVQtWmw2bzZOQWYwM2dZejBsMnN1ZU4?oc=5)
+
+---
+
+### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+
+來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+
+---
 
 ### [I tracked my blood pressure for a month – and caught something my GP check missed - The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEhPUVZHWmN1bGs5ekhadWp2c2l2cG0zQWx3Wm9yM0RVSzRORXNLcERJU2tqUzRLbk9fTnBGSnNrclRVX1hSc3NVWF9iNGdaZHF6UFhucEs4N0I5bmhDRE5YUjBIanhkX0w2c2d2WjQzVlZmQnNvQi1RTDdhd2pnSlJZTmY5cHFXT3RGbzIzd24xelJMS2VyQ1cxSDdaQW1xMW9SVllReTc4eVVv?oc=5)
 

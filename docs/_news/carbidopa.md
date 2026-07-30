@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
 
 2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+
+---
+
+### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+
+2026-07-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
 
 ---
 
