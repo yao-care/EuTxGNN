@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Il n'avait pas vu de médecin depuis 12 ans : un Anglais découvre que ses migraines cachaient un cancer en phase terminale](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
-
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
-
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
-
----
-
-### [‘Our spark has gone’: The marriages ruined by Ozempic - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
-
-2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Semaglutide in pillole autorizzato in Europa, che cosa cambia in concreto (e cosa no) per chi intraprende un percorso di dimagrimento con i farmaci GLP-1 - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
 
@@ -82,7 +66,7 @@ permalink: /news/melatonin/
 
 2026-07-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMiugJBVV95cUxOYkptbUI5TlRleGpaS1haNE1RN0ltQzZDOHl2RUNMQkg0ZGh0VVRNQmJFaTRVYTlTdlBCVWxpQ2lVUENBR1dqY1R2elFpRE54dzF2LUhrQVZLbmRST1VzaTh4T2xGWkdkV0RtVmlaZ3BkS1k3R2FkRGxidjFHekRQRGdPMW43RnlqNzMzdnhhZDhhcS1SeWw0c1pJVDN1REtzVHk5dkNJR2dsUDVJUHlac1BQY0VleGhfc2gyeF9KNWdtelR1QW5xczhVeXViMXpjTkZidVEwXzJ1NktIV29veklkeklWb21jUWY2clJYTXF2M1ZpNWJoc2tRSlhWeF9SUi0zTlQyQjg2ZkM4NFIwUllrdGxIOEJfRGxEN0FPbklrbGR0ZEwxaFViTFlmMVFLd2VXQUMyNE9HUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Fibrillazione atriale con il 'clippaggo esterno" a Casa Sollievo: 8 pazienti trattati con la tecnica mininvasiva sull'auricola](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+### [PMOS-Syndrom: Ernährungstherapie schlägt Medikamente bei Reflux](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmQwdDhtdkRFUWtTYU1nc2J5SjItaGtYWDJBSkdVeUpoYTFkQjRoSTZReDlHaEMtSnNqUTB2Q0NVd0dWTDV3bW9HU2d5U2lLRXBtNWpudWFzWXRoQXREVS1HQXJjRkx5Z1gzSmJrYjlQMndRM0JudFVkaGYta3FDU1pxOTY0emVZYjdvRTdMTjhFYXVjY0hMQzZOU1hPUVllaVZlSF9sTHpHSTYxSndxU0Y5Yw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AFib</span>
+2026-07-29 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[foggiatoday.it](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmQwdDhtdkRFUWtTYU1nc2J5SjItaGtYWDJBSkdVeUpoYTFkQjRoSTZReDlHaEMtSnNqUTB2Q0NVd0dWTDV3bW9HU2d5U2lLRXBtNWpudWFzWXRoQXREVS1HQXJjRkx5Z1gzSmJrYjlQMndRM0JudFVkaGYta3FDU1pxOTY0emVZYjdvRTdMTjhFYXVjY0hMQzZOU1hPUVllaVZlSF9sTHpHSTYxSndxU0Y5Yw?oc=5)
 
 ---
 
-### [José Abellán, cardiólogo, alerta: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzhNOUswMG1HV2FjMWFHUGF0Wk1JUHhPMVdzazhMMlVXVjNsMUc1V2tXZWF6X19EeHZFcWFyNlFmYWU0blgtOGlKbFFwTmVYZjlOWk94SGtGdmVXclEtUkVQdmtwczcyWXAxMG0tZnM3aGp3WEJ3a1NSVmlNX3NUb2ctc3V2eVJ5R29fZ1ZpZGpfRFMtM2g1OW1VU05rclBla0piY3pYUTExb0tYbmlQR08zanlON29a0gG-AUFVX3lxTFBoTi1KMVBOemJINzVpWGtfSE9xN2JCZmFnS0lQVFYwWks4T3NfQ2pxOGNiNjk0bVhBeGJjOHpvcDltSng3VHJvZDF5WjB5ejBUdXFtZ0VfU2pKODVZNmpLeVk2RFF6YWRpd1UzZGo4UDFiaUZCZXdEVXZBYnEzOHRDTDJmcDdKLTZNbEY2Mlg5ek0zd2N3NzloWlFheThscF9sVUI0ZXgzSldITVk4cF9KdU1ySGNiOE5RMndTUmc?oc=5)
+### [Ictus. A volte torna](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLLUFKUmFrU0lNeEtvSW9FYWdMSC0zYzlTczhVUm5PbmdLYkZwZ3pBdlhHdm52Nm1HZm9aR3RqU2xoUHNvTWVUZVJISElELTVRNDdYUlYwTWNQdXhvb29DdWtrVEgxMkxNeHB0OXc0eFpVZHVEYTU1TEdB?oc=5)
 
 2026-07-29 <span class="news-indication-tag">ictus</span>
 
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZzhNOUswMG1HV2FjMWFHUGF0Wk1JUHhPMVdzazhMMlVXVjNsMUc1V2tXZWF6X19EeHZFcWFyNlFmYWU0blgtOGlKbFFwTmVYZjlOWk94SGtGdmVXclEtUkVQdmtwczcyWXAxMG0tZnM3aGp3WEJ3a1NSVmlNX3NUb2ctc3V2eVJ5R29fZ1ZpZGpfRFMtM2g1OW1VU05rclBla0piY3pYUTExb0tYbmlQR08zanlON29a0gG-AUFVX3lxTFBoTi1KMVBOemJINzVpWGtfSE9xN2JCZmFnS0lQVFYwWks4T3NfQ2pxOGNiNjk0bVhBeGJjOHpvcDltSng3VHJvZDF5WjB5ejBUdXFtZ0VfU2pKODVZNmpLeVk2RFF6YWRpd1UzZGo4UDFiaUZCZXdEVXZBYnEzOHRDTDJmcDdKLTZNbEY2Mlg5ek0zd2N3NzloWlFheThscF9sVUI0ZXgzSldITVk4cF9KdU1ySGNiOE5RMndTUmc?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLLUFKUmFrU0lNeEtvSW9FYWdMSC0zYzlTczhVUm5PbmdLYkZwZ3pBdlhHdm52Nm1HZm9aR3RqU2xoUHNvTWVUZVJISElELTVRNDdYUlYwTWNQdXhvb29DdWtrVEgxMkxNeHB0OXc0eFpVZHVEYTU1TEdB?oc=5)
 
 ---
 
-### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
+### [José Abellán, cardiólogo, alerta: roncar no es normal y puede aumentar el riesgo de infarto e ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNsaU1tc2RtVDJGR3pxZVFnZWwwN0FsNVhnRS1KTnFtZjh1Nl9UX25JUUtFUzZ3RE56UTBxZjcwMUZpdFI2dXBuR1VIbmd5TnJ6UHVDQ3NCQXN5U2x4NDZwLTVKblBwZmxDWmVkRndBVFc3c0lnNGVaLXNPMHJ6dTdac3M2ZXJ4YWM1YTQ0cUpUNl8tZGFjZ1VmMWJfTHl2ZWpmNUk2NjVfWFlvcGlZVDFZYTRRdw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-07-29 <span class="news-indication-tag">ictus</span>
 
-來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
+來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWNsaU1tc2RtVDJGR3pxZVFnZWwwN0FsNVhnRS1KTnFtZjh1Nl9UX25JUUtFUzZ3RE56UTBxZjcwMUZpdFI2dXBuR1VIbmd5TnJ6UHVDQ3NCQXN5U2x4NDZwLTVKblBwZmxDWmVkRndBVFc3c0lnNGVaLXNPMHJ6dTdac3M2ZXJ4YWM1YTQ0cUpUNl8tZGFjZ1VmMWJfTHl2ZWpmNUk2NjVfWFlvcGlZVDFZYTRRdw?oc=5)
 
 ---
 
@@ -94,14 +94,6 @@ permalink: /news/simvastatin/
 
 ---
 
-### [PMOS statt PCOS: Neue Leitlinie soll Diagnosequote und Langzeitrisiken senken - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmNjVmpwc1cwM2pEbGw0R05qN0dpZThXT09MREwtOG1XcmNJWll2bFVzNEFPQkoyU2NqVnVrM1ZqRFBRaHNfRFpvc3g0UWNtNW1nQXlIdEs2MHRvN1RjaDBINGN4YTAzaXdraWdXSFZVRm1qUTliU1FVLXRVZFR2MVFxTEdXRC1PcDNSSzdSS3M4QWNUN2JPMVAyMmdWMW5rVjR3RVYxZUdVTFIt?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmNjVmpwc1cwM2pEbGw0R05qN0dpZThXT09MREwtOG1XcmNJWll2bFVzNEFPQkoyU2NqVnVrM1ZqRFBRaHNfRFpvc3g0UWNtNW1nQXlIdEs2MHRvN1RjaDBINGN4YTAzaXdraWdXSFZVRm1qUTliU1FVLXRVZFR2MVFxTEdXRC1PcDNSSzdSS3M4QWNUN2JPMVAyMmdWMW5rVjR3RVYxZUdVTFIt?oc=5)
-
----
-
 ### [Black people’s risk factors for stroke ‘rising faster than for white people’ - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlA1U3NOQ2I2TDliNWdVbi1NZVRvNUpCYlVKU2hfMnpCbUtrUGxQZE9kNHE3QkM0NU8xTzgzc1FKTklERVRpQWdTQW10OGs1Z2xOaGJFS2hZT3FvU2Z3LVVkcFhLVVJLQWRCZUZVUW8xa3ZJR3l5WWN3eWExb0dRU2xhd3g0MUJQb2hPclJDS0lxa3J1cVpHMUd6eEw0c1pYcmxrRGVtNF91ZllhMndWZTRKMWtUbzNSM0syWmdWQm1VOGdha3FJT2FwSVM?oc=5)
 
 2026-07-28 <span class="news-indication-tag">stroke</span>
@@ -114,7 +106,7 @@ permalink: /news/simvastatin/
 
 2026-07-28 <span class="news-indication-tag">ictus</span>
 
-來源：[OkDiario](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
+來源：[okdiario.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUYyeEFMMDFWMHFVZVQyVXJubGlXaWF2ZUxudlJEWWx1dWVsVGNWLVVZaEJ3Wl9yR3Z5SFh1dkhzZUNHdFpWODgtek1qSnFKQWU0bDJUV183XzR4T0R0bV9zak13NTlpeEdHdVJxNXZJb3FDRjZYbUc1Q1A4RjhTSm5wOHc5a3d3OFdFVm9TZTk2ZnpSTndGWWxqeWpwSkdfbUNneXllQ0Y5NktwWGo5Z1U0b3pyUdIBuwFBVV95cUxOcVBqcW92NHdVQXQ1MVg0N3RodGJkaVlxMnMzSjFraXdneHlRZGpuekpYaHlGR0JjcmhhOS12S1VTNFNHd2FLdmd4Tm10V0NONDlOZlpTREhmVnFsblVKR0pUVVM2MEtjOXFfbU55QzA4VDRUV0thc050dF80M1dUT00yaGdDWnVHeEVMUndleVdOYjRrdHFqRzFaaE1lWFdUbVJqVzRkTkJoZjhidGpGMGU5U3N2WkJvSmVz?oc=5)
 
 ---
 

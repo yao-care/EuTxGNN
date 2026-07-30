@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Colitis ulcerosa: Wearables erkennen Schübe bis 7 Wochen früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
+
+---
 
 
 <div class="disclaimer">

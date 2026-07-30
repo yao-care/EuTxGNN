@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Il n'avait pas vu de médecin depuis 12 ans : un Anglais découvre que ses migraines cachaient un cancer en phase terminale](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
+### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
 
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-07-29 <span class="news-indication-tag">diabetes</span>
 
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
-
----
-
-### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
-
-2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
 
 ---
 

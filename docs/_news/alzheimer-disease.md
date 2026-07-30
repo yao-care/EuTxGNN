@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+
+2026-07-29
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+
+---
 
 ### [Des scientifiques japonais pensent avoir identifié la substance à l'origine de la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
 
 2026-07-29
 
-來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
+來源：[franceinfo](https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUlCOXhZXzNJTXVxbjV6aUstY3Q2R0hkdTQ4c0FkbGF5UVUwUHZKVW9VMEJUcGNOcFhZUWh0VTIyWG1ULVI2bzNZTkV3WGN0MENpakg5MWx5TXhrejRkY3VWelcxNjBkWUo2ZUtxOElfdkJUZnZVSURNeFZ1ZGRaRjZYR0Q1T2QwLW16ZW1aa2JOUWxINjI0Q0k5V0pKWjNLSnpMV3NtcmtuaUY0LXJidE44cU9jOWVCNmZXa0Nmb3kwTXpEVGcyU0JGcU5UcGxHTFpuTUNZcVRvaXVpY2Fod2dZNVoxWkxHUGNQUFpzVnY2c3JjeHRjVHRrZVVlNDBU?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Diese Stallbakterien schützen gegen Asthma und Allergien](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+### [Colitis ulcerosa: Wearables erkennen Schübe bis 7 Wochen früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-07-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
 
 ---
 
-### [Wearables erkennen Colitis-Schübe bis zu 7 Wochen früher](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
+### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
-2026-07-29 <span class="news-indication-tag">Morbus Crohn</span>
+2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU5GUGE4NnExMFc5bWdnQmFWLS1JcFFaVFcwMW5iejQ3ZEphUmVzalJOWVJVRkh3RVY3NE5XdXYxRHBDdEhZak5PS0tFTlV5bWQyRTNidmMteDl0M3hScEpTSHk1cnJyVTN0bjBqRmFlVVdTM2V1TDk2djRGeVVsMG1RUVczWS10aW55ckxhbXlja2xPYWhDT3dkVXI5S29hSldGN1FQbGdqdWM?oc=5)
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+
+---
+
+### [Experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+
+2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
 
 ---
 

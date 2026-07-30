@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+
+2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+
+---
 
 
 <div class="disclaimer">

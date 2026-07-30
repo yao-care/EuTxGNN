@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ritonavir</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,19 @@ permalink: /news/ritonavir/
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Epatiti, Ecdc: “In Europa 5 mln con malattia cronica”. Iss: Serve prevenzione”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
+### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
 2026-07-29 <span class="news-indication-tag">epatite</span>
 
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
+來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
 ---
 
 ### [Dr. Juan Arenas, especialista en digestivo: «Muchas personas conviven con hepatitis crónica sin saberlo: cuando hay síntomas el daño ya es grave» - El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">hepatitis</span>
+2026-07-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
 
@@ -78,9 +78,17 @@ permalink: /news/ritonavir/
 
 ---
 
-### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
 
 2026-07-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
+
+---
+
+### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
+
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 

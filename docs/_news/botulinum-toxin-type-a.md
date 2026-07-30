@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [How The Vagus Nerve Promotes Healthy Cognition Via Acetylcholine Signaling](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
 
 2026-07-29 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[Hackaday](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclZKc3dkc2k2NlotQnNpSHlieFV5UjY5QjJCbjNSeS14dEhiZ3RsYXpjSF9KWnI1TVdObnpMREhxSVotUU1EUmJQUWpoelMyeHVmUzZoQUtFZUdub3dLdTJtdk9pd2NUTFYxbzE0ZEZvYWZfR2U4OGR1NjdaSXBQNkZHWUVmbG5SQTN6UkJxZGFxQTc2TEFIOGZzY3JRSFA0SzdZeEtMWTlMQUU?oc=5)
+
+---
+
+### [Experto señala que la combinación de calor extremo, humo, calima y ozono eleva el riesgo en los pacientes respiratorios](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
+
+2026-07-28 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[infosalus.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWTE0R0VSS3l3QnpSb0VtaFBidno2YjZvZzBpNHVsbXFuV0MxaThtYXY4V2RoR212SkZPaUx2Y3EwRGJ1UlN3RERVQ2hmZnZUdE1ocDN6QnNCc1pzRjJVeWFTZFBFQ284NkI3RDA1OXY3dnJ2VnROMV93bExxaFJvbi1NdHJNclVfSmpnOHpGeHc4Qks2SEY5SWJyWDVpQU5qRHdpSUQ2aXVzN0lOc0dlUlRFQmtxTUpuQUNqWVFVVVlfU2lOeDlKMnFZRktrNEh1cmw2TkVXVGYtS1gxZ19EcHNZQ3ZFUkhvVFRrNV9WNGk2eHU3bTZ4ajZQMHN0dw?oc=5)
 
 ---
 

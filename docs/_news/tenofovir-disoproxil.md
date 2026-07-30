@@ -54,11 +54,19 @@ permalink: /news/tenofovir-disoproxil/
 
 ## 相關新聞（22 則）
 
-### [Il n'avait pas vu de médecin depuis 12 ans : un Anglais découvre que ses migraines cachaient un cancer en phase terminale](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
+### [Un batterio intestinale aiuta il sistema immunitario a combattere il melanoma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
 
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-07-29 <span class="news-indication-tag">tumor</span>
 
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
+
+---
+
+### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito - La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
+
+2026-07-29 <span class="news-indication-tag">epatite</span>
+
+來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ permalink: /news/tenofovir-disoproxil/
 2026-07-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0ZxRi1YNVZqR1VZVURzYVpqZGFiTUM0WFpGbEdqanI4WGVlLWZCaFMxRWVRYkpzRzZ3Z0NlZ2xfZ0ZrWlhoRFhPcEc5Z3VjazgzQ1MtbzJlcjI4V2U3MEpYYnhTWEhINlNpR1hUUmU0eEMyemNhRUpJS1Rqb0FPblAxRXMzS1RONkcwTFhpZW52QWdLbW96MTl2cFRoOTVuRjY5TTh6RHNfaGNNeV9LU0tB?oc=5)
+
+---
+
+### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">cancer</span>
+
+來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [Sole, il dermatologo avverte: «L'abbronzatura non è sinonimo di salute, la pelle produce la melanina per difendersi da un'aggressione» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUpPaE9BNmIzNGhibk5zZFZPd0k3Xzh2a1Z4WE9Nc1ozbFFISzd2alZRZkxsdXpTLXNJT2lTVnM3dThXZmlqSUFyWTdPdUJicmVoTnRkSmU2QUN1SUZ4cDlSem4zZVZNTzN3cmpEaC04SVp2Q0gyM3hTR2lFNFNnbDJMR0I4Sml0Q3pjb2lOZEJReG5vMlY4VTdXaTFQVm5INWx0WTA1U2UxMjFyYlVMMmJ4bTdZWDhEXzFoOFNodW5FSXhWbmtIVkFESUVtVHh5NXQ4YQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUpPaE9BNmIzNGhibk5zZFZPd0k3Xzh2a1Z4WE9Nc1ozbFFISzd2alZRZkxsdXpTLXNJT2lTVnM3dThXZmlqSUFyWTdPdUJicmVoTnRkSmU2QUN1SUZ4cDlSem4zZVZNTzN3cmpEaC04SVp2Q0gyM3hTR2lFNFNnbDJMR0I4Sml0Q3pjb2lOZEJReG5vMlY4VTdXaTFQVm5INWx0WTA1U2UxMjFyYlVMMmJ4bTdZWDhEXzFoOFNodW5FSXhWbmtIVkFESUVtVHh5NXQ4YQ?oc=5)
-
----
-
 ### [Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
 
 2026-07-29 <span class="news-indication-tag">oncology</span>
@@ -118,25 +126,25 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
-### [I saw GP 30 times for bloating that was cancer - test was positive for 2 years - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
+### [I saw GP 30 times for bloating that was cancer - test was positive for 2 years](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
 
 2026-07-29 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
 
 ---
 
-### [Epatiti, Ecdc: “In Europa 5 mln con malattia cronica”. Iss: Serve prevenzione”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
+### [Le lobby du sucre : comment l'industrie a tenté d’influencer pendant des années le débat sur notre santé](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3hQelNlLXQxN2FMckNWcEp5US0xZFdrOEFWRUpsbnZ0VFdPMVZlQmdDQUJOc0xUMk5YWS1YRWxhYmxmR0k5RVJKRk14U0FIV1hFRS1aSGFUbVJuMVktcHVVMnBxOGdSeVJjWG5CYURERDhxelFuaWNmMDh4YkpkWmdlaVVfeS1LV3M0R01SYk9VSTFVdkFIYVduUktKS0x5SjhlUHJJLUhQRUJmSDBINVcxWF91aWMyM3dFbFEzX0oyanRRQkVFejhoZS1aeFhjQ1BlLUNn?oc=5)
 
-2026-07-29 <span class="news-indication-tag">epatite</span>
+2026-07-29 <span class="news-indication-tag">cancer</span>
 
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
+來源：[RTBF](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3hQelNlLXQxN2FMckNWcEp5US0xZFdrOEFWRUpsbnZ0VFdPMVZlQmdDQUJOc0xUMk5YWS1YRWxhYmxmR0k5RVJKRk14U0FIV1hFRS1aSGFUbVJuMVktcHVVMnBxOGdSeVJjWG5CYURERDhxelFuaWNmMDh4YkpkWmdlaVVfeS1LV3M0R01SYk9VSTFVdkFIYVduUktKS0x5SjhlUHJJLUhQRUJmSDBINVcxWF91aWMyM3dFbFEzX0oyanRRQkVFejhoZS1aeFhjQ1BlLUNn?oc=5)
 
 ---
 
 ### [Dr. Juan Arenas, especialista en digestivo: «Muchas personas conviven con hepatitis crónica sin saberlo: cuando hay síntomas el daño ya es grave» - El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">hepatitis</span>
+2026-07-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[El Diario Vasco](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1k4ZVdiMXpCUmhDTTNKdnR2cDRwUlRaaTRONjFpV1JmZ1hTOV9iMGswaFhDWUE0eUJlR09QUndBWkJoQXVOZ1NwVWhSSUl4UFVQUElnYjRILVRjNldGdjFjQXBGNjdEXzhLYkdSN1RNcmVqRGpfMC1OMzFmMTE3SmFON1laVnBVZ1FZZ081elljc2NhMnhlWWw1blFCUGZ1V3VwWlZlQjVkMEMxelowdDRuMzFBV0tUZTlIOU11dEI2Sld0NVBlbjZlUXgtVjgzb1otMXJkMUFyNE1tdG1wNUZ30gHnAUFVX3lxTE5BTHBWX29hYWRkTU9HTXlUQzdKMkhjb2cxcFgta1NQWFk3dHdwdm45ZldfVUx4RXRjdWxsRkx0bWp3Q19obV95M08yaGhaWlRodWNWN0pueGNneTNNUHJkbVQ0V1luRy1hRk9uZVZ0a3U1eU9aMmJaTU5aMDk4U1R3MmJMam55UzZCaENseW1fOTVaNHNpcmxSY3dhUDlIZV9JbWgyVkozTFJwRUlLajZiRkc0RU5lQlNwS2ZRYjlVUjJfb0xuU2dselotN0VoYmxLVVlEUEhoRDEzV2hJenRjWUJKTDl1TQ?oc=5)
 
@@ -160,7 +168,7 @@ permalink: /news/tenofovir-disoproxil/
 
 ### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
-2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-28 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
@@ -174,6 +182,14 @@ permalink: /news/tenofovir-disoproxil/
 
 ---
 
+### [El 48% de las personas con hepatitis B sigue sin realizarse la prueba de hepatitis delta](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
+
+2026-07-28 <span class="news-indication-tag">hepatitis</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk1fNGdxZE51blZyMmx2NXBRakF3aWVPcS1Ham5pWjVETXBsR2Y2MnF4am1jbThMQ2YwZ3AtYWFwUlhXVEJPckFFbDVqa3EzOGs4aVdqSmxZa1hoRV9XVEJueDJXSUZqMllLUXFtX2VsNndvY0oxM1dVNHpYc1hBcHczcERvNFk3SGQ3YzJ4R2NydUw3US1fcTdmZHVqX2JDWndjaDVSZWlLTF8zYU40YU5zVmVxdUk?oc=5)
+
+---
+
 ### [Shocking photos reveal consequences of mum's lifelong tanning obsession](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1FRTEhxSzlkTnpwa0FkQ0k3TFBLbXEyVHJ3NHNZYmdkYmZ5X2trc0V4Y200VlFqREctOVM3bERQb1I1bzN6WHhNUzBrUzdfMXI5MTlXVzJCVE5hbFRBOTMwcFpsN0pNVHYzMThBaEN6VnpBVmFjaWo2TGJySFhyVE9kM3FhT09jQXRrT19UVE1lZjkxUm9CV3VB0gGfAUFVX3lxTE5LM1JaNXpRcVRvOHRhYWJoMnpaQTJSdloxT2J4NlNQcjI5bzBsWEZmV3d4OXhLWTlSbzNnbUIzbXFrNnJTcTdRTmpINEVQUXNPZ2FlcnFMcGxPcHlDOHdpVkFydDN5cnpZckpSYUxpc1hnWVQ0Y3ZVck5nNUc2d2lDQlNaNU4zaEJZZzdMazhUdjRSRTcxZ3E2ZmZjX09xOA?oc=5)
 
 2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -184,33 +200,17 @@ permalink: /news/tenofovir-disoproxil/
 
 ### [WHO fordert mehr Einsatz im Kampf gegen Hepatitis B und C](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">hepatitis</span>
+2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
 來源：[AOK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0RmpNcjFHeEJKaTN0Sng3bGl1dlNRRi1qUDN3ZV85WmdZM2hTenE1NWo4OURDeC1GNlgwUTBXenVLczZoT0RvWHM1cFVza2xsWTZlX3dRYUhVQkdTbDdLbQ?oc=5)
 
 ---
 
-### [My son, 15, died of a silent cancer - docs dismissed only signs with antibiotics - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
+### [My son, 15, died of a silent cancer - docs dismissed only signs with antibiotics](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
 
 2026-07-28 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
-
----
-
-### [Tumore al seno, testata la mastectomia robotica attraverso una sola incisione](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
----
-
-### [Consumir más carne procesada aumenta el riesgo de cáncer gástrico y de esófago, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZHdKa0Q0d1RGUmQ0QmYzVFdSODVZb2pmNTJHSkNMWlZVN2VyeHpvY0tSaHNScTdSV2dYaUpyREczcU85dEJ1XzJlb1JqMWdmQ2NTaFJRRXlMM3dtZ2ZZSTU0SGhQLTFfdG1mSFVxYTRmUlhnSllfZHZRWW9PZ1Z6RDR2VDl2S1E0czBxN2MzRkM2ODFkSTh5UkJZV0dyWFZ5Uk50MFBYSi1PeHZuT21uUlYzTFhzeDZjNTRHc0RIREpDUG80NmFqdmctb2lsNWtUcnNnMzNiX3Z6UjhnSlo1OGE5ZEdXZmJpc2c?oc=5)
-
-2026-07-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZHdKa0Q0d1RGUmQ0QmYzVFdSODVZb2pmNTJHSkNMWlZVN2VyeHpvY0tSaHNScTdSV2dYaUpyREczcU85dEJ1XzJlb1JqMWdmQ2NTaFJRRXlMM3dtZ2ZZSTU0SGhQLTFfdG1mSFVxYTRmUlhnSllfZHZRWW9PZ1Z6RDR2VDl2S1E0czBxN2MzRkM2ODFkSTh5UkJZV0dyWFZ5Uk50MFBYSi1PeHZuT21uUlYzTFhzeDZjNTRHc0RIREpDUG80NmFqdmctb2lsNWtUcnNnMzNiX3Z6UjhnSlo1OGE5ZEdXZmJpc2c?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
 
 ---
 

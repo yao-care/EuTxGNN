@@ -14,7 +14,7 @@ permalink: /news/dostarlimab/
 ---
 
 <p class="key-answer" data-question="Dostarlimab 有什麼相關新聞？">
-<strong>Dostarlimab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dostarlimab</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dostarlimab/
 <p><a href="{{ '/drugs/dostarlimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（18 則）
 
 ### [Kaffee, Filter vs. Instant: Studien zu biologischem Alter treffen Longevity-Skepsis - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0ZxRi1YNVZqR1VZVURzYVpqZGFiTUM0WFpGbEdqanI4WGVlLWZCaFMxRWVRYkpzRzZ3Z0NlZ2xfZ0ZrWlhoRFhPcEc5Z3VjazgzQ1MtbzJlcjI4V2U3MEpYYnhTWEhINlNpR1hUUmU0eEMyemNhRUpJS1Rqb0FPblAxRXMzS1RONkcwTFhpZW52QWdLbW96MTl2cFRoOTVuRjY5TTh6RHNfaGNNeV9LU0tB?oc=5)
 
@@ -62,27 +62,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Caso di Dengue a Verona, attivato il protocollo sanitario. Ecco le vie](https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2dydHlBamI5eC1zM2pTR2UyNnc0Zi1mTXpQd2hzbEQyU1FzSFdHeFhQSXhrNW5ManhseG1URXlXYmJlOWVITENFR0VFanQ4U21BRG9pYzNOWjNPS3VTWF9LLWsxMnA3dTN0N0VwbUNOSWZvdEFfaFduNWV1cVU3MzRQcXBkRmpuRmRGa2JHSzRic2lQWk9OLWIwRmZMVTZvRng1NDljcW95TnpUcHhUdVZpUDZDaFdiNTY0NGktYUtnbHVyUlHSAcsBQVVfeXFMTU50RmlpaERlVDRzbzdEMlFjYXNnRXByd3B4dktlcGFWNEFkQmhvU0t0cHBmUHZZTlBTb0pLbW5KVy1LNjdGampvY240Y1NfTktVTi1VQVFON25CeFZ5MlAzUU9zZmItdnpjSnFuc0pxNm9iaWtXY2M5ZUlfbVowT1lZb3VOeHJJdGNBQzB1a2ZONkxveHRYXzl6dlJfa2ZTNmhNZ2xxN2N4TDNhSDJ5MHpDaFdkbFdNV2tFVFJYN1UwVDdLVFhiRkVqYW8?oc=5)
+### [Enfermedad de Danon, un trastorno multisistémico que afecta al ojo e involucra al corazón, al músculo esquelético y al cerebro - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRE1qVVpMdHJoR19WWnpKT3RyV0YwQ1V1d0ZoX0JzNW9sUmlSRUZSNkR3SEU5OTVjRkI1R2hBR1VsSlVSb19aRXlFWDRqMnU2M3Q0YjA3TjM1RGUxU29pMl9SU21qcmNzbi1kR0tZTTdNQlhmbGlmbVhaWlI2TUVyRzVMek5HdklqMlpCaXBFaFRkNHhMTVoyWnhSV3dnTGthbmpHcjJLbzZ3TFg3eEllaUtBRTVNX01rSmJ2cWRn0gG4AUFVX3lxTE1QVkw5eEd1cmZLdE1VOER1SXBKN01xMW9pRnh0Nk1SSTVaeDlGUnREYnpyTnR2SUpQYjRWOXNnNVQ1NW9tOWNsSzZQTEVVd3pEbFBrUmNweUlobkg3Z1lQVVlkZkQ0SWZmTjYtdDlFS1hQODFkS3ZMa1BsSDAyZmVRelFhSFdGR2QtMUVZWWZocUJfRTZrZ1hpZUhkZ2JfQjgtVjdTLVBDVVRFcHp5a1Y5N0U0NkxDRkQ?oc=5)
 
 2026-07-29 <span class="news-indication-tag">AF</span>
 
-來源：[L'Arena](https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2dydHlBamI5eC1zM2pTR2UyNnc0Zi1mTXpQd2hzbEQyU1FzSFdHeFhQSXhrNW5ManhseG1URXlXYmJlOWVITENFR0VFanQ4U21BRG9pYzNOWjNPS3VTWF9LLWsxMnA3dTN0N0VwbUNOSWZvdEFfaFduNWV1cVU3MzRQcXBkRmpuRmRGa2JHSzRic2lQWk9OLWIwRmZMVTZvRng1NDljcW95TnpUcHhUdVZpUDZDaFdiNTY0NGktYUtnbHVyUlHSAcsBQVVfeXFMTU50RmlpaERlVDRzbzdEMlFjYXNnRXByd3B4dktlcGFWNEFkQmhvU0t0cHBmUHZZTlBTb0pLbW5KVy1LNjdGampvY240Y1NfTktVTi1VQVFON25CeFZ5MlAzUU9zZmItdnpjSnFuc0pxNm9iaWtXY2M5ZUlfbVowT1lZb3VOeHJJdGNBQzB1a2ZONkxveHRYXzl6dlJfa2ZTNmhNZ2xxN2N4TDNhSDJ5MHpDaFdkbFdNV2tFVFJYN1UwVDdLVFhiRkVqYW8?oc=5)
-
----
-
-### [‘Our spark has gone’: The marriages ruined by Ozempic - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
-
-2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5)
-
----
-
-### [Missed chances led to Legionnaires death - inquest](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdnc2bzFUNWlpbEQzd1o4NV9HQkoyUHpSTGN3X3lmT2pUYW5peEtnYVlnR0p0QXdfeV8xeWx0TG96SHpuUVI1OVNMV2RIVmpGZlJtQTNfS016NHFY?oc=5)
-
-2026-07-29 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdnc2bzFUNWlpbEQzd1o4NV9HQkoyUHpSTGN3X3lmT2pUYW5peEtnYVlnR0p0QXdfeV8xeWx0TG96SHpuUVI1OVNMV2RIVmpGZlJtQTNfS016NHFY?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRE1qVVpMdHJoR19WWnpKT3RyV0YwQ1V1d0ZoX0JzNW9sUmlSRUZSNkR3SEU5OTVjRkI1R2hBR1VsSlVSb19aRXlFWDRqMnU2M3Q0YjA3TjM1RGUxU29pMl9SU21qcmNzbi1kR0tZTTdNQlhmbGlmbVhaWlI2TUVyRzVMek5HdklqMlpCaXBFaFRkNHhMTVoyWnhSV3dnTGthbmpHcjJLbzZ3TFg3eEllaUtBRTVNX01rSmJ2cWRn0gG4AUFVX3lxTE1QVkw5eEd1cmZLdE1VOER1SXBKN01xMW9pRnh0Nk1SSTVaeDlGUnREYnpyTnR2SUpQYjRWOXNnNVQ1NW9tOWNsSzZQTEVVd3pEbFBrUmNweUlobkg3Z1lQVVlkZkQ0SWZmTjYtdDlFS1hQODFkS3ZMa1BsSDAyZmVRelFhSFdGR2QtMUVZWWZocUJfRTZrZ1hpZUhkZ2JfQjgtVjdTLVBDVVRFcHp5a1Y5N0U0NkxDRkQ?oc=5)
 
 ---
 
@@ -96,7 +80,7 @@ permalink: /news/dostarlimab/
 
 ### [Fibrillazione atriale con il 'clippaggo esterno" a Casa Sollievo: 8 pazienti trattati con la tecnica mininvasiva sull'auricola](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AFib</span>
+2026-07-29 <span class="news-indication-tag">AFib</span>
 
 來源：[foggiatoday.it](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
 
@@ -118,27 +102,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
-
-2026-07-29 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTg?oc=5)
-
----
-
-### [Una pionera terapia de precisión logra frenar las crisis epilépticas de una recién nacida - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTBTLUtJWHFSYjRGSWx5ckFuMHg3Y1ZPV2tHUzhxYVJQQlF6UzBlYzRiMTNfbzh3bzd4SmM4V2g0dWQxZ3htSEcwRTRyNk9xcjVqRGE4aHJnbTJqbHJrNTN1ZmFpdjUySjFIVU5SQUFkWVI1RkRlY1M0bXF0STBrQ182SnlSWnFpTEx4M0Z6UTMzR2xKQ3dCNVZSUXlhYkluTHRZcV9MaWpZNGZtZ3pjVVZscDRON2FvU0ItZHFLWDjSAbsBQVVfeXFMTVVqa01TNjZkbnFkczRjaXgtdHhpYWJ3U0RNNXNnRDFJQ0lKZ1RNTkx1N1YwY1otUlRpMDZSQkxMb0tLMzNqZlY1UHFVYlBBdk5FcVJJNkVQMGNPOXpCVzRrSFY3ZnlBV1I1OVdkTGp6di1iX04yaGprSkRuR2VueXA5cjhiUDV5Y0x2emhIMFlrZUZkdml2ZEYxY0F0WUliN2FWbFM2RldHMzNkLU84WXpXY1VjUjdGLTA4VQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">epilepsia</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTBTLUtJWHFSYjRGSWx5ckFuMHg3Y1ZPV2tHUzhxYVJQQlF6UzBlYzRiMTNfbzh3bzd4SmM4V2g0dWQxZ3htSEcwRTRyNk9xcjVqRGE4aHJnbTJqbHJrNTN1ZmFpdjUySjFIVU5SQUFkWVI1RkRlY1M0bXF0STBrQ182SnlSWnFpTEx4M0Z6UTMzR2xKQ3dCNVZSUXlhYkluTHRZcV9MaWpZNGZtZ3pjVVZscDRON2FvU0ItZHFLWDjSAbsBQVVfeXFMTVVqa01TNjZkbnFkczRjaXgtdHhpYWJ3U0RNNXNnRDFJQ0lKZ1RNTkx1N1YwY1otUlRpMDZSQkxMb0tLMzNqZlY1UHFVYlBBdk5FcVJJNkVQMGNPOXpCVzRrSFY3ZnlBV1I1OVdkTGp6di1iX04yaGprSkRuR2VueXA5cjhiUDV5Y0x2emhIMFlrZUZkdml2ZEYxY0F0WUliN2FWbFM2RldHMzNkLU84WXpXY1VjUjdGLTA4VQ?oc=5)
-
----
-
-### [Úbeda intensifica la prevención frente al virus del Nilo occidental](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXV5c2xhYmpRX1M1b3VHWmp4VEgzOVF0aXZaWkQwVEMxNEstcUEzRVNnbGRBWFo5bnJxYXpNZWV6cnY4MFI4UmZlWWRhMWFnMG82Z1kzT3Q4WXFtRXJJcXJ6ZUpobDgwSU1Mb0R3dXlSakFWVU1WTDFDWFEzZmRubG5NXzI2VTNZY2ZfWi1yQlNPdlhwV0ZPa2F3?oc=5)
+### [¿Cuántas tazas de cafe se pueden tomar al día? - El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
 
 2026-07-29 <span class="news-indication-tag">AF</span>
 
-來源：[extrajaen.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXV5c2xhYmpRX1M1b3VHWmp4VEgzOVF0aXZaWkQwVEMxNEstcUEzRVNnbGRBWFo5bnJxYXpNZWV6cnY4MFI4UmZlWWRhMWFnMG82Z1kzT3Q4WXFtRXJJcXJ6ZUpobDgwSU1Mb0R3dXlSakFWVU1WTDFDWFEzZmRubG5NXzI2VTNZY2ZfWi1yQlNPdlhwV0ZPa2F3?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnhtdklpWWNMR2tLZWVyRWItSTdJTVBadUNxLVY4VWt3TTdsNkQ3WFcyYXlhVThqb2hqZlNlT29zOXNudy1oRnlsUkdtMEpmVlVsRFo2V19uRVNRVGE1VHZINmIyVE5mMEt0Qjd3NEF0M3JvcWNsUVk5S1lFOG5RcDZ4QzVfcTdnQkk0VkowX3JwY1pqVFdLMTVYb2IyVWtrZHpzbUpDZnBQVmRKVVNRbU1haXk4VnR1MmhBVGxnNEp0dnRwMk9tQUhtbXlaTTjSAboBQVVfeXFMUHllc01DQW1iUWNXOHJEYkJZSnRwdldXNzhaZTdQWkZaZWtaVGhvMDhwOWRyRmFwRFhPc3NnZXoyazY3MzYyUVQ0aHlDMFhKSTh2dENpLW5LTUZUTFhFWWI1cVh6VUYydFlKSDhBQWZXWU5PSFJnRHJUSlplWEpSSDJkdGJCOEwzSGhuNXQ4bWQwRkphNjVYMDNoX2hwZGNNWkVCX0RKc0VEckpUbFNMdGE1aWlqS0haaDRB?oc=5)
 
 ---
 
@@ -150,19 +118,19 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Diese Stallbakterien schützen gegen Asthma und Allergien](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[wissenschaft.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
 ---
 
-### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+### [Colpo di calore, l'esperto: «Con l'afa ci si veste, non ci si sveste». I sintomi da non ignorare - La Prealpina](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdkVycVdxVHFjV3F3enJOMlF2d1pQZWljX1RRSWkza0JwcGR6c0E0MEF1WEFYOXF3Y1Q4ZDl0VklINERWblFnX0I1QXhHY0ZCTGRjTVNFakR5Y1M5VzJLT05XNlBpekVWMkpFQmhORkdZTEYwTF85N1B0RGNsXzdjSkkzdVBkSHVJeUFqbDYwVENjUUkyaTBFcGpKcUJRaERqcWQxVlVtNm9OZWg0QzFOYS1KLTl5ZmEwaDU4NWdVWlJROEppQnVRVmNIRWhWbFZYSnp6NkRRWQ?oc=5)
 
-2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-29 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+來源：[La Prealpina](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdkVycVdxVHFjV3F3enJOMlF2d1pQZWljX1RRSWkza0JwcGR6c0E0MEF1WEFYOXF3Y1Q4ZDl0VklINERWblFnX0I1QXhHY0ZCTGRjTVNFakR5Y1M5VzJLT05XNlBpekVWMkpFQmhORkdZTEYwTF85N1B0RGNsXzdjSkkzdVBkSHVJeUFqbDYwVENjUUkyaTBFcGpKcUJRaERqcWQxVlVtNm9OZWg0QzFOYS1KLTl5ZmEwaDU4NWdVWlJROEppQnVRVmNIRWhWbFZYSnp6NkRRWQ?oc=5)
 
 ---
 
@@ -190,6 +158,14 @@ permalink: /news/dostarlimab/
 
 ---
 
+### [Schlafmangel führt schon nach wenigen Wochen zur Gewichtszunahme – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHRxRlByVnJQRUJlWldtM2YyeHpaYlY3STdtMnNURkJiMk9HdGtVbldNYVpmTkVjSmNYcHJDUjVHOVJmVWVZd05La0ZxNmRRNmFZRURZdkVldVZhYjhsS2JwYURXbVk0eVhlVDg0Wko0c2x5Tzk0YWNXYXVlaldDMkZYRGdybnFaOGFBUHpyWlBDb0FqNFVOT0hsYU4xcUQtRmwyVnJ0OVBRd1JrbkwwdFVnRVRpaFlwZGFHMmgxcnFwMzBvbUMzbGpoSXRmUQ?oc=5)
+
+2026-07-28 <span class="news-indication-tag">AF</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHRxRlByVnJQRUJlWldtM2YyeHpaYlY3STdtMnNURkJiMk9HdGtVbldNYVpmTkVjSmNYcHJDUjVHOVJmVWVZd05La0ZxNmRRNmFZRURZdkVldVZhYjhsS2JwYURXbVk0eVhlVDg0Wko0c2x5Tzk0YWNXYXVlaldDMkZYRGdybnFaOGFBUHpyWlBDb0FqNFVOT0hsYU4xcUQtRmwyVnJ0OVBRd1JrbkwwdFVnRVRpaFlwZGFHMmgxcnFwMzBvbUMzbGpoSXRmUQ?oc=5)
+
+---
+
 ### [Tumori: un integratore molto comune rafforza le difese contro il cancro. Lo studio - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1aRjRFWlM1V2JIZ3BnUUxwZjJpdTROMmNIaE4yQWxLTGJWWWM1bndWUXlLWF9hWHg2OC0yc3owMzZvUDBwWG5VNGZDT0FBbmJ1MWczdGNJNTBPMG5YUlFWWEt3VGw0M2k0Y3JiUG03dEtjZHBvOGs2aUtLblBnOWotQm9EYnNDUHV2eEN0WmNZZk9RdVlWQlJyY2tRcTBlZjk3YWpWcWRFUE82aTVMaXNuVy1FZ0k3S2lvSHQxYjnSAcYBQVVfeXFMT1dPQ0pDWXZzaV9BeFlCdGRPeG5ZRGgwVTlsMW12TzZ0b2ZlOW9OcDlNYThRaUo4Um83X2pJcF9QV0lQbUxlRDRqRVJHeTA2dG43Z3BHZ2g4eUR6NzlVTXhsZHNDbHY5NWJnT3RFQzBybmtoWTJQMng2cnVEWERsTTZOcDluNm9ZQ1MzT2JUTWNMaTRFNmstcVYzS3hnVGJ1c3M4U0JYM3I2SWh1N0lkQi1OM2FlcGRnU1dDRnVNSWZPMUFIamxB?oc=5)
 
 2026-07-28 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
@@ -203,6 +179,14 @@ permalink: /news/dostarlimab/
 2026-07-28 <span class="news-indication-tag">AF</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFFlZHRDV09KWWpkcjhHYjZ5YlNieXpjczJCX3czRDNucUVTSmsxOFNvQkJfWWc0WXhTdUZhV01tNUFNZEplT1dEMTZ1OEI4aVNuMEE4d2d5Uk9CN2ZsOTFTWTFWcS1SdmlSeWM4WjRhNmFZMnpsUjdlMl9QYjlFVGRKd21adkl0U2J1TXNFZ1QzTVRsczBqTUpVVmY4NlZhNy1MY2xjVVI?oc=5)
+
+---
+
+### [Consiguen frenar las crisis epilépticas severas que padecía una recién nacida desde los 10 minutos de vida](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWk2WEVYQjB6MUVnT0VBLV9FSEt6MzdOUER6eU54WXlCZC01RWIwa3BxbEhESXVNb09pRnQtOFVjTGZ6LUs5VFV3M3JOSXB5STF1U1BMMXFGU2Utc1huLTlneHI3M1g2ZHczNlVpQjd6R0tqVDBha1V2MXYyaHducmRPZXNqZUJUdXBkSkw5SEdwUlBnODcxajRlWkFCdmYxV01jV2FWQUZ3WHJQS3VEQkZ3MXI1Q0FOZ2Y2cjhNcUxibElpbk5aYkJaRl9TLWN4cDZINU5n?oc=5)
+
+2026-07-28 <span class="news-indication-tag">epilepsia</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWk2WEVYQjB6MUVnT0VBLV9FSEt6MzdOUER6eU54WXlCZC01RWIwa3BxbEhESXVNb09pRnQtOFVjTGZ6LUs5VFV3M3JOSXB5STF1U1BMMXFGU2Utc1huLTlneHI3M1g2ZHczNlVpQjd6R0tqVDBha1V2MXYyaHducmRPZXNqZUJUdXBkSkw5SEdwUlBnODcxajRlWkFCdmYxV01jV2FWQUZ3WHJQS3VEQkZ3MXI1Q0FOZ2Y2cjhNcUxibElpbk5aYkJaRl9TLWN4cDZINU5n?oc=5)
 
 ---
 

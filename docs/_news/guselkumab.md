@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+### [Colitis ulcerosa: Wearables erkennen Schübe bis 7 Wochen früher](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
 
-2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-07-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
+來源：[Ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
+
+---
+
+### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
 
 ---
 

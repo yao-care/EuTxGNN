@@ -14,7 +14,7 @@ permalink: /news/tafasitamab/
 ---
 
 <p class="key-answer" data-question="Tafasitamab 有什麼相關新聞？">
-<strong>Tafasitamab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tafasitamab</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/tafasitamab/
 <p><a href="{{ '/drugs/tafasitamab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（19 則）
 
-### [Il n'avait pas vu de médecin depuis 12 ans : un Anglais découvre que ses migraines cachaient un cancer en phase terminale](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
+### [Un batterio intestinale aiuta il sistema immunitario a combattere il melanoma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
 
-2026-07-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">migraine</span>
+2026-07-29 <span class="news-indication-tag">tumor</span>
 
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXpIN3hLdGVRTlZHejBIOW5peTEtNnJKS3VON2RLRzJ3Rngyb3EzVy12Zk9QZWFENUlQdElrSkFMeG5TZXZuLWktYldNVTJQeDJ4Mk0zTDhpNWpCNmRMeUtBMnQyU0hCdUhHcDB1dGxyNU1KVHRTSHhOMER1UzVHLWdhMlZxbXRFU0ptakhnemZhaDNUaGdyUllFUXpQWmpvMmlLaWpYcXY3NEdMUHBPZjM3d3lMMW42dkh4bVkxeTY5THBmVlc4WjhtSFdLcVoydVowLVlyal92WWRnZ0UyNEFrSWY3MnJzUVUzQ2ZuLVQtZ0JfYWc?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
 
 ---
 
@@ -67,6 +67,22 @@ permalink: /news/tafasitamab/
 2026-07-29 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0ZxRi1YNVZqR1VZVURzYVpqZGFiTUM0WFpGbEdqanI4WGVlLWZCaFMxRWVRYkpzRzZ3Z0NlZ2xfZ0ZrWlhoRFhPcEc5Z3VjazgzQ1MtbzJlcjI4V2U3MEpYYnhTWEhINlNpR1hUUmU0eEMyemNhRUpJS1Rqb0FPblAxRXMzS1RONkcwTFhpZW52QWdLbW96MTl2cFRoOTVuRjY5TTh6RHNfaGNNeV9LU0tB?oc=5)
+
+---
+
+### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+
+2026-07-29 <span class="news-indication-tag">diabetes</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
+
+---
+
+### [Son médecin généraliste n’avait rien trouvé d’anormal : après des maux de tête, il découvre qu'il a un cancer du cerveau en phase terminale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">cancer</span>
+
+來源：[L'Indépendant](https://news.google.com/rss/articles/CBMikwJBVV95cUxQdHkzZDZZMGwyVTN0Q29sUEFCMlRBMWd6MXpJbUd4Y1dKNVYtb1NrbTNpUVU5eEpMQUN6dXhGNjVpQjFWRWpXUWh6WFNTZEowRXVSbjhpSjZmUEpzWG9TNnpZM2VhUGQyQktHUXdncjExaGNhMTN5T3FVRU9xbkhXeHl4eGoxdW1uaG5wWXc4YUJJUTZITGdGWUJqZDVLakVpeGFmZE93RnJyeDdCemNjYmZqZzVLbVBhczhKZVRuLThld1VFalBSelp6M2VRQ2ZJdjF1WXFTZzQ3QVpuajdyWHVMM1dZRE5KX0NrWFA4aEpGTGRXRjB5NHNkNnBQQU51amhvWWxXemNKdnFkZGN1Sm41cw?oc=5)
 
 ---
 
@@ -94,27 +110,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [Abnehmspritze: Studie findet seltenes Risiko für plötzlichen Sehverlust - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
-
-2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDljZFJxQlNOc1RaWXB1UFNzd2otX21BQWlReDFQZHlBaEJrWFpobVprRnFhYjgtUFByUm5pXzNZMW8xX01tVXVtWTNCaXZsYmV6cDk1N1FyYnJRZXdGdEJDY05Hc05aSFZTNElZMG9Na0dOMzllQ2h5aGZpeW5adFU1NEpHY2ZLWmtRM1NhV0F6YkhNdTdHMWpnZ2QxLWdwWFRHbTV0ZzJ3NUtSdmpMWVNiU1E?oc=5)
-
----
-
 ### [«Mio figlio strappato a 15 anni da un cancro, i medici lo avevano liquidato con degli antibiotici», la storia del piccolo Jamie - Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0dXX0tmemw1TnNJYlpkQmRnVmtNMmdOdDNqeGdDRXJJZWl4OW83U2dWQ3ZEbXlxNTRieEpCWUNtbjNhLUNHQTZuWmE4RTh1TmYwNW9uZkRQcmJfZ3o4Tjl4VXg0ZHBvSTNjRzlyN2ZUZTNXSmFRU3Jma3hkQjk3U3BjSHhyLU5fM0g0MTBtTUJHUmJqajFEVER3TVAyUmVfWXIydlRIclFfcWJoeWfSAaoBQVVfeXFMTXphb3ppeFNxUzZHQng4anVwS1RuSWF6S21qeUU4S0VKaU5KRHhrclZjc1R5Zlh4Q2dENVZ5cmtBcmIxN3JUSzFGZXNydGRyU245UHZJQlhBQ0sxZ2tCbTVnZHM3OVZMUzVXeHY4SDRDZ1pDelVGTmFVX3o5MUJaZm5FWG5ObkFUQlF1a0F4elJ4VzlOZ1NWSlNxUXUyYTl0SkpfNFpveVdlZFE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">cancro</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0dXX0tmemw1TnNJYlpkQmRnVmtNMmdOdDNqeGdDRXJJZWl4OW83U2dWQ3ZEbXlxNTRieEpCWUNtbjNhLUNHQTZuWmE4RTh1TmYwNW9uZkRQcmJfZ3o4Tjl4VXg0ZHBvSTNjRzlyN2ZUZTNXSmFRU3Jma3hkQjk3U3BjSHhyLU5fM0g0MTBtTUJHUmJqajFEVER3TVAyUmVfWXIydlRIclFfcWJoeWfSAaoBQVVfeXFMTXphb3ppeFNxUzZHQng4anVwS1RuSWF6S21qeUU4S0VKaU5KRHhrclZjc1R5Zlh4Q2dENVZ5cmtBcmIxN3JUSzFGZXNydGRyU245UHZJQlhBQ0sxZ2tCbTVnZHM3OVZMUzVXeHY4SDRDZ1pDelVGTmFVX3o5MUJaZm5FWG5ObkFUQlF1a0F4elJ4VzlOZ1NWSlNxUXUyYTl0SkpfNFpveVdlZFE?oc=5)
-
----
-
-### [Sole, il dermatologo avverte: «L'abbronzatura non è sinonimo di salute, la pelle produce la melanina per difendersi da un'aggressione» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUpPaE9BNmIzNGhibk5zZFZPd0k3Xzh2a1Z4WE9Nc1ozbFFISzd2alZRZkxsdXpTLXNJT2lTVnM3dThXZmlqSUFyWTdPdUJicmVoTnRkSmU2QUN1SUZ4cDlSem4zZVZNTzN3cmpEaC04SVp2Q0gyM3hTR2lFNFNnbDJMR0I4Sml0Q3pjb2lOZEJReG5vMlY4VTdXaTFQVm5INWx0WTA1U2UxMjFyYlVMMmJ4bTdZWDhEXzFoOFNodW5FSXhWbmtIVkFESUVtVHh5NXQ4YQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUpPaE9BNmIzNGhibk5zZFZPd0k3Xzh2a1Z4WE9Nc1ozbFFISzd2alZRZkxsdXpTLXNJT2lTVnM3dThXZmlqSUFyWTdPdUJicmVoTnRkSmU2QUN1SUZ4cDlSem4zZVZNTzN3cmpEaC04SVp2Q0gyM3hTR2lFNFNnbDJMR0I4Sml0Q3pjb2lOZEJReG5vMlY4VTdXaTFQVm5INWx0WTA1U2UxMjFyYlVMMmJ4bTdZWDhEXzFoOFNodW5FSXhWbmtIVkFESUVtVHh5NXQ4YQ?oc=5)
 
 ---
 
@@ -126,11 +126,19 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [I saw GP 30 times for bloating that was cancer - test was positive for 2 years - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
+### [I saw GP 30 times for bloating that was cancer - test was positive for 2 years](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
 
 2026-07-29 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
+
+---
+
+### [Le lobby du sucre : comment l'industrie a tenté d’influencer pendant des années le débat sur notre santé](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3hQelNlLXQxN2FMckNWcEp5US0xZFdrOEFWRUpsbnZ0VFdPMVZlQmdDQUJOc0xUMk5YWS1YRWxhYmxmR0k5RVJKRk14U0FIV1hFRS1aSGFUbVJuMVktcHVVMnBxOGdSeVJjWG5CYURERDhxelFuaWNmMDh4YkpkWmdlaVVfeS1LV3M0R01SYk9VSTFVdkFIYVduUktKS0x5SjhlUHJJLUhQRUJmSDBINVcxWF91aWMyM3dFbFEzX0oyanRRQkVFejhoZS1aeFhjQ1BlLUNn?oc=5)
+
+2026-07-29 <span class="news-indication-tag">cancer</span>
+
+來源：[RTBF](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3hQelNlLXQxN2FMckNWcEp5US0xZFdrOEFWRUpsbnZ0VFdPMVZlQmdDQUJOc0xUMk5YWS1YRWxhYmxmR0k5RVJKRk14U0FIV1hFRS1aSGFUbVJuMVktcHVVMnBxOGdSeVJjWG5CYURERDhxelFuaWNmMDh4YkpkWmdlaVVfeS1LV3M0R01SYk9VSTFVdkFIYVduUktKS0x5SjhlUHJJLUhQRUJmSDBINVcxWF91aWMyM3dFbFEzX0oyanRRQkVFejhoZS1aeFhjQ1BlLUNn?oc=5)
 
 ---
 
@@ -152,7 +160,7 @@ permalink: /news/tafasitamab/
 
 ### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
-2026-07-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-07-28 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
@@ -174,27 +182,11 @@ permalink: /news/tafasitamab/
 
 ---
 
-### [My son, 15, died of a silent cancer - docs dismissed only signs with antibiotics - The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
+### [My son, 15, died of a silent cancer - docs dismissed only signs with antibiotics](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
 
 2026-07-28 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
-
----
-
-### [Tumore al seno, testata la mastectomia robotica attraverso una sola incisione](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
-2026-07-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkswdThxaWx2Ukp6MzVHZHhvcFd1SDNjcDdZXy1wdjN6bVIzN1l5VlZfMmJTeU1MU1R1bFhrYm5kS0U3LUgxZGNYb210R19aTWZkZXBCbFBCNWtGUUREVHR0TkNnQkgxYVI1MWdOZjMxREJxYktsazVDbkZIczFnRlNubUg0VHdnMG9SNlFHTzV5SkNYblJGSU9sb1VpMDBHUUJFVHozS3lVY3JzY2Fya3A5Mk8taTFCdURxeEFkTWJqaVR6dUtKYjdUUUVHRjFSbXc?oc=5)
-
----
-
-### [Consumir más carne procesada aumenta el riesgo de cáncer gástrico y de esófago, según un estudio - Diario de Navarra](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZHdKa0Q0d1RGUmQ0QmYzVFdSODVZb2pmNTJHSkNMWlZVN2VyeHpvY0tSaHNScTdSV2dYaUpyREczcU85dEJ1XzJlb1JqMWdmQ2NTaFJRRXlMM3dtZ2ZZSTU0SGhQLTFfdG1mSFVxYTRmUlhnSllfZHZRWW9PZ1Z6RDR2VDl2S1E0czBxN2MzRkM2ODFkSTh5UkJZV0dyWFZ5Uk50MFBYSi1PeHZuT21uUlYzTFhzeDZjNTRHc0RIREpDUG80NmFqdmctb2lsNWtUcnNnMzNiX3Z6UjhnSlo1OGE5ZEdXZmJpc2c?oc=5)
-
-2026-07-28 <span class="news-indication-tag">tumor</span>
-
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZHdKa0Q0d1RGUmQ0QmYzVFdSODVZb2pmNTJHSkNMWlZVN2VyeHpvY0tSaHNScTdSV2dYaUpyREczcU85dEJ1XzJlb1JqMWdmQ2NTaFJRRXlMM3dtZ2ZZSTU0SGhQLTFfdG1mSFVxYTRmUlhnSllfZHZRWW9PZ1Z6RDR2VDl2S1E0czBxN2MzRkM2ODFkSTh5UkJZV0dyWFZ5Uk50MFBYSi1PeHZuT21uUlYzTFhzeDZjNTRHc0RIREpDUG80NmFqdmctb2lsNWtUcnNnMzNiX3Z6UjhnSlo1OGE5ZEdXZmJpc2c?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVLUE5LWmZfMFRxUWgwR0U3MzN2RFhwZ0kzTXYzUjZLejlhTU5wc3VmdVlVcGFJT3RPQmh1aElfWkV3T292VENWY2NnMmh5YTZBNXY4VEpYV2RnUXcweFVKWC1Qbmh6NjF5UG5rblM5em0xZXJsbFh4a2dyQ2FhUjNuNVdkZkt6?oc=5)
 
 ---
 
