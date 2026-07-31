@@ -14,7 +14,7 @@ permalink: /news/thalidomide/
 ---
 
 <p class="key-answer" data-question="Thalidomide 有什麼相關新聞？">
-<strong>Thalidomide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thalidomide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/thalidomide/
 <p><a href="{{ '/drugs/thalidomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（26 則）
 
-### [Viagra gegen Krebs? Was die neue Studie zu Sildenafil tatsächlich herausgefunden hat](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
+### [Científicos logran producir células inmunitarias capaces de atacar tumores - Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3h1R1Z3MlhzMUhNSUd2cXROZWVVd0pZVEk0UDh3VzFWbUxMaGJLLWxmVGlGM2hPbUlZQkZsUllXOFA0N2NfdG5BWEt1X1EycVZnNXYtSURUV3hyQWRmeDY0VjM3VE9JcTBVSnNwYnBxT0FkVkw1Wm9SdG9fNUFhcEtKNG5PekV5cGZGWVc2NXZMbXY1VlVPMGJHLVB0eDNPdWVmRnFmU0tyXzMzNGNkSXdGekdjR1M4UlRsTmRndHZaWi01MGJR0gHMAUFVX3lxTE9qbzBQOTN2Y1d4ZnVJNmU3eVJfeGN0QTFxQ1ZtbnpMbHJEMldGOUVQMk5aM19XeEhFeWx1UlNhYldhT2wwdml1b1l4eDlGeGhQMEVzR0tCUzY4QXRSUU5udjhJZDhOajVLeE1nLVVBcTMzY252MW9tbVl2VERENEk3WUFlVGs0OTNTWEViLVRaWGRfSUNPakk3VXVHcUZuY01DT3RpSk9jQ3dGMUNyay1pU3IwYXUwYS03aG5zdnJwenFCcnVnY2pLckZPaw?oc=5)
+
+2026-07-31 <span class="news-indication-tag">tumor</span>
+
+來源：[Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3h1R1Z3MlhzMUhNSUd2cXROZWVVd0pZVEk0UDh3VzFWbUxMaGJLLWxmVGlGM2hPbUlZQkZsUllXOFA0N2NfdG5BWEt1X1EycVZnNXYtSURUV3hyQWRmeDY0VjM3VE9JcTBVSnNwYnBxT0FkVkw1Wm9SdG9fNUFhcEtKNG5PekV5cGZGWVc2NXZMbXY1VlVPMGJHLVB0eDNPdWVmRnFmU0tyXzMzNGNkSXdGekdjR1M4UlRsTmRndHZaWi01MGJR0gHMAUFVX3lxTE9qbzBQOTN2Y1d4ZnVJNmU3eVJfeGN0QTFxQ1ZtbnpMbHJEMldGOUVQMk5aM19XeEhFeWx1UlNhYldhT2wwdml1b1l4eDlGeGhQMEVzR0tCUzY4QXRSUU5udjhJZDhOajVLeE1nLVVBcTMzY252MW9tbVl2VERENEk3WUFlVGs0OTNTWEViLVRaWGRfSUNPakk3VXVHcUZuY01DT3RpSk9jQ3dGMUNyay1pU3IwYXUwYS03aG5zdnJwenFCcnVnY2pLckZPaw?oc=5)
+
+---
+
+### [Immunvermittelte entzündliche Erkrankungen: Erhöhtes Risiko für HPV-bedingte Krebserkrankungen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeC1fVWhKWlBSdHE0eHcyLV91ZDJteFFsc05leHYxRllLQkhXRTdoTVpCZjBoSkxnTXhybWJ4cHJrZnotanNqR1E1U3RHa25EczhxcXlwVGtVY05OdURITEFmaUxPLXR0SVhXX3VmRVR6TkJrck1ZY3RscUpoQzM4bWxFTldVeGJnTFNXTnpmZmtuWEhDcVdkWHdXSWRZc2tfU3lPd2t1b1ZWZS1EclBhYlhfMXpPT19uLS1DX2RfWGlnZlcyQmhKVXFRVUNBR3FxMkh0NGU0dlVEY1hRXzRjQm02ODVNOXZhZXJMcC1EQXVDZmZl?oc=5)
+
+2026-07-31 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeC1fVWhKWlBSdHE0eHcyLV91ZDJteFFsc05leHYxRllLQkhXRTdoTVpCZjBoSkxnTXhybWJ4cHJrZnotanNqR1E1U3RHa25EczhxcXlwVGtVY05OdURITEFmaUxPLXR0SVhXX3VmRVR6TkJrck1ZY3RscUpoQzM4bWxFTldVeGJnTFNXTnpmZmtuWEhDcVdkWHdXSWRZc2tfU3lPd2t1b1ZWZS1EclBhYlhfMXpPT19uLS1DX2RfWGlnZlcyQmhKVXFRVUNBR3FxMkh0NGU0dlVEY1hRXzRjQm02ODVNOXZhZXJMcC1EQXVDZmZl?oc=5)
+
+---
+
+### [Viagra gegen Krebs? Was die neue Studie zu Sildenafil tatsächlich herausgefunden hat - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
 
 2026-07-31 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
 
 ---
 
@@ -67,6 +83,14 @@ permalink: /news/thalidomide/
 2026-07-31 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWRQWjVwMUJmWTRKeVNyYUMzTmxLQ2FOSWRjVjNVOVNRN2FtZ2FoektRY0s3MXZKWXZBbTl3akliSGdlUFhsZm1WV19ySHRrTGo3OFotSTBXZEp2dTVXU2hCamR3bzh3R0g2RU4wRkJobjVybi1JdUlCSXpGVW5xcUxKbEIzNmNxbXRlVC1IVkhaMUJ0WTljNUNsZ3cxTWc1LXZSOHNURFI4cExiLWxRV0x6RlJCMi04b24zNDk0THllTGJORzgzRTd6cnBPLUlPc0ozZ281dXItN3Z4Q1E?oc=5)
+
+---
+
+### [Rheumatoide Arthritis begünstigt Rachenkrebs](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
+
+2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
+
+來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 ---
 
@@ -86,17 +110,25 @@ permalink: /news/thalidomide/
 
 ---
 
-### [Südtiroler Krebshilfe appelliert: „Jeder Atemzug zählt“ - Südtirol News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDY3MGdqLU9hc0pkcFZlbGxycnlRYkJZTHk5YWEzWEtoR1FIeE83Y3EzbjBmVVZsUkl1LURtQ1hheTFhNUVKemUtRzZnNE5IMjRYT29lcHEtMUxxYjQ0WWExQWxaa01DdTlfeFBDVWtaMW9EVDhlTy1kWXVpVlpTUGNEZ2V6Z25URDl5MWd5UnVUeWhMNmc?oc=5)
+### [Horror as fourth contagious flesh-eating cancer discovered – killed 38,000 animals - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1VhV1RkSHRZRFZaMGtzaUJBcm1ZRGJEWlVuR1hUQ2lQYmdxYzBZc0ZJcExHNkVlVndrTlhQV0ZBdHpFcmJzSmdkSXRaUi1sZXcxUzJvYWtlSGpvQUhnQ0phS0t5SFJYaHBWaTRjYjYyWFZzWTVqMFF4VUhKcEs4c3RDRU5aQ3JWTlhvUndTWDFabGfSAZgBQVVfeXFMTnlzdEdGbzRVa1k2X2o3OWJnWUs5WVdwZ3FKWWx0Q1ZqaWE1WGg2YTUzU3lmbjY0QWFoTHBxLXREUk9nNXpHdnBaWkhtVVBWNmVXU1FOTUFoOFR0eFhwNEJGSklGRzNkdzVpWHdZXzFhbW9TQ3gxckhkSTFSaDVnaXhILVNfekNZdXMybHgyUGdyeXV4bnZjelg?oc=5)
+
+2026-07-31 <span class="news-indication-tag">cancer</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1VhV1RkSHRZRFZaMGtzaUJBcm1ZRGJEWlVuR1hUQ2lQYmdxYzBZc0ZJcExHNkVlVndrTlhQV0ZBdHpFcmJzSmdkSXRaUi1sZXcxUzJvYWtlSGpvQUhnQ0phS0t5SFJYaHBWaTRjYjYyWFZzWTVqMFF4VUhKcEs4c3RDRU5aQ3JWTlhvUndTWDFabGfSAZgBQVVfeXFMTnlzdEdGbzRVa1k2X2o3OWJnWUs5WVdwZ3FKWWx0Q1ZqaWE1WGg2YTUzU3lmbjY0QWFoTHBxLXREUk9nNXpHdnBaWkhtVVBWNmVXU1FOTUFoOFR0eFhwNEJGSklGRzNkdzVpWHdZXzFhbW9TQ3gxckhkSTFSaDVnaXhILVNfekNZdXMybHgyUGdyeXV4bnZjelg?oc=5)
+
+---
+
+### [Südtiroler Krebshilfe appelliert: „Jeder Atemzug zählt“](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDY3MGdqLU9hc0pkcFZlbGxycnlRYkJZTHk5YWEzWEtoR1FIeE83Y3EzbjBmVVZsUkl1LURtQ1hheTFhNUVKemUtRzZnNE5IMjRYT29lcHEtMUxxYjQ0WWExQWxaa01DdTlfeFBDVWtaMW9EVDhlTy1kWXVpVlpTUGNEZ2V6Z25URDl5MWd5UnVUeWhMNmc?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span>
 
-來源：[Südtirol News](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDY3MGdqLU9hc0pkcFZlbGxycnlRYkJZTHk5YWEzWEtoR1FIeE83Y3EzbjBmVVZsUkl1LURtQ1hheTFhNUVKemUtRzZnNE5IMjRYT29lcHEtMUxxYjQ0WWExQWxaa01DdTlfeFBDVWtaMW9EVDhlTy1kWXVpVlpTUGNEZ2V6Z25URDl5MWd5UnVUeWhMNmc?oc=5)
+來源：[suedtirolnews.it](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDY3MGdqLU9hc0pkcFZlbGxycnlRYkJZTHk5YWEzWEtoR1FIeE83Y3EzbjBmVVZsUkl1LURtQ1hheTFhNUVKemUtRzZnNE5IMjRYT29lcHEtMUxxYjQ0WWExQWxaa01DdTlfeFBDVWtaMW9EVDhlTy1kWXVpVlpTUGNEZ2V6Z25URDl5MWd5UnVUeWhMNmc?oc=5)
 
 ---
 
 ### [Allergien vorbeugen? Studie identifiziert erstmals schützende Bauernhof-Bakterien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
 
-2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
 
@@ -118,19 +150,19 @@ permalink: /news/thalidomide/
 
 ---
 
+### [Tumori, invecchiamento e demenze: la riprogrammazione cellulare è la nuova frontiera della medicina](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQTNmWXVHZDR0THV3ZjlkTjdJQzFIbDVvUlBvcV90ejBodjR6ODE5cklzbTlKRTVHWFdGX24yY3pVZFRselF4SzM5OXRzNzY4WS1OMGhNOEtEdHpQQ3A3djhpaXl0eWdpckFqVmd0Z0h6R1Z2a0RrWmJobTJNTTJIVmZNLTVoazVhSXM4Z25zSnVmS0xzdEhRQW9PTG1XZ0RGU2JPckJ5NHFhY1NRUDdxR3ZSeTVLRXRtMW9TclFWZ2d3dlF0Zm00bW0wWWlWUnBFZU5UNmt0djlHQ09GbmJpOFVQTGV3SXkzalREVF9n?oc=5)
+
+2026-07-31 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQTNmWXVHZDR0THV3ZjlkTjdJQzFIbDVvUlBvcV90ejBodjR6ODE5cklzbTlKRTVHWFdGX24yY3pVZFRselF4SzM5OXRzNzY4WS1OMGhNOEtEdHpQQ3A3djhpaXl0eWdpckFqVmd0Z0h6R1Z2a0RrWmJobTJNTTJIVmZNLTVoazVhSXM4Z25zSnVmS0xzdEhRQW9PTG1XZ0RGU2JPckJ5NHFhY1NRUDdxR3ZSeTVLRXRtMW9TclFWZ2d3dlF0Zm00bW0wWWlWUnBFZU5UNmt0djlHQ09GbmJpOFVQTGV3SXkzalREVF9n?oc=5)
+
+---
+
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
 2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
-
----
-
-### [L'immortalità esiste ma è cellulare: come il cancro sta insegnando alla medicina a rigenerare organi e tessuti](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeWpmcklqb29ZMkNKWDRNU2xMb0d3eUt5Q0xkaGVvUEhjSVN6aElkSVhmWnZ2SzRwcGNjX2VSbXVRRFN2U25kdDI5RzE3YWU2c3ZyOTFLUTJkTWs2WVpIUWJyeWxnbTNQNUktYUxqUXRVVFRtUE13R2ZsenYteUo1YnBMSEZkUEhTbTkyLVQwQkw4NXA1ODdwVzRjQkp2R2VTTHZBN2NjZjR1RktoZkZDUUNsbUFXYTJEdk1iaXl1cW9BRFFRTVBubHlpa3ozX2QweGF3aDg3UWo4SW91ZU8xOHpuUFBkUHd0SFFCS2NLLU1sX1lJMy1PZkpIWkgwZw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">cancro</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeWpmcklqb29ZMkNKWDRNU2xMb0d3eUt5Q0xkaGVvUEhjSVN6aElkSVhmWnZ2SzRwcGNjX2VSbXVRRFN2U25kdDI5RzE3YWU2c3ZyOTFLUTJkTWs2WVpIUWJyeWxnbTNQNUktYUxqUXRVVFRtUE13R2ZsenYteUo1YnBMSEZkUEhTbTkyLVQwQkw4NXA1ODdwVzRjQkp2R2VTTHZBN2NjZjR1RktoZkZDUUNsbUFXYTJEdk1iaXl1cW9BRFFRTVBubHlpa3ozX2QweGF3aDg3UWo4SW91ZU8xOHpuUFBkUHd0SFFCS2NLLU1sX1lJMy1PZkpIWkgwZw?oc=5)
 
 ---
 
@@ -158,11 +190,11 @@ permalink: /news/thalidomide/
 
 ---
 
-### [A 34 ans, il pensait être simplement fatigué : ses maux de tête persistants cachaient en fait un cancer du cerveau incurable](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
+### [A 34 ans, il pensait être simplement fatigué : ses maux de tête persistants cachaient en fait un cancer du cerveau incurable - Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
 
 2026-07-30 <span class="news-indication-tag">cancer</span>
 
-來源：[midilibre.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
 
 ---
 
@@ -190,6 +222,14 @@ permalink: /news/thalidomide/
 
 ---
 
+### [Deadly mold infections may be far more common than doctors realized, CDC study finds - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxON1UzMGF4RVdCNG9rYjFJclczdFB2RTl4c1h5YXF4UEl2emZZX1pqSVRaZDd4UDhidGY1THpWc0N5anhyZHN6QVBQXzAzUVk5cFdOYjZ4MFhoYUM4aURCSmNmZ21EdnZHanVGQXcyZm1rNURFaGY1aldhZGo3V3ozQjVHX0F1Q3lQblFxV2hsdEtKakMydVAwWW8yZjBSN20ydHVmU1lzXzhtWVlSQ3EtQnpxMVo?oc=5)
+
+2026-07-30 <span class="news-indication-tag">cancer</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxON1UzMGF4RVdCNG9rYjFJclczdFB2RTl4c1h5YXF4UEl2emZZX1pqSVRaZDd4UDhidGY1THpWc0N5anhyZHN6QVBQXzAzUVk5cFdOYjZ4MFhoYUM4aURCSmNmZ21EdnZHanVGQXcyZm1rNURFaGY1aldhZGo3V3ozQjVHX0F1Q3lQblFxV2hsdEtKakMydVAwWW8yZjBSN20ydHVmU1lzXzhtWVlSQ3EtQnpxMVo?oc=5)
+
+---
+
 ### [Filterkaffee oder Instant? Studie zeigt Unterschiede beim biologischen Alter je nach Kaffee](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGFHMW1KdWdWeEZqNktwRDFXV2xzLW1iQVAzWjRxTmg4YWZoU2ZnelRIRnJLZ19sblZfUFhSTklXLU41ZkdSY0p1UVhyRG5pOWEwWXZjVGhnR0xRb0lDRGE2Q2ZEOEtnMTZxLVZZb2hBNGF1d19VUzJFdGJmZWJYdTdTR2NqUzJ0RnRXS1p0alhrdkk3eE1jMk5UMl94V2pxMWlOMkRrS3hqR3FMcDZ5eThBVXdtQmlxelJQdHhGMUFZSG53?oc=5)
 
 2026-07-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
@@ -214,19 +254,11 @@ permalink: /news/thalidomide/
 
 ---
 
-### [Un batterio intestinale aiuta il sistema immunitario a combattere il melanoma](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
+### [Modificar el ARN para tratar y frenar el cáncer de próstata](https://news.google.com/rss/articles/CBMilAFBVV95cUxOejFoR0pNc09zVzNtUW1hQ0MxNnRRekN2SUNGTk5CNWM0Z3MzWWpUSlE0aGdONG85RElVQ01rcy11S3A2S082cHdnY0xCWVowZ1cyQlQyRHpUejg0QWlBU29nUllLVWthS2JqRTNtM1NPVTdhNk4tTHZrMU5xMG5wRzZwRm1EYWlLNWdzM25RQlNHdDVl?oc=5)
 
-2026-07-29 <span class="news-indication-tag">tumor</span>
+2026-07-30 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2RhOTRmY1kwVkc3bDBHNk1nSW52VWIzSV9IZ1pSbkE4MVpEdm5yQTd2Y3Rtb2wza2dnSml1eXBfREQyTEdJRTE4TTdyVkxyaV9idFoxYnpjQlZmNTBEay1uZExIeWhObkVMTDE3Vzg0czZhcHh6T3drZmZSRVQyaUhYU2xMa0lGUkc4ek5TUGtoTVg0eVJObDNrV0E2Vk1rWEpRYkRIUVBJNFkzcUM1a212X0ExWFdwZG4zRlU2dWI3YWpnTEt5WjlVQjVtTkVXbnQ4?oc=5)
-
----
-
-### [‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence - Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
-
-2026-07-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
+來源：[Geriatricarea](https://news.google.com/rss/articles/CBMilAFBVV95cUxOejFoR0pNc09zVzNtUW1hQ0MxNnRRekN2SUNGTk5CNWM0Z3MzWWpUSlE0aGdONG85RElVQ01rcy11S3A2S082cHdnY0xCWVowZ1cyQlQyRHpUejg0QWlBU29nUllLVWthS2JqRTNtM1NPVTdhNk4tTHZrMU5xMG5wRzZwRm1EYWlLNWdzM25RQlNHdDVl?oc=5)
 
 ---
 

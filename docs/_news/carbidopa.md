@@ -67,6 +67,14 @@ permalink: /news/carbidopa/
 
 ---
 
+### [How to avoid the sugar hiding in your child’s ‘healthy’ diet - The Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxQa3c5VG1aRHdWcGhrOURLb2NzQjFOelRKT0hiQ3NzbzE4cWlfRndGbTYxaVRFVm9KUWMtb3ZhSzRrOHVJcVBQbjhqX1hkZ0VrUVVNOGdncjZjclg1UEdkVmRZb0U4aGtveThUM0VaTFdJc21yTndxUm5NLUswV2x4bFBqaC1KVlQwYUE?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxQa3c5VG1aRHdWcGhrOURLb2NzQjFOelRKT0hiQ3NzbzE4cWlfRndGbTYxaVRFVm9KUWMtb3ZhSzRrOHVJcVBQbjhqX1hkZ0VrUVVNOGdncjZjclg1UEdkVmRZb0U4aGtveThUM0VaTFdJc21yTndxUm5NLUswV2x4bFBqaC1KVlQwYUE?oc=5)
+
+---
+
 ### [Kann Vitamin D vor Demenz schützen? Studie liefert spannende Hinweise - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnc0SGtjeFdkOThwU2N4ODRycHM1S21QbUJOMks0eGw4YmpucnF0bVdrZTJDVmxpVmVqSnZqb2tsUEtOVy12VmZPVzRmTmltYTJaRy1HM053QVRIblZWejB4eE9mNTN0SXVVaTdxOE5oVnB5TnBXaHVreUczeEpRel9WTEpBd0FkRTJtbEpPQkJ1Tl9CM0lYVnVnSk9IWi1BNUZpNkMtX05zVEhheEl5aTZCZEdQbzctRGtIY1BTUGgzLUh5QTJlaVh5emg0Zw?oc=5)
 
 2026-07-30 <span class="news-indication-tag">Alzheimer-Krankheit</span>
@@ -75,19 +83,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [Des chercheurs japonais identifient un germe possiblement à l’origine de la maladie d’Alzheimer](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFNUZzg4Ti1ucUktakc4bzZfLXoyTkpPUlFvUWZxSjhfX3RuX2dOTXdGSTQ2SkhwU2V5UkxCYWZSQ0pNUkhRa2FJaURXdE9IcGZtSW5rR1E2Yk1ZUUplY096TzFIOFVQYmlvX3VRNzh4UnJCV3RhUkhIM1RJRlhsZVlsaDItNkUyX1F5WEwwREd3cGduMXJKR1hiYjFGVmdONElkaGRFb3QxdTY3Q0VIU3EyTzEwRUpuNy1Xd01xOXpYdXA0amtHNktXSENWTGpX?oc=5)
+### [Alzheimer : des scientifiques ont potentiellement trouvé le germe à l'origine de la maladie](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
 
 2026-07-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[L'Humanité](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFNUZzg4Ti1ucUktakc4bzZfLXoyTkpPUlFvUWZxSjhfX3RuX2dOTXdGSTQ2SkhwU2V5UkxCYWZSQ0pNUkhRa2FJaURXdE9IcGZtSW5rR1E2Yk1ZUUplY096TzFIOFVQYmlvX3VRNzh4UnJCV3RhUkhIM1RJRlhsZVlsaDItNkUyX1F5WEwwREd3cGduMXJKR1hiYjFGVmdONElkaGRFb3QxdTY3Q0VIU3EyTzEwRUpuNy1Xd01xOXpYdXA0amtHNktXSENWTGpX?oc=5)
-
----
-
-### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
 
 ---
 

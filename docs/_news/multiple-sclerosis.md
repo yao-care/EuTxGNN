@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。17 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。18 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>17 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>18 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,29 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（17 則）
+## 相關新聞（18 則）
 
-### [Viagra gegen Krebs? Was die neue Studie zu Sildenafil tatsächlich herausgefunden hat](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
+### [Reizdarmsyndrom IBS-D: Nabelschnur-Stammzellen mit Therapie-Potenzial](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1hxQmhMZnczbDFsSTJBeHlvNVBJSjlBd2htSk1WVmlybGpyeUZnY3hDaFdIQU1FTWI0ckw2bFZ0WVItRWpNZElwQksxMU5zOGZITEtjYUptVkZMb0FSTTc3X0ZVQm1Rdm5qVWtVZzNFN2FuMmg5TVVfdEYyUnNCRnBJdVhGRmlGc1FBYk9HYzNnTVRpeGVVckVpZWJEUE9mNkE?oc=5)
 
 2026-07-31
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1hxQmhMZnczbDFsSTJBeHlvNVBJSjlBd2htSk1WVmlybGpyeUZnY3hDaFdIQU1FTWI0ckw2bFZ0WVItRWpNZElwQksxMU5zOGZITEtjYUptVkZMb0FSTTc3X0ZVQm1Rdm5qVWtVZzNFN2FuMmg5TVVfdEYyUnNCRnBJdVhGRmlGc1FBYk9HYzNnTVRpeGVVckVpZWJEUE9mNkE?oc=5)
+
+---
+
+### [Los tratamientos de acción prolongada marcan el futuro del VIH - Redacción médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHhSSE9uTnlxckh3SVZaZkFRaTZxSmF3dVpUNV9ieFlnbFFNRVFTN1YzOHpkaVJfdklmUzR5bVpyZ2lwNmxZZEhMdllkak41UDBreGpJWE9DR1JmNmEzLXcwdVo5N01neFk1ek1Pa25LZkY2d1hHMDc1OFE5V0NWbjU1aHFVcEdacGx5Q21ITGhBTkV5SDdUeU93VWhiRFB4eUVkNmk3MW9MMnpLSWw5SVVycm5aRHNrNldmOXZPOGN5VE1zbUg00gHMAUFVX3lxTE1WV1NCbWczdThTNUk3U2xic0RncHVtc2tzVWxDb0lmNUxTaHBWak9BZWN3ck5EdDZ5WHVyWUw0SmRKajZNbTY2d0p6LUw5S3ZnNU9kZTJqQmZPY3JQZzFQSjdtMTFxX3I2bUw4YVN3eElVckFBMjI1NW42VkpfREpLelpQbmpYeDU4c2hrbkp0dUlrUEcxY0ljLTBkLVpwb19Zb0xjeUI5d3hVdjJZRzlxMTNqcTBRdDg2RGpUaWlOS2JmbG5TVVBOUEl6cw?oc=5)
+
+2026-07-31
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHhSSE9uTnlxckh3SVZaZkFRaTZxSmF3dVpUNV9ieFlnbFFNRVFTN1YzOHpkaVJfdklmUzR5bVpyZ2lwNmxZZEhMdllkak41UDBreGpJWE9DR1JmNmEzLXcwdVo5N01neFk1ek1Pa25LZkY2d1hHMDc1OFE5V0NWbjU1aHFVcEdacGx5Q21ITGhBTkV5SDdUeU93VWhiRFB4eUVkNmk3MW9MMnpLSWw5SVVycm5aRHNrNldmOXZPOGN5VE1zbUg00gHMAUFVX3lxTE1WV1NCbWczdThTNUk3U2xic0RncHVtc2tzVWxDb0lmNUxTaHBWak9BZWN3ck5EdDZ5WHVyWUw0SmRKajZNbTY2d0p6LUw5S3ZnNU9kZTJqQmZPY3JQZzFQSjdtMTFxX3I2bUw4YVN3eElVckFBMjI1NW42VkpfREpLelpQbmpYeDU4c2hrbkp0dUlrUEcxY0ljLTBkLVpwb19Zb0xjeUI5d3hVdjJZRzlxMTNqcTBRdDg2RGpUaWlOS2JmbG5TVVBOUEl6cw?oc=5)
+
+---
+
+### [Viagra gegen Krebs? Was die neue Studie zu Sildenafil tatsächlich herausgefunden hat - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
+
+2026-07-31
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
 
 ---
 
@@ -72,11 +88,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [La OMS alerta de la expansión del ébola mientras la RDC combate cuatro epidemias a la vez](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeVAzS3NUUW8tNEZqcFByMFRReU5TMjV6MkxhOTZKQlpNQm1aSmRZVUNUVVFscmJzX1VPVUJ5bk5OWFZ5RFZZZmxnMXZXOUpvSTRLdjN0WHZKNHk0UGo2NVZqZVFCOXNPcGRWeHIyTXBlTGR0S0ItVEFkSjR5M2tDYk5CMTN2b1dNYldzbGQydGYtQ0lpZ1l5OV9RR0NSNW8tZERMUkptVjJxUkQzUWx0UWtoX3cxZXQzeWZfSTNFMTJfVS1uTHROUThhNktSOWhLZWpQOGc1am11TE0zVFUwVFktWmUxYUU?oc=5)
+### [Allergien vorbeugen? Studie identifiziert erstmals schützende Bauernhof-Bakterien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
 
 2026-07-31
 
-來源：[cvongd.org](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeVAzS3NUUW8tNEZqcFByMFRReU5TMjV6MkxhOTZKQlpNQm1aSmRZVUNUVVFscmJzX1VPVUJ5bk5OWFZ5RFZZZmxnMXZXOUpvSTRLdjN0WHZKNHk0UGo2NVZqZVFCOXNPcGRWeHIyTXBlTGR0S0ItVEFkSjR5M2tDYk5CMTN2b1dNYldzbGQydGYtQ0lpZ1l5OV9RR0NSNW8tZERMUkptVjJxUkQzUWx0UWtoX3cxZXQzeWZfSTNFMTJfVS1uTHROUThhNktSOWhLZWpQOGc1am11TE0zVFUwVFktWmUxYUU?oc=5)
+來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
+
+---
+
+### [Killer diseases rising in European - from swimming parasite to diarrhoea bug](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaElzQWgtZVFDYnYyOGFsN2dCNTRrSWlBYUZJWjdrZWZ4SjFJc2YzazJvRDJIN3NmREk0YlktNy1FR3lEMVppdGtaOXZCNl9tajNBT19fV0xBZ2cwWWdlRjJRMGp3LUdXS2xSdVh3UEJRRUVVWUowR3gwdWc3bDZndTEtam45QVpnRGl4S2U5TU81MWg2aXdqcEJCZ2o?oc=5)
+
+2026-07-31
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaElzQWgtZVFDYnYyOGFsN2dCNTRrSWlBYUZJWjdrZWZ4SjFJc2YzazJvRDJIN3NmREk0YlktNy1FR3lEMVppdGtaOXZCNl9tajNBT19fV0xBZ2cwWWdlRjJRMGp3LUdXS2xSdVh3UEJRRUVVWUowR3gwdWc3bDZndTEtam45QVpnRGl4S2U5TU81MWg2aXdqcEJCZ2o?oc=5)
+
+---
+
+### [Europe's youth is getting weaker, study finds](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWZHbVFzOEU5WktZYUlOcnNNQWpKOXlfX181Y3lfSlhtZmV2Q01ybzJ0cUt0LVhua2VDVDZJS3k5SE4wZ1NlZldkY1Vja2dCcWg2U3BGeUpqdHVOSGhQWV9IZjNkcFdOb2d0d1RLQi1CeWF6Q3RxZTd5RzVlSXlpOFd4Wng5LTNrNG1BMVlJNHJVeFdJemZ5WG54TXFaZXpVN0h1aEFR?oc=5)
+
+2026-07-31
+
+來源：[euronews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWZHbVFzOEU5WktZYUlOcnNNQWpKOXlfX181Y3lfSlhtZmV2Q01ybzJ0cUt0LVhua2VDVDZJS3k5SE4wZ1NlZldkY1Vja2dCcWg2U3BGeUpqdHVOSGhQWV9IZjNkcFdOb2d0d1RLQi1CeWF6Q3RxZTd5RzVlSXlpOFd4Wng5LTNrNG1BMVlJNHJVeFdJemZ5WG54TXFaZXpVN0h1aEFR?oc=5)
 
 ---
 
@@ -88,11 +120,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [WHO fordert mehr Tests und Therapien gegen chronische Hepatitis B und C - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+### [Scientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours](https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlQZ05WMUVORWNJYkduM0ZueEwxU28zb2xFQmUwb1BYWmtQdnBTNHRrdTRJSGVzVjVLbE5nQnEyaUJKakxQWExBbHBEOGtzeldieV9kNk81TzBvN0VsZ0IwbExocDlMWG5JVmtqUU1RcWx4LXlYM1haeTg2WjR5VkRFeFpsVEd6aWxLSHNMRlJwUDlQeThTVndkaW5EZw?oc=5)
 
 2026-07-30
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlQZ05WMUVORWNJYkduM0ZueEwxU28zb2xFQmUwb1BYWmtQdnBTNHRrdTRJSGVzVjVLbE5nQnEyaUJKakxQWExBbHBEOGtzeldieV9kNk81TzBvN0VsZ0IwbExocDlMWG5JVmtqUU1RcWx4LXlYM1haeTg2WjR5VkRFeFpsVEd6aWxLSHNMRlJwUDlQeThTVndkaW5EZw?oc=5)
+
+---
+
+### [Darmflora: Wearables erkennen Schübe bis zu sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
+
+2026-07-30
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
 
 ---
 
@@ -101,14 +141,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-30
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
-
----
-
-### [Darmmikrobiom und Antikörper: Signale für Morbus Crohn, MS und Lupus - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVl9jNTZQWVN6U3dhVEltTE8xaTd0VHhZbWVFVE9lX1A2ZXdibF9rNUYwclotVUl0QlRpc3g2MmFxREZsa2NuZVBsQkpZRTFDdmk0MWl6RWpSeVVMNWJUVV9XTGozUGhTMjV6bTV2cGZta3BUVnVlUjQyN2E3ZVZ5WjQ5RE5GQzNVM0g2YWxXbzByeWN3NE9JNjBaVVRWS1lrZlE?oc=5)
-
-2026-07-30
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPVl9jNTZQWVN6U3dhVEltTE8xaTd0VHhZbWVFVE9lX1A2ZXdibF9rNUYwclotVUl0QlRpc3g2MmFxREZsa2NuZVBsQkpZRTFDdmk0MWl6RWpSeVVMNWJUVV9XTGozUGhTMjV6bTV2cGZta3BUVnVlUjQyN2E3ZVZ5WjQ5RE5GQzNVM0g2YWxXbzByeWN3NE9JNjBaVVRWS1lrZlE?oc=5)
 
 ---
 
@@ -128,11 +160,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Sleeping with a fan on – the dos and don’ts according to an expert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHc2bDhfOTNJWWFlZkxPNmE5MnFDTnBiNVJ5a1hoVzhPYWFRVnNNMldsS3dYX2pZc0RYODZDMEhNcDRHbjZrYlVLRDM5RTFTeVBmdkxDbUdLeTZ6ZlYzVmFiaW0yTFBZVG9GeFpiWFl2bWhxS01rYlBNZGNQT2lWZld6bmdQOTItekVBa1lCdjEwUFE?oc=5)
+### [Sleeping with a fan on – the dos and don’ts according to an expert - The Independent](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHc2bDhfOTNJWWFlZkxPNmE5MnFDTnBiNVJ5a1hoVzhPYWFRVnNNMldsS3dYX2pZc0RYODZDMEhNcDRHbjZrYlVLRDM5RTFTeVBmdkxDbUdLeTZ6ZlYzVmFiaW0yTFBZVG9GeFpiWFl2bWhxS01rYlBNZGNQT2lWZld6bmdQOTItekVBa1lCdjEwUFE?oc=5)
 
 2026-07-30
 
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHc2bDhfOTNJWWFlZkxPNmE5MnFDTnBiNVJ5a1hoVzhPYWFRVnNNMldsS3dYX2pZc0RYODZDMEhNcDRHbjZrYlVLRDM5RTFTeVBmdkxDbUdLeTZ6ZlYzVmFiaW0yTFBZVG9GeFpiWFl2bWhxS01rYlBNZGNQT2lWZld6bmdQOTItekVBa1lCdjEwUFE?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHc2bDhfOTNJWWFlZkxPNmE5MnFDTnBiNVJ5a1hoVzhPYWFRVnNNMldsS3dYX2pZc0RYODZDMEhNcDRHbjZrYlVLRDM5RTFTeVBmdkxDbUdLeTZ6ZlYzVmFiaW0yTFBZVG9GeFpiWFl2bWhxS01rYlBNZGNQT2lWZld6bmdQOTItekVBa1lCdjEwUFE?oc=5)
 
 ---
 
@@ -144,19 +176,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Multiple Sklerose: Diese Darmbakterien können schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+### [Multiple Sklerose: Spezifische Darmbakterien senken Erkrankungsrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnF5VkxzMzJjU29kYk1PWjhUZ1JrVDFsQ2RULXl3eVZZVTN3NGVhMEZ6WEEwNFdIUFFGVXBzY1RoU2dKdU1yUDZvTjRwUFBCUVdUb3M4V09sN29RZnhSTVJCbXExc01qYjFHeklpNm12MXkzRGFHUVBabUF1Z045VGJUSnQ2TUJhbDNDVUJvcVVhd3lUMUExX1c3TXA3aUdLZ1BuMmdzWkNKVVh6bjMxLUo1TU01ejRS?oc=5)
 
 2026-07-30
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnF5VkxzMzJjU29kYk1PWjhUZ1JrVDFsQ2RULXl3eVZZVTN3NGVhMEZ6WEEwNFdIUFFGVXBzY1RoU2dKdU1yUDZvTjRwUFBCUVdUb3M4V09sN29RZnhSTVJCbXExc01qYjFHeklpNm12MXkzRGFHUVBabUF1Z045VGJUSnQ2TUJhbDNDVUJvcVVhd3lUMUExX1c3TXA3aUdLZ1BuMmdzWkNKVVh6bjMxLUo1TU01ejRS?oc=5)
 
 ---
 
-### [A new MS drug changed my life in just two weeks - The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
+### [A new MS drug changed my life in just two weeks](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
 
 2026-07-30
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjJxUG5IQ25BY0kwY2RKYVF5LWo5ODJoejRDVk5wTU1kVUhXYzF6MVZ1M2J0OXV6RlJMODhnRmdVUWw5eUNva3hEeHhtUUNYYnE4ZGY2ZzEzdW03WTZRckFmWFkzRDZLSExRR0tlRGpVd0Nqd01MeHpST2NGUzJRQ3BBZHp1YlROeFlvWnNDNUtqSVFyR3lMckw3NkJ3bnNrVE1abw?oc=5)
 
 ---
 
@@ -165,30 +197,6 @@ permalink: /news/multiple-sclerosis/
 2026-07-30
 
 來源：[devonlive.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
-
----
-
-### [This is why it seems like everyone has ADHD right now — including you](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHNIUURWbXIwS21aV19KX0w5X0NDMU9xdE9JOHE0elU2U1ZPcHJfd19kcGdFV1RIR3ROTUN4NWJFZndlRHFuam9Ba2ZFR2t1WkZqd0JCZ0s3MTlaUWxLMUZsdFc2dkhJNXM1Z3pfc3U3ZVNNbEx4QkU2VWE3R3FwVExxZ2s0ZDN1a3dscXRweDFBbXhMdFQyeDlLY25yNjdSSDdoQnd4b2NqS1Ra0gGyAUFVX3lxTE5yVVJvZVdqcFVWVEFQQ09ZR3ZWZHA5UTN4b25ybW9BYVA3VEIyR0t5U2gwUHJQcmE3WGJjWkFiSkRDRFpFMFIxMTlPVjR0bHZINkdQUmVpNU1HS2FYZXFkNHpRSmFsQWh0dWdkQmd1RnFUZUdmZXhDWGwtb2JVQUtZWUpUWDNwNUJQUDJWV284SFZTOU1xdFVKR2drRE9OdHF2ZFMtcnhGVDBBMi1wRWw3WVE?oc=5)
-
-2026-07-29
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHNIUURWbXIwS21aV19KX0w5X0NDMU9xdE9JOHE0elU2U1ZPcHJfd19kcGdFV1RIR3ROTUN4NWJFZndlRHFuam9Ba2ZFR2t1WkZqd0JCZ0s3MTlaUWxLMUZsdFc2dkhJNXM1Z3pfc3U3ZVNNbEx4QkU2VWE3R3FwVExxZ2s0ZDN1a3dscXRweDFBbXhMdFQyeDlLY25yNjdSSDdoQnd4b2NqS1Ra0gGyAUFVX3lxTE5yVVJvZVdqcFVWVEFQQ09ZR3ZWZHA5UTN4b25ybW9BYVA3VEIyR0t5U2gwUHJQcmE3WGJjWkFiSkRDRFpFMFIxMTlPVjR0bHZINkdQUmVpNU1HS2FYZXFkNHpRSmFsQWh0dWdkQmd1RnFUZUdmZXhDWGwtb2JVQUtZWUpUWDNwNUJQUDJWV284SFZTOU1xdFVKR2drRE9OdHF2ZFMtcnhGVDBBMi1wRWw3WVE?oc=5)
-
----
-
-### [El virus del Nilo vuelve a extenderse en España: por qué el calor y los mosquitos están detrás del aumento de casos - Meteored España](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPampybVZScFh5bHVxUTVQa1YtZVltb3lpLUxod1J2QzJQMmhpY1VoTmdFUWRVSUpSNXhYWWxKNm9Sa29FWXBuRzJSNTdwUkpYWXV2dG04Vk1KSUxKNUJDbzZ3WmtvVHlNOWd0TlVocjNweVBIdjBneTZVcmtkVWZtY0lBTnI0UE9iU0dhV1NReGtsRFgxNDBVZ2Nxa1RacDhNWDhwczFWeXRPMUVIZjBQS0J6YUZkV3VlZVZaNktJMU5xVHpDNXRnUFZoaHRVaGE0Y3JtWC1pN3pZYXNLOFJQQW1XanZ3VG9aZ0hYY2M0UmVQUXJh?oc=5)
-
-2026-07-29
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPampybVZScFh5bHVxUTVQa1YtZVltb3lpLUxod1J2QzJQMmhpY1VoTmdFUWRVSUpSNXhYWWxKNm9Sa29FWXBuRzJSNTdwUkpYWXV2dG04Vk1KSUxKNUJDbzZ3WmtvVHlNOWd0TlVocjNweVBIdjBneTZVcmtkVWZtY0lBTnI0UE9iU0dhV1NReGtsRFgxNDBVZ2Nxa1RacDhNWDhwczFWeXRPMUVIZjBQS0J6YUZkV3VlZVZaNktJMU5xVHpDNXRnUFZoaHRVaGE0Y3JtWC1pN3pZYXNLOFJQQW1XanZ3VG9aZ0hYY2M0UmVQUXJh?oc=5)
-
----
-
-### [Diabetes-Remission: Lebensstiländerung senkt Nierenerkrankungsrisiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
-
-2026-07-29
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
 
 ---
 

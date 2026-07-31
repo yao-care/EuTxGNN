@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Un consenso europeo pone límites al uso aislado de los fármacos antiobesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOERMMk1GRlUwWFNXdDF6dFFMd3V6MzBwVTg4NkdpMnNOaG9mQjBESnljbjJWU0UtWVM4MnV2ZnE3cUhHa3hmS1A0emR6Y1dQWGhWUTVrV2UxNWlkN3FkNlZ5WUY0aDN6bWdXZi1NWTRvYlJxYXlfaVpPMWJSR2ptbFVuX09HSGM2N2RFVmRrT01HSnQwdU5Yd1dvWmxDMTc0aVVLc3ZtaWlHNVNlM20xYjU5YmNJUWI3RXd0bWNvQnbSAbsBQVVfeXFMUEl5cmNLTnF6QmJIeUhkLVpENHl3RkJfczEycWxYZmpxclZCZGNkRzl1T0pfekUwN1hoRmhDVTBNQ1dKb1pnN0xhMFVRTEpsTEdpR3UzQlN2UDFXSm9CQ2tlRUlLdWRsbHpJeTdmXzZyeElsZkZ5SDZscWxQTFBfRGNLYlozSXpkR3dZVm85Q1ZFSWlnZTJNNlVCZnZJc0hnakxOaTBZT1lMUHA2aFBieDJldFVnLTJONVp6cw?oc=5)
+### [Nierenerkrankung: Lebensstilintervention senkt Risiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkV6VjAyM3RsXzc5bTU4bHBVd1hteFlyQW5JYk5QUE40bV9VSmI2M3FwUEtWVnFGa1JxNFpnZmtKQks0WVRoNWRRWXJlUjBuSUhrNnZ0eTcyU1pxMVZITDVwNV9QckxlYUtQOG5HQ21xajk3dWwwdDZJbkZpRUZxamxBOEZQQ1p1WVVZMk42OE5DLVVBYVJPOU5hV3FmMlBBMDg3Mzhab2FGOXFWczNHWUlIcWNFZw?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-07-31 <span class="news-indication-tag">diabetes</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOERMMk1GRlUwWFNXdDF6dFFMd3V6MzBwVTg4NkdpMnNOaG9mQjBESnljbjJWU0UtWVM4MnV2ZnE3cUhHa3hmS1A0emR6Y1dQWGhWUTVrV2UxNWlkN3FkNlZ5WUY0aDN6bWdXZi1NWTRvYlJxYXlfaVpPMWJSR2ptbFVuX09HSGM2N2RFVmRrT01HSnQwdU5Yd1dvWmxDMTc0aVVLc3ZtaWlHNVNlM20xYjU5YmNJUWI3RXd0bWNvQnbSAbsBQVVfeXFMUEl5cmNLTnF6QmJIeUhkLVpENHl3RkJfczEycWxYZmpxclZCZGNkRzl1T0pfekUwN1hoRmhDVTBNQ1dKb1pnN0xhMFVRTEpsTEdpR3UzQlN2UDFXSm9CQ2tlRUlLdWRsbHpJeTdmXzZyeElsZkZ5SDZscWxQTFBfRGNLYlozSXpkR3dZVm85Q1ZFSWlnZTJNNlVCZnZJc0hnakxOaTBZT1lMUHA2aFBieDJldFVnLTJONVp6cw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkV6VjAyM3RsXzc5bTU4bHBVd1hteFlyQW5JYk5QUE40bV9VSmI2M3FwUEtWVnFGa1JxNFpnZmtKQks0WVRoNWRRWXJlUjBuSUhrNnZ0eTcyU1pxMVZITDVwNV9QckxlYUtQOG5HQ21xajk3dWwwdDZJbkZpRUZxamxBOEZQQ1p1WVVZMk42OE5DLVVBYVJPOU5hV3FmMlBBMDg3Mzhab2FGOXFWczNHWUlIcWNFZw?oc=5)
+
+---
+
+### [La disfunzione erettile può nascondere altri problemi di salute: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
+
+2026-07-31 <span class="news-indication-tag">diabete</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Ballaststoffe: Studie belegt 34-Prozent-Reduktion des Diabetes-Risikos - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTJCNHI5bG5QcDNCVGJUcDUzU3hNbFJDNVRfWnc3Q3B6R0pSSjB0VzN6RXFYTlYxc1A0SUNRcFVMTXVsTjc5YVp5Z1JhVV84UC14bFowR09RTXlkX0YzemZNNmQyQzVMVVZodnJLY3lCamtlNXhGcDB5OUZhTjBEbEdVaWNzTmtpaUxpZlBPYnEtZkRwZld4eEN5bUlLeXd3ZDJrQ3pmWkE1RFRSR25pUnVHSW1jLTFyQVE?oc=5)
+### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 2026-07-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTJCNHI5bG5QcDNCVGJUcDUzU3hNbFJDNVRfWnc3Q3B6R0pSSjB0VzN6RXFYTlYxc1A0SUNRcFVMTXVsTjc5YVp5Z1JhVV84UC14bFowR09RTXlkX0YzemZNNmQyQzVMVVZodnJLY3lCamtlNXhGcDB5OUZhTjBEbEdVaWNzTmtpaUxpZlBPYnEtZkRwZld4eEN5bUlLeXd3ZDJrQ3pmWkE1RFRSR25pUnVHSW1jLTFyQVE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 ---
 
@@ -94,35 +102,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Asocian la diabetes tipo 1 en los jóvenes con el deterioro progresivo de la salud ósea](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
+
+---
+
 ### [Médecin généraliste, le Dr Laetitia Dellasantina-Panzani alerte : "Les traitements injectables contre l'obésité ne sont pas de la médecine esthétique" - Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
 
 2026-07-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
-
----
-
-### [Identifican un nuevo efecto protector frente al aneurisma de aorta abdominal de un fármaco usado en diabetes y obesidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxNVzhUN01VVGZCdWNIWm82RW55amZkdkhLaDRqMFFXNTlSZExWS2dCRWhKNklfMTUwS0dOcnhnQWxiZzFOQUxsZXNLWk9IdERnV0tuZ0VILVh1LUI4WXM2d0lRQUo1V3cxUzRSSUJZQlZSV1JGX1RoOW1MVFdwNkVjYnl3aTlpZXBERVhfSUJ5WmJDZlN5ZmJvX1RGYWx0bFV5T3ZPRnNNQmxzQU55eVd5Yi1NbVhHWktTZWcxcEczRjVTZXZrU0NFbVQ3S3VZUkVURmR5VEFqU0hvY29Sb25CSWtxVGx1QWdJLTFHelpYWktzT3pzMHdWd0I2WmNKaHFZTExV?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMigwJBVV95cUxNVzhUN01VVGZCdWNIWm82RW55amZkdkhLaDRqMFFXNTlSZExWS2dCRWhKNklfMTUwS0dOcnhnQWxiZzFOQUxsZXNLWk9IdERnV0tuZ0VILVh1LUI4WXM2d0lRQUo1V3cxUzRSSUJZQlZSV1JGX1RoOW1MVFdwNkVjYnl3aTlpZXBERVhfSUJ5WmJDZlN5ZmJvX1RGYWx0bFV5T3ZPRnNNQmxzQU55eVd5Yi1NbVhHWktTZWcxcEczRjVTZXZrU0NFbVQ3S3VZUkVURmR5VEFqU0hvY29Sb25CSWtxVGx1QWdJLTFHelpYWktzT3pzMHdWd0I2WmNKaHFZTExV?oc=5)
-
----
-
-### [Asocian diabetes tipo 1 en jóvenes con deterioro progresivo de la salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
-
-2026-07-29 <span class="news-indication-tag">diabetes</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzBBWHktRW12OUVwNDNSTTgwSkpzczBYTXJieEJPczFxTGd4NHhwTUE5YUpJdkl2SjFGd0FoMktfVWh6Qk9BZHhrZGFKWGFQMkRDaHVhUm9TTUlraDMwSm5PTnktNnlTMWRTVEs3SFlHX2Vxd1BhWXFEdzRZM0V4RGxBRGlQVHZtdTRJcVJhTGN4YUlvYjlVMkpqc2h0X20xMDJQODR0M2JsMGt4alpZaUJHdlhPYk0yOVlobWlVWdIBugFBVV95cUxOd3hhV2c3ZUVjR3BseTRIbExMRExBUWRJOHV5VDA1cGR5Qm1IQnNUWmV0OHRKTzRMMTBLSW4xZVhUeTd5bEdZTWRZOEJKR2l6WHBrbEJ0ZmhjYXdGZ0FmcVNmd2JvckZaV1RscE1kYWJYeERkQlh6OVV3VHA3U1MyY2FRa0ZVUS1EQk5ZdW5LSW9tMV9VZjFJRl9jbTdURVdRRU1taXhzV0g4ODl2Y3JuUDRNQUlzQzdhVUE?oc=5)
-
----
-
-### [Diabetes-Remission: Lebensstiländerung senkt Nierenerkrankungsrisiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
 
 ---
 
