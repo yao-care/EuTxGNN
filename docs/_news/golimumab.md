@@ -66,7 +66,7 @@ permalink: /news/golimumab/
 
 2026-07-30 <span class="news-indication-tag">colite ulcerosa</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
 
 ---
 

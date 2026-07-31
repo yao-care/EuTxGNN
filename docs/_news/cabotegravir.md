@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Un pancreas artificiale intelligente contro il diabete: apprende dal paziente, anticipa l'andamento glicemico e adegua la terapia](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
+
+2026-07-31 <span class="news-indication-tag">diabete</span>
+
+來源：[BergamoNews](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
+
+---
 
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
+### [Ballaststoffe: Studie belegt 34-Prozent-Reduktion des Diabetes-Risikos - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTJCNHI5bG5QcDNCVGJUcDUzU3hNbFJDNVRfWnc3Q3B6R0pSSjB0VzN6RXFYTlYxc1A0SUNRcFVMTXVsTjc5YVp5Z1JhVV84UC14bFowR09RTXlkX0YzemZNNmQyQzVMVVZodnJLY3lCamtlNXhGcDB5OUZhTjBEbEdVaWNzTmtpaUxpZlBPYnEtZkRwZld4eEN5bUlLeXd3ZDJrQ3pmWkE1RFRSR25pUnVHSW1jLTFyQVE?oc=5)
 
 2026-07-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTJCNHI5bG5QcDNCVGJUcDUzU3hNbFJDNVRfWnc3Q3B6R0pSSjB0VzN6RXFYTlYxc1A0SUNRcFVMTXVsTjc5YVp5Z1JhVV84UC14bFowR09RTXlkX0YzemZNNmQyQzVMVVZodnJLY3lCamtlNXhGcDB5OUZhTjBEbEdVaWNzTmtpaUxpZlBPYnEtZkRwZld4eEN5bUlLeXd3ZDJrQ3pmWkE1RFRSR25pUnVHSW1jLTFyQVE?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
+### [Identifican un nuevo efecto protector frente al aneurisma de aorta abdominal de un fármaco usado en diabetes y obesidad](https://news.google.com/rss/articles/CBMigwJBVV95cUxNVzhUN01VVGZCdWNIWm82RW55amZkdkhLaDRqMFFXNTlSZExWS2dCRWhKNklfMTUwS0dOcnhnQWxiZzFOQUxsZXNLWk9IdERnV0tuZ0VILVh1LUI4WXM2d0lRQUo1V3cxUzRSSUJZQlZSV1JGX1RoOW1MVFdwNkVjYnl3aTlpZXBERVhfSUJ5WmJDZlN5ZmJvX1RGYWx0bFV5T3ZPRnNNQmxzQU55eVd5Yi1NbVhHWktTZWcxcEczRjVTZXZrU0NFbVQ3S3VZUkVURmR5VEFqU0hvY29Sb25CSWtxVGx1QWdJLTFHelpYWktzT3pzMHdWd0I2WmNKaHFZTExV?oc=5)
 
-2026-07-30 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
+來源：[Infosalus](https://news.google.com/rss/articles/CBMigwJBVV95cUxNVzhUN01VVGZCdWNIWm82RW55amZkdkhLaDRqMFFXNTlSZExWS2dCRWhKNklfMTUwS0dOcnhnQWxiZzFOQUxsZXNLWk9IdERnV0tuZ0VILVh1LUI4WXM2d0lRQUo1V3cxUzRSSUJZQlZSV1JGX1RoOW1MVFdwNkVjYnl3aTlpZXBERVhfSUJ5WmJDZlN5ZmJvX1RGYWx0bFV5T3ZPRnNNQmxzQU55eVd5Yi1NbVhHWktTZWcxcEczRjVTZXZrU0NFbVQ3S3VZUkVURmR5VEFqU0hvY29Sb25CSWtxVGx1QWdJLTFHelpYWktzT3pzMHdWd0I2WmNKaHFZTExV?oc=5)
 
 ---
 

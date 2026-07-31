@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。6 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer-Krankheit（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>6 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [The hidden dementia reversal that may overwhelm social care - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmFhaHZNcDF6SFhyLTFMemI4ejZ4bVlHZzFrY1FvbVlSeUJnS2pSRUlfWTRXX3MwZlhrSFNueVFSSmlnaW9BcDZLbmgtOTdtei1BdHIxbDNZR1MtamdOVjhES2txOEtwU0Y4SllEY05tRnVNb010N2M3T3pWejVYZUJXWXFSeUE2NUhkS2hUWWpNX01VZXh3WHdqeTFXVG5UVnFFRzlZNlZ2T21YYVdsdUw3aGVPbE0?oc=5)
+
+2026-07-31
+
+來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmFhaHZNcDF6SFhyLTFMemI4ejZ4bVlHZzFrY1FvbVlSeUJnS2pSRUlfWTRXX3MwZlhrSFNueVFSSmlnaW9BcDZLbmgtOTdtei1BdHIxbDNZR1MtamdOVjhES2txOEtwU0Y4SllEY05tRnVNb010N2M3T3pWejVYZUJXWXFSeUE2NUhkS2hUWWpNX01VZXh3WHdqeTFXVG5UVnFFRzlZNlZ2T21YYVdsdUw3aGVPbE0?oc=5)
+
+---
+
+### [Démence après 60 ans : ces 7 habitudes du quotidien pèsent lourd sur votre cerveau - Pleine Vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamhNYmd4UkxUTlRFSDU2Q2wwSkw5QUdiVktoOVE4b0ZEQ0pBX1FDNEhDcXYtOWEzMjV5aDZEdm0yamhTWHZCX0hPbkpBNHdjZkRla2NhOVp5ZTNrWEs0MkJsdEJoMzFBdXFUY3lxOW11blUwOXF2U0lFSEVVZVBLZ2syRVVCMUZFREtZSjg2VmVGcWk0VmJpLS1uaEkzMjN0RmRxV3kya0o2SnU3LWJ4M0FPU0o2TGdKem1pUGE2Z1VhblVGbC1IUlFPMkd2LXJYdDdr?oc=5)
+
+2026-07-31
+
+來源：[Pleine Vie](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPamhNYmd4UkxUTlRFSDU2Q2wwSkw5QUdiVktoOVE4b0ZEQ0pBX1FDNEhDcXYtOWEzMjV5aDZEdm0yamhTWHZCX0hPbkpBNHdjZkRla2NhOVp5ZTNrWEs0MkJsdEJoMzFBdXFUY3lxOW11blUwOXF2U0lFSEVVZVBLZ2syRVVCMUZFREtZSjg2VmVGcWk0VmJpLS1uaEkzMjN0RmRxV3kya0o2SnU3LWJ4M0FPU0o2TGdKem1pUGE2Z1VhblVGbC1IUlFPMkd2LXJYdDdr?oc=5)
+
+---
 
 ### [Alzheimer-Forschung: Wissenschaftler identifizieren Zelltod-Schalter im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUml6WjJVTjBSUkdCdGRZczR5THQwWFFBdWwzeTRabXF3VllsaWM1Q3l2WWNEbnBtc1pZaThFQTAyaFdWcl9QSDVBbDM2WUJXTlRzamRxaWttVVNvYjA1ajRWMUxzcE16aWYtdEFHV2lZYk1nVDFuYTltR3lWejloMm9FY2tud1V1NjA3bXJnbVJuVWVER3RNb1N0X3g1TGFPVktodHMxdjczWkpoOE83NU9TWUZRb0ItT0JJ?oc=5)
 
@@ -70,11 +86,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Giving babies less sugar could cut dementia risk, study finds - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
+### [Limiting sugar before age two linked to better brain health](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
 
 2026-07-29
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNlZxWmUzdU1kQWNBTlZDYVFneUJKQkhnLUR6bW5SaURLVVVMeHN5Vi16TlFCUlEzZElqUTV0SndxNVdwMTlCRjdiQjlCZmI2ZGM5dTlkUE1wVzFQ?oc=5)
 
 ---
 
