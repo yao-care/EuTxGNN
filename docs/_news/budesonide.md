@@ -43,7 +43,7 @@ permalink: /news/budesonide/
 <li>polyp of ureter（99.7%）</li>
 <li>neoplastic polyp（99.7%）</li>
 <li>2-hydroxyethyl methacrylate sensitization（99.6%）</li>
-<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（99.5%）<span class="indication-tag">📰 asthma</span></li>
 <li>Crohn's colitis（99.3%）</li>
 <li>inflammatory bowel disease（99.2%）</li>
 <li>anus disease（99.0%）</li>
@@ -62,19 +62,19 @@ permalink: /news/budesonide/
 
 ---
 
-### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
-2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-07-30 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 ---
 
-### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+### [Die Luft aus dem Kuhstall trainiert unser Immunsystem - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
-2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
 ---
 

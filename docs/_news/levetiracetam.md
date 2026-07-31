@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="Levetiracetam 有什麼相關新聞？">
-<strong>Levetiracetam</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Levetiracetam</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,15 +46,21 @@ permalink: /news/levetiracetam/
 <li>guanidinoacetate methyltransferase deficiency（99.8%）</li>
 <li>partial motor epilepsy（99.6%）</li>
 <li>trigeminal nerve neoplasm（99.5%）</li>
-<li>epilepsy（99.2%）</li>
+<li class="indication-matched">epilepsy（99.2%）<span class="indication-tag">📰 Epilepsie</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [„Es kommt aus dem Nichts“: Welche Symptome die Epilepsie so tückisch machen](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTUJqZmRsMkJXaURHRXplazJGSmd1Yy1ZblVFdVc0NFZNUVlERk9pMjRJeGlHc3BxS0N6X1ZRbzA1ZWRRT0Y5MGQwZ1piVWNUb1hmSzY4V0tBbmxLSlg0eVN2bTh0X2c5OHN0Wkd2cWFfWXotOGRJQTd5eTZuMUNad3VPQW8zZ3JtREYxbXVnV2FtWkJEQ1Z4NW9ENTI5OFY5UGMtcGotUmNVZUlrT2xZSnpfQTE3T1didHZHZzhPcVBJdlUzY1lKSUQydm5MbFpiZkNocG9SeTQ3RjEyLWtXdA?oc=5)
+
+2026-07-30 <span class="news-indication-tag">Epilepsie</span>
+
+來源：[abendblatt.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTUJqZmRsMkJXaURHRXplazJGSmd1Yy1ZblVFdVc0NFZNUVlERk9pMjRJeGlHc3BxS0N6X1ZRbzA1ZWRRT0Y5MGQwZ1piVWNUb1hmSzY4V0tBbmxLSlg0eVN2bTh0X2c5OHN0Wkd2cWFfWXotOGRJQTd5eTZuMUNad3VPQW8zZ3JtREYxbXVnV2FtWkJEQ1Z4NW9ENTI5OFY5UGMtcGotUmNVZUlrT2xZSnpfQTE3T1didHZHZzhPcVBJdlUzY1lKSUQydm5MbFpiZkNocG9SeTQ3RjEyLWtXdA?oc=5)
+
+---
 
 
 <div class="disclaimer">

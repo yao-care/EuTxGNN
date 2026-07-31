@@ -54,6 +54,14 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（4 則）
 
+### [Santé. MASH : c'est quoi cette maladie du foie qui toucherait 8 millions de Français ? - Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
+
+2026-07-31 <span class="news-indication-tag">obésité</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
+
+---
+
 ### [La verdad sobre las migrañas: cuáles son sus causas y cómo aliviarlas](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
 
 2026-07-30 <span class="news-indication-tag">migraña</span>
@@ -67,14 +75,6 @@ permalink: /news/ziconotide/
 2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
-
----
-
-### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
-
-2026-07-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
 
 ---
 

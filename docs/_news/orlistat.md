@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（7 則）
 
+### [Santé. MASH : c'est quoi cette maladie du foie qui toucherait 8 millions de Français ? - Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
+
+2026-07-31 <span class="news-indication-tag">obésité</span>
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
+
+---
+
 ### [Nueva y prometedora diana terapéutica, en forma de microproteína, para la diabetes y la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
 
 2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -70,11 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
+### [Un "gemelo físico" mejora la predicción del ictus isquémico - El médico interactivo](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmJUeHd0Ry1IaXg4SV9WNi1adjFSOG4tV0ktMDg4MnZ4VjAtMWRzYlMwdWdiQ3JINm1aay0tQWxrbWVtYVhhYXRBZUVXZ19PQ25RT0k4bXFUdjZ4U0p2YmFJTE1DZnJZRHZSRnc2ZXZBM3FZMEMyMlAtQjA1dzNyc3JZUXdBTjJ0dFVSRFlpVHVPajdsU3F1V2xyeWNQTExRV1p0emM2RERIYjgyUDdfVGs0MUZGM2ZYdGw1VDN3?oc=5)
 
-2026-07-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+2026-07-30 <span class="news-indication-tag">ictus</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmJUeHd0Ry1IaXg4SV9WNi1adjFSOG4tV0ktMDg4MnZ4VjAtMWRzYlMwdWdiQ3JINm1aay0tQWxrbWVtYVhhYXRBZUVXZ19PQ25RT0k4bXFUdjZ4U0p2YmFJTE1DZnJZRHZSRnc2ZXZBM3FZMEMyMlAtQjA1dzNyc3JZUXdBTjJ0dFVSRFlpVHVPajdsU3F1V2xyeWNQTExRV1p0emM2RERIYjgyUDdfVGs0MUZGM2ZYdGw1VDN3?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/orlistat/
 2026-07-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWlkxd3NlMTlRQXdneTRyemNIX3NPRVFCUTdtQXo3cG9Qa0dKLXd5Sm1HY1RtcjF2MnA4eV9qb0UyNjdkUTBDQUtYUDVXVHlQY3FEYTRQWXo3aFRlWDFNZzRwaE9uV2tNbTBPOUpNSGRmcmVnbXNMeVRuZDl2U1d1ZFhKSEIwMnpRSy1wcVVmbGhyZ1JYSFFJZlNrcmNoYVNUQWExeTY2SWFjNnlsRnpqak02N3hwUkNMTGE3Y1d2bFFKcEQ4b2QySktjT08yMjZiTE9PRGMzNXNGMUIzUWpDdHNsT1d1dUpJN29tdVAta2ZKRGxIWkJXNHVBUDliS1pfcGkyT28xbExwMzg?oc=5)
-
----
-
-### ['Put the MenB vaccine on your university prep checklist'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
-
-2026-07-29 <span class="news-indication-tag">CVA</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
 
 ---
 

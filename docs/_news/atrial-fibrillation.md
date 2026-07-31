@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。23 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。20 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>23 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>20 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,13 +67,21 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（20 則）
 
-### [Kaffee senkt Risiko: Neuronentypen erklären Herzrhythmus und Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXlDejFlSFJHWHBzcHVDbV9IcHgxYW82ekttN0dXM3p3TnYzUWRVcE9jZUVBdnRlQURVT1BWdVBiWnJGXzBwMERsdnJCQ3V3Zmc0ejJSYmNPajY4WHQ1Vnd0TnV3UmdtQmhvdXV4TzVLbzZGMFhjZkYyR2NfLW9hU1BqWWs4SXNzSmFpZUFRcG13dnE0NEdjNi15QS13Z0JHd3Jxb01ETzMyd3pMSmc?oc=5)
+### [Alzheimer-Forschung: Wissenschaftler identifizieren Zelltod-Schalter im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUml6WjJVTjBSUkdCdGRZczR5THQwWFFBdWwzeTRabXF3VllsaWM1Q3l2WWNEbnBtc1pZaThFQTAyaFdWcl9QSDVBbDM2WUJXTlRzamRxaWttVVNvYjA1ajRWMUxzcE16aWYtdEFHV2lZYk1nVDFuYTltR3lWejloMm9FY2tud1V1NjA3bXJnbVJuVWVER3RNb1N0X3g1TGFPVktodHMxdjczWkpoOE83NU9TWUZRb0ItT0JJ?oc=5)
 
-2026-07-30
+2026-07-31
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXlDejFlSFJHWHBzcHVDbV9IcHgxYW82ekttN0dXM3p3TnYzUWRVcE9jZUVBdnRlQURVT1BWdVBiWnJGXzBwMERsdnJCQ3V3Zmc0ejJSYmNPajY4WHQ1Vnd0TnV3UmdtQmhvdXV4TzVLbzZGMFhjZkYyR2NfLW9hU1BqWWs4SXNzSmFpZUFRcG13dnE0NEdjNi15QS13Z0JHd3Jxb01ETzMyd3pMSmc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUml6WjJVTjBSUkdCdGRZczR5THQwWFFBdWwzeTRabXF3VllsaWM1Q3l2WWNEbnBtc1pZaThFQTAyaFdWcl9QSDVBbDM2WUJXTlRzamRxaWttVVNvYjA1ajRWMUxzcE16aWYtdEFHV2lZYk1nVDFuYTltR3lWejloMm9FY2tud1V1NjA3bXJnbVJuVWVER3RNb1N0X3g1TGFPVktodHMxdjczWkpoOE83NU9TWUZRb0ItT0JJ?oc=5)
+
+---
+
+### [Inseguridad en este de RDC entorpece respuesta contra ébola, afirma ONU - Spanish People Daily](https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMVRzWEdmbTlYZHlybGNyMnlJMEJURlUxMEthZWJnMmhSakhhaU9zSTdyY0RqUHlLODJOUmNqMEhJOW9rX0tKeTFfVFVIYUR3NWJiUXF6bTN1dm44YnNINDZBWkhQWmN3eHNPN0hhY2FzMnNwdFE?oc=5)
+
+2026-07-31
+
+來源：[Spanish People Daily](https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMVRzWEdmbTlYZHlybGNyMnlJMEJURlUxMEthZWJnMmhSakhhaU9zSTdyY0RqUHlLODJOUmNqMEhJOW9rX0tKeTFfVFVIYUR3NWJiUXF6bTN1dm44YnNINDZBWkhQWmN3eHNPN0hhY2FzMnNwdFE?oc=5)
 
 ---
 
@@ -93,6 +101,14 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [Radioterapia più tecnologica: il PNRR porta 236 nuovi acceleratori lineari negli ospedali italiani](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdEdvZlZPTzhoVklEam5FaVBfWmxEQTZZREgxaEEyMUd2MkdIVXdLS1pXeFZMWk1wY21GZFpoU3RKUnItZFp1VzJJU0pNcHpMeWc2cDdyWDRfbzNJcG5fR19MSm1LRHpITXFzSVVETGVyV3NHWWhCMm1XMXlnaDNYbzJ2S1FmX0hZenFydl9GV0hHUXRLN2NRdC1NaUs3M2o5bHhFWERvUHVtRVBHM3lEOG9WdHF2d3daVE42VC1RV3E4bUd5ellRVE1zYXNNRkFJMUVHd2tvUkVxSGJoZzFkUEVPZUE?oc=5)
+
+2026-07-30
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdEdvZlZPTzhoVklEam5FaVBfWmxEQTZZREgxaEEyMUd2MkdIVXdLS1pXeFZMWk1wY21GZFpoU3RKUnItZFp1VzJJU0pNcHpMeWc2cDdyWDRfbzNJcG5fR19MSm1LRHpITXFzSVVETGVyV3NHWWhCMm1XMXlnaDNYbzJ2S1FmX0hZenFydl9GV0hHUXRLN2NRdC1NaUs3M2o5bHhFWERvUHVtRVBHM3lEOG9WdHF2d3daVE42VC1RV3E4bUd5ellRVE1zYXNNRkFJMUVHd2tvUkVxSGJoZzFkUEVPZUE?oc=5)
+
+---
+
 ### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
 
 2026-07-30
@@ -101,11 +117,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Terzo caso di Febbre del Nilo: 65enne di Santa Giusta ricoverato al San Martino - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXF3SjFab1A5c1BlendpOXJkMU1tRkhWWXZNMXc2cy1PMlJES1ljX09saE9pTE50am53VUo2MHB3d0NXSDAyOGhxSGNLNGpnMUZnYXBUdTVrYmxVSmZ5REh3WE1FMGtTT3RXLXdJczBVX29NLTNnQkJXYnBLTkQyekR4ZzQtc3JEeVQzdEhJZThRWk1obGpadjBSU2FZOGxPcDFwNm5xc0VsdDd1bGhGakJuY0FDNWRLNENqYlFVRE9oNzhIS3ZUNWJENDBnTVlWTXNOc1BqcVd5VXNUWUFMOdIB6AFBVV95cUxOZWpCUjREc1I3MEhyTXpPTEhROTJpT25RZUlMNkRUbXdBMG52eC1rRS1adVJuWl8tbTZjQ1M3dU9Md25KMXZVd1hYQTFRTzl5U3NDc0wtVWE0c1luT2w1RHFPWGVOWFpjXzFydHlFcWlUYlo1UU8weTJzcHk2dTlLcm5xdXVacy1PTVhVV3dxd2c0ZWtuWW5iNXNkOF9zRWNuc0NOTWNidE0zNndEV1FwOGNHMXdmVGpTRTJJeXl3VnFzcTJ2RHNIanJuU3NJQ28wbzhNa0FXQVB1Zkx6ZTl4TktkaWZKRFBj?oc=5)
+### [¿Es el estrés el verdadero culpable del eccema dishidrótico?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlh0bnd4QS1pRXlwa3BOemxWSHNObW5KTzA5ejhLRVJPRUttck1YX0VyOUJMZkRULVJrQ0MtaUtmNzFIbmNmcloyaHk3RXpMbUhPbmRUS0pwM0JqX0xfdVBRQzZQLV9JLTE4OTB1NGV0b3NpSm1nMG55UE53Z1A2SG0ybW52TnFCZE5rMmJ4Z3hUQUNKMndWaGkyYnBOR3lUWVdKZEhXX0RoUk9WMlAzQmhOZTZGUUV6WW12U3JKbHVHT2ttRzZXZl95MmxFUDlzTjJ5X3Rn?oc=5)
 
 2026-07-30
 
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXF3SjFab1A5c1BlendpOXJkMU1tRkhWWXZNMXc2cy1PMlJES1ljX09saE9pTE50am53VUo2MHB3d0NXSDAyOGhxSGNLNGpnMUZnYXBUdTVrYmxVSmZ5REh3WE1FMGtTT3RXLXdJczBVX29NLTNnQkJXYnBLTkQyekR4ZzQtc3JEeVQzdEhJZThRWk1obGpadjBSU2FZOGxPcDFwNm5xc0VsdDd1bGhGakJuY0FDNWRLNENqYlFVRE9oNzhIS3ZUNWJENDBnTVlWTXNOc1BqcVd5VXNUWUFMOdIB6AFBVV95cUxOZWpCUjREc1I3MEhyTXpPTEhROTJpT25RZUlMNkRUbXdBMG52eC1rRS1adVJuWl8tbTZjQ1M3dU9Md25KMXZVd1hYQTFRTzl5U3NDc0wtVWE0c1luT2w1RHFPWGVOWFpjXzFydHlFcWlUYlo1UU8weTJzcHk2dTlLcm5xdXVacy1PTVhVV3dxd2c0ZWtuWW5iNXNkOF9zRWNuc0NOTWNidE0zNndEV1FwOGNHMXdmVGpTRTJJeXl3VnFzcTJ2RHNIanJuU3NJQ28wbzhNa0FXQVB1Zkx6ZTl4TktkaWZKRFBj?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlh0bnd4QS1pRXlwa3BOemxWSHNObW5KTzA5ejhLRVJPRUttck1YX0VyOUJMZkRULVJrQ0MtaUtmNzFIbmNmcloyaHk3RXpMbUhPbmRUS0pwM0JqX0xfdVBRQzZQLV9JLTE4OTB1NGV0b3NpSm1nMG55UE53Z1A2SG0ybW52TnFCZE5rMmJ4Z3hUQUNKMndWaGkyYnBOR3lUWVdKZEhXX0RoUk9WMlAzQmhOZTZGUUV6WW12U3JKbHVHT2ttRzZXZl95MmxFUDlzTjJ5X3Rn?oc=5)
 
 ---
 
@@ -117,11 +133,11 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Schlafstörungen: TCM-Präparate helfen nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWdWcHBWU1BLa0kwSHktZ3U5NVhfZGM1OHlVbFZXb1dNZmZ5WGpTdy1kMzlMdlFCMV9DZzAwWVp1NVNYbzhZUlNoVElHYnlJN3A5elV6SzJHaEN4U3BkYlFTcEp1RUZHOGZ0NE5keUs3QzR4MHlVYkNoRkNWNk5NU1RqMUNSN1A1dmNoeFNPM0VBNFIxR053dnlTZGNrdHZNLThuZTdIWl80WXZyS0FhWg?oc=5)
+### [Brits dying of 'Victorian lung disease' mistaken for 'smokers cough' as cases hit 10-year high - 6 signs to watch for](https://news.google.com/rss/articles/CBMioAFBVV95cUxNelpwa0pSRW5hLWJsT1JiQVFvbGVvOGFuWU9CYk5ERnpsWXMwMngwSHFLYWt5TUVhODZ3SUhjNmM4cHAxck9NTk01SUtreFF0RWpfaVc5cEE3ZVhpa2J1N2RaY1pFaWR0N2tDNXZyOHJhTlRtQU9ZS1RLNlkwZDRiSWtmM1hvdGRzemFKUXlVVEpNb3JiNnM4ZExEWWNTdnVT?oc=5)
 
 2026-07-30
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWdWcHBWU1BLa0kwSHktZ3U5NVhfZGM1OHlVbFZXb1dNZmZ5WGpTdy1kMzlMdlFCMV9DZzAwWVp1NVNYbzhZUlNoVElHYnlJN3A5elV6SzJHaEN4U3BkYlFTcEp1RUZHOGZ0NE5keUs3QzR4MHlVYkNoRkNWNk5NU1RqMUNSN1A1dmNoeFNPM0VBNFIxR053dnlTZGNrdHZNLThuZTdIWl80WXZyS0FhWg?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxNelpwa0pSRW5hLWJsT1JiQVFvbGVvOGFuWU9CYk5ERnpsWXMwMngwSHFLYWt5TUVhODZ3SUhjNmM4cHAxck9NTk01SUtreFF0RWpfaVc5cEE3ZVhpa2J1N2RaY1pFaWR0N2tDNXZyOHJhTlRtQU9ZS1RLNlkwZDRiSWtmM1hvdGRzemFKUXlVVEpNb3JiNnM4ZExEWWNTdnVT?oc=5)
 
 ---
 
@@ -157,59 +173,27 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
+### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 2026-07-30
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 ---
 
-### [Merck und Wellcome kooperieren mit globaler Gesundheitsorganisation bei Ebola-Impfstoff für klinische Studien](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVVHSW5GdG1obmNmOFZ6NmtfTU1uRzRpNDJmcWt0Nm5JV011NC1uU0JXZWE1OUpocEZCRmxoUG1KYXREczFrNFNaQksyZkE3TXZ3cVM2akJ3WG80VS1XaVB0eFZuZWdWR3RRTnhrbF9ZenZ5YzAxS0NyTnVxZE5WeFhQNS1FN01xQTl3Vl9iNDc2ajF4V2dBNnhjQy1qMHh1eEpTempWQzJVVFA5bk1EZkRBdmdVWk9LXzJiUDhuVVVnMnhUZU9PN3J3dEV0bjFoZmhyX3JPN3luTy1PRWJxUTVwM0ZGRXFlT3hnRVYzTTE1ZUpiMFA5SlQ1WQ?oc=5)
-
-2026-07-30
-
-來源：[de.marketscreener.com](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVVHSW5GdG1obmNmOFZ6NmtfTU1uRzRpNDJmcWt0Nm5JV011NC1uU0JXZWE1OUpocEZCRmxoUG1KYXREczFrNFNaQksyZkE3TXZ3cVM2akJ3WG80VS1XaVB0eFZuZWdWR3RRTnhrbF9ZenZ5YzAxS0NyTnVxZE5WeFhQNS1FN01xQTl3Vl9iNDc2ajF4V2dBNnhjQy1qMHh1eEpTempWQzJVVFA5bk1EZkRBdmdVWk9LXzJiUDhuVVVnMnhUZU9PN3J3dEV0bjFoZmhyX3JPN3luTy1PRWJxUTVwM0ZGRXFlT3hnRVYzTTE1ZUpiMFA5SlQ1WQ?oc=5)
-
----
-
-### [Weniger Schlaf bringt mehr Gewicht: Neue Studie zu 90 Minuten weniger - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPajdWM0NJWFVfM2VXME5OYm9Pb0c4Mzd4WHJfZGNISWgyd09RT2ZQVnZDWWRHTWZYcDlLSHV4aHUwLW10OGRoSnItenNwdTlpdFdtdlo5cFFLMmxYbmViSVVIXzNFVTdubGdicnBUczZ3VVFWbTN0X0VjdnpVSnFYMXFIazdETmV4VmctSEJ5dnkyM3N0eWYtb3ZEcHBGRHRkTnc?oc=5)
+### [Weniger Schlaf bringt mehr Gewicht: Neue Studie zu 90 Minuten weniger](https://news.google.com/rss/articles/CBMiogFBVV95cUxPajdWM0NJWFVfM2VXME5OYm9Pb0c4Mzd4WHJfZGNISWgyd09RT2ZQVnZDWWRHTWZYcDlLSHV4aHUwLW10OGRoSnItenNwdTlpdFdtdlo5cFFLMmxYbmViSVVIXzNFVTdubGdicnBUczZ3VVFWbTN0X0VjdnpVSnFYMXFIazdETmV4VmctSEJ5dnkyM3N0eWYtb3ZEcHBGRHRkTnc?oc=5)
 
 2026-07-29
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPajdWM0NJWFVfM2VXME5OYm9Pb0c4Mzd4WHJfZGNISWgyd09RT2ZQVnZDWWRHTWZYcDlLSHV4aHUwLW10OGRoSnItenNwdTlpdFdtdlo5cFFLMmxYbmViSVVIXzNFVTdubGdicnBUczZ3VVFWbTN0X0VjdnpVSnFYMXFIazdETmV4VmctSEJ5dnkyM3N0eWYtb3ZEcHBGRHRkTnc?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxPajdWM0NJWFVfM2VXME5OYm9Pb0c4Mzd4WHJfZGNISWgyd09RT2ZQVnZDWWRHTWZYcDlLSHV4aHUwLW10OGRoSnItenNwdTlpdFdtdlo5cFFLMmxYbmViSVVIXzNFVTdubGdicnBUczZ3VVFWbTN0X0VjdnpVSnFYMXFIazdETmV4VmctSEJ5dnkyM3N0eWYtb3ZEcHBGRHRkTnc?oc=5)
 
 ---
 
-### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+### [Enfermedad de Danon, un trastorno multisistémico que afecta al ojo e involucra al corazón, al músculo esquelético y al cerebro - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRE1qVVpMdHJoR19WWnpKT3RyV0YwQ1V1d0ZoX0JzNW9sUmlSRUZSNkR3SEU5OTVjRkI1R2hBR1VsSlVSb19aRXlFWDRqMnU2M3Q0YjA3TjM1RGUxU29pMl9SU21qcmNzbi1kR0tZTTdNQlhmbGlmbVhaWlI2TUVyRzVMek5HdklqMlpCaXBFaFRkNHhMTVoyWnhSV3dnTGthbmpHcjJLbzZ3TFg3eEllaUtBRTVNX01rSmJ2cWRn0gG4AUFVX3lxTE1QVkw5eEd1cmZLdE1VOER1SXBKN01xMW9pRnh0Nk1SSTVaeDlGUnREYnpyTnR2SUpQYjRWOXNnNVQ1NW9tOWNsSzZQTEVVd3pEbFBrUmNweUlobkg3Z1lQVVlkZkQ0SWZmTjYtdDlFS1hQODFkS3ZMa1BsSDAyZmVRelFhSFdGR2QtMUVZWWZocUJfRTZrZ1hpZUhkZ2JfQjgtVjdTLVBDVVRFcHp5a1Y5N0U0NkxDRkQ?oc=5)
 
 2026-07-29
 
-來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
-
----
-
-### [The past and future impact of climate change on childhood malaria in Africa](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3XzdHYzNTNVhRcFYyVzFHOGcyY0hOTGZqQTB4emVXTnpZcEJMNFBJeHVHUFg1dXpaM1daaXE4dE1xREZtTDV3N1NRRWJfNjVxZE8xM1VndDFHdXNxUW1Z?oc=5)
-
-2026-07-29
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3XzdHYzNTNVhRcFYyVzFHOGcyY0hOTGZqQTB4emVXTnpZcEJMNFBJeHVHUFg1dXpaM1daaXE4dE1xREZtTDV3N1NRRWJfNjVxZE8xM1VndDFHdXNxUW1Z?oc=5)
-
----
-
-### [Enzymatic glycosylation and amidation reshapes polyene bioactivity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sREpSakN0U00yZW40YWdqRi1lQWVYS3pMWkhuVVUwUmNndVZjS1dNVmNBV1R4UnlPbXVUUnF1amUyclpzV3Fsc1VuRXUzSGVzTndlVmpQWElZdVhfaDA0?oc=5)
-
-2026-07-29
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sREpSakN0U00yZW40YWdqRi1lQWVYS3pMWkhuVVUwUmNndVZjS1dNVmNBV1R4UnlPbXVUUnF1amUyclpzV3Fsc1VuRXUzSGVzTndlVmpQWElZdVhfaDA0?oc=5)
-
----
-
-### [Gehirn ab 50: Massive Verluste von schützenden Immunzellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1liOUNvbV8tWjBJRE4xSE9YVzA2QmJiRXozUngzLUxiQUJzYXRVUnNTaGRLSWxMVTB1RkFTVVJUZGxDX3hjcm9penRVLTZjY0JIekhMZzJZYnM3ZktIcHZvNWswT2hRRGl6S2UtNU1NSld0cHZZcmRfVzBkZjZIYnV2WXlUbUE4Z1BqVmlfTktwZllEMlNjR045enRucGl4azFQWDV0SGE5UWs?oc=5)
-
-2026-07-29
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1liOUNvbV8tWjBJRE4xSE9YVzA2QmJiRXozUngzLUxiQUJzYXRVUnNTaGRLSWxMVTB1RkFTVVJUZGxDX3hjcm9penRVLTZjY0JIekhMZzJZYnM3ZktIcHZvNWswT2hRRGl6S2UtNU1NSld0cHZZcmRfVzBkZjZIYnV2WXlUbUE4Z1BqVmlfTktwZllEMlNjR045enRucGl4azFQWDV0SGE5UWs?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQRE1qVVpMdHJoR19WWnpKT3RyV0YwQ1V1d0ZoX0JzNW9sUmlSRUZSNkR3SEU5OTVjRkI1R2hBR1VsSlVSb19aRXlFWDRqMnU2M3Q0YjA3TjM1RGUxU29pMl9SU21qcmNzbi1kR0tZTTdNQlhmbGlmbVhaWlI2TUVyRzVMek5HdklqMlpCaXBFaFRkNHhMTVoyWnhSV3dnTGthbmpHcjJLbzZ3TFg3eEllaUtBRTVNX01rSmJ2cWRn0gG4AUFVX3lxTE1QVkw5eEd1cmZLdE1VOER1SXBKN01xMW9pRnh0Nk1SSTVaeDlGUnREYnpyTnR2SUpQYjRWOXNnNVQ1NW9tOWNsSzZQTEVVd3pEbFBrUmNweUlobkg3Z1lQVVlkZkQ0SWZmTjYtdDlFS1hQODFkS3ZMa1BsSDAyZmVRelFhSFdGR2QtMUVZWWZocUJfRTZrZ1hpZUhkZ2JfQjgtVjdTLVBDVVRFcHp5a1Y5N0U0NkxDRkQ?oc=5)
 
 ---
 
@@ -218,6 +202,14 @@ permalink: /news/atrial-fibrillation/
 2026-07-29
 
 來源：[Quotidiano Sanità](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeGFoSG5iOEtaM3FPR2YzblpEdnVSbmdlN01zVmhsei1hSXVSWnVuYmdIRzZFR3NoZzFaZUZFTzdzLXphWXFJVW9LWWhjbmdoOXYyTEFQcGVKcmtESnVmOWlBV1A4TzV4a2FabzBtZjBmYVg0emQ2VUM3ZWl4ZmNLQ0xZSlRpNzBjTTNrUS1ZUDB5QUNOVUpxcjZaaGZERVBITDluZ1o4N2NwMGZtOXA2eHhCTUNtVE5vU1BSc0cyQ3YtSmk1NUV6Q25hOFpNNjJydWJYTHF6QTZxTDVMTk4zVjVleDhjU05XTUFmY1YtNVg4dU0?oc=5)
+
+---
+
+### [Die Luft aus dem Kuhstall trainiert unser Immunsystem - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
+
+2026-07-29
+
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
 ---
 
@@ -234,22 +226,6 @@ permalink: /news/atrial-fibrillation/
 2026-07-29
 
 來源：[FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
-
----
-
-### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
-
-2026-07-29
-
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
-
----
-
-### [CO2-Inhalation und Gehirnreinigung: Schlaf-ähnliche Muster im Wachzustand - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0pyMTZ1X2JxendZWmxPUjl0VktYU2xQQndQaDduYzE2TkxzbWdST2JmbUlvZlk1cUZORVZPRmhXWG5WeUp1T0h3WllITkY0S2trVC1RRG5va1VpNkZIRTFmZG1WQnYyY3ZKdW1KVU8wcURaWEU4elp1RkU2MlRSeV9qNE1sZTRDazV3enNiTXVkcy1FTFdDSHFESmI0am43ZE1aU1UxOS0?oc=5)
-
-2026-07-29
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0pyMTZ1X2JxendZWmxPUjl0VktYU2xQQndQaDduYzE2TkxzbWdST2JmbUlvZlk1cUZORVZPRmhXWG5WeUp1T0h3WllITkY0S2trVC1RRG5va1VpNkZIRTFmZG1WQnYyY3ZKdW1KVU8wcURaWEU4elp1RkU2MlRSeV9qNE1sZTRDazV3enNiTXVkcy1FTFdDSHFESmI0am43ZE1aU1UxOS0?oc=5)
 
 ---
 

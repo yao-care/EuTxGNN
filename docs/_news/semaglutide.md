@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Ozempic: lo que la báscula no cuenta sobre la pérdida de peso](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWV5dWVxMVVGMFdCMFBLVUlWU3YwU0EwMVBkektZVE8yTEZpeE1NczFCbzRHWVc3ekYzbWhBcjRrdXZQWDFGcmRCdVE1WHZwcEY5RUowVk1XSF9XSXNjUW90eVJQTnJ2TDFUSEQ3N1ZpZlB0VHk4QWlkNzJnMmlwN3B2SzlHTVB0UTVTUWJFOFdVQmR3?oc=5)
+
+2026-07-31 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[20minutos.es](https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWV5dWVxMVVGMFdCMFBLVUlWU3YwU0EwMVBkektZVE8yTEZpeE1NczFCbzRHWVc3ekYzbWhBcjRrdXZQWDFGcmRCdVE1WHZwcEY5RUowVk1XSF9XSXNjUW90eVJQTnJ2TDFUSEQ3N1ZpZlB0VHk4QWlkNzJnMmlwN3B2SzlHTVB0UTVTUWJFOFdVQmR3?oc=5)
+
+---
 
 ### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 

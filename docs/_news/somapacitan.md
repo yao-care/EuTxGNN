@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
@@ -94,19 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+### [Die Luft aus dem Kuhstall trainiert unser Immunsystem - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
 2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
-
----
-
-### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
-
-2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
 ---
 

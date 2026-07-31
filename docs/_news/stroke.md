@@ -49,6 +49,14 @@ permalink: /news/stroke/
 
 ---
 
+### [Un "gemelo físico" mejora la predicción del ictus isquémico - El médico interactivo](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmJUeHd0Ry1IaXg4SV9WNi1adjFSOG4tV0ktMDg4MnZ4VjAtMWRzYlMwdWdiQ3JINm1aay0tQWxrbWVtYVhhYXRBZUVXZ19PQ25RT0k4bXFUdjZ4U0p2YmFJTE1DZnJZRHZSRnc2ZXZBM3FZMEMyMlAtQjA1dzNyc3JZUXdBTjJ0dFVSRFlpVHVPajdsU3F1V2xyeWNQTExRV1p0emM2RERIYjgyUDdfVGs0MUZGM2ZYdGw1VDN3?oc=5)
+
+2026-07-30
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmJUeHd0Ry1IaXg4SV9WNi1adjFSOG4tV0ktMDg4MnZ4VjAtMWRzYlMwdWdiQ3JINm1aay0tQWxrbWVtYVhhYXRBZUVXZ19PQ25RT0k4bXFUdjZ4U0p2YmFJTE1DZnJZRHZSRnc2ZXZBM3FZMEMyMlAtQjA1dzNyc3JZUXdBTjJ0dFVSRFlpVHVPajdsU3F1V2xyeWNQTExRV1p0emM2RERIYjgyUDdfVGs0MUZGM2ZYdGw1VDN3?oc=5)
+
+---
+
 ### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMzgwZFZpaGI4bFJnUHQ5OWdaXzBTTkw2R0x3VEFEN1YtVXItVmlfdExhcWF5SnI5cUtJc21WY2VHSjRTV0lQaXY2UGhyZ2toNVN5cDlUV0FseW9xcThiOXlpSUVOV0pUU1Y3U0pqUkxCVXpRb0lsM2tHbWMtQThKSXlZeFNvb1R5RXFWbFl3Q211d252ZjEtMXBFWll3Wlo3YzhuV0ljOTFiazJrZ1V4Ug?oc=5)
 
 2026-07-29
@@ -62,14 +70,6 @@ permalink: /news/stroke/
 2026-07-29
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEhPUVZHWmN1bGs5ekhadWp2c2l2cG0zQWx3Wm9yM0RVSzRORXNLcERJU2tqUzRLbk9fTnBGSnNrclRVX1hSc3NVWF9iNGdaZHF6UFhucEs4N0I5bmhDRE5YUjBIanhkX0w2c2d2WjQzVlZmQnNvQi1RTDdhd2pnSlJZTmY5cHFXT3RGbzIzd24xelJMS2VyQ1cxSDdaQW1xMW9SVllReTc4eVVv?oc=5)
-
----
-
-### ['Put the MenB vaccine on your university prep checklist'](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
-
-2026-07-29
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRMmtBQ2pZOFMxVlh2TmhOMEhmdTFOQTNibzB3a1J4Q3lDLVNweXA0OWREMTZQdFdERUVLLWE5SmhwcHN4S2dSWHA4YXJHVTFpZUE5RjdqeG1Cc3JN?oc=5)
 
 ---
 

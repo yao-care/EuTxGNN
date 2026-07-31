@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
@@ -78,19 +78,11 @@ permalink: /news/tazobactam/
 
 ---
 
-### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+### [Die Luft aus dem Kuhstall trainiert unser Immunsystem - Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
 2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
-
----
-
-### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
-
-2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+來源：[Deutschlandfunk Nova](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNlQ3l2SURUT1NsdFZ4YndBX3JfMmllNkp4SS0yb1RQc3JWQW5jYVdrT1hUOHFCRjVfZ29EOEljRTZodEJKdkJvbHF5S1FmcEM0QUVIZzQ1VVJlcHlxdU1zYTNDaEd4aDRFdFlEZWtnSlpQYjlZN1NlbG9zVzlva3hxSkxiYkU5MWJNU2VDOFA1NWJJX0JEVlJxeXJmSG1uQ2pMOGRrcVJWZXVtRlRrcW5qZVNnS244WVZfWFVLYw?oc=5)
 
 ---
 

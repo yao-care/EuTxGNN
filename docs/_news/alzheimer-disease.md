@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
+title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer（alzheimer disease） 相關新聞
+# Alzheimer-Krankheit（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
-<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Alzheimer-Forschung: Wissenschaftler identifizieren Zelltod-Schalter im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUml6WjJVTjBSUkdCdGRZczR5THQwWFFBdWwzeTRabXF3VllsaWM1Q3l2WWNEbnBtc1pZaThFQTAyaFdWcl9QSDVBbDM2WUJXTlRzamRxaWttVVNvYjA1ajRWMUxzcE16aWYtdEFHV2lZYk1nVDFuYTltR3lWejloMm9FY2tud1V1NjA3bXJnbVJuVWVER3RNb1N0X3g1TGFPVktodHMxdjczWkpoOE83NU9TWUZRb0ItT0JJ?oc=5)
+
+2026-07-31
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUml6WjJVTjBSUkdCdGRZczR5THQwWFFBdWwzeTRabXF3VllsaWM1Q3l2WWNEbnBtc1pZaThFQTAyaFdWcl9QSDVBbDM2WUJXTlRzamRxaWttVVNvYjA1ajRWMUxzcE16aWYtdEFHV2lZYk1nVDFuYTltR3lWejloMm9FY2tud1V1NjA3bXJnbVJuVWVER3RNb1N0X3g1TGFPVktodHMxdjczWkpoOE83NU9TWUZRb0ItT0JJ?oc=5)
+
+---
+
+### [Kann Vitamin D vor Demenz schützen? Studie liefert spannende Hinweise - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnc0SGtjeFdkOThwU2N4ODRycHM1S21QbUJOMks0eGw4YmpucnF0bVdrZTJDVmxpVmVqSnZqb2tsUEtOVy12VmZPVzRmTmltYTJaRy1HM053QVRIblZWejB4eE9mNTN0SXVVaTdxOE5oVnB5TnBXaHVreUczeEpRel9WTEpBd0FkRTJtbEpPQkJ1Tl9CM0lYVnVnSk9IWi1BNUZpNkMtX05zVEhheEl5aTZCZEdQbzctRGtIY1BTUGgzLUh5QTJlaVh5emg0Zw?oc=5)
+
+2026-07-30
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnc0SGtjeFdkOThwU2N4ODRycHM1S21QbUJOMks0eGw4YmpucnF0bVdrZTJDVmxpVmVqSnZqb2tsUEtOVy12VmZPVzRmTmltYTJaRy1HM053QVRIblZWejB4eE9mNTN0SXVVaTdxOE5oVnB5TnBXaHVreUczeEpRel9WTEpBd0FkRTJtbEpPQkJ1Tl9CM0lYVnVnSk9IWi1BNUZpNkMtX05zVEhheEl5aTZCZEdQbzctRGtIY1BTUGgzLUh5QTJlaVh5emg0Zw?oc=5)
+
+---
 
 ### [Des chercheurs japonais identifient un germe possiblement à l’origine de la maladie d’Alzheimer](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFNUZzg4Ti1ucUktakc4bzZfLXoyTkpPUlFvUWZxSjhfX3RuX2dOTXdGSTQ2SkhwU2V5UkxCYWZSQ0pNUkhRa2FJaURXdE9IcGZtSW5rR1E2Yk1ZUUplY096TzFIOFVQYmlvX3VRNzh4UnJCV3RhUkhIM1RJRlhsZVlsaDItNkUyX1F5WEwwREd3cGduMXJKR1hiYjFGVmdONElkaGRFb3QxdTY3Q0VIU3EyTzEwRUpuNy1Xd01xOXpYdXA0amtHNktXSENWTGpX?oc=5)
 
@@ -54,19 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [Britons conceived during sugar rationing had lower chance of dementia - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnp0bHJNQ2JDeDctZU5VcFNFbUZBd0RQLUt1aXNCQlJaYUhRaGVxWlZpZ2ZDaWJvampILXFtbldKTVZwU0pVd0FKbVZvdGVoeV9OaUMySmhXSnpPVTVFd2FOSVQzMU50Vy1GNjM2NDZiaFYzLUx5ZWdmN0hpb1diZlgtTQ?oc=5)
+### [Giving babies less sugar could cut dementia risk, study finds - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
 2026-07-29
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnp0bHJNQ2JDeDctZU5VcFNFbUZBd0RQLUt1aXNCQlJaYUhRaGVxWlZpZ2ZDaWJvampILXFtbldKTVZwU0pVd0FKbVZvdGVoeV9OaUMySmhXSnpPVTVFd2FOSVQzMU50Vy1GNjM2NDZiaFYzLUx5ZWdmN0hpb1diZlgtTQ?oc=5)
-
----
-
-### [Pass the bran flakes: the UPFs to eat and the ‘natural’ foods to avoid - The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
-
-2026-07-29
-
-來源：[The Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2xQcmVaaktCM1l4b1d6bHpvSk1yN0hicEdjeGFwODRSNmRtR212MElMb2VRU2VISHV0SFJjWmNOMzR1M0dfLVVWWWd0MTRQVTBaZ2hMSFp6eTkyd3YzMnVUU2Vnbl82c2tEcFAwTVpJQTFBeUk0RW5JU0h5TTdJUzdTMC1tZThFWUdLdFVlYk1MZno2Z1ZrQ0xDODliVkdvZC1QTzAwdzgtY0xmWHc?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
 
 ---
 

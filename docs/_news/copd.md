@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "EPOC（copd） 相關新聞"
+title: "copd 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "copd 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# EPOC（copd） 相關新聞
+# copd 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="copd 有什麼相關新聞？">
+<strong>copd</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「copd」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -56,11 +56,11 @@ permalink: /news/copd/
 
 ## 相關新聞（1 則）
 
-### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
-2026-07-29
+2026-07-30
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 ---
 

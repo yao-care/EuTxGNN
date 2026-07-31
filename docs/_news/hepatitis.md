@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "epatite（hepatitis） 相關新聞"
+title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
-# epatite（hepatitis） 相關新聞
+# hepatitis 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
+<strong>hepatitis</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「epatite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hepatitis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -55,11 +55,19 @@ permalink: /news/hepatitis/
 
 ## 相關新聞（3 則）
 
-### [WHO fordert mehr Tests und Therapien gegen chronische Hepatitis B und C - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+### [WHO fordert mehr Tests und Therapien gegen chronische Hepatitis B und C](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
 
 2026-07-30
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+
+---
+
+### [Hepatitis silenciosa: cómo detectar a tiempo el desgaste del hígado antes de que sea irreversible - Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
+
+2026-07-30
+
+來源：[Noticias de Gipuzkoa](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
 
 ---
 
@@ -68,14 +76,6 @@ permalink: /news/hepatitis/
 2026-07-30
 
 來源：[journalmed.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
-
----
-
-### [Epatiti, Ecdc: “In Europa 5 mln con malattia cronica”. Iss: Serve prevenzione”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
-
-2026-07-29
-
-來源：[RaiNews](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
 
 ---
 
