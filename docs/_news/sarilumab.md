@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [Arthritis: Pim1-Kinase als neues Angriffsziel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-30 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
+
+---
+
+### [Darmflora: Wearables erkennen Schübe bis zu sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
+
+---
+
+### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
 
 ---
 
@@ -70,27 +86,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Screening neonatale, Giulia salvata dalla Sma: oggi è una bimba sana - la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
-
----
-
-### [Colitis ulcerosa: Wearables erkennen Schübe bis 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
-
-2026-07-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXVBUUczZVo3N1IzZEVHVEpzNHN0UFFBMGpyaFBuRGNWQ1RXQ0EyVk4wUGFzdGxZRUZsOS1rUWo2WE9jTTVFeS1IWjgxT0dNVTd3YjBhWm90N3FoS2xDVVB4RS1tQVU4cHFld09wamdGR3prUkRVWWROeEsxSTFXREp0RGtmUlF5WHFpZ085dkZJdGtNSGg2WF8zT2xOcjJBX3lvN2w3NUZGOUFWZkx0YWhodw?oc=5)
-
----
-
 ### [Diese Stallbakterien schützen gegen Asthma und Allergien - Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
 來源：[Bild der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUg0cUVndWNOdE5pWHNNX3FpdWFHOXlNd0FMdWwwOVhnVWVURTVTRmVqaVpueEJUY3lYTGY5NWhsWmNRSnhTVFRpbDI4c0lMbHNfeFZzc1Y5TmpyUW9udGFYTFFoMGJjcVJpYnZLaHBpdkZSWFNzUDc1aFlCamJoWlBVOWlMRVhLZWFuaG1ILVVoSVE?oc=5)
+
+---
+
+### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
+
+2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
 ---
 

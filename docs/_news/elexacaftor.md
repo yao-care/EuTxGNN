@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [Arthritis: Pim1-Kinase als neues Angriffsziel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-30 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
+
+---
+
+### [La verdad sobre las migrañas: cuáles son sus causas y cómo aliviarlas](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
+
+2026-07-30 <span class="news-indication-tag">migraña</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
 
 ---
 

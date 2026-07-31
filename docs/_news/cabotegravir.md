@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Arthritis: Pim1-Kinase als neues Angriffsziel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-30 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
+
+---
+
+### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
+
+2026-07-30 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Typ-2-Diabetes: Pflanzliche Ernährung senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlpfajZsN0pmalB6TFVPUEVGRnd1NXJWRmhYWjRISEozQkNKUzJvSEpjRkFyNHJ4SUN2RFI1VVZPY3VGaW5aMDZkX0I0WTlBQmJDR29oM2oxVlpsQU9BWHZOaHM5WHI3cUY5Mlkyb3dVWDhoTDBJeEZjZ3NCelhZNExHemR4dnZ6TzJHcDl3em43ME9WWVpNSEtJLVlkODJRVmN5MENwcUJJcm1EaTdEWmNvNA?oc=5)
+### [Nueva y prometedora diana terapéutica, en forma de microproteína, para la diabetes y la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
 
-2026-07-30 <span class="news-indication-tag">diabetes</span>
+2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlpfajZsN0pmalB6TFVPUEVGRnd1NXJWRmhYWjRISEozQkNKUzJvSEpjRkFyNHJ4SUN2RFI1VVZPY3VGaW5aMDZkX0I0WTlBQmJDR29oM2oxVlpsQU9BWHZOaHM5WHI3cUY5Mlkyb3dVWDhoTDBJeEZjZ3NCelhZNExHemR4dnZ6TzJHcDl3em43ME9WWVpNSEtJLVlkODJRVmN5MENwcUJJcm1EaTdEWmNvNA?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
 
 ---
 
@@ -102,11 +110,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
-2026-07-28 <span class="news-indication-tag">diabete</span>
+2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
 ---
 

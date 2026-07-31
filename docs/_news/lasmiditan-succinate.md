@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [La verdad sobre las migrañas: cuáles son sus causas y cómo aliviarlas](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
+
+2026-07-30 <span class="news-indication-tag">migraña</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
+
+---
+
+### [Nueva y prometedora diana terapéutica, en forma de microproteína, para la diabetes y la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
+
+2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
+
+---
 
 ### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
 

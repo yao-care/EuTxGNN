@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dronedarone</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（27 則）
 
-### [Anti-Reflux mit Ernährung: Studie erreicht 81,2% Erfolgsquote gegen Sodbrennen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+### [Kaffee senkt Risiko: Neuronentypen erklären Herzrhythmus und Therapieansätze - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXlDejFlSFJHWHBzcHVDbV9IcHgxYW82ekttN0dXM3p3TnYzUWRVcE9jZUVBdnRlQURVT1BWdVBiWnJGXzBwMERsdnJCQ3V3Zmc0ejJSYmNPajY4WHQ1Vnd0TnV3UmdtQmhvdXV4TzVLbzZGMFhjZkYyR2NfLW9hU1BqWWs4SXNzSmFpZUFRcG13dnE0NEdjNi15QS13Z0JHd3Jxb01ETzMyd3pMSmc?oc=5)
 
-2026-07-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-07-30 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXlDejFlSFJHWHBzcHVDbV9IcHgxYW82ekttN0dXM3p3TnYzUWRVcE9jZUVBdnRlQURVT1BWdVBiWnJGXzBwMERsdnJCQ3V3Zmc0ejJSYmNPajY4WHQ1Vnd0TnV3UmdtQmhvdXV4TzVLbzZGMFhjZkYyR2NfLW9hU1BqWWs4SXNzSmFpZUFRcG13dnE0NEdjNi15QS13Z0JHd3Jxb01ETzMyd3pMSmc?oc=5)
+
+---
+
+### [Uno de los mayores obstáculos para dejar el tabaco es el 'craving' - Andalucía Información](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU21oUThpaUstT01yV1FXcWlLWmF2YmlmSWd1b0NQOFUybWp0bzE3a092WlhJZFZNTWxYUDIzbTFLSV9PYXRLS3RRQlFUTDRUMUxXRTlwVnIwZnpmbU5Xdkh6Z0RWVVBXZ3lUUi1jc0FkVWZkQ1VFSnZnbnE4ZHFVX3R1QzcyXzgtcmRVOVU0RFJHWU9QSnNMNVJkbFJlVWh1QmdSUTlKUHdxdGpxRlRrT2ZDYXJaQmxDcE1CYUg1MzB1RlHSAcgBQVVfeXFMT1RBR1FERW9mbWVDWTVUS25ySHJqczczTGtkSW5mMkQzalI4RUJobHRTRE03MldlanktX19KV1U2WE9VYm9EYVNpSW5jQTI5NVRQSEc3UzV1NFJsTFFzYVg1SUZuOGNmaS16TkJ4UGhseVRyT2wzUUhUWUlVZFFJWWJjRlNVR3pJZDdMTHREOXVENWlraE1LeE5LT1lqeFJ5SXlCMEhKaXdaU2IwMGVFT3ZwdjByYmtleTZNanJtQlprUHhmcmxSSHc?oc=5)
+
+2026-07-30 <span class="news-indication-tag">AF</span>
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU21oUThpaUstT01yV1FXcWlLWmF2YmlmSWd1b0NQOFUybWp0bzE3a092WlhJZFZNTWxYUDIzbTFLSV9PYXRLS3RRQlFUTDRUMUxXRTlwVnIwZnpmbU5Xdkh6Z0RWVVBXZ3lUUi1jc0FkVWZkQ1VFSnZnbnE4ZHFVX3R1QzcyXzgtcmRVOVU0RFJHWU9QSnNMNVJkbFJlVWh1QmdSUTlKUHdxdGpxRlRrT2ZDYXJaQmxDcE1CYUg1MzB1RlHSAcgBQVVfeXFMT1RBR1FERW9mbWVDWTVUS25ySHJqczczTGtkSW5mMkQzalI4RUJobHRTRE03MldlanktX19KV1U2WE9VYm9EYVNpSW5jQTI5NVRQSEc3UzV1NFJsTFFzYVg1SUZuOGNmaS16TkJ4UGhseVRyT2wzUUhUWUlVZFFJWWJjRlNVR3pJZDdMTHREOXVENWlraE1LeE5LT1lqeFJ5SXlCMEhKaXdaU2IwMGVFT3ZwdjByYmtleTZNanJtQlprUHhmcmxSSHc?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
+
+---
+
 ### [Terzo caso di Febbre del Nilo: 65enne di Santa Giusta ricoverato al San Martino - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXF3SjFab1A5c1BlendpOXJkMU1tRkhWWXZNMXc2cy1PMlJES1ljX09saE9pTE50am53VUo2MHB3d0NXSDAyOGhxSGNLNGpnMUZnYXBUdTVrYmxVSmZ5REh3WE1FMGtTT3RXLXdJczBVX29NLTNnQkJXYnBLTkQyekR4ZzQtc3JEeVQzdEhJZThRWk1obGpadjBSU2FZOGxPcDFwNm5xc0VsdDd1bGhGakJuY0FDNWRLNENqYlFVRE9oNzhIS3ZUNWJENDBnTVlWTXNOc1BqcVd5VXNUWUFMOdIB6AFBVV95cUxOZWpCUjREc1I3MEhyTXpPTEhROTJpT25RZUlMNkRUbXdBMG52eC1rRS1adVJuWl8tbTZjQ1M3dU9Md25KMXZVd1hYQTFRTzl5U3NDc0wtVWE0c1luT2w1RHFPWGVOWFpjXzFydHlFcWlUYlo1UU8weTJzcHk2dTlLcm5xdXVacy1PTVhVV3dxd2c0ZWtuWW5iNXNkOF9zRWNuc0NOTWNidE0zNndEV1FwOGNHMXdmVGpTRTJJeXl3VnFzcTJ2RHNIanJuU3NJQ28wbzhNa0FXQVB1Zkx6ZTl4TktkaWZKRFBj?oc=5)
 
 2026-07-30 <span class="news-indication-tag">AF</span>
@@ -78,27 +94,27 @@ permalink: /news/dronedarone/
 
 ---
 
-### [On pensait qu'un café bu en fin de journée ne jouait que sur le temps d'endormissement : les EEG montrent que le vrai dégât arrive plus tard dans la nuit](https://news.google.com/rss/articles/CBMigwJBVV95cUxNak1FNzY5cHZCWVRyZ0R2dGdtLVVhbm9pZG50WnNvRVRvWGpZeE44VF9PM05ObEFKRmV6eUY5a0lzd29Zcy04clV1WlUzZ3dONTVKbmZlWDZURzhoWGRwZnZxSUNlb1paVnIyRmxTdW5QVlJjNnJ1MzNCbWdnZ0JMTjZRS2diUlZqQTA4V1ljdURTSkJ6b1d4OUhEOWJmRTVHX0QtUVJFbmpveVBiMlpvZ09WSXRkUm5WUGdaYWI2Zndqa29CQ2hjbGN6cm95UUtzTnVhNGJXWEViQVp3WUlwVllSTkFFT0ctb3NTTnk1OUxWM3dnM3d0N0tCQUozLVdmWGFB?oc=5)
+### [Ictus ischemico, al “San Pio” di Benevento eseguita la prima trombectomia meccanica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTFUdWhDVm5kcGdBb0l5dHJtWGRSSWE3Uzl5TTRvLUMtRGphMl9YSVJfYkV4d0l2cS0xUE1OaEZFOVNNbWhHUlg5bkFTVnF3UDQ1OHQ5UXlCdzZUdklKTm1ueWVUbUJvQTNrYXZVeVdsVDJWenFsZnVuU2g3NXBzUDFhbmppb2NBS3ZabzJSWTJYTlVCeVFPMGtScVZIZThpaEY4clNXWjhLZDhfZFdRRm01SQ?oc=5)
 
-2026-07-30 <span class="news-indication-tag">AF</span>
+2026-07-30 <span class="news-drug-tag">Tenecteplase</span> <span class="news-indication-tag">ictus</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMigwJBVV95cUxNak1FNzY5cHZCWVRyZ0R2dGdtLVVhbm9pZG50WnNvRVRvWGpZeE44VF9PM05ObEFKRmV6eUY5a0lzd29Zcy04clV1WlUzZ3dONTVKbmZlWDZURzhoWGRwZnZxSUNlb1paVnIyRmxTdW5QVlJjNnJ1MzNCbWdnZ0JMTjZRS2diUlZqQTA4V1ljdURTSkJ6b1d4OUhEOWJmRTVHX0QtUVJFbmpveVBiMlpvZ09WSXRkUm5WUGdaYWI2Zndqa29CQ2hjbGN6cm95UUtzTnVhNGJXWEViQVp3WUlwVllSTkFFT0ctb3NTTnk1OUxWM3dnM3d0N0tCQUozLVdmWGFB?oc=5)
-
----
-
-### [Jenseits von Antibiotika: ein neuer Ansatz zur Behandlung von Harnwegsinfektionen - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnhPU2ZQZjlLTWlNcm5UWGFXMHRoUG8zbG9GTzEyXzFSVFJyNXVBdTE2MmpablpTN3JVWUdvWDRtYnhuV3QzN25TNzVuaE9VQ1pueHBtaktaZWYxSVpZLTBuVkQxTjB6TXdQV2VoZ00wQXlfLV8zNUsxOTAyazBseFktOWJCRzdNY2hWd1h3cG03UmlkVDBaYnZ3YUNDcXdFaW82RjYxa2pfM1dvTG8yVm92X3lZQTVLb0tTM0R5aXJoa3M?oc=5)
-
-2026-07-30 <span class="news-indication-tag">AF</span>
-
-來源：[idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnhPU2ZQZjlLTWlNcm5UWGFXMHRoUG8zbG9GTzEyXzFSVFJyNXVBdTE2MmpablpTN3JVWUdvWDRtYnhuV3QzN25TNzVuaE9VQ1pueHBtaktaZWYxSVpZLTBuVkQxTjB6TXdQV2VoZ00wQXlfLV8zNUsxOTAyazBseFktOWJCRzdNY2hWd1h3cG03UmlkVDBaYnZ3YUNDcXdFaW82RjYxa2pfM1dvTG8yVm92X3lZQTVLb0tTM0R5aXJoa3M?oc=5)
+來源：[NTR24.TV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTFUdWhDVm5kcGdBb0l5dHJtWGRSSWE3Uzl5TTRvLUMtRGphMl9YSVJfYkV4d0l2cS0xUE1OaEZFOVNNbWhHUlg5bkFTVnF3UDQ1OHQ5UXlCdzZUdklKTm1ueWVUbUJvQTNrYXZVeVdsVDJWenFsZnVuU2g3NXBzUDFhbmppb2NBS3ZabzJSWTJYTlVCeVFPMGtScVZIZThpaEY4clNXWjhLZDhfZFdRRm01SQ?oc=5)
 
 ---
 
-### [Screening neonatale, Giulia salvata dalla Sma: oggi è una bimba sana - la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
+### [Le secret d'un cerveau en forme avec l'âge pourrait se cacher dans vos horaires de repas - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ09jRlNhZnVpQmRpdGM3MDMtWEJNUDRnMm5lMGNZbG5ibGhHeVl3Um45SEs5LUM4d3VwRTdTekhnUGptbk5uT2FKYnJNbDJTVVlWYjBINllLY1ozaEhIQ1hWdDRVVlhKcV84cC1sYnl6MXB4VUhQTDE0X2xRRDBobDhEWGxlWEhrbXF5amE4OGE3Vld2OEd6bHNOakNiZ1VaZkxjaTIzU2Z1OUtFbWZsVjJYVWMxOXdQd3laUVRwUk5xZw?oc=5)
 
-2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+2026-07-30 <span class="news-indication-tag">AF</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ09jRlNhZnVpQmRpdGM3MDMtWEJNUDRnMm5lMGNZbG5ibGhHeVl3Um45SEs5LUM4d3VwRTdTekhnUGptbk5uT2FKYnJNbDJTVVlWYjBINllLY1ozaEhIQ1hWdDRVVlhKcV84cC1sYnl6MXB4VUhQTDE0X2xRRDBobDhEWGxlWEhrbXF5amE4OGE3Vld2OEd6bHNOakNiZ1VaZkxjaTIzU2Z1OUtFbWZsVjJYVWMxOXdQd3laUVRwUk5xZw?oc=5)
+
+---
+
+### [Schlafstörungen: TCM-Präparate helfen nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWdWcHBWU1BLa0kwSHktZ3U5NVhfZGM1OHlVbFZXb1dNZmZ5WGpTdy1kMzlMdlFCMV9DZzAwWVp1NVNYbzhZUlNoVElHYnlJN3A5elV6SzJHaEN4U3BkYlFTcEp1RUZHOGZ0NE5keUs3QzR4MHlVYkNoRkNWNk5NU1RqMUNSN1A1dmNoeFNPM0VBNFIxR053dnlTZGNrdHZNLThuZTdIWl80WXZyS0FhWg?oc=5)
+
+2026-07-30 <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWdWcHBWU1BLa0kwSHktZ3U5NVhfZGM1OHlVbFZXb1dNZmZ5WGpTdy1kMzlMdlFCMV9DZzAwWVp1NVNYbzhZUlNoVElHYnlJN3A5elV6SzJHaEN4U3BkYlFTcEp1RUZHOGZ0NE5keUs3QzR4MHlVYkNoRkNWNk5NU1RqMUNSN1A1dmNoeFNPM0VBNFIxR053dnlTZGNrdHZNLThuZTdIWl80WXZyS0FhWg?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Studie: Hoher Süßstoffkonsum hängt mit schnellerem Gedächtnisabbau zusammen](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
-
-2026-07-30 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGRtaFBuVGVCbGlpaXpscFFPZXJYSjUycmtWcG9YQ2p4MXdNUkVQa0NIYm5vOTFTNUx3SUROeG5tTkhGWGEzOFIzT2xFUEpnYVpGSlliNmt2UVVLMHdra1Z2UUFoYmJaZFBwOXFTMWJxLTZZNXBkQjBqM1dLekprejU3ZXRvVVg0dGNmWEVCXzRMWC1EdV9vUlh5c1l0VUZtcWlEZTdQVzEwZTJTc1ZZOHdicUU?oc=5)
-
----
-
 ### [Girl 'repeatedly dismissed by GP' diagnosed with cancer after Devon holiday - Devon Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhsZXZNYVdiTlN0SlpoajVDekN5eTYtVzVxdlRlOUw0UWdUZWo2cS1MdS1jdmVXZWJCWGtZUzlVT1p3YnRlUlRWUGtNUXZEbUNkNU5ROFpKOGRSSnFQV053cUNsRm1faS1HTEltV2Y2VXhVT1NtS0F0RHozLUZNN1RkNmN4aFpRWVp6WC1oaW43ZTA1VVNj?oc=5)
 
 2026-07-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -150,11 +158,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Merck und Wellcome kooperieren mit globaler Gesundheitsorganisation bei Ebola-Impfstoff für klinische Studien - MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVVHSW5GdG1obmNmOFZ6NmtfTU1uRzRpNDJmcWt0Nm5JV011NC1uU0JXZWE1OUpocEZCRmxoUG1KYXREczFrNFNaQksyZkE3TXZ3cVM2akJ3WG80VS1XaVB0eFZuZWdWR3RRTnhrbF9ZenZ5YzAxS0NyTnVxZE5WeFhQNS1FN01xQTl3Vl9iNDc2ajF4V2dBNnhjQy1qMHh1eEpTempWQzJVVFA5bk1EZkRBdmdVWk9LXzJiUDhuVVVnMnhUZU9PN3J3dEV0bjFoZmhyX3JPN3luTy1PRWJxUTVwM0ZGRXFlT3hnRVYzTTE1ZUpiMFA5SlQ1WQ?oc=5)
+### [Merck und Wellcome kooperieren mit globaler Gesundheitsorganisation bei Ebola-Impfstoff für klinische Studien](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVVHSW5GdG1obmNmOFZ6NmtfTU1uRzRpNDJmcWt0Nm5JV011NC1uU0JXZWE1OUpocEZCRmxoUG1KYXREczFrNFNaQksyZkE3TXZ3cVM2akJ3WG80VS1XaVB0eFZuZWdWR3RRTnhrbF9ZenZ5YzAxS0NyTnVxZE5WeFhQNS1FN01xQTl3Vl9iNDc2ajF4V2dBNnhjQy1qMHh1eEpTempWQzJVVFA5bk1EZkRBdmdVWk9LXzJiUDhuVVVnMnhUZU9PN3J3dEV0bjFoZmhyX3JPN3luTy1PRWJxUTVwM0ZGRXFlT3hnRVYzTTE1ZUpiMFA5SlQ1WQ?oc=5)
 
 2026-07-30 <span class="news-indication-tag">AF</span>
 
-來源：[MarketScreener Deutschland](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVVHSW5GdG1obmNmOFZ6NmtfTU1uRzRpNDJmcWt0Nm5JV011NC1uU0JXZWE1OUpocEZCRmxoUG1KYXREczFrNFNaQksyZkE3TXZ3cVM2akJ3WG80VS1XaVB0eFZuZWdWR3RRTnhrbF9ZenZ5YzAxS0NyTnVxZE5WeFhQNS1FN01xQTl3Vl9iNDc2ajF4V2dBNnhjQy1qMHh1eEpTempWQzJVVFA5bk1EZkRBdmdVWk9LXzJiUDhuVVVnMnhUZU9PN3J3dEV0bjFoZmhyX3JPN3luTy1PRWJxUTVwM0ZGRXFlT3hnRVYzTTE1ZUpiMFA5SlQ1WQ?oc=5)
+來源：[de.marketscreener.com](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVVHSW5GdG1obmNmOFZ6NmtfTU1uRzRpNDJmcWt0Nm5JV011NC1uU0JXZWE1OUpocEZCRmxoUG1KYXREczFrNFNaQksyZkE3TXZ3cVM2akJ3WG80VS1XaVB0eFZuZWdWR3RRTnhrbF9ZenZ5YzAxS0NyTnVxZE5WeFhQNS1FN01xQTl3Vl9iNDc2ajF4V2dBNnhjQy1qMHh1eEpTempWQzJVVFA5bk1EZkRBdmdVWk9LXzJiUDhuVVVnMnhUZU9PN3J3dEV0bjFoZmhyX3JPN3luTy1PRWJxUTVwM0ZGRXFlT3hnRVYzTTE1ZUpiMFA5SlQ1WQ?oc=5)
 
 ---
 
@@ -182,11 +190,27 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Caso di Dengue a Udine, disinfestazione straordinaria nell’area di Planis](https://news.google.com/rss/articles/CBMiugFBVV95cUxONWJEVTlycEFtY0VkWUx4MkJwOGZ5RENTdG44ZDNFUzJrVEw4VWhXOWFWbjlIRlh5ek5Na1dxei1kX09OdGR3Y1hYSzUtYzJpQktoN0JSZ2duQXUzeDMzelNyb3BtYkY5SnBTWVZaWnB0Zmd4VFVCSDJ5MnV0ajJvRFo3N0Frd2VUNHhNTFFDRVpOZ0ctR2otbTdPdWx1cGNGZFZhZE5vYUwwVWRTUk82VVduaGhSMmFuWWc?oc=5)
+### [The past and future impact of climate change on childhood malaria in Africa](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3XzdHYzNTNVhRcFYyVzFHOGcyY0hOTGZqQTB4emVXTnpZcEJMNFBJeHVHUFg1dXpaM1daaXE4dE1xREZtTDV3N1NRRWJfNjVxZE8xM1VndDFHdXNxUW1Z?oc=5)
 
 2026-07-29 <span class="news-indication-tag">AF</span>
 
-來源：[comune.udine.it](https://news.google.com/rss/articles/CBMiugFBVV95cUxONWJEVTlycEFtY0VkWUx4MkJwOGZ5RENTdG44ZDNFUzJrVEw4VWhXOWFWbjlIRlh5ek5Na1dxei1kX09OdGR3Y1hYSzUtYzJpQktoN0JSZ2duQXUzeDMzelNyb3BtYkY5SnBTWVZaWnB0Zmd4VFVCSDJ5MnV0ajJvRFo3N0Frd2VUNHhNTFFDRVpOZ0ctR2otbTdPdWx1cGNGZFZhZE5vYUwwVWRTUk82VVduaGhSMmFuWWc?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3XzdHYzNTNVhRcFYyVzFHOGcyY0hOTGZqQTB4emVXTnpZcEJMNFBJeHVHUFg1dXpaM1daaXE4dE1xREZtTDV3N1NRRWJfNjVxZE8xM1VndDFHdXNxUW1Z?oc=5)
+
+---
+
+### [Enzymatic glycosylation and amidation reshapes polyene bioactivity](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sREpSakN0U00yZW40YWdqRi1lQWVYS3pMWkhuVVUwUmNndVZjS1dNVmNBV1R4UnlPbXVUUnF1amUyclpzV3Fsc1VuRXUzSGVzTndlVmpQWElZdVhfaDA0?oc=5)
+
+2026-07-29 <span class="news-indication-tag">AF</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sREpSakN0U00yZW40YWdqRi1lQWVYS3pMWkhuVVUwUmNndVZjS1dNVmNBV1R4UnlPbXVUUnF1amUyclpzV3Fsc1VuRXUzSGVzTndlVmpQWElZdVhfaDA0?oc=5)
+
+---
+
+### [Gehirn ab 50: Massive Verluste von schützenden Immunzellen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1liOUNvbV8tWjBJRE4xSE9YVzA2QmJiRXozUngzLUxiQUJzYXRVUnNTaGRLSWxMVTB1RkFTVVJUZGxDX3hjcm9penRVLTZjY0JIekhMZzJZYnM3ZktIcHZvNWswT2hRRGl6S2UtNU1NSld0cHZZcmRfVzBkZjZIYnV2WXlUbUE4Z1BqVmlfTktwZllEMlNjR045enRucGl4azFQWDV0SGE5UWs?oc=5)
+
+2026-07-29 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1liOUNvbV8tWjBJRE4xSE9YVzA2QmJiRXozUngzLUxiQUJzYXRVUnNTaGRLSWxMVTB1RkFTVVJUZGxDX3hjcm9penRVLTZjY0JIekhMZzJZYnM3ZktIcHZvNWswT2hRRGl6S2UtNU1NSld0cHZZcmRfVzBkZjZIYnV2WXlUbUE4Z1BqVmlfTktwZllEMlNjR045enRucGl4azFQWDV0SGE5UWs?oc=5)
 
 ---
 
@@ -198,11 +222,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Ictus. A volte torna](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLLUFKUmFrU0lNeEtvSW9FYWdMSC0zYzlTczhVUm5PbmdLYkZwZ3pBdlhHdm52Nm1HZm9aR3RqU2xoUHNvTWVUZVJISElELTVRNDdYUlYwTWNQdXhvb29DdWtrVEgxMkxNeHB0OXc0eFpVZHVEYTU1TEdB?oc=5)
+### [Missed chances led to Legionnaires death - inquest](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdnc2bzFUNWlpbEQzd1o4NV9HQkoyUHpSTGN3X3lmT2pUYW5peEtnYVlnR0p0QXdfeV8xeWx0TG96SHpuUVI1OVNMV2RIVmpGZlJtQTNfS016NHFY?oc=5)
 
-2026-07-29 <span class="news-indication-tag">ictus</span>
+2026-07-29 <span class="news-indication-tag">AF</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLLUFKUmFrU0lNeEtvSW9FYWdMSC0zYzlTczhVUm5PbmdLYkZwZ3pBdlhHdm52Nm1HZm9aR3RqU2xoUHNvTWVUZVJISElELTVRNDdYUlYwTWNQdXhvb29DdWtrVEgxMkxNeHB0OXc0eFpVZHVEYTU1TEdB?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdnc2bzFUNWlpbEQzd1o4NV9HQkoyUHpSTGN3X3lmT2pUYW5peEtnYVlnR0p0QXdfeV8xeWx0TG96SHpuUVI1OVNMV2RIVmpGZlJtQTNfS016NHFY?oc=5)
 
 ---
 
@@ -211,14 +235,6 @@ permalink: /news/dronedarone/
 2026-07-29 <span class="news-indication-tag">AFib</span>
 
 來源：[FoggiaToday - cronaca e notizie da Foggia](https://news.google.com/rss/articles/CBMingFBVV95cUxQYWZGUWluM2FBZHNZLUV3ZzN4MzB6WDVMellMeGpDRmhQWlhfNkRsQWlON2dEWDRHX1AtcDNpb29HZW5RaXFxNXBvbk5KMGdUN3hUdEZReVU4VGVjNlZkTk1neTItdmFuU2xQTWJuTHhzVHBQWEFia1Qxd2E5V2h0SmJiQkZYbFpUcTNIX2Z4QS02bWVGSXNEQ1ZlWnVsdw?oc=5)
-
----
-
-### [Gehirnalterung: Massive Immunzell-Verluste bereits ab 50 Jahren - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFdRQkozdGFmUzFyd002LW16RHcyVnVyd21tU29hRXlEWDFkQUcxdU5yQTRJVzE1eDlIYUotSkZZLWM0NHp4eGlidGxQMl9zUXB1M29fSTFZalZZZmQ5TmlWaVBxR0k1WUNGTVN1SDFhNXlZUVg0MlQ2ZF9SRTJVTXZFbERyMXB1ZFFSZFdMeUtid1RsR0hPOFlubHN4c19oOEdsX2FjaU40elBEcjQ3RQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFdRQkozdGFmUzFyd002LW16RHcyVnVyd21tU29hRXlEWDFkQUcxdU5yQTRJVzE1eDlIYUotSkZZLWM0NHp4eGlidGxQMl9zUXB1M29fSTFZalZZZmQ5TmlWaVBxR0k1WUNGTVN1SDFhNXlZUVg0MlQ2ZF9SRTJVTXZFbERyMXB1ZFFSZFdMeUtid1RsR0hPOFlubHN4c19oOEdsX2FjaU40elBEcjQ3RQ?oc=5)
 
 ---
 
@@ -246,11 +262,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Ästhetik: Was die Lieblingsfarbe über die mentale Gesundheit verrät - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnJJMTF2bV9tbHhibnhrZ0xjSmhUSUpibmtBN09fNHpvY2pFa1FhbzhJVVRJVVNrd0RuOV9mLUl5WGs1Sk9KWk53WGowUzROSXJEOGRZUXpWSW8xZ0xnUGdTSW1leDd2bWVqLWZSOVY2WmJzTkpXSThSUy13cTNiTlA0dE5vMTY5QTNYODRhUl9ZbHh1TjZVRDF2X2o?oc=5)
+### [CO2-Inhalation und Gehirnreinigung: Schlaf-ähnliche Muster im Wachzustand - it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0pyMTZ1X2JxendZWmxPUjl0VktYU2xQQndQaDduYzE2TkxzbWdST2JmbUlvZlk1cUZORVZPRmhXWG5WeUp1T0h3WllITkY0S2trVC1RRG5va1VpNkZIRTFmZG1WQnYyY3ZKdW1KVU8wcURaWEU4elp1RkU2MlRSeV9qNE1sZTRDazV3enNiTXVkcy1FTFdDSHFESmI0am43ZE1aU1UxOS0?oc=5)
 
-2026-07-28 <span class="news-indication-tag">AF</span>
+2026-07-29 <span class="news-indication-tag">AF</span>
 
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnJJMTF2bV9tbHhibnhrZ0xjSmhUSUpibmtBN09fNHpvY2pFa1FhbzhJVVRJVVNrd0RuOV9mLUl5WGs1Sk9KWk53WGowUzROSXJEOGRZUXpWSW8xZ0xnUGdTSW1leDd2bWVqLWZSOVY2WmJzTkpXSThSUy13cTNiTlA0dE5vMTY5QTNYODRhUl9ZbHh1TjZVRDF2X2o?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0pyMTZ1X2JxendZWmxPUjl0VktYU2xQQndQaDduYzE2TkxzbWdST2JmbUlvZlk1cUZORVZPRmhXWG5WeUp1T0h3WllITkY0S2trVC1RRG5va1VpNkZIRTFmZG1WQnYyY3ZKdW1KVU8wcURaWEU4elp1RkU2MlRSeV9qNE1sZTRDazV3enNiTXVkcy1FTFdDSHFESmI0am43ZE1aU1UxOS0?oc=5)
 
 ---
 

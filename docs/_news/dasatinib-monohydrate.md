@@ -14,7 +14,7 @@ permalink: /news/dasatinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dasatinib Monohydrate 有什麼相關新聞？">
-<strong>Dasatinib Monohydrate</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dasatinib Monohydrate</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/dasatinib-monohydrate/
 <p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
-### [Il pensait être fatigué, il souffrait d’un cancer du cerveau - 20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0VVSHRETnNEbWRjbVl3aTJTdHp2MnRzeGNSLW83bzR1MWNWaEtBWTNUdGh2Q2ROZWp2QzVOUXRTZXo4YmtPS0ROVVJ3VVNTZFA1cjJHQVpZemg0QXF4ZUxuN3IyUTZDNHZEUkltQklSMW5GWVpsd2Vxb1JMakVHanVNOGhzaHFJVE5MVDU2Y2d6VWs4ZW1FYlVfd0FmUk83bjJ2MjJiS1RPMUNjSmxsb1VqQWRnRkVha3JLMG5XWDhiVjNRZUpMejZR?oc=5)
+### [Cancer patient becomes first to receive 'landmark' treatment - Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSS1lOTFaTVNwTDhlWkQtSHo5blNHRFpueEgyMXBNMkN6WFB1SmZmejhYellPX2hScjdtZ0VyVDVWVTFYdFczelN4a05oU1VsRzdVX0M0S1ZVZEVRNDBYeXExUGpZS2Z5QmEyR1hRNUNIRURYNlNxcURYbFZENUt1NUVlSDlTaS1hSFBBemVaR3FCV2V4SW5UUlJR?oc=5)
 
 2026-07-30 <span class="news-indication-tag">cancer</span>
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0VVSHRETnNEbWRjbVl3aTJTdHp2MnRzeGNSLW83bzR1MWNWaEtBWTNUdGh2Q2ROZWp2QzVOUXRTZXo4YmtPS0ROVVJ3VVNTZFA1cjJHQVpZemg0QXF4ZUxuN3IyUTZDNHZEUkltQklSMW5GWVpsd2Vxb1JMakVHanVNOGhzaHFJVE5MVDU2Y2d6VWs4ZW1FYlVfd0FmUk83bjJ2MjJiS1RPMUNjSmxsb1VqQWRnRkVha3JLMG5XWDhiVjNRZUpMejZR?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSS1lOTFaTVNwTDhlWkQtSHo5blNHRFpueEgyMXBNMkN6WFB1SmZmejhYellPX2hScjdtZ0VyVDVWVTFYdFczelN4a05oU1VsRzdVX0M0S1ZVZEVRNDBYeXExUGpZS2Z5QmEyR1hRNUNIRURYNlNxcURYbFZENUt1NUVlSDlTaS1hSFBBemVaR3FCV2V4SW5UUlJR?oc=5)
 
 ---
 
-### [Alzheimer : des scientifiques ont potentiellement trouvé le germe à l'origine de la maladie](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
+### [Il costo nascosto del cancro: trovare chi si occupi dei figli durante le cure](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXV0SzZsRkNYRzZiV3ZRb3RFeWRxVGlEbnlyRHQzbktOTjhGSGtNdDU4d0xuaTdwQVVqaDc4Umk4RXBkLUJFTzBib2NUd09fOGZ5QXA3Q1VTTHU3RXBKbWxZNWxpR0FlNjRPelhFMFZUSUI3ejVReWRUbnVCb1pUcXVpbWNYUV9OaWRzY05mclZKdHUzZ1RweE5GSDIwSnhjVkZSaWlKVnhCYUJ2N2Z1SjIxTHJ1Q1kxQ25WU2FDUkFrZUw4OUpGZ0hnVUhjbzVrMWc?oc=5)
 
-2026-07-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
+2026-07-30 <span class="news-indication-tag">cancro</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGNnQTdtbTUwbXM4dHpSV0RfS3QtanFnOTZRZnlsZkVsUzBsMmVMeUZuX3FibFZYWTR4QVA4ZnpkQTBPYmlIMThoRTdrWnBSRjNQM29iaFdFaVVseFFzSVl1RlVXRWx3MHhsaldCbzdyYlQzckRKcXltUWJ5b0dhRy1EMU1HSkpSWkZLMkh2dnRpMHdoZFZFSEplaDRTaHJLUEhIRmI0b2E2T1FPSkNLTms0YW9NX1nSAbwBQVVfeXFMTjRvaEpqMFlnTjZ0VHdGbE1xb0NwX2IyU09QanFrbGpKVlRqTUtmU3Q5TlVIeElmbE5QUzZlbWhkdWM1YW9nY2NVM2VsN2VWc01wdmZ1T2lUUU9NYWJubm5KOXMxenZheGZTVTJ3RTM4LWpqQlZRR3FqOWk2M2h4VGVOUkh5S25HV3B4NXJxT2l6aTZmWDM5VU1ZSjk2b0lETFZCUDFYYXVMeTJWblhSRmU4MjFXbXprbUYxYmk?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXV0SzZsRkNYRzZiV3ZRb3RFeWRxVGlEbnlyRHQzbktOTjhGSGtNdDU4d0xuaTdwQVVqaDc4Umk4RXBkLUJFTzBib2NUd09fOGZ5QXA3Q1VTTHU3RXBKbWxZNWxpR0FlNjRPelhFMFZUSUI3ejVReWRUbnVCb1pUcXVpbWNYUV9OaWRzY05mclZKdHUzZ1RweE5GSDIwSnhjVkZSaWlKVnhCYUJ2N2Z1SjIxTHJ1Q1kxQ25WU2FDUkFrZUw4OUpGZ0hnVUhjbzVrMWc?oc=5)
+
+---
+
+### [A 34 ans, il pensait être simplement fatigué : ses maux de tête persistants cachaient en fait un cancer du cerveau incurable - Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
+
+2026-07-30 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/dasatinib-monohydrate/
 2026-07-30 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeDNnMDFFeF9UcjdoZ3NTN1lUaDRObFFDTFg5VngyTUZXWVJ3N2U5TDhuZnZweGhmcmdZM0VobnJwRGxqQXdHUW1xM3p6QmNfM3dyVlBOcXZWdjdwdEVycFZJbFVxQTdONFN1WHpsQ2VoM1JRMWZRenFVc2hrZ1kwSXU3eTVCbmF4dW9HQlRXRXBUUTNRb2lXM01XT2ExM1FTelBGcE5fZTdrdWVwZXRMdDhQNFllRy1UdkhRXzF3MnRJTkx0T251dWxackwxVnFJbmdj?oc=5)
+
+---
+
+### [Des chercheurs japonais identifient un germe possiblement à l’origine de la maladie d’Alzheimer](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFNUZzg4Ti1ucUktakc4bzZfLXoyTkpPUlFvUWZxSjhfX3RuX2dOTXdGSTQ2SkhwU2V5UkxCYWZSQ0pNUkhRa2FJaURXdE9IcGZtSW5rR1E2Yk1ZUUplY096TzFIOFVQYmlvX3VRNzh4UnJCV3RhUkhIM1RJRlhsZVlsaDItNkUyX1F5WEwwREd3cGduMXJKR1hiYjFGVmdONElkaGRFb3QxdTY3Q0VIU3EyTzEwRUpuNy1Xd01xOXpYdXA0amtHNktXSENWTGpX?oc=5)
+
+2026-07-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+來源：[L'Humanité](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFNUZzg4Ti1ucUktakc4bzZfLXoyTkpPUlFvUWZxSjhfX3RuX2dOTXdGSTQ2SkhwU2V5UkxCYWZSQ0pNUkhRa2FJaURXdE9IcGZtSW5rR1E2Yk1ZUUplY096TzFIOFVQYmlvX3VRNzh4UnJCV3RhUkhIM1RJRlhsZVlsaDItNkUyX1F5WEwwREd3cGduMXJKR1hiYjFGVmdONElkaGRFb3QxdTY3Q0VIU3EyTzEwRUpuNy1Xd01xOXpYdXA0amtHNktXSENWTGpX?oc=5)
 
 ---
 
@@ -118,11 +134,11 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Giving babies less sugar could cut dementia risk, study finds - The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
+### [Britons conceived during sugar rationing had lower chance of dementia - The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnp0bHJNQ2JDeDctZU5VcFNFbUZBd0RQLUt1aXNCQlJaYUhRaGVxWlZpZ2ZDaWJvampILXFtbldKTVZwU0pVd0FKbVZvdGVoeV9OaUMySmhXSnpPVTVFd2FOSVQzMU50Vy1GNjM2NDZiaFYzLUx5ZWdmN0hpb1diZlgtTQ?oc=5)
 
-2026-07-29 <span class="news-indication-tag">dementia</span>
+2026-07-29 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUtKTXVlMlo0eFkzWUFpUEo2WXFvWjVZcjV2SVkyUGt1d0NJVVFBVWl0aG1neWRtSUg0aF9hcjBIUUpsandsb0I1c3hKUjlIc0FnT1NYX2FBejdkRWNYakJVVTQ4T2d5X3ZOSkNIMHpPUEl0bmZ1aGktckQ1NWRzUlB6YldRTUc1aHQtZmdCYnVHZWhEN1E2cXJrQQ?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnp0bHJNQ2JDeDctZU5VcFNFbUZBd0RQLUt1aXNCQlJaYUhRaGVxWlZpZ2ZDaWJvampILXFtbldKTVZwU0pVd0FKbVZvdGVoeV9OaUMySmhXSnpPVTVFd2FOSVQzMU50Vy1GNjM2NDZiaFYzLUx5ZWdmN0hpb1diZlgtTQ?oc=5)
 
 ---
 
@@ -142,14 +158,6 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence - Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
-
-2026-07-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
-
----
-
 ### [Accelera la ricerca sui tumori rari proteggendo la privacy](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmpRbFpfLUs0Z3hoeGY2RE9uaHpMT0kxNTJjaEw0NFE2MjJ5VWp0Yl83TkowVXNBeFYzLUdWQ1M3ZjRuYU5Lb2JoRnVUU1EyRXBuczN4dl9vcDdvS3BwTGwtbEdoemRDR0xXWHFpWkxhUk56S1VuYXE5ZzFBYndCOEt2Nk40UDQtbkhYUkxkTC1tbGY5YlZQWkV0dmM5d1JGeVRMZ2RNRDJuejV6RmFmZHJ2NlgyU0lpdFE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">tumor</span>
@@ -158,11 +166,11 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
-### [Gentest als Brustkrebs-Prävention: UKSH Lübeck ermittelt familiäres Krebsrisiko](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
+### [Gentest als Brustkrebs-Prävention: UKSH Lübeck ermittelt familiäres Krebsrisiko - Lübecker Nachrichten](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
 
 2026-07-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[ln-online.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
+來源：[Lübecker Nachrichten](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
 
 ---
 
@@ -190,6 +198,14 @@ permalink: /news/dasatinib-monohydrate/
 
 ---
 
+### [Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+
+2026-07-29 <span class="news-indication-tag">oncology</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+
+---
+
 ### [I saw GP 30 times for bloating that was cancer - test was positive for 2 years - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
 
 2026-07-29 <span class="news-indication-tag">cancer</span>
@@ -203,14 +219,6 @@ permalink: /news/dasatinib-monohydrate/
 2026-07-29 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
-
----
-
-### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
-
-2026-07-28 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
 
 ---
 

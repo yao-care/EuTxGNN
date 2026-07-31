@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,21 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Typ-2-Diabetes: Pflanzliche Ernährung senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlpfajZsN0pmalB6TFVPUEVGRnd1NXJWRmhYWjRISEozQkNKUzJvSEpjRkFyNHJ4SUN2RFI1VVZPY3VGaW5aMDZkX0I0WTlBQmJDR29oM2oxVlpsQU9BWHZOaHM5WHI3cUY5Mlkyb3dVWDhoTDBJeEZjZ3NCelhZNExHemR4dnZ6TzJHcDl3em43ME9WWVpNSEtJLVlkODJRVmN5MENwcUJJcm1EaTdEWmNvNA?oc=5)
+### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 2026-07-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlpfajZsN0pmalB6TFVPUEVGRnd1NXJWRmhYWjRISEozQkNKUzJvSEpjRkFyNHJ4SUN2RFI1VVZPY3VGaW5aMDZkX0I0WTlBQmJDR29oM2oxVlpsQU9BWHZOaHM5WHI3cUY5Mlkyb3dVWDhoTDBJeEZjZ3NCelhZNExHemR4dnZ6TzJHcDl3em43ME9WWVpNSEtJLVlkODJRVmN5MENwcUJJcm1EaTdEWmNvNA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 ---
 
-### [Screening neonatale, Giulia salvata dalla Sma: oggi è una bimba sana - la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
+### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
 
 2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
+
+---
+
+### [Nueva y prometedora diana terapéutica, en forma de microproteína, para la diabetes y la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
+
+2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
-2026-07-28 <span class="news-indication-tag">diabete</span>
+2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
 ---
 

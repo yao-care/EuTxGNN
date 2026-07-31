@@ -14,7 +14,7 @@ permalink: /news/carfilzomib/
 ---
 
 <p class="key-answer" data-question="Carfilzomib 有什麼相關新聞？">
-<strong>Carfilzomib</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Carfilzomib</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/carfilzomib/
 <p><a href="{{ '/drugs/carfilzomib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（21 則）
 
-### [Il pensait être fatigué, il souffrait d’un cancer du cerveau - 20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0VVSHRETnNEbWRjbVl3aTJTdHp2MnRzeGNSLW83bzR1MWNWaEtBWTNUdGh2Q2ROZWp2QzVOUXRTZXo4YmtPS0ROVVJ3VVNTZFA1cjJHQVpZemg0QXF4ZUxuN3IyUTZDNHZEUkltQklSMW5GWVpsd2Vxb1JMakVHanVNOGhzaHFJVE5MVDU2Y2d6VWs4ZW1FYlVfd0FmUk83bjJ2MjJiS1RPMUNjSmxsb1VqQWRnRkVha3JLMG5XWDhiVjNRZUpMejZR?oc=5)
+### [Cancer patient becomes first to receive 'landmark' treatment - Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSS1lOTFaTVNwTDhlWkQtSHo5blNHRFpueEgyMXBNMkN6WFB1SmZmejhYellPX2hScjdtZ0VyVDVWVTFYdFczelN4a05oU1VsRzdVX0M0S1ZVZEVRNDBYeXExUGpZS2Z5QmEyR1hRNUNIRURYNlNxcURYbFZENUt1NUVlSDlTaS1hSFBBemVaR3FCV2V4SW5UUlJR?oc=5)
 
 2026-07-30 <span class="news-indication-tag">cancer</span>
 
-來源：[20 Minutes](https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0VVSHRETnNEbWRjbVl3aTJTdHp2MnRzeGNSLW83bzR1MWNWaEtBWTNUdGh2Q2ROZWp2QzVOUXRTZXo4YmtPS0ROVVJ3VVNTZFA1cjJHQVpZemg0QXF4ZUxuN3IyUTZDNHZEUkltQklSMW5GWVpsd2Vxb1JMakVHanVNOGhzaHFJVE5MVDU2Y2d6VWs4ZW1FYlVfd0FmUk83bjJ2MjJiS1RPMUNjSmxsb1VqQWRnRkVha3JLMG5XWDhiVjNRZUpMejZR?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSS1lOTFaTVNwTDhlWkQtSHo5blNHRFpueEgyMXBNMkN6WFB1SmZmejhYellPX2hScjdtZ0VyVDVWVTFYdFczelN4a05oU1VsRzdVX0M0S1ZVZEVRNDBYeXExUGpZS2Z5QmEyR1hRNUNIRURYNlNxcURYbFZENUt1NUVlSDlTaS1hSFBBemVaR3FCV2V4SW5UUlJR?oc=5)
+
+---
+
+### [Il costo nascosto del cancro: trovare chi si occupi dei figli durante le cure](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXV0SzZsRkNYRzZiV3ZRb3RFeWRxVGlEbnlyRHQzbktOTjhGSGtNdDU4d0xuaTdwQVVqaDc4Umk4RXBkLUJFTzBib2NUd09fOGZ5QXA3Q1VTTHU3RXBKbWxZNWxpR0FlNjRPelhFMFZUSUI3ejVReWRUbnVCb1pUcXVpbWNYUV9OaWRzY05mclZKdHUzZ1RweE5GSDIwSnhjVkZSaWlKVnhCYUJ2N2Z1SjIxTHJ1Q1kxQ25WU2FDUkFrZUw4OUpGZ0hnVUhjbzVrMWc?oc=5)
+
+2026-07-30 <span class="news-indication-tag">cancro</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXV0SzZsRkNYRzZiV3ZRb3RFeWRxVGlEbnlyRHQzbktOTjhGSGtNdDU4d0xuaTdwQVVqaDc4Umk4RXBkLUJFTzBib2NUd09fOGZ5QXA3Q1VTTHU3RXBKbWxZNWxpR0FlNjRPelhFMFZUSUI3ejVReWRUbnVCb1pUcXVpbWNYUV9OaWRzY05mclZKdHUzZ1RweE5GSDIwSnhjVkZSaWlKVnhCYUJ2N2Z1SjIxTHJ1Q1kxQ25WU2FDUkFrZUw4OUpGZ0hnVUhjbzVrMWc?oc=5)
+
+---
+
+### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
+
+---
+
+### [A 34 ans, il pensait être simplement fatigué : ses maux de tête persistants cachaient en fait un cancer du cerveau incurable - Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
+
+2026-07-30 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNVlGdWlGYmV2bnN3TW5aZk9kMkhPWFVIdndvRkxZMlp0eEh3UGtMRFhFckpwRllHbVhwS04zZTE5Z1l2QjBmOV9nVFhTVFhwQ2tLMS1TS1RnNUYzelB6cmhnMWl1Y0NRSHhFZWRyYTRaQTZtOWo2Y2dvd2hjSDVTZ2xCNEJDX0NxajZvc3dKUkk1REdyYlR1TVhGWk5FR0Rva1NmOTllb2lsLTdfZS1UWUc1dnhNZnBwb0k3X0tyR0RVU0ZTTnpCQ056RUM1SjhoV2lDSmdKMTdsZjdTWmlVa0Q0dlRnVTVCWFJHMUYzb3c5cjBWQzYwN3N4UlRzN2s?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ permalink: /news/carfilzomib/
 2026-07-30 <span class="news-indication-tag">Krebs</span>
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeDNnMDFFeF9UcjdoZ3NTN1lUaDRObFFDTFg5VngyTUZXWVJ3N2U5TDhuZnZweGhmcmdZM0VobnJwRGxqQXdHUW1xM3p6QmNfM3dyVlBOcXZWdjdwdEVycFZJbFVxQTdONFN1WHpsQ2VoM1JRMWZRenFVc2hrZ1kwSXU3eTVCbmF4dW9HQlRXRXBUUTNRb2lXM01XT2ExM1FTelBGcE5fZTdrdWVwZXRMdDhQNFllRy1UdkhRXzF3MnRJTkx0T251dWxackwxVnFJbmdj?oc=5)
-
----
-
-### [Screening neonatale, Giulia salvata dalla Sma: oggi è una bimba sana - la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[la Repubblica](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWp3RnltTUJlaWc0QzBvWXdiazFzYkRrbHpTNXNpQjl5dlg1Q1ZkM2lmSmREaWRWTmtSZE5CeXBTYzlkR3BMbEpYZElZS1c0R3VzU1B0LS1Ta01RM2J1b0taTVVMZFRYcWY0ME1QQ05mYTFLdHVwRjNSV3lkdk55QzlQbnJ6bjE2QnRCbThaYlliTGVPNjFwOVlrNVRqeWo1b1HSAacBQVVfeXFMTzR1U0lqbVlRNkRjRnBnRUlfYmRXRm5WQmhaRUxtdnl2NDhmbWo2Vlh6N1h2X3ZrdW9PcXZxVm5aZ1ZENUlkSGU5X284UHlCcEdMN1daV1I1Z1FwLTV0ei1GNU1DTkJna2hVNTA0d2pXZ2dHOWdPSHBXQkt2bW5aUDZHOGtZYU10TUtLV3dxSHpKYnlHS2dyOGdLUmRZSFNzcUhDR3ExeWM?oc=5)
 
 ---
 
@@ -126,14 +142,6 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence - Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
-
-2026-07-29 <span class="news-indication-tag">tumor</span>
-
-來源：[Fierce Biotech](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5)
-
----
-
 ### [Accelera la ricerca sui tumori rari proteggendo la privacy](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmpRbFpfLUs0Z3hoeGY2RE9uaHpMT0kxNTJjaEw0NFE2MjJ5VWp0Yl83TkowVXNBeFYzLUdWQ1M3ZjRuYU5Lb2JoRnVUU1EyRXBuczN4dl9vcDdvS3BwTGwtbEdoemRDR0xXWHFpWkxhUk56S1VuYXE5ZzFBYndCOEt2Nk40UDQtbkhYUkxkTC1tbGY5YlZQWkV0dmM5d1JGeVRMZ2RNRDJuejV6RmFmZHJ2NlgyU0lpdFE?oc=5)
 
 2026-07-29 <span class="news-indication-tag">tumor</span>
@@ -142,11 +150,11 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [Gentest als Brustkrebs-Prävention: UKSH Lübeck ermittelt familiäres Krebsrisiko](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
+### [Gentest als Brustkrebs-Prävention: UKSH Lübeck ermittelt familiäres Krebsrisiko - Lübecker Nachrichten](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
 
 2026-07-29 <span class="news-indication-tag">Krebs</span>
 
-來源：[ln-online.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
+來源：[Lübecker Nachrichten](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTEhKd2hjSHRTcHk3NEVkQnYwSF9YTGpSc1R2el9TVWc4cDZZcjFpZVlEb1QxNTQzeGFXZFhBUkhWNHpERlI5ZjBwWU9HYVN4Qm91aXozdDlncUtwbS01LV9PTjlKc2NLREFVel91cFhyN1l4enJyN21IVmtKZDRkX3VocDhQMU04cEZ3M185SVc3QlBLWFBLVlcwTVVmNFZWVEhacU1PWkRaQzFseHpMMkMzVl9ob3V5dmEzVzcwR09TRmdIQURwckVrQjRPZFJPSDdldk1FTzNfZjhlZ0N4X3l1d0VpUnpRRGc?oc=5)
 
 ---
 
@@ -174,6 +182,14 @@ permalink: /news/carfilzomib/
 
 ---
 
+### [Un estudio cuestiona la utilidad de la vigilancia cardiológica en pacientes con cáncer tratados con antraciclinas - Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+
+2026-07-29 <span class="news-indication-tag">oncology</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWpnWWFGUmpoQmtmZnAteXBzbVZiZ2lNb0hNV1pEdUFPNDdQRTYybTVHSFBRUDMzTTFKN3NMVk1vVWhTY0pheEM3aVBPd1RZcENQVW5CVEtqdWNHSWczRGVXMU5QSzlXY3d6dXNxTmF3a04zZTc4bTE3MFphMW56LTZsZ1R6WENSVGtsV1RUd2h0amlObGhKQmluX3h3d2lSUDdOYWhCQXFKNG95RGt2X1A3UmM3dm9IQlA1bGdNdXpienNCU2doSlBB?oc=5)
+
+---
+
 ### [I saw GP 30 times for bloating that was cancer - test was positive for 2 years - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQajAzTjFEdHpldl8zYVVieURJd1JXTEphSUVXODRJLXJ5ekNRdkRsLW1mcmlNaXl2QWJCOU9fRmtxQkd4YXB2bmNRbWs2THJuZXVENVI1YU5rcGlwYUZEWnFCWmdfMW82aEhMREhwcTJ3Z3lhaTBiejlYTmxhOUx2MHE2OEFpM1k?oc=5)
 
 2026-07-29 <span class="news-indication-tag">cancer</span>
@@ -198,11 +214,11 @@ permalink: /news/carfilzomib/
 
 ---
 
-### [Wrexham man's headache turns out to be terminal brain cancer](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+### [Estos son los factores que en verano elevan el riesgo de los pacientes respiratorios - El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
-2026-07-28 <span class="news-indication-tag">cancer</span>
+2026-07-29 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UTM1N09nQXNSU1d2RFNGd3JmYWNHdnRyVlcwRGItN24yaWpJSnF3LUlGU2czNVBzcVd3enpxZVNUdHdNNzF3S2tPaGUzNFRrSUk1ZDQ0VTlZNm5O?oc=5)
+來源：[El Debate](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXdJbW9EWXpXckhHR0RPVERmeXk4a2FoeHVqSTBtVFVxajB4ZFBTY1lpT1h6YXkxa3d6M0ZPejRVeU55dzBTWjFmM01ZaDdYaE1PLTN5OXpNR3RyWllXQjlvbkNIdnZGUDRFYlhhZkk3YXY3NGh4a0l5T1lWRVhEQXJpMkxISF9FX011Rmk4UHZTNFVQc0NONTFTSDktYzRBbm1QYldzZFlvRzAxdVJCa3JQdmozTnJzZDBfVDF6dlM3VWZmYXZ5Uy15Q0JFdmNveW5QRGlNX3l1ZknSAeABQVVfeXFMTzVfSzM0ZUFYR1AtbERuTzVUVVRjSDZEQUdLOTc1aTBJWlN0Nk8tX3RrRWdCM0RfbnVOUHZBWGlZOVNnSmpXaVdsdEJEM2dxemJjekIwNHBQUlhDNzBhdDZYRFRac3lqM3B2MEF5d05jZlJIaGtybWoyMTRiOXpiZjdLX3FpSmZrQWRGTUxXelluOTdUa3B6T1dScU9MdFVGNzZUcml4UmZOQm00bW1YT2Izb0FYd3J0NW1zQ09NQ1E1MnM5TVhfY1BjQkRIOTRobHRGVmVSUDZKcEY2cm1wV00?oc=5)
 
 ---
 

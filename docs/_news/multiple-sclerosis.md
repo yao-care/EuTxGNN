@@ -56,11 +56,27 @@ permalink: /news/multiple-sclerosis/
 
 ## 相關新聞（12 則）
 
-### [Anti-Reflux mit Ernährung: Studie erreicht 81,2% Erfolgsquote gegen Sodbrennen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+### [Darmflora: Wearables erkennen Schübe bis zu sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
 
 2026-07-30
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
+
+---
+
+### [WHO fordert mehr Tests und Therapien gegen chronische Hepatitis B und C - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+
+2026-07-30
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+
+---
+
+### [Vitamin K2: Neue Studien belegen 29% weniger Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
+
+2026-07-30
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
 
 ---
 
@@ -80,11 +96,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Multiple Sklerose: Diese Darmbakterien können schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+### [Multiple Sklerose: Spezifische Darmbakterien senken Erkrankungsrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnF5VkxzMzJjU29kYk1PWjhUZ1JrVDFsQ2RULXl3eVZZVTN3NGVhMEZ6WEEwNFdIUFFGVXBzY1RoU2dKdU1yUDZvTjRwUFBCUVdUb3M4V09sN29RZnhSTVJCbXExc01qYjFHeklpNm12MXkzRGFHUVBabUF1Z045VGJUSnQ2TUJhbDNDVUJvcVVhd3lUMUExX1c3TXA3aUdLZ1BuMmdzWkNKVVh6bjMxLUo1TU01ejRS?oc=5)
 
 2026-07-30
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnF5VkxzMzJjU29kYk1PWjhUZ1JrVDFsQ2RULXl3eVZZVTN3NGVhMEZ6WEEwNFdIUFFGVXBzY1RoU2dKdU1yUDZvTjRwUFBCUVdUb3M4V09sN29RZnhSTVJCbXExc01qYjFHeklpNm12MXkzRGFHUVBabUF1Z045VGJUSnQ2TUJhbDNDVUJvcVVhd3lUMUExX1c3TXA3aUdLZ1BuMmdzWkNKVVh6bjMxLUo1TU01ejRS?oc=5)
 
 ---
 
@@ -112,14 +128,6 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [New Channel 4 documentary, The Great ADHD Myth?, seeks to determine whether ADHD is a genuine neurodevelopmental disorder, or a social construct - Channel 4](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmdIZkNvSGNNN1RCOWpaLVY4bTFZUXMxSVVkYk52Wld3NThLbVB2WXp5WXVlcnBReFpTczVvendnU211WDBYYTNLNk5CV2Z6Snh0WFdjOUNHY2FaV1Rfa2VRZ3h0QTNuMENWMXhzOUlTaWNZSUhYdVA1YnVsbFRGNVh3TjJaYTlkS1hqXzduOXpXYTdaX3RWS19rYUhuS1kxaG1ydGFEOUlLZUJtZmExQlhibWU?oc=5)
-
-2026-07-29
-
-來源：[Channel 4](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmdIZkNvSGNNN1RCOWpaLVY4bTFZUXMxSVVkYk52Wld3NThLbVB2WXp5WXVlcnBReFpTczVvendnU211WDBYYTNLNk5CV2Z6Snh0WFdjOUNHY2FaV1Rfa2VRZ3h0QTNuMENWMXhzOUlTaWNZSUhYdVA1YnVsbFRGNVh3TjJaYTlkS1hqXzduOXpXYTdaX3RWS19rYUhuS1kxaG1ydGFEOUlLZUJtZmExQlhibWU?oc=5)
-
----
-
 ### [Diabetes-Remission: Lebensstiländerung senkt Nierenerkrankungsrisiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
 
 2026-07-29
@@ -136,19 +144,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Reizdarmsyndrom: Nabelschnur-Stammzellen zeigen im Tiermodell Hinweise auf Wirksamkeit - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
+### [Reizdarmsyndrom: Stammzellen aus Nabelschnur zeigen Heilungspotenzial - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1VmTEp0Y0FxWHktSEdPVVNETE5nLXRpNUgyM0ZpS1pHUlNXdGhuS0FxTklZQXNocVFzODJRMDRueXk2MGpvdDFkVkVVelNROWtnVVFoWnFXSXpzSWdqUk5ueWpjeEx1NUZaUWRDM3EwdzlOOEVMM21QSlVXX01OTTN2N0Q4dExlMzAxNEhETmlVMDc5blNNTm5kNko5RDBiSDd6MTdtanZlZDZYTHZuTktaNHZhM19F?oc=5)
 
 2026-07-29
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
-
----
-
-### [Saarland meldet weniger Hepatitis-B-Fälle – Ministerium wirbt für Tests](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
-
-2026-07-28
-
-來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1VmTEp0Y0FxWHktSEdPVVNETE5nLXRpNUgyM0ZpS1pHUlNXdGhuS0FxTklZQXNocVFzODJRMDRueXk2MGpvdDFkVkVVelNROWtnVVFoWnFXSXpzSWdqUk5ueWpjeEx1NUZaUWRDM3EwdzlOOEVMM21QSlVXX01OTTN2N0Q4dExlMzAxNEhETmlVMDc5blNNTm5kNko5RDBiSDd6MTdtanZlZDZYTHZuTktaNHZhM19F?oc=5)
 
 ---
 

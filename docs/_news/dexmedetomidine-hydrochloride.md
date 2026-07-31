@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [La verdad sobre las migrañas: cuáles son sus causas y cómo aliviarlas](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
+
+2026-07-30 <span class="news-indication-tag">migraña</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFrS0x5ZW1CNENKTWxHMFlQNnpZaHdUQVM4RGF4SU5mQ3YycHc4MFU2VjZnMDJyQTcteHlqd2tJai1DdGR3RE03dzZYTEN6WFdQaHlPcDRreWZnRTVkaVIzMW5IWXNJY09IS2hJanRHVmItWTk0OGVTVEt3Q1B2bEhZNW9Vb2NIS2s40gGQAUFVX3lxTE93NFZ3OENSay12LXdlRHlfRDlOVkpSMzJ0OWtreV9DcG9WcjNHai1yeTdTa1VNT2Y3MFRzYVQ4c1F6LUo4UkFEcUNTdjdyVWRFajVkejBOTjBNTjRING1PU0dZZl9XZHI5UTQzU3RRNThlQmVIMnNqeXRLaTFnNW1LeFR6VExxbHVhVWJnb084eg?oc=5)
+
+---
 
 ### [Bluthochdruck: Fixkombination senkt Therapieabbrüche um 39% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUtYZjRDUzJjQnllaG8zdGUyYTR3cmI4LTVuaElyYlNld1kxUElUekF5MnNZU1g0bFVYV2xFbDRBLXRlVklDaVV0X0FnZDB6dnBCSTZlMWZjUGpOSVV4WThGNHptdVhXUGdOZEVVNWh4dnRoakdYTkd2RFFiREFrZmJhWmFydzI0NU53ZXpQaXlpUGR5LURZSTNLNXRqdXVRWklDTGpqa0Z5UTlEcXAwVUVyMlZ4dw?oc=5)
 

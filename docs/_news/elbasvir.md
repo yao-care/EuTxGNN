@@ -54,11 +54,27 @@ permalink: /news/elbasvir/
 
 ## 相關新聞（14 則）
 
-### [Anti-Reflux mit Ernährung: Studie erreicht 81,2% Erfolgsquote gegen Sodbrennen - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+### [Darmflora: Wearables erkennen Schübe bis zu sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
 
-2026-07-30 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmZERHlNR2pkTUdWMUJERGYta2U5T09RelNEUDA0dm0wanNWbE91dEpaeEZ3bnN2ZFpxU0FQMWR0cVpkSmxabUZEd0FKRjVSN0FMcVBOaWJDSlNfZ2RCckljR050VjJGd1c1NUhybVFhVlo5eTNZRTFmVWhvY1JBRVI5VV9SMmlWLXBIcEtGclB3YXA1bmZRVnNIMXVmZk5YSmZSeUVJTXpUNTRS?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJzanpTNnJJWWUzbVpWZi1BenRHM0V1YUg2T1c0YzdMb1dHY1F2SWtJM0h0LWFGb05YWl9ONHdNNW1obk9ScUl6M2o0ZWxmQ29rbmtzdG8tOHdoX0ZxajZ5TFNPOXEwVjIydmhFWV9tRUppTGp0MzdEalZwTDhiSjZTaE4taXVrUFlYR19NTkhDSGxSc0ZLZmFvT24zU2tRZmU0SFJPZGRFalRibHJJNUVvRkE?oc=5)
+
+---
+
+### [WHO fordert mehr Tests und Therapien gegen chronische Hepatitis B und C - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+
+---
+
+### [Vitamin K2: Neue Studien belegen 29% weniger Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Multiple Sklerose: Diese Darmbakterien können schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+### [Multiple Sklerose: Spezifische Darmbakterien senken Erkrankungsrisiko deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnF5VkxzMzJjU29kYk1PWjhUZ1JrVDFsQ2RULXl3eVZZVTN3NGVhMEZ6WEEwNFdIUFFGVXBzY1RoU2dKdU1yUDZvTjRwUFBCUVdUb3M4V09sN29RZnhSTVJCbXExc01qYjFHeklpNm12MXkzRGFHUVBabUF1Z045VGJUSnQ2TUJhbDNDVUJvcVVhd3lUMUExX1c3TXA3aUdLZ1BuMmdzWkNKVVh6bjMxLUo1TU01ejRS?oc=5)
 
 2026-07-30 <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnF5VkxzMzJjU29kYk1PWjhUZ1JrVDFsQ2RULXl3eVZZVTN3NGVhMEZ6WEEwNFdIUFFGVXBzY1RoU2dKdU1yUDZvTjRwUFBCUVdUb3M4V09sN29RZnhSTVJCbXExc01qYjFHeklpNm12MXkzRGFHUVBabUF1Z045VGJUSnQ2TUJhbDNDVUJvcVVhd3lUMUExX1c3TXA3aUdLZ1BuMmdzWkNKVVh6bjMxLUo1TU01ejRS?oc=5)
 
 ---
 
@@ -114,23 +130,7 @@ permalink: /news/elbasvir/
 
 2026-07-30 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
-
----
-
-### [New Channel 4 documentary, The Great ADHD Myth?, seeks to determine whether ADHD is a genuine neurodevelopmental disorder, or a social construct - Channel 4](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmdIZkNvSGNNN1RCOWpaLVY4bTFZUXMxSVVkYk52Wld3NThLbVB2WXp5WXVlcnBReFpTczVvendnU211WDBYYTNLNk5CV2Z6Snh0WFdjOUNHY2FaV1Rfa2VRZ3h0QTNuMENWMXhzOUlTaWNZSUhYdVA1YnVsbFRGNVh3TjJaYTlkS1hqXzduOXpXYTdaX3RWS19rYUhuS1kxaG1ydGFEOUlLZUJtZmExQlhibWU?oc=5)
-
-2026-07-29 <span class="news-indication-tag">MS</span>
-
-來源：[Channel 4](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmdIZkNvSGNNN1RCOWpaLVY4bTFZUXMxSVVkYk52Wld3NThLbVB2WXp5WXVlcnBReFpTczVvendnU211WDBYYTNLNk5CV2Z6Snh0WFdjOUNHY2FaV1Rfa2VRZ3h0QTNuMENWMXhzOUlTaWNZSUhYdVA1YnVsbFRGNVh3TjJaYTlkS1hqXzduOXpXYTdaX3RWS19rYUhuS1kxaG1ydGFEOUlLZUJtZmExQlhibWU?oc=5)
-
----
-
-### [Giornata mondiale dell'epatite C: diagnosi precoce e screening gratuito](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
-
-2026-07-29 <span class="news-indication-tag">epatite</span>
-
-來源：[laprovinciacr.it](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3doVE5wR0REZk5ucTdzN082RGFXd3d6bnV3eml5VUNadUZHQ0pabE5rdG5CQ1JZSzlCWmYzNjFEdVJZZnl3cWpPR01yTmZHMDFZZTRKUjYzZV92TURkWEdHWWxUOFNHMDZOV3ppN2ttVFZzRENXZXh6QW9KckNhdE5BVWFNN2htZjJKRU5UTWQ4Q2FVanY0NzlKX2FjejV5TG1uYlRibDhoYTRiQ1FoaHc5TDc2clg3cWJudEZ3RjM0QQ?oc=5)
+來源：[journalmed.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
 
 ---
 
@@ -150,19 +150,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Reizdarmsyndrom: Nabelschnur-Stammzellen zeigen im Tiermodell Hinweise auf Wirksamkeit - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
+### [Epatiti, Ecdc: “In Europa 5 mln con malattia cronica”. Iss: Serve prevenzione”](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
 
-2026-07-29 <span class="news-indication-tag">MS</span>
+2026-07-29 <span class="news-indication-tag">epatite</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEg5MVo4bFJDbHFwZGE2T3VaNHVqVG1rM3VCRUF2bnl0aVJ1NEIyWE50S0kxUzVEQXZlNFdBeUVDRDNzOEhtMDlpM3lHcTF1NEszdko1bVJLZG50a0N6OEZnajFUTDM4VzBRUDBPWHhWOVB2SEplZjZuVGJsTW5LZ1hTQjlHMGtZeVdCR00yZFlUdmlwUGhzSEVTRFpnd2phTzdBbk9OcFp6WXZoUTM4ODNDSVVEMVhP?oc=5)
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZl9KR3VvbXJVLTJrT3Y0eXdneXVQZGEzdkJ2RmlJQ0pDcDQxeU1vN2FNdTNCZUwwWWIzR1YwLXNMU3paNFJmbk1sREMwVmI0aTlYMzFqZl9aVFdaMkg5NWhnOGJtUVR5SHlSYnlIa2tDeTlka2E2SExBTTQwajU0VS1VTnUxV2hzdmY2MEFwNmhQZ0M1a1lUYWVQc2ktaFlmamhRcmtsdFQtLVBTTExIclo2bHFyZURMekdVWW9TcWo5Wm8zSVBUeFVCbjh0MjRpdHZzVWFaNjU4NERMamdwekxZVEk1ZWRX0gHuAUFVX3lxTE1vNkVoYUFYdFptSllGT2RQWGRMV2hYWEhsYzEyN2ZiNGl6ZHhkcWhib0hUZ1F6QVg0c2FvV2szTHA2OVcwZFloam9TQXJubFNRclFiNm1veUExX2VDRHlhdDl3V2dJUzZuWmY0QVhyOXhWN1FLalhuTEZyTGtHZ0hjWnpkWEM2aU92eDY0Qzd0aERVaXA1REJwYmtJNDRkc0ZLOF9RYm1ySV92azdBRHpmQ0E5SnRuclM5SElmcmozRkh2VFdaZDFVSk5QNkhlQW1iMVRrcFF4Mmc1d294Qm9UYWY2aGZfY2RtWWh4Nmc?oc=5)
 
 ---
 
-### [Saarland meldet weniger Hepatitis-B-Fälle – Ministerium wirbt für Tests](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
+### [Reizdarmsyndrom: Stammzellen aus Nabelschnur zeigen Heilungspotenzial - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1VmTEp0Y0FxWHktSEdPVVNETE5nLXRpNUgyM0ZpS1pHUlNXdGhuS0FxTklZQXNocVFzODJRMDRueXk2MGpvdDFkVkVVelNROWtnVVFoWnFXSXpzSWdqUk5ueWpjeEx1NUZaUWRDM3EwdzlOOEVMM21QSlVXX01OTTN2N0Q4dExlMzAxNEhETmlVMDc5blNNTm5kNko5RDBiSDd6MTdtanZlZDZYTHZuTktaNHZhM19F?oc=5)
 
-2026-07-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-07-29 <span class="news-indication-tag">MS</span>
 
-來源：[Homburg1](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNU1CZElIOTZFMW1tODYtLXlCV3A1UzBrTnQtMVRSNW42WGd5WXdUZVZZZVF3SHNtY1BGemREaHdnWGtlWkJianZHRmY0V1JkN3VnYUliRjktbmJWeHpjWWRwVzl3c3R0N2ktak1SQlJiTDZ1bkJrZzZXOHloMXE0Zk9TLUlsdEEyTXFMc2wxdTcxa2JRYXZDUWJ4TmRpRHct?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1VmTEp0Y0FxWHktSEdPVVNETE5nLXRpNUgyM0ZpS1pHUlNXdGhuS0FxTklZQXNocVFzODJRMDRueXk2MGpvdDFkVkVVelNROWtnVVFoWnFXSXpzSWdqUk5ueWpjeEx1NUZaUWRDM3EwdzlOOEVMM21QSlVXX01OTTN2N0Q4dExlMzAxNEhETmlVMDc5blNNTm5kNko5RDBiSDd6MTdtanZlZDZYTHZuTktaNHZhM19F?oc=5)
 
 ---
 

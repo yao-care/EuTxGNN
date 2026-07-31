@@ -54,19 +54,27 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（6 則）
 
-### [Arthritis: Pim1-Kinase als neues Angriffsziel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-30 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Pflanzliche Ernährung senkt Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlpfajZsN0pmalB6TFVPUEVGRnd1NXJWRmhYWjRISEozQkNKUzJvSEpjRkFyNHJ4SUN2RFI1VVZPY3VGaW5aMDZkX0I0WTlBQmJDR29oM2oxVlpsQU9BWHZOaHM5WHI3cUY5Mlkyb3dVWDhoTDBJeEZjZ3NCelhZNExHemR4dnZ6TzJHcDl3em43ME9WWVpNSEtJLVlkODJRVmN5MENwcUJJcm1EaTdEWmNvNA?oc=5)
+### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 2026-07-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlpfajZsN0pmalB6TFVPUEVGRnd1NXJWRmhYWjRISEozQkNKUzJvSEpjRkFyNHJ4SUN2RFI1VVZPY3VGaW5aMDZkX0I0WTlBQmJDR29oM2oxVlpsQU9BWHZOaHM5WHI3cUY5Mlkyb3dVWDhoTDBJeEZjZ3NCelhZNExHemR4dnZ6TzJHcDl3em43ME9WWVpNSEtJLVlkODJRVmN5MENwcUJJcm1EaTdEWmNvNA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
+
+---
+
+### [Nueva y prometedora diana terapéutica, en forma de microproteína, para la diabetes y la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
+
+2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ permalink: /news/sacubitril/
 2026-07-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUpoSDNVZ3dkSE8xckllS2pDczhRcy03MWYxcVJ1SnpYbEV6WnZCN1lFeDREZVd2dEJVTHd4WGVPaGZKc1VyM29udTFfVFRFbi02bnhvVEdlQ1dPX00xdWpjaG9fSVRSUlY0bmpCTTh2YnZGM1hPcFFfajJDazVCMzhUVUVlWWJlRWhlcExKbnZmaXJOQlhPcUVDR29KSVFMMkZiX1VlYVBSeVVVdVpNNkUyeXZiQVBBUHhPaQ?oc=5)
-
----
-
-### [Diabete e insulina: la molecola delle piante che potrebbe aiutare nel prediabete](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
-
-2026-07-28 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGdlODltRVUyMVV6YjB6YVIxZHBmcHI4WVNvS05LVkRuSUdoVHVQazEyOU96TjFGTUhuSWJUbWNycXdSSnpSdXJYN1JzV0t0TnpTZXdTUDBYZTRtZ3p1RFVXblF4SkhmS3FWcGx4RFA2VEFNU0pxZ09rekFOdlF5eVg3NURQYkQ3Y0dwOHVUZE5vNEg4czNIaXFjdVZhTHJ5ekNBcHFRY2lSbExxMzVTNkZoby1UTE5YbkNZQzdiLWRNZ3dhRl82WV9B?oc=5)
 
 ---
 

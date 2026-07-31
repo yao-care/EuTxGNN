@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Demenz: Lange glaubten die Ärzte an eine Depression. Die Diagnose lautete Alzheimer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
+
+2026-07-31 <span class="news-indication-tag">depression</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
+
+---
+
+### [El cannabis triplica el riesgo de que jóvenes desarrollen trastornos mentales, según un estudio](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWJKSXJNdjBOT3R2bHIxc3lITEEyNW4zbHZWb0RqdFB4Z3RZV1VHaWxGdFgzTVpMM1gta2l0U1VLRE1zMnM0Sl9ObWV5eXFkbWdyVXc5X1p6ajZ1NlFJamZvVDVoV2llMzRpT0Z3MGFkeWtEcVVNQjJZTGRYM0diUXJvc0RrT3hiV3RVY3IwblZ5QXNpR1ZfYm5PZFN0YW1LUVpSTlN4dGdZUmtzNFdlN25XSFpXNXNnUV9iOXJfZGZTbEpvcmltdEN6NnRsS2hkcHFPS9IB2gFBVV95cUxOUkZRaXJmOUliMDBqeHpJUVFVRTN1TTQyMk1aNjZFVlRIYW5NTUtxMDZ2dTA0SDF1NUl6bENvd0VmSE84VmQzUGQtWnVocE41ZkQtQXVuWkNZTWJ1a3AxS3RHVUxVWG95OGdkT3JlelhhU0NNTEVNMzFOelJkeDBsLVZOb0R5WHBjYTE5cHNFR0VtbEFFcDlmZlczbHVNblFMZVl4UVg2VVdVYVMzYUVBVTlTRGFFdENZMGU2Rk5LTEZiZVpPQ01XTk1tZE10RUlmazU4N3BNU0xPdw?oc=5)
+
+2026-07-29 <span class="news-indication-tag">depresión</span>
+
+來源：[naiz.eus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWJKSXJNdjBOT3R2bHIxc3lITEEyNW4zbHZWb0RqdFB4Z3RZV1VHaWxGdFgzTVpMM1gta2l0U1VLRE1zMnM0Sl9ObWV5eXFkbWdyVXc5X1p6ajZ1NlFJamZvVDVoV2llMzRpT0Z3MGFkeWtEcVVNQjJZTGRYM0diUXJvc0RrT3hiV3RVY3IwblZ5QXNpR1ZfYm5PZFN0YW1LUVpSTlN4dGdZUmtzNFdlN25XSFpXNXNnUV9iOXJfZGZTbEpvcmltdEN6NnRsS2hkcHFPS9IB2gFBVV95cUxOUkZRaXJmOUliMDBqeHpJUVFVRTN1TTQyMk1aNjZFVlRIYW5NTUtxMDZ2dTA0SDF1NUl6bENvd0VmSE84VmQzUGQtWnVocE41ZkQtQXVuWkNZTWJ1a3AxS3RHVUxVWG95OGdkT3JlelhhU0NNTEVNMzFOelJkeDBsLVZOb0R5WHBjYTE5cHNFR0VtbEFFcDlmZlczbHVNblFMZVl4UVg2VVdVYVMzYUVBVTlTRGFFdENZMGU2Rk5LTEZiZVpPQ01XTk1tZE10RUlmazU4N3BNU0xPdw?oc=5)
+
+---
 
 ### [Antidepressant Use Linked to Altered Gut Microbiota in Patients with Major Depressive Disorder](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3pyTWpIeHB1TGdUVUlNTHdrVElJS2ZXTFRkSDl5cDdPWkRZNlRUaVdkNUo3UW80WlIzdEhEU2lrS01wRGJSWXQ4aUZuaTRmRHVqb3JERVAwZXRHR1l3RlJ6OG53RVAzVjZGcV9HOXV2emRCOFBWZ3ZTOUlpMmhGRTlnOXJmQ0E5VzYzaWszdENySFJ1THFPN1EwMWU3ZHBPOUc5N2VwRzZ5amM?oc=5)
 
 2026-07-29 <span class="news-indication-tag">depressive disorder</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3pyTWpIeHB1TGdUVUlNTHdrVElJS2ZXTFRkSDl5cDdPWkRZNlRUaVdkNUo3UW80WlIzdEhEU2lrS01wRGJSWXQ4aUZuaTRmRHVqb3JERVAwZXRHR1l3RlJ6OG53RVAzVjZGcV9HOXV2emRCOFBWZ3ZTOUlpMmhGRTlnOXJmQ0E5VzYzaWszdENySFJ1THFPN1EwMWU3ZHBPOUc5N2VwRzZ5amM?oc=5)
-
----
-
-### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias](https://news.google.com/rss/articles/CBMiggJBVV95cUxNRktxcjV5am01dTNMMXZaT2xha3dRb091SUsyQzYyVXVuenp2Mi1YR0ZIQmp0U0dsOFhoQUhhSVFJcnJLeEdTOEpZM2xEYXhqY1VWYkdsOWZBMFg0NWFoREhWYTRVNXJUalRYNElyQ0s1eDhPRkY1OFVJWUZub05kWHc1eVNxeFpOX0lUakE3UlVtSzgybUQxRE9fenQzS3RtZFMtTWlBclA0V0tGWHBxaUJ2NV81eDZIYlJUbUplTExzOFNKX0M5ZlRCdDFEbFNGbXM0U2NidDEzbnBGNHFOamZ1MjJFWVBDcExUOGgwXzVIMXZ5em4zNDNpQVV0ckpxR0E?oc=5)
-
-2026-07-29 <span class="news-indication-tag">depresión</span>
-
-來源：[Infosalus](https://news.google.com/rss/articles/CBMiggJBVV95cUxNRktxcjV5am01dTNMMXZaT2xha3dRb091SUsyQzYyVXVuenp2Mi1YR0ZIQmp0U0dsOFhoQUhhSVFJcnJLeEdTOEpZM2xEYXhqY1VWYkdsOWZBMFg0NWFoREhWYTRVNXJUalRYNElyQ0s1eDhPRkY1OFVJWUZub05kWHc1eVNxeFpOX0lUakE3UlVtSzgybUQxRE9fenQzS3RtZFMtTWlBclA0V0tGWHBxaUJ2NV81eDZIYlJUbUplTExzOFNKX0M5ZlRCdDFEbFNGbXM0U2NidDEzbnBGNHFOamZ1MjJFWVBDcExUOGgwXzVIMXZ5em4zNDNpQVV0ckpxR0E?oc=5)
 
 ---
 

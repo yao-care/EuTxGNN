@@ -54,11 +54,11 @@ permalink: /news/meropenem/
 
 ## 相關新聞（2 則）
 
-### [Arthritis: Pim1-Kinase als neues Angriffsziel gegen Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-30 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlqbW5lQmd1Vy11bHhBaEVRMF9ETjBtZ1NxLWladDZFR3RBNGs0VUNfeXpNT1Uza0NsSUQ5cU1LQ0dRU1RudVdCMUJON3VzTFBCSEV6c2EzVVVhSE1mRmMzYkFEOFJ5TjNHNjFSWDRJczkwdEN5bnZJSnNQb1ZzNnNwYWtmNkxfMjdrLVNxUG9UdVk4Z2RTVWZuMkFqdDNyVG56Qk9mRWI5NjdYUUZpWkhQWQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
 ---
 
