@@ -54,19 +54,19 @@ permalink: /news/entecavir/
 
 ## 相關新聞（2 則）
 
+### [Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’ - The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
+
+---
+
 ### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hepatitis</span>
 
 來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
-
----
-
-### [Hepatitis: qué es, cómo se previene y la importancia de vacunarse - Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
 
 ---
 

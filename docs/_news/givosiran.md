@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’ - The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
+
+---
+
+### [Hypertension artérielle : les défis du dépistage et de la continuité des soins - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
+
+---
 
 ### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
@@ -83,14 +99,6 @@ permalink: /news/givosiran/
 2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
-
----
-
-### [Hepatitis: qué es, cómo se previene y la importancia de vacunarse - Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
 
 ---
 

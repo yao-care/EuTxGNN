@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="Sacubitril 有什麼相關新聞？">
-<strong>Sacubitril</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sacubitril</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/sacubitril/
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
-### [Diabetes-Schutz: Ballaststoffe senken Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblRVdnBOcV9mT3A5SjNHM3B2aEwxczQwSE9fd25uaW1RYy1GUkN0VnZXeEZCX3pVcUd2enI2NFc4WXhsNUdLLUp2LVliLVM4ckhCSHNSTGZwMl9wX19ZNDd6VUFUSFgxRW82TWFxWDBVM0Vmb3NfWWtNTkpZTWxzUkZDUjZJT19wcG94RV9QSDJQX0lEVXpnWDVkZ2VSaTZDXzltYTZzU3l3UQ?oc=5)
+### [Typ-2-Diabetes: Ballaststoffe senken Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXVZSnFORXNsTlJ4U2dZRmUzODRwX21nM1J4eFlaeVc5NGpuM28xanpZQXRFZ3I5OFhVazFCOFkwZFVrSjNrTkxDWmVRaHFBVXB6RzI5bjlROUNJWHdKQ2hjd0xubGt3emI1WFZvbExLRVRyclNSdk4ySTFaT3NiaDdkcWoxVllld3FCZUJQc3lXV0pCak5PeTF2clNOY294R0VzUnNhdGE?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblRVdnBOcV9mT3A5SjNHM3B2aEwxczQwSE9fd25uaW1RYy1GUkN0VnZXeEZCX3pVcUd2enI2NFc4WXhsNUdLLUp2LVliLVM4ckhCSHNSTGZwMl9wX19ZNDd6VUFUSFgxRW82TWFxWDBVM0Vmb3NfWWtNTkpZTWxzUkZDUjZJT19wcG94RV9QSDJQX0lEVXpnWDVkZ2VSaTZDXzltYTZzU3l3UQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXVZSnFORXNsTlJ4U2dZRmUzODRwX21nM1J4eFlaeVc5NGpuM28xanpZQXRFZ3I5OFhVazFCOFkwZFVrSjNrTkxDWmVRaHFBVXB6RzI5bjlROUNJWHdKQ2hjd0xubGt3emI1WFZvbExLRVRyclNSdk4ySTFaT3NiaDdkcWoxVllld3FCZUJQc3lXV0pCak5PeTF2clNOY294R0VzUnNhdGE?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Rheumatoide Arthritis begünstigt Rachenkrebs](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
+### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 ---
 
@@ -90,15 +90,7 @@ permalink: /news/sacubitril/
 
 2026-07-31 <span class="news-indication-tag">diabete</span>
 
-來源：[bergamonews.it](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
-
----
-
-### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
-
-2026-07-31 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
+來源：[BergamoNews](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
 
 ---
 
@@ -110,11 +102,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Bajo riesgo de cáncer de piel no melanoma con inhibidores de JAK en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
+### [Asocian la diabetes tipo 1 en los jóvenes con el deterioro progresivo de la salud ósea](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
 
-2026-07-30 <span class="news-indication-tag">artritis</span>
+2026-07-30 <span class="news-indication-tag">diabetes</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
+來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
 
 ---
 

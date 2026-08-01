@@ -14,7 +14,7 @@ permalink: /news/bempedoic-acid/
 ---
 
 <p class="key-answer" data-question="Bempedoic Acid 有什麼相關新聞？">
-<strong>Bempedoic Acid</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bempedoic Acid</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,61 @@ permalink: /news/bempedoic-acid/
 <p><a href="{{ '/drugs/bempedoic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（28 則）
+
+### [Vitamin B12: 55 Mikrogramm täglich verdoppeln Lungenkrebsgefahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
+
+2026-08-01 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
+
+---
+
+### [Tumore del polmone, al via lo screening in Lombardia: in città eseguito il primo esame - La Provincia di Cremona](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDl2RUJmWG5VWm5Ra1BPRC1GSUVIU0ZaN0xmVXVPeE9YT0gyenpCR2o5OWwxSUdHZGctTVFyTmJZVmxQSWJPckE1azdBOWcwbE53aXBqTzBFNHdvNF9JSlNFYnNadHVhM29yd0tXU1lsY3RGa3hyakFpWU52Qm43V0dmRjBUV1VNYzBtN0NQVFFTaXVONVVHX29IUVNsdlF4VFhZUS1kS05ZZUhpQWZJQndYQzJ2cXJBVUFkTFJTRjlKWEpFcS1fX0NuWXhUaFI3c1h2dA?oc=5)
+
+2026-08-01 <span class="news-indication-tag">tumor</span>
+
+來源：[La Provincia di Cremona](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDl2RUJmWG5VWm5Ra1BPRC1GSUVIU0ZaN0xmVXVPeE9YT0gyenpCR2o5OWwxSUdHZGctTVFyTmJZVmxQSWJPckE1azdBOWcwbE53aXBqTzBFNHdvNF9JSlNFYnNadHVhM29yd0tXU1lsY3RGa3hyakFpWU52Qm43V0dmRjBUV1VNYzBtN0NQVFFTaXVONVVHX29IUVNsdlF4VFhZUS1kS05ZZUhpQWZJQndYQzJ2cXJBVUFkTFJTRjlKWEpFcS1fX0NuWXhUaFI3c1h2dA?oc=5)
+
+---
+
+### [Tumore della prostata metastatico ormone-sensibile, la Fda porta l](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOGVGdVo5bS1FOVVLSnJxaGxYa2J6ZEh0NlpsanVYOXJfZExWeC11SUhJZDlLbWJseHl6M3dWRmZoX01LVVQ1TVRURHZYY2tFN3puN0tKdDl0Q0puZFhKQVRNdFRhZFRDVGdzNHhKbFh3NUVMVjJSMEhHMXZpSjJ3R2g0VVVtV2YydFlVc05vU3VKXy1JejNTcGtPdmpiRDVjekx5Y0o0Sk5SMVBSc1dLdHVJYnVaTUJnVlpaTjllNnFFTHRBS2VrbjRKdFBKMXVVbVotWFZNWEFlQ2QyQk1YS0J2SHZubTBmMm5UN3hRM0k1T2l4aEZxQg?oc=5)
+
+2026-08-01 <span class="news-indication-tag">tumor</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOGVGdVo5bS1FOVVLSnJxaGxYa2J6ZEh0NlpsanVYOXJfZExWeC11SUhJZDlLbWJseHl6M3dWRmZoX01LVVQ1TVRURHZYY2tFN3puN0tKdDl0Q0puZFhKQVRNdFRhZFRDVGdzNHhKbFh3NUVMVjJSMEhHMXZpSjJ3R2g0VVVtV2YydFlVc05vU3VKXy1JejNTcGtPdmpiRDVjekx5Y0o0Sk5SMVBSc1dLdHVJYnVaTUJnVlpaTjllNnFFTHRBS2VrbjRKdFBKMXVVbVotWFZNWEFlQ2QyQk1YS0J2SHZubTBmMm5UN3hRM0k1T2l4aEZxQg?oc=5)
+
+---
+
+### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer' - The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
+
+2026-08-01 <span class="news-indication-tag">cancer</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
+
+---
+
+### [Diagnosi e cura dei disturbi della prostata: da Alberto Angela il servizio televisivo girato al Morgagni-Pierantoni](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
+
+2026-08-01 <span class="news-indication-tag">tumor</span>
+
+來源：[ForlìToday](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
+
+---
 
 ### [Le cancer du poumon touche de plus en plus de femmes mais aussi ... des personnes qui n'ont jamais fumé !](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2hZSzJmWHdBN0ctamFnWFJSd2d5dHV0T1BGNkVjNmFIM1hJa0cxYjhSNzJRb2Zqamplbm9NS2ZIOWx3Ymh5TW9IbkNMS3VhM1Q0ZGxpYjFtWnVhbllsUkdOT1dQbEFGQkNXTThTNkh1c1R1UEMtS1E2cFZ1N1ZoMDAwa1ZxSkxrX21VcVlxZHcyU3dHa0kxLTBqVUFGd0NpM1haSWNRU05lVUdvSGJGcjdja1h1U0lhbkVyOUstOWpPLUNLRkVyR3RmeV8xRERGMmQ5MW5jcDZLMTR6LXVST2xNdW5tTlNrUEE?oc=5)
 
 2026-08-01 <span class="news-indication-tag">cancer</span>
 
 來源：[DHnet](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2hZSzJmWHdBN0ctamFnWFJSd2d5dHV0T1BGNkVjNmFIM1hJa0cxYjhSNzJRb2Zqamplbm9NS2ZIOWx3Ymh5TW9IbkNMS3VhM1Q0ZGxpYjFtWnVhbllsUkdOT1dQbEFGQkNXTThTNkh1c1R1UEMtS1E2cFZ1N1ZoMDAwa1ZxSkxrX21VcVlxZHcyU3dHa0kxLTBqVUFGd0NpM1haSWNRU05lVUdvSGJGcjdja1h1U0lhbkVyOUstOWpPLUNLRkVyR3RmeV8xRERGMmQ5MW5jcDZLMTR6LXVST2xNdW5tTlNrUEE?oc=5)
+
+---
+
+### [Israeli study: Some body parts age faster, paving way for cancer treatment - The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
+
+2026-08-01 <span class="news-indication-tag">cancer</span>
+
+來源：[The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
 
 ---
 
@@ -78,11 +126,11 @@ permalink: /news/bempedoic-acid/
 
 ---
 
-### [Lungenkrebs: Bei der Einnahme dieser Vitamine soll das Risiko steigen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3F5dEdXMmRlRmxhUTdOdnZYMlhYaF9PLU52MjBydHZxVVJ2WkQ3dmVZQkRoR2NfQzZzejRheE9CUUJYRTJLeHdjMG55SGJnbmxBQ3prelJYaE1kRXBqVE5QRk9uaGJZa0F5UTRtWUdoUWRiQW9UcmN0OWc2RnJDYlo5Z1NCaTBrajZWQTZEaUEzZ0duVlkzak5zSEhpZFFaNTdwVXRtSGg3NmNDc28yS3AwSXU?oc=5)
+### [Mögliche neue Krebsfaktoren entdeckt](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGdSWVIwYUJNWUFlRFhTcmlwSHZnVFJYeHRPSEpkWXBvQnRFbVhTcVV1ZUloZFFHNmh6VTNRNXZadXpVUDBWU3lVdFZpc3JVSEg0X1kxOGhzUExIcFdEaVRzVzlZN016bkowWElHWnd6LVI4SUZhNnhzSXJwYTJpRzRETVg1cHFYVF9raUdR?oc=5)
 
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3F5dEdXMmRlRmxhUTdOdnZYMlhYaF9PLU52MjBydHZxVVJ2WkQ3dmVZQkRoR2NfQzZzejRheE9CUUJYRTJLeHdjMG55SGJnbmxBQ3prelJYaE1kRXBqVE5QRk9uaGJZa0F5UTRtWUdoUWRiQW9UcmN0OWc2RnJDYlo5Z1NCaTBrajZWQTZEaUEzZ0duVlkzak5zSEhpZFFaNTdwVXRtSGg3NmNDc28yS3AwSXU?oc=5)
+來源：[WEB.DE](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGdSWVIwYUJNWUFlRFhTcmlwSHZnVFJYeHRPSEpkWXBvQnRFbVhTcVV1ZUloZFFHNmh6VTNRNXZadXpVUDBWU3lVdFZpc3JVSEg0X1kxOGhzUExIcFdEaVRzVzlZN016bkowWElHWnd6LVI4SUZhNnhzSXJwYTJpRzRETVg1cHFYVF9raUdR?oc=5)
 
 ---
 
@@ -102,17 +150,9 @@ permalink: /news/bempedoic-acid/
 
 ---
 
-### [Descienden los cánceres asociados al tabaco y aumentan algunos tumores digestivos en adultos jóvenes](https://news.google.com/rss/articles/CBMixAFBVV95cUxOX29Ub3BtOW8wcnphTUd6Z0s4MnV5aHdINFVNZFpqdGlLWXFtNWxmNWxONlhSQ3RxbWFjc0pEVGxUaFVVNEwxWVpOVTlYdEZtcHRYTktlcXF4ZE0tN1BjZWZ1b2piTUl0QTlqc2RZaEtnNnJtdEpBV09XaklJaThuREFlUlRKZ2ZxOVNwVmVaWXZFZkRWZ3d0cnR2d1V4cV96aVhlTW1lR0l2V1F2U3B4WGtUYXZVdVFBVTFseW5NUHFfSWI4?oc=5)
-
-2026-07-31 <span class="news-indication-tag">tumor</span>
-
-來源：[Farmacosalud](https://news.google.com/rss/articles/CBMixAFBVV95cUxOX29Ub3BtOW8wcnphTUd6Z0s4MnV5aHdINFVNZFpqdGlLWXFtNWxmNWxONlhSQ3RxbWFjc0pEVGxUaFVVNEwxWVpOVTlYdEZtcHRYTktlcXF4ZE0tN1BjZWZ1b2piTUl0QTlqc2RZaEtnNnJtdEpBV09XaklJaThuREFlUlRKZ2ZxOVNwVmVaWXZFZkRWZ3d0cnR2d1V4cV96aVhlTW1lR0l2V1F2U3B4WGtUYXZVdVFBVTFseW5NUHFfSWI4?oc=5)
-
----
-
 ### [Viagra e tumori, la molecola può frenare le metastasi: cosa dice lo studio - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+2026-07-31 <span class="news-indication-tag">tumor</span>
 
 來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
 
@@ -126,6 +166,14 @@ permalink: /news/bempedoic-acid/
 
 ---
 
+### [Natural tooth count indicates long-term survival following pancreatic cancer surgery - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWNvXy1oRUtTYjhucTBPTThIMzlLLVJ1MTZEX0Jpd1Y0N0U3VVQtWUh3ckdWZjNiYUduakEtM0RVWVIyY0tybnVyMlU0NDVaY3FBY2Vxa2dqOHJJNjdJNlRSSzRnSHRJQTZCSEpCcjdtUDc1UzJPeEp3N0RqekdxTWdlV2o2alE1WXc?oc=5)
+
+2026-07-31 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWNvXy1oRUtTYjhucTBPTThIMzlLLVJ1MTZEX0Jpd1Y0N0U3VVQtWUh3ckdWZjNiYUduakEtM0RVWVIyY0tybnVyMlU0NDVaY3FBY2Vxa2dqOHJJNjdJNlRSSzRnSHRJQTZCSEpCcjdtUDc1UzJPeEp3N0RqekdxTWdlV2o2alE1WXc?oc=5)
+
+---
+
 ### [Immunvermittelte entzündliche Erkrankungen: Erhöhtes Risiko für HPV-bedingte Krebserkrankungen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeC1fVWhKWlBSdHE0eHcyLV91ZDJteFFsc05leHYxRllLQkhXRTdoTVpCZjBoSkxnTXhybWJ4cHJrZnotanNqR1E1U3RHa25EczhxcXlwVGtVY05OdURITEFmaUxPLXR0SVhXX3VmRVR6TkJrck1ZY3RscUpoQzM4bWxFTldVeGJnTFNXTnpmZmtuWEhDcVdkWHdXSWRZc2tfU3lPd2t1b1ZWZS1EclBhYlhfMXpPT19uLS1DX2RfWGlnZlcyQmhKVXFRVUNBR3FxMkh0NGU0dlVEY1hRXzRjQm02ODVNOXZhZXJMcC1EQXVDZmZl?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span>
@@ -136,7 +184,7 @@ permalink: /news/bempedoic-acid/
 
 ### [Viagra gegen Krebs? Was die neue Studie zu Sildenafil tatsächlich herausgefunden hat - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-07-31 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDN4ZEJPZVlpMTVnVTVoTjU3ekZ5cGsyT1FEOXU5RVgtTjE0WW1Cek5UX2RDNFd1OHpqTU9GcmpmSS1ISGFEWnRNNW9Udk5va2pCcmZoSzBvNlFqUXBWTHdTQjlxUUs4ck1tMUMzWnpfS1NYdVRNaDdFOG5mNEpMQVRzRUlFbGpsRThLOHdWdmxPNTFtREplT1Q5bDFwcURQX3dlc19NYw?oc=5)
 
@@ -150,11 +198,11 @@ permalink: /news/bempedoic-acid/
 
 ---
 
-### [Rheumatoide Arthritis begünstigt Rachenkrebs](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
+### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 ---
 
@@ -174,27 +222,19 @@ permalink: /news/bempedoic-acid/
 
 ---
 
-### [We blamed hot weather for our daughter’s headaches - it was incurable cancer at 14 - what we want parents to know - The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUlRb2puZzIydXRCUjQwUmthRWxuMnJiaTdCOVd3d3AyLUZIdmRuQU5veS00X1V0c1JpUG9aZUxTTGJOLV9zODNhVy1WbVFQZE0ycm1MMDJiWmFSc04yZ04td3BvX3h6VFRyMFpBQk0tbnBoeWY4SFBRZThVNWE5OVdXTl8td1l4aUNzNU5CZVMwaHpic3c?oc=5)
+### [Woman becomes first to receive pioneering new cancer therapy - Yahoo News UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWVraEFDRTltQ3JBN25PWWJ3bnE3VDVzS3pPMHVWazd3djRFY2pZTW5tWTdLdmtUaXczTmNnbkpiUmE0eW5qMlJ4ZDlWSUY5MTE3NnBTOUpuZVIzUmpoMGpiRkh3Z1F3UmVlbS1Fc2NmcldOazYxYnFLdkZFUzRvTDczUnRKQQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">cancer</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUlRb2puZzIydXRCUjQwUmthRWxuMnJiaTdCOVd3d3AyLUZIdmRuQU5veS00X1V0c1JpUG9aZUxTTGJOLV9zODNhVy1WbVFQZE0ycm1MMDJiWmFSc04yZ04td3BvX3h6VFRyMFpBQk0tbnBoeWY4SFBRZThVNWE5OVdXTl8td1l4aUNzNU5CZVMwaHpic3c?oc=5)
+來源：[Yahoo News UK](https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWVraEFDRTltQ3JBN25PWWJ3bnE3VDVzS3pPMHVWazd3djRFY2pZTW5tWTdLdmtUaXczTmNnbkpiUmE0eW5qMlJ4ZDlWSUY5MTE3NnBTOUpuZVIzUmpoMGpiRkh3Z1F3UmVlbS1Fc2NmcldOazYxYnFLdkZFUzRvTDczUnRKQQ?oc=5)
 
 ---
 
-### [Woman becomes first to receive pioneering new cancer therapy](https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWVraEFDRTltQ3JBN25PWWJ3bnE3VDVzS3pPMHVWazd3djRFY2pZTW5tWTdLdmtUaXczTmNnbkpiUmE0eW5qMlJ4ZDlWSUY5MTE3NnBTOUpuZVIzUmpoMGpiRkh3Z1F3UmVlbS1Fc2NmcldOazYxYnFLdkZFUzRvTDczUnRKQQ?oc=5)
+### [Common sugar identified as surprise cancer driver](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXRSS19CMHI3MmhpRDlCRlBkZWk3UGx6dllIb1h0NG9IV2ZET2t5WGttZnBITHhhX3N2bW43b3hReDJObFNMcFFGVDBMNFlIYWM3ZFdZRUpJOEhxck1PajJsczV3TE5yMWo0NFJ1M0FqREp2emxwRW0tcHI0MVd4VmVQeURoYmFtQUMxLU9fbllWUjVyOUFTdQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">cancer</span>
 
-來源：[uk.news.yahoo.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWVraEFDRTltQ3JBN25PWWJ3bnE3VDVzS3pPMHVWazd3djRFY2pZTW5tWTdLdmtUaXczTmNnbkpiUmE0eW5qMlJ4ZDlWSUY5MTE3NnBTOUpuZVIzUmpoMGpiRkh3Z1F3UmVlbS1Fc2NmcldOazYxYnFLdkZFUzRvTDczUnRKQQ?oc=5)
-
----
-
-### [Common sugar could cause cancer to spread, scientists warn - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
+來源：[independent.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXRSS19CMHI3MmhpRDlCRlBkZWk3UGx6dllIb1h0NG9IV2ZET2t5WGttZnBITHhhX3N2bW43b3hReDJObFNMcFFGVDBMNFlIYWM3ZFdZRUpJOEhxck1PajJsczV3TE5yMWo0NFJ1M0FqREp2emxwRW0tcHI0MVd4VmVQeURoYmFtQUMxLU9fbllWUjVyOUFTdQ?oc=5)
 
 ---
 
@@ -203,6 +243,14 @@ permalink: /news/bempedoic-acid/
 2026-07-31 <span class="news-indication-tag">Krebs</span>
 
 來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFltNDRXeF9iWUtOWjJESklLSzJ2ZVhhT0s1SFBFV3JITHJpa3I5NndYTXhHcHVLbGpQYS1pOTlzaGpuNFRRbkRfMHFUQzYzNGEwUHNSYnBRMFktV0YyYTQ2MkZXaGd5VlpYZmg1ckJ5enlUMTluQzhxY0xmQ1ZmeVA3akUwVkxBLU9EY2h4M1dnNzdzMmtkVnZFd0FFbkJUa1JGaWNCZw?oc=5)
+
+---
+
+### [Girl, 14, with 'stomach bug' could 'only have months left to live'](https://news.google.com/rss/articles/CBMie0FVX3lxTE96MHJuOHUwZkg2TlJKZ09pSnAyOTR5aGtuZENOeHBhNnRmZXJFV1B5ZDhWbjVScDQ4V2R2dC1pX3kwajE2TjE1ZUh1V3ZoNUVMWUpxTXA5eHRtR3lkT3FCdDB5NTlaTEpjZEJjWl9rMGN6QlR0cEd4OWZpMA?oc=5)
+
+2026-07-31 <span class="news-indication-tag">cancer</span>
+
+來源：[aol.co.uk](https://news.google.com/rss/articles/CBMie0FVX3lxTE96MHJuOHUwZkg2TlJKZ09pSnAyOTR5aGtuZENOeHBhNnRmZXJFV1B5ZDhWbjVScDQ4V2R2dC1pX3kwajE2TjE1ZUh1V3ZoNUVMWUpxTXA5eHRtR3lkT3FCdDB5NTlaTEpjZEJjWl9rMGN6QlR0cEd4OWZpMA?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "BPCO（copd） 相關新聞"
+title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "BPCO（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
-# BPCO（copd） 相關新聞
+# EPOC（copd） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="BPCO（copd） 有什麼相關新聞？">
-<strong>BPCO（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
+<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「BPCO」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「EPOC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,7 +54,15 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
+
+2026-08-01
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
+
+---
 
 ### [BPCO, un sospiro di sollievo con le nuove cure: meno riacutizzazioni, più qualità di vita](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
 

@@ -67,19 +67,19 @@ permalink: /news/carbidopa/
 
 ---
 
+### [Alzheimer-Prävention: Vitamin D reduziert toxische Tau-Proteine - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3QtWkxXWmpabjRtbGtrQTU2VzJkTzZhdjVXMmZmV1R1dnlxMkZhcWZJb2dQOVFja0tyWnF4UU5mUzNuam50OUI5M3BwaEFvSHgtUzNIMk1xR3pfc3ExUFV3WGU1cm5aQTI2ZlJOSWtwdm8zYWNKWjZDUXlTWWVlVGNPZ0RVcDJiendJU3QzNTBXMjY1dXN0YVVQYXRwcXB4dHdWcTA0SjdjYUlHSTBldGZ3?oc=5)
+
+2026-07-31 <span class="news-indication-tag">Alzheimer-Krankheit</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3QtWkxXWmpabjRtbGtrQTU2VzJkTzZhdjVXMmZmV1R1dnlxMkZhcWZJb2dQOVFja0tyWnF4UU5mUzNuam50OUI5M3BwaEFvSHgtUzNIMk1xR3pfc3ExUFV3WGU1cm5aQTI2ZlJOSWtwdm8zYWNKWjZDUXlTWWVlVGNPZ0RVcDJiendJU3QzNTBXMjY1dXN0YVVQYXRwcXB4dHdWcTA0SjdjYUlHSTBldGZ3?oc=5)
+
+---
+
 ### [What Doctors Want You to Know About the Differences Between Dementia and Alzheimer’s](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbC01OUNoM1pNeFlqTFRVYzRtb3lTUnlkcF9kSm13LWx5T1JVczJKTUFmdV9OMHpjdXRyc3B2M04wbzAteHo5Uk0zWlhiSk1VM3NzUXFWMWwtUm1RUGhHTjkzbnpQZ0JDR1BmZDZqelNNM2tYOXhLOGF4XzktdzJTUXlOYm8tR3lqdV9FRTlmQjRMVktFRVIxSktYMA?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
 來源：[Prevention](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbC01OUNoM1pNeFlqTFRVYzRtb3lTUnlkcF9kSm13LWx5T1JVczJKTUFmdV9OMHpjdXRyc3B2M04wbzAteHo5Uk0zWlhiSk1VM3NzUXFWMWwtUm1RUGhHTjkzbnpQZ0JDR1BmZDZqelNNM2tYOXhLOGF4XzktdzJTUXlOYm8tR3lqdV9FRTlmQjRMVktFRVIxSktYMA?oc=5)
-
----
-
-### [Kann Vitamin D vor Demenz schützen? Studie liefert spannende Hinweise](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnc0SGtjeFdkOThwU2N4ODRycHM1S21QbUJOMks0eGw4YmpucnF0bVdrZTJDVmxpVmVqSnZqb2tsUEtOVy12VmZPVzRmTmltYTJaRy1HM053QVRIblZWejB4eE9mNTN0SXVVaTdxOE5oVnB5TnBXaHVreUczeEpRel9WTEpBd0FkRTJtbEpPQkJ1Tl9CM0lYVnVnSk9IWi1BNUZpNkMtX05zVEhheEl5aTZCZEdQbzctRGtIY1BTUGgzLUh5QTJlaVh5emg0Zw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">Alzheimer-Krankheit</span>
-
-來源：[morgenpost.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnc0SGtjeFdkOThwU2N4ODRycHM1S21QbUJOMks0eGw4YmpucnF0bVdrZTJDVmxpVmVqSnZqb2tsUEtOVy12VmZPVzRmTmltYTJaRy1HM053QVRIblZWejB4eE9mNTN0SXVVaTdxOE5oVnB5TnBXaHVreUczeEpRel9WTEpBd0FkRTJtbEpPQkJ1Tl9CM0lYVnVnSk9IWi1BNUZpNkMtX05zVEhheEl5aTZCZEdQbzctRGtIY1BTUGgzLUh5QTJlaVh5emg0Zw?oc=5)
 
 ---
 

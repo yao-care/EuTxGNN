@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [Rheumatoide Arthritis begünstigt Rachenkrebs](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
+### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
-來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
----
-
-### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
-
-2026-07-31 <span class="news-indication-tag">arthritis</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
-
----
-
-### [Bajo riesgo de cáncer de piel no melanoma con inhibidores de JAK en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">artritis</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 ---
 

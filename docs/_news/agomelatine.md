@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="Agomelatine 有什麼相關新聞？">
-<strong>Agomelatine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Agomelatine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/agomelatine/
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVlhNkI1NlhLbHFReUEwNi1DZWM4R2w2MTZsNEdKNnlIWk9YN3pITkFPS0J5MWFLajVSejZjMldaOW1vT3REa2ptTGJLOVZjTGhqZ3BCQnh1X0ZIVzlqZ1MteTBOMXppbW9YSUpNMkFxMWFaUm1HNzdNWnpqR2JMRjlaMWxzUHNfY3RPY0tBYWxUV1NVUlNCT1N1aE9HQlQwMVQydkpoMl9XUnp2eDY2X3ZNY01ycWMzQnA2TlRab2FPWmNlemhJVEZ5SU5qOFJqOWxNUmdoLUEzcGJYOGNmU2x5VDBsNXkzUG95YnNfTDI?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/agomelatine/
 2026-07-31 <span class="news-indication-tag">depression</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk1UY3ZrQnZUMXdVeGV6RTg1bEhTSDVfb3B4TFZvU2IzV0NiM0c0cE5kUDZrSko3NWQ0ckR2eDlLaFBBWk5rNVZBX1pXUk83R2lwVzRKVlZqN3h0LUZ1R0d2b0VHMTYxWUV0WWp2NjBtMnhaOUVLc1llTFVMX0NwaFJ0YkhIUVRiRUNubXBZdlJzVG96T0JaVGxfeUtNazAtckV3enBfNTVpRkIyWWpFMnNmT0VEbDRON1YzSzJKVWozdkgwRzlMeFJ6SU5EaU42Y2oyR0VzZnNnREdoQUcyM1JWUUM?oc=5)
-
----
-
-### [Demenz: Lange glaubten die Ärzte an eine Depression. Die Diagnose lautete Alzheimer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
-
-2026-07-30 <span class="news-indication-tag">depression</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
 
 ---
 

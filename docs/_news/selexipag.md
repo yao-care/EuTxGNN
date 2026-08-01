@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="Selexipag 有什麼相關新聞？">
-<strong>Selexipag</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Selexipag</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/selexipag/
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Hypertension artérielle : les défis du dépistage et de la continuité des soins - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
+
+---
 
 ### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
 

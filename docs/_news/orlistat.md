@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
 
@@ -78,11 +78,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Santé. MASH : c'est quoi cette maladie du foie qui toucherait 8 millions de Français ? - Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
+### [Santé. MASH : c'est quoi cette maladie du foie qui toucherait 8 millions de Français ?](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
 
 2026-07-31 <span class="news-indication-tag">obésité</span>
 
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
+來源：[leprogres.fr](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/orlistat/
 2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
-
----
-
-### [Médecin généraliste, le Dr Laetitia Dellasantina-Panzani alerte : "Les traitements injectables contre l'obésité ne sont pas de la médecine esthétique" - Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
-
-2026-07-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-來源：[Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
 
 ---
 
