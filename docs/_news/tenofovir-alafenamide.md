@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir Alafenamide 有什麼相關新聞？">
-<strong>Tenofovir Alafenamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenofovir Alafenamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/tenofovir-alafenamide/
 <p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [WHO fordert mehr Tests und Therapien gegen chronische Hepatitis B und C](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
+### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
-2026-07-30 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-08-01 <span class="news-indication-tag">hepatitis</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9nQkluM0Nsdk50ZkFHalRvZVR5SDlzdFZCTTZYTEswdERnaEtCYnhJSFFfVDM5ZVpwYjltc0RuUUtneFZ2RTZWWUtKaERzYTl2cThTNjg5VzM2ZkYwZkVuOFB1WUJhTE5aOXZwN3ZKa2o2QUp0aWEybDVNRFFsaXktZEQ4eFN5R1BmU0dIZTB3WnQwR3pyQktmVVRFdjRiU2FzSEt3?oc=5)
-
----
-
-### [Hepatitis silenciosa: cómo detectar a tiempo el desgaste del hígado antes de que sea irreversible](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
-
-2026-07-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[noticiasdegipuzkoa.eus](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVVHcV96R0M1TUt5R3R1cC0wMVBHdi1WbWhnQnRhSXhHTUxqcEpjamJwTll3eDY1SUxRTEVwRjVrNmNpdGI0a2N1QlNPUjY2Uzg1cFRXcVZHTDVoY1FrcHhWVTlNY2tqeVNQMWVvekV6MnFkTjlORnMzTzNOVEZ6aXpjcngtdHVFdHpKOUlXeEVVZHRTNUZ4eTNtMGk0bFY5OExyMHdiRG5IS2NOQS1kZNIBtgFBVV95cUxOYnZvcWcxM05LRnVZOElUb3lIRV90LTJrRmVCMXo1RG9LOFNGY1hPUC1EWndHcmVPazVMSDJTMmdTMUNDSy1JYW5tckpZbkRfMXdCRDNhZ0V5QjMtTVFONnRROVJRa2pnSE52Q0hhOUZ0bkFCSVU2WTA4aThXOXpNanVjTHhCcG92ekZud3kyOHNXaDFzUjUtaTlwRVdJSG9mbnlNRzRrU2I0Mk9CZU1NY0lnQjhmQQ?oc=5)
-
----
-
-### [Hepatitis E erhöht Risiko für akutes Leberversagen bei Leberzirrhose](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
-
-2026-07-30 <span class="news-indication-tag">hepatitis</span>
-
-來源：[journalmed.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWYtSHFoYUlwM1NOWWRmUmZKMWlFdXhsUmY1aXJVaEVNclVvX05zbTVRWVF6R3RwZjJrVHl3c0pZZ0Z4WkxqZERSTk51WGlqaEwwQ2FHdWNMZndYb2xSWk40SUlsZHBHcm14SGI5RWRsNERkekE0U0gzRG5fRVFMbHhpNkljOVRIcXI1Y0RvalJYWFZzTnBuVXlNLVpocEJaNlFvQ1FEbXI1UDBpMGc?oc=5)
+來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 ---
 

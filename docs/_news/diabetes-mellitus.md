@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabète（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
+description: "diabète（diabetes mellitus） 的相關健康新聞報導。6 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabète（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabète（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabète（diabetes mellitus）</strong> 目前有 <strong>6 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabète」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,11 +116,11 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（6 則）
 
-### [Nierenerkrankung: Lebensstilintervention senkt Risiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkV6VjAyM3RsXzc5bTU4bHBVd1hteFlyQW5JYk5QUE40bV9VSmI2M3FwUEtWVnFGa1JxNFpnZmtKQks0WVRoNWRRWXJlUjBuSUhrNnZ0eTcyU1pxMVZITDVwNV9QckxlYUtQOG5HQ21xajk3dWwwdDZJbkZpRUZxamxBOEZQQ1p1WVVZMk42OE5DLVVBYVJPOU5hV3FmMlBBMDg3Mzhab2FGOXFWczNHWUlIcWNFZw?oc=5)
+### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
 2026-07-31
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkV6VjAyM3RsXzc5bTU4bHBVd1hteFlyQW5JYk5QUE40bV9VSmI2M3FwUEtWVnFGa1JxNFpnZmtKQks0WVRoNWRRWXJlUjBuSUhrNnZ0eTcyU1pxMVZITDVwNV9QckxlYUtQOG5HQ21xajk3dWwwdDZJbkZpRUZxamxBOEZQQ1p1WVVZMk42OE5DLVVBYVJPOU5hV3FmMlBBMDg3Mzhab2FGOXFWczNHWUlIcWNFZw?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
 ---
 

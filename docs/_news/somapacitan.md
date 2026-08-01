@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
-### [Nierenerkrankung: Lebensstilintervention senkt Risiko um 62% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkV6VjAyM3RsXzc5bTU4bHBVd1hteFlyQW5JYk5QUE40bV9VSmI2M3FwUEtWVnFGa1JxNFpnZmtKQks0WVRoNWRRWXJlUjBuSUhrNnZ0eTcyU1pxMVZITDVwNV9QckxlYUtQOG5HQ21xajk3dWwwdDZJbkZpRUZxamxBOEZQQ1p1WVVZMk42OE5DLVVBYVJPOU5hV3FmMlBBMDg3Mzhab2FGOXFWczNHWUlIcWNFZw?oc=5)
+### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
-2026-07-31 <span class="news-indication-tag">diabetes</span>
+2026-07-31 <span class="news-indication-tag">diabète</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkV6VjAyM3RsXzc5bTU4bHBVd1hteFlyQW5JYk5QUE40bV9VSmI2M3FwUEtWVnFGa1JxNFpnZmtKQks0WVRoNWRRWXJlUjBuSUhrNnZ0eTcyU1pxMVZITDVwNV9QckxlYUtQOG5HQ21xajk3dWwwdDZJbkZpRUZxamxBOEZQQ1p1WVVZMk42OE5DLVVBYVJPOU5hV3FmMlBBMDg3Mzhab2FGOXFWczNHWUlIcWNFZw?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
 ---
 
@@ -83,6 +83,14 @@ permalink: /news/somapacitan/
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
+
+---
+
+### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
+
+2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
+
+來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 
@@ -123,6 +131,14 @@ permalink: /news/somapacitan/
 2026-07-30 <span class="news-indication-tag">diabetes</span>
 
 來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
+
+---
+
+### [Metabolische Fettleber: ein unterschätztes Risiko für jeden Vierten](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFoLVJSNDNmUUpzVi0wVHYxckJJaGpDSUdvc2h4RmN1X28zYllOSXVpc0dhVWZRc0RiQWdhVUV4VHlhZGZ0Uno3dVc2MmlmM3paUHduWlAwdHlVOTBHUzdwb0dVc1l3aXc0Z0wzWmJlQjUwTmtPbkdhRHlsYVMzcGhHdDRGMUFZbjJqekhOYmF5SEV3NEh6dTlxNDI4bXhqMUljRm9YYTRWTFVDLUlJTmpPZUtxVHVsSHFIY0V2UE1rVURCYVgyZWowQVNLdw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">asma</span>
+
+來源：[leinetal24](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFoLVJSNDNmUUpzVi0wVHYxckJJaGpDSUdvc2h4RmN1X28zYllOSXVpc0dhVWZRc0RiQWdhVUV4VHlhZGZ0Uno3dVc2MmlmM3paUHduWlAwdHlVOTBHUzdwb0dVc1l3aXc0Z0wzWmJlQjUwTmtPbkdhRHlsYVMzcGhHdDRGMUFZbjJqekhOYmF5SEV3NEh6dTlxNDI4bXhqMUljRm9YYTRWTFVDLUlJTmpPZUtxVHVsSHFIY0V2UE1rVURCYVgyZWowQVNLdw?oc=5)
 
 ---
 
