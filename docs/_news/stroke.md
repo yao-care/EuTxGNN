@@ -3,7 +3,7 @@ layout: default
 title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
 
 2026-08-01
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
+
+---
+
+### [Cholestérol : et si votre assiette n’était pas la seule responsable ? - Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
+
+2026-08-01
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
 
 ---
 

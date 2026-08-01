@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Migräne bleibt bei Männern oft unerkannt – was ihnen hilft](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+
+2026-08-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+
+---
+
+### [Calor y migraña: estos son los factores que agravan el dolor y así puedes reducir su impacto - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
+
+2026-08-01 <span class="news-indication-tag">migraña</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
+
+---
 
 ### [Studie identifiziert Bakterien, die den „Bauernhof-Effekt“ auslösen - top agrar](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
 
@@ -78,11 +94,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
+### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
 
 2026-07-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[elmedicointeractivo.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/regadenoson/
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
 來源：[TARA24](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
-
----
-
-### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
 
 ---
 

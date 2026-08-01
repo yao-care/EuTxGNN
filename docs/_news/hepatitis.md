@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,21 +53,13 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’ - The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
-
-2026-08-01
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
-
----
-
-### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 2026-08-01
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+來源：[wndn.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 ---
 

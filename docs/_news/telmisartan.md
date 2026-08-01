@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39% - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
+
+2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
+
+---
 
 ### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
 
 2026-08-01 <span class="news-indication-tag">AVC</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
+
+---
+
+### [Cholestérol : et si votre assiette n’était pas la seule responsable ? - Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
+
+2026-08-01 <span class="news-indication-tag">AVC</span>
+
+來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
 
 ---
 
@@ -70,27 +86,27 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
 
 2026-07-31 <span class="news-indication-tag">hipertensión</span>
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+來源：[imfarmacias.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
 
 ---
 
-### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
+### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
 
 ---
 
-### [Bluthochdruck: Kombinationstherapien senken Abbruchrisiko um 39%, zugleich drohen Lieferengpässe - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
+### [Simplified Risk Score Predicts Coronary Calcium on CTA](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkVNbE91dy1rMzZzYS1HSmNERjRwUW52MFBNYWJjZ090ZHc1elp0bnAyaHVRczVDZjdXcUw0RllRVjBDdUVFNWZuSmw2aFNib0NLVVVWRFl4SWRITlE3cFhGSk8tTExJaEVuU1J2bnlWU1pNNFFnYWlxRXU3LWRDeGxOempzVHMyeWJldGgwUTNIYnA2WlpWU1R6Z2cydUg1c1E?oc=5)
 
-2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+2026-07-31 <span class="news-indication-tag">heart disease</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkVNbE91dy1rMzZzYS1HSmNERjRwUW52MFBNYWJjZ090ZHc1elp0bnAyaHVRczVDZjdXcUw0RllRVjBDdUVFNWZuSmw2aFNib0NLVVVWRFl4SWRITlE3cFhGSk8tTExJaEVuU1J2bnlWU1pNNFFnYWlxRXU3LWRDeGxOempzVHMyeWJldGgwUTNIYnA2WlpWU1R6Z2cydUg1c1E?oc=5)
 
 ---
 

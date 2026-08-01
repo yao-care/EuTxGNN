@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（19 則）
 
-### [Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’ - The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
+### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
 
-2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMifEFVX3lxTE9LdnplMDZRZWlXYlVKdFg5b1VSWHZWSWsxTjJoa1ZiUlZSQXdpYjA3MW5EdFNPRHA2a1VjNVJvVzFTel9OR2ZxTmVVRXNpVXdhNHhJbG4xM19SbWZqSFFqYzNYZ2tVQWllWUpIQWYzbW90NTB2c2tPWnd5ZWg?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+
+---
+
+### [Current Ebola outbreak worst ever in DR Congo, WHO says](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aE9tOFZVSjlNR1hmUFhMakJEbDFQc0psVV9jRy12MFBzNFhQamxVYmZhZkNvTFlwUnI2Q0wwcEVNaTFtOEJuS0lQZ1h4djFVT3BvVTlvTVFNeTJO?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aE9tOFZVSjlNR1hmUFhMakJEbDFQc0psVV9jRy12MFBzNFhQamxVYmZhZkNvTFlwUnI2Q0wwcEVNaTFtOEJuS0lQZ1h4djFVT3BvVTlvTVFNeTJO?oc=5)
+
+---
+
+### [L'épidémie d'Ebola en République démocratique du Congo s'intensifie à un rythme "exceptionnel", avertit l'OMS](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1p6dHNqXzN4TXdLeTY1MkhmM2JjaEFOdmJMb1lyMG1ua01iLXhCdmtVTUw4V1R0azNLN1R6Qk9VelkydGJoUTdhc2dxbFlrN3drV3RVTHo2YUo5WVJ1dGF1YUVEMWQyVEdxRFdIZHJyVmo5VTV2SjlTS3FhMEVkc3dRZjNGc2ZrbjFMa2FTUlo2UFM3RTA1aUtOSWZiRE53bXJXQU9ZMUpZVG5rSHhaZXJJaHZpeDBCMEtpT1RlRGI1ckduNWdmamZxY2NRU3pPX2tJTmEyNDJKR1dOaXdNbFVoaDNwLWc2R0JXNXJ4Q1o2eXJ3Mk9F?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1p6dHNqXzN4TXdLeTY1MkhmM2JjaEFOdmJMb1lyMG1ua01iLXhCdmtVTUw4V1R0azNLN1R6Qk9VelkydGJoUTdhc2dxbFlrN3drV3RVTHo2YUo5WVJ1dGF1YUVEMWQyVEdxRFdIZHJyVmo5VTV2SjlTS3FhMEVkc3dRZjNGc2ZrbjFMa2FTUlo2UFM3RTA1aUtOSWZiRE53bXJXQU9ZMUpZVG5rSHhaZXJJaHZpeDBCMEtpT1RlRGI1ckduNWdmamZxY2NRU3pPX2tJTmEyNDJKR1dOaXdNbFVoaDNwLWc2R0JXNXJ4Q1o2eXJ3Mk9F?oc=5)
+
+---
+
+### [Darmbakterium gegen MS: Neue Studie zeigt Entzündungs-Bremse - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
 
 ---
 
@@ -70,27 +94,27 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Multiple Sklerose: Akkermansia massiliensis schützt vor Autoimmunreaktionen - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOd21FRkRUa2g4MVdhLWkwT0ZUVzQtWkxqTFJxX25SZnVKS0FiWUhjaXJJZWEtTXltTGwzc0VDcUQyUkJsbWdjNjJiTVBXS0lwYkdGcmc4cjdadkVwZWZsTXd6YTQxdjhGb2lVT01vbktvSm5hZlRCR1lTbEp1TXVBV0tDbWcwRmlFSlF5UzQyeXgtM0xsUFJoUkhLVDJibnFTMC1CNnVJcw?oc=5)
+### [Apnée du sommeil : quelles sont ses conséquences pour votre santé ? Une spécialiste nous explique](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVFQNW9Sa0Z6Yk5icEtmMS1TTEVpSzhDc0U4UFc3MVpua1VCaEx0UzZRcFI1U1NMclYxeTFhako4RUgwc3BPQ29nMGRLVXpIbWYwT01BM2F2RENFRzdQdEhfdjBnaWpJNm9IMWt1RkllSXJhMWNkbFNSY3B0RkRtdk9Rd0hvSUhHUjA2OGk3cDNGYkxlRWRJZktPMVNuWGNCU2ZGNGdzaWd0ZFVxWFZaa2ZJUHZIMkNtWEZJNVl4TGxFUWlIdkh5Mg?oc=5)
 
 2026-08-01 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOd21FRkRUa2g4MVdhLWkwT0ZUVzQtWkxqTFJxX25SZnVKS0FiWUhjaXJJZWEtTXltTGwzc0VDcUQyUkJsbWdjNjJiTVBXS0lwYkdGcmc4cjdadkVwZWZsTXd6YTQxdjhGb2lVT01vbktvSm5hZlRCR1lTbEp1TXVBV0tDbWcwRmlFSlF5UzQyeXgtM0xsUFJoUkhLVDJibnFTMC1CNnVJcw?oc=5)
+來源：[L'Union](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVFQNW9Sa0Z6Yk5icEtmMS1TTEVpSzhDc0U4UFc3MVpua1VCaEx0UzZRcFI1U1NMclYxeTFhako4RUgwc3BPQ29nMGRLVXpIbWYwT01BM2F2RENFRzdQdEhfdjBnaWpJNm9IMWt1RkllSXJhMWNkbFNSY3B0RkRtdk9Rd0hvSUhHUjA2OGk3cDNGYkxlRWRJZktPMVNuWGNCU2ZGNGdzaWd0ZFVxWFZaa2ZJUHZIMkNtWEZJNVl4TGxFUWlIdkh5Mg?oc=5)
 
 ---
 
-### [Wearables erkennen CED-Schübe bis zu 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
-
-2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
-
----
-
-### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hepatitis</span>
 
-來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+來源：[wndn.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+
+---
+
+### [Ebola, il virus corre più veloce della risposta: perché il secondo focolaio più grande al mondo sta inquietando il pianeta](https://news.google.com/rss/articles/CBMilAJBVV95cUxQbnBGWFBWOFRraGxvRGhOc0k0Zm4wOHhMQ3d5SU43eDZxcVg5ZjhESHhzX0dQTWhZQk5ZRE8zZjMya0FoSzdzeG1QNXRCNGFLcTNNcFpGVnhJS2hycDg0OW00S1VBR1FKc1dUTmNvR1owWU03TUtZQ2hKMDRFbXQ2ZU5ibVRPdC1IR19sb0JMaUdSMHNZVTlpaVE2LU50R1pBQ25RY3M3eXp6ckFuYmNWTGZCSTJFclJJQVJpM0V0S1VEQnhXZFlxUDdJUzE1OE8yX2x0SnBpVEVtRTFiN2dYZEFrLS10WnhmdUhGeGNGWEg4SGRnMUpYQl9vbWVnUUZoOFJiYWlxZXhNSnBYUnpiTnM0RXQ?oc=5)
+
+2026-07-31 <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMilAJBVV95cUxQbnBGWFBWOFRraGxvRGhOc0k0Zm4wOHhMQ3d5SU43eDZxcVg5ZjhESHhzX0dQTWhZQk5ZRE8zZjMya0FoSzdzeG1QNXRCNGFLcTNNcFpGVnhJS2hycDg0OW00S1VBR1FKc1dUTmNvR1owWU03TUtZQ2hKMDRFbXQ2ZU5ibVRPdC1IR19sb0JMaUdSMHNZVTlpaVE2LU50R1pBQ25RY3M3eXp6ckFuYmNWTGZCSTJFclJJQVJpM0V0S1VEQnhXZFlxUDdJUzE1OE8yX2x0SnBpVEVtRTFiN2dYZEFrLS10WnhmdUhGeGNGWEg4SGRnMUpYQl9vbWVnUUZoOFJiYWlxZXhNSnBYUnpiTnM0RXQ?oc=5)
 
 ---
 
@@ -99,14 +123,6 @@ permalink: /news/sofosbuvir/
 2026-07-31 <span class="news-indication-tag">MS</span>
 
 來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlB6TGpZQmNaOFQ2emlCazZKQzU1V1hZQjBEZkFEMkV1d3RJQk1meV9tU0lwb1h4RHQwNGJOdElNblpJM3pGb3EyXzNIUmJEZFRrb2tmZjdWMzdzaDA2WFZYV1VlWE9lNi1FTkxmWEM3c054dEZPNVFTRE0tVEIwamdMbjZZV3NTcnVmeE1mbm1YTFFoZ1lDOHVUVjJVa0IzLWptb0g2OFpSVk1udG9va3dsZU5MQS14cGdzNklqQkY?oc=5)
-
----
-
-### [DR Congo Ebola epidemic becomes world’s second largest outbreak - Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">MS</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [A bitter pill: are you wasting your money on supplements?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQndGbk9jV0VQM1RHRDN4OThVaDY0Zm5VZjFyYXpYZWk4aTBjdWpZT2h3SzNRVmVxTGtTanJBdXZQMU1BOUNuVnBIT0JXelBRM09hNjNVVjl1OGRkMllrVUxlRmwtcWtmZHJFNUZoeDhZMHdZbFlQTWkybWxzNVlQRkFDWjdZTHgybVpGaEJJSnVGTWlPbXFnZXdkeFZ6TUVFbW5lenBsZmg2cXRTcTFzczh3?oc=5)
+
+2026-07-31 <span class="news-indication-tag">MS</span>
+
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQndGbk9jV0VQM1RHRDN4OThVaDY0Zm5VZjFyYXpYZWk4aTBjdWpZT2h3SzNRVmVxTGtTanJBdXZQMU1BOUNuVnBIT0JXelBRM09hNjNVVjl1OGRkMllrVUxlRmwtcWtmZHJFNUZoeDhZMHdZbFlQTWkybWxzNVlQRkFDWjdZTHgybVpGaEJJSnVGTWlPbXFnZXdkeFZ6TUVFbW5lenBsZmg2cXRTcTFzczh3?oc=5)
+
+---
+
 ### [In 1973, eight perfectly sane people had themselves committed to psychiatric hospitals to see if the doctors could tell, and what happened next humiliated an entire profession and changed psychiatry forever. - Space Daily](https://news.google.com/rss/articles/CBMixwJBVV95cUxQMmhpalpkYTV3Zm5yYThRa3BObm1PVFU5LTRkN0ZBVXJjNVQyNDV5WVR5Uzk3cW1kRS1Sa0NOZmliZjRGSDRIRUluZWFWLVJaazFDOHlsamI3R2tDRjN1UTBYbmJudFRxczVrTDJWLUZHY2tYcGEtQTNQUTNBdGIxcTEyRng3dG1ZRE5XLU1nZng5aUhKekFkLVVFZTJ4bkpJbzE5eDM2RnE0V3RsN25SajFQY1Bad3hURklISmpHanZ4dTU0SHFCcmVWbEFxSHhjS0ZQT0EtQ0NfOGFsUTBuVUxONldzblhndnJiYk1HMlFJRWRqRGRJUmowR0M1aHI3TjFFU1lVXzlGdTlIN2VmYWx4MjlaSFVoM0diQkxSM3htcTV6dkk2aFVTeUpBdGdBQjU3NE5rOGFfZDBqdDBqeTJIODVIYUE?oc=5)
 
 2026-07-31 <span class="news-indication-tag">MS</span>
@@ -142,6 +166,14 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Natural language processing of youth speech predicts psychopathology across adolescence](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjMklETm1sTzgzUVhLZG50U3VTOUFNaDh6aVNDbHdubWNZSy1wS0FSdm5LZHRwU3dIVmJpZWl5a3lUdFhiOUFSVm9hZWoxc3o0LXl5R3VsSXhIWW9xa3Nj?oc=5)
+
+2026-07-31 <span class="news-indication-tag">MS</span>
+
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjMklETm1sTzgzUVhLZG50U3VTOUFNaDh6aVNDbHdubWNZSy1wS0FSdm5LZHRwU3dIVmJpZWl5a3lUdFhiOUFSVm9hZWoxc3o0LXl5R3VsSXhIWW9xa3Nj?oc=5)
+
+---
+
 ### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
@@ -150,19 +182,11 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Europe's youth is getting weaker, study finds](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWZHbVFzOEU5WktZYUlOcnNNQWpKOXlfX181Y3lfSlhtZmV2Q01ybzJ0cUt0LVhua2VDVDZJS3k5SE4wZ1NlZldkY1Vja2dCcWg2U3BGeUpqdHVOSGhQWV9IZjNkcFdOb2d0d1RLQi1CeWF6Q3RxZTd5RzVlSXlpOFd4Wng5LTNrNG1BMVlJNHJVeFdJemZ5WG54TXFaZXpVN0h1aEFR?oc=5)
+### [How smallpox reached the Americas: first genomic evidence points to Europeans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RlhhRi1RTUw0bDlyZ3lsbDBON09JbEJVcHZBTGVvWXV6akdvUkE3WUUyM0JZRThGcWNobEhYS0tKWEkwdlRKOUxtQVU0MkdrdzdNaWM3emRPUFVXQ29V?oc=5)
 
 2026-07-31 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWZHbVFzOEU5WktZYUlOcnNNQWpKOXlfX181Y3lfSlhtZmV2Q01ybzJ0cUt0LVhua2VDVDZJS3k5SE4wZ1NlZldkY1Vja2dCcWg2U3BGeUpqdHVOSGhQWV9IZjNkcFdOb2d0d1RLQi1CeWF6Q3RxZTd5RzVlSXlpOFd4Wng5LTNrNG1BMVlJNHJVeFdJemZ5WG54TXFaZXpVN0h1aEFR?oc=5)
-
----
-
-### [What Doctors Want You to Know About the Differences Between Dementia and Alzheimer’s](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbC01OUNoM1pNeFlqTFRVYzRtb3lTUnlkcF9kSm13LWx5T1JVczJKTUFmdV9OMHpjdXRyc3B2M04wbzAteHo5Uk0zWlhiSk1VM3NzUXFWMWwtUm1RUGhHTjkzbnpQZ0JDR1BmZDZqelNNM2tYOXhLOGF4XzktdzJTUXlOYm8tR3lqdV9FRTlmQjRMVktFRVIxSktYMA?oc=5)
-
-2026-07-31 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-來源：[Prevention](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbC01OUNoM1pNeFlqTFRVYzRtb3lTUnlkcF9kSm13LWx5T1JVczJKTUFmdV9OMHpjdXRyc3B2M04wbzAteHo5Uk0zWlhiSk1VM3NzUXFWMWwtUm1RUGhHTjkzbnpQZ0JDR1BmZDZqelNNM2tYOXhLOGF4XzktdzJTUXlOYm8tR3lqdV9FRTlmQjRMVktFRVIxSktYMA?oc=5)
+來源：[nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RlhhRi1RTUw0bDlyZ3lsbDBON09JbEJVcHZBTGVvWXV6akdvUkE3WUUyM0JZRThGcWNobEhYS0tKWEkwdlRKOUxtQVU0MkdrdzdNaWM3emRPUFVXQ29V?oc=5)
 
 ---
 
@@ -170,47 +194,15 @@ permalink: /news/sofosbuvir/
 
 2026-07-30 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlQZ05WMUVORWNJYkduM0ZueEwxU28zb2xFQmUwb1BYWmtQdnBTNHRrdTRJSGVzVjVLbE5nQnEyaUJKakxQWExBbHBEOGtzeldieV9kNk81TzBvN0VsZ0IwbExocDlMWG5JVmtqUU1RcWx4LXlYM1haeTg2WjR5VkRFeFpsVEd6aWxLSHNMRlJwUDlQeThTVndkaW5EZw?oc=5)
+來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPeHlQZ05WMUVORWNJYkduM0ZueEwxU28zb2xFQmUwb1BYWmtQdnBTNHRrdTRJSGVzVjVLbE5nQnEyaUJKakxQWExBbHBEOGtzeldieV9kNk81TzBvN0VsZ0IwbExocDlMWG5JVmtqUU1RcWx4LXlYM1haeTg2WjR5VkRFeFpsVEd6aWxLSHNMRlJwUDlQeThTVndkaW5EZw?oc=5)
 
 ---
 
-### [Vitamin K2: Neue Studien belegen 29% weniger Gefäßverkalkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
+### [Arterienverkalkung: Vitamin K2 bremst Fortschreiten um 29 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb09ucHpiS2ZsRlktSHBLTTJwZkRuVTRzRHg1YmdFVGFvLXNzWVJGY3NvQnZvUVRwMzZ6QnRMVC1IU2ZlNE0yeXFHUHlrRmtHbGxidXZnV0wwQ2NSZktsT25xb0tYTE1Gc1ZsdXJLODBtZmEyREdQd1RSQ2JjTTBvTXNRd0Jab0dFN2JMNFRLeVN1dWJKVUZVbkxqLXE1dzcwYWllUmRmb3o4UVl1X3pfWllNWQ?oc=5)
 
 2026-07-30 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHZTMTlVNy1LTlRIbTl5ZkVpaDdmLWxHNkI4dXZzdUZTdUJ0OU51RWlSei1Mb0FOMzgtcWNjNjIteEZ6OHF4WHFqLUI1YlY5UmxnS2hjUnUwRVFCOFNlbFVCVXg3OFBGMzZXSmNraTh5VVlCQ3ptWHNMekRNQWlKQlpRVGFTcW9BZnNXZVlCS0lIcUhXNEp4dG9SLTFmdEVYb3VPVmFfOGpZWEt3b2ZOY2g4M1hNZWNY?oc=5)
-
----
-
-### [Pharmacist warns these symptoms at Kendal Calling may be dust not just booze - NW Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1AyeEFNWVNWUnR0Mkl1ZmFFakFCdlFIb1ZHSkw0MnNMSVVXQnlXZExFWHAzQ21wanh5a0I5RkZUS0JFN2c4T2oxeHVWbzZJMnlneEd6emxyNWFxOS1EZkp6ancxR2J3MThBeUtGaWhUek10RUFIZjdLcFZ2Um92WkZ3SXRydkpraU82RUhTWlNYZk8zcjdJ?oc=5)
-
-2026-07-30 <span class="news-indication-tag">MS</span>
-
-來源：[NW Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1AyeEFNWVNWUnR0Mkl1ZmFFakFCdlFIb1ZHSkw0MnNMSVVXQnlXZExFWHAzQ21wanh5a0I5RkZUS0JFN2c4T2oxeHVWbzZJMnlneEd6emxyNWFxOS1EZkp6ancxR2J3MThBeUtGaWhUek10RUFIZjdLcFZ2Um92WkZ3SXRydkpraU82RUhTWlNYZk8zcjdJ?oc=5)
-
----
-
-### [Una nueva vacuna contra el ébola "más prometedora", desarrollada en Singapur](https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0ZGekk1RDZoUW9zbXppMGV2RzlxejhJWTZNRmF0ckFxenVoQi1PbkVvdjdQWklyTEJLSkhpMTluZ0xSMi1zMUI5a2Q3elpCOHNKal9OanBLWjZ0M2NwNlBhUG1naDJnUFVPZVVMTGlKOWlHUk1pMmlseThJYndBQnFWUXZ0REZ5TkpMV1FMU2p5RW9TX1A1R3NNNnlxTTNmMVlZZDdLWW5Rb1dhcXZ3YnpmZUQ4YnZVS3hBaA?oc=5)
-
-2026-07-30 <span class="news-indication-tag">MS</span>
-
-來源：[RFI](https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0ZGekk1RDZoUW9zbXppMGV2RzlxejhJWTZNRmF0ckFxenVoQi1PbkVvdjdQWklyTEJLSkhpMTluZ0xSMi1zMUI5a2Q3elpCOHNKal9OanBLWjZ0M2NwNlBhUG1naDJnUFVPZVVMTGlKOWlHUk1pMmlseThJYndBQnFWUXZ0REZ5TkpMV1FMU2p5RW9TX1A1R3NNNnlxTTNmMVlZZDdLWW5Rb1dhcXZ3YnpmZUQ4YnZVS3hBaA?oc=5)
-
----
-
-### [Sclerosi multipla e caldo, perché i sintomi possono peggiorare senza indicare una ricaduta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmh2aVRYa0RMdGxJSV9seDhMMXJHeU14SXZNYkluU0d3a3A4ZUZRbWlUOVptdUdEMTIxRktsVEFtZVIyRFZBQ3JIWDkxZE1QY0VHam80MWdzcWVnYlFmcmRsSmUyZVptQUJXTUduTlU2UWZFWWdlOGZta0VRTnNIU1pnd1BIMl9uTkJZT1poRG9USXVLRkpGT09BaF91cVZfU0NQak9DS3R5QjBLbnhzZ3BxQTBROTNwb1l1dzZXLWYxMmRPb05zb0xCTEpMSXdhdjlnN3BSQQ?oc=5)
-
-2026-07-30 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmh2aVRYa0RMdGxJSV9seDhMMXJHeU14SXZNYkluU0d3a3A4ZUZRbWlUOVptdUdEMTIxRktsVEFtZVIyRFZBQ3JIWDkxZE1QY0VHam80MWdzcWVnYlFmcmRsSmUyZVptQUJXTUduTlU2UWZFWWdlOGZta0VRTnNIU1pnd1BIMl9uTkJZT1poRG9USXVLRkpGT09BaF91cVZfU0NQak9DS3R5QjBLbnhzZ3BxQTBROTNwb1l1dzZXLWYxMmRPb05zb0xCTEpMSXdhdjlnN3BSQQ?oc=5)
-
----
-
-### [1 de cada 3 mayores de 70 sufre una caída al año, según la OMS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnlyT1JEZDNfR05RcW03SEtRS0tzSEZ1TmVpM0xyZk1hdm5yaHo0THhVM0IwZjVUMkE4dUZDcG8xR01hWmprLW1MSklxMEg4UFFiREJyUmpxeURIS0RuUmJNRWMtS096T0JISlBRYml6UnZfNGc3emxiYlNhZWhoeHBiVXR3dDJfYXhDOTYtZW9fRXRMb2pzUkJwT09qZDF1OVBuNUEwME51dU5paW5N0gG0AUFVX3lxTE4yX0NudHVoQmxUWUZVQ2tKMHhxRHFUMElabVQ2MGI2ZVE0M1dYc0NIMWR0TE02MkxHN1UxUUE3ZE5HSmZsVVpkWnZ6czZsOEZnelowSGxOUTBvVlZXblg4cHlTQlRCQ19qZWN0aXo1RjJMZ1lGMXBDLTl2aThIeFVjN2JPSnhEZkllVk8zbnVYZHNlLU1XVm5WT1ZQUEd0NjdXeF9vdE5YOVUtNFVvV0tVdjBJWg?oc=5)
-
-2026-07-30 <span class="news-indication-tag">MS</span>
-
-來源：[Perfil](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnlyT1JEZDNfR05RcW03SEtRS0tzSEZ1TmVpM0xyZk1hdm5yaHo0THhVM0IwZjVUMkE4dUZDcG8xR01hWmprLW1MSklxMEg4UFFiREJyUmpxeURIS0RuUmJNRWMtS096T0JISlBRYml6UnZfNGc3emxiYlNhZWhoeHBiVXR3dDJfYXhDOTYtZW9fRXRMb2pzUkJwT09qZDF1OVBuNUEwME51dU5paW5N0gG0AUFVX3lxTE4yX0NudHVoQmxUWUZVQ2tKMHhxRHFUMElabVQ2MGI2ZVE0M1dYc0NIMWR0TE02MkxHN1UxUUE3ZE5HSmZsVVpkWnZ6czZsOEZnelowSGxOUTBvVlZXblg4cHlTQlRCQ19qZWN0aXo1RjJMZ1lGMXBDLTl2aThIeFVjN2JPSnhEZkllVk8zbnVYZHNlLU1XVm5WT1ZQUEd0NjdXeF9vdE5YOVUtNFVvV0tVdjBJWg?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNb09ucHpiS2ZsRlktSHBLTTJwZkRuVTRzRHg1YmdFVGFvLXNzWVJGY3NvQnZvUVRwMzZ6QnRMVC1IU2ZlNE0yeXFHUHlrRmtHbGxidXZnV0wwQ2NSZktsT25xb0tYTE1Gc1ZsdXJLODBtZmEyREdQd1RSQ2JjTTBvTXNRd0Jab0dFN2JMNFRLeVN1dWJKVUZVbkxqLXE1dzcwYWllUmRmb3o4UVl1X3pfWllNWQ?oc=5)
 
 ---
 

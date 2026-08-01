@@ -75,11 +75,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [What Doctors Want You to Know About the Differences Between Dementia and Alzheimer’s](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbC01OUNoM1pNeFlqTFRVYzRtb3lTUnlkcF9kSm13LWx5T1JVczJKTUFmdV9OMHpjdXRyc3B2M04wbzAteHo5Uk0zWlhiSk1VM3NzUXFWMWwtUm1RUGhHTjkzbnpQZ0JDR1BmZDZqelNNM2tYOXhLOGF4XzktdzJTUXlOYm8tR3lqdV9FRTlmQjRMVktFRVIxSktYMA?oc=5)
+### [Un mecanismo molecular que regula la señalización neuronal podría guiar los tratamientos para la epilepsia, el dolor y la enfermedad de Alzheimer - Adamed TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3dTcVJYSjk0amFFUG4xTC1MMTRVZGJFYm91ZnU4dDhXV1BGSWQzVWtMSmJCZE02aGIwZ2lLM1RqQWxGTTQzUnFCcFU2MVZMR2VEM2ZPbmlvdm9YbmNwajg3UHlYMnR3VE94RjFIcDR2eUJqZUZVeFp3S2g5TlZWdDdCZmp1bk16dVNtWjMtN2JnVEdnQUJraFhzV2xiS3hsTk5JRlFWSzN1MEFkaWdqaWVlb3J6ME1YcnpOY09SVmVKMjBSYldaZWpIQ1pHZVJMMW9MVUc2RUw4czlidXRMV00zTXRoZTlralpwQU1mM05zQnc3d2NVb1FFNHVuMjJZMXQtMUNCdTI4ZjQ?oc=5)
 
-2026-07-31 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+2026-07-31 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">epilepsia</span>
 
-來源：[Prevention](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbC01OUNoM1pNeFlqTFRVYzRtb3lTUnlkcF9kSm13LWx5T1JVczJKTUFmdV9OMHpjdXRyc3B2M04wbzAteHo5Uk0zWlhiSk1VM3NzUXFWMWwtUm1RUGhHTjkzbnpQZ0JDR1BmZDZqelNNM2tYOXhLOGF4XzktdzJTUXlOYm8tR3lqdV9FRTlmQjRMVktFRVIxSktYMA?oc=5)
+來源：[Adamed TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3dTcVJYSjk0amFFUG4xTC1MMTRVZGJFYm91ZnU4dDhXV1BGSWQzVWtMSmJCZE02aGIwZ2lLM1RqQWxGTTQzUnFCcFU2MVZMR2VEM2ZPbmlvdm9YbmNwajg3UHlYMnR3VE94RjFIcDR2eUJqZUZVeFp3S2g5TlZWdDdCZmp1bk16dVNtWjMtN2JnVEdnQUJraFhzV2xiS3hsTk5JRlFWSzN1MEFkaWdqaWVlb3J6ME1YcnpOY09SVmVKMjBSYldaZWpIQ1pHZVJMMW9MVUc2RUw4czlidXRMV00zTXRoZTlralpwQU1mM05zQnc3d2NVb1FFNHVuMjJZMXQtMUNCdTI4ZjQ?oc=5)
 
 ---
 

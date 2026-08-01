@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="Methylthioninium Chloride 有什麼相關新聞？">
-<strong>Methylthioninium Chloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Methylthioninium Chloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/methylthioninium-chloride/
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
 
 2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
----
-
-### [BPCO, un sospiro di sollievo con le nuove cure: meno riacutizzazioni, più qualità di vita](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
-
-2026-07-31 <span class="news-indication-tag">BPCO</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [¿Puede un mal uso de los teléfonos inteligentes fomentar la depresión?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDVtMU0tQmpIWVROeXVfXy1neHVraGlQQmpVWl9BaGdwYmVQT0JpR1pHTmxIbVhTT1REZTlrclJodGl1NklNNzR0c1Vaa21TWlZsdlB6ZzRaY0ZrRDJzSmFILVpwMnhIRmdMa25nMFNnWU52bGlnM2pYdnlDTkxtUU5RSDBRalJJUV9EYW1jc1pESUlETklaa290bHpXSlV1SVdjcnRMUV8tLXc?oc=5)
+
+2026-08-01
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDVtMU0tQmpIWVROeXVfXy1neHVraGlQQmpVWl9BaGdwYmVQT0JpR1pHTmxIbVhTT1REZTlrclJodGl1NklNNzR0c1Vaa21TWlZsdlB6ZzRaY0ZrRDJzSmFILVpwMnhIRmdMa25nMFNnWU52bGlnM2pYdnlDTkxtUU5RSDBRalJJUV9EYW1jc1pESUlETklaa290bHpXSlV1SVdjcnRMUV8tLXc?oc=5)
+
+---
 
 ### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVlhNkI1NlhLbHFReUEwNi1DZWM4R2w2MTZsNEdKNnlIWk9YN3pITkFPS0J5MWFLajVSejZjMldaOW1vT3REa2ptTGJLOVZjTGhqZ3BCQnh1X0ZIVzlqZ1MteTBOMXppbW9YSUpNMkFxMWFaUm1HNzdNWnpqR2JMRjlaMWxzUHNfY3RPY0tBYWxUV1NVUlNCT1N1aE9HQlQwMVQydkpoMl9XUnp2eDY2X3ZNY01ycWMzQnA2TlRab2FPWmNlemhJVEZ5SU5qOFJqOWxNUmdoLUEzcGJYOGNmU2x5VDBsNXkzUG95YnNfTDI?oc=5)
 

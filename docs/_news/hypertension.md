@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,6 +85,14 @@ permalink: /news/hypertension/
 
 ## 相關新聞（4 則）
 
+### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39% - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
+
+2026-08-01
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
+
+---
+
 ### [Hypertension artérielle : les défis du dépistage et de la continuité des soins - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
 
 2026-08-01
@@ -93,27 +101,19 @@ permalink: /news/hypertension/
 
 ---
 
-### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
 
 2026-07-31
 
-來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+來源：[imfarmacias.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
 
 ---
 
-### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
+### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
 
 2026-07-31
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
-
----
-
-### [Bluthochdruck: Kombinationstherapien senken Abbruchrisiko um 39%, zugleich drohen Lieferengpässe - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
-
-2026-07-30
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
 
 ---
 

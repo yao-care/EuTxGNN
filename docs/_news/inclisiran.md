@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="Inclisiran 有什麼相關新聞？">
-<strong>Inclisiran</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inclisiran</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/inclisiran/
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Migräne bleibt bei Männern oft unerkannt – was ihnen hilft](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+
+2026-08-01 <span class="news-indication-tag">Migräne</span>
+
+來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+
+---
+
+### [Calor y migraña: estos son los factores que agravan el dolor y así puedes reducir su impacto - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
+
+2026-08-01 <span class="news-indication-tag">migraña</span>
+
+來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
+
+---
 
 
 <div class="disclaimer">

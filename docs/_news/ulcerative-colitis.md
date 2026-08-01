@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "colite ulcerosa（ulcerative colitis） 相關新聞"
+title: "colitis ulcerosa（ulcerative colitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "colite ulcerosa（ulcerative colitis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "colitis ulcerosa（ulcerative colitis） 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/ulcerative-colitis/
 ---
 
-# colite ulcerosa（ulcerative colitis） 相關新聞
+# colitis ulcerosa（ulcerative colitis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="colite ulcerosa（ulcerative colitis） 有什麼相關新聞？">
-<strong>colite ulcerosa（ulcerative colitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<p class="key-answer" data-question="colitis ulcerosa（ulcerative colitis） 有什麼相關新聞？">
+<strong>colitis ulcerosa（ulcerative colitis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「colite ulcerosa」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「colitis ulcerosa」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -34,11 +34,11 @@ permalink: /news/ulcerative-colitis/
 
 ## 相關新聞（1 則）
 
-### [Crohn e Colite ulcerosa: segnali immunitari fino a 10 anni prima della diagnosi](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
+### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
 
-2026-07-30
+2026-08-01
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
 
 ---
 

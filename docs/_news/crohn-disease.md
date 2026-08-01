@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Wearables erkennen CED-Schübe bis zu 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
+### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
 
 2026-08-01
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
 
 ---
 

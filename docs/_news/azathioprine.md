@@ -54,19 +54,19 @@ permalink: /news/azathioprine/
 
 ## 相關新聞（2 則）
 
+### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
----
-
-### [Crohn e Colite ulcerosa: segnali immunitari fino a 10 anni prima della diagnosi](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
-
-2026-07-30 <span class="news-indication-tag">colite ulcerosa</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1RiNWU3R1VJVjIzR3NueTc5ZlNhLXVnV2F1MmJPTGxFTl9Pc1hQQjhydG9wNm1xQ3pFY09IU2EzS1lTWTFlVnVOUmdHV29sYzR4eTFpVTVSSFVuNllIZ2RuWGJRRnUxLS1feGRibl9MZC1nZEIxX0JMSWxULVZWbjVwSlRDZ2pvRjNVeHhrbmY4V01fbE9fVDBYQUJFR213RURkYlNHQzl5MkxMbVd2bWdURjlWbW9LMzNTLTdQWlI5LVAxX2ltag?oc=5)
 
 ---
 

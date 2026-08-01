@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/idarucizumab/
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
----
-
-### [BPCO, un sospiro di sollievo con le nuove cure: meno riacutizzazioni, più qualità di vita](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
-
-2026-07-31 <span class="news-indication-tag">BPCO</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
 
 ---
 

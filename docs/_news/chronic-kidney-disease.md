@@ -31,11 +31,11 @@ permalink: /news/chronic-kidney-disease/
 
 ## 相關新聞（1 則）
 
-### [Bluthochdruck: Kombinationstherapien senken Abbruchrisiko um 39%, zugleich drohen Lieferengpässe - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
+### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39% - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
 
-2026-07-30
+2026-08-01
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,13 +52,13 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（9 則）
 
-### [Typ-2-Diabetes: Ballaststoffe senken Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXVZSnFORXNsTlJ4U2dZRmUzODRwX21nM1J4eFlaeVc5NGpuM28xanpZQXRFZ3I5OFhVazFCOFkwZFVrSjNrTkxDWmVRaHFBVXB6RzI5bjlROUNJWHdKQ2hjd0xubGt3emI1WFZvbExLRVRyclNSdk4ySTFaT3NiaDdkcWoxVllld3FCZUJQc3lXV0pCak5PeTF2clNOY294R0VzUnNhdGE?oc=5)
+### [Diabetes-Prävention: Ballaststoffe senken Erkrankungsrisiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1BLMGlwUGR2dzh1Z01pV19fdXo4bW9pSkpORjlpZGlINWZMY3N6czVkOE5SX3FhaFRwOEtrSWp5MDRjR3ZpdjFkSmdWT3hQV1ZEellSTnZPdm0tQ2dmU1ZDdmROMFAwR1FXVDBqa2hkYkNCSDZtb0hRazN3NHk0UEVrYmU2YUlUU0p1WmpiQUxwUFZDMjIyeXlOWTVBQ1MwTmVuenBjdW5MNUc0LTFSUG1aUTRfTXh3eVdhZURiMA?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXVZSnFORXNsTlJ4U2dZRmUzODRwX21nM1J4eFlaeVc5NGpuM28xanpZQXRFZ3I5OFhVazFCOFkwZFVrSjNrTkxDWmVRaHFBVXB6RzI5bjlROUNJWHdKQ2hjd0xubGt3emI1WFZvbExLRVRyclNSdk4ySTFaT3NiaDdkcWoxVllld3FCZUJQc3lXV0pCak5PeTF2clNOY294R0VzUnNhdGE?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1BLMGlwUGR2dzh1Z01pV19fdXo4bW9pSkpORjlpZGlINWZMY3N6czVkOE5SX3FhaFRwOEtrSWp5MDRjR3ZpdjFkSmdWT3hQV1ZEellSTnZPdm0tQ2dmU1ZDdmROMFAwR1FXVDBqa2hkYkNCSDZtb0hRazN3NHk0UEVrYmU2YUlUU0p1WmpiQUxwUFZDMjIyeXlOWTVBQ1MwTmVuenBjdW5MNUc0LTFSUG1aUTRfTXh3eVdhZURiMA?oc=5)
 
 ---
 
@@ -94,19 +94,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [La disfunzione erettile può nascondere altri problemi di salute: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
+### [La disfunzione erettile può nascondere altri problemi di salute: ecco quali](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">diabete</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
+來源：[gazzetta.it](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
 
 ---
 
-### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
+### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
 
 2026-07-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
-來源：[elmedicointeractivo.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
 
 ---
 
@@ -123,30 +123,6 @@ permalink: /news/somapacitan/
 2026-07-31 <span class="news-indication-tag">diabete</span>
 
 來源：[BergamoNews](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
-
----
-
-### [Grazie a una goccia Giulia ha scoperto di avere la Sma prima ancora che si presentasse - La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
-
----
-
-### [Nueva y prometedora diana terapéutica, en forma de microproteína, para la diabetes y la obesidad - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
-
----
-
-### [Asocian la diabetes tipo 1 en los jóvenes con el deterioro progresivo de la salud ósea](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
 
 ---
 
