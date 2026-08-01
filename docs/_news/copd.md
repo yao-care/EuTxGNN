@@ -3,7 +3,7 @@ layout: default
 title: "BPCO（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "BPCO（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "BPCO（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="BPCO（copd） 有什麼相關新聞？">
-<strong>BPCO（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<strong>BPCO（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [BPCO, un sospiro di sollievo con le nuove cure: meno riacutizzazioni, più qualità di vita](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
 
 2026-07-31
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclVKN213aGJWcVdBbk9NY2lCUnpOMVI5T2lnVzBkbTF5YVVYX0lLUjhXMHZvbjlVOGE1ZG5UX2dKcFJMM3picE9HTk41cXhHcXdtLUhUb000QUI5Qk9JalJJcHhQNW01VjRXbzYwYTZHZUZiRWYzNE1INGxla0xiT2FKTDRuWEV1eGtVVHY2MG51eVpTbVFtWktfUUdVQW41VE1YQXZNQXZYaGFCTzB6cGRNRkRrWWIxY19BaVoxaVJJcDZpeENvbE10VWFuYTlfUTdV?oc=5)
-
----
-
-### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
-
-2026-07-30
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 ---
 

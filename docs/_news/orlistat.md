@@ -54,11 +54,27 @@ permalink: /news/orlistat/
 
 ## 相關新聞（6 則）
 
+### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
+
+2026-08-01 <span class="news-indication-tag">AVC</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
+
+---
+
 ### [El mercado contra la obesidad sigue ganando peso al ritmo imparable de los GLP-1 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
+
+---
+
+### [Un consenso europeo pone límites al uso aislado de los fármacos antiobesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOERMMk1GRlUwWFNXdDF6dFFMd3V6MzBwVTg4NkdpMnNOaG9mQjBESnljbjJWU0UtWVM4MnV2ZnE3cUhHa3hmS1A0emR6Y1dQWGhWUTVrV2UxNWlkN3FkNlZ5WUY0aDN6bWdXZi1NWTRvYlJxYXlfaVpPMWJSR2ptbFVuX09HSGM2N2RFVmRrT01HSnQwdU5Yd1dvWmxDMTc0aVVLc3ZtaWlHNVNlM20xYjU5YmNJUWI3RXd0bWNvQnbSAbsBQVVfeXFMUEl5cmNLTnF6QmJIeUhkLVpENHl3RkJfczEycWxYZmpxclZCZGNkRzl1T0pfekUwN1hoRmhDVTBNQ1dKb1pnN0xhMFVRTEpsTEdpR3UzQlN2UDFXSm9CQ2tlRUlLdWRsbHpJeTdmXzZyeElsZkZ5SDZscWxQTFBfRGNLYlozSXpkR3dZVm85Q1ZFSWlnZTJNNlVCZnZJc0hnakxOaTBZT1lMUHA2aFBieDJldFVnLTJONVp6cw?oc=5)
+
+2026-07-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOERMMk1GRlUwWFNXdDF6dFFMd3V6MzBwVTg4NkdpMnNOaG9mQjBESnljbjJWU0UtWVM4MnV2ZnE3cUhHa3hmS1A0emR6Y1dQWGhWUTVrV2UxNWlkN3FkNlZ5WUY0aDN6bWdXZi1NWTRvYlJxYXlfaVpPMWJSR2ptbFVuX09HSGM2N2RFVmRrT01HSnQwdU5Yd1dvWmxDMTc0aVVLc3ZtaWlHNVNlM20xYjU5YmNJUWI3RXd0bWNvQnbSAbsBQVVfeXFMUEl5cmNLTnF6QmJIeUhkLVpENHl3RkJfczEycWxYZmpxclZCZGNkRzl1T0pfekUwN1hoRmhDVTBNQ1dKb1pnN0xhMFVRTEpsTEdpR3UzQlN2UDFXSm9CQ2tlRUlLdWRsbHpJeTdmXzZyeElsZkZ5SDZscWxQTFBfRGNLYlozSXpkR3dZVm85Q1ZFSWlnZTJNNlVCZnZJc0hnakxOaTBZT1lMUHA2aFBieDJldFVnLTJONVp6cw?oc=5)
 
 ---
 
@@ -78,27 +94,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Ictus ischemico, al “San Pio” di Benevento eseguita la prima trombectomia meccanica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTFUdWhDVm5kcGdBb0l5dHJtWGRSSWE3Uzl5TTRvLUMtRGphMl9YSVJfYkV4d0l2cS0xUE1OaEZFOVNNbWhHUlg5bkFTVnF3UDQ1OHQ5UXlCdzZUdklKTm1ueWVUbUJvQTNrYXZVeVdsVDJWenFsZnVuU2g3NXBzUDFhbmppb2NBS3ZabzJSWTJYTlVCeVFPMGtScVZIZThpaEY4clNXWjhLZDhfZFdRRm01SQ?oc=5)
-
-2026-07-30 <span class="news-drug-tag">Tenecteplase</span> <span class="news-indication-tag">ictus</span>
-
-來源：[NTR24.TV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTFUdWhDVm5kcGdBb0l5dHJtWGRSSWE3Uzl5TTRvLUMtRGphMl9YSVJfYkV4d0l2cS0xUE1OaEZFOVNNbWhHUlg5bkFTVnF3UDQ1OHQ5UXlCdzZUdklKTm1ueWVUbUJvQTNrYXZVeVdsVDJWenFsZnVuU2g3NXBzUDFhbmppb2NBS3ZabzJSWTJYTlVCeVFPMGtScVZIZThpaEY4clNXWjhLZDhfZFdRRm01SQ?oc=5)
-
----
-
 ### [Médecin généraliste, le Dr Laetitia Dellasantina-Panzani alerte : "Les traitements injectables contre l'obésité ne sont pas de la médecine esthétique" - Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
 
 2026-07-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
-
----
-
-### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
-
-2026-07-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
 
 ---
 

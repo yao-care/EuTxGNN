@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
+
+### [Diabetes-Schutz: Ballaststoffe senken Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblRVdnBOcV9mT3A5SjNHM3B2aEwxczQwSE9fd25uaW1RYy1GUkN0VnZXeEZCX3pVcUd2enI2NFc4WXhsNUdLLUp2LVliLVM4ckhCSHNSTGZwMl9wX19ZNDd6VUFUSFgxRW82TWFxWDBVM0Vmb3NfWWtNTkpZTWxzUkZDUjZJT19wcG94RV9QSDJQX0lEVXpnWDVkZ2VSaTZDXzltYTZzU3l3UQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblRVdnBOcV9mT3A5SjNHM3B2aEwxczQwSE9fd25uaW1RYy1GUkN0VnZXeEZCX3pVcUd2enI2NFc4WXhsNUdLLUp2LVliLVM4ckhCSHNSTGZwMl9wX19ZNDd6VUFUSFgxRW82TWFxWDBVM0Vmb3NfWWtNTkpZTWxzUkZDUjZJT19wcG94RV9QSDJQX0lEVXpnWDVkZ2VSaTZDXzltYTZzU3l3UQ?oc=5)
+
+---
 
 ### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
@@ -90,23 +98,15 @@ permalink: /news/cabotegravir/
 
 2026-07-31 <span class="news-indication-tag">diabete</span>
 
-來源：[BergamoNews](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
+來源：[bergamonews.it](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
 
 ---
 
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
-
----
-
-### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
 
 ---
 
@@ -126,27 +126,11 @@ permalink: /news/cabotegravir/
 
 ---
 
-### [Asocian la diabetes tipo 1 en los jóvenes con el deterioro progresivo de la salud ósea](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
-
----
-
 ### [Bajo riesgo de cáncer de piel no melanoma con inhibidores de JAK en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
 
 2026-07-30 <span class="news-indication-tag">artritis</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
-
----
-
-### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
-
-2026-07-30 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 ---
 

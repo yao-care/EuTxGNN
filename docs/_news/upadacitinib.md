@@ -54,6 +54,22 @@ permalink: /news/upadacitinib/
 
 ## 相關新聞（8 則）
 
+### [Studie identifiziert Bakterien, die den „Bauernhof-Effekt“ auslösen - top agrar](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
+
+2026-08-01 <span class="news-indication-tag">asthma</span>
+
+來源：[top agrar](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
+
+---
+
+### [Fettleber: Plasma-Proteom kann Risiko 16 Jahre voraus bestimmen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOazVxa3F5ZUFUYkpWT3RFejg5ZEpvV2ZCOFV6eXNzTVBOWHl3MEM1Sl9vdERLeV9UcnJrVGRRcHV1WHpTU1R3bkNKV01mRWx1LUctNmk3clFjU1ljVFFOOE55NDBnOHgydG5rMWl5NW5OTEdlWURpMVhQRVoxMVRJNXFiNG9DbnIxMUdoWFlsYXA0ZEJscTQwa2NlWkltSFJva25CbGQwTHlQQm1pbVJmYw?oc=5)
+
+2026-08-01 <span class="news-indication-tag">asma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOazVxa3F5ZUFUYkpWT3RFejg5ZEpvV2ZCOFV6eXNzTVBOWHl3MEM1Sl9vdERLeV9UcnJrVGRRcHV1WHpTU1R3bkNKV01mRWx1LUctNmk3clFjU1ljVFFOOE55NDBnOHgydG5rMWl5NW5OTEdlWURpMVhQRVoxMVRJNXFiNG9DbnIxMUdoWFlsYXA0ZEJscTQwa2NlWkltSFJva25CbGQwTHlQQm1pbVJmYw?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis begünstigt Rachenkrebs](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
@@ -70,25 +86,17 @@ permalink: /news/upadacitinib/
 
 ---
 
-### [Allergien vorbeugen? Studie identifiziert erstmals schützende Bauernhof-Bakterien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
-
----
-
 ### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
+來源：[TARA24](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
@@ -99,14 +107,6 @@ permalink: /news/upadacitinib/
 2026-07-30 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
 
 來源：[La Stampa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWN2TVRWWFhaTk1OejBrNlIyYWVtZEh2LVpDV2VmUUxyUnU3VjVqekJ6Z2JwT3JELUVNQkpHU2tlTGVnTlZWaDVTRWNRVzExc19QbGRKZlpGQ1ZfRTlqSFUxMzZCZm5zZWJDc25SWHd4emdwUkZxZ3VTSHZ5T0YzWVVYclBmYjJSSHJqSFdma3o0djNzemhpM0laMF9Ma0dxMnVWUnZ5aTJtV3lmQkVtaWpaNVpZaUF1Qk1iNWtndzZEZw?oc=5)
-
----
-
-### [Metabolische Fettleber: ein unterschätztes Risiko für jeden Vierten](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFoLVJSNDNmUUpzVi0wVHYxckJJaGpDSUdvc2h4RmN1X28zYllOSXVpc0dhVWZRc0RiQWdhVUV4VHlhZGZ0Uno3dVc2MmlmM3paUHduWlAwdHlVOTBHUzdwb0dVc1l3aXc0Z0wzWmJlQjUwTmtPbkdhRHlsYVMzcGhHdDRGMUFZbjJqekhOYmF5SEV3NEh6dTlxNDI4bXhqMUljRm9YYTRWTFVDLUlJTmpPZUtxVHVsSHFIY0V2UE1rVURCYVgyZWowQVNLdw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asma</span>
-
-來源：[leinetal24](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFoLVJSNDNmUUpzVi0wVHYxckJJaGpDSUdvc2h4RmN1X28zYllOSXVpc0dhVWZRc0RiQWdhVUV4VHlhZGZ0Uno3dVc2MmlmM3paUHduWlAwdHlVOTBHUzdwb0dVc1l3aXc0Z0wzWmJlQjUwTmtPbkdhRHlsYVMzcGhHdDRGMUFZbjJqekhOYmF5SEV3NEh6dTlxNDI4bXhqMUljRm9YYTRWTFVDLUlJTmpPZUtxVHVsSHFIY0V2UE1rVURCYVgyZWowQVNLdw?oc=5)
 
 ---
 

@@ -64,7 +64,7 @@ permalink: /news/infliximab/
 
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 

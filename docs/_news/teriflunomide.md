@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="Teriflunomide 有什麼相關新聞？">
-<strong>Teriflunomide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teriflunomide</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/teriflunomide/
 <li>dense granule disease（97.8%）</li>
 <li>penile fibromatosis（97.3%）</li>
 <li>Ledderhose disease（97.2%）</li>
-<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 MS</span></li>
+<li class="indication-matched">multiple sclerosis（97.2%）<span class="indication-tag">📰 sclerosi multipla</span></li>
 <li>chronic hepatitis C virus infection（97.0%）</li>
 <li>palmar fibromatosis（96.9%）</li>
 <li>CMM7（96.8%）</li>
@@ -52,21 +52,45 @@ permalink: /news/teriflunomide/
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
+
+### [S1P-Signalweg bremst Thrombosen im Mausmodell ohne erhöhtes Blutungsrisiko - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
+
+---
+
+### [Gehirn ab 50: KI-gestützter Einzelzell-Atlas zeigt Verlust schützender Immunzellen - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
+
+---
+
+### [Multiple Sklerose: Akkermansia massiliensis schützt vor Autoimmunreaktionen - AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOd21FRkRUa2g4MVdhLWkwT0ZUVzQtWkxqTFJxX25SZnVKS0FiWUhjaXJJZWEtTXltTGwzc0VDcUQyUkJsbWdjNjJiTVBXS0lwYkdGcmc4cjdadkVwZWZsTXd6YTQxdjhGb2lVT01vbktvSm5hZlRCR1lTbEp1TXVBV0tDbWcwRmlFSlF5UzQyeXgtM0xsUFJoUkhLVDJibnFTMC1CNnVJcw?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipwFBVV95cUxOd21FRkRUa2g4MVdhLWkwT0ZUVzQtWkxqTFJxX25SZnVKS0FiWUhjaXJJZWEtTXltTGwzc0VDcUQyUkJsbWdjNjJiTVBXS0lwYkdGcmc4cjdadkVwZWZsTXd6YTQxdjhGb2lVT01vbktvSm5hZlRCR1lTbEp1TXVBV0tDbWcwRmlFSlF5UzQyeXgtM0xsUFJoUkhLVDJibnFTMC1CNnVJcw?oc=5)
+
+---
+
+### [Wearables erkennen CED-Schübe bis zu 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
+
+---
 
 ### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hepatitis</span>
 
 來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
-
----
-
-### [KI-Atlas zeigt Hirnalterung: ab 50 kollabiert die Immunzell-Landschaft im Hippocampus - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1RKYldxdFFIREdGNjVtTHl5anZwVThHazNvOXlVcWw3TEVWbFlQYzdsdnczSW90WmFtYnA0SXBGNWdNaDI4MjdwVjBoRFl1cVBKQUpxUEpLYWYya1BkMU1zR3Z4TTJlUWtIczk0cE4tOExUeGZtMTh2dG8zTkdKc1FOX2dMdThoTF9IbHFBUnB5NXdnY25fcWVOR1BSTW51ZUlKVGdidUtRV3Fodm5tRXRSMElDRmc?oc=5)
-
-2026-07-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1RKYldxdFFIREdGNjVtTHl5anZwVThHazNvOXlVcWw3TEVWbFlQYzdsdnczSW90WmFtYnA0SXBGNWdNaDI4MjdwVjBoRFl1cVBKQUpxUEpLYWYya1BkMU1zR3Z4TTJlUWtIczk0cE4tOExUeGZtMTh2dG8zTkdKc1FOX2dMdThoTF9IbHFBUnB5NXdnY25fcWVOR1BSTW51ZUlKVGdidUtRV3Fodm5tRXRSMElDRmc?oc=5)
 
 ---
 
@@ -86,19 +110,19 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Reizdarmsyndrom IBS-D: Nabelschnur-Stammzellen mit Therapie-Potenzial - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1hxQmhMZnczbDFsSTJBeHlvNVBJSjlBd2htSk1WVmlybGpyeUZnY3hDaFdIQU1FTWI0ckw2bFZ0WVItRWpNZElwQksxMU5zOGZITEtjYUptVkZMb0FSTTc3X0ZVQm1Rdm5qVWtVZzNFN2FuMmg5TVVfdEYyUnNCRnBJdVhGRmlGc1FBYk9HYzNnTVRpeGVVckVpZWJEUE9mNkE?oc=5)
-
-2026-07-31 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1hxQmhMZnczbDFsSTJBeHlvNVBJSjlBd2htSk1WVmlybGpyeUZnY3hDaFdIQU1FTWI0ckw2bFZ0WVItRWpNZElwQksxMU5zOGZITEtjYUptVkZMb0FSTTc3X0ZVQm1Rdm5qVWtVZzNFN2FuMmg5TVVfdEYyUnNCRnBJdVhGRmlGc1FBYk9HYzNnTVRpeGVVckVpZWJEUE9mNkE?oc=5)
-
----
-
 ### [Los tratamientos de acción prolongada marcan el futuro del VIH - Redacción médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHhSSE9uTnlxckh3SVZaZkFRaTZxSmF3dVpUNV9ieFlnbFFNRVFTN1YzOHpkaVJfdklmUzR5bVpyZ2lwNmxZZEhMdllkak41UDBreGpJWE9DR1JmNmEzLXcwdVo5N01neFk1ek1Pa25LZkY2d1hHMDc1OFE5V0NWbjU1aHFVcEdacGx5Q21ITGhBTkV5SDdUeU93VWhiRFB4eUVkNmk3MW9MMnpLSWw5SVVycm5aRHNrNldmOXZPOGN5VE1zbUg00gHMAUFVX3lxTE1WV1NCbWczdThTNUk3U2xic0RncHVtc2tzVWxDb0lmNUxTaHBWak9BZWN3ck5EdDZ5WHVyWUw0SmRKajZNbTY2d0p6LUw5S3ZnNU9kZTJqQmZPY3JQZzFQSjdtMTFxX3I2bUw4YVN3eElVckFBMjI1NW42VkpfREpLelpQbmpYeDU4c2hrbkp0dUlrUEcxY0ljLTBkLVpwb19Zb0xjeUI5d3hVdjJZRzlxMTNqcTBRdDg2RGpUaWlOS2JmbG5TVVBOUEl6cw?oc=5)
 
 2026-07-31 <span class="news-indication-tag">MS</span>
 
 來源：[Redacción médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHhSSE9uTnlxckh3SVZaZkFRaTZxSmF3dVpUNV9ieFlnbFFNRVFTN1YzOHpkaVJfdklmUzR5bVpyZ2lwNmxZZEhMdllkak41UDBreGpJWE9DR1JmNmEzLXcwdVo5N01neFk1ek1Pa25LZkY2d1hHMDc1OFE5V0NWbjU1aHFVcEdacGx5Q21ITGhBTkV5SDdUeU93VWhiRFB4eUVkNmk3MW9MMnpLSWw5SVVycm5aRHNrNldmOXZPOGN5VE1zbUg00gHMAUFVX3lxTE1WV1NCbWczdThTNUk3U2xic0RncHVtc2tzVWxDb0lmNUxTaHBWak9BZWN3ck5EdDZ5WHVyWUw0SmRKajZNbTY2d0p6LUw5S3ZnNU9kZTJqQmZPY3JQZzFQSjdtMTFxX3I2bUw4YVN3eElVckFBMjI1NW42VkpfREpLelpQbmpYeDU4c2hrbkp0dUlrUEcxY0ljLTBkLVpwb19Zb0xjeUI5d3hVdjJZRzlxMTNqcTBRdDg2RGpUaWlOS2JmbG5TVVBOUEl6cw?oc=5)
+
+---
+
+### [Nonmotor Symptoms of Parkinson’s Disease](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzc2M25zNzNybGltLWxzYzVZcGU1bGo2R1hEdnZlYWRpZ0k3cEFQcVRpbmtKZDdDaUVqYkF5ZWtLMzN2dXM4Mmd4cHpvakFLRzN6YnNBajlZc1lnYVpvU3E0LV9KQmFKRGowVXhTYTFYYWZVMjFfRnlzWThCZE96d0EwNTBRb19zb0Zya1BDUQ?oc=5)
+
+2026-07-31 <span class="news-indication-tag">MS</span>
+
+來源：[medscape.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzc2M25zNzNybGltLWxzYzVZcGU1bGo2R1hEdnZlYWRpZ0k3cEFQcVRpbmtKZDdDaUVqYkF5ZWtLMzN2dXM4Mmd4cHpvakFLRzN6YnNBajlZc1lnYVpvU3E0LV9KQmFKRGowVXhTYTFYYWZVMjFfRnlzWThCZE96d0EwNTBRb19zb0Zya1BDUQ?oc=5)
 
 ---
 
@@ -118,19 +142,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Allergien vorbeugen? Studie identifiziert erstmals schützende Bauernhof-Bakterien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
-
----
-
 ### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
+來源：[TARA24](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 
@@ -138,15 +154,7 @@ permalink: /news/teriflunomide/
 
 2026-07-31 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWZHbVFzOEU5WktZYUlOcnNNQWpKOXlfX181Y3lfSlhtZmV2Q01ybzJ0cUt0LVhua2VDVDZJS3k5SE4wZ1NlZldkY1Vja2dCcWg2U3BGeUpqdHVOSGhQWV9IZjNkcFdOb2d0d1RLQi1CeWF6Q3RxZTd5RzVlSXlpOFd4Wng5LTNrNG1BMVlJNHJVeFdJemZ5WG54TXFaZXpVN0h1aEFR?oc=5)
-
----
-
-### [Darmerkrankungen: Wearables erkennen Schübe sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlF1WnVZQUl6czFfZXJHdl8zTHVMdWVPcWtZbmNWUU1zMVF6YWZOSnZCSVlHeG1oQlljZVpZTmdRd291YWMzc2pyZWs5VExmSmF5TlhiU3BVVWc0NllkeGdnTlZSZXdrQ1RFWFVIUUdreGxZcGUxYWtzZ3h1SkYyMlFPZkFGR1VjeHU0WjNCS1BLeG9ROHp5dVN6cHdLbTV3UzdoZDdYX3UtcFZpRjlKVXhjV0g?oc=5)
-
-2026-07-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlF1WnVZQUl6czFfZXJHdl8zTHVMdWVPcWtZbmNWUU1zMVF6YWZOSnZCSVlHeG1oQlljZVpZTmdRd291YWMzc2pyZWs5VExmSmF5TlhiU3BVVWc0NllkeGdnTlZSZXdrQ1RFWFVIUUdreGxZcGUxYWtzZ3h1SkYyMlFPZkFGR1VjeHU0WjNCS1BLeG9ROHp5dVN6cHdLbTV3UzdoZDdYX3UtcFZpRjlKVXhjV0g?oc=5)
+來源：[euronews.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWZHbVFzOEU5WktZYUlOcnNNQWpKOXlfX181Y3lfSlhtZmV2Q01ybzJ0cUt0LVhua2VDVDZJS3k5SE4wZ1NlZldkY1Vja2dCcWg2U3BGeUpqdHVOSGhQWV9IZjNkcFdOb2d0d1RLQi1CeWF6Q3RxZTd5RzVlSXlpOFd4Wng5LTNrNG1BMVlJNHJVeFdJemZ5WG54TXFaZXpVN0h1aEFR?oc=5)
 
 ---
 
@@ -174,6 +182,14 @@ permalink: /news/teriflunomide/
 
 ---
 
+### [Smallpox DNA is recovered from Spanish conquest-era Chilean mummies](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ3NNdTF3VWJJRFQ3NVZ0RTk1MXB1UXU4U0dSTWt0bXAyU2pKQ2VBU3k3b3RLVnhORk95UkIyeUg5bWh3NEdqX2VGN0Y4dGlweExxWV9jckpkMVkzT0ZOVk1hZ1lOV3RWUkQ5clR5LWo2YXd1a2t1aDZZUzdGQ3RGSXVvU0RVd0EyblJVcmx6bnNtZkU3QWc1MVdoUjZRSG50TzVVWjNtTjdyTGxCMWgtRDNqZUxkRUZTNWl0TG02cm9BUm44NU5LWmVnc08xcDA?oc=5)
+
+2026-07-30 <span class="news-indication-tag">MS</span>
+
+來源：[Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ3NNdTF3VWJJRFQ3NVZ0RTk1MXB1UXU4U0dSTWt0bXAyU2pKQ2VBU3k3b3RLVnhORk95UkIyeUg5bWh3NEdqX2VGN0Y4dGlweExxWV9jckpkMVkzT0ZOVk1hZ1lOV3RWUkQ5clR5LWo2YXd1a2t1aDZZUzdGQ3RGSXVvU0RVd0EyblJVcmx6bnNtZkU3QWc1MVdoUjZRSG50TzVVWjNtTjdyTGxCMWgtRDNqZUxkRUZTNWl0TG02cm9BUm44NU5LWmVnc08xcDA?oc=5)
+
+---
+
 ### [Pharmacist warns these symptoms at Kendal Calling may be dust not just booze - NW Mail](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1AyeEFNWVNWUnR0Mkl1ZmFFakFCdlFIb1ZHSkw0MnNMSVVXQnlXZExFWHAzQ21wanh5a0I5RkZUS0JFN2c4T2oxeHVWbzZJMnlneEd6emxyNWFxOS1EZkp6ancxR2J3MThBeUtGaWhUek10RUFIZjdLcFZ2Um92WkZ3SXRydkpraU82RUhTWlNYZk8zcjdJ?oc=5)
 
 2026-07-30 <span class="news-indication-tag">MS</span>
@@ -190,14 +206,6 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Sleeping with a fan on – the dos and don’ts according to an expert](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHc2bDhfOTNJWWFlZkxPNmE5MnFDTnBiNVJ5a1hoVzhPYWFRVnNNMldsS3dYX2pZc0RYODZDMEhNcDRHbjZrYlVLRDM5RTFTeVBmdkxDbUdLeTZ6ZlYzVmFiaW0yTFBZVG9GeFpiWFl2bWhxS01rYlBNZGNQT2lWZld6bmdQOTItekVBa1lCdjEwUFE?oc=5)
-
-2026-07-30 <span class="news-indication-tag">MS</span>
-
-來源：[independent.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHc2bDhfOTNJWWFlZkxPNmE5MnFDTnBiNVJ5a1hoVzhPYWFRVnNNMldsS3dYX2pZc0RYODZDMEhNcDRHbjZrYlVLRDM5RTFTeVBmdkxDbUdLeTZ6ZlYzVmFiaW0yTFBZVG9GeFpiWFl2bWhxS01rYlBNZGNQT2lWZld6bmdQOTItekVBa1lCdjEwUFE?oc=5)
-
----
-
 ### [Sclerosi multipla e caldo, perché i sintomi possono peggiorare senza indicare una ricaduta](https://news.google.com/rss/articles/CBMi1wFBVV95cUxObmh2aVRYa0RMdGxJSV9seDhMMXJHeU14SXZNYkluU0d3a3A4ZUZRbWlUOVptdUdEMTIxRktsVEFtZVIyRFZBQ3JIWDkxZE1QY0VHam80MWdzcWVnYlFmcmRsSmUyZVptQUJXTUduTlU2UWZFWWdlOGZta0VRTnNIU1pnd1BIMl9uTkJZT1poRG9USXVLRkpGT09BaF91cVZfU0NQak9DS3R5QjBLbnhzZ3BxQTBROTNwb1l1dzZXLWYxMmRPb05zb0xCTEpMSXdhdjlnN3BSQQ?oc=5)
 
 2026-07-30 <span class="news-indication-tag">sclerosi multipla</span>
@@ -206,11 +214,11 @@ permalink: /news/teriflunomide/
 
 ---
 
-### [Multiple Sklerose: Diese Darmbakterien können schützen](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+### [Hepatitis: qué es, cómo se previene y la importancia de vacunarse - Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
 
-2026-07-30 <span class="news-indication-tag">MS</span>
+2026-07-30 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNldXdExocVZwNkp1NVdFRDc2MnRhYTJ5aUVLQTlQakp6Rm9Oc2ZPVHZPMElnYmpUN01Uek02RmZic1JGTVpLb2plRmxUZlpUbklqbHZ3VnV2aDFReHVLdjRQbzlCQkw5bUo5X2xUekVEYWNOTWVDcjY5bVVZbVFfQnpBUUNULW00TXRDUWk5b3lJRXE3YUZtZG84M1FvMEJOVnNkd0NHT2d6LS1jSVg2emdnMDNrSGs?oc=5)
+來源：[Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
 
 ---
 

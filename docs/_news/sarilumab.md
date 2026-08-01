@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
+
+### [Studie identifiziert Bakterien, die den „Bauernhof-Effekt“ auslösen - top agrar](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
+
+2026-08-01 <span class="news-indication-tag">asthma</span>
+
+來源：[top agrar](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
+
+---
+
+### [Wearables erkennen CED-Schübe bis zu 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
+
+---
+
+### [Fettleber: Plasma-Proteom kann Risiko 16 Jahre voraus bestimmen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOazVxa3F5ZUFUYkpWT3RFejg5ZEpvV2ZCOFV6eXNzTVBOWHl3MEM1Sl9vdERLeV9UcnJrVGRRcHV1WHpTU1R3bkNKV01mRWx1LUctNmk3clFjU1ljVFFOOE55NDBnOHgydG5rMWl5NW5OTEdlWURpMVhQRVoxMVRJNXFiNG9DbnIxMUdoWFlsYXA0ZEJscTQwa2NlWkltSFJva25CbGQwTHlQQm1pbVJmYw?oc=5)
+
+2026-08-01 <span class="news-indication-tag">asma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxOazVxa3F5ZUFUYkpWT3RFejg5ZEpvV2ZCOFV6eXNzTVBOWHl3MEM1Sl9vdERLeV9UcnJrVGRRcHV1WHpTU1R3bkNKV01mRWx1LUctNmk3clFjU1ljVFFOOE55NDBnOHgydG5rMWl5NW5OTEdlWURpMVhQRVoxMVRJNXFiNG9DbnIxMUdoWFlsYXA0ZEJscTQwa2NlWkltSFJva25CbGQwTHlQQm1pbVJmYw?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis begünstigt Rachenkrebs](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
@@ -70,19 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Allergien vorbeugen? Studie identifiziert erstmals schützende Bauernhof-Bakterien](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzdBbUkyYTdZOVF4XzF3X1VrckdldDhuQy1CaHpid0FEQU1aWjdNX1Y2bm56U3pTZ29JY1c1Zm83QWhuSVk2ZlpSRWE5cjZob0dGVGMzNFFXSXRFVkZJYUp3ZVhnUFp5MkM1MDNtM0NLVnhMNmRLMU9BbjVTV2VqZ0RwRHpHV0tfN01hd2doejhlYllUblg5emFoUkhxeGcwUnR3dFZoUTVOWENCUnQwdmdqaG9DeDB0?oc=5)
-
----
-
 ### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
+來源：[TARA24](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 
@@ -94,17 +110,9 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Darmerkrankungen: Wearables erkennen Schübe sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlF1WnVZQUl6czFfZXJHdl8zTHVMdWVPcWtZbmNWUU1zMVF6YWZOSnZCSVlHeG1oQlljZVpZTmdRd291YWMzc2pyZWs5VExmSmF5TlhiU3BVVWc0NllkeGdnTlZSZXdrQ1RFWFVIUUdreGxZcGUxYWtzZ3h1SkYyMlFPZkFGR1VjeHU0WjNCS1BLeG9ROHp5dVN6cHdLbTV3UzdoZDdYX3UtcFZpRjlKVXhjV0g?oc=5)
-
-2026-07-31 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlF1WnVZQUl6czFfZXJHdl8zTHVMdWVPcWtZbmNWUU1zMVF6YWZOSnZCSVlHeG1oQlljZVpZTmdRd291YWMzc2pyZWs5VExmSmF5TlhiU3BVVWc0NllkeGdnTlZSZXdrQ1RFWFVIUUdreGxZcGUxYWtzZ3h1SkYyMlFPZkFGR1VjeHU0WjNCS1BLeG9ROHp5dVN6cHdLbTV3UzdoZDdYX3UtcFZpRjlKVXhjV0g?oc=5)
-
----
-
 ### [Arthritis: Pim1-Kinase als neuer Therapieansatz identifiziert - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
-2026-07-31 <span class="news-drug-tag">Zinc</span> <span class="news-indication-tag">arthritis</span>
+2026-07-31 <span class="news-indication-tag">arthritis</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlsOG95aTlSVkRIZmdFckdFWnZOa0Vvd2NxU09wSzRSU0hvLW5heE1ELVNad1hGTmlIczY4MUJJaURtNkdXRldpX3lzVDhOY3FkNHRjUWFCbUxfUnlvU2IzMTIwMVJ1bjMxQzE4SnZGZ29oTG1jbTNuSzVnV2VzUlBpcEhxUjk1MnFQN29NeE0zVVZrVG0xNHczZkhGMGtVd2ROd05yVmg3SXBBRUE?oc=5)
 
@@ -118,27 +126,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Metabolische Fettleber: ein unterschätztes Risiko für jeden Vierten](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFoLVJSNDNmUUpzVi0wVHYxckJJaGpDSUdvc2h4RmN1X28zYllOSXVpc0dhVWZRc0RiQWdhVUV4VHlhZGZ0Uno3dVc2MmlmM3paUHduWlAwdHlVOTBHUzdwb0dVc1l3aXc0Z0wzWmJlQjUwTmtPbkdhRHlsYVMzcGhHdDRGMUFZbjJqekhOYmF5SEV3NEh6dTlxNDI4bXhqMUljRm9YYTRWTFVDLUlJTmpPZUtxVHVsSHFIY0V2UE1rVURCYVgyZWowQVNLdw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">asma</span>
-
-來源：[leinetal24](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFoLVJSNDNmUUpzVi0wVHYxckJJaGpDSUdvc2h4RmN1X28zYllOSXVpc0dhVWZRc0RiQWdhVUV4VHlhZGZ0Uno3dVc2MmlmM3paUHduWlAwdHlVOTBHUzdwb0dVc1l3aXc0Z0wzWmJlQjUwTmtPbkdhRHlsYVMzcGhHdDRGMUFZbjJqekhOYmF5SEV3NEh6dTlxNDI4bXhqMUljRm9YYTRWTFVDLUlJTmpPZUtxVHVsSHFIY0V2UE1rVURCYVgyZWowQVNLdw?oc=5)
-
----
-
 ### [Bajo riesgo de cáncer de piel no melanoma con inhibidores de JAK en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
 
 2026-07-30 <span class="news-indication-tag">artritis</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzh0RmpYQTJZTERXQ04tbm5sZ29zUTJQQUdrX1hOOEZ4d0c3VTdaMVpXSXVBSGVud3k3cWZRbEtTOHFiV2dCWGNMT3RIdGxrd0dwVGxCUnpoTEYwU3g1bllLanJkX2lxd2hyVW1DOXl6Zk03QjMwM3hLa1JwMllabG1ZejI5Zlltd0xVdTBBTTE4WFR4eEhtZ0xmaC0yV2JrdE5nTEwzZ2JTX1k3ZU1vdWRNdDJKZ1F1TEFiOHk1U3loUdIBvAFBVV95cUxPbXk0UWtiQURQbjFkZzBjQUo1SUV6OUt0ZjBhQ1FJaHNsN0Q1bmlIcW1MMnh2MlBCc1REaUprMW1qUXBmVjBVcE5USlIwaVRTQ2RXOUxUQjBFcTF5WXFqaWZOU2RSR3VuYzJCYkhvN2xueV9lS3Z5X190d0laMkhpc2JXSE5SQ3hpUHZ1WGp6dFhPU3lvWkxsaWJyS1RrcnBPUTlaaThXQmN2Z1hESGU4N2V2NzNWTTNXcGtqRw?oc=5)
-
----
-
-### [Kortikosteroide bei COPD: Was spricht dafür – und was dagegen?](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
-
-2026-07-30 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlBnem5ySmVyRlFXN3FBdTV6OWVoTFpkM2lBcEhrZkp0QTZJbGhUNkxmVnpyMFo0WHotOFpxRGxYcFhmNngybXBMU1V4QmpJVzZSRnBOZUhOaW9fVXpzQTM5Q0RRSHdRQWNXMUdXSGFURVhvY0pMUnpOY1B0NGkzVjBwSnFodHVKMnlRZ3BBX2FudVZJOUlDakN2MVVPa1ByaUdNbmJyN3JxSXR1?oc=5)
 
 ---
 

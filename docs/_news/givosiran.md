@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hepatitis</span>
 
 來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+
+---
+
+### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+
+2026-07-31 <span class="news-indication-tag">hipertensión</span>
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [Bluthochdruck-Symptome: Diese Warnzeichen am Morgen übersehen viele - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW11QVZQSlRLbmtrRXIwNFNEenZ4N0N6bEJjeU9NRVZ4blRLY3BpZ01vZE5nNURBLUxSd2tlbEkyZHN2RGxjazE3UmlTT3BiTTFNNVZXWDBLN0NHdzllRldtVzVQYWVQZFM2NnJkUXc1R1RLRnhhNzZ4cUpHMFJWWDcxRW0xQ29ENEo3VnBKaFUyazBWbExqMlhHR0dvemZVNl9taGYyT2lmWnhxSHB1X3U2Z01jWTQz?oc=5)
-
-2026-07-31 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW11QVZQSlRLbmtrRXIwNFNEenZ4N0N6bEJjeU9NRVZ4blRLY3BpZ01vZE5nNURBLUxSd2tlbEkyZHN2RGxjazE3UmlTT3BiTTFNNVZXWDBLN0NHdzllRldtVzVQYWVQZFM2NnJkUXc1R1RLRnhhNzZ4cUpHMFJWWDcxRW0xQ29ENEo3VnBKaFUyazBWbExqMlhHR0dvemZVNl9taGYyT2lmWnhxSHB1X3U2Z01jWTQz?oc=5)
-
----
-
 ### [Bluthochdruck: Kombinationstherapien senken Abbruchrisiko um 39%, zugleich drohen Lieferengpässe - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
 
 2026-07-30 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFB5amhZblRRTDJtbVBNek9VdnJka3ROVTRjOV8zd0o4ZVdMbXJDS1lzRldnTUxjSUltb2xKZVY4ZVEwcHpqQ19DY2lLM3l2dzdaajFZQjhwTmxaWVdyRlJSSk5vZEJyc3R2aWxKOHAxVGgtdW1LMFh3TWhMbjVjaGhxYkxPLWpvamtONENCd1N3YnhFbmIwc3pYb2Q4LVQzdHhqSURRdExmaHUtel9MeXA2OVVFRVZ0RTNmWl9QdW9sZFhr?oc=5)
+
+---
+
+### [Hepatitis: qué es, cómo se previene y la importancia de vacunarse - Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
 
 ---
 

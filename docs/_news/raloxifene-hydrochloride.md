@@ -54,11 +54,11 @@ permalink: /news/raloxifene-hydrochloride/
 
 ## 相關新聞（1 則）
 
-### [Ictus ischemico, al “San Pio” di Benevento eseguita la prima trombectomia meccanica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTFUdWhDVm5kcGdBb0l5dHJtWGRSSWE3Uzl5TTRvLUMtRGphMl9YSVJfYkV4d0l2cS0xUE1OaEZFOVNNbWhHUlg5bkFTVnF3UDQ1OHQ5UXlCdzZUdklKTm1ueWVUbUJvQTNrYXZVeVdsVDJWenFsZnVuU2g3NXBzUDFhbmppb2NBS3ZabzJSWTJYTlVCeVFPMGtScVZIZThpaEY4clNXWjhLZDhfZFdRRm01SQ?oc=5)
+### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
 
-2026-07-30 <span class="news-drug-tag">Tenecteplase</span> <span class="news-indication-tag">ictus</span>
+2026-08-01 <span class="news-indication-tag">AVC</span>
 
-來源：[NTR24.TV](https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTFUdWhDVm5kcGdBb0l5dHJtWGRSSWE3Uzl5TTRvLUMtRGphMl9YSVJfYkV4d0l2cS0xUE1OaEZFOVNNbWhHUlg5bkFTVnF3UDQ1OHQ5UXlCdzZUdklKTm1ueWVUbUJvQTNrYXZVeVdsVDJWenFsZnVuU2g3NXBzUDFhbmppb2NBS3ZabzJSWTJYTlVCeVFPMGtScVZIZThpaEY4clNXWjhLZDhfZFdRRm01SQ?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
 
 ---
 

@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Darmerkrankungen: Wearables erkennen Schübe sieben Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlF1WnVZQUl6czFfZXJHdl8zTHVMdWVPcWtZbmNWUU1zMVF6YWZOSnZCSVlHeG1oQlljZVpZTmdRd291YWMzc2pyZWs5VExmSmF5TlhiU3BVVWc0NllkeGdnTlZSZXdrQ1RFWFVIUUdreGxZcGUxYWtzZ3h1SkYyMlFPZkFGR1VjeHU0WjNCS1BLeG9ROHp5dVN6cHdLbTV3UzdoZDdYX3UtcFZpRjlKVXhjV0g?oc=5)
+### [Wearables erkennen CED-Schübe bis zu 7 Wochen früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
 
-2026-07-31
+2026-08-01
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlF1WnVZQUl6czFfZXJHdl8zTHVMdWVPcWtZbmNWUU1zMVF6YWZOSnZCSVlHeG1oQlljZVpZTmdRd291YWMzc2pyZWs5VExmSmF5TlhiU3BVVWc0NllkeGdnTlZSZXdrQ1RFWFVIUUdreGxZcGUxYWtzZ3h1SkYyMlFPZkFGR1VjeHU0WjNCS1BLeG9ROHp5dVN6cHdLbTV3UzdoZDdYX3UtcFZpRjlKVXhjV0g?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbnFKNjlpT0Q4VjBOLXVhWURrOG5yM1kyVVg1VGZhSUs1OXk1blQwb3h4aWRwZkx1Nk5OdDZEdEpXOElFTl9TZ3J4NzVKRDlqRFJ3dWRfNHBiSE1ETVkzb05UX3VSNVBaV0hpVlFqanV5UHlPem1pVlQyRW9ESTB1ZUFpa1U0Y1NSNmdjTXo5cjlYbXZ5MGFYMW55Njl3T0NCOThvX0lR?oc=5)
 
 ---
 

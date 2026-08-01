@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lamivudine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit - St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hepatitis</span>
 
 來源：[St. Wendeler Land Nachrichten](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
+
+---
+
+### [Hepatitis: qué es, cómo se previene y la importancia de vacunarse - Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
+
+2026-07-30 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Radiofonica 100.7](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVhtX1dXUXFKSE0wNkQtUTNDNGdvZzd2UWoxYWJlazl3ODd6V3VHUU94NDVIZ1REWm5vbHl2OHZJdjZtaFRoZkY1M2RWTWVFWUlFMk1zQ0ZPcXZNNndQRUo0RTdqQ2t1QUFXZmVwYk95anVTTmdyWWdXd1FwNEhsVC1VTmhvcVFqczZjRzhUTEJHZw?oc=5)
 
 ---
 

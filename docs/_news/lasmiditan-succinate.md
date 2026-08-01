@@ -62,6 +62,14 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
+### [Un consenso europeo pone límites al uso aislado de los fármacos antiobesidad - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOERMMk1GRlUwWFNXdDF6dFFMd3V6MzBwVTg4NkdpMnNOaG9mQjBESnljbjJWU0UtWVM4MnV2ZnE3cUhHa3hmS1A0emR6Y1dQWGhWUTVrV2UxNWlkN3FkNlZ5WUY0aDN6bWdXZi1NWTRvYlJxYXlfaVpPMWJSR2ptbFVuX09HSGM2N2RFVmRrT01HSnQwdU5Yd1dvWmxDMTc0aVVLc3ZtaWlHNVNlM20xYjU5YmNJUWI3RXd0bWNvQnbSAbsBQVVfeXFMUEl5cmNLTnF6QmJIeUhkLVpENHl3RkJfczEycWxYZmpxclZCZGNkRzl1T0pfekUwN1hoRmhDVTBNQ1dKb1pnN0xhMFVRTEpsTEdpR3UzQlN2UDFXSm9CQ2tlRUlLdWRsbHpJeTdmXzZyeElsZkZ5SDZscWxQTFBfRGNLYlozSXpkR3dZVm85Q1ZFSWlnZTJNNlVCZnZJc0hnakxOaTBZT1lMUHA2aFBieDJldFVnLTJONVp6cw?oc=5)
+
+2026-07-31 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOERMMk1GRlUwWFNXdDF6dFFMd3V6MzBwVTg4NkdpMnNOaG9mQjBESnljbjJWU0UtWVM4MnV2ZnE3cUhHa3hmS1A0emR6Y1dQWGhWUTVrV2UxNWlkN3FkNlZ5WUY0aDN6bWdXZi1NWTRvYlJxYXlfaVpPMWJSR2ptbFVuX09HSGM2N2RFVmRrT01HSnQwdU5Yd1dvWmxDMTc0aVVLc3ZtaWlHNVNlM20xYjU5YmNJUWI3RXd0bWNvQnbSAbsBQVVfeXFMUEl5cmNLTnF6QmJIeUhkLVpENHl3RkJfczEycWxYZmpxclZCZGNkRzl1T0pfekUwN1hoRmhDVTBNQ1dKb1pnN0xhMFVRTEpsTEdpR3UzQlN2UDFXSm9CQ2tlRUlLdWRsbHpJeTdmXzZyeElsZkZ5SDZscWxQTFBfRGNLYlozSXpkR3dZVm85Q1ZFSWlnZTJNNlVCZnZJc0hnakxOaTBZT1lMUHA2aFBieDJldFVnLTJONVp6cw?oc=5)
+
+---
+
 ### [Santé. MASH : c'est quoi cette maladie du foie qui toucherait 8 millions de Français ? - Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
 
 2026-07-31 <span class="news-indication-tag">obésité</span>
@@ -83,14 +91,6 @@ permalink: /news/lasmiditan-succinate/
 2026-07-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 來源：[Corse Matin](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVFRCM3piSVNXNlU4Q05Cdmx0V3JBZkVZNlJRM1ZKaXNGY2lEeXRUSHc3em5wLUZVWDRsNENGak50SnJEREdma3FNamlSWUJ5TkliOG0tVjB1YlZMNXdIOThaNkMya1BTSjZHYU9xcmgwRGNjb2VMNk5WVW0tMEljc2x4Ym0xLTVvdnQ0YXpnaThGQjRFa1BJTkJUSkRMM0dKZTBmQlFOZXhhcmhnZmZDSktNeDZGRXYtMUVtY0s1Y2hyelJwQjg2Zmh2aWV0VjJzMzFmWWQ3clAzbTAwNkdrUXVKYjlUVXJQRWxFWkNKcGVhSmV4UmJUNDdRWjFqMEg1NnRBNHA5eHNrSDI5UTVlSkZqbGRHZ3FPVFJjc3ZMazhMSllzR3k1YThUV1o?oc=5)
-
----
-
-### [Should multibuy offers on unhealthy foods be banned?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
-
-2026-07-30 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ1JCSGVhWUF3YnpWalZQeU9xUEpwZlZQcDhOLXB6dDJwSTBOTldQUVZJYWFOOEhTZ2R3aXJDaHA4YWlhRWdoVnE2YnI5a0p5cDhSSWh0MzM4bElS?oc=5)
 
 ---
 

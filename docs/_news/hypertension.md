@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（3 則）
 
+### [Detectan mayor riesgo de hipertensión en mujeres con menopausia precoz - IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+
+2026-07-31
+
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWFmVEl5V25TX3BkRXRqb2E2VXZORUpyODdFdFY3eUN5Y19HUTZvNzltQVJjQmlBV0s4LWlVaEI3bF9pTVJOY2JINHNtR21jd2c0cHc5WmdTMkFWb05lZF9mSzhfdHQzQWZFZGpWTUlrc1RKcFBWVmlmWmNpVnVTYUZPR1QxVWI1dmNwX2t1NFZFeEZQQVMwN3VNVnJQTVV1NF9XR21xYlVHZ0gyN3fSAagBQVVfeXFMT2o4QUhsUTgtQkZNY3dlOWk1cTRlR09KYzFyUUhPbDlvOWpDLXpqNEpxOTgtdDVNd0Yxck9PNFBSYkFyRFpxS01QRno1cHVRU1h4bktTdS1USFpxRU55YmxXTlBYcVhKcEVuZGphTDVWeTJVVDlyeTdoOVVGU21ya2RZYkl1cHdrQmhEdjMtVHdoV2x1NmJQWWJpc3M0LUFMYUh6a2JZWFdL?oc=5)
+
+---
+
 ### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
 
 2026-07-31
 
 來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
-
----
-
-### [Bluthochdruck-Symptome: Diese Warnzeichen am Morgen übersehen viele - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW11QVZQSlRLbmtrRXIwNFNEenZ4N0N6bEJjeU9NRVZ4blRLY3BpZ01vZE5nNURBLUxSd2tlbEkyZHN2RGxjazE3UmlTT3BiTTFNNVZXWDBLN0NHdzllRldtVzVQYWVQZFM2NnJkUXc1R1RLRnhhNzZ4cUpHMFJWWDcxRW0xQ29ENEo3VnBKaFUyazBWbExqMlhHR0dvemZVNl9taGYyT2lmWnhxSHB1X3U2Z01jWTQz?oc=5)
-
-2026-07-31
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW11QVZQSlRLbmtrRXIwNFNEenZ4N0N6bEJjeU9NRVZ4blRLY3BpZ01vZE5nNURBLUxSd2tlbEkyZHN2RGxjazE3UmlTT3BiTTFNNVZXWDBLN0NHdzllRldtVzVQYWVQZFM2NnJkUXc1R1RLRnhhNzZ4cUpHMFJWWDcxRW0xQ29ENEo3VnBKaFUyazBWbExqMlhHR0dvemZVNl9taGYyT2lmWnhxSHB1X3U2Z01jWTQz?oc=5)
 
 ---
 

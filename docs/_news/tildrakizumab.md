@@ -14,7 +14,7 @@ permalink: /news/tildrakizumab/
 ---
 
 <p class="key-answer" data-question="Tildrakizumab 有什麼相關新聞？">
-<strong>Tildrakizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tildrakizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tildrakizumab/
 <p><a href="{{ '/drugs/tildrakizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Diabetes-Schutz: Ballaststoffe senken Risiko um 34 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblRVdnBOcV9mT3A5SjNHM3B2aEwxczQwSE9fd25uaW1RYy1GUkN0VnZXeEZCX3pVcUd2enI2NFc4WXhsNUdLLUp2LVliLVM4ckhCSHNSTGZwMl9wX19ZNDd6VUFUSFgxRW82TWFxWDBVM0Vmb3NfWWtNTkpZTWxzUkZDUjZJT19wcG94RV9QSDJQX0lEVXpnWDVkZ2VSaTZDXzltYTZzU3l3UQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblRVdnBOcV9mT3A5SjNHM3B2aEwxczQwSE9fd25uaW1RYy1GUkN0VnZXeEZCX3pVcUd2enI2NFc4WXhsNUdLLUp2LVliLVM4ckhCSHNSTGZwMl9wX19ZNDd6VUFUSFgxRW82TWFxWDBVM0Vmb3NfWWtNTkpZTWxzUkZDUjZJT19wcG94RV9QSDJQX0lEVXpnWDVkZ2VSaTZDXzltYTZzU3l3UQ?oc=5)
+
+---
 
 ### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
@@ -74,15 +82,7 @@ permalink: /news/tildrakizumab/
 
 2026-07-31 <span class="news-indication-tag">diabete</span>
 
-來源：[BergamoNews](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
-
----
-
-### [Ernährung: Ballaststoffe senken Diabetes-Risiko um bis zu 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTBNMDVEd05UdGNOcl9qMGV4VjBvUXpLenZSU2ZOeWtXWER3My1PcEdERWhhdW1Ja21DWUFaZTRBU1EwVXE1ZnVMd3ZVRDRzU3h4b0JTZUY0UWxSSkhwRlBsSExTMHA0VlZwSTFRTG4tX2hjM1pZcFRrZzdVNzdzN3lDVkFGSWliNVU2ZHpPNEswYUk5cjhLOUlfT1lfLUZQMkNvMmtIRGJlcEl4MUZIMXlnWWU5M2Fi?oc=5)
+來源：[bergamonews.it](https://news.google.com/rss/articles/CBMiggJBVV95cUxObEs2ZzR3Q3l6b2ltQWVyUU14QS10V201U0VLdG5VQzlUb2pfWV9MVUFsSnNlay05cnpGYVdMa0YyU2VWNjh3ZGNfNFE1MUdDOU8tb0NSclhCWVRta1JQSjl0RDJlYzJUZExfUkk0ZGRuRVhteXBxd0pfVmdod3Vkb0hwaXZUTjNPOTZtY1h6Rk50Um5STGM4dmVCeEs2bktQdnBGajZ6TmhFeVNLX1pBSzBhdXV5Z0QtRkZfTS1UOVhPV1Ata3VlSVRPN181QkQ3anZidmlrcVFFdC12V0xOem5Cek5TQnh4VWJLdmxTZm16ZHRkemlCSDZ6ZlJUSzBQN1E?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/tildrakizumab/
 2026-07-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDBDZ19OODNlcWVKQkF3Qlpfay1ObTdqaDNBOFhRUUVfOS1qRXRrdFRRX2NsRm1NYnkxek5yZmUyN3dCTnRJNGpyOTlna3UzOWFKX005M09iOC1CYmdJVFJzTlVaZXJyZGJKenAxNkVrYVllekwyakF0ZUx6OEhoWkZ6Yi1sTThienFLbDV1bkdVUnE3QmxLWkNnQ0R3SFpvNEQzQ2NrdkZxc3VaRnByME5YTE1zYXdjckpEYTFn0gG4AUFVX3lxTFB4c1JIdVhrbEFicFV3TU5Wb2k0ay1BZWFPTmZRenp5V185d2cyUUpVTUw3eldydHJHUkZCT2t6X2IxSXF1VGxxM1Y5ZVRWRFRPSHZLbzdRTXhZanVQeUdQU2xaU3BPUFhZY2JpUTFHbmt5ZDVlbmd0MGRpdUFCZ1F6YWZadDRwdTFUMjFJVTFEbGdYUWRJeXNsQ2tVSjdYTWJBLU03czRnMUUwM3J0d2xuRmZwbHdoaW8?oc=5)
-
----
-
-### [Asocian la diabetes tipo 1 en los jóvenes con el deterioro progresivo de la salud ósea](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
-
-2026-07-30 <span class="news-indication-tag">diabetes</span>
-
-來源：[infodiabetico.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTTVXZ19BZlo2RlZFaF8xWE5NVUJZVEJfbzVqdnFVQ2ZESGVSOWNEX3JFMzlqUEVNTTg5dU1Sb1B2MVhFWUlhSlFuTUNkbEFWSVNKdzl4QUJEVVNwUnQ1YlVoZFg4U0p4N3hFQkdZY3d3dmxlSEFQQ0pmeVlOenQzcGVTZU1wVnpfdXQzal9lOG9qQVlmQWF0RGtRaTQ1STdrQW05UWZVWFpVWFlCSzl2bk5Gc2ZfdmpzU3dSZDg0dmFFUnA0TTdaQkloUUh0d2dPOS1VeThSYw?oc=5)
 
 ---
 
