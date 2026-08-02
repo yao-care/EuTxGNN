@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [¿Puede un mal uso de los teléfonos inteligentes fomentar la depresión?](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDVtMU0tQmpIWVROeXVfXy1neHVraGlQQmpVWl9BaGdwYmVQT0JpR1pHTmxIbVhTT1REZTlrclJodGl1NklNNzR0c1Vaa21TWlZsdlB6ZzRaY0ZrRDJzSmFILVpwMnhIRmdMa25nMFNnWU52bGlnM2pYdnlDTkxtUU5RSDBRalJJUV9EYW1jc1pESUlETklaa290bHpXSlV1SVdjcnRMUV8tLXc?oc=5)
-
-2026-08-01 <span class="news-indication-tag">depresión</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDVtMU0tQmpIWVROeXVfXy1neHVraGlQQmpVWl9BaGdwYmVQT0JpR1pHTmxIbVhTT1REZTlrclJodGl1NklNNzR0c1Vaa21TWlZsdlB6ZzRaY0ZrRDJzSmFILVpwMnhIRmdMa25nMFNnWU52bGlnM2pYdnlDTkxtUU5RSDBRalJJUV9EYW1jc1pESUlETklaa290bHpXSlV1SVdjcnRMUV8tLXc?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVlhNkI1NlhLbHFReUEwNi1DZWM4R2w2MTZsNEdKNnlIWk9YN3pITkFPS0J5MWFLajVSejZjMldaOW1vT3REa2ptTGJLOVZjTGhqZ3BCQnh1X0ZIVzlqZ1MteTBOMXppbW9YSUpNMkFxMWFaUm1HNzdNWnpqR2JMRjlaMWxzUHNfY3RPY0tBYWxUV1NVUlNCT1N1aE9HQlQwMVQydkpoMl9XUnp2eDY2X3ZNY01ycWMzQnA2TlRab2FPWmNlemhJVEZ5SU5qOFJqOWxNUmdoLUEzcGJYOGNmU2x5VDBsNXkzUG95YnNfTDI?oc=5)
 
