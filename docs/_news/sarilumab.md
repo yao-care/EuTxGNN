@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
@@ -70,6 +70,14 @@ permalink: /news/sarilumab/
 
 ---
 
+### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
+
+2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
+
+---
+
 ### [Ernährung bei COPD: Worauf Betroffene achten sollten | DIE PTA](https://news.google.com/rss/articles/CBMingFBVV95cUxNUkg3cldacWhkTHQzVU1vMTVaX2VDRXI3OGtNTnBHNXB1SGRaX19KTlN5eDVRQlMwREwwZGpZXzBwNC1DX2ZGRzU3cjJVNnZmbGVfN1VORTcxYUpWdU5nMU02VFN3V3U1TldXaGZJQUE4anAzNDFOOXZ2MHFGSGNfRTN1cUNFMVJIT3pQSklyeTlUdFhoMDNxT0VJVmRGQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">copd</span>
@@ -78,11 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+### [Fettleber: Risiko für tödliche Herz-Kreislauf-Erkrankungen vervierfacht](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
 
-2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-08-01 <span class="news-indication-tag">asma</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
 
 ---
 
@@ -91,22 +99,6 @@ permalink: /news/sarilumab/
 2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
----
-
-### [5 aliments qui contribuent à la santé de nos os (outre le lait)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
-
-2026-07-31 <span class="news-indication-tag">arthrite</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
-
----
-
-### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
-2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 ---
 

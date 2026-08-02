@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。9 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>9 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,7 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（9 則）
 
 ### [Teresa Lambe de Oxford impulsa el primer ensayo de una vacuna contra el ébola Bundibugyo - Diario Feminista](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdF9OTWhENmpCR1Vzbzg1ci1JSldsWExVcHZPMGMzT3kwaDduQ1hPdDQxQUZJRXlHel8wUDNUaTdQQ2hvUGlOemxzNmtGVzQ0MDFEamV0VHpRLXBLbFBIVmhsQzVGbjFvVEpZZnNWOGdSdXc4TDlXRExUMy1qTXZjaUp1R2EyQ3psYVAwbmp2QmdBWGJUUTBDU1pQSktzbnNPOFFXQmdJSFlYRlRiREdsdERxRVBnWXJ5VUFQa3o4c2MyZGNzMEpPZ2NvSQ?oc=5)
 
@@ -72,11 +72,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Junk-Food-Hersteller bremsen offenbar Initiativen für gesunde Ernährung, beklagt WHO](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFdhMWczclBYRGVmTWMyRFR1NmJ5UG5sNnRRSnFLOThOWXl2NXQ5d1l6X3Fmakh5c3hqZDBuaHVRb0NPcDgzUC1aYkhUMlYtbHBwSVVTcGVyYTlXVWVTU3pvSW5TaTROSWN6d19ReDgzMFd4Z05GbFN3cjQyVFdkU2tYdGVORlo1NVpSUzlwbHgxdXhmMHhiNVJUcXZNMzFySVZndThmRkJmOERrU0xWWEVsS2hkaHIzeHFqaXFSeWdiTFUzZUR2elU0Q0pkOElMWXB3QlhUcDFLdmIz?oc=5)
+### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
 
 2026-08-02
 
-來源：[spiegel.de](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFdhMWczclBYRGVmTWMyRFR1NmJ5UG5sNnRRSnFLOThOWXl2NXQ5d1l6X3Fmakh5c3hqZDBuaHVRb0NPcDgzUC1aYkhUMlYtbHBwSVVTcGVyYTlXVWVTU3pvSW5TaTROSWN6d19ReDgzMFd4Z05GbFN3cjQyVFdkU2tYdGVORlo1NVpSUzlwbHgxdXhmMHhiNVJUcXZNMzFySVZndThmRkJmOERrU0xWWEVsS2hkaHIzeHFqaXFSeWdiTFUzZUR2elU0Q0pkOElMWXB3QlhUcDFLdmIz?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
 
 ---
 
@@ -96,51 +96,27 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+### [Apnée du sommeil : un implant innovant remboursé pour les cas les plus graves proposé près de Reims](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
 
 2026-08-01
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+來源：[france3-regions.franceinfo.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
 
 ---
 
-### [Apnée du sommeil : un implant innovant remboursé pour les cas les plus graves proposé près de Reims - France 3 Régions](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
+### [S1P-Signalweg stoppt arteriellen Thromboseprozess offenbar ohne erhöhtes Blutungsrisiko - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUZIR1RwQldLWTZfWGg2Y2IyN2xidVBWYWNFMmY1UlZhTE95Sk5VQks4SDlYaGk2bmVYNVExcHJVMmIyaWtUcGhaY1k4NzcyQzF4ZjBMTUM0bDNCdjRqWk5ieXFyWFUyZnRmWTZPVVM1bk9RTFR5emFVcVh5elcwTXpNLVNzXzlnQmdqS2lvRFpENk5QVEF6Mmw0QlBEOVNNdDdPQS1GbHNBVXl0YTVlWmg5eWZVS0Y0VG1DTQ?oc=5)
 
 2026-08-01
 
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUZIR1RwQldLWTZfWGg2Y2IyN2xidVBWYWNFMmY1UlZhTE95Sk5VQks4SDlYaGk2bmVYNVExcHJVMmIyaWtUcGhaY1k4NzcyQzF4ZjBMTUM0bDNCdjRqWk5ieXFyWFUyZnRmWTZPVVM1bk9RTFR5emFVcVh5elcwTXpNLVNzXzlnQmdqS2lvRFpENk5QVEF6Mmw0QlBEOVNNdDdPQS1GbHNBVXl0YTVlWmg5eWZVS0Y0VG1DTQ?oc=5)
 
 ---
 
-### [Current Ebola outbreak worst ever in DR Congo, WHO says](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aE9tOFZVSjlNR1hmUFhMakJEbDFQc0psVV9jRy12MFBzNFhQamxVYmZhZkNvTFlwUnI2Q0wwcEVNaTFtOEJuS0lQZ1h4djFVT3BvVTlvTVFNeTJO?oc=5)
+### [Darmbakterium gegen MS: Neue Studie zeigt Entzündungs-Bremse - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
 
 2026-08-01
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aE9tOFZVSjlNR1hmUFhMakJEbDFQc0psVV9jRy12MFBzNFhQamxVYmZhZkNvTFlwUnI2Q0wwcEVNaTFtOEJuS0lQZ1h4djFVT3BvVTlvTVFNeTJO?oc=5)
-
----
-
-### [Darmbakterium Veillonella ratti senkt Neuroentzündungen bei MS](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUN3ZVBJT1dIcDUwcHVaWHUzODB3WURZaDJrcHJsRGFvYTRXMnA1WVpucjBTTWhTQk1PeW5yWU1pcnhxYng5bTlBMW5XZjFEV25pTnJDQzNUbnlubDlOMmwza1N6UlVGb25KT0Q5NXRVY252b0p0QkRsbWhIRHhRTE8tTy1xbjdQUkpZX0J5RW1TRkxpaWQxLTFoQQ?oc=5)
-
-2026-08-01
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUN3ZVBJT1dIcDUwcHVaWHUzODB3WURZaDJrcHJsRGFvYTRXMnA1WVpucjBTTWhTQk1PeW5yWU1pcnhxYng5bTlBMW5XZjFEV25pTnJDQzNUbnlubDlOMmwza1N6UlVGb25KT0Q5NXRVY252b0p0QkRsbWhIRHhRTE8tTy1xbjdQUkpZX0J5RW1TRkxpaWQxLTFoQQ?oc=5)
-
----
-
-### [S1P-Signalweg bremst Thrombosen im Mausmodell ohne erhöhtes Blutungsrisiko](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
-
-2026-08-01
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
-
----
-
-### [“Qui la paura è uscire in un sacco bianco”: il racconto di un’operatrice MSF dentro il centro Ebola in RD Congo](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUE8tWTdVcEJTOXRSTW95ekxvVjU5ZXZMMkFlcDNYLTByLTlIcEJFVGhIUnFXSGRFdTNOa1JJQWxWWWtiZC1NZHZqcWVLSjBiVURLbG5fcGt1V3Y3RFlPMS1iTzR4MkxQc3VIb09DcmprMkJNN3E4QTBRU3V1TzhwdFZWRlhrcXFyQ3hONGIydGZpQk5zc1QweXdrVEdROWxfTkdWMmR3dFZ6YzFOMDljbmQ3TFZTMlAtVTM1ZmZGN2FHamd3OWJNWTl6aTVNWG84NFpkQWQtbXkwaUtmendEOXVKemRzdw?oc=5)
-
-2026-08-01
-
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUE8tWTdVcEJTOXRSTW95ekxvVjU5ZXZMMkFlcDNYLTByLTlIcEJFVGhIUnFXSGRFdTNOa1JJQWxWWWtiZC1NZHZqcWVLSjBiVURLbG5fcGt1V3Y3RFlPMS1iTzR4MkxQc3VIb09DcmprMkJNN3E4QTBRU3V1TzhwdFZWRlhrcXFyQ3hONGIydGZpQk5zc1QweXdrVEdROWxfTkdWMmR3dFZ6YzFOMDljbmQ3TFZTMlAtVTM1ZmZGN2FHamd3OWJNWTl6aTVNWG84NFpkQWQtbXkwaUtmendEOXVKemRzdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
 
 ---
 
@@ -148,23 +124,7 @@ permalink: /news/multiple-sclerosis/
 
 2026-07-31
 
-來源：[grenzecho.net](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlB6TGpZQmNaOFQ2emlCazZKQzU1V1hZQjBEZkFEMkV1d3RJQk1meV9tU0lwb1h4RHQwNGJOdElNblpJM3pGb3EyXzNIUmJEZFRrb2tmZjdWMzdzaDA2WFZYV1VlWE9lNi1FTkxmWEM3c054dEZPNVFTRE0tVEIwamdMbjZZV3NTcnVmeE1mbm1YTFFoZ1lDOHVUVjJVa0IzLWptb0g2OFpSVk1udG9va3dsZU5MQS14cGdzNklqQkY?oc=5)
-
----
-
-### [Nonmotor Symptoms of Parkinson’s Disease](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzc2M25zNzNybGltLWxzYzVZcGU1bGo2R1hEdnZlYWRpZ0k3cEFQcVRpbmtKZDdDaUVqYkF5ZWtLMzN2dXM4Mmd4cHpvakFLRzN6YnNBajlZc1lnYVpvU3E0LV9KQmFKRGowVXhTYTFYYWZVMjFfRnlzWThCZE96d0EwNTBRb19zb0Zya1BDUQ?oc=5)
-
-2026-07-31
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzc2M25zNzNybGltLWxzYzVZcGU1bGo2R1hEdnZlYWRpZ0k3cEFQcVRpbmtKZDdDaUVqYkF5ZWtLMzN2dXM4Mmd4cHpvakFLRzN6YnNBajlZc1lnYVpvU3E0LV9KQmFKRGowVXhTYTFYYWZVMjFfRnlzWThCZE96d0EwNTBRb19zb0Zya1BDUQ?oc=5)
-
----
-
-### [GP shares two common dementia signs people dismiss as ‘ageing’ - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHpaZE1PREdtaElLU3p1RWFNdGdaNlJYZUtueENGNVdrRmNxN2V2d0xGbHVXcXNYVGhFTTMwTjRHMlVLNTVDUVRudVlGMEpreHRQTkZWTlNZWkd2QVVyTmtIWE5jSTdua0s1NGhRLW5nZ1V6RkpUZzYzTHp5RDhWVlhjZHFnbDTSAYwBQVVfeXFMUEJRVjFRTkpxOUdxUXlGRThwZS1md2daV0VYZGxtMDdMZGpfUFlESWNCZXY3Mm5hcWY4TGtSRTVVekQ4cnF0ZDZHSXdxVHZlVXpLbnFpLXlnVHJZS0pISWg0dnV3ZFl6RHkzMHkyQUdsMUZWQU5BUVlhV19XNHpWajJyVmVWZjA5Y09oRTI?oc=5)
-
-2026-07-31
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHpaZE1PREdtaElLU3p1RWFNdGdaNlJYZUtueENGNVdrRmNxN2V2d0xGbHVXcXNYVGhFTTMwTjRHMlVLNTVDUVRudVlGMEpreHRQTkZWTlNZWkd2QVVyTmtIWE5jSTdua0s1NGhRLW5nZ1V6RkpUZzYzTHp5RDhWVlhjZHFnbDTSAYwBQVVfeXFMUEJRVjFRTkpxOUdxUXlGRThwZS1md2daV0VYZGxtMDdMZGpfUFlESWNCZXY3Mm5hcWY4TGtSRTVVekQ4cnF0ZDZHSXdxVHZlVXpLbnFpLXlnVHJZS0pISWg0dnV3ZFl6RHkzMHkyQUdsMUZWQU5BUVlhV19XNHpWajJyVmVWZjA5Y09oRTI?oc=5)
+來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlB6TGpZQmNaOFQ2emlCazZKQzU1V1hZQjBEZkFEMkV1d3RJQk1meV9tU0lwb1h4RHQwNGJOdElNblpJM3pGb3EyXzNIUmJEZFRrb2tmZjdWMzdzaDA2WFZYV1VlWE9lNi1FTkxmWEM3c054dEZPNVFTRE0tVEIwamdMbjZZV3NTcnVmeE1mbm1YTFFoZ1lDOHVUVjJVa0IzLWptb0g2OFpSVk1udG9va3dsZU5MQS14cGdzNklqQkY?oc=5)
 
 ---
 

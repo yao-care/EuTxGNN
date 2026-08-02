@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Ictus, la stimolazione del cervelletto apre una nuova strada per il recupero: «Così aumentiamo la plasticità del cervello» - Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxPMWtDdC1HUW84cEJ4czZtcmVkaVZBdzl1dXMxS3IxdFU4aTh4aHNwOUNkbE9aWEdBREMyMHBfOEI5QnV6NWV0RWpLbFBqQ2J3Snp5UFM1czVDVEpYYVFIcjBqX0J3WHdBZVc5U3htMGFQWEVYVFZQYjlIREZoZktuTi1GeUdaTGJoOGhQanduaTlpbEJ1dVNydF9YWkYxMkR2bHZCOFZpRDRvNGtHTnhiTGRqbDFscmhIYkFYNXc0UGFrc0VSNXNFbWFhdHFDa0U1cmE1clgtZy1JVGpESzAzb0NmMGZFdnBUVVl2VWVlaHFxbVFNajhUOVN5UXlyX3FsR3l6bVNNWnBfUUdMeUpwWmF6Y2t2MUh2eWI3N3kwZHIxcVotNEUyOTk3RUxqd0lFMmZOSzFrTnYzaFJuOUNr0gHEAkFVX3lxTFBfX1hnZUItV0Jjb2FMMnltVDQzc1pOdGZral9PSERRSVVGb0VWbktMakRCS05sdVVicUhwQU5BbTIzWEUxSDh5Wkk5bGZ1eHNfd05BT0dTN0lsUkZjcE1nZ1RrQ2hDWGdWRFF3enVGd05KWVNvZVh5dEluZ2thbWdfcXR0WVZtMC0xZHMyQXBWSDljUFpBT2pHRzFIWkZNT2JEdTZlNTI0TzU1UFp3NDA5QjE4VGdhNF93NkV1djA4Z2s1Wkp3VWNhWm52eUZoWFF5WVljbXJiLV9mLTB1a0tqS2pqcE9SYU96S3R5eWtpT2VLMGRzZmFDX0Ewb0pWc0haOTRvZHZuYWlMaEdtRmdGN0hHV1ZGb3F6ODU4VzhmU3YxWG1xeHY4VlV3a051cWJiUUdJRUFyRE9iczZvYXQ5bEtVVg?oc=5)
 
@@ -70,27 +70,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39%](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
-
----
-
 ### [Hypertension artérielle : les défis du dépistage et de la continuité des soins - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
 
-2026-08-01 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-08-01 <span class="news-indication-tag">hypertension</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
-
----
-
-### [Vorzeitige Menopause: 22,6% höheres Bluthochdruckrisiko belegt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
 
 ---
 

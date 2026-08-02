@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [La 'cara Ozempic': el efecto de los medicamentos para adelgazar que está llenando las consultas de dermatología](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZDcyU3FjbDNoMlJDSU1TeWdxQnBzSERFWE5DQUdUazBJZnVRakVWZWh6ZWFFSDNNVlJOU3A2RVpzdlptOF9ESGdIN0xISDN1dy1YbEtuTVpLZFNRWks5VlpmbHZGQUoyb3h5d3JDcVVhZG1oZ2R2a0VRR2NodG9RMGZWLUNlSlhPV3hRblFQcUZCeFdRXzJ5LXNhQ0JiQk44YzhjOWNoQV9aRzF2LVZJM0s3cjc5NHBUNThOLWZVUmVEM0VIR241ZWZBRmkzZDYyenVGRGdlTXVXY3RweUZfcWpB?oc=5)
+### [Ballaststoffe: Harvard-Studie belegt 33 % Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
 
-2026-08-02 <span class="news-drug-tag">Semaglutide</span>
+2026-08-02 <span class="news-indication-tag">diabetes</span>
 
-來源：[Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZDcyU3FjbDNoMlJDSU1TeWdxQnBzSERFWE5DQUdUazBJZnVRakVWZWh6ZWFFSDNNVlJOU3A2RVpzdlptOF9ESGdIN0xISDN1dy1YbEtuTVpLZFNRWks5VlpmbHZGQUoyb3h5d3JDcVVhZG1oZ2R2a0VRR2NodG9RMGZWLUNlSlhPV3hRblFQcUZCeFdRXzJ5LXNhQ0JiQk44YzhjOWNoQV9aRzF2LVZJM0s3cjc5NHBUNThOLWZVUmVEM0VIR241ZWZBRmkzZDYyenVGRGdlTXVXY3RweUZfcWpB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
 
 ---
 
-### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
+### [¿Los huevos tienen el mismo efecto que el Ozempic? Boticaria García lo aclara - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlIta0dzSDhMNWtaUWpISlhLM0tEWTVMV2hHN25mM3JieVk5SjdkT2VTdGZENDR5Z25fZWhWYXNHVW5BZ2FXU2dfY1RSb2h4N1g5bTBKeFpuRzdySFFfMEhHV2dDX3gwRU0ydnJUVHJPUnlGeXFsY1V1a2hwelRHYl9oU1dnM3NHQ3dSV2tuX2NrSFduSXlmRWlqUHVQOWhHcTFybXJTeVR0NExWVW9r?oc=5)
 
-2026-08-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
+2026-08-02 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
+來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlIta0dzSDhMNWtaUWpISlhLM0tEWTVMV2hHN25mM3JieVk5SjdkT2VTdGZENDR5Z25fZWhWYXNHVW5BZ2FXU2dfY1RSb2h4N1g5bTBKeFpuRzdySFFfMEhHV2dDX3gwRU0ydnJUVHJPUnlGeXFsY1V1a2hwelRHYl9oU1dnM3NHQ3dSV2tuX2NrSFduSXlmRWlqUHVQOWhHcTFybXJTeVR0NExWVW9r?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/semaglutide/
 2026-08-01 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
-
----
-
-### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
-
-2026-08-01 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 ---
 

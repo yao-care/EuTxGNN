@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（3 則）
 
 ### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
 
@@ -70,43 +70,11 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39%](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
-
----
-
 ### [Hypertension artérielle : les défis du dépistage et de la continuité des soins - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
 
-2026-08-01 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-08-01 <span class="news-indication-tag">hypertension</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
-
----
-
-### [Vorzeitige Menopause: 22,6% höheres Bluthochdruckrisiko belegt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
-
----
-
-### [5 aliments qui contribuent à la santé de nos os (outre le lait)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
-
-2026-07-31 <span class="news-indication-tag">arthrite</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
-
----
-
-### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
-2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="Entecavir 有什麼相關新聞？">
-<strong>Entecavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entecavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/entecavir/
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [El Niño, hepatitis y cambio climático: la conexión invisible que puede enfermar a comunidades enteras - Meteored España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRE5XMWtFLVVkQmpYdFRMakM5TE1YNE12VmdIX0Rud0x0WWFiZFlpdEFUOVoxZExkNnozR0hWeHM1NmltUlp2eTVVTWdQOXM4M0NqcFRWY2NhQnlTYXBJS1YtRGw0ejVPd0J2N2dOaURhdDhrdDRpdjBsdW1lWEo0cHhjWDE5NHpnYnR1eWgzeFFpQ29CMXI0bWlpTS1WLWRWN0gxaUFwQTJZanNMU3Rhbkw1bEtPN05jblQyTDBwWUFENWs?oc=5)
-
-2026-08-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Meteored España](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRE5XMWtFLVVkQmpYdFRMakM5TE1YNE12VmdIX0Rud0x0WWFiZFlpdEFUOVoxZExkNnozR0hWeHM1NmltUlp2eTVVTWdQOXM4M0NqcFRWY2NhQnlTYXBJS1YtRGw0ejVPd0J2N2dOaURhdDhrdDRpdjBsdW1lWEo0cHhjWDE5NHpnYnR1eWgzeFFpQ29CMXI0bWlpTS1WLWRWN0gxaUFwQTJZanNMU3Rhbkw1bEtPN05jblQyTDBwWUFENWs?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [La gallega Sabela Lens lidera el cambio de rumbo de la hepatitis D en España: «Ha estado completamente olvidada» - La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
 

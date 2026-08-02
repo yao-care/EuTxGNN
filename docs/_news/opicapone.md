@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="Opicapone 有什麼相關新聞？">
-<strong>Opicapone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Opicapone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,13 @@ permalink: /news/opicapone/
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Javier Blesa, neurocientífico de CINAC "Nuestro objetivo es curar la enfermedad de Parkinson"](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGo1MGNtTDV1SnE1Z3d0NUpLcDlMSVFGLWV4X3lucU5ORnFMaDgyN1pmMnI5Y0FvMDljRGpIcmtta3lGWUMtZm1DYXRDU1Z6MDUxLURZaVhKNWpXU09STkRoVXFTbWRMS3NpRXR6dXRySHNDODlxS0lOczdWRlE5VllpVkVOX1VPOHdPMU42dFFJamJHMTNOVS0tSklWbEREcTlzZUNCTVd6YS01dnR0OTdTQ1VOdEJIMFIyclo2SVNUZzhWQXRhX1ZjUXk1UmJ4cDJ2WU9HOElTYlJmQ0hUR0RWUQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">enfermedad de Parkinson</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGo1MGNtTDV1SnE1Z3d0NUpLcDlMSVFGLWV4X3lucU5ORnFMaDgyN1pmMnI5Y0FvMDljRGpIcmtta3lGWUMtZm1DYXRDU1Z6MDUxLURZaVhKNWpXU09STkRoVXFTbWRMS3NpRXR6dXRySHNDODlxS0lOczdWRlE5VllpVkVOX1VPOHdPMU42dFFJamJHMTNOVS0tSklWbEREcTlzZUNCTVd6YS01dnR0OTdTQ1VOdEJIMFIyclo2SVNUZzhWQXRhX1ZjUXk1UmJ4cDJ2WU9HOElTYlJmQ0hUR0RWUQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Vitamin D: Hohe Spiegel reduzieren Tau-Protein-Ablagerungen im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
 
 2026-08-02 <span class="news-indication-tag">Alzheimer-Krankheit</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
-
----
-
-### [Alzheimer : "Il n'y a pas de révolution" Ce qu'il faut vraiment retenir de la découverte japonaise sur la "graine" qui serait à l'origine de la maladie](https://news.google.com/rss/articles/CBMimwJBVV95cUxQUF94OElYOXlmSHhaeWdIeGVOSUF6TFRQRzJOVnFaUUlDVTd5bmNzQy1sMUQ1bjFsNy1SRGZIZzNVQlIwUDZ3ZlZnckdmekhTVDNRbkZyVHBhUVRFbTR0a0JqeEJpRmhXMW41bFVoYlYwR3R6UllWM1hUSEFncXQtdlc5UmNBbjRoVHJpN2JlX21xdk81aFlXV25wemZSSEFIQXl6M19HVzd4YWd1bWtsOUk2aTZZVVU3TmZmVkZ3MlZNNmV3VzFXZGtsUEg0ZllxbmNSZHhlQS1zR1hrUE5reDVnUmNLR2VmOG1Sc0pHWVRQamUzR0d4NGpfRDBjelVEa3cxU0NWQWdORHMzUE1ZUGdtbTVfYU1aaERZ?oc=5)
-
-2026-08-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimwJBVV95cUxQUF94OElYOXlmSHhaeWdIeGVOSUF6TFRQRzJOVnFaUUlDVTd5bmNzQy1sMUQ1bjFsNy1SRGZIZzNVQlIwUDZ3ZlZnckdmekhTVDNRbkZyVHBhUVRFbTR0a0JqeEJpRmhXMW41bFVoYlYwR3R6UllWM1hUSEFncXQtdlc5UmNBbjRoVHJpN2JlX21xdk81aFlXV25wemZSSEFIQXl6M19HVzd4YWd1bWtsOUk2aTZZVVU3TmZmVkZ3MlZNNmV3VzFXZGtsUEg0ZllxbmNSZHhlQS1zR1hrUE5reDVnUmNLR2VmOG1Sc0pHWVRQamUzR0d4NGpfRDBjelVEa3cxU0NWQWdORHMzUE1ZUGdtbTVfYU1aaERZ?oc=5)
-
----
-
-### [Scientists Link Heavy TV Watching to Brain Changes Decades Later](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDVkMlVDZjMtOVdaOXQyaUs4MmhKWGZxYnNEVnF3bjQ0ZVhwUXdZamFoQ1hmbHBVZnNKenF1UUkwazM0ekViNnAweTlOMzBOdTlSM2g4eWtCXzJtbG9FRVhQbDVCamNBY1pGb3R5a19oLUhFMDNNN2x1WjVXZ0xZdncyOTY2akhENTJoTTJBU3MtOHNR?oc=5)
-
-2026-07-31 <span class="news-indication-tag">dementia</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDVkMlVDZjMtOVdaOXQyaUs4MmhKWGZxYnNEVnF3bjQ0ZVhwUXdZamFoQ1hmbHBVZnNKenF1UUkwazM0ekViNnAweTlOMzBOdTlSM2g4eWtCXzJtbG9FRVhQbDVCamNBY1pGb3R5a19oLUhFMDNNN2x1WjVXZ0xZdncyOTY2akhENTJoTTJBU3MtOHNR?oc=5)
-
----
-
-### [GP shares two common dementia signs people dismiss as ‘ageing’ - Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHpaZE1PREdtaElLU3p1RWFNdGdaNlJYZUtueENGNVdrRmNxN2V2d0xGbHVXcXNYVGhFTTMwTjRHMlVLNTVDUVRudVlGMEpreHRQTkZWTlNZWkd2QVVyTmtIWE5jSTdua0s1NGhRLW5nZ1V6RkpUZzYzTHp5RDhWVlhjZHFnbDTSAYwBQVVfeXFMUEJRVjFRTkpxOUdxUXlGRThwZS1md2daV0VYZGxtMDdMZGpfUFlESWNCZXY3Mm5hcWY4TGtSRTVVekQ4cnF0ZDZHSXdxVHZlVXpLbnFpLXlnVHJZS0pISWg0dnV3ZFl6RHkzMHkyQUdsMUZWQU5BUVlhV19XNHpWajJyVmVWZjA5Y09oRTI?oc=5)
-
-2026-07-31 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Daily Record](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHpaZE1PREdtaElLU3p1RWFNdGdaNlJYZUtueENGNVdrRmNxN2V2d0xGbHVXcXNYVGhFTTMwTjRHMlVLNTVDUVRudVlGMEpreHRQTkZWTlNZWkd2QVVyTmtIWE5jSTdua0s1NGhRLW5nZ1V6RkpUZzYzTHp5RDhWVlhjZHFnbDTSAYwBQVVfeXFMUEJRVjFRTkpxOUdxUXlGRThwZS1md2daV0VYZGxtMDdMZGpfUFlESWNCZXY3Mm5hcWY4TGtSRTVVekQ4cnF0ZDZHSXdxVHZlVXpLbnFpLXlnVHJZS0pISWg0dnV3ZFl6RHkzMHkyQUdsMUZWQU5BUVlhV19XNHpWajJyVmVWZjA5Y09oRTI?oc=5)
 
 ---
 

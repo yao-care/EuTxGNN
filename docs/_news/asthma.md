@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
 2026-08-02
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+
+---
+
+### [Fettleber: Risiko für tödliche Herz-Kreislauf-Erkrankungen vervierfacht](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
+
+2026-08-01
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Ictus, la stimolazione del cervelletto apre una nuova strada per il recupero: «Così aumentiamo la plasticità del cervello» - Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxPMWtDdC1HUW84cEJ4czZtcmVkaVZBdzl1dXMxS3IxdFU4aTh4aHNwOUNkbE9aWEdBREMyMHBfOEI5QnV6NWV0RWpLbFBqQ2J3Snp5UFM1czVDVEpYYVFIcjBqX0J3WHdBZVc5U3htMGFQWEVYVFZQYjlIREZoZktuTi1GeUdaTGJoOGhQanduaTlpbEJ1dVNydF9YWkYxMkR2bHZCOFZpRDRvNGtHTnhiTGRqbDFscmhIYkFYNXc0UGFrc0VSNXNFbWFhdHFDa0U1cmE1clgtZy1JVGpESzAzb0NmMGZFdnBUVVl2VWVlaHFxbVFNajhUOVN5UXlyX3FsR3l6bVNNWnBfUUdMeUpwWmF6Y2t2MUh2eWI3N3kwZHIxcVotNEUyOTk3RUxqd0lFMmZOSzFrTnYzaFJuOUNr0gHEAkFVX3lxTFBfX1hnZUItV0Jjb2FMMnltVDQzc1pOdGZral9PSERRSVVGb0VWbktMakRCS05sdVVicUhwQU5BbTIzWEUxSDh5Wkk5bGZ1eHNfd05BT0dTN0lsUkZjcE1nZ1RrQ2hDWGdWRFF3enVGd05KWVNvZVh5dEluZ2thbWdfcXR0WVZtMC0xZHMyQXBWSDljUFpBT2pHRzFIWkZNT2JEdTZlNTI0TzU1UFp3NDA5QjE4VGdhNF93NkV1djA4Z2s1Wkp3VWNhWm52eUZoWFF5WVljbXJiLV9mLTB1a0tqS2pqcE9SYU96S3R5eWtpT2VLMGRzZmFDX0Ewb0pWc0haOTRvZHZuYWlMaEdtRmdGN0hHV1ZGb3F6ODU4VzhmU3YxWG1xeHY4VlV3a051cWJiUUdJRUFyRE9iczZvYXQ5bEtVVg?oc=5)
 
 2026-08-02 <span class="news-indication-tag">ictus</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxPMWtDdC1HUW84cEJ4czZtcmVkaVZBdzl1dXMxS3IxdFU4aTh4aHNwOUNkbE9aWEdBREMyMHBfOEI5QnV6NWV0RWpLbFBqQ2J3Snp5UFM1czVDVEpYYVFIcjBqX0J3WHdBZVc5U3htMGFQWEVYVFZQYjlIREZoZktuTi1GeUdaTGJoOGhQanduaTlpbEJ1dVNydF9YWkYxMkR2bHZCOFZpRDRvNGtHTnhiTGRqbDFscmhIYkFYNXc0UGFrc0VSNXNFbWFhdHFDa0U1cmE1clgtZy1JVGpESzAzb0NmMGZFdnBUVVl2VWVlaHFxbVFNajhUOVN5UXlyX3FsR3l6bVNNWnBfUUdMeUpwWmF6Y2t2MUh2eWI3N3kwZHIxcVotNEUyOTk3RUxqd0lFMmZOSzFrTnYzaFJuOUNr0gHEAkFVX3lxTFBfX1hnZUItV0Jjb2FMMnltVDQzc1pOdGZral9PSERRSVVGb0VWbktMakRCS05sdVVicUhwQU5BbTIzWEUxSDh5Wkk5bGZ1eHNfd05BT0dTN0lsUkZjcE1nZ1RrQ2hDWGdWRFF3enVGd05KWVNvZVh5dEluZ2thbWdfcXR0WVZtMC0xZHMyQXBWSDljUFpBT2pHRzFIWkZNT2JEdTZlNTI0TzU1UFp3NDA5QjE4VGdhNF93NkV1djA4Z2s1Wkp3VWNhWm52eUZoWFF5WVljbXJiLV9mLTB1a0tqS2pqcE9SYU96S3R5eWtpT2VLMGRzZmFDX0Ewb0pWc0haOTRvZHZuYWlMaEdtRmdGN0hHV1ZGb3F6ODU4VzhmU3YxWG1xeHY4VlV3a051cWJiUUdJRUFyRE9iczZvYXQ5bEtVVg?oc=5)
-
----
-
-### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
-
-2026-08-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 ---
 
