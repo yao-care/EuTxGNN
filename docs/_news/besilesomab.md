@@ -14,7 +14,7 @@ permalink: /news/besilesomab/
 ---
 
 <p class="key-answer" data-question="Besilesomab 有什麼相關新聞？">
-<strong>Besilesomab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Besilesomab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/besilesomab/
 <p><a href="{{ '/drugs/besilesomab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [La cataratta non è solo vecchiaia: il segnale che arriva dal diabete](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
 
@@ -62,19 +62,11 @@ permalink: /news/besilesomab/
 
 ---
 
-### [Nährstoffdichte statt Verarbeitungsgrad: Studie zu Herz und Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
+### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
-
----
-
-### [La disfunzione erettile può nascondere altri problemi di salute: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">diabete</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 ---
 

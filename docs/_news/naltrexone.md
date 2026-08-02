@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
+### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 2026-08-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
-
----
-
-### [El mercado contra la obesidad sigue ganando peso al ritmo imparable de los GLP-1 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 ---
 

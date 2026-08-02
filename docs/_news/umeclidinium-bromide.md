@@ -58,7 +58,7 @@ permalink: /news/umeclidinium-bromide/
 
 2026-08-01 <span class="news-indication-tag">Migräne</span>
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+來源：[stern.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
 
 ---
 

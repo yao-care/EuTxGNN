@@ -14,7 +14,7 @@ permalink: /news/dostarlimab/
 ---
 
 <p class="key-answer" data-question="Dostarlimab 有什麼相關新聞？">
-<strong>Dostarlimab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dostarlimab</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/dostarlimab/
 <p><a href="{{ '/drugs/dostarlimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（20 則）
+
+### [Empfehlung der WHO: Soziale Aktivitäten schützen vor Demenz - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlY0WmVJN1prcWFiT3p0a1hCeWtONFkzZ3FhSU9BR1dsX0hlNmJVMmdoT3VLWnRtZUU4OVJXQTZwc1QxMU8tTUJRNWw3VkViQW1IVUZJdzl5WGd3cHRoaGFpN2tQakgzdFhLX0UtVVVlRzJDdnJ6MmdRWnVudzNJUXhMMGdWVFpBekZueFhmTHhiSm1Fem5mUUdITmlUbnFfalRHVmg5NmZYRHpFMEdTY29FNmltVGI3cmswNUdmb281RXNyZEtZMlNXR00?oc=5)
+
+2026-08-02 <span class="news-indication-tag">AF</span>
+
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMizAFBVV95cUxQVlY0WmVJN1prcWFiT3p0a1hCeWtONFkzZ3FhSU9BR1dsX0hlNmJVMmdoT3VLWnRtZUU4OVJXQTZwc1QxMU8tTUJRNWw3VkViQW1IVUZJdzl5WGd3cHRoaGFpN2tQakgzdFhLX0UtVVVlRzJDdnJ6MmdRWnVudzNJUXhMMGdWVFpBekZueFhmTHhiSm1Fem5mUUdITmlUbnFfalRHVmg5NmZYRHpFMEdTY29FNmltVGI3cmswNUdmb281RXNyZEtZMlNXR00?oc=5)
+
+---
+
+### [Schlafstörungen: TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTZmZkFxdWQ0Y1padzhteGtjOG1kVWNHTGVKNF9rWGx6NGpZU3hfR3hpNnlBTF9XX0ktOFlSY3dHbThOTW4wbkRRSnVTWElxOXVVbmNFTnJMZ0V4Vk44am1ud1N5LW04ejc3T0liRWNrRHZTbnZXRGl0VG91OXNRV0s4cHIxRGdKUHFzQTRoRDBoaG1DUHZ0azhTaGlBNXJOUVFkemhsMHJVUnRTLVJoaw?oc=5)
+
+2026-08-02 <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTZmZkFxdWQ0Y1padzhteGtjOG1kVWNHTGVKNF9rWGx6NGpZU3hfR3hpNnlBTF9XX0ktOFlSY3dHbThOTW4wbkRRSnVTWElxOXVVbmNFTnJMZ0V4Vk44am1ud1N5LW04ejc3T0liRWNrRHZTbnZXRGl0VG91OXNRV0s4cHIxRGdKUHFzQTRoRDBoaG1DUHZ0azhTaGlBNXJOUVFkemhsMHJVUnRTLVJoaw?oc=5)
+
+---
 
 ### [Kardiologen nennen die sichere Tagesgrenze für Kaffee - Forschung und Wissen](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHJobkRQVE9ZRFBYdk9STkRCUndCTHNzLTJUZkI2M0xJcW03X0xiWUxjalltSkU4aENIMzRnSm5aMWVDTXpYUXBvLUdvNzhBeXBLc0pBdjdGOFFGLVUtY05MQzcxVVFXODlRRWZicmViU0Zmb2VEQ20wN2JqRFFFREpLZ2o2TEdScDhYcjF4RUNHcTJvNk9oUHdyMFA3eHpJSGdrd2thSmpyaHpLRUZXZHdvd2VtekFVRUtFaA?oc=5)
 
@@ -86,11 +102,27 @@ permalink: /news/dostarlimab/
 
 ---
 
+### [Caldo in gravidanza: quando l’afa diventa un rischio e quali segnali non ignorare](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWTA5ZVFXV0ZUcS1IbEU3TXN1SVYtX3hGdjFrdDZCNGYzX1FzZnAxd211bDBUaVByWkdSTXRmTmJ6SHdEdGcwOWROQ0VfVzd0UFEzVU1nb2dkdDFIbmJiMDdWSzZaRUNoWjRtZ1ZrUTBEZ00xOUpqNVFHbzFuUW9RRlAwZDBldFg5XzQyYWdUQWZfR3phZEZJSmpEaEtTc0tNQlVCTldhdGFKTlJDQUpaMkoxaWl6LUk4bUdoYm91R1RmYnlNVW1sREdR?oc=5)
+
+2026-08-01 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWTA5ZVFXV0ZUcS1IbEU3TXN1SVYtX3hGdjFrdDZCNGYzX1FzZnAxd211bDBUaVByWkdSTXRmTmJ6SHdEdGcwOWROQ0VfVzd0UFEzVU1nb2dkdDFIbmJiMDdWSzZaRUNoWjRtZ1ZrUTBEZ00xOUpqNVFHbzFuUW9RRlAwZDBldFg5XzQyYWdUQWZfR3phZEZJSmpEaEtTc0tNQlVCTldhdGFKTlJDQUpaMkoxaWl6LUk4bUdoYm91R1RmYnlNVW1sREdR?oc=5)
+
+---
+
 ### [Crece la resistencia de la 'Helicobacter pylori' a los antibióticos más usados - Andalucía Información](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTJNTU55TWJZMjRMODZlZklYUFNLNWl2VzVjLVpFWFY4bmRhSU4yT2stNHl1Tng0WWh0S0dkNlVRcXhVcURUQUwyLS10RjNQU09aZVJ5WkREUUhPWERIVHBCVXlxVUxtWHp6bS12SFM4dERzT1BUaWdaMVpTUzkySHhrM0xpOVM3ZDMyb1VaY1JvRlRNZXBBUUlnajlvZWtXVDhadjV0Umd4dlRqcW9hU3JsMi1kUzdlZ1hFd1MtQ2NqSUZwTVFjS0RVLXRJQ3U5LTF4cE01ONIB3AFBVV95cUxPRXMxRmZhRHlWRG1kTWNrbEtXTTQyLUFydEZ1MUk5RkJabDNCUVFnX1NwT1Vkai04SkxidlhuMG0wVklXWkhyTGRrUGRZQ1dfSUY3MXRYckc2eHZtSVBFTk94MUlsazcwTlF5NGEyOGdjb0xFTGZrNjllTGJkMmRfNGhPUThjZkFIaU5zV0t5dEYzQ0UyYXBrSE8ySEw5WmZuaWpfbEJGdTRDSFFRSUlGYXFwUUxXVzdYejFaSml0dDdOTnNKWmFvREdBSlhYT3czaW5YdThEd1BDM3dZ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">AF</span>
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTJNTU55TWJZMjRMODZlZklYUFNLNWl2VzVjLVpFWFY4bmRhSU4yT2stNHl1Tng0WWh0S0dkNlVRcXhVcURUQUwyLS10RjNQU09aZVJ5WkREUUhPWERIVHBCVXlxVUxtWHp6bS12SFM4dERzT1BUaWdaMVpTUzkySHhrM0xpOVM3ZDMyb1VaY1JvRlRNZXBBUUlnajlvZWtXVDhadjV0Umd4dlRqcW9hU3JsMi1kUzdlZ1hFd1MtQ2NqSUZwTVFjS0RVLXRJQ3U5LTF4cE01ONIB3AFBVV95cUxPRXMxRmZhRHlWRG1kTWNrbEtXTTQyLUFydEZ1MUk5RkJabDNCUVFnX1NwT1Vkai04SkxidlhuMG0wVklXWkhyTGRrUGRZQ1dfSUY3MXRYckc2eHZtSVBFTk94MUlsazcwTlF5NGEyOGdjb0xFTGZrNjllTGJkMmRfNGhPUThjZkFIaU5zV0t5dEYzQ0UyYXBrSE8ySEw5WmZuaWpfbEJGdTRDSFFRSUlGYXFwUUxXVzdYejFaSml0dDdOTnNKWmFvREdBSlhYT3czaW5YdThEd1BDM3dZ?oc=5)
+
+---
+
+### [Caldo torrido, mente sotto pressione: l’estate può agitarti più di quanto pensi](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXNJWHhRaU81NTlHalF4YlpJa0g1eGNwVVQ1SmxRTVlISllBZ1pnRk9Ea1E3dkhBdVI0OURrSUxYNDRSaDNJWEhoZDY2TVVvYlk4aVVVMUtzYk5NRlpOaTg1cU54NGZ3UGR3dkx3eTVCbW93VThDMmUxMGFYRGZaeXNKTWNNQ1ZuQnY4LU12S1hrQnlxLXJwdFpQMGgxMTBqM2NhUHJwTVJWajZWYWNESHdfb0ptQy1oZnktY2R2OUFTX04xVEE?oc=5)
+
+2026-08-01 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXNJWHhRaU81NTlHalF4YlpJa0g1eGNwVVQ1SmxRTVlISllBZ1pnRk9Ea1E3dkhBdVI0OURrSUxYNDRSaDNJWEhoZDY2TVVvYlk4aVVVMUtzYk5NRlpOaTg1cU54NGZ3UGR3dkx3eTVCbW93VThDMmUxMGFYRGZaeXNKTWNNQ1ZuQnY4LU12S1hrQnlxLXJwdFpQMGgxMTBqM2NhUHJwTVJWajZWYWNESHdfb0ptQy1oZnktY2R2OUFTX04xVEE?oc=5)
 
 ---
 
@@ -102,19 +134,19 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Gehirn ab 50: KI-gestützter Einzelzell-Atlas zeigt Verlust schützender Immunzellen - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
+### [S1P-Signalweg bremst Thrombosen im Mausmodell ohne erhöhtes Blutungsrisiko](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
 
-2026-08-01 <span class="news-indication-tag">AF</span>
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
 
 ---
 
-### [Cosa non bere con il caldo: dai cocktail alla crema caffè, le 5 bevande sconsigliate in estate](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVdlRmlRTlRaYnJrUkZOUnJkNzJYZllXLVJqUllYOGxDaTNvMkN3X3ZjVnQtVHpGQ1RQN2NmQ2pnUlZvdU1mUHlvbE8xenRTNXZxekdWMkpicUtDdG51aG40eXRjcHBwSnM5UkxZS1h1YVZZb3NibEg0VzlicThtSUx2VExjYmI3aHc5SV9TZGI4Q3hFTXRyTGJfVHktZDhhM2UyemhTSHhkOGtuWktFcGRVdnRzdUI4eTNyLTRHbnRndUk2aE56OXBOMkdfbV96Y3ljRlZiMA?oc=5)
+### [Gehirn ab 50: KI-gestützter Einzelzell-Atlas zeigt Verlust schützender Immunzellen](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">AF</span>
 
-來源：[Fanpage](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVdlRmlRTlRaYnJrUkZOUnJkNzJYZllXLVJqUllYOGxDaTNvMkN3X3ZjVnQtVHpGQ1RQN2NmQ2pnUlZvdU1mUHlvbE8xenRTNXZxekdWMkpicUtDdG51aG40eXRjcHBwSnM5UkxZS1h1YVZZb3NibEg0VzlicThtSUx2VExjYmI3aHc5SV9TZGI4Q3hFTXRyTGJfVHktZDhhM2UyemhTSHhkOGtuWktFcGRVdnRzdUI4eTNyLTRHbnRndUk2aE56OXBOMkdfbV96Y3ljRlZiMA?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
 
 ---
 
@@ -126,11 +158,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Au petit déjeuner, en collation ou avec le café, cette boisson booste la perte de poids après 50 ans - Journal des Femmes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNE02WmtDVkF3d3VoY0d5anFnMzBBMWkzN05tU0FJbkdyN1hQSjRBbDhKWEFYWWdBeG1nRlA4WllPYXE2TnNtUUNmZkg2UmgwNDN4VVgzeGFSSjUtUjZUcWEzWUpxc1Q4RDQ3LUVNQ1JlbDEwczRKVm9OSGFsVzZHMVRlY0pSekJyQlRheXdJVVlsSjlTbzlYMjdJV29vTWhXcFJ6R0VxTHVBWGFRMFh6ZTRPTEJJRER0OVdfVkxNNm1ubjNDb081S2dXQ3hIZXpKYTJJejNadDRkUzlGbi1jWVJZSGtBYk5ma0ludGRma0VGdGJOY3c?oc=5)
+### [Au petit déjeuner, en collation ou avec le café, cette boisson booste la perte de poids après 50 ans](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNE02WmtDVkF3d3VoY0d5anFnMzBBMWkzN05tU0FJbkdyN1hQSjRBbDhKWEFYWWdBeG1nRlA4WllPYXE2TnNtUUNmZkg2UmgwNDN4VVgzeGFSSjUtUjZUcWEzWUpxc1Q4RDQ3LUVNQ1JlbDEwczRKVm9OSGFsVzZHMVRlY0pSekJyQlRheXdJVVlsSjlTbzlYMjdJV29vTWhXcFJ6R0VxTHVBWGFRMFh6ZTRPTEJJRER0OVdfVkxNNm1ubjNDb081S2dXQ3hIZXpKYTJJejNadDRkUzlGbi1jWVJZSGtBYk5ma0ludGRma0VGdGJOY3c?oc=5)
 
 2026-08-01 <span class="news-indication-tag">AF</span>
 
-來源：[Journal des Femmes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNE02WmtDVkF3d3VoY0d5anFnMzBBMWkzN05tU0FJbkdyN1hQSjRBbDhKWEFYWWdBeG1nRlA4WllPYXE2TnNtUUNmZkg2UmgwNDN4VVgzeGFSSjUtUjZUcWEzWUpxc1Q4RDQ3LUVNQ1JlbDEwczRKVm9OSGFsVzZHMVRlY0pSekJyQlRheXdJVVlsSjlTbzlYMjdJV29vTWhXcFJ6R0VxTHVBWGFRMFh6ZTRPTEJJRER0OVdfVkxNNm1ubjNDb081S2dXQ3hIZXpKYTJJejNadDRkUzlGbi1jWVJZSGtBYk5ma0ludGRma0VGdGJOY3c?oc=5)
+來源：[journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNE02WmtDVkF3d3VoY0d5anFnMzBBMWkzN05tU0FJbkdyN1hQSjRBbDhKWEFYWWdBeG1nRlA4WllPYXE2TnNtUUNmZkg2UmgwNDN4VVgzeGFSSjUtUjZUcWEzWUpxc1Q4RDQ3LUVNQ1JlbDEwczRKVm9OSGFsVzZHMVRlY0pSekJyQlRheXdJVVlsSjlTbzlYMjdJV29vTWhXcFJ6R0VxTHVBWGFRMFh6ZTRPTEJJRER0OVdfVkxNNm1ubjNDb081S2dXQ3hIZXpKYTJJejNadDRkUzlGbi1jWVJZSGtBYk5ma0ludGRma0VGdGJOY3c?oc=5)
 
 ---
 
@@ -142,11 +174,11 @@ permalink: /news/dostarlimab/
 
 ---
 
-### [Alzheimer: Forscher identifizieren Zelltod-Schalter NMDA-TRPM4](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+### [Alzheimer: Forscher identifizieren Zelltod-Schalter NMDA-TRPM4 - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
 
-2026-07-31 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">AF</span>
+2026-07-31 <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
 
 ---
 
@@ -179,46 +211,6 @@ permalink: /news/dostarlimab/
 2026-07-31 <span class="news-indication-tag">AF</span>
 
 來源：[WiWo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUd3cjZRMXZMdjlUMnduWmtwWTB5dWRLMDVONi1LSzRUcXpmVWxUSDBfY1JOMkNaUl9pYU9VUVFyWlJVM3dhZmJINW5rLU9mWDRGOWRoYzBpWFFDRjVJRWFzcFBNOHN4TTJ6RGNQRkdQZndvUktZcGExcWJSTjMwSEZhNWxrdjhReFVzTDVaeUNHTjFQd0dQV2dlVndlMHJ3d3VSc29BZVRhYXFUU0NSeTdOUlh5YWR4ZkdmckU3ZS1kcGdSWk9KS3hMckZGSzNPWERHU3MxYw?oc=5)
-
----
-
-### [Quarto caso di Febbre del Nilo in provincia di Oristano](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0MXVqR2Y1a29COGZvVng2TVFoRHZCaTlUTmJGWW5aVGxtMFFTZWxlRU4waDZZZExicTFUTktid3JPQTdlaWduSVN6LUY2ZzFpWDFrLVZkN2UwQm1ndWZQeXZybTI5WE0zcTVZS05nMUZPWUtxZTVSd3FHSXVvMkhpMVQzLS1WNUo4U2IxckdSTXJacjRJRDI3ONIBoAFBVV95cUxNZnY2Z2FsRlg5RlBfVGs0VEVxWUJVb0FNX3dheTVxZTdHSW9SVkZYQnl6Q3FMbHBGbXo1MTFBNjdLbG9GQlFjbU9sZ2QwVXdodDV2eDdORjZ2Q1ItY1lvYVNaeGtkdzhYOFlLb08yREl3WXlnOU9HaElIWGVQajNYZk5Xcm9EN3FQbFpFaEc3TEJGVUdVTU1YOEEzZlRSWVVS?oc=5)
-
-2026-07-31 <span class="news-indication-tag">AF</span>
-
-來源：[LinkOristano](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0MXVqR2Y1a29COGZvVng2TVFoRHZCaTlUTmJGWW5aVGxtMFFTZWxlRU4waDZZZExicTFUTktid3JPQTdlaWduSVN6LUY2ZzFpWDFrLVZkN2UwQm1ndWZQeXZybTI5WE0zcTVZS05nMUZPWUtxZTVSd3FHSXVvMkhpMVQzLS1WNUo4U2IxckdSTXJacjRJRDI3ONIBoAFBVV95cUxNZnY2Z2FsRlg5RlBfVGs0VEVxWUJVb0FNX3dheTVxZTdHSW9SVkZYQnl6Q3FMbHBGbXo1MTFBNjdLbG9GQlFjbU9sZ2QwVXdodDV2eDdORjZ2Q1ItY1lvYVNaeGtkdzhYOFlLb08yREl3WXlnOU9HaElIWGVQajNYZk5Xcm9EN3FQbFpFaEc3TEJGVUdVTU1YOEEzZlRSWVVS?oc=5)
-
----
-
-### [La UIMP pone el foco en los desafíos de la salud mental: desde el TOC hasta las adicciones - Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkFCTmJXSzB0dUtpWXhqdWc4SnM0T0tFRDA0Si1Sc25jb1pPb252ZFYzbldhdEdhazNOclFzdDcxTlR0NWVfRGowSWE4Zjl4UEFDb1BseUZvUnBZaWJUdnAxUUJvRFVuMnJXcWJQeEpGMnlwSzkxbktscGE5eVoxQzJRSnhnMlIxcnJncEN3Y0szd3hDTmNYdjgwZm8?oc=5)
-
-2026-07-31 <span class="news-indication-tag">AF</span>
-
-來源：[Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkFCTmJXSzB0dUtpWXhqdWc4SnM0T0tFRDA0Si1Sc25jb1pPb252ZFYzbldhdEdhazNOclFzdDcxTlR0NWVfRGowSWE4Zjl4UEFDb1BseUZvUnBZaWJUdnAxUUJvRFVuMnJXcWJQeEpGMnlwSzkxbktscGE5eVoxQzJRSnhnMlIxcnJncEN3Y0szd3hDTmNYdjgwZm8?oc=5)
-
----
-
-### [Worcester man died of drug toxicity after quitting smoking](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyQ3hyU0NBU0xNbEU5cG5QUmdGT0pQc09DamV4VWZJT1dvM2FkNE5raVQ2TTZDU2M2amJBckZQNjVFc3dmTl96TVV2MXZGaHAzRlFDbnJKQmZ6bVZa?oc=5)
-
-2026-07-31 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyQ3hyU0NBU0xNbEU5cG5QUmdGT0pQc09DamV4VWZJT1dvM2FkNE5raVQ2TTZDU2M2amJBckZQNjVFc3dmTl96TVV2MXZGaHAzRlFDbnJKQmZ6bVZa?oc=5)
-
----
-
-### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
-
----
-
-### [Common sugar could cause cancer to spread, scientists warn - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
 
 ---
 

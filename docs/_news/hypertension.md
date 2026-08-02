@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,19 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（4 則）
 
-### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
-
-2026-08-01
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
-
----
-
 ### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia - El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 2026-08-01
 
 來源：[El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+
+---
+
+### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39%](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
+
+2026-08-01
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
 
 ---
 
@@ -109,11 +109,11 @@ permalink: /news/hypertension/
 
 ---
 
-### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
+### [Vorzeitige Menopause: 22,6% höheres Bluthochdruckrisiko belegt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
 
-2026-07-31
+2026-08-01
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
 
 ---
 

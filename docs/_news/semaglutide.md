@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [La 'cara Ozempic': el efecto de los medicamentos para adelgazar que está llenando las consultas de dermatología](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZDcyU3FjbDNoMlJDSU1TeWdxQnBzSERFWE5DQUdUazBJZnVRakVWZWh6ZWFFSDNNVlJOU3A2RVpzdlptOF9ESGdIN0xISDN1dy1YbEtuTVpLZFNRWks5VlpmbHZGQUoyb3h5d3JDcVVhZG1oZ2R2a0VRR2NodG9RMGZWLUNlSlhPV3hRblFQcUZCeFdRXzJ5LXNhQ0JiQk44YzhjOWNoQV9aRzF2LVZJM0s3cjc5NHBUNThOLWZVUmVEM0VIR241ZWZBRmkzZDYyenVGRGdlTXVXY3RweUZfcWpB?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
+### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 2026-08-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Nährstoffdichte statt Verarbeitungsgrad: Studie zu Herz und Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
+### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
-
----
-
-### [La disfunzione erettile può nascondere altri problemi di salute: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">diabete</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 ---
 

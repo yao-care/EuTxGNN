@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="Golimumab 有什麼相關新聞？">
-<strong>Golimumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Golimumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/golimumab/
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
 
@@ -62,19 +62,27 @@ permalink: /news/golimumab/
 
 ---
 
-### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
-
-2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
-
----
-
 ### [Enfermedad inflamatoria intestinal: las claves para mantener una buena calidad de vida](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2RvVzAtdXFJS1h3b2R0T05sZzlvbk9DSWhZSE5mak9uMDczLTJQN2oxVmthR3RaT3liTzhrS1BMallHUk9jNzQyNjZzNnF2WHo0SEtRd0JrdXpBT2dXd0pFck52NmZwYTkyZGZUcS05QmlWVlphUUVSV2lLYVFxRVVfQ2hQOVlveHJtSzlqd3c2U2ZZVlQ0N1AxWXFIajc4MXRjYnNNa3pfMk9jZ1l0bmtzb1NXSzFnb1dYV0dBVE9BaFIzWkUtOGZn0gHPAUFVX3lxTE1OX01JNlROMWhOS0hNTzlocXZxLXpkUnpfTlJWYmdQaG5jUlAwNm5PN0pJcTJDN3h4R0M1RGRtaWpsdGM4SmNIREpjanFZUnlmMWxrYi0welZ4UkoxNjF3cGxPUGVJMF9EV1psWjZpeFdvbE9FTlEwUGQ1ZUZJQWNSVzMySUhGZ0J4V3ZueXV3TV9WMjZ0WE1HQkRnYTRXNVJUMXhaWGRTd3QxQkNOaEUwaXVUY1BNRThOWG9RQ0RhQjBzcjI3eTZ6dXpMaFBPdw?oc=5)
 
 2026-08-01 <span class="news-indication-tag">colitis ulcerosa</span>
 
 來源：[Clarin.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2RvVzAtdXFJS1h3b2R0T05sZzlvbk9DSWhZSE5mak9uMDczLTJQN2oxVmthR3RaT3liTzhrS1BMallHUk9jNzQyNjZzNnF2WHo0SEtRd0JrdXpBT2dXd0pFck52NmZwYTkyZGZUcS05QmlWVlphUUVSV2lLYVFxRVVfQ2hQOVlveHJtSzlqd3c2U2ZZVlQ0N1AxWXFIajc4MXRjYnNNa3pfMk9jZ1l0bmtzb1NXSzFnb1dYV0dBVE9BaFIzWkUtOGZn0gHPAUFVX3lxTE1OX01JNlROMWhOS0hNTzlocXZxLXpkUnpfTlJWYmdQaG5jUlAwNm5PN0pJcTJDN3h4R0M1RGRtaWpsdGM4SmNIREpjanFZUnlmMWxrYi0welZ4UkoxNjF3cGxPUGVJMF9EV1psWjZpeFdvbE9FTlEwUGQ1ZUZJQWNSVzMySUhGZ0J4V3ZueXV3TV9WMjZ0WE1HQkRnYTRXNVJUMXhaWGRTd3QxQkNOaEUwaXVUY1BNRThOWG9RQ0RhQjBzcjI3eTZ6dXpMaFBPdw?oc=5)
+
+---
+
+### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+
+---
+
+### [5 aliments qui contribuent à la santé de nos os (outre le lait)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
+
+2026-07-31 <span class="news-indication-tag">arthrite</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
 
 ---
 

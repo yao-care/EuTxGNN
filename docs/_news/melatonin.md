@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
+### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 2026-08-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXg?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ permalink: /news/melatonin/
 
 2026-08-01 <span class="news-indication-tag">Migräne</span>
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+來源：[stern.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/melatonin/
 2026-08-01 <span class="news-indication-tag">migraña</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
-
----
-
-### [El mercado contra la obesidad sigue ganando peso al ritmo imparable de los GLP-1 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">obesidad</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
 
 ---
 

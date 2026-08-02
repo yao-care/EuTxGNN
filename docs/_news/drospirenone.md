@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="Drospirenone 有什麼相關新聞？">
-<strong>Drospirenone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Drospirenone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/drospirenone/
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
@@ -78,27 +78,19 @@ permalink: /news/drospirenone/
 
 ---
 
+### [5 aliments qui contribuent à la santé de nos os (outre le lait)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
+
+2026-07-31 <span class="news-indication-tag">arthrite</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nVDVXMlZrOUZZVkpKb2VFdUV5LWxwSzFRNnc4X1VYZ2xGTzFYaFBmN2F2V01CX2dNQnU0QV9GRkhESUlWZWpua041ZG9MMkxaeVJIY1hGY24yQmRGcFHSAWNBVV95cUxPeHljV0pZamtpdnN3NlgtQVJQTUM3empMUmZoTkV5am5XQXNwc2hyMUhnZnpRZ3A3SGpOcjc0VlZEaHA5Tlp0WjdOZWtkeWcyYjgwclBybjkwVVp5Qmo4eUxmTTA?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
----
-
-### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
-
----
-
-### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 

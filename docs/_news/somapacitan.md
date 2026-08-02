@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,7 +52,7 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（4 則）
 
 ### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Nährstoffdichte statt Verarbeitungsgrad: Studie zu Herz und Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
+### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
 
 ---
 
@@ -83,30 +83,6 @@ permalink: /news/somapacitan/
 2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
----
-
-### [La disfunzione erettile può nascondere altri problemi di salute: ecco quali - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">diabete</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFpxZEltanhxRnpSOEx2WmJ1bEd0MWRBU3JVTXd3UG5DV1poZHhMU0F6aVp3ZnFYai1Nb1Q4Qk1uTldkQWFuVW9PM1hzb2h2c2lMTmRfNlg0N1NJZTZGTWJ1WERmT2M0X0hFaHdtNlJjYWJMVTRFREpBSmJoZktaai1LWWxKNS15LTV4d2EwUExpX1A2dm01YmxvWVJXXzNwYmU1SE4tX09sNVhKM1lSOdIBtgFBVV95cUxOaXRIdGRzVk9USXRVcDZGTjh3QXZMYnpHRWpCZHFFZlRhRFpzMUJHc3d3VHNVMlhMa3dodzExbFdvaE8zX1FGLXdqcEVpOVA3TFB4ZTZhcTQ1ZzNvQmQ4d0EyRHNwdHBCaHpsYW5lVUFjOTZXRFhDOFBGcGZpSVY1MDlfbTZZVnBENFl1d1M5THdicUNOZkJYaktmOC1TNzAwb05IR1pzcnZ1bWJoYXVDTC1MelZ6UQ?oc=5)
-
----
-
-### [La plasmaféresis muestra resultados prometedores frente a los ataques graves de MOGAD - El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUxCcFZxMEJYRHpjZVNpSWVfQWUtRERoaGxnWkhnUmJJUWQzU0JuaWFYNlVJVC1oNXAzallkNWVwQVo5UTFrSmtMWjRwcnRMam9zMkhyRjBPVlBXUjVEc2Z4ekhwNE96V3o5UnVzcWVsR1pJQ1BiSDk3YW5BLXZrdUdkb2Z3ek1kTlphNTMyRWl4MFoyeC04Y0VJRW00bmhrX0NMTmJoRmItLXBkUDlRWTRWcHhvd1ZTb3c?oc=5)
-
----
-
-### [Magnesiumsulfat bei Asthmaanfällen: Weniger Krankenhausaufenthalte bei Kindern?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
-
-來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 

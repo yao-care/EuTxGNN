@@ -14,7 +14,7 @@ permalink: /news/roflumilast/
 ---
 
 <p class="key-answer" data-question="Roflumilast 有什麼相關新聞？">
-<strong>Roflumilast</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Roflumilast</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/roflumilast/
 <p><a href="{{ '/drugs/roflumilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（25 則）
+
+### [Bauchspeicheldrüsenkrebs: Diese Medikamente, Impfstoffe und Therapien verlängern die Überlebenszeit](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb3VsTDJ5ZzNSTUJvNHdJdEYzaExjb0tEYThXOTZMZkdiUEk1Tzdad3VleWVFYUlTUVRyeEVWM28tTTM0VTBuTklTSVd5cVIzTlBBMGtKSGVKMEZ0VkI1bjEyRGxwS2FHM0hmclJMNDB0b0VlUUl1eFZTWWJFSGthVTR5bkk5NzF5Q2NuNGtWRk5xdVluVUVnQmU4T3pSeEtVa3NkTHdmeUVUSHV2cXozTHlEQzAxSDIzZktjbUM4bzZIVWpGTElxMUVmS0tsSWRkaGl1WFRzc2x2c2VJSFYtZE9IZFlBeEtoSXJXTG9pV3lzTmJ0d01hbw?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb3VsTDJ5ZzNSTUJvNHdJdEYzaExjb0tEYThXOTZMZkdiUEk1Tzdad3VleWVFYUlTUVRyeEVWM28tTTM0VTBuTklTSVd5cVIzTlBBMGtKSGVKMEZ0VkI1bjEyRGxwS2FHM0hmclJMNDB0b0VlUUl1eFZTWWJFSGthVTR5bkk5NzF5Q2NuNGtWRk5xdVluVUVnQmU4T3pSeEtVa3NkTHdmeUVUSHV2cXozTHlEQzAxSDIzZktjbUM4bzZIVWpGTElxMUVmS0tsSWRkaGl1WFRzc2x2c2VJSFYtZE9IZFlBeEtoSXJXTG9pV3lzTmJ0d01hbw?oc=5)
+
+---
+
+### [Curcumin & Berberin in Kombination gegen Krebs und Alzheimer?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckl4a0NBOTlOWW9MMHR2YjV6cEtFWW5fTXNUdFgyZlBNdDJOZHRHRzl0VHBOS19VNW4wZkVZLVVKMV9mdThCb1M3YkhiUGxtUkpvd1hwTTdWdkpFV2VOZXN1TDlZU0hRVHhwbFM5LVdscm9fLUF1Vlhydi1QSVF3T3B4aC1ab0d1SFNpUl8wcjlMeUdfRlZrbmVkek9rNUdxMmMteG81MlRCQ3RJajFZbno3ZHBkM3ZzZ0dV?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckl4a0NBOTlOWW9MMHR2YjV6cEtFWW5fTXNUdFgyZlBNdDJOZHRHRzl0VHBOS19VNW4wZkVZLVVKMV9mdThCb1M3YkhiUGxtUkpvd1hwTTdWdkpFV2VOZXN1TDlZU0hRVHhwbFM5LVdscm9fLUF1Vlhydi1QSVF3T3B4aC1ab0d1SFNpUl8wcjlMeUdfRlZrbmVkek9rNUdxMmMteG81MlRCQ3RJajFZbno3ZHBkM3ZzZ0dV?oc=5)
+
+---
+
+### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
+
+---
 
 ### ['Clinical trial helped me survive rectal cancer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZE1BSXFwV2IzanhzS0JMdGkzOE8zS1lXdlc1RXg4NXBZbk5CbVJzMmQwQW51LV81VGNURHNBUzAyRzJncG9YZmNzRHRFQTg2TUEyUlhLZnY2THZN?oc=5)
 
 2026-08-02 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZE1BSXFwV2IzanhzS0JMdGkzOE8zS1lXdlc1RXg4NXBZbk5CbVJzMmQwQW51LV81VGNURHNBUzAyRzJncG9YZmNzRHRFQTg2TUEyUlhLZnY2THZN?oc=5)
-
----
-
-### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
-
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
 
 ---
 
@@ -78,19 +94,19 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Mikrobiom und KI: Neue Ansätze gegen Krebs-Metastasen, CED & Autoimmunität - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjd5SmlDeGFBcjY5SFhEQmRhdzVkR0VYZ19RZlRzRzNucUlJcXRtWlNPdGdITzYxV3NHQUR1V2trNFBNNTJmdm0xQzhQdVBXczN0c1hxemhjUVNjTGVyTVY3R0xOcnlidWpxc3NvaFBkVHd6V2taMTJvSFVyTE1lRWh2YTBYSGtpMXJUTW1FR2ZDSEhLLWRTdkZwOVh3dHNzTzNRWW5KTQ?oc=5)
+### [Fixkombination aus Sartan und Kalziumkanalblocker senkt Therapieabbrüche um 39%](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
 
-2026-08-01 <span class="news-indication-tag">Krebs</span>
+2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjd5SmlDeGFBcjY5SFhEQmRhdzVkR0VYZ19RZlRzRzNucUlJcXRtWlNPdGdITzYxV3NHQUR1V2trNFBNNTJmdm0xQzhQdVBXczN0c1hxemhjUVNjTGVyTVY3R0xOcnlidWpxc3NvaFBkVHd6V2taMTJvSFVyTE1lRWh2YTBYSGtpMXJUTW1FR2ZDSEhLLWRTdkZwOVh3dHNzTzNRWW5KTQ?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHNZZDZzX19ieEM2RjZtVkZiQnowaHpodlFCVlpwUDhmemJCQU1tZ2x6T1NmWHlyV0NhU2psLTdGdURiLTloS1k4Ym9IZkVTeGptQUxRNHRZalBRSExfOUk0S1pzOUhsOVhsSGVkUVU0ZEMxWXlVV0RhOGxEV1lDX21MMWI5eFhkU3NfSlBRZUFnUnE1dEVEQllxUTd4cHdQNnNRNGN2Nk9LNXJCRGFjcg?oc=5)
 
 ---
 
-### [Vitamin B12: 55 Mikrogramm täglich verdoppeln Lungenkrebsgefahr](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
+### [Vitamin B12: 55 Mikrogramm täglich verdoppeln Lungenkrebsgefahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
 
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
 
 ---
 
@@ -102,11 +118,11 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Ernährung gegen Darmkrebs: 80 Prozent der Patienten essen zu viel Zucker](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
+### [Ernährung gegen Darmkrebs: 80 Prozent der Patienten essen zu viel Zucker - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
 
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
 
 ---
 
@@ -118,11 +134,11 @@ permalink: /news/roflumilast/
 
 ---
 
-### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer' - The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
+### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer'](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
 
 2026-08-01 <span class="news-indication-tag">cancer</span>
 
-來源：[The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
+來源：[Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
 
 ---
 
@@ -134,19 +150,19 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Le cancer du poumon en hausse chez les femmes et les personnes qui n'ont jamais fumé - La Libre.be](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3ZUdm5DN05sbGp1NDBJMVJJcFRNZDJSNzJad0xtcjU4dlNuM04xVjV6dDlNOWJIdmEyRUR5ZHNJWDFkUTVhajRkWHJFMjE2b3FKLW1MSEdDNlh1UXdpMUNmYzRfWHR3c0h1ZGJTTnZGdWdGc2RIRTR0TWthaGVSenBYYkRtd09oXzJsX0UySGQwd1hwclFsQ3k4WUdWTjd5VDNxRUR1cGFBOVR6MGRySjJyNjdYOVdLbVhkNlVJRVdnSDVoUUVPWHJ0WV9RN3MxQlVvTG8yOTRVMzZCS3ZZTXVlczY3Y2dmOVowNGY5N2o?oc=5)
+### [Le cancer du poumon en hausse chez les femmes et les personnes qui n'ont jamais fumé](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3ZUdm5DN05sbGp1NDBJMVJJcFRNZDJSNzJad0xtcjU4dlNuM04xVjV6dDlNOWJIdmEyRUR5ZHNJWDFkUTVhajRkWHJFMjE2b3FKLW1MSEdDNlh1UXdpMUNmYzRfWHR3c0h1ZGJTTnZGdWdGc2RIRTR0TWthaGVSenBYYkRtd09oXzJsX0UySGQwd1hwclFsQ3k4WUdWTjd5VDNxRUR1cGFBOVR6MGRySjJyNjdYOVdLbVhkNlVJRVdnSDVoUUVPWHJ0WV9RN3MxQlVvTG8yOTRVMzZCS3ZZTXVlczY3Y2dmOVowNGY5N2o?oc=5)
 
 2026-08-01 <span class="news-indication-tag">cancer</span>
 
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3ZUdm5DN05sbGp1NDBJMVJJcFRNZDJSNzJad0xtcjU4dlNuM04xVjV6dDlNOWJIdmEyRUR5ZHNJWDFkUTVhajRkWHJFMjE2b3FKLW1MSEdDNlh1UXdpMUNmYzRfWHR3c0h1ZGJTTnZGdWdGc2RIRTR0TWthaGVSenBYYkRtd09oXzJsX0UySGQwd1hwclFsQ3k4WUdWTjd5VDNxRUR1cGFBOVR6MGRySjJyNjdYOVdLbVhkNlVJRVdnSDVoUUVPWHJ0WV9RN3MxQlVvTG8yOTRVMzZCS3ZZTXVlczY3Y2dmOVowNGY5N2o?oc=5)
+來源：[lalibre.be](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3ZUdm5DN05sbGp1NDBJMVJJcFRNZDJSNzJad0xtcjU4dlNuM04xVjV6dDlNOWJIdmEyRUR5ZHNJWDFkUTVhajRkWHJFMjE2b3FKLW1MSEdDNlh1UXdpMUNmYzRfWHR3c0h1ZGJTTnZGdWdGc2RIRTR0TWthaGVSenBYYkRtd09oXzJsX0UySGQwd1hwclFsQ3k4WUdWTjd5VDNxRUR1cGFBOVR6MGRySjJyNjdYOVdLbVhkNlVJRVdnSDVoUUVPWHJ0WV9RN3MxQlVvTG8yOTRVMzZCS3ZZTXVlczY3Y2dmOVowNGY5N2o?oc=5)
 
 ---
 
-### [Israeli study: Some body parts age faster, paving way for cancer treatment](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
+### [Israeli study: Some body parts age faster, paving way for cancer treatment - The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
 
 2026-08-01 <span class="news-indication-tag">cancer</span>
 
-來源：[jpost.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
+來源：[The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
 
 ---
 
@@ -170,7 +186,7 @@ permalink: /news/roflumilast/
 
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGdSWVIwYUJNWUFlRFhTcmlwSHZnVFJYeHRPSEpkWXBvQnRFbVhTcVV1ZUloZFFHNmh6VTNRNXZadXpVUDBWU3lVdFZpc3JVSEg0X1kxOGhzUExIcFdEaVRzVzlZN016bkowWElHWnd6LVI4SUZhNnhzSXJwYTJpRzRETVg1cHFYVF9raUdR?oc=5)
+來源：[web.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGdSWVIwYUJNWUFlRFhTcmlwSHZnVFJYeHRPSEpkWXBvQnRFbVhTcVV1ZUloZFFHNmh6VTNRNXZadXpVUDBWU3lVdFZpc3JVSEg0X1kxOGhzUExIcFdEaVRzVzlZN016bkowWElHWnd6LVI4SUZhNnhzSXJwYTJpRzRETVg1cHFYVF9raUdR?oc=5)
 
 ---
 
@@ -190,11 +206,11 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Viagra e tumori, la molecola può frenare le metastasi: cosa dice lo studio - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
+### [Vorzeitige Menopause: 22,6% höheres Bluthochdruckrisiko belegt - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
 
-2026-07-31 <span class="news-indication-tag">tumor</span>
+2026-08-01 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFFlSG1IRW91cV9oaGJ1YlRGVnRQcl92dFZJRDBuczJWb3dEUWlGd29xSUVwcnBzdXc3Qm9TMkd0T3N5Z2U0S2hTWUxnQkp2RUhQSHBXR2JsNzBEdVk2NFFlMTdSSHRHNjdlRFRWay1ja3d2XzV3aWk1OFZ1MWsyY1V0eVRRc1FUclVCMTljR1JidTI0T1VJbjkzQWJWRVdPWkIwcjdYOHppRjNkVWxvcmJna2tPZHJYelE?oc=5)
 
 ---
 
@@ -222,14 +238,6 @@ permalink: /news/roflumilast/
 
 ---
 
-### [Vorzeitige Menopause mit erhöhtem Bluthochdruckrisiko verbunden – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
-
-2026-07-31 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUzNuaU5la1NEaUJ5TEdSYkMzRlBXTEFHMF9SdWtLV1BETXVUX045Ym9PbG5qYnRkWTlMMXlMbTRldHNubmplUG5XQkxtN1ROUWFqUnlEMlpuYS1RS1FWUjJ6NDdYTzFLOTZyT0Z2N1lDeHoxSGVYRjY0Y1cyNkJBLVlRREFJSkRaaFljVmpqSTRNLTF4WjZwallZTkV4QVd0a0tNUlVsYmNpeE0wWXc2QVN2bHZQejlMMjE4QzlnaUhQamo0YzBDS2xweTc?oc=5)
-
----
-
 ### [Krebsrisiko bei BRCA-getesteten Frauen steigt mit positiver Familienanamnese – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWRQWjVwMUJmWTRKeVNyYUMzTmxLQ2FOSWRjVjNVOVNRN2FtZ2FoektRY0s3MXZKWXZBbTl3akliSGdlUFhsZm1WV19ySHRrTGo3OFotSTBXZEp2dTVXU2hCamR3bzh3R0g2RU4wRkJobjVybi1JdUlCSXpGVW5xcUxKbEIzNmNxbXRlVC1IVkhaMUJ0WTljNUNsZ3cxTWc1LXZSOHNURFI4cExiLWxRV0x6RlJCMi04b24zNDk0THllTGJORzgzRTd6cnBPLUlPc0ozZ281dXItN3Z4Q1E?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Krebs</span>
@@ -243,22 +251,6 @@ permalink: /news/roflumilast/
 2026-07-31 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">arthritis</span>
 
 來源：[Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
-
----
-
-### [Horror as fourth contagious flesh-eating cancer discovered – killed 38,000 animals - Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1VhV1RkSHRZRFZaMGtzaUJBcm1ZRGJEWlVuR1hUQ2lQYmdxYzBZc0ZJcExHNkVlVndrTlhQV0ZBdHpFcmJzSmdkSXRaUi1sZXcxUzJvYWtlSGpvQUhnQ0phS0t5SFJYaHBWaTRjYjYyWFZzWTVqMFF4VUhKcEs4c3RDRU5aQ3JWTlhvUndTWDFabGfSAZgBQVVfeXFMTnlzdEdGbzRVa1k2X2o3OWJnWUs5WVdwZ3FKWWx0Q1ZqaWE1WGg2YTUzU3lmbjY0QWFoTHBxLXREUk9nNXpHdnBaWkhtVVBWNmVXU1FOTUFoOFR0eFhwNEJGSklGRzNkdzVpWHdZXzFhbW9TQ3gxckhkSTFSaDVnaXhILVNfekNZdXMybHgyUGdyeXV4bnZjelg?oc=5)
-
-2026-07-31 <span class="news-indication-tag">cancer</span>
-
-來源：[Daily Express](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1VhV1RkSHRZRFZaMGtzaUJBcm1ZRGJEWlVuR1hUQ2lQYmdxYzBZc0ZJcExHNkVlVndrTlhQV0ZBdHpFcmJzSmdkSXRaUi1sZXcxUzJvYWtlSGpvQUhnQ0phS0t5SFJYaHBWaTRjYjYyWFZzWTVqMFF4VUhKcEs4c3RDRU5aQ3JWTlhvUndTWDFabGfSAZgBQVVfeXFMTnlzdEdGbzRVa1k2X2o3OWJnWUs5WVdwZ3FKWWx0Q1ZqaWE1WGg2YTUzU3lmbjY0QWFoTHBxLXREUk9nNXpHdnBaWkhtVVBWNmVXU1FOTUFoOFR0eFhwNEJGSklGRzNkdzVpWHdZXzFhbW9TQ3gxckhkSTFSaDVnaXhILVNfekNZdXMybHgyUGdyeXV4bnZjelg?oc=5)
-
----
-
-### [Common sugar could cause cancer to spread, scientists warn - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,19 +37,19 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
+### [On pensait que l'autisme, la dépression et la schizophrénie n'avaient rien en commun : des chercheurs d'Harvard viennent d'en trouver cinq](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVEdETE9DQ0V5cElQT1ZINjBMaWx4NFZ3TjFIRWRFTVhvME5uV3o0dWNPc2l0OEt5c3U4VWt3UkFGaFNjem1FZjQ5djBLc3YtLXpPMUZlZkgyVkhsanFLZlFUa003VGo3MzltQzNKMS1tNG9ncDBDRUFfc1lGUFNzQ3Jhd0poeUJaUzlleFNkZGZ5YTBwU0xkMVR3c1ZnZ0dqRnUyb0dSZUhJZmk1a3FrRzFsX2dwckZVSE8wYVZRRHB4TG1UM0JJY09ncDR3WTQxaDlHNWsyUkQ2SV9iRG5xei1BZ1dGVjhZNmNV?oc=5)
+
+2026-08-02
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVEdETE9DQ0V5cElQT1ZINjBMaWx4NFZ3TjFIRWRFTVhvME5uV3o0dWNPc2l0OEt5c3U4VWt3UkFGaFNjem1FZjQ5djBLc3YtLXpPMUZlZkgyVkhsanFLZlFUa003VGo3MzltQzNKMS1tNG9ncDBDRUFfc1lGUFNzQ3Jhd0poeUJaUzlleFNkZGZ5YTBwU0xkMVR3c1ZnZ0dqRnUyb0dSZUhJZmk1a3FrRzFsX2dwckZVSE8wYVZRRHB4TG1UM0JJY09ncDR3WTQxaDlHNWsyUkQ2SV9iRG5xei1BZ1dGVjhZNmNV?oc=5)
+
+---
+
 ### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVlhNkI1NlhLbHFReUEwNi1DZWM4R2w2MTZsNEdKNnlIWk9YN3pITkFPS0J5MWFLajVSejZjMldaOW1vT3REa2ptTGJLOVZjTGhqZ3BCQnh1X0ZIVzlqZ1MteTBOMXppbW9YSUpNMkFxMWFaUm1HNzdNWnpqR2JMRjlaMWxzUHNfY3RPY0tBYWxUV1NVUlNCT1N1aE9HQlQwMVQydkpoMl9XUnp2eDY2X3ZNY01ycWMzQnA2TlRab2FPWmNlemhJVEZ5SU5qOFJqOWxNUmdoLUEzcGJYOGNmU2x5VDBsNXkzUG95YnNfTDI?oc=5)
 
 2026-08-01
 
 來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVlhNkI1NlhLbHFReUEwNi1DZWM4R2w2MTZsNEdKNnlIWk9YN3pITkFPS0J5MWFLajVSejZjMldaOW1vT3REa2ptTGJLOVZjTGhqZ3BCQnh1X0ZIVzlqZ1MteTBOMXppbW9YSUpNMkFxMWFaUm1HNzdNWnpqR2JMRjlaMWxzUHNfY3RPY0tBYWxUV1NVUlNCT1N1aE9HQlQwMVQydkpoMl9XUnp2eDY2X3ZNY01ycWMzQnA2TlRab2FPWmNlemhJVEZ5SU5qOFJqOWxNUmdoLUEzcGJYOGNmU2x5VDBsNXkzUG95YnNfTDI?oc=5)
-
----
-
-### [Disagio giovanile: la psichiatra Carola Tozzini spiega come riconoscere la depressione per intervenire in tempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk1UY3ZrQnZUMXdVeGV6RTg1bEhTSDVfb3B4TFZvU2IzV0NiM0c0cE5kUDZrSko3NWQ0ckR2eDlLaFBBWk5rNVZBX1pXUk83R2lwVzRKVlZqN3h0LUZ1R0d2b0VHMTYxWUV0WWp2NjBtMnhaOUVLc1llTFVMX0NwaFJ0YkhIUVRiRUNubXBZdlJzVG96T0JaVGxfeUtNazAtckV3enBfNTVpRkIyWWpFMnNmT0VEbDRON1YzSzJKVWozdkgwRzlMeFJ6SU5EaU42Y2oyR0VzZnNnREdoQUcyM1JWUUM?oc=5)
-
-2026-07-31
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk1UY3ZrQnZUMXdVeGV6RTg1bEhTSDVfb3B4TFZvU2IzV0NiM0c0cE5kUDZrSko3NWQ0ckR2eDlLaFBBWk5rNVZBX1pXUk83R2lwVzRKVlZqN3h0LUZ1R0d2b0VHMTYxWUV0WWp2NjBtMnhaOUVLc1llTFVMX0NwaFJ0YkhIUVRiRUNubXBZdlJzVG96T0JaVGxfeUtNazAtckV3enBfNTVpRkIyWWpFMnNmT0VEbDRON1YzSzJKVWozdkgwRzlMeFJ6SU5EaU42Y2oyR0VzZnNnREdoQUcyM1JWUUM?oc=5)
 
 ---
 

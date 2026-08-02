@@ -1,0 +1,55 @@
+---
+layout: default
+title: "ictus（stroke） 相關新聞"
+parent: 健康新聞
+nav_exclude: true
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+permalink: /news/stroke/
+---
+
+# ictus（stroke） 相關新聞
+
+[← 返回新聞總覽]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+</p>
+
+<div class="key-takeaway">
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+</div>
+
+<div class="related-drugs-card">
+<strong>相關藥物報告</strong>
+<p>以下藥物的預測適應症可能與此疾病相關：</p>
+<ul>
+<li><a href="{{ '/drugs/aliskiren/' | relative_url }}">Aliskiren</a></li>
+<li><a href="{{ '/drugs/amlodipine/' | relative_url }}">Amlodipine</a></li>
+<li><a href="{{ '/drugs/avanafil/' | relative_url }}">Avanafil</a></li>
+<li><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">Azilsartan Medoxomil</a></li>
+<li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
+<li><a href="{{ '/drugs/orlistat/' | relative_url }}">Orlistat</a></li>
+<li><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">Raloxifene Hydrochloride</a></li>
+<li><a href="{{ '/drugs/simvastatin/' | relative_url }}">Simvastatin</a></li>
+<li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
+<li><a href="{{ '/drugs/vardenafil/' | relative_url }}">Vardenafil</a></li>
+<li><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">Vernakalant Hydrochloride</a></li>
+</ul>
+</div>
+
+## 相關新聞（1 則）
+
+### [Ictus, la stimolazione del cervelletto apre una nuova strada per il recupero: «Così aumentiamo la plasticità del cervello» - Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxPMWtDdC1HUW84cEJ4czZtcmVkaVZBdzl1dXMxS3IxdFU4aTh4aHNwOUNkbE9aWEdBREMyMHBfOEI5QnV6NWV0RWpLbFBqQ2J3Snp5UFM1czVDVEpYYVFIcjBqX0J3WHdBZVc5U3htMGFQWEVYVFZQYjlIREZoZktuTi1GeUdaTGJoOGhQanduaTlpbEJ1dVNydF9YWkYxMkR2bHZCOFZpRDRvNGtHTnhiTGRqbDFscmhIYkFYNXc0UGFrc0VSNXNFbWFhdHFDa0U1cmE1clgtZy1JVGpESzAzb0NmMGZFdnBUVVl2VWVlaHFxbVFNajhUOVN5UXlyX3FsR3l6bVNNWnBfUUdMeUpwWmF6Y2t2MUh2eWI3N3kwZHIxcVotNEUyOTk3RUxqd0lFMmZOSzFrTnYzaFJuOUNr0gHEAkFVX3lxTFBfX1hnZUItV0Jjb2FMMnltVDQzc1pOdGZral9PSERRSVVGb0VWbktMakRCS05sdVVicUhwQU5BbTIzWEUxSDh5Wkk5bGZ1eHNfd05BT0dTN0lsUkZjcE1nZ1RrQ2hDWGdWRFF3enVGd05KWVNvZVh5dEluZ2thbWdfcXR0WVZtMC0xZHMyQXBWSDljUFpBT2pHRzFIWkZNT2JEdTZlNTI0TzU1UFp3NDA5QjE4VGdhNF93NkV1djA4Z2s1Wkp3VWNhWm52eUZoWFF5WVljbXJiLV9mLTB1a0tqS2pqcE9SYU96S3R5eWtpT2VLMGRzZmFDX0Ewb0pWc0haOTRvZHZuYWlMaEdtRmdGN0hHV1ZGb3F6ODU4VzhmU3YxWG1xeHY4VlV3a051cWJiUUdJRUFyRE9iczZvYXQ5bEtVVg?oc=5)
+
+2026-08-02
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMivwJBVV95cUxPMWtDdC1HUW84cEJ4czZtcmVkaVZBdzl1dXMxS3IxdFU4aTh4aHNwOUNkbE9aWEdBREMyMHBfOEI5QnV6NWV0RWpLbFBqQ2J3Snp5UFM1czVDVEpYYVFIcjBqX0J3WHdBZVc5U3htMGFQWEVYVFZQYjlIREZoZktuTi1GeUdaTGJoOGhQanduaTlpbEJ1dVNydF9YWkYxMkR2bHZCOFZpRDRvNGtHTnhiTGRqbDFscmhIYkFYNXc0UGFrc0VSNXNFbWFhdHFDa0U1cmE1clgtZy1JVGpESzAzb0NmMGZFdnBUVVl2VWVlaHFxbVFNajhUOVN5UXlyX3FsR3l6bVNNWnBfUUdMeUpwWmF6Y2t2MUh2eWI3N3kwZHIxcVotNEUyOTk3RUxqd0lFMmZOSzFrTnYzaFJuOUNr0gHEAkFVX3lxTFBfX1hnZUItV0Jjb2FMMnltVDQzc1pOdGZral9PSERRSVVGb0VWbktMakRCS05sdVVicUhwQU5BbTIzWEUxSDh5Wkk5bGZ1eHNfd05BT0dTN0lsUkZjcE1nZ1RrQ2hDWGdWRFF3enVGd05KWVNvZVh5dEluZ2thbWdfcXR0WVZtMC0xZHMyQXBWSDljUFpBT2pHRzFIWkZNT2JEdTZlNTI0TzU1UFp3NDA5QjE4VGdhNF93NkV1djA4Z2s1Wkp3VWNhWm52eUZoWFF5WVljbXJiLV9mLTB1a0tqS2pqcE9SYU96S3R5eWtpT2VLMGRzZmFDX0Ewb0pWc0haOTRvZHZuYWlMaEdtRmdGN0hHV1ZGb3F6ODU4VzhmU3YxWG1xeHY4VlV3a051cWJiUUdJRUFyRE9iczZvYXQ5bEtVVg?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+</div>
