@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
 
 ---
 
-### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia - El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hipertensión</span>
 
-來源：[eltiempo.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
-
----
-
-### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
-
-2026-08-01 <span class="news-indication-tag">AVC</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
-
----
-
-### [Cholestérol : et si votre assiette n’était pas la seule responsable ? - Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
-
-2026-08-01 <span class="news-indication-tag">AVC</span>
-
-來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
+來源：[El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+
+2026-08-02 <span class="news-indication-tag">asthma</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+
+---
 
 ### [La cataratta non è solo vecchiaia: il segnale che arriva dal diabete](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
 
@@ -62,19 +70,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
+### [Nährstoffdichte statt Verarbeitungsgrad: Studie zu Herz und Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
-
----
-
-### [Studie identifiziert Bakterien, die den „Bauernhof-Effekt“ auslösen](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asthma</span>
-
-來源：[topagrar.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
 
 ---
 
@@ -83,14 +83,6 @@ permalink: /news/somapacitan/
 2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
 來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
----
-
-### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
-
-2026-07-31 <span class="news-indication-tag">diabète</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
 
 ---
 
@@ -114,7 +106,7 @@ permalink: /news/somapacitan/
 
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[TARA24](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
+來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 

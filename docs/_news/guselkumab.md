@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="Guselkumab 有什麼相關新聞？">
-<strong>Guselkumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guselkumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/guselkumab/
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
+
+2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
+
+---
 
 ### [La cataratta non è solo vecchiaia: il segnale che arriva dal diabete](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/guselkumab/
 
 ---
 
-### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
+### [Nährstoffdichte statt Verarbeitungsgrad: Studie zu Herz und Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
 
 ---
 
-### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
+### [Enfermedad inflamatoria intestinal: las claves para mantener una buena calidad de vida](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2RvVzAtdXFJS1h3b2R0T05sZzlvbk9DSWhZSE5mak9uMDczLTJQN2oxVmthR3RaT3liTzhrS1BMallHUk9jNzQyNjZzNnF2WHo0SEtRd0JrdXpBT2dXd0pFck52NmZwYTkyZGZUcS05QmlWVlphUUVSV2lLYVFxRVVfQ2hQOVlveHJtSzlqd3c2U2ZZVlQ0N1AxWXFIajc4MXRjYnNNa3pfMk9jZ1l0bmtzb1NXSzFnb1dYV0dBVE9BaFIzWkUtOGZn0gHPAUFVX3lxTE1OX01JNlROMWhOS0hNTzlocXZxLXpkUnpfTlJWYmdQaG5jUlAwNm5PN0pJcTJDN3h4R0M1RGRtaWpsdGM4SmNIREpjanFZUnlmMWxrYi0welZ4UkoxNjF3cGxPUGVJMF9EV1psWjZpeFdvbE9FTlEwUGQ1ZUZJQWNSVzMySUhGZ0J4V3ZueXV3TV9WMjZ0WE1HQkRnYTRXNVJUMXhaWGRTd3QxQkNOaEUwaXVUY1BNRThOWG9RQ0RhQjBzcjI3eTZ6dXpMaFBPdw?oc=5)
 
-2026-07-31 <span class="news-indication-tag">diabète</span>
+2026-08-01 <span class="news-indication-tag">colitis ulcerosa</span>
 
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
+來源：[Clarin.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2RvVzAtdXFJS1h3b2R0T05sZzlvbk9DSWhZSE5mak9uMDczLTJQN2oxVmthR3RaT3liTzhrS1BMallHUk9jNzQyNjZzNnF2WHo0SEtRd0JrdXpBT2dXd0pFck52NmZwYTkyZGZUcS05QmlWVlphUUVSV2lLYVFxRVVfQ2hQOVlveHJtSzlqd3c2U2ZZVlQ0N1AxWXFIajc4MXRjYnNNa3pfMk9jZ1l0bmtzb1NXSzFnb1dYV0dBVE9BaFIzWkUtOGZn0gHPAUFVX3lxTE1OX01JNlROMWhOS0hNTzlocXZxLXpkUnpfTlJWYmdQaG5jUlAwNm5PN0pJcTJDN3h4R0M1RGRtaWpsdGM4SmNIREpjanFZUnlmMWxrYi0welZ4UkoxNjF3cGxPUGVJMF9EV1psWjZpeFdvbE9FTlEwUGQ1ZUZJQWNSVzMySUhGZ0J4V3ZueXV3TV9WMjZ0WE1HQkRnYTRXNVJUMXhaWGRTd3QxQkNOaEUwaXVUY1BNRThOWG9RQ0RhQjBzcjI3eTZ6dXpMaFBPdw?oc=5)
 
 ---
 

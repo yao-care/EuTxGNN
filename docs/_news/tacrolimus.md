@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
+
+2026-08-02 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 

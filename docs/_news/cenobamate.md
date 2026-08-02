@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="Cenobamate 有什麼相關新聞？">
-<strong>Cenobamate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cenobamate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -45,22 +45,16 @@ permalink: /news/cenobamate/
 <li>epilepsy with generalized tonic-clonic seizures（94.2%）</li>
 <li>partial motor epilepsy（93.4%）</li>
 <li>trigeminal nerve neoplasm（91.2%）</li>
-<li class="indication-matched">epilepsy（90.7%）<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy（90.7%）</li>
 <li>restless legs syndrome（87.2%）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Un mecanismo molecular que regula la señalización neuronal podría guiar los tratamientos para la epilepsia, el dolor y la enfermedad de Alzheimer - Adamed TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3dTcVJYSjk0amFFUG4xTC1MMTRVZGJFYm91ZnU4dDhXV1BGSWQzVWtMSmJCZE02aGIwZ2lLM1RqQWxGTTQzUnFCcFU2MVZMR2VEM2ZPbmlvdm9YbmNwajg3UHlYMnR3VE94RjFIcDR2eUJqZUZVeFp3S2g5TlZWdDdCZmp1bk16dVNtWjMtN2JnVEdnQUJraFhzV2xiS3hsTk5JRlFWSzN1MEFkaWdqaWVlb3J6ME1YcnpOY09SVmVKMjBSYldaZWpIQ1pHZVJMMW9MVUc2RUw4czlidXRMV00zTXRoZTlralpwQU1mM05zQnc3d2NVb1FFNHVuMjJZMXQtMUNCdTI4ZjQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">epilepsia</span>
-
-來源：[Adamed TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3dTcVJYSjk0amFFUG4xTC1MMTRVZGJFYm91ZnU4dDhXV1BGSWQzVWtMSmJCZE02aGIwZ2lLM1RqQWxGTTQzUnFCcFU2MVZMR2VEM2ZPbmlvdm9YbmNwajg3UHlYMnR3VE94RjFIcDR2eUJqZUZVeFp3S2g5TlZWdDdCZmp1bk16dVNtWjMtN2JnVEdnQUJraFhzV2xiS3hsTk5JRlFWSzN1MEFkaWdqaWVlb3J6ME1YcnpOY09SVmVKMjBSYldaZWpIQ1pHZVJMMW9MVUc2RUw4czlidXRMV00zTXRoZTlralpwQU1mM05zQnc3d2NVb1FFNHVuMjJZMXQtMUNCdTI4ZjQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

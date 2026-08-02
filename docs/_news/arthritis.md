@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthritis 相關新聞"
+title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "arthritis 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
-# arthritis 相關新聞
+# artrite（arthritis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="arthritis 有什麼相關新聞？">
-<strong>arthritis</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
+<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「arthritis」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「artrite」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -101,7 +101,15 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
+
+2026-08-02
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis begünstigt Rachenkrebs - Medical Tribune](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUVmMjRFaHZELVVJQUlRdi1LbHc0SFl2NjZSMFJzWjJUWWJ3OWdNUFVzRlo5R1U0UU1vbml1Tk9mNTNzZXhYRVlLaUdpNWo3R0hhc1c4cFRweHN3dWJLUnBTdWNwQUdSNEtPYW9GeUVQbzlsVHhDeGY4YWFzdmRDelByYUhFcTR4Qm9TRm1NVUZaXzZPc1ZxQTl2cGFIQ1k?oc=5)
 

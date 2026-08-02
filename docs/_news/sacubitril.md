@@ -54,6 +54,14 @@ permalink: /news/sacubitril/
 
 ## 相關新聞（5 則）
 
+### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
+
+2026-08-02 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
+
+---
+
 ### [La cataratta non è solo vecchiaia: il segnale che arriva dal diabete](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabete</span>
@@ -62,19 +70,11 @@ permalink: /news/sacubitril/
 
 ---
 
-### [Ballaststoffe: Harvard-Studie belegt 34% weniger Diabetes-Risiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
+### [Nährstoffdichte statt Verarbeitungsgrad: Studie zu Herz und Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTQ1eXNqcGo1Nlp3TnJMbHFmTXBiSUQxYnBEUElZMzFXZ3QyT2xvZUxVbzM5YWVjdXNKQzF4N0pmQUJ2ajU4amZDYldPelhpT0dxLWdIcjNSSVBGWU9tckRIRG1kYnVqcmlaSFR4QXJ3LXY1d3QxMnJJRlpTdEs3cHdVbURnVXV1SHFyaE91V1VkM2hOWm9uOThXQ3QwekNwNU1tWVRNejdPOXExR0hoUU1pYVp4NThBeVY0?oc=5)
-
----
-
-### [L'Indiana a une communauté de 43 personnes qui vivent 10 ans de plus que leurs voisins : pas un seul cas de diabète chez elles](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
-
-2026-07-31 <span class="news-indication-tag">diabète</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWVtU2xpb2pEVzZPbnJwa3RmY1JWUThjRWtBOUxzRnZDSnBSaGo1b3NVUFR1OVdTYzh5dEduN01PRjdYYXowVFdBU2NTbFR1Z0c4ZjdLTzhqcHNqSHdjSlZOdV9EanRXNHVyUDVJWEh6a2dQTlduV2hyQW9UMUlCY28wSjgzSGE1Tk9EZk9UYS1jdVNWME04YlZnLVRlaW1CSjJEejBoMHVsYVFLeFg5a1JWTW81UExRb0doOWg1VlBGNjU0dTFuSm5qSTJZX3VtTHE3TVlXamk4NlNndlE0UUNB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEh1OXNRNU9qM3Axd2RWLTRqdVN0U1Exd25FNGRveGlKU0pZY0kxNGZsb0dDQ1AwdXVUZWU4aHV1QTRfTVMwdi1fb1dTRUNBU2c0ZHFGcEhxV3FjdENhWlpQNjZZTVdWczU1cTdNQlllRmlDRGlWemxkaFV6Z0RVRWlxV1NsNkg1NEZLd0ZZNS00b1hjOFpOcWdxRzZhclBzT1BLWG5kY1NtQQ?oc=5)
 
 ---
 

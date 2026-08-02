@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Wearables und KI: Wie CED-Schübe früher vorhergesagt werden - it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
 
-2026-08-01
+2026-08-02
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHIzcUJienZndVp3RWlieGpJUFlQQlNLV3U1TGVNWFhGby1IZU0yVHU5U0h1cHp1NkViR0F4MzBBbUlIVEFNSTRONEswRDJYOVNFMmk5cGVGVnRvYTY4ZnpWeDdzbThqekNtUFBMTXIzcTV3M3A1Yks1M1JMMTdWMGtHa21YTl9UNmRVTGk5bkJNcWVROVFr?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
 
 ---
 

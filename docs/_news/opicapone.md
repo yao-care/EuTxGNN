@@ -54,6 +54,14 @@ permalink: /news/opicapone/
 
 ## 相關新聞（5 則）
 
+### [Vitamin D: Hohe Spiegel reduzieren Tau-Protein-Ablagerungen im Gehirn](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Alzheimer-Krankheit</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
+
+---
+
 ### [Alzheimer : "Il n'y a pas de révolution" Ce qu'il faut vraiment retenir de la découverte japonaise sur la "graine" qui serait à l'origine de la maladie](https://news.google.com/rss/articles/CBMimwJBVV95cUxQUF94OElYOXlmSHhaeWdIeGVOSUF6TFRQRzJOVnFaUUlDVTd5bmNzQy1sMUQ1bjFsNy1SRGZIZzNVQlIwUDZ3ZlZnckdmekhTVDNRbkZyVHBhUVRFbTR0a0JqeEJpRmhXMW41bFVoYlYwR3R6UllWM1hUSEFncXQtdlc5UmNBbjRoVHJpN2JlX21xdk81aFlXV25wemZSSEFIQXl6M19HVzd4YWd1bWtsOUk2aTZZVVU3TmZmVkZ3MlZNNmV3VzFXZGtsUEg0ZllxbmNSZHhlQS1zR1hrUE5reDVnUmNLR2VmOG1Sc0pHWVRQamUzR0d4NGpfRDBjelVEa3cxU0NWQWdORHMzUE1ZUGdtbTVfYU1aaERZ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
@@ -62,11 +70,19 @@ permalink: /news/opicapone/
 
 ---
 
-### [Alzheimer: Forscher identifizieren Zelltod-Schalter NMDA-TRPM4 - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+### [Alzheimer: Forscher identifizieren Zelltod-Schalter NMDA-TRPM4](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+
+---
+
+### [Scientists Link Heavy TV Watching to Brain Changes Decades Later](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDVkMlVDZjMtOVdaOXQyaUs4MmhKWGZxYnNEVnF3bjQ0ZVhwUXdZamFoQ1hmbHBVZnNKenF1UUkwazM0ekViNnAweTlOMzBOdTlSM2g4eWtCXzJtbG9FRVhQbDVCamNBY1pGb3R5a19oLUhFMDNNN2x1WjVXZ0xZdncyOTY2akhENTJoTTJBU3MtOHNR?oc=5)
+
+2026-07-31 <span class="news-indication-tag">dementia</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDVkMlVDZjMtOVdaOXQyaUs4MmhKWGZxYnNEVnF3bjQ0ZVhwUXdZamFoQ1hmbHBVZnNKenF1UUkwazM0ekViNnAweTlOMzBOdTlSM2g4eWtCXzJtbG9FRVhQbDVCamNBY1pGb3R5a19oLUhFMDNNN2x1WjVXZ0xZdncyOTY2akhENTJoTTJBU3MtOHNR?oc=5)
 
 ---
 
@@ -75,22 +91,6 @@ permalink: /news/opicapone/
 2026-07-31 <span class="news-indication-tag">dementia</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmFhaHZNcDF6SFhyLTFMemI4ejZ4bVlHZzFrY1FvbVlSeUJnS2pSRUlfWTRXX3MwZlhrSFNueVFSSmlnaW9BcDZLbmgtOTdtei1BdHIxbDNZR1MtamdOVjhES2txOEtwU0Y4SllEY05tRnVNb010N2M3T3pWejVYZUJXWXFSeUE2NUhkS2hUWWpNX01VZXh3WHdqeTFXVG5UVnFFRzlZNlZ2T21YYVdsdUw3aGVPbE0?oc=5)
-
----
-
-### [Alzheimer-Prävention: Vitamin D reduziert toxische Tau-Proteine - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3QtWkxXWmpabjRtbGtrQTU2VzJkTzZhdjVXMmZmV1R1dnlxMkZhcWZJb2dQOVFja0tyWnF4UU5mUzNuam50OUI5M3BwaEFvSHgtUzNIMk1xR3pfc3ExUFV3WGU1cm5aQTI2ZlJOSWtwdm8zYWNKWjZDUXlTWWVlVGNPZ0RVcDJiendJU3QzNTBXMjY1dXN0YVVQYXRwcXB4dHdWcTA0SjdjYUlHSTBldGZ3?oc=5)
-
-2026-07-31 <span class="news-indication-tag">Alzheimer-Krankheit</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3QtWkxXWmpabjRtbGtrQTU2VzJkTzZhdjVXMmZmV1R1dnlxMkZhcWZJb2dQOVFja0tyWnF4UU5mUzNuam50OUI5M3BwaEFvSHgtUzNIMk1xR3pfc3ExUFV3WGU1cm5aQTI2ZlJOSWtwdm8zYWNKWjZDUXlTWWVlVGNPZ0RVcDJiendJU3QzNTBXMjY1dXN0YVVQYXRwcXB4dHdWcTA0SjdjYUlHSTBldGZ3?oc=5)
-
----
-
-### [Un mecanismo molecular que regula la señalización neuronal podría guiar los tratamientos para la epilepsia, el dolor y la enfermedad de Alzheimer - Adamed TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3dTcVJYSjk0amFFUG4xTC1MMTRVZGJFYm91ZnU4dDhXV1BGSWQzVWtMSmJCZE02aGIwZ2lLM1RqQWxGTTQzUnFCcFU2MVZMR2VEM2ZPbmlvdm9YbmNwajg3UHlYMnR3VE94RjFIcDR2eUJqZUZVeFp3S2g5TlZWdDdCZmp1bk16dVNtWjMtN2JnVEdnQUJraFhzV2xiS3hsTk5JRlFWSzN1MEFkaWdqaWVlb3J6ME1YcnpOY09SVmVKMjBSYldaZWpIQ1pHZVJMMW9MVUc2RUw4czlidXRMV00zTXRoZTlralpwQU1mM05zQnc3d2NVb1FFNHVuMjJZMXQtMUNCdTI4ZjQ?oc=5)
-
-2026-07-31 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">epilepsia</span>
-
-來源：[Adamed TV](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS3dTcVJYSjk0amFFUG4xTC1MMTRVZGJFYm91ZnU4dDhXV1BGSWQzVWtMSmJCZE02aGIwZ2lLM1RqQWxGTTQzUnFCcFU2MVZMR2VEM2ZPbmlvdm9YbmNwajg3UHlYMnR3VE94RjFIcDR2eUJqZUZVeFp3S2g5TlZWdDdCZmp1bk16dVNtWjMtN2JnVEdnQUJraFhzV2xiS3hsTk5JRlFWSzN1MEFkaWdqaWVlb3J6ME1YcnpOY09SVmVKMjBSYldaZWpIQ1pHZVJMMW9MVUc2RUw4czlidXRMV00zTXRoZTlralpwQU1mM05zQnc3d2NVb1FFNHVuMjJZMXQtMUNCdTI4ZjQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
-### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
+### [Médicos alertan de que los pinchazos antiobesidad se usan para la operación biquini - Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
 
 2026-08-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[diariosur.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
-
----
-
-### [En suivant 200 000 buveurs de sodas light, des chercheurs ont chiffré un risque que personne n'attendait](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
-
-2026-08-01 <span class="news-indication-tag">AVC</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh4dE1fZGlNSE9jelBiYmR1dUxXbHk4UlgwczdCV1VpMzJDLXB6RUVOcEVZREFEeUNBUjQwTldNakZscDV2TS1fUHRGZjdicEx6cFZoQTFDTUp3T3dKWFZjbzl5NDJ6el95SEEtNFZhRVJwZmpPc0ZfM1lTZjMxdlQtQnM1SHRNT0ZYdU8xTlZranJZS1BKU1Y3U0luUzdFWE5NeTRyUXpUNkNzX3kxTG1xZkl1MkFpSklEeUs5MV9jTHIy?oc=5)
-
----
-
-### [Cholestérol : et si votre assiette n’était pas la seule responsable ? - Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
-
-2026-08-01 <span class="news-indication-tag">AVC</span>
-
-來源：[Pourquoi Docteur](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXEzVHJleGRQRFluS3NfcFlEUXFGR0h3MEtDWXE5T1RNWTB0ZjlTcnBCeGVWSnhpeHlDSWpTaGNLTWJPN01jV1hfTkY5VkhMd3JPRF9LeFk2WkhtSXJLSnZDOW15SnEtVVlPNTFqNnZHVm1qbHZNNlplMXRFSVRTN0gzT3FMcVZNUVBUU1F1ODI5QVhpRzB5SklkTmktVGxqVXZIeFJEVS1zbmho?oc=5)
+來源：[Diario Sur](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWFDUGFPMU50ZGNSTW92aWx0eDdBc2NTTk5Ubkp1NVhCQnZtOEpFNDVOeklMZFdZZWVCdTFDWFBKWnowRkVTMkM5U2RscnczOHFDSTB4X0Jfd2l6XzZNeHdFQThGVEpaLW9fVzkwdHgwWFN2QUpVR193VWJLak82RXYyb09NamRjdUZVVEJQR1VkMDl2TW1JaFFUZURMUmxPRmhhZEEyei1mbXhVRE12ZlZzZXZOWmdHV2FtNlNJSXjSAcYBQVVfeXFMTXc1QWtaMjZPUGw4TlpXZmpRc0ZNVXJfdlBnREhvVHVsakVTazAyRmxIVm1wRjZfZ2t5QmdISUV1aTBZTHFQcjMzcGFwZVhWM3hKWm5XRkp6TkdxcjhZRXF0NWdZUkdFZTRWeVZkNldKbjEwT215SVVlQm0zTG9MSXlZYks5ZnZidDlPT2hHUXlCWXFULVVadVdIZ2lSYkw5ZDRGTkJUQUFXeEpmMUgwWHlGeUlPY1V4TDd4aFl3WDVtREZqUWVn?oc=5)
 
 ---
 
@@ -83,14 +67,6 @@ permalink: /news/orlistat/
 2026-07-31 <span class="news-indication-tag">obesidad</span>
 
 來源：[IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3dhNDRwaGthUDNzTk5IaXQtanpkNHdGaW1ERlZpNlcyZVBKbUV2cHpIUTRERmQ1SnZhVGprZVBOTlZKQ1Z0UmI2U2xpeFJtZkVvcGRyMExYTl9lOS0yemtVS3NFUUNKVWlXWFJYN1lxTFF5ZjV5YTV1WDRNV2dDZFJjbVg1cl9YOS15M3FOdllRajE2cVFtenlzdkFLRkluX3B5Z3JCX09BRFM3dXhzaWxMendmaERNNUd5LWNOXzgxZmfSAb4BQVVfeXFMT19mektmSjNjYzdlaWxGMG0yakRfdU9GSE1UTkZrbWdTZjk3emtybEFnOWkxaU56RDktWEhJT1JwUDhiSTEyTXFQSFY1ck9nOU5oUTh5cHBOSVlDVmNLdTlHdkYxa0JaMmFlVUU2SXZwUVZ2dVdWY0hXbFhSaFV4SDJQUHh1azR5cC05aGhYNXA1TkxlU08zSkVkeVJ3amVzRE9LOFFuckpzcUFvRTFRbVlDUU1kX01tamFnMml5QQ?oc=5)
-
----
-
-### [Santé. MASH : c'est quoi cette maladie du foie qui toucherait 8 millions de Français ? - Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
-
-2026-07-31 <span class="news-indication-tag">obésité</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMixAFBVV95cUxNY0pkSUVocFFCUGx5cWVqcVVVQk1iWkpzdl9UcFVHMWdXZHpnTnBPalM2MGFLMTRueGwyYXU0RXp2eFM3TmxyNWRaT3R6MGFpWXM1Q1FkeVpjMDlLV1p3aVc1ZDRydlgtMFh2cF91YzlmZVlNaWhRZVVvQzUtdEtNaThXTzNqbFljNF9LN3ZtaTNHNWR5aUxDbjJQd3dzSVdPTHNmcUc0WWJ5aW5EZmJfX0x1Tnd5UzlhNHFxOEtHTWU4eXph?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cinacalcet-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cinacalcet Hydrochloride 有什麼相關新聞？">
-<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cinacalcet Hydrochloride</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/cinacalcet-hydrochloride/
 <p><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（26 則）
 
-### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+### ['Clinical trial helped me survive rectal cancer'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZE1BSXFwV2IzanhzS0JMdGkzOE8zS1lXdlc1RXg4NXBZbk5CbVJzMmQwQW51LV81VGNURHNBUzAyRzJncG9YZmNzRHRFQTg2TUEyUlhLZnY2THZN?oc=5)
 
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+2026-08-02 <span class="news-indication-tag">cancer</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uZE1BSXFwV2IzanhzS0JMdGkzOE8zS1lXdlc1RXg4NXBZbk5CbVJzMmQwQW51LV81VGNURHNBUzAyRzJncG9YZmNzRHRFQTg2TUEyUlhLZnY2THZN?oc=5)
 
 ---
 
-### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+
+---
+
+### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia - El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hipertensión</span>
 
-來源：[eltiempo.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+來源：[El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Vitamin B12: 55 Mikrogramm täglich verdoppeln Lungenkrebsgefahr - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
+### [Vitamin B12: 55 Mikrogramm täglich verdoppeln Lungenkrebsgefahr](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
 
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
 
 ---
 
@@ -94,11 +102,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Ernährung gegen Darmkrebs: 80 Prozent der Patienten essen zu viel Zucker - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
+### [Ernährung gegen Darmkrebs: 80 Prozent der Patienten essen zu viel Zucker](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
 
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
 
 ---
 
@@ -110,11 +118,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer'](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
+### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer' - The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
 
 2026-08-01 <span class="news-indication-tag">cancer</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
+來源：[The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
 
 ---
 
@@ -134,11 +142,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Israeli study: Some body parts age faster, paving way for cancer treatment - The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
+### [Israeli study: Some body parts age faster, paving way for cancer treatment](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
 
 2026-08-01 <span class="news-indication-tag">cancer</span>
 
-來源：[The Jerusalem Post](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
+來源：[jpost.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xV0p0cUNjUTlKR3lXRjRZNmVOaXpXN0xKTkhjMDdrcmloeklENHhpT0JEN1NpUmFkdDRnblhfREVxdUdCTWdfNTRGOWt0NzFVMmtvRTNDTkg0UGtLMDg3Z2tjTE1UdEE?oc=5)
 
 ---
 
@@ -174,14 +182,6 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [On pensait qu'il fallait une endoscopie pour repérer un cancer de l'œsophage : il suffirait de souffler quelques secondes dans un petit tube](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTnBiUjM4NGY0bVoyYjRPX0hKcWlBUU1fVWh1azNJMkRPUmhGSWozYzU4cnltWDlSZGk1NENXVDVPNFdNdUdsekduOUl3OUVBTHpiNzRxdXE3MUg0UXVQc2ZVYVhfRHk3MExma1gxYW56YU9DX3R0a2hlaFE5Q0dmeGZDOFZueVFWZVNILVk1UWFTdnVDUDFqOHFVNWNOTDY2VWp5U1B1azdMeWVBRmRjN2NCa3FEUk9FcDY5U3puWXlzY0ZUNV92eGJyejFJZFdVY3FwbjQ2YW5ydVpYbXFVUUtweWZoNlZoNFg5V0pMUkI5M1k?oc=5)
-
-2026-08-01 <span class="news-indication-tag">cancer</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTnBiUjM4NGY0bVoyYjRPX0hKcWlBUU1fVWh1azNJMkRPUmhGSWozYzU4cnltWDlSZGk1NENXVDVPNFdNdUdsekduOUl3OUVBTHpiNzRxdXE3MUg0UXVQc2ZVYVhfRHk3MExma1gxYW56YU9DX3R0a2hlaFE5Q0dmeGZDOFZueVFWZVNILVk1UWFTdnVDUDFqOHFVNWNOTDY2VWp5U1B1azdMeWVBRmRjN2NCa3FEUk9FcDY5U3puWXlzY0ZUNV92eGJyejFJZFdVY3FwbjQ2YW5ydVpYbXFVUUtweWZoNlZoNFg5V0pMUkI5M1k?oc=5)
-
----
-
 ### [Neue Empfehlung zur Erfassung und Therapie von Mangelernährung bei Tumorerkrankungen](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmJfNkxFNWlaU18teDJucm1ZYXVHSGowTXdwMmxoQkd6VWtPb2hnQTRaUE43dWw5eUZPanhiMlBsamtHMFM1ZUFtNlZmaHltZl9ERFVmVHZITDY0MWtlSjlPUUJxZTlVeXVobDdXdzRadThoaUJLM0JLOWY2bVI2Wk01VDM5VVdXVldLSnYzS0lLSURRYlA5dXF2ZDZITUZIOFpMZy1PdURHQ0ZvWjJ0TVZieTdJQ0djRjhCbVJiTjdWbFNxUmR6b2tYTk1JblE?oc=5)
 
 2026-08-01 <span class="news-indication-tag">tumor</span>
@@ -190,11 +190,11 @@ permalink: /news/cinacalcet-hydrochloride/
 
 ---
 
-### [Viagra e tumori, la molecola può frenare le metastasi: cosa dice lo studio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
+### [Viagra e tumori, la molecola può frenare le metastasi: cosa dice lo studio - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
 
 2026-07-31 <span class="news-indication-tag">tumor</span>
 
-來源：[lanuovasardegna.it](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
+來源：[La Nuova Sardegna](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXlWRlg2emFYTEdldm5zUnlJeHJ2T0o4bmt0bFpNcXJkaEh6bHZZczdBc0ZpNHZGYjJTSVpHQVc0QmMweFE2NHQ5OGRQTlVGNjFmbmZpSkpkSWJfWVNBSjM4YTdSMklPNHAtRVYtd0JRcFE5RnhMUGVYSmVLd2plTmlnbU1qd3UteFJTV2UzdEZaY3dzMGtaT0ZvSlg5RFhUWTRYM0J4Yzd1ZEJEUjZLWmIzR2pjZXF1c00tZFRuM0xCdFZ1SE1Id3FCc01FSzVrRlAzOENB?oc=5)
 
 ---
 
@@ -259,14 +259,6 @@ permalink: /news/cinacalcet-hydrochloride/
 2026-07-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
-
----
-
-### [Cancer patient becomes world’s first to receive ‘landmark’ treatment - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnV4dlJHRHJXVWZhLXJvRE9KNUlHc1FtVEFTTHFjQ0FfSUJNREVlYnpHbUVOYTZqeVQzUEN2SklwYTJ2WkhDSjVHNkZjRVB2aFVFaWY3VjdBNDZDSHlIeG5tMGZPWVlwaU1WMUNMVHc1LWxNa0UwWi0xR054Y3BjV1FkZExLcmtsLVV3QTlzTE9SRHg1ZjBQQ1RxTGMzZTJnZHd3d1NTWWFDeFU?oc=5)
-
-2026-07-31 <span class="news-indication-tag">cancer</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnV4dlJHRHJXVWZhLXJvRE9KNUlHc1FtVEFTTHFjQ0FfSUJNREVlYnpHbUVOYTZqeVQzUEN2SklwYTJ2WkhDSjVHNkZjRVB2aFVFaWY3VjdBNDZDSHlIeG5tMGZPWVlwaU1WMUNMVHc1LWxNa0UwWi0xR054Y3BjV1FkZExLcmtsLVV3QTlzTE9SRHg1ZjBQQ1RxTGMzZTJnZHd3d1NTWWFDeFU?oc=5)
 
 ---
 

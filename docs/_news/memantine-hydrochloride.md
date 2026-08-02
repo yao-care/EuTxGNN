@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
 
-### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
 
-2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+2026-08-02 <span class="news-indication-tag">artrite</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
 
 ---
 
-### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+### [Bluthochdruck: Fixkombination senkt Therapieabbruch um 39 Prozent](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+
+2026-08-01 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">CKD</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hnQ2hxZmlnejFSMzBBODFjeTRZZk05dldJRW5fR3RrTG96Sjhhajl3cEdUYmNrck16aEthZ1FGalNMMVpmQm82M29TWUExTUdJMFQxLUhLYXBaQmxydVVDR3NnY0pTUDh6aFJFVksxbmkyS1g4bFlmZG04OXhUdGdUWFRoTUhyMHRLM3FLaTlNOGgyU0dKTS1XUHotV0xBa0h2VFpDRmVsd0RqYUhBQnN5UQ?oc=5)
+
+---
+
+### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia - El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hipertensión</span>
 
-來源：[eltiempo.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+來源：[El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 ---
 

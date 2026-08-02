@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="Prilocaine 有什麼相關新聞？">
-<strong>Prilocaine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prilocaine</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ permalink: /news/prilocaine/
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（27 則）
+
+### [Kardiologen nennen die sichere Tagesgrenze für Kaffee - Forschung und Wissen](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHJobkRQVE9ZRFBYdk9STkRCUndCTHNzLTJUZkI2M0xJcW03X0xiWUxjalltSkU4aENIMzRnSm5aMWVDTXpYUXBvLUdvNzhBeXBLc0pBdjdGOFFGLVUtY05MQzcxVVFXODlRRWZicmViU0Zmb2VEQ20wN2JqRFFFREpLZ2o2TEdScDhYcjF4RUNHcTJvNk9oUHdyMFA3eHpJSGdrd2thSmpyaHpLRUZXZHdvd2VtekFVRUtFaA?oc=5)
+
+2026-08-02 <span class="news-indication-tag">AF</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHJobkRQVE9ZRFBYdk9STkRCUndCTHNzLTJUZkI2M0xJcW03X0xiWUxjalltSkU4aENIMzRnSm5aMWVDTXpYUXBvLUdvNzhBeXBLc0pBdjdGOFFGLVUtY05MQzcxVVFXODlRRWZicmViU0Zmb2VEQ20wN2JqRFFFREpLZ2o2TEdScDhYcjF4RUNHcTJvNk9oUHdyMFA3eHpJSGdrd2thSmpyaHpLRUZXZHdvd2VtekFVRUtFaA?oc=5)
+
+---
+
+### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+
+2026-08-02 <span class="news-indication-tag">asthma</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+
+---
+
+### [Neurocosmética: qué es esta tendencia y cómo mejoran sus nuevos ingredientes en la piel](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlpSVHZMeTMwYXRFS014Y3N6LVh5NlJZTjZWbjBfd0FyWnp4NTFQTTRRQmRNc1VJTXRfSGJ0Nm03SURZaUlDaE1mZHAybXF5LVpYWXpwcTFBb3JkYzJja2VRQ2VjLUQxdG9Semp4UTcwMm5Gc2ZMejUxUFJEcDAxOEVBa1U3TmN2aUx3Tl9EZ0ZWYmxfbDYtRENLZENZeVdEWmRGUDgzRnBCUzJlcTIwQWVEdWZmYm5ncDN0SzRPN0dpTGJrdUNPczRlQ2dCSXVDTm4wcEFMRzA?oc=5)
+
+2026-08-02 <span class="news-indication-tag">AF</span>
+
+來源：[Telecinco](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlpSVHZMeTMwYXRFS014Y3N6LVh5NlJZTjZWbjBfd0FyWnp4NTFQTTRRQmRNc1VJTXRfSGJ0Nm03SURZaUlDaE1mZHAybXF5LVpYWXpwcTFBb3JkYzJja2VRQ2VjLUQxdG9Semp4UTcwMm5Gc2ZMejUxUFJEcDAxOEVBa1U3TmN2aUx3Tl9EZ0ZWYmxfbDYtRENLZENZeVdEWmRGUDgzRnBCUzJlcTIwQWVEdWZmYm5ncDN0SzRPN0dpTGJrdUNPczRlQ2dCSXVDTm4wcEFMRzA?oc=5)
+
+---
+
+### [Ebola, il virus si può fermare: la lezione dell’Uganda](https://news.google.com/rss/articles/CBMirwFBVV95cUxQS001QU93R1V3aWpvRVU5V3NRTUJUZnNGRFRYOGtxa2I0RG9sY1AydVpRUnUwV0N1Sjh4WG41cUtsY0dCNnEtVjJ5enZyTkZDSzdURUNKQlUxQVhLUEo2WEozSEo2NVYxNXdEc2VoR3FjZmxtbXRHLUFrUGxydmJ0VmkxWjVzSVBOa0lsMUlkeVctb21qOHN2Y25ucEZjbTRWSzVKY3hZazRnYnNlbzFZ?oc=5)
+
+2026-08-02 <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMirwFBVV95cUxQS001QU93R1V3aWpvRVU5V3NRTUJUZnNGRFRYOGtxa2I0RG9sY1AydVpRUnUwV0N1Sjh4WG41cUtsY0dCNnEtVjJ5enZyTkZDSzdURUNKQlUxQVhLUEo2WEozSEo2NVYxNXdEc2VoR3FjZmxtbXRHLUFrUGxydmJ0VmkxWjVzSVBOa0lsMUlkeVctb21qOHN2Y25ucEZjbTRWSzVKY3hZazRnYnNlbzFZ?oc=5)
+
+---
 
 ### [Ernährung bei COPD: Worauf Betroffene achten sollten | DIE PTA](https://news.google.com/rss/articles/CBMingFBVV95cUxNUkg3cldacWhkTHQzVU1vMTVaX2VDRXI3OGtNTnBHNXB1SGRaX19KTlN5eDVRQlMwREwwZGpZXzBwNC1DX2ZGRzU3cjJVNnZmbGVfN1VORTcxYUpWdU5nMU02VFN3V3U1TldXaGZJQUE4anAzNDFOOXZ2MHFGSGNfRTN1cUNFMVJIT3pQSklyeTlUdFhoMDNxT0VJVmRGQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">copd</span>
 
 來源：[diepta.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNUkg3cldacWhkTHQzVU1vMTVaX2VDRXI3OGtNTnBHNXB1SGRaX19KTlN5eDVRQlMwREwwZGpZXzBwNC1DX2ZGRzU3cjJVNnZmbGVfN1VORTcxYUpWdU5nMU02VFN3V3U1TldXaGZJQUE4anAzNDFOOXZ2MHFGSGNfRTN1cUNFMVJIT3pQSklyeTlUdFhoMDNxT0VJVmRGQQ?oc=5)
+
+---
+
+### [Au Congo, l'épidémie d'Ebola s'intensifie à un rythme "exceptionnel", l'OMS constate "une augmentation continue du nombre de cas signalés et de décès"](https://news.google.com/rss/articles/CBMimAJBVV95cUxPdFF1UzdHZS1tNFBQUElVbkV1MGt0SWRVQ2dKVW1BSGpCN2gzNzBJM3BTRWFsRzRtbDFSOThUUEhQRXZYYlo3TUJOUGZTd1ZVUXIweTE2OHZmc0FHcjItdTcwVVNwckFTMS1wUFRBVjV0ZEN1SGd2eXJlYk9iUWszZnFkb1JLeVRRcFRSYk9uWWg2MWtjV1hHdC1GR2oyYWlSLUdTTUVjMGNNTzc4LVk0OXpkMVNYbVN4OW01REZrcGpOMTNkSE8tXzhUY08ybGt3X3R1WjBuVnZna2tJaDJzaFJEb1ozeE1DSDFNT0VKOTRYTk53MU9sSXFrN082eW1JRE12bVIxTGl0a29Ga1JCMnFGVm5HQTJp?oc=5)
+
+2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMimAJBVV95cUxPdFF1UzdHZS1tNFBQUElVbkV1MGt0SWRVQ2dKVW1BSGpCN2gzNzBJM3BTRWFsRzRtbDFSOThUUEhQRXZYYlo3TUJOUGZTd1ZVUXIweTE2OHZmc0FHcjItdTcwVVNwckFTMS1wUFRBVjV0ZEN1SGd2eXJlYk9iUWszZnFkb1JLeVRRcFRSYk9uWWg2MWtjV1hHdC1GR2oyYWlSLUdTTUVjMGNNTzc4LVk0OXpkMVNYbVN4OW01REZrcGpOMTNkSE8tXzhUY08ybGt3X3R1WjBuVnZna2tJaDJzaFJEb1ozeE1DSDFNT0VKOTRYTk53MU9sSXFrN082eW1JRE12bVIxTGl0a29Ga1JCMnFGVm5HQTJp?oc=5)
 
 ---
 
@@ -94,14 +134,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [S1P-Signalweg bremst Thrombosen im Mausmodell ohne erhöhtes Blutungsrisiko - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
-
-2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRxb1ZhMmduQkhSenUtTnpxc1VKSV95YTBzaVNBajhuY2wzVEF6RUItR25nYkNwRW5Rd183RUZsY2hsMXZTVFV5Vk1LMEhOLWJWLVQya2hOUHIteExFT2ozcGFSSVJEZ2xZd25rY09mbUl6WFh1WGlDMkhPV3RMRG9vY0l2ZTM2UThnaGdXR3UweEFFUFlSYjBFZkRIaUJ6bGlqQmEyWndxckU?oc=5)
-
----
-
 ### [Gehirn ab 50: KI-gestützter Einzelzell-Atlas zeigt Verlust schützender Immunzellen - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWt0b2pyWUxTUVZmbUF3RldjZUhHcUtrT0lIUDJTbmI2bjJaN295clNqdE5tQktOazBGYzUzMHM1VHM0eVhFQWxGeEJvZjYtazhiQkZ6TUZHdFhmSGN5YVNrRHJMakV2dzZXeVZhSHRhaUFCdGctU0Fld1lzdFB3Sm9qUGg3N3FMNDNxQ3RZb3B6U3ZpaTZlYjBmUHIxcl9QNTg2dC03cmwzb3pLMFBlYW5vX29LQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">AF</span>
@@ -115,14 +147,6 @@ permalink: /news/prilocaine/
 2026-08-01 <span class="news-indication-tag">AF</span>
 
 來源：[Fanpage](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVdlRmlRTlRaYnJrUkZOUnJkNzJYZllXLVJqUllYOGxDaTNvMkN3X3ZjVnQtVHpGQ1RQN2NmQ2pnUlZvdU1mUHlvbE8xenRTNXZxekdWMkpicUtDdG51aG40eXRjcHBwSnM5UkxZS1h1YVZZb3NibEg0VzlicThtSUx2VExjYmI3aHc5SV9TZGI4Q3hFTXRyTGJfVHktZDhhM2UyemhTSHhkOGtuWktFcGRVdnRzdUI4eTNyLTRHbnRndUk2aE56OXBOMkdfbV96Y3ljRlZiMA?oc=5)
-
----
-
-### [Studie identifiziert Bakterien, die den „Bauernhof-Effekt“ auslösen](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asthma</span>
-
-來源：[topagrar.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNRGdxZHdYckVOb2MweGl4SEhBdjZsVjJTdGJoV2hrU2JmNDF5TWFoNDdTbW4wdXc2ZDdCaDZMRVVZNnJ0OUNGTl9EbGhvMzZTemRHWnNQMklLcV9halNLMVVaNmVpeThwUG1oR3ZQd0F4S3Z5NlFDSUtrWDdPUm0tTU93ZkQxQ2gwNUFaQVZZVlg3V1lJcVhFcDFZYURLY0xkZjBjZk9mM0k0MjJ0ZWQwbV9BOVdfejB3OVRiWDFmVlpqRm1qdUk0?oc=5)
 
 ---
 
@@ -158,11 +182,19 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Alzheimer: Forscher identifizieren Zelltod-Schalter NMDA-TRPM4 - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+### [Alzheimer: Forscher identifizieren Zelltod-Schalter NMDA-TRPM4](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
 
 2026-07-31 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVFxV3JwTnZ3a00yUDFsYTFqZmtXYWNyUkNjYWZsVTM5Z09ncHR5NTlRZmtIUUtkNjFGZERERFEzU1VRc0VrX3Y2VWRqak05YkZJNUZnQjRYZUFMOEd3eEMwb1A3OHhVLTZBYmQ4NHVIRlhfNWF1d2luN1BPVFI1NzdnQU9mWmVMbkxrQUFiUS1mVF9jNk1yeGhsdFI5MGg1Y2d1UzNKZTV3a0dXZVRr?oc=5)
+
+---
+
+### [Florida sees first death from ‘flesh-eating bacteria’ this year - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1hZekl3UDRRdTZJa18zZ3ZEMDctUHVZQ19wYmtBTE5oM0VNRDJFX0c1Ykw5N0pDTk92ZEZneVBzejVPSmNIQmF2OTExdnU5Ynd4UnM3TmZUUnB0dTFfVnA4UnRsaC1TYWlqYnZLRHU4ZGlleW9UT1dVNFQxaXVqZkhOdU12TDZBdXFhbWo3bmxUOWYwcU9fcVgyeW1WWDZnRE5JMVNhTUt4d2o2MVo5Mw?oc=5)
+
+2026-07-31 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1hZekl3UDRRdTZJa18zZ3ZEMDctUHVZQ19wYmtBTE5oM0VNRDJFX0c1Ykw5N0pDTk92ZEZneVBzejVPSmNIQmF2OTExdnU5Ynd4UnM3TmZUUnB0dTFfVnA4UnRsaC1TYWlqYnZLRHU4ZGlleW9UT1dVNFQxaXVqZkhOdU12TDZBdXFhbWo3bmxUOWYwcU9fcVgyeW1WWDZnRE5JMVNhTUt4d2o2MVo5Mw?oc=5)
 
 ---
 
@@ -190,6 +222,14 @@ permalink: /news/prilocaine/
 
 ---
 
+### [Quarto caso di Febbre del Nilo in provincia di Oristano](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0MXVqR2Y1a29COGZvVng2TVFoRHZCaTlUTmJGWW5aVGxtMFFTZWxlRU4waDZZZExicTFUTktid3JPQTdlaWduSVN6LUY2ZzFpWDFrLVZkN2UwQm1ndWZQeXZybTI5WE0zcTVZS05nMUZPWUtxZTVSd3FHSXVvMkhpMVQzLS1WNUo4U2IxckdSTXJacjRJRDI3ONIBoAFBVV95cUxNZnY2Z2FsRlg5RlBfVGs0VEVxWUJVb0FNX3dheTVxZTdHSW9SVkZYQnl6Q3FMbHBGbXo1MTFBNjdLbG9GQlFjbU9sZ2QwVXdodDV2eDdORjZ2Q1ItY1lvYVNaeGtkdzhYOFlLb08yREl3WXlnOU9HaElIWGVQajNYZk5Xcm9EN3FQbFpFaEc3TEJGVUdVTU1YOEEzZlRSWVVS?oc=5)
+
+2026-07-31 <span class="news-indication-tag">AF</span>
+
+來源：[LinkOristano](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVo0MXVqR2Y1a29COGZvVng2TVFoRHZCaTlUTmJGWW5aVGxtMFFTZWxlRU4waDZZZExicTFUTktid3JPQTdlaWduSVN6LUY2ZzFpWDFrLVZkN2UwQm1ndWZQeXZybTI5WE0zcTVZS05nMUZPWUtxZTVSd3FHSXVvMkhpMVQzLS1WNUo4U2IxckdSTXJacjRJRDI3ONIBoAFBVV95cUxNZnY2Z2FsRlg5RlBfVGs0VEVxWUJVb0FNX3dheTVxZTdHSW9SVkZYQnl6Q3FMbHBGbXo1MTFBNjdLbG9GQlFjbU9sZ2QwVXdodDV2eDdORjZ2Q1ItY1lvYVNaeGtkdzhYOFlLb08yREl3WXlnOU9HaElIWGVQajNYZk5Xcm9EN3FQbFpFaEc3TEJGVUdVTU1YOEEzZlRSWVVS?oc=5)
+
+---
+
 ### [La UIMP pone el foco en los desafíos de la salud mental: desde el TOC hasta las adicciones - Universidad Internacional Menéndez Pelayo](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkFCTmJXSzB0dUtpWXhqdWc4SnM0T0tFRDA0Si1Sc25jb1pPb252ZFYzbldhdEdhazNOclFzdDcxTlR0NWVfRGowSWE4Zjl4UEFDb1BseUZvUnBZaWJUdnAxUUJvRFVuMnJXcWJQeEpGMnlwSzkxbktscGE5eVoxQzJRSnhnMlIxcnJncEN3Y0szd3hDTmNYdjgwZm8?oc=5)
 
 2026-07-31 <span class="news-indication-tag">AF</span>
@@ -214,14 +254,6 @@ permalink: /news/prilocaine/
 
 ---
 
-### [Wenn du schnell gehst, hast du laut Studie diese besondere Eigenschaft](https://news.google.com/rss/articles/CBMiygFBVV95cUxObzJzSU96Yl9YRklHWHhmd3NzSFZ0RUdMN2ZGckFJd0dHSzZXRW5jUDE2TnEzTmZUaTVJSUxHZ0lYTHRreDJaNHNydWFBeTFpSWdHYWQ0cTlJVWNMRXYxTkZraG00NzdDSDVLckNvVUxKaUxQX3lnTmk2TFVrTjFRN0swaHdRektBRk1FTXFHcHc4SUNtWVpTWXkxRGc1WDd6VV8xSzlSbDZfM0E3NzlKRkZvMTQyYXV2elBzVS1abExpYUt4Mkw1RGJn?oc=5)
-
-2026-07-31 <span class="news-indication-tag">AF</span>
-
-來源：[desired.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxObzJzSU96Yl9YRklHWHhmd3NzSFZ0RUdMN2ZGckFJd0dHSzZXRW5jUDE2TnEzTmZUaTVJSUxHZ0lYTHRreDJaNHNydWFBeTFpSWdHYWQ0cTlJVWNMRXYxTkZraG00NzdDSDVLckNvVUxKaUxQX3lnTmk2TFVrTjFRN0swaHdRektBRk1FTXFHcHc4SUNtWVpTWXkxRGc1WDd6VV8xSzlSbDZfM0E3NzlKRkZvMTQyYXV2elBzVS1abExpYUt4Mkw1RGJn?oc=5)
-
----
-
 ### [Common sugar could cause cancer to spread, scientists warn - The Independent](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnhpRlJMXzhwdVZrOXJVbkdaMGNDNjFONndQWklfT21QU25vSFUtUGp1VU4wbVJhUlBnZjdvMm9rQU04ZmhncUZJZUtHYVMzV3UzYzVwbDUzTlY4YWhWYlhWRlFUdkoxNERYTU9zOVpwemtPcGtibTBNTjY5WVlTa19HQ0pRWmRPWFdUaUZNS3FxaXVDUHZxVjVJVVRvTk5WRC1QbWVVYmc2QQ?oc=5)
 
 2026-07-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -234,15 +266,7 @@ permalink: /news/prilocaine/
 
 2026-07-31 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">MS</span>
 
-來源：[TARA24](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
-
----
-
-### [Girl’s undisclosed death in gene-editing trial raises red flags in booming Chinese industry](https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXhnRlpmMGRlVGF4NzlqSkZrMGEyQ1FqX0FjQ29OY1N5TzJkQjItdWxsNlNqckFsdlV0a1BDV2xsMjlJbHBUdHhYV3ItYU5mdjhsMXJYNGVMV2NrMzgxT1Z4TUJQM2VIak1DRE1kS2RHUkhyaFMwSmdDWXl2bGpfWUZR?oc=5)
-
-2026-07-31 <span class="news-indication-tag">AF</span>
-
-來源：[CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXhnRlpmMGRlVGF4NzlqSkZrMGEyQ1FqX0FjQ29OY1N5TzJkQjItdWxsNlNqckFsdlV0a1BDV2xsMjlJbHBUdHhYV3ItYU5mdjhsMXJYNGVMV2NrMzgxT1Z4TUJQM2VIak1DRE1kS2RHUkhyaFMwSmdDWXl2bGpfWUZR?oc=5)
+來源：[tara24.at](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcllLaW9JZTZranNkamZMU25xbWZQd1VNakhLRjRDdXFFM2JUblo1U2N5N1BLY2tyNnFPMUhPOTJwRGc2c0czQmwtcHVVTGNZR2k2d0ttSlhFcGJLQ051alVpUFM2WjFGaVNhWmRUZmpyQ3VvWnV2U2ttaGR4VzcwRi1WU2RaR3pCZmhFSEF2WS1HdHp6MXpGb3pPaVhRcGs1d0pPLWVETkZ6bmFkam9md0xxRzR5S2VEVl93X04xVW1xQQ?oc=5)
 
 ---
 
