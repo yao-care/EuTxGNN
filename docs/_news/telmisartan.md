@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [La menopausia prematura es un factor de riesgo de hipertensión arterial](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2dydnppWldRNEJDaWhrNjN5d3MxVmZkY1c3XzFpNUNmNU5zeGQtQzdTZFh5eURXQ29XUkR5TFQ2TGtTOEZVMjRTWGVyQ3h1YXBxbXE0Uk5iancwejhMdm1UTTFvSTdWMW13YXNkVHVBWXotcXZ5bkRrSXByVkFYZnUtUVUyWE4ya01tRGo4M1dFM293RG5MQVpfZ1NvUkhKQjRZWDBhdnNVbnJMR2tOOWZ1OEJ3T2s?oc=5)
+
+2026-08-03 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2dydnppWldRNEJDaWhrNjN5d3MxVmZkY1c3XzFpNUNmNU5zeGQtQzdTZFh5eURXQ29XUkR5TFQ2TGtTOEZVMjRTWGVyQ3h1YXBxbXE0Uk5iancwejhMdm1UTTFvSTdWMW13YXNkVHVBWXotcXZ5bkRrSXByVkFYZnUtUVUyWE4ya01tRGo4M1dFM293RG5MQVpfZ1NvUkhKQjRZWDBhdnNVbnJMR2tOOWZ1OEJ3T2s?oc=5)
+
+---
 
 ### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/telmisartan/
 2026-08-02 <span class="news-indication-tag">ictus</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMirgJBVV95cUxQNG45UDlBVHN0OFk3MFlJNWlpdGZIWEhGcWFRVGRhQjFkcXdrZGM1UXZTSl94Sk5DNGE4TEVjYzl2QlY1a2d2YVd0Ym1GU1VjUWJ0QmtFUEN0RmtVZzlJNjhlVFdEOTc2dW1fTDJWempveFVKSFZ0TkVVQlluQ0dJOTk2SjktdzJYNUE3TGRJYlpYZlNfdllBTEpnYUplQmZzemczSWpLUjZFODlITi00ZVF0SHlZdU02WmZnTjgyNDVMRWJ3SV9qbDRKUzlNVlhyWk1zWDliUEJCZHVDMGVOS1g0QUFEM01fbUstbXlLeEpJRVh0Z1R1bnU4VmRyXzliZGlJQmM0MWkxQUs0SUlUaHgyU19lbklRZjdCUl81LUFQLVVZS3NndFZKcGFkZ9IBswJBVV95cUxOYVQ2QVJOa2pKV1V1bWxWT1pDLUtRNjFmTnk2emRUdTUySE5mYTRtVVc4aV9aeWF4bWRxQk9JOU5wenUza2NpQW1HanFiZVNISWdBc0dYTTJlX3c2NHRmcHVTLWRaUndNZWZxbVNhSENtOEJJeVNselNOS3dIQ01tc2V5V1FjaGVwOE44MjVrSElEN3VCa1Q3V0hyUktxTFVnV1NWM3JnOXBuYTlGMU9tZ1YtdGNLaFJSUW90NFJRZUN2b0RKRks3YzlzRll1cnF5OXpMZElVTTB1V2h4bUlUWnJseEtBSnZLMFFnZ1BEMi1QQW1SQXJGc2JOeHhvV0dHZDRTLURZUW1FVEVmYmswOERaOWIyMlpjNVVEZEdDT3pfT2V0REtqUHhSR0FITnczek9J?oc=5)
-
----
-
-### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
-
-2026-08-01 <span class="news-indication-tag">hipertensión</span>
-
-來源：[eltiempo.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
-
----
-
-### [Hypertension artérielle : les défis du dépistage et de la continuité des soins - Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
-
-2026-08-01 <span class="news-indication-tag">hypertension</span>
-
-來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
 
 ---
 

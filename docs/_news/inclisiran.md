@@ -54,19 +54,19 @@ permalink: /news/inclisiran/
 
 ## 相關新聞（4 則）
 
-### [Médicos explican cómo diferenciar un dolor de cabeza normal de una migraña y las señales que debemos tener en cuenta: "Hace que el cerebro se irrite con mayor facilidad" - Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">migraña</span>
-
-來源：[Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
-
----
-
 ### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 
 2026-08-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">emicrania</span>
 
 來源：[Leggo.it](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
+
+---
+
+### [UAE approves use of drug to combat 'silent killer' high cholesterol](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlQ0QXdnNlkzaFZORkJMUEMzMDZfcERVZDlfeVBObG5QNzNWWUc1dEZXNEZidVREdndyRExXMXdHVTFhdUFVd2plbnlyTy1oUGZpbWRFRmg3UlkwdFRfd09sYmRsSXloXzRFdVpNcGlJYVJFeGpkTEtCSjFzZ1JRaUR4WHRiREthMjdhZlF1RGNDODNESWJfQ0R2Wm1RUWlTTGtHeEROcWJ3bmZuRGFpQm1uUXoxNE13Rnc?oc=5)
+
+2026-08-02 <span class="news-drug-tag">Inclisiran</span>
+
+來源：[thenationalnews.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlQ0QXdnNlkzaFZORkJMUEMzMDZfcERVZDlfeVBObG5QNzNWWUc1dEZXNEZidVREdndyRExXMXdHVTFhdUFVd2plbnlyTy1oUGZpbWRFRmg3UlkwdFRfd09sYmRsSXloXzRFdVpNcGlJYVJFeGpkTEtCSjFzZ1JRaUR4WHRiREthMjdhZlF1RGNDODNESWJfQ0R2Wm1RUWlTTGtHeEROcWJ3bmZuRGFpQm1uUXoxNE13Rnc?oc=5)
 
 ---
 

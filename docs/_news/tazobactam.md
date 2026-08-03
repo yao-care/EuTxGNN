@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="Tazobactam 有什麼相關新聞？">
-<strong>Tazobactam</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tazobactam</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tazobactam/
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Fettleber-Risiko: Blutproteine zeigen Gefahr 16 Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORTFBNkl1a1dsdGswc3JrcFMxOFMwLVVobUtvd2oyNkNKdW9mVUdKSDhkWk5BU19WenVwN1dNZUZWOUg5M3FSSEt2VzByU1RTYVJRV2RHWlg1Wmk4RFFGbmp3c2F6R2hfaEpoa19RV1RRai1GZGZ2V1dESEJBRm1JS1NDa3B2d184eVJiVGlzVUcxSW9NdE1IWi1XRXBhWVYwcVlPTVpnbngyenVKOXc?oc=5)
+
+2026-08-02 <span class="news-indication-tag">asma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORTFBNkl1a1dsdGswc3JrcFMxOFMwLVVobUtvd2oyNkNKdW9mVUdKSDhkWk5BU19WenVwN1dNZUZWOUg5M3FSSEt2VzByU1RTYVJRV2RHWlg1Wmk4RFFGbmp3c2F6R2hfaEpoa19RV1RRai1GZGZ2V1dESEJBRm1JS1NDa3B2d184eVJiVGlzVUcxSW9NdE1IWi1XRXBhWVYwcVlPTVpnbngyenVKOXc?oc=5)
+
+---
 
 ### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/tazobactam/
 2026-08-02 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
-
----
-
-### [Fettleber: Risiko für tödliche Herz-Kreislauf-Erkrankungen vervierfacht](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asma</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
-
----
-
-### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
 
 ---
 

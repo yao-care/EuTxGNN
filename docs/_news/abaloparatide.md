@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Médicos explican cómo diferenciar un dolor de cabeza normal de una migraña y las señales que debemos tener en cuenta: "Hace que el cerebro se irrite con mayor facilidad" - Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
+### [Disfunzione erettile: il campanello d’allarme che gli uomini non possono ignorare](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
 
-2026-08-02 <span class="news-indication-tag">migraña</span>
+2026-08-03 <span class="news-indication-tag">diabete</span>
 
-來源：[Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
 
 ---
 
-### [Ballaststoffe: Harvard-Studie belegt 33 % Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
+### [Precision Nutrition: 1,8 Mio. Euro für KI-gestützte Diabetes-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHYwTGRTYVFKOWFrSE9OcnZVemRZWXlGc2QxTGhmSDdHczFDM002ZGxyZFlXRHlQYjQ0c0VoUkg2WnViaDZKenc2YnVYaE55bHdYeVpNeXdmam9hbFlCbmpLVHhJdm4wVG4wbEIzU0dhOE1OOXpQNTFsb2ZvWjhBcjN6TmxVWjluS1N4Rm5Qd3ZiRmpkdXduclpxMjFJV1ZXUlYzcEpZcDVJdGNiSHFZQk45WngyWnRuZ01uQW1n?oc=5)
 
-2026-08-02 <span class="news-indication-tag">diabetes</span>
+2026-08-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHYwTGRTYVFKOWFrSE9OcnZVemRZWXlGc2QxTGhmSDdHczFDM002ZGxyZFlXRHlQYjQ0c0VoUkg2WnViaDZKenc2YnVYaE55bHdYeVpNeXdmam9hbFlCbmpLVHhJdm4wVG4wbEIzU0dhOE1OOXpQNTFsb2ZvWjhBcjN6TmxVWjluS1N4Rm5Qd3ZiRmpkdXduclpxMjFJV1ZXUlYzcEpZcDVJdGNiSHFZQk45WngyWnRuZ01uQW1n?oc=5)
+
+---
+
+### [Ballaststoffe: Harvard-Studie senkt Diabetes-Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdJcnZkTmxoOFYtR2RJT3NvVW9kRDVodDFIS3BwbU5NOUtWSkpnVjZSQUktWXRNTFpLV2hJTV80MlAzaXFNd2RMam1IRm1zZnRyOXQ3d1dPWXo3bmFMMkNXemtJWERMN1dZNE9KVldBQkxXRDgxN1V4bDRsYkkyWkp4UHlyWUkyajBCQTZFYTNmX2xoMVRobmV4ZzQ4XzgwY20ya0RXdklteTVXcTBBcmVpTQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdJcnZkTmxoOFYtR2RJT3NvVW9kRDVodDFIS3BwbU5NOUtWSkpnVjZSQUktWXRNTFpLV2hJTV80MlAzaXFNd2RMam1IRm1zZnRyOXQ3d1dPWXo3bmFMMkNXemtJWERMN1dZNE9KVldBQkxXRDgxN1V4bDRsYkkyWkp4UHlyWUkyajBCQTZFYTNmX2xoMVRobmV4ZzQ4XzgwY20ya0RXdklteTVXcTBBcmVpTQ?oc=5)
 
 ---
 

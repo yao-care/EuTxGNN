@@ -3,7 +3,7 @@ layout: default
 title: "AF（atrial fibrillation） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AF（atrial fibrillation） 的相關健康新聞報導。15 則新聞、39 個相關藥物。"
+description: "AF（atrial fibrillation） 的相關健康新聞報導。21 則新聞、39 個相關藥物。"
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="AF（atrial fibrillation） 有什麼相關新聞？">
-<strong>AF（atrial fibrillation）</strong> 目前有 <strong>15 則</strong>相關新聞報導，39 個相關藥物。
+<strong>AF（atrial fibrillation）</strong> 目前有 <strong>21 則</strong>相關新聞報導，39 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -67,21 +67,61 @@ permalink: /news/atrial-fibrillation/
 </ul>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（21 則）
 
-### [STING als neuer Entzündungs-Schalter bei Alzheimer: Therapie- und Diagnosepfade - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+### [Neue HIV-Therapie: Wöchentliche Pille so wirksam wie tägliche Standardbehandlung](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYU5CSDRQZjlBbE1fZmhueHdVM1BFS005U05JR3VwQ0pVWGtqaXBSREo0d3VHVmI5TndpUEZ2NUZkQW1SWUNMTVhzWTZ0UjBDNFhIcmdCc19TQ1J0T2NBeFg5cnptQThrV0RieVFnZ0hWZmRjNGNyVEVrdWN3QlhkZ3V4ZVB5ZkNjVWRLdGZfM0NfR3hGVm9KaDVXdUxUdDJialVoT2VnUnYyZw?oc=5)
 
-2026-08-02
+2026-08-03
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYU5CSDRQZjlBbE1fZmhueHdVM1BFS005U05JR3VwQ0pVWGtqaXBSREo0d3VHVmI5TndpUEZ2NUZkQW1SWUNMTVhzWTZ0UjBDNFhIcmdCc19TQ1J0T2NBeFg5cnptQThrV0RieVFnZ0hWZmRjNGNyVEVrdWN3QlhkZ3V4ZVB5ZkNjVWRLdGZfM0NfR3hGVm9KaDVXdUxUdDJialVoT2VnUnYyZw?oc=5)
+
+---
+
+### [Haferflocken sind gut – diese 5 Lebensmittel haben mehr Protein - FIT FOR FUN](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHR0MkRXUFc1bVNROFdKV2N6bGdQOTAwT0RRYk9xTVU0bmE1YWxQMVBlcnUtSThwUUxBQV9tT3IzU2dGdVU0eElYWU1HdGk2QURXTFRGVjRNM01oUFNvM2J3ekZ5VS1ZY0dwMDBzZkpER2tVaXRoRFVaWkhHYjlxQ05BaFZ4ZXNoUWxBUUR1aDhhbUJkUHYxcTB1NkF1NHBpTURWVUhDNHVQUGRJbVhIU2Vkclhlc0xGVFBwODZzLUxIWlNYcGdvVFQtOFV5dU1ObU9hSnhFeEgxUER5R0g2Wg?oc=5)
+
+2026-08-03
+
+來源：[FIT FOR FUN](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHR0MkRXUFc1bVNROFdKV2N6bGdQOTAwT0RRYk9xTVU0bmE1YWxQMVBlcnUtSThwUUxBQV9tT3IzU2dGdVU0eElYWU1HdGk2QURXTFRGVjRNM01oUFNvM2J3ekZ5VS1ZY0dwMDBzZkpER2tVaXRoRFVaWkhHYjlxQ05BaFZ4ZXNoUWxBUUR1aDhhbUJkUHYxcTB1NkF1NHBpTURWVUhDNHVQUGRJbVhIU2Vkclhlc0xGVFBwODZzLUxIWlNYcGdvVFQtOFV5dU1ObU9hSnhFeEgxUER5R0g2Wg?oc=5)
+
+---
+
+### [Rätseln mit Eder: Welche Zahl verbirgt sich hinter dem Fragezeichen? - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzRMenhBZVhicFlOcG9waDRURHVERzNoRDlTc2k1b3BaLW55LW8yQkFNMEVWbDQ2T2tJTEFEUmo4Rms3X0w1Z2N5cDZSNUFCTnI4d1J2VWxEdk5sb3l6M0dFZFZmWHZ3YWR5V2dSMHZtQmVRSTVORzFXekZ0d05ESmtxNUNOU3FteWdlYW4zWlZhdFE?oc=5)
+
+2026-08-03
+
+來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzRMenhBZVhicFlOcG9waDRURHVERzNoRDlTc2k1b3BaLW55LW8yQkFNMEVWbDQ2T2tJTEFEUmo4Rms3X0w1Z2N5cDZSNUFCTnI4d1J2VWxEdk5sb3l6M0dFZFZmWHZ3YWR5V2dSMHZtQmVRSTVORzFXekZ0d05ESmtxNUNOU3FteWdlYW4zWlZhdFE?oc=5)
+
+---
+
+### [Recortes en fondos para el VIH ponen en riesgo décadas de avances, alertan expertos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
+
+2026-08-03
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
+
+---
+
+### [La resistencia a los antibióticos en la infancia, bajo lupa: así está afectando a su salud](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzFQZXpHMEVKcGVHQlRkWTN6c013WWlhN3FqZlNHLTJjemxaaUxjM05RdzJwbk5OVW5MYUdVYUx2RWhXbUFGdFlSbk5aQkpQYm1Pem5XVzBxWlpycUVzZFpMbWdiMkVNMFVrRTJoZEdWbTBGVTZ6Y0ZfRTZUSTdFS3FuM3doU0NNelJPMlQzREo0WUxldkJsRTNjeUlfdEZFOW41dHU5cV9CSnFMQjVWVEtoSlZ5WWdNTV9HSjZlOTNsTnJpdFhpVW56RkpUVVRoWWxrNXRR?oc=5)
+
+2026-08-03
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZzFQZXpHMEVKcGVHQlRkWTN6c013WWlhN3FqZlNHLTJjemxaaUxjM05RdzJwbk5OVW5MYUdVYUx2RWhXbUFGdFlSbk5aQkpQYm1Pem5XVzBxWlpycUVzZFpMbWdiMkVNMFVrRTJoZEdWbTBGVTZ6Y0ZfRTZUSTdFS3FuM3doU0NNelJPMlQzREo0WUxldkJsRTNjeUlfdEZFOW41dHU5cV9CSnFMQjVWVEtoSlZ5WWdNTV9HSjZlOTNsTnJpdFhpVW56RkpUVVRoWWxrNXRR?oc=5)
 
 ---
 
 ### [Präeklampsie: Mit Blutwäsche gegen lebensgefährliche Schwangerschaftsvergiftungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUd3cjZRMXZMdjlUMnduWmtwWTB5dWRLMDVONi1LSzRUcXpmVWxUSDBfY1JOMkNaUl9pYU9VUVFyWlJVM3dhZmJINW5rLU9mWDRGOWRoYzBpWFFDRjVJRWFzcFBNOHN4TTJ6RGNQRkdQZndvUktZcGExcWJSTjMwSEZhNWxrdjhReFVzTDVaeUNHTjFQd0dQV2dlVndlMHJ3d3VSc29BZVRhYXFUU0NSeTdOUlh5YWR4ZkdmckU3ZS1kcGdSWk9KS3hMckZGSzNPWERHU3MxYw?oc=5)
 
-2026-08-02
+2026-08-03
 
 來源：[WiWo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOUd3cjZRMXZMdjlUMnduWmtwWTB5dWRLMDVONi1LSzRUcXpmVWxUSDBfY1JOMkNaUl9pYU9VUVFyWlJVM3dhZmJINW5rLU9mWDRGOWRoYzBpWFFDRjVJRWFzcFBNOHN4TTJ6RGNQRkdQZndvUktZcGExcWJSTjMwSEZhNWxrdjhReFVzTDVaeUNHTjFQd0dQV2dlVndlMHJ3d3VSc29BZVRhYXFUU0NSeTdOUlh5YWR4ZkdmckU3ZS1kcGdSWk9KS3hMckZGSzNPWERHU3MxYw?oc=5)
+
+---
+
+### [Lebensstil senkt Demenzrisiko: Studien zu Bewegung, sozialen Kontakten und Frühtests - it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGpqc1RmcUdkUUpJYlVqd3pjZUFybWphMm9CaWFBb1NFUUVhTHlzdXJTTEJrWXVJa2xtVElMYXJPVURjTlZfNzNEUmhiLUZOMlNkTUNvZ0RqcUdBSmQycXpHTlNEOFhQcW9DT080NGl5T0I0QU1wcEpXNWdOazkwdUQ0aVdiMU1UMFVqUzEzQUUxSUc4YnNBb1QwTU51S2ZxT2lEUzBIY1g2aGVDcmVUUDFnUDdRUQ?oc=5)
+
+2026-08-03
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGpqc1RmcUdkUUpJYlVqd3pjZUFybWphMm9CaWFBb1NFUUVhTHlzdXJTTEJrWXVJa2xtVElMYXJPVURjTlZfNzNEUmhiLUZOMlNkTUNvZ0RqcUdBSmQycXpHTlNEOFhQcW9DT080NGl5T0I0QU1wcEpXNWdOazkwdUQ0aVdiMU1UMFVqUzEzQUUxSUc4YnNBb1QwTU51S2ZxT2lEUzBIY1g2aGVDcmVUUDFnUDdRUQ?oc=5)
 
 ---
 
@@ -98,6 +138,14 @@ permalink: /news/atrial-fibrillation/
 2026-08-02
 
 來源：[Gazzetta di Modena](https://news.google.com/rss/articles/CBMiggJBVV95cUxQeGxVOXVCVURncEtrV2lZRWdUdERzaWh4Tk9aMUIweVM3c0k2OHhfTG10bW5QUVlhbFZ1MjNDUTRCN3FTTnJEczNyRVc4ZnRaSWdjSmRGbnRzeDlET3k5Mm5sUlRNR1RUa0E5cm5LaGxEZ3NvUGZubHNzSHFHdmdKMGJYS0pJTW52dW9lQ2lLZjRlcUo3UHEwNjFYM2lZaDVTdTFDV242X3lQd3FIcHdxbXhCNzZyTjhsaThwdTJPNGo4VnB4ZlB2WlFCUFprRllRMmZUVXdndmZxdzh3SVpQejZpdUpPMERfZWNhSlBmdDB2Qy04MU91YTltSXd4TzRZb2c?oc=5)
+
+---
+
+### [First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds - The Guardian](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeU1QQlh2Wm1ERXdvc09EVVltVVpCcm1ESVBHOXY5amhHdFY1N2t5TnhLYmtZV3VxSk1OUnlqeVAxa2QtbUtTeHo3WHB6RExqWHFkbk81OEZFVEF6VEgyMlpzWDdhVW9GN3hYSFJ0N2t2ajBhMENvNFcyLUx2RzB0anUwTlNhTlBILWpwMDhPdVJrVlFmQmtLc1lQZTlKMnREVkc3eHItX0liMGwwVHF4YUg0MDhUcWZjSXM5eGctYzNVajRGNlNuTF9fSTlNbUFBcHhhY0VjU1IxejJXZ2VmOURyNGZCMXowd3dj?oc=5)
+
+2026-08-02
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeU1QQlh2Wm1ERXdvc09EVVltVVpCcm1ESVBHOXY5amhHdFY1N2t5TnhLYmtZV3VxSk1OUnlqeVAxa2QtbUtTeHo3WHB6RExqWHFkbk81OEZFVEF6VEgyMlpzWDdhVW9GN3hYSFJ0N2t2ajBhMENvNFcyLUx2RzB0anUwTlNhTlBILWpwMDhPdVJrVlFmQmtLc1lQZTlKMnREVkc3eHItX0liMGwwVHF4YUg0MDhUcWZjSXM5eGctYzNVajRGNlNuTF9fSTlNbUFBcHhhY0VjU1IxejJXZ2VmOURyNGZCMXowd3dj?oc=5)
 
 ---
 
@@ -125,6 +173,14 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
+### [El Hospital La Fe participa en un estudio internacional pionero para las arritmias](https://news.google.com/rss/articles/CBMixwFBVV95cUxObU5xck9iVnMta3dyaWFqX0xHTmp5UkZyTlkybE9MYkhtOF9RMGhqUTB3WkZmekduTlRSSDBvbkRlQjQ3c01walpPT1pNWXpkNDVRY3UtZHNLQ3lldXFGNDQxZC15c0VrNTFYUFVseGFRUEloX0F1WmZsQnhVTkQ3MHRJY092NlhyMnNrLWtPcGxtN0hCandrSFNiUkZ0OWFNaVNCRlJ6ek15QzY5aE5ZUWZFVVYyVE9mYzRQUkpSQm9oSkpHV0Q4?oc=5)
+
+2026-08-02
+
+來源：[ABC](https://news.google.com/rss/articles/CBMixwFBVV95cUxObU5xck9iVnMta3dyaWFqX0xHTmp5UkZyTlkybE9MYkhtOF9RMGhqUTB3WkZmekduTlRSSDBvbkRlQjQ3c01walpPT1pNWXpkNDVRY3UtZHNLQ3lldXFGNDQxZC15c0VrNTFYUFVseGFRUEloX0F1WmZsQnhVTkQ3MHRJY092NlhyMnNrLWtPcGxtN0hCandrSFNiUkZ0OWFNaVNCRlJ6ek15QzY5aE5ZUWZFVVYyVE9mYzRQUkpSQm9oSkpHV0Q4?oc=5)
+
+---
+
 ### [Schlafstörungen: TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTZmZkFxdWQ0Y1padzhteGtjOG1kVWNHTGVKNF9rWGx6NGpZU3hfR3hpNnlBTF9XX0ktOFlSY3dHbThOTW4wbkRRSnVTWElxOXVVbmNFTnJMZ0V4Vk44am1ud1N5LW04ejc3T0liRWNrRHZTbnZXRGl0VG91OXNRV0s4cHIxRGdKUHFzQTRoRDBoaG1DUHZ0azhTaGlBNXJOUVFkemhsMHJVUnRTLVJoaw?oc=5)
 
 2026-08-02
@@ -149,19 +205,19 @@ permalink: /news/atrial-fibrillation/
 
 ---
 
-### [Neurocosmética: qué es esta tendencia y cómo mejoran sus nuevos ingredientes en la piel](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlpSVHZMeTMwYXRFS014Y3N6LVh5NlJZTjZWbjBfd0FyWnp4NTFQTTRRQmRNc1VJTXRfSGJ0Nm03SURZaUlDaE1mZHAybXF5LVpYWXpwcTFBb3JkYzJja2VRQ2VjLUQxdG9Semp4UTcwMm5Gc2ZMejUxUFJEcDAxOEVBa1U3TmN2aUx3Tl9EZ0ZWYmxfbDYtRENLZENZeVdEWmRGUDgzRnBCUzJlcTIwQWVEdWZmYm5ncDN0SzRPN0dpTGJrdUNPczRlQ2dCSXVDTm4wcEFMRzA?oc=5)
-
-2026-08-02
-
-來源：[Telecinco](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlpSVHZMeTMwYXRFS014Y3N6LVh5NlJZTjZWbjBfd0FyWnp4NTFQTTRRQmRNc1VJTXRfSGJ0Nm03SURZaUlDaE1mZHAybXF5LVpYWXpwcTFBb3JkYzJja2VRQ2VjLUQxdG9Semp4UTcwMm5Gc2ZMejUxUFJEcDAxOEVBa1U3TmN2aUx3Tl9EZ0ZWYmxfbDYtRENLZENZeVdEWmRGUDgzRnBCUzJlcTIwQWVEdWZmYm5ncDN0SzRPN0dpTGJrdUNPczRlQ2dCSXVDTm4wcEFMRzA?oc=5)
-
----
-
 ### [Un cardiologue affirme que cet ustensile de cuisine courant pourrait endommager votre cœur - Yahoo Life France](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpqZkdYeFFpMEljYzJrcF9US2piTlA2Y18xS1MwWG5GZEZLOWFnTkltaERoTFFVVGZkcHRBcnNndVFITG50bDVoNWRYaEZxcnVNaUo0VWctM2xmYU5BSkpyR3pnWm0yMUNVMGotOWstTnNjZFFOY2Jqa1lfRU12UXNxVFl6UzZ4dndZbEJjQ0VzZmRTbmxoOURUR3EzVkxuZzJuZ2oxS0FIT2dzeG41cmI2X0JTQ3BwcDBWOF9PQVd0LTJLcExLS2pWSl9SelJaOXZz?oc=5)
 
 2026-08-01
 
 來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpqZkdYeFFpMEljYzJrcF9US2piTlA2Y18xS1MwWG5GZEZLOWFnTkltaERoTFFVVGZkcHRBcnNndVFITG50bDVoNWRYaEZxcnVNaUo0VWctM2xmYU5BSkpyR3pnWm0yMUNVMGotOWstTnNjZFFOY2Jqa1lfRU12UXNxVFl6UzZ4dndZbEJjQ0VzZmRTbmxoOURUR3EzVkxuZzJuZ2oxS0FIT2dzeG41cmI2X0JTQ3BwcDBWOF9PQVd0LTJLcExLS2pWSl9SelJaOXZz?oc=5)
+
+---
+
+### [L'épidémie d'Ebola en République démocratique du Congo s'intensifie à un rythme "exceptionnel", avertit l'OMS](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1p6dHNqXzN4TXdLeTY1MkhmM2JjaEFOdmJMb1lyMG1ua01iLXhCdmtVTUw4V1R0azNLN1R6Qk9VelkydGJoUTdhc2dxbFlrN3drV3RVTHo2YUo5WVJ1dGF1YUVEMWQyVEdxRFdIZHJyVmo5VTV2SjlTS3FhMEVkc3dRZjNGc2ZrbjFMa2FTUlo2UFM3RTA1aUtOSWZiRE53bXJXQU9ZMUpZVG5rSHhaZXJJaHZpeDBCMEtpT1RlRGI1ckduNWdmamZxY2NRU3pPX2tJTmEyNDJKR1dOaXdNbFVoaDNwLWc2R0JXNXJ4Q1o2eXJ3Mk9F?oc=5)
+
+2026-08-01
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1p6dHNqXzN4TXdLeTY1MkhmM2JjaEFOdmJMb1lyMG1ua01iLXhCdmtVTUw4V1R0azNLN1R6Qk9VelkydGJoUTdhc2dxbFlrN3drV3RVTHo2YUo5WVJ1dGF1YUVEMWQyVEdxRFdIZHJyVmo5VTV2SjlTS3FhMEVkc3dRZjNGc2ZrbjFMa2FTUlo2UFM3RTA1aUtOSWZiRE53bXJXQU9ZMUpZVG5rSHhaZXJJaHZpeDBCMEtpT1RlRGI1ckduNWdmamZxY2NRU3pPX2tJTmEyNDJKR1dOaXdNbFVoaDNwLWc2R0JXNXJ4Q1o2eXJ3Mk9F?oc=5)
 
 ---
 
@@ -178,14 +234,6 @@ permalink: /news/atrial-fibrillation/
 2026-08-01
 
 來源：[Andalucía Información](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTJNTU55TWJZMjRMODZlZklYUFNLNWl2VzVjLVpFWFY4bmRhSU4yT2stNHl1Tng0WWh0S0dkNlVRcXhVcURUQUwyLS10RjNQU09aZVJ5WkREUUhPWERIVHBCVXlxVUxtWHp6bS12SFM4dERzT1BUaWdaMVpTUzkySHhrM0xpOVM3ZDMyb1VaY1JvRlRNZXBBUUlnajlvZWtXVDhadjV0Umd4dlRqcW9hU3JsMi1kUzdlZ1hFd1MtQ2NqSUZwTVFjS0RVLXRJQ3U5LTF4cE01ONIB3AFBVV95cUxPRXMxRmZhRHlWRG1kTWNrbEtXTTQyLUFydEZ1MUk5RkJabDNCUVFnX1NwT1Vkai04SkxidlhuMG0wVklXWkhyTGRrUGRZQ1dfSUY3MXRYckc2eHZtSVBFTk94MUlsazcwTlF5NGEyOGdjb0xFTGZrNjllTGJkMmRfNGhPUThjZkFIaU5zV0t5dEYzQ0UyYXBrSE8ySEw5WmZuaWpfbEJGdTRDSFFRSUlGYXFwUUxXVzdYejFaSml0dDdOTnNKWmFvREdBSlhYT3czaW5YdThEd1BDM3dZ?oc=5)
-
----
-
-### [Au petit déjeuner, en collation ou avec le café, cette boisson booste la perte de poids après 50 ans - Journal des Femmes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNE02WmtDVkF3d3VoY0d5anFnMzBBMWkzN05tU0FJbkdyN1hQSjRBbDhKWEFYWWdBeG1nRlA4WllPYXE2TnNtUUNmZkg2UmgwNDN4VVgzeGFSSjUtUjZUcWEzWUpxc1Q4RDQ3LUVNQ1JlbDEwczRKVm9OSGFsVzZHMVRlY0pSekJyQlRheXdJVVlsSjlTbzlYMjdJV29vTWhXcFJ6R0VxTHVBWGFRMFh6ZTRPTEJJRER0OVdfVkxNNm1ubjNDb081S2dXQ3hIZXpKYTJJejNadDRkUzlGbi1jWVJZSGtBYk5ma0ludGRma0VGdGJOY3c?oc=5)
-
-2026-08-01
-
-來源：[Journal des Femmes](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNE02WmtDVkF3d3VoY0d5anFnMzBBMWkzN05tU0FJbkdyN1hQSjRBbDhKWEFYWWdBeG1nRlA4WllPYXE2TnNtUUNmZkg2UmgwNDN4VVgzeGFSSjUtUjZUcWEzWUpxc1Q4RDQ3LUVNQ1JlbDEwczRKVm9OSGFsVzZHMVRlY0pSekJyQlRheXdJVVlsSjlTbzlYMjdJV29vTWhXcFJ6R0VxTHVBWGFRMFh6ZTRPTEJJRER0OVdfVkxNNm1ubjNDb081S2dXQ3hIZXpKYTJJejNadDRkUzlGbi1jWVJZSGtBYk5ma0ludGRma0VGdGJOY3c?oc=5)
 
 ---
 

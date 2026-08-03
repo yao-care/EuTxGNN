@@ -54,11 +54,11 @@ permalink: /news/opicapone/
 
 ## 相關新聞（2 則）
 
-### [STING als neuer Entzündungs-Schalter bei Alzheimer: Therapie- und Diagnosepfade - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+### [Stress, old age, or dementia? Here’s how to tell - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
-2026-08-02 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">AF</span>
+2026-08-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
 ---
 

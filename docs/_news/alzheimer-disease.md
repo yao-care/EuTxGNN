@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
+title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer-Krankheit（alzheimer disease） 相關新聞
+# dementia（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer-Krankheit」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
-### [STING als neuer Entzündungs-Schalter bei Alzheimer: Therapie- und Diagnosepfade - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+### [Stress, old age, or dementia? Here’s how to tell - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
-2026-08-02
+2026-08-03
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
 ---
 

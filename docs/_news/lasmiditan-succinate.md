@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Médicos explican cómo diferenciar un dolor de cabeza normal de una migraña y las señales que debemos tener en cuenta: "Hace que el cerebro se irrite con mayor facilidad" - Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
+### [Los fármacos contra la obesidad deben combinarse con una atención nutricional, física y psicológica integrada - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
 
-2026-08-02 <span class="news-indication-tag">migraña</span>
+2026-08-03 <span class="news-indication-tag">obesidad</span>
 
-來源：[Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
+
+---
+
+### [Un estudio cuestiona el IMC como único indicador de riesgo en la obesidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+
+2026-08-03 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+
+---
+
+### [Nearly a third of deprived Gloucestershire pupils face obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
+
+2026-08-03 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
 
 ---
 

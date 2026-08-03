@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [Médicos explican cómo diferenciar un dolor de cabeza normal de una migraña y las señales que debemos tener en cuenta: "Hace que el cerebro se irrite con mayor facilidad" - Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">migraña</span>
-
-來源：[Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 
 2026-08-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">emicrania</span>
 
 來源：[Leggo.it](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
+
+---
+
+### [Fettleber-Risiko: Blutproteine zeigen Gefahr 16 Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORTFBNkl1a1dsdGswc3JrcFMxOFMwLVVobUtvd2oyNkNKdW9mVUdKSDhkWk5BU19WenVwN1dNZUZWOUg5M3FSSEt2VzByU1RTYVJRV2RHWlg1Wmk4RFFGbmp3c2F6R2hfaEpoa19RV1RRai1GZGZ2V1dESEJBRm1JS1NDa3B2d184eVJiVGlzVUcxSW9NdE1IWi1XRXBhWVYwcVlPTVpnbngyenVKOXc?oc=5)
+
+2026-08-02 <span class="news-indication-tag">asma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORTFBNkl1a1dsdGswc3JrcFMxOFMwLVVobUtvd2oyNkNKdW9mVUdKSDhkWk5BU19WenVwN1dNZUZWOUg5M3FSSEt2VzByU1RTYVJRV2RHWlg1Wmk4RFFGbmp3c2F6R2hfaEpoa19RV1RRai1GZGZ2V1dESEJBRm1JS1NDa3B2d184eVJiVGlzVUcxSW9NdE1IWi1XRXBhWVYwcVlPTVpnbngyenVKOXc?oc=5)
 
 ---
 
@@ -91,22 +91,6 @@ permalink: /news/regadenoson/
 2026-08-01 <span class="news-indication-tag">migraña</span>
 
 來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
-
----
-
-### [Fettleber: Risiko für tödliche Herz-Kreislauf-Erkrankungen vervierfacht](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asma</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEVfRkpxajBYdUlFQ2hZVGk3Qk5kRUZoalVIcEtMZGVNZmpVS2IwT3RsTWM1ZEZURDZuOHR0RHlhaG1BajBwYW9OMEdEcXVOV0xpb2F6ZzEtNGtlT1FSUmRYam9GenlicUhpelhsU0V5aGNzN2hScmQ3U2FZeDZOWmtMem1abDFhektmUUw3VUFqdHlENWsySG9za24tNVFKSndZNUMzLUZxZ1VoV0p3NUJMczk5dDBvbFVIc09oeW5qVHVFTWNycjJJYVJlZw?oc=5)
-
----
-
-### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
 
 ---
 

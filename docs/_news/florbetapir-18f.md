@@ -14,7 +14,7 @@ permalink: /news/florbetapir-18f/
 ---
 
 <p class="key-answer" data-question="Florbetapir (18F) 有什麼相關新聞？">
-<strong>Florbetapir (18F)</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Florbetapir (18F)</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/florbetapir-18f/
 <p><a href="{{ '/drugs/florbetapir-18f/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（17 則）
+
+### [Brustkrebs besiegt – Herz geschädigt? So lassen sich kardiale Risiken begrenzen](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWpPWFMwUU85NWhhRVltYUJpTTNRNW5mTzhRNzhoaWo4NUFvZ2ZraHlnSVBBS3RhR3VSazdZRVhxMGd1c0w0X3U1MWVhME1uc1h0SE5DRWJObVhXY3Fzb1dxS0JjU0J1ZlZXcGkzOGhvQi1sN3lkSlRib201RTFOUUJJcFVRQlJ6eXZzX3pSSWZGZW1raUhTR2oyR2hwb0tuMldvalhCcTFHWVFNdFhUUkZiZw?oc=5)
+
+2026-08-03 <span class="news-indication-tag">Krebs</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWpPWFMwUU85NWhhRVltYUJpTTNRNW5mTzhRNzhoaWo4NUFvZ2ZraHlnSVBBS3RhR3VSazdZRVhxMGd1c0w0X3U1MWVhME1uc1h0SE5DRWJObVhXY3Fzb1dxS0JjU0J1ZlZXcGkzOGhvQi1sN3lkSlRib201RTFOUUJJcFVRQlJ6eXZzX3pSSWZGZW1raUhTR2oyR2hwb0tuMldvalhCcTFHWVFNdFhUUkZiZw?oc=5)
+
+---
+
+### [Les plans de travail en quartz, à l’origine d’une crise de santé publique aux États-Unis et dans le monde - Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">EPOC</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
+
+---
+
+### [Dad living with cancer urges people to get checked](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpalpQMENVbkNHWHF0Nmc0YkRua29SV1JZOVp4RUFGM1RSLXpjNDNoRXRZRVJYOGktNV81cVpBMTZKMk02WGpxcmtLZ2pUVU1NOWJ3NHpoRGJOUlh3?oc=5)
+
+2026-08-03 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpalpQMENVbkNHWHF0Nmc0YkRua29SV1JZOVp4RUFGM1RSLXpjNDNoRXRZRVJYOGktNV81cVpBMTZKMk02WGpxcmtLZ2pUVU1NOWJ3NHpoRGJOUlh3?oc=5)
+
+---
+
+### [Théo, 24 ans, atteint d’un cancer du poumon : « Quand on est jeune, on se croit intouchable et tout-puissant »](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFoyVFp2N0hVdDJ1SF81SGh1NTVqSmhCTHJJRlhvOHpKVVVITTZLRzJMdHhDQUlUam1LMVBOaDk1ZDU2Qkt0VmxuUVk1V2J6UnN6R3JIUzVZRmwta0hBeUhFdWhOYkcwYnZ6TkVldnJFUF9WOGQ4N1VMN1RRRElzcU8waE9TNnBiS0d1V0UzblZsaDJtU3NXZVdYR3lrYWtrYU92Rms0a2xSNGd4aTRIV1l2UVg5TW1DSGxNNmhuMWYwQ2hGRVh4VzNsOTR4SEpPSEVOY0djZlgtcGstVlE?oc=5)
+
+2026-08-03 <span class="news-indication-tag">cancer</span>
+
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFoyVFp2N0hVdDJ1SF81SGh1NTVqSmhCTHJJRlhvOHpKVVVITTZLRzJMdHhDQUlUam1LMVBOaDk1ZDU2Qkt0VmxuUVk1V2J6UnN6R3JIUzVZRmwta0hBeUhFdWhOYkcwYnZ6TkVldnJFUF9WOGQ4N1VMN1RRRElzcU8waE9TNnBiS0d1V0UzblZsaDJtU3NXZVdYR3lrYWtrYU92Rms0a2xSNGd4aTRIV1l2UVg5TW1DSGxNNmhuMWYwQ2hGRVh4VzNsOTR4SEpPSEVOY0djZlgtcGstVlE?oc=5)
+
+---
+
+### [Melanoma: il vaccino su misura che trasforma il sistema immunitario in un esercito contro il tumore](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX2EyUXl5T2pQaE5BaHFJUWRJU3hEeFM1VUs0Mm42dTQ4Tm5WTGVZZ2dsN213aU53OUV4RV9tTlQzTllvRTZfNGhqbGZBOUV5alVIZlBtaTE0cEdhWUtIM1l4Y051N1lXZjItN2tPVnVFaGxMTFFYT3p1dUdaTFBBbm9Fb3lveVU2aW9ab3llM01uNFhBOUZ1bWlhQUNiX25GaXptZlZKcDNOUmxiSzFJWWg5dDFvTjNOclJ0bGM0Uk9JemRJX3Naa1h6MU9nNlRJaUd3X1FHWV8xcDA5NjFWS1ZhWG8wMVlSRWU2ZnEtaw?oc=5)
+
+2026-08-03 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX2EyUXl5T2pQaE5BaHFJUWRJU3hEeFM1VUs0Mm42dTQ4Tm5WTGVZZ2dsN213aU53OUV4RV9tTlQzTllvRTZfNGhqbGZBOUV5alVIZlBtaTE0cEdhWUtIM1l4Y051N1lXZjItN2tPVnVFaGxMTFFYT3p1dUdaTFBBbm9Fb3lveVU2aW9ab3llM01uNFhBOUZ1bWlhQUNiX25GaXptZlZKcDNOUmxiSzFJWWg5dDFvTjNOclJ0bGM0Uk9JemRJX3Naa1h6MU9nNlRJaUd3X1FHWV8xcDA5NjFWS1ZhWG8wMVlSRWU2ZnEtaw?oc=5)
+
+---
 
 ### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
 
@@ -67,6 +107,14 @@ permalink: /news/florbetapir-18f/
 2026-08-02 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1Y2YlBJOUtNRkRnQ0YxanJnTnZSLU5yamVFRklFMDVGMGdOaGFFMzhNWGJKQWllUWw1S2R4QWZ1ZmhJb2Z0OXZnMmVnX2hhazJpU2JiNWZTQWs3bVQtOGZtWkM1bFFRNkZUYnVNMnlMWmZqbTd4VFFjUWwyeUNuaDZHLXJXUkVVVTRQQ0FuNUxQb3hrYm5NMUZKVGpvbmdqREk2TE44b2dvcy1n?oc=5)
+
+---
+
+### [La vita vince: salvate mamma e bambina dal tumore](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkVMclllZTJSLWxqQVNxU08ybXJCdEtWcUdZVGdlZWdIUjZ2cFJsTG9CamZrX2w4RElIWWo5RlBRX0ZPVTZqd1FuQ1NBb3VHaUw1cUw2SUxyVlhZc1E0YV9Na3JXVTZtREpseUJGa3hxdzg2Q1lSeWp1blpVWWV2ZjVXREdGQU05dEJaS2hxcEM5bHVKOGc5RWYwS1RPckZEd2xEcHR6eUJoQQ?oc=5)
+
+2026-08-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Polesine24](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkVMclllZTJSLWxqQVNxU08ybXJCdEtWcUdZVGdlZWdIUjZ2cFJsTG9CamZrX2w4RElIWWo5RlBRX0ZPVTZqd1FuQ1NBb3VHaUw1cUw2SUxyVlhZc1E0YV9Na3JXVTZtREpseUJGa3hxdzg2Q1lSeWp1blpVWWV2ZjVXREdGQU05dEJaS2hxcEM5bHVKOGc5RWYwS1RPckZEd2xEcHR6eUJoQQ?oc=5)
 
 ---
 
@@ -139,78 +187,6 @@ permalink: /news/florbetapir-18f/
 2026-08-01 <span class="news-indication-tag">Krebs</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUklqSzdRa0pTSUVOcGhoWnRRQW1HaXJSZXJxeXpLbzZ3N3ktMzFNeVFoQTduMU13R3RNTGtUNEQzdXo2cHF2R1Z6WXRZdk1sTFVFUVAzU281anRQaEd6UFRqeEdPQjlOejBfZnB3TXN5Q3pjVlJ3OHhwMFp4MmdmTnAxTF9RdVJrb0doLTVfNktfbGxOOGJkckxBTFNnaTFpUXVyLUhMMGY4NWc3VG1Ea2N3?oc=5)
-
----
-
-### [Ernährung gegen Darmkrebs: 80 Prozent der Patienten essen zu viel Zucker - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNS1QOVR2QnlNXzF2NGVvaHpGZ3ZfNHBudGZGVjUzckMtRkR3M3FYYU00bU5xcDNyelRhLVJNMWd3X1VsdVV0enJjZXVodEhfRUVaUXlkRWk5SVdHdHpuTmt2WVRXRk5la0xZOVF5TWlEU0hoQWpzOGJOV056cnBsYjRWMzhpemZuLXJSWmxEZHZxVENHb3E1VTdFQkljVTBsZkRFV0xCSGJxSzZhWFVwLXp4TlRpZXZsbmJhelVn?oc=5)
-
----
-
-### [Tumore della prostata metastatico ormone-sensibile, la Fda porta l](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOGVGdVo5bS1FOVVLSnJxaGxYa2J6ZEh0NlpsanVYOXJfZExWeC11SUhJZDlLbWJseHl6M3dWRmZoX01LVVQ1TVRURHZYY2tFN3puN0tKdDl0Q0puZFhKQVRNdFRhZFRDVGdzNHhKbFh3NUVMVjJSMEhHMXZpSjJ3R2g0VVVtV2YydFlVc05vU3VKXy1JejNTcGtPdmpiRDVjekx5Y0o0Sk5SMVBSc1dLdHVJYnVaTUJnVlpaTjllNnFFTHRBS2VrbjRKdFBKMXVVbVotWFZNWEFlQ2QyQk1YS0J2SHZubTBmMm5UN3hRM0k1T2l4aEZxQg?oc=5)
-
-2026-08-01 <span class="news-indication-tag">tumor</span>
-
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOGVGdVo5bS1FOVVLSnJxaGxYa2J6ZEh0NlpsanVYOXJfZExWeC11SUhJZDlLbWJseHl6M3dWRmZoX01LVVQ1TVRURHZYY2tFN3puN0tKdDl0Q0puZFhKQVRNdFRhZFRDVGdzNHhKbFh3NUVMVjJSMEhHMXZpSjJ3R2g0VVVtV2YydFlVc05vU3VKXy1JejNTcGtPdmpiRDVjekx5Y0o0Sk5SMVBSc1dLdHVJYnVaTUJnVlpaTjllNnFFTHRBS2VrbjRKdFBKMXVVbVotWFZNWEFlQ2QyQk1YS0J2SHZubTBmMm5UN3hRM0k1T2l4aEZxQg?oc=5)
-
----
-
-### [Diagnosi e cura dei disturbi della prostata: da Alberto Angela il servizio televisivo girato al Morgagni-Pierantoni](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
-
-2026-08-01 <span class="news-indication-tag">tumor</span>
-
-來源：[forlitoday.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
-
----
-
-### [Le cancer du poumon en hausse chez les femmes et les personnes qui n'ont jamais fumé - La Libre.be](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3ZUdm5DN05sbGp1NDBJMVJJcFRNZDJSNzJad0xtcjU4dlNuM04xVjV6dDlNOWJIdmEyRUR5ZHNJWDFkUTVhajRkWHJFMjE2b3FKLW1MSEdDNlh1UXdpMUNmYzRfWHR3c0h1ZGJTTnZGdWdGc2RIRTR0TWthaGVSenBYYkRtd09oXzJsX0UySGQwd1hwclFsQ3k4WUdWTjd5VDNxRUR1cGFBOVR6MGRySjJyNjdYOVdLbVhkNlVJRVdnSDVoUUVPWHJ0WV9RN3MxQlVvTG8yOTRVMzZCS3ZZTXVlczY3Y2dmOVowNGY5N2o?oc=5)
-
-2026-08-01 <span class="news-indication-tag">cancer</span>
-
-來源：[La Libre.be](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX3ZUdm5DN05sbGp1NDBJMVJJcFRNZDJSNzJad0xtcjU4dlNuM04xVjV6dDlNOWJIdmEyRUR5ZHNJWDFkUTVhajRkWHJFMjE2b3FKLW1MSEdDNlh1UXdpMUNmYzRfWHR3c0h1ZGJTTnZGdWdGc2RIRTR0TWthaGVSenBYYkRtd09oXzJsX0UySGQwd1hwclFsQ3k4WUdWTjd5VDNxRUR1cGFBOVR6MGRySjJyNjdYOVdLbVhkNlVJRVdnSDVoUUVPWHJ0WV9RN3MxQlVvTG8yOTRVMzZCS3ZZTXVlczY3Y2dmOVowNGY5N2o?oc=5)
-
----
-
-### [Un cancer contagieux découvert chez une variété de poisson-chat](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlZlU2VBUWZKY1VyZXhwcDdmVnF0X2ozWUdVSk4zQ29rbjlOaklQTlVPMi1yT2d2bnlFOV9XaGo0ZmNHWWk2eDVOakc1N1FnRkRVNERfak4ydktaOEVqUTNKQ2hNSWVWUHhEeE9ieE5jVmFERy1oRHZITi05MkF3cklRNzVRdTc3TnNXczNGUlVRRDhERldWQ3JGb0RIaXdfYllfRnl5b0VuVkdTM1h5TzJ4ZklRdw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">cancer</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlZlU2VBUWZKY1VyZXhwcDdmVnF0X2ozWUdVSk4zQ29rbjlOaklQTlVPMi1yT2d2bnlFOV9XaGo0ZmNHWWk2eDVOakc1N1FnRkRVNERfak4ydktaOEVqUTNKQ2hNSWVWUHhEeE9ieE5jVmFERy1oRHZITi05MkF3cklRNzVRdTc3TnNXczNGUlVRRDhERldWQ3JGb0RIaXdfYllfRnl5b0VuVkdTM1h5TzJ4ZklRdw?oc=5)
-
----
-
-### [Health records searched for early prostate cancer signs - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUXNmbWhURWNiUkNZQ0FTcnhiRWNBcTFPcXd0U3NrcnFfNU16bEFEWlZBc3RFYnpXNTR6TTlnSWw3Y2x0SEowS01RUUJTeHhqT3pHTzBOLWE1cFNrWHRGaTR2UFhNdmM4TEY1b1lrTzJ2NmpRaTEzZTNyendmZk0zT3A0Q1VxUTBZRGVXOTllX1E2VGlRcGZ0dkR4MWtHZw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQUXNmbWhURWNiUkNZQ0FTcnhiRWNBcTFPcXd0U3NrcnFfNU16bEFEWlZBc3RFYnpXNTR6TTlnSWw3Y2x0SEowS01RUUJTeHhqT3pHTzBOLWE1cFNrWHRGaTR2UFhNdmM4TEY1b1lrTzJ2NmpRaTEzZTNyendmZk0zT3A0Q1VxUTBZRGVXOTllX1E2VGlRcGZ0dkR4MWtHZw?oc=5)
-
----
-
-### [Mögliche neue Krebsfaktoren entdeckt](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGdSWVIwYUJNWUFlRFhTcmlwSHZnVFJYeHRPSEpkWXBvQnRFbVhTcVV1ZUloZFFHNmh6VTNRNXZadXpVUDBWU3lVdFZpc3JVSEg0X1kxOGhzUExIcFdEaVRzVzlZN016bkowWElHWnd6LVI4SUZhNnhzSXJwYTJpRzRETVg1cHFYVF9raUdR?oc=5)
-
-2026-08-01 <span class="news-indication-tag">Krebs</span>
-
-來源：[WEB.DE](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGdSWVIwYUJNWUFlRFhTcmlwSHZnVFJYeHRPSEpkWXBvQnRFbVhTcVV1ZUloZFFHNmh6VTNRNXZadXpVUDBWU3lVdFZpc3JVSEg0X1kxOGhzUExIcFdEaVRzVzlZN016bkowWElHWnd6LVI4SUZhNnhzSXJwYTJpRzRETVg1cHFYVF9raUdR?oc=5)
-
----
-
-### [Neue Empfehlung zur Erfassung und Therapie von Mangelernährung bei Tumorerkrankungen](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmJfNkxFNWlaU18teDJucm1ZYXVHSGowTXdwMmxoQkd6VWtPb2hnQTRaUE43dWw5eUZPanhiMlBsamtHMFM1ZUFtNlZmaHltZl9ERFVmVHZITDY0MWtlSjlPUUJxZTlVeXVobDdXdzRadThoaUJLM0JLOWY2bVI2Wk01VDM5VVdXVldLSnYzS0lLSURRYlA5dXF2ZDZITUZIOFpMZy1PdURHQ0ZvWjJ0TVZieTdJQ0djRjhCbVJiTjdWbFNxUmR6b2tYTk1JblE?oc=5)
-
-2026-08-01 <span class="news-indication-tag">tumor</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmJfNkxFNWlaU18teDJucm1ZYXVHSGowTXdwMmxoQkd6VWtPb2hnQTRaUE43dWw5eUZPanhiMlBsamtHMFM1ZUFtNlZmaHltZl9ERFVmVHZITDY0MWtlSjlPUUJxZTlVeXVobDdXdzRadThoaUJLM0JLOWY2bVI2Wk01VDM5VVdXVldLSnYzS0lLSURRYlA5dXF2ZDZITUZIOFpMZy1PdURHQ0ZvWjJ0TVZieTdJQ0djRjhCbVJiTjdWbFNxUmR6b2tYTk1JblE?oc=5)
-
----
-
-### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña（migraine） 相關新聞"
+title: "emicrania（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。4 則新聞、49 個相關藥物。"
+description: "emicrania（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraña（migraine） 相關新聞
+# emicrania（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>4 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
+<strong>emicrania（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,15 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [Médicos explican cómo diferenciar un dolor de cabeza normal de una migraña y las señales que debemos tener en cuenta: "Hace que el cerebro se irrite con mayor facilidad" - Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
-
-2026-08-02
-
-來源：[Women's Health](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUDREcnB1NWxTdHhONDJibU9UeVhnanFaal9Oa1ZkVk95Ri1ZRkVaZFg4OEQ3VUUtUFBiUHgxNG9YS0JNZ0ktc2xwUVMxbXZWZkhfTjVGeUVyS3hGWFI5SlpxdDBiYndhWUpGVVlWRTctb25Bd2N4SS1yeFJEUTJ2anlPeTBwRjdrU3ViWjNUQl9XUzJBcVo2SE9zLWtWLVFVNHkycEx5ZGxkdkdpSTVVU0dWOHg1VlFITHVjdS0yWllBT3VfQnZPXzN2TjJ2TXZHTmtxbWdFeUpOZlh0TUp0WUtSZUd3bk5VTFk5VHVyZlpabWM5TXFGeXFVeWFJSjQ?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 

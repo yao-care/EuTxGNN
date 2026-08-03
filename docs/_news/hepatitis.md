@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。1 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。2 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>1 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>2 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Virusinfektion: Studie zeigt schwere Folgen von Hepatitis E bei Leberzirrhose](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
+
+2026-08-03
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
+
+---
 
 ### [La gallega Sabela Lens lidera el cambio de rumbo de la hepatitis D en España: «Ha estado completamente olvidada» - La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
 

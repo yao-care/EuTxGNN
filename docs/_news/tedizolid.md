@@ -54,19 +54,19 @@ permalink: /news/tedizolid/
 
 ## 相關新聞（2 則）
 
+### [Les plans de travail en quartz, à l’origine d’une crise de santé publique aux États-Unis et dans le monde - Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">EPOC</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
+
+---
+
 ### [Ernährung bei COPD: Worauf Betroffene achten sollten | DIE PTA](https://news.google.com/rss/articles/CBMingFBVV95cUxNUkg3cldacWhkTHQzVU1vMTVaX2VDRXI3OGtNTnBHNXB1SGRaX19KTlN5eDVRQlMwREwwZGpZXzBwNC1DX2ZGRzU3cjJVNnZmbGVfN1VORTcxYUpWdU5nMU02VFN3V3U1TldXaGZJQUE4anAzNDFOOXZ2MHFGSGNfRTN1cUNFMVJIT3pQSklyeTlUdFhoMDNxT0VJVmRGQQ?oc=5)
 
 2026-08-01 <span class="news-indication-tag">copd</span>
 
 來源：[diepta.de](https://news.google.com/rss/articles/CBMingFBVV95cUxNUkg3cldacWhkTHQzVU1vMTVaX2VDRXI3OGtNTnBHNXB1SGRaX19KTlN5eDVRQlMwREwwZGpZXzBwNC1DX2ZGRzU3cjJVNnZmbGVfN1VORTcxYUpWdU5nMU02VFN3V3U1TldXaGZJQUE4anAzNDFOOXZ2MHFGSGNfRTN1cUNFMVJIT3pQSklyeTlUdFhoMDNxT0VJVmRGQQ?oc=5)
-
----
-
-### [Neumólogos alertan de que el calor intenso agrava el asma y la EPOC - 65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGczbHdWakJaVG1oVUJxUHZQUDY5TXVRR2sxS0JwMVJWbG1OZ3JkUDhBYjNCWFZmOFJGc0p1RUw2OGhjUkVma3BrVnF3VnI1YWd0MTBpVzRGeTY2WEZPYVNIX2J2aUxjUmZ0cXc5WWFkeGhvbmZwcHBCRDV1UXV2dWZMVENtZS1SS3hNT1VCb0JWcHZlWndPUw?oc=5)
 
 ---
 

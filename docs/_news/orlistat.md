@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
+
+### [Los fármacos contra la obesidad deben combinarse con una atención nutricional, física y psicológica integrada - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">obesidad</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
+
+---
+
+### [Un estudio cuestiona el IMC como único indicador de riesgo en la obesidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+
+2026-08-03 <span class="news-indication-tag">obesidad</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+
+---
+
+### [Nearly a third of deprived Gloucestershire pupils face obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
+
+2026-08-03 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
+
+---
 
 ### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 
