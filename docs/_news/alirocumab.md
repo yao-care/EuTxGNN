@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Un millar de personas participan en la primera fase del proyecto Radar para el diagnóstico precoz de la enfermedad renal crónica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZjdXWUVuSjNwNkJLVmxlcjN5ZnhmNWxQR013OU9RMkxFcjBzdk1SUTRSNU9ZQ1pXVTd5bTVpanRlRW5ramhGdjhnVElPQ0JDT0NCMmpRcTd6MzFZYWl6Q3NfQXFsUzlrbnVpRmt1MzFsdU5kRFVzNHBMQmlTMXlaQnRWS1NHbUdpVm1HSHNKUGc5TVFpTms5NjFsQkpXY2h4VGFHZzVXY0dZVVJwLUxPazhEQTNXeEdSQ3dxT1lUSjRjVzVnZHFoR3hnS1VMY1NZWTFZcDhrUWhGczZyRkhZb0l0bw?oc=5)
+
+2026-08-03 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[Servimedia](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZjdXWUVuSjNwNkJLVmxlcjN5ZnhmNWxQR013OU9RMkxFcjBzdk1SUTRSNU9ZQ1pXVTd5bTVpanRlRW5ramhGdjhnVElPQ0JDT0NCMmpRcTd6MzFZYWl6Q3NfQXFsUzlrbnVpRmt1MzFsdU5kRFVzNHBMQmlTMXlaQnRWS1NHbUdpVm1HSHNKUGc5TVFpTms5NjFsQkpXY2h4VGFHZzVXY0dZVVJwLUxPazhEQTNXeEdSQ3dxT1lUSjRjVzVnZHFoR3hnS1VMY1NZWTFZcDhrUWhGczZyRkhZb0l0bw?oc=5)
+
+---
 
 
 <div class="disclaimer">
