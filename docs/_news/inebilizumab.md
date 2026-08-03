@@ -14,7 +14,7 @@ permalink: /news/inebilizumab/
 ---
 
 <p class="key-answer" data-question="Inebilizumab 有什麼相關新聞？">
-<strong>Inebilizumab</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Inebilizumab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/inebilizumab/
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（22 則）
+
+### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
+
+---
+
+### [Vitamina D e tumori della pelle: quanto sole serve davvero?](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1Y2YlBJOUtNRkRnQ0YxanJnTnZSLU5yamVFRklFMDVGMGdOaGFFMzhNWGJKQWllUWw1S2R4QWZ1ZmhJb2Z0OXZnMmVnX2hhazJpU2JiNWZTQWs3bVQtOGZtWkM1bFFRNkZUYnVNMnlMWmZqbTd4VFFjUWwyeUNuaDZHLXJXUkVVVTRQQ0FuNUxQb3hrYm5NMUZKVGpvbmdqREk2TE44b2dvcy1n?oc=5)
+
+2026-08-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1Y2YlBJOUtNRkRnQ0YxanJnTnZSLU5yamVFRklFMDVGMGdOaGFFMzhNWGJKQWllUWw1S2R4QWZ1ZmhJb2Z0OXZnMmVnX2hhazJpU2JiNWZTQWs3bVQtOGZtWkM1bFFRNkZUYnVNMnlMWmZqbTd4VFFjUWwyeUNuaDZHLXJXUkVVVTRQQ0FuNUxQb3hrYm5NMUZKVGpvbmdqREk2TE44b2dvcy1n?oc=5)
+
+---
 
 ### [Ballaststoffe: Harvard-Studie belegt 33 % Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
 
 2026-08-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
+
+---
+
+### [Così lo zucchero alto potrebbe alimentare il tumore del fegato](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1dNVHFwcmVxbHZVbFZkOTZSTWkwcjZRVFRYeWhjV2VlTFlKNWdmUDRhcHQweEVMSHU4WXRfcmdpV21pVWVpWWNiTFh3QWMwaFlNNFlMNWdkUmtfVktJZG9wcl9CRHBqUl9xdDhKa29vNU9wUWxiTGRaVnVva0lUbkxsVW1PdG8wUkVzUm1rLTdLQ0xVWklhRTVETlZseTVmMi1HT1E3RGR5VG0yem1uS2cyVkZ5SkpUVVdiNGdhYw?oc=5)
+
+2026-08-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1dNVHFwcmVxbHZVbFZkOTZSTWkwcjZRVFRYeWhjV2VlTFlKNWdmUDRhcHQweEVMSHU4WXRfcmdpV21pVWVpWWNiTFh3QWMwaFlNNFlMNWdkUmtfVktJZG9wcl9CRHBqUl9xdDhKa29vNU9wUWxiTGRaVnVva0lUbkxsVW1PdG8wUkVzUm1rLTdLQ0xVWklhRTVETlZseTVmMi1HT1E3RGR5VG0yem1uS2cyVkZ5SkpUVVdiNGdhYw?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/inebilizumab/
 2026-08-02 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb3VsTDJ5ZzNSTUJvNHdJdEYzaExjb0tEYThXOTZMZkdiUEk1Tzdad3VleWVFYUlTUVRyeEVWM28tTTM0VTBuTklTSVd5cVIzTlBBMGtKSGVKMEZ0VkI1bjEyRGxwS2FHM0hmclJMNDB0b0VlUUl1eFZTWWJFSGthVTR5bkk5NzF5Q2NuNGtWRk5xdVluVUVnQmU4T3pSeEtVa3NkTHdmeUVUSHV2cXozTHlEQzAxSDIzZktjbUM4bzZIVWpGTElxMUVmS0tsSWRkaGl1WFRzc2x2c2VJSFYtZE9IZFlBeEtoSXJXTG9pV3lzTmJ0d01hbw?oc=5)
-
----
-
-### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
-
-2026-08-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
 
 ---
 
@@ -110,27 +126,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
-
-2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
-
----
-
 ### [La cataratta non è solo vecchiaia: il segnale che arriva dal diabete](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
 
 2026-08-01 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2dOLWxuQm5LYllxTk1aRjJDUVQ2dEc3d3Q0VERfdDRYQjROZXR3TjJUbzlGT05NaHViU09ucnVVVEtmNEZ1OU1OR2lEWjVabnhaeW83RWVWN0E5MTNpamQ4Sm84TGQ0d0hZR3BqaHhGRWdiMlQtTGpSeXlLbWNHeUtob2ZITDBrNjZ4QkZqNHAtNHI4d2haZ3VTU2VDZV9YTUZfU1R2RERZSVI2eVBndGVBVXdZbDBuQm0tSE13Q2Q3ajRsbmc?oc=5)
-
----
-
-### [Enfermedad inflamatoria intestinal: las claves para mantener una buena calidad de vida](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2RvVzAtdXFJS1h3b2R0T05sZzlvbk9DSWhZSE5mak9uMDczLTJQN2oxVmthR3RaT3liTzhrS1BMallHUk9jNzQyNjZzNnF2WHo0SEtRd0JrdXpBT2dXd0pFck52NmZwYTkyZGZUcS05QmlWVlphUUVSV2lLYVFxRVVfQ2hQOVlveHJtSzlqd3c2U2ZZVlQ0N1AxWXFIajc4MXRjYnNNa3pfMk9jZ1l0bmtzb1NXSzFnb1dYV0dBVE9BaFIzWkUtOGZn0gHPAUFVX3lxTE1OX01JNlROMWhOS0hNTzlocXZxLXpkUnpfTlJWYmdQaG5jUlAwNm5PN0pJcTJDN3h4R0M1RGRtaWpsdGM4SmNIREpjanFZUnlmMWxrYi0welZ4UkoxNjF3cGxPUGVJMF9EV1psWjZpeFdvbE9FTlEwUGQ1ZUZJQWNSVzMySUhGZ0J4V3ZueXV3TV9WMjZ0WE1HQkRnYTRXNVJUMXhaWGRTd3QxQkNOaEUwaXVUY1BNRThOWG9RQ0RhQjBzcjI3eTZ6dXpMaFBPdw?oc=5)
-
-2026-08-01 <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[Clarin.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2RvVzAtdXFJS1h3b2R0T05sZzlvbk9DSWhZSE5mak9uMDczLTJQN2oxVmthR3RaT3liTzhrS1BMallHUk9jNzQyNjZzNnF2WHo0SEtRd0JrdXpBT2dXd0pFck52NmZwYTkyZGZUcS05QmlWVlphUUVSV2lLYVFxRVVfQ2hQOVlveHJtSzlqd3c2U2ZZVlQ0N1AxWXFIajc4MXRjYnNNa3pfMk9jZ1l0bmtzb1NXSzFnb1dYV0dBVE9BaFIzWkUtOGZn0gHPAUFVX3lxTE1OX01JNlROMWhOS0hNTzlocXZxLXpkUnpfTlJWYmdQaG5jUlAwNm5PN0pJcTJDN3h4R0M1RGRtaWpsdGM4SmNIREpjanFZUnlmMWxrYi0welZ4UkoxNjF3cGxPUGVJMF9EV1psWjZpeFdvbE9FTlEwUGQ1ZUZJQWNSVzMySUhGZ0J4V3ZueXV3TV9WMjZ0WE1HQkRnYTRXNVJUMXhaWGRTd3QxQkNOaEUwaXVUY1BNRThOWG9RQ0RhQjBzcjI3eTZ6dXpMaFBPdw?oc=5)
 
 ---
 
@@ -174,19 +174,11 @@ permalink: /news/inebilizumab/
 
 ---
 
-### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer' - The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
-
-2026-08-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
-
----
-
 ### [Diagnosi e cura dei disturbi della prostata: da Alberto Angela il servizio televisivo girato al Morgagni-Pierantoni](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
 
 2026-08-01 <span class="news-indication-tag">tumor</span>
 
-來源：[ForlìToday](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
+來源：[forlitoday.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
 
 ---
 

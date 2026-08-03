@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [STING als neuer Entzündungs-Schalter bei Alzheimer: Therapie- und Diagnosepfade - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Alzheimer-Krankheit</span> <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+
+---
 
 ### [Vitamin D: Hohe Spiegel reduzieren Tau-Protein-Ablagerungen im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
 

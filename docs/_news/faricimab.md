@@ -14,7 +14,7 @@ permalink: /news/faricimab/
 ---
 
 <p class="key-answer" data-question="Faricimab 有什麼相關新聞？">
-<strong>Faricimab</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Faricimab</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/faricimab/
 <p><a href="{{ '/drugs/faricimab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（22 則）
+
+### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
+
+2026-08-02 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
+
+---
+
+### [Vitamina D e tumori della pelle: quanto sole serve davvero?](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1Y2YlBJOUtNRkRnQ0YxanJnTnZSLU5yamVFRklFMDVGMGdOaGFFMzhNWGJKQWllUWw1S2R4QWZ1ZmhJb2Z0OXZnMmVnX2hhazJpU2JiNWZTQWs3bVQtOGZtWkM1bFFRNkZUYnVNMnlMWmZqbTd4VFFjUWwyeUNuaDZHLXJXUkVVVTRQQ0FuNUxQb3hrYm5NMUZKVGpvbmdqREk2TE44b2dvcy1n?oc=5)
+
+2026-08-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1Y2YlBJOUtNRkRnQ0YxanJnTnZSLU5yamVFRklFMDVGMGdOaGFFMzhNWGJKQWllUWw1S2R4QWZ1ZmhJb2Z0OXZnMmVnX2hhazJpU2JiNWZTQWs3bVQtOGZtWkM1bFFRNkZUYnVNMnlMWmZqbTd4VFFjUWwyeUNuaDZHLXJXUkVVVTRQQ0FuNUxQb3hrYm5NMUZKVGpvbmdqREk2TE44b2dvcy1n?oc=5)
+
+---
 
 ### [Ballaststoffe: Harvard-Studie belegt 33 % Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
 
 2026-08-02 <span class="news-indication-tag">diabetes</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
+
+---
+
+### [Così lo zucchero alto potrebbe alimentare il tumore del fegato](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1dNVHFwcmVxbHZVbFZkOTZSTWkwcjZRVFRYeWhjV2VlTFlKNWdmUDRhcHQweEVMSHU4WXRfcmdpV21pVWVpWWNiTFh3QWMwaFlNNFlMNWdkUmtfVktJZG9wcl9CRHBqUl9xdDhKa29vNU9wUWxiTGRaVnVva0lUbkxsVW1PdG8wUkVzUm1rLTdLQ0xVWklhRTVETlZseTVmMi1HT1E3RGR5VG0yem1uS2cyVkZ5SkpUVVdiNGdhYw?oc=5)
+
+2026-08-02 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1dNVHFwcmVxbHZVbFZkOTZSTWkwcjZRVFRYeWhjV2VlTFlKNWdmUDRhcHQweEVMSHU4WXRfcmdpV21pVWVpWWNiTFh3QWMwaFlNNFlMNWdkUmtfVktJZG9wcl9CRHBqUl9xdDhKa29vNU9wUWxiTGRaVnVva0lUbkxsVW1PdG8wUkVzUm1rLTdLQ0xVWklhRTVETlZseTVmMi1HT1E3RGR5VG0yem1uS2cyVkZ5SkpUVVdiNGdhYw?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/faricimab/
 2026-08-02 <span class="news-indication-tag">Krebs</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb3VsTDJ5ZzNSTUJvNHdJdEYzaExjb0tEYThXOTZMZkdiUEk1Tzdad3VleWVFYUlTUVRyeEVWM28tTTM0VTBuTklTSVd5cVIzTlBBMGtKSGVKMEZ0VkI1bjEyRGxwS2FHM0hmclJMNDB0b0VlUUl1eFZTWWJFSGthVTR5bkk5NzF5Q2NuNGtWRk5xdVluVUVnQmU4T3pSeEtVa3NkTHdmeUVUSHV2cXozTHlEQzAxSDIzZktjbUM4bzZIVWpGTElxMUVmS0tsSWRkaGl1WFRzc2x2c2VJSFYtZE9IZFlBeEtoSXJXTG9pV3lzTmJ0d01hbw?oc=5)
-
----
-
-### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
-
-2026-08-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
 
 ---
 
@@ -158,19 +174,11 @@ permalink: /news/faricimab/
 
 ---
 
-### ['Doctors fobbed off my son's chest pain with Gaviscon - but 'bad diet' agony was cancer' - The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
-
-2026-08-01 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVRJNGU5MnYwWnE4T3VXVmgwWEZsQlRjVUNKZ09Oa1hUVGZ1dENLVENncXdhOF9nVzJab0hIa1NqRjc2ZnZRUTZUNjhPaEZ6TWNhODAxTE5Sb1JabF93bVRNQjhZbXpsVmhaYklBLVdSaDhFbTBSTFYwdDh6S2ZFZHZkdHM5R3Bic1pQeVhQb19FR042QlBfRmFnTdIBoAFBVV95cUxPXzFzcnE3MVRyaVZFR2FJTlVreTZIaXBtSUx0LWFDTEtlVDBoV1ZDWEN1ZWJGMmZXMkNVQmpQcHU5dEwyeE5maTJ2YzVGY0lweF9GeVNKdWU4cFhXaEJhZmFFdGtFMXhrZzd0R2YzY2k5b0VCUDVybHowSWZIV2tBTWVSdU9ZVWxvdU9NMHJqU3BySWxPRHVVTmhHMW5Ca1Vn?oc=5)
-
----
-
 ### [Diagnosi e cura dei disturbi della prostata: da Alberto Angela il servizio televisivo girato al Morgagni-Pierantoni](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
 
 2026-08-01 <span class="news-indication-tag">tumor</span>
 
-來源：[ForlìToday](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
+來源：[forlitoday.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV1ZnMnhGQ2QtdlUyM1ZTVmcwcUJ5LWxjRWJlMkdJY3RaYkFLWDZTUWtucmZVNE9wRDdRQ0k3bjk3QmlNQVhSLVpPRlVIZGNIWHdCelRhRjV2SldjaEgzYXdiSGpiNnV1ZzFybzZ5R0p6NENUdVE5VTI1Ym5rWTVHVFUwMWpFUGx0WDBUZHYxUWQ1eWhwNDRFcWo0c2Z3ZnY2VzBVQTVBNWZXU29tRTZ1b3I1amtjbFdQYURSRVk5TWZoX2tOZFFJbGRoMW45bmZ1YURBX3dheHJRVnlZeHdvdVEwZFdCTTVy?oc=5)
 
 ---
 

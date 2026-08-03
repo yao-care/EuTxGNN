@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/sarilumab/
 2026-08-02 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
-
----
-
-### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
-
-2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
 
 ---
 

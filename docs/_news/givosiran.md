@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [La gallega Sabela Lens lidera el cambio de rumbo de la hepatitis D en España: «Ha estado completamente olvidada» - La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia - El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+### [Estudio de Keralty y la Unión Europea busca mujeres para evaluar su riesgo cardiovascular durante la menopausia](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 2026-08-01 <span class="news-indication-tag">hipertensión</span>
 
-來源：[El Tiempo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
+來源：[eltiempo.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDN2djZKNm93VVVnTWtqb0g2U0xjY2ZydHdOYmJ6ZV9JRklnUm1yVGhNMmNyMUNUYXFiVkdhZnFTUXQ3VlpCMDI4SDV5NHFMZE04b3cwRE5TV1RPc0VZdU9rMmMtUVdhUVdsSVRWZVNQMXE1R1FTNG5BSjdNbEwtUkxtVXl2dWRIdTVPcUt1eWNQUkhaRTZIekg3dFVtM2ZJVW9VekxEU25DOU0xZ3dLaDJUS2JGMjF3eGhRaFhud3J1WGxwX0k2Z0ZYNFVpRVA1WHlrNk5yV3N1RU9uOG5NMlJrZ2I?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/givosiran/
 2026-08-01 <span class="news-indication-tag">hypertension</span>
 
 來源：[Charente Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZTgzY1cwYkVZZ3VZSFRGZFpWNU1YZXRyaWx2UE5VcjdGaTdKd2RVUFBVcWVPNmdaX0tmb1UzY3VxdEg5VHNyN0M2aGFrV2pleXJmZEUzbHpUMnp5NWpxT0xXa2dRMHN4WTZUazlzMm5UMWJNdFppcFpJVzRTcHdXUXZNdHQ0TWVJamRLbG1Md01GdXdjdXJCNG56SmxQcXNWc3JIa01ob2N3RnNsY2lldEZiMnNWQ1ltTWxKazliNlJBUQ?oc=5)
-
----
-
-### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
-
-2026-08-01 <span class="news-indication-tag">hepatitis</span>
-
-來源：[wndn.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
 
 ---
 

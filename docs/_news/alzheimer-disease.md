@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer-Krankheit（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
+description: "Alzheimer-Krankheit（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="Alzheimer-Krankheit（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
+<strong>Alzheimer-Krankheit（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [STING als neuer Entzündungs-Schalter bei Alzheimer: Therapie- und Diagnosepfade - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+
+2026-08-02
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ0JPSUFHWFozc3V5VkN4UURiSWFOOXo5TWoxb0VkRTUtTWpCZzQ3Ti1NYzBZcnh4UUxMUTRYNDdXMnhUMF9uazVlY0c0dFduUWF0QlljelZjb05oVWpiSnBGQ2JsRy1mUUxXVGdtb0lYVmtLS3pzenJuQ2RsOWpQSmJLZmFIWHNJNzZPdmh1ZVJYajJqUkFBUTNqVjFOazZfZFc1Q19rVUktYlRrZldN?oc=5)
+
+---
 
 ### [Vitamin D: Hohe Spiegel reduzieren Tau-Protein-Ablagerungen im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
 

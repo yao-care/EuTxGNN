@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（9 則）
+
+### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
+
+2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
+
+---
 
 ### [Teresa Lambe de Oxford impulsa el primer ensayo de una vacuna contra el ébola Bundibugyo - Diario Feminista](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdF9OTWhENmpCR1Vzbzg1ci1JSldsWExVcHZPMGMzT3kwaDduQ1hPdDQxQUZJRXlHel8wUDNUaTdQQ2hvUGlOemxzNmtGVzQ0MDFEamV0VHpRLXBLbFBIVmhsQzVGbjFvVEpZZnNWOGdSdXc4TDlXRExUMy1qTXZjaUp1R2EyQ3psYVAwbmp2QmdBWGJUUTBDU1pQSktzbnNPOFFXQmdJSFlYRlRiREdsdERxRVBnWXJ5VUFQa3o4c2MyZGNzMEpPZ2NvSQ?oc=5)
 
@@ -78,11 +86,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Darmflora-Analyse: Colitis-Schübe 7 Wochen im Voraus erkannt - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
+### [Why Dreaming Leaves the Brain Running Low on Energy](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVJGeWFyWldmSDFKZzFNZ1hSTFVQYnVQQmxaOVZaU0RQMTM0ekFoOW1oVXhvbko0c3NhT2NDZDJTY1k3UTRPYllWSGRBaEJpVkMzdmFJWTM4c1VUZ2gtbldLT1JIQVgybFpTSG85dlFvcU5yZ0xOS3BrbzdSdWJUNlcxNA?oc=5)
 
-2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-08-02 <span class="news-indication-tag">MS</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0NwRFc4NTVHdnVpeTRWZlpnYmdTRE0tOHlUcGtpOC03VWU5TjM2dHNqRm5ZWWpYNDBPTlFOY3hnWG9Ha1lVZVlUQWVYM2kxd0h2dWdadkE2dzZNNVFrbEpSVnpEZGZ1R2ViT1YyYXo3Um1xOV9wVFVRYS1TMFpTc2JtdkRLbU1uWDRSdUhnZWFIYTZiNE00Y29tVVFFeHpIeVBMLUFnVzVvNllnSUE?oc=5)
+來源：[scitechdaily.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVJGeWFyWldmSDFKZzFNZ1hSTFVQYnVQQmxaOVZaU0RQMTM0ekFoOW1oVXhvbko0c3NhT2NDZDJTY1k3UTRPYllWSGRBaEJpVkMzdmFJWTM4c1VUZ2gtbldLT1JIQVgybFpTSG85dlFvcU5yZ0xOS3BrbzdSdWJUNlcxNA?oc=5)
 
 ---
 
@@ -102,19 +110,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Apnée du sommeil : un implant innovant remboursé pour les cas les plus graves proposé près de Reims](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
+### [Apnée du sommeil : un implant innovant remboursé pour les cas les plus graves proposé près de Reims - France 3 Régions](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
 
 2026-08-01 <span class="news-indication-tag">MS</span>
 
-來源：[france3-regions.franceinfo.fr](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
-
----
-
-### [S1P-Signalweg stoppt arteriellen Thromboseprozess offenbar ohne erhöhtes Blutungsrisiko - it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUZIR1RwQldLWTZfWGg2Y2IyN2xidVBWYWNFMmY1UlZhTE95Sk5VQks4SDlYaGk2bmVYNVExcHJVMmIyaWtUcGhaY1k4NzcyQzF4ZjBMTUM0bDNCdjRqWk5ieXFyWFUyZnRmWTZPVVM1bk9RTFR5emFVcVh5elcwTXpNLVNzXzlnQmdqS2lvRFpENk5QVEF6Mmw0QlBEOVNNdDdPQS1GbHNBVXl0YTVlWmg5eWZVS0Y0VG1DTQ?oc=5)
-
-2026-08-01 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUZIR1RwQldLWTZfWGg2Y2IyN2xidVBWYWNFMmY1UlZhTE95Sk5VQks4SDlYaGk2bmVYNVExcHJVMmIyaWtUcGhaY1k4NzcyQzF4ZjBMTUM0bDNCdjRqWk5ieXFyWFUyZnRmWTZPVVM1bk9RTFR5emFVcVh5elcwTXpNLVNzXzlnQmdqS2lvRFpENk5QVEF6Mmw0QlBEOVNNdDdPQS1GbHNBVXl0YTVlWmg5eWZVS0Y0VG1DTQ?oc=5)
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMkRhaXFqNldPdEhibTBZV3dlWkNKajZFVHhIRHNUVml6MGlZOWs3bHlPWG1DQWo0akxkTUg3eHlrcmNyaGk4QXJEd0RsaW5VRWkxbk1qUm81UzVrLVVrUUJpVV9XNXd3cHUycTJOWmJrOFNfaWtCQmVtSlNpalpTSkNaTHpWaGlGYmRWa3EyeDhUT3MtYTkwTTFOTmpfTEdyeDRuTTNueUh3NlhnTGVFTENjcGFBWmRnY2ZxMFdxMEt5d3Q1WmtSbGQyMmx4NzlxUU51UjRTaTh6dWV1dWdmdXo1RHZtdWpWd0JFLWtJY2tnS2dfekRhaVQwVTVKNEk?oc=5)
 
 ---
 
@@ -123,22 +123,6 @@ permalink: /news/elbasvir/
 2026-08-01 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
-
----
-
-### [Hepatitis-Fälle im Saarland gehen zurück – Ministerium mahnt dennoch zur Wachsamkeit](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
-
-2026-08-01 <span class="news-indication-tag">hepatitis</span>
-
-來源：[wndn.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0NlVzdhYWFqNlJwWWVNaTV4bXVYdUVXTWhWQ0gzRkxjUkg5TXgtNjM5aFQ3YnpaaEpERGtjNC1XdGIxd0tVUkxpVFVsY1pHdkJiWVQweHF2cDdkd0dJemstbFJqTkNCZE5XQWNtbVUxa1JfTm43UzRvQTE1U3dldDJZNEluTWRYVGZnbWpHUWFhVUNiTWhhNTFadGlDeEpKVlNNWmtqekM?oc=5)
-
----
-
-### [Weniger Erstattung bremst Verbrauch von Statinen und Magensäureblockern](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlB6TGpZQmNaOFQ2emlCazZKQzU1V1hZQjBEZkFEMkV1d3RJQk1meV9tU0lwb1h4RHQwNGJOdElNblpJM3pGb3EyXzNIUmJEZFRrb2tmZjdWMzdzaDA2WFZYV1VlWE9lNi1FTkxmWEM3c054dEZPNVFTRE0tVEIwamdMbjZZV3NTcnVmeE1mbm1YTFFoZ1lDOHVUVjJVa0IzLWptb0g2OFpSVk1udG9va3dsZU5MQS14cGdzNklqQkY?oc=5)
-
-2026-07-31 <span class="news-indication-tag">MS</span>
-
-來源：[GrenzEcho](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlB6TGpZQmNaOFQ2emlCazZKQzU1V1hZQjBEZkFEMkV1d3RJQk1meV9tU0lwb1h4RHQwNGJOdElNblpJM3pGb3EyXzNIUmJEZFRrb2tmZjdWMzdzaDA2WFZYV1VlWE9lNi1FTkxmWEM3c054dEZPNVFTRE0tVEIwamdMbjZZV3NTcnVmeE1mbm1YTFFoZ1lDOHVUVjJVa0IzLWptb0g2OFpSVk1udG9va3dsZU5MQS14cGdzNklqQkY?oc=5)
 
 ---
 

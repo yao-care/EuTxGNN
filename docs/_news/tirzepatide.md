@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ['I lost my hair to Mounjaro - I have less confidence than when I was 8 stone bigger'](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWC1DYm9qdVNDS21sUWxJTW5NWFQ3QUNfZUU3djdfa2NmV01rZFY4a1d0YzVvang4V2RLaTdjdlA3RlVXOUZCZ3ZUUkYzWkd0WVhMSEdTamNoa1hZZUxmVDJLeGVQbWpPNUxwaVRGNFlCaDFuNm05ZHZaY3pPanBLZWItc9IBiAFBVV95cUxQX0UxZUJyLUU4eXRpbHN1NkxhbVF2WlBpQnY3N281V3lZQnU4WW0tMjFmOTdTdVFwajFicER6WE5YS25fUURXbF9ORVo4TFFFQTJ4RW5Sa1dBSTdDdXVGYThRQ2xBcEpUSmZxY2dndDhhVHY3ZFl5a2duWFg0V183aW1EdVNRcjZx?oc=5)
+
+2026-08-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWC1DYm9qdVNDS21sUWxJTW5NWFQ3QUNfZUU3djdfa2NmV01rZFY4a1d0YzVvang4V2RLaTdjdlA3RlVXOUZCZ3ZUUkYzWkd0WVhMSEdTamNoa1hZZUxmVDJLeGVQbWpPNUxwaVRGNFlCaDFuNm05ZHZaY3pPanBLZWItc9IBiAFBVV95cUxQX0UxZUJyLUU4eXRpbHN1NkxhbVF2WlBpQnY3N281V3lZQnU4WW0tMjFmOTdTdVFwajFicER6WE5YS25fUURXbF9ORVo4TFFFQTJ4RW5Sa1dBSTdDdXVGYThRQ2xBcEpUSmZxY2dndDhhVHY3ZFl5a2duWFg0V183aW1EdVNRcjZx?oc=5)
+
+---
 
 ### [Osteoartrite: fisioterapia tradizionale e digitale a confronto](https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmEycm5BaWs2aHlWX191Z2RDWEZ1c283RjF5T0s1X0QxaEpiVWhjYThfQUdPSGFsMnJ2dlJRNUdUU09aQ19PVDE0ek92bV9kUEY2ZUJhTGNISnVZTk1FLXN0anB6NGNLbHNCeGpCeEtrUmF5cHZwOUoydnhEVXBOaFRld201TnE2VDlkNW0wWTEtYXo2WV85RGtVVTN2STN4X29vYXgzMnR4U04yWThFVHpn?oc=5)
 

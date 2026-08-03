@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Semaglutide: può rallentare l'invecchiamento? Ora la scienza può misurarlo](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkx0YVZZS2JEX3lQWWVQREU3NVk0XzNkczR2clFzLXVabGEyNzExRE5OTm1fT1pQYmp4c19tLUdhZVpJUnJRc1BzUkRDbWhiNHpZUFE1NkZfTFcxLVEzblNfOXlPblZTam5INWtvanpSTHRTM0VHLVctNEc3U2tCMmw1VEtndnYweFp6SzBxSGdQU1MwXzNTQWJrUkpRM1pRVVI2UXl5eDhVZHFudFlPWUZoX08xZ215WGdQX0hRUEI1ZnhzRExzS1ZLb3A?oc=5)
+
+2026-08-02 <span class="news-drug-tag">Semaglutide</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkx0YVZZS2JEX3lQWWVQREU3NVk0XzNkczR2clFzLXVabGEyNzExRE5OTm1fT1pQYmp4c19tLUdhZVpJUnJRc1BzUkRDbWhiNHpZUFE1NkZfTFcxLVEzblNfOXlPblZTam5INWtvanpSTHRTM0VHLVctNEc3U2tCMmw1VEtndnYweFp6SzBxSGdQU1MwXzNTQWJrUkpRM1pRVVI2UXl5eDhVZHFudFlPWUZoX08xZ215WGdQX0hRUEI1ZnhzRExzS1ZLb3A?oc=5)
+
+---
 
 ### [Ballaststoffe: Harvard-Studie belegt 33 % Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlNCajBWaTctd19yaDNvS2JCdW5QRVZWR1NlMVA0YVhLcm5sRjRYbGtyY1RiSUdJb21oYzM4eHVEMEtEOU4wUnZobGU1ekZiTVVvU2Z3c0lNSWFRdndWTXRYVC13X2lZQWdXY3UzWlJablVoQ0RjZURVbV94TURTZlNvRURQZXRuRWoxeTN5bEFlQzJOMUUtYkpwMjJLNjZ1WWlUay1TTVA0OHhmNnVFTER1V1VtN0c4MnY4?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/semaglutide/
 
 ---
 
-### [¿Los huevos tienen el mismo efecto que el Ozempic? Boticaria García lo aclara - Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlIta0dzSDhMNWtaUWpISlhLM0tEWTVMV2hHN25mM3JieVk5SjdkT2VTdGZENDR5Z25fZWhWYXNHVW5BZ2FXU2dfY1RSb2h4N1g5bTBKeFpuRzdySFFfMEhHV2dDX3gwRU0ydnJUVHJPUnlGeXFsY1V1a2hwelRHYl9oU1dnM3NHQ3dSV2tuX2NrSFduSXlmRWlqUHVQOWhHcTFybXJTeVR0NExWVW9r?oc=5)
+### [¿Los huevos tienen el mismo efecto que el Ozempic? Boticaria García lo aclara - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlN0MFloS1ZlVkNTdDJxMC1sU0xrR044V1ZkR0hYWWRNQTl0aUFsMThwa2wyX2VMMjFIblVxSlpza0Z6RTFzYjhobzFTUW5QVjRuLUlSUVg5NmJVcWxudmkwNEFCWl9EME1vd2dIempaNl85QnNNZ2UyQ1RLR3FUVWdGUVprSG5qT0lXQWR0TDlNU1VZV2VhV0Ywb0pITzlNT0hlNDBxd012c1Fl0gGyAUFVX3lxTE1lNTZSVXU3UGZyVk5jdmlHVkJSUGYtb0s0R0d6OUJPYTVRUlJ4VjA1cVJMQkJ6RTNNVFl5ZDByTkNkTjdQT1hXQ0txZG9qMWljaFFCVTdZQk9sOWRfTnBtYjJqQy1NRzBqWjcwc2lKVlJkSXk3dFYxSVo3dTFndjNDU1h1SC1ScVhCaC1YY0xiUnViX0FPRlZQN3Rmd0k3bjhpQkNsQThiNllfRVA5dHNBeEE?oc=5)
 
 2026-08-02 <span class="news-drug-tag">Semaglutide</span>
 
-來源：[Diario de Noticias de Navarra](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlIta0dzSDhMNWtaUWpISlhLM0tEWTVMV2hHN25mM3JieVk5SjdkT2VTdGZENDR5Z25fZWhWYXNHVW5BZ2FXU2dfY1RSb2h4N1g5bTBKeFpuRzdySFFfMEhHV2dDX3gwRU0ydnJUVHJPUnlGeXFsY1V1a2hwelRHYl9oU1dnM3NHQ3dSV2tuX2NrSFduSXlmRWlqUHVQOWhHcTFybXJTeVR0NExWVW9r?oc=5)
+來源：[Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlN0MFloS1ZlVkNTdDJxMC1sU0xrR044V1ZkR0hYWWRNQTl0aUFsMThwa2wyX2VMMjFIblVxSlpza0Z6RTFzYjhobzFTUW5QVjRuLUlSUVg5NmJVcWxudmkwNEFCWl9EME1vd2dIempaNl85QnNNZ2UyQ1RLR3FUVWdGUVprSG5qT0lXQWR0TDlNU1VZV2VhV0Ywb0pITzlNT0hlNDBxd012c1Fl0gGyAUFVX3lxTE1lNTZSVXU3UGZyVk5jdmlHVkJSUGYtb0s0R0d6OUJPYTVRUlJ4VjA1cVJMQkJ6RTNNVFl5ZDByTkNkTjdQT1hXQ0txZG9qMWljaFFCVTdZQk9sOWRfTnBtYjJqQy1NRzBqWjcwc2lKVlJkSXk3dFYxSVo3dTFndjNDU1h1SC1ScVhCaC1YY0xiUnViX0FPRlZQN3Rmd0k3bjhpQkNsQThiNllfRVA5dHNBeEE?oc=5)
+
+---
+
+### ['I lost my hair to Mounjaro - I have less confidence than when I was 8 stone bigger'](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWC1DYm9qdVNDS21sUWxJTW5NWFQ3QUNfZUU3djdfa2NmV01rZFY4a1d0YzVvang4V2RLaTdjdlA3RlVXOUZCZ3ZUUkYzWkd0WVhMSEdTamNoa1hZZUxmVDJLeGVQbWpPNUxwaVRGNFlCaDFuNm05ZHZaY3pPanBLZWItc9IBiAFBVV95cUxQX0UxZUJyLUU4eXRpbHN1NkxhbVF2WlBpQnY3N281V3lZQnU4WW0tMjFmOTdTdVFwajFicER6WE5YS25fUURXbF9ORVo4TFFFQTJ4RW5Sa1dBSTdDdXVGYThRQ2xBcEpUSmZxY2dndDhhVHY3ZFl5a2duWFg0V183aW1EdVNRcjZx?oc=5)
+
+2026-08-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWC1DYm9qdVNDS21sUWxJTW5NWFQ3QUNfZUU3djdfa2NmV01rZFY4a1d0YzVvang4V2RLaTdjdlA3RlVXOUZCZ3ZUUkYzWkd0WVhMSEdTamNoa1hZZUxmVDJLeGVQbWpPNUxwaVRGNFlCaDFuNm05ZHZaY3pPanBLZWItc9IBiAFBVV95cUxQX0UxZUJyLUU4eXRpbHN1NkxhbVF2WlBpQnY3N281V3lZQnU4WW0tMjFmOTdTdVFwajFicER6WE5YS25fUURXbF9ORVo4TFFFQTJ4RW5Sa1dBSTdDdXVGYThRQ2xBcEpUSmZxY2dndDhhVHY3ZFl5a2duWFg0V183aW1EdVNRcjZx?oc=5)
 
 ---
 
