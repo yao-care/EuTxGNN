@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania（migraine） 相關新聞"
+title: "migraña（migraine） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "emicrania（migraine） 的相關健康新聞報導。3 則新聞、49 個相關藥物。"
+description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# emicrania（migraine） 相關新聞
+# migraña（migraine） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="emicrania（migraine） 有什麼相關新聞？">
-<strong>emicrania（migraine）</strong> 目前有 <strong>3 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
+<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「emicrania」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,29 +77,21 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
+
+2026-08-03
+
+來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
+
+---
 
 ### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 
 2026-08-02
 
 來源：[Leggo.it](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
-
----
-
-### [Migräne bleibt bei Männern oft unerkannt – was ihnen hilft](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
-
-2026-08-01
-
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
-
----
-
-### [Calor y migraña: estos son los factores que agravan el dolor y así puedes reducir su impacto - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
-
-2026-08-01
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
 
 ---
 

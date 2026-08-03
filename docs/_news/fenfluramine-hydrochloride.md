@@ -54,19 +54,11 @@ permalink: /news/fenfluramine-hydrochloride/
 
 ## 相關新聞（3 則）
 
-### [Los fármacos contra la obesidad deben combinarse con una atención nutricional, física y psicológica integrada - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
+### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 2026-08-03 <span class="news-indication-tag">obesidad</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
-
----
-
-### [Un estudio cuestiona el IMC como único indicador de riesgo en la obesidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
-
-2026-08-03 <span class="news-indication-tag">obesidad</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+來源：[economistjurist.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 ---
 
@@ -74,7 +66,15 @@ permalink: /news/fenfluramine-hydrochloride/
 
 2026-08-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
+
+---
+
+### [Obesità, orforglipron mantiene efficacia e sicurezza anche dopo i 65 anni](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
+
+2026-08-02 <span class="news-indication-tag">obesità</span>
+
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
 
 ---
 

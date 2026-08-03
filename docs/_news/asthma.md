@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Asthma bei Kindern: Studie identifiziert drei Entzündungsmechanismen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+
+2026-08-03
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+
+---
 
 ### [Fettleber-Risiko: Blutproteine zeigen Gefahr 16 Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORTFBNkl1a1dsdGswc3JrcFMxOFMwLVVobUtvd2oyNkNKdW9mVUdKSDhkWk5BU19WenVwN1dNZUZWOUg5M3FSSEt2VzByU1RTYVJRV2RHWlg1Wmk4RFFGbmp3c2F6R2hfaEpoa19RV1RRai1GZGZ2V1dESEJBRm1JS1NDa3B2d184eVJiVGlzVUcxSW9NdE1IWi1XRXBhWVYwcVlPTVpnbngyenVKOXc?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+
+2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+
+---
+
+### [Herz: Verkalkte Gefäße? Was Studien über Vitamin K jetzt wirklich zeigen](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW1OaUd3ZWNOMXVPMDQ2Qk5rdmFVbkZGZlZKWWlUSFYwbXVTajJfUTBTRUZreVpuZlNIWHRoUzB0Uy1JOVpucy13dmNwdl9RY2lzd1E5WGpZalNuc05FT1RQOF9mRU83X3V1U2oyN1N1SHBZd2Y3QWpPWGw1VlkyWEJnTUJjQVJCakIzZ0tKejJxLWFWRExZWWhlNUN4bm5wSkNIQWhsQ3RIOXc1dzlpYVlORXU0LW9zMWdJcklJV3JXRFpUNUZwQ3FldmlMcGlwNlJuWUJHZEI?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW1OaUd3ZWNOMXVPMDQ2Qk5rdmFVbkZGZlZKWWlUSFYwbXVTajJfUTBTRUZreVpuZlNIWHRoUzB0Uy1JOVpucy13dmNwdl9RY2lzd1E5WGpZalNuc05FT1RQOF9mRU83X3V1U2oyN1N1SHBZd2Y3QWpPWGw1VlkyWEJnTUJjQVJCakIzZ0tKejJxLWFWRExZWWhlNUN4bm5wSkNIQWhsQ3RIOXc1dzlpYVlORXU0LW9zMWdJcklJV3JXRFpUNUZwQ3FldmlMcGlwNlJuWUJHZEI?oc=5)
+
+---
+
+### [Akuter ischämischer Schlaganfall: Tenecteplase kann gegenüber Alteplase den Workflow verbessern - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM2pKZHFnZHl2U0gtZVUyVGtqUjNPamZBYk5jYWt3QW9uNHM0MUtXcnYtTmMyY2pKek1ieW5hSnM5ODBjZTZFQkcyZUlObExnQUl5VHZEWkhoLTktb0FwTjdHaW4wLWdBSjgtV2ZzYjNFMjFTOFFRXzFhXzY5S2Fsc19hQ0VJdS1HLVRfeEF6Yy00M0RlemFyMTkyckVRdlJQeTRWU2E2Q29sT1o5ZUFzOGR6Z08tZEFHX1BaWHJnenQ1aFVJMWk5ZnZFTTBGYi1FVFpFQ21hWnZnNERlbXA5b2lzRFd3VGplSTU0S2wwalVCTEl5TWc?oc=5)
+
+2026-08-03 <span class="news-drug-tag">Tenecteplase</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM2pKZHFnZHl2U0gtZVUyVGtqUjNPamZBYk5jYWt3QW9uNHM0MUtXcnYtTmMyY2pKek1ieW5hSnM5ODBjZTZFQkcyZUlObExnQUl5VHZEWkhoLTktb0FwTjdHaW4wLWdBSjgtV2ZzYjNFMjFTOFFRXzFhXzY5S2Fsc19hQ0VJdS1HLVRfeEF6Yy00M0RlemFyMTkyckVRdlJQeTRWU2E2Q29sT1o5ZUFzOGR6Z08tZEFHX1BaWHJnenQ1aFVJMWk5ZnZFTTBGYi1FVFpFQ21hWnZnNERlbXA5b2lzRFd3VGplSTU0S2wwalVCTEl5TWc?oc=5)
+
+---
+
+### [Australia warns H5N1 likely to spread after first mass mortality episode - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1kc3p4R3hzQmRJS1NRY1ZVYmFfZVJSc0JISUdPSlZicXJPbU9TamZIV2FuMmp3T0piYlI5aFVyOUowRFBxS3V2RXhyYS1ObVBGbzlQbVpRU2VEZ3lsLXBfLWdoSTh5MVFyMXRoeHVfZUoxWHl3OTRWaXlEc3JzZ2YybDFUMGFEZm5BSEM0eVlLV1JMNjRreHNybl9xeXZLLV9kY3B1ZlBfTjEwUDg1MTh30gG3AUFVX3lxTE13bzNJRi13YXNxSDktUFNuOFNEb25rQnZlVG0zRFMyZFBEclpoQzhLVXFGNHZPWHJldzNTTnVhbU0zcU0yak5lbzB0UFpoMko3Smh5YVlERWJJWDF3SkJWajNFZ3d0TzRDbTBiZGRPaXE2Nnc3anM3YkVfbjM3aHJjOWVrN2ZmRmY3TFZIcXdZZlJ6THhtVGd5bExhanozZGx6NzJwN1JvejNnbFduaFZERkdhaFRxMA?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1kc3p4R3hzQmRJS1NRY1ZVYmFfZVJSc0JISUdPSlZicXJPbU9TamZIV2FuMmp3T0piYlI5aFVyOUowRFBxS3V2RXhyYS1ObVBGbzlQbVpRU2VEZ3lsLXBfLWdoSTh5MVFyMXRoeHVfZUoxWHl3OTRWaXlEc3JzZ2YybDFUMGFEZm5BSEM0eVlLV1JMNjRreHNybl9xeXZLLV9kY3B1ZlBfTjEwUDg1MTh30gG3AUFVX3lxTE13bzNJRi13YXNxSDktUFNuOFNEb25rQnZlVG0zRFMyZFBEclpoQzhLVXFGNHZPWHJldzNTTnVhbU0zcU0yak5lbzB0UFpoMko3Smh5YVlERWJJWDF3SkJWajNFZ3d0TzRDbTBiZGRPaXE2Nnc3anM3YkVfbjM3aHJjOWVrN2ZmRmY3TFZIcXdZZlJ6THhtVGd5bExhanozZGx6NzJwN1JvejNnbFduaFZERkdhaFRxMA?oc=5)
+
+---
 
 ### [Stress, old age, or dementia? Here’s how to tell - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
@@ -66,7 +98,7 @@ permalink: /news/rotigotine/
 
 2026-08-03 <span class="news-indication-tag">MS</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMU5WNWZKUFJnUkljQ2Y5RVZaMU5VZ0NtY0d5VXA5LVRXUVRRSEtMb1R5QWpFY29JeXNpYmhmU2tFaHBRQWIwSFFYN1otZy12QTRIbmROY3lmUjZf?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMU5WNWZKUFJnUkljQ2Y5RVZaMU5VZ0NtY0d5VXA5LVRXUVRRSEtMb1R5QWpFY29JeXNpYmhmU2tFaHBRQWIwSFFYN1otZy12QTRIbmROY3lmUjZf?oc=5)
 
 ---
 
@@ -86,19 +118,19 @@ permalink: /news/rotigotine/
 
 ---
 
-### [First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds - The Guardian](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeU1QQlh2Wm1ERXdvc09EVVltVVpCcm1ESVBHOXY5amhHdFY1N2t5TnhLYmtZV3VxSk1OUnlqeVAxa2QtbUtTeHo3WHB6RExqWHFkbk81OEZFVEF6VEgyMlpzWDdhVW9GN3hYSFJ0N2t2ajBhMENvNFcyLUx2RzB0anUwTlNhTlBILWpwMDhPdVJrVlFmQmtLc1lQZTlKMnREVkc3eHItX0liMGwwVHF4YUg0MDhUcWZjSXM5eGctYzNVajRGNlNuTF9fSTlNbUFBcHhhY0VjU1IxejJXZ2VmOURyNGZCMXowd3dj?oc=5)
-
-2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Guardian](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeU1QQlh2Wm1ERXdvc09EVVltVVpCcm1ESVBHOXY5amhHdFY1N2t5TnhLYmtZV3VxSk1OUnlqeVAxa2QtbUtTeHo3WHB6RExqWHFkbk81OEZFVEF6VEgyMlpzWDdhVW9GN3hYSFJ0N2t2ajBhMENvNFcyLUx2RzB0anUwTlNhTlBILWpwMDhPdVJrVlFmQmtLc1lQZTlKMnREVkc3eHItX0liMGwwVHF4YUg0MDhUcWZjSXM5eGctYzNVajRGNlNuTF9fSTlNbUFBcHhhY0VjU1IxejJXZ2VmOURyNGZCMXowd3dj?oc=5)
-
----
-
 ### [Teresa Lambe de Oxford impulsa el primer ensayo de una vacuna contra el ébola Bundibugyo - Diario Feminista](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdF9OTWhENmpCR1Vzbzg1ci1JSldsWExVcHZPMGMzT3kwaDduQ1hPdDQxQUZJRXlHel8wUDNUaTdQQ2hvUGlOemxzNmtGVzQ0MDFEamV0VHpRLXBLbFBIVmhsQzVGbjFvVEpZZnNWOGdSdXc4TDlXRExUMy1qTXZjaUp1R2EyQ3psYVAwbmp2QmdBWGJUUTBDU1pQSktzbnNPOFFXQmdJSFlYRlRiREdsdERxRVBnWXJ5VUFQa3o4c2MyZGNzMEpPZ2NvSQ?oc=5)
 
 2026-08-02 <span class="news-indication-tag">MS</span>
 
 來源：[Diario Feminista](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdF9OTWhENmpCR1Vzbzg1ci1JSldsWExVcHZPMGMzT3kwaDduQ1hPdDQxQUZJRXlHel8wUDNUaTdQQ2hvUGlOemxzNmtGVzQ0MDFEamV0VHpRLXBLbFBIVmhsQzVGbjFvVEpZZnNWOGdSdXc4TDlXRExUMy1qTXZjaUp1R2EyQ3psYVAwbmp2QmdBWGJUUTBDU1pQSktzbnNPOFFXQmdJSFlYRlRiREdsdERxRVBnWXJ5VUFQa3o4c2MyZGNzMEpPZ2NvSQ?oc=5)
+
+---
+
+### [This once-a-week workout may help cut belly fat, study shows](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcEhRZVRPdGxFU0VoOWtmekxmYXlXTGo1NWwzVlp1VUpDcS1DM3p0bE80RElWeGhqVXlwQ3o5M01nSWNUdEhrWTJsRURwcjQ0bEhqUEFMU2M5ZlJLZ1VId3h4dVFZZWxRYUZIX1hvQQ?oc=5)
+
+2026-08-02 <span class="news-indication-tag">MS</span>
+
+來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcEhRZVRPdGxFU0VoOWtmekxmYXlXTGo1NWwzVlp1VUpDcS1DM3p0bE80RElWeGhqVXlwQ3o5M01nSWNUdEhrWTJsRURwcjQ0bEhqUEFMU2M5ZlJLZ1VId3h4dVFZZWxRYUZIX1hvQQ?oc=5)
 
 ---
 
@@ -118,27 +150,11 @@ permalink: /news/rotigotine/
 
 ---
 
-### [L'épidémie d'Ebola en République démocratique du Congo s'intensifie à un rythme "exceptionnel", avertit l'OMS](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1p6dHNqXzN4TXdLeTY1MkhmM2JjaEFOdmJMb1lyMG1ua01iLXhCdmtVTUw4V1R0azNLN1R6Qk9VelkydGJoUTdhc2dxbFlrN3drV3RVTHo2YUo5WVJ1dGF1YUVEMWQyVEdxRFdIZHJyVmo5VTV2SjlTS3FhMEVkc3dRZjNGc2ZrbjFMa2FTUlo2UFM3RTA1aUtOSWZiRE53bXJXQU9ZMUpZVG5rSHhaZXJJaHZpeDBCMEtpT1RlRGI1ckduNWdmamZxY2NRU3pPX2tJTmEyNDJKR1dOaXdNbFVoaDNwLWc2R0JXNXJ4Q1o2eXJ3Mk9F?oc=5)
-
-2026-08-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi9wFBVV95cUxON1p6dHNqXzN4TXdLeTY1MkhmM2JjaEFOdmJMb1lyMG1ua01iLXhCdmtVTUw4V1R0azNLN1R6Qk9VelkydGJoUTdhc2dxbFlrN3drV3RVTHo2YUo5WVJ1dGF1YUVEMWQyVEdxRFdIZHJyVmo5VTV2SjlTS3FhMEVkc3dRZjNGc2ZrbjFMa2FTUlo2UFM3RTA1aUtOSWZiRE53bXJXQU9ZMUpZVG5rSHhaZXJJaHZpeDBCMEtpT1RlRGI1ckduNWdmamZxY2NRU3pPX2tJTmEyNDJKR1dOaXdNbFVoaDNwLWc2R0JXNXJ4Q1o2eXJ3Mk9F?oc=5)
-
----
-
-### [Doctors Are Sharing The Symptoms People Brush Off For Too Long That Need Immediate Attention](https://news.google.com/rss/articles/CBMickFVX3lxTE0xTTZfUGlzbU1mcEdUSnlYTjZhV3Q0SllfNlhLNWJoOXJCWlNuek9sM1VSQmJaaDAtd3hGeW53a1R3V0tIQUxXTGkxTzNsYUxUNXgxWmlDamlvU3ZqVHBfZ0U0NmcwLWpTOW9LbmNrS01vQQ?oc=5)
+### [Current Ebola outbreak worst ever in DR Congo, WHO says](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aE9tOFZVSjlNR1hmUFhMakJEbDFQc0psVV9jRy12MFBzNFhQamxVYmZhZkNvTFlwUnI2Q0wwcEVNaTFtOEJuS0lQZ1h4djFVT3BvVTlvTVFNeTJO?oc=5)
 
 2026-08-01 <span class="news-indication-tag">MS</span>
 
-來源：[BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE0xTTZfUGlzbU1mcEdUSnlYTjZhV3Q0SllfNlhLNWJoOXJCWlNuek9sM1VSQmJaaDAtd3hGeW53a1R3V0tIQUxXTGkxTzNsYUxUNXgxWmlDamlvU3ZqVHBfZ0U0NmcwLWpTOW9LbmNrS01vQQ?oc=5)
-
----
-
-### [Darmbakterium gegen MS: Neue Studie zeigt Entzündungs-Bremse - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
-
-2026-08-01 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZk1zOUhHOTFacEFDM0FDT0N2cUYwcG9VZVhoWENtWEVtX2tfbi1nSjN1MHZKSjRjSFFpc2Q0UUU0azZrcWNHMF9LQzBuUXRhYnNKY1lCZXY5QTA3Yy1wV0FPSkVZMWRUT1FCclFoMkc4RHNXRDhtYlM0MmVqVzFUSXFUUFRybG5WQWlOU1lzTmU5VGpSSk9pdG5peDBNVEdwNTlTU3lULWlxbjRiU3c?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aE9tOFZVSjlNR1hmUFhMakJEbDFQc0psVV9jRy12MFBzNFhQamxVYmZhZkNvTFlwUnI2Q0wwcEVNaTFtOEJuS0lQZ1h4djFVT3BvVTlvTVFNeTJO?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/glucarpidase/
 ---
 
 <p class="key-answer" data-question="Glucarpidase 有什麼相關新聞？">
-<strong>Glucarpidase</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glucarpidase</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/glucarpidase/
 <p><a href="{{ '/drugs/glucarpidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Mapean por primera vez el desarrollo del páncreas infantil para anticipar el riesgo de diabetes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQlFvVEJlRWczTElPUHp4Nmg4eU4wVGtuaERYMXVqUXYtRUZ4RnZQczNqQWwtUEU1Sl9wZWltM0ZNYkQzdmZVUjdSdUZaRTY0Z1pDRk9nVnBTbjJMd1VmdnVjcDdyQ2YwaWpyZlNoRVdMLWF4Zi02Y0xXbEpKZEo0ajdsMzFMSzhLc0t6OHJ2dkE0Y0FaZW5Yel8zMzNXN0hwVGdqM1dNSlVlYjVDMWxZQXN3LVdRNHAwRTRHMWNoOHFRNmg2QXhvVHBsWW9GMTB6NWFqaUpIUUVTS2cyamNaak5uQjZmalE?oc=5)
+
+2026-08-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQlFvVEJlRWczTElPUHp4Nmg4eU4wVGtuaERYMXVqUXYtRUZ4RnZQczNqQWwtUEU1Sl9wZWltM0ZNYkQzdmZVUjdSdUZaRTY0Z1pDRk9nVnBTbjJMd1VmdnVjcDdyQ2YwaWpyZlNoRVdMLWF4Zi02Y0xXbEpKZEo0ajdsMzFMSzhLc0t6OHJ2dkE0Y0FaZW5Yel8zMzNXN0hwVGdqM1dNSlVlYjVDMWxZQXN3LVdRNHAwRTRHMWNoOHFRNmg2QXhvVHBsWW9GMTB6NWFqaUpIUUVTS2cyamNaak5uQjZmalE?oc=5)
+
+---
+
+### [GLP-1-Rezeptoragonisten könnten Frakturrisiko bei Erwachsenen mit Diabetes reduzieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
+
+2026-08-03 <span class="news-indication-tag">diabetes</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
+
+---
 
 ### [Disfunzione erettile: il campanello d’allarme che gli uomini non possono ignorare](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/glucarpidase/
 
 ---
 
-### [Precision Nutrition: 1,8 Mio. Euro für KI-gestützte Diabetes-Prävention - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHYwTGRTYVFKOWFrSE9OcnZVemRZWXlGc2QxTGhmSDdHczFDM002ZGxyZFlXRHlQYjQ0c0VoUkg2WnViaDZKenc2YnVYaE55bHdYeVpNeXdmam9hbFlCbmpLVHhJdm4wVG4wbEIzU0dhOE1OOXpQNTFsb2ZvWjhBcjN6TmxVWjluS1N4Rm5Qd3ZiRmpkdXduclpxMjFJV1ZXUlYzcEpZcDVJdGNiSHFZQk45WngyWnRuZ01uQW1n?oc=5)
+### [Ballaststoffe senken Diabetes-Risiko: Harvard-Analyse mit Hazard Ratios und HbA1c-Daten - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
 
 2026-08-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHYwTGRTYVFKOWFrSE9OcnZVemRZWXlGc2QxTGhmSDdHczFDM002ZGxyZFlXRHlQYjQ0c0VoUkg2WnViaDZKenc2YnVYaE55bHdYeVpNeXdmam9hbFlCbmpLVHhJdm4wVG4wbEIzU0dhOE1OOXpQNTFsb2ZvWjhBcjN6TmxVWjluS1N4Rm5Qd3ZiRmpkdXduclpxMjFJV1ZXUlYzcEpZcDVJdGNiSHFZQk45WngyWnRuZ01uQW1n?oc=5)
-
----
-
-### [Ballaststoffe: Harvard-Studie senkt Diabetes-Risiko um 34% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdJcnZkTmxoOFYtR2RJT3NvVW9kRDVodDFIS3BwbU5NOUtWSkpnVjZSQUktWXRNTFpLV2hJTV80MlAzaXFNd2RMam1IRm1zZnRyOXQ3d1dPWXo3bmFMMkNXemtJWERMN1dZNE9KVldBQkxXRDgxN1V4bDRsYkkyWkp4UHlyWUkyajBCQTZFYTNmX2xoMVRobmV4ZzQ4XzgwY20ya0RXdklteTVXcTBBcmVpTQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFdJcnZkTmxoOFYtR2RJT3NvVW9kRDVodDFIS3BwbU5NOUtWSkpnVjZSQUktWXRNTFpLV2hJTV80MlAzaXFNd2RMam1IRm1zZnRyOXQ3d1dPWXo3bmFMMkNXemtJWERMN1dZNE9KVldBQkxXRDgxN1V4bDRsYkkyWkp4UHlyWUkyajBCQTZFYTNmX2xoMVRobmV4ZzQ4XzgwY20ya0RXdklteTVXcTBBcmVpTQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
 
 ---
 

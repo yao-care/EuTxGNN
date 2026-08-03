@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="Prasugrel 有什麼相關新聞？">
-<strong>Prasugrel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Prasugrel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/prasugrel/
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Demenz-Risiko Bluthochdruck und Übergewicht: 7 Tipps zum Vorbeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+
+---
+
+### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
+
+2026-08-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
+
+來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
+
+---
+
+### [Hypertension après 50 ans : ce plat provençal est excellent pour nettoyer les artères - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">hypertension</span>
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
+
+---
 
 ### [La menopausia prematura es un factor de riesgo de hipertensión arterial](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2dydnppWldRNEJDaWhrNjN5d3MxVmZkY1c3XzFpNUNmNU5zeGQtQzdTZFh5eURXQ29XUkR5TFQ2TGtTOEZVMjRTWGVyQ3h1YXBxbXE0Uk5iancwejhMdm1UTTFvSTdWMW13YXNkVHVBWXotcXZ5bkRrSXByVkFYZnUtUVUyWE4ya01tRGo4M1dFM293RG5MQVpfZ1NvUkhKQjRZWDBhdnNVbnJMR2tOOWZ1OEJ3T2s?oc=5)
 
@@ -78,19 +102,11 @@ permalink: /news/prasugrel/
 
 ---
 
-### [Migräne bleibt bei Männern oft unerkannt – was ihnen hilft](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+### [Un cardiologue affirme que cet ustensile de cuisine courant pourrait endommager votre cœur - Yahoo Life France](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpqZkdYeFFpMEljYzJrcF9US2piTlA2Y18xS1MwWG5GZEZLOWFnTkltaERoTFFVVGZkcHRBcnNndVFITG50bDVoNWRYaEZxcnVNaUo0VWctM2xmYU5BSkpyR3pnWm0yMUNVMGotOWstTnNjZFFOY2Jqa1lfRU12UXNxVFl6UzZ4dndZbEJjQ0VzZmRTbmxoOURUR3EzVkxuZzJuZ2oxS0FIT2dzeG41cmI2X0JTQ3BwcDBWOF9PQVd0LTJLcExLS2pWSl9SelJaOXZz?oc=5)
 
-2026-08-01 <span class="news-indication-tag">Migräne</span>
+2026-08-01 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
-
----
-
-### [Calor y migraña: estos son los factores que agravan el dolor y así puedes reducir su impacto - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
-
-2026-08-01 <span class="news-indication-tag">migraña</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpqZkdYeFFpMEljYzJrcF9US2piTlA2Y18xS1MwWG5GZEZLOWFnTkltaERoTFFVVGZkcHRBcnNndVFITG50bDVoNWRYaEZxcnVNaUo0VWctM2xmYU5BSkpyR3pnWm0yMUNVMGotOWstTnNjZFFOY2Jqa1lfRU12UXNxVFl6UzZ4dndZbEJjQ0VzZmRTbmxoOURUR3EzVkxuZzJuZ2oxS0FIT2dzeG41cmI2X0JTQ3BwcDBWOF9PQVd0LTJLcExLS2pWSl9SelJaOXZz?oc=5)
 
 ---
 

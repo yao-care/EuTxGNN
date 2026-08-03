@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="Lasmiditan Succinate 有什麼相關新聞？">
-<strong>Lasmiditan Succinate</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lasmiditan Succinate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/lasmiditan-succinate/
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Los fármacos contra la obesidad deben combinarse con una atención nutricional, física y psicológica integrada - Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
+### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 2026-08-03 <span class="news-indication-tag">obesidad</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWWg0VDhMZ2tWRXhfYkNhZjVQdldoUTJsZmpRbERmQXpiVzltUENqQWc4dng5UlJicVZBaWpja2xnNXhKMFNud0F0c0x5bURxb0VudG9HdVhpdFcyc0FheVYyOU9lRDk1UnRUSEU1QWVfNVgtaEpvRk1iTjdtWkZBYjB6c0JZejJnVi1JS1N5R1o4OEFLNTdMY25CQTFKRV9MNzlQTEh5enA5T3BKeDZDblpJckpaRGtzanJodWtnR2YwdjYtNVc3cGM0aVMxcTRtMWV4eHBtUHkzU3FpZ2x0a2NiRFpBUQ?oc=5)
+來源：[economistjurist.es](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 ---
 
-### [Un estudio cuestiona el IMC como único indicador de riesgo en la obesidad](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
 
-2026-08-03 <span class="news-indication-tag">obesidad</span>
+2026-08-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMiugFBVV95cUxOSll6Uk1fcWNSTFBTV3pLRHBoQmN6cUVNRWdMV0stZDNiN21oMFBUWmg4MjQtM2ljRGpjVHNsREhkYk05ZGZEOG9iZjVFQ3l2OEtBOGpteHpWdDBBeWQ0N0JYelcxWkRuVkx4TDhkbTFOYTBqSjZ6b05LVzFvRTNocUxZOWdWOGZMVVlqTUZvU2pkMmRHSzE3ZmduVlNRMkNuendDbXdGT1dDazByU0hSTUxjNV9relNTWFE?oc=5)
+來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ permalink: /news/lasmiditan-succinate/
 
 2026-08-03 <span class="news-indication-tag">obesity</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
 
 ---
 
@@ -86,19 +86,11 @@ permalink: /news/lasmiditan-succinate/
 
 ---
 
-### [Migräne bleibt bei Männern oft unerkannt – was ihnen hilft](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
+### [Obesità, orforglipron mantiene efficacia e sicurezza anche dopo i 65 anni](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
 
-2026-08-01 <span class="news-indication-tag">Migräne</span>
+2026-08-02 <span class="news-indication-tag">obesità</span>
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1l3MDNWVkZoak1oQWtOODhrdmliQzVYMWhXVzE2eGo2MU5OamlLQ1lJSnpwWjY2SWVzLXN3cDZEUks1TDdNTkpnT2dlNFpUNnZoMDlHNEF4SjlDWHd6WUlJUWtNT3pyT0dGajlmVXJaWkVjVG5maGJ5d1FpQ1Q5dFhIcG8wRWNJOGViMzBkU2EzZWtoTnBsWVFkS282QUotaklV?oc=5)
-
----
-
-### [Calor y migraña: estos son los factores que agravan el dolor y así puedes reducir su impacto - La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
-
-2026-08-01 <span class="news-indication-tag">migraña</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjZyMlJiQlEzSXBRQ1lkX0x4T19mRkxUSGdKRXRoS1lfQVBmLXlzelBEZnZVRjF0TGpKYkpPZnhnYzVvaVpidHY2OVpFNjNXOVZ2WXJBcDRvejBtN3dyUEtOU1VHejdhcm1QWUVpVHRXNnB3NFJRV0E2YTNxWlByV2pUMjRFaEhlWmN6S2cybEc2VUx4S3pxTUdsdXc5Nm85VGhmS1RNTEZORHZ6bEpQamZHY0ViZUp1UDZNdmN4Y2E4YTBweEJucTBTS0Z2ODkxX1ZoNmdOekdSc0410gHwAUFVX3lxTE9yR3lxV29HZG1lYzdMMWl2TE5sWHhiUkV6amJ2RHFpV1VuZVAtTDY3bXFDNHdfd3lTSDk2bWpnZi10ZjRNWFk1cG15VHpRd1FQUm84YTdZVE5BSGdob3BFcEtxQWY1S1N4d2hERTBmajRpMmlrUWVtblpjNnBKaTNaSkJrTUVWb1Q3OUJuN3p3SlpkeHBCb0Y0YnJIY3dnZmhreUQ5UTdkVmtqVjNUNHZtcU9kYzZiYmdUMjc1NGJ2XzVNQjRjMHNmT0ZGM2Q1M2NqQm5pS1VzT0ZNTWNUY0pVNDk4QkxtZTVJakJCVHV2ZA?oc=5)
+來源：[pharmastar.it](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
 
 ---
 

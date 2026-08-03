@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。4 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>4 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,13 +83,37 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [Demenz-Risiko Bluthochdruck und Übergewicht: 7 Tipps zum Vorbeugen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+
+2026-08-03
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+
+---
+
+### [Hypertension après 50 ans : ce plat provençal est excellent pour nettoyer les artères - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
+
+2026-08-03
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
+
+---
 
 ### [La menopausia prematura es un factor de riesgo de hipertensión arterial](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2dydnppWldRNEJDaWhrNjN5d3MxVmZkY1c3XzFpNUNmNU5zeGQtQzdTZFh5eURXQ29XUkR5TFQ2TGtTOEZVMjRTWGVyQ3h1YXBxbXE0Uk5iancwejhMdm1UTTFvSTdWMW13YXNkVHVBWXotcXZ5bkRrSXByVkFYZnUtUVUyWE4ya01tRGo4M1dFM293RG5MQVpfZ1NvUkhKQjRZWDBhdnNVbnJMR2tOOWZ1OEJ3T2s?oc=5)
 
 2026-08-03
 
 來源：[Infosalus](https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2dydnppWldRNEJDaWhrNjN5d3MxVmZkY1c3XzFpNUNmNU5zeGQtQzdTZFh5eURXQ29XUkR5TFQ2TGtTOEZVMjRTWGVyQ3h1YXBxbXE0Uk5iancwejhMdm1UTTFvSTdWMW13YXNkVHVBWXotcXZ5bkRrSXByVkFYZnUtUVUyWE4ya01tRGo4M1dFM293RG5MQVpfZ1NvUkhKQjRZWDBhdnNVbnJMR2tOOWZ1OEJ3T2s?oc=5)
+
+---
+
+### [Un cardiologue affirme que cet ustensile de cuisine courant pourrait endommager votre cœur - Yahoo Life France](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpqZkdYeFFpMEljYzJrcF9US2piTlA2Y18xS1MwWG5GZEZLOWFnTkltaERoTFFVVGZkcHRBcnNndVFITG50bDVoNWRYaEZxcnVNaUo0VWctM2xmYU5BSkpyR3pnWm0yMUNVMGotOWstTnNjZFFOY2Jqa1lfRU12UXNxVFl6UzZ4dndZbEJjQ0VzZmRTbmxoOURUR3EzVkxuZzJuZ2oxS0FIT2dzeG41cmI2X0JTQ3BwcDBWOF9PQVd0LTJLcExLS2pWSl9SelJaOXZz?oc=5)
+
+2026-08-01
+
+來源：[Yahoo Life France](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXpqZkdYeFFpMEljYzJrcF9US2piTlA2Y18xS1MwWG5GZEZLOWFnTkltaERoTFFVVGZkcHRBcnNndVFITG50bDVoNWRYaEZxcnVNaUo0VWctM2xmYU5BSkpyR3pnWm0yMUNVMGotOWstTnNjZFFOY2Jqa1lfRU12UXNxVFl6UzZ4dndZbEJjQ0VzZmRTbmxoOURUR3EzVkxuZzJuZ2oxS0FIT2dzeG41cmI2X0JTQ3BwcDBWOF9PQVd0LTJLcExLS2pWSl9SelJaOXZz?oc=5)
 
 ---
 

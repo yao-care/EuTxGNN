@@ -14,7 +14,7 @@ permalink: /news/oritavancin-diphosphate/
 ---
 
 <p class="key-answer" data-question="Oritavancin (Diphosphate) 有什麼相關新聞？">
-<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Oritavancin (Diphosphate)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/oritavancin-diphosphate/
 <p><a href="{{ '/drugs/oritavancin-diphosphate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Asthma bei Kindern: Studie identifiziert drei Entzündungsmechanismen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+
+2026-08-03 <span class="news-indication-tag">asthma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+
+---
 
 ### [Fettleber-Risiko: Blutproteine zeigen Gefahr 16 Jahre früher - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxORTFBNkl1a1dsdGswc3JrcFMxOFMwLVVobUtvd2oyNkNKdW9mVUdKSDhkWk5BU19WenVwN1dNZUZWOUg5M3FSSEt2VzByU1RTYVJRV2RHWlg1Wmk4RFFGbmp3c2F6R2hfaEpoa19RV1RRai1GZGZ2V1dESEJBRm1JS1NDa3B2d184eVJiVGlzVUcxSW9NdE1IWi1XRXBhWVYwcVlPTVpnbngyenVKOXc?oc=5)
 

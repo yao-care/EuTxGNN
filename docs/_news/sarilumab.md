@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [Asthma bei Kindern: Studie identifiziert drei Entzündungsmechanismen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+
+2026-08-03 <span class="news-indication-tag">asthma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+
+---
 
 ### [Les plans de travail en quartz, à l’origine d’une crise de santé publique aux États-Unis et dans le monde - Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
 
