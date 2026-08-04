@@ -58,7 +58,7 @@ permalink: /news/ceftolozane/
 
 2026-08-03 <span class="news-indication-tag">asma</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/ceftolozane/
 
 ---
 
-### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+### [Bauernhofeffekt: Neun Bakterien schützen Kinder vor Asthma - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
-2026-08-02 <span class="news-indication-tag">asthma</span>
+2026-08-03 <span class="news-indication-tag">asthma</span>
 
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
 ---
 

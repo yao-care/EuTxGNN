@@ -54,11 +54,35 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（8 則）
 
+### [Ballaststoffe: Harvard-Studie belegt 34% Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
+
+---
+
+### [Personne ne comprenait pourquoi certains n'ont jamais de migraine : une étude vient de livrer un verdict qui surprend les neurologues](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
+
+2026-08-04 <span class="news-indication-tag">migraine</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
+
+---
+
+### [La diabetes también amenaza a los implantes dentales: un estudio revela por qué el control glucémico es decisivo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+
+---
+
 ### [Moins de protéines pour mieux vieillir, selon une nouvelle étude](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 ---
 
@@ -78,14 +102,6 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
-
----
-
 ### [Stop al diabete prima dell'insulina: successo a Palermo un anno dopo, la terapia innovativa congela la malattia](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThUaGg1S2VlNjJ6eWZIcy1rT0dBblZFTkhrTVJtTk0xWWJXUjBCY3hQbnkwZE1XZjJkYzF3MFFVRVUySGo5NnFER3FxeVEyYjgtdmFhNFYxZ1VYTFlSY2Zka01XeFlwbXJDclluYko4WmhlUURwUGZlVndSN2pOTWxfZ0xRQQ?oc=5)
 
 2026-08-03 <span class="news-indication-tag">diabete</span>
@@ -99,22 +115,6 @@ permalink: /news/abaloparatide/
 2026-08-03 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
----
-
-### [Ballaststoffe senken Diabetes-Risiko: Harvard-Analyse mit Hazard Ratios und HbA1c-Daten - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
----
-
-### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
-
-2026-08-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">emicrania</span>
-
-來源：[leggo.it](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
 
 ---
 

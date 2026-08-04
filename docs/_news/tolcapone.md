@@ -54,6 +54,14 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（4 則）
 
+### [Dementia patients to block quarter of NHS beds - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
+
+2026-08-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
+
+---
+
 ### [Stress, old age, or dementia? Here’s how to tell - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
 2026-08-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
@@ -75,14 +83,6 @@ permalink: /news/tolcapone/
 2026-08-02 <span class="news-indication-tag">dementia</span>
 
 來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFE0aTZtajNVbWJET21RWTFHWGR5TlEtUHFCNE96U2d2aVRWRklLaF9tMzd5eVZ4OVNSRHRIcU1yd09URHlUMy12bXpObEhQM0NsenhISm1lMlFmVU5BSGZ0N1dKTEFyX202YUFTcEtqbkJGUmNWVjBTa0cxT0lIdEd1UTEybklnZkpWMTcxemJYeC1TeUlCMFhhN0UwdWU2alRzOHBMZUxGZw?oc=5)
-
----
-
-### [Vitamin D: Hohe Spiegel reduzieren Tau-Protein-Ablagerungen im Gehirn - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
-
-2026-08-02 <span class="news-indication-tag">Alzheimer-Krankheit</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZENvWHpfVlRxeFpiWlV0Y2lidndqcVFfN05ZdndjSk9Cak1hNHl2ZXF0OGRicmFpOHd1ejZIdVZJa3NHT3NycUNER0tzU3lVVjI4RS1MNlJreUpNbXh0TGI1Nng3X2N1dk9uaDlaVmEzZFY0OGJSVWE4OVNTTUlfQUJqMkNCMFZlN0ZtaHRqUmZiYnQ4bmx3Y2dvX1A4WTJZVDROQ2g3aDNnX0VRUG5hekluOUZsUDNG?oc=5)
 
 ---
 

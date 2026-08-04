@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [Personne ne comprenait pourquoi certains n'ont jamais de migraine : une étude vient de livrer un verdict qui surprend les neurologues](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
+
+2026-08-04 <span class="news-indication-tag">migraine</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
+
+---
 
 ### [Fettleber: Drastisch erhöhtes Risiko für tödliche Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 2026-08-03 <span class="news-indication-tag">asma</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
-
----
-
-### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [«Sembrava un'emicrania, invece era un doppio ictus: ecco il segnale del corpo che non avevo ascoltato»](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
+### [Bauernhofeffekt: Neun Bakterien schützen Kinder vor Asthma - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
-2026-08-02 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">emicrania</span>
+2026-08-03 <span class="news-indication-tag">asthma</span>
 
-來源：[leggo.it](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3otS0hzTVU4TUdHb2pyTjVuRktJWlpaM19YSVBEZDNtdTB4aTZVbUpRcnFkbVJNMzVvelppLWZaeUhwajVWbU9ySEZPcmd4T3lna1dxMG13LWxhaWF2NU1IYnAya01ZbFA1ZHBBMUgtdjl4VGFYTWJZV0xoeUcwa2poQTJ0VTFrSzltN3dhMzNnT2Q0WXJMQkZpTFZ3cFZiYk1lZVdn0gGQAUFVX3lxTE5aUTlOMV9QMDRYMUo3NHpCdmhDemRwVnc2a3VWdDdJX2lCWWp3UElrWFNHVWlqYjB1WG41Q3h2YnZ2REtPUDFkQmhEQzR2UGE0a1E4al9HazhWNTFSM0R0a09LWUlBRG9yeW5TeVhmcXJrYTRHVnh5bnViTVNMcFBncTdqQVdHVlJKd0NycER4WA?oc=5)
-
----
-
-### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
-
-2026-08-02 <span class="news-indication-tag">asthma</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
 ---
 

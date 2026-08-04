@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [Fettleber: Drastisch erhöhtes Risiko für tödliche Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 2026-08-03 <span class="news-indication-tag">asma</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 ---
 
@@ -70,27 +70,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Les plans de travail en quartz, à l’origine d’une crise de santé publique aux États-Unis et dans le monde - Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
+### [Bauernhofeffekt: Neun Bakterien schützen Kinder vor Asthma - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
-2026-08-03 <span class="news-indication-tag">EPOC</span>
+2026-08-03 <span class="news-indication-tag">asthma</span>
 
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
-
----
-
-### [COPD: Neue Leitlinien zeigen, wie Ernährung Atemnot lindert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
-
-2026-08-02 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
-
----
-
-### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
-
-2026-08-02 <span class="news-indication-tag">asthma</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [Ballaststoffe: Harvard-Studie belegt 34% Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
+
+---
+
+### [La diabetes también amenaza a los implantes dentales: un estudio revela por qué el control glucémico es decisivo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+
+---
 
 ### [Fettleber: Drastisch erhöhtes Risiko für tödliche Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 2026-08-03 <span class="news-indication-tag">asma</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 ---
 
@@ -66,7 +82,7 @@ permalink: /news/somapacitan/
 
 2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 ---
 
@@ -94,6 +110,14 @@ permalink: /news/somapacitan/
 
 ---
 
+### [Bauernhofeffekt: Neun Bakterien schützen Kinder vor Asthma - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
+
+2026-08-03 <span class="news-indication-tag">asthma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
+
+---
+
 ### [Stop al diabete prima dell'insulina: successo a Palermo un anno dopo, la terapia innovativa congela la malattia](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThUaGg1S2VlNjJ6eWZIcy1rT0dBblZFTkhrTVJtTk0xWWJXUjBCY3hQbnkwZE1XZjJkYzF3MFFVRVUySGo5NnFER3FxeVEyYjgtdmFhNFYxZ1VYTFlSY2Zka01XeFlwbXJDclluYko4WmhlUURwUGZlVndSN2pOTWxfZ0xRQQ?oc=5)
 
 2026-08-03 <span class="news-indication-tag">diabete</span>
@@ -107,22 +131,6 @@ permalink: /news/somapacitan/
 2026-08-03 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
----
-
-### [Ballaststoffe senken Diabetes-Risiko: Harvard-Analyse mit Hazard Ratios und HbA1c-Daten - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
----
-
-### [Allergieforschung: Bauernhofeffekt durch Bakterien in der Stallluft erklärt](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
-
-2026-08-02 <span class="news-indication-tag">asthma</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGlQX2VHWXp6ME95aTJraUVkdmU4QXYyeGsxZ2d0QnNrQi1JU1VYekxFdWQ2U0JkRDRNYklhY3JZT0RBVE5rNFJ2V0lUR0pwaFdpNjdhX0J3NzZqMzlFSVNMM0xYaGVQSzdHbDRqRWxRNmNEZWpieVNVWEFhYloyNWRuVnU5b1VDb0djWXduZkI?oc=5)
 
 ---
 

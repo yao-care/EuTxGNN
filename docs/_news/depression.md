@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。4 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>4 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias - Andalucía Información](https://news.google.com/rss/articles/CBMijgJBVV95cUxPQUttUjdZZWNQSS1sbHE2aVJxYVpWSzRsUVd6aW53aDl0VW16VDV3VVlPUDVhMFZHSjdBbDhDVzV4UllFTVZCbm8wVk5pUHhVdUotTlFiUHIzQUFfVjViSnJPbUVYRzBqcmM4a0hHT0RrRWR3OWwzYkpSNVBqbjBSRXk5ZjVtdVdBZjhaM05pZHl5U3VzbVR0UmRscXEzTjBSaTN5cWpoMlJLcXdfSGRkZ2lhOV9GSUhZWF9kQUR4SWhvNFB5T1dReFBxWGNJVWwzMk9YMk12dGpzSXFkaWw4b0V3MDRxUWMxdWhvY0d6cEdkTlhlcUJ3QkcteWsyWm1HaGlVQllSaW1ERVZQOGfSAZMCQVVfeXFMTXhHaHN6S1QwWXFKYmJwSDhBd2dNMURPdnk2cFFNV3daU2hHQnNnS2ZEQkl2N2R3enh6cWVadWNRR19OMU50Mk1IZ3poTnR4SEgxVGhlNHlzRUpyTVdHY1hVNWRWNUpPQlpmOVY1NkJlZXZmNXY2MHNHRUhHdDVoTlVrZGNPakxoVC1QMzlNUldsdjV2UXZhTUJWblFjbUUxSnFxT1BxZ1NuNDZSdnF3QWw5MUlXanRvR24tdmhtQkZDTDR2eTNaSWdFR2p2RXdkLTdKNnozX3JqYVRucUJ1dzJHSm1Pbk5URHV2ajl5ZndoTmZWc2dwdUVVZk5xVDJYby1kdWJOdnE3b182QTlaQjhxTFk?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-08-03
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWxIQkk1NktCRkctTG1wVGM4WkJnTklDREhEOHU2SGtRbElwTTloNlUxcTVxOVduRUFiLUFaOUNudE0temFaTHo5dGx1VFlxRlFWaFpWb19lUHV3bktsM0g1YmpvT1NrMkFCTE83ODNvem1QM29VVThvaGdORjZNa3VmbVVDOWJuMFpfdkNLMlQydExrbk5PeVFpcFl0cWwwS0ZsWi1FRTl4REpld24zVEZ1aUozMy1WMkhGVnRaczQ4RG1YZjhBV1BTYW8zeTMySnExUzQ4UkNLSWhVUkxsVA?oc=5)
-
----
-
-### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
-
-2026-08-03
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
 
 ---
 

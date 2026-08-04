@@ -14,7 +14,7 @@ permalink: /news/imlifidase/
 ---
 
 <p class="key-answer" data-question="Imlifidase 有什麼相關新聞？">
-<strong>Imlifidase</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Imlifidase</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/imlifidase/
 <p><a href="{{ '/drugs/imlifidase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Ballaststoffe: Harvard-Studie belegt 34% Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
+
+---
+
+### [La diabetes también amenaza a los implantes dentales: un estudio revela por qué el control glucémico es decisivo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+
+---
 
 ### [Moins de protéines pour mieux vieillir, selon une nouvelle étude](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/imlifidase/
 2026-08-03 <span class="news-indication-tag">diabete</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
----
-
-### [Ballaststoffe senken Diabetes-Risiko: Harvard-Analyse mit Hazard Ratios und HbA1c-Daten - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
 
 ---
 

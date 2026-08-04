@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### [Studie verortet Fibromyalgie im Nervensystem](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOU4wSVlTSE5UZ1ZHM2lwZFB2c0gwbkU4LS1ELWRMY3UwRW1XaTNDSlA5X2xjanRKMzNETXdDT1ludm5ERXlNaERoRWNLc2lsVWRqelkzVGVJUG1IcHNyaUhPNmNDcGFKR1RLZjJOUkVVMXF3Y0ZocTJNWVRKWnFCV0FJYXdWTVBmY0FOQ1piLTdYNEJ0RDY2YVRQbU10NGhzelp1c0xWOEh1RDRWVDJN?oc=5)
+### [HBV in Deutschland: Fallzahlen sinken, Impflücken bleiben - Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
 
-2026-08-03 <span class="news-indication-tag">MS</span>
+2026-08-04 <span class="news-indication-tag">hepatitis</span>
 
-來源：[BILD](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOU4wSVlTSE5UZ1ZHM2lwZFB2c0gwbkU4LS1ELWRMY3UwRW1XaTNDSlA5X2xjanRKMzNETXdDT1ludm5ERXlNaERoRWNLc2lsVWRqelkzVGVJUG1IcHNyaUhPNmNDcGFKR1RLZjJOUkVVMXF3Y0ZocTJNWVRKWnFCV0FJYXdWTVBmY0FOQ1piLTdYNEJ0RDY2YVRQbU10NGhzelp1c0xWOEh1RDRWVDJN?oc=5)
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
 
 ---
 
-### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+### [Israelische Studie sorgt für Aufsehen: Wie Viagra gegen Krebs helfen könnte - Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
 
-2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span>
+2026-08-04 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
+
+---
+
+### [La OMS alerta del mal uso de los agonistas GLP-1 para adelgazar que se venden por internet - La Voz de Galicia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmJaYkdGUGFTemliS2RNVUJrbWFlalJpMDB4WW95OXBVbzlTYXFPM1ZrWEFGWkJEcDVWdzFHbGJQS1l4RXNtbTF6UWwtcDY3SlJBNWNBSFUwZWpuOThqVUFGS0FCX0ZrV0RfZ1MwMEhnMDZ4RmVTb2Nkb09MREZVOHdtSWU5TThHbldmYi1qOEdnNlB3WEp0VkVPUnhwSC1mZHQ3ZnJleHJnUTBXOV9UMDNNN0VTWjRBZlliT3JVektQeGx0YVJ5SG1sTVdLQ2c2SVZSMlhwUGR2QdIB9gFBVV95cUxQbFB3akRGUFpqdmpaT3dDRHp2UElwSnNGNUpLLXpBeS0wdVgwS2FpV1Nrb0Q0NUNGZFVyRmQyb3pHWE4yRkpiYzg0QXFUNHBUQmlkc3kwOFIxXzJoMEs2NkF4YjAyX0JxS00yMktSQ0o4REgtWkhjd3dwNXNpOHlFaE51Yl9HTkpONjJtVzI1NTRSNE9UMlU4MkdDQ3hNS2tpM3M4RFNpRzJxVEs0V0kyUGEzRnZEcndvNVkzazU0N0VKQWFMcmpJVm9LMkVXeGRfU3laeFFFOURUMVg2TjhzUmlhalRFN2VBMEI0a2Y5c0RhZTd0TGc?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmJaYkdGUGFTemliS2RNVUJrbWFlalJpMDB4WW95OXBVbzlTYXFPM1ZrWEFGWkJEcDVWdzFHbGJQS1l4RXNtbTF6UWwtcDY3SlJBNWNBSFUwZWpuOThqVUFGS0FCX0ZrV0RfZ1MwMEhnMDZ4RmVTb2Nkb09MREZVOHdtSWU5TThHbldmYi1qOEdnNlB3WEp0VkVPUnhwSC1mZHQ3ZnJleHJnUTBXOV9UMDNNN0VTWjRBZlliT3JVektQeGx0YVJ5SG1sTVdLQ2c2SVZSMlhwUGR2QdIB9gFBVV95cUxQbFB3akRGUFpqdmpaT3dDRHp2UElwSnNGNUpLLXpBeS0wdVgwS2FpV1Nrb0Q0NUNGZFVyRmQyb3pHWE4yRkpiYzg0QXFUNHBUQmlkc3kwOFIxXzJoMEs2NkF4YjAyX0JxS00yMktSQ0o4REgtWkhjd3dwNXNpOHlFaE51Yl9HTkpONjJtVzI1NTRSNE9UMlU4MkdDQ3hNS2tpM3M4RFNpRzJxVEs0V0kyUGEzRnZEcndvNVkzazU0N0VKQWFMcmpJVm9LMkVXeGRfU3laeFFFOURUMVg2TjhzUmlhalRFN2VBMEI0a2Y5c0RhZTd0TGc?oc=5)
+
+---
+
+### [How poor countries are dealing with America’s AIDS cuts - The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
+
+2026-08-03 <span class="news-indication-tag">hepatitis</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
+
+---
+
+### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+
+2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
+
+來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
 
 ---
 
@@ -75,22 +99,6 @@ permalink: /news/ledipasvir/
 2026-08-03 <span class="news-indication-tag">MS</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW1OaUd3ZWNOMXVPMDQ2Qk5rdmFVbkZGZlZKWWlUSFYwbXVTajJfUTBTRUZreVpuZlNIWHRoUzB0Uy1JOVpucy13dmNwdl9RY2lzd1E5WGpZalNuc05FT1RQOF9mRU83X3V1U2oyN1N1SHBZd2Y3QWpPWGw1VlkyWEJnTUJjQVJCakIzZ0tKejJxLWFWRExZWWhlNUN4bm5wSkNIQWhsQ3RIOXc1dzlpYVlORXU0LW9zMWdJcklJV3JXRFpUNUZwQ3FldmlMcGlwNlJuWUJHZEI?oc=5)
-
----
-
-### [Uso inapropiado de agonistas GLP‑1 en personas sin obesidad: alerta de comités asesores de la OMS - La Web de la Salud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBybmRpc1FoY0dZeGtKNjgyS1hDTUZhbE53Tkcyc3c3V3hCUlk2blVRMHZ5Rm5YRnNzT1BLQ2xQMGpodmljRm9nRko0dXMyYzBSdjZBQ3AwZDVXVEtqNFliM3ljSklsaGpjOUE?oc=5)
-
-2026-08-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBybmRpc1FoY0dZeGtKNjgyS1hDTUZhbE53Tkcyc3c3V3hCUlk2blVRMHZ5Rm5YRnNzT1BLQ2xQMGpodmljRm9nRko0dXMyYzBSdjZBQ3AwZDVXVEtqNFliM3ljSklsaGpjOUE?oc=5)
-
----
-
-### [When researchers followed patients recovering from spinal surgery, the ones whose rooms happened to face the sun used about a fifth less pain medication than those in dim rooms — same wound, same operation, and the main difference was which way the - Silicon Canals](https://news.google.com/rss/articles/CBMivgJBVV95cUxOV2dyUUxQMThEWXhJV2FRMnJBTXFWSlJVTWRWb05PaFVaeDZET2hUY3FMdjRtajhjQWRZWl90bFJ4eFNuZmotMUoyc3pJOGY1R1VBM01va0E5cEhXdVloN0R4Q2FhcVdWNEVJV0l5UHBUUXk0bjJZZ202SG0zOUVGYWVReGVtT2o0RlVDTVVHM0dmcVh0NHZrTHdLNFk2c3VPOWpzUFZVMHdjZ3Z4MUJFYUpiY1k3ZXloV1JOaDdCRzdRSnlZVlhaNnEzQ2h4NkF2UnM0RlM2QUdzMVM4ZUMwbk5pU3VGb28yQlRRNUlMOGxsZnFCRUFfVE1sZ1ZZNjhDUVRUUGNKT1Bic19WWnl3RV9Objc3TkJ4SVpodFdHcFhfOTBobUl3WVUxZ3pqUlNxeVhpdVAzRkhxYnVsVFE?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span>
-
-來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivgJBVV95cUxOV2dyUUxQMThEWXhJV2FRMnJBTXFWSlJVTWRWb05PaFVaeDZET2hUY3FMdjRtajhjQWRZWl90bFJ4eFNuZmotMUoyc3pJOGY1R1VBM01va0E5cEhXdVloN0R4Q2FhcVdWNEVJV0l5UHBUUXk0bjJZZ202SG0zOUVGYWVReGVtT2o0RlVDTVVHM0dmcVh0NHZrTHdLNFk2c3VPOWpzUFZVMHdjZ3Z4MUJFYUpiY1k3ZXloV1JOaDdCRzdRSnlZVlhaNnEzQ2h4NkF2UnM0RlM2QUdzMVM4ZUMwbk5pU3VGb28yQlRRNUlMOGxsZnFCRUFfVE1sZ1ZZNjhDUVRUUGNKT1Bic19WWnl3RV9Objc3TkJ4SVpodFdHcFhfOTBobUl3WVUxZ3pqUlNxeVhpdVAzRkhxYnVsVFE?oc=5)
 
 ---
 
@@ -118,35 +126,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [HIV-Mittelkürzungen gefährden Jahrzehnte an Fortschritt, warnen Experten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
-
----
-
 ### [Los recortes en fondos para el VIH ponen en riesgo décadas de avances, alertan expertos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
 2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
-
----
-
-### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
-
-2026-08-02 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
-
----
-
-### [La gallega Sabela Lens lidera el cambio de rumbo de la hepatitis D en España: «Ha estado completamente olvidada» - La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
-
-2026-08-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
 ---
 

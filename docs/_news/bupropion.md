@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación - Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 2026-08-03 <span class="news-indication-tag">obesidad</span>
 
 來源：[Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
-
----
-
-### [Uso inapropiado de agonistas GLP‑1 en personas sin obesidad: alerta de comités asesores de la OMS - La Web de la Salud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBybmRpc1FoY0dZeGtKNjgyS1hDTUZhbE53Tkcyc3c3V3hCUlk2blVRMHZ5Rm5YRnNzT1BLQ2xQMGpodmljRm9nRko0dXMyYzBSdjZBQ3AwZDVXVEtqNFliM3ljSklsaGpjOUE?oc=5)
-
-2026-08-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBybmRpc1FoY0dZeGtKNjgyS1hDTUZhbE53Tkcyc3c3V3hCUlk2blVRMHZ5Rm5YRnNzT1BLQ2xQMGpodmljRm9nRko0dXMyYzBSdjZBQ3AwZDVXVEtqNFliM3ljSklsaGpjOUE?oc=5)
 
 ---
 
@@ -78,27 +70,11 @@ permalink: /news/bupropion/
 
 ---
 
-### [Ballaststoffe senken Diabetes-Risiko: Harvard-Analyse mit Hazard Ratios und HbA1c-Daten - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEMxSUZqRUVOY2htX05rdTRiZlVIOHNObjJfZ18ybGdQWHdXZDZwczhKWjBNRE9kdWp4bWhjSTBNaldRWmt2UkVoOGVzbkRXdkZPd1laV21kc3d3c2MtMklkT19Vb1F5dUxuT0xxYmFlQWpxdlhxdkxwME5BN3NhVk43OHJtV0lJVENpSnFhRmlEYUZLWkY2NGRqVTVfZmxOTlRhLWg2TWtiRUxfeWp1dXh1UERhcTBwdGc?oc=5)
-
----
-
 ### [Obesità, orforglipron mantiene efficacia e sicurezza anche dopo i 65 anni](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
 
 2026-08-02 <span class="news-indication-tag">obesità</span>
 
 來源：[pharmastar.it](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
-
----
-
-### [La obesidad infantil va más allá de la dieta: las pantallas, el sueño y los hábitos que inclinan la balanza](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSlpVeTBOXzRxUWRvM3VyM3B4SE9Lb1pON1Y1SXlQaEkzaEMwQmFlZ3NTUmoyZnFnVzBDUERnRi04YUw3V2ZmLVBDWW50aWt6aDc3LXZQRWRKZ2ttOWhmai1vSnNNeEVramhCekZGOC1mdU5jVDFBQTJYeFpTRVJyX2pGdklFZlMzWHZVWjlTUHFacUtaU3ZpOWFyLTBPNWdycXdLZmJVY1R6bEgtZDFhWWR1LTFrSkJsWHhseGVHd25kaS1kYTFiV2tzc1AtNFlMTE1GN3RlRHFickozZ0hj0gHkAUFVX3lxTE82NzRFaVU2d2JfbU9mT3JtWDVXelV2ZzdnS3Zrd3kzbGx6NnI0Nkl6d3dPSGxYM1NmV1NnSnNUT0VRc3JlQnFCTTN6aVJnLUxWVFc3aTl2aDAzR2tkYjR3OUN6LUFpMklvdHJLQmhjRFpDdlBwSFlSa2ZDWGVyUlZLTEQ2SzhtS0V6a3EtWGJRQVF1TkVWb2ZFV3VnQ0xGYWVfUnMtMTlGZkR1SHFxbDB6eFJXcXpTU3dTcG53b1RFc3VkYndvdE5UdW5nSWxJVmZjT3p0cWNIcGVsWWxYX2M0ZERwRA?oc=5)
-
-2026-08-02 <span class="news-indication-tag">obesidad</span>
-
-來源：[Vozpopuli](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSlpVeTBOXzRxUWRvM3VyM3B4SE9Lb1pON1Y1SXlQaEkzaEMwQmFlZ3NTUmoyZnFnVzBDUERnRi04YUw3V2ZmLVBDWW50aWt6aDc3LXZQRWRKZ2ttOWhmai1vSnNNeEVramhCekZGOC1mdU5jVDFBQTJYeFpTRVJyX2pGdklFZlMzWHZVWjlTUHFacUtaU3ZpOWFyLTBPNWdycXdLZmJVY1R6bEgtZDFhWWR1LTFrSkJsWHhseGVHd25kaS1kYTFiV2tzc1AtNFlMTE1GN3RlRHFickozZ0hj0gHkAUFVX3lxTE82NzRFaVU2d2JfbU9mT3JtWDVXelV2ZzdnS3Zrd3kzbGx6NnI0Nkl6d3dPSGxYM1NmV1NnSnNUT0VRc3JlQnFCTTN6aVJnLUxWVFc3aTl2aDAzR2tkYjR3OUN6LUFpMklvdHJLQmhjRFpDdlBwSFlSa2ZDWGVyUlZLTEQ2SzhtS0V6a3EtWGJRQVF1TkVWb2ZFV3VnQ0xGYWVfUnMtMTlGZkR1SHFxbDB6eFJXcXpTU3dTcG53b1RFc3VkYndvdE5UdW5nSWxJVmZjT3p0cWNIcGVsWWxYX2M0ZERwRA?oc=5)
 
 ---
 

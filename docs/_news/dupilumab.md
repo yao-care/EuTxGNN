@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="Dupilumab 有什麼相關新聞？">
-<strong>Dupilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dupilumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/dupilumab/
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Les plans de travail en quartz, à l’origine d’une crise de santé publique aux États-Unis et dans le monde - Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">EPOC</span>
-
-來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRHMEhwZDZaVGVCSXFENkRoaVRucjJJOXVjZWxGaVd6UDNkX25VdDlIMzBaRXlVNUw4U2lLbngwZV93N3huV20zMW93SUhhNnRIYktYZU5EdUFpeWY1aW5NaUh6TWt3azVmbVFTTlFVZkM2VFE1bklmcnVDZ25vWG1oamtCS2dBTlRLZ2laMlZTSEcxN2dRcTcwa1lFX0NISkRyX3R4dHBocDRQNXFmNUU1WDJJNEtaMW1iY0dTN0hCdGJGSU1oQUwwN0d2Mlpmel93anZHNVdsRXM2WVpzMQ?oc=5)
-
----
-
-### [COPD: Neue Leitlinien zeigen, wie Ernährung Atemnot lindert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
-
-2026-08-02 <span class="news-indication-tag">copd</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

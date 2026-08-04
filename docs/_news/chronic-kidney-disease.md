@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad renal crónica（chronic kidney disease） 相關新聞"
+title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad renal crónica（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
-# enfermedad renal crónica（chronic kidney disease） 相關新聞
+# CKD（chronic kidney disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad renal crónica（chronic kidney disease） 有什麼相關新聞？">
-<strong>enfermedad renal crónica（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad renal crónica」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「CKD」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [How Lipfendra, Inclisiran, and New Guidelines Are Changing Cholesterol Management](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
+
+2026-08-03
+
+來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
+
+---
 
 ### [Un millar de personas participan en la primera fase del proyecto Radar para el diagnóstico precoz de la enfermedad renal crónica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZjdXWUVuSjNwNkJLVmxlcjN5ZnhmNWxQR013OU9RMkxFcjBzdk1SUTRSNU9ZQ1pXVTd5bTVpanRlRW5ramhGdjhnVElPQ0JDT0NCMmpRcTd6MzFZYWl6Q3NfQXFsUzlrbnVpRmt1MzFsdU5kRFVzNHBMQmlTMXlaQnRWS1NHbUdpVm1HSHNKUGc5TVFpTms5NjFsQkpXY2h4VGFHZzVXY0dZVVJwLUxPazhEQTNXeEdSQ3dxT1lUSjRjVzVnZHFoR3hnS1VMY1NZWTFZcDhrUWhGczZyRkhZb0l0bw?oc=5)
 

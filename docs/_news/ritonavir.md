@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="Ritonavir 有什麼相關新聞？">
-<strong>Ritonavir</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ritonavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/ritonavir/
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [HBV in Deutschland: Fallzahlen sinken, Impflücken bleiben - Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
+
+2026-08-04 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
+
+---
+
+### [How poor countries are dealing with America’s AIDS cuts - The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
+
+2026-08-03 <span class="news-indication-tag">hepatitis</span>
+
+來源：[The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
+
+---
 
 ### [Virusinfektion: Studie zeigt schwere Folgen von Hepatitis E bei Leberzirrhose](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
 
 2026-08-03 <span class="news-indication-tag">hepatitis</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
-
----
-
-### [La gallega Sabela Lens lidera el cambio de rumbo de la hepatitis D en España: «Ha estado completamente olvidada» - La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
-
-2026-08-02 <span class="news-indication-tag">hepatitis</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMingJBVV95cUxPX3dWOS1pbTBaM2U5aDN2T3A2YzY3cjRJdFQzR2JzQU1obmxUN2I0T3JsUFEzSE5oYXFmTDVqcGdFNi1TYmFRb1NSY085dHdLeEIzV29kM1N0S2FZZVhfdTFxaXRKVHRSQ0dKdUp2WDdZUUV5Ql95VGxkQU9jTS1aRW0tRHA1dUY5d2gtRmpoa2pMZmpBczBBOTNCdDlDd2NzR0R4M0NVUnU0bVIzT2diR2YyeDd2ZU0xR1VvR3F0YjVacDVnczc3cTZ2Z05PT0FaR1pCNFA3aWpXSjByaExPSFVVVTRYMk5ua0czcWhnMGt5ZTJjOWhBZEI5VTVLYkRlYTBDVUZHSVNmX1F0Ymo1cXVhbUpRekxidzVselN3?oc=5)
 
 ---
 
