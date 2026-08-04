@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Neue Studie:: Schlaganfall hat viele unsichtbaren Folgen - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGotS20wQVJxWHAwZUFZdjFkSnJ2NDExeFN2Z1NZYXVnX0U0dFFfbjRzTERNRC1aenRVeFBWNzRNZy1fRktzdGp4MkozWWZzd29vZXRsMndxczFoVy03UnM2eXZIMnFBaGNZU09YQ3F5UERxZVJvZ2JBc2xmM2VqOHhsNW8tbFhCeHhJ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGotS20wQVJxWHAwZUFZdjFkSnJ2NDExeFN2Z1NZYXVnX0U0dFFfbjRzTERNRC1aenRVeFBWNzRNZy1fRktzdGp4MkozWWZzd29vZXRsMndxczFoVy03UnM2eXZIMnFBaGNZU09YQ3F5UERxZVJvZ2JBc2xmM2VqOHhsNW8tbFhCeHhJ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [«Credevo che mio figlio facesse lo sciocco, poi la diagnosi: a tre anni ha avuto otto mini ictus»](https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FYeGFWWUw1bEF4OE9aT3BESXRSUTk0Y2s1bnVNdGdCUjdXN1BPZXdKS3JCMFhrOHJ2c2xlNXlqZ2ViaHJaU09ZaFN5cUFaNlVxNlVpQm4tYm12TVhVNzg2ZmVOUUNhUktENjFpQnNNWTduTW95MWJhT2dzOWpBQ0k4X1JFNUEzLUxTNkwyVmEyRndodG1sWGx30gGEAUFVX3lxTFBvbDZJandPTWNwdlBsZGhkc3VXYjV3Y1E4SDRSYjlRUUI3Umd3V1JlaWVsLXdzbXRzNldJcElNcDFJeVh5TTF0SjU3VVFQd1lpRzh2NjEwVUFyWXB4a3haenEtczNUX3NQMk9sRmFQMXlIQmVGMThkRHp3dVJWdEJrQXdBaA?oc=5)
 

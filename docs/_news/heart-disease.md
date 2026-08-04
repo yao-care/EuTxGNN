@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "heart disease 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。2 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# heart disease 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="heart disease 有什麼相關新聞？">
-<strong>heart disease</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「heart disease」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,13 +85,21 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
+### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
-2026-08-02
+2026-08-04
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+
+---
+
+### [Can we map diets as networks? Food combinations linked to mortality, cardiovascular disease and life expectancy - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
+
+2026-08-03
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
 
 ---
 

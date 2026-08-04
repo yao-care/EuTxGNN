@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（10 則）
 
-### [La 'cara Ozempic': el efecto de los medicamentos para adelgazar que está llenando las consultas de dermatología - Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjBHVkxkLVdzQzZoMWpGWG5rR1ZkSWJYWE9pbVdRcFRYclYxeV80Mkh4ZkFrbEliZ0NNZnU0ME9QWXZ0b1dueHdNeFBoNUNRTE4wS3RkdndsTmVGTDltRERqWklTWHU2V00weklTUTFSSWl2NzZiOVdhNmJzNWRqeUVjV09ZcDduMXcxdm9lVzZEdlRhQU10SmwzVXdpMjBqbkozTzJmUlpoY0J3UUZrMDd1ZXNXV2VMaDlyU04xclVRSnpkUFExT1hLUFMtWU1VbklJbEt1RHpvb2V5Q3d2QnBjZVJTajhhWjRn?oc=5)
+### [Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
 
-2026-08-04 <span class="news-drug-tag">Semaglutide</span>
+2026-08-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
 
-來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjBHVkxkLVdzQzZoMWpGWG5rR1ZkSWJYWE9pbVdRcFRYclYxeV80Mkh4ZkFrbEliZ0NNZnU0ME9QWXZ0b1dueHdNeFBoNUNRTE4wS3RkdndsTmVGTDltRERqWklTWHU2V00weklTUTFSSWl2NzZiOVdhNmJzNWRqeUVjV09ZcDduMXcxdm9lVzZEdlRhQU10SmwzVXdpMjBqbkozTzJmUlpoY0J3UUZrMDd1ZXNXV2VMaDlyU04xclVRSnpkUFExT1hLUFMtWU1VbklJbEt1RHpvb2V5Q3d2QnBjZVJTajhhWjRn?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
 
 ---
 
@@ -70,9 +70,9 @@ permalink: /news/semaglutide/
 
 ---
 
-### ['Ozempic hair' is the latest side effect linked to weight loss jabs](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUx5NG83SW5xb1REbkc4SERlNUk3NUFXV2kyTWI3X0lfLVFSSE1nUGl5enhHNVJ6V2M1SC13M3hzd3hnWnlKVmJtd1h4T2V5TW12LXVHVk1meWlsLXNJYnlQdzBFZmNuMms0RFh5Zmh6VlpuWjdFWkZ3cG9XYnU1b1BGRjYzLW10MWNfTDN1anRiSEJPeG1FUGVIa2PSAaIBQVVfeXFMT2xDallPOWZNV0ZVcFllVkJ3cFdQamtOTFBOMHhNZ0ZRSTdCckFDbWxJUEJZOHd2bE92Q0szaURiWGxSVjY4OFctZXQ5R0Z1cnF1aDVTU1NWc2UtdFM0M2xpQkl3TGlFSGJ2RVZHTEhIV1ExM1ZhdWVITXJlUDFuODdnY1JhMktiVksxNi1aQ3FZbWZpa0tZY2ZNRGJPc29NQ09B?oc=5)
+### ['Ozempic hair' is the latest side effect to be officially linked with weight loss jabs](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUx5NG83SW5xb1REbkc4SERlNUk3NUFXV2kyTWI3X0lfLVFSSE1nUGl5enhHNVJ6V2M1SC13M3hzd3hnWnlKVmJtd1h4T2V5TW12LXVHVk1meWlsLXNJYnlQdzBFZmNuMms0RFh5Zmh6VlpuWjdFWkZ3cG9XYnU1b1BGRjYzLW10MWNfTDN1anRiSEJPeG1FUGVIa2PSAaIBQVVfeXFMT2xDallPOWZNV0ZVcFllVkJ3cFdQamtOTFBOMHhNZ0ZRSTdCckFDbWxJUEJZOHd2bE92Q0szaURiWGxSVjY4OFctZXQ5R0Z1cnF1aDVTU1NWc2UtdFM0M2xpQkl3TGlFSGJ2RVZHTEhIV1ExM1ZhdWVITXJlUDFuODdnY1JhMktiVksxNi1aQ3FZbWZpa0tZY2ZNRGJPc29NQ09B?oc=5)
 
-2026-08-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-08-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
 
 來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUx5NG83SW5xb1REbkc4SERlNUk3NUFXV2kyTWI3X0lfLVFSSE1nUGl5enhHNVJ6V2M1SC13M3hzd3hnWnlKVmJtd1h4T2V5TW12LXVHVk1meWlsLXNJYnlQdzBFZmNuMms0RFh5Zmh6VlpuWjdFWkZ3cG9XYnU1b1BGRjYzLW10MWNfTDN1anRiSEJPeG1FUGVIa2PSAaIBQVVfeXFMT2xDallPOWZNV0ZVcFllVkJ3cFdQamtOTFBOMHhNZ0ZRSTdCckFDbWxJUEJZOHd2bE92Q0szaURiWGxSVjY4OFctZXQ5R0Z1cnF1aDVTU1NWc2UtdFM0M2xpQkl3TGlFSGJ2RVZHTEhIV1ExM1ZhdWVITXJlUDFuODdnY1JhMktiVksxNi1aQ3FZbWZpa0tZY2ZNRGJPc29NQ09B?oc=5)
 
@@ -91,14 +91,6 @@ permalink: /news/semaglutide/
 2026-08-03 <span class="news-drug-tag">Semaglutide</span>
 
 來源：[parismatch.be](https://news.google.com/rss/articles/CBMitgJBVV95cUxQYjlVUzR0NXZFMmg3dU12c3h6ZS1wMzBra0RRQWdfblIzVU1vbnNXVHpMa1RCVS1DTEdIQVV1bjd5WEYwYTNydmFaWDl1YUV0Y0JVQi0tWWc4QW5GQ2JnS1B4Qml0SF93N3lia0h4Y1hWLWZhRWtiYWpWOUN2angzelZ4Y25kMXdiODliUmY3TTlaa2FWajc4ckdvMGpuNFhjZGdYRE1DSk9XRGtFdjhmQ2lOZDMtZGM4SzhZSjlFUURTb2ZXY2QxdWFwQjV5YXhqOWY2QkxQNU9HSm9WOEs5Tm9TOU9scDA4bUNpUWp2ZVQtaUExdnpNZ1FzYUhSU0FyTHNlWnk5WlNLZ1Q2aUFienRLZnctcXBkS0tKRjhuME1RWnVMbzJqdlNqa1l3QmJyMGo1LTd3?oc=5)
-
----
-
-### [Moins de protéines pour mieux vieillir, selon une nouvelle étude](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 ---
 
@@ -126,27 +118,11 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Disfunzione erettile: il campanello d’allarme che gli uomini non possono ignorare](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
----
-
 ### [GLP-1 drugs like Ozempic might help clear Alzheimer's disease plaques, new review suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3dNOWRWZjVXVk80UVlHQ083VGFYNU5XRTc4MGdlSEFlanlUeDNBTG1iTUZ6RW4tX2M1eklaaTFXbTFyMUxaS19iRjlqWkNWalNId3ZITHRVbVlISzl0bFQ1NHdLcm1WVjkxRy0zSWdvUkR5OGhZSjRYLUV5UnVmY1VKLWlCVW9ZTTMwQ25Gb29oa0JzbzU4bmhHUUNZU3VMeE9ZdjMwNDRGbTZxWEFfSUw1Yw?oc=5)
 
 2026-08-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3dNOWRWZjVXVk80UVlHQ083VGFYNU5XRTc4MGdlSEFlanlUeDNBTG1iTUZ6RW4tX2M1eklaaTFXbTFyMUxaS19iRjlqWkNWalNId3ZITHRVbVlISzl0bFQ1NHdLcm1WVjkxRy0zSWdvUkR5OGhZSjRYLUV5UnVmY1VKLWlCVW9ZTTMwQ25Gb29oa0JzbzU4bmhHUUNZU3VMeE9ZdjMwNDRGbTZxWEFfSUw1Yw?oc=5)
-
----
-
-### [Longevità, esiste una pillola? Dall'Ozempic alla metfomina, ma non sono i farmaci la risposta per vivere più a lungo - Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxQXzlMTmlQbmdBQ0NUQ3JZWFVCWGlyYVZfWGxvQzhhZ1duXzk4VEVVdmo4ZzctUEx0SGdtWDZXeHE3UmxreWNXbWVYc3BjWllhaXd2R2ZxWE9HcG81dTYzdXV5bnNIYVR2R3hlLXhZcnB2bFFNLV9pSWtHY3RWdG5jQmdnd2NXWUNaaDdlQWZvQkJwamQzZmZzQlJRMm9sZ9IBmwFBVV95cUxQWllBemlEajU5QVRDNWw0N3lpeW8tSXZCSUQ1LVFtaVJyMU9hdDV3Q016b3FwX0dScUhJQl9CNW8xVnBFaWZvVThqbDBnU3dWRmZsS3ZOZlJ4QXFkd1UyUk4xZm1jZHlMOEtyRE4wQWpHa1l6dHdQZzNFMnlEY3JseVRJU0tFdGZnOTBjTERVbTA2WnBna1cyZ2NkSQ?oc=5)
-
-2026-08-02 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMingFBVV95cUxQXzlMTmlQbmdBQ0NUQ3JZWFVCWGlyYVZfWGxvQzhhZ1duXzk4VEVVdmo4ZzctUEx0SGdtWDZXeHE3UmxreWNXbWVYc3BjWllhaXd2R2ZxWE9HcG81dTYzdXV5bnNIYVR2R3hlLXhZcnB2bFFNLV9pSWtHY3RWdG5jQmdnd2NXWUNaaDdlQWZvQkJwamQzZmZzQlJRMm9sZ9IBmwFBVV95cUxQWllBemlEajU5QVRDNWw0N3lpeW8tSXZCSUQ1LVFtaVJyMU9hdDV3Q016b3FwX0dScUhJQl9CNW8xVnBFaWZvVThqbDBnU3dWRmZsS3ZOZlJ4QXFkd1UyUk4xZm1jZHlMOEtyRE4wQWpHa1l6dHdQZzNFMnlEY3JseVRJU0tFdGZnOTBjTERVbTA2WnBna1cyZ2NkSQ?oc=5)
 
 ---
 

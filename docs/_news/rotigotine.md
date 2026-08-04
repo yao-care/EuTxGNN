@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="Rotigotine 有什麼相關新聞？">
-<strong>Rotigotine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rotigotine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/rotigotine/
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（13 則）
+
+### [La OMS ve "prometedores" avances en vacunas y tratamientos contra el brote de ébola en la RDC - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0VQOG53eEhPeW82ZDY4Z3RqUlp0MmxINF9iVWJraDYzQi1DWVdveUMyMUJSSmJVYlJQM0tqczE1WmtWXzkyLWZUSVFUcHdHQjlPYW5VZnpvbFh6UVdraDNJNng5WnktbmVXMG0wWTRMTVpXend2aWNqZWFFUmFQZWYxaVFFQ2JrcnVB?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0VQOG53eEhPeW82ZDY4Z3RqUlp0MmxINF9iVWJraDYzQi1DWVdveUMyMUJSSmJVYlJQM0tqczE1WmtWXzkyLWZUSVFUcHdHQjlPYW5VZnpvbFh6UVdraDNJNng5WnktbmVXMG0wWTRMTVpXend2aWNqZWFFUmFQZWYxaVFFQ2JrcnVB?oc=5)
+
+---
+
+### [Blutmarker zeigt schubunabhängige Progression bei Multipler Sklerose an](https://news.google.com/rss/articles/CBMingFBVV95cUxNOUs5RXlrb0ZtOXhrOG9aa1Q1NHpOUjVlU2V3ZWZlWDMzSHYwLTNibnh3TXJ3Zk1qVG5TeXdkUFp2eS1JU0RGR01sUFZaVVhNUHM2RTY0WTZEeWhpNXZrYUI5ci1vejI2eFNXUXdvTlNseGlfTVZiSm1hMzdCRUgyVlFBakRfN0dxNnVjeWp0cGxmWVlMU2hEU3ZlckQ0dw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[MedLabPortal](https://news.google.com/rss/articles/CBMingFBVV95cUxNOUs5RXlrb0ZtOXhrOG9aa1Q1NHpOUjVlU2V3ZWZlWDMzSHYwLTNibnh3TXJ3Zk1qVG5TeXdkUFp2eS1JU0RGR01sUFZaVVhNUHM2RTY0WTZEeWhpNXZrYUI5ci1vejI2eFNXUXdvTlNseGlfTVZiSm1hMzdCRUgyVlFBakRfN0dxNnVjeWp0cGxmWVlMU2hEU3ZlckQ0dw?oc=5)
+
+---
+
+### [Dalla cura della tosse al cervello: il ruolo dei mucolitici contro Alzheimer, parkinson, demenze e sclerosi multipla](https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5)
+
+2026-08-04 <span class="news-indication-tag">sclerosi multipla</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5)
+
+---
+
+### [Vitamin K2: Gefäßverkalkung bei Rheuma um 25% verlangsamt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVBBckRrb25Sa1BKWjNDQ2RxcUJqZUhybVg3OXE1MDRmUGxuSG11dTZyNGNPSldfa0kzX05mR2R6a0d0UGF2bzR6QzJvSHdEU2p0aUxIdXZhdTlhc3cteGFWMTlTaWg2bVpxVXFzWnNmZXRsQnljU2c1cGJ4cWNJZzg3S1ZkNXZoZG1QR2dSaVMxcUsyYm9aMGI2dWlubDhWQUtIZnVLNmZkdEFNOTdvRVF2TXg?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVBBckRrb25Sa1BKWjNDQ2RxcUJqZUhybVg3OXE1MDRmUGxuSG11dTZyNGNPSldfa0kzX05mR2R6a0d0UGF2bzR6QzJvSHdEU2p0aUxIdXZhdTlhc3cteGFWMTlTaWg2bVpxVXFzWnNmZXRsQnljU2c1cGJ4cWNJZzg3S1ZkNXZoZG1QR2dSaVMxcUsyYm9aMGI2dWlubDhWQUtIZnVLNmZkdEFNOTdvRVF2TXg?oc=5)
+
+---
 
 ### [Israelische Studie sorgt für Aufsehen: Wie Viagra gegen Krebs helfen könnte - Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
 
@@ -70,19 +102,43 @@ permalink: /news/rotigotine/
 
 ---
 
-### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
-
----
-
-### [Herz: Verkalkte Gefäße? Was Studien über Vitamin K jetzt wirklich zeigen](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW1OaUd3ZWNOMXVPMDQ2Qk5rdmFVbkZGZlZKWWlUSFYwbXVTajJfUTBTRUZreVpuZlNIWHRoUzB0Uy1JOVpucy13dmNwdl9RY2lzd1E5WGpZalNuc05FT1RQOF9mRU83X3V1U2oyN1N1SHBZd2Y3QWpPWGw1VlkyWEJnTUJjQVJCakIzZ0tKejJxLWFWRExZWWhlNUN4bm5wSkNIQWhsQ3RIOXc1dzlpYVlORXU0LW9zMWdJcklJV3JXRFpUNUZwQ3FldmlMcGlwNlJuWUJHZEI?oc=5)
+### [Once-a-week workout matches effects of working out three times a week for cutting belly fat - GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YckJpTUlYZ0hUX3ppcHR0Yk80QVBqTVBNRUhYQjhuUEdNYWdINGVjUlZ2TDludzBBWnE1eVJuV3RQSlBCMHMyZkI5T0h0VXY1TFlJaTI2TWp5OWllSVNmNVpKQVVYVmRpVjVYZmtMMWdLV1pZTkxRRU5UdEhlTk0?oc=5)
 
 2026-08-03 <span class="news-indication-tag">MS</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZW1OaUd3ZWNOMXVPMDQ2Qk5rdmFVbkZGZlZKWWlUSFYwbXVTajJfUTBTRUZreVpuZlNIWHRoUzB0Uy1JOVpucy13dmNwdl9RY2lzd1E5WGpZalNuc05FT1RQOF9mRU83X3V1U2oyN1N1SHBZd2Y3QWpPWGw1VlkyWEJnTUJjQVJCakIzZ0tKejJxLWFWRExZWWhlNUN4bm5wSkNIQWhsQ3RIOXc1dzlpYVlORXU0LW9zMWdJcklJV3JXRFpUNUZwQ3FldmlMcGlwNlJuWUJHZEI?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YckJpTUlYZ0hUX3ppcHR0Yk80QVBqTVBNRUhYQjhuUEdNYWdINGVjUlZ2TDludzBBWnE1eVJuV3RQSlBCMHMyZkI5T0h0VXY1TFlJaTI2TWp5OWllSVNmNVpKQVVYVmRpVjVYZmtMMWdLV1pZTkxRRU5UdEhlTk0?oc=5)
+
+---
+
+### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+
+2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
+
+---
+
+### [Starke Entzündungsreaktionen auf unbekannten immunologischen Regelkreis zurückzuführen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNLWNLVWVKdDdPX2VzeHhjc29BNF85OFJIc2QtdFJqak9CVk02RlVyZGZ3Y2hwYTVpaEMyQVA3N3VxcTBLalYwd3Nraw?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNLWNLVWVKdDdPX2VzeHhjc29BNF85OFJIc2QtdFJqak9CVk02RlVyZGZ3Y2hwYTVpaEMyQVA3N3VxcTBLalYwd3Nraw?oc=5)
+
+---
+
+### [Los expertos coinciden: comer conservas de pescado varias veces por semana es el truco más asequible para cuidar el corazón](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1JpNkF2X3lKUU9LX0ROb2RfbENrQlRIUF9lblRRNlhlQ1JBZTc2d1VNelRER1N6dXpwWnF5Y05CRllOcXZ1SUlWemExcG05UTgwM3pCMndLYkZDQUtPeVZqNFhHV1FBdVFJQzNyUE4xUGZMWXJzM0hiOWZQTmNqanlIWVhGeDFHVEdTcTJTcEpMcy0yX2w0UWJMMHh5SjNiMG5NamMwUnpUdi1PNEt0V0ZuYlV4M1poeV9ITDZmRmtQbEJPS19qbnZ1UW9UMllzRzBiQ0VVUXdSNlnSAeABQVVfeXFMTWpSQzA4MzRJVXJUdnp4M0lnTzZ1WmNvZ1l3bTRoQXV2TFJkdnNUNkNIbTZyaWhuZlpvZy1JeXpSbERYaWh1TDZTQTZzRENrWVFLZmlaUENjQk1uZ3ZXVUlQTlJUTE9LZU5YWV9hWVNsMUF2eTFaUW1aamlaWW1LVlNNNzBCc0FldERLbno3TUNuVnBid3VXZkM0SnR1c3dKZC1QNVM1UjgyUHB0LU02TUVxcEVNMXZSTnh0bmZ3WWFVTUxRcWVucVFTTkszX1dGeWg1eU94bFhnRV9qNlJsN0U?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span>
+
+來源：[cronicaglobal.elespanol.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1JpNkF2X3lKUU9LX0ROb2RfbENrQlRIUF9lblRRNlhlQ1JBZTc2d1VNelRER1N6dXpwWnF5Y05CRllOcXZ1SUlWemExcG05UTgwM3pCMndLYkZDQUtPeVZqNFhHV1FBdVFJQzNyUE4xUGZMWXJzM0hiOWZQTmNqanlIWVhGeDFHVEdTcTJTcEpMcy0yX2w0UWJMMHh5SjNiMG5NamMwUnpUdi1PNEt0V0ZuYlV4M1poeV9ITDZmRmtQbEJPS19qbnZ1UW9UMllzRzBiQ0VVUXdSNlnSAeABQVVfeXFMTWpSQzA4MzRJVXJUdnp4M0lnTzZ1WmNvZ1l3bTRoQXV2TFJkdnNUNkNIbTZyaWhuZlpvZy1JeXpSbERYaWh1TDZTQTZzRENrWVFLZmlaUENjQk1uZ3ZXVUlQTlJUTE9LZU5YWV9hWVNsMUF2eTFaUW1aamlaWW1LVlNNNzBCc0FldERLbno3TUNuVnBid3VXZkM0SnR1c3dKZC1QNVM1UjgyUHB0LU02TUVxcEVNMXZSTnh0bmZ3WWFVTUxRcWVucVFTTkszX1dGeWg1eU94bFhnRV9qNlJsN0U?oc=5)
+
+---
+
+### [Les entraîneurs sont unanimes : "Marcher 1 heure par jour, 7 jours sur 7, à un rythme tranquille, permet de brûler 75 000 calories par an"](https://news.google.com/rss/articles/CBMiigJBVV95cUxPazFabzF1Rmt3Z2ZrQ3RVbzBvYU0tNzVZdk4wN1B5bHZOOFQxVjV0dVZEeXpMRU1wM0xBLW9rbVlybnlacjl2eXlTU2phZXZ6YnVDRC1NeU9fSGd4LUhxa2J0ZHZIS0hJamVqZDhfdlpodjEyR2Y1SkZDN3FaYVdZbGpHbkZKR1ZpSEZvNmhCZmx2cGFGQlNwb29mOE9HZDBlNHk0STczX2k0QUpRQnUxaXFTcVNOcDl4ZjBnUDNXOHV6SWcyT1dPUHJlTTAxSXduY1NoWTRTVUZidWwtMHE3ZjJxVlFHX1hOakh1X3dCbkxxUWVtSnE3RDdvY1hfcjBlemZoeDhmSl84QQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
+
+來源：[linternaute.com](https://news.google.com/rss/articles/CBMiigJBVV95cUxPazFabzF1Rmt3Z2ZrQ3RVbzBvYU0tNzVZdk4wN1B5bHZOOFQxVjV0dVZEeXpMRU1wM0xBLW9rbVlybnlacjl2eXlTU2phZXZ6YnVDRC1NeU9fSGd4LUhxa2J0ZHZIS0hJamVqZDhfdlpodjEyR2Y1SkZDN3FaYVdZbGpHbkZKR1ZpSEZvNmhCZmx2cGFGQlNwb29mOE9HZDBlNHk0STczX2k0QUpRQnUxaXFTcVNOcDl4ZjBnUDNXOHV6SWcyT1dPUHJlTTAxSXduY1NoWTRTVUZidWwtMHE3ZjJxVlFHX1hOakh1X3dCbkxxUWVtSnE3RDdvY1hfcjBlemZoeDhmSl84QQ?oc=5)
 
 ---
 
@@ -99,14 +155,6 @@ permalink: /news/rotigotine/
 2026-08-03 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMU5WNWZKUFJnUkljQ2Y5RVZaMU5VZ0NtY0d5VXA5LVRXUVRRSEtMb1R5QWpFY29JeXNpYmhmU2tFaHBRQWIwSFFYN1otZy12QTRIbmROY3lmUjZf?oc=5)
-
----
-
-### [Los recortes en fondos para el VIH ponen en riesgo décadas de avances, alertan expertos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
 ---
 

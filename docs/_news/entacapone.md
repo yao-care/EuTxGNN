@@ -56,7 +56,7 @@ permalink: /news/entacapone/
 
 ### [Dementia patients to block quarter of NHS beds - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
 
-2026-08-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-08-04 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
 

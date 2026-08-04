@@ -54,6 +54,22 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ## 相關新聞（8 則）
 
+### [Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
+
+---
+
+### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+
+2026-08-04 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+
+---
+
 ### [Ballaststoffe: Harvard-Studie belegt 34% Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
 
 2026-08-04 <span class="news-indication-tag">diabetes</span>
@@ -70,11 +86,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Moins de protéines pour mieux vieillir, selon une nouvelle étude](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
+### [Can we map diets as networks? Food combinations linked to mortality, cardiovascular disease and life expectancy - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
 
-2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+2026-08-03 <span class="news-indication-tag">cardiovascular disease</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
 
 ---
 
@@ -99,22 +115,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-03 <span class="news-indication-tag">diabete</span>
 
 來源：[PalermoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThUaGg1S2VlNjJ6eWZIcy1rT0dBblZFTkhrTVJtTk0xWWJXUjBCY3hQbnkwZE1XZjJkYzF3MFFVRVUySGo5NnFER3FxeVEyYjgtdmFhNFYxZ1VYTFlSY2Zka01XeFlwbXJDclluYko4WmhlUURwUGZlVndSN2pOTWxfZ0xRQQ?oc=5)
-
----
-
-### [Disfunzione erettile: il campanello d’allarme che gli uomini non possono ignorare](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
----
-
-### [7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">heart disease</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
 
 ---
 

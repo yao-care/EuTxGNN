@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### ['Ozempic hair' is the latest side effect linked to weight loss jabs](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUx5NG83SW5xb1REbkc4SERlNUk3NUFXV2kyTWI3X0lfLVFSSE1nUGl5enhHNVJ6V2M1SC13M3hzd3hnWnlKVmJtd1h4T2V5TW12LXVHVk1meWlsLXNJYnlQdzBFZmNuMms0RFh5Zmh6VlpuWjdFWkZ3cG9XYnU1b1BGRjYzLW10MWNfTDN1anRiSEJPeG1FUGVIa2PSAaIBQVVfeXFMT2xDallPOWZNV0ZVcFllVkJ3cFdQamtOTFBOMHhNZ0ZRSTdCckFDbWxJUEJZOHd2bE92Q0szaURiWGxSVjY4OFctZXQ5R0Z1cnF1aDVTU1NWc2UtdFM0M2xpQkl3TGlFSGJ2RVZHTEhIV1ExM1ZhdWVITXJlUDFuODdnY1JhMktiVksxNi1aQ3FZbWZpa0tZY2ZNRGJPc29NQ09B?oc=5)
-
-2026-08-04 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[Metro.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUx5NG83SW5xb1REbkc4SERlNUk3NUFXV2kyTWI3X0lfLVFSSE1nUGl5enhHNVJ6V2M1SC13M3hzd3hnWnlKVmJtd1h4T2V5TW12LXVHVk1meWlsLXNJYnlQdzBFZmNuMms0RFh5Zmh6VlpuWjdFWkZ3cG9XYnU1b1BGRjYzLW10MWNfTDN1anRiSEJPeG1FUGVIa2PSAaIBQVVfeXFMT2xDallPOWZNV0ZVcFllVkJ3cFdQamtOTFBOMHhNZ0ZRSTdCckFDbWxJUEJZOHd2bE92Q0szaURiWGxSVjY4OFctZXQ5R0Z1cnF1aDVTU1NWc2UtdFM0M2xpQkl3TGlFSGJ2RVZHTEhIV1ExM1ZhdWVITXJlUDFuODdnY1JhMktiVksxNi1aQ3FZbWZpa0tZY2ZNRGJPc29NQ09B?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

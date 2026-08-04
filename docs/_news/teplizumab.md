@@ -14,7 +14,7 @@ permalink: /news/teplizumab/
 ---
 
 <p class="key-answer" data-question="Teplizumab 有什麼相關新聞？">
-<strong>Teplizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teplizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/teplizumab/
 <p><a href="{{ '/drugs/teplizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
+
+---
 
 ### [Ballaststoffe: Harvard-Studie belegt 34% Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/teplizumab/
 2026-08-04 <span class="news-indication-tag">diabetes</span>
 
 來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
-
----
-
-### [Moins de protéines pour mieux vieillir, selon une nouvelle étude](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ permalink: /news/teplizumab/
 2026-08-03 <span class="news-indication-tag">diabete</span>
 
 來源：[PalermoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThUaGg1S2VlNjJ6eWZIcy1rT0dBblZFTkhrTVJtTk0xWWJXUjBCY3hQbnkwZE1XZjJkYzF3MFFVRVUySGo5NnFER3FxeVEyYjgtdmFhNFYxZ1VYTFlSY2Zka01XeFlwbXJDclluYko4WmhlUURwUGZlVndSN2pOTWxfZ0xRQQ?oc=5)
-
----
-
-### [Disfunzione erettile: il campanello d’allarme che gli uomini non possono ignorare](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabete</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWhnQ19TdmduNGRBYUZJMUg5S2w4cGdoc1Y3RGZHQkdhbXFuY045QVA5Vnh3Q0FaYk5CTEZVQWhhTXJmTmNaS1dJd2ltOUFNR2JaODhoNTAtS0hhb2FzdkgtV0FBa3otLVdsNDdtbXFheDFob3NzNEFFVXNrdDFpNVo3ZkUtd19YRW44ci1LdEw1ZkpCUzF3dk1STEJ3bjNFV1I5Z3NmS2xGblJZcmZ0UU00cThvbFVfVVU0QkFVSjBRTl9JemU2a3Z3?oc=5)
 
 ---
 

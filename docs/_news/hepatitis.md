@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hepatitis 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "hepatitis 的相關健康新聞報導。4 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="hepatitis 有什麼相關新聞？">
-<strong>hepatitis</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<strong>hepatitis</strong> 目前有 <strong>4 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,7 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [HBV in Deutschland: Fallzahlen sinken, Impflücken bleiben - Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
 
@@ -76,6 +76,14 @@ permalink: /news/hepatitis/
 2026-08-03
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
+
+---
+
+### [HIV-Mittelkürzungen gefährden Jahrzehnte an Fortschritt, warnen Experten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
+
+2026-08-03
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
 
 ---
 

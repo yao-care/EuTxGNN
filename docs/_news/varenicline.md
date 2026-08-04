@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="Varenicline 有什麼相關新聞？">
-<strong>Varenicline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Varenicline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/varenicline/
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [Bluthochdruck: Neue Strategie zum Gegensteuern](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGU0ZXVyMUYtdVRkTDNHWmRyVlVWNldUTGRwODVVRXRzZFlvT3Y0RFJTYk5BWldnRXd5NXhUSFJWWUtXRG5helBBZkRZV0tTZmdrRlBBNExGa0pPb183MU9fUWh2R3g5VFFDUzVmZVlpV1hRVmw0SGJ5eDg1MjNUb0xPVW9oV3kwQTdvNnpQNExEMTk1eHFjbEFKLTA4QnZxeFhsOTFwUDFKUQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGU0ZXVyMUYtdVRkTDNHWmRyVlVWNldUTGRwODVVRXRzZFlvT3Y0RFJTYk5BWldnRXd5NXhUSFJWWUtXRG5helBBZkRZV0tTZmdrRlBBNExGa0pPb183MU9fUWh2R3g5VFFDUzVmZVlpV1hRVmw0SGJ5eDg1MjNUb0xPVW9oV3kwQTdvNnpQNExEMTk1eHFjbEFKLTA4QnZxeFhsOTFwUDFKUQ?oc=5)
-
----
-
-### [Blutdruck bei Frauen: Welche Werte sind normal? Ärztin nennt wichtige Grenze](https://news.google.com/rss/articles/CBMipgFBVV95cUxNanJtSXZQSFNGNXNOT0l0dTdXalUzWS1tM2NPYWhMTDBiY3pWei1UZlEydk4yYmVyM0lZX3oyc0Q0cGZtT0Q2ZEUwQ0E5YU5mbFRCUVVSMXhhV1JDZlVOQ1VvX3g2anpycm5xMk9rN1NZTUlGbjExRl9HdFpOQkd1bUdpSUFQMEZyT2hEemhsV2ZCVzF0TXJSSGJlQUoweE9WRWZpTnJ3?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[abendblatt.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxNanJtSXZQSFNGNXNOT0l0dTdXalUzWS1tM2NPYWhMTDBiY3pWei1UZlEydk4yYmVyM0lZX3oyc0Q0cGZtT0Q2ZEUwQ0E5YU5mbFRCUVVSMXhhV1JDZlVOQ1VvX3g2anpycm5xMk9rN1NZTUlGbjExRl9HdFpOQkd1bUdpSUFQMEZyT2hEemhsV2ZCVzF0TXJSSGJlQUoweE9WRWZpTnJ3?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [Personne ne comprenait pourquoi certains n'ont jamais de migraine : une étude vient de livrer un verdict qui surprend les neurologues](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,29 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Farmaci anti-obesità: un algoritmo aiuta i medici a trovare quello più adatto - Corriere della Sera](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS1cxQmJTLTZJSS1YY2QtTmlKYklNaFZzMEYtS1pHaUdWbDRNSUtvaWdoYmZZZFQwMzh6amlqN2ZXcERwQTQzLTN0S25DenVHNzExR3c2ODNOMVNMYk9jbFljdzJvRElYc1RpTFZfWC0yLWhZYk1aamFaWkhqOXYxeGowTjJtSnNZRlg1Sk1zNUZfaGgzaTVCYlRrUG82dzhQeko5QWtURklFSXNNYzMzVnFteTJVdHkyU00xSHF6dl9UMTB6SjhkOGtiWl9pU0dhT3BEeVo4b1B3REIxMGhDVTgtaDh1d1ZUc3NaVHd5MzgzV3BwMFHSAfsBQVVfeXFMTkFvMHlYTWlmQmVuZXMtbTQzSmlhT3E1QUJ1WVFfT3c1SkJxdjUwLUQ2VGpuWU5sSWhxRENlMEVoVDlITVV0b01Ta2lsQkR2VkhJdjhBc1lRZUk2dGh1bGc5Ykw4ZlhWbllLTzB1VW01Q1hwZW94VkdZc1UtVWFMN2h4a3NuNmVmeXAxR2dteDBlazF2TXNsSWpkRFduWjM5WmtjVFJ1WE9fS3RnekFqSzdiYmZieXFuei15OENlaGxSdGtZQVlOdUtrZVRLclNxLUhhOFZydUdKNWtZb1JZTEJNWUlFeEI0MVJHSVN1RWViSDRZYkFIcTRhdzA?oc=5)
+
+2026-08-04
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS1cxQmJTLTZJSS1YY2QtTmlKYklNaFZzMEYtS1pHaUdWbDRNSUtvaWdoYmZZZFQwMzh6amlqN2ZXcERwQTQzLTN0S25DenVHNzExR3c2ODNOMVNMYk9jbFljdzJvRElYc1RpTFZfWC0yLWhZYk1aamFaWkhqOXYxeGowTjJtSnNZRlg1Sk1zNUZfaGgzaTVCYlRrUG82dzhQeko5QWtURklFSXNNYzMzVnFteTJVdHkyU00xSHF6dl9UMTB6SjhkOGtiWl9pU0dhT3BEeVo4b1B3REIxMGhDVTgtaDh1d1ZUc3NaVHd5MzgzV3BwMFHSAfsBQVVfeXFMTkFvMHlYTWlmQmVuZXMtbTQzSmlhT3E1QUJ1WVFfT3c1SkJxdjUwLUQ2VGpuWU5sSWhxRENlMEVoVDlITVV0b01Ta2lsQkR2VkhJdjhBc1lRZUk2dGh1bGc5Ykw4ZlhWbllLTzB1VW01Q1hwZW94VkdZc1UtVWFMN2h4a3NuNmVmeXAxR2dteDBlazF2TXNsSWpkRFduWjM5WmtjVFJ1WE9fS3RnekFqSzdiYmZieXFuei15OENlaGxSdGtZQVlOdUtrZVRLclNxLUhhOFZydUdKNWtZb1JZTEJNWUlFeEI0MVJHSVN1RWViSDRZYkFIcTRhdzA?oc=5)
+
+---
 
 ### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación - Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 2026-08-03
 
 來源：[Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
-
----
-
-### [Nearly a third of deprived Gloucestershire pupils face obesity](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
-
-2026-08-03
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSUR6ZmdvM0lXdkZGTkFVNEZJTDZIRnVMUTVUZkl4YURsdFhXZFZxUmtJa09WTWtCMXZ6b2w5TjhPNjZRejJSUTkyTGRfTWpFQWxVTVl6dnljcEpq?oc=5)
-
----
-
-### [Obesità, orforglipron mantiene efficacia e sicurezza anche dopo i 65 anni](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
-
-2026-08-02
-
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmZsek83aVl4bGlDRnIwQm83X2lHc1NockFQbFhjalp5WkFDWXQ1cnhsZ2VyUXVEYmhZc0duTEgxVHg3d1RpSFFiY3l2bE82QVpBYzVjTGhhdFZBVXBOcUV0TDdaZ1Rwd3lueFdaZTBUZ0Y4SWZXVGlMTnZ1WEgzZWNtVVNOSl9qV3J0bHhFSXBGcjIwLVZVak15djFDcFRXQmFDUndPR3paNExfM1JmcnNkSzNpZVU?oc=5)
 
 ---
 

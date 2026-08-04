@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall（stroke） 相關新聞"
+title: "ictus（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "ictus（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# Schlaganfall（stroke） 相關新聞
+# ictus（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
-<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
+<strong>ictus（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,15 +39,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Neue Studie:: Schlaganfall hat viele unsichtbaren Folgen - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGotS20wQVJxWHAwZUFZdjFkSnJ2NDExeFN2Z1NZYXVnX0U0dFFfbjRzTERNRC1aenRVeFBWNzRNZy1fRktzdGp4MkozWWZzd29vZXRsMndxczFoVy03UnM2eXZIMnFBaGNZU09YQ3F5UERxZVJvZ2JBc2xmM2VqOHhsNW8tbFhCeHhJ?oc=5)
-
-2026-08-04
-
-來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGotS20wQVJxWHAwZUFZdjFkSnJ2NDExeFN2Z1NZYXVnX0U0dFFfbjRzTERNRC1aenRVeFBWNzRNZy1fRktzdGp4MkozWWZzd29vZXRsMndxczFoVy03UnM2eXZIMnFBaGNZU09YQ3F5UERxZVJvZ2JBc2xmM2VqOHhsNW8tbFhCeHhJ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [«Credevo che mio figlio facesse lo sciocco, poi la diagnosi: a tre anni ha avuto otto mini ictus»](https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FYeGFWWUw1bEF4OE9aT3BESXRSUTk0Y2s1bnVNdGdCUjdXN1BPZXdKS3JCMFhrOHJ2c2xlNXlqZ2ViaHJaU09ZaFN5cUFaNlVxNlVpQm4tYm12TVhVNzg2ZmVOUUNhUktENjFpQnNNWTduTW95MWJhT2dzOWpBQ0k4X1JFNUEzLUxTNkwyVmEyRndodG1sWGx30gGEAUFVX3lxTFBvbDZJandPTWNwdlBsZGhkc3VXYjV3Y1E4SDRSYjlRUUI3Umd3V1JlaWVsLXdzbXRzNldJcElNcDFJeVh5TTF0SjU3VVFQd1lpRzh2NjEwVUFyWXB4a3haenEtczNUX3NQMk9sRmFQMXlIQmVGMThkRHp3dVJWdEJrQXdBaA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="Lumacaftor 有什麼相關新聞？">
-<strong>Lumacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lumacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/lumacaftor/
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Bluthochdruck: Neue Strategie zum Gegensteuern](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGU0ZXVyMUYtdVRkTDNHWmRyVlVWNldUTGRwODVVRXRzZFlvT3Y0RFJTYk5BWldnRXd5NXhUSFJWWUtXRG5helBBZkRZV0tTZmdrRlBBNExGa0pPb183MU9fUWh2R3g5VFFDUzVmZVlpV1hRVmw0SGJ5eDg1MjNUb0xPVW9oV3kwQTdvNnpQNExEMTk1eHFjbEFKLTA4QnZxeFhsOTFwUDFKUQ?oc=5)
+### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
-2026-08-04 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-04 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGU0ZXVyMUYtdVRkTDNHWmRyVlVWNldUTGRwODVVRXRzZFlvT3Y0RFJTYk5BWldnRXd5NXhUSFJWWUtXRG5helBBZkRZV0tTZmdrRlBBNExGa0pPb183MU9fUWh2R3g5VFFDUzVmZVlpV1hRVmw0SGJ5eDg1MjNUb0xPVW9oV3kwQTdvNnpQNExEMTk1eHFjbEFKLTA4QnZxeFhsOTFwUDFKUQ?oc=5)
-
----
-
-### [Blutdruck bei Frauen: Welche Werte sind normal? Ärztin nennt wichtige Grenze](https://news.google.com/rss/articles/CBMipgFBVV95cUxNanJtSXZQSFNGNXNOT0l0dTdXalUzWS1tM2NPYWhMTDBiY3pWei1UZlEydk4yYmVyM0lZX3oyc0Q0cGZtT0Q2ZEUwQ0E5YU5mbFRCUVVSMXhhV1JDZlVOQ1VvX3g2anpycm5xMk9rN1NZTUlGbjExRl9HdFpOQkd1bUdpSUFQMEZyT2hEemhsV2ZCVzF0TXJSSGJlQUoweE9WRWZpTnJ3?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[abendblatt.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxNanJtSXZQSFNGNXNOT0l0dTdXalUzWS1tM2NPYWhMTDBiY3pWei1UZlEydk4yYmVyM0lZX3oyc0Q0cGZtT0Q2ZEUwQ0E5YU5mbFRCUVVSMXhhV1JDZlVOQ1VvX3g2anpycm5xMk9rN1NZTUlGbjExRl9HdFpOQkd1bUdpSUFQMEZyT2hEemhsV2ZCVzF0TXJSSGJlQUoweE9WRWZpTnJ3?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
 ---
 
@@ -86,19 +78,19 @@ permalink: /news/lumacaftor/
 
 ---
 
+### [Can we map diets as networks? Food combinations linked to mortality, cardiovascular disease and life expectancy - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
+
+2026-08-03 <span class="news-indication-tag">cardiovascular disease</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
+
+---
+
 ### [Hypertension après 50 ans : ce plat provençal est excellent pour nettoyer les artères - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
 
 2026-08-03 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
-
----
-
-### [7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">heart disease</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
 
 ---
 

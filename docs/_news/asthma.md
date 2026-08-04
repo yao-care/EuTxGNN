@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,29 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Fettleber: Drastisch erhöhtes Risiko für tödliche Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 2026-08-03
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
 ---
 
-### [Asthma bei Kindern: Studie identifiziert drei Entzündungsmechanismen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+### [Neun Bakterienarten, die bei Kindern einen „Schutzschild“ gegen Allergien bilden, wurden in einem Kuhstall entdeckt.](https://news.google.com/rss/articles/CBMingFBVV95cUxNWnp4UGFKT0FpdEdfNkMxcnp5ZkhlZ0VEd0g5WWdRTXNXaHYwaDJaT3pPYTRYU0kxYm9xbldjR1ZxNDVidG9wWXB1cEV5c2JjVzFLQnF5OVFCWnZaY2NndmgtbzdiTW4tTnZqQkR5RzNqUEFudl9XN01EWkNaQzl6cDlPUFVBMjhOVXYwTnR0blZRd0VSSzBIeTRGZUJsZw?oc=5)
 
 2026-08-03
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
-
----
-
-### [Bauernhofeffekt: Neun Bakterien schützen Kinder vor Asthma - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
-
-2026-08-03
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxNWnp4UGFKT0FpdEdfNkMxcnp5ZkhlZ0VEd0g5WWdRTXNXaHYwaDJaT3pPYTRYU0kxYm9xbldjR1ZxNDVidG9wWXB1cEV5c2JjVzFLQnF5OVFCWnZaY2NndmgtbzdiTW4tTnZqQkR5RzNqUEFudl9XN01EWkNaQzl6cDlPUFVBMjhOVXYwTnR0blZRd0VSSzBIeTRGZUJsZw?oc=5)
 
 ---
 

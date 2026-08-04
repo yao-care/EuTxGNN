@@ -62,9 +62,9 @@ permalink: /news/inclisiran/
 
 ---
 
-### [How Lipfendra, Inclisiran, and New Guidelines Are Changing Cholesterol Management](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
+### [High Cholesterol: Lipfendra, Inclisiran, New Guidelines Explained](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
 
-2026-08-03 <span class="news-drug-tag">Inclisiran</span> <span class="news-indication-tag">CKD</span>
+2026-08-03 <span class="news-drug-tag">Inclisiran</span>
 
 來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
 

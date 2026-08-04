@@ -54,11 +54,43 @@ permalink: /news/tecovirimat/
 
 ## 相關新聞（25 則）
 
-### [Übergewicht verursacht möglicherweise mehr als jede zehnte Krebserkrankung](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjFkYzBDdjB6ZVNkYnQ2bEtIb2dlU21jT281d0NiN0JpT084VXpXM19tTkNENVpwTl9WS2c2eXlPS0pHR241Z0hkWVpSVHNLdHV6Y2RYNGVtYWlGWk9RZDJYdG5oY0lfdmtQVlJTNU81VXBEbDA5bU96M184dHhlVw?oc=5)
+### [Ces patients avaient épuisé tous les traitements contre leur cancer : une molécule vient d'obtenir une réponse chez trois sur quatre](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcFJOc0l5TWxVb1RnME1WRDhwcHJVY2NCUjR1SUhlbVNidGhNQk1mMHJSaFlkMkx3QlZYdE1iTjJiZ3lTYzhyN3lFc0syUEk3U2o5YkR6aHNQd3pDcENUVlRJeG5TdkNhaW9xdlExaEFobGNrVVJ5ek1HRFNoLTZYWHNqNFlBdGY3Q1JBYi1RLTk0UkU5bzYtZW5KYVFkOWF6djBOT2lLbjFZWDR2WGotUUhxMEVvcFBVTC1uMmpqYjVTaGtDd09wb2NZTEtjQ0pweTVMTnV1cGJqc3VSZk83UWV0WFhfQ3Ff?oc=5)
+
+2026-08-04 <span class="news-indication-tag">cancer</span>
+
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcFJOc0l5TWxVb1RnME1WRDhwcHJVY2NCUjR1SUhlbVNidGhNQk1mMHJSaFlkMkx3QlZYdE1iTjJiZ3lTYzhyN3lFc0syUEk3U2o5YkR6aHNQd3pDcENUVlRJeG5TdkNhaW9xdlExaEFobGNrVVJ5ek1HRFNoLTZYWHNqNFlBdGY3Q1JBYi1RLTk0UkU5bzYtZW5KYVFkOWF6djBOT2lLbjFZWDR2WGotUUhxMEVvcFBVTC1uMmpqYjVTaGtDd09wb2NZTEtjQ0pweTVMTnV1cGJqc3VSZk83UWV0WFhfQ3Ff?oc=5)
+
+---
+
+### [GPs’ breast cancer guidelines ‘miss’ 95% of young women who will develop disease - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
+
+2026-08-04 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
+
+---
+
+### [Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
+
+2026-08-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
+
+---
+
+### [Miracle médical à Safed : un patient guéri d'un cancer métastatique grâce à un traitement innovant](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWZFaFJId1RqYVVqaHF4WkpReTBJTXVydjFnLVVNeEJ0b3FDbVJ3N3E3aFYtaU05N3Z1LWxybENjNElrUGNyeGI4bXJ1V2JPRVRTSzg4SnpGaE8xV2hzYVRxUUdmY05XOWZhUVF2TXVaamM2dGpzSWY0X1dMUGVHbk40amVSQTF2V09yV3dhdEhaUV9Va0FKb3g5bXpUYnlseHZ6MFh1VWUyNUFGZUtCeHVqdENpdGJjc1J0b0dqMzI0SHNGVUNCY0phQkpmSTdr?oc=5)
+
+2026-08-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[IsraJ](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWZFaFJId1RqYVVqaHF4WkpReTBJTXVydjFnLVVNeEJ0b3FDbVJ3N3E3aFYtaU05N3Z1LWxybENjNElrUGNyeGI4bXJ1V2JPRVRTSzg4SnpGaE8xV2hzYVRxUUdmY05XOWZhUVF2TXVaamM2dGpzSWY0X1dMUGVHbk40amVSQTF2V09yV3dhdEhaUV9Va0FKb3g5bXpUYnlseHZ6MFh1VWUyNUFGZUtCeHVqdENpdGJjc1J0b0dqMzI0SHNGVUNCY0phQkpmSTdr?oc=5)
+
+---
+
+### [Übergewicht verursacht möglicherweise mehr als jede zehnte Krebserkrankung - Gelbe Liste](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjFkYzBDdjB6ZVNkYnQ2bEtIb2dlU21jT281d0NiN0JpT084VXpXM19tTkNENVpwTl9WS2c2eXlPS0pHR241Z0hkWVpSVHNLdHV6Y2RYNGVtYWlGWk9RZDJYdG5oY0lfdmtQVlJTNU81VXBEbDA5bU96M184dHhlVw?oc=5)
 
 2026-08-04 <span class="news-indication-tag">Krebs</span>
 
-來源：[gelbe-liste.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjFkYzBDdjB6ZVNkYnQ2bEtIb2dlU21jT281d0NiN0JpT084VXpXM19tTkNENVpwTl9WS2c2eXlPS0pHR241Z0hkWVpSVHNLdHV6Y2RYNGVtYWlGWk9RZDJYdG5oY0lfdmtQVlJTNU81VXBEbDA5bU96M184dHhlVw?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjFkYzBDdjB6ZVNkYnQ2bEtIb2dlU21jT281d0NiN0JpT084VXpXM19tTkNENVpwTl9WS2c2eXlPS0pHR241Z0hkWVpSVHNLdHV6Y2RYNGVtYWlGWk9RZDJYdG5oY0lfdmtQVlJTNU81VXBEbDA5bU96M184dHhlVw?oc=5)
 
 ---
 
@@ -78,19 +110,27 @@ permalink: /news/tecovirimat/
 
 ---
 
-### [Brigitte, 61 ans, atteinte d’un cancer du côlon : « Je crains le regard des autres par rapport à la maladie »](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzFqclpaZi1aWlpBaHVHa184LXRJaUdjMmU3M3Fkd1luM1BCV1hkMU5qNnBFRUtJT3owbDlNdXdBOW9iZ085VmN0bThpTmZCcTF5QWZSNGg4VHF5VExad2ZaZWVyMmlpN0hUZ01MR1NKelJMNldCWkxDMlF5NUhiV3dVZzRWOU54RlBMcTRaX0xBVXJ1Tk1vMjU3aXJYUVNWdVBoX1V2OVkyckhrQUk3YnNsZDZVaFAweGpheXlMa2FpZkFhUGhaRERwcVh4QlI1REZnR2MtaFdpNGJ1MHc?oc=5)
+### [Prostata, lo screening può salvare vite. Ma il PSA da solo non basta](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU5aZ3l1NXlGMTJoOC0ySjdHblBtdlF6WEZhaXlCVkdGdFoySjhLRHBvbmpaWlpaZTdxSHViUzNkSkNnNTNhS1hpVWxzbm5ENndLODBYUi1rRWxyWmZhM0xSelJ6eEFwcERjdC1qLUxWSGUwbnZMb3ZVZHFjN1gxcFFKdnZsdXZTRndyMzZ5em9fSnQwbm9rTWQ2Q2FfYV8zalpVSy1NamRWNjg3OS14Y25LbE1lYS1n?oc=5)
 
-2026-08-04 <span class="news-indication-tag">cancer</span>
+2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzFqclpaZi1aWlpBaHVHa184LXRJaUdjMmU3M3Fkd1luM1BCV1hkMU5qNnBFRUtJT3owbDlNdXdBOW9iZ085VmN0bThpTmZCcTF5QWZSNGg4VHF5VExad2ZaZWVyMmlpN0hUZ01MR1NKelJMNldCWkxDMlF5NUhiV3dVZzRWOU54RlBMcTRaX0xBVXJ1Tk1vMjU3aXJYUVNWdVBoX1V2OVkyckhrQUk3YnNsZDZVaFAweGpheXlMa2FpZkFhUGhaRERwcVh4QlI1REZnR2MtaFdpNGJ1MHc?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU5aZ3l1NXlGMTJoOC0ySjdHblBtdlF6WEZhaXlCVkdGdFoySjhLRHBvbmpaWlpaZTdxSHViUzNkSkNnNTNhS1hpVWxzbm5ENndLODBYUi1rRWxyWmZhM0xSelJ6eEFwcERjdC1qLUxWSGUwbnZMb3ZVZHFjN1gxcFFKdnZsdXZTRndyMzZ5em9fSnQwbm9rTWQ2Q2FfYV8zalpVSy1NamRWNjg3OS14Y25LbE1lYS1n?oc=5)
 
 ---
 
-### [Krebs: Diese Methode soll die Diagnose bei Brustkrebs entscheidend verbessern](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
+### [Arginina: l’amminoacido che può spegnere il radar contro virus e tumori](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVlTalY0c2hXNWdKOGJqamt2aDRoRi1ocXNJRThIeGMxQ1VER0RoZGdLT25qTDFSeUtZems1bTlaRWoyS2hmRU1aZDRZbnFveHZfVEFpMzRVb2UwQnRmOVAtdExDM01wMGlmMUR1eW1sbnVzWURTYS1hTFRfUjNGam1YX2VNdjNBcUoteTZ5MTdZWVVBMnpTb3lhRDVybzk4ajBDRlVUNWFlUzVSREhrQUhhYUlZX0NtU2d2RTZKTTVnMGJyWS01Sw?oc=5)
 
-2026-08-04 <span class="news-indication-tag">Krebs</span>
+2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVlTalY0c2hXNWdKOGJqamt2aDRoRi1ocXNJRThIeGMxQ1VER0RoZGdLT25qTDFSeUtZems1bTlaRWoyS2hmRU1aZDRZbnFveHZfVEFpMzRVb2UwQnRmOVAtdExDM01wMGlmMUR1eW1sbnVzWURTYS1hTFRfUjNGam1YX2VNdjNBcUoteTZ5MTdZWVVBMnpTb3lhRDVybzk4ajBDRlVUNWFlUzVSREhrQUhhYUlZX0NtU2d2RTZKTTVnMGJyWS01Sw?oc=5)
+
+---
+
+### [‘Viking gene’ cancer risk testing to be rolled out across Scotland](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTR4UTNNbnIxd09aUzJoSE9oQXExcGJGYW9Jc3pUbWRKWnlxU1Z3eGxVemxBMDFGalpVS04yOTlHczBfWkNWU3lYM1NNWWFfbExrYzdOcTZ1SmZ2Z25VNWRzdDBPVnBoY2piWk5ULTNENGp0THA2LWxERTJjdl9TYVh3UWxhbE5wM2tpV2pUQnA0TXJYbjlsXw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[news.stv.tv](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTR4UTNNbnIxd09aUzJoSE9oQXExcGJGYW9Jc3pUbWRKWnlxU1Z3eGxVemxBMDFGalpVS04yOTlHczBfWkNWU3lYM1NNWWFfbExrYzdOcTZ1SmZ2Z25VNWRzdDBPVnBoY2piWk5ULTNENGp0THA2LWxERTJjdl9TYVh3UWxhbE5wM2tpV2pUQnA0TXJYbjlsXw?oc=5)
 
 ---
 
@@ -102,11 +142,11 @@ permalink: /news/tecovirimat/
 
 ---
 
-### [GPs’ breast cancer guidelines ‘miss’ 95% of women who will develop disease - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
+### [Brigitte, 61 ans, atteinte d’un cancer du côlon : « Je crains le regard des autres par rapport à la maladie »](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzFqclpaZi1aWlpBaHVHa184LXRJaUdjMmU3M3Fkd1luM1BCV1hkMU5qNnBFRUtJT3owbDlNdXdBOW9iZ085VmN0bThpTmZCcTF5QWZSNGg4VHF5VExad2ZaZWVyMmlpN0hUZ01MR1NKelJMNldCWkxDMlF5NUhiV3dVZzRWOU54RlBMcTRaX0xBVXJ1Tk1vMjU3aXJYUVNWdVBoX1V2OVkyckhrQUk3YnNsZDZVaFAweGpheXlMa2FpZkFhUGhaRERwcVh4QlI1REZnR2MtaFdpNGJ1MHc?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cancer</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTzFqclpaZi1aWlpBaHVHa184LXRJaUdjMmU3M3Fkd1luM1BCV1hkMU5qNnBFRUtJT3owbDlNdXdBOW9iZ085VmN0bThpTmZCcTF5QWZSNGg4VHF5VExad2ZaZWVyMmlpN0hUZ01MR1NKelJMNldCWkxDMlF5NUhiV3dVZzRWOU54RlBMcTRaX0xBVXJ1Tk1vMjU3aXJYUVNWdVBoX1V2OVkyckhrQUk3YnNsZDZVaFAweGpheXlMa2FpZkFhUGhaRERwcVh4QlI1REZnR2MtaFdpNGJ1MHc?oc=5)
 
 ---
 
@@ -142,27 +182,11 @@ permalink: /news/tecovirimat/
 
 ---
 
-### [Regelmäßig Kaffee trinken: Studie zeigt Auswirkungen auf deinen Körper](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmhXOUdiSXJOSkQ1TnpyaWJKSld1cHFoZGZRZ1B1ZF9lWHBPRF84aDlHR1FybEdPU2VuWGhPakdCWWZwMnI5bFBJNnpxZDZ5c3RPUWJuU0dyQ3NPM0ZZc2pxaGZpZ0FhMHFBbjNjVW5QTGVkU1BiczhvSjliN25sYmI0TTNVblNfajdvOXVUMmpBQm1ZVWdHamR0Uk9UNlZSanY5bUJzS0h3SmxiU0NLbU93QlczSWNRMTA4ZFNhNVJNNWxyci1OTnI2Q0c?oc=5)
+### [Santé. Cancer du poumon : pourquoi touche-t-il de plus en plus les non-fumeurs ? - Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjRBU1NKdk1YOGFuRlRpTWVtNFFxWkRQUndSTFB5ajhmc2ZjZVJ1UFRBTzRuSlFGVHAzX1lVQ2hHR0g1amJLM0FIMzM2YUQ4QmQwa0lNR1NUR3hOMHhMcFRmZ2FwYmhwSXJENko5LW4zTDF6VWwwdDBGNnljajRvd2hCVTVMcnRMMElrN2ZPNjU2c2lnc2pwNXN4dXZPNnBYZTBMajFpdUJNSTZiOWNIZVM5NlhJZTZyMWN5NA?oc=5)
 
-2026-08-03 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-08-03 <span class="news-indication-tag">cancer</span>
 
-來源：[futurezone.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbmhXOUdiSXJOSkQ1TnpyaWJKSld1cHFoZGZRZ1B1ZF9lWHBPRF84aDlHR1FybEdPU2VuWGhPakdCWWZwMnI5bFBJNnpxZDZ5c3RPUWJuU0dyQ3NPM0ZZc2pxaGZpZ0FhMHFBbjNjVW5QTGVkU1BiczhvSjliN25sYmI0TTNVblNfajdvOXVUMmpBQm1ZVWdHamR0Uk9UNlZSanY5bUJzS0h3SmxiU0NLbU93QlczSWNRMTA4ZFNhNVJNNWxyci1OTnI2Q0c?oc=5)
-
----
-
-### [Krebs: Ein Kampf gegen Windmühlen?](https://news.google.com/rss/articles/CBMid0FVX3lxTE5xcEcxaElTdjRoNTFTcjUtRTZqUjZYRkZxZTFHa2xZOUoydXJ2OENtOWo0dDk1dldXSjhFbm9hckdpdkc5TzVXZTA0VmVrbnNfM3lkbU9iei1SY0t4RWJDS2VMV1BMZ1ZzVF9abjFHcDJqOUdSR0Zv?oc=5)
-
-2026-08-03 <span class="news-indication-tag">Krebs</span>
-
-來源：[DiePresse.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5xcEcxaElTdjRoNTFTcjUtRTZqUjZYRkZxZTFHa2xZOUoydXJ2OENtOWo0dDk1dldXSjhFbm9hckdpdkc5TzVXZTA0VmVrbnNfM3lkbU9iei1SY0t4RWJDS2VMV1BMZ1ZzVF9abjFHcDJqOUdSR0Zv?oc=5)
-
----
-
-### [Moins de protéines pour mieux vieillir, selon une nouvelle étude](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXlpNFhtOVVGSm1UMDVNaTNvcTk4RXBDWFMxb0FSN0tQMXJMRU15d2NLNnFQRG1kem9xNkVsSXVjb3RMX3NLaldEN3BwUG9Pb25DLUI3SG1lLXV3bU5NdXl0aFZncHZsR2U0TTh1djZreFNKTjZ5TUN6UlhtS01SWmxBSjhvdTVGRmtqVXpVTkVGODhPaHcwYkpBdkR3X1ltcV9MeWNjbw?oc=5)
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjRBU1NKdk1YOGFuRlRpTWVtNFFxWkRQUndSTFB5ajhmc2ZjZVJ1UFRBTzRuSlFGVHAzX1lVQ2hHR0g1amJLM0FIMzM2YUQ4QmQwa0lNR1NUR3hOMHhMcFRmZ2FwYmhwSXJENko5LW4zTDF6VWwwdDBGNnljajRvd2hCVTVMcnRMMElrN2ZPNjU2c2lnc2pwNXN4dXZPNnBYZTBMajFpdUJNSTZiOWNIZVM5NlhJZTZyMWN5NA?oc=5)
 
 ---
 
@@ -214,14 +238,6 @@ permalink: /news/tecovirimat/
 
 ---
 
-### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
-
-2026-08-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
-
----
-
 ### [Vitamina D e tumori della pelle: quanto sole serve davvero?](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1Y2YlBJOUtNRkRnQ0YxanJnTnZSLU5yamVFRklFMDVGMGdOaGFFMzhNWGJKQWllUWw1S2R4QWZ1ZmhJb2Z0OXZnMmVnX2hhazJpU2JiNWZTQWs3bVQtOGZtWkM1bFFRNkZUYnVNMnlMWmZqbTd4VFFjUWwyeUNuaDZHLXJXUkVVVTRQQ0FuNUxQb3hrYm5NMUZKVGpvbmdqREk2TE44b2dvcy1n?oc=5)
 
 2026-08-02 <span class="news-indication-tag">tumor</span>
@@ -230,27 +246,11 @@ permalink: /news/tecovirimat/
 
 ---
 
-### [La vita vince: salvate mamma e bambina dal tumore](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkVMclllZTJSLWxqQVNxU08ybXJCdEtWcUdZVGdlZWdIUjZ2cFJsTG9CamZrX2w4RElIWWo5RlBRX0ZPVTZqd1FuQ1NBb3VHaUw1cUw2SUxyVlhZc1E0YV9Na3JXVTZtREpseUJGa3hxdzg2Q1lSeWp1blpVWWV2ZjVXREdGQU05dEJaS2hxcEM5bHVKOGc5RWYwS1RPckZEd2xEcHR6eUJoQQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Polesine24](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkVMclllZTJSLWxqQVNxU08ybXJCdEtWcUdZVGdlZWdIUjZ2cFJsTG9CamZrX2w4RElIWWo5RlBRX0ZPVTZqd1FuQ1NBb3VHaUw1cUw2SUxyVlhZc1E0YV9Na3JXVTZtREpseUJGa3hxdzg2Q1lSeWp1blpVWWV2ZjVXREdGQU05dEJaS2hxcEM5bHVKOGc5RWYwS1RPckZEd2xEcHR6eUJoQQ?oc=5)
-
----
-
 ### [Così lo zucchero alto potrebbe alimentare il tumore del fegato](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1dNVHFwcmVxbHZVbFZkOTZSTWkwcjZRVFRYeWhjV2VlTFlKNWdmUDRhcHQweEVMSHU4WXRfcmdpV21pVWVpWWNiTFh3QWMwaFlNNFlMNWdkUmtfVktJZG9wcl9CRHBqUl9xdDhKa29vNU9wUWxiTGRaVnVva0lUbkxsVW1PdG8wUkVzUm1rLTdLQ0xVWklhRTVETlZseTVmMi1HT1E3RGR5VG0yem1uS2cyVkZ5SkpUVVdiNGdhYw?oc=5)
 
 2026-08-02 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1dNVHFwcmVxbHZVbFZkOTZSTWkwcjZRVFRYeWhjV2VlTFlKNWdmUDRhcHQweEVMSHU4WXRfcmdpV21pVWVpWWNiTFh3QWMwaFlNNFlMNWdkUmtfVktJZG9wcl9CRHBqUl9xdDhKa29vNU9wUWxiTGRaVnVva0lUbkxsVW1PdG8wUkVzUm1rLTdLQ0xVWklhRTVETlZseTVmMi1HT1E3RGR5VG0yem1uS2cyVkZ5SkpUVVdiNGdhYw?oc=5)
-
----
-
-### [Tumore del polmone, parte la nuova era dello screening: chi può fare la TAC che salva la vita](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZVhKQUpCMTE5OFBIc245UFFTWndwVF83NzNVaWJ4ZzlCelFFb2FOaWFIQTNPVXFSdjhaM2Rkb293dWJRRXlZOGxSbmVRbTlSS1JEUDlNZGlIandEc2RERkF4Um0zNVVxXzY5a1N4X2tRLWJZdVBDTXRrb2h6Q0NXODNEdU95bHZHOUtCRzRRVGxfWG9heElwS3pBRjZzOVRHb2NwTlo2TVZHVUxqNldtU3MwRkY2Y2dCOWVvb0t0akxKd2ZDdmQ0RVowYVFfTy1ndXJrUTJaRXpZdw?oc=5)
-
-2026-08-02 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZVhKQUpCMTE5OFBIc245UFFTWndwVF83NzNVaWJ4ZzlCelFFb2FOaWFIQTNPVXFSdjhaM2Rkb293dWJRRXlZOGxSbmVRbTlSS1JEUDlNZGlIandEc2RERkF4Um0zNVVxXzY5a1N4X2tRLWJZdVBDTXRrb2h6Q0NXODNEdU95bHZHOUtCRzRRVGxfWG9heElwS3pBRjZzOVRHb2NwTlo2TVZHVUxqNldtU3MwRkY2Y2dCOWVvb0t0akxKd2ZDdmQ0RVowYVFfTy1ndXJrUTJaRXpZdw?oc=5)
 
 ---
 
