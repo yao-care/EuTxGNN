@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Why your brain isn’t safe: what governments must urgently change about dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+
+2026-08-04
+
+來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+
+---
 
 ### [Dementia patients to block quarter of NHS beds - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
 
@@ -59,22 +67,6 @@ permalink: /news/alzheimer-disease/
 2026-08-03
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
-
----
-
-### [GLP-1 drugs like Ozempic might help clear Alzheimer's disease plaques, new review suggests](https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3dNOWRWZjVXVk80UVlHQ083VGFYNU5XRTc4MGdlSEFlanlUeDNBTG1iTUZ6RW4tX2M1eklaaTFXbTFyMUxaS19iRjlqWkNWalNId3ZITHRVbVlISzl0bFQ1NHdLcm1WVjkxRy0zSWdvUkR5OGhZSjRYLUV5UnVmY1VKLWlCVW9ZTTMwQ25Gb29oa0JzbzU4bmhHUUNZU3VMeE9ZdjMwNDRGbTZxWEFfSUw1Yw?oc=5)
-
-2026-08-02
-
-來源：[PsyPost](https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3dNOWRWZjVXVk80UVlHQ083VGFYNU5XRTc4MGdlSEFlanlUeDNBTG1iTUZ6RW4tX2M1eklaaTFXbTFyMUxaS19iRjlqWkNWalNId3ZITHRVbVlISzl0bFQ1NHdLcm1WVjkxRy0zSWdvUkR5OGhZSjRYLUV5UnVmY1VKLWlCVW9ZTTMwQ25Gb29oa0JzbzU4bmhHUUNZU3VMeE9ZdjMwNDRGbTZxWEFfSUw1Yw?oc=5)
-
----
-
-### [Scientists Discover the Brain May Enter a New Biological Phase Between 50 and 75](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFE0aTZtajNVbWJET21RWTFHWGR5TlEtUHFCNE96U2d2aVRWRklLaF9tMzd5eVZ4OVNSRHRIcU1yd09URHlUMy12bXpObEhQM0NsenhISm1lMlFmVU5BSGZ0N1dKTEFyX202YUFTcEtqbkJGUmNWVjBTa0cxT0lIdEd1UTEybklnZkpWMTcxemJYeC1TeUlCMFhhN0UwdWU2alRzOHBMZUxGZw?oc=5)
-
-2026-08-02
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFE0aTZtajNVbWJET21RWTFHWGR5TlEtUHFCNE96U2d2aVRWRklLaF9tMzd5eVZ4OVNSRHRIcU1yd09URHlUMy12bXpObEhQM0NsenhISm1lMlFmVU5BSGZ0N1dKTEFyX202YUFTcEtqbkJGUmNWVjBTa0cxT0lIdEd1UTEybklnZkpWMTcxemJYeC1TeUlCMFhhN0UwdWU2alRzOHBMZUxGZw?oc=5)
 
 ---
 

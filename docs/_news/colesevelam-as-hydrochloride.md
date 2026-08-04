@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
+
+### [Calcium Scores May Refine Risk Estimate and Statin Decisions](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
+
+2026-08-04 <span class="news-indication-tag">heart disease</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
+
+---
 
 ### [Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
 
@@ -62,27 +70,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
-
----
-
-### [Ballaststoffe: Harvard-Studie belegt 34% Diabetes-Risiko-Senkung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
-
-2026-08-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFI0TzQ3T3YtVUZMSjk1SVNWS1M0eUdnZGZsTTg3NnhCNHlCdXAxYTg1SHpKQTNYanRXTXRCak5JNVJXMVZXYW4yRFFWY1p6STd4OFcxbHMxY2ZKREFDRDl2dXVsSzh6dHJzMVY1eHNzQ1BHNmRQVEJLSnNzR2lSQklCc3hza1l1MnFtTGlYT0ptN3JRSHJoMFZ2REJmcUZzdllIbTlVUGJQNHN0WXlNQUJ4aGdCRmpWOU1r?oc=5)
-
----
-
-### [La diabetes también amenaza a los implantes dentales: un estudio revela por qué el control glucémico es decisivo](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
-
-2026-08-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVkVJZXVpVGgwTng1V0d5Q1BuSXBncmZ0eEtiblJTbjh3ZzF6OFRJSkhhY0xhWWRtQlpZM1R5bnE2LS04cldVaFRUZ0w0RS1DYVBxNmN4LVp5c0JWaE1mWW8xYXAyMUtHbUh3MHN3TmRPWEZSRXhrdFp0WDkzSnprbnZGTTBpTG1NcTlSLU8xRzNSQ19xdU1qQy0teUV0N3ltSWUxM0diV05odWNsd05OQ2hiOEl1OGNnblJJNHZQNGJqZUFhMzJhaG16NHN3bVF0bmVRNkk5YmFhemJHSmlwQkFpalZtc1l5cmVHdXNvS2VwdjR0WkpmdA?oc=5)
+來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
 ---
 
@@ -94,19 +86,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Mapean por primera vez el desarrollo del páncreas infantil para anticipar el riesgo de diabetes](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQlFvVEJlRWczTElPUHp4Nmg4eU4wVGtuaERYMXVqUXYtRUZ4RnZQczNqQWwtUEU1Sl9wZWltM0ZNYkQzdmZVUjdSdUZaRTY0Z1pDRk9nVnBTbjJMd1VmdnVjcDdyQ2YwaWpyZlNoRVdMLWF4Zi02Y0xXbEpKZEo0ajdsMzFMSzhLc0t6OHJ2dkE0Y0FaZW5Yel8zMzNXN0hwVGdqM1dNSlVlYjVDMWxZQXN3LVdRNHAwRTRHMWNoOHFRNmg2QXhvVHBsWW9GMTB6NWFqaUpIUUVTS2cyamNaak5uQjZmalE?oc=5)
+### [Ballaststoffe und KI im Mikrobiom: Diabetesrisiko sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWZ5UVU4djBvOEJJd085WnplMjJjc0FlUGk1b2tScTR2RVBkNDdmQXptVV9xUEp0T0VJRnFyWEEyVGJaeklRT0N4Vm9ZR3Z3TjRFMjVnQ2NCY2RWV0I5aHM5UU9nOUp0alJSNWQ5MUpobXpBZUdNWkxrYWFkNU91WnpvTGR5QklaVnBLVEZHWW5GZ1NaRVVVT2FOSQ?oc=5)
 
-2026-08-03 <span class="news-indication-tag">diabetes</span>
+2026-08-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQlFvVEJlRWczTElPUHp4Nmg4eU4wVGtuaERYMXVqUXYtRUZ4RnZQczNqQWwtUEU1Sl9wZWltM0ZNYkQzdmZVUjdSdUZaRTY0Z1pDRk9nVnBTbjJMd1VmdnVjcDdyQ2YwaWpyZlNoRVdMLWF4Zi02Y0xXbEpKZEo0ajdsMzFMSzhLc0t6OHJ2dkE0Y0FaZW5Yel8zMzNXN0hwVGdqM1dNSlVlYjVDMWxZQXN3LVdRNHAwRTRHMWNoOHFRNmg2QXhvVHBsWW9GMTB6NWFqaUpIUUVTS2cyamNaak5uQjZmalE?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWZ5UVU4djBvOEJJd085WnplMjJjc0FlUGk1b2tScTR2RVBkNDdmQXptVV9xUEp0T0VJRnFyWEEyVGJaeklRT0N4Vm9ZR3Z3TjRFMjVnQ2NCY2RWV0I5aHM5UU9nOUp0alJSNWQ5MUpobXpBZUdNWkxrYWFkNU91WnpvTGR5QklaVnBLVEZHWW5GZ1NaRVVVT2FOSQ?oc=5)
 
 ---
 
-### [GLP-1-Rezeptoragonisten könnten Frakturrisiko bei Erwachsenen mit Diabetes reduzieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
+### [GLP-1-Rezeptoragonisten könnten Frakturrisiko bei Erwachsenen mit Diabetes reduzieren – News](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
 
 2026-08-03 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [Welt-Aids-Konferenz schlägt Alarm: Drastische Kürzungen von Hilfsgeldern](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZrM0FwaEtkcHhDYmVWa2U2RDhVbTlmcE1Zekk4aXNaVHNnMVhHalBCTE0tbnhGaEJ2ZGRfSjJlbzl6akdzSV9GY3k3NkJuYWEtcE5SQlFZNTBjLXB0cHlDRzI4UkEtZDdTLUpQd05Fd1B0WTI0cUZRVXpiMFBINzhPV09pLUwwYURwOHhNTXFLaUlKdjVfY1kycF9NNWZ6aUJCSDZaRktFdU0?oc=5)
+
+2026-08-04 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Siegessaeule.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZrM0FwaEtkcHhDYmVWa2U2RDhVbTlmcE1Zekk4aXNaVHNnMVhHalBCTE0tbnhGaEJ2ZGRfSjJlbzl6akdzSV9GY3k3NkJuYWEtcE5SQlFZNTBjLXB0cHlDRzI4UkEtZDdTLUpQd05Fd1B0WTI0cUZRVXpiMFBINzhPV09pLUwwYURwOHhNTXFLaUlKdjVfY1kycF9NNWZ6aUJCSDZaRktFdU0?oc=5)
+
+---
+
+### [José Abellán, cardiólogo: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+---
 
 ### [HBV in Deutschland: Fallzahlen sinken, Impflücken bleiben - Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
 
@@ -91,14 +107,6 @@ permalink: /news/givosiran/
 2026-08-03 <span class="news-indication-tag">hepatitis</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
-
----
-
-### [HIV-Mittelkürzungen gefährden Jahrzehnte an Fortschritt, warnen Experten](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
-
-2026-08-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
 
 ---
 

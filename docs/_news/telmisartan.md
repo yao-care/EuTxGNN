@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+### [Calcium Scores May Refine Risk Estimate and Statin Decisions](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
+
+2026-08-04 <span class="news-indication-tag">heart disease</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
+
+---
+
+### [José Abellán, cardiólogo: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+---
+
+### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/telmisartan/
 2026-08-04 <span class="news-indication-tag">hipertensión</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
-
----
-
-### [«Credevo che mio figlio facesse lo sciocco, poi la diagnosi: a tre anni ha avuto otto mini ictus»](https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FYeGFWWUw1bEF4OE9aT3BESXRSUTk0Y2s1bnVNdGdCUjdXN1BPZXdKS3JCMFhrOHJ2c2xlNXlqZ2ViaHJaU09ZaFN5cUFaNlVxNlVpQm4tYm12TVhVNzg2ZmVOUUNhUktENjFpQnNNWTduTW95MWJhT2dzOWpBQ0k4X1JFNUEzLUxTNkwyVmEyRndodG1sWGx30gGEAUFVX3lxTFBvbDZJandPTWNwdlBsZGhkc3VXYjV3Y1E4SDRSYjlRUUI3Umd3V1JlaWVsLXdzbXRzNldJcElNcDFJeVh5TTF0SjU3VVFQd1lpRzh2NjEwVUFyWXB4a3haenEtczNUX3NQMk9sRmFQMXlIQmVGMThkRHp3dVJWdEJrQXdBaA?oc=5)
-
-2026-08-03 <span class="news-indication-tag">ictus</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FYeGFWWUw1bEF4OE9aT3BESXRSUTk0Y2s1bnVNdGdCUjdXN1BPZXdKS3JCMFhrOHJ2c2xlNXlqZ2ViaHJaU09ZaFN5cUFaNlVxNlVpQm4tYm12TVhVNzg2ZmVOUUNhUktENjFpQnNNWTduTW95MWJhT2dzOWpBQ0k4X1JFNUEzLUxTNkwyVmEyRndodG1sWGx30gGEAUFVX3lxTFBvbDZJandPTWNwdlBsZGhkc3VXYjV3Y1E4SDRSYjlRUUI3Umd3V1JlaWVsLXdzbXRzNldJcElNcDFJeVh5TTF0SjU3VVFQd1lpRzh2NjEwVUFyWXB4a3haenEtczNUX3NQMk9sRmFQMXlIQmVGMThkRHp3dVJWdEJrQXdBaA?oc=5)
 
 ---
 

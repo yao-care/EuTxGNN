@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
-### [La OMS ve "prometedores" avances en vacunas y tratamientos contra el brote de ébola en la RDC - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0VQOG53eEhPeW82ZDY4Z3RqUlp0MmxINF9iVWJraDYzQi1DWVdveUMyMUJSSmJVYlJQM0tqczE1WmtWXzkyLWZUSVFUcHdHQjlPYW5VZnpvbFh6UVdraDNJNng5WnktbmVXMG0wWTRMTVpXend2aWNqZWFFUmFQZWYxaVFFQ2JrcnVB?oc=5)
+### [La OMS pide más apoyo para enfrentar la epidemia de ébola en RD Congo - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmpkTkhTdmdYejVpRHIteXRWMFpmME5JajRYX1RpT3d4QTJWTjJRUEU3SGFnU2l1cmxCdGhjOWJqOERkbWlJUTZNMzA3djdZNV9uUEwyUTFmZjNLYTVxNXF0dENFUGxaYlpUMVcwOEpqbGNkT0l3S3NNdW1HMkljV1dmTW9BTlhZcnJ6U3VXQ1FpR3VoUWtOYXdtNTIycU0yVGEzSFEzTUluelpoT1E3QmphQWJlYi1tUzMyQTZBUERBZ2FxNEpJVGJmVkQ?oc=5)
 
-2026-08-04 <span class="news-indication-tag">MS</span>
+2026-08-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0VQOG53eEhPeW82ZDY4Z3RqUlp0MmxINF9iVWJraDYzQi1DWVdveUMyMUJSSmJVYlJQM0tqczE1WmtWXzkyLWZUSVFUcHdHQjlPYW5VZnpvbFh6UVdraDNJNng5WnktbmVXMG0wWTRMTVpXend2aWNqZWFFUmFQZWYxaVFFQ2JrcnVB?oc=5)
+來源：[France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmpkTkhTdmdYejVpRHIteXRWMFpmME5JajRYX1RpT3d4QTJWTjJRUEU3SGFnU2l1cmxCdGhjOWJqOERkbWlJUTZNMzA3djdZNV9uUEwyUTFmZjNLYTVxNXF0dENFUGxaYlpUMVcwOEpqbGNkT0l3S3NNdW1HMkljV1dmTW9BTlhZcnJ6U3VXQ1FpR3VoUWtOYXdtNTIycU0yVGEzSFEzTUluelpoT1E3QmphQWJlYi1tUzMyQTZBUERBZ2FxNEpJVGJmVkQ?oc=5)
 
 ---
 
-### [Blutmarker zeigt schubunabhängige Progression bei Multipler Sklerose an](https://news.google.com/rss/articles/CBMingFBVV95cUxNOUs5RXlrb0ZtOXhrOG9aa1Q1NHpOUjVlU2V3ZWZlWDMzSHYwLTNibnh3TXJ3Zk1qVG5TeXdkUFp2eS1JU0RGR01sUFZaVVhNUHM2RTY0WTZEeWhpNXZrYUI5ci1vejI2eFNXUXdvTlNseGlfTVZiSm1hMzdCRUgyVlFBakRfN0dxNnVjeWp0cGxmWVlMU2hEU3ZlckQ0dw?oc=5)
+### [Sclérose en plaques : un biomarqueur pour suivre son évolution](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
 
 2026-08-04 <span class="news-indication-tag">MS</span>
 
-來源：[MedLabPortal](https://news.google.com/rss/articles/CBMingFBVV95cUxNOUs5RXlrb0ZtOXhrOG9aa1Q1NHpOUjVlU2V3ZWZlWDMzSHYwLTNibnh3TXJ3Zk1qVG5TeXdkUFp2eS1JU0RGR01sUFZaVVhNUHM2RTY0WTZEeWhpNXZrYUI5ci1vejI2eFNXUXdvTlNseGlfTVZiSm1hMzdCRUgyVlFBakRfN0dxNnVjeWp0cGxmWVlMU2hEU3ZlckQ0dw?oc=5)
+來源：[rts.ch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
+
+---
+
+### [Brotes verdes en la vacuna contra el ébola: "Vamos a hacer lo posible por acelerar plazos" - Redacción médica](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2hLWnhCRVlIQ0ZhYWFMQUhWejRaQVpFQkUyMldNaHZ0Skk4Rmh1OFZuaEZLVk1CU3daaUw1eFdMYXZ4RnJjeXpzUFlJNldvT3BSa284RFpfMjFLR09tVmg5RllJY1RqdUpvYXlrWnpCS3VJYW41WUJYNUxUSkt4U3Ywc0hMMkwtMEZtMmtGSWxkcWFfNXd4ZTE3WU16T1dsRklBRzFmVlc1cUp5NkdXLTluMHdoS3pJd0gyME1PYmp0ODZ6c2tVWFVtd3I2MzJTc1BQUGh3NmdJRkh6YUNLcEJoVTJBWVk0bVJkX1lLZ2xSOXBXZUHSAfsBQVVfeXFMUFYteGdMeGdQTnctUExxbG9MeHpMa09scm5HYnlUYmJoYjBPQmVCdjk3LWxNeTdIbDNpUFp5anlQdWxPSk1aX3QwQTJzUWdKcnN2Zml5RFk4Wm8waV8zZjdoWmV5U2JDcVAtdUlqWmFQR1Q3R3lNT3NwQlp4ZzMxWUN2VDl5Y295b2hQdlZMejk0QUMydWQ4OHFFczRuODF0Nm5qMGNoQkpROGxOY3pWN0ZXNEdocWkwRkwwZWdBT3Qxc2tPakc3YWdkcDhkMEt0Z09uekszWmhaZWhyTkl0RW5NWmYwbl9oYnFjQ1RRRE1VdktWY1A1bEQtR2M?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2hLWnhCRVlIQ0ZhYWFMQUhWejRaQVpFQkUyMldNaHZ0Skk4Rmh1OFZuaEZLVk1CU3daaUw1eFdMYXZ4RnJjeXpzUFlJNldvT3BSa284RFpfMjFLR09tVmg5RllJY1RqdUpvYXlrWnpCS3VJYW41WUJYNUxUSkt4U3Ywc0hMMkwtMEZtMmtGSWxkcWFfNXd4ZTE3WU16T1dsRklBRzFmVlc1cUp5NkdXLTluMHdoS3pJd0gyME1PYmp0ODZ6c2tVWFVtd3I2MzJTc1BQUGh3NmdJRkh6YUNLcEJoVTJBWVk0bVJkX1lLZ2xSOXBXZUHSAfsBQVVfeXFMUFYteGdMeGdQTnctUExxbG9MeHpMa09scm5HYnlUYmJoYjBPQmVCdjk3LWxNeTdIbDNpUFp5anlQdWxPSk1aX3QwQTJzUWdKcnN2Zml5RFk4Wm8waV8zZjdoWmV5U2JDcVAtdUlqWmFQR1Q3R3lNT3NwQlp4ZzMxWUN2VDl5Y295b2hQdlZMejk0QUMydWQ4OHFFczRuODF0Nm5qMGNoQkpROGxOY3pWN0ZXNEdocWkwRkwwZWdBT3Qxc2tPakc3YWdkcDhkMEt0Z09uekszWmhaZWhyTkl0RW5NWmYwbl9oYnFjQ1RRRE1VdktWY1A1bEQtR2M?oc=5)
+
+---
+
+### [Protein macht stummes Fortschreiten von Multipler Sklerose sichtbar](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjkxbUxNRUsxMWh5Zk5BbUk1S3pDXzBwRTEtZ01hUVFsRi1QbXQwZTVGOGZWZGZiUFUtZEdZRFFLWFBKTW4tRDJ2eVkzNkhqNEdKUWJqUldhT0lDWHJicWtkWjNLOW54VXVlMkhtMnV1MFhnMFJhNTFTVGZFMXZFZ0pxbzYzZ0NtaW1mYUM2LUJNbkxGTFg2X2dPV2NaY2U0RUYxblBnV1JIalppMkVVYVV3?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Watson](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjkxbUxNRUsxMWh5Zk5BbUk1S3pDXzBwRTEtZ01hUVFsRi1QbXQwZTVGOGZWZGZiUFUtZEdZRFFLWFBKTW4tRDJ2eVkzNkhqNEdKUWJqUldhT0lDWHJicWtkWjNLOW54VXVlMkhtMnV1MFhnMFJhNTFTVGZFMXZFZ0pxbzYzZ0NtaW1mYUM2LUJNbkxGTFg2X2dPV2NaY2U0RUYxblBnV1JIalppMkVVYVV3?oc=5)
 
 ---
 
@@ -74,7 +90,7 @@ permalink: /news/interferon-beta-1a/
 
 2026-08-04 <span class="news-indication-tag">sclerosi multipla</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5)
 
 ---
 
@@ -94,19 +110,27 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [La OMS alerta del mal uso de los agonistas GLP-1 para adelgazar que se venden por internet - La Voz de Galicia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmJaYkdGUGFTemliS2RNVUJrbWFlalJpMDB4WW95OXBVbzlTYXFPM1ZrWEFGWkJEcDVWdzFHbGJQS1l4RXNtbTF6UWwtcDY3SlJBNWNBSFUwZWpuOThqVUFGS0FCX0ZrV0RfZ1MwMEhnMDZ4RmVTb2Nkb09MREZVOHdtSWU5TThHbldmYi1qOEdnNlB3WEp0VkVPUnhwSC1mZHQ3ZnJleHJnUTBXOV9UMDNNN0VTWjRBZlliT3JVektQeGx0YVJ5SG1sTVdLQ2c2SVZSMlhwUGR2QdIB9gFBVV95cUxQbFB3akRGUFpqdmpaT3dDRHp2UElwSnNGNUpLLXpBeS0wdVgwS2FpV1Nrb0Q0NUNGZFVyRmQyb3pHWE4yRkpiYzg0QXFUNHBUQmlkc3kwOFIxXzJoMEs2NkF4YjAyX0JxS00yMktSQ0o4REgtWkhjd3dwNXNpOHlFaE51Yl9HTkpONjJtVzI1NTRSNE9UMlU4MkdDQ3hNS2tpM3M4RFNpRzJxVEs0V0kyUGEzRnZEcndvNVkzazU0N0VKQWFMcmpJVm9LMkVXeGRfU3laeFFFOURUMVg2TjhzUmlhalRFN2VBMEI0a2Y5c0RhZTd0TGc?oc=5)
+### [Ebola en RDC: la propagation du virus aurait débuté dès le mois de janvier, selon une étude](https://news.google.com/rss/articles/CBMi4gFBVV95cUxONkxSVk5Cb3J4MDRySllNNWI2amdBSDI2QXlZSU54alZvZzhTMU1kOG0yZXB0RndWMF90M25CODNPb2dmbnphNnlobWFseWlvOTVLWkIwMndHR0loMFFwemtrOTVTbDhNQWNEMzN2YU1pbFRrLUxDZGRXb0wwWDdvXzBkOUx0VEdOUERmZnNOTzk4VUxQUkFPd3BUdEFwYWF4cG9QRDNiS3RXamdUYi1lZ0ttYzlnRVVBSjNXblZKZmhJQk1qYXZocks3N3JNWEpGZk5KNERFcWptMkZjNVB6TVl3?oc=5)
 
-2026-08-04 <span class="news-indication-tag">MS</span>
+2026-08-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmJaYkdGUGFTemliS2RNVUJrbWFlalJpMDB4WW95OXBVbzlTYXFPM1ZrWEFGWkJEcDVWdzFHbGJQS1l4RXNtbTF6UWwtcDY3SlJBNWNBSFUwZWpuOThqVUFGS0FCX0ZrV0RfZ1MwMEhnMDZ4RmVTb2Nkb09MREZVOHdtSWU5TThHbldmYi1qOEdnNlB3WEp0VkVPUnhwSC1mZHQ3ZnJleHJnUTBXOV9UMDNNN0VTWjRBZlliT3JVektQeGx0YVJ5SG1sTVdLQ2c2SVZSMlhwUGR2QdIB9gFBVV95cUxQbFB3akRGUFpqdmpaT3dDRHp2UElwSnNGNUpLLXpBeS0wdVgwS2FpV1Nrb0Q0NUNGZFVyRmQyb3pHWE4yRkpiYzg0QXFUNHBUQmlkc3kwOFIxXzJoMEs2NkF4YjAyX0JxS00yMktSQ0o4REgtWkhjd3dwNXNpOHlFaE51Yl9HTkpONjJtVzI1NTRSNE9UMlU4MkdDQ3hNS2tpM3M4RFNpRzJxVEs0V0kyUGEzRnZEcndvNVkzazU0N0VKQWFMcmpJVm9LMkVXeGRfU3laeFFFOURUMVg2TjhzUmlhalRFN2VBMEI0a2Y5c0RhZTd0TGc?oc=5)
+來源：[RFI](https://news.google.com/rss/articles/CBMi4gFBVV95cUxONkxSVk5Cb3J4MDRySllNNWI2amdBSDI2QXlZSU54alZvZzhTMU1kOG0yZXB0RndWMF90M25CODNPb2dmbnphNnlobWFseWlvOTVLWkIwMndHR0loMFFwemtrOTVTbDhNQWNEMzN2YU1pbFRrLUxDZGRXb0wwWDdvXzBkOUx0VEdOUERmZnNOTzk4VUxQUkFPd3BUdEFwYWF4cG9QRDNiS3RXamdUYi1lZ0ttYzlnRVVBSjNXblZKZmhJQk1qYXZocks3N3JNWEpGZk5KNERFcWptMkZjNVB6TVl3?oc=5)
 
 ---
 
-### [Once-a-week workout matches effects of working out three times a week for cutting belly fat - GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YckJpTUlYZ0hUX3ppcHR0Yk80QVBqTVBNRUhYQjhuUEdNYWdINGVjUlZ2TDludzBBWnE1eVJuV3RQSlBCMHMyZkI5T0h0VXY1TFlJaTI2TWp5OWllSVNmNVpKQVVYVmRpVjVYZmtMMWdLV1pZTkxRRU5UdEhlTk0?oc=5)
+### [Sclerosi multipla, un esame del sangue può svelare se la malattia avanza in silenzio](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBoSXItMWs5WklvMVQ3ZV9OUUt6eFBBdzNXTDBRVG1fYmlESTZwRktNWi1nLUVfc3VtRkNGVW5YVFV1d0hDMGp5Y1A1Q1UzWEl3ZXBCdm14NTRBV0pwWHVKU1l5aWx3YUFObWhqbndZMlhrUTJrX0J2eHczcHBrMFFaeEVhNmpQRVFwZGxNRUVNNzVxenZ1ZndyWEdINXEwWXBJQ2tuaUpTSUVTckxPQ2xPZktvbGFfNU03a1ViamlmUkhXS0YxQmxoSC1Tc3g2ZElIV0kwSGx2c1E?oc=5)
 
-2026-08-03 <span class="news-indication-tag">MS</span>
+2026-08-04 <span class="news-indication-tag">sclerosi multipla</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YckJpTUlYZ0hUX3ppcHR0Yk80QVBqTVBNRUhYQjhuUEdNYWdINGVjUlZ2TDludzBBWnE1eVJuV3RQSlBCMHMyZkI5T0h0VXY1TFlJaTI2TWp5OWllSVNmNVpKQVVYVmRpVjVYZmtMMWdLV1pZTkxRRU5UdEhlTk0?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBoSXItMWs5WklvMVQ3ZV9OUUt6eFBBdzNXTDBRVG1fYmlESTZwRktNWi1nLUVfc3VtRkNGVW5YVFV1d0hDMGp5Y1A1Q1UzWEl3ZXBCdm14NTRBV0pwWHVKU1l5aWx3YUFObWhqbndZMlhrUTJrX0J2eHczcHBrMFFaeEVhNmpQRVFwZGxNRUVNNzVxenZ1ZndyWEdINXEwWXBJQ2tuaUpTSUVTckxPQ2xPZktvbGFfNU03a1ViamlmUkhXS0YxQmxoSC1Tc3g2ZElIV0kwSGx2c1E?oc=5)
+
+---
+
+### [RCGP responds after former president quoted as saying ADHD is ‘not a medical condition’ - Pulse Today](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTNva3RqUXRoLUZ3eDR3R0pjbmE2MU5XNFZVSGt2ZmVxekVjaHhIckdCR1JnQ1R5b2d3d19pd0s5NVVJWGtlbkZoZ0s1a1FqVjhkYTJDOGZhMzVjMG90ZVVDZllCaUpMZDFQNHdldkVxVVM5Y280OURfNHJVdkJqQ05SSUVNMkpKWW1sVWhzR1NPN0N5UzB1UjJvZXV3RkktOHN3VFlCNmROVTFBQVBEVHdUeV9HNnpQYW04SjNqamJtc3pHREhXMUxXVEtHMmt4UC1RSzBMRGRadVdybHc?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Pulse Today](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTNva3RqUXRoLUZ3eDR3R0pjbmE2MU5XNFZVSGt2ZmVxekVjaHhIckdCR1JnQ1R5b2d3d19pd0s5NVVJWGtlbkZoZ0s1a1FqVjhkYTJDOGZhMzVjMG90ZVVDZllCaUpMZDFQNHdldkVxVVM5Y280OURfNHJVdkJqQ05SSUVNMkpKWW1sVWhzR1NPN0N5UzB1UjJvZXV3RkktOHN3VFlCNmROVTFBQVBEVHdUeV9HNnpQYW04SjNqamJtc3pHREhXMUxXVEtHMmt4UC1RSzBMRGRadVdybHc?oc=5)
 
 ---
 
@@ -115,30 +139,6 @@ permalink: /news/interferon-beta-1a/
 2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
-
----
-
-### [Starke Entzündungsreaktionen auf unbekannten immunologischen Regelkreis zurückzuführen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNLWNLVWVKdDdPX2VzeHhjc29BNF85OFJIc2QtdFJqak9CVk02RlVyZGZ3Y2hwYTVpaEMyQVA3N3VxcTBLalYwd3Nraw?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNLWNLVWVKdDdPX2VzeHhjc29BNF85OFJIc2QtdFJqak9CVk02RlVyZGZ3Y2hwYTVpaEMyQVA3N3VxcTBLalYwd3Nraw?oc=5)
-
----
-
-### [Los expertos coinciden: comer conservas de pescado varias veces por semana es el truco más asequible para cuidar el corazón](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1JpNkF2X3lKUU9LX0ROb2RfbENrQlRIUF9lblRRNlhlQ1JBZTc2d1VNelRER1N6dXpwWnF5Y05CRllOcXZ1SUlWemExcG05UTgwM3pCMndLYkZDQUtPeVZqNFhHV1FBdVFJQzNyUE4xUGZMWXJzM0hiOWZQTmNqanlIWVhGeDFHVEdTcTJTcEpMcy0yX2w0UWJMMHh5SjNiMG5NamMwUnpUdi1PNEt0V0ZuYlV4M1poeV9ITDZmRmtQbEJPS19qbnZ1UW9UMllzRzBiQ0VVUXdSNlnSAeABQVVfeXFMTWpSQzA4MzRJVXJUdnp4M0lnTzZ1WmNvZ1l3bTRoQXV2TFJkdnNUNkNIbTZyaWhuZlpvZy1JeXpSbERYaWh1TDZTQTZzRENrWVFLZmlaUENjQk1uZ3ZXVUlQTlJUTE9LZU5YWV9hWVNsMUF2eTFaUW1aamlaWW1LVlNNNzBCc0FldERLbno3TUNuVnBid3VXZkM0SnR1c3dKZC1QNVM1UjgyUHB0LU02TUVxcEVNMXZSTnh0bmZ3WWFVTUxRcWVucVFTTkszX1dGeWg1eU94bFhnRV9qNlJsN0U?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span>
-
-來源：[cronicaglobal.elespanol.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1JpNkF2X3lKUU9LX0ROb2RfbENrQlRIUF9lblRRNlhlQ1JBZTc2d1VNelRER1N6dXpwWnF5Y05CRllOcXZ1SUlWemExcG05UTgwM3pCMndLYkZDQUtPeVZqNFhHV1FBdVFJQzNyUE4xUGZMWXJzM0hiOWZQTmNqanlIWVhGeDFHVEdTcTJTcEpMcy0yX2w0UWJMMHh5SjNiMG5NamMwUnpUdi1PNEt0V0ZuYlV4M1poeV9ITDZmRmtQbEJPS19qbnZ1UW9UMllzRzBiQ0VVUXdSNlnSAeABQVVfeXFMTWpSQzA4MzRJVXJUdnp4M0lnTzZ1WmNvZ1l3bTRoQXV2TFJkdnNUNkNIbTZyaWhuZlpvZy1JeXpSbERYaWh1TDZTQTZzRENrWVFLZmlaUENjQk1uZ3ZXVUlQTlJUTE9LZU5YWV9hWVNsMUF2eTFaUW1aamlaWW1LVlNNNzBCc0FldERLbno3TUNuVnBid3VXZkM0SnR1c3dKZC1QNVM1UjgyUHB0LU02TUVxcEVNMXZSTnh0bmZ3WWFVTUxRcWVucVFTTkszX1dGeWg1eU94bFhnRV9qNlJsN0U?oc=5)
-
----
-
-### [Les entraîneurs sont unanimes : "Marcher 1 heure par jour, 7 jours sur 7, à un rythme tranquille, permet de brûler 75 000 calories par an"](https://news.google.com/rss/articles/CBMiigJBVV95cUxPazFabzF1Rmt3Z2ZrQ3RVbzBvYU0tNzVZdk4wN1B5bHZOOFQxVjV0dVZEeXpMRU1wM0xBLW9rbVlybnlacjl2eXlTU2phZXZ6YnVDRC1NeU9fSGd4LUhxa2J0ZHZIS0hJamVqZDhfdlpodjEyR2Y1SkZDN3FaYVdZbGpHbkZKR1ZpSEZvNmhCZmx2cGFGQlNwb29mOE9HZDBlNHk0STczX2k0QUpRQnUxaXFTcVNOcDl4ZjBnUDNXOHV6SWcyT1dPUHJlTTAxSXduY1NoWTRTVUZidWwtMHE3ZjJxVlFHX1hOakh1X3dCbkxxUWVtSnE3RDdvY1hfcjBlemZoeDhmSl84QQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">dépression</span> <span class="news-indication-tag">MS</span>
-
-來源：[linternaute.com](https://news.google.com/rss/articles/CBMiigJBVV95cUxPazFabzF1Rmt3Z2ZrQ3RVbzBvYU0tNzVZdk4wN1B5bHZOOFQxVjV0dVZEeXpMRU1wM0xBLW9rbVlybnlacjl2eXlTU2phZXZ6YnVDRC1NeU9fSGd4LUhxa2J0ZHZIS0hJamVqZDhfdlpodjEyR2Y1SkZDN3FaYVdZbGpHbkZKR1ZpSEZvNmhCZmx2cGFGQlNwb29mOE9HZDBlNHk0STczX2k0QUpRQnUxaXFTcVNOcDl4ZjBnUDNXOHV6SWcyT1dPUHJlTTAxSXduY1NoWTRTVUZidWwtMHE3ZjJxVlFHX1hOakh1X3dCbkxxUWVtSnE3RDdvY1hfcjBlemZoeDhmSl84QQ?oc=5)
 
 ---
 
@@ -155,6 +155,14 @@ permalink: /news/interferon-beta-1a/
 2026-08-03 <span class="news-indication-tag">MS</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMU5WNWZKUFJnUkljQ2Y5RVZaMU5VZ0NtY0d5VXA5LVRXUVRRSEtMb1R5QWpFY29JeXNpYmhmU2tFaHBRQWIwSFFYN1otZy12QTRIbmROY3lmUjZf?oc=5)
+
+---
+
+### [Los recortes en fondos para el VIH ponen en riesgo décadas de avances, alertan expertos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
 ---
 

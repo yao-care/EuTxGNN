@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [José Abellán, cardiólogo: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+---
 
 ### [Farmaci anti-obesità: un algoritmo aiuta i medici a trovare quello più adatto - Corriere della Sera](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS1cxQmJTLTZJSS1YY2QtTmlKYklNaFZzMEYtS1pHaUdWbDRNSUtvaWdoYmZZZFQwMzh6amlqN2ZXcERwQTQzLTN0S25DenVHNzExR3c2ODNOMVNMYk9jbFljdzJvRElYc1RpTFZfWC0yLWhZYk1aamFaWkhqOXYxeGowTjJtSnNZRlg1Sk1zNUZfaGgzaTVCYlRrUG82dzhQeko5QWtURklFSXNNYzMzVnFteTJVdHkyU00xSHF6dl9UMTB6SjhkOGtiWl9pU0dhT3BEeVo4b1B3REIxMGhDVTgtaDh1d1ZUc3NaVHd5MzgzV3BwMFHSAfsBQVVfeXFMTkFvMHlYTWlmQmVuZXMtbTQzSmlhT3E1QUJ1WVFfT3c1SkJxdjUwLUQ2VGpuWU5sSWhxRENlMEVoVDlITVV0b01Ta2lsQkR2VkhJdjhBc1lRZUk2dGh1bGc5Ykw4ZlhWbllLTzB1VW01Q1hwZW94VkdZc1UtVWFMN2h4a3NuNmVmeXAxR2dteDBlazF2TXNsSWpkRFduWjM5WmtjVFJ1WE9fS3RnekFqSzdiYmZieXFuei15OENlaGxSdGtZQVlOdUtrZVRLclNxLUhhOFZydUdKNWtZb1JZTEJNWUlFeEI0MVJHSVN1RWViSDRZYkFIcTRhdzA?oc=5)
 
@@ -62,19 +70,19 @@ permalink: /news/orlistat/
 
 ---
 
-### [«Credevo che mio figlio facesse lo sciocco, poi la diagnosi: a tre anni ha avuto otto mini ictus»](https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FYeGFWWUw1bEF4OE9aT3BESXRSUTk0Y2s1bnVNdGdCUjdXN1BPZXdKS3JCMFhrOHJ2c2xlNXlqZ2ViaHJaU09ZaFN5cUFaNlVxNlVpQm4tYm12TVhVNzg2ZmVOUUNhUktENjFpQnNNWTduTW95MWJhT2dzOWpBQ0k4X1JFNUEzLUxTNkwyVmEyRndodG1sWGx30gGEAUFVX3lxTFBvbDZJandPTWNwdlBsZGhkc3VXYjV3Y1E4SDRSYjlRUUI3Umd3V1JlaWVsLXdzbXRzNldJcElNcDFJeVh5TTF0SjU3VVFQd1lpRzh2NjEwVUFyWXB4a3haenEtczNUX3NQMk9sRmFQMXlIQmVGMThkRHp3dVJWdEJrQXdBaA?oc=5)
-
-2026-08-03 <span class="news-indication-tag">ictus</span>
-
-來源：[Leggo.it](https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FYeGFWWUw1bEF4OE9aT3BESXRSUTk0Y2s1bnVNdGdCUjdXN1BPZXdKS3JCMFhrOHJ2c2xlNXlqZ2ViaHJaU09ZaFN5cUFaNlVxNlVpQm4tYm12TVhVNzg2ZmVOUUNhUktENjFpQnNNWTduTW95MWJhT2dzOWpBQ0k4X1JFNUEzLUxTNkwyVmEyRndodG1sWGx30gGEAUFVX3lxTFBvbDZJandPTWNwdlBsZGhkc3VXYjV3Y1E4SDRSYjlRUUI3Umd3V1JlaWVsLXdzbXRzNldJcElNcDFJeVh5TTF0SjU3VVFQd1lpRzh2NjEwVUFyWXB4a3haenEtczNUX3NQMk9sRmFQMXlIQmVGMThkRHp3dVJWdEJrQXdBaA?oc=5)
-
----
-
 ### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación - Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 2026-08-03 <span class="news-indication-tag">obesidad</span>
 
 來源：[Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
+
+---
+
+### [Ballaststoffe und KI im Mikrobiom: Diabetesrisiko sinkt deutlich - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWZ5UVU4djBvOEJJd085WnplMjJjc0FlUGk1b2tScTR2RVBkNDdmQXptVV9xUEp0T0VJRnFyWEEyVGJaeklRT0N4Vm9ZR3Z3TjRFMjVnQ2NCY2RWV0I5aHM5UU9nOUp0alJSNWQ5MUpobXpBZUdNWkxrYWFkNU91WnpvTGR5QklaVnBLVEZHWW5GZ1NaRVVVT2FOSQ?oc=5)
+
+2026-08-03 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWZ5UVU4djBvOEJJd085WnplMjJjc0FlUGk1b2tScTR2RVBkNDdmQXptVV9xUEp0T0VJRnFyWEEyVGJaeklRT0N4Vm9ZR3Z3TjRFMjVnQ2NCY2RWV0I5aHM5UU9nOUp0alJSNWQ5MUpobXpBZUdNWkxrYWFkNU91WnpvTGR5QklaVnBLVEZHWW5GZ1NaRVVVT2FOSQ?oc=5)
 
 ---
 

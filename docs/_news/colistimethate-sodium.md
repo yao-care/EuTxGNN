@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [José Abellán, cardiólogo: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+2026-08-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
+
+來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+
+---
 
 ### [Las mujeres que tienen la menopausia de forma precoz tienen un mayor riesgo de desarrollar hipertensión arterial - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
 

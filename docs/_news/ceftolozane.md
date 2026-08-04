@@ -14,7 +14,7 @@ permalink: /news/ceftolozane/
 ---
 
 <p class="key-answer" data-question="Ceftolozane 有什麼相關新聞？">
-<strong>Ceftolozane</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ceftolozane</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ceftolozane/
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Bauernhof-Effekt: Studie identifiziert neun Bakterien für Allergieschutz - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
+
+2026-08-04 <span class="news-indication-tag">asthma</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
+
+---
 
 ### [Fettleber: Drastisch erhöhtes Risiko für tödliche Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
 
@@ -62,11 +70,11 @@ permalink: /news/ceftolozane/
 
 ---
 
-### [Neun Bakterienarten, die bei Kindern einen „Schutzschild“ gegen Allergien bilden, wurden in einem Kuhstall entdeckt.](https://news.google.com/rss/articles/CBMingFBVV95cUxNWnp4UGFKT0FpdEdfNkMxcnp5ZkhlZ0VEd0g5WWdRTXNXaHYwaDJaT3pPYTRYU0kxYm9xbldjR1ZxNDVidG9wWXB1cEV5c2JjVzFLQnF5OVFCWnZaY2NndmgtbzdiTW4tTnZqQkR5RzNqUEFudl9XN01EWkNaQzl6cDlPUFVBMjhOVXYwTnR0blZRd0VSSzBIeTRGZUJsZw?oc=5)
+### [Studie zu schwerem Asthma bei Kindern: drei Entzündungsmechanismen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
 
 2026-08-03 <span class="news-indication-tag">asthma</span>
 
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxNWnp4UGFKT0FpdEdfNkMxcnp5ZkhlZ0VEd0g5WWdRTXNXaHYwaDJaT3pPYTRYU0kxYm9xbldjR1ZxNDVidG9wWXB1cEV5c2JjVzFLQnF5OVFCWnZaY2NndmgtbzdiTW4tTnZqQkR5RzNqUEFudl9XN01EWkNaQzl6cDlPUFVBMjhOVXYwTnR0blZRd0VSSzBIeTRGZUJsZw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
 
 ---
 
