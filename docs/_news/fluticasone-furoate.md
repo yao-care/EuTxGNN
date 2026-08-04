@@ -62,11 +62,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [Asthma bei Kindern: Studie identifiziert drei Entzündungsmechanismen](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+### [Asthma bei Kindern: Studie identifiziert drei Entzündungsmechanismen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
 
 2026-08-03 <span class="news-indication-tag">asthma</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXdrdHdGTWRucGxBMWFjYmFxMFFHbXB1TmpiU3ZGMklocFdPb0hoRTlQalhIa051OUxITGpMR2twM1RhZnFEN0NuNU4xYi1rOGpuZ0Y1US1McnFCSk9OTlNZYnMtNUtsa1Y3Nk1TSGx5V3hJNGpDQklKcHlQQlRsaWd6OXF2MmZHalpPelNHZ3E3bE1QWG5Lek1CUDhSTnZwZTJuWEhJOFBuMFhXWWxaYWR4b2FzdVFm?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### [COPD: Neue Leitlinien zeigen, wie Ernährung Atemnot lindert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
+### [COPD: Neue Leitlinien zeigen, wie Ernährung Atemnot lindert - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
 
 2026-08-02 <span class="news-indication-tag">copd</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3ZwZ3luZkVVSE9MNHB3T0ZYa2dPd3dfSDR3LWFvblZLc3pvVmlJYlozX0IyaEZ2Q1pHVXdxNW5pZS1tUWpkci0xRzcyemRTYkc0VE5vcWRTQk41dzQ2bGZEUVY3RUtlR0tiTmtLdXJkX1hHU2NCdG80M1JJaHU1Y0w4akFMX0lLY0lNcFdzODdVaVdXX0ZOVG51bEEtM2lrTFRzdG9USVpBNDA?oc=5)
 
 ---
 

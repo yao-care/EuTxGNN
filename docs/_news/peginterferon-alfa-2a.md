@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="Peginterferon Alfa-2A 有什麼相關新聞？">
-<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Peginterferon Alfa-2A</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/peginterferon-alfa-2a/
 <p><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
 ### [Studie verortet Fibromyalgie im Nervensystem](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOU4wSVlTSE5UZ1ZHM2lwZFB2c0gwbkU4LS1ELWRMY3UwRW1XaTNDSlA5X2xjanRKMzNETXdDT1ludm5ERXlNaERoRWNLc2lsVWRqelkzVGVJUG1IcHNyaUhPNmNDcGFKR1RLZjJOUkVVMXF3Y0ZocTJNWVRKWnFCV0FJYXdWTVBmY0FOQ1piLTdYNEJ0RDY2YVRQbU10NGhzelp1c0xWOEh1RDRWVDJN?oc=5)
 
@@ -78,19 +78,19 @@ permalink: /news/peginterferon-alfa-2a/
 
 ---
 
-### [Australia warns H5N1 likely to spread after first mass mortality episode](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1kc3p4R3hzQmRJS1NRY1ZVYmFfZVJSc0JISUdPSlZicXJPbU9TamZIV2FuMmp3T0piYlI5aFVyOUowRFBxS3V2RXhyYS1ObVBGbzlQbVpRU2VEZ3lsLXBfLWdoSTh5MVFyMXRoeHVfZUoxWHl3OTRWaXlEc3JzZ2YybDFUMGFEZm5BSEM0eVlLV1JMNjRreHNybl9xeXZLLV9kY3B1ZlBfTjEwUDg1MTh30gG3AUFVX3lxTE13bzNJRi13YXNxSDktUFNuOFNEb25rQnZlVG0zRFMyZFBEclpoQzhLVXFGNHZPWHJldzNTTnVhbU0zcU0yak5lbzB0UFpoMko3Smh5YVlERWJJWDF3SkJWajNFZ3d0TzRDbTBiZGRPaXE2Nnc3anM3YkVfbjM3aHJjOWVrN2ZmRmY3TFZIcXdZZlJ6THhtVGd5bExhanozZGx6NzJwN1JvejNnbFduaFZERkdhaFRxMA?oc=5)
+### [Uso inapropiado de agonistas GLP‑1 en personas sin obesidad: alerta de comités asesores de la OMS - La Web de la Salud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBybmRpc1FoY0dZeGtKNjgyS1hDTUZhbE53Tkcyc3c3V3hCUlk2blVRMHZ5Rm5YRnNzT1BLQ2xQMGpodmljRm9nRko0dXMyYzBSdjZBQ3AwZDVXVEtqNFliM3ljSklsaGpjOUE?oc=5)
 
-2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-03 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-來源：[aljazeera.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk1kc3p4R3hzQmRJS1NRY1ZVYmFfZVJSc0JISUdPSlZicXJPbU9TamZIV2FuMmp3T0piYlI5aFVyOUowRFBxS3V2RXhyYS1ObVBGbzlQbVpRU2VEZ3lsLXBfLWdoSTh5MVFyMXRoeHVfZUoxWHl3OTRWaXlEc3JzZ2YybDFUMGFEZm5BSEM0eVlLV1JMNjRreHNybl9xeXZLLV9kY3B1ZlBfTjEwUDg1MTh30gG3AUFVX3lxTE13bzNJRi13YXNxSDktUFNuOFNEb25rQnZlVG0zRFMyZFBEclpoQzhLVXFGNHZPWHJldzNTTnVhbU0zcU0yak5lbzB0UFpoMko3Smh5YVlERWJJWDF3SkJWajNFZ3d0TzRDbTBiZGRPaXE2Nnc3anM3YkVfbjM3aHJjOWVrN2ZmRmY3TFZIcXdZZlJ6THhtVGd5bExhanozZGx6NzJwN1JvejNnbFduaFZERkdhaFRxMA?oc=5)
+來源：[La Web de la Salud](https://news.google.com/rss/articles/CBMiakFVX3lxTFBybmRpc1FoY0dZeGtKNjgyS1hDTUZhbE53Tkcyc3c3V3hCUlk2blVRMHZ5Rm5YRnNzT1BLQ2xQMGpodmljRm9nRko0dXMyYzBSdjZBQ3AwZDVXVEtqNFliM3ljSklsaGpjOUE?oc=5)
 
 ---
 
-### [Sanidad refuerza la vigilancia de mosquitos con la ciencia ciudadana de Mosquito Alert](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWNpWUNmRGRfdnhXeEl1SUhXajZSQWRJdk5SYnFyUUxGRFdxdUVORTYzZTlxQlpvRGJlVERBdTJadUtNTjBYTmVoTWJiamxzOGNzcUEyd016MGZFWTV0bjQ5elc2VThDN3lxT2tMZDhUb1hXX0V0RVYwQmFPd0VkbzE4TndZR0tycDBxclJXcXFxSDhRT21IZEFvcmNHcVpmSVI2TTdOSl9yQdIBrwFBVV95cUxPc2hIZDFnaGNwVDE3WXpSbDVxd3QydGF5OVVNb2g4UHFTV1c0eDlJSm1wTXRFT0VmdXFuN2V5c0tfbGpUdzFnajdjcHNOUm5BUW9yQV95V24zakZsSjExd2Z3RGYwazBaVGtqOVg0NzROSVUxZlhaYjJITDdxc1JKT1VfYU43Y0tFTFl1cmp2T0Y3djM5dlhLY19Pc1hYZGhhODFDRXRqNG5taU9oa0l3?oc=5)
+### [When researchers followed patients recovering from spinal surgery, the ones whose rooms happened to face the sun used about a fifth less pain medication than those in dim rooms — same wound, same operation, and the main difference was which way the - Silicon Canals](https://news.google.com/rss/articles/CBMivgJBVV95cUxOV2dyUUxQMThEWXhJV2FRMnJBTXFWSlJVTWRWb05PaFVaeDZET2hUY3FMdjRtajhjQWRZWl90bFJ4eFNuZmotMUoyc3pJOGY1R1VBM01va0E5cEhXdVloN0R4Q2FhcVdWNEVJV0l5UHBUUXk0bjJZZ202SG0zOUVGYWVReGVtT2o0RlVDTVVHM0dmcVh0NHZrTHdLNFk2c3VPOWpzUFZVMHdjZ3Z4MUJFYUpiY1k3ZXloV1JOaDdCRzdRSnlZVlhaNnEzQ2h4NkF2UnM0RlM2QUdzMVM4ZUMwbk5pU3VGb28yQlRRNUlMOGxsZnFCRUFfVE1sZ1ZZNjhDUVRUUGNKT1Bic19WWnl3RV9Objc3TkJ4SVpodFdHcFhfOTBobUl3WVUxZ3pqUlNxeVhpdVAzRkhxYnVsVFE?oc=5)
 
 2026-08-03 <span class="news-indication-tag">MS</span>
 
-來源：[ecoavant.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeWNpWUNmRGRfdnhXeEl1SUhXajZSQWRJdk5SYnFyUUxGRFdxdUVORTYzZTlxQlpvRGJlVERBdTJadUtNTjBYTmVoTWJiamxzOGNzcUEyd016MGZFWTV0bjQ5elc2VThDN3lxT2tMZDhUb1hXX0V0RVYwQmFPd0VkbzE4TndZR0tycDBxclJXcXFxSDhRT21IZEFvcmNHcVpmSVI2TTdOSl9yQdIBrwFBVV95cUxPc2hIZDFnaGNwVDE3WXpSbDVxd3QydGF5OVVNb2g4UHFTV1c0eDlJSm1wTXRFT0VmdXFuN2V5c0tfbGpUdzFnajdjcHNOUm5BUW9yQV95V24zakZsSjExd2Z3RGYwazBaVGtqOVg0NzROSVUxZlhaYjJITDdxc1JKT1VfYU43Y0tFTFl1cmp2T0Y3djM5dlhLY19Pc1hYZGhhODFDRXRqNG5taU9oa0l3?oc=5)
+來源：[Silicon Canals](https://news.google.com/rss/articles/CBMivgJBVV95cUxOV2dyUUxQMThEWXhJV2FRMnJBTXFWSlJVTWRWb05PaFVaeDZET2hUY3FMdjRtajhjQWRZWl90bFJ4eFNuZmotMUoyc3pJOGY1R1VBM01va0E5cEhXdVloN0R4Q2FhcVdWNEVJV0l5UHBUUXk0bjJZZ202SG0zOUVGYWVReGVtT2o0RlVDTVVHM0dmcVh0NHZrTHdLNFk2c3VPOWpzUFZVMHdjZ3Z4MUJFYUpiY1k3ZXloV1JOaDdCRzdRSnlZVlhaNnEzQ2h4NkF2UnM0RlM2QUdzMVM4ZUMwbk5pU3VGb28yQlRRNUlMOGxsZnFCRUFfVE1sZ1ZZNjhDUVRUUGNKT1Bic19WWnl3RV9Objc3TkJ4SVpodFdHcFhfOTBobUl3WVUxZ3pqUlNxeVhpdVAzRkhxYnVsVFE?oc=5)
 
 ---
 
@@ -122,31 +122,23 @@ permalink: /news/peginterferon-alfa-2a/
 
 2026-08-03 <span class="news-indication-tag">MS</span>
 
-來源：[de.euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEdrak5LNlhPbDhfbTIzTEtoMGpjZ2ZZUmxOOGZWZm9peGVYM2RXZEwwMEhINnhCYUZRc2JnY2RncFQxdHNBRGhVN1hmRkZXQkg4WF9OOHJ1RDdrOFlwZkpxOG1DTWlRWnRUUkt5V3BIakRpQ2RDbUVSMVVmODZxRGhGZHU4VHI4aWktNF9iZW53YWVGUm1MakotTkZaR2ZNd2J4TmlWT2lSbVFrMW8yRHgzVVlWMzVk?oc=5)
 
 ---
 
-### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
+### [Los recortes en fondos para el VIH ponen en riesgo décadas de avances, alertan expertos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
-2026-08-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
-
----
-
-### [Teresa Lambe de Oxford impulsa el primer ensayo de una vacuna contra el ébola Bundibugyo](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdF9OTWhENmpCR1Vzbzg1ci1JSldsWExVcHZPMGMzT3kwaDduQ1hPdDQxQUZJRXlHel8wUDNUaTdQQ2hvUGlOemxzNmtGVzQ0MDFEamV0VHpRLXBLbFBIVmhsQzVGbjFvVEpZZnNWOGdSdXc4TDlXRExUMy1qTXZjaUp1R2EyQ3psYVAwbmp2QmdBWGJUUTBDU1pQSktzbnNPOFFXQmdJSFlYRlRiREdsdERxRVBnWXJ5VUFQa3o4c2MyZGNzMEpPZ2NvSQ?oc=5)
-
-2026-08-02 <span class="news-indication-tag">MS</span>
-
-來源：[eldiariofeminista.info](https://news.google.com/rss/articles/CBMiywFBVV95cUxNdF9OTWhENmpCR1Vzbzg1ci1JSldsWExVcHZPMGMzT3kwaDduQ1hPdDQxQUZJRXlHel8wUDNUaTdQQ2hvUGlOemxzNmtGVzQ0MDFEamV0VHpRLXBLbFBIVmhsQzVGbjFvVEpZZnNWOGdSdXc4TDlXRExUMy1qTXZjaUp1R2EyQ3psYVAwbmp2QmdBWGJUUTBDU1pQSktzbnNPOFFXQmdJSFlYRlRiREdsdERxRVBnWXJ5VUFQa3o4c2MyZGNzMEpPZ2NvSQ?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
 ---
 
-### [This once-a-week workout may help cut belly fat, study shows](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcEhRZVRPdGxFU0VoOWtmekxmYXlXTGo1NWwzVlp1VUpDcS1DM3p0bE80RElWeGhqVXlwQ3o5M01nSWNUdEhrWTJsRURwcjQ0bEhqUEFMU2M5ZlJLZ1VId3h4dVFZZWxRYUZIX1hvQQ?oc=5)
+### [Arterielle Thrombosen: Neuer Signalweg hemmt Blutgerinnsel ohne Blutungsrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
 
-2026-08-02 <span class="news-indication-tag">MS</span>
+2026-08-02 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-來源：[ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcEhRZVRPdGxFU0VoOWtmekxmYXlXTGo1NWwzVlp1VUpDcS1DM3p0bE80RElWeGhqVXlwQ3o5M01nSWNUdEhrWTJsRURwcjQ0bEhqUEFMU2M5ZlJLZ1VId3h4dVFZZWxRYUZIX1hvQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2ctZlF3TkFKbmR6RjNKWGdaLWk2ZVdlYTdFelQ3cUVCWjB2ZU82M21xMWtpallXeHFtQ0tpRTRyd1Z3dEVjLVZjS0pVMW9aV2VWSkhWRzRPdXFNdWhpbEE0ODJLYXlybFlqbDhEYXg1R0VrTERIelhGMk4xbjRYU0ZvUEtoZDJKY3VRTVZkM3N4cWVXYTU2SFhKR202bm9VQVJMMTdtR2M1TmlLSXdoYg?oc=5)
 
 ---
 

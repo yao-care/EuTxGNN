@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="Tenecteplase 有什麼相關新聞？">
-<strong>Tenecteplase</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tenecteplase</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/tenecteplase/
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Akuter ischämischer Schlaganfall: Tenecteplase kann gegenüber Alteplase den Workflow verbessern - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM2pKZHFnZHl2U0gtZVUyVGtqUjNPamZBYk5jYWt3QW9uNHM0MUtXcnYtTmMyY2pKek1ieW5hSnM5ODBjZTZFQkcyZUlObExnQUl5VHZEWkhoLTktb0FwTjdHaW4wLWdBSjgtV2ZzYjNFMjFTOFFRXzFhXzY5S2Fsc19hQ0VJdS1HLVRfeEF6Yy00M0RlemFyMTkyckVRdlJQeTRWU2E2Q29sT1o5ZUFzOGR6Z08tZEFHX1BaWHJnenQ1aFVJMWk5ZnZFTTBGYi1FVFpFQ21hWnZnNERlbXA5b2lzRFd3VGplSTU0S2wwalVCTEl5TWc?oc=5)
-
-2026-08-03 <span class="news-drug-tag">Tenecteplase</span> <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM2pKZHFnZHl2U0gtZVUyVGtqUjNPamZBYk5jYWt3QW9uNHM0MUtXcnYtTmMyY2pKek1ieW5hSnM5ODBjZTZFQkcyZUlObExnQUl5VHZEWkhoLTktb0FwTjdHaW4wLWdBSjgtV2ZzYjNFMjFTOFFRXzFhXzY5S2Fsc19hQ0VJdS1HLVRfeEF6Yy00M0RlemFyMTkyckVRdlJQeTRWU2E2Q29sT1o5ZUFzOGR6Z08tZEFHX1BaWHJnenQ1aFVJMWk5ZnZFTTBGYi1FVFpFQ21hWnZnNERlbXA5b2lzRFd3VGplSTU0S2wwalVCTEl5TWc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
