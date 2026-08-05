@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
 
 2026-08-05 <span class="news-indication-tag">copd</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
-
----
-
-### [Fettleber: Drastisch erhöhtes Risiko tödlicher Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">asma</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
 
-### [Dad left dribbling, babbling and unable to move after terrifying stroke in front of his children - Kent Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXZvenN4cmpzS2FRZkN0VktiTjZLYTIxR2R5SjR1ZnlBamdyM0xsTWcxNEtCRjdCcktuajIxUnYzc1huUzBIaHp2Wk9WMHFrVG4xOThIb3Q5RGw5bGZnRGZ2amI1alhkTHJadnRGOTdDdDcwRlduMWhqbzA2U0U4akNiZEtoWnJId0FHZWM1ZXNkRmhhX08yRHpFa3lnVGZ2dFFEMEdESXhrQjhmZ3c?oc=5)
+### [« Ce défi lancé à la boutade s’est transformé en aventure solidaire et humaine » : deux jeunes parcourent 657 kilomètres à pied entre Marseille et Dax en soutien aux victimes d’AVC et leurs proches - Sud Ouest](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdzNOTXFnWXM0MHFKbElYRzZaeTVfRDhuS1hnNy0weE9lRF8xRVBtaEJJTkZKV25ZU0wyaVlBWkFNM0FIamZtam9HTHZ3QmN6SUxzaF8yMHNEdFY2OVZKRF9VXzAxMGhMLWdWd3NPMmJXcU5YX3FsMng4TUp1N2V4MUFqM0hJVjBXX0h2Rl9wX1BDVHB3WG8ya2xGQmNVc0xZYTJkaF9LQ3Q2N0VVcnBDT3NOcHJVRmpPZFFRUUg2NnJuTFR2S24tT09Yal9xZElFX1lTbWwxVHA2bGMwNEVGOGlQa0ZLaFNrM3A1d18taE9lTnBJZ2hUcTBfOFp1RVNJS0IxY2kwWVJlSUFILUllUWJqNnA2T0MzV3dqcnR4YVZVY0dvZEc1UnF2aGF1QUhaQmtlVVpObzRWZkNFUFhsaWJPZWdTSnpHR19xTDNKSVZkSHpMaWlQZEs5b3V6cE11S0p4TkhB?oc=5)
 
-2026-08-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+2026-08-05 <span class="news-indication-tag">AVC</span>
 
-來源：[Kent Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXZvenN4cmpzS2FRZkN0VktiTjZLYTIxR2R5SjR1ZnlBamdyM0xsTWcxNEtCRjdCcktuajIxUnYzc1huUzBIaHp2Wk9WMHFrVG4xOThIb3Q5RGw5bGZnRGZ2amI1alhkTHJadnRGOTdDdDcwRlduMWhqbzA2U0U4akNiZEtoWnJId0FHZWM1ZXNkRmhhX08yRHpFa3lnVGZ2dFFEMEdESXhrQjhmZ3c?oc=5)
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdzNOTXFnWXM0MHFKbElYRzZaeTVfRDhuS1hnNy0weE9lRF8xRVBtaEJJTkZKV25ZU0wyaVlBWkFNM0FIamZtam9HTHZ3QmN6SUxzaF8yMHNEdFY2OVZKRF9VXzAxMGhMLWdWd3NPMmJXcU5YX3FsMng4TUp1N2V4MUFqM0hJVjBXX0h2Rl9wX1BDVHB3WG8ya2xGQmNVc0xZYTJkaF9LQ3Q2N0VVcnBDT3NOcHJVRmpPZFFRUUg2NnJuTFR2S24tT09Yal9xZElFX1lTbWwxVHA2bGMwNEVGOGlQa0ZLaFNrM3A1d18taE9lTnBJZ2hUcTBfOFp1RVNJS0IxY2kwWVJlSUFILUllUWJqNnA2T0MzV3dqcnR4YVZVY0dvZEc1UnF2aGF1QUhaQmtlVVpObzRWZkNFUFhsaWJPZWdTSnpHR19xTDNKSVZkSHpMaWlQZEs5b3V6cE11S0p4TkhB?oc=5)
 
 ---
 
-### [Un nuovo studio dice che il cervello ricorda il grasso. Un altro che lo ricordano le cellule. Che vi devo dire? Rinunciamo a dimagrire - il Giornale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaWN5Nzh3Z3k5cktKSXZRSGZzUjVVVkZUTHM0ekcwNDk3VWZ0ZFFoWi1QMHk4elI4NmdycVUxaTVVUVBVRHZ1TFpWSTNIWl8zU2k3YkU0S1pQN2lRNS1jTTdaSU1Cb296OFAwQ1J0TFV3OUVwR3VWSE1SMUV2QnpVUkhON1VCVDZObDVfSVZWZFpCVkVxaUpnNnFmTm84OExSY0NDd01WRDFhU2NtNks4VXhCOU4zOTdacG1SRENtSkVTcC1PNXpWZy01NGNvZXVSdFJqNWdwTnB6VVgzZExuV3RhSXVmekZhTVpLcnBTMjBReGJ5b1BYVEdJQ0NKblJNRE1yZUs4VVlEVk1rTjAya1p0SQ?oc=5)
+### [zanadio mit klinisch relevanter Gewichtsabnahme bei Patient:innen mit Adipositas und Herz-Kreislauf-Erkrankungen assoziiert](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
 
-2026-08-04 <span class="news-indication-tag">obesità</span>
+2026-08-05 <span class="news-indication-tag">Adipositas</span>
 
-來源：[il Giornale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaWN5Nzh3Z3k5cktKSXZRSGZzUjVVVkZUTHM0ekcwNDk3VWZ0ZFFoWi1QMHk4elI4NmdycVUxaTVVUVBVRHZ1TFpWSTNIWl8zU2k3YkU0S1pQN2lRNS1jTTdaSU1Cb296OFAwQ1J0TFV3OUVwR3VWSE1SMUV2QnpVUkhON1VCVDZObDVfSVZWZFpCVkVxaUpnNnFmTm84OExSY0NDd01WRDFhU2NtNks4VXhCOU4zOTdacG1SRENtSkVTcC1PNXpWZy01NGNvZXVSdFJqNWdwTnB6VVgzZExuV3RhSXVmekZhTVpLcnBTMjBReGJ5b1BYVEdJQ0NKblJNRE1yZUs4VVlEVk1rTjAya1p0SQ?oc=5)
+來源：[monitor-versorgungsforschung.de](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+
+---
+
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+
+2026-08-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+
+---
+
+### [«Cibi ultraprocessati? Non vuol dire poco salutare, alcuni sono alleati preziosi. Si può mangiare sano con un budget limitato»: i...](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
+
+2026-08-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
 
 ---
 

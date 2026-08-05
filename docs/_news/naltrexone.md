@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="Naltrexone 有什麼相關新聞？">
-<strong>Naltrexone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Naltrexone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/naltrexone/
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Un nuovo studio dice che il cervello ricorda il grasso. Un altro che lo ricordano le cellule. Che vi devo dire? Rinunciamo a dimagrire - il Giornale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaWN5Nzh3Z3k5cktKSXZRSGZzUjVVVkZUTHM0ekcwNDk3VWZ0ZFFoWi1QMHk4elI4NmdycVUxaTVVUVBVRHZ1TFpWSTNIWl8zU2k3YkU0S1pQN2lRNS1jTTdaSU1Cb296OFAwQ1J0TFV3OUVwR3VWSE1SMUV2QnpVUkhON1VCVDZObDVfSVZWZFpCVkVxaUpnNnFmTm84OExSY0NDd01WRDFhU2NtNks4VXhCOU4zOTdacG1SRENtSkVTcC1PNXpWZy01NGNvZXVSdFJqNWdwTnB6VVgzZExuV3RhSXVmekZhTVpLcnBTMjBReGJ5b1BYVEdJQ0NKblJNRE1yZUs4VVlEVk1rTjAya1p0SQ?oc=5)
+### [zanadio mit klinisch relevanter Gewichtsabnahme bei Patient:innen mit Adipositas und Herz-Kreislauf-Erkrankungen assoziiert](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
 
-2026-08-04 <span class="news-indication-tag">obesità</span>
+2026-08-05 <span class="news-indication-tag">Adipositas</span>
 
-來源：[il Giornale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaWN5Nzh3Z3k5cktKSXZRSGZzUjVVVkZUTHM0ekcwNDk3VWZ0ZFFoWi1QMHk4elI4NmdycVUxaTVVUVBVRHZ1TFpWSTNIWl8zU2k3YkU0S1pQN2lRNS1jTTdaSU1Cb296OFAwQ1J0TFV3OUVwR3VWSE1SMUV2QnpVUkhON1VCVDZObDVfSVZWZFpCVkVxaUpnNnFmTm84OExSY0NDd01WRDFhU2NtNks4VXhCOU4zOTdacG1SRENtSkVTcC1PNXpWZy01NGNvZXVSdFJqNWdwTnB6VVgzZExuV3RhSXVmekZhTVpLcnBTMjBReGJ5b1BYVEdJQ0NKblJNRE1yZUs4VVlEVk1rTjAya1p0SQ?oc=5)
+來源：[monitor-versorgungsforschung.de](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+
+---
+
+### [«Cibi ultraprocessati? Non vuol dire poco salutare, alcuni sono alleati preziosi. Si può mangiare sano con un budget limitato»: i...](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
+
+2026-08-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Leggo.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
 
 ---
 

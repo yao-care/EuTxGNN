@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asma（asthma） 相關新聞"
+title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asma（asthma） 相關新聞
+# asthma 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asthma 有什麼相關新聞？">
+<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,15 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Fettleber: Drastisch erhöhtes Risiko tödlicher Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
-2026-08-05
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 

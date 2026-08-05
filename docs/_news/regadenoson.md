@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Fettleber: Drastisch erhöhtes Risiko tödlicher Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">asma</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
----
-
-### [Personne ne comprenait pourquoi certains n'ont jamais de migraine : une étude vient de livrer un verdict qui surprend les neurologues](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
-
-2026-08-04 <span class="news-indication-tag">migraine</span>
-
-來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 

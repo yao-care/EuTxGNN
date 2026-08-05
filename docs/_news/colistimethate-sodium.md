@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+
+2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+
+---
 
 ### [Las mujeres que tienen la menopausia de forma precoz tienen un mayor riesgo de desarrollar hipertensión arterial - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
 
@@ -70,11 +78,11 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### [Demenz-Risiko Bluthochdruck und Übergewicht: 7 Tipps zum Vorbeugen](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+### [10 mmHg weniger Blutdruck: Studie sieht messbar weniger Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPM19nTklzLXBjUUVRbF84T0drdzRNX05mUTBJSVRLSlUwNGFCX1Zib21zTFdKY1NUb1VTWV9ma3FhcHNPNVktcXZRZndXWG9tbGg0UnVHT1BtNzVkWVRjUHZoWk1nX2tJYlhrekhNUGJVYTEtNFhTbDd0VHJFVUloWUtqWmZiOTRXZU9KeEJ5VktGOEUtT1BKM3FLVFQwYllB?oc=5)
 
-2026-08-03 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPM19nTklzLXBjUUVRbF84T0drdzRNX05mUTBJSVRLSlUwNGFCX1Zib21zTFdKY1NUb1VTWV9ma3FhcHNPNVktcXZRZndXWG9tbGg0UnVHT1BtNzVkWVRjUHZoWk1nX2tJYlhrekhNUGJVYTEtNFhTbDd0VHJFVUloWUtqWmZiOTRXZU9KeEJ5VktGOEUtT1BKM3FLVFQwYllB?oc=5)
 
 ---
 

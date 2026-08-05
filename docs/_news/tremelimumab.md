@@ -14,7 +14,7 @@ permalink: /news/tremelimumab/
 ---
 
 <p class="key-answer" data-question="Tremelimumab 有什麼相關新聞？">
-<strong>Tremelimumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tremelimumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tremelimumab/
 <p><a href="{{ '/drugs/tremelimumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
-
-### [Los fármacos GLP-1 se asocian con un 21% menos de riesgo de fracturas en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 

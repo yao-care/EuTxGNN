@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="Cabotegravir 有什麼相關新聞？">
-<strong>Cabotegravir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cabotegravir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/cabotegravir/
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
 ### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
 
 2026-08-05 <span class="news-indication-tag">copd</span>
 
 來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
-
----
-
-### [Los fármacos GLP-1 se asocian con un 21% menos de riesgo de fracturas en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
 
 ---
 

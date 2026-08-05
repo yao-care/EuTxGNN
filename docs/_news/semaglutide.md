@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="Semaglutide 有什麼相關新聞？">
-<strong>Semaglutide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Semaglutide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/semaglutide/
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [Los fármacos GLP-1 se asocian con un 21% menos de riesgo de fracturas en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
-
----
+## 相關新聞（7 則）
 
 ### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
@@ -99,14 +91,6 @@ permalink: /news/semaglutide/
 2026-08-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
-
----
-
-### ["Podría ralentizar procesos biológicos": un estudio advierte que Ozempic, Wegovy y otros fármacos para perder peso pueden tener efecto antienvejecimiento - Directo al Paladar](https://news.google.com/rss/articles/CBMikAJBVV95cUxNYUVxT1o3dVJPQzVnT0taVXpHd3VFYzl5MHp6dFoyLXJXaXh6UUloX094WkdKSDNmNURpMmdHMjA5d05xT1NCT2tQYng3TDVYUXZRZjZQMWVHSjBmSGlFczZKZEpYSl9aS2djc3RvQm9JRnpwWUo0NngxZFRNdlBXRXpaTTN3RDZodUhGOEEyTUFjS1ptYkpmazJGSlBaRHpVY1FTUWItRGh0dzlwczBqZUpoU2JieUFWWThubXREd2ZCMmlNSzdFaVRFU2lQcTJyWFVtMTFNQS1DZ3l6cTA4TE5SOFA0Mm1TODNtbzFUaU01cE16Y3RKS1E5Y2NKTDY4Z3BmTjBuQjdjcGM0QVh3ddIBlgJBVV95cUxNVEljUzZtOWNkaW5mX3g3bUt6Q2trXzNlTTRpSkRtV0lIU24tbzBOQ0t3bV9sWWIxRnRXcndVaU42V0pUN2pHX0ZfekRXWnFKUnA4UVNTb1NSWHZUVV8teUZORHFvaVFRNzBtOEptaVpWWHlLbmFWMV9zTTlIcTluLU5Za3pTcy1tUTdIOVQyOGhwd1lRUHNnazN2SldTOWRlU3hIWGkyRU1uQW03MUxPOThNZFplQkRodEJhLS1SYXBTdjNLbEVreXNOcW5Rd2FGaTR1NGhzcDFOQTZqdzlWc0VMcFVabENXaGZ0V0ZVcjZfN0hqU1prS19LOFhFanFNNk1FcUpFTHdfdUozX0o0cnNOcGFuZw?oc=5)
-
-2026-08-04 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMikAJBVV95cUxNYUVxT1o3dVJPQzVnT0taVXpHd3VFYzl5MHp6dFoyLXJXaXh6UUloX094WkdKSDNmNURpMmdHMjA5d05xT1NCT2tQYng3TDVYUXZRZjZQMWVHSjBmSGlFczZKZEpYSl9aS2djc3RvQm9JRnpwWUo0NngxZFRNdlBXRXpaTTN3RDZodUhGOEEyTUFjS1ptYkpmazJGSlBaRHpVY1FTUWItRGh0dzlwczBqZUpoU2JieUFWWThubXREd2ZCMmlNSzdFaVRFU2lQcTJyWFVtMTFNQS1DZ3l6cTA4TE5SOFA0Mm1TODNtbzFUaU01cE16Y3RKS1E5Y2NKTDY4Z3BmTjBuQjdjcGM0QVh3ddIBlgJBVV95cUxNVEljUzZtOWNkaW5mX3g3bUt6Q2trXzNlTTRpSkRtV0lIU24tbzBOQ0t3bV9sWWIxRnRXcndVaU42V0pUN2pHX0ZfekRXWnFKUnA4UVNTb1NSWHZUVV8teUZORHFvaVFRNzBtOEptaVpWWHlLbmFWMV9zTTlIcTluLU5Za3pTcy1tUTdIOVQyOGhwd1lRUHNnazN2SldTOWRlU3hIWGkyRU1uQW03MUxPOThNZFplQkRodEJhLS1SYXBTdjNLbEVreXNOcW5Rd2FGaTR1NGhzcDFOQTZqdzlWc0VMcFVabENXaGZ0V0ZVcjZfN0hqU1prS19LOFhFanFNNk1FcUpFTHdfdUozX0o0cnNOcGFuZw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [« Ce défi lancé à la boutade s’est transformé en aventure solidaire et humaine » : deux jeunes parcourent 657 kilomètres à pied entre Marseille et Dax en soutien aux victimes d’AVC et leurs proches - Sud Ouest](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdzNOTXFnWXM0MHFKbElYRzZaeTVfRDhuS1hnNy0weE9lRF8xRVBtaEJJTkZKV25ZU0wyaVlBWkFNM0FIamZtam9HTHZ3QmN6SUxzaF8yMHNEdFY2OVZKRF9VXzAxMGhMLWdWd3NPMmJXcU5YX3FsMng4TUp1N2V4MUFqM0hJVjBXX0h2Rl9wX1BDVHB3WG8ya2xGQmNVc0xZYTJkaF9LQ3Q2N0VVcnBDT3NOcHJVRmpPZFFRUUg2NnJuTFR2S24tT09Yal9xZElFX1lTbWwxVHA2bGMwNEVGOGlQa0ZLaFNrM3A1d18taE9lTnBJZ2hUcTBfOFp1RVNJS0IxY2kwWVJlSUFILUllUWJqNnA2T0MzV3dqcnR4YVZVY0dvZEc1UnF2aGF1QUhaQmtlVVpObzRWZkNFUFhsaWJPZWdTSnpHR19xTDNKSVZkSHpMaWlQZEs5b3V6cE11S0p4TkhB?oc=5)
+
+2026-08-05 <span class="news-indication-tag">AVC</span>
+
+來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdzNOTXFnWXM0MHFKbElYRzZaeTVfRDhuS1hnNy0weE9lRF8xRVBtaEJJTkZKV25ZU0wyaVlBWkFNM0FIamZtam9HTHZ3QmN6SUxzaF8yMHNEdFY2OVZKRF9VXzAxMGhMLWdWd3NPMmJXcU5YX3FsMng4TUp1N2V4MUFqM0hJVjBXX0h2Rl9wX1BDVHB3WG8ya2xGQmNVc0xZYTJkaF9LQ3Q2N0VVcnBDT3NOcHJVRmpPZFFRUUg2NnJuTFR2S24tT09Yal9xZElFX1lTbWwxVHA2bGMwNEVGOGlQa0ZLaFNrM3A1d18taE9lTnBJZ2hUcTBfOFp1RVNJS0IxY2kwWVJlSUFILUllUWJqNnA2T0MzV3dqcnR4YVZVY0dvZEc1UnF2aGF1QUhaQmtlVVpObzRWZkNFUFhsaWJPZWdTSnpHR19xTDNKSVZkSHpMaWlQZEs5b3V6cE11S0p4TkhB?oc=5)
+
+---
+
+### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+
+2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+
+---
+
+### [El mayor estudio genético y de resonancia magnética realizado hasta la fecha descarta la existencia de una enfermedad del corazón - Salud a Diario](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0JIV01XUWYzbmVubmJQaHJoNXdEU0s2TFBKTmVrTkozS3RxRjJhcWtfb1BBcW4zS3pQTjZWNy1adFoyOWlWWGpDOUVsSU9md2JYbjZvUzhTTm4yeWIzUnljS25SUzdTMEdnQmt3Y2hseTMtTmpNd1hidlZGTHlfakVScFBhQVBHSF8zVUZEU0haaUVvdU9NY1NuT3ZkSExpeXhnT2dMUWZNQy1XSGtJNjhSako4Z1otTFN4NHU4ZUdySk9mdGRQOS01VkxCSXJPam9VRnB5TVZJNDZiQmVBb3VobWlEdWZGTjh5ZGlJckZEeWZwWW5YMjRUaXE?oc=5)
+
+2026-08-05 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0JIV01XUWYzbmVubmJQaHJoNXdEU0s2TFBKTmVrTkozS3RxRjJhcWtfb1BBcW4zS3pQTjZWNy1adFoyOWlWWGpDOUVsSU9md2JYbjZvUzhTTm4yeWIzUnljS25SUzdTMEdnQmt3Y2hseTMtTmpNd1hidlZGTHlfakVScFBhQVBHSF8zVUZEU0haaUVvdU9NY1NuT3ZkSExpeXhnT2dMUWZNQy1XSGtJNjhSako4Z1otTFN4NHU4ZUdySk9mdGRQOS01VkxCSXJPam9VRnB5TVZJNDZiQmVBb3VobWlEdWZGTjh5ZGlJckZEeWZwWW5YMjRUaXE?oc=5)
+
+---
 
 ### [Las mujeres que tienen la menopausia de forma precoz tienen un mayor riesgo de desarrollar hipertensión arterial - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
 
@@ -62,11 +86,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Dad left dribbling, babbling and unable to move after terrifying stroke in front of his children - Kent Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXZvenN4cmpzS2FRZkN0VktiTjZLYTIxR2R5SjR1ZnlBamdyM0xsTWcxNEtCRjdCcktuajIxUnYzc1huUzBIaHp2Wk9WMHFrVG4xOThIb3Q5RGw5bGZnRGZ2amI1alhkTHJadnRGOTdDdDcwRlduMWhqbzA2U0U4akNiZEtoWnJId0FHZWM1ZXNkRmhhX08yRHpFa3lnVGZ2dFFEMEdESXhrQjhmZ3c?oc=5)
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 2026-08-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[Kent Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXZvenN4cmpzS2FRZkN0VktiTjZLYTIxR2R5SjR1ZnlBamdyM0xsTWcxNEtCRjdCcktuajIxUnYzc1huUzBIaHp2Wk9WMHFrVG4xOThIb3Q5RGw5bGZnRGZ2amI1alhkTHJadnRGOTdDdDcwRlduMWhqbzA2U0U4akNiZEtoWnJId0FHZWM1ZXNkRmhhX08yRHpFa3lnVGZ2dFFEMEdESXhrQjhmZ3c?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 ---
 
@@ -78,19 +102,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Un amplio estudio del CNIC concluye que la hipertrabeculación ventricular izquierda no es una enfermedad cardiaca](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjBtMFZ4dW0xZEhkaDNjUHhlSktsMjBxQV9ybUNEVC12aUhqdHFnSXltblJfellTOG1vUnc2bnlKeTJDN3VFQnhvckxUTS1OT3djc2lTTW8wdXlNbU42SEllSl9ZTUZjQ2JzOUs2TlNmZU44Ti1lOVBtWEZoTVg0RFNLd19ZWWdDS2hzUEhqQ3dlVmktWlo0OXl1bzhjSnVHZVVGbThaWFEzSk91U3ZEX0xuMkRtVV9ZOEVqd0VnNlRYdGZxY1pBU3RWNUU3UlVpRlhIWjVKV1BscWF6YzREd9IB5gFBVV95cUxOZXc3M0lFZ2hmY0NMa0ZyeTJyUGYwdVctOWVFa2ZXQkxRUzdMUG00UjFEZlltMmRPY25oZTI5S1EyZHJnMWVsVTJYaWhLSHBJRmVQaWNDX2pPRGhVdnY1eXpKYjlfZmtRMm1UVjNRV3VMWTB6eUpuemR2WjlYS24xYlhLaEZrWW5BQjdYZ21wYzlzWEJ2dUNQWFVBZi1fZDg0UGZtRGV6N041X1BUc0VLOXlpZjBKM3dKZHRrMU9PNGVCTVVxVjBnZE5RYzlVUmhJYzB2OU4xSTAzd1o5S2tFazlUamlOZw?oc=5)
+### [10 mmHg weniger Blutdruck: Studie sieht messbar weniger Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPM19nTklzLXBjUUVRbF84T0drdzRNX05mUTBJSVRLSlUwNGFCX1Zib21zTFdKY1NUb1VTWV9ma3FhcHNPNVktcXZRZndXWG9tbGg0UnVHT1BtNzVkWVRjUHZoWk1nX2tJYlhrekhNUGJVYTEtNFhTbDd0VHJFVUloWUtqWmZiOTRXZU9KeEJ5VktGOEUtT1BKM3FLVFQwYllB?oc=5)
 
-2026-08-04 <span class="news-indication-tag">cardiopatía</span>
+2026-08-04 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-來源：[Demócrata](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjBtMFZ4dW0xZEhkaDNjUHhlSktsMjBxQV9ybUNEVC12aUhqdHFnSXltblJfellTOG1vUnc2bnlKeTJDN3VFQnhvckxUTS1OT3djc2lTTW8wdXlNbU42SEllSl9ZTUZjQ2JzOUs2TlNmZU44Ti1lOVBtWEZoTVg0RFNLd19ZWWdDS2hzUEhqQ3dlVmktWlo0OXl1bzhjSnVHZVVGbThaWFEzSk91U3ZEX0xuMkRtVV9ZOEVqd0VnNlRYdGZxY1pBU3RWNUU3UlVpRlhIWjVKV1BscWF6YzREd9IB5gFBVV95cUxOZXc3M0lFZ2hmY0NMa0ZyeTJyUGYwdVctOWVFa2ZXQkxRUzdMUG00UjFEZlltMmRPY25oZTI5S1EyZHJnMWVsVTJYaWhLSHBJRmVQaWNDX2pPRGhVdnY1eXpKYjlfZmtRMm1UVjNRV3VMWTB6eUpuemR2WjlYS24xYlhLaEZrWW5BQjdYZ21wYzlzWEJ2dUNQWFVBZi1fZDg0UGZtRGV6N041X1BUc0VLOXlpZjBKM3dKZHRrMU9PNGVCTVVxVjBnZE5RYzlVUmhJYzB2OU4xSTAzd1o5S2tFazlUamlOZw?oc=5)
-
----
-
-### [Demenz-Risiko Bluthochdruck und Übergewicht: 7 Tipps zum Vorbeugen](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBLVNwLUhGN1VrNlhISk5nM3BwRlE2ckxSV2ZWUi1JbWRCRW5QaUt0bk5FcElHYXRoQk4xVl95WUxKN3pkLVJNeTJ0QQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxPM19nTklzLXBjUUVRbF84T0drdzRNX05mUTBJSVRLSlUwNGFCX1Zib21zTFdKY1NUb1VTWV9ma3FhcHNPNVktcXZRZndXWG9tbGg0UnVHT1BtNzVkWVRjUHZoWk1nX2tJYlhrekhNUGJVYTEtNFhTbDd0VHJFVUloWUtqWmZiOTRXZU9KeEJ5VktGOEUtT1BKM3FLVFQwYllB?oc=5)
 
 ---
 

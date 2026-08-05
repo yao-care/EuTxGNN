@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Fettleber: Drastisch erhöhtes Risiko tödlicher Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">asma</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 

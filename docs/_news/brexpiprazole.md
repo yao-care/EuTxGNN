@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Crean una aplicación para prevenir la depresión mediante seguimiento diario y apoyo personalizado](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3AtZlcxQ25nNzE1XzdaZlVYTk5NQS1LS0lrakNmeWE3b0hKaTZYVzZzUjlwV1lOTTZVTzJCNTVTeEhVamkzZG1EMUduNmNybXU0MFlnVFVXRU9GZ2g1QXhsWXh3WEx6QTN2dFFvQUg2SEwxNVp3d3pzV2Izc3ZnM09ROFhhQQ?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/brexpiprazole/
 2026-08-05 <span class="news-indication-tag">depression</span>
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeDZ5MEVjd3VGeTJaUTdVLUhtbGxRVUV3VHMwX1VxeHdaY1UzZlNuSUk2UGJwcWljQV9tTzVoTUJmTHNQLVBUT2RyQUVaNXBnRGZGMnN0amRmaklVbVgxU1ZWSHluWWt0cUllaHNYRHRGV3VycUs2cGV6YXFLVWVsMTVBSVRFbUYtWDh3SG1BZXJQSDc0MUp2TEUxODd4MXIxdmVWN2NMTHZNaHc4dWdHQUZNOWYycFBFUmhzZTczM1hqMUtxc0hWbDZCQnZPTFlENlo0?oc=5)
+
+---
+
+### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias - Andalucía Información](https://news.google.com/rss/articles/CBMijgJBVV95cUxPQUttUjdZZWNQSS1sbHE2aVJxYVpWSzRsUVd6aW53aDl0VW16VDV3VVlPUDVhMFZHSjdBbDhDVzV4UllFTVZCbm8wVk5pUHhVdUotTlFiUHIzQUFfVjViSnJPbUVYRzBqcmM4a0hHT0RrRWR3OWwzYkpSNVBqbjBSRXk5ZjVtdVdBZjhaM05pZHl5U3VzbVR0UmRscXEzTjBSaTN5cWpoMlJLcXdfSGRkZ2lhOV9GSUhZWF9kQUR4SWhvNFB5T1dReFBxWGNJVWwzMk9YMk12dGpzSXFkaWw4b0V3MDRxUWMxdWhvY0d6cEdkTlhlcUJ3QkcteWsyWm1HaGlVQllSaW1ERVZQOGfSAZMCQVVfeXFMTXhHaHN6S1QwWXFKYmJwSDhBd2dNMURPdnk2cFFNV3daU2hHQnNnS2ZEQkl2N2R3enh6cWVadWNRR19OMU50Mk1IZ3poTnR4SEgxVGhlNHlzRUpyTVdHY1hVNWRWNUpPQlpmOVY1NkJlZXZmNXY2MHNHRUhHdDVoTlVrZGNPakxoVC1QMzlNUldsdjV2UXZhTUJWblFjbUUxSnFxT1BxZ1NuNDZSdnF3QWw5MUlXanRvR24tdmhtQkZDTDR2eTNaSWdFR2p2RXdkLTdKNnozX3JqYVRucUJ1dzJHSm1Pbk5URHV2ajl5ZndoTmZWc2dwdUVVZk5xVDJYby1kdWJOdnE3b182QTlaQjhxTFk?oc=5)
+
+2026-08-03 <span class="news-indication-tag">depresión</span>
+
+來源：[Andalucía Información](https://news.google.com/rss/articles/CBMijgJBVV95cUxPQUttUjdZZWNQSS1sbHE2aVJxYVpWSzRsUVd6aW53aDl0VW16VDV3VVlPUDVhMFZHSjdBbDhDVzV4UllFTVZCbm8wVk5pUHhVdUotTlFiUHIzQUFfVjViSnJPbUVYRzBqcmM4a0hHT0RrRWR3OWwzYkpSNVBqbjBSRXk5ZjVtdVdBZjhaM05pZHl5U3VzbVR0UmRscXEzTjBSaTN5cWpoMlJLcXdfSGRkZ2lhOV9GSUhZWF9kQUR4SWhvNFB5T1dReFBxWGNJVWwzMk9YMk12dGpzSXFkaWw4b0V3MDRxUWMxdWhvY0d6cEdkTlhlcUJ3QkcteWsyWm1HaGlVQllSaW1ERVZQOGfSAZMCQVVfeXFMTXhHaHN6S1QwWXFKYmJwSDhBd2dNMURPdnk2cFFNV3daU2hHQnNnS2ZEQkl2N2R3enh6cWVadWNRR19OMU50Mk1IZ3poTnR4SEgxVGhlNHlzRUpyTVdHY1hVNWRWNUpPQlpmOVY1NkJlZXZmNXY2MHNHRUhHdDVoTlVrZGNPakxoVC1QMzlNUldsdjV2UXZhTUJWblFjbUUxSnFxT1BxZ1NuNDZSdnF3QWw5MUlXanRvR24tdmhtQkZDTDR2eTNaSWdFR2p2RXdkLTdKNnozX3JqYVRucUJ1dzJHSm1Pbk5URHV2ajl5ZndoTmZWc2dwdUVVZk5xVDJYby1kdWJOdnE3b182QTlaQjhxTFk?oc=5)
 
 ---
 

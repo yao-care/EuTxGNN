@@ -3,7 +3,7 @@ layout: default
 title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "MS（multiple sclerosis） 的相關健康新聞報導。16 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。20 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
-<strong>MS（multiple sclerosis）</strong> 目前有 <strong>16 則</strong>相關新聞報導，26 個相關藥物。
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>20 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,53 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（16 則）
-
-### [Moderna inicia ensayos de vacuna contra el ébola Bundibugyo con brote activo en Congo](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
-
-2026-08-05
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
-
----
+## 相關新聞（20 則）
 
 ### [MS: Dieses Bakterium der Darmflora kann schützen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
 
 2026-08-05
 
 來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
+
+---
+
+### [RDC: un bateau avec une suspicion d’Ebola intercepté avant son arrivée à Kinshasa](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFJ3X1d1UFFFQnhLZ1l3VDlESlU4djRYYlBfbTZsVnQ1ejB0c0Z5Slp1cHVpa3hYcjNfLXVKeVhIaEdrdUoyVndJZWtzVXo5RS1LUVRWMVlwMHUzcTNXY2p0TU5RYkg1NUFuZmFOS09wWXdTbEJrR2dxaVl2QnFheEtRVWdpcW1zQnRYOTFEQmZEbDVkMkVfbkpXMGZ1RkRQdWx3M1VKcjEteDFEQXBITnYzcXpWLUlvNS1NWlVBMDJ2UU9SdTZPTnVRYmJWTVU?oc=5)
+
+2026-08-05
+
+來源：[RFI](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFJ3X1d1UFFFQnhLZ1l3VDlESlU4djRYYlBfbTZsVnQ1ejB0c0Z5Slp1cHVpa3hYcjNfLXVKeVhIaEdrdUoyVndJZWtzVXo5RS1LUVRWMVlwMHUzcTNXY2p0TU5RYkg1NUFuZmFOS09wWXdTbEJrR2dxaVl2QnFheEtRVWdpcW1zQnRYOTFEQmZEbDVkMkVfbkpXMGZ1RkRQdWx3M1VKcjEteDFEQXBITnYzcXpWLUlvNS1NWlVBMDJ2UU9SdTZPTnVRYmJWTVU?oc=5)
+
+---
+
+### [Moderna inicia ensayos de vacuna contra el ébola Bundibugyo con brote activo en Congo](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
+
+2026-08-05
+
+來源：[es.euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
+
+---
+
+### [Two common symptoms heart attack survivors experience weeks before, according to a doctor - GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
+
+2026-08-05
+
+來源：[GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
+
+---
+
+### [Pablo Ojeda, nutricionista: «Las sardinas en conserva son uno de los alimentos más antiinflamatorios que existen»](https://news.google.com/rss/articles/CBMijwJBVV95cUxOcnQyVFBxS2pSSWl4ZWdpNmhEYXB5eTBhT0JjeUtkcW05Y0plMkJBUnlQVlFQOE9FS1ppRXI1OUdtNlB1TEROai1XeFNrbEtyMkltYXFFY2JzNVZ6WVhhMHVFbGtZbVdIb1NhemNteVAtV2dFTm0yNElMOXo2ejdHVXJHYllfSG9NSE1tRkxlTW1tOWNlZ1VXZzNsR2FpbjU3QmV1bS1NbDVGRmlWMXFhandMUnFRNjBreG56Y1RWTXlSa1FxWi1ORlhDeTVrZ0FCcml3bVBZNWN5X2VScXRHRlB5ZHhwM2w0VW5GNmJlc2J6VlVscmQ5WmljcHBxYmNRc19jbmZJTlpwUldSZ1Qw?oc=5)
+
+2026-08-05
+
+來源：[noticiasdelvino.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxOcnQyVFBxS2pSSWl4ZWdpNmhEYXB5eTBhT0JjeUtkcW05Y0plMkJBUnlQVlFQOE9FS1ppRXI1OUdtNlB1TEROai1XeFNrbEtyMkltYXFFY2JzNVZ6WVhhMHVFbGtZbVdIb1NhemNteVAtV2dFTm0yNElMOXo2ejdHVXJHYllfSG9NSE1tRkxlTW1tOWNlZ1VXZzNsR2FpbjU3QmV1bS1NbDVGRmlWMXFhandMUnFRNjBreG56Y1RWTXlSa1FxWi1ORlhDeTVrZ0FCcml3bVBZNWN5X2VScXRHRlB5ZHhwM2w0VW5GNmJlc2J6VlVscmQ5WmljcHBxYmNRc19jbmZJTlpwUldSZ1Qw?oc=5)
+
+---
+
+### [Isère. Atteinte d’une sclérose en plaques, elle lance une cagnotte pour financer un traitement au Mexique : « Ça me donne de l’espoir » - Le Dauphiné](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
+
+2026-08-05
+
+來源：[Le Dauphiné](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
 
 ---
 
@@ -168,19 +200,19 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [57 Habits Young People Have Now That Will Cause Big Problems Later According To Those Over 40 - Bored Panda](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRTlhX0xUY29MTFoxTXhXQjdYNXV3X3Q3Z05nODk5MHFrSDB1SXM4WE80SGpPeUExbjl0MURvN0dsUkxSdWppY0VCV3FBMWVYVUNQUHdKUEI1S3ZBd2dxX1g3Y25OajBE?oc=5)
+
+2026-08-04
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRTlhX0xUY29MTFoxTXhXQjdYNXV3X3Q3Z05nODk5MHFrSDB1SXM4WE80SGpPeUExbjl0MURvN0dsUkxSdWppY0VCV3FBMWVYVUNQUHdKUEI1S3ZBd2dxX1g3Y25OajBE?oc=5)
+
+---
+
 ### [Sclerosi multipla, un esame del sangue può svelare se la malattia avanza in silenzio](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBoSXItMWs5WklvMVQ3ZV9OUUt6eFBBdzNXTDBRVG1fYmlESTZwRktNWi1nLUVfc3VtRkNGVW5YVFV1d0hDMGp5Y1A1Q1UzWEl3ZXBCdm14NTRBV0pwWHVKU1l5aWx3YUFObWhqbndZMlhrUTJrX0J2eHczcHBrMFFaeEVhNmpQRVFwZGxNRUVNNzVxenZ1ZndyWEdINXEwWXBJQ2tuaUpTSUVTckxPQ2xPZktvbGFfNU03a1ViamlmUkhXS0YxQmxoSC1Tc3g2ZElIV0kwSGx2c1E?oc=5)
 
 2026-08-04
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBoSXItMWs5WklvMVQ3ZV9OUUt6eFBBdzNXTDBRVG1fYmlESTZwRktNWi1nLUVfc3VtRkNGVW5YVFV1d0hDMGp5Y1A1Q1UzWEl3ZXBCdm14NTRBV0pwWHVKU1l5aWx3YUFObWhqbndZMlhrUTJrX0J2eHczcHBrMFFaeEVhNmpQRVFwZGxNRUVNNzVxenZ1ZndyWEdINXEwWXBJQ2tuaUpTSUVTckxPQ2xPZktvbGFfNU03a1ViamlmUkhXS0YxQmxoSC1Tc3g2ZElIV0kwSGx2c1E?oc=5)
-
----
-
-### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
-
-2026-08-03
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
 
 ---
 
