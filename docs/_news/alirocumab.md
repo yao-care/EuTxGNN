@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [El proyecto Radar logra cribar a casi un millar de personas en Extremadura para frenar el impacto de la enfermedad renal crónica - El Independiente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUWhNbTJrNFhYVGwxTG5hSHVHVE1fdmRrY0MwZ3JMZ2hfbmpudGcwRUY1WmZlblI4U2k4YWZYOS1IQ3Btaml6R3BzUEZhMjQ1MlRYN2JLWW1kZEotbGg5MExKS3JqOEUzYUVVQWtiaG82TFZrQ3pnc1Zhck8tSnQtU0REWjQ3UkttTUhYZ3gyTWstUDQwdVJmZG5XcGFVSkhiNWY5Z1VZRWR6dnZkdFJNT3luZ0hPbC1pdFlrQzFWVlF6S3NSZlNfYVBSZHN4TUI1RHBiYkZIR1JTMnVoWXlFdVVKRXA4c0tSSFhfYVl6RdIB9AFBVV95cUxNcFY5ZDV4TVoxT2tlcFQyNEhINzEyV1hWa29lcV9vdzlLR3AyWUJRTDY5andQMGRVaWtWMkM2aVZVd3lWeF9CVXEzSDJiR3BXTDFnVEJxaVBJM1I3UmVUSFFsUlhNMjE0TkFJTUxCTzZPSmFCMDY0dkF5RG9Kci04LUtUbFpTUTgxMEVXWUIwN2ZtWmFLVEIwa0FIQmJDMFNNUG40UDJNRlpvY1lSMlFCa1Z2QkNYRlc0MU5rQTJvb0RXT2xBVGRMMUFoNTJQTXptSHlkYVBnRTZFTXRYcXN0Nm9yRFBQSS1SU0NNN0VmZkNXTWJn?oc=5)
-
-2026-08-04 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-來源：[El Independiente](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUWhNbTJrNFhYVGwxTG5hSHVHVE1fdmRrY0MwZ3JMZ2hfbmpudGcwRUY1WmZlblI4U2k4YWZYOS1IQ3Btaml6R3BzUEZhMjQ1MlRYN2JLWW1kZEotbGg5MExKS3JqOEUzYUVVQWtiaG82TFZrQ3pnc1Zhck8tSnQtU0REWjQ3UkttTUhYZ3gyTWstUDQwdVJmZG5XcGFVSkhiNWY5Z1VZRWR6dnZkdFJNT3luZ0hPbC1pdFlrQzFWVlF6S3NSZlNfYVBSZHN4TUI1RHBiYkZIR1JTMnVoWXlFdVVKRXA4c0tSSFhfYVl6RdIB9AFBVV95cUxNcFY5ZDV4TVoxT2tlcFQyNEhINzEyV1hWa29lcV9vdzlLR3AyWUJRTDY5andQMGRVaWtWMkM2aVZVd3lWeF9CVXEzSDJiR3BXTDFnVEJxaVBJM1I3UmVUSFFsUlhNMjE0TkFJTUxCTzZPSmFCMDY0dkF5RG9Kci04LUtUbFpTUTgxMEVXWUIwN2ZtWmFLVEIwa0FIQmJDMFNNUG40UDJNRlpvY1lSMlFCa1Z2QkNYRlc0MU5rQTJvb0RXT2xBVGRMMUFoNTJQTXptSHlkYVBnRTZFTXRYcXN0Nm9yRFBQSS1SU0NNN0VmZkNXTWJn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="Mirvetuximab Soravtansine 有什麼相關新聞？">
-<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Mirvetuximab Soravtansine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/mirvetuximab-soravtansine/
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Bauernhof-Effekt: Studie identifiziert neun Bakterien für Allergieschutz - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
+### [Bluttests erkennen Alzheimer bei Down-Syndrom-Patienten zuverlässig früher](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGhEYkV5cjhZZVlGZks1SmRCZVBYSGQ3YzhMSzBibjZYbVdIZmJBMGdZTWxFejdvdmREa1ZpclZOZmRCX2Z6WFF4T3M0TnExbXdmaDlmT1dmTTZ4RGxZajRaV2ZxTG0tNTIyTjdkVGFfaEYyQ1ZnTl8yeXY3RmhFOFd2TThpaGFReWR1aTYzcDlHN0VQVGZkTFpmOUU1aXFNbHVQY2NhTk90Zmd0?oc=5)
 
-2026-08-04 <span class="news-indication-tag">asthma</span>
+2026-08-04 <span class="news-indication-tag">asma</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGhEYkV5cjhZZVlGZks1SmRCZVBYSGQ3YzhMSzBibjZYbVdIZmJBMGdZTWxFejdvdmREa1ZpclZOZmRCX2Z6WFF4T3M0TnExbXdmaDlmT1dmTTZ4RGxZajRaV2ZxTG0tNTIyTjdkVGFfaEYyQ1ZnTl8yeXY3RmhFOFd2TThpaGFReWR1aTYzcDlHN0VQVGZkTFpmOUU1aXFNbHVQY2NhTk90Zmd0?oc=5)
 
 ---
 
@@ -70,11 +70,19 @@ permalink: /news/mirvetuximab-soravtansine/
 
 ---
 
-### [Studie zu schwerem Asthma bei Kindern: drei Entzündungsmechanismen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
+### [Studie zu schwerem Asthma bei Kindern: drei Entzündungsmechanismen](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
 
 2026-08-03 <span class="news-indication-tag">asthma</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
+
+---
+
+### [Bauernhofeffekt: Neun Bakterien schützen Kinder vor Asthma - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
+
+2026-08-03 <span class="news-indication-tag">asthma</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXl6cnJBdjV0elR1X09UeDNZNXNlNkR0Y1dNT3J2ZGFnNERfaEplbnAyMmR4ek5PWDlqVlllUmkwUFRUWXFfT1JXdzloVlBMVlAyNG5JVHZGdXlqN1IwdThNQjhxSlZBMkhEQTZ2U3JzWnJFc0dMeGlnc3VOaFAwc0pzMGFNUGRVMkFjSFA0RFhmd0N0VG8yOHBaSjBBMEQwMGhKaDBnZ21INGM?oc=5)
 
 ---
 

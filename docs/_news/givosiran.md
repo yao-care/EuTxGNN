@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Welt-Aids-Konferenz schlägt Alarm: Drastische Kürzungen von Hilfsgeldern](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZrM0FwaEtkcHhDYmVWa2U2RDhVbTlmcE1Zekk4aXNaVHNnMVhHalBCTE0tbnhGaEJ2ZGRfSjJlbzl6akdzSV9GY3k3NkJuYWEtcE5SQlFZNTBjLXB0cHlDRzI4UkEtZDdTLUpQd05Fd1B0WTI0cUZRVXpiMFBINzhPV09pLUwwYURwOHhNTXFLaUlKdjVfY1kycF9NNWZ6aUJCSDZaRktFdU0?oc=5)
+### [Scientists Propose New Strategy in Fight against High Blood Pressure](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5)
 
-2026-08-04 <span class="news-indication-tag">hepatitis</span>
+2026-08-04 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[Siegessaeule.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZrM0FwaEtkcHhDYmVWa2U2RDhVbTlmcE1Zekk4aXNaVHNnMVhHalBCTE0tbnhGaEJ2ZGRfSjJlbzl6akdzSV9GY3k3NkJuYWEtcE5SQlFZNTBjLXB0cHlDRzI4UkEtZDdTLUpQd05Fd1B0WTI0cUZRVXpiMFBINzhPV09pLUwwYURwOHhNTXFLaUlKdjVfY1kycF9NNWZ6aUJCSDZaRktFdU0?oc=5)
-
----
-
-### [José Abellán, cardiólogo: "Roncar no es normal y puede aumentar el riesgo de infarto e ictus" - El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
-
-2026-08-04 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">ictus</span>
-
-來源：[El Confidencial](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ3d0bTZ1N1o1ZEhOYjJHOVBzcGRkY2g2T0lvUmxnRGFWaVI3WHE5dTU1bUF0bWVDSTNLVnRMZE9OV2dpTFRfQmVBQUwxR3g3c3o1WUIxN05mY2xzeUpaTncxM1M4T2Q1eXo2eklYT2otSTRkNnRLaFJ2VFB4dUJ3d0RaelUtLUZNNDZIb1BaNHBJVnBvNGVBMUt5dGliajRsaW1qaElSOEpTZER0eldiTmptcnZDeWlHd0RTdjBrUXJ5ZnZjTTJzenNHeUhzc2J2d1NDMGtDUEhjZw?oc=5)
+來源：[Sci.News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5)
 
 ---
 
@@ -86,19 +78,19 @@ permalink: /news/givosiran/
 
 ---
 
-### [How poor countries are dealing with America’s AIDS cuts - The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
-
-2026-08-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
-
----
-
 ### [Hypertension après 50 ans : ce plat provençal est excellent pour nettoyer les artères - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
 
 2026-08-03 <span class="news-indication-tag">hypertension</span>
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
+
+---
+
+### [Tendencia clínica: Día Mundial contra la Hepatitis](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
+
+來源：[Medscape](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
 
 ---
 

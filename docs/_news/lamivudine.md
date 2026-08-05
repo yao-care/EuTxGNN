@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="Lamivudine 有什麼相關新聞？">
-<strong>Lamivudine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lamivudine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/lamivudine/
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Welt-Aids-Konferenz schlägt Alarm: Drastische Kürzungen von Hilfsgeldern](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZrM0FwaEtkcHhDYmVWa2U2RDhVbTlmcE1Zekk4aXNaVHNnMVhHalBCTE0tbnhGaEJ2ZGRfSjJlbzl6akdzSV9GY3k3NkJuYWEtcE5SQlFZNTBjLXB0cHlDRzI4UkEtZDdTLUpQd05Fd1B0WTI0cUZRVXpiMFBINzhPV09pLUwwYURwOHhNTXFLaUlKdjVfY1kycF9NNWZ6aUJCSDZaRktFdU0?oc=5)
-
-2026-08-04 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Siegessaeule.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0ZrM0FwaEtkcHhDYmVWa2U2RDhVbTlmcE1Zekk4aXNaVHNnMVhHalBCTE0tbnhGaEJ2ZGRfSjJlbzl6akdzSV9GY3k3NkJuYWEtcE5SQlFZNTBjLXB0cHlDRzI4UkEtZDdTLUpQd05Fd1B0WTI0cUZRVXpiMFBINzhPV09pLUwwYURwOHhNTXFLaUlKdjVfY1kycF9NNWZ6aUJCSDZaRktFdU0?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [HBV in Deutschland: Fallzahlen sinken, Impflücken bleiben - Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
 
@@ -70,11 +62,11 @@ permalink: /news/lamivudine/
 
 ---
 
-### [How poor countries are dealing with America’s AIDS cuts - The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
+### [Tendencia clínica: Día Mundial contra la Hepatitis](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
 
-2026-08-03 <span class="news-indication-tag">hepatitis</span>
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
 
-來源：[The Economist](https://news.google.com/rss/articles/CBMitAFBVV95cUxObDlNdmtiWVRKMjk2UWM2YXh3MkFiMm5aOEgzdjlNbEdBZi1KdzNfVGZDbFE1ZXJYOW9VYzJJc2xXQTV4d2V0SDhvazAzNlV0NTJsb01uakJueUc3c2twYmhhTWJxalJwaFBDMVB2dG5sR0JlcUN3MFFra2ZaZ3JDWmtURlBLbVpTbkRiRldqRXBmcGtZYzlxZUZxOFNleFdjREJkbzRWcGUxY3BqV2hxNFlBTEo?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
 
 ---
 

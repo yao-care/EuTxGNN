@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,21 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Why your brain isn’t safe: what governments must urgently change about dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+### [Scientists Thought SuperAgers Had Lucky Genes. They Were Wrong](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEJtb3RjOWstZDNvRG5zSXNpbzJKSjYwd3dOY0o3d2U3V25RMVY4ODVaWnUxcEVnTTJOdU95UlZ2R0FPbTRHdU1ocEx3a3NUbWpJc0tsUkJFVG9oTW5RamswNEhvMnVJQy10czdxLXczazh4OUp0Sng2S2RkdFlrQWNuV0xSMTNUUkg1YTZfMFQ?oc=5)
 
 2026-08-04
 
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEJtb3RjOWstZDNvRG5zSXNpbzJKSjYwd3dOY0o3d2U3V25RMVY4ODVaWnUxcEVnTTJOdU95UlZ2R0FPbTRHdU1ocEx3a3NUbWpJc0tsUkJFVG9oTW5RamswNEhvMnVJQy10czdxLXczazh4OUp0Sng2S2RkdFlrQWNuV0xSMTNUUkg1YTZfMFQ?oc=5)
+
+---
+
+### [Why your brain isn’t safe: what governments must urgently change about dementia - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+
+2026-08-04
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="Entacapone 有什麼相關新聞？">
-<strong>Entacapone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Entacapone</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/entacapone/
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Why your brain isn’t safe: what governments must urgently change about dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+### [Scientists Thought SuperAgers Had Lucky Genes. They Were Wrong](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEJtb3RjOWstZDNvRG5zSXNpbzJKSjYwd3dOY0o3d2U3V25RMVY4ODVaWnUxcEVnTTJOdU95UlZ2R0FPbTRHdU1ocEx3a3NUbWpJc0tsUkJFVG9oTW5RamswNEhvMnVJQy10czdxLXczazh4OUp0Sng2S2RkdFlrQWNuV0xSMTNUUkg1YTZfMFQ?oc=5)
+
+2026-08-04 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEJtb3RjOWstZDNvRG5zSXNpbzJKSjYwd3dOY0o3d2U3V25RMVY4ODVaWnUxcEVnTTJOdU95UlZ2R0FPbTRHdU1ocEx3a3NUbWpJc0tsUkJFVG9oTW5RamswNEhvMnVJQy10czdxLXczazh4OUp0Sng2S2RkdFlrQWNuV0xSMTNUUkg1YTZfMFQ?oc=5)
+
+---
+
+### [Why your brain isn’t safe: what governments must urgently change about dementia - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
 
 2026-08-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-來源：[futura-sciences.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tipiracil/
 ---
 
 <p class="key-answer" data-question="Tipiracil 有什麼相關新聞？">
-<strong>Tipiracil</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tipiracil</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tipiracil/
 <p><a href="{{ '/drugs/tipiracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（33 則）
 
 ### [Krebs: Diese Methode soll die Diagnose bei Brustkrebs entscheidend verbessern](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19zaC1hWW82VktOLUZ1RXZ1bTMycHVhcnNWb0cwUE05UnJweWZQeFFWN25LWjQtOXZLM2tvQUdxRVZDdDRSMFFzTlVwYmw5bnhpa2w3bHZ3bEFHa2p2Mld3MHhKdEZneHFnQlM5LWs0WWZxRWxZWHBMal9ibXdheXd0a25va3QzZDN6WHMyLUlWM2hDeVNnTVZma3g0eEJHYmljSFU1RmVELWF2cDZ2ZzV1d3JNQ3BmQUJBV1ZweHZLUFc5akN1Ynp5VF9YRXg2TDBzVWZwVnlfZ1Z4?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/tipiracil/
 
 ---
 
-### [El cáncer de pulmón se mantiene como el tumor más mortal en España - Aragón Digital](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWZQR19OT21OangxX05jeWhRRUhVNERfaHBVekZuaWlqb250TGRkUEgzaXFnUjl5enpoR0tDWUpfeGw4dXR2VjlpWlRuYUlqdWlLNzY4WDFKR1VXUzljQXFyN2hqVFBiWklka3hPTzlST0lOLV9SZExRamJvU216ZE9vWFZUT3hHVmxaNWlxdGZjUzlvX2lmS0VJai02d1M1NDhpbGdmVUlpalJzTHZRX3BGbDQ2YzNSQ2hCWmx2aFLSAcYBQVVfeXFMT3AtYUU2eWdhVlBmdmZ1ZC1PQjlxSVBfaEhieVliN2QzTzVKSjVtdEFsMnZxM2FacmRNb3hIZGEyQWl6SWFkZXZUTlVVUEVFTG95ektUSmZGeUpGbDgyN2Y1Mm45M1NYQ3VxTUZCMDhqeHFubzFXX0g0YVYwVHVYZ3d6T0JjRUpneFlsckZDOFZvU3ltT2J3RzZZRW4xdnRVNkNldHptZ0ZEbEVHWEV1bm9neVV0RGtNT2VGSkdCMXJOQ1RKQnJR?oc=5)
+### [Scotland-wide testing to be offered for Orkney and Shetland genes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZXZkclRLM255dktnLXFwNlBUbmtvVVd4R09ZdlpxckhVZXZzdFNub0RsQUZoR1BlSDl2dGZfWndtekJ3Tm9BVkNnMXY5a0d1ZTRIbjZKNTFLbjB3?oc=5)
+
+2026-08-04 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZXZkclRLM255dktnLXFwNlBUbmtvVVd4R09ZdlpxckhVZXZzdFNub0RsQUZoR1BlSDl2dGZfWndtekJ3Tm9BVkNnMXY5a0d1ZTRIbjZKNTFLbjB3?oc=5)
+
+---
+
+### [Viagra, "ecco come combatte il cancro": i risultati dello studio | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1c5RDdCeUhaMGNLRlZfdHNHR3lYXzZZak5neGFqNFhNOHNTcVhBdFhLNFBQZVNlelJ0eFFPdGQ0SmJYUXJxLVpPbno2RWlvYkxqaXJod1A5UnZEU18zSEQteGlHVVZyWmZaaDBqdVQxRUhLanBZSl9BamVuOXlMcEVMNENIRVFlVFc4Mjg5M0Q2YjdZUlRjdTY4NXpFUWhZbWtZZHpDRks5cWpTaFRuc9IBtAFBVV95cUxQS0lMQzh2aWpoVlF3VEQ1THdKRHA4VHh1di1Mb0k3UURJQ09CWHUweHpfNlJ5NWlER0hJQ2VaN3FYM3Q5eGNSZFdZLWtUVml2dGZWd1RFVW5BbVlqLWdnR1pwaTJ1dmx4b1NpYnAxTVJTdF9rZkxTbmZacFkweTVnVWR0aThNdmVTb0d0R2tJczVONDZKU1VrYmNxdnBTdWZtaTRKcG1kMk5mVmNkUHVlQmlpM3U?oc=5)
 
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[Aragón Digital](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWZQR19OT21OangxX05jeWhRRUhVNERfaHBVekZuaWlqb250TGRkUEgzaXFnUjl5enpoR0tDWUpfeGw4dXR2VjlpWlRuYUlqdWlLNzY4WDFKR1VXUzljQXFyN2hqVFBiWklka3hPTzlST0lOLV9SZExRamJvU216ZE9vWFZUT3hHVmxaNWlxdGZjUzlvX2lmS0VJai02d1M1NDhpbGdmVUlpalJzTHZRX3BGbDQ2YzNSQ2hCWmx2aFLSAcYBQVVfeXFMT3AtYUU2eWdhVlBmdmZ1ZC1PQjlxSVBfaEhieVliN2QzTzVKSjVtdEFsMnZxM2FacmRNb3hIZGEyQWl6SWFkZXZUTlVVUEVFTG95ektUSmZGeUpGbDgyN2Y1Mm45M1NYQ3VxTUZCMDhqeHFubzFXX0g0YVYwVHVYZ3d6T0JjRUpneFlsckZDOFZvU3ltT2J3RzZZRW4xdnRVNkNldHptZ0ZEbEVHWEV1bm9neVV0RGtNT2VGSkdCMXJOQ1RKQnJR?oc=5)
+來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1c5RDdCeUhaMGNLRlZfdHNHR3lYXzZZak5neGFqNFhNOHNTcVhBdFhLNFBQZVNlelJ0eFFPdGQ0SmJYUXJxLVpPbno2RWlvYkxqaXJod1A5UnZEU18zSEQteGlHVVZyWmZaaDBqdVQxRUhLanBZSl9BamVuOXlMcEVMNENIRVFlVFc4Mjg5M0Q2YjdZUlRjdTY4NXpFUWhZbWtZZHpDRks5cWpTaFRuc9IBtAFBVV95cUxQS0lMQzh2aWpoVlF3VEQ1THdKRHA4VHh1di1Mb0k3UURJQ09CWHUweHpfNlJ5NWlER0hJQ2VaN3FYM3Q5eGNSZFdZLWtUVml2dGZWd1RFVW5BbVlqLWdnR1pwaTJ1dmx4b1NpYnAxTVJTdF9rZkxTbmZacFkweTVnVWR0aThNdmVTb0d0R2tJczVONDZKU1VrYmNxdnBTdWZtaTRKcG1kMk5mVmNkUHVlQmlpM3U?oc=5)
+
+---
+
+### [Biologisches Altern: Warum Millennials schneller altern als Babyboomer - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUNGT2tFRWdFWVJZc2hfR0lXQUM1Z3VfcTdTWHpTQk1KVGV0V28wanRuVGw5QndNN2o5OUZmN3R0RlJEMWVmRm1nZE96Tlg0bXVTT2kyN0pENkZWaWk3VkNUOFg3V0M2LVdUamxYX0xhQU5JRGQ5UzRIZV8taEZiRTNnbHdRX3JDY3VTM3N3UWRZdnpMY0YxRnFtVm9rLUlLczZKOVVMYVF1dUV6WWtGRWdHOTNCekRLMGc?oc=5)
+
+2026-08-04 <span class="news-indication-tag">Krebs</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUNGT2tFRWdFWVJZc2hfR0lXQUM1Z3VfcTdTWHpTQk1KVGV0V28wanRuVGw5QndNN2o5OUZmN3R0RlJEMWVmRm1nZE96Tlg0bXVTT2kyN0pENkZWaWk3VkNUOFg3V0M2LVdUamxYX0xhQU5JRGQ5UzRIZV8taEZiRTNnbHdRX3JDY3VTM3N3UWRZdnpMY0YxRnFtVm9rLUlLczZKOVVMYVF1dUV6WWtGRWdHOTNCekRLMGc?oc=5)
 
 ---
 
@@ -74,15 +90,15 @@ permalink: /news/tipiracil/
 
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTjdibFlDdGswcHFoUjAzdzdFTUZXTDJUUmJkVW9kb2duRUZuZFh5alpMQUc4MlhJWFc2b011VFJCM1JKVlZVc1lGYnF1cmwtQ3dsTVdSdEltdUVfd2pJQUdoVWFXUkt0Tjd1M1dmWTZPSVMxcWkxRUFKd0JhcEEyaS1oOGRTLWJHM1haU05uUWQ1NG96UjUydFNPZjBVazhlbDdnWVN6cllfWUd3djVnQTRtZ0JDNHRaeHBqaTZxWjhkUmxabEpZUmc1czU0ZUFzaTdwU0w0bFlzNllseXlTWWFFZWJJby1ybFlnSg?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTjdibFlDdGswcHFoUjAzdzdFTUZXTDJUUmJkVW9kb2duRUZuZFh5alpMQUc4MlhJWFc2b011VFJCM1JKVlZVc1lGYnF1cmwtQ3dsTVdSdEltdUVfd2pJQUdoVWFXUkt0Tjd1M1dmWTZPSVMxcWkxRUFKd0JhcEEyaS1oOGRTLWJHM1haU05uUWQ1NG96UjUydFNPZjBVazhlbDdnWVN6cllfWUd3djVnQTRtZ0JDNHRaeHBqaTZxWjhkUmxabEpZUmc1czU0ZUFzaTdwU0w0bFlzNllseXlTWWFFZWJJby1ybFlnSg?oc=5)
 
 ---
 
-### [Álvaro Puche, coach sportif : "À 60 ans, plutôt que de marcher 20 minutes, il est plus efficace de faire ces quatre exercices en 4 minutes" - Ode (Purepeople)](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPM1RNY0szdklpUGllMlFvc2o2NHpEakdlYmR1S09xY3R4NHBONmZraVZPcG5IYkxqaXZVWkpmMS03VUVtNVlGVmpCMmlpZkp5bDhuWVhldEh2dmR1QmVERGlwSzhrUEdDT1BPSFAwOXhjS0Y4SHBzejdwSktBQXdBMVpuYU5PWlU3LVAzNVlEakxrQjc2LWdBSFlTRmh6OExYQTBIZ3FlMHV6YlowRlBLLW9VZ1Z5bE9YZjIwczNweHNZdTBoaUROVU9DMGFNbTVmNC1vejBpRGNVMjBRY0tDWS1WYVZ5QUEybGVNN3htVGo3Y2xwcXBQUURkdlBjNDhzOFJ5eU5pWmo?oc=5)
+### [El cáncer de pulmón se mantiene como el tumor más mortal en España](https://news.google.com/rss/articles/CBMingFBVV95cUxQMC1aaGNNWFgyRS1GUmF4d2V1Ukk3UU9ycnl4TDFQbE1EUDZKa2xtTkQ0Um52SF9pZjRNNU82SlVtTkJ2Vmp0eTUteFFTZlNxeW4yV0YwUUlmaE80UERBOUNhVDRHMlppdUg0NmZkbnE0cDE0OWlDUEdkX25NMDRvWVJnWTgwZndOLU5wcXVzNjMyN2ZKREwxZml1VmRiQQ?oc=5)
 
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[Ode (Purepeople)](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPM1RNY0szdklpUGllMlFvc2o2NHpEakdlYmR1S09xY3R4NHBONmZraVZPcG5IYkxqaXZVWkpmMS03VUVtNVlGVmpCMmlpZkp5bDhuWVhldEh2dmR1QmVERGlwSzhrUEdDT1BPSFAwOXhjS0Y4SHBzejdwSktBQXdBMVpuYU5PWlU3LVAzNVlEakxrQjc2LWdBSFlTRmh6OExYQTBIZ3FlMHV6YlowRlBLLW9VZ1Z5bE9YZjIwczNweHNZdTBoaUROVU9DMGFNbTVmNC1vejBpRGNVMjBRY0tDWS1WYVZ5QUEybGVNN3htVGo3Y2xwcXBQUURkdlBjNDhzOFJ5eU5pWmo?oc=5)
+來源：[Servimedia](https://news.google.com/rss/articles/CBMingFBVV95cUxQMC1aaGNNWFgyRS1GUmF4d2V1Ukk3UU9ycnl4TDFQbE1EUDZKa2xtTkQ0Um52SF9pZjRNNU82SlVtTkJ2Vmp0eTUteFFTZlNxeW4yV0YwUUlmaE80UERBOUNhVDRHMlppdUg0NmZkbnE0cDE0OWlDUEdkX25NMDRvWVJnWTgwZndOLU5wcXVzNjMyN2ZKREwxZml1VmRiQQ?oc=5)
 
 ---
 
@@ -106,23 +122,15 @@ permalink: /news/tipiracil/
 
 2026-08-04 <span class="news-indication-tag">cancer</span>
 
-來源：[sciencepost.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcFJOc0l5TWxVb1RnME1WRDhwcHJVY2NCUjR1SUhlbVNidGhNQk1mMHJSaFlkMkx3QlZYdE1iTjJiZ3lTYzhyN3lFc0syUEk3U2o5YkR6aHNQd3pDcENUVlRJeG5TdkNhaW9xdlExaEFobGNrVVJ5ek1HRFNoLTZYWHNqNFlBdGY3Q1JBYi1RLTk0UkU5bzYtZW5KYVFkOWF6djBOT2lLbjFZWDR2WGotUUhxMEVvcFBVTC1uMmpqYjVTaGtDd09wb2NZTEtjQ0pweTVMTnV1cGJqc3VSZk83UWV0WFhfQ3Ff?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcFJOc0l5TWxVb1RnME1WRDhwcHJVY2NCUjR1SUhlbVNidGhNQk1mMHJSaFlkMkx3QlZYdE1iTjJiZ3lTYzhyN3lFc0syUEk3U2o5YkR6aHNQd3pDcENUVlRJeG5TdkNhaW9xdlExaEFobGNrVVJ5ek1HRFNoLTZYWHNqNFlBdGY3Q1JBYi1RLTk0UkU5bzYtZW5KYVFkOWF6djBOT2lLbjFZWDR2WGotUUhxMEVvcFBVTC1uMmpqYjVTaGtDd09wb2NZTEtjQ0pweTVMTnV1cGJqc3VSZk83UWV0WFhfQ3Ff?oc=5)
 
 ---
 
-### [Neue Studie – Dieser Faktor könnte Krebs bei Jungen antreiben](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG8xcWxJLWZoUm1zT0p4MFljT1FjS1Q0eEdCQ3gzREVvUDdpd3ktZk9PX1ZJS2tHTUpOekIzbkZBSUdsX3ItY1BqdjBUQTIzY3FUdVV4LTMxU1VxOE50YWo4SnFxNTB2ZFV5X3daelJPTVQyY1dvd1lhSlBidVh6V2VOc0MydWZS?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heute](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG8xcWxJLWZoUm1zT0p4MFljT1FjS1Q0eEdCQ3gzREVvUDdpd3ktZk9PX1ZJS2tHTUpOekIzbkZBSUdsX3ItY1BqdjBUQTIzY3FUdVV4LTMxU1VxOE50YWo4SnFxNTB2ZFV5X3daelJPTVQyY1dvd1lhSlBidVh6V2VOc0MydWZS?oc=5)
-
----
-
-### [Boy 'fobbed off' with Gaviscon for tummy bug after docs missed aggressive cancer](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcldlXzBqZjRhQ2swRWR4QjI1WVA5UFFYYnU5QXQtUnVWeUJRX0RWMjJ6cFlWNFFMNEF4WXdNMEcxNDU4X3hOaXRGOERSTlhDeElvZUZTRjJjZnNjUjY2dFF1a1ZZZHVYcXBzb3NEd0FwekF0WC1FcVp5SF83ZHlNUXdCSnc?oc=5)
+### [Boy 'fobbed off' with Gaviscon for tummy bug after docs missed aggressive cancer - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcldlXzBqZjRhQ2swRWR4QjI1WVA5UFFYYnU5QXQtUnVWeUJRX0RWMjJ6cFlWNFFMNEF4WXdNMEcxNDU4X3hOaXRGOERSTlhDeElvZUZTRjJjZnNjUjY2dFF1a1ZZZHVYcXBzb3NEd0FwekF0WC1FcVp5SF83ZHlNUXdCSnc?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcldlXzBqZjRhQ2swRWR4QjI1WVA5UFFYYnU5QXQtUnVWeUJRX0RWMjJ6cFlWNFFMNEF4WXdNMEcxNDU4X3hOaXRGOERSTlhDeElvZUZTRjJjZnNjUjY2dFF1a1ZZZHVYcXBzb3NEd0FwekF0WC1FcVp5SF83ZHlNUXdCSnc?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcldlXzBqZjRhQ2swRWR4QjI1WVA5UFFYYnU5QXQtUnVWeUJRX0RWMjJ6cFlWNFFMNEF4WXdNMEcxNDU4X3hOaXRGOERSTlhDeElvZUZTRjJjZnNjUjY2dFF1a1ZZZHVYcXBzb3NEd0FwekF0WC1FcVp5SF83ZHlNUXdCSnc?oc=5)
 
 ---
 
@@ -134,11 +142,11 @@ permalink: /news/tipiracil/
 
 ---
 
-### [GPs’ breast cancer guidelines ‘miss’ 95% of young women who will develop disease](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
+### [GPs’ breast cancer guidelines ‘miss’ 95% of young women who will develop disease - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cancer</span>
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZJekRvVWUyWWlxRjFxNDhHOWFabWJtQ29RaVR3aWVQZVcwemNvcmdKQTZWbEpjQUJEeS1DN1pQTmxINTVSN1NsU0paY3NFZE5ITXhTQUlQQ2VMUWotbmlPT2I3dk41LW5iOWxlX1k1UzI3cmFMbC1DbmN3eTkxZ1YycExrcEhYVVlCVkFkNzFyNmNRSDdqM1dkUElvYUl0c2doancxdDl6ZEpFRnBRLVZROHJHTXNLU3c?oc=5)
 
 ---
 
@@ -147,6 +155,22 @@ permalink: /news/tipiracil/
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
 來源：[Il Messaggero](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbWwxR1VvZW5DQTRXTGJTaExqSGVBV3FVX08teG9Cb3F6ZklaQTQ3OEU2ZV9ZSERvLWJCZk9aWkdDN1o0X09Id2tKdF9OOHNsZ3FZaUcteUQtTERrUWdlZlBNSUVqS0RkUEtMdGN4RXFiaVFMeXFaVEpQRHVXaWhiSDZtNkszaDV2SUtkYzdVX3NGZkhVQVM1ZVgzcHF1RVl0MEIzRFB4MGR6Zm8xQ05ya243eWhFM2tYbE5lMnNfYlljQUstb1U00gHCAUFVX3lxTFBiNVhfZ3hRUG5NX2g1MU5BbnU4T1UzTHowUkVDbmlZeHRIZGU4TThaVmNjcjJDYlRQN3J5MkJENW1manlsRjNfOFJwMTZZU2pOLWpUdHEtVzhMdC1EOVY2R0FoM29PbnltcTY0NC1FRFRzQnlGSjVOVU1nYjV2XzZWei1hZkhDekI5empNZV9lUUd4RkRNb2loZEJVZHoycTctM3QzUVlEeWdoQ0RiOEtaY0JEb1ZISnVkUy1jT0dhVllR?oc=5)
+
+---
+
+### [Scoperta italiana contro i sarcomi: individuata la proteina che rende alcuni tumori resistenti alle cure](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQTkyOWZuYUhOMXZIVFZPUjI2aGVFS1dPWkVibXpSem1meV84NUtGeWlqSzlNWlY0ZHEtV2MySTR0WkI1WjZLWUgtLVhWMF9aUHFMenp6WTdCaVc2Rkk4aHJtVmNvTU4yUG9Tc3l2OW5PV3BNRUdxN0hYOUtYczhhakx3bWhfVGtjOUkzV3c0cDJRNWtmeWdncjZvUFd1VEhic1M2TlpaVDNfQmhSbUpHWFBfRTlRal9TWlg4RW1laktqYTM4cGtWZTVQVUlCMDlQeERJSVJBdEpRNmtvaWxlZkNLZVNFdXhwNzBGWHpZdWJMelRzZEE?oc=5)
+
+2026-08-04 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQTkyOWZuYUhOMXZIVFZPUjI2aGVFS1dPWkVibXpSem1meV84NUtGeWlqSzlNWlY0ZHEtV2MySTR0WkI1WjZLWUgtLVhWMF9aUHFMenp6WTdCaVc2Rkk4aHJtVmNvTU4yUG9Tc3l2OW5PV3BNRUdxN0hYOUtYczhhakx3bWhfVGtjOUkzV3c0cDJRNWtmeWdncjZvUFd1VEhic1M2TlpaVDNfQmhSbUpHWFBfRTlRal9TWlg4RW1laktqYTM4cGtWZTVQVUlCMDlQeERJSVJBdEpRNmtvaWxlZkNLZVNFdXhwNzBGWHpZdWJMelRzZEE?oc=5)
+
+---
+
+### [Tumore ovarico, il supertest Hdr ora si fa nel pubblico: cosa cambia per le pazienti - La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3g3anRBb2wwSU5UVnplT041RjJWSjlNSUdQd2lJR0FlMmszUnNUU2lpbFhhT3ZBaExqSnlOMDgyME52aXV2ajctLWVtaXA4VlRiR1BHNjhKTXBKSnNrbEdKZFdLaExZTEI3cy02OUh4WnQtak16WktUbVJKN1QzLWZvWHhRQWtZWHVkMS11c1NYU1Y3NDRqSG9RSk1SaHZTMG1hZUc1c3JvVEVXdXl0SEZBRkFUUdIBuwFBVV95cUxNR2dtcGhYRTY5NlNUNVR5SGEwUk5PVkdXOEotOXdFRHZXQk55dDloTU1NRmNtYmNsc21TYS1rM21hdnFnQVlpZ2lZOXBScnNBQVdBUXFySXh5VFhZTTNERGpsV1ZOTUVvenpUTFFkS1ZNc0FlZnBNR2pUX2xhSEh0RUZ2UzJLd0RqbmtLQlZLM1VjbzBsUk4zMjBjUmg0Mmc4eFQ4LVcxV2c5LThsN2NpSzdOTURVbmJySWdJ?oc=5)
+
+2026-08-04 <span class="news-indication-tag">carcinoma</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3g3anRBb2wwSU5UVnplT041RjJWSjlNSUdQd2lJR0FlMmszUnNUU2lpbFhhT3ZBaExqSnlOMDgyME52aXV2ajctLWVtaXA4VlRiR1BHNjhKTXBKSnNrbEdKZFdLaExZTEI3cy02OUh4WnQtak16WktUbVJKN1QzLWZvWHhRQWtZWHVkMS11c1NYU1Y3NDRqSG9RSk1SaHZTMG1hZUc1c3JvVEVXdXl0SEZBRkFUUdIBuwFBVV95cUxNR2dtcGhYRTY5NlNUNVR5SGEwUk5PVkdXOEotOXdFRHZXQk55dDloTU1NRmNtYmNsc21TYS1rM21hdnFnQVlpZ2lZOXBScnNBQVdBUXFySXh5VFhZTTNERGpsV1ZOTUVvenpUTFFkS1ZNc0FlZnBNR2pUX2xhSEh0RUZ2UzJLd0RqbmtLQlZLM1VjbzBsUk4zMjBjUmg0Mmc4eFQ4LVcxV2c5LThsN2NpSzdOTURVbmJySWdJ?oc=5)
 
 ---
 
@@ -170,15 +194,7 @@ permalink: /news/tipiracil/
 
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNGNyTTQxd3I1bzhJQ3VtYjZQTTdheGlrd1JVTHQwYkhNWFFMUFBxd1dMVF93UmlZRUtzSnVaZXl1X2V6RXNldWJQZDZoSGFtbWxRM1AzcjFmLW8xUHNZN0hBUFJpWDBRazJMQ2dVWVl3bkU5dzczb2lVM0JhTTg0SW5KMmpCUVdiRXhicE50N09EYVFOWnBsdGlCeFFiSEhObU1WZS1LZXExbGVMVmxVNEM4QS02NjJrQzNaNUJCaG5lZzBXMUE5d3RhbUtWRWVUcVpIV3BtRVByZ3BvWnhyMDFpbW5yVWtP?oc=5)
-
----
-
-### [Diagnosi del carcinoma ovarico: il test si fa in-house all'ospedale Molinette di Torino](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzNUb0NNRjh5ZnlJb0F1T01BSWpQQzZTeGxINFZfWnR3aUlva1dFSzZacUNkeGF3WGNsdVZvUGpUcmdibk9zNjRkeGtiRTk4MkRxdmpWUlZLQ3U1ZzFQZTR2UmxyMElvSjF0dHg2QldERWlwLVZUVXFDM1Y4SGtvaGJvNGpPR3VKWnhlRUxxSUZ3ZVdLckR5VlJB?oc=5)
-
-2026-08-04 <span class="news-indication-tag">carcinoma</span>
-
-來源：[TorinoToday](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzNUb0NNRjh5ZnlJb0F1T01BSWpQQzZTeGxINFZfWnR3aUlva1dFSzZacUNkeGF3WGNsdVZvUGpUcmdibk9zNjRkeGtiRTk4MkRxdmpWUlZLQ3U1ZzFQZTR2UmxyMElvSjF0dHg2QldERWlwLVZUVXFDM1Y4SGtvaGJvNGpPR3VKWnhlRUxxSUZ3ZVdLckR5VlJB?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNGNyTTQxd3I1bzhJQ3VtYjZQTTdheGlrd1JVTHQwYkhNWFFMUFBxd1dMVF93UmlZRUtzSnVaZXl1X2V6RXNldWJQZDZoSGFtbWxRM1AzcjFmLW8xUHNZN0hBUFJpWDBRazJMQ2dVWVl3bkU5dzczb2lVM0JhTTg0SW5KMmpCUVdiRXhicE50N09EYVFOWnBsdGlCeFFiSEhObU1WZS1LZXExbGVMVmxVNEM4QS02NjJrQzNaNUJCaG5lZzBXMUE5d3RhbUtWRWVUcVpIV3BtRVByZ3BvWnhyMDFpbW5yVWtP?oc=5)
 
 ---
 
@@ -218,7 +234,7 @@ permalink: /news/tipiracil/
 
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU5aZ3l1NXlGMTJoOC0ySjdHblBtdlF6WEZhaXlCVkdGdFoySjhLRHBvbmpaWlpaZTdxSHViUzNkSkNnNTNhS1hpVWxzbm5ENndLODBYUi1rRWxyWmZhM0xSelJ6eEFwcERjdC1qLUxWSGUwbnZMb3ZVZHFjN1gxcFFKdnZsdXZTRndyMzZ5em9fSnQwbm9rTWQ2Q2FfYV8zalpVSy1NamRWNjg3OS14Y25LbE1lYS1n?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU5aZ3l1NXlGMTJoOC0ySjdHblBtdlF6WEZhaXlCVkdGdFoySjhLRHBvbmpaWlpaZTdxSHViUzNkSkNnNTNhS1hpVWxzbm5ENndLODBYUi1rRWxyWmZhM0xSelJ6eEFwcERjdC1qLUxWSGUwbnZMb3ZVZHFjN1gxcFFKdnZsdXZTRndyMzZ5em9fSnQwbm9rTWQ2Q2FfYV8zalpVSy1NamRWNjg3OS14Y25LbE1lYS1n?oc=5)
 
 ---
 
@@ -226,23 +242,7 @@ permalink: /news/tipiracil/
 
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVlTalY0c2hXNWdKOGJqamt2aDRoRi1ocXNJRThIeGMxQ1VER0RoZGdLT25qTDFSeUtZems1bTlaRWoyS2hmRU1aZDRZbnFveHZfVEFpMzRVb2UwQnRmOVAtdExDM01wMGlmMUR1eW1sbnVzWURTYS1hTFRfUjNGam1YX2VNdjNBcUoteTZ5MTdZWVVBMnpTb3lhRDVybzk4ajBDRlVUNWFlUzVSREhrQUhhYUlZX0NtU2d2RTZKTTVnMGJyWS01Sw?oc=5)
-
----
-
-### [‘Viking gene’ cancer risk testing to be rolled out across Scotland - STV News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTR4UTNNbnIxd09aUzJoSE9oQXExcGJGYW9Jc3pUbWRKWnlxU1Z3eGxVemxBMDFGalpVS04yOTlHczBfWkNWU3lYM1NNWWFfbExrYzdOcTZ1SmZ2Z25VNWRzdDBPVnBoY2piWk5ULTNENGp0THA2LWxERTJjdl9TYVh3UWxhbE5wM2tpV2pUQnA0TXJYbjlsXw?oc=5)
-
-2026-08-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTR4UTNNbnIxd09aUzJoSE9oQXExcGJGYW9Jc3pUbWRKWnlxU1Z3eGxVemxBMDFGalpVS04yOTlHczBfWkNWU3lYM1NNWWFfbExrYzdOcTZ1SmZ2Z25VNWRzdDBPVnBoY2piWk5ULTNENGp0THA2LWxERTJjdl9TYVh3UWxhbE5wM2tpV2pUQnA0TXJYbjlsXw?oc=5)
-
----
-
-### [Lotta ai sarcomi, svolta dal Cro di Aviano: individuato il meccanismo che frena le terapie - il Nord Est](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFJjU3dnREN0aEVseEY1QnJRNkZGMVhLVmlnVlhlY1dDbU9wTUFyVHhZcGI3REE2ZG1HQVdfdWlNc01qdm1CZXBYVjk2RlBQY3piVkV0enNUR0t0aHBzaUFvZklLNDlPc2M2akNpTzJGNXRZam5ablI5N19XWDByVWg3dXZDMEdzdnEwOUxjTU93X21YMlV6TWJpdGJtZEU?oc=5)
-
-2026-08-04 <span class="news-indication-tag">tumor</span>
-
-來源：[il Nord Est](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFJjU3dnREN0aEVseEY1QnJRNkZGMVhLVmlnVlhlY1dDbU9wTUFyVHhZcGI3REE2ZG1HQVdfdWlNc01qdm1CZXBYVjk2RlBQY3piVkV0enNUR0t0aHBzaUFvZklLNDlPc2M2akNpTzJGNXRZam5ablI5N19XWDByVWg3dXZDMEdzdnEwOUxjTU93X21YMlV6TWJpdGJtZEU?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVlTalY0c2hXNWdKOGJqamt2aDRoRi1ocXNJRThIeGMxQ1VER0RoZGdLT25qTDFSeUtZems1bTlaRWoyS2hmRU1aZDRZbnFveHZfVEFpMzRVb2UwQnRmOVAtdExDM01wMGlmMUR1eW1sbnVzWURTYS1hTFRfUjNGam1YX2VNdjNBcUoteTZ5MTdZWVVBMnpTb3lhRDVybzk4ajBDRlVUNWFlUzVSREhrQUhhYUlZX0NtU2d2RTZKTTVnMGJyWS01Sw?oc=5)
 
 ---
 
@@ -282,7 +282,7 @@ permalink: /news/tipiracil/
 
 2026-08-03 <span class="news-indication-tag">cancro</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODVUSGhHMDl5VFBtNlBXaWRPb01kQ2xUU05BNW1GUlEyZk81Q1NqR3BWZXd4MExodXNIOURLeEtDYjdYc1ZMVkdYaTdjZ2xKTkg4UUtEWk9QLTI5RjNJZ2lKcXR0elBVd0cybTBENGRLUnBGZmRXMFlhLXppc25lSXUxSVViVVRxUWxSVnpPRGJfRlBwVEtwajdBenl1R2xVczlNSG9LcnFkS1RBbUNZTnIyVDFDckh4OV92QVd2UXFiaExidnN4OTF5Y1BwdUd4UXc?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODVUSGhHMDl5VFBtNlBXaWRPb01kQ2xUU05BNW1GUlEyZk81Q1NqR3BWZXd4MExodXNIOURLeEtDYjdYc1ZMVkdYaTdjZ2xKTkg4UUtEWk9QLTI5RjNJZ2lKcXR0elBVd0cybTBENGRLUnBGZmRXMFlhLXppc25lSXUxSVViVVRxUWxSVnpPRGJfRlBwVEtwajdBenl1R2xVczlNSG9LcnFkS1RBbUNZTnIyVDFDckh4OV92QVd2UXFiaExidnN4OTF5Y1BwdUd4UXc?oc=5)
 
 ---
 
@@ -315,22 +315,6 @@ permalink: /news/tipiracil/
 2026-08-03 <span class="news-indication-tag">Krebs</span>
 
 來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWpPWFMwUU85NWhhRVltYUJpTTNRNW5mTzhRNzhoaWo4NUFvZ2ZraHlnSVBBS3RhR3VSazdZRVhxMGd1c0w0X3U1MWVhME1uc1h0SE5DRWJObVhXY3Fzb1dxS0JjU0J1ZlZXcGkzOGhvQi1sN3lkSlRib201RTFOUUJJcFVRQlJ6eXZzX3pSSWZGZW1raUhTR2oyR2hwb0tuMldvalhCcTFHWVFNdFhUUkZiZw?oc=5)
-
----
-
-### [Staffordshire dad living with pancreatic cancer urges people to get checked](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpalpQMENVbkNHWHF0Nmc0YkRua29SV1JZOVp4RUFGM1RSLXpjNDNoRXRZRVJYOGktNV81cVpBMTZKMk02WGpxcmtLZ2pUVU1NOWJ3NHpoRGJOUlh3?oc=5)
-
-2026-08-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpalpQMENVbkNHWHF0Nmc0YkRua29SV1JZOVp4RUFGM1RSLXpjNDNoRXRZRVJYOGktNV81cVpBMTZKMk02WGpxcmtLZ2pUVU1NOWJ3NHpoRGJOUlh3?oc=5)
-
----
-
-### [Brustkrebs: Gallensäuren ein bislang unterschätzer Faktor](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
-
-2026-08-02 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSV9EREVCenRXaWtOZzBTYkxoR1YzczVjYm5reFh5VGtuUGNYamhuVXRxUFFmRDNpTWpPWlBwQ25YVGFKTjBrUjZwMFpUWjhrbS1hZE8xd0RCeGdrWjc0Nm1iRE1CZkZSZldnTkUzMlFpdGhxd1B3OUZpcU9sUjVuMnNpbnhFLU41N3lwMV9zTHRzdmlyTDFIN0JHMnNZX0Q0Sm9JRlhYNFA0Nk9LcHBfdU5Sa0FTWGRVbjlHaVdB?oc=5)
 
 ---
 
