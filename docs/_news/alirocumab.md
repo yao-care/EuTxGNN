@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Chiusi in casa per l’afa: per i più piccoli è un nuovo lockdown - la Repubblica](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVVRQYkNPWmIwbUZMOTc5a2hvQWdZd3lIX3NLQ0JYMUV6Zk9rdjE4QlI1aWF6QjNiQVdDZkV1UFpIakpqTUNXdUIwR3pLSkZfTU1tZEllVGIyWlZvTUxwa1NKcVVsX2FrRWViN0dBaTFTZXlpTlhCOF8taUgzcmNKeElyc1lkc1VtVWZiVzM2NDN6LTDSAZgBQVVfeXFMT3VGQXdIRzdyLVFGdHFJS0x5Wlc1MmtrM3U3cUFqYlJZOTFJYUFFWGgtUzJfWmlLNU9hUUFYbXlsZlp1R3d2aDFuc0dRZVFXQzJudEJqMllEQ0pKTnB5RUhNaWMwcWxmUXRISjF1dnNibW9aWXVjUDhaZ0N2NVZicVpkdVZjX3ZWSVUydGxnRUFKbmZKMjhla2w?oc=5)
+
+2026-08-04 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVVRQYkNPWmIwbUZMOTc5a2hvQWdZd3lIX3NLQ0JYMUV6Zk9rdjE4QlI1aWF6QjNiQVdDZkV1UFpIakpqTUNXdUIwR3pLSkZfTU1tZEllVGIyWlZvTUxwa1NKcVVsX2FrRWViN0dBaTFTZXlpTlhCOF8taUgzcmNKeElyc1lkc1VtVWZiVzM2NDN6LTDSAZgBQVVfeXFMT3VGQXdIRzdyLVFGdHFJS0x5Wlc1MmtrM3U3cUFqYlJZOTFJYUFFWGgtUzJfWmlLNU9hUUFYbXlsZlp1R3d2aDFuc0dRZVFXQzJudEJqMllEQ0pKTnB5RUhNaWMwcWxmUXRISjF1dnNibW9aWXVjUDhaZ0N2NVZicVpkdVZjX3ZWSVUydGxnRUFKbmZKMjhla2w?oc=5)
+
+---
 
 
 <div class="disclaimer">

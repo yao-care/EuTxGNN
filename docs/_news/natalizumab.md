@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="Natalizumab 有什麼相關新聞？">
-<strong>Natalizumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Natalizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/natalizumab/
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（11 則）
+
+### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+
+2026-08-05 <span class="news-indication-tag">copd</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+
+---
+
+### [Los fármacos GLP-1 se asocian con un 21% menos de riesgo de fracturas en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
+
+---
 
 ### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
 2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[t-online.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
 ---
 
@@ -75,6 +91,22 @@ permalink: /news/natalizumab/
 2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
+
+---
+
+### [Le bain de forêt, une invitation nipponne pour (re)trouver la sérénité - France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+
+2026-08-05 <span class="news-indication-tag">EPOC</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+
+---
+
+### [Ballaststoffe, P-CABs und KI: neue Impulse für Magen-Darm & Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
 
 ---
 
@@ -102,11 +134,11 @@ permalink: /news/natalizumab/
 
 ---
 
-### [Ballaststoffe: Harvard-Studie belegt 34-Prozent-Schutz vor Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xkVHZETEVEc3dQVDRrN0RrU1BYemo4SGdkd3FWcDJwWXBhamVqYURVR1JXVW5QenU4M0hFSGRLVm9WRFFrd0JpdXFwVXZzVFFuMldvYkp5ZVYtdDZKOXl5TVhaczN5NFEyN2lvSHdVcnpBRy1VX1ozOXZYMGZzc2pFaWdaWXNkeW9fZ01Yb25YQVRDMUN5dkFja0FZX3YzaGhpLWdNSkFuNHFWYVdlcXpvQ3Q5dw?oc=5)
+### [Neurodermitis, COPD & Bronchiektasen: neue Therapie- und Versorgungsdaten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
 
-2026-08-04 <span class="news-indication-tag">diabetes</span>
+2026-08-04 <span class="news-indication-tag">copd</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xkVHZETEVEc3dQVDRrN0RrU1BYemo4SGdkd3FWcDJwWXBhamVqYURVR1JXVW5QenU4M0hFSGRLVm9WRFFrd0JpdXFwVXZzVFFuMldvYkp5ZVYtdDZKOXl5TVhaczN5NFEyN2lvSHdVcnpBRy1VX1ozOXZYMGZzc2pFaWdaWXNkeW9fZ01Yb25YQVRDMUN5dkFja0FZX3YzaGhpLWdNSkFuNHFWYVdlcXpvQ3Q5dw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
 
 ---
 

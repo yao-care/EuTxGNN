@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Endo Sleeve: dal Policlinico di Palermo la nuova sfida all’obesità - Giornale di Sicilia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGV6QVJNaGpUYUVVRm5Ja3NWT3NUVUphLW82aVIyWkhTcXkxd29TZUpOTHRfcHlnRk5kWnNQQkM5WDZFZFkwZWMxMTVIc2FyN0hoZEVrODg2aVoxdW5CQmRhN0VHcXQ3WHlrSk9kUFVNY3BXYXljNXd1MnJxbVBsejRMSFNrUUpNQ09XUF9WVW9sZUhNaHlwUWNaaURPeU05ak42c1JQY1diQUtZMlB6eS12NDVfNDR5WmMzTGlEZHpZS2J0UUFzT01OUHU4M0hub2JCX1d1WUtEQzc2cFZyZ2tzLXI3bmRr?oc=5)
-
-2026-08-04 <span class="news-indication-tag">obesità</span>
-
-來源：[Giornale di Sicilia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGV6QVJNaGpUYUVVRm5Ja3NWT3NUVUphLW82aVIyWkhTcXkxd29TZUpOTHRfcHlnRk5kWnNQQkM5WDZFZFkwZWMxMTVIc2FyN0hoZEVrODg2aVoxdW5CQmRhN0VHcXQ3WHlrSk9kUFVNY3BXYXljNXd1MnJxbVBsejRMSFNrUUpNQ09XUF9WVW9sZUhNaHlwUWNaaURPeU05ak42c1JQY1diQUtZMlB6eS12NDVfNDR5WmMzTGlEZHpZS2J0UUFzT01OUHU4M0hub2JCX1d1WUtEQzc2cFZyZ2tzLXI3bmRr?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Un nuovo studio dice che il cervello ricorda il grasso. Un altro che lo ricordano le cellule. Che vi devo dire? Rinunciamo a dimagrire - il Giornale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaWN5Nzh3Z3k5cktKSXZRSGZzUjVVVkZUTHM0ekcwNDk3VWZ0ZFFoWi1QMHk4elI4NmdycVUxaTVVUVBVRHZ1TFpWSTNIWl8zU2k3YkU0S1pQN2lRNS1jTTdaSU1Cb296OFAwQ1J0TFV3OUVwR3VWSE1SMUV2QnpVUkhON1VCVDZObDVfSVZWZFpCVkVxaUpnNnFmTm84OExSY0NDd01WRDFhU2NtNks4VXhCOU4zOTdacG1SRENtSkVTcC1PNXpWZy01NGNvZXVSdFJqNWdwTnB6VVgzZExuV3RhSXVmekZhTVpLcnBTMjBReGJ5b1BYVEdJQ0NKblJNRE1yZUs4VVlEVk1rTjAya1p0SQ?oc=5)
 
@@ -75,14 +67,6 @@ permalink: /news/melatonin/
 2026-08-04 <span class="news-indication-tag">migraine</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
-
----
-
-### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación - Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
-
-2026-08-03 <span class="news-indication-tag">obesidad</span>
-
-來源：[Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 ---
 

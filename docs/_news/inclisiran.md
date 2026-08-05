@@ -62,11 +62,11 @@ permalink: /news/inclisiran/
 
 ---
 
-### [Lipfendra vs statins: How these cholesterol-lowering drugs compare - Medical News Today](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFpjTkZNV1RwQ3YyOU1YTVVEajd0TnhBMnczM0tyUkNtTkRkaGhZRHNFYS0yaHJGN3pPRjBZV0xxdERmZVZsaVA2NjlXcktIS3pFT1NkTDZabHZPNzFySWxrRVFudnhPNnAySkNsZTNTeS1ROW5BS2swbGg1RmtMcjN1TDFCQldiV2wxMnZUbm5jSmJwTHdrclZQNjJnZkdjZnFXa0EtNkNMVWJUZURLekwxR3BYVTJiNXNTYVlQZHViWW42Mm9OOWllX0hkNTZnVjFaUWRn?oc=5)
+### [How Lipfendra, Inclisiran, and New Guidelines Are Changing Cholesterol Management](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
 
 2026-08-03 <span class="news-drug-tag">Inclisiran</span>
 
-來源：[Medical News Today](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFpjTkZNV1RwQ3YyOU1YTVVEajd0TnhBMnczM0tyUkNtTkRkaGhZRHNFYS0yaHJGN3pPRjBZV0xxdERmZVZsaVA2NjlXcktIS3pFT1NkTDZabHZPNzFySWxrRVFudnhPNnAySkNsZTNTeS1ROW5BS2swbGg1RmtMcjN1TDFCQldiV2wxMnZUbm5jSmJwTHdrclZQNjJnZkdjZnFXa0EtNkNMVWJUZURLekwxR3BYVTJiNXNTYVlQZHViWW42Mm9OOWllX0hkNTZnVjFaUWRn?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQakFMcmFaVWNKYzByWkpEdHZtLS1VWUFYUjZIcE1fRnN4amFocUFTRzJ5dTI3U1pKWWgyZEZEY2xwelFlenZVY0lRTXVLN3ByZG55cFExWE5fSnlLTVduUVBMb3NHQ085OWRHVnB5VnFxYkpUczNmMElYYjJOdHFMVU9ybHNqTVNmV2FBY3RWemJhM2ZieDJxODJORm1NMENCSE0w?oc=5)
 
 ---
 

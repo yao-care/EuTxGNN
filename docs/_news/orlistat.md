@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Endo Sleeve: dal Policlinico di Palermo la nuova sfida all’obesità - Giornale di Sicilia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGV6QVJNaGpUYUVVRm5Ja3NWT3NUVUphLW82aVIyWkhTcXkxd29TZUpOTHRfcHlnRk5kWnNQQkM5WDZFZFkwZWMxMTVIc2FyN0hoZEVrODg2aVoxdW5CQmRhN0VHcXQ3WHlrSk9kUFVNY3BXYXljNXd1MnJxbVBsejRMSFNrUUpNQ09XUF9WVW9sZUhNaHlwUWNaaURPeU05ak42c1JQY1diQUtZMlB6eS12NDVfNDR5WmMzTGlEZHpZS2J0UUFzT01OUHU4M0hub2JCX1d1WUtEQzc2cFZyZ2tzLXI3bmRr?oc=5)
+### [Dad left dribbling, babbling and unable to move after terrifying stroke in front of his children - Kent Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXZvenN4cmpzS2FRZkN0VktiTjZLYTIxR2R5SjR1ZnlBamdyM0xsTWcxNEtCRjdCcktuajIxUnYzc1huUzBIaHp2Wk9WMHFrVG4xOThIb3Q5RGw5bGZnRGZ2amI1alhkTHJadnRGOTdDdDcwRlduMWhqbzA2U0U4akNiZEtoWnJId0FHZWM1ZXNkRmhhX08yRHpFa3lnVGZ2dFFEMEdESXhrQjhmZ3c?oc=5)
 
-2026-08-04 <span class="news-indication-tag">obesità</span>
+2026-08-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[Giornale di Sicilia](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGV6QVJNaGpUYUVVRm5Ja3NWT3NUVUphLW82aVIyWkhTcXkxd29TZUpOTHRfcHlnRk5kWnNQQkM5WDZFZFkwZWMxMTVIc2FyN0hoZEVrODg2aVoxdW5CQmRhN0VHcXQ3WHlrSk9kUFVNY3BXYXljNXd1MnJxbVBsejRMSFNrUUpNQ09XUF9WVW9sZUhNaHlwUWNaaURPeU05ak42c1JQY1diQUtZMlB6eS12NDVfNDR5WmMzTGlEZHpZS2J0UUFzT01OUHU4M0hub2JCX1d1WUtEQzc2cFZyZ2tzLXI3bmRr?oc=5)
+來源：[Kent Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXZvenN4cmpzS2FRZkN0VktiTjZLYTIxR2R5SjR1ZnlBamdyM0xsTWcxNEtCRjdCcktuajIxUnYzc1huUzBIaHp2Wk9WMHFrVG4xOThIb3Q5RGw5bGZnRGZ2amI1alhkTHJadnRGOTdDdDcwRlduMWhqbzA2U0U4akNiZEtoWnJId0FHZWM1ZXNkRmhhX08yRHpFa3lnVGZ2dFFEMEdESXhrQjhmZ3c?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/orlistat/
 2026-08-04 <span class="news-indication-tag">obesità</span>
 
 來源：[il Giornale](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaWN5Nzh3Z3k5cktKSXZRSGZzUjVVVkZUTHM0ekcwNDk3VWZ0ZFFoWi1QMHk4elI4NmdycVUxaTVVUVBVRHZ1TFpWSTNIWl8zU2k3YkU0S1pQN2lRNS1jTTdaSU1Cb296OFAwQ1J0TFV3OUVwR3VWSE1SMUV2QnpVUkhON1VCVDZObDVfSVZWZFpCVkVxaUpnNnFmTm84OExSY0NDd01WRDFhU2NtNks4VXhCOU4zOTdacG1SRENtSkVTcC1PNXpWZy01NGNvZXVSdFJqNWdwTnB6VVgzZExuV3RhSXVmekZhTVpLcnBTMjBReGJ5b1BYVEdJQ0NKblJNRE1yZUs4VVlEVk1rTjAya1p0SQ?oc=5)
-
----
-
-### [Los nuevos fármacos adelgazantes: semaglutida, tirzepatida y el reto de su regulación - Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
-
-2026-08-03 <span class="news-indication-tag">obesidad</span>
-
-來源：[Economist & Jurist](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXVaR2FHSnk0ZEZpZlFWTzBKSU9nWDBlb29lMDJnZURpbC1McDVVcTM2QUJMOU9kMWJJOHJFMUgwX0RtV2t6RURhRlc1TG9Gc05DZXdEUEtlV2xLTXV6UFVMM2FpUnBnM3R5cGllN1o3bkpmMEdtbDNpSTNPM2tTWUw5NU5IWTZQeTlmWVRabUZJTlNJcXdRaWJlbXJYMGgzam1kODN3UFhyR19rVm1sWEZMSkZETkNjbkdyRUg3czhEOXZHRGVxXzRjbUNOd1M1?oc=5)
 
 ---
 

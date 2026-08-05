@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Bauernhof-Effekt: Studie identifiziert neun Bakterien für Allergieschutz - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
+### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+
+2026-08-05 <span class="news-indication-tag">copd</span>
+
+來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+
+---
+
+### [Fettleber: Drastisch erhöhtes Risiko tödlicher Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
+
+2026-08-05 <span class="news-indication-tag">asma</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckw0LTZ2bFJQaW9Rd25ib3dYdzk3eG5RbnhYX25iRGpVVWZ3UHM5UGZZVnU1bDhVOEp5T2pfUEhZbElCWm9CVXlSalhra25MS0xidi1kX1JqVVRBMzQwb3JmbkhZOTZqaTVsN0ZhcGRlbGZ4QnpaMmNiNDVYY05ZZVhCcS1YSG9FUzFCZWJUX3JJa01xZ2lrNWZYM3luV0lwWGNLS1ktVVdoalpJb1MxSWtnZG9IdWpIb3dNUS1KYzVUaHpKODItd0xPTVNXTGl1NlE?oc=5)
+
+---
+
+### [Le bain de forêt, une invitation nipponne pour (re)trouver la sérénité - France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+
+2026-08-05 <span class="news-indication-tag">EPOC</span>
+
+來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+
+---
+
+### [Neurodermitis, COPD & Bronchiektasen: neue Therapie- und Versorgungsdaten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
+
+2026-08-04 <span class="news-indication-tag">copd</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
+
+---
+
+### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
 2026-08-04 <span class="news-indication-tag">asthma</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
-
----
-
-### [Fettleber: Drastisch erhöhtes Risiko für tödliche Herz-Kreislauf-Erkrankungen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
-
-2026-08-03 <span class="news-indication-tag">asma</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSy0xQjhRWTZSQjloRS13YVljMVlDZVA1UTJKVVA3aWtDS2RGczRxWUxxYlVMMUpPUFMwZXJmVTJ4amM4cmlNNE5GMVFRblhJd2JpenZXa1RVVjVNNGJjMFk5NzZMbnJyaldIWUZyTldmTTRlbVVCTVUtN3VXaFBBUmczMkxqZk90X1ZHcEY3LTlQS2xZMXF1dmVXQ3YwU0FvSkMxdm5aNlpvVEp3RnpYc0ducUhWZUJOU0NCd1VWM1ZmNHpLTXozS1l6SVJpSTVpczJ3eXdEOA?oc=5)
-
----
-
-### [Studie zu schwerem Asthma bei Kindern: drei Entzündungsmechanismen - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
-
-2026-08-03 <span class="news-indication-tag">asthma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxNeU94QnZLLS1NdUlFd19vS0NKNk95UVpXT3o5ejc3LVNTSG5STHhCVTRtSWkzamhaeDd5R1ZKaXkwMjRVaXJKMDBvbVlJNTFaQTJBMFRFVm1FT0RvcS1HTldXcWZjV3B6eWpCMjVMM0ZmWlRYcEx2dEpyS3VWUGdDc3VPYy05eUo5a2FDWjhYWml6YW1uenk0VFdWcUhiaU0?oc=5)
+來源：[SWR](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
 ---
 

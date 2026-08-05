@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [Los fármacos GLP-1 se asocian con un 21% menos de riesgo de fracturas en personas con diabetes tipo 2](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVExKSlQzbU1iMEVhSWk0WWhtbUV4R2duYnhIV1IyNTZZa1VuejU2eWVheDlMZ2dQclBvYjJVcTlucVJ3Mml5SllJNmtzeThkWkNVbUhUZkw0dmdUck5aYmI3cWpNS3VGWGF1TXBJeG1obTNXTXZ4ODUtaXFXc1NRQTdyRHA2TlM5SmRaTlVLTjBnZjJSWl9GbWRpNWFJVWVzczQ0aFdhaVdUTFZaOU1xWk1rSjdxUWlKUVhuNEdSa29yVmRaeEoxQl83VmtaeHZGblo1TzA0M1dHRkFfcE5R?oc=5)
+
+---
 
 ### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
 2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[t-online.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
+來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
+
+---
+
+### [Ballaststoffe, P-CABs und KI: neue Impulse für Magen-Darm & Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
 
 ---
 
@@ -102,19 +118,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Ballaststoffe: Harvard-Studie belegt 34-Prozent-Schutz vor Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xkVHZETEVEc3dQVDRrN0RrU1BYemo4SGdkd3FWcDJwWXBhamVqYURVR1JXVW5QenU4M0hFSGRLVm9WRFFrd0JpdXFwVXZzVFFuMldvYkp5ZVYtdDZKOXl5TVhaczN5NFEyN2lvSHdVcnpBRy1VX1ozOXZYMGZzc2pFaWdaWXNkeW9fZ01Yb25YQVRDMUN5dkFja0FZX3YzaGhpLWdNSkFuNHFWYVdlcXpvQ3Q5dw?oc=5)
-
-2026-08-04 <span class="news-indication-tag">diabetes</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xkVHZETEVEc3dQVDRrN0RrU1BYemo4SGdkd3FWcDJwWXBhamVqYURVR1JXVW5QenU4M0hFSGRLVm9WRFFrd0JpdXFwVXZzVFFuMldvYkp5ZVYtdDZKOXl5TVhaczN5NFEyN2lvSHdVcnpBRy1VX1ozOXZYMGZzc2pFaWdaWXNkeW9fZ01Yb25YQVRDMUN5dkFja0FZX3YzaGhpLWdNSkFuNHFWYVdlcXpvQ3Q5dw?oc=5)
-
----
-
-### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+### [Un amplio estudio del CNIC concluye que la hipertrabeculación ventricular izquierda no es una enfermedad cardiaca](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjBtMFZ4dW0xZEhkaDNjUHhlSktsMjBxQV9ybUNEVC12aUhqdHFnSXltblJfellTOG1vUnc2bnlKeTJDN3VFQnhvckxUTS1OT3djc2lTTW8wdXlNbU42SEllSl9ZTUZjQ2JzOUs2TlNmZU44Ti1lOVBtWEZoTVg0RFNLd19ZWWdDS2hzUEhqQ3dlVmktWlo0OXl1bzhjSnVHZVVGbThaWFEzSk91U3ZEX0xuMkRtVV9ZOEVqd0VnNlRYdGZxY1pBU3RWNUU3UlVpRlhIWjVKV1BscWF6YzREd9IB5gFBVV95cUxOZXc3M0lFZ2hmY0NMa0ZyeTJyUGYwdVctOWVFa2ZXQkxRUzdMUG00UjFEZlltMmRPY25oZTI5S1EyZHJnMWVsVTJYaWhLSHBJRmVQaWNDX2pPRGhVdnY1eXpKYjlfZmtRMm1UVjNRV3VMWTB6eUpuemR2WjlYS24xYlhLaEZrWW5BQjdYZ21wYzlzWEJ2dUNQWFVBZi1fZDg0UGZtRGV6N041X1BUc0VLOXlpZjBKM3dKZHRrMU9PNGVCTVVxVjBnZE5RYzlVUmhJYzB2OU4xSTAzd1o5S2tFazlUamlOZw?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
+來源：[Demócrata](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjBtMFZ4dW0xZEhkaDNjUHhlSktsMjBxQV9ybUNEVC12aUhqdHFnSXltblJfellTOG1vUnc2bnlKeTJDN3VFQnhvckxUTS1OT3djc2lTTW8wdXlNbU42SEllSl9ZTUZjQ2JzOUs2TlNmZU44Ti1lOVBtWEZoTVg0RFNLd19ZWWdDS2hzUEhqQ3dlVmktWlo0OXl1bzhjSnVHZVVGbThaWFEzSk91U3ZEX0xuMkRtVV9ZOEVqd0VnNlRYdGZxY1pBU3RWNUU3UlVpRlhIWjVKV1BscWF6YzREd9IB5gFBVV95cUxOZXc3M0lFZ2hmY0NMa0ZyeTJyUGYwdVctOWVFa2ZXQkxRUzdMUG00UjFEZlltMmRPY25oZTI5S1EyZHJnMWVsVTJYaWhLSHBJRmVQaWNDX2pPRGhVdnY1eXpKYjlfZmtRMm1UVjNRV3VMWTB6eUpuemR2WjlYS24xYlhLaEZrWW5BQjdYZ21wYzlzWEJ2dUNQWFVBZi1fZDg0UGZtRGV6N041X1BUc0VLOXlpZjBKM3dKZHRrMU9PNGVCTVVxVjBnZE5RYzlVUmhJYzB2OU4xSTAzd1o5S2tFazlUamlOZw?oc=5)
 
 ---
 
