@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="Rasburicase 有什麼相關新聞？">
-<strong>Rasburicase</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rasburicase</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ permalink: /news/rasburicase/
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Scientists Propose New Strategy in Fight against High Blood Pressure](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5)
 
-2026-08-04 <span class="news-indication-tag">high blood pressure</span>
+2026-08-04 <span class="news-indication-tag">hypertension</span>
 
 來源：[Sci.News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/rasburicase/
 2026-08-04 <span class="news-indication-tag">hipertensión</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
-
----
-
-### [Hypertension après 50 ans : ce plat provençal est excellent pour nettoyer les artères - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">hypertension</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
 
 ---
 

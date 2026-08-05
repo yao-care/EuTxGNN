@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Grandmother died after increasing Mounjaro dose, inquest hears - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ09hS1Njc3E1aEZWaWJWZjVNaDVhVHVmVGlmTkt6UHdmRWdVeXYycTZWOG9WTmVrWS12bHlxcGhEY0M2NUhDT1BGZ3VuZEttY0ZVdTl3RnhWd1RhVFdHR05JTzNoaVUySXJJUDU0OXpmUkdyM2sxX2V2cDI3VHlTdWdYbkw2cTZkRmkxWTNQQ1hwLWVxTmtzYTNVRFlocE9hU1gxSkQxOA?oc=5)
+
+2026-08-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ09hS1Njc3E1aEZWaWJWZjVNaDVhVHVmVGlmTkt6UHdmRWdVeXYycTZWOG9WTmVrWS12bHlxcGhEY0M2NUhDT1BGZ3VuZEttY0ZVdTl3RnhWd1RhVFdHR05JTzNoaVUySXJJUDU0OXpmUkdyM2sxX2V2cDI3VHlTdWdYbkw2cTZkRmkxWTNQQ1hwLWVxTmtzYTNVRFlocE9hU1gxSkQxOA?oc=5)
+
+---
 
 
 <div class="disclaimer">

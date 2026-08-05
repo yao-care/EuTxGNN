@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 cardiovascular disease</span></li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 cardiopatía</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,21 +52,13 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（3 則）
 
 ### [Scientists Propose New Strategy in Fight against High Blood Pressure](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5)
 
-2026-08-04 <span class="news-indication-tag">high blood pressure</span>
+2026-08-04 <span class="news-indication-tag">hypertension</span>
 
 來源：[Sci.News](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdTVBdFhiTTVfclVxc3FSNGlHUXo5WjhpSzctT0dsSXhRVmszU1VGeElaQzM0eDlULWhUSUhCRUh5MmpGZkRMakxJdkVrLTFva2pmeDU4Qi10TkxqOUpPeUNGRTNSY2czbENJOEI0cW9Wd09mc3hackFGUFJJd1lYTUh5Yw?oc=5)
-
----
-
-### [Calcium Scores May Refine Risk Estimate and Statin Decisions](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
-
-2026-08-04 <span class="news-indication-tag">heart disease</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
 
 ---
 
@@ -83,22 +75,6 @@ permalink: /news/lonafarnib/
 2026-08-04 <span class="news-indication-tag">hipertensión</span>
 
 來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
-
----
-
-### [Can we map diets as networks? Food combinations linked to mortality, cardiovascular disease and life expectancy - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
-
-2026-08-03 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
-
----
-
-### [Hypertension après 50 ans : ce plat provençal est excellent pour nettoyer les artères - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">hypertension</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNktQSkV2d0xoRjRpemE5MVFIRHdPTUZ5Z0tid05TOXhwc3o2SWxldU9lN0RpZV9xQ0JpQWNWOWxZMVdrRjR2QzZFZnEtdm9EX0REYUEtbm51UGpDaXUzT3dRSTV2TzVreDNvcmo0aVRuMU95VTUtVUxNXzJuWDY2Qlh4dF9aR2NzbnJXenhwVQ?oc=5)
 
 ---
 

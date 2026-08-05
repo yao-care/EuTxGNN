@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
-### [Ballaststoffe, P-CABs und KI: neue Impulse für Magen-Darm & Diabetes](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
+### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[t-online.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
+
+---
+
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlN5VnRWX3lCS0xBNWFVa29vYUg0RzhaMzNwTVprVm52NjZZWTV3SHdYQmU0eFZFUkpBWUxiMGRHbVlrQzRfU1prdUZXdTFuZGxhWTFOZjRPcjNlT0VuaTBjYzVKNkoybEItSXdpVEhsdWctM1hpa2UzNkljNHdhemxPSGtaV1drSFluSFo5LVVVazRPSVVwd3dsb2tSMzVCS3dubzRqT2ViYjE5TndrRzRSM2EwT21HYzd6VFZDWmpyNnF0SlE?oc=5)
+
+2026-08-05 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlN5VnRWX3lCS0xBNWFVa29vYUg0RzhaMzNwTVprVm52NjZZWTV3SHdYQmU0eFZFUkpBWUxiMGRHbVlrQzRfU1prdUZXdTFuZGxhWTFOZjRPcjNlT0VuaTBjYzVKNkoybEItSXdpVEhsdWctM1hpa2UzNkljNHdhemxPSGtaV1drSFluSFo5LVVVazRPSVVwd3dsb2tSMzVCS3dubzRqT2ViYjE5TndrRzRSM2EwT21HYzd6VFZDWmpyNnF0SlE?oc=5)
+
+---
+
+### [Ambulances test for fatal DKA diabetes complication after man's death](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
+
+---
+
+### [Immunoproteasom als neuer Angriffspunkt gegen Diabetes-Entzündungen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
 
 2026-08-05 <span class="news-indication-tag">diabetes</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
 
 ---
 
@@ -78,19 +102,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Trop de protéines pourrait nuire au vieillissement en bonne santé, avertissent les chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">cancer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak5VdWVUVmJ1WkpCTHhLWEtuVzFnQ1dab05LdmRCSmpXak5MWDFFSU53Ti1mcDJFWHBrWFlST2o2c3dzODIwTWFyMVRqdkJHV1FXVEstRjdnVV8wUC1DamhwVFQtck5SVm9aWHQzT1hKWUZGN09DSWF5d0xSXzNKVkxpM3pEM0lKaWdHM1RHX3RfdDBKV2ZkX1UzbTZueDZEYm5jQ1MtLS13Q3hCTWpnN2NrU2hOTDdNdlI3cHVZNHdqX20zbktZeUFTa2JxSTRsdFRsLTlVLTljYWR5V1RiMlNRT1lfQQ?oc=5)
-
----
-
-### [Immunoproteasom: Neuer Ansatz gegen Diabetes-Entzündungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkhObWdaeUV5UXB6Nk91c0pVNkJhcnFlWFpON1VwQXZjbVdlSDF1d1ZpOWJLOWlhN1BZaUZhaVUwczVqS3NuTjhEbDE2ekYtbmlaMUt2TkVQOGdIODByWU9ERWR4VV9ocTZGdDJsLTFzMjhKTGlab1BtS3NvcUhQdnp1Q1NqVEhobTdhYWJPcDU4UGw1bHhrS1JySFFMTXNfLU5FdzgyZTlFQQ?oc=5)
+### [Ballaststoffe: Harvard-Studie belegt 34-Prozent-Schutz vor Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xkVHZETEVEc3dQVDRrN0RrU1BYemo4SGdkd3FWcDJwWXBhamVqYURVR1JXVW5QenU4M0hFSGRLVm9WRFFrd0JpdXFwVXZzVFFuMldvYkp5ZVYtdDZKOXl5TVhaczN5NFEyN2lvSHdVcnpBRy1VX1ozOXZYMGZzc2pFaWdaWXNkeW9fZ01Yb25YQVRDMUN5dkFja0FZX3YzaGhpLWdNSkFuNHFWYVdlcXpvQ3Q5dw?oc=5)
 
 2026-08-04 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkhObWdaeUV5UXB6Nk91c0pVNkJhcnFlWFpON1VwQXZjbVdlSDF1d1ZpOWJLOWlhN1BZaUZhaVUwczVqS3NuTjhEbDE2ekYtbmlaMUt2TkVQOGdIODByWU9ERWR4VV9ocTZGdDJsLTFzMjhKTGlab1BtS3NvcUhQdnp1Q1NqVEhobTdhYWJPcDU4UGw1bHhrS1JySFFMTXNfLU5FdzgyZTlFQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0xkVHZETEVEc3dQVDRrN0RrU1BYemo4SGdkd3FWcDJwWXBhamVqYURVR1JXVW5QenU4M0hFSGRLVm9WRFFrd0JpdXFwVXZzVFFuMldvYkp5ZVYtdDZKOXl5TVhaczN5NFEyN2lvSHdVcnpBRy1VX1ozOXZYMGZzc2pFaWdaWXNkeW9fZ01Yb25YQVRDMUN5dkFja0FZX3YzaGhpLWdNSkFuNHFWYVdlcXpvQ3Q5dw?oc=5)
 
 ---
 
@@ -99,30 +115,6 @@ permalink: /news/abaloparatide/
 2026-08-04 <span class="news-indication-tag">migraine</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEd4MnpaY2tJRjkwQVV2SHgtV01wWU9MdjcxelhJZ01jLWNlaEw3MWdBVVRsYmMyTV9ETE55eE1yNDBYSlg4aG5BUTBZY3JDQ1VwMTJXVUtLem5ubThRTTQydFdMVy1oQ2VwWHBETWFOUjc3ZWYzV2QwejdSamFGY3FuSG1vbnBTNVJBazRPa0hRWXhBLVdWRGJLeGFjLUZZQW5mU080aGRWRWs0d1d5b192emkwQ1RNZjlwYWRhYjVEMnNSd3Z6cWtXajZpckpmSFVZRm1PaTRpd1NONER2Z3J5SDhzLU44d0E?oc=5)
-
----
-
-### [GLP-1-Rezeptoragonisten könnten Frakturrisiko bei Erwachsenen mit Diabetes reduzieren – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabetes</span>
-
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ3lhTUttZDQyRmY0U3BNUi1teFk4dTgxRXd4UVdhck0wSzRrWVh5bDZoM2RyTTNLTmNJY3RjNVpQVlltZEFjZVgzSFJNZEZ6TTBsT21uUGxGNVpvRDdZMUpXaVl1SWxURC1WSW9VYU5pLVNKOXpiNUpkQ2k0RjRqa1plSGYwUzBMT3oxck1MYWhJQWMxR1FlR0I0VVphME1WbHEwUmpSQnZGTWxuWUFZOGRhYUtXVC1ERDlNMW9PY0drd0VhR19vUGxsSlZMYU9BdjdMQzhlVVVoUk1yWVRoWVFDeXh3Wm5MVEE?oc=5)
-
----
-
-### [La endometriosis más allá del dolor: la afección también provoca ansiedad, depresión y migraña - El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
-
-2026-08-03 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">migraña</span> <span class="news-indication-tag">AF</span>
-
-來源：[El Periódico](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZlNDdQUWtoS2RwM1ZWUmxvZlo0bDQ1VU5INGEtQVFCUTFHRHpwejVJcUJqSW9VZG1OQ0JJai16NnJPMEFtd0g4VndDSE9yVldzaWtIWHNqOEVjNDVOMUl3NTl0endvTFZ4ckE3ODhVSXIwdFhyQThUTDhkM2ptX053a2x1Mjl1cl9jWWN0MXRfaF9QbTJGWTlsZW5BS3BYVjN2VTM3SU8xci1TQnVfem1VV2pRcVQ4SkNONWt30gG-AUFVX3lxTFBVbldjSnUyYW1qTXBleGp5ZVhvRkgxR0pqNFRoaDZhbVl0dmo0cjZpY0hLY3VPM3RELTUzay1PMTQ1UE9WdDhVb1hXS202dHRDVHptYmJXaDJpNnNnU3pIQzRmd28zUnRrQjJsTWhyclVYSEJOQVF4ZVZDNmY2QnVxSG5HMjBYZUVpd2RJX3hMeHh4X29nODJZeDFqNU1vNmstZEhuampvS1BpQmMzamgxalNiU25DbzJtd1BKdWc?oc=5)
-
----
-
-### [Stop al diabete prima dell'insulina: successo a Palermo un anno dopo, la terapia innovativa congela la malattia](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThUaGg1S2VlNjJ6eWZIcy1rT0dBblZFTkhrTVJtTk0xWWJXUjBCY3hQbnkwZE1XZjJkYzF3MFFVRVUySGo5NnFER3FxeVEyYjgtdmFhNFYxZ1VYTFlSY2Zka01XeFlwbXJDclluYko4WmhlUURwUGZlVndSN2pOTWxfZ0xRQQ?oc=5)
-
-2026-08-03 <span class="news-indication-tag">diabete</span>
-
-來源：[PalermoToday](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMThUaGg1S2VlNjJ6eWZIcy1rT0dBblZFTkhrTVJtTk0xWWJXUjBCY3hQbnkwZE1XZjJkYzF3MFFVRVUySGo5NnFER3FxeVEyYjgtdmFhNFYxZ1VYTFlSY2Zka01XeFlwbXJDclluYko4WmhlUURwUGZlVndSN2pOTWxfZ0xRQQ?oc=5)
 
 ---
 

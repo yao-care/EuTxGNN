@@ -14,7 +14,7 @@ permalink: /news/abacavir/
 ---
 
 <p class="key-answer" data-question="Abacavir 有什麼相關新聞？">
-<strong>Abacavir</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abacavir</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ permalink: /news/abacavir/
 <p><a href="{{ '/drugs/abacavir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（0 則）
 
-### [HBV in Deutschland: Fallzahlen sinken, Impflücken bleiben - Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
-
-2026-08-04 <span class="news-indication-tag">hepatitis</span>
-
-來源：[Medical Tribune](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlFHZ2FlX1dhZWhVU2ZGejU3bWdEZzlrS2JFdXl2QWlscmJSdkZhZVg0RUkyRFp0bW9kR3VYYzlkbVhvd19ibm56SlVUSlZmTEdvOEk0d1FiQmdaWUcwYU1sU01LMUxvWWNZb3c4M2g5UExKSHJqRG9qT0ItaHl2RnBoWG0tMWtEdzJ6ZXNlUm8wb04xQXRCTlc4eVJhVVFJem00cjItVDZQY3U1ODJGZlJBNFB6SVU?oc=5)
-
----
-
-### [Tendencia clínica: Día Mundial contra la Hepatitis](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
-
----
-
-### [Virusinfektion: Studie zeigt schwere Folgen von Hepatitis E bei Leberzirrhose](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
-
-2026-08-03 <span class="news-indication-tag">hepatitis</span>
-
-來源：[mt-portal.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXdyYURKaWp4Sm1zV2EzTXM4VDFqWmVaeFE2OVdYeUw5Q0d4UmFtSUVQTzlGcnZ6NFMwMnllYmRkNUVGdUFxUHZ3RlZyV1FVSUtLRlQ1NWd1RWN3SWMyUXFhWlJ1ZHFIckI0ZVZXUkFieVhPbVc2T0xQQ21jYXpLWi1oSXNyM3dGYnVOTDVxMXpyNVV6akE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

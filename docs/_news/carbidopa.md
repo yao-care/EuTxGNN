@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,37 +41,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Scientists Thought SuperAgers Had Lucky Genes. They Were Wrong](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEJtb3RjOWstZDNvRG5zSXNpbzJKSjYwd3dOY0o3d2U3V25RMVY4ODVaWnUxcEVnTTJOdU95UlZ2R0FPbTRHdU1ocEx3a3NUbWpJc0tsUkJFVG9oTW5RamswNEhvMnVJQy10czdxLXczazh4OUp0Sng2S2RkdFlrQWNuV0xSMTNUUkg1YTZfMFQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEJtb3RjOWstZDNvRG5zSXNpbzJKSjYwd3dOY0o3d2U3V25RMVY4ODVaWnUxcEVnTTJOdU95UlZ2R0FPbTRHdU1ocEx3a3NUbWpJc0tsUkJFVG9oTW5RamswNEhvMnVJQy10czdxLXczazh4OUp0Sng2S2RkdFlrQWNuV0xSMTNUUkg1YTZfMFQ?oc=5)
-
----
-
-### [Why your brain isn’t safe: what governments must urgently change about dementia - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
-
-2026-08-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHUycFpOTU5XMzhFLXY5YVVXa2hIZDUybUFHRVYxcXJvRlQ1bEdiZ0x1ZWxRdzlUWU9KTUZ2QkoySVZoenZRcWVaVzJiamlaQnAzYVU2bjR0UnpCZjExMl9INVNBZE1kc2wzd0pkeEdtNnRDWFFIMDVrUHlOUmQyU21PZ2ZTWVNqY1duRkJPUVhQMVN5SkMtZnQ0cUlDYkFpTXpld21HY2JMdlprT1V3U09xUGpuQ3dQQ0Y4?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Dementia patients to block quarter of NHS beds - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
 
 2026-08-04 <span class="news-indication-tag">dementia</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVZ3NnhPNVBzV016VUJVN3ZrbnUwbFFKTEFJMjZNd2ZGVDFYTFc3bnRZWkRjQzhtdm9KajFfM2kyMHRpWjNFaC16ZW5ybHpCcGNmVVVDR25EckI3UlQzN3VDWUNnbmJldWZPLXRmSi1NVkN3MjVzcC0yRm9mUXc0M2tSbWhjYkpQRXNjczRQaTJmSGQ1ckE?oc=5)
-
----
-
-### [Stress, old age, or dementia? Here’s how to tell - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
-
-2026-08-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
 
 ---
 

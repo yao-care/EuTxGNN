@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="Capsaicin 有什麼相關新聞？">
-<strong>Capsaicin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Capsaicin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,29 +34,13 @@ permalink: /news/capsaicin/
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Calcium Scores May Refine Risk Estimate and Statin Decisions](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
-
-2026-08-04 <span class="news-indication-tag">heart disease</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGlPN3FqZWx6TlQ1VUhuMFlQOWtBVzY2ZWgyQ0pFR09XTl8yeUFkZlluNjJmcTNDUWV1NVNyR2QySXpvWUNEQ0x3ODVUVGNFbEJXbGhUUWZTakIxUDVDSVBmVFJxcnZnbDg2SUtxcHU4a0JjUkRUTjR1azJVUlltbmhHTVBlcVo4YTFJQnpPRjVmLWRpVUZpb05DTDVhVGpydFU0R19n?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [La hipertrabeculación ventricular no empeora el pronóstico en la miocardiopatía dilatada - Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cardiopatía</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY2VsOFk3UFI5SVNSWFE3VmFNTUJnQmZiVjlCZ2E1VElfSVRLYnZmV3owMHRSVlVwM1dlbm5XLU1ZOEhnejNySDNYSmxZdnJXbTZOeEZJZjRWd1lXZW1vWlhzdDBZanNEQjBzbGQzT19NSERtVWRta0pua0JqbFc5X2tIWURCVW1wVVJQNFRoeVhlUE5lMGtwUmlkay0zMWlYeTdrQUhWTVBYdE1PcExwVlRXa1hoeWs?oc=5)
-
----
-
-### [Can we map diets as networks? Food combinations linked to mortality, cardiovascular disease and life expectancy - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
-
-2026-08-03 <span class="news-indication-tag">cardiovascular disease</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW5MMGcxVFlaZERpRDRyWFdfeVlQdDNpaVBTSkgwbjBacGFHX1VEenhpRGF1aGVGbG5vdnBUN21SUVFoSFdWRG1ncXRBRk1ZZmxCbUg0Sk1xbFBKMjFMSEJMM0ctNmpUaEd4SThjYTNJd3doRHVEaF94LUlNQmgyN1kzZ0NseHRfOVVz?oc=5)
 
 ---
 

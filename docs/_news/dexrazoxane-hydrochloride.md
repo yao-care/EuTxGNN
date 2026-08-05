@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Neurodermitis, COPD & Bronchiektasen: neue Therapie- und Versorgungsdaten](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
-
-2026-08-04 <span class="news-indication-tag">copd</span>
-
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

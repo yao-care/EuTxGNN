@@ -54,19 +54,43 @@ permalink: /news/cariprazine-hydrochloride/
 
 ## 相關新聞（16 則）
 
-### [Cinco buenas noticias sobre VIH que deja la Conferencia de Río - Agencia Presentes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmZ2TDJUSmg4QVBpQ0xldm40amdKcGJTNkhOVDRxYnp2TGdUUE5fTm00SnJXY2NXYl8xS24teFNzMFVkMVBEVEpFNmpFZjRJcU5odld5dlowX1RGMTZuaHlHQ1A4VmZ2NF82TmE4eHQ2WWg0NVg4dnhjS09fdkFzd0ZiMExTcnNhWE95OXZwZWRvb1RTUERwSjc2b0dUOC1SS3lWRUpR?oc=5)
+### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
-2026-08-05 <span class="news-indication-tag">MS</span>
+2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Agencia Presentes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmZ2TDJUSmg4QVBpQ0xldm40amdKcGJTNkhOVDRxYnp2TGdUUE5fTm00SnJXY2NXYl8xS24teFNzMFVkMVBEVEpFNmpFZjRJcU5odld5dlowX1RGMTZuaHlHQ1A4VmZ2NF82TmE4eHQ2WWg0NVg4dnhjS09fdkFzd0ZiMExTcnNhWE95OXZwZWRvb1RTUERwSjc2b0dUOC1SS3lWRUpR?oc=5)
+來源：[t-online.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
 
 ---
 
-### [Vitamin K2 kann Gefäßverkalkung bei Rheuma um bis zu 25% bremsen](https://news.google.com/rss/articles/CBMingFBVV95cUxQb28tTFBRcFF1NC1LTUtMcnVwTzBjcmZJMTY1cHlablFoU29COTMzY1dJVUZCYkVxZFFHMTRrOHBvU3h6Q2RqV3NCZkZqNE1QR0d4SkdRVGFvUUJydHBHNlNaT1VlLUhYekROYlRjb1FJaER6RzRaUHo0Vmx4d2hrd3BidXczU29yaUExa2ZqS21Demp6RTlzNjhFR1doUQ?oc=5)
+### [La OMS pide más apoyo para frenar el brote de ébola en la RDC](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDhoOHNWWTh6Nmpza2J5aFFzNzNtNUlPR2FSR3FnT0JvOWpVRGhtZ1lIbmdNMTJwNEk4bHNvX2lZemZUbF9XeXdXMjdRdENqYjFlcnRNMDc0X3RKak9Kc2ZONFZtcGE0aFcxS0RDZXl0cVBHY3hYbXl0UjlpZEpoZ1ZJaG5oNk9LcjU0OTNrbGktaFNabWVjbWs0LUdXNi1DbEM5aTA4czAxdnI0OEVzZjVsbm5UUnI1aDZQSWp4cnJGQQ?oc=5)
+
+2026-08-05 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObDhoOHNWWTh6Nmpza2J5aFFzNzNtNUlPR2FSR3FnT0JvOWpVRGhtZ1lIbmdNMTJwNEk4bHNvX2lZemZUbF9XeXdXMjdRdENqYjFlcnRNMDc0X3RKak9Kc2ZONFZtcGE0aFcxS0RDZXl0cVBHY3hYbXl0UjlpZEpoZ1ZJaG5oNk9LcjU0OTNrbGktaFNabWVjbWs0LUdXNi1DbEM5aTA4czAxdnI0OEVzZjVsbm5UUnI1aDZQSWp4cnJGQQ?oc=5)
+
+---
+
+### [« Il faut creuser... » : 5 questions sur les vertus supposées du Viagra mises en valeur dans une étude sur le cancer - Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNEU1U2VmTjV6dzRIcUVsV2w4UVcteTcyaFlzYUllMkJsSFRVU2NyeWoxNnA1NkNsU0NVSXpWaG5PNDU3YTlNU295ZVdEZHMzTXBUbWxNREJJYno2QXRuV2hXQ1FmUlFaV2dqODZwOVF2b2RCLTZ5TVFYT2ZIaGtxQW5tWnR3UUF1STh0RDhzNmQ3UEhWMzFLS1h5V0loV3BkcHVsVE1EcEVOV1U2dVRnVUx6YjFtWXllbkFSSnNHaWxfYllNZURpb19WR2k2RXJCZzNGRUx3QjNFUlFCVFpzb1FtYmRDcVRDMTBoRHMyQ2JoWmRFRDZ5TWc2UUY4YTZfSjN3WW85WFY1cV9YaHJ6ZWdYVTNjTllM?oc=5)
+
+2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNEU1U2VmTjV6dzRIcUVsV2w4UVcteTcyaFlzYUllMkJsSFRVU2NyeWoxNnA1NkNsU0NVSXpWaG5PNDU3YTlNU295ZVdEZHMzTXBUbWxNREJJYno2QXRuV2hXQ1FmUlFaV2dqODZwOVF2b2RCLTZ5TVFYT2ZIaGtxQW5tWnR3UUF1STh0RDhzNmQ3UEhWMzFLS1h5V0loV3BkcHVsVE1EcEVOV1U2dVRnVUx6YjFtWXllbkFSSnNHaWxfYllNZURpb19WR2k2RXJCZzNGRUx3QjNFUlFCVFpzb1FtYmRDcVRDMTBoRHMyQ2JoWmRFRDZ5TWc2UUY4YTZfSjN3WW85WFY1cV9YaHJ6ZWdYVTNjTllM?oc=5)
+
+---
+
+### [Vitamin K2 kann Gefäßverkalkung bei Rheuma um bis zu 25% bremsen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQb28tTFBRcFF1NC1LTUtMcnVwTzBjcmZJMTY1cHlablFoU29COTMzY1dJVUZCYkVxZFFHMTRrOHBvU3h6Q2RqV3NCZkZqNE1QR0d4SkdRVGFvUUJydHBHNlNaT1VlLUhYekROYlRjb1FJaER6RzRaUHo0Vmx4d2hrd3BidXczU29yaUExa2ZqS21Demp6RTlzNjhFR1doUQ?oc=5)
 
 2026-08-04 <span class="news-indication-tag">MS</span>
 
-來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMingFBVV95cUxQb28tTFBRcFF1NC1LTUtMcnVwTzBjcmZJMTY1cHlablFoU29COTMzY1dJVUZCYkVxZFFHMTRrOHBvU3h6Q2RqV3NCZkZqNE1QR0d4SkdRVGFvUUJydHBHNlNaT1VlLUhYekROYlRjb1FJaER6RzRaUHo0Vmx4d2hrd3BidXczU29yaUExa2ZqS21Demp6RTlzNjhFR1doUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQb28tTFBRcFF1NC1LTUtMcnVwTzBjcmZJMTY1cHlablFoU29COTMzY1dJVUZCYkVxZFFHMTRrOHBvU3h6Q2RqV3NCZkZqNE1QR0d4SkdRVGFvUUJydHBHNlNaT1VlLUhYekROYlRjb1FJaER6RzRaUHo0Vmx4d2hrd3BidXczU29yaUExa2ZqS21Demp6RTlzNjhFR1doUQ?oc=5)
+
+---
+
+### [Ebola Bundibugyo, la corsa contro il virus: vaccini e terapie entrano nella fase decisiva](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZG1GMFJUcE85OUdwWDh5Y0JxOERpV1ZMemhSQmMySGlIR3N2Ty1LTkRIcjJZX2VZdW52eExzTTBYNnVLYVJFck5vX0ZwWTRzb1REUmlLc3FKWEdoQzdYQmxzTnc4ajBnaTBsMFpwWUZTYThsaGM0czZJak02T0J1bWx6X3EzZzU2a3EwRUg2TlZsRXNsR2ZYaXI0YkFGeXNBc09CZGUwd3dwWjYwME5adkFWM1ZSdy1KN3I2UVdHbDlWZE5BdDVKVE1jV0xPSi0yLWJ5YUJCeWwteUxYaTRR?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZG1GMFJUcE85OUdwWDh5Y0JxOERpV1ZMemhSQmMySGlIR3N2Ty1LTkRIcjJZX2VZdW52eExzTTBYNnVLYVJFck5vX0ZwWTRzb1REUmlLc3FKWEdoQzdYQmxzTnc4ajBnaTBsMFpwWUZTYThsaGM0czZJak02T0J1bWx6X3EzZzU2a3EwRUg2TlZsRXNsR2ZYaXI0YkFGeXNBc09CZGUwd3dwWjYwME5adkFWM1ZSdy1KN3I2UVdHbDlWZE5BdDVKVE1jV0xPSi0yLWJ5YUJCeWwteUxYaTRR?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Essex Live](https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjdtZ2dRbkliUjdZX3g3ZVZuLVpOVmFSTjg1Vzg1NkJfOHRqTU5CeDlEblNSOVF5aEswY0tEU1pHdDNqVEtCd0JsbVNuZEgtaFJGSnl1eVVyLWstZExvYjRMdGozWjVlS1hWeVVleWhocDh5VnItLU9PaG5jTG5USEU2MV9aMXlsVHhqb2JsdmNwWWtrb3hR0gGcAUFVX3lxTE1GbG9LOHNzMjRWSnRkWWRoMWl1Zm83RU1FQjk3WlRDeS1DUU05Z285ZDJ1ZmZ6VGZVZnlJZ25Db0ZRYnBOSlY0VHZUNzBxWmVoeVVCbE5adHdHa3pGV2MxdDZEOUJlM1NEcHRUcHduelEtb251YjJCeE1CRlNkclA2dTVLeGloWlBDY2R1c0ZxZ0wzWnFzV09ReUxfdg?oc=5)
-
----
-
-### [La OMS pide más apoyo para enfrentar la epidemia de ébola en RD Congo - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmpkTkhTdmdYejVpRHIteXRWMFpmME5JajRYX1RpT3d4QTJWTjJRUEU3SGFnU2l1cmxCdGhjOWJqOERkbWlJUTZNMzA3djdZNV9uUEwyUTFmZjNLYTVxNXF0dENFUGxaYlpUMVcwOEpqbGNkT0l3S3NNdW1HMkljV1dmTW9BTlhZcnJ6U3VXQ1FpR3VoUWtOYXdtNTIycU0yVGEzSFEzTUluelpoT1E3QmphQWJlYi1tUzMyQTZBUERBZ2FxNEpJVGJmVkQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRmpkTkhTdmdYejVpRHIteXRWMFpmME5JajRYX1RpT3d4QTJWTjJRUEU3SGFnU2l1cmxCdGhjOWJqOERkbWlJUTZNMzA3djdZNV9uUEwyUTFmZjNLYTVxNXF0dENFUGxaYlpUMVcwOEpqbGNkT0l3S3NNdW1HMkljV1dmTW9BTlhZcnJ6U3VXQ1FpR3VoUWtOYXdtNTIycU0yVGEzSFEzTUluelpoT1E3QmphQWJlYi1tUzMyQTZBUERBZ2FxNEpJVGJmVkQ?oc=5)
 
 ---
 
@@ -96,7 +112,7 @@ permalink: /news/cariprazine-hydrochloride/
 
 ### [Sclérose en plaques : un biomarqueur pour suivre son évolution](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
 
-2026-08-04 <span class="news-indication-tag">sclérose en plaques</span>
+2026-08-04 <span class="news-indication-tag">MS</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
 
@@ -126,11 +142,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Israelische Studie sorgt für Aufsehen: Wie Viagra gegen Krebs helfen könnte - Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
+### [Israelische Studie sorgt für Aufsehen: Viagra könnte gegen Krebs helfen - Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
 
 2026-08-04 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
+
+---
+
+### [57 Habits Young People Have Now That Will Cause Big Problems Later According To Those Over 40 - Bored Panda](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRTlhX0xUY29MTFoxTXhXQjdYNXV3X3Q3Z05nODk5MHFrSDB1SXM4WE80SGpPeUExbjl0MURvN0dsUkxSdWppY0VCV3FBMWVYVUNQUHdKUEI1S3ZBd2dxX1g3Y25OajBE?oc=5)
+
+2026-08-04 <span class="news-indication-tag">MS</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRTlhX0xUY29MTFoxTXhXQjdYNXV3X3Q3Z05nODk5MHFrSDB1SXM4WE80SGpPeUExbjl0MURvN0dsUkxSdWppY0VCV3FBMWVYVUNQUHdKUEI1S3ZBd2dxX1g3Y25OajBE?oc=5)
 
 ---
 
@@ -142,43 +166,19 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
+### [Infecciones por VIH aumentan en Latam y el financiamiento global disminuye - Vértigo Político](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0FFUGQ4MFB6OVdtRnJzSVZjc05McmlXVkpvWk5iSF9oZzRtS0xMYXRIWlU4aWlhampNMmJTaGRfUWZMNnpWbExvOUt0R1VPa1RiclJOMFBGdl9SbnlMYWZDd2EzY3YtbW9YMFlmMmZYaXZ3dURxYjNRNDJlMW1UM3FvcEdQZ3pHanFTZjQyTm1FN1NEbjQ1Tng0b2hTRHlwQmpEeEYzZnRPMlQ1MUZMZ2tRQ0R4bmNLWWxyVC1CY3XSAc4BQVVfeXFMUEF5TjFTUmJRZmpGYzJKQmJZUlh0TGZZbDJjY0RWTjBzRjJwejNFTlF4bC1WVjBFWjFhSHk0OWlFQ1Y0T1BUaDdpUS1fQjl6S05WTGlPbHMxNE9GbGhtbEpGcWI3NXh0alpreXVOVkhEYkFBM1BXRmJaSXZ2OHdoY040aXBQRldVcjdDTGJpanV2ZFFLdnp3cVB5WDc2SE9XV3ZINTZnb0VPU3FWcGVhMFVhVlRRbS1GdTVISjJDSXYwQkdmemZWV2dicW1UekE?oc=5)
+
+2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Vértigo Político](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0FFUGQ4MFB6OVdtRnJzSVZjc05McmlXVkpvWk5iSF9oZzRtS0xMYXRIWlU4aWlhampNMmJTaGRfUWZMNnpWbExvOUt0R1VPa1RiclJOMFBGdl9SbnlMYWZDd2EzY3YtbW9YMFlmMmZYaXZ3dURxYjNRNDJlMW1UM3FvcEdQZ3pHanFTZjQyTm1FN1NEbjQ1Tng0b2hTRHlwQmpEeEYzZnRPMlQ1MUZMZ2tRQ0R4bmNLWWxyVC1CY3XSAc4BQVVfeXFMUEF5TjFTUmJRZmpGYzJKQmJZUlh0TGZZbDJjY0RWTjBzRjJwejNFTlF4bC1WVjBFWjFhSHk0OWlFQ1Y0T1BUaDdpUS1fQjl6S05WTGlPbHMxNE9GbGhtbEpGcWI3NXh0alpreXVOVkhEYkFBM1BXRmJaSXZ2OHdoY040aXBQRldVcjdDTGJpanV2ZFFLdnp3cVB5WDc2SE9XV3ZINTZnb0VPU3FWcGVhMFVhVlRRbS1GdTVISjJDSXYwQkdmemZWV2dicW1UekE?oc=5)
+
+---
+
 ### [Zelltherapie aus Eigenblut besteht ersten Test gegen Multiple Sklerose - Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
 
 2026-08-03 <span class="news-indication-tag">Multiple Sklerose</span>
 
 來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdlFQdk1kMXhabk1WQ0dpSUhJaG8yNGIxWmVMUXVuYTVMQ2lhN2xra3RoM1lWU1ZUWVVQZUtXNUZraklUYXFPQWhyWWR3QTRHTmlTbEtUVHpyeUpoSDlveVJnSmkxemphdjBhRkdFYWRMWGh5UzNvU3BGUHdPblFZQjVvU0hPb3NIWDhkbFpRR3hqc1Qtc0EtMlBvV20weU1LVjdaX3ZoZmVFLVAwSDI4SDJqZWVieHB2MzM2TUJta1lpWGgyUGdINVplRFBLbERvWHc?oc=5)
-
----
-
-### [Tendencia clínica: Día Mundial contra la Hepatitis](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWxMTFR4T2htN3lLT3BaR1djOVY3QmtzTXlNbU04em1YV1ZGWjdsaFZ4WGI4N3pBRElmbV9yMWdocGJzbXhoODBhWXRkUy1BLXc0QUlkMzE3RWRjeFJfeVRONnNZTlgxRGVpV1gwWXptQnpmT1ZUSGNGcDV2ZGxRamNTOUs1aFpqcElQY25PaXY?oc=5)
-
----
-
-### [Stress, old age, or dementia? Here’s how to tell - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
-
-2026-08-03 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxON0tNbkR5V0dWMWZhd0ZaUW1JZVNxU0pIbktHS3ppODBMUWZiUzZYZGNXQUZnU3JWWGhFVEo1S3dEekFfeHVpRGFDcFNXOW5Fd0xEUkp4b3FaRExCYWJjeGtWZXlZTG1BNTlMdm96SUVIUExjajI4OTljYWhGV3docWJwMzNYRXpoR2pycG5wdHFxZTVGWENkckxSTkxEdw?oc=5)
-
----
-
-### ['New MS treatment could be like starting a new life'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMU5WNWZKUFJnUkljQ2Y5RVZaMU5VZ0NtY0d5VXA5LVRXUVRRSEtMb1R5QWpFY29JeXNpYmhmU2tFaHBRQWIwSFFYN1otZy12QTRIbmROY3lmUjZf?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMU5WNWZKUFJnUkljQ2Y5RVZaMU5VZ0NtY0d5VXA5LVRXUVRRSEtMb1R5QWpFY29JeXNpYmhmU2tFaHBRQWIwSFFYN1otZy12QTRIbmROY3lmUjZf?oc=5)
-
----
-
-### [Los recortes en fondos para el VIH ponen en riesgo décadas de avances, alertan expertos](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
-
-2026-08-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Euronews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1NaaGpGUDZzTkVmLUZ5LXozcWNBekRlOTl3cDUtVDJicHRHZ1VuajhGVngxLWZ6aXhZcVdlUlpKUzc5MnN2emc1dWVKLVk3NXpxa2JJX3M3bmRNR1VpWUNfQUlpVmc3NlRjdmhsN1dWdC1CbmRISUJ5WlAwTVdLMm51YmMwRkdfSUUyUUZyOXQ5aWtGUFdHTlRZd0tfVkppX2w0dTByWTZvdGF3d3NIS2ZySGRVMGh5bmludldVZDg?oc=5)
 
 ---
 
