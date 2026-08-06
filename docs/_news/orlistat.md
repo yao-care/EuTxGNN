@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+
+2026-08-05 <span class="news-indication-tag">obesidad</span>
+
+來源：[radiomitre.cienradios.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+
+---
+
+### [zanadio mit klinisch relevanter Gewichtsabnahme bei Patient:innen mit Adipositas und Herz-Kreislauf-Erkrankungen assoziiert - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+
+2026-08-05 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+
+---
 
 ### [« Ce défi lancé à la boutade s’est transformé en aventure solidaire et humaine » : deux jeunes parcourent 657 kilomètres à pied entre Marseille et Dax en soutien aux victimes d’AVC et leurs proches - Sud Ouest](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdzNOTXFnWXM0MHFKbElYRzZaeTVfRDhuS1hnNy0weE9lRF8xRVBtaEJJTkZKV25ZU0wyaVlBWkFNM0FIamZtam9HTHZ3QmN6SUxzaF8yMHNEdFY2OVZKRF9VXzAxMGhMLWdWd3NPMmJXcU5YX3FsMng4TUp1N2V4MUFqM0hJVjBXX0h2Rl9wX1BDVHB3WG8ya2xGQmNVc0xZYTJkaF9LQ3Q2N0VVcnBDT3NOcHJVRmpPZFFRUUg2NnJuTFR2S24tT09Yal9xZElFX1lTbWwxVHA2bGMwNEVGOGlQa0ZLaFNrM3A1d18taE9lTnBJZ2hUcTBfOFp1RVNJS0IxY2kwWVJlSUFILUllUWJqNnA2T0MzV3dqcnR4YVZVY0dvZEc1UnF2aGF1QUhaQmtlVVpObzRWZkNFUFhsaWJPZWdTSnpHR19xTDNKSVZkSHpMaWlQZEs5b3V6cE11S0p4TkhB?oc=5)
 
@@ -62,27 +78,35 @@ permalink: /news/orlistat/
 
 ---
 
-### [zanadio mit klinisch relevanter Gewichtsabnahme bei Patient:innen mit Adipositas und Herz-Kreislauf-Erkrankungen assoziiert](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+### [La imagen de perfusión cobra protagonismo en la sala de angiografía para tratar el ictus agudo - El médico interactivo](https://news.google.com/rss/articles/CBMickFVX3lxTE5YM1NZMUxoUGY3UFdwc3d0T3ZYb3p3SFgzYzJqRHJsdGhiTUhBbFlTdkhsM3dGODFNSE52OXdtS2N4bV83NjVDLXV4RXc1T1ZCZG1STVMwTFAzLXpaOGVEREpKLXE3QXlLTWp2NVlhd2pKdw?oc=5)
 
-2026-08-05 <span class="news-indication-tag">Adipositas</span>
+2026-08-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-來源：[monitor-versorgungsforschung.de](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMickFVX3lxTE5YM1NZMUxoUGY3UFdwc3d0T3ZYb3p3SFgzYzJqRHJsdGhiTUhBbFlTdkhsM3dGODFNSE52OXdtS2N4bV83NjVDLXV4RXc1T1ZCZG1STVMwTFAzLXpaOGVEREpKLXE3QXlLTWp2NVlhd2pKdw?oc=5)
 
 ---
 
-### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REYw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REYw?oc=5)
 
 ---
 
 ### [«Cibi ultraprocessati? Non vuol dire poco salutare, alcuni sono alleati preziosi. Si può mangiare sano con un budget limitato»: i...](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
 
-2026-08-05 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-08-05 <span class="news-indication-tag">obesità</span>
 
 來源：[Leggo.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
+
+---
+
+### [Crece la demanda de los medicamento para perder peso](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzVWVFhFbGRZNXZNcWo1TUdqcWJoTktPS1Y3aVIxUGVqWXJxelhHbHZrUGxMWnRzMzNibTRmSTJTaHFXX3NNeU5ucG9IQnk2TmNoNWNVODR6QUstTTM4YjJjVnRKcFBPd0U3eGphcVBsOThBR3I1TWVhdldCTVdyVG1JV0g1a0t4WVQ0VExyRQ?oc=5)
+
+2026-08-04 <span class="news-indication-tag">obesidad</span>
+
+來源：[laopinion.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzVWVFhFbGRZNXZNcWo1TUdqcWJoTktPS1Y3aVIxUGVqWXJxelhHbHZrUGxMWnRzMzNibTRmSTJTaHFXX3NNeU5ucG9IQnk2TmNoNWNVODR6QUstTTM4YjJjVnRKcFBPd0U3eGphcVBsOThBR3I1TWVhdldCTVdyVG1JV0g1a0t4WVQ0VExyRQ?oc=5)
 
 ---
 

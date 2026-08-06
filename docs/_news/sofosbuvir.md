@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="Sofosbuvir 有什麼相關新聞？">
-<strong>Sofosbuvir</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sofosbuvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/sofosbuvir/
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（18 則）
+
+### [Vitamin K2 bremst Gefäßverkalkung: Was 2026er Studien für Therapie und Prävention bedeuten - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWRhNFhJUDY1aHlSY3dkWVVJaXQtWEUtSkpsaHBqTWRtVmhYUzU5Nm40cW1PTnlZeXVad3JqR3VYZmVuaUF6Tkpaa3RZNVlzTjVsTkt5U2RMUlN2SV82U1FaeWtDNDBnRWxMSHZzY2dzbGZEQU1QR0RIVWktV3Nva25BZXdfOVBHb05meWpaOHJFUWk1SXRwS1VnRUE4bGhVdjVnU0FtRmJqWVFDS2xhdlBxWEx1NVBmbjFsLVotMUh6Y2s?oc=5)
+
+2026-08-06 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWRhNFhJUDY1aHlSY3dkWVVJaXQtWEUtSkpsaHBqTWRtVmhYUzU5Nm40cW1PTnlZeXVad3JqR3VYZmVuaUF6Tkpaa3RZNVlzTjVsTkt5U2RMUlN2SV82U1FaeWtDNDBnRWxMSHZzY2dzbGZEQU1QR0RIVWktV3Nva25BZXdfOVBHb05meWpaOHJFUWk1SXRwS1VnRUE4bGhVdjVnU0FtRmJqWVFDS2xhdlBxWEx1NVBmbjFsLVotMUh6Y2s?oc=5)
+
+---
 
 ### [MS: Dieses Bakterium der Darmflora kann schützen](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
+來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ permalink: /news/sofosbuvir/
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[es.euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
 
 ---
 
@@ -86,27 +94,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
-### [Pablo Ojeda, nutricionista: «Las sardinas en conserva son uno de los alimentos más antiinflamatorios que existen»](https://news.google.com/rss/articles/CBMijwJBVV95cUxOcnQyVFBxS2pSSWl4ZWdpNmhEYXB5eTBhT0JjeUtkcW05Y0plMkJBUnlQVlFQOE9FS1ppRXI1OUdtNlB1TEROai1XeFNrbEtyMkltYXFFY2JzNVZ6WVhhMHVFbGtZbVdIb1NhemNteVAtV2dFTm0yNElMOXo2ejdHVXJHYllfSG9NSE1tRkxlTW1tOWNlZ1VXZzNsR2FpbjU3QmV1bS1NbDVGRmlWMXFhandMUnFRNjBreG56Y1RWTXlSa1FxWi1ORlhDeTVrZ0FCcml3bVBZNWN5X2VScXRHRlB5ZHhwM2w0VW5GNmJlc2J6VlVscmQ5WmljcHBxYmNRc19jbmZJTlpwUldSZ1Qw?oc=5)
+### [Living by the Sea May Not Be As Healthy as It Seems](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGxUUUJzTlRBc0FKWWxsQ2ZkV0F0bUtNLWRmVVJ0X2JkMmNVNkxJUGZwdm92R2UxNVBhWHNVNk5ubkpDbnltSWtaRjJvQXB1NTA3aHk1UlNTXzg2SHFaMmQ3RDZCQUJKR09aejhxRXVtRzZDS3pyb3NXVnNVaEZ2V2tFYw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[noticiasdelvino.com](https://news.google.com/rss/articles/CBMijwJBVV95cUxOcnQyVFBxS2pSSWl4ZWdpNmhEYXB5eTBhT0JjeUtkcW05Y0plMkJBUnlQVlFQOE9FS1ppRXI1OUdtNlB1TEROai1XeFNrbEtyMkltYXFFY2JzNVZ6WVhhMHVFbGtZbVdIb1NhemNteVAtV2dFTm0yNElMOXo2ejdHVXJHYllfSG9NSE1tRkxlTW1tOWNlZ1VXZzNsR2FpbjU3QmV1bS1NbDVGRmlWMXFhandMUnFRNjBreG56Y1RWTXlSa1FxWi1ORlhDeTVrZ0FCcml3bVBZNWN5X2VScXRHRlB5ZHhwM2w0VW5GNmJlc2J6VlVscmQ5WmljcHBxYmNRc19jbmZJTlpwUldSZ1Qw?oc=5)
+來源：[SciTechDaily](https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGxUUUJzTlRBc0FKWWxsQ2ZkV0F0bUtNLWRmVVJ0X2JkMmNVNkxJUGZwdm92R2UxNVBhWHNVNk5ubkpDbnltSWtaRjJvQXB1NTA3aHk1UlNTXzg2SHFaMmQ3RDZCQUJKR09aejhxRXVtRzZDS3pyb3NXVnNVaEZ2V2tFYw?oc=5)
 
 ---
 
-### [Isère. Atteinte d’une sclérose en plaques, elle lance une cagnotte pour financer un traitement au Mexique : « Ça me donne de l’espoir » - Le Dauphiné](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
+### [Isère. Atteinte d’une sclérose en plaques, elle lance une cagnotte pour financer un traitement au Mexique : « Ça me donne de l’espoir »](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
 
 2026-08-05 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[Le Dauphiné](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
-
----
-
-### [Médicos Sin Fronteras urge a intensificar la respuesta internacional ante un brote de ébola en RDC "sin precedentes"](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOemtDRmlTV2FZVGN5NHZuZTZ0MF96VFhOX3lpaVBQeko3VVMxNjlaa0F2WkMyNm5JRW5ZSURyX25tSzltM1BhTG9UdUl6RjNmbHJFYm41OHo2UGN3UEluNjlfb29QNTNGX1hTdlVOWDkydEJ3WEg1OVptYzJWZXZla3ZqRmJubmxZVkNOSzl0ZlpDaXgwMzJ1ZTBFY01HaVlWeEFHWkNJdUxCLS16UG80NWFnSE1HZ1p4LTFNWDhXR0RRRm0talVDc1RWaGIyaVJXcmpTSk5nUjlsZUF6ajhMdDFFQllOeHlZ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span>
-
-來源：[diarioestrategia.cl](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOemtDRmlTV2FZVGN5NHZuZTZ0MF96VFhOX3lpaVBQeko3VVMxNjlaa0F2WkMyNm5JRW5ZSURyX25tSzltM1BhTG9UdUl6RjNmbHJFYm41OHo2UGN3UEluNjlfb29QNTNGX1hTdlVOWDkydEJ3WEg1OVptYzJWZXZla3ZqRmJubmxZVkNOSzl0ZlpDaXgwMzJ1ZTBFY01HaVlWeEFHWkNJdUxCLS16UG80NWFnSE1HZ1p4LTFNWDhXR0RRRm0talVDc1RWaGIyaVJXcmpTSk5nUjlsZUF6ajhMdDFFQllOeHlZ?oc=5)
+來源：[ledauphine.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
 
 ---
 
@@ -118,27 +118,19 @@ permalink: /news/sofosbuvir/
 
 ---
 
+### [Multiple Sklerose: Blutmarker zeigt auch schubfreie Progression](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEFiN1lNRWV0VDhDcUVkakgxY3pfUmkyekRWM0NHMW1hT0tVMi1kdkhTc2dQUUw1NWhUNWR5UG5NckxnN210V0lBUnhqWTJVREJBTzJsZUhDanNHU1Y5bUlXZG9ETmpqSGlFT1pwZ0ZpZWc5RGJ4S2lQeFl3enNpZE1pdUJnT0NRWUV5VjAweUI?oc=5)
+
+2026-08-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEFiN1lNRWV0VDhDcUVkakgxY3pfUmkyekRWM0NHMW1hT0tVMi1kdkhTc2dQUUw1NWhUNWR5UG5NckxnN210V0lBUnhqWTJVREJBTzJsZUhDanNHU1Y5bUlXZG9ETmpqSGlFT1pwZ0ZpZWc5RGJ4S2lQeFl3enNpZE1pdUJnT0NRWUV5VjAweUI?oc=5)
+
+---
+
 ### [Immunologie: Neuer Regelkreis steuert Entzündungen bei COVID und MS - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUtGM1IzREtoWmVUNjd1S2hWODNFYnNCOGtKbUVPUzNicEJpcVBqRC1uandNdXdZSXRrOG1tNGFpYjhVSDJuajE3ZnR0bEF5Ukg0ajYxV3pSaFpCc05LcUt0Z0J3R2UxbzhMX3FCcTRiRnBRSGwxT1hVUENEeXh0Slp2Y1hBcjBmRWJaa3l5a3ZmbTNteDJWUm5pbEVaUzZ4MGtsUklpMkpuLXpRcjltQTJkRW5NRDQ?oc=5)
 
 2026-08-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUtGM1IzREtoWmVUNjd1S2hWODNFYnNCOGtKbUVPUzNicEJpcVBqRC1uandNdXdZSXRrOG1tNGFpYjhVSDJuajE3ZnR0bEF5Ukg0ajYxV3pSaFpCc05LcUt0Z0J3R2UxbzhMX3FCcTRiRnBRSGwxT1hVUENEeXh0Slp2Y1hBcjBmRWJaa3l5a3ZmbTNteDJWUm5pbEVaUzZ4MGtsUklpMkpuLXpRcjltQTJkRW5NRDQ?oc=5)
-
----
-
-### [El corazón de la mujer habla antes de un infarto: la falta de aire y el mareo están entre las señales de alerta](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd0xYeXlzU2dqZEE1RTJzeFZRTW1qdWItc09XYmg5X1AySk9TSVUzMFdBX1Y1UjBvNFgxMVVOZVZ1dWtPVjB6Vkh6MzB1ZzlFQmRUd2JvMk1EY2hrY1ROdmtDWkVMak1FaUhPSEcwUlVhX2JvZV9BNjdvbXhoVnNaVGYtbmVKaFFJdTlMY29BRjlkcEVzOE04Si1jS05ZYkhsclRRU2R6ZHlZcVdjWGN1XzJBVjdDVXZGQ2FkRXFJRGFFOXJCakJHVEp2VmRuQ1RBajROelYxc2tnZVdCandNa2ZEZkNYNzQwMG1J0gGGAkFVX3lxTFBDS0xoT1NqU2wxNlNiUGFqYlJHUDZnMWN5LU90dHZiWnZKV2JLQUp6Y0E3NnpkMGZtU1ZPN3dZSGlWSUZ0cHVJMkE5cGlSbXFuNF84cjNlTzEzRnd1RGJuRmVLWDZNT3laVlZ0YUhJVXhQVks4b2U1TzdIdGpEcWNVdXVqczdEeXJlaldYQTJqaU5LalRJSERMcUktWHhwVWZ5ek9XdTdOeVpyMU1xaXFZY0czSWVJZlRxbkxZM2tpT2RXQVhndFZlcWNLWVFNQnVMZC1wTnJBSTgyZXplNVpuZkRiNHFfQktvTDk2UGR0Wmhkc1d6LUpTM3lFZFZBQV9rUnVmbWc?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd0xYeXlzU2dqZEE1RTJzeFZRTW1qdWItc09XYmg5X1AySk9TSVUzMFdBX1Y1UjBvNFgxMVVOZVZ1dWtPVjB6Vkh6MzB1ZzlFQmRUd2JvMk1EY2hrY1ROdmtDWkVMak1FaUhPSEcwUlVhX2JvZV9BNjdvbXhoVnNaVGYtbmVKaFFJdTlMY29BRjlkcEVzOE04Si1jS05ZYkhsclRRU2R6ZHlZcVdjWGN1XzJBVjdDVXZGQ2FkRXFJRGFFOXJCakJHVEp2VmRuQ1RBajROelYxc2tnZVdCandNa2ZEZkNYNzQwMG1J0gGGAkFVX3lxTFBDS0xoT1NqU2wxNlNiUGFqYlJHUDZnMWN5LU90dHZiWnZKV2JLQUp6Y0E3NnpkMGZtU1ZPN3dZSGlWSUZ0cHVJMkE5cGlSbXFuNF84cjNlTzEzRnd1RGJuRmVLWDZNT3laVlZ0YUhJVXhQVks4b2U1TzdIdGpEcWNVdXVqczdEeXJlaldYQTJqaU5LalRJSERMcUktWHhwVWZ5ek9XdTdOeVpyMU1xaXFZY0czSWVJZlRxbkxZM2tpT2RXQVhndFZlcWNLWVFNQnVMZC1wTnJBSTgyZXplNVpuZkRiNHFfQktvTDk2UGR0Wmhkc1d6LUpTM3lFZFZBQV9rUnVmbWc?oc=5)
-
----
-
-### [Vitamin K2 kann Gefäßverkalkung bei Rheuma um bis zu 25% bremsen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQb28tTFBRcFF1NC1LTUtMcnVwTzBjcmZJMTY1cHlablFoU29COTMzY1dJVUZCYkVxZFFHMTRrOHBvU3h6Q2RqV3NCZkZqNE1QR0d4SkdRVGFvUUJydHBHNlNaT1VlLUhYekROYlRjb1FJaER6RzRaUHo0Vmx4d2hrd3BidXczU29yaUExa2ZqS21Demp6RTlzNjhFR1doUQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQb28tTFBRcFF1NC1LTUtMcnVwTzBjcmZJMTY1cHlablFoU29COTMzY1dJVUZCYkVxZFFHMTRrOHBvU3h6Q2RqV3NCZkZqNE1QR0d4SkdRVGFvUUJydHBHNlNaT1VlLUhYekROYlRjb1FJaER6RzRaUHo0Vmx4d2hrd3BidXczU29yaUExa2ZqS21Demp6RTlzNjhFR1doUQ?oc=5)
 
 ---
 
@@ -171,14 +163,6 @@ permalink: /news/sofosbuvir/
 2026-08-04 <span class="news-indication-tag">sclérose en plaques</span>
 
 來源：[rts.ch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
-
----
-
-### [Doctor warns of missed diabetes foot symptoms - and why your shoes could be to blame - GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE4wUGF1cHo4Y1RadHR0eHNYT0hyak45cXpFdkV6ckhNVG1vNVNDYnpIa0hfUWcxLTNtcUpxVFF2LUNoZDVma3B1ZzEwWDBUeHhLckNobHk3RklDc2ZaeVZSRWc5SldRS0toQzdOd3JaVjJlODVZV0NHRQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMieEFVX3lxTE4wUGF1cHo4Y1RadHR0eHNYT0hyak45cXpFdkV6ckhNVG1vNVNDYnpIa0hfUWcxLTNtcUpxVFF2LUNoZDVma3B1ZzEwWDBUeHhLckNobHk3RklDc2ZaeVZSRWc5SldRS0toQzdOd3JaVjJlODVZV0NHRQ?oc=5)
 
 ---
 

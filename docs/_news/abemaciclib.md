@@ -54,11 +54,11 @@ permalink: /news/abemaciclib/
 
 ## 相關新聞（1 則）
 
-### [El mayor estudio genético y de resonancia magnética realizado hasta la fecha descarta la existencia de una enfermedad del corazón - Salud a Diario](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0JIV01XUWYzbmVubmJQaHJoNXdEU0s2TFBKTmVrTkozS3RxRjJhcWtfb1BBcW4zS3pQTjZWNy1adFoyOWlWWGpDOUVsSU9md2JYbjZvUzhTTm4yeWIzUnljS25SUzdTMEdnQmt3Y2hseTMtTmpNd1hidlZGTHlfakVScFBhQVBHSF8zVUZEU0haaUVvdU9NY1NuT3ZkSExpeXhnT2dMUWZNQy1XSGtJNjhSako4Z1otTFN4NHU4ZUdySk9mdGRQOS01VkxCSXJPam9VRnB5TVZJNDZiQmVBb3VobWlEdWZGTjh5ZGlJckZEeWZwWW5YMjRUaXE?oc=5)
+### [Descartan que la hipertrabeculación ventricular empeore el pronóstico en la miocardiopatía dilatada - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVTN4b3BsWEJqQ1BsLWxieUNaLWRQdXNIVmw4NkdjcmN4WkN4MVJwWDVSLU9OLUhIeXFNYUZpcHVaMHZKSU1YNS1naE1BbmpRUjh1ZEhQM0lIS3JFWE1tZjlxekIwZjNVZnltRVNNaEo?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[Salud a Diario](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0JIV01XUWYzbmVubmJQaHJoNXdEU0s2TFBKTmVrTkozS3RxRjJhcWtfb1BBcW4zS3pQTjZWNy1adFoyOWlWWGpDOUVsSU9md2JYbjZvUzhTTm4yeWIzUnljS25SUzdTMEdnQmt3Y2hseTMtTmpNd1hidlZGTHlfakVScFBhQVBHSF8zVUZEU0haaUVvdU9NY1NuT3ZkSExpeXhnT2dMUWZNQy1XSGtJNjhSako4Z1otTFN4NHU4ZUdySk9mdGRQOS01VkxCSXJPam9VRnB5TVZJNDZiQmVBb3VobWlEdWZGTjh5ZGlJckZEeWZwWW5YMjRUaXE?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBFVTN4b3BsWEJqQ1BsLWxieUNaLWRQdXNIVmw4NkdjcmN4WkN4MVJwWDVSLU9OLUhIeXFNYUZpcHVaMHZKSU1YNS1naE1BbmpRUjh1ZEhQM0lIS3JFWE1tZjlxekIwZjNVZnltRVNNaEo?oc=5)
 
 ---
 

@@ -54,11 +54,11 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（1 則）
 
-### [Grandmother died after increasing Mounjaro dose, inquest hears - The Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlZ4YmlzLXRCTFNYZVRGTzhfZVNiVzBlWG9ENlJUSWM4MHZPbmRtTGVjVzNLbHpzT2ltbTczLWY0SkxCSFF2S0x6OXJ3cTdOMTRqakRiS0VQaVhyQ19paVRKZ1ZTNXpUS1poY0k1QXEzdTRSdnR2Y1pnNTloYUo1ZnVLay1xNEZiUFQ2V2dkaVRnVV9xbVdmZDlINUFad2hoXzNFOEM2NENLVmIzMkdPVVN1ZzZlWVdJT2c?oc=5)
+### [Grandmother died after increasing Mounjaro dose, inquest hears - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ09hS1Njc3E1aEZWaWJWZjVNaDVhVHVmVGlmTkt6UHdmRWdVeXYycTZWOG9WTmVrWS12bHlxcGhEY0M2NUhDT1BGZ3VuZEttY0ZVdTl3RnhWd1RhVFdHR05JTzNoaVUySXJJUDU0OXpmUkdyM2sxX2V2cDI3VHlTdWdYbkw2cTZkRmkxWTNQQ1hwLWVxTmtzYTNVRFlocE9hU1gxSkQxOA?oc=5)
 
 2026-08-04 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlZ4YmlzLXRCTFNYZVRGTzhfZVNiVzBlWG9ENlJUSWM4MHZPbmRtTGVjVzNLbHpzT2ltbTczLWY0SkxCSFF2S0x6OXJ3cTdOMTRqakRiS0VQaVhyQ19paVRKZ1ZTNXpUS1poY0k1QXEzdTRSdnR2Y1pnNTloYUo1ZnVLay1xNEZiUFQ2V2dkaVRnVV9xbVdmZDlINUFad2hoXzNFOEM2NENLVmIzMkdPVVN1ZzZlWVdJT2c?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ09hS1Njc3E1aEZWaWJWZjVNaDVhVHVmVGlmTkt6UHdmRWdVeXYycTZWOG9WTmVrWS12bHlxcGhEY0M2NUhDT1BGZ3VuZEttY0ZVdTl3RnhWd1RhVFdHR05JTzNoaVUySXJJUDU0OXpmUkdyM2sxX2V2cDI3VHlTdWdYbkw2cTZkRmkxWTNQQ1hwLWVxTmtzYTNVRFlocE9hU1gxSkQxOA?oc=5)
 
 ---
 

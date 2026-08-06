@@ -54,11 +54,11 @@ permalink: /news/drospirenone/
 
 ## 相關新聞（1 則）
 
-### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+### [Bauernhof-Effekt: Studie identifiziert neun Bakterien für Allergieschutz - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
 
 2026-08-04 <span class="news-indication-tag">asthma</span>
 
-來源：[SWR](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeEdOVjVFRUcxc2V2RmpzQ2VOSTJUamxJa3diT1RKRWh6NnhveHNwUS1yNzJRdUZERS1BYlI2Nm9hWGZER2RCZnp1dTZ0NHFRblVYLXIxUWpsaWJaTEtRa0l6cDRfNVNacWxQeGFqUlFYcnFlT1phN2tNMXFTNEw0bl9Velozb1F2TFYtb19rVmJPZ09SYzJ1QlJ6MG9PcHM4My0yXzVMNA?oc=5)
 
 ---
 

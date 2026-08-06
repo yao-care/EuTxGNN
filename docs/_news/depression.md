@@ -3,7 +3,7 @@ layout: default
 title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Crean una aplicación para prevenir la depresión mediante seguimiento diario y apoyo personalizado](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3AtZlcxQ25nNzE1XzdaZlVYTk5NQS1LS0lrakNmeWE3b0hKaTZYVzZzUjlwV1lOTTZVTzJCNTVTeEhVamkzZG1EMUduNmNybXU0MFlnVFVXRU9GZ2g1QXhsWXh3WEx6QTN2dFFvQUg2SEwxNVp3d3pzV2Izc3ZnM09ROFhhQQ?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/depression/
 2026-08-05
 
 來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeDZ5MEVjd3VGeTJaUTdVLUhtbGxRVUV3VHMwX1VxeHdaY1UzZlNuSUk2UGJwcWljQV9tTzVoTUJmTHNQLVBUT2RyQUVaNXBnRGZGMnN0amRmaklVbVgxU1ZWSHluWWt0cUllaHNYRHRGV3VycUs2cGV6YXFLVWVsMTVBSVRFbUYtWDh3SG1BZXJQSDc0MUp2TEUxODd4MXIxdmVWN2NMTHZNaHc4dWdHQUZNOWYycFBFUmhzZTczM1hqMUtxc0hWbDZCQnZPTFlENlo0?oc=5)
-
----
-
-### [El cannabis triplica el riesgo de que adolescentes desarrollen trastornos mentales en comparación con otras sustancias - Andalucía Información](https://news.google.com/rss/articles/CBMijgJBVV95cUxPQUttUjdZZWNQSS1sbHE2aVJxYVpWSzRsUVd6aW53aDl0VW16VDV3VVlPUDVhMFZHSjdBbDhDVzV4UllFTVZCbm8wVk5pUHhVdUotTlFiUHIzQUFfVjViSnJPbUVYRzBqcmM4a0hHT0RrRWR3OWwzYkpSNVBqbjBSRXk5ZjVtdVdBZjhaM05pZHl5U3VzbVR0UmRscXEzTjBSaTN5cWpoMlJLcXdfSGRkZ2lhOV9GSUhZWF9kQUR4SWhvNFB5T1dReFBxWGNJVWwzMk9YMk12dGpzSXFkaWw4b0V3MDRxUWMxdWhvY0d6cEdkTlhlcUJ3QkcteWsyWm1HaGlVQllSaW1ERVZQOGfSAZMCQVVfeXFMTXhHaHN6S1QwWXFKYmJwSDhBd2dNMURPdnk2cFFNV3daU2hHQnNnS2ZEQkl2N2R3enh6cWVadWNRR19OMU50Mk1IZ3poTnR4SEgxVGhlNHlzRUpyTVdHY1hVNWRWNUpPQlpmOVY1NkJlZXZmNXY2MHNHRUhHdDVoTlVrZGNPakxoVC1QMzlNUldsdjV2UXZhTUJWblFjbUUxSnFxT1BxZ1NuNDZSdnF3QWw5MUlXanRvR24tdmhtQkZDTDR2eTNaSWdFR2p2RXdkLTdKNnozX3JqYVRucUJ1dzJHSm1Pbk5URHV2ajl5ZndoTmZWc2dwdUVVZk5xVDJYby1kdWJOdnE3b182QTlaQjhxTFk?oc=5)
-
-2026-08-03
-
-來源：[Andalucía Información](https://news.google.com/rss/articles/CBMijgJBVV95cUxPQUttUjdZZWNQSS1sbHE2aVJxYVpWSzRsUVd6aW53aDl0VW16VDV3VVlPUDVhMFZHSjdBbDhDVzV4UllFTVZCbm8wVk5pUHhVdUotTlFiUHIzQUFfVjViSnJPbUVYRzBqcmM4a0hHT0RrRWR3OWwzYkpSNVBqbjBSRXk5ZjVtdVdBZjhaM05pZHl5U3VzbVR0UmRscXEzTjBSaTN5cWpoMlJLcXdfSGRkZ2lhOV9GSUhZWF9kQUR4SWhvNFB5T1dReFBxWGNJVWwzMk9YMk12dGpzSXFkaWw4b0V3MDRxUWMxdWhvY0d6cEdkTlhlcUJ3QkcteWsyWm1HaGlVQllSaW1ERVZQOGfSAZMCQVVfeXFMTXhHaHN6S1QwWXFKYmJwSDhBd2dNMURPdnk2cFFNV3daU2hHQnNnS2ZEQkl2N2R3enh6cWVadWNRR19OMU50Mk1IZ3poTnR4SEgxVGhlNHlzRUpyTVdHY1hVNWRWNUpPQlpmOVY1NkJlZXZmNXY2MHNHRUhHdDVoTlVrZGNPakxoVC1QMzlNUldsdjV2UXZhTUJWblFjbUUxSnFxT1BxZ1NuNDZSdnF3QWw5MUlXanRvR24tdmhtQkZDTDR2eTNaSWdFR2p2RXdkLTdKNnozX3JqYVRucUJ1dzJHSm1Pbk5URHV2ajl5ZndoTmZWc2dwdUVVZk5xVDJYby1kdWJOdnE3b182QTlaQjhxTFk?oc=5)
 
 ---
 
