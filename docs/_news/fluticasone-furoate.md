@@ -54,19 +54,19 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（3 則）
 
-### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+### [Informations- und Unterstützungsangebote: Gut leben mit COPD - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
-2026-08-05 <span class="news-indication-tag">copd</span>
+2026-08-06 <span class="news-indication-tag">copd</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
 ---
 
 ### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
-2026-08-05 <span class="news-indication-tag">asthma</span>
+2026-08-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[SWR](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+來源：[swr.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
 ---
 

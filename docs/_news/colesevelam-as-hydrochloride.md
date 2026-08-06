@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（12 則）
 
 ### [RSV-Schutz: Impfung für Ältere mit Herzerkrankung - Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
 
@@ -62,7 +62,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
+### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet: Mit Daten und Digitalisierung gegen Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
@@ -70,11 +70,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [VRAI OU FAUX. Canicules : les fortes chaleurs nous font-elles vieillir plus vite ? Voici ce que révèlent deux études](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabète</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+
+---
+
 ### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
-2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
----
-
 ### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -102,27 +102,19 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+---
+
 ### [Mounjaro linked to slashing risk of killer heart attacks by a third for the first time - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
 
 2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
-
----
-
-### [Fettleber: Vierfach erhöhtes Sterberisiko durch Herzerkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
----
-
-### [El Hospital Puerta de Hierro descarta enfermedad cardíaca en pacientes con hipertrabeculación](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Boadilladigital](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
 
 ---
 

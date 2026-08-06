@@ -43,17 +43,17 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
+### [Study finds three midlife health factors that could delay dementia for 13 years - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHhwRlItRHV5aHZEX1N2N0VCQ2JIaWhnOUZSSXM0R21kektlb2YtbktycHp1c3FsWWVvdUFEaUpXVFc4dGR1UFE5ejY1Q0x1STVDUktKcS1GMmFKQ3hCWkxYQzNZOElIS3hzeC1JNDF6TURPWm1WcUZMSXNyTWlpN0FqWm9YcFEteVp4U1c3bzQta21YWVE?oc=5)
 
 2026-08-06 <span class="news-indication-tag">dementia</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHhwRlItRHV5aHZEX1N2N0VCQ2JIaWhnOUZSSXM0R21kektlb2YtbktycHp1c3FsWWVvdUFEaUpXVFc4dGR1UFE5ejY1Q0x1STVDUktKcS1GMmFKQ3hCWkxYQzNZOElIS3hzeC1JNDF6TURPWm1WcUZMSXNyTWlpN0FqWm9YcFEteVp4U1c3bzQta21YWVE?oc=5)
 
 ---
 
 ### [Your Daily Step Count Could Say A Lot About Your Dementia Risk - HuffPost UK](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxRQklZaWNjR25BTFg5Rm9felN6MnllN2NMejlucHFvWUs5Q3RGb2Y4UFB3ZTVTN2FVOFNIN1hubEd1VDRPN3ZZY0J2Y0xJUlNuYUJVODRfYllxQmVSel94TzA4OTRCYXZZZ3dQUmhLZWN1U21YUTNLekZCZ25lWWNQc1lvQnAtRkd2QXR4S09KUmQwS3NUZ1h4SGVic2Vzay1J?oc=5)
 
-2026-08-05 <span class="news-indication-tag">dementia</span>
+2026-08-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 來源：[HuffPost UK](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxRQklZaWNjR25BTFg5Rm9felN6MnllN2NMejlucHFvWUs5Q3RGb2Y4UFB3ZTVTN2FVOFNIN1hubEd1VDRPN3ZZY0J2Y0xJUlNuYUJVODRfYllxQmVSel94TzA4OTRCYXZZZ3dQUmhLZWN1U21YUTNLekZCZ25lWWNQc1lvQnAtRkd2QXR4S09KUmQwS3NUZ1h4SGVic2Vzay1J?oc=5)
 
@@ -67,11 +67,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [The bitter truth about junk science](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
+### [The bitter truth about junk science - The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[thecritic.co.uk](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
+來源：[The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
 
 ---
 

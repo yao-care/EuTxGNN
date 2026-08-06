@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days'](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 2026-08-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
-
----
-
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
-
-2026-08-05 <span class="news-indication-tag">obesidad</span>
-
-來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/orlistat/
 2026-08-05 <span class="news-indication-tag">obesità</span>
 
 來源：[Leggo.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZUYzlqd3VOOHcyODBVaTNSNVNyUS1pcUNGRFAyU1R1N2YyWXRjT2stRy1sS2tVYzk2SDFDbGpORE00U2FKVnU1a1pjeXI4d1dFQTV3bWtVNEZrUnN4WHF3N01zZEs3b1AzMzJuQmozZm1CMnRseU1RSXFJeEV4ZGtzazFZdi1CdVhwNDd6UGpJRE91Zm83WDJybjdtOEZ5YUNDekpzOHRoT2hZUG03Q1ZxUHhQZ1Mxb0NRajhSTncxdVZ5V3RUT2N3SUQxUlE?oc=5)
-
----
-
-### [Crece la demanda de los medicamento para perder peso](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzVWVFhFbGRZNXZNcWo1TUdqcWJoTktPS1Y3aVIxUGVqWXJxelhHbHZrUGxMWnRzMzNibTRmSTJTaHFXX3NNeU5ucG9IQnk2TmNoNWNVODR6QUstTTM4YjJjVnRKcFBPd0U3eGphcVBsOThBR3I1TWVhdldCTVdyVG1JV0g1a0t4WVQ0VExyRQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">obesidad</span>
-
-來源：[laopinion.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzVWVFhFbGRZNXZNcWo1TUdqcWJoTktPS1Y3aVIxUGVqWXJxelhHbHZrUGxMWnRzMzNibTRmSTJTaHFXX3NNeU5ucG9IQnk2TmNoNWNVODR6QUstTTM4YjJjVnRKcFBPd0U3eGphcVBsOThBR3I1TWVhdldCTVdyVG1JV0g1a0t4WVQ0VExyRQ?oc=5)
 
 ---
 

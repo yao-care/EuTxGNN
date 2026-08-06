@@ -54,7 +54,15 @@ permalink: /news/semaglutide/
 
 ## 相關新聞（13 則）
 
-### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
+### [Hundreds of deaths suspected of being linked to weight-loss jabs reported to regulator - Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+
+---
+
+### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet: Mit Daten und Digitalisierung gegen Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
@@ -62,11 +70,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [VRAI OU FAUX. Canicules : les fortes chaleurs nous font-elles vieillir plus vite ? Voici ce que révèlent deux études](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabète</span>
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+
+---
+
 ### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/semaglutide/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
-2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
----
-
 ### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -94,27 +102,19 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+---
+
 ### [Mounjaro linked to slashing risk of killer heart attacks by a third for the first time - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
 
 2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
-
----
-
-### [More than 100 deaths after Mounjaro or Wegovy use reported - The Times](https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJyWFB0WjVEQ2VCVWI2U3BqRzEzVFMxWVZZSWhvUnVCWEgtZkNuNjR2ckhSTjdDR0RaYlZNbzU3aUgxY3JSYVNhRFZwelNSNHdHRENSbjNfX2JDSFA4QVRPaVRHRnR4UmVXanF5VEtpSnV0Z01vRjVaeU0tUW1idVFTLXFfSjQ3SEVuZU9zSHE4WURKTnRwbjJVcGJTUQ?oc=5)
-
-2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJyWFB0WjVEQ2VCVWI2U3BqRzEzVFMxWVZZSWhvUnVCWEgtZkNuNjR2ckhSTjdDR0RaYlZNbzU3aUgxY3JSYVNhRFZwelNSNHdHRENSbjNfX2JDSFA4QVRPaVRHRnR4UmVXanF5VEtpSnV0Z01vRjVaeU0tUW1idVFTLXFfSjQ3SEVuZU9zSHE4WURKTnRwbjJVcGJTUQ?oc=5)
-
----
-
-### [EP2-Rezeptor, Semaglutid & FGL-1: Wie das Immunsystem Alterung steuert - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWW84Z25ZX3ByYUZEYnJKcHM2UF93TTBKcTBwdDlJSFdFZkZwQXVwZkxkTHc1NWV2RzRrNTZqSjFjeEdiMlZzdExybEMtQWxGRndISXJ3STMzOUpYcWNsQVJLZDdpQ1podDAtTFY3Y0t0Q2llZGw0LXFYbzBYazdVenhpUXlOSlNaTkpxREsyemtQb1F0VnBETE1iNkY3RFE?oc=5)
-
-2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWW84Z25ZX3ByYUZEYnJKcHM2UF93TTBKcTBwdDlJSFdFZkZwQXVwZkxkTHc1NWV2RzRrNTZqSjFjeEdiMlZzdExybEMtQWxGRndISXJ3STMzOUpYcWNsQVJLZDdpQ1podDAtTFY3Y0t0Q2llZGw0LXFYbzBYazdVenhpUXlOSlNaTkpxREsyemtQb1F0VnBETE1iNkY3RFE?oc=5)
 
 ---
 
@@ -134,6 +134,14 @@ permalink: /news/semaglutide/
 
 ---
 
+### [Immunsystem: EP2-Rezeptor-Blockade stoppt Alterungsprozesse](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQk1tOXBmRFozSFNTSnZlVHVSZU9fRkJGV0R6M0RQdURWUXlBQXcwcUYzbWRqWFI0UFFGMFFhSGdlSm5GbVNhdmZiSDh2UWdWd0lfcVZ2VDlGdjBZNVBFQ0h0ZVNPTGdWTzNBU3k0LVN0TnhiMW1Hd1h4X2Q1SF9uLUpVUll3bE41amllXzI2T1lSbktLT1VDazJWYWVjcnliQUlzYWVuVk14NFE?oc=5)
+
+2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQk1tOXBmRFozSFNTSnZlVHVSZU9fRkJGV0R6M0RQdURWUXlBQXcwcUYzbWRqWFI0UFFGMFFhSGdlSm5GbVNhdmZiSDh2UWdWd0lfcVZ2VDlGdjBZNVBFQ0h0ZVNPTGdWTzNBU3k0LVN0TnhiMW1Hd1h4X2Q1SF9uLUpVUll3bE41amllXzI2T1lSbktLT1VDazJWYWVjcnliQUlzYWVuVk14NFE?oc=5)
+
+---
+
 ### [Ballaststoffe, P-CABs und KI: neue Impulse für Magen-Darm & Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">diabetes</span>
@@ -147,14 +155,6 @@ permalink: /news/semaglutide/
 2026-08-05 <span class="news-indication-tag">diabetes</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
-
----
-
-### [Los fármacos para adelgazar como Ozempic y Wegovy podrían estar provocando un efecto antienvejecimiento: “Podría ralentizar procesos biológicos” - Directo al Paladar](https://news.google.com/rss/articles/CBMikAJBVV95cUxNYUVxT1o3dVJPQzVnT0taVXpHd3VFYzl5MHp6dFoyLXJXaXh6UUloX094WkdKSDNmNURpMmdHMjA5d05xT1NCT2tQYng3TDVYUXZRZjZQMWVHSjBmSGlFczZKZEpYSl9aS2djc3RvQm9JRnpwWUo0NngxZFRNdlBXRXpaTTN3RDZodUhGOEEyTUFjS1ptYkpmazJGSlBaRHpVY1FTUWItRGh0dzlwczBqZUpoU2JieUFWWThubXREd2ZCMmlNSzdFaVRFU2lQcTJyWFVtMTFNQS1DZ3l6cTA4TE5SOFA0Mm1TODNtbzFUaU01cE16Y3RKS1E5Y2NKTDY4Z3BmTjBuQjdjcGM0QVh3ddIBlgJBVV95cUxNVEljUzZtOWNkaW5mX3g3bUt6Q2trXzNlTTRpSkRtV0lIU24tbzBOQ0t3bV9sWWIxRnRXcndVaU42V0pUN2pHX0ZfekRXWnFKUnA4UVNTb1NSWHZUVV8teUZORHFvaVFRNzBtOEptaVpWWHlLbmFWMV9zTTlIcTluLU5Za3pTcy1tUTdIOVQyOGhwd1lRUHNnazN2SldTOWRlU3hIWGkyRU1uQW03MUxPOThNZFplQkRodEJhLS1SYXBTdjNLbEVreXNOcW5Rd2FGaTR1NGhzcDFOQTZqdzlWc0VMcFVabENXaGZ0V0ZVcjZfN0hqU1prS19LOFhFanFNNk1FcUpFTHdfdUozX0o0cnNOcGFuZw?oc=5)
-
-2026-08-04 <span class="news-drug-tag">Semaglutide</span>
-
-來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMikAJBVV95cUxNYUVxT1o3dVJPQzVnT0taVXpHd3VFYzl5MHp6dFoyLXJXaXh6UUloX094WkdKSDNmNURpMmdHMjA5d05xT1NCT2tQYng3TDVYUXZRZjZQMWVHSjBmSGlFczZKZEpYSl9aS2djc3RvQm9JRnpwWUo0NngxZFRNdlBXRXpaTTN3RDZodUhGOEEyTUFjS1ptYkpmazJGSlBaRHpVY1FTUWItRGh0dzlwczBqZUpoU2JieUFWWThubXREd2ZCMmlNSzdFaVRFU2lQcTJyWFVtMTFNQS1DZ3l6cTA4TE5SOFA0Mm1TODNtbzFUaU01cE16Y3RKS1E5Y2NKTDY4Z3BmTjBuQjdjcGM0QVh3ddIBlgJBVV95cUxNVEljUzZtOWNkaW5mX3g3bUt6Q2trXzNlTTRpSkRtV0lIU24tbzBOQ0t3bV9sWWIxRnRXcndVaU42V0pUN2pHX0ZfekRXWnFKUnA4UVNTb1NSWHZUVV8teUZORHFvaVFRNzBtOEptaVpWWHlLbmFWMV9zTTlIcTluLU5Za3pTcy1tUTdIOVQyOGhwd1lRUHNnazN2SldTOWRlU3hIWGkyRU1uQW03MUxPOThNZFplQkRodEJhLS1SYXBTdjNLbEVreXNOcW5Rd2FGaTR1NGhzcDFOQTZqdzlWc0VMcFVabENXaGZ0V0ZVcjZfN0hqU1prS19LOFhFanFNNk1FcUpFTHdfdUozX0o0cnNOcGFuZw?oc=5)
 
 ---
 

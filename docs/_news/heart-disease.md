@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
+description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
+<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -85,29 +85,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [RSV-Schutz: Impfung für Ältere mit Herzerkrankung - Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
 
 2026-08-06
 
 來源：[Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
-
----
-
-### [Fettleber: Vierfach erhöhtes Sterberisiko durch Herzerkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
-2026-08-05
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
----
-
-### [El Hospital Puerta de Hierro descarta enfermedad cardíaca en pacientes con hipertrabeculación](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
-
-2026-08-05
-
-來源：[Boadilladigital](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
 
 ---
 

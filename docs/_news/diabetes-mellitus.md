@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,9 +114,9 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
-### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
+### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet: Mit Daten und Digitalisierung gegen Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
 
 2026-08-06
 
@@ -124,11 +124,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [VRAI OU FAUX. Canicules : les fortes chaleurs nous font-elles vieillir plus vite ? Voici ce que révèlent deux études](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+
+2026-08-06
+
+來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+
+---
+
 ### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 2026-08-06
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 ---
 
@@ -140,19 +148,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
-2026-08-06
-
-來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
----
-
 ### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
 2026-08-06
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
+
+---
+
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+2026-08-06
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
 
 ---
 

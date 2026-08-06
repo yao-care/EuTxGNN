@@ -56,9 +56,9 @@ permalink: /news/ceftolozane/
 
 ### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
-2026-08-05 <span class="news-indication-tag">asthma</span>
+2026-08-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[SWR](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+來源：[swr.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
 ---
 

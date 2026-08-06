@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiopatía</span></li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,29 +52,21 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artrite</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+---
 
 ### [RSV-Schutz: Impfung für Ältere mit Herzerkrankung - Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
 
 2026-08-06 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
-
----
-
-### [Fettleber: Vierfach erhöhtes Sterberisiko durch Herzerkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
----
-
-### [El Hospital Puerta de Hierro descarta enfermedad cardíaca en pacientes con hipertrabeculación](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Boadilladigital](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artrite</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+---
+
+### [L'ordre dans lequel vous êtes né pourrait jouer un rôle sur votre santé, selon cette importante étude scientifique - Salut Bonjour](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2N1TkxuX3pPcmlPbEhtM19RVVNNWU9SazVpQnpnNlNQZXA4UkpUaC1EVFl4OXZmUlhoTGFRX3NnalVKZjBiVGdoNGw5NEk5eHNscmdKcmVMOXUzZ3N4b3BMbV9ocVdKVjFDMnV5ZW40VGUyc2QwZlU1bHZwQlpjUUQyRldRLU01TnBQdlc0YWZmanhHTmk3TVRBM3NtelBHMUpZZXJFQ0pmN3RzUTdpSmlJNFNCQTRUeEhFejdZQkZZVzZUMXg5ZmxGVzI0SHpQaHlfNmxIN3huQnNVQ1NBVTVldE5ldw?oc=5)
+
+2026-08-05 <span class="news-indication-tag">migraine</span>
+
+來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2N1TkxuX3pPcmlPbEhtM19RVVNNWU9SazVpQnpnNlNQZXA4UkpUaC1EVFl4OXZmUlhoTGFRX3NnalVKZjBiVGdoNGw5NEk5eHNscmdKcmVMOXUzZ3N4b3BMbV9ocVdKVjFDMnV5ZW40VGUyc2QwZlU1bHZwQlpjUUQyRldRLU01TnBQdlc0YWZmanhHTmk3TVRBM3NtelBHMUpZZXJFQ0pmN3RzUTdpSmlJNFNCQTRUeEhFejdZQkZZVzZUMXg5ZmxGVzI0SHpQaHlfNmxIN3huQnNVQ1NBVTVldE5ldw?oc=5)
+
+---
 
 
 <div class="disclaimer">

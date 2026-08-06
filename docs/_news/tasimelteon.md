@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Consumo de cannabis en la adolescencia podría afectar el desarrollo de la memoria y funciones cognitivas](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkh6dUtwVkZDX2tRa2hqeUxFVGJSMVgtWjFxb2xsYlhXX05KN1J2TVBZR0ZremNQY1F4N2dmUE5lTHhOTjR4cHctLVNXUDdVTlZGOUVqVU43WVpJYTNaOWlXSm9tRGpSX3NlZWRpRTRjVFBVRWhTcFBHVGZaSmhiMFI3dWtCX2VfdFNkYmhCenNiLUlzTUhsQVpyaGg2QTJZeHUzYjNXRXhRN1hERUJtNURyQy1lREQ4akJ0NnZKdUJSVmlkMWd3TmtMRjk4X1pvZWVDWWJmTjAtRzFvNGwzeFBaMXFqY1dYRWNKM3VNWU9hN0RjMXpr0gH8AUFVX3lxTE12bmRqdFpMWGZ0ejhkQkI4VUo0NjYycHo4a1MyQlFVNDZnUUM3aV9lNlc2dHQ3Vklpa1hRNTAyc01kd3hWT3NKOEVNVmswbm9fNHVFZ3l0QVR5Rmh3WnpzN0RMR0xaRWw3ckNya2JHWWZlVEo4UWJLUG5NbDJUcDFOTFRoOGhQUmY0MXZIUzVaYXE2cEM4YnVxNWhldGdrNVBIVTI3bkRPbjZWZlk1Z0xaZVFUaHZob3UtLUtWcjBFdkwwVlM1WkdoM0ZRTEkwWUJSNXRoWlN1ZFpHTWlPTlBWSUstREZtbXNMLWtVSGlDemJCM3liWDJ3djBYNw?oc=5)
-
-2026-08-06 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[medicinaysaludpublica.com](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkh6dUtwVkZDX2tRa2hqeUxFVGJSMVgtWjFxb2xsYlhXX05KN1J2TVBZR0ZremNQY1F4N2dmUE5lTHhOTjR4cHctLVNXUDdVTlZGOUVqVU43WVpJYTNaOWlXSm9tRGpSX3NlZWRpRTRjVFBVRWhTcFBHVGZaSmhiMFI3dWtCX2VfdFNkYmhCenNiLUlzTUhsQVpyaGg2QTJZeHUzYjNXRXhRN1hERUJtNURyQy1lREQ4akJ0NnZKdUJSVmlkMWd3TmtMRjk4X1pvZWVDWWJmTjAtRzFvNGwzeFBaMXFqY1dYRWNKM3VNWU9hN0RjMXpr0gH8AUFVX3lxTE12bmRqdFpMWGZ0ejhkQkI4VUo0NjYycHo4a1MyQlFVNDZnUUM3aV9lNlc2dHQ3Vklpa1hRNTAyc01kd3hWT3NKOEVNVmswbm9fNHVFZ3l0QVR5Rmh3WnpzN0RMR0xaRWw3ckNya2JHWWZlVEo4UWJLUG5NbDJUcDFOTFRoOGhQUmY0MXZIUzVaYXE2cEM4YnVxNWhldGdrNVBIVTI3bkRPbjZWZlk1Z0xaZVFUaHZob3UtLUtWcjBFdkwwVlM1WkdoM0ZRTEkwWUJSNXRoWlN1ZFpHTWlPTlBWSUstREZtbXNMLWtVSGlDemJCM3liWDJ3djBYNw?oc=5)
-
----
-
-### [Crean una aplicación para prevenir la depresión mediante seguimiento diario y apoyo personalizado](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3AtZlcxQ25nNzE1XzdaZlVYTk5NQS1LS0lrakNmeWE3b0hKaTZYVzZzUjlwV1lOTTZVTzJCNTVTeEhVamkzZG1EMUduNmNybXU0MFlnVFVXRU9GZ2g1QXhsWXh3WEx6QTN2dFFvQUg2SEwxNVp3d3pzV2Izc3ZnM09ROFhhQQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
-
-來源：[gndiario.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3AtZlcxQ25nNzE1XzdaZlVYTk5NQS1LS0lrakNmeWE3b0hKaTZYVzZzUjlwV1lOTTZVTzJCNTVTeEhVamkzZG1EMUduNmNybXU0MFlnVFVXRU9GZ2g1QXhsWXh3WEx6QTN2dFFvQUg2SEwxNVp3d3pzV2Izc3ZnM09ROFhhQQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Sommerdepression: Psychiater empfiehlt drei Dinge – „Effekt wie Antidepressivum“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeDZ5MEVjd3VGeTJaUTdVLUhtbGxRVUV3VHMwX1VxeHdaY1UzZlNuSUk2UGJwcWljQV9tTzVoTUJmTHNQLVBUT2RyQUVaNXBnRGZGMnN0amRmaklVbVgxU1ZWSHluWWt0cUllaHNYRHRGV3VycUs2cGV6YXFLVWVsMTVBSVRFbUYtWDh3SG1BZXJQSDc0MUp2TEUxODd4MXIxdmVWN2NMTHZNaHc4dWdHQUZNOWYycFBFUmhzZTczM1hqMUtxc0hWbDZCQnZPTFlENlo0?oc=5)
 

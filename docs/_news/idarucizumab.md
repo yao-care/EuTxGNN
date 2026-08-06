@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="Idarucizumab 有什麼相關新聞？">
-<strong>Idarucizumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Idarucizumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/idarucizumab/
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+### [Informations- und Unterstützungsangebote: Gut leben mit COPD - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
-2026-08-05 <span class="news-indication-tag">copd</span>
+2026-08-06 <span class="news-indication-tag">copd</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
+
+---
+
+### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artrite</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
 
 ---
 

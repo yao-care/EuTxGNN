@@ -54,11 +54,11 @@ permalink: /news/tedizolid/
 
 ## 相關新聞（2 則）
 
-### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+### [Informations- und Unterstützungsangebote: Gut leben mit COPD - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
-2026-08-05 <span class="news-indication-tag">copd</span>
+2026-08-06 <span class="news-indication-tag">copd</span>
 
-來源：[T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
+來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [Hundreds of deaths suspected of being linked to weight-loss jabs reported to regulator - Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+
+---
+
+### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artrite</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+---
 
 ### [Mounjaro linked to slashing risk of killer heart attacks by a third for the first time - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
 
@@ -62,11 +78,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [More than 100 deaths after Mounjaro or Wegovy use reported - The Times](https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJyWFB0WjVEQ2VCVWI2U3BqRzEzVFMxWVZZSWhvUnVCWEgtZkNuNjR2ckhSTjdDR0RaYlZNbzU3aUgxY3JSYVNhRFZwelNSNHdHRENSbjNfX2JDSFA4QVRPaVRHRnR4UmVXanF5VEtpSnV0Z01vRjVaeU0tUW1idVFTLXFfSjQ3SEVuZU9zSHE4WURKTnRwbjJVcGJTUQ?oc=5)
+### [Grandmother, 73, who upped Mounjaro dose dies hours after A&E sent her home with stomach pains - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV0o3akhROWJWeGpRbm5mdlN3NGRMQVB6Q3VmSE1DY3FKSXRtUGtYSmMxSmxvcE93al85NWpLY2VzeDhvOEkxRjIwc2tlWXI4TElnX1B0NnFfTG1IVGFhdkJuMnFXSndCeHhQRU9qMmVtMG40SzNTdEoyem16Mmc?oc=5)
 
-2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMingFBVV95cUxNbTJyWFB0WjVEQ2VCVWI2U3BqRzEzVFMxWVZZSWhvUnVCWEgtZkNuNjR2ckhSTjdDR0RaYlZNbzU3aUgxY3JSYVNhRFZwelNSNHdHRENSbjNfX2JDSFA4QVRPaVRHRnR4UmVXanF5VEtpSnV0Z01vRjVaeU0tUW1idVFTLXFfSjQ3SEVuZU9zSHE4WURKTnRwbjJVcGJTUQ?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV0o3akhROWJWeGpRbm5mdlN3NGRMQVB6Q3VmSE1DY3FKSXRtUGtYSmMxSmxvcE93al85NWpLY2VzeDhvOEkxRjIwc2tlWXI4TElnX1B0NnFfTG1IVGFhdkJuMnFXSndCeHhQRU9qMmVtMG40SzNTdEoyem16Mmc?oc=5)
 
 ---
 

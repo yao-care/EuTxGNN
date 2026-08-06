@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="Upadacitinib 有什麼相關新聞？">
-<strong>Upadacitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Upadacitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/upadacitinib/
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artrite</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+---
 
 ### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
-2026-08-05 <span class="news-indication-tag">asthma</span>
+2026-08-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[SWR](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+來源：[swr.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
 
 ---
 

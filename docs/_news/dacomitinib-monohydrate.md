@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
+
+### [Kardiovaskuläres Dreifachrisiko geht mit früher Demenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+
+2026-08-06 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+
+---
+
+### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artrite</span>
+
+來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+---
 
 ### [RSV-Schutz: Impfung für Ältere mit Herzerkrankung - Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
 
@@ -62,59 +78,19 @@ permalink: /news/dacomitinib-monohydrate/
 
 ---
 
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
----
-
-### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure'](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
+### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">high blood pressure</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
 
 ---
 
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
-
----
-
-### [Fettleber: Vierfach erhöhtes Sterberisiko durch Herzerkrankungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">Herzerkrankung</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeENVSU4xX3V3SGxVbnZxN3lkZnlQRDZiYWZoRnpHMnUta1RaUnJZTlBackpKUndoTFQ4b2xZZkYwQXZVT0ZtQ3RLdkZwUklaRjJZZjVOM3VjcURmNjc3T1ZWUHFWX0JBTWNTUzhsZzRRTklDbGszVGxBMm1iMktlZ3NpTEZQenp2YWJlWUFFcHgyWmF6SVdJNXYwNVp4bndzZzJ2aDJTLXhxVEVsY25DY2xPOA?oc=5)
-
----
-
-### [Bluthochdruck und Demenz: 10 mmHg Senkung senkt Risiko um über 10% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU1yYVVyMkhrRFVXSXNjQ0hTbFgzcUFmMERxbGVRa0xrMXpnZHBqUi1hZ183clRoLVVfaDFkQUNqQ1ZNVEVfQURJWEVQdFk4djRfWEpuMDh2eGRSU3hoNFd4cTBVSWNwb0xzMnRLZ2JkN3NyaWFyWmZzZGRaNTNMb0h6SmROQ2JUc1hrcHM5a3FhNVNUNFRNa3BidUJRSGRBQTFjc09CcW00WEJteWgxQ0hYaHZQUGo4RWpqbXh2RQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU1yYVVyMkhrRFVXSXNjQ0hTbFgzcUFmMERxbGVRa0xrMXpnZHBqUi1hZ183clRoLVVfaDFkQUNqQ1ZNVEVfQURJWEVQdFk4djRfWEpuMDh2eGRSU3hoNFd4cTBVSWNwb0xzMnRLZ2JkN3NyaWFyWmZzZGRaNTNMb0h6SmROQ2JUc1hrcHM5a3FhNVNUNFRNa3BidUJRSGRBQTFjc09CcW00WEJteWgxQ0hYaHZQUGo4RWpqbXh2RQ?oc=5)
-
----
-
-### [El Hospital Puerta de Hierro descarta enfermedad cardíaca en pacientes con hipertrabeculación](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[Boadilladigital](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BX1VhbnVrakJkZk11RmxYY2NDNmF0VlhIVThaaTZBZ3R1VjhWRE5sUk03Zkl1ek1kNkhIQmZCbWg4VWszdzhaVEsyckFneXZGY0ctcks0TnRlcHJaQ2dCUHZWejRhbFhnN3Vhd2Z2SDdzYTIwTmpITm5kMjE?oc=5)
-
----
-
-### [Las mujeres que tienen la menopausia de forma precoz tienen un mayor riesgo de desarrollar hipertensión arterial - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">hipertensión</span>
-
-來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 ---
 

@@ -46,11 +46,11 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（4 則）
 
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
+### [Study finds three midlife health factors that could delay dementia for 13 years - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHhwRlItRHV5aHZEX1N2N0VCQ2JIaWhnOUZSSXM0R21kektlb2YtbktycHp1c3FsWWVvdUFEaUpXVFc4dGR1UFE5ejY1Q0x1STVDUktKcS1GMmFKQ3hCWkxYQzNZOElIS3hzeC1JNDF6TURPWm1WcUZMSXNyTWlpN0FqWm9YcFEteVp4U1c3bzQta21YWVE?oc=5)
 
 2026-08-06
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHhwRlItRHV5aHZEX1N2N0VCQ2JIaWhnOUZSSXM0R21kektlb2YtbktycHp1c3FsWWVvdUFEaUpXVFc4dGR1UFE5ejY1Q0x1STVDUktKcS1GMmFKQ3hCWkxYQzNZOElIS3hzeC1JNDF6TURPWm1WcUZMSXNyTWlpN0FqWm9YcFEteVp4U1c3bzQta21YWVE?oc=5)
 
 ---
 
@@ -70,11 +70,11 @@ permalink: /news/alzheimer-disease/
 
 ---
 
-### [The bitter truth about junk science](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
+### [The bitter truth about junk science - The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
 
 2026-08-05
 
-來源：[thecritic.co.uk](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
+來源：[The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
 
 ---
 
