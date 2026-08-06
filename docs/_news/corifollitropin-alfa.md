@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="Corifollitropin Alfa 有什麼相關新聞？">
-<strong>Corifollitropin Alfa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Corifollitropin Alfa</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/corifollitropin-alfa/
 <p><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
 
-### [Kardiovaskuläres Dreifachrisiko geht mit früher Demenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
 
-2026-08-06 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+---
+
+### [Un estudio en el que participa el Hospital Puerta de Hierro descarta la existencia de una enfermedad del corazón - Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
+### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+
+2026-08-06 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+
+---
+
 ### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">high blood pressure</span>
@@ -78,11 +94,11 @@ permalink: /news/corifollitropin-alfa/
 
 ---
 
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 ---
 
@@ -91,6 +107,14 @@ permalink: /news/corifollitropin-alfa/
 2026-08-05 <span class="news-indication-tag">migraine</span>
 
 來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2N1TkxuX3pPcmlPbEhtM19RVVNNWU9SazVpQnpnNlNQZXA4UkpUaC1EVFl4OXZmUlhoTGFRX3NnalVKZjBiVGdoNGw5NEk5eHNscmdKcmVMOXUzZ3N4b3BMbV9ocVdKVjFDMnV5ZW40VGUyc2QwZlU1bHZwQlpjUUQyRldRLU01TnBQdlc0YWZmanhHTmk3TVRBM3NtelBHMUpZZXJFQ0pmN3RzUTdpSmlJNFNCQTRUeEhFejdZQkZZVzZUMXg5ZmxGVzI0SHpQaHlfNmxIN3huQnNVQ1NBVTVldE5ldw?oc=5)
+
+---
+
+### [Las mujeres que tienen la menopausia de forma precoz tienen un mayor riesgo de desarrollar hipertensión arterial - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
+
+2026-08-05 <span class="news-indication-tag">hipertensión</span>
+
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
 
 ---
 

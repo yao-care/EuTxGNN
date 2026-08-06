@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
-### [Hundreds of deaths suspected of being linked to weight-loss jabs reported to regulator - Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
+
+---
+
+### [El adelgazante Mounjaro demuestra que protege frente a infarto e ictus - Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
 
 ---
 
@@ -70,6 +78,14 @@ permalink: /news/tirzepatide/
 
 ---
 
+### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
+
+2026-08-06 <span class="news-indication-tag">artritis</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
+
+---
+
 ### [Mounjaro linked to slashing risk of killer heart attacks by a third for the first time - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
 
 2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
@@ -78,11 +94,11 @@ permalink: /news/tirzepatide/
 
 ---
 
-### [Grandmother, 73, who upped Mounjaro dose dies hours after A&E sent her home with stomach pains - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV0o3akhROWJWeGpRbm5mdlN3NGRMQVB6Q3VmSE1DY3FKSXRtUGtYSmMxSmxvcE93al85NWpLY2VzeDhvOEkxRjIwc2tlWXI4TElnX1B0NnFfTG1IVGFhdkJuMnFXSndCeHhQRU9qMmVtMG40SzNTdEoyem16Mmc?oc=5)
+### [Pancreatitis — how great is the risk of weight-loss medication? - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2dBNW5WR21JWXdVUGlKd0dJSmtZU05nY0tVMHFvdEdSRnZzM1hOOGxfWVg1aVAxb0MybUs4bWdEUE8taUc0WkQwajk1UktrWnY4eWNwX3FwcG5CZ2VGMkZSSktjM3E4ZmtKbUVDR2EyWVZuMjNTdWpraERHMTJhbnkxZzVzQUR2NklzVUNoWVhJYW55dkFKUGpqc3M3eW8?oc=5)
 
-2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTE9aV0o3akhROWJWeGpRbm5mdlN3NGRMQVB6Q3VmSE1DY3FKSXRtUGtYSmMxSmxvcE93al85NWpLY2VzeDhvOEkxRjIwc2tlWXI4TElnX1B0NnFfTG1IVGFhdkJuMnFXSndCeHhQRU9qMmVtMG40SzNTdEoyem16Mmc?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2dBNW5WR21JWXdVUGlKd0dJSmtZU05nY0tVMHFvdEdSRnZzM1hOOGxfWVg1aVAxb0MybUs4bWdEUE8taUc0WkQwajk1UktrWnY4eWNwX3FwcG5CZ2VGMkZSSktjM3E4ZmtKbUVDR2EyWVZuMjNTdWpraERHMTJhbnkxZzVzQUR2NklzVUNoWVhJYW55dkFKUGpqc3M3eW8?oc=5)
 
 ---
 

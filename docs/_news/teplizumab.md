@@ -14,7 +14,7 @@ permalink: /news/teplizumab/
 ---
 
 <p class="key-answer" data-question="Teplizumab 有什麼相關新聞？">
-<strong>Teplizumab</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Teplizumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/teplizumab/
 <p><a href="{{ '/drugs/teplizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet: Mit Daten und Digitalisierung gegen Diabetes - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
+### [FNIP1-Gen: Natürliche Mutation schützt zu 60% vor Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1RfUDVBR2lTYy12Njlyekljc0Z0amxNY1cxNUZveHZVLTFtc1JSaTBnQkNCQXA5NmVnNGlVNEU3dDdjTXhrNGlPdmVoNER4VmtYcnJpdXVQNDIzQXdJZFhDRmN1ZTZhLWFRVDJpZnd4aXN0VDA4UldfZTIyY1JPckVWWXM0WnVDLUw1TkZRbDhNaklRR1N1Uk95djFKbXZMN2lMMExtZkw5S2tTUkxvY0xJNUVPdw?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1RfUDVBR2lTYy12Njlyekljc0Z0amxNY1cxNUZveHZVLTFtc1JSaTBnQkNCQXA5NmVnNGlVNEU3dDdjTXhrNGlPdmVoNER4VmtYcnJpdXVQNDIzQXdJZFhDRmN1ZTZhLWFRVDJpZnd4aXN0VDA4UldfZTIyY1JPckVWWXM0WnVDLUw1TkZRbDhNaklRR1N1Uk95djFKbXZMN2lMMExtZkw5S2tTUkxvY0xJNUVPdw?oc=5)
 
 ---
 
-### [VRAI OU FAUX. Canicules : les fortes chaleurs nous font-elles vieillir plus vite ? Voici ce que révèlent deux études](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabète</span>
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUG5aNlI0RzlRS1Z4MmFodUhYNk1EVk5menpDdzJfNTlYQ3JqbWpqcDNNdzdidmRUZV9LN1lNT3ZnXzdPSXJ1Q01yYUdjYUhxcTZSd0VYaWxNTlM3QWJmX2JDR1ZVNVV0U05LMUp1VG9XYVRFTmpEV2hoakxkcVR0aVZrc2tyNnlqbE1RZ3FYUnJyVFRwMkc1cnNGVFVLMWZDb3k4Q0NYaVZmWGJnMXFRWlVpNzUtS0JROW12ODdTS2o4Y3U2YmViWjFEM2pDNlRYTGRBa0pZQWd0TXpZN1dZbmtvaUxITzh3T2FaUTdqbFpFZw?oc=5)
+來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
+
+---
+
+### [El adelgazante Mounjaro demuestra que protege frente a infarto e ictus - Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+---
+
+### [Kardiovaskuläres Dreifachrisiko geht mit früher Demenz einher – News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+
+---
+
+### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ permalink: /news/teplizumab/
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
-
----
-
-### [Der Fall eines Patienten mit MODY-Diabetes nach längerer Remission](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFB1NDdJZkdZckJDeUpqYjRVQVRTT1VRQ1h2anpTNU9jQ1JEUm1Yb1ltbG12R1lJVWdPMU9RTzhFZEY0OEJJTC1Qc0xpaVJWa3J5Mkc2X0xXUUtsdHpsUEtRRXpDU3lkTG5ZMGM0TFZiSFpDb09lY3IwTGZvd0pXQmlXdldZTGxveW9mcFl0eWUzOTk4SEl4RlNMZHhvVm8zQ1VmdTZYTFB3eDRjZHBN?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFB1NDdJZkdZckJDeUpqYjRVQVRTT1VRQ1h2anpTNU9jQ1JEUm1Yb1ltbG12R1lJVWdPMU9RTzhFZEY0OEJJTC1Qc0xpaVJWa3J5Mkc2X0xXUUtsdHpsUEtRRXpDU3lkTG5ZMGM0TFZiSFpDb09lY3IwTGZvd0pXQmlXdldZTGxveW9mcFl0eWUzOTk4SEl4RlNMZHhvVm8zQ1VmdTZYTFB3eDRjZHBN?oc=5)
 
 ---
 
@@ -110,35 +126,11 @@ permalink: /news/teplizumab/
 
 ---
 
-### [Faster Alzheimer's decline linked to common pill taken by millions - Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
-
----
-
 ### [Ambulances test for fatal DKA diabetes complication after man's death](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
 
 2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
-
----
-
-### [Ballaststoffe, P-CABs und KI: neue Impulse für Magen-Darm & Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
-
----
-
-### [Immunoproteasom als neuer Angriffspunkt gegen Diabetes-Entzündungen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
 
 ---
 

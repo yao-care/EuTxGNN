@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma 相關新聞"
+title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
-# asthma 相關新聞
+# asma（asthma） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
+<strong>asma（asthma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「asthma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「asma」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,11 @@ permalink: /news/asthma/
 
 ## 相關新聞（1 則）
 
-### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
-2026-08-05
+2026-08-06
 
-來源：[swr.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
 ---
 

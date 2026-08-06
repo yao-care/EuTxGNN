@@ -54,11 +54,11 @@ permalink: /news/ketoconazole/
 
 ## 相關新聞（1 則）
 
-### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
-2026-08-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[swr.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
 ---
 

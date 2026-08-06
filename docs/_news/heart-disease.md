@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung（heart disease） 相關新聞"
+title: "cardiopatía（heart disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Herzerkrankung（heart disease） 的相關健康新聞報導。1 則新聞、57 個相關藥物。"
+description: "cardiopatía（heart disease） 的相關健康新聞報導。3 則新聞、57 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung（heart disease） 相關新聞
+# cardiopatía（heart disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Herzerkrankung（heart disease） 有什麼相關新聞？">
-<strong>Herzerkrankung（heart disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，57 個相關藥物。
+<p class="key-answer" data-question="cardiopatía（heart disease） 有什麼相關新聞？">
+<strong>cardiopatía（heart disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，57 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Herzerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「cardiopatía」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,23 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+2026-08-06
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+---
+
+### [Un estudio en el que participa el Hospital Puerta de Hierro descarta la existencia de una enfermedad del corazón - Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+
+2026-08-06
+
+來源：[Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+
+---
 
 ### [RSV-Schutz: Impfung für Ältere mit Herzerkrankung - Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
 

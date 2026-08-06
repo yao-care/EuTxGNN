@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Psoriasis : une faille génétique identifiée, des patients enfin soulagés](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYldsWl90VXFydFE3Q2hLZnkyajJrbWpLMG1yOWdLbXJxM24waXdBRW53S1FBTW91UHp3R3JFWW1BYU5hSER5bDRGeTFqSDNUOTJ0VzZkUjRKLW5UalJLOHZzZ1hkbDFYTTF0WWdfMktWZjBQTGhMcEE5QWF6a1dNNTl0Ujh5X1VuMWxvQUhmdWpEWmJqVEp5Vzk2dnRZMzN5bFlpSWFVMmxHQ0lEWUR6ajlLN2E2WVJxQnc?oc=5)
 
 2026-08-05
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYldsWl90VXFydFE3Q2hLZnkyajJrbWpLMG1yOWdLbXJxM24waXdBRW53S1FBTW91UHp3R3JFWW1BYU5hSER5bDRGeTFqSDNUOTJ0VzZkUjRKLW5UalJLOHZzZ1hkbDFYTTF0WWdfMktWZjBQTGhMcEE5QWF6a1dNNTl0Ujh5X1VuMWxvQUhmdWpEWmJqVEp5Vzk2dnRZMzN5bFlpSWFVMmxHQ0lEWUR6ajlLN2E2WVJxQnc?oc=5)
+
+---
+
+### [Psoriasis: SMS fördern herzgesundes Leben - Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1RRRkpSUGZYZ0dFNEpqMHdGekZFa1Vpek02eklORnpPdjVBWGlReWluQktuTmZEazR6S2N0RkRhRXY0eGo1ZExOVzBmWldLdmZvSENZakQ0YjRnUTZReVgtMm81MTQ3WlFnMjBlalI1NkpQVk9YazVtNlpvbGhJNEJGSQ?oc=5)
+
+2026-08-05
+
+來源：[Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1RRRkpSUGZYZ0dFNEpqMHdGekZFa1Vpek02eklORnpPdjVBWGlReWluQktuTmZEazR6S2N0RkRhRXY0eGo1ZExOVzBmWldLdmZvSENZakQ0YjRnUTZReVgtMm81MTQ3WlFnMjBlalI1NkpQVk9YazVtNlpvbGhJNEJGSQ?oc=5)
 
 ---
 

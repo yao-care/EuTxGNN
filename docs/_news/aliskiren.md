@@ -14,7 +14,7 @@ permalink: /news/aliskiren/
 ---
 
 <p class="key-answer" data-question="Aliskiren 有什麼相關新聞？">
-<strong>Aliskiren</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Aliskiren</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,101 @@ permalink: /news/aliskiren/
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（39 則）
 
-### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days'](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 2026-08-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 ---
 
-### [Kardiovaskuläres Dreifachrisiko geht mit früher Demenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+### [Il massaggio può “diffondere” un tumore? La risposta più completa finora](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHluLU5jNlV3bThQYUhtaUFDSzJ3WHFlSkxRRk9mYjlGV3dqN1M5NGR4aHFkZVJrd09KV1ZaZVhsbkY2bEN3Z1E4NnM0YVRGOVJNNEtfTnFNNGxDbkpaNDJPaDh4MGVJYW11eWpJTUxKZjZEbFdDVHd6emVRUDJVb19Ic0d0aVRlSHBBRHctRldXbldVS2xfSjR6VVFodEk3MU5RM0x0Ym1HZjNLZUFVblVkOExOQnBhV2VJeHFNbDVrdVdiU0U4eA?oc=5)
 
-2026-08-06 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-06 <span class="news-indication-tag">tumor</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHluLU5jNlV3bThQYUhtaUFDSzJ3WHFlSkxRRk9mYjlGV3dqN1M5NGR4aHFkZVJrd09KV1ZaZVhsbkY2bEN3Z1E4NnM0YVRGOVJNNEtfTnFNNGxDbkpaNDJPaDh4MGVJYW11eWpJTUxKZjZEbFdDVHd6emVRUDJVb19Ic0d0aVRlSHBBRHctRldXbldVS2xfSjR6VVFodEk3MU5RM0x0Ym1HZjNLZUFVblVkOExOQnBhV2VJeHFNbDVrdVdiU0U4eA?oc=5)
+
+---
+
+### ["Il a voulu lutter jusqu’au bout" : le combat de Corentin, décédé à 17 ans d’un cancer rare, se poursuit après sa mort - Midi Libre](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZHJHRlRQejlPMTJlWmNpYmphbHVFNGNFamJWekxfaklWRGZwWWdxWEZRUzFPc0pHdU1GUWE1a0RyNlA4MTFLRGpSVXpiVFRiZURHM0JteWQ3YXR0Z3R0eENOSzEtMlhpOWNJY3lES2VIMDdkbmdxR3Fpb2EyZUduaEhjTndhTGhLZFpwTjIwTnRzQ1N3Z1NQY1pSX01kYXZ4TzdfVzZsRUI4em95emhycFE3ZjhDRWsxWWlJU2VZOHBXMFhicGNCMWN2b3hTNTdhZ3FYV2dVWjQ3Mkd3R2Q4WXE2SGJkY2RhTWJjQ1R4WUI?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span>
+
+來源：[Midi Libre](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZHJHRlRQejlPMTJlWmNpYmphbHVFNGNFamJWekxfaklWRGZwWWdxWEZRUzFPc0pHdU1GUWE1a0RyNlA4MTFLRGpSVXpiVFRiZURHM0JteWQ3YXR0Z3R0eENOSzEtMlhpOWNJY3lES2VIMDdkbmdxR3Fpb2EyZUduaEhjTndhTGhLZFpwTjIwTnRzQ1N3Z1NQY1pSX01kYXZ4TzdfVzZsRUI4em95emhycFE3ZjhDRWsxWWlJU2VZOHBXMFhicGNCMWN2b3hTNTdhZ3FYV2dVWjQ3Mkd3R2Q4WXE2SGJkY2RhTWJjQ1R4WUI?oc=5)
+
+---
+
+### [Krebs wird häufiger – doch die Überlebenschancen steigen - smart up news](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZ5Qi1RR3JtVHc1QUwzVkE4aHBtaUh1RFQ5YUdFbklPREEtcWc1NEtHRjNNQnZrNHQwS3I5N2g5Tlo3WGZqVjhlNnRmN3JfU2FLZXZnTVhCVTN5V3NwMzRIdDFyeG5IXzBJcTJhcnljbHg3QVJSU0pfbTltU19vM2wzUG5FUzUyVVBWV1FfbkFaODltQk1n?oc=5)
+
+2026-08-06 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZ5Qi1RR3JtVHc1QUwzVkE4aHBtaUh1RFQ5YUdFbklPREEtcWc1NEtHRjNNQnZrNHQwS3I5N2g5Tlo3WGZqVjhlNnRmN3JfU2FLZXZnTVhCVTN5V3NwMzRIdDFyeG5IXzBJcTJhcnljbHg3QVJSU0pfbTltU19vM2wzUG5FUzUyVVBWV1FfbkFaODltQk1n?oc=5)
+
+---
+
+### [El adelgazante Mounjaro demuestra que protege frente a infarto e ictus - Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+---
+
+### [The organ in your chest you’ve never heard of that could be key to living longer - The i Paper](https://news.google.com/rss/articles/CBMigwFBVV95cUxONTg4akZCRW5GZkUzRVJkdGRWTVJEVjF6bW5oOXBsMWdsck5Pbk9KbjBSZ2JVZjhEUXotSWJJSjhNYTBGaWdyVnZiTkgzZkFqTUo3UXdhU2ZaSFJJSkRvTmtkeUt3Yi0tY3dqSmhiX1R6cFpobG9LU25VQW5sT3F1ZU9BYw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span>
+
+來源：[The i Paper](https://news.google.com/rss/articles/CBMigwFBVV95cUxONTg4akZCRW5GZkUzRVJkdGRWTVJEVjF6bW5oOXBsMWdsck5Pbk9KbjBSZ2JVZjhEUXotSWJJSjhNYTBGaWdyVnZiTkgzZkFqTUo3UXdhU2ZaSFJJSkRvTmtkeUt3Yi0tY3dqSmhiX1R6cFpobG9LU25VQW5sT3F1ZU9BYw?oc=5)
+
+---
+
+### [Oltre 30 mila nuove diagnosi di tumore l’anno: San Luigi e Asl Torino 3 alleate per ricerca e cura - La Stampa](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXhISlR5Nm1lWkFlYm0zVF9LOFhSSnY5TFNUV1dtazRTYnVtTDNHeDZ0TnRhZUVRRURkUFVfYnIxWG13Y0tHLUUyYjczZkJuMmlUdXBSRnpyUVl2S0o5bGkyVXZwOXgxSlZydVJsRmhIQU5VTktOTjdwSWRleU1uSUF1RkRYck5QMzhaaHA1dWlaWUZxOC0wNkZsMm5DRzlsQXhWd2xUa1J6aEJYVHZiSVJVSDE0c3h3aENHd9IBwgFBVV95cUxNd2tVXzFEeG16MkpsSmNTTkdVNGRpLVRmM1hYdURBTWRwMzEwQzVrZUlpcE5jMnNYbUJCR3RMbHlWY3BubGNWdkxfaUJGbTBQZmprbllCSmFwdG9GSEFIekpmbC04d0V0Ykg5TXlGaTNCRGtmUkQyT3cyS0RlVFBYeWxJd0k4b0lqaFYwQjNNYVE2Z0JfU0VaQnZfU3prU1Q0NVgwNV9LYVk3bDRZYTVQNjVWWloxdFBLOUx3QzFFeFBfZw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">tumor</span>
+
+來源：[La Stampa](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXhISlR5Nm1lWkFlYm0zVF9LOFhSSnY5TFNUV1dtazRTYnVtTDNHeDZ0TnRhZUVRRURkUFVfYnIxWG13Y0tHLUUyYjczZkJuMmlUdXBSRnpyUVl2S0o5bGkyVXZwOXgxSlZydVJsRmhIQU5VTktOTjdwSWRleU1uSUF1RkRYck5QMzhaaHA1dWlaWUZxOC0wNkZsMm5DRzlsQXhWd2xUa1J6aEJYVHZiSVJVSDE0c3h3aENHd9IBwgFBVV95cUxNd2tVXzFEeG16MkpsSmNTTkdVNGRpLVRmM1hYdURBTWRwMzEwQzVrZUlpcE5jMnNYbUJCR3RMbHlWY3BubGNWdkxfaUJGbTBQZmprbllCSmFwdG9GSEFIekpmbC04d0V0Ykg5TXlGaTNCRGtmUkQyT3cyS0RlVFBYeWxJd0k4b0lqaFYwQjNNYVE2Z0JfU0VaQnZfU3prU1Q0NVgwNV9LYVk3bDRZYTVQNjVWWloxdFBLOUx3QzFFeFBfZw?oc=5)
+
+---
+
+### [Nota Informativa Importante di Sicurezza (NIIS) su medicinali contenenti desogestrel ed etonogestrel - Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlZrM3FTQXl6aHRfZG5OZmMxTVlESGJwak5XVkM0a0VvcEUwSF9kMllMd3FHaHRVcWt4YW5EM2hKQWZ3OVJNSlJnYnpDelhVbVFEcXVOa1A1anVZaVV3NlItOWUzV1Q1cEZYeFhTSkNaSWxkVjEtcXBQdUZTbkNDUmdGRDJIcDVmVlBQUXAyWnNtZUp5TzVqM3gtM21mcVZIdXVNcTBkYUMtOHNxNUhJ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Agenzia Italiana del Farmaco](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlZrM3FTQXl6aHRfZG5OZmMxTVlESGJwak5XVkM0a0VvcEUwSF9kMllMd3FHaHRVcWt4YW5EM2hKQWZ3OVJNSlJnYnpDelhVbVFEcXVOa1A1anVZaVV3NlItOWUzV1Q1cEZYeFhTSkNaSWxkVjEtcXBQdUZTbkNDUmdGRDJIcDVmVlBQUXAyWnNtZUp5TzVqM3gtM21mcVZIdXVNcTBkYUMtOHNxNUhJ?oc=5)
+
+---
+
+### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+---
+
+### [Grandma 'given paracetamol' and told 'enjoy life you have left' after tumour grew during cancer treatment wait - Daily Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRm9UVUpnTk1pNGp4QmpfX3dqV2RydUtTNG1XUzJ1YUdRa2JrYlVRNXhMczFncTNqcExaQ01zUHlYVmxLTmh1TENZamF3cTJFLVk5X1RzVVl0ZnliaklnUDFaakt5cEdEc1JsMG1OakszUmZtaEw3SDhZaEdWOE81SnBfRVVtVHEteWN6OW5yYnE5NU9kQmF30gGcAUFVX3lxTFBCQ245ZXNVVXBBMWUycUtFREhTQ3loR3NNVzJRaWh0NzJUVXRFQkFwRUNRdm00NHNtSEc1azl3TnFQQ1R0ZXNYQ2xqSk1LVWpzZUJQbVVESFQ4MWxKbHg3Y1dvZnZnSmhyYzN5alpSZmVnYlFOZUxTVkI3M3RmajN1MGZLNW13VExMYnZ2SktSeTRnbXNpYlVENjZsdw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRm9UVUpnTk1pNGp4QmpfX3dqV2RydUtTNG1XUzJ1YUdRa2JrYlVRNXhMczFncTNqcExaQ01zUHlYVmxLTmh1TENZamF3cTJFLVk5X1RzVVl0ZnliaklnUDFaakt5cEdEc1JsMG1OakszUmZtaEw3SDhZaEdWOE81SnBfRVVtVHEteWN6OW5yYnE5NU9kQmF30gGcAUFVX3lxTFBCQ245ZXNVVXBBMWUycUtFREhTQ3loR3NNVzJRaWh0NzJUVXRFQkFwRUNRdm00NHNtSEc1azl3TnFQQ1R0ZXNYQ2xqSk1LVWpzZUJQbVVESFQ4MWxKbHg3Y1dvZnZnSmhyYzN5alpSZmVnYlFOZUxTVkI3M3RmajN1MGZLNW13VExMYnZ2SktSeTRnbXNpYlVENjZsdw?oc=5)
+
+---
+
+### [Enfin une nouvelle piste : modifier le microbiote pourrait rendre certains traitements contre le cancer plus efficaces - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQVJJTHcyUFRlbVV1LUtDZWxMSkJfeVJZaFRjR2tmbUhqZTdzT1kySS1WandpM0hKOGZ1ZUZGRHZJLVVRU0NKWTZQZURmcHBvS0I3WURWS3VDM3lpRElEWXFJaEJXMXd1a09ZckU2V1F6UERyQXRDeF9acm9penZaX0RvbjRVLUh0SGxWUWF4T3JNWlUzNnA4VUFKZ3RrM2RIeFJnanMwRlhqcWhKLTNLSE4zaS1WMmlWQURIcWhZZERjZ3l3NVR6Zmg0bW42NW41Zk9sRjRmQndCYzBONExTSnNGcE1yZkxBM0hsUmJzaTNXZ2twMUQ0Ulp6RWU?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span>
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQVJJTHcyUFRlbVV1LUtDZWxMSkJfeVJZaFRjR2tmbUhqZTdzT1kySS1WandpM0hKOGZ1ZUZGRHZJLVVRU0NKWTZQZURmcHBvS0I3WURWS3VDM3lpRElEWXFJaEJXMXd1a09ZckU2V1F6UERyQXRDeF9acm9penZaX0RvbjRVLUh0SGxWUWF4T3JNWlUzNnA4VUFKZ3RrM2RIeFJnanMwRlhqcWhKLTNLSE4zaS1WMmlWQURIcWhZZERjZ3l3NVR6Zmg0bW42NW41Zk9sRjRmQndCYzBONExTSnNGcE1yZkxBM0hsUmJzaTNXZ2twMUQ0Ulp6RWU?oc=5)
+
+---
+
+### [Un estudio en el que participa el Hospital Puerta de Hierro descarta la existencia de una enfermedad del corazón - Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
 
 ---
 
@@ -86,19 +166,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Cancro, niente zucchero sotto i due anni: -69% in età adulta, cifre pazzesche | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmtESThIMjN2NWhBQjMxU1FScC1zQmVZekJINk04UHdmOFBRRDFaT19JTDh5ZkxGLVlUeWpDSkpPekoycWlJYlg2QTNWWm9tbDExYmtKODNMbEdVLTBYWWhZeWlERzlnV0EzMGpKcHJGdGJ5bW8zQUgtMS1KdndrUTZ4VXdfSUppZERqSWs3OTJYNkVfNU5Za0ZOdlNuT1A4Z25UN2RGQk56c2JqWXV1em1iM2wyaGpQQVpydU5sWHZGdmd1d0FQMWIxUHZUZw?oc=5)
-
-2026-08-06 <span class="news-indication-tag">cancro</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmtESThIMjN2NWhBQjMxU1FScC1zQmVZekJINk04UHdmOFBRRDFaT19JTDh5ZkxGLVlUeWpDSkpPekoycWlJYlg2QTNWWm9tbDExYmtKODNMbEdVLTBYWWhZeWlERzlnV0EzMGpKcHJGdGJ5bW8zQUgtMS1KdndrUTZ4VXdfSUppZERqSWs3OTJYNkVfNU5Za0ZOdlNuT1A4Z25UN2RGQk56c2JqWXV1em1iM2wyaGpQQVpydU5sWHZGdmd1d0FQMWIxUHZUZw?oc=5)
-
----
-
 ### [Immer mehr Krebs bei Jüngeren Steigt das Tumorrisiko, weil die Menschen biologisch schneller altern?](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR2kya1BFWUc0VXFVNjJJdmNNbGZKeFNneHRJaVY2U295RkJFczNsaUdTMjdvVnFDdnRIVjJscVI2MWRCVEVpOWp6bS01NU5qWjNEYXlxSnN5Y2NtM19MVUM0Yi1fU1d0ZjNvQ0ZQSUxRYjBFTlhXOHBETjZ5VHhoMzk0OGMxd05TZTZwckxnUS1YS0Q0ZWlkN3FZZG51NkNZcDZscTU1TjhSczJRMDJUemxBN01rOFVneUxTV0xObFc3VUNsMkYxVW1EemVKZHhCV041UVlPMTZNMFNEeFdlVg?oc=5)
 
 2026-08-06 <span class="news-indication-tag">tumor</span>
 
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR2kya1BFWUc0VXFVNjJJdmNNbGZKeFNneHRJaVY2U295RkJFczNsaUdTMjdvVnFDdnRIVjJscVI2MWRCVEVpOWp6bS01NU5qWjNEYXlxSnN5Y2NtM19MVUM0Yi1fU1d0ZjNvQ0ZQSUxRYjBFTlhXOHBETjZ5VHhoMzk0OGMxd05TZTZwckxnUS1YS0Q0ZWlkN3FZZG51NkNZcDZscTU1TjhSczJRMDJUemxBN01rOFVneUxTV0xObFc3VUNsMkYxVW1EemVKZHhCV041UVlPMTZNMFNEeFdlVg?oc=5)
+來源：[tagesspiegel.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR2kya1BFWUc0VXFVNjJJdmNNbGZKeFNneHRJaVY2U295RkJFczNsaUdTMjdvVnFDdnRIVjJscVI2MWRCVEVpOWp6bS01NU5qWjNEYXlxSnN5Y2NtM19MVUM0Yi1fU1d0ZjNvQ0ZQSUxRYjBFTlhXOHBETjZ5VHhoMzk0OGMxd05TZTZwckxnUS1YS0Q0ZWlkN3FZZG51NkNZcDZscTU1TjhSczJRMDJUemxBN01rOFVneUxTV0xObFc3VUNsMkYxVW1EemVKZHhCV041UVlPMTZNMFNEeFdlVg?oc=5)
 
 ---
 
@@ -110,11 +182,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Il tumore si frantuma senza bisturi: la promessa e i limiti degli ultrasuoni](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWgyNHBVNXNiNVZKcUM2a1llRHAwQ3JjSFFTQUJFZmtsSU81ZzVrU0RMZElpZUhIcWZHcHNhRUkzM0VyRDZvVUhIVWVaN1Uwd1lobXY1QkZTY1JGdTRncW1vSXMxUGcwajk1LUJuQlBSWEkwVUZRVGxFakxTalZTOENGQUxnem9KemVzd0VpSm9zMlhSZ3RlMlZpdGN1a3kyM0htN2VmV0hmUVhLN3pxVG5nTEV0Q2x6VlpIc1NJSThVU1JpbVBrZkVzQTY1c3RO?oc=5)
+### ['Just live your life' says sister of Stoke-on-Trent stroke victim who died at 26 - The Sentinel](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJhZUVjTzNTcUJjOGp6Sy1UdGtwb0U1TlpkSFJBOFZMZlc3UTJfQlp2d050TzdkTUlNTkFWUXlzSnBPSTVmQmN6UTFFdEhmYk9xY0p3UWdHSDFxTjNwMndxdHlZVTJsR3c3X2pKMlp6b0hXejAtd2E4Q0VScjZva1FQVUFvQzFRRkhta3oyZ0JhcjVF0gGaAUFVX3lxTE41V09xaDJhSURPWk9uSG5fa3JyRVdQck1VS2RMcDhmdGN2QzdIQWhlZHNPalJIdDY1NUdUdXphZ25HWXM1V21oUDVwbFNORU9jdVZYSGJXci04TC1GajlCdjNIM044aGd1bXN5RFVfM3RQZXdObU9hRG8xcUNYZHVIZDZYNnZvX21zcXM1cUtzalpXdzEwMlB5U3c?oc=5)
 
-2026-08-06 <span class="news-indication-tag">tumor</span>
+2026-08-06 <span class="news-indication-tag">stroke</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWgyNHBVNXNiNVZKcUM2a1llRHAwQ3JjSFFTQUJFZmtsSU81ZzVrU0RMZElpZUhIcWZHcHNhRUkzM0VyRDZvVUhIVWVaN1Uwd1lobXY1QkZTY1JGdTRncW1vSXMxUGcwajk1LUJuQlBSWEkwVUZRVGxFakxTalZTOENGQUxnem9KemVzd0VpSm9zMlhSZ3RlMlZpdGN1a3kyM0htN2VmV0hmUVhLN3pxVG5nTEV0Q2x6VlpIc1NJSThVU1JpbVBrZkVzQTY1c3RO?oc=5)
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJhZUVjTzNTcUJjOGp6Sy1UdGtwb0U1TlpkSFJBOFZMZlc3UTJfQlp2d050TzdkTUlNTkFWUXlzSnBPSTVmQmN6UTFFdEhmYk9xY0p3UWdHSDFxTjNwMndxdHlZVTJsR3c3X2pKMlp6b0hXejAtd2E4Q0VScjZva1FQVUFvQzFRRkhta3oyZ0JhcjVF0gGaAUFVX3lxTE41V09xaDJhSURPWk9uSG5fa3JyRVdQck1VS2RMcDhmdGN2QzdIQWhlZHNPalJIdDY1NUdUdXphZ25HWXM1V21oUDVwbFNORU9jdVZYSGJXci04TC1GajlCdjNIM044aGd1bXN5RFVfM3RQZXdObU9hRG8xcUNYZHVIZDZYNnZvX21zcXM1cUtzalpXdzEwMlB5U3c?oc=5)
 
 ---
 
@@ -126,6 +198,14 @@ permalink: /news/aliskiren/
 
 ---
 
+### [Il tumore si frantuma senza bisturi: la promessa e i limiti degli ultrasuoni](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWgyNHBVNXNiNVZKcUM2a1llRHAwQ3JjSFFTQUJFZmtsSU81ZzVrU0RMZElpZUhIcWZHcHNhRUkzM0VyRDZvVUhIVWVaN1Uwd1lobXY1QkZTY1JGdTRncW1vSXMxUGcwajk1LUJuQlBSWEkwVUZRVGxFakxTalZTOENGQUxnem9KemVzd0VpSm9zMlhSZ3RlMlZpdGN1a3kyM0htN2VmV0hmUVhLN3pxVG5nTEV0Q2x6VlpIc1NJSThVU1JpbVBrZkVzQTY1c3RO?oc=5)
+
+2026-08-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWgyNHBVNXNiNVZKcUM2a1llRHAwQ3JjSFFTQUJFZmtsSU81ZzVrU0RMZElpZUhIcWZHcHNhRUkzM0VyRDZvVUhIVWVaN1Uwd1lobXY1QkZTY1JGdTRncW1vSXMxUGcwajk1LUJuQlBSWEkwVUZRVGxFakxTalZTOENGQUxnem9KemVzd0VpSm9zMlhSZ3RlMlZpdGN1a3kyM0htN2VmV0hmUVhLN3pxVG5nTEV0Q2x6VlpIc1NJSThVU1JpbVBrZkVzQTY1c3RO?oc=5)
+
+---
+
 ### [Une dermatologue met en garde contre cette mauvaise habitude au soleil : « On va voir apparaître les répercussions vers 60-70 ans » - RTL Info](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORUdDUjlRWE9Qd19KWHJVU2VxbnlCWGRmLTJYY0hVb053OVNPcnQzcVVfSkoySG51M0JuX2JFeFh3bUNqUGVPZmxhRWtHU2VmNXkyUW1fTkhKYThMOFZabGN6NjJXbFFkeEFQZ3JpRzdGM0Z4YUhkYVdlWDRnODBqcFZFbnBfZDE2NGN5N0JYOXF0Wm1pNXN3TFl6bjNnRnpxVUVucnJqMTQ1ai1SVGVhZ19TcEwyX1h0Vk10YkstaUJwRXdLMWRISURsbXVrQTFoRTJaWlVrNXdpa2c?oc=5)
 
 2026-08-06 <span class="news-indication-tag">cancer</span>
@@ -134,11 +214,27 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Do Altered Immune Cells Drive Skin Cancer in Immunosuppressed Patients? - The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
+### [Perché tagliare lo zucchero ai bimbi li protegge dai tumori e dall'invecchiamento?](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlk3T3hBQm5SaDJZd1RHOE1BeGRxNzZDSVN1eWU2dHl1SEZKM0YxUEtpdGtHOUc2UUhDdUZwSXVneGczUXhNdEtINEQ3TEktTG90SGhZelJJVzZPT29LeEFORDdaeHJjLWxYR1NOQW82aWNDVDM5bVJKWjVSZGRzVg?oc=5)
+
+2026-08-06 <span class="news-indication-tag">tumor</span>
+
+來源：[AGI](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlk3T3hBQm5SaDJZd1RHOE1BeGRxNzZDSVN1eWU2dHl1SEZKM0YxUEtpdGtHOUc2UUhDdUZwSXVneGczUXhNdEtINEQ3TEktTG90SGhZelJJVzZPT29LeEFORDdaeHJjLWxYR1NOQW82aWNDVDM5bVJKWjVSZGRzVg?oc=5)
+
+---
+
+### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+
+2026-08-06 <span class="news-indication-tag">hipertensión</span>
+
+來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+
+---
+
+### [Do Altered Immune Cells Drive Skin Cancer in Immunosuppressed Patients?](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
+來源：[thedermdigest.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
 
 ---
 
@@ -158,19 +254,27 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 ---
 
-### [Dalle larve di un insetto un peptide che spinge le cellule tumorali al suicidio](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWG51bWdiTFU5RzQ3VlhwNWFRcTlIYkw1cHBlWktBaDdyb3JqODlWSXFma2xYQnp4MVpxY3pCazVKdXNENjhpc2V2Rk5UMEpaeEJYSm5pTC1TWGFONlJIbk1CbTNxMmwzTFh1cmdqeVNBTWZuQm9tSGt5ZTY0cmJsZjNibW5XTFIwN1Ewd19WMWYteXJJUll5TjlEUjlZSE9WX1Z6elFRLWd0NEk2RTVfaEZFOGFYNmJDN1J3eU1ERW55ZGs2YVdIZHlNN0pOZjdHdjlrR2Vn?oc=5)
+### [Embutidos y carnes procesadas: nuevo estudio ratifica alto riesgo de tumores gástricos - El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHZzZjlJU3VGcWI5dmp6YnBnLXl4MG9qTXRBV0dyTm5QZ0pZSjZYYkRYQWhSRnhuck5wZVZvRE85cFAweDBXZFlGUk1SMThrTEVRdGM4QXlfVE12OEU4YnpyamwtMDhZWm9hbXlpT21XLTVoWmMxTGo2dGl5aEFIOE1xU01Cem9ocEtRclVTSkE1czhPVlE?oc=5)
 
 2026-08-05 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWG51bWdiTFU5RzQ3VlhwNWFRcTlIYkw1cHBlWktBaDdyb3JqODlWSXFma2xYQnp4MVpxY3pCazVKdXNENjhpc2V2Rk5UMEpaeEJYSm5pTC1TWGFONlJIbk1CbTNxMmwzTFh1cmdqeVNBTWZuQm9tSGt5ZTY0cmJsZjNibW5XTFIwN1Ewd19WMWYteXJJUll5TjlEUjlZSE9WX1Z6elFRLWd0NEk2RTVfaEZFOGFYNmJDN1J3eU1ERW55ZGs2YVdIZHlNN0pOZjdHdjlrR2Vn?oc=5)
+來源：[El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHZzZjlJU3VGcWI5dmp6YnBnLXl4MG9qTXRBV0dyTm5QZ0pZSjZYYkRYQWhSRnhuck5wZVZvRE85cFAweDBXZFlGUk1SMThrTEVRdGM4QXlfVE12OEU4YnpyamwtMDhZWm9hbXlpT21XLTVoWmMxTGo2dGl5aEFIOE1xU01Cem9ocEtRclVTSkE1czhPVlE?oc=5)
+
+---
+
+### [La mortalidad por cáncer de pulmón sigue creciendo mientras aumentan los casos en mujeres](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0Rfb05uLTFKX3dXM2llZ0IzY3lubjUyWkZTRU0wd215aUNTMTZuWUFiNDhjOUlVdG9yaFAzOU44VF94WkZ4SklucTRtOEx0cEgydWVRR0E2MlpaM0hrYUtJV2FnOExTYkVWTWFDRm41alpHQ2JFUjRGVkNGbENtWWJJUVFQTk43eGJrWllkX0hWb3M1MmV3aW9vLTVDaWZnVXAw?oc=5)
+
+2026-08-05 <span class="news-indication-tag">tumor</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0Rfb05uLTFKX3dXM2llZ0IzY3lubjUyWkZTRU0wd215aUNTMTZuWUFiNDhjOUlVdG9yaFAzOU44VF94WkZ4SklucTRtOEx0cEgydWVRR0E2MlpaM0hrYUtJV2FnOExTYkVWTWFDRm41alpHQ2JFUjRGVkNGbENtWWJJUVFQTk43eGJrWllkX0hWb3M1MmV3aW9vLTVDaWZnVXAw?oc=5)
 
 ---
 
@@ -222,11 +326,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [Weniger Herzinfarkte, mehr Krebserkrankungen und bessere Überlebenschancen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGJDSzlVZTA5bHBnTldjY1lVSmc5Q1pRcFNxTS14RHZJZ2ZiQTVOdGpBb0JSaDdYRDRucVZWc09vd0oyMlZOejFLeEdOS2ExcnNPa2ZfcV9oTWVfUERmUl9yYjRiTmMtMWlDUWhfTFI2SEdZalJ0SzNUT1pybXpLaGRubUNHSW5haFhGYl9rV0Ffcjc0eTFxdV9zbjMxd2k5VU44dWJsRlI1VmN4cmRrV2JnNWlGdHhYN19HcUpGYXc1SVFBX2VyUldGVUs?oc=5)
+### [Las mujeres que tienen la menopausia de forma precoz tienen un mayor riesgo de desarrollar hipertensión arterial - La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
 
-2026-08-05 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-08-05 <span class="news-indication-tag">hipertensión</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGJDSzlVZTA5bHBnTldjY1lVSmc5Q1pRcFNxTS14RHZJZ2ZiQTVOdGpBb0JSaDdYRDRucVZWc09vd0oyMlZOejFLeEdOS2ExcnNPa2ZfcV9oTWVfUERmUl9yYjRiTmMtMWlDUWhfTFI2SEdZalJ0SzNUT1pybXpLaGRubUNHSW5haFhGYl9rV0Ffcjc0eTFxdV9zbjMxd2k5VU44dWJsRlI1VmN4cmRrV2JnNWlGdHhYN19HcUpGYXc1SVFBX2VyUldGVUs?oc=5)
+來源：[La Voz de Galicia](https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlU2SXJmZllnQzN2S3NPWDh2YktQRmRYY0tZWmU5OTlGQThRRDlOTl9mOFVFdndxUlQ1Y3dYcV9sNkxGcDBiM3NkeU05alpZQVVsMjB6dmVaTmZZTmtDUC1SdXl2U1BsVHNTVTVSMUxCSFRMNFNielF2NUlyUkpGQ0JEUWFsSWR4LXNqQ0VOdnp2UUVpeFViU0lSWmJCSGlYNF84YTBxRVFjZHJSTV9EbktybFFBd2JKSWZnTDFKV01oZlZoYS1TZ3lqVS1JMk1OU2RsenNZVm44azcwaUxOaWNyZHZZcm9GNUpzMXJpNXVkLXBnUDM0cGI3eHpYZXBEY09zTjlidThRWGhyeFUw0gGUAkFVX3lxTE5BQmxadWMtdmNqejBZVFJkd3RLeGdTNDlaSVVPYlVwZ19HSmU0SENYZHR2ZnJYM1NkOWtGR0RZU28zdGJwZlB4TmJkYXBRVkVISS1HY0hJdlFqX1A4Z3g2TmxZZUJhMzdRTW1Fc2Q5T19oaUlXTm41dUhTNzBjS2UyeDRTWVFfTFE4bmlfRDN4R205MnRuNEdRMnhQV1paMGRzV2ZCMU4yWG5NMEU2cm5NblRSMEwzaWhxdjctRzBxTXNCNVk2SzBFWnVkOFRuaEVrSlZ3M2VGallmUnV2XzhocDFXb1N0TU5tZmJhNzV5WEFRblBUTTRWVnhqRzlmN2QwaUtjUlBWTGRvMmFWYU9oNTQ5MQ?oc=5)
 
 ---
 
@@ -254,83 +358,11 @@ permalink: /news/aliskiren/
 
 ---
 
-### [« Il faut creuser... » : 5 questions sur les vertus supposées du Viagra mises en valeur dans une étude sur le cancer - Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNEU1U2VmTjV6dzRIcUVsV2w4UVcteTcyaFlzYUllMkJsSFRVU2NyeWoxNnA1NkNsU0NVSXpWaG5PNDU3YTlNU295ZVdEZHMzTXBUbWxNREJJYno2QXRuV2hXQ1FmUlFaV2dqODZwOVF2b2RCLTZ5TVFYT2ZIaGtxQW5tWnR3UUF1STh0RDhzNmQ3UEhWMzFLS1h5V0loV3BkcHVsVE1EcEVOV1U2dVRnVUx6YjFtWXllbkFSSnNHaWxfYllNZURpb19WR2k2RXJCZzNGRUx3QjNFUlFCVFpzb1FtYmRDcVRDMTBoRHMyQ2JoWmRFRDZ5TWc2UUY4YTZfSjN3WW85WFY1cV9YaHJ6ZWdYVTNjTllM?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Le Parisien](https://news.google.com/rss/articles/CBMimAJBVV95cUxNNEU1U2VmTjV6dzRIcUVsV2w4UVcteTcyaFlzYUllMkJsSFRVU2NyeWoxNnA1NkNsU0NVSXpWaG5PNDU3YTlNU295ZVdEZHMzTXBUbWxNREJJYno2QXRuV2hXQ1FmUlFaV2dqODZwOVF2b2RCLTZ5TVFYT2ZIaGtxQW5tWnR3UUF1STh0RDhzNmQ3UEhWMzFLS1h5V0loV3BkcHVsVE1EcEVOV1U2dVRnVUx6YjFtWXllbkFSSnNHaWxfYllNZURpb19WR2k2RXJCZzNGRUx3QjNFUlFCVFpzb1FtYmRDcVRDMTBoRHMyQ2JoWmRFRDZ5TWc2UUY4YTZfSjN3WW85WFY1cV9YaHJ6ZWdYVTNjTllM?oc=5)
-
----
-
 ### [Hope for families with hereditary cancer risk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE11dHRBekRWUnBDRlVOSm1QOVJXVFR1RGMxWVg3Ql82OFdYekFNTDJJa0JMSEdwQTR4UUItSVkyRjZEbzR6UngxQlpMenFsbUpIdjdnNXBpMEJaTnd3?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE11dHRBekRWUnBDRlVOSm1QOVJXVFR1RGMxWVg3Ql82OFdYekFNTDJJa0JMSEdwQTR4UUItSVkyRjZEbzR6UngxQlpMenFsbUpIdjdnNXBpMEJaTnd3?oc=5)
-
----
-
-### [«Après un cancer du sein, la peur n’encourage pas à observer son traitement»](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRpSkVTeE5qbUcwN0QxX3l4cnh0alJOMHhJcGp5R0ozeTJPSFF4aHVIYkNDMzVhLS1vZXBWMDhUYUJYOTBWQVFYSUY4QnZpODVlaVQtTWJWV1pSLUNHdy1ZZWg4VnRJWnRldjAxNzh3X0dlaUtuS3ZybFMyb1g3Rm04MlRyWlFHaklqWWkzZ2I0Q244UWtCcFdzVmwzXzY4empPajlVMUZRdjJ6VjR0SGJoVmx3dHFG?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancer</span>
-
-來源：[sante.lefigaro.fr](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDRpSkVTeE5qbUcwN0QxX3l4cnh0alJOMHhJcGp5R0ozeTJPSFF4aHVIYkNDMzVhLS1vZXBWMDhUYUJYOTBWQVFYSUY4QnZpODVlaVQtTWJWV1pSLUNHdy1ZZWg4VnRJWnRldjAxNzh3X0dlaUtuS3ZybFMyb1g3Rm04MlRyWlFHaklqWWkzZ2I0Q244UWtCcFdzVmwzXzY4empPajlVMUZRdjJ6VjR0SGJoVmx3dHFG?oc=5)
-
----
-
-### [Il tumore del colon costruisce ribosomi speciali per ripararsi dopo la chemio](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNmx5N0tzNkw0d0FGbEV2ODVFYWROLXBOVVBJckpKVE13ckFhSkZKNEkwNWF2TVFqMmFhS1pEQVRxeHpMT0ZHWnZNNk56Rll5cTAwZVNyOHl2YnVxNWpmSWNINFpHQmM1OW5STHhUTk4yWUhKS1NISm4wQXg5bnZWWTZ3al83bVJkQWVBQkQ1bGRvbGdjX3R6RS16LWNpRC1mdTh6MFNrNy03ak8zQjFYc2R2V3gzTWxHQ2JQcFUtakJuY29UdlBtWFoycXlxMVhhOG00?oc=5)
-
-2026-08-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNmx5N0tzNkw0d0FGbEV2ODVFYWROLXBOVVBJckpKVE13ckFhSkZKNEkwNWF2TVFqMmFhS1pEQVRxeHpMT0ZHWnZNNk56Rll5cTAwZVNyOHl2YnVxNWpmSWNINFpHQmM1OW5STHhUTk4yWUhKS1NISm4wQXg5bnZWWTZ3al83bVJkQWVBQkQ1bGRvbGdjX3R6RS16LWNpRC1mdTh6MFNrNy03ak8zQjFYc2R2V3gzTWxHQ2JQcFUtakJuY29UdlBtWFoycXlxMVhhOG00?oc=5)
-
----
-
-### [Après des années de combat, Lyséa 7 ans a vaincu le cancer : « Un bonheur pour toute notre famille »](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQamc2cDltN1ZYak1XSk9JMm04dUJtR053R0RxMlhSb3J3cE5iSDJSMGp4VFlnVXBGWVVQbks1RUtGSjdlOHdoZnBnNzJBNE43eTRBVE5hTFdqX2NlTlV2LVZsYXBNbzJVUkhaZlhnTEVKNUw1TVVJbHRZeUNXQUl1ZzVrSjVhZmdjRnhQaE5TYVVSYTlieXBtT1dtRmNiblloSVI0cHNzb2U1Tm9WaU1xUjNZaGU0WHFLcnBIeU5ZYS1xRTk4OXZLMA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancer</span>
-
-來源：[Linfo.re](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQamc2cDltN1ZYak1XSk9JMm04dUJtR053R0RxMlhSb3J3cE5iSDJSMGp4VFlnVXBGWVVQbks1RUtGSjdlOHdoZnBnNzJBNE43eTRBVE5hTFdqX2NlTlV2LVZsYXBNbzJVUkhaZlhnTEVKNUw1TVVJbHRZeUNXQUl1ZzVrSjVhZmdjRnhQaE5TYVVSYTlieXBtT1dtRmNiblloSVI0cHNzb2U1Tm9WaU1xUjNZaGU0WHFLcnBIeU5ZYS1xRTk4OXZLMA?oc=5)
-
----
-
-### [The bitter truth about junk science - The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
-
----
-
-### [Cancro e trombosi: le linee guida sono corrette ed efficaci - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2lDSFRRNVhZY2hPMnAtS2Nia2VHV1JaZ0ZXVDg5NzZmdGNMOWcxdnZYR1Rla1pKNk51cVpHYzlabUt6cXVnanFkaE5mZ2FGdDRiVUJ5UGhvVEE2bktBV3Vtc2tJOHJNMEk1cVhBVlhWazFZX1ZXOHJ6ZFpvTnZjdFkxU25lVGNMQWpkSVZxR3lUN2FJUldaWDlFdXBIQjNaaUktUVFkOU85UWpIQlFTUnlDdjhZaUg4cTN3b2xJbTZ5NlNX?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancro</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2lDSFRRNVhZY2hPMnAtS2Nia2VHV1JaZ0ZXVDg5NzZmdGNMOWcxdnZYR1Rla1pKNk51cVpHYzlabUt6cXVnanFkaE5mZ2FGdDRiVUJ5UGhvVEE2bktBV3Vtc2tJOHJNMEk1cVhBVlhWazFZX1ZXOHJ6ZFpvTnZjdFkxU25lVGNMQWpkSVZxR3lUN2FJUldaWDlFdXBIQjNaaUktUVFkOU85UWpIQlFTUnlDdjhZaUg4cTN3b2xJbTZ5NlNX?oc=5)
-
----
-
-### [Scotland-wide testing to be offered for Orkney and Shetland genes](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZXZkclRLM255dktnLXFwNlBUbmtvVVd4R09ZdlpxckhVZXZzdFNub0RsQUZoR1BlSDl2dGZfWndtekJ3Tm9BVkNnMXY5a0d1ZTRIbjZKNTFLbjB3?oc=5)
-
-2026-08-04 <span class="news-indication-tag">cancer</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZXZkclRLM255dktnLXFwNlBUbmtvVVd4R09ZdlpxckhVZXZzdFNub0RsQUZoR1BlSDl2dGZfWndtekJ3Tm9BVkNnMXY5a0d1ZTRIbjZKNTFLbjB3?oc=5)
-
----
-
-### [Viagra, "ecco come combatte il cancro": i risultati dello studio | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1c5RDdCeUhaMGNLRlZfdHNHR3lYXzZZak5neGFqNFhNOHNTcVhBdFhLNFBQZVNlelJ0eFFPdGQ0SmJYUXJxLVpPbno2RWlvYkxqaXJod1A5UnZEU18zSEQteGlHVVZyWmZaaDBqdVQxRUhLanBZSl9BamVuOXlMcEVMNENIRVFlVFc4Mjg5M0Q2YjdZUlRjdTY4NXpFUWhZbWtZZHpDRks5cWpTaFRucw?oc=5)
-
-2026-08-04 <span class="news-indication-tag">tumor</span>
-
-來源：[Libero Quotidiano](https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1c5RDdCeUhaMGNLRlZfdHNHR3lYXzZZak5neGFqNFhNOHNTcVhBdFhLNFBQZVNlelJ0eFFPdGQ0SmJYUXJxLVpPbno2RWlvYkxqaXJod1A5UnZEU18zSEQteGlHVVZyWmZaaDBqdVQxRUhLanBZSl9BamVuOXlMcEVMNENIRVFlVFc4Mjg5M0Q2YjdZUlRjdTY4NXpFUWhZbWtZZHpDRks5cWpTaFRucw?oc=5)
-
----
-
-### [Researchers discover immune 'off switch' used by cancer cells - Medical Xpress](https://news.google.com/rss/articles/CBMicEFVX3lxTE9YdjhhU0w2OHVRQ1k2QWF4TW8zXzQzVVEwVE9LWE1NMFVScmhQQ1FCekRyeURjaWlnNjcyWk1mXzlyM1paVko2YTVYbnktcEI0N1JuVF84Vjkwdmpwajl3Q1RFWVhHMGxDc29qSEYtT0o?oc=5)
-
-2026-08-04 <span class="news-indication-tag">cancer</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMicEFVX3lxTE9YdjhhU0w2OHVRQ1k2QWF4TW8zXzQzVVEwVE9LWE1NMFVScmhQQ1FCekRyeURjaWlnNjcyWk1mXzlyM1paVko2YTVYbnktcEI0N1JuVF84Vjkwdmpwajl3Q1RFWVhHMGxDc29qSEYtT0o?oc=5)
 
 ---
 

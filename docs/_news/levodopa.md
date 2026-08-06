@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="Levodopa 有什麼相關新聞？">
-<strong>Levodopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 14 個。
+<strong>Levodopa</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 14 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,37 +46,21 @@ permalink: /news/levodopa/
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
-### [Study finds three midlife health factors that could delay dementia for 13 years - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHhwRlItRHV5aHZEX1N2N0VCQ2JIaWhnOUZSSXM0R21kektlb2YtbktycHp1c3FsWWVvdUFEaUpXVFc4dGR1UFE5ejY1Q0x1STVDUktKcS1GMmFKQ3hCWkxYQzNZOElIS3hzeC1JNDF6TURPWm1WcUZMSXNyTWlpN0FqWm9YcFEteVp4U1c3bzQta21YWVE?oc=5)
+### [Scientists name three midlife dementia warning signs - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXhCSWNCcE1XVVp3WEs2X05IaW5fSHFUSUV2ZnZyNnB2cTBLdVVQUURBSzJqaDJqaU5kVndLbVJMNThvWmNNR1NpVndxV2c5VU51Z2otMWhkdVpSWW5FUmdySmtVbWJsSFJaOFFSZzRHS2dVQXlOVlZHZ2IxWE0zVV82MHlxRWxjMExPa3F4OFIzZUYzMEFMVlRKdF9xdE0?oc=5)
 
-2026-08-06 <span class="news-indication-tag">dementia</span>
+2026-08-05 <span class="news-indication-tag">dementia</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHhwRlItRHV5aHZEX1N2N0VCQ2JIaWhnOUZSSXM0R21kektlb2YtbktycHp1c3FsWWVvdUFEaUpXVFc4dGR1UFE5ejY1Q0x1STVDUktKcS1GMmFKQ3hCWkxYQzNZOElIS3hzeC1JNDF6TURPWm1WcUZMSXNyTWlpN0FqWm9YcFEteVp4U1c3bzQta21YWVE?oc=5)
-
----
-
-### [Your Daily Step Count Could Say A Lot About Your Dementia Risk - HuffPost UK](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxRQklZaWNjR25BTFg5Rm9felN6MnllN2NMejlucHFvWUs5Q3RGb2Y4UFB3ZTVTN2FVOFNIN1hubEd1VDRPN3ZZY0J2Y0xJUlNuYUJVODRfYllxQmVSel94TzA4OTRCYXZZZ3dQUmhLZWN1U21YUTNLekZCZ25lWWNQc1lvQnAtRkd2QXR4S09KUmQwS3NUZ1h4SGVic2Vzay1J?oc=5)
-
-2026-08-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-來源：[HuffPost UK](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxRQklZaWNjR25BTFg5Rm9felN6MnllN2NMejlucHFvWUs5Q3RGb2Y4UFB3ZTVTN2FVOFNIN1hubEd1VDRPN3ZZY0J2Y0xJUlNuYUJVODRfYllxQmVSel94TzA4OTRCYXZZZ3dQUmhLZWN1U21YUTNLekZCZ25lWWNQc1lvQnAtRkd2QXR4S09KUmQwS3NUZ1h4SGVic2Vzay1J?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXhCSWNCcE1XVVp3WEs2X05IaW5fSHFUSUV2ZnZyNnB2cTBLdVVQUURBSzJqaDJqaU5kVndLbVJMNThvWmNNR1NpVndxV2c5VU51Z2otMWhkdVpSWW5FUmdySmtVbWJsSFJaOFFSZzRHS2dVQXlOVlZHZ2IxWE0zVV82MHlxRWxjMExPa3F4OFIzZUYzMEFMVlRKdF9xdE0?oc=5)
 
 ---
 
 ### [Faster Alzheimer's decline linked to common pill taken by millions - Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
 
-2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
+2026-08-05 <span class="news-indication-tag">Alzheimer's</span>
 
 來源：[Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
-
----
-
-### [The bitter truth about junk science - The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
-
-來源：[The Critic](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
 
 ---
 

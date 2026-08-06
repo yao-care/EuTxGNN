@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [Informations- und Unterstützungsangebote: Gut leben mit COPD - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
 2026-08-06 <span class="news-indication-tag">copd</span>
 
 來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
+
+---
+
+### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
+
+2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
+
+---
+
+### [¿Fibra dietética y menor riesgo de enfermedad de Crohn?](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzlETXRHcWxnbzQ1MlVyemZkM25wTlB1aENhTzhrQmFIbWZyZE5FTmlMN3dHbUpCYW9NR0Q1d3dCY013OFhtblU1YUVLbFpyc09WTE1weHB1NzFvX0MtYmw0NnhVR042dUdQaXN4Z25NZ19iMEhtT1BfTjFDdHgxSS1qM0NUaDlkTzc3NTFrWGhpeG1wOFFxZmk4MHRpZG94Z3R6T09sTUlKLVI0ZDhVZHF0bFVydWk2VzhtOWlvbWwxYVM4TFdjSmw3bkNTWjRlSzUwVFk3SmlESGRPNHU0YzVZOHdkQQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzlETXRHcWxnbzQ1MlVyemZkM25wTlB1aENhTzhrQmFIbWZyZE5FTmlMN3dHbUpCYW9NR0Q1d3dCY013OFhtblU1YUVLbFpyc09WTE1weHB1NzFvX0MtYmw0NnhVR042dUdQaXN4Z25NZ19iMEhtT1BfTjFDdHgxSS1qM0NUaDlkTzc3NTFrWGhpeG1wOFFxZmk4MHRpZG94Z3R6T09sTUlKLVI0ZDhVZHF0bFVydWk2VzhtOWlvbWwxYVM4TFdjSmw3bkNTWjRlSzUwVFk3SmlESGRPNHU0YzVZOHdkQQ?oc=5)
 
 ---
 
@@ -70,19 +86,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Ursache des "Bauernhof-Effekts" bei Allergien gefunden](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
+### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
-2026-08-05 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">artritis</span>
 
-來源：[swr.de](https://news.google.com/rss/articles/CBMingFBVV95cUxPeUIzN1ppS3hVNlozUU5Kc0QyMUVKZG56WEIzaTZIU1NoS2J1MS13VFh6NklibGNPWnRlTnNnRFVlZmh5VWMxWU1EVFF0VlprRkw3eTBEVUlFMWhyTXFCSElZeDUwNkdJN1I5MThpdDdDOFJ0NG5ieUNVbGc4NHJWQlJYWW95NDNvNzRHdTl4OGgzc1R0MnV2azJxUS10dw?oc=5)
-
----
-
-### [Le bain de forêt, une invitation nipponne pour (re)trouver la sérénité - France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
-
-2026-08-05 <span class="news-indication-tag">EPOC</span>
-
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "artrite（arthritis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "artrite（arthritis） 的相關健康新聞報導。1 則新聞、73 個相關藥物。"
+description: "artrite（arthritis） 的相關健康新聞報導。2 則新聞、73 個相關藥物。"
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="artrite（arthritis） 有什麼相關新聞？">
-<strong>artrite（arthritis）</strong> 目前有 <strong>1 則</strong>相關新聞報導，73 個相關藥物。
+<strong>artrite（arthritis）</strong> 目前有 <strong>2 則</strong>相關新聞報導，73 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -101,13 +101,21 @@ permalink: /news/arthritis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
 
 2026-08-06
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
+
+---
+
+### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
+
+2026-08-06
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
 ---
 

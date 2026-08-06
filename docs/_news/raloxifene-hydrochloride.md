@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（5 則）
 
-### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days'](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 2026-08-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[mirror.co.uk](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+
+---
+
+### [El adelgazante Mounjaro demuestra que protege frente a infarto e ictus - Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
+
+---
+
+### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
+
+---
+
+### ['Just live your life' says sister of Stoke-on-Trent stroke victim who died at 26 - The Sentinel](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJhZUVjTzNTcUJjOGp6Sy1UdGtwb0U1TlpkSFJBOFZMZlc3UTJfQlp2d050TzdkTUlNTkFWUXlzSnBPSTVmQmN6UTFFdEhmYk9xY0p3UWdHSDFxTjNwMndxdHlZVTJsR3c3X2pKMlp6b0hXejAtd2E4Q0VScjZva1FQVUFvQzFRRkhta3oyZ0JhcjVF0gGaAUFVX3lxTE41V09xaDJhSURPWk9uSG5fa3JyRVdQck1VS2RMcDhmdGN2QzdIQWhlZHNPalJIdDY1NUdUdXphZ25HWXM1V21oUDVwbFNORU9jdVZYSGJXci04TC1GajlCdjNIM044aGd1bXN5RFVfM3RQZXdObU9hRG8xcUNYZHVIZDZYNnZvX21zcXM1cUtzalpXdzEwMlB5U3c?oc=5)
+
+2026-08-06 <span class="news-indication-tag">stroke</span>
+
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJhZUVjTzNTcUJjOGp6Sy1UdGtwb0U1TlpkSFJBOFZMZlc3UTJfQlp2d050TzdkTUlNTkFWUXlzSnBPSTVmQmN6UTFFdEhmYk9xY0p3UWdHSDFxTjNwMndxdHlZVTJsR3c3X2pKMlp6b0hXejAtd2E4Q0VScjZva1FQVUFvQzFRRkhta3oyZ0JhcjVF0gGaAUFVX3lxTE41V09xaDJhSURPWk9uSG5fa3JyRVdQck1VS2RMcDhmdGN2QzdIQWhlZHNPalJIdDY1NUdUdXphZ25HWXM1V21oUDVwbFNORU9jdVZYSGJXci04TC1GajlCdjNIM044aGd1bXN5RFVfM3RQZXdObU9hRG8xcUNYZHVIZDZYNnZvX21zcXM1cUtzalpXdzEwMlB5U3c?oc=5)
 
 ---
 

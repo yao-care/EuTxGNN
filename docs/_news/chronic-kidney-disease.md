@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "chronische Nierenerkrankung（chronic kidney disease） 相關新聞"
+title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "chronische Nierenerkrankung（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
-# chronische Nierenerkrankung（chronic kidney disease） 相關新聞
+# CKD（chronic kidney disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="chronische Nierenerkrankung（chronic kidney disease） 有什麼相關新聞？">
-<strong>chronische Nierenerkrankung（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「chronische Nierenerkrankung」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「CKD」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,21 +29,13 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Zehn Prozent aller Erwachsenen unerkannt nierenkrank „Betroffene fühlen sich häufig völlig gesund“](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMU9ZSUZ0TkYzOUR3NUVVVHYtTVZpU3ppYm1MLUI2LTRlRlY5a3VRc3VDN21IeG55MUFKaVljLTJKSGswNlFENmVfbTVhNG5ac1N3NHFoRDRIU2RmT0xsNDVYVGVJWHRJMTVoVFc4cVRHN0g0MWhfOVAzY19fSk8wLUNNOXc0d3hvUGQtV2lCMlY1c2ktWG9nQU1VX1pKZ2U0ZHpKajk4ZVdmeVhac2hXT3FZeWN1Z1JMS2d3MU9JSi1sX2I4LV82NDFnY1BUU1NWc2lDQjNmM1hUalR1WnJmUDYybw?oc=5)
+### [Dieta contro il caldo, il menù anti-afa secondo gli esperti: cosa mettere in tavola e cosa evitare - Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNlcjFRMVFnMHM5WWg2QlN1YjdfSXZBOHh6cUp6cV9XYUFHSHdxRnVrRW1pbFdXWjYxckd4Zl9IaGhxU1pMS0RTV0I4MXp3S1pnWmlQWGp4blo1Y21jd0ZhOFVnWVU3NVVjTGJ6T1E0alQzVy1DR2c3TDE0OU5BVVB4OFpnR2dDSzd4aE1GVUZNbWRBcWZrZmRUa1pKM1kxNEZIUTA0YjPSAa4BQVVfeXFMTjJxRTRJd2RwdjJqbUV4MDZubFJ6MEx0UHZuZkpwQ21TZTA4UUZXaVd0RWtzel9SMHJZNEZ0SnJWSG5zZW1VaFRRTWFSN21CYi1JVlF2Z1VpOVpMSlhpX3ZLM2l0NDlxLTNKYV9QYVFHNm5yMDlCWlNmcVpLOXFHZFdBSHdaUVk2emdvMUZtTlBHTjhIajdlMVFpVmJFdEdsd1dRb0FsOVBUc2ctSEl3?oc=5)
 
 2026-08-06
 
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMU9ZSUZ0TkYzOUR3NUVVVHYtTVZpU3ppYm1MLUI2LTRlRlY5a3VRc3VDN21IeG55MUFKaVljLTJKSGswNlFENmVfbTVhNG5ac1N3NHFoRDRIU2RmT0xsNDVYVGVJWHRJMTVoVFc4cVRHN0g0MWhfOVAzY19fSk8wLUNNOXc0d3hvUGQtV2lCMlY1c2ktWG9nQU1VX1pKZ2U0ZHpKajk4ZVdmeVhac2hXT3FZeWN1Z1JMS2d3MU9JSi1sX2I4LV82NDFnY1BUU1NWc2lDQjNmM1hUalR1WnJmUDYybw?oc=5)
-
----
-
-### [Caldo record, cosa mangiare e bere per difendersi: la guida Iss per il Ferragosto 2026 - Sky TG24](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUl9SZDNaZmxEOWE2eFRsTVdBQm8xT3FucGVfaXVZdEhac2tNR0V3aUxXQ3c3dndfME53RXp4eW1oZUx5ME1JZVNJOVZ1M2lhZmJhdHp2d0ExMmVsTWVRTVN3VEFQaWduWjJyQy0xV28xaW1HbDdaMGs1aE1IdlVrN3MxTk54Y3lpOUlJV3hnNHRXZVE?oc=5)
-
-2026-08-05
-
-來源：[Sky TG24](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUl9SZDNaZmxEOWE2eFRsTVdBQm8xT3FucGVfaXVZdEhac2tNR0V3aUxXQ3c3dndfME53RXp4eW1oZUx5ME1JZVNJOVZ1M2lhZmJhdHp2d0ExMmVsTWVRTVN3VEFQaWduWjJyQy0xV28xaW1HbDdaMGs1aE1IdlVrN3MxTk54Y3lpOUlJV3hnNHRXZVE?oc=5)
+來源：[Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNlcjFRMVFnMHM5WWg2QlN1YjdfSXZBOHh6cUp6cV9XYUFHSHdxRnVrRW1pbFdXWjYxckd4Zl9IaGhxU1pMS0RTV0I4MXp3S1pnWmlQWGp4blo1Y21jd0ZhOFVnWVU3NVVjTGJ6T1E0alQzVy1DR2c3TDE0OU5BVVB4OFpnR2dDSzd4aE1GVUZNbWRBcWZrZmRUa1pKM1kxNEZIUTA0YjPSAa4BQVVfeXFMTjJxRTRJd2RwdjJqbUV4MDZubFJ6MEx0UHZuZkpwQ21TZTA4UUZXaVd0RWtzel9SMHJZNEZ0SnJWSG5zZW1VaFRRTWFSN21CYi1JVlF2Z1VpOVpMSlhpX3ZLM2l0NDlxLTNKYV9QYVFHNm5yMDlCWlNmcVpLOXFHZFdBSHdaUVk2emdvMUZtTlBHTjhIajdlMVFpVmJFdEdsd1dRb0FsOVBUc2ctSEl3?oc=5)
 
 ---
 

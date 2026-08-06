@@ -62,11 +62,11 @@ permalink: /news/dupilumab/
 
 ---
 
-### [Le bain de forêt, une invitation nipponne pour (re)trouver la sérénité - France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
-2026-08-05 <span class="news-indication-tag">EPOC</span>
+2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
 ---
 
