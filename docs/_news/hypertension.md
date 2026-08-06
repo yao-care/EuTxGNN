@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure（hypertension） 相關新聞"
+title: "hipertensión（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "high blood pressure（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
+description: "hipertensión（hypertension） 的相關健康新聞報導。5 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# high blood pressure（hypertension） 相關新聞
+# hipertensión（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="high blood pressure（hypertension） 有什麼相關新聞？">
-<strong>high blood pressure（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
+<strong>hipertensión（hypertension）</strong> 目前有 <strong>5 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「high blood pressure」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -85,27 +85,19 @@ permalink: /news/hypertension/
 
 ## 相關新聞（5 則）
 
-### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
+### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
 
-2026-08-05
+2026-08-06
 
-來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
----
-
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
-2026-08-05
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
+來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
 
 ---
 
-### [Demenz-Prävention 2026: Lebensstil und soziale Teilhabe im Fokus - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHpRODRvT3JJd01YeU14bTZBcF9QcjRCcVEwcW9meWRXYjdScDFvM0l6TjlsMXMwa0Zmazg5ck54YVZtQ19Sd3BMSFdIS0N2N21pNnA0R0d6bGhuVHY4SGNlMkViOEU5M2JiSjdKODE1LUtfSkdhV1lQQkhSUHZVa0psb3F0V0tqbUdzZzFrVF9RSDRIVTdyUXBkRGM?oc=5)
+### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure'](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
 
 2026-08-05
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHpRODRvT3JJd01YeU14bTZBcF9QcjRCcVEwcW9meWRXYjdScDFvM0l6TjlsMXMwa0Zmazg5ck54YVZtQ19Sd3BMSFdIS0N2N21pNnA0R0d6bGhuVHY4SGNlMkViOEU5M2JiSjdKODE1LUtfSkdhV1lQQkhSUHZVa0psb3F0V0tqbUdzZzFrVF9RSDRIVTdyUXBkRGM?oc=5)
+來源：[gbnews.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
 
 ---
 
@@ -114,6 +106,14 @@ permalink: /news/hypertension/
 2026-08-05
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+
+---
+
+### [Bluthochdruck und Demenz: 10 mmHg Senkung senkt Risiko um über 10% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU1yYVVyMkhrRFVXSXNjQ0hTbFgzcUFmMERxbGVRa0xrMXpnZHBqUi1hZ183clRoLVVfaDFkQUNqQ1ZNVEVfQURJWEVQdFk4djRfWEpuMDh2eGRSU3hoNFd4cTBVSWNwb0xzMnRLZ2JkN3NyaWFyWmZzZGRaNTNMb0h6SmROQ2JUc1hrcHM5a3FhNVNUNFRNa3BidUJRSGRBQTFjc09CcW00WEJteWgxQ0hYaHZQUGo4RWpqbXh2RQ?oc=5)
+
+2026-08-05
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU1yYVVyMkhrRFVXSXNjQ0hTbFgzcUFmMERxbGVRa0xrMXpnZHBqUi1hZ183clRoLVVfaDFkQUNqQ1ZNVEVfQURJWEVQdFk4djRfWEpuMDh2eGRSU3hoNFd4cTBVSWNwb0xzMnRLZ2JkN3NyaWFyWmZzZGRaNTNMb0h6SmROQ2JUc1hrcHM5a3FhNVNUNFRNa3BidUJRSGRBQTFjc09CcW00WEJteWgxQ0hYaHZQUGo4RWpqbXh2RQ?oc=5)
 
 ---
 

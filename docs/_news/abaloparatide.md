@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,61 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
+### [Innosuisse-«Flagship»-Projekt zur Prävention von Diabetes Typ 2 gestartet - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
 
-2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">dementia</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
----
-
-### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
+來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjcWZBamZ6OEtxX1JPcmNWSFo2U2k0d0h3RHlqMnR4OW1sYkJPa3o0OUg2WWM3UHpOaVhqVGxoTDhaY0FyQ1d4S3Focw?oc=5)
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlN5VnRWX3lCS0xBNWFVa29vYUg0RzhaMzNwTVprVm52NjZZWTV3SHdYQmU0eFZFUkpBWUxiMGRHbVlrQzRfU1prdUZXdTFuZGxhWTFOZjRPcjNlT0VuaTBjYzVKNkoybEItSXdpVEhsdWctM1hpa2UzNkljNHdhemxPSGtaV1drSFluSFo5LVVVazRPSVVwd3dsb2tSMzVCS3dubzRqT2ViYjE5TndrRzRSM2EwT21HYzd6VFZDWmpyNnF0SlE?oc=5)
+### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
-2026-08-05 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlN5VnRWX3lCS0xBNWFVa29vYUg0RzhaMzNwTVprVm52NjZZWTV3SHdYQmU0eFZFUkpBWUxiMGRHbVlrQzRfU1prdUZXdTFuZGxhWTFOZjRPcjNlT0VuaTBjYzVKNkoybEItSXdpVEhsdWctM1hpa2UzNkljNHdhemxPSGtaV1drSFluSFo5LVVVazRPSVVwd3dsb2tSMzVCS3dubzRqT2ViYjE5TndrRzRSM2EwT21HYzd6VFZDWmpyNnF0SlE?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 ---
 
-### [Faster Alzheimer's decline linked to common pill taken by millions](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
+### [Der Fall eines Patienten mit MODY-Diabetes nach längerer Remission](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFB1NDdJZkdZckJDeUpqYjRVQVRTT1VRQ1h2anpTNU9jQ1JEUm1Yb1ltbG12R1lJVWdPMU9RTzhFZEY0OEJJTC1Qc0xpaVJWa3J5Mkc2X0xXUUtsdHpsUEtRRXpDU3lkTG5ZMGM0TFZiSFpDb09lY3IwTGZvd0pXQmlXdldZTGxveW9mcFl0eWUzOTk4SEl4RlNMZHhvVm8zQ1VmdTZYTFB3eDRjZHBN?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFB1NDdJZkdZckJDeUpqYjRVQVRTT1VRQ1h2anpTNU9jQ1JEUm1Yb1ltbG12R1lJVWdPMU9RTzhFZEY0OEJJTC1Qc0xpaVJWa3J5Mkc2X0xXUUtsdHpsUEtRRXpDU3lkTG5ZMGM0TFZiSFpDb09lY3IwTGZvd0pXQmlXdldZTGxveW9mcFl0eWUzOTk4SEl4RlNMZHhvVm8zQ1VmdTZYTFB3eDRjZHBN?oc=5)
+
+---
+
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+
+---
+
+### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
+
+---
+
+### [Mounjaro linked to slashing risk of killer heart attacks by a third for the first time - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
+
+2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
+
+---
+
+### [Faster Alzheimer's decline linked to common pill taken by millions - Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
 
 2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
 
 ---
 
@@ -94,11 +118,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [La quinta causa di morte nel mondo potrebbe essere una malattia dei reni: ecco di cosa si tratta - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3FvNmNIbVRXbzNhS20xcWd1VUVNbXlNcUY5Qi00ZzZaaVY5WFYxZ0Q0WTQ2eGJzZEhtTlpkUTRON2pVN25iM3ZjT3RKVFV5Q2ctQ05RRTh4Wl94emxjODViMzllM2EydGNyWk9iRm1HR3dpa2FNNVM1ODExa2JPdHdTcUJIQXgxUmVkWFZmTGRRd2lBVENZVHU5Zml6UDc1VGNpYXBKcHlzTXJkcTl0Y2Vyc9IBuAFBVV95cUxNMkN5b1phZDBVU0xMRTNGc0h3MUplLTAtZ0FPNnJCT1I3QjZ6YXVnclRwRzNYUjFMeEsyMzRIT2ZBbkYyNHdPWW56NDhyRXRWMEMzdnprRUphSFZCam02WWluRjNIMXpaLXJvbl9scnoxbS0zakVYQ1kzajdoWkUybkdiOVRuRWl5NVlodG9tVW1BSFFPUjNQT0Y0QTRkWHZwS2N4ekNFWlVUcy1HcVNscUhKMm00VXVO?oc=5)
+### [Ballaststoffe, P-CABs und KI: neue Impulse für Magen-Darm & Diabetes - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
 
-2026-08-04 <span class="news-indication-tag">diabete</span>
+2026-08-05 <span class="news-indication-tag">diabetes</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiswFBVV95cUxNM3FvNmNIbVRXbzNhS20xcWd1VUVNbXlNcUY5Qi00ZzZaaVY5WFYxZ0Q0WTQ2eGJzZEhtTlpkUTRON2pVN25iM3ZjT3RKVFV5Q2ctQ05RRTh4Wl94emxjODViMzllM2EydGNyWk9iRm1HR3dpa2FNNVM1ODExa2JPdHdTcUJIQXgxUmVkWFZmTGRRd2lBVENZVHU5Zml6UDc1VGNpYXBKcHlzTXJkcTl0Y2Vyc9IBuAFBVV95cUxNMkN5b1phZDBVU0xMRTNGc0h3MUplLTAtZ0FPNnJCT1I3QjZ6YXVnclRwRzNYUjFMeEsyMzRIT2ZBbkYyNHdPWW56NDhyRXRWMEMzdnprRUphSFZCam02WWluRjNIMXpaLXJvbl9scnoxbS0zakVYQ1kzajdoWkUybkdiOVRuRWl5NVlodG9tVW1BSFFPUjNQT0Y0QTRkWHZwS2N4ekNFWlVUcy1HcVNscUhKMm00VXVO?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxOaWdMVGlKYWtCNEZaQlBpNExodXJfaHNxWGFLM2NDdDIzUWdGQnhvV3NacHVpUzdVbE1KblU4ekFsZ1BTR0l1UWdMRzhVY2xQY0tKcDNNUGh0Zy01bUMxZ2hhQUlRV3VQVWRBM0QzU1ZkaXFERFhmbERiX2tKbGM5dHRQOXB2XzgxVXZxWnlycFhsSzg5bXBkajJTdGlldw?oc=5)
+
+---
+
+### [Immunoproteasom als neuer Angriffspunkt gegen Diabetes-Entzündungen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
+
+2026-08-05 <span class="news-indication-tag">diabetes</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUg5N2RRS2tydGFZbURVdlJsZlBJVC1Dd2xQOTJ1cFdOUEIxSmk5WDRIRVhhdjRHbjZTN1BLT2h5RllfSVFhemNEQlZNX29aQVhzWWpGb21yQWYxS0EyNXVhQ3B2SnFFQ3lkTG9leGc4bEI2Q1ducGlFc2E5R1BvWkR1UHFoenRmUWV5TFhYWnMwa0s0dzd5ajlJUTRHdlRSNVE?oc=5)
 
 ---
 

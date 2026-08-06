@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+
+2026-08-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+
+---
+
+### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
 
 2026-08-05 <span class="news-indication-tag">obesidad</span>
 
-來源：[radiomitre.cienradios.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
 
 ---
 
@@ -75,22 +83,6 @@ permalink: /news/orlistat/
 2026-08-05 <span class="news-indication-tag">AVC</span>
 
 來源：[Sud Ouest](https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdzNOTXFnWXM0MHFKbElYRzZaeTVfRDhuS1hnNy0weE9lRF8xRVBtaEJJTkZKV25ZU0wyaVlBWkFNM0FIamZtam9HTHZ3QmN6SUxzaF8yMHNEdFY2OVZKRF9VXzAxMGhMLWdWd3NPMmJXcU5YX3FsMng4TUp1N2V4MUFqM0hJVjBXX0h2Rl9wX1BDVHB3WG8ya2xGQmNVc0xZYTJkaF9LQ3Q2N0VVcnBDT3NOcHJVRmpPZFFRUUg2NnJuTFR2S24tT09Yal9xZElFX1lTbWwxVHA2bGMwNEVGOGlQa0ZLaFNrM3A1d18taE9lTnBJZ2hUcTBfOFp1RVNJS0IxY2kwWVJlSUFILUllUWJqNnA2T0MzV3dqcnR4YVZVY0dvZEc1UnF2aGF1QUhaQmtlVVpObzRWZkNFUFhsaWJPZWdTSnpHR19xTDNKSVZkSHpMaWlQZEs5b3V6cE11S0p4TkhB?oc=5)
-
----
-
-### [La imagen de perfusión cobra protagonismo en la sala de angiografía para tratar el ictus agudo - El médico interactivo](https://news.google.com/rss/articles/CBMickFVX3lxTE5YM1NZMUxoUGY3UFdwc3d0T3ZYb3p3SFgzYzJqRHJsdGhiTUhBbFlTdkhsM3dGODFNSE52OXdtS2N4bV83NjVDLXV4RXc1T1ZCZG1STVMwTFAzLXpaOGVEREpKLXE3QXlLTWp2NVlhd2pKdw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMickFVX3lxTE5YM1NZMUxoUGY3UFdwc3d0T3ZYb3p3SFgzYzJqRHJsdGhiTUhBbFlTdkhsM3dGODFNSE52OXdtS2N4bV83NjVDLXV4RXc1T1ZCZG1STVMwTFAzLXpaOGVEREpKLXE3QXlLTWp2NVlhd2pKdw?oc=5)
-
----
-
-### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REYw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REYw?oc=5)
 
 ---
 

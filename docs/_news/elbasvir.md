@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="Elbasvir 有什麼相關新聞？">
-<strong>Elbasvir</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elbasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/elbasvir/
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（15 則）
 
-### [Vitamin K2 bremst Gefäßverkalkung: Was 2026er Studien für Therapie und Prävention bedeuten - it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWRhNFhJUDY1aHlSY3dkWVVJaXQtWEUtSkpsaHBqTWRtVmhYUzU5Nm40cW1PTnlZeXVad3JqR3VYZmVuaUF6Tkpaa3RZNVlzTjVsTkt5U2RMUlN2SV82U1FaeWtDNDBnRWxMSHZzY2dzbGZEQU1QR0RIVWktV3Nva25BZXdfOVBHb05meWpaOHJFUWk1SXRwS1VnRUE4bGhVdjVnU0FtRmJqWVFDS2xhdlBxWEx1NVBmbjFsLVotMUh6Y2s?oc=5)
+### [Esclerosis múltiple: Nuevo estudio sobre GFAP lo sitúa como potencial biomarcador de progresión](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZDFzN2F6a1MxNkhEYk5rOHNDaWp6dVdSTEwzdmNNWjVKTzNoNUItQzVNZXFLbXlhZ3VuaFQ4NXYwZVIxZWMxVkJyYVVHNU1nYXpyNUVOSWNZcGxROWt5U1BzRksyNzVnXzgzSnZoODVQa1ZXZ1E5WndnMW1FRV9LT29SOUtncFczVFhEdm9KU0VabFVmaTNKanpZRVNCbjNWcTlCSnpZTml3eGZJT2dTZmMzS0p6THZrSXZ6SGtNNmhoMDdpbjM3blAwbFNrMnl4X050dm56YVBYckNsZXdJcXF4YzZiUQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZDFzN2F6a1MxNkhEYk5rOHNDaWp6dVdSTEwzdmNNWjVKTzNoNUItQzVNZXFLbXlhZ3VuaFQ4NXYwZVIxZWMxVkJyYVVHNU1nYXpyNUVOSWNZcGxROWt5U1BzRksyNzVnXzgzSnZoODVQa1ZXZ1E5WndnMW1FRV9LT29SOUtncFczVFhEdm9KU0VabFVmaTNKanpZRVNCbjNWcTlCSnpZTml3eGZJT2dTZmMzS0p6THZrSXZ6SGtNNmhoMDdpbjM3blAwbFNrMnl4X050dm56YVBYckNsZXdJcXF4YzZiUQ?oc=5)
+
+---
+
+### [FGL-1: Leberprotein bremst Entzündungsreaktionen im Immunsystem](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjJ3dlExVnBZRklKb01td0VuZzhSbzBWcGRyRVYyNUtCZDlKa0pWWWthV01TTExHZ3F4UUFwMFhtWFdDRGZta0pYMXV4YXBLUXIxXzVtYmxFOFZVMDZhWERZNDg4c3VFNk90cU1KenpzaWxDZVRPN2VFdFFZRVdxVWdGa2s4UmFheVN5YWFvTDI?oc=5)
 
 2026-08-06 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWRhNFhJUDY1aHlSY3dkWVVJaXQtWEUtSkpsaHBqTWRtVmhYUzU5Nm40cW1PTnlZeXVad3JqR3VYZmVuaUF6Tkpaa3RZNVlzTjVsTkt5U2RMUlN2SV82U1FaeWtDNDBnRWxMSHZzY2dzbGZEQU1QR0RIVWktV3Nva25BZXdfOVBHb05meWpaOHJFUWk1SXRwS1VnRUE4bGhVdjVnU0FtRmJqWVFDS2xhdlBxWEx1NVBmbjFsLVotMUh6Y2s?oc=5)
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjJ3dlExVnBZRklKb01td0VuZzhSbzBWcGRyRVYyNUtCZDlKa0pWWWthV01TTExHZ3F4UUFwMFhtWFdDRGZta0pYMXV4YXBLUXIxXzVtYmxFOFZVMDZhWERZNDg4c3VFNk90cU1KenpzaWxDZVRPN2VFdFFZRVdxVWdGa2s4UmFheVN5YWFvTDI?oc=5)
+
+---
+
+### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+
+---
+
+### [Gefäßverkalkung: Vitamin K2 verlangsamt Plaquebildung um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzNPSXZLQklOTW9ETnJVaHNmRzM4eVpIOVFxT244WC03ZDR5Rml5VEZfdHhWS180dmloaGxlekttVVRKVWM3UGNYTkNveEQ5dEZ5UXVIdllRN0pjTkhES0o2ZC1ZMzB6X2JDWVNsRnRjNENzTW9STVdWYW9wVTZ4RzZfZ3puakhkT3RId1o5b2hnMXB6S0lJYUFzTzZKa1ItRmZTSHVfM2xxRXg5Qm1DcDN0MjhObXFh?oc=5)
+
+2026-08-05 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzNPSXZLQklOTW9ETnJVaHNmRzM4eVpIOVFxT244WC03ZDR5Rml5VEZfdHhWS180dmloaGxlekttVVRKVWM3UGNYTkNveEQ5dEZ5UXVIdllRN0pjTkhES0o2ZC1ZMzB6X2JDWVNsRnRjNENzTW9STVdWYW9wVTZ4RzZfZ3puakhkT3RId1o5b2hnMXB6S0lJYUFzTzZKa1ItRmZTSHVfM2xxRXg5Qm1DcDN0MjhObXFh?oc=5)
 
 ---
 
@@ -66,7 +90,7 @@ permalink: /news/elbasvir/
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVpGc2lrQTRpc0JhdGk3TENYaE1xcEVjNjVFYjU0bzljeUJDTXluSjNqY3hMaGc4UW1XRzg2NFlmMkRYOEVQdDdwVVBtLXVtY2ZmRllIaVd6bml1OEFHZHNRZTBJTnZDZjQxRTNpd0RicTBnNEd4elBuUXVWRzZTQmt1NFRNSjBBWmhWRUdGRVJGRHIxVVJ5RUFDb3VqTEJ1dWJXXzRQenI2TnJRa3c?oc=5)
 
 ---
 
@@ -74,7 +98,7 @@ permalink: /news/elbasvir/
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[RFI](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFJ3X1d1UFFFQnhLZ1l3VDlESlU4djRYYlBfbTZsVnQ1ejB0c0Z5Slp1cHVpa3hYcjNfLXVKeVhIaEdrdUoyVndJZWtzVXo5RS1LUVRWMVlwMHUzcTNXY2p0TU5RYkg1NUFuZmFOS09wWXdTbEJrR2dxaVl2QnFheEtRVWdpcW1zQnRYOTFEQmZEbDVkMkVfbkpXMGZ1RkRQdWx3M1VKcjEteDFEQXBITnYzcXpWLUlvNS1NWlVBMDJ2UU9SdTZPTnVRYmJWTVU?oc=5)
+來源：[rfi.fr](https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFJ3X1d1UFFFQnhLZ1l3VDlESlU4djRYYlBfbTZsVnQ1ejB0c0Z5Slp1cHVpa3hYcjNfLXVKeVhIaEdrdUoyVndJZWtzVXo5RS1LUVRWMVlwMHUzcTNXY2p0TU5RYkg1NUFuZmFOS09wWXdTbEJrR2dxaVl2QnFheEtRVWdpcW1zQnRYOTFEQmZEbDVkMkVfbkpXMGZ1RkRQdWx3M1VKcjEteDFEQXBITnYzcXpWLUlvNS1NWlVBMDJ2UU9SdTZPTnVRYmJWTVU?oc=5)
 
 ---
 
@@ -82,15 +106,23 @@ permalink: /news/elbasvir/
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUl5TUJmWGdaZ1lpcDhMcTVmTGpnY1NvUWN6cVFUeW9pZWtsekw0ZVp1SHI3eGxpT2ZiZHhvTmUxbE54eU40LUNJWTNvbjZCUVg5S284MjVabHBDNUVHR3lkamEwVGxOZWJ5UWl3dlZ0WjR0YWJVbXlrOWg3b2tNYWExN3hyekNVMFZ1VkwxMjQtRWFOdElneHFMbzFDU1lTY3NfUWl4VFpHa1pWYkROTlgwU0U0bTI3Sko4Mg?oc=5)
 
 ---
 
-### [Two common symptoms heart attack survivors experience weeks before, according to a doctor - GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
+### [Two common symptoms heart attack survivors experience weeks before, according to a doctor](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
 
 2026-08-05 <span class="news-indication-tag">MS</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
+來源：[gbnews.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
+
+---
+
+### [«La peggiore epidemia di Ebola mai registrata»](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaERxN0ZYS01MWmZ3VzBPRm5aT1pueXp0TkhwQk1OOEdRQzdGWmZYTDFMcFRWZVViTUFVVTRydTNja2ZBYUlzN01UQUV3WVhMQnZKb1V1M1pidDdzZE9PRXB6Vkt5RVBBckZxek5oUFd4WjdlajVnMzhpM1ZGUkN6MDlBRmgzVnlkb3RyaVhpaFV5S3R3bnlN?oc=5)
+
+2026-08-05 <span class="news-indication-tag">MS</span>
+
+來源：[Ticinonline](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaERxN0ZYS01MWmZ3VzBPRm5aT1pueXp0TkhwQk1OOEdRQzdGWmZYTDFMcFRWZVViTUFVVTRydTNja2ZBYUlzN01UQUV3WVhMQnZKb1V1M1pidDdzZE9PRXB6Vkt5RVBBckZxek5oUFd4WjdlajVnMzhpM1ZGUkN6MDlBRmgzVnlkb3RyaVhpaFV5S3R3bnlN?oc=5)
 
 ---
 
@@ -102,43 +134,19 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Isère. Atteinte d’une sclérose en plaques, elle lance une cagnotte pour financer un traitement au Mexique : « Ça me donne de l’espoir »](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
+### [EP2-Rezeptor, Semaglutid & FGL-1: Wie das Immunsystem Alterung steuert - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWW84Z25ZX3ByYUZEYnJKcHM2UF93TTBKcTBwdDlJSFdFZkZwQXVwZkxkTHc1NWV2RzRrNTZqSjFjeEdiMlZzdExybEMtQWxGRndISXJ3STMzOUpYcWNsQVJLZDdpQ1podDAtTFY3Y0t0Q2llZGw0LXFYbzBYazdVenhpUXlOSlNaTkpxREsyemtQb1F0VnBETE1iNkY3RFE?oc=5)
 
-2026-08-05 <span class="news-indication-tag">sclérose en plaques</span>
+2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-來源：[ledauphine.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1NzRDBMQUZ4Nk5lT1BCMlEyZnhpNEhiLWRKQWZVdm42M3g3LXJVbldhVFN3OGlrS1ZMVWdoQ3lqT3NnRXhMNVM4WkFqVzF2aU5lOHBfdkpzV0pOTWFlSGF5bDg4RS1rOEkzcnloN3N5bGtvR0c0TFZkbUxWOW53SW9Hb1N2SENyVDU1eGU3aWJwMHJCdHd0cW0tUk4yUTIxOF90Q09YUWpHaDUxM2N4bVduN1FRRElnN2ZqOVdVbWF3bXJ0bmRkMlJaSmI0OERwQ2dzeHlTcnVyRzNGZm9ld0VUejR6R0NjdVFES2M4WV9UaVg4anlBSA?oc=5)
-
----
-
-### [Abnehmspritze bei Diabetes Typ 2: Schützt sie auch die Knochen?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[T-Online](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTdfeFpNLU9sR2V5U2ZpSUtPTF9PQnJBMmduc1ZjRXF4N3NuWUkwZ1ZsZU5XSXBJRHVTdjZrUDFRQm95RWlqWEJmeVBRak5JOUItS25tSXVaaUpUQl9DNGpGRF9sbGdMVzRfS3NnUjZBOVlUb1owYmJIa3hLcGlLU1FpSlFUNWotWmJtRE1JX0pSWmlnU1hhdEN2U05lOHJ3aS1vRHhhVVV0ZHNFNm1neE1xX25XWU9jWXV0RWNfTXRUa2E5V1pPaQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWW84Z25ZX3ByYUZEYnJKcHM2UF93TTBKcTBwdDlJSFdFZkZwQXVwZkxkTHc1NWV2RzRrNTZqSjFjeEdiMlZzdExybEMtQWxGRndISXJ3STMzOUpYcWNsQVJLZDdpQ1podDAtTFY3Y0t0Q2llZGw0LXFYbzBYazdVenhpUXlOSlNaTkpxREsyemtQb1F0VnBETE1iNkY3RFE?oc=5)
 
 ---
 
-### [Multiple Sklerose: Blutmarker zeigt auch schubfreie Progression](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEFiN1lNRWV0VDhDcUVkakgxY3pfUmkyekRWM0NHMW1hT0tVMi1kdkhTc2dQUUw1NWhUNWR5UG5NckxnN210V0lBUnhqWTJVREJBTzJsZUhDanNHU1Y5bUlXZG9ETmpqSGlFT1pwZ0ZpZWc5RGJ4S2lQeFl3enNpZE1pdUJnT0NRWUV5VjAweUI?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEFiN1lNRWV0VDhDcUVkakgxY3pfUmkyekRWM0NHMW1hT0tVMi1kdkhTc2dQUUw1NWhUNWR5UG5NckxnN210V0lBUnhqWTJVREJBTzJsZUhDanNHU1Y5bUlXZG9ETmpqSGlFT1pwZ0ZpZWc5RGJ4S2lQeFl3enNpZE1pdUJnT0NRWUV5VjAweUI?oc=5)
-
----
-
-### [Immunologie: Neuer Regelkreis steuert Entzündungen bei COVID und MS - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUtGM1IzREtoWmVUNjd1S2hWODNFYnNCOGtKbUVPUzNicEJpcVBqRC1uandNdXdZSXRrOG1tNGFpYjhVSDJuajE3ZnR0bEF5Ukg0ajYxV3pSaFpCc05LcUt0Z0J3R2UxbzhMX3FCcTRiRnBRSGwxT1hVUENEeXh0Slp2Y1hBcjBmRWJaa3l5a3ZmbTNteDJWUm5pbEVaUzZ4MGtsUklpMkpuLXpRcjltQTJkRW5NRDQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUtGM1IzREtoWmVUNjd1S2hWODNFYnNCOGtKbUVPUzNicEJpcVBqRC1uandNdXdZSXRrOG1tNGFpYjhVSDJuajE3ZnR0bEF5Ukg0ajYxV3pSaFpCc05LcUt0Z0J3R2UxbzhMX3FCcTRiRnBRSGwxT1hVUENEeXh0Slp2Y1hBcjBmRWJaa3l5a3ZmbTNteDJWUm5pbEVaUzZ4MGtsUklpMkpuLXpRcjltQTJkRW5NRDQ?oc=5)
-
----
-
-### [Ebola Bundibugyo, la corsa contro il virus: vaccini e terapie entrano nella fase decisiva](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZG1GMFJUcE85OUdwWDh5Y0JxOERpV1ZMemhSQmMySGlIR3N2Ty1LTkRIcjJZX2VZdW52eExzTTBYNnVLYVJFck5vX0ZwWTRzb1REUmlLc3FKWEdoQzdYQmxzTnc4ajBnaTBsMFpwWUZTYThsaGM0czZJak02T0J1bWx6X3EzZzU2a3EwRUg2TlZsRXNsR2ZYaXI0YkFGeXNBc09CZGUwd3dwWjYwME5adkFWM1ZSdy1KN3I2UVdHbDlWZE5BdDVKVE1jV0xPSi0yLWJ5YUJCeWwteUxYaTRR?oc=5)
+### [Erectile dysfunction drug used to treat enlarged prostate symptoms may raise glaucoma risk - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVU1RZkRvQk1YVmVCcXpVWkZWZW5OS2tzU3NYWXREZ2R0bGlCTFhObk1oUUYyWERFQ29PMVZPR1pKVlgtdVpCTlRjS1djdnZRcEFRWWtXWkNoXy13MW9QdHJaZTEyblNxUElwSERSMVFFZ3JOSWs3VEN5NVNoRTRBV3R4Sk1qQ1BSRXVfVWg0M2g?oc=5)
 
 2026-08-04 <span class="news-indication-tag">MS</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZG1GMFJUcE85OUdwWDh5Y0JxOERpV1ZMemhSQmMySGlIR3N2Ty1LTkRIcjJZX2VZdW52eExzTTBYNnVLYVJFck5vX0ZwWTRzb1REUmlLc3FKWEdoQzdYQmxzTnc4ajBnaTBsMFpwWUZTYThsaGM0czZJak02T0J1bWx6X3EzZzU2a3EwRUg2TlZsRXNsR2ZYaXI0YkFGeXNBc09CZGUwd3dwWjYwME5adkFWM1ZSdy1KN3I2UVdHbDlWZE5BdDVKVE1jV0xPSi0yLWJ5YUJCeWwteUxYaTRR?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVU1RZkRvQk1YVmVCcXpVWkZWZW5OS2tzU3NYWXREZ2R0bGlCTFhObk1oUUYyWERFQ29PMVZPR1pKVlgtdVpCTlRjS1djdnZRcEFRWWtXWkNoXy13MW9QdHJaZTEyblNxUElwSERSMVFFZ3JOSWs3VEN5NVNoRTRBV3R4Sk1qQ1BSRXVfVWg0M2g?oc=5)
 
 ---
 
@@ -158,43 +166,11 @@ permalink: /news/elbasvir/
 
 ---
 
-### [Sclérose en plaques : un biomarqueur pour suivre son évolution](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
-
-2026-08-04 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[rts.ch](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWVN2N1RmQTBLTlhRRkpmZ09FREVQRnpHYnUwMHdqbG5jUjlFYUJ4ZzZmS3ZQdmpja3FjQzdId0lMcFd6OEJUVVAxQ29vcVhfUkV2U0p3YnpobVZNUVZTRkNETHNTQ3BTZjBIVkhyRlZkX3NLYTZrU1BZNEw2cGluRWVLblNXN0VyT1h0VmJ6V2kwZ2ZsQUlXTG9sc09Pc09mZnFfRUh1SHRodjhFUlZ6ODROX2ZnNVVW?oc=5)
-
----
-
-### [Dalla cura della tosse al cervello: il ruolo dei mucolitici contro Alzheimer, parkinson, demenze e sclerosi multipla](https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5)
-
-2026-08-04 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMihgJBVV95cUxNR0FUdVMyQkFjbGREeDF0bmNfcnFqVGlpWEVVWG9QdlVUT2hZOWgyN3p4eUF5ZnppZDBUTlR4QzVPUXR0LXY0ei1kNFdtSnR1UG1NUlFSaERDV3FNbzZzcXhoVXRtZ1RCMW9XdGZROEdqY3pYRDFqNTF2anBHaWVYUGNVUnZHVDRuQUotOF9qQUpRV3RHWWRGVUJnYm9xNlpnVEdVM1FjZEg5NmNOcTNiVXJiVjI5dktYbnJkaTdpVlhYY0djODB6ZnFmcl8xcmNZaEE1Y0FFdGM3RzRvZWhrNWM2VzZaTVhFLWt4a3VhY1RQaUVBN2YzaE5NUHp5dnl3QlBjS2tn?oc=5)
-
----
-
-### [Israelische Studie sorgt für Aufsehen: Viagra könnte gegen Krebs helfen - Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
-
-2026-08-04 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
-
----
-
-### [57 Habits Young People Have Now That Will Cause Big Problems Later According To Those Over 40 - Bored Panda](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRTlhX0xUY29MTFoxTXhXQjdYNXV3X3Q3Z05nODk5MHFrSDB1SXM4WE80SGpPeUExbjl0MURvN0dsUkxSdWppY0VCV3FBMWVYVUNQUHdKUEI1S3ZBd2dxX1g3Y25OajBE?oc=5)
+### [Blutmarker für Multiple Sklerose untersucht - 2026 - Aktuelles](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDYySTJGb0NTSWJpVW1LRnIzRjAyNE1WMnQwZTNsM2ExS3c3YlVONlhqZm5iZXBVbWNVbnVsanFsa2Q5c0trR2NMbml2UHViU3k0bUhrYUFaX2dZTDJFWFNBSTJKOW1Vb3plc2wwUUNLczRFTDRiUXpmOEZ4OGg1Y1BURWprdkc4VjBmOE1SRW9qU2phaWc?oc=5)
 
 2026-08-04 <span class="news-indication-tag">MS</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwRTlhX0xUY29MTFoxTXhXQjdYNXV3X3Q3Z05nODk5MHFrSDB1SXM4WE80SGpPeUExbjl0MURvN0dsUkxSdWppY0VCV3FBMWVYVUNQUHdKUEI1S3ZBd2dxX1g3Y25OajBE?oc=5)
-
----
-
-### [Sclerosi multipla, un esame del sangue può svelare se la malattia avanza in silenzio](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBoSXItMWs5WklvMVQ3ZV9OUUt6eFBBdzNXTDBRVG1fYmlESTZwRktNWi1nLUVfc3VtRkNGVW5YVFV1d0hDMGp5Y1A1Q1UzWEl3ZXBCdm14NTRBV0pwWHVKU1l5aWx3YUFObWhqbndZMlhrUTJrX0J2eHczcHBrMFFaeEVhNmpQRVFwZGxNRUVNNzVxenZ1ZndyWEdINXEwWXBJQ2tuaUpTSUVTckxPQ2xPZktvbGFfNU03a1ViamlmUkhXS0YxQmxoSC1Tc3g2ZElIV0kwSGx2c1E?oc=5)
-
-2026-08-04 <span class="news-indication-tag">sclerosi multipla</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBoSXItMWs5WklvMVQ3ZV9OUUt6eFBBdzNXTDBRVG1fYmlESTZwRktNWi1nLUVfc3VtRkNGVW5YVFV1d0hDMGp5Y1A1Q1UzWEl3ZXBCdm14NTRBV0pwWHVKU1l5aWx3YUFObWhqbndZMlhrUTJrX0J2eHczcHBrMFFaeEVhNmpQRVFwZGxNRUVNNzVxenZ1ZndyWEdINXEwWXBJQ2tuaUpTSUVTckxPQ2xPZktvbGFfNU03a1ViamlmUkhXS0YxQmxoSC1Tc3g2ZElIV0kwSGx2c1E?oc=5)
+來源：[hcm-magazin.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDYySTJGb0NTSWJpVW1LRnIzRjAyNE1WMnQwZTNsM2ExS3c3YlVONlhqZm5iZXBVbWNVbnVsanFsa2Q5c0trR2NMbml2UHViU3k0bUhrYUFaX2dZTDJFWFNBSTJKOW1Vb3plc2wwUUNLczRFTDRiUXpmOEZ4OGg1Y1BURWprdkc4VjBmOE1SRW9qU2phaWc?oc=5)
 
 ---
 

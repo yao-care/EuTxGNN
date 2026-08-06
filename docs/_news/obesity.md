@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（4 則）
 
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
 
 2026-08-05
 
-來源：[radiomitre.cienradios.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
 
 ---
 

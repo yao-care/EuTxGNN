@@ -14,7 +14,7 @@ permalink: /news/ripretinib/
 ---
 
 <p class="key-answer" data-question="Ripretinib 有什麼相關新聞？">
-<strong>Ripretinib</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ripretinib</strong> 目前有 <strong>36 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ripretinib/
 <p><a href="{{ '/drugs/ripretinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（36 則）
 
-### [Medizinischer Fortschritt verändert Krankheitslast: Weniger Herzinfarkte, mehr Krebsüberlebende](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjMyX040NkZteGNSSU0xbDVTN0tlV0hoc3VTR25yMUs5YU9DUGE0TFhmMUlnMk9QVUV3U2JDWWlSNkRMRjE4WlpGUzA0X21sSXRwNHZWSWVxRU5CY0pQaVpEU2NjM1YxZlNjdlFuR1pJZmlzaUJCSy1uczJ1YjN2eW9qTjM3emhqcm5LQ21TWjVTUHlIR3RJcDRCZHV4STh6ek4tVlh5VW03VW9JYjY5dy1fT3ZSNmRYR0ROTA?oc=5)
+### [Immer mehr Krebs bei Jüngeren Steigt das Tumorrisiko, weil die Menschen biologisch schneller altern?](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR2kya1BFWUc0VXFVNjJJdmNNbGZKeFNneHRJaVY2U295RkJFczNsaUdTMjdvVnFDdnRIVjJscVI2MWRCVEVpOWp6bS01NU5qWjNEYXlxSnN5Y2NtM19MVUM0Yi1fU1d0ZjNvQ0ZQSUxRYjBFTlhXOHBETjZ5VHhoMzk0OGMxd05TZTZwckxnUS1YS0Q0ZWlkN3FZZG51NkNZcDZscTU1TjhSczJRMDJUemxBN01rOFVneUxTV0xObFc3VUNsMkYxVW1EemVKZHhCV041UVlPMTZNMFNEeFdlVg?oc=5)
 
-2026-08-06 <span class="news-indication-tag">Krebs</span>
+2026-08-06 <span class="news-indication-tag">tumor</span>
 
-來源：[MedLabPortal](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjMyX040NkZteGNSSU0xbDVTN0tlV0hoc3VTR25yMUs5YU9DUGE0TFhmMUlnMk9QVUV3U2JDWWlSNkRMRjE4WlpGUzA0X21sSXRwNHZWSWVxRU5CY0pQaVpEU2NjM1YxZlNjdlFuR1pJZmlzaUJCSy1uczJ1YjN2eW9qTjM3emhqcm5LQ21TWjVTUHlIR3RJcDRCZHV4STh6ek4tVlh5VW03VW9JYjY5dy1fT3ZSNmRYR0ROTA?oc=5)
+來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR2kya1BFWUc0VXFVNjJJdmNNbGZKeFNneHRJaVY2U295RkJFczNsaUdTMjdvVnFDdnRIVjJscVI2MWRCVEVpOWp6bS01NU5qWjNEYXlxSnN5Y2NtM19MVUM0Yi1fU1d0ZjNvQ0ZQSUxRYjBFTlhXOHBETjZ5VHhoMzk0OGMxd05TZTZwckxnUS1YS0Q0ZWlkN3FZZG51NkNZcDZscTU1TjhSczJRMDJUemxBN01rOFVneUxTV0xObFc3VUNsMkYxVW1EemVKZHhCV041UVlPMTZNMFNEeFdlVg?oc=5)
+
+---
+
+### [Guylaine, 58 ans, atteinte d’un cancer du sein : « Un an après le diagnostic, mon mari m’a annoncé qu’il voulait divorcer »](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT3RPRk9TNnVkMDMya0ZIb0lMSzFJbTVWeDhiSEhLenctQm1ZU0pqTUJhY1pCZ2wxSWRaQ191UGVYLUdkQUVTMXNmUzhZVktWdHBha0RhT2J2NEJpSTJBOUlNczhfWFVGQTFmZlBlR0FqOVlkcmxPWXMwQmxwTDBMR21yby1LaWdtM1hiSEpaTUJGTWpSeGtzejByWkhkanBGenRfR1lKVmhYOThsejJyX3JXMWY3bDJCM2I0ckl4dGRHY1F5aHFLaGRDS3lfem9JWWdYUnI0MFhETEt4cGQ2OEp1dGVhTm9PeF94ag?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span>
+
+來源：[parismatch.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT3RPRk9TNnVkMDMya0ZIb0lMSzFJbTVWeDhiSEhLenctQm1ZU0pqTUJhY1pCZ2wxSWRaQ191UGVYLUdkQUVTMXNmUzhZVktWdHBha0RhT2J2NEJpSTJBOUlNczhfWFVGQTFmZlBlR0FqOVlkcmxPWXMwQmxwTDBMR21yby1LaWdtM1hiSEpaTUJGTWpSeGtzejByWkhkanBGenRfR1lKVmhYOThsejJyX3JXMWY3bDJCM2I0ckl4dGRHY1F5aHFLaGRDS3lfem9JWWdYUnI0MFhETEt4cGQ2OEp1dGVhTm9PeF94ag?oc=5)
+
+---
+
+### [Il tumore si frantuma senza bisturi: la promessa e i limiti degli ultrasuoni](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWgyNHBVNXNiNVZKcUM2a1llRHAwQ3JjSFFTQUJFZmtsSU81ZzVrU0RMZElpZUhIcWZHcHNhRUkzM0VyRDZvVUhIVWVaN1Uwd1lobXY1QkZTY1JGdTRncW1vSXMxUGcwajk1LUJuQlBSWEkwVUZRVGxFakxTalZTOENGQUxnem9KemVzd0VpSm9zMlhSZ3RlMlZpdGN1a3kyM0htN2VmV0hmUVhLN3pxVG5nTEV0Q2x6VlpIc1NJSThVU1JpbVBrZkVzQTY1c3RO?oc=5)
+
+2026-08-06 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdWgyNHBVNXNiNVZKcUM2a1llRHAwQ3JjSFFTQUJFZmtsSU81ZzVrU0RMZElpZUhIcWZHcHNhRUkzM0VyRDZvVUhIVWVaN1Uwd1lobXY1QkZTY1JGdTRncW1vSXMxUGcwajk1LUJuQlBSWEkwVUZRVGxFakxTalZTOENGQUxnem9KemVzd0VpSm9zMlhSZ3RlMlZpdGN1a3kyM0htN2VmV0hmUVhLN3pxVG5nTEV0Q2x6VlpIc1NJSThVU1JpbVBrZkVzQTY1c3RO?oc=5)
 
 ---
 
@@ -78,11 +94,11 @@ permalink: /news/ripretinib/
 
 ---
 
-### [Embutidos y carnes procesadas: nuevo estudio ratifica alto riesgo de tumores gástricos - El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTV0QkdEa3J4eXZvWXF1a3JycDY0ckxtaEJibG1TNlFaLWlodDFSZy1DYlJDUlJyTGJWTmo4OFpGbnpHYm9qVGlkTDhoZnlVRW80TGY4T2xFRTZBRDBLNEgwc0FNOVJyblFPNWNSLXdfMGM5M0U2VnEycHZqTnFySTRnZEhNeDRhOHpVMlMzWmNOUGRUVmc?oc=5)
+### [Embutidos y carnes procesadas: nuevo estudio ratifica alto riesgo de tumores gástricos - El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHZzZjlJU3VGcWI5dmp6YnBnLXl4MG9qTXRBV0dyTm5QZ0pZSjZYYkRYQWhSRnhuck5wZVZvRE85cFAweDBXZFlGUk1SMThrTEVRdGM4QXlfVE12OEU4YnpyamwtMDhZWm9hbXlpT21XLTVoWmMxTGo2dGl5aEFIOE1xU01Cem9ocEtRclVTSkE1czhPVlE?oc=5)
 
 2026-08-05 <span class="news-indication-tag">tumor</span>
 
-來源：[El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTV0QkdEa3J4eXZvWXF1a3JycDY0ckxtaEJibG1TNlFaLWlodDFSZy1DYlJDUlJyTGJWTmo4OFpGbnpHYm9qVGlkTDhoZnlVRW80TGY4T2xFRTZBRDBLNEgwc0FNOVJyblFPNWNSLXdfMGM5M0U2VnEycHZqTnFySTRnZEhNeDRhOHpVMlMzWmNOUGRUVmc?oc=5)
+來源：[El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHZzZjlJU3VGcWI5dmp6YnBnLXl4MG9qTXRBV0dyTm5QZ0pZSjZYYkRYQWhSRnhuck5wZVZvRE85cFAweDBXZFlGUk1SMThrTEVRdGM4QXlfVE12OEU4YnpyamwtMDhZWm9hbXlpT21XLTVoWmMxTGo2dGl5aEFIOE1xU01Cem9ocEtRclVTSkE1czhPVlE?oc=5)
 
 ---
 
@@ -94,11 +110,19 @@ permalink: /news/ripretinib/
 
 ---
 
-### [Des chercheurs belges découvrent une nouvelle piste pour le traitement du cancer du foie](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeFd2amJBdmJmakNSYUJEakE4aXZTYVV1Um81RkFrVHl3MTBjYzdmUUxFdzRJWHBkaXBvV0xZU0NVRDZYMUNFaElwOGh0NERTZDhfN19LMHRnNkp0N3AwUnlHcjJKZzJyOG0zZG44dVV4a2cwR2Z3ME8wTFk3VDV4Ukx2YUhFbDF6elEwZkkzaXdMRHdlR1BmX3I0dzZDcUZKMWN4ckdsd1lreU1mZUNManJKeDNlbDU4NEcxd0FuTHNGSXpORWh0TmJuMzNwV053QlNWU2tod096Z1NnbVpYU2tTaGtlNU1veHJmV2QtTk05MzhlMjUw?oc=5)
+### [Krebs: Forscher machen Tumor-Chaos erstmals messbar – das könnte alles verändern](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0pOanh5TzZ6RmhHdkM3LXd4VWhLU0JibHFJZEZjOU9uLXMwZmlpVFlPblZHTmlVaHBza2J4RFc5VzFZY28xTGJwZ1VLTk1KXzlYYTFRMlNwN3ptaS1wLWpfOFpmU3NzRmdWeG5tcnR3TmlPN1BGekVGbDdzSW5LNndZMUN2Tm1LNWg0NW5QR1BDMy1pX00ydVAtcjZOV05LWVA4OTVJNnBuUHNfSzNPSGpiSUhfcGNyTmx0WVlXY2pEZWRERWlUM0FqS1F1VFl5TFlEdDdJVjZ3TGl6ZVgxUQ?oc=5)
+
+2026-08-05 <span class="news-indication-tag">tumor</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0pOanh5TzZ6RmhHdkM3LXd4VWhLU0JibHFJZEZjOU9uLXMwZmlpVFlPblZHTmlVaHBza2J4RFc5VzFZY28xTGJwZ1VLTk1KXzlYYTFRMlNwN3ptaS1wLWpfOFpmU3NzRmdWeG5tcnR3TmlPN1BGekVGbDdzSW5LNndZMUN2Tm1LNWg0NW5QR1BDMy1pX00ydVAtcjZOV05LWVA4OTVJNnBuUHNfSzNPSGpiSUhfcGNyTmx0WVlXY2pEZWRERWlUM0FqS1F1VFl5TFlEdDdJVjZ3TGl6ZVgxUQ?oc=5)
+
+---
+
+### [Des chercheurs belges découvrent une nouvelle piste pour le traitement du cancer du foie - La Libre.be](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeFd2amJBdmJmakNSYUJEakE4aXZTYVV1Um81RkFrVHl3MTBjYzdmUUxFdzRJWHBkaXBvV0xZU0NVRDZYMUNFaElwOGh0NERTZDhfN19LMHRnNkp0N3AwUnlHcjJKZzJyOG0zZG44dVV4a2cwR2Z3ME8wTFk3VDV4Ukx2YUhFbDF6elEwZkkzaXdMRHdlR1BmX3I0dzZDcUZKMWN4ckdsd1lreU1mZUNManJKeDNlbDU4NEcxd0FuTHNGSXpORWh0TmJuMzNwV053QlNWU2tod096Z1NnbVpYU2tTaGtlNU1veHJmV2QtTk05MzhlMjUw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span>
 
-來源：[lalibre.be](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeFd2amJBdmJmakNSYUJEakE4aXZTYVV1Um81RkFrVHl3MTBjYzdmUUxFdzRJWHBkaXBvV0xZU0NVRDZYMUNFaElwOGh0NERTZDhfN19LMHRnNkp0N3AwUnlHcjJKZzJyOG0zZG44dVV4a2cwR2Z3ME8wTFk3VDV4Ukx2YUhFbDF6elEwZkkzaXdMRHdlR1BmX3I0dzZDcUZKMWN4ckdsd1lreU1mZUNManJKeDNlbDU4NEcxd0FuTHNGSXpORWh0TmJuMzNwV053QlNWU2tod096Z1NnbVpYU2tTaGtlNU1veHJmV2QtTk05MzhlMjUw?oc=5)
+來源：[La Libre.be](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeFd2amJBdmJmakNSYUJEakE4aXZTYVV1Um81RkFrVHl3MTBjYzdmUUxFdzRJWHBkaXBvV0xZU0NVRDZYMUNFaElwOGh0NERTZDhfN19LMHRnNkp0N3AwUnlHcjJKZzJyOG0zZG44dVV4a2cwR2Z3ME8wTFk3VDV4Ukx2YUhFbDF6elEwZkkzaXdMRHdlR1BmX3I0dzZDcUZKMWN4ckdsd1lreU1mZUNManJKeDNlbDU4NEcxd0FuTHNGSXpORWh0TmJuMzNwV053QlNWU2tod096Z1NnbVpYU2tTaGtlNU1veHJmV2QtTk05MzhlMjUw?oc=5)
 
 ---
 
@@ -110,11 +134,11 @@ permalink: /news/ripretinib/
 
 ---
 
-### [I was 47, fit and symptom-free when a chance blood test revealed I had prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEZXMUYzaXdSQkctQU95bzhra2I4OUhSQy03UUtRSjE2bzdNcFZxTVFtUXBRWXUyOHRQbVhQbmdNZG9saVJYZzczMjlqb1Fjb3A4dG5NT2RtbktXbTJtb1d0Ym1yU3p2bldKSWhyVVBnVDlxUjlMR3NnSVZCV3MwX2k5WkdqRFZKamZFdmNkNXFrSjFqVHRjVG4tTHQ0X2c?oc=5)
+### [I was 47, fit and symptom-free when a chance blood test revealed I had prostate cancer](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEZXMUYzaXdSQkctQU95bzhra2I4OUhSQy03UUtRSjE2bzdNcFZxTVFtUXBRWXUyOHRQbVhQbmdNZG9saVJYZzczMjlqb1Fjb3A4dG5NT2RtbktXbTJtb1d0Ym1yU3p2bldKSWhyVVBnVDlxUjlMR3NnSVZCV3MwX2k5WkdqRFZKamZFdmNkNXFrSjFqVHRjVG4tTHQ0X2c?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEZXMUYzaXdSQkctQU95bzhra2I4OUhSQy03UUtRSjE2bzdNcFZxTVFtUXBRWXUyOHRQbVhQbmdNZG9saVJYZzczMjlqb1Fjb3A4dG5NT2RtbktXbTJtb1d0Ym1yU3p2bldKSWhyVVBnVDlxUjlMR3NnSVZCV3MwX2k5WkdqRFZKamZFdmNkNXFrSjFqVHRjVG4tTHQ0X2c?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEZXMUYzaXdSQkctQU95bzhra2I4OUhSQy03UUtRSjE2bzdNcFZxTVFtUXBRWXUyOHRQbVhQbmdNZG9saVJYZzczMjlqb1Fjb3A4dG5NT2RtbktXbTJtb1d0Ym1yU3p2bldKSWhyVVBnVDlxUjlMR3NnSVZCV3MwX2k5WkdqRFZKamZFdmNkNXFrSjFqVHRjVG4tTHQ0X2c?oc=5)
 
 ---
 
@@ -123,6 +147,14 @@ permalink: /news/ripretinib/
 2026-08-05 <span class="news-indication-tag">cancer</span>
 
 來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMinwJBVV95cUxOVFFHVl82SW9STUFXbzEzam1aYlNuRXpoRWRVb2h2R1hBSERnWFI5ejZQeWdTY1k0WmlMWUJxMXJLR0RsWXY4UUtOVHVWVGg3aXBZdGJVQTVJbElUWWR4ZE50WFhIQTdWZkU3Y2prWk9lVkFITHI5OWdQTkRuMzktWGtTbFluRHRHOV9MUmY1UmFUdi05aWlsQmV3Sk9nd0gxTEJpOUlkS0k1MlhzSElnYk1kLXd4NjY1RktaTFVXQVgwTFdfMHQ5Sy1GVERmaU5jT3hldnlKcVhzVTZMOVNHTWdZMjZ1OGE5Uzh2Q3dYMnZkcEFhMWZtdUNEX2lfa1pFd2o2dTNVQnNYX3FaeDNqald6cF9jRWNXUktBSGNJaw?oc=5)
+
+---
+
+### [Tumori gastrointestinali: il paziente al centro della ricerca che trasforma la cura](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk94X3ptaV93UUxlaC1leE54THBWazdEdmEtZkZXdVBrV0NjQzZyOFFiLWk3NEhvNFBKZ21FZWVNaHg3MkNiM0c2YUVyMThyVDFVMFNDYzRvMnZvNkN4amd6RXpzN2hMa0Y3azlZNkJnbFp1WHdxSzktX19jZzZtaDRsTnlGcUNDN1NvTEpfa1pLNF9VbGNTdmdaN0lDdV9HZkhGQUJHM0RpRUd0ZngtQ0pNT0VYRmw1V01VOUVibG13VkFDbW8xUXgzTjB3clN3R1BNRmFLa21TZw?oc=5)
+
+2026-08-05 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk94X3ptaV93UUxlaC1leE54THBWazdEdmEtZkZXdVBrV0NjQzZyOFFiLWk3NEhvNFBKZ21FZWVNaHg3MkNiM0c2YUVyMThyVDFVMFNDYzRvMnZvNkN4amd6RXpzN2hMa0Y3azlZNkJnbFp1WHdxSzktX19jZzZtaDRsTnlGcUNDN1NvTEpfa1pLNF9VbGNTdmdaN0lDdV9HZkhGQUJHM0RpRUd0ZngtQ0pNT0VYRmw1V01VOUVibG13VkFDbW8xUXgzTjB3clN3R1BNRmFLa21TZw?oc=5)
 
 ---
 
@@ -142,11 +174,11 @@ permalink: /news/ripretinib/
 
 ---
 
-### [Warum tödliche Hirntumoren ausgerechnet für Ultraschall-Therapie besonders anfällig sein könnten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOblNTakdjY21vaXF0WmdteGJ1ZU1EM2JxT2hwZFNyenJyYTRKOWRqWi1tQXZGM0JoS1phZDNTVGZ6ZlYzcFRqaFBPeEVDUXMwbDRLT0h5bFBFcnNId1NpYkhSazU5XzZLRGhsYkgzNjJWYTlMZU56RjVQSTNqV0c0VDFxM1JmNHlKV2JqUFc1dTNMSjF1Z0gxRzYxTk1WcWVZU3BLcElkbHBtU2J2V0RzTEY1Z3diUmxWemFBVmZCY2NicHpzaGc?oc=5)
+### [Warum tödliche Hirntumoren ausgerechnet für Ultraschall-Therapie besonders anfällig sein könnten](https://news.google.com/rss/articles/CBMixgFBVV95cUxOblNTakdjY21vaXF0WmdteGJ1ZU1EM2JxT2hwZFNyenJyYTRKOWRqWi1tQXZGM0JoS1phZDNTVGZ6ZlYzcFRqaFBPeEVDUXMwbDRLT0h5bFBFcnNId1NpYkhSazU5XzZLRGhsYkgzNjJWYTlMZU56RjVQSTNqV0c0VDFxM1JmNHlKV2JqUFc1dTNMSjF1Z0gxRzYxTk1WcWVZU3BLcElkbHBtU2J2V0RzTEY1Z3diUmxWemFBVmZCY2NicHpzaGc?oc=5)
 
 2026-08-05 <span class="news-indication-tag">tumor</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOblNTakdjY21vaXF0WmdteGJ1ZU1EM2JxT2hwZFNyenJyYTRKOWRqWi1tQXZGM0JoS1phZDNTVGZ6ZlYzcFRqaFBPeEVDUXMwbDRLT0h5bFBFcnNId1NpYkhSazU5XzZLRGhsYkgzNjJWYTlMZU56RjVQSTNqV0c0VDFxM1JmNHlKV2JqUFc1dTNMSjF1Z0gxRzYxTk1WcWVZU3BLcElkbHBtU2J2V0RzTEY1Z3diUmxWemFBVmZCY2NicHpzaGc?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxOblNTakdjY21vaXF0WmdteGJ1ZU1EM2JxT2hwZFNyenJyYTRKOWRqWi1tQXZGM0JoS1phZDNTVGZ6ZlYzcFRqaFBPeEVDUXMwbDRLT0h5bFBFcnNId1NpYkhSazU5XzZLRGhsYkgzNjJWYTlMZU56RjVQSTNqV0c0VDFxM1JmNHlKV2JqUFc1dTNMSjF1Z0gxRzYxTk1WcWVZU3BLcElkbHBtU2J2V0RzTEY1Z3diUmxWemFBVmZCY2NicHpzaGc?oc=5)
 
 ---
 
@@ -198,11 +230,27 @@ permalink: /news/ripretinib/
 
 ---
 
+### [Tumore cutaneo, Ernesto operato a 100 anni: «Diritto alla cura e dignità valgono a ogni età» - Il Gazzettino](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW91WTlnWG9hMlVnek1zaW9TVk00dWRZdTNQeEFjNlRsNG9GelU0ck5ScDBweWwxZmZPcFdGbUZYc25pM1Q1M09raUhQWExuSUx4TzhFREJRMG5CQkk0bGxKRWp4UXJYTXBQbHYxRWZ4TFNfbTE3VFNsWXY1bzViRU02MFU3YXc2Rnc0aGFoNGExbVdDNnc4S3AzTHpKbnfSAZsBQVVfeXFMUEx2dURRMnlXZnFCdGdkeXV0RG51SFZ3VHpOamxhQml3SkpRU1IyZWhvdXhDTnVKTXZkYkJBZjBtY05jemtITmxBdU9qS1duWXowazNTNXBEMzRaRU9UZVZZWmZJQmxpNl9vWVd6VGdWZ3R3QTFUa2tRcWZZTmJmenFweUU4N19idXcxbWtsZ0llekloSGlGUTdYeVk?oc=5)
+
+2026-08-05 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Gazzettino](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcW91WTlnWG9hMlVnek1zaW9TVk00dWRZdTNQeEFjNlRsNG9GelU0ck5ScDBweWwxZmZPcFdGbUZYc25pM1Q1M09raUhQWExuSUx4TzhFREJRMG5CQkk0bGxKRWp4UXJYTXBQbHYxRWZ4TFNfbTE3VFNsWXY1bzViRU02MFU3YXc2Rnc0aGFoNGExbVdDNnc4S3AzTHpKbnfSAZsBQVVfeXFMUEx2dURRMnlXZnFCdGdkeXV0RG51SFZ3VHpOamxhQml3SkpRU1IyZWhvdXhDTnVKTXZkYkJBZjBtY05jemtITmxBdU9qS1duWXowazNTNXBEMzRaRU9UZVZZWmZJQmxpNl9vWVd6VGdWZ3R3QTFUa2tRcWZZTmJmenFweUU4N19idXcxbWtsZ0llekloSGlGUTdYeVk?oc=5)
+
+---
+
 ### [Tumori, scoperto 'l'interruttore' per 'spegnere' le difese del corpo](https://news.google.com/rss/articles/CBMie0FVX3lxTE03eUlkZW5QNXNIQUoza0prSHByeG5JVmQ0bUJRVVN3ZEdfUU5DZzZYVmozQUZWczFGRmVzVG8wVWs4VVFpNnQzRmlDU25uX29zXy0zVGRFbTBjczJhaE9tbjVtTjd1ekFxYmczeEQ0SXF1c185aWlrR0Jraw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">tumor</span>
 
 來源：[AGI](https://news.google.com/rss/articles/CBMie0FVX3lxTE03eUlkZW5QNXNIQUoza0prSHByeG5JVmQ0bUJRVVN3ZEdfUU5DZzZYVmozQUZWczFGRmVzVG8wVWs4VVFpNnQzRmlDU25uX29zXy0zVGRFbTBjczJhaE9tbjVtTjd1ekFxYmczeEQ0SXF1c185aWlrR0Jraw?oc=5)
+
+---
+
+### [The bitter truth about junk science](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
+
+2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[thecritic.co.uk](https://news.google.com/rss/articles/CBMibEFVX3lxTFBGM29iNFlqZmtoOW9rSF90cjNaWTk3ZlItSlBjbGFsYWh0SF80eG1yM0x1alJwYnljeTg5cmJDR0haSU45MC1RWkVyZ3NFR1NMTnZBLW1FZWlpdnFodzFlRV85Qnk2U1Y5SDhGUA?oc=5)
 
 ---
 
@@ -278,14 +326,6 @@ permalink: /news/ripretinib/
 
 ---
 
-### [Tumore ovarico, il supertest Hdr ora si fa nel pubblico: cosa cambia per le pazienti - La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3g3anRBb2wwSU5UVnplT041RjJWSjlNSUdQd2lJR0FlMmszUnNUU2lpbFhhT3ZBaExqSnlOMDgyME52aXV2ajctLWVtaXA4VlRiR1BHNjhKTXBKSnNrbEdKZFdLaExZTEI3cy02OUh4WnQtak16WktUbVJKN1QzLWZvWHhRQWtZWHVkMS11c1NYU1Y3NDRqSG9RSk1SaHZTMG1hZUc1c3JvVEVXdXl0SEZBRkFUUdIBuwFBVV95cUxNR2dtcGhYRTY5NlNUNVR5SGEwUk5PVkdXOEotOXdFRHZXQk55dDloTU1NRmNtYmNsc21TYS1rM21hdnFnQVlpZ2lZOXBScnNBQVdBUXFySXh5VFhZTTNERGpsV1ZOTUVvenpUTFFkS1ZNc0FlZnBNR2pUX2xhSEh0RUZ2UzJLd0RqbmtLQlZLM1VjbzBsUk4zMjBjUmg0Mmc4eFQ4LVcxV2c5LThsN2NpSzdOTURVbmJySWdJ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">carcinoma</span>
-
-來源：[La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3g3anRBb2wwSU5UVnplT041RjJWSjlNSUdQd2lJR0FlMmszUnNUU2lpbFhhT3ZBaExqSnlOMDgyME52aXV2ajctLWVtaXA4VlRiR1BHNjhKTXBKSnNrbEdKZFdLaExZTEI3cy02OUh4WnQtak16WktUbVJKN1QzLWZvWHhRQWtZWHVkMS11c1NYU1Y3NDRqSG9RSk1SaHZTMG1hZUc1c3JvVEVXdXl0SEZBRkFUUdIBuwFBVV95cUxNR2dtcGhYRTY5NlNUNVR5SGEwUk5PVkdXOEotOXdFRHZXQk55dDloTU1NRmNtYmNsc21TYS1rM21hdnFnQVlpZ2lZOXBScnNBQVdBUXFySXh5VFhZTTNERGpsV1ZOTUVvenpUTFFkS1ZNc0FlZnBNR2pUX2xhSEh0RUZ2UzJLd0RqbmtLQlZLM1VjbzBsUk4zMjBjUmg0Mmc4eFQ4LVcxV2c5LThsN2NpSzdOTURVbmJySWdJ?oc=5)
-
----
-
 ### [Miracle médical à Safed : un patient guéri d'un cancer métastatique grâce à un traitement innovant](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWZFaFJId1RqYVVqaHF4WkpReTBJTXVydjFnLVVNeEJ0b3FDbVJ3N3E3aFYtaU05N3Z1LWxybENjNElrUGNyeGI4bXJ1V2JPRVRTSzg4SnpGaE8xV2hzYVRxUUdmY05XOWZhUVF2TXVaamM2dGpzSWY0X1dMUGVHbk40amVSQTF2V09yV3dhdEhaUV9Va0FKb3g5bXpUYnlseHZ6MFh1VWUyNUFGZUtCeHVqdENpdGJjc1J0b0dqMzI0SHNGVUNCY0phQkpmSTdr?oc=5)
 
 2026-08-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -299,54 +339,6 @@ permalink: /news/ripretinib/
 2026-08-04 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNGNyTTQxd3I1bzhJQ3VtYjZQTTdheGlrd1JVTHQwYkhNWFFMUFBxd1dMVF93UmlZRUtzSnVaZXl1X2V6RXNldWJQZDZoSGFtbWxRM1AzcjFmLW8xUHNZN0hBUFJpWDBRazJMQ2dVWVl3bkU5dzczb2lVM0JhTTg0SW5KMmpCUVdiRXhicE50N09EYVFOWnBsdGlCeFFiSEhObU1WZS1LZXExbGVMVmxVNEM4QS02NjJrQzNaNUJCaG5lZzBXMUE5d3RhbUtWRWVUcVpIV3BtRVByZ3BvWnhyMDFpbW5yVWtP?oc=5)
-
----
-
-### [Auch bei negativem BRCA-Test: Brustkrebsrisiko deutlich erhöht](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5Dc0VnQlFZZkNDNGJaZUtRX3QwSkxCb3BfNktzdWxiUU1sT0xESURvX1k3NVhZeE1XYzZ1cWpxYkFzX1F2VFFZajJLNDNtblcwdFdueDBIZm5HTWZic1pma1Z3WEpCbzI0aUdsaDhqU3JMV3lPNGFYR2w3N1NmSWpDQXZFOUJxZ3J5RVU3azkxb2lKYnAxNUVvMmYzUGpqOEZYbG9Vaw?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5Dc0VnQlFZZkNDNGJaZUtRX3QwSkxCb3BfNktzdWxiUU1sT0xESURvX1k3NVhZeE1XYzZ1cWpxYkFzX1F2VFFZajJLNDNtblcwdFdueDBIZm5HTWZic1pma1Z3WEpCbzI0aUdsaDhqU3JMV3lPNGFYR2w3N1NmSWpDQXZFOUJxZ3J5RVU3azkxb2lKYnAxNUVvMmYzUGpqOEZYbG9Vaw?oc=5)
-
----
-
-### [Was weltweit die Überlebenschancen von Krebspatienten beeinflusst](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGVyOTZKa0ZOS05HR1NKWDQ1bkJneHItWXFRd2lKd0s0cWw2SmtnSm1lTWFYU1dzUlNaRTRBLUdvTV9SXzZIRl9Kd2JaZ1JEOVh6ZmJ3aGVJOEtRb0RQVnItSk03TUhrajZnQUFCcGFpeG40Zk5FYm9KZDNGUnBnR1BPUmN0VnBPMzBDdzU0Unk1YjJTRWs1LUFRSGlONkpEaDhxdA?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Krebs</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGVyOTZKa0ZOS05HR1NKWDQ1bkJneHItWXFRd2lKd0s0cWw2SmtnSm1lTWFYU1dzUlNaRTRBLUdvTV9SXzZIRl9Kd2JaZ1JEOVh6ZmJ3aGVJOEtRb0RQVnItSk03TUhrajZnQUFCcGFpeG40Zk5FYm9KZDNGUnBnR1BPUmN0VnBPMzBDdzU0Unk1YjJTRWs1LUFRSGlONkpEaDhxdA?oc=5)
-
----
-
-### [Forschungsergebnisse deuten darauf hin, dass Faktoren, die die Lebensspanne beeinflussen, achtmal wichtiger sind als die Genetik.](https://news.google.com/rss/articles/CBMingFBVV95cUxQSzNacFd3V1RhVzVQb2daYjg1UDEzY1ZSY002V0dXSXgxNExMdEZfRlRTLVFvWGZMcVF4Qmo5SzRFVDFZMXc1Uk5DcU9YcjdDMEpwVHdMSWl4TVBZbGdMeEw3b3pZcjN2dXFHT0x3V0RRMkdaR0lVcTlJd1RKTjhVcmQ3Vi1LMEZlb05zSC03eGVsMnAtZUdtRWpYTTNRUQ?oc=5)
-
-2026-08-04 <span class="news-indication-tag">Krebs</span>
-
-來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxQSzNacFd3V1RhVzVQb2daYjg1UDEzY1ZSY002V0dXSXgxNExMdEZfRlRTLVFvWGZMcVF4Qmo5SzRFVDFZMXc1Uk5DcU9YcjdDMEpwVHdMSWl4TVBZbGdMeEw3b3pZcjN2dXFHT0x3V0RRMkdaR0lVcTlJd1RKTjhVcmQ3Vi1LMEZlb05zSC03eGVsMnAtZUdtRWpYTTNRUQ?oc=5)
-
----
-
-### [Prostata, lo screening può salvare vite. Ma il PSA da solo non basta](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU5aZ3l1NXlGMTJoOC0ySjdHblBtdlF6WEZhaXlCVkdGdFoySjhLRHBvbmpaWlpaZTdxSHViUzNkSkNnNTNhS1hpVWxzbm5ENndLODBYUi1rRWxyWmZhM0xSelJ6eEFwcERjdC1qLUxWSGUwbnZMb3ZVZHFjN1gxcFFKdnZsdXZTRndyMzZ5em9fSnQwbm9rTWQ2Q2FfYV8zalpVSy1NamRWNjg3OS14Y25LbE1lYS1n?oc=5)
-
-2026-08-04 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU5aZ3l1NXlGMTJoOC0ySjdHblBtdlF6WEZhaXlCVkdGdFoySjhLRHBvbmpaWlpaZTdxSHViUzNkSkNnNTNhS1hpVWxzbm5ENndLODBYUi1rRWxyWmZhM0xSelJ6eEFwcERjdC1qLUxWSGUwbnZMb3ZVZHFjN1gxcFFKdnZsdXZTRndyMzZ5em9fSnQwbm9rTWQ2Q2FfYV8zalpVSy1NamRWNjg3OS14Y25LbE1lYS1n?oc=5)
-
----
-
-### [Arginina: l’amminoacido che può spegnere il radar contro virus e tumori](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVlTalY0c2hXNWdKOGJqamt2aDRoRi1ocXNJRThIeGMxQ1VER0RoZGdLT25qTDFSeUtZems1bTlaRWoyS2hmRU1aZDRZbnFveHZfVEFpMzRVb2UwQnRmOVAtdExDM01wMGlmMUR1eW1sbnVzWURTYS1hTFRfUjNGam1YX2VNdjNBcUoteTZ5MTdZWVVBMnpTb3lhRDVybzk4ajBDRlVUNWFlUzVSREhrQUhhYUlZX0NtU2d2RTZKTTVnMGJyWS01Sw?oc=5)
-
-2026-08-04 <span class="news-indication-tag">tumor</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVlTalY0c2hXNWdKOGJqamt2aDRoRi1ocXNJRThIeGMxQ1VER0RoZGdLT25qTDFSeUtZems1bTlaRWoyS2hmRU1aZDRZbnFveHZfVEFpMzRVb2UwQnRmOVAtdExDM01wMGlmMUR1eW1sbnVzWURTYS1hTFRfUjNGam1YX2VNdjNBcUoteTZ5MTdZWVVBMnpTb3lhRDVybzk4ajBDRlVUNWFlUzVSREhrQUhhYUlZX0NtU2d2RTZKTTVnMGJyWS01Sw?oc=5)
-
----
-
-### [Israelische Studie sorgt für Aufsehen: Viagra könnte gegen Krebs helfen - Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
-
-2026-08-04 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Berliner Zeitung](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGNPUTB3WHFiSFlhT05LT2Y0ZEExbkxQZjh5NWY2d2xFVGZyVm5vWXRQa2xIdUNfU0FlOGwxUkFGcWw0enMwYWpST0JUanppY0hfODVKbWoyemNMMnFDWllyeTRWdGZidDVtRTJCY0t4dzR2RWFIcGFSUFhwalpxTnJzeExSVGdDODUtaXlzTlRMYS1rY3dvZ1M2allYb3BONzNrcDdqX1g5UVZCZWhrMWxZQUFFdV82RlY1V0x3?oc=5)
 
 ---
 

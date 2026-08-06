@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexrazoxane Hydrochloride 有什麼相關新聞？">
-<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexrazoxane Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 <p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Sieben Ernährungstipps, die das Leben mit COPD spürbar leichter machen](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3lLWVA5OEZSamtnejFtcHhLcmt3Y20xaVhfRWwtaEE3NW45Q0stWmcxRl9zbHM1eGJvd3pLMmpHRlBMOGF2bmRFdGc1OU9vRk80dkdaREJTMmVTb3JDaG5HTGlkWUF3WE9EdlhfcnZGeE5pYVJZU05BcDV5SWxxSG0tVTZxVTc4dGRzajJpOEQxLVdBdXFTS0ZUOTQ4bVdscks4SmZSb3BFdzdpOWhZUzRKcXJUNmVZcDVXZllPV1JlbGtDMUtVQlJnd1R1MFJFWnc?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/dexrazoxane-hydrochloride/
 2026-08-05 <span class="news-indication-tag">EPOC</span>
 
 來源：[France 3 Régions](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTFrR21OLXo3ZjNDMk9hNkJXN0x2cV9uTHVQRUoyWW1xaTA1dmxHN3lCSU4yak1SUmVkV1JXMm1ZaUdDWnlzQk1nODh4Y0ZYRjh3N01HZkZKOXk2ZHZzWTd6cWQtMHZBX3RmcGRzcURTcVU0VzJYUFA5V2ZJNzJrd3h1bk94cXY2M0RzTXloZG1YbUlkazNyb0dlNFpGNVJfcjA5T25oN2hMaW9SdFRKaU10Y3Z6WmV4U2FGVnQwaEIwYzJERWxxeThfMjNZdGR6dVNVRDBjbjNGRlI0ZFo0?oc=5)
-
----
-
-### [Neurodermitis, COPD & Bronchiektasen: neue Therapie- und Versorgungsdaten - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
-
-2026-08-04 <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQazg5MDJELUJidVNZMGhyRW1qUUxpRGlaaVRNdGVacHhHeFhqN3lNeVFkOGZjSGdmVWhSQjhyTFB4REZxYlNDSVRycDZhcS1wdXFJbElvUDkwYVl4aHZZQTZYTGRIcS1IZDZqSUlOYkY0QUR2RlNsQ1JJdGlJbzYyTkJvcXZHSnJjVFdkX2N6LXhMX0tpSnRMVUZLMm5CZzFIUXc?oc=5)
 
 ---
 
