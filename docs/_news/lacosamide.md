@@ -14,7 +14,7 @@ permalink: /news/lacosamide/
 ---
 
 <p class="key-answer" data-question="Lacosamide 有什麼相關新聞？">
-<strong>Lacosamide</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lacosamide</strong> 目前有 <strong>43 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/lacosamide/
 <p><a href="{{ '/drugs/lacosamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（41 則）
+## 相關新聞（43 則）
 
-### [Leigh-Syndrom: KI- und Hirnorganoid-Studie setzt auf Sildenafil - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmxldHBHVmxIUjlFWGZGX2lHeks5NllGV3M2VGJvY19fbUNrMXc0dlhUd3l3X0RMNzhmd2VWa2tUMk5aS2JJX0txcTBBN1BFcmRZV3QxZ1FlcUJxWC1VOGpPRzgyOVBXYjFPR2ZuaXc0WjFVQk1mQ0x1RThMR0lmQ0Q4Tk5LdDBOYTlkY0huUTNybDZlYUJKVw?oc=5)
+### [Wie viel Kaffee am Tag ist ungesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUltVjZPbWZXT2dGTm1fU3dVazRjc0dsa2FLREdWeGRaSVpLQnYzOHB5d2FCaUJsNkx6OGZFVURKQ1hwcUFrcGtYblY2SkNlMEI3MEN1VXZlNFREbVFzaXZzdFRiTGRyRDRYSHhlcmhya1RCX1lkd2xRVHN3OTM1Qm4zM1RQYjNObkJBc2thTDhZeEl0aTY2emxHZDY5UFA4WUV5TnJTdXBUeHNnWHRUOVk2cUhnNU9BWE53T25qWWU0SjJXTi1uem5fMEljYjdoa1dFSg?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">AF</span>
+2026-08-07 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmxldHBHVmxIUjlFWGZGX2lHeks5NllGV3M2VGJvY19fbUNrMXc0dlhUd3l3X0RMNzhmd2VWa2tUMk5aS2JJX0txcTBBN1BFcmRZV3QxZ1FlcUJxWC1VOGpPRzgyOVBXYjFPR2ZuaXc0WjFVQk1mQ0x1RThMR0lmQ0Q4Tk5LdDBOYTlkY0huUTNybDZlYUJKVw?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUltVjZPbWZXT2dGTm1fU3dVazRjc0dsa2FLREdWeGRaSVpLQnYzOHB5d2FCaUJsNkx6OGZFVURKQ1hwcUFrcGtYblY2SkNlMEI3MEN1VXZlNFREbVFzaXZzdFRiTGRyRDRYSHhlcmhya1RCX1lkd2xRVHN3OTM1Qm4zM1RQYjNObkJBc2thTDhZeEl0aTY2emxHZDY5UFA4WUV5TnJTdXBUeHNnWHRUOVk2cUhnNU9BWE53T25qWWU0SjJXTi1uem5fMEljYjdoa1dFSg?oc=5)
+
+---
+
+### [Blutstammzell-Zellen erfrischen alternde Mikroglia – neue KI-freie Immunbrücke - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1lWVkxGeVFMdW9kUWRzOG9hTGNHcmVESUNrYXdsb29mNklTbDhUaGRJVGVMUnN3dk1OTkM5WXZXZDZQZTR5XzlMRjU0djFld05lSnFDSldQd0JfTi14Sk1GM0otNnZxUFFkUHU2U2hFYzBheVpxa0tsZkU3bi1mVUMxS2gwR2FRaVFFR0szMVpnbGs1dFc5VHFYSmppTV9QVGk2Q2RiWlZsVDdla0E?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQb1lWVkxGeVFMdW9kUWRzOG9hTGNHcmVESUNrYXdsb29mNklTbDhUaGRJVGVMUnN3dk1OTkM5WXZXZDZQZTR5XzlMRjU0djFld05lSnFDSldQd0JfTi14Sk1GM0otNnZxUFFkUHU2U2hFYzBheVpxa0tsZkU3bi1mVUMxS2gwR2FRaVFFR0szMVpnbGs1dFc5VHFYSmppTV9QVGk2Q2RiWlZsVDdla0E?oc=5)
 
 ---
 
@@ -86,19 +94,27 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Qué es el estrés crónico y cuáles son los síntomas para detectarlo a tiempo, según un experto - La Nación](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmlkOWxoeWIzam5ieHl3QjVzOWZrVW1JRVBpMUJtcVNaMEpvRG81NTU0di14V1I2RFJYLVZJNEkwM05oZmlFNmgyaUNkbDJqNHFKYW5kVXdNVTJNd0lhS1RDcnVoMnpMSnU5dWRuY2ZHVV9KZEh1ZjROWXoyTzVfRFR2VTRqdVZySFoteWNlUnp3Zzl6aDluV1dyTzNpek9Ib29USFhEWWwzbUs0SzJGNGUxUzNBTjhXbUtJMHlSWS1sbkRtUGNqQ19VT1AtektOOFlja1QxWVBZUQ?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[La Nación](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmlkOWxoeWIzam5ieHl3QjVzOWZrVW1JRVBpMUJtcVNaMEpvRG81NTU0di14V1I2RFJYLVZJNEkwM05oZmlFNmgyaUNkbDJqNHFKYW5kVXdNVTJNd0lhS1RDcnVoMnpMSnU5dWRuY2ZHVV9KZEh1ZjROWXoyTzVfRFR2VTRqdVZySFoteWNlUnp3Zzl6aDluV1dyTzNpek9Ib29USFhEWWwzbUs0SzJGNGUxUzNBTjhXbUtJMHlSWS1sbkRtUGNqQ19VT1AtektOOFlja1QxWVBZUQ?oc=5)
-
----
-
 ### [Warning for theme park tourists after visitor diagnosed with infectious disease - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM05URUkxTjJsVjVRNlIxbTNfdnVyb3NzX1ViclJjdnhWcFhBQl9yelp1TmNWaTFpWkdrc0hZaE8zQ1NjVmhJVF9pVnI1Z1dIMTliamJsazdSYTA2RXN4Y3VPM3hnWms5cjhpN0NSU2t5VUplQ0xiZlM4OW1zSkt2ZTRLbFZ1ZU3SAYwBQVVfeXFMUDd0a0xmWWpIU01jY0NOdWI5YUIwYXg3T3V6RUhyTzUydi1VLTRVcWYxeU10S0NEZHpHVlE0dWhGSWFrdjhHZzJkaVFQYzl1TGtsZVJIbDdaQzBteC1kMEhYaXNYQThGTnpxV0otMm1mQkRIODgzZTlWaEl4S2FOMGNzVVE0VzQ5ZFh4aGg?oc=5)
 
 2026-08-06 <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM05URUkxTjJsVjVRNlIxbTNfdnVyb3NzX1ViclJjdnhWcFhBQl9yelp1TmNWaTFpWkdrc0hZaE8zQ1NjVmhJVF9pVnI1Z1dIMTliamJsazdSYTA2RXN4Y3VPM3hnWms5cjhpN0NSU2t5VUplQ0xiZlM4OW1zSkt2ZTRLbFZ1ZU3SAYwBQVVfeXFMUDd0a0xmWWpIU01jY0NOdWI5YUIwYXg3T3V6RUhyTzUydi1VLTRVcWYxeU10S0NEZHpHVlE0dWhGSWFrdjhHZzJkaVFQYzl1TGtsZVJIbDdaQzBteC1kMEhYaXNYQThGTnpxV0otMm1mQkRIODgzZTlWaEl4S2FOMGNzVVE0VzQ5ZFh4aGg?oc=5)
+
+---
+
+### [Cagliari, zanzare al cimitero di San Michele e all’orto botanico positive al West Nile - L'Unione Sarda.it - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUHlfNV9SMHJuTUNHb3I5Ynd0NEZITHNnSFFHS29YZldPRG1uUURCUW1pbkxDa3NLOGYybVAwV1h0YlQ2Z3JkLVMzUEt2QWk3MGJicDB1RUN0MlZlUGtyYlNoN2FNa1VvalIyV0RaLXI2MjFZMlAtclZOejh1a0NCMU5GQThxaWhfMElEa1pYSDBqR2syWGwzNkVVODc2aW1teE9LN1REOVlrbnFrUzRGNjVYRkJ1TlN1SGVFbUFCU2l5MzlOYWthZFRYMDVQMjgzRTVLMFpUSGtuZ0HSAeMBQVVfeXFMUFc3cEZWcFRISVFBbm14V2FGOGNwN2pyT2tGRTZ6VGZFOXdZeEJVaXFWQVJ0LW00RVpVRkZKNmNHZF9qOGxzMkx2dnZQUTVZaEt3Y0JvLUM2RjRDSU9zN240UWtDNDFSaUU4a2V6SDNTNzhoUWk0c0ZlZExtd2lUQVJMcW8wbm5pSGZMZHo2VHVzNVJPMGQxcVN3SHRHNUVveUNaREhJLXE1RFJQYkZUbXYtX1BLd0lScVVtQXdicDljamZucWZYVF93MWdCNnpjVE5tSU1CQzZQZW4wekZsSEFoWTQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">AF</span>
+
+來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUHlfNV9SMHJuTUNHb3I5Ynd0NEZITHNnSFFHS29YZldPRG1uUURCUW1pbkxDa3NLOGYybVAwV1h0YlQ2Z3JkLVMzUEt2QWk3MGJicDB1RUN0MlZlUGtyYlNoN2FNa1VvalIyV0RaLXI2MjFZMlAtclZOejh1a0NCMU5GQThxaWhfMElEa1pYSDBqR2syWGwzNkVVODc2aW1teE9LN1REOVlrbnFrUzRGNjVYRkJ1TlN1SGVFbUFCU2l5MzlOYWthZFRYMDVQMjgzRTVLMFpUSGtuZ0HSAeMBQVVfeXFMUFc3cEZWcFRISVFBbm14V2FGOGNwN2pyT2tGRTZ6VGZFOXdZeEJVaXFWQVJ0LW00RVpVRkZKNmNHZF9qOGxzMkx2dnZQUTVZaEt3Y0JvLUM2RjRDSU9zN240UWtDNDFSaUU4a2V6SDNTNzhoUWk0c0ZlZExtd2lUQVJMcW8wbm5pSGZMZHo2VHVzNVJPMGQxcVN3SHRHNUVveUNaREhJLXE1RFJQYkZUbXYtX1BLd0lScVVtQXdicDljamZucWZYVF93MWdCNnpjVE5tSU1CQzZQZW4wekZsSEFoWTQ?oc=5)
+
+---
+
+### [Leigh-Syndrom: Sildenafil stabilisiert Nervenzellen in Hirnorganoiden - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmgxTl9kbzI4SlNMekRDRV9OcEMzQ2dkdjl4MDVkcXlNUFNrYUpjWVpHdDVfSDZ0bThra1VvYVlha3pkQ2hDenBpdWJST1NjNWRHeEJvdHpBdWFxVjJuOU9BSGtvdnNoczRWSWI0WU1mTVpfRUtGOWdXMXFwY00zeVdkYWxHWGd3U09qN1g1Z3BQTlJpZHQtVnVsWXZ4V3pvalBlblU5ODM3bTNhYVhxbHAzWUlUYXdU?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmgxTl9kbzI4SlNMekRDRV9OcEMzQ2dkdjl4MDVkcXlNUFNrYUpjWVpHdDVfSDZ0bThra1VvYVlha3pkQ2hDenBpdWJST1NjNWRHeEJvdHpBdWFxVjJuOU9BSGtvdnNoczRWSWI0WU1mTVpfRUtGOWdXMXFwY00zeVdkYWxHWGd3U09qN1g1Z3BQTlJpZHQtVnVsWXZ4V3pvalBlblU5ODM3bTNhYVhxbHAzWUlUYXdU?oc=5)
 
 ---
 
@@ -110,11 +126,11 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
+### [Especialista comparte recomendaciones prácticas para tratar la caída del cabello - Mayo Clinic News Network](https://news.google.com/rss/articles/CBMiygFBVV95cUxQNm14dXlTZXVob2M5dmt3VGJKRzR3TUNLVEdRMzlLWl9HRFZMeE1lNzFDeUx2Wm4xNkgwQWVWUzNkcER2RU15ZmRCZWRVYTQzNVdFVFlpaU9yT1Q2TE8zVVNMNDd0RkxrSmQ4SVZiV0hvbk5NZFczSlNRX1VsVHBfSExGYnJsVWtudVU1V2w0SEN2bGwzTWVNbkllWHMwYXczSGgtTTJxUlBQSGR6dWtCbEM2aDJSTjFRZDdFM3psUzFDN0kyQmZFSUxR?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">AF</span>
 
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
+來源：[Mayo Clinic News Network](https://news.google.com/rss/articles/CBMiygFBVV95cUxQNm14dXlTZXVob2M5dmt3VGJKRzR3TUNLVEdRMzlLWl9HRFZMeE1lNzFDeUx2Wm4xNkgwQWVWUzNkcER2RU15ZmRCZWRVYTQzNVdFVFlpaU9yT1Q2TE8zVVNMNDd0RkxrSmQ4SVZiV0hvbk5NZFczSlNRX1VsVHBfSExGYnJsVWtudVU1V2w0SEN2bGwzTWVNbkllWHMwYXczSGgtTTJxUlBQSGR6dWtCbEM2aDJSTjFRZDdFM3psUzFDN0kyQmZFSUxR?oc=5)
 
 ---
 
@@ -131,6 +147,22 @@ permalink: /news/lacosamide/
 2026-08-06 <span class="news-indication-tag">AF</span>
 
 來源：[antena3.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLTd6NEgyNy1ISk9tenBmMmZsVUtuMXJxaGlieDZxZWxWY2Z2eWdmUDNBTmZUQ0VRV2ZvMFZjQUtLLWM0M3V3Qk5lNXN6MTVjRHVLYS1MakcySm56YVY0VHd1R0ZlYjllUEhFTVZtd2UzV0NtclNKWElQdGowc1N5ODZ4X2RjWDJ5UXZzMTBIQ2xlLWI5NkQwSnQxd0JGZVEzWU1DMlMzeUFOUUZoM25XQ2ctaU5GUl92R0lyc0U5Y1VfWEk1Nzl1ck93TWY1TFp4OUHSAdIBQVVfeXFMUDVKem4yb3g5V0NOSGlISFk2eW95U0JiVmU5OVc0S0huSkNVd0YwVlJNRy15cFh0WWVpS1lpNWlxdnJudEtVY2VwZmtqdTR4R2hSTTkxN1hJV01GbWJKcmQxOTRsZXUyczVWdVBvTEswejRqMm54S0F1ZXJmM2xXMnpZQ3FuLS0ya1JPZHpuNGpwTnBUMzlhRkpyRkFSRUprOXdTamlGc1BiSDMyMnExVmZWdnZ1eGpyNDdVeEMzWTZGSWlhNDJfbDdUNFB1WTFCeWhB?oc=5)
+
+---
+
+### [Hundreds of deaths suspected of being linked to weight-loss jabs reported to regulator - Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
+
+---
+
+### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+
+2026-08-06 <span class="news-indication-tag">migraña</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
 
 ---
 
@@ -206,14 +238,6 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Wie viel Kaffee ist gesund? Was Fachleute zu Koffein, Stimmung und Risiken sagen](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZDlIcU11ZVFENllLZ2UyS19uVHJ0MEhkR09jUHl1aEpIbVUtdWE3NlNVazA3UDdrUTlxemJTMThhSUp3b3otSEc1dlE3OENyblFiaEFIcjh3VDJXSHdGekExWnd5eEVtQUhhTW9WeWRudmNpY2R0U1FUbk5XaDNsRDJ4aW5mcXI3X0NVSWs5Qmlab29jMVltV3Y3Wld3aFpFX2JmNUloeE9vX3dmcnV3STl6Njg5RVFPV2MtdUZPSGlzTkFXc0tpVFVybnJpMzNSeDZpd2QtUQ?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[mittelbayerische.de](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZDlIcU11ZVFENllLZ2UyS19uVHJ0MEhkR09jUHl1aEpIbVUtdWE3NlNVazA3UDdrUTlxemJTMThhSUp3b3otSEc1dlE3OENyblFiaEFIcjh3VDJXSHdGekExWnd5eEVtQUhhTW9WeWRudmNpY2R0U1FUbk5XaDNsRDJ4aW5mcXI3X0NVSWs5Qmlab29jMVltV3Y3Wld3aFpFX2JmNUloeE9vX3dmcnV3STl6Njg5RVFPV2MtdUZPSGlzTkFXc0tpVFVybnJpMzNSeDZpd2QtUQ?oc=5)
-
----
-
 ### [Nurse retires after 36 years on front line of HIV treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoS0dYbDNXaXZVTHJ1MU9nZ3FwcFFoUEFMTG5xaERwX09vMUJhNEdLZWRMUmMxeVRMaTJZNjdpVXFJX3d0MDd0Mk50aC12Q3dBY0hoZjBrbHRUdFVQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">AF</span>
@@ -230,43 +254,19 @@ permalink: /news/lacosamide/
 
 ---
 
-### [Dans l’est de la RDC, où sévit l’épidémie d’Ebola, la baisse des aides internationales fragilise la prise en charge des plus démunis - Le Monde.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOSVl4MjRrWi0yZTZ2cFIzekdtX18xUmF3UUt0UG01V3NtaXZnazJfNWdWR3pfeGZYOS1HcmxsRmRySlpPb1Q0dE5Zb3FsMTVkbHduLUU3cDJZcVZ1aV9FQkk1ZU9ZM3pMd2tuVVlTaGNCR2YyMmlHUDFUbnNwSXVOSm91dlVzWEZQU1hKSWRnN0hoMUM5X25TbnVuQ3pxQnp1WlhSbmxIYlEwMS1vbmNVYjE2dURIbmhOOTFWclBsYlR0VzFqcFhELUplTE53WEVZM3lJbFJoZldJMWpndWlteFZLbXZlN1hIdTJaWl9iOGUxdjZla3RyTWhuakx1c3Qwak1wejNQMXlVdUJyQ2hZcGdBMzZLeENPcEwxVHVQTnpzZlhK?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMipAJBVV95cUxOSVl4MjRrWi0yZTZ2cFIzekdtX18xUmF3UUt0UG01V3NtaXZnazJfNWdWR3pfeGZYOS1HcmxsRmRySlpPb1Q0dE5Zb3FsMTVkbHduLUU3cDJZcVZ1aV9FQkk1ZU9ZM3pMd2tuVVlTaGNCR2YyMmlHUDFUbnNwSXVOSm91dlVzWEZQU1hKSWRnN0hoMUM5X25TbnVuQ3pxQnp1WlhSbmxIYlEwMS1vbmNVYjE2dURIbmhOOTFWclBsYlR0VzFqcFhELUplTE53WEVZM3lJbFJoZldJMWpndWlteFZLbXZlN1hIdTJaWl9iOGUxdjZla3RyTWhuakx1c3Qwak1wejNQMXlVdUJyQ2hZcGdBMzZLeENPcEwxVHVQTnpzZlhK?oc=5)
-
----
-
 ### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
 ---
 
-### [Consumo de cannabis en la adolescencia podría afectar el desarrollo de la memoria y funciones cognitivas - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkh6dUtwVkZDX2tRa2hqeUxFVGJSMVgtWjFxb2xsYlhXX05KN1J2TVBZR0ZremNQY1F4N2dmUE5lTHhOTjR4cHctLVNXUDdVTlZGOUVqVU43WVpJYTNaOWlXSm9tRGpSX3NlZWRpRTRjVFBVRWhTcFBHVGZaSmhiMFI3dWtCX2VfdFNkYmhCenNiLUlzTUhsQVpyaGg2QTJZeHUzYjNXRXhRN1hERUJtNURyQy1lREQ4akJ0NnZKdUJSVmlkMWd3TmtMRjk4X1pvZWVDWWJmTjAtRzFvNGwzeFBaMXFqY1dYRWNKM3VNWU9hN0RjMXpr0gH8AUFVX3lxTE12bmRqdFpMWGZ0ejhkQkI4VUo0NjYycHo4a1MyQlFVNDZnUUM3aV9lNlc2dHQ3Vklpa1hRNTAyc01kd3hWT3NKOEVNVmswbm9fNHVFZ3l0QVR5Rmh3WnpzN0RMR0xaRWw3ckNya2JHWWZlVEo4UWJLUG5NbDJUcDFOTFRoOGhQUmY0MXZIUzVaYXE2cEM4YnVxNWhldGdrNVBIVTI3bkRPbjZWZlk1Z0xaZVFUaHZob3UtLUtWcjBFdkwwVlM1WkdoM0ZRTEkwWUJSNXRoWlN1ZFpHTWlPTlBWSUstREZtbXNMLWtVSGlDemJCM3liWDJ3djBYNw?oc=5)
+### [Birth order may influence your disease risk later in life, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVlwN3dRRmRJLW93OUZBZ0s4X2ZYYTlxLWktcGFaSnlEMFoxUm03M3Z3X2NnVjRBSXUta3JHc09JLU1LYlhuQzZGanNHcDNmYXg4eElmRkNkRkMyaS1pdlVmaHlCWlNKSkpSN3VEOA?oc=5)
 
-2026-08-06 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
+2026-08-05 <span class="news-indication-tag">AF</span>
 
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkh6dUtwVkZDX2tRa2hqeUxFVGJSMVgtWjFxb2xsYlhXX05KN1J2TVBZR0ZremNQY1F4N2dmUE5lTHhOTjR4cHctLVNXUDdVTlZGOUVqVU43WVpJYTNaOWlXSm9tRGpSX3NlZWRpRTRjVFBVRWhTcFBHVGZaSmhiMFI3dWtCX2VfdFNkYmhCenNiLUlzTUhsQVpyaGg2QTJZeHUzYjNXRXhRN1hERUJtNURyQy1lREQ4akJ0NnZKdUJSVmlkMWd3TmtMRjk4X1pvZWVDWWJmTjAtRzFvNGwzeFBaMXFqY1dYRWNKM3VNWU9hN0RjMXpr0gH8AUFVX3lxTE12bmRqdFpMWGZ0ejhkQkI4VUo0NjYycHo4a1MyQlFVNDZnUUM3aV9lNlc2dHQ3Vklpa1hRNTAyc01kd3hWT3NKOEVNVmswbm9fNHVFZ3l0QVR5Rmh3WnpzN0RMR0xaRWw3ckNya2JHWWZlVEo4UWJLUG5NbDJUcDFOTFRoOGhQUmY0MXZIUzVaYXE2cEM4YnVxNWhldGdrNVBIVTI3bkRPbjZWZlk1Z0xaZVFUaHZob3UtLUtWcjBFdkwwVlM1WkdoM0ZRTEkwWUJSNXRoWlN1ZFpHTWlPTlBWSUstREZtbXNMLWtVSGlDemJCM3liWDJ3djBYNw?oc=5)
-
----
-
-### [Birth order may influence your disease risk later in life, study finds](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVlwN3dRRmRJLW93OUZBZ0s4X2ZYYTlxLWktcGFaSnlEMFoxUm03M3Z3X2NnVjRBSXUta3JHc09JLU1LYlhuQzZGanNHcDNmYXg4eElmRkNkRkMyaS1pdlVmaHlCWlNKSkpSN3VEOA?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[medicalxpress.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVlwN3dRRmRJLW93OUZBZ0s4X2ZYYTlxLWktcGFaSnlEMFoxUm03M3Z3X2NnVjRBSXUta3JHc09JLU1LYlhuQzZGanNHcDNmYXg4eElmRkNkRkMyaS1pdlVmaHlCWlNKSkpSN3VEOA?oc=5)
-
----
-
-### [Pancreatitis — how great is the risk of weight-loss medication? - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2dBNW5WR21JWXdVUGlKd0dJSmtZU05nY0tVMHFvdEdSRnZzM1hOOGxfWVg1aVAxb0MybUs4bWdEUE8taUc0WkQwajk1UktrWnY4eWNwX3FwcG5CZ2VGMkZSSktjM3E4ZmtKbUVDR2EyWVZuMjNTdWpraERHMTJhbnkxZzVzQUR2NklzVUNoWVhJYW55dkFKUGpqc3M3eW8?oc=5)
-
-2026-08-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2dBNW5WR21JWXdVUGlKd0dJSmtZU05nY0tVMHFvdEdSRnZzM1hOOGxfWVg1aVAxb0MybUs4bWdEUE8taUc0WkQwajk1UktrWnY4eWNwX3FwcG5CZ2VGMkZSSktjM3E4ZmtKbUVDR2EyWVZuMjNTdWpraERHMTJhbnkxZzVzQUR2NklzVUNoWVhJYW55dkFKUGpqc3M3eW8?oc=5)
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVlwN3dRRmRJLW93OUZBZ0s4X2ZYYTlxLWktcGFaSnlEMFoxUm03M3Z3X2NnVjRBSXUta3JHc09JLU1LYlhuQzZGanNHcDNmYXg4eElmRkNkRkMyaS1pdlVmaHlCWlNKSkpSN3VEOA?oc=5)
 
 ---
 
@@ -275,6 +275,14 @@ permalink: /news/lacosamide/
 2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTJXRG5ETTZpR3JyVFRheDRpME1ocVlPeGZiZmVFQnNGYUhaT1AwZEJuQmstU3JxNTFtcG9vdkhrU2lCVFBfMUxKTGtFa0tFYUhYVHZqeU1ZV1U0UzFXcjNyS1BKS05rTXA0MmNRMkRlX2dvUm5TNk1TN0JRbDNTZG9qdVpSRDlMdjNQOGFOemJKYWs?oc=5)
+
+---
+
+### [Schnarcher erkranken seltener an Demenz als Nichtschnarcher - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWNJYjNzdUFuNE9aV0t0WXpBYmM2a3F0Qko1MWNBc1hJRTJKY2RRb25tbjJKZTBuTWw0VHVTNnhyaThBWU1MOWEyQlBFMV9YVExfUU41dlNBRmk5WWtyUC1YQlpsVmozUEdGaEtHbTVsdUl4SDNpVW9wX3VTZ05OQUtadi1RRHdTbWx1QlJiR19oOFhiVFVNZ0ZSLWhQLWNmRVo1VUZqRlBCejFnR2JFcHZPVnIyYjF5MF9fR1lxQkNwRlk?oc=5)
+
+2026-08-05 <span class="news-indication-tag">AF</span>
+
+來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWNJYjNzdUFuNE9aV0t0WXpBYmM2a3F0Qko1MWNBc1hJRTJKY2RRb25tbjJKZTBuTWw0VHVTNnhyaThBWU1MOWEyQlBFMV9YVExfUU41dlNBRmk5WWtyUC1YQlpsVmozUEdGaEtHbTVsdUl4SDNpVW9wX3VTZ05OQUtadi1RRHdTbWx1QlJiR19oOFhiVFVNZ0ZSLWhQLWNmRVo1VUZqRlBCejFnR2JFcHZPVnIyYjF5MF9fR1lxQkNwRlk?oc=5)
 
 ---
 
@@ -294,19 +302,27 @@ permalink: /news/lacosamide/
 
 ---
 
-### [The autism spectrum has become too broad](https://news.google.com/rss/articles/CBMieEFVX3lxTE9ORE4tQWtBSm9TcW9PUlRRWVRYaWZNV0U5c2VLV3NHeU5hUDRFYjZSZlhHNlE3eWhoZUtxZk9pd21ET2hLcng5TzlFRFU1cGQ4aDA3V0dHMWE5Q2lBeTJzR2g4NGJSNE16Z0tnNEpVR3kzMGpFclV6ZQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">AF</span>
-
-來源：[UnHerd](https://news.google.com/rss/articles/CBMieEFVX3lxTE9ORE4tQWtBSm9TcW9PUlRRWVRYaWZNV0U5c2VLV3NHeU5hUDRFYjZSZlhHNlE3eWhoZUtxZk9pd21ET2hLcng5TzlFRFU1cGQ4aDA3V0dHMWE5Q2lBeTJzR2g4NGJSNE16Z0tnNEpVR3kzMGpFclV6ZQ?oc=5)
-
----
-
 ### [Crean una aplicación para prevenir la depresión mediante seguimiento diario y apoyo personalizado](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3AtZlcxQ25nNzE1XzdaZlVYTk5NQS1LS0lrakNmeWE3b0hKaTZYVzZzUjlwV1lOTTZVTzJCNTVTeEhVamkzZG1EMUduNmNybXU0MFlnVFVXRU9GZ2g1QXhsWXh3WEx6QTN2dFFvQUg2SEwxNVp3d3pzV2Izc3ZnM09ROFhhQQ?oc=5)
 
 2026-08-05 <span class="news-indication-tag">depresión</span> <span class="news-indication-tag">AF</span>
 
 來源：[GNDiario](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3AtZlcxQ25nNzE1XzdaZlVYTk5NQS1LS0lrakNmeWE3b0hKaTZYVzZzUjlwV1lOTTZVTzJCNTVTeEhVamkzZG1EMUduNmNybXU0MFlnVFVXRU9GZ2g1QXhsWXh3WEx6QTN2dFFvQUg2SEwxNVp3d3pzV2Izc3ZnM09ROFhhQQ?oc=5)
+
+---
+
+### [Girl, 16, diagnosed with leukaemia after ‘very strange’ symptom - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlhPMWhoNWdkWjZ4VktnaEN5RGFPQ3dxb1ZYSWh6bFM2TUtna08xWlhXSnZMdU5CRDdqeEFGQUF0cHIzVDVnT2RXSk91RDBSTmVUWEJPWU5NcnVzNUFHaUE0Q0R2eXU3R3dRQmRCa1BDZlNnNjluVThSNENNNTItMjM3LXc2NGhhUXg5NGNabzRrenVDLXQ5TmpwdWhESzJHdVdlY01jekV6VkpXM1k2aWxLeUU?oc=5)
+
+2026-08-05 <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlhPMWhoNWdkWjZ4VktnaEN5RGFPQ3dxb1ZYSWh6bFM2TUtna08xWlhXSnZMdU5CRDdqeEFGQUF0cHIzVDVnT2RXSk91RDBSTmVUWEJPWU5NcnVzNUFHaUE0Q0R2eXU3R3dRQmRCa1BDZlNnNjluVThSNENNNTItMjM3LXc2NGhhUXg5NGNabzRrenVDLXQ5TmpwdWhESzJHdVdlY01jekV6VkpXM1k2aWxLeUU?oc=5)
+
+---
+
+### [Consiguen que ratones ciegos vuelvan a ver con un colirio sin cirugía ni implantes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmhGbkJKdjBGMTBYT0Rkbk5SbEhlNlI4M2NxUVNtOGJlMGdKTzdaeV9ZZ3ptZmF4a2tCY0F6T0lXRHpna05ZZGh2dUZIYnlSdG5KTGxTM0FJWlpwbm5LakY3VDVIUmZtMk9xTUpIcWZqNi10Q3NnVGdhTGQtNThtWUNlc0IyNWlSQ2t4akVlVDNEU3dCVGhSSExFdkllNXZ0Z2N3QlJPWG9tZw?oc=5)
+
+2026-08-05 <span class="news-indication-tag">AF</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmhGbkJKdjBGMTBYT0Rkbk5SbEhlNlI4M2NxUVNtOGJlMGdKTzdaeV9ZZ3ptZmF4a2tCY0F6T0lXRHpna05ZZGh2dUZIYnlSdG5KTGxTM0FJWlpwbm5LakY3VDVIUmZtMk9xTUpIcWZqNi10Q3NnVGdhTGQtNThtWUNlc0IyNWlSQ2t4akVlVDNEU3dCVGhSSExFdkllNXZ0Z2N3QlJPWG9tZw?oc=5)
 
 ---
 

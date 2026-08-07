@@ -64,7 +64,7 @@ permalink: /news/ziconotide/
 
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
@@ -86,11 +86,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
 
-2026-08-05 <span class="news-indication-tag">obesidad</span>
+2026-08-06 <span class="news-indication-tag">migraña</span>
 
-來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
 
 ---
 

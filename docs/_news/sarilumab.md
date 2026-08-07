@@ -62,19 +62,19 @@ permalink: /news/sarilumab/
 
 ---
 
-### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
+### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
-2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
+來源：[gacetamedica.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
 ---
 
-### [¿Fibra dietética y menor riesgo de enfermedad de Crohn?](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzlETXRHcWxnbzQ1MlVyemZkM25wTlB1aENhTzhrQmFIbWZyZE5FTmlMN3dHbUpCYW9NR0Q1d3dCY013OFhtblU1YUVLbFpyc09WTE1weHB1NzFvX0MtYmw0NnhVR042dUdQaXN4Z25NZ19iMEhtT1BfTjFDdHgxSS1qM0NUaDlkTzc3NTFrWGhpeG1wOFFxZmk4MHRpZG94Z3R6T09sTUlKLVI0ZDhVZHF0bFVydWk2VzhtOWlvbWwxYVM4TFdjSmw3bkNTWjRlSzUwVFk3SmlESGRPNHU0YzVZOHdkQQ?oc=5)
+### [¿Fibra dietética y menor riesgo de enfermedad de Crohn?](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlNtX0FjeWlBb0FQMUNEWTFpeTMyRGIxSHJnMHFBYnJyUGFFRHI0M0ZELWlibWRGUDVNdDdkYzhCX1RiUWxyTkRhWFJIUmVuQmh0Wk9KZjBRSHVHWm1EUDhkODJzLXU0R3ZwaE9Gc0xkZzVUdFZ5cWZhc0VqcUhRcEtkS3BIY21IdFozVWw2ZFlqMGdxUXJRblNlMndRRlRlWmJHa05JcVVXb0xZbHc?oc=5)
 
 2026-08-06 <span class="news-indication-tag">enfermedad de Crohn</span>
 
-來源：[Univadis](https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzlETXRHcWxnbzQ1MlVyemZkM25wTlB1aENhTzhrQmFIbWZyZE5FTmlMN3dHbUpCYW9NR0Q1d3dCY013OFhtblU1YUVLbFpyc09WTE1weHB1NzFvX0MtYmw0NnhVR042dUdQaXN4Z25NZ19iMEhtT1BfTjFDdHgxSS1qM0NUaDlkTzc3NTFrWGhpeG1wOFFxZmk4MHRpZG94Z3R6T09sTUlKLVI0ZDhVZHF0bFVydWk2VzhtOWlvbWwxYVM4TFdjSmw3bkNTWjRlSzUwVFk3SmlESGRPNHU0YzVZOHdkQQ?oc=5)
+來源：[Univadis](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlNtX0FjeWlBb0FQMUNEWTFpeTMyRGIxSHJnMHFBYnJyUGFFRHI0M0ZELWlibWRGUDVNdDdkYzhCX1RiUWxyTkRhWFJIUmVuQmh0Wk9KZjBRSHVHWm1EUDhkODJzLXU0R3ZwaE9Gc0xkZzVUdFZ5cWZhc0VqcUhRcEtkS3BIY21IdFozVWw2ZFlqMGdxUXJRblNlMndRRlRlWmJHa05JcVVXb0xZbHc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Les médicaments anti-obésité sont désormais remboursés : quelles sont les conditions pour être bénéficiaire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
 
@@ -64,7 +64,7 @@ permalink: /news/bupropion/
 
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
@@ -83,14 +83,6 @@ permalink: /news/bupropion/
 2026-08-06 <span class="news-indication-tag">obesidad</span>
 
 來源：[Redacción médica](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTkc4TlUxbDdFQThpR0lsX05nRUJVX2dPbkdtQ0pGU3dNVkpYek1FOGQ0elFOb3dsT25TeE92RTRodV9tRlJZU1dQVWRnc3ZrQ0JGNGNUWllHc3N2UFQzWGtOZy1ZMno1NGRwbS1naE92and3WDlzZ3QzTGpSTnNRaW1fQm8wb29td3kzNmd5Q3dnZ3JXRnhpaEZVM0E4VjhqWmdhWDF0a002eFVGTzk1UFVDQTUwQzNSVkhKby0wbWNlNHlVeThrNXpjLWFpRFJvc2VWSGFHSDQ5aEdUaDV0dTBEaEtfdmRhcW9RdXcyQWFXMlox0gH6AUFVX3lxTE5tLWZUdmttdlJFd3JKWFVLVG05MjROQ3c5SnJEaVI4TTlwbXZ5MUhpT2tjbHF5VGswSlF6TXhoZXN4UHRoNGZITWNneE9qY0p1am43T1BIdk1Cd1lmMkk4dGpRa1lTc2V1SWNDU29HSXpwOXFIeXRqYjBQX1J1ck9hYk5XTnl5UjM3YzJVVTdyUDdxamRtQmRTMHNtQ2JFUjYtQXBkTjluME9VS1Y2YzhXclBNMTlPMWFLRExOT0hBVEVYdGc0NW02NUVwZnF4UHN0VC0wR1FlcXpldEJ4bkJ0b2ZoVXRCa0hlampSZEtVMy1Jd19KemhPQ3c?oc=5)
-
----
-
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
-
-2026-08-05 <span class="news-indication-tag">obesidad</span>
-
-來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
 
 ---
 
