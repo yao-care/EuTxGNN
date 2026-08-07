@@ -14,7 +14,7 @@ permalink: /news/voclosporin/
 ---
 
 <p class="key-answer" data-question="Voclosporin 有什麼相關新聞？">
-<strong>Voclosporin</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Voclosporin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,29 @@ permalink: /news/voclosporin/
 <p><a href="{{ '/drugs/voclosporin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（10 則）
 
-### [Dolci e cervello, dietro le tentazioni c'è una ragione scientifica](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
 
-來源：[Adnkronos](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
-
----
-
-### [AID-Systeme in der Diabetestherapie: Fortschritt und Versorgungsrealität](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDFGaU16SlRCYnBKVG5lNVpvRUJsVlhuMTdtTnpiSmhTMDlEWFpLT0otUzQ3bTNLNTgtN09vTXIzWHBWTjNlRDBFZlExZUVrRS1sbjBUNXRzdEROaUtQNl9YSkRDd0dyOURtQlN4QlR3YU5abEhHRkthN2h0ZEFvLUdTcUI?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDFGaU16SlRCYnBKVG5lNVpvRUJsVlhuMTdtTnpiSmhTMDlEWFpLT0otUzQ3bTNLNTgtN09vTXIzWHBWTjNlRDBFZlExZUVrRS1sbjBUNXRzdEROaUtQNl9YSkRDd0dyOURtQlN4QlR3YU5abEhHRkthN2h0ZEFvLUdTcUI?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
 
 ---
 
-### [FNIP1-Gen: Natürliche Mutation schützt zu 60% vor Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1RfUDVBR2lTYy12Njlyekljc0Z0amxNY1cxNUZveHZVLTFtc1JSaTBnQkNCQXA5NmVnNGlVNEU3dDdjTXhrNGlPdmVoNER4VmtYcnJpdXVQNDIzQXdJZFhDRmN1ZTZhLWFRVDJpZnd4aXN0VDA4UldfZTIyY1JPckVWWXM0WnVDLUw1TkZRbDhNaklRR1N1Uk95djFKbXZMN2lMMExtZkw5S2tTUkxvY0xJNUVPdw?oc=5)
+### [Diabetes: Dieses Probiotikum zeigt vielversprechende Wirkung](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUNrVnVSdFZYVUlCTGR2ejZEMEVMWGk1MUo1YUo3b2pIRlg2bEd0MkxnRE4zTXMzOWhTM2hPaDBQby1OUlg0MXVKQ3d0T25jeURhM1ZQbGZmYjlLZXpMblBDS2ZzbjJyYUkwbHVsWk5QeEIxQnpDRndjbG5UNFlLdFNtT3dCYjZwWXdTcmFONUJBeElhRWstNmhhTU5DR1doNHgzV3NTWWN0cngybVB3RnoxUXlyWDBQUk4zVw?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetes</span>
+2026-08-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1RfUDVBR2lTYy12Njlyekljc0Z0amxNY1cxNUZveHZVLTFtc1JSaTBnQkNCQXA5NmVnNGlVNEU3dDdjTXhrNGlPdmVoNER4VmtYcnJpdXVQNDIzQXdJZFhDRmN1ZTZhLWFRVDJpZnd4aXN0VDA4UldfZTIyY1JPckVWWXM0WnVDLUw1TkZRbDhNaklRR1N1Uk95djFKbXZMN2lMMExtZkw5S2tTUkxvY0xJNUVPdw?oc=5)
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUNrVnVSdFZYVUlCTGR2ejZEMEVMWGk1MUo1YUo3b2pIRlg2bEd0MkxnRE4zTXMzOWhTM2hPaDBQby1OUlg0MXVKQ3d0T25jeURhM1ZQbGZmYjlLZXpMblBDS2ZzbjJyYUkwbHVsWk5QeEIxQnpDRndjbG5UNFlLdFNtT3dCYjZwWXdTcmFONUJBeElhRWstNmhhTU5DR1doNHgzV3NTWWN0cngybVB3RnoxUXlyWDBQUk4zVw?oc=5)
+
+---
+
+### [Retinopatia diabetica: non è soltanto colpa dello zucchero. Il dialogo tra cellule che danneggia la retina](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetic</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
 
 ---
 
@@ -86,35 +86,19 @@ permalink: /news/voclosporin/
 
 ---
 
-### [El adelgazante Mounjaro demuestra que protege frente a infarto e ictus - Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
-
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
-
----
-
-### [AI in Diabetes Management: Neural Architecture Search for Blood Glucose Prediction](https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzNYNC14R2dpYXZmajd3ckhINHRGOXQ0MjBwempPQmc0VnVxLUlxTzQ1cmI0Rkx5c2RVMUtkZmhvYm9wZkNLRXItUXJ5d2ZCNXB0Wk05RzdNRlkyRTZNaWtsMmRrenRyRDVhQm52R2NxQnJDZUF5VUR3Y0lXSnJ0eFU0b0JVSldhQkZ1VVJUM096Qk5pTFN2Z0I5Q2lfZkVUNXBvRnAyNlBRQTZfa1E?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabetes</span>
-
-來源：[springerprofessional.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzNYNC14R2dpYXZmajd3ckhINHRGOXQ0MjBwempPQmc0VnVxLUlxTzQ1cmI0Rkx5c2RVMUtkZmhvYm9wZkNLRXItUXJ5d2ZCNXB0Wk05RzdNRlkyRTZNaWtsMmRrenRyRDVhQm52R2NxQnJDZUF5VUR3Y0lXSnJ0eFU0b0JVSldhQkZ1VVJUM096Qk5pTFN2Z0I5Q2lfZkVUNXBvRnAyNlBRQTZfa1E?oc=5)
-
----
-
-### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
-
----
-
 ### [Glicemia più alta col caldo estivo? Perché la disidratazione "concentra" lo zucchero nel sangue](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFczc0RzSXRaNFFhSEk5OTFkWG43Y2FsMWxIdS14TWE5b0VWSmxWMlNHSWQ4UXpUYWQ1b19Vc3EwNEdWRzJ3VDhSellkNDBfR0dYQlBPdHJoNzFMVlJyVXdsa19yZkpUWl9aV2phaXVYWndwMER6dkhFYzQ3Qk96TEJhQ2tSMzA2cE40dFF2dmlPM0xLNHJWTEFuc0lOMkgtajdwLXJBYjRWNTNYa0xZem9kbVhsTEU5dkM1NGYzRnptSXRYcFluVnJERzBBVnFkeVBLUQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabete</span>
 
 來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFczc0RzSXRaNFFhSEk5OTFkWG43Y2FsMWxIdS14TWE5b0VWSmxWMlNHSWQ4UXpUYWQ1b19Vc3EwNEdWRzJ3VDhSellkNDBfR0dYQlBPdHJoNzFMVlJyVXdsa19yZkpUWl9aV2phaXVYWndwMER6dkhFYzQ3Qk96TEJhQ2tSMzA2cE40dFF2dmlPM0xLNHJWTEFuc0lOMkgtajdwLXJBYjRWNTNYa0xZem9kbVhsTEU5dkM1NGYzRnptSXRYcFluVnJERzBBVnFkeVBLUQ?oc=5)
+
+---
+
+### [Diabetes kann Wechseljahre deutlich verschlimmern](https://news.google.com/rss/articles/CBMilwFBVV95cUxObld0NmRqVWNsOEV2cklVWGt0MmVIakxlS2trcU56OHpYYVdGcVRqb3BqWTBYWnNaOFQzU2c5NG1tQU9GRnQzSUU1Y1FRMF9TZWtIVnlXQ0JwUlg5aGFBQXF6bVlra3lxUm9fYnNHQ0puSlJYSF8xcEpoa3Q0b3NfQUw2VDVvNWtVY3JCNVJWNHhoUnI5b0JB?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[Kurier](https://news.google.com/rss/articles/CBMilwFBVV95cUxObld0NmRqVWNsOEV2cklVWGt0MmVIakxlS2trcU56OHpYYVdGcVRqb3BqWTBYWnNaOFQzU2c5NG1tQU9GRnQzSUU1Y1FRMF9TZWtIVnlXQ0JwUlg5aGFBQXF6bVlra3lxUm9fYnNHQ0puSlJYSF8xcEpoa3Q0b3NfQUw2VDVvNWtVY3JCNVJWNHhoUnI5b0JB?oc=5)
 
 ---
 
@@ -128,17 +112,17 @@ permalink: /news/voclosporin/
 
 ### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
 
 2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
 
 ---
 

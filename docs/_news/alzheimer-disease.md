@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
+### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ? - Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+
+2026-08-07
+
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+
+---
+
 ### [Three middle-age health habits that could delay dementia for 13 years - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFdFZ0lXV2hEbzlrVHpGenFtcGlnMjl0NlhZdFBINDh3MHF3REVzczY4ZE84Y0Z5VFlVbmFFTzZyWHVBLXppNE1RVWpINUEybHF6LVRaenlQWmN1ZnJfTVptVWN5eWVER1hzUXBVdy1NZ2lvLUJrYnB5a3dwbXktbE9JbVR0SFR5OWswUktPN1ZIQk9sMHVOcVFqaVVTZ3BxZzA4NzB3?oc=5)
 
 2026-08-06
 
 來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFdFZ0lXV2hEbzlrVHpGenFtcGlnMjl0NlhZdFBINDh3MHF3REVzczY4ZE84Y0Z5VFlVbmFFTzZyWHVBLXppNE1RVWpINUEybHF6LVRaenlQWmN1ZnJfTVptVWN5eWVER1hzUXBVdy1NZ2lvLUJrYnB5a3dwbXktbE9JbVR0SFR5OWswUktPN1ZIQk9sMHVOcVFqaVVTZ3BxZzA4NzB3?oc=5)
-
----
-
-### [Faster Alzheimer's decline linked to common pill taken by millions - Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
-
-2026-08-05
-
-來源：[Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
 
 ---
 

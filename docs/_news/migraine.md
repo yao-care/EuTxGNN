@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraña（migraine） 相關新聞"
+title: "migraine 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "migraña（migraine） 的相關健康新聞報導。2 則新聞、49 個相關藥物。"
+description: "migraine 的相關健康新聞報導。1 則新聞、49 個相關藥物。"
 permalink: /news/migraine/
 ---
 
-# migraña（migraine） 相關新聞
+# migraine 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="migraña（migraine） 有什麼相關新聞？">
-<strong>migraña（migraine）</strong> 目前有 <strong>2 則</strong>相關新聞報導，49 個相關藥物。
+<p class="key-answer" data-question="migraine 有什麼相關新聞？">
+<strong>migraine</strong> 目前有 <strong>1 則</strong>相關新聞報導，49 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「migraña」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「migraine」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -77,15 +77,7 @@ permalink: /news/migraine/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
-
-2026-08-06
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [L'ordre dans lequel vous êtes né pourrait jouer un rôle sur votre santé, selon cette importante étude scientifique - Salut Bonjour](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2N1TkxuX3pPcmlPbEhtM19RVVNNWU9SazVpQnpnNlNQZXA4UkpUaC1EVFl4OXZmUlhoTGFRX3NnalVKZjBiVGdoNGw5NEk5eHNscmdKcmVMOXUzZ3N4b3BMbV9ocVdKVjFDMnV5ZW40VGUyc2QwZlU1bHZwQlpjUUQyRldRLU01TnBQdlc0YWZmanhHTmk3TVRBM3NtelBHMUpZZXJFQ0pmN3RzUTdpSmlJNFNCQTRUeEhFejdZQkZZVzZUMXg5ZmxGVzI0SHpQaHlfNmxIN3huQnNVQ1NBVTVldE5ldw?oc=5)
 

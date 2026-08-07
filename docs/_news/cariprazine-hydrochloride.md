@@ -14,7 +14,7 @@ permalink: /news/cariprazine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Cariprazine Hydrochloride 有什麼相關新聞？">
-<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cariprazine Hydrochloride</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ permalink: /news/cariprazine-hydrochloride/
 <p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（11 則）
+
+### [Schizophrenie-Behandlung: Digitale Avatare gegen Halluzinationen - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmQwUHNmalFiNG5VODZzOVBpNTgtQVBWN2FlZk1mNlZTTGd5NDRHcVZCMGwzZ0RIeTZfaGtGZHp2NEp6QzFZdmo2QzZaS0M0YUJlQVE2elN5TGJFdHJmVmQ5WmtLNHNuTFpQQ2Z5dUg4UlVRYnpXek1JbF8tM04yQnBvWVk5YUFGQ08tZkE4N254VGFwcGZuOVh1RHU5SF9XWlNmUy1fQkY1QVo4Tk8xemFR?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmQwUHNmalFiNG5VODZzOVBpNTgtQVBWN2FlZk1mNlZTTGd5NDRHcVZCMGwzZ0RIeTZfaGtGZHp2NEp6QzFZdmo2QzZaS0M0YUJlQVE2elN5TGJFdHJmVmQ5WmtLNHNuTFpQQ2Z5dUg4UlVRYnpXek1JbF8tM04yQnBvWVk5YUFGQ08tZkE4N254VGFwcGZuOVh1RHU5SF9XWlNmUy1fQkY1QVo4Tk8xemFR?oc=5)
+
+---
+
+### [Forschende entwickeln erstmals KI-Design-Viren gegen resistente Superkeime](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEtRR016VEY0Zk1VbWg2ZzNQajBhWWNiaVdtU20weF9TU1RJeGFYbFp5amRuSjZ2cERjdktUNW5KYzBoenYzWE5YbldsSFlnMG1jMDk5UHNHRTA1eldQZTFTREpPVkdIbWJEcTNZR3FrMUxFbnBrZE5ndmY3T0x6X3ZESUgtWDRxUEtfa0lvbzB3WlY5dWdyU0VoRkNMdG1FdkVxNHZfY2JEQjZ6YnFWblJWQUVoNmRUVmFRcA?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEtRR016VEY0Zk1VbWg2ZzNQajBhWWNiaVdtU20weF9TU1RJeGFYbFp5amRuSjZ2cERjdktUNW5KYzBoenYzWE5YbldsSFlnMG1jMDk5UHNHRTA1eldQZTFTREpPVkdIbWJEcTNZR3FrMUxFbnBrZE5ndmY3T0x6X3ZESUgtWDRxUEtfa0lvbzB3WlY5dWdyU0VoRkNMdG1FdkVxNHZfY2JEQjZ6YnFWblJWQUVoNmRUVmFRcA?oc=5)
+
+---
+
+### [Hand-OP im Krankenhaus Vilshofen erleichtert MS-Patientin den Alltag](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNQUjc2aHB0SmRJelFjTmtUcXRfb3VuUzVNUlQ1cjZTdkhMYVpDazV6ZklDdjJOTVlkUHRVZjF1SXczQWc4cU1kVzdxVTI3QUltR2hnRGNmWHNrZV9yNC03NUVEcllKZFJIZEZHMUxRekZvZ3cwMlVzV3pxYkVDUW1hM3dBZDdQaFdYd1ZHd3Y4Q1JBczhIUW16Wnllam1hTHZZNEtTX1hUOFN5bmhUVUNyMnhLczRNSUo2R1Zn?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[Pnp.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNQUjc2aHB0SmRJelFjTmtUcXRfb3VuUzVNUlQ1cjZTdkhMYVpDazV6ZklDdjJOTVlkUHRVZjF1SXczQWc4cU1kVzdxVTI3QUltR2hnRGNmWHNrZV9yNC03NUVEcllKZFJIZEZHMUxRekZvZ3cwMlVzV3pxYkVDUW1hM3dBZDdQaFdYd1ZHd3Y4Q1JBczhIUW16Wnllam1hTHZZNEtTX1hUOFN5bmhUVUNyMnhLczRNSUo2R1Zn?oc=5)
+
+---
+
+### [Bisphosphonat bremst Mineralaufbau in geschädigten Wirbelscheiben – KI-frei, aber mit klarem Wirkweg - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
+
+---
 
 ### [La OMS y el Africa CDC urgen a reforzar la respuesta comunitaria para contener el brote de ébola en la RDC - Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVBjNk8xcUk5TnVjQS1xSnZWZXJFY1NTLWptOUV3SVFQNGgxbmlCZ2c4S3lHOU8td292MVd6NmM4TURxdHJRS2VNVVd4a2dNOFM4X0VuN3p3NnhZeGVRTE5EVHM2T21SUmFBOWJOS21mcXQ1T1RCdDJ4OTJFT2FCUGRxYWFuYmtoM2tMLU9JX0h6SDI5WFdQdnF5RzlnVk9PT29VbXZDN2Q?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVBjNk8xcUk5TnVjQS1xSnZWZXJFY1NTLWptOUV3SVFQNGgxbmlCZ2c4S3lHOU8td292MVd6NmM4TURxdHJRS2VNVVd4a2dNOFM4X0VuN3p3NnhZeGVRTE5EVHM2T21SUmFBOWJOS21mcXQ1T1RCdDJ4OTJFT2FCUGRxYWFuYmtoM2tMLU9JX0h6SDI5WFdQdnF5RzlnVk9PT29VbXZDN2Q?oc=5)
-
----
-
-### [Se acabó esperar a un milagro: Europa aprueba el implante inalámbrico que te mete un minipanel solar en el ojo para devolverte la vista - La Razón](https://news.google.com/rss/articles/CBMingJBVV95cUxNdGlKSGZCUnkxM0lsY3lXMGVCeW9GQmxxNG1MUjZLVG4ycWpaTlZKd0FmN2E3eWoyYU9JVGViSnZrcHE2aDRuZ2ZfeUM5M29USzdMMzcydUtpU2ZiX0ItYXVzNHFjTEFuTUVmMkFMSFV5akoyZ1BoYVFhQUFEMzV4c0tsOEszMjllbmd6T0tPZ2ViR2ZkNmlCSkItdHV6V1d3YW9LWXpEMW1QZHpWYURXbE1NTndRaDROZTBDOElJMVhfY1FNMWJEaFZyZXZJXzNoYW9TN0NHejJNTGxONXE5Mmp6MUdPdE1jcU1Hb21qUHFEMDBTLXJzdXFES05OcFFMeWRHVFRnV3pFdkotd25KX2N1OHVRM1A2RVRHQ293?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[La Razón](https://news.google.com/rss/articles/CBMingJBVV95cUxNdGlKSGZCUnkxM0lsY3lXMGVCeW9GQmxxNG1MUjZLVG4ycWpaTlZKd0FmN2E3eWoyYU9JVGViSnZrcHE2aDRuZ2ZfeUM5M29USzdMMzcydUtpU2ZiX0ItYXVzNHFjTEFuTUVmMkFMSFV5akoyZ1BoYVFhQUFEMzV4c0tsOEszMjllbmd6T0tPZ2ViR2ZkNmlCSkItdHV6V1d3YW9LWXpEMW1QZHpWYURXbE1NTndRaDROZTBDOElJMVhfY1FNMWJEaFZyZXZJXzNoYW9TN0NHejJNTGxONXE5Mmp6MUdPdE1jcU1Hb21qUHFEMDBTLXJzdXFES05OcFFMeWRHVFRnV3pFdkotd25KX2N1OHVRM1A2RVRHQ293?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Premier cas de virus West Nile chez un cheval en Belgique: l'animal euthanasié, "une sentinelle sanitaire"](https://news.google.com/rss/articles/CBMiigJBVV95cUxOSHRUV2I0b1lnRmUwUEQzTUd6ZW9uSTFNSFYwMXZBbWpEMmZnLVloS0tKU09UejRDWlVwVFJBSEtFSXEwcTJ3NmdlNkp5dlhDTVhWR1BBYTJ1VUJMV2d5QjNWSlhQd0ZwZ05pX29wdG8zclpSaEgwWW5MYzJuVnlPZWExUWhPYmp5RUg2bnF6bjZRUXFTVzc5RFZUNlJsUV9MVjlwMGZzT3FvWng0MV94NndSUHZrZ3lic24wc1cxakZjR2M1UVNEZUtCZnZXMU1HX0hqczBmOUJ1LXhMWGNrVmJiREVKLVpydHM5WU91T093dWNTVjZtMC0waVgyQ01QMWdCaDdaU0xiUQ?oc=5)
+### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
-2026-08-06 <span class="news-indication-tag">MS</span>
+2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[lavenir.net](https://news.google.com/rss/articles/CBMiigJBVV95cUxOSHRUV2I0b1lnRmUwUEQzTUd6ZW9uSTFNSFYwMXZBbWpEMmZnLVloS0tKU09UejRDWlVwVFJBSEtFSXEwcTJ3NmdlNkp5dlhDTVhWR1BBYTJ1VUJMV2d5QjNWSlhQd0ZwZ05pX29wdG8zclpSaEgwWW5MYzJuVnlPZWExUWhPYmp5RUg2bnF6bjZRUXFTVzc5RFZUNlJsUV9MVjlwMGZzT3FvWng0MV94NndSUHZrZ3lic24wc1cxakZjR2M1UVNEZUtCZnZXMU1HX0hqczBmOUJ1LXhMWGNrVmJiREVKLVpydHM5WU91T093dWNTVjZtMC0waVgyQ01QMWdCaDdaU0xiUQ?oc=5)
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
 ---
 
@@ -91,14 +115,6 @@ permalink: /news/cariprazine-hydrochloride/
 2026-08-06 <span class="news-indication-tag">MS</span>
 
 來源：[sanitainformazione.it](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMUZneWtqQVpqVjdIUHBjQlV0SHJDdnMxSEUwaF9jV1RQRjg4NG5mNzlReExiVnBqdHh0UXpqUy04cjBHb01PNGFQa0I2QlVnUC1aUzhqaEdnWHBETl9YNFJjXzR0VVNkbVpsakg3a3lnV1ZVb0ZXVmU1TTE5U1dHclQ4UnFsV2VOVHlCakVfSlZLZDUzSnlIX29LNG5aMDFWeUpLOGozcks?oc=5)
-
----
-
-### [Bleeding Gums Might Be an Early Sign of Something Much Bigger](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMijgFBVV95cUxObEZUNktRSkdSNVNEZW5kNnFSc3FTZWxBOFN5bHh3QjBPTVZVYXZqMDZra2JhUFgyRk12MHdWV0ppY0VsandnNm8xZF9vMW5Nb05uYUgzVXBZX1dxanBGZXFoNTJsalVtWVpnVmh3UmJXMDVmOFVLTExtN1JSRWZtbkZwR1QzVE9qelhabjRn?oc=5)
 
 ---
 
@@ -118,43 +134,11 @@ permalink: /news/cariprazine-hydrochloride/
 
 ---
 
-### [Gefäßverkalkung: Vitamin K2 verlangsamt Plaquebildung um 25% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzNPSXZLQklOTW9ETnJVaHNmRzM4eVpIOVFxT244WC03ZDR5Rml5VEZfdHhWS180dmloaGxlekttVVRKVWM3UGNYTkNveEQ5dEZ5UXVIdllRN0pjTkhES0o2ZC1ZMzB6X2JDWVNsRnRjNENzTW9STVdWYW9wVTZ4RzZfZ3puakhkT3RId1o5b2hnMXB6S0lJYUFzTzZKa1ItRmZTSHVfM2xxRXg5Qm1DcDN0MjhObXFh?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzNPSXZLQklOTW9ETnJVaHNmRzM4eVpIOVFxT244WC03ZDR5Rml5VEZfdHhWS180dmloaGxlekttVVRKVWM3UGNYTkNveEQ5dEZ5UXVIdllRN0pjTkhES0o2ZC1ZMzB6X2JDWVNsRnRjNENzTW9STVdWYW9wVTZ4RzZfZ3puakhkT3RId1o5b2hnMXB6S0lJYUFzTzZKa1ItRmZTSHVfM2xxRXg5Qm1DcDN0MjhObXFh?oc=5)
-
----
-
 ### [Do Altered Immune Cells Drive Skin Cancer in Immunosuppressed Patients? - The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
-
----
-
-### [Beach discovery takes sinister turn as major catastrophe looms on Australia's doorstep - Yahoo News Australia](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVZHNmFJT01uMHJDNDRQdzNwcV9JLUdkbTUwcFZpNUtUcGpUMTExMUhGOE1rZms0dnAxNVEwd09lVEtQYXR3bXJncGNZWWUtQnhmaTVHYV8wM2MxaEo5azBJMXJ1X1VXSnBvbUcxMjRrWEh6dC1xcjVKdXpyMVI5RW1SSmFSeVRBRTBfMlVtbnd6b0dtb2ZpWXd0YXhHV2paRURPRnBBbnFrcENPVW5DREFmaFBKb2QtSklFWnZyWkJHM1B6?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[Yahoo News Australia](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVZHNmFJT01uMHJDNDRQdzNwcV9JLUdkbTUwcFZpNUtUcGpUMTExMUhGOE1rZms0dnAxNVEwd09lVEtQYXR3bXJncGNZWWUtQnhmaTVHYV8wM2MxaEo5azBJMXJ1X1VXSnBvbUcxMjRrWEh6dC1xcjVKdXpyMVI5RW1SSmFSeVRBRTBfMlVtbnd6b0dtb2ZpWXd0YXhHV2paRURPRnBBbnFrcENPVW5DREFmaFBKb2QtSklFWnZyWkJHM1B6?oc=5)
-
----
-
-### [Two common symptoms heart attack survivors experience weeks before, according to a doctor - GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
-
-2026-08-05 <span class="news-indication-tag">MS</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDcxX19lYUs1UGJMWXVGQU9DUGpHRlJpR015U0NWNzNZczRnMll2VzFKcEFjYVJUVTBUdjRaR2Y4S2dWcmYzcmdJUFlFUlg1dEJRU2JBYXNKbk5JX1dBU2N4Vnp1Y2ZYTDBXMEJVTS0tNEFKbC1VVloxMS1WN0FwMFpaR2NUQQ?oc=5)
-
----
-
-### [Common erectile dysfunction drug may drastically increase risk of blindness - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZl84RVRjdjFUNU9QQjRtVTc0MG5NSk41Z2d3UW1ncmVXTXYzcTZUbHNLZGEyQS1VR1c2UzVLazNkNjhRVmxyV3cwWGh4TS0xUjZva012aHV6WklIa3pEVEg4eFQwYkE5MFpmbDhyLTJ3a1FyMGxkdmRnaUYwXzNFcVRMbVZPTVdCYVJ3TUJpZnI4b0hOajBDYWZHaVhSWHdHOERGRjdDa1JpalczaGtLMHY4R0ZfY01ZTHVkVA?oc=5)
-
-2026-08-05 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZl84RVRjdjFUNU9QQjRtVTc0MG5NSk41Z2d3UW1ncmVXTXYzcTZUbHNLZGEyQS1VR1c2UzVLazNkNjhRVmxyV3cwWGh4TS0xUjZva012aHV6WklIa3pEVEg4eFQwYkE5MFpmbDhyLTJ3a1FyMGxkdmRnaUYwXzNFcVRMbVZPTVdCYVJ3TUJpZnI4b0hOajBDYWZHaVhSWHdHOERGRjdDa1JpalczaGtLMHY4R0ZfY01ZTHVkVA?oc=5)
 
 ---
 
