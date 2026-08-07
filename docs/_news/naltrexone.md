@@ -62,6 +62,14 @@ permalink: /news/naltrexone/
 
 ---
 
+### [‘Three decades of failure’: 7.2 million more adults now obese despite 14 government strategies](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZKRjRHejY4cktyUFExd2xndzAzek1PQVVHdWI3UkFaeDVTMDZJQURGSjUtSlgwaFFncUMwZ2syeFRvRnhTaTlLaHZBSHRnZm16X1FDMlh2OTJXMnVWS2pkUENGNllaM2Y3ejVWb0pKUGdNb2lqUXNNRzUtWGd0c3hBNmVyYXRIaWd0VWRMSkxQZXcyMmgtQWpGNA?oc=5)
+
+2026-08-07 <span class="news-indication-tag">obesity</span>
+
+來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZKRjRHejY4cktyUFExd2xndzAzek1PQVVHdWI3UkFaeDVTMDZJQURGSjUtSlgwaFFncUMwZ2syeFRvRnhTaTlLaHZBSHRnZm16X1FDMlh2OTJXMnVWS2pkUENGNllaM2Y3ejVWb0pKUGdNb2lqUXNNRzUtWGd0c3hBNmVyYXRIaWd0VWRMSkxQZXcyMmgtQWpGNA?oc=5)
+
+---
+
 ### [Reversible Nachtblindheit nach Adipositas-Operation](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
 
 2026-08-06 <span class="news-indication-tag">Adipositas</span>
@@ -74,13 +82,13 @@ permalink: /news/naltrexone/
 
 2026-08-06 <span class="news-indication-tag">obésité</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
+來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
 
 ---
 
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
@@ -94,19 +102,11 @@ permalink: /news/naltrexone/
 
 ---
 
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
-
-2026-08-05 <span class="news-indication-tag">obesidad</span>
-
-來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
-
----
-
-### [zanadio mit klinisch relevanter Gewichtsabnahme bei Patient:innen mit Adipositas und Herz-Kreislauf-Erkrankungen assoziiert - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+### [Zanadio-Studie zeigt Wirksamkeit digitaler Adipositastherapie bei Herzpatienten - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTms0M2ZYeDVMSkJvQ2hrbnJDOUZwSUZHdU5IRVNWaHRsS0lsTmxydmNBZ3V5d2VrQW1wSDhNbHB5aDFhSE5BLWpfS1JYRkM3RVFMMElCRk9ua3ZZbl91MDkwQ0ZyeWpvazd4Smc0SXlMTFhQenllMHBKaGtLaTNZSjJiWnByVFg3N3YwdjBUblBHYjRKb1hnUlNfdGk4QWdpNF9yTnhKbnUteVVFX3pjbw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTms0M2ZYeDVMSkJvQ2hrbnJDOUZwSUZHdU5IRVNWaHRsS0lsTmxydmNBZ3V5d2VrQW1wSDhNbHB5aDFhSE5BLWpfS1JYRkM3RVFMMElCRk9ua3ZZbl91MDkwQ0ZyeWpvazd4Smc0SXlMTFhQenllMHBKaGtLaTNZSjJiWnByVFg3N3YwdjBUblBHYjRKb1hnUlNfdGk4QWdpNF9yTnhKbnUteVVFX3pjbw?oc=5)
 
 ---
 

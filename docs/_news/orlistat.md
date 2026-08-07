@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（10 則）
 
+### [Schlaganfall-Infotag in St. Wendel](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
+
+---
+
 ### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
 
 2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
@@ -67,6 +75,14 @@ permalink: /news/orlistat/
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+
+---
+
+### [‘Three decades of failure’: 7.2 million more adults now obese despite 14 government strategies](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZKRjRHejY4cktyUFExd2xndzAzek1PQVVHdWI3UkFaeDVTMDZJQURGSjUtSlgwaFFncUMwZ2syeFRvRnhTaTlLaHZBSHRnZm16X1FDMlh2OTJXMnVWS2pkUENGNllaM2Y3ejVWb0pKUGdNb2lqUXNNRzUtWGd0c3hBNmVyYXRIaWd0VWRMSkxQZXcyMmgtQWpGNA?oc=5)
+
+2026-08-07 <span class="news-indication-tag">obesity</span>
+
+來源：[lbc.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZKRjRHejY4cktyUFExd2xndzAzek1PQVVHdWI3UkFaeDVTMDZJQURGSjUtSlgwaFFncUMwZ2syeFRvRnhTaTlLaHZBSHRnZm16X1FDMlh2OTJXMnVWS2pkUENGNllaM2Y3ejVWb0pKUGdNb2lqUXNNRzUtWGd0c3hBNmVyYXRIaWd0VWRMSkxQZXcyMmgtQWpGNA?oc=5)
 
 ---
 
@@ -90,13 +106,13 @@ permalink: /news/orlistat/
 
 2026-08-06 <span class="news-indication-tag">obésité</span>
 
-來源：[franceinfo](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
+來源：[franceinfo.fr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
 
 ---
 
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
@@ -110,27 +126,11 @@ permalink: /news/orlistat/
 
 ---
 
-### ['Just live your life' says sister of Stoke-on-Trent stroke victim who died at 26 - The Sentinel](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJhZUVjTzNTcUJjOGp6Sy1UdGtwb0U1TlpkSFJBOFZMZlc3UTJfQlp2d050TzdkTUlNTkFWUXlzSnBPSTVmQmN6UTFFdEhmYk9xY0p3UWdHSDFxTjNwMndxdHlZVTJsR3c3X2pKMlp6b0hXejAtd2E4Q0VScjZva1FQVUFvQzFRRkhta3oyZ0JhcjVF0gGaAUFVX3lxTE41V09xaDJhSURPWk9uSG5fa3JyRVdQck1VS2RMcDhmdGN2QzdIQWhlZHNPalJIdDY1NUdUdXphZ25HWXM1V21oUDVwbFNORU9jdVZYSGJXci04TC1GajlCdjNIM044aGd1bXN5RFVfM3RQZXdObU9hRG8xcUNYZHVIZDZYNnZvX21zcXM1cUtzalpXdzEwMlB5U3c?oc=5)
-
-2026-08-06 <span class="news-indication-tag">stroke</span>
-
-來源：[The Sentinel](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJhZUVjTzNTcUJjOGp6Sy1UdGtwb0U1TlpkSFJBOFZMZlc3UTJfQlp2d050TzdkTUlNTkFWUXlzSnBPSTVmQmN6UTFFdEhmYk9xY0p3UWdHSDFxTjNwMndxdHlZVTJsR3c3X2pKMlp6b0hXejAtd2E4Q0VScjZva1FQVUFvQzFRRkhta3oyZ0JhcjVF0gGaAUFVX3lxTE41V09xaDJhSURPWk9uSG5fa3JyRVdQck1VS2RMcDhmdGN2QzdIQWhlZHNPalJIdDY1NUdUdXphZ25HWXM1V21oUDVwbFNORU9jdVZYSGJXci04TC1GajlCdjNIM044aGd1bXN5RFVfM3RQZXdObU9hRG8xcUNYZHVIZDZYNnZvX21zcXM1cUtzalpXdzEwMlB5U3c?oc=5)
-
----
-
-### [Menopausia y grasa abdominal: qué la provoca y cómo disminuirla - Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
-
-2026-08-05 <span class="news-indication-tag">obesidad</span>
-
-來源：[Radio Mitre](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGFyZ0VTTGlqSkhQMXFRbDFLM1RGb1NhWXBlTVlEaVdDX1N4cC13VnJHOE4tYkFPNmVWVmZJeVdQTlJ2RGxYdVN4WWRqU2ZUczFLb3lId3pVeV91TVhCTjFObEpiS3U4OVZpZktZWTJGYndGUkxrQ2F6aERVQVNScHgxanRsTkxxQWJIY3IyZnJuM3FjSHJrRWFGM3IxYWVDQy01eDAxMnBtVkVPX1Vv?oc=5)
-
----
-
-### [zanadio mit klinisch relevanter Gewichtsabnahme bei Patient:innen mit Adipositas und Herz-Kreislauf-Erkrankungen assoziiert - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+### [Zanadio-Studie zeigt Wirksamkeit digitaler Adipositastherapie bei Herzpatienten - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTms0M2ZYeDVMSkJvQ2hrbnJDOUZwSUZHdU5IRVNWaHRsS0lsTmxydmNBZ3V5d2VrQW1wSDhNbHB5aDFhSE5BLWpfS1JYRkM3RVFMMElCRk9ua3ZZbl91MDkwQ0ZyeWpvazd4Smc0SXlMTFhQenllMHBKaGtLaTNZSjJiWnByVFg3N3YwdjBUblBHYjRKb1hnUlNfdGk4QWdpNF9yTnhKbnUteVVFX3pjbw?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMiggJBVV95cUxPclh2LXBpa2xFSmY3b214RlZhQ0dsRzE2c0FWcmcwT1kyQUhZZGFrWHcyRVpWVDFyRlpUMjhsSi1aX19xcFRSX3hWbl9lcjMxZmFZdXFPTlJhVno3SzVOYzlWQVZwQ1QtRVZySmNXb29UOF94bDdVZzZkbFV5aWRrajFpTDVXZmszM185RWhNbk9JeXJvanVqN0xBWl9pZVNxUUVxeTlZeGRtbnhpcWw5VlBOMHprM0d6QVp4aVY3TEJRYzQ0WUVVM0pDaXA2bm1xU1htSjdFSTQxUmNLLWtCU3pqUWktNE1EcTZRT0FlRVZSdmg4MU9BaXFIS0VUcWlBaXc?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQTms0M2ZYeDVMSkJvQ2hrbnJDOUZwSUZHdU5IRVNWaHRsS0lsTmxydmNBZ3V5d2VrQW1wSDhNbHB5aDFhSE5BLWpfS1JYRkM3RVFMMElCRk9ua3ZZbl91MDkwQ0ZyeWpvazd4Smc0SXlMTFhQenllMHBKaGtLaTNZSjJiWnByVFg3N3YwdjBUblBHYjRKb1hnUlNfdGk4QWdpNF9yTnhKbnUteVVFX3pjbw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFteGRiN1VBM1B0T0gxd0U1b0VJQy1IM3V0LURpUGF3WXhKTjZpMXdVUUQ1aXo5bU1HN2FUZUR1ZnFFYmg3dkhFT19wbUprRGlHOUh1dnFDYmxkNzRPOWowdG05RXMxbElfYS1VbExEMXRRdE5GWlczT0doZmRzTw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">hepatitis</span>
-
-來源：[tagesschau.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFteGRiN1VBM1B0T0gxd0U1b0VJQy1IM3V0LURpUGF3WXhKTjZpMXdVUUQ1aXo5bU1HN2FUZUR1ZnFFYmg3dkhFT19wbUprRGlHOUh1dnFDYmxkNzRPOWowdG05RXMxbElfYS1VbExEMXRRdE5GWlczT0doZmRzTw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

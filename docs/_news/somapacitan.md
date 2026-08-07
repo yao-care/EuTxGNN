@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -52,13 +52,45 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [Un estudio revela tres factores a evitar a los 50 asociados con décadas de vida sin demencia: “La presión arterial, la diabetes y el tabaquismo son cruciales en la mediana edad”](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVm0xbTVyVXRJenlCZ1RzdlZFdlp3dDVSVXpaQm9TclpsSDR6eURZNWZzRElxNnNJMTN1aEpjdF9tOWVCUEE3T1ZuVUdhVC14TXRMb3J3emRKa3FsbVp3c2ptbExyNXE0cGJyQVQ2dnM5RUJsZ3ZwS2dRMUdBMTVRdDBtZDRKV3dCSWxGVU0zREgwMU9vdHQ1MHFqRFozMFUxWVZGLTJwN29QRmpoNjEzUmI1b3ZiSkpScjFNUkNDcFB4cGJzT1hRWUpXbkg2SG9JTFZfOHJ4SUlDdFJJS0Mtd2FvZmNxY0Zxdjl2VFZoSnNfRXlPdWdKU3lqck56SFk4cnA2ZFU1a0VnRkJxRzRhcDB5V05BZkQyTG1SY0t6M09vQk84ZWRwSEUtaUpZZ9IBswJBVV95cUxQQVFCOHlZVXpoQUVTR202UnRVdVMxRHlKNzlpZHNjMU1rd2V1OVZfOXNfb3JXX3NHSWUzTVpOSklYT2RxeDV4dHZiaFFHTHJGeDFUNGlZRVpTVTJ5Ui1BUzlBYW1EbWhiMWYzSjFnSGJGc2ZDank1VjkyRXVpMjQ5YUlrR3VXYlI1eXd4UVJhNjhTSWNCMlVMWVNhNkN5bXRBbi1xY0hBSGRodU9qOWNHOWhHT19xNEVabkdYUWxERWM3RHhfbW1VamFvQzQwb05zanRsWVBEQnJUcnAtbkR4bE14VnFwYm9vaWpSX18zelMzVnVObmxLbjRYU1pRVHJjT1FnX3ZRTE1faTQ5SGVnMVNjVXd2ekxPR01pR2hvS2c2bnhsUDcxblB0R3ljS1lHMWdn?oc=5)
+
+2026-08-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[lavanguardia.com](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVm0xbTVyVXRJenlCZ1RzdlZFdlp3dDVSVXpaQm9TclpsSDR6eURZNWZzRElxNnNJMTN1aEpjdF9tOWVCUEE3T1ZuVUdhVC14TXRMb3J3emRKa3FsbVp3c2ptbExyNXE0cGJyQVQ2dnM5RUJsZ3ZwS2dRMUdBMTVRdDBtZDRKV3dCSWxGVU0zREgwMU9vdHQ1MHFqRFozMFUxWVZGLTJwN29QRmpoNjEzUmI1b3ZiSkpScjFNUkNDcFB4cGJzT1hRWUpXbkg2SG9JTFZfOHJ4SUlDdFJJS0Mtd2FvZmNxY0Zxdjl2VFZoSnNfRXlPdWdKU3lqck56SFk4cnA2ZFU1a0VnRkJxRzRhcDB5V05BZkQyTG1SY0t6M09vQk84ZWRwSEUtaUpZZ9IBswJBVV95cUxQQVFCOHlZVXpoQUVTR202UnRVdVMxRHlKNzlpZHNjMU1rd2V1OVZfOXNfb3JXX3NHSWUzTVpOSklYT2RxeDV4dHZiaFFHTHJGeDFUNGlZRVpTVTJ5Ui1BUzlBYW1EbWhiMWYzSjFnSGJGc2ZDank1VjkyRXVpMjQ5YUlrR3VXYlI1eXd4UVJhNjhTSWNCMlVMWVNhNkN5bXRBbi1xY0hBSGRodU9qOWNHOWhHT19xNEVabkdYUWxERWM3RHhfbW1VamFvQzQwb05zanRsWVBEQnJUcnAtbkR4bE14VnFwYm9vaWpSX18zelMzVnVObmxLbjRYU1pRVHJjT1FnX3ZRTE1faTQ5SGVnMVNjVXd2ekxPR01pR2hvS2c2bnhsUDcxblB0R3ljS1lHMWdn?oc=5)
+
+---
+
+### [Zucker: Neue Studie zeigt mögliche Auswirkungen auf Asthma](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
+
+2026-08-07 <span class="news-indication-tag">asthma</span>
+
+來源：[futurezone.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
+
+---
+
+### [Was ist Diabulimie und wie wird sie behandelt? Die Essstörung junger Menschen mit Typ-1-Diabetes](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG5reXZESC1pZkxCY1BJVWI5N1BxQTZGVTBRZVp0azliWjktWXRfOUhmX05sZE9JQ3UyZEJSRGdrTl9KTzhhZWxpTWFNY1BySVFPeTA3WTdFVEM1c1o3dm81UDRGeU4wejVVam9hMW0xT2FSTTZMWTZkOEc5ZWhDcklGdl9jNVJxUGNnSTBGaG9wQ3QxVHpoSGFib0NCSlJicmpFczdBSXYwc1pTb2E0R29sT2hka29CSWxEQWE4eHBhcldpazc2NThRZXBKT2FYeGc?oc=5)
+
+2026-08-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[TZ](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORG5reXZESC1pZkxCY1BJVWI5N1BxQTZGVTBRZVp0azliWjktWXRfOUhmX05sZE9JQ3UyZEJSRGdrTl9KTzhhZWxpTWFNY1BySVFPeTA3WTdFVEM1c1o3dm81UDRGeU4wejVVam9hMW0xT2FSTTZMWTZkOEc5ZWhDcklGdl9jNVJxUGNnSTBGaG9wQ3QxVHpoSGFib0NCSlJicmpFczdBSXYwc1pTb2E0R29sT2hka29CSWxEQWE4eHBhcldpazc2NThRZXBKT2FYeGc?oc=5)
+
+---
 
 ### [Bauernhof-Effekt: Forschende decken auf, was genau die Kinder vor Asthma schützt](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3plVU94TXp3dDYxYUJCaVAxb3RzbG1saVlrbFo3b2NXSVNwNi05LVBkQmo2YnJVU1U0MElZTVkyRXpsYi1zOE9UeWZhdmJseDZqRnc5V1FNUjV2N1duSlRBYWpkNi1TYzZtUGxweGxWaVFNNUVrNWdLOXdtLWJpMkpHVDFvaVl4QlF1ZWhoc2gtLUVZSVJnamZYUk5FMFk5b28teQ?oc=5)
 
-2026-08-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span>
+2026-08-07 <span class="news-indication-tag">asthma</span>
 
 來源：[agrarheute.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3plVU94TXp3dDYxYUJCaVAxb3RzbG1saVlrbFo3b2NXSVNwNi05LVBkQmo2YnJVU1U0MElZTVkyRXpsYi1zOE9UeWZhdmJseDZqRnc5V1FNUjV2N1duSlRBYWpkNi1TYzZtUGxweGxWaVFNNUVrNWdLOXdtLWJpMkpHVDFvaVl4QlF1ZWhoc2gtLUVZSVJnamZYUk5FMFk5b28teQ?oc=5)
+
+---
+
+### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
+
+2026-08-07 <span class="news-indication-tag">diabete</span>
+
+來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 ---
 
@@ -67,14 +99,6 @@ permalink: /news/somapacitan/
 2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
-
----
-
-### [Diabetes: Dieses Probiotikum zeigt vielversprechende Wirkung](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUNrVnVSdFZYVUlCTGR2ejZEMEVMWGk1MUo1YUo3b2pIRlg2bEd0MkxnRE4zTXMzOWhTM2hPaDBQby1OUlg0MXVKQ3d0T25jeURhM1ZQbGZmYjlLZXpMblBDS2ZzbjJyYUkwbHVsWk5QeEIxQnpDRndjbG5UNFlLdFNtT3dCYjZwWXdTcmFONUJBeElhRWstNmhhTU5DR1doNHgzV3NTWWN0cngybVB3RnoxUXlyWDBQUk4zVw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">diabetes</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUNrVnVSdFZYVUlCTGR2ejZEMEVMWGk1MUo1YUo3b2pIRlg2bEd0MkxnRE4zTXMzOWhTM2hPaDBQby1OUlg0MXVKQ3d0T25jeURhM1ZQbGZmYjlLZXpMblBDS2ZzbjJyYUkwbHVsWk5QeEIxQnpDRndjbG5UNFlLdFNtT3dCYjZwWXdTcmFONUJBeElhRWstNmhhTU5DR1doNHgzV3NTWWN0cngybVB3RnoxUXlyWDBQUk4zVw?oc=5)
 
 ---
 
@@ -88,17 +112,9 @@ permalink: /news/somapacitan/
 
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
-2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
-
----
-
-### [SEPAR alerta de que solo el 50% de los pacientes con asma, EPOC o bronquiectasias cumple correctamente el tratamiento - Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
-
-2026-08-06 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFRLaFBWTnZVWl9yMVVaelVuMUdOUGRlZ2h3bDZsUTRHcUNacnFvcmJoN2lBbzRrOHZ0SVhxVDNvSGo3dHpwRUdaWW9NeXo1R012WjFfYjFZVXlNd2xYaGRmRG10MHdTcFFHTEx2UktDTzRsTlg1TG92UjQ4MF9PLU5QcURQTzVydThKVDM5VFBRVERlcmpfSl81UXlvLVdyWGpTSTZ1S25zUGhvb3dGSUtneGc?oc=5)
 
 ---
 
@@ -122,7 +138,7 @@ permalink: /news/somapacitan/
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 ---
 
@@ -134,19 +150,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
 
 2026-08-06 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[fr.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
-
----
-
-### [Mounjaro linked to slashing risk of killer heart attacks by a third for the first time - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
-
-2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVc0QWhZRXdGM2hzV0h2b0t4TXA4MVVKcTMzcXdteVo0Tk9zT01xNDIwSzVmV1Vfb2RuV3VxZlB1LURQZEhZRlJGZWNINW5Oc1dsTGlwMk81REEtNGJRSDFSNFZjNEhUMFFOT1hVQndvMXNsczFnanN3Tkh1Y2w4SldLYm5RMXdlSUhPX3paek9qX2s1OUp0eTV1Sk55VTB4VXhwNlpUNUNDTi11Tll0MjA5MzBfb3RYeC0xMGNuYS1qbkNZTGc?oc=5)
 
 ---
 
