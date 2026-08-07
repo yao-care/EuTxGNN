@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obésité（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。7 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obésité（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obésité（obesity） 有什麼相關新聞？">
-<strong>obésité（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>7 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obésité」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,23 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [Dolci e cervello, dietro le tentazioni c'è una ragione scientifica](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+2026-08-06
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+---
+
+### [Reversible Nachtblindheit nach Adipositas-Operation](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
+
+2026-08-06
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
+
+---
 
 ### [Les médicaments anti-obésité sont désormais remboursés : quelles sont les conditions pour être bénéficiaire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
 

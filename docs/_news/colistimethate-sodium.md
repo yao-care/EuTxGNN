@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
 
@@ -78,19 +78,11 @@ permalink: /news/colistimethate-sodium/
 
 ---
 
-### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
----
-
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse bestätigt Zusatznutzen zur Standardtherapie - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 ---
 

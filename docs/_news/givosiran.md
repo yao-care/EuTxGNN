@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/givosiran/
 
 ---
 
-### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse bestätigt Zusatznutzen zur Standardtherapie - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
-2026-08-05 <span class="news-indication-tag">high blood pressure</span>
+2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/givosiran/
 2026-08-05 <span class="news-indication-tag">hepatitis</span>
 
 來源：[tagesschau.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGFteGRiN1VBM1B0T0gxd0U1b0VJQy1IM3V0LURpUGF3WXhKTjZpMXdVUUQ1aXo5bU1HN2FUZUR1ZnFFYmg3dkhFT19wbUprRGlHOUh1dnFDYmxkNzRPOWowdG05RXMxbElfYS1VbExEMXRRdE5GWlczT0doZmRzTw?oc=5)
-
----
-
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
-
-2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
 
 ---
 

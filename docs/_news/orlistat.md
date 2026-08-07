@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [Schlaganfallpatienten besser vor Herzinfarkten schützen](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[medecon.ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+
+---
+
+### [Dolci e cervello, dietro le tentazioni c'è una ragione scientifica](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+---
 
 ### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
 
 2026-08-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
+
+---
+
+### [Reversible Nachtblindheit nach Adipositas-Operation](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
+
+2026-08-06 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
 
 ---
 

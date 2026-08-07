@@ -54,6 +54,14 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（6 則）
 
+### [More than 200 deaths linked to weight-loss jabs, health agency suggests - The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29TSF8zejhvU19CcTdySHFuNkg3dlE4YmhJN183ZUdpMUpVb2pzY2RNUl82TEJlOVM5Ylhid0RuV1h0NUNSbG1nMDBBai1pSzNPNERMelNMUVF6TklBZEg0WnlXWGk2SVU1Nl9IM0k4Sk1ZS0g3ZXZhYTFtZw?oc=5)
+
+2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29TSF8zejhvU19CcTdySHFuNkg3dlE4YmhJN183ZUdpMUpVb2pzY2RNUl82TEJlOVM5Ylhid0RuV1h0NUNSbG1nMDBBai1pSzNPNERMelNMUVF6TklBZEg0WnlXWGk2SVU1Nl9IM0k4Sk1ZS0g3ZXZhYTFtZw?oc=5)
+
+---
+
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
 2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -67,14 +75,6 @@ permalink: /news/tirzepatide/
 2026-08-06 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
 
 來源：[Redacción médica](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnBseE42VGR3UkJUZU1ZRFBMRDJBY3NCUzA5bVBKRk1waUdGWndZR192d2Y3aXhkUTFmYlo5NUxLeElQS3dXc19kclZkTEo5aDh1eGtfWVVVTEFEZUJTcXpMOUQyM2UxSTc2cXpqd3M1TkVEYnloRFQxaEZ2a3o4X2lEVW91WUVDNjhRa2huOW9VNUloVU5ERm5HVk0yMF9sNFJiMm81OHlvbm9oUkpjank2QllsNi1FWktTQ1VCb3A4RzZ6cVhXdUtLcUtSbTRvcldXV245SE9DeER3Qi05SWZ1NEtRbEp10gHuAUFVX3lxTE94d0x5eEd0UHNvOTZXc0czLWdDMXZ0dGw0Mm9FWEZBWlA4NkJYWGFlSmRiand5RTRoeVVWZWZrYVJPdU01MHJmZW8tNTBWcE54d2tTSHZkUDhCVk9pcW5Pa3dLNmIydmFGVXU4ZGJ0YTAyTWlSMklMV1k0MlVuWlQ3bXVpajdFVG5ydjdHWFBjTzRPZUdETExhZEhxR3g1RE9mX29mT1A5dDEyOWd6YngtUlR4emdVTXFJbllEQnlQNVEyeVFXWTcxQ2pyTExoMl9wSVVnZVN4NHRPZ083RmZmVDFxT1gzdmJHYUtSNGc?oc=5)
-
----
-
-### [Hundreds of deaths suspected of being linked to weight-loss jabs reported to regulator - Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
-
-2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0lsMlVNVXNTZ2ZvV21wMUxCSWhhVE1YWE95RXhtNEVBWlhoeFo2aHlTZGNxZ1lBU0dFbjBKaWxjcU5ENG5sZTdFOXpLM3NWNzlpY0xQNllHU1lVZVNMOEExTGJ3QXpFNGNKSTZaQzhhOV9scmhWZGhpV3dfNDBDZV90MVJaS3FzdTRzV1U3OWJSZ2d3NU45VXo0aks2TDRDazYwY19IMGVNY2tqaXNpQkNoQmtIWHBFOFlXWHg5Zw?oc=5)
 
 ---
 

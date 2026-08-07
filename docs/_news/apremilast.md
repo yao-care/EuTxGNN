@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="Apremilast 有什麼相關新聞？">
-<strong>Apremilast</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Apremilast</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/apremilast/
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">migraña</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
 
 ---
 
@@ -86,6 +86,14 @@ permalink: /news/apremilast/
 
 ---
 
+### [Un estudio en el que participa el Hospital Puerta de Hierro descarta la existencia de una enfermedad del corazón - Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cardiopatía</span>
+
+來源：[Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+
+---
+
 ### [RSV-Schutz: Impfung für Ältere mit Herzerkrankung - Westdeutsche Zeitung](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnhZZUlfeVNzcENQOExJUmQxRU9TcUdhT3g4SmJNWGp4ZklMckxMckRCTGtrNWxYWUg4YjJEMUpRSkFicElhb20tODdQT3FiYzRXWHMyMkRsdUk0Zng1a29vdFdKaTNWalBzS01BZ2lhbGVOTXZxSTRjUDFnYWdOdlNmZzV3NWpsWE1VMkhYQ2ZnTkEtRDlNOXI5NEpJVTdiTnMxcXh1TkMzdUdOb2FfOVZhSWNRNjNh?oc=5)
 
 2026-08-06 <span class="news-indication-tag">Herzerkrankung</span>
@@ -102,19 +110,11 @@ permalink: /news/apremilast/
 
 ---
 
-### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
----
-
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse bestätigt Zusatznutzen zur Standardtherapie - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 ---
 
@@ -123,14 +123,6 @@ permalink: /news/apremilast/
 2026-08-05 <span class="news-indication-tag">migraine</span>
 
 來源：[Salut Bonjour](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2N1TkxuX3pPcmlPbEhtM19RVVNNWU9SazVpQnpnNlNQZXA4UkpUaC1EVFl4OXZmUlhoTGFRX3NnalVKZjBiVGdoNGw5NEk5eHNscmdKcmVMOXUzZ3N4b3BMbV9ocVdKVjFDMnV5ZW40VGUyc2QwZlU1bHZwQlpjUUQyRldRLU01TnBQdlc0YWZmanhHTmk3TVRBM3NtelBHMUpZZXJFQ0pmN3RzUTdpSmlJNFNCQTRUeEhFejdZQkZZVzZUMXg5ZmxGVzI0SHpQaHlfNmxIN3huQnNVQ1NBVTVldE5ldw?oc=5)
-
----
-
-### [El mayor estudio genético y de resonancia magnética realizado hasta la fecha descarta la existencia de una enfermedad del corazón](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0JIV01XUWYzbmVubmJQaHJoNXdEU0s2TFBKTmVrTkozS3RxRjJhcWtfb1BBcW4zS3pQTjZWNy1adFoyOWlWWGpDOUVsSU9md2JYbjZvUzhTTm4yeWIzUnljS25SUzdTMEdnQmt3Y2hseTMtTmpNd1hidlZGTHlfakVScFBhQVBHSF8zVUZEU0haaUVvdU9NY1NuT3ZkSExpeXhnT2dMUWZNQy1XSGtJNjhSako4Z1otTFN4NHU4ZUdySk9mdGRQOS01VkxCSXJPam9VRnB5TVZJNDZiQmVBb3VobWlEdWZGTjh5ZGlJckZEeWZwWW5YMjRUaXE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cardiopatía</span>
-
-來源：[saludadiario.es](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0JIV01XUWYzbmVubmJQaHJoNXdEU0s2TFBKTmVrTkozS3RxRjJhcWtfb1BBcW4zS3pQTjZWNy1adFoyOWlWWGpDOUVsSU9md2JYbjZvUzhTTm4yeWIzUnljS25SUzdTMEdnQmt3Y2hseTMtTmpNd1hidlZGTHlfakVScFBhQVBHSF8zVUZEU0haaUVvdU9NY1NuT3ZkSExpeXhnT2dMUWZNQy1XSGtJNjhSako4Z1otTFN4NHU4ZUdySk9mdGRQOS01VkxCSXJPam9VRnB5TVZJNDZiQmVBb3VobWlEdWZGTjh5ZGlJckZEeWZwWW5YMjRUaXE?oc=5)
 
 ---
 

@@ -54,6 +54,14 @@ permalink: /news/brigatinib/
 
 ## 相關新聞（28 則）
 
+### [Cancer colorectal : cette région espagnole a vu la mortalité divisée par deux chez les 50-69 ans grâce au dépistage](https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3NUOUxsZG1Va2k1dmFLNmM4WUxjVGN5eTgyOS1KMmJIV2pIbVFrNDZxbzNVZGZ6NFNtSHh4dWYzeWs0X0dMWU16ZE83aW1PRGpUOXFwaV9jV0Q2cXBiYWZtUURUSUJqWmpadWJIdFBDSEVkMS1HaWk2S3pZRUVsVHo4UnRtODhTdEl6bWRXQllUVlZ5Z1M4cVJpNUd2bk5rcUNtay1DbTdYanpTV1NrdnF0dGdiYmlpaUtDY9IBwgFBVV95cUxQQVVHbjVzb2hVUEFmNVdfQk9LVjhBeUNrS2xZRW1rdTFqTGVvZGhsa1hLR0pOcF94ZWxTOWZYMWt1NW80R0FKUDBHbGZtSEtraEVuOUxYaGs3eXNwRHh1OWw3eVhwVXdIMFhtSVlLallKT1QzU05vei1tX3NXU0lrNTJ0SWsxY0huTjV3dV8yUWJVbHM0MUc5NzA4MWU2YlRLYjRkaVFXX0ZsTHFYRTBQcnBPRDlzUjRFcVJYUEZHaVR3QQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3NUOUxsZG1Va2k1dmFLNmM4WUxjVGN5eTgyOS1KMmJIV2pIbVFrNDZxbzNVZGZ6NFNtSHh4dWYzeWs0X0dMWU16ZE83aW1PRGpUOXFwaV9jV0Q2cXBiYWZtUURUSUJqWmpadWJIdFBDSEVkMS1HaWk2S3pZRUVsVHo4UnRtODhTdEl6bWRXQllUVlZ5Z1M4cVJpNUd2bk5rcUNtay1DbTdYanpTV1NrdnF0dGdiYmlpaUtDY9IBwgFBVV95cUxQQVVHbjVzb2hVUEFmNVdfQk9LVjhBeUNrS2xZRW1rdTFqTGVvZGhsa1hLR0pOcF94ZWxTOWZYMWt1NW80R0FKUDBHbGZtSEtraEVuOUxYaGs3eXNwRHh1OWw3eVhwVXdIMFhtSVlLallKT1QzU05vei1tX3NXU0lrNTJ0SWsxY0huTjV3dV8yUWJVbHM0MUc5NzA4MWU2YlRLYjRkaVFXX0ZsTHFYRTBQcnBPRDlzUjRFcVJYUEZHaVR3QQ?oc=5)
+
+---
+
 ### [Il massaggio può “diffondere” un tumore? La risposta più completa finora](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHluLU5jNlV3bThQYUhtaUFDSzJ3WHFlSkxRRk9mYjlGV3dqN1M5NGR4aHFkZVJrd09KV1ZaZVhsbkY2bEN3Z1E4NnM0YVRGOVJNNEtfTnFNNGxDbkpaNDJPaDh4MGVJYW11eWpJTUxKZjZEbFdDVHd6emVRUDJVb19Ic0d0aVRlSHBBRHctRldXbldVS2xfSjR6VVFodEk3MU5RM0x0Ym1HZjNLZUFVblVkOExOQnBhV2VJeHFNbDVrdVdiU0U4eA?oc=5)
 
 2026-08-06 <span class="news-indication-tag">tumor</span>
@@ -75,14 +83,6 @@ permalink: /news/brigatinib/
 2026-08-06 <span class="news-indication-tag">cancer</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPekFMWW95dXJKcFp2LW41ZVF5bFdmck1JUW5mRVVoN09MY0pXNHZjUHdyU0pZNEVEMW9VUlhGTndaZEdOWHZ6MnBFa2hoWXZZX2R0R0N6cDZjMk1CU0tHSmc1SFczMXEyS2xEVlhidG1yUVZUbEFWUVhoVHczcjNfNA?oc=5)
-
----
-
-### [Krebs wird häufiger – doch die Überlebenschancen steigen - smart up news](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZ5Qi1RR3JtVHc1QUwzVkE4aHBtaUh1RFQ5YUdFbklPREEtcWc1NEtHRjNNQnZrNHQwS3I5N2g5Tlo3WGZqVjhlNnRmN3JfU2FLZXZnTVhCVTN5V3NwMzRIdDFyeG5IXzBJcTJhcnljbHg3QVJSU0pfbTltU19vM2wzUG5FUzUyVVBWV1FfbkFaODltQk1n?oc=5)
-
-2026-08-06 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZ5Qi1RR3JtVHc1QUwzVkE4aHBtaUh1RFQ5YUdFbklPREEtcWc1NEtHRjNNQnZrNHQwS3I5N2g5Tlo3WGZqVjhlNnRmN3JfU2FLZXZnTVhCVTN5V3NwMzRIdDFyeG5IXzBJcTJhcnljbHg3QVJSU0pfbTltU19vM2wzUG5FUzUyVVBWV1FfbkFaODltQk1n?oc=5)
 
 ---
 
@@ -126,6 +126,14 @@ permalink: /news/brigatinib/
 
 ---
 
+### [Three middle-age health habits that could delay dementia for 13 years - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFdFZ0lXV2hEbzlrVHpGenFtcGlnMjl0NlhZdFBINDh3MHF3REVzczY4ZE84Y0Z5VFlVbmFFTzZyWHVBLXppNE1RVWpINUEybHF6LVRaenlQWmN1ZnJfTVptVWN5eWVER1hzUXBVdy1NZ2lvLUJrYnB5a3dwbXktbE9JbVR0SFR5OWswUktPN1ZIQk9sMHVOcVFqaVVTZ3BxZzA4NzB3?oc=5)
+
+2026-08-06 <span class="news-indication-tag">dementia</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFdFZ0lXV2hEbzlrVHpGenFtcGlnMjl0NlhZdFBINDh3MHF3REVzczY4ZE84Y0Z5VFlVbmFFTzZyWHVBLXppNE1RVWpINUEybHF6LVRaenlQWmN1ZnJfTVptVWN5eWVER1hzUXBVdy1NZ2lvLUJrYnB5a3dwbXktbE9JbVR0SFR5OWswUktPN1ZIQk9sMHVOcVFqaVVTZ3BxZzA4NzB3?oc=5)
+
+---
+
 ### [Il tumore coltivato in 3D mostra punti deboli che la vecchia ricerca non riusciva a vedere](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0dlSV94OUNLUjdqaktoNkY4dk5fbnNaVlhVTFBYNV9RWHdYa2tTOFJtQWdNN0plamdhT2hIanZNclhyVjVWbEpDOENQbXc2aEpfanJCLUdSVXBHRHNiekxoNHRQR3dFYk5UajZad21aMDJQdGFoeVNQQ0F2QVZFcjY2R1pZUlhHR1hvLWVPdWwxM0tyaUxvU0I1RVlNakdYemRMZXZkeENRbWR2SzVyY0ctcGdSTnI1Mk11VXg5OWNMSnZ0Q3hTUGo0NXdNR1hqWS1SREpzSEVTV1N0eGExYl9rSXQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">tumor</span>
@@ -147,6 +155,14 @@ permalink: /news/brigatinib/
 2026-08-06 <span class="news-indication-tag">cancer</span>
 
 來源：[parismatch.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOT3RPRk9TNnVkMDMya0ZIb0lMSzFJbTVWeDhiSEhLenctQm1ZU0pqTUJhY1pCZ2wxSWRaQ191UGVYLUdkQUVTMXNmUzhZVktWdHBha0RhT2J2NEJpSTJBOUlNczhfWFVGQTFmZlBlR0FqOVlkcmxPWXMwQmxwTDBMR21yby1LaWdtM1hiSEpaTUJGTWpSeGtzejByWkhkanBGenRfR1lKVmhYOThsejJyX3JXMWY3bDJCM2I0ckl4dGRHY1F5aHFLaGRDS3lfem9JWWdYUnI0MFhETEt4cGQ2OEp1dGVhTm9PeF94ag?oc=5)
+
+---
+
+### [Cancer-hit Kaitlyn, 18, has defied medics - now she needs £150k to stay alive - The Sentinel](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG5hQUlKU05sZ1NMUkl6OGhyU1p4NmJZYV9kVldvak1sYmdCNmJxUnNGN0xfdkRMUTQyLW43SzNoNUtFTDRiVnY0VTgzTmlTN0szdU1vSWtnN0JHYXduY0ZqSnhKLV9BekFGckZKbkNYb0pFSkdtamtkVVZteWlkNHZULUFWc0xnZDJPczY5TklZMEN1cEVmTE5B0gGfAUFVX3lxTE1PRkZ5aHpDN01wR1QyU201TTNYbVhsdWh4cjNBNzZGamJ5a0ZKcWRRZUpyVmZqdTFnSTNCeVp0V1lmcHpyb2Rsd1IyYkh6V2hZaEdWYzJDeHVFS3hpd3l0UG5ZbmxBNmJIZUExckRUVHRScnc3UkRHQmU3N1JGNkRodHVDWTBWN1VWNk5naWpMWE5yMGxnNlRldzFiNVdpMA?oc=5)
+
+2026-08-06 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sentinel](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG5hQUlKU05sZ1NMUkl6OGhyU1p4NmJZYV9kVldvak1sYmdCNmJxUnNGN0xfdkRMUTQyLW43SzNoNUtFTDRiVnY0VTgzTmlTN0szdU1vSWtnN0JHYXduY0ZqSnhKLV9BekFGckZKbkNYb0pFSkdtamtkVVZteWlkNHZULUFWc0xnZDJPczY5TklZMEN1cEVmTE5B0gGfAUFVX3lxTE1PRkZ5aHpDN01wR1QyU201TTNYbVhsdWh4cjNBNzZGamJ5a0ZKcWRRZUpyVmZqdTFnSTNCeVp0V1lmcHpyb2Rsd1IyYkh6V2hZaEdWYzJDeHVFS3hpd3l0UG5ZbmxBNmJIZUExckRUVHRScnc3UkRHQmU3N1JGNkRodHVDWTBWN1VWNk5naWpMWE5yMGxnNlRldzFiNVdpMA?oc=5)
 
 ---
 
@@ -174,6 +190,14 @@ permalink: /news/brigatinib/
 
 ---
 
+### [Medizinischer Fortschritt verändert Krankheitslast: Weniger Herzinfarkte, mehr Krebsüberlebende](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjMyX040NkZteGNSSU0xbDVTN0tlV0hoc3VTR25yMUs5YU9DUGE0TFhmMUlnMk9QVUV3U2JDWWlSNkRMRjE4WlpGUzA0X21sSXRwNHZWSWVxRU5CY0pQaVpEU2NjM1YxZlNjdlFuR1pJZmlzaUJCSy1uczJ1YjN2eW9qTjM3emhqcm5LQ21TWjVTUHlIR3RJcDRCZHV4STh6ek4tVlh5VW03VW9JYjY5dy1fT3ZSNmRYR0ROTA?oc=5)
+
+2026-08-06 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+來源：[MedLabPortal](https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjMyX040NkZteGNSSU0xbDVTN0tlV0hoc3VTR25yMUs5YU9DUGE0TFhmMUlnMk9QVUV3U2JDWWlSNkRMRjE4WlpGUzA0X21sSXRwNHZWSWVxRU5CY0pQaVpEU2NjM1YxZlNjdlFuR1pJZmlzaUJCSy1uczJ1YjN2eW9qTjM3emhqcm5LQ21TWjVTUHlIR3RJcDRCZHV4STh6ek4tVlh5VW03VW9JYjY5dy1fT3ZSNmRYR0ROTA?oc=5)
+
+---
+
 ### [Do Altered Immune Cells Drive Skin Cancer in Immunosuppressed Patients? - The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -182,27 +206,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Scientists name three midlife dementia warning signs - The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXhCSWNCcE1XVVp3WEs2X05IaW5fSHFUSUV2ZnZyNnB2cTBLdVVQUURBSzJqaDJqaU5kVndLbVJMNThvWmNNR1NpVndxV2c5VU51Z2otMWhkdVpSWW5FUmdySmtVbWJsSFJaOFFSZzRHS2dVQXlOVlZHZ2IxWE0zVV82MHlxRWxjMExPa3F4OFIzZUYzMEFMVlRKdF9xdE0?oc=5)
-
-2026-08-05 <span class="news-indication-tag">dementia</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXhCSWNCcE1XVVp3WEs2X05IaW5fSHFUSUV2ZnZyNnB2cTBLdVVQUURBSzJqaDJqaU5kVndLbVJMNThvWmNNR1NpVndxV2c5VU51Z2otMWhkdVpSWW5FUmdySmtVbWJsSFJaOFFSZzRHS2dVQXlOVlZHZ2IxWE0zVV82MHlxRWxjMExPa3F4OFIzZUYzMEFMVlRKdF9xdE0?oc=5)
-
----
-
 ### [TikTok star Becki Jones shares heartbreak as her dad dies after battle with terminal cancer - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTJXRG5ETTZpR3JyVFRheDRpME1ocVlPeGZiZmVFQnNGYUhaT1AwZEJuQmstU3JxNTFtcG9vdkhrU2lCVFBfMUxKTGtFa0tFYUhYVHZqeU1ZV1U0UzFXcjNyS1BKS05rTXA0MmNRMkRlX2dvUm5TNk1TN0JRbDNTZG9qdVpSRDlMdjNQOGFOemJKYWs?oc=5)
 
 2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTJXRG5ETTZpR3JyVFRheDRpME1ocVlPeGZiZmVFQnNGYUhaT1AwZEJuQmstU3JxNTFtcG9vdkhrU2lCVFBfMUxKTGtFa0tFYUhYVHZqeU1ZV1U0UzFXcjNyS1BKS05rTXA0MmNRMkRlX2dvUm5TNk1TN0JRbDNTZG9qdVpSRDlMdjNQOGFOemJKYWs?oc=5)
-
----
-
-### [Embutidos y carnes procesadas: nuevo estudio ratifica alto riesgo de tumores gástricos - El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHZzZjlJU3VGcWI5dmp6YnBnLXl4MG9qTXRBV0dyTm5QZ0pZSjZYYkRYQWhSRnhuck5wZVZvRE85cFAweDBXZFlGUk1SMThrTEVRdGM4QXlfVE12OEU4YnpyamwtMDhZWm9hbXlpT21XLTVoWmMxTGo2dGl5aEFIOE1xU01Cem9ocEtRclVTSkE1czhPVlE?oc=5)
-
-2026-08-05 <span class="news-indication-tag">tumor</span>
-
-來源：[El Estímulo](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHZzZjlJU3VGcWI5dmp6YnBnLXl4MG9qTXRBV0dyTm5QZ0pZSjZYYkRYQWhSRnhuck5wZVZvRE85cFAweDBXZFlGUk1SMThrTEVRdGM4QXlfVE12OEU4YnpyamwtMDhZWm9hbXlpT21XLTVoWmMxTGo2dGl5aEFIOE1xU01Cem9ocEtRclVTSkE1czhPVlE?oc=5)
 
 ---
 
@@ -262,19 +270,11 @@ permalink: /news/brigatinib/
 
 ---
 
-### [Faster Alzheimer's decline linked to common pill taken by millions](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
+### [Faster Alzheimer's decline linked to common pill taken by millions - Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Alzheimer's</span>
 
-來源：[walesonline.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
-
----
-
-### [Warum tödliche Hirntumoren ausgerechnet für Ultraschall-Therapie besonders anfällig sein könnten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOblNTakdjY21vaXF0WmdteGJ1ZU1EM2JxT2hwZFNyenJyYTRKOWRqWi1tQXZGM0JoS1phZDNTVGZ6ZlYzcFRqaFBPeEVDUXMwbDRLT0h5bFBFcnNId1NpYkhSazU5XzZLRGhsYkgzNjJWYTlMZU56RjVQSTNqV0c0VDFxM1JmNHlKV2JqUFc1dTNMSjF1Z0gxRzYxTk1WcWVZU3BLcElkbHBtU2J2V0RzTEY1Z3diUmxWemFBVmZCY2NicHpzaGc?oc=5)
-
-2026-08-05 <span class="news-indication-tag">tumor</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOblNTakdjY21vaXF0WmdteGJ1ZU1EM2JxT2hwZFNyenJyYTRKOWRqWi1tQXZGM0JoS1phZDNTVGZ6ZlYzcFRqaFBPeEVDUXMwbDRLT0h5bFBFcnNId1NpYkhSazU5XzZLRGhsYkgzNjJWYTlMZU56RjVQSTNqV0c0VDFxM1JmNHlKV2JqUFc1dTNMSjF1Z0gxRzYxTk1WcWVZU3BLcElkbHBtU2J2V0RzTEY1Z3diUmxWemFBVmZCY2NicHpzaGc?oc=5)
+來源：[Wales Online](https://news.google.com/rss/articles/CBMilAFBVV95cUxPblNBRV95c1JkMnZlbFVsWFFwQzdsRXZ3RHRLZnZvZXNNS3ZkNllHMU5uTDd6OEhza0E5bDMySFNQVXZMNDY5ejFoNlhXVVJmeTNZbVNSSUN1dFJrSlR0R29FRF9ISXJzRnI1TW1pUFRIOVBuVGtHLTRaX2RkeFVMSmhPWE5OdUFNeHlSbE4zZ3pzc0p50gGaAUFVX3lxTE5ZVnFjcEJOX1NfdlBuTXdtbXJRUmpQV3ZtdjliMERnc0dLUTVhUGYwLWFDdjFyZmNqajJRYjN0Sms1TUFRa2dhc3hFbDE3ZldaSkRTRS1QS2xFMzVWQ0lNZEZRR3NVQ0NtU1JHS2JDUDk3ZE5yX0VRWGhTbXlsUHdqaXFSRlRQVjk1ZUpsTDJaZVlzOXpVczh0bnc?oc=5)
 
 ---
 

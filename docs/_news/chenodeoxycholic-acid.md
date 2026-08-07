@@ -14,7 +14,7 @@ permalink: /news/chenodeoxycholic-acid/
 ---
 
 <p class="key-answer" data-question="Chenodeoxycholic Acid 有什麼相關新聞？">
-<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Chenodeoxycholic Acid</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/chenodeoxycholic-acid/
 <p><a href="{{ '/drugs/chenodeoxycholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [Dolci e cervello, dietro le tentazioni c'è una ragione scientifica](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+---
+
+### [AID-Systeme in der Diabetestherapie: Fortschritt und Versorgungsrealität](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDFGaU16SlRCYnBKVG5lNVpvRUJsVlhuMTdtTnpiSmhTMDlEWFpLT0otUzQ3bTNLNTgtN09vTXIzWHBWTjNlRDBFZlExZUVrRS1sbjBUNXRzdEROaUtQNl9YSkRDd0dyOURtQlN4QlR3YU5abEhHRkthN2h0ZEFvLUdTcUI?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDFGaU16SlRCYnBKVG5lNVpvRUJsVlhuMTdtTnpiSmhTMDlEWFpLT0otUzQ3bTNLNTgtN09vTXIzWHBWTjNlRDBFZlExZUVrRS1sbjBUNXRzdEROaUtQNl9YSkRDd0dyOURtQlN4QlR3YU5abEhHRkthN2h0ZEFvLUdTcUI?oc=5)
+
+---
+
+### [FNIP1-Gen: Natürliche Mutation schützt zu 60% vor Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1RfUDVBR2lTYy12Njlyekljc0Z0amxNY1cxNUZveHZVLTFtc1JSaTBnQkNCQXA5NmVnNGlVNEU3dDdjTXhrNGlPdmVoNER4VmtYcnJpdXVQNDIzQXdJZFhDRmN1ZTZhLWFRVDJpZnd4aXN0VDA4UldfZTIyY1JPckVWWXM0WnVDLUw1TkZRbDhNaklRR1N1Uk95djFKbXZMN2lMMExtZkw5S2tTUkxvY0xJNUVPdw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1RfUDVBR2lTYy12Njlyekljc0Z0amxNY1cxNUZveHZVLTFtc1JSaTBnQkNCQXA5NmVnNGlVNEU3dDdjTXhrNGlPdmVoNER4VmtYcnJpdXVQNDIzQXdJZFhDRmN1ZTZhLWFRVDJpZnd4aXN0VDA4UldfZTIyY1JPckVWWXM0WnVDLUw1TkZRbDhNaklRR1N1Uk95djFKbXZMN2lMMExtZkw5S2tTUkxvY0xJNUVPdw?oc=5)
+
+---
 
 ### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
@@ -70,11 +94,11 @@ permalink: /news/chenodeoxycholic-acid/
 
 ---
 
-### [Kardiovaskuläres Dreifachrisiko geht mit früher Demenz einher – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+### [AI in Diabetes Management: Neural Architecture Search for Blood Glucose Prediction](https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzNYNC14R2dpYXZmajd3ckhINHRGOXQ0MjBwempPQmc0VnVxLUlxTzQ1cmI0Rkx5c2RVMUtkZmhvYm9wZkNLRXItUXJ5d2ZCNXB0Wk05RzdNRlkyRTZNaWtsMmRrenRyRDVhQm52R2NxQnJDZUF5VUR3Y0lXSnJ0eFU0b0JVSldhQkZ1VVJUM096Qk5pTFN2Z0I5Q2lfZkVUNXBvRnAyNlBRQTZfa1E?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxQdHZCeUJwQkRJcC0xQ3lkMkhhV0JUcGo2YUs4aXZjclFMVE45Uko3WVdiNC1mOEl5WVZkdWNBSGN5SjA2dFdlMzNwandiWjBNSUdoWFh6Yl81X2JpN1RYWXYzQ0NRM0FWbzRWWVdrcWxVVmNmd3NFWXJUQjcwOFEyc2V2OE03RllxUjVGUGlaMTVQR0xkTXlzR0FKTlZ6VENzUnZXVXpvOVdOY3ZpcUVLaVctRzFaOEJ6dFdHM29DU09HNDFSRjVfZGZ3?oc=5)
+來源：[springerprofessional.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzNYNC14R2dpYXZmajd3ckhINHRGOXQ0MjBwempPQmc0VnVxLUlxTzQ1cmI0Rkx5c2RVMUtkZmhvYm9wZkNLRXItUXJ5d2ZCNXB0Wk05RzdNRlkyRTZNaWtsMmRrenRyRDVhQm52R2NxQnJDZUF5VUR3Y0lXSnJ0eFU0b0JVSldhQkZ1VVJUM096Qk5pTFN2Z0I5Q2lfZkVUNXBvRnAyNlBRQTZfa1E?oc=5)
 
 ---
 
@@ -86,17 +110,25 @@ permalink: /news/chenodeoxycholic-acid/
 
 ---
 
+### [Glicemia più alta col caldo estivo? Perché la disidratazione "concentra" lo zucchero nel sangue](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFczc0RzSXRaNFFhSEk5OTFkWG43Y2FsMWxIdS14TWE5b0VWSmxWMlNHSWQ4UXpUYWQ1b19Vc3EwNEdWRzJ3VDhSellkNDBfR0dYQlBPdHJoNzFMVlJyVXdsa19yZkpUWl9aV2phaXVYWndwMER6dkhFYzQ3Qk96TEJhQ2tSMzA2cE40dFF2dmlPM0xLNHJWTEFuc0lOMkgtajdwLXJBYjRWNTNYa0xZem9kbVhsTEU5dkM1NGYzRnptSXRYcFluVnJERzBBVnFkeVBLUQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabete</span>
+
+來源：[My-personaltrainer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFczc0RzSXRaNFFhSEk5OTFkWG43Y2FsMWxIdS14TWE5b0VWSmxWMlNHSWQ4UXpUYWQ1b19Vc3EwNEdWRzJ3VDhSellkNDBfR0dYQlBPdHJoNzFMVlJyVXdsa19yZkpUWl9aV2phaXVYWndwMER6dkhFYzQ3Qk96TEJhQ2tSMzA2cE40dFF2dmlPM0xLNHJWTEFuc0lOMkgtajdwLXJBYjRWNTNYa0xZem9kbVhsTEU5dkM1NGYzRnptSXRYcFluVnJERzBBVnFkeVBLUQ?oc=5)
+
+---
+
 ### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
 
 ---
 
 ### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
+2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
@@ -115,14 +147,6 @@ permalink: /news/chenodeoxycholic-acid/
 2026-08-05 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU93cUt2UnhpbnJkMHRya3hhbEl5bjVyZ3lWWHZadVlOQTFBYlAyYWcyNkJNaWZTOHRjNE5ELWRZcXNHekR5MDNQSUUyX2kzaE4wUW03b1RqVHN4MnBTOUdUczNUT1ZTcXBka2lONVNocEF0OFMtQUw3ZjJRR3B1VGlqd2ItWVlRdlBCR0xn?oc=5)
-
----
-
-### [Ambulances test for fatal DKA diabetes complication after man's death](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
-
-2026-08-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MY0NiRWJQTklqQmhHYkVDZExUeEZrMnNvdGNneHlCTjV5c0VUQ2w2bnhLcGF4UEhMbFJWWGE1VllxeW43ZG9OWDVuN0tBNjRIbGxSekx4czU5a0Z0?oc=5)
 
 ---
 

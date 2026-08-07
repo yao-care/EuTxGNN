@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Dexmedetomidine Hydrochloride 有什麼相關新聞？">
-<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dexmedetomidine Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/dexmedetomidine-hydrochloride/
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">migraña</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/dexmedetomidine-hydrochloride/
 
 ---
 
-### ['I'm a GP - a refreshingly simple bedtime habit could be the key to tackling high blood pressure' - GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
-2026-08-05 <span class="news-indication-tag">high blood pressure</span>
-
-來源：[GB News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQlRLRWFzbS0tdWs4Z2FiSHRELUt2QUE1dk5MR1d0TnJGbGs3aG4wVTFjaV9pMzZ6a2h5bmtXbG5nbDE1N3E1cjZBR3k4eGNiR1VtcXQ4RExlMEtLb3JhajJ2dll0Um1hUms2bHBXZzk2dWpwX0Z2UzYxaw?oc=5)
-
----
-
-### [Akupunktur bei Bluthochdruck: Meta-Analyse belegt Zusatznutzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+### [Akupunktur bei Bluthochdruck: Meta-Analyse bestätigt Zusatznutzen zur Standardtherapie - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 2026-08-05 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTQxQmxCT1hnZkR6T2d4ZHAtNG54MTdoUzZZQWU2T250NWtOS2drS0JqTFhBeXNkNEpNTWxDaDRiZ1MyeTQwdWExUEJWclREdjcxaS10emN4QjNNQzRYYkRDV3huQ1lUamtTZ3piamVVbTBTc0NGNXVma1B5TzJBRHNxaE55dDU1Q3JfWEgwUk9Db1BwbTkyeGZUQldwS0Z4RGc2Q0VZbzFWWkNldC1N?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXM4RUZNQ1NMMW1aWVNGWEl0NWMxS0NVeTc2QUprNkF6NzVwWk1lZlUzSWJoZEh3T3VyTUdnRXUwamc2YmkyU3hVbnpaaVVYcU9VVEU3SGlibVRpalY2cmMwbmUwSWNKZ3E5LXVFX2d5R2FTV0hfdUdNVTQtNkNuZFVWeUpsQ3lsMS1UdG9kVVM0UFZPcnZKaHZXak42eXM1Z1hvSzZkdmxmbkIxVC1QaW90YzV3Y0M3MEE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [Dolci e cervello, dietro le tentazioni c'è una ragione scientifica](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+來源：[Adnkronos](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVXX1pIa09WWEp3RVFsaXZrNkxjd2d6NW5UeWowRzFIUUR4aVBsbktQTXJBaklFYjZrVnRUMXhzWGV6X3M1Nm11N29PbjFIcS1idk5IcEctWkxLd1ROdUpZS1hYWUpyakd2UHpxZV85ZHlrbm1PbTNDR0cxc3AyRF9RUlVGTlk5YzRMTEF0WXlsY2pPZU80Tw?oc=5)
+
+---
+
+### [Reversible Nachtblindheit nach Adipositas-Operation](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
+
+2026-08-06 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
+
+---
 
 ### [Les médicaments anti-obésité sont désormais remboursés : quelles sont les conditions pour être bénéficiaire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTDRHOWdmU1lVcDJ0Yi1na3otVzRfd09nTW9UcHdSb2l0XzhnOUZUSlE5LUxQV24yVDZ4XzZYRVBrbDJpWWZCbDlfRHNBMU5oUWhibU5zTXdMZm9NVEp2dzRBV3l4X29jMGxRMExSc2NHRkdlMVFYMzEySE9ReWRCZlZZWm8xMmgzY1pyYjFoWE5xdzZycl9jSDQtazI0clZOZkE4aGVfZGVXd05QMGpnSnZ1RjFXMnRYZ0ZWV2F5cERYQVo4cUFuT0V4RElVT3o0WTllbWRaRm1CTW9oc0ExeDlkYmo?oc=5)
 
@@ -86,11 +102,11 @@ permalink: /news/ziconotide/
 
 ---
 
-### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+### [Albert Muñoz-Vendrell, neurólogo: “La principal causa por la que la migraña es más frecuente en mujeres es hormonal” - La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">migraña</span>
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVU?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1ZQT0RxeDhJRXZJY1ZCeUdBQ3RqZDFBQ19Zcnc2ZHM2NjVWRS1aelNJLUttRl9KNzBjWk1VTzJteVVoeEViMDlOQjJESk5nQWEtSG5iM1VGVkFDZEFLdDZwWGhVLUhacExiN0VycWtGbWJFOEZmbEEyeURkVEJlRUNQZzRCd0lYNkpQNnVJRUVJWjlIdkJSUG9za3BIaWlVLXh4RE9lR0UtTF9ZUU1tZ0JtOEsyWTl1WnpEbWpONVJyR1ZMNjVWeXhhY2ZtUk9ocHhCUUZJOXY4bl9Nai12R0dId0plRHRfRHhQakltNERrcVXSAfgBQVVfeXFMTWtGQjFSS1VIUUlUcGhxSXdVLWF4TUFwVkdVRjBpQjlpOURYUlJCZFByaFhSSzd0TnZReWJUVmN0MzRqTEszbWRmZ09YejBKM2QwR3VDSnFsa2dnZ2JBNklLR2FGdnpLQ2ZIYV9qNTFFOVRfNnBDdVBvaGJnWUVnbGVjREFLalVfV2VFb2xyNm1SVjJfY2JMWVZhYmdSRFVxb25xV3U0VmU2YXUwVUI0MzhRSGxfcDJpdDNQb2dObm1WOTJlcXFyUDRoWjR6MVdEU0tlSVl1azFYWkN3ajhBN21OcmRYWUE5Wi1SNk5SeXJPNU84UEJNbjQ?oc=5)
 
 ---
 
