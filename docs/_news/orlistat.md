@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（10 則）
 
-### [Il caso del ragazzino di 170 kg e l’inchiesta BBC: i bambini italiani sono sempre più grassi? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF4?oc=5)
+### [Contaminación, sedentarismo, obesidad, entre los factores que han disparado las cifras de asma en Chile](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
+
+---
+
+### [Bauchfett und Vitamin-D-Mangel: Sterberisiko ab 50 um 123% erhöht - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFhoMUhTS0FabklEVmd2NEU3X2ptWmZkVXpraHJVMzRoLUkxMjYxVkxEN1ZVbUthZG50cV9BbWZNaFlfaGs0bF9DVlFMOFZBZXhubFNfWGdod2RPbndwSVJydUptOUNDVm9UWWlOZUNmVzFGZVlXalF2U21wX2FTTjdTWm9wMG5qaXZ2OTNfeTBLUWF3OG9idlI2YXlUdEU3MjVhY0FBUE01cFJMdlZ6VWFlTWR3S1l1WFJvTWFB?oc=5)
+
+2026-08-08 <span class="news-indication-tag">Adipositas</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFhoMUhTS0FabklEVmd2NEU3X2ptWmZkVXpraHJVMzRoLUkxMjYxVkxEN1ZVbUthZG50cV9BbWZNaFlfaGs0bF9DVlFMOFZBZXhubFNfWGdod2RPbndwSVJydUptOUNDVm9UWWlOZUNmVzFGZVlXalF2U21wX2FTTjdTWm9wMG5qaXZ2OTNfeTBLUWF3OG9idlI2YXlUdEU3MjVhY0FBUE01cFJMdlZ6VWFlTWR3S1l1WFJvTWFB?oc=5)
+
+---
+
+### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
+
+2026-08-08 <span class="news-indication-tag">ictus</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
+
+---
+
+### [Il caso del ragazzino di 170 kg e l’inchiesta BBC: i bambini italiani sono sempre più grassi? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF40gHGAUFVX3lxTE9MRzF4NmVkaENZWDB6VUdQSGFWejJzUjIya2ZGNWRhRHI5ZGRfSGFZVzdVYmhPM2NQaHNBVnRuUDluQVZUdU5hZDg1R1AyMUJIUEc4eHpHa0QyOUJ5VmxsUVo3N1EzSkhsN1YyMVJCNk15MXdSdzVDR2xrdWdFZDhkMmhfWVEzWlNpWDNDSVd6ZHNnSmw4QXRqZXM0bWxtbFJlRWhPZElfUzJrbXRvb2N4V0JFLUpIWmd1ZElFTTVCTVNTM0JOZw?oc=5)
 
 2026-08-08 <span class="news-indication-tag">obesità</span>
 
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF4?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF40gHGAUFVX3lxTE9MRzF4NmVkaENZWDB6VUdQSGFWejJzUjIya2ZGNWRhRHI5ZGRfSGFZVzdVYmhPM2NQaHNBVnRuUDluQVZUdU5hZDg1R1AyMUJIUEc4eHpHa0QyOUJ5VmxsUVo3N1EzSkhsN1YyMVJCNk15MXdSdzVDR2xrdWdFZDhkMmhfWVEzWlNpWDNDSVd6ZHNnSmw4QXRqZXM0bWxtbFJlRWhPZElfUzJrbXRvb2N4V0JFLUpIWmd1ZElFTTVCTVNTM0JOZw?oc=5)
+
+---
+
+### [El curioso gen que protege nuestra salud metabólica](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+來源：[elDiario.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
 
 ---
 
@@ -70,6 +102,22 @@ permalink: /news/orlistat/
 
 ---
 
+### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+
+2026-08-07 <span class="news-indication-tag">obesity</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+
+---
+
+### [Schlaganfall-Infotag in St. Wendel](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
+
+---
+
 ### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
 
 2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
@@ -78,27 +126,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Schlaganfallpatienten besser vor Herzinfarkten schützen - MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+### [Schlaganfallpatienten besser vor Herzinfarkten schützen](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
-
----
-
-### [Reversible Nachtblindheit nach Adipositas-Operation](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
-
-2026-08-06 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
-
----
-
-### [Un estudio de HM identifica la ventana de oportunidad para revertir la obesidad infantil - Redacción médica](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTkc4TlUxbDdFQThpR0lsX05nRUJVX2dPbkdtQ0pGU3dNVkpYek1FOGQ0elFOb3dsT25TeE92RTRodV9tRlJZU1dQVWRnc3ZrQ0JGNGNUWllHc3N2UFQzWGtOZy1ZMno1NGRwbS1naE92and3WDlzZ3QzTGpSTnNRaW1fQm8wb29td3kzNmd5Q3dnZ3JXRnhpaEZVM0E4VjhqWmdhWDF0a002eFVGTzk1UFVDQTUwQzNSVkhKby0wbWNlNHlVeThrNXpjLWFpRFJvc2VWSGFHSDQ5aEdUaDV0dTBEaEtfdmRhcW9RdXcyQWFXMlox0gH6AUFVX3lxTE5tLWZUdmttdlJFd3JKWFVLVG05MjROQ3c5SnJEaVI4TTlwbXZ5MUhpT2tjbHF5VGswSlF6TXhoZXN4UHRoNGZITWNneE9qY0p1am43T1BIdk1Cd1lmMkk4dGpRa1lTc2V1SWNDU29HSXpwOXFIeXRqYjBQX1J1ck9hYk5XTnl5UjM3YzJVVTdyUDdxamRtQmRTMHNtQ2JFUjYtQXBkTjluME9VS1Y2YzhXclBNMTlPMWFLRExOT0hBVEVYdGc0NW02NUVwZnF4UHN0VC0wR1FlcXpldEJ4bkJ0b2ZoVXRCa0hlampSZEtVMy1Jd19KemhPQ3c?oc=5)
-
-2026-08-06 <span class="news-indication-tag">obesidad</span>
-
-來源：[Redacción médica](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTkc4TlUxbDdFQThpR0lsX05nRUJVX2dPbkdtQ0pGU3dNVkpYek1FOGQ0elFOb3dsT25TeE92RTRodV9tRlJZU1dQVWRnc3ZrQ0JGNGNUWllHc3N2UFQzWGtOZy1ZMno1NGRwbS1naE92and3WDlzZ3QzTGpSTnNRaW1fQm8wb29td3kzNmd5Q3dnZ3JXRnhpaEZVM0E4VjhqWmdhWDF0a002eFVGTzk1UFVDQTUwQzNSVkhKby0wbWNlNHlVeThrNXpjLWFpRFJvc2VWSGFHSDQ5aEdUaDV0dTBEaEtfdmRhcW9RdXcyQWFXMlox0gH6AUFVX3lxTE5tLWZUdmttdlJFd3JKWFVLVG05MjROQ3c5SnJEaVI4TTlwbXZ5MUhpT2tjbHF5VGswSlF6TXhoZXN4UHRoNGZITWNneE9qY0p1am43T1BIdk1Cd1lmMkk4dGpRa1lTc2V1SWNDU29HSXpwOXFIeXRqYjBQX1J1ck9hYk5XTnl5UjM3YzJVVTdyUDdxamRtQmRTMHNtQ2JFUjYtQXBkTjluME9VS1Y2YzhXclBNMTlPMWFLRExOT0hBVEVYdGc0NW02NUVwZnF4UHN0VC0wR1FlcXpldEJ4bkJ0b2ZoVXRCa0hlampSZEtVMy1Jd19KemhPQ3c?oc=5)
+來源：[medecon.ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="Silodosin 有什麼相關新聞？">
-<strong>Silodosin</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Silodosin</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,45 @@ permalink: /news/silodosin/
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（32 則）
 
 ### [Herz: Wie viel Kaffee am Tag ist gesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
 2026-08-08 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
+
+---
+
+### [Forscher erschaffen mit KI neue Viren gegen Bakterien – doch die Technik birgt Risiken](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOUFsRko5b216cTlYRDNUbGFMOUxUb3RRMmt3SGpMdW03VVN3U1lUNFZXemxzTndLd0RFWEpia1FJaVhOQ0l5elpGWkZtZ2N3RWdHVFhzYjdrZF9EOWUybUN6bkRzUFZFamVWNkMzRE1zRnBpNXR0Y21RZjlXc1FJVTFNTm9oS19UT1J3Qndpd3pVbWZYYzI3Ny0wQzNYTkU1LUxsQmRGS3IzNkMzZWtpQ1MzVHpYcjlvQnIyWG15bk0ydEs3WUZYQVVrSzFfR3Q4d3JPYnFPdWFNU2YyajVxZmtwel9uVkVZSEZsLWlreEFUREV1VE51T2h3VUw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">AF</span>
+
+來源：[CHIP](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOUFsRko5b216cTlYRDNUbGFMOUxUb3RRMmt3SGpMdW03VVN3U1lUNFZXemxzTndLd0RFWEpia1FJaVhOQ0l5elpGWkZtZ2N3RWdHVFhzYjdrZF9EOWUybUN6bkRzUFZFamVWNkMzRE1zRnBpNXR0Y21RZjlXc1FJVTFNTm9oS19UT1J3Qndpd3pVbWZYYzI3Ny0wQzNYTkU1LUxsQmRGS3IzNkMzZWtpQ1MzVHpYcjlvQnIyWG15bk0ydEs3WUZYQVVrSzFfR3Q4d3JPYnFPdWFNU2YyajVxZmtwel9uVkVZSEZsLWlreEFUREV1VE51T2h3VUw?oc=5)
+
+---
+
+### [Terni, caso di febbre virale ‘chikungunya’ in viale Brin: disinfestazione. Le aree coinvolte](https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnR6VUFJckJOVDRtOFhoWVBNXzgxNENJWTB1VVFWNkZSTFNSc0VqYXFnSVJXTHlIQWRna3poVlpSZTZQN3lreS1sTlI5Z0FZOVlPOFVlSzR3TUZqMXk0cFVOeUdHN2RyV0VxMm95UXpEb25UUkpSSjdzZGtkQXdJUGFWT1VzT1RDOXJzM2k2U1ROeUVmX0t0RTZVUDhyOXVVV2pKLXlzT0dkOHMyVVdaaXRMeURIbEVaQk5iZ2NWVjVRdGpISVRaM3JXdnQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">AF</span>
+
+來源：[UmbriaON](https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnR6VUFJckJOVDRtOFhoWVBNXzgxNENJWTB1VVFWNkZSTFNSc0VqYXFnSVJXTHlIQWRna3poVlpSZTZQN3lreS1sTlI5Z0FZOVlPOFVlSzR3TUZqMXk0cFVOeUdHN2RyV0VxMm95UXpEb25UUkpSSjdzZGtkQXdJUGFWT1VzT1RDOXJzM2k2U1ROeUVmX0t0RTZVUDhyOXVVV2pKLXlzT0dkOHMyVVdaaXRMeURIbEVaQk5iZ2NWVjVRdGpISVRaM3JXdnQ?oc=5)
+
+---
+
+### [Antelm Pujol, nutricionista: "Mi desayuno de cada día son tostadas de pan de calidad, café, huevos y proteínas como lácteos, pavo o jamón" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiggJBVV95cUxQbFhxdTNHMC1OU0lKbmFXXzNGYVlQVWJkZWtQRjF0bVllOEZSaEJRbk5XcW9GUGo4NnctTjlGc3BJUGlFOWJhTi1HMHpiLVJWeXZobk5IM0U3Ym1GRHZZbGsyenNmU2JXenhob0JsYnBUbHRrcjRvNXdWR3E3UGhhT2ZRalI4WEh1VE1taVVBZjh0enl2YkkxbWxrX09kZWRRMXdxcFYwNlAybHNsQjJsU2Q2VUlrVzZaSDdVdWRXdkFPSy1pd25GZUM3VUw4ZUJlUldDNHFJR2VsaENHbkRrMGQ0V3hFbXdFalVDWjdlV21FeHpRejlFV2hUYnJxT0hIOXfSAY8CQVVfeXFMTmxfTnRCUkVQcXhKVjRuX1JMYnYtQ3VZeFc1QzZxX3h2cnA0ZGczQ292aG4zd1RUQUtuQk01ZVI2cHdWczE2MUdZeWRZNnBwUHM4TThKQ1BITG1yZjFjSEZUc3VubGcwV2tRMGh2cW03Q1FzVU12cTRPX0pISVpMd2N3RDNSTENTNHppLXVsWHhPS2FNYlN2S0N0TlJ6TnFtMk5iMnVSUEI5Nkl4TER4X3JnTzFIMGczQy1vZmdiVGZSeFhRaElOUXJTSmpQVVgtRzM0azhIWGs4UGJuUjY1T3kzdkY1M21FaEZXMG1seDJGWlBwVUY4TjU0X21jelNIcG9ldkttV1g3c2M1RjdEdw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">AF</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiggJBVV95cUxQbFhxdTNHMC1OU0lKbmFXXzNGYVlQVWJkZWtQRjF0bVllOEZSaEJRbk5XcW9GUGo4NnctTjlGc3BJUGlFOWJhTi1HMHpiLVJWeXZobk5IM0U3Ym1GRHZZbGsyenNmU2JXenhob0JsYnBUbHRrcjRvNXdWR3E3UGhhT2ZRalI4WEh1VE1taVVBZjh0enl2YkkxbWxrX09kZWRRMXdxcFYwNlAybHNsQjJsU2Q2VUlrVzZaSDdVdWRXdkFPSy1pd25GZUM3VUw4ZUJlUldDNHFJR2VsaENHbkRrMGQ0V3hFbXdFalVDWjdlV21FeHpRejlFV2hUYnJxT0hIOXfSAY8CQVVfeXFMTmxfTnRCUkVQcXhKVjRuX1JMYnYtQ3VZeFc1QzZxX3h2cnA0ZGczQ292aG4zd1RUQUtuQk01ZVI2cHdWczE2MUdZeWRZNnBwUHM4TThKQ1BITG1yZjFjSEZUc3VubGcwV2tRMGh2cW03Q1FzVU12cTRPX0pISVpMd2N3RDNSTENTNHppLXVsWHhPS2FNYlN2S0N0TlJ6TnFtMk5iMnVSUEI5Nkl4TER4X3JnTzFIMGczQy1vZmdiVGZSeFhRaElOUXJTSmpQVVgtRzM0azhIWGs4UGJuUjY1T3kzdkY1M21FaEZXMG1seDJGWlBwVUY4TjU0X21jelNIcG9ldkttV1g3c2M1RjdEdw?oc=5)
+
+---
+
+### [Tumore e caldo, l’estate non è vietata: le regole per proteggersi senza rinunciare a tutto](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalMxQ1Q0ZV9ESWplRkw5bm41aldxQXRzM0FsV2I4LWtJVU94TGZFM0dXMGZVY3pVazl1amFiTnRJbTVpZHJMcHltX1dfNUhjWjhxVU93MW5ZVHV2UkJxRU9uQUl0b0ZCYmlXY1ZsNG9nRzFqMlY3MEJBb2Fvb1JnUWgyN0tsY09MajVlckNJMzdWQkpvVThHTHRKRTllcnQ3LUNJdmFMUU8wWVk1ME03SFBHZ21ZOGc4ZlJGaDVPWUlfTHVKcFJsem9TY3Y1ak9PakxyVw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalMxQ1Q0ZV9ESWplRkw5bm41aldxQXRzM0FsV2I4LWtJVU94TGZFM0dXMGZVY3pVazl1amFiTnRJbTVpZHJMcHltX1dfNUhjWjhxVU93MW5ZVHV2UkJxRU9uQUl0b0ZCYmlXY1ZsNG9nRzFqMlY3MEJBb2Fvb1JnUWgyN0tsY09MajVlckNJMzdWQkpvVThHTHRKRTllcnQ3LUNJdmFMUU8wWVk1ME03SFBHZ21ZOGc4ZlJGaDVPWUlfTHVKcFJsem9TY3Y1ak9PakxyVw?oc=5)
 
 ---
 
@@ -86,14 +118,6 @@ permalink: /news/silodosin/
 
 ---
 
-### [Auf dem Weg zum Super-Erreger? Forscher basteln neue, infektiöse Viren mit Künstlicher Intelligenz](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0dKMnVkMklOWGlwMVJNV3pfamNZVzFWTE10QWJLb1cxYUlNRmpWVHo4bVVPaFFvUVhfOVFXU1dSRi1oTlJtcW9FSHd2LU9KOVJheER6cEhZVHVtX0FnZmdYSEl2cXFrLVNueTdyRHVPcUMtLVppWGVRakVyZVlwcWswWWFfYlJMUDlLT1V4ajRNVlAtVDFwT1FWMkkzVi1UblF2MWRrRVhfNGpGVVl1TGR5U2J4MU1qLXhQZHF0QlktZGRJTFVaTkc1NjRuMkpUdXdVckJTQjlJWUtwdkE?oc=5)
-
-2026-08-08 <span class="news-indication-tag">AF</span>
-
-來源：[Tagesspiegel](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0dKMnVkMklOWGlwMVJNV3pfamNZVzFWTE10QWJLb1cxYUlNRmpWVHo4bVVPaFFvUVhfOVFXU1dSRi1oTlJtcW9FSHd2LU9KOVJheER6cEhZVHVtX0FnZmdYSEl2cXFrLVNueTdyRHVPcUMtLVppWGVRakVyZVlwcWswWWFfYlJMUDlLT1V4ajRNVlAtVDFwT1FWMkkzVi1UblF2MWRrRVhfNGpGVVl1TGR5U2J4MU1qLXhQZHF0QlktZGRJTFVaTkc1NjRuMkpUdXdVckJTQjlJWUtwdkE?oc=5)
-
----
-
 ### [Farmaci e caldo, attenzione alla conservazione: «Rischi per efficacia e sicurezza» - La Provincia di Cremona](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUUN4TXFMVWN3ZDZpTE9rM25mLXFFcHRKamV5WnRrZkZMVk91VkxoeGtmNEZIeWZGUHNheno2OUpadDZTM0tWV0o3UDFNS2JkS1RHS3MxeVdvbDlVSDNLb3VNbUdkUGlPWFplMVE1ODJZNE9jdUpIeGxiWFJVelBqUVJ4Sll2SFllWldyQXZrX0RmMnZsZ2hpMFh2OXhhU1o2UEE1OFU1VmZSRWpVRzJVQkJQZGhuMHhBS0JnWHdMa083SXBtcE80MzNhX2E?oc=5)
 
 2026-08-08 <span class="news-indication-tag">AF</span>
@@ -102,11 +126,27 @@ permalink: /news/silodosin/
 
 ---
 
+### [Ciclosporiasi, cos’è l’infezione partita dalla lattuga dei fast food. Sintomi, cure e come prevenirla - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSExIWlNaRzM1N09PNnRLRzV2QV9qU1ZLREJyV1BJRmZpWkphRjJ0dVF3bmJmZ2FrTTBxcmpWcGpkLVBsV3M1SmFlTG9nSXBfZmk4VHp1TUFtWk5BYWVTQVpMbFpsVlhfSE9mWEtiYnNwaW1hMHRheDI5SFc2UFhwcV9XSXpVaDFiRGpEVjNCckdVMVhyaHI5WGFPbw?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[Quotidiano Nazionale](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSExIWlNaRzM1N09PNnRLRzV2QV9qU1ZLREJyV1BJRmZpWkphRjJ0dVF3bmJmZ2FrTTBxcmpWcGpkLVBsV3M1SmFlTG9nSXBfZmk4VHp1TUFtWk5BYWVTQVpMbFpsVlhfSE9mWEtiYnNwaW1hMHRheDI5SFc2UFhwcV9XSXpVaDFiRGpEVjNCckdVMVhyaHI5WGFPbw?oc=5)
+
+---
+
 ### [Anti-entzündliche Ernährung senkt Demenzrisiko: Mikrobiom und Omega-3 im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0lJdTg0TFBtLTVhUi1GOFJBeWU0dXFJVWxKNlVITWN0SDFqaTFaaXZaY2xLdXI4NTZlMHdZYzJUbGM3elQwd01KY3RxWFFuRWtTMWNXeDB0UTdNRWlfZ0FXVnFhRkM5OEthZzZWV2M5azdCMUluRFI5SVJidXpQcDR6ZHpPN1FJT3RWZ1dNZXJseFFmZDk4SHU1aDlrMW5vNDhZM0x2MFBBSlJWdm5KZg?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0lJdTg0TFBtLTVhUi1GOFJBeWU0dXFJVWxKNlVITWN0SDFqaTFaaXZaY2xLdXI4NTZlMHdZYzJUbGM3elQwd01KY3RxWFFuRWtTMWNXeDB0UTdNRWlfZ0FXVnFhRkM5OEthZzZWV2M5azdCMUluRFI5SVJidXpQcDR6ZHpPN1FJT3RWZ1dNZXJseFFmZDk4SHU1aDlrMW5vNDhZM0x2MFBBSlJWdm5KZg?oc=5)
+
+---
+
+### [La muerte de una persona querida acelera el deterioro cognitivo en personas mayores, según un estudio](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEFGRGxSSEdybGtyRXJ3RVFIVXh0a1d6SndZU2xNekdlV1hXYkFMekpFZlhzaE9XSnNRTi1yeWk5RGtOd1NDR3FOU3ZGUkdOMklTQUZMNTVSRVdmMnVYdUtsLU5TdThEMXpIa0p0RVpSQU1adHZUSHdVcXNqNXF3VzdiaEdwSUcyWWxzNVBDRmxaTnZpQTFwRmROM01qTzRua1pBamZEdVZQb19rOHNaSW5rd0E4WWFKSFk4MkRlX2RwY3FPUXJ6Rg?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[Segre.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEFGRGxSSEdybGtyRXJ3RVFIVXh0a1d6SndZU2xNekdlV1hXYkFMekpFZlhzaE9XSnNRTi1yeWk5RGtOd1NDR3FOU3ZGUkdOMklTQUZMNTVSRVdmMnVYdUtsLU5TdThEMXpIa0p0RVpSQU1adHZUSHdVcXNqNXF3VzdiaEdwSUcyWWxzNVBDRmxaTnZpQTFwRmROM01qTzRua1pBamZEdVZQb19rOHNaSW5rd0E4WWFKSFk4MkRlX2RwY3FPUXJ6Rg?oc=5)
 
 ---
 
@@ -126,14 +166,6 @@ permalink: /news/silodosin/
 
 ---
 
-### [Corona weckt schlafende Viren bei fast jedem zweiten Patienten - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEVjVjdrMmJPdkFnZTJjWXdxQlhURXB1VnhscWw0RklWUkFBcmRBUGZJaWM5V3Blb3p0MEFIemlFa3dmRnhHY29SaXBna2FNeFl5V2t6Z1A5dW1tUVo5ZnV4b1RjQ2hncmswcHFnTWw5SDVsaHBBcUtkb0lFbkpFZHpMZXRHQ3ZOZzMwTzZUd0t3eERTdkZfS19LcnJHNVktQm9ybkh5eWtTb3JkbjdpbVAybjBFTVlnOXpETVhJQVpIRGdMTFRJ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">AF</span>
-
-來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOEVjVjdrMmJPdkFnZTJjWXdxQlhURXB1VnhscWw0RklWUkFBcmRBUGZJaWM5V3Blb3p0MEFIemlFa3dmRnhHY29SaXBna2FNeFl5V2t6Z1A5dW1tUVo5ZnV4b1RjQ2hncmswcHFnTWw5SDVsaHBBcUtkb0lFbkpFZHpMZXRHQ3ZOZzMwTzZUd0t3eERTdkZfS19LcnJHNVktQm9ybkh5eWtTb3JkbjdpbVAybjBFTVlnOXpETVhJQVpIRGdMTFRJ?oc=5)
-
----
-
 ### [Schlafmangel und Gewichtszunahme: Warum schon 80 Minuten fehlen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVRCQmVodGFiOWliWUNiU3JLaXpfTXZONDRGMWZ0Q09zSUlaVURmanBCVGRzMUhKYXFHVW5na1VvdklETUV4U1h1Vk5hYndOa25qbllidlFNUEFqYmhueXFoR3lRWTFucVdHdEFNV1ZDdm5GN3lQT0trRXd2MmdLLXJyUHlHU3JWakpiOXUxMVdPbmNILWYtaTdB?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
@@ -147,22 +179,6 @@ permalink: /news/silodosin/
 2026-08-07 <span class="news-indication-tag">AF</span>
 
 來源：[diarioenfermero.es](https://news.google.com/rss/articles/CBMibEFVX3lxTE91aEk1TmQ2Q2MtN0hVZXJkOTNLdElUMUxiVmJzYzg4Wk5BU0FxZ1NUQkFWbDJHODlobWEta2VPa2gybUN1Y2laLVl0UGt4ME9CYndXb085YmxXX0pDTE90OUp0bmdnLU5IT29kVw?oc=5)
-
----
-
-### [El duelo prolongado también afecta a su capacidad cognitiva en edades avanzadas - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUh4LUpMczBNT0dJYVFreWhfbk9EUDhaZGZIRzF2WlpSTHg5c0lRVFpoV3Vnb29ER3dhRWJybmcyX2sydmp4bE9GRHN2NnZ6MHN4U3pUcVhFOEgyTlNDMmwydlZ3N1o2Q09OV0FaMkVxcl8wdlFiVUNlNzNWN1YxejJ4SGZCQ1VRc3R5ZzlHaXd0N3lFeFRwdHdFdUV1TzYyQk9xLU1sU19oY2xQaWV2V3ZncHNFaUM4elI4UjZzSdIBugFBVV95cUxOSEZnV1pzcmlqcEszWGh4MGk5TVdheUxjUHd4STF4NTZzdzZ5ZGg3dm1KMGxoVDFfNGRhSEMyZlA4dHl6T0d1WE1HckstdmR0QnY5c1dNY0xidGxpUlp5SGxycmZDTFpVX29ISHlhVkRLSmdEUmlTNno4dWE2WjNoS0c0R1o4clFqTlVGbU96ckZRNm02blpvMWh6RE82QlFZMy02UDFtb0JfT0RMVTBQWF9acXY3ank5NHc?oc=5)
-
-2026-08-07 <span class="news-indication-tag">AF</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUh4LUpMczBNT0dJYVFreWhfbk9EUDhaZGZIRzF2WlpSTHg5c0lRVFpoV3Vnb29ER3dhRWJybmcyX2sydmp4bE9GRHN2NnZ6MHN4U3pUcVhFOEgyTlNDMmwydlZ3N1o2Q09OV0FaMkVxcl8wdlFiVUNlNzNWN1YxejJ4SGZCQ1VRc3R5ZzlHaXd0N3lFeFRwdHdFdUV1TzYyQk9xLU1sU19oY2xQaWV2V3ZncHNFaUM4elI4UjZzSdIBugFBVV95cUxOSEZnV1pzcmlqcEszWGh4MGk5TVdheUxjUHd4STF4NTZzdzZ5ZGg3dm1KMGxoVDFfNGRhSEMyZlA4dHl6T0d1WE1HckstdmR0QnY5c1dNY0xidGxpUlp5SGxycmZDTFpVX29ISHlhVkRLSmdEUmlTNno4dWE2WjNoS0c0R1o4clFqTlVGbU96ckZRNm02blpvMWh6RE82QlFZMy02UDFtb0JfT0RMVTBQWF9acXY3ank5NHc?oc=5)
-
----
-
-### [Dormivano nel ghiaccio da 48 mila anni: i virus che il disgelo può risvegliare](https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkM1amNORF9TZHdvQ1ctano2Y0Z2OFVmOTFFMDMwMkI5NW1hZ2taNUREU0tFbGE4cHVBc0t6TGZ4Um5Iem9OTWNjRkNwUXhtTUlSemxYNjkxaTdSbEQxUzJ2VmZNRnc1Q1ZFYy1QRGNjamFJd3VEdTVRbU1kM1B0VE10NDZIa3FXS3JlWVAyLWR5anF2ZW55ZXQyUlNKQVNYRmtfSTloV1ZkMXNreGllZjFWdEhGSno5NVpNcFdkX2dkNkNONW00?oc=5)
-
-2026-08-07 <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkM1amNORF9TZHdvQ1ctano2Y0Z2OFVmOTFFMDMwMkI5NW1hZ2taNUREU0tFbGE4cHVBc0t6TGZ4Um5Iem9OTWNjRkNwUXhtTUlSemxYNjkxaTdSbEQxUzJ2VmZNRnc1Q1ZFYy1QRGNjamFJd3VEdTVRbU1kM1B0VE10NDZIa3FXS3JlWVAyLWR5anF2ZW55ZXQyUlNKQVNYRmtfSTloV1ZkMXNreGllZjFWdEhGSno5NVpNcFdkX2dkNkNONW00?oc=5)
 
 ---
 
@@ -182,7 +198,7 @@ permalink: /news/silodosin/
 
 ---
 
-### [Ebola strain feared to be mutating as 'fastest spreading' oubreak strikes 4,000 - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUl1V000dXpRUEN4X3dnN2wyRmRSZDdEUDlxc1FnbzVXdC16MVY1Slh5cnBKakpNUDRsNEJOTXl5aHdlMUV3a0lhdE1VSndHYnY4VEduOC01VTE4NzBYY0RmUW54UFQ2SlFsTDVKX2pkaEpTUFVtT0FPbm9vVGlvcA?oc=5)
+### [Ebola strain feared to be mutating as cases surpass 4,000 in 'fastest spreading' outbreak on record - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUl1V000dXpRUEN4X3dnN2wyRmRSZDdEUDlxc1FnbzVXdC16MVY1Slh5cnBKakpNUDRsNEJOTXl5aHdlMUV3a0lhdE1VSndHYnY4VEduOC01VTE4NzBYY0RmUW54UFQ2SlFsTDVKX2pkaEpTUFVtT0FPbm9vVGlvcA?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
@@ -214,19 +230,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Cagliari, allarme West Nile: iniziate le disinfestazioni - L'Unione Sarda.it - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWkxRDB2c0xxZVJMVXFWOHZaMXNOSGFPYzZndG1ranhVc0hrdDdXQVZvSldXX3EzM2xVa0w1M3VRc2o5RUdtT2IzSDBudkZlRV9pbV9ka05TSV9xVHZxb0JpcmpPWjRGQU5uOTZuOGVieU1GYWVmVndvMUVSWkxqWHFFSFFQS2s1U0tiZUlldGl3Y21kZXNnNkxSLTJObTdpOUFNMnMtRE82amtFb2FSYno0MNIBuwFBVV95cUxNc2VKMzJrbWVKOXJYMEoyelJpbG9qVmpfbThSeEl6VHpGRjFnSk8tMVJ6MmhhWFoyVGJKWHpILUFfZlFXNS0wbmZfdTRFbW15c1pEOU1jU0txY2dSY0xWT1Z0ZnZ3dDU5ejQwck1TdlZ4UWVDVHZEbFdhbU11R2ZkaUgzQ2tCSlRhaGJSLUdBSC1ocWpPMFBZTlJsY0tjRkdDcUtQMkVyaVpVeWUtWG1xb2ZwMW5tWWNjQ284?oc=5)
+### [Sildenafil überzeugt in der Krebstherapie - PTA IN LOVE](https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWTh5bDVXeGU5RFJBXzJlV0JxU1Q2cDIzb0VYVkxKeWg2YmVHOGxncnprajI0dTFLZXFPNHRFcG1PMGlZeGQwZVdscWZkUTZjT0F4X211a2pneG9UaFFyd09taDVqcmFDV0tSUWkxZV9YLVpBR3lQOGlB?oc=5)
 
-2026-08-07 <span class="news-indication-tag">AF</span>
+2026-08-07 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWkxRDB2c0xxZVJMVXFWOHZaMXNOSGFPYzZndG1ranhVc0hrdDdXQVZvSldXX3EzM2xVa0w1M3VRc2o5RUdtT2IzSDBudkZlRV9pbV9ka05TSV9xVHZxb0JpcmpPWjRGQU5uOTZuOGVieU1GYWVmVndvMUVSWkxqWHFFSFFQS2s1U0tiZUlldGl3Y21kZXNnNkxSLTJObTdpOUFNMnMtRE82amtFb2FSYno0MNIBuwFBVV95cUxNc2VKMzJrbWVKOXJYMEoyelJpbG9qVmpfbThSeEl6VHpGRjFnSk8tMVJ6MmhhWFoyVGJKWHpILUFfZlFXNS0wbmZfdTRFbW15c1pEOU1jU0txY2dSY0xWT1Z0ZnZ3dDU5ejQwck1TdlZ4UWVDVHZEbFdhbU11R2ZkaUgzQ2tCSlRhaGJSLUdBSC1ocWpPMFBZTlJsY0tjRkdDcUtQMkVyaVpVeWUtWG1xb2ZwMW5tWWNjQ284?oc=5)
-
----
-
-### [Un componente bacteriano mejoraría la fertilidad en mujeres mayores de 35 años](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3ktMnR6TFRTR0VYY1o2RUtHQmlsYVJVLTZtV0FDWGlubzd6VUVpYXBOSFU5WFc0cEtGQjdjNFpkZmJSQUt6UG5MbW9xVXFkc09zb2xwN3g1dTVYbmJuT0lUU3p1Tm5sWjk5SFBZVW15TkRSRTBOVFZ4VU8wVmFsUGpEeXNhLU5tcGJLQXlhRGlJLV9qZ2NnWTBKQlkxZk42WUxtcU5mN2NYSm1GRHV2Ykg2Uk8?oc=5)
-
-2026-08-07 <span class="news-indication-tag">AF</span>
-
-來源：[Sinc](https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3ktMnR6TFRTR0VYY1o2RUtHQmlsYVJVLTZtV0FDWGlubzd6VUVpYXBOSFU5WFc0cEtGQjdjNFpkZmJSQUt6UG5MbW9xVXFkc09zb2xwN3g1dTVYbmJuT0lUU3p1Tm5sWjk5SFBZVW15TkRSRTBOVFZ4VU8wVmFsUGpEeXNhLU5tcGJLQXlhRGlJLV9qZ2NnWTBKQlkxZk42WUxtcU5mN2NYSm1GRHV2Ykg2Uk8?oc=5)
+來源：[PTA IN LOVE](https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWTh5bDVXeGU5RFJBXzJlV0JxU1Q2cDIzb0VYVkxKeWg2YmVHOGxncnprajI0dTFLZXFPNHRFcG1PMGlZeGQwZVdscWZkUTZjT0F4X211a2pneG9UaFFyd09taDVqcmFDV0tSUWkxZV9YLVpBR3lQOGlB?oc=5)
 
 ---
 
@@ -254,19 +262,27 @@ permalink: /news/silodosin/
 
 ---
 
-### [Cumbernauld mum issues asthma warning to schoolkids after daughter's tragic death - Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
-
----
-
-### [‘Heavy smoker’ dies on holiday after quitting cigarettes caused a toxic reaction - The Worcester News](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0dXaWdIdDlrZUR0Sk1sQjdTUXQ1ZkZqTFBSVVhRaEx1RW9SaTBSWmsxY1pWaHV5OER3dVdPcDg4UjF2cW9kMXE4ZjllQnVyV1ZGRm1BSlV0b0x1NFdMWlJwVW5TTlFScGZYeVZvTFVTd3hRb01rVEp0S19TVmF2RWdscUh3N2l6T3lvZEVpeWl1Wm1BZFJOSVNR?oc=5)
+### [Corona weckt schlafende Viren im Körper – bei fast jedem zweiten Patienten](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3JxV0o2ZFh1Z0tJMWxIekRRb0c1XzF0RVl3WjRjOHRhbU16eGpzUUJRcVE3X1pWcmVUaG1HdGVkSHhBRDUyTTlBVWxFZDhjc2twZ1p3azFFY3dQYWhBOFRZTExBS29rVk5OOXJfVllNRTRORktqMnJBbVdScm1FcjZyRzJ4ajV4QUluVnpDSlBPSmVyeFpiMF9YVGx2QUNreUttQjdHVS1IbFZNQTNKUnhyWUNPOVVXVWQ0bVhPYw?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
-來源：[The Worcester News](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0dXaWdIdDlrZUR0Sk1sQjdTUXQ1ZkZqTFBSVVhRaEx1RW9SaTBSWmsxY1pWaHV5OER3dVdPcDg4UjF2cW9kMXE4ZjllQnVyV1ZGRm1BSlV0b0x1NFdMWlJwVW5TTlFScGZYeVZvTFVTd3hRb01rVEp0S19TVmF2RWdscUh3N2l6T3lvZEVpeWl1Wm1BZFJOSVNR?oc=5)
+來源：[berliner-zeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3JxV0o2ZFh1Z0tJMWxIekRRb0c1XzF0RVl3WjRjOHRhbU16eGpzUUJRcVE3X1pWcmVUaG1HdGVkSHhBRDUyTTlBVWxFZDhjc2twZ1p3azFFY3dQYWhBOFRZTExBS29rVk5OOXJfVllNRTRORktqMnJBbVdScm1FcjZyRzJ4ajV4QUluVnpDSlBPSmVyeFpiMF9YVGx2QUNreUttQjdHVS1IbFZNQTNKUnhyWUNPOVVXVWQ0bVhPYw?oc=5)
+
+---
+
+### [Sepsis durch Infektionen im Mundraum: Stiftung warnt vor Risiken - Dental & Wirtschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOckZvbTlSMFNxaHBfbHk3djAyakd4UWpZckptTXpKd3p0N3h5ajZ4Nkp6TlpXZWxNTXI4T1B1Q21MRzhScVp5R1ZmUmNCa2dJclc5Xzd2Y21raWo5ajVUMXpXbV91QkpZR2x6OXkwamd0dU4ya0pUT0QtejJSeEZGZ1pjaDRGYlhBSk5WYUZHVFZXN1RwenhDZQ?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[Dental & Wirtschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOckZvbTlSMFNxaHBfbHk3djAyakd4UWpZckptTXpKd3p0N3h5ajZ4Nkp6TlpXZWxNTXI4T1B1Q21MRzhScVp5R1ZmUmNCa2dJclc5Xzd2Y21raWo5ajVUMXpXbV91QkpZR2x6OXkwamd0dU4ya0pUT0QtejJSeEZGZ1pjaDRGYlhBSk5WYUZHVFZXN1RwenhDZQ?oc=5)
+
+---
+
+### [I virus “zombie” intrappolati nei ghiacciai con il caldo potrebbero tornare: che cosa rischiamo? - la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdybldTVnJWQlJRUEtmbFRrRndBWEVQZXNNRm1TX2Z1Ulp2TlQwX0hsSi1KUnNyXy1HaUo3ZnZnSVhlZnJ5aWxkZlpxcTdxZDJuU2lRdTdmdHdfckN2U2pBTHhkbjBkY1RFMkdhTUNXU09OdjFfYmlDMVAxU3J6dV9ybjZWcVVTellvZWdlaTJBcnNQMmZ0aWVMekRRODhlTXVNMdIBqgFBVV95cUxQZU1Wd2dKYVl4SGdUdTJXVnhpcTFINXZzM2VleVJmYmVPRk9jal9Mbm05bzlOQl9KSldoS0hSNWkyaWlER2Q1aVRUZzVvVjd4ODAxYklPMnFKemk3Rmk4Si1ETjdDdHhvOHBWQm13RHVkZ1lOblRUWGtveFJaeTZKWUpCZkE5YWRYczJVeUJBZlZGZ3hjLUhpc3Jkb2F2b3J5X2J2U2VKaWlpdw?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdybldTVnJWQlJRUEtmbFRrRndBWEVQZXNNRm1TX2Z1Ulp2TlQwX0hsSi1KUnNyXy1HaUo3ZnZnSVhlZnJ5aWxkZlpxcTdxZDJuU2lRdTdmdHdfckN2U2pBTHhkbjBkY1RFMkdhTUNXU09OdjFfYmlDMVAxU3J6dV9ybjZWcVVTellvZWdlaTJBcnNQMmZ0aWVMekRRODhlTXVNMdIBqgFBVV95cUxQZU1Wd2dKYVl4SGdUdTJXVnhpcTFINXZzM2VleVJmYmVPRk9jal9Mbm05bzlOQl9KSldoS0hSNWkyaWlER2Q1aVRUZzVvVjd4ODAxYklPMnFKemk3Rmk4Si1ETjdDdHhvOHBWQm13RHVkZ1lOblRUWGtveFJaeTZKWUpCZkE5YWRYczJVeUJBZlZGZ3hjLUhpc3Jkb2F2b3J5X2J2U2VKaWlpdw?oc=5)
 
 ---
 
@@ -278,11 +294,11 @@ permalink: /news/silodosin/
 
 ---
 
-### [Chemotherapy straight after surgery could help combat brain cancer - The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzRVVTV5U182UmNYc09Vc0Z6Rk05dUdUdGRsLXh6WUxwLU1qY3YwNGU3UU9fVDFaV2RGb213ZEhsWENyeWp0SkZ3eVdkRTRMYXhiSVpmTkEwRVRPNWhNN2xfODNkaDRDUkpKY3V4SGlUbGk2d2RWYmVJNUo3VG9ZdEtQUjRSa1Nkb3VXU0tEMkhsVFl2ZExLQUVGZFhLbzNtX29EZE9jWQ?oc=5)
+### [Brain cancer ‘breakthrough’ as scientists uncover new windows of opportunity for treatment - The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHZIWFM0YXVXVmZmZGo4TmhZY0V1U1d3d0FVWUV5V2hna09zRkx5MVd1R2RrbVIzMWNpbnNqN3FBOFpnalJ0WEZMUmhhV1hEQnR2Y0tja0hNYm95eEZjNUFkZnNBa25iNmZZb05ITW9LeGd3YUNNc2FKTXFjc1ZfX1ZMX0xTVTZkaWpLZnJSUTZmZmNrNTFXZzNtdlA4Qm1CY3Z1RVd6STNBSG1lYzRqVWVIV0dBR1E?oc=5)
 
 2026-08-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzRVVTV5U182UmNYc09Vc0Z6Rk05dUdUdGRsLXh6WUxwLU1qY3YwNGU3UU9fVDFaV2RGb213ZEhsWENyeWp0SkZ3eVdkRTRMYXhiSVpmTkEwRVRPNWhNN2xfODNkaDRDUkpKY3V4SGlUbGk2d2RWYmVJNUo3VG9ZdEtQUjRSa1Nkb3VXU0tEMkhsVFl2ZExLQUVGZFhLbzNtX29EZE9jWQ?oc=5)
+來源：[The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHZIWFM0YXVXVmZmZGo4TmhZY0V1U1d3d0FVWUV5V2hna09zRkx5MVd1R2RrbVIzMWNpbnNqN3FBOFpnalJ0WEZMUmhhV1hEQnR2Y0tja0hNYm95eEZjNUFkZnNBa25iNmZZb05ITW9LeGd3YUNNc2FKTXFjc1ZfX1ZMX0xTVTZkaWpLZnJSUTZmZmNrNTFXZzNtdlA4Qm1CY3Z1RVd6STNBSG1lYzRqVWVIV0dBR1E?oc=5)
 
 ---
 
@@ -291,30 +307,6 @@ permalink: /news/silodosin/
 2026-08-06 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDZzZnZya2l4SDB1dHRHQlNmNEdqenlMME12Ry1tNHRxRTJQZk5aMzd1ZEpOUnk4Sko0dTVoWHNENjRtN2RzRmZxbzg5ZW05Yk1jNnlGZ2laOUtFa2ZudzBvMFB0ZURjc056aVVpUGkzaDVHazlwNndaVkR6QjQ2ZjBqMW5KNDNucHhIT2NyQmJCX29iM29nQjVfVXJmX1k2UkE?oc=5)
-
----
-
-### [Can Eating Less Protein Help You Live Longer? Studies Offer Clues](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWZCUk8wWFdqUGxmTlhWeXhhLW5qY1NzYjFpNVNkUENRTGtIcTIzazIyR0NhYzhEOWRSVFY0ODctaG4wLWxkSHpCenlWTk10di0wWlVjU3ViUVk3Zzltc3p0Ul9BLXNMMWxocXBXR1ZEbUlCSW80NlFrRTFDbGg1cjMxRDlGczE1M0E?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[Healthline](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWZCUk8wWFdqUGxmTlhWeXhhLW5qY1NzYjFpNVNkUENRTGtIcTIzazIyR0NhYzhEOWRSVFY0ODctaG4wLWxkSHpCenlWTk10di0wWlVjU3ViUVk3Zzltc3p0Ul9BLXNMMWxocXBXR1ZEbUlCSW80NlFrRTFDbGg1cjMxRDlGczE1M0E?oc=5)
-
----
-
-### [Leigh-Syndrom: KI- und Hirnorganoid-Studie setzt auf Sildenafil - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmxldHBHVmxIUjlFWGZGX2lHeks5NllGV3M2VGJvY19fbUNrMXc0dlhUd3l3X0RMNzhmd2VWa2tUMk5aS2JJX0txcTBBN1BFcmRZV3QxZ1FlcUJxWC1VOGpPRzgyOVBXYjFPR2ZuaXc0WjFVQk1mQ0x1RThMR0lmQ0Q4Tk5LdDBOYTlkY0huUTNybDZlYUJKVw?oc=5)
-
-2026-08-06 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmxldHBHVmxIUjlFWGZGX2lHeks5NllGV3M2VGJvY19fbUNrMXc0dlhUd3l3X0RMNzhmd2VWa2tUMk5aS2JJX0txcTBBN1BFcmRZV3QxZ1FlcUJxWC1VOGpPRzgyOVBXYjFPR2ZuaXc0WjFVQk1mQ0x1RThMR0lmQ0Q4Tk5LdDBOYTlkY0huUTNybDZlYUJKVw?oc=5)
-
----
-
-### [FDA Approves First mRNA Flu Vaccine in Win for Moderna After Arduous Review](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnZEV0ZKa29BT1V0WXRmZFk4cklYbWkyYWdERmMtc0F6ZnNyQ3M0em1LQW5EeVhSaGVKQ2VNM3pJdldPSEtoNGRNZWRFbFNLTnliYkJIZ0ZJZjcxSTFISHZQem5lLWk5SVI3emdkYzFULXh4R2ZFdlViU3VrelZoMzZadllrdWZPamxKM0FYRHFTaVVuTTgyakRsV2w2YWNtcDFmcEk2Z0QzempMNEI0ZlVycVdkanQtalVV?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[WSJ](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnZEV0ZKa29BT1V0WXRmZFk4cklYbWkyYWdERmMtc0F6ZnNyQ3M0em1LQW5EeVhSaGVKQ2VNM3pJdldPSEtoNGRNZWRFbFNLTnliYkJIZ0ZJZjcxSTFISHZQem5lLWk5SVI3emdkYzFULXh4R2ZFdlViU3VrelZoMzZadllrdWZPamxKM0FYRHFTaVVuTTgyakRsV2w2YWNtcDFmcEk2Z0QzempMNEI0ZlVycVdkanQtalVV?oc=5)
 
 ---
 
