@@ -56,11 +56,11 @@ permalink: /news/levodopa/
 
 ---
 
-### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ? - Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ?](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
 
 2026-08-07 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+來源：[leprogres.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
 
 ---
 

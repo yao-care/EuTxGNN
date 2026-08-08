@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/icosapent-ethyl/
 <li>posterolateral myocardial infarction（98.1%）</li>
 <li>posteroinferior myocardial infarction（98.1%）</li>
 <li>septal myocardial infarction（98.0%）</li>
-<li>heart disease（98.0%）</li>
+<li class="indication-matched">heart disease（98.0%）<span class="indication-tag">📰 cardiopatía</span></li>
 <li>Jeune syndrome situs inversus（97.9%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.9%）</li>
 <li>pulmonary valve disease（97.8%）</li>
@@ -52,13 +52,29 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+2026-08-07 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+---
 
 ### [Juvenile idiopathische Arthritis: Bereits Babys können Rheuma bekommen](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
 
 2026-08-07 <span class="news-indication-tag">arthritis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
+
+---
+
+### [Hohe Nachfrage nach RSV-Impfstoffen: impfen auch Sie bald](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
+
+2026-08-06 <span class="news-indication-tag">Herzerkrankung</span>
+
+來源：[deutsche-apotheker-zeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/icosapent-ethyl/
 
 ---
 
-### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
+### [Un estudio en el que participa el Hospital Puerta de Hierro descarta la existencia de una enfermedad del corazón - Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
 
-2026-08-06 <span class="news-indication-tag">artritis</span>
+2026-08-06 <span class="news-indication-tag">cardiopatía</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
+來源：[Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
 
 ---
 

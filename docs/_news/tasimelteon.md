@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [How early-life stress leaves a 'scar' inside brain cells - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSkVtekpCMXFBUEMtYkY1WGFtczlMZkRST2lEdm1SXzMxdFA5a2tYVzdOYUVIcnc2dkl1RXYtRHA3aExIYWtmRUpEb3A2c3FBdGR6cTZKS0NLVmdZckJkN2diaGtrc2NBeXJQUVBjUVBUSVdSS0pFRlltcUw?oc=5)
+
+2026-08-07 <span class="news-indication-tag">depression</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSkVtekpCMXFBUEMtYkY1WGFtczlMZkRST2lEdm1SXzMxdFA5a2tYVzdOYUVIcnc2dkl1RXYtRHA3aExIYWtmRUpEb3A2c3FBdGR6cTZKS0NLVmdZckJkN2diaGtrc2NBeXJQUVBjUVBUSVdSS0pFRlltcUw?oc=5)
+
+---
 
 ### [Depression lässt Immunzellen erstarren](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zbjNEaTB4c2pCM1IzSnlzU2N5QnRTbU92RWtFWjcwdlBKQlhlTWdhTjU4Y1R0ZTNQUXBpX1R4VVU5M1B1Y3VoMVRqSGVSQQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">depression</span>
 
-來源：[tirol.ORF.at](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zbjNEaTB4c2pCM1IzSnlzU2N5QnRTbU92RWtFWjcwdlBKQlhlTWdhTjU4Y1R0ZTNQUXBpX1R4VVU5M1B1Y3VoMVRqSGVSQQ?oc=5)
+來源：[tirol.orf.at](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zbjNEaTB4c2pCM1IzSnlzU2N5QnRTbU92RWtFWjcwdlBKQlhlTWdhTjU4Y1R0ZTNQUXBpX1R4VVU5M1B1Y3VoMVRqSGVSQQ?oc=5)
 
 ---
 

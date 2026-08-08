@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="Elexacaftor 有什麼相關新聞？">
-<strong>Elexacaftor</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Elexacaftor</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/elexacaftor/
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+2026-08-07 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+---
 
 ### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
@@ -83,22 +91,6 @@ permalink: /news/elexacaftor/
 2026-08-06 <span class="news-indication-tag">artrite</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
-
----
-
-### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
-
-2026-08-06 <span class="news-indication-tag">artritis</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="Grazoprevir 有什麼相關新聞？">
-<strong>Grazoprevir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Grazoprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ permalink: /news/grazoprevir/
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（15 則）
+
+### ['I'm a doctor - some diabetes symptoms show up at night long before a diagnosis'](https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RXNVV4aVVZYXRfa0JIZm9OQTB5cHM2blVnUUxQbTVadzVrVmVjaGgyRURsdW9ROWwyd3ZNQ0FkcFdUdUxNT3gzQUtfWDZUN042YlFRckdxTFNlS0VBOC1HLXF6YU1WbzNUSzRPaVFtWTI3YWNFbGNkb194b2R1M3BMRTk4RU0?oc=5)
+
+2026-08-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[gbnews.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RXNVV4aVVZYXRfa0JIZm9OQTB5cHM2blVnUUxQbTVadzVrVmVjaGgyRURsdW9ROWwyd3ZNQ0FkcFdUdUxNT3gzQUtfWDZUN042YlFRckdxTFNlS0VBOC1HLXF6YU1WbzNUSzRPaVFtWTI3YWNFbGNkb194b2R1M3BMRTk4RU0?oc=5)
+
+---
+
+### [L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo](https://news.google.com/rss/articles/CBMixAJBVV95cUxPbDNlRUpwVHBrNThQTFcyVXg0c1ptZ28ySDhMMnNfUG1VOXUzUEh6cklDS3FJSVJGZmN4LXZ3WEp2RDQwUnNDeGp1M3JMZFpnN3BLNnlySk9aeUNPM185WmpMZ2hEeFRfdXIxcDdFc0dCVDg4YlNSNm5iSmZaVEc3X1A4Qlk0RlFfZk5hRjRwM2pxMHZ5dlQtZGVnMU5iSmtjd0NDcVdUUE1JbjNaWFdDQm5WdEQ3X1MzQWVKWGxWWEZDTTdBS3N3ZXRNeUJ2VWNtcTBVcDNvQk03TFZJRUgzZ3NJSVk1MUVLOTdjWkRGSVc3NDhqdEx6aDFaV2xEM05WLWFpQUtfa0dfTlEtYUZlLUx0ODZ6RjVrQmZNdnA3WDQtMDViaXFRT1RjR01KeGlmakNGLWdHSy1WU1RfWU1ES2lUb0g?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[franceinfo](https://news.google.com/rss/articles/CBMixAJBVV95cUxPbDNlRUpwVHBrNThQTFcyVXg0c1ptZ28ySDhMMnNfUG1VOXUzUEh6cklDS3FJSVJGZmN4LXZ3WEp2RDQwUnNDeGp1M3JMZFpnN3BLNnlySk9aeUNPM185WmpMZ2hEeFRfdXIxcDdFc0dCVDg4YlNSNm5iSmZaVEc3X1A4Qlk0RlFfZk5hRjRwM2pxMHZ5dlQtZGVnMU5iSmtjd0NDcVdUUE1JbjNaWFdDQm5WdEQ3X1MzQWVKWGxWWEZDTTdBS3N3ZXRNeUJ2VWNtcTBVcDNvQk03TFZJRUgzZ3NJSVk1MUVLOTdjWkRGSVc3NDhqdEx6aDFaV2xEM05WLWFpQUtfa0dfTlEtYUZlLUx0ODZ6RjVrQmZNdnA3WDQtMDViaXFRT1RjR01KeGlmakNGLWdHSy1WU1RfWU1ES2lUb0g?oc=5)
+
+---
+
+### [El ébola llega a los campamentos de refugiados en la RDC - IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlhnRG4zcU93bFk5ekQyTm9MaVY4YTlYck9LVDNDMU84a2ZvWDFPMFRLRmo3eV9ONVJ5ZmJpdS0tM25HT2VSRUZ0T0J3UEZhRUpyS0psbUZFU0lRWXR1d2ZKWng0NXZKZW1ib2ZXQm55ZmRPUnp4akRHSzVvdW1tTEtQLUdQSWNRbkZuMG1Wc1BvVzQ?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlhnRG4zcU93bFk5ekQyTm9MaVY4YTlYck9LVDNDMU84a2ZvWDFPMFRLRmo3eV9ONVJ5ZmJpdS0tM25HT2VSRUZ0T0J3UEZhRUpyS0psbUZFU0lRWXR1d2ZKWng0NXZKZW1ib2ZXQm55ZmRPUnp4akRHSzVvdW1tTEtQLUdQSWNRbkZuMG1Wc1BvVzQ?oc=5)
+
+---
+
+### [The simple diet that’s BETTER than Ozempic – blasting fat twice as fast as fat jabs - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGUweXRSRmJtclJpNk1ZNkt1ZFhsMWZlVWRFdmNmYzVoay1OZDhVZzVTa3RvY1dkajZoSmxEM1BJN0Qxc3VhTS1nSzJlMEpQc0xfYmJuSnl5MXdXZFdlQ2dMRWlpWmRhd3NOdFZXRTFJMGp1YlhSei1FWnBvQ0JadURuMXJQY0dOaFE?oc=5)
+
+2026-08-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGUweXRSRmJtclJpNk1ZNkt1ZFhsMWZlVWRFdmNmYzVoay1OZDhVZzVTa3RvY1dkajZoSmxEM1BJN0Qxc3VhTS1nSzJlMEpQc0xfYmJuSnl5MXdXZFdlQ2dMRWlpWmRhd3NOdFZXRTFJMGp1YlhSei1FWnBvQ0JadURuMXJQY0dOaFE?oc=5)
+
+---
 
 ### [Digitale Avatare und Leitlinien-Updates: Neue Wege in der Schizophrenie- und Palliativversorgung - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
 
@@ -62,11 +94,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Ebola Bundibugyo, nuova allerta: «In Congo il virus sta superando la capacità di risposta sanitaria» - Corriere della Sera](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa3F5Umk0TnNVNWZEMXBaenpld0ZkUkVUVGVEdWlYMF9TODNBY0hmc1lYUU9zcnhoNHRzRGtuN3N2YjNJbl83RHhTT2c0Qi1Mb1JaRDRSWU9mWHRmN3RVY1JZX0loVkR6NWRWUG1LcjZJNW9JamlOZERBTFBIZ2laREdyb2lJSlU1NUpWem91dkduNXRoczMwbDVjbEZFenl3ejdiQTdCRHJUczFxUXZ4T2E0N0hwQnJCb0ItN2Q3Sm90QlVZTXF5OHFyQlYyY0cyYzQ1OFRrVS1qOU5FVE9XMmdwc3l6OVAyVl9TcEFYTTVjUFZ4eVZXTkNZb3g4cExFUTNpS1k2QWZ2VEwyeWlXTVdmTjlTdDY2UlAxZkRJRkdkMjE0NXpqdlp30gGvAkFVX3lxTE93cGE5dGpxZ3FGTTljWTR3dXhWZExNc1ctbDBqbjhPb09jVTdWdzI4ZkRmSmZsZXV2Vy00VEllWXpRcUZyNUljU240RnFUckpqdm5FdVdCby04Z1YzUXlYUFIxdHdSbTdmVDJjQl9Cb0tqdkFROFNsQTB6MXVNeS1WSmVUaUlDc1BjbjFDRVluUk1XSG4wSFpaM3RxdDlsdUs2WW02WlNHUVFtQloya2FrNkNZU0xvalpPQ1phcEJkX2F6aV8td1hDQmRfM1J5NV83WDBIbDMwelJBZExzNzljWk9XTERzZVV6Rm1laFpPOHhqdGJVUTFicm5EV0U2NlRLYmVQNGRpRmVidjVCYlUzSGo0ZnZqam02ZWxycmNVM1duYUJSNjVWQUx1MG42RQ?oc=5)
+### [Ebola Bundibugyo, nuova allerta: «In Congo il virus sta superando la capacità di risposta sanitaria»](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa3F5Umk0TnNVNWZEMXBaenpld0ZkUkVUVGVEdWlYMF9TODNBY0hmc1lYUU9zcnhoNHRzRGtuN3N2YjNJbl83RHhTT2c0Qi1Mb1JaRDRSWU9mWHRmN3RVY1JZX0loVkR6NWRWUG1LcjZJNW9JamlOZERBTFBIZ2laREdyb2lJSlU1NUpWem91dkduNXRoczMwbDVjbEZFenl3ejdiQTdCRHJUczFxUXZ4T2E0N0hwQnJCb0ItN2Q3Sm90QlVZTXF5OHFyQlYyY0cyYzQ1OFRrVS1qOU5FVE9XMmdwc3l6OVAyVl9TcEFYTTVjUFZ4eVZXTkNZb3g4cExFUTNpS1k2QWZ2VEwyeWlXTVdmTjlTdDY2UlAxZkRJRkdkMjE0NXpqdlp30gGvAkFVX3lxTE93cGE5dGpxZ3FGTTljWTR3dXhWZExNc1ctbDBqbjhPb09jVTdWdzI4ZkRmSmZsZXV2Vy00VEllWXpRcUZyNUljU240RnFUckpqdm5FdVdCby04Z1YzUXlYUFIxdHdSbTdmVDJjQl9Cb0tqdkFROFNsQTB6MXVNeS1WSmVUaUlDc1BjbjFDRVluUk1XSG4wSFpaM3RxdDlsdUs2WW02WlNHUVFtQloya2FrNkNZU0xvalpPQ1phcEJkX2F6aV8td1hDQmRfM1J5NV83WDBIbDMwelJBZExzNzljWk9XTERzZVV6Rm1laFpPOHhqdGJVUTFicm5EV0U2NlRLYmVQNGRpRmVidjVCYlUzSGo0ZnZqam02ZWxycmNVM1duYUJSNjVWQUx1MG42RQ?oc=5)
 
-2026-08-07 <span class="news-indication-tag">MS</span>
+2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa3F5Umk0TnNVNWZEMXBaenpld0ZkUkVUVGVEdWlYMF9TODNBY0hmc1lYUU9zcnhoNHRzRGtuN3N2YjNJbl83RHhTT2c0Qi1Mb1JaRDRSWU9mWHRmN3RVY1JZX0loVkR6NWRWUG1LcjZJNW9JamlOZERBTFBIZ2laREdyb2lJSlU1NUpWem91dkduNXRoczMwbDVjbEZFenl3ejdiQTdCRHJUczFxUXZ4T2E0N0hwQnJCb0ItN2Q3Sm90QlVZTXF5OHFyQlYyY0cyYzQ1OFRrVS1qOU5FVE9XMmdwc3l6OVAyVl9TcEFYTTVjUFZ4eVZXTkNZb3g4cExFUTNpS1k2QWZ2VEwyeWlXTVdmTjlTdDY2UlAxZkRJRkdkMjE0NXpqdlp30gGvAkFVX3lxTE93cGE5dGpxZ3FGTTljWTR3dXhWZExNc1ctbDBqbjhPb09jVTdWdzI4ZkRmSmZsZXV2Vy00VEllWXpRcUZyNUljU240RnFUckpqdm5FdVdCby04Z1YzUXlYUFIxdHdSbTdmVDJjQl9Cb0tqdkFROFNsQTB6MXVNeS1WSmVUaUlDc1BjbjFDRVluUk1XSG4wSFpaM3RxdDlsdUs2WW02WlNHUVFtQloya2FrNkNZU0xvalpPQ1phcEJkX2F6aV8td1hDQmRfM1J5NV83WDBIbDMwelJBZExzNzljWk9XTERzZVV6Rm1laFpPOHhqdGJVUTFicm5EV0U2NlRLYmVQNGRpRmVidjVCYlUzSGo0ZnZqam02ZWxycmNVM1duYUJSNjVWQUx1MG42RQ?oc=5)
+來源：[corriere.it](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa3F5Umk0TnNVNWZEMXBaenpld0ZkUkVUVGVEdWlYMF9TODNBY0hmc1lYUU9zcnhoNHRzRGtuN3N2YjNJbl83RHhTT2c0Qi1Mb1JaRDRSWU9mWHRmN3RVY1JZX0loVkR6NWRWUG1LcjZJNW9JamlOZERBTFBIZ2laREdyb2lJSlU1NUpWem91dkduNXRoczMwbDVjbEZFenl3ejdiQTdCRHJUczFxUXZ4T2E0N0hwQnJCb0ItN2Q3Sm90QlVZTXF5OHFyQlYyY0cyYzQ1OFRrVS1qOU5FVE9XMmdwc3l6OVAyVl9TcEFYTTVjUFZ4eVZXTkNZb3g4cExFUTNpS1k2QWZ2VEwyeWlXTVdmTjlTdDY2UlAxZkRJRkdkMjE0NXpqdlp30gGvAkFVX3lxTE93cGE5dGpxZ3FGTTljWTR3dXhWZExNc1ctbDBqbjhPb09jVTdWdzI4ZkRmSmZsZXV2Vy00VEllWXpRcUZyNUljU240RnFUckpqdm5FdVdCby04Z1YzUXlYUFIxdHdSbTdmVDJjQl9Cb0tqdkFROFNsQTB6MXVNeS1WSmVUaUlDc1BjbjFDRVluUk1XSG4wSFpaM3RxdDlsdUs2WW02WlNHUVFtQloya2FrNkNZU0xvalpPQ1phcEJkX2F6aV8td1hDQmRfM1J5NV83WDBIbDMwelJBZExzNzljWk9XTERzZVV6Rm1laFpPOHhqdGJVUTFicm5EV0U2NlRLYmVQNGRpRmVidjVCYlUzSGo0ZnZqam02ZWxycmNVM1duYUJSNjVWQUx1MG42RQ?oc=5)
 
 ---
 
@@ -78,19 +110,27 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+### [Covid-Forschung: Treffer bei überschiessenden Entzündungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
 
-2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-07 <span class="news-indication-tag">MS</span>
 
-來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+來源：[Watson](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
 
 ---
 
-### [Sie könnten Neandertaler-DNA in sich tragen – Forschende haben entdeckt, was das mit Ihnen macht - Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSEhoSS1MMWhqZE5wcDlnUGJlU3pvUWE5dWhGNXdhZFZZYndJRHlOcExxOFVBdFlTNVpUYmlBLVBjMEdfWlBCREVWRlE2anJMSGxkZEV1V1ZUUU5NaHRrMHZFVlN5NWtNcVVnY1hGNlRtcmRFMGdnNkZZaU9IUUxLbGI1ZXQzb2laVkZyT3dIVHZuUEI1Q2ZvOWNhWmVkT2pwdWpRTEI5YzVQSzZhMlI2UXdHOXBTVlpya1pCcGpzZ2kwQVpTREdzWFVpNDBkM2FVeG5XZURfMTFfWTBqNTdF?oc=5)
+### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’ - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[Waldeckische Landeszeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSEhoSS1MMWhqZE5wcDlnUGJlU3pvUWE5dWhGNXdhZFZZYndJRHlOcExxOFVBdFlTNVpUYmlBLVBjMEdfWlBCREVWRlE2anJMSGxkZEV1V1ZUUU5NaHRrMHZFVlN5NWtNcVVnY1hGNlRtcmRFMGdnNkZZaU9IUUxLbGI1ZXQzb2laVkZyT3dIVHZuUEI1Q2ZvOWNhWmVkT2pwdWpRTEI5YzVQSzZhMlI2UXdHOXBTVlpya1pCcGpzZ2kwQVpTREdzWFVpNDBkM2FVeG5XZURfMTFfWTBqNTdF?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+
+---
+
+### [Weniger Krankheitstage? Studie zeigt Nebeneffekt von Ozempic und Wegovy - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnR1ZFR5Y2hHRVpkczgwclN2ekkxYmFuWVhDZ1hHbHZpVFNySFNtZ2hiM2tuWE9qQUlwWmQyUkZWRzZuYU1uVHJoSzJMYjdKS19UYWZIZHZZcVlNbmRtTUZCbTdxSjBZS0psOXhfa2lZTmxhemdjTGJvU082V01VSVpYTTBDa0g5U3RER1M1QVpZVnVJMUtCYWdQejJ3b2dmYVoyZ0tseklVREktU0c5Tnh4a2czTk5IU09iaFJqQTV5dHgwMmcwWDJMZmxYM29iOWxvNTl3?oc=5)
+
+2026-08-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnR1ZFR5Y2hHRVpkczgwclN2ekkxYmFuWVhDZ1hHbHZpVFNySFNtZ2hiM2tuWE9qQUlwWmQyUkZWRzZuYU1uVHJoSzJMYjdKS19UYWZIZHZZcVlNbmRtTUZCbTdxSjBZS0psOXhfa2lZTmxhemdjTGJvU082V01VSVpYTTBDa0g5U3RER1M1QVpZVnVJMUtCYWdQejJ3b2dmYVoyZ0tseklVREktU0c5Tnh4a2czTk5IU09iaFJqQTV5dHgwMmcwWDJMZmxYM29iOWxvNTl3?oc=5)
 
 ---
 
@@ -102,11 +142,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [La OMS y el Africa CDC urgen a reforzar la respuesta comunitaria para contener el brote de ébola en la RDC - Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUswaW54bTFVaG4xWVlSUEF2Z3V0VktoeTMwR0RvX0VxOEhqTHR4NXczcDg5WGhNSmRQbC1PVkJIS2pqWUIzcDJjLXE0dXFwYnI3cW5mVndkODg1NXhTdWNiSy1pc3Jld2FBOHprN2plX3U2Nm4tajhUZjdMdl9jeW1ra3gteDhMc3ExTWFjQ2xLbmZBVVFzT3VMcUI5SW9YaFpCbzhoVFdKZ3c?oc=5)
+### [Bisphosphonat bremst Mineralaufbau in geschädigten Wirbelscheiben – KI-frei, aber mit klarem Wirkweg - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
 
-2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-08-07 <span class="news-indication-tag">MS</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUswaW54bTFVaG4xWVlSUEF2Z3V0VktoeTMwR0RvX0VxOEhqTHR4NXczcDg5WGhNSmRQbC1PVkJIS2pqWUIzcDJjLXE0dXFwYnI3cW5mVndkODg1NXhTdWNiSy1pc3Jld2FBOHprN2plX3U2Nm4tajhUZjdMdl9jeW1ra3gteDhMc3ExTWFjQ2xLbmZBVVFzT3VMcUI5SW9YaFpCbzhoVFdKZ3c?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
 
 ---
 
@@ -126,19 +166,11 @@ permalink: /news/grazoprevir/
 
 ---
 
-### [Abnehmmedikamente senken Bruchrisiko bei Diabetespatienten, Studie zeigt](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
+### [Sugar plays bigger role in brain evolution than previously thought, study finds - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3VUaHk5ay0zNnJCSUlnR0VJREVKV2pNMVZzNmN1cnYxWmpubHFsVF96U1RJSHJvVDNwQnVxYUk5d3M2aFp1TU5VQmpOcndueFlpdlJoRV9nZDgyaHBVSFZlSkVDbzRpUEpaLUs4a0pBZ1ZjWG51VXVvRGhlTzVPWFpFcVp0QTZDdW5DMmlXOVcxdTJqcHU1eFlFYVdVQ0NrZ0x4MlZLaUpMVGZBSDU4Sw?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-06 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2o3VjNEZG1Sa3dLVC1jNWx3TFFGdXFsZDVfM0tGdGJ1aDZsUWtXLWU5NGdGMnVtbTdsSGZ2VTdnUGgwN3U0ejc5NGRmZ1VMVjFSQlQzcW9hZTVITGx3SmFQeFRGcVhfRjN2cFd2aUs0YmlEdk9Pb3h1bnNoc1Z6eTk2bnoyZGRSNTA3YWlHWXZxcC1xT1ZzemdGNk9rMlQ2TklaLUtuby1ibnBMN0FzZEFmOXBkS0dS?oc=5)
-
----
-
-### [Do Altered Immune Cells Drive Skin Cancer in Immunosuppressed Patients? - The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
-
-2026-08-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Dermatology Digest](https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3FWc0IwbFUtWWtMX1lqdFZOUjNrWmxLMVFTdkpxa0hFQ2NlREI5emVPM2dxd19fckRaQWVpSU1fME1GUzA2eXlUTm1sTEl4dFpwdDN1bW1YeDh2ZUJOX1A2My1ycWMzUzU1R0RxR1A3bzg5eTRIZ0VWaWtsNGQ0b1lPakxZR2l2bndjclJCbWg5UE5tNzBZQmR1dHd3ZHRicG9F?oc=5)
+來源：[STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3VUaHk5ay0zNnJCSUlnR0VJREVKV2pNMVZzNmN1cnYxWmpubHFsVF96U1RJSHJvVDNwQnVxYUk5d3M2aFp1TU5VQmpOcndueFlpdlJoRV9nZDgyaHBVSFZlSkVDbzRpUEpaLUs4a0pBZ1ZjWG51VXVvRGhlTzVPWFpFcVp0QTZDdW5DMmlXOVcxdTJqcHU1eFlFYVdVQ0NrZ0x4MlZLaUpMVGZBSDU4Sw?oc=5)
 
 ---
 

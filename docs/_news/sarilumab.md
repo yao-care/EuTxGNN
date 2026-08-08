@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
+
+### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+2026-08-07 <span class="news-indication-tag">artrite</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+---
 
 ### [Zucker: Neue Studie zeigt mögliche Auswirkungen auf Asthma](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
 
@@ -86,27 +94,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [¿Fibra dietética y menor riesgo de enfermedad de Crohn?](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlNtX0FjeWlBb0FQMUNEWTFpeTMyRGIxSHJnMHFBYnJyUGFFRHI0M0ZELWlibWRGUDVNdDdkYzhCX1RiUWxyTkRhWFJIUmVuQmh0Wk9KZjBRSHVHWm1EUDhkODJzLXU0R3ZwaE9Gc0xkZzVUdFZ5cWZhc0VqcUhRcEtkS3BIY21IdFozVWw2ZFlqMGdxUXJRblNlMndRRlRlWmJHa05JcVVXb0xZbHc?oc=5)
-
-2026-08-06 <span class="news-indication-tag">enfermedad de Crohn</span>
-
-來源：[Univadis](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlNtX0FjeWlBb0FQMUNEWTFpeTMyRGIxSHJnMHFBYnJyUGFFRHI0M0ZELWlibWRGUDVNdDdkYzhCX1RiUWxyTkRhWFJIUmVuQmh0Wk9KZjBRSHVHWm1EUDhkODJzLXU0R3ZwaE9Gc0xkZzVUdFZ5cWZhc0VqcUhRcEtkS3BIY21IdFozVWw2ZFlqMGdxUXJRblNlMndRRlRlWmJHa05JcVVXb0xZbHc?oc=5)
-
----
-
 ### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
 
 2026-08-06 <span class="news-indication-tag">artrite</span>
 
 來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
-
----
-
-### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
-
-2026-08-06 <span class="news-indication-tag">artritis</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
 ---
 
