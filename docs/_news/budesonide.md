@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Zucker: Neue Studie zeigt mögliche Auswirkungen auf Asthma](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
 
@@ -70,11 +70,19 @@ permalink: /news/budesonide/
 
 ---
 
-### [Informations- und Unterstützungsangebote: Gut leben mit COPD - Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
+### [Cumbernauld mum issues asthma warning to schoolkids after daughter's tragic death - Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
+
+2026-08-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
+
+---
+
+### [Informations- und Unterstützungsangebote: Gut leben mit COPD](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
 2026-08-06 <span class="news-indication-tag">copd</span>
 
-來源：[Ostfriesische Nachrichten](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
+來源：[on-online.de](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
 
 ---
 

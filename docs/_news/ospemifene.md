@@ -54,6 +54,14 @@ permalink: /news/ospemifene/
 
 ## 相關新聞（7 則）
 
+### [La menopausia prematura aumenta el riesgo de hipertensión arterial - 65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
+
+2026-08-08 <span class="news-indication-tag">hipertensión</span>
+
+來源：[65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
+
+---
+
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">artrite</span>
@@ -78,19 +86,11 @@ permalink: /news/ospemifene/
 
 ---
 
-### [Hohe Nachfrage nach RSV-Impfstoffen: impfen auch Sie bald](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
+### [Hohe Nachfrage nach RSV-Impfstoffen: impfen auch Sie bald - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
 
 2026-08-06 <span class="news-indication-tag">Herzerkrankung</span>
 
-來源：[deutsche-apotheker-zeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
-
----
-
-### [Warning for anyone in Ireland taking Ramipril and Amlodipine for high blood pressure - Irish Mirror](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUxzSWdsdDItdEptU0RvYVBWTkFDYVZSV0dMVWt0QzJkTmNkTTBzZWNuSHllY2tQZ0RhTVlial9nbGp1d0lRa2tpU0tWT2FadjBjbFZSbU93cjQtU29xUVkyd0NRVGlEbXR3aEg5aXFGNzlsMjd0LUpzUDY5Q1o0N1psRUh1MENHaDVkcmh1VmJFUVZTWU10TFpVU3ZCVTlPSTdfVA?oc=5)
-
-2026-08-06 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">high blood pressure</span>
-
-來源：[Irish Mirror](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUxzSWdsdDItdEptU0RvYVBWTkFDYVZSV0dMVWt0QzJkTmNkTTBzZWNuSHllY2tQZ0RhTVlial9nbGp1d0lRa2tpU0tWT2FadjBjbFZSbU93cjQtU29xUVkyd0NRVGlEbXR3aEg5aXFGNzlsMjd0LUpzUDY5Q1o0N1psRUh1MENHaDVkcmh1VmJFUVZTWU10TFpVU3ZCVTlPSTdfVA?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/ospemifene/
 
 ---
 
-### [Un estudio en el que participa el Hospital Puerta de Hierro descarta la existencia de una enfermedad del corazón - Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
-2026-08-06 <span class="news-indication-tag">cardiopatía</span>
+2026-08-06 <span class="news-indication-tag">artritis</span>
 
-來源：[Info Boadilla](https://news.google.com/rss/articles/CBMijgJBVV95cUxPekw0Ui1Ya0c3TFNGOXk0dDBsU3pkQnE0ajhEQlhyOXVpb2R5MXFOd1FhS1VEdVE4VDcxVHFIYklfWTY5YW5kX2UxNXh4OTBKNmlsUklZd2xuLUJYQVFPb0dmMDBlYWlxV2xZOTRhcTc5dmNQR3JXSVBEd1NDRXJqYnBRcUxRcjZMc19xelBEQXJfUmFVSTdFMWpkSGtLMDFUdGFPbVo3VUV6dnpGY1lDZ0pwSjNVVERqd1p1QUpJZGZkbUlCRE9zNTFIZVRTaVNzQnhKWnF0M3pSV3Nzd2hubG9RczBzRjIyUW1uUmYzNEJrVVBrak0yNmdKVWF0SnJWcEZ4WE5ranNCVU5JUEE?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
 ---
 

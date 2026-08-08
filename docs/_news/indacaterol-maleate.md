@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="Indacaterol Maleate 有什麼相關新聞？">
-<strong>Indacaterol Maleate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Indacaterol Maleate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/indacaterol-maleate/
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Zucker: Neue Studie zeigt mögliche Auswirkungen auf Asthma](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
 
@@ -67,6 +67,14 @@ permalink: /news/indacaterol-maleate/
 2026-08-07 <span class="news-indication-tag">asthma</span>
 
 來源：[agrarheute.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3plVU94TXp3dDYxYUJCaVAxb3RzbG1saVlrbFo3b2NXSVNwNi05LVBkQmo2YnJVU1U0MElZTVkyRXpsYi1zOE9UeWZhdmJseDZqRnc5V1FNUjV2N1duSlRBYWpkNi1TYzZtUGxweGxWaVFNNUVrNWdLOXdtLWJpMkpHVDFvaVl4QlF1ZWhoc2gtLUVZSVJnamZYUk5FMFk5b28teQ?oc=5)
+
+---
+
+### [Cumbernauld mum issues asthma warning to schoolkids after daughter's tragic death - Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
+
+2026-08-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
+
+來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
 
 ---
 

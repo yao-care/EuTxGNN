@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>44 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dronedarone</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（44 則）
+## 相關新聞（37 則）
 
 ### [Herz: Wie viel Kaffee am Tag ist gesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
@@ -70,11 +70,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Anti-entzündliche Ernährung senkt Demenzrisiko: Mikrobiom und Omega-3 im Fokus - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0lJdTg0TFBtLTVhUi1GOFJBeWU0dXFJVWxKNlVITWN0SDFqaTFaaXZaY2xLdXI4NTZlMHdZYzJUbGM3elQwd01KY3RxWFFuRWtTMWNXeDB0UTdNRWlfZ0FXVnFhRkM5OEthZzZWV2M5azdCMUluRFI5SVJidXpQcDR6ZHpPN1FJT3RWZ1dNZXJseFFmZDk4SHU1aDlrMW5vNDhZM0x2MFBBSlJWdm5KZg?oc=5)
+### [Anti-entzündliche Ernährung senkt Demenzrisiko: Mikrobiom und Omega-3 im Fokus](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0lJdTg0TFBtLTVhUi1GOFJBeWU0dXFJVWxKNlVITWN0SDFqaTFaaXZaY2xLdXI4NTZlMHdZYzJUbGM3elQwd01KY3RxWFFuRWtTMWNXeDB0UTdNRWlfZ0FXVnFhRkM5OEthZzZWV2M5azdCMUluRFI5SVJidXpQcDR6ZHpPN1FJT3RWZ1dNZXJseFFmZDk4SHU1aDlrMW5vNDhZM0x2MFBBSlJWdm5KZg?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0lJdTg0TFBtLTVhUi1GOFJBeWU0dXFJVWxKNlVITWN0SDFqaTFaaXZaY2xLdXI4NTZlMHdZYzJUbGM3elQwd01KY3RxWFFuRWtTMWNXeDB0UTdNRWlfZ0FXVnFhRkM5OEthZzZWV2M5azdCMUluRFI5SVJidXpQcDR6ZHpPN1FJT3RWZ1dNZXJseFFmZDk4SHU1aDlrMW5vNDhZM0x2MFBBSlJWdm5KZg?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0lJdTg0TFBtLTVhUi1GOFJBeWU0dXFJVWxKNlVITWN0SDFqaTFaaXZaY2xLdXI4NTZlMHdZYzJUbGM3elQwd01KY3RxWFFuRWtTMWNXeDB0UTdNRWlfZ0FXVnFhRkM5OEthZzZWV2M5azdCMUluRFI5SVJidXpQcDR6ZHpPN1FJT3RWZ1dNZXJseFFmZDk4SHU1aDlrMW5vNDhZM0x2MFBBSlJWdm5KZg?oc=5)
 
 ---
 
@@ -102,11 +102,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Schlafmangel und Gewichtszunahme: Warum schon 80 Minuten fehlen - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVRCQmVodGFiOWliWUNiU3JLaXpfTXZONDRGMWZ0Q09zSUlaVURmanBCVGRzMUhKYXFHVW5na1VvdklETUV4U1h1Vk5hYndOa25qbllidlFNUEFqYmhueXFoR3lRWTFucVdHdEFNV1ZDdm5GN3lQT0trRXd2MmdLLXJyUHlHU3JWakpiOXUxMVdPbmNILWYtaTdB?oc=5)
+### [Schlafmangel und Gewichtszunahme: Warum schon 80 Minuten fehlen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVRCQmVodGFiOWliWUNiU3JLaXpfTXZONDRGMWZ0Q09zSUlaVURmanBCVGRzMUhKYXFHVW5na1VvdklETUV4U1h1Vk5hYndOa25qbllidlFNUEFqYmhueXFoR3lRWTFucVdHdEFNV1ZDdm5GN3lQT0trRXd2MmdLLXJyUHlHU3JWakpiOXUxMVdPbmNILWYtaTdB?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVRCQmVodGFiOWliWUNiU3JLaXpfTXZONDRGMWZ0Q09zSUlaVURmanBCVGRzMUhKYXFHVW5na1VvdklETUV4U1h1Vk5hYndOa25qbllidlFNUEFqYmhueXFoR3lRWTFucVdHdEFNV1ZDdm5GN3lQT0trRXd2MmdLLXJyUHlHU3JWakpiOXUxMVdPbmNILWYtaTdB?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVRCQmVodGFiOWliWUNiU3JLaXpfTXZONDRGMWZ0Q09zSUlaVURmanBCVGRzMUhKYXFHVW5na1VvdklETUV4U1h1Vk5hYndOa25qbllidlFNUEFqYmhueXFoR3lRWTFucVdHdEFNV1ZDdm5GN3lQT0trRXd2MmdLLXJyUHlHU3JWakpiOXUxMVdPbmNILWYtaTdB?oc=5)
 
 ---
 
@@ -126,19 +126,35 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Getreideflocken im Vergleich: Hafer liefert Mineralstoffe, Dinkel mehr Vitamine - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG9CT0swMG5yaDNFZndXbzZtZkU5bk5ydXQwOUJfM1h3eHZ1V1hMRVpsaFUyOW45VExXcE1lZEpCQ2l0dGlHek83VHJwOXhIb2V5cXhpSy0tSjluMnlvaFo4OVEyemZXYnk5c1dVTUdPODRZdzZESElpeHpMUnBQblhHZ3ZFOVJ2Y2xYb1N6aDlxYlBVaU1wRDR3Sk9vZ1N0bW5pRTRsRmVFdXdaMXc?oc=5)
+### [Getreideflocken im Vergleich: Hafer liefert Mineralstoffe, Dinkel mehr Vitamine](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG9CT0swMG5yaDNFZndXbzZtZkU5bk5ydXQwOUJfM1h3eHZ1V1hMRVpsaFUyOW45VExXcE1lZEpCQ2l0dGlHek83VHJwOXhIb2V5cXhpSy0tSjluMnlvaFo4OVEyemZXYnk5c1dVTUdPODRZdzZESElpeHpMUnBQblhHZ3ZFOVJ2Y2xYb1N6aDlxYlBVaU1wRDR3Sk9vZ1N0bW5pRTRsRmVFdXdaMXc?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG9CT0swMG5yaDNFZndXbzZtZkU5bk5ydXQwOUJfM1h3eHZ1V1hMRVpsaFUyOW45VExXcE1lZEpCQ2l0dGlHek83VHJwOXhIb2V5cXhpSy0tSjluMnlvaFo4OVEyemZXYnk5c1dVTUdPODRZdzZESElpeHpMUnBQblhHZ3ZFOVJ2Y2xYb1N6aDlxYlBVaU1wRDR3Sk9vZ1N0bW5pRTRsRmVFdXdaMXc?oc=5)
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcG9CT0swMG5yaDNFZndXbzZtZkU5bk5ydXQwOUJfM1h3eHZ1V1hMRVpsaFUyOW45VExXcE1lZEpCQ2l0dGlHek83VHJwOXhIb2V5cXhpSy0tSjluMnlvaFo4OVEyemZXYnk5c1dVTUdPODRZdzZESElpeHpMUnBQblhHZ3ZFOVJ2Y2xYb1N6aDlxYlBVaU1wRDR3Sk9vZ1N0bW5pRTRsRmVFdXdaMXc?oc=5)
 
 ---
 
-### [The dangers of taking weight-loss drugs after 60 - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXIyNFJZSnZDaTNQTkdfYm9ScUxFWEZWLVJ6bXloWnVIbEJYRW5ZdkVnb2NrRWFSZWVXalYyWlVYWWx4SU5DZmFYdGJSMktHd01CcldZaVdFYlU5N0g3OWtrWHp6SzFLWDNqSTlDZWNXa2dpblJfM2l2VGJUWDJ2WUFVQTY5Z19qZFV2LVJmWXhOYW1oaUJDU3h0UQ?oc=5)
+### [The dangers of taking weight-loss drugs after 60](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXIyNFJZSnZDaTNQTkdfYm9ScUxFWEZWLVJ6bXloWnVIbEJYRW5ZdkVnb2NrRWFSZWVXalYyWlVYWWx4SU5DZmFYdGJSMktHd01CcldZaVdFYlU5N0g3OWtrWHp6SzFLWDNqSTlDZWNXa2dpblJfM2l2VGJUWDJ2WUFVQTY5Z19qZFV2LVJmWXhOYW1oaUJDU3h0UQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXIyNFJZSnZDaTNQTkdfYm9ScUxFWEZWLVJ6bXloWnVIbEJYRW5ZdkVnb2NrRWFSZWVXalYyWlVYWWx4SU5DZmFYdGJSMktHd01CcldZaVdFYlU5N0g3OWtrWHp6SzFLWDNqSTlDZWNXa2dpblJfM2l2VGJUWDJ2WUFVQTY5Z19qZFV2LVJmWXhOYW1oaUJDU3h0UQ?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXIyNFJZSnZDaTNQTkdfYm9ScUxFWEZWLVJ6bXloWnVIbEJYRW5ZdkVnb2NrRWFSZWVXalYyWlVYWWx4SU5DZmFYdGJSMktHd01CcldZaVdFYlU5N0g3OWtrWHp6SzFLWDNqSTlDZWNXa2dpblJfM2l2VGJUWDJ2WUFVQTY5Z19qZFV2LVJmWXhOYW1oaUJDU3h0UQ?oc=5)
+
+---
+
+### [Ebola strain feared to be mutating as 'fastest spreading' oubreak strikes 4,000](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUl1V000dXpRUEN4X3dnN2wyRmRSZDdEUDlxc1FnbzVXdC16MVY1Slh5cnBKakpNUDRsNEJOTXl5aHdlMUV3a0lhdE1VSndHYnY4VEduOC01VTE4NzBYY0RmUW54UFQ2SlFsTDVKX2pkaEpTUFVtT0FPbm9vVGlvcA?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUl1V000dXpRUEN4X3dnN2wyRmRSZDdEUDlxc1FnbzVXdC16MVY1Slh5cnBKakpNUDRsNEJOTXl5aHdlMUV3a0lhdE1VSndHYnY4VEduOC01VTE4NzBYY0RmUW54UFQ2SlFsTDVKX2pkaEpTUFVtT0FPbm9vVGlvcA?oc=5)
+
+---
+
+### [Forschende entwickeln erstmals KI-Design-Viren gegen resistente Superkeime](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEtRR016VEY0Zk1VbWg2ZzNQajBhWWNiaVdtU20weF9TU1RJeGFYbFp5amRuSjZ2cERjdktUNW5KYzBoenYzWE5YbldsSFlnMG1jMDk5UHNHRTA1eldQZTFTREpPVkdIbWJEcTNZR3FrMUxFbnBrZE5ndmY3T0x6X3ZESUgtWDRxUEtfa0lvbzB3WlY5dWdyU0VoRkNMdG1FdkVxNHZfY2JEQjZ6YnFWblJWQUVoNmRUVmFRcA?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEtRR016VEY0Zk1VbWg2ZzNQajBhWWNiaVdtU20weF9TU1RJeGFYbFp5amRuSjZ2cERjdktUNW5KYzBoenYzWE5YbldsSFlnMG1jMDk5UHNHRTA1eldQZTFTREpPVkdIbWJEcTNZR3FrMUxFbnBrZE5ndmY3T0x6X3ZESUgtWDRxUEtfa0lvbzB3WlY5dWdyU0VoRkNMdG1FdkVxNHZfY2JEQjZ6YnFWblJWQUVoNmRUVmFRcA?oc=5)
 
 ---
 
@@ -150,11 +166,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’ - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
 
 ---
 
@@ -214,27 +230,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Apherese bei Schwangerschaftsvergiftung: Studie zeigt längere Verläufe - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUJ6WnRVdjA0Z2xjaV90aE4wSnNVd1ZzdDVpYXFyNC05RmdNZlR2LWVKRHZrWFZDUGhhQlNweTF1S21wc044NFZTTDIwQTVqQllfYUhJODM5R0NrSzRGeG1uamxhRWtNLVhaR2kzem9rZXZ2MFRYbjE0ZEZCNUh0UG9HSzFTTFdKMG12UTU2angwNGhON2Rsd2FXVWFMczVzLWxSUmVR?oc=5)
-
-2026-08-07 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUJ6WnRVdjA0Z2xjaV90aE4wSnNVd1ZzdDVpYXFyNC05RmdNZlR2LWVKRHZrWFZDUGhhQlNweTF1S21wc044NFZTTDIwQTVqQllfYUhJODM5R0NrSzRGeG1uamxhRWtNLVhaR2kzem9rZXZ2MFRYbjE0ZEZCNUh0UG9HSzFTTFdKMG12UTU2angwNGhON2Rsd2FXVWFMczVzLWxSUmVR?oc=5)
-
----
-
-### [Over 65? This 4-minute daily exercise can improve strength and balance 'very quickly', new study finds - Woman & Home](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkFBVGQ5Wi03US05dmR3Vi1MRVJTZmxIZlVVclRqZHlkYm5PVTYtY0lwV1JTTjNXT1pTZDNsNWtvSHByZEhyYTViRnJfTHVQdUhqajNPMmcwTzZ4R2RaMXFjMHdSa3N1RGJUNUt6cnVwODhJMkVScXdRb05LMzRYMFlDOXVSc1JqV2xDSzV4VmhtTXZlSlNRc1ZWNlZiSzA?oc=5)
-
-2026-08-07 <span class="news-indication-tag">AF</span>
-
-來源：[Woman & Home](https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkFBVGQ5Wi03US05dmR3Vi1MRVJTZmxIZlVVclRqZHlkYm5PVTYtY0lwV1JTTjNXT1pTZDNsNWtvSHByZEhyYTViRnJfTHVQdUhqajNPMmcwTzZ4R2RaMXFjMHdSa3N1RGJUNUt6cnVwODhJMkVScXdRb05LMzRYMFlDOXVSc1JqV2xDSzV4VmhtTXZlSlNRc1ZWNlZiSzA?oc=5)
-
----
-
-### [Schlaganfallpatienten besser vor Herzinfarkten schützen - MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+### [Schlaganfallpatienten besser vor Herzinfarkten schützen](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+來源：[medecon.ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 ---
 
@@ -246,11 +246,11 @@ permalink: /news/dronedarone/
 
 ---
 
-### [Sepsis durch Infektionen im Mundraum: Stiftung warnt vor Risiken - Dental & Wirtschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOckZvbTlSMFNxaHBfbHk3djAyakd4UWpZckptTXpKd3p0N3h5ajZ4Nkp6TlpXZWxNTXI4T1B1Q21MRzhScVp5R1ZmUmNCa2dJclc5Xzd2Y21raWo5ajVUMXpXbV91QkpZR2x6OXkwamd0dU4ya0pUT0QtejJSeEZGZ1pjaDRGYlhBSk5WYUZHVFZXN1RwenhDZQ?oc=5)
+### [Cumbernauld mum issues asthma warning to schoolkids after daughter's tragic death - Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
 
-2026-08-07 <span class="news-indication-tag">AF</span>
+2026-08-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
 
-來源：[Dental & Wirtschaft](https://news.google.com/rss/articles/CBMimAFBVV95cUxOckZvbTlSMFNxaHBfbHk3djAyakd4UWpZckptTXpKd3p0N3h5ajZ4Nkp6TlpXZWxNTXI4T1B1Q21MRzhScVp5R1ZmUmNCa2dJclc5Xzd2Y21raWo5ajVUMXpXbV91QkpZR2x6OXkwamd0dU4ya0pUT0QtejJSeEZGZ1pjaDRGYlhBSk5WYUZHVFZXN1RwenhDZQ?oc=5)
+來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
 
 ---
 
@@ -259,6 +259,14 @@ permalink: /news/dronedarone/
 2026-08-07 <span class="news-indication-tag">AF</span>
 
 來源：[The Worcester News](https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0dXaWdIdDlrZUR0Sk1sQjdTUXQ1ZkZqTFBSVVhRaEx1RW9SaTBSWmsxY1pWaHV5OER3dVdPcDg4UjF2cW9kMXE4ZjllQnVyV1ZGRm1BSlV0b0x1NFdMWlJwVW5TTlFScGZYeVZvTFVTd3hRb01rVEp0S19TVmF2RWdscUh3N2l6T3lvZEVpeWl1Wm1BZFJOSVNR?oc=5)
+
+---
+
+### [I virus “zombie” intrappolati nei ghiacciai con il caldo potrebbero tornare: che cosa rischiamo? - la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdybldTVnJWQlJRUEtmbFRrRndBWEVQZXNNRm1TX2Z1Ulp2TlQwX0hsSi1KUnNyXy1HaUo3ZnZnSVhlZnJ5aWxkZlpxcTdxZDJuU2lRdTdmdHdfckN2U2pBTHhkbjBkY1RFMkdhTUNXU09OdjFfYmlDMVAxU3J6dV9ybjZWcVVTellvZWdlaTJBcnNQMmZ0aWVMekRRODhlTXVNMdIBqgFBVV95cUxQZU1Wd2dKYVl4SGdUdTJXVnhpcTFINXZzM2VleVJmYmVPRk9jal9Mbm05bzlOQl9KSldoS0hSNWkyaWlER2Q1aVRUZzVvVjd4ODAxYklPMnFKemk3Rmk4Si1ETjdDdHhvOHBWQm13RHVkZ1lOblRUWGtveFJaeTZKWUpCZkE5YWRYczJVeUJBZlZGZ3hjLUhpc3Jkb2F2b3J5X2J2U2VKaWlpdw?oc=5)
+
+2026-08-07 <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdybldTVnJWQlJRUEtmbFRrRndBWEVQZXNNRm1TX2Z1Ulp2TlQwX0hsSi1KUnNyXy1HaUo3ZnZnSVhlZnJ5aWxkZlpxcTdxZDJuU2lRdTdmdHdfckN2U2pBTHhkbjBkY1RFMkdhTUNXU09OdjFfYmlDMVAxU3J6dV9ybjZWcVVTellvZWdlaTJBcnNQMmZ0aWVMekRRODhlTXVNMdIBqgFBVV95cUxQZU1Wd2dKYVl4SGdUdTJXVnhpcTFINXZzM2VleVJmYmVPRk9jal9Mbm05bzlOQl9KSldoS0hSNWkyaWlER2Q1aVRUZzVvVjd4ODAxYklPMnFKemk3Rmk4Si1ETjdDdHhvOHBWQm13RHVkZ1lOblRUWGtveFJaeTZKWUpCZkE5YWRYczJVeUJBZlZGZ3hjLUhpc3Jkb2F2b3J5X2J2U2VKaWlpdw?oc=5)
 
 ---
 
@@ -282,39 +290,31 @@ permalink: /news/dronedarone/
 
 2026-08-06 <span class="news-indication-tag">AF</span>
 
-來源：[healthline.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWZCUk8wWFdqUGxmTlhWeXhhLW5qY1NzYjFpNVNkUENRTGtIcTIzazIyR0NhYzhEOWRSVFY0ODctaG4wLWxkSHpCenlWTk10di0wWlVjU3ViUVk3Zzltc3p0Ul9BLXNMMWxocXBXR1ZEbUlCSW80NlFrRTFDbGg1cjMxRDlGczE1M0E?oc=5)
+來源：[Healthline](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLWZCUk8wWFdqUGxmTlhWeXhhLW5qY1NzYjFpNVNkUENRTGtIcTIzazIyR0NhYzhEOWRSVFY0ODctaG4wLWxkSHpCenlWTk10di0wWlVjU3ViUVk3Zzltc3p0Ul9BLXNMMWxocXBXR1ZEbUlCSW80NlFrRTFDbGg1cjMxRDlGczE1M0E?oc=5)
 
 ---
 
-### ['I was at stroke risk after my cholesterol soared - one change halved it in 90 days' - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
-
-2026-08-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVlR6VEtzSEpsaldLRVZtaWZkSmQ2Sk4zcEo5UEstM0t6b1NPY2tGQnhpa2dFUkRaYkRmWTZMUEpQeUpCbC00TUFQYThJNEZWLUJxX0VsOHFFSnhtUG50SElwTmZ6TjJ3RVZPQ0VSVGpQdTI2RjUtaU1td0NXSUVpZ3REY9IBiAFBVV95cUxQTTNCelU5dmQxSi0zR18xRDNwQXJ1SXUxamNDdFpSb2xYOGNpa1RnWXFjdXZXT2dxVWo4M3ZlaWpXSEF2TjVWZ2RCaV9MNFlOQVJ2VFJvc3VCV2h4cDBSOGtqNXZDbzBCWEt2UnpPblV2TFlXTDM0RkdGazBfZG1qMkpuQjVna29j?oc=5)
-
----
-
-### [More than 200 deaths linked to weight-loss jabs, health agency suggests - The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29TSF8zejhvU19CcTdySHFuNkg3dlE4YmhJN183ZUdpMUpVb2pzY2RNUl82TEJlOVM5Ylhid0RuV1h0NUNSbG1nMDBBai1pSzNPNERMelNMUVF6TklBZEg0WnlXWGk2SVU1Nl9IM0k4Sk1ZS0g3ZXZhYTFtZw?oc=5)
+### [More than 200 deaths linked to weight-loss jabs, health agency suggests](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29TSF8zejhvU19CcTdySHFuNkg3dlE4YmhJN183ZUdpMUpVb2pzY2RNUl82TEJlOVM5Ylhid0RuV1h0NUNSbG1nMDBBai1pSzNPNERMelNMUVF6TklBZEg0WnlXWGk2SVU1Nl9IM0k4Sk1ZS0g3ZXZhYTFtZw?oc=5)
 
 2026-08-06 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29TSF8zejhvU19CcTdySHFuNkg3dlE4YmhJN183ZUdpMUpVb2pzY2RNUl82TEJlOVM5Ylhid0RuV1h0NUNSbG1nMDBBai1pSzNPNERMelNMUVF6TklBZEg0WnlXWGk2SVU1Nl9IM0k4Sk1ZS0g3ZXZhYTFtZw?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMifkFVX3lxTE5kR29TSF8zejhvU19CcTdySHFuNkg3dlE4YmhJN183ZUdpMUpVb2pzY2RNUl82TEJlOVM5Ylhid0RuV1h0NUNSbG1nMDBBai1pSzNPNERMelNMUVF6TklBZEg0WnlXWGk2SVU1Nl9IM0k4Sk1ZS0g3ZXZhYTFtZw?oc=5)
 
 ---
 
 ### [Warning for theme park tourists after visitor diagnosed with infectious disease - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM05URUkxTjJsVjVRNlIxbTNfdnVyb3NzX1ViclJjdnhWcFhBQl9yelp1TmNWaTFpWkdrc0hZaE8zQ1NjVmhJVF9pVnI1Z1dIMTliamJsazdSYTA2RXN4Y3VPM3hnWms5cjhpN0NSU2t5VUplQ0xiZlM4OW1zSkt2ZTRLbFZ1ZU3SAYwBQVVfeXFMUDd0a0xmWWpIU01jY0NOdWI5YUIwYXg3T3V6RUhyTzUydi1VLTRVcWYxeU10S0NEZHpHVlE0dWhGSWFrdjhHZzJkaVFQYzl1TGtsZVJIbDdaQzBteC1kMEhYaXNYQThGTnpxV0otMm1mQkRIODgzZTlWaEl4S2FOMGNzVVE0VzQ5ZFh4aGg?oc=5)
 
-2026-08-06 <span class="news-indication-tag">AF</span>
+2026-08-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM05URUkxTjJsVjVRNlIxbTNfdnVyb3NzX1ViclJjdnhWcFhBQl9yelp1TmNWaTFpWkdrc0hZaE8zQ1NjVmhJVF9pVnI1Z1dIMTliamJsazdSYTA2RXN4Y3VPM3hnWms5cjhpN0NSU2t5VUplQ0xiZlM4OW1zSkt2ZTRLbFZ1ZU3SAYwBQVVfeXFMUDd0a0xmWWpIU01jY0NOdWI5YUIwYXg3T3V6RUhyTzUydi1VLTRVcWYxeU10S0NEZHpHVlE0dWhGSWFrdjhHZzJkaVFQYzl1TGtsZVJIbDdaQzBteC1kMEhYaXNYQThGTnpxV0otMm1mQkRIODgzZTlWaEl4S2FOMGNzVVE0VzQ5ZFh4aGg?oc=5)
 
 ---
 
-### [Ebola virus behind massive outbreak in DRC could be mutating, officials say - The Guardian](https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5)
+### [„Für eine funktionelle HIV-Heilung sind Kombinationstherapien am vielversprechendsten“ – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX3BKaGRRc1hDWXhWeDYyV2dPRG54Ykc2WjJfMjVEeS1ZX1ROd0Rrcl9TUjhtVkktcWJxekNLR3ExMUN4NThsaldYOXRrMFZXeF9LRDZtNFJ5RkZWR2hNYTc5VEp3dGpaZnFnYnhyanJabFFwc1hvNUloblF3WW9aV3Y5UG5xZEpueGh4WmhNYXo1dHZnMGNYSGdvZGRzMDJmQlhnREViR2tfdkNFVVpKRHQ4NGtMWmlLUkVzNjd4MklMd09PalRmNkEzdU5IOWZkTGRjZDdmbDhsdlNad0ZlODBDQ2RiRklW?oc=5)
 
 2026-08-06 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX3BKaGRRc1hDWXhWeDYyV2dPRG54Ykc2WjJfMjVEeS1ZX1ROd0Rrcl9TUjhtVkktcWJxekNLR3ExMUN4NThsaldYOXRrMFZXeF9LRDZtNFJ5RkZWR2hNYTc5VEp3dGpaZnFnYnhyanJabFFwc1hvNUloblF3WW9aV3Y5UG5xZEpueGh4WmhNYXo1dHZnMGNYSGdvZGRzMDJmQlhnREViR2tfdkNFVVpKRHQ4NGtMWmlLUkVzNjd4MklMd09PalRmNkEzdU5IOWZkTGRjZDdmbDhsdlNad0ZlODBDQ2RiRklW?oc=5)
 
 ---
 
@@ -326,43 +326,19 @@ permalink: /news/dronedarone/
 
 ---
 
+### [Mutterschutz: Neue Arbeitsschutzregeln ab Juni für werdende Mütter - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcURiSU1IeHZ3OHRZUDRwMU4wWjBza2VlQVdWNTRrem1QU1NDcTJsamtfYVZVdzhfeEpGcXpjUFJzVDNLelF3NGdnWGR4ZlMtcFBLR0dIc0k4ZkF2aFVfbnpHWnZCSjMxeVE3NlZFbVZiZHYzaFNnN09ESEZBczVFSi1kVXplMmZIUDNQTHVXYmF3ZThUM1pOSjdZbTF1ZDlfcG9ERVNvSTEzcXJZUHV6Q3FBZDY?oc=5)
+
+2026-08-06 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQcURiSU1IeHZ3OHRZUDRwMU4wWjBza2VlQVdWNTRrem1QU1NDcTJsamtfYVZVdzhfeEpGcXpjUFJzVDNLelF3NGdnWGR4ZlMtcFBLR0dIc0k4ZkF2aFVfbnpHWnZCSjMxeVE3NlZFbVZiZHYzaFNnN09ESEZBczVFSi1kVXplMmZIUDNQTHVXYmF3ZThUM1pOSjdZbTF1ZDlfcG9ERVNvSTEzcXJZUHV6Q3FBZDY?oc=5)
+
+---
+
 ### [Older or younger sibling? Birth order may affect health later in life](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTdHYjRmdHFRLWN0UGtJVzJYU1FTYVBjR1Z1bGFqcmt5dVktaEwwNFdsZm5oMzFFQng2UzAwTVhIdzZRWndBOU5nOGJsY29zX3lKeDRzVEUyQ0ZDWkxBSjgwTzhrREp5ajdGcWxBYVdzTk5jMnpiTG9WVVVaT2NJMmhSdXpHQ0hUWTVZR2ZTekNXQ01yT2xBXy05WjJBNThFZUNvX3E1ME0yZVlCQXh3Tg?oc=5)
 
 2026-08-06 <span class="news-indication-tag">AF</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTdHYjRmdHFRLWN0UGtJVzJYU1FTYVBjR1Z1bGFqcmt5dVktaEwwNFdsZm5oMzFFQng2UzAwTVhIdzZRWndBOU5nOGJsY29zX3lKeDRzVEUyQ0ZDWkxBSjgwTzhrREp5ajdGcWxBYVdzTk5jMnpiTG9WVVVaT2NJMmhSdXpHQ0hUWTVZR2ZTekNXQ01yT2xBXy05WjJBNThFZUNvX3E1ME0yZVlCQXh3Tg?oc=5)
-
----
-
-### [El Nino could cause explosion of rabid seals, animal health experts warn - The Telegraph](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUktRWGVETUc4dDd2NGdhbThFbzBSUTNyMmVmSHNMblhEWUJuWk1fOHRGWGI2a3p3NXVhM0wwWjQzME1Kel94aEJGTHI0RWY0V1F1NEh0dVhhRE5zSE41YWs3bDRUUnlvYVFlZ2Jfc3kwOFNNLUM0aFktT0RwZ0JCMmZ0OVlmZkdtMWRGSWpWMjJ2MTZITEFDNTgyR01OZk5YZi14dHNQZU1SLVc0b0FPbk00VjRuOTQ?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUktRWGVETUc4dDd2NGdhbThFbzBSUTNyMmVmSHNMblhEWUJuWk1fOHRGWGI2a3p3NXVhM0wwWjQzME1Kel94aEJGTHI0RWY0V1F1NEh0dVhhRE5zSE41YWs3bDRUUnlvYVFlZ2Jfc3kwOFNNLUM0aFktT0RwZ0JCMmZ0OVlmZkdtMWRGSWpWMjJ2MTZITEFDNTgyR01OZk5YZi14dHNQZU1SLVc0b0FPbk00VjRuOTQ?oc=5)
-
----
-
-### [Gesunde Ernährung in der Schwangerschaft: Was bedeutet das? - Radio Bonn / Rhein](https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2VXUXh0UjdSMVFsbHliLXJiU0Y0Qjdmb28wZ0o3aExNYjhDR09rcHFjT2pfeVpUZFRaMXdEMXV3bkh0WDNfWU9QRUR0MVlOY3RjaDhDZ1FseVhCempPZDhMcTZ3c1E3WFg5ZXZJOFJuRmYyam16QndKMTJWZU11ZGVWVldacFBwb0xDNXZBREh2T1lxSE16M0tFUQ?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[Radio Bonn / Rhein-Sieg](https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2VXUXh0UjdSMVFsbHliLXJiU0Y0Qjdmb28wZ0o3aExNYjhDR09rcHFjT2pfeVpUZFRaMXdEMXV3bkh0WDNfWU9QRUR0MVlOY3RjaDhDZ1FseVhCempPZDhMcTZ3c1E3WFg5ZXZJOFJuRmYyam16QndKMTJWZU11ZGVWVldacFBwb0xDNXZBREh2T1lxSE16M0tFUQ?oc=5)
-
----
-
-### [Harare confronts HIV surge as youth account for over half of new infections](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbURMM1JyUVhNS1JlVlhkSVZHQmFCekNrRVpNZTNtVklzdHFaczNRb0ZWVHNfUnM3T1hhRzBaTlV3SzYwclpEVmJNV0szTE5aSktBQjVWSy14ak1rTTZ2cHFBSzBrR19zcjE4RklzMW1TRWEtRzNnV3dDX1I1NFhqek1rdGNZYkFucFRlcTBGUDhBc1NxYnNtOVdENlpUMmF6RjFtMXlYeXZoLVk?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[heraldonline.co.zw](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbURMM1JyUVhNS1JlVlhkSVZHQmFCekNrRVpNZTNtVklzdHFaczNRb0ZWVHNfUnM3T1hhRzBaTlV3SzYwclpEVmJNV0szTE5aSktBQjVWSy14ak1rTTZ2cHFBSzBrR19zcjE4RklzMW1TRWEtRzNnV3dDX1I1NFhqek1rdGNZYkFucFRlcTBGUDhBc1NxYnNtOVdENlpUMmF6RjFtMXlYeXZoLVk?oc=5)
-
----
-
-### [HIV-Therapie: Tablette einmal wöchentlich statt jeden Tag](https://news.google.com/rss/articles/CBMirAFBVV95cUxORTIzM04zSl94UEcwOXJBem1KUl93RGFYbGpGb1h3QkNLXzVBRWRXVWc4M2RoMlVSSVZzcmdBTHptVGwwcmRZY2M5dDBMR2V3Z0NzUVE0TnNqc1dYX1RXX1hPbXR6ZVlYQnRSaTQ3WlZqQzJKUVQ3NzJXNkRleG9WSnJWcmNYel9aRXhTVGZEdkZTdmVBclNRMTkwN1VUZkliV1BwWTVmbGJoZmhP?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[medical-tribune.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxORTIzM04zSl94UEcwOXJBem1KUl93RGFYbGpGb1h3QkNLXzVBRWRXVWc4M2RoMlVSSVZzcmdBTHptVGwwcmRZY2M5dDBMR2V3Z0NzUVE0TnNqc1dYX1RXX1hPbXR6ZVlYQnRSaTQ3WlZqQzJKUVQ3NzJXNkRleG9WSnJWcmNYel9aRXhTVGZEdkZTdmVBclNRMTkwN1VUZkliV1BwWTVmbGJoZmhP?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTdHYjRmdHFRLWN0UGtJVzJYU1FTYVBjR1Z1bGFqcmt5dVktaEwwNFdsZm5oMzFFQng2UzAwTVhIdzZRWndBOU5nOGJsY29zX3lKeDRzVEUyQ0ZDWkxBSjgwTzhrREp5ajdGcWxBYVdzTk5jMnpiTG9WVVVaT2NJMmhSdXpHQ0hUWTVZR2ZTekNXQ01yT2xBXy05WjJBNThFZUNvX3E1ME0yZVlCQXh3Tg?oc=5)
 
 ---
 
@@ -371,38 +347,6 @@ permalink: /news/dronedarone/
 2026-08-06 <span class="news-indication-tag">AF</span>
 
 來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMiggJBVV95cUxPNE5ENC1mYmxOMmlORUdjMUhEcjlJZ2F0NXFuMDZUSDJpenZobGJUT1FuVm9PdXUtdUxuMG5mODdPUlhYUFE2QnA3UU0xemYwNnMySm1jTWxTMGFjaElYeDNWSkFWZGtrX0RuUHRkcngwMnV1bU9PaUduVHlScHVRNXViajlVX2JxclBsT09hTlF1Y3lxb0NpLVZxRmFZWDFWYmRMY056VjZBZjZ5NHBQa3JkakpRa01xdkZiTDU0YmNmbTVKRkhsN21yRXFvOWtZaTBHdm41MnNWbXd5bGxuLUtlTThZMVNWWkNzRnJJWjBCUTdSdE03bjk4QTVIclFlNHfSAcYBQVVfeXFMTkZNbVV3LXQzcEJDRWFlc0NHRnBOWFdlME10YzV1cmYyeUhIRmZCZnhGT0ZmQlRpQVNMU1I5M25XYmtLbE16RE9Ta19aeUw1N2tIbWljcHZJTzRXcUFVcWpBUzZEcDBZRDc2VG82WjdRdy10WTFDN3FNZEczbTNIWEcyTEFxMTBNTU9KSHhIZm1YdGtCQTBsR1Y5XzVRUzdVUExCRDdUYUFLc0ZZcEhpTWdPUGE3Tkk1SXJwUU1yc2l4VktNRm1R?oc=5)
-
----
-
-### [Dieta contro il caldo, il menù anti-afa secondo gli esperti: cosa mettere in tavola e cosa evitare - Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNlcjFRMVFnMHM5WWg2QlN1YjdfSXZBOHh6cUp6cV9XYUFHSHdxRnVrRW1pbFdXWjYxckd4Zl9IaGhxU1pMS0RTV0I4MXp3S1pnWmlQWGp4blo1Y21jd0ZhOFVnWVU3NVVjTGJ6T1E0alQzVy1DR2c3TDE0OU5BVVB4OFpnR2dDSzd4aE1GVUZNbWRBcWZrZmRUa1pKM1kxNEZIUTA0YjPSAa4BQVVfeXFMTjJxRTRJd2RwdjJqbUV4MDZubFJ6MEx0UHZuZkpwQ21TZTA4UUZXaVd0RWtzel9SMHJZNEZ0SnJWSG5zZW1VaFRRTWFSN21CYi1JVlF2Z1VpOVpMSlhpX3ZLM2l0NDlxLTNKYV9QYVFHNm5yMDlCWlNmcVpLOXFHZFdBSHdaUVk2emdvMUZtTlBHTjhIajdlMVFpVmJFdEdsd1dRb0FsOVBUc2ctSEl3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[Quotidiano Di Puglia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNlcjFRMVFnMHM5WWg2QlN1YjdfSXZBOHh6cUp6cV9XYUFHSHdxRnVrRW1pbFdXWjYxckd4Zl9IaGhxU1pMS0RTV0I4MXp3S1pnWmlQWGp4blo1Y21jd0ZhOFVnWVU3NVVjTGJ6T1E0alQzVy1DR2c3TDE0OU5BVVB4OFpnR2dDSzd4aE1GVUZNbWRBcWZrZmRUa1pKM1kxNEZIUTA0YjPSAa4BQVVfeXFMTjJxRTRJd2RwdjJqbUV4MDZubFJ6MEx0UHZuZkpwQ21TZTA4UUZXaVd0RWtzel9SMHJZNEZ0SnJWSG5zZW1VaFRRTWFSN21CYi1JVlF2Z1VpOVpMSlhpX3ZLM2l0NDlxLTNKYV9QYVFHNm5yMDlCWlNmcVpLOXFHZFdBSHdaUVk2emdvMUZtTlBHTjhIajdlMVFpVmJFdEdsd1dRb0FsOVBUc2ctSEl3?oc=5)
-
----
-
-### [Virus zombie nascosti nel ghiaccio, le ipotesi e quei megavirus preistorici isolati in Siberia](https://news.google.com/rss/articles/CBMiowJBVV95cUxOTml4S29POG0yTVAzRFNQbVVUUnpLN05RWVhrVGJnTF84UG96ZGg0NGdfbllpb0xJOFB0TV92c3BLcmtZdmJnTEkyOERuN3ByRFBMSzFiN2tpSW1jTnlpM2k4NDZqNHpxN2dmYU1wRmVoUnJ3d19QZnRlNEc5NTZ0Z2xhZWlRLXFRM2pfbnhhREhWdTB5b2N5M1ROWDUzdmRoM0xoNFZCUXVYMEVnX2FPbEZxcDlnb3o3S2dWS1F6YmFxMllRLUZpODRsQ2JJLTlsdTBJMlBkQWRxMUlCRmQ3U0szZ0hyUlYyZ290Z3R0Tjd1TkhldmxYT3kwck9SUmVyV3ZsQVBQTWtkby1PNngwdW1RV1hPRnJkTDJLX0xVVUxjYVXSAagCQVVfeXFMTThWNmlOUzRGakV1UHlnOVFvbDEzWEJ1SFRGWGJfelpIajFKMmc0Q2N5LTR4TE5FV2s5Njh5b19xa0VER0cwaWJiZzBPYlBnYzRKelF1UXRJWS1PSGExQVVOS0ZTaFBORmV0UnZYZjQ4VFpWNGVHZ0hjMVlBOEhVU2RlQlVTVWkycGtScWFfYnlyR2NjTU8tMkZVX3lHVkM0QVNpakNQcmh2eGpSSHZRdzRLMEdnT0V0Y0lBamNfc1U5NU5abWxqYXZ0b0N3R3ZGQnE2cHptM2s0M042ZHozOXlpcVFoaWhkRS0yb09rWFdkMElfR2Q4UXBqUC1QXzFCM1NveTJvb1JOdWxJc29fRUpnSGZmS3hqUFFIeXhLbzhleFFFcVZJYjM?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[RaiNews](https://news.google.com/rss/articles/CBMiowJBVV95cUxOTml4S29POG0yTVAzRFNQbVVUUnpLN05RWVhrVGJnTF84UG96ZGg0NGdfbllpb0xJOFB0TV92c3BLcmtZdmJnTEkyOERuN3ByRFBMSzFiN2tpSW1jTnlpM2k4NDZqNHpxN2dmYU1wRmVoUnJ3d19QZnRlNEc5NTZ0Z2xhZWlRLXFRM2pfbnhhREhWdTB5b2N5M1ROWDUzdmRoM0xoNFZCUXVYMEVnX2FPbEZxcDlnb3o3S2dWS1F6YmFxMllRLUZpODRsQ2JJLTlsdTBJMlBkQWRxMUlCRmQ3U0szZ0hyUlYyZ290Z3R0Tjd1TkhldmxYT3kwck9SUmVyV3ZsQVBQTWtkby1PNngwdW1RV1hPRnJkTDJLX0xVVUxjYVXSAagCQVVfeXFMTThWNmlOUzRGakV1UHlnOVFvbDEzWEJ1SFRGWGJfelpIajFKMmc0Q2N5LTR4TE5FV2s5Njh5b19xa0VER0cwaWJiZzBPYlBnYzRKelF1UXRJWS1PSGExQVVOS0ZTaFBORmV0UnZYZjQ4VFpWNGVHZ0hjMVlBOEhVU2RlQlVTVWkycGtScWFfYnlyR2NjTU8tMkZVX3lHVkM0QVNpakNQcmh2eGpSSHZRdzRLMEdnT0V0Y0lBamNfc1U5NU5abWxqYXZ0b0N3R3ZGQnE2cHptM2s0M042ZHozOXlpcVFoaWhkRS0yb09rWFdkMElfR2Q4UXBqUC1QXzFCM1NveTJvb1JOdWxJc29fRUpnSGZmS3hqUFFIeXhLbzhleFFFcVZJYjM?oc=5)
-
----
-
-### [Nurse retires after 36 years on front line of HIV treatment](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoS0dYbDNXaXZVTHJ1MU9nZ3FwcFFoUEFMTG5xaERwX09vMUJhNEdLZWRMUmMxeVRMaTJZNjdpVXFJX3d0MDd0Mk50aC12Q3dBY0hoZjBrbHRUdFVQ?oc=5)
-
-2026-08-06 <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoS0dYbDNXaXZVTHJ1MU9nZ3FwcFFoUEFMTG5xaERwX09vMUJhNEdLZWRMUmMxeVRMaTJZNjdpVXFJX3d0MDd0Mk50aC12Q3dBY0hoZjBrbHRUdFVQ?oc=5)
-
----
-
-### [Diabetes und Vorhofflimmern: Das hilft gegen die gefährliche Kombi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTJCM0EyaGVueTh4ZHFjUjFsbXhqZjBiUk5ZWXhPbWl0bTVLb0hXTGJKNk5qZnpLWG5tS1EwMXRzMmtteWxiNG5XVU1MaTJmUmRYdlNQMjYyOFhQZFBPQ1dYLU5wdW1SOHhELU15TV80dk1ZYUhlbWdVcXUtU21tRDZGYkNHR2VWMmJjdUd5YzlEdmotT3V6TDVSTDlrOHY0dTlZUlBXUTZEVG1SV2drNy1DSTgyUQ?oc=5)
 
 ---
 

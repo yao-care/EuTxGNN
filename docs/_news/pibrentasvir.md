@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="Pibrentasvir 有什麼相關新聞？">
-<strong>Pibrentasvir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pibrentasvir</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/pibrentasvir/
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（17 則）
 
-### ['I'm a doctor - some diabetes symptoms show up at night long before a diagnosis'](https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RXNVV4aVVZYXRfa0JIZm9OQTB5cHM2blVnUUxQbTVadzVrVmVjaGgyRURsdW9ROWwyd3ZNQ0FkcFdUdUxNT3gzQUtfWDZUN042YlFRckdxTFNlS0VBOC1HLXF6YU1WbzNUSzRPaVFtWTI3YWNFbGNkb194b2R1M3BMRTk4RU0?oc=5)
+### [Schlüsselmechanismus: Wie Mitochondrien den Hämspiegel in Zellen überwachen](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVhqV1U4MzRfNW5TTkwtRHJ2QWh4UkNONzRuQzFZSkhleWgwWGVlVTFYMUliLXJNb1I1dTZpQU9rZnZ3MFNxWWtMaUUtZ3RoRG1na2EyZC1ObDZ6WEkySHdCVDRnYmo3bWZPYUFxT2d4NmVYaW9pNDJ2b2otLVNaY1dMNTVUVGxHRTkzMUNB?oc=5)
+
+2026-08-08 <span class="news-indication-tag">MS</span>
+
+來源：[mt-portal.de](https://news.google.com/rss/articles/CBMijgFBVV95cUxQZVhqV1U4MzRfNW5TTkwtRHJ2QWh4UkNONzRuQzFZSkhleWgwWGVlVTFYMUliLXJNb1I1dTZpQU9rZnZ3MFNxWWtMaUUtZ3RoRG1na2EyZC1ObDZ6WEkySHdCVDRnYmo3bWZPYUFxT2d4NmVYaW9pNDJ2b2otLVNaY1dMNTVUVGxHRTkzMUNB?oc=5)
+
+---
+
+### ['I'm a doctor - some diabetes symptoms show up at night long before a diagnosis' - GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RXNVV4aVVZYXRfa0JIZm9OQTB5cHM2blVnUUxQbTVadzVrVmVjaGgyRURsdW9ROWwyd3ZNQ0FkcFdUdUxNT3gzQUtfWDZUN042YlFRckdxTFNlS0VBOC1HLXF6YU1WbzNUSzRPaVFtWTI3YWNFbGNkb194b2R1M3BMRTk4RU0?oc=5)
 
 2026-08-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[gbnews.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RXNVV4aVVZYXRfa0JIZm9OQTB5cHM2blVnUUxQbTVadzVrVmVjaGgyRURsdW9ROWwyd3ZNQ0FkcFdUdUxNT3gzQUtfWDZUN042YlFRckdxTFNlS0VBOC1HLXF6YU1WbzNUSzRPaVFtWTI3YWNFbGNkb194b2R1M3BMRTk4RU0?oc=5)
+來源：[GB News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3RXNVV4aVVZYXRfa0JIZm9OQTB5cHM2blVnUUxQbTVadzVrVmVjaGgyRURsdW9ROWwyd3ZNQ0FkcFdUdUxNT3gzQUtfWDZUN042YlFRckdxTFNlS0VBOC1HLXF6YU1WbzNUSzRPaVFtWTI3YWNFbGNkb194b2R1M3BMRTk4RU0?oc=5)
 
 ---
 
@@ -78,19 +86,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [The simple diet that’s BETTER than Ozempic – blasting fat twice as fast as fat jabs - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGUweXRSRmJtclJpNk1ZNkt1ZFhsMWZlVWRFdmNmYzVoay1OZDhVZzVTa3RvY1dkajZoSmxEM1BJN0Qxc3VhTS1nSzJlMEpQc0xfYmJuSnl5MXdXZFdlQ2dMRWlpWmRhd3NOdFZXRTFJMGp1YlhSei1FWnBvQ0JadURuMXJQY0dOaFE?oc=5)
-
-2026-08-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGUweXRSRmJtclJpNk1ZNkt1ZFhsMWZlVWRFdmNmYzVoay1OZDhVZzVTa3RvY1dkajZoSmxEM1BJN0Qxc3VhTS1nSzJlMEpQc0xfYmJuSnl5MXdXZFdlQ2dMRWlpWmRhd3NOdFZXRTFJMGp1YlhSei1FWnBvQ0JadURuMXJQY0dOaFE?oc=5)
-
----
-
-### [Digitale Avatare und Leitlinien-Updates: Neue Wege in der Schizophrenie- und Palliativversorgung - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
+### [La OMS propone probar en RDC una vacuna ya existente contra otra cepa del ébola](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFJPUk5iaXp1QkloM1pNbTJUVnZCbWt0VzRlWDNZQ1RVekpORDJ1RnBGeVlJcU43RU8xZkxIRC1RQXhqTHJxWEoxTjNjc0ZSZE5rNTR2ZkYzTFRaM0NRXzRtU2RPVkxpVEIwc2JyS1VCZy1QV2hpc0VUNHRTcS1qNmJjUWRFc1hSVjEybHM5WWhCNGlBZ1Z2WnViNmhDOXo0ZlpqMERDNFVTMC13NktHamE0X3ZWckRvNmpiUEh6MlVieENiSUtpMG9oY3czQQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
+來源：[rfi.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFJPUk5iaXp1QkloM1pNbTJUVnZCbWt0VzRlWDNZQ1RVekpORDJ1RnBGeVlJcU43RU8xZkxIRC1RQXhqTHJxWEoxTjNjc0ZSZE5rNTR2ZkYzTFRaM0NRXzRtU2RPVkxpVEIwc2JyS1VCZy1QV2hpc0VUNHRTcS1qNmJjUWRFc1hSVjEybHM5WWhCNGlBZ1Z2WnViNmhDOXo0ZlpqMERDNFVTMC13NktHamE0X3ZWckRvNmpiUEh6MlVieENiSUtpMG9oY3czQQ?oc=5)
+
+---
+
+### [Digitale Avatare und Leitlinien-Updates: Neue Wege in der Schizophrenie- und Palliativversorgung](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[it-boltwise.de](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
 
 ---
 
@@ -102,27 +110,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [El Grupo Asesor Técnico de la OMS recomienda que la vacuna Ervebo se evalúe en un ensayo clínico para el ébola Bundibugyo - Gaceta Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaThiWW1ZVnhSU053c25SVVpvS24zX1F5VEtyQkRiWUZoR05vVmFDNFpiR3N1elNxc2l0WnM5V1ZFMG5IQ2xxc093cFBxQzVqeWNxSnQ5OVJlWk5yc3R6YnotbDI1anlTYzFXVjBhQjFTVnc5NC1mZXJNdkNZeXpFekxKNXowajJYT1dtTndiYTNjWGg0bzZkVG51V21OOU5pbURudE9aRmZsQU1NVWRqRkRtT3ZzX0daR3Jld2xNNjhWVnB1SUtz?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMixwFBVV95cUxQaThiWW1ZVnhSU053c25SVVpvS24zX1F5VEtyQkRiWUZoR05vVmFDNFpiR3N1elNxc2l0WnM5V1ZFMG5IQ2xxc093cFBxQzVqeWNxSnQ5OVJlWk5yc3R6YnotbDI1anlTYzFXVjBhQjFTVnc5NC1mZXJNdkNZeXpFekxKNXowajJYT1dtTndiYTNjWGg0bzZkVG51V21OOU5pbURudE9aRmZsQU1NVWRqRkRtT3ZzX0daR3Jld2xNNjhWVnB1SUtz?oc=5)
-
----
-
 ### [Covid-Forschung: Treffer bei überschiessenden Entzündungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
 
-來源：[Watson](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
+來源：[watson.ch](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
 
 ---
 
-### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’ - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
 
 ---
 
@@ -142,19 +142,19 @@ permalink: /news/pibrentasvir/
 
 ---
 
-### [Bisphosphonat bremst Mineralaufbau in geschädigten Wirbelscheiben – KI-frei, aber mit klarem Wirkweg - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
-
----
-
 ### [Neurologie: Blutmarker könnte Fortschreiten bei MS früher erkennbar machen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWS16dXAwMUxsWm1SV3dpWmpSRXVWQ2s0bDdsWU8tUmxtUTVIWWdrQ2JJX2FTeHFTdnNET2JvdnhBdEhyVFUyZ2k3bUEwOXBCX1RmdXBiU2pLd1F3alY3eUR0OWw1WEdBQzFRZGxHN29Kc240d1V6TUViSThGMHFDY3dvQ3p6T3Vwa3hkSzMwSGV0VTI4N3Bja21R?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
 
 來源：[mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWS16dXAwMUxsWm1SV3dpWmpSRXVWQ2s0bDdsWU8tUmxtUTVIWWdrQ2JJX2FTeHFTdnNET2JvdnhBdEhyVFUyZ2k3bUEwOXBCX1RmdXBiU2pLd1F3alY3eUR0OWw1WEdBQzFRZGxHN29Kc240d1V6TUViSThGMHFDY3dvQ3p6T3Vwa3hkSzMwSGV0VTI4N3Bja21R?oc=5)
+
+---
+
+### [54 Moms Open Up About The Brutal Things Their Bodies Endured To Give Birth - Bored Panda](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0h6bXdNeTBaUUpCUURBVjBkZ04zbWR1MUdnZmoxSGYyLWxDRDhOb3FNdEQtLVB2cFFPdTRJZm5KNUZQUjdVZWlSOGxydWxpamJFT0EtMWZPZ29NSnZfQVVUS1VkRTl1N3lXZ3AtNFFjRnNSZDRFZ1h0bm5aV3FNWkIyYXlYYVRh?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0h6bXdNeTBaUUpCUURBVjBkZ04zbWR1MUdnZmoxSGYyLWxDRDhOb3FNdEQtLVB2cFFPdTRJZm5KNUZQUjdVZWlSOGxydWxpamJFT0EtMWZPZ29NSnZfQVVUS1VkRTl1N3lXZ3AtNFFjRnNSZDRFZ1h0bm5aV3FNWkIyYXlYYVRh?oc=5)
 
 ---
 
@@ -166,11 +166,27 @@ permalink: /news/pibrentasvir/
 
 ---
 
+### [Warning for theme park tourists after visitor diagnosed with infectious disease - Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM05URUkxTjJsVjVRNlIxbTNfdnVyb3NzX1ViclJjdnhWcFhBQl9yelp1TmNWaTFpWkdrc0hZaE8zQ1NjVmhJVF9pVnI1Z1dIMTliamJsazdSYTA2RXN4Y3VPM3hnWms5cjhpN0NSU2t5VUplQ0xiZlM4OW1zSkt2ZTRLbFZ1ZU3SAYwBQVVfeXFMUDd0a0xmWWpIU01jY0NOdWI5YUIwYXg3T3V6RUhyTzUydi1VLTRVcWYxeU10S0NEZHpHVlE0dWhGSWFrdjhHZzJkaVFQYzl1TGtsZVJIbDdaQzBteC1kMEhYaXNYQThGTnpxV0otMm1mQkRIODgzZTlWaEl4S2FOMGNzVVE0VzQ5ZFh4aGg?oc=5)
+
+2026-08-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[Daily Express](https://news.google.com/rss/articles/CBMihwFBVV95cUxOM05URUkxTjJsVjVRNlIxbTNfdnVyb3NzX1ViclJjdnhWcFhBQl9yelp1TmNWaTFpWkdrc0hZaE8zQ1NjVmhJVF9pVnI1Z1dIMTliamJsazdSYTA2RXN4Y3VPM3hnWms5cjhpN0NSU2t5VUplQ0xiZlM4OW1zSkt2ZTRLbFZ1ZU3SAYwBQVVfeXFMUDd0a0xmWWpIU01jY0NOdWI5YUIwYXg3T3V6RUhyTzUydi1VLTRVcWYxeU10S0NEZHpHVlE0dWhGSWFrdjhHZzJkaVFQYzl1TGtsZVJIbDdaQzBteC1kMEhYaXNYQThGTnpxV0otMm1mQkRIODgzZTlWaEl4S2FOMGNzVVE0VzQ5ZFh4aGg?oc=5)
+
+---
+
 ### [Sugar plays bigger role in brain evolution than previously thought, study finds - STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3VUaHk5ay0zNnJCSUlnR0VJREVKV2pNMVZzNmN1cnYxWmpubHFsVF96U1RJSHJvVDNwQnVxYUk5d3M2aFp1TU5VQmpOcndueFlpdlJoRV9nZDgyaHBVSFZlSkVDbzRpUEpaLUs4a0pBZ1ZjWG51VXVvRGhlTzVPWFpFcVp0QTZDdW5DMmlXOVcxdTJqcHU1eFlFYVdVQ0NrZ0x4MlZLaUpMVGZBSDU4Sw?oc=5)
 
 2026-08-06 <span class="news-indication-tag">MS</span>
 
 來源：[STV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3VUaHk5ay0zNnJCSUlnR0VJREVKV2pNMVZzNmN1cnYxWmpubHFsVF96U1RJSHJvVDNwQnVxYUk5d3M2aFp1TU5VQmpOcndueFlpdlJoRV9nZDgyaHBVSFZlSkVDbzRpUEpaLUs4a0pBZ1ZjWG51VXVvRGhlTzVPWFpFcVp0QTZDdW5DMmlXOVcxdTJqcHU1eFlFYVdVQ0NrZ0x4MlZLaUpMVGZBSDU4Sw?oc=5)
+
+---
+
+### [Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
+
+2026-08-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
 
 ---
 

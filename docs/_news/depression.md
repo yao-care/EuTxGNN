@@ -37,19 +37,19 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [How early-life stress leaves a 'scar' inside brain cells - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSkVtekpCMXFBUEMtYkY1WGFtczlMZkRST2lEdm1SXzMxdFA5a2tYVzdOYUVIcnc2dkl1RXYtRHA3aExIYWtmRUpEb3A2c3FBdGR6cTZKS0NLVmdZckJkN2diaGtrc2NBeXJQUVBjUVBUSVdSS0pFRlltcUw?oc=5)
+### [Depressionen: Wie die Krankheit unsere Immunzellen „steifer“ macht](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 
-2026-08-07
+2026-08-08
 
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSkVtekpCMXFBUEMtYkY1WGFtczlMZkRST2lEdm1SXzMxdFA5a2tYVzdOYUVIcnc2dkl1RXYtRHA3aExIYWtmRUpEb3A2c3FBdGR6cTZKS0NLVmdZckJkN2diaGtrc2NBeXJQUVBjUVBUSVdSS0pFRlltcUw?oc=5)
+來源：[Kurier](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 
 ---
 
-### [Depression lässt Immunzellen erstarren](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zbjNEaTB4c2pCM1IzSnlzU2N5QnRTbU92RWtFWjcwdlBKQlhlTWdhTjU4Y1R0ZTNQUXBpX1R4VVU5M1B1Y3VoMVRqSGVSQQ?oc=5)
+### [Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
 
 2026-08-06
 
-來源：[tirol.orf.at](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zbjNEaTB4c2pCM1IzSnlzU2N5QnRTbU92RWtFWjcwdlBKQlhlTWdhTjU4Y1R0ZTNQUXBpX1R4VVU5M1B1Y3VoMVRqSGVSQQ?oc=5)
+來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
 
 ---
 

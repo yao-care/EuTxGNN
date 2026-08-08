@@ -54,19 +54,19 @@ permalink: /news/tolcapone/
 
 ## 相關新聞（2 則）
 
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">dementia</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
----
-
-### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ?](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ? - Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
 
 2026-08-07 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-來源：[leprogres.fr](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+來源：[Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
+
+---
+
+### [Common midlife vascular risk factors may cut dementia-free life by up to 13 years - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjctcm5KQ2cwWk45cE1VSEo5akc0SldFeVgzYWhLbWRzX184UFRBOVIzU3Z3S3BqY0Z3bW9tZkJaS3RKVlN0eGlIVTZGLVRMYzJpRHJmdzhzclJVYW5wa0tJbXN4MmZOM09VSElMT2ZZTThXWGtrYkFsdmVXeDlTU2hQSGJHN2xMSzFSUg?oc=5)
+
+2026-08-06 <span class="news-indication-tag">dementia</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjctcm5KQ2cwWk45cE1VSEo5akc0SldFeVgzYWhLbWRzX184UFRBOVIzU3Z3S3BqY0Z3bW9tZkJaS3RKVlN0eGlIVTZGLVRMYzJpRHJmdzhzclJVYW5wa0tJbXN4MmZOM09VSElMT2ZZTThXWGtrYkFsdmVXeDlTU2hQSGJHN2xMSzFSUg?oc=5)
 
 ---
 
