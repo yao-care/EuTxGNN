@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
+
+### ["Bauernhofeffekt": Warum der Kuhstall Kinder vor Allergien schützen kann](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
+
+2026-08-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span>
+
+來源：[tagesschau.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
+
+---
 
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Bauernhof-Effekt: Forschende decken auf, was genau die Kinder vor Asthma schützt](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3plVU94TXp3dDYxYUJCaVAxb3RzbG1saVlrbFo3b2NXSVNwNi05LVBkQmo2YnJVU1U0MElZTVkyRXpsYi1zOE9UeWZhdmJseDZqRnc5V1FNUjV2N1duSlRBYWpkNi1TYzZtUGxweGxWaVFNNUVrNWdLOXdtLWJpMkpHVDFvaVl4QlF1ZWhoc2gtLUVZSVJnamZYUk5FMFk5b28teQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asthma</span>
-
-來源：[agrarheute.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3plVU94TXp3dDYxYUJCaVAxb3RzbG1saVlrbFo3b2NXSVNwNi05LVBkQmo2YnJVU1U0MElZTVkyRXpsYi1zOE9UeWZhdmJseDZqRnc5V1FNUjV2N1duSlRBYWpkNi1TYzZtUGxweGxWaVFNNUVrNWdLOXdtLWJpMkpHVDFvaVl4QlF1ZWhoc2gtLUVZSVJnamZYUk5FMFk5b28teQ?oc=5)
-
----
-
 ### [Cumbernauld mum issues asthma warning to schoolkids after daughter's tragic death - Glasgow Live](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5HQ01rb0JMeXpqY3FJVkpyYWUxX0laYzJDN01sczBCTVBYVHdvWGNLbTY4SDZLZWtOUWtuX3Z3NWNkeTNUbUNHcW5Fbk5PRXNCY2NuQU15ZGpncHdmM19Ed1pENmdZWE5pNWotV2hvZ0hfWVR5SUlVN3NYWGZkZ1JXdy1ONkVqZEtsWlZKWGZVSXB3TENJdThR?oc=5)
 
 2026-08-07 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">AF</span>
@@ -91,30 +91,6 @@ permalink: /news/sarilumab/
 2026-08-07 <span class="news-indication-tag">arthritis</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
-
----
-
-### [Informations- und Unterstützungsangebote: Gut leben mit COPD](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
-
-2026-08-06 <span class="news-indication-tag">copd</span>
-
-來源：[on-online.de](https://news.google.com/rss/articles/CBMia0FVX3lxTFBrYVlFUTVyZWVNN3dMemlKQ0o3VjFRQUt4TkZUbVRnWlJzS1hLR3Q0cElhR1Fia1NFejFubURtZkc2Z01fVTVyUVRvX2ZDRTlsYkozSjFqUGc3SlVNNXlWY3pMUXRjMWxiLW53?oc=5)
-
----
-
-### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
-
-2026-08-06 <span class="news-indication-tag">artrite</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
-
----
-
-### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
-
-2026-08-06 <span class="news-indication-tag">artritis</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
 ---
 

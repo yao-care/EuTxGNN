@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión（hypertension） 相關新聞"
+title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "hipertensión（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
-# hipertensión（hypertension） 相關新聞
+# Bluthochdruck（hypertension） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="hipertensión（hypertension） 有什麼相關新聞？">
-<strong>hipertensión（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「hipertensión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Bluthochdruck」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [La menopausia prematura aumenta el riesgo de hipertensión arterial - 65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
-
-2026-08-08
-
-來源：[65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 

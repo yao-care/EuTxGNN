@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Vittorio Lingiardi: «Ansia, paura, sfiducia nel futuro. L'emergenza climatica per la mente è come un lutto» - Corriere della Sera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGxxNC1WQWNwNjRoZGdzc0dZTURHRGhwMVc4bVJPMFg0S3hBMkNLY2lJWXhYVnpIMnVSeWdPTFlNbmYyT3ltd0JFNVdYQzh2eDkxOXFaU080dDY1QUwyNlJlaHhxZ083Y0V6OWp3NmZ3bUJRUlZDenJCTFA4VEluQVhUa0d5V0FhUkR3ejFNc0NaZDRJZ3RGM0VYTHk1SEFfenF4YzBzdkZGNUhsNTZ3V3ZHc0dqdENOT0RmVEM4a0lSMEVNZERhTE1qOGYzdThRUUY4NNIB2gFBVV95cUxNc3JJaklnT3dQakZyQXhBeXhNYlFldHUwRGw1d1d5UUdlOUEtdVZNYXc2MFVsQzhtek54YThONXFPdTlUbkllQlV1NXZadjQwLVl3MWNSZkc2ZE16dUJxcWtxNEU5ZWl2VEZzUk1jU0E5UDFLMzRQY0RkS2dUZkVWb2RNeC1xLS13NjZ6MVFjenNZVkYwTXFGYldJZjB6RUo2LVdFNGJJXzNjWUJqekF2b0swMDFSZmNfN1NZN25FeUtsUnV6UjhSTnpEV2lMdm8zR1FWMGRxbVFrUQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">CKD</span> <span class="news-indication-tag">AF</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGxxNC1WQWNwNjRoZGdzc0dZTURHRGhwMVc4bVJPMFg0S3hBMkNLY2lJWXhYVnpIMnVSeWdPTFlNbmYyT3ltd0JFNVdYQzh2eDkxOXFaU080dDY1QUwyNlJlaHhxZ083Y0V6OWp3NmZ3bUJRUlZDenJCTFA4VEluQVhUa0d5V0FhUkR3ejFNc0NaZDRJZ3RGM0VYTHk1SEFfenF4YzBzdkZGNUhsNTZ3V3ZHc0dqdENOT0RmVEM4a0lSMEVNZERhTE1qOGYzdThRUUY4NNIB2gFBVV95cUxNc3JJaklnT3dQakZyQXhBeXhNYlFldHUwRGw1d1d5UUdlOUEtdVZNYXc2MFVsQzhtek54YThONXFPdTlUbkllQlV1NXZadjQwLVl3MWNSZkc2ZE16dUJxcWtxNEU5ZWl2VEZzUk1jU0E5UDFLMzRQY0RkS2dUZkVWb2RNeC1xLS13NjZ6MVFjenNZVkYwTXFGYldJZjB6RUo2LVdFNGJJXzNjWUJqekF2b0swMDFSZmNfN1NZN25FeUtsUnV6UjhSTnpEV2lMdm8zR1FWMGRxbVFrUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

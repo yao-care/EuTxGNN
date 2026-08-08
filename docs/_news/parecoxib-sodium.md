@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="Parecoxib Sodium 有什麼相關新聞？">
-<strong>Parecoxib Sodium</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Parecoxib Sodium</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/parecoxib-sodium/
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（5 則）
 
-### [La menopausia prematura aumenta el riesgo de hipertensión arterial - 65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
+### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
 
-2026-08-08 <span class="news-indication-tag">hipertensión</span>
+2026-08-08 <span class="news-indication-tag">Migräne</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
 
 ---
 
@@ -91,22 +91,6 @@ permalink: /news/parecoxib-sodium/
 2026-08-06 <span class="news-indication-tag">Herzerkrankung</span>
 
 來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVR1RXhxYUZEWVM0OTZZY3ZtdjN1UkxQMHdDUVJWck9zbjk2VEx6c3V6V185bmRsYXlUclVWTXp6bjBFMWtKQWxOTUlFY0lMYW5aSGtNOXBFSUUyc2tBWTNWR21jZW5RLVp5V2ZiSDdLd0hKQnJZQlhONmVSdjhYRmM4UnFoT0I1ajY1SWFYU1VwdkN1X3NtRDV0SVpoTFdaZXF4QkYyNmtqeGtWVUI2dm1SWkctdkw2alNwdVk2UQ?oc=5)
-
----
-
-### [Artrosi e artrite, cosa cambia? Il dottor Alessandro Geraci: "Prima della protesi esistono molte terapie"](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
-
-2026-08-06 <span class="news-indication-tag">artrite</span>
-
-來源：[Qdpnews](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JKTlVna1RhbEUySEZnMnIyTlBxZXg0U25jU0lBRjB0cDNIeTNKbE1EbFdPcmxXQ3pQVGtyTm1aSTllRlhzWE1kM0E2RG51VHo4NS05amdCc3IzU01VX0NYdHFybDZlYVQ4d2hRaUg4MDdkWG8tSWVzcDNENTlHeTlQS25Pd3JjUGhlUWpOTk1RY2hHZ3BnbWpvbTlJYnI0Zy1YMjdGcHJPT2t6MGVCbGVyMjJ2eXliN3hBM29BOTYzaGktc1dzY3gwQnkxd0Z0cy03TkNHR01rZy05eU9hRy1neDVmRHRVUndpcjhjTEc?oc=5)
-
----
-
-### [La disbiosis oral se asocia con la artritis sintomática de la mano - El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
-
-2026-08-06 <span class="news-indication-tag">artritis</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcC1DVlg0OUpuZzRPdXItUEswUkNsOEVtb2Z5ZlhJV1NNLTJMUUlkX1ZndWF2N1djVEFCOHBBTVROT3dqRGt2TkRHRk1TRFdmMHVYZVpnYk9pQmJxLVhISHhiQU5TQnVmS0FlT2pHVUpJS3kwTVE1ZnFrWWJyWU9ONUphWE41ZWFTVWRYSV9HYU5nSkRFV0JocEVTLTItS3M4?oc=5)
 
 ---
 

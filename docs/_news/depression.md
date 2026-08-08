@@ -3,7 +3,7 @@ layout: default
 title: "depression 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depression 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>depression</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Depressionen: Wie die Krankheit unsere Immunzellen „steifer“ macht](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
+### [Depressionen: Wie die Krankheit unsere Immunzellen lahmlegt](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 
 2026-08-08
 
 來源：[Kurier](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
-
----
-
-### [Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
-
-2026-08-06
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
 
 ---
 

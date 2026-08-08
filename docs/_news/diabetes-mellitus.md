@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetic（diabetes mellitus） 相關新聞"
+title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetic（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetic（diabetes mellitus） 相關新聞
+# diabetes（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetic（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetic（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetic」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,22 @@ permalink: /news/diabetes-mellitus/
 
 ## 相關新聞（11 則）
 
+### [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes y diabetes tipo 2: uno es la longitud del muslo - Diario de Navarra](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQjJLUnZzX04zMDU5eDV5Tjk2ajROTVJtMFVmdG9mb3FQNlNsbktHNE1fNkVUR1pmQWRTRlM4TWpuRTBDMjdDSjk3eUlXTUloVXRlRDlqSVF0UFV1S0l0cU4wSmFyNVZ3cXY4N09xNGlmaXJUMHBvWGNpcGZCYThZazFKQzRISHVoNE1wR0VnbDdHNVJ0QkhHMFc4cDNRV0dBekkyMWc3OWxNM1FNMzNzVlYzaUlrZ0VmdTFhMEZmdFVhazMtN2JRMDNVMGNLQ1YzUm93ZHN6Ull1QklyeDczT2o3MnFsYzd2TWliTlFRb2MtcWxheGJfRFgtcXUxRTg?oc=5)
+
+2026-08-08
+
+來源：[Diario de Navarra](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQjJLUnZzX04zMDU5eDV5Tjk2ajROTVJtMFVmdG9mb3FQNlNsbktHNE1fNkVUR1pmQWRTRlM4TWpuRTBDMjdDSjk3eUlXTUloVXRlRDlqSVF0UFV1S0l0cU4wSmFyNVZ3cXY4N09xNGlmaXJUMHBvWGNpcGZCYThZazFKQzRISHVoNE1wR0VnbDdHNVJ0QkhHMFc4cDNRV0dBekkyMWc3OWxNM1FNMzNzVlYzaUlrZ0VmdTFhMEZmdFVhazMtN2JRMDNVMGNLQ1YzUm93ZHN6Ull1QklyeDczT2o3MnFsYzd2TWliTlFRb2MtcWxheGJfRFgtcXUxRTg?oc=5)
+
+---
+
+### [„Schlankheitsgen“ entdeckt – seltene Mutation lässt Fett schneller verbrennen](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
+
+2026-08-08
+
+來源：[smartup-news.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
+
+---
+
 ### [Una foto con lo smartphone diventa una mappa di rischio del piede diabetico](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmdOQkQtMG15R0ZndHZNSmoyeXBmU3lYNEhGSDlPLVhLalBHcGlFLUVpRlpmZXN6dEhiU09nM1pTR2ZpSl9wcHlCeDhueGdMeF9MZkNmRmt2dHFZLVBsOUhaWkRjTGxXUnozN1cyTkpZY0UzV3BONEJZUTlpdzZNOE5TbWJYNDdtdE1fOHpFZDRuMVNZUkxyZ0hVU0YtRFowZ2xaTkh4UUhhUnIwQkp2ckh2bEY5bG9Lc3Fkd2ZsTWQ3RTQ3Y3ZlN0R5WFl3VnpC?oc=5)
 
 2026-08-07
@@ -164,11 +180,11 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Diabetische Retinopathie: Tirzepatid senkt Netzhautkomplikationen um 70% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclh1MHFDZ1Rtd0czSllFZFBsUFNVTHRRYnV2NldwTGFfTnZZaUJHNnU1NmJIZWJ5bjV6YzBQcjlfVHgtNWg0MjRoVUQ1dVlIV056bS0tRGdVd0lSUlZvbF9HeUdpU3I0TDZNcThPSWFPOWZsc3huVjc5N0ZCX2JEUHl2ckE5am5seWxDLXZueFZIMjd5dUgyd2ZMNTlFS01KaTIzNWU3QXFpbkJZTzJzMHk0MmlpU3ZJWnVJ?oc=5)
+### [Diabete: aggiornati i criteri per il monitoraggio della glicemia](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEsxVHJCa0tHcUV4VGRUSklPRmJLbU5ELTVfdzNiai1zTGFPM1JFcFg1OVZoam9FYW1PWjlOUzU1My10eV9XSVFkMUI4dy03ZVQwRE54S2NVOVU5T1VFT0VueUw0TVhqcTdKal9YUFY2UWZzUnZUckxJeUsxa1FmaTdXUWhjYnJTN2R5OUFKZ3huSVJOcE9ES01pWWNlS2ZkZFNVMUNnV1lUNXRyTGxpUDlDaVJMcGc?oc=5)
 
 2026-08-07
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclh1MHFDZ1Rtd0czSllFZFBsUFNVTHRRYnV2NldwTGFfTnZZaUJHNnU1NmJIZWJ5bjV6YzBQcjlfVHgtNWg0MjRoVUQ1dVlIV056bS0tRGdVd0lSUlZvbF9HeUdpU3I0TDZNcThPSWFPOWZsc3huVjc5N0ZCX2JEUHl2ckE5am5seWxDLXZueFZIMjd5dUgyd2ZMNTlFS01KaTIzNWU3QXFpbkJZTzJzMHk0MmlpU3ZJWnVJ?oc=5)
+來源：[ufficiostampa.provincia.tn.it](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEsxVHJCa0tHcUV4VGRUSklPRmJLbU5ELTVfdzNiai1zTGFPM1JFcFg1OVZoam9FYW1PWjlOUzU1My10eV9XSVFkMUI4dy03ZVQwRE54S2NVOVU5T1VFT0VueUw0TVhqcTdKal9YUFY2UWZzUnZUckxJeUsxa1FmaTdXUWhjYnJTN2R5OUFKZ3huSVJOcE9ES01pWWNlS2ZkZFNVMUNnV1lUNXRyTGxpUDlDaVJMcGc?oc=5)
 
 ---
 
@@ -185,22 +201,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-06
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
-
----
-
-### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
-
-2026-08-06
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
-
----
-
-### [Diabetes kann Wechseljahre deutlich verschlimmern](https://news.google.com/rss/articles/CBMilwFBVV95cUxObld0NmRqVWNsOEV2cklVWGt0MmVIakxlS2trcU56OHpYYVdGcVRqb3BqWTBYWnNaOFQzU2c5NG1tQU9GRnQzSUU1Y1FRMF9TZWtIVnlXQ0JwUlg5aGFBQXF6bVlra3lxUm9fYnNHQ0puSlJYSF8xcEpoa3Q0b3NfQUw2VDVvNWtVY3JCNVJWNHhoUnI5b0JB?oc=5)
-
-2026-08-06
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMilwFBVV95cUxObld0NmRqVWNsOEV2cklVWGt0MmVIakxlS2trcU56OHpYYVdGcVRqb3BqWTBYWnNaOFQzU2c5NG1tQU9GRnQzSUU1Y1FRMF9TZWtIVnlXQ0JwUlg5aGFBQXF6bVlra3lxUm9fYnNHQ0puSlJYSF8xcEpoa3Q0b3NfQUw2VDVvNWtVY3JCNVJWNHhoUnI5b0JB?oc=5)
 
 ---
 

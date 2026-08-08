@@ -54,11 +54,11 @@ permalink: /news/selpercatinib/
 
 ## 相關新聞（3 則）
 
-### [La menopausia prematura aumenta el riesgo de hipertensión arterial - 65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
+### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
 
-2026-08-08 <span class="news-indication-tag">hipertensión</span>
+2026-08-08 <span class="news-indication-tag">Migräne</span>
 
-來源：[65 y más](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU95WDB5M3IxazMxWXA3MmhDU1ljZVNYTzRZajZNc1ROaDBnaHctMlpER0tOWmtkdm0xbXZtdXR1T3B4YVExUDJWQzZUMTZqRF9xdFlkd0lQemNObzcyZHNWd05ibjE2NFlzUDVKQXhQR0FZeTFKLU11NmlpVHBkSlRjRWFEdmRaVDZCVGJqdTkwMGN3VE1IcVRQbXJGaFhBNWVV?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
 
 ---
 

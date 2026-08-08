@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Depressionen: Wie die Krankheit unsere Immunzellen „steifer“ macht](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
+### [Depressionen: Wie die Krankheit unsere Immunzellen lahmlegt](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 
 2026-08-08 <span class="news-indication-tag">depression</span>
 
 來源：[Kurier](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
-
----
-
-### [Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
-
-2026-08-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-來源：[Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE00ci1JMDN3MzJsWkFTUndVVFJxVEZGSjZnYVVyUzN3S3FoUGdQcjRrSzJmT0JtZFpZM2ZFbTVoOW1lcFQ5U3VHc1VtRV9NNXpvN3lXWjlUQ1NRdDBMWkY0?oc=5)
 
 ---
 

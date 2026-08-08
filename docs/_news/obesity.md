@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesidad（obesity） 的相關健康新聞報導。5 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。4 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesidad（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesidad（obesity） 有什麼相關新聞？">
-<strong>obesidad（obesity）</strong> 目前有 <strong>5 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>4 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesidad」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+### [Il caso del ragazzino di 170 kg e l’inchiesta BBC: i bambini italiani sono sempre più grassi? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF4?oc=5)
 
-2026-08-07
+2026-08-08
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF4?oc=5)
 
 ---
 
@@ -59,14 +59,6 @@ permalink: /news/obesity/
 2026-08-06
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
-
----
-
-### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
-
-2026-08-06
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
 ---
 

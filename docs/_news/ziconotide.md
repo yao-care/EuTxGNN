@@ -54,11 +54,19 @@ permalink: /news/ziconotide/
 
 ## 相關新聞（5 則）
 
-### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
 
-2026-08-07 <span class="news-indication-tag">obesity</span>
+2026-08-08 <span class="news-indication-tag">Migräne</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
+
+---
+
+### [Il caso del ragazzino di 170 kg e l’inchiesta BBC: i bambini italiani sono sempre più grassi? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF4?oc=5)
+
+2026-08-08 <span class="news-indication-tag">obesità</span>
+
+來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF4?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/ziconotide/
 2026-08-06 <span class="news-indication-tag">Adipositas</span>
 
 來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0RMNFJaZWxHRU54N0EyRG9xLVliRjlEYVB5QUhQNEZxYWVxNUFxNTM4RzRTYzRxcDIzQmsyZFgxdVd3clBhTWMydFlITXpiVU55RUVDRi1JU3o4dktzUVFVSlpuYnMxOVVFZVNHeVJSYnNncHh6ekxCb2ZjNDJWcmlrOVZWTjA4SHQ1bFc0QTJiT2l3TlgxZktSNjByLThDWm5Da3BXNHdWRFJPYmFMUUFicGUyNWlxZElyOHM1VkE0a3kwWEU2RHpoZ08?oc=5)
-
----
-
-### [Boom dei farmaci anti-obesità: spesa +34,9% e +75,8% tra i privati - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
-
-2026-08-06 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-來源：[Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMioAFBVV95cUxObktKLU1CSEw1QktxQ3F2MlhpOGcxc0tHODJHLWFUSUd2TzBqMXdwb0h3YnlhNFFjOG1IS3B4VDFWVkliUVhNQldHVUZpVmVFOW5JZDhxWEYxOTI4TEo4eGYxOEd0ZWhXcGdfdTJUYkctbmpGeGp2QWo0N2RnRUwydU1zcjc5RkNpTlpRcjVhOUFfa29LQ3MtS2RKemQycm5x?oc=5)
 
 ---
 
