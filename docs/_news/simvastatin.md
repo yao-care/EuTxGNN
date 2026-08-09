@@ -54,6 +54,14 @@ permalink: /news/simvastatin/
 
 ## 相關新聞（6 則）
 
+### [Tirzepatid senkt Herzinfarkt- und Schlaganfallrisiko um rund ein Drittel - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+
+---
+
 ### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
 
 2026-08-08 <span class="news-indication-tag">ictus</span>
@@ -83,14 +91,6 @@ permalink: /news/simvastatin/
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
-
----
-
-### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
-
-2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
 
 ---
 

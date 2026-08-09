@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,13 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [12-Monats-Daten zu Foslevodopa/Foscarbidopa bei Parkinson](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
-
-2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span>
-
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Parkinson's-linked α-synuclein blocks protein transport in neurons, disrupting cells' waste recycling - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHFUTk9qbEZXb0VsbjVsVDJyQjA4Qmc0b09IZEZVa3FWNER1aEVMX2ZQSElVQXNBd0h3NGUzaHcxblV4M3FiNTJnR1dYa2dQNFdlXzNRcXZDbnJwdU53cjk2amZPckVuaWZuU3BuSW04SmRWNU5XblRJN20wV0lBY09yYnFGNVl1LUxoUkd3?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHFUTk9qbEZXb0VsbjVsVDJyQjA4Qmc0b09IZEZVa3FWNER1aEVMX2ZQSElVQXNBd0h3NGUzaHcxblV4M3FiNTJnR1dYa2dQNFdlXzNRcXZDbnJwdU53cjk2amZPckVuaWZuU3BuSW04SmRWNU5XblRJN20wV0lBY09yYnFGNVl1LUxoUkd3?oc=5)
-
----
-
-### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ? - Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
-
-2026-08-07 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
 
 ---
 

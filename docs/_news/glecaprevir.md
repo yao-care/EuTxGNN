@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="Glecaprevir 有什麼相關新聞？">
-<strong>Glecaprevir</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Glecaprevir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/glecaprevir/
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（10 則）
+
+### [Multiple Sklerose: Darmbakterium Akkermansia als Ansatz gegen Autoimmunreaktionen - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHRTQi1MOUhnWVdRT0I1SjgwbVUtUExoTmZMTWh3SktrdDVjcVZYQk1DVWJpZk5nVVpkM3h6dGdMV0NhbHc3STZQaFlQQW1XcTUxV1VZOGNjT2dBSVNmYWdZYkdBajlRVEcyTlZ2NGZvNlpHNEZoclBkaTc3V3dPSjdrQkx5T0F4TTg5N0F4OEs3cDZ2Sl9OTXRKUDZUZWFJNmJ6RTZuLURJSHVrLWh6azJn?oc=5)
+
+2026-08-09 <span class="news-indication-tag">Multiple Sklerose</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHRTQi1MOUhnWVdRT0I1SjgwbVUtUExoTmZMTWh3SktrdDVjcVZYQk1DVWJpZk5nVVpkM3h6dGdMV0NhbHc3STZQaFlQQW1XcTUxV1VZOGNjT2dBSVNmYWdZYkdBajlRVEcyTlZ2NGZvNlpHNEZoclBkaTc3V3dPSjdrQkx5T0F4TTg5N0F4OEs3cDZ2Sl9OTXRKUDZUZWFJNmJ6RTZuLURJSHVrLWh6azJn?oc=5)
+
+---
 
 ### [Woman Moved In With Her Boyfriend And Everything Seemed Fine, Until Unexplained Symptoms Began Months Later - Bored Panda](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0J5SXRLeFFzVGlidk5GNVY4U2FBZnlHaGRHXzRmNTVfVld2YVFiRjRiY3JpbUN2U0dKUUVYclhCT1NkakRldGlKVkpNcTNaODN6ejdLLXZGdXNZaWt6VkRMODVDTjdOYXQwNHNobkhhV0x0MEV3SVU1X2ZhVWYwUWVseDZrdFY2cHFIWXBkRmkwb1Rhb2JUa1RBNVBFbmQyYlVIdmh3eElkQQ?oc=5)
 
@@ -86,22 +94,6 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo](https://news.google.com/rss/articles/CBMixAJBVV95cUxPbDNlRUpwVHBrNThQTFcyVXg0c1ptZ28ySDhMMnNfUG1VOXUzUEh6cklDS3FJSVJGZmN4LXZ3WEp2RDQwUnNDeGp1M3JMZFpnN3BLNnlySk9aeUNPM185WmpMZ2hEeFRfdXIxcDdFc0dCVDg4YlNSNm5iSmZaVEc3X1A4Qlk0RlFfZk5hRjRwM2pxMHZ5dlQtZGVnMU5iSmtjd0NDcVdUUE1JbjNaWFdDQm5WdEQ3X1MzQWVKWGxWWEZDTTdBS3N3ZXRNeUJ2VWNtcTBVcDNvQk03TFZJRUgzZ3NJSVk1MUVLOTdjWkRGSVc3NDhqdEx6aDFaV2xEM05WLWFpQUtfa0dfTlEtYUZlLUx0ODZ6RjVrQmZNdnA3WDQtMDViaXFRT1RjR01KeGlmakNGLWdHSy1WU1RfWU1ES2lUb0g?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[franceinfo](https://news.google.com/rss/articles/CBMixAJBVV95cUxPbDNlRUpwVHBrNThQTFcyVXg0c1ptZ28ySDhMMnNfUG1VOXUzUEh6cklDS3FJSVJGZmN4LXZ3WEp2RDQwUnNDeGp1M3JMZFpnN3BLNnlySk9aeUNPM185WmpMZ2hEeFRfdXIxcDdFc0dCVDg4YlNSNm5iSmZaVEc3X1A4Qlk0RlFfZk5hRjRwM2pxMHZ5dlQtZGVnMU5iSmtjd0NDcVdUUE1JbjNaWFdDQm5WdEQ3X1MzQWVKWGxWWEZDTTdBS3N3ZXRNeUJ2VWNtcTBVcDNvQk03TFZJRUgzZ3NJSVk1MUVLOTdjWkRGSVc3NDhqdEx6aDFaV2xEM05WLWFpQUtfa0dfTlEtYUZlLUx0ODZ6RjVrQmZNdnA3WDQtMDViaXFRT1RjR01KeGlmakNGLWdHSy1WU1RfWU1ES2lUb0g?oc=5)
-
----
-
-### [El ébola llega a los campamentos de refugiados en la RDC - IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlhnRG4zcU93bFk5ekQyTm9MaVY4YTlYck9LVDNDMU84a2ZvWDFPMFRLRmo3eV9ONVJ5ZmJpdS0tM25HT2VSRUZ0T0J3UEZhRUpyS0psbUZFU0lRWXR1d2ZKWng0NXZKZW1ib2ZXQm55ZmRPUnp4akRHSzVvdW1tTEtQLUdQSWNRbkZuMG1Wc1BvVzQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[IPS Agencia de Noticias](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUlhnRG4zcU93bFk5ekQyTm9MaVY4YTlYck9LVDNDMU84a2ZvWDFPMFRLRmo3eV9ONVJ5ZmJpdS0tM25HT2VSRUZ0T0J3UEZhRUpyS0psbUZFU0lRWXR1d2ZKWng0NXZKZW1ib2ZXQm55ZmRPUnp4akRHSzVvdW1tTEtQLUdQSWNRbkZuMG1Wc1BvVzQ?oc=5)
-
----
-
 ### [Digitale Avatare und Leitlinien-Updates: Neue Wege in der Schizophrenie- und Palliativversorgung - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
@@ -110,19 +102,11 @@ permalink: /news/glecaprevir/
 
 ---
 
-### [AI chatbots have failed people in crisis. Can that be fixed? - Ars Technica](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjA3SnZZamx5V0xFbHdubWFtdXBneE5fUmNpcC1QUEdyOWNPUUdfUFBrbmd5T1U4cnVUOGhGNEtYZnhRQy1rOTJlWWp0eU52d081N2RVbU51TGMtQWNiMVYxQkMzUXZQN3hZYzhGUkQ0bTU5S1Q5Z3FGWDUyZFd4bHFKam5COG1YSjJJVERBb194MlRqQkdMU1dR?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[Ars Technica](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjA3SnZZamx5V0xFbHdubWFtdXBneE5fUmNpcC1QUEdyOWNPUUdfUFBrbmd5T1U4cnVUOGhGNEtYZnhRQy1rOTJlWWp0eU52d081N2RVbU51TGMtQWNiMVYxQkMzUXZQN3hZYzhGUkQ0bTU5S1Q5Z3FGWDUyZFd4bHFKam5COG1YSjJJVERBb194MlRqQkdMU1dR?oc=5)
-
----
-
 ### [Covid-Forschung: Treffer bei überschiessenden Entzündungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
 
-來源：[Watson](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
+來源：[watson.ch](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
 
 ---
 
@@ -131,14 +115,6 @@ permalink: /news/glecaprevir/
 2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
-
----
-
-### [La OMS alerta de deficiencias en el programa piloto de cribado de cáncer de próstata en la UE](https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2tudnBaVjRfTXMyRjlSdF9TTVhRczl1YXRTTE95aDRCODJRUTVZOTFMOEs2MExIZFg4bUFCOW05dFpwcnp0VmdLbm9sQ1MxWEpyVFhZWUt2VGVLM0VvRldNMXJabUg1VjNuUDJoUE11MEtlbmJtZ3hGQ2p5dzB1ZjJJZldFbk1jWXZTQjVteGx6WkRCNV85Q0ZhRGhNV0VJUE80MkRFdWxzUElPTlhKUUhPTTYtYjlJcVBtWWI2ZDNJUENydV9tUGJMcmg?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizAFBVV95cUxPN2tudnBaVjRfTXMyRjlSdF9TTVhRczl1YXRTTE95aDRCODJRUTVZOTFMOEs2MExIZFg4bUFCOW05dFpwcnp0VmdLbm9sQ1MxWEpyVFhZWUt2VGVLM0VvRldNMXJabUg1VjNuUDJoUE11MEtlbmJtZ3hGQ2p5dzB1ZjJJZldFbk1jWXZTQjVteGx6WkRCNV85Q0ZhRGhNV0VJUE80MkRFdWxzUElPTlhKUUhPTTYtYjlJcVBtWWI2ZDNJUENydV9tUGJMcmg?oc=5)
 
 ---
 
@@ -155,22 +131,6 @@ permalink: /news/glecaprevir/
 2026-08-07 <span class="news-indication-tag">MS</span>
 
 來源：[Pnp.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNQUjc2aHB0SmRJelFjTmtUcXRfb3VuUzVNUlQ1cjZTdkhMYVpDazV6ZklDdjJOTVlkUHRVZjF1SXczQWc4cU1kVzdxVTI3QUltR2hnRGNmWHNrZV9yNC03NUVEcllKZFJIZEZHMUxRekZvZ3cwMlVzV3pxYkVDUW1hM3dBZDdQaFdYd1ZHd3Y4Q1JBczhIUW16Wnllam1hTHZZNEtTX1hUOFN5bmhUVUNyMnhLczRNSUo2R1Zn?oc=5)
-
----
-
-### [Bisphosphonat bremst Mineralaufbau in geschädigten Wirbelscheiben – KI-frei, aber mit klarem Wirkweg - it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDV6Q0xkYkFYNllZU0tJZGNuQTFhb0xad3JDUjNRMDV0Wml6clZlUTltelJwdmpVTXVqcHY2T0tjN09FRWprbjVsb0x3dDZnbmRhUjJqY01YYmJVWDJ1OU5SYVRoUktpamNVQkU1QlZ2VEZVTko1SGpDWnFzZVh0eERCVmlaUk0ya1pYc0pzeVE0NTJTWEp2Q2lva29sVkJoWUNHVWZJWGR2UDNjTlNpVlEtamsyVGxqSlc2cHhWblBsNTdMYUxKS1V3?oc=5)
-
----
-
-### [New study explores cholesterol-driven survival mechanisms in pancreatic cancer](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2JWYVRuVENMZnFUb1JVMlpsNVJXRkRCdnpMTHRfd0dRcGE2SlhHQlJDbVhnSHRJeV9YTHNyWlV2Z1hhOXdPQ2ZIZkZuek04SGEtanFWU3A2dy1LdWkyZC1uc2FreS1KeHBCTXZaZzlMVG9BbHM3cTB5SENvUVRoQ0I3R2VDQi1FU2J1TS1RMUlrYTFtYUlOYUpIbmZUbTdrZWFvWG1QV3AyQnU1MjN6M2hZZ2tlZjBxcFZQZU5PaUdDUEJ6?oc=5)
-
-2026-08-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2JWYVRuVENMZnFUb1JVMlpsNVJXRkRCdnpMTHRfd0dRcGE2SlhHQlJDbVhnSHRJeV9YTHNyWlV2Z1hhOXdPQ2ZIZkZuek04SGEtanFWU3A2dy1LdWkyZC1uc2FreS1KeHBCTXZaZzlMVG9BbHM3cTB5SENvUVRoQ0I3R2VDQi1FU2J1TS1RMUlrYTFtYUlOYUpIbmZUbTdrZWFvWG1QV3AyQnU1MjN6M2hZZ2tlZjBxcFZQZU5PaUdDUEJ6?oc=5)
 
 ---
 

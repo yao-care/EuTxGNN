@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
@@ -67,22 +67,6 @@ permalink: /news/tirzepatide/
 2026-08-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUxQdzdlNzJOZDNra19NSlEzQWZtZ3JsVWszeG9jQ3pRcUhiZGZwM2VqaEtGQjRleUYza3pQM3FRR2UxZU5FbWg0U1drdjBWa1dtS082MHhXZW1mMVdFekNnNDNOcDBwZGE2QUVmVF9OX0NrT2E4aXZOSkw4MVR6THRLTTZBenJxYlQzT3hNM0dBSEItV0ZhM2Mxb2xUbEt5bUE?oc=5)
-
----
-
-### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
-
-2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Bereits Babys können Rheuma bekommen](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">arthritis</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
 
 ---
 

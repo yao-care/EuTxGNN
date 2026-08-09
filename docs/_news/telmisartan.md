@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Demenzprävention: Rauchen, Bluthochdruck, Diabetes kosten 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+### [Tener la menopausia antes de los 40 dispara el riesgo de sufrir tensión alta - Las Provincias](https://news.google.com/rss/articles/CBMingFBVV95cUxOMDB1UTlXNU8ta2E5aGE0TWNsNU51TTFwNGpFY09kY0JoYXlSWVU3aFRNaVd5dTI2MnYwYzlfLTZKeWFDT1hGZm9RSnJSNzlVNTlrZDVSVUIyeWxtRTNudmc0ZE1qLU54alp5TE1yQkI5em1teDdMN3g2Q2d6dk03UzJzQ1NaeFhZTUZid1lLR0ZRRmlJT1k1bVg3NVAwZ9IBowFBVV95cUxQY250bl9ENDJ1ZlJrNU41a0dDdkloQk9OV2JpUEkzRlZnbzl6ZUo1RFl5Y0kzTG5wMTZqNU0wazJFSzA3QVlSczdlRlI5ZVNJakpOOExtR1ZBNVVlSWhBQkpXRzM3U210ZUtHVWdscjVEamN1b1J2SjRXTldqUFdTYXBSTGVpZzZsUGswT2JTRVg0LTVnXzBDWE5HcTVFQ0ZycWVz?oc=5)
 
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-08 <span class="news-indication-tag">hipertensión</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+來源：[Las Provincias](https://news.google.com/rss/articles/CBMingFBVV95cUxOMDB1UTlXNU8ta2E5aGE0TWNsNU51TTFwNGpFY09kY0JoYXlSWVU3aFRNaVd5dTI2MnYwYzlfLTZKeWFDT1hGZm9RSnJSNzlVNTlrZDVSVUIyeWxtRTNudmc0ZE1qLU54alp5TE1yQkI5em1teDdMN3g2Q2d6dk03UzJzQ1NaeFhZTUZid1lLR0ZRRmlJT1k1bVg3NVAwZ9IBowFBVV95cUxQY250bl9ENDJ1ZlJrNU41a0dDdkloQk9OV2JpUEkzRlZnbzl6ZUo1RFl5Y0kzTG5wMTZqNU0wazJFSzA3QVlSczdlRlI5ZVNJakpOOExtR1ZBNVVlSWhBQkpXRzM3U210ZUtHVWdscjVEamN1b1J2SjRXTldqUFdTYXBSTGVpZzZsUGswT2JTRVg0LTVnXzBDWE5HcTVFQ0ZycWVz?oc=5)
+
+---
+
+### [Tirzepatid senkt Herzinfarkt- und Schlaganfallrisiko um rund ein Drittel - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ permalink: /news/telmisartan/
 
 ---
 
+### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
+
+---
+
 ### [Schlaganfall-Infotag in St. Wendel](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
@@ -102,19 +118,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
+### [7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
 
-2026-08-07 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+2026-08-07 <span class="news-indication-tag">heart disease</span>
 
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
-
----
-
-### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[abendblatt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
 
 ---
 

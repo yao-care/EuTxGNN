@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="Pregabalin 有什麼相關新聞？">
-<strong>Pregabalin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Pregabalin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/pregabalin/
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/pregabalin/
 2026-08-07 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Bereits Babys können Rheuma bekommen](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">arthritis</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
 
 ---
 

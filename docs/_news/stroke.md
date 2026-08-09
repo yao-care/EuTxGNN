@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。6 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>6 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -40,6 +40,14 @@ permalink: /news/stroke/
 </div>
 
 ## 相關新聞（6 則）
+
+### [Tirzepatid senkt Herzinfarkt- und Schlaganfallrisiko um rund ein Drittel - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+
+2026-08-08
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+
+---
 
 ### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
 
@@ -70,14 +78,6 @@ permalink: /news/stroke/
 2026-08-07
 
 來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
-
----
-
-### [Tirzepatida se asocia con un menor riesgo de eventos cardiovasculares ateroscleróticos en diabetes tipo 2 y enfermedad cardiovascular establecida - Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
-
-2026-08-07
-
-來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb0RybUQ3WUZuZUFKQnN5T0pNa1RHWDNqY21vcjluMTVXY0FqUmttVVN6MXhSR1BJU1ljc2VYbkJ0eE02bDNPaVBlcjdjNTdublJibnE2MGNBazFjUTB0bm5aSlNNbm5kaGlBTVAzVW5leTdteEs0STdGb2pSUjlYSENRd0tJVGxLc3BkVGViNTlYQlp6cW1UN3Q2eFdqQUNvMUdFN2JSWWJjeWY2QVlLX3pPaXgwaC12anh2Y2tnMnpQOXJYUG5kYVhzUlV4SWExX1BEa2NxandCcHFFZ3hkZkdMcEU0WjFNYnEtazZzbGd1Zw?oc=5)
 
 ---
 

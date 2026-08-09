@@ -36,7 +36,7 @@ permalink: /news/tacrolimus/
 <li>acrodermatitis chronica atrophicans（98.7%）</li>
 <li>rheumatoid arthritis（98.7%）</li>
 <li>acne keloid（98.7%）</li>
-<li>psoriasis（98.7%）</li>
+<li class="indication-matched">psoriasis（98.7%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis（98.6%）</li>
 <li>exanthem (disease)（98.6%）</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（98.6%）</li>
@@ -54,19 +54,19 @@ permalink: /news/tacrolimus/
 
 ## 相關新聞（2 則）
 
+### [Psoriasis und Herzinfarkt: Entzündungen erhöhen Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmRuX2xEQktWeXhpQ3FobzlGMGgtUHd4V0IyYWxLc1hjb2Vxb08wSDB5d3ZMR01qMTd0RVFUdnVZYm9pZjlHUnZCTDNqalR2WVhNWTVTeDAwbkZ5RkxaN0NxYnF1bTRJNDdvRm13Q3ZKNXBQN2xCUUxabHhuaHhiMkxScUlvbE9zOElXWDJJNGR6NjRKVGlrODM1emhYYWI0bVBMRGM1eTdZOW1tcVc4cHRfTXJ5VUhWRkE?oc=5)
+
+2026-08-09 <span class="news-indication-tag">psoriasis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmRuX2xEQktWeXhpQ3FobzlGMGgtUHd4V0IyYWxLc1hjb2Vxb08wSDB5d3ZMR01qMTd0RVFUdnVZYm9pZjlHUnZCTDNqalR2WVhNWTVTeDAwbkZ5RkxaN0NxYnF1bTRJNDdvRm13Q3ZKNXBQN2xCUUxabHhuaHhiMkxScUlvbE9zOElXWDJJNGR6NjRKVGlrODM1emhYYWI0bVBMRGM1eTdZOW1tcVc4cHRfTXJ5VUhWRkE?oc=5)
+
+---
+
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
-
----
-
-### [Juvenile idiopathische Arthritis: Bereits Babys können Rheuma bekommen](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">arthritis</span>
-
-來源：[AerzteZeitung.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlBM3h4Y2tSN2NmNEVfVUppcTljR0hzN0Y4YlFUMW9PZ3BuSnBacnk1aTRyc2dNSkdxVDFldm5SamVQRFNaRHNSM1VkUjhiXzlXamhUeUZfSjdhRGk1Q05vQmZWcFJ2LTFMSUlzSkJlSkZER1NRXzR3SElYT3N4eGVvZXY4ZDBkcFFlbXZoZw?oc=5)
 
 ---
 
