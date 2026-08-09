@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
-
-### [El plato que se relaciona con un 28% menos de riesgo de ictus e infartos después de la menopausia](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0lZa2x3TXNaQmpYWDRYeG9jMUF2TUVxTkM3VVNMUzZic1NQWTEyN3FmV2MwdUxaUzZhSHNzRHdXMks5LU1ZWXd6MUlUY21qSXRtdHh1dU1IU1RqZlV6b3k2YVR2SEpNOVdDSUo5UWlMcEp5Tl9yZ0dQWXIyWG9ZY2x3cEFaMG1PQXpoVENUeUdMT3dNZ1o0b21HU0IwTE95b21sMjZBcW1zam1KREJDUVRSSkxYdGPSAbwBQVVfeXFMTWpFQ0dMdUNBeHBZbDNUZ2JiNURxM19YYXpiYm5za01OTVNuV0RwbU93bmlwVFlvSDhHSmcyWUlIVWhfeEtHRHdaUEdiVVhyLTNUdlBCZXlVUVBrbm5ZZFJ5eTROWkJRMlNReU4zMWF3bDJoUU5QOTlBc3JLRGlQUHh1RU9mTXUzYzN1Wk1OQkxTWVJxODllSHJGdmVmUmNDQkdtLUZSbGhJSVhCVzNPZWk5cWFaSFdSQTh4UHM?oc=5)
-
-2026-08-09 <span class="news-indication-tag">ictus</span>
-
-來源：[ESdiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0lZa2x3TXNaQmpYWDRYeG9jMUF2TUVxTkM3VVNMUzZic1NQWTEyN3FmV2MwdUxaUzZhSHNzRHdXMks5LU1ZWXd6MUlUY21qSXRtdHh1dU1IU1RqZlV6b3k2YVR2SEpNOVdDSUo5UWlMcEp5Tl9yZ0dQWXIyWG9ZY2x3cEFaMG1PQXpoVENUeUdMT3dNZ1o0b21HU0IwTE95b21sMjZBcW1zam1KREJDUVRSSkxYdGPSAbwBQVVfeXFMTWpFQ0dMdUNBeHBZbDNUZ2JiNURxM19YYXpiYm5za01OTVNuV0RwbU93bmlwVFlvSDhHSmcyWUlIVWhfeEtHRHdaUEdiVVhyLTNUdlBCZXlVUVBrbm5ZZFJ5eTROWkJRMlNReU4zMWF3bDJoUU5QOTlBc3JLRGlQUHh1RU9mTXUzYzN1Wk1OQkxTWVJxODllSHJGdmVmUmNDQkdtLUZSbGhJSVhCVzNPZWk5cWFaSFdSQTh4UHM?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
@@ -78,19 +70,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Schlaganfall trotz ASS: Medikation ändern? - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcGI1bFExWU9lWFhWSWpTXzFPWFc5RHBJbXp5RnBEWlBiVV9TaDdGS2x6SGg5dE9uZzdhS1d1Y1BNYkxLLTBXenk0dndTb3hhR2Zka2NnZjhwWXJqM3NQeDZDVndnOXQzdXRv?oc=5)
+### [Schlaganfall-Therapie: Medikamentenwechsel nach ASS bringt keinen Vorteil - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
 
-2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-08 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcGI1bFExWU9lWFhWSWpTXzFPWFc5RHBJbXp5RnBEWlBiVV9TaDdGS2x6SGg5dE9uZzdhS1d1Y1BNYkxLLTBXenk0dndTb3hhR2Zka2NnZjhwWXJqM3NQeDZDVndnOXQzdXRv?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
 
 ---
 
-### [Schlaganfall-Infotag in St. Wendel](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
+### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
 
-2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
 
 ---
 

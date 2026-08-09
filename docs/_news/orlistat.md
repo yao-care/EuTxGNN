@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [El plato que se relaciona con un 28% menos de riesgo de ictus e infartos después de la menopausia](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0lZa2x3TXNaQmpYWDRYeG9jMUF2TUVxTkM3VVNMUzZic1NQWTEyN3FmV2MwdUxaUzZhSHNzRHdXMks5LU1ZWXd6MUlUY21qSXRtdHh1dU1IU1RqZlV6b3k2YVR2SEpNOVdDSUo5UWlMcEp5Tl9yZ0dQWXIyWG9ZY2x3cEFaMG1PQXpoVENUeUdMT3dNZ1o0b21HU0IwTE95b21sMjZBcW1zam1KREJDUVRSSkxYdGPSAbwBQVVfeXFMTWpFQ0dMdUNBeHBZbDNUZ2JiNURxM19YYXpiYm5za01OTVNuV0RwbU93bmlwVFlvSDhHSmcyWUlIVWhfeEtHRHdaUEdiVVhyLTNUdlBCZXlVUVBrbm5ZZFJ5eTROWkJRMlNReU4zMWF3bDJoUU5QOTlBc3JLRGlQUHh1RU9mTXUzYzN1Wk1OQkxTWVJxODllSHJGdmVmUmNDQkdtLUZSbGhJSVhCVzNPZWk5cWFaSFdSQTh4UHM?oc=5)
+### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
-2026-08-09 <span class="news-indication-tag">ictus</span>
+2026-08-09 <span class="news-indication-tag">Adipositas</span>
 
-來源：[ESdiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0lZa2x3TXNaQmpYWDRYeG9jMUF2TUVxTkM3VVNMUzZic1NQWTEyN3FmV2MwdUxaUzZhSHNzRHdXMks5LU1ZWXd6MUlUY21qSXRtdHh1dU1IU1RqZlV6b3k2YVR2SEpNOVdDSUo5UWlMcEp5Tl9yZ0dQWXIyWG9ZY2x3cEFaMG1PQXpoVENUeUdMT3dNZ1o0b21HU0IwTE95b21sMjZBcW1zam1KREJDUVRSSkxYdGPSAbwBQVVfeXFMTWpFQ0dMdUNBeHBZbDNUZ2JiNURxM19YYXpiYm5za01OTVNuV0RwbU93bmlwVFlvSDhHSmcyWUlIVWhfeEtHRHdaUEdiVVhyLTNUdlBCZXlVUVBrbm5ZZFJ5eTROWkJRMlNReU4zMWF3bDJoUU5QOTlBc3JLRGlQUHh1RU9mTXUzYzN1Wk1OQkxTWVJxODllSHJGdmVmUmNDQkdtLUZSbGhJSVhCVzNPZWk5cWFaSFdSQTh4UHM?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/orlistat/
 
 ---
 
-### [Farmaci, gli italiani spendono di tasca propria 10,7 miliardi. E la spesa totale vola a 39,3 miliardi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
+### [Schlaganfall-Therapie: Medikamentenwechsel nach ASS bringt keinen Vorteil - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
 
-2026-08-08 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-08-08 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
-
----
-
-### [Schlaganfall trotz ASS: Medikation ändern? - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcGI1bFExWU9lWFhWSWpTXzFPWFc5RHBJbXp5RnBEWlBiVV9TaDdGS2x6SGg5dE9uZzdhS1d1Y1BNYkxLLTBXenk0dndTb3hhR2Zka2NnZjhwWXJqM3NQeDZDVndnOXQzdXRv?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcGI1bFExWU9lWFhWSWpTXzFPWFc5RHBJbXp5RnBEWlBiVV9TaDdGS2x6SGg5dE9uZzdhS1d1Y1BNYkxLLTBXenk0dndTb3hhR2Zka2NnZjhwWXJqM3NQeDZDVndnOXQzdXRv?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/orlistat/
 2026-08-07 <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
-
----
-
-### [Schlaganfall-Infotag in St. Wendel](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
 
 ---
 

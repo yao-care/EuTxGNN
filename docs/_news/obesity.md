@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesità（obesity） 相關新聞"
+title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "obesità（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# obesità（obesity） 相關新聞
+# Adipositas（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
-<strong>obesità（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ permalink: /news/obesity/
 
 ## 相關新聞（2 則）
 
-### [Farmaci, gli italiani spendono di tasca propria 10,7 miliardi. E la spesa totale vola a 39,3 miliardi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
+### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
-2026-08-08
+2026-08-09
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
 ---
 

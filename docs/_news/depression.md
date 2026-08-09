@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression 相關新聞"
+title: "depresión（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depression 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depression 相關新聞
+# depresión（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depression 有什麼相關新聞？">
-<strong>depression</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
+<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [Cervello sano più a lungo: i tre fattori che danno quasi 13 anni in più senza demenza](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWttXzdYZFJHVmM3b1NmVUJXQVY5OWpVcXg5TXVJbTBDNS1GSEI0dUwtNzN2NHBxcG1FdjJCZGRVUkhjM0F6dnYtd2JHa2NvMlVvdVM0VTN3STMxdW9JUTVUT0pTOWRRbVB1RzJBZm5BVS1xMTQ0SHBJbFpta3FybnhOVWJ6Y2NiVkxHSjRlbGN0ZV9QR05xS1hFblVKVjhpZy15MVRVRDRycnJwN2VFX0k3TXVpTDE0cmRRUkppZFQ3TTlhbWYycUdTN1k?oc=5)
+### [El sencillo hábito diario que se relaciona con menos dolor y depresión en mayores - La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmJBZk50Y0pvYUJxWTFVTjFTa3EyWXpldkg4OXpsUnM1RF9kOUV0R2tSOUNtcm1SZmxMVE9Pd0k2ck14VEV0SHFRbXgzREdGWW90TG9GODlPdjBDbUU4RDBhSEd5b3VEN1lyNEFWbDJZRHNzLV9hVk9Ha2NGRmp3ZVd5b1ZUeVhpYlgwRmRvSF8wSHNCRGpxaGU1eThLdUVCVGx0ajYycndqR3Y0bEZhU0hTbGtZQ09UZjFVSEN5S01oeHpJanNkdnRGa9IB0AFBVV95cUxOUWFBOVF5NGRVd0N2NFROeVM3RWlibkxJWjB5aDdOaVRvNXZEdm54STgwRG5nVmZ0QXBnOWVLVDIyakt3VjVwaWs3dUpHTk9idnRJWHBPOWVUZkhKbDNTcGVBbExXY1BubWFkbHRDTDZ6X05obnA5Yy1Lb2lLdW5CcHFiOWRWZkpWLXRza242eGxoc1J5d2VHWmdCMlctYnJIRjRsRi1Sb2l1UmhfUXlNTFZnZzYzZ3phdWd5NlpCenZiU2pJS29xTm9PZmZfdlBS?oc=5)
 
-2026-08-08
+2026-08-09
 
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWttXzdYZFJHVmM3b1NmVUJXQVY5OWpVcXg5TXVJbTBDNS1GSEI0dUwtNzN2NHBxcG1FdjJCZGRVUkhjM0F6dnYtd2JHa2NvMlVvdVM0VTN3STMxdW9JUTVUT0pTOWRRbVB1RzJBZm5BVS1xMTQ0SHBJbFpta3FybnhOVWJ6Y2NiVkxHSjRlbGN0ZV9QR05xS1hFblVKVjhpZy15MVRVRDRycnJwN2VFX0k3TXVpTDE0cmRRUkppZFQ3TTlhbWYycUdTN1k?oc=5)
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmJBZk50Y0pvYUJxWTFVTjFTa3EyWXpldkg4OXpsUnM1RF9kOUV0R2tSOUNtcm1SZmxMVE9Pd0k2ck14VEV0SHFRbXgzREdGWW90TG9GODlPdjBDbUU4RDBhSEd5b3VEN1lyNEFWbDJZRHNzLV9hVk9Ha2NGRmp3ZVd5b1ZUeVhpYlgwRmRvSF8wSHNCRGpxaGU1eThLdUVCVGx0ajYycndqR3Y0bEZhU0hTbGtZQ09UZjFVSEN5S01oeHpJanNkdnRGa9IB0AFBVV95cUxOUWFBOVF5NGRVd0N2NFROeVM3RWlibkxJWjB5aDdOaVRvNXZEdm54STgwRG5nVmZ0QXBnOWVLVDIyakt3VjVwaWs3dUpHTk9idnRJWHBPOWVUZkhKbDNTcGVBbExXY1BubWFkbHRDTDZ6X05obnA5Yy1Lb2lLdW5CcHFiOWRWZkpWLXRza242eGxoc1J5d2VHWmdCMlctYnJIRjRsRi1Sb2l1UmhfUXlNTFZnZzYzZ3phdWd5NlpCenZiU2pJS29xTm9PZmZfdlBS?oc=5)
 
 ---
 

@@ -54,6 +54,30 @@ permalink: /news/velpatasvir/
 
 ## 相關新聞（10 則）
 
+### [Mª José, 23 años, cuidadora de su madre: "El divorcio le generó estrés postraumático y dejó de tratarse su esclerosis múltiple" - El Español](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSllCZVhfS1BoR1RfUFhlUUZUVkYtU3FwaTF2SzhVT0J6MHNFUFdUVEJzMTNvSXFyTzh4QU5aNHgzTVJYcWItZDhBUmM4MGoyZk1EcGhYTHZuSkFETGFwTjVBMk92TkdLVUx6eVZrUG14cDg3LVJfUGN6a2FoNVRHUHVWek93ZGlGSnRUaEVzczlIT2NOSFNzWmUyaS1mWGxWVU5tdE9OVmRiTEJMSlBKM2s5bi11NTREaXNLZW5qemRpMzBUYWxCYTRMaS1SaVVvSWdib3dpYnlTRG0wMExBUDI3QzFrMlVGa3BCRDN6ZkNPZ9IB9wFBVV95cUxNcl9UVXgyM2hnLUhPSHVLYVdpaGlRUHpaVDRlWTFxSjNXMnZ6T1d6VHJTWmdVSjVKdnlqS0lhbFpBYzBrbFRvajF4Vmt1QXRvdHU4Rl9aNElWdmZwV0RWektEOG10Uzk0dWJONmg5R3hZbXVLUm8yU2JYbkllNVcxdWRaalZBRFhtZ2RDSEtJNVFXQUs3dHY5Z2RKUnFwZUlJLUdSa19hMUxhdmQ3aWxQbllReXVqcElJTExHQ05KYkpnUWt3SXg4R0c4NHl0Tkh0RURvTzVpREswZUVYRDFZd2FGbGhrc2RjSFFjaEhhOWxjYWdZUnRZ?oc=5)
+
+2026-08-09 <span class="news-indication-tag">esclerosis múltiple</span>
+
+來源：[El Español](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSllCZVhfS1BoR1RfUFhlUUZUVkYtU3FwaTF2SzhVT0J6MHNFUFdUVEJzMTNvSXFyTzh4QU5aNHgzTVJYcWItZDhBUmM4MGoyZk1EcGhYTHZuSkFETGFwTjVBMk92TkdLVUx6eVZrUG14cDg3LVJfUGN6a2FoNVRHUHVWek93ZGlGSnRUaEVzczlIT2NOSFNzWmUyaS1mWGxWVU5tdE9OVmRiTEJMSlBKM2s5bi11NTREaXNLZW5qemRpMzBUYWxCYTRMaS1SaVVvSWdib3dpYnlTRG0wMExBUDI3QzFrMlVGa3BCRDN6ZkNPZ9IB9wFBVV95cUxNcl9UVXgyM2hnLUhPSHVLYVdpaGlRUHpaVDRlWTFxSjNXMnZ6T1d6VHJTWmdVSjVKdnlqS0lhbFpBYzBrbFRvajF4Vmt1QXRvdHU4Rl9aNElWdmZwV0RWektEOG10Uzk0dWJONmg5R3hZbXVLUm8yU2JYbkllNVcxdWRaalZBRFhtZ2RDSEtJNVFXQUs3dHY5Z2RKUnFwZUlJLUdSa19hMUxhdmQ3aWxQbllReXVqcElJTExHQ05KYkpnUWt3SXg4R0c4NHl0Tkh0RURvTzVpREswZUVYRDFZd2FGbGhrc2RjSFFjaEhhOWxjYWdZUnRZ?oc=5)
+
+---
+
+### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
+
+2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
+
+---
+
+### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+
+2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+
+---
+
 ### [Multiple Sklerose: Darmbakterium Akkermansia als Ansatz gegen Autoimmunreaktionen - it boltwise](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHRTQi1MOUhnWVdRT0I1SjgwbVUtUExoTmZMTWh3SktrdDVjcVZYQk1DVWJpZk5nVVpkM3h6dGdMV0NhbHc3STZQaFlQQW1XcTUxV1VZOGNjT2dBSVNmYWdZYkdBajlRVEcyTlZ2NGZvNlpHNEZoclBkaTc3V3dPSjdrQkx5T0F4TTg5N0F4OEs3cDZ2Sl9OTXRKUDZUZWFJNmJ6RTZuLURJSHVrLWh6azJn?oc=5)
 
 2026-08-09 <span class="news-indication-tag">Multiple Sklerose</span>
@@ -62,11 +86,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Woman Moved In With Her Boyfriend And Everything Seemed Fine, Until Unexplained Symptoms Began Months Later - Bored Panda](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0J5SXRLeFFzVGlidk5GNVY4U2FBZnlHaGRHXzRmNTVfVld2YVFiRjRiY3JpbUN2U0dKUUVYclhCT1NkakRldGlKVkpNcTNaODN6ejdLLXZGdXNZaWt6VkRMODVDTjdOYXQwNHNobkhhV0x0MEV3SVU1X2ZhVWYwUWVseDZrdFY2cHFIWXBkRmkwb1Rhb2JUa1RBNVBFbmQyYlVIdmh3eElkQQ?oc=5)
+### [Woman Moved In With Her Boyfriend And Everything Seemed Fine, Until Unexplained Symptoms Began Months Later](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0J5SXRLeFFzVGlidk5GNVY4U2FBZnlHaGRHXzRmNTVfVld2YVFiRjRiY3JpbUN2U0dKUUVYclhCT1NkakRldGlKVkpNcTNaODN6ejdLLXZGdXNZaWt6VkRMODVDTjdOYXQwNHNobkhhV0x0MEV3SVU1X2ZhVWYwUWVseDZrdFY2cHFIWXBkRmkwb1Rhb2JUa1RBNVBFbmQyYlVIdmh3eElkQQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">MS</span>
 
-來源：[Bored Panda](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0J5SXRLeFFzVGlidk5GNVY4U2FBZnlHaGRHXzRmNTVfVld2YVFiRjRiY3JpbUN2U0dKUUVYclhCT1NkakRldGlKVkpNcTNaODN6ejdLLXZGdXNZaWt6VkRMODVDTjdOYXQwNHNobkhhV0x0MEV3SVU1X2ZhVWYwUWVseDZrdFY2cHFIWXBkRmkwb1Rhb2JUa1RBNVBFbmQyYlVIdmh3eElkQQ?oc=5)
+來源：[boredpanda.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0J5SXRLeFFzVGlidk5GNVY4U2FBZnlHaGRHXzRmNTVfVld2YVFiRjRiY3JpbUN2U0dKUUVYclhCT1NkakRldGlKVkpNcTNaODN6ejdLLXZGdXNZaWt6VkRMODVDTjdOYXQwNHNobkhhV0x0MEV3SVU1X2ZhVWYwUWVseDZrdFY2cHFIWXBkRmkwb1Rhb2JUa1RBNVBFbmQyYlVIdmh3eElkQQ?oc=5)
 
 ---
 
@@ -78,27 +102,19 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Beachgoers on edge after ‘flesh-eating’ bacteria kills five down south - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
-
-2026-08-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
-
----
-
-### [Vitamin K2, personalisiertes Vitamin D3 und KI-Programme: Neue Wege in der Prävention - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVlzN21aS2FLZ3g3THdETURhYW1xemE1UW9wb1N4cGR2bV9aZ0hod2NjUXQ0anRqT3Q5em52akZGTkxjLThrLXFCcG1VaUJ3Y0xMQ0VwNFFsWU5TMmVnUXh3OHlPRVBvanlqcHRkeWdpMV8xQUZnVjNmVU1NVEJHNUloZld6VHpBY051QVdLVE9JbmtTQmk0VU9qbVk5bklhSV9yRW5BeXVhRDFLTFd5cFl1RElDcEk?oc=5)
+### [Herz-Kreislauf-Prävention: Vitamin K2 senkt Gefäßverkalkung um 57% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXVzdTdaeGpOdF8tOEZycnJ4SGZBU09SVTREbE5fdk5iMzVGanY5WTg1X1RqaFFVRnVRNTNzQzFRa2VJakJhNFA5SUpKLWhlQlFrYVRLcFlISHVwanpNWHRuOXlNYWROLWx2aDZyWG9tVkZ1RmRZUDk4LTZQZ2xCbkNDNUpjRnAyQ2ZCX2p3NS1iRkVEMFg4VTFmX2pLczlyZzhSQ21WR19hZFRmNVZXbjlNSk9IYm8?oc=5)
 
 2026-08-08 <span class="news-indication-tag">MS</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVlzN21aS2FLZ3g3THdETURhYW1xemE1UW9wb1N4cGR2bV9aZ0hod2NjUXQ0anRqT3Q5em52akZGTkxjLThrLXFCcG1VaUJ3Y0xMQ0VwNFFsWU5TMmVnUXh3OHlPRVBvanlqcHRkeWdpMV8xQUZnVjNmVU1NVEJHNUloZld6VHpBY051QVdLVE9JbmtTQmk0VU9qbVk5bklhSV9yRW5BeXVhRDFLTFd5cFl1RElDcEk?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXVzdTdaeGpOdF8tOEZycnJ4SGZBU09SVTREbE5fdk5iMzVGanY5WTg1X1RqaFFVRnVRNTNzQzFRa2VJakJhNFA5SUpKLWhlQlFrYVRLcFlISHVwanpNWHRuOXlNYWROLWx2aDZyWG9tVkZ1RmRZUDk4LTZQZ2xCbkNDNUpjRnAyQ2ZCX2p3NS1iRkVEMFg4VTFmX2pLczlyZzhSQ21WR19hZFRmNVZXbjlNSk9IYm8?oc=5)
 
 ---
 
-### [La OMS recomienda ensayos con la vacuna Ervebo para intentar frenar el actual brote en RDC - El Debate](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXVvUTNuaG1oVzNKQTFLOHdlcVJfZWl5WFRyTEN4TmdLQ0h5MmdHYnhybDZnYlYwVktXRExCek55emZuRllnVkMtbVZCenBwSXlzWWdEUF96LUJEQW01cFBuV3JCRWNoSkdLTS1ER0VhSWlueUNIMTNlUVUxdFluUkNpT1d1U0ZNQmdIdzhjUGZaX2lJT3lwYlRFc2RHcVFfRlgwNnUwQ1RENGdYdXRKX0w2dWFNc3hfaGRsY1FsSWtpUdIBxwFBVV95cUxPcVk1aVVYU01oQjF0VG5fQ1NpQW4ycU1IaWFZdXl5b1FWWmVhMkpOTjFTbTg2UGM0c0dIZ3VoNm8ybWk2V1NCbk5IVVRWRDRHR0QtaU5HZ0h6WGZ5Q0kyY2FkdXZORmFiMmV1Z1l4U0ZTcVBCcHktRmh4M0d5WFViV3ZLcDBIbFlaTmhLX21wZG9OQTNLZHM0X3ItZnU3TlFyOWhNcG5FSEM1aEV1bGo1eFlsQWFJSjBpcGp4RlRhSHpHWllXOGY4?oc=5)
+### [OMS recomienda evaluar la vacuna Ervebo ante brote de ébola en RD del Congo](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OcnExeVJuU0s0LWk3d2s2VEl5NXJKUUlWNGVMUEc3YWdfd09NUUxTNGhGX1VQUTg1TVJzdXZzWmc5X09mLTYyeA?oc=5)
 
 2026-08-08 <span class="news-indication-tag">MS</span>
 
-來源：[El Debate](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXVvUTNuaG1oVzNKQTFLOHdlcVJfZWl5WFRyTEN4TmdLQ0h5MmdHYnhybDZnYlYwVktXRExCek55emZuRllnVkMtbVZCenBwSXlzWWdEUF96LUJEQW01cFBuV3JCRWNoSkdLTS1ER0VhSWlueUNIMTNlUVUxdFluUkNpT1d1U0ZNQmdIdzhjUGZaX2lJT3lwYlRFc2RHcVFfRlgwNnUwQ1RENGdYdXRKX0w2dWFNc3hfaGRsY1FsSWtpUdIBxwFBVV95cUxPcVk1aVVYU01oQjF0VG5fQ1NpQW4ycU1IaWFZdXl5b1FWWmVhMkpOTjFTbTg2UGM0c0dIZ3VoNm8ybWk2V1NCbk5IVVRWRDRHR0QtaU5HZ0h6WGZ5Q0kyY2FkdXZORmFiMmV1Z1l4U0ZTcVBCcHktRmh4M0d5WFViV3ZLcDBIbFlaTmhLX21wZG9OQTNLZHM0X3ItZnU3TlFyOWhNcG5FSEM1aEV1bGo1eFlsQWFJSjBpcGp4RlRhSHpHWllXOGY4?oc=5)
+來源：[سانا](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OcnExeVJuU0s0LWk3d2s2VEl5NXJKUUlWNGVMUEc3YWdfd09NUUxTNGhGX1VQUTg1TVJzdXZzWmc5X09mLTYyeA?oc=5)
 
 ---
 
@@ -115,22 +131,6 @@ permalink: /news/velpatasvir/
 2026-08-07 <span class="news-indication-tag">MS</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNREluRXhLNGxNaVFnMHpvOWlVWlVwb1RjRzhaOS1ZVFFrQjlrQWxkX2NqUE80NklPdzBKcnBuenNtdlYzS1hWeks3NnMxakVZOHllQ2dLMGh0NHVFZlBvM1JpSXJzWXdFWHJTdldmTUh4U1RvSFQ3elFTUUVQaTZhdWNLbUFva0hEOVJ0dnItM2lpbk9KeG5YUEc5STVGdVBlZTczTGFqRWppU1lsY1pIOHFPaw?oc=5)
-
----
-
-### [Digitale Avatare und Leitlinien-Updates: Neue Wege in der Schizophrenie- und Palliativversorgung - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
-
----
-
-### [Multiple Sklerose-Therapie nutzt schützende B-Zellen des Darms - Biermann Medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUhBdzUyY1JSdDhZTm9qbk9GRHF4UGdQVGthR2xlZlVlRGlTSkc3V3d5ZXFsRUoyM0xUeHVqVUpreUxRdWVQZ3J6QlVhRDNBQVF1RXI3MlBORDREOWtMYjBNcUhtTnBzdTV2WjNJTnFpbC1aZnNtMDdSbmluNHFCTTlIZi1Pb2g4MXF2SWFHNnVmNmV3bUlz?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUhBdzUyY1JSdDhZTm9qbk9GRHF4UGdQVGthR2xlZlVlRGlTSkc3V3d5ZXFsRUoyM0xUeHVqVUpreUxRdWVQZ3J6QlVhRDNBQVF1RXI3MlBORDREOWtMYjBNcUhtTnBzdTV2WjNJTnFpbC1aZnNtMDdSbmluNHFCTTlIZi1Pb2g4MXF2SWFHNnVmNmV3bUlz?oc=5)
 
 ---
 

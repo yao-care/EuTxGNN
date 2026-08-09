@@ -54,6 +54,22 @@ permalink: /news/fluticasone-furoate/
 
 ## 相關新聞（4 則）
 
+### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
+
+2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
+
+---
+
+### [Weniger Allergien und Asthma: Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
+
+2026-08-09 <span class="news-indication-tag">asthma</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
+
+---
+
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
@@ -62,27 +78,11 @@ permalink: /news/fluticasone-furoate/
 
 ---
 
-### ["Bauernhofeffekt": Warum der Kuhstall Kinder vor Allergien schützen kann](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span>
-
-來源：[tagesschau.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
-
----
-
-### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
-
----
-
-### [Zucker: Neue Studie zeigt mögliche Auswirkungen auf Asthma](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
+### [Studie zeigt: Zucker kann Asthma innerhalb von zwei Wochen verschlechtern - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">asthma</span>
 
-來源：[futurezone.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 ---
 

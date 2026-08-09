@@ -54,19 +54,27 @@ permalink: /news/vedolizumab/
 
 ## 相關新聞（4 則）
 
-### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+### [Diabetes und Vorhofflimmern: So verlängert Therapietreue Komplikationen um Monate - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
 
-2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
 
 ---
 
-### [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes y diabetes tipo 2](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek1BSl9NRzhOd2pJWHJpYlJxRWw5UVNaa1ZDTVJDZDJ0dm90OEdDXzJsTUQzdUJ6OW0teHB1WkI0ZjNrZ3RMSExjNjdaUXhSNllwajI2b1V2VUtBQ1B0eVMyRi1IWXRISVZTSEM1aXM1d0l1TXFxTUtmQTU4RGpsX3E5MTlCaHBQV3VSMkctazJ1aDdXZkxrb0pmMFBwU282NjNfT182enlMNHlXUHdXT2gtNHM?oc=5)
+### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
-2026-08-09 <span class="news-indication-tag">diabetes</span>
+2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Zamora24horas](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek1BSl9NRzhOd2pJWHJpYlJxRWw5UVNaa1ZDTVJDZDJ0dm90OEdDXzJsTUQzdUJ6OW0teHB1WkI0ZjNrZ3RMSExjNjdaUXhSNllwajI2b1V2VUtBQ1B0eVMyRi1IWXRISVZTSEM1aXM1d0l1TXFxTUtmQTU4RGpsX3E5MTlCaHBQV3VSMkctazJ1aDdXZkxrb0pmMFBwU282NjNfT182enlMNHlXUHdXT2gtNHM?oc=5)
+來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
+
+---
+
+### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+
+2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/vedolizumab/
 2026-08-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
-
----
-
-### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
 
 ---
 

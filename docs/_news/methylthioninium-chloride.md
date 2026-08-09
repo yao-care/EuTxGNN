@@ -54,11 +54,11 @@ permalink: /news/methylthioninium-chloride/
 
 ## 相關新聞（1 則）
 
-### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
+### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
-2026-08-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
+2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
+來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
 ---
 

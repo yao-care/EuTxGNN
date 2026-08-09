@@ -54,19 +54,27 @@ permalink: /news/abaloparatide/
 
 ## 相關新聞（5 則）
 
+### [Diabetes und Vorhofflimmern: So verlängert Therapietreue Komplikationen um Monate - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
+
+---
+
 ### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
 
-2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
 
 ---
 
-### [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes y diabetes tipo 2](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek1BSl9NRzhOd2pJWHJpYlJxRWw5UVNaa1ZDTVJDZDJ0dm90OEdDXzJsTUQzdUJ6OW0teHB1WkI0ZjNrZ3RMSExjNjdaUXhSNllwajI2b1V2VUtBQ1B0eVMyRi1IWXRISVZTSEM1aXM1d0l1TXFxTUtmQTU4RGpsX3E5MTlCaHBQV3VSMkctazJ1aDdXZkxrb0pmMFBwU282NjNfT182enlMNHlXUHdXT2gtNHM?oc=5)
+### [Atogepant im Vergleich: Weniger Migräneattacken und bessere Verträglichkeit - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
 
-2026-08-09 <span class="news-indication-tag">diabetes</span>
+2026-08-08 <span class="news-indication-tag">Migräne</span>
 
-來源：[Zamora24horas](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek1BSl9NRzhOd2pJWHJpYlJxRWw5UVNaa1ZDTVJDZDJ0dm90OEdDXzJsTUQzdUJ6OW0teHB1WkI0ZjNrZ3RMSExjNjdaUXhSNllwajI2b1V2VUtBQ1B0eVMyRi1IWXRISVZTSEM1aXM1d0l1TXFxTUtmQTU4RGpsX3E5MTlCaHBQV3VSMkctazJ1aDdXZkxrb0pmMFBwU282NjNfT182enlMNHlXUHdXT2gtNHM?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ permalink: /news/abaloparatide/
 
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
-來源：[STERN.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
+來源：[stern.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
 
 ---
 
@@ -83,14 +91,6 @@ permalink: /news/abaloparatide/
 2026-08-08 <span class="news-indication-tag">diabetes</span>
 
 來源：[smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
-
----
-
-### [Migräne: Im Alter schmerzt es anders - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Migräne</span>
-
-來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
 
 ---
 

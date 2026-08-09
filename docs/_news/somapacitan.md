@@ -54,19 +54,35 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（7 則）
 
-### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+### [Diabetes und Vorhofflimmern: So verlängert Therapietreue Komplikationen um Monate - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
 
-2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
 
 ---
 
-### [Siete datos que puedes medir en casa revelan tu riesgo de prediabetes y diabetes tipo 2](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek1BSl9NRzhOd2pJWHJpYlJxRWw5UVNaa1ZDTVJDZDJ0dm90OEdDXzJsTUQzdUJ6OW0teHB1WkI0ZjNrZ3RMSExjNjdaUXhSNllwajI2b1V2VUtBQ1B0eVMyRi1IWXRISVZTSEM1aXM1d0l1TXFxTUtmQTU4RGpsX3E5MTlCaHBQV3VSMkctazJ1aDdXZkxrb0pmMFBwU282NjNfT182enlMNHlXUHdXT2gtNHM?oc=5)
+### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
-2026-08-09 <span class="news-indication-tag">diabetes</span>
+2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[Zamora24horas](https://news.google.com/rss/articles/CBMitAFBVV95cUxQek1BSl9NRzhOd2pJWHJpYlJxRWw5UVNaa1ZDTVJDZDJ0dm90OEdDXzJsTUQzdUJ6OW0teHB1WkI0ZjNrZ3RMSExjNjdaUXhSNllwajI2b1V2VUtBQ1B0eVMyRi1IWXRISVZTSEM1aXM1d0l1TXFxTUtmQTU4RGpsX3E5MTlCaHBQV3VSMkctazJ1aDdXZkxrb0pmMFBwU282NjNfT182enlMNHlXUHdXT2gtNHM?oc=5)
+來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
+
+---
+
+### [Weniger Allergien und Asthma: Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
+
+2026-08-09 <span class="news-indication-tag">asthma</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
+
+---
+
+### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+
+2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
 
 ---
 
@@ -78,14 +94,6 @@ permalink: /news/somapacitan/
 
 ---
 
-### ["Bauernhofeffekt": Warum der Kuhstall Kinder vor Allergien schützen kann](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span>
-
-來源：[tagesschau.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
-
----
-
 ### [„Schlankheitsgen“ entdeckt – seltene Mutation lässt Fett schneller verbrennen - smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">diabetes</span>
@@ -94,19 +102,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
-
----
-
-### [Zucker: Neue Studie zeigt mögliche Auswirkungen auf Asthma](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
+### [Studie zeigt: Zucker kann Asthma innerhalb von zwei Wochen verschlechtern - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">asthma</span>
 
-來源：[futurezone.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZRR0JOelllVWFIT2JJT1h1SkJ6am5FRVhncTA4NHRlNmpGamE1YWhUc3pQQ2JJaVYyZTFWOUJTMDBQN2pleXpIWWRET1VhdEE5OGJEQ1BkSEJMOURfTDFOb0h0a2VheGV3ZVFkbUNaeXBoa2VjQ3JGV3pCRHdaY1hMbjIwaFZSbUtjQjhoXzZTdUtMUkMySTFOTG1mLWFYbnNYeW1CT0NWOXVHNXUwUQ?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 ---
 

@@ -62,11 +62,11 @@ permalink: /news/bosentan-as-monohydrate/
 
 ---
 
-### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
 
-2026-08-07 <span class="news-indication-tag">artrite</span>
+2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
 
 ---
 

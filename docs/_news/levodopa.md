@@ -56,6 +56,14 @@ permalink: /news/levodopa/
 
 ---
 
+### [Durante décadas atacamos las placas del Alzheimer como si fueran el problema principal. Una batalla invisible entre dos proteínas dentro de las neuronas podría explicar por qué tantos tratamientos no funcionaron - Gizmodo en Español](https://news.google.com/rss/articles/CBMiswJBVV95cUxQUGJfYjBVSGtOSF9nNm9rRDBLeUdVeTBaUkE1aGtBOU5WSm1HaGR1bFl4bml0VFp5SlN5bGhLeEJvNXBGbzZoTWRfbGsxQTJuRXl1U1EwU1BtZ2xqbGxReEVnQVNPeGlpLXVubXFJdDc0cW9oYndzRlVmV1lIQUN5N1lFSE5mUUpTaEpVOGR4SlZGTS0tNDlEam1mZHlQQ2lGLVNkcHMtUmNLOUV4NGMzaENkZkFEMUJMLU5PU1hmX2hWVTlnZ3FUenFWOXZKQjU5M1FVTG1BcWZZSW9MSEQ1LW1temtaMl9sMVMxdGVrZE1kcEd4QU95WjdPeEx2TjRsRnJ6TUJVWDFKdnIxakdZRVlBS1NKbXpMZzN4cll1VGFOYWhpRGdhRFc3cEJxWDVyUGdj?oc=5)
+
+2026-08-09 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMiswJBVV95cUxQUGJfYjBVSGtOSF9nNm9rRDBLeUdVeTBaUkE1aGtBOU5WSm1HaGR1bFl4bml0VFp5SlN5bGhLeEJvNXBGbzZoTWRfbGsxQTJuRXl1U1EwU1BtZ2xqbGxReEVnQVNPeGlpLXVubXFJdDc0cW9oYndzRlVmV1lIQUN5N1lFSE5mUUpTaEpVOGR4SlZGTS0tNDlEam1mZHlQQ2lGLVNkcHMtUmNLOUV4NGMzaENkZkFEMUJMLU5PU1hmX2hWVTlnZ3FUenFWOXZKQjU5M1FVTG1BcWZZSW9MSEQ1LW1temtaMl9sMVMxdGVrZE1kcEd4QU95WjdPeEx2TjRsRnJ6TUJVWDFKdnIxakdZRVlBS1NKbXpMZzN4cll1VGFOYWhpRGdhRFc3cEJxWDVyUGdj?oc=5)
+
+---
+
 ### [Et si l'origine de la maladie d'Alzheimer se trouvait dans notre bouche ? Voici la fascinante piste explorée par des chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
 
 2026-08-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
@@ -69,14 +77,6 @@ permalink: /news/levodopa/
 2026-08-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Space Daily](https://news.google.com/rss/articles/CBMixgJBVV95cUxOb0lqY1NWTG9YOC0zeTgwWG9ESmdaQXJXYlk5VDl4UWluSDJnOGs0Z0IxaHVEMmEwbnJkNmZqb0tTVDJIakZYTUFEeTVHeGFQNEYtb2J4OVYxSElqOWFzZ1V6STQxS3dNQndXYnlMUU1fUFdCdFdxWFN2Q1ZJUmtLTk9HdDBvcy02WVJneGZqWGhuNk9VOVFqT1lhdHVRMmY2QjR5V29nUnB0RXJzdTZQcWJYRFJ6dXg1ekh0ZTZMYjdkRWtSZWJHa2hDbXhESmFfXzlEWUUzVUFyMG1sX0x1NU1URFpIS083RWo5M3lXMmxOdlZpelFZQWxFVWR4M3V1QnhrWWcxVlVwSnd0TE1VMmQzOUk5bWEyNUtzaUN2dXdtNmthWHcxZ245WWhWdWM3aWc3aU9oRndzR2RyLVotWTlrbEwwUQ?oc=5)
-
----
-
-### [Parkinson's-linked α-synuclein blocks protein transport in neurons, disrupting cells' waste recycling - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHFUTk9qbEZXb0VsbjVsVDJyQjA4Qmc0b09IZEZVa3FWNER1aEVMX2ZQSElVQXNBd0h3NGUzaHcxblV4M3FiNTJnR1dYa2dQNFdlXzNRcXZDbnJwdU53cjk2amZPckVuaWZuU3BuSW04SmRWNU5XblRJN20wV0lBY09yYnFGNVl1LUxoUkd3?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Parkinson's</span>
-
-來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHFUTk9qbEZXb0VsbjVsVDJyQjA4Qmc0b09IZEZVa3FWNER1aEVMX2ZQSElVQXNBd0h3NGUzaHcxblV4M3FiNTJnR1dYa2dQNFdlXzNRcXZDbnJwdU53cjk2amZPckVuaWZuU3BuSW04SmRWNU5XblRJN20wV0lBY09yYnFGNVl1LUxoUkd3?oc=5)
 
 ---
 
