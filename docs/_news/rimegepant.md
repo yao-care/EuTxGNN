@@ -70,11 +70,11 @@ permalink: /news/rimegepant/
 
 ---
 
-### [7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
+### [Migräne: Im Alter schmerzt es anders - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
 
-2026-08-07 <span class="news-indication-tag">heart disease</span>
+2026-08-07 <span class="news-indication-tag">Migräne</span>
 
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
+來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
@@ -75,6 +75,14 @@ permalink: /news/regadenoson/
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
+
+---
+
+### [Migräne: Im Alter schmerzt es anders - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Migräne</span>
+
+來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
 
 ---
 

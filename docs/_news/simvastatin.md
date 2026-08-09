@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="Simvastatin 有什麼相關新聞？">
-<strong>Simvastatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Simvastatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/simvastatin/
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
-### [Tirzepatid senkt Herzinfarkt- und Schlaganfallrisiko um rund ein Drittel - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+### [El plato que se relaciona con un 28% menos de riesgo de ictus e infartos después de la menopausia](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0lZa2x3TXNaQmpYWDRYeG9jMUF2TUVxTkM3VVNMUzZic1NQWTEyN3FmV2MwdUxaUzZhSHNzRHdXMks5LU1ZWXd6MUlUY21qSXRtdHh1dU1IU1RqZlV6b3k2YVR2SEpNOVdDSUo5UWlMcEp5Tl9yZ0dQWXIyWG9ZY2x3cEFaMG1PQXpoVENUeUdMT3dNZ1o0b21HU0IwTE95b21sMjZBcW1zam1KREJDUVRSSkxYdGPSAbwBQVVfeXFMTWpFQ0dMdUNBeHBZbDNUZ2JiNURxM19YYXpiYm5za01OTVNuV0RwbU93bmlwVFlvSDhHSmcyWUlIVWhfeEtHRHdaUEdiVVhyLTNUdlBCZXlVUVBrbm5ZZFJ5eTROWkJRMlNReU4zMWF3bDJoUU5QOTlBc3JLRGlQUHh1RU9mTXUzYzN1Wk1OQkxTWVJxODllSHJGdmVmUmNDQkdtLUZSbGhJSVhCVzNPZWk5cWFaSFdSQTh4UHM?oc=5)
 
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-09 <span class="news-indication-tag">ictus</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+來源：[ESdiario](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0lZa2x3TXNaQmpYWDRYeG9jMUF2TUVxTkM3VVNMUzZic1NQWTEyN3FmV2MwdUxaUzZhSHNzRHdXMks5LU1ZWXd6MUlUY21qSXRtdHh1dU1IU1RqZlV6b3k2YVR2SEpNOVdDSUo5UWlMcEp5Tl9yZ0dQWXIyWG9ZY2x3cEFaMG1PQXpoVENUeUdMT3dNZ1o0b21HU0IwTE95b21sMjZBcW1zam1KREJDUVRSSkxYdGPSAbwBQVVfeXFMTWpFQ0dMdUNBeHBZbDNUZ2JiNURxM19YYXpiYm5za01OTVNuV0RwbU93bmlwVFlvSDhHSmcyWUlIVWhfeEtHRHdaUEdiVVhyLTNUdlBCZXlVUVBrbm5ZZFJ5eTROWkJRMlNReU4zMWF3bDJoUU5QOTlBc3JLRGlQUHh1RU9mTXUzYzN1Wk1OQkxTWVJxODllSHJGdmVmUmNDQkdtLUZSbGhJSVhCVzNPZWk5cWFaSFdSQTh4UHM?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ permalink: /news/simvastatin/
 
 ---
 
-### [Cómo la música puede ayudar a reducir el dolor (e incluso a tratar los síntomas de un ictus) - National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
+### [Schlaganfall trotz ASS: Medikation ändern? - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcGI1bFExWU9lWFhWSWpTXzFPWFc5RHBJbXp5RnBEWlBiVV9TaDdGS2x6SGg5dE9uZzdhS1d1Y1BNYkxLLTBXenk0dndTb3hhR2Zka2NnZjhwWXJqM3NQeDZDVndnOXQzdXRv?oc=5)
 
-2026-08-08 <span class="news-indication-tag">ictus</span>
+2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
-
----
-
-### [Schlaganfall-Therapie: Medikamentenwechsel nach ASS bringt keinen Vorteil - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
+來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE9tcGI1bFExWU9lWFhWSWpTXzFPWFc5RHBJbXp5RnBEWlBiVV9TaDdGS2x6SGg5dE9uZzdhS1d1Y1BNYkxLLTBXenk0dndTb3hhR2Zka2NnZjhwWXJqM3NQeDZDVndnOXQzdXRv?oc=5)
 
 ---
 
@@ -91,14 +83,6 @@ permalink: /news/simvastatin/
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[Volksfreund](https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjliVEI5TTdCelQ0WTM4WDBVWWF0dG9fQ0lodGZwTEFqUlBIUklEREEycnl4QmxqaGV2YlgzTmpMcnRWczhrd1IxdnpiZG51VWJfN0RYcUJMdWgxRGhYLTZMSG1lZ0JVLVFFMDZtSkVvanBOeWlVNkppanByOEVvSi0wcE5ZSHM?oc=5)
-
----
-
-### [Schlaganfallpatienten besser vor Herzinfarkten schützen - MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
-
-來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 ---
 

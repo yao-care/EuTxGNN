@@ -3,7 +3,7 @@ layout: default
 title: "psoriasis 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "psoriasis 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "psoriasis 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="psoriasis 有什麼相關新聞？">
-<strong>psoriasis</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<strong>psoriasis</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ permalink: /news/psoriasis/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [CRISPR e IA se alían para descubrir un gel tan eficaz contra la psoriasis como los fármacos inyectables](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNEVlbDlFUFFDdU81UDV6YzlWcEhyS0NTbHhJZGprQ2dLRGVXOFlKSnN4cmFJYXNOXzE4X3FCOGdPTzA2ZzlQVzNXdWtCcmd6a3dodmI3VVoteEFtTy0yTzBaVVpSYW9QVnBPQk16ZmVTdUtmNUhlQVNINFhYTURrSkdZeU1ULUtQbkxBMy1pbW5hOEx5VDRCUzJjVlZxcXJWZTE3UzZLWFAxZVg5YTBFTngzek5jVlN6Rk9zY2RmZUxXRGk2ZFFfci12TVZibWdlRHdWWFhhQ19aa0sxOWhXckNaVngwa2dwNER4ZkJZdjRzbVRkUWlCZWR3?oc=5)
+
+2026-08-09
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNEVlbDlFUFFDdU81UDV6YzlWcEhyS0NTbHhJZGprQ2dLRGVXOFlKSnN4cmFJYXNOXzE4X3FCOGdPTzA2ZzlQVzNXdWtCcmd6a3dodmI3VVoteEFtTy0yTzBaVVpSYW9QVnBPQk16ZmVTdUtmNUhlQVNINFhYTURrSkdZeU1ULUtQbkxBMy1pbW5hOEx5VDRCUzJjVlZxcXJWZTE3UzZLWFAxZVg5YTBFTngzek5jVlN6Rk9zY2RmZUxXRGk2ZFFfci12TVZibWdlRHdWWFhhQ19aa0sxOWhXckNaVngwa2dwNER4ZkJZdjRzbVRkUWlCZWR3?oc=5)
+
+---
+
+### [Psoriasis : quel est ce nouveau traitement annoncé comme étant «révolutionnaire»?](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTYxRjltTUZ5dGZlam8wWEtLUlF1eEVfMEVsZElIbEZxZ3V4NzdhOFJvZ3d2VlNrWXJNR3BmX2dtWERUUkhiV2M3TFBuQklTeTl0VTl3amh4cXZmNVp0SmFYQXNOVlc0QXFYajdPdWJqVG1sTExXS3NObWxGbGhEaFpjeFFvQmpFcHJNd091WDlvejJPZzFGMmluVEkzZExIOEkxb3diSGdqb2p0TWF0V1dSX2LSAboBQVVfeXFMUDN4dFl3TlZrc2otNHRmY3dXV2V0c0drSkplZGppR1QyVlVwbHpDYmdGcTlpNWphWjFGTFI2cHRxRldhLUZ0N3FyZUk4Wm9TSEhwaVVxZVdxUUE5ZmVNT3BxdnBpRVNkUThxOUxuUVFvNjE4UmVSSUpKOG9lTTFaWEh3VS1BekFSelRIbTN0bjZrQWcya2VzcS1mRFlucEFhTEk1cERDYnd3VVQtdGJ1Qm1VZC1BS1NDalZB?oc=5)
+
+2026-08-09
+
+來源：[CNews](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTYxRjltTUZ5dGZlam8wWEtLUlF1eEVfMEVsZElIbEZxZ3V4NzdhOFJvZ3d2VlNrWXJNR3BmX2dtWERUUkhiV2M3TFBuQklTeTl0VTl3amh4cXZmNVp0SmFYQXNOVlc0QXFYajdPdWJqVG1sTExXS3NObWxGbGhEaFpjeFFvQmpFcHJNd091WDlvejJPZzFGMmluVEkzZExIOEkxb3diSGdqb2p0TWF0V1dSX2LSAboBQVVfeXFMUDN4dFl3TlZrc2otNHRmY3dXV2V0c0drSkplZGppR1QyVlVwbHpDYmdGcTlpNWphWjFGTFI2cHRxRldhLUZ0N3FyZUk4Wm9TSEhwaVVxZVdxUUE5ZmVNT3BxdnBpRVNkUThxOUxuUVFvNjE4UmVSSUpKOG9lTTFaWEh3VS1BekFSelRIbTN0bjZrQWcya2VzcS1mRFlucEFhTEk1cERDYnd3VVQtdGJ1Qm1VZC1BS1NDalZB?oc=5)
+
+---
 
 ### [Psoriasis und Herzinfarkt: Entzündungen erhöhen Risiko um 58% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmRuX2xEQktWeXhpQ3FobzlGMGgtUHd4V0IyYWxLc1hjb2Vxb08wSDB5d3ZMR01qMTd0RVFUdnVZYm9pZjlHUnZCTDNqalR2WVhNWTVTeDAwbkZ5RkxaN0NxYnF1bTRJNDdvRm13Q3ZKNXBQN2xCUUxabHhuaHhiMkxScUlvbE9zOElXWDJJNGR6NjRKVGlrODM1emhYYWI0bVBMRGM1eTdZOW1tcVc4cHRfTXJ5VUhWRkE?oc=5)
 

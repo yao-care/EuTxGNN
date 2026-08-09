@@ -14,7 +14,7 @@ permalink: /news/obinutuzumab/
 ---
 
 <p class="key-answer" data-question="Obinutuzumab 有什麼相關新聞？">
-<strong>Obinutuzumab</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Obinutuzumab</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,61 @@ permalink: /news/obinutuzumab/
 <p><a href="{{ '/drugs/obinutuzumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（25 則）
 
-### [Immer weniger Menschen erleiden einen Herzinfarkt - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Q4UTRBZGJiT2o4RjI5dlZ0c2V1bnNFRWlYd19WemlwemJXMkppVVJwblp6eW5NTkVSMGJkcjljYVZXanhqQkY1RXBlOW1od1BobnN0UHFXQ1d3ak5qWnRfb0ZzVThFTUt6T29vWXFHV1JSdW1RSzRxSEZucHc3aVhDejQzNXFGSFJKUmJTdlpQbERyOVFtNU1UczQzSjlUUVNxcjZrQS1XT0hiS3ZCa21ibkFHdw?oc=5)
+### [HTV-Beitrag „Gemeinsam gegen Krebs“: Sollten Krebspatienten an Beerdigungen teilnehmen?](https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2dXbGU2V1c3VXZwUTdtZnZSTjVaS0Zxd09TVy1MakFaVXVaLW4yczhxVThNT0F3NGd0ajZWcWxCYVQwQXhOS1JxNzN0TWdDSGFtWlQ0S1pnR3VBR1pkWUpKWWtSQVVOUzYtYVlaX29oX2N1X3ZCR1o4M2Q3dHRXWGdqTHdHTENjYmc?oc=5)
 
-2026-08-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+2026-08-09 <span class="news-indication-tag">Krebs</span>
 
-來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Q4UTRBZGJiT2o4RjI5dlZ0c2V1bnNFRWlYd19WemlwemJXMkppVVJwblp6eW5NTkVSMGJkcjljYVZXanhqQkY1RXBlOW1od1BobnN0UHFXQ1d3ak5qWnRfb0ZzVThFTUt6T29vWXFHV1JSdW1RSzRxSEZucHc3aVhDejQzNXFGSFJKUmJTdlpQbERyOVFtNU1UczQzSjlUUVNxcjZrQS1XT0hiS3ZCa21ibkFHdw?oc=5)
-
----
-
-### [Brustkrebs: Pflanzenstoff aus TCM-Heilpflanze zeigt Wirkung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnBCLWwtaVBER1IweFJmenhkUFhrdHJoWjIyUDViT0RQZ2NZYTJNQW0zNUNIckVwUUZPX3ktTHFURG40Y2RyVGlkZnd3amctWnROTkZ3Z0QtbkFzREdLRTdocFJQWDZFemdZZkFMUHROdnlzdVc0MTF4WTRYNFJzeHpac0RVdGJ1WTl5VGNoWTRtaU5vZThnUXdwMFlOM3o1XzZCblBHMkUyQ1NHVlJteWRCQno5eXFVOXBB?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Krebs</span>
-
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnBCLWwtaVBER1IweFJmenhkUFhrdHJoWjIyUDViT0RQZ2NZYTJNQW0zNUNIckVwUUZPX3ktTHFURG40Y2RyVGlkZnd3amctWnROTkZ3Z0QtbkFzREdLRTdocFJQWDZFemdZZkFMUHROdnlzdVc0MTF4WTRYNFJzeHpac0RVdGJ1WTl5VGNoWTRtaU5vZThnUXdwMFlOM3o1XzZCblBHMkUyQ1NHVlJteWRCQno5eXFVOXBB?oc=5)
+來源：[Vietnam.vn](https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2dXbGU2V1c3VXZwUTdtZnZSTjVaS0Zxd09TVy1MakFaVXVaLW4yczhxVThNT0F3NGd0ajZWcWxCYVQwQXhOS1JxNzN0TWdDSGFtWlQ0S1pnR3VBR1pkWUpKWWtSQVVOUzYtYVlaX29oX2N1X3ZCR1o4M2Q3dHRXWGdqTHdHTENjYmc?oc=5)
 
 ---
 
-### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Gießener Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb211cElpSXNNdF9sSlNIUUhTTDJYWUZtVVgwZkdTQUFLdzlQNUNSTmliXzFNeU1zWERhdjVHX1VPbmROWVBfOF9naFVzajlHVVNjWElvWVp5b1J5Vm5wQ3Z2MDFzYTRjZkhQdnVVeXZkNDVOZVNfWjlfUnROTmw3cDN0YnUySXAza2FGb1ZVNkxEaWRGX3ZMX21oWVVjb0ozd1B4SlpDRW95azg2V0tCbS1hb3NhMWc3?oc=5)
+### [Testing is underway on vaccines to intercept brewing colon cancer before it takes root](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
+
+---
+
+### ['Surviving cancer isn't the end of the story'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMTIwTndZV0lGdHFhWHh2Q0JNSFVWTzFlQkR0SlNQbXhadlhFUVBVYWtEelFzbXk1bDBLekNLeDlZNllfV19WWjlwV2ZwZFhOY3hKWWNRUTJ2dlJT?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMTIwTndZV0lGdHFhWHh2Q0JNSFVWTzFlQkR0SlNQbXhadlhFUVBVYWtEelFzbXk1bDBLekNLeDlZNllfV19WWjlwV2ZwZFhOY3hKWWNRUTJ2dlJT?oc=5)
+
+---
+
+### [El CNIC descubre el papel clave de la proteína OMA1 para frenar el daño hepático asociado al envejecimiento](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2JTdFV0bW54SnJnb1p6RURCWWd0bmtESGxVTHZiY2lDd1RYNm85RF8xd0pxaGVjRUc5My02S3VrUzd2bE4xaGpqamtfZ20xY19QUXpYWV9rR2xqekJvelYwaXJMQ0FJMXZMeHQ3dlpGT1ZwQW5rS1VBS0dCend6ZkxrX3pOSGo3STROQlpvbUNrbmVmV3dBMS14Y21HQjBBRjdHVExKYXd5Y0dlRUJERXVBcw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">tumor</span>
+
+來源：[isanidad.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2JTdFV0bW54SnJnb1p6RURCWWd0bmtESGxVTHZiY2lDd1RYNm85RF8xd0pxaGVjRUc5My02S3VrUzd2bE4xaGpqamtfZ20xY19QUXpYWV9rR2xqekJvelYwaXJMQ0FJMXZMeHQ3dlpGT1ZwQW5rS1VBS0dCend6ZkxrX3pOSGo3STROQlpvbUNrbmVmV3dBMS14Y21HQjBBRjdHVExKYXd5Y0dlRUJERXVBcw?oc=5)
+
+---
+
+### [Immer weniger Menschen erleiden einen Herzinfarkt - Forschung und Wissen](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Q4UTRBZGJiT2o4RjI5dlZ0c2V1bnNFRWlYd19WemlwemJXMkppVVJwblp6eW5NTkVSMGJkcjljYVZXanhqQkY1RXBlOW1od1BobnN0UHFXQ1d3ak5qWnRfb0ZzVThFTUt6T29vWXFHV1JSdW1RSzRxSEZucHc3aVhDejQzNXFGSFJKUmJTdlpQbERyOVFtNU1UczQzSjlUUVNxcjZrQS1XT0hiS3ZCa21ibkFHdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">Krebs</span>
+
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Q4UTRBZGJiT2o4RjI5dlZ0c2V1bnNFRWlYd19WemlwemJXMkppVVJwblp6eW5NTkVSMGJkcjljYVZXanhqQkY1RXBlOW1od1BobnN0UHFXQ1d3ak5qWnRfb0ZzVThFTUt6T29vWXFHV1JSdW1RSzRxSEZucHc3aVhDejQzNXFGSFJKUmJTdlpQbERyOVFtNU1UczQzSjlUUVNxcjZrQS1XT0hiS3ZCa21ibkFHdw?oc=5)
+
+---
+
+### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+---
+
+### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Giessener Anzeiger](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFR6Q2hKRDcxd092OWZpa3VVb3dCWDNqY2tJNnNkemFSZ004eXVucXg2ZDZWWmhTZkFBdm1SSkdFd25nd04xbmZuV2RfX2hDLWMwdmdOYnNQWVZsTzN1MEd5U3JzQ3VYM3ZOdEpLZ21hN2xQTHRETy1WNGF3d1A4Ql9fMUc5eWlsQm9zd2xOWjBzZy16VE5fSzlYQngwc0lCQmdaUGhYdDhUbFNHd1dMcWRmeFVhQQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Krebs</span>
 
-來源：[Gießener Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb211cElpSXNNdF9sSlNIUUhTTDJYWUZtVVgwZkdTQUFLdzlQNUNSTmliXzFNeU1zWERhdjVHX1VPbmROWVBfOF9naFVzajlHVVNjWElvWVp5b1J5Vm5wQ3Z2MDFzYTRjZkhQdnVVeXZkNDVOZVNfWjlfUnROTmw3cDN0YnUySXAza2FGb1ZVNkxEaWRGX3ZMX21oWVVjb0ozd1B4SlpDRW95azg2V0tCbS1hb3NhMWc3?oc=5)
+來源：[Giessener Anzeiger](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFR6Q2hKRDcxd092OWZpa3VVb3dCWDNqY2tJNnNkemFSZ004eXVucXg2ZDZWWmhTZkFBdm1SSkdFd25nd04xbmZuV2RfX2hDLWMwdmdOYnNQWVZsTzN1MEd5U3JzQ3VYM3ZOdEpLZ21hN2xQTHRETy1WNGF3d1A4Ql9fMUc5eWlsQm9zd2xOWjBzZy16VE5fSzlYQngwc0lCQmdaUGhYdDhUbFNHd1dMcWRmeFVhQQ?oc=5)
 
 ---
 
@@ -115,14 +147,6 @@ permalink: /news/obinutuzumab/
 2026-08-08 <span class="news-indication-tag">cancer</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEx3MDlEVjl4UU5sR0d1NmVXWnRWbDdtQ2V6TGs1TFNzVUxrLXhncm50UXZOa200ME9IY0dzX1N6YkY3Rkp6RnIwMWM2NjFWZlBjYXE1emxwVE84SkhVZG1UQTVYX0ZmdFJYM1pjTC1SUGd0TXNzaVk3RnZ2bGpBSmdGMjV4UQ?oc=5)
-
----
-
-### [Krebsbehandlung ohne starre Altersgrenzen: Biologische Fitness zählt - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXdOVlZzZ1ZSbU1aeUw4a3J1a1JOZ0tDdTkwLUJuR25EM3YwbUl5SXRfSS1Oc1lEWlpUSzhDVmtxWWhlU0U2OVNPMnBNbzRYUktnSHNJTXhhZ19FdFlWR3RDdjA4dGdDTGtWekhTcDEtZ2NObWZVejZVamF4RmxMc0IwVXk5NTZ1WGVvZXduZ1dRUDFEOW5EX0tOME5ZUk9Sd3c?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Krebs</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXdOVlZzZ1ZSbU1aeUw4a3J1a1JOZ0tDdTkwLUJuR25EM3YwbUl5SXRfSS1Oc1lEWlpUSzhDVmtxWWhlU0U2OVNPMnBNbzRYUktnSHNJTXhhZ19FdFlWR3RDdjA4dGdDTGtWekhTcDEtZ2NObWZVejZVamF4RmxMc0IwVXk5NTZ1WGVvZXduZ1dRUDFEOW5EX0tOME5ZUk9Sd3c?oc=5)
 
 ---
 
@@ -190,27 +214,11 @@ permalink: /news/obinutuzumab/
 
 ---
 
-### [Studie zur Langlebigkeit: Unterschätztes Organ soll vor Krebs schützen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSGpHSzZpUVZiZUZ6VkgwYll3THRYc1FITVdnNkFIVThJdndObGNtRTlOWkdFUFQtVW9BRGsxSE5pRVlQLV9CRnBEWkZkdVhaS1Vfc2EtVVN2cUtDay1uQnVrZ2NVLWdBZGtteGJjNW1JLWdhTTVuVXRWblBsd2w1a1pfb2lJNWpiMmJCTVFaQVZVcUNsU2hWYV9WV1JTaVRlcHI0RW1TYmdPdVFCWDBvc1RYQkVqWno2X3dkZ093enNGby1uY1JIQjNpZWQ1Tmhq?oc=5)
+### [Ein Kaugummi aus Bohnen senkt die HPV-Last im Mund - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxONl9tMmotUzlXT0xHLU0tVEpvVzVUbjRhRW1HRWgyTmhsRTcwZmgwSmdHdnIwVmpRcDZKbHhlTDFDelhSNHMyZ3dsMlJ6REhDY0h5WFJlRVhPZUo0UEFGbG9CUXhrbzBwOHdKSXBpcnJzVTlpSGw5ZGVSejBWTDV0anZXelZ6aHhuLTd5VGtLQ1czdm5ZZGJVTGFtUVl2UDJ3bEozMHl6YkpuRUJxUGZSQWU1aEJnVE0?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Krebs</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSGpHSzZpUVZiZUZ6VkgwYll3THRYc1FITVdnNkFIVThJdndObGNtRTlOWkdFUFQtVW9BRGsxSE5pRVlQLV9CRnBEWkZkdVhaS1Vfc2EtVVN2cUtDay1uQnVrZ2NVLWdBZGtteGJjNW1JLWdhTTVuVXRWblBsd2w1a1pfb2lJNWpiMmJCTVFaQVZVcUNsU2hWYV9WV1JTaVRlcHI0RW1TYmdPdVFCWDBvc1RYQkVqWno2X3dkZ093enNGby1uY1JIQjNpZWQ1Tmhq?oc=5)
-
----
-
-### [La deficiencia de proteína OMA1 favorece envejecimiento del hígado y sistema inmune](https://news.google.com/rss/articles/CBMiaEFVX3lxTE45TXpPUTZFMjJxNWx3QzV5a051ZEpkRVFQV1Nvdi1YRGc3dk03V0VZaGFwRG9reFBxbGJJcEktYW50QThmTnVDUW9IdWZCaUlnNmtWNGZQSHZEZmJTbzUyV25JU1dnd2Z1?oc=5)
-
-2026-08-08 <span class="news-indication-tag">tumor</span>
-
-來源：[Genotipia](https://news.google.com/rss/articles/CBMiaEFVX3lxTE45TXpPUTZFMjJxNWx3QzV5a051ZEpkRVFQV1Nvdi1YRGc3dk03V0VZaGFwRG9reFBxbGJJcEktYW50QThmTnVDUW9IdWZCaUlnNmtWNGZQSHZEZmJTbzUyV25JU1dnd2Z1?oc=5)
-
----
-
-### [Ein Kaugummi aus Bohnen senkt die HPV-Last im Mund - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxONl9tMmotUzlXT0xHLU0tVEpvVzVUbjRhRW1HRWgyTmhsRTcwZmgwSmdHdnIwVmpRcDZKbHhlTDFDelhSNHMyZ3dsMlJ6REhDY0h5WFJlRVhPZUo0UEFGbG9CUXhrbzBwOHdKSXBpcnJzVTlpSGw5ZGVSejBWTDV0anZXelZ6aHhuLTd5VGtLQ1czdm5ZZGJVTGFtUVl2UDJ3bEozMHl6YkpuRUJxUGZSQWU1aEJnVE0?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMitwFBVV95cUxONl9tMmotUzlXT0xHLU0tVEpvVzVUbjRhRW1HRWgyTmhsRTcwZmgwSmdHdnIwVmpRcDZKbHhlTDFDelhSNHMyZ3dsMlJ6REhDY0h5WFJlRVhPZUo0UEFGbG9CUXhrbzBwOHdKSXBpcnJzVTlpSGw5ZGVSejBWTDV0anZXelZ6aHhuLTd5VGtLQ1czdm5ZZGJVTGFtUVl2UDJ3bEozMHl6YkpuRUJxUGZSQWU1aEJnVE0?oc=5)
+來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxONl9tMmotUzlXT0xHLU0tVEpvVzVUbjRhRW1HRWgyTmhsRTcwZmgwSmdHdnIwVmpRcDZKbHhlTDFDelhSNHMyZ3dsMlJ6REhDY0h5WFJlRVhPZUo0UEFGbG9CUXhrbzBwOHdKSXBpcnJzVTlpSGw5ZGVSejBWTDV0anZXelZ6aHhuLTd5VGtLQ1czdm5ZZGJVTGFtUVl2UDJ3bEozMHl6YkpuRUJxUGZSQWU1aEJnVE0?oc=5)
 
 ---
 
@@ -226,7 +234,15 @@ permalink: /news/obinutuzumab/
 
 2026-08-07 <span class="news-indication-tag">tumor</span>
 
-來源：[welt.de](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0pOanh5TzZ6RmhHdkM3LXd4VWhLU0JibHFJZEZjOU9uLXMwZmlpVFlPblZHTmlVaHBza2J4RFc5VzFZY28xTGJwZ1VLTk1KXzlYYTFRMlNwN3ptaS1wLWpfOFpmU3NzRmdWeG5tcnR3TmlPN1BGekVGbDdzSW5LNndZMUN2Tm1LNWg0NW5QR1BDMy1pX00ydVAtcjZOV05LWVA4OTVJNnBuUHNfSzNPSGpiSUhfcGNyTmx0WVlXY2pEZWRERWlUM0FqS1F1VFl5TFlEdDdJVjZ3TGl6ZVgxUQ?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0pOanh5TzZ6RmhHdkM3LXd4VWhLU0JibHFJZEZjOU9uLXMwZmlpVFlPblZHTmlVaHBza2J4RFc5VzFZY28xTGJwZ1VLTk1KXzlYYTFRMlNwN3ptaS1wLWpfOFpmU3NzRmdWeG5tcnR3TmlPN1BGekVGbDdzSW5LNndZMUN2Tm1LNWg0NW5QR1BDMy1pX00ydVAtcjZOV05LWVA4OTVJNnBuUHNfSzNPSGpiSUhfcGNyTmx0WVlXY2pEZWRERWlUM0FqS1F1VFl5TFlEdDdJVjZ3TGl6ZVgxUQ?oc=5)
+
+---
+
+### [Krebs im Alter: Behandlung nach Verfassung, nicht nach Geburtsdatum | MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTE04YXU3Tzh4aEpHWEVHRDNBSVdpZF92dFVXWmNNcTJ5RDBldGRmaTZhSGJiNnlIbGtmQkF4a2tBVXlEa1dycDROSzR1Z0FBb1FXYUYyZjFzVXRqM25COUUzUEZELVlFS1BSSUhB?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Krebs</span>
+
+來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE04YXU3Tzh4aEpHWEVHRDNBSVdpZF92dFVXWmNNcTJ5RDBldGRmaTZhSGJiNnlIbGtmQkF4a2tBVXlEa1dycDROSzR1Z0FBb1FXYUYyZjFzVXRqM25COUUzUEZELVlFS1BSSUhB?oc=5)
 
 ---
 
@@ -235,38 +251,6 @@ permalink: /news/obinutuzumab/
 2026-08-07 <span class="news-indication-tag">tumor</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMimAJBVV95cUxNX2VVcFNERFE5MEw5X192N1B6c2IxcFhaakY0QkZWeTdqRjEzYkRDQVM2R1VzMEV5X2Z4Q1F5YjRvS2p4V0dpdlBvLW1QanY5Y1JkWTJBdGlqRWcxckVjZXQzTnpHMEdGb1F5TTVlb3B0bEp1Y3JaUFBaY3pwR1pvZkROMEFjVUV0UHVVNGZCVnlMOFNkbzljMnd6b3g2QVhMb1FWLVZYN0ZjTHdJT0llLVR6TWdzdnQ3UEc4OUpBTTU4eVR0X25zS3RnSGFQTWhlQW1vSFJZRDcwNllramFob29FdEhOclNQbXFyZ1g2LU9NbURLWF9mTzdIamROVGtKYktHWF9Nc1MzQkthd2J5SzlWUGhNcWpW0gGeAkFVX3lxTFBkQnVQSjBMYWZqQmdRdXktSU54RE94Z2tFUnZqdElOb3pwaWRTMzJpYndGTXQxZE9Wb3J6OXFwWVZGYllELW1vU25rcnRXeFZNN0lOc1paYXR5LUFVb0k5UjlWQ1dqM1AwNXRMUnVBV2JtM2lMMEdfTXlaZjc2UUNYNXlMYmRONlJxd21zc1hkQWpxaE9McDZZUGFGYWhUYWFBWmJrQlZlblFyT0JYLU9FSUdBVG91c0R3aFhtMEdaR2N2VnFaZVNFbWJYbDBNRnVPb1NCMGpYaUhHOXlBVzA2S3M2LTV0c2xIbVZuT1hYTVlFb3Y3VW9jWmF4UHFaOUEyMnNvSFdNMlhEcWJaX2thTEVfOXRVaEZHR0NvU0E?oc=5)
-
----
-
-### [Sildenafil überzeugt in der Krebstherapie](https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWTh5bDVXeGU5RFJBXzJlV0JxU1Q2cDIzb0VYVkxKeWg2YmVHOGxncnprajI0dTFLZXFPNHRFcG1PMGlZeGQwZVdscWZkUTZjT0F4X211a2pneG9UaFFyd09taDVqcmFDV0tSUWkxZV9YLVpBR3lQOGlB?oc=5)
-
-2026-08-07 <span class="news-drug-tag">Sildenafil</span> <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[pta-in-love.de](https://news.google.com/rss/articles/CBMiekFVX3lxTFBMWTh5bDVXeGU5RFJBXzJlV0JxU1Q2cDIzb0VYVkxKeWg2YmVHOGxncnprajI0dTFLZXFPNHRFcG1PMGlZeGQwZVdscWZkUTZjT0F4X211a2pneG9UaFFyd09taDVqcmFDV0tSUWkxZV9YLVpBR3lQOGlB?oc=5)
-
----
-
-### [Millennials stärker gefährdet: 40- bis 60-Jährige entwickeln mehr Krebs als Eltern und Großeltern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3oxWElnV2lHLXdPZE9tRnREZGtCQzYyUW15Z0tGWXF4WjE1R1JDbkVLanlTRzZrQU10SkRRQ1liQUJjUnRGSEREdlJOZlY3cklJLW5oREowTkItMWtfTng0RnZiMVkxd0VoRjBtYTFEUTFnZ2toT1ZFaC1kMGhyZFRkNVVuM3pjSHhPYXpnc3lVWi1VRlhQSFNjUFpnaVJqeF83NVBIMXZPcTNrbllDb2hxcUM?oc=5)
-
-2026-08-07 <span class="news-indication-tag">tumor</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3oxWElnV2lHLXdPZE9tRnREZGtCQzYyUW15Z0tGWXF4WjE1R1JDbkVLanlTRzZrQU10SkRRQ1liQUJjUnRGSEREdlJOZlY3cklJLW5oREowTkItMWtfTng0RnZiMVkxd0VoRjBtYTFEUTFnZ2toT1ZFaC1kMGhyZFRkNVVuM3pjSHhPYXpnc3lVWi1VRlhQSFNjUFpnaVJqeF83NVBIMXZPcTNrbllDb2hxcUM?oc=5)
-
----
-
-### [Tumore della prostata ad alto rischio, apalutamide prima e dopo la chirurgia riduce metastasi e recidive](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNVpZRlZtWmJwQjY3VERJYmVUc0xDXzV6N25YYURjR2RDTURiVjFiRG8yQnl5dXM2WEZULV90Zk5VUmdfT3Fma0RTT3l4d0IwY20xNnBBeGowNTRZRi1xWmc0UEJqU1h0ajF1Vmlzb0RTMFlMQmRTT082RUx0OTRzOEJObm1HaUFPa2paY015c3RmZVEyM0tmOTU5YkZlMHdZWE1YRmpLWk1POWlDQ2ktcUkxSVZJWW1jUk1uNGd6UHRTR1lGakM3ZFFtOG1zY095c3dKM1otazBHTmRhQTFoVjlEa3I?oc=5)
-
-2026-08-07 <span class="news-drug-tag">Apalutamide</span> <span class="news-indication-tag">tumor</span>
-
-來源：[pharmastar.it](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNVpZRlZtWmJwQjY3VERJYmVUc0xDXzV6N25YYURjR2RDTURiVjFiRG8yQnl5dXM2WEZULV90Zk5VUmdfT3Fma0RTT3l4d0IwY20xNnBBeGowNTRZRi1xWmc0UEJqU1h0ajF1Vmlzb0RTMFlMQmRTT082RUx0OTRzOEJObm1HaUFPa2paY015c3RmZVEyM0tmOTU5YkZlMHdZWE1YRmpLWk1POWlDQ2ktcUkxSVZJWW1jUk1uNGd6UHRTR1lGakM3ZFFtOG1zY095c3dKM1otazBHTmRhQTFoVjlEa3I?oc=5)
-
----
-
-### [Glasgow surgeon pays tribute to younger brother after heartbreaking cancer death - Glasgow Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2dvYlBZSFp1U3QzLXowYVZvRmFJZnJDSVF0cFlTcG9VWWxWRmRaNThyMUxXR1VoeVhCbXdTWWI5SnRMWFgtQVhYdWZsNzNseUNoQ20zd05pTkNVTU1ZRGxDOE1SME92cGMxdmVfS2U3WGo2OW10NktvRlVyZG1KSzAzeFJqV0RaUUVpVDVjeVpmVWhlRG9PQ9IBngFBVV95cUxPdzB5SEYtNEZQcGhseDdHQXBmSWtaRjBGNUVocW1FM2syZkhCMnE5RlVOZ25LUWNNaUNieUR5RktnbHJuQU45UndkV0x0ZFlyR0Zyc3lxZHNBN1lHUXZhS1I3MjQ5WWFZNWw5cUd5NkRNclhlQ0FOc3MyV3diNXRlUWNHeWtXSVNuWm5uNkZHTDg1dE5rU0NVTzRTWHpLZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Glasgow Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2dvYlBZSFp1U3QzLXowYVZvRmFJZnJDSVF0cFlTcG9VWWxWRmRaNThyMUxXR1VoeVhCbXdTWWI5SnRMWFgtQVhYdWZsNzNseUNoQ20zd05pTkNVTU1ZRGxDOE1SME92cGMxdmVfS2U3WGo2OW10NktvRlVyZG1KSzAzeFJqV0RaUUVpVDVjeVpmVWhlRG9PQ9IBngFBVV95cUxPdzB5SEYtNEZQcGhseDdHQXBmSWtaRjBGNUVocW1FM2syZkhCMnE5RlVOZ25LUWNNaUNieUR5RktnbHJuQU45UndkV0x0ZFlyR0Zyc3lxZHNBN1lHUXZhS1I3MjQ5WWFZNWw5cUd5NkRNclhlQ0FOc3MyV3diNXRlUWNHeWtXSVNuWm5uNkZHTDg1dE5rU0NVTzRTWHpLZw?oc=5)
 
 ---
 

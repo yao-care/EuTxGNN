@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart disease</span></li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,7 +52,7 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（2 則）
 
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
@@ -62,35 +62,11 @@ permalink: /news/lonafarnib/
 
 ---
 
-### [Tener la menopausia antes de los 40 dispara el riesgo de sufrir tensión alta - Las Provincias](https://news.google.com/rss/articles/CBMingFBVV95cUxOMDB1UTlXNU8ta2E5aGE0TWNsNU51TTFwNGpFY09kY0JoYXlSWVU3aFRNaVd5dTI2MnYwYzlfLTZKeWFDT1hGZm9RSnJSNzlVNTlrZDVSVUIyeWxtRTNudmc0ZE1qLU54alp5TE1yQkI5em1teDdMN3g2Q2d6dk03UzJzQ1NaeFhZTUZid1lLR0ZRRmlJT1k1bVg3NVAwZ9IBowFBVV95cUxQY250bl9ENDJ1ZlJrNU41a0dDdkloQk9OV2JpUEkzRlZnbzl6ZUo1RFl5Y0kzTG5wMTZqNU0wazJFSzA3QVlSczdlRlI5ZVNJakpOOExtR1ZBNVVlSWhBQkpXRzM3U210ZUtHVWdscjVEamN1b1J2SjRXTldqUFdTYXBSTGVpZzZsUGswT2JTRVg0LTVnXzBDWE5HcTVFQ0ZycWVz?oc=5)
-
-2026-08-08 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Las Provincias](https://news.google.com/rss/articles/CBMingFBVV95cUxOMDB1UTlXNU8ta2E5aGE0TWNsNU51TTFwNGpFY09kY0JoYXlSWVU3aFRNaVd5dTI2MnYwYzlfLTZKeWFDT1hGZm9RSnJSNzlVNTlrZDVSVUIyeWxtRTNudmc0ZE1qLU54alp5TE1yQkI5em1teDdMN3g2Q2d6dk03UzJzQ1NaeFhZTUZid1lLR0ZRRmlJT1k1bVg3NVAwZ9IBowFBVV95cUxQY250bl9ENDJ1ZlJrNU41a0dDdkloQk9OV2JpUEkzRlZnbzl6ZUo1RFl5Y0kzTG5wMTZqNU0wazJFSzA3QVlSczdlRlI5ZVNJakpOOExtR1ZBNVVlSWhBQkpXRzM3U210ZUtHVWdscjVEamN1b1J2SjRXTldqUFdTYXBSTGVpZzZsUGswT2JTRVg0LTVnXzBDWE5HcTVFQ0ZycWVz?oc=5)
-
----
-
-### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
-
----
-
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
-
----
-
-### [7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">heart disease</span>
-
-來源：[EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5)
 
 ---
 

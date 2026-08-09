@@ -70,19 +70,35 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [The most extensive review of dementia risk to date found nearly half of all cases trace back to 14 everyday factors, from hearing loss to untreated vision problems, most of which have more to do with your health than your age - Space Daily](https://news.google.com/rss/articles/CBMixgJBVV95cUxOb0lqY1NWTG9YOC0zeTgwWG9ESmdaQXJXYlk5VDl4UWluSDJnOGs0Z0IxaHVEMmEwbnJkNmZqb0tTVDJIakZYTUFEeTVHeGFQNEYtb2J4OVYxSElqOWFzZ1V6STQxS3dNQndXYnlMUU1fUFdCdFdxWFN2Q1ZJUmtLTk9HdDBvcy02WVJneGZqWGhuNk9VOVFqT1lhdHVRMmY2QjR5V29nUnB0RXJzdTZQcWJYRFJ6dXg1ekh0ZTZMYjdkRWtSZWJHa2hDbXhESmFfXzlEWUUzVUFyMG1sX0x1NU1URFpIS083RWo5M3lXMmxOdlZpelFZQWxFVWR4M3V1QnhrWWcxVlVwSnd0TE1VMmQzOUk5bWEyNUtzaUN2dXdtNmthWHcxZ245WWhWdWM3aWc3aU9oRndzR2RyLVotWTlrbEwwUQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Space Daily](https://news.google.com/rss/articles/CBMixgJBVV95cUxOb0lqY1NWTG9YOC0zeTgwWG9ESmdaQXJXYlk5VDl4UWluSDJnOGs0Z0IxaHVEMmEwbnJkNmZqb0tTVDJIakZYTUFEeTVHeGFQNEYtb2J4OVYxSElqOWFzZ1V6STQxS3dNQndXYnlMUU1fUFdCdFdxWFN2Q1ZJUmtLTk9HdDBvcy02WVJneGZqWGhuNk9VOVFqT1lhdHVRMmY2QjR5V29nUnB0RXJzdTZQcWJYRFJ6dXg1ekh0ZTZMYjdkRWtSZWJHa2hDbXhESmFfXzlEWUUzVUFyMG1sX0x1NU1URFpIS083RWo5M3lXMmxOdlZpelFZQWxFVWR4M3V1QnhrWWcxVlVwSnd0TE1VMmQzOUk5bWEyNUtzaUN2dXdtNmthWHcxZ245WWhWdWM3aWc3aU9oRndzR2RyLVotWTlrbEwwUQ?oc=5)
+
+---
+
+### [Beachgoers on edge after ‘flesh-eating’ bacteria kills five down south - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
+
+2026-08-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
+
+---
+
+### [Vitamin K2, personalisiertes Vitamin D3 und KI-Programme: Neue Wege in der Prävention - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVlzN21aS2FLZ3g3THdETURhYW1xemE1UW9wb1N4cGR2bV9aZ0hod2NjUXQ0anRqT3Q5em52akZGTkxjLThrLXFCcG1VaUJ3Y0xMQ0VwNFFsWU5TMmVnUXh3OHlPRVBvanlqcHRkeWdpMV8xQUZnVjNmVU1NVEJHNUloZld6VHpBY051QVdLVE9JbmtTQmk0VU9qbVk5bklhSV9yRW5BeXVhRDFLTFd5cFl1RElDcEk?oc=5)
+
+2026-08-08 <span class="news-indication-tag">MS</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVlzN21aS2FLZ3g3THdETURhYW1xemE1UW9wb1N4cGR2bV9aZ0hod2NjUXQ0anRqT3Q5em52akZGTkxjLThrLXFCcG1VaUJ3Y0xMQ0VwNFFsWU5TMmVnUXh3OHlPRVBvanlqcHRkeWdpMV8xQUZnVjNmVU1NVEJHNUloZld6VHpBY051QVdLVE9JbmtTQmk0VU9qbVk5bklhSV9yRW5BeXVhRDFLTFd5cFl1RElDcEk?oc=5)
+
+---
+
 ### [La OMS recomienda ensayos con la vacuna Ervebo para intentar frenar el actual brote en RDC - El Debate](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXVvUTNuaG1oVzNKQTFLOHdlcVJfZWl5WFRyTEN4TmdLQ0h5MmdHYnhybDZnYlYwVktXRExCek55emZuRllnVkMtbVZCenBwSXlzWWdEUF96LUJEQW01cFBuV3JCRWNoSkdLTS1ER0VhSWlueUNIMTNlUVUxdFluUkNpT1d1U0ZNQmdIdzhjUGZaX2lJT3lwYlRFc2RHcVFfRlgwNnUwQ1RENGdYdXRKX0w2dWFNc3hfaGRsY1FsSWtpUdIBxwFBVV95cUxPcVk1aVVYU01oQjF0VG5fQ1NpQW4ycU1IaWFZdXl5b1FWWmVhMkpOTjFTbTg2UGM0c0dIZ3VoNm8ybWk2V1NCbk5IVVRWRDRHR0QtaU5HZ0h6WGZ5Q0kyY2FkdXZORmFiMmV1Z1l4U0ZTcVBCcHktRmh4M0d5WFViV3ZLcDBIbFlaTmhLX21wZG9OQTNLZHM0X3ItZnU3TlFyOWhNcG5FSEM1aEV1bGo1eFlsQWFJSjBpcGp4RlRhSHpHWllXOGY4?oc=5)
 
 2026-08-08 <span class="news-indication-tag">MS</span>
 
 來源：[El Debate](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXVvUTNuaG1oVzNKQTFLOHdlcVJfZWl5WFRyTEN4TmdLQ0h5MmdHYnhybDZnYlYwVktXRExCek55emZuRllnVkMtbVZCenBwSXlzWWdEUF96LUJEQW01cFBuV3JCRWNoSkdLTS1ER0VhSWlueUNIMTNlUVUxdFluUkNpT1d1U0ZNQmdIdzhjUGZaX2lJT3lwYlRFc2RHcVFfRlgwNnUwQ1RENGdYdXRKX0w2dWFNc3hfaGRsY1FsSWtpUdIBxwFBVV95cUxPcVk1aVVYU01oQjF0VG5fQ1NpQW4ycU1IaWFZdXl5b1FWWmVhMkpOTjFTbTg2UGM0c0dIZ3VoNm8ybWk2V1NCbk5IVVRWRDRHR0QtaU5HZ0h6WGZ5Q0kyY2FkdXZORmFiMmV1Z1l4U0ZTcVBCcHktRmh4M0d5WFViV3ZLcDBIbFlaTmhLX21wZG9OQTNLZHM0X3ItZnU3TlFyOWhNcG5FSEM1aEV1bGo1eFlsQWFJSjBpcGp4RlRhSHpHWllXOGY4?oc=5)
-
----
-
-### [Herz-Kreislauf-Prävention: Vitamin K2 senkt Gefäßverkalkung um 57% - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXVzdTdaeGpOdF8tOEZycnJ4SGZBU09SVTREbE5fdk5iMzVGanY5WTg1X1RqaFFVRnVRNTNzQzFRa2VJakJhNFA5SUpKLWhlQlFrYVRLcFlISHVwanpNWHRuOXlNYWROLWx2aDZyWG9tVkZ1RmRZUDk4LTZQZ2xCbkNDNUpjRnAyQ2ZCX2p3NS1iRkVEMFg4VTFmX2pLczlyZzhSQ21WR19hZFRmNVZXbjlNSk9IYm8?oc=5)
-
-2026-08-08 <span class="news-indication-tag">MS</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXVzdTdaeGpOdF8tOEZycnJ4SGZBU09SVTREbE5fdk5iMzVGanY5WTg1X1RqaFFVRnVRNTNzQzFRa2VJakJhNFA5SUpKLWhlQlFrYVRLcFlISHVwanpNWHRuOXlNYWROLWx2aDZyWG9tVkZ1RmRZUDk4LTZQZ2xCbkNDNUpjRnAyQ2ZCX2p3NS1iRkVEMFg4VTFmX2pLczlyZzhSQ21WR19hZFRmNVZXbjlNSk9IYm8?oc=5)
 
 ---
 
@@ -94,6 +110,14 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
+### [Immunologie: FGL-1-Protein verstärkt Covid-Entzündungen paradox - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNREluRXhLNGxNaVFnMHpvOWlVWlVwb1RjRzhaOS1ZVFFrQjlrQWxkX2NqUE80NklPdzBKcnBuenNtdlYzS1hWeks3NnMxakVZOHllQ2dLMGh0NHVFZlBvM1JpSXJzWXdFWHJTdldmTUh4U1RvSFQ3elFTUUVQaTZhdWNLbUFva0hEOVJ0dnItM2lpbk9KeG5YUEc5STVGdVBlZTczTGFqRWppU1lsY1pIOHFPaw?oc=5)
+
+2026-08-07 <span class="news-indication-tag">MS</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNREluRXhLNGxNaVFnMHpvOWlVWlVwb1RjRzhaOS1ZVFFrQjlrQWxkX2NqUE80NklPdzBKcnBuenNtdlYzS1hWeks3NnMxakVZOHllQ2dLMGh0NHVFZlBvM1JpSXJzWXdFWHJTdldmTUh4U1RvSFQ3elFTUUVQaTZhdWNLbUFva0hEOVJ0dnItM2lpbk9KeG5YUEc5STVGdVBlZTczTGFqRWppU1lsY1pIOHFPaw?oc=5)
+
+---
+
 ### [Digitale Avatare und Leitlinien-Updates: Neue Wege in der Schizophrenie- und Palliativversorgung - it boltwise](https://news.google.com/rss/articles/CBMixAFBVV95cUxPeTIzYnZmdXdzNEZwYkRQT0UxVC1RVGYtZW1kS09yWEd0NGo4OERzVS1qZmJCbzNSclZFMVgwQUJlZlBzZmZnZ3NCcDQ1ZmNKNE1VVDBtX2hoZ1V6OHVKaXhRaDlzUmNheTdtMk9qeS03U0dtWlNXYTZJeUE2LTBoYVpabFg1T3pmR0xSb0swNTdTT3pfSXRIQUMxZTczeTFzZTJ3ZTY2bm1CQVJlN2M2SnZzTmZwMVMxcnhlX19rako3dmFt?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
@@ -102,35 +126,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [Covid-Forschung: Treffer bei überschiessenden Entzündungen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
+### [Multiple Sklerose-Therapie nutzt schützende B-Zellen des Darms - Biermann Medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUhBdzUyY1JSdDhZTm9qbk9GRHF4UGdQVGthR2xlZlVlRGlTSkc3V3d5ZXFsRUoyM0xUeHVqVUpreUxRdWVQZ3J6QlVhRDNBQVF1RXI3MlBORDREOWtMYjBNcUhtTnBzdTV2WjNJTnFpbC1aZnNtMDdSbmluNHFCTTlIZi1Pb2g4MXF2SWFHNnVmNmV3bUlz?oc=5)
 
 2026-08-07 <span class="news-indication-tag">MS</span>
 
-來源：[watson.ch](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWQwUlNYLVczaUpzUUxlTWJ0NUpRTnZBdUpNQW9ucl9oN0oxbUJzRXVhYzVRR2x2UjczNnJFWW1PN2Z0eThrRkItUXFwVV9RdkVlUklyOTk2RkJ1YmFoNFBvZTUyLWRldVRqNzBIa1BuSnBqNHRmSkJLQTc1OUlWd0NiQ2RlaUdtRFdPdWhPb09La2xUb0NYTW9OM0xlQldvQU1TOVNIWEtGUUlYdDdsRk56TQ?oc=5)
-
----
-
-### [The TRUTH about ADHD & autism revealed as experts argue they’re ‘social trends’ - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTlYaDJBTWFYSllGZm12TzdlVUZaYjNvTjFTRThidFQyeHpPTjQyc2FiZFh4S0FxVVJvNW9HZURCYmllWDZTQ0tQUHRRTzZubU1mUHlpbU5yNlVZZm00bGpiSjdaV0owMVlNZDNKMUhydVV0ZnVWSEJNOTV1d2JZQk1OczBFSGgzdmszTTlRcFYwUQ?oc=5)
-
----
-
-### [Multiple Sklerose: Neuer Blutmarker GFAP zeigt schleichende Progression - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU5yeS1kSkRzcEh6cE1teTBjNEY5UEpBejFJa2NmaUJXOEdVTHNEMkt5aC1WQzVLRHV6a01aYlRONnFMclhYMUVYdDdLRHc1akNNcjViOTY0UTZValRpQnFydXoyME5zamduc054dDkzRDcxaVdmNEF3MFJVQWtjTzU4Z2p0cUpXR1JXalFYSzQ3c3J5ZVdDeWFxUnUxRVlieW1XS1NSel9TNV9LZFloZXpHemhLVk93SERV?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Multiple Sklerose</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU5yeS1kSkRzcEh6cE1teTBjNEY5UEpBejFJa2NmaUJXOEdVTHNEMkt5aC1WQzVLRHV6a01aYlRONnFMclhYMUVYdDdLRHc1akNNcjViOTY0UTZValRpQnFydXoyME5zamduc054dDkzRDcxaVdmNEF3MFJVQWtjTzU4Z2p0cUpXR1JXalFYSzQ3c3J5ZVdDeWFxUnUxRVlieW1XS1NSel9TNV9LZFloZXpHemhLVk93SERV?oc=5)
-
----
-
-### [Hand-OP im Krankenhaus Vilshofen erleichtert MS-Patientin den Alltag](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNQUjc2aHB0SmRJelFjTmtUcXRfb3VuUzVNUlQ1cjZTdkhMYVpDazV6ZklDdjJOTVlkUHRVZjF1SXczQWc4cU1kVzdxVTI3QUltR2hnRGNmWHNrZV9yNC03NUVEcllKZFJIZEZHMUxRekZvZ3cwMlVzV3pxYkVDUW1hM3dBZDdQaFdYd1ZHd3Y4Q1JBczhIUW16Wnllam1hTHZZNEtTX1hUOFN5bmhUVUNyMnhLczRNSUo2R1Zn?oc=5)
-
-2026-08-07 <span class="news-indication-tag">MS</span>
-
-來源：[Pnp.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNQUjc2aHB0SmRJelFjTmtUcXRfb3VuUzVNUlQ1cjZTdkhMYVpDazV6ZklDdjJOTVlkUHRVZjF1SXczQWc4cU1kVzdxVTI3QUltR2hnRGNmWHNrZV9yNC03NUVEcllKZFJIZEZHMUxRekZvZ3cwMlVzV3pxYkVDUW1hM3dBZDdQaFdYd1ZHd3Y4Q1JBczhIUW16Wnllam1hTHZZNEtTX1hUOFN5bmhUVUNyMnhLczRNSUo2R1Zn?oc=5)
+來源：[Biermann Medizin](https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUhBdzUyY1JSdDhZTm9qbk9GRHF4UGdQVGthR2xlZlVlRGlTSkc3V3d5ZXFsRUoyM0xUeHVqVUpreUxRdWVQZ3J6QlVhRDNBQVF1RXI3MlBORDREOWtMYjBNcUhtTnBzdTV2WjNJTnFpbC1aZnNtMDdSbmluNHFCTTlIZi1Pb2g4MXF2SWFHNnVmNmV3bUlz?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad renal crónica（chronic kidney disease） 相關新聞"
+title: "CKD（chronic kidney disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "enfermedad renal crónica（chronic kidney disease） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "CKD（chronic kidney disease） 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/chronic-kidney-disease/
 ---
 
-# enfermedad renal crónica（chronic kidney disease） 相關新聞
+# CKD（chronic kidney disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="enfermedad renal crónica（chronic kidney disease） 有什麼相關新聞？">
-<strong>enfermedad renal crónica（chronic kidney disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="CKD（chronic kidney disease） 有什麼相關新聞？">
+<strong>CKD（chronic kidney disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「enfermedad renal crónica」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「CKD」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,15 +29,7 @@ permalink: /news/chronic-kidney-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [La enfermedad renal aumenta en la región: casi 1.500 pacientes en diálisis o trasplante - El Periódico Extremadura](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbC12SFJ1TGJoTWdnUUlERHdrYWdsazFZRGVNYmxUVG4xdUJfS3dLVUlMR3gzamVrdENMdU8zdEhDMkN2N3p2d1dqdThiakFacDVPSmdlaGNIU2Z6QnBmVTBfU3VjS3Z4clZjMkRIRF9sZUNiVlN0RTZtT1VaVDlhclhhM0MyajNYcnBzM2l0SUZHZXQtS1J3QXVnOERMWHNvS0VrU1JOSkh2d3JacjNSWHVTeXdrZG9KUUMwbzItbTZaMHYzUHk2M1pwM2lWbXBPakRpT29FbFpCbmRhV2liVlJva9IB6AFBVV95cUxQbjBoRW1CdWlrVFBhSXBmUGpTOEt0U0pPbU52QTdxWnlCeV9VNUhqUnA1VUlfNURFRG5OR1BOMU1EWUplOGJqdzNOdHVQWUpBTHN5T0FGcEgwa0ZURDJsVU5Ta2xndUdmaTRlMkpfcHNRTGlwZV9jbUlFQWkyazhBR2RncjA3cWE1Y3FzLV9SSngzUEpaY0hhdVFiZWhNYkg5ZGZ0NVVCeTNfUjNVaEpSb3R4bXdsUmptVUstdnhpYTBsQzJRWGJQWEY3QnBRczlhWDgtRlNrU2dKUzZ0RGVkMTZ5dW4tZEk3?oc=5)
-
-2026-08-08
-
-來源：[El Periódico Extremadura](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbC12SFJ1TGJoTWdnUUlERHdrYWdsazFZRGVNYmxUVG4xdUJfS3dLVUlMR3gzamVrdENMdU8zdEhDMkN2N3p2d1dqdThiakFacDVPSmdlaGNIU2Z6QnBmVTBfU3VjS3Z4clZjMkRIRF9sZUNiVlN0RTZtT1VaVDlhclhhM0MyajNYcnBzM2l0SUZHZXQtS1J3QXVnOERMWHNvS0VrU1JOSkh2d3JacjNSWHVTeXdrZG9KUUMwbzItbTZaMHYzUHk2M1pwM2lWbXBPakRpT29FbFpCbmRhV2liVlJva9IB6AFBVV95cUxQbjBoRW1CdWlrVFBhSXBmUGpTOEt0U0pPbU52QTdxWnlCeV9VNUhqUnA1VUlfNURFRG5OR1BOMU1EWUplOGJqdzNOdHVQWUpBTHN5T0FGcEgwa0ZURDJsVU5Ta2xndUdmaTRlMkpfcHNRTGlwZV9jbUlFQWkyazhBR2RncjA3cWE1Y3FzLV9SSngzUEpaY0hhdVFiZWhNYkg5ZGZ0NVVCeTNfUjNVaEpSb3R4bXdsUmptVUstdnhpYTBsQzJRWGJQWEY3QnBRczlhWDgtRlNrU2dKUzZ0RGVkMTZ5dW4tZEk3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Vittorio Lingiardi: «Ansia, paura, sfiducia nel futuro. L'emergenza climatica per la mente è come un lutto» - Corriere della Sera](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeGxxNC1WQWNwNjRoZGdzc0dZTURHRGhwMVc4bVJPMFg0S3hBMkNLY2lJWXhYVnpIMnVSeWdPTFlNbmYyT3ltd0JFNVdYQzh2eDkxOXFaU080dDY1QUwyNlJlaHhxZ083Y0V6OWp3NmZ3bUJRUlZDenJCTFA4VEluQVhUa0d5V0FhUkR3ejFNc0NaZDRJZ3RGM0VYTHk1SEFfenF4YzBzdkZGNUhsNTZ3V3ZHc0dqdENOT0RmVEM4a0lSMEVNZERhTE1qOGYzdThRUUY4NNIB2gFBVV95cUxNc3JJaklnT3dQakZyQXhBeXhNYlFldHUwRGw1d1d5UUdlOUEtdVZNYXc2MFVsQzhtek54YThONXFPdTlUbkllQlV1NXZadjQwLVl3MWNSZkc2ZE16dUJxcWtxNEU5ZWl2VEZzUk1jU0E5UDFLMzRQY0RkS2dUZkVWb2RNeC1xLS13NjZ6MVFjenNZVkYwTXFGYldJZjB6RUo2LVdFNGJJXzNjWUJqekF2b0swMDFSZmNfN1NZN25FeUtsUnV6UjhSTnpEV2lMdm8zR1FWMGRxbVFrUQ?oc=5)
 

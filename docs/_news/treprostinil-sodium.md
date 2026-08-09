@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="Treprostinil Sodium 有什麼相關新聞？">
-<strong>Treprostinil Sodium</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treprostinil Sodium</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ permalink: /news/treprostinil-sodium/
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（0 則）
 
-### [Tener la menopausia antes de los 40 dispara el riesgo de sufrir tensión alta - Las Provincias](https://news.google.com/rss/articles/CBMingFBVV95cUxOMDB1UTlXNU8ta2E5aGE0TWNsNU51TTFwNGpFY09kY0JoYXlSWVU3aFRNaVd5dTI2MnYwYzlfLTZKeWFDT1hGZm9RSnJSNzlVNTlrZDVSVUIyeWxtRTNudmc0ZE1qLU54alp5TE1yQkI5em1teDdMN3g2Q2d6dk03UzJzQ1NaeFhZTUZid1lLR0ZRRmlJT1k1bVg3NVAwZ9IBowFBVV95cUxQY250bl9ENDJ1ZlJrNU41a0dDdkloQk9OV2JpUEkzRlZnbzl6ZUo1RFl5Y0kzTG5wMTZqNU0wazJFSzA3QVlSczdlRlI5ZVNJakpOOExtR1ZBNVVlSWhBQkpXRzM3U210ZUtHVWdscjVEamN1b1J2SjRXTldqUFdTYXBSTGVpZzZsUGswT2JTRVg0LTVnXzBDWE5HcTVFQ0ZycWVz?oc=5)
-
-2026-08-08 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Las Provincias](https://news.google.com/rss/articles/CBMingFBVV95cUxOMDB1UTlXNU8ta2E5aGE0TWNsNU51TTFwNGpFY09kY0JoYXlSWVU3aFRNaVd5dTI2MnYwYzlfLTZKeWFDT1hGZm9RSnJSNzlVNTlrZDVSVUIyeWxtRTNudmc0ZE1qLU54alp5TE1yQkI5em1teDdMN3g2Q2d6dk03UzJzQ1NaeFhZTUZid1lLR0ZRRmlJT1k1bVg3NVAwZ9IBowFBVV95cUxQY250bl9ENDJ1ZlJrNU41a0dDdkloQk9OV2JpUEkzRlZnbzl6ZUo1RFl5Y0kzTG5wMTZqNU0wazJFSzA3QVlSczdlRlI5ZVNJakpOOExtR1ZBNVVlSWhBQkpXRzM3U210ZUtHVWdscjVEamN1b1J2SjRXTldqUFdTYXBSTGVpZzZsUGswT2JTRVg0LTVnXzBDWE5HcTVFQ0ZycWVz?oc=5)
-
----
-
-### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

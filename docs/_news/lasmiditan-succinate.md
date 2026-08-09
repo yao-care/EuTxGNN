@@ -54,27 +54,27 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（4 則）
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1dMTmFmcXBscm5xU1NfMVNLNUQwSGRXSmpVMGpHeG5YVDM3aEZmby1hdUlRbER5SHVLOS1KbHAzdXEwVWNES0ZtQkN2ck1JUGUzemhTRUxvdmwwUm9tMWVVWm14MUpMamVFT3RGVWhFVkhuWl93Z2ZUNHFzeDJ1QnJ2Tnl5b3g4MU9Paks3VDhUdDhBOFZuU0NYb2R0QzVQVmlkc1pYcjVLX28?oc=5)
-
-2026-08-09 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1dMTmFmcXBscm5xU1NfMVNLNUQwSGRXSmpVMGpHeG5YVDM3aEZmby1hdUlRbER5SHVLOS1KbHAzdXEwVWNES0ZtQkN2ck1JUGUzemhTRUxvdmwwUm9tMWVVWm14MUpMamVFT3RGVWhFVkhuWl93Z2ZUNHFzeDJ1QnJ2Tnl5b3g4MU9Paks3VDhUdDhBOFZuU0NYb2R0QzVQVmlkc1pYcjVLX28?oc=5)
-
----
-
-### [Tirzepatid senkt Herzinfarkt- und Schlaganfallrisiko um rund ein Drittel - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
-
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
-
----
-
 ### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[STERN.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
+
+---
+
+### [Farmaci, gli italiani spendono di tasca propria 10,7 miliardi. E la spesa totale vola a 39,3 miliardi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
+
+2026-08-08 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
+
+---
+
+### [Migräne: Im Alter schmerzt es anders - MMW - Fortschritte der Medizin](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
+
+2026-08-07 <span class="news-indication-tag">Migräne</span>
+
+來源：[link.springer.com](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBd1dEWUdVRHVoMnNqYmtZUERQaklYWTI4bDdZQjZOam1UdGcwRmFqZ3hZYVNQVjI5dnRnYU52WW9hUG5ucEtuakhfbVZ2Q0czdHFkT2dFY2ZDclN5T01kemc1cVlwd1lGc2pB?oc=5)
 
 ---
 

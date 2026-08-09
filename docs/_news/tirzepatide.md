@@ -54,19 +54,19 @@ permalink: /news/tirzepatide/
 
 ## 相關新聞（2 則）
 
+### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+
+2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
+
+來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+
+---
+
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
-
----
-
-### [Life-threatening fat jab warning signs you mustn't dismiss as mild side effects - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUxQdzdlNzJOZDNra19NSlEzQWZtZ3JsVWszeG9jQ3pRcUhiZGZwM2VqaEtGQjRleUYza3pQM3FRR2UxZU5FbWg0U1drdjBWa1dtS082MHhXZW1mMVdFekNnNDNOcDBwZGE2QUVmVF9OX0NrT2E4aXZOSkw4MVR6THRLTTZBenJxYlQzT3hNM0dBSEItV0ZhM2Mxb2xUbEt5bUE?oc=5)
-
-2026-08-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUxQdzdlNzJOZDNra19NSlEzQWZtZ3JsVWszeG9jQ3pRcUhiZGZwM2VqaEtGQjRleUYza3pQM3FRR2UxZU5FbWg0U1drdjBWa1dtS082MHhXZW1mMVdFekNnNDNOcDBwZGE2QUVmVF9OX0NrT2E4aXZOSkw4MVR6THRLTTZBenJxYlQzT3hNM0dBSEItV0ZhM2Mxb2xUbEt5bUE?oc=5)
 
 ---
 

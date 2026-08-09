@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas（obesity） 相關新聞"
+title: "obesità（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。3 則新聞、8 個相關藥物。"
+description: "obesità（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
-# Adipositas（obesity） 相關新聞
+# obesità（obesity） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>3 則</strong>相關新聞報導，8 個相關藥物。
+<p class="key-answer" data-question="obesità（obesity） 有什麼相關新聞？">
+<strong>obesità（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Adipositas」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「obesità」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1dMTmFmcXBscm5xU1NfMVNLNUQwSGRXSmpVMGpHeG5YVDM3aEZmby1hdUlRbER5SHVLOS1KbHAzdXEwVWNES0ZtQkN2ck1JUGUzemhTRUxvdmwwUm9tMWVVWm14MUpMamVFT3RGVWhFVkhuWl93Z2ZUNHFzeDJ1QnJ2Tnl5b3g4MU9Paks3VDhUdDhBOFZuU0NYb2R0QzVQVmlkc1pYcjVLX28?oc=5)
-
-2026-08-09
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1dMTmFmcXBscm5xU1NfMVNLNUQwSGRXSmpVMGpHeG5YVDM3aEZmby1hdUlRbER5SHVLOS1KbHAzdXEwVWNES0ZtQkN2ck1JUGUzemhTRUxvdmwwUm9tMWVVWm14MUpMamVFT3RGVWhFVkhuWl93Z2ZUNHFzeDJ1QnJ2Tnl5b3g4MU9Paks3VDhUdDhBOFZuU0NYb2R0QzVQVmlkc1pYcjVLX28?oc=5)
-
----
-
-### [Tirzepatid senkt Herzinfarkt- und Schlaganfallrisiko um rund ein Drittel - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+### [Farmaci, gli italiani spendono di tasca propria 10,7 miliardi. E la spesa totale vola a 39,3 miliardi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
 
 2026-08-08
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYjFnQXJjaGdDaTlJbHNEdDFRSndFRFI2bGRCUHYzMk04YlJFYWlFWlloSG5iNU9RYzE1UVp5MVdQeXI3azM3WW9zOG42b3R6aGt5M0kyUUFQWGtWd2ZDb05hWVRvWlZHRVpWRmdCQl95ajVwSzU0OHl2TzU4MzZvZkhTTFRlNUFGa05ZdmdoY1RkdkZ1LXUxdnRQc05lejNheVcxczR3?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONl9wNURwektqTW5PbWl2S2xQel9kTTl4aEUyVHhoMkR4NEVKZW9Gcm1hZFVGWHZUbXphSnEyQ1ZKSjVWZGhCSG91SU5xdXNVS3Q0RmFBNW5tbHRFZFhvajZTZjJHbWd5TlBiT3hhWHRfVUxCOUEwQ3ZhamY3cFE1NDc2Z3pNZnY1RlAwUExiaDhHcWV0Q202ZzNVTVdhaEFtVWFPQlBwSFMxb2lHUXQ1NlhGeVZINFJDRUVvUmcyQ05XTjdkTmFqNUZxRDBfZVVEdFFGVVc0TWIxSUdWeU5DRlo3X21DT3M?oc=5)
 
 ---
 
