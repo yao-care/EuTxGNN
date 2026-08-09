@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。1 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>1 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
-2026-08-07
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Santé. Maladie d'Alzheimer : quels signes précèdent les troubles de la mémoire ? - Le Progrès](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3dVSVlaa3J1VW5hZ2kxVWszQjB0VElrWkEwd2I5bEhUbThyaV9Ba3NMc1R0N2RCOEw5Y1laUUpyWjJndjNXMnhReFFvbHUxQWZ1YlQ5WlVDeHRtR05lNE5KaHdxRUpabXR2bG50Tkpjbk55TWZ5aGFwbXZXUkxSZXZ2NU9KcUM4MElXNlhqUlNNSEQ3X0Y0OHgtakxla1hLX3FhcHhNc0tySHNXZlpfQTEwRy0xSXFfLWMzNg?oc=5)
 

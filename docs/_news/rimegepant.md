@@ -54,11 +54,11 @@ permalink: /news/rimegepant/
 
 ## 相關新聞（2 則）
 
-### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
+### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
-2026-08-08 <span class="news-indication-tag">Migräne</span>
+2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 ---
 

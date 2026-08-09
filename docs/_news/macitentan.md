@@ -14,7 +14,7 @@ permalink: /news/macitentan/
 ---
 
 <p class="key-answer" data-question="Macitentan 有什麼相關新聞？">
-<strong>Macitentan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macitentan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/macitentan/
 <p><a href="{{ '/drugs/macitentan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+### [Demenzprävention: Rauchen, Bluthochdruck, Diabetes kosten 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+
+---
+
+### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+來源：[abendblatt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
 ---
 

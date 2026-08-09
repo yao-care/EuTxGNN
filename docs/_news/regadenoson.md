@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Contaminación, sedentarismo, obesidad, entre los factores que han disparado las cifras de asma en Chile](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
+### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
-2026-08-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span>
+2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
-
----
-
-### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/regadenoson/
 
 ---
 
-### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
+### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
 
 2026-08-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
 
 ---
 

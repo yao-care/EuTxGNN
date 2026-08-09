@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="Thyrotropin Alfa 有什麼相關新聞？">
-<strong>Thyrotropin Alfa</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Thyrotropin Alfa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/thyrotropin-alfa/
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
+### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
-2026-08-08 <span class="news-indication-tag">Migräne</span>
+2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
+
+---
+
+### [Demenzprävention: Rauchen, Bluthochdruck, Diabetes kosten 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ permalink: /news/thyrotropin-alfa/
 
 ---
 
-### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+來源：[abendblatt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
 ---
 

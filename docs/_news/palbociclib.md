@@ -14,7 +14,7 @@ permalink: /news/palbociclib/
 ---
 
 <p class="key-answer" data-question="Palbociclib 有什麼相關新聞？">
-<strong>Palbociclib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Palbociclib</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,47 @@ permalink: /news/palbociclib/
 <p><a href="{{ '/drugs/palbociclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（32 則）
+
+### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
+
+---
+
+### [Brustkrebs: Pflanzenstoff aus TCM-Heilpflanze zeigt Wirkung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnBCLWwtaVBER1IweFJmenhkUFhrdHJoWjIyUDViT0RQZ2NZYTJNQW0zNUNIckVwUUZPX3ktTHFURG40Y2RyVGlkZnd3amctWnROTkZ3Z0QtbkFzREdLRTdocFJQWDZFemdZZkFMUHROdnlzdVc0MTF4WTRYNFJzeHpac0RVdGJ1WTl5VGNoWTRtaU5vZThnUXdwMFlOM3o1XzZCblBHMkUyQ1NHVlJteWRCQno5eXFVOXBB?oc=5)
+
+2026-08-08 <span class="news-indication-tag">Krebs</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnBCLWwtaVBER1IweFJmenhkUFhrdHJoWjIyUDViT0RQZ2NZYTJNQW0zNUNIckVwUUZPX3ktTHFURG40Y2RyVGlkZnd3amctWnROTkZ3Z0QtbkFzREdLRTdocFJQWDZFemdZZkFMUHROdnlzdVc0MTF4WTRYNFJzeHpac0RVdGJ1WTl5VGNoWTRtaU5vZThnUXdwMFlOM3o1XzZCblBHMkUyQ1NHVlJteWRCQno5eXFVOXBB?oc=5)
+
+---
+
+### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Gießener Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb211cElpSXNNdF9sSlNIUUhTTDJYWUZtVVgwZkdTQUFLdzlQNUNSTmliXzFNeU1zWERhdjVHX1VPbmROWVBfOF9naFVzajlHVVNjWElvWVp5b1J5Vm5wQ3Z2MDFzYTRjZkhQdnVVeXZkNDVOZVNfWjlfUnROTmw3cDN0YnUySXAza2FGb1ZVNkxEaWRGX3ZMX21oWVVjb0ozd1B4SlpDRW95azg2V0tCbS1hb3NhMWc3?oc=5)
+
+2026-08-08 <span class="news-indication-tag">Krebs</span>
+
+來源：[Gießener Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb211cElpSXNNdF9sSlNIUUhTTDJYWUZtVVgwZkdTQUFLdzlQNUNSTmliXzFNeU1zWERhdjVHX1VPbmROWVBfOF9naFVzajlHVVNjWElvWVp5b1J5Vm5wQ3Z2MDFzYTRjZkhQdnVVeXZkNDVOZVNfWjlfUnROTmw3cDN0YnUySXAza2FGb1ZVNkxEaWRGX3ZMX21oWVVjb0ozd1B4SlpDRW95azg2V0tCbS1hb3NhMWc3?oc=5)
+
+---
+
+### [Fumo e tumore della vescica: scoperto perché alcune persone possono essere più vulnerabili](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ2VJZHB0NVNBZHN2WXliVzBHNnZKaUY3clRPUXFNNGlMZXl1QkF1MzBwWHhNSWNJbFF5OFV1V3NfVGkxOVU1alhPeGdzbzFMNzFlUG5LMkxzRV9ua2RTVkpFX2M3MENfbHBDd2JJc3hRUnlXdWRzU3lybnZUQjlYTEM1anM5bl9SMTJoVzZhdVNVSEUxaUJVbkp1ZDhEbzd5YjlIYnBpMlBGeDhHcnNScWdha29reUJEM2wyamktelh2U0tlSDFRbVZHc3lQaDFVeE1yY29RR29jcEdhSzVMajV0cw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ2VJZHB0NVNBZHN2WXliVzBHNnZKaUY3clRPUXFNNGlMZXl1QkF1MzBwWHhNSWNJbFF5OFV1V3NfVGkxOVU1alhPeGdzbzFMNzFlUG5LMkxzRV9ua2RTVkpFX2M3MENfbHBDd2JJc3hRUnlXdWRzU3lybnZUQjlYTEM1anM5bl9SMTJoVzZhdVNVSEUxaUJVbkp1ZDhEbzd5YjlIYnBpMlBGeDhHcnNScWdha29reUJEM2wyamktelh2U0tlSDFRbVZHc3lQaDFVeE1yY29RR29jcEdhSzVMajV0cw?oc=5)
+
+---
+
+### [Vitamina C contro il tumore? Sì, ma non per via orale: la scoperta degli scenziati che cambia tutto - Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzJTMWJIcXF6MTFzTUhVWFpiZjV0UW1la3RqOTFMazFmNDVnbVVNRGtLdERyVWRzUzg0T2Z2Vmt1SnM0ekpweWt2VVpvV0JHclZNRmlxZFNodzhmTHJ6ZjR3eEhldVJRV0t5WmRvVnFJUTRGclpPNVRtdGNNSE1RWVMyQ1BzdWNVRnpxUjkwNUpKOC1NM2t4Q19IOWxneFk0OGZOTlBB0gGrAUFVX3lxTE4zeVBoeUYtUDdHczdCWEtmZ2ZMWXRid1EwSzA2bXRwQ1lEcTFuX2UtU19kZkExY1pfQzgyQTkzU3lYeXRuRTFwUjRPb2tDNDVEd0dLd21kcGg4TkJUQ1hXX3Z5cFRVUG1ZVC1VYlV4dWxaT09femJGb3Q0V3Zwa1h2SXZzbFlVcXhxcnZvbUpUUFktXzlhVks2V2c0R01tU2x3V1BRX0M1SGUtZw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzJTMWJIcXF6MTFzTUhVWFpiZjV0UW1la3RqOTFMazFmNDVnbVVNRGtLdERyVWRzUzg0T2Z2Vmt1SnM0ekpweWt2VVpvV0JHclZNRmlxZFNodzhmTHJ6ZjR3eEhldVJRV0t5WmRvVnFJUTRGclpPNVRtdGNNSE1RWVMyQ1BzdWNVRnpxUjkwNUpKOC1NM2t4Q19IOWxneFk0OGZOTlBB0gGrAUFVX3lxTE4zeVBoeUYtUDdHczdCWEtmZ2ZMWXRid1EwSzA2bXRwQ1lEcTFuX2UtU19kZkExY1pfQzgyQTkzU3lYeXRuRTFwUjRPb2tDNDVEd0dLd21kcGg4TkJUQ1hXX3Z5cFRVUG1ZVC1VYlV4dWxaT09femJGb3Q0V3Zwa1h2SXZzbFlVcXhxcnZvbUpUUFktXzlhVks2V2c0R01tU2x3V1BRX0M1SGUtZw?oc=5)
+
+---
 
 ### [Doctors Told Her She Was Too Young for Colon Cancer. She Was Diagnosed at 32](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjZKTUNieVo1WElYRDBYRWdMemZKUXktSGE3eDJoRVlqS2JyeFNoLXVXSF9USkxnWGxNblRxdWVzclpxaVlqU0FUWEVtZ092X1dwdDhXOUlvU2NJOVE2U0IzQnFqSm01eV9hc195QUxYb21qbXBIQ1UzUHZWRGJCN3FzcDloTFBFWmZOV0ZzM2FFdjVsTjhoWnhxdFlxNXhBR2RJ?oc=5)
 
@@ -78,11 +118,11 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Melanoma: scoperto come le cellule tumorali si "mimetizzano" per sfuggire all'immunoterapia. Ecco perché la cura non funziona per tutti - La Nazione](https://news.google.com/rss/articles/CBMiggJBVV95cUxPeXl0QUNXOTkxaEtnQ2xXZnloYmdvX2V1NVYwb1ljand4OHZjaFk5MTB3cVRxLVJzRFBXRlQ4cjNKWU9RekZDYzVYMm01WVN6TzJrSUZYTVA2U3RfYXVXenc3aTM0bkVCazFTbmFLelBSalNwaURQT0JXQWhKUW80ZlBKbkhudWRDWFRMT1hGenZsYVU4Qng3SDBxSlh5OVo3OTVWY3pxcm5ZRTZyaEZ5SjY2RFJidkhpeFRWbThoNGwwa0pSTGpGOXZ6eTU4LVpTemU1XzltTVgxU0NFLWw1TkFvU1E4ZkZpNGRiVGFjcG0wQlVjRUVGcXg3WTBGZzd1X0E?oc=5)
+### [Krebsbehandlung ohne starre Altersgrenzen: Biologische Fitness zählt - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXdOVlZzZ1ZSbU1aeUw4a3J1a1JOZ0tDdTkwLUJuR25EM3YwbUl5SXRfSS1Oc1lEWlpUSzhDVmtxWWhlU0U2OVNPMnBNbzRYUktnSHNJTXhhZ19FdFlWR3RDdjA4dGdDTGtWekhTcDEtZ2NObWZVejZVamF4RmxMc0IwVXk5NTZ1WGVvZXduZ1dRUDFEOW5EX0tOME5ZUk9Sd3c?oc=5)
 
-2026-08-08 <span class="news-indication-tag">tumor</span>
+2026-08-08 <span class="news-indication-tag">Krebs</span>
 
-來源：[La Nazione](https://news.google.com/rss/articles/CBMiggJBVV95cUxPeXl0QUNXOTkxaEtnQ2xXZnloYmdvX2V1NVYwb1ljand4OHZjaFk5MTB3cVRxLVJzRFBXRlQ4cjNKWU9RekZDYzVYMm01WVN6TzJrSUZYTVA2U3RfYXVXenc3aTM0bkVCazFTbmFLelBSalNwaURQT0JXQWhKUW80ZlBKbkhudWRDWFRMT1hGenZsYVU4Qng3SDBxSlh5OVo3OTVWY3pxcm5ZRTZyaEZ5SjY2RFJidkhpeFRWbThoNGwwa0pSTGpGOXZ6eTU4LVpTemU1XzltTVgxU0NFLWw1TkFvU1E4ZkZpNGRiVGFjcG0wQlVjRUVGcXg3WTBGZzd1X0E?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXdOVlZzZ1ZSbU1aeUw4a3J1a1JOZ0tDdTkwLUJuR25EM3YwbUl5SXRfSS1Oc1lEWlpUSzhDVmtxWWhlU0U2OVNPMnBNbzRYUktnSHNJTXhhZ19FdFlWR3RDdjA4dGdDTGtWekhTcDEtZ2NObWZVejZVamF4RmxMc0IwVXk5NTZ1WGVvZXduZ1dRUDFEOW5EX0tOME5ZUk9Sd3c?oc=5)
 
 ---
 
@@ -118,11 +158,27 @@ permalink: /news/palbociclib/
 
 ---
 
+### [Drugs for common eye condition could one day help cancer patients – study - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1ZrQUFkcUlPbEpjT3d5XzhBbHFxTDhOdm1IUWNBc01ldkgySlptTUFPTURLMUViU0VnV1FTeTRDLWc4RTVwaHk3WkdzTGd3UUY2WWktbXR3alY1RXl5MURoanZsQVRXamQtSndKTG0ybnZOUERQbnFyUHhaV3BNb3B5UVp0SWM4RGhVQ0VFMmt6QnVFbW5CSDVtTzh4dw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">cancer</span>
+
+來源：[STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1ZrQUFkcUlPbEpjT3d5XzhBbHFxTDhOdm1IUWNBc01ldkgySlptTUFPTURLMUViU0VnV1FTeTRDLWc4RTVwaHk3WkdzTGd3UUY2WWktbXR3alY1RXl5MURoanZsQVRXamQtSndKTG0ybnZOUERQbnFyUHhaV3BNb3B5UVp0SWM4RGhVQ0VFMmt6QnVFbW5CSDVtTzh4dw?oc=5)
+
+---
+
+### [Nanopartículas inspiradas en los mejillones llevan la quimioterapia directamente al tumor de páncreas](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHZzUS1vSHZzVjZweGpxVlpDenVtcXdGVEF1bmx0aXhkRGF1OU9IUU5jTEJWTDhkai1LUkt0bU1vSDhENGJQMXd0dzdGTHItUFMwd25NUkFadlo4VlpKY1ZVV2NuS2ZqX29PTW9NM0YzUTRsQnBlNmFFa0U0RnV4dUNscmswbXlwV2NjQkJfckRWQ1owR0twNk1ySmNLN0UtNEhSNVZwRkhUWmtwYlJZZ05hZEZsZzZ0MmN6dHMzcWJFQWU5U3hBN0ItdVlBNVZ2SkI4bEFDcW1XaXQ5R0E?oc=5)
+
+2026-08-08 <span class="news-indication-tag">tumor</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHZzUS1vSHZzVjZweGpxVlpDenVtcXdGVEF1bmx0aXhkRGF1OU9IUU5jTEJWTDhkai1LUkt0bU1vSDhENGJQMXd0dzdGTHItUFMwd25NUkFadlo4VlpKY1ZVV2NuS2ZqX29PTW9NM0YzUTRsQnBlNmFFa0U0RnV4dUNscmswbXlwV2NjQkJfckRWQ1owR0twNk1ySmNLN0UtNEhSNVZwRkhUWmtwYlJZZ05hZEZsZzZ0MmN6dHMzcWJFQWU5U3hBN0ItdVlBNVZ2SkI4bEFDcW1XaXQ5R0E?oc=5)
+
+---
+
 ### [Zucchero e tumori, visto per la prima volta l’effetto del fruttosio sulla diffusione del cancro: lo studio su Nature Aging](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNU9tNWZFRjJfZEhudmlnSGxFT0ZrTk53V0UwcHVUb0JhNnhHWnNyV3A4N3g0ZDhDUmVRNDBBQzk2V1JwdS1RUWRZcUcwSS1FTDU1bWJHVEdNSURieFhzTkpGMFh2LW40N2w1YThJNHhCa3RlajYyUVNPTVhmMTI1ZDNWYWNhVGZSVzJOd0hPaFB6VXdLWHB4N3BEUUZCakI3bHZqZng5eExnYkhDNndRMXo0cmxMVGozVUl5Qkt6QTgxVmFtRTZEY05yT2ZFcVdNQVhlYmlxOEVZYzBUZnlwM2tZSEpjWkhDWFY1MDB3MG00UmVpTlE?oc=5)
 
 2026-08-08 <span class="news-indication-tag">tumor</span>
 
-來源：[fanpage.it](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNU9tNWZFRjJfZEhudmlnSGxFT0ZrTk53V0UwcHVUb0JhNnhHWnNyV3A4N3g0ZDhDUmVRNDBBQzk2V1JwdS1RUWRZcUcwSS1FTDU1bWJHVEdNSURieFhzTkpGMFh2LW40N2w1YThJNHhCa3RlajYyUVNPTVhmMTI1ZDNWYWNhVGZSVzJOd0hPaFB6VXdLWHB4N3BEUUZCakI3bHZqZng5eExnYkhDNndRMXo0cmxMVGozVUl5Qkt6QTgxVmFtRTZEY05yT2ZFcVdNQVhlYmlxOEVZYzBUZnlwM2tZSEpjWkhDWFY1MDB3MG00UmVpTlE?oc=5)
+來源：[Fanpage](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNU9tNWZFRjJfZEhudmlnSGxFT0ZrTk53V0UwcHVUb0JhNnhHWnNyV3A4N3g0ZDhDUmVRNDBBQzk2V1JwdS1RUWRZcUcwSS1FTDU1bWJHVEdNSURieFhzTkpGMFh2LW40N2w1YThJNHhCa3RlajYyUVNPTVhmMTI1ZDNWYWNhVGZSVzJOd0hPaFB6VXdLWHB4N3BEUUZCakI3bHZqZng5eExnYkhDNndRMXo0cmxMVGozVUl5Qkt6QTgxVmFtRTZEY05yT2ZFcVdNQVhlYmlxOEVZYzBUZnlwM2tZSEpjWkhDWFY1MDB3MG00UmVpTlE?oc=5)
 
 ---
 
@@ -150,6 +206,14 @@ permalink: /news/palbociclib/
 
 ---
 
+### [Melanoma: scoperto perché alcune cellule tumorali riescono a «nascondersi» dal sistema immunitario - Corriere della Sera](https://news.google.com/rss/articles/CBMipgJBVV95cUxPM0Y0bDNZQm5zaEZkSy1DVW5tSWFobUh1TmlOQ0ZlZ2NXSXN1LXR3dWxKaTk2WlltUUhWaGZTSzdQQ3RiSFhkbFhUTGJfWE5oV0tCc1pHelVwNl9YOWpFZHRtSWp3QjZJOVVkM1dxdkFMd0RVYW1mTnNWWWlHTFB4ZzFFVVc3VTYyUll1WUlORl9TR1kxZnVocUtyMExBLWZJNEFtWDNlQUVvcnlfancyZnN4b21pM3Z5UE45M2FyZElLcXlUblRpN0d5TjhycEMzbVJHMnVUS1pfb21icjhyeG1nSm9kdHM4a1VNb0NVZEtYODNRQml2T21sMlIySC1VNklQdEhZVlRJT3ItVl9SbE9IQTFTWk51dWNqWTRVeXVKR1dQd2fSAasCQVVfeXFMTjNNZ216NjBQRnBsRXJFaXFVQ3JnYWZMbTFqbEVtS3dWNDZQbEdUM0NBUHVLME8tMmh3Z1ZXRjd3ZGphRHYxUnFpVG5UNUs3enJEQU5oYXdJV05wY3kzSFIyQU1lTGxJLWtlaEV0N2JveDdhay1WUlNVYkRIMnpVQ0xMYkhiRVlOb2l3TjFDaTNoOHdkNmFqbHZjQkFmX3JWc2t3VDZIR0R2LXdybGpvenJZMHN1TktEWjVvZjRXWk15ckcwZ296Q2pUZFJLT2Q3aXQ1cTdmbmZpaDZ3M0c0R1ZYQ2h0TjRGUWg3LW9xcFJRN0ZzNGphVXV2V1lLU29fVTZQV0xmXy11QndxSF81ckNGWkt5SW5qUVZ1S1dqeHJKRDZZbU9FNUg2X00?oc=5)
+
+2026-08-08 <span class="news-indication-tag">tumor</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMipgJBVV95cUxPM0Y0bDNZQm5zaEZkSy1DVW5tSWFobUh1TmlOQ0ZlZ2NXSXN1LXR3dWxKaTk2WlltUUhWaGZTSzdQQ3RiSFhkbFhUTGJfWE5oV0tCc1pHelVwNl9YOWpFZHRtSWp3QjZJOVVkM1dxdkFMd0RVYW1mTnNWWWlHTFB4ZzFFVVc3VTYyUll1WUlORl9TR1kxZnVocUtyMExBLWZJNEFtWDNlQUVvcnlfancyZnN4b21pM3Z5UE45M2FyZElLcXlUblRpN0d5TjhycEMzbVJHMnVUS1pfb21icjhyeG1nSm9kdHM4a1VNb0NVZEtYODNRQml2T21sMlIySC1VNklQdEhZVlRJT3ItVl9SbE9IQTFTWk51dWNqWTRVeXVKR1dQd2fSAasCQVVfeXFMTjNNZ216NjBQRnBsRXJFaXFVQ3JnYWZMbTFqbEVtS3dWNDZQbEdUM0NBUHVLME8tMmh3Z1ZXRjd3ZGphRHYxUnFpVG5UNUs3enJEQU5oYXdJV05wY3kzSFIyQU1lTGxJLWtlaEV0N2JveDdhay1WUlNVYkRIMnpVQ0xMYkhiRVlOb2l3TjFDaTNoOHdkNmFqbHZjQkFmX3JWc2t3VDZIR0R2LXdybGpvenJZMHN1TktEWjVvZjRXWk15ckcwZ296Q2pUZFJLT2Q3aXQ1cTdmbmZpaDZ3M0c0R1ZYQ2h0TjRGUWg3LW9xcFJRN0ZzNGphVXV2V1lLU29fVTZQV0xmXy11QndxSF81ckNGWkt5SW5qUVZ1S1dqeHJKRDZZbU9FNUg2X00?oc=5)
+
+---
+
 ### [« Le cancer n’aura pas le dernier mot » : après la mort de son mari, Pauline Crucis récolte des fonds pour la recherche](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQXJINTRVY3lXeFRTYlBJUVNocjRVcW9QSWh3QkxZenpDSDVUZU9CUk5oVGxCRmJJMjdfLW01dTFLOTYzOFo5aGV4TE1xa081M3VoSXR2WGdmVzRzR05ubWxjOFVJekp0VUJ1Y05QVF9HcFk1d0NFWGF3aU9fbHB5dTE1dGtPYkdFTmY1aHZSRy1HZWNfMHMya2FLbkw0TF9tVmtWSjh6MDlLV3JsRjdjZEp5aWQxdk53eWlhTGcweEIwZXEtSFhQMFNoVFlRWmRwTDhkampPSy13ejJJam9mUnhtdWdfR2Y2SmNNenNXS3NFWnN2NHlYZE51WDJPWlhobXJNY1FNcTltSXc1b3EwWkpaNA?oc=5)
 
 2026-08-08 <span class="news-indication-tag">cancer</span>
@@ -163,14 +227,6 @@ permalink: /news/palbociclib/
 2026-08-07 <span class="news-indication-tag">tumor</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0pOanh5TzZ6RmhHdkM3LXd4VWhLU0JibHFJZEZjOU9uLXMwZmlpVFlPblZHTmlVaHBza2J4RFc5VzFZY28xTGJwZ1VLTk1KXzlYYTFRMlNwN3ptaS1wLWpfOFpmU3NzRmdWeG5tcnR3TmlPN1BGekVGbDdzSW5LNndZMUN2Tm1LNWg0NW5QR1BDMy1pX00ydVAtcjZOV05LWVA4OTVJNnBuUHNfSzNPSGpiSUhfcGNyTmx0WVlXY2pEZWRERWlUM0FqS1F1VFl5TFlEdDdJVjZ3TGl6ZVgxUQ?oc=5)
-
----
-
-### [Krebsbehandlung: Ärzte setzen auf individuelle Fitness statt Altersgrenzen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUozdG1yTnhRb0VEaTk4SWtZY3R3cTdNS2h0UHF2dDRwMFBDWnN2YWxhLVN1dHlGTjBMWjRYSGR3ZVJyNWpwV0t6blZZendBRjlsdG1IbHp5VThZaWVCUU9JYjVNTWdlekF3Z2FPbEVBYy0zandmb2xoNmp2bmNIanU5Z1RlSlg1bjFJR2VJZUp1VU4zdm9fZ3FQZ1VVMzlMdVpFNU1RWlZZSjctdVE?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Krebs</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUozdG1yTnhRb0VEaTk4SWtZY3R3cTdNS2h0UHF2dDRwMFBDWnN2YWxhLVN1dHlGTjBMWjRYSGR3ZVJyNWpwV0t6blZZendBRjlsdG1IbHp5VThZaWVCUU9JYjVNTWdlekF3Z2FPbEVBYy0zandmb2xoNmp2bmNIanU5Z1RlSlg1bjFJR2VJZUp1VU4zdm9fZ3FQZ1VVMzlMdVpFNU1RWlZZSjctdVE?oc=5)
 
 ---
 
@@ -190,14 +246,6 @@ permalink: /news/palbociclib/
 
 ---
 
-### ['I was diagnosed with breast cancer at 27 - doctors told me I was too young' - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1pVVkFJVGhpTWNyaTVqRXltSFNRN1EwMkpfcVBMZURDX05pcHRUY3FFancxQmFOaFJkQjU2eGd1UVd0NnQ1RlI2eFFaV2JwRFR2WXVyTE16WWM0ajNjekR1dF94YzlfWXIwLWNRNnVFZ2xCSmtuWTB6RDV5QXFnYWJyWFR4QkYtdlo4dWZZRdIBlAFBVV95cUxPT3NSRVJpYmtYeVZVeHRPYlhiQTJHMkh0azlWYzRoQTY0S0dXQWJMSzNJeFBVTlZybXVMN1Y3a09FMjFNdDFJYmlHQTBEcHF2a1cwQmM0SGRmbmM3VUkwOFJYTjlva1BYc0UzWkVGV2FrYTJLS2h1eE9ybjlmeGVaeExfVzFPQi1na0kwR2RwZTMxODJ1?oc=5)
-
-2026-08-07 <span class="news-indication-tag">cancer</span>
-
-來源：[The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1pVVkFJVGhpTWNyaTVqRXltSFNRN1EwMkpfcVBMZURDX05pcHRUY3FFancxQmFOaFJkQjU2eGd1UVd0NnQ1RlI2eFFaV2JwRFR2WXVyTE16WWM0ajNjekR1dF94YzlfWXIwLWNRNnVFZ2xCSmtuWTB6RDV5QXFnYWJyWFR4QkYtdlo4dWZZRdIBlAFBVV95cUxPT3NSRVJpYmtYeVZVeHRPYlhiQTJHMkh0azlWYzRoQTY0S0dXQWJMSzNJeFBVTlZybXVMN1Y3a09FMjFNdDFJYmlHQTBEcHF2a1cwQmM0SGRmbmM3VUkwOFJYTjlva1BYc0UzWkVGV2FrYTJLS2h1eE9ybjlmeGVaeExfVzFPQi1na0kwR2RwZTMxODJ1?oc=5)
-
----
-
 ### [Krebserkrankungen werden häufiger](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kajh4cm9teEE4WVRhUWxMRk1IZjVqV0c0eWh0U0JIcEhGb1RTTVZrYTRjNHNvU0xWNS1TdnBERU1VSkMxR283OHdwTEcxUW1fTExaWjZOUVdfRXoybmVxcmg3aXJjbG53VFVPZlhTeDBOMlU?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Krebs</span>
@@ -214,11 +262,11 @@ permalink: /news/palbociclib/
 
 ---
 
-### [Millennials stärker gefährdet: 40- bis 60-Jährige entwickeln mehr Krebs als Eltern und Großeltern - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3oxWElnV2lHLXdPZE9tRnREZGtCQzYyUW15Z0tGWXF4WjE1R1JDbkVLanlTRzZrQU10SkRRQ1liQUJjUnRGSEREdlJOZlY3cklJLW5oREowTkItMWtfTng0RnZiMVkxd0VoRjBtYTFEUTFnZ2toT1ZFaC1kMGhyZFRkNVVuM3pjSHhPYXpnc3lVWi1VRlhQSFNjUFpnaVJqeF83NVBIMXZPcTNrbllDb2hxcUM?oc=5)
+### [Millennials stärker gefährdet: 40- bis 60-Jährige entwickeln mehr Krebs als Eltern und Großeltern](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3oxWElnV2lHLXdPZE9tRnREZGtCQzYyUW15Z0tGWXF4WjE1R1JDbkVLanlTRzZrQU10SkRRQ1liQUJjUnRGSEREdlJOZlY3cklJLW5oREowTkItMWtfTng0RnZiMVkxd0VoRjBtYTFEUTFnZ2toT1ZFaC1kMGhyZFRkNVVuM3pjSHhPYXpnc3lVWi1VRlhQSFNjUFpnaVJqeF83NVBIMXZPcTNrbllDb2hxcUM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">tumor</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3oxWElnV2lHLXdPZE9tRnREZGtCQzYyUW15Z0tGWXF4WjE1R1JDbkVLanlTRzZrQU10SkRRQ1liQUJjUnRGSEREdlJOZlY3cklJLW5oREowTkItMWtfTng0RnZiMVkxd0VoRjBtYTFEUTFnZ2toT1ZFaC1kMGhyZFRkNVVuM3pjSHhPYXpnc3lVWi1VRlhQSFNjUFpnaVJqeF83NVBIMXZPcTNrbllDb2hxcUM?oc=5)
+來源：[fr.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3oxWElnV2lHLXdPZE9tRnREZGtCQzYyUW15Z0tGWXF4WjE1R1JDbkVLanlTRzZrQU10SkRRQ1liQUJjUnRGSEREdlJOZlY3cklJLW5oREowTkItMWtfTng0RnZiMVkxd0VoRjBtYTFEUTFnZ2toT1ZFaC1kMGhyZFRkNVVuM3pjSHhPYXpnc3lVWi1VRlhQSFNjUFpnaVJqeF83NVBIMXZPcTNrbllDb2hxcUM?oc=5)
 
 ---
 
@@ -259,14 +307,6 @@ permalink: /news/palbociclib/
 2026-08-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 來源：[News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2JWYVRuVENMZnFUb1JVMlpsNVJXRkRCdnpMTHRfd0dRcGE2SlhHQlJDbVhnSHRJeV9YTHNyWlV2Z1hhOXdPQ2ZIZkZuek04SGEtanFWU3A2dy1LdWkyZC1uc2FreS1KeHBCTXZaZzlMVG9BbHM3cTB5SENvUVRoQ0I3R2VDQi1FU2J1TS1RMUlrYTFtYUlOYUpIbmZUbTdrZWFvWG1QV3AyQnU1MjN6M2hZZ2tlZjBxcFZQZU5PaUdDUEJ6?oc=5)
-
----
-
-### [Brain cancer ‘breakthrough’ as scientists uncover new windows of opportunity for treatment - The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHZIWFM0YXVXVmZmZGo4TmhZY0V1U1d3d0FVWUV5V2hna09zRkx5MVd1R2RrbVIzMWNpbnNqN3FBOFpnalJ0WEZMUmhhV1hEQnR2Y0tja0hNYm95eEZjNUFkZnNBa25iNmZZb05ITW9LeGd3YUNNc2FKTXFjc1ZfX1ZMX0xTVTZkaWpLZnJSUTZmZmNrNTFXZzNtdlA4Qm1CY3Z1RVd6STNBSG1lYzRqVWVIV0dBR1E?oc=5)
-
-2026-08-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHZIWFM0YXVXVmZmZGo4TmhZY0V1U1d3d0FVWUV5V2hna09zRkx5MVd1R2RrbVIzMWNpbnNqN3FBOFpnalJ0WEZMUmhhV1hEQnR2Y0tja0hNYm95eEZjNUFkZnNBa25iNmZZb05ITW9LeGd3YUNNc2FKTXFjc1ZfX1ZMX0xTVTZkaWpLZnJSUTZmZmNrNTFXZzNtdlA4Qm1CY3Z1RVd6STNBSG1lYzRqVWVIV0dBR1E?oc=5)
 
 ---
 

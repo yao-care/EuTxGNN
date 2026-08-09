@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Clopidogrel (As Hydrochloride) 有什麼相關新聞？">
-<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Clopidogrel (As Hydrochloride)</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [Migräne im Alter: Chronisch wird sie deutlich häufiger, Aura und Intensität verändern sich - it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVE2NVZzV1lid2xPbC1ISU1fZU5CNUxwWlBFaVp2QkZZNzc2MEtMVmQ3ZzM5c2YyUngydzJPb2NxaHFrdFpJbUp3a2I2LWdTbUJZTzlmeG5KMlo0SzZfSEFDRS1JVml5a0xQc1ZoV3FKSXd5NzNTQmpPWWVWenV1TTd3cW1fN2tKR3VOSDY5MFJHWkkxbGYzLUs3THotQVVmdGEzRW1SaXpPZ3hKVVk1bFFzTGZJajg3YkJZRGZVMXN4dw?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
 

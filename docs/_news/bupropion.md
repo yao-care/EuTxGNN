@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [Contaminación, sedentarismo, obesidad, entre los factores que han disparado las cifras de asma en Chile](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [Bauchfett und Vitamin-D-Mangel: Sterberisiko ab 50 um 123% erhöht - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFhoMUhTS0FabklEVmd2NEU3X2ptWmZkVXpraHJVMzRoLUkxMjYxVkxEN1ZVbUthZG50cV9BbWZNaFlfaGs0bF9DVlFMOFZBZXhubFNfWGdod2RPbndwSVJydUptOUNDVm9UWWlOZUNmVzFGZVlXalF2U21wX2FTTjdTWm9wMG5qaXZ2OTNfeTBLUWF3OG9idlI2YXlUdEU3MjVhY0FBUE01cFJMdlZ6VWFlTWR3S1l1WFJvTWFB?oc=5)
 
@@ -70,27 +62,19 @@ permalink: /news/bupropion/
 
 ---
 
-### [Il caso del ragazzino di 170 kg e l’inchiesta BBC: i bambini italiani sono sempre più grassi? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF40gHGAUFVX3lxTE9MRzF4NmVkaENZWDB6VUdQSGFWejJzUjIya2ZGNWRhRHI5ZGRfSGFZVzdVYmhPM2NQaHNBVnRuUDluQVZUdU5hZDg1R1AyMUJIUEc4eHpHa0QyOUJ5VmxsUVo3N1EzSkhsN1YyMVJCNk15MXdSdzVDR2xrdWdFZDhkMmhfWVEzWlNpWDNDSVd6ZHNnSmw4QXRqZXM0bWxtbFJlRWhPZElfUzJrbXRvb2N4V0JFLUpIWmd1ZElFTTVCTVNTM0JOZw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">obesità</span>
-
-來源：[La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMijAJBVV95cUxOUG4wdXVxSE5yVXQtZEI1d3FHTU15cXFWVXhlV3luclg0cTBab2F3dE0yVV9FMVVUMGZXT1VCSnA1WktVcVJILVMySWtGdVo4SEpfQ1h6WFVWNHhYTW8zMEVUWmZJNTRqOUhQcTQyUEh5TDNTQm5Walk5Nk1ldDVCY3MxTlktOFRXc1NoUVRWc2gxNEpJLTJhYXVwNnJKRDhqY1lLVkFRSXltYjBURVRpMTcxU2NBUHY1MzhnbUdUZUw2YkRfMU1yZnltM1FHZWZoV1dGeHNPTExpSWlxX3hsY1JmSzNtSHpMWGs5dHU3aE1xZnpWU0VTcFdnbEpyeWVPZTNUVXdQQ3BWZVF40gHGAUFVX3lxTE9MRzF4NmVkaENZWDB6VUdQSGFWejJzUjIya2ZGNWRhRHI5ZGRfSGFZVzdVYmhPM2NQaHNBVnRuUDluQVZUdU5hZDg1R1AyMUJIUEc4eHpHa0QyOUJ5VmxsUVo3N1EzSkhsN1YyMVJCNk15MXdSdzVDR2xrdWdFZDhkMmhfWVEzWlNpWDNDSVd6ZHNnSmw4QXRqZXM0bWxtbFJlRWhPZElfUzJrbXRvb2N4V0JFLUpIWmd1ZElFTTVCTVNTM0JOZw?oc=5)
-
----
-
-### [El curioso gen que protege nuestra salud metabólica](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
-
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
-
----
-
 ### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
 
 2026-08-07 <span class="news-indication-tag">obesity</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
+
+---
+
+### [Descubren la edad en la que es más fácil revertir la obesidad infantil: actuar antes de los 6 años es clave](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkhoOFlKVnZTel84VkpSb0FyWVJCVE9BdnR6aEgyaFp2ZzdUQ1BEMTRoV0p5OXZuVENNQndjOXJkdDRQZ05KekNzaTVvOElaRFBTQzlaQldIWjYzcy1SNnJKb1prT21nWnkzbm1fZzZMSDZLYlQwcVYzTElOV1JBMlB1UXo2QUNkN2w1Qy1fZldJNlE1QzJEYUhVWHlJVnJRQndrejJMdlV4RHpFdmhiUUVVZDdhdlgtMUJHZHZXWE1hWl82VUYxTWxod0ZTVXk0YU5xRHhVUUE2Q2M4UHlpTmpDMEtib2xmdFUyQ1VUdVdVdldNMTVFQ0x2SG1OUXAxc1HSAYICQVVfeXFMTWhFUV9rdTVvbTRYUzMzeE54RUhhaGNtMWh1ZVFYMWlPdWVnbzBzckR0b01RaFpHbFJrWVA5emVrTmpxSnpaUjZXbm5BWUFpX3VIdGMwYkVwNkVkenZWWDMxZTVnUjl4aGo1X295RmpNM3dMNnA1WFdyMHlEYnVlZ0lRWTY4WHVoZ29mdWhhWDlJMV9vVU5JRS1zMm5mNFJuYUlHLVZkdnBBdDZmY0x2TFBYbG9iMkRuM0I4TFdEWjlzT21yQXd3QzFHWXI5Z1pjNWNSQ0s3V0Y3ZWRkQVJTMlJ5R1RwZnpJX0tXeTlFU0MxYUJCMThTVnVrRkpncmRxUXpR?oc=5)
+
+2026-08-07 <span class="news-indication-tag">obesidad</span>
+
+來源：[Atresmedia](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQkhoOFlKVnZTel84VkpSb0FyWVJCVE9BdnR6aEgyaFp2ZzdUQ1BEMTRoV0p5OXZuVENNQndjOXJkdDRQZ05KekNzaTVvOElaRFBTQzlaQldIWjYzcy1SNnJKb1prT21nWnkzbm1fZzZMSDZLYlQwcVYzTElOV1JBMlB1UXo2QUNkN2w1Qy1fZldJNlE1QzJEYUhVWHlJVnJRQndrejJMdlV4RHpFdmhiUUVVZDdhdlgtMUJHZHZXWE1hWl82VUYxTWxod0ZTVXk0YU5xRHhVUUE2Q2M4UHlpTmpDMEtib2xmdFUyQ1VUdVdVdldNMTVFQ0x2SG1OUXAxc1HSAYICQVVfeXFMTWhFUV9rdTVvbTRYUzMzeE54RUhhaGNtMWh1ZVFYMWlPdWVnbzBzckR0b01RaFpHbFJrWVA5emVrTmpxSnpaUjZXbm5BWUFpX3VIdGMwYkVwNkVkenZWWDMxZTVnUjl4aGo1X295RmpNM3dMNnA1WFdyMHlEYnVlZ0lRWTY4WHVoZ29mdWhhWDlJMV9vVU5JRS1zMm5mNFJuYUlHLVZkdnBBdDZmY0x2TFBYbG9iMkRuM0I4TFdEWjlzT21yQXd3QzFHWXI5Z1pjNWNSQ0s3V0Y3ZWRkQVJTMlJ5R1RwZnpJX0tXeTlFU0MxYUJCMThTVnVrRkpncmRxUXpR?oc=5)
 
 ---
 

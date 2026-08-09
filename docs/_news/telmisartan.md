@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（9 則）
+
+### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
+
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
+
+---
+
+### [Demenzprävention: Rauchen, Bluthochdruck, Diabetes kosten 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+
+---
 
 ### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
 
 2026-08-08 <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
+
+---
+
+### [Cómo la música puede ayudar a reducir el dolor (e incluso a tratar los síntomas de un ictus) - National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
+
+2026-08-08 <span class="news-indication-tag">ictus</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
 
 ---
 
@@ -86,19 +110,19 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+### [Versteckter Bluthochdruck: Das sind die größten Risikofaktoren laut Experten](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
+來源：[abendblatt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWFHS05HVjNCUkNHQTJfd0g2MWtjOV9iM1cxQzJVdlVTMmdTX2VmLS1tNjQ5YnlVcGZ4cWdqaFcySWFhZFc3b2xLaEExbGtFaDJyYjQ3Qy11Q2t2a09fVjI4cmg2bmFvY0d1RDM4QlpkV0hFUXNzSExrNHU2amI2bGZzX09sa3Frem5YekxBS09weXRWRC1lZnhXeWJDazBCR3hORlZ2RXZCdGhaNHFCOTZJMTdFMjZ1ZG9YNzNCSUNTdG8tMzBpNmZ3?oc=5)
 
 ---
 
-### [Schlaganfallpatienten besser vor Herzinfarkten schützen](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+### [Schlaganfallpatienten besser vor Herzinfarkten schützen - MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Schlaganfall</span>
 
-來源：[medecon.ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
+來源：[MedEcon Ruhr](https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZfSUxHcHF4VTFXaW02ZGZhSmRUQUZCTm1MMlBNbXpVRmxWOUl4Q050M1d6ZHpuRnhqenZFMGFZY1pMc0NDM1gtay1CSTNMckFLTnNCQWQ0LVFjOUVGTnZvZm85VDRzaXBSNnN6LW1zRDhPcE9wTEdrei13a2JDcDJ3ai1YVzBUcVQtdm9QRQ?oc=5)
 
 ---
 

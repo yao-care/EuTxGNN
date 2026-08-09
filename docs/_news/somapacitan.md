@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="Somapacitan 有什麼相關新聞？">
-<strong>Somapacitan</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Somapacitan</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/somapacitan/
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
 
-### [Contaminación, sedentarismo, obesidad, entre los factores que han disparado las cifras de asma en Chile](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
+### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
-2026-08-08 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">obesidad</span>
+2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
-來源：[novaciencia.es](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXR2RUJ1cE1VUXAxMlJRUjRiZXVTLTN6ZE5hbTNJY1pXZWxqVkFMZENaOC0zcTAyVkhSVnNpdTNBdGlSYlBkV19Oc1NOaXBWNlIxM3BkSlhsXy1nWVpJb2gxYnZVWWVCYVFMSlExQ2lqTUhjS2o4d2VoelhMTmU3QS1qUHVQLUNQaXRUNnBPTnFxdEZFVF9vSTcxcHI3RXd6OVJoNVQtd2RCenFzaVNMRy1LTXdTNGcxZml3VmhvcFA4Zw?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 ---
 
-### [Ketogene Diät: 10,5-Punkte-Verbesserung bei schwerer Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhlM1c5UjVsQzBaem05ZXBRTmlEUFlTdmdyLUNxZkVpeDBVUmtMd1VSRVlTcjZ6cXptSGcyQkIwdFMtaFpxQVU2Zm5QUjBUVHZsUlNSSlZQb2pPalVIMU0zUzNEUmhDTkptME1PZzEzWFZWQU8ybUFCeHlqWW4yanh4eVlKcERNV3BxdXZ0S3k3VXo1MFJlaDEzRTdIVFdKVHUzaWZsTWVQMVRDWGwwb2d3?oc=5)
+### [Demenzprävention: Rauchen, Bluthochdruck, Diabetes kosten 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
 
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhlM1c5UjVsQzBaem05ZXBRTmlEUFlTdmdyLUNxZkVpeDBVUmtMd1VSRVlTcjZ6cXptSGcyQkIwdFMtaFpxQVU2Zm5QUjBUVHZsUlNSSlZQb2pPalVIMU0zUzNEUmhDTkptME1PZzEzWFZWQU8ybUFCeHlqWW4yanh4eVlKcERNV3BxdXZ0S3k3VXo1MFJlaDEzRTdIVFdKVHUzaWZsTWVQMVRDWGwwb2d3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
+
+---
+
+### [Más de 27.000 salmantinos tienen diabetes y 380 recurren ya a bombas de insulina - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2lfbTRZTGxsOUI5Ylp5WThNdzZnUWMtZWJJeXJ0dWNzanBlTlZ3eXVPS0VBRVBQTE9YUjlxV2wzcGJqUk12Smg4WmZ2RWF4N2VtOWtsNDliSFZEWjJsWTVBUkxrSHBMel9WczZMbHBES1FsVUN4XzVkMmRzcVRpWVhOYnlOeHNTTEZOQWNfdXJnVnRhTWk0TUZSZHpKb3I1SzJWSTZBb0dua3dFa0VHRXBfNWJPNnA2MElLbUtEZG5iRHg0bkEtSA?oc=5)
+
+2026-08-08 <span class="news-indication-tag">diabetes</span>
+
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2lfbTRZTGxsOUI5Ylp5WThNdzZnUWMtZWJJeXJ0dWNzanBlTlZ3eXVPS0VBRVBQTE9YUjlxV2wzcGJqUk12Smg4WmZ2RWF4N2VtOWtsNDliSFZEWjJsWTVBUkxrSHBMel9WczZMbHBES1FsVUN4XzVkMmRzcVRpWVhOYnlOeHNTTEZOQWNfdXJnVnRhTWk0TUZSZHpKb3I1SzJWSTZBb0dua3dFa0VHRXBfNWJPNnA2MElLbUtEZG5iRHg0bkEtSA?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ permalink: /news/somapacitan/
 2026-08-08 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">asthma</span>
 
 來源：[tagesschau.de](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdndHlSMElBS1dvX2RWZ0ltMTkxc2tjVjUzd1ZvSUJEYlhFaXZ3NVVjN3o3cXJXcTBBY21NU2JVaXRvSElfRWlPNUR1OGlZMVhZd2ltcWlrR090TGxSYjNlVWdib2lLZlhWS0tvd2kwMnp2QkcyZTVkMTBFRnRyR1FUX0U?oc=5)
-
----
-
-### [El curioso gen que protege nuestra salud metabólica](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
-
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
 
 ---
 
@@ -110,11 +110,19 @@ permalink: /news/somapacitan/
 
 ---
 
-### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
+### [Un estudio revela tres factores a evitar a los 50 asociados con décadas de vida sin demencia: “La presión arterial, la diabetes y el tabaquismo son cruciales en la mediana edad” - La Vanguardia](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVm0xbTVyVXRJenlCZ1RzdlZFdlp3dDVSVXpaQm9TclpsSDR6eURZNWZzRElxNnNJMTN1aEpjdF9tOWVCUEE3T1ZuVUdhVC14TXRMb3J3emRKa3FsbVp3c2ptbExyNXE0cGJyQVQ2dnM5RUJsZ3ZwS2dRMUdBMTVRdDBtZDRKV3dCSWxGVU0zREgwMU9vdHQ1MHFqRFozMFUxWVZGLTJwN29QRmpoNjEzUmI1b3ZiSkpScjFNUkNDcFB4cGJzT1hRWUpXbkg2SG9JTFZfOHJ4SUlDdFJJS0Mtd2FvZmNxY0Zxdjl2VFZoSnNfRXlPdWdKU3lqck56SFk4cnA2ZFU1a0VnRkJxRzRhcDB5V05BZkQyTG1SY0t6M09vQk84ZWRwSEUtaUpZZ9IBswJBVV95cUxQQVFCOHlZVXpoQUVTR202UnRVdVMxRHlKNzlpZHNjMU1rd2V1OVZfOXNfb3JXX3NHSWUzTVpOSklYT2RxeDV4dHZiaFFHTHJGeDFUNGlZRVpTVTJ5Ui1BUzlBYW1EbWhiMWYzSjFnSGJGc2ZDank1VjkyRXVpMjQ5YUlrR3VXYlI1eXd4UVJhNjhTSWNCMlVMWVNhNkN5bXRBbi1xY0hBSGRodU9qOWNHOWhHT19xNEVabkdYUWxERWM3RHhfbW1VamFvQzQwb05zanRsWVBEQnJUcnAtbkR4bE14VnFwYm9vaWpSX18zelMzVnVObmxLbjRYU1pRVHJjT1FnX3ZRTE1faTQ5SGVnMVNjVXd2ekxPR01pR2hvS2c2bnhsUDcxblB0R3ljS1lHMWdn?oc=5)
+
+2026-08-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVm0xbTVyVXRJenlCZ1RzdlZFdlp3dDVSVXpaQm9TclpsSDR6eURZNWZzRElxNnNJMTN1aEpjdF9tOWVCUEE3T1ZuVUdhVC14TXRMb3J3emRKa3FsbVp3c2ptbExyNXE0cGJyQVQ2dnM5RUJsZ3ZwS2dRMUdBMTVRdDBtZDRKV3dCSWxGVU0zREgwMU9vdHQ1MHFqRFozMFUxWVZGLTJwN29QRmpoNjEzUmI1b3ZiSkpScjFNUkNDcFB4cGJzT1hRWUpXbkg2SG9JTFZfOHJ4SUlDdFJJS0Mtd2FvZmNxY0Zxdjl2VFZoSnNfRXlPdWdKU3lqck56SFk4cnA2ZFU1a0VnRkJxRzRhcDB5V05BZkQyTG1SY0t6M09vQk84ZWRwSEUtaUpZZ9IBswJBVV95cUxQQVFCOHlZVXpoQUVTR202UnRVdVMxRHlKNzlpZHNjMU1rd2V1OVZfOXNfb3JXX3NHSWUzTVpOSklYT2RxeDV4dHZiaFFHTHJGeDFUNGlZRVpTVTJ5Ui1BUzlBYW1EbWhiMWYzSjFnSGJGc2ZDank1VjkyRXVpMjQ5YUlrR3VXYlI1eXd4UVJhNjhTSWNCMlVMWVNhNkN5bXRBbi1xY0hBSGRodU9qOWNHOWhHT19xNEVabkdYUWxERWM3RHhfbW1VamFvQzQwb05zanRsWVBEQnJUcnAtbkR4bE14VnFwYm9vaWpSX18zelMzVnVObmxLbjRYU1pRVHJjT1FnX3ZRTE1faTQ5SGVnMVNjVXd2ekxPR01pR2hvS2c2bnhsUDcxblB0R3ljS1lHMWdn?oc=5)
+
+---
+
+### [La falta de adherencia se relaciona con un aumento de las exacerbaciones de asma, EPOC y bronquiectasias - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
 
 2026-08-07 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">EPOC</span>
 
-來源：[immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
+來源：[IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjFVamFBcG5EMEJfcDhVdG51dEdMNHNqQjBTS19TNFlaSjllWUJ5WjgtOFE5dm9JbFRic3UxajBfZGJ3Yk1IWlRXOWNqUi03dlpGVEJGS3pRamxNSjlpQzVqZG5sem9udUxhTS1xcDVIR3dLbEIyVm8xMExGWU5VTmxwSnQ5NzduTlVXcVdRWl82MDd3OUNYcTgxSGtUUXByelZZdFh0YW1qWlRsOFpQVWZPbW91OTB4WmlwSG5vV3DSAbsBQVVfeXFMTTNabVZ1Nnl1OVBqb1VjZHcxcG5yaU1XZDRrX1NLYXdoeTk1aGhHcjl0eFdpQ1FPVW0yVkJIZU1YWXVZTHpuVHo3Nm5jOVlVTFJNVHJzVkQ0eG1xQjAyZElZOTQxVHc0SndJNkpaeU9ab2pheUVCSlZ2M1h2bndxODRRcVQySlBKVlNENWY3cDVad3hZT3dtVTcwcW9VZExHbnUxX1M2QUxEbXUxMjU1Mjdfa2ZWY3dnVmtpZw?oc=5)
 
 ---
 
@@ -142,11 +150,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - Ufficio Stampa della Provincia autonoma di Trento](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEsxVHJCa0tHcUV4VGRUSklPRmJLbU5ELTVfdzNiai1zTGFPM1JFcFg1OVZoam9FYW1PWjlOUzU1My10eV9XSVFkMUI4dy03ZVQwRE54S2NVOVU5T1VFT0VueUw0TVhqcTdKal9YUFY2UWZzUnZUckxJeUsxa1FmaTdXUWhjYnJTN2R5OUFKZ3huSVJOcE9ES01pWWNlS2ZkZFNVMUNnV1lUNXRyTGxpUDlDaVJMcGc?oc=5)
+### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 2026-08-07 <span class="news-indication-tag">diabete</span>
 
-來源：[Ufficio Stampa della Provincia autonoma di Trento](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEsxVHJCa0tHcUV4VGRUSklPRmJLbU5ELTVfdzNiai1zTGFPM1JFcFg1OVZoam9FYW1PWjlOUzU1My10eV9XSVFkMUI4dy03ZVQwRE54S2NVOVU5T1VFT0VueUw0TVhqcTdKal9YUFY2UWZzUnZUckxJeUsxa1FmaTdXUWhjYnJTN2R5OUFKZ3huSVJOcE9ES01pWWNlS2ZkZFNVMUNnV1lUNXRyTGxpUDlDaVJMcGc?oc=5)
+來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 ---
 
@@ -158,11 +166,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Retinopatia diabetica: non è soltanto colpa dello zucchero. Il dialogo tra cellule che danneggia la retina](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
+### [La “memoria” de la prediabetes en el tejido adiposo se mantiene incluso tras la cirugía bariátrica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdm4zdGhicWVXaDBGRXI2cDdfSnFRV1pLcEpxV2xNZGU3Wlp4dW1FVWtmLTVUbno1QjRSSGtweUQtdndNMUgwNTFYYWlBaDFrdzlCWmFzeTJQcmtjRGxvVFhIZ243Rkd2c2pndmNCZXR6V2pSNFA1MlZsVThvNzhxa2o0OWV6SnNMVXNEajdzQ2FfVk9YaC1NZG1MTTFzR1dhVHVMdEpoVjZoQnRsMThVZE5PT2dDT2ZISGd3RnlhVkw3TWZXdjFOMTRhbV9GSW14OGtzeC1kT3gyY2c?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetic</span>
+2026-08-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdm4zdGhicWVXaDBGRXI2cDdfSnFRV1pLcEpxV2xNZGU3Wlp4dW1FVWtmLTVUbno1QjRSSGtweUQtdndNMUgwNTFYYWlBaDFrdzlCWmFzeTJQcmtjRGxvVFhIZ243Rkd2c2pndmNCZXR6V2pSNFA1MlZsVThvNzhxa2o0OWV6SnNMVXNEajdzQ2FfVk9YaC1NZG1MTTFzR1dhVHVMdEpoVjZoQnRsMThVZE5PT2dDT2ZISGd3RnlhVkw3TWZXdjFOMTRhbV9GSW14OGtzeC1kT3gyY2c?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="Treosulfan 有什麼相關新聞？">
-<strong>Treosulfan</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treosulfan</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/treosulfan/
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
-### [Ketogene Diät: 10,5-Punkte-Verbesserung bei schwerer Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhlM1c5UjVsQzBaem05ZXBRTmlEUFlTdmdyLUNxZkVpeDBVUmtMd1VSRVlTcjZ6cXptSGcyQkIwdFMtaFpxQVU2Zm5QUjBUVHZsUlNSSlZQb2pPalVIMU0zUzNEUmhDTkptME1PZzEzWFZWQU8ybUFCeHlqWW4yanh4eVlKcERNV3BxdXZ0S3k3VXo1MFJlaDEzRTdIVFdKVHUzaWZsTWVQMVRDWGwwb2d3?oc=5)
+### [Demenzprävention: Rauchen, Bluthochdruck, Diabetes kosten 13 Jahre - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
 
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhlM1c5UjVsQzBaem05ZXBRTmlEUFlTdmdyLUNxZkVpeDBVUmtMd1VSRVlTcjZ6cXptSGcyQkIwdFMtaFpxQVU2Zm5QUjBUVHZsUlNSSlZQb2pPalVIMU0zUzNEUmhDTkptME1PZzEzWFZWQU8ybUFCeHlqWW4yanh4eVlKcERNV3BxdXZ0S3k3VXo1MFJlaDEzRTdIVFdKVHUzaWZsTWVQMVRDWGwwb2d3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalY1QkZxYUM3TDN0Qm1EVFlwMmpvVWxyM1h0X2cxVjVYUlM5cm0ybU1rZ3prdTBQZWRDczNOcGlnOVpHV1ZhYnZvVzlPNTNlYktSRDJ2dWtoLVRidC1LdTRwMVRwUzRJRi1lRVkwR010Z01kcUMxNUlDRm1zU1VybHBGeXJuSHk2Q29zdTFDaFdRdExNODF4QWtNVDJXdWR0UVJhM25YbXdqbmg2Y0Q3c281SQ?oc=5)
 
 ---
 
-### [El curioso gen que protege nuestra salud metabólica](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
+### [Más de 27.000 salmantinos tienen diabetes y 380 recurren ya a bombas de insulina - Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2lfbTRZTGxsOUI5Ylp5WThNdzZnUWMtZWJJeXJ0dWNzanBlTlZ3eXVPS0VBRVBQTE9YUjlxV2wzcGJqUk12Smg4WmZ2RWF4N2VtOWtsNDliSFZEWjJsWTVBUkxrSHBMel9WczZMbHBES1FsVUN4XzVkMmRzcVRpWVhOYnlOeHNTTEZOQWNfdXJnVnRhTWk0TUZSZHpKb3I1SzJWSTZBb0dua3dFa0VHRXBfNWJPNnA2MElLbUtEZG5iRHg0bkEtSA?oc=5)
 
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-08-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[elDiario.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDFSa19jZlFTXzMxQk5uRENPRzhDcmEtV3gtaFJ5dkxieFA0b2lFcHk1X2I0MmFGTjFmbDl6UGhqSTNOdXd0VndDUmt0cHZ6dVM5Tkt0d3VjXzZpc2Y5Q1hvVXFQU1BPNmFvbThOWmdfWXR6VGh0My16QWN4VkVDcFlWQ0FJSEZYd3plZjhWYnIzNEZoRVp4YnhIeXNTZTB0MEE?oc=5)
+來源：[Tribuna de Salamanca.](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2lfbTRZTGxsOUI5Ylp5WThNdzZnUWMtZWJJeXJ0dWNzanBlTlZ3eXVPS0VBRVBQTE9YUjlxV2wzcGJqUk12Smg4WmZ2RWF4N2VtOWtsNDliSFZEWjJsWTVBUkxrSHBMel9WczZMbHBES1FsVUN4XzVkMmRzcVRpWVhOYnlOeHNTTEZOQWNfdXJnVnRhTWk0TUZSZHpKb3I1SzJWSTZBb0dua3dFa0VHRXBfNWJPNnA2MElLbUtEZG5iRHg0bkEtSA?oc=5)
 
 ---
 
@@ -94,6 +94,14 @@ permalink: /news/treosulfan/
 
 ---
 
+### [Un estudio revela tres factores a evitar a los 50 asociados con décadas de vida sin demencia: “La presión arterial, la diabetes y el tabaquismo son cruciales en la mediana edad” - La Vanguardia](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVm0xbTVyVXRJenlCZ1RzdlZFdlp3dDVSVXpaQm9TclpsSDR6eURZNWZzRElxNnNJMTN1aEpjdF9tOWVCUEE3T1ZuVUdhVC14TXRMb3J3emRKa3FsbVp3c2ptbExyNXE0cGJyQVQ2dnM5RUJsZ3ZwS2dRMUdBMTVRdDBtZDRKV3dCSWxGVU0zREgwMU9vdHQ1MHFqRFozMFUxWVZGLTJwN29QRmpoNjEzUmI1b3ZiSkpScjFNUkNDcFB4cGJzT1hRWUpXbkg2SG9JTFZfOHJ4SUlDdFJJS0Mtd2FvZmNxY0Zxdjl2VFZoSnNfRXlPdWdKU3lqck56SFk4cnA2ZFU1a0VnRkJxRzRhcDB5V05BZkQyTG1SY0t6M09vQk84ZWRwSEUtaUpZZ9IBswJBVV95cUxQQVFCOHlZVXpoQUVTR202UnRVdVMxRHlKNzlpZHNjMU1rd2V1OVZfOXNfb3JXX3NHSWUzTVpOSklYT2RxeDV4dHZiaFFHTHJGeDFUNGlZRVpTVTJ5Ui1BUzlBYW1EbWhiMWYzSjFnSGJGc2ZDank1VjkyRXVpMjQ5YUlrR3VXYlI1eXd4UVJhNjhTSWNCMlVMWVNhNkN5bXRBbi1xY0hBSGRodU9qOWNHOWhHT19xNEVabkdYUWxERWM3RHhfbW1VamFvQzQwb05zanRsWVBEQnJUcnAtbkR4bE14VnFwYm9vaWpSX18zelMzVnVObmxLbjRYU1pRVHJjT1FnX3ZRTE1faTQ5SGVnMVNjVXd2ekxPR01pR2hvS2c2bnhsUDcxblB0R3ljS1lHMWdn?oc=5)
+
+2026-08-07 <span class="news-indication-tag">diabetes</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMirgJBVV95cUxPVm0xbTVyVXRJenlCZ1RzdlZFdlp3dDVSVXpaQm9TclpsSDR6eURZNWZzRElxNnNJMTN1aEpjdF9tOWVCUEE3T1ZuVUdhVC14TXRMb3J3emRKa3FsbVp3c2ptbExyNXE0cGJyQVQ2dnM5RUJsZ3ZwS2dRMUdBMTVRdDBtZDRKV3dCSWxGVU0zREgwMU9vdHQ1MHFqRFozMFUxWVZGLTJwN29QRmpoNjEzUmI1b3ZiSkpScjFNUkNDcFB4cGJzT1hRWUpXbkg2SG9JTFZfOHJ4SUlDdFJJS0Mtd2FvZmNxY0Zxdjl2VFZoSnNfRXlPdWdKU3lqck56SFk4cnA2ZFU1a0VnRkJxRzRhcDB5V05BZkQyTG1SY0t6M09vQk84ZWRwSEUtaUpZZ9IBswJBVV95cUxQQVFCOHlZVXpoQUVTR202UnRVdVMxRHlKNzlpZHNjMU1rd2V1OVZfOXNfb3JXX3NHSWUzTVpOSklYT2RxeDV4dHZiaFFHTHJGeDFUNGlZRVpTVTJ5Ui1BUzlBYW1EbWhiMWYzSjFnSGJGc2ZDank1VjkyRXVpMjQ5YUlrR3VXYlI1eXd4UVJhNjhTSWNCMlVMWVNhNkN5bXRBbi1xY0hBSGRodU9qOWNHOWhHT19xNEVabkdYUWxERWM3RHhfbW1VamFvQzQwb05zanRsWVBEQnJUcnAtbkR4bE14VnFwYm9vaWpSX18zelMzVnVObmxLbjRYU1pRVHJjT1FnX3ZRTE1faTQ5SGVnMVNjVXd2ekxPR01pR2hvS2c2bnhsUDcxblB0R3ljS1lHMWdn?oc=5)
+
+---
+
 ### [Was ist Diabulimie und wie wird sie behandelt? Die Essstörung junger Menschen mit Typ-1-Diabetes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaEpRZXN6ZGk0V1p5UC1XQUpaM3R0M0hfVlloeklVRW93VVVsWUIxX2ZXQWQxVUtmazZDMUJoYUs0VWZ0RUhWRjdKc0wtSldJaDNGS19PenVna0hRbHNwRVdRN2dHVGRjYUZrTVg1TElxUGl2dm9yQVJmLThyUzZob0g4b2ZjVmxPM2dqTk1JVzFBeUpLb0piTjFpV1VBY3czdFFST0V1cklmaVBFeEYyWFdSX0l5ck1FS2ZPTi1wYzVRZmhGRVlNRWFuLU55d1di?oc=5)
 
 2026-08-07 <span class="news-indication-tag">diabetes</span>
@@ -110,11 +118,11 @@ permalink: /news/treosulfan/
 
 ---
 
-### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - Ufficio Stampa della Provincia autonoma di Trento](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEsxVHJCa0tHcUV4VGRUSklPRmJLbU5ELTVfdzNiai1zTGFPM1JFcFg1OVZoam9FYW1PWjlOUzU1My10eV9XSVFkMUI4dy03ZVQwRE54S2NVOVU5T1VFT0VueUw0TVhqcTdKal9YUFY2UWZzUnZUckxJeUsxa1FmaTdXUWhjYnJTN2R5OUFKZ3huSVJOcE9ES01pWWNlS2ZkZFNVMUNnV1lUNXRyTGxpUDlDaVJMcGc?oc=5)
+### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 2026-08-07 <span class="news-indication-tag">diabete</span>
 
-來源：[Ufficio Stampa della Provincia autonoma di Trento](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEsxVHJCa0tHcUV4VGRUSklPRmJLbU5ELTVfdzNiai1zTGFPM1JFcFg1OVZoam9FYW1PWjlOUzU1My10eV9XSVFkMUI4dy03ZVQwRE54S2NVOVU5T1VFT0VueUw0TVhqcTdKal9YUFY2UWZzUnZUckxJeUsxa1FmaTdXUWhjYnJTN2R5OUFKZ3huSVJOcE9ES01pWWNlS2ZkZFNVMUNnV1lUNXRyTGxpUDlDaVJMcGc?oc=5)
+來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 ---
 
@@ -126,11 +134,11 @@ permalink: /news/treosulfan/
 
 ---
 
-### [Retinopatia diabetica: non è soltanto colpa dello zucchero. Il dialogo tra cellule che danneggia la retina](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
+### [La “memoria” de la prediabetes en el tejido adiposo se mantiene incluso tras la cirugía bariátrica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdm4zdGhicWVXaDBGRXI2cDdfSnFRV1pLcEpxV2xNZGU3Wlp4dW1FVWtmLTVUbno1QjRSSGtweUQtdndNMUgwNTFYYWlBaDFrdzlCWmFzeTJQcmtjRGxvVFhIZ243Rkd2c2pndmNCZXR6V2pSNFA1MlZsVThvNzhxa2o0OWV6SnNMVXNEajdzQ2FfVk9YaC1NZG1MTTFzR1dhVHVMdEpoVjZoQnRsMThVZE5PT2dDT2ZISGd3RnlhVkw3TWZXdjFOMTRhbV9GSW14OGtzeC1kT3gyY2c?oc=5)
 
-2026-08-06 <span class="news-indication-tag">diabetic</span>
+2026-08-07 <span class="news-indication-tag">diabetes</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbmtVS1lHdWxEWFg3WnM2Q2d5em1zU2dpdl9YVFlsS0U2a2ozVWtVUHBBSFlUMTdmYXBkUm9PNUVGVzJIdEp2a0hxLTI3d29MVVlRSVlyX2tJQmtWcEJnY01EWGJhdjBoZkVSVlpwaWlMQzlCX2lkTTlBS3ZQUTNjNWF1ZDJacDZldU82YW5WOUhlUEp0ckFmalJ3b18yX0dfRUNCdWFYWHI0X1lid0dpdWlpdTczLWk4S0prM3U1cEpaMUxnMVZOQ3B3V3M2ZUNpZGlnVnRORUVtejZ1UHVzMUl4X0tEd0FodEVtQU1PSTRGQjNBeURn?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdm4zdGhicWVXaDBGRXI2cDdfSnFRV1pLcEpxV2xNZGU3Wlp4dW1FVWtmLTVUbno1QjRSSGtweUQtdndNMUgwNTFYYWlBaDFrdzlCWmFzeTJQcmtjRGxvVFhIZ243Rkd2c2pndmNCZXR6V2pSNFA1MlZsVThvNzhxa2o0OWV6SnNMVXNEajdzQ2FfVk9YaC1NZG1MTTFzR1dhVHVMdEpoVjZoQnRsMThVZE5PT2dDT2ZISGd3RnlhVkw3TWZXdjFOMTRhbV9GSW14OGtzeC1kT3gyY2c?oc=5)
 
 ---
 

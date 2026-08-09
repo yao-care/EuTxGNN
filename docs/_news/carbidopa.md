@@ -43,19 +43,19 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（3 則）
 
+### [12-Monats-Daten zu Foslevodopa/Foscarbidopa bei Parkinson](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
+
+2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
+
+---
+
 ### [Parkinson's-linked α-synuclein blocks protein transport in neurons, disrupting cells' waste recycling - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHFUTk9qbEZXb0VsbjVsVDJyQjA4Qmc0b09IZEZVa3FWNER1aEVMX2ZQSElVQXNBd0h3NGUzaHcxblV4M3FiNTJnR1dYa2dQNFdlXzNRcXZDbnJwdU53cjk2amZPckVuaWZuU3BuSW04SmRWNU5XblRJN20wV0lBY09yYnFGNVl1LUxoUkd3?oc=5)
 
 2026-08-07 <span class="news-indication-tag">Parkinson's</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHFUTk9qbEZXb0VsbjVsVDJyQjA4Qmc0b09IZEZVa3FWNER1aEVMX2ZQSElVQXNBd0h3NGUzaHcxblV4M3FiNTJnR1dYa2dQNFdlXzNRcXZDbnJwdU53cjk2amZPckVuaWZuU3BuSW04SmRWNU5XblRJN20wV0lBY09yYnFGNVl1LUxoUkd3?oc=5)
-
----
-
-### [Three middle-age health rules could bring an extra 13 years without dementia, experts say - Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
-
-2026-08-07 <span class="news-indication-tag">dementia</span>
-
-來源：[Sky News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2ptamRnTzZhQ29zWU9lR3BCYy1qVnFhLTBPQnpYWlZUZkF6Q2k4LWhaZ3g4TWtXRUJEaU45Wm95QUxWSURqUkZQeW5WUGMtaFhiYVVFb19jQ1l1VDNydS1PajJabUVDVzExTHI3WV9WakEtcjlRbXFJay00QnBxNk9MWjJCdkpNUkp4Vk9tcDlaaGFyTDJEX1BITmhBYUhqaE5vcVdtUjZtQUZWeUN0VGZLdG5JaFJPblRzNlk1UkFhZw?oc=5)
 
 ---
 

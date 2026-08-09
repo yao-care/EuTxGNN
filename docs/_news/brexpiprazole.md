@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="Brexpiprazole 有什麼相關新聞？">
-<strong>Brexpiprazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Brexpiprazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/brexpiprazole/
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Ketogene Diät: 10,5-Punkte-Verbesserung bei schwerer Depression - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhlM1c5UjVsQzBaem05ZXBRTmlEUFlTdmdyLUNxZkVpeDBVUmtMd1VSRVlTcjZ6cXptSGcyQkIwdFMtaFpxQVU2Zm5QUjBUVHZsUlNSSlZQb2pPalVIMU0zUzNEUmhDTkptME1PZzEzWFZWQU8ybUFCeHlqWW4yanh4eVlKcERNV3BxdXZ0S3k3VXo1MFJlaDEzRTdIVFdKVHUzaWZsTWVQMVRDWGwwb2d3?oc=5)
-
-2026-08-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczhlM1c5UjVsQzBaem05ZXBRTmlEUFlTdmdyLUNxZkVpeDBVUmtMd1VSRVlTcjZ6cXptSGcyQkIwdFMtaFpxQVU2Zm5QUjBUVHZsUlNSSlZQb2pPalVIMU0zUzNEUmhDTkptME1PZzEzWFZWQU8ybUFCeHlqWW4yanh4eVlKcERNV3BxdXZ0S3k3VXo1MFJlaDEzRTdIVFdKVHUzaWZsTWVQMVRDWGwwb2d3?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Depressionen: Wie die Krankheit unsere Immunzellen lahmlegt](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 

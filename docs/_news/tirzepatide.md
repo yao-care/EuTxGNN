@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [Il parassita che potrebbe insegnarci a spegnere l’artrite](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
 
 2026-08-07 <span class="news-indication-tag">artrite</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk4yNnhtN2V6b3Fmb194dGZ4N2dfWjRGekpYWlZzQ1lJV1BlWU51dThnSFBwTTE0VlBrcldSN04xLWxpT05SZUxTaWhfSGYzVzV4MjhKc0E2dXpCRG82NmhBRGFpaHJBMlVxb1JmQ3hwN29DY3IteXlyYW51YXdKOUVOcjh3eHVNa0IzNlBSYUNEcDdKMU96RDRlMzhod3l3dmtGWW83ZkkzQi1SMkVkTmkyR0RKUmM?oc=5)
+
+---
+
+### [Life-threatening fat jab warning signs you mustn't dismiss as mild side effects - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUxQdzdlNzJOZDNra19NSlEzQWZtZ3JsVWszeG9jQ3pRcUhiZGZwM2VqaEtGQjRleUYza3pQM3FRR2UxZU5FbWg0U1drdjBWa1dtS082MHhXZW1mMVdFekNnNDNOcDBwZGE2QUVmVF9OX0NrT2E4aXZOSkw4MVR6THRLTTZBenJxYlQzT3hNM0dBSEItV0ZhM2Mxb2xUbEt5bUE?oc=5)
+
+2026-08-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNYUxQdzdlNzJOZDNra19NSlEzQWZtZ3JsVWszeG9jQ3pRcUhiZGZwM2VqaEtGQjRleUYza3pQM3FRR2UxZU5FbWg0U1drdjBWa1dtS082MHhXZW1mMVdFekNnNDNOcDBwZGE2QUVmVF9OX0NrT2E4aXZOSkw4MVR6THRLTTZBenJxYlQzT3hNM0dBSEItV0ZhM2Mxb2xUbEt5bUE?oc=5)
 
 ---
 
