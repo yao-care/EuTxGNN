@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="Bupropion 有什麼相關新聞？">
-<strong>Bupropion</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Bupropion</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/bupropion/
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
 2026-08-09 <span class="news-indication-tag">Adipositas</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
-
----
-
-### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
-
-2026-08-07 <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="Ziconotide 有什麼相關新聞？">
-<strong>Ziconotide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ziconotide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/ziconotide/
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
+
+### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+---
 
 ### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
@@ -67,22 +75,6 @@ permalink: /news/ziconotide/
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
-
-### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[stern.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
----
-
-### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
-
-2026-08-07 <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
 
 ---
 

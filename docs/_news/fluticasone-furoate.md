@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Furoate 有什麼相關新聞？">
-<strong>Fluticasone Furoate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Furoate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/fluticasone-furoate/
 <li>allergic asthma（100.0%）</li>
 <li>intrinsic asthma（100.0%）</li>
 <li>bronchitis（99.9%）</li>
-<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（99.9%）<span class="indication-tag">📰 asma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization（99.9%）</li>
 <li>dermatitis, atopic（99.8%）</li>
 <li>contact dermatitis（99.5%）</li>
@@ -52,7 +52,7 @@ permalink: /news/fluticasone-furoate/
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
@@ -75,14 +75,6 @@ permalink: /news/fluticasone-furoate/
 2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
-
----
-
-### [Studie zeigt: Zucker kann Asthma innerhalb von zwei Wochen verschlechtern - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asthma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 ---
 

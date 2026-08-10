@@ -41,7 +41,7 @@ permalink: /news/somapacitan/
 <li>bronchitis（88.5%）</li>
 <li>exostosis（87.7%）</li>
 <li>hemoglobinuria（87.6%）</li>
-<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asthma</span></li>
+<li class="indication-matched">asthma（86.3%）<span class="indication-tag">📰 asma</span></li>
 <li>tendinitis（85.7%）</li>
 <li>migraine with brainstem aura（85.3%）</li>
 <li>idiopathic granulomatous myositis（84.8%）</li>
@@ -53,6 +53,14 @@ permalink: /news/somapacitan/
 </div>
 
 ## 相關新聞（7 則）
+
+### [Leber-Entzündung: Gen-Variante senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+
+---
 
 ### [Diabetes und Vorhofflimmern: So verlängert Therapietreue Komplikationen um Monate - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
 
@@ -94,19 +102,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [„Schlankheitsgen“ entdeckt – seltene Mutation lässt Fett schneller verbrennen - smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
+### [Una IA permite calcular desde casa el riesgo de diabetes con siete datos, incluida la longitud del muslo - Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
-
----
-
-### [Studie zeigt: Zucker kann Asthma innerhalb von zwei Wochen verschlechtern - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asthma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
 
 ---
 

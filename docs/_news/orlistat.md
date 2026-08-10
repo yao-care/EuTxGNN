@@ -70,19 +70,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Cómo la música puede ayudar a reducir el dolor (e incluso a tratar los síntomas de un ictus) - National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
+
+2026-08-08 <span class="news-indication-tag">ictus</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
+
+---
+
 ### [Schlaganfall-Therapie: Medikamentenwechsel nach ASS bringt keinen Vorteil - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Schlaganfall</span>
 
 來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
-
----
-
-### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
-
-2026-08-07 <span class="news-indication-tag">obesity</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
 
 ---
 

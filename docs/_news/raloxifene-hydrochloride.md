@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
 
 2026-08-08 <span class="news-indication-tag">ictus</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
+
+---
+
+### [Cómo la música puede ayudar a reducir el dolor (e incluso a tratar los síntomas de un ictus) - National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
+
+2026-08-08 <span class="news-indication-tag">ictus</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [My mother’s dementia nightmare says everything about Britain’s social care crisis - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
 
 2026-08-09
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
-
----
-
-### [Durante décadas atacamos las placas del Alzheimer como si fueran el problema principal. Una batalla invisible entre dos proteínas dentro de las neuronas podría explicar por qué tantos tratamientos no funcionaron - Gizmodo en Español](https://news.google.com/rss/articles/CBMiswJBVV95cUxQUGJfYjBVSGtOSF9nNm9rRDBLeUdVeTBaUkE1aGtBOU5WSm1HaGR1bFl4bml0VFp5SlN5bGhLeEJvNXBGbzZoTWRfbGsxQTJuRXl1U1EwU1BtZ2xqbGxReEVnQVNPeGlpLXVubXFJdDc0cW9oYndzRlVmV1lIQUN5N1lFSE5mUUpTaEpVOGR4SlZGTS0tNDlEam1mZHlQQ2lGLVNkcHMtUmNLOUV4NGMzaENkZkFEMUJMLU5PU1hmX2hWVTlnZ3FUenFWOXZKQjU5M1FVTG1BcWZZSW9MSEQ1LW1temtaMl9sMVMxdGVrZE1kcEd4QU95WjdPeEx2TjRsRnJ6TUJVWDFKdnIxakdZRVlBS1NKbXpMZzN4cll1VGFOYWhpRGdhRFc3cEJxWDVyUGdj?oc=5)
-
-2026-08-09
-
-來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMiswJBVV95cUxQUGJfYjBVSGtOSF9nNm9rRDBLeUdVeTBaUkE1aGtBOU5WSm1HaGR1bFl4bml0VFp5SlN5bGhLeEJvNXBGbzZoTWRfbGsxQTJuRXl1U1EwU1BtZ2xqbGxReEVnQVNPeGlpLXVubXFJdDc0cW9oYndzRlVmV1lIQUN5N1lFSE5mUUpTaEpVOGR4SlZGTS0tNDlEam1mZHlQQ2lGLVNkcHMtUmNLOUV4NGMzaENkZkFEMUJMLU5PU1hmX2hWVTlnZ3FUenFWOXZKQjU5M1FVTG1BcWZZSW9MSEQ1LW1temtaMl9sMVMxdGVrZE1kcEd4QU95WjdPeEx2TjRsRnJ6TUJVWDFKdnIxakdZRVlBS1NKbXpMZzN4cll1VGFOYWhpRGdhRFc3cEJxWDVyUGdj?oc=5)
 
 ---
 

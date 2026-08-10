@@ -14,7 +14,7 @@ permalink: /news/dacomitinib-monohydrate/
 ---
 
 <p class="key-answer" data-question="Dacomitinib Monohydrate 有什麼相關新聞？">
-<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Dacomitinib Monohydrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/dacomitinib-monohydrate/
 <p><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Cardiologist names the one superfood that may help lower your cholesterol - RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+2026-08-09 <span class="news-indication-tag">heart disease</span>
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+---
+
+### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+---
 
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
-
----
-
-### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
 
 ---
 

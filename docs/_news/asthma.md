@@ -3,7 +3,7 @@ layout: default
 title: "asma（asthma） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asma（asthma） 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "asma（asthma） 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asma（asthma） 有什麼相關新聞？">
-<strong>asma（asthma）</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asma（asthma）</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
@@ -98,14 +98,6 @@ permalink: /news/asthma/
 2026-08-08
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
-
----
-
-### [Studie zeigt: Zucker kann Asthma innerhalb von zwei Wochen verschlechtern - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
-
-2026-08-07
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 ---
 

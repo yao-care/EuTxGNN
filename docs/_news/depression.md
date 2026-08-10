@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión（depression） 相關新聞"
+title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "depresión（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
-# depresión（depression） 相關新聞
+# dépression（depression） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="depresión（depression） 有什麼相關新聞？">
-<strong>depresión（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
+<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「depresión」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「dépression」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ permalink: /news/depression/
 
 ## 相關新聞（2 則）
 
-### [El sencillo hábito diario que se relaciona con menos dolor y depresión en mayores - La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmJBZk50Y0pvYUJxWTFVTjFTa3EyWXpldkg4OXpsUnM1RF9kOUV0R2tSOUNtcm1SZmxMVE9Pd0k2ck14VEV0SHFRbXgzREdGWW90TG9GODlPdjBDbUU4RDBhSEd5b3VEN1lyNEFWbDJZRHNzLV9hVk9Ha2NGRmp3ZVd5b1ZUeVhpYlgwRmRvSF8wSHNCRGpxaGU1eThLdUVCVGx0ajYycndqR3Y0bEZhU0hTbGtZQ09UZjFVSEN5S01oeHpJanNkdnRGa9IB0AFBVV95cUxOUWFBOVF5NGRVd0N2NFROeVM3RWlibkxJWjB5aDdOaVRvNXZEdm54STgwRG5nVmZ0QXBnOWVLVDIyakt3VjVwaWs3dUpHTk9idnRJWHBPOWVUZkhKbDNTcGVBbExXY1BubWFkbHRDTDZ6X05obnA5Yy1Lb2lLdW5CcHFiOWRWZkpWLXRza242eGxoc1J5d2VHWmdCMlctYnJIRjRsRi1Sb2l1UmhfUXlNTFZnZzYzZ3phdWd5NlpCenZiU2pJS29xTm9PZmZfdlBS?oc=5)
+### [15 minutes pour détecter Alzheimer, Parkinson ou la dépression : l’innovation israélienne qui pourrait tout changer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
 
 2026-08-09
 
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmJBZk50Y0pvYUJxWTFVTjFTa3EyWXpldkg4OXpsUnM1RF9kOUV0R2tSOUNtcm1SZmxMVE9Pd0k2ck14VEV0SHFRbXgzREdGWW90TG9GODlPdjBDbUU4RDBhSEd5b3VEN1lyNEFWbDJZRHNzLV9hVk9Ha2NGRmp3ZVd5b1ZUeVhpYlgwRmRvSF8wSHNCRGpxaGU1eThLdUVCVGx0ajYycndqR3Y0bEZhU0hTbGtZQ09UZjFVSEN5S01oeHpJanNkdnRGa9IB0AFBVV95cUxOUWFBOVF5NGRVd0N2NFROeVM3RWlibkxJWjB5aDdOaVRvNXZEdm54STgwRG5nVmZ0QXBnOWVLVDIyakt3VjVwaWs3dUpHTk9idnRJWHBPOWVUZkhKbDNTcGVBbExXY1BubWFkbHRDTDZ6X05obnA5Yy1Lb2lLdW5CcHFiOWRWZkpWLXRza242eGxoc1J5d2VHWmdCMlctYnJIRjRsRi1Sb2l1UmhfUXlNTFZnZzYzZ3phdWd5NlpCenZiU2pJS29xTm9PZmZfdlBS?oc=5)
+來源：[IsraJ](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
 
 ---
 

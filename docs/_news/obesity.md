@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
 
 2026-08-09
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
-
----
-
-### [Obesity rates have doubled in England since 1993 - what's going on?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
-
-2026-08-07
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUFVESWhqRFNLUTU4dnE0MWltd2pSYkQ2NGc0ZTJGS3dQbUFGVW1MOGFUeGJOWVpUa0xpZ3JTOWZ5SmRISmpaUjJlZnQwWWhtdi1kMm1DRVM3LWI2?oc=5)
 
 ---
 

@@ -62,19 +62,19 @@ permalink: /news/entacapone/
 
 ---
 
-### [Durante décadas atacamos las placas del Alzheimer como si fueran el problema principal. Una batalla invisible entre dos proteínas dentro de las neuronas podría explicar por qué tantos tratamientos no funcionaron - Gizmodo en Español](https://news.google.com/rss/articles/CBMiswJBVV95cUxQUGJfYjBVSGtOSF9nNm9rRDBLeUdVeTBaUkE1aGtBOU5WSm1HaGR1bFl4bml0VFp5SlN5bGhLeEJvNXBGbzZoTWRfbGsxQTJuRXl1U1EwU1BtZ2xqbGxReEVnQVNPeGlpLXVubXFJdDc0cW9oYndzRlVmV1lIQUN5N1lFSE5mUUpTaEpVOGR4SlZGTS0tNDlEam1mZHlQQ2lGLVNkcHMtUmNLOUV4NGMzaENkZkFEMUJMLU5PU1hmX2hWVTlnZ3FUenFWOXZKQjU5M1FVTG1BcWZZSW9MSEQ1LW1temtaMl9sMVMxdGVrZE1kcEd4QU95WjdPeEx2TjRsRnJ6TUJVWDFKdnIxakdZRVlBS1NKbXpMZzN4cll1VGFOYWhpRGdhRFc3cEJxWDVyUGdj?oc=5)
-
-2026-08-09 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-來源：[Gizmodo en Español](https://news.google.com/rss/articles/CBMiswJBVV95cUxQUGJfYjBVSGtOSF9nNm9rRDBLeUdVeTBaUkE1aGtBOU5WSm1HaGR1bFl4bml0VFp5SlN5bGhLeEJvNXBGbzZoTWRfbGsxQTJuRXl1U1EwU1BtZ2xqbGxReEVnQVNPeGlpLXVubXFJdDc0cW9oYndzRlVmV1lIQUN5N1lFSE5mUUpTaEpVOGR4SlZGTS0tNDlEam1mZHlQQ2lGLVNkcHMtUmNLOUV4NGMzaENkZkFEMUJMLU5PU1hmX2hWVTlnZ3FUenFWOXZKQjU5M1FVTG1BcWZZSW9MSEQ1LW1temtaMl9sMVMxdGVrZE1kcEd4QU95WjdPeEx2TjRsRnJ6TUJVWDFKdnIxakdZRVlBS1NKbXpMZzN4cll1VGFOYWhpRGdhRFc3cEJxWDVyUGdj?oc=5)
-
----
-
 ### [Et si l'origine de la maladie d'Alzheimer se trouvait dans notre bouche ? Voici la fascinante piste explorée par des chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
 
 2026-08-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
+
+---
+
+### [12-Monats-Daten zu Foslevodopa/Foscarbidopa bei Parkinson](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
+
+2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">Parkinson-Krankheit</span>
+
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
 
 ---
 

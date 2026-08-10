@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
+
+### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+---
 
 ### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
@@ -83,22 +91,6 @@ permalink: /news/regadenoson/
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
-
-### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[stern.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
----
-
-### [Studie zeigt: Zucker kann Asthma innerhalb von zwei Wochen verschlechtern - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
-
-2026-08-07 <span class="news-indication-tag">asthma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxONW9paDgxWGNnTEUxTFM1LTEwR19nd2NWNkhydnR3MUJEWEFqcl9EZW1IR2pQSW04VHNWYzhvUDdsSExSYTl2U1Ytcnl5TTJpRjkyakNTbkhqdDZpZzhXOWJFR1JsUDdMZFV6NWNUZkhackhLWFlzSFlZRUJOLUhBZGxwSVg0bGROa2NLV3dkd0ZhRkhPVFJLZGM0R0pPZFZtSFY4ZTlwVQ?oc=5)
 
 ---
 

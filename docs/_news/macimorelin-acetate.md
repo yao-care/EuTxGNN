@@ -14,7 +14,7 @@ permalink: /news/macimorelin-acetate/
 ---
 
 <p class="key-answer" data-question="Macimorelin Acetate 有什麼相關新聞？">
-<strong>Macimorelin Acetate</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Macimorelin Acetate</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/macimorelin-acetate/
 <p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（22 則）
+
+### [Long Covid: Autoantikörper greifen Hirnstamm an, Yale-Studie zeigt - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzNXX1l0UFJwNzJWYm1KelN5ellOMm0xYlJhTEZyYzdOeHRfN1FrVFd4VGM3aWdnVXNkampjMFdicnpUNFJjYVlYS3Q2XzN2OVJscW1yekVoNEF3a2ZTekxobWtlU0QwLTFsV3NuOEJaSFlOZVZCRFgzdWJKc04yWmlPUUwzdldJVkQ2eUFiNHloQXBDWnBBVm9wQ3oybjd0MV9BbnJPVl96N1hFbTFWcEJDeVA?oc=5)
+
+2026-08-09 <span class="news-indication-tag">AF</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzNXX1l0UFJwNzJWYm1KelN5ellOMm0xYlJhTEZyYzdOeHRfN1FrVFd4VGM3aWdnVXNkampjMFdicnpUNFJjYVlYS3Q2XzN2OVJscW1yekVoNEF3a2ZTekxobWtlU0QwLTFsV3NuOEJaSFlOZVZCRFgzdWJKc04yWmlPUUwzdldJVkQ2eUFiNHloQXBDWnBBVm9wQ3oybjd0MV9BbnJPVl96N1hFbTFWcEJDeVA?oc=5)
+
+---
 
 ### [CAR-T-Zelltherapie und Familienplanung: 14 Schwangerschaften ohne Rückfall - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa19aVjJxbjN4ZUZOTlBwa3pIa3hwRlB4VThHMXJTc3hRYlhxVU5heTNSeUdsSUN4NU1LNW5oc2lXQnFSZldYWTAzME5sZjQ4dkxFME5MNUlGMTZHazF0UGJzWHV6TkNYQU5XYUY5ZEhYNHJhTFJYOExhMWc4dGFJcmlNb21uOWctend0OFg4WlRmMy0xdEE2SHByRVltUDRqcVRNRUJDV084QQ?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa19aVjJxbjN4ZUZOTlBwa3pIa3hwRlB4VThHMXJTc3hRYlhxVU5heTNSeUdsSUN4NU1LNW5oc2lXQnFSZldYWTAzME5sZjQ4dkxFME5MNUlGMTZHazF0UGJzWHV6TkNYQU5XYUY5ZEhYNHJhTFJYOExhMWc4dGFJcmlNb21uOWctend0OFg4WlRmMy0xdEE2SHByRVltUDRqcVRNRUJDV084QQ?oc=5)
+
+---
+
+### [Cardiologist names the one superfood that may help lower your cholesterol - RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+2026-08-09 <span class="news-indication-tag">heart disease</span>
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
 
 ---
 
@@ -78,19 +94,11 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Peligro por epidemia de HIV: El recorte de fondos globales frena el avance científico](https://news.google.com/rss/articles/CBMirgFBVV95cUxONzVBeDJUZ0d2WHEyQ18wLXM1bkJjMzZ0SEI4ZS14a2cxTk9OOUVWa2pRNXRUTFhtcUlVdlFhMi0wNEp1LXZIaDJpZzFacUhuRWljSE4xQ2EwcWNrRlJBVV9Xb0JhZ1NzczNmLXFKX0M4ZFlsTWFZcExmaTJseEsxekV5UjRqU0RmLTdDaXNNN2FMSkwyS3lBWnVyNnBEY3RIa0xDVDRydVpBamI0MUHSAbMBQVVfeXFMTVRUcVZSZ2tTdnRHQ2U3bDlOQzNZWUdXZzZsbzFiUlFSUVlHcnAzRFJ5Mzh0Y3p6ZnBfWEhtYUZNSElWMnVwak5ZZ1VETDlZbVUxdTdjTTdZVldGRzd1Z2VfcGV3cmNlWGhETUJFRW9wQ2h4MlE5ZDE2ZHNtZVEybWkwOHFHZFBrcDlZUzQwa2RkczZyZ3N2N29XRXAzR0YxZHBKWFRYbUhNenZJcHFGbWJNaTA?oc=5)
+### [Preocupación por el aumento del VIH: el impacto de los recortes presupuestarios también alcanza a Argentina - Minuto Neuquen](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ3NTdVlMR2lrNE5naE85QS1lS3p0S1BGRjh2SnVTQXg2dmppX0tMRjJLTUtoSWtzVWdHekZ1cVpFR2dYRWdYQUtEQ01ZZnREZ0pFbDhsY2JabjNHSk12aWlfbk8wVVJNdUtIZ2NVX3NRQlZnUk5MSVAzeWU1TXNUbXZGTHJHU01hUzVSektaT2FpMUE4R0hQNUdSZDd2amllVVFGdWR3dVBPRnhrcFVxXzk3V2VTblZzOEk0LTcwZTRKSzFqRnVvdUpqcWtrbmNxT0NWTVN0ODRXTWlESWpjSEg3Z21fMUtkMUNudHJKbWNOaVVN?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
 
-來源：[Urgente24](https://news.google.com/rss/articles/CBMirgFBVV95cUxONzVBeDJUZ0d2WHEyQ18wLXM1bkJjMzZ0SEI4ZS14a2cxTk9OOUVWa2pRNXRUTFhtcUlVdlFhMi0wNEp1LXZIaDJpZzFacUhuRWljSE4xQ2EwcWNrRlJBVV9Xb0JhZ1NzczNmLXFKX0M4ZFlsTWFZcExmaTJseEsxekV5UjRqU0RmLTdDaXNNN2FMSkwyS3lBWnVyNnBEY3RIa0xDVDRydVpBamI0MUHSAbMBQVVfeXFMTVRUcVZSZ2tTdnRHQ2U3bDlOQzNZWUdXZzZsbzFiUlFSUVlHcnAzRFJ5Mzh0Y3p6ZnBfWEhtYUZNSElWMnVwak5ZZ1VETDlZbVUxdTdjTTdZVldGRzd1Z2VfcGV3cmNlWGhETUJFRW9wQ2h4MlE5ZDE2ZHNtZVEybWkwOHFHZFBrcDlZUzQwa2RkczZyZ3N2N29XRXAzR0YxZHBKWFRYbUhNenZJcHFGbWJNaTA?oc=5)
-
----
-
-### [Über 100 Fälle bereits bestätigt – Wie El Niño die Tollwut-Robbe zur Waffe macht](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU3Ficms4VGV2cUxzbzdTQnl4S0N3dVgtVlBpUVlkZXZsRktJTm9WMi0wQThlTVhRU1V5R0pIWU15d0NCU3BXVEY2SGZMSG93YWpxd1VfWUw5bFdiNWJUeVhVOS1PYlUxdWtTT3k0VlZsQTg5dHZXZnRaREExLVJqSlJSdXJ6TDBsLXZoUmFnSGFrdjZncEdRdkV4YUJiLTNMTEFTNmdFZmRIQmNWenNoVnpJeWFRUlVnSmZUUjh3?oc=5)
-
-2026-08-09 <span class="news-indication-tag">AF</span>
-
-來源：[HNA](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU3Ficms4VGV2cUxzbzdTQnl4S0N3dVgtVlBpUVlkZXZsRktJTm9WMi0wQThlTVhRU1V5R0pIWU15d0NCU3BXVEY2SGZMSG93YWpxd1VfWUw5bFdiNWJUeVhVOS1PYlUxdWtTT3k0VlZsQTg5dHZXZnRaREExLVJqSlJSdXJ6TDBsLXZoUmFnSGFrdjZncEdRdkV4YUJiLTNMTEFTNmdFZmRIQmNWenNoVnpJeWFRUlVnSmZUUjh3?oc=5)
+來源：[Minuto Neuquen](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ3NTdVlMR2lrNE5naE85QS1lS3p0S1BGRjh2SnVTQXg2dmppX0tMRjJLTUtoSWtzVWdHekZ1cVpFR2dYRWdYQUtEQ01ZZnREZ0pFbDhsY2JabjNHSk12aWlfbk8wVVJNdUtIZ2NVX3NRQlZnUk5MSVAzeWU1TXNUbXZGTHJHU01hUzVSektaT2FpMUE4R0hQNUdSZDd2amllVVFGdWR3dVBPRnhrcFVxXzk3V2VTblZzOEk0LTcwZTRKSzFqRnVvdUpqcWtrbmNxT0NWTVN0ODRXTWlESWpjSEg3Z21fMUtkMUNudHJKbWNOaVVN?oc=5)
 
 ---
 
@@ -118,6 +126,22 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
+### ['Surviving cancer isn't the end of the story'](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMTIwTndZV0lGdHFhWHh2Q0JNSFVWTzFlQkR0SlNQbXhadlhFUVBVYWtEelFzbXk1bDBLekNLeDlZNllfV19WWjlwV2ZwZFhOY3hKWWNRUTJ2dlJT?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMTIwTndZV0lGdHFhWHh2Q0JNSFVWTzFlQkR0SlNQbXhadlhFUVBVYWtEelFzbXk1bDBLekNLeDlZNllfV19WWjlwV2ZwZFhOY3hKWWNRUTJ2dlJT?oc=5)
+
+---
+
+### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+---
+
 ### [I finally found love again at 75 after years of failed internet dates - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ21zSWRLRkREQUFOOU9QZV80MlEtRGVLYVhhVXV6TWtEaWhkQnVhck5YbU5Sb01KQWQ1QzcwamVUTUNQTEQyXzBMbzE1c0dFSHU3b2p2YmIwb0t4OTdWUmdndUNtMkRvN25QeEdXV3hfMEc4QUxNNDZlUV91eE1SVU1OR3c0R2M?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
@@ -126,11 +150,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Los expertos dermatólogos alertan sobre las manchas solares: "Son una de las consultas más frecuentes porque afectan mucho a la percepción de la piel"](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
+### [Los expertos dermatólogos alertan sobre las manchas solares: "Son una de las consultas más frecuentes porque afectan mucho a la percepción de la piel" - Harper's BAZAAR](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
 
-來源：[harpersbazaar.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
+來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
+
+---
+
+### [«Scompenso», come affrontare il caldo senza rischi - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlJ2X1JEZXRmNG55TEdnU2tKeHdfZUxlcjdrM3lNZV95QVJTVFRwcTd5QnVnZldXVTNiWmpPWnM2ZWVwVE5hT0VTblNNWGhSZm5FVzVtMzh5NVBsNjZFNm1LMnlYVWZ0c3RkVDFZeUxDY1lnZWNMaXFGcFhGQ1A5c1FHS3ZfNk10ZDh3OEY5LVRBYzkyUXNvZDJVeTR4ZkZ1N1pobXVwWGRiR0NIMWZwZWpYM1ppQQ?oc=5)
+
+2026-08-09 <span class="news-indication-tag">AF</span>
+
+來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlJ2X1JEZXRmNG55TEdnU2tKeHdfZUxlcjdrM3lNZV95QVJTVFRwcTd5QnVnZldXVTNiWmpPWnM2ZWVwVE5hT0VTblNNWGhSZm5FVzVtMzh5NVBsNjZFNm1LMnlYVWZ0c3RkVDFZeUxDY1lnZWNMaXFGcFhGQ1A5c1FHS3ZfNk10ZDh3OEY5LVRBYzkyUXNvZDJVeTR4ZkZ1N1pobXVwWGRiR0NIMWZwZWpYM1ppQQ?oc=5)
 
 ---
 
@@ -150,35 +182,19 @@ permalink: /news/macimorelin-acetate/
 
 ---
 
-### [Studie: COVID-19 verändert Hirnstruktur und -funktion großflächig - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTdPakhYZkduVUpsNnhZRDFPT040T1hKcUtpRFBWZW1LM2hIblRnaFFoUlFCQy1iTWFXRUttQzlNTlJocjlqakZDRXdGbFBQUzJhMV82WW9QQjBGR1BwY0NUYWNsM2cwN3Bwb01feXFIaGo5bkpXRWVhTjB0ellidHRKQW9ibDlHdDktblJkY2QwNlBBcVhhSTVqaXVabXM?oc=5)
+### [Shock anafilattico dopo la brioche: «Non ha detto di essere allergica» - Gazzetta di Modena](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczAweUZZeEE0eFhscUJSRVlvazRvYjJoUmtRZHVYOEJUYlBxZW9wa3E0TmlVdzVtR2RGaldkbzQzUzNIblZ1dWY1aC1zQ185cW4yRUlBMHVrbzF4Ullobl9YY0FFS2tIN0gtUTJmNEZkUkwzSE1CeEsteGp5ZUFqMEtiVEM5TGdNYUpKRHlsVmdqU1dhdzk5WFhEbzlzZHhWcU10QkVsVTR0MFlVdjBJU194OWtmdlFoMmRucWNYUEpoRmJXOUgwZHk4MWNKTHk5Vlp3UGtQWjVSQQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">AF</span>
 
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTdPakhYZkduVUpsNnhZRDFPT040T1hKcUtpRFBWZW1LM2hIblRnaFFoUlFCQy1iTWFXRUttQzlNTlJocjlqakZDRXdGbFBQUzJhMV82WW9QQjBGR1BwY0NUYWNsM2cwN3Bwb01feXFIaGo5bkpXRWVhTjB0ellidHRKQW9ibDlHdDktblJkY2QwNlBBcVhhSTVqaXVabXM?oc=5)
+來源：[Gazzetta di Modena](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczAweUZZeEE0eFhscUJSRVlvazRvYjJoUmtRZHVYOEJUYlBxZW9wa3E0TmlVdzVtR2RGaldkbzQzUzNIblZ1dWY1aC1zQ185cW4yRUlBMHVrbzF4Ullobl9YY0FFS2tIN0gtUTJmNEZkUkwzSE1CeEsteGp5ZUFqMEtiVEM5TGdNYUpKRHlsVmdqU1dhdzk5WFhEbzlzZHhWcU10QkVsVTR0MFlVdjBJU194OWtmdlFoMmRucWNYUEpoRmJXOUgwZHk4MWNKTHk5Vlp3UGtQWjVSQQ?oc=5)
 
 ---
 
-### [Shock anafilattico dopo la brioche: «Non ha detto di essere allergica»](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczAweUZZeEE0eFhscUJSRVlvazRvYjJoUmtRZHVYOEJUYlBxZW9wa3E0TmlVdzVtR2RGaldkbzQzUzNIblZ1dWY1aC1zQ185cW4yRUlBMHVrbzF4Ullobl9YY0FFS2tIN0gtUTJmNEZkUkwzSE1CeEsteGp5ZUFqMEtiVEM5TGdNYUpKRHlsVmdqU1dhdzk5WFhEbzlzZHhWcU10QkVsVTR0MFlVdjBJU194OWtmdlFoMmRucWNYUEpoRmJXOUgwZHk4MWNKTHk5Vlp3UGtQWjVSQQ?oc=5)
+### [Beachgoers on edge after ‘flesh-eating’ bacteria kills five down south](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
 
 2026-08-08 <span class="news-indication-tag">AF</span>
 
-來源：[gazzettadimodena.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQczAweUZZeEE0eFhscUJSRVlvazRvYjJoUmtRZHVYOEJUYlBxZW9wa3E0TmlVdzVtR2RGaldkbzQzUzNIblZ1dWY1aC1zQ185cW4yRUlBMHVrbzF4Ullobl9YY0FFS2tIN0gtUTJmNEZkUkwzSE1CeEsteGp5ZUFqMEtiVEM5TGdNYUpKRHlsVmdqU1dhdzk5WFhEbzlzZHhWcU10QkVsVTR0MFlVdjBJU194OWtmdlFoMmRucWNYUEpoRmJXOUgwZHk4MWNKTHk5Vlp3UGtQWjVSQQ?oc=5)
-
----
-
-### [Weekend di caldo e traffico, bollino rosso in 19 città](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVE5WQWp0RlljVElzTXdjUU1SbmpaZTRDaWJCSnlpZ09MYU1adVVzSEZrcmV3cGpJMFRYNzBybVBFcTZUUnVxMi1NT3Q5R2dhRkMwbmpQc2JQNndxejliZ05TbHYtSU5BZ0tLSW50T04teHFxelRENF9OczJlZWtPVFJfVGg1THBFeklmRTl6cHZKMFAtVzgyeVVUMVdBc1lKZG92bHdwek1vSHZKeGU2OUFoVk1nR2Q2Ym9Ma1UwcV81Sl9JOHgxbllDcXZKS2FpOUxfcG5VbDl5UVZaWXhnMGRBSEFRZldHVERfMHpNcVVBd1hZNkd6S9IB_gFBVV95cUxPWTFPanNUWWhKOFFlYi04anFLbTRNcWoxUFE0czk2dlB6VkZtLW1Pci0xS0s4LUZ1QjNFZFVPZjFlSHhzY1NNRjlqMG9UNzRFUlFWMHdnMFZUNG8xa205TUhtSWxmVy1sazdUdC1XVVRkZ1o3bjlhallEVHJhWjAySngtS0lXdnM5Zk5RZG12RF91NGRYOUVNaUNBNmljVHQ5R1dhb2dVWUdRbUpmVzJkN0t0bEozNU9TQ3A1LVNQcW44akUwcHdIeU5CZEhDdDVEY3R1Q2gxWmdtV1RsZDBoanJ6N2stRG1jWTdJVmgtNW16ZFJKWkJ4R1JHVlJDQQ?oc=5)
-
-2026-08-08 <span class="news-indication-tag">AF</span>
-
-來源：[ANSA](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVE5WQWp0RlljVElzTXdjUU1SbmpaZTRDaWJCSnlpZ09MYU1adVVzSEZrcmV3cGpJMFRYNzBybVBFcTZUUnVxMi1NT3Q5R2dhRkMwbmpQc2JQNndxejliZ05TbHYtSU5BZ0tLSW50T04teHFxelRENF9OczJlZWtPVFJfVGg1THBFeklmRTl6cHZKMFAtVzgyeVVUMVdBc1lKZG92bHdwek1vSHZKeGU2OUFoVk1nR2Q2Ym9Ma1UwcV81Sl9JOHgxbllDcXZKS2FpOUxfcG5VbDl5UVZaWXhnMGRBSEFRZldHVERfMHpNcVVBd1hZNkd6S9IB_gFBVV95cUxPWTFPanNUWWhKOFFlYi04anFLbTRNcWoxUFE0czk2dlB6VkZtLW1Pci0xS0s4LUZ1QjNFZFVPZjFlSHhzY1NNRjlqMG9UNzRFUlFWMHdnMFZUNG8xa205TUhtSWxmVy1sazdUdC1XVVRkZ1o3bjlhallEVHJhWjAySngtS0lXdnM5Zk5RZG12RF91NGRYOUVNaUNBNmljVHQ5R1dhb2dVWUdRbUpmVzJkN0t0bEozNU9TQ3A1LVNQcW44akUwcHdIeU5CZEhDdDVEY3R1Q2gxWmdtV1RsZDBoanJ6N2stRG1jWTdJVmgtNW16ZFJKWkJ4R1JHVlJDQQ?oc=5)
-
----
-
-### [Beachgoers on edge after ‘flesh-eating’ bacteria kills five down south - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
-
-2026-08-08 <span class="news-indication-tag">AF</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
+來源：[independent.co.uk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDZDRkVDYzhXVmxPdEVoSTRBMGxPbi02WXNDSW5La0dwSkZ2U184b0lLYi02SWJmU01BdVdjNktqU0tPSXZVVzRndVdndGRwbGVMMGhMZXA3QnBjODFNOFJDS1BWVWVYNnMtQk93bV9nNjB3Um80UjVkQ1JVc3NYUWlEbGRzN3NRamJRLUE2c1ZuZWl6OEw4?oc=5)
 
 ---
 
@@ -187,14 +203,6 @@ permalink: /news/macimorelin-acetate/
 2026-08-08 <span class="news-indication-tag">AF</span>
 
 來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiggJBVV95cUxQbFhxdTNHMC1OU0lKbmFXXzNGYVlQVWJkZWtQRjF0bVllOEZSaEJRbk5XcW9GUGo4NnctTjlGc3BJUGlFOWJhTi1HMHpiLVJWeXZobk5IM0U3Ym1GRHZZbGsyenNmU2JXenhob0JsYnBUbHRrcjRvNXdWR3E3UGhhT2ZRalI4WEh1VE1taVVBZjh0enl2YkkxbWxrX09kZWRRMXdxcFYwNlAybHNsQjJsU2Q2VUlrVzZaSDdVdWRXdkFPSy1pd25GZUM3VUw4ZUJlUldDNHFJR2VsaENHbkRrMGQ0V3hFbXdFalVDWjdlV21FeHpRejlFV2hUYnJxT0hIOXfSAY8CQVVfeXFMTmxfTnRCUkVQcXhKVjRuX1JMYnYtQ3VZeFc1QzZxX3h2cnA0ZGczQ292aG4zd1RUQUtuQk01ZVI2cHdWczE2MUdZeWRZNnBwUHM4TThKQ1BITG1yZjFjSEZUc3VubGcwV2tRMGh2cW03Q1FzVU12cTRPX0pISVpMd2N3RDNSTENTNHppLXVsWHhPS2FNYlN2S0N0TlJ6TnFtMk5iMnVSUEI5Nkl4TER4X3JnTzFIMGczQy1vZmdiVGZSeFhRaElOUXJTSmpQVVgtRzM0azhIWGs4UGJuUjY1T3kzdkY1M21FaEZXMG1seDJGWlBwVUY4TjU0X21jelNIcG9ldkttV1g3c2M1RjdEdw?oc=5)
-
----
-
-### [Farmaci, il caldo record può avere impatto su efficacia e sicurezza: ecco come conservarli - Crema on line](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ25zQlBYTFNpZnRfT0lKRWlDN2lEUHNkZTA2Q3hnQmxLcmdNQ0pZMmNCUGcwRzI5Y09NeTNVTHJDN0pLYWM5MDg2eUdNaXRBX0Q4S2NHaGVwWklpekwzYW44UXY2UjFoOExKQ1ZXSDFSMllNV2ppTndkdDJiSmNobENyemJUMXVkczJQSDBYYU0ydHlqRVh2cHI1UUJXNHQ5bk5mOVpWLTlNaGFKZnJwdF9VU0FramVMVzYxaA?oc=5)
-
-2026-08-08 <span class="news-indication-tag">AF</span>
-
-來源：[Crema on line](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ25zQlBYTFNpZnRfT0lKRWlDN2lEUHNkZTA2Q3hnQmxLcmdNQ0pZMmNCUGcwRzI5Y09NeTNVTHJDN0pLYWM5MDg2eUdNaXRBX0Q4S2NHaGVwWklpekwzYW44UXY2UjFoOExKQ1ZXSDFSMllNV2ppTndkdDJiSmNobENyemJUMXVkczJQSDBYYU0ydHlqRVh2cHI1UUJXNHQ5bk5mOVpWLTlNaGFKZnJwdF9VU0FramVMVzYxaA?oc=5)
 
 ---
 
@@ -211,6 +219,14 @@ permalink: /news/macimorelin-acetate/
 2026-08-08 <span class="news-indication-tag">AF</span>
 
 來源：[Ouest-France](https://news.google.com/rss/articles/CBMijwJBVV95cUxOWExlXzRjMUptQW9YMXd6YXRWZE5jTExwT0xKdWxvMURGS19sTkloQUR6TVhFcjNtUzVPQWkwUmhjdWU1MlUwRVZpZUpZWlRrdlZNdTRlelJaUkRHMXVEUTlHWWZfWlo5dzQ3ZVZ2NG1Fdk5qbnpwek1pRDJvWFA4U3k0RVJZX2dKNDAyLTRpVGsySTVsYnVhMnZkX08wSXQzdDBOc0NmaDI3cERxc3ZDUUJSQnVlWGVaVTJCaHltemFhVjlYR3BOclA5ZnZnRFV0OThaQ1hBU2VuNjZBN0s4bEJaQmZkbWNjNjNfR2luN1kydUhwckIwRS1HSnpoVEl0Mmo3NlExTUZmZEF3d2gw?oc=5)
+
+---
+
+### [Un robot permite realizar angiografías cerebrales a distancia y reducir la radiación al médico](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ3o1UXFhMGR1YjJaQmNmWFFMVWs5QmUxT3NYVklnSWtlWGxXYVY5Vk51Nld2Q0VoNlJrS3VDNjNUeGY1NWFILV85cjVJcjhRXzFIZzViODFIbnpCeFVKdnhUV0ZqLTZrMFMyWjVhbE44WlRSQWJIa0NGb2p1eXJlNEpjMUZYdlAwVkJISEdsZHJ4enVBaUh2S0VkUVlKRGMwWWRHVDZVdFpwdmZOSXlqSzlEVnNuSU5yMTNYLW1mNndlemxjTEpUWWlLT2ZISkJyOF81dnVFcUNWUVNKSjRqQU5MQkhWd1g0M1MteTRPZw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">AF</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ3o1UXFhMGR1YjJaQmNmWFFMVWs5QmUxT3NYVklnSWtlWGxXYVY5Vk51Nld2Q0VoNlJrS3VDNjNUeGY1NWFILV85cjVJcjhRXzFIZzViODFIbnpCeFVKdnhUV0ZqLTZrMFMyWjVhbE44WlRSQWJIa0NGb2p1eXJlNEpjMUZYdlAwVkJISEdsZHJ4enVBaUh2S0VkUVlKRGMwWWRHVDZVdFpwdmZOSXlqSzlEVnNuSU5yMTNYLW1mNndlemxjTEpUWWlLT2ZISkJyOF81dnVFcUNWUVNKSjRqQU5MQkhWd1g0M1MteTRPZw?oc=5)
 
 ---
 

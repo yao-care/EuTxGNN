@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="Alirocumab 有什麼相關新聞？">
-<strong>Alirocumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Alirocumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ permalink: /news/alirocumab/
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [In Psichiatria a Padova tutti i letti occupati, il direttore: «Il caldo incide sulla salute mentale» - Il Mattino di Padova](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMndvWEc4eUU1UG5tcWUtLWNic2JXZ09lV1pnaFpBV09NRWFKQTV1dlRhVDJKZkZZSTFfdzdDWVdfNldOT1hCR2QzMWZjU3NOaXNhZ0JsY1RoQzc0TGJpYkFGZmlxNXh6X2NfR2NCN0V3V0JIQkhOaWRtV2s1al9hSXBPT0UxMEZFcFpIOUZIZkNraUgyTFVYdktBN3NLaHZWV1lYcWVGX09VUQ?oc=5)
+### [La enfermedad renal aumenta en la región: casi 1.500 pacientes en diálisis o trasplante - El Periódico Extremadura](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbC12SFJ1TGJoTWdnUUlERHdrYWdsazFZRGVNYmxUVG4xdUJfS3dLVUlMR3gzamVrdENMdU8zdEhDMkN2N3p2d1dqdThiakFacDVPSmdlaGNIU2Z6QnBmVTBfU3VjS3Z4clZjMkRIRF9sZUNiVlN0RTZtT1VaVDlhclhhM0MyajNYcnBzM2l0SUZHZXQtS1J3QXVnOERMWHNvS0VrU1JOSkh2d3JacjNSWHVTeXdrZG9KUUMwbzItbTZaMHYzUHk2M1pwM2lWbXBPakRpT29FbFpCbmRhV2liVlJva9IB6AFBVV95cUxQbjBoRW1CdWlrVFBhSXBmUGpTOEt0U0pPbU52QTdxWnlCeV9VNUhqUnA1VUlfNURFRG5OR1BOMU1EWUplOGJqdzNOdHVQWUpBTHN5T0FGcEgwa0ZURDJsVU5Ta2xndUdmaTRlMkpfcHNRTGlwZV9jbUlFQWkyazhBR2RncjA3cWE1Y3FzLV9SSngzUEpaY0hhdVFiZWhNYkg5ZGZ0NVVCeTNfUjNVaEpSb3R4bXdsUmptVUstdnhpYTBsQzJRWGJQWEY3QnBRczlhWDgtRlNrU2dKUzZ0RGVkMTZ5dW4tZEk3?oc=5)
 
-2026-08-09 <span class="news-indication-tag">CKD</span>
+2026-08-08 <span class="news-indication-tag">enfermedad renal crónica</span>
 
-來源：[Il Mattino di Padova](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMndvWEc4eUU1UG5tcWUtLWNic2JXZ09lV1pnaFpBV09NRWFKQTV1dlRhVDJKZkZZSTFfdzdDWVdfNldOT1hCR2QzMWZjU3NOaXNhZ0JsY1RoQzc0TGJpYkFGZmlxNXh6X2NfR2NCN0V3V0JIQkhOaWRtV2s1al9hSXBPT0UxMEZFcFpIOUZIZkNraUgyTFVYdktBN3NLaHZWV1lYcWVGX09VUQ?oc=5)
+來源：[El Periódico Extremadura](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbC12SFJ1TGJoTWdnUUlERHdrYWdsazFZRGVNYmxUVG4xdUJfS3dLVUlMR3gzamVrdENMdU8zdEhDMkN2N3p2d1dqdThiakFacDVPSmdlaGNIU2Z6QnBmVTBfU3VjS3Z4clZjMkRIRF9sZUNiVlN0RTZtT1VaVDlhclhhM0MyajNYcnBzM2l0SUZHZXQtS1J3QXVnOERMWHNvS0VrU1JOSkh2d3JacjNSWHVTeXdrZG9KUUMwbzItbTZaMHYzUHk2M1pwM2lWbXBPakRpT29FbFpCbmRhV2liVlJva9IB6AFBVV95cUxQbjBoRW1CdWlrVFBhSXBmUGpTOEt0U0pPbU52QTdxWnlCeV9VNUhqUnA1VUlfNURFRG5OR1BOMU1EWUplOGJqdzNOdHVQWUpBTHN5T0FGcEgwa0ZURDJsVU5Ta2xndUdmaTRlMkpfcHNRTGlwZV9jbUlFQWkyazhBR2RncjA3cWE1Y3FzLV9SSngzUEpaY0hhdVFiZWhNYkg5ZGZ0NVVCeTNfUjNVaEpSb3R4bXdsUmptVUstdnhpYTBsQzJRWGJQWEY3QnBRczlhWDgtRlNrU2dKUzZ0RGVkMTZ5dW4tZEk3?oc=5)
+
+---
+
+### [Ser vegetariano se asocia con un 19% menos de riesgo de enfermedad renal crónica, según un gran estudio - La Vanguardia](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWpnMHVKNDdyNDZXUXF2RG9SMXh4bjJGVVhwYUVScmVieGNnTkhucGIxWnFTYUNjMm51UUV5bjJlZWZOVThHcnNMcXpBRGY3b1JzbXNEVHZYeVBPQ3NRMzlPdDh6OEJpVHB1RnhXYjFiZlJzUVZRSEhMOXZfRmREdXdQYUZ6OFFMNFk3MEMxSkFPVHlkUkN2VlpwUkg2NXNyZFp0VEVWN3NiRXN0LUFkczJRZDlQU3V6TGdIZTlLeFJVZkY5dnBR0gHMAUFVX3lxTE5TMFFSOEVPcHM2am5wUFZSVV9FLW03QS1tUVlXcWk1WHF5NnQxZ21yYW5EZmpjbzZqTXptM1NSdF9UNXF6bEpjeHR4U1NOdmZoaXM2MkN5R3ZFR1hfczJVcHctSk5zWlJFTkdPLXMyLU05eXBiZ3JYODVVdzN6WHFnOUZ4LWtDTWgxcXF5Q1ZDV2JSakNQZFZ2YXpxbDNka0d2SXl4ZF9IS05rMElzNWhWTVFhaFNIbnpESU5oV0NDRHh2YzQ4UlFwODRKQw?oc=5)
+
+2026-08-08 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+來源：[La Vanguardia](https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWpnMHVKNDdyNDZXUXF2RG9SMXh4bjJGVVhwYUVScmVieGNnTkhucGIxWnFTYUNjMm51UUV5bjJlZWZOVThHcnNMcXpBRGY3b1JzbXNEVHZYeVBPQ3NRMzlPdDh6OEJpVHB1RnhXYjFiZlJzUVZRSEhMOXZfRmREdXdQYUZ6OFFMNFk3MEMxSkFPVHlkUkN2VlpwUkg2NXNyZFp0VEVWN3NiRXN0LUFkczJRZDlQU3V6TGdIZTlLeFJVZkY5dnBR0gHMAUFVX3lxTE5TMFFSOEVPcHM2am5wUFZSVV9FLW03QS1tUVlXcWk1WHF5NnQxZ21yYW5EZmpjbzZqTXptM1NSdF9UNXF6bEpjeHR4U1NOdmZoaXM2MkN5R3ZFR1hfczJVcHctSk5zWlJFTkdPLXMyLU05eXBiZ3JYODVVdzN6WHFnOUZ4LWtDTWgxcXF5Q1ZDV2JSakNQZFZ2YXpxbDNka0d2SXl4ZF9IS05rMElzNWhWTVFhaFNIbnpESU5oV0NDRHh2YzQ4UlFwODRKQw?oc=5)
 
 ---
 

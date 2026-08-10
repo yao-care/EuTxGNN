@@ -14,7 +14,7 @@ permalink: /news/colesevelam-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Colesevelam (As Hydrochloride) 有什麼相關新聞？">
-<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colesevelam (As Hydrochloride)</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/colesevelam-as-hydrochloride/
 <p><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（7 則）
+
+### [Cardiologist names the one superfood that may help lower your cholesterol - RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+2026-08-09 <span class="news-indication-tag">heart disease</span>
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+---
+
+### [Leber-Entzündung: Gen-Variante senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+
+---
 
 ### [Diabetes und Vorhofflimmern: So verlängert Therapietreue Komplikationen um Monate - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
 
@@ -70,6 +86,14 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
+### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+---
+
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
@@ -78,11 +102,11 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ---
 
-### [„Schlankheitsgen“ entdeckt – seltene Mutation lässt Fett schneller verbrennen - smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
+### [Una IA permite calcular desde casa el riesgo de diabetes con siete datos, incluida la longitud del muslo - Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">diabetes</span>
 
-來源：[smart up news](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVRXNTJSMlhnTmRTZVFpeVhZV2NKTHNnWEhVTmlidnpGcDNrckI1YkpuQy1jYkg4dXNtRnk0UlhYYS1MSjladUVyZUpPZks0WmstUzl4NmpnOVJwR1dCa09wSlMxREVQam1TSWxoVEdROVdHY2Q1a0E1UFJ3R2l1ZWtpYjhtVlJqWWJQazFOLWhXbnVVajAtWmM0MExuUU8zeXMxMGhIOTJHUQ?oc=5)
+來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
 
 ---
 

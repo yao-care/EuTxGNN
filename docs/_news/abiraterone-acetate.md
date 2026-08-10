@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="Abiraterone Acetate 有什麼相關新聞？">
-<strong>Abiraterone Acetate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abiraterone Acetate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ permalink: /news/abiraterone-acetate/
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+---
+
+### [Cardiologist names the one superfood that may help lower your cholesterol - RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+2026-08-09 <span class="news-indication-tag">heart disease</span>
+
+來源：[RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+
+---
+
+### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+
+---
 
 ### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
@@ -67,22 +91,6 @@ permalink: /news/abiraterone-acetate/
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
-
-### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[stern.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
----
-
-### [Maskierte Hypertonie: Warum 15% unentdeckt bleiben und was hilft - it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
-
-2026-08-07 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3R5aFpRQTRHQllyWnBTRll2SG5helRpbDQyOS1QVFlwWElsVlhKMWZ6eU5kd0I5VFYzSlZaUlQtWmNlUmpaU3RhREc2UUJtRFV2UWRfVWJjY293VXFXUWVXYUdtMDl6amdFbURZbndzX2xqVWV4NGxKS2V2NklYejB1bDIyaWR5d0F2WTRpTlFYOWJZQ2ZEUkJn?oc=5)
 
 ---
 

@@ -54,19 +54,19 @@ permalink: /news/atropine-sulfate/
 
 ## 相關新聞（2 則）
 
+### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+2026-08-09 <span class="news-indication-tag">Migräne</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+
+---
+
 ### [Atogepant im Vergleich: Weniger Migräneattacken und bessere Verträglichkeit - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
-
-### [ADHS und Migräne treten häufig gemeinsam auf. Warum eigentlich?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[stern.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPekYwTFBDckhrZy1LMEZhMG9Md2FFbF9GbGRCcVlaSHRETXBQaU9GWndnX0hyeHR6QmdrZVltZ0piUWVpcC1TUGtCbmVKeW12MW1vVlFhR0daSWJMMW0ybWRQUFM2eDVsX0poVlk1dFFYV1paeTZkMjZ0U24tVy1RMWVHby1SRGNTaUJ4c0dWeGVhX1hnUS01ZmRCRmtiTFJlTmo5clFzaVF6aUFkTUFOXw?oc=5)
 
 ---
 
