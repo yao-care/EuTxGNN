@@ -54,14 +54,6 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（10 則）
 
-### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">asthma</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
-
----
-
 ### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
@@ -70,11 +62,27 @@ permalink: /news/somapacitan/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
 
-2026-08-10 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
+### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
+
+2026-08-10 <span class="news-indication-tag">asthma</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
+
+---
+
+### [Presión normal, sin diabetes y sin tabaco: la fórmula para ganar casi 13 años libres de demencia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
 
 ---
 
@@ -86,19 +94,11 @@ permalink: /news/somapacitan/
 
 ---
 
-### [FNIP1-Genvariante senkt Risiko für Typ-2-Diabetes um 60 Prozent - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFnSzRZSElrbzZEMGF5cXRGN19yNWN0enU0aTRfMWl6WWVUY1FpN3ZlelJzRlMxM2JuaEhveFl3RVc3Qko1Z2lwYlZfcFkyaUJ0ZHJkM0hVRGt3TFRQS1pCdVVkN3NERnk2TWFlcVlKeFlaakExYk1INU5wZ2R5SVp6ZlV4RWVwTzdYVEVfWVhNcm4zeWN0TVVWckg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFnSzRZSElrbzZEMGF5cXRGN19yNWN0enU0aTRfMWl6WWVUY1FpN3ZlelJzRlMxM2JuaEhveFl3RVc3Qko1Z2lwYlZfcFkyaUJ0ZHJkM0hVRGt3TFRQS1pCdVVkN3NERnk2TWFlcVlKeFlaakExYk1INU5wZ2R5SVp6ZlV4RWVwTzdYVEVfWVhNcm4zeWN0TVVWckg?oc=5)
-
----
-
 ### [Diabete, non conta solo la glicemia: ecco cosa cambia nella cura](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 ---
 

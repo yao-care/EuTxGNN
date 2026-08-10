@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [Los expertos coinciden: "Las personas que son pelirrojas naturales tienen más riesgo de melanoma y de enfermedad de Parkinson, pero también toleran mejor el dolor" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFU?oc=5)
+
+2026-08-10 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFU?oc=5)
+
+---
+
+### [Un ensayo respalda los ultrasonidos focalizados para tratar problemas motores en Parkinson](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0ZudlNuRk1RSHRzQnFVNTdGc1A2dnM2aUw0TjBma3ltQkM3b0JoXzB6NHhGWUZ5SkE0U0dsZ3I1d29xODkyN1hDM3RfdzBNcXFzOFR1V0J6akhfTkR3SUIyRGxIdk1RSEtTNzlkTDlGcC1tTVNGcVRNZVBNUWZ0OW1id2d5UVA4bW5lSUxyX3FTc29QXzdRWTdxa1BTRW9fcXRUT18yeGs1aWQtU1U3d2d6N2ZiMlAwV2xaMlVBeWlYd9IBxwFBVV95cUxPMmhiOW40Rm1NTUxXQU5fTmVPQ2pUTVBVSy1LOXhvZ0VVX2xTby02a1J5dmJzTkV5ODFjTEhSYzR3WHVDbFJLUEtCSy1tV3RoaTVBZFRNWEJ4VEVrSXBZWk96WWtFVUc4ZGcyakxudWVCUHdQYzdBUzlldjUwQTZ1MFJFb3ZHWXV1cjVZWWREbDBodzJ1S1k0NGJRVWxsN2R6elZGZ0VxNHRnNzJEbmNVM05iS0NudzhkblN2VzdxdWNCSWdYMWFN?oc=5)
+
+2026-08-10 <span class="news-indication-tag">enfermedad de Parkinson</span>
+
+來源：[Demócrata](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0ZudlNuRk1RSHRzQnFVNTdGc1A2dnM2aUw0TjBma3ltQkM3b0JoXzB6NHhGWUZ5SkE0U0dsZ3I1d29xODkyN1hDM3RfdzBNcXFzOFR1V0J6akhfTkR3SUIyRGxIdk1RSEtTNzlkTDlGcC1tTVNGcVRNZVBNUWZ0OW1id2d5UVA4bW5lSUxyX3FTc29QXzdRWTdxa1BTRW9fcXRUT18yeGs1aWQtU1U3d2d6N2ZiMlAwV2xaMlVBeWlYd9IBxwFBVV95cUxPMmhiOW40Rm1NTUxXQU5fTmVPQ2pUTVBVSy1LOXhvZ0VVX2xTby02a1J5dmJzTkV5ODFjTEhSYzR3WHVDbFJLUEtCSy1tV3RoaTVBZFRNWEJ4VEVrSXBZWk96WWtFVUc4ZGcyakxudWVCUHdQYzdBUzlldjUwQTZ1MFJFb3ZHWXV1cjVZWWREbDBodzJ1S1k0NGJRVWxsN2R6elZGZ0VxNHRnNzJEbmNVM05iS0NudzhkblN2VzdxdWNCSWdYMWFN?oc=5)
+
+---
 
 
 <div class="disclaimer">

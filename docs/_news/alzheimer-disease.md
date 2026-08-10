@@ -3,7 +3,7 @@ layout: default
 title: "dementia（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。3 則新聞、16 個相關藥物。"
+description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>3 則</strong>相關新聞報導，16 個相關藥物。
+<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 2026-08-10
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
----
-
-### [My mother’s dementia nightmare says everything about Britain’s social care crisis](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
-
-2026-08-09
-
-來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
+來源：[Euronews](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 

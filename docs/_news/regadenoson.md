@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/regadenoson/
 2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
-
----
-
-### [Atogepant im Vergleich: Weniger Migräneattacken und bessere Verträglichkeit - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
 
 ---
 

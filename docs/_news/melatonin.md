@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVVdVYyVEF4SmJHbFM3SVpxcUNzOWt0cmVJUjk2OVF0MEVaeFlNbURGREM5cXRNeXJQLWlrNE00OFhvQWhnV2VhNzJ3YjIwNFM0T3ZCTzktN1NlaS0xRERBZUFPWkF5OWZNbHhtUDJiRGF2anhXYk9FLXFYUXVzZVVfRnF6N3pWaXk4T2ltRXJZU1YwRm1vb092OFdNZ2ZXQXhTNExVX2hzaVU?oc=5)
 
@@ -67,14 +67,6 @@ permalink: /news/melatonin/
 2026-08-09 <span class="news-indication-tag">obésité</span>
 
 來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
-
----
-
-### [Atogepant im Vergleich: Weniger Migräneattacken und bessere Verträglichkeit - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
 
 ---
 

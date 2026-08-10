@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC（stroke） 相關新聞"
+title: "Schlaganfall（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
+description: "Schlaganfall（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# AVC（stroke） 相關新聞
+# Schlaganfall（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="Schlaganfall（stroke） 有什麼相關新聞？">
+<strong>Schlaganfall（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Schlaganfall」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Schlaganfall-Risiko: Koffein löst akute Anfälle bei jungen Erwachsenen aus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
+
+2026-08-10
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
+
+---
 
 ### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 

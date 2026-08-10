@@ -14,7 +14,7 @@ permalink: /news/atropine-sulfate/
 ---
 
 <p class="key-answer" data-question="Atropine Sulfate 有什麼相關新聞？">
-<strong>Atropine Sulfate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Atropine Sulfate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/atropine-sulfate/
 <p><a href="{{ '/drugs/atropine-sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [Atogepant im Vergleich: Weniger Migräneattacken und bessere Verträglichkeit - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

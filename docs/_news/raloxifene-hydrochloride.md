@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Schlaganfall-Risiko: Koffein löst akute Anfälle bei jungen Erwachsenen aus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
+
+2026-08-10 <span class="news-indication-tag">Schlaganfall</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
+
+---
 
 ### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
@@ -62,11 +62,19 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
 
-2026-08-10 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
+來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
+### [Presión normal, sin diabetes y sin tabaco: la fórmula para ganar casi 13 años libres de demencia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
 
 ---
 
@@ -78,19 +86,11 @@ permalink: /news/abaloparatide/
 
 ---
 
-### [FNIP1-Genvariante senkt Risiko für Typ-2-Diabetes um 60 Prozent - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFnSzRZSElrbzZEMGF5cXRGN19yNWN0enU0aTRfMWl6WWVUY1FpN3ZlelJzRlMxM2JuaEhveFl3RVc3Qko1Z2lwYlZfcFkyaUJ0ZHJkM0hVRGt3TFRQS1pCdVVkN3NERnk2TWFlcVlKeFlaakExYk1INU5wZ2R5SVp6ZlV4RWVwTzdYVEVfWVhNcm4zeWN0TVVWckg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFnSzRZSElrbzZEMGF5cXRGN19yNWN0enU0aTRfMWl6WWVUY1FpN3ZlelJzRlMxM2JuaEhveFl3RVc3Qko1Z2lwYlZfcFkyaUJ0ZHJkM0hVRGt3TFRQS1pCdVVkN3NERnk2TWFlcVlKeFlaakExYk1INU5wZ2R5SVp6ZlV4RWVwTzdYVEVfWVhNcm4zeWN0TVVWckg?oc=5)
-
----
-
 ### [Diabete, non conta solo la glicemia: ecco cosa cambia nella cura](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ permalink: /news/abaloparatide/
 2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
-
----
-
-### [Atogepant im Vergleich: Weniger Migräneattacken und bessere Verträglichkeit - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Migräne</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
 
 ---
 
