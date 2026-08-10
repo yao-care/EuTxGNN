@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus（stroke） 相關新聞"
+title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "ictus（stroke） 的相關健康新聞報導。3 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
-# ictus（stroke） 相關新聞
+# AVC（stroke） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="ictus（stroke） 有什麼相關新聞？">
-<strong>ictus（stroke）</strong> 目前有 <strong>3 則</strong>相關新聞報導，11 個相關藥物。
+<p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
+<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「ictus」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「AVC」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -39,29 +39,21 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
+
+2026-08-09
+
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
+
+---
 
 ### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
 
 2026-08-08
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
-
----
-
-### [Cómo la música puede ayudar a reducir el dolor (e incluso a tratar los síntomas de un ictus) - National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
-
-2026-08-08
-
-來源：[National Geographic España](https://news.google.com/rss/articles/CBMizAFBVV95cUxNazZkcHlLUklCaXduVUpNa3BGc1B5cURYcTNBeU8wUno4cG1PQ2Q2QnUwOTg4LS1ZdEU1QlNLU1FTUGxIVmZCX2VWUXMwWVJEdzZIM0FzeDBIOTlwU05PUDkwSkp3cGNSN2lIWHNMLWk1bEd5d0tXLVNjbFZCQXZubUdQdHNsM1pUbUg2TURBZWVZOHlXcW1LbzZ6N2J3MFl0N2xMczd4NnlSSENsY1dKdWw5aWtNZkFxRlQ3S2p1YjE3bTZMRUt4QkxJTy0?oc=5)
-
----
-
-### [Schlaganfall-Therapie: Medikamentenwechsel nach ASS bringt keinen Vorteil - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
-
-2026-08-08
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU12NlRJSnZWZXJZdWNwd3FzakRmeG5RRHg5bUI4ajU3VC01TFVqSUVZZ1g4MGlrNmZlSHpJNjMzQmlqaUI2Y3ZtbDVSaWVIV05NY1NsaXBKcTc2RUJqWnhjVjFUTXpkNGVjOGpnc1doSlc0R1BZLXJyYnMwSWp3RGwzTTh4bFBDU1NKUFV4SkFPa05EMUZwRTFHd2hDWC0tV3Z1Wm5YWTRvSFhCeFUteTFrcEVydTliMjEyeUFR?oc=5)
 
 ---
 

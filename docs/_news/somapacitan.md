@@ -54,11 +54,27 @@ permalink: /news/somapacitan/
 
 ## 相關新聞（7 則）
 
-### [Leber-Entzündung: Gen-Variante senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUF6NnZjbUV1aEs0MUNUc3NVQWVpNEhNMzd0X0hueG1qUHJYMjR0bm5XT1ppWEd5STNyVTRtdXdzOEZ5SEFMa053b0R2NWhjWFAtZjVIdjl0MEotMkVFYXNmZ2lXQnMzSUVKUi1ZR2NJREdkTkpqaVNsQWsxM2xzQ0ZxSVJWRC1ZcHVoV1RFS0RTcWN6dGFzYTRNamZrM1JrR09CdWhIWi0xSDVsbm9yR3doZ19RTDFha2lTYVg5dEU3R0h2SVE?oc=5)
 
-2026-08-09 <span class="news-indication-tag">diabetes</span>
+2026-08-10 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUF6NnZjbUV1aEs0MUNUc3NVQWVpNEhNMzd0X0hueG1qUHJYMjR0bm5XT1ppWEd5STNyVTRtdXdzOEZ5SEFMa053b0R2NWhjWFAtZjVIdjl0MEotMkVFYXNmZ2lXQnMzSUVKUi1ZR2NJREdkTkpqaVNsQWsxM2xzQ0ZxSVJWRC1ZcHVoV1RFS0RTcWN6dGFzYTRNamZrM1JrR09CdWhIWi0xSDVsbm9yR3doZ19RTDFha2lTYVg5dEU3R0h2SVE?oc=5)
+
+---
+
+### [Diabetes-Risiko: FNIP1-Gen senkt Erkrankungschance um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBqQy1GSG91N2MwVmRHaVBNanlheHd6QWxRdVB0dUZSLXE4dDBCUVlRTUEwN1ZEMEliZ2RvN1FGd0drbTZZazJoRjNWd3pydnlNYWdwRjNhbTlPNGZqQ3JuUVd5WDlrNlVXeWJacl93THNUR2JhVHJCQVZJM2N0c3BPRFFoX2VHeUNQM1J0bGo0VVpiTkkzcTlqQ0s2bUpaaUpRNU9XcTlZS0k5UG5NaEZB?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBqQy1GSG91N2MwVmRHaVBNanlheHd6QWxRdVB0dUZSLXE4dDBCUVlRTUEwN1ZEMEliZ2RvN1FGd0drbTZZazJoRjNWd3pydnlNYWdwRjNhbTlPNGZqQ3JuUVd5WDlrNlVXeWJacl93THNUR2JhVHJCQVZJM2N0c3BPRFFoX2VHeUNQM1J0bGo0VVpiTkkzcTlqQ0s2bUpaaUpRNU9XcTlZS0k5UG5NaEZB?oc=5)
+
+---
+
+### [Kein höheres Diabetesrisiko bei früher Menopause](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ permalink: /news/somapacitan/
 2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
-
----
-
-### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
-
-2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/somapacitan/
 2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
-
----
-
-### [Una IA permite calcular desde casa el riesgo de diabetes con siete datos, incluida la longitud del muslo - Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
-
-2026-08-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
 
 ---
 

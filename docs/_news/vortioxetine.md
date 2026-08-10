@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="Vortioxetine 有什麼相關新聞？">
-<strong>Vortioxetine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vortioxetine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/vortioxetine/
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [15 minutes pour détecter Alzheimer, Parkinson ou la dépression : l’innovation israélienne qui pourrait tout changer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
 
 2026-08-09 <span class="news-indication-tag">dépression</span>
 
 來源：[IsraJ](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
-
----
-
-### [Depressionen: Wie die Krankheit unsere Immunzellen lahmlegt](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
-
-2026-08-08 <span class="news-indication-tag">depression</span>
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "dépression（depression） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dépression（depression） 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "dépression（depression） 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="dépression（depression） 有什麼相關新聞？">
-<strong>dépression（depression）</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>dépression（depression）</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ permalink: /news/depression/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [15 minutes pour détecter Alzheimer, Parkinson ou la dépression : l’innovation israélienne qui pourrait tout changer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
 
 2026-08-09
 
 來源：[IsraJ](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
-
----
-
-### [Depressionen: Wie die Krankheit unsere Immunzellen lahmlegt](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
-
-2026-08-08
-
-來源：[Kurier](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVBLdXdZbjhlbVcxc0luSTQ3ZWpFelNHUlRHYjBRRUtnVzhiUERYT0RzdHZ0TXdWMEg4NXhKZDNHbU9yR1d6MlYyY2lQc3c0dlZtVE9Pa2JBQUlrSTdXQ2Q5cXNqUXdDczFKckM1Q0FIXzUzR1ZKTThUN1U2LWVBaUVYQUhuMmNBWUttb0hxOW84M3JqNkFnaW92SWFDR29X?oc=5)
 
 ---
 

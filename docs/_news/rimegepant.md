@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+### [Por qué la migraña empeora en verano y qué hacer para evitar un ataque - Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
 
-2026-08-09 <span class="news-indication-tag">Migräne</span>
+2026-08-10 <span class="news-indication-tag">migraña</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
-
----
-
-### [Cardiologist names the one superfood that may help lower your cholesterol - RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
-
-2026-08-09 <span class="news-indication-tag">heart disease</span>
-
-來源：[RSVP Live](https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5)
+來源：[Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
 
 ---
 

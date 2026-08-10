@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="Abaloparatide 有什麼相關新聞？">
-<strong>Abaloparatide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abaloparatide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ permalink: /news/abaloparatide/
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUF6NnZjbUV1aEs0MUNUc3NVQWVpNEhNMzd0X0hueG1qUHJYMjR0bm5XT1ppWEd5STNyVTRtdXdzOEZ5SEFMa053b0R2NWhjWFAtZjVIdjl0MEotMkVFYXNmZ2lXQnMzSUVKUi1ZR2NJREdkTkpqaVNsQWsxM2xzQ0ZxSVJWRC1ZcHVoV1RFS0RTcWN6dGFzYTRNamZrM1JrR09CdWhIWi0xSDVsbm9yR3doZ19RTDFha2lTYVg5dEU3R0h2SVE?oc=5)
 
-2026-08-09 <span class="news-indication-tag">Migräne</span>
+2026-08-10 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUF6NnZjbUV1aEs0MUNUc3NVQWVpNEhNMzd0X0hueG1qUHJYMjR0bm5XT1ppWEd5STNyVTRtdXdzOEZ5SEFMa053b0R2NWhjWFAtZjVIdjl0MEotMkVFYXNmZ2lXQnMzSUVKUi1ZR2NJREdkTkpqaVNsQWsxM2xzQ0ZxSVJWRC1ZcHVoV1RFS0RTcWN6dGFzYTRNamZrM1JrR09CdWhIWi0xSDVsbm9yR3doZ19RTDFha2lTYVg5dEU3R0h2SVE?oc=5)
 
 ---
 
-### [Leber-Entzündung: Gen-Variante senkt Diabetes-Risiko um 60 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+### [Diabetes-Risiko: FNIP1-Gen senkt Erkrankungschance um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBqQy1GSG91N2MwVmRHaVBNanlheHd6QWxRdVB0dUZSLXE4dDBCUVlRTUEwN1ZEMEliZ2RvN1FGd0drbTZZazJoRjNWd3pydnlNYWdwRjNhbTlPNGZqQ3JuUVd5WDlrNlVXeWJacl93THNUR2JhVHJCQVZJM2N0c3BPRFFoX2VHeUNQM1J0bGo0VVpiTkkzcTlqQ0s2bUpaaUpRNU9XcTlZS0k5UG5NaEZB?oc=5)
 
-2026-08-09 <span class="news-indication-tag">diabetes</span>
+2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzVEM2YzNmduY0FxZ19YYzFkSFhtTkJOc04zTjExT2JuMGdwVUJ3WW0zNGg3TXlBVDR0eWJ3aDdBNEhPeGMwUXZqRmJIaWN0YVE3WmUwWGZBdFMzMVpLYTBhVFdwbnlUekZ6cTY0dkdTdHI1TXVDbUlpaTNkOEtqLW9HYi1mRE9uakFTdkVtYkozZ3ZFXzZqT0htNlVjYzVhNE5NSkVYUGpIemdqUFdWSWt3ZmtYdw?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBqQy1GSG91N2MwVmRHaVBNanlheHd6QWxRdVB0dUZSLXE4dDBCUVlRTUEwN1ZEMEliZ2RvN1FGd0drbTZZazJoRjNWd3pydnlNYWdwRjNhbTlPNGZqQ3JuUVd5WDlrNlVXeWJacl93THNUR2JhVHJCQVZJM2N0c3BPRFFoX2VHeUNQM1J0bGo0VVpiTkkzcTlqQ0s2bUpaaUpRNU9XcTlZS0k5UG5NaEZB?oc=5)
+
+---
+
+### [Kein höheres Diabetesrisiko bei früher Menopause](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[medonline.at](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
+
+---
+
+### [Por qué la migraña empeora en verano y qué hacer para evitar un ataque - Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
+
+2026-08-10 <span class="news-indication-tag">migraña</span>
+
+來源：[Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
 
 ---
 
@@ -91,14 +107,6 @@ permalink: /news/abaloparatide/
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
-
-### [Una IA permite calcular desde casa el riesgo de diabetes con siete datos, incluida la longitud del muslo - Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
-
-2026-08-08 <span class="news-indication-tag">diabetes</span>
-
-來源：[Noticias de Navarra](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JPNlZuUTdoMlFES0oyN3hWNzVYTGRhVlFBd2Q0UlFENkRfVTd5UjNXYXBqVUw3VU5CY05RZV9ZR2hZb0dpZVRyVHY0Z2dFd3NrNEIyTUFHMHNNT3pVeEhvS2NzMjZvb0k5TlNUb09sSzJOLW1Zb3hfOGVlVGJwcHdIeVNNMW90SDdxTFpRdm45cUxJN29TZDZlTlY0c0Q0cnpNb0poeVBuS1FxMmtIVNIBtgFBVV95cUxOS0xZZi11T1NzMDNnQmEzVGkwSDZZVVYtR3FPSkR3WUJnTnJOREtmN05LSjN2UXduQUR3YzM2SXpTV0p1d3JlYTJlQkVrTUpqelpKSXVOc3VHbnRqdGVUbzlyVUR6VGJQajFJbjY5cE13eG16c0RRa3JBck12TjNnUDhtMENyX19MXzVJQ3RKblBTMzlwcW4xeDVhLTlvM21IM0ZPc3JmRTBXaHRJeHZ3UVdrWVFJQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="Melatonin 有什麼相關新聞？">
-<strong>Melatonin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Melatonin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/melatonin/
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [Migräne: Nanoaggregate im Wuzhuyu-Dekokt lindern Anfälle - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFVOHAtdVZWNEwzeV9Fa2psMXZnc1lZOW5YZlNzdE1YMFB5U0VweHhTcU1Nc2Zfbkk1VXNDaF80bmlBRG5yeEhLUklmZF84RjFIWkNSVTRvaDA2UHJURVFpLXNwWGV5QjEwS3dHdmFscW9pSnJScHFiQkpSUk8zV1Z2MGV1QnMtRmpUbWlmc2trRi1zeUgwQk1sRmtxUlRFa2VKUGs5S1BrQmxOYnpUbi1zREZJTVBOVHBfbFVNeEYwSlo2dzZhOGlqNzd3NUtCdk53WQ?oc=5)
 
-2026-08-09 <span class="news-indication-tag">Migräne</span>
+2026-08-10 <span class="news-indication-tag">Adipositas</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTNLNDFWbWNIcDBwM1MtSUppMlVyY0ZtX0ZFZTNKdFJBS1NIWjN0MXBlSWhpWXBJdjVpSmpwRHpJRHpNaDNiRnN4QmlLSDBqNHk4dHp3eXVDYjJoYW5ER1pwUDUxS1NiM2MxM3RSZUhEWmpFNkdqd2tvUUxHQWdoX0FWdWRONjZjMURmb0llVGJ6NVlSZ2lqVU9zQTh1Vi1kbDdZMW55OThMdw?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFVOHAtdVZWNEwzeV9Fa2psMXZnc1lZOW5YZlNzdE1YMFB5U0VweHhTcU1Nc2Zfbkk1VXNDaF80bmlBRG5yeEhLUklmZF84RjFIWkNSVTRvaDA2UHJURVFpLXNwWGV5QjEwS3dHdmFscW9pSnJScHFiQkpSUk8zV1Z2MGV1QnMtRmpUbWlmc2trRi1zeUgwQk1sRmtxUlRFa2VKUGs5S1BrQmxOYnpUbi1zREZJTVBOVHBfbFVNeEYwSlo2dzZhOGlqNzd3NUtCdk53WQ?oc=5)
 
 ---
 
-### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
+### [Por qué la migraña empeora en verano y qué hacer para evitar un ataque - Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
 
-2026-08-09 <span class="news-indication-tag">Adipositas</span>
+2026-08-10 <span class="news-indication-tag">migraña</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
+來源：[Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
+
+---
+
+### [Obésité : pourquoi le taux a-t-il été multiplié par deux en Angleterre depuis 1993 ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
+
+2026-08-09 <span class="news-indication-tag">obésité</span>
+
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
 
 ---
 

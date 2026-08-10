@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="Epinephrine 有什麼相關新聞？">
-<strong>Epinephrine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Epinephrine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/epinephrine/
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [Los peligros del calor para los pulmones - UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
-
-2026-08-09 <span class="news-indication-tag">asma</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[UDG TV](https://news.google.com/rss/articles/CBMihgFBVV95cUxNQUZ4TS1XSFJoNlVLRHRzZGM1X3NYZkptZV9oTWhaNXREMjBYcF9Hdm5LdkdlZ0N2OVpZTkNWUmxhY0VfUlRLb0RyTlNaQWJBTkdGREQ2UHZWT1ZRcXFLSHpTU0Myc2FLSVRRdG9ZN21YUEV5VGhleFQtTk5FcFVJX2psa1M2QQ?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [Weniger Allergien und Asthma: Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
 

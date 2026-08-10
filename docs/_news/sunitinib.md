@@ -14,7 +14,7 @@ permalink: /news/sunitinib/
 ---
 
 <p class="key-answer" data-question="Sunitinib 有什麼相關新聞？">
-<strong>Sunitinib</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sunitinib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,61 @@ permalink: /news/sunitinib/
 <p><a href="{{ '/drugs/sunitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
+
+### [Diseñan un sistema molecular que neutraliza las células cancerosas con una precisión sin precedentes](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa1BiTWY4REtlanJyV3pzZ05UZ01QV29jRTh1VHJqaUtxaFphaklDWkItVkVFc1FVSHFiamkxcGsxU2dtTzdzQmcxMUpCVndic1FzOFNUU1g4MjB2WGNiQ1BpclVnd2NpM0VZOFhTWC1JcjZIR1BwZG5oZ2N6UkNxaDA2Q0hPWGJoUUhmUkE3MWZPeUZ4aXQxNE5lbWNDYVdYUkFYbE5rTzRibmVqNEhteHREaERKV3Y4clItdXVsTTN0SnQzMXJETWFxR19CTS0weGhpZERkX0ktOGx0NkQwMHZ4bUhjbWUyUURmS0FnZnVEaVgx?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancer</span>
+
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa1BiTWY4REtlanJyV3pzZ05UZ01QV29jRTh1VHJqaUtxaFphaklDWkItVkVFc1FVSHFiamkxcGsxU2dtTzdzQmcxMUpCVndic1FzOFNUU1g4MjB2WGNiQ1BpclVnd2NpM0VZOFhTWC1JcjZIR1BwZG5oZ2N6UkNxaDA2Q0hPWGJoUUhmUkE3MWZPeUZ4aXQxNE5lbWNDYVdYUkFYbE5rTzRibmVqNEhteHREaERKV3Y4clItdXVsTTN0SnQzMXJETWFxR19CTS0weGhpZERkX0ktOGx0NkQwMHZ4bUhjbWUyUURmS0FnZnVEaVgx?oc=5)
+
+---
+
+### [Bevande zuccherate, possibile aumento del rischio di cancro al fegato: lo studio - Corriere della Sera](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1gzcTVBTTlHWFFUV3J1dTRPZFZaVFNBSEhuVWZXT25zRlhBNXl0TEhwSnBDWlRJNXVEUnVJTDAzRkMzZlZPQUhON0ZBTENkM2l1a05Fc1hXWG1BYzdybXNlbWhoUlRUemV5bk1PZ0hvYlVYV20xYl8tWDdoYUNQRnNZd3lsSnNaVHRQdmxTMXZQWGNKR1kyRW10X1VSbVhaa2R0T0FFWno0NGVSLVgyanBTTEdrMU45TC1SQlVIN2NmaFJ0a05ETktwaFJxYUNsN2Q1T3ltcFAwN0Fs0gHiAUFVX3lxTE1Sa1BWS19US2FSQzAxZFkwbl9YbW1WcTNYUmlBLUlZYzNRSUF0ZFVNNUI4NTU5MzBhX3pyZkt4SDRGalU2eDJ6LU4yN0NOeTFoeHQ0SUhzZ0lwVjVRQmtaM0RuNnE1eEtHeG1CSUtTbWhfTVpkRllfWURyZmxXYWpXNmFzc3pPYWEzTjNGWHY3RkNLMDVvTzJjc2pXcXFkVkh5c0UtQUllY29BSjd3X1FkT3c4dlllc1pDdml5SGhFZUxTekJaUFJ1dkhIdWI1dEllRTRqSHJmdF9uYzhVSU1rVFE?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancro</span>
+
+來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1gzcTVBTTlHWFFUV3J1dTRPZFZaVFNBSEhuVWZXT25zRlhBNXl0TEhwSnBDWlRJNXVEUnVJTDAzRkMzZlZPQUhON0ZBTENkM2l1a05Fc1hXWG1BYzdybXNlbWhoUlRUemV5bk1PZ0hvYlVYV20xYl8tWDdoYUNQRnNZd3lsSnNaVHRQdmxTMXZQWGNKR1kyRW10X1VSbVhaa2R0T0FFWno0NGVSLVgyanBTTEdrMU45TC1SQlVIN2NmaFJ0a05ETktwaFJxYUNsN2Q1T3ltcFAwN0Fs0gHiAUFVX3lxTE1Sa1BWS19US2FSQzAxZFkwbl9YbW1WcTNYUmlBLUlZYzNRSUF0ZFVNNUI4NTU5MzBhX3pyZkt4SDRGalU2eDJ6LU4yN0NOeTFoeHQ0SUhzZ0lwVjVRQmtaM0RuNnE1eEtHeG1CSUtTbWhfTVpkRllfWURyZmxXYWpXNmFzc3pPYWEzTjNGWHY3RkNLMDVvTzJjc2pXcXFkVkh5c0UtQUllY29BSjd3X1FkT3c4dlllc1pDdml5SGhFZUxTekJaUFJ1dkhIdWI1dEllRTRqSHJmdF9uYzhVSU1rVFE?oc=5)
+
+---
+
+### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzIya2pBWHk5M19GQTI4bVg5OC11b1VNV0Vkd1k5SkQ5TGpYMGtKSlp4c2lBd0dJdEdNc3RzbmhYOVlHTWN2NXBPVVBOLUhfdzVtVmxVTmdONWxIX3FXNkJiQkpwOUpSUUxkWGZtaFMzNmhSb19lUFRFWm05UXZhMG1MZDNTNVEwUHBZSHFQei16NHIyQWZGUzFTSzRhdnc5YkJhZWhR?oc=5)
+
+2026-08-10 <span class="news-indication-tag">Krebs</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzIya2pBWHk5M19GQTI4bVg5OC11b1VNV0Vkd1k5SkQ5TGpYMGtKSlp4c2lBd0dJdEdNc3RzbmhYOVlHTWN2NXBPVVBOLUhfdzVtVmxVTmdONWxIX3FXNkJiQkpwOUpSUUxkWGZtaFMzNmhSb19lUFRFWm05UXZhMG1MZDNTNVEwUHBZSHFQei16NHIyQWZGUzFTSzRhdnc5YkJhZWhR?oc=5)
+
+---
+
+### [Cutting exercise drives up likelihood of cancer, study warns - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3FtWWdrd1NaXzYtZHJFdWJ5SkVnQUV6UVNfZG5xWWtRTFU3bmFSbzYxODdnZkl6cUVOT0pjcG1hcF9zRFh5cVZMakI3cG1YQ2FGUWM3Q1BucG5QNDBuU25JOEhEdk5tdHNrQTktZkVpMzU1WWJFTFNMOHJySjhsYXptY0VwN3lmYTBabVlZcEVhWjFVTTI4bm1sbE5lUXB4UVE?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancer</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3FtWWdrd1NaXzYtZHJFdWJ5SkVnQUV6UVNfZG5xWWtRTFU3bmFSbzYxODdnZkl6cUVOT0pjcG1hcF9zRFh5cVZMakI3cG1YQ2FGUWM3Q1BucG5QNDBuU25JOEhEdk5tdHNrQTktZkVpMzU1WWJFTFNMOHJySjhsYXptY0VwN3lmYTBabVlZcEVhWjFVTTI4bm1sbE5lUXB4UVE?oc=5)
+
+---
+
+### [Dad, 29, given antibiotics for ‘ear infection’ turned out to have rare bone cancer in his skull - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0g3cEN1aHE3TjRNSGJpVUZWR21FbHZZN3VjMEFlMWduX2RZMmVyWHNaWVdCMWlFV1RzQjIxb3RyZVJzbklWdTFPMVl4dy1OTWdhVWhKTE5BN2hFdE1VQVpXMVdpNHFhT2tnTFRFYnBTbFFQV0dxZElRdEpLdW5BNGw1cXBYUkd4NGc?oc=5)
+
+2026-08-09 <span class="news-indication-tag">cancer</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0g3cEN1aHE3TjRNSGJpVUZWR21FbHZZN3VjMEFlMWduX2RZMmVyWHNaWVdCMWlFV1RzQjIxb3RyZVJzbklWdTFPMVl4dy1OTWdhVWhKTE5BN2hFdE1VQVpXMVdpNHFhT2tnTFRFYnBTbFFQV0dxZElRdEpLdW5BNGw1cXBYUkd4NGc?oc=5)
+
+---
+
+### [Tumori cerebrali, la glucosamina potrebbe farli “emergere” alla risonanza: lo studio](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFJEU1h5M2w4MlMzUW1KTFk5YlNmOTJWNmU3cUZTR19XOWlQSjE5Z0EzVi14dlMzeTluRndEbkpXYzJYeDlsb2ZrYXFCNHdwZUV6c2o5YXVVRmdvMGp4eERyaXh6bnJxc3pCOWRYVmdBWXpmZFBjMktOR0RBQUoyVXgzeWdCb0EyUG9BaUZNQm5MQjRpVnN0RTlVeWVQNFU5OTFubWI2QkpmdlA2X09ZZUNzWjVXNzloR2wwX25COWtlckxGcEtXeHNPSk1CSjlHWWIxU19aSQ?oc=5)
+
+2026-08-09 <span class="news-indication-tag">tumor</span>
+
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFJEU1h5M2w4MlMzUW1KTFk5YlNmOTJWNmU3cUZTR19XOWlQSjE5Z0EzVi14dlMzeTluRndEbkpXYzJYeDlsb2ZrYXFCNHdwZUV6c2o5YXVVRmdvMGp4eERyaXh6bnJxc3pCOWRYVmdBWXpmZFBjMktOR0RBQUoyVXgzeWdCb0EyUG9BaUZNQm5MQjRpVnN0RTlVeWVQNFU5OTFubWI2QkpmdlA2X09ZZUNzWjVXNzloR2wwX25COWtlckxGcEtXeHNPSk1CSjlHWWIxU19aSQ?oc=5)
+
+---
 
 ### [Glioblastoma, scoperto cosa cambia nelle cellule che si staccano dal tumore e invadono il cervello](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcGtSeVliUkJET3pkSEd2aXJEcENfSEJBT0xsaHZydlhzb0FBZUlRYUdYbFZia0FFeU5XOEw2Y1d4VnJJS2pRNDRTRktZRzNNY0R1a1dSejRvWVFYTHIwc2VhZk5tODhpTGk1SEtQUWVCV3gyNGNQRmJ5WE1kQm1aWEc0d0NhdnFoQkpYT3A5Y3VhX09mQXo5TWtCdWdyTGNucUZJYlBHVnYzTWUzNWdmdEVPaGluY1VIYU9FSUp5dHRGcHRldHk1aEotaHBkVFRGMW8xZGlISlpVaU5jbTNEN2ZwQWlJR3RaU0JUVG5B?oc=5)
 
 2026-08-09 <span class="news-indication-tag">tumor</span>
 
 來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcGtSeVliUkJET3pkSEd2aXJEcENfSEJBT0xsaHZydlhzb0FBZUlRYUdYbFZia0FFeU5XOEw2Y1d4VnJJS2pRNDRTRktZRzNNY0R1a1dSejRvWVFYTHIwc2VhZk5tODhpTGk1SEtQUWVCV3gyNGNQRmJ5WE1kQm1aWEc0d0NhdnFoQkpYT3A5Y3VhX09mQXo5TWtCdWdyTGNucUZJYlBHVnYzTWUzNWdmdEVPaGluY1VIYU9FSUp5dHRGcHRldHk1aEotaHBkVFRGMW8xZGlISlpVaU5jbTNEN2ZwQWlJR3RaU0JUVG5B?oc=5)
-
----
-
-### [Zucker als Krebssignal: Studie zeigt, warum Eierstockkrebs nach der Chemo so oft zurückkehrt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWm1COFdNTnk4Ml85SVVXQzNBRnF4Vklvd0xqR2hTUUxVM0syMG1HTEYzdThTWVYzUldudFlFWFR3bDZ1a0ZpY19xckJGNkZVRzVTMWtXWDB0U3BhOURjWndGaWd4dV9CSzN2aV9PdmhQWGJWaG5TR2tjRGIzNERrZUVyWVJHV0o5aXAxZl9mdkhsODZFWHIwVzc5Q0JIZEwxdER5MTh3?oc=5)
-
-2026-08-09 <span class="news-indication-tag">Krebs</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipgFBVV95cUxOWm1COFdNTnk4Ml85SVVXQzNBRnF4Vklvd0xqR2hTUUxVM0syMG1HTEYzdThTWVYzUldudFlFWFR3bDZ1a0ZpY19xckJGNkZVRzVTMWtXWDB0U3BhOURjWndGaWd4dV9CSzN2aV9PdmhQWGJWaG5TR2tjRGIzNERrZUVyWVJHV0o5aXAxZl9mdkhsODZFWHIwVzc5Q0JIZEwxdER5MTh3?oc=5)
 
 ---
 
@@ -98,7 +138,7 @@ permalink: /news/sunitinib/
 
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-來源：[cnn.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
 
 ---
 
@@ -174,6 +214,14 @@ permalink: /news/sunitinib/
 
 ---
 
+### [Diagnostiquée d’un cancer, une Américaine subit une hystérectomie avant d’apprendre qu’il s’agit d’une erreur de diagnostic - Charente Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxONkxYSGFIeDQ1b2d5TlJla0FVaHU3WDZmWGZJN3E0bE9lbFdnYndWdU5BWkVaYWwyLWhWS0xOdWo2UWVJYlNYTmJZYXBMR0s1UkxOUC1aVG9NcS1KQTR1VDJUZlVXZEYxcEk4c0E5bXU5Yzh5LW9qaE9jUUE5UndidmFGQklGTF92V21XaDM3OE5WcXdoUmJJVVRMQUFjSU9FVHVjYVhrZGZqb0RfYlZTaUc2dlNKSGlta2hyRk1sUnlCOGExLXFsZTJRRmZMZHA0MHZUeGt0MVpGQzc0enpOMVozb0VzQjM5RzZhYVBzcTN3Xy1UT1pTWEVhZ0ZOV2M?oc=5)
+
+2026-08-08 <span class="news-indication-tag">cancer</span>
+
+來源：[Charente Libre](https://news.google.com/rss/articles/CBMi_wFBVV95cUxONkxYSGFIeDQ1b2d5TlJla0FVaHU3WDZmWGZJN3E0bE9lbFdnYndWdU5BWkVaYWwyLWhWS0xOdWo2UWVJYlNYTmJZYXBMR0s1UkxOUC1aVG9NcS1KQTR1VDJUZlVXZEYxcEk4c0E5bXU5Yzh5LW9qaE9jUUE5UndidmFGQklGTF92V21XaDM3OE5WcXdoUmJJVVRMQUFjSU9FVHVjYVhrZGZqb0RfYlZTaUc2dlNKSGlta2hyRk1sUnlCOGExLXFsZTJRRmZMZHA0MHZUeGt0MVpGQzc0enpOMVozb0VzQjM5RzZhYVBzcTN3Xy1UT1pTWEVhZ0ZOV2M?oc=5)
+
+---
+
 ### [Two-stage process helps metastatic cancer cells hide, then multiply in the lungs - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEx3MDlEVjl4UU5sR0d1NmVXWnRWbDdtQ2V6TGs1TFNzVUxrLXhncm50UXZOa200ME9IY0dzX1N6YkY3Rkp6RnIwMWM2NjFWZlBjYXE1emxwVE84SkhVZG1UQTVYX0ZmdFJYM1pjTC1SUGd0TXNzaVk3RnZ2bGpBSmdGMjV4UQ?oc=5)
 
 2026-08-08 <span class="news-indication-tag">cancer</span>
@@ -187,14 +235,6 @@ permalink: /news/sunitinib/
 2026-08-08 <span class="news-indication-tag">Krebs</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXdOVlZzZ1ZSbU1aeUw4a3J1a1JOZ0tDdTkwLUJuR25EM3YwbUl5SXRfSS1Oc1lEWlpUSzhDVmtxWWhlU0U2OVNPMnBNbzRYUktnSHNJTXhhZ19FdFlWR3RDdjA4dGdDTGtWekhTcDEtZ2NObWZVejZVamF4RmxMc0IwVXk5NTZ1WGVvZXduZ1dRUDFEOW5EX0tOME5ZUk9Sd3c?oc=5)
-
----
-
-### [I hunted down scammer who faked cancer & Ebola for 20yrs to defraud charities - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSy0ySE5rRmhUdWp4OHFYa2JfaUhOZHZmbTB0SkZaNTRsYVNiR1BiUHcydVo0VU5xOXZZQWdjbnhQMjAySmNzcDkwVWEyQm1jM2hoME5PTVV3LWRsRTlFYjMxamV2TUtCelEwLWZhOGxuc2hBRFZmV0x2eHN3RXVpTlpFalNhem9TaERLWmVrT2ZuUQ?oc=5)
-
-2026-08-08 <span class="news-indication-tag">cancer</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSy0ySE5rRmhUdWp4OHFYa2JfaUhOZHZmbTB0SkZaNTRsYVNiR1BiUHcydVo0VU5xOXZZQWdjbnhQMjAySmNzcDkwVWEyQm1jM2hoME5PTVV3LWRsRTlFYjMxamV2TUtCelEwLWZhOGxuc2hBRFZmV0x2eHN3RXVpTlpFalNhem9TaERLWmVrT2ZuUQ?oc=5)
 
 ---
 
@@ -214,35 +254,11 @@ permalink: /news/sunitinib/
 
 ---
 
-### [Drugs for common eye condition could one day help cancer patients – study - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1ZrQUFkcUlPbEpjT3d5XzhBbHFxTDhOdm1IUWNBc01ldkgySlptTUFPTURLMUViU0VnV1FTeTRDLWc4RTVwaHk3WkdzTGd3UUY2WWktbXR3alY1RXl5MURoanZsQVRXamQtSndKTG0ybnZOUERQbnFyUHhaV3BNb3B5UVp0SWM4RGhVQ0VFMmt6QnVFbW5CSDVtTzh4dw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">cancer</span>
-
-來源：[STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxNS1ZrQUFkcUlPbEpjT3d5XzhBbHFxTDhOdm1IUWNBc01ldkgySlptTUFPTURLMUViU0VnV1FTeTRDLWc4RTVwaHk3WkdzTGd3UUY2WWktbXR3alY1RXl5MURoanZsQVRXamQtSndKTG0ybnZOUERQbnFyUHhaV3BNb3B5UVp0SWM4RGhVQ0VFMmt6QnVFbW5CSDVtTzh4dw?oc=5)
-
----
-
-### ["J’ai dit à mes enfants qu’il ne me restait que cinq ans à vivre", elle est diagnostiquée d'un cancer et subit une hystérectomie, elle apprend le lendemain qu'il s'agissait d'une erreur médicale](https://news.google.com/rss/articles/CBMiowJBVV95cUxOZlEwSE9mQ3I0UUluak9PNHp0dUJQTXBQdl9nWmZSWEExNk5Wbmlyd2ExdzFxcVVweXlFZFVJTmpVN21qcGdySURpUGR5dnZENE9tMXMta0hPTmRFMldhLWVlN0dUS0l2Q1Foc19IX3IwSmlTMXBPSzlUVERWN1V4Rlk1cG1oU2pPWkFSdUEtQ0NtRHdSc1gwZk1xUlBpLTZBSFZRSjZueTVUY2hHdE1hVUdlUUNRUWg0U2lKbFNNc0l5d2VxaVRsT1IxR0t3UldibUJ4Z2o5Sy14ZXUzVXBhbURiS1otOGV0S1dqX0s1RHdIaDBlNFFBZGRmbGw5TDR3dVlDdmFMbkZCNFVjek01YWdqakFYc3F6N1duOGxsY1NuRHc?oc=5)
-
-2026-08-08 <span class="news-indication-tag">cancer</span>
-
-來源：[ladepeche.fr](https://news.google.com/rss/articles/CBMiowJBVV95cUxOZlEwSE9mQ3I0UUluak9PNHp0dUJQTXBQdl9nWmZSWEExNk5Wbmlyd2ExdzFxcVVweXlFZFVJTmpVN21qcGdySURpUGR5dnZENE9tMXMta0hPTmRFMldhLWVlN0dUS0l2Q1Foc19IX3IwSmlTMXBPSzlUVERWN1V4Rlk1cG1oU2pPWkFSdUEtQ0NtRHdSc1gwZk1xUlBpLTZBSFZRSjZueTVUY2hHdE1hVUdlUUNRUWg0U2lKbFNNc0l5d2VxaVRsT1IxR0t3UldibUJ4Z2o5Sy14ZXUzVXBhbURiS1otOGV0S1dqX0s1RHdIaDBlNFFBZGRmbGw5TDR3dVlDdmFMbkZCNFVjek01YWdqakFYc3F6N1duOGxsY1NuRHc?oc=5)
-
----
-
-### [Nanopartículas inspiradas en los mejillones llevan la quimioterapia directamente al tumor de páncreas](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHZzUS1vSHZzVjZweGpxVlpDenVtcXdGVEF1bmx0aXhkRGF1OU9IUU5jTEJWTDhkai1LUkt0bU1vSDhENGJQMXd0dzdGTHItUFMwd25NUkFadlo4VlpKY1ZVV2NuS2ZqX29PTW9NM0YzUTRsQnBlNmFFa0U0RnV4dUNscmswbXlwV2NjQkJfckRWQ1owR0twNk1ySmNLN0UtNEhSNVZwRkhUWmtwYlJZZ05hZEZsZzZ0MmN6dHMzcWJFQWU5U3hBN0ItdVlBNVZ2SkI4bEFDcW1XaXQ5R0E?oc=5)
-
-2026-08-08 <span class="news-indication-tag">tumor</span>
-
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHZzUS1vSHZzVjZweGpxVlpDenVtcXdGVEF1bmx0aXhkRGF1OU9IUU5jTEJWTDhkai1LUkt0bU1vSDhENGJQMXd0dzdGTHItUFMwd25NUkFadlo4VlpKY1ZVV2NuS2ZqX29PTW9NM0YzUTRsQnBlNmFFa0U0RnV4dUNscmswbXlwV2NjQkJfckRWQ1owR0twNk1ySmNLN0UtNEhSNVZwRkhUWmtwYlJZZ05hZEZsZzZ0MmN6dHMzcWJFQWU5U3hBN0ItdVlBNVZ2SkI4bEFDcW1XaXQ5R0E?oc=5)
-
----
-
-### [Ein Kaugummi aus Bohnen senkt die HPV-Last im Mund - Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxONl9tMmotUzlXT0xHLU0tVEpvVzVUbjRhRW1HRWgyTmhsRTcwZmgwSmdHdnIwVmpRcDZKbHhlTDFDelhSNHMyZ3dsMlJ6REhDY0h5WFJlRVhPZUo0UEFGbG9CUXhrbzBwOHdKSXBpcnJzVTlpSGw5ZGVSejBWTDV0anZXelZ6aHhuLTd5VGtLQ1czdm5ZZGJVTGFtUVl2UDJ3bEozMHl6YkpuRUJxUGZSQWU1aEJnVE0?oc=5)
+### [HPV-Kaugummi: Neue Studie belegt 93% Viruslast-Reduktion - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFBnNXc3RGhvOGJYU3p4RW1UakxCeHE4ZWJucUhyNWpwemVDb3Q4UHhRTlVUOW53eGVLUkxGTmdwdEFVOVhrNzZOTnR6N3Fwa0k0UDBzdTkwcjF1TEFNRkV5LWp0ZFN0S1dSR1ZOU2lNWGh4ZUt0bWEwRDhvZXZPdnFhemhhQy1VMW00b1NVcTdqU3lmZ29ZWDVMVUE1ZVhLWVZET3N2NmFXY002ZjlPdA?oc=5)
 
 2026-08-08 <span class="news-indication-tag">Krebs</span>
 
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitwFBVV95cUxONl9tMmotUzlXT0xHLU0tVEpvVzVUbjRhRW1HRWgyTmhsRTcwZmgwSmdHdnIwVmpRcDZKbHhlTDFDelhSNHMyZ3dsMlJ6REhDY0h5WFJlRVhPZUo0UEFGbG9CUXhrbzBwOHdKSXBpcnJzVTlpSGw5ZGVSejBWTDV0anZXelZ6aHhuLTd5VGtLQ1czdm5ZZGJVTGFtUVl2UDJ3bEozMHl6YkpuRUJxUGZSQWU1aEJnVE0?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFBnNXc3RGhvOGJYU3p4RW1UakxCeHE4ZWJucUhyNWpwemVDb3Q4UHhRTlVUOW53eGVLUkxGTmdwdEFVOVhrNzZOTnR6N3Fwa0k0UDBzdTkwcjF1TEFNRkV5LWp0ZFN0S1dSR1ZOU2lNWGh4ZUt0bWEwRDhvZXZPdnFhemhhQy1VMW00b1NVcTdqU3lmZ29ZWDVMVUE1ZVhLWVZET3N2NmFXY002ZjlPdA?oc=5)
 
 ---
 
@@ -251,14 +267,6 @@ permalink: /news/sunitinib/
 2026-08-08 <span class="news-indication-tag">tumor</span>
 
 來源：[ilmessaggero.it](https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3pNYjlPbVpEN2NpQ2xmOWMxeGp5XzFHZDFiTHJiaG9kT21idXAxSmRtTFhPNHNEOXNtSDRhemgzVVc1RWZZcEdqUy1Ga245aVJuRDIycEtUY0dCeVJBUUJzWTJuVDJVNjhxR2FZMVNmbkhjVjJkRy1PbDY3TXVRSlBrNHdBcVlNeWdoNGJ3T1dBSlR3c0Y3aHMyaWRiZw?oc=5)
-
----
-
-### [« Le cancer n’aura pas le dernier mot » : après la mort de son mari, Pauline Crucis récolte des fonds pour la recherche](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQXJINTRVY3lXeFRTYlBJUVNocjRVcW9QSWh3QkxZenpDSDVUZU9CUk5oVGxCRmJJMjdfLW01dTFLOTYzOFo5aGV4TE1xa081M3VoSXR2WGdmVzRzR05ubWxjOFVJekp0VUJ1Y05QVF9HcFk1d0NFWGF3aU9fbHB5dTE1dGtPYkdFTmY1aHZSRy1HZWNfMHMya2FLbkw0TF9tVmtWSjh6MDlLV3JsRjdjZEp5aWQxdk53eWlhTGcweEIwZXEtSFhQMFNoVFlRWmRwTDhkampPSy13ejJJam9mUnhtdWdfR2Y2SmNNenNXS3NFWnN2NHlYZE51WDJPWlhobXJNY1FNcTltSXc1b3EwWkpaNA?oc=5)
-
-2026-08-08 <span class="news-indication-tag">cancer</span>
-
-來源：[Ouest-France](https://news.google.com/rss/articles/CBMikwJBVV95cUxNQXJINTRVY3lXeFRTYlBJUVNocjRVcW9QSWh3QkxZenpDSDVUZU9CUk5oVGxCRmJJMjdfLW01dTFLOTYzOFo5aGV4TE1xa081M3VoSXR2WGdmVzRzR05ubWxjOFVJekp0VUJ1Y05QVF9HcFk1d0NFWGF3aU9fbHB5dTE1dGtPYkdFTmY1aHZSRy1HZWNfMHMya2FLbkw0TF9tVmtWSjh6MDlLV3JsRjdjZEp5aWQxdk53eWlhTGcweEIwZXEtSFhQMFNoVFlRWmRwTDhkampPSy13ejJJam9mUnhtdWdfR2Y2SmNNenNXS3NFWnN2NHlYZE51WDJPWlhobXJNY1FNcTltSXc1b3EwWkpaNA?oc=5)
 
 ---
 

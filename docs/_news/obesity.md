@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas（obesity） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Adipositas（obesity） 的相關健康新聞報導。1 則新聞、8 個相關藥物。"
+description: "Adipositas（obesity） 的相關健康新聞報導。2 則新聞、8 個相關藥物。"
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="Adipositas（obesity） 有什麼相關新聞？">
-<strong>Adipositas（obesity）</strong> 目前有 <strong>1 則</strong>相關新聞報導，8 個相關藥物。
+<strong>Adipositas（obesity）</strong> 目前有 <strong>2 則</strong>相關新聞報導，8 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ permalink: /news/obesity/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
+### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFVOHAtdVZWNEwzeV9Fa2psMXZnc1lZOW5YZlNzdE1YMFB5U0VweHhTcU1Nc2Zfbkk1VXNDaF80bmlBRG5yeEhLUklmZF84RjFIWkNSVTRvaDA2UHJURVFpLXNwWGV5QjEwS3dHdmFscW9pSnJScHFiQkpSUk8zV1Z2MGV1QnMtRmpUbWlmc2trRi1zeUgwQk1sRmtxUlRFa2VKUGs5S1BrQmxOYnpUbi1zREZJTVBOVHBfbFVNeEYwSlo2dzZhOGlqNzd3NUtCdk53WQ?oc=5)
+
+2026-08-10
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFVOHAtdVZWNEwzeV9Fa2psMXZnc1lZOW5YZlNzdE1YMFB5U0VweHhTcU1Nc2Zfbkk1VXNDaF80bmlBRG5yeEhLUklmZF84RjFIWkNSVTRvaDA2UHJURVFpLXNwWGV5QjEwS3dHdmFscW9pSnJScHFiQkpSUk8zV1Z2MGV1QnMtRmpUbWlmc2trRi1zeUgwQk1sRmtxUlRFa2VKUGs5S1BrQmxOYnpUbi1zREZJTVBOVHBfbFVNeEYwSlo2dzZhOGlqNzd3NUtCdk53WQ?oc=5)
+
+---
+
+### [Obésité : pourquoi le taux a-t-il été multiplié par deux en Angleterre depuis 1993 ?](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
 
 2026-08-09
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUxSdlh5WGtXaWxFNVlaa1ZIaVlHeE5MYkJ0dlpYT0VQUUtWS040d3o3VGhPcENkM1FTYW9VWGFpRl90VWR1TDhEc1BtRWNES3NDY3JlbVdQWjBPQUdsS2RKSm54UEtGWnhLUE82RmlfcENsa1lJcEtUZDlQNW85U0ZMcFBuckE1Z09qa1dmMVF5TF9pdmFuY1Bsd0lUTFpNVTI5VlY4bzVJRU4xMHI5SXA2WXAyTUNuTGcwR0o1MXVoZ3loaWt4dGdzWGNMV0g2MFJzOQ?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
 
 ---
 
