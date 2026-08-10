@@ -54,11 +54,11 @@ permalink: /news/alirocumab/
 
 ## 相關新聞（1 則）
 
-### [Caldo e cervello, a 40 gradi pensiamo davvero più lentamente? Cosa mostra lo studio](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ28xcFpNXzRzZTBOcWFqQjE4X1EzTDZyR1ltV1NsbFdubWtyX1FXU2VKc2lCajdWcFJOUFFwZmFlOHdxMUFTTWJWMENsV1N6VE84MFJGX2F0NlVPci1TaDROdnZDWldGTENJeUxMTElGaHVTclJNemYzNWZxb0t6bmtEN0VDaDJJWVVOS1dIbUZCbGM0bXEtRWxwbUItdDZQS0RVME81YTRjdzNsSURpQ2UwZExZZGQ3NVBPZmxZOUJ2bUJfazJsSlZKb1FsTUY5WW1Rc00xUHo?oc=5)
+### [Barricati in casa per il caldo: per i bimbi un secondo lockdown - Gazzetta di Parma](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWpnT1h1bmV5N2hWd2RYaFdaZ05POTcwUWhfelJyVmRyTVZKQ2JVY2JLYWxLUUNMQWRWNmJMdGgwLTROUnVEU1MwXzYyellldnIxNHE2dnRiQ2FzYjRpUXNuUkljbzJEWXdVR2g3VHpaQ2ZOMWFkcllkZ2kwVkh4OVZ4RHBPbG12dDZYZW15cnF4RzU4ZTJzYkVPZlN4YlpHc1V2LS1SdWxCc3laWThjdzlzMUQ4R1g2djc5dDVDaw?oc=5)
 
 2026-08-09 <span class="news-indication-tag">CKD</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ28xcFpNXzRzZTBOcWFqQjE4X1EzTDZyR1ltV1NsbFdubWtyX1FXU2VKc2lCajdWcFJOUFFwZmFlOHdxMUFTTWJWMENsV1N6VE84MFJGX2F0NlVPci1TaDROdnZDWldGTENJeUxMTElGaHVTclJNemYzNWZxb0t6bmtEN0VDaDJJWVVOS1dIbUZCbGM0bXEtRWxwbUItdDZQS0RVME81YTRjdzNsSURpQ2UwZExZZGQ3NVBPZmxZOUJ2bUJfazJsSlZKb1FsTUY5WW1Rc00xUHo?oc=5)
+來源：[Gazzetta di Parma](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWpnT1h1bmV5N2hWd2RYaFdaZ05POTcwUWhfelJyVmRyTVZKQ2JVY2JLYWxLUUNMQWRWNmJMdGgwLTROUnVEU1MwXzYyellldnIxNHE2dnRiQ2FzYjRpUXNuUkljbzJEWXdVR2g3VHpaQ2ZOMWFkcllkZ2kwVkh4OVZ4RHBPbG12dDZYZW15cnF4RzU4ZTJzYkVPZlN4YlpHc1V2LS1SdWxCc3laWThjdzlzMUQ4R1g2djc5dDVDaw?oc=5)
 
 ---
 

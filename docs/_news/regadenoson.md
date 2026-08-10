@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="Regadenoson 有什麼相關新聞？">
-<strong>Regadenoson</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Regadenoson</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/regadenoson/
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Por qué la migraña empeora en verano y qué hacer para evitar un ataque - Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
+### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">migraña</span>
+2026-08-10 <span class="news-indication-tag">asthma</span>
 
-來源：[Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
-
----
-
-### [Weniger Allergien und Asthma: Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
-
-2026-08-09 <span class="news-indication-tag">asthma</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
 
 ---
 

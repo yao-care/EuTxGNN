@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="Tacrolimus 有什麼相關新聞？">
-<strong>Tacrolimus</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tacrolimus</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [The best exercise routine to treat arthritis, from an orthopaedic doctor - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
-2026-08-10 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [CRISPR e IA se alían para descubrir un gel tan eficaz contra la psoriasis como los fármacos inyectables](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNEVlbDlFUFFDdU81UDV6YzlWcEhyS0NTbHhJZGprQ2dLRGVXOFlKSnN4cmFJYXNOXzE4X3FCOGdPTzA2ZzlQVzNXdWtCcmd6a3dodmI3VVoteEFtTy0yTzBaVVpSYW9QVnBPQk16ZmVTdUtmNUhlQVNINFhYTURrSkdZeU1ULUtQbkxBMy1pbW5hOEx5VDRCUzJjVlZxcXJWZTE3UzZLWFAxZVg5YTBFTngzek5jVlN6Rk9zY2RmZUxXRGk2ZFFfci12TVZibWdlRHdWWFhhQ19aa0sxOWhXckNaVngwa2dwNER4ZkJZdjRzbVRkUWlCZWR3?oc=5)
 

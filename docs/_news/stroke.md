@@ -3,7 +3,7 @@ layout: default
 title: "AVC（stroke） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "AVC（stroke） 的相關健康新聞報導。2 則新聞、11 個相關藥物。"
+description: "AVC（stroke） 的相關健康新聞報導。1 則新聞、11 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="AVC（stroke） 有什麼相關新聞？">
-<strong>AVC（stroke）</strong> 目前有 <strong>2 則</strong>相關新聞報導，11 個相關藥物。
+<strong>AVC（stroke）</strong> 目前有 <strong>1 則</strong>相關新聞報導，11 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -39,21 +39,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 2026-08-09
 
 來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
-
----
-
-### [Ictus, che cosa c’è nel coagulo che blocca il cervello? Gli scienziati ne hanno letto il “metabolismo”](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
-
-2026-08-08
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaExISklmbFduR1MxVDRlaldOQTZjcE43ZG9CU1pVUVBfSGdtVzhaa0VkRy1yOG5yR0lqT0dfZ0l2bTNhOGZpOGtqWG1XZmV1eXRzRDdPWjNQY0U5N2NPOVVKQllrMmx6cHdYckFvODdQSUswS0UwWVFHR1V5clluZVNTMHM3MjF2Sm1BX3ctRG9fTnp0UGx4cXJHS1AxamU2WmhXbnFLZVIxS3h3UjhrRWxSV25KSEJkYTJFWndRUEo1ZmtHTHhqcjdwaFkxQ3BlSGhfWlRoY2lTZkNXX2RXaFlYQ0FRZEFfNUNaZ0V3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/memantine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Memantine Hydrochloride 有什麼相關新聞？">
-<strong>Memantine Hydrochloride</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Memantine Hydrochloride</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,21 @@ permalink: /news/memantine-hydrochloride/
 <p><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（4 則）
 
-### [The best exercise routine to treat arthritis, from an orthopaedic doctor - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
-2026-08-10 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
----
-
-### [Kein höheres Diabetesrisiko bei früher Menopause](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
+### [Studie: Drei Gesundheitsfaktoren im mittleren Alter verzögern Demenz um 13 Jahre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[medonline.at](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
 
 ---
 
-### [Por qué la migraña empeora en verano y qué hacer para evitar un ataque - Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
-
-2026-08-10 <span class="news-indication-tag">migraña</span>
-
-來源：[Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
-
----
-
-### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+### [The foods this French heart expert wants you to stop eating](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
 
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
 
 ---
 
@@ -99,14 +83,6 @@ permalink: /news/memantine-hydrochloride/
 2026-08-08 <span class="news-indication-tag">Migräne</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQldrQ3VmeDYxNGdYR3pQYmR5ZzI2SmVfSTJMaFhUQVlYdFJrMDdmSEJHanh1VTgwUUl2VjR4cmRBM29GU1ZLRTJZLUVYcF8yMTZGMDROb2FpaUFBRkZyM2pqVU9LOGhkQkNOTERETTFiek9ua3JkZmpSd0FiZUt0NUlRNVBkeUdUajZXZkg1OHlmTHN4QVJkMzczZGl4Qkx6NFRYamdQUEVlT19B?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
 
 ---
 

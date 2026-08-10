@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="Colistimethate Sodium 有什麼相關新聞？">
-<strong>Colistimethate Sodium</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Colistimethate Sodium</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ permalink: /news/colistimethate-sodium/
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
-### [The best exercise routine to treat arthritis, from an orthopaedic doctor - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
-2026-08-10 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
----
-
-### [Kein höheres Diabetesrisiko bei früher Menopause](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
+### [Studie: Drei Gesundheitsfaktoren im mittleren Alter verzögern Demenz um 13 Jahre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[medonline.at](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
 
 ---
 

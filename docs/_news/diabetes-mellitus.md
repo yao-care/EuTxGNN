@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes（diabetes mellitus） 相關新聞"
+title: "diabete（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。5 則新聞、86 個相關藥物。"
+description: "diabete（diabetes mellitus） 的相關健康新聞報導。8 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes（diabetes mellitus） 相關新聞
+# diabete（diabetes mellitus） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>5 則</strong>相關新聞報導，86 個相關藥物。
+<p class="key-answer" data-question="diabete（diabetes mellitus） 有什麼相關新聞？">
+<strong>diabete（diabetes mellitus）</strong> 目前有 <strong>8 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「diabetes」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「diabete」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,23 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
+
+2026-08-10
+
+來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
+
+---
+
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
+
+2026-08-10
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
+
+---
 
 ### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUF6NnZjbUV1aEs0MUNUc3NVQWVpNEhNMzd0X0hueG1qUHJYMjR0bm5XT1ppWEd5STNyVTRtdXdzOEZ5SEFMa053b0R2NWhjWFAtZjVIdjl0MEotMkVFYXNmZ2lXQnMzSUVKUi1ZR2NJREdkTkpqaVNsQWsxM2xzQ0ZxSVJWRC1ZcHVoV1RFS0RTcWN6dGFzYTRNamZrM1JrR09CdWhIWi0xSDVsbm9yR3doZ19RTDFha2lTYVg5dEU3R0h2SVE?oc=5)
 
@@ -124,11 +140,27 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
-### [Diabetes-Risiko: FNIP1-Gen senkt Erkrankungschance um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBqQy1GSG91N2MwVmRHaVBNanlheHd6QWxRdVB0dUZSLXE4dDBCUVlRTUEwN1ZEMEliZ2RvN1FGd0drbTZZazJoRjNWd3pydnlNYWdwRjNhbTlPNGZqQ3JuUVd5WDlrNlVXeWJacl93THNUR2JhVHJCQVZJM2N0c3BPRFFoX2VHeUNQM1J0bGo0VVpiTkkzcTlqQ0s2bUpaaUpRNU9XcTlZS0k5UG5NaEZB?oc=5)
+### [FNIP1-Genvariante senkt Risiko für Typ-2-Diabetes um 60 Prozent - it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFnSzRZSElrbzZEMGF5cXRGN19yNWN0enU0aTRfMWl6WWVUY1FpN3ZlelJzRlMxM2JuaEhveFl3RVc3Qko1Z2lwYlZfcFkyaUJ0ZHJkM0hVRGt3TFRQS1pCdVVkN3NERnk2TWFlcVlKeFlaakExYk1INU5wZ2R5SVp6ZlV4RWVwTzdYVEVfWVhNcm4zeWN0TVVWckg?oc=5)
 
 2026-08-10
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBqQy1GSG91N2MwVmRHaVBNanlheHd6QWxRdVB0dUZSLXE4dDBCUVlRTUEwN1ZEMEliZ2RvN1FGd0drbTZZazJoRjNWd3pydnlNYWdwRjNhbTlPNGZqQ3JuUVd5WDlrNlVXeWJacl93THNUR2JhVHJCQVZJM2N0c3BPRFFoX2VHeUNQM1J0bGo0VVpiTkkzcTlqQ0s2bUpaaUpRNU9XcTlZS0k5UG5NaEZB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnFnSzRZSElrbzZEMGF5cXRGN19yNWN0enU0aTRfMWl6WWVUY1FpN3ZlelJzRlMxM2JuaEhveFl3RVc3Qko1Z2lwYlZfcFkyaUJ0ZHJkM0hVRGt3TFRQS1pCdVVkN3NERnk2TWFlcVlKeFlaakExYk1INU5wZ2R5SVp6ZlV4RWVwTzdYVEVfWVhNcm4zeWN0TVVWckg?oc=5)
+
+---
+
+### [Diabete, non conta solo la glicemia: ecco cosa cambia nella cura](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+
+2026-08-10
+
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+
+---
+
+### [Studie: Drei Gesundheitsfaktoren im mittleren Alter verzögern Demenz um 13 Jahre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
+
+2026-08-10
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
 
 ---
 
@@ -145,14 +177,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-09
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
-
----
-
-### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
-
-2026-08-09
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
 
 ---
 

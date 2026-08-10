@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [The best exercise routine to treat arthritis, from an orthopaedic doctor - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
+### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">arthritis</span>
+2026-08-10 <span class="news-indication-tag">asthma</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
----
-
-### [Weniger Allergien und Asthma: Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
-
-2026-08-09 <span class="news-indication-tag">asthma</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSzc3WG1KVm5uS1J4LWdVSk5nUURzQkRFNmEwclkxc3JXWlF6Q0ZxMFpwbHllU0xhSm0zeV81UzdEWkNHRXV4NGVTSzc4Z2huZW5ZT0p2NlVKSjYyLVNOWmU5TTFhTHUwc25RSVZ3ak1RUW90V3VFS0RtcWloeTByb1dWVVFkR1cxRlVMajBVZWhGVFNPR2c1ZkdNRk8tTjN5ZUJYRkxFUmVQcGZFaWMycU1naG1ua2UyNTY2YlFpUk5SdFcwYXFsNHBTWDQ4QmJHVlRCU1ZERkQ5M2RXVnhz?oc=5)
+來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
 
 ---
 

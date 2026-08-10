@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="Icosapent Ethyl 有什麼相關新聞？">
-<strong>Icosapent Ethyl</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Icosapent Ethyl</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/icosapent-ethyl/
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [The best exercise routine to treat arthritis, from an orthopaedic doctor - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
-2026-08-10 <span class="news-indication-tag">arthritis</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
----
-
-### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+### [The foods this French heart expert wants you to stop eating](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
 
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
 
 ---
 

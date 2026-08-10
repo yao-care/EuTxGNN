@@ -43,11 +43,19 @@ permalink: /news/carbidopa/
 
 ## 相關新聞（4 則）
 
-### [My mother’s dementia nightmare says everything about Britain’s social care crisis - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
+### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
+
+2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
+
+---
+
+### [My mother’s dementia nightmare says everything about Britain’s social care crisis](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
 
 2026-08-09 <span class="news-indication-tag">dementia</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1ZDWVEyTzQzeDBrUjVFdEUwZ3VweU9SZXZxMkh0Zkp2YmRYSER3VVpCWFNQSUxfUnBGSlNOeDBnalVJVW94LVZuS3ZaQ0U2bDQxN2dNelhzUHR6ZWNBSXFzay1GWFAySDJoUlhyX3lOd1B2NDRmYU80dW5vcFVxN2V3bmxpRWxmVk5uRjdkWGFfTTRBajF1YlMwZXVzajhINGRz?oc=5)
 
 ---
 
@@ -61,17 +69,9 @@ permalink: /news/carbidopa/
 
 ### [12-Monats-Daten zu Foslevodopa/Foscarbidopa bei Parkinson](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
 
-2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span> <span class="news-indication-tag">Parkinson-Krankheit</span>
+2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span>
 
 來源：[Journalmed.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
-
----
-
-### [The most extensive review of dementia risk to date found nearly half of all cases trace back to 14 everyday factors, from hearing loss to untreated vision problems, most of which have more to do with your health than your age - Space Daily](https://news.google.com/rss/articles/CBMixgJBVV95cUxOb0lqY1NWTG9YOC0zeTgwWG9ESmdaQXJXYlk5VDl4UWluSDJnOGs0Z0IxaHVEMmEwbnJkNmZqb0tTVDJIakZYTUFEeTVHeGFQNEYtb2J4OVYxSElqOWFzZ1V6STQxS3dNQndXYnlMUU1fUFdCdFdxWFN2Q1ZJUmtLTk9HdDBvcy02WVJneGZqWGhuNk9VOVFqT1lhdHVRMmY2QjR5V29nUnB0RXJzdTZQcWJYRFJ6dXg1ekh0ZTZMYjdkRWtSZWJHa2hDbXhESmFfXzlEWUUzVUFyMG1sX0x1NU1URFpIS083RWo5M3lXMmxOdlZpelFZQWxFVWR4M3V1QnhrWWcxVlVwSnd0TE1VMmQzOUk5bWEyNUtzaUN2dXdtNmthWHcxZ245WWhWdWM3aWc3aU9oRndzR2RyLVotWTlrbEwwUQ?oc=5)
-
-2026-08-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
-
-來源：[Space Daily](https://news.google.com/rss/articles/CBMixgJBVV95cUxOb0lqY1NWTG9YOC0zeTgwWG9ESmdaQXJXYlk5VDl4UWluSDJnOGs0Z0IxaHVEMmEwbnJkNmZqb0tTVDJIakZYTUFEeTVHeGFQNEYtb2J4OVYxSElqOWFzZ1V6STQxS3dNQndXYnlMUU1fUFdCdFdxWFN2Q1ZJUmtLTk9HdDBvcy02WVJneGZqWGhuNk9VOVFqT1lhdHVRMmY2QjR5V29nUnB0RXJzdTZQcWJYRFJ6dXg1ekh0ZTZMYjdkRWtSZWJHa2hDbXhESmFfXzlEWUUzVUFyMG1sX0x1NU1URFpIS083RWo5M3lXMmxOdlZpelFZQWxFVWR4M3V1QnhrWWcxVlVwSnd0TE1VMmQzOUk5bWEyNUtzaUN2dXdtNmthWHcxZ245WWhWdWM3aWc3aU9oRndzR2RyLVotWTlrbEwwUQ?oc=5)
 
 ---
 

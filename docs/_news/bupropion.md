@@ -54,11 +54,11 @@ permalink: /news/bupropion/
 
 ## 相關新聞（2 則）
 
-### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFVOHAtdVZWNEwzeV9Fa2psMXZnc1lZOW5YZlNzdE1YMFB5U0VweHhTcU1Nc2Zfbkk1VXNDaF80bmlBRG5yeEhLUklmZF84RjFIWkNSVTRvaDA2UHJURVFpLXNwWGV5QjEwS3dHdmFscW9pSnJScHFiQkpSUk8zV1Z2MGV1QnMtRmpUbWlmc2trRi1zeUgwQk1sRmtxUlRFa2VKUGs5S1BrQmxOYnpUbi1zREZJTVBOVHBfbFVNeEYwSlo2dzZhOGlqNzd3NUtCdk53WQ?oc=5)
+### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVVdVYyVEF4SmJHbFM3SVpxcUNzOWt0cmVJUjk2OVF0MEVaeFlNbURGREM5cXRNeXJQLWlrNE00OFhvQWhnV2VhNzJ3YjIwNFM0T3ZCTzktN1NlaS0xRERBZUFPWkF5OWZNbHhtUDJiRGF2anhXYk9FLXFYUXVzZVVfRnF6N3pWaXk4T2ltRXJZU1YwRm1vb092OFdNZ2ZXQXhTNExVX2hzaVU?oc=5)
 
 2026-08-10 <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDFVOHAtdVZWNEwzeV9Fa2psMXZnc1lZOW5YZlNzdE1YMFB5U0VweHhTcU1Nc2Zfbkk1VXNDaF80bmlBRG5yeEhLUklmZF84RjFIWkNSVTRvaDA2UHJURVFpLXNwWGV5QjEwS3dHdmFscW9pSnJScHFiQkpSUk8zV1Z2MGV1QnMtRmpUbWlmc2trRi1zeUgwQk1sRmtxUlRFa2VKUGs5S1BrQmxOYnpUbi1zREZJTVBOVHBfbFVNeEYwSlo2dzZhOGlqNzd3NUtCdk53WQ?oc=5)
+來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVVdVYyVEF4SmJHbFM3SVpxcUNzOWt0cmVJUjk2OVF0MEVaeFlNbURGREM5cXRNeXJQLWlrNE00OFhvQWhnV2VhNzJ3YjIwNFM0T3ZCTzktN1NlaS0xRERBZUFPWkF5OWZNbHhtUDJiRGF2anhXYk9FLXFYUXVzZVVfRnF6N3pWaXk4T2ltRXJZU1YwRm1vb092OFdNZ2ZXQXhTNExVX2hzaVU?oc=5)
 
 ---
 

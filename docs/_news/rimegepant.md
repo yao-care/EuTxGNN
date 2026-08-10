@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="Rimegepant 有什麼相關新聞？">
-<strong>Rimegepant</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Rimegepant</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/rimegepant/
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [Por qué la migraña empeora en verano y qué hacer para evitar un ataque - Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
-
-2026-08-10 <span class="news-indication-tag">migraña</span>
-
-來源：[Crónica Global](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BzbzItaGJHOUltV05VOHBxZGVvTm1Oc1k0VzR2ODI4aEhsaTVJNi05XzRLV1VIOGRKNnVBeUxkbmhKT0Y4Zkg4cmtXSHVkWmxPUEI3SGpkSVZmZExzNWVrTVByVVZTMWktdWx0eUNmbnpjY2o4REZ4NzlIUXhfUWxwRnFuZFZ5U2ZlYlVSNkVUUDdnQ1VyaUZ2ZWdEWDRqQXFmWGNlSWM0Ylg5VXVJQmpralhGV3dSei1SZkgwRWPSAcYBQVVfeXFMTmd1dWlaNTh5Z3lSdGxwVjM3M1VyUHpFSlNkYTR5ZFA1TGtCQVhPOGw0aktHdzRXbUIyVURoeVk4d0xtWW12ejBiVUhNT3p4NUotSnFWeVgzcG9BSldJUHgzUTU5ZnFIckZGYkdRSDc4cnl0dlFZQTB0Y0lZMWZWbXVJZ09vRXBfV1NZWHNSLXRERmNvWXo2WC1XNnUtWFFac2lqbHlnTEVDTFNaRTZoTVFlZHZ4X3RsTmNFdWpOTm1FcVNrS2ln?oc=5)
-
----
-
-### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+### [The foods this French heart expert wants you to stop eating](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
 
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
+來源：[telegraph.co.uk](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
 
 ---
 

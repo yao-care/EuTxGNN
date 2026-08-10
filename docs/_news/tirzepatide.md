@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [The best exercise routine to treat arthritis, from an orthopaedic doctor - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
+### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
 
-2026-08-10 <span class="news-indication-tag">arthritis</span>
+2026-08-10 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFF0Tkh5dnJTb201RDlmNHExLVI5MUtuRTVBM3YtenVwMVZseEhMS09reTl2U0RBTW5Ubk9Nb3pKWWRGS2R3c1RDS3VwQTlzdFFGN2o3WXBkV0ZIR2pFY0dGdjBSR015RWJMLTlHSHhnalhPWWhGWTBlQkZYMWt2LVNqaVdkZ2dvM0dTdkJPNlVMcGoyOGloaXBrNHhxdVd2V1ZOQlIxTFE3R21KcTJfOGJCNWJaRi03U1RrWThhZ0k?oc=5)
-
----
-
-### [Mounjaro-Wirkung: Weniger Herzinfarkte und schwere Infektionen - smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
-
-2026-08-09 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-來源：[smart up news](https://news.google.com/rss/articles/CBMingFBVV95cUxQc0FrNVRzZXJPd3FVbnhEQW5adWk0UGxCLXdVcjNrMzNTSTFaLS0tSk9YdkJJRlN6T3hxM2M4UUZWMUNpSVQzdWNwY1F0TFZQWlBwaFhmb1k3bjdCRHZ0ajRRVHZUYmVjUmRWdU04UnR2dE03S3g5QnBPanc0SUJyUDNVbFZYTnJzQU8tSHlpa25lQWMxaGphZGRqelpOQQ?oc=5)
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
 
 ---
 
