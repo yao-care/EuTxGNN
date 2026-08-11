@@ -54,19 +54,19 @@ permalink: /news/lipegfilgrastim/
 
 ## 相關新聞（10 則）
 
+### [Mangelernährung und Dehydratation bei älteren Menschen mit Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFBnTDNtU0MwUGpnM21PUzRDR245Z3kwNENWY01KaklKeDNLVEoxRW0xSU4zV29MN1lmSHFhNnVERXBkNDVMZ2puZk9OWXViUWgzUjhacWxOVjVVMldGaG93MVQyLVZyMlk4ai1sR2xyTzVQdzIwME9IcUYyZG5TM09hQXRKeDlGMjR4ZTFad3R1bWRHa29IeVpxc2w4VUNjZ2tYSU5XN2h4QQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[mgb-medizin.de](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFBnTDNtU0MwUGpnM21PUzRDR245Z3kwNENWY01KaklKeDNLVEoxRW0xSU4zV29MN1lmSHFhNnVERXBkNDVMZ2puZk9OWXViUWgzUjhacWxOVjVVMldGaG93MVQyLVZyMlk4ai1sR2xyTzVQdzIwME9IcUYyZG5TM09hQXRKeDlGMjR4ZTFad3R1bWRHa29IeVpxc2w4VUNjZ2tYSU5XN2h4QQ?oc=5)
+
+---
+
 ### [Aurelio Rojas, cardiólogo, avisa: "Estas carnes aumentan enormemente el riesgo de enfermedades de corazón, diabetes y mortalidad"](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[SPORT](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
-
----
-
-### [Adipositas-Medikament senkt Risiko für gefährliche Herz-Kreislauf-Erkrankungen und Infektionen deutlich](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
-
-2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
-
-來源：[dzhk.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+來源：[sport.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
 
 ---
 
@@ -78,6 +78,22 @@ permalink: /news/lipegfilgrastim/
 
 ---
 
+### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+
+---
+
+### [Faut-il vraiment croire au pouvoir du microbiote intestinal ? Ce que montrent les études sur le poids et l’alimentation](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[RTL](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
+
+---
+
 ### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
 
 2026-08-11 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
@@ -86,11 +102,11 @@ permalink: /news/lipegfilgrastim/
 
 ---
 
-### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+### [Dem Diabetes den Weg abschneiden - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
 
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-08-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+來源：[Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnMzbURZU09zQml5RGJTUkxOQzRXN1phMl9RNmkyQTB3eEVveUdZVk5mZ1VpUjIwNkRiUmRQUVF4bzJQazlfQ0NtR1NWOWxJZ29sdzNtNzZWU1B5WGYyRFpRUF9VdU5FTmd6NUtSOEJwZlZRak9xSXRXbTNWc0tkV0RwYnlaMFhJcHYzaGUzT0J2U1p5eDhjYWp3WkJITTg?oc=5)
 
 ---
 
@@ -106,15 +122,7 @@ permalink: /news/lipegfilgrastim/
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
 
-來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
-
----
-
-### [Un estudio concluye que 3 factores de salud en la mediana edad retrasan la demencia 13 años](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/lipegfilgrastim/
 2026-08-10 <span class="news-indication-tag">diabetes</span>
 
 來源：[medonline.at](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWFsNGJfVGVrdnFnVXVnVjVSYU1QbDY2Y2psQnNFRzRyTl96SDJKUUdzbDNKQWU0SHdjdzRFUVVGTWhaZWtWQklOQ0FDaVJJYzlBeEpWaFZkbVlJVE5yUGRBbUc2cG5iQjMzS2t3eW1nY1Q3QzBQNVlaZktoQlEwODV1aFJEUUQ1clJ4aUtGMDA4N1ZRY0VJdFFUQ28?oc=5)
-
----
-
-### [Diabetes + Vorhofflimmern: Therapietreue verzögert Komplikationen um 7 Monate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1pEMHU3b3l4dVk2N0x0ZEE3dTAweF9iR1Q4NU95YTQ4Z0Mtdm5qd3RLd3RCbUpCdkVEcFpJc2VaYlpzdkdvNjZpRk51REg4OFBwN012WnJ3NG9Gb2VDbDZnYTBGLWpVY1FMdmVzU0kyYXZyQ3JOWUxpMHpTSDdBTkQ5TDhsSVAxcXplWGNsMEdjLTJ5Si1jcEdjdXk3RTJUN2hLbDk1Sy16dUlzdVpsZFhackt3OUhS?oc=5)
-
-2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1pEMHU3b3l4dVk2N0x0ZEE3dTAweF9iR1Q4NU95YTQ4Z0Mtdm5qd3RLd3RCbUpCdkVEcFpJc2VaYlpzdkdvNjZpRk51REg4OFBwN012WnJ3NG9Gb2VDbDZnYTBGLWpVY1FMdmVzU0kyYXZyQ3JOWUxpMHpTSDdBTkQ5TDhsSVAxcXplWGNsMEdjLTJ5Si1jcEdjdXk3RTJUN2hLbDk1Sy16dUlzdVpsZFhackt3OUhS?oc=5)
 
 ---
 

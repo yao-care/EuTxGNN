@@ -62,19 +62,19 @@ permalink: /news/lopinavir/
 
 ---
 
+### [Hepatitis C to be eliminated in England - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">hepatitis</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+
+---
+
 ### [Hepatitis A: Prävention bleibt bei Risikogruppen entscheidend](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
-
----
-
-### [England set to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">hepatitis</span>
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 ---
 

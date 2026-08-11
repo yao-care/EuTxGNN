@@ -54,19 +54,19 @@ permalink: /news/drospirenone/
 
 ## 相關新聞（2 則）
 
-### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[BR](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
-
----
-
 ### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
 
 2026-08-11 <span class="news-indication-tag">asthma</span>
 
 來源：[futurezone.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
+
+---
+
+### [What Helps Knee Pain? 5 Tips From an Orthopedic Surgeon - Health News Hub](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWZTOWJCdGloN1VLLXZRZXdfMG5MVTVzeGQ3aGxRZVZINnIyVHVzOGRnSWg3a25remVyOHJGdUFOc1JXWkp4b1E0UFU2blNfdjdmZFloUVRweXRISEw1bFlsazhIdG5iU3NjcGxwQ2pHaEtlSVdzOE1zdHVpZUVidkdGTlBLekts?oc=5)
+
+2026-08-10 <span class="news-indication-tag">arthritis</span>
+
+來源：[Health News Hub](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWZTOWJCdGloN1VLLXZRZXdfMG5MVTVzeGQ3aGxRZVZINnIyVHVzOGRnSWg3a25remVyOHJGdUFOc1JXWkp4b1E0UFU2blNfdjdmZFloUVRweXRISEw1bFlsazhIdG5iU3NjcGxwQ2pHaEtlSVdzOE1zdHVpZUVidkdGTlBLekts?oc=5)
 
 ---
 

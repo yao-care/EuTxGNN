@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="Tasimelteon 有什麼相關新聞？">
-<strong>Tasimelteon</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tasimelteon</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ permalink: /news/tasimelteon/
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [15 minutes pour détecter Alzheimer, Parkinson ou la dépression : l’innovation israélienne qui pourrait tout changer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
-
-2026-08-09 <span class="news-indication-tag">dépression</span>
-
-來源：[IsraJ](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

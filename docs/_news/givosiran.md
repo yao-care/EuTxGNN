@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
 
@@ -62,11 +62,27 @@ permalink: /news/givosiran/
 
 ---
 
-### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[abendblatt.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+
+---
+
+### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+
+---
+
+### [Hepatitis C to be eliminated in England - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">hepatitis</span>
+
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
 
 ---
 
@@ -74,15 +90,7 @@ permalink: /news/givosiran/
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
-
----
-
-### [England set to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">hepatitis</span>
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 ---
 
@@ -91,22 +99,6 @@ permalink: /news/givosiran/
 2026-08-10 <span class="news-indication-tag">epatite</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
-
----
-
-### [Un estudio concluye que 3 factores de salud en la mediana edad retrasan la demencia 13 años](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
 
 ---
 

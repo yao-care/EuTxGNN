@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="Ledipasvir 有什麼相關新聞？">
-<strong>Ledipasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ledipasvir</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ permalink: /news/ledipasvir/
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [Más de 2.000 muertos por ébola en la República Democrática del Congo](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1lOWEVRZENHalZzWUdDWFI4ZlZnMUFJUWFCNVlsMld4X0JFYVd2SlVZd2tXSTJQSWV0YnpjUEMtLV9kNi1NcURDTWpnemw3M0ZtNFJOcFdMdWtwdzExLWpXMUxFVkFPeEd3Z2ZtSVZCNXV1YVRhZ3o5WTFFdm9mSFNqdHEzOXZUc1p1bWp6d3JDSnJycllGSkJrWTloM1ZKOEhmcGNleTVSU2JGRVdaT3Z3?oc=5)
+### [MSD Animal Health y Vet Partners continúan luchando contra la rabia en Malawi](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlJbjF2VkxISkV3T3ZMNFZlLUx4SEJac2RMc2tVZEtXM0xMdDlzeWtveHVJTGRQVXVVOVJwTFhnd25hWUZqcC1yN3lVWjNKcVV3S25EdDlUTVpMaWxWYlNQOGxJRENtYVVuWWtzNHNvV25FUnNxMUVHWDBDajFDR3JHS2k1emE1enBZTW9WZlM1RTFOVU9fWEQ0dFJKUUFXVFlHcE1jX1A0VXdFbGfSAbMBQVVfeXFMTzJwbi1FTnlTYjh4TmRkckVibnJsUEVIajN3ZkFtWVExenY5cjMxeWZkZ3ZqSnAtZGlZOWk3Q0hWakdhZGt3bG5mc0pIM2JxVjFYQWNUQzlxQkZKdjBzMmJFX3FpYkFyZzJSb3JUb1BNZ3lMSjBteEp6ZTRta1A5OWphY2RHQTdNTjA2VVJabXJXQVgzZGVIZC1uR1djbDRNM3QtUEVHSy1nU3NlY3VHNVQ0anM?oc=5)
 
 2026-08-11 <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1lOWEVRZENHalZzWUdDWFI4ZlZnMUFJUWFCNVlsMld4X0JFYVd2SlVZd2tXSTJQSWV0YnpjUEMtLV9kNi1NcURDTWpnemw3M0ZtNFJOcFdMdWtwdzExLWpXMUxFVkFPeEd3Z2ZtSVZCNXV1YVRhZ3o5WTFFdm9mSFNqdHEzOXZUc1p1bWp6d3JDSnJycllGSkJrWTloM1ZKOEhmcGNleTVSU2JGRVdaT3Z3?oc=5)
+來源：[Animalshealth.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlJbjF2VkxISkV3T3ZMNFZlLUx4SEJac2RMc2tVZEtXM0xMdDlzeWtveHVJTGRQVXVVOVJwTFhnd25hWUZqcC1yN3lVWjNKcVV3S25EdDlUTVpMaWxWYlNQOGxJRENtYVVuWWtzNHNvV25FUnNxMUVHWDBDajFDR3JHS2k1emE1enBZTW9WZlM1RTFOVU9fWEQ0dFJKUUFXVFlHcE1jX1A0VXdFbGfSAbMBQVVfeXFMTzJwbi1FTnlTYjh4TmRkckVibnJsUEVIajN3ZkFtWVExenY5cjMxeWZkZ3ZqSnAtZGlZOWk3Q0hWakdhZGt3bG5mc0pIM2JxVjFYQWNUQzlxQkZKdjBzMmJFX3FpYkFyZzJSb3JUb1BNZ3lMSjBteEp6ZTRta1A5OWphY2RHQTdNTjA2VVJabXJXQVgzZGVIZC1uR1djbDRNM3QtUEVHSy1nU3NlY3VHNVQ0anM?oc=5)
+
+---
+
+### [Epidemia de ébola supera los 2.000 muertos en RD Congo y se acerca al brote más letal](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnhiRkxwdXRzZE1zQWl1UlcwN2VVNkM4TDZaQVY1UU9sQW1qa1REdE5YMC1nOUdtYXk1cTNzYmdxMVNCRHVyRlF2TTdXMXppdmVCZjdHUVEyRG5ZUjdnNGVycnBleHlUdnJBdEFLYUJNTmw2RUVDS3dReVJXTXNvdk44RThsWDdHYXFHdUtmZUxzWUxCeVk3bzJwNFVpeTc3MFJyOEpTN0ZqLWtONE9aWU5jZzdfcHNpZGJBd2Q3cGs5eUZEWmRzWUc3Z1FRNHYtSGh1S1FYSk9WSnZ5?oc=5)
+
+2026-08-11 <span class="news-indication-tag">MS</span>
+
+來源：[RFI](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnhiRkxwdXRzZE1zQWl1UlcwN2VVNkM4TDZaQVY1UU9sQW1qa1REdE5YMC1nOUdtYXk1cTNzYmdxMVNCRHVyRlF2TTdXMXppdmVCZjdHUVEyRG5ZUjdnNGVycnBleHlUdnJBdEFLYUJNTmw2RUVDS3dReVJXTXNvdk44RThsWDdHYXFHdUtmZUxzWUxCeVk3bzJwNFVpeTc3MFJyOEpTN0ZqLWtONE9aWU5jZzdfcHNpZGJBd2Q3cGs5eUZEWmRzWUc3Z1FRNHYtSGh1S1FYSk9WSnZ5?oc=5)
+
+---
+
+### [La OMS identifica carencias organizativas "significativas" en el programa piloto europeo de cribado de cáncer de próstata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHFiazBjMnpqWWNiLWNaTGRtUlRjY2dNVXkwZzZmMzhqeVIydjVVYkNFdGNUS0tCYV9DTTZQZzVqV3VhcVJDMXU1WUtjMmZZX0IxdXJ0UjVreWhmUzFYdkZWQVpicktfY2U0ODBRcXhOc0xRaGV6eWQzVTd4QnNxTGd2NHE3MHd0b2lGS3VveFd2NDRZWDEyNkRrWXg2MHpwbEFlZXVacWJmdzBUYXVncGo0S2ZOcnoyNHJ1RU1RdnVGQWNNUlJiYjIzUVFYcGFhX1Z3MXlVU2NUb0RNcVZRQUpB?oc=5)
+
+2026-08-11 <span class="news-indication-tag">MS</span>
+
+來源：[iSanidad](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHFiazBjMnpqWWNiLWNaTGRtUlRjY2dNVXkwZzZmMzhqeVIydjVVYkNFdGNUS0tCYV9DTTZQZzVqV3VhcVJDMXU1WUtjMmZZX0IxdXJ0UjVreWhmUzFYdkZWQVpicktfY2U0ODBRcXhOc0xRaGV6eWQzVTd4QnNxTGd2NHE3MHd0b2lGS3VveFd2NDRZWDEyNkRrWXg2MHpwbEFlZXVacWJmdzBUYXVncGo0S2ZOcnoyNHJ1RU1RdnVGQWNNUlJiYjIzUVFYcGFhX1Z3MXlVU2NUb0RNcVZRQUpB?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ permalink: /news/ledipasvir/
 
 ---
 
-### [OMS recomienda ensayos con vacuna Ervebo ante el brote de ébola en República Democrática del Congo - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzN1U0pGdjItWTNSejhPbW9QMGw3T1Y3eWlibWMydy02TEZ5MElFQW5BcWEtX09lOEF2cjdpZ0R6YXp3TnlJVDR2M0J3LVhsbU9UQTJ0dWZReXBhV2FuWW01cUR5dXZBWlhYSWdQOGhxLW9TQVprX3Rnd0d0M3NtdFBYVklzV243MEJDaFdwWFpMMmRvbkNKUWQ0dHNqNVBzVmllQWU0VjUwdHU2TkpHemM3R0ExWnRMVF91VFlwb3dvVzMyY2FXN1hrb1I2eFROWE9MRlluYlM4TkVVSjRuVzZjSVp6ai1laktTcjI1VDFYUdIB9wFBVV95cUxQMmdRbkEyQkl3VUY4UFgtektzclBGa2hEYzNKWXlJR05ZUVZtdkxQeVJIREVCUlZ6bFJqVG5zN29MdGF2cUlyYWRZZFlqcW9ZRkVpT0hua3pBYlBYdjRCai1LbER4WkQxY0RHZnZ4eU1oRnhtb1Q0bUgwVlNQTEtyOWN4NEZia0lPbWhydDJaaWZacW1VNDFFeFByVTRrdWZVNGVtcEl5OW1DTzZUVUdXeEZGdEphT3YtTzZ4dFkyYTF5UzB2MHRvTHpaSVJ6MGFDMlJNYURoZDVCbUp0em1OdDR4UzZpalNOY0tjQWNhcG5pN0JmVDlB?oc=5)
+### [Hepatitis C to be eliminated in England - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
 
-2026-08-11 <span class="news-indication-tag">MS</span>
+2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzN1U0pGdjItWTNSejhPbW9QMGw3T1Y3eWlibWMydy02TEZ5MElFQW5BcWEtX09lOEF2cjdpZ0R6YXp3TnlJVDR2M0J3LVhsbU9UQTJ0dWZReXBhV2FuWW01cUR5dXZBWlhYSWdQOGhxLW9TQVprX3Rnd0d0M3NtdFBYVklzV243MEJDaFdwWFpMMmRvbkNKUWQ0dHNqNVBzVmllQWU0VjUwdHU2TkpHemM3R0ExWnRMVF91VFlwb3dvVzMyY2FXN1hrb1I2eFROWE9MRlluYlM4TkVVSjRuVzZjSVp6ai1laktTcjI1VDFYUdIB9wFBVV95cUxQMmdRbkEyQkl3VUY4UFgtektzclBGa2hEYzNKWXlJR05ZUVZtdkxQeVJIREVCUlZ6bFJqVG5zN29MdGF2cUlyYWRZZFlqcW9ZRkVpT0hua3pBYlBYdjRCai1LbER4WkQxY0RHZnZ4eU1oRnhtb1Q0bUgwVlNQTEtyOWN4NEZia0lPbWhydDJaaWZacW1VNDFFeFByVTRrdWZVNGVtcEl5OW1DTzZUVUdXeEZGdEphT3YtTzZ4dFkyYTF5UzB2MHRvTHpaSVJ6MGFDMlJNYURoZDVCbUp0em1OdDR4UzZpalNOY0tjQWNhcG5pN0JmVDlB?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
 
 ---
 
@@ -82,15 +98,7 @@ permalink: /news/ledipasvir/
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
-
----
-
-### [England set to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">hepatitis</span>
-
-來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
+來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ permalink: /news/ledipasvir/
 2026-08-10 <span class="news-indication-tag">epatite</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
-
----
-
-### [El despliegue de políticas frente al alcohol evitaría más de 9.200 casos de cáncer en la Unión Europea](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">MS</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
 
 ---
 
@@ -122,7 +122,7 @@ permalink: /news/ledipasvir/
 
 2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ permalink: /news/ledipasvir/
 2026-08-09 <span class="news-indication-tag">MS</span>
 
 來源：[The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
-
----
-
-### [Why misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0xsTDljX3BucHowbFdqSmhXR3Q1NDlCLWE0dk1JRm5JcXVMbTQtLUhkYzhhYUxNclo0U0drdUtjc21ma1kwcUVEMTYybVE2UTZEaXdNMFlIZ3FpaDlhcjNrY3RDTFJua29CWnJnTExmdjdUbERYcWVXdk9LSkpHZ1Z4VUIwbGtLa0l6ZzUyVjZZSDh6ZWQ1ckRWLUpaLVd1WmhSclRiWk5QaTNUU1FicGo3MnoySHZV?oc=5)
-
-2026-08-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0xsTDljX3BucHowbFdqSmhXR3Q1NDlCLWE0dk1JRm5JcXVMbTQtLUhkYzhhYUxNclo0U0drdUtjc21ma1kwcUVEMTYybVE2UTZEaXdNMFlIZ3FpaDlhcjNrY3RDTFJua29CWnJnTExmdjdUbERYcWVXdk9LSkpHZ1Z4VUIwbGtLa0l6ZzUyVjZZSDh6ZWQ1ckRWLUpaLVd1WmhSclRiWk5QaTNUU1FicGo3MnoySHZV?oc=5)
 
 ---
 

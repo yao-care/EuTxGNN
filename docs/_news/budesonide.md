@@ -54,19 +54,19 @@ permalink: /news/budesonide/
 
 ## 相關新聞（3 則）
 
-### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[BR](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
-
----
-
 ### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
 
 2026-08-11 <span class="news-indication-tag">asthma</span>
 
 來源：[futurezone.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
+
+---
+
+### [Faut-il vraiment croire au pouvoir du microbiote intestinal ? Ce que montrent les études sur le poids et l’alimentation](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">EPOC</span>
+
+來源：[RTL](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
 
 ---
 

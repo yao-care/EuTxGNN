@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="Fluticasone Propionate 有什麼相關新聞？">
-<strong>Fluticasone Propionate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Fluticasone Propionate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ permalink: /news/fluticasone-propionate/
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
-
-2026-08-11 <span class="news-indication-tag">asthma</span>
-
-來源：[BR](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
 

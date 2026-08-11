@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。3 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>3 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,29 +83,21 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
 
 2026-08-11
 
-來源：[abendblatt.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
 
 ---
 
-### [Un estudio concluye que 3 factores de salud en la mediana edad retrasan la demencia 13 años](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
+### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
 
-2026-08-10
+2026-08-11
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
 
 ---
 

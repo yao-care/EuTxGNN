@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="Telmisartan 有什麼相關新聞？">
-<strong>Telmisartan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Telmisartan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/telmisartan/
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
-### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+### [Ni la báscula, ni el índice de masa corporal revelan el riesgo cardiovascular oculto: “Al corazón le importa más tu cintura que tu peso” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
+
+2026-08-11 <span class="news-indication-tag">ictus</span>
+
+來源：[Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
+
+---
+
+### [Adipositas-Medikament senkt Risiko für gefährliche Herz-Kreislauf-Erkrankungen und Infektionen deutlich - Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+
+---
+
+### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
 
 2026-08-11 <span class="news-indication-tag">Bluthochdruck</span>
 
-來源：[abendblatt.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+
+---
+
+### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
 
 ---
 
@@ -80,7 +104,7 @@ permalink: /news/telmisartan/
 
 ### [My little girl, 4, had chickenpox - six months later it triggered a stroke leaving her unable to eat or speak - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
 
-2026-08-10 <span class="news-indication-tag">stroke</span>
+2026-08-10 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
 
@@ -94,27 +118,11 @@ permalink: /news/telmisartan/
 
 ---
 
-### [Un estudio concluye que 3 factores de salud en la mediana edad retrasan la demencia 13 años](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
-
----
-
-### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
+### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AVC</span>
 
-來源：[sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06 <span class="news-indication-tag">hipertensión</span>
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 ---
 
