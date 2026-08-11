@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="Velpatasvir 有什麼相關新聞？">
-<strong>Velpatasvir</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Velpatasvir</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,43 @@ permalink: /news/velpatasvir/
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [Más de 2.000 muertos por ébola en la República Democrática del Congo](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1lOWEVRZENHalZzWUdDWFI4ZlZnMUFJUWFCNVlsMld4X0JFYVd2SlVZd2tXSTJQSWV0YnpjUEMtLV9kNi1NcURDTWpnemw3M0ZtNFJOcFdMdWtwdzExLWpXMUxFVkFPeEd3Z2ZtSVZCNXV1YVRhZ3o5WTFFdm9mSFNqdHEzOXZUc1p1bWp6d3JDSnJycllGSkJrWTloM1ZKOEhmcGNleTVSU2JGRVdaT3Z3?oc=5)
+
+2026-08-11 <span class="news-indication-tag">MS</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1lOWEVRZENHalZzWUdDWFI4ZlZnMUFJUWFCNVlsMld4X0JFYVd2SlVZd2tXSTJQSWV0YnpjUEMtLV9kNi1NcURDTWpnemw3M0ZtNFJOcFdMdWtwdzExLWpXMUxFVkFPeEd3Z2ZtSVZCNXV1YVRhZ3o5WTFFdm9mSFNqdHEzOXZUc1p1bWp6d3JDSnJycllGSkJrWTloM1ZKOEhmcGNleTVSU2JGRVdaT3Z3?oc=5)
+
+---
+
+### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
+
+2026-08-11 <span class="news-indication-tag">hepatitis</span>
+
+來源：[Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
+
+---
+
+### [OMS recomienda ensayos con vacuna Ervebo ante el brote de ébola en República Democrática del Congo - Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzN1U0pGdjItWTNSejhPbW9QMGw3T1Y3eWlibWMydy02TEZ5MElFQW5BcWEtX09lOEF2cjdpZ0R6YXp3TnlJVDR2M0J3LVhsbU9UQTJ0dWZReXBhV2FuWW01cUR5dXZBWlhYSWdQOGhxLW9TQVprX3Rnd0d0M3NtdFBYVklzV243MEJDaFdwWFpMMmRvbkNKUWQ0dHNqNVBzVmllQWU0VjUwdHU2TkpHemM3R0ExWnRMVF91VFlwb3dvVzMyY2FXN1hrb1I2eFROWE9MRlluYlM4TkVVSjRuVzZjSVp6ai1laktTcjI1VDFYUdIB9wFBVV95cUxQMmdRbkEyQkl3VUY4UFgtektzclBGa2hEYzNKWXlJR05ZUVZtdkxQeVJIREVCUlZ6bFJqVG5zN29MdGF2cUlyYWRZZFlqcW9ZRkVpT0hua3pBYlBYdjRCai1LbER4WkQxY0RHZnZ4eU1oRnhtb1Q0bUgwVlNQTEtyOWN4NEZia0lPbWhydDJaaWZacW1VNDFFeFByVTRrdWZVNGVtcEl5OW1DTzZUVUdXeEZGdEphT3YtTzZ4dFkyYTF5UzB2MHRvTHpaSVJ6MGFDMlJNYURoZDVCbUp0em1OdDR4UzZpalNOY0tjQWNhcG5pN0JmVDlB?oc=5)
+
+2026-08-11 <span class="news-indication-tag">MS</span>
+
+來源：[Medicina y Salud Pública](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzN1U0pGdjItWTNSejhPbW9QMGw3T1Y3eWlibWMydy02TEZ5MElFQW5BcWEtX09lOEF2cjdpZ0R6YXp3TnlJVDR2M0J3LVhsbU9UQTJ0dWZReXBhV2FuWW01cUR5dXZBWlhYSWdQOGhxLW9TQVprX3Rnd0d0M3NtdFBYVklzV243MEJDaFdwWFpMMmRvbkNKUWQ0dHNqNVBzVmllQWU0VjUwdHU2TkpHemM3R0ExWnRMVF91VFlwb3dvVzMyY2FXN1hrb1I2eFROWE9MRlluYlM4TkVVSjRuVzZjSVp6ai1laktTcjI1VDFYUdIB9wFBVV95cUxQMmdRbkEyQkl3VUY4UFgtektzclBGa2hEYzNKWXlJR05ZUVZtdkxQeVJIREVCUlZ6bFJqVG5zN29MdGF2cUlyYWRZZFlqcW9ZRkVpT0hua3pBYlBYdjRCai1LbER4WkQxY0RHZnZ4eU1oRnhtb1Q0bUgwVlNQTEtyOWN4NEZia0lPbWhydDJaaWZacW1VNDFFeFByVTRrdWZVNGVtcEl5OW1DTzZUVUdXeEZGdEphT3YtTzZ4dFkyYTF5UzB2MHRvTHpaSVJ6MGFDMlJNYURoZDVCbUp0em1OdDR4UzZpalNOY0tjQWNhcG5pN0JmVDlB?oc=5)
+
+---
 
 ### [Hepatitis A: Prävention bleibt bei Risikogruppen entscheidend](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
+來源：[journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 ---
 
 ### [England set to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
 
-2026-08-10 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-08-10 <span class="news-indication-tag">hepatitis</span>
 
 來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
 
@@ -78,27 +102,11 @@ permalink: /news/velpatasvir/
 
 ---
 
-### [Ébola en RD Congo: Alarma de la UNICEF por 743 casos confirmados entre niños - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWRyWmwwZGJmRXoxcGJybE9QUXFFWUs5SElIR1JSblRtcGVfSmtfSmNQX1MtdW9ZcGZ0VE1GMWQxLTdhVzZXQjF4cGVBam05QVdGSFhIZDNLZml2QnlqS1FPdFBOcnprOFhiMWJYZUdGTm1zRkVHR0pyaHlZT2l0TFRPRl9oelBvRG00azU1THo3Y1hMR1Q2ZGhySWRUVXViNmJDalp4WDJqYThzcHgxMldRQTNNUlho?oc=5)
+### [El despliegue de políticas frente al alcohol evitaría más de 9.200 casos de cáncer en la Unión Europea](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
 
 2026-08-10 <span class="news-indication-tag">MS</span>
 
-來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWRyWmwwZGJmRXoxcGJybE9QUXFFWUs5SElIR1JSblRtcGVfSmtfSmNQX1MtdW9ZcGZ0VE1GMWQxLTdhVzZXQjF4cGVBam05QVdGSFhIZDNLZml2QnlqS1FPdFBOcnprOFhiMWJYZUdGTm1zRkVHR0pyaHlZT2l0TFRPRl9oelBvRG00azU1THo3Y1hMR1Q2ZGhySWRUVXViNmJDalp4WDJqYThzcHgxMldRQTNNUlho?oc=5)
-
----
-
-### [Mounjaro-Wirkung geht weit über Abnehmen hinaus – Studie findet Schutz für Herz und Immunsystem - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
-
-2026-08-10 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
-
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWERTVldLamlWcTN2eW5VcDlIMDVsc0hHQVppOG9qdV9rZzNtQ0JScnNCR29Xa0dDc1FmQndtcHZoNDV5MUNmeFZVNE5KQ2c0dHZGdnkwbVFHVnlNWm9qaHlMdG85ejJLdXVCRVhjR0RxY1VnNElraWZiZzlzMVpJMkRtcEJhaFFsdl9WaEpMeVVBcmNNOXRDc2YwQVN1OFlBOXVMS0xQVy1mY1piTnp0bjM2RktxOFhhZk1JXzFZcTBqTU1IVVRiWjZQLTFWM1hmUGNz?oc=5)
-
----
-
-### [Experimentelles Medikament daraxonrasib startet in Illinois: Hoffnung bei metastasiertem Bauchspeicheldrüsenkrebs - it boltwise](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdVJZZksyOXUzRjdDUjhlaFB5M0thSUY4enNCaUZRRE4zTjVGbVFkVEh3S3V3NmV5dzdEbWJwOElKYmtMbkhxTHVnQ1ZsTlZQNGV6N05HNjlwTzlNeXBKYUxEYXpuejYyWm1jcjBtbklQdlctUElLWmplTXBDLThtOXpCRTlFb0cxMy1pVHItUlpEQjJMSkQwRkFiT1VSeHlrc3JHVlB0QndPWDlnYnlwNkV6TEx5SkwwZWN4bWp6X2NyM0ttNTF1UTRjb3dDcTM2SWdQa2NPWkxfaDk3Nmc?oc=5)
-
-2026-08-10 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdVJZZksyOXUzRjdDUjhlaFB5M0thSUY4enNCaUZRRE4zTjVGbVFkVEh3S3V3NmV5dzdEbWJwOElKYmtMbkhxTHVnQ1ZsTlZQNGV6N05HNjlwTzlNeXBKYUxEYXpuejYyWm1jcjBtbklQdlctUElLWmplTXBDLThtOXpCRTlFb0cxMy1pVHItUlpEQjJMSkQwRkFiT1VSeHlrc3JHVlB0QndPWDlnYnlwNkV6TEx5SkwwZWN4bWp6X2NyM0ttNTF1UTRjb3dDcTM2SWdQa2NPWkxfaDk3Nmc?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
 
 ---
 
@@ -114,15 +122,23 @@ permalink: /news/velpatasvir/
 
 2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
+來源：[euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 
-### [False claims about sunscreen gaining traction online - The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmMzT2hOZWtIb1J6SHFyZ0hyaU9XY0x2a1RuQko2Y2NON1Jod1B5b3lzSlZJeGY3VHVBWmhBN1BBLUJmZlExM010Ymxrb0puaE1rNzUyVURBMDNYUHBPMC15R3EzNXNIQ0hjUDhQYnFXOG56NWJXcUxLZkgxRDVpYXpjV2wwZmRzQnQtZVRScHJHRmF3OFZVbjl3?oc=5)
+### [The autism expert who says people are being misdiagnosed - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
 
 2026-08-09 <span class="news-indication-tag">MS</span>
 
-來源：[The Independent](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmMzT2hOZWtIb1J6SHFyZ0hyaU9XY0x2a1RuQko2Y2NON1Jod1B5b3lzSlZJeGY3VHVBWmhBN1BBLUJmZlExM010Ymxrb0puaE1rNzUyVURBMDNYUHBPMC15R3EzNXNIQ0hjUDhQYnFXOG56NWJXcUxLZkgxRDVpYXpjV2wwZmRzQnQtZVRScHJHRmF3OFZVbjl3?oc=5)
+來源：[The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
+
+---
+
+### [Why misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave - The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0xsTDljX3BucHowbFdqSmhXR3Q1NDlCLWE0dk1JRm5JcXVMbTQtLUhkYzhhYUxNclo0U0drdUtjc21ma1kwcUVEMTYybVE2UTZEaXdNMFlIZ3FpaDlhcjNrY3RDTFJua29CWnJnTExmdjdUbERYcWVXdk9LSkpHZ1Z4VUIwbGtLa0l6ZzUyVjZZSDh6ZWQ1ckRWLUpaLVd1WmhSclRiWk5QaTNUU1FicGo3MnoySHZV?oc=5)
+
+2026-08-09 <span class="news-indication-tag">MS</span>
+
+來源：[The Independent](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0xsTDljX3BucHowbFdqSmhXR3Q1NDlCLWE0dk1JRm5JcXVMbTQtLUhkYzhhYUxNclo0U0drdUtjc21ma1kwcUVEMTYybVE2UTZEaXdNMFlIZ3FpaDlhcjNrY3RDTFJua29CWnJnTExmdjdUbERYcWVXdk9LSkpHZ1Z4VUIwbGtLa0l6ZzUyVjZZSDh6ZWQ1ckRWLUpaLVd1WmhSclRiWk5QaTNUU1FicGo3MnoySHZV?oc=5)
 
 ---
 

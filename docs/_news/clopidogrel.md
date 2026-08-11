@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="Clopidogrel 有什麼相關新聞？">
-<strong>Clopidogrel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Clopidogrel</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,9 @@ permalink: /news/clopidogrel/
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [The foods this French heart expert wants you to stop eating - The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
-
-2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

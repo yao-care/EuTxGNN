@@ -3,7 +3,7 @@ layout: default
 title: "asthma 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "asthma 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "asthma 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="asthma 有什麼相關新聞？">
-<strong>asthma</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>asthma</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/asthma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
+### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
 
-2026-08-10
+2026-08-11
 
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
+來源：[BR](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
+
+---
+
+### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
+
+2026-08-11
+
+來源：[futurezone.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
 
 ---
 

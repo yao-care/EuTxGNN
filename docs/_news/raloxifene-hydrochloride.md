@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Raloxifene Hydrochloride 有什麼相關新聞？">
-<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Raloxifene Hydrochloride</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/raloxifene-hydrochloride/
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Zepbound reduce el riesgo de infarto y AVC entre diabéticos tipo 2](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFRVTXUwN3F1eUhqVlY2SFlZTktKeFU3VV9YeVVXcTVmcUMyLXpfeHpjMDVGZ0M4QXFVUWhvNlpMYUZtdW9jOXBka1JkVDRYcldPdWk4X1VNYnJHWjlKOGtQYUk0OXJyU1kzX3NzQTROTHA5U3diMDdpOEJGU1hVMmZGUjVrcUU5MG9kMXFjTEFVcXdVNUJ5M1F4S01HX0FaSFFMQmhMVklRQ1V50gHHAUFVX3lxTE96LVUyTkdEd0p5bVpVT3BseEtwNUVlUnZUcHRoRnRPSW5WbTVEOXhoUnducHRqVmJYc3k3b0NRSVJHYmp2WUQzeGhMa0RCVVN2b3pyb0FialRaMlMyWWFEQlg2V2gzQ3FoXzZ0RUc5VFR0R2QyajZHSC1TaWl3b1VYQ19LckY4MHlveVdHT2wtdi1ZUGN4VlkzR0FkUjhRSHBjZXZWSUp2SDZhSGg0SlBkZThsMkhKQmxWMFdBdXl6cWZZQnlsNmc?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
+
+來源：[Infobae](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFRVTXUwN3F1eUhqVlY2SFlZTktKeFU3VV9YeVVXcTVmcUMyLXpfeHpjMDVGZ0M4QXFVUWhvNlpMYUZtdW9jOXBka1JkVDRYcldPdWk4X1VNYnJHWjlKOGtQYUk0OXJyU1kzX3NzQTROTHA5U3diMDdpOEJGU1hVMmZGUjVrcUU5MG9kMXFjTEFVcXdVNUJ5M1F4S01HX0FaSFFMQmhMVklRQ1V50gHHAUFVX3lxTE96LVUyTkdEd0p5bVpVT3BseEtwNUVlUnZUcHRoRnRPSW5WbTVEOXhoUnducHRqVmJYc3k3b0NRSVJHYmp2WUQzeGhMa0RCVVN2b3pyb0FialRaMlMyWWFEQlg2V2gzQ3FoXzZ0RUc5VFR0R2QyajZHSC1TaWl3b1VYQ19LckY4MHlveVdHT2wtdi1ZUGN4VlkzR0FkUjhRSHBjZXZWSUp2SDZhSGg0SlBkZThsMkhKQmxWMFdBdXl6cWZZQnlsNmc?oc=5)
+
+---
+
+### [Bellvitge desarrolla una escala que mejora la predicción de la recuperación de uno de los ictus más graves - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3A2aE1nSnRoMWxLa0hZeHBYUDMzZ3hXMWdMSV9nd0pBMDVsMEN5WW9sMWNLUDFoNDRSWUx6NjRjeGgxbGFab2M5Ulh0dkNsX1lFTFJNdERsS0JYeWIydUtnbW9DdW1sYmhtYjJXM210aUp5MTNmQ0JLQkZFOVBNeVZhem9wRU9fUTMwcXVxMVNRak1vbzFDR2hZX2l4Q3BKT0F1ZVcyZjRKU3owTUtxM0h5NA?oc=5)
+
+2026-08-11 <span class="news-indication-tag">ictus</span>
+
+來源：[Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3A2aE1nSnRoMWxLa0hZeHBYUDMzZ3hXMWdMSV9nd0pBMDVsMEN5WW9sMWNLUDFoNDRSWUx6NjRjeGgxbGFab2M5Ulh0dkNsX1lFTFJNdERsS0JYeWIydUtnbW9DdW1sYmhtYjJXM210aUp5MTNmQ0JLQkZFOVBNeVZhem9wRU9fUTMwcXVxMVNRak1vbzFDR2hZX2l4Q3BKT0F1ZVcyZjRKU3owTUtxM0h5NA?oc=5)
+
+---
 
 ### [My little girl, 4, had chickenpox - six months later it triggered a stroke leaving her unable to eat or speak - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
 
@@ -62,19 +78,19 @@ permalink: /news/raloxifene-hydrochloride/
 
 ---
 
-### [Schlaganfall-Risiko: Koffein löst akute Anfälle bei jungen Erwachsenen aus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
+### [How heatstroke kills – it can still be deadly after your body cools down - The Conversation](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2ZNNGN2REh6a0lDWDI0YnB6cFhmQmtxMkVJU0h3SGdZTHYydXFTaEdWa0l3ZTlGX1pZOHBheTRQZlZPRzI0SUNhSUwweDFsMXA2SFk2TTJwN3ZQRUJKdjRKdFhlNHJRTExxUzkyMmdlOEdKejJRWEJYdmg0YnJfN24wdWFHb1pJZnZkNDJrOTdmY2NxRmpyYkZtNkp2VWl3NWNjd1ZROGI?oc=5)
 
-2026-08-10 <span class="news-indication-tag">Schlaganfall</span>
+2026-08-10 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
+來源：[The Conversation](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2ZNNGN2REh6a0lDWDI0YnB6cFhmQmtxMkVJU0h3SGdZTHYydXFTaEdWa0l3ZTlGX1pZOHBheTRQZlZPRzI0SUNhSUwweDFsMXA2SFk2TTJwN3ZQRUJKdjRKdFhlNHJRTExxUzkyMmdlOEdKejJRWEJYdmg0YnJfN24wdWFHb1pJZnZkNDJrOTdmY2NxRmpyYkZtNkp2VWl3NWNjd1ZROGI?oc=5)
 
 ---
 
-### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
+### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AVC</span>
 
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
+來源：[sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 ---
 

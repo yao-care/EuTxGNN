@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="Budesonide 有什麼相關新聞？">
-<strong>Budesonide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Budesonide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ permalink: /news/budesonide/
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Weniger Allergien bei Bauernhof-Kindern: Forscher finden Ursache](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
+
+2026-08-11 <span class="news-indication-tag">asthma</span>
+
+來源：[BR](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdV9LMUxzRUZ1dUF0WlAxa1FlWmtQVFFzMlZvYlJ0d0FkU1lnYksydTdCb1R6UjEwZURac2lVbUNnZWFFMVdoRHpxNHpOUDBadlFUNTRXSG0yNGRFaGlESl9FLVhyNWM1Y2lTTmo2Vmw5S2NNdGJnbXZfV2xOYm1QNU5QMWZGeFlmM2UxQ2ctYXNfbERDOXB0eVdHb0kxa0taVU5nd2syYzdabGw0?oc=5)
+
+---
+
+### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
+
+2026-08-11 <span class="news-indication-tag">asthma</span>
+
+來源：[futurezone.de](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
+
+---
 
 ### [COPD-Ernährung: Neue Leitlinien setzen auf kleinere Mahlzeiten, Protein und Calcium - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
 
 2026-08-10 <span class="news-indication-tag">copd</span>
 
 來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
-
----
-
-### [Immunsystem: Weniger Allergien und Asthma - Warum Bauernkinder gesünder sind als Stadtkinder](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">asthma</span>
-
-來源：[WELT](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGJ4ZkItNnpTakRSdVV4Zy11SnNnWHlaaEpIUUw0WjJGR0N6bllIeFJuWHU4YjAyVkVoaVVLaF8tRS1JZXQ3LVJWei11QXh0TmlBcldZeHUzbnJPbC1ZTTVpaUFFZHAxWllNYUJiVXd3QXdRV2o5TlE2MXZZLVk1OHdIbTAxNVhKRHJHcHBJQ0FaQ3YzU04tTENraG9lRlFDWWZGWlpqTVlJTWowTVFIZC15N2w2c1NobXpMYmp1c3VDY1B2MUZnLUNSMnUwR3dvYkpEOEdCeEhfamxqY2JCV3hwS3VpZ2N1RGRwVjdOVQ?oc=5)
 
 ---
 

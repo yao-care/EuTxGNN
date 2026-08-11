@@ -54,11 +54,11 @@ permalink: /news/lasmiditan-succinate/
 
 ## 相關新聞（3 則）
 
-### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWVFaF8xU2NONHN6QnFnUV9WbDdxUEZCcDJCczBuYVZ2M21RMzRsbFdQM3FUOWFGUWVnelBmREJHaHpkMHNHUndLM1czUmRYbDNVemUxS1A3QVJQekpudVdmUHpIRkNjZ3c1MFRsOTVkRVNpdHNEU3k4QXg1Sk1jb3ZTUXhEaWQwQWM4anNkdWZUMjYyNmlld0EyRHkzQlVlU0lYVEx5OVdSQ0RRRDgzWURJZ3lkSy1EeWRsTk1aMGxBdDFrMkNQbHdlT2NwUHhOdUxoNQ?oc=5)
+### [Adipositas-Medikament senkt Risiko für gefährliche Herz-Kreislauf-Erkrankungen und Infektionen deutlich](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
 
-2026-08-11 <span class="news-indication-tag">Adipositas</span>
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWVFaF8xU2NONHN6QnFnUV9WbDdxUEZCcDJCczBuYVZ2M21RMzRsbFdQM3FUOWFGUWVnelBmREJHaHpkMHNHUndLM1czUmRYbDNVemUxS1A3QVJQekpudVdmUHpIRkNjZ3c1MFRsOTVkRVNpdHNEU3k4QXg1Sk1jb3ZTUXhEaWQwQWM4anNkdWZUMjYyNmlld0EyRHkzQlVlU0lYVEx5OVdSQ0RRRDgzWURJZ3lkSy1EeWRsTk1aMGxBdDFrMkNQbHdlT2NwUHhOdUxoNQ?oc=5)
+來源：[dzhk.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia（alzheimer disease） 相關新聞"
+title: "Alzheimer's（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "dementia（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
+description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。2 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia（alzheimer disease） 相關新聞
+# Alzheimer's（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="dementia（alzheimer disease） 有什麼相關新聞？">
-<strong>dementia（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
+<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>2 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「dementia」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -46,19 +46,19 @@ permalink: /news/alzheimer-disease/
 
 ## 相關新聞（2 則）
 
+### [Different inflammatory processes tied to the same Alzheimer's disease-related brain shrinkage and memory loss - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJrdVFiYldMZEJLekh3dzJtRDJDa1ViSTNXV3lkYkI1WTVFaUMtVUd1TFVVV1hNSEFDTXBsMG9WdEcwNnlDaUpScS1qUGtIU2JhZmdpU3VFY29pYl9nQkNGRFNjZFB1dnNfRTF6ZWNDVXpwZ1F3Q09fN0lDWlBuSDk1Vmp5aGo0S29YbllvR2JCVUxX?oc=5)
+
+2026-08-10
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJrdVFiYldMZEJLekh3dzJtRDJDa1ViSTNXV3lkYkI1WTVFaUMtVUd1TFVVV1hNSEFDTXBsMG9WdEcwNnlDaUpScS1qUGtIU2JhZmdpU3VFY29pYl9nQkNGRFNjZFB1dnNfRTF6ZWNDVXpwZ1F3Q09fN0lDWlBuSDk1Vmp5aGo0S29YbllvR2JCVUxX?oc=5)
+
+---
+
 ### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 2026-08-10
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
----
-
-### [Et si l'origine de la maladie d'Alzheimer se trouvait dans notre bouche ? Voici la fascinante piste explorée par des chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
-
-2026-08-09
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
+來源：[euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 

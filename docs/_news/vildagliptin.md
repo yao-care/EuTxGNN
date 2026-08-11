@@ -14,7 +14,7 @@ permalink: /news/vildagliptin/
 ---
 
 <p class="key-answer" data-question="Vildagliptin 有什麼相關新聞？">
-<strong>Vildagliptin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Vildagliptin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,37 @@ permalink: /news/vildagliptin/
 <p><a href="{{ '/drugs/vildagliptin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [Aurelio Rojas, cardiólogo, avisa: "Estas carnes aumentan enormemente el riesgo de enfermedades de corazón, diabetes y mortalidad"](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[SPORT](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
+
+---
+
+### [Adipositas-Medikament senkt Risiko für gefährliche Herz-Kreislauf-Erkrankungen und Infektionen deutlich](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[dzhk.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
+
+---
+
+### [Wenn Diabetes-Technik auch Stress macht: CGM und Insulinpumpen haben nicht nur Vorteile](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span>
+
+來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
+
+---
 
 ### [Diabetesmittel Metformin wirkt auch im Gehirn – Forscher entdecken völlig neuen Effekt - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
 
 2026-08-11 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDBhZzhuMmtocURBZ2pabFhqQjRycndwa1ZnT1gtRGw5bGxnaEVWcC1EMTBSeC10S1M1Ym9sN3JpS1hvZm5MSDdBODNuUXR3Tk1SdmpYNTBVWk5RTEVjeFk4XzlxVWFrWTd5UFdMU1o0c0p1SHVYU3YtM3Nfb0NVY3NpX1RLQjEtRFNWRFBJaTN6ZHhPVUV6d0czTkpqakVmRXkzMUMtclVuQ3lXX2VZVkFFS3pHSG5MRlVRbDRHd1RvMTFhX0E?oc=5)
-
----
-
-### [Diabetes en verano: qué hacer con la insulina y los sensores ante el riesgo de hipoglucemia - La Vanguardia](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1ptbUU1MmtUZ3BRTXpJUWtwUTJQbjIzeGlGNENoV3dtdS1JbVdZbFMtRUZHV1o4R29XclF6ZVU4aHNLcGJYZEhvTS1GQXE4dkJGNUJjaUJELVpvQ3E0SlFiZHFjbElqREhscTJGQmZJRFU2M3E0QnZidFhzamlBZHVVeGh6Mk82bXJZelZMRXo2eDVmcEpWU2lHYW5BdU1KaDBtZDl1YXdDLXR4Q3VPaGI3ZmpJU1dONXJYbNIBwgFBVV95cUxQYmE0NWs2YWV2Q0RJOHZiTHM5bU1UcW9MSGwtNGdXRGR4bW1ZZFdzOW92aHNkT1RlM1doeUhNVm1femhXUE5UUDVpZmJHMFczVDdDZUZqS0lMR2F0Y2oyX2ZqdnZDOHBwUjJxbzUxUUtvZGxKcnhIa19jM01VV1BLM25NZ1dQV2tZNENjdk55TW1zTzl6YkdoNTRqYVJPMGcwVmlFN2FRYmNjNU9SaGZ4c0RtYVk4UVhyRGNLMnJGTmlYdw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span>
-
-來源：[La Vanguardia](https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1ptbUU1MmtUZ3BRTXpJUWtwUTJQbjIzeGlGNENoV3dtdS1JbVdZbFMtRUZHV1o4R29XclF6ZVU4aHNLcGJYZEhvTS1GQXE4dkJGNUJjaUJELVpvQ3E0SlFiZHFjbElqREhscTJGQmZJRFU2M3E0QnZidFhzamlBZHVVeGh6Mk82bXJZelZMRXo2eDVmcEpWU2lHYW5BdU1KaDBtZDl1YXdDLXR4Q3VPaGI3ZmpJU1dONXJYbNIBwgFBVV95cUxQYmE0NWs2YWV2Q0RJOHZiTHM5bU1UcW9MSGwtNGdXRGR4bW1ZZFdzOW92aHNkT1RlM1doeUhNVm1femhXUE5UUDVpZmJHMFczVDdDZUZqS0lMR2F0Y2oyX2ZqdnZDOHBwUjJxbzUxUUtvZGxKcnhIa19jM01VV1BLM25NZ1dQV2tZNENjdk55TW1zTzl6YkdoNTRqYVJPMGcwVmlFN2FRYmNjNU9SaGZ4c0RtYVk4UVhyRGNLMnJGTmlYdw?oc=5)
-
----
-
-### [Eli Lilly's weight-loss pill secures first European nod in Britain](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGZUUEFXaGh3M2FrQlNiMVNBek9tTElJR3VITmx0MXljVGNnZnZBUmk3WFZzZzluWnBnUVZrNVh2ZzZwc3ZfNnNEcjNLUUxMbVhOT3JGS1VVUEJ6NUdoMXc0TDd1NTQ2OGZNWjlPWS0yTllEWm1ZWUhYQ1RReU95ek1oVFRTRWJBZjQ5c0l4bERleVNfZjhkQ0ZUeXRyOFBxNHJ3OFRhRU1TNXc?oc=5)
-
----
-
-### [La longitud del muslo puede revelar pistas sobre tu riesgo de prediabetes y diabetes tipo 2: es uno de los siete datos que puedes medir en casa](https://news.google.com/rss/articles/CBMizAJBVV95cUxNaXF0SEpkUUZvZHpzQVFNd2FkZFIzNXlCMTUwSmZUb3NVczVqdWNWUWNUZWdvR1FMWll0eVdiSS1KUVJMOFVtV0ZkLV9SVTNOMUYwNXZEbVpzYTJTbVJKQnVyYVJsRG1xQ2lULVVHRklUUDVsdUd4VkhzNmFsbjRzcUNnWE51ZnVKRkd3OG5NWFVmU2k3TmJZTDZZd1ZVV3BrOVU3Y1hvSC1KRFFsSHg0QkVxQlVPbmhlRk5TXzI2Y3BMMm1Tc0hiMVltc2RzVkNFbDZxYm1lQ0I5Ymh3WDBhY0pfeTZEOWR1SnhxYURpTklPZF9LRDZWX2FVSnJXQVRpdUdUQzVseEhlSkF2OVBvVENVTl9xWDVGX2Q4cnNVLUdiRUZfOHMwWGp2VlVqT0NvX1h4VTh1SXlXMlpaNUt6MVEwdHBpaWVUYVVINg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">diabetes</span>
-
-來源：[eleconomista.es](https://news.google.com/rss/articles/CBMizAJBVV95cUxNaXF0SEpkUUZvZHpzQVFNd2FkZFIzNXlCMTUwSmZUb3NVczVqdWNWUWNUZWdvR1FMWll0eVdiSS1KUVJMOFVtV0ZkLV9SVTNOMUYwNXZEbVpzYTJTbVJKQnVyYVJsRG1xQ2lULVVHRklUUDVsdUd4VkhzNmFsbjRzcUNnWE51ZnVKRkd3OG5NWFVmU2k3TmJZTDZZd1ZVV3BrOVU3Y1hvSC1KRFFsSHg0QkVxQlVPbmhlRk5TXzI2Y3BMMm1Tc0hiMVltc2RzVkNFbDZxYm1lQ0I5Ymh3WDBhY0pfeTZEOWR1SnhxYURpTklPZF9LRDZWX2FVSnJXQVRpdUdUQzVseEhlSkF2OVBvVENVTl9xWDVGX2Q4cnNVLUdiRUZfOHMwWGp2VlVqT0NvX1h4VTh1SXlXMlpaNUt6MVEwdHBpaWVUYVVINg?oc=5)
 
 ---
 
@@ -94,11 +94,27 @@ permalink: /news/vildagliptin/
 
 ---
 
+### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabete</span>
+
+來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
+
+---
+
 ### [Diabete, non conta solo la glicemia: ecco cosa cambia nella cura](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+
+---
+
+### [Un estudio concluye que 3 factores de salud en la mediana edad retrasan la demencia 13 años](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1U3ejNEcG5kRTZZUjJoUF83dHVkVVljQkdlUmNRcGp3UUxBNHdBLTR2dURBNFdLOXE3U3JPSXZEblF5and2Vk1sVElIUUdWQmROTVgzb0FRU2oxWXRhUkFObEZOa3drU2lQSlVHV0dfM1RHbElmU2hmWEVxR0s1Q3lhb0JFU2hER0lneVhqckdkYjZTZ25NRmYyY1FldnJ2VlllcGdiZG5ZZWNwcG9xM1puX0hsX012bmRzVm9tNUpiTlpMN1luZTEwVQ?oc=5)
 
 ---
 

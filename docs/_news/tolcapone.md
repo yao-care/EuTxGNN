@@ -62,6 +62,14 @@ permalink: /news/tolcapone/
 
 ---
 
+### [Different inflammatory processes tied to the same Alzheimer's disease-related brain shrinkage and memory loss - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJrdVFiYldMZEJLekh3dzJtRDJDa1ViSTNXV3lkYkI1WTVFaUMtVUd1TFVVV1hNSEFDTXBsMG9WdEcwNnlDaUpScS1qUGtIU2JhZmdpU3VFY29pYl9nQkNGRFNjZFB1dnNfRTF6ZWNDVXpwZ1F3Q09fN0lDWlBuSDk1Vmp5aGo0S29YbllvR2JCVUxX?oc=5)
+
+2026-08-10 <span class="news-indication-tag">Alzheimer's</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJrdVFiYldMZEJLekh3dzJtRDJDa1ViSTNXV3lkYkI1WTVFaUMtVUd1TFVVV1hNSEFDTXBsMG9WdEcwNnlDaUpScS1qUGtIU2JhZmdpU3VFY29pYl9nQkNGRFNjZFB1dnNfRTF6ZWNDVXpwZ1F3Q09fN0lDWlBuSDk1Vmp5aGo0S29YbllvR2JCVUxX?oc=5)
+
+---
+
 ### [Un ensayo respalda los ultrasonidos focalizados para tratar problemas motores en Parkinson](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0ZudlNuRk1RSHRzQnFVNTdGc1A2dnM2aUw0TjBma3ltQkM3b0JoXzB6NHhGWUZ5SkE0U0dsZ3I1d29xODkyN1hDM3RfdzBNcXFzOFR1V0J6akhfTkR3SUIyRGxIdk1RSEtTNzlkTDlGcC1tTVNGcVRNZVBNUWZ0OW1id2d5UVA4bW5lSUxyX3FTc29QXzdRWTdxa1BTRW9fcXRUT18yeGs1aWQtU1U3d2d6N2ZiMlAwV2xaMlVBeWlYd9IBxwFBVV95cUxPMmhiOW40Rm1NTUxXQU5fTmVPQ2pUTVBVSy1LOXhvZ0VVX2xTby02a1J5dmJzTkV5ODFjTEhSYzR3WHVDbFJLUEtCSy1tV3RoaTVBZFRNWEJ4VEVrSXBZWk96WWtFVUc4ZGcyakxudWVCUHdQYzdBUzlldjUwQTZ1MFJFb3ZHWXV1cjVZWWREbDBodzJ1S1k0NGJRVWxsN2R6elZGZ0VxNHRnNzJEbmNVM05iS0NudzhkblN2VzdxdWNCSWdYMWFN?oc=5)
 
 2026-08-10 <span class="news-indication-tag">enfermedad de Parkinson</span>
@@ -74,15 +82,7 @@ permalink: /news/tolcapone/
 
 2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
----
-
-### [Et si l'origine de la maladie d'Alzheimer se trouvait dans notre bouche ? Voici la fascinante piste explorée par des chercheurs - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
-
-2026-08-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
+來源：[euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "epatite（hepatitis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "epatite（hepatitis） 的相關健康新聞報導。3 則新聞、25 個相關藥物。"
+description: "epatite（hepatitis） 的相關健康新聞報導。4 則新聞、25 個相關藥物。"
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="epatite（hepatitis） 有什麼相關新聞？">
-<strong>epatite（hepatitis）</strong> 目前有 <strong>3 則</strong>相關新聞報導，25 個相關藥物。
+<strong>epatite（hepatitis）</strong> 目前有 <strong>4 則</strong>相關新聞報導，25 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -53,13 +53,21 @@ permalink: /news/hepatitis/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
+
+2026-08-11
+
+來源：[Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
+
+---
 
 ### [Hepatitis A: Prävention bleibt bei Risikogruppen entscheidend](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 2026-08-11
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
+來源：[journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
 
 ---
 
