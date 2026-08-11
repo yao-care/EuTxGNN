@@ -54,6 +54,14 @@ permalink: /news/orlistat/
 
 ## 相關新聞（6 則）
 
+### [Warum Frauen in der Lebensmitte überschüssige Kilos so schwer loswerden (und was wirklich hilft) - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWVFaF8xU2NONHN6QnFnUV9WbDdxUEZCcDJCczBuYVZ2M21RMzRsbFdQM3FUOWFGUWVnelBmREJHaHpkMHNHUndLM1czUmRYbDNVemUxS1A3QVJQekpudVdmUHpIRkNjZ3c1MFRsOTVkRVNpdHNEU3k4QXg1Sk1jb3ZTUXhEaWQwQWM4anNkdWZUMjYyNmlld0EyRHkzQlVlU0lYVEx5OVdSQ0RRRDgzWURJZ3lkSy1EeWRsTk1aMGxBdDFrMkNQbHdlT2NwUHhOdUxoNQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">Adipositas</span>
+
+來源：[Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLWVFaF8xU2NONHN6QnFnUV9WbDdxUEZCcDJCczBuYVZ2M21RMzRsbFdQM3FUOWFGUWVnelBmREJHaHpkMHNHUndLM1czUmRYbDNVemUxS1A3QVJQekpudVdmUHpIRkNjZ3c1MFRsOTVkRVNpdHNEU3k4QXg1Sk1jb3ZTUXhEaWQwQWM4anNkdWZUMjYyNmlld0EyRHkzQlVlU0lYVEx5OVdSQ0RRRDgzWURJZ3lkSy1EeWRsTk1aMGxBdDFrMkNQbHdlT2NwUHhOdUxoNQ?oc=5)
+
+---
+
 ### [My little girl, 4, had chickenpox - six months later it triggered a stroke leaving her unable to eat or speak - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
 
 2026-08-10 <span class="news-indication-tag">stroke</span>
@@ -78,14 +86,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVVdVYyVEF4SmJHbFM3SVpxcUNzOWt0cmVJUjk2OVF0MEVaeFlNbURGREM5cXRNeXJQLWlrNE00OFhvQWhnV2VhNzJ3YjIwNFM0T3ZCTzktN1NlaS0xRERBZUFPWkF5OWZNbHhtUDJiRGF2anhXYk9FLXFYUXVzZVVfRnF6N3pWaXk4T2ltRXJZU1YwRm1vb092OFdNZ2ZXQXhTNExVX2hzaVU?oc=5)
-
-2026-08-10 <span class="news-indication-tag">Adipositas</span>
-
-來源：[Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanVVdVYyVEF4SmJHbFM3SVpxcUNzOWt0cmVJUjk2OVF0MEVaeFlNbURGREM5cXRNeXJQLWlrNE00OFhvQWhnV2VhNzJ3YjIwNFM0T3ZCTzktN1NlaS0xRERBZUFPWkF5OWZNbHhtUDJiRGF2anhXYk9FLXFYUXVzZVVfRnF6N3pWaXk4T2ltRXJZU1YwRm1vb092OFdNZ2ZXQXhTNExVX2hzaVU?oc=5)
-
----
-
 ### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AVC</span>
@@ -98,7 +98,7 @@ permalink: /news/orlistat/
 
 2026-08-09 <span class="news-indication-tag">obésité</span>
 
-來源：[cnews.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
+來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
 
 ---
 

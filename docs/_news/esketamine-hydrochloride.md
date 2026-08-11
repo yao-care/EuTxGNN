@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Esketamine Hydrochloride 有什麼相關新聞？">
-<strong>Esketamine Hydrochloride</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Esketamine Hydrochloride</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/esketamine-hydrochloride/
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [Stress im frühen Leben macht das Gehirn dauerhaft anfällig](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWw0c3VLSzJGdUNibGI5ekdlY2tFT2lTbWF0Qm1NUlRJNkJGLXFiVl84aGhCOXcwV0xBaUIzM2x4aWc5bHhMb25Kc1lmYm9NOU5RVG9TYVRFN0wwUW1iV0FtMndrZE1ZWWNpQ0d4cFdJa3JSdUJKd0pKMEZxZHdOaU53Y0ZqMllxQUI2a1V0V1EtRHZPckdfLXhFNkhwTkEtNUItbHhVWl9jQVFGbnQ2Vk1FSWhKSnJmakNJYW9n?oc=5)
+
+2026-08-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWw0c3VLSzJGdUNibGI5ekdlY2tFT2lTbWF0Qm1NUlRJNkJGLXFiVl84aGhCOXcwV0xBaUIzM2x4aWc5bHhMb25Kc1lmYm9NOU5RVG9TYVRFN0wwUW1iV0FtMndrZE1ZWWNpQ0d4cFdJa3JSdUJKd0pKMEZxZHdOaU53Y0ZqMllxQUI2a1V0V1EtRHZPckdfLXhFNkhwTkEtNUItbHhVWl9jQVFGbnQ2Vk1FSWhKSnJmakNJYW9n?oc=5)
+
+---
 
 ### [15 minutes pour détecter Alzheimer, Parkinson ou la dépression : l’innovation israélienne qui pourrait tout changer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFVTTHA0VTdkaWREOVMwT3FpWWNpbGZNUG9sX2pJYkxxMlE5Y1ptWmJMZm1fSGxZaTREalF3dGVUb1lwcDIzWmx5cm9SWEw5c19ZbFR1OVhHYTF3WTNqb1lTZlRuWU04ZEFKeUd3OFN1N0xhLXlrUWhDOWdkY1I4VU1zd0dJM3F1N2d6RlY1WnBPV3BGdWViRDA4LXZVbmZqaEdPNEF6SWtES1hIUWlBa2dEbGpoX3dxSFllZjVIZmdlLTJUV3V3SjNsa2g5X3JhSXdGMDJtMWdhd3R2Sm5adE4zU0tOZw?oc=5)
 

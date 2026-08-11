@@ -14,7 +14,7 @@ permalink: /news/guanfacine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Guanfacine Hydrochloride 有什麼相關新聞？">
-<strong>Guanfacine Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Guanfacine Hydrochloride</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,45 @@ permalink: /news/guanfacine-hydrochloride/
 <p><a href="{{ '/drugs/guanfacine-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（32 則）
 
 ### [Herz: Wie viel Kaffee am Tag ist gesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
-2026-08-10 <span class="news-indication-tag">AF</span>
+2026-08-11 <span class="news-indication-tag">AF</span>
 
 來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
 
 ---
 
-### [Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPN1I4dzFQMDJmV25Xa05WRnY1dW9oOVJORmw3bk1KTUlNWnVLNkNSM0NrNWowTWZFdkZUeWplR0ZibzJpNzg1bDZpOVppZGRfZzVfVHk1R1NuXzdf?oc=5)
+### [Batterio mangiacarne nello Stretto di Messina, il vibrione si risveglia: ecco come possiamo affrontarlo](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU3lyNEFvNEFBS2NlRUpfUXc4ZHN5MWJrQjRrSjBHR2RRcHhKYk9oNVdRM05HbGsyTnY0NEREeHZsT3o4NUJxLUF3SW5uT0t4U2k0Tng2elUtMlR1NlZ3bWxzNXNCMjVRaHptbVNGTUVValpuQ3hwaE1qZTRiYUxQUGpBWjRMdkdOM1VvNEFUdFlkYkdWV3pWODdiMV9fZWxVZ21tUkFDYUJPdXRRUXkwclFTbTlfVWR3RXJrN3pWd09sRjdkNExTaWhwcWhqYkMwWlBDRUNET3M1ZDNMdXV4aEhhY01qWXM?oc=5)
 
-2026-08-10 <span class="news-indication-tag">AF</span>
+2026-08-11 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPN1I4dzFQMDJmV25Xa05WRnY1dW9oOVJORmw3bk1KTUlNWnVLNkNSM0NrNWowTWZFdkZUeWplR0ZibzJpNzg1bDZpOVppZGRfZzVfVHk1R1NuXzdf?oc=5)
+來源：[Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU3lyNEFvNEFBS2NlRUpfUXc4ZHN5MWJrQjRrSjBHR2RRcHhKYk9oNVdRM05HbGsyTnY0NEREeHZsT3o4NUJxLUF3SW5uT0t4U2k0Tng2elUtMlR1NlZ3bWxzNXNCMjVRaHptbVNGTUVValpuQ3hwaE1qZTRiYUxQUGpBWjRMdkdOM1VvNEFUdFlkYkdWV3pWODdiMV9fZWxVZ21tUkFDYUJPdXRRUXkwclFTbTlfVWR3RXJrN3pWd09sRjdkNExTaWhwcWhqYkMwWlBDRUNET3M1ZDNMdXV4aEhhY01qWXM?oc=5)
 
 ---
 
-### [‘Safe, quick and painless’: what is a DXA scan, and do you need one for bone health? - The Guardian](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
+### [England set to eliminate hepatitis C](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZdzFkdXZOamtyYjRlVkwwZTBacTFGRXNwWU1BUFloSFh2bF9VcnRka2JqSFB4Tk1fTTJGdDdRb2VIakZvVHVlVnhjbGZDZElsQm5YVmd4VlU5a0pw?oc=5)
+
+---
+
+### [DRC’s Ebola outbreak began months before it was officially declared, says WHO - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmg1NElsQzVER2ZCY3lpcUlHSlRfT2RQV0g3cjJnUXVBLU15bDljdVc5WEhhek9MRUV5X0dDeTFCb0ZRTVBqa3RYbUJ5VTBlYm9UdFd4UHlyNFd1bTlqSExtVDVDMWFYMEdBTjhsRHd2bF9Bc1VCTEhWUVNrOUxpU2RyVDAtQTB6SnRmb3V6YmtKUEw5dnRvSW9ZNnBPQ2VzcXQyQnhDXzdTZmxTalHSAbMBQVVfeXFMUEdyemxGTVNXbGg5UFJNS3JmVEJ2TlZISEk4M3ctVVZiT0QtQ0JCSWRNbTBNOXR6bzdlcWd1SEg3ZGp5QzhRaFZzN0E0VnJFTHl5d1RySjNUYlNPQUNQQzBsUVVNeUNsejZhdmVTSzlNMlpnMU9GbGltRURPQ3N0TUxFNWU1NnM0WDJIaEVWWEg5UVNTaVRWLUJ2ZnBoOVFld1oyZWpMeDBfT0hJeUxQZVJNRkk?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[The Guardian](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
+來源：[Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmg1NElsQzVER2ZCY3lpcUlHSlRfT2RQV0g3cjJnUXVBLU15bDljdVc5WEhhek9MRUV5X0dDeTFCb0ZRTVBqa3RYbUJ5VTBlYm9UdFd4UHlyNFd1bTlqSExtVDVDMWFYMEdBTjhsRHd2bF9Bc1VCTEhWUVNrOUxpU2RyVDAtQTB6SnRmb3V6YmtKUEw5dnRvSW9ZNnBPQ2VzcXQyQnhDXzdTZmxTalHSAbMBQVVfeXFMUEdyemxGTVNXbGg5UFJNS3JmVEJ2TlZISEk4M3ctVVZiT0QtQ0JCSWRNbTBNOXR6bzdlcWd1SEg3ZGp5QzhRaFZzN0E0VnJFTHl5d1RySjNUYlNPQUNQQzBsUVVNeUNsejZhdmVTSzlNMlpnMU9GbGltRURPQ3N0TUxFNWU1NnM0WDJIaEVWWEg5UVNTaVRWLUJ2ZnBoOVFld1oyZWpMeDBfT0hJeUxQZVJNRkk?oc=5)
+
+---
+
+### [‘Safe, quick and painless’: what is a DXA scan, and do you need one for bone health?](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[theguardian.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
 
 ---
 
@@ -126,6 +142,14 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
+### [José Abellán, cardiólogo: “El calor acelera y exprime tu corazón aunque estés quieto" - Men's Health](https://news.google.com/rss/articles/CBMixAJBVV95cUxOTnVMX3MwWjZwZDJUcG9GRUJRcldGa003VzQyZDBZZ1BadW1xOHg1d21yQnVJQnFSel9aZVlza2dFUkdsenlLSURMYkNSTllEdTJFODdFYTQ5RzZscWdmME9yeGFtN2NFWEk2bDlqMXh5SWVMTzNiMWZudEZYVThWZUVWRm9INmt2S3QxU1NqeWphRFRwSmROOGI4dU1XQWVFUUZuajhRSW1MaXM1SGtaUEFpbU5HcTlZNm82SzN3dUl0a3RhSFF0S251ejExMGtvZG45WkczbVI5cDlBR1QwelFNS0lXWmtKRDRhSnNVWk9FNjlCNmFZNFV2NTg1M01oZEdMdUtlb1l1T2I0aWJMTUQ3RWNhb0VaemJmaEk1S1gwUDJJS1lBRlp6WFUxdjhuNVpwcHVSNVpvOEJfTHFLWVQ0WjM?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[Men's Health](https://news.google.com/rss/articles/CBMixAJBVV95cUxOTnVMX3MwWjZwZDJUcG9GRUJRcldGa003VzQyZDBZZ1BadW1xOHg1d21yQnVJQnFSel9aZVlza2dFUkdsenlLSURMYkNSTllEdTJFODdFYTQ5RzZscWdmME9yeGFtN2NFWEk2bDlqMXh5SWVMTzNiMWZudEZYVThWZUVWRm9INmt2S3QxU1NqeWphRFRwSmROOGI4dU1XQWVFUUZuajhRSW1MaXM1SGtaUEFpbU5HcTlZNm82SzN3dUl0a3RhSFF0S251ejExMGtvZG45WkczbVI5cDlBR1QwelFNS0lXWmtKRDRhSnNVWk9FNjlCNmFZNFV2NTg1M01oZEdMdUtlb1l1T2I0aWJMTUQ3RWNhb0VaemJmaEk1S1gwUDJJS1lBRlp6WFUxdjhuNVpwcHVSNVpvOEJfTHFLWVQ0WjM?oc=5)
+
+---
+
 ### [Hafer-, Mandel- oder Sojadrink: Studie zeigt deutliche Unterschiede gegenüber Kuhmilch](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1dmbG1paFFmVm03bnBaRGpRcm5FWS1GdHN6ckdiTHVSb1FrSHVra0p6QXcybWx3bFVLSW1wTm9ydmpvaE4tQjdabF9FSlN2SWdnMjI0QWJYQnBfUW41cUxPalpqbTA2elA3czhGbHV0ZXpyTi1yYkZHNUl5RWQ3amdvcmJpWVZIMXJqcVBZWUd3REIwdEJ0TWk0X3dwMkhMOFQ5UmhtaWdSSlA2SjBQSzZTWllHaU5BZm5F?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
@@ -150,11 +174,27 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Schwangerschaften nach CAR-T-Zelltherapie bei Autoimmunerkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
+### [Schwangerschaften nach CAR-T-Zelltherapie bei Autoimmunerkrankungen - Gelbe Liste](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[gelbe-liste.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
+來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
+
+---
+
+### [Pain, stigma and barriers to care: The burden of cysts and fibroids in Africa](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JKVnNTdENYcHpEb2MzOXFOcmxkX3RDUk56Szc5Ulo3LVhCYUJQSElybXA4M1RGNWZTV2ZMV1ZwS0xOaVdwZ0NyME9GVm1CNnppck12Z2ZmcjJZV21nWldpTHdSQUxvRE1QODVxOVUtRXFpbUFmN1FLNzUtMWw3U2hEZmFzMmg4UU9BV01aWGQtMVNFSWgyMjRqZ0NwbXBsYkkwRzFtYnVCcG54dFJv?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[CNN](https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JKVnNTdENYcHpEb2MzOXFOcmxkX3RDUk56Szc5Ulo3LVhCYUJQSElybXA4M1RGNWZTV2ZMV1ZwS0xOaVdwZ0NyME9GVm1CNnppck12Z2ZmcjJZV21nWldpTHdSQUxvRE1QODVxOVUtRXFpbUFmN1FLNzUtMWw3U2hEZmFzMmg4UU9BV01aWGQtMVNFSWgyMjRqZ0NwbXBsYkkwRzFtYnVCcG54dFJv?oc=5)
+
+---
+
+### [Stress im frühen Leben macht das Gehirn dauerhaft anfällig](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWw0c3VLSzJGdUNibGI5ekdlY2tFT2lTbWF0Qm1NUlRJNkJGLXFiVl84aGhCOXcwV0xBaUIzM2x4aWc5bHhMb25Kc1lmYm9NOU5RVG9TYVRFN0wwUW1iV0FtMndrZE1ZWWNpQ0d4cFdJa3JSdUJKd0pKMEZxZHdOaU53Y0ZqMllxQUI2a1V0V1EtRHZPckdfLXhFNkhwTkEtNUItbHhVWl9jQVFGbnQ2Vk1FSWhKSnJmakNJYW9n?oc=5)
+
+2026-08-10 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWw0c3VLSzJGdUNibGI5ekdlY2tFT2lTbWF0Qm1NUlRJNkJGLXFiVl84aGhCOXcwV0xBaUIzM2x4aWc5bHhMb25Kc1lmYm9NOU5RVG9TYVRFN0wwUW1iV0FtMndrZE1ZWWNpQ0d4cFdJa3JSdUJKd0pKMEZxZHdOaU53Y0ZqMllxQUI2a1V0V1EtRHZPckdfLXhFNkhwTkEtNUItbHhVWl9jQVFGbnQ2Vk1FSWhKSnJmakNJYW9n?oc=5)
 
 ---
 
@@ -166,11 +206,11 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Gehirn besitzt mehr Selbstheilungskraft als bisher angenommen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXN3dmpxRlZFLXVrSm9qb0ZFaVJWQWpiaWtNWUJiNGZsTkdCdEJJQ3RCS3oteldjbm5Oa0JQUUh0cVBWMnhpTzZ4Q3FwSTA3WnpKNUtPY0c0dVhuMW9ybTJzUy0yQlhSMXRnRUxCNDU5Z0dib0R1MGttNVNlSjVPbEhadlBscFpLYTgyUTNsUmRqbHo3ZWhydEw1Q2JKNlc1cHJUQy13bDFUUmhyUVdpdERZejJNd3JndEtB?oc=5)
+### [Gehirn besitzt mehr Selbstheilungskraft als bisher angenommen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXN3dmpxRlZFLXVrSm9qb0ZFaVJWQWpiaWtNWUJiNGZsTkdCdEJJQ3RCS3oteldjbm5Oa0JQUUh0cVBWMnhpTzZ4Q3FwSTA3WnpKNUtPY0c0dVhuMW9ybTJzUy0yQlhSMXRnRUxCNDU5Z0dib0R1MGttNVNlSjVPbEhadlBscFpLYTgyUTNsUmRqbHo3ZWhydEw1Q2JKNlc1cHJUQy13bDFUUmhyUVdpdERZejJNd3JndEtB?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXN3dmpxRlZFLXVrSm9qb0ZFaVJWQWpiaWtNWUJiNGZsTkdCdEJJQ3RCS3oteldjbm5Oa0JQUUh0cVBWMnhpTzZ4Q3FwSTA3WnpKNUtPY0c0dVhuMW9ybTJzUy0yQlhSMXRnRUxCNDU5Z0dib0R1MGttNVNlSjVPbEhadlBscFpLYTgyUTNsUmRqbHo3ZWhydEw1Q2JKNlc1cHJUQy13bDFUUmhyUVdpdERZejJNd3JndEtB?oc=5)
+來源：[nachrichten.idw-online.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXN3dmpxRlZFLXVrSm9qb0ZFaVJWQWpiaWtNWUJiNGZsTkdCdEJJQ3RCS3oteldjbm5Oa0JQUUh0cVBWMnhpTzZ4Q3FwSTA3WnpKNUtPY0c0dVhuMW9ybTJzUy0yQlhSMXRnRUxCNDU5Z0dib0R1MGttNVNlSjVPbEhadlBscFpLYTgyUTNsUmRqbHo3ZWhydEw1Q2JKNlc1cHJUQy13bDFUUmhyUVdpdERZejJNd3JndEtB?oc=5)
 
 ---
 
@@ -194,7 +234,7 @@ permalink: /news/guanfacine-hydrochloride/
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52YVBXRmQyRE92WjdtT2t5NVNiMEEyYTRiQm1JclByeDZpMVdqLUs5bDJNbzdfa2NTaWZHMzY0d2xEVEhjXzNKNFNnOFdpcVZLdVVGOTBWa192Zzh0?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE52YVBXRmQyRE92WjdtT2t5NVNiMEEyYTRiQm1JclByeDZpMVdqLUs5bDJNbzdfa2NTaWZHMzY0d2xEVEhjXzNKNFNnOFdpcVZLdVVGOTBWa192Zzh0?oc=5)
 
 ---
 
@@ -206,27 +246,11 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
-### [Diabetes und Vorhofflimmern: So verlängert Therapietreue Komplikationen um Monate - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
-
-2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVA2b0dGYVZldmczZnVwdjMzMFpoN3ltQktXSUNsY2hMMVhmLVk2RkJ6NF9KczBnSFBONEZDSjZ6R1F1djRsZ3NramJLR0FMbjB5Zks3OE1ZN3g4LWlaVGc3SDVrYk1hN2VjSmsxVm5TQ19yZVM5Z2NHSnZ0TmVJQm05Z1BQcVVEZ2puUUJFVVVFU3pSa2RITzlKM1FGeFJEaUV5YmhlZVpvSmhrS0RvdXZTcw?oc=5)
-
----
-
 ### [Peligro por epidemia de HIV: El recorte de fondos globales frena el avance científico](https://news.google.com/rss/articles/CBMirgFBVV95cUxONzVBeDJUZ0d2WHEyQ18wLXM1bkJjMzZ0SEI4ZS14a2cxTk9OOUVWa2pRNXRUTFhtcUlVdlFhMi0wNEp1LXZIaDJpZzFacUhuRWljSE4xQ2EwcWNrRlJBVV9Xb0JhZ1NzczNmLXFKX0M4ZFlsTWFZcExmaTJseEsxekV5UjRqU0RmLTdDaXNNN2FMSkwyS3lBWnVyNnBEY3RIa0xDVDRydVpBamI0MUHSAbMBQVVfeXFMTVRUcVZSZ2tTdnRHQ2U3bDlOQzNZWUdXZzZsbzFiUlFSUVlHcnAzRFJ5Mzh0Y3p6ZnBfWEhtYUZNSElWMnVwak5ZZ1VETDlZbVUxdTdjTTdZVldGRzd1Z2VfcGV3cmNlWGhETUJFRW9wQ2h4MlE5ZDE2ZHNtZVEybWkwOHFHZFBrcDlZUzQwa2RkczZyZ3N2N29XRXAzR0YxZHBKWFRYbUhNenZJcHFGbWJNaTA?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
 
 來源：[Urgente24](https://news.google.com/rss/articles/CBMirgFBVV95cUxONzVBeDJUZ0d2WHEyQ18wLXM1bkJjMzZ0SEI4ZS14a2cxTk9OOUVWa2pRNXRUTFhtcUlVdlFhMi0wNEp1LXZIaDJpZzFacUhuRWljSE4xQ2EwcWNrRlJBVV9Xb0JhZ1NzczNmLXFKX0M4ZFlsTWFZcExmaTJseEsxekV5UjRqU0RmLTdDaXNNN2FMSkwyS3lBWnVyNnBEY3RIa0xDVDRydVpBamI0MUHSAbMBQVVfeXFMTVRUcVZSZ2tTdnRHQ2U3bDlOQzNZWUdXZzZsbzFiUlFSUVlHcnAzRFJ5Mzh0Y3p6ZnBfWEhtYUZNSElWMnVwak5ZZ1VETDlZbVUxdTdjTTdZVldGRzd1Z2VfcGV3cmNlWGhETUJFRW9wQ2h4MlE5ZDE2ZHNtZVEybWkwOHFHZFBrcDlZUzQwa2RkczZyZ3N2N29XRXAzR0YxZHBKWFRYbUhNenZJcHFGbWJNaTA?oc=5)
-
----
-
-### [« Il faut parfois jusqu’à dix ans avant de poser un diagnostic » : l’Unafam au service des aidants de malades psychiques depuis plus de 60 ans - Le Bien Public](https://news.google.com/rss/articles/CBMijAJBVV95cUxOVmxwY1FDdVRjeHVzNTlBanlVc25XU3ZMOUd2TEF2UmRmQk5GcUU2bm5qUU9RdFJKTHBWUXJxa2NNaWVVUzNHek5kUGJGLWpkLVJfX1FjclM3QXRCWUpndFZJUlVyWkdjQVJMUklTYXp4d1IyQlNpVmp0Zk82Nl9jNDVFLUM5b0FiZ1J3eHVIcW5mUEZ1OHdqejFwMW1MRk55VDNKZ2h1UDNsdWY5S2podWNFWW9hajJUZnNNR0ZCaXpRSjFzZHhDdGJ4NDZVQVZxZVZURmIydmpkb2pVUXNpaFB5ZTB6XzBXUjVPeXlNemZxUG80N0RmdGUxV25HS2FUUTBXd2Jqd0tjT3JB?oc=5)
-
-2026-08-09 <span class="news-indication-tag">AF</span>
-
-來源：[Le Bien Public](https://news.google.com/rss/articles/CBMijAJBVV95cUxOVmxwY1FDdVRjeHVzNTlBanlVc25XU3ZMOUd2TEF2UmRmQk5GcUU2bm5qUU9RdFJKTHBWUXJxa2NNaWVVUzNHek5kUGJGLWpkLVJfX1FjclM3QXRCWUpndFZJUlVyWkdjQVJMUklTYXp4d1IyQlNpVmp0Zk82Nl9jNDVFLUM5b0FiZ1J3eHVIcW5mUEZ1OHdqejFwMW1MRk55VDNKZ2h1UDNsdWY5S2podWNFWW9hajJUZnNNR0ZCaXpRSjFzZHhDdGJ4NDZVQVZxZVZURmIydmpkb2pVUXNpaFB5ZTB6XzBXUjVPeXlNemZxUG80N0RmdGUxV25HS2FUUTBXd2Jqd0tjT3JB?oc=5)
 
 ---
 
@@ -238,19 +262,19 @@ permalink: /news/guanfacine-hydrochloride/
 
 ---
 
+### [Diabetes + Vorhofflimmern: Therapietreue verzögert Komplikationen um 7 Monate - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1pEMHU3b3l4dVk2N0x0ZEE3dTAweF9iR1Q4NU95YTQ4Z0Mtdm5qd3RLd3RCbUpCdkVEcFpJc2VaYlpzdkdvNjZpRk51REg4OFBwN012WnJ3NG9Gb2VDbDZnYTBGLWpVY1FMdmVzU0kyYXZyQ3JOWUxpMHpTSDdBTkQ5TDhsSVAxcXplWGNsMEdjLTJ5Si1jcEdjdXk3RTJUN2hLbDk1Sy16dUlzdVpsZFhackt3OUhS?oc=5)
+
+2026-08-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1pEMHU3b3l4dVk2N0x0ZEE3dTAweF9iR1Q4NU95YTQ4Z0Mtdm5qd3RLd3RCbUpCdkVEcFpJc2VaYlpzdkdvNjZpRk51REg4OFBwN012WnJ3NG9Gb2VDbDZnYTBGLWpVY1FMdmVzU0kyYXZyQ3JOWUxpMHpTSDdBTkQ5TDhsSVAxcXplWGNsMEdjLTJ5Si1jcEdjdXk3RTJUN2hLbDk1Sy16dUlzdVpsZFhackt3OUhS?oc=5)
+
+---
+
 ### [New study finds bacterial infections affect about 1 in 20 hospitalized adults with firearm injuries - Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTk1dG5PNFllTmEzeDVlRGRUSnItMDc2dGJTWWdSaXlleE9hWm9DV25CY1ZWUGg0WGRrNi11aUh2VG5XRkZ0MEF1OWI1Vmp0cFBQMV9wZEIyYXNUZWVfY0J5dlVjYVI2Y09JTDJXOGcyLWNXeEw2VzEtdHlNUFpOQjNLakxGQTg3Mlo0cmtjcS1MN2ljUnc?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
 
 來源：[Medical Xpress](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTk1dG5PNFllTmEzeDVlRGRUSnItMDc2dGJTWWdSaXlleE9hWm9DV25CY1ZWUGg0WGRrNi11aUh2VG5XRkZ0MEF1OWI1Vmp0cFBQMV9wZEIyYXNUZWVfY0J5dlVjYVI2Y09JTDJXOGcyLWNXeEw2VzEtdHlNUFpOQjNLakxGQTg3Mlo0cmtjcS1MN2ljUnc?oc=5)
-
----
-
-### [Darmgesundheit, Lebensstil und neue Therapiewege gegen Demenzrisiko - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXNLRXdfVUF6dWFjTHp2c1pYLUFxWm13QkFjMzMzN0l4bXB6REVDV2RxZlF3Wkd2ekgtaUhVeVRKT2NrdWRTNmJFUWVPaWZZeUxhcEo1ZFVBeEpDN2E4eTVoalpVcDFPYjBIV2NLcENHWGxBRDNuckVEQkVfT25vTHhERENIaWVNU2xpbFp5Ul9HZEhsSFBWXzhqV2paTWc?oc=5)
-
-2026-08-09 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXNLRXdfVUF6dWFjTHp2c1pYLUFxWm13QkFjMzMzN0l4bXB6REVDV2RxZlF3Wkd2ekgtaUhVeVRKT2NrdWRTNmJFUWVPaWZZeUxhcEo1ZFVBeEpDN2E4eTVoalpVcDFPYjBIV2NLcENHWGxBRDNuckVEQkVfT25vTHhERENIaWVNU2xpbFp5Ul9HZEhsSFBWXzhqV2paTWc?oc=5)
 
 ---
 
@@ -274,15 +298,7 @@ permalink: /news/guanfacine-hydrochloride/
 
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMTIwTndZV0lGdHFhWHh2Q0JNSFVWTzFlQkR0SlNQbXhadlhFUVBVYWtEelFzbXk1bDBLekNLeDlZNllfV19WWjlwV2ZwZFhOY3hKWWNRUTJ2dlJT?oc=5)
-
----
-
-### [Immer weniger Menschen erleiden einen Herzinfarkt - Forschung und Wissen](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Q4UTRBZGJiT2o4RjI5dlZ0c2V1bnNFRWlYd19WemlwemJXMkppVVJwblp6eW5NTkVSMGJkcjljYVZXanhqQkY1RXBlOW1od1BobnN0UHFXQ1d3ak5qWnRfb0ZzVThFTUt6T29vWXFHV1JSdW1RSzRxSEZucHc3aVhDejQzNXFGSFJKUmJTdlpQbERyOVFtNU1UczQzSjlUUVNxcjZrQS1XT0hiS3ZCa21ibkFHdw?oc=5)
-
-2026-08-09 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
-
-來源：[Forschung und Wissen](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Q4UTRBZGJiT2o4RjI5dlZ0c2V1bnNFRWlYd19WemlwemJXMkppVVJwblp6eW5NTkVSMGJkcjljYVZXanhqQkY1RXBlOW1od1BobnN0UHFXQ1d3ak5qWnRfb0ZzVThFTUt6T29vWXFHV1JSdW1RSzRxSEZucHc3aVhDejQzNXFGSFJKUmJTdlpQbERyOVFtNU1UczQzSjlUUVNxcjZrQS1XT0hiS3ZCa21ibkFHdw?oc=5)
+來源：[bbc.co.uk](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PMTIwTndZV0lGdHFhWHh2Q0JNSFVWTzFlQkR0SlNQbXhadlhFUVBVYWtEelFzbXk1bDBLekNLeDlZNllfV19WWjlwV2ZwZFhOY3hKWWNRUTJ2dlJT?oc=5)
 
 ---
 
@@ -291,14 +307,6 @@ permalink: /news/guanfacine-hydrochloride/
 2026-08-09 <span class="news-indication-tag">AF</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ21zSWRLRkREQUFOOU9QZV80MlEtRGVLYVhhVXV6TWtEaWhkQnVhck5YbU5Sb01KQWQ1QzcwamVUTUNQTEQyXzBMbzE1c0dFSHU3b2p2YmIwb0t4OTdWUmdndUNtMkRvN25QeEdXV3hfMEc4QUxNNDZlUV91eE1SVU1OR3c0R2M?oc=5)
-
----
-
-### [Los expertos dermatólogos alertan sobre las manchas solares: "Son una de las consultas más frecuentes porque afectan mucho a la percepción de la piel" - Harper's BAZAAR](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
-
-2026-08-09 <span class="news-indication-tag">AF</span>
-
-來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
 
 ---
 

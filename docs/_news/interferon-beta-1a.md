@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="Interferon Beta-1A 有什麼相關新聞？">
-<strong>Interferon Beta-1A</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Interferon Beta-1A</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ permalink: /news/interferon-beta-1a/
 <p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [Ébola en RD Congo: Alarma de la UNICEF por 743 casos confirmados entre niños - Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWRyWmwwZGJmRXoxcGJybE9QUXFFWUs5SElIR1JSblRtcGVfSmtfSmNQX1MtdW9ZcGZ0VE1GMWQxLTdhVzZXQjF4cGVBam05QVdGSFhIZDNLZml2QnlqS1FPdFBOcnprOFhiMWJYZUdGTm1zRkVHR0pyaHlZT2l0TFRPRl9oelBvRG00azU1THo3Y1hMR1Q2ZGhySWRUVXViNmJDalp4WDJqYThzcHgxMldRQTNNUlho?oc=5)
 
 2026-08-10 <span class="news-indication-tag">MS</span>
 
 來源：[Vatican News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWRyWmwwZGJmRXoxcGJybE9QUXFFWUs5SElIR1JSblRtcGVfSmtfSmNQX1MtdW9ZcGZ0VE1GMWQxLTdhVzZXQjF4cGVBam05QVdGSFhIZDNLZml2QnlqS1FPdFBOcnprOFhiMWJYZUdGTm1zRkVHR0pyaHlZT2l0TFRPRl9oelBvRG00azU1THo3Y1hMR1Q2ZGhySWRUVXViNmJDalp4WDJqYThzcHgxMldRQTNNUlho?oc=5)
-
----
-
-### [El despliegue de políticas frente al alcohol evitaría más de 9.200 casos de cáncer en la Unión Europea](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
-
-2026-08-10 <span class="news-indication-tag">MS</span>
-
-來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
 
 ---
 
@@ -86,11 +78,11 @@ permalink: /news/interferon-beta-1a/
 
 ---
 
-### [La OMS recomienda priorizar el estudio de la vacuna contra el ébola 'Ervebo' ante el brote del Congo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFhERVNqVlQzVC1vV2dLbzE0Z1FNem1YVmtIMEVScXVEMVh5aGM2SzIyel9ST3FGWVNxVUxEWGhMRWRBVkh6R3BFVnJQMnhmNWtlWm53TkdLZ0lzVm1tN3JDQjcwYmlYV3NqTGN0ZGIwbFQxNF8ydE5qMUszVnJoUDV0bnR4TnZoLWMxLTZDUkN3SFczaVJaa3dFQ01WOF9FRmstNDVzZFVia0pVWWktVkJTU3dvVFdVZ0hoM0RydDgwZlVCQzdDQkVkVmdnVEU2VU95M1dPdFZ1VnFidUxVdzJYQQ?oc=5)
+### [L'Alsace à la pointe de la lutte contre la sclérose en plaques](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMk83UDhoaEZ3a3ZvcWpfQkVtTjluc194NWw0ek1sdTladDJSeU82c0x1VE16cmJaaWdIZW0zVE5JbnFYbmJqTkF6dE5KMFFtTlc3WDBxUDRsRW1mWkM1dDJjT0JjRHk5WVZ2Vk5FaVduNGRGZWxITUdIZ0tXbjRYR2VJemxfWmF5UWY5TEhlbE5lYVBvNk5YcFp5NzhTODJ3WktCSEZTWUJEZ3ZnV0dVOGxKOU9qRTNNbEtLdGE1RVk?oc=5)
 
-2026-08-10 <span class="news-indication-tag">MS</span>
+2026-08-10 <span class="news-indication-tag">sclérose en plaques</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFhERVNqVlQzVC1vV2dLbzE0Z1FNem1YVmtIMEVScXVEMVh5aGM2SzIyel9ST3FGWVNxVUxEWGhMRWRBVkh6R3BFVnJQMnhmNWtlWm53TkdLZ0lzVm1tN3JDQjcwYmlYV3NqTGN0ZGIwbFQxNF8ydE5qMUszVnJoUDV0bnR4TnZoLWMxLTZDUkN3SFczaVJaa3dFQ01WOF9FRmstNDVzZFVia0pVWWktVkJTU3dvVFdVZ0hoM0RydDgwZlVCQzdDQkVkVmdnVEU2VU95M1dPdFZ1VnFidUxVdzJYQQ?oc=5)
+來源：[ici.fr](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMk83UDhoaEZ3a3ZvcWpfQkVtTjluc194NWw0ek1sdTladDJSeU82c0x1VE16cmJaaWdIZW0zVE5JbnFYbmJqTkF6dE5KMFFtTlc3WDBxUDRsRW1mWkM1dDJjT0JjRHk5WVZ2Vk5FaVduNGRGZWxITUdIZ0tXbjRYR2VJemxfWmF5UWY5TEhlbE5lYVBvNk5YcFp5NzhTODJ3WktCSEZTWUJEZ3ZnV0dVOGxKOU9qRTNNbEtLdGE1RVk?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ permalink: /news/interferon-beta-1a/
 2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
-
----
-
-### [The autism expert who says people are being misdiagnosed - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
-
-2026-08-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
 
 ---
 

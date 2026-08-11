@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="Carbidopa 有什麼相關新聞？">
-<strong>Carbidopa</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carbidopa</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/carbidopa/
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [Los expertos coinciden: "Las personas que son pelirrojas naturales tienen más riesgo de melanoma y de enfermedad de Parkinson, pero también toleran mejor el dolor" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFU?oc=5)
 
@@ -72,14 +72,6 @@ permalink: /news/carbidopa/
 2026-08-09 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMigwJBVV95cUxQeEw1cDRZb09HZVY5UnZzcXNhdGgzQ210cUNBQnl0R3pwRFdSR2xDMGVFTXNmeHprTmVYSkUxRzdSMGk4WUEtOUZEOUF5QkVhWVdFR0E3T1VJZmFaRGVXOGNoTFFENEdJRXR1V19iZm5hejRHeEJXcHZBOFJaVHFOVGo3c3l4YWtFQ2FxUjF5VjFYbVF1TTRrVENfdVRULWduTGV3R1MzdHFLS1F0bzBvNGZZdXBuVW91eEpIV0NTZGhVVjVPQkpVLU93VHoxTVlsWXJBNWJZbTFnUkFhXzdZMzk1NGY4eWl2MElJWTVrcmF5MXprX29za0FsdUpmY1JfRWgw?oc=5)
-
----
-
-### [Parkinson-Therapie: Kontinuierliche Infusion und neue Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjdfQ0Z5WlpaZEd2MTh1djlsSXY4MnktallNS2pSZ3ZoX3g4eGhtMUhqUkM0MTJVMDF1ZlB2QXZrZ2dtODNoVzl0TDFPMG44RjdkUmJUanBfcHQwUXFkaGVOVjFra3ZjamhSVFVwVUM4STBreE5hZHAtV0hzSk9GU05QOVBEZHE4TDVaMm5vM1NORTZjNnM5RnV0SQ?oc=5)
-
-2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjdfQ0Z5WlpaZEd2MTh1djlsSXY4MnktallNS2pSZ3ZoX3g4eGhtMUhqUkM0MTJVMDF1ZlB2QXZrZ2dtODNoVzl0TDFPMG44RjdkUmJUanBfcHQwUXFkaGVOVjFra3ZjamhSVFVwVUM4STBreE5hZHAtV0hzSk9GU05QOVBEZHE4TDVaMm5vM1NORTZjNnM5RnV0SQ?oc=5)
 
 ---
 

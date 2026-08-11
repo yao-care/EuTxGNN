@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck（hypertension） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Bluthochdruck（hypertension） 的相關健康新聞報導。2 則新聞、55 個相關藥物。"
+description: "Bluthochdruck（hypertension） 的相關健康新聞報導。1 則新聞、55 個相關藥物。"
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="Bluthochdruck（hypertension） 有什麼相關新聞？">
-<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>2 則</strong>相關新聞報導，55 個相關藥物。
+<strong>Bluthochdruck（hypertension）</strong> 目前有 <strong>1 則</strong>相關新聞報導，55 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -83,21 +83,13 @@ permalink: /news/hypertension/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [Studie: Drei Gesundheitsfaktoren im mittleren Alter verzögern Demenz um 13 Jahre](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
+### [Bluthochdruck: Kalium-Natrium-Balance schlägt reine Salzreduktion - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVRtZkdfWW1lOWRKTUhKclZzdzlqUzFVd0hMN2xvUmFUTU1iRndUTW5wOHo4NFduaGVQaE84a3NjVlExUWZ6WjgtSFZlTjZjRm51dUgtUjZzU2FGRy1VUF92a2d0c0FsWklsSFRsSWJjN1B1aHVxRkxhUm4tcnFNTVI3OUhfeGltUUpxQVRtUFlnV19oUjdkeW9oWExobGdDdWtWTzBxVGQza0E4eHNSTkVVRWg?oc=5)
 
-2026-08-10
+2026-08-11
 
-來源：[Euronews.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3BKTndsN2oydmRnWFloTzBIdTNqeXVSM0I0enpKUG51TDZoN1BMbl9ldjhnUklHbE91eGJsR1kzMTFmRlNjY0ZNZTlJakg2Y1JNSGN6Rzl1TUVwc01yOXllOUotc3J6UFhWMS1UTm5LVkhwcGFSN2VSTlVOTlQwcWpqbmJVOEJScGNSNXhneUdKMXJMNjJ6OEZ3VTZuSXJWc19XT3o2am1wLXBuTEVQZ3U1ckxmVURwMDA2VE9yeGVBX0E?oc=5)
-
----
-
-### [Optimizar el control de la hipertensión arterial mediante inteligencia artificial](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
-
-2026-08-06
-
-來源：[Geriatricarea](https://news.google.com/rss/articles/CBMisgFBVV95cUxPOENhNEJXekVfWktFV3gtQUpVTmxCNnAzSnhCaDlicnFEUmFxT3FjazRZSWZmb3g5SkZVeGk3dEU2WkdqWW5FdTJyUG9jbTN5YlY0Q1lrYm0zRVBHeV9NN01Nd3loV1NmcFdtOEFhVW5NQWRydTJNcEZ5akhIQ3dmdXpxMHNEMGs3NEs0c2ZxbnFmaFNRSnBaMUtVdFo5aTd2QVJDWS1Dd2FjWnJmRkdJaDN3?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVRtZkdfWW1lOWRKTUhKclZzdzlqUzFVd0hMN2xvUmFUTU1iRndUTW5wOHo4NFduaGVQaE84a3NjVlExUWZ6WjgtSFZlTjZjRm51dUgtUjZzU2FGRy1VUF92a2d0c0FsWklsSFRsSWJjN1B1aHVxRkxhUm4tcnFNTVI3OUhfeGltUUpxQVRtUFlnV19oUjdkeW9oWExobGdDdWtWTzBxVGQza0E4eHNSTkVVRWg?oc=5)
 
 ---
 

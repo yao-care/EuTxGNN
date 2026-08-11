@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [Morbus Crohn: Was über die chronische Darmerkrankung 2026 bekannt ist](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTh1eTVwQS1UYjBKRkZoM0NiWGxad25aOTdkLU1WTnFPQUh1RFh1UDNuVWJJdnlseTdiYnhWMTJSRXNudl9paTRkdzVCLTVFRTdUUnJ0bHRoX1lLVDlzc1JRVVJZZjBnc3cwTU44T2QxNUJ6WEwyR1JTcEpnRVp6SG8xaEZkMDNhQVRJcUZnYzRqRUt1MW5BQnl2NW1wcklVSUh0U1JUU21rQnZucTMxcXVHcnVibDJxaEhWdjVwRS1mRmdkNElNMk4weGNPUQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[Nordsee-Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTh1eTVwQS1UYjBKRkZoM0NiWGxad25aOTdkLU1WTnFPQUh1RFh1UDNuVWJJdnlseTdiYnhWMTJSRXNudl9paTRkdzVCLTVFRTdUUnJ0bHRoX1lLVDlzc1JRVVJZZjBnc3cwTU44T2QxNUJ6WEwyR1JTcEpnRVp6SG8xaEZkMDNhQVRJcUZnYzRqRUt1MW5BQnl2NW1wcklVSUh0U1JUU21rQnZucTMxcXVHcnVibDJxaEhWdjVwRS1mRmdkNElNMk4weGNPUQ?oc=5)
+
+---
 
 ### [COPD-Ernährung: Neue Leitlinien setzen auf kleinere Mahlzeiten, Protein und Calcium - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
 
