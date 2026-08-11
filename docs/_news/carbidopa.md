@@ -61,9 +61,9 @@ permalink: /news/carbidopa/
 
 ### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
-2026-08-10 <span class="news-indication-tag">dementia</span>
+2026-08-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
 
-來源：[Euronews](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
+來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 ---
 
@@ -75,11 +75,11 @@ permalink: /news/carbidopa/
 
 ---
 
-### [12-Monats-Daten zu Foslevodopa/Foscarbidopa bei Parkinson](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
+### [Parkinson-Therapie: Kontinuierliche Infusion und neue Diagnostik - it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjdfQ0Z5WlpaZEd2MTh1djlsSXY4MnktallNS2pSZ3ZoX3g4eGhtMUhqUkM0MTJVMDF1ZlB2QXZrZ2dtODNoVzl0TDFPMG44RjdkUmJUanBfcHQwUXFkaGVOVjFra3ZjamhSVFVwVUM4STBreE5hZHAtV0hzSk9GU05QOVBEZHE4TDVaMm5vM1NORTZjNnM5RnV0SQ?oc=5)
 
 2026-08-09 <span class="news-drug-tag">Carbidopa</span> <span class="news-drug-tag">Levodopa</span>
 
-來源：[Journalmed.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlhQNFJiTFhoNVpza2NyQThmRVFzLXpDMjVydnlmSnpfRVV1M1E0eW15dUtFaFhEMXZIRzBGTVBTUUMwMG5Cblc2V3BDYm9GODNxMUV3MVNTbDJmSHJtbHY0TGdaM0h1OHRzVXRScUdMa0U1UlF5U1ZBMnlJQmJCSXBzQ1haZWl2d0dic2ZNelp5U0Jfd0s3cDNDVnNjTHFVS3UwWkdMQkxVQ3REZEF3eFl3c3ZNdExHRS11emVxMEtZOE9sZHVYcnNaVkFZdk1PcDF6dnFB?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjdfQ0Z5WlpaZEd2MTh1djlsSXY4MnktallNS2pSZ3ZoX3g4eGhtMUhqUkM0MTJVMDF1ZlB2QXZrZ2dtODNoVzl0TDFPMG44RjdkUmJUanBfcHQwUXFkaGVOVjFra3ZjamhSVFVwVUM4STBreE5hZHAtV0hzSk9GU05QOVBEZHE4TDVaMm5vM1NORTZjNnM5RnV0SQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="Treosulfan 有什麼相關新聞？">
-<strong>Treosulfan</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Treosulfan</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ permalink: /news/treosulfan/
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
-2026-08-10 <span class="news-indication-tag">diabete</span>
+2026-08-11 <span class="news-indication-tag">diabete</span>
 
 來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 ---
 
-### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+### [La longitud del muslo puede revelar pistas sobre tu riesgo de prediabetes y diabetes tipo 2: es uno de los siete datos que puedes medir en casa - El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNaXF0SEpkUUZvZHpzQVFNd2FkZFIzNXlCMTUwSmZUb3NVczVqdWNWUWNUZWdvR1FMWll0eVdiSS1KUVJMOFVtV0ZkLV9SVTNOMUYwNXZEbVpzYTJTbVJKQnVyYVJsRG1xQ2lULVVHRklUUDVsdUd4VkhzNmFsbjRzcUNnWE51ZnVKRkd3OG5NWFVmU2k3TmJZTDZZd1ZVV3BrOVU3Y1hvSC1KRFFsSHg0QkVxQlVPbmhlRk5TXzI2Y3BMMm1Tc0hiMVltc2RzVkNFbDZxYm1lQ0I5Ymh3WDBhY0pfeTZEOWR1SnhxYURpTklPZF9LRDZWX2FVSnJXQVRpdUdUQzVseEhlSkF2OVBvVENVTl9xWDVGX2Q4cnNVLUdiRUZfOHMwWGp2VlVqT0NvX1h4VTh1SXlXMlpaNUt6MVEwdHBpaWVUYVVINg?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNaXF0SEpkUUZvZHpzQVFNd2FkZFIzNXlCMTUwSmZUb3NVczVqdWNWUWNUZWdvR1FMWll0eVdiSS1KUVJMOFVtV0ZkLV9SVTNOMUYwNXZEbVpzYTJTbVJKQnVyYVJsRG1xQ2lULVVHRklUUDVsdUd4VkhzNmFsbjRzcUNnWE51ZnVKRkd3OG5NWFVmU2k3TmJZTDZZd1ZVV3BrOVU3Y1hvSC1KRFFsSHg0QkVxQlVPbmhlRk5TXzI2Y3BMMm1Tc0hiMVltc2RzVkNFbDZxYm1lQ0I5Ymh3WDBhY0pfeTZEOWR1SnhxYURpTklPZF9LRDZWX2FVSnJXQVRpdUdUQzVseEhlSkF2OVBvVENVTl9xWDVGX2Q4cnNVLUdiRUZfOHMwWGp2VlVqT0NvX1h4VTh1SXlXMlpaNUt6MVEwdHBpaWVUYVVINg?oc=5)
 
 ---
 
-### [Presión normal, sin diabetes y sin tabaco: la fórmula para ganar casi 13 años libres de demencia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
+### [New daily fat jab PILL approved in the UK and will be available in weeks - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmgxQkZWQmxDd2JUN2hSVEdSNTZxY1RScEJ4TjVCTy1tMFJmTnFLLWZvOTU0bkNJWjNIQXFZdWZWeEpxUVROSUs1ZnplNUNqbXYtV1VyQ3dTSUo5NUxZZDdBWGFFU0dFX1Z5RVRTX0JQMGYwNmlPd1FFQm9Va1RmM0ZZa2lFNFVaclQwSzFkN0ctcnQ0UHlJeF8yZi0?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmgxQkZWQmxDd2JUN2hSVEdSNTZxY1RScEJ4TjVCTy1tMFJmTnFLLWZvOTU0bkNJWjNIQXFZdWZWeEpxUVROSUs1ZnplNUNqbXYtV1VyQ3dTSUo5NUxZZDdBWGFFU0dFX1Z5RVRTX0JQMGYwNmlPd1FFQm9Va1RmM0ZZa2lFNFVaclQwSzFkN0ctcnQ0UHlJeF8yZi0?oc=5)
 
 ---
 

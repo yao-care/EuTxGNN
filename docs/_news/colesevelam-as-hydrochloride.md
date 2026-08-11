@@ -56,25 +56,33 @@ permalink: /news/colesevelam-as-hydrochloride/
 
 ### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
-2026-08-10 <span class="news-indication-tag">diabete</span>
+2026-08-11 <span class="news-indication-tag">diabete</span>
 
 來源：[ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 ---
 
-### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+### [La longitud del muslo puede revelar pistas sobre tu riesgo de prediabetes y diabetes tipo 2: es uno de los siete datos que puedes medir en casa - El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNaXF0SEpkUUZvZHpzQVFNd2FkZFIzNXlCMTUwSmZUb3NVczVqdWNWUWNUZWdvR1FMWll0eVdiSS1KUVJMOFVtV0ZkLV9SVTNOMUYwNXZEbVpzYTJTbVJKQnVyYVJsRG1xQ2lULVVHRklUUDVsdUd4VkhzNmFsbjRzcUNnWE51ZnVKRkd3OG5NWFVmU2k3TmJZTDZZd1ZVV3BrOVU3Y1hvSC1KRFFsSHg0QkVxQlVPbmhlRk5TXzI2Y3BMMm1Tc0hiMVltc2RzVkNFbDZxYm1lQ0I5Ymh3WDBhY0pfeTZEOWR1SnhxYURpTklPZF9LRDZWX2FVSnJXQVRpdUdUQzVseEhlSkF2OVBvVENVTl9xWDVGX2Q4cnNVLUdiRUZfOHMwWGp2VlVqT0NvX1h4VTh1SXlXMlpaNUt6MVEwdHBpaWVUYVVINg?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMizAJBVV95cUxNaXF0SEpkUUZvZHpzQVFNd2FkZFIzNXlCMTUwSmZUb3NVczVqdWNWUWNUZWdvR1FMWll0eVdiSS1KUVJMOFVtV0ZkLV9SVTNOMUYwNXZEbVpzYTJTbVJKQnVyYVJsRG1xQ2lULVVHRklUUDVsdUd4VkhzNmFsbjRzcUNnWE51ZnVKRkd3OG5NWFVmU2k3TmJZTDZZd1ZVV3BrOVU3Y1hvSC1KRFFsSHg0QkVxQlVPbmhlRk5TXzI2Y3BMMm1Tc0hiMVltc2RzVkNFbDZxYm1lQ0I5Ymh3WDBhY0pfeTZEOWR1SnhxYURpTklPZF9LRDZWX2FVSnJXQVRpdUdUQzVseEhlSkF2OVBvVENVTl9xWDVGX2Q4cnNVLUdiRUZfOHMwWGp2VlVqT0NvX1h4VTh1SXlXMlpaNUt6MVEwdHBpaWVUYVVINg?oc=5)
 
 ---
 
-### [Presión normal, sin diabetes y sin tabaco: la fórmula para ganar casi 13 años libres de demencia](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
+### [New daily fat jab PILL approved in the UK and will be available in weeks - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmgxQkZWQmxDd2JUN2hSVEdSNTZxY1RScEJ4TjVCTy1tMFJmTnFLLWZvOTU0bkNJWjNIQXFZdWZWeEpxUVROSUs1ZnplNUNqbXYtV1VyQ3dTSUo5NUxZZDdBWGFFU0dFX1Z5RVRTX0JQMGYwNmlPd1FFQm9Va1RmM0ZZa2lFNFVaclQwSzFkN0ctcnQ0UHlJeF8yZi0?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabetes</span>
 
-來源：[consalud.es](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHk2cDRBdGVqVUxSdnF6RkRKdEZOT1IyU3FrZEpjVDFfeWc4cHNockdOd0lKOXNNWi03bk5fVWJNRzdXbGVNZnQ2Y3l4LWFXWXpudkM4NXBzdG5sajNYaFZNaW01YmxPOGgtS3k2S05jN2R3a0drNXRJd1F5aUVKUktmSDhlalQwWXVnUkNvSmpGWEpOMlNmV0RZNFdLRXgzVUFmaVU1U3ZNMWtmQ2drNl9wMFFQdlE2c2Vhcjg4LTFELVZ2NElhbEpwaTYwdw?oc=5)
+來源：[The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmgxQkZWQmxDd2JUN2hSVEdSNTZxY1RScEJ4TjVCTy1tMFJmTnFLLWZvOTU0bkNJWjNIQXFZdWZWeEpxUVROSUs1ZnplNUNqbXYtV1VyQ3dTSUo5NUxZZDdBWGFFU0dFX1Z5RVRTX0JQMGYwNmlPd1FFQm9Va1RmM0ZZa2lFNFVaclQwSzFkN0ctcnQ0UHlJeF8yZi0?oc=5)
 
 ---
 
@@ -123,14 +131,6 @@ permalink: /news/colesevelam-as-hydrochloride/
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
-
----
-
-### [Plasma-Proteom für MASLD: Risiko bis zu 16 Jahre früher erkennen - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Herzerkrankung</span> <span class="news-indication-tag">asma</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxQZmpoeExlSW9qdGNBWVVoNXAtTnJEcmpDYjZHZFRVMG9ickhKOW1pLUlRVXFxcXJfMTFhUDNnTjBUSVhuVjc2RGJ6cjktbkt6Y3RxdTJCY0VfazY3bElFYWN3dzdYa0RVdkhXSlc3LVlNVGVaWk55SGh5S0lTRE5XVmZhVDhuU0Vfb3RRdEtreFlOOTRWdDl3TlZPd2daZw?oc=5)
 
 ---
 

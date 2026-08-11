@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
+
+### [My little girl, 4, had chickenpox - six months later it triggered a stroke leaving her unable to eat or speak - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">stroke</span>
+
+來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
+
+---
+
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
 
 ### [Schlaganfall-Risiko: Koffein löst akute Anfälle bei jungen Erwachsenen aus - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQamtRZHkwU0JqNTh5OHRVT2RvS3VQTmptM0g2dWpqZVpSSnVvaE5SMFZXVTZUb3JjdXhYZ0lEdUY1SUVjeG5IZmU3ZlE2V0UwZnBPNVlQZ0N4Q2h6U1paQXEzSzAzNmJFbVlwT3M5YzVRblRHY2tDNWFNNjlKTEpfVU0yOGxBY3lkT0pWZU1LWVJONGVfcG5aa2NUZUg3d1YtN2pSQVdFZFhwdFdNX1hDT0RGNUVZX1dud0J0UQ?oc=5)
 
@@ -82,7 +98,7 @@ permalink: /news/orlistat/
 
 2026-08-09 <span class="news-indication-tag">obésité</span>
 
-來源：[CNews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
+來源：[cnews.fr](https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2E5ZjdJOWVmd2tDTVkxcHRVY1loOW80M0RZTFZ0TWV1RmNDMGRqS3d1ZUplWUhWUThVNDgwRk1RU0dyTWhkSEFKLU1pVlZRaFZIQnhwOGtnV3hxZUlIa3RBRU5ZNUdhWlA5aUZoVXdiRjJsd2c3Q3BDNFhLRkhtNE1tYjNVYXR2dzQ5YzR2TnVEcHlJZzVyV0NydkxSdlFhVUtDSmNGdHdKOVRpQWs4ZmpualAtWU3SAbwBQVVfeXFMUDlrZ05RTTl1WjI2S1poeTBrZVl4LUtDOU9Melh3RmNhcl9FbEh2WDgwdC1HLVVwRnN4cmw0UW43Q1BydzA2anFneGphNFBDblc0REhtWXVpeVU3WDhTUHN2dDdCQU1CdEtwUFpybXVpajRRRnJwdElEYmZ3WHh2NTRoaTRrdl9UOUV1X1R0MjVoRHR3U1ZnNHJpeENJTnJ0ZWZEaUdWRXgxM0JYeTZKNnBtQXYxY3YzTXVCMEs?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/trastuzumab-emtansine/
 ---
 
 <p class="key-answer" data-question="Trastuzumab Emtansine 有什麼相關新聞？">
-<strong>Trastuzumab Emtansine</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Trastuzumab Emtansine</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ permalink: /news/trastuzumab-emtansine/
 <p><a href="{{ '/drugs/trastuzumab-emtansine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（30 則）
 
-### [Why sitting for long stretches and cancer are being linked](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDdMc2hBZ1FiRzdjc2ZlUmdSLTBNQ29kVFBUM0NOUkZzR1FnT29vV3piVGptTzFPTGtjMktVUTQybGNrMkhrZk4weFRkekZNTzhUWDBjbXFfTGlDdlpBTmF0dVMtTEVIVmhRQUxCYWxBeWxHczdxa1NxYThsYnpQM0E3V1pQQWJ1Wm5PLTlibE13Rzd4REk5dDhkZnNseFEwN1hSXw?oc=5)
+### [Le cancer du poumon avancé était censé progresser inexorablement : un vaccin personnalisé vient de doubler un délai clé en essai](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjUxUFlZVGdjaW5RZ0Jzd29KMmhQWlNLT3BjeFRUMFNPVGZzc0NHZHprY1JLeVg3NlVBWkEweWlBVHpXVVZ1dDhfQmlIX3lub3NKaWR1WTh3WFNqanV5Z0pIb21GbkQzUkxYTGFsRUh5NjlzUVlSQzB3MXgwTlRZWU1EQWlacWg2LVpDT3Y2VE44eUZidVlkRnVodk9PSUZ3TVBzY3lZUG1rcGQ5Q1Fib2JSbW9LSTdWdndMeXpGSWItYmR5S240QzU5anpGdktWZ1VSNzdmajczdTQtNFE0UEpMUHc?oc=5)
 
 2026-08-10 <span class="news-indication-tag">cancer</span>
 
-來源：[RTE.ie](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDdMc2hBZ1FiRzdjc2ZlUmdSLTBNQ29kVFBUM0NOUkZzR1FnT29vV3piVGptTzFPTGtjMktVUTQybGNrMkhrZk4weFRkekZNTzhUWDBjbXFfTGlDdlpBTmF0dVMtTEVIVmhRQUxCYWxBeWxHczdxa1NxYThsYnpQM0E3V1pQQWJ1Wm5PLTlibE13Rzd4REk5dDhkZnNseFEwN1hSXw?oc=5)
+來源：[Sciencepost](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUjUxUFlZVGdjaW5RZ0Jzd29KMmhQWlNLT3BjeFRUMFNPVGZzc0NHZHprY1JLeVg3NlVBWkEweWlBVHpXVVZ1dDhfQmlIX3lub3NKaWR1WTh3WFNqanV5Z0pIb21GbkQzUkxYTGFsRUh5NjlzUVlSQzB3MXgwTlRZWU1EQWlacWg2LVpDT3Y2VE44eUZidVlkRnVodk9PSUZ3TVBzY3lZUG1rcGQ5Q1Fib2JSbW9LSTdWdndMeXpGSWItYmR5S240QzU5anpGdktWZ1VSNzdmajczdTQtNFE0UEpMUHc?oc=5)
+
+---
+
+### [Le Viagra permettrait de lutter contre le cancer](https://news.google.com/rss/articles/CBMirgJBVV95cUxOQlBSQ1VqRFFrMjRsSFZCNnQyMWw4YmZ6bmtZU1I2LXkwUFBCamh2MTUxa3FhSk4yeUhLSldZWFlDeDhvQ0J6TGtmM3ZoenN1MjZXZ3VOeEU4Zkttc0NRVGJBZzNvMUpseDY1UHp5c3BqOHlMRWxZMFlIM1hhRHc2UENEdGRySmcyeGY2MU9aOEJqVjhfQkZ0TWhrX1Y4ODdmY2pBTG54YzNNVlJrOWd4MHI4aXdicHpwZnJsT0ZpS0VlUnhXVVpWQXJXZkllYklxanhVTXpiSzNpcVRZVXVVUFJURlBrVnM0R2t3S2ZMVUVXUC1fb3Ricjh6cTlJVXI2cXpKOENYSXVkRWZhajlURUJ4QzV6SE1odUlJbTNQSHl0cUFXWnU1Q09nTFhHZw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancer</span>
+
+來源：[parismatch.be](https://news.google.com/rss/articles/CBMirgJBVV95cUxOQlBSQ1VqRFFrMjRsSFZCNnQyMWw4YmZ6bmtZU1I2LXkwUFBCamh2MTUxa3FhSk4yeUhLSldZWFlDeDhvQ0J6TGtmM3ZoenN1MjZXZ3VOeEU4Zkttc0NRVGJBZzNvMUpseDY1UHp5c3BqOHlMRWxZMFlIM1hhRHc2UENEdGRySmcyeGY2MU9aOEJqVjhfQkZ0TWhrX1Y4ODdmY2pBTG54YzNNVlJrOWd4MHI4aXdicHpwZnJsT0ZpS0VlUnhXVVpWQXJXZkllYklxanhVTXpiSzNpcVRZVXVVUFJURlBrVnM0R2t3S2ZMVUVXUC1fb3Ricjh6cTlJVXI2cXpKOENYSXVkRWZhajlURUJ4QzV6SE1odUlJbTNQSHl0cUFXWnU1Q09nTFhHZw?oc=5)
+
+---
+
+### [2.000 nouveaux cas de cancer de l'anus par an en France : un gastro-entérologue alerte sur les hémorroïdes mal soignées](https://news.google.com/rss/articles/CBMihwJBVV95cUxPTDFDVlprbm11bHJfOXpNNXoySklKNVVjTHJDelp1MTFyUUJ6VzBQWEJfbUJWTVlaREh6a3pGenUxaHk0MkFPSjQ5UEN5eloybzd2cF9kOWt4c1BSdlZ5X2J4TG5Wc2dyY1JuemZhTFJXTXNoc0tnMDk5LWswY0tXTG5iTVg1dkhXaVBiZTZySUFiUkgxZUJqSkJJeE1rWTNsQVgxYmtCYTlGSVExSm9ia3VUNjhPejRVY1RsWjI0QVdVTU1GaUpzWGJCMUJjakxOTVM0bUFaeWY0MjBIU3pPX2plOXhhWF9ibDF4ZHhFYzk0Q1otM00tUXItSFQ5TElmTHladmV0Yw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancer</span>
+
+來源：[lamontagne.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxPTDFDVlprbm11bHJfOXpNNXoySklKNVVjTHJDelp1MTFyUUJ6VzBQWEJfbUJWTVlaREh6a3pGenUxaHk0MkFPSjQ5UEN5eloybzd2cF9kOWt4c1BSdlZ5X2J4TG5Wc2dyY1JuemZhTFJXTXNoc0tnMDk5LWswY0tXTG5iTVg1dkhXaVBiZTZySUFiUkgxZUJqSkJJeE1rWTNsQVgxYmtCYTlGSVExSm9ia3VUNjhPejRVY1RsWjI0QVdVTU1GaUpzWGJCMUJjakxOTVM0bUFaeWY0MjBIU3pPX2plOXhhWF9ibDF4ZHhFYzk0Q1otM00tUXItSFQ5TElmTHladmV0Yw?oc=5)
+
+---
+
+### [Breast cancer screening guidelines discriminate against families like mine | Brief letters - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWW9Dcnh2bTktNlduSGEtTENyeV9UUC1jdlh1Zk40cjV2ZDFCUk5STDc4bE1ONExHM1pHeW5TR1ByamlQM3RzOHE5VERWaEE3dFJjVlN3OVlSTzFiNG42YmZKOW9XM2I1bkQ5Mk1ERE9XcWMxeE1faExlb0doVFYydFE1dEh2RWc1cUhqWHZYRFlLek1KaWhLaG5JaTU5WUtBdF9hb2VXYWpqbjVXTVczc0s4QkdvcTlPS2E1SzNQaw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancer</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWW9Dcnh2bTktNlduSGEtTENyeV9UUC1jdlh1Zk40cjV2ZDFCUk5STDc4bE1ONExHM1pHeW5TR1ByamlQM3RzOHE5VERWaEE3dFJjVlN3OVlSTzFiNG42YmZKOW9XM2I1bkQ5Mk1ERE9XcWMxeE1faExlb0doVFYydFE1dEh2RWc1cUhqWHZYRFlLek1KaWhLaG5JaTU5WUtBdF9hb2VXYWpqbjVXTVczc0s4QkdvcTlPS2E1SzNQaw?oc=5)
 
 ---
 
@@ -82,7 +106,15 @@ permalink: /news/trastuzumab-emtansine/
 
 2026-08-10 <span class="news-indication-tag">Krebs</span>
 
-來源：[Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWtpcFFkLUp5bDN0VllvU0xndlB1TDljMXN1UW1uUVpBWk9HNTNyVjRyVl9jb3c0U2pYR21UdHM3ckFDWGQ5MWxNSHd3b3V1V1pzLWxicG5ILTFCNFJQRUlzQkowbmpiZXJfUzNQM1MyRFlZZWVvTmdhdWZQUDVna3E5S0ItczE1VTFxLVRNNUZuTW5RNzhJUHdSRTRPRGpWWjFnc195ZHRJRW52TkZNbkJUaw?oc=5)
+來源：[deutsch.medscape.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWtpcFFkLUp5bDN0VllvU0xndlB1TDljMXN1UW1uUVpBWk9HNTNyVjRyVl9jb3c0U2pYR21UdHM3ckFDWGQ5MWxNSHd3b3V1V1pzLWxicG5ILTFCNFJQRUlzQkowbmpiZXJfUzNQM1MyRFlZZWVvTmdhdWZQUDVna3E5S0ItczE1VTFxLVRNNUZuTW5RNzhJUHdSRTRPRGpWWjFnc195ZHRJRW52TkZNbkJUaw?oc=5)
+
+---
+
+### ['A&E dismissed my girl as attention-seeking - then found a brain tumour' - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1BYTnlLTFhwcVJBbDU4RzMyV1ZlRWdodWg0X0RqVU5yNU1pRllHbUxLOVkyY1owV0tVSGdEb0RlQmh4TGFkZkJ3UnVfa09XOERyZ2J2ZWV6bE94bjQ1WUhXZnRqSWRtci1oQ2FkQzE5NzQyT3g5YUNBYUp3RFIydVlibUNhd9IBiwFBVV95cUxPVnFEUEh4dlJvRzhYYVBRMUswWEtDRkxuYmhfZU5mMFIwOHJWUm9rSktWcExnVU8weVNNUHY2SUlWSUlWWkxWOEU4dHZiT21aOWNYc3ZQUEhyd3NERVBlSHptTmpKZzN4RzBzTl9BTzY2Zm5qQklFUEJIQW9RQ0VwNVRWR1BxLXlDRHFz?oc=5)
+
+2026-08-10 <span class="news-indication-tag">tumour</span>
+
+來源：[The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1BYTnlLTFhwcVJBbDU4RzMyV1ZlRWdodWg0X0RqVU5yNU1pRllHbUxLOVkyY1owV0tVSGdEb0RlQmh4TGFkZkJ3UnVfa09XOERyZ2J2ZWV6bE94bjQ1WUhXZnRqSWRtci1oQ2FkQzE5NzQyT3g5YUNBYUp3RFIydVlibUNhd9IBiwFBVV95cUxPVnFEUEh4dlJvRzhYYVBRMUswWEtDRkxuYmhfZU5mMFIwOHJWUm9rSktWcExnVU8weVNNUHY2SUlWSUlWWkxWOEU4dHZiT21aOWNYc3ZQUEhyd3NERVBlSHptTmpKZzN4RzBzTl9BTzY2Zm5qQklFUEJIQW9RQ0VwNVRWR1BxLXlDRHFz?oc=5)
 
 ---
 
@@ -118,19 +150,19 @@ permalink: /news/trastuzumab-emtansine/
 
 ---
 
+### [Farmaci, allerta Aifa sul Litfulo: rischio per tumori, infezioni e trombosi. Le nuove indicazioni. Per quali cure si usa - Il Messaggero](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWFOUHJaY2VRUzhUTkFEY2xfS1JsZ0Z2WnJMNGtPSzUwbEdEYmJ2bnZJNU5pVE1yaGN4NS1fRXcxY3U0M0xBRTVFeDNFQzFmZU94a3B2LWNnd3lxbktXTjI5aER2eUttR0pqY1lVZFk4NHJJb3lXRzlXQXRXNVJZaThTMGdIa3pDZm12OXRxSnk1WGoxLVdDcWJZMklxaVRha0pqZ3YwZUQ0X3FvWk1qZFNMaHlacldBa21IaNIBugFBVV95cUxObl83RktmU2NnYnV2WmVSNk5NQmxvVUJ2QjB2Rmxzbk5YX09rOXNKS01fUkxlLXdpQVM3VUhlY3hiVlUyOW9RVmI4UmVaeUZveUYwOEhPTmM4NS1Kc2ZmVUNGVWVMZmRHYXNvMHB6YmxNTVJ0TmlocGZaUHVKTEVDSmNWOTNFcEpPMlNMdXhwMWlnb1lNMW0xX2J5Sm5ZUkRtUDVEWVNRVnV0Xy13U3NjekFnb3VhakFoY3c?oc=5)
+
+2026-08-10 <span class="news-indication-tag">tumor</span>
+
+來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWFOUHJaY2VRUzhUTkFEY2xfS1JsZ0Z2WnJMNGtPSzUwbEdEYmJ2bnZJNU5pVE1yaGN4NS1fRXcxY3U0M0xBRTVFeDNFQzFmZU94a3B2LWNnd3lxbktXTjI5aER2eUttR0pqY1lVZFk4NHJJb3lXRzlXQXRXNVJZaThTMGdIa3pDZm12OXRxSnk1WGoxLVdDcWJZMklxaVRha0pqZ3YwZUQ0X3FvWk1qZFNMaHlacldBa21IaNIBugFBVV95cUxObl83RktmU2NnYnV2WmVSNk5NQmxvVUJ2QjB2Rmxzbk5YX09rOXNKS01fUkxlLXdpQVM3VUhlY3hiVlUyOW9RVmI4UmVaeUZveUYwOEhPTmM4NS1Kc2ZmVUNGVWVMZmRHYXNvMHB6YmxNTVJ0TmlocGZaUHVKTEVDSmNWOTNFcEpPMlNMdXhwMWlnb1lNMW0xX2J5Sm5ZUkRtUDVEWVNRVnV0Xy13U3NjekFnb3VhakFoY3c?oc=5)
+
+---
+
 ### [Dans le sang des patients circulait depuis toujours un signal que le cancer du pancréas envoie bien avant les symptômes](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbE91empISEhQa29LYXlQNjk4MFRtc2hwdGFlREtrYUxGZnNwU1NmSHEwSTFjRmRZUWN3LUprRmF0QXlEWW1ZbmRHTmttbXlXcE82LW5KVTRHTDR3aVFGTWpNNHNVQk4wbHQ1ZDdUUTEtMmxxaG5PR3MweVpzRG1mN08wcDBseFdhaUVzUVBkYUVTb3dXek1UaVpKZ1ppVFk4NHpHamFOSUhIc3FUeEJFVFd3LXZqdGdTTnJtVGdCUEVmWUJQM01HeU4zeG5mY0Y0LWlLci10VGFyTGc?oc=5)
 
 2026-08-10 <span class="news-indication-tag">cancer</span>
 
 來源：[Sciencepost](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbE91empISEhQa29LYXlQNjk4MFRtc2hwdGFlREtrYUxGZnNwU1NmSHEwSTFjRmRZUWN3LUprRmF0QXlEWW1ZbmRHTmttbXlXcE82LW5KVTRHTDR3aVFGTWpNNHNVQk4wbHQ1ZDdUUTEtMmxxaG5PR3MweVpzRG1mN08wcDBseFdhaUVzUVBkYUVTb3dXek1UaVpKZ1ppVFk4NHpHamFOSUhIc3FUeEJFVFd3LXZqdGdTTnJtVGdCUEVmWUJQM01HeU4zeG5mY0Y0LWlLci10VGFyTGc?oc=5)
-
----
-
-### [Diagnosed with cancer, underwent hysterectomy, then learned the biopsy was not hers](https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVXNxckJPakZvdFduaTkzM2xLdFpqMks1Y1FqQUtRMm5Oc1NlLUFoQVRPZlBNU081Q09STHRadTZaY2ZXSGNWYnI5WW1CT0h4NFZ0bGljU2g0YXdhSFZGUFl4Znl1bEl5V0k0?oc=5)
-
-2026-08-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ynetnews](https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVXNxckJPakZvdFduaTkzM2xLdFpqMks1Y1FqQUtRMm5Oc1NlLUFoQVRPZlBNU081Q09STHRadTZaY2ZXSGNWYnI5WW1CT0h4NFZ0bGljU2g0YXdhSFZGUFl4Znl1bEl5V0k0?oc=5)
 
 ---
 
@@ -198,11 +230,11 @@ permalink: /news/trastuzumab-emtansine/
 
 ---
 
-### [Anne, 59 ans, atteinte d’un cancer du rectum : « Mon projet désormais, c’est de ne pas en avoir »](https://news.google.com/rss/articles/CBMiywFBVV95cUxONEVzdFVfWm56QjMtTDdvX0xPYXBJR3JoeUlxM1B5Y2I4dlFYQkJqaFFjQkFsY1JHZmdIeUdJVzY1aVljRExoOS1vTUdUOFJMc1VZS2VHLWpuaUJDVGlyVnFscFgtMUNZUzlkXzBOTWI3QWR3Q3VxbUdfc3hZWlRVbFVjZFNDMzZScU81b0dyWmNQUEhwWjhkMXU1QnpvUG1FTTBNcWwxUTlhQlJ6bE92RjJDcHVITms1ajBndjh2ZUdnWERIR3BrVUxzMA?oc=5)
+### [Lynch-Syndrom: Impfstoff-Tests sollen Darmkrebs vor dem Tumor stoppen - it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3hiUHFMZ0NoVkRiS2ctR0t2VEplcFFjRHNnM0hNWGZUNko1aGVVN3pzWk9NQXpicW5DRjJmWFQ5eDNvSk5mU1ZOZDFZWHFNYVJzd0FZWGtXaE1peVdyMnoxM3VFaWxTSk1ib015d3ZNTFV0LUJlaW56LWdpLThZU1dCOWZNZlIxT3pUajNqLVJGNk0zcTh3ZlVmYnRiaGczQVE?oc=5)
 
-2026-08-09 <span class="news-indication-tag">cancer</span>
+2026-08-09 <span class="news-indication-tag">tumor</span>
 
-來源：[parismatch.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxONEVzdFVfWm56QjMtTDdvX0xPYXBJR3JoeUlxM1B5Y2I4dlFYQkJqaFFjQkFsY1JHZmdIeUdJVzY1aVljRExoOS1vTUdUOFJMc1VZS2VHLWpuaUJDVGlyVnFscFgtMUNZUzlkXzBOTWI3QWR3Q3VxbUdfc3hZWlRVbFVjZFNDMzZScU81b0dyWmNQUEhwWjhkMXU1QnpvUG1FTTBNcWwxUTlhQlJ6bE92RjJDcHVITms1ajBndjh2ZUdnWERIR3BrVUxzMA?oc=5)
+來源：[it boltwise](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3hiUHFMZ0NoVkRiS2ctR0t2VEplcFFjRHNnM0hNWGZUNko1aGVVN3pzWk9NQXpicW5DRjJmWFQ5eDNvSk5mU1ZOZDFZWHFNYVJzd0FZWGtXaE1peVdyMnoxM3VFaWxTSk1ib015d3ZNTFV0LUJlaW56LWdpLThZU1dCOWZNZlIxT3pUajNqLVJGNk0zcTh3ZlVmYnRiaGczQVE?oc=5)
 
 ---
 
@@ -216,9 +248,9 @@ permalink: /news/trastuzumab-emtansine/
 
 ### [Testing is underway on vaccines to intercept brewing colon cancer before it takes root](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
 
-2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-08-09 <span class="news-indication-tag">cancer</span>
 
-來源：[cnn.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
+來源：[CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE5PU1lyQUc4eS1kdXpsWWhFNGxzNlpENkNUeDFxLVFOUENfWGVfMkxBMG5JZnFFenlQX09HOVY4OTRSTlZoeFV1U0UzX3FpVFdZUEdydE1uWWc4Q1Z5ZVZDbndOazNPYksyTVR4SVpVVUZQZTlLOXZSeGdFVURqdw?oc=5)
 
 ---
 
@@ -242,7 +274,7 @@ permalink: /news/trastuzumab-emtansine/
 
 2026-08-09 <span class="news-indication-tag">tumor</span>
 
-來源：[isanidad.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2JTdFV0bW54SnJnb1p6RURCWWd0bmtESGxVTHZiY2lDd1RYNm85RF8xd0pxaGVjRUc5My02S3VrUzd2bE4xaGpqamtfZ20xY19QUXpYWV9rR2xqekJvelYwaXJMQ0FJMXZMeHQ3dlpGT1ZwQW5rS1VBS0dCend6ZkxrX3pOSGo3STROQlpvbUNrbmVmV3dBMS14Y21HQjBBRjdHVExKYXd5Y0dlRUJERXVBcw?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2JTdFV0bW54SnJnb1p6RURCWWd0bmtESGxVTHZiY2lDd1RYNm85RF8xd0pxaGVjRUc5My02S3VrUzd2bE4xaGpqamtfZ20xY19QUXpYWV9rR2xqekJvelYwaXJMQ0FJMXZMeHQ3dlpGT1ZwQW5rS1VBS0dCend6ZkxrX3pOSGo3STROQlpvbUNrbmVmV3dBMS14Y21HQjBBRjdHVExKYXd5Y0dlRUJERXVBcw?oc=5)
 
 ---
 
@@ -259,14 +291,6 @@ permalink: /news/trastuzumab-emtansine/
 2026-08-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnlFVkQwcGc2cXp6VUV0d2JVbnNNRDR4MGxwMVdSQ3c2bVhxa0Y1NmwxOHlqdmk5bjdZWWMwQ1gxUXQ1SmUxWHp5NlJEa0gyR1FRZ0wtNzk4b3RKYTd5b0tDaVFGY09PbjZWeFM4ejVYdHlPRW9od1Z5Q3luM0kwUlBwaV9DN1Bmbmh1X3J3Tjlpam1sOGtlUlVnSDRzZlpIaXZyQV9kbXhqZnhxWkgwWW54a0plSkFaU044ZlZaa0o?oc=5)
-
----
-
-### [Brustkrebs: Pflanzenstoff aus TCM-Heilpflanze zeigt Wirkung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnBCLWwtaVBER1IweFJmenhkUFhrdHJoWjIyUDViT0RQZ2NZYTJNQW0zNUNIckVwUUZPX3ktTHFURG40Y2RyVGlkZnd3amctWnROTkZ3Z0QtbkFzREdLRTdocFJQWDZFemdZZkFMUHROdnlzdVc0MTF4WTRYNFJzeHpac0RVdGJ1WTl5VGNoWTRtaU5vZThnUXdwMFlOM3o1XzZCblBHMkUyQ1NHVlJteWRCQno5eXFVOXBB?oc=5)
-
-2026-08-08 <span class="news-indication-tag">Krebs</span>
-
-來源：[heilpraxisnet.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnBCLWwtaVBER1IweFJmenhkUFhrdHJoWjIyUDViT0RQZ2NZYTJNQW0zNUNIckVwUUZPX3ktTHFURG40Y2RyVGlkZnd3amctWnROTkZ3Z0QtbkFzREdLRTdocFJQWDZFemdZZkFMUHROdnlzdVc0MTF4WTRYNFJzeHpac0RVdGJ1WTl5VGNoWTRtaU5vZThnUXdwMFlOM3o1XzZCblBHMkUyQ1NHVlJteWRCQno5eXFVOXBB?oc=5)
 
 ---
 

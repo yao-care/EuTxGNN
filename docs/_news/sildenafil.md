@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="Sildenafil 有什麼相關新聞？">
-<strong>Sildenafil</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sildenafil</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/sildenafil/
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（31 則）
+
+### [Herz: Wie viel Kaffee am Tag ist gesund? Diese neue Studie gibt die Antwort](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHNGR0Y4MjRWZ25XWGNSa09XNElabzYxTVEwNHJibGM2aWhRd3hnLW1GRXAyeEFrVTZrblF6NlEyb1U1cEc3LUVxdnUxVzJ2cS05azN3Z0xCSFlBV1NpWEJacHhIbExTdldkVXNiLXJFR09INVE5a19yZk14bUVsemQ4VUdMMFdUR0YzSjBqd19mS3VhUloxR1JTQ1ZGcnR6RXl1a3pFc1VLSVdVNUtNSHRNUnhkbHRqWVNCUm9ONnk4Y3BreGlCbm5FSzJaVlpVeW10ZDBHNno?oc=5)
+
+---
 
 ### [Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPN1I4dzFQMDJmV25Xa05WRnY1dW9oOVJORmw3bk1KTUlNWnVLNkNSM0NrNWowTWZFdkZUeWplR0ZibzJpNzg1bDZpOVppZGRfZzVfVHk1R1NuXzdf?oc=5)
 
@@ -67,14 +75,6 @@ permalink: /news/sildenafil/
 2026-08-10 <span class="news-indication-tag">AF</span>
 
 來源：[The Guardian](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
-
----
-
-### [Le moustique-tigre pourrait se répandre dans presque tout l’Hexagone d’ici à un demi-siècle - Le Monde.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWjFBUXBRR1FZdFE1aU1uamJ5WDRGV0xIekNEYmNRZ250Ukh0MEZEdlF1S3ZzcC1DLWFLZzYzNF9zbWVsdml2SmdpeXhsbFFaWXFySXhwamNMS0h3U1BPTXlOdDVLa3RfODl1dmpKOWYteWZGZXNydWp0Sm9TSndWMHlEZlJCUlgxZXA4ZmxoVVhtcE82NjNKQXBwbzRTYlh1VDFGMG1IZVJfTHdRRGlQYzRRb25ITGFtb3lzMndPeEZ6ZzlqU0xTY1QyLXoxeU4zOW5kaDFFRFBqN0dXYWFZMFNoWHJSUHFCa3E1cDlNZEg?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[Le Monde.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWjFBUXBRR1FZdFE1aU1uamJ5WDRGV0xIekNEYmNRZ250Ukh0MEZEdlF1S3ZzcC1DLWFLZzYzNF9zbWVsdml2SmdpeXhsbFFaWXFySXhwamNMS0h3U1BPTXlOdDVLa3RfODl1dmpKOWYteWZGZXNydWp0Sm9TSndWMHlEZlJCUlgxZXA4ZmxoVVhtcE82NjNKQXBwbzRTYlh1VDFGMG1IZVJfTHdRRGlQYzRRb25ITGFtb3lzMndPeEZ6ZzlqU0xTY1QyLXoxeU4zOW5kaDFFRFBqN0dXYWFZMFNoWHJSUHFCa3E1cDlNZEg?oc=5)
 
 ---
 
@@ -102,19 +102,27 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Reaktivierung chronischer Viren könnte mit Verlauf von COVID-19 assoziiert sein – News](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOERjdEM2XzVVMWVBSW1Wak9RTzNkRUNhTnY0YnItRWxmZXJWQVZqNDhHTEplTDlaWTM3aWJWR2tvb0pNM2h1UVpydDV4Rl9waEpacVVxOWo2TlpkVy1FYzFnZTNGQWZfR1l6MlJGb2R3UmJiSGJFWjdUdFBWeThaY214QmJrTl93WXNTWFBpMENUNHlkNS1WVEROMllyODUybV9nalFFZGNYOUdZRHJnOHk3Mk42ZDdTY05STlQtOU5oTU1sbmdQMnVmdDB4aGl0Z2RDbm05U1hweGtHQi1vWERn?oc=5)
+### [Reaktivierung chronischer Viren könnte mit Verlauf von COVID-19 assoziiert sein – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOERjdEM2XzVVMWVBSW1Wak9RTzNkRUNhTnY0YnItRWxmZXJWQVZqNDhHTEplTDlaWTM3aWJWR2tvb0pNM2h1UVpydDV4Rl9waEpacVVxOWo2TlpkVy1FYzFnZTNGQWZfR1l6MlJGb2R3UmJiSGJFWjdUdFBWeThaY214QmJrTl93WXNTWFBpMENUNHlkNS1WVEROMllyODUybV9nalFFZGNYOUdZRHJnOHk3Mk42ZDdTY05STlQtOU5oTU1sbmdQMnVmdDB4aGl0Z2RDbm05U1hweGtHQi1vWERn?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[aerzteblatt.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOERjdEM2XzVVMWVBSW1Wak9RTzNkRUNhTnY0YnItRWxmZXJWQVZqNDhHTEplTDlaWTM3aWJWR2tvb0pNM2h1UVpydDV4Rl9waEpacVVxOWo2TlpkVy1FYzFnZTNGQWZfR1l6MlJGb2R3UmJiSGJFWjdUdFBWeThaY214QmJrTl93WXNTWFBpMENUNHlkNS1WVEROMllyODUybV9nalFFZGNYOUdZRHJnOHk3Mk42ZDdTY05STlQtOU5oTU1sbmdQMnVmdDB4aGl0Z2RDbm05U1hweGtHQi1vWERn?oc=5)
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOERjdEM2XzVVMWVBSW1Wak9RTzNkRUNhTnY0YnItRWxmZXJWQVZqNDhHTEplTDlaWTM3aWJWR2tvb0pNM2h1UVpydDV4Rl9waEpacVVxOWo2TlpkVy1FYzFnZTNGQWZfR1l6MlJGb2R3UmJiSGJFWjdUdFBWeThaY214QmJrTl93WXNTWFBpMENUNHlkNS1WVEROMllyODUybV9nalFFZGNYOUdZRHJnOHk3Mk42ZDdTY05STlQtOU5oTU1sbmdQMnVmdDB4aGl0Z2RDbm05U1hweGtHQi1vWERn?oc=5)
 
 ---
 
-### [Baleares detecta un brote de seis casos de sarampión: el paciente cero es un turista](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnBhNlprSUdHRk9MR2d2UE5Udko0eno2YXVJQ05FVXR3OHlHRkxna3luSUtWdWFFdmw0ZndJUDhXRUt6YklOSWx4cjBQS0hSSmJpTlRvMHFUdWVFek9ZZTVMdXc0d2NTWndvOURZTjJabXFIU0NSWHJ4OGlJNXhOVHdYdFNCd1k5MXQtYkpMa1FFVkp6UlhTZlIyc3FJN1JXWHdOTFZiRl9kclkwdmc2djlxbFRCanloS1hsc1pJVEZ3ekdQazVHZmhwZk1XU0owQ2xkRC1FSC1YejTSAeABQVVfeXFMTnB5OE4zMUV4UWxJdUZrTnBRLWdwRk5vVTduSmp2YjZOZ2ZJQzl1MmhVRzFCNHhBZG04WFZZNmU2aVFKbXV2bUpxMVkyQUtQQlRVTUVaQmVSbkoteVFiU0RXeWJiRFpVWXpQNzJKTVdfU2VIRW5DVlBOOFYxRjBOU29pekJZTDFHM2pTZmJBam0yZWF2d2dJZm9ray12ZUlIdWhLUGF3WWZ1bkw0ZGN2TWtkQ2FrTkUtVThOMHBrVHlkQVN4bmV2ZjZ2aVNaV1hZMUZzeHZ4c2luT0RobndaMlk?oc=5)
+### [Baleares detecta un brote de seis casos de sarampión: el paciente cero es un turista - Redacción médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnBhNlprSUdHRk9MR2d2UE5Udko0eno2YXVJQ05FVXR3OHlHRkxna3luSUtWdWFFdmw0ZndJUDhXRUt6YklOSWx4cjBQS0hSSmJpTlRvMHFUdWVFek9ZZTVMdXc0d2NTWndvOURZTjJabXFIU0NSWHJ4OGlJNXhOVHdYdFNCd1k5MXQtYkpMa1FFVkp6UlhTZlIyc3FJN1JXWHdOTFZiRl9kclkwdmc2djlxbFRCanloS1hsc1pJVEZ3ekdQazVHZmhwZk1XU0owQ2xkRC1FSC1YejTSAeABQVVfeXFMTnB5OE4zMUV4UWxJdUZrTnBRLWdwRk5vVTduSmp2YjZOZ2ZJQzl1MmhVRzFCNHhBZG04WFZZNmU2aVFKbXV2bUpxMVkyQUtQQlRVTUVaQmVSbkoteVFiU0RXeWJiRFpVWXpQNzJKTVdfU2VIRW5DVlBOOFYxRjBOU29pekJZTDFHM2pTZmJBam0yZWF2d2dJZm9ray12ZUlIdWhLUGF3WWZ1bkw0ZGN2TWtkQ2FrTkUtVThOMHBrVHlkQVN4bmV2ZjZ2aVNaV1hZMUZzeHZ4c2luT0RobndaMlk?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
-來源：[redaccionmedica.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnBhNlprSUdHRk9MR2d2UE5Udko0eno2YXVJQ05FVXR3OHlHRkxna3luSUtWdWFFdmw0ZndJUDhXRUt6YklOSWx4cjBQS0hSSmJpTlRvMHFUdWVFek9ZZTVMdXc0d2NTWndvOURZTjJabXFIU0NSWHJ4OGlJNXhOVHdYdFNCd1k5MXQtYkpMa1FFVkp6UlhTZlIyc3FJN1JXWHdOTFZiRl9kclkwdmc2djlxbFRCanloS1hsc1pJVEZ3ekdQazVHZmhwZk1XU0owQ2xkRC1FSC1YejTSAeABQVVfeXFMTnB5OE4zMUV4UWxJdUZrTnBRLWdwRk5vVTduSmp2YjZOZ2ZJQzl1MmhVRzFCNHhBZG04WFZZNmU2aVFKbXV2bUpxMVkyQUtQQlRVTUVaQmVSbkoteVFiU0RXeWJiRFpVWXpQNzJKTVdfU2VIRW5DVlBOOFYxRjBOU29pekJZTDFHM2pTZmJBam0yZWF2d2dJZm9ray12ZUlIdWhLUGF3WWZ1bkw0ZGN2TWtkQ2FrTkUtVThOMHBrVHlkQVN4bmV2ZjZ2aVNaV1hZMUZzeHZ4c2luT0RobndaMlk?oc=5)
+來源：[Redacción médica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnBhNlprSUdHRk9MR2d2UE5Udko0eno2YXVJQ05FVXR3OHlHRkxna3luSUtWdWFFdmw0ZndJUDhXRUt6YklOSWx4cjBQS0hSSmJpTlRvMHFUdWVFek9ZZTVMdXc0d2NTWndvOURZTjJabXFIU0NSWHJ4OGlJNXhOVHdYdFNCd1k5MXQtYkpMa1FFVkp6UlhTZlIyc3FJN1JXWHdOTFZiRl9kclkwdmc2djlxbFRCanloS1hsc1pJVEZ3ekdQazVHZmhwZk1XU0owQ2xkRC1FSC1YejTSAeABQVVfeXFMTnB5OE4zMUV4UWxJdUZrTnBRLWdwRk5vVTduSmp2YjZOZ2ZJQzl1MmhVRzFCNHhBZG04WFZZNmU2aVFKbXV2bUpxMVkyQUtQQlRVTUVaQmVSbkoteVFiU0RXeWJiRFpVWXpQNzJKTVdfU2VIRW5DVlBOOFYxRjBOU29pekJZTDFHM2pTZmJBam0yZWF2d2dJZm9ray12ZUlIdWhLUGF3WWZ1bkw0ZGN2TWtkQ2FrTkUtVThOMHBrVHlkQVN4bmV2ZjZ2aVNaV1hZMUZzeHZ4c2luT0RobndaMlk?oc=5)
+
+---
+
+### [Sexsomnie: Schlafender Beischlaf](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlZwTlZaV3dNaXhURS1fTG9hY2JDQUg0ZXlNb0R6SUFuRV9DR1dQVy04eEJ0Y2NNSVU2YVFHbmtUelhDSDY1N1l1ZnlBa3NSeFVKMTNqU0pTTGZIZkFtMExhV2ktZUk4dW5tbDZNcHY3X2oxVTQ5VVpuRlJUelVhOG9oYjlhVVhs?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[doccheck.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlZwTlZaV3dNaXhURS1fTG9hY2JDQUg0ZXlNb0R6SUFuRV9DR1dQVy04eEJ0Y2NNSVU2YVFHbmtUelhDSDY1N1l1ZnlBa3NSeFVKMTNqU0pTTGZIZkFtMExhV2ktZUk4dW5tbDZNcHY3X2oxVTQ5VVpuRlJUelVhOG9oYjlhVVhs?oc=5)
 
 ---
 
@@ -126,27 +134,27 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Febbre del Nilo, salgono a 9 i casi di persone contagiate nell’Oristanese - L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGMwT0d6Z2tDZ0FLMmo2NDRSdTduNzYtMkd0MzhoRkRIaXBVbWd2Yk1UcndJUGs5c012V2JQUG55QzVGTHAyXzBQVlZfNHllV2E1RGRBZTR4MW11YjU1WHpKaUJ0WE9RZjAwOXlheDFRZjVmSjNyOWV2d1NjNXRXMFNmXzkzbVVYU2pBalN4aWZ6a2hBN21wUDBUY2dVUlRlTmpuSlBkMVU5eS11NzNPUDVTeFp1YjVMSEJzWE55dEhwUlVZNXItYlUxNDNuRGhQYnBpNUtNSdIB3wFBVV95cUxNVXhlUVRfb2ZxV3VoX1BwY1haUFFUbFZETkFiaHVZcWpaeTJvaURwTGVudG1KMTdzMmlrUzhZaWMwTUp2NTZ2R3lxS05HTHdqWjV5eW5RWW5HWW4xS3dQa2RzSVJ6RHVSRGZDVjdyckQxS3YzaGt0eHlXZWdJVHE4VlhfdGFva1RQYlpKOUU5NjM5WXRUZDNrTk1tZ3JoUkhFcV8tV08wblR3WVpSTm9XeFhBV2Rab3h0bDZLak9MMUczT2JOMUFJNWIwRWZ4dDVLQ3RVdXlrcFhuQ3R2YzNr?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[L'Unione Sarda.it](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGMwT0d6Z2tDZ0FLMmo2NDRSdTduNzYtMkd0MzhoRkRIaXBVbWd2Yk1UcndJUGs5c012V2JQUG55QzVGTHAyXzBQVlZfNHllV2E1RGRBZTR4MW11YjU1WHpKaUJ0WE9RZjAwOXlheDFRZjVmSjNyOWV2d1NjNXRXMFNmXzkzbVVYU2pBalN4aWZ6a2hBN21wUDBUY2dVUlRlTmpuSlBkMVU5eS11NzNPUDVTeFp1YjVMSEJzWE55dEhwUlVZNXItYlUxNDNuRGhQYnBpNUtNSdIB3wFBVV95cUxNVXhlUVRfb2ZxV3VoX1BwY1haUFFUbFZETkFiaHVZcWpaeTJvaURwTGVudG1KMTdzMmlrUzhZaWMwTUp2NTZ2R3lxS05HTHdqWjV5eW5RWW5HWW4xS3dQa2RzSVJ6RHVSRGZDVjdyckQxS3YzaGt0eHlXZWdJVHE4VlhfdGFva1RQYlpKOUU5NjM5WXRUZDNrTk1tZ3JoUkhFcV8tV08wblR3WVpSTm9XeFhBV2Rab3h0bDZLak9MMUczT2JOMUFJNWIwRWZ4dDVLQ3RVdXlrcFhuQ3R2YzNr?oc=5)
-
----
-
-### [Schwangerschaften nach CAR-T-Zelltherapie bei Autoimmunerkrankungen - Gelbe Liste](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[Gelbe Liste](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
-
----
-
 ### [We're getting mealtimes wrong - here's the best time to have dinner](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9YR0lqMGo5dF9UTGlGdXVNYjlucWpGeWgtdk1qd3h1NjIxcU1GcjBKbmRfTTZTUWFjQjI1Z3JQbXhvNGhQYUhieFpGZkZrSE1XcGdTRlNWaldMX09HS3NzV3p0ckpKeDlYY3Jka0daa3ptenFzeTdqQ3JjNTNyMHA5dWpJU3JJYWlhcGhn?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
 
 來源：[BBC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU9YR0lqMGo5dF9UTGlGdXVNYjlucWpGeWgtdk1qd3h1NjIxcU1GcjBKbmRfTTZTUWFjQjI1Z3JQbXhvNGhQYUhieFpGZkZrSE1XcGdTRlNWaldMX09HS3NzV3p0ckpKeDlYY3Jka0daa3ptenFzeTdqQ3JjNTNyMHA5dWpJU3JJYWlhcGhn?oc=5)
+
+---
+
+### [Febbre del Nilo, salgono a 9 i casi di persone contagiate in Sardegna - la Repubblica](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGRBbHZ6TmRTa0dRRVJ4MmdlMzZZYkI3RTNCbW02Tzc3WFJMNzNPQ0hxVUdVMlhFLWp5Yi04cW1qaF9KU3ExX3cySDJXazdQa2g2SlBsTVZwY3FxQlNGQ3pkR05pTUZKekI0aEJTa19IR3pIcm5LSjh1S2ZNNXRDTGNsMEV0TmRsVmtlZdIBkgFBVV95cUxOWjdiRkRsVzYwM3FtTmJtZXhXX0tkNWd6UExxLVc1NENTdzQtRzBQRTZHU0RCckdfOEVDbE1tOUtSYkdWY2ltN1VFZ1oyaHBkeUVqWG1oR3dtWXBBcDAxZ2xaMlptMUYyc2oyT2s1bmtJdU9CV2tiYlRvUUVqSHp4UFRZaDVmQ3JVdEY4UEo1XzFQdw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[la Repubblica](https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGRBbHZ6TmRTa0dRRVJ4MmdlMzZZYkI3RTNCbW02Tzc3WFJMNzNPQ0hxVUdVMlhFLWp5Yi04cW1qaF9KU3ExX3cySDJXazdQa2g2SlBsTVZwY3FxQlNGQ3pkR05pTUZKekI0aEJTa19IR3pIcm5LSjh1S2ZNNXRDTGNsMEV0TmRsVmtlZdIBkgFBVV95cUxOWjdiRkRsVzYwM3FtTmJtZXhXX0tkNWd6UExxLVc1NENTdzQtRzBQRTZHU0RCckdfOEVDbE1tOUtSYkdWY2ltN1VFZ1oyaHBkeUVqWG1oR3dtWXBBcDAxZ2xaMlptMUYyc2oyT2s1bmtJdU9CV2tiYlRvUUVqSHp4UFRZaDVmQ3JVdEY4UEo1XzFQdw?oc=5)
+
+---
+
+### [Schwangerschaften nach CAR-T-Zelltherapie bei Autoimmunerkrankungen](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
+
+2026-08-10 <span class="news-indication-tag">AF</span>
+
+來源：[gelbe-liste.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUxJdTlwczBZMDVWOGVzSlk4a1ZDOWlVOF9wdFlmTk4xb3c1cWxURTlJVy13a2xrOE5vbTVSV2VLZUdGVEFOSkducGdrOTZhdVU2dHFjUWxjaXBjSEhzM0JhTzlaVlJCUTJQVzM3SnU2X2MzR2FnT2FzT3BzU1hyb25xYmYwUm9CQzZSd1ZCTWU2Vkh0TldmMWItRXU?oc=5)
 
 ---
 
@@ -174,14 +182,6 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Diagnosed with cancer, underwent hysterectomy, then learned the biopsy was not hers](https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVXNxckJPakZvdFduaTkzM2xLdFpqMks1Y1FqQUtRMm5Oc1NlLUFoQVRPZlBNU081Q09STHRadTZaY2ZXSGNWYnI5WW1CT0h4NFZ0bGljU2g0YXdhSFZGUFl4Znl1bEl5V0k0?oc=5)
-
-2026-08-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-來源：[Ynetnews](https://news.google.com/rss/articles/CBMia0FVX3lxTFBlVXNxckJPakZvdFduaTkzM2xLdFpqMks1Y1FqQUtRMm5Oc1NlLUFoQVRPZlBNU081Q09STHRadTZaY2ZXSGNWYnI5WW1CT0h4NFZ0bGljU2g0YXdhSFZGUFl4Znl1bEl5V0k0?oc=5)
-
----
-
 ### [Durchbruch und Gefahr: Erste durch AI entworfene Viren erschaffen](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFZuRUlzSHRsUmxWSjhCdkVKLUs3TDAtQ3VYNWFmaFdqVmJJS21jQWdHVnVVVmVKU1NVUmJKTmtpUzc4QWdRN1dCbTFzSnkzSkEyR3pyaGJwQk5XTW55VjdoZVVJVmFtd1FyVTNTT0d1RGs2TWFfUFB1d3BYbjFqNm9XcDdxR2trRkhXMXlyUVpyREZfNmMtdWs0cw?oc=5)
 
 2026-08-10 <span class="news-indication-tag">AF</span>
@@ -203,14 +203,6 @@ permalink: /news/sildenafil/
 2026-08-10 <span class="news-indication-tag">AF</span>
 
 來源：[Silicon Canals](https://news.google.com/rss/articles/CBMiygJBVV95cUxOcmlHeV9xd1hXbzhFVXVjNnYtNUMzWVV5cVZEY2NubDBwdVR2VjZZM3pTZVVzVFNWc2dQczNpZ3hpME4zV1EzSXV2RHRPM1l0WWJ4UW5LN3Q0cElwS09yNnBndDBkTlhKaE1ESzhHZkgzbkJkdE9NUXNFU1lUMXlBdDNGZk91X1JjakdLY18tdWUwR0QyRVd6SGZvX053Tk1pam9GQnVVdzd1RkJJOVZsRjk5bzZONHZLZXRXUWc5N2hsRjhWdXdYMktSLVhFeHZiZlZ4d2FCWHhmOWdSVUY0dzlKUDhwU09xNjBTa3NXek1yYnJNeHRHSWFZZDdUdzd0Q0s1TDlwYW5sLUpQT2c5SVlTZ0ltYWxPN0NmcnJWcFVQXy1tSVFsdzFIQ2tnLW9lRUlBdHVpa3lGWDVrMldmNnp0dFo3U01uS3c?oc=5)
-
----
-
-### [Kaffee bei Hypertonie: Bis fünf Tassen täglich oft sicher – Regeln für Medikamente - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmNfUzJaSVI1WmVCREVmVTZ5ZFlBZE5CU0pLaXRTV0w1dkVNUkc2Y2NrSHRYazJJXzV6ZlJPMGVkWmpXYWpzdDFCT3YySUVrX1JQbEJuSlZDVF96dzBVc3I2TjJLWDNiNFBsZTE1bDBjWGRYZTBkVWJOX0U4TWl6R1RheEE2dFNEY2g0dTJTSmVMSjZFbzZQbElXOUI0R3NlX2dNTWJUek1vbXBORG1tc1k3OVk?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmNfUzJaSVI1WmVCREVmVTZ5ZFlBZE5CU0pLaXRTV0w1dkVNUkc2Y2NrSHRYazJJXzV6ZlJPMGVkWmpXYWpzdDFCT3YySUVrX1JQbEJuSlZDVF96dzBVc3I2TjJLWDNiNFBsZTE1bDBjWGRYZTBkVWJOX0U4TWl6R1RheEE2dFNEY2g0dTJTSmVMSjZFbzZQbElXOUI0R3NlX2dNTWJUek1vbXBORG1tc1k3OVk?oc=5)
 
 ---
 
@@ -302,19 +294,11 @@ permalink: /news/sildenafil/
 
 ---
 
-### [Los expertos dermatólogos alertan sobre las manchas solares: "Son una de las consultas más frecuentes porque afectan mucho a la percepción de la piel"](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
+### [Los expertos dermatólogos alertan sobre las manchas solares: "Son una de las consultas más frecuentes porque afectan mucho a la percepción de la piel" - Harper's BAZAAR](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
 
 2026-08-09 <span class="news-indication-tag">AF</span>
 
-來源：[harpersbazaar.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
-
----
-
-### [«Scompenso», come affrontare il caldo senza rischi - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlJ2X1JEZXRmNG55TEdnU2tKeHdfZUxlcjdrM3lNZV95QVJTVFRwcTd5QnVnZldXVTNiWmpPWnM2ZWVwVE5hT0VTblNNWGhSZm5FVzVtMzh5NVBsNjZFNm1LMnlYVWZ0c3RkVDFZeUxDY1lnZWNMaXFGcFhGQ1A5c1FHS3ZfNk10ZDh3OEY5LVRBYzkyUXNvZDJVeTR4ZkZ1N1pobXVwWGRiR0NIMWZwZWpYM1ppQQ?oc=5)
-
-2026-08-09 <span class="news-indication-tag">AF</span>
-
-來源：[L'Eco di Bergamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlJ2X1JEZXRmNG55TEdnU2tKeHdfZUxlcjdrM3lNZV95QVJTVFRwcTd5QnVnZldXVTNiWmpPWnM2ZWVwVE5hT0VTblNNWGhSZm5FVzVtMzh5NVBsNjZFNm1LMnlYVWZ0c3RkVDFZeUxDY1lnZWNMaXFGcFhGQ1A5c1FHS3ZfNk10ZDh3OEY5LVRBYzkyUXNvZDJVeTR4ZkZ1N1pobXVwWGRiR0NIMWZwZWpYM1ppQQ?oc=5)
+來源：[Harper's BAZAAR](https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3l0R1lsMy1adkZnTG9ieks4TnBWTFpJVTJXV0tDS0U5SzhBTkg4MHk0OVM5dXRXdmtNQ010bzNpSS1Ja2FjNWU4bkxwdGJjcjZqNUYtSmxYcGlNX0NzR2xpMWxkX2lVUWJWTVFGREphbUQzaF84SlZrQUZzWjBGMDhSWEh3d0tYQ29XdFZObjFTb1dTRzFpNlJOMUJfclFaOXNvUGowdHdCT0NuR3dUMl9lMA?oc=5)
 
 ---
 
