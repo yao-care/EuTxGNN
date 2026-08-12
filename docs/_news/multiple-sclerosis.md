@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "esclerosis múltiple（multiple sclerosis） 相關新聞"
+title: "MS（multiple sclerosis） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "esclerosis múltiple（multiple sclerosis） 的相關健康新聞報導。12 則新聞、26 個相關藥物。"
+description: "MS（multiple sclerosis） 的相關健康新聞報導。14 則新聞、26 個相關藥物。"
 permalink: /news/multiple-sclerosis/
 ---
 
-# esclerosis múltiple（multiple sclerosis） 相關新聞
+# MS（multiple sclerosis） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="esclerosis múltiple（multiple sclerosis） 有什麼相關新聞？">
-<strong>esclerosis múltiple（multiple sclerosis）</strong> 目前有 <strong>12 則</strong>相關新聞報導，26 個相關藥物。
+<p class="key-answer" data-question="MS（multiple sclerosis） 有什麼相關新聞？">
+<strong>MS（multiple sclerosis）</strong> 目前有 <strong>14 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「esclerosis múltiple」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「MS」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -54,37 +54,37 @@ permalink: /news/multiple-sclerosis/
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
-### [El reto solidario de Nemesio: 700 kilómetros a pie por el Camino de Santiago contra la esclerosis múltiple - Castilla y León Televisión](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbWtMQ2F5RkhpVk9oZ1F6TmZqbGlUblE3eV9SWXpWU0tSV2ZFc1FLT1BQeE9vV2VnWHRVS0x3UmxuTkM1RTlrSWxFYmtNTDUzZFdRakl6X0hGanhFZmdxejAtQnZDd0NzWW1pa3YxOXg3M1VRdzJUZy1iSVhvNUlGTnlqbWI5ZE1UdDJubTBnMUhydVFadWJMWmhIVnNuSFFzSmFrWW1TVUZwN0Y5enpSZjNvWUtXSTN1czYzQjhDVS03ejZJM0Vkd2lRajcwenN6VEhrMW8zZVppTW1wc01WMjBCVmFfVzZqSVFqOHAzLUR3alhoZXFUR2h5cENibFk?oc=5)
+### [Brote de ébola en Congo va camino de superar el más mortal de la historia, dice la OMS - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3A0RnUxZzlfaFZhcWY4b2laal9VQmRzVUV4S28wQzlzWjF5LW5LZ2FRSmhxQTZ2ZlRjclhzOGZkSXFNNURxRGJVXzJaUDEyZnZ2Yy1aZC1oeG93cmc0ckZ3V0JsaGJKb2xZMDBUZjFGWVFKNm5JUDBiUFdQTGZlXy16UjhJZ1dVQ05wa3FPNzFvOFlWaE1JNUtUdHdkMEU?oc=5)
 
 2026-08-12
 
-來源：[Castilla y León Televisión](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbWtMQ2F5RkhpVk9oZ1F6TmZqbGlUblE3eV9SWXpWU0tSV2ZFc1FLT1BQeE9vV2VnWHRVS0x3UmxuTkM1RTlrSWxFYmtNTDUzZFdRakl6X0hGanhFZmdxejAtQnZDd0NzWW1pa3YxOXg3M1VRdzJUZy1iSVhvNUlGTnlqbWI5ZE1UdDJubTBnMUhydVFadWJMWmhIVnNuSFFzSmFrWW1TVUZwN0Y5enpSZjNvWUtXSTN1czYzQjhDVS03ejZJM0Vkd2lRajcwenN6VEhrMW8zZVppTW1wc01WMjBCVmFfVzZqSVFqOHAzLUR3alhoZXFUR2h5cENibFk?oc=5)
+來源：[AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3A0RnUxZzlfaFZhcWY4b2laal9VQmRzVUV4S28wQzlzWjF5LW5LZ2FRSmhxQTZ2ZlRjclhzOGZkSXFNNURxRGJVXzJaUDEyZnZ2Yy1aZC1oeG93cmc0ckZ3V0JsaGJKb2xZMDBUZjFGWVFKNm5JUDBiUFdQTGZlXy16UjhJZ1dVQ05wa3FPNzFvOFlWaE1JNUtUdHdkMEU?oc=5)
 
 ---
 
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
 
 2026-08-12
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
 
 ---
 
-### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+### [Over-75s could come off cholesterol-busting statins without harm, claims study](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
 2026-08-12
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+### [Typ-2-Diabetes: Knochenschwund erklärt Frakturrisiko nicht allein - AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 2026-08-12
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUxaWER2Y0pzZ1Z2QkE5dzZ3a0ljcHNkU1VPNFBsWlRfYUhXd3piZU5xNTJ0bVNheG5DRlpzTjVMZXRMNWpUZmtFRGJ5QzcwZnU1aXdQcUVteTd3QWI3QXBiMlhYSGVId3NZUkZfZDN3S2hncGFIM1YzMFhjbjUySmR1VXoyQThoSzNMQWhBTmdCR0tYbGhzTUpCMlBVS3Q0YzRqRTlzcDE4OUMySjBmNFlsWWk?oc=5)
 
 ---
 
@@ -128,6 +128,22 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
+### [Ebola, crisi sanitaria senza precedenti](https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3E5ZGxnMUVLSUdReFRsN2JNbXBnRFk0WGNnRWJNaEROQmtoQnNrbEZwSEQ0eHdpM19vTlFBUWpFakhOeTV0djl0eVhZbTN4ZmlNajNpX2RqckY2M19nRkV0ZlZaYUEya3Q1SzRVVE43cmVRcncwR0hIcWV6dW9tSnBTamhSZURLVEE?oc=5)
+
+2026-08-11
+
+來源：[RSI](https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3E5ZGxnMUVLSUdReFRsN2JNbXBnRFk0WGNnRWJNaEROQmtoQnNrbEZwSEQ0eHdpM19vTlFBUWpFakhOeTV0djl0eVhZbTN4ZmlNajNpX2RqckY2M19nRkV0ZlZaYUEya3Q1SzRVVE43cmVRcncwR0hIcWV6dW9tSnBTamhSZURLVEE?oc=5)
+
+---
+
+### [A Week-Long Meditation Retreat Produced Psychedelic-Like Brain Changes, Study Finds](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnFJMWs1QUZHTFZxOExxSlhzR2dWakg5RWJNOEJ3clBDSGFEaW9tQVlpT2szaDZmOG9PUHhPLVRwdkRsSWhRbmlzUHo5clJvUkUxck1QVWl5WFhZeVNyM3NZZzk5Y05ocWJ6TDRqZFhTa3VwejBCbFQ1YndQSGtwVGM1UXVXUWd3VTdqdjgtNTkzUEhIdkE?oc=5)
+
+2026-08-11
+
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnFJMWs1QUZHTFZxOExxSlhzR2dWakg5RWJNOEJ3clBDSGFEaW9tQVlpT2szaDZmOG9PUHhPLVRwdkRsSWhRbmlzUHo5clJvUkUxck1QVWl5WFhZeVNyM3NZZzk5Y05ocWJ6TDRqZFhTa3VwejBCbFQ1YndQSGtwVGM1UXVXUWd3VTdqdjgtNTkzUEhIdkE?oc=5)
+
+---
+
 ### [La OMS identifica carencias organizativas "significativas" en el programa piloto europeo de cribado de cáncer de próstata](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHFiazBjMnpqWWNiLWNaTGRtUlRjY2dNVXkwZzZmMzhqeVIydjVVYkNFdGNUS0tCYV9DTTZQZzVqV3VhcVJDMXU1WUtjMmZZX0IxdXJ0UjVreWhmUzFYdkZWQVpicktfY2U0ODBRcXhOc0xRaGV6eWQzVTd4QnNxTGd2NHE3MHd0b2lGS3VveFd2NDRZWDEyNkRrWXg2MHpwbEFlZXVacWJmdzBUYXVncGo0S2ZOcnoyNHJ1RU1RdnVGQWNNUlJiYjIzUVFYcGFhX1Z3MXlVU2NUb0RNcVZRQUpB?oc=5)
 
 2026-08-11
@@ -136,11 +152,11 @@ permalink: /news/multiple-sclerosis/
 
 ---
 
-### [The difference between heat exhaustion and heatstroke explained - The Conversation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmdMZWFTbW1NaWszMFV1bjF5eVRPdUYteERxeTZqd0hvNjhrdGFGXzFqMmRVdF9uYmlCSkw5ZlFoYmIwQ0FzWHFjY3JKemo0YkliRF9RUEFxV2taTkJzbXJtWkVBNzZqaWZ0NUx4blFOa3VJTDhZVUFmNWJMRGpTRDduU2RxcEh6VHg1Y2xoek9CbDltZDlIN0Q1Sk1BU1U?oc=5)
+### [Bladder Cancer Care Is Entering a New Era](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlN5Y1FNSEtXX2FoRzBaU2FaOVZuSDB6WjJ2ZzI1R3pNMnlRU1dVaFNPY2hLa19xYmRsZ3J4M2hNNmRFa2pDbEFXbWhJMHB2ZEJlMk0tN1lFQlNYV2lnNTI0TUFYOHVIWVBxcHp5dmxvcnZQWUdWRHlwWEwyX1pUelZuVC1RQW5ETU9yZFBHWQ?oc=5)
 
 2026-08-11
 
-來源：[The Conversation](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmdMZWFTbW1NaWszMFV1bjF5eVRPdUYteERxeTZqd0hvNjhrdGFGXzFqMmRVdF9uYmlCSkw5ZlFoYmIwQ0FzWHFjY3JKemo0YkliRF9RUEFxV2taTkJzbXJtWkVBNzZqaWZ0NUx4blFOa3VJTDhZVUFmNWJMRGpTRDduU2RxcEh6VHg1Y2xoek9CbDltZDlIN0Q1Sk1BU1U?oc=5)
+來源：[Medscape](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlN5Y1FNSEtXX2FoRzBaU2FaOVZuSDB6WjJ2ZzI1R3pNMnlRU1dVaFNPY2hLa19xYmRsZ3J4M2hNNmRFa2pDbEFXbWhJMHB2ZEJlMk0tN1lFQlNYV2lnNTI0TUFYOHVIWVBxcHp5dmxvcnZQWUdWRHlwWEwyX1pUelZuVC1RQW5ETU9yZFBHWQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cobicistat/
 ---
 
 <p class="key-answer" data-question="Cobicistat 有什麼相關新聞？">
-<strong>Cobicistat</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cobicistat</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/cobicistat/
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
 
@@ -62,11 +62,11 @@ permalink: /news/cobicistat/
 
 ---
 
-### [Hepatitis C to be eliminated in England - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+### [England 'on the cusp' of eliminating hepatitis C, health officials say - Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ permalink: /news/cobicistat/
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
-
----
-
-### [Morì per un linfoma nel 1994, ma erano gli effetti di emotrasfusioni infette. Ministero condannato: pagherà 1,5 milioni alla famiglia - La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
-
-2026-08-10 <span class="news-indication-tag">epatite</span>
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
 
 ---
 

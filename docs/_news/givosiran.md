@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="Givosiran 有什麼相關新聞？">
-<strong>Givosiran</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Givosiran</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ permalink: /news/givosiran/
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [Estos son los factores de riesgo que puedes controlar para prevenir la demencia, según un estudio - La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
-2026-08-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[La Tercera](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRDljTHVaUFhRMHJaWmVtSFZkeW9VX2dqeUdHaXhZMzlvUFNjQ2JaMkRVUHNkR01mTGp0cVJkdEFHMEYyVTBjOEp0bVZPRHFsNWJDS2Iyc0NZQlBVanRZZ0hMUnNLdUc5X0FadDdycDB3RjQ0alYtbzh5TUlaSEpUdzh3c29Ya09HcFYxZ3NiZkVhLUpQZVg0QUZRbzMyTF9YYVNqak1tSjJGN1MtX2FrOEZuWDZwR3dZcHdfcU1CLVVnRWdtSW5NZWh2UDFMd1d1T19CTVotWElMQdIB-wFBVV95cUxNNXo1dEUxakQ1U1RyblFIa044bGoyU0hmMVVWaWFRXzl2cjdVb1JlVFVxeENEeG9mbnNIaGpqemVqQ1ZQYmYwNXNBX1lIeXNveTVsaG1xdENmSFZCY2FsemRxS3c1YWs2LTZaUVRyT3J2MTZjbWxwTEtsRDA1ckpycXVmVXpRTzFTTDNEdVc5NUZhZVpINk5XYjRIUlhFZHpQV2hmcUZTbnNWNzkyNXdMa1J0V2pyVXdVLXlmcHNaMWRqS0dCb0JfUWlNVjJDS3JMemZNU0NPaTYyNHFtcldyNlpVN1FjMjZzNW9Ta3dvdXA0U3hrclZwOG1aaw?oc=5)
-
----
-
-### [Bluthochdruck: Erhöhte Zufuhr von Kalium kann helfen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+### [Bluthochdruck: Höhere Kaliumzufuhr senkt Schlaganfallrisiko um 15% - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
 
 2026-08-12 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDhMXzhSQ3ZVZ1pKNkVBNjdvaG9XelJ6T1NUbXVGVngwaUV6UlQxbnB3SmZtaHFOS3pGdG5vdkdJb2UtckxId2FKQjU3UHR3RFpOVDNPTkxSRlcySUtrcklVOE8xb2kyYzBRV3d2QW5pWW1UVTJnMTVuTFVQMEJuekI3dWxBTWNQTWRYNjR2Q1ljSFFIel9ZbnF6ZjRtc0NlRDF0Y2Y1eTRhSnpObFNvd1pySQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDczRmJvTnNlcUFGYkxfUDZ4RDhZNmdSQlYzVGNMYnVNWERVVWd3em5zUnNHQlZmem1vOTdCeG5aM2ppaFFUdV9PRVh5QzA1eUc3QmZHeDVNXzdGVHRkWEUyaUk1c2R0dm9oU0dVcklVLWZJR1pqSjJTOHdSVEl0aXhYN0U3SWwzWXZmT1NIQmRUUEx6RW1KZ2dCRUtDWmxpeGl1WDZUbXI4SGRyUjN1S1dQNTA1LUtJZDJFM2NBYw?oc=5)
+
+---
+
+### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ permalink: /news/givosiran/
 
 ---
 
-### [Hepatitis C to be eliminated in England - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+### [England 'on the cusp' of eliminating hepatitis C, health officials say - Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUVlNFh5VDFtSmVCTkZhX0ZnRkhVTGhLa2ppN2lvelJiQmd1S3FBaU9vQVRfQW9RSERLRmU2TmM0UUVscHpjbmRhVVRhSDZHRmxieUFOeFBlUFBHX1pIamxzNl9zX2NfbGNHenFGblY1MHhNd1Z2MHAyMWNhLUR1cmJORy1lR0NfLTdYci1ral9GQnVKWVFOVWhYRENOZHB1Z0VTUGZsYw?oc=5)
+來源：[Sky News](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVENwaklRRXJ5QlhqbFlTSGRHNWVJT2dOUXYyenkwc3JLLXZmc0FPRGx2bFJNWjJyWmMtUVp3WjJjekNaRENWNGxjV0hyYnZGdzlRYnZrTDRjYVY3T0xfOHNjWG5CTE41MzNnNTlId05fVzZ5akp6MkhUakxmWnB6U0Z2ZW1pMzhnNk5VZUtIOVRMS2xEQ0dPQUptdFQ1emllZzVLUnNn?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ permalink: /news/givosiran/
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Journalmed.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjlNTmUyeENCTFR2ZHFENzk4SzJwRVpyVzN4R21oY28xTWxuN1kycE5KWWJ2SkhxOGYyVHBzNzB6WUgweU5KdDEyaEg0bXpYdWVrUGpINzBja21UUkNDNi14N2xOaGlCMHFoendZYnczYmYzV1hndXJLX3hpck5KaDlpeHlDZUdLZzZ0X09nRWtKV1ZoMFduVXIxOTQxY2pCaXc?oc=5)
-
----
-
-### [Morì per un linfoma nel 1994, ma erano gli effetti di emotrasfusioni infette. Ministero condannato: pagherà 1,5 milioni alla famiglia - La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
-
-2026-08-10 <span class="news-indication-tag">epatite</span>
-
-來源：[La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
 
 ---
 

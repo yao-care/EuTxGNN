@@ -14,7 +14,7 @@ permalink: /news/cetrorelix-as-acetate/
 ---
 
 <p class="key-answer" data-question="Cetrorelix (As Acetate) 有什麼相關新聞？">
-<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Cetrorelix (As Acetate)</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ permalink: /news/cetrorelix-as-acetate/
 <p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（31 則）
 
-### [Heard about the ‘luteal uglies’? Women know more about our hormones than ever – and that’s beautiful](https://news.google.com/rss/articles/CBMingFBVV95cUxOQkctc0VVdzFhcllsQzh1THc4M1dkSzZnWk9kcmlnb29ic3dRSFB6aUxwQjQyTkU4eVdLS1F6QzF1c093aWJud0hfVzVsSnhFbkpMbmt0TkotRHlVRXJvbDFuWTJwZkNPbEVJaURObkNhRXBfVHdUUm9WbEpxaHJnZWJxSVNoOVQ5M3M5NEJnaEI1YVdFNkdobHNKTHYzQQ?oc=5)
+### [London law student died after taking weight loss drug, inquest hears - London Evening Standard](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHZXS1BRNllNcTJRcGltdmV6cl9yWmt1U1FqVDlDdEd3Y29tSTdUSmY5S3lnLXAtR0pQNWR2XzdQbUNpNXZuZlFQZTd4NGxhekZISV9QUVpZeHlKUGFDVkZzTERQdjRuSVJoY1ZISU9MZXJ4NGpSdTVFQVdGYzBzQm80NzA2RGdWSktuZGp2TnpEX2hCYi1aZ3hQRWx1dkpnbF85cmlXT1kxYTMyc2J3?oc=5)
 
-2026-08-12 <span class="news-indication-tag">AF</span>
+2026-08-12 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOQkctc0VVdzFhcllsQzh1THc4M1dkSzZnWk9kcmlnb29ic3dRSFB6aUxwQjQyTkU4eVdLS1F6QzF1c093aWJud0hfVzVsSnhFbkpMbmt0TkotRHlVRXJvbDFuWTJwZkNPbEVJaURObkNhRXBfVHdUUm9WbEpxaHJnZWJxSVNoOVQ5M3M5NEJnaEI1YVdFNkdobHNKTHYzQQ?oc=5)
+來源：[London Evening Standard](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHZXS1BRNllNcTJRcGltdmV6cl9yWmt1U1FqVDlDdEd3Y29tSTdUSmY5S3lnLXAtR0pQNWR2XzdQbUNpNXZuZlFQZTd4NGxhekZISV9QUVpZeHlKUGFDVkZzTERQdjRuSVJoY1ZISU9MZXJ4NGpSdTVFQVdGYzBzQm80NzA2RGdWSktuZGp2TnpEX2hCYi1aZ3hQRWx1dkpnbF85cmlXT1kxYTMyc2J3?oc=5)
 
 ---
 
@@ -70,6 +70,22 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [Three dead after doc told patients to stop vital meds - 200 cases under review](https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2V3OTMzUUpWelFwMEtmOHlaWUlvRGVwOUZHZURnRkdSLTB2eGVQd3VLTkhsSmRmRHgweU11WDBLLWFiZ0tXVTVuVUNmcEFzOEtXWEpjdzk2bnNnbms3ejJZaG5tTk9TRlRQMTNWUmx4bWZVRTdOV3lzY2laQ3ZjbHBUcVFPd1Y0blpMWUtzallobTg?oc=5)
+
+2026-08-12 <span class="news-indication-tag">AF</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2V3OTMzUUpWelFwMEtmOHlaWUlvRGVwOUZHZURnRkdSLTB2eGVQd3VLTkhsSmRmRHgweU11WDBLLWFiZ0tXVTVuVUNmcEFzOEtXWEpjdzk2bnNnbms3ejJZaG5tTk9TRlRQMTNWUmx4bWZVRTdOV3lzY2laQ3ZjbHBUcVFPd1Y0blpMWUtzallobTg?oc=5)
+
+---
+
+### [Heard about the ‘luteal uglies’? Women know more about our hormones than ever – and that’s beautiful - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOQkctc0VVdzFhcllsQzh1THc4M1dkSzZnWk9kcmlnb29ic3dRSFB6aUxwQjQyTkU4eVdLS1F6QzF1c093aWJud0hfVzVsSnhFbkpMbmt0TkotRHlVRXJvbDFuWTJwZkNPbEVJaURObkNhRXBfVHdUUm9WbEpxaHJnZWJxSVNoOVQ5M3M5NEJnaEI1YVdFNkdobHNKTHYzQQ?oc=5)
+
+2026-08-12 <span class="news-indication-tag">AF</span>
+
+來源：[The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxOQkctc0VVdzFhcllsQzh1THc4M1dkSzZnWk9kcmlnb29ic3dRSFB6aUxwQjQyTkU4eVdLS1F6QzF1c093aWJud0hfVzVsSnhFbkpMbmt0TkotRHlVRXJvbDFuWTJwZkNPbEVJaURObkNhRXBfVHdUUm9WbEpxaHJnZWJxSVNoOVQ5M3M5NEJnaEI1YVdFNkdobHNKTHYzQQ?oc=5)
+
+---
+
 ### [Hafer, Soja oder Mandel: Ein Drink kommt Kuhmilch am nächsten](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOEkzZWFXMnpYWTV2SjVfdVprUGwxR3A5VVktdDE0b2dhSU9CV05VLWY5dWotbXlPdEhzRkV1MEFGRk52d01fcVF2QndCZlItUWZhUnVZWVFNVHFpcTZFUWhOWWptejIyRHZRY29VMVo3ZGk2T3VvUEg2bVVnRkhSaXp5UXlhbDNYbnlYNFA0S3ZCYm85YkRpZ3ByRGYxSkhwTF9Ya1diWWFab1NLc2lxYmRicWt4NURxOGpid3BrVGNIajItbF9Ib3RoY3FhVEU5Y1loVlJXRkdBZHkydUFF?oc=5)
 
 2026-08-12 <span class="news-indication-tag">AF</span>
@@ -78,11 +94,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Long-COVID: 27% der Patienten haben persistierende Virus-RNA](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVhtc0p1d3dHYWMwRzJUMGptYXV3eTFhRllEdzhtd0trN2FQTkI2bUtEVTFQcDNQZFQ2LVZfeVBHRE12Z3NaV3I0aFBZU29NMjU2dHdzeFlpajEwNktQTmYybDdhdzlSUW95RlBfRjl5cGdjdy1jV3pCTFhHdWJHbHowbkVNOUxWLUlBd1hJZ1FTT3Q2dUVZcWV2NmYzbFhnZlFGc2FFalhYd09QdVUyaVd6em1VQQ?oc=5)
+### [Long-COVID: 27% der Patienten haben persistierende Virus-RNA - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVhtc0p1d3dHYWMwRzJUMGptYXV3eTFhRllEdzhtd0trN2FQTkI2bUtEVTFQcDNQZFQ2LVZfeVBHRE12Z3NaV3I0aFBZU29NMjU2dHdzeFlpajEwNktQTmYybDdhdzlSUW95RlBfRjl5cGdjdy1jV3pCTFhHdWJHbHowbkVNOUxWLUlBd1hJZ1FTT3Q2dUVZcWV2NmYzbFhnZlFGc2FFalhYd09QdVUyaVd6em1VQQ?oc=5)
 
 2026-08-12 <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVhtc0p1d3dHYWMwRzJUMGptYXV3eTFhRllEdzhtd0trN2FQTkI2bUtEVTFQcDNQZFQ2LVZfeVBHRE12Z3NaV3I0aFBZU29NMjU2dHdzeFlpajEwNktQTmYybDdhdzlSUW95RlBfRjl5cGdjdy1jV3pCTFhHdWJHbHowbkVNOUxWLUlBd1hJZ1FTT3Q2dUVZcWV2NmYzbFhnZlFGc2FFalhYd09QdVUyaVd6em1VQQ?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVhtc0p1d3dHYWMwRzJUMGptYXV3eTFhRllEdzhtd0trN2FQTkI2bUtEVTFQcDNQZFQ2LVZfeVBHRE12Z3NaV3I0aFBZU29NMjU2dHdzeFlpajEwNktQTmYybDdhdzlSUW95RlBfRjl5cGdjdy1jV3pCTFhHdWJHbHowbkVNOUxWLUlBd1hJZ1FTT3Q2dUVZcWV2NmYzbFhnZlFGc2FFalhYd09QdVUyaVd6em1VQQ?oc=5)
 
 ---
 
@@ -94,19 +110,35 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Dad given 12 months to live after being prescribed antibiotics for holiday ear infection - The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEwta0xYVWdzWlZua0RtUDNsVFk3c0dZazFqdWVVZFdFdlNNQjFwdldSQmxzOExXNWttbkRjSXpISEhuaEpEaHZIaV82bFVHNVRRTzlLNXotXzRmLTYyY3RFUnhXSER4R2lMc0xIb3ZjWWVVRlpEOHpRQUQxQTVEVndsX3JXQTE4aXFWdzgxdUNOejNrVWtIWk5LQjBsdEdB?oc=5)
+### [La farmacéutica Diana Vitoria aconseja cómo tratar la piel tras el verano - IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGtBb2sxN1hCaTNmdmN3WTVxRkhzbEYwV0ZsNHptQ2gtNlR0c19USmxGeFB5R29hV3RSTkQ4S1ZUNl9BcXlOWEs0ZzBXeU1NbkExR3F2OUtRaVgzUFVwYnBXOWdCNGZXTWxJQ0QtcjIyNU9MYTE2cnc4TVRab1JfdFYtM3VUOUNKc1BjM2lCUVlWNnF4aEtwVDI5VE5YaVVkT0JUeUlvR0QxSHJW0gGnAUFVX3lxTFBKQ3d3UVo0RzNQN3lOT25BVFdTd0lhcjAwbmpXMHRqSW1RUUVRc1pOMklhOUNoSTEtakVNN05fZ1E4WXVnbUg2SHExRjZ3Q0Z6SnpCUllLQ1E5UExZSTlZSjVqZWVHY1VFc3NtUVhkeFNEdlY3dTRHUTJSZFFWa2NxdERDZE5XOVUwMU5GemVJNlZ3V2tRa1NHaFhUNmpWLV82QjZHbGZR?oc=5)
 
 2026-08-12 <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEwta0xYVWdzWlZua0RtUDNsVFk3c0dZazFqdWVVZFdFdlNNQjFwdldSQmxzOExXNWttbkRjSXpISEhuaEpEaHZIaV82bFVHNVRRTzlLNXotXzRmLTYyY3RFUnhXSER4R2lMc0xIb3ZjWWVVRlpEOHpRQUQxQTVEVndsX3JXQTE4aXFWdzgxdUNOejNrVWtIWk5LQjBsdEdB?oc=5)
+來源：[IM Farmacias](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGtBb2sxN1hCaTNmdmN3WTVxRkhzbEYwV0ZsNHptQ2gtNlR0c19USmxGeFB5R29hV3RSTkQ4S1ZUNl9BcXlOWEs0ZzBXeU1NbkExR3F2OUtRaVgzUFVwYnBXOWdCNGZXTWxJQ0QtcjIyNU9MYTE2cnc4TVRab1JfdFYtM3VUOUNKc1BjM2lCUVlWNnF4aEtwVDI5VE5YaVVkT0JUeUlvR0QxSHJW0gGnAUFVX3lxTFBKQ3d3UVo0RzNQN3lOT25BVFdTd0lhcjAwbmpXMHRqSW1RUUVRc1pOMklhOUNoSTEtakVNN05fZ1E4WXVnbUg2SHExRjZ3Q0Z6SnpCUllLQ1E5UExZSTlZSjVqZWVHY1VFc3NtUVhkeFNEdlY3dTRHUTJSZFFWa2NxdERDZE5XOVUwMU5GemVJNlZ3V2tRa1NHaFhUNmpWLV82QjZHbGZR?oc=5)
 
 ---
 
-### [Over-75s could come off cholesterol-busting statins without harm, claims study - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+### [Dad given 12 months to live after being prescribed antibiotics for holiday ear infection](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEwta0xYVWdzWlZua0RtUDNsVFk3c0dZazFqdWVVZFdFdlNNQjFwdldSQmxzOExXNWttbkRjSXpISEhuaEpEaHZIaV82bFVHNVRRTzlLNXotXzRmLTYyY3RFUnhXSER4R2lMc0xIb3ZjWWVVRlpEOHpRQUQxQTVEVndsX3JXQTE4aXFWdzgxdUNOejNrVWtIWk5LQjBsdEdB?oc=5)
+
+2026-08-12 <span class="news-indication-tag">AF</span>
+
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEwta0xYVWdzWlZua0RtUDNsVFk3c0dZazFqdWVVZFdFdlNNQjFwdldSQmxzOExXNWttbkRjSXpISEhuaEpEaHZIaV82bFVHNVRRTzlLNXotXzRmLTYyY3RFUnhXSER4R2lMc0xIb3ZjWWVVRlpEOHpRQUQxQTVEVndsX3JXQTE4aXFWdzgxdUNOejNrVWtIWk5LQjBsdEdB?oc=5)
+
+---
+
+### [Batterio mangiacarne trovato nello stretto di Messina, Iss: rischio basso in Italia](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOGxneDAtTUhFOTdNeThsRlJhclhiczhHTnFYTGFrcjBLaTR3OWxtVG5IRFprMW9RZnFfTHZaZUtCbVgteUQ2WHp5dUdWUnE0S0Jqd2ZoWm9IN045ajRPTVZVWG9kR3hBNzhxY0FoT2ZBeGh0VHBxYkdXNFB5NnVIYjdDVHJwcW5GN1FsWWFaVHdqNUppS2M3TDFJMEhIdk5oekxQYXlWZEMxdldORUJYMUQwZEtUbVlzeTl3SDhSNmVXNDl3R200YkVuWFNCQ3lkXzhRUHRvRC1mREVhWUVyVG1iNnN6NDBvRUZtc3kzNDVXRVVjTWfSAfsBQVVfeXFMTmhxVWp4eDRMSTNCZEJiYzJCS2RuTVNDTmxQeDBGOW5CU3BJeFNBOFl0bnJuWVo1eUpYeVFva0hfbklHY0pKb3JCR191dVMyM2FFY2RIOHdQRk1XM25kdl9xY1F6QmRsM2ZUSVJTN0hKNmw5U0Y2YmVVT0JSbzZDc09lMEhzcHYwV0lGQV9FYTU2Si1LSXBMNmdYd25KbVZWVmlhczNWY1l6emRHUW9Xa0pVeGFVNWhyY3F3WG12d25nb2pyLTRVcVVDN1hod0dCamU4aUZSOUg4WkpTRDlYTWh4V2loZzRHVndmcjBKSTFUVURpdjV0ZzI4aXM?oc=5)
+
+2026-08-12 <span class="news-indication-tag">AF</span>
+
+來源：[RaiNews](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOGxneDAtTUhFOTdNeThsRlJhclhiczhHTnFYTGFrcjBLaTR3OWxtVG5IRFprMW9RZnFfTHZaZUtCbVgteUQ2WHp5dUdWUnE0S0Jqd2ZoWm9IN045ajRPTVZVWG9kR3hBNzhxY0FoT2ZBeGh0VHBxYkdXNFB5NnVIYjdDVHJwcW5GN1FsWWFaVHdqNUppS2M3TDFJMEhIdk5oekxQYXlWZEMxdldORUJYMUQwZEtUbVlzeTl3SDhSNmVXNDl3R200YkVuWFNCQ3lkXzhRUHRvRC1mREVhWUVyVG1iNnN6NDBvRUZtc3kzNDVXRVVjTWfSAfsBQVVfeXFMTmhxVWp4eDRMSTNCZEJiYzJCS2RuTVNDTmxQeDBGOW5CU3BJeFNBOFl0bnJuWVo1eUpYeVFva0hfbklHY0pKb3JCR191dVMyM2FFY2RIOHdQRk1XM25kdl9xY1F6QmRsM2ZUSVJTN0hKNmw5U0Y2YmVVT0JSbzZDc09lMEhzcHYwV0lGQV9FYTU2Si1LSXBMNmdYd25KbVZWVmlhczNWY1l6emRHUW9Xa0pVeGFVNWhyY3F3WG12d25nb2pyLTRVcVVDN1hod0dCamU4aUZSOUg4WkpTRDlYTWh4V2loZzRHVndmcjBKSTFUVURpdjV0ZzI4aXM?oc=5)
+
+---
+
+### [Over-75s could come off cholesterol-busting statins without harm, claims study](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
 2026-08-12 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
+來源：[thesun.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2EyVm55ZnFpN3JmaFRlamZwVmNicjZBdzExS1Y2UERfM1JjZy1kN25FODFac1lJMEJ0ZGJuWlk3TlhJcE44ZmxDb3BTRTNpczhLNUFzT1BMNGJrSDg3YTkwLThuSThhQXJoWG05M3VSXzJpdmMxN1dPYXN6Um1OTERzQkpUQQ?oc=5)
 
 ---
 
@@ -134,19 +166,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Verheij-Syndrom: Vitamin B12 korrigiert Stoffwechselstörungen](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmtFUnZyWmdKZVBISHhKV3VaaEtrWHp5OFdWbjR3UTE5c3JDdVRlbWdCQTNoRVoweVpSOGhrMHFBRXpZMk1aOHBpam1ZemxCZGZkc295TWZrUEo0WDhlclVKUWx4cTkzQmQwa2ZIUmFQQ0FUSTRfWnRfTlRDbllRMlJISHA4WV9JOHdSS0o1NjhQVllackh2YXJSQ0tGUFJLTHJNaUZ1aTUzZV9ub1ZR?oc=5)
+### [Verheij-Syndrom: Vitamin B12 korrigiert Stoffwechselstörungen - AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmtFUnZyWmdKZVBISHhKV3VaaEtrWHp5OFdWbjR3UTE5c3JDdVRlbWdCQTNoRVoweVpSOGhrMHFBRXpZMk1aOHBpam1ZemxCZGZkc295TWZrUEo0WDhlclVKUWx4cTkzQmQwa2ZIUmFQQ0FUSTRfWnRfTlRDbllRMlJISHA4WV9JOHdSS0o1NjhQVllackh2YXJSQ0tGUFJLTHJNaUZ1aTUzZV9ub1ZR?oc=5)
 
 2026-08-12 <span class="news-indication-tag">AF</span>
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmtFUnZyWmdKZVBISHhKV3VaaEtrWHp5OFdWbjR3UTE5c3JDdVRlbWdCQTNoRVoweVpSOGhrMHFBRXpZMk1aOHBpam1ZemxCZGZkc295TWZrUEo0WDhlclVKUWx4cTkzQmQwa2ZIUmFQQ0FUSTRfWnRfTlRDbllRMlJISHA4WV9JOHdSS0o1NjhQVllackh2YXJSQ0tGUFJLTHJNaUZ1aTUzZV9ub1ZR?oc=5)
-
----
-
-### ['Women feel guilt and anger' after taking epilepsy drug that harmed babies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRXlXdnlGcGRZM0dOUkRyYjc4UWt5aFJ2TTRXYWliWmgzaEtBcGlIQmh4NDdoeWpHMlZvNUFDRHl1T0E1cnZmSUJxMzgtem8yM3YxVHg2TmFBRGFq?oc=5)
-
-2026-08-11 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRXlXdnlGcGRZM0dOUkRyYjc4UWt5aFJ2TTRXYWliWmgzaEtBcGlIQmh4NDdoeWpHMlZvNUFDRHl1T0E1cnZmSUJxMzgtem8yM3YxVHg2TmFBRGFq?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmtFUnZyWmdKZVBISHhKV3VaaEtrWHp5OFdWbjR3UTE5c3JDdVRlbWdCQTNoRVoweVpSOGhrMHFBRXpZMk1aOHBpam1ZemxCZGZkc295TWZrUEo0WDhlclVKUWx4cTkzQmQwa2ZIUmFQQ0FUSTRfWnRfTlRDbllRMlJISHA4WV9JOHdSS0o1NjhQVllackh2YXJSQ0tGUFJLTHJNaUZ1aTUzZV9ub1ZR?oc=5)
 
 ---
 
@@ -182,11 +206,27 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [The Yoga Class To Lemur Herpes Pipeline Is Real, And Scientists Are Not Happy About It - Bored Panda](https://news.google.com/rss/articles/CBMickFVX3lxTE5DVU82SWZDU0VmZ1IwQzVIMm0tUndoTmFOYU9nSnI1cjhrZDVfV0s4SGdCYmtCTW1KZkoySWRqdWlRZncxMEU1X2xIVXBPSTczY2IwOGVYUVhwZzBtUGJialFldGZsNjlDRGJqdWZOdWVBUQ?oc=5)
+
+2026-08-11 <span class="news-indication-tag">AF</span>
+
+來源：[Bored Panda](https://news.google.com/rss/articles/CBMickFVX3lxTE5DVU82SWZDU0VmZ1IwQzVIMm0tUndoTmFOYU9nSnI1cjhrZDVfV0s4SGdCYmtCTW1KZkoySWRqdWlRZncxMEU1X2xIVXBPSTczY2IwOGVYUVhwZzBtUGJialFldGZsNjlDRGJqdWZOdWVBUQ?oc=5)
+
+---
+
 ### [Mücken wählen ihre Opfer gezielt aus – jede Art nutzt dabei andere Signale auf Ihrer Haut](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWNSMU9uVDVxQk1FZFBqVjJGOWlxNENpbVJRMlYxMXI2RktBRTN4dDBZWmZKblRHN0h0SklFcXNDR1JKUzYyNFJRR3ZmYzRNdnA2SDZNRUlXVlVScmJJdUhXLUNvTHFORV9hdFJpWDZua05EcEZaci1SNVFmRzRCNU91UUFzNUl3MEJ1enZzSHFZVDhWRURsSW0xXzVYekRhand1YXpHNHZweVVURUhRcVhZazVBWk1xMndxTlZLc29vX0JSNUlMbk1VOA?oc=5)
 
 2026-08-11 <span class="news-indication-tag">AF</span>
 
 來源：[Kreiszeitung](https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWNSMU9uVDVxQk1FZFBqVjJGOWlxNENpbVJRMlYxMXI2RktBRTN4dDBZWmZKblRHN0h0SklFcXNDR1JKUzYyNFJRR3ZmYzRNdnA2SDZNRUlXVlVScmJJdUhXLUNvTHFORV9hdFJpWDZua05EcEZaci1SNVFmRzRCNU91UUFzNUl3MEJ1enZzSHFZVDhWRURsSW0xXzVYekRhand1YXpHNHZweVVURUhRcVhZazVBWk1xMndxTlZLc29vX0JSNUlMbk1VOA?oc=5)
+
+---
+
+### [El estrés en la infancia deja una cicatriz en las células del cerebro que aumenta la vulnerabilidad al estrés de adulto - Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxPYW5kdWs2dGVteUxLLUtobUNRVkdoMUtDbjY3UlBHRVdaWDlnUEQ0NG54c3BEYVZMTk12V1hLWG9nMGhYYkNmNzQ1Ql9vanczcW0yeHBhOFhrb0RMcHpCS2pNMjM1RlNRQXp2QjFXd19rM3F3MWdOeGdUT3d4a00yOTVYeTQyRm9weEJpb0ZyYVkzVTFlU05WXzR6QVp6eUVWajRKai04dlVaUmRLRUdxbTc0d2x2Ynh6ZW1HemlfaEJLN1lFMzV5YU1MZmFDcDcyVFFGT2lscFNGTWlRMUZwNy1QZl9EMWt2a2dycXN4Rkd5V2hsZzJfb25CXzctZElEcGhrREZYb9IBhwJBVV95cUxPM0xEZnlxUmNBT1BfLTFFYU1IamhXaXJmb3dqQ19sSWx0dWRTdFdwb2pvc0JUNXZJaEtyQVVNVzYxbkRlVW4tVWl4VGNEbjlqa1ZzVklSUE5lQ3NHMGNuMTdndlhFZm1VVUl4ZG9DbFlvNENXdmdpenI1UlpLVWxlY0NWVnBGNGp3aU9MN3JsRXdRQmo4TmNXblZWZVJ6OENLaGt4bzdWRzM4RXdTNFpsb0Ztb3lUcTIyTVcxSVBtT2RyaC1UWFlfeUpHMTExN1dqaFFwY2Nrc01ReVAtbURzQjRseDN2amFYVFBxanhRdXlqcloxRUh0ZF9wVnVaMVFRVUJsd2hENA?oc=5)
+
+2026-08-11 <span class="news-indication-tag">AF</span>
+
+來源：[Onda Cero](https://news.google.com/rss/articles/CBMihwJBVV95cUxPYW5kdWs2dGVteUxLLUtobUNRVkdoMUtDbjY3UlBHRVdaWDlnUEQ0NG54c3BEYVZMTk12V1hLWG9nMGhYYkNmNzQ1Ql9vanczcW0yeHBhOFhrb0RMcHpCS2pNMjM1RlNRQXp2QjFXd19rM3F3MWdOeGdUT3d4a00yOTVYeTQyRm9weEJpb0ZyYVkzVTFlU05WXzR6QVp6eUVWajRKai04dlVaUmRLRUdxbTc0d2x2Ynh6ZW1HemlfaEJLN1lFMzV5YU1MZmFDcDcyVFFGT2lscFNGTWlRMUZwNy1QZl9EMWt2a2dycXN4Rkd5V2hsZzJfb25CXzctZElEcGhrREZYb9IBhwJBVV95cUxPM0xEZnlxUmNBT1BfLTFFYU1IamhXaXJmb3dqQ19sSWx0dWRTdFdwb2pvc0JUNXZJaEtyQVVNVzYxbkRlVW4tVWl4VGNEbjlqa1ZzVklSUE5lQ3NHMGNuMTdndlhFZm1VVUl4ZG9DbFlvNENXdmdpenI1UlpLVWxlY0NWVnBGNGp3aU9MN3JsRXdRQmo4TmNXblZWZVJ6OENLaGt4bzdWRzM4RXdTNFpsb0Ztb3lUcTIyTVcxSVBtT2RyaC1UWFlfeUpHMTExN1dqaFFwY2Nrc01ReVAtbURzQjRseDN2amFYVFBxanhRdXlqcloxRUh0ZF9wVnVaMVFRVUJsd2hENA?oc=5)
 
 ---
 
@@ -198,6 +238,14 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [A Dietitian Explains If Eating Bay Leaf Is Good for Your Cholesterol - Verywell Health](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qQU5jaHJjN2laUVJIaHg0aGhfZTNjdi14X1RGa2NPQXBjSGJFOE95YUdvbDNqX0pnLTNLeFpEYVdRY0VKM01Ja3BVQkJ3SmlLWG1wajR6eFNmNlJJMzJRTFhFaGh4Q1NLVm1TZw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">AF</span>
+
+來源：[Verywell Health](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qQU5jaHJjN2laUVJIaHg0aGhfZTNjdi14X1RGa2NPQXBjSGJFOE95YUdvbDNqX0pnLTNLeFpEYVdRY0VKM01Ja3BVQkJ3SmlLWG1wajR6eFNmNlJJMzJRTFhFaGh4Q1NLVm1TZw?oc=5)
+
+---
+
 ### [‘Gym penis’ – what it means and whether it’s actually a real thing](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
 
 2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -206,27 +254,11 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
-### [Cómo el estrés puede afectar al microbioma intestinal, según recientes estudios](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVZScW5ZTzEtZ0tLSzlFSDdFTlVpeHlfbW5BVlBMUGhabzNYbEtic1BOaDZCQlpYdTg2R2Mtemp1R0JCbTBKclBYektSUVpOcV9Vb2N3dzRxR3FWVzlWWkJXZ3FUczFhWVZmLUNuVjJzYl9YY2pDaVBsZEdWajdHTURqcC1DbXRlSXoyVk5lcktpcDJlRXVKaDZZUFRaUHBmNHpPMzBCc1pNSEtkemprMnBCRUNSLV81eGljUtIB1wFBVV95cUxONXJYbnQ0d09QaGtBaThjTHphSzlUR2tiRTIzVlczeG9JVXZpWDFQOVNOcE5jeG1DV3RQV01pYl83MkEzcGRqR2N2dmNvTUIwajJ2dTZLdlNwRnBpbkZma1F0UmNzcG00ZnFhTHlYTDM4R29nSU5UQ2Z2d0txRWFyZlFnaE4ya1g3RjFtU0dicUpyZHVxVXF1Nm9BN0hkeWI4aWctckZNcGE3TlpCWlZ0WGRseVh1cFFucFNSRzNvR2hJcDI0THlyalpiWFE2aXh2cVdSS1FIYw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[Infobae](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVZScW5ZTzEtZ0tLSzlFSDdFTlVpeHlfbW5BVlBMUGhabzNYbEtic1BOaDZCQlpYdTg2R2Mtemp1R0JCbTBKclBYektSUVpOcV9Vb2N3dzRxR3FWVzlWWkJXZ3FUczFhWVZmLUNuVjJzYl9YY2pDaVBsZEdWajdHTURqcC1DbXRlSXoyVk5lcktpcDJlRXVKaDZZUFRaUHBmNHpPMzBCc1pNSEtkemprMnBCRUNSLV81eGljUtIB1wFBVV95cUxONXJYbnQ0d09QaGtBaThjTHphSzlUR2tiRTIzVlczeG9JVXZpWDFQOVNOcE5jeG1DV3RQV01pYl83MkEzcGRqR2N2dmNvTUIwajJ2dTZLdlNwRnBpbkZma1F0UmNzcG00ZnFhTHlYTDM4R29nSU5UQ2Z2d0txRWFyZlFnaE4ya1g3RjFtU0dicUpyZHVxVXF1Nm9BN0hkeWI4aWctckZNcGE3TlpCWlZ0WGRseVh1cFFucFNSRzNvR2hJcDI0THlyalpiWFE2aXh2cVdSS1FIYw?oc=5)
-
----
-
 ### [A Week-Long Meditation Retreat Produced Psychedelic-Like Brain Changes, Study Finds](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnFJMWs1QUZHTFZxOExxSlhzR2dWakg5RWJNOEJ3clBDSGFEaW9tQVlpT2szaDZmOG9PUHhPLVRwdkRsSWhRbmlzUHo5clJvUkUxck1QVWl5WFhZeVNyM3NZZzk5Y05ocWJ6TDRqZFhTa3VwejBCbFQ1YndQSGtwVGM1UXVXUWd3VTdqdjgtNTkzUEhIdkE?oc=5)
 
-2026-08-11 <span class="news-indication-tag">AF</span>
+2026-08-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-來源：[ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnFJMWs1QUZHTFZxOExxSlhzR2dWakg5RWJNOEJ3clBDSGFEaW9tQVlpT2szaDZmOG9PUHhPLVRwdkRsSWhRbmlzUHo5clJvUkUxck1QVWl5WFhZeVNyM3NZZzk5Y05ocWJ6TDRqZFhTa3VwejBCbFQ1YndQSGtwVGM1UXVXUWd3VTdqdjgtNTkzUEhIdkE?oc=5)
-
----
-
-### [Caldo estremo e solitudine: doppio pericolo per gli anziani](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1hCek12WGRPUjNVSnp4QTBzUWhwUlJ4aHh3ZXFsQk00X1lVZFo5OTZhMFZWdnNSVWg5RlJhSzdhUlhwZXFDUjlZTDBfT2RwZF90d1dmT0VRMWxseHZBRjBzY3JNckVuWHhYSTZRYk5YdDJteVFOX2VBeGtZOWVFcGZyYkpoZ3oyZ1VNdHdGa25wQmt1cmhQVXU0MGpJQmRPUWhRdzlVb21zWndGUERhazFwNkMycmNMUmd30gHAAUFVX3lxTE5DOE95ajNjcjZ4SlZtaFRPMkZodjhFMXhGRWFMb1ZFclJ6ZWViTTJXRXJzZHFLZWZ6NXNtN0Zud1ZjMlVGNFhkUjFpZk4xeU5rMzliMVZ1YUFoejFqTU1FMHRvc1g3cVRYeHcxRFkyNEdKRXBWNEdwd3NYNGdmMzlPOFFfMXVOZW9FbTdqM1ByZDNPcFU2ZEdKdzNzYXJFbVp0cTRGRllJek0wVzRMMnJqZGtqZm5qVUxmV1pQOXpmaw?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[L'Arena](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1hCek12WGRPUjNVSnp4QTBzUWhwUlJ4aHh3ZXFsQk00X1lVZFo5OTZhMFZWdnNSVWg5RlJhSzdhUlhwZXFDUjlZTDBfT2RwZF90d1dmT0VRMWxseHZBRjBzY3JNckVuWHhYSTZRYk5YdDJteVFOX2VBeGtZOWVFcGZyYkpoZ3oyZ1VNdHdGa25wQmt1cmhQVXU0MGpJQmRPUWhRdzlVb21zWndGUERhazFwNkMycmNMUmd30gHAAUFVX3lxTE5DOE95ajNjcjZ4SlZtaFRPMkZodjhFMXhGRWFMb1ZFclJ6ZWViTTJXRXJzZHFLZWZ6NXNtN0Zud1ZjMlVGNFhkUjFpZk4xeU5rMzliMVZ1YUFoejFqTU1FMHRvc1g3cVRYeHcxRFkyNEdKRXBWNEdwd3NYNGdmMzlPOFFfMXVOZW9FbTdqM1ByZDNPcFU2ZEdKdzNzYXJFbVp0cTRGRllJek0wVzRMMnJqZGtqZm5qVUxmV1pQOXpmaw?oc=5)
+來源：[sciencealert.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnFJMWs1QUZHTFZxOExxSlhzR2dWakg5RWJNOEJ3clBDSGFEaW9tQVlpT2szaDZmOG9PUHhPLVRwdkRsSWhRbmlzUHo5clJvUkUxck1QVWl5WFhZeVNyM3NZZzk5Y05ocWJ6TDRqZFhTa3VwejBCbFQ1YndQSGtwVGM1UXVXUWd3VTdqdjgtNTkzUEhIdkE?oc=5)
 
 ---
 
@@ -235,22 +267,6 @@ permalink: /news/cetrorelix-as-acetate/
 2026-08-11 <span class="news-indication-tag">AF</span>
 
 來源：[Daily Express](https://news.google.com/rss/articles/CBMikgFBVV95cUxQczFIYVVObEdUWHNWRWdfa2VUSXZsT1VMUkZDVUFhMHI1TGcySkhOYkJITkQtc0RkMmdDTGFVNlV1OW9sVUV4blRzNzNjQnFXeTIyQk85SXVLWXNfQmFRUVBvOG5mNGxfYVJ6MzM5bXBZQ1RIVnA4V1FTOV9uRTFXQ1FsVVNQZmI0c0Z1VExfMnRfQdIBlwFBVV95cUxNc3g5UjBNb1FvbkQ1MkhIU1FfQnF0UnRjOXA3Wkc1UjAwc1dyZ3pmdW1naVlDSmRwUnQxTm5VQkgtNkl3M3VYYmotczlJNGduNTlFaGx2d2FSNlBNb0dFa2diVG85OEVmdFhZTXdLZVIzX1JpUGs0UGZyWUt5UjhMVjRrR3FGSk5pMXhQOWYwekIyOVZ4Y1Rj?oc=5)
-
----
-
-### [Sh2-155 - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMic0FVX3lxTFBURG5BeXhtcW9MUHBnRnd4LXBWeDRYWlpkdE5oY180dEpVUGdSQV9mdm5aNVBoT1pWT2Vha0dDM1F3RkRqekNOZGEyWHViWEFIOWF6M1hjNDZTcGstLVk1NTJJN0VLbkR3aUVNMHlwWFoxWTQ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMic0FVX3lxTFBURG5BeXhtcW9MUHBnRnd4LXBWeDRYWlpkdE5oY180dEpVUGdSQV9mdm5aNVBoT1pWT2Vha0dDM1F3RkRqekNOZGEyWHViWEFIOWF6M1hjNDZTcGstLVk1NTJJN0VLbkR3aUVNMHlwWFoxWTQ?oc=5)
-
----
-
-### [DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWE5wQ1U1TUdVM2h0MnhnSnNBeEkwYTA4ZzRuOFgzeF93UFVVNzFSYmN6dnBmXy1sblFTeHI4WHN0U2p4ZFNURUhzMG1KWVNwTkhJOEFYM09xUldQNW82NE5QcXhMRnY5VmZDdTBUNFFiQ2NtNW5Ba040MjV4V0w5eHBmczJfZGpNS19ZbkVvVnNnZjdiNTZKWFBPMjNvMTBsZGk5M0RoZzY4Mmw0NUozX1hPb9IBuAFBVV95cUxOOHdMRjVMamllSVhCU0VPTWw4MmdYOUMwQS1KM3liSGEzT3NjNmUxVVdzQkhjWHVVOFkwNDFVOFpidV9weTN2c09aZndpNUxZcXl0NFJMU1QyNVV2ZzRVa0Y2M1VTbXRfSWNRZkZ1QW5yQkUzWVBpZkhCNjBnZjBNQlpadV9Sd1M4ZWVOSGVSb1RhXzhwTXQ0bEdtTlNfLWxkc0d2LWRNZlYwNWtqM1JvMkVwVHB5cVpZ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">AF</span>
-
-來源：[Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWE5wQ1U1TUdVM2h0MnhnSnNBeEkwYTA4ZzRuOFgzeF93UFVVNzFSYmN6dnBmXy1sblFTeHI4WHN0U2p4ZFNURUhzMG1KWVNwTkhJOEFYM09xUldQNW82NE5QcXhMRnY5VmZDdTBUNFFiQ2NtNW5Ba040MjV4V0w5eHBmczJfZGpNS19ZbkVvVnNnZjdiNTZKWFBPMjNvMTBsZGk5M0RoZzY4Mmw0NUozX1hPb9IBuAFBVV95cUxOOHdMRjVMamllSVhCU0VPTWw4MmdYOUMwQS1KM3liSGEzT3NjNmUxVVdzQkhjWHVVOFkwNDFVOFpidV9weTN2c09aZndpNUxZcXl0NFJMU1QyNVV2ZzRVa0Y2M1VTbXRfSWNRZkZ1QW5yQkUzWVBpZkhCNjBnZjBNQlpadV9Sd1M4ZWVOSGVSb1RhXzhwTXQ0bEdtTlNfLWxkc0d2LWRNZlYwNWtqM1JvMkVwVHB5cVpZ?oc=5)
 
 ---
 
@@ -270,43 +286,19 @@ permalink: /news/cetrorelix-as-acetate/
 
 ---
 
+### [¿Por qué hay personas a las que el estrés no les afecta tanto? - National Geographic España](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnVvZmNyNjFtemF1cW84eTc1Umd2eXQ3eFQ1cjh4YUp4ZjA1ekxCMUxNOHlyTHRaTHBQSkJfdE9sTi11UzZqUjBBZ200LTNoa0JiN2lGU0xZN1RmaDNrM1NSMXd0dDA5NDUwblNZbjQ4RkNhX0E4bmZxdjFNTy1xSEVoeXNLV2xVdm10eW04bFk2QnlJQi1UUjJuUzZWVVlrNUlDQVRWU29fTlpFZnVXSnFpVWRoSHBVbE9odDRR?oc=5)
+
+2026-08-11 <span class="news-indication-tag">AF</span>
+
+來源：[National Geographic España](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnVvZmNyNjFtemF1cW84eTc1Umd2eXQ3eFQ1cjh4YUp4ZjA1ekxCMUxNOHlyTHRaTHBQSkJfdE9sTi11UzZqUjBBZ200LTNoa0JiN2lGU0xZN1RmaDNrM1NSMXd0dDA5NDUwblNZbjQ4RkNhX0E4bmZxdjFNTy1xSEVoeXNLV2xVdm10eW04bFk2QnlJQi1UUjJuUzZWVVlrNUlDQVRWU29fTlpFZnVXSnFpVWRoSHBVbE9odDRR?oc=5)
+
+---
+
 ### [Daughter almost died after 'holiday stomach bug' turned out to be deadly illness - The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUtHdmVvMThZLUVpVFhyTEdwVVIyeXBVN0szb1FESGs4NEJvcGdSNDk5S1ZpWEx6RTFET1BzSnpkWnlZRDhvS0lXQko3V2UzWDR0N0xtelNrZTlYak16STRTX0lxSlNxYmNNZ3YtR2FMeUN0d1ktQmpFZExMNFNFRlIxaE1ScFXSAYwBQVVfeXFMTmg3c3o3ME12cTQtSEtuTVBJREJDRlFzdTRkTVFJVk9KTHdPREN3VF9uYjNESWEtTEtlNlJFQ0lFN0ttY1ctazhNTjdrSFlVaHZ2TzI4NE9ySDE1c20ydFp5NVNXVEZ0U2J3UjlLVjRGSEdOMkFTUWlnRGdSMjBYSTQ3R1ozaklIZlJIdVM?oc=5)
 
 2026-08-11 <span class="news-indication-tag">AF</span>
 
 來源：[The Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYUtHdmVvMThZLUVpVFhyTEdwVVIyeXBVN0szb1FESGs4NEJvcGdSNDk5S1ZpWEx6RTFET1BzSnpkWnlZRDhvS0lXQko3V2UzWDR0N0xtelNrZTlYak16STRTX0lxSlNxYmNNZ3YtR2FMeUN0d1ktQmpFZExMNFNFRlIxaE1ScFXSAYwBQVVfeXFMTmg3c3o3ME12cTQtSEtuTVBJREJDRlFzdTRkTVFJVk9KTHdPREN3VF9uYjNESWEtTEtlNlJFQ0lFN0ttY1ctazhNTjdrSFlVaHZ2TzI4NE9ySDE1c20ydFp5NVNXVEZ0U2J3UjlLVjRGSEdOMkFTUWlnRGdSMjBYSTQ3R1ozaklIZlJIdVM?oc=5)
-
----
-
-### [‘Safe, quick and painless’: what is a DXA scan, and do you need one for bone health?](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9WU1lLOFRyb1BrVklIVjNOZ3lZQWhkc2hTbGRYMjhOQXBSeUNiTmhjU09EOUF6Yk1jenRBcDMtc1pqRlNkRlVJY0dyZTVUMGIzd1V0djNUVzBsOGUwamxLTnJneTZCOUUzZU4zeFVkYmttRWJsWFE?oc=5)
-
----
-
-### [My little girl, 4, had chickenpox - six months later it triggered a stroke leaving her unable to eat or speak - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
-
-2026-08-10 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-來源：[The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
-
----
-
-### [Caffè, tè verde o orzo? Benefici a confronto, dal cuore al cervello: ecco quale scegliere](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRURqa1JneFlSWTl6eWFkVXF0cnhrd1JfSU1hU0RJMHFyN0pRNkVvUWdvMWZfR0xnd1haRm1Tb1lZTTZSVWpCdk9PNkU3MU14dkphb0lIQnB4SjJpekd6TjRoTzhJaHJLbkVoV0xzR2pDN2xHQmNacnFBSHpEbVpMMi1zRVMwdHdzdFFDMlpmNkpDWUhzWjEyTVh3U01JblJLaHFjSGFGaEJjMmVxT3R1WDZ1bWpmQlFWdGpXVjhVeTVvRV9PSEhEcS1PSjZmei1uRmc?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRURqa1JneFlSWTl6eWFkVXF0cnhrd1JfSU1hU0RJMHFyN0pRNkVvUWdvMWZfR0xnd1haRm1Tb1lZTTZSVWpCdk9PNkU3MU14dkphb0lIQnB4SjJpekd6TjRoTzhJaHJLbkVoV0xzR2pDN2xHQmNacnFBSHpEbVpMMi1zRVMwdHdzdFFDMlpmNkpDWUhzWjEyTVh3U01JblJLaHFjSGFGaEJjMmVxT3R1WDZ1bWpmQlFWdGpXVjhVeTVvRV9PSEhEcS1PSjZmei1uRmc?oc=5)
-
----
-
-### [Sexsomnie: Schlafender Beischlaf](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlZwTlZaV3dNaXhURS1fTG9hY2JDQUg0ZXlNb0R6SUFuRV9DR1dQVy04eEJ0Y2NNSVU2YVFHbmtUelhDSDY1N1l1ZnlBa3NSeFVKMTNqU0pTTGZIZkFtMExhV2ktZUk4dW5tbDZNcHY3X2oxVTQ5VVpuRlJUelVhOG9oYjlhVVhs?oc=5)
-
-2026-08-10 <span class="news-indication-tag">AF</span>
-
-來源：[doccheck.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlZwTlZaV3dNaXhURS1fTG9hY2JDQUg0ZXlNb0R6SUFuRV9DR1dQVy04eEJ0Y2NNSVU2YVFHbmtUelhDSDY1N1l1ZnlBa3NSeFVKMTNqU0pTTGZIZkFtMExhV2ktZUk4dW5tbDZNcHY3X2oxVTQ5VVpuRlJUelVhOG9oYjlhVVhs?oc=5)
 
 ---
 

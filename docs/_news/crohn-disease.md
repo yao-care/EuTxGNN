@@ -31,11 +31,11 @@ permalink: /news/crohn-disease/
 
 ## 相關新聞（1 則）
 
-### [Morbus Crohn: Frühe Diagnose entscheidend für Langzeitverlauf](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
+### [Morbus Crohn: Frühe Diagnose entscheidend für Langzeitverlauf - AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
 
 2026-08-12
 
-來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Epilepsie（epilepsy） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Epilepsie（epilepsy） 的相關健康新聞報導。2 則新聞、10 個相關藥物。"
+description: "Epilepsie（epilepsy） 的相關健康新聞報導。1 則新聞、10 個相關藥物。"
 permalink: /news/epilepsy/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epilepsy/
 ---
 
 <p class="key-answer" data-question="Epilepsie（epilepsy） 有什麼相關新聞？">
-<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>2 則</strong>相關新聞報導，10 個相關藥物。
+<strong>Epilepsie（epilepsy）</strong> 目前有 <strong>1 則</strong>相關新聞報導，10 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -38,15 +38,7 @@ permalink: /news/epilepsy/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### ['Women feel guilt and anger' after taking epilepsy drug that harmed babies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRXlXdnlGcGRZM0dOUkRyYjc4UWt5aFJ2TTRXYWliWmgzaEtBcGlIQmh4NDdoeWpHMlZvNUFDRHl1T0E1cnZmSUJxMzgtem8yM3YxVHg2TmFBRGFq?oc=5)
-
-2026-08-11
-
-來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRXlXdnlGcGRZM0dOUkRyYjc4UWt5aFJ2TTRXYWliWmgzaEtBcGlIQmh4NDdoeWpHMlZvNUFDRHl1T0E1cnZmSUJxMzgtem8yM3YxVHg2TmFBRGFq?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [SCN2A-assoziierte Epilepsie: Personalisierte Antisense-Therapie senkt Anfallsfrequenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjlObm5IVDdPdTIwY0puWmJGaG9DLVc2aEdrWDVhWmVxbnVaSTFONXg1SzEyVnphT2xrdDZDSmpUeWNsV05fODVfa0pjeWdlZEd6djdIMVB6bXczWUhUVllobkRsZVV5alI5UUtja2FjU1lHbXFxTTA0dk1lMXlyTThIR01yRndxRzJmM0RvcW1VSlFvVkYwUzFLT3lRbmFQUmlNeUZoQXhLWWVXUXptQVNON3o5U0Q2VG0xRzZsZUdSd2lsejdNbmF0bVN6YnRVakJvWEQteWhvLUVPdHVWVjhLeUFyQmZn?oc=5)
 
