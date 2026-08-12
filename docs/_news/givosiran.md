@@ -54,27 +54,19 @@ permalink: /news/givosiran/
 
 ## 相關新聞（6 則）
 
+### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+---
+
 ### [England ist auf dem besten Weg, eines der ersten Länder zu werden, in denen Hepatitis C ausgerottet wird - Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
 
 2026-08-11 <span class="news-indication-tag">hepatitis</span>
 
 來源：[Gamereactor DE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEYzS1VCSDl4c2ZvQWdUOVgwWEluSmxlX3I4N3J0bVFCS1VaR3BQZXo4WWEwYjVucXh0WDczdmdQUEx4V1BweC1WZVBpZ2owSXR3VWM3QURad1F6S0NEenFreUY0cUxhblN4aVYxSllDajBZUEVQcDFhaUlPTkItNXcyUGtOakNlTWZVcnRvbzM5Z1EzQk8wSkFKdXUtcjlBS1hRWWR1WWRObmRmZWdnS0VOOXU4SzBSdGZuTWx3?oc=5)
-
----
-
-### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">Bluthochdruck</span>
-
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
-
----
-
-### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
 
 ---
 
@@ -99,6 +91,14 @@ permalink: /news/givosiran/
 2026-08-10 <span class="news-indication-tag">epatite</span>
 
 來源：[La Nazione](https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFNZMi03eEh5T2ZUR2l4cW5lS05KNXRUWUtQUWlBbUNJb000T2t3aHozdW1LRW85aGVTTzJ1Y1pGUE5mVU5UdWNldWNXV2cwaTd3WFhNOXdWYTBUdGZVbVRZLWxULTNhT2NHUVdiRmxMcDBjT0k3WjVBa1FIMXZLc1BiNDJJdDB3emlmZWE0UHdNcDNBVnlZMkN1LWxlUFZRRDNvbDFRbkpxUzNmb1RqM0QxOUl5SkRMQm5PY3NKaTM0U3lTc1FmWm8wc0dVY1JnZkE3WW9yS0dYS2o5Q01CV2JjMkNkbHNldEx4ek1COTJfVDN2SndidlA3SGZjMzF2RmsxUThZa0FVckhL?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium empfohlen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
 
 ---
 

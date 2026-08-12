@@ -3,7 +3,7 @@ layout: default
 title: "diabetes（diabetes mellitus） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "diabetes（diabetes mellitus） 的相關健康新聞報導。10 則新聞、86 個相關藥物。"
+description: "diabetes（diabetes mellitus） 的相關健康新聞報導。11 則新聞、86 個相關藥物。"
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="diabetes（diabetes mellitus） 有什麼相關新聞？">
-<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>10 則</strong>相關新聞報導，86 個相關藥物。
+<strong>diabetes（diabetes mellitus）</strong> 目前有 <strong>11 則</strong>相關新聞報導，86 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ permalink: /news/diabetes-mellitus/
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
 ### [Mangelernährung und Dehydratation bei älteren Menschen mit Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFBnTDNtU0MwUGpnM21PUzRDR245Z3kwNENWY01KaklKeDNLVEoxRW0xSU4zV29MN1lmSHFhNnVERXBkNDVMZ2puZk9OWXViUWgzUjhacWxOVjVVMldGaG93MVQyLVZyMlk4ai1sR2xyTzVQdzIwME9IcUYyZG5TM09hQXRKeDlGMjR4ZTFad3R1bWRHa29IeVpxc2w4VUNjZ2tYSU5XN2h4QQ?oc=5)
 
@@ -124,11 +124,19 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+2026-08-11
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+---
+
 ### [Aurelio Rojas, cardiólogo, avisa: "Estas carnes aumentan enormemente el riesgo de enfermedades de corazón, diabetes y mortalidad"](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
 
 2026-08-11
 
-來源：[sport.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
+來源：[SPORT](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
 
 ---
 
@@ -137,14 +145,6 @@ permalink: /news/diabetes-mellitus/
 2026-08-11
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
-
----
-
-### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
-
-2026-08-11
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
 
 ---
 
@@ -172,6 +172,14 @@ permalink: /news/diabetes-mellitus/
 
 ---
 
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+2026-08-10
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
 ### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 2026-08-10
@@ -184,7 +192,7 @@ permalink: /news/diabetes-mellitus/
 
 2026-08-10
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 ---
 

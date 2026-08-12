@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="Tirzepatide 有什麼相關新聞？">
-<strong>Tirzepatide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Tirzepatide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/tirzepatide/
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [Coroner links teenage student’s death to weight-loss drug Mounjaro - The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVG1TY2NjNUZfTUtfcnB6aTEtOU1vRU1WQlN2R3hrcjRyNmthOE8ycjdVdEdkOTZzM1hmaXk5bW5ybmJReXZVTGhhWkpWdHNBN0hGaVdrcVJSZmx6QmZCeXVkdXV6a2dZUjY4eGk3VF80VnBueVNjc3kydGlqTFN3TmtYQ0NaRHRTZjBIWHJDZlY1eG5JRng5eThuNUhDckg5UV9HR29uX1A?oc=5)
+
+2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
+
+來源：[The Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVG1TY2NjNUZfTUtfcnB6aTEtOU1vRU1WQlN2R3hrcjRyNmthOE8ycjdVdEdkOTZzM1hmaXk5bW5ybmJReXZVTGhhWkpWdHNBN0hGaVdrcVJSZmx6QmZCeXVkdXV6a2dZUjY4eGk3VF80VnBueVNjc3kydGlqTFN3TmtYQ0NaRHRTZjBIWHJDZlY1eG5JRng5eThuNUhDckg5UV9HR29uX1A?oc=5)
+
+---
 
 ### [Adipositas-Medikament senkt Risiko für gefährliche Herz-Kreislauf-Erkrankungen und Infektionen deutlich - Deutsches Zentrum für Herz-Kreislauf-Forschung (DZHK)](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlRJMjllbXhiUlVkOE9TZFpBTi1COWwzQjVPQkx2engzUEplNjBpcjFLc09GMHVHNUV5V2FzRzdrRVJ6Y3Q4MG9TMVM0eE9rejRUNFUtWjBLN0JLUW5sQjRoaVRBT09iWUZyWWlKdjZfQlJ3a0t0TjlvVXNUTjR4UnlvSnJtMGlXaElkbHhxMFJyZDd0a2lNQ3ZneGN0a3RyX2MwQkRucnpSUUxndEstdmQyaTZnNkVBSEhOeGRzRmlHdEVzd0tXcFNDV2hpaVJFTTdNM3hEYWs1RmJWT19pdWxXWXlRdGlm?oc=5)
 
@@ -67,6 +75,14 @@ permalink: /news/tirzepatide/
 2026-08-11 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
 來源：[Infobae](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFRVTXUwN3F1eUhqVlY2SFlZTktKeFU3VV9YeVVXcTVmcUMyLXpfeHpjMDVGZ0M4QXFVUWhvNlpMYUZtdW9jOXBka1JkVDRYcldPdWk4X1VNYnJHWjlKOGtQYUk0OXJyU1kzX3NzQTROTHA5U3diMDdpOEJGU1hVMmZGUjVrcUU5MG9kMXFjTEFVcXdVNUJ5M1F4S01HX0FaSFFMQmhMVklRQ1V50gHHAUFVX3lxTE96LVUyTkdEd0p5bVpVT3BseEtwNUVlUnZUcHRoRnRPSW5WbTVEOXhoUnducHRqVmJYc3k3b0NRSVJHYmp2WUQzeGhMa0RCVVN2b3pyb0FialRaMlMyWWFEQlg2V2gzQ3FoXzZ0RUc5VFR0R2QyajZHSC1TaWl3b1VYQ19LckY4MHlveVdHT2wtdi1ZUGN4VlkzR0FkUjhRSHBjZXZWSUp2SDZhSGg0SlBkZThsMkhKQmxWMFdBdXl6cWZZQnlsNmc?oc=5)
+
+---
+
+### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+
+2026-08-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
 
 ---
 

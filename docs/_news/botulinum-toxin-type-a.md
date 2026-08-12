@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="Botulinum Toxin Type A 有什麼相關新聞？">
-<strong>Botulinum Toxin Type A</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Botulinum Toxin Type A</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/botulinum-toxin-type-a/
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [Los ultrasonidos focalizados mejoran un 53% la función motora en pacientes con enfermedad de Parkinson](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3ZoMTNJQk9JTzhxNFFSTHg3LXFFazI2emlXMFZxSTdRT0RLQXNOTFZrMWFqZmhiUzVGOWhQQmRzcFJFUW9ydDB3SS1uWl9jcE1qdHRRcnFRY29nOEQyR2h0MHZILVA3UE1OT2FaVDg3YjdkYUxpTGtjSXZTZldTdFpWdmg3amVCVGowOU1lS2ZvVkg4enN6UDVEQ21hemlVMEpKdlp6bFQ2czlyWEZJaXlwVXJhcXhsN2xCZG1ncjdDS0hGSDgtcUln?oc=5)
 
@@ -70,19 +70,11 @@ permalink: /news/botulinum-toxin-type-a/
 
 ---
 
-### [COPD-Ernährung: Neue Leitlinien setzen auf kleinere Mahlzeiten, Protein und Calcium - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
-
-2026-08-10 <span class="news-indication-tag">copd</span>
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
-
----
-
-### [Los expertos coinciden: "Las personas que son pelirrojas naturales tienen más riesgo de melanoma y de enfermedad de Parkinson, pero también toleran mejor el dolor" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFU?oc=5)
+### [Los expertos coinciden: "Las personas que son pelirrojas naturales tienen más riesgo de melanoma y de enfermedad de Parkinson, pero también toleran mejor el dolor" - Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFXSAZgCQVVfeXFMTUg5ZFV1b3VsUnNRSUg0TWdCSWxxalFIbkdLVGhLbnNBUU91NHdZdVV3aEtaTEhvZ2JwMzc5eG1hYU1RZWJxNXdha0hnNndod094TDRuODNELV9JZTdnS3BIMWd3X1ZLajFYSTdBSXNUMFlSR1VQN3BrdUJVWDZpUmtad3lXamJOR0VHRmI4akpMVWdwV016Qk1TbmhrcFN4SjBJZjNURTE0ZWgwY3lfcDVCYWUya0ptRlN6a25MMHFJVmlkeXZmR3VpVHhoMVpMdDU0VnFtMG5TYVlmYUJ0bjlnYU80WmxoSnppVVNBVlNrdENCU2FnUS1wQjNYN1JzUWpiUFJNMGFHTUpFc3h3U2szUi0xZHYyaw?oc=5)
 
 2026-08-10 <span class="news-indication-tag">enfermedad de Parkinson</span>
 
-來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFU?oc=5)
+來源：[Mundo Deportivo](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGh3dTZxTmpxcW0tTkVUbzBwcG1rNnNYZzZJSTZJbzhpSVFoX3E3c3lCbjBndTBLMTRreERlVF9laUFwSXl6U0lXcnJKVWhPTXB0cTVMNENkQUR5dFBsUjhXSlNzYkRiRTRCTDAxQkRPS2VYVExZQVVyeFBMWEdISUtiOW1CeW9abUdIaFhocE56YTYybHhNeUEwaHZiQkxSeHpwdE9qYXE2MWZRazVLSzJzOGg3cGpSVlhzVi1KdmtCYnNTN0dQOFFrUndJMTRHWTZfeFZMRzBOQUE4d3o2RU9Sa3NKX19YTmJ4VnNpcmh2OXBMSUFmRU1SNUR2M095TEUyeURKU05nbFXSAZgCQVVfeXFMTUg5ZFV1b3VsUnNRSUg0TWdCSWxxalFIbkdLVGhLbnNBUU91NHdZdVV3aEtaTEhvZ2JwMzc5eG1hYU1RZWJxNXdha0hnNndod094TDRuODNELV9JZTdnS3BIMWd3X1ZLajFYSTdBSXNUMFlSR1VQN3BrdUJVWDZpUmtad3lXamJOR0VHRmI4akpMVWdwV016Qk1TbmhrcFN4SjBJZjNURTE0ZWgwY3lfcDVCYWUya0ptRlN6a25MMHFJVmlkeXZmR3VpVHhoMVpMdDU0VnFtMG5TYVlmYUJ0bjlnYU80WmxoSnppVVNBVlNrdENCU2FnUS1wQjNYN1JzUWpiUFJNMGFHTUpFc3h3U2szUi0xZHYyaw?oc=5)
 
 ---
 

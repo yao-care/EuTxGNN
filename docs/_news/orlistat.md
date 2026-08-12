@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="Orlistat 有什麼相關新聞？">
-<strong>Orlistat</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Orlistat</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ permalink: /news/orlistat/
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
 
 ### [Ni la báscula, ni el índice de masa corporal revelan el riesgo cardiovascular oculto: “Al corazón le importa más tu cintura que tu peso” - Directo al Paladar](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGRmVjlSV3pJUjBJSF9aTzhJN0JOVUFLeUZ3cERYZlRscWt5Mlg4dU01SWt0TkhRUFItUENYSU1EOGVpQWN0VW5pNG40RURGWEs2Q3h5UE9OVkc0Zm9xMWQ1NTZITjY3dW1OSnZJY1Vaa3lGS0RvRktBbDlfak9xQWtmcWFqNFM2WVAyNGg2Z3gwTDBHMGppOFQtTW5ESFpWZ3pPRHJocVdvR3VEdGx4NGt1Rjl4eldpTkdtV2ZoMnk5WjVDenEtNTY1Y3lSSldwVHl6TWsxMlhGRGJxSXJTSmNTY9IB6AFBVV95cUxQZkxlSk42ZzJoeE5uNUNVQmxLaklTWFFWc0dKOXV6N3NmNFF4MERQUFJrT2FrOHZaLUo5cHNrTnY1U1FfVDU2T2g5eGJxMktkVnd0NDh3dFVkc3JXT2hKNFhSRGZlcHRsN1pnTnNySmtjZjAyeDFJd2NHMXh3R2pKQmh5WDJiZXpLbkp6QV9nVEtUdm93eVI1SGs1QmdkZTBHRUdoeTBHbDJPOUZ5LVVjYndPRnBDUDRsNFd3WmFZS2RObERxN0lYRVQ2cHNBNEtLTC1wSzJQMXJCRzdBWTlrNW1xWURzN2lY?oc=5)
 
@@ -64,7 +64,7 @@ permalink: /news/orlistat/
 
 ### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
-2026-08-11 <span class="news-indication-tag">obesity</span>
+2026-08-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
 來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
@@ -102,14 +102,6 @@ permalink: /news/orlistat/
 
 ---
 
-### [Adipositas-Therapie: FNIP1-Gen-Mutation senkt Erkrankungsrisiko um 60% - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFhiT01RbmtRVXAtMHRiSkhEcHRiQTRoZGRjY2I4b3R5T215a2RHd2xkQ3hVaWg2b09qcGlqZEJRRHgxWTQzRzBhS25Hek1GemY0Z1NYSnNrUUpEVU04Sjk0YmNOel9JYnVKTTg4ekg1NWdkU1FrMzN3c2VpSk1iRUR0WjI0akh0UkpaOFJzcFJrYk1hYXU4bkJIS3ZnNWJXdGtwU19tV0V6MDJmdHFoWGM3bGNQNVp3?oc=5)
-
-2026-08-10 <span class="news-indication-tag">Adipositas</span>
-
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFhiT01RbmtRVXAtMHRiSkhEcHRiQTRoZGRjY2I4b3R5T215a2RHd2xkQ3hVaWg2b09qcGlqZEJRRHgxWTQzRzBhS25Hek1GemY0Z1NYSnNrUUpEVU04Sjk0YmNOel9JYnVKTTg4ekg1NWdkU1FrMzN3c2VpSk1iRUR0WjI0akh0UkpaOFJzcFJrYk1hYXU4bkJIS3ZnNWJXdGtwU19tV0V6MDJmdHFoWGM3bGNQNVp3?oc=5)
-
----
-
 ### [My little girl, 4, had chickenpox - six months later it triggered a stroke leaving her unable to eat or speak - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzAydXR1eVBYUVZQOVljMGI5c05wdEV2T2ZUaGktOXpuOVMzTmkwZWpKSEJxUnBWUUdYWUo5VXhoNkZCdzZ6eHA0dEVpN2NyTnFzdDdqa3dxeUZqcEw1cGtMLU0xWll5OWMzcGdoTkZlX3BNaENzRUcyM0tkaGpHaTdNZng3dw?oc=5)
 
 2026-08-10 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -118,19 +110,19 @@ permalink: /news/orlistat/
 
 ---
 
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
 ### [How heatstroke kills – it can still be deadly after your body cools down - The Conversation](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2ZNNGN2REh6a0lDWDI0YnB6cFhmQmtxMkVJU0h3SGdZTHYydXFTaEdWa0l3ZTlGX1pZOHBheTRQZlZPRzI0SUNhSUwweDFsMXA2SFk2TTJwN3ZQRUJKdjRKdFhlNHJRTExxUzkyMmdlOEdKejJRWEJYdmg0YnJfN24wdWFHb1pJZnZkNDJrOTdmY2NxRmpyYkZtNkp2VWl3NWNjd1ZROGI?oc=5)
 
 2026-08-10 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 來源：[The Conversation](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2ZNNGN2REh6a0lDWDI0YnB6cFhmQmtxMkVJU0h3SGdZTHYydXFTaEdWa0l3ZTlGX1pZOHBheTRQZlZPRzI0SUNhSUwweDFsMXA2SFk2TTJwN3ZQRUJKdjRKdFhlNHJRTExxUzkyMmdlOEdKejJRWEJYdmg0YnJfN24wdWFHb1pJZnZkNDJrOTdmY2NxRmpyYkZtNkp2VWl3NWNjd1ZROGI?oc=5)
-
----
-
-### [Ceux qui se couchent à cette heure précise ont moins de risque d'avoir un AVC, selon la science - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
-
-2026-08-09 <span class="news-indication-tag">AVC</span>
-
-來源：[Journal des Femmes Santé](https://news.google.com/rss/articles/CBMiekFVX3lxTE9sb25MRWN1Vmo0eXlXbXN3UEtXbVBvbmwzRFJUdFhvSFFDa2ljRFBHNmR3ZlJkSngyMnY3a25MZGsxa1Y1V2xuVTgyRmZsM1JsbzEwMldQak9FVl93dmduV1dxcFp0UUNVRGdVd09ManpHM1NpMUkyVENR?oc=5)
 
 ---
 

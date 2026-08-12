@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="Lonafarnib 有什麼相關新聞？">
-<strong>Lonafarnib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Lonafarnib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/lonafarnib/
 <li>kyphoscoliotic heart disease（98.0%）</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（98.0%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（97.8%）</li>
-<li>heart disease（97.8%）</li>
+<li class="indication-matched">heart disease（97.8%）<span class="indication-tag">📰 heart failure</span></li>
 <li>multiple endocrine neoplasia（97.7%）</li>
 <li>Laubry-Pezzi syndrome（97.7%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（97.6%）</li>
@@ -52,21 +52,29 @@ permalink: /news/lonafarnib/
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [Beste Ernährung gegen Bluthochdruck: Diese Diät gilt als Goldstandard - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
-2026-08-11 <span class="news-indication-tag">Bluthochdruck</span>
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
 
-來源：[Hamburger Abendblatt](https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTk3SDJBRVJPemFOMlUxM0VFQVFONmg3cmxpS3dITHFGZWhCTmtSajBiWXJNUXJfZHllTldPX3g1TnhNR0hhWG5NTXBxR3dwbE1ZZEVfU243NXFfWjBTY0NDaXNtZWo4WER4MXVBczl0azV1S2d4VjJBMG5Pem9IYlllbzhNa21jRVBMT0cyOUxMQWNWVC1hdmF2dFgweWtLS0FsSjZaSjZ4WTdEdUxLZUsxMER6QQ?oc=5)
+來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
 ---
 
-### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+### [How healthy is coffee, really? - Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
 
-2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-08-11 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
 
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
+來源：[Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
+
+---
+
+### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+
+2026-08-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
 
 ---
 
@@ -75,6 +83,14 @@ permalink: /news/lonafarnib/
 2026-08-10 <span class="news-indication-tag">arthritis</span>
 
 來源：[Health News Hub](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWZTOWJCdGloN1VLLXZRZXdfMG5MVTVzeGQ3aGxRZVZINnIyVHVzOGRnSWg3a25remVyOHJGdUFOc1JXWkp4b1E0UFU2blNfdjdmZFloUVRweXRISEw1bFlsazhIdG5iU3NjcGxwQ2pHaEtlSVdzOE1zdHVpZUVidkdGTlBLekts?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium empfohlen](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">Bluthochdruck</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUdYdmVVQi1qRUVzNkRsLUppZTM4WnJIM3lsckU0S09jeVF0Q2xVcHp0cm5USy04MGQxV0hHRTZ5cndSVFBwYnA5czh6SEw3Y0d1VWE3dERHRG1WS3FNMkU5OTQzN3VpTE92bE0tcVlRTDkwMUNpMXljXzZvOWFyRmJIYmFiU2VHNWxYZVJ3Z1BOMlBBaGN0ZnFwYWk0QUFMa0ZYQjBtclNxdkNSd3lIMw?oc=5)
 
 ---
 

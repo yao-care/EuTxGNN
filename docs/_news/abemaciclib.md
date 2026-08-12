@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="Abemaciclib 有什麼相關新聞？">
-<strong>Abemaciclib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Abemaciclib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ permalink: /news/abemaciclib/
 <li>multiple endocrine neoplasia（97.1%）</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（96.9%）</li>
 <li>homozygous familial hypercholesterolemia（96.6%）</li>
-<li>heart disease（96.3%）</li>
+<li class="indication-matched">heart disease（96.3%）<span class="indication-tag">📰 heart failure</span></li>
 <li>Laubry-Pezzi syndrome（96.3%）</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly（96.3%）</li>
 <li>Jeune syndrome situs inversus（96.2%）</li>
@@ -52,7 +52,23 @@ permalink: /news/abemaciclib/
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [How healthy is coffee, really? - Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
+
+2026-08-11 <span class="news-indication-tag">heart failure</span> <span class="news-indication-tag">AF</span>
+
+來源：[Scientific American](https://news.google.com/rss/articles/CBMirwFBVV95cUxQNWJzeEE5VWhQUDFVNFo3MWlyS2tLcGtpdEhmbXJwQW9fYVFpWUVWaklZQkM5aV9LY044UDRXY3otUjNQWWxQTkd3SV9RbnExeUdxQXFrMjJnYzRTamZSZHBzZ013d2tDY2dyaUg5SGJyN20yczRCYy0tTWIzeW9yeUtwM1pWaDhlXy1VWU5WUnRPemFqYmNsZUhYRVVOU19tNFFTejFRSm50V250eHI4?oc=5)
+
+---
+
+### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+
+2026-08-11 <span class="news-indication-tag">arthritis</span>
+
+來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+
+---
 
 ### [What Helps Knee Pain? 5 Tips From an Orthopedic Surgeon - Health News Hub](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWZTOWJCdGloN1VLLXZRZXdfMG5MVTVzeGQ3aGxRZVZINnIyVHVzOGRnSWg3a25remVyOHJGdUFOc1JXWkp4b1E0UFU2blNfdjdmZFloUVRweXRISEw1bFlsazhIdG5iU3NjcGxwQ2pHaEtlSVdzOE1zdHVpZUVidkdGTlBLekts?oc=5)
 

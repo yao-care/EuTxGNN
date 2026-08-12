@@ -3,7 +3,7 @@ layout: default
 title: "EPOC（copd） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "EPOC（copd） 的相關健康新聞報導。2 則新聞、26 個相關藥物。"
+description: "EPOC（copd） 的相關健康新聞報導。1 則新聞、26 個相關藥物。"
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="EPOC（copd） 有什麼相關新聞？">
-<strong>EPOC（copd）</strong> 目前有 <strong>2 則</strong>相關新聞報導，26 個相關藥物。
+<strong>EPOC（copd）</strong> 目前有 <strong>1 則</strong>相關新聞報導，26 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ permalink: /news/copd/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [Faut-il vraiment croire au pouvoir du microbiote intestinal ? Ce que montrent les études sur le poids et l’alimentation](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
 
 2026-08-11
 
 來源：[RTL](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
-
----
-
-### [COPD-Ernährung: Neue Leitlinien setzen auf kleinere Mahlzeiten, Protein und Calcium - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
-
-2026-08-10
-
-來源：[it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXVCNEhiMzJLdUFTbjRjMEVVMENrUVBxVjZlM2szLUNMTFE4cGVUenRZQ28tdW1hT196UEJGcDhienVZVDhndExYclRCUjQ0XzFaRmxSSGVpenNtZGRnOWFzRDBwQXhYdGpIaWdrbW11VGZ0VEMyb1U1UGFBc2Q5d3AyYjBZMGVmbGx5YXVWWE5oNWlvSGc1bjdoT0M1VXQ2M29FTFUzUTdaV05LVXA1S29YU0o?oc=5)
 
 ---
 

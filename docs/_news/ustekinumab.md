@@ -14,7 +14,7 @@ permalink: /news/ustekinumab/
 ---
 
 <p class="key-answer" data-question="Ustekinumab 有什麼相關新聞？">
-<strong>Ustekinumab</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ustekinumab</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/ustekinumab/
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（100.0%）</li>
 <li>hydroa vacciniforme, familial（100.0%）</li>
 <li>severe nonproliferative diabetic retinopathy（100.0%）</li>
-<li>psoriasis（100.0%）</li>
+<li class="indication-matched">psoriasis（100.0%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>parapsoriasis（99.9%）</li>
 <li>pityriasis lichenoides（99.9%）</li>
 <li>acute lichenoid pityriasis（99.9%）</li>
@@ -52,7 +52,15 @@ permalink: /news/ustekinumab/
 <p><a href="{{ '/drugs/ustekinumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [Cómo tratar la psoriasis desde dentro - Libertad Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMzB5V0ExdHlmNDhpRHA2SXlpcjBCaDBmSWpPaFBtTFNEaTctWVliNUtxV1daSTRNYVRVUk1HcGRlalMydWZNS3lCaWJVdU16WV9wNFhQX2t6cXdOdFhhVVpJVk9EVFc2Q0Q0cml3NWhTVzRNMlUzd1EwRnpuZFhGVjNRbkZCTFBZSWVjRWZXdXZUOHJKeUFsZ0M1TXgzS19vU2RCN2E0Yjd0cVBDcHpsVHbSAb8BQVVfeXFMT0FrVVZGbE15YXpSS2tiNFg4YlZzTjBEbFZHRF84Q2FQeC1BYUhxZ1pWMDVpNGV3dUdLemNjcUpFRFVRNkI2RWNmX2hCWHFvMEtmMWZJWG9vTmhqem1wemoweWxvejI3NzNPLXFEYl9QMDNObjVwQ0tsYXNJSzllRG5QTWFfNmF3TU0wNm1fa2dUaE9xYkVPNkliSGh1NFM4N1M1cVVFc0RrUy1ob2RnMmFhNjdEVEYyRGw2VVVHbmc?oc=5)
+
+2026-08-11 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMzB5V0ExdHlmNDhpRHA2SXlpcjBCaDBmSWpPaFBtTFNEaTctWVliNUtxV1daSTRNYVRVUk1HcGRlalMydWZNS3lCaWJVdU16WV9wNFhQX2t6cXdOdFhhVVpJVk9EVFc2Q0Q0cml3NWhTVzRNMlUzd1EwRnpuZFhGVjNRbkZCTFBZSWVjRWZXdXZUOHJKeUFsZ0M1TXgzS19vU2RCN2E0Yjd0cVBDcHpsVHbSAb8BQVVfeXFMT0FrVVZGbE15YXpSS2tiNFg4YlZzTjBEbFZHRF84Q2FQeC1BYUhxZ1pWMDVpNGV3dUdLemNjcUpFRFVRNkI2RWNmX2hCWHFvMEtmMWZJWG9vTmhqem1wemoweWxvejI3NzNPLXFEYl9QMDNObjVwQ0tsYXNJSzllRG5QTWFfNmF3TU0wNm1fa2dUaE9xYkVPNkliSGh1NFM4N1M1cVVFc0RrUy1ob2RnMmFhNjdEVEYyRGw2VVVHbmc?oc=5)
+
+---
 
 ### [Mangelernährung und Dehydratation bei älteren Menschen mit Diabetes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFBnTDNtU0MwUGpnM21PUzRDR245Z3kwNENWY01KaklKeDNLVEoxRW0xSU4zV29MN1lmSHFhNnVERXBkNDVMZ2puZk9OWXViUWgzUjhacWxOVjVVMldGaG93MVQyLVZyMlk4ai1sR2xyTzVQdzIwME9IcUYyZG5TM09hQXRKeDlGMjR4ZTFad3R1bWRHa29IeVpxc2w4VUNjZ2tYSU5XN2h4QQ?oc=5)
 
@@ -62,11 +70,19 @@ permalink: /news/ustekinumab/
 
 ---
 
+### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+---
+
 ### [Aurelio Rojas, cardiólogo, avisa: "Estas carnes aumentan enormemente el riesgo de enfermedades de corazón, diabetes y mortalidad"](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
 
 2026-08-11 <span class="news-indication-tag">diabetes</span>
 
-來源：[sport.es](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
+來源：[SPORT](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdm9RVTNQbnBtQlczQTFMUXotM3ZzM3NBOUV3RXcwbTZZalhEZTZ1SThvTkpqR2x1bDFRSzRFaHZ2eE1aN1RDYUIyR2VMVVJ2Y0lnQk5fZjhMRExQQkVTRExtVmp5b1I3eTdBaVl0aTE3X3B0cWdTMWdGS1h4TWlDb1UteE5aVWxVbkREcmxOa1RhcnlOcGthbUpiTHdVUkdrZEM2Z252YlNRVHhUaG5zTlN6cXl5RTYt0gG4AUFVX3lxTFBYNjNtRmlwWldKa0xpQU1CYzVndFBtMmNsOGNZMzNyajRVcWJsY01DZ0NNVUtaU3R4RkNzVDNEdmdHNnhUY2NwQ1FlQzF3cGdfU3R0eEpVaHk3ejR0RW5wUG1MaGtLemhYdUZQZmFELXR3LTk5enYwUk1RZ3BUS19iRk1NZUNFUDAwQUYtaFR3ZjZERTVUOXYtT1JpRmJ5U1ZoQ0Zodk5OTHFhWFdTSFNOOFIzN2ZKWmY?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ permalink: /news/ustekinumab/
 2026-08-11 <span class="news-indication-tag">diabetes</span>
 
 來源：[Diabetes-Kids.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWRod013c2JJbFAtMTk2LUMxTzhEa2FSMVptTl9CQTk0c09mcnRSeHFraWN3ZElGV0pZVWxMUnVXc3FvVXd4Zk1RUktmeXdEdFVMOHZEQTJTTzNfTlo0ZXZsdE1HbV9tanN5LWlNb1lWVEI1Nm1PVXg1RWFqWXR0ZU5CeHpnQWV3dy1xaEFNbk5QemdrLW5tbXA4X2kyV2wyVWVXTFZTUklybkhOZ29yMlpBczMyQ3c0UlVXUE1RejNLOVl3ejQ0?oc=5)
-
----
-
-### [Sin hipertensión, diabetes y tabaco: 13 años más de vida sin demencia - El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-來源：[El médico interactivo](https://news.google.com/rss/articles/CBMicEFVX3lxTFBLcE94U2ZqX2dwLVdSUnFfdUpTeGRpRXd0Q0wtUDVZeHlfR1VmblBJMERpWlQ1bmxmSy0yVUlLZXhELVRtNXhwU01sbmVTOTlQR1ZGamVMc0RBM2M3SXM1ODJaWGVJRkVhY2w2ZEczR0o?oc=5)
 
 ---
 
@@ -110,6 +118,14 @@ permalink: /news/ustekinumab/
 
 ---
 
+### [Seltene Gen-Variante liefert Therapieansatz für häufige Stoffwechselerkrankungen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+2026-08-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2NpRjJIaG5HOXdjVTNyVExEdzhrc2VmeTVMVUFncENzVUJ5M1pnTzk5Z1hXeXNpTVVJU1NLMXRObGp1ZDB0aGVhX3BTT1JBUmdTbTVwRUttaHkyNEM0WUNEeEJ6UUlNa2trVVlWWnlLX3U5c1NIY0ZxZ0hINHhSRDJ5a2lPTmh2X1g4djQyZjFUNHlRdlNhSW9POWhHMXVHeGV0V2RLajhyWk5PWkxYazRXdFh5TFlzTmNTY084VmdxbVB5cXFiZ2w0X3FHa01UNS1QTXlfWldIeFlmaGtGU0xLaw?oc=5)
+
+---
+
 ### [Diabete: aggiornati i criteri per il monitoraggio della glicemia - ASUIT Trento](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenlOeXFfOHZ5bS02dXFZQXVSVmh2R3k3RVVRaWVneEpJM2puaDA5UWU4NjVicENpVE1ONUtxcWd1NGFxa19oX1JfcnZTTXpGYlFYUF9JTGVpZW16amFET29vRHlnWWhpTjJXb003QUhPc1pfZ2ZUQUlwQnVKYVZNYUVxckd2eG5hcE1oblQ0a2NqV2phV2c?oc=5)
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
@@ -122,7 +138,7 @@ permalink: /news/ustekinumab/
 
 2026-08-10 <span class="news-indication-tag">diabete</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2c4QWlDVF8weml2TGxnUVBkbllreDYtbG05bnpzejdvRi0xVjhqZmNGRWl5RWZiTklSWWVtVmRpRTBNVEwtaXRQNUdFYjM3d2pyR3NHTmZRVjh0Zi1CcVJkWl9YcnRNYjVOZGtxa2xDbnFVaWJ0VmpfM2RFVlg1WG9oTTlaOFJGazVDVElnNzd4OE96c3dDVDFWZmRIS0ZCdkl1R0wzM1JNN1dsRF9aNjFDTQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ozanimod-hydrochloride/
 ---
 
 <p class="key-answer" data-question="Ozanimod Hydrochloride 有什麼相關新聞？">
-<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Ozanimod Hydrochloride</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/ozanimod-hydrochloride/
 <li>relapsing-remitting multiple sclerosis（97.7%）</li>
 <li>dense granule disease（97.5%）</li>
 <li>colonic neoplasm（96.7%）</li>
-<li>psoriasis（96.4%）</li>
+<li class="indication-matched">psoriasis（96.4%）<span class="indication-tag">📰 psoriasis</span></li>
 <li>cecum villous adenoma（96.2%）</li>
 <li>rectosigmoid junction neoplasm（96.1%）</li>
 <li>lipoma of colon（96.1%）</li>
@@ -52,7 +52,39 @@ permalink: /news/ozanimod-hydrochloride/
 <p><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（31 則）
+
+### [RD Congo dice que 2.000 personas han muerto en el brote de ébola de más rápido crecimiento registrado - CNN en Español](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVpyWnoxZHVTcVRLY29nLU44QnN1a09aZW9TZFctUzZ4OXFzT05QZWxXVUh2SWRjeXI2ZHJhQzlXWFNwczNUbDJpWms3UmhoekFCZGYwWXRVV3RzZW5WV3lfMDRRa3Y4NU03dnZKRjBrRTMxZ3h4Y3FrNllpR2dhWlVyMkxPRDA?oc=5)
+
+2026-08-11 <span class="news-indication-tag">MS</span>
+
+來源：[CNN en Español](https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVpyWnoxZHVTcVRLY29nLU44QnN1a09aZW9TZFctUzZ4OXFzT05QZWxXVUh2SWRjeXI2ZHJhQzlXWFNwczNUbDJpWms3UmhoekFCZGYwWXRVV3RzZW5WV3lfMDRRa3Y4NU03dnZKRjBrRTMxZ3h4Y3FrNllpR2dhWlVyMkxPRDA?oc=5)
+
+---
+
+### [Brustkrebs: Dieser Pflanzenstoff zeigt starke krebshemmende Wirkungen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFBsTUhucnYyWkxNWl9aRmdrTzRVUjJ6bGRtVGlTNDVsNUY4Um0tanQ0WGJWMG8wMTZqTkJHMXEyWlVXTjBYNXAtMElhWi1oczkyWTVWdXBoS0ttd08yd3BGRHRXSDZ1R3IwRFhjeWUzRGtBV2tnUXg1U1VjZHo4QkVZVEZpdVl3U0JEQTRvREFKZ0FhYnBwWTRpZEFOaThzTVpsX1lIc3NYUlRZN3Qxc0ZzSU41M2xpLWJuZnIwQjdnRGJYcFAxdg?oc=5)
+
+2026-08-11 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+來源：[Heilpraxis](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFBsTUhucnYyWkxNWl9aRmdrTzRVUjJ6bGRtVGlTNDVsNUY4Um0tanQ0WGJWMG8wMTZqTkJHMXEyWlVXTjBYNXAtMElhWi1oczkyWTVWdXBoS0ttd08yd3BGRHRXSDZ1R3IwRFhjeWUzRGtBV2tnUXg1U1VjZHo4QkVZVEZpdVl3U0JEQTRvREFKZ0FhYnBwWTRpZEFOaThzTVpsX1lIc3NYUlRZN3Qxc0ZzSU41M2xpLWJuZnIwQjdnRGJYcFAxdg?oc=5)
+
+---
+
+### [Doctor warns of three invisible cancer symptoms millions dismiss as getting older - GB News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRlZIckNfdnI0UE9fbWhkSjN3cURhN21ZbGF0azJyVndGN0tpcUJ1Snd2LWtQRzNTTDdhanJPaV93Z2JDNm5vMkZiOFdrd2ZhUlRJcEZlaGpzNk5ZVkQwUDV5S2RobXdlMmJWRlBGYW91WkI3Ulk0alR6ekZpZw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+來源：[GB News](https://news.google.com/rss/articles/CBMifkFVX3lxTE5lRlZIckNfdnI0UE9fbWhkSjN3cURhN21ZbGF0azJyVndGN0tpcUJ1Snd2LWtQRzNTTDdhanJPaV93Z2JDNm5vMkZiOFdrd2ZhUlRJcEZlaGpzNk5ZVkQwUDV5S2RobXdlMmJWRlBGYW91WkI3Ulk0alR6ekZpZw?oc=5)
+
+---
+
+### [Cómo tratar la psoriasis desde dentro - Libertad Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMzB5V0ExdHlmNDhpRHA2SXlpcjBCaDBmSWpPaFBtTFNEaTctWVliNUtxV1daSTRNYVRVUk1HcGRlalMydWZNS3lCaWJVdU16WV9wNFhQX2t6cXdOdFhhVVpJVk9EVFc2Q0Q0cml3NWhTVzRNMlUzd1EwRnpuZFhGVjNRbkZCTFBZSWVjRWZXdXZUOHJKeUFsZ0M1TXgzS19vU2RCN2E0Yjd0cVBDcHpsVHbSAb8BQVVfeXFMT0FrVVZGbE15YXpSS2tiNFg4YlZzTjBEbFZHRF84Q2FQeC1BYUhxZ1pWMDVpNGV3dUdLemNjcUpFRFVRNkI2RWNmX2hCWHFvMEtmMWZJWG9vTmhqem1wemoweWxvejI3NzNPLXFEYl9QMDNObjVwQ0tsYXNJSzllRG5QTWFfNmF3TU0wNm1fa2dUaE9xYkVPNkliSGh1NFM4N1M1cVVFc0RrUy1ob2RnMmFhNjdEVEYyRGw2VVVHbmc?oc=5)
+
+2026-08-11 <span class="news-indication-tag">psoriasis</span>
+
+來源：[Libertad Digital](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMzB5V0ExdHlmNDhpRHA2SXlpcjBCaDBmSWpPaFBtTFNEaTctWVliNUtxV1daSTRNYVRVUk1HcGRlalMydWZNS3lCaWJVdU16WV9wNFhQX2t6cXdOdFhhVVpJVk9EVFc2Q0Q0cml3NWhTVzRNMlUzd1EwRnpuZFhGVjNRbkZCTFBZSWVjRWZXdXZUOHJKeUFsZ0M1TXgzS19vU2RCN2E0Yjd0cVBDcHpsVHbSAb8BQVVfeXFMT0FrVVZGbE15YXpSS2tiNFg4YlZzTjBEbFZHRF84Q2FQeC1BYUhxZ1pWMDVpNGV3dUdLemNjcUpFRFVRNkI2RWNmX2hCWHFvMEtmMWZJWG9vTmhqem1wemoweWxvejI3NzNPLXFEYl9QMDNObjVwQ0tsYXNJSzllRG5QTWFfNmF3TU0wNm1fa2dUaE9xYkVPNkliSGh1NFM4N1M1cVVFc0RrUy1ob2RnMmFhNjdEVEYyRGw2VVVHbmc?oc=5)
+
+---
 
 ### [MSD Animal Health y Vet Partners continúan luchando contra la rabia en Malawi](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmlJbjF2VkxISkV3T3ZMNFZlLUx4SEJac2RMc2tVZEtXM0xMdDlzeWtveHVJTGRQVXVVOVJwTFhnd25hWUZqcC1yN3lVWjNKcVV3S25EdDlUTVpMaWxWYlNQOGxJRENtYVVuWWtzNHNvV25FUnNxMUVHWDBDajFDR3JHS2k1emE1enBZTW9WZlM1RTFOVU9fWEQ0dFJKUUFXVFlHcE1jX1A0VXdFbGfSAbMBQVVfeXFMTzJwbi1FTnlTYjh4TmRkckVibnJsUEVIajN3ZkFtWVExenY5cjMxeWZkZ3ZqSnAtZGlZOWk3Q0hWakdhZGt3bG5mc0pIM2JxVjFYQWNUQzlxQkZKdjBzMmJFX3FpYkFyZzJSb3JUb1BNZ3lMSjBteEp6ZTRta1A5OWphY2RHQTdNTjA2VVJabXJXQVgzZGVIZC1uR1djbDRNM3QtUEVHSy1nU3NlY3VHNVQ0anM?oc=5)
 
@@ -62,11 +94,27 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Epidemia de ébola supera los 2.000 muertos en RD Congo y se acerca al brote más letal](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnhiRkxwdXRzZE1zQWl1UlcwN2VVNkM4TDZaQVY1UU9sQW1qa1REdE5YMC1nOUdtYXk1cTNzYmdxMVNCRHVyRlF2TTdXMXppdmVCZjdHUVEyRG5ZUjdnNGVycnBleHlUdnJBdEFLYUJNTmw2RUVDS3dReVJXTXNvdk44RThsWDdHYXFHdUtmZUxzWUxCeVk3bzJwNFVpeTc3MFJyOEpTN0ZqLWtONE9aWU5jZzdfcHNpZGJBd2Q3cGs5eUZEWmRzWUc3Z1FRNHYtSGh1S1FYSk9WSnZ5?oc=5)
+### [Belly fat predicts heart risks better than BMI - The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
 
-2026-08-11 <span class="news-indication-tag">MS</span>
+2026-08-11 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span>
 
-來源：[RFI](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnhiRkxwdXRzZE1zQWl1UlcwN2VVNkM4TDZaQVY1UU9sQW1qa1REdE5YMC1nOUdtYXk1cTNzYmdxMVNCRHVyRlF2TTdXMXppdmVCZjdHUVEyRG5ZUjdnNGVycnBleHlUdnJBdEFLYUJNTmw2RUVDS3dReVJXTXNvdk44RThsWDdHYXFHdUtmZUxzWUxCeVk3bzJwNFVpeTc3MFJyOEpTN0ZqLWtONE9aWU5jZzdfcHNpZGJBd2Q3cGs5eUZEWmRzWUc3Z1FRNHYtSGh1S1FYSk9WSnZ5?oc=5)
+來源：[The Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxNazBPeUNRdWNsN0FubkdkR1NLSG1FaENwa2VZT2ZMUDFKZk9CQWFCV1JJbkM3NVJLbFJTVnk1cGFRQUU4aTdQekVieThZY2JseTRCdEJGZEVzYWdXUld1X056VjZkWDRnQkFkODFzbzlRYWJEQ2t6QldURTNPWkpyVENOX0Q3WURBUVV5WWRxX0VsZw?oc=5)
+
+---
+
+### [‘Gym penis’ – what it means and whether it’s actually a real thing](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
+
+2026-08-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+來源：[PinkNews](https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0RmcWlVT01EV3dZX0tTV0VtU1lqVG1Oa3llZE9NLUlpY0Y0S0VkTEVDS2NyVDZBWGFPeVZQMGVzOHozd0hBRzRvVmVIa0xkNHBZbXdfRXoyU2lkMHZWU0laVEo1dDIzNzNkZ0VIRmwwMkx6SEtCVUVZM3pPcVRad2V0NUtXQWc?oc=5)
+
+---
+
+### [Thymushormon könnte vor Inflammaging und Krebs schützen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUU1BbG50UE05aTRMSFlLTzBQU0F2dWtWYXp2VG1BY1RxZ1J0UFAwcEtRcUJfaHczRjQ5djN5T3VCRHVKdGFIRHFGd2JsbkhxMXJvaU9yb25samlTVXUxQ0VPcnhyMm5TTTBqeVhLNGJ4Vk5ZNDN2ZU8xNmRZaUw0RV82dEFBbl8tcFRCMnBaVzFzX090SGZmVGhkQVBSQ1Fza08wVzVicEtENkpXdVNOR1p0MjNleS1MNlltU3lCUkp1Zw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">Krebs</span>
+
+來源：[Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUU1BbG50UE05aTRMSFlLTzBQU0F2dWtWYXp2VG1BY1RxZ1J0UFAwcEtRcUJfaHczRjQ5djN5T3VCRHVKdGFIRHFGd2JsbkhxMXJvaU9yb25samlTVXUxQ0VPcnhyMm5TTTBqeVhLNGJ4Vk5ZNDN2ZU8xNmRZaUw0RV82dEFBbl8tcFRCMnBaVzFzX090SGZmVGhkQVBSQ1Fza08wVzVicEtENkpXdVNOR1p0MjNleS1MNlltU3lCUkp1Zw?oc=5)
 
 ---
 
@@ -75,6 +123,14 @@ permalink: /news/ozanimod-hydrochloride/
 2026-08-11 <span class="news-indication-tag">MS</span>
 
 來源：[iSanidad](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHFiazBjMnpqWWNiLWNaTGRtUlRjY2dNVXkwZzZmMzhqeVIydjVVYkNFdGNUS0tCYV9DTTZQZzVqV3VhcVJDMXU1WUtjMmZZX0IxdXJ0UjVreWhmUzFYdkZWQVpicktfY2U0ODBRcXhOc0xRaGV6eWQzVTd4QnNxTGd2NHE3MHd0b2lGS3VveFd2NDRZWDEyNkRrWXg2MHpwbEFlZXVacWJmdzBUYXVncGo0S2ZOcnoyNHJ1RU1RdnVGQWNNUlJiYjIzUVFYcGFhX1Z3MXlVU2NUb0RNcVZRQUpB?oc=5)
+
+---
+
+### [Los expertos en longevidad coinciden: tres factores pueden marcar la diferencia y añadir hasta 13 años de vida sin demencia - El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">MS</span>
+
+來源：[El Economista](https://news.google.com/rss/articles/CBMitAJBVV95cUxPb2xpQ0s1ZllIdVJpejFoUlcwMDZMQzZ6TW5LN0NCNmxRWTRkaWFXYzNuTTlqUXJ6VUw2OW9KcmZrTnZTZmJvTkc2YV9xRkJYZUxWY0d2anFoVkVaSFZUWWY0eXBuaHkwdjF3UFh3cHIxYVRFRWpIMTZCOGlHR20zSm56U2x0N0VCa2YxTG1RdUtQNEtiUVVRTzdNbC1ESDNzVHdzZGNtR25ZUWZkUTlOTTFWLUFsU3FDSWMxQkk2dVNkNFo2UVU2WUpSTWkwTlBLMlNDSjdfTjd4X1lwNktENGstZVNjd1NKOWJScWdGQmZEQVR1bkFGWWl1YlY4YTM3N1ZNNE5qTmQzLXV3UlE5R1Blb1hsMUY2dE5yX1Z0b09GV0prNUhDV1ZZMnIzQlhpY3Qxbw?oc=5)
 
 ---
 
@@ -94,19 +150,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Longevity: Dieses Mini-Organ könnte laut Studie vor Krebs schützen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0c1TGpIajE4UFlRamVEaDVMb0N4SjM3Tng3TzFpUDhLNmloRTNuN09ZR2FJNWJtSWRTMUNRbk1UNnhQUVA1dlZ2Um02VzdpNm40VWJxeDhFZGxwVjRTQkU5NXFlcTI4S0p4a3JSaU5TME9XN2NPZ3JrTjd2clAxOUFqLUVHQ2stSnFyc3B3a3pUTUZZdEhtODVRU1l3UXI2MXZIblVpaTZ6SFVSQ0FxeFNqUl9Rb2owbXRVanRjdnMxc25fZi1FOENuWQ?oc=5)
+### [I’m a mosquito expert – this is why some people get more bites - The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3IxNVRRMnVCbHgtWlVOYUhZUm1la3V3WUJ6SkpJSVhKZVpXQ3pnMHgyaWxsa3FMVXVwb1pYTlFBemtEMVBNQ0RHVlRKS000UTczdy1BRUIycnpzX2lVdnZMYVZVV3J4d2VaMHJ4OVJncTd4N0NsRHluUDZmdTZTVDRYR2xFWjBwNDdOU3J3?oc=5)
 
-2026-08-11 <span class="news-indication-tag">Krebs</span>
+2026-08-11 <span class="news-indication-tag">MS</span>
 
-來源：[Berliner Morgenpost](https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0c1TGpIajE4UFlRamVEaDVMb0N4SjM3Tng3TzFpUDhLNmloRTNuN09ZR2FJNWJtSWRTMUNRbk1UNnhQUVA1dlZ2Um02VzdpNm40VWJxeDhFZGxwVjRTQkU5NXFlcTI4S0p4a3JSaU5TME9XN2NPZ3JrTjd2clAxOUFqLUVHQ2stSnFyc3B3a3pUTUZZdEhtODVRU1l3UXI2MXZIblVpaTZ6SFVSQ0FxeFNqUl9Rb2owbXRVanRjdnMxc25fZi1FOENuWQ?oc=5)
-
----
-
-### [Pancreatic Cancer Specialists Getting a Jump on Daraxonrasib](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHpBcjlfaU84ZHpGZkczeGgyUHptTjFEc2hoYnlsMXRpeEY4enppdXRaY19DckZPVjNlRHlDZG5QTmd1UUotR192MVp3bDlHbDNrQVdTdkstZ3gxMERJZ3dxbENjMzlGVVBIM2VjZ0lUV0JMQVVONHRvbGRMZVhzb2h2R3IwRXZGN29WUFFYQndVdzNnNkNlaWpqRm50bzBYWng1cjRPc0U?oc=5)
-
-2026-08-11 <span class="news-indication-tag">cancer</span>
-
-來源：[Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTHpBcjlfaU84ZHpGZkczeGgyUHptTjFEc2hoYnlsMXRpeEY4enppdXRaY19DckZPVjNlRHlDZG5QTmd1UUotR192MVp3bDlHbDNrQVdTdkstZ3gxMERJZ3dxbENjMzlGVVBIM2VjZ0lUV0JMQVVONHRvbGRMZVhzb2h2R3IwRXZGN29WUFFYQndVdzNnNkNlaWpqRm50bzBYWng1cjRPc0U?oc=5)
+來源：[The i Paper](https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3IxNVRRMnVCbHgtWlVOYUhZUm1la3V3WUJ6SkpJSVhKZVpXQ3pnMHgyaWxsa3FMVXVwb1pYTlFBemtEMVBNQ0RHVlRKS000UTczdy1BRUIycnpzX2lVdnZMYVZVV3J4d2VaMHJ4OVJncTd4N0NsRHluUDZmdTZTVDRYR2xFWjBwNDdOU3J3?oc=5)
 
 ---
 
@@ -138,7 +186,15 @@ permalink: /news/ozanimod-hydrochloride/
 
 2026-08-11 <span class="news-indication-tag">tumor</span>
 
-來源：[Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
+來源：[mondosanita.it](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVNlcjZhVE1SUmxTX0dnTEV2M2E4aGxscXpkdm1jX3ltemVraTdZczdfbURlRXJBY3hJNFByZUctS0ltc0ZOS0NMZkZGNHNEMWJSM241Q05fQnJSaFhpZm8wa25EeEVka21lajAyWWwxelRjN0pyelZZU0xnRzVQMFFwRzg5N2JpQkdMR2pRY1p4MzJwY3ZIT2plV2ZDdzZNRFE1MEFCVnpXTzBVWUlOSmZVNFMzUWlTbURONTgtay1QOGMxUGJZaWsyMTA?oc=5)
+
+---
+
+### [Traditional prostate cancer risk factors do not predict hormone therapy benefit, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzlsU1hHSjAtdVk2V0JsdXJmbzZmY25JSHNMNkVSUE0wOU93YmRoRFhtRVVzUlYzRzdxYkVub2tYZFoxOXhENGxuZTZiYTZSTXRYall2T1RfYW83VlBQOFE1U0prX3ZVWGZxdGtPc1l6ZTl6ZEFiazdhR09wZWRlTmhyNTR4U1RDSkM3RzF2Vng?oc=5)
+
+2026-08-10 <span class="news-indication-tag">cancer</span>
+
+來源：[Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzlsU1hHSjAtdVk2V0JsdXJmbzZmY25JSHNMNkVSUE0wOU93YmRoRFhtRVVzUlYzRzdxYkVub2tYZFoxOXhENGxuZTZiYTZSTXRYall2T1RfYW83VlBQOFE1U0prX3ZVWGZxdGtPc1l6ZTl6ZEFiazdhR09wZWRlTmhyNTR4U1RDSkM3RzF2Vng?oc=5)
 
 ---
 
@@ -166,11 +222,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Breast cancer screening guidelines discriminate against families like mine | Brief letters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWW9Dcnh2bTktNlduSGEtTENyeV9UUC1jdlh1Zk40cjV2ZDFCUk5STDc4bE1ONExHM1pHeW5TR1ByamlQM3RzOHE5VERWaEE3dFJjVlN3OVlSTzFiNG42YmZKOW9XM2I1bkQ5Mk1ERE9XcWMxeE1faExlb0doVFYydFE1dEh2RWc1cUhqWHZYRFlLek1KaWhLaG5JaTU5WUtBdF9hb2VXYWpqbjVXTVczc0s4QkdvcTlPS2E1SzNQaw?oc=5)
+### [Breast cancer screening guidelines discriminate against families like mine | Brief letters - The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWW9Dcnh2bTktNlduSGEtTENyeV9UUC1jdlh1Zk40cjV2ZDFCUk5STDc4bE1ONExHM1pHeW5TR1ByamlQM3RzOHE5VERWaEE3dFJjVlN3OVlSTzFiNG42YmZKOW9XM2I1bkQ5Mk1ERE9XcWMxeE1faExlb0doVFYydFE1dEh2RWc1cUhqWHZYRFlLek1KaWhLaG5JaTU5WUtBdF9hb2VXYWpqbjVXTVczc0s4QkdvcTlPS2E1SzNQaw?oc=5)
 
 2026-08-10 <span class="news-indication-tag">cancer</span>
 
-來源：[theguardian.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWW9Dcnh2bTktNlduSGEtTENyeV9UUC1jdlh1Zk40cjV2ZDFCUk5STDc4bE1ONExHM1pHeW5TR1ByamlQM3RzOHE5VERWaEE3dFJjVlN3OVlSTzFiNG42YmZKOW9XM2I1bkQ5Mk1ERE9XcWMxeE1faExlb0doVFYydFE1dEh2RWc1cUhqWHZYRFlLek1KaWhLaG5JaTU5WUtBdF9hb2VXYWpqbjVXTVczc0s4QkdvcTlPS2E1SzNQaw?oc=5)
+來源：[The Guardian](https://news.google.com/rss/articles/CBMivwFBVV95cUxPWW9Dcnh2bTktNlduSGEtTENyeV9UUC1jdlh1Zk40cjV2ZDFCUk5STDc4bE1ONExHM1pHeW5TR1ByamlQM3RzOHE5VERWaEE3dFJjVlN3OVlSTzFiNG42YmZKOW9XM2I1bkQ5Mk1ERE9XcWMxeE1faExlb0doVFYydFE1dEh2RWc1cUhqWHZYRFlLek1KaWhLaG5JaTU5WUtBdF9hb2VXYWpqbjVXTVczc0s4QkdvcTlPS2E1SzNQaw?oc=5)
 
 ---
 
@@ -206,11 +262,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [The CHEK2 gene caused my breast cancer. Why has no one heard of it? - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPSG0xeERKei05d2JLV3hXS1BnQVF5VXNGOFQzUmVWLXNwNXJqN3FyVGl1LVBUaUtxMEwwalhVQkZVVGFmdm1idHFVNXJjaTY4UWkwOFJTVUZGaVZjNi0tTUxnX2Q3TzEzTERkMVBXQ1VuYlppMmNUYzZLY2NKVjFRN3lsbm1OU0J2Q2ZyZGlYazlveDBDVjhpSjFhOW9hUQ?oc=5)
+### [El despliegue de políticas frente al alcohol evitaría más de 9.200 casos de cáncer en la Unión Europea](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">cancer</span>
+2026-08-10 <span class="news-indication-tag">MS</span>
 
-來源：[The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPSG0xeERKei05d2JLV3hXS1BnQVF5VXNGOFQzUmVWLXNwNXJqN3FyVGl1LVBUaUtxMEwwalhVQkZVVGFmdm1idHFVNXJjaTY4UWkwOFJTVUZGaVZjNi0tTUxnX2Q3TzEzTERkMVBXQ1VuYlppMmNUYzZLY2NKVjFRN3lsbm1OU0J2Q2ZyZGlYazlveDBDVjhpSjFhOW9hUQ?oc=5)
+來源：[iSanidad](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FySTN6QU9WZWprVnRuSzk0eHpnanlXOFM0NHNoRTZrblJ6OXpCcEx2ZlpkdFNlcm9EcTFfM0xFZ2VBWDIxQ1JBV1JTQUVmNTRVcFRoaFhxc3h1c0RHVUViMVljV2dvWE90dmE3QktRMVpzUXp2anlEc0pFbFA3Z0s0OWJPZ3ZTOUhITGdnV3luTVE3N2VWVWtSbE5ZcGFYeVBqdzNVY3Q2QVdpNFlRcUg1aVpocm9pcEw3SEF2NXBjMmExVmtTOXUyTQ?oc=5)
 
 ---
 
@@ -222,19 +278,11 @@ permalink: /news/ozanimod-hydrochloride/
 
 ---
 
-### [Farmaci, allerta Aifa sul Litfulo: rischio per tumori, infezioni e trombosi. Le nuove indicazioni. Per quali cure si usa - Il Messaggero](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWFOUHJaY2VRUzhUTkFEY2xfS1JsZ0Z2WnJMNGtPSzUwbEdEYmJ2bnZJNU5pVE1yaGN4NS1fRXcxY3U0M0xBRTVFeDNFQzFmZU94a3B2LWNnd3lxbktXTjI5aER2eUttR0pqY1lVZFk4NHJJb3lXRzlXQXRXNVJZaThTMGdIa3pDZm12OXRxSnk1WGoxLVdDcWJZMklxaVRha0pqZ3YwZUQ0X3FvWk1qZFNMaHlacldBa21IaNIBugFBVV95cUxObl83RktmU2NnYnV2WmVSNk5NQmxvVUJ2QjB2Rmxzbk5YX09rOXNKS01fUkxlLXdpQVM3VUhlY3hiVlUyOW9RVmI4UmVaeUZveUYwOEhPTmM4NS1Kc2ZmVUNGVWVMZmRHYXNvMHB6YmxNTVJ0TmlocGZaUHVKTEVDSmNWOTNFcEpPMlNMdXhwMWlnb1lNMW0xX2J5Sm5ZUkRtUDVEWVNRVnV0Xy13U3NjekFnb3VhakFoY3c?oc=5)
+### [La OMS recomienda priorizar el estudio de la vacuna contra el ébola 'Ervebo' ante el brote del Congo](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFhERVNqVlQzVC1vV2dLbzE0Z1FNem1YVmtIMEVScXVEMVh5aGM2SzIyel9ST3FGWVNxVUxEWGhMRWRBVkh6R3BFVnJQMnhmNWtlWm53TkdLZ0lzVm1tN3JDQjcwYmlYV3NqTGN0ZGIwbFQxNF8ydE5qMUszVnJoUDV0bnR4TnZoLWMxLTZDUkN3SFczaVJaa3dFQ01WOF9FRmstNDVzZFVia0pVWWktVkJTU3dvVFdVZ0hoM0RydDgwZlVCQzdDQkVkVmdnVEU2VU95M1dPdFZ1VnFidUxVdzJYQQ?oc=5)
 
-2026-08-10 <span class="news-indication-tag">tumor</span>
+2026-08-10 <span class="news-indication-tag">MS</span>
 
-來源：[Il Messaggero](https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWFOUHJaY2VRUzhUTkFEY2xfS1JsZ0Z2WnJMNGtPSzUwbEdEYmJ2bnZJNU5pVE1yaGN4NS1fRXcxY3U0M0xBRTVFeDNFQzFmZU94a3B2LWNnd3lxbktXTjI5aER2eUttR0pqY1lVZFk4NHJJb3lXRzlXQXRXNVJZaThTMGdIa3pDZm12OXRxSnk1WGoxLVdDcWJZMklxaVRha0pqZ3YwZUQ0X3FvWk1qZFNMaHlacldBa21IaNIBugFBVV95cUxObl83RktmU2NnYnV2WmVSNk5NQmxvVUJ2QjB2Rmxzbk5YX09rOXNKS01fUkxlLXdpQVM3VUhlY3hiVlUyOW9RVmI4UmVaeUZveUYwOEhPTmM4NS1Kc2ZmVUNGVWVMZmRHYXNvMHB6YmxNTVJ0TmlocGZaUHVKTEVDSmNWOTNFcEpPMlNMdXhwMWlnb1lNMW0xX2J5Sm5ZUkRtUDVEWVNRVnV0Xy13U3NjekFnb3VhakFoY3c?oc=5)
-
----
-
-### [L'Alsace à la pointe de la lutte contre la sclérose en plaques](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMk83UDhoaEZ3a3ZvcWpfQkVtTjluc194NWw0ek1sdTladDJSeU82c0x1VE16cmJaaWdIZW0zVE5JbnFYbmJqTkF6dE5KMFFtTlc3WDBxUDRsRW1mWkM1dDJjT0JjRHk5WVZ2Vk5FaVduNGRGZWxITUdIZ0tXbjRYR2VJemxfWmF5UWY5TEhlbE5lYVBvNk5YcFp5NzhTODJ3WktCSEZTWUJEZ3ZnV0dVOGxKOU9qRTNNbEtLdGE1RVk?oc=5)
-
-2026-08-10 <span class="news-indication-tag">sclérose en plaques</span>
-
-來源：[ici.fr](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMk83UDhoaEZ3a3ZvcWpfQkVtTjluc194NWw0ek1sdTladDJSeU82c0x1VE16cmJaaWdIZW0zVE5JbnFYbmJqTkF6dE5KMFFtTlc3WDBxUDRsRW1mWkM1dDJjT0JjRHk5WVZ2Vk5FaVduNGRGZWxITUdIZ0tXbjRYR2VJemxfWmF5UWY5TEhlbE5lYVBvNk5YcFp5NzhTODJ3WktCSEZTWUJEZ3ZnV0dVOGxKOU9qRTNNbEtLdGE1RVk?oc=5)
+來源：[consalud.es](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOFhERVNqVlQzVC1vV2dLbzE0Z1FNem1YVmtIMEVScXVEMVh5aGM2SzIyel9ST3FGWVNxVUxEWGhMRWRBVkh6R3BFVnJQMnhmNWtlWm53TkdLZ0lzVm1tN3JDQjcwYmlYV3NqTGN0ZGIwbFQxNF8ydE5qMUszVnJoUDV0bnR4TnZoLWMxLTZDUkN3SFczaVJaa3dFQ01WOF9FRmstNDVzZFVia0pVWWktVkJTU3dvVFdVZ0hoM0RydDgwZlVCQzdDQkVkVmdnVEU2VU95M1dPdFZ1VnFidUxVdzJYQQ?oc=5)
 
 ---
 
@@ -251,14 +299,6 @@ permalink: /news/ozanimod-hydrochloride/
 2026-08-10 <span class="news-indication-tag">cancro</span>
 
 來源：[Corriere della Sera](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1gzcTVBTTlHWFFUV3J1dTRPZFZaVFNBSEhuVWZXT25zRlhBNXl0TEhwSnBDWlRJNXVEUnVJTDAzRkMzZlZPQUhON0ZBTENkM2l1a05Fc1hXWG1BYzdybXNlbWhoUlRUemV5bk1PZ0hvYlVYV20xYl8tWDdoYUNQRnNZd3lsSnNaVHRQdmxTMXZQWGNKR1kyRW10X1VSbVhaa2R0T0FFWno0NGVSLVgyanBTTEdrMU45TC1SQlVIN2NmaFJ0a05ETktwaFJxYUNsN2Q1T3ltcFAwN0Fs0gHiAUFVX3lxTE1Sa1BWS19US2FSQzAxZFkwbl9YbW1WcTNYUmlBLUlZYzNRSUF0ZFVNNUI4NTU5MzBhX3pyZkt4SDRGalU2eDJ6LU4yN0NOeTFoeHQ0SUhzZ0lwVjVRQmtaM0RuNnE1eEtHeG1CSUtTbWhfTVpkRllfWURyZmxXYWpXNmFzc3pPYWEzTjNGWHY3RkNLMDVvTzJjc2pXcXFkVkh5c0UtQUllY29BSjd3X1FkT3c4dlllc1pDdml5SGhFZUxTekJaUFJ1dkhIdWI1dEllRTRqSHJmdF9uYzhVSU1rVFE?oc=5)
-
----
-
-### [The autism expert who says people are being misdiagnosed - The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
-
-2026-08-09 <span class="news-indication-tag">MS</span>
-
-來源：[The Times](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5)
 
 ---
 

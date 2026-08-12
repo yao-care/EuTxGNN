@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's（alzheimer disease） 相關新聞"
+title: "maladie d'Alzheimer（alzheimer disease） 相關新聞"
 parent: 健康新聞
 nav_exclude: true
-description: "Alzheimer's（alzheimer disease） 的相關健康新聞報導。4 則新聞、16 個相關藥物。"
+description: "maladie d'Alzheimer（alzheimer disease） 的相關健康新聞報導。5 則新聞、16 個相關藥物。"
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's（alzheimer disease） 相關新聞
+# maladie d'Alzheimer（alzheimer disease） 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Alzheimer's（alzheimer disease） 有什麼相關新聞？">
-<strong>Alzheimer's（alzheimer disease）</strong> 目前有 <strong>4 則</strong>相關新聞報導，16 個相關藥物。
+<p class="key-answer" data-question="maladie d'Alzheimer（alzheimer disease） 有什麼相關新聞？">
+<strong>maladie d'Alzheimer（alzheimer disease）</strong> 目前有 <strong>5 則</strong>相關新聞報導，16 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「Alzheimer's」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「maladie d'Alzheimer」相關的最新健康新聞，並列出 EuTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,13 @@ permalink: /news/alzheimer-disease/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [One cognitive ability stood out in a study of Western diets and Alzheimer’s risk genes](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdm9EQ0U2aWlNcGJoTHB2bEIwbER0TGg5OUU4alp4dlhySlk4TnhITHYwd2g2MEN6QTFZTmNMVjRVZVBmMERzUXZNLVFCLWk2LVhla3AyQTJYcnd6bWJSUF9vbFFQWUd5aEJiNTJMdXRSYVhzMlEyb2VXQUQ3b0dxdDdKemI4dzJCR0tVcWh1djEtMkVRalNMRW0tSkQ5MWpIeEpmWnJ3Y3J4VFFtQmF1c1RNTUhmRklCSFF5T1VSZF9ldHI1N1BmaWZBZjI1bUM1dkhSUXRn?oc=5)
+### [« Je suis complètement dépendant de ma femme » : à 85 ans, cet habitant de Saint-Dié raconte sa vie avec la maladie d'Alzheimer - Vosges Matin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
 
 2026-08-11
 
-來源：[News-Medical](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdm9EQ0U2aWlNcGJoTHB2bEIwbER0TGg5OUU4alp4dlhySlk4TnhITHYwd2g2MEN6QTFZTmNMVjRVZVBmMERzUXZNLVFCLWk2LVhla3AyQTJYcnd6bWJSUF9vbFFQWUd5aEJiNTJMdXRSYVhzMlEyb2VXQUQ3b0dxdDdKemI4dzJCR0tVcWh1djEtMkVRalNMRW0tSkQ5MWpIeEpmWnJ3Y3J4VFFtQmF1c1RNTUhmRklCSFF5T1VSZF9ldHI1N1BmaWZBZjI1bUM1dkhSUXRn?oc=5)
-
----
-
-### [“Taxi and ambulance drivers are less likely than workers in ...](https://news.google.com/rss/articles/CBMiakFVX3lxTE4xanpMN1BRekgxV1lpR1JlMEZaZU9oeV9rLW5hQndLOHI5TkdUYmFIalVkR2hCT1ItM1JiMXNNcE5rZ0xiOFpwVFctRHFPUnNnSVgtQ3lOYlk3UDE4TU9KTW1EWFdiY0ljc1E?oc=5)
-
-2026-08-10
-
-來源：[Kottke.org](https://news.google.com/rss/articles/CBMiakFVX3lxTE4xanpMN1BRekgxV1lpR1JlMEZaZU9oeV9rLW5hQndLOHI5TkdUYmFIalVkR2hCT1ItM1JiMXNNcE5rZ0xiOFpwVFctRHFPUnNnSVgtQ3lOYlk3UDE4TU9KTW1EWFdiY0ljc1E?oc=5)
+來源：[Vosges Matin](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFVWNkJXUF8zSFpmREFjejBsa2JUaTEwNWRHS09aUjhKZGJBT3pfNEhvWlJNcG1iam1YazFaR0RYSUFFU24yRzBwdlpxMjI0Vmg3RXVOQ3RJMUtuU05IYXVHRTE5Ui1jN2FHWVJUblM2cVBzUDljeTE2N1JuSGlOTmRCMi0yMkljWkpyM1Y5WHo3RFhPN3IzTTFYRXhFSnRsV0twWnhlbmRPQVZmYkU4SUFYU0U2T3lqbGJMRXVlQ1ZHVmhlLUt3VlZ6UjQ0TmNrUzEzeTNOOXZIbDFzVndJdk51M2RkZw?oc=5)
 
 ---
 
@@ -70,11 +62,27 @@ permalink: /news/alzheimer-disease/
 
 ---
 
+### [Ce médicament pris contre l'insomnie pourrait ouvrir une nouvelle piste contre Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlZQcm45dUhrcFhYb3lrSlNOLWNDbFd4X0paV3ZZenNOR0JZRWwxaEdLeTU5RDM4SnVENEw5MHQzMW96c19PblVsMGtWbnhudEtucXA5Vzk3bFp6a2pQMVRtQkVaZXdMNldBQ2tMS20zNFYzVGg1ekNPSDVwdDl3dlBrdmkzVGoxRzlVcWl4R09EVzkzc2V0UFM2WFBSTkphY3RmcDE1NUNNRUZxVlZWSnE3TEpPODlQd0FTX000OHFqbnVjcjByRVB1cldkOXdNN1dwak8tZElYeUVPYjI1OHJR?oc=5)
+
+2026-08-10
+
+來源：[Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlZQcm45dUhrcFhYb3lrSlNOLWNDbFd4X0paV3ZZenNOR0JZRWwxaEdLeTU5RDM4SnVENEw5MHQzMW96c19PblVsMGtWbnhudEtucXA5Vzk3bFp6a2pQMVRtQkVaZXdMNldBQ2tMS20zNFYzVGg1ekNPSDVwdDl3dlBrdmkzVGoxRzlVcWl4R09EVzkzc2V0UFM2WFBSTkphY3RmcDE1NUNNRUZxVlZWSnE3TEpPODlQd0FTX000OHFqbnVjcjByRVB1cldkOXdNN1dwak8tZElYeUVPYjI1OHJR?oc=5)
+
+---
+
 ### [Avoiding these three things could add 13 years of dementia-free life](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
 
 2026-08-10
 
 來源：[Euronews.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5)
+
+---
+
+### [Dementia: More than memory loss, what everyone should know - The Sun Malaysia](https://news.google.com/rss/articles/CBMidEFVX3lxTE85T1BuRkpxaUJqS0s0U2t2VjFIWHJhMVNOZzE2X25GM1NBMFR6TUY4VS15UVZoQWhkVDlCVVkwVzBhS3I3d3NWbUFKTjRCeThDUXhMY2c2cTRHWnJuTFhjbUNmNk00UFp2X0hheTZnNW5LR2lI?oc=5)
+
+2026-08-10
+
+來源：[The Sun Malaysia](https://news.google.com/rss/articles/CBMidEFVX3lxTE85T1BuRkpxaUJqS0s0U2t2VjFIWHJhMVNOZzE2X25GM1NBMFR6TUY4VS15UVZoQWhkVDlCVVkwVzBhS3I3d3NWbUFKTjRCeThDUXhMY2c2cTRHWnJuTFhjbUNmNk00UFp2X0hheTZnNW5LR2lI?oc=5)
 
 ---
 
