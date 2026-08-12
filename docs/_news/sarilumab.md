@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="Sarilumab 有什麼相關新聞？">
-<strong>Sarilumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Sarilumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ permalink: /news/sarilumab/
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [Morbus Crohn: Frühe Diagnose entscheidend für Langzeitverlauf](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
+
+2026-08-12 <span class="news-indication-tag">Morbus Crohn</span>
+
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEVPN0lyTDlDbFNkRnEyQnVtTjBIMG1HajFlc1Q4dW5kSmtpejdZRHRIcGJORjlINGJlOUQ3NTZFQjFzWWd3eHA2SU9ZcExITnFmNHZyNkxFcDJzdlBnTEx2TzFKdGRfMkFEZnh2eUR5M1p4OWdsVmxmZnBFVjBYSXBfQVZtZXFEX19DNmFsR0RBdVlsYU9DMTRfdlNFT1I3aFJVSUloTlZQNzdrYXNVWA?oc=5)
+
+---
+
+### [Studie: Darum haben Bauernhofkinder weniger Allergien](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTld3dUczMmVmOHNIMTN4YkpQc1haSkRQSklMOHRfOE9pQXZvSVJwdUlRRlpKeWxXUm95aUxYNmphVkQ5S2VXM2lnSjR6UVJ0eFJieVg3T194RGU1c2V0aTA0eHFzZ1dVa3paT3h1MTBDYUZwYlVNVGswa3E3b3VpT2JmNkFaN3AtY0hJOGpLS1BaSVZqeEo5MXRNVFhVUWpEV0pkT0V2cEpueThjemJ1dG1Idw?oc=5)
+
+2026-08-11 <span class="news-indication-tag">asthma</span>
+
+來源：[oekotest.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTld3dUczMmVmOHNIMTN4YkpQc1haSkRQSklMOHRfOE9pQXZvSVJwdUlRRlpKeWxXUm95aUxYNmphVkQ5S2VXM2lnSjR6UVJ0eFJieVg3T194RGU1c2V0aTA0eHFzZ1dVa3paT3h1MTBDYUZwYlVNVGswa3E3b3VpT2JmNkFaN3AtY0hJOGpLS1BaSVZqeEo5MXRNVFhVUWpEV0pkT0V2cEpueThjemJ1dG1Idw?oc=5)
+
+---
 
 ### [Viel Zucker essen: Neue Studie zeigt unerwarteten Effekt](https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEVzaHRzeFp6S0xxSXNKVHV6djhvWlJUR3VfWWlRclNXLVNVNjM1a3JzOFR0RmxMTUhIdHE1ekMyanV4SVNqbnJ2aGxnbWJQb1F6c0dvV1RZWlZLZEhVTVNEVW9DZXlPeHJ5bUtpZW9DTU5icDR6SERwRGRWdjB0UThVWmU0TE1QYUNtaG5NSzg0X25jWmgzbGtOd3Z6cENyMmJDb05RTWpBcEhI?oc=5)
 
@@ -62,19 +78,11 @@ permalink: /news/sarilumab/
 
 ---
 
-### [Faut-il vraiment croire au pouvoir du microbiote intestinal ? Ce que montrent les études sur le poids et l’alimentation](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
-
-2026-08-11 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">EPOC</span>
-
-來源：[RTL](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjZZTlU2OWV5QjBTbUxaQjl3ZUI1MVNXMFpDNXIxcWRUS2J4XzQ1NF81dkVXTk1XN1ptUVBoYUxGNjlwS05fNjJyTXcxcjRRWWpINFVta3NRbkRoNkRfbEJQTkdNeDBLOEZ4OEozWnByRFFlRWVPV05rLXpvWW1UQ0ZZLU1BZmk1WjRQN0VpZ1BVY1g4bWlTcVoxT3d2SUJpVFUwQXcwZ2R0ZkNHcHBuR2VackdkZzk2T05DdmxabHY4VG5Jd3ViYWVDRFpZSW1tQnVGVjcyeHJ1RWViQUdjSmxhVkJxMFlzcE9vc21uQQ?oc=5)
-
----
-
-### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+### [Rheuma und Herzgesundheit: Neue S3-Leitlinie definiert klare Standards](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
 
 2026-08-11 <span class="news-indication-tag">arthritis</span>
 
-來源：[AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
+來源：[ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEhaRS1kdTJjempSaDlybWctT0RTOXJiTUhWSENDMFd2TllGa1FOMnRZblp2V3g0YzlrOWgtVkN2N3BZdUlvalJ3V1hRNWpTcy0yTVB2SlRkbEExdWRfalN5cEpHbVIxbUtaYkJXSHppY29PakloaGZWcDFHOXdOQTVXRDVTZE5NUU1UWmdjcWpYWFhIdDMwVXFrOVZYR2J4Nk85UzhTUGVBVDJldVRCYTZ5bkFCZmxfbVE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="Eslicarbazepine Acetate 有什麼相關新聞？">
-<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 20 個。
+<strong>Eslicarbazepine Acetate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 20 個。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ permalink: /news/eslicarbazepine-acetate/
 <p><a href="{{ '/drugs/eslicarbazepine-acetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### ['Women feel guilt and anger' after taking epilepsy drug that harmed babies](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRXlXdnlGcGRZM0dOUkRyYjc4UWt5aFJ2TTRXYWliWmgzaEtBcGlIQmh4NDdoeWpHMlZvNUFDRHl1T0E1cnZmSUJxMzgtem8yM3YxVHg2TmFBRGFq?oc=5)
+
+2026-08-11 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
+
+來源：[BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PRXlXdnlGcGRZM0dOUkRyYjc4UWt5aFJ2TTRXYWliWmgzaEtBcGlIQmh4NDdoeWpHMlZvNUFDRHl1T0E1cnZmSUJxMzgtem8yM3YxVHg2TmFBRGFq?oc=5)
+
+---
 
 ### [SCN2A-assoziierte Epilepsie: Personalisierte Antisense-Therapie senkt Anfallsfrequenz – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjlObm5IVDdPdTIwY0puWmJGaG9DLVc2aEdrWDVhWmVxbnVaSTFONXg1SzEyVnphT2xrdDZDSmpUeWNsV05fODVfa0pjeWdlZEd6djdIMVB6bXczWUhUVllobkRsZVV5alI5UUtja2FjU1lHbXFxTTA0dk1lMXlyTThIR01yRndxRzJmM0RvcW1VSlFvVkYwUzFLT3lRbmFQUmlNeUZoQXhLWWVXUXptQVNON3o5U0Q2VG0xRzZsZUdSd2lsejdNbmF0bVN6YnRVakJvWEQteWhvLUVPdHVWVjhLeUFyQmZn?oc=5)
 
